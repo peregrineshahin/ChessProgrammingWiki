@@ -36,14 +36,14 @@ a German software developer and chess programmer, who with age 16 <a id="cite-no
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Thanks again for this (useless) Discussion](https://www.stmintz.com/ccc/index.php?id=472667) by Thomas Gaksch, [CCC](CCC "CCC"), December 23, 2005
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hypra-Chess from GB64.COM](http://www.gamebase64.com/game.php?id=10139&d=18)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [64'er Spielesammlung - C64-Wiki](http://www.c64-wiki.com/index.php/64%27er_Spielesammlung)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Commodore 64 Emulator - Computer Chess Game Collection - Hypra-Chess](http://www.spacious-mind.com/html/c64_emu_-_hypra-chess.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Toga Clone](https://www.stmintz.com/ccc/index.php?id=415992) by Karl-Heinz Söntges, [CCC](CCC "CCC"), March 09, 2005
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [A statement from the "Author" of Toga II](https://www.stmintz.com/ccc/index.php?id=416548) by Thomas Gaksch, [CCC](CCC "CCC"), March 13, 2005
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Posix ports of some recent version of Toga II](http://alpha.uhasselt.be/Research/Algebra/Toga/linux_versions/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Fruit Chess Engine by Fabien Letouzey](http://arctrix.com/nas/chess/fruit/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Thanks again for this (useless) Discussion](https://www.stmintz.com/ccc/index.php?id=472667) by Thomas Gaksch, [CCC](CCC "CCC"), December 23, 2005
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hypra-Chess from GB64.COM](http://www.gamebase64.com/game.php?id=10139&d=18)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [64'er Spielesammlung - C64-Wiki](http://www.c64-wiki.com/index.php/64%27er_Spielesammlung)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Commodore 64 Emulator - Computer Chess Game Collection - Hypra-Chess](http://www.spacious-mind.com/html/c64_emu_-_hypra-chess.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Toga Clone](https://www.stmintz.com/ccc/index.php?id=415992) by Karl-Heinz Söntges, [CCC](CCC "CCC"), March 09, 2005
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [A statement from the "Author" of Toga II](https://www.stmintz.com/ccc/index.php?id=416548) by Thomas Gaksch, [CCC](CCC "CCC"), March 13, 2005
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Posix ports of some recent version of Toga II](http://alpha.uhasselt.be/Research/Algebra/Toga/linux_versions/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Fruit Chess Engine by Fabien Letouzey](http://arctrix.com/nas/chess/fruit/)
 
 **[Up one Level](People "People")**
 

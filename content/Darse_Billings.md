@@ -68,18 +68,18 @@ Darse Billings is creator and director of *The International RoShamBo Programmin
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> At the semi-regular Tuesday Night Poker Tournament for chess [geeks](https://en.wikipedia.org/wiki/Geek) (photo: Jim Roy), [Photo Gallery: Darse](https://webdocs.cs.ualberta.ca/%7Edarse/Photos/Darse/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gamesys Corporate](https://www.gamesyscorporate.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Darse Billings - LinkedIn](https://www.linkedin.com/in/darsebillings/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mona and YL's Lines of Action Page](https://webdocs.cs.ualberta.ca/~darse/LOA/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [RoShamBo Programming Competition](https://webdocs.cs.ualberta.ca/%7Edarse/rsbpc.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CPRG Homepage](https://webdocs.cs.ualberta.ca/%7Egames/poker/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Poker Academy](http://www.poker-academy.com/company/)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Curriculum vitae (brief) Dr. Darse Billings](https://webdocs.cs.ualberta.ca/~darse/Stuff/cv-brief.txt)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [DBLP: Darse Billings](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/b/Billings:Darse.html)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [RoShamBo Programming Competitions](https://webdocs.cs.ualberta.ca/~darse/rsbpc.html)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Chess News - Embracing Risk in Tournaments](https://en.chessbase.com/post/embracing-risk-in-tournaments) by Darse Billings, [ChessBase News](ChessBase "ChessBase"), December 14, 2006
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> At the semi-regular Tuesday Night Poker Tournament for chess [geeks](https://en.wikipedia.org/wiki/Geek) (photo: Jim Roy), [Photo Gallery: Darse](https://webdocs.cs.ualberta.ca/%7Edarse/Photos/Darse/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gamesys Corporate](https://www.gamesyscorporate.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Darse Billings - LinkedIn](https://www.linkedin.com/in/darsebillings/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mona and YL's Lines of Action Page](https://webdocs.cs.ualberta.ca/~darse/LOA/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [RoShamBo Programming Competition](https://webdocs.cs.ualberta.ca/%7Edarse/rsbpc.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CPRG Homepage](https://webdocs.cs.ualberta.ca/%7Egames/poker/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Poker Academy](http://www.poker-academy.com/company/)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Curriculum vitae (brief) Dr. Darse Billings](https://webdocs.cs.ualberta.ca/~darse/Stuff/cv-brief.txt)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [DBLP: Darse Billings](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/b/Billings:Darse.html)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [RoShamBo Programming Competitions](https://webdocs.cs.ualberta.ca/~darse/rsbpc.html)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Chess News - Embracing Risk in Tournaments](https://en.chessbase.com/post/embracing-risk-in-tournaments) by Darse Billings, [ChessBase News](ChessBase "ChessBase"), December 14, 2006
 
 **[Up one level](People "People")**
 

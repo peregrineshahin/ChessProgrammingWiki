@@ -42,9 +42,9 @@ Qg6 25.Rg1 Qxg1+ 26.Kxg1 Re1+ 27.Kf2 Re4 28.Qf3 Kf8 29.Ba3+ Kf7 30.Qh5+ Kf6
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Villa Patio, [Kasbah](https://en.wikipedia.org/wiki/Kasbah), [Algiers](https://en.wikipedia.org/wiki/Algiers), [image](https://commons.wikimedia.org/wiki/File:Casbah_of_Algiers,_villa_patio.jpg) by [Toufik Lerari](https://www.flickr.com/people/24106950@N06), April 13, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev") (**1989**). *Report on the 1st International Chess-Computer Tournament in the USSR*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Villa Patio, [Kasbah](https://en.wikipedia.org/wiki/Kasbah), [Algiers](https://en.wikipedia.org/wiki/Algiers), [image](https://commons.wikimedia.org/wiki/File:Casbah_of_Algiers,_villa_patio.jpg) by [Toufik Lerari](https://www.flickr.com/people/24106950@N06), April 13, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev") (**1989**). *Report on the 1st International Chess-Computer Tournament in the USSR*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

@@ -64,9 +64,9 @@ and was also an early entry in the [ANU Carbon-Silicon Tournaments](ANU_Carbon-S
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Magic Circle](https://en.wikipedia.org/wiki/Magic_circle) by [John William Waterhouse](Category:John_William_Waterhouse "Category:John William Waterhouse") (1886), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [NC3 2005 - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC32005_-_List_of_Entries.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [2005 National Computer Chess Championships](http://www.chesschat.org/archive/index.php/t-2637.html) by [Shaun Press](Shaun_Press "Shaun Press"), [Chess Chat](http://www.chesschat.org/archive/index.php/), July 17, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Magic Circle](https://en.wikipedia.org/wiki/Magic_circle) by [John William Waterhouse](Category:John_William_Waterhouse "Category:John William Waterhouse") (1886), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [NC3 2005 - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC32005_-_List_of_Entries.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [2005 National Computer Chess Championships](http://www.chesschat.org/archive/index.php/t-2637.html) by [Shaun Press](Shaun_Press "Shaun Press"), [Chess Chat](http://www.chesschat.org/archive/index.php/), July 17, 2005
 
 **[Up one Level](Engines "Engines")**
 

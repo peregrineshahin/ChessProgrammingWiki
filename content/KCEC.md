@@ -27,7 +27,7 @@ Kirr's Chess Engine Comparison, a tournament rating list of original and free si
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [KCEC - About](http://kirill-kryukov.com/chess/kcec/about.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [KCEC - About](http://kirill-kryukov.com/chess/kcec/about.html)
 
 **[Up one Level](Engine_Rating_Lists "Engine Rating Lists")**
 

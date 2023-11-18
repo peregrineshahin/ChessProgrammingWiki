@@ -69,14 +69,14 @@ There were attempts to develop a new NICBase front-end by [Peter van Diepen](Pet
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image taken from a 1994 catalog
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New In Chess](https://en.wikipedia.org/wiki/New_In_Chess) was founded in 1984 by Wim Andriessen, evolving from the *Schaakbulletin*, see [Wim Andriessen, 1938 - 2017](https://www.nrc.nl/nieuws/2017/05/20/wim-andriessen-1938-2017-9332257-a1559685) by [Hans Ree](https://en.wikipedia.org/wiki/Hans_Ree), May 20, 2017
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New In Chess – Wikipedia.de](https://de.wikipedia.org/wiki/New_In_Chess) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Where to find the Atari ST-version of NiCBASE?](https://groups.google.com/d/msg/rec.games.chess.computer/CFEM8QjAXfA/fYWsDhrFKQAJ) by Conrad Hoogenboom, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 07, 1996
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Nicbase 3.0 -> Nicbase 2.0](https://groups.google.com/d/msg/rec.games.chess/Z4zAyoSQI3E/Cb3icdeewDYJ) by Soeren Fisker, [rgc](Computer_Chess_Forums "Computer Chess Forums"), April 18, 1994
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Marc Derksen](Marc_Derksen "Marc Derksen") (**1996**). *TascBase 2.0*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [New NicBase](https://groups.google.com/d/msg/rec.games.chess/sC54Cjt2af4/CjDxJTKvaboJ) by Nicolo de Groot, [rgc](Computer_Chess_Forums "Computer Chess Forums"), October 31, 1994
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [New In Chess - Chess Books, Chess Magazines & Chess Shop](https://www.newinchess.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image taken from a 1994 catalog
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New In Chess](https://en.wikipedia.org/wiki/New_In_Chess) was founded in 1984 by Wim Andriessen, evolving from the *Schaakbulletin*, see [Wim Andriessen, 1938 - 2017](https://www.nrc.nl/nieuws/2017/05/20/wim-andriessen-1938-2017-9332257-a1559685) by [Hans Ree](https://en.wikipedia.org/wiki/Hans_Ree), May 20, 2017
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New In Chess – Wikipedia.de](https://de.wikipedia.org/wiki/New_In_Chess) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Where to find the Atari ST-version of NiCBASE?](https://groups.google.com/d/msg/rec.games.chess.computer/CFEM8QjAXfA/fYWsDhrFKQAJ) by Conrad Hoogenboom, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 07, 1996
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Nicbase 3.0 -> Nicbase 2.0](https://groups.google.com/d/msg/rec.games.chess/Z4zAyoSQI3E/Cb3icdeewDYJ) by Soeren Fisker, [rgc](Computer_Chess_Forums "Computer Chess Forums"), April 18, 1994
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Marc Derksen](Marc_Derksen "Marc Derksen") (**1996**). *TascBase 2.0*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [New NicBase](https://groups.google.com/d/msg/rec.games.chess/sC54Cjt2af4/CjDxJTKvaboJ) by Nicolo de Groot, [rgc](Computer_Chess_Forums "Computer Chess Forums"), October 31, 1994
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [New In Chess - Chess Books, Chess Magazines & Chess Shop](https://www.newinchess.com/)
 
 **[Up one Level](Databases "Databases")**
 

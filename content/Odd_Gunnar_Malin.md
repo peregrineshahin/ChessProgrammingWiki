@@ -42,11 +42,11 @@ a Norwegian software developer, chess player and computer chess programmer, resi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Odd Gunnar seiret i høstmesterskapet - Vadsø Sjakklubb](http://vadsosjakk.no/nyhetsarkiv/klubbnytt/814-odd-gunnar-seiret-i-hostmesterskapet), November 19, 2017
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Vadsø Sjakklubb - Klubbinfo](http://vadsosjakk.no/index.php?page=klubb)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NorBase - Velkommen](http://norbase.sjakk.biz/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Magnus Carlsen from Wikipedia](https://en.wikipedia.org/wiki/Magnus_Carlsen)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Just Crafty GUI acept my 4 words UCI engine.... why?](http://www.talkchess.com/forum/viewtopic.php?t=55681) by [Luis Babboni](index.php?title=Luis_Babboni&action=edit&redlink=1 "Luis Babboni (page does not exist)"), [CCC](CCC "CCC"), March 16, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Odd Gunnar seiret i høstmesterskapet - Vadsø Sjakklubb](http://vadsosjakk.no/nyhetsarkiv/klubbnytt/814-odd-gunnar-seiret-i-hostmesterskapet), November 19, 2017
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Vadsø Sjakklubb - Klubbinfo](http://vadsosjakk.no/index.php?page=klubb)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NorBase - Velkommen](http://norbase.sjakk.biz/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Magnus Carlsen from Wikipedia](https://en.wikipedia.org/wiki/Magnus_Carlsen)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Just Crafty GUI acept my 4 words UCI engine.... why?](http://www.talkchess.com/forum/viewtopic.php?t=55681) by [Luis Babboni](index.php?title=Luis_Babboni&action=edit&redlink=1 "Luis Babboni (page does not exist)"), [CCC](CCC "CCC"), March 16, 2015
 
 **[Up one level](People "People")**
 

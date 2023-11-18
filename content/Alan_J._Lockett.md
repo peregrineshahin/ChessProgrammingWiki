@@ -39,11 +39,11 @@ which resembles an [evolutionary algorithms](Genetic_Programming#EvolutionaryAlg
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [NNRG People - Alan J. Lockett](http://nn.cs.utexas.edu/?alanlockett)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Alan J. Lockett (**2012**). *General-Purpose Optimization Through Information Maximization*. Ph.D. thesis, [University of Texas at Austin](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin), advisor [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Alan J. Lockett](https://dblp.uni-trier.de/pers/hd/l/Lockett:Alan_J=)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alan J Lockett‬ - ‪Google Scholar‬](https://scholar.google.ch/citations?user=fAhufycAAAAJ&hl=en)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Bellman equation from Wikipedia](https://en.wikipedia.org/wiki/Bellman_equation)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [NNRG People - Alan J. Lockett](http://nn.cs.utexas.edu/?alanlockett)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Alan J. Lockett (**2012**). *General-Purpose Optimization Through Information Maximization*. Ph.D. thesis, [University of Texas at Austin](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin), advisor [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Alan J. Lockett](https://dblp.uni-trier.de/pers/hd/l/Lockett:Alan_J=)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alan J Lockett‬ - ‪Google Scholar‬](https://scholar.google.ch/citations?user=fAhufycAAAAJ&hl=en)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Bellman equation from Wikipedia](https://en.wikipedia.org/wiki/Bellman_equation)
 
 **[Up one Level](People "People")**
 

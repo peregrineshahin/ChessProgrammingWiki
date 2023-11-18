@@ -89,13 +89,13 @@ For basic tasks such as generating, making/unmaking moves, a "pure" mailbox mayb
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A [fantastical](https://en.wikipedia.org/wiki/Fantastic_architecture) mailbox designed by [Frederick C. Sauer](https://en.wikipedia.org/wiki/Frederick_C._Sauer) around 1930 in the [Sauer Buildings Historic District](https://en.wikipedia.org/wiki/Sauer_Buildings_Historic_District) in [Aspinwall, Pennsylvania](https://en.wikipedia.org/wiki/Aspinwall,_Pennsylvania). Image by [Lee Paxton](https://en.wikipedia.org/wiki/User:Leepaxton) on May 16, 2010
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess board representations](http://www.craftychess.com/hyatt/boardrep.html) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [mailbox & CPW](http://www.talkchess.com/forum/viewtopic.php?t=48164) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), May 31, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The mailbox trials](http://talkchess.com/forum3/viewtopic.php?f=7&t=76773#p885878) by [Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen"), [CCC](CCC "CCC"), Mar 04, 2021
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [hgm-mailbox-trials/mailbox7b.c at main · maksimKorzh/hgm-mailbox-trials · GitHub](https://github.com/maksimKorzh/hgm-mailbox-trials/blob/main/mailbox7b.c) hosted by [Maksim Korzh](Maksim_Korzh "Maksim Korzh")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The mailbox trials](http://talkchess.com/forum3/viewtopic.php?f=7&t=76773) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), March 04, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A [fantastical](https://en.wikipedia.org/wiki/Fantastic_architecture) mailbox designed by [Frederick C. Sauer](https://en.wikipedia.org/wiki/Frederick_C._Sauer) around 1930 in the [Sauer Buildings Historic District](https://en.wikipedia.org/wiki/Sauer_Buildings_Historic_District) in [Aspinwall, Pennsylvania](https://en.wikipedia.org/wiki/Aspinwall,_Pennsylvania). Image by [Lee Paxton](https://en.wikipedia.org/wiki/User:Leepaxton) on May 16, 2010
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess board representations](http://www.craftychess.com/hyatt/boardrep.html) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [mailbox & CPW](http://www.talkchess.com/forum/viewtopic.php?t=48164) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), May 31, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The mailbox trials](http://talkchess.com/forum3/viewtopic.php?f=7&t=76773#p885878) by [Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen"), [CCC](CCC "CCC"), Mar 04, 2021
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [hgm-mailbox-trials/mailbox7b.c at main · maksimKorzh/hgm-mailbox-trials · GitHub](https://github.com/maksimKorzh/hgm-mailbox-trials/blob/main/mailbox7b.c) hosted by [Maksim Korzh](Maksim_Korzh "Maksim Korzh")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The mailbox trials](http://talkchess.com/forum3/viewtopic.php?f=7&t=76773) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), March 04, 2021
 
 **[Up one Level](Board_Representation "Board Representation")**
 

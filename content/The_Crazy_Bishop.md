@@ -68,15 +68,15 @@ This program is called The Crazy Bishop because it is a crazy project and a pun 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Art by [Kanthara](http://kanthara.deviantart.com/). The Bishop piece in French, is Le Fou (Foo), which refers to the crazy person - from [The Meandering Brick: Batman: The Rise of Senryu](http://wwwmeanderingbrick-mjd.blogspot.com/p/batman-rise-of-senryu.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [RFC 3092 - Etymology of "Foo"](http://www.faqs.org/rfcs/rfc3092.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Batman from Wikipedia](https://en.wikipedia.org/wiki/Batman)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ramat-Gan version of The Crazy Bishop](https://www.stmintz.com/ccc/index.php?id=377027) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), July 15, 2004
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Rémi Coulom's Home Page](https://www.remi-coulom.fr/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [App Store - The Chess Crazy Bishop](https://itunes.apple.com/us/app/id419524524?mt=8)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The Chess Lv.100 – Apps bei Google Play](https://play.google.com/store/apps/details?id=jp.co.unbalance.android.chess)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3), [FCCC 2002](FCCC_2002 "FCCC 2002"), by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The Crazy Bishop's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=12)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Art by [Kanthara](http://kanthara.deviantart.com/). The Bishop piece in French, is Le Fou (Foo), which refers to the crazy person - from [The Meandering Brick: Batman: The Rise of Senryu](http://wwwmeanderingbrick-mjd.blogspot.com/p/batman-rise-of-senryu.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [RFC 3092 - Etymology of "Foo"](http://www.faqs.org/rfcs/rfc3092.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Batman from Wikipedia](https://en.wikipedia.org/wiki/Batman)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ramat-Gan version of The Crazy Bishop](https://www.stmintz.com/ccc/index.php?id=377027) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), July 15, 2004
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Rémi Coulom's Home Page](https://www.remi-coulom.fr/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [App Store - The Chess Crazy Bishop](https://itunes.apple.com/us/app/id419524524?mt=8)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Chess Lv.100 – Apps bei Google Play](https://play.google.com/store/apps/details?id=jp.co.unbalance.android.chess)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3), [FCCC 2002](FCCC_2002 "FCCC 2002"), by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The Crazy Bishop's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=12)
 
 **[Up one level](Engines "Engines")**
 

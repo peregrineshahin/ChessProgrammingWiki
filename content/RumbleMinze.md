@@ -46,18 +46,18 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sexy](https://en.wikipedia.org/wiki/Sexy) [Warrior](https://en.wikipedia.org/wiki/Woman_warrior) [Polar Bear](https://en.wikipedia.org/wiki/Polar_bear) Rumple Minze [Liqueur](https://en.wikipedia.org/wiki/Liqueur) (1991), [Vintage Alcohol Ads of the 1990s (Page 3)](http://www.vintageadbrowser.com/alcohol-ads-1990s/3) ([Vintage](https://en.wikipedia.org/wiki/Vintage) ads are shown here in [fair use](https://en.wikipedia.org/wiki/Fair_use) context. Every gallery's images are © by their original company or artist). [Rumple Minze - Cocktails Wiki](http://cocktails.wikia.com/wiki/Rumple_Minze), The brand is owned by the alcoholic beverage holding company [Diageo](https://en.wikipedia.org/wiki/Diageo), based in London, [Rumple Minze from Wikipedia](https://en.wikipedia.org/wiki/Rumple_Minze) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alcohol from Wikipedia](https://en.wikipedia.org/wiki/Alcohol)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [2.5 Million Alcohol-Related Deaths Worldwide- Annually](http://www.ncadd.org/index.php/in-the-news/155-25-million-alcohol-related-deaths-worldwide-annually), [National Council on Alcoholism and Drug Dependence](https://en.wikipedia.org/wiki/National_Council_on_Alcoholism_and_Drug_Dependence)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alcohol advertising from Wikipedia](https://en.wikipedia.org/wiki/Alcohol_advertising)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Sex in advertising from Wikipedia](https://en.wikipedia.org/wiki/Sex_in_advertising)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [RumbleMinze : A New C# .NET Engine](http://www.talkchess.com/forum/viewtopic.php?t=43491) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), April 28, 2012
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [MadChess 1.0 Released (C# .NET Engine)](http://www.talkchess.com/forum/viewtopic.php?t=45723) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), October 25, 2012
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Question About CPP-C#, Performance, and Square Representation](http://talkchess.com/forum/viewtopic.php?p=485936#485936) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), October 03, 2012
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [yield - MSDN C# Reference](http://msdn.microsoft.com/en-us/library/9k7k7cf0.aspx)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Generator (computer programming) from Wikipedia](https://en.wikipedia.org/wiki/Generator_%28computer_programming%29)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Coroutine from Wikipedia](https://en.wikipedia.org/wiki/Coroutine)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Shooter (mixed drink) from Wikipedia](https://en.wikipedia.org/wiki/Shooter_%28mixed_drink%29)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sexy](https://en.wikipedia.org/wiki/Sexy) [Warrior](https://en.wikipedia.org/wiki/Woman_warrior) [Polar Bear](https://en.wikipedia.org/wiki/Polar_bear) Rumple Minze [Liqueur](https://en.wikipedia.org/wiki/Liqueur) (1991), [Vintage Alcohol Ads of the 1990s (Page 3)](http://www.vintageadbrowser.com/alcohol-ads-1990s/3) ([Vintage](https://en.wikipedia.org/wiki/Vintage) ads are shown here in [fair use](https://en.wikipedia.org/wiki/Fair_use) context. Every gallery's images are © by their original company or artist). [Rumple Minze - Cocktails Wiki](http://cocktails.wikia.com/wiki/Rumple_Minze), The brand is owned by the alcoholic beverage holding company [Diageo](https://en.wikipedia.org/wiki/Diageo), based in London, [Rumple Minze from Wikipedia](https://en.wikipedia.org/wiki/Rumple_Minze) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alcohol from Wikipedia](https://en.wikipedia.org/wiki/Alcohol)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [2.5 Million Alcohol-Related Deaths Worldwide- Annually](http://www.ncadd.org/index.php/in-the-news/155-25-million-alcohol-related-deaths-worldwide-annually), [National Council on Alcoholism and Drug Dependence](https://en.wikipedia.org/wiki/National_Council_on_Alcoholism_and_Drug_Dependence)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alcohol advertising from Wikipedia](https://en.wikipedia.org/wiki/Alcohol_advertising)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Sex in advertising from Wikipedia](https://en.wikipedia.org/wiki/Sex_in_advertising)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [RumbleMinze : A New C# .NET Engine](http://www.talkchess.com/forum/viewtopic.php?t=43491) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), April 28, 2012
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [MadChess 1.0 Released (C# .NET Engine)](http://www.talkchess.com/forum/viewtopic.php?t=45723) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), October 25, 2012
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Question About CPP-C#, Performance, and Square Representation](http://talkchess.com/forum/viewtopic.php?p=485936#485936) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), October 03, 2012
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [yield - MSDN C# Reference](http://msdn.microsoft.com/en-us/library/9k7k7cf0.aspx)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Generator (computer programming) from Wikipedia](https://en.wikipedia.org/wiki/Generator_%28computer_programming%29)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Coroutine from Wikipedia](https://en.wikipedia.org/wiki/Coroutine)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Shooter (mixed drink) from Wikipedia](https://en.wikipedia.org/wiki/Shooter_%28mixed_drink%29)
 
 **[Up one level](Engines "Engines")**
 

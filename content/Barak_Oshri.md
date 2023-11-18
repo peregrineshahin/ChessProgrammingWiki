@@ -28,8 +28,8 @@ Along with [Nishith Khandwala](Nishith_Khandwala "Nishith Khandwala") at Stanfor
 
 1. ↑ [1.0](#cite-ref-linkedin-1-0) [1.1](#cite-ref-linkedin-1-1) [Barak Oshri | LinkedIn](https://www.linkedin.com/in/boshri/)
 1. ↑ [2.0](#cite-ref-github-2-0) [2.1](#cite-ref-github-2-1) [GitHub - BarakOshri/ConvChess: Predicting Moves in Chess Using Convolutional Neural Networks](https://github.com/BarakOshri/ConvChess)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ConvChess CNN](http://www.talkchess.com/forum/viewtopic.php?t=63458) by [Brian Richardson](Brian_Richardson "Brian Richardson"), [CCC](CCC "CCC"), March 15, 2017
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Barak Oshri](https://dblp.org/pid/222/2053.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ConvChess CNN](http://www.talkchess.com/forum/viewtopic.php?t=63458) by [Brian Richardson](Brian_Richardson "Brian Richardson"), [CCC](CCC "CCC"), March 15, 2017
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Barak Oshri](https://dblp.org/pid/222/2053.html)
 
 **[Up one Level](People "People")**
 

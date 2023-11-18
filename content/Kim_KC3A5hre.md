@@ -27,8 +27,8 @@ As computer chess programmer, along with [Finn Eggers](Finn_Eggers "Finn Eggers"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kuninkaantien lukioon shakin koulujoukkueiden SM-pronssia | espoo.fi](https://www.espoo.fi/fi-FI/Kasvatus_ja_opetus/Lukiokoulutus/Espoon_lukiot/Kuninkaantien_lukio/Kuninkaantien_lukioon_shakin_koulujoukku(163526)) (Finnish)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - Luecx/Koivisto: UCI Chess engine](https://github.com/Luecx/Koivisto)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kuninkaantien lukioon shakin koulujoukkueiden SM-pronssia | espoo.fi](https://www.espoo.fi/fi-FI/Kasvatus_ja_opetus/Lukiokoulutus/Espoon_lukiot/Kuninkaantien_lukio/Kuninkaantien_lukioon_shakin_koulujoukku(163526)) (Finnish)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - Luecx/Koivisto: UCI Chess engine](https://github.com/Luecx/Koivisto)
 
 **[Up one level](People "People")**
 

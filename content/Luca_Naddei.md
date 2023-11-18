@@ -47,10 +47,10 @@ Luca Naddei with dedicated [PICcolino](PICcolino "PICcolino") at the [IGT 2018](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Home page Uragano 3D](http://www.naddei.it/uragano_3d/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Uragano3D's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=84)
- 3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Cropped image from [Pictorial Report from 14th WCCC, Torino 2006](http://vigo.altervista.org/WCCC_06.htm) 
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Persone](https://www.g-sei.org/persone/#squelch-taas-tab-content-0-4) « [G 6](G_6 "G 6")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Home page Uragano 3D](http://www.naddei.it/uragano_3d/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Uragano3D's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=84)
+ 3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Cropped image from [Pictorial Report from 14th WCCC, Torino 2006](http://vigo.altervista.org/WCCC_06.htm) 
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Persone](https://www.g-sei.org/persone/#squelch-taas-tab-content-0-4) « [G 6](G_6 "G 6")
 
 **[Up one level](People "People")**
 

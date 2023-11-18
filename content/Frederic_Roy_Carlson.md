@@ -25,10 +25,10 @@ While affiliated with the [University of Southern California](University_of_Sout
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Frederic Roy Carlson - LinkedIn](http://ca.linkedin.com/pub/frederic-roy-carlson/1/465/159)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Albert Zobrist](Albert_Zobrist "Albert Zobrist"), Frederic Roy Carlson (**1973**). *[The USC chess program](http://portal.acm.org/citation.cfm?id=805705)*. Proceedings of the [ACM](ACM "ACM") annual conference, Atlanta, Georgia
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [A Memorial to BRUTE FORCE](http://www.lkessler.com/brutefor.shtml) by [Louis Kessler](Louis_Kessler "Louis Kessler")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Frederic Roy Carlson - LinkedIn](http://ca.linkedin.com/pub/frederic-roy-carlson/1/465/159)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Albert Zobrist](Albert_Zobrist "Albert Zobrist"), Frederic Roy Carlson (**1973**). *[The USC chess program](http://portal.acm.org/citation.cfm?id=805705)*. Proceedings of the [ACM](ACM "ACM") annual conference, Atlanta, Georgia
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [A Memorial to BRUTE FORCE](http://www.lkessler.com/brutefor.shtml) by [Louis Kessler](Louis_Kessler "Louis Kessler")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

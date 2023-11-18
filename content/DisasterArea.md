@@ -38,10 +38,10 @@ an [UCI](UCI "UCI") compliant chess engine written by [Jochen Peussner](Jochen_P
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Karl Bryullov](index.php?title=Category:Karl_Bryullov&action=edit&redlink=1 "Category:Karl Bryullov (page does not exist)") - [The Last Day of Pompeii](https://en.wikipedia.org/wiki/The_Last_Day_of_Pompeii) (1830–1833), [oil on canvas](https://en.wikipedia.org/wiki/Oil_painting), location [State Russian Museum](https://en.wikipedia.org/wiki/Russian_Museum), [Katastrophe from Wikipedia.de](https://de.wikipedia.org/wiki/Katastrophe) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New engine DesasterArea](http://www.talkchess.com/forum/viewtopic.php?t=54350) by [Jochen Peussner](Jochen_Peussner "Jochen Peussner"), [CCC](CCC "CCC"), Nov 15, 2014
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> da-release.zip\\da-release\\engine.txt
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DisasterArea-1.65 released](http://www.talkchess.com/forum/viewtopic.php?t=60862) by [Jochen Peussner](Jochen_Peussner "Jochen Peussner"), [CCC](CCC "CCC"), July 18, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Karl Bryullov](index.php?title=Category:Karl_Bryullov&action=edit&redlink=1 "Category:Karl Bryullov (page does not exist)") - [The Last Day of Pompeii](https://en.wikipedia.org/wiki/The_Last_Day_of_Pompeii) (1830–1833), [oil on canvas](https://en.wikipedia.org/wiki/Oil_painting), location [State Russian Museum](https://en.wikipedia.org/wiki/Russian_Museum), [Katastrophe from Wikipedia.de](https://de.wikipedia.org/wiki/Katastrophe) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New engine DesasterArea](http://www.talkchess.com/forum/viewtopic.php?t=54350) by [Jochen Peussner](Jochen_Peussner "Jochen Peussner"), [CCC](CCC "CCC"), Nov 15, 2014
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> da-release.zip\\da-release\\engine.txt
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DisasterArea-1.65 released](http://www.talkchess.com/forum/viewtopic.php?t=60862) by [Jochen Peussner](Jochen_Peussner "Jochen Peussner"), [CCC](CCC "CCC"), July 18, 2016
 
 **[Up one level](Engines "Engines")**
 

@@ -54,10 +54,10 @@ Its [evaluation](Evaluation "Evaluation") uses a [pawn hash table](Pawn_Hash_Tab
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mary Magdalene](https://en.wikipedia.org/wiki/Mary_Magdalene) by [Frederick Sandys](Category:Frederick_Sandys "Category:Frederick Sandys"), oil on panel, ca 1858-60, current location [Delaware Art Museum](https://en.wikipedia.org/wiki/Delaware_Art_Museum) - [Samuel and Mary R. Bancroft](https://en.wikipedia.org/wiki/Samuel_Bancroft) Memorial, [Madeleine (name) from Wikipedia](https://en.wikipedia.org/wiki/Madeleine_%28name%29), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Program gafs (Guido Antonelli Finali di Scacchi)](http://users.libero.it/rigel_g/#Inglese)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Madeleine](https://web.archive.org/web/20120513100353/http://wbec-ridderkerk.nl/html/details1/Madeleine.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Madeleine (name) from Wikipedia](https://en.wikipedia.org/wiki/Madeleine_%28name%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mary Magdalene](https://en.wikipedia.org/wiki/Mary_Magdalene) by [Frederick Sandys](Category:Frederick_Sandys "Category:Frederick Sandys"), oil on panel, ca 1858-60, current location [Delaware Art Museum](https://en.wikipedia.org/wiki/Delaware_Art_Museum) - [Samuel and Mary R. Bancroft](https://en.wikipedia.org/wiki/Samuel_Bancroft) Memorial, [Madeleine (name) from Wikipedia](https://en.wikipedia.org/wiki/Madeleine_%28name%29), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Program gafs (Guido Antonelli Finali di Scacchi)](http://users.libero.it/rigel_g/#Inglese)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Madeleine](https://web.archive.org/web/20120513100353/http://wbec-ridderkerk.nl/html/details1/Madeleine.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Madeleine (name) from Wikipedia](https://en.wikipedia.org/wiki/Madeleine_%28name%29)
 
 **[Up one level](Engines "Engines")**
 

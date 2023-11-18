@@ -72,22 +72,22 @@ Bg4+ 52.Kd6 Bf3 53.Bf2 Qd1+ 54.Kc7 Qc1 55.Bg3 Qxc6+ 56.Kd8 Bg4 57.Ke7 Qe6+
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Logichess by the 17-year-old Danish schoolboy [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") was 3rd, from
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Logichess by the 17-year-old Danish schoolboy [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") was 3rd, from
 [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1984**). *Move from the East*. Report of the WMCCC 1983, [Personal Computer World](Personal_Computer_World "Personal Computer World"), January 1984
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tandy 1650](http://www.schach-computer.info/wiki/index.php/Tandy_1650) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [6301V](https://www.schach-computer.info/wiki/index.php/6301V) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CXG Computachess III](http://www.schach-computer.info/wiki/index.php/CXG_Computachess_III) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [CXG Star Chess](http://www.schach-computer.info/wiki/index.php/CXG_Star_Chess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Danielsen, Kaare](http://www.schach-computer.info/wiki/index.php/Danielsen,_Kaare) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Lexibook Electronic Chess Computers](http://www.spacious-mind.com/html/lexibook.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Danielsen, Kaare](http://www.schach-computer.info/wiki/index.php/Danielsen,_Kaare) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Lexibook Travel Chess Explorer Electronic Chess Computer](http://www.spacious-mind.com/html/travel_chess_explorer.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Lexibook ChessMan Pro Electronic Chess Computer](http://www.spacious-mind.com/html/chessman_pro.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Lexibook Travel Chess](http://www.schach-computer.info/wiki/index.php/Lexibook_Travel_Chess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Budapest 1983 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=1&id=2)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1984**). *Move from the East*. Report of the WMCCC 1983, [Personal Computer World](Personal_Computer_World "Personal Computer World"), January 1984
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tandy 1650](http://www.schach-computer.info/wiki/index.php/Tandy_1650) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [6301V](https://www.schach-computer.info/wiki/index.php/6301V) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CXG Computachess III](http://www.schach-computer.info/wiki/index.php/CXG_Computachess_III) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [CXG Star Chess](http://www.schach-computer.info/wiki/index.php/CXG_Star_Chess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Danielsen, Kaare](http://www.schach-computer.info/wiki/index.php/Danielsen,_Kaare) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Lexibook Electronic Chess Computers](http://www.spacious-mind.com/html/lexibook.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Danielsen, Kaare](http://www.schach-computer.info/wiki/index.php/Danielsen,_Kaare) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Lexibook Travel Chess Explorer Electronic Chess Computer](http://www.spacious-mind.com/html/travel_chess_explorer.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Lexibook ChessMan Pro Electronic Chess Computer](http://www.spacious-mind.com/html/chessman_pro.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Lexibook Travel Chess](http://www.schach-computer.info/wiki/index.php/Lexibook_Travel_Chess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Budapest 1983 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=1&id=2)
 
 **[Up one level](Engines "Engines")**
 

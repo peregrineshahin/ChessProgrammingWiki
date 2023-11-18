@@ -28,9 +28,9 @@ title: University of California Santa Cruz
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> : Baskin Engineering at the University of California, Santa Cruz. Engineering 1 is visible to the left, and the Auditorium can be seen to the right, Photo by [Dynaflow](https://en.wikipedia.org/wiki/User:Dynaflow?rdfrom=commons:User:Dynaflow), February 21, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Jack Baskin School of Engineering](https://en.wikipedia.org/wiki/Jack_Baskin_School_of_Engineering)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [UC Santa Cruz names engineering building in honor of Jack Baskin](http://www1.ucsc.edu/news_events/press_releases/archive/98-99/06-99/engineering.htm), June 3, 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [the Morph project](http://satirist.org/learn-game/projects/morph.html) by [Jay Scott](Jay_Scott "Jay Scott")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> : Baskin Engineering at the University of California, Santa Cruz. Engineering 1 is visible to the left, and the Auditorium can be seen to the right, Photo by [Dynaflow](https://en.wikipedia.org/wiki/User:Dynaflow?rdfrom=commons:User:Dynaflow), February 21, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Jack Baskin School of Engineering](https://en.wikipedia.org/wiki/Jack_Baskin_School_of_Engineering)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [UC Santa Cruz names engineering building in honor of Jack Baskin](http://www1.ucsc.edu/news_events/press_releases/archive/98-99/06-99/engineering.htm), June 3, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [the Morph project](http://satirist.org/learn-game/projects/morph.html) by [Jay Scott](Jay_Scott "Jay Scott")
 
 **[Up one Level](Organizations "Organizations")**
 

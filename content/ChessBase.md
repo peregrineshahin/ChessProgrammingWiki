@@ -122,25 +122,25 @@ Winners of the [ChessBase](ChessBase#BestPublicationAward "ChessBase") [Best-Pub
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ChessBase News > Home](http://www.chessbase.com/Home)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ChessBase news](http://www.chessbase.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Playchess from Wikipedia](https://en.wikipedia.org/wiki/Playchess)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Play chess online](http://www.playchess.com/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Christmas dinner on a train – meet the ChessBase team](http://en.chessbase.com/home/TabId/211/PostId/4001376), ChessBase News, December 23, 2003
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Fritz (chess) from Wikipedia](https://en.wikipedia.org/wiki/Fritz_%28chess%29)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ChessBase Shop - Chess Programs](http://chessbase-shop.com/en/categories/39)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Houdini 3 Standard multiprocessor version](http://chessbase-shop.com/en/products/houdini_3_standard_multiprocessor_version), ChessBase Shop
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Houdini 3 Pro mulitprocessor version](http://chessbase-shop.com/en/products/houdini_3_pro_multiprocessor_version), ChessBase Shop
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [New Fritz author?](http://www.talkchess.com/forum/viewtopic.php?t=50149) by John Hartmann, [CCC](CCC "CCC"), November 19, 2013
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Komodo 8](http://shop.chessbase.com/en/products/komodo_chess_8) - ChessBase Shop, September 10, 2014
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Young Talents](https://web.archive.org/web/20030225014243/http://www.chessbase.com/support/support.asp?pid=100), Support - ChessBase, May 28, 2000 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Young Talents, Teil 2](http://scleinzell.schachvereine.de/p_spielprogramme/youngtal_b.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), Mai 2000, hosted by [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml) (German)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Fritz & Chesster Part 3 – Review in USA Today](http://www.chessbase.com/newsdetail.asp?newsid=3640)
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Music Software Ludwig](http://www.komponieren.de/)
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Ludwig from ChessBase](http://chessbase-shop.com/en/categories/57)
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Smudo, Vaile, Vladimir and Ludwig – when chess meets music](http://en.chessbase.com/home/TabId/211/PostId/4004001)
-1. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [ICCA Journal, Vol. 22, No. 3](ICGA_Journal#22_3 "ICGA Journal")
-1. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [Schach-Datenbank-Marktführer Chessbase: Der Gründer programmiert selbst](http://www.taz.de/1/sport/artikel/1/der-gruender-programmiert-selbst/) - [taz.de](https://en.wikipedia.org/wiki/Die_Tageszeitung), by [Hartmut Metz](http://www.scr-kuppenheim.de/meko/index.html), May 19, 2011 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ChessBase News > Home](http://www.chessbase.com/Home)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ChessBase news](http://www.chessbase.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Playchess from Wikipedia](https://en.wikipedia.org/wiki/Playchess)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Play chess online](http://www.playchess.com/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Christmas dinner on a train – meet the ChessBase team](http://en.chessbase.com/home/TabId/211/PostId/4001376), ChessBase News, December 23, 2003
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fritz (chess) from Wikipedia](https://en.wikipedia.org/wiki/Fritz_%28chess%29)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ChessBase Shop - Chess Programs](http://chessbase-shop.com/en/categories/39)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Houdini 3 Standard multiprocessor version](http://chessbase-shop.com/en/products/houdini_3_standard_multiprocessor_version), ChessBase Shop
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Houdini 3 Pro mulitprocessor version](http://chessbase-shop.com/en/products/houdini_3_pro_multiprocessor_version), ChessBase Shop
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [New Fritz author?](http://www.talkchess.com/forum/viewtopic.php?t=50149) by John Hartmann, [CCC](CCC "CCC"), November 19, 2013
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Komodo 8](http://shop.chessbase.com/en/products/komodo_chess_8) - ChessBase Shop, September 10, 2014
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Young Talents](https://web.archive.org/web/20030225014243/http://www.chessbase.com/support/support.asp?pid=100), Support - ChessBase, May 28, 2000 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Young Talents, Teil 2](http://scleinzell.schachvereine.de/p_spielprogramme/youngtal_b.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), Mai 2000, hosted by [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml) (German)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Fritz & Chesster Part 3 – Review in USA Today](http://www.chessbase.com/newsdetail.asp?newsid=3640)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Music Software Ludwig](http://www.komponieren.de/)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Ludwig from ChessBase](http://chessbase-shop.com/en/categories/57)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Smudo, Vaile, Vladimir and Ludwig – when chess meets music](http://en.chessbase.com/home/TabId/211/PostId/4004001)
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [ICCA Journal, Vol. 22, No. 3](ICGA_Journal#22_3 "ICGA Journal")
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Schach-Datenbank-Marktführer Chessbase: Der Gründer programmiert selbst](http://www.taz.de/1/sport/artikel/1/der-gruender-programmiert-selbst/) - [taz.de](https://en.wikipedia.org/wiki/Die_Tageszeitung), by [Hartmut Metz](http://www.scr-kuppenheim.de/meko/index.html), May 19, 2011 (German)
 
 **[Up one Level](Organizations "Organizations")**
 

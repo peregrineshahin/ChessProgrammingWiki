@@ -71,7 +71,7 @@ where `who2move = 1` for white, and `who2move = -1` for black.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Online list of Warren D. Smith's works](http://scorevoting.net/WarrenSmithPages/homepage/works.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Online list of Warren D. Smith's works](http://scorevoting.net/WarrenSmithPages/homepage/works.html)
 
 **[Up one Level](Search "Search")**
 

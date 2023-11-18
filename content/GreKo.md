@@ -105,16 +105,16 @@ The program's name is dedicated to the Italian historical chess master [Gioachin
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aart's Blog: GreKo Chess Engine](http://aartbik.blogspot.de/2011/04/greko-chess-engine.html), April 20, 2011
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GreKo chess engine](https://groups.google.com/d/msg/rec.games.chess.computer/yHBbFa1GcSo/nkiYjGAo30sJ) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 01, 2002
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Greko by Vladimir Medvedev, Russia](http://www.sdchess.ru/Greko.htm) from [sdchess.ru](http://www.sdchess.ru/) (Russian)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GreKo for Android](http://www.talkchess.com/forum/viewtopic.php?t=38804) by [Aart Bik](Aart_Bik "Aart Bik"), [CCC](CCC "CCC"), April 20, 2011
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GreKo 2015 ML](http://www.talkchess.com/forum/viewtopic.php?t=60792) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [CCC](CCC "CCC"), July 12, 2016
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> greko-2015-ml.zip/history.txt
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [GreKo](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=2178&start=15) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 05, 2005
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Самообучение шахматной программы / Хабрахабр](https://habrahabr.ru/post/305604/) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [Habrahabr](https://en.wikipedia.org/wiki/Habrahabr), July 21, 2016 (Russian) [translated](https://translate.google.com/translate?sl=ru&tl=en&js=y&prev=_t&hl=de&ie=UTF-8&u=https%3A%2F%2Fhabrahabr.ru%2Fpost%2F305604%2F&edit-text=) by [Google Translate](https://en.wikipedia.org/wiki/Google_Translate)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [New site for GreKo](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=53335) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 14, 2015
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> does not only provide GreKo, but also a [Kaissa](Kaissa "Kaissa") [PC](IBM_PC "IBM PC") port in [Turbo C](C "C") from 1992, and a listing of the [ITEP Chess Program](ITEP_Chess_Program "ITEP Chess Program") for the [M-20](M-20 "M-20") computer
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aart's Blog: GreKo Chess Engine](http://aartbik.blogspot.de/2011/04/greko-chess-engine.html), April 20, 2011
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GreKo chess engine](https://groups.google.com/d/msg/rec.games.chess.computer/yHBbFa1GcSo/nkiYjGAo30sJ) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 01, 2002
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Greko by Vladimir Medvedev, Russia](http://www.sdchess.ru/Greko.htm) from [sdchess.ru](http://www.sdchess.ru/) (Russian)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GreKo for Android](http://www.talkchess.com/forum/viewtopic.php?t=38804) by [Aart Bik](Aart_Bik "Aart Bik"), [CCC](CCC "CCC"), April 20, 2011
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GreKo 2015 ML](http://www.talkchess.com/forum/viewtopic.php?t=60792) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [CCC](CCC "CCC"), July 12, 2016
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> greko-2015-ml.zip/history.txt
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [GreKo](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=2178&start=15) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 05, 2005
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Самообучение шахматной программы / Хабрахабр](https://habrahabr.ru/post/305604/) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [Habrahabr](https://en.wikipedia.org/wiki/Habrahabr), July 21, 2016 (Russian) [translated](https://translate.google.com/translate?sl=ru&tl=en&js=y&prev=_t&hl=de&ie=UTF-8&u=https%3A%2F%2Fhabrahabr.ru%2Fpost%2F305604%2F&edit-text=) by [Google Translate](https://en.wikipedia.org/wiki/Google_Translate)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [New site for GreKo](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=53335) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 14, 2015
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> does not only provide GreKo, but also a [Kaissa](Kaissa "Kaissa") [PC](IBM_PC "IBM PC") port in [Turbo C](C "C") from 1992, and a listing of the [ITEP Chess Program](ITEP_Chess_Program "ITEP Chess Program") for the [M-20](M-20 "M-20") computer
 
 **[Up one Level](Engines "Engines")**
 

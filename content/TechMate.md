@@ -43,15 +43,15 @@ As published in their 1988 [ICCA Journal](ICGA_Journal "ICGA Journal") paper <a 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [TechMate Chess for Atari ST](https://www.video-games-museum.com/en/game/TechMate-Chess/54/3/18693) - The [Video Games Museum](https://en.wikipedia.org/wiki/Video_Game_Museum)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Christopher Chabris](Christopher_Chabris "Christopher Chabris") (**1987**). *[Reviews: The Game of Kings - START's First Chess Tournament](https://www.atarimagazines.com/startv2n2/chess.html)*. [STart Vol. 2, No. 2](https://www.atarimagazines.com/index/?issue=startv2n2)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Gregg Pearlman](https://www.linkedin.com/in/greggpearlman) (**1986**). *[ST New Products](https://www.atarimagazines.com/v5n8/STNewProducts.html)*. [Antic Vol. 5, No. 8](https://www.atarimagazines.com/index/?issue=v5n8)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MichTron Corp.](https://www.mobygames.com/company/michtron-corp) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Atari ST Techmate Chess | Microdeal](http://www.atarimania.com/game-atari-st-techmate-chess_25424.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Atari ST Techmate Chess | Software Direct](http://www.atarimania.com/game-atari-st-techmate-chess_26892.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Alexander Szabo](Alexander_Szabo "Alexander Szabo") (**1984**). *[Computer-Chess Tactics and Strategy](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0051870)*. M.Sc. Thesis, [University of British Columbia](https://en.wikipedia.org/wiki/University_of_British_Columbia)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Alexander Szabo](Alexander_Szabo "Alexander Szabo"), [Barbara Szabo](Barbara_Szabo "Barbara Szabo") (**1988**). *The Technology Curve Revisited*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Alexander Szabo](Alexander_Szabo "Alexander Szabo"), [Barbara Szabo](Barbara_Szabo "Barbara Szabo") (**1988**). *The Technology Curve Revisited*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [TechMate Chess for Atari ST](https://www.video-games-museum.com/en/game/TechMate-Chess/54/3/18693) - The [Video Games Museum](https://en.wikipedia.org/wiki/Video_Game_Museum)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Christopher Chabris](Christopher_Chabris "Christopher Chabris") (**1987**). *[Reviews: The Game of Kings - START's First Chess Tournament](https://www.atarimagazines.com/startv2n2/chess.html)*. [STart Vol. 2, No. 2](https://www.atarimagazines.com/index/?issue=startv2n2)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gregg Pearlman](https://www.linkedin.com/in/greggpearlman) (**1986**). *[ST New Products](https://www.atarimagazines.com/v5n8/STNewProducts.html)*. [Antic Vol. 5, No. 8](https://www.atarimagazines.com/index/?issue=v5n8)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MichTron Corp.](https://www.mobygames.com/company/michtron-corp) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Atari ST Techmate Chess | Microdeal](http://www.atarimania.com/game-atari-st-techmate-chess_25424.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Atari ST Techmate Chess | Software Direct](http://www.atarimania.com/game-atari-st-techmate-chess_26892.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Alexander Szabo](Alexander_Szabo "Alexander Szabo") (**1984**). *[Computer-Chess Tactics and Strategy](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0051870)*. M.Sc. Thesis, [University of British Columbia](https://en.wikipedia.org/wiki/University_of_British_Columbia)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Alexander Szabo](Alexander_Szabo "Alexander Szabo"), [Barbara Szabo](Barbara_Szabo "Barbara Szabo") (**1988**). *The Technology Curve Revisited*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Alexander Szabo](Alexander_Szabo "Alexander Szabo"), [Barbara Szabo](Barbara_Szabo "Barbara Szabo") (**1988**). *The Technology Curve Revisited*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

@@ -267,15 +267,15 @@ Nd2+ 41.Ka2 Nc4 1/2-1/2
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Self-portrait](https://en.wikipedia.org/wiki/Self-portrait) by [Rembrandt](Category:Rembrandt "Category:Rembrandt") in a cap, with eyes wide open, etching and burin, 1630, [Rijksmuseum](https://en.wikipedia.org/wiki/Rijksmuseum), [Rembrandt from Wikipedia](https://en.wikipedia.org/wiki/Rembrandt)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Master's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=46)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Slide 28: 23.08.74 to 01.11.74](http://www.chilton-computing.org.uk/gallery/ral/slide28.htm) from [Rutherford's](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory) Photographic Section for the [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *[MASTER at IFIPS](http://www.chilton-computing.org.uk/acl/applications/cocoa/p008.htm)*. from [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"), hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory), excerpt from [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *The Machine Plays Chess*. Pergamon Press
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Stockholm 1974 - Chess - Round 3 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=3&id=1)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Stockholm 1974 - Chess - Round 4 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=4&id=2)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Toronto 1977 - Chess - Round 2 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=18&round=2&id=2)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Linz 1980 - Chess - Round 3 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=68&round=3&id=1)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Self-portrait](https://en.wikipedia.org/wiki/Self-portrait) by [Rembrandt](Category:Rembrandt "Category:Rembrandt") in a cap, with eyes wide open, etching and burin, 1630, [Rijksmuseum](https://en.wikipedia.org/wiki/Rijksmuseum), [Rembrandt from Wikipedia](https://en.wikipedia.org/wiki/Rembrandt)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Master's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=46)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Slide 28: 23.08.74 to 01.11.74](http://www.chilton-computing.org.uk/gallery/ral/slide28.htm) from [Rutherford's](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory) Photographic Section for the [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *[MASTER at IFIPS](http://www.chilton-computing.org.uk/acl/applications/cocoa/p008.htm)*. from [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"), hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory), excerpt from [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *The Machine Plays Chess*. Pergamon Press
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Stockholm 1974 - Chess - Round 3 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=3&id=1)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Stockholm 1974 - Chess - Round 4 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=4&id=2)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Toronto 1977 - Chess - Round 2 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=18&round=2&id=2)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Linz 1980 - Chess - Round 3 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=68&round=3&id=1)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

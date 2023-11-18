@@ -32,14 +32,14 @@ a Lithuanian-born American computer scientist with a degree from [Vilnius Univer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [michaeldv (Michael Dvorkin) · GitHub](https://github.com/michaeldv)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Time Machine](http://igormorski.pl/work/time-machine/) by [Igor Morski](Category:Igor_Morski "Category:Igor Morski"), [Igor Morski Gallery](http://igormorski.pl/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Michael Dvorkin (@mid) | Twitter](https://twitter.com/mid)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fat Free CRM - Ruby On Rails-based open source CRM platform](http://www.fatfreecrm.com/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [fatfreecrm/fat\_free\_crm · GitHub](https://github.com/fatfreecrm/fat_free_crm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [michaeldv/ante · GitHub](https://github.com/michaeldv/ante)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [michaeldv/awesome\_print · GitHub](https://github.com/michaeldv/awesome_print)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Michael Dvorkin | LinkedIn](https://www.linkedin.com/in/mikedvorkin)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [michaeldv (Michael Dvorkin) · GitHub](https://github.com/michaeldv)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Time Machine](http://igormorski.pl/work/time-machine/) by [Igor Morski](Category:Igor_Morski "Category:Igor Morski"), [Igor Morski Gallery](http://igormorski.pl/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Michael Dvorkin (@mid) | Twitter](https://twitter.com/mid)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fat Free CRM - Ruby On Rails-based open source CRM platform](http://www.fatfreecrm.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [fatfreecrm/fat\_free\_crm · GitHub](https://github.com/fatfreecrm/fat_free_crm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [michaeldv/ante · GitHub](https://github.com/michaeldv/ante)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [michaeldv/awesome\_print · GitHub](https://github.com/michaeldv/awesome_print)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Michael Dvorkin | LinkedIn](https://www.linkedin.com/in/mikedvorkin)
 
 **[Up one level](People "People")**
 

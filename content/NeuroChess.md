@@ -51,10 +51,10 @@ After training M with 120,000 grandmaster games, and training V with a further 2
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sebastian Thrun](Sebastian_Thrun "Sebastian Thrun") (**1995**). *[Learning to Play the Game of Chess](http://robots.stanford.edu/papers/thrun.nips7.neuro-chess.html)*. Acknowledgment
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sebastian Thrun](Sebastian_Thrun "Sebastian Thrun"), [Tom Mitchell](Tom_Mitchell "Tom Mitchell") (**1993**). *Integrating Inductive Neural Network Learning and Explanation-Based Learning*. [IJCAI 1993](Conferences#IJCAI1993 "Conferences"), [zipped ps](http://robots.stanford.edu/papers/thrun.EBNN_ijcai93.ps.gz)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sebastian Thrun](Sebastian_Thrun "Sebastian Thrun") (**1995**). *Explanation-Based Neural Network Learning - A Lifelong Learning Approach*. Ph.D. thesis, [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Figure 2 from [Sebastian Thrun](Sebastian_Thrun "Sebastian Thrun") (**1995**). *[Learning to Play the Game of Chess](http://robots.stanford.edu/papers/thrun.nips7.neuro-chess.html)*. [pdf](http://papers.nips.cc/paper/1007-learning-to-play-the-game-of-chess.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sebastian Thrun](Sebastian_Thrun "Sebastian Thrun") (**1995**). *[Learning to Play the Game of Chess](http://robots.stanford.edu/papers/thrun.nips7.neuro-chess.html)*. Acknowledgment
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sebastian Thrun](Sebastian_Thrun "Sebastian Thrun"), [Tom Mitchell](Tom_Mitchell "Tom Mitchell") (**1993**). *Integrating Inductive Neural Network Learning and Explanation-Based Learning*. [IJCAI 1993](Conferences#IJCAI1993 "Conferences"), [zipped ps](http://robots.stanford.edu/papers/thrun.EBNN_ijcai93.ps.gz)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sebastian Thrun](Sebastian_Thrun "Sebastian Thrun") (**1995**). *Explanation-Based Neural Network Learning - A Lifelong Learning Approach*. Ph.D. thesis, [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Figure 2 from [Sebastian Thrun](Sebastian_Thrun "Sebastian Thrun") (**1995**). *[Learning to Play the Game of Chess](http://robots.stanford.edu/papers/thrun.nips7.neuro-chess.html)*. [pdf](http://papers.nips.cc/paper/1007-learning-to-play-the-game-of-chess.pdf)
 
 **[Up one level](Engines "Engines")**
 

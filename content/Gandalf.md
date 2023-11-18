@@ -138,21 +138,21 @@ Gandalf was born an extreme selective program (1 ply brute-force + selective sea
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gandalf Home](http://www.rebel.nl/gandalf.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spiderwebart Gallery - Pinup Art, Trans Siberian Orchestra Art, Lord of the Rings Art, Marvel & DC Comic](http://www.spiderwebart.com/) by [Greg Hildebrandt](http://www.brothershildebrandt.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Gandalf](http://web.archive.org/web/20011224050215/http://gambitsoft.com/schach/spiele/gandalf.htm), Copyright © 1996, [Gambit-Soft](index.php?title=Gambit-Soft&action=edit&redlink=1 "Gambit-Soft (page does not exist)") (German), hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [Gandalf 4.32f](http://scleinzell.schachvereine.de/p_spielprogramme/gandalf432f.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), November 2000, hosted by [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Gandalf Home](http://www.rebel.nl/gandalf.htm)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gandalf 6 - Lokasoft - Home of ChessPartner](http://www.lokasoft.nl/gandalf6.aspx)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Frank's Chess Page](http://www.amateurschach.de/) follow Downloads
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [I got the permission by Steen Surrballe (Gandalf) ...](http://www.talkchess.com/forum/viewtopic.php?t=63814) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), April 25, 2017
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Gandalf](http://web.archive.org/web/20011224050215/http://gambitsoft.com/schach/spiele/gandalf.htm), Copyright © 1996, [Gambit-Soft](index.php?title=Gambit-Soft&action=edit&redlink=1 "Gambit-Soft (page does not exist)") (German), hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Re: contact address or email of Steen Suurballe](http://www.talkchess.com/forum/viewtopic.php?t=63294&start=10) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [CCC](CCC "CCC"), March 05, 2017
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Gandalf's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=7)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Dansker kan sætte verdenselite skakmat](http://www.b.dk/danmark/dansker-kan-saette-verdenselite-skakmat) by Erik Bork, [Berlingske](https://en.wikipedia.org/wiki/Berlingske), September 20, 2003 (Danish)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [I got the permission by Steen Surrballe (Gandalf) ...](http://www.talkchess.com/forum/viewtopic.php?t=63814) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), April 25, 2017
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Re: contact address or email of Steen Suurballe](http://www.talkchess.com/forum/viewtopic.php?t=63294&start=7) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), March 05, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gandalf Home](http://www.rebel.nl/gandalf.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spiderwebart Gallery - Pinup Art, Trans Siberian Orchestra Art, Lord of the Rings Art, Marvel & DC Comic](http://www.spiderwebart.com/) by [Greg Hildebrandt](http://www.brothershildebrandt.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gandalf](http://web.archive.org/web/20011224050215/http://gambitsoft.com/schach/spiele/gandalf.htm), Copyright © 1996, [Gambit-Soft](index.php?title=Gambit-Soft&action=edit&redlink=1 "Gambit-Soft (page does not exist)") (German), hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [Gandalf 4.32f](http://scleinzell.schachvereine.de/p_spielprogramme/gandalf432f.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), November 2000, hosted by [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Gandalf Home](http://www.rebel.nl/gandalf.htm)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gandalf 6 - Lokasoft - Home of ChessPartner](http://www.lokasoft.nl/gandalf6.aspx)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Frank's Chess Page](http://www.amateurschach.de/) follow Downloads
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [I got the permission by Steen Surrballe (Gandalf) ...](http://www.talkchess.com/forum/viewtopic.php?t=63814) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), April 25, 2017
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Gandalf](http://web.archive.org/web/20011224050215/http://gambitsoft.com/schach/spiele/gandalf.htm), Copyright © 1996, [Gambit-Soft](index.php?title=Gambit-Soft&action=edit&redlink=1 "Gambit-Soft (page does not exist)") (German), hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: contact address or email of Steen Suurballe](http://www.talkchess.com/forum/viewtopic.php?t=63294&start=10) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [CCC](CCC "CCC"), March 05, 2017
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Gandalf's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=7)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Dansker kan sætte verdenselite skakmat](http://www.b.dk/danmark/dansker-kan-saette-verdenselite-skakmat) by Erik Bork, [Berlingske](https://en.wikipedia.org/wiki/Berlingske), September 20, 2003 (Danish)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [I got the permission by Steen Surrballe (Gandalf) ...](http://www.talkchess.com/forum/viewtopic.php?t=63814) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), April 25, 2017
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Re: contact address or email of Steen Suurballe](http://www.talkchess.com/forum/viewtopic.php?t=63294&start=7) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), March 05, 2017
 
 **[Up one level](Engines "Engines")**
 

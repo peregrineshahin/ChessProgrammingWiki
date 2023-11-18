@@ -15,8 +15,8 @@ a Swedish computer chess programmer and author of the [Chess Engine Communicatio
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [New winboard program !!!! StAndersen !!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=32537) by Alexandre Côme, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 19, 2000
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Swedish programs](https://www.stmintz.com/ccc/index.php?id=200414) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [CCC](CCC "CCC"), December 04, 2001
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [New winboard program !!!! StAndersen !!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=32537) by Alexandre Côme, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 19, 2000
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Swedish programs](https://www.stmintz.com/ccc/index.php?id=200414) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [CCC](CCC "CCC"), December 04, 2001
 
 **[Up one level](People "People")**
 

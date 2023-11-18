@@ -23,8 +23,8 @@ a British computer chess expert from [Milton Keynes](https://en.wikipedia.org/wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [View profile of Mike Watters](http://users.boardnation.com/~chesscomputers/index.php?action=viewprofile;user=Mike+Watters) from [Chess Computer Community - Index](http://users.boardnation.com/~chesscomputers/index.php)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Computer UK](http://www.chesscomputeruk.com/) by Mike Watters
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [View profile of Mike Watters](http://users.boardnation.com/~chesscomputers/index.php?action=viewprofile;user=Mike+Watters) from [Chess Computer Community - Index](http://users.boardnation.com/~chesscomputers/index.php)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Computer UK](http://www.chesscomputeruk.com/) by Mike Watters
 
 **[Up one level](People "People")**
 

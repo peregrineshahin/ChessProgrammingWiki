@@ -98,14 +98,14 @@ and with the [Paris Kanellakis Prize](https://en.wikipedia.org/wiki/Paris_Kanell
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Yoav Freund's Home Page](http://cseweb.ucsd.edu/~yfreund/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Mathematics Genealogy Project - Yoav Freund](https://www.mathgenealogy.org/id.php?id=101119)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Yoav Freund, [Robert Schapire](Robert_Schapire "Robert Schapire") (**1997**). *[A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting](https://www.sciencedirect.com/science/article/pii/S002200009791504X)*. [Journal of Computer and System Sciences](https://en.wikipedia.org/wiki/Journal_of_Computer_and_System_Sciences), Vol. 55, No. 1, [1996 pdf](http://cseweb.ucsd.edu/~yfreund/papers/adaboost.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Peter Auer](Peter_Auer "Peter Auer"), [Nicolò Cesa-Bianchi](Nicol%C3%B2_Cesa-Bianchi "Nicolò Cesa-Bianchi"), Yoav Freund, [Robert Schapire](Robert_Schapire "Robert Schapire") (**1998**). *Gambling in a rigged casino: The adversarial multi-arm bandit problem*. [NeuroCOLT2](http://www.bio.net/bioarchives/neuroscience/1998-November/034748.html), [pdf](http://www.dklevine.com/archive/refs4462.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Yoav Freund](https://dblp.uni-trier.de/pid/f/YoavFreund.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Hedge Algorithm — on-line prediction wiki](http://onlineprediction.net/index.html?n=Main.HedgeAlgorithm)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Principal component analysis from Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Probably approximately correct learning from Wikipedia](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Yoav Freund's Home Page](http://cseweb.ucsd.edu/~yfreund/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Mathematics Genealogy Project - Yoav Freund](https://www.mathgenealogy.org/id.php?id=101119)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Yoav Freund, [Robert Schapire](Robert_Schapire "Robert Schapire") (**1997**). *[A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting](https://www.sciencedirect.com/science/article/pii/S002200009791504X)*. [Journal of Computer and System Sciences](https://en.wikipedia.org/wiki/Journal_of_Computer_and_System_Sciences), Vol. 55, No. 1, [1996 pdf](http://cseweb.ucsd.edu/~yfreund/papers/adaboost.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Peter Auer](Peter_Auer "Peter Auer"), [Nicolò Cesa-Bianchi](Nicol%C3%B2_Cesa-Bianchi "Nicolò Cesa-Bianchi"), Yoav Freund, [Robert Schapire](Robert_Schapire "Robert Schapire") (**1998**). *Gambling in a rigged casino: The adversarial multi-arm bandit problem*. [NeuroCOLT2](http://www.bio.net/bioarchives/neuroscience/1998-November/034748.html), [pdf](http://www.dklevine.com/archive/refs4462.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Yoav Freund](https://dblp.uni-trier.de/pid/f/YoavFreund.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hedge Algorithm — on-line prediction wiki](http://onlineprediction.net/index.html?n=Main.HedgeAlgorithm)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Principal component analysis from Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Probably approximately correct learning from Wikipedia](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning)
 
 **[Up one Level](People "People")**
 

@@ -121,10 +121,10 @@ The **Chess Programs World Tournament in Personal Computers** took place from Ma
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1981**). *MicroChess - Paris Tournament*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), August 1981
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> The computer was stolen after round 6 and therefore lost by default the last round, see [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1981**). *MicroChess - Paris Tournament*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), August 1981
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [09-1981, 2. Mikrocomputer-Schachweltmeisterschaft in Travemünde und Hamburg](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1981,%202.%20Mikrocomputer-Schachweltmeisterschaft%20in%20Travemunde%20und%20Hamburg.pdf) (pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1981**). *MicroChess - Paris Tournament*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), August 1981
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> The computer was stolen after round 6 and therefore lost by default the last round, see [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1981**). *MicroChess - Paris Tournament*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), August 1981
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [09-1981, 2. Mikrocomputer-Schachweltmeisterschaft in Travemünde und Hamburg](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1981,%202.%20Mikrocomputer-Schachweltmeisterschaft%20in%20Travemunde%20und%20Hamburg.pdf) (pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
 
 **[Up one level](Various_Microcomputer_Chess_Tournaments "Various Microcomputer Chess Tournaments")**
 

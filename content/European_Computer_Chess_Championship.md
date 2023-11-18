@@ -30,9 +30,9 @@ The **European Computer Chess Championship** was held only two times. A third ed
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Fourth World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6c8af8) (labeled 22nd ACM), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1983_WCCC/1983-%20WCCC.062303061.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_36_C.pdf), European Championships, page 8
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [II. Europäische Schachcomputermeisterschaft: "Parwell" und "Elsa" als elektronische Vertreter Deutschlands](http://www.computerwoche.de/heftarchiv/1979/37/1193707/), September 14, 1979, [Computerwoche](Computerworld#Woche "Computerworld") 37/1979 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Fourth World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6c8af8) (labeled 22nd ACM), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1983_WCCC/1983-%20WCCC.062303061.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_36_C.pdf), European Championships, page 8
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [II. Europäische Schachcomputermeisterschaft: "Parwell" und "Elsa" als elektronische Vertreter Deutschlands](http://www.computerwoche.de/heftarchiv/1979/37/1193707/), September 14, 1979, [Computerwoche](Computerworld#Woche "Computerworld") 37/1979 (German)
 
 **[Up one level](Tournaments_and_Matches "Tournaments and Matches")**
 

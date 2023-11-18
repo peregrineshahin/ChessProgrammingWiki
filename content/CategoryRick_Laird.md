@@ -12,7 +12,7 @@ a New Zealand jazz bassist of Irish descent, best known for his place in the jaz
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> 1973 [trade advert](https://commons.wikimedia.org/wiki/File:Between_Nothingness_and_Eternity_trade_advert_1973.png) of [Mahavishnu Orchestras](Category:Mahavishnu_Orchestra "Category:Mahavishnu Orchestra")  album [Between Nothingness & Eternity](https://en.wikipedia.org/wiki/Between_Nothingness_%26_Eternity) published on [Billboard Magazine](<https://en.wikipedia.org/wiki/Billboard_(magazine)>), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Jerry Goodman](https://en.wikipedia.org/wiki/Jerry_Goodman), [Jan Hammer](Category:Jan_Hammer "Category:Jan Hammer"), [John McLaughlin](Category:John_McLaughlin "Category:John McLaughlin"), [Billy Cobham](Category:Billy_Cobham "Category:Billy Cobham"), Rick Laird
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> 1973 [trade advert](https://commons.wikimedia.org/wiki/File:Between_Nothingness_and_Eternity_trade_advert_1973.png) of [Mahavishnu Orchestras](Category:Mahavishnu_Orchestra "Category:Mahavishnu Orchestra")  album [Between Nothingness & Eternity](https://en.wikipedia.org/wiki/Between_Nothingness_%26_Eternity) published on [Billboard Magazine](<https://en.wikipedia.org/wiki/Billboard_(magazine)>), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Jerry Goodman](https://en.wikipedia.org/wiki/Jerry_Goodman), [Jan Hammer](Category:Jan_Hammer "Category:Jan Hammer"), [John McLaughlin](Category:John_McLaughlin "Category:John McLaughlin"), [Billy Cobham](Category:Billy_Cobham "Category:Billy Cobham"), Rick Laird
 
 ## Pages in category "Rick Laird"
 

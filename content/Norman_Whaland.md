@@ -23,10 +23,10 @@ he mentioned using machine code and a [Pascal](Pascal "Pascal")-like language of
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Whaland, Norman D. [WorldCat Identities]](http://worldcat.org/identities/lccn-no2012017793/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Norman Whaland (**1978**). *[A Computer Chess Tutorial](https://archive.org/stream/byte-magazine-1978-10/1978_10_BYTE_03-10_Chess_for_the_Microcomputer#page/n167/mode/2up)*. [BYTE, Vol. 3, No. 10](Byte_Magazine#BYTE310 "Byte Magazine"), Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [viper/issue3.pdf at master · mattmikolay/viper · GitHub](https://github.com/mattmikolay/viper/blob/master/volume1/issue3.pdf), September 1978
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kōnane from Wikipedia](https://en.wikipedia.org/wiki/K%C5%8Dnane)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Whaland, Norman D. [WorldCat Identities]](http://worldcat.org/identities/lccn-no2012017793/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Norman Whaland (**1978**). *[A Computer Chess Tutorial](https://archive.org/stream/byte-magazine-1978-10/1978_10_BYTE_03-10_Chess_for_the_Microcomputer#page/n167/mode/2up)*. [BYTE, Vol. 3, No. 10](Byte_Magazine#BYTE310 "Byte Magazine"), Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [viper/issue3.pdf at master · mattmikolay/viper · GitHub](https://github.com/mattmikolay/viper/blob/master/volume1/issue3.pdf), September 1978
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kōnane from Wikipedia](https://en.wikipedia.org/wiki/K%C5%8Dnane)
 
 **[Up one Level](People "People")**
 

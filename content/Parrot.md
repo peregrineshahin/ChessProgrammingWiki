@@ -90,10 +90,10 @@ Kxh5 84.Kd2 Kg5 85.Nc3 Kf5 86.Nb5 Ke5 87.Nc3 Kd4 88.Ne2+ Kc4 89.Nf4 Rh2+ 90.Kc1 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Blue-and-yellow Macaw](https://en.wikipedia.org/wiki/Blue-and-yellow_Macaw) in flight at [Jurong Bird Park](https://en.wikipedia.org/wiki/Jurong_Bird_Park), [Photo](https://commons.wikimedia.org/wiki/File:Ara_ararauna_Luc_Viatour.jpg) by [Luc Viatour](https://lucnix.be/), July 15, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Parrot | Milestones](https://www3.nd.edu/~johanes/parrot.html) by [Johanes Suhardjo](Johanes_Suhardjo "Johanes Suhardjo")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah") (**2001**). *Parallel Alpha-Beta Search on Shared Memory Multiprocessors*. M.Sc. thesis
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: 2011 ACCA Pan American CCC - Plisk games](http://www.talkchess.com/forum/viewtopic.php?t=41058&start=4) by [Vlad Stamate](Vlad_Stamate "Vlad Stamate"), [CCC](CCC "CCC"), November 13, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Blue-and-yellow Macaw](https://en.wikipedia.org/wiki/Blue-and-yellow_Macaw) in flight at [Jurong Bird Park](https://en.wikipedia.org/wiki/Jurong_Bird_Park), [Photo](https://commons.wikimedia.org/wiki/File:Ara_ararauna_Luc_Viatour.jpg) by [Luc Viatour](https://lucnix.be/), July 15, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Parrot | Milestones](https://www3.nd.edu/~johanes/parrot.html) by [Johanes Suhardjo](Johanes_Suhardjo "Johanes Suhardjo")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah") (**2001**). *Parallel Alpha-Beta Search on Shared Memory Multiprocessors*. M.Sc. thesis
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: 2011 ACCA Pan American CCC - Plisk games](http://www.talkchess.com/forum/viewtopic.php?t=41058&start=4) by [Vlad Stamate](Vlad_Stamate "Vlad Stamate"), [CCC](CCC "CCC"), November 13, 2011
 
 **[Up one Level](Engines "Engines")**
 

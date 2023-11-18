@@ -53,11 +53,11 @@ an American software developer and computer chess programmer, who already got ho
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [iPhone apps ring income for former Microsoftie Kerrigan](http://www.bizjournals.com/seattle/stories/2009/01/12/story13.html), [Puget Sound Business Journal (Seattle)](http://seattle.bizjournals.com/seattle/), January 9, 2009
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [iPhone apps ring income for former Microsoftie Kerrigan](http://www.bizjournals.com/seattle/stories/2009/01/12/story13.html), [Puget Sound Business Journal (Seattle)](http://seattle.bizjournals.com/seattle/), January 9, 2009
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Peter W. Frey](Peter_W._Frey "Peter W. Frey"), [Larry Atkin](Larry_Atkin "Larry Atkin") (**1978**). *[Creating a Chess Player](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d5ba2).* An Essay on Human and Computer Chess Skill, [BYTE, Vol. 3, No. 10](Byte_Magazine#BYTE310 "Byte Magazine")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [TSCP - Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/TSCP)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [tChess, Chess for the iPhone and iPod touch!](http://www.tchessgame.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [iPhone apps ring income for former Microsoftie Kerrigan](http://www.bizjournals.com/seattle/stories/2009/01/12/story13.html), [Puget Sound Business Journal (Seattle)](http://seattle.bizjournals.com/seattle/), January 9, 2009
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [iPhone apps ring income for former Microsoftie Kerrigan](http://www.bizjournals.com/seattle/stories/2009/01/12/story13.html), [Puget Sound Business Journal (Seattle)](http://seattle.bizjournals.com/seattle/), January 9, 2009
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Peter W. Frey](Peter_W._Frey "Peter W. Frey"), [Larry Atkin](Larry_Atkin "Larry Atkin") (**1978**). *[Creating a Chess Player](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d5ba2).* An Essay on Human and Computer Chess Skill, [BYTE, Vol. 3, No. 10](Byte_Magazine#BYTE310 "Byte Magazine")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [TSCP - Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/TSCP)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [tChess, Chess for the iPhone and iPod touch!](http://www.tchessgame.com/)
 
 **[Up one level](People "People")**
 

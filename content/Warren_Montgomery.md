@@ -24,7 +24,7 @@ Along with [Larry Harris](Larry_Harris "Larry Harris"), he was primary developer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Dartmouth Computing Timeline - The 1970s](https://www.dartmouth.edu/its-tools/archive/history/timeline/1970s.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Dartmouth Computing Timeline - The 1970s](https://www.dartmouth.edu/its-tools/archive/history/timeline/1970s.html)
 
 **[Up one level](People "People")**
 

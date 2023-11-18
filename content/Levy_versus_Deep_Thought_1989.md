@@ -173,11 +173,11 @@ Bh8 24.gxh5 Bxh3 25.hxg6 hxg6 26.Rfd1 Qd7 27.Ng5 Bg4 28.Qh4 Bg7 29.Rd2 Bh5
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Clock in Southampton Street, outside the [British Computer Society](https://en.wikipedia.org/wiki/British_Computer_Society) offices, looking south towards the [Strand](https://en.wikipedia.org/wiki/Strand,_London), Photo by [R Sones](http://www.geograph.org.uk/profile/13202), July 07, 2006, [Southampton Street from Wikipedia](https://en.wikipedia.org/wiki/Southampton_Street,_London)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Levy](David_Levy "David Levy") (**1990**). *The End of an Era*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Levy](David_Levy "David Levy") (**1990**). *The End of an Era*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Levy - DT match (1)](https://groups.google.com/d/msg/rec.games.chess/P-_Glk_Eta0/zQiLzkpRrq0J) by [Peter Jansen](Peter_Jansen "Peter Jansen"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), December 22, 1989
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Game 2, 4... a6 is wrong in [Levy - DT match (2)](https://groups.google.com/d/msg/rec.games.chess/9rI-3sgNfXc/eXmmXvTOjOIJ) by [Peter Jansen](Peter_Jansen "Peter Jansen"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), December 22, 1989, as well in David's report in ICCA Journal
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Clock in Southampton Street, outside the [British Computer Society](https://en.wikipedia.org/wiki/British_Computer_Society) offices, looking south towards the [Strand](https://en.wikipedia.org/wiki/Strand,_London), Photo by [R Sones](http://www.geograph.org.uk/profile/13202), July 07, 2006, [Southampton Street from Wikipedia](https://en.wikipedia.org/wiki/Southampton_Street,_London)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Levy](David_Levy "David Levy") (**1990**). *The End of an Era*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Levy](David_Levy "David Levy") (**1990**). *The End of an Era*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Levy - DT match (1)](https://groups.google.com/d/msg/rec.games.chess/P-_Glk_Eta0/zQiLzkpRrq0J) by [Peter Jansen](Peter_Jansen "Peter Jansen"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), December 22, 1989
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Game 2, 4... a6 is wrong in [Levy - DT match (2)](https://groups.google.com/d/msg/rec.games.chess/9rI-3sgNfXc/eXmmXvTOjOIJ) by [Peter Jansen](Peter_Jansen "Peter Jansen"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), December 22, 1989, as well in David's report in ICCA Journal
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

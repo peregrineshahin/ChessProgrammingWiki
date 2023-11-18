@@ -58,8 +58,8 @@ The **University of Manchester** in [Manchester](https://en.wikipedia.org/wiki/M
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [University of Manchester from Wikipedia](https://en.wikipedia.org/wiki/University_of_Manchester)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Alan Turing Year - TCAC Manchester Subcommittee](http://www.mathcomp.leeds.ac.uk/turing2012/give-page.php?32)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [University of Manchester from Wikipedia](https://en.wikipedia.org/wiki/University_of_Manchester)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Alan Turing Year - TCAC Manchester Subcommittee](http://www.mathcomp.leeds.ac.uk/turing2012/give-page.php?32)
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -25,11 +25,11 @@ an American computer scientist, US and [FIDE master](https://en.wikipedia.org/wi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Craig Barnes - LinkedIn](http://www.linkedin.com/pub/craig-barnes/4/b52/ab)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A History of the National High School Chess Championship](http://www.nystar.com/chesscenter/hsstory.htm) by [Steve Immitt](http://www.anusha.com/immitt.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: list of our chess computers , let's share it](http://hiarcs.net/forums/viewtopic.php?t=204&start=34) by Craig Barnes, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 17, 2010
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Craig Barnes - LinkedIn](http://www.linkedin.com/pub/craig-barnes/4/b52/ab)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Turbostar's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=493)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Craig Barnes - LinkedIn](http://www.linkedin.com/pub/craig-barnes/4/b52/ab)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A History of the National High School Chess Championship](http://www.nystar.com/chesscenter/hsstory.htm) by [Steve Immitt](http://www.anusha.com/immitt.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: list of our chess computers , let's share it](http://hiarcs.net/forums/viewtopic.php?t=204&start=34) by Craig Barnes, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 17, 2010
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Craig Barnes - LinkedIn](http://www.linkedin.com/pub/craig-barnes/4/b52/ab)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Turbostar's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=493)
 
 **[Up one level](People "People")**
 

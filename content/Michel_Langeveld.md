@@ -55,10 +55,10 @@ At the [WMCCC 2001](WMCCC_2001 "WMCCC 2001") Michel Langeveld served as [opening
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mikrocomputer Schachweltmeisterschaft 2001, Fotos vom fünften Spieltag](https://web.archive.org/web/20020113161900/http://www.chessbase.de/events/events.asp?pid=86) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessBase Events](ChessBase "ChessBase") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Michel Langeveld player profile - ChessBase Players](https://players.chessbase.com/en/player/Langeveld_Michel/528772)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Community - Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/TSCP/Community/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2004 Gothic Chess Computer World Championship](https://web.archive.org/web/20050213005119/http://www.gothicchess.org/world_comp_champ_2004.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mikrocomputer Schachweltmeisterschaft 2001, Fotos vom fünften Spieltag](https://web.archive.org/web/20020113161900/http://www.chessbase.de/events/events.asp?pid=86) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessBase Events](ChessBase "ChessBase") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Michel Langeveld player profile - ChessBase Players](https://players.chessbase.com/en/player/Langeveld_Michel/528772)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Community - Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/TSCP/Community/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2004 Gothic Chess Computer World Championship](https://web.archive.org/web/20050213005119/http://www.gothicchess.org/world_comp_champ_2004.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

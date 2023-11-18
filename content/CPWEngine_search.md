@@ -706,8 +706,8 @@ int contempt() {
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Debugging a transposition table](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=67599&start=2) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), May 30, 2018
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Plea for a computerchess beginners forum or FAQ](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76574&start=5) by [Marcel Vanthoor](Marcel_Vanthoor "Marcel Vanthoor"), [CCC](CCC "CCC"), March 09, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Debugging a transposition table](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=67599&start=2) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), May 30, 2018
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Plea for a computerchess beginners forum or FAQ](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76574&start=5) by [Marcel Vanthoor](Marcel_Vanthoor "Marcel Vanthoor"), [CCC](CCC "CCC"), March 09, 2021
 
 **[Up one Level](CPW-Engine "CPW-Engine")**
 

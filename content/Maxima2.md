@@ -95,8 +95,8 @@ with [bitboards](Bitboards "Bitboards"), [LMR](Late_Move_Reductions "Late Move R
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The graph of a 3D [paraboloid](https://en.wikipedia.org/wiki/Paraboloid) given by f(x,y) = -(x²+y²)+4, Shown is the [global maximum](https://en.wikipedia.org/wiki/Maxima_and_minima) of the surface, at (0,0,4), Selfmade with [MuPad](https://en.wikipedia.org/wiki/MuPAD), [Sam Derbyshire](https://en.wikipedia.org/wiki/User:Sam_Derbyshire), February 21, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [qm2/README.md at master · hof/qm2 · GitHub](https://github.com/hof/qm2/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The graph of a 3D [paraboloid](https://en.wikipedia.org/wiki/Paraboloid) given by f(x,y) = -(x²+y²)+4, Shown is the [global maximum](https://en.wikipedia.org/wiki/Maxima_and_minima) of the surface, at (0,0,4), Selfmade with [MuPad](https://en.wikipedia.org/wiki/MuPAD), [Sam Derbyshire](https://en.wikipedia.org/wiki/User:Sam_Derbyshire), February 21, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [qm2/README.md at master · hof/qm2 · GitHub](https://github.com/hof/qm2/blob/master/README.md)
 
 **[Up one Level](Engines "Engines")**
 

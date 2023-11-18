@@ -55,14 +55,14 @@ The [Winboard](Chess_Engine_Communication_Protocol "Chess Engine Communication P
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Schachclub Leinzell - Schach + PC - Shredder 5, Teil 1](http://scleinzell.schachvereine.de/p_spielprogramme/shredder5.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Chess Genius 6.5](https://groups.google.com/d/msg/rec.games.chess.computer/ie_jsMcfQbM/cXUNHOmWEL8J) by pc...@delthis.co.uk, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 24, 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: MCS adapter](https://www.stmintz.com/ccc/index.php?id=247865) by [Manfred Meiler](index.php?title=Manfred_Meiler&action=edit&redlink=1 "Manfred Meiler (page does not exist)"), [CCC](CCC "CCC"), August 26, 2002
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Schachclub Leinzell - Schach + PC - Nimzo 2000, Teil 1](http://scleinzell.schachvereine.de/p_spielprogramme/nimzo2000.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Stefan Meyer-Kahlen - Shredder III - engine für MCS](https://www.schachversand.de/de/shredder-iii-engine-fur-mcs.html) - [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Millennium Weltmeister Paket - Schachprogramm - Software](https://www.schachversand.de/de/millennium-weltmeister-paket.html) - [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Millennium (WM-Pacet 2001)](https://www.stmintz.com/ccc/index.php?id=154964) by Michael P. Nance Sr., [CCC](CCC "CCC"), February 17, 2001
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (**2008**). *[De firma Millennium 2000 GmbH Hegener & Weiner in vogelvlucht](http://www.schaakcomputers.nl/hein_veldhuis/database/files/Millennium%20information.pdf)*. (pdf with collected informations in Dutch and German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Schachclub Leinzell - Schach + PC - Shredder 5, Teil 1](http://scleinzell.schachvereine.de/p_spielprogramme/shredder5.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Chess Genius 6.5](https://groups.google.com/d/msg/rec.games.chess.computer/ie_jsMcfQbM/cXUNHOmWEL8J) by pc...@delthis.co.uk, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 24, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: MCS adapter](https://www.stmintz.com/ccc/index.php?id=247865) by [Manfred Meiler](index.php?title=Manfred_Meiler&action=edit&redlink=1 "Manfred Meiler (page does not exist)"), [CCC](CCC "CCC"), August 26, 2002
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Schachclub Leinzell - Schach + PC - Nimzo 2000, Teil 1](http://scleinzell.schachvereine.de/p_spielprogramme/nimzo2000.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Stefan Meyer-Kahlen - Shredder III - engine für MCS](https://www.schachversand.de/de/shredder-iii-engine-fur-mcs.html) - [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Millennium Weltmeister Paket - Schachprogramm - Software](https://www.schachversand.de/de/millennium-weltmeister-paket.html) - [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Millennium (WM-Pacet 2001)](https://www.stmintz.com/ccc/index.php?id=154964) by Michael P. Nance Sr., [CCC](CCC "CCC"), February 17, 2001
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (**2008**). *[De firma Millennium 2000 GmbH Hegener & Weiner in vogelvlucht](http://www.schaakcomputers.nl/hein_veldhuis/database/files/Millennium%20information.pdf)*. (pdf with collected informations in Dutch and German)
 
 **[Up one Level](GUI "GUI")**
 

@@ -106,14 +106,14 @@ Re8+ 53.Kd3 Rf8 54.c4 Rf3+ 55.Ke4 Rf8 56.Rxh5 Rc8 57.Re5 Rg8 58.h5 Rg4+ 59.Kd3 R
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The [number of the beast](https://en.wikipedia.org/wiki/Number_of_the_Beast) is [666](https://en.wikipedia.org/wiki/666_%28disambiguation%29) by [William Blake](index.php?title=Category:William_Blake&action=edit&redlink=1 "Category:William Blake (page does not exist)")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MASPV 2001](http://titanic.nyme.hu/~wyx/maspv2001/indexeng.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New WB engine "Bestia" available for download](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=31917) by [George Lyapko](George_Lyapko "George Lyapko"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 05, 2000
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:chess_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: How is learning triggered?](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=4867&p=25131#p25131) by [George Lyapko](George_Lyapko "George Lyapko"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 25, 2006
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [MASPV 2003 - PGN](http://titanic.nyme.hu/~wyx/maspv2003/indexeng.htm)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [MASPV 2003 photos](http://titanic.nyme.hu/~wyx/maspv2003/images.htm)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chameleon (composition) - Wikipedia](<https://en.wikipedia.org/wiki/Chameleon_(composition)>)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The [number of the beast](https://en.wikipedia.org/wiki/Number_of_the_Beast) is [666](https://en.wikipedia.org/wiki/666_%28disambiguation%29) by [William Blake](index.php?title=Category:William_Blake&action=edit&redlink=1 "Category:William Blake (page does not exist)")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MASPV 2001](http://titanic.nyme.hu/~wyx/maspv2001/indexeng.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New WB engine "Bestia" available for download](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=31917) by [George Lyapko](George_Lyapko "George Lyapko"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 05, 2000
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:chess_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: How is learning triggered?](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=4867&p=25131#p25131) by [George Lyapko](George_Lyapko "George Lyapko"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 25, 2006
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [MASPV 2003 - PGN](http://titanic.nyme.hu/~wyx/maspv2003/indexeng.htm)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [MASPV 2003 photos](http://titanic.nyme.hu/~wyx/maspv2003/images.htm)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chameleon (composition) - Wikipedia](<https://en.wikipedia.org/wiki/Chameleon_(composition)>)
 
 **[Up one level](Engines "Engines")**
 

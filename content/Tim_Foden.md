@@ -46,10 +46,10 @@ and was also involved in [robot auto racing simulation](https://en.wikipedia.org
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Brutus auf WM-Kurs?](https://de.chessbase.com/post/brutus-auf-wm-kurs-), [ChessBase](ChessBase "ChessBase") Nachrichten, November 24, 2003 (German), as of May 2019, Images no longer available
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Green Light Chess](http://www.7sun.com/chess/index.php)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sparky](http://rars.sourceforge.net/selection/sparky.html) by Tim Foden, [RARS mailing list](http://rars.sourceforge.net/selection/), August 22, 2000
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fluke at Sensei's Library](https://senseis.xmp.net/?Fluke)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Brutus auf WM-Kurs?](https://de.chessbase.com/post/brutus-auf-wm-kurs-), [ChessBase](ChessBase "ChessBase") Nachrichten, November 24, 2003 (German), as of May 2019, Images no longer available
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Green Light Chess](http://www.7sun.com/chess/index.php)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sparky](http://rars.sourceforge.net/selection/sparky.html) by Tim Foden, [RARS mailing list](http://rars.sourceforge.net/selection/), August 22, 2000
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fluke at Sensei's Library](https://senseis.xmp.net/?Fluke)
 
 **[Up one level](People "People")**
 

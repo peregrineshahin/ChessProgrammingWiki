@@ -53,7 +53,7 @@ GoBit features state of the art [search](Search "Search") techniques and is base
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [A Chess Engine in Go](https://www.youtube.com/playlist?list=PLftcy-r3mehgu4gikLTFoI1CXh2bHm3rf) [YouTube](https://en.wikipedia.org/wiki/YouTube) Videos
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [A Chess Engine in Go](https://www.youtube.com/playlist?list=PLftcy-r3mehgu4gikLTFoI1CXh2bHm3rf) [YouTube](https://en.wikipedia.org/wiki/YouTube) Videos
 
 **[Up one Level](Engines "Engines")**
 

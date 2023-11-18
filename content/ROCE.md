@@ -53,9 +53,9 @@ ROCE played the [WCRCC 2007](WCRCC_2007 "WCRCC 2007") and the [WCRCC 2008](WCRCC
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [A few informations regarding perft/divide](http://www.rocechess.ch/perft.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Legal or Pseudo-Legal Move generation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=35586&start=5) by [Roman Hartmann](Roman_Hartmann "Roman Hartmann"), [CCC](CCC "CCC"), July 27, 2010
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Description based on [ROCE - Roman's Own Chess Engine - A few technical details](http://www.rocechess.ch/rocee.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [A few informations regarding perft/divide](http://www.rocechess.ch/perft.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Legal or Pseudo-Legal Move generation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=35586&start=5) by [Roman Hartmann](Roman_Hartmann "Roman Hartmann"), [CCC](CCC "CCC"), July 27, 2010
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Description based on [ROCE - Roman's Own Chess Engine - A few technical details](http://www.rocechess.ch/rocee.html)
 
 **[Up one level](Engines "Engines")**
 

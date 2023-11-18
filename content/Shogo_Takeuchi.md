@@ -46,9 +46,9 @@ a Japanese computer scientist, lecturer at School of Information, [Kochi Univers
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Tsuda Lab. - Members](http://tsudalab.org/en/members/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Shogo Takeuchi's web site](https://sites.google.com/site/takeshogo/home)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Shogo Takeuchi](http://dblp.uni-trier.de/pers/hd/t/Takeuchi:Shogo)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Tsuda Lab. - Members](http://tsudalab.org/en/members/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shogo Takeuchi's web site](https://sites.google.com/site/takeshogo/home)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Shogo Takeuchi](http://dblp.uni-trier.de/pers/hd/t/Takeuchi:Shogo)
 
 **[Up one level](People "People")**
 

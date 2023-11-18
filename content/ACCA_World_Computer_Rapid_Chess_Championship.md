@@ -68,8 +68,8 @@ The **ACCA World Computer Rapid Chess Championship** are organized by the [Ameri
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: 2012 6th Annual ACCA World Computer Rapid Chess Championships](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=474133&t=43455) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), July 15, 2012
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ArasanX won the 2013 7th ACCA WCRCC](http://www.talkchess.com/forum/viewtopic.php?t=47741&postdays=0&postorder=asc&topic_view=&start=37) by [Lourenco A Oliveira Jr](Louren%C3%A7o_Araujo_de_Oliveira_Junior "Lourenço Araujo de Oliveira Junior"), [CCC](CCC "CCC"), July 21, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: 2012 6th Annual ACCA World Computer Rapid Chess Championships](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=474133&t=43455) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), July 15, 2012
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ArasanX won the 2013 7th ACCA WCRCC](http://www.talkchess.com/forum/viewtopic.php?t=47741&postdays=0&postorder=asc&topic_view=&start=37) by [Lourenco A Oliveira Jr](Louren%C3%A7o_Araujo_de_Oliveira_Junior "Lourenço Araujo de Oliveira Junior"), [CCC](CCC "CCC"), July 21, 2013
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

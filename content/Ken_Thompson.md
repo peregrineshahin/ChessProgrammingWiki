@@ -169,23 +169,23 @@ Since 2006 Ken Thompson has worked at [Google Inc.](index.php?title=Google&actio
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ken Thompson from Wikipedia](https://en.wikipedia.org/wiki/Ken_Thompson)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida") (**2011**). *The 2011 Japan Prize Awarded to Unix Pioneers*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ken Thompson, Dennis Ritchie win Japan 'Nobel' Prize](http://www.chessbase.com/newsdetail.asp?newsid=6970), [ChessBase News](ChessBase "ChessBase"), January 26, 2011
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ken Thompson's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=355)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [6-Piece Database Statistics](http://cm.bell-labs.com/who/ken/chesseg.html) by Ken Thompson, 2000
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chess pioneers in Sacher Hotel Vienna, Austria](http://www.computerhistory.org/collections/accession/102665753), Gift of [Benjamin Mittman](Ben_Mittman "Ben Mittman"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdcd092) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe3f6f0) Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd75253) Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Elwyn Berlekamp's Home Page - Thesis Students](http://math.berkeley.edu/%7Eberlek/students.html)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [6-Piece Database Statistics](http://cm.bell-labs.com/who/ken/chesseg.html) by Ken Thompson, 2000
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2000**). *[From Cognition to Perception](http://ilk.uvt.nl/icga/journal/contents/content23-4.htm#FROM%20COGNITION)*, [ICGA Journal, Vol. 23, No. 4](ICGA_Journal#23_4 "ICGA Journal")
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**2001**). *[Ken](http://ilk.uvt.nl/icga/journal/contents/content24-2.htm#Ken)*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**2001**). *[Ken Thompson's Influence on Computer Games Research](http://ilk.uvt.nl/icga/journal/contents/content24-2.htm#KEN%20THOMPSON)*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *[The Bell Captain](http://ilk.uvt.nl/icga/journal/contents/content24-2.htm#THE%20BELL%20CAPTAIN)*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Ken Thompson from Wikipedia](https://en.wikipedia.org/wiki/Ken_Thompson)
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ken Thompson from Wikipedia](https://en.wikipedia.org/wiki/Ken_Thompson)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida") (**2011**). *The 2011 Japan Prize Awarded to Unix Pioneers*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ken Thompson, Dennis Ritchie win Japan 'Nobel' Prize](http://www.chessbase.com/newsdetail.asp?newsid=6970), [ChessBase News](ChessBase "ChessBase"), January 26, 2011
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ken Thompson's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=355)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [6-Piece Database Statistics](http://cm.bell-labs.com/who/ken/chesseg.html) by Ken Thompson, 2000
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chess pioneers in Sacher Hotel Vienna, Austria](http://www.computerhistory.org/collections/accession/102665753), Gift of [Benjamin Mittman](Ben_Mittman "Ben Mittman"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdcd092) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe3f6f0) Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd75253) Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Elwyn Berlekamp's Home Page - Thesis Students](http://math.berkeley.edu/%7Eberlek/students.html)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [6-Piece Database Statistics](http://cm.bell-labs.com/who/ken/chesseg.html) by Ken Thompson, 2000
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2000**). *[From Cognition to Perception](http://ilk.uvt.nl/icga/journal/contents/content23-4.htm#FROM%20COGNITION)*, [ICGA Journal, Vol. 23, No. 4](ICGA_Journal#23_4 "ICGA Journal")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**2001**). *[Ken](http://ilk.uvt.nl/icga/journal/contents/content24-2.htm#Ken)*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**2001**). *[Ken Thompson's Influence on Computer Games Research](http://ilk.uvt.nl/icga/journal/contents/content24-2.htm#KEN%20THOMPSON)*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *[The Bell Captain](http://ilk.uvt.nl/icga/journal/contents/content24-2.htm#THE%20BELL%20CAPTAIN)*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Ken Thompson from Wikipedia](https://en.wikipedia.org/wiki/Ken_Thompson)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -31,12 +31,12 @@ an American computer scientist, programmer, inventor and entrepreneur, from 1959
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Resume for Larry Wagner](http://wagnercode.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Wagner Dsp Technologies - California Company Profile](http://www.bizapedia.com/ca/WAGNER-DSP-TECHNOLOGIES.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Resume for Larry Wagner](http://wagnercode.com/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Video Chess from Wikipedia](https://en.wikipedia.org/wiki/Video_Chess)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Tekla E. Perry](https://www.linkedin.com/in/tekla-perry-33b4a211), [Paul Wallich](http://spectrum.ieee.org/at-work/innovation/review-liars-outliers) (**1983**). *[Design case history: the Atari Video Computer System](http://www.atarimuseum.com/videogames/consoles/2600/Atari_case_history.html)*. [IEEE Spectrum](IEEE#Spectrum "IEEE"), March 1983, "Doing the 'impossible': chess"
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Silicon Gulch Gazette](ftp://bitsavers.informatik.uni-stuttgart.de/pdf/computerFaire/SiliconGulchGazette/) from [bitsavers.org](http://bitsavers.informatik.uni-stuttgart.de/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Resume for Larry Wagner](http://wagnercode.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Wagner Dsp Technologies - California Company Profile](http://www.bizapedia.com/ca/WAGNER-DSP-TECHNOLOGIES.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Resume for Larry Wagner](http://wagnercode.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Video Chess from Wikipedia](https://en.wikipedia.org/wiki/Video_Chess)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tekla E. Perry](https://www.linkedin.com/in/tekla-perry-33b4a211), [Paul Wallich](http://spectrum.ieee.org/at-work/innovation/review-liars-outliers) (**1983**). *[Design case history: the Atari Video Computer System](http://www.atarimuseum.com/videogames/consoles/2600/Atari_case_history.html)*. [IEEE Spectrum](IEEE#Spectrum "IEEE"), March 1983, "Doing the 'impossible': chess"
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Silicon Gulch Gazette](ftp://bitsavers.informatik.uni-stuttgart.de/pdf/computerFaire/SiliconGulchGazette/) from [bitsavers.org](http://bitsavers.informatik.uni-stuttgart.de/)
 
 **[Up one level](People "People")**
 

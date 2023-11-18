@@ -73,15 +73,15 @@ Ten years later, in 1993 at the [7th Advances in Computer Chess](Advances_in_Com
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alexander Reinefeld's homepage](http://www.zib.de/members/reinefeld)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Paderborn Center for Parallel Computing](http://wwwcs.uni-paderborn.de/pc2/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Alexander Reinefeld (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Alexander Reinefeld (**1983**). *An Improvement to the Scout Tree-Search Algorithm*. [ICCA Journal, Vol. 6, No. 4](ICGA_Journal#6_4 "ICGA Journal"), [pdf](http://www.top-5000.nl/ps/An%20improvement%20to%20the%20scout%20tree%20search%20algorithm.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Alexander Reinefeld (**1994**). *A Minimax Algorithm Faster than Alpha-Beta*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Subir Bhattacharya](Subir_Bhattacharya "Subir Bhattacharya"), [Amitava Bagchi](Amitava_Bagchi "Amitava Bagchi") (**1990**). *Unified Recursive Schemes for Search in Game Trees.* Technical Report WPS-144, [Indian Institute of Management, Calcutta](https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Calcutta)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Arie de Bruin](Arie_de_Bruin "Arie de Bruin"), [Wim Pijls](Wim_Pijls "Wim Pijls") (**1997**). *SSS†.* [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Alexander Reinefeld](http://www.informatik.uni-trier.de/~ley/pers/hd/r/Reinefeld:Alexander)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alexander Reinefeld's homepage](http://www.zib.de/members/reinefeld)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Paderborn Center for Parallel Computing](http://wwwcs.uni-paderborn.de/pc2/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Alexander Reinefeld (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Alexander Reinefeld (**1983**). *An Improvement to the Scout Tree-Search Algorithm*. [ICCA Journal, Vol. 6, No. 4](ICGA_Journal#6_4 "ICGA Journal"), [pdf](http://www.top-5000.nl/ps/An%20improvement%20to%20the%20scout%20tree%20search%20algorithm.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Alexander Reinefeld (**1994**). *A Minimax Algorithm Faster than Alpha-Beta*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Subir Bhattacharya](Subir_Bhattacharya "Subir Bhattacharya"), [Amitava Bagchi](Amitava_Bagchi "Amitava Bagchi") (**1990**). *Unified Recursive Schemes for Search in Game Trees.* Technical Report WPS-144, [Indian Institute of Management, Calcutta](https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Calcutta)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Arie de Bruin](Arie_de_Bruin "Arie de Bruin"), [Wim Pijls](Wim_Pijls "Wim Pijls") (**1997**). *SSS†.* [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Alexander Reinefeld](http://www.informatik.uni-trier.de/~ley/pers/hd/r/Reinefeld:Alexander)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -88,13 +88,13 @@ The [WCCC 2006](WCCC_2006 "WCCC 2006") along with the [37th Chess Olympiad](http
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [FIDE from Wikipedia](https://en.wikipedia.org/wiki/FIDE)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The United States Chess Federation - Larry Kaufman World Senior Champion!](http://main.uschess.org/content/view/8880/497/), November 8, 2008 » [Larry Kaufman](Larry_Kaufman "Larry Kaufman")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [FIDE - Recognized by the International Olympic Committee](http://www.fidecongress2011.pl/en/fide), [82nd Fide Congress, 15-22 Oct 2011, Krakow](http://www.fidecongress2011.pl/en)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [1st unofficial Chess Olympiad from Wikipedia](https://en.wikipedia.org/wiki/1st_unofficial_Chess_Olympiad)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess: The History of FIDE](http://www.chesshistory.com/winter/extra/fidehistory.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Affiliated International Organizations](https://www.fide.com/directory/affiliated-organizations)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2008**). *Computer Games in China*. [ICGA Journal, Vol. 31, No. 1](ICGA_Journal#31_1 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [FIDE from Wikipedia](https://en.wikipedia.org/wiki/FIDE)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The United States Chess Federation - Larry Kaufman World Senior Champion!](http://main.uschess.org/content/view/8880/497/), November 8, 2008 » [Larry Kaufman](Larry_Kaufman "Larry Kaufman")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [FIDE - Recognized by the International Olympic Committee](http://www.fidecongress2011.pl/en/fide), [82nd Fide Congress, 15-22 Oct 2011, Krakow](http://www.fidecongress2011.pl/en)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [1st unofficial Chess Olympiad from Wikipedia](https://en.wikipedia.org/wiki/1st_unofficial_Chess_Olympiad)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess: The History of FIDE](http://www.chesshistory.com/winter/extra/fidehistory.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Affiliated International Organizations](https://www.fide.com/directory/affiliated-organizations)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2008**). *Computer Games in China*. [ICGA Journal, Vol. 31, No. 1](ICGA_Journal#31_1 "ICGA Journal")
 
 **[Up one level](Organizations "Organizations")**
 

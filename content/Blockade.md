@@ -41,10 +41,10 @@ a chess term concerning the [mobility](Mobility "Mobility") of [pawns](Pawn "Paw
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch) (**1925**). *Die Blockade*. [Bernhard Kagan](https://en.wikipedia.org/wiki/Bernhard_Kagan), Berlin, English version by Philip Hereford (**1929**). *The Blockade*.
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nimzowitsch’s My System](http://www.chesshistory.com/winter/extra/mysystem.html) by [Edward Winter](<https://en.wikipedia.org/wiki/Edward_Winter_(chess_historian)>)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Blockade (Glossary of chess) from Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_chess#Blockade)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [My System (with The Blockade and other writings)](http://dev.jeremysilman.com/shop/pc/My-System-p3821.htm) review by [Jeremy Silman](https://en.wikipedia.org/wiki/Jeremy_Silman)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch) (**1925**). *Die Blockade*. [Bernhard Kagan](https://en.wikipedia.org/wiki/Bernhard_Kagan), Berlin, English version by Philip Hereford (**1929**). *The Blockade*.
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nimzowitsch’s My System](http://www.chesshistory.com/winter/extra/mysystem.html) by [Edward Winter](<https://en.wikipedia.org/wiki/Edward_Winter_(chess_historian)>)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Blockade (Glossary of chess) from Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_chess#Blockade)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [My System (with The Blockade and other writings)](http://dev.jeremysilman.com/shop/pc/My-System-p3821.htm) review by [Jeremy Silman](https://en.wikipedia.org/wiki/Jeremy_Silman)
 
 **[Up one Level](Chess "Chess")**
 

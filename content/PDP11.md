@@ -75,10 +75,10 @@ A second innovation was the memory bus called [Unibus](https://en.wikipedia.org/
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> PDP-11/40 as exhibited in [Vienna Technical Museum](https://en.wikipedia.org/wiki/Technisches_Museum_Wien). The processor is at the bottom. A [TU56](http://www.pdp8.net/tu56/tu56.shtml) dual [DECtape](https://en.wikipedia.org/wiki/DECtape) drive is installed above it. Photo by [Stefan Kögl](https://en.wikipedia.org/wiki/User:Stefan_K%C3%B6gl), December 18, 2005, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [PDP-11 from Wikipedia](https://en.wikipedia.org/wiki/PDP-11)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Endianness and hardware from Wikipedia](https://en.wikipedia.org/wiki/Endianness#Endianness_and_hardware)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [11.5 An amusing photo](http://www.netzmafia.de/skripten/unix/unix11.html) from Lecture "UNIX" by [Jürgen Plate](http://www.netzmafia.de/hm/plate.html) (German), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Ken Thompson from Wikipedia](https://en.wikipedia.org/wiki/Ken_Thompson)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Gordon Bell's Publications](http://research.microsoft.com/en-us/um/people/gbell/digital/decmuseum.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> PDP-11/40 as exhibited in [Vienna Technical Museum](https://en.wikipedia.org/wiki/Technisches_Museum_Wien). The processor is at the bottom. A [TU56](http://www.pdp8.net/tu56/tu56.shtml) dual [DECtape](https://en.wikipedia.org/wiki/DECtape) drive is installed above it. Photo by [Stefan Kögl](https://en.wikipedia.org/wiki/User:Stefan_K%C3%B6gl), December 18, 2005, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [PDP-11 from Wikipedia](https://en.wikipedia.org/wiki/PDP-11)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Endianness and hardware from Wikipedia](https://en.wikipedia.org/wiki/Endianness#Endianness_and_hardware)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [11.5 An amusing photo](http://www.netzmafia.de/skripten/unix/unix11.html) from Lecture "UNIX" by [Jürgen Plate](http://www.netzmafia.de/hm/plate.html) (German), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Ken Thompson from Wikipedia](https://en.wikipedia.org/wiki/Ken_Thompson)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Gordon Bell's Publications](http://research.microsoft.com/en-us/um/people/gbell/digital/decmuseum.htm)
 
 **[Up one Level](Hardware "Hardware")**
 

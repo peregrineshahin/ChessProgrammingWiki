@@ -24,10 +24,10 @@ a Dutch chess player, [Woman International Master](https://en.wikipedia.org/wiki
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Vrouwen op NK Bedrijvenschaak | Schaaksite](https://www.schaaksite.nl/2014/10/08/vrouwen-op-nk-bedrijvenschaak/) (Dutch), October 08, 2014
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jürgen Faas (**1995**). *Die fensterlde Dame*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), June-July 1995 (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jessica Harmsen](http://www.mobygames.com/developer/sheet/view/by_genre/developerId,22775/) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chessmaster 7000 - Credits - allgame](http://www.allgame.com/game.php?id=18851&tab=credits)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Vrouwen op NK Bedrijvenschaak | Schaaksite](https://www.schaaksite.nl/2014/10/08/vrouwen-op-nk-bedrijvenschaak/) (Dutch), October 08, 2014
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jürgen Faas (**1995**). *Die fensterlde Dame*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), June-July 1995 (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jessica Harmsen](http://www.mobygames.com/developer/sheet/view/by_genre/developerId,22775/) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chessmaster 7000 - Credits - allgame](http://www.allgame.com/game.php?id=18851&tab=credits)
 
 **[Up one level](People "People")**
 

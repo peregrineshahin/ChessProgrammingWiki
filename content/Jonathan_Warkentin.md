@@ -58,8 +58,8 @@ Check out his videos on his [YouTube](https://en.wikipedia.org/wiki/YouTube) Cha
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jonathan Warkentin Website: LogicCrazy](https://sites.google.com/site/jonathanwarkentinlogiccrazy/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Logic Crazy Chess](https://www.youtube.com/channel/UCmMjMHTeUEBJJZhxix-N-yg)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jonathan Warkentin Website: LogicCrazy](https://sites.google.com/site/jonathanwarkentinlogiccrazy/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Logic Crazy Chess](https://www.youtube.com/channel/UCmMjMHTeUEBJJZhxix-N-yg)
 
 **[Up one level](People "People")**
 

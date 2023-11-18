@@ -90,14 +90,14 @@ a British computer scientist and games programmer, author of the chess program [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [AI Factory - Founders and Contributing Engineers](http://www.aifactory.co.uk/AIF_Us.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jeff Rollason, [Didzis Cirulis](index.php?title=Didzis_Cirulis&action=edit&redlink=1 "Didzis Cirulis (page does not exist)") (**2005**). *[Treebeard - A new way to do Chess](http://www.aifactory.co.uk/newsletter/2005_02_treebeard_chess.htm)*. [AI Factory](AI_Factory "AI Factory"), Summer 2005
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [AI Factory](http://www.aifactory.co.uk/AIF_Index.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Jeff Rollason (**2001**). *Shotest wins Shogi tournament*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal"), pp. 187
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [World Computer Shogi Championship 2006 - AI Factory newsletter article Spring 2006](http://www.aifactory.co.uk/newsletter/2006_01_shogichampionship_2006.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Article Listing - AI Factory newsletter](http://www.aifactory.co.uk/newsletter/articles.htm)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Negative Plausibility Move Ordering](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=28873) by [Alessandro Damiani](Alessandro_Damiani "Alessandro Damiani"), [CCC](CCC "CCC"), July 09, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [AI Factory - Founders and Contributing Engineers](http://www.aifactory.co.uk/AIF_Us.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jeff Rollason, [Didzis Cirulis](index.php?title=Didzis_Cirulis&action=edit&redlink=1 "Didzis Cirulis (page does not exist)") (**2005**). *[Treebeard - A new way to do Chess](http://www.aifactory.co.uk/newsletter/2005_02_treebeard_chess.htm)*. [AI Factory](AI_Factory "AI Factory"), Summer 2005
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [AI Factory](http://www.aifactory.co.uk/AIF_Index.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Jeff Rollason (**2001**). *Shotest wins Shogi tournament*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal"), pp. 187
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [World Computer Shogi Championship 2006 - AI Factory newsletter article Spring 2006](http://www.aifactory.co.uk/newsletter/2006_01_shogichampionship_2006.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Article Listing - AI Factory newsletter](http://www.aifactory.co.uk/newsletter/articles.htm)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Negative Plausibility Move Ordering](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=28873) by [Alessandro Damiani](Alessandro_Damiani "Alessandro Damiani"), [CCC](CCC "CCC"), July 09, 2009
 
 **[Up one level](People "People")**
 

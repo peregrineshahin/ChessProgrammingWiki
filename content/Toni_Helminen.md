@@ -49,9 +49,9 @@ the [Shogi](Shogi "Shogi") engine [RubyShogi](index.php?title=RubyShogi&action=e
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SamuraiDangyo (Toni Helminen) · GitHub](https://github.com/SamuraiDangyo)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mayhem NNUE - New NN engine](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75500) by JohnWoe, [CCC](CCC "CCC"), October 22, 2020
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lazy sorting algorithm - Sorting on steroids](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79279) by JohnWoe, [CCC](CCC "CCC"), February 03, 2022
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SamuraiDangyo (Toni Helminen) · GitHub](https://github.com/SamuraiDangyo)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mayhem NNUE - New NN engine](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75500) by JohnWoe, [CCC](CCC "CCC"), October 22, 2020
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lazy sorting algorithm - Sorting on steroids](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79279) by JohnWoe, [CCC](CCC "CCC"), February 03, 2022
 
 **[Up one level](People "People")**
 

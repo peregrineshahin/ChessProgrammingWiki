@@ -109,9 +109,9 @@ Since version 1.5, released in June 2017, WyldChess supports [Syzygy Bases](Syzy
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WyldChess/defs.h at master · Mk-Chan/WyldChess · GitHub](https://github.com/Mk-Chan/WyldChess/blob/master/src/defs.h)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WyldChess 1.5 released](http://www.talkchess.com/forum/viewtopic.php?t=64174) by [Manik Charan](Manik_Charan "Manik Charan"), [CCC](CCC "CCC"), June 04, 2017
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Evaluation and Search Features mostly based on [WyldChess/README.md at master · Mk-Chan/WyldChess · GitHub](https://github.com/Mk-Chan/WyldChess/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WyldChess/defs.h at master · Mk-Chan/WyldChess · GitHub](https://github.com/Mk-Chan/WyldChess/blob/master/src/defs.h)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WyldChess 1.5 released](http://www.talkchess.com/forum/viewtopic.php?t=64174) by [Manik Charan](Manik_Charan "Manik Charan"), [CCC](CCC "CCC"), June 04, 2017
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Evaluation and Search Features mostly based on [WyldChess/README.md at master · Mk-Chan/WyldChess · GitHub](https://github.com/Mk-Chan/WyldChess/blob/master/README.md)
 
 **[Up one Level](Engines "Engines")**
 

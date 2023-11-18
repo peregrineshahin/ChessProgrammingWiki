@@ -62,12 +62,12 @@ and brought many innovations into chess programming concerning [bitboards](Bitbo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Steffan Westcott | LinkedIn](https://www.linkedin.com/in/steffanwestcott/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Click-Travel-named-Large-Tech-Company-of-the-Year - Click Travel](https://gk.news/clicktravel/press-release/click-travel-takes-top-tech-accolade-silicon-canal-awards/attachment/011-click-travel-named-large-tech-company-of-the-year/), November 30, 2017
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - clicktravel-steffan/Cheddar: Click's Hexagonal Domain-Driven Architecture](https://github.com/clicktravel-steffan/Cheddar)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [All shortest paths & other flood-fill based algorithms](https://www.stmintz.com/ccc/index.php?id=252020) by Steffan Westcott, [CCC](CCC "CCC"), September 13, 2002
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: algorithm question](https://www.stmintz.com/ccc/index.php?id=251180) by Steffan Westcott, [CCC](CCC "CCC"), September 09, 2002
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: flood fill attack bitboards](https://www.stmintz.com/ccc/index.php?id=252289) by Steffan Westcott, [CCC](CCC "CCC"), September 15, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Steffan Westcott | LinkedIn](https://www.linkedin.com/in/steffanwestcott/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Click-Travel-named-Large-Tech-Company-of-the-Year - Click Travel](https://gk.news/clicktravel/press-release/click-travel-takes-top-tech-accolade-silicon-canal-awards/attachment/011-click-travel-named-large-tech-company-of-the-year/), November 30, 2017
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - clicktravel-steffan/Cheddar: Click's Hexagonal Domain-Driven Architecture](https://github.com/clicktravel-steffan/Cheddar)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [All shortest paths & other flood-fill based algorithms](https://www.stmintz.com/ccc/index.php?id=252020) by Steffan Westcott, [CCC](CCC "CCC"), September 13, 2002
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: algorithm question](https://www.stmintz.com/ccc/index.php?id=251180) by Steffan Westcott, [CCC](CCC "CCC"), September 09, 2002
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: flood fill attack bitboards](https://www.stmintz.com/ccc/index.php?id=252289) by Steffan Westcott, [CCC](CCC "CCC"), September 15, 2002
 
 **[Up one level](People "People")**
 

@@ -47,8 +47,8 @@ The **12th Advances in Computer Games** was held from May 11-13, [2009](Timeline
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GRUPO CTH: Palacio del Condestable - Pamplona](http://www.cthnavarra.com/cth/web/cth/webcth.nsf/app/Obra/Palacio-Condestable)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Settlers of Catan from Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_of_Catan)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GRUPO CTH: Palacio del Condestable - Pamplona](http://www.cthnavarra.com/cth/web/cth/webcth.nsf/app/Obra/Palacio-Condestable)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Settlers of Catan from Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_of_Catan)
 
 **[Up one Level](Conferences "Conferences")**
 

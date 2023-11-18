@@ -119,14 +119,14 @@ and a [Stockfish](Stockfish "Stockfish") fork with [Cerebellum](index.php?title=
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [MichaelB7 · GitHub](https://github.com/MichaelB7)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Michael Byrne (**1996**). *M-Chess Pro 5.0 Book Learning Feature*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4, pp. 85-86 - About the Author p. 86
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kohai 1.0 Released - a Senpai Derivative](http://www.talkchess.com/forum/viewtopic.php?t=60393) by Michael B, [CCC](CCC "CCC"), June 06, 2016
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - MichaelB7/Kohai-Chess: UCI Chess Engine, a derivative of Senpai 1.0](https://github.com/MichaelB7/Kohai-Chess)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hawkeye 1.01 Released](http://www.talkchess.com/forum/viewtopic.php?t=60725) by Michael B, [CCC](CCC "CCC"), July 07, 2016
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [McBrain 2017](http://www.talkchess.com/forum/viewtopic.php?t=62732) by Michael B, [CCC](CCC "CCC"), January 06, 2017
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [a brief update - yet another name change](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71213) by Michael B, [CCC](CCC "CCC"), July 07, 2019
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Hans Kmoch vs Aron Nimzowitsch (1927)](http://www.chessgames.com/perl/chessgame?gid=1102423) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [MichaelB7 · GitHub](https://github.com/MichaelB7)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Michael Byrne (**1996**). *M-Chess Pro 5.0 Book Learning Feature*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4, pp. 85-86 - About the Author p. 86
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kohai 1.0 Released - a Senpai Derivative](http://www.talkchess.com/forum/viewtopic.php?t=60393) by Michael B, [CCC](CCC "CCC"), June 06, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - MichaelB7/Kohai-Chess: UCI Chess Engine, a derivative of Senpai 1.0](https://github.com/MichaelB7/Kohai-Chess)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hawkeye 1.01 Released](http://www.talkchess.com/forum/viewtopic.php?t=60725) by Michael B, [CCC](CCC "CCC"), July 07, 2016
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [McBrain 2017](http://www.talkchess.com/forum/viewtopic.php?t=62732) by Michael B, [CCC](CCC "CCC"), January 06, 2017
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [a brief update - yet another name change](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71213) by Michael B, [CCC](CCC "CCC"), July 07, 2019
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Hans Kmoch vs Aron Nimzowitsch (1927)](http://www.chessgames.com/perl/chessgame?gid=1102423) from [chessgames.com](http://www.chessgames.com/index.html)
 
 **[Up one level](People "People")**
 

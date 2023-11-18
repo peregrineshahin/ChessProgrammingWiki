@@ -72,9 +72,9 @@ ChessPartner 6, 3D pieces <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sjeng - chess, audio and misc. software](http://sjeng.org/deepsjeng.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [History of ChessPartner - Lokasoft - Home of ChessPartner](http://www.lokasoft.nl/history.aspx)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ChessPartner Screen shots | ChessPartner - Lokasoft - Home of ChessPartner](http://www.lokasoft.nl/chesspartner.aspx)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sjeng - chess, audio and misc. software](http://sjeng.org/deepsjeng.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [History of ChessPartner - Lokasoft - Home of ChessPartner](http://www.lokasoft.nl/history.aspx)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ChessPartner Screen shots | ChessPartner - Lokasoft - Home of ChessPartner](http://www.lokasoft.nl/chesspartner.aspx)
 
 **[Up one Level](GUI "GUI")**
 

@@ -63,14 +63,14 @@ a French mathematician, computer scientist and game researcher at [Paris Descart
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Welcome to Bruno Bouzy's page](http://www.math-info.univ-paris5.fr/~bouzy/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2007**). *[Monte-Carlo Tree Search in Crazy Stone](http://remi.coulom.free.fr/Hakone2007/)*. [slides as pdf](http://remi.coulom.free.fr/Hakone2007/Hakone.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Go playing program INDIGO](http://www.math-info.univ-paris5.fr/%7Ebouzy/INDIGO.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Sensei's Library: Indigo](http://senseis.xmp.net/?Indigo)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Bruno Bouzy (**1995**). *Modelisation Cognitive du Joueur de Go*. Mémoire de thèse de doctorat, [Paris 6 University](University_of_Paris#6 "University of Paris"), [pdf](http://bibliographie.jeudego.org/these_bruno_bouzy.pdf)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [DBLP: Bruno Bouzy](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/b/Bouzy:Bruno.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Bruno Bouzy - Publications](http://www.mi.parisdescartes.fr/%7Ebouzy/publications.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Tristan Cazenave homepage](http://www.lamsade.dauphine.fr/~cazenave/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Welcome to Bruno Bouzy's page](http://www.math-info.univ-paris5.fr/~bouzy/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2007**). *[Monte-Carlo Tree Search in Crazy Stone](http://remi.coulom.free.fr/Hakone2007/)*. [slides as pdf](http://remi.coulom.free.fr/Hakone2007/Hakone.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Go playing program INDIGO](http://www.math-info.univ-paris5.fr/%7Ebouzy/INDIGO.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Sensei's Library: Indigo](http://senseis.xmp.net/?Indigo)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Bruno Bouzy (**1995**). *Modelisation Cognitive du Joueur de Go*. Mémoire de thèse de doctorat, [Paris 6 University](University_of_Paris#6 "University of Paris"), [pdf](http://bibliographie.jeudego.org/these_bruno_bouzy.pdf)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [DBLP: Bruno Bouzy](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/b/Bouzy:Bruno.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Bruno Bouzy - Publications](http://www.mi.parisdescartes.fr/%7Ebouzy/publications.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Tristan Cazenave homepage](http://www.lamsade.dauphine.fr/~cazenave/)
 
 **[Up one level](People "People")**
 

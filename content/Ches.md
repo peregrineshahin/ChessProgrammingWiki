@@ -52,8 +52,8 @@ a chess program developed by a team of researchers and students affiliated with 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1975**). *Computer Chess*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), New York, N.Y. Chapter IX. The Fourth United States Computer Chess Championship
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) from [Computerschaak/Downloads/Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=13&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1975**). *Computer Chess*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), New York, N.Y. Chapter IX. The Fourth United States Computer Chess Championship
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) from [Computerschaak/Downloads/Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=13&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN")
 
 **[Up one Level](Engines "Engines")**
 

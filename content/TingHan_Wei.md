@@ -57,10 +57,10 @@ a Taiwanese computer scientist affiliated with the Department of Computer Scienc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Website Chairs & Secretary - IEEE CIG2015](http://cig2015.nctu.edu.tw/website-chairs-secretary)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Members - lab-aigames](http://www.aigames.nctu.edu.tw/members)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Events 2017: Day 6 - Photo 5 of 13](https://icga.leidenuniv.nl/?page_id=2185) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Ting-Han Wei](http://dblp.uni-trier.de/pers/hd/w/Wei:Ting=Han)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Website Chairs & Secretary - IEEE CIG2015](http://cig2015.nctu.edu.tw/website-chairs-secretary)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Members - lab-aigames](http://www.aigames.nctu.edu.tw/members)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Events 2017: Day 6 - Photo 5 of 13](https://icga.leidenuniv.nl/?page_id=2185) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Ting-Han Wei](http://dblp.uni-trier.de/pers/hd/w/Wei:Ting=Han)
 
 **[Up one Level](People "People")**
 

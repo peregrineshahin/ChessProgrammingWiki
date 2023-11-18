@@ -41,9 +41,9 @@ In his 2004 Master's thesis at [Technical University of Denmark](https://en.wiki
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Ravn Rasmussen - LinkedIn](https://www.linkedin.com/in/david-ravn-rasmussen-490388/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [\*\*\* 100 \*\*\* Chezzz 0.88 by David Rasmussen (Denmark) is available](http://www.open-aurec.com/wbforum/viewtopic.php?t=33815&p=128015) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 23, 2001
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> David Rasmussen (**2004**). *Parallel Chess Searching and Bitboards.* Masters thesis, [pdf](http://www.cs.cmu.edu/afs/cs/academic/class/15418-s12/www/competition/www.contrib.andrew.cmu.edu/~jvirdo/rasmussen-2004.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Ravn Rasmussen - LinkedIn](https://www.linkedin.com/in/david-ravn-rasmussen-490388/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [\*\*\* 100 \*\*\* Chezzz 0.88 by David Rasmussen (Denmark) is available](http://www.open-aurec.com/wbforum/viewtopic.php?t=33815&p=128015) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 23, 2001
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> David Rasmussen (**2004**). *Parallel Chess Searching and Bitboards.* Masters thesis, [pdf](http://www.cs.cmu.edu/afs/cs/academic/class/15418-s12/www/competition/www.contrib.andrew.cmu.edu/~jvirdo/rasmussen-2004.pdf)
 
 **[Up one Level](People "People")**
 

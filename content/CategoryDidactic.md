@@ -10,7 +10,7 @@ Chess engines for [didactic](https://en.wikipedia.org/wiki/Didactic_method) prog
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  Side view of an Italian [Colombo S.53](https://it.wikipedia.org/wiki/Colombo_S.53) 1930s 4-cylinder inline engine at the [Gianni Caproni Museum of Aeronautics](https://en.wikipedia.org/wiki/Gianni_Caproni_Museum_of_Aeronautics). Cut away for didactic purposes. Photo by [MLWatts](https://commons.wikimedia.org/wiki/User:MLWatts), August 23, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  Side view of an Italian [Colombo S.53](https://it.wikipedia.org/wiki/Colombo_S.53) 1930s 4-cylinder inline engine at the [Gianni Caproni Museum of Aeronautics](https://en.wikipedia.org/wiki/Gianni_Caproni_Museum_of_Aeronautics). Cut away for didactic purposes. Photo by [MLWatts](https://commons.wikimedia.org/wiki/User:MLWatts), August 23, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 ## Pages in category "Didactic"
 

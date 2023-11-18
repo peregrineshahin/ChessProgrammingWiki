@@ -65,10 +65,10 @@ and features [PVS](Principal_Variation_Search "Principal Variation Search") with
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lime tree in Kaditz](https://en.wikipedia.org/wiki/Kaditz_Lime_Tree), [lithography](https://en.wikipedia.org/wiki/Lithography) by [Carl Wilhelm Arldt](https://de.wikipedia.org/wiki/Carl_Wilhelm_Arldt), around 1840, Source: [Dresdner Neuesten Nachrichten](https://de.wikipedia.org/wiki/Dresdner_Neueste_Nachrichten), Oktober 22, 2007, Page 16, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Lime tree in culture - Wikipedia](https://en.wikipedia.org/wiki/Lime_tree_in_culture)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lime - UCI and Winboard Chess Engine](http://www.rja-software.com/Lime.php)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lime\_v39](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=3235&p=16054) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 06, 2005
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> lime\_66.zip\readme.txt
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lime tree in Kaditz](https://en.wikipedia.org/wiki/Kaditz_Lime_Tree), [lithography](https://en.wikipedia.org/wiki/Lithography) by [Carl Wilhelm Arldt](https://de.wikipedia.org/wiki/Carl_Wilhelm_Arldt), around 1840, Source: [Dresdner Neuesten Nachrichten](https://de.wikipedia.org/wiki/Dresdner_Neueste_Nachrichten), Oktober 22, 2007, Page 16, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Lime tree in culture - Wikipedia](https://en.wikipedia.org/wiki/Lime_tree_in_culture)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lime - UCI and Winboard Chess Engine](http://www.rja-software.com/Lime.php)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lime\_v39](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=3235&p=16054) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 06, 2005
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> lime\_66.zip\readme.txt
 
 **[Up one level](Engines "Engines")**
 

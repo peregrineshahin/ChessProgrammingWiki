@@ -51,13 +51,13 @@ and are often referred in the [Chess Programming Wiki](Home "Home").
 
 ## [pi-ref.txt](https://web.archive.org/web/20110723031036/http://www.boo.net/~jasonp/pi-ref.txt) by Carey Bloodworth, August 11, 1996 [pi8.c](https://web.archive.org/web/20110716175634/http://www.boo.net/~jasonp/pi8.c) by Carey Bloodworth, September 09, 1996 [snippets/pi8.c at master · vonj/snippets · GitHub](https://github.com/vonj/snippets.org/blob/master/pi8.c) [pi8.nfo](https://web.archive.org/web/20110716175701/http://www.boo.net/~jasonp/pi8.nfo) by Carey Bloodworth, September 27, 1996 References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Draw scores](http://www.talkchess.com/forum/viewtopic.php?t=16942) by Carey, [CCC](CCC "CCC"), October 05, 2007
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Update on my Classic Computer Chess programs collection](http://www.talkchess.com/forum/viewtopic.php?t=15812) by Carey, [CCC](CCC "CCC"), August 15, 2007
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [A short history of Wita-Awit](https://webdocs.cs.ualberta.ca/~tony/ICCA/wita-history-readme.txt) by [Tony Marsland](Tony_Marsland "Tony Marsland")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [pi_pc.html](http://www.cecm.sfu.ca/~jborwein/pi_pc.html) by Carey Bloodworth, June 21, 1999
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [jasonp's Pi Programs Page](http://www.boo.net/~jasonp/pipage.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Classic Computer Chess - ... The programs of yesteryear](http://web.archive.org/web/20071221115817/http://classicchess.googlepages.com/Chess.htm) by Carey ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Draw scores](http://www.talkchess.com/forum/viewtopic.php?t=16942) by Carey, [CCC](CCC "CCC"), October 05, 2007
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Update on my Classic Computer Chess programs collection](http://www.talkchess.com/forum/viewtopic.php?t=15812) by Carey, [CCC](CCC "CCC"), August 15, 2007
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [A short history of Wita-Awit](https://webdocs.cs.ualberta.ca/~tony/ICCA/wita-history-readme.txt) by [Tony Marsland](Tony_Marsland "Tony Marsland")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [pi_pc.html](http://www.cecm.sfu.ca/~jborwein/pi_pc.html) by Carey Bloodworth, June 21, 1999
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [jasonp's Pi Programs Page](http://www.boo.net/~jasonp/pipage.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Classic Computer Chess - ... The programs of yesteryear](http://web.archive.org/web/20071221115817/http://classicchess.googlepages.com/Chess.htm) by Carey ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
 
 **[Up one level](People "People")**
 

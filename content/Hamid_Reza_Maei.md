@@ -37,11 +37,11 @@ The goal of these algorithms was to bring us closer to the development of a univ
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lifeboat Foundation Bios: Hamid Reza Maei](https://lifeboat.com/ex/bios.hamid.reza.maei)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Hamid Reza Maei (**2011**). *[Gradient Temporal-Difference Learning Algorithms](https://era.library.ualberta.ca/items/fd55edcb-ce47-4f84-84e2-be281d27b16a)*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta"), advisor [Richard Sutton](Richard_Sutton "Richard Sutton")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Reinforcement Learning and Artificial Intelligence (RLAI)](http://rlai.ualberta.ca/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Lifeboat Foundation Bios: Hamid Reza Maei](https://lifeboat.com/ex/bios.hamid.reza.maei)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Hamid Reza Maei](http://dblp.uni-trier.de/pers/hd/m/Maei:Hamid_Reza)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lifeboat Foundation Bios: Hamid Reza Maei](https://lifeboat.com/ex/bios.hamid.reza.maei)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Hamid Reza Maei (**2011**). *[Gradient Temporal-Difference Learning Algorithms](https://era.library.ualberta.ca/items/fd55edcb-ce47-4f84-84e2-be281d27b16a)*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta"), advisor [Richard Sutton](Richard_Sutton "Richard Sutton")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Reinforcement Learning and Artificial Intelligence (RLAI)](http://rlai.ualberta.ca/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Lifeboat Foundation Bios: Hamid Reza Maei](https://lifeboat.com/ex/bios.hamid.reza.maei)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Hamid Reza Maei](http://dblp.uni-trier.de/pers/hd/m/Maei:Hamid_Reza)
 
 **[Up one level](People "People")**
 

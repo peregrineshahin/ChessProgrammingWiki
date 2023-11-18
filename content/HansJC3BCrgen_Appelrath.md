@@ -62,17 +62,17 @@ During the mid 70s at [University of Dortmund](University_of_Dortmund "Universit
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image by Dibo63, October 26, 2007, [Hans-Jürgen Appelrath from Wikipedia](https://en.wikipedia.org/wiki/Hans-J%C3%BCrgen_Appelrath)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [German Energy Transition](http://energytransition.de/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hans-Jürgen Appelrath - energytalks.com](http://www.energytalks.com/Contents/Referenten_E/appelrath.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hans-Jürgen Appelrath: Executive Profile & Biography - Businessweek](http://investing.businessweek.com/research/stocks/people/person.asp?personId=22629734&ticker=CWC:GR&previousCapId=881935&previousTitle=CEWE%20COLOR%20HOLDING%20AG)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hagen Huwig](Hagen_Huwig "Hagen Huwig") (**1975**). *[Bericht über eine Projektgruppe mit dem Thema Schachprogrammierung](http://www.worldcat.org/title/bericht-uber-eine-projektgruppe-mit-dem-thema-schachprogrammierung/oclc/632360799)*. Bericht Nr. 9, [University of Dortmund](University_of_Dortmund "University of Dortmund") (German)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](http://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Reinhard Zumkeller](Mathematician#Zumkeller "Mathematician") (**1975**). *Erstes GI Computer-Schach-Turnier, Dortmund 1975*, Bulletin, including a paper by [Konrad Zuse](Konrad_Zuse "Konrad Zuse")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Hans-Jürgen Appelrath](https://dblp.uni-trier.de/pers/hd/a/Appelrath:Hans=J=uuml=rgen.html)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Eureka (organization) from Wikipedia](https://en.wikipedia.org/wiki/Eureka_%28organization%29)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [EUREKA Project E!56 PROTOS II](http://www.eurekanetwork.org/project/-/id/56)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Bildgalerien | Alumni der Informatik Dortmund e.V.](http://alumni.cs.uni-dortmund.de/image)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image by Dibo63, October 26, 2007, [Hans-Jürgen Appelrath from Wikipedia](https://en.wikipedia.org/wiki/Hans-J%C3%BCrgen_Appelrath)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [German Energy Transition](http://energytransition.de/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hans-Jürgen Appelrath - energytalks.com](http://www.energytalks.com/Contents/Referenten_E/appelrath.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hans-Jürgen Appelrath: Executive Profile & Biography - Businessweek](http://investing.businessweek.com/research/stocks/people/person.asp?personId=22629734&ticker=CWC:GR&previousCapId=881935&previousTitle=CEWE%20COLOR%20HOLDING%20AG)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hagen Huwig](Hagen_Huwig "Hagen Huwig") (**1975**). *[Bericht über eine Projektgruppe mit dem Thema Schachprogrammierung](http://www.worldcat.org/title/bericht-uber-eine-projektgruppe-mit-dem-thema-schachprogrammierung/oclc/632360799)*. Bericht Nr. 9, [University of Dortmund](University_of_Dortmund "University of Dortmund") (German)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](http://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Reinhard Zumkeller](Mathematician#Zumkeller "Mathematician") (**1975**). *Erstes GI Computer-Schach-Turnier, Dortmund 1975*, Bulletin, including a paper by [Konrad Zuse](Konrad_Zuse "Konrad Zuse")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Hans-Jürgen Appelrath](https://dblp.uni-trier.de/pers/hd/a/Appelrath:Hans=J=uuml=rgen.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Eureka (organization) from Wikipedia](https://en.wikipedia.org/wiki/Eureka_%28organization%29)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [EUREKA Project E!56 PROTOS II](http://www.eurekanetwork.org/project/-/id/56)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Bildgalerien | Alumni der Informatik Dortmund e.V.](http://alumni.cs.uni-dortmund.de/image)
 
 **[Up one Level](People "People")**
 

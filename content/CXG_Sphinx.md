@@ -145,22 +145,22 @@ In the early 90s there were various Sphinx programs based on [Gyula Horváth's](
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The Great Sphinx partially excavated, published between 1867 and 1899. Most probably in De l'Égypte et de la Nubie, vol. 1-2, éd. Bonfils, Alais (Alès, FR), 1878, [Great Sphinx of Giza from Wikipedia](https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CXG Electronic Chess Computers](http://www.spacious-mind.com/html/cxg.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CXG](http://www.schach-computer.info/wiki/index.php/CXG) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CXG Sphinx 40](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_40) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CXG Sphinx 50](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_50) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") (**1987**). *The 7th World Microcomputer Chess Championship, Rome, Italy, September 14-20, 1987*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [The Ultra Rare Collection](http://www.flickr.com/photos/10261668@N05/sets/72157600923814103/detail/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Rome 1987 - Chess (Manufacturers) - Round 6 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=161&round=6&id=1)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [CXG Sphinx Titan](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_Titan) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [CXG Super Enterprise](http://www.schach-computer.info/wiki/index.php/CXG_Super_Enterprise) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [CXG Sphinx Galaxy](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_Galaxy) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [CXG Sphinx Dominator](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_Dominator) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Horvath Play Styles](http://www.hiarcs.net/forums/viewtopic.php?t=6967) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 27, 2014
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [February 2013 nor'easter from Wikipedia](https://en.wikipedia.org/wiki/February_2013_nor%27easter)
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> List of computers from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The Great Sphinx partially excavated, published between 1867 and 1899. Most probably in De l'Égypte et de la Nubie, vol. 1-2, éd. Bonfils, Alais (Alès, FR), 1878, [Great Sphinx of Giza from Wikipedia](https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CXG Electronic Chess Computers](http://www.spacious-mind.com/html/cxg.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CXG](http://www.schach-computer.info/wiki/index.php/CXG) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CXG Sphinx 40](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_40) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CXG Sphinx 50](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_50) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") (**1987**). *The 7th World Microcomputer Chess Championship, Rome, Italy, September 14-20, 1987*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [The Ultra Rare Collection](http://www.flickr.com/photos/10261668@N05/sets/72157600923814103/detail/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Rome 1987 - Chess (Manufacturers) - Round 6 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=161&round=6&id=1)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [CXG Sphinx Titan](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_Titan) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [CXG Super Enterprise](http://www.schach-computer.info/wiki/index.php/CXG_Super_Enterprise) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [CXG Sphinx Galaxy](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_Galaxy) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [CXG Sphinx Dominator](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_Dominator) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Horvath Play Styles](http://www.hiarcs.net/forums/viewtopic.php?t=6967) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 27, 2014
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [February 2013 nor'easter from Wikipedia](https://en.wikipedia.org/wiki/February_2013_nor%27easter)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> List of computers from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
 
 **[Up one level](Engines "Engines")**
 

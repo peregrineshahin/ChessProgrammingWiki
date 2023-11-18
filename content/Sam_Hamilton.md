@@ -40,10 +40,10 @@ As computer chess programmer Sam is author of the chess engines [LearningLemming
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hamilton, Sam FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=2040409)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hannibal - Chess Engine Portal](https://sites.google.com/site/edapostol/hannibal)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computerschach, Interview with Edsel Apostol](https://www.schach-welt.de/schach/computerschach/interviews/edsel-apostol) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), February 25, 2010
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: community test result web page?](http://www.talkchess.com/forum/viewtopic.php?t=17344&start=4) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), October 26, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hamilton, Sam FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=2040409)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hannibal - Chess Engine Portal](https://sites.google.com/site/edapostol/hannibal)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computerschach, Interview with Edsel Apostol](https://www.schach-welt.de/schach/computerschach/interviews/edsel-apostol) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), February 25, 2010
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: community test result web page?](http://www.talkchess.com/forum/viewtopic.php?t=17344&start=4) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), October 26, 2007
 
 **[Up one Level](People "People")**
 

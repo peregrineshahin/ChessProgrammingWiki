@@ -40,11 +40,11 @@ a didactic [open source chess program](Category:Open_Source "Category:Open Sourc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender"), [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1995**). *Schach am PC, Bits und Bytes im königlichen Spiel*. Markt und Technik Buch 1995, ISBN: 978-3-87791-522-6 (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [qBASIC Chess program - from 1984 by Dieter Steinwender](http://www.stmintz.com/ccc/index.php?id=286508) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), February 23, 2003
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Minimax in BASIC](http://web.archive.org/web/20160313043530/http://home.pacific.net.au/~tommyinoz/minimax.html) converted to [WinBoard](WinBoard "WinBoard") by [Thomas McBurney](Thomas_McBurney "Thomas McBurney") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 2016)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Bauer & Schweitzer - Webdesign, Software, Shareware, Freeware, EDV - MiniMAX and DelphiMax](http://web.archive.org/web/20160307143139if_/http://bauer-schweitzer.de/index.html?minimax/index_minimax.html) (German, [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 2016)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> minimax - c-source, see [MiniMAX und seine Derivate](http://www.schachfeld.de/f202/minimax-derivate-9732/) by lovo, [Schachfeld.de](http://www.schachfeld.de/), June 24, 2009 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender"), [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1995**). *Schach am PC, Bits und Bytes im königlichen Spiel*. Markt und Technik Buch 1995, ISBN: 978-3-87791-522-6 (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [qBASIC Chess program - from 1984 by Dieter Steinwender](http://www.stmintz.com/ccc/index.php?id=286508) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), February 23, 2003
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Minimax in BASIC](http://web.archive.org/web/20160313043530/http://home.pacific.net.au/~tommyinoz/minimax.html) converted to [WinBoard](WinBoard "WinBoard") by [Thomas McBurney](Thomas_McBurney "Thomas McBurney") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 2016)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Bauer & Schweitzer - Webdesign, Software, Shareware, Freeware, EDV - MiniMAX and DelphiMax](http://web.archive.org/web/20160307143139if_/http://bauer-schweitzer.de/index.html?minimax/index_minimax.html) (German, [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 2016)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> minimax - c-source, see [MiniMAX und seine Derivate](http://www.schachfeld.de/f202/minimax-derivate-9732/) by lovo, [Schachfeld.de](http://www.schachfeld.de/), June 24, 2009 (German)
 
 **[Up one Level](Engines "Engines")**
 

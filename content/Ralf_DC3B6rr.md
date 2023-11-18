@@ -21,7 +21,7 @@ a German software developer and chess programmer. Along with [Norbert Esser](Nor
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Clipped from [2e prijs: Ralf Dörr en Norbert Esser auteurs van Nexus](https://old.csvn.nl/pics2004/nexus02.jpg), [24th Open Dutch Computer Chess Championship 2004 - Photo Gallery](http://old.csvn.nl/gallery21.html), [DOCCC 2004](DOCCC_2004 "DOCCC 2004")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Clipped from [2e prijs: Ralf Dörr en Norbert Esser auteurs van Nexus](https://old.csvn.nl/pics2004/nexus02.jpg), [24th Open Dutch Computer Chess Championship 2004 - Photo Gallery](http://old.csvn.nl/gallery21.html), [DOCCC 2004](DOCCC_2004 "DOCCC 2004")
 
 **[Up one level](People "People")**
 

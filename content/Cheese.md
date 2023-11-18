@@ -126,9 +126,9 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A [Coulommiers cheese](https://en.wikipedia.org/wiki/Coulommiers_cheese) made from [unpasteurised](https://en.wikipedia.org/wiki/Pasteurization) [cow's](https://en.wikipedia.org/wiki/Cattle) [milk](https://en.wikipedia.org/wiki/Milk), [Image](https://commons.wikimedia.org/wiki/File:Coulommiers_lait_cru.jpg) by [Myrabella](https://commons.wikimedia.org/wiki/User:Myrabella), May 13, 2010, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cheese Chess - Downloads](http://cheesechess.free.fr/en/download.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> based on [Cheese Chess - Features](http://cheesechess.free.fr/en/features.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A [Coulommiers cheese](https://en.wikipedia.org/wiki/Coulommiers_cheese) made from [unpasteurised](https://en.wikipedia.org/wiki/Pasteurization) [cow's](https://en.wikipedia.org/wiki/Cattle) [milk](https://en.wikipedia.org/wiki/Milk), [Image](https://commons.wikimedia.org/wiki/File:Coulommiers_lait_cru.jpg) by [Myrabella](https://commons.wikimedia.org/wiki/User:Myrabella), May 13, 2010, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cheese Chess - Downloads](http://cheesechess.free.fr/en/download.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> based on [Cheese Chess - Features](http://cheesechess.free.fr/en/features.html)
 
 **[Up one Level](Engines "Engines")**
 

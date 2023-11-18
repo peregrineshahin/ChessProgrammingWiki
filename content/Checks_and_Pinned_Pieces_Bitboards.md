@@ -128,7 +128,7 @@ r->   . . 1 1 . . . .
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Pinned Pieces With Bitboards](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79617&start=2) by tcusr, [CCC](CCC "CCC"), April 01, 2022
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Pinned Pieces With Bitboards](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79617&start=2) by tcusr, [CCC](CCC "CCC"), April 01, 2022
 
 [Up one Level](Bitboards "Bitboards")
 

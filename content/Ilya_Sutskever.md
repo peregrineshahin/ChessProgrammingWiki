@@ -55,15 +55,15 @@ title: Ilya Sutskever
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ilya Sutskever - Google Scholar Citations](https://scholar.google.com/citations?user=x04W_mMAAAAJ)
- 2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Google Buys Toronto University Startup For Better Voice, Image Recognition | Fast Company | Business + Innovation](http://www.fastcompany.com/3006944/tech-forecast/google-buys-toronto-university-startup-better-voice-image-recognition) by [Kit Eaton](http://www.fastcompany.com/user/kit-eaton), March 13, 2013 
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Ilya Sutskever (**2007**). *[Nonlinear Multilayered Sequence Models](http://www.cs.utoronto.ca/~ilya/MS_thesis/)*. Master's thesis, [University of Toronto](University_of_Toronto "University of Toronto")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Ilya Sutskever (**2013**). *Training Recurrent Neural Networks*. Ph.D. thesis, [University of Toronto](University_of_Toronto "University of Toronto"), [pdf](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Convolutional neural networks from Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chris J. Maddison](Chris_J._Maddison "Chris J. Maddison"), [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), Ilya Sutskever, [David Silver](David_Silver "David Silver") (**2014**). *Move Evaluation in Go Using Deep Convolutional Neural Networks*. [arXiv:1412.6564v1](http://arxiv.org/abs/1412.6564v1)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Ilya Sutskever](http://dblp.uni-trier.de/pers/hd/s/Sutskever:Ilya)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Ilya Sutskever - Publications - Papers](https://www.cs.toronto.edu/~ilya/pubs/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Move Evaluation in Go Using Deep Convolutional Neural Networks](http://computer-go.org/pipermail/computer-go/2014-December/007046.html) by [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [The Computer-go Archives](http://computer-go.org/pipermail/computer-go/), December 19, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ilya Sutskever - Google Scholar Citations](https://scholar.google.com/citations?user=x04W_mMAAAAJ)
+ 2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Google Buys Toronto University Startup For Better Voice, Image Recognition | Fast Company | Business + Innovation](http://www.fastcompany.com/3006944/tech-forecast/google-buys-toronto-university-startup-better-voice-image-recognition) by [Kit Eaton](http://www.fastcompany.com/user/kit-eaton), March 13, 2013 
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Ilya Sutskever (**2007**). *[Nonlinear Multilayered Sequence Models](http://www.cs.utoronto.ca/~ilya/MS_thesis/)*. Master's thesis, [University of Toronto](University_of_Toronto "University of Toronto")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Ilya Sutskever (**2013**). *Training Recurrent Neural Networks*. Ph.D. thesis, [University of Toronto](University_of_Toronto "University of Toronto"), [pdf](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Convolutional neural networks from Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chris J. Maddison](Chris_J._Maddison "Chris J. Maddison"), [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), Ilya Sutskever, [David Silver](David_Silver "David Silver") (**2014**). *Move Evaluation in Go Using Deep Convolutional Neural Networks*. [arXiv:1412.6564v1](http://arxiv.org/abs/1412.6564v1)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Ilya Sutskever](http://dblp.uni-trier.de/pers/hd/s/Sutskever:Ilya)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Ilya Sutskever - Publications - Papers](https://www.cs.toronto.edu/~ilya/pubs/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Move Evaluation in Go Using Deep Convolutional Neural Networks](http://computer-go.org/pipermail/computer-go/2014-December/007046.html) by [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [The Computer-go Archives](http://computer-go.org/pipermail/computer-go/), December 19, 2014
 
 **[Up one level](People "People")**
 

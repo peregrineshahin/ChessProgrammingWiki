@@ -45,11 +45,11 @@ and has set up the distributed and collaborative [Perft](Perft "Perft") framewor
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Giuseppe Cannella | LinkedIn](https://www.linkedin.com/in/giuseppe-cannella-37ab5082/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [chessboard.js » Home](http://chessboardjs.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bitboard Calculator](http://cinnamonchess.altervista.org/bitboard_calculator/Calc.html) by Giuseppe Cannella
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - gekomad/chess-engine-eval-debugger: Chess engine web evaluator](https://github.com/gekomad/chess-engine-eval-debugger)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Auriga](http://cinnamonchess.altervista.org/auriga) by Giuseppe Cannella
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Giuseppe Cannella | LinkedIn](https://www.linkedin.com/in/giuseppe-cannella-37ab5082/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [chessboard.js » Home](http://chessboardjs.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bitboard Calculator](http://cinnamonchess.altervista.org/bitboard_calculator/Calc.html) by Giuseppe Cannella
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - gekomad/chess-engine-eval-debugger: Chess engine web evaluator](https://github.com/gekomad/chess-engine-eval-debugger)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Auriga](http://cinnamonchess.altervista.org/auriga) by Giuseppe Cannella
 
 **[Up one level](People "People")**
 

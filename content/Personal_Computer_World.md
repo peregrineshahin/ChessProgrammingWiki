@@ -97,9 +97,9 @@ was the first British computer magazine founded by Angelo Zgorelec <a id="cite-n
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Levy](David_Levy "David Levy") (**1978**). *The PCW Microcomputer Chess Championships*. Personal Computer World, [November 1978](http://www.chesscomputeruk.com/html/publication_archive.html) » [PCW-MCC 1978](PCW-MCC_1978 "PCW-MCC 1978"), [Mike Johnson](Mike_Johnson "Mike Johnson"), [Mike](Mike "Mike")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Visit Croatia - About The Authors - PCW Article](http://www.visit-croatia.co.uk/aboutauthors/articles.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Personal Computer World from Wikipedia](https://en.wikipedia.org/wiki/Personal_Computer_World)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Levy](David_Levy "David Levy") (**1978**). *The PCW Microcomputer Chess Championships*. Personal Computer World, [November 1978](http://www.chesscomputeruk.com/html/publication_archive.html) » [PCW-MCC 1978](PCW-MCC_1978 "PCW-MCC 1978"), [Mike Johnson](Mike_Johnson "Mike Johnson"), [Mike](Mike "Mike")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Visit Croatia - About The Authors - PCW Article](http://www.visit-croatia.co.uk/aboutauthors/articles.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Personal Computer World from Wikipedia](https://en.wikipedia.org/wiki/Personal_Computer_World)
 
 **[Up one Level](Periodical "Periodical")**
 

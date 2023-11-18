@@ -28,11 +28,11 @@ Kim Walisch provides a header-only [C](C "C")/[C++](Cpp "Cpp") library for [coun
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Referent Kim Walisch www.primzahlen.de](http://www.primzahlen.de/referenten/Kim_Walisch/index2.htm) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Formula for primes from Wikipedia](https://en.wikipedia.org/wiki/Formula_for_primes)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - kimwalisch/primesieve: Fast C/C++ prime number generator](https://github.com/kimwalisch/primesieve)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - kimwalisch/libpopcnt: Fast C/C++ bit population count library](https://github.com/kimwalisch/libpopcnt)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Wojciech Muła](Wojciech_Mu%C5%82a "Wojciech Muła"), [Nathan Kurz](https://dblp.uni-trier.de/pers/hd/k/Kurz:Nathan), [Daniel Lemire](https://github.com/lemire) (**2016**). *Faster Population Counts Using AVX2 Instructions*. [arXiv:1611.07612](https://arxiv.org/abs/1611.07612)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Referent Kim Walisch www.primzahlen.de](http://www.primzahlen.de/referenten/Kim_Walisch/index2.htm) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Formula for primes from Wikipedia](https://en.wikipedia.org/wiki/Formula_for_primes)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - kimwalisch/primesieve: Fast C/C++ prime number generator](https://github.com/kimwalisch/primesieve)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - kimwalisch/libpopcnt: Fast C/C++ bit population count library](https://github.com/kimwalisch/libpopcnt)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Wojciech Muła](Wojciech_Mu%C5%82a "Wojciech Muła"), [Nathan Kurz](https://dblp.uni-trier.de/pers/hd/k/Kurz:Nathan), [Daniel Lemire](https://github.com/lemire) (**2016**). *Faster Population Counts Using AVX2 Instructions*. [arXiv:1611.07612](https://arxiv.org/abs/1611.07612)
 
 **[Up one level](People "People")**
 

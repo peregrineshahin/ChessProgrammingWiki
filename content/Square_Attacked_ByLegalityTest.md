@@ -303,11 +303,11 @@ If one considers white and black pawns as disjoint pieces even without color inf
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Max Ernst from Wikipedia](https://en.wikipedia.org/wiki/Max_Ernst)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: AttacksTo() bitboard](http://www.talkchess.com/forum/viewtopic.php?t=50684&start=2) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), December 29, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Bitboard user's information request](https://www.stmintz.com/ccc/index.php?id=72098) by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [CCC](CCC "CCC"), October 06, 1999
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: bit boards - what is betwen](http://www.talkchess.com/forum/viewtopic.php?start=0&t=46240&start=14) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), December 04, 2012
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Check idea + bittwiddler request](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=12499&start=14) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), April 06, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Max Ernst from Wikipedia](https://en.wikipedia.org/wiki/Max_Ernst)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: AttacksTo() bitboard](http://www.talkchess.com/forum/viewtopic.php?t=50684&start=2) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), December 29, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Bitboard user's information request](https://www.stmintz.com/ccc/index.php?id=72098) by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [CCC](CCC "CCC"), October 06, 1999
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: bit boards - what is betwen](http://www.talkchess.com/forum/viewtopic.php?start=0&t=46240&start=14) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), December 04, 2012
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Check idea + bittwiddler request](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=12499&start=14) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), April 06, 2007
 
 **[Up one Level](Bitboards "Bitboards")**
 

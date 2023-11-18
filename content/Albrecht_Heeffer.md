@@ -100,30 +100,30 @@ Albrecht Heeffer, [Mathias Feist](Mathias_Feist "Mathias Feist") and [Frans Mors
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Albrecht Heeffer | Sarton Centre for History of Science](http://www.sarton.ugent.be/node/32)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sources in the history of algebra](http://logica.ugent.be/albrecht/math.php) by Albrecht Heeffer
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Albrecht Heeffer (**2006**). *Van precepten tot vergelijkingen: de conceptuele ontwikkeling van de symbolische algebra in de zestiende eeuw*. Ph. D. thesis, [Universiteit Gent](https://en.wikipedia.org/wiki/Ghent_University)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Members | Centre for Logic and Philosophy of Science](https://www.clps.ugent.be/people/members)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Albrecht Heeffer (**1984**). *Automated Acquisition on Concepts for the Description of Middle-game Positions in Chess*. [Turing Institute](https://en.wikipedia.org/wiki/Turing_Institute), [Glasgow](https://en.wikipedia.org/wiki/Glasgow), [Scotland](https://en.wikipedia.org/wiki/Scotland), TIRM-85-005
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a>  Albrecht Heeffer (**1985**). *[Validating Concepts from Automated Acquisition Systems](http://hdl.handle.net/1854/LU-1112217)*. [IJCAI 85](Conferences#IJCAI "Conferences"), [pdf](http://ijcai.org/Past%20Proceedings/IJCAI-85-VOL1/PDF/118.pdf), This work was carried out during a three month visit at the [Turing Institute](https://en.wikipedia.org/wiki/Turing_Institute). Financial support was provided by the Belgian [NFWO](https://en.wikipedia.org/wiki/National_Fund_for_Scientific_Research) and the ICIWO. I would like to express my thank s to [Prof. F. Vandamme](https://biblio.ugent.be/person/801000230837) of the [University of Ghent](https://en.wikipedia.org/wiki/Ghent_University), and to [Prof. Donald Michie](Donald_Michie "Donald Michie"), [Mr John Roycroft](John_Roycroft "John Roycroft") and [Dr Tim Niblett](Tim_Niblett "Tim Niblett") of the Turing Institute, for their helpful suggestions
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Bionic Vs Crafty Debate: some data required](https://www.stmintz.com/ccc/index.php?id=40771) by Albrecht Heeffer, [CCC](CCC "CCC"), January 25, 1999 » [Crafty](Crafty "Crafty")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Leiden 2001](http://titanic.nyme.hu/%7Ewyx/csvn2001/) by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [ICT Leiden 2001 - download](http://www.csvn.nl/downloads/partijen/csvn-international-computer-chess-tournament/62-ict-leiden-2001/file)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Albrecht Heeffer - My game against Habu](http://logica.ugent.be/albrecht/habu.html)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Preprints from 1995 on](http://logica.ugent.be/centrum/writings/pubs.php)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Albrecht Heeffer - Publications](https://biblio.ugent.be/person/801000575690)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [dblp: Albrecht Heeffer](http://www.informatik.uni-trier.de/~ley/pers/hd/h/Heeffer:Albrecht)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Johannes Kepler from Wikipedia](https://en.wikipedia.org/wiki/Johannes_Kepler)
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Mastermind (board game) from Wikipedia](https://en.wikipedia.org/wiki/Mastermind_%28board_game%29)
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Luca Pacioli from Wikipedia](https://en.wikipedia.org/wiki/Luca_Pacioli)
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Estienne de la Roche from Wikipedia](https://en.wikipedia.org/wiki/Estienne_de_La_Roche)
-1. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Nicolas Chuquet from Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Chuquet)
-1. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [Regiomontanus from Wikipedia](https://en.wikipedia.org/wiki/Regiomontanus)
-1. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [Knowledge extraction from Wikipedia](https://en.wikipedia.org/wiki/Knowledge_extraction)
-1. <a id="cite-ref-21" href="#cite-note-21">[21]</a> [Emperor Meiji from Wikipedia](https://en.wikipedia.org/wiki/Emperor_Meiji)
-1. <a id="cite-ref-22" href="#cite-note-22">[22]</a> [Sangaku from Wikipedia](https://en.wikipedia.org/wiki/Sangaku)
-1. <a id="cite-ref-23" href="#cite-note-23">[23]</a> [Gerolamo Cardano from Wikipedia](https://en.wikipedia.org/wiki/Gerolamo_Cardano)
-1. <a id="cite-ref-24" href="#cite-note-24">[24]</a> [Sybrandt Hansz. Cardinael - Wikipedia.nl](https://nl.wikipedia.org/wiki/Sybrandt_Hansz._Cardinael) (Dutch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Albrecht Heeffer | Sarton Centre for History of Science](http://www.sarton.ugent.be/node/32)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sources in the history of algebra](http://logica.ugent.be/albrecht/math.php) by Albrecht Heeffer
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Albrecht Heeffer (**2006**). *Van precepten tot vergelijkingen: de conceptuele ontwikkeling van de symbolische algebra in de zestiende eeuw*. Ph. D. thesis, [Universiteit Gent](https://en.wikipedia.org/wiki/Ghent_University)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Members | Centre for Logic and Philosophy of Science](https://www.clps.ugent.be/people/members)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Albrecht Heeffer (**1984**). *Automated Acquisition on Concepts for the Description of Middle-game Positions in Chess*. [Turing Institute](https://en.wikipedia.org/wiki/Turing_Institute), [Glasgow](https://en.wikipedia.org/wiki/Glasgow), [Scotland](https://en.wikipedia.org/wiki/Scotland), TIRM-85-005
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a>  Albrecht Heeffer (**1985**). *[Validating Concepts from Automated Acquisition Systems](http://hdl.handle.net/1854/LU-1112217)*. [IJCAI 85](Conferences#IJCAI "Conferences"), [pdf](http://ijcai.org/Past%20Proceedings/IJCAI-85-VOL1/PDF/118.pdf), This work was carried out during a three month visit at the [Turing Institute](https://en.wikipedia.org/wiki/Turing_Institute). Financial support was provided by the Belgian [NFWO](https://en.wikipedia.org/wiki/National_Fund_for_Scientific_Research) and the ICIWO. I would like to express my thank s to [Prof. F. Vandamme](https://biblio.ugent.be/person/801000230837) of the [University of Ghent](https://en.wikipedia.org/wiki/Ghent_University), and to [Prof. Donald Michie](Donald_Michie "Donald Michie"), [Mr John Roycroft](John_Roycroft "John Roycroft") and [Dr Tim Niblett](Tim_Niblett "Tim Niblett") of the Turing Institute, for their helpful suggestions
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Bionic Vs Crafty Debate: some data required](https://www.stmintz.com/ccc/index.php?id=40771) by Albrecht Heeffer, [CCC](CCC "CCC"), January 25, 1999 » [Crafty](Crafty "Crafty")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Leiden 2001](http://titanic.nyme.hu/%7Ewyx/csvn2001/) by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ICT Leiden 2001 - download](http://www.csvn.nl/downloads/partijen/csvn-international-computer-chess-tournament/62-ict-leiden-2001/file)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Albrecht Heeffer - My game against Habu](http://logica.ugent.be/albrecht/habu.html)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Preprints from 1995 on](http://logica.ugent.be/centrum/writings/pubs.php)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Albrecht Heeffer - Publications](https://biblio.ugent.be/person/801000575690)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [dblp: Albrecht Heeffer](http://www.informatik.uni-trier.de/~ley/pers/hd/h/Heeffer:Albrecht)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Johannes Kepler from Wikipedia](https://en.wikipedia.org/wiki/Johannes_Kepler)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Mastermind (board game) from Wikipedia](https://en.wikipedia.org/wiki/Mastermind_%28board_game%29)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Luca Pacioli from Wikipedia](https://en.wikipedia.org/wiki/Luca_Pacioli)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Estienne de la Roche from Wikipedia](https://en.wikipedia.org/wiki/Estienne_de_La_Roche)
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Nicolas Chuquet from Wikipedia](https://en.wikipedia.org/wiki/Nicolas_Chuquet)
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Regiomontanus from Wikipedia](https://en.wikipedia.org/wiki/Regiomontanus)
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Knowledge extraction from Wikipedia](https://en.wikipedia.org/wiki/Knowledge_extraction)
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Emperor Meiji from Wikipedia](https://en.wikipedia.org/wiki/Emperor_Meiji)
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Sangaku from Wikipedia](https://en.wikipedia.org/wiki/Sangaku)
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Gerolamo Cardano from Wikipedia](https://en.wikipedia.org/wiki/Gerolamo_Cardano)
+1. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Sybrandt Hansz. Cardinael - Wikipedia.nl](https://nl.wikipedia.org/wiki/Sybrandt_Hansz._Cardinael) (Dutch)
 
 **[Up one level](People "People")**
 

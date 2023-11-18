@@ -35,8 +35,8 @@ Aleks also supported the [Stockfish](Stockfish "Stockfish") development in makin
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=140314) by Aleks Peshkov, [CCC](CCC "CCC"), August 25, 2007
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stockfish Blog - Stockfish 1.9](http://web.archive.org/web/20151128030323/http://blog.stockfishchess.org/post/6064085404/stockfish-19), October 2, 2010 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=140314) by Aleks Peshkov, [CCC](CCC "CCC"), August 25, 2007
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stockfish Blog - Stockfish 1.9](http://web.archive.org/web/20151128030323/http://blog.stockfishchess.org/post/6064085404/stockfish-19), October 2, 2010 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](People "People")**
 

@@ -52,15 +52,15 @@ Along with [Steve Otto](Steve_Otto "Steve Otto"), [Rod Morison](index.php?title=
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Ed Felten, June 07, 2007, [Ed Felten | Flickr - Fotosharing!](https://www.flickr.com/photos/joi/535489184/sizes/o/in/photostream/), [Felten - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Edward_FeltenCategory:Edward)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Scott A. Craver](https://scholar.google.com/citations?user=s2Jfd_EAAAAJ&hl=en), [Min Wu](https://scholar.google.com/citations?user=tF0R04oAAAAJ&hl=en), [Bede Liu](http://ee.princeton.edu/people/faculty/bede-liu), [Adam Stubblefield](https://www.cs.jhu.edu/~astubble/), [Ben Swartzlander](https://www.linkedin.com/pub/ben-swartzlander/1/894/b18), [Dan S. Wallach](https://scholar.google.com/citations?user=oM25EQkAAAAJ&hl=en), Ed Felten ( **2001**). *Reading Between the Lines: Lessons from the SDMI Challenge*. [10th USENIX Security Symposium](https://www.usenix.org/legacy/events/sec01/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Edward Felten from Wikipedia](https://en.wikipedia.org/wiki/Edward_Felten)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Waycool's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=359)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Edward W. Felten - Publications](https://www.cs.princeton.edu/~felten/papers.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Edward W. Felten](https://dblp.uni-trier.de/pers/hd/f/Felten:Edward_W=)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Travelling salesman problem from Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Digital rights management from Wikipedia](https://en.wikipedia.org/wiki/Digital_rights_management)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Fair use from Wikipedia](https://en.wikipedia.org/wiki/Fair_use)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Ed Felten, June 07, 2007, [Ed Felten | Flickr - Fotosharing!](https://www.flickr.com/photos/joi/535489184/sizes/o/in/photostream/), [Felten - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Edward_FeltenCategory:Edward)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Scott A. Craver](https://scholar.google.com/citations?user=s2Jfd_EAAAAJ&hl=en), [Min Wu](https://scholar.google.com/citations?user=tF0R04oAAAAJ&hl=en), [Bede Liu](http://ee.princeton.edu/people/faculty/bede-liu), [Adam Stubblefield](https://www.cs.jhu.edu/~astubble/), [Ben Swartzlander](https://www.linkedin.com/pub/ben-swartzlander/1/894/b18), [Dan S. Wallach](https://scholar.google.com/citations?user=oM25EQkAAAAJ&hl=en), Ed Felten ( **2001**). *Reading Between the Lines: Lessons from the SDMI Challenge*. [10th USENIX Security Symposium](https://www.usenix.org/legacy/events/sec01/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Edward Felten from Wikipedia](https://en.wikipedia.org/wiki/Edward_Felten)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Waycool's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=359)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Edward W. Felten - Publications](https://www.cs.princeton.edu/~felten/papers.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Edward W. Felten](https://dblp.uni-trier.de/pers/hd/f/Felten:Edward_W=)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Travelling salesman problem from Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Digital rights management from Wikipedia](https://en.wikipedia.org/wiki/Digital_rights_management)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Fair use from Wikipedia](https://en.wikipedia.org/wiki/Fair_use)
 
 **[Up one level](People "People")**
 

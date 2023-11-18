@@ -43,11 +43,11 @@ a Japanese computer scientist at [Fukuoka Institute of Technology](https://en.wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Fukuoka Institute of Technology - Makoto Sakuta](http://www.fit.ac.jp/research/search/profile/edit_lang_division/E/id/103)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Makoto Sakuta (**2001**). *Deterministic Solving of Problems with Uncertainty*. Ph.D. thesis, Department of Schience and Engeneering, [Shizuoka University](https://en.wikipedia.org/wiki/Shizuoka_University)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Makoto Sakuta](https://dblp.uni-trier.de/pers/hd/s/Sakuta:Makoto)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ScienceDirect - Information Sciences : Application of the killer-tree heuristic and the lambda-search method to lines of action](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V0C-47VH35R-3&_user=10&_coverDate=09%2F30%2F2003&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1552460904&_rerunOrigin=google&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=1d9bce14fd47b45fbf1ebabd9e791404&searchtype=a)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Fukuoka Institute of Technology - Makoto Sakuta](http://www.fit.ac.jp/research/search/profile/edit_lang_division/E/id/103)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Makoto Sakuta (**2001**). *Deterministic Solving of Problems with Uncertainty*. Ph.D. thesis, Department of Schience and Engeneering, [Shizuoka University](https://en.wikipedia.org/wiki/Shizuoka_University)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Makoto Sakuta](https://dblp.uni-trier.de/pers/hd/s/Sakuta:Makoto)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ScienceDirect - Information Sciences : Application of the killer-tree heuristic and the lambda-search method to lines of action](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V0C-47VH35R-3&_user=10&_coverDate=09%2F30%2F2003&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1552460904&_rerunOrigin=google&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=1d9bce14fd47b45fbf1ebabd9e791404&searchtype=a)
 
 **[Up one level](People "People")**
 

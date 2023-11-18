@@ -56,16 +56,16 @@ Manfred Hegener and [Florian Glaser](index.php?title=Florian_Glaser&action=edit&
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Clipped from [Millennium 2000 Electronic Chess Computer Collection](http://www.spacious-mind.com/html/millennium.html), [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hegener & Glaser (Mephisto)](http://www.ismenio.com/mephisto.html) from [ChessComputers.org](http://www.ismenio.com/chess_computers.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Der große Mantelaktien-Report](https://coldipo.com/Undervalued-Shares-MAR-D-200712.pdf) (pdf) Sonderreport, December 2007 (German), pp 103. [Stella Entertainment AG i. L](https://de.wikipedia.org/wiki/Stella_AG) (ehem. Hegener + Glaser AG), from [Undervalued-Shares.com](https://www.undervalued-shares.com/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hegener Marketing GmbH, Eichenau - HRB 101071 Amtsgericht München | CompanyHouse](https://www.companyhouse.de/Hegener-Marketing-GmbH-Eichenau) (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [MILLENNIUM 2000 GmbH - Story](http://www.millennium2000.de/story.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Millennium 2000 GmbH Hegener & Weiner, Aschheim - Geschäftsstelle | CompanyHouse](https://www.companyhouse.de/Millennium-2000-GmbH-Hegener-Weiner-Aschheim) (German)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Picture from [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") hosted by [Hegener & Glaser (Mephisto)](http://www.ismenio.com/mephisto.html) from [ChessComputers.org](http://www.ismenio.com/chess_computers.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Chess TV-World Cup](https://youtu.be/yYNZtRDgH0c) - German free of ads regional [ARD broadcaster](https://en.wikipedia.org/wiki/ARD_%28broadcaster%29), [Drittes](https://de.wikipedia.org/wiki/Drittes_Fernsehprogramm), moderated by [Helmut Pfleger](https://en.wikipedia.org/wiki/Helmut_Pfleger), [Mephisto](Mephisto "Mephisto") advertisement for instance at 6:27
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *A Match for Brute Force*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [May 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Clipped from [Millennium 2000 Electronic Chess Computer Collection](http://www.spacious-mind.com/html/millennium.html), [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hegener & Glaser (Mephisto)](http://www.ismenio.com/mephisto.html) from [ChessComputers.org](http://www.ismenio.com/chess_computers.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Der große Mantelaktien-Report](https://coldipo.com/Undervalued-Shares-MAR-D-200712.pdf) (pdf) Sonderreport, December 2007 (German), pp 103. [Stella Entertainment AG i. L](https://de.wikipedia.org/wiki/Stella_AG) (ehem. Hegener + Glaser AG), from [Undervalued-Shares.com](https://www.undervalued-shares.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hegener Marketing GmbH, Eichenau - HRB 101071 Amtsgericht München | CompanyHouse](https://www.companyhouse.de/Hegener-Marketing-GmbH-Eichenau) (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [MILLENNIUM 2000 GmbH - Story](http://www.millennium2000.de/story.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Millennium 2000 GmbH Hegener & Weiner, Aschheim - Geschäftsstelle | CompanyHouse](https://www.companyhouse.de/Millennium-2000-GmbH-Hegener-Weiner-Aschheim) (German)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Picture from [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") hosted by [Hegener & Glaser (Mephisto)](http://www.ismenio.com/mephisto.html) from [ChessComputers.org](http://www.ismenio.com/chess_computers.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chess TV-World Cup](https://youtu.be/yYNZtRDgH0c) - German free of ads regional [ARD broadcaster](https://en.wikipedia.org/wiki/ARD_%28broadcaster%29), [Drittes](https://de.wikipedia.org/wiki/Drittes_Fernsehprogramm), moderated by [Helmut Pfleger](https://en.wikipedia.org/wiki/Helmut_Pfleger), [Mephisto](Mephisto "Mephisto") advertisement for instance at 6:27
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *A Match for Brute Force*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [May 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
 
 **[Up one level](People "People")**
 

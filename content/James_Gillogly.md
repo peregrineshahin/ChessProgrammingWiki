@@ -32,12 +32,12 @@ James Gillogly was the primary author of the [The Technology Chess Program](Tech
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Participants - Kryptos](http://www.pbs.org/wgbh/nova/sciencenow/3411/bios.html) from [NOVA Science NOW](http://www.pbs.org/wgbh/nova/sciencenow/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> James Gillogly (**1978**). *Performance Analysis of the Technology Chess Program*. Ph.D. Thesis. Tech. Report CMU-CS-78-189, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [CMU-CS-77 pdf](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/scan/CMU-CS-77-gillogly.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> James Gillogly (**1970**). *[MAX : A FORTRAN Chess Player](http://www.rand.org/pubs/papers/P4428/)*. [RAND](http://www.rand.org/) paper
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Samuel Fuller](Samuel_Fuller "Samuel Fuller"), [John Gaschnig](John_Gaschnig "John Gaschnig"), James Gillogly (**1973**). *An Analysis of the Alpha-Beta Pruning Algorithm.* Technical Report, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Articles by Gillogly at rand.org, 1970–2004](http://www.rand.org/pubs/authors/g/gillogly_james_j.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Participants - Kryptos](http://www.pbs.org/wgbh/nova/sciencenow/3411/bios.html) from [NOVA Science NOW](http://www.pbs.org/wgbh/nova/sciencenow/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> James Gillogly (**1978**). *Performance Analysis of the Technology Chess Program*. Ph.D. Thesis. Tech. Report CMU-CS-78-189, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [CMU-CS-77 pdf](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/scan/CMU-CS-77-gillogly.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> James Gillogly (**1970**). *[MAX : A FORTRAN Chess Player](http://www.rand.org/pubs/papers/P4428/)*. [RAND](http://www.rand.org/) paper
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Samuel Fuller](Samuel_Fuller "Samuel Fuller"), [John Gaschnig](John_Gaschnig "John Gaschnig"), James Gillogly (**1973**). *An Analysis of the Alpha-Beta Pruning Algorithm.* Technical Report, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Articles by Gillogly at rand.org, 1970–2004](http://www.rand.org/pubs/authors/g/gillogly_james_j.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

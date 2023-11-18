@@ -217,14 +217,14 @@ The [SSDF](SSDF "SSDF") tested numerous versions of The King on the hardware of 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lewis chessmen from Wikipedia](https://en.wikipedia.org/wiki/Lewis_chessmen)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mads Brevik](index.php?title=Mads_Brevik&action=edit&redlink=1 "Mads Brevik (page does not exist)") (**1994**). *[Chessmaster 4000 Turbo for Windows from Mindscape](http://www.ibiblio.org/GameBytes/issue18/greviews/chess/chess.html)*. [Game Bytes Magazine](http://www.ibiblio.org/GameBytes/issue18/editor/pub.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chessmaster from Wikipedia](https://en.wikipedia.org/wiki/Chessmaster)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Why is Chessmaster so popular in CCC?](https://www.stmintz.com/ccc/index.php?id=117882) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), July 05, 2000
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the [11th World Microcomputer Chess Championship](WMCCC_1991 "WMCCC 1991")*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 14, No. 2
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Photos](http://old.csvn.nl/mei2003toernooi.html) from the old [CSVN](CSVN "CSVN") site
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The SSDF Rating List](http://ssdf.bosjo.net/list.htm)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: A theory of ratings drift for the SSDF](https://www.stmintz.com/ccc/index.php?id=222392) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), April 09, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lewis chessmen from Wikipedia](https://en.wikipedia.org/wiki/Lewis_chessmen)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mads Brevik](index.php?title=Mads_Brevik&action=edit&redlink=1 "Mads Brevik (page does not exist)") (**1994**). *[Chessmaster 4000 Turbo for Windows from Mindscape](http://www.ibiblio.org/GameBytes/issue18/greviews/chess/chess.html)*. [Game Bytes Magazine](http://www.ibiblio.org/GameBytes/issue18/editor/pub.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chessmaster from Wikipedia](https://en.wikipedia.org/wiki/Chessmaster)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Why is Chessmaster so popular in CCC?](https://www.stmintz.com/ccc/index.php?id=117882) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), July 05, 2000
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the [11th World Microcomputer Chess Championship](WMCCC_1991 "WMCCC 1991")*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 14, No. 2
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Photos](http://old.csvn.nl/mei2003toernooi.html) from the old [CSVN](CSVN "CSVN") site
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The SSDF Rating List](http://ssdf.bosjo.net/list.htm)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: A theory of ratings drift for the SSDF](https://www.stmintz.com/ccc/index.php?id=222392) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), April 09, 2002
 
 **[Up one Level](Engines "Engines")**
 

@@ -26,9 +26,9 @@ and while affiliated with [Spotify](https://en.wikipedia.org/wiki/Spotify) for f
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [erikbern (Erik Bernhardsson) · GitHub](https://github.com/erikbern)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Building data pipelines using Luigi, with Erik Bernhardsson of Spotify - NYC Data Science (New York, NY) - Meetup](https://www.meetup.com/de-DE/NYC-Data-Science/events/218604422/?eventId=218604422), December 16, 2014
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Interview with a Data Scientist: Erik Bernhardsson](https://peadarcoyle.com/2015/10/03/interview-with-a-data-scientist-erik-bernhardsson/) | [Models are illuminating and wrong](https://peadarcoyle.wordpress.com/), October 03, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [erikbern (Erik Bernhardsson) · GitHub](https://github.com/erikbern)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Building data pipelines using Luigi, with Erik Bernhardsson of Spotify - NYC Data Science (New York, NY) - Meetup](https://www.meetup.com/de-DE/NYC-Data-Science/events/218604422/?eventId=218604422), December 16, 2014
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Interview with a Data Scientist: Erik Bernhardsson](https://peadarcoyle.com/2015/10/03/interview-with-a-data-scientist-erik-bernhardsson/) | [Models are illuminating and wrong](https://peadarcoyle.wordpress.com/), October 03, 2015
 
 **[Up one level](People "People")**
 

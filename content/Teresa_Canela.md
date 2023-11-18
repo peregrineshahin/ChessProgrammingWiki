@@ -36,12 +36,12 @@ Along with chess player and chess programmer [Josep Parés](Natalia_Par%C3%A9s "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Escacs i escacs: Escacs femenins a Catalunya](http://axiomarsg.blogspot.com/2014/01/escacs-femenins-catalunya.html) (Catalan) by [Roger Salvo](https://www.blogger.com/profile/14536523641438339948), January 5, 2014
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Canela Gimenez, Teresa FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=2201739)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [FIDE Country Top chess players](http://ratings.fide.com/topfed.phtml?tops=1&ina=2&country=ESP)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Escacs i escacs: Escacs femenins a Catalunya](http://axiomarsg.blogspot.de/2014/01/escacs-femenins-catalunya.html) (Catalan) by [Roger Salvo](https://www.blogger.com/profile/14536523641438339948), January 5, 2014
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Tuzla Interzonal (Women) 1987 - 365Chess.com Tournaments](http://www.365chess.com/tournaments/Tuzla_Interzonal_%28Women%29_1987/20448)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Escacs i escacs: Escacs femenins a Catalunya](http://axiomarsg.blogspot.com/2014/01/escacs-femenins-catalunya.html) (Catalan) by [Roger Salvo](https://www.blogger.com/profile/14536523641438339948), January 5, 2014
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Canela Gimenez, Teresa FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=2201739)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [FIDE Country Top chess players](http://ratings.fide.com/topfed.phtml?tops=1&ina=2&country=ESP)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Escacs i escacs: Escacs femenins a Catalunya](http://axiomarsg.blogspot.de/2014/01/escacs-femenins-catalunya.html) (Catalan) by [Roger Salvo](https://www.blogger.com/profile/14536523641438339948), January 5, 2014
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Tuzla Interzonal (Women) 1987 - 365Chess.com Tournaments](http://www.365chess.com/tournaments/Tuzla_Interzonal_%28Women%29_1987/20448)
 
 **[Up one level](People "People")**
 

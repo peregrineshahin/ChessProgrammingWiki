@@ -32,14 +32,14 @@ In the early 70s at [University of Southern California](University_of_Southern_C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Charles Kalme vs. Suren Momo, [7th World Student Team Chess Championship: Leningrad 1960](http://www.olimpbase.org/1960y/1960in.html), from [Una Riga di scacchi | SoloScacchi](http://soloscacchi.altervista.org/?p=7288) by Martin Eden, March 24, 2010 (Italian)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Charles Kalme from Wikipedia](https://en.wikipedia.org/wiki/Charles_Kalme)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Eric Tangborn](http://www.chessmentor.com/buy.html), [John Donaldson](https://en.wikipedia.org/wiki/William_John_Donaldson) (**1999**). *[The Unknown Bobby Fischer](http://archive.org/stream/The_Unknown_Bobby_Fischer/The_Unknown_Bobby_Fischer_djvu.txt)*. International Chess Enterprises
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mathematicians and Chess | Charles Kalme](http://wdjoyner.wordpress.com/2012/11/12/mathematicians-and-chess/) by [David Joyner](https://plus.google.com/115358366054719749968/posts)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Charles Kalme (**1967**). *Contributions to the Theory of Discontinuous Groups of Mobius Transformations*. Ph.D. thesis, [New York University](https://en.wikipedia.org/wiki/New_York_University), advisor [Lipman Bers](Mathematician#LipmanBers "Mathematician")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Mathematicians and Chess | Charles Kalme](http://wdjoyner.wordpress.com/2012/11/12/mathematicians-and-chess/) by [David Joyner](https://plus.google.com/115358366054719749968/posts)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Albert Zobrist](Albert_Zobrist "Albert Zobrist"), [Frederic Roy Carlson](Frederic_Roy_Carlson "Frederic Roy Carlson") (**1973**). *An Advice-Taking Chess Computer*. [Scientific American](Scientific_American "Scientific American"), Vol. 228
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1975**). *Computer Chess*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), New York, N.Y., Chapter VII. The Third United States Computer Chess Championship
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Charles Kalme vs. Suren Momo, [7th World Student Team Chess Championship: Leningrad 1960](http://www.olimpbase.org/1960y/1960in.html), from [Una Riga di scacchi | SoloScacchi](http://soloscacchi.altervista.org/?p=7288) by Martin Eden, March 24, 2010 (Italian)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Charles Kalme from Wikipedia](https://en.wikipedia.org/wiki/Charles_Kalme)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Eric Tangborn](http://www.chessmentor.com/buy.html), [John Donaldson](https://en.wikipedia.org/wiki/William_John_Donaldson) (**1999**). *[The Unknown Bobby Fischer](http://archive.org/stream/The_Unknown_Bobby_Fischer/The_Unknown_Bobby_Fischer_djvu.txt)*. International Chess Enterprises
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mathematicians and Chess | Charles Kalme](http://wdjoyner.wordpress.com/2012/11/12/mathematicians-and-chess/) by [David Joyner](https://plus.google.com/115358366054719749968/posts)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Charles Kalme (**1967**). *Contributions to the Theory of Discontinuous Groups of Mobius Transformations*. Ph.D. thesis, [New York University](https://en.wikipedia.org/wiki/New_York_University), advisor [Lipman Bers](Mathematician#LipmanBers "Mathematician")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mathematicians and Chess | Charles Kalme](http://wdjoyner.wordpress.com/2012/11/12/mathematicians-and-chess/) by [David Joyner](https://plus.google.com/115358366054719749968/posts)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Albert Zobrist](Albert_Zobrist "Albert Zobrist"), [Frederic Roy Carlson](Frederic_Roy_Carlson "Frederic Roy Carlson") (**1973**). *An Advice-Taking Chess Computer*. [Scientific American](Scientific_American "Scientific American"), Vol. 228
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1975**). *Computer Chess*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), New York, N.Y., Chapter VII. The Third United States Computer Chess Championship
 
 **[Up one Level](People "People")**
 

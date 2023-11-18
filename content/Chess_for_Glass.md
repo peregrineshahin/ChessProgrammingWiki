@@ -45,9 +45,9 @@ feat. [Michał Urbaniak](Category:Michal_Urbaniak "Category:Michal Urbaniak"), [
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Google Developers: Start building great Glassware](https://developers.google.com/glass/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Glassware - Google Glass Help](https://support.google.com/glass/topic/4363294?hl=en&ref_topic=4363303)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Images from [Aart's Glass Page](http://www.aartbik.com/GLASS/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Google Developers: Start building great Glassware](https://developers.google.com/glass/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Glassware - Google Glass Help](https://support.google.com/glass/topic/4363294?hl=en&ref_topic=4363303)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Images from [Aart's Glass Page](http://www.aartbik.com/GLASS/index.html)
 
 **[Up one Level](Engines "Engines")**
 

@@ -47,12 +47,12 @@ Qd4 16.Qxd4+ Kf4 17.Qe5+ Kg4 18.Qg5# 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Guild Emblems, [Zunftzeichen - Wikipedia.de](https://de.wikipedia.org/wiki/Zunftzeichen) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](http://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Dame verschmäht, [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 24/1973, June 1973, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1973,%20Der%20Spiegel,%20Spasski%20spielt%20gegen%20einen%20Computer.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1983**). *Computerschaak, Schaakwereld en Kunstmatige Intelligentie*. Ph.D. thesis, [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology"). Academic Service, The Hague. ISBN 90 62 33 093 2 (Dutch) 2.2.15. Het Fischer-Schneider-programma
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Dame verschmäht, [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 24/1973, June 1973, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1973,%20Der%20Spiegel,%20Spasski%20spielt%20gegen%20einen%20Computer.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Konrad Zuse](Konrad_Zuse "Konrad Zuse") (**1975**). *Vom Traum zür Wirklichkeit*. Mitteilungen der [Universität Dortmund](University_of_Dortmund "University of Dortmund"), Sondernummer 12, pp. 4.
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Guild Emblems, [Zunftzeichen - Wikipedia.de](https://de.wikipedia.org/wiki/Zunftzeichen) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](http://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Dame verschmäht, [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 24/1973, June 1973, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1973,%20Der%20Spiegel,%20Spasski%20spielt%20gegen%20einen%20Computer.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1983**). *Computerschaak, Schaakwereld en Kunstmatige Intelligentie*. Ph.D. thesis, [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology"). Academic Service, The Hague. ISBN 90 62 33 093 2 (Dutch) 2.2.15. Het Fischer-Schneider-programma
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Dame verschmäht, [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 24/1973, June 1973, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1973,%20Der%20Spiegel,%20Spasski%20spielt%20gegen%20einen%20Computer.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Konrad Zuse](Konrad_Zuse "Konrad Zuse") (**1975**). *Vom Traum zür Wirklichkeit*. Mitteilungen der [Universität Dortmund](University_of_Dortmund "University of Dortmund"), Sondernummer 12, pp. 4.
 
 **[Up one level](Engines "Engines")**
 

@@ -150,11 +150,11 @@ Each chess engine is full of different kind of tables and if we can give even "a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Following text is released under [public domain](https://en.wikipedia.org/wiki/Public_domain) and can be freely distributed
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stockfish's tuning method](http://www.talkchess.com/forum/viewtopic.php?t=40662) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski"), [CCC](CCC "CCC"), October 07, 2011
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SPSA Tuner for Stockfish Chess Engine](https://github.com/zamar/spsa) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [SPSA Tuner for Stockfish Chess Engine](https://github.com/zamar/spsa) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [NOMAD - A blackbox optimization software](https://www.gerad.ca/nomad/Project/Home.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Following text is released under [public domain](https://en.wikipedia.org/wiki/Public_domain) and can be freely distributed
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stockfish's tuning method](http://www.talkchess.com/forum/viewtopic.php?t=40662) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski"), [CCC](CCC "CCC"), October 07, 2011
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SPSA Tuner for Stockfish Chess Engine](https://github.com/zamar/spsa) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [SPSA Tuner for Stockfish Chess Engine](https://github.com/zamar/spsa) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [NOMAD - A blackbox optimization software](https://www.gerad.ca/nomad/Project/Home.html)
 
 **[Up one Level](Automated_Tuning "Automated Tuning")**
 

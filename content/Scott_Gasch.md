@@ -41,8 +41,8 @@ Scott is author of the [open source chess programs](Category:Open_Source "Catego
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Scott Gasch - Sr. Staff Software Engineer - Google | LinkedIn](https://www.linkedin.com/in/scottgasch)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Monsoon/Typhoon Homepage](https://wannabe.guru.org/scott/hobbies/chess/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Scott Gasch - Sr. Staff Software Engineer - Google | LinkedIn](https://www.linkedin.com/in/scottgasch)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Monsoon/Typhoon Homepage](https://wannabe.guru.org/scott/hobbies/chess/)
 
 **[Up one level](People "People")**
 

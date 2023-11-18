@@ -66,11 +66,11 @@ where he researched on [quantum mechanics](https://en.wikipedia.org/wiki/Quantum
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Mauro Riccardi at [IGT 2013](IGT_2013 "IGT 2013"), image clipped from [International Gsei Tournament 2013](http://www.g-sei.org/i-g-t-2013/) « [[G 6] 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mauro Riccardi - LinkedIn](http://it.linkedin.com/pub/mauro-riccardi/4/977/a17)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Riccardi, Mauro FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=855383)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [International Gsei Tournament 2013](http://www.g-sei.org/i-g-t-2013/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Mauro Riccardi's research works | Heriot-Watt University and other places](https://www.researchgate.net/scientific-contributions/13379020_Mauro_Riccardi)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Mauro Riccardi at [IGT 2013](IGT_2013 "IGT 2013"), image clipped from [International Gsei Tournament 2013](http://www.g-sei.org/i-g-t-2013/) « [[G 6] 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mauro Riccardi - LinkedIn](http://it.linkedin.com/pub/mauro-riccardi/4/977/a17)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Riccardi, Mauro FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=855383)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [International Gsei Tournament 2013](http://www.g-sei.org/i-g-t-2013/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mauro Riccardi's research works | Heriot-Watt University and other places](https://www.researchgate.net/scientific-contributions/13379020_Mauro_Riccardi)
 
 **[Up one level](People "People")**
 

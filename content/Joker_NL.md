@@ -53,11 +53,11 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Joker Chess Engine](http://home.hccnet.nl/h.g.muller/joker.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Deep Futility Pruning](http://home.hccnet.nl/h.g.muller/deepfut.html) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Joker Chess Engine](http://home.hccnet.nl/h.g.muller/joker.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Any joker1114w Updates?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=432065&t=41007) by [H.G.Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), November 06, 2011
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Joker Chess Engine](http://home.hccnet.nl/h.g.muller/joker.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Deep Futility Pruning](http://home.hccnet.nl/h.g.muller/deepfut.html) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Joker Chess Engine](http://home.hccnet.nl/h.g.muller/joker.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Any joker1114w Updates?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=432065&t=41007) by [H.G.Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), November 06, 2011
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en)
 
 **[Up one Level](Engines "Engines")**
 

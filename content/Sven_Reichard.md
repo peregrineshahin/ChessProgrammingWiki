@@ -76,18 +76,18 @@ Further, Sven Reichard is author of the [Pool](index.php?title=Pool&action=edit&
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [TUD - Sven Reichard's Homepage](http://tu-dresden.de/Members/sven.reichard/index_html/document_view?set_language=en) (as of November 28, 2018, no longer available)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CMSA Inc. E-Newsletter 23, February 2007](https://www.math.auckland.ac.nz/~eloz002/cmsa/OldLetters/cmsa-newsletter23.html#Sven)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Sven Reichard (**2003**). *Computational and Theoretical Analysis of Coherent Configurations and Related Incidence Structure*. Ph.D. thesis, [University of Delaware](https://en.wikipedia.org/wiki/University_of_Delaware)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [FinInG - a finite geometry package for GAP](http://cage.ugent.be/geometry/fining.php), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GAP - Groups, Algorithms and Programming](http://cage.ugent.be/geometry/software.php), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [GAP System for Computational Discrete Algebra](http://www.gap-system.org/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [First draw against GnuChess](https://www.stmintz.com/ccc/index.php?id=330725) by Sven Reichard, [CCC](CCC "CCC"), November 26, 2003
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Alice](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=2001#p9437) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 18, 2005
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Gestatten: Alice](https://www.stmintz.com/ccc/index.php?id=237077) by Sven Reichard, [CCC](CCC "CCC"), June 23, 2002
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [dblp: Sven Reichard](https://dblp.uni-trier.de/pers/hd/r/Reichard:Sven.html)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Publications - A.J. Woldar, co-autor: Sven Reichard](http://www41.homepage.villanova.edu/andrew.woldar/publications.htm#Reichard)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Gröbner basis from Wikipedia](https://en.wikipedia.org/wiki/Gr%C3%B6bner_basis)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [TUD - Sven Reichard's Homepage](http://tu-dresden.de/Members/sven.reichard/index_html/document_view?set_language=en) (as of November 28, 2018, no longer available)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CMSA Inc. E-Newsletter 23, February 2007](https://www.math.auckland.ac.nz/~eloz002/cmsa/OldLetters/cmsa-newsletter23.html#Sven)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Sven Reichard (**2003**). *Computational and Theoretical Analysis of Coherent Configurations and Related Incidence Structure*. Ph.D. thesis, [University of Delaware](https://en.wikipedia.org/wiki/University_of_Delaware)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [FinInG - a finite geometry package for GAP](http://cage.ugent.be/geometry/fining.php), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GAP - Groups, Algorithms and Programming](http://cage.ugent.be/geometry/software.php), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GAP System for Computational Discrete Algebra](http://www.gap-system.org/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [First draw against GnuChess](https://www.stmintz.com/ccc/index.php?id=330725) by Sven Reichard, [CCC](CCC "CCC"), November 26, 2003
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Alice](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=2001#p9437) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 18, 2005
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Gestatten: Alice](https://www.stmintz.com/ccc/index.php?id=237077) by Sven Reichard, [CCC](CCC "CCC"), June 23, 2002
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Sven Reichard](https://dblp.uni-trier.de/pers/hd/r/Reichard:Sven.html)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Publications - A.J. Woldar, co-autor: Sven Reichard](http://www41.homepage.villanova.edu/andrew.woldar/publications.htm#Reichard)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Gröbner basis from Wikipedia](https://en.wikipedia.org/wiki/Gr%C3%B6bner_basis)
 
 **[Up one level](People "People")**
 

@@ -129,9 +129,9 @@ an [open source chess engine](Category:Open_Source "Category:Open Source") licen
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess program MinkoChess- Computer Architecture and Languages Laboratory](http://labraj.uni-mb.si/en/Chess_program_MinkoChess), [University of Maribor](University_of_Maribor "University of Maribor")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Copyright header in search.cpp, pos\_eval.cpp, movegen.cpp
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> "Umko has been renamed to MinkoChess due to copyright issues" by [Graham Banks](Graham_Banks "Graham Banks"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), May 09, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess program MinkoChess- Computer Architecture and Languages Laboratory](http://labraj.uni-mb.si/en/Chess_program_MinkoChess), [University of Maribor](University_of_Maribor "University of Maribor")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Copyright header in search.cpp, pos\_eval.cpp, movegen.cpp
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> "Umko has been renamed to MinkoChess due to copyright issues" by [Graham Banks](Graham_Banks "Graham Banks"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), May 09, 2012
 
 **[Up one Level](Engines "Engines")**
 

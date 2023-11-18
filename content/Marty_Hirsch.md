@@ -43,13 +43,13 @@ an American applied mathematician, engineer, computer chess programmer and autho
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Schach - "Rambos verlieren" Programmierer Marty Hirsch über die Macht der Computer](http://www.spiegel.de/spiegel/print/d-9184269.html), May 15, 1995, [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 20/1995 (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Marty Hirsch's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=66)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Magnet School](http://www.chessmagnetschool.com/index.php)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Magnet School - About Us - Marty Hirsch](http://www.chessmagnetschool.com/about_marty.php)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess Supersite Corp](http://www.chesssupersitecorp.com/home.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chess Supersite Corp. | LinkedIn](https://www.linkedin.com/company/10250854?trk=prof-exp-company-name)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Review by [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [ICGA Journal](ICGA_Journal "ICGA Journal"), Vol. 24, No. 4  
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Schach - "Rambos verlieren" Programmierer Marty Hirsch über die Macht der Computer](http://www.spiegel.de/spiegel/print/d-9184269.html), May 15, 1995, [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 20/1995 (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Marty Hirsch's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=66)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Magnet School](http://www.chessmagnetschool.com/index.php)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Magnet School - About Us - Marty Hirsch](http://www.chessmagnetschool.com/about_marty.php)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess Supersite Corp](http://www.chesssupersitecorp.com/home.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chess Supersite Corp. | LinkedIn](https://www.linkedin.com/company/10250854?trk=prof-exp-company-name)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Review by [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [ICGA Journal](ICGA_Journal "ICGA Journal"), Vol. 24, No. 4  
 
 Commercial chess programmers and manufacturers rarely reveal details about their programs. Several years ago, [David Levy](David_Levy "David Levy") published in the ICCA Journal a number of ideas implemented in his programs. Now it is Marty Hirsch who spills the beans on the innards of MCHESS. The prime motivation to eventually publish such 'secrets' is seeing these ideas (re)discovered and published by academics and amateurs. The situation is similar to, for example, the invention and publication of public-key encryption by Diffie, Hellman and Merkle. Unknowing to the world, this technique had already been discovered six years earlier by James Ellis, a British cryptographer employed by her Majesty's Secret Service. But he was sworn to secrecy, and it took another 28 years before his accomplishment was made public. James Ellis was the first person to develop public-key encryption, but it earned him no more than a footnote in the history of cryptography. He later wrote: "Most professional scientists aim to be the first to publish their work, because it is through dissemination that the work realises its value. In contrast, the fullest value of cryptography is realised by minimising the information available to potential adversaries." Or, in the apologetic words of Marty Hirsch: "The delay of publication is due to commercial considerations." Even though you cannot have your pie and eat it, his belated publication of ideas deserves praise.
 

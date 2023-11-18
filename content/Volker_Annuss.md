@@ -55,12 +55,12 @@ As of August 2017, Volker introduced [Black Magic Bitboards](Magic_Bitboards#Bla
 
 
 1. ↑ [1.0](#cite-ref-arena-1-0) [1.1](#cite-ref-arena-1-1) [Arena Chess GUI for Linux and Windows - Hermann](http://web.archive.org/web/20120106014724/http://www.playwitharena.com/?Partner_Chess_Engines:Hermann%26nbsp%3B) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hermann webpage](http://www.nnuss.de/Hermann/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Timing with a Neural Networks](http://web.archive.org/web/20050328050743/http://www.playwitharena.com:80/) by Volker Annuss, [Arena](Arena "Arena") News-Ticker, Page 6, 86, FQ, March 23, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Pandix wins Dutch Open](http://www.csvn.nl/index.php?option=com_content&view=article&id=517%3Apandix-wint-open-nk&catid=51%3Atoernooien&Itemid=28&lang=en), [CSVN](CSVN "CSVN") site, October 22, 2011
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Black magic bitboards](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=64790) by Volker Annuss, [CCC](CCC "CCC"), August 03, 2017
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [6th International CSVN Tournament 2006 - Photo Gallery](http://old.csvn.nl/gallery24.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Photo by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), April 30, 2017, [CSVN Programmer Tournament 51](http://www.csvn.nl/index.php/historie/programmeurstoernooien/762-ranking-51st-programmer-tournament), [CSVN](CSVN "CSVN") site
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hermann webpage](http://www.nnuss.de/Hermann/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Timing with a Neural Networks](http://web.archive.org/web/20050328050743/http://www.playwitharena.com:80/) by Volker Annuss, [Arena](Arena "Arena") News-Ticker, Page 6, 86, FQ, March 23, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Pandix wins Dutch Open](http://www.csvn.nl/index.php?option=com_content&view=article&id=517%3Apandix-wint-open-nk&catid=51%3Atoernooien&Itemid=28&lang=en), [CSVN](CSVN "CSVN") site, October 22, 2011
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Black magic bitboards](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=64790) by Volker Annuss, [CCC](CCC "CCC"), August 03, 2017
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [6th International CSVN Tournament 2006 - Photo Gallery](http://old.csvn.nl/gallery24.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Photo by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), April 30, 2017, [CSVN Programmer Tournament 51](http://www.csvn.nl/index.php/historie/programmeurstoernooien/762-ranking-51st-programmer-tournament), [CSVN](CSVN "CSVN") site
 
 **[Up one level](People "People")**
 

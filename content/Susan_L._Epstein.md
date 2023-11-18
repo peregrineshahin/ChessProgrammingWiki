@@ -54,12 +54,12 @@ an American mathematician, computer scientist, [AI](Artificial_Intelligence "Art
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Susan L. Epstein](http://www.cs.hunter.cuny.edu/~epstein/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Susan L. Epstein - FORR](http://www.cs.hunter.cuny.edu/~epstein/html/forr.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Edmond Hoyle from Wikipedia](https://en.wikipedia.org/wiki/Edmond_Hoyle)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Susan L. Epstein - Hoyle](http://www.cs.hunter.cuny.edu/~epstein/html/hoyle.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Susan L. Epstein - Publications](http://www.cs.hunter.cuny.edu/~epstein/html/publications.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Susan L. Epstein](http://dblp.uni-trier.de/pers/hd/e/Epstein:Susan_L=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Susan L. Epstein](http://www.cs.hunter.cuny.edu/~epstein/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Susan L. Epstein - FORR](http://www.cs.hunter.cuny.edu/~epstein/html/forr.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Edmond Hoyle from Wikipedia](https://en.wikipedia.org/wiki/Edmond_Hoyle)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Susan L. Epstein - Hoyle](http://www.cs.hunter.cuny.edu/~epstein/html/hoyle.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Susan L. Epstein - Publications](http://www.cs.hunter.cuny.edu/~epstein/html/publications.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Susan L. Epstein](http://dblp.uni-trier.de/pers/hd/e/Epstein:Susan_L=)
 
 **[Up one level](People "People")**
 

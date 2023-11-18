@@ -161,11 +161,11 @@ __declspec (naked) unsigned int __stdcall popcount64 (unsigned __int64 v)
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Intel P5 (microarchitecture) from Wikipedia](https://en.wikipedia.org/wiki/Intel_P5_%28microarchitecture%29), Source: Sergei Frolov, [Soviet Calculators Collection](http://www.leningrad.su/museum/), September 2007
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MMX Technology Intrinsic Groups](http://msdn.microsoft.com/en-us/library/ccky3awe%28v=VS.100%29.aspx)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Calling conventions for different C++ compilers and operating systems](http://www.agner.org/optimize/calling_conventions.pdf) (pdf) by [Agner Fog](http://www.agner.org/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Legacy Floating-Point Support (C++)](http://msdn.microsoft.com/en-us/library/a32tsf7t%28v=VS.100%29.aspx) from MSDN Library
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [AMD Athlon Processor x86 Code Optimization Guide](http://www.ii.uib.no/~osvik/amd_opt/22007k.pdf) (pdf) Efficient 64-Bit Population Count Using MMX™ Instructions Page 184
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Intel P5 (microarchitecture) from Wikipedia](https://en.wikipedia.org/wiki/Intel_P5_%28microarchitecture%29), Source: Sergei Frolov, [Soviet Calculators Collection](http://www.leningrad.su/museum/), September 2007
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MMX Technology Intrinsic Groups](http://msdn.microsoft.com/en-us/library/ccky3awe%28v=VS.100%29.aspx)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Calling conventions for different C++ compilers and operating systems](http://www.agner.org/optimize/calling_conventions.pdf) (pdf) by [Agner Fog](http://www.agner.org/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Legacy Floating-Point Support (C++)](http://msdn.microsoft.com/en-us/library/a32tsf7t%28v=VS.100%29.aspx) from MSDN Library
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [AMD Athlon Processor x86 Code Optimization Guide](http://www.ii.uib.no/~osvik/amd_opt/22007k.pdf) (pdf) Efficient 64-Bit Population Count Using MMX™ Instructions Page 184
 
 **[Up one Level](X86 "X86")**
 

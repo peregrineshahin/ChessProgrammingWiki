@@ -22,7 +22,7 @@ a Spanish data scientist and software developer, as computer chess programmer au
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pepito... that other xboard chess engine](http://www.quarkchess.de/pepito/) hosted by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pepito... that other xboard chess engine](http://www.quarkchess.de/pepito/) hosted by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
 
 **[Up one level](People "People")**
 

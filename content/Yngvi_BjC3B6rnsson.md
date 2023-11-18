@@ -178,24 +178,24 @@ Yngvi Björnsson is involved in the successful development of the [General Game 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo from [Yngvi Björnsson's homepage](http://www.ru.is/faculty/yngvi/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Yngvi Björnsson Curriculum Vitae](http://www.ru.is/faculty/yngvi/BjornssonCV.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Games research group](http://www.cs.ualberta.ca/%7Egames/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Yngvi Björnsson's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=110)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Yngvi Björnsson (**2002**). *[Selective Depth-First Game-Tree Search](http://dl.acm.org/citation.cfm?id=935848)*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Yngvi Björnsson, [Tony Marsland](Tony_Marsland "Tony Marsland"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Andreas Junghanns](Andreas_Junghanns "Andreas Junghanns") (**1997**). *Searching with Uncertainty Cut-offs.* [ICCA Journal, Vol. 20, No. 1](ICGA_Journal#20_1 "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Yngvi Björnsson, [Tony Marsland](Tony_Marsland "Tony Marsland"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Andreas Junghanns](Andreas_Junghanns "Andreas Junghanns") (**1997**). *Searching with Uncertainty Cut-offs*. [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Yngvi Björnsson, [Tony Marsland](Tony_Marsland "Tony Marsland") (**2001**). *Multi-cut Alpha-Beta Pruning in Game Tree Search.* Theoretical Computer Science, Vol. 252, [pdf](http://www.ru.is/faculty/yngvi/pdf/BjornssonM01a.pdf)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Mind Sports Olympiad, England, August 2000](http://spaz.ca/aaron/gallery/england2000/games.html) by [Aaron Davidson](index.php?title=Aaron_Davidson&action=edit&redlink=1 "Aaron Davidson (page does not exist)")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Chinook Authors](http://www.cs.ualberta.ca/%7Echinook/authors/)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Cadiaplayer - A powerful general game-playing engine](http://cadia.ru.is/wiki/public:cadiaplayer:main)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Yngvi Björnsson's Publictions](http://www.ru.is/faculty/yngvi/w_publications.html)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Yngvi Björnsson](http://academic.research.microsoft.com/Author/201447/yngvi-bjornsson) from [Microsoft Academic Search](index.php?title=Microsoft_Academic_Search&action=edit&redlink=1 "Microsoft Academic Search (page does not exist)")
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Jónheiður Ísleifsdóttir](J%C3%B3nhei%C3%B0ur_%C3%8Dsleifsd%C3%B3ttir "Jónheiður Ísleifsdóttir") (**2007**). *GTQL: A Query Language for Game Trees*. M.Sc. thesis, [Reykjavík University](https://en.wikipedia.org/wiki/Reykjav%C3%ADk_University), [pdf](http://www.ru.is/lisalib/getfile.aspx?itemid=9655)
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Monte Carlo in LOA](http://www.open-chess.org/viewtopic.php?f=5&t=886) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 30, 2010
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Game Description Language from Wikipedia](https://en.wikipedia.org/wiki/Game_Description_Language)
-18. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Mark Winands](Mark_Winands "Mark Winands"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2014**). *ECAI Computer Games Workshop*. [ICGA Journal, Vol. 37, No. 4](ICGA_Journal#37_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo from [Yngvi Björnsson's homepage](http://www.ru.is/faculty/yngvi/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Yngvi Björnsson Curriculum Vitae](http://www.ru.is/faculty/yngvi/BjornssonCV.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Games research group](http://www.cs.ualberta.ca/%7Egames/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Yngvi Björnsson's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=110)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Yngvi Björnsson (**2002**). *[Selective Depth-First Game-Tree Search](http://dl.acm.org/citation.cfm?id=935848)*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Yngvi Björnsson, [Tony Marsland](Tony_Marsland "Tony Marsland"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Andreas Junghanns](Andreas_Junghanns "Andreas Junghanns") (**1997**). *Searching with Uncertainty Cut-offs.* [ICCA Journal, Vol. 20, No. 1](ICGA_Journal#20_1 "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Yngvi Björnsson, [Tony Marsland](Tony_Marsland "Tony Marsland"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Andreas Junghanns](Andreas_Junghanns "Andreas Junghanns") (**1997**). *Searching with Uncertainty Cut-offs*. [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Yngvi Björnsson, [Tony Marsland](Tony_Marsland "Tony Marsland") (**2001**). *Multi-cut Alpha-Beta Pruning in Game Tree Search.* Theoretical Computer Science, Vol. 252, [pdf](http://www.ru.is/faculty/yngvi/pdf/BjornssonM01a.pdf)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Mind Sports Olympiad, England, August 2000](http://spaz.ca/aaron/gallery/england2000/games.html) by [Aaron Davidson](index.php?title=Aaron_Davidson&action=edit&redlink=1 "Aaron Davidson (page does not exist)")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Chinook Authors](http://www.cs.ualberta.ca/%7Echinook/authors/)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Cadiaplayer - A powerful general game-playing engine](http://cadia.ru.is/wiki/public:cadiaplayer:main)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Yngvi Björnsson's Publictions](http://www.ru.is/faculty/yngvi/w_publications.html)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Yngvi Björnsson](http://academic.research.microsoft.com/Author/201447/yngvi-bjornsson) from [Microsoft Academic Search](index.php?title=Microsoft_Academic_Search&action=edit&redlink=1 "Microsoft Academic Search (page does not exist)")
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Jónheiður Ísleifsdóttir](J%C3%B3nhei%C3%B0ur_%C3%8Dsleifsd%C3%B3ttir "Jónheiður Ísleifsdóttir") (**2007**). *GTQL: A Query Language for Game Trees*. M.Sc. thesis, [Reykjavík University](https://en.wikipedia.org/wiki/Reykjav%C3%ADk_University), [pdf](http://www.ru.is/lisalib/getfile.aspx?itemid=9655)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Monte Carlo in LOA](http://www.open-chess.org/viewtopic.php?f=5&t=886) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 30, 2010
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Game Description Language from Wikipedia](https://en.wikipedia.org/wiki/Game_Description_Language)
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Mark Winands](Mark_Winands "Mark Winands"), [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2014**). *ECAI Computer Games Workshop*. [ICGA Journal, Vol. 37, No. 4](ICGA_Journal#37_4 "ICGA Journal")
 
 **[Up one level](People "People")**
 

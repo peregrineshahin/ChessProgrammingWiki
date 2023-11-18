@@ -51,13 +51,13 @@ Carl Ebeling (now at University of Washington) built the special purpose hardwar
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Carl Ebeling's home page](https://homes.cs.washington.edu/~ebeling/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Carl Ebeling (**1986**). *All the Right Moves: A VLSI Architecture for Chess*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [MIT Press](https://en.wikipedia.org/wiki/MIT_Press)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Photo ca 1985, © Bill Redick, [History of Computer Chess](http://www.computerhistory.org/chess/index.php) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1988**). *Pennsyvania State Chess Championship - HiTech Becomes First Computer Senior Master*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 9, No. 3, [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/946/864)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Carl Ebeling](http://www.informatik.uni-trier.de/~ley/pers/hd/e/Ebeling:Carl.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Any opinion about this book?: "All the Right Moves"](http://www.talkchess.com/forum/viewtopic.php?t=41743) by E Diaz, [CCC](CCC "CCC"), January 02, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Carl Ebeling's home page](https://homes.cs.washington.edu/~ebeling/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Carl Ebeling (**1986**). *All the Right Moves: A VLSI Architecture for Chess*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [MIT Press](https://en.wikipedia.org/wiki/MIT_Press)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Photo ca 1985, © Bill Redick, [History of Computer Chess](http://www.computerhistory.org/chess/index.php) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1988**). *Pennsyvania State Chess Championship - HiTech Becomes First Computer Senior Master*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 9, No. 3, [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/946/864)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Carl Ebeling](http://www.informatik.uni-trier.de/~ley/pers/hd/e/Ebeling:Carl.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Any opinion about this book?: "All the Right Moves"](http://www.talkchess.com/forum/viewtopic.php?t=41743) by E Diaz, [CCC](CCC "CCC"), January 02, 2012
 
 **[Up one level](People "People")**
 

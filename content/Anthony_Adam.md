@@ -15,9 +15,9 @@ a British [BEd](https://en.wikipedia.org/wiki/Bachelor_of_Education) in mathemat
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Anthony Adam | Facebook](https://www.facebook.com/Ant.Tyranthraxus)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Anthony Adam | LinkedIn](https://www.linkedin.com/in/anthony-adam-39069068)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Spectrum 48K - Old Home Computer Chess Games Collection - ZX Spectrum Chess](http://www.spacious-mind.com/html/spectrum_48k_zx_spectrum_chess.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Anthony Adam | Facebook](https://www.facebook.com/Ant.Tyranthraxus)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Anthony Adam | LinkedIn](https://www.linkedin.com/in/anthony-adam-39069068)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Spectrum 48K - Old Home Computer Chess Games Collection - ZX Spectrum Chess](http://www.spacious-mind.com/html/spectrum_48k_zx_spectrum_chess.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
 
 **[Up one level](People "People")**
 

@@ -130,15 +130,15 @@ The program is 100% original, although at the time I started I had access to the
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A picture of a ferret's teeth, very white and in good condition, [Ferret from Wikipedia](https://en.wikipedia.org/wiki/Ferret)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Image captured from [Paderborn 1999 1.mp4](http://www.top-5000.nl/Paderborn_1999_1.mp4) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Paderborn 1999 - Chess - Round 6 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=6&id=3)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Ferret/Gerbil question](https://www.stmintz.com/ccc/index.php?id=189800) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), September 21, 2001
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ferret's Description](http://web.archive.org/web/20070825223426/www.brucemo.com/compchess/ferret/desc.htm) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Ferret's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=35)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**2011**). *[Beyond Deep Blue: Chess in the Stratosphere](http://www.springer.com/computer/general+issues/book/978-0-85729-340-4)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), ISBN-13: 978-0857293404, [amazon](http://www.amazon.com/Beyond-Deep-Blue-Chess-Stratosphere/dp/0857293400)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Download Sample pages 2 (pdf, 3.2 MB)](http://www.springer.com/cda/content/document/cda_downloaddocument/9780857293404-c2.pdf?SGWID=0-0-45-1117438-p174097071)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The chess games of Ferret (Computer)](http://chessgames.com/player/ferret) from [chessgames.com](http://www.chessgames.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A picture of a ferret's teeth, very white and in good condition, [Ferret from Wikipedia](https://en.wikipedia.org/wiki/Ferret)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Image captured from [Paderborn 1999 1.mp4](http://www.top-5000.nl/Paderborn_1999_1.mp4) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Paderborn 1999 - Chess - Round 6 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=6&id=3)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Ferret/Gerbil question](https://www.stmintz.com/ccc/index.php?id=189800) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), September 21, 2001
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ferret's Description](http://web.archive.org/web/20070825223426/www.brucemo.com/compchess/ferret/desc.htm) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Ferret's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=35)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**2011**). *[Beyond Deep Blue: Chess in the Stratosphere](http://www.springer.com/computer/general+issues/book/978-0-85729-340-4)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), ISBN-13: 978-0857293404, [amazon](http://www.amazon.com/Beyond-Deep-Blue-Chess-Stratosphere/dp/0857293400)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Download Sample pages 2 (pdf, 3.2 MB)](http://www.springer.com/cda/content/document/cda_downloaddocument/9780857293404-c2.pdf?SGWID=0-0-45-1117438-p174097071)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The chess games of Ferret (Computer)](http://chessgames.com/player/ferret) from [chessgames.com](http://www.chessgames.com/)
 
 **[Up one Level](Engines "Engines")**
 

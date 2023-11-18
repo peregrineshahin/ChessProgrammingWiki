@@ -77,8 +77,8 @@ title: Delft University of Technology
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Delft University of Technology from Wikipedia](https://en.wikipedia.org/wiki/Delft_University_of_Technology)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1985**). *[Problemen rondom Lombaers](https://research.tilburguniversity.edu/en/publications/problemen-rondom-lombaers-2)*. Operations research: Practice and theory: Symposium on the occasion of the farewell of [H.J.M. Lombaers](Mathematician#HLombaers "Mathematician"), June 06, 1985, TU Delft, [pdf](https://pure.uvt.nl/ws/portalfiles/portal/1242228/PROBLEM_.PDF) (Dutch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Delft University of Technology from Wikipedia](https://en.wikipedia.org/wiki/Delft_University_of_Technology)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1985**). *[Problemen rondom Lombaers](https://research.tilburguniversity.edu/en/publications/problemen-rondom-lombaers-2)*. Operations research: Practice and theory: Symposium on the occasion of the farewell of [H.J.M. Lombaers](Mathematician#HLombaers "Mathematician"), June 06, 1985, TU Delft, [pdf](https://pure.uvt.nl/ws/portalfiles/portal/1242228/PROBLEM_.PDF) (Dutch)
 
 **[Up one Level](Organizations "Organizations")**
 

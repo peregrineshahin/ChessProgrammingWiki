@@ -12,7 +12,7 @@ a Japanese [jazz fusion](https://en.wikipedia.org/wiki/Jazz_fusion) band formed 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Capture from [Casiopea - Conjunction \*Perfect Live 1986\* Video @ 1:28](https://www.youtube.com/watch?v=zdU2KCDYROU), Is that [XBoard](XBoard "XBoard") in the background?
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Capture from [Casiopea - Conjunction \*Perfect Live 1986\* Video @ 1:28](https://www.youtube.com/watch?v=zdU2KCDYROU), Is that [XBoard](XBoard "XBoard") in the background?
 
 ## Subcategories
 

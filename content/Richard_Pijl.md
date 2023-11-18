@@ -31,10 +31,10 @@ a Dutch computer scientist, M.Sc. from [Delft University of Technology](Delft_Un
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Baron's Lair](http://users.telenet.be/thebaron) - the home of the Baron
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [... weil Chess960 vom ersten Zug an spannend ist](http://www.chesstigers.de/ccm6_index_news.php?id=806&rubrik=6&lang=0&kat=6) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [2. Computer Weltmeisterschaft im Chess960](http://www.chesstigers.de/ccm9_index_news.php?id=684&rubrik=6&lang=0&kat=6) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [29th Dutch Open Computer Chess Championship 2009 - Photo Gallery](http://www.csvn.nl/index.php?option=com_content&view=article&id=437%3Afotos-dag-3-29e-odccc&catid=51%3Atoernooien&Itemid=28&lang=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Baron's Lair](http://users.telenet.be/thebaron) - the home of the Baron
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [... weil Chess960 vom ersten Zug an spannend ist](http://www.chesstigers.de/ccm6_index_news.php?id=806&rubrik=6&lang=0&kat=6) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [2. Computer Weltmeisterschaft im Chess960](http://www.chesstigers.de/ccm9_index_news.php?id=684&rubrik=6&lang=0&kat=6) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [29th Dutch Open Computer Chess Championship 2009 - Photo Gallery](http://www.csvn.nl/index.php?option=com_content&view=article&id=437%3Afotos-dag-3-29e-odccc&catid=51%3Atoernooien&Itemid=28&lang=en)
 
 **[Up one level](People "People")**
 

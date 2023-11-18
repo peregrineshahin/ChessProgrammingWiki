@@ -30,13 +30,13 @@ and the [Perl](index.php?title=Perl&action=edit&redlink=1 "Perl (page does not e
 
 ## [Index of /authors/id/G/GI/GIPPOLITI](http://www.cpan.org/authors/id/G/GI/GIPPOLITI/) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Giuliano Ippoliti | LinkedIn](https://www.linkedin.com/in/ippoliti/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Giuliano Ippoliti - Chess](http://g1ul14n0.free.fr/chess.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [From zero to CKA in about 3 months | LinkedIn](https://www.linkedin.com/pulse/from-zero-cka-3-months-giuliano-ippoliti/) by Giuliano Ippoliti, March 18, 2020
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kubernetes from Wikipedia](https://en.wikipedia.org/wiki/Kubernetes)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Giuliano Ippoliti | LinkedIn](https://www.linkedin.com/in/ippoliti/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [GitHub - giuliano-ippoliti/GiuChess: Open Source Xboard/Winboard-compatible chess engine written in C language](https://github.com/giuliano-ippoliti/GiuChess)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Chess-Play-0.03 - readme](http://www.cpan.org/authors/id/G/GI/GIPPOLITI/Chess-Play-0.03.readme) from [Index of /authors/id/G/GI/GIPPOLITI](http://www.cpan.org/authors/id/G/GI/GIPPOLITI/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Giuliano Ippoliti | LinkedIn](https://www.linkedin.com/in/ippoliti/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Giuliano Ippoliti - Chess](http://g1ul14n0.free.fr/chess.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [From zero to CKA in about 3 months | LinkedIn](https://www.linkedin.com/pulse/from-zero-cka-3-months-giuliano-ippoliti/) by Giuliano Ippoliti, March 18, 2020
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kubernetes from Wikipedia](https://en.wikipedia.org/wiki/Kubernetes)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Giuliano Ippoliti | LinkedIn](https://www.linkedin.com/in/ippoliti/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GitHub - giuliano-ippoliti/GiuChess: Open Source Xboard/Winboard-compatible chess engine written in C language](https://github.com/giuliano-ippoliti/GiuChess)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chess-Play-0.03 - readme](http://www.cpan.org/authors/id/G/GI/GIPPOLITI/Chess-Play-0.03.readme) from [Index of /authors/id/G/GI/GIPPOLITI](http://www.cpan.org/authors/id/G/GI/GIPPOLITI/)
 
 **[Up one level](People "People")**
 

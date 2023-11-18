@@ -124,7 +124,7 @@ a [measure](https://en.wikipedia.org/wiki/Measurement) of the chess program's [s
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [RPM gauge](https://en.wikipedia.org/wiki/Tachometer) of an [electric driven air compressor](https://commons.wikimedia.org/wiki/File:Zeche_Zollern_Kompressormotor.jpg?uselang=en) in the [machine hall](https://commons.wikimedia.org/wiki/File:Zeche_Zollern_Dortmund_-_Maschinenhalle.jpg?uselang=en) of [Zollern II/IV Colliery](Category:Zollern "Category:Zollern"), [Dortmund](https://en.wikipedia.org/wiki/Dortmund) [Bövinghausen](https://de.wikipedia.org/wiki/B%C3%B6vinghausen_(Dortmund)), Germany - part of [The Industrial Heritage Trail](Category:Industrial_Heritage_Trail "Category:Industrial Heritage Trail"), Image by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), September 18, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [RPM gauge](https://en.wikipedia.org/wiki/Tachometer) of an [electric driven air compressor](https://commons.wikimedia.org/wiki/File:Zeche_Zollern_Kompressormotor.jpg?uselang=en) in the [machine hall](https://commons.wikimedia.org/wiki/File:Zeche_Zollern_Dortmund_-_Maschinenhalle.jpg?uselang=en) of [Zollern II/IV Colliery](Category:Zollern "Category:Zollern"), [Dortmund](https://en.wikipedia.org/wiki/Dortmund) [Bövinghausen](https://de.wikipedia.org/wiki/B%C3%B6vinghausen_(Dortmund)), Germany - part of [The Industrial Heritage Trail](Category:Industrial_Heritage_Trail "Category:Industrial Heritage Trail"), Image by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), September 18, 2016
 
 **[Up one Level](Node "Node")**
 

@@ -55,8 +55,8 @@ Jeiqi notation is close to Xiqngqi but needs some information about captures and
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [from Wikipedia](https://en.wikipedia.org/wiki/Jeiqi)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WXF Notation](http://wxf.ca/xq/computer/wxf_notation.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [from Wikipedia](https://en.wikipedia.org/wiki/Jeiqi)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WXF Notation](http://wxf.ca/xq/computer/wxf_notation.html)
 
 **[Up one Level](Games "Games")**
 

@@ -38,8 +38,8 @@ As undergraduate at [MIT](Massachusetts_Institute_of_Technology "Massachusetts I
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ryan Porter | LinkedIn](https://www.linkedin.com/in/ryanwporter/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ryan Porter's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=40)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ryan Porter | LinkedIn](https://www.linkedin.com/in/ryanwporter/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ryan Porter's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=40)
 
 **[Up one level](People "People")**
 

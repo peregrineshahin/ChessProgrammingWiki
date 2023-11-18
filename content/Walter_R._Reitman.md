@@ -64,15 +64,15 @@ He holds a [B.A.](https://en.wikipedia.org/wiki/Bachelor%27s_degree) from [Harva
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Expert Systems with Applications: Editorial Board 2011](http://www.elsevierscitech.com/cfp/cfp_eswa0411.pdf) (pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Faculty Bulletin - Carnegie Institute of Technology, September 1957](http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=386106) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bruce Wilcox from Wikipedia](https://en.wikipedia.org/wiki/Bruce_Wilcox)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [4.1.3 Reitman and Wilcox](http://staff.itee.uq.edu.au/janetw/Computer%20Go/CS-TR-339.html#4.1.3) in [Jay Burmeister](index.php?title=Jay_Burmeister&action=edit&redlink=1 "Jay Burmeister (page does not exist)"), [Janet Wiles](index.php?title=Janet_Wiles&action=edit&redlink=1 "Janet Wiles (page does not exist)") (**1995**). *[CS-TR-339 Computer Go Tech Report](http://staff.itee.uq.edu.au/janetw/Computer%20Go/CS-TR-339.html)*. Departments of Computer Science and Psychology, [The University of Queensland](https://en.wikipedia.org/wiki/University_of_Queensland), [QLD 4072](https://en.wikipedia.org/wiki/St_Lucia,_Queensland), [Australia](https://en.wikipedia.org/wiki/Australia) (permanently - under construction)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Walter R. Reitman, [Bruce Wilcox](index.php?title=Bruce_Wilcox&action=edit&redlink=1 "Bruce Wilcox (page does not exist)") (**1979**). *[The Structure and Performance of the INTERIM.2 Go Program](http://dl.acm.org/citation.cfm?id=1623078)*. [IJCAI 1979](Conferences#IJCAI1979 "Conferences")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Bruce Wilcox](index.php?title=Bruce_Wilcox&action=edit&redlink=1 "Bruce Wilcox (page does not exist)") (**1985**). *[Reflections on building two Go programs](http://dl.acm.org/citation.cfm?id=1056318)*. [ACM SIGART](ACM#SIG "ACM") Bulletin, No. 94
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Nemesis Software | British Go Association](http://www.britgo.org/reviews/nemrev.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Walter Reitman](https://dblp.uni-trier.de/pers/hd/r/Reitman:Walter)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Letter](http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=63221) (pdf) by [Herbert Simon](Herbert_Simon "Herbert Simon") to Walter R. Reitman, February 21, 1966
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Expert Systems with Applications: Editorial Board 2011](http://www.elsevierscitech.com/cfp/cfp_eswa0411.pdf) (pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Faculty Bulletin - Carnegie Institute of Technology, September 1957](http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=386106) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bruce Wilcox from Wikipedia](https://en.wikipedia.org/wiki/Bruce_Wilcox)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [4.1.3 Reitman and Wilcox](http://staff.itee.uq.edu.au/janetw/Computer%20Go/CS-TR-339.html#4.1.3) in [Jay Burmeister](index.php?title=Jay_Burmeister&action=edit&redlink=1 "Jay Burmeister (page does not exist)"), [Janet Wiles](index.php?title=Janet_Wiles&action=edit&redlink=1 "Janet Wiles (page does not exist)") (**1995**). *[CS-TR-339 Computer Go Tech Report](http://staff.itee.uq.edu.au/janetw/Computer%20Go/CS-TR-339.html)*. Departments of Computer Science and Psychology, [The University of Queensland](https://en.wikipedia.org/wiki/University_of_Queensland), [QLD 4072](https://en.wikipedia.org/wiki/St_Lucia,_Queensland), [Australia](https://en.wikipedia.org/wiki/Australia) (permanently - under construction)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Walter R. Reitman, [Bruce Wilcox](index.php?title=Bruce_Wilcox&action=edit&redlink=1 "Bruce Wilcox (page does not exist)") (**1979**). *[The Structure and Performance of the INTERIM.2 Go Program](http://dl.acm.org/citation.cfm?id=1623078)*. [IJCAI 1979](Conferences#IJCAI1979 "Conferences")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Bruce Wilcox](index.php?title=Bruce_Wilcox&action=edit&redlink=1 "Bruce Wilcox (page does not exist)") (**1985**). *[Reflections on building two Go programs](http://dl.acm.org/citation.cfm?id=1056318)*. [ACM SIGART](ACM#SIG "ACM") Bulletin, No. 94
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Nemesis Software | British Go Association](http://www.britgo.org/reviews/nemrev.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Walter Reitman](https://dblp.uni-trier.de/pers/hd/r/Reitman:Walter)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Letter](http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=63221) (pdf) by [Herbert Simon](Herbert_Simon "Herbert Simon") to Walter R. Reitman, February 21, 1966
 
 **[Up one level](People "People")**
 

@@ -28,7 +28,7 @@ two or more passed pawns on adjacent files, either as [duo](</Duo_Trio_Quart_(Bi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: passed pawn evaluation](https://www.stmintz.com/ccc/index.php?id=341873) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 12, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: passed pawn evaluation](https://www.stmintz.com/ccc/index.php?id=341873) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 12, 2004
 
 **[Up one Level](Passed_Pawn "Passed Pawn")**
 

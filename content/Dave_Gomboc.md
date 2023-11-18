@@ -31,10 +31,10 @@ a Canadian computer scientist and [AI](Artificial_Intelligence "Artificial Intel
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Minimalist Home Page of Dave Gomboc](http://www.cs.ucr.edu/~gomboc//)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Dave Gomboc, [Christian R. Shelton](index.php?title=Christian_R._Shelton&action=edit&redlink=1 "Christian R. Shelton (page does not exist)") (**2021**). *Chess endgame compression via logic minimization*. [Advances in Computer Games 17](Advances_in_Computer_Games_17 "Advances in Computer Games 17")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Dave Gomboc (**2004**). *Tuning Evaluation Functions by Maximizing Concordance*. M.Sc. Thesis, [University of Alberta](University_of_Alberta "University of Alberta")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Dave Gomboc](https://dblp.uni-trier.de/pers/hd/g/Gomboc:Dave.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Minimalist Home Page of Dave Gomboc](http://www.cs.ucr.edu/~gomboc//)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Dave Gomboc, [Christian R. Shelton](index.php?title=Christian_R._Shelton&action=edit&redlink=1 "Christian R. Shelton (page does not exist)") (**2021**). *Chess endgame compression via logic minimization*. [Advances in Computer Games 17](Advances_in_Computer_Games_17 "Advances in Computer Games 17")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Dave Gomboc (**2004**). *Tuning Evaluation Functions by Maximizing Concordance*. M.Sc. Thesis, [University of Alberta](University_of_Alberta "University of Alberta")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Dave Gomboc](https://dblp.uni-trier.de/pers/hd/g/Gomboc:Dave.html)
 
 **[Up one level](People "People")**
 

@@ -35,13 +35,13 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from [Re: Ron Nelson Chess Challenger 10](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=205) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 24, 2016
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Toytronic Chess Electronics](http://www.schach-computer.info/wiki/index.php/Toytronic_Chess_Electronics) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Toytronic - Chess Electronics](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1979%20%5BA-5970%5D%20Toytronic%20-%20Chess%20Electronics.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cassia - Chess Mate](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1979%20%5BA-3976%5D%20Cassia%20-%20Chess%20Mate.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=122) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 24, 2015
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CXG - Computachess (black and silver edition)](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1981%20%5BB-1801%5D%20CXG%20-%20Computachess%20%28black%20and%20silver%20edition%29.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Ron Nelson Chess Challenger 10](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=205) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 24, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from [Re: Ron Nelson Chess Challenger 10](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=205) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 24, 2016
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Toytronic Chess Electronics](http://www.schach-computer.info/wiki/index.php/Toytronic_Chess_Electronics) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Toytronic - Chess Electronics](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1979%20%5BA-5970%5D%20Toytronic%20-%20Chess%20Electronics.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cassia - Chess Mate](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1979%20%5BA-3976%5D%20Cassia%20-%20Chess%20Mate.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=122) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 24, 2015
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CXG - Computachess (black and silver edition)](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1981%20%5BB-1801%5D%20CXG%20-%20Computachess%20%28black%20and%20silver%20edition%29.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Ron Nelson Chess Challenger 10](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=205) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 24, 2016
 
 **[Up one Level](Engines "Engines")**
 

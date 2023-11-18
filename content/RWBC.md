@@ -35,8 +35,8 @@ stands for **Regensburg WinBoard Circuit**, an [Engine](Engines "Engines") ratin
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Regensburg, view over [Danube](https://en.wikipedia.org/wiki/Danube), [Stone Bridge](https://en.wikipedia.org/wiki/Stone_Bridge_%28Regensburg%29) and [Regensburg Cathedral](https://en.wikipedia.org/wiki/Regensburg_Cathedral), Photo by [Karsten Dörre](http://de.wikipedia.org/wiki/Benutzer:Grizurgbg), August 2006, [Regensburg from Wikipedia](https://en.wikipedia.org/wiki/Regensburg)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [XB/UCI chronology available again](http://www.talkchess.com/forum/viewtopic.php?t=60345) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), June 02, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Regensburg, view over [Danube](https://en.wikipedia.org/wiki/Danube), [Stone Bridge](https://en.wikipedia.org/wiki/Stone_Bridge_%28Regensburg%29) and [Regensburg Cathedral](https://en.wikipedia.org/wiki/Regensburg_Cathedral), Photo by [Karsten Dörre](http://de.wikipedia.org/wiki/Benutzer:Grizurgbg), August 2006, [Regensburg from Wikipedia](https://en.wikipedia.org/wiki/Regensburg)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [XB/UCI chronology available again](http://www.talkchess.com/forum/viewtopic.php?t=60345) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), June 02, 2016
 
 **[Up one Level](Engine_Rating_Lists "Engine Rating Lists")**
 

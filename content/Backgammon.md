@@ -133,16 +133,16 @@ In the late 80s, [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A backgammon set, consisting of a board, two sets of 15 checkers, two pairs of dice, a [doubling cube](https://en.wikipedia.org/wiki/Backgammon#Doubling_cube), and dice cups, Image by [Ptkfgs](https://commons.wikimedia.org/wiki/User:Ptkfgs), March 6, 2013, [Backgammon from Wikipedia](https://en.wikipedia.org/wiki/Backgammon), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Backgammon Galore](http://www.bkgm.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Backgammon (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/game.php?id=11)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [18th Computer Olympiad - Day 6 Photos](https://icga.leidenuniv.nl/?page_id=1467) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1977**). *[Experiences in Evaluation with BKG, a Program That Plays Backgammon](http://www.bkgm.com/articles/Berliner/ExperiencesInEvaluationWithBKG/index.html)*. [IJCAI, 1977](Conferences#IJCAI1977 "Conferences"), hosted by [Backgammon Galore](http://www.bkgm.com/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Hans Berliner from Wikipedia](https://en.wikipedia.org/wiki/Hans_Berliner)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1980**). *[Backgammon Computer Program Beats World Champion](http://www.bkgm.com/articles/Berliner/BackgammonProgramBeatsWorldChamp/)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 14
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Richard Sutton](Richard_Sutton "Richard Sutton"), [Andrew Barto](Andrew_Barto "Andrew Barto") (**1998**). *[Reinforcement Learning: An Introduction](http://www.incompleteideas.net/sutton/book/the-book.html)*. [MIT Press](https://en.wikipedia.org/wiki/MIT_Press), [11.1 TD-Gammon](http://www.incompleteideas.net/sutton/book/ebook/node108.html)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The hillclimbing HC-Gammon](http://satirist.org/learn-game/systems/gammon/hc-gammon.html) from [Machine Learning in Games](http://satirist.org/learn-game/) by [Jay Scott](Jay_Scott "Jay Scott")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Plakoto from Wikipedia](https://en.wikipedia.org/wiki/Plakoto)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A backgammon set, consisting of a board, two sets of 15 checkers, two pairs of dice, a [doubling cube](https://en.wikipedia.org/wiki/Backgammon#Doubling_cube), and dice cups, Image by [Ptkfgs](https://commons.wikimedia.org/wiki/User:Ptkfgs), March 6, 2013, [Backgammon from Wikipedia](https://en.wikipedia.org/wiki/Backgammon), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Backgammon Galore](http://www.bkgm.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Backgammon (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/game.php?id=11)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [18th Computer Olympiad - Day 6 Photos](https://icga.leidenuniv.nl/?page_id=1467) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1977**). *[Experiences in Evaluation with BKG, a Program That Plays Backgammon](http://www.bkgm.com/articles/Berliner/ExperiencesInEvaluationWithBKG/index.html)*. [IJCAI, 1977](Conferences#IJCAI1977 "Conferences"), hosted by [Backgammon Galore](http://www.bkgm.com/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hans Berliner from Wikipedia](https://en.wikipedia.org/wiki/Hans_Berliner)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1980**). *[Backgammon Computer Program Beats World Champion](http://www.bkgm.com/articles/Berliner/BackgammonProgramBeatsWorldChamp/)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 14
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Richard Sutton](Richard_Sutton "Richard Sutton"), [Andrew Barto](Andrew_Barto "Andrew Barto") (**1998**). *[Reinforcement Learning: An Introduction](http://www.incompleteideas.net/sutton/book/the-book.html)*. [MIT Press](https://en.wikipedia.org/wiki/MIT_Press), [11.1 TD-Gammon](http://www.incompleteideas.net/sutton/book/ebook/node108.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The hillclimbing HC-Gammon](http://satirist.org/learn-game/systems/gammon/hc-gammon.html) from [Machine Learning in Games](http://satirist.org/learn-game/) by [Jay Scott](Jay_Scott "Jay Scott")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Plakoto from Wikipedia](https://en.wikipedia.org/wiki/Plakoto)
 
 **[Up one Level](Games "Games")**
 

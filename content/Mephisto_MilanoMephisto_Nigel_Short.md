@@ -57,8 +57,8 @@ It is similar to the [Mephisto Polgar](Mephisto_Polgar "Mephisto Polgar") progra
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Whatever is Current | Home of the Dutch Rebel](http://rebel13.nl/home/whatever.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mephisto Nigel Short – Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Mephisto_Nigel_Short) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Whatever is Current | Home of the Dutch Rebel](http://rebel13.nl/home/whatever.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mephisto Nigel Short – Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Mephisto_Nigel_Short) (German)
 
 **[Up one Level](Mephisto "Mephisto")**
 

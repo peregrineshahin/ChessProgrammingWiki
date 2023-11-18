@@ -100,11 +100,11 @@ Kg5 69.Rh3 Rf7 70.Rh5+ Kf4 71.Rh8 Rf6 72.Rh7 e5 73.dxe6 Rxe6 74.Kf2 Re8 75.Rf7+ 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Icho Namiki Avenue](http://www.japan-talk.com/jt/new/icho-namiki-avenue) in [Meiji Jingu Gaien Park](http://en.japantravel.com/tokyo/meiji-jingu-gaien-park/14515), [Tokyo](https://en.wikipedia.org/wiki/Tokyo) on November 27, 2004, showing [Ginkgo trees](https://en.wikipedia.org/wiki/Ginkgo_biloba) in beautiful autumn colors - Image by [Chris 73](https://commons.wikimedia.org/wiki/User:Chris_73), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Ginkgo biloba - Wikimedia Commons](https://commons.wikimedia.org/wiki/Ginkgo_biloba)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kai Himstedt](Kai_Himstedt "Kai Himstedt") (**2005**). *An Optimistic Pondering Approach for Asynchronous Distributed Games*. [ICGA Journal, Vol. 28, No. 2](ICGA_Journal#28_2 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Kai Himstedt](Kai_Himstedt "Kai Himstedt") (**2012**). *GridChess: Combining Optimistic Pondering with the Young Brothers Wait Concept*. [ICGA Journal, Vol. 35, No. 2](ICGA_Journal#35_2 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Photos [WCCC 2016](WCCC_2016 "WCCC 2016") by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Games from wccc2016-complete.pgn, [WCCC 2016 | ICGA](https://icga.leidenuniv.nl/?page_id=1676)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Icho Namiki Avenue](http://www.japan-talk.com/jt/new/icho-namiki-avenue) in [Meiji Jingu Gaien Park](http://en.japantravel.com/tokyo/meiji-jingu-gaien-park/14515), [Tokyo](https://en.wikipedia.org/wiki/Tokyo) on November 27, 2004, showing [Ginkgo trees](https://en.wikipedia.org/wiki/Ginkgo_biloba) in beautiful autumn colors - Image by [Chris 73](https://commons.wikimedia.org/wiki/User:Chris_73), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Ginkgo biloba - Wikimedia Commons](https://commons.wikimedia.org/wiki/Ginkgo_biloba)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kai Himstedt](Kai_Himstedt "Kai Himstedt") (**2005**). *An Optimistic Pondering Approach for Asynchronous Distributed Games*. [ICGA Journal, Vol. 28, No. 2](ICGA_Journal#28_2 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Kai Himstedt](Kai_Himstedt "Kai Himstedt") (**2012**). *GridChess: Combining Optimistic Pondering with the Young Brothers Wait Concept*. [ICGA Journal, Vol. 35, No. 2](ICGA_Journal#35_2 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Photos [WCCC 2016](WCCC_2016 "WCCC 2016") by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Games from wccc2016-complete.pgn, [WCCC 2016 | ICGA](https://icga.leidenuniv.nl/?page_id=1676)
 
 **[Up one Level](Engines "Engines")**
 

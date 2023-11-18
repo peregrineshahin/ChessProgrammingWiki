@@ -48,12 +48,12 @@ As an avid chess player and former chess programmer, Toma is author of the [WinB
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> No longer available image from [Laboratory for Biomechanics and Control Systems (LaBACS)](http://marjan.fesb.hr/~vzanchi/index.html), University of Split 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Toma Roncevic](https://dblp.uni-trier.de/pers/hd/r/Roncevic:Toma)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Toma Roncevic - Google Scholar Citations](https://scholar.google.hr/citations?user=jH4iDxwAAAAJ&hl=en)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Retina from Wikipedia](https://en.wikipedia.org/wiki/Retina)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Joseph Leonard Walsh](Mathematician#JLWalsh "Mathematician"), [Walsh–Hadamard transform from Wikipedia](https://en.wikipedia.org/wiki/Hadamard_transform), [Walsh function from Wikipedia](https://en.wikipedia.org/wiki/Walsh_function), [Walsh matrix from Wikipedia](https://en.wikipedia.org/wiki/Walsh_matrix)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Huxley - RepRapWiki](http://www.reprap.org/wiki/Huxley)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> No longer available image from [Laboratory for Biomechanics and Control Systems (LaBACS)](http://marjan.fesb.hr/~vzanchi/index.html), University of Split 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Toma Roncevic](https://dblp.uni-trier.de/pers/hd/r/Roncevic:Toma)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Toma Roncevic - Google Scholar Citations](https://scholar.google.hr/citations?user=jH4iDxwAAAAJ&hl=en)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Retina from Wikipedia](https://en.wikipedia.org/wiki/Retina)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Joseph Leonard Walsh](Mathematician#JLWalsh "Mathematician"), [Walsh–Hadamard transform from Wikipedia](https://en.wikipedia.org/wiki/Hadamard_transform), [Walsh function from Wikipedia](https://en.wikipedia.org/wiki/Walsh_function), [Walsh matrix from Wikipedia](https://en.wikipedia.org/wiki/Walsh_matrix)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Huxley - RepRapWiki](http://www.reprap.org/wiki/Huxley)
 
 **[Up one level](People "People")**
 

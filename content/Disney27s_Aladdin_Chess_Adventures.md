@@ -26,9 +26,9 @@ The game features [tutorials](https://en.wikipedia.org/wiki/Tutorial), [3D board
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aladdin in the Magic Garden](https://en.wikipedia.org/wiki/File:Aladdin_in_the_Magic_Garden_-_Project_Gutenberg_eText_14221.jpg), from [Aladdin's Wonderful Lamp](https://en.wikipedia.org/wiki/Aladdin) by [Ludwig Fulda](https://en.wikipedia.org/wiki/Ludwig_Fulda), illustrated by Max Liebert, [Aladdin und die Wunderlampe by Ludwig Fulda](http://www.gutenberg.org/ebooks/14221) Berlin 1912 - [Project Gutenberg](https://en.wikipedia.org/wiki/Project_Gutenberg), [Aladdin from Wikipedia](https://en.wikipedia.org/wiki/Aladdin)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fluent Entertainment, Inc.](http://www.mobygames.com/company/fluent-entertainment-inc) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aladdin: Chess Adventures - PC](http://www.ign.com/games/aladdin-chess-adventures/pc-683949) - [IGN](https://en.wikipedia.org/wiki/IGN)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aladdin in the Magic Garden](https://en.wikipedia.org/wiki/File:Aladdin_in_the_Magic_Garden_-_Project_Gutenberg_eText_14221.jpg), from [Aladdin's Wonderful Lamp](https://en.wikipedia.org/wiki/Aladdin) by [Ludwig Fulda](https://en.wikipedia.org/wiki/Ludwig_Fulda), illustrated by Max Liebert, [Aladdin und die Wunderlampe by Ludwig Fulda](http://www.gutenberg.org/ebooks/14221) Berlin 1912 - [Project Gutenberg](https://en.wikipedia.org/wiki/Project_Gutenberg), [Aladdin from Wikipedia](https://en.wikipedia.org/wiki/Aladdin)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fluent Entertainment, Inc.](http://www.mobygames.com/company/fluent-entertainment-inc) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aladdin: Chess Adventures - PC](http://www.ign.com/games/aladdin-chess-adventures/pc-683949) - [IGN](https://en.wikipedia.org/wiki/IGN)
 
 **[Up one level](Engines "Engines")**
 

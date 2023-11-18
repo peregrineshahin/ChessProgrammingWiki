@@ -50,10 +50,10 @@ In early 2021, he started computer chess programming <a id="cite-note-2" href="#
 
 
 1. ↑ [1.0](#cite-ref-linkedin-1-0) [1.1](#cite-ref-linkedin-1-1) [Thomas Jahn | LinkedIn](https://www.linkedin.com/in/thomas-jahn-b3048627/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [My Beginner’s Guide to Chess Programming](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76398) by Thomas Jahn, [CCC](CCC "CCC"), January 23, 2021
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MinimalChess 0.2 released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76560) by Thomas Jahn, [CCC](CCC "CCC"), February 12, 2021
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - lithander/MinimalChessEngine](https://github.com/lithander/MinimalChessEngine)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Devlog of Leorik](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79049) by Thomas Jahn, [CCC](CCC "CCC"), January 04, 2022
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [My Beginner’s Guide to Chess Programming](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76398) by Thomas Jahn, [CCC](CCC "CCC"), January 23, 2021
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MinimalChess 0.2 released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76560) by Thomas Jahn, [CCC](CCC "CCC"), February 12, 2021
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - lithander/MinimalChessEngine](https://github.com/lithander/MinimalChessEngine)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Devlog of Leorik](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79049) by Thomas Jahn, [CCC](CCC "CCC"), January 04, 2022
 
 **[Up one level](People "People")**
 

@@ -49,11 +49,11 @@ Along with some emotional forum discussions on [derivatives](Category:Derivative
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image by Wilfried Berns / www.Tiermotive.de, [Smaug giganteus - Wikimedia Commons](https://commons.wikimedia.org/wiki/Smaug_giganteus)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Smaug: a new chess engine based on glaurung](http://www.talkchess.com/forum/viewtopic.php?t=26971) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski"), [CCC](CCC "CCC"), March 12, 2009
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Smaug: a new chess engine based on glaurung](http://www.talkchess.com/forum/viewtopic.php?t=26971&start=1) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), March 12, 2009
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Plague: a "new" chess engine based on Smaug](http://www.talkchess.com/forum/viewtopic.php?t=27029) by [Christopher Conkie](index.php?title=Christopher_Conkie&action=edit&redlink=1 "Christopher Conkie (page does not exist)"), [CCC](CCC "CCC"), March 16, 2009
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Plague: a "new" chess engine based on Smaug](http://www.talkchess.com/forum/viewtopic.php?t=27029&start=76) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski"), [CCC](CCC "CCC"), March 18, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image by Wilfried Berns / www.Tiermotive.de, [Smaug giganteus - Wikimedia Commons](https://commons.wikimedia.org/wiki/Smaug_giganteus)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Smaug: a new chess engine based on glaurung](http://www.talkchess.com/forum/viewtopic.php?t=26971) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski"), [CCC](CCC "CCC"), March 12, 2009
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Smaug: a new chess engine based on glaurung](http://www.talkchess.com/forum/viewtopic.php?t=26971&start=1) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), March 12, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Plague: a "new" chess engine based on Smaug](http://www.talkchess.com/forum/viewtopic.php?t=27029) by [Christopher Conkie](index.php?title=Christopher_Conkie&action=edit&redlink=1 "Christopher Conkie (page does not exist)"), [CCC](CCC "CCC"), March 16, 2009
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Plague: a "new" chess engine based on Smaug](http://www.talkchess.com/forum/viewtopic.php?t=27029&start=76) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski"), [CCC](CCC "CCC"), March 18, 2009
 
 **[Up one Level](Engines "Engines")**
 

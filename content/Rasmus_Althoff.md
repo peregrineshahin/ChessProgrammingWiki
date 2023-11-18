@@ -44,8 +44,8 @@ Fascinated by [dedicated chess computers](Dedicated_Chess_Computers "Dedicated C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zack - AtariUpToDate](http://www.atariuptodate.de/de/4011/zack)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About the CT800 author](https://www.ct800.net/about.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zack - AtariUpToDate](http://www.atariuptodate.de/de/4011/zack)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About the CT800 author](https://www.ct800.net/about.htm)
 
 **[Up one level](People "People")**
 

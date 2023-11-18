@@ -36,11 +36,11 @@ From 1990 to '95 he worked at [MIT](Massachusetts_Institute_of_Technology "Massa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yuli Zhou - LinkedIn](https://www.linkedin.com/pub/yuli-zhou/9/184/566)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Yuli Zhou - LinkedIn](https://www.linkedin.com/pub/yuli-zhou/9/184/566)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chris Joerg](Chris_Joerg "Chris Joerg"), [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Massively Parallel Chess*. Proceedings of the Third DIMACS Parallel Implementation Challenge, [pdf](http://supertech.csail.mit.edu/papers/dimacs94.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Yuli Zhou](https://dblp.uni-trier.de/pers/hd/z/Zhou:Yuli.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yuli Zhou - LinkedIn](https://www.linkedin.com/pub/yuli-zhou/9/184/566)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Yuli Zhou - LinkedIn](https://www.linkedin.com/pub/yuli-zhou/9/184/566)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chris Joerg](Chris_Joerg "Chris Joerg"), [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Massively Parallel Chess*. Proceedings of the Third DIMACS Parallel Implementation Challenge, [pdf](http://supertech.csail.mit.edu/papers/dimacs94.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Yuli Zhou](https://dblp.uni-trier.de/pers/hd/z/Zhou:Yuli.html)
 
 **[Up one level](People "People")**
 

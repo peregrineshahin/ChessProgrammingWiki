@@ -122,7 +122,7 @@ Pawny's board was initially [represented](Board_Representation "Board Representa
 
 
 1. ↑ [1.0](#cite-ref-pawny-1-0) [1.1](#cite-ref-pawny-1-1) [Pawny's Homepage](https://web.archive.org/web/20090908151549/http://pawny.netii.net:80/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), September 08, 2009)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pawny's Version History](https://web.archive.org/web/20190719112242/http://pawny.netii.net/version.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), July 19, 2019)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pawny's Version History](https://web.archive.org/web/20190719112242/http://pawny.netii.net/version.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), July 19, 2019)
 
 **[Up one Level](Engines "Engines")**
 

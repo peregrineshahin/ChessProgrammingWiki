@@ -37,12 +37,12 @@ A long time financial industry veteran, and founder of *The Financial Industry N
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John Hamlen's Page - OpenCoffee Club](http://opencoffee.ning.com/profile/JohnHamlen)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [John Hamlen from LinkedIn](http://uk.linkedin.com/in/johnhamlen)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Image from no longer available site WCCC 2004 - Pictures, [Bar-Ilan University](Bar-Ilan_University "Bar-Ilan University")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ramat-Gan 2004 - Chess - Round 1 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=24&round=1&id=5)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Seven Year Itch (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Seven_Year_Itch_%28disambiguation%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John Hamlen's Page - OpenCoffee Club](http://opencoffee.ning.com/profile/JohnHamlen)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [John Hamlen from LinkedIn](http://uk.linkedin.com/in/johnhamlen)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Image from no longer available site WCCC 2004 - Pictures, [Bar-Ilan University](Bar-Ilan_University "Bar-Ilan University")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ramat-Gan 2004 - Chess - Round 1 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=24&round=1&id=5)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Seven Year Itch (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Seven_Year_Itch_%28disambiguation%29)
 
 **[Up one level](People "People")**
 

@@ -84,20 +84,20 @@ Fifty years of human and computer chess <a id="cite-note-13" href="#cite-ref-13"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [L. Stephen Coles | LinkedIn](https://www.linkedin.com/in/lcoles1/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gerontology Research Group Index Page](http://www.grg.org/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aging: Disease or Business Opportunity?](https://www.nytimes.com/2007/04/15/business/yourmoney/15aging.html?_r=0) by [Duff Wilson](https://en.wikipedia.org/wiki/Duff_Wilson), [New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), April 15, 2007
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Amazon.com: L. Stephen Coles' review of The Life Plan](https://www.amazon.com/review/R3R4XVEUESL6BT)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [L. Stephen Coles dies at 73; studied extreme aging in humans](https://www.latimes.com/local/obituaries/la-me-stephen-coles-20141205-story.html) by [Steve Chawkins](https://www.latimes.com/la-bio-steve-chawkins-staff.html), [Los Angeles Times](https://en.wikipedia.org/wiki/Los_Angeles_Times), December 04, 2014
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> L. Stephen Coles (**1967**). *[Syntax Directed Interpretation of Natural Language](https://www.researchgate.net/publication/33738501_Syntax-Directed_Interpretation_of_Natural_Language)*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [L. Stephen Coles from Wikipedia](https://en.wikipedia.org/wiki/L._Stephen_Coles)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [L. Stephen Coles | LinkedIn](https://www.linkedin.com/pub/l-stephen-coles/21/a8/b3b)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> Steve Coles (**1967**). *Memorandum - Chess at Carnegie Tech*. [pdf](http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=41937)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> L. Stephen Coles (**1994**). *Computer Chess: The Drosophila of AI*. AI Expert, Vol. 9, No. 4, [Miller Freeman, Inc.](https://en.wikipedia.org/wiki/Miller_Freeman,_Inc.)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Computer Chess: The Drosophila of AI](http://www.drdobbs.com/high-performance-computing/184405171) by L. Stephen Coles, October 30, 2002, [Dr. Dobbs](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Katja Grace](index.php?title=Katja_Grace&action=edit&redlink=1 "Katja Grace (page does not exist)") (**2013**). *Algorithmic Progress in Six Domains*. Technical report 2013-3, [Machine Intelligence Research Institute](https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute), [Berkeley, CA](https://en.wikipedia.org/wiki/Berkeley,_California), [pdf](http://intelligence.org/files/AlgorithmicProgress.pdf), 5 [Game Playing](Games "Games"), 5.1 [Chess](Chess "Chess"), 5.1.5. Dr Dobb’s Article Estimates
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Computer Chess: The Drosophila of AI | Dr Dobb's Page 2 - Figure 1: Fifty years of human and computer chess](http://www.drdobbs.com/parallel/computer-chess-the-drosophila-of-ai/184405171?pgno=2)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [dblp: L. Stephen Coles](https://dblp.uni-trier.de/pers/hd/c/Coles:L=_Stephen.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [L. Stephen Coles | LinkedIn](https://www.linkedin.com/in/lcoles1/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gerontology Research Group Index Page](http://www.grg.org/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aging: Disease or Business Opportunity?](https://www.nytimes.com/2007/04/15/business/yourmoney/15aging.html?_r=0) by [Duff Wilson](https://en.wikipedia.org/wiki/Duff_Wilson), [New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), April 15, 2007
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Amazon.com: L. Stephen Coles' review of The Life Plan](https://www.amazon.com/review/R3R4XVEUESL6BT)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [L. Stephen Coles dies at 73; studied extreme aging in humans](https://www.latimes.com/local/obituaries/la-me-stephen-coles-20141205-story.html) by [Steve Chawkins](https://www.latimes.com/la-bio-steve-chawkins-staff.html), [Los Angeles Times](https://en.wikipedia.org/wiki/Los_Angeles_Times), December 04, 2014
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> L. Stephen Coles (**1967**). *[Syntax Directed Interpretation of Natural Language](https://www.researchgate.net/publication/33738501_Syntax-Directed_Interpretation_of_Natural_Language)*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [L. Stephen Coles from Wikipedia](https://en.wikipedia.org/wiki/L._Stephen_Coles)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [L. Stephen Coles | LinkedIn](https://www.linkedin.com/pub/l-stephen-coles/21/a8/b3b)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> Steve Coles (**1967**). *Memorandum - Chess at Carnegie Tech*. [pdf](http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=41937)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> L. Stephen Coles (**1994**). *Computer Chess: The Drosophila of AI*. AI Expert, Vol. 9, No. 4, [Miller Freeman, Inc.](https://en.wikipedia.org/wiki/Miller_Freeman,_Inc.)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Computer Chess: The Drosophila of AI](http://www.drdobbs.com/high-performance-computing/184405171) by L. Stephen Coles, October 30, 2002, [Dr. Dobbs](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Katja Grace](index.php?title=Katja_Grace&action=edit&redlink=1 "Katja Grace (page does not exist)") (**2013**). *Algorithmic Progress in Six Domains*. Technical report 2013-3, [Machine Intelligence Research Institute](https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute), [Berkeley, CA](https://en.wikipedia.org/wiki/Berkeley,_California), [pdf](http://intelligence.org/files/AlgorithmicProgress.pdf), 5 [Game Playing](Games "Games"), 5.1 [Chess](Chess "Chess"), 5.1.5. Dr Dobb’s Article Estimates
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Computer Chess: The Drosophila of AI | Dr Dobb's Page 2 - Figure 1: Fifty years of human and computer chess](http://www.drdobbs.com/parallel/computer-chess-the-drosophila-of-ai/184405171?pgno=2)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [dblp: L. Stephen Coles](https://dblp.uni-trier.de/pers/hd/c/Coles:L=_Stephen.html)
 
 **[Up one level](People "People")**
 

@@ -315,12 +315,12 @@ Treated as [vector](Array "Array") of two [Doubles](Double "Double") (SSE) or [Q
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Die shot](https://commons.wikimedia.org/wiki/File:Intel_80386_DX_die.JPG) of [Intel](Intel "Intel") 80386 DX-25 microprocessor (SX215) by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), October 28, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Flat real / real big / unreal mode (v1.2)](http://www.programmersheaven.com/download/1364/download.aspx) from [Programmer's Heaven](http://www.programmersheaven.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Unreal mode](https://groups.google.com/group/comp.lang.asm.x86/browse_frm/thread/6ded3c0f3241b432) by Safronov's family, [comp.lang.asm.x86](https://groups.google.com/group/comp.lang.asm.x86/topics), June 5, 2003
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Die shot of [Intel](Intel "Intel") Pentium with P54C core by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), June 11, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Die shot of [AMD](AMD "AMD") Athlon XP microprocessor with Thoroughbred core (AXDA1800DLT3C) by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), February 14, 2014, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Advanced Matrix Extension (AMX) - x86 - WikiChip](https://en.wikichip.org/wiki/x86/amx)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Die shot](https://commons.wikimedia.org/wiki/File:Intel_80386_DX_die.JPG) of [Intel](Intel "Intel") 80386 DX-25 microprocessor (SX215) by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), October 28, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Flat real / real big / unreal mode (v1.2)](http://www.programmersheaven.com/download/1364/download.aspx) from [Programmer's Heaven](http://www.programmersheaven.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Unreal mode](https://groups.google.com/group/comp.lang.asm.x86/browse_frm/thread/6ded3c0f3241b432) by Safronov's family, [comp.lang.asm.x86](https://groups.google.com/group/comp.lang.asm.x86/topics), June 5, 2003
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Die shot of [Intel](Intel "Intel") Pentium with P54C core by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), June 11, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Die shot of [AMD](AMD "AMD") Athlon XP microprocessor with Thoroughbred core (AXDA1800DLT3C) by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), February 14, 2014, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Advanced Matrix Extension (AMX) - x86 - WikiChip](https://en.wikichip.org/wiki/x86/amx)
 
 **[Up one Level](Hardware "Hardware")**
 

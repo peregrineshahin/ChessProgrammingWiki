@@ -104,15 +104,15 @@ The first version of Stobor in 1993 was mainly influenced by the 1978 articles b
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The [Hot Rock Carnival Club](https://www.hotrockcc.co.uk/) entered 'Stobor', a robotic theme, in the 2016 [Weston-super-Mare](https://en.wikipedia.org/wiki/Weston-super-Mare) [carnival](https://en.wikipedia.org/wiki/West_Country_Carnival), Photo by [Geof Sheppard](https://commons.wikimedia.org/wiki/User:Geof_Sheppard), November 11, 2016, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stobor from Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/Stobor) - Licensing
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Beware of stobor!: Robert A. Heinlein’s Tunnel in the Sky](http://www.tor.com/blogs/2011/11/beware-of-stobor-robert-a-heinleins-tunnel-in-the-sky) review by [Jo Walton](http://www.tor.com/Jo%20Walton#filter), November 14, 2011
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Paderborn - Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/Stobor/Paderborn/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Stobor from Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/Stobor) - Design
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Stobor from Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/Stobor) - History
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Peter W. Frey](Peter_W._Frey "Peter W. Frey"), [Larry Atkin](Larry_Atkin "Larry Atkin") (**1978**). *[Creating a Chess Player](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d5ba2).* An Essay on Human and Computer Chess Skill, [BYTE, Vol. 3, No. 10](Byte_Magazine#BYTE310 "Byte Magazine")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Good parallel speedup with ABDADA and cutoff checks](http://www.talkchess.com/forum/viewtopic.php?t=63023) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [CCC](CCC "CCC"), February 03, 2017
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Paris 1997 - Chess - Round 4 - Game 14 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=4&id=14)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The [Hot Rock Carnival Club](https://www.hotrockcc.co.uk/) entered 'Stobor', a robotic theme, in the 2016 [Weston-super-Mare](https://en.wikipedia.org/wiki/Weston-super-Mare) [carnival](https://en.wikipedia.org/wiki/West_Country_Carnival), Photo by [Geof Sheppard](https://commons.wikimedia.org/wiki/User:Geof_Sheppard), November 11, 2016, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stobor from Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/Stobor) - Licensing
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Beware of stobor!: Robert A. Heinlein’s Tunnel in the Sky](http://www.tor.com/blogs/2011/11/beware-of-stobor-robert-a-heinleins-tunnel-in-the-sky) review by [Jo Walton](http://www.tor.com/Jo%20Walton#filter), November 14, 2011
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Paderborn - Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/Stobor/Paderborn/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Stobor from Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/Stobor) - Design
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Stobor from Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/Stobor) - History
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Peter W. Frey](Peter_W._Frey "Peter W. Frey"), [Larry Atkin](Larry_Atkin "Larry Atkin") (**1978**). *[Creating a Chess Player](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d5ba2).* An Essay on Human and Computer Chess Skill, [BYTE, Vol. 3, No. 10](Byte_Magazine#BYTE310 "Byte Magazine")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Good parallel speedup with ABDADA and cutoff checks](http://www.talkchess.com/forum/viewtopic.php?t=63023) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [CCC](CCC "CCC"), February 03, 2017
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Paris 1997 - Chess - Round 4 - Game 14 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=4&id=14)
 
 **[Up one Level](Engines "Engines")**
 

@@ -106,14 +106,14 @@ at times running on DEC Alpha
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Die photo of Alpha AXP 21064, by [Dyl](https://commons.wikimedia.org/wiki/User:Dyl~commonswiki), April 02, 2007, [DEC Alpha from Wikipedia](https://en.wikipedia.org/wiki/DEC_Alpha), [Alpha 21064 from Wikipedia](https://en.wikipedia.org/wiki/Alpha_21064), [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alpha Architecture Technical Summary](https://groups.google.com/d/msg/comp.arch/QB59ace2V8M/pEuccRNGoe8J) by [Jim Gettys](https://en.wikipedia.org/wiki/Jim_Gettys), [comp.arch](https://groups.google.com/forum/#!forum/comp.arch), February 25, 1992
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DEC Alpha from Wikipedia](https://en.wikipedia.org/wiki/DEC_Alpha)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alpha/FAQ - Is Alpha big endian or little endian?](https://wiki.gentoo.org/wiki/Alpha/FAQ#Is_Alpha_big_endian_or_little_endian.3F)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Question to Bob: Crafty , Alpha and FindBit()](https://www.stmintz.com/ccc/index.php?id=20057) by [Guido Schimmels](Guido_Schimmels "Guido Schimmels"), [CCC](CCC "CCC"), June 05, 1998
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> English: Die shot of DEC Alpha 21164 (EV5) microprocessor, by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), 28 June 2013, [Alpha 21164 from Wikipedia](https://en.wikipedia.org/wiki/Alpha_21164), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Alpha 21264 - Cache - Wikipedia](https://en.wikipedia.org/wiki/Alpha_21264#Cache)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Gentoo Linux from Wikipedia](https://en.wikipedia.org/wiki/Gentoo_Linux)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Die photo of Alpha AXP 21064, by [Dyl](https://commons.wikimedia.org/wiki/User:Dyl~commonswiki), April 02, 2007, [DEC Alpha from Wikipedia](https://en.wikipedia.org/wiki/DEC_Alpha), [Alpha 21064 from Wikipedia](https://en.wikipedia.org/wiki/Alpha_21064), [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alpha Architecture Technical Summary](https://groups.google.com/d/msg/comp.arch/QB59ace2V8M/pEuccRNGoe8J) by [Jim Gettys](https://en.wikipedia.org/wiki/Jim_Gettys), [comp.arch](https://groups.google.com/forum/#!forum/comp.arch), February 25, 1992
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DEC Alpha from Wikipedia](https://en.wikipedia.org/wiki/DEC_Alpha)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alpha/FAQ - Is Alpha big endian or little endian?](https://wiki.gentoo.org/wiki/Alpha/FAQ#Is_Alpha_big_endian_or_little_endian.3F)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Question to Bob: Crafty , Alpha and FindBit()](https://www.stmintz.com/ccc/index.php?id=20057) by [Guido Schimmels](Guido_Schimmels "Guido Schimmels"), [CCC](CCC "CCC"), June 05, 1998
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> English: Die shot of DEC Alpha 21164 (EV5) microprocessor, by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), 28 June 2013, [Alpha 21164 from Wikipedia](https://en.wikipedia.org/wiki/Alpha_21164), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Alpha 21264 - Cache - Wikipedia](https://en.wikipedia.org/wiki/Alpha_21264#Cache)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Gentoo Linux from Wikipedia](https://en.wikipedia.org/wiki/Gentoo_Linux)
 
 **[Up one Level](Hardware "Hardware")**
 

@@ -21,7 +21,7 @@ which won the Bronze medal at the [4th Computer Olympiad 1992](4th_Computer_Olym
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Philou 1.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=22152) by [Patrick Buchmann](Patrick_Buchmann "Patrick Buchmann"), [CCC](CCC "CCC"), July 05, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Philou 1.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=22152) by [Patrick Buchmann](Patrick_Buchmann "Patrick Buchmann"), [CCC](CCC "CCC"), July 05, 2008
 
 **[Up one level](People "People")**
 

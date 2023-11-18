@@ -176,18 +176,18 @@ The program [Siboney](index.php?title=Siboney&action=edit&redlink=1 "Siboney (pa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [New winboard engine released!](https://www.stmintz.com/ccc/index.php?id=129855) by [Carlos del Cacho](Carlos_del_Cacho "Carlos del Cacho"), [CCC](CCC "CCC"), September 18, 2000
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pepito Chess engine on Behance](https://www.behance.net/gallery/870970/Pepito-Chess-engine)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pepito Chess engine on Behance](http://www.behance.net/gallery/Pepito-Chess-engine/870970)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [thanx.txt](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Pepito%20%28Compilation%29/v1.59/Windows/thanx.txt)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CCT4 - PGN-Download](http://www.vrichey.de/cct4/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Siboney is at the moment not available!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=37440&p=142378) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 24, 2002
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [What is the state of Siboney now?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=37909&p=144333) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 26, 2002
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Siboney = a Pepito clone ??](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=38504&p=146960) by [Brice Boissel](index.php?title=Brice_Boissel&action=edit&redlink=1 "Brice Boissel (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 06, 2002
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: A Deep question](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=41578&p=158612) by [Carlos del Cacho](Carlos_del_Cacho "Carlos del Cacho"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 05, 2003
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [The truth about Deep <9>](https://www.stmintz.com/ccc/index.php?id=289305) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [CCC](CCC "CCC"), March 14, 2003
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Information](https://www.stmintz.com/ccc/index.php?id=289424) by [Denis Grafen](Denis_Grafen "Denis Grafen"), [CCC](CCC "CCC"), March 15, 2003
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [What is the state of Siboney now?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=37909&p=144333) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 26, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [New winboard engine released!](https://www.stmintz.com/ccc/index.php?id=129855) by [Carlos del Cacho](Carlos_del_Cacho "Carlos del Cacho"), [CCC](CCC "CCC"), September 18, 2000
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pepito Chess engine on Behance](https://www.behance.net/gallery/870970/Pepito-Chess-engine)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pepito Chess engine on Behance](http://www.behance.net/gallery/Pepito-Chess-engine/870970)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [thanx.txt](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Pepito%20%28Compilation%29/v1.59/Windows/thanx.txt)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CCT4 - PGN-Download](http://www.vrichey.de/cct4/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Siboney is at the moment not available!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=37440&p=142378) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 24, 2002
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [What is the state of Siboney now?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=37909&p=144333) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 26, 2002
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Siboney = a Pepito clone ??](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=38504&p=146960) by [Brice Boissel](index.php?title=Brice_Boissel&action=edit&redlink=1 "Brice Boissel (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 06, 2002
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: A Deep question](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=41578&p=158612) by [Carlos del Cacho](Carlos_del_Cacho "Carlos del Cacho"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 05, 2003
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [The truth about Deep <9>](https://www.stmintz.com/ccc/index.php?id=289305) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [CCC](CCC "CCC"), March 14, 2003
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Information](https://www.stmintz.com/ccc/index.php?id=289424) by [Denis Grafen](Denis_Grafen "Denis Grafen"), [CCC](CCC "CCC"), March 15, 2003
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [What is the state of Siboney now?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=37909&p=144333) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 26, 2002
 
 **[Up one Level](Engines "Engines")**
 

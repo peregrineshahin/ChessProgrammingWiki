@@ -83,14 +83,14 @@ There were a few didactic chess programs written in Basic, most notably a progra
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BASIC manual. Dartmouth College Computation center, 1964](http://www.bitsavers.org/pdf/dartmouth/BASIC_Oct64.pdf) (pdf)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [qBASIC Chess program - from 1984 by Dieter Steinwender](https://www.stmintz.com/ccc/index.php?id=286508) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), February 23, 2003
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Rainer Bartel](http://www.rainerbartel.de/), [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas"), [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer") (**1985**). *[Das große Computerschachbuch](https://www.c64-wiki.de/wiki/Das_grosse_Computerschachbuch)*. [Data Becker](https://en.wikipedia.org/wiki/Data_Becker) (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Another qBASIC Chess program -Dieter Steinwender (in english+comment](https://www.stmintz.com/ccc/index.php?id=286619) by Tony Worsman, [CCC](CCC "CCC"), February 24, 2003
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Minimax in BASIC](https://web.archive.org/web/20180222163823/http://home.pacific.net.au/~tommyinoz/minimax.html) by [Thomas McBurney](Thomas_McBurney "Thomas McBurney") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). *R. Bartel, H.J. Kraas and G. Schrüfer: Das grosse Computerschach-Buch*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal") (Review)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [BBC Basic: the people's language | Alphr](http://www.alphr.com/features/91575/bbc-basic-the-peoples-language)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Free Chess Software Programs](http://www.hiarcs.com/freechess.htm) from [HIARCS Chess Software for PC, Mac, Palm and Pocket PC](http://www.hiarcs.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BASIC manual. Dartmouth College Computation center, 1964](http://www.bitsavers.org/pdf/dartmouth/BASIC_Oct64.pdf) (pdf)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [qBASIC Chess program - from 1984 by Dieter Steinwender](https://www.stmintz.com/ccc/index.php?id=286508) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), February 23, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rainer Bartel](http://www.rainerbartel.de/), [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas"), [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer") (**1985**). *[Das große Computerschachbuch](https://www.c64-wiki.de/wiki/Das_grosse_Computerschachbuch)*. [Data Becker](https://en.wikipedia.org/wiki/Data_Becker) (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Another qBASIC Chess program -Dieter Steinwender (in english+comment](https://www.stmintz.com/ccc/index.php?id=286619) by Tony Worsman, [CCC](CCC "CCC"), February 24, 2003
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Minimax in BASIC](https://web.archive.org/web/20180222163823/http://home.pacific.net.au/~tommyinoz/minimax.html) by [Thomas McBurney](Thomas_McBurney "Thomas McBurney") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). *R. Bartel, H.J. Kraas and G. Schrüfer: Das grosse Computerschach-Buch*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal") (Review)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [BBC Basic: the people's language | Alphr](http://www.alphr.com/features/91575/bbc-basic-the-peoples-language)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Free Chess Software Programs](http://www.hiarcs.com/freechess.htm) from [HIARCS Chess Software for PC, Mac, Palm and Pocket PC](http://www.hiarcs.com/)
 
 **[Up one Level](Languages "Languages")**
 

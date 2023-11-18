@@ -144,14 +144,14 @@ Scheduling of [threads](Thread "Thread") across nodes and cores of a system is a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> One possible architecture of a NUMA system. Originally created in [Visio 2010](https://en.wikipedia.org/wiki/Microsoft_Visio), cleaned up with [Inkscape](https://en.wikipedia.org/wiki/Inkscape), by Moop2000, October 4, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [NUMA Frequently Asked Questions - 9. Why should I use NUMA? What are the benefits of NUMA?](http://lse.sourceforge.net/numa/faq/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NUMA Frequently Asked Questions - 4. What is the difference between NUMA and ccNUMA?](http://lse.sourceforge.net/numa/faq/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Non-Uniform Memory Access (NUMA) from Wikipedia](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Performance Guidelines for AMD Athlon™ 64 and AMD Opteron™ ccNUMA Multiprocessor Systems](https://doc.xdevs.com/doc/AMD/_Performance/Performance%20Guidelines%20for%20AMD%20Athlon%2064%20and%20AMD%20Opteron%20ccNUMA%20Multiprocessor%20Systems.%20rev.3.00%5D.%5B2006-06%5D.pdf) (pdf) - 3.2.1 Keeping Data Local by Virtue of first Touch, pp. 22
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: thread affinity](http://www.talkchess.com/forum/viewtopic.php?t=56858&start=3) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), July 03, 2015
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Documentation on the NUMAchine Multiprocessor](http://www.eecg.toronto.edu/parallel/parallel/numadocs.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Georg Hager's Blog | Random thoughts on High Performance Computing](https://blogs.fau.de/hager/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> One possible architecture of a NUMA system. Originally created in [Visio 2010](https://en.wikipedia.org/wiki/Microsoft_Visio), cleaned up with [Inkscape](https://en.wikipedia.org/wiki/Inkscape), by Moop2000, October 4, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [NUMA Frequently Asked Questions - 9. Why should I use NUMA? What are the benefits of NUMA?](http://lse.sourceforge.net/numa/faq/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NUMA Frequently Asked Questions - 4. What is the difference between NUMA and ccNUMA?](http://lse.sourceforge.net/numa/faq/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Non-Uniform Memory Access (NUMA) from Wikipedia](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Performance Guidelines for AMD Athlon™ 64 and AMD Opteron™ ccNUMA Multiprocessor Systems](https://doc.xdevs.com/doc/AMD/_Performance/Performance%20Guidelines%20for%20AMD%20Athlon%2064%20and%20AMD%20Opteron%20ccNUMA%20Multiprocessor%20Systems.%20rev.3.00%5D.%5B2006-06%5D.pdf) (pdf) - 3.2.1 Keeping Data Local by Virtue of first Touch, pp. 22
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: thread affinity](http://www.talkchess.com/forum/viewtopic.php?t=56858&start=3) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), July 03, 2015
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Documentation on the NUMAchine Multiprocessor](http://www.eecg.toronto.edu/parallel/parallel/numadocs.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Georg Hager's Blog | Random thoughts on High Performance Computing](https://blogs.fau.de/hager/)
 
 **[Up one Level](Memory "Memory")**
 

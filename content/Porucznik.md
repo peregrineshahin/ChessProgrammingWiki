@@ -52,8 +52,8 @@ Porucznik played the [IOPCCC 2008](IOPCCC_2008 "IOPCCC 2008") and the [PCCC 2009
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Badge](https://en.wikipedia.org/wiki/Badge) of rank of Porucznik (Lieutenant) of the [Polish Army](https://en.wikipedia.org/wiki/Polish_Land_Forces), [Image](https://commons.wikimedia.org/wiki/File:Army-POL-OF-01a.svg) by [F l a n k e r](https://commons.wikimedia.org/wiki/User:F_l_a_n_k_e_r), June 9, 2009, [Polish Armed Forces rank insignia - Wikipedia](https://en.wikipedia.org/wiki/Polish_Armed_Forces_rank_insignia), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [8th Polish Computer Chess Championships 26-27 of September 2009 - PGN](http://mpps.maciej.szmit.info/mpps-8/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Badge](https://en.wikipedia.org/wiki/Badge) of rank of Porucznik (Lieutenant) of the [Polish Army](https://en.wikipedia.org/wiki/Polish_Land_Forces), [Image](https://commons.wikimedia.org/wiki/File:Army-POL-OF-01a.svg) by [F l a n k e r](https://commons.wikimedia.org/wiki/User:F_l_a_n_k_e_r), June 9, 2009, [Polish Armed Forces rank insignia - Wikipedia](https://en.wikipedia.org/wiki/Polish_Armed_Forces_rank_insignia), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [8th Polish Computer Chess Championships 26-27 of September 2009 - PGN](http://mpps.maciej.szmit.info/mpps-8/)
 
 **[Up one Level](Engines "Engines")**
 

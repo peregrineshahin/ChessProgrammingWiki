@@ -52,9 +52,9 @@ Prior to coming to the [U.S](https://en.wikipedia.org/wiki/United_States), he he
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Miroslav Kubat | People Directory | UM COE](http://www.coe.miami.edu/faculty-directory/name/miroslav-kubat/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [IJCAI tutorial program for 2001 - Neural Networks for Pattern Recognition: The Impact of Architecture](http://www.ijcai.org/past/ijcai-01/tutorial_program.htm#SA3) by Miroslav Kubat
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Miroslav Kubat](https://dblp.uni-trier.de/pers/hd/k/Kubat:Miroslav)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Miroslav Kubat | People Directory | UM COE](http://www.coe.miami.edu/faculty-directory/name/miroslav-kubat/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [IJCAI tutorial program for 2001 - Neural Networks for Pattern Recognition: The Impact of Architecture](http://www.ijcai.org/past/ijcai-01/tutorial_program.htm#SA3) by Miroslav Kubat
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Miroslav Kubat](https://dblp.uni-trier.de/pers/hd/k/Kubat:Miroslav)
 
 **[Up one level](People "People")**
 

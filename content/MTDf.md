@@ -220,11 +220,11 @@ int mtdf(int f, int depth) {
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [M. C. Escher](Category:M._C._Escher "Category:M. C. Escher"), Ascending and Descending, 1960, [Picture gallery "Recognition and Success 1955 - 1972"](http://www.mcescher.com/Gallery/gallery-recogn.htm)  from [The Official M.C. Escher Website](http://www.mcescher.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Penrose stairs from Wikipedia](https://en.wikipedia.org/wiki/Penrose_stairs)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Quote by [Aske Plaat](Aske_Plaat "Aske Plaat") from [MTD(f) - A Minimax Algorithm faster than NegaScout](http://people.csail.mit.edu/plaat/mtdf.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MTD(f) experiments with Crafty](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=31130) by [Eric Stock](index.php?title=Eric_Stock&action=edit&redlink=1 "Eric Stock (page does not exist)"), [CCC](CCC "CCC"), December 18, 2009
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Eric Stock](index.php?title=Eric_Stock&action=edit&redlink=1 "Eric Stock (page does not exist)"), [David J. King](index.php?title=David_J._King&action=edit&redlink=1 "David J. King (page does not exist)") (**2010**). *[A new enhancement to MTD(f)](https://rke.abertay.ac.uk/en/publications/a-new-enhancement-to-mtdf)*. Games and Arts, [Abertay University](https://en.wikipedia.org/wiki/Abertay_University)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [M. C. Escher](Category:M._C._Escher "Category:M. C. Escher"), Ascending and Descending, 1960, [Picture gallery "Recognition and Success 1955 - 1972"](http://www.mcescher.com/Gallery/gallery-recogn.htm)  from [The Official M.C. Escher Website](http://www.mcescher.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Penrose stairs from Wikipedia](https://en.wikipedia.org/wiki/Penrose_stairs)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Quote by [Aske Plaat](Aske_Plaat "Aske Plaat") from [MTD(f) - A Minimax Algorithm faster than NegaScout](http://people.csail.mit.edu/plaat/mtdf.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MTD(f) experiments with Crafty](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=31130) by [Eric Stock](index.php?title=Eric_Stock&action=edit&redlink=1 "Eric Stock (page does not exist)"), [CCC](CCC "CCC"), December 18, 2009
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Eric Stock](index.php?title=Eric_Stock&action=edit&redlink=1 "Eric Stock (page does not exist)"), [David J. King](index.php?title=David_J._King&action=edit&redlink=1 "David J. King (page does not exist)") (**2010**). *[A new enhancement to MTD(f)](https://rke.abertay.ac.uk/en/publications/a-new-enhancement-to-mtdf)*. Games and Arts, [Abertay University](https://en.wikipedia.org/wiki/Abertay_University)
 
 **[Up one level](Search "Search")**
 

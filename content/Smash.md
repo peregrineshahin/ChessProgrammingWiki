@@ -60,9 +60,9 @@ Version 1.0 has been rewritten from scratch. Dubbed Deep Smash - it performs a [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> In June 2005, Chinese [Badminton](https://en.wikipedia.org/wiki/Badminton) player, [Fu Haifeng](https://en.wikipedia.org/wiki/Fu_Haifeng) set a world record when he hit a smash at over 208 [miles per hour](https://en.wikipedia.org/wiki/Miles_per_hour), from [East Leake Badminton](http://www.eastleakebadmintonclub.co.uk/fun.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: interested in making single proccesor program multi](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=165470&t=18611) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti"), [CCC](CCC "CCC"), December 29, 2007
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer Chess Cup 2005](http://walkofmind.com/programming/chess/ccc2005.htm) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> In June 2005, Chinese [Badminton](https://en.wikipedia.org/wiki/Badminton) player, [Fu Haifeng](https://en.wikipedia.org/wiki/Fu_Haifeng) set a world record when he hit a smash at over 208 [miles per hour](https://en.wikipedia.org/wiki/Miles_per_hour), from [East Leake Badminton](http://www.eastleakebadmintonclub.co.uk/fun.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: interested in making single proccesor program multi](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=165470&t=18611) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti"), [CCC](CCC "CCC"), December 29, 2007
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer Chess Cup 2005](http://walkofmind.com/programming/chess/ccc2005.htm) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
 
 **[Up one Level](Engines "Engines")**
 

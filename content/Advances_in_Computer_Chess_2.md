@@ -44,9 +44,9 @@ Advances in Computer Chess 2, announcement in [The Computer Journal](https://en.
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> View of [King's Buildings](https://en.wikipedia.org/wiki/King%27s_Buildings) from the [Braid Hills](https://en.wikipedia.org/wiki/Braid_Hills), Photo by [Kim Traynor](https://commons.wikimedia.org/wiki/User:Kim_Traynor), August 26, 2011, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [King's Buildings from Wikipedia](https://en.wikipedia.org/wiki/King%27s_Buildings)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Introduction | King's Buildings](http://www.ed.ac.uk/about/campus/buildings/kings-buildings)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Computer Journal 1978 21(1):94](http://comjnl.oxfordjournals.org/cgi/pdf_extract/21/1/94) © 1978 by [British Computer Society](http://comjnl.oxfordjournals.org/misc/terms.dtl)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> View of [King's Buildings](https://en.wikipedia.org/wiki/King%27s_Buildings) from the [Braid Hills](https://en.wikipedia.org/wiki/Braid_Hills), Photo by [Kim Traynor](https://commons.wikimedia.org/wiki/User:Kim_Traynor), August 26, 2011, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [King's Buildings from Wikipedia](https://en.wikipedia.org/wiki/King%27s_Buildings)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Introduction | King's Buildings](http://www.ed.ac.uk/about/campus/buildings/kings-buildings)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Computer Journal 1978 21(1):94](http://comjnl.oxfordjournals.org/cgi/pdf_extract/21/1/94) © 1978 by [British Computer Society](http://comjnl.oxfordjournals.org/misc/terms.dtl)
 
 **[Up one Level](Conferences "Conferences")**
 

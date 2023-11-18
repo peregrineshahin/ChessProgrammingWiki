@@ -94,10 +94,10 @@ Kurt Utzinger maintaines the computer chess site *Kurt & Rolf Chess*, full of (a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from [Fortune favours the brave](https://en.chessbase.com/post/speelman-agony-104) by [Jonathan Speelman](https://en.wikipedia.org/wiki/Jon_Speelman), [ChessBase News](ChessBase "ChessBase"), August 18, 2019
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fortune favours the brave](https://en.chessbase.com/post/speelman-agony-104) by [Jonathan Speelman](https://en.wikipedia.org/wiki/Jon_Speelman), [ChessBase News](ChessBase "ChessBase"), August 18, 2019
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kurt Utzinger – Schachklub Pfäffikon ZH](http://skpfaeffikon.ch/author/kurt/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kurt & Rolf Chess | Homepage of Kurt Utzinger](http://www.utzingerk.com/index.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from [Fortune favours the brave](https://en.chessbase.com/post/speelman-agony-104) by [Jonathan Speelman](https://en.wikipedia.org/wiki/Jon_Speelman), [ChessBase News](ChessBase "ChessBase"), August 18, 2019
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fortune favours the brave](https://en.chessbase.com/post/speelman-agony-104) by [Jonathan Speelman](https://en.wikipedia.org/wiki/Jon_Speelman), [ChessBase News](ChessBase "ChessBase"), August 18, 2019
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kurt Utzinger – Schachklub Pfäffikon ZH](http://skpfaeffikon.ch/author/kurt/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kurt & Rolf Chess | Homepage of Kurt Utzinger](http://www.utzingerk.com/index.htm)
 
 **[Up one level](People "People")**
 

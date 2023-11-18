@@ -33,8 +33,8 @@ The matter is to [learn](Learning "Learning") [piece values](Point_Value "Point 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Sacha Droste (**2008**). *[Lernen von Evaluierungsfunktionen für Schach-Varianten](http://www.ke.tu-darmstadt.de/bibtex/publications/show/1323).* Diplomarbeit (German) [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology"), advisor [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sacha Droste - Knowledge Engineering Publications - Aigaion 2.0](http://www.ke.tu-darmstadt.de/bibtex/authors/show/781/author)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Sacha Droste (**2008**). *[Lernen von Evaluierungsfunktionen für Schach-Varianten](http://www.ke.tu-darmstadt.de/bibtex/publications/show/1323).* Diplomarbeit (German) [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology"), advisor [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sacha Droste - Knowledge Engineering Publications - Aigaion 2.0](http://www.ke.tu-darmstadt.de/bibtex/authors/show/781/author)
 
 **[Up one Level](People "People")**
 

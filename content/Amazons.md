@@ -155,16 +155,16 @@ Furthermore, we observed that the average branching factor for both players incr
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Game of the Amazons from Wikipedia](https://en.wikipedia.org/wiki/Game_of_the_Amazons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Game of the Amazons from Wikipedia](https://en.wikipedia.org/wiki/Game_of_the_Amazons)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Nobusuke Sasaki](Nobusuke_Sasaki "Nobusuke Sasaki"), [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida") (**1999**). *Report on the First Open Computer-Amazons Championship*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 22, No. 1
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2000**). *Report on the Second Open Computer-Amazons Championship*. [ICGA Journal](ICGA_Journal "ICGA Journal"), Vol 23, No. 1
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA: Amazons](https://ilk.uvt.nl/icga/games/amazons/) by [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Games Tournament 2013 - Amazons](https://icga.leidenuniv.nl/?page_id=627#amazons), [ICGA](ICGA "ICGA")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Photos 2013 Events: day 6](https://icga.leidenuniv.nl/?page_id=869), [ICGA](ICGA "ICGA")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Patrick Hensgens](index.php?title=Patrick_Hensgens&action=edit&redlink=1 "Patrick Hensgens (page does not exist)") (**2001**). *A Knowledge-based Approach of the Game of Amazons*. Master's thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](http://www.personeel.unimaas.nl/uiterwijk/Theses/MSc/Hensgens_thesis.pdf)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Publications related to the game of Amazons](http://webdocs.cs.ualberta.ca/~mmueller/amazons/amazons-publications.html), [University of Alberta](University_of_Alberta "University of Alberta")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [ICGA: Amazons](https://ilk.uvt.nl/icga/games/amazons/) by [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Game of the Amazons from Wikipedia](https://en.wikipedia.org/wiki/Game_of_the_Amazons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Game of the Amazons from Wikipedia](https://en.wikipedia.org/wiki/Game_of_the_Amazons)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Nobusuke Sasaki](Nobusuke_Sasaki "Nobusuke Sasaki"), [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida") (**1999**). *Report on the First Open Computer-Amazons Championship*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 22, No. 1
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2000**). *Report on the Second Open Computer-Amazons Championship*. [ICGA Journal](ICGA_Journal "ICGA Journal"), Vol 23, No. 1
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA: Amazons](https://ilk.uvt.nl/icga/games/amazons/) by [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Games Tournament 2013 - Amazons](https://icga.leidenuniv.nl/?page_id=627#amazons), [ICGA](ICGA "ICGA")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Photos 2013 Events: day 6](https://icga.leidenuniv.nl/?page_id=869), [ICGA](ICGA "ICGA")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Patrick Hensgens](index.php?title=Patrick_Hensgens&action=edit&redlink=1 "Patrick Hensgens (page does not exist)") (**2001**). *A Knowledge-based Approach of the Game of Amazons*. Master's thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](http://www.personeel.unimaas.nl/uiterwijk/Theses/MSc/Hensgens_thesis.pdf)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Publications related to the game of Amazons](http://webdocs.cs.ualberta.ca/~mmueller/amazons/amazons-publications.html), [University of Alberta](University_of_Alberta "University of Alberta")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ICGA: Amazons](https://ilk.uvt.nl/icga/games/amazons/) by [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz")
 
 **[Up one Level](Games "Games")**
 

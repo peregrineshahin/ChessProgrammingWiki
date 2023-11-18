@@ -74,13 +74,13 @@ His research interests include [Linear temporal logic (LTL)](https://en.wikipedi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Abdallah Saffidine - Google Scholar Citations](https://scholar.google.com/citations?user=yWzT7LAAAAAJ)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Abdallah Saffidine (**2013**). *Solving Games and All That*. Ph.D. thesis, [Université Paris-Dauphine](University_of_Paris#9 "University of Paris"), advisor [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Abdallah Saffidine](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Saffidine:Abdallah.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Modal logic from Wikipedia](https://en.wikipedia.org/wiki/Modal_logic)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2013**). *From to αβ to ABCD and SMAB*. Review. [ICGA Journal, Vol. 36, No. 4](ICGA_Journal#36_4 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [PSPACE-complete from Wikipedia](https://en.wikipedia.org/wiki/PSPACE-complete)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Trick-taking game from Wikipedia](https://en.wikipedia.org/wiki/Trick-taking_game)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Abdallah Saffidine - Google Scholar Citations](https://scholar.google.com/citations?user=yWzT7LAAAAAJ)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Abdallah Saffidine (**2013**). *Solving Games and All That*. Ph.D. thesis, [Université Paris-Dauphine](University_of_Paris#9 "University of Paris"), advisor [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Abdallah Saffidine](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Saffidine:Abdallah.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Modal logic from Wikipedia](https://en.wikipedia.org/wiki/Modal_logic)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2013**). *From to αβ to ABCD and SMAB*. Review. [ICGA Journal, Vol. 36, No. 4](ICGA_Journal#36_4 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [PSPACE-complete from Wikipedia](https://en.wikipedia.org/wiki/PSPACE-complete)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Trick-taking game from Wikipedia](https://en.wikipedia.org/wiki/Trick-taking_game)
 
 **[Up one level](People "People")**
 

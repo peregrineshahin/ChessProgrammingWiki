@@ -29,7 +29,7 @@ The study by [Kārlis Bētiņš](https://en.wikipedia.org/wiki/K%C4%81rlis_B%C4%
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Бетиньш, Карлис Карлович - Этюды](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%82%D0%B8%D0%BD%D1%8C%D1%88,_%D0%9A%D0%B0%D1%80%D0%BB%D0%B8%D1%81_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87#%D0%AD%D1%82%D1%8E%D0%B4%D1%8B)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Бетиньш, Карлис Карлович - Этюды](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%82%D0%B8%D0%BD%D1%8C%D1%88,_%D0%9A%D0%B0%D1%80%D0%BB%D0%B8%D1%81_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87#%D0%AD%D1%82%D1%8E%D0%B4%D1%8B)
 
 **[Up one level](Test-Positions "Test-Positions")**
 

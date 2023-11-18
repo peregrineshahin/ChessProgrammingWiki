@@ -28,9 +28,9 @@ an American [electrical engineer](https://en.wikipedia.org/wiki/Electrical_engin
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wita-Awit - readme.txt](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/Awit-Wita-ReadMe/wita-history-readme.txt) by [Tony Marsland](Tony_Marsland "Tony Marsland")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Edward W. Kozdrowicki](http://dblp.dagstuhl.de/pers/hd/k/Kozdrowicki:Edward_W=)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Levy on Kasparov vs X3D Fritz](http://en.chessbase.com/post/david-levy-on-kasparov-vs-x3d-fritz) from [ChessBase](ChessBase "ChessBase") news, December 21, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wita-Awit - readme.txt](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/Awit-Wita-ReadMe/wita-history-readme.txt) by [Tony Marsland](Tony_Marsland "Tony Marsland")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Edward W. Kozdrowicki](http://dblp.dagstuhl.de/pers/hd/k/Kozdrowicki:Edward_W=)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Levy on Kasparov vs X3D Fritz](http://en.chessbase.com/post/david-levy-on-kasparov-vs-x3d-fritz) from [ChessBase](ChessBase "ChessBase") news, December 21, 2003
 
 **[Up one level](People "People")**
 

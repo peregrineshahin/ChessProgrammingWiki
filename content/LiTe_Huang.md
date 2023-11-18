@@ -31,8 +31,8 @@ where he researched with [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") et al. o
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [dblp: Li-Te Huang](https://dblp.uni-trier.de/pers/hd/h/Huang:Li=Te)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Binary decision diagram from Wikipedia](https://en.wikipedia.org/wiki/Binary_decision_diagram)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [dblp: Li-Te Huang](https://dblp.uni-trier.de/pers/hd/h/Huang:Li=Te)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Binary decision diagram from Wikipedia](https://en.wikipedia.org/wiki/Binary_decision_diagram)
 
 **[Up one level](People "People")**
 

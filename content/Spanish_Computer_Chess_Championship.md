@@ -33,7 +33,7 @@ Spanish Computer Chess Championship, **SCCC**
 
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Spanish Champ. finished. And the winner is...](https://www.stmintz.com/ccc/index.php?id=84979) by Tomas Casanovas Martinez, [CCC](CCC "CCC"), December 29, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Spanish Champ. finished. And the winner is...](https://www.stmintz.com/ccc/index.php?id=84979) by Tomas Casanovas Martinez, [CCC](CCC "CCC"), December 29, 1999
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

@@ -29,10 +29,10 @@ In their experiments, they used [Tom Kerrigan's](Tom_Kerrigan "Tom Kerrigan") [T
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Henk Mannen | LinkedIn](https://www.linkedin.com/in/henkmannen/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mannen, Henk FIDE Chess Profile](https://ratings.fide.com/profile/1006177)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Henk Mannen, [Marco Wiering](Marco_Wiering "Marco Wiering") (**2004**). *[Learning to play chess using TD(λ)-learning with database games](<https://www.semanticscholar.org/paper/Learning-to-Play-Chess-using-TD(lambda)-learning-Mannen-Wiering/00a6f81c8ebe8408c147841f26ed27eb13fb07f3>)*. Cognitive Artiﬁcial Intelligence, [Utrecht University](https://en.wikipedia.org/wiki/Utrecht_University), Benelearn’04
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Marco Wiering's publications page](https://www.ai.rug.nl/~mwiering/publications.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Henk Mannen | LinkedIn](https://www.linkedin.com/in/henkmannen/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mannen, Henk FIDE Chess Profile](https://ratings.fide.com/profile/1006177)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Henk Mannen, [Marco Wiering](Marco_Wiering "Marco Wiering") (**2004**). *[Learning to play chess using TD(λ)-learning with database games](<https://www.semanticscholar.org/paper/Learning-to-Play-Chess-using-TD(lambda)-learning-Mannen-Wiering/00a6f81c8ebe8408c147841f26ed27eb13fb07f3>)*. Cognitive Artiﬁcial Intelligence, [Utrecht University](https://en.wikipedia.org/wiki/Utrecht_University), Benelearn’04
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Marco Wiering's publications page](https://www.ai.rug.nl/~mwiering/publications.html)
 
 **[Up one level](People "People")**
 

@@ -73,13 +73,13 @@ an Austrian mathematician, computer scientist, mechanical engineer, artist, [com
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> 
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> 
 [Eckehart Köhler](https://www.goodreads.com/author/show/379277.Eckehart_K_hler), Werner Schimanovich, [Kurt Gödel](Mathematician#Goedel "Mathematician"), [Bernd Buldt](https://www.pfw.edu/departments/coas/depts/philosophy/about/homepages/buldt.html) and [Peter Weibel](https://en.wikipedia.org/wiki/Peter_Weibel), Image from [Gödelpage Bernd Buldt](https://web.archive.org/web/20090109185917/http://users.ipfw.edu/buldtb/goedel/index.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Werner DePauli-Schimanovich - LinkedIn](http://at.linkedin.com/pub/werner-depauli-schimanovich/8/958/ba0)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Werner DePauli-Schimanovich (**2006**). *Europolis 6*. Informatik für Spiele und Verkehr. Extension der Mengenlehre, Herausgeber: Franz Pichler, Universitätsverlag Rudolf Trauner, ISBN 978-3-85487-946-6, (SG7) Merlin (ein ComputerChess-Programm) s. 171 (German), [Google Books](http://books.google.com/books?id=Gf4WibmHVbcC&pg=PA175&lpg=PA175&source=bl&ots=YPtaHAp3Z4&sig=DNRPh11heo8Q1zS3UOBe0qoCF-8&hl=en&ei=0GmnTMX1GMfJswaL-NivDA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBgQ6AEwAA#v=onepage&q&f=false)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Werner DePauli-Schimanovich-Göttig](http://dblp.uni-trier.de/pers/hd/d/DePauli=Schimanovich=G=ouml=ttig:Werner.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Werner Schimanovich](http://dblp.uni-trier.de/pers/hd/s/Schimanovich:Werner)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Based on the 1986 [ORF](https://en.wikipedia.org/wiki/ORF_%28broadcaster%29) TV Documentary [Kurt Gödel - Ein mathematischer Mythos (TV 1986) - IMDb](http://www.imdb.com/title/tt0867344/) by Werner DePauli-Schimanovich and [Peter Weibel](https://en.wikipedia.org/wiki/Peter_Weibel)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Werner DePauli-Schimanovich - LinkedIn](http://at.linkedin.com/pub/werner-depauli-schimanovich/8/958/ba0)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Werner DePauli-Schimanovich (**2006**). *Europolis 6*. Informatik für Spiele und Verkehr. Extension der Mengenlehre, Herausgeber: Franz Pichler, Universitätsverlag Rudolf Trauner, ISBN 978-3-85487-946-6, (SG7) Merlin (ein ComputerChess-Programm) s. 171 (German), [Google Books](http://books.google.com/books?id=Gf4WibmHVbcC&pg=PA175&lpg=PA175&source=bl&ots=YPtaHAp3Z4&sig=DNRPh11heo8Q1zS3UOBe0qoCF-8&hl=en&ei=0GmnTMX1GMfJswaL-NivDA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBgQ6AEwAA#v=onepage&q&f=false)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Werner DePauli-Schimanovich-Göttig](http://dblp.uni-trier.de/pers/hd/d/DePauli=Schimanovich=G=ouml=ttig:Werner.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Werner Schimanovich](http://dblp.uni-trier.de/pers/hd/s/Schimanovich:Werner)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Based on the 1986 [ORF](https://en.wikipedia.org/wiki/ORF_%28broadcaster%29) TV Documentary [Kurt Gödel - Ein mathematischer Mythos (TV 1986) - IMDb](http://www.imdb.com/title/tt0867344/) by Werner DePauli-Schimanovich and [Peter Weibel](https://en.wikipedia.org/wiki/Peter_Weibel)
 
 **[Up one level](People "People")**
 

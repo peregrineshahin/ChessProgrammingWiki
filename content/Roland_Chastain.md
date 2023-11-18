@@ -97,7 +97,7 @@ and [GitLab](https://en.wikipedia.org/wiki/GitLab), along with his own programs.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [rchastain (Roland Chastain) · GitHub](https://github.com/rchastain)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [rchastain (Roland Chastain) · GitHub](https://github.com/rchastain)
 
 **[Up one level](People "People")**
 

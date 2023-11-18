@@ -201,7 +201,7 @@ The **CCT8** was organized by [Peter Skinner](Peter_Skinner "Peter Skinner"), pl
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Welcome to the Internet Chess Club](http://www.chessclub.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Welcome to the Internet Chess Club](http://www.chessclub.com/)
 
 **[Up one Level](CCT_Tournaments "CCT Tournaments")**
 

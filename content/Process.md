@@ -122,7 +122,7 @@ In [Parallel search](Parallel_Search#ThreadsVsProcesses "Parallel Search"), mult
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Process state from Wikipedia](https://en.wikipedia.org/wiki/Process_state)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Process state from Wikipedia](https://en.wikipedia.org/wiki/Process_state)
 
 **[Up one Level](Programming "Programming")**
 

@@ -24,9 +24,9 @@ a Brazilian computer scientist and software engineer holding a [Bachelor's degre
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Ben-Hur Carlos Vieira Langoni Junior @ [ICT 2010](ICT_2010 "ICT 2010"), Image by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [Rybka wins 10th ICT in Leiden](http://www.chessvibes.com/?q=reports/rybka-wins-10th-ict-in-leiden) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessVibes](http://www.chessvibes.com/), May 31, 2010
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ben-Hur Carlos Vieira Langoni Junior | Software Engineer @ Radiant IQ](https://contactout.com/Ben-HurCarlos-VieiraLangoniJunior-26242912)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [RedQueen | Chess Engine](http://redqueenchess.sourceforge.net/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Ben-Hur Carlos Vieira Langoni Junior @ [ICT 2010](ICT_2010 "ICT 2010"), Image by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [Rybka wins 10th ICT in Leiden](http://www.chessvibes.com/?q=reports/rybka-wins-10th-ict-in-leiden) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessVibes](http://www.chessvibes.com/), May 31, 2010
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ben-Hur Carlos Vieira Langoni Junior | Software Engineer @ Radiant IQ](https://contactout.com/Ben-HurCarlos-VieiraLangoniJunior-26242912)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [RedQueen | Chess Engine](http://redqueenchess.sourceforge.net/)
 
 **[Up one level](People "People")**\]
 

@@ -76,15 +76,15 @@ As student, Hermann Kaindl was primary author of the chess program [Merlin](Merl
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Univ.Prof. Dipl.-Ing. Dr. Hermann Kaindl](https://www.ict.tuwien.ac.at/en/mitarbeiter/kaindl)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Hermann Kaindl (**1981**). *Realisierung von langfristigem Planen und Massnahmen gegen den Horizont-Effekt im Computer-Schach*. Doctoral Dissertation. [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Werner DePauli-Schimanovich](Werner_Schimanovich "Werner Schimanovich") (**2006**). *Europolis 6*. Informatik für Spiele und Verkehr. Extension der Mengenlehre, Herausgeber: Franz Pichler, Universitätsverlag Rudolf Trauner, (SG7) Merlin (ein ComputerChess-Programm) s. 171 (German), [Google Books](http://books.google.com/books?id=Gf4WibmHVbcC&pg=PA175&lpg=PA175&source=bl&ots=YPtaHAp3Z4&sig=DNRPh11heo8Q1zS3UOBe0qoCF-8&hl=en&ei=0GmnTMX1GMfJswaL-NivDA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBgQ6AEwAA#v=onepage&q&f=false)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Siemens AG Österreich](http://www.cs.ucl.ac.uk/research/renoir/members/siemens.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Merlin's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=353)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 117
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Hermann Kaindl](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Kaindl:Hermann.html)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> Comment concerning [AlphaZero](AlphaZero "AlphaZero") on [Vinton G. Cerf](Mathematician#VGCerf "Mathematician") (**2018**). *[On Neural Networks](https://cacm.acm.org/magazines/2018/7/229041-on-neural-networks/fulltext)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 61, No. 7
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Univ.Prof. Dipl.-Ing. Dr. Hermann Kaindl](https://www.ict.tuwien.ac.at/en/mitarbeiter/kaindl)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Hermann Kaindl (**1981**). *Realisierung von langfristigem Planen und Massnahmen gegen den Horizont-Effekt im Computer-Schach*. Doctoral Dissertation. [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Werner DePauli-Schimanovich](Werner_Schimanovich "Werner Schimanovich") (**2006**). *Europolis 6*. Informatik für Spiele und Verkehr. Extension der Mengenlehre, Herausgeber: Franz Pichler, Universitätsverlag Rudolf Trauner, (SG7) Merlin (ein ComputerChess-Programm) s. 171 (German), [Google Books](http://books.google.com/books?id=Gf4WibmHVbcC&pg=PA175&lpg=PA175&source=bl&ots=YPtaHAp3Z4&sig=DNRPh11heo8Q1zS3UOBe0qoCF-8&hl=en&ei=0GmnTMX1GMfJswaL-NivDA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBgQ6AEwAA#v=onepage&q&f=false)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Siemens AG Österreich](http://www.cs.ucl.ac.uk/research/renoir/members/siemens.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Merlin's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=353)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 117
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Hermann Kaindl](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/k/Kaindl:Hermann.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> Comment concerning [AlphaZero](AlphaZero "AlphaZero") on [Vinton G. Cerf](Mathematician#VGCerf "Mathematician") (**2018**). *[On Neural Networks](https://cacm.acm.org/magazines/2018/7/229041-on-neural-networks/fulltext)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 61, No. 7
 
 **[Up one level](People "People")**
 

@@ -94,18 +94,18 @@ Usurpator V caused some thermic problems in the therefor upright standing Laptop
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [HGM's Chess Pages](http://home.hccnet.nl/h.g.muller/chess.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") (**1981**). *Usurpator 6502 6800 computerschaak*. Wolfkamp
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Atom Software Archive](http://stardot.org.uk/forums/viewtopic.php?t=6544&start=900#p124794) by Multiwizard, [stardot.org.uk](http://stardot.org.uk/forums/index.php), November 13, 2015
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Acorn Nieuws 1982 nummer 4](http://www.acornatom.nl/atom_nieuws/1982/nr4/19824015.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Retrocomputing with the 6502](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=126155&t=14610) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), June 22, 2007
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1986**). *Nona retains her Title*. [ICCA Journal, Vol. 9, No. 3](ICGA_Journal#9_3 "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1987**). *The 7th Dutch National Computer-Chess Championship*. [ICCA Journal, Vol. 10, No. 4](ICGA_Journal#10_4 "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Image by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), from [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") (**1990**). *A Matchbox Chess Computer*. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal"), [pdf](http://tinyurl.com/h7yzxry) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [HGM's Chess Pages](http://home.hccnet.nl/h.g.muller/chess.html)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Re: What the computer chess community needs to decide](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=394125&t=38007) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), February 11, 2011
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [25th Dutch Open Computer Chess Championship 2005 - Photo Gallery](http://old.csvn.nl/gallery23.html)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [HGM's Chess Pages](http://home.hccnet.nl/h.g.muller/chess.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") (**1981**). *Usurpator 6502 6800 computerschaak*. Wolfkamp
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Atom Software Archive](http://stardot.org.uk/forums/viewtopic.php?t=6544&start=900#p124794) by Multiwizard, [stardot.org.uk](http://stardot.org.uk/forums/index.php), November 13, 2015
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Acorn Nieuws 1982 nummer 4](http://www.acornatom.nl/atom_nieuws/1982/nr4/19824015.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Retrocomputing with the 6502](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=126155&t=14610) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), June 22, 2007
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1986**). *Nona retains her Title*. [ICCA Journal, Vol. 9, No. 3](ICGA_Journal#9_3 "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1987**). *The 7th Dutch National Computer-Chess Championship*. [ICCA Journal, Vol. 10, No. 4](ICGA_Journal#10_4 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Image by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), from [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") (**1990**). *A Matchbox Chess Computer*. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal"), [pdf](http://tinyurl.com/h7yzxry) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [HGM's Chess Pages](http://home.hccnet.nl/h.g.muller/chess.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: What the computer chess community needs to decide](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=394125&t=38007) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), February 11, 2011
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [25th Dutch Open Computer Chess Championship 2005 - Photo Gallery](http://old.csvn.nl/gallery23.html)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=5)
 
 **[Up one Level](Engines "Engines")**
 

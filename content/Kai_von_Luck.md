@@ -43,13 +43,13 @@ They illustrate three categories of possible errors, each with its own cause and
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Prof. Dr. Kai von Luck: HAW Hamburg](https://www.haw-hamburg.de/presse/expertendienst/details/artikel/prof-dr-kai-von-luck.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**1985**). Kai von Luck: *Aspekte wissensgestützter Planung*. [Bernd Owsnicki](Bernd_Owsnicki-Klewe "Bernd Owsnicki-Klewe"): *Repräsentation von positionellem Schachwissen mit Techniken der künstlichen Intelligenz*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1984**). *The Fourth Conference on Advances in Computer Chess*. [ICCA Journal, Vol. 7, No. 2](ICGA_Journal#7_2 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). *[Book review: Advances in Computer Chess 4](https://dl.acm.org/doi/10.1145/24671.1057627)*. [ACM SIGART Bulletin](ACM#SIGART "ACM"), No. 100
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Kai von Luck: List of Publications](http://users.informatik.haw-hamburg.de/~luck/pub.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Kai von Luck](https://dblp.uni-trier.de/pers/hd/l/Luck:Kai_von)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Prof. Dr. Kai von Luck: HAW Hamburg](https://www.haw-hamburg.de/presse/expertendienst/details/artikel/prof-dr-kai-von-luck.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**1985**). Kai von Luck: *Aspekte wissensgestützter Planung*. [Bernd Owsnicki](Bernd_Owsnicki-Klewe "Bernd Owsnicki-Klewe"): *Repräsentation von positionellem Schachwissen mit Techniken der künstlichen Intelligenz*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1984**). *The Fourth Conference on Advances in Computer Chess*. [ICCA Journal, Vol. 7, No. 2](ICGA_Journal#7_2 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). *[Book review: Advances in Computer Chess 4](https://dl.acm.org/doi/10.1145/24671.1057627)*. [ACM SIGART Bulletin](ACM#SIGART "ACM"), No. 100
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Kai von Luck: List of Publications](http://users.informatik.haw-hamburg.de/~luck/pub.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Kai von Luck](https://dblp.uni-trier.de/pers/hd/l/Luck:Kai_von)
 
 **[Up one level](People "People")**
 

@@ -72,11 +72,11 @@ was a French [AI](Artificial_Intelligence "Artificial Intelligence")-researcher 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jacques Pitrat - Directeur de recherche émérite - CNRS, LIP6 Universite Pierre et Marie Curie](https://web.archive.org/web/20051017175239/http://webia.lip6.fr/~pitrat/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jacques Pitrat](http://tunes.org/wiki/jacques_20pitrat.html) from [CTO - CLiki for the TUNES project](http://tunes.org/wiki/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jacques Pitrat from List of publications from the DBLP Bibliography Server](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/p/Pitrat:Jacques.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Serveur © Ircam - Centre Pompidou 1996-2009 - Métaconnaissance Notice 6939](http://mediatheque.ircam.fr/cgi-bin-loris/bibvisu.pl?type_doc=Monographie&titl=1&loc=1&dspshape=rows&TABLE1_W3=6939)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jacques Pitrat - Directeur de recherche émérite - CNRS, LIP6 Universite Pierre et Marie Curie](https://web.archive.org/web/20051017175239/http://webia.lip6.fr/~pitrat/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jacques Pitrat](http://tunes.org/wiki/jacques_20pitrat.html) from [CTO - CLiki for the TUNES project](http://tunes.org/wiki/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jacques Pitrat from List of publications from the DBLP Bibliography Server](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/p/Pitrat:Jacques.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Serveur © Ircam - Centre Pompidou 1996-2009 - Métaconnaissance Notice 6939](http://mediatheque.ircam.fr/cgi-bin-loris/bibvisu.pl?type_doc=Monographie&titl=1&loc=1&dspshape=rows&TABLE1_W3=6939)
 
 **[Up one level](People "People")**
 

@@ -42,10 +42,10 @@ Further, since version **1.4**, DroidChess supports [Gaviota Tablebases](Gaviota
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> DroidFish analyzing the [Lasker-Reichhelm Position](Lasker-Reichhelm_Position "Lasker-Reichhelm Position"), [DroidFish - Strong chess program for the Android platform](http://hem.bredband.net/petero2b/droidfish/index.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Chess for Android with UCI support released](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=369715&t=35872) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), September 12, 2010
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DroidFish 1.40](http://www.talkchess.com/forum/viewtopic.php?t=42210) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 29, 2012
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [DroidFish Chess - Android Apps on Google Play](https://play.google.com/store/apps/details?id=org.petero.droidfish&hl=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> DroidFish analyzing the [Lasker-Reichhelm Position](Lasker-Reichhelm_Position "Lasker-Reichhelm Position"), [DroidFish - Strong chess program for the Android platform](http://hem.bredband.net/petero2b/droidfish/index.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Chess for Android with UCI support released](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=369715&t=35872) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), September 12, 2010
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DroidFish 1.40](http://www.talkchess.com/forum/viewtopic.php?t=42210) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 29, 2012
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [DroidFish Chess - Android Apps on Google Play](https://play.google.com/store/apps/details?id=org.petero.droidfish&hl=en)
 
 **[Up one Level](Engines "Engines")**
 

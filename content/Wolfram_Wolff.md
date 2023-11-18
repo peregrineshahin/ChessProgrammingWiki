@@ -19,8 +19,8 @@ a German computer scientist and former chess programmer. While affiliated with t
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [II. Europäische Schachcomputermeisterschaft: "Parwell" und "Elsa" als elektronische Vertreter Deutschlands](https://www.computerwoche.de/a/ii-europaeische-schachcomputermeisterschaft-parwell-und-elsa-als-elektronische-vertreter-deutschlands,1193707), [Computerwoche](Computerworld#Woche "Computerworld"), September 14, 1979 (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Levy](David_Levy "David Levy"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1982**). *[All About Chess and Computers](http://link.springer.com/book/10.1007/978-3-642-85538-2)*. 2nd edition, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), Postscript 1978-80 and Belle, pp. 109
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [II. Europäische Schachcomputermeisterschaft: "Parwell" und "Elsa" als elektronische Vertreter Deutschlands](https://www.computerwoche.de/a/ii-europaeische-schachcomputermeisterschaft-parwell-und-elsa-als-elektronische-vertreter-deutschlands,1193707), [Computerwoche](Computerworld#Woche "Computerworld"), September 14, 1979 (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Levy](David_Levy "David Levy"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1982**). *[All About Chess and Computers](http://link.springer.com/book/10.1007/978-3-642-85538-2)*. 2nd edition, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), Postscript 1978-80 and Belle, pp. 109
 
 **[Up one level](People "People")**
 

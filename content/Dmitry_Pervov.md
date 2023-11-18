@@ -17,10 +17,10 @@ Dmitry Pervov was involved in the [NNUE](NNUE "NNUE") implementation of [Dragon 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Dmitry Pervov | LinkedIn](https://www.linkedin.com/in/dmitry-pervov-614325119/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dmitry Pervov | LinkedIn](https://www.linkedin.com/in/dmitry-pervov-614325119/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Komodo 14.1 Release and Dragon Announcement](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75651) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 02, 2020
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dragon by Komodo Chess](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75748) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 10, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Dmitry Pervov | LinkedIn](https://www.linkedin.com/in/dmitry-pervov-614325119/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dmitry Pervov | LinkedIn](https://www.linkedin.com/in/dmitry-pervov-614325119/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Komodo 14.1 Release and Dragon Announcement](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75651) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 02, 2020
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dragon by Komodo Chess](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75748) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 10, 2020
 
 **[Up one Level](People "People")**
 

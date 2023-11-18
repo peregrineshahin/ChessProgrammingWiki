@@ -34,10 +34,10 @@ He is further working on a chess engine dubbed [Quadrox](index.php?title=Quadrox
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Greg Strong - Chess Variant Pages Homepage](https://www.chessvariants.com/index/displayperson.php?personid=GregoryStrong)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ChessV from Wikipedia](https://en.wikipedia.org/wiki/ChessV)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [This is totally weird ... Don't understand at all](http://www.talkchess.com/forum/viewtopic.php?t=36692) by Gregory Strong, [CCC](CCC "CCC"), November 13, 2010
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: On-line engine blitz tourney May](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=67539&start=7) by Gregory Strong, [CCC](CCC "CCC"), May 27, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Greg Strong - Chess Variant Pages Homepage](https://www.chessvariants.com/index/displayperson.php?personid=GregoryStrong)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ChessV from Wikipedia](https://en.wikipedia.org/wiki/ChessV)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [This is totally weird ... Don't understand at all](http://www.talkchess.com/forum/viewtopic.php?t=36692) by Gregory Strong, [CCC](CCC "CCC"), November 13, 2010
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: On-line engine blitz tourney May](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=67539&start=7) by Gregory Strong, [CCC](CCC "CCC"), May 27, 2018
 
 **[Up one level](People "People")**
 

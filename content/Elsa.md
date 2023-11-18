@@ -42,8 +42,8 @@ a chess program by [Ludwig Zagler](Ludwig_Zagler "Ludwig Zagler") from [Technica
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Leibniz-Rechenzentrum 1974](http://www.qslnet.de/member/dj4kw/lrz.htm) by [Gerd R. Sapper](http://www.qslnet.de/member/dj4kw/index.htm) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Toronto 1977 - Chess - Round 4 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=18&round=4&id=2)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Leibniz-Rechenzentrum 1974](http://www.qslnet.de/member/dj4kw/lrz.htm) by [Gerd R. Sapper](http://www.qslnet.de/member/dj4kw/index.htm) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Toronto 1977 - Chess - Round 4 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=18&round=4&id=2)
 
 **[Up one level](Engines "Engines")**
 

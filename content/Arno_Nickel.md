@@ -52,14 +52,14 @@ and subsequently in 2008, became general manager of [InfinityChess](index.php?ti
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Arno Nickel, Self-portrait at [Côte d'Azur](https://en.wikipedia.org/wiki/French_Riviera), January 24, 2015, [Arno Nickel from Wikipedia](https://en.wikipedia.org/wiki/Arno_Nickel), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Edition Marco - Contact information](http://www.edition-marco-shop.de/epages/64079634.sf/en_GB/?ViewObjectPath=%2FShops%2F64079634%2FCategories%2FImprint)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hydra Chess - Hydra Team](https://web.archive.org/web/20071023231056fw_/http://www.hydrachess.com/main.cfm?middle=cfm/teamhydra.cfm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), October 23, 2007)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Article - InfiniChess.com](http://www.infinitychess.com/Page/Public/Article/DefaultArticle.aspx?id=300)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Part 1 covers [Houdini](Houdini "Houdini"), [Rybka](Rybka "Rybka"), [Komodo](Komodo "Komodo"), [Stockfish](Stockfish "Stockfish"), [Critter](Critter "Critter"), [Naum](Naum "Naum"), [Chiron](Chiron "Chiron") and [Spike](Spike "Spike")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [How many points should you get for a draw?](http://en.chessbase.com/post/how-many-points-should-you-get-for-a-draw) by Arno Nickel, [ChessBase News](ChessBase "ChessBase"), August 20, 2015
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Final Report on Infinity Chess Team Cup 2015](http://www.talkchess.com/forum/viewtopic.php?t=55619) by Arno Nickel, [CCC](CCC "CCC"), March 10, 2015
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a>  [Final Report on Draw Problem in Correspondence Chess](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?pid=552902) by Ciron, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), August 26, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Arno Nickel, Self-portrait at [Côte d'Azur](https://en.wikipedia.org/wiki/French_Riviera), January 24, 2015, [Arno Nickel from Wikipedia](https://en.wikipedia.org/wiki/Arno_Nickel), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Edition Marco - Contact information](http://www.edition-marco-shop.de/epages/64079634.sf/en_GB/?ViewObjectPath=%2FShops%2F64079634%2FCategories%2FImprint)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hydra Chess - Hydra Team](https://web.archive.org/web/20071023231056fw_/http://www.hydrachess.com/main.cfm?middle=cfm/teamhydra.cfm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), October 23, 2007)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Article - InfiniChess.com](http://www.infinitychess.com/Page/Public/Article/DefaultArticle.aspx?id=300)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Part 1 covers [Houdini](Houdini "Houdini"), [Rybka](Rybka "Rybka"), [Komodo](Komodo "Komodo"), [Stockfish](Stockfish "Stockfish"), [Critter](Critter "Critter"), [Naum](Naum "Naum"), [Chiron](Chiron "Chiron") and [Spike](Spike "Spike")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [How many points should you get for a draw?](http://en.chessbase.com/post/how-many-points-should-you-get-for-a-draw) by Arno Nickel, [ChessBase News](ChessBase "ChessBase"), August 20, 2015
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Final Report on Infinity Chess Team Cup 2015](http://www.talkchess.com/forum/viewtopic.php?t=55619) by Arno Nickel, [CCC](CCC "CCC"), March 10, 2015
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a>  [Final Report on Draw Problem in Correspondence Chess](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?pid=552902) by Ciron, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), August 26, 2015
 
 **[Up one level](People "People")**
 

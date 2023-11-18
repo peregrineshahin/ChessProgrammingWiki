@@ -44,13 +44,13 @@ an American computer scientist, entrepreneur, [angel investor](https://en.wikipe
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Barney Pell | LinkedIn](https://www.linkedin.com/in/barneypell)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Barney Pell | LinkedIn](https://www.linkedin.com/in/barneypell)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [LocoMobi Inc | Reinventing Parking Technology](http://locomobi.com/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Barney Pell (**1993**). *Strategy Generation and Evaluation for Meta-Game Playing*. Ph.D: thesis, [Trinity College, Cambridge](https://en.wikipedia.org/wiki/Trinity_College,_Cambridge), [pdf](http://www.barneypell.com/papers/pell-thesis.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Subject: Re: Game Learning](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/games/doc/strategy.txt) by [Mike Gherrity](Michael_Gherrity "Michael Gherrity"), [ai-repository](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/), July 1, 1994
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Barney Pell](http://dblp.uni-trier.de/pers/hd/p/Pell:Barney)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [PhD Thesis Available: Meta-Game Playing](https://groups.google.com/d/msg/rec.games.chess/3Ph3VAxH_B8/f3YONwD6VIEJ) by Barney Pell, [rgc](Computer_Chess_Forums "Computer Chess Forums"), January 06, 1994
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Barney Pell | LinkedIn](https://www.linkedin.com/in/barneypell)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Barney Pell | LinkedIn](https://www.linkedin.com/in/barneypell)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [LocoMobi Inc | Reinventing Parking Technology](http://locomobi.com/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Barney Pell (**1993**). *Strategy Generation and Evaluation for Meta-Game Playing*. Ph.D: thesis, [Trinity College, Cambridge](https://en.wikipedia.org/wiki/Trinity_College,_Cambridge), [pdf](http://www.barneypell.com/papers/pell-thesis.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Subject: Re: Game Learning](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/games/doc/strategy.txt) by [Mike Gherrity](Michael_Gherrity "Michael Gherrity"), [ai-repository](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/), July 1, 1994
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Barney Pell](http://dblp.uni-trier.de/pers/hd/p/Pell:Barney)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [PhD Thesis Available: Meta-Game Playing](https://groups.google.com/d/msg/rec.games.chess/3Ph3VAxH_B8/f3YONwD6VIEJ) by Barney Pell, [rgc](Computer_Chess_Forums "Computer Chess Forums"), January 06, 1994
 
 **[Up one level](People "People")**
 

@@ -29,11 +29,11 @@ Italian 2011 Senior Champion Antonia Jeanrenaud (Bari) with the mayor and counci
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WCCC 2006](WCCC_2006 "WCCC 2006") Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Antonia Jeanrenaud Bari - Agenzia Funebre Zeverino Pietro - Ricordi di Vita](https://www.ricordidivita.it/articolo-antonia-jeanrenaud-bari-agenzia-funebre-zeverino-pietro-16043.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Diretta del Campionato Europeo Seniores 2011 - Scacchierando](http://www.scacchierando.net/dblog/articolo.asp?articolo=2247) (Italian)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Antonia Jeanrenaud's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=112)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Diretta del Campionato Europeo Seniores 2011 - Scacchierando](http://www.scacchierando.net/dblog/articolo.asp?articolo=2247) (Italian)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WCCC 2006](WCCC_2006 "WCCC 2006") Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Antonia Jeanrenaud Bari - Agenzia Funebre Zeverino Pietro - Ricordi di Vita](https://www.ricordidivita.it/articolo-antonia-jeanrenaud-bari-agenzia-funebre-zeverino-pietro-16043.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Diretta del Campionato Europeo Seniores 2011 - Scacchierando](http://www.scacchierando.net/dblog/articolo.asp?articolo=2247) (Italian)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Antonia Jeanrenaud's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=112)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Diretta del Campionato Europeo Seniores 2011 - Scacchierando](http://www.scacchierando.net/dblog/articolo.asp?articolo=2247) (Italian)
 
 **[Up one level](People "People")**
 

@@ -19,11 +19,11 @@ and was initially registered to play the [IPCCC 2003](IPCCC_2003 "IPCCC 2003") <
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [First one on the left...](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=41748#p159370) by S. Voigt, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 14, 2003
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: A Deep question](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=41578) by [Carlos del Cacho](Carlos_del_Cacho "Carlos del Cacho"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 05, 2003
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The truth about Deep \<9>](https://www.stmintz.com/ccc/index.php?id=289305) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [CCC](CCC "CCC"), March 14, 2003
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CSS-Online-Masters 2002/2003 Teilnehmer & Spielgruppen & Modus](https://lchristian.beepworld.de/teilnehmer.htm)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Paderborn: where did Deep9 go?](https://www.stmintz.com/ccc/index.php?id=285372) by Denis Grafen, [CCC](CCC "CCC"), February 19, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [First one on the left...](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=41748#p159370) by S. Voigt, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 14, 2003
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: A Deep question](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=41578) by [Carlos del Cacho](Carlos_del_Cacho "Carlos del Cacho"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 05, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The truth about Deep \<9>](https://www.stmintz.com/ccc/index.php?id=289305) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [CCC](CCC "CCC"), March 14, 2003
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CSS-Online-Masters 2002/2003 Teilnehmer & Spielgruppen & Modus](https://lchristian.beepworld.de/teilnehmer.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Paderborn: where did Deep9 go?](https://www.stmintz.com/ccc/index.php?id=285372) by Denis Grafen, [CCC](CCC "CCC"), February 19, 2003
 
 **[Up one level](People "People")**
 

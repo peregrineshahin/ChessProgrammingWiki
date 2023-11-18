@@ -57,12 +57,12 @@ an [UCI](UCI "UCI") compliant, experimental [open source chess engine](Category:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote) and [Sancho Panza](https://en.wikipedia.org/wiki/Sancho_Panza), in an 1868 edition of [Miguel de Cervantes’](https://en.wikipedia.org/wiki/Miguel_de_Cervantes) [Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote) with illustrations by [Gustave Doré](Category:Gustave_Dor%C3%A9 "Category:Gustave Doré"), [Gustave Doré's Exquisite Engravings of Cervantes' Don Quixote | Open Culture](http://www.openculture.com/2013/12/gustave-dores-definitive-engravings-of-don-quixote.html), December 10, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hans Berliner](Hans_Berliner "Hans Berliner"), [Chris McConnell](Chris_McConnell "Chris McConnell") (**1995**). *B\* Probability Based Search.* [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") Computer Science research report
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [engine Rocinante is available](http://www.talkchess.com/forum/viewtopic.php?t=29360) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), August 12, 2009
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MCTS without random playout?](http://www.talkchess.com/forum/viewtopic.php?t=41730) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), January 01, 2012
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Rocinante 2.0 Release](http://www.talkchess.com/forum/viewtopic.php?t=43895) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), May 30, 2012
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Rocinante from Wikipedia](https://en.wikipedia.org/wiki/Rocinante)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote) and [Sancho Panza](https://en.wikipedia.org/wiki/Sancho_Panza), in an 1868 edition of [Miguel de Cervantes’](https://en.wikipedia.org/wiki/Miguel_de_Cervantes) [Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote) with illustrations by [Gustave Doré](Category:Gustave_Dor%C3%A9 "Category:Gustave Doré"), [Gustave Doré's Exquisite Engravings of Cervantes' Don Quixote | Open Culture](http://www.openculture.com/2013/12/gustave-dores-definitive-engravings-of-don-quixote.html), December 10, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner"), [Chris McConnell](Chris_McConnell "Chris McConnell") (**1995**). *B\* Probability Based Search.* [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") Computer Science research report
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [engine Rocinante is available](http://www.talkchess.com/forum/viewtopic.php?t=29360) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), August 12, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MCTS without random playout?](http://www.talkchess.com/forum/viewtopic.php?t=41730) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), January 01, 2012
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Rocinante 2.0 Release](http://www.talkchess.com/forum/viewtopic.php?t=43895) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), May 30, 2012
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Rocinante from Wikipedia](https://en.wikipedia.org/wiki/Rocinante)
 
 **[Up one Level](Engines "Engines")**
 

@@ -18,8 +18,8 @@ a Russian economist with focus on [economic planning](https://en.wikipedia.org/w
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), Evgeniĭ Dmitrievich Cherevik, [Vasily Vladimirov](Vasily_Vladimirov "Vasily Vladimirov"), [Vitaly Vygodsky](Vitaly_Vygodsky "Vitaly Vygodsky") (**1994**). *Solving Shannon's Problem: Ways and Means*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cherevik, E. D. (Evgeniĭ Dmitrievich) \[WorldCat Identities\]](http://www.worldcat.org/identities/lccn-n83-48789/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), Evgeniĭ Dmitrievich Cherevik, [Vasily Vladimirov](Vasily_Vladimirov "Vasily Vladimirov"), [Vitaly Vygodsky](Vitaly_Vygodsky "Vitaly Vygodsky") (**1994**). *Solving Shannon's Problem: Ways and Means*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cherevik, E. D. (Evgeniĭ Dmitrievich) \[WorldCat Identities\]](http://www.worldcat.org/identities/lccn-n83-48789/)
 
 **[Up one level](People "People")**
 

@@ -25,11 +25,11 @@ a German computer scientist and as computer chess programmer author of one of th
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](https://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Levy](David_Levy "David Levy") (**1976**). *Chess and Computers*. Batsford, ISBN 0-7134-3178-4
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Donald Michie](Donald_Michie "Donald Michie") (**1966**). *Game Playing and Game Learning Automata.* Advances in Programming and Non-Numerical Computation, [Leslie Fox](https://en.wikipedia.org/wiki/Leslie_Fox) (ed.), pp. 183-200. Oxford, Pergamon. » Includes Appendix: *Rules of SOMAC* by [John Maynard Smith](John_Maynard_Smith "John Maynard Smith")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Levy](David_Levy "David Levy") (**1979**). *Chess Programming - Before You Begin*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), May 1979
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1979**). *A bibliography of computer chess*. [Machine Intelligence 9](http://www.doc.ic.ac.uk/%7Eshm/MI/mi9.html), [pdf](http://aitopics.org/sites/default/files/classic/Machine_Intelligence_9/MI9-Ch19-Marsland.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](https://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Levy](David_Levy "David Levy") (**1976**). *Chess and Computers*. Batsford, ISBN 0-7134-3178-4
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Donald Michie](Donald_Michie "Donald Michie") (**1966**). *Game Playing and Game Learning Automata.* Advances in Programming and Non-Numerical Computation, [Leslie Fox](https://en.wikipedia.org/wiki/Leslie_Fox) (ed.), pp. 183-200. Oxford, Pergamon. » Includes Appendix: *Rules of SOMAC* by [John Maynard Smith](John_Maynard_Smith "John Maynard Smith")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Levy](David_Levy "David Levy") (**1979**). *Chess Programming - Before You Begin*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), May 1979
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1979**). *A bibliography of computer chess*. [Machine Intelligence 9](http://www.doc.ic.ac.uk/%7Eshm/MI/mi9.html), [pdf](http://aitopics.org/sites/default/files/classic/Machine_Intelligence_9/MI9-Ch19-Marsland.pdf)
 
 **[Up one level](People "People")**
 

@@ -111,11 +111,11 @@ Re8 34.Qd2 h6 35.R1c6 Qxe2 36.Qxe2 Rxe2 37.Rxa7 Bxf3 38.Rg6 Be4 39.Rgxg7+ Kh8 40
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Slow Chess Blitz Classic](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71721) by [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer"), [CCC](CCC "CCC"), September 04, 2019
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Slow Chess Blitz, a free chess program](http://www.3dkingdoms.com/chess/slow.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Programming Details - Slow Chess | Extensions Used, Detailed Description](http://www.3dkingdoms.com/chess/implementation.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The 2008 Third Annual ACCA Americas' Computer Chess Championships - Results - pgn download](http://compchess.org/ACCAChampionships/ACCA2008Championships/2008ACCCResults.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Learning/Tuning in SlowChess Blitz Classic](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74184) by [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer"), [CCC](CCC "CCC"), June 15, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Slow Chess Blitz Classic](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71721) by [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer"), [CCC](CCC "CCC"), September 04, 2019
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Slow Chess Blitz, a free chess program](http://www.3dkingdoms.com/chess/slow.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Programming Details - Slow Chess | Extensions Used, Detailed Description](http://www.3dkingdoms.com/chess/implementation.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The 2008 Third Annual ACCA Americas' Computer Chess Championships - Results - pgn download](http://compchess.org/ACCAChampionships/ACCA2008Championships/2008ACCCResults.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Learning/Tuning in SlowChess Blitz Classic](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74184) by [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer"), [CCC](CCC "CCC"), June 15, 2020
 
 **[Up one level](Engines "Engines")**
 

@@ -60,11 +60,11 @@ In August 2017, Arminius started to practice [Black Magic](Magic_Bitboards#Black
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Arminius spring near the [Lippe source](https://de.wikipedia.org/wiki/Lippequelle) and [Arminiuspark](https://www.bad-lippspringe.de/bali/gesundheit/kurwald-und-kurparks/kurparks.php), [Bad Lippspringe](https://en.wikipedia.org/wiki/Bad_Lippspringe), Image by [Gmoeller](https://commons.wikimedia.org/wiki/User:Gmoeller~commonswiki), 2005, [CC BY 1.0](https://creativecommons.org/licenses/by/1.0/deed.en), [Römer-Lippe-Route – Reiseführer auf Wikivoyage](https://de.wikivoyage.org/wiki/R%C3%B6mer-Lippe-Route), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pandix wins Dutch Open](http://www.csvn.nl/index.php?option=com_content&view=article&id=517%3Apandix-wint-open-nk&catid=51%3Atoernooien&Itemid=28&lang=en), [CSVN](CSVN "CSVN") site, October 22, 2011
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: "panic time" and "easy moves"](http://www.talkchess.com/forum/viewtopic.php?t=47242&start=17) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), February 17, 2013
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [editor's](Gerd_Isenberg "Gerd Isenberg") personal communication with [Volker Annuss](Volker_Annuss "Volker Annuss") at [PT 51](PT_51 "PT 51"), April 30, 2017
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Black magic bitboards](http://www.talkchess.com/forum/viewtopic.php?t=64790&start=14) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), August 04, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Arminius spring near the [Lippe source](https://de.wikipedia.org/wiki/Lippequelle) and [Arminiuspark](https://www.bad-lippspringe.de/bali/gesundheit/kurwald-und-kurparks/kurparks.php), [Bad Lippspringe](https://en.wikipedia.org/wiki/Bad_Lippspringe), Image by [Gmoeller](https://commons.wikimedia.org/wiki/User:Gmoeller~commonswiki), 2005, [CC BY 1.0](https://creativecommons.org/licenses/by/1.0/deed.en), [Römer-Lippe-Route – Reiseführer auf Wikivoyage](https://de.wikivoyage.org/wiki/R%C3%B6mer-Lippe-Route), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pandix wins Dutch Open](http://www.csvn.nl/index.php?option=com_content&view=article&id=517%3Apandix-wint-open-nk&catid=51%3Atoernooien&Itemid=28&lang=en), [CSVN](CSVN "CSVN") site, October 22, 2011
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: "panic time" and "easy moves"](http://www.talkchess.com/forum/viewtopic.php?t=47242&start=17) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), February 17, 2013
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [editor's](Gerd_Isenberg "Gerd Isenberg") personal communication with [Volker Annuss](Volker_Annuss "Volker Annuss") at [PT 51](PT_51 "PT 51"), April 30, 2017
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Black magic bitboards](http://www.talkchess.com/forum/viewtopic.php?t=64790&start=14) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), August 04, 2017
 
 **[Up one Level](Engines "Engines")**
 

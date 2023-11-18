@@ -70,10 +70,10 @@ In 1981, he received a Ph.D. from UC Berkeley where he was a principal designer 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ozalp Babaoglu](http://ozalp.babaoglu.eu/index.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Özalp Babaoğlu from Wikipedia](https://en.wikipedia.org/wiki/%C3%96zalp_Babao%C4%9Flu)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Özalp Babaoglu](https://dblp.uni-trier.de/pers/hd/b/Babaoglu:=Ouml=zalp.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mach (kernel) from Wikipedia](https://en.wikipedia.org/wiki/Mach_(kernel))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ozalp Babaoglu](http://ozalp.babaoglu.eu/index.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Özalp Babaoğlu from Wikipedia](https://en.wikipedia.org/wiki/%C3%96zalp_Babao%C4%9Flu)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Özalp Babaoglu](https://dblp.uni-trier.de/pers/hd/b/Babaoglu:=Ouml=zalp.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mach (kernel) from Wikipedia](https://en.wikipedia.org/wiki/Mach_(kernel))
 
 **[Up one level](People "People")**
 

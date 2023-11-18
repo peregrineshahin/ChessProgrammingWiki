@@ -59,8 +59,8 @@ In the chess programming sense of the phrase <a id="cite-note-2" href="#cite-ref
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Heinrich Kley](Category:Heinrich_Kley "Category:Heinrich Kley") - Das Kränzchen. Federzeichnung (aus: Skizzenbuch I, 1909)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> In general computer programming, [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) refers a technique of delaying a computation until the result is required.
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Heinrich Kley](Category:Heinrich_Kley "Category:Heinrich Kley") - Das Kränzchen. Federzeichnung (aus: Skizzenbuch I, 1909)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> In general computer programming, [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) refers a technique of delaying a computation until the result is required.
 
 **[Up one Level](Evaluation "Evaluation")**
 

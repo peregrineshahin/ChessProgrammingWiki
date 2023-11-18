@@ -40,11 +40,11 @@ a German computer scientist. Junghanns studied at the [Technical University of C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr. Andreas Junghanns | QTronic GmbH](http://www.qtronic.de/en/andreas_junghanns.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Andreas Junghanns, Ph.D.](http://www.qtronic.de/en/andreas_junghanns.html) founder [QTronic GmbH](https://www.qtronic.de/en/company.html) 2006
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Andreas Junghanns](http://www.informatik.uni-trier.de/~ley/pers/hd/j/Junghanns:Andreas)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Sokoban Publications from GAMES Group of the University of Alberta](https://webdocs.cs.ualberta.ca/~games/Sokoban/papers.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr. Andreas Junghanns | QTronic GmbH](http://www.qtronic.de/en/andreas_junghanns.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Andreas Junghanns, Ph.D.](http://www.qtronic.de/en/andreas_junghanns.html) founder [QTronic GmbH](https://www.qtronic.de/en/company.html) 2006
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Andreas Junghanns](http://www.informatik.uni-trier.de/~ley/pers/hd/j/Junghanns:Andreas)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Sokoban Publications from GAMES Group of the University of Alberta](https://webdocs.cs.ualberta.ca/~games/Sokoban/papers.html)
 
 **[Up one level](People "People")**
 

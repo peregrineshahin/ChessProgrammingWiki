@@ -69,8 +69,8 @@ a German former computer chess programmer, and author of the [Chess Engine Commu
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [no more ChessGUI](http://www.talkchess.com/forum/viewtopic.php?t=59666) by Matthias Gemuh, [CCC](CCC "CCC"), March 28, 2016
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [[1]](https://www.facebook.com/IPOA.Global/posts/on-tuesday-28th-of-september-2021-ambazonia-and-africa-as-a-whole-lost-a-genius-/388546742936227/) by IPOA - Indigenous People of Ambazonia, September 28, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [no more ChessGUI](http://www.talkchess.com/forum/viewtopic.php?t=59666) by Matthias Gemuh, [CCC](CCC "CCC"), March 28, 2016
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [[1]](https://www.facebook.com/IPOA.Global/posts/on-tuesday-28th-of-september-2021-ambazonia-and-africa-as-a-whole-lost-a-genius-/388546742936227/) by IPOA - Indigenous People of Ambazonia, September 28, 2021
 
 **[Up one level](People "People")**
 

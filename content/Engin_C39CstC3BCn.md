@@ -32,7 +32,7 @@ In 2004, he started to write his new UCI engine [Tornado](Tornado "Tornado") fro
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [about WB Tournaments on my Page](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35022) by Engin Üstün, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 10, 2001
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [about WB Tournaments on my Page](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35022) by Engin Üstün, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 10, 2001
 
 **[Up one Level](People "People")**
 

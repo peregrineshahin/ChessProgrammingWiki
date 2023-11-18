@@ -79,11 +79,11 @@ According to its author, it is a chess AI that lives up to its name <a id="cite-
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Quentin Matsys](index.php?title=Category:Quentin_Matsys&action=edit&redlink=1 "Category:Quentin Matsys (page does not exist)") - [An Allegory of Folly](https://commons.wikimedia.org/wiki/File:Quentin_Massys_030.jpg), early 16th century, [J. Held Collection](https://en.wikipedia.org/wiki/Julius_S._Held), [New York](https://en.wikipedia.org/wiki/New_York_City), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Allegory from Wikipedia](https://en.wikipedia.org/wiki/Allegory)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Folly (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Folly_(disambiguation))
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Steinar H. Gunderson - Sesse.net](https://www.sesse.net/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [git.sesse.net Git - stupid/tree](https://git.sesse.net/?p=stupid;a=tree;h=refs/heads/master;hb=refs/heads/master)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Quentin Matsys](index.php?title=Category:Quentin_Matsys&action=edit&redlink=1 "Category:Quentin Matsys (page does not exist)") - [An Allegory of Folly](https://commons.wikimedia.org/wiki/File:Quentin_Massys_030.jpg), early 16th century, [J. Held Collection](https://en.wikipedia.org/wiki/Julius_S._Held), [New York](https://en.wikipedia.org/wiki/New_York_City), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Allegory from Wikipedia](https://en.wikipedia.org/wiki/Allegory)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Folly (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Folly_(disambiguation))
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Steinar H. Gunderson - Sesse.net](https://www.sesse.net/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [git.sesse.net Git - stupid/tree](https://git.sesse.net/?p=stupid;a=tree;h=refs/heads/master;hb=refs/heads/master)
 
 **[Up one level](Engines "Engines")**
 

@@ -51,11 +51,11 @@ CHUNKER is a chess program that uses chunked knowledge to improve its performanc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Murray Campbell](Murray_Campbell "Murray Campbell"), [Hans Berliner](Hans_Berliner "Hans Berliner") (**1983**). *A Chess Program That Chunks*. AAAI 1983 49-53, [pdf](http://www.aaai.org/Papers/AAAI/1983/AAAI83-012.pdf)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jon Speelman](https://en.wikipedia.org/wiki/Jon_Speelman) (**1983**). *The Szen Position*. [EG73](http://www.gadycosteff.com/eg/eg.html), [pdf](http://www.gadycosteff.com/eg/eg73.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [At a glance you may think this is a draw. White wins](http://www.talkchess.com/forum/viewtopic.php?t=48125) by Robert Flesher, [CCC](CCC "CCC"), May 26, 2013
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Now Szén position solved in 15 seconds by regular Stockfish!](http://www.talkchess.com/forum/viewtopic.php?t=60802) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), July 12, 2016
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hans Berliner](Hans_Berliner "Hans Berliner"), [Murray Campbell](Murray_Campbell "Murray Campbell") (**1984**). *[Using Chunking to Solve Chess Pawn Endgames](http://www.sciencedirect.com/science/article/pii/0004370284900067)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 23, No. 1, pp. 97-120. ISSN 0004-3702, Abstract
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Murray Campbell](Murray_Campbell "Murray Campbell"), [Hans Berliner](Hans_Berliner "Hans Berliner") (**1983**). *A Chess Program That Chunks*. AAAI 1983 49-53, [pdf](http://www.aaai.org/Papers/AAAI/1983/AAAI83-012.pdf)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jon Speelman](https://en.wikipedia.org/wiki/Jon_Speelman) (**1983**). *The Szen Position*. [EG73](http://www.gadycosteff.com/eg/eg.html), [pdf](http://www.gadycosteff.com/eg/eg73.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [At a glance you may think this is a draw. White wins](http://www.talkchess.com/forum/viewtopic.php?t=48125) by Robert Flesher, [CCC](CCC "CCC"), May 26, 2013
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Now Szén position solved in 15 seconds by regular Stockfish!](http://www.talkchess.com/forum/viewtopic.php?t=60802) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), July 12, 2016
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner"), [Murray Campbell](Murray_Campbell "Murray Campbell") (**1984**). *[Using Chunking to Solve Chess Pawn Endgames](http://www.sciencedirect.com/science/article/pii/0004370284900067)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 23, No. 1, pp. 97-120. ISSN 0004-3702, Abstract
 
 **[Up one Level](Engines "Engines")**
 

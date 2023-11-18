@@ -219,29 +219,29 @@ Rb8 16.b3 Qa5 17.a4 Rb4 18.Nd3 Rb6 19.Bb5 Rxb5 20.axb5 Nxd4 21.Nxd4 Bxd4
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The computer-go Archives](http://computer-go.org/pipermail/computer-go/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Komodo chess engine - Don Daily (1956 - 2013)](http://komodochess.com/store/pages.php?cmsid=10)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Komodo release](http://www.talkchess.com/forum/viewtopic.php?t=49535) by Don Dailey, [CCC](CCC "CCC"), October 01, 2013
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Who is Don/Larry's new partner!?](http://www.talkchess.com/forum/viewtopic.php?t=49623&start=23) by Don Dailey, [CCC](CCC "CCC"), October 08, 2013
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Komodo chess engine - Don Daily (1956 - 2013)](http://komodochess.com/store/pages.php?cmsid=10)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Don Dailey, 1956 -2013](http://www.talkchess.com/forum/viewtopic.php?t=50189) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 23, 2013
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1990**). *The Rexchess Story*. [Computer Chess Reports Quarterly](Computer_Chess_Reports "Computer Chess Reports"). Vol. 1, No. 1, pp. 8, [Chess Computer UK](http://www.chesscomputeruk.com/html/computer_chess_reports.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1993**). *PC-Software*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 4, No. 1, pp. 8-9
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Christopher F. Joerg](Chris_Joerg "Chris Joerg") (**1996**). *The Cilk System for Parallel Multithreaded Computing* Ph. D. Thesis, Department of Electrical Engineering and Computer Science, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/joerg-phd-thesis.pdf)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Komodo chess engine by Don Dailey and Larry Kaufman](http://komodochess.com/)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Komodo - Rybka in Danger?](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=15105) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), January 21, 2010
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 1:15
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Cologne 1986 - Chess - Round 5 - Game 11 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=5&id=11)
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> Image captured from [Paderborn 1999 1.mp4](http://www.top-5000.nl/Paderborn_1999_1.mp4) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Paderborn 1999 - Chess - Round 7 - Game 12 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=7&id=12)
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Omar Syed](Omar_Syed "Omar Syed") (**2015**). *The Arimaa Challenge: From Inception to Completion*. [ICGA Journal, Vol. 38, No. 1](ICGA_Journal#38_1 "ICGA Journal")
-1. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Re: MTD is a big win](https://www.stmintz.com/ccc/index.php?id=61218) by Don Dailey, [CCC](CCC "CCC"), July 20, 1999
-1. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [Khet (game) from Wikipedia](https://en.wikipedia.org/wiki/Khet_%28game%29)
-1. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-21" href="#cite-note-21">[21]</a> [A Pairwise Comparison of Chess Engine Move Selections](http://www.top-5000.nl/clone.htm) by [Adam Hair](Adam_Hair "Adam Hair"), hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-22" href="#cite-note-22">[22]</a> [Naive Bayes classifier from Wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
-1. <a id="cite-ref-23" href="#cite-note-23">[23]</a> [Roanoke Star from Wikipedia](https://en.wikipedia.org/wiki/Roanoke_Star)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The computer-go Archives](http://computer-go.org/pipermail/computer-go/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Komodo chess engine - Don Daily (1956 - 2013)](http://komodochess.com/store/pages.php?cmsid=10)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Komodo release](http://www.talkchess.com/forum/viewtopic.php?t=49535) by Don Dailey, [CCC](CCC "CCC"), October 01, 2013
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Who is Don/Larry's new partner!?](http://www.talkchess.com/forum/viewtopic.php?t=49623&start=23) by Don Dailey, [CCC](CCC "CCC"), October 08, 2013
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Komodo chess engine - Don Daily (1956 - 2013)](http://komodochess.com/store/pages.php?cmsid=10)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Don Dailey, 1956 -2013](http://www.talkchess.com/forum/viewtopic.php?t=50189) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 23, 2013
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1990**). *The Rexchess Story*. [Computer Chess Reports Quarterly](Computer_Chess_Reports "Computer Chess Reports"). Vol. 1, No. 1, pp. 8, [Chess Computer UK](http://www.chesscomputeruk.com/html/computer_chess_reports.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1993**). *PC-Software*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 4, No. 1, pp. 8-9
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Christopher F. Joerg](Chris_Joerg "Chris Joerg") (**1996**). *The Cilk System for Parallel Multithreaded Computing* Ph. D. Thesis, Department of Electrical Engineering and Computer Science, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/joerg-phd-thesis.pdf)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Komodo chess engine by Don Dailey and Larry Kaufman](http://komodochess.com/)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Komodo - Rybka in Danger?](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=15105) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), January 21, 2010
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 1:15
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Cologne 1986 - Chess - Round 5 - Game 11 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=5&id=11)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> Image captured from [Paderborn 1999 1.mp4](http://www.top-5000.nl/Paderborn_1999_1.mp4) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Paderborn 1999 - Chess - Round 7 - Game 12 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=7&id=12)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Omar Syed](Omar_Syed "Omar Syed") (**2015**). *The Arimaa Challenge: From Inception to Completion*. [ICGA Journal, Vol. 38, No. 1](ICGA_Journal#38_1 "ICGA Journal")
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Re: MTD is a big win](https://www.stmintz.com/ccc/index.php?id=61218) by Don Dailey, [CCC](CCC "CCC"), July 20, 1999
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Khet (game) from Wikipedia](https://en.wikipedia.org/wiki/Khet_%28game%29)
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [A Pairwise Comparison of Chess Engine Move Selections](http://www.top-5000.nl/clone.htm) by [Adam Hair](Adam_Hair "Adam Hair"), hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Naive Bayes classifier from Wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Roanoke Star from Wikipedia](https://en.wikipedia.org/wiki/Roanoke_Star)
 
 **[Up one level](People "People")**
 

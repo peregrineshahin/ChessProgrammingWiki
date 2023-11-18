@@ -58,13 +58,13 @@ Paul E. Utgoff died on October 11, 2008 at the age of 57 due to complications fr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paul Utgoff](http://people.cs.umass.edu/~utgoff/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Carla E. Brodley](http://scholar.google.com/citations?user=sQ8u6h4AAAAJ), Paul E. Utgoff (**1995**). *Multivariate Decision Trees*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_%28journal%29), Vol. 19, No. 1
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Paul E. Utgoff (**1984**). *Shift of Bias for Inductive Concept Learning*. Ph.D. thesis, [Rutgers University, New Brunswick](https://en.wikipedia.org/wiki/Rutgers%E2%80%93New_Brunswick)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Machine Learning Laboratory - Incremental Decision Tree Induction](http://people.cs.umass.edu/~lrn/iti/index.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [In Memoriam: Paul Utgoff (1951 - 2008) | School of Computer Science](https://www.cs.umass.edu/news/latest-news/memoriam-paul-utgoff-1951-2008)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Paul E. Utgoff](http://dblp.uni-trier.de/pers/hd/u/Utgoff:Paul_E=)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Iterative Dichotomiser 3](https://en.wikipedia.org/wiki/ID3_algorithm) by [Ross Quinlan](Ross_Quinlan "Ross Quinlan")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul Utgoff](http://people.cs.umass.edu/~utgoff/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Carla E. Brodley](http://scholar.google.com/citations?user=sQ8u6h4AAAAJ), Paul E. Utgoff (**1995**). *Multivariate Decision Trees*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_%28journal%29), Vol. 19, No. 1
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Paul E. Utgoff (**1984**). *Shift of Bias for Inductive Concept Learning*. Ph.D. thesis, [Rutgers University, New Brunswick](https://en.wikipedia.org/wiki/Rutgers%E2%80%93New_Brunswick)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Machine Learning Laboratory - Incremental Decision Tree Induction](http://people.cs.umass.edu/~lrn/iti/index.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [In Memoriam: Paul Utgoff (1951 - 2008) | School of Computer Science](https://www.cs.umass.edu/news/latest-news/memoriam-paul-utgoff-1951-2008)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Paul E. Utgoff](http://dblp.uni-trier.de/pers/hd/u/Utgoff:Paul_E=)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Iterative Dichotomiser 3](https://en.wikipedia.org/wiki/ID3_algorithm) by [Ross Quinlan](Ross_Quinlan "Ross Quinlan")
 
 **[Up one level](People "People")**
 

@@ -42,9 +42,9 @@ and played the [WCCC 1989](WCCC_1989 "WCCC 1989") running on a [Meiko Computing 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Third Bit » About](http://third-bit.com/about/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Moby's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=363)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Third Bit » Writing](http://third-bit.com/blog/writing)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Third Bit » About](http://third-bit.com/about/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Moby's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=363)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Third Bit » Writing](http://third-bit.com/blog/writing)
 
 **[Up one level](People "People")**
 

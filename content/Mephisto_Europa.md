@@ -47,11 +47,11 @@ Mephisto Europa played the [First International Chess-Computer Tournament in the
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from [Mephisto Europa & Schachschule Electronic Chess Computer](http://www.spacious-mind.com/html/europa___schachschule.html) by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mephisto Europa](https://www.schach-computer.info/wiki/index.php?title=Mephisto_Europa) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [HD6301Y0 Datasheet(PDF) - Hitachi Semiconductor](https://www.alldatasheet.com/datasheet-pdf/pdf/124098/HITACHI/HD6301Y0.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mephisto Europa & Schachschule Electronic Chess Computer](http://www.spacious-mind.com/html/europa___schachschule.html) by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev") (**1989**). *Report on the 1st International Chess-Computer Tournament in the USSR*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from [Mephisto Europa & Schachschule Electronic Chess Computer](http://www.spacious-mind.com/html/europa___schachschule.html) by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mephisto Europa](https://www.schach-computer.info/wiki/index.php?title=Mephisto_Europa) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [HD6301Y0 Datasheet(PDF) - Hitachi Semiconductor](https://www.alldatasheet.com/datasheet-pdf/pdf/124098/HITACHI/HD6301Y0.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mephisto Europa & Schachschule Electronic Chess Computer](http://www.spacious-mind.com/html/europa___schachschule.html) by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev") (**1989**). *Report on the 1st International Chess-Computer Tournament in the USSR*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
 
 **[Up one level](Mephisto "Mephisto")**
 

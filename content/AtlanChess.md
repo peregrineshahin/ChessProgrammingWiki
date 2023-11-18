@@ -41,10 +41,10 @@ AtlanChess 5.52 played [Olivier Deville's](Olivier_Deville "Olivier Deville") [C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Poems by [Janus Djurhuus](https://en.wikipedia.org/wiki/Janus_Djurhuus) - [Atlantis](https://en.wikipedia.org/wiki/Atlantis), Stamp FO 493 of [Postverk Føroya](<https://en.wikipedia.org/wiki/Posta_(company)>), [Faroe Islands](https://en.wikipedia.org/wiki/Faroe_Islands), September 20, 2004, Artist: [Anker Eli Petersen](https://en.wikipedia.org/wiki/Anker_Eli_Petersen), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Atlantis from Wikipedia](https://en.wikipedia.org/wiki/Atlantis)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Engine Download List](http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list) hosted by [Ron Murawski](Ron_Murawski "Ron Murawski")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ChessWar XVII E 40m/20' - List of participants](http://www.open-aurec.com/chesswar/Chesswar017/Chesswar017ELs.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ChessWar XVII E : final standings](http://www.open-chess.org/viewtopic.php?f=4&t=1753) by [Olivier Deville](Olivier_Deville "Olivier Deville"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 23, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Poems by [Janus Djurhuus](https://en.wikipedia.org/wiki/Janus_Djurhuus) - [Atlantis](https://en.wikipedia.org/wiki/Atlantis), Stamp FO 493 of [Postverk Føroya](<https://en.wikipedia.org/wiki/Posta_(company)>), [Faroe Islands](https://en.wikipedia.org/wiki/Faroe_Islands), September 20, 2004, Artist: [Anker Eli Petersen](https://en.wikipedia.org/wiki/Anker_Eli_Petersen), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Atlantis from Wikipedia](https://en.wikipedia.org/wiki/Atlantis)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Engine Download List](http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list) hosted by [Ron Murawski](Ron_Murawski "Ron Murawski")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ChessWar XVII E 40m/20' - List of participants](http://www.open-aurec.com/chesswar/Chesswar017/Chesswar017ELs.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ChessWar XVII E : final standings](http://www.open-chess.org/viewtopic.php?f=4&t=1753) by [Olivier Deville](Olivier_Deville "Olivier Deville"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 23, 2011
 
 **[Up one Level](Engines "Engines")**
 

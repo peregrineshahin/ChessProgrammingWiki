@@ -209,15 +209,15 @@ Qe6 35.Qe3 Ng6 36.R1f6 Qc8 37.Rd6 e4 38.Rdd7 Ne5 39.Rxg7 Qxd7 40.Rxd7 Nxd7
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The Portrait of [Michel de Nostredame](https://en.wikipedia.org/wiki/Nostradamus) (Nostradamus), a French Renaissance Medicine & Astrologer, painted by his son [César de Nostredame](https://fr.wikipedia.org/wiki/C%C3%A9sar_de_Nostredame) (1553-1630?) about 1614 A.D. 16cm x 18cm. (cf. Jean Boyer, “Deux peintres oubliés du XVIe siècle: Etienne Martellange et César de Nostredame”, Bulletin de la Société de l’Histoire de l’art français, Année 1971 (1972), pp.13-20)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [James Swafford](James_Swafford "James Swafford") (**2002**). *Optimizing Parameter Learning using Temporal Differences*. [AAAI-02](http://www.aaai.org/Conferences/AAAI/aaai02.php), Student Abstracts, [pdf](http://www.jamesswafford.com/wp-content/uploads/2015/02/AAAI02-150.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [prophet | James Swafford](http://www.jamesswafford.com/prophet/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [James Swafford](James_Swafford "James Swafford") (**2008**). *A Survey of Parallel Search Algorithms over Alpha-Beta Search Trees using Symmetric Multiprocessor Machines*. Masters Project, [East Carolina University](https://en.wikipedia.org/wiki/East_Carolina_University), advisor [Ronnie Smith](http://www.cs.ecu.edu/rws/), [pdf](http://www.jamesswafford.com/wp-content/uploads/2015/02/jfs-masters.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [prophet3 released with source code](http://www.talkchess.com/forum/viewtopic.php?t=65345) by [James Swafford](James_Swafford "James Swafford"), [CCC](CCC "CCC"), September 30, 2017
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> \* [Prophet 4.0 and chess4j 4.0 are released](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78314) by [James Swafford](James_Swafford "James Swafford"), [CCC](CCC "CCC"), October 02, 2021
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> prophet-20b1-ja.zip, globals.cpp, bitmaps.cpp
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> prophet-20b1-ja.zip, globals.cpp, bitmaps.cpp
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CCT11 results and games](https://cctchess.com/previous-events/cct-11/results/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The Portrait of [Michel de Nostredame](https://en.wikipedia.org/wiki/Nostradamus) (Nostradamus), a French Renaissance Medicine & Astrologer, painted by his son [César de Nostredame](https://fr.wikipedia.org/wiki/C%C3%A9sar_de_Nostredame) (1553-1630?) about 1614 A.D. 16cm x 18cm. (cf. Jean Boyer, “Deux peintres oubliés du XVIe siècle: Etienne Martellange et César de Nostredame”, Bulletin de la Société de l’Histoire de l’art français, Année 1971 (1972), pp.13-20)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [James Swafford](James_Swafford "James Swafford") (**2002**). *Optimizing Parameter Learning using Temporal Differences*. [AAAI-02](http://www.aaai.org/Conferences/AAAI/aaai02.php), Student Abstracts, [pdf](http://www.jamesswafford.com/wp-content/uploads/2015/02/AAAI02-150.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [prophet | James Swafford](http://www.jamesswafford.com/prophet/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [James Swafford](James_Swafford "James Swafford") (**2008**). *A Survey of Parallel Search Algorithms over Alpha-Beta Search Trees using Symmetric Multiprocessor Machines*. Masters Project, [East Carolina University](https://en.wikipedia.org/wiki/East_Carolina_University), advisor [Ronnie Smith](http://www.cs.ecu.edu/rws/), [pdf](http://www.jamesswafford.com/wp-content/uploads/2015/02/jfs-masters.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [prophet3 released with source code](http://www.talkchess.com/forum/viewtopic.php?t=65345) by [James Swafford](James_Swafford "James Swafford"), [CCC](CCC "CCC"), September 30, 2017
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> \* [Prophet 4.0 and chess4j 4.0 are released](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78314) by [James Swafford](James_Swafford "James Swafford"), [CCC](CCC "CCC"), October 02, 2021
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> prophet-20b1-ja.zip, globals.cpp, bitmaps.cpp
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> prophet-20b1-ja.zip, globals.cpp, bitmaps.cpp
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CCT11 results and games](https://cctchess.com/previous-events/cct-11/results/)
 
 **[Up one level](Engines "Engines")**
 

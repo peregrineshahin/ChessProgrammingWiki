@@ -132,11 +132,11 @@ Ba6 23.Qxc6 Bb5 24.Qc7 Qa6 25.Bb7 Qb6 26.Bf4 Qa7 27.Nxc4 Bd8 28.Qc8 Bf6
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Thanks – RofChade](http://rofchade.nl/?page_id=106)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [RofChade 1.0 64-bit](http://www.computerchess.org.uk/ccrl/4040/cgi/engine_details.cgi?match_length=30&each_game=1&print=Details&each_game=1&eng=RofChade%201.0%2064-bit#RofChade_1_0_64-bit) in [CCRL 40/40](CCRL "CCRL")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [PT54 Round 7](https://www.csvn.nl/index.php/nieuws/51-toernooien/819-pt54-round-7), Photo by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> based on [Technical – RofChade](http://rofchade.nl/?page_id=116), December 2018
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: New uci engine: Rofchade](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68311&start=19) by [Ronald Friederich](Ronald_Friederich "Ronald Friederich"), [CCC](CCC "CCC"), August 28, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Thanks – RofChade](http://rofchade.nl/?page_id=106)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [RofChade 1.0 64-bit](http://www.computerchess.org.uk/ccrl/4040/cgi/engine_details.cgi?match_length=30&each_game=1&print=Details&each_game=1&eng=RofChade%201.0%2064-bit#RofChade_1_0_64-bit) in [CCRL 40/40](CCRL "CCRL")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PT54 Round 7](https://www.csvn.nl/index.php/nieuws/51-toernooien/819-pt54-round-7), Photo by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> based on [Technical – RofChade](http://rofchade.nl/?page_id=116), December 2018
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: New uci engine: Rofchade](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68311&start=19) by [Ronald Friederich](Ronald_Friederich "Ronald Friederich"), [CCC](CCC "CCC"), August 28, 2018
 
 **[Up one Level](Engines "Engines")**
 

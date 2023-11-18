@@ -31,7 +31,7 @@ functionally equivalent with Stockfish 2.2.x, May 27, 2012, commit 0412f4a1ee <a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Portfish/README.md at master · bpfliegel/Portfish · GitHub](https://github.com/bpfliegel/Portfish/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Portfish/README.md at master · bpfliegel/Portfish · GitHub](https://github.com/bpfliegel/Portfish/blob/master/README.md)
 
 **[Up one Level](Stockfish "Stockfish")**
 

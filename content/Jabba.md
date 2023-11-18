@@ -108,11 +108,11 @@ Kf7 62.Qb1 Qd5 63.Qxh7+ Ke8 64.Qg6+ Kd7 65.Bd6 Ra4 66.Qc2 Re4 67.Qb1 h4
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Jabba the Hutt by [Toby Philpott](https://en.wikipedia.org/wiki/Toby_Philpott), crop from [Toby Philpott, Jabba the Hutt puppeteer, and John Coppinger, Jabba sculptor](https://commons.wikimedia.org/wiki/File:Philpott_coppinger.jpg), 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [C# Performance](http://www.talkchess.com/forum/viewtopic.php?t=42186) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [CCC](CCC "CCC"), January 27, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jabba13032012](http://www.talkchess.com/forum/viewtopic.php?t=42857) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [CCC](CCC "CCC"), March 13, 2012
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [New Winboard & UCI Engine, Jabba 1.0](http://www.talkchess.com/forum/viewtopic.php?t=31341) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [CCC](CCC "CCC"), December 29, 2009
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Jabba's games ACCA](http://www.talkchess.com/forum/viewtopic.php?t=44430&start=7) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [CCC](CCC "CCC"), July 15, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Jabba the Hutt by [Toby Philpott](https://en.wikipedia.org/wiki/Toby_Philpott), crop from [Toby Philpott, Jabba the Hutt puppeteer, and John Coppinger, Jabba sculptor](https://commons.wikimedia.org/wiki/File:Philpott_coppinger.jpg), 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [C# Performance](http://www.talkchess.com/forum/viewtopic.php?t=42186) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [CCC](CCC "CCC"), January 27, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jabba13032012](http://www.talkchess.com/forum/viewtopic.php?t=42857) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [CCC](CCC "CCC"), March 13, 2012
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [New Winboard & UCI Engine, Jabba 1.0](http://www.talkchess.com/forum/viewtopic.php?t=31341) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [CCC](CCC "CCC"), December 29, 2009
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Jabba's games ACCA](http://www.talkchess.com/forum/viewtopic.php?t=44430&start=7) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [CCC](CCC "CCC"), July 15, 2012
 
 **[Up one level](Engines "Engines")**
 

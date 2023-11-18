@@ -100,13 +100,13 @@ I used this same type of tactical threat generation on the H8 machine, since I h
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Capture from the [Video](#video)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591&start=8) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2016
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Excalibur Electronics](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=78) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 22, 2015
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=112) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 23, 2015
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=108) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 23, 2015
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Excalibur Electronics](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=78) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 22, 2015
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=170) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 29, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Capture from the [Video](#video)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591&start=8) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2016
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Excalibur Electronics](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=78) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 22, 2015
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=112) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 23, 2015
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=108) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 23, 2015
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Excalibur Electronics](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=78) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 22, 2015
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=170) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 29, 2015
 
 **[Up one level](Engines "Engines")**
 

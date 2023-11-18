@@ -28,8 +28,8 @@ an Italian computer chess programmer and founding member of the [Gruppo Scacchi 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [1′ Campionato Italiano « G 6](https://www.g-sei.org/partite-8/#!), [CIPS 2001](CIPS_2001 "CIPS 2001")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Welcome to LarsenVB Home Page](http://xoomer.alice.it/ludormio/index_e.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [1′ Campionato Italiano « G 6](https://www.g-sei.org/partite-8/#!), [CIPS 2001](CIPS_2001 "CIPS 2001")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Welcome to LarsenVB Home Page](http://xoomer.alice.it/ludormio/index_e.htm)
 
 **[Up one level](People "People")**
 

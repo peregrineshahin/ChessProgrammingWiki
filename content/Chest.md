@@ -114,12 +114,12 @@ is an [UCI](UCI "UCI") adapter written in [Delphi](Delphi "Delphi") for a slight
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Re-glueing loose element of solid nut [marriage chest](https://en.wikipedia.org/wiki/Cassone) (prob. Italy, 19th century), Image by [Etan J. Tal](https://commons.wikimedia.org/wiki/User:Etan_J._Tal), July 19, 2011, [Category:Chests](https://commons.wikimedia.org/wiki/Category:Chests), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chest - Readme Long](http://turbotm.de/~heiner/Chess/README_LONG)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Perft(3) from 1978, with a twist!](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=41373&start=5) by [Heiner Marxen](Heiner_Marxen "Heiner Marxen"), [CCC](CCC "CCC"), December 09, 2011
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CHEST 3.19 is available](https://www.stmintz.com/ccc/index.php?id=83247) by [Heiner Marxen](Heiner_Marxen "Heiner Marxen"), [CCC](CCC "CCC"), December 18, 1999
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Description based on [Readme Long](http://turbotm.de/~heiner/Chess/README_LONG)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: ChestUCI Source Code](http://www.talkchess.com/forum/viewtopic.php?t=37092&start=1) by [Franz Huber](index.php?title=Franz_Huber&action=edit&redlink=1 "Franz Huber (page does not exist)"), [CCC](CCC "CCC"), December 15, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Re-glueing loose element of solid nut [marriage chest](https://en.wikipedia.org/wiki/Cassone) (prob. Italy, 19th century), Image by [Etan J. Tal](https://commons.wikimedia.org/wiki/User:Etan_J._Tal), July 19, 2011, [Category:Chests](https://commons.wikimedia.org/wiki/Category:Chests), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chest - Readme Long](http://turbotm.de/~heiner/Chess/README_LONG)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Perft(3) from 1978, with a twist!](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=41373&start=5) by [Heiner Marxen](Heiner_Marxen "Heiner Marxen"), [CCC](CCC "CCC"), December 09, 2011
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CHEST 3.19 is available](https://www.stmintz.com/ccc/index.php?id=83247) by [Heiner Marxen](Heiner_Marxen "Heiner Marxen"), [CCC](CCC "CCC"), December 18, 1999
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Description based on [Readme Long](http://turbotm.de/~heiner/Chess/README_LONG)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: ChestUCI Source Code](http://www.talkchess.com/forum/viewtopic.php?t=37092&start=1) by [Franz Huber](index.php?title=Franz_Huber&action=edit&redlink=1 "Franz Huber (page does not exist)"), [CCC](CCC "CCC"), December 15, 2010
 
 **[Up one level](Engines "Engines")**
 

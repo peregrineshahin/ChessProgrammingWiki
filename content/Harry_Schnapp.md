@@ -39,10 +39,10 @@ Harry Schnapp died on May 5, 2012 at age 77 <a id="cite-note-3" href="#cite-ref-
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [HS-Books - le Fou numérique](https://lefouduroi.pagesperso-orange.fr/hs-books.htm) hosted by [Patrick Buchmann](Patrick_Buchmann "Patrick Buchmann")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Equinox' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=590)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Announcement about Harry Schnapp](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=24902) by Florin Schnapp, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), May 13, 2012
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Rybka 4 Leak / "Harry Schnapp" accounts](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=17392) by [Felix Kling](index.php?title=Felix_Kling&action=edit&redlink=1 "Felix Kling (page does not exist)"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), June 05, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [HS-Books - le Fou numérique](https://lefouduroi.pagesperso-orange.fr/hs-books.htm) hosted by [Patrick Buchmann](Patrick_Buchmann "Patrick Buchmann")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Equinox' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=590)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Announcement about Harry Schnapp](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=24902) by Florin Schnapp, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), May 13, 2012
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Rybka 4 Leak / "Harry Schnapp" accounts](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=17392) by [Felix Kling](index.php?title=Felix_Kling&action=edit&redlink=1 "Felix Kling (page does not exist)"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), June 05, 2010
 
 **[Up one level](People "People")**
 

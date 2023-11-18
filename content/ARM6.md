@@ -44,10 +44,10 @@ The ARM6 and successors were used in various [dedicated chess computers](Dedicat
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Die](https://en.wikipedia.org/wiki/Die_%28integrated_circuit%29) shot of ARM610 microprocessor made by [GEC Plessey Semiconductors](https://en.wikipedia.org/wiki/Plessey), Photo by [Pauli Rautakorpi](http://commons.wikimedia.org/wiki/User:Birdman86), June 13, 2014
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Apple, DEC, Intel, Marvell: ARM6, StrongARM, XScale - Wikipedia](https://en.wikipedia.org/wiki/ARM_architecture#Apple.2C_DEC.2C_Intel.2C_Marvell:_ARM6.2C_StrongARM.2C_XScale)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Michael J. C. Gordon](https://en.wikipedia.org/wiki/Michael_J._C._Gordon) (**2004**). *[Formal Specification and Verification of ARM6](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=GR/N13135/01)*. Computer Laboratory, [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge), [Final Report as pdf](https://www.cl.cam.ac.uk/archive/mjcg/proposals/ARM6FinalReport.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [HOL (proof assistant) from Wikipedia](https://en.wikipedia.org/wiki/HOL_%28proof_assistant%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Die](https://en.wikipedia.org/wiki/Die_%28integrated_circuit%29) shot of ARM610 microprocessor made by [GEC Plessey Semiconductors](https://en.wikipedia.org/wiki/Plessey), Photo by [Pauli Rautakorpi](http://commons.wikimedia.org/wiki/User:Birdman86), June 13, 2014
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Apple, DEC, Intel, Marvell: ARM6, StrongARM, XScale - Wikipedia](https://en.wikipedia.org/wiki/ARM_architecture#Apple.2C_DEC.2C_Intel.2C_Marvell:_ARM6.2C_StrongARM.2C_XScale)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Michael J. C. Gordon](https://en.wikipedia.org/wiki/Michael_J._C._Gordon) (**2004**). *[Formal Specification and Verification of ARM6](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=GR/N13135/01)*. Computer Laboratory, [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge), [Final Report as pdf](https://www.cl.cam.ac.uk/archive/mjcg/proposals/ARM6FinalReport.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [HOL (proof assistant) from Wikipedia](https://en.wikipedia.org/wiki/HOL_%28proof_assistant%29)
 
 **[Up one Level](Hardware "Hardware")**
 

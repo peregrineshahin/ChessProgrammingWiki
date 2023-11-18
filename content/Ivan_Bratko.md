@@ -184,21 +184,21 @@ In 1979/80, as visiting researcher at [University of Edinburgh](University_of_Ed
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ivan Bratko's Homepage](http://www.ailab.si/ivan/novice.php)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Kopec Chess Services](http://www.kopecchess.com/bratko.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sanny: Some test positions for you](https://groups.google.com/d/msg/rec.games.chess.misc/OeK0k5KDaf4/pUd3Uzrkrd4J), [[Computer Chess Forums|rec.games.chess.misc], August 18, 2008
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ivan Bratko's Homepage](http://www.ailab.si/ivan/novice.php)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [I remember Donald Michie (1923 – 2007) « A Programmers Place](http://vanemden.wordpress.com/2009/06/12/i-remember-donald-michie-1923-2007/) by [Maarten van Emden](Maarten_van_Emden "Maarten van Emden"), June 12, 2009
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [John McCarthy](John_McCarthy "John McCarthy") (**1997**). *AI as Sport*. Science, Vol. 276, June 6, pp. 1518-1519.
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [AI as Sport](http://www-formal.stanford.edu/jmc/newborn/newborn.html) by [John McCarthy](John_McCarthy "John McCarthy")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Zdenek Zdráhal](Zdenek_Zdrahal "Zdenek Zdrahal"), Ivan Bratko, [Alen Shapiro](Alen_Shapiro "Alen Shapiro") (**1981**). *[Recognition of Complex Patterns Using Cellular Arrays](http://comjnl.oxfordjournals.org/content/24/3/263.abstract)*. [The Computer Journal, Vol. 24, No. 3](http://comjnl.oxfordjournals.org/content/24/3.toc), pp. 263-270
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [dblp: Ivan Bratko](http://dblp.uni-trier.de/pers/hd/b/Bratko:Ivan)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Donald Michie](Donald_Michie "Donald Michie") (**1976**). *[AL1: a package for generating strategies from tables](http://portal.acm.org/citation.cfm?id=1045272)*. ACM SIGART Bulletin, Issue 59
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Donald Michie](Donald_Michie "Donald Michie") (**1976**). *[AL1: a package for generating strategies from tables](http://portal.acm.org/citation.cfm?id=1045272)*. ACM SIGART Bulletin, Issue 59
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Computers choose: who was the strongest player?](http://en.chessbase.com/post/computers-choose-who-was-the-strongest-player-), [ChessBase News](ChessBase "ChessBase"), October 30, 2006
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Computer analysis of world champions](http://www.chessbase.com/newsdetail.asp?newsid=3465) by [Søren Riis](S%C3%B8ren_Riis "Søren Riis"), [ChessBase News](ChessBase "ChessBase"), November 02, 2006
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Re: Tony's positional test suite](http://www.talkchess.com/forum/viewtopic.php?t=64306&start=27) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), August 01, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ivan Bratko's Homepage](http://www.ailab.si/ivan/novice.php)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Kopec Chess Services](http://www.kopecchess.com/bratko.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sanny: Some test positions for you](https://groups.google.com/d/msg/rec.games.chess.misc/OeK0k5KDaf4/pUd3Uzrkrd4J), [[Computer Chess Forums|rec.games.chess.misc], August 18, 2008
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ivan Bratko's Homepage](http://www.ailab.si/ivan/novice.php)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [I remember Donald Michie (1923 – 2007) « A Programmers Place](http://vanemden.wordpress.com/2009/06/12/i-remember-donald-michie-1923-2007/) by [Maarten van Emden](Maarten_van_Emden "Maarten van Emden"), June 12, 2009
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [John McCarthy](John_McCarthy "John McCarthy") (**1997**). *AI as Sport*. Science, Vol. 276, June 6, pp. 1518-1519.
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [AI as Sport](http://www-formal.stanford.edu/jmc/newborn/newborn.html) by [John McCarthy](John_McCarthy "John McCarthy")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Zdenek Zdráhal](Zdenek_Zdrahal "Zdenek Zdrahal"), Ivan Bratko, [Alen Shapiro](Alen_Shapiro "Alen Shapiro") (**1981**). *[Recognition of Complex Patterns Using Cellular Arrays](http://comjnl.oxfordjournals.org/content/24/3/263.abstract)*. [The Computer Journal, Vol. 24, No. 3](http://comjnl.oxfordjournals.org/content/24/3.toc), pp. 263-270
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Ivan Bratko](http://dblp.uni-trier.de/pers/hd/b/Bratko:Ivan)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Donald Michie](Donald_Michie "Donald Michie") (**1976**). *[AL1: a package for generating strategies from tables](http://portal.acm.org/citation.cfm?id=1045272)*. ACM SIGART Bulletin, Issue 59
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Donald Michie](Donald_Michie "Donald Michie") (**1976**). *[AL1: a package for generating strategies from tables](http://portal.acm.org/citation.cfm?id=1045272)*. ACM SIGART Bulletin, Issue 59
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Computers choose: who was the strongest player?](http://en.chessbase.com/post/computers-choose-who-was-the-strongest-player-), [ChessBase News](ChessBase "ChessBase"), October 30, 2006
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Computer analysis of world champions](http://www.chessbase.com/newsdetail.asp?newsid=3465) by [Søren Riis](S%C3%B8ren_Riis "Søren Riis"), [ChessBase News](ChessBase "ChessBase"), November 02, 2006
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Re: Tony's positional test suite](http://www.talkchess.com/forum/viewtopic.php?t=64306&start=27) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), August 01, 2017
 
 **[Up one level](People "People")**
 

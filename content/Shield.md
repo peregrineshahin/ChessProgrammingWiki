@@ -125,9 +125,9 @@ Shield had its tournament debut at the [IGWT IV](IGWT_IV "IGWT IV") in early 201
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Reproduction of a [Roman shield (scutum)](https://en.wikipedia.org/wiki/Scutum_(shield)), Archaelogical Site of [Kelin](https://en.wikipedia.org/wiki/Kelin), Paraje los Villares, [Caudete de las Fuentes](https://en.wikipedia.org/wiki/Caudete_de_las_Fuentes), [Valencia](https://en.wikipedia.org/wiki/Province_of_Valencia), Photo by [Dorieo](https://commons.wikimedia.org/wiki/User:Dorieo), October 02, 2011, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Shield - Configuration](https://sites.google.com/site/shieldchessengine/configuration)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Shield - History](https://sites.google.com/site/shieldchessengine/history)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Reproduction of a [Roman shield (scutum)](https://en.wikipedia.org/wiki/Scutum_(shield)), Archaelogical Site of [Kelin](https://en.wikipedia.org/wiki/Kelin), Paraje los Villares, [Caudete de las Fuentes](https://en.wikipedia.org/wiki/Caudete_de_las_Fuentes), [Valencia](https://en.wikipedia.org/wiki/Province_of_Valencia), Photo by [Dorieo](https://commons.wikimedia.org/wiki/User:Dorieo), October 02, 2011, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shield - Configuration](https://sites.google.com/site/shieldchessengine/configuration)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Shield - History](https://sites.google.com/site/shieldchessengine/history)
 
 **[Up one Level](Engines "Engines")**
 

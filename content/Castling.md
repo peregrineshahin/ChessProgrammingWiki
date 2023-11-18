@@ -68,11 +68,11 @@ A formation achieved after castling is called a castle. This is often contrasted
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Castling by Marina Kalinovsky, Artwork for Sale - Brooklyn, NY - United States](https://fineartamerica.com/featured/castling-marina-kalinovsky.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Half Move Clock Confusion](http://www.open-chess.org/viewtopic.php?f=3&t=2209) by HumbleProgrammer, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 10, 2013
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computerschach - Eine Wette, die ich gerne verloren habe](http://www.horst-wandersleben.de/Wette.htm) by [Horst Wandersleben](index.php?title=Horst_Wandersleben&action=edit&redlink=1 "Horst Wandersleben (page does not exist)")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [0x88 FRC castle questions](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50635) by [Daniel Uranga](Daniel_Uranga "Daniel Uranga"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 12, 2009
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner") found a game finished in a [fifty-move rule](Fifty-move_Rule "Fifty-move Rule") draw, where castling occurred during the last fifty moves
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Castling by Marina Kalinovsky, Artwork for Sale - Brooklyn, NY - United States](https://fineartamerica.com/featured/castling-marina-kalinovsky.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Half Move Clock Confusion](http://www.open-chess.org/viewtopic.php?f=3&t=2209) by HumbleProgrammer, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 10, 2013
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computerschach - Eine Wette, die ich gerne verloren habe](http://www.horst-wandersleben.de/Wette.htm) by [Horst Wandersleben](index.php?title=Horst_Wandersleben&action=edit&redlink=1 "Horst Wandersleben (page does not exist)")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [0x88 FRC castle questions](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50635) by [Daniel Uranga](Daniel_Uranga "Daniel Uranga"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 12, 2009
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner") found a game finished in a [fifty-move rule](Fifty-move_Rule "Fifty-move Rule") draw, where castling occurred during the last fifty moves
 
 **[Up one Level](Moves "Moves")**
 

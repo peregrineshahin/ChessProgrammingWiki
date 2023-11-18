@@ -42,11 +42,11 @@ In their 2005 paper, *Bitboards: A New Approach* <a id="cite-note-2" href="#cite
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ramón Galán | UPM](https://www.researchgate.net/profile/Ramon_Galan)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo"), Ramón Galán (**2005**). *[Bitboards: A New Approach](http://www.actapress.com/Abstract.aspx?paperId=18953)*. [AIA 2005](http://www.informatik.uni-trier.de/~ley/db/conf/aia/aia2005.html#SegundoG05)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson"), [Harald Prokop](Harald_Prokop "Harald Prokop") and [Keith H. Randall](Keith_H._Randall "Keith H. Randall") (**1998**). *Using de Bruijn Sequences to Index a 1 in a Computer Word*, [pdf](http://supertech.csail.mit.edu/papers/debruijn.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Ramón Galán](https://dblp.uni-trier.de/pers/hd/g/Gal=aacute=n:Ram=oacute=n)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Clique problem from Wikipedia](https://en.wikipedia.org/wiki/Clique_problem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ramón Galán | UPM](https://www.researchgate.net/profile/Ramon_Galan)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo"), Ramón Galán (**2005**). *[Bitboards: A New Approach](http://www.actapress.com/Abstract.aspx?paperId=18953)*. [AIA 2005](http://www.informatik.uni-trier.de/~ley/db/conf/aia/aia2005.html#SegundoG05)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson"), [Harald Prokop](Harald_Prokop "Harald Prokop") and [Keith H. Randall](Keith_H._Randall "Keith H. Randall") (**1998**). *Using de Bruijn Sequences to Index a 1 in a Computer Word*, [pdf](http://supertech.csail.mit.edu/papers/debruijn.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Ramón Galán](https://dblp.uni-trier.de/pers/hd/g/Gal=aacute=n:Ram=oacute=n)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Clique problem from Wikipedia](https://en.wikipedia.org/wiki/Clique_problem)
 
 **[Up one Level](People "People")**
 

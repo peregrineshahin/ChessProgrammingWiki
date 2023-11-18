@@ -30,15 +30,15 @@ Along with [Lucien N. Dancanet](Lucien_N._Dancanet "Lucien N. Dancanet"), Denis 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Denis Dancanet's Home Page - Photos](http://www.cs.cmu.edu/~ddr/photo.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Denis Dancanet (**1998**). *[Intensional Investigations](http://reports-archive.adm.cs.cmu.edu/anon/1998/abstracts/98-135.html)*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), advisor [Stephen Brookes](Mathematician#SDBrookes "Mathematician"), CMU-CS-98-135, [pdf](http://reports-archive.adm.cs.cmu.edu/anon/1998/CMU-CS-98-135.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [About Us | Jetoptera | Revolutionary Propulsion System](http://jetoptera.com/about/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Denis Dancanet's Resume](http://www.cs.cmu.edu/~ddr/resume.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Denis Dancanet's Chess Page](http://www.cs.cmu.edu/~ddr/chess.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [5th World Microcomputer Chess Championship (Amateur) - Amsterdam 1985 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=156)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Denis Dancanet's Resume](http://www.cs.cmu.edu/~ddr/resume.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Denis Dancanet's Research](http://www.cs.cmu.edu/~ddr/my_research.html)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Rochester Connectionist Simulator](https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemVersionId=5604)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Denis Dancanet's Home Page - Photos](http://www.cs.cmu.edu/~ddr/photo.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Denis Dancanet (**1998**). *[Intensional Investigations](http://reports-archive.adm.cs.cmu.edu/anon/1998/abstracts/98-135.html)*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), advisor [Stephen Brookes](Mathematician#SDBrookes "Mathematician"), CMU-CS-98-135, [pdf](http://reports-archive.adm.cs.cmu.edu/anon/1998/CMU-CS-98-135.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [About Us | Jetoptera | Revolutionary Propulsion System](http://jetoptera.com/about/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Denis Dancanet's Resume](http://www.cs.cmu.edu/~ddr/resume.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Denis Dancanet's Chess Page](http://www.cs.cmu.edu/~ddr/chess.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [5th World Microcomputer Chess Championship (Amateur) - Amsterdam 1985 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=156)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Denis Dancanet's Resume](http://www.cs.cmu.edu/~ddr/resume.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Denis Dancanet's Research](http://www.cs.cmu.edu/~ddr/my_research.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Rochester Connectionist Simulator](https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemVersionId=5604)
 
 **[Up one Level](People "People")**
 

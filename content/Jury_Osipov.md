@@ -41,9 +41,9 @@ a Russian chess programmer, author of the chess program [Strelka](Strelka "Strel
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Picture taken from [Sergei Markoff](Sergei_Markoff "Sergei Markoff") and Jury Osipov at SDChess from [Новости за март - октябрь 2007 года](http://www.sdchess.ru/march_oct_07.htm), [sdchess.ru](http://www.sdchess.ru/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Strelka controversy from Wikipedia](https://en.wikipedia.org/wiki/Rybka#Strelka_controversy)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Download](http://www.sdchess.ru/download_engines.htm) by [sdchess.ru](http://www.sdchess.ru/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Picture taken from [Sergei Markoff](Sergei_Markoff "Sergei Markoff") and Jury Osipov at SDChess from [Новости за март - октябрь 2007 года](http://www.sdchess.ru/march_oct_07.htm), [sdchess.ru](http://www.sdchess.ru/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Strelka controversy from Wikipedia](https://en.wikipedia.org/wiki/Rybka#Strelka_controversy)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Download](http://www.sdchess.ru/download_engines.htm) by [sdchess.ru](http://www.sdchess.ru/)
 
 **[Up one level](People "People")**
 

@@ -64,12 +64,12 @@ Kd7 99.Qg7+ 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lubin Baugin](Category:Lubin_Baugin "Category:Lubin Baugin"), The Five Senses - Still-life with Chessboard, oil on wood, 1630, [Louvre](https://en.wikipedia.org/wiki/The_Louvre), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Bouquet 1.2 Relased](http://www.talkchess.com/forum3/viewtopic.php?t=44110&start=2) by [Jose Mº Velasco](Jose_Maria_Velasco "Jose Maria Velasco"), [CCC](CCC "CCC"), June 19, 2012
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bouquet New Chess Engine](http://www.talkchess.com/forum/viewtopic.php?t=43714) by [Jose Mº Velasco](Jose_Maria_Velasco "Jose Maria Velasco"), [CCC](CCC "CCC"), May 15, 2012
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:chess_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Bouquet1.8\\Readme_Bouquet.1.8.txt
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [TCEC Season 5, Stage 3, Game 24](https://www.tcec-chess.com/archive.html?season=5&stage=3&game=24)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lubin Baugin](Category:Lubin_Baugin "Category:Lubin Baugin"), The Five Senses - Still-life with Chessboard, oil on wood, 1630, [Louvre](https://en.wikipedia.org/wiki/The_Louvre), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Bouquet 1.2 Relased](http://www.talkchess.com/forum3/viewtopic.php?t=44110&start=2) by [Jose Mº Velasco](Jose_Maria_Velasco "Jose Maria Velasco"), [CCC](CCC "CCC"), June 19, 2012
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bouquet New Chess Engine](http://www.talkchess.com/forum/viewtopic.php?t=43714) by [Jose Mº Velasco](Jose_Maria_Velasco "Jose Maria Velasco"), [CCC](CCC "CCC"), May 15, 2012
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:chess_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Bouquet1.8\\Readme_Bouquet.1.8.txt
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [TCEC Season 5, Stage 3, Game 24](https://www.tcec-chess.com/archive.html?season=5&stage=3&game=24)
 
 **[Up one level](Engines "Engines")**
 

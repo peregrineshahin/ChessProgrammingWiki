@@ -37,13 +37,13 @@ As a chess player, along with [Reid McIlroy-Young](Reid_McIlroy-Young "Reid McIl
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Maia Chess](https://maiachess.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ashton Anderson - University of Toronto](http://www.cs.toronto.edu/~ashton/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Maia Chess](https://maiachess.com/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ashton Anderson‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=FMSltawAAAAJ&hl=en)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Ashton Anderson](https://dblp.org/pid/21/8524.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Stack Overflow from Wikipedia](https://en.wikipedia.org/wiki/Stack_Overflow)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Personal bests – and why you stop after achieving them: U of T Scarborough expert | University of Toronto Scarborough - News and Events](https://utsc.utoronto.ca/news-events/breaking-research/personal-bests-and-why-you-stop-after-achieving-them-u-t-scarborough-expert) by [Nina Haikara](https://everipedia.org/wiki/lang_en/nina-haikara), February 7, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Maia Chess](https://maiachess.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ashton Anderson - University of Toronto](http://www.cs.toronto.edu/~ashton/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Maia Chess](https://maiachess.com/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ashton Anderson‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=FMSltawAAAAJ&hl=en)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Ashton Anderson](https://dblp.org/pid/21/8524.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Stack Overflow from Wikipedia](https://en.wikipedia.org/wiki/Stack_Overflow)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Personal bests – and why you stop after achieving them: U of T Scarborough expert | University of Toronto Scarborough - News and Events](https://utsc.utoronto.ca/news-events/breaking-research/personal-bests-and-why-you-stop-after-achieving-them-u-t-scarborough-expert) by [Nina Haikara](https://everipedia.org/wiki/lang_en/nina-haikara), February 7, 2018
 
 **[Up one level](People "People")**
 

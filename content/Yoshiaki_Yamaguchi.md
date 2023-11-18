@@ -44,11 +44,11 @@ By rearrangement of the same paving patterns, the solution for a semi-infinite b
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Connect Four from Wikipedia](https://en.wikipedia.org/wiki/Connect_Four)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Infinite Board at Sensei's Library](http://senseis.xmp.net/?InfiniteBoard)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Events 2015: Photos Day 5](https://icga.org/?page_id=1431) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  Yoshiaki Yamaguchi, [Kazunori Yamaguchi](Kazunori_Yamaguchi "Kazunori Yamaguchi"), [Tetsuro Tanaka](Tetsuro_Tanaka "Tetsuro Tanaka"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko") (**2011**). *[Infinite Connect-Four Is Solved: Draw](http://link.springer.com/chapter/10.1007/978-3-642-31866-5_18)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Yoshiaki Yamaguchi](http://www.informatik.uni-trier.de/~ley/pers/hd/y/Yamaguchi:Yoshiaki.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Connect Four from Wikipedia](https://en.wikipedia.org/wiki/Connect_Four)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Infinite Board at Sensei's Library](http://senseis.xmp.net/?InfiniteBoard)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Events 2015: Photos Day 5](https://icga.org/?page_id=1431) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a>  Yoshiaki Yamaguchi, [Kazunori Yamaguchi](Kazunori_Yamaguchi "Kazunori Yamaguchi"), [Tetsuro Tanaka](Tetsuro_Tanaka "Tetsuro Tanaka"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko") (**2011**). *[Infinite Connect-Four Is Solved: Draw](http://link.springer.com/chapter/10.1007/978-3-642-31866-5_18)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Yoshiaki Yamaguchi](http://www.informatik.uni-trier.de/~ley/pers/hd/y/Yamaguchi:Yoshiaki.html)
 
 **[Up one level](People "People")**
 

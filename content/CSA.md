@@ -53,9 +53,9 @@ an organization dedicated to computer [Shogi](Shogi "Shogi") (Japanes Chess). Th
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer Shogi Association Web Site](http://www2.computer-shogi.org/index_e.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Shogi Association Web Site](http://www2.computer-shogi.org/index_e.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The 29th World Computer Shogi Championship Applicant List](https://groups.google.com/d/msg/shogi-l/qL5i9rYFXyw/TqDOnZZSDAAJ) by [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen") on behalf of [Takenobu Takizawa](Takenobu_Takizawa "Takenobu Takizawa"), [SHOGI-L](Computer_Chess_Forums "Computer Chess Forums"), February 03, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer Shogi Association Web Site](http://www2.computer-shogi.org/index_e.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Shogi Association Web Site](http://www2.computer-shogi.org/index_e.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The 29th World Computer Shogi Championship Applicant List](https://groups.google.com/d/msg/shogi-l/qL5i9rYFXyw/TqDOnZZSDAAJ) by [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen") on behalf of [Takenobu Takizawa](Takenobu_Takizawa "Takenobu Takizawa"), [SHOGI-L](Computer_Chess_Forums "Computer Chess Forums"), February 03, 2019
 
 **[Up one level](Organizations "Organizations")**
 

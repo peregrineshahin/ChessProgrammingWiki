@@ -45,9 +45,9 @@ an Australian computer scientist at [NICTA](https://en.wikipedia.org/wiki/NICTA)
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [William T. B. Uther - Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=-qvphmUAAAAJ)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> William Uther (**2002**). *Tree Based Hierarchical Reinforcement Learning*. Ph.D thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [pdf](http://reports-archive.adm.cs.cmu.edu/anon/2002/CMU-CS-02-169.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: William T. B. Uther](https://dblp.uni-trier.de/pers/hd/u/Uther:William_T=_B=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [William T. B. Uther - Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=-qvphmUAAAAJ)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> William Uther (**2002**). *Tree Based Hierarchical Reinforcement Learning*. Ph.D thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [pdf](http://reports-archive.adm.cs.cmu.edu/anon/2002/CMU-CS-02-169.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: William T. B. Uther](https://dblp.uni-trier.de/pers/hd/u/Uther:William_T=_B=)
 
 **[Up one level](People "People")**
 

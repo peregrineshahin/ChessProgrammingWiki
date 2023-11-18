@@ -54,12 +54,12 @@ and [Grapefruit](Grapefruit "Grapefruit") <a id="cite-note-6" href="#cite-ref-6"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image captured from the Video [Nopean shakin SM 2011 Mika Karttunen - Teemu Pudas](https://youtu.be/usr8dMgOPwk?t=35)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Teemu Pudas | LinkedIn](https://www.linkedin.com/in/teemu-pudas-b62b9a1a9/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [FIDE Profile: Pudas, Teemu](https://ratings.fide.com/profile/504653)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: How to check for checkmate/stalemate programmatically?](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=8533) by Vempele, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), November 22, 2008
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Toga CMLX 1.4.5e](http://ccrl.chessdom.com/ccrl/404FRC/cgi/engine_details.cgi?print=Details&eng=Toga%20CMLX%201.4.5e) in [CCRL 40/2 FRC](CCRL "CCRL")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Grapefruit](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=9481) by [Carl Bicknell](index.php?title=Carl_Bicknell&action=edit&redlink=1 "Carl Bicknell (page does not exist)"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), January 22, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image captured from the Video [Nopean shakin SM 2011 Mika Karttunen - Teemu Pudas](https://youtu.be/usr8dMgOPwk?t=35)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Teemu Pudas | LinkedIn](https://www.linkedin.com/in/teemu-pudas-b62b9a1a9/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [FIDE Profile: Pudas, Teemu](https://ratings.fide.com/profile/504653)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: How to check for checkmate/stalemate programmatically?](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=8533) by Vempele, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), November 22, 2008
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Toga CMLX 1.4.5e](http://ccrl.chessdom.com/ccrl/404FRC/cgi/engine_details.cgi?print=Details&eng=Toga%20CMLX%201.4.5e) in [CCRL 40/2 FRC](CCRL "CCRL")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Grapefruit](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=9481) by [Carl Bicknell](index.php?title=Carl_Bicknell&action=edit&redlink=1 "Carl Bicknell (page does not exist)"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), January 22, 2009
 
 **[Up one level](People "People")**
 

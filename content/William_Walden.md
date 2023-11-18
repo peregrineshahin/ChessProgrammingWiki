@@ -27,11 +27,11 @@ an American mathemantician and computer scientist, in the 50s and 60s affiliated
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Edward O. Thorp](Mathematician#EOThorp "Mathematician"), William Walden (**1966**). *[A Favorable Side Bet in Nevada Baccarat](http://www.jstor.org/stable/2282821?seq=1#page_scan_tab_contents)*. [Journal of the American Statistical Association](https://en.wikipedia.org/wiki/Journal_of_the_American_Statistical_Association), Vol. 61, No. 314, Part 1
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Review of “A Favorable Side Bet in Nevada Baccarat,” by Thorp and Walden | A.P. Heat!](http://apheat.net/2013/11/06/a-favorable-side-bet-in-nevada-baccarat-by-thorp-and-walden/), November 6, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Baccarat (card game) from Wikipedia](https://en.wikipedia.org/wiki/Baccarat_%28card_game%29)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [James Kister](James_Kister "James Kister"), [Paul Stein](Paul_Stein "Paul Stein"), [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam"), William Walden, [Mark Wells](Mark_Wells "Mark Wells") (**1957**). *[Experiments in Chess](http://dl.acm.org/citation.cfm?id=320868.320877&coll=DL&dl=GUIDE&CFID=628969023&CFTOKEN=30690604)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 4, No. 2
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Mathematics Genealogy Project - William Walden](http://genealogy.math.ndsu.nodak.edu/id.php?id=9461)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Edward O. Thorp](Mathematician#EOThorp "Mathematician"), William Walden (**1966**). *[A Favorable Side Bet in Nevada Baccarat](http://www.jstor.org/stable/2282821?seq=1#page_scan_tab_contents)*. [Journal of the American Statistical Association](https://en.wikipedia.org/wiki/Journal_of_the_American_Statistical_Association), Vol. 61, No. 314, Part 1
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Review of “A Favorable Side Bet in Nevada Baccarat,” by Thorp and Walden | A.P. Heat!](http://apheat.net/2013/11/06/a-favorable-side-bet-in-nevada-baccarat-by-thorp-and-walden/), November 6, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Baccarat (card game) from Wikipedia](https://en.wikipedia.org/wiki/Baccarat_%28card_game%29)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [James Kister](James_Kister "James Kister"), [Paul Stein](Paul_Stein "Paul Stein"), [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam"), William Walden, [Mark Wells](Mark_Wells "Mark Wells") (**1957**). *[Experiments in Chess](http://dl.acm.org/citation.cfm?id=320868.320877&coll=DL&dl=GUIDE&CFID=628969023&CFTOKEN=30690604)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 4, No. 2
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Mathematics Genealogy Project - William Walden](http://genealogy.math.ndsu.nodak.edu/id.php?id=9461)
 
 **[Up one level](People "People")**
 

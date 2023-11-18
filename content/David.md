@@ -46,10 +46,10 @@ an early chess program by [Gerhard Wolf](Gerhard_Wolf "Gerhard Wolf") <a id="cit
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Michelangelo's](Category:Michelangelo "Category:Michelangelo") statue of the [biblical David](https://en.wikipedia.org/wiki/David), [Accademia di Belle Arti Firenze](https://en.wikipedia.org/wiki/Accademia_di_Belle_Arti_Firenze)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gerhard Wolf](Gerhard_Wolf "Gerhard Wolf") (**1973**). *[Implementation of a dynamic tree searching algorithm in a chess programme](http://dl.acm.org/citation.cfm?id=805704)*. [Proceedings of the ACM annual conference](http://dl.acm.org/citation.cfm?id=800192&picked=prox)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Woodrow W. Bledsoe](Woodrow_W._Bledsoe "Woodrow W. Bledsoe") (**1971**). *[Results of Second Annual Computer Chess Championship](http://dl.acm.org/citation.cfm?id=1056574.1056576&coll=DL&dl=GUIDE&CFID=124559637&CFTOKEN=13928625)*. [ACM SIGART](ACM#SIG "ACM") Bulletin, No. 30
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) from [Computerschaak/Downloads/Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=13&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Michelangelo's](Category:Michelangelo "Category:Michelangelo") statue of the [biblical David](https://en.wikipedia.org/wiki/David), [Accademia di Belle Arti Firenze](https://en.wikipedia.org/wiki/Accademia_di_Belle_Arti_Firenze)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gerhard Wolf](Gerhard_Wolf "Gerhard Wolf") (**1973**). *[Implementation of a dynamic tree searching algorithm in a chess programme](http://dl.acm.org/citation.cfm?id=805704)*. [Proceedings of the ACM annual conference](http://dl.acm.org/citation.cfm?id=800192&picked=prox)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Woodrow W. Bledsoe](Woodrow_W._Bledsoe "Woodrow W. Bledsoe") (**1971**). *[Results of Second Annual Computer Chess Championship](http://dl.acm.org/citation.cfm?id=1056574.1056576&coll=DL&dl=GUIDE&CFID=124559637&CFTOKEN=13928625)*. [ACM SIGART](ACM#SIG "ACM") Bulletin, No. 30
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) from [Computerschaak/Downloads/Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=13&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN")
 
 **[Up one level](Engines "Engines")**
 

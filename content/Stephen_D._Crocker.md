@@ -52,11 +52,11 @@ and worked with [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt") an
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Steve Crocker from Wikipedia](https://en.wikipedia.org/wiki/Steve_Crocker), [Category:Steve Crocker - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Steve_Crocker)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [H. Flanagan](https://de.wikipedia.org/wiki/RFC-Editor) (ed.) (**2019**). *[RFC 8700: Fifty Years of RFCs](https://www.rfc-editor.org/rfc/rfc8700.html)*.
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Oral History of Richard Greenblatt](http://archive.computerhistory.org/resources/text/Oral_History/Greenblatt_Richard/greenblatt.oral_history_transcript.2005.102657935.pdf) (pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"), [Donald Eastlake](Donald_Eastlake "Donald Eastlake"), Stephen D. Crocker (**1967**). *The Greenblatt Chess Program*. Proceedings of the AfiPs Fall Joint Computer Conference, reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Steve Crocker](https://dblp.uni-trier.de/pid/49/6744.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Steve Crocker from Wikipedia](https://en.wikipedia.org/wiki/Steve_Crocker), [Category:Steve Crocker - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Steve_Crocker)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [H. Flanagan](https://de.wikipedia.org/wiki/RFC-Editor) (ed.) (**2019**). *[RFC 8700: Fifty Years of RFCs](https://www.rfc-editor.org/rfc/rfc8700.html)*.
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Oral History of Richard Greenblatt](http://archive.computerhistory.org/resources/text/Oral_History/Greenblatt_Richard/greenblatt.oral_history_transcript.2005.102657935.pdf) (pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"), [Donald Eastlake](Donald_Eastlake "Donald Eastlake"), Stephen D. Crocker (**1967**). *The Greenblatt Chess Program*. Proceedings of the AfiPs Fall Joint Computer Conference, reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Steve Crocker](https://dblp.uni-trier.de/pid/49/6744.html)
 
 **[Up one level](People "People")**
 

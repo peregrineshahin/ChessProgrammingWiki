@@ -101,11 +101,11 @@ a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Benny Antonsson](Be
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Flashing alarm icon](https://commons.wikimedia.org/wiki/File:Alarm.gif), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alarm - WinBoard Engine](http://web.archive.org/web/20020623093524/http://www.codenet.se:80/Alarm/) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Winboard engine Alarm is released](https://www.stmintz.com/ccc/index.php?id=306680) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [CCC](CCC "CCC"), July 16, 2003
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Swedish programs](https://www.stmintz.com/ccc/index.php?id=200414) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [CCC](CCC "CCC"), December 04, 2001
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Features based on [Alarm - Technical](http://web.archive.org/web/20020618151719fw_/http://www.codenet.se:80/alarm/technical.htm) and [Alarm/Deamon - Revision log](http://web.archive.org/web/20020623034338fw_/http://www.codenet.se:80/alarm/revision.txt) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Flashing alarm icon](https://commons.wikimedia.org/wiki/File:Alarm.gif), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alarm - WinBoard Engine](http://web.archive.org/web/20020623093524/http://www.codenet.se:80/Alarm/) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Winboard engine Alarm is released](https://www.stmintz.com/ccc/index.php?id=306680) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [CCC](CCC "CCC"), July 16, 2003
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Swedish programs](https://www.stmintz.com/ccc/index.php?id=200414) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [CCC](CCC "CCC"), December 04, 2001
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Features based on [Alarm - Technical](http://web.archive.org/web/20020618151719fw_/http://www.codenet.se:80/alarm/technical.htm) and [Alarm/Deamon - Revision log](http://web.archive.org/web/20020623034338fw_/http://www.codenet.se:80/alarm/revision.txt) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
 
 **[Up one Level](Engines "Engines")**
 

@@ -28,8 +28,8 @@ So called [Score](Score "Score") objects, consisting of a vector of [material ba
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Screenshot from no longr avaibale GambitVB sitde - Last Version - Free game and code
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Native Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:native_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Screenshot from no longr avaibale GambitVB sitde - Last Version - Free game and code
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Native Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:native_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
 
 **[Up one level](Engines "Engines")**
 

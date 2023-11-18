@@ -86,10 +86,10 @@ and its rebranded version [IBM PC-DOS](https://en.wikipedia.org/wiki/PC-DOS) wer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> MS-DOS 6.22 [booting](https://en.wikipedia.org/wiki/Booting), from [QEMU](https://en.wikipedia.org/wiki/QEMU). Image created by [Mike Swanson](https://en.wikipedia.org/wiki/User:MikeRS), June 22, 2009, [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS) © 1994 [Microsoft](Microsoft "Microsoft"), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Does DOSBOX accept Mephisto Genius 3?](http://www.talkchess.com/forum/viewtopic.php?t=55867&start=3) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), April 04, 2015
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Internet Archive MS-DOS games in the browser](http://www.talkchess.com/forum/viewtopic.php?t=65757) by James Constance, [CCC](CCC "CCC"), November 18, 2017
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [More DOS oldies](http://www.talkchess.com/forum/viewtopic.php?t=66481) by [Ed Schroder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), February 03, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> MS-DOS 6.22 [booting](https://en.wikipedia.org/wiki/Booting), from [QEMU](https://en.wikipedia.org/wiki/QEMU). Image created by [Mike Swanson](https://en.wikipedia.org/wiki/User:MikeRS), June 22, 2009, [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS) © 1994 [Microsoft](Microsoft "Microsoft"), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Does DOSBOX accept Mephisto Genius 3?](http://www.talkchess.com/forum/viewtopic.php?t=55867&start=3) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), April 04, 2015
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Internet Archive MS-DOS games in the browser](http://www.talkchess.com/forum/viewtopic.php?t=65757) by James Constance, [CCC](CCC "CCC"), November 18, 2017
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [More DOS oldies](http://www.talkchess.com/forum/viewtopic.php?t=66481) by [Ed Schroder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), February 03, 2018
 
 **[Up one Level](Software "Software")**
 

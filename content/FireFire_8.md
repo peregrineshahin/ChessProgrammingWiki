@@ -103,22 +103,22 @@ The further optimized Fire **8.1** was released on April 16, 2021 as [open sourc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Photo of a fire](https://en.wikipedia.org/wiki/File:Fire.JPG) taken with a 1/4000th of a second [exposure](https://en.wikipedia.org/wiki/Exposure_%28photography%29) by Awesomoman, 2009, [Fire from Wikipedia](https://en.wikipedia.org/wiki/Fire)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Fire 3.0 released](http://www.talkchess.com/forum/viewtopic.php?t=50463&start=5) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [CCC](CCC "CCC"), December 13, 2013
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:chess_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fire 3.0 released](http://www.talkchess.com/forum/viewtopic.php?t=50463) by Stefan Pohl, [CCC](CCC "CCC"), December 13, 2013
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - FireFather/fire: a very strong, state-of-the-art, highly optimized, open-source freeware UCI chess engine...](https://github.com/FireFather/fire)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Use Thread-local Storage to Reduce Synchronization | Intel® Developer Zone](https://software.intel.com/en-us/articles/use-thread-local-storage-to-reduce-synchronization), November 2, 2011
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Information provided by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), July 2015
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Fire 8 GPLv3 Source Request](http://www.talkchess.com/forum3/viewtopic.php?f=10&t=76719&start=3) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [CCC](CCC "CCC"), February 26, 2021 (Engine Origins)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: Fire 7.1 GPLv3 Source Request](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75150&start=170) by cucumber, [CCC](CCC "CCC"), September 23, 2020
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Fire – the chess engine releases a new version](http://www.chessdom.com/fire-the-chess-engine-releases-a-new-version/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), October 02, 2017
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Fire 7.1](http://www.talkchess.com/forum3/viewtopic.php?t=67579) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [CCC](CCC "CCC"), May 27, 2018
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [ABOUT | fire](https://web.archive.org/web/20200913090350/https://chesslogik.wixsite.com/fire/about) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), September 13, 2020)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Fire 7.1 GPLv3 Source Request](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75150) by [Andrew Grant](Andrew_Grant "Andrew Grant"), [CCC](CCC "CCC"), September 18, 2020
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [History | fire](https://chesslogik.wixsite.com/fire/history)
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [GitHub - FireFather/fire: a very strong, state-of-the-art, highly optimized, open-source freeware UCI chess engine...](https://github.com/FireFather/fire)
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Re: New engine releases & news 2021](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76209&start=358) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [CCC](CCC "CCC"), May 22, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Photo of a fire](https://en.wikipedia.org/wiki/File:Fire.JPG) taken with a 1/4000th of a second [exposure](https://en.wikipedia.org/wiki/Exposure_%28photography%29) by Awesomoman, 2009, [Fire from Wikipedia](https://en.wikipedia.org/wiki/Fire)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Fire 3.0 released](http://www.talkchess.com/forum/viewtopic.php?t=50463&start=5) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [CCC](CCC "CCC"), December 13, 2013
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:chess_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fire 3.0 released](http://www.talkchess.com/forum/viewtopic.php?t=50463) by Stefan Pohl, [CCC](CCC "CCC"), December 13, 2013
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - FireFather/fire: a very strong, state-of-the-art, highly optimized, open-source freeware UCI chess engine...](https://github.com/FireFather/fire)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Use Thread-local Storage to Reduce Synchronization | Intel® Developer Zone](https://software.intel.com/en-us/articles/use-thread-local-storage-to-reduce-synchronization), November 2, 2011
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> Information provided by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), July 2015
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Fire 8 GPLv3 Source Request](http://www.talkchess.com/forum3/viewtopic.php?f=10&t=76719&start=3) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [CCC](CCC "CCC"), February 26, 2021 (Engine Origins)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: Fire 7.1 GPLv3 Source Request](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75150&start=170) by cucumber, [CCC](CCC "CCC"), September 23, 2020
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Fire – the chess engine releases a new version](http://www.chessdom.com/fire-the-chess-engine-releases-a-new-version/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), October 02, 2017
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Fire 7.1](http://www.talkchess.com/forum3/viewtopic.php?t=67579) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [CCC](CCC "CCC"), May 27, 2018
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [ABOUT | fire](https://web.archive.org/web/20200913090350/https://chesslogik.wixsite.com/fire/about) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), September 13, 2020)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Fire 7.1 GPLv3 Source Request](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75150) by [Andrew Grant](Andrew_Grant "Andrew Grant"), [CCC](CCC "CCC"), September 18, 2020
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [History | fire](https://chesslogik.wixsite.com/fire/history)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [GitHub - FireFather/fire: a very strong, state-of-the-art, highly optimized, open-source freeware UCI chess engine...](https://github.com/FireFather/fire)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Re: New engine releases & news 2021](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76209&start=358) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [CCC](CCC "CCC"), May 22, 2021
 
 **[Up one Level](Engines "Engines")**
 

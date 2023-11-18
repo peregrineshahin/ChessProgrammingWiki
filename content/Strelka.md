@@ -137,21 +137,21 @@ In October 2011, Strelka 5 was released as closed source engine, according to Ju
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Soviet space dogs from Wikipedia - Belka and Strelka](https://en.wikipedia.org/wiki/Russian_space_dogs#Belka_and_Strelka)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: My Tests with Strelka](http://www.talkchess.com/forum/viewtopic.php?p=116315) by [Eduard Nemeth](index.php?title=Eduard_Nemeth&action=edit&redlink=1 "Eduard Nemeth (page does not exist)"), [CCC](CCC "CCC"), May 07, 2007
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: TO BE OR NOT TO BE](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=116341) by [Mike Scheidl](index.php?title=Michael_Scheidl&action=edit&redlink=1 "Michael Scheidl (page does not exist)"), [CCC](CCC "CCC"), May 07, 2007
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Sergei Markow about Strelka](http://www.talkchess.com/forum/viewtopic.php?t=13661) by Werner Schüle, [CCC](CCC "CCC"), May 09, 2007
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [My review of Strelka Code](http://www.talkchess.com/forum/viewtopic.php?t=13716) by [Bryan Hofmann](index.php?title=Bryan_Hofmann&action=edit&redlink=1 "Bryan Hofmann (page does not exist)"), [CCC](CCC "CCC"), May 12, 2007
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Strelka 1.8 source code review](http://www.talkchess.com/forum/viewtopic.php?t=16836) by [Bryan Hofmann](index.php?title=Bryan_Hofmann&action=edit&redlink=1 "Bryan Hofmann (page does not exist)"), [CCC](CCC "CCC"), October 01, 2007
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [To put everything into place with Strelka](http://www.talkchess.com/forum/viewtopic.php?t=13676) by [Sergei Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), May 10, 2007
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: My review of Strelka Code](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=117531&t=13716) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), May 12, 2007
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: Is strelka a clone?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=129446&t=14953) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 09, 2007
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Fabien's open letter to the community](http://www.talkchess.com/forum/viewtopic.php?t=37762) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), January 23, 2011
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Fabien's open letter to the community](http://www.open-chess.org/viewtopic.php?f=3&t=1014) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Open Chess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 23, 2011
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [new translation of J.Osipov statement in KasparovChess forum](http://www.talkchess.com/forum/viewtopic.php?t=15013) by Evgenii Manev, [CCC](CCC "CCC"), July 12, 2007
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Strelka 2.0](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=3006) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2008
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Народ.Ру: Осипов Юрий](http://strelkachess.narod.ru/Strelka5.html) (Russian)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Strelka 5 by Yuriy Osipov](http://www.talkchess.com/forum/viewtopic.php?t=40777) by Slavik Pavloff, [CCC](CCC "CCC"), October 15, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Soviet space dogs from Wikipedia - Belka and Strelka](https://en.wikipedia.org/wiki/Russian_space_dogs#Belka_and_Strelka)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: My Tests with Strelka](http://www.talkchess.com/forum/viewtopic.php?p=116315) by [Eduard Nemeth](index.php?title=Eduard_Nemeth&action=edit&redlink=1 "Eduard Nemeth (page does not exist)"), [CCC](CCC "CCC"), May 07, 2007
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: TO BE OR NOT TO BE](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=116341) by [Mike Scheidl](index.php?title=Michael_Scheidl&action=edit&redlink=1 "Michael Scheidl (page does not exist)"), [CCC](CCC "CCC"), May 07, 2007
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Sergei Markow about Strelka](http://www.talkchess.com/forum/viewtopic.php?t=13661) by Werner Schüle, [CCC](CCC "CCC"), May 09, 2007
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [My review of Strelka Code](http://www.talkchess.com/forum/viewtopic.php?t=13716) by [Bryan Hofmann](index.php?title=Bryan_Hofmann&action=edit&redlink=1 "Bryan Hofmann (page does not exist)"), [CCC](CCC "CCC"), May 12, 2007
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Strelka 1.8 source code review](http://www.talkchess.com/forum/viewtopic.php?t=16836) by [Bryan Hofmann](index.php?title=Bryan_Hofmann&action=edit&redlink=1 "Bryan Hofmann (page does not exist)"), [CCC](CCC "CCC"), October 01, 2007
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [To put everything into place with Strelka](http://www.talkchess.com/forum/viewtopic.php?t=13676) by [Sergei Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), May 10, 2007
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: My review of Strelka Code](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=117531&t=13716) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), May 12, 2007
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: Is strelka a clone?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=129446&t=14953) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 09, 2007
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Fabien's open letter to the community](http://www.talkchess.com/forum/viewtopic.php?t=37762) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), January 23, 2011
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Fabien's open letter to the community](http://www.open-chess.org/viewtopic.php?f=3&t=1014) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Open Chess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 23, 2011
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [new translation of J.Osipov statement in KasparovChess forum](http://www.talkchess.com/forum/viewtopic.php?t=15013) by Evgenii Manev, [CCC](CCC "CCC"), July 12, 2007
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Strelka 2.0](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=3006) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2008
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Народ.Ру: Осипов Юрий](http://strelkachess.narod.ru/Strelka5.html) (Russian)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Strelka 5 by Yuriy Osipov](http://www.talkchess.com/forum/viewtopic.php?t=40777) by Slavik Pavloff, [CCC](CCC "CCC"), October 15, 2011
 
 **[Up one Level](Engines "Engines")**
 

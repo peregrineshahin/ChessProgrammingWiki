@@ -106,18 +106,18 @@ In 2007, Gian-Carlo's experimental program [Stoofvlees](Stoofvlees "Stoofvlees")
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sjeng 12.7 and 11.2 released](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/66707061247326df) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 2, 2002
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Deep Sjeng 1.0 released](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/261bfb217175033a) by [Lex](Lex_Loep "Lex Loep"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 3, 2003
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SJENG.ORG - Deep Sjeng 2.x](http://sjeng.org/deepsjeng2.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SJENG.ORG - Deep Sjeng 3.x](http://sjeng.org/deepsjeng3.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Sjeng's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=72) (mostly Deep Sjeng)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Deep Sjeng played the [WCCC 2008](WCCC_2008 "WCCC 2008") under the name Sjeng, not to confused with the "old" Sjeng
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> After the [disqualification](World_Computer_Chess_Championship#RybkaDisqualification "World Computer Chess Championship") of [Rybka](Rybka "Rybka") in June 2011, shared Champion with [Shredder](Shredder "Shredder") and [Junior](Junior "Junior")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Deep Sjeng 2.x - Screenshots](https://sjeng.org/deepsjeng2.html)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: Deep Sjeng testers wanted](https://www.stmintz.com/ccc/index.php?id=248594) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), August 29, 2002
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Deep Sjeng 2.7 released](http://www.talkchess.com/forum/viewtopic.php?t=16244) by Jens, [CCC](CCC "CCC"), September 03, 2007
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=316511&t=31545) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), January 07, 2010
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=316769&t=31545) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), January 08, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sjeng 12.7 and 11.2 released](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/66707061247326df) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 2, 2002
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Deep Sjeng 1.0 released](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/261bfb217175033a) by [Lex](Lex_Loep "Lex Loep"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 3, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SJENG.ORG - Deep Sjeng 2.x](http://sjeng.org/deepsjeng2.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SJENG.ORG - Deep Sjeng 3.x](http://sjeng.org/deepsjeng3.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Sjeng's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=72) (mostly Deep Sjeng)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Deep Sjeng played the [WCCC 2008](WCCC_2008 "WCCC 2008") under the name Sjeng, not to confused with the "old" Sjeng
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> After the [disqualification](World_Computer_Chess_Championship#RybkaDisqualification "World Computer Chess Championship") of [Rybka](Rybka "Rybka") in June 2011, shared Champion with [Shredder](Shredder "Shredder") and [Junior](Junior "Junior")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Deep Sjeng 2.x - Screenshots](https://sjeng.org/deepsjeng2.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: Deep Sjeng testers wanted](https://www.stmintz.com/ccc/index.php?id=248594) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), August 29, 2002
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Deep Sjeng 2.7 released](http://www.talkchess.com/forum/viewtopic.php?t=16244) by Jens, [CCC](CCC "CCC"), September 03, 2007
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=316511&t=31545) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), January 07, 2010
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=316769&t=31545) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), January 08, 2010
 
 **[Up one Level](Engines "Engines")**
 

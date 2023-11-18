@@ -66,11 +66,11 @@ lineup: [Frank Zappa](Category:Frank_Zappa "Category:Frank Zappa"), [Adrian Bele
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Disco ball](https://en.wikipedia.org/wiki/Disco_ball), [Image](https://commons.wikimedia.org/wiki/File:Disco_ball4.jpg) by [Sarah](https://www.flickr.com/people/8978957@N07?rb=1), February 24, 2010, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [UCI and XBoard Engines for Android](http://www.aartbik.com/MISC/eng.html) maintained by [Aart Bik](Aart_Bik "Aart Bik")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Double/DiscoCheck](http://wbec-ridderkerk.nl/html/details1/DoubleCheck.html) from [WBEC Ridderkerk](WBEC "WBEC")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [New DiscoCheck is cooking](http://www.talkchess.com/forum/viewtopic.php?t=64173) by Lucas Braesch, [CCC](CCC "CCC"), June 04, 2017
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - lucasart/Demolito: UCI Chess Engine](https://github.com/lucasart/Demolito)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Disco ball](https://en.wikipedia.org/wiki/Disco_ball), [Image](https://commons.wikimedia.org/wiki/File:Disco_ball4.jpg) by [Sarah](https://www.flickr.com/people/8978957@N07?rb=1), February 24, 2010, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [UCI and XBoard Engines for Android](http://www.aartbik.com/MISC/eng.html) maintained by [Aart Bik](Aart_Bik "Aart Bik")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Double/DiscoCheck](http://wbec-ridderkerk.nl/html/details1/DoubleCheck.html) from [WBEC Ridderkerk](WBEC "WBEC")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [New DiscoCheck is cooking](http://www.talkchess.com/forum/viewtopic.php?t=64173) by Lucas Braesch, [CCC](CCC "CCC"), June 04, 2017
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - lucasart/Demolito: UCI Chess Engine](https://github.com/lucasart/Demolito)
 
 **[Up one Level](Engines "Engines")**
 

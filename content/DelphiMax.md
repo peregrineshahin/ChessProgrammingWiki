@@ -25,7 +25,7 @@ ported to [Delphi](Delphi "Delphi") and further enhanced by [Martin Bauer](Marti
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bauer & Schweitzer - Webdesign, Software, Shareware, Freeware, EDV - MiniMAX and DelphiMax](http://web.archive.org/web/20160307143139if_/http://bauer-schweitzer.de/index.html?minimax/index_minimax.html) (German, [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 2016)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bauer & Schweitzer - Webdesign, Software, Shareware, Freeware, EDV - MiniMAX and DelphiMax](http://web.archive.org/web/20160307143139if_/http://bauer-schweitzer.de/index.html?minimax/index_minimax.html) (German, [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 2016)
 
 **[Up one Level](Engines "Engines")**
 

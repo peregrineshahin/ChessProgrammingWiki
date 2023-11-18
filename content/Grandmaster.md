@@ -41,9 +41,9 @@ and [Audiogenic](https://en.wikipedia.org/wiki/Audiogenic) in the [UK](https://e
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Commodore 64 Emulator - Computer Chess Game Collection - Grandmaster Chess](http://www.spacious-mind.com/html/c64_emu_-_grandmaster_chess.html) by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Grand Master - Software Details - Plus/4 World](http://plus4world.powweb.com/software/Grand_Master)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Commodore 64/128 Old Computer Chess Game Collection - Grandmaster Chess](http://www.spacious-mind.com/html/commodore_c64_grandmaster_ches.html) by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Commodore 64 Emulator - Computer Chess Game Collection - Grandmaster Chess](http://www.spacious-mind.com/html/c64_emu_-_grandmaster_chess.html) by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Grand Master - Software Details - Plus/4 World](http://plus4world.powweb.com/software/Grand_Master)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Commodore 64/128 Old Computer Chess Game Collection - Grandmaster Chess](http://www.spacious-mind.com/html/commodore_c64_grandmaster_ches.html) by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
 
 **[Up one Level](Engines "Engines")**
 

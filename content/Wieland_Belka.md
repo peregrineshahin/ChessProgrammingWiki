@@ -34,11 +34,11 @@ As computer chess programmer, Wieland Belka is author of the chess engine [Eichh
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wieland Belka Earns the ICCF IM Title (revised)](http://www.iccfus.com/download/BelkaIMPressReleaseRevA.pdf) (September 10, 2013, pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICCF Ratings > Player Details > IM Belka, Wieland](https://www.iccf.com/PlayerDetails.aspx?id=84497)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [International Correspondence Chess Federation - US Player Rankings](http://www.iccfus.com/ranks.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Diemer und das Blackmar-Diemer-Gambit](http://www.belkaplan.de/chess/bdg/) by Wieland Belka (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Piece of Mind » Computer Chess Tournament?!](https://matthewlai.ca/blog/2010/11/18/computer-chess-tournament/) by [Matthew Lai](Matthew_Lai "Matthew Lai") » [IOCSC 2010](IOCSC_2010 "IOCSC 2010")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wieland Belka Earns the ICCF IM Title (revised)](http://www.iccfus.com/download/BelkaIMPressReleaseRevA.pdf) (September 10, 2013, pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICCF Ratings > Player Details > IM Belka, Wieland](https://www.iccf.com/PlayerDetails.aspx?id=84497)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [International Correspondence Chess Federation - US Player Rankings](http://www.iccfus.com/ranks.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Diemer und das Blackmar-Diemer-Gambit](http://www.belkaplan.de/chess/bdg/) by Wieland Belka (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Piece of Mind » Computer Chess Tournament?!](https://matthewlai.ca/blog/2010/11/18/computer-chess-tournament/) by [Matthew Lai](Matthew_Lai "Matthew Lai") » [IOCSC 2010](IOCSC_2010 "IOCSC 2010")
 
 **[Up one Level](People "People")**
 

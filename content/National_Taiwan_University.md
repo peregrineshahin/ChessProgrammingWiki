@@ -61,7 +61,7 @@ title: National Taiwan University
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [National Taiwan University, Royal Palm Boulevard](https://commons.wikimedia.org/wiki/File:National_Taiwan_University_Royal-Palm-blvd.JPG) by [利用者:Hadge](https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Hadge), December 29, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [National Taiwan University, Royal Palm Boulevard](https://commons.wikimedia.org/wiki/File:National_Taiwan_University_Royal-Palm-blvd.JPG) by [利用者:Hadge](https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Hadge), December 29, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -48,9 +48,9 @@ Joost already started chess programming in fall 1977, when he developed Nightmar
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Joost Buijs, Photo cropped from [2nd CSVN-Tournament 2002 Gallery](http://old.csvn.nl/gallery16.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Your first chess program](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=43381&start=10) by Joost Buijs, [CCC](CCC "CCC"), April 21, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [30th ONK 2010 Leiden: List of participants](http://www.csvn.nl/index.php?option=com_content&view=article&id=465%3A30th-onk-2010-leiden-list-of-participants&catid=51%3Atoernooien&Itemid=28&lang=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Joost Buijs, Photo cropped from [2nd CSVN-Tournament 2002 Gallery](http://old.csvn.nl/gallery16.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Your first chess program](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=43381&start=10) by Joost Buijs, [CCC](CCC "CCC"), April 21, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [30th ONK 2010 Leiden: List of participants](http://www.csvn.nl/index.php?option=com_content&view=article&id=465%3A30th-onk-2010-leiden-list-of-participants&catid=51%3Atoernooien&Itemid=28&lang=en)
 
 **[Up one level](People "People")**
 

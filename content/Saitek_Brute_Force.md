@@ -48,9 +48,9 @@ a [chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") [modul
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hans-Peter Ketterling](index.php?title=Hans-Peter_Ketterling&action=edit&redlink=1 "Hans-Peter Ketterling (page does not exist)") (**1989**). *Computerschachneuheiten auf der Nürnberger Spielwarenmesse (Teil 3 und 4)*. [Europa-Rochade](http://de.wikipedia.org/wiki/Rochade_Europa) 03-1989, 04-1989, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/07-1989,%20Rochade,%20H.-P.%20Ketterling,%20Nurnberger%20Messe%20%28Teil%203%20und%204%29.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> *Saitek Kasparov Brute Force Module - Owner's Manual*. [pdf](http://alain.zanchetta.free.fr/docs/Saitek/BruteForceUS.pdf) hosted by [Alain Zanchetta](index.php?title=Alain_Zanchetta&action=edit&redlink=1 "Alain Zanchetta (page does not exist)")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The chess games of Saitek Brute Force](http://www.chessgames.com/perl/chessplayer?pid=70668) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hans-Peter Ketterling](index.php?title=Hans-Peter_Ketterling&action=edit&redlink=1 "Hans-Peter Ketterling (page does not exist)") (**1989**). *Computerschachneuheiten auf der Nürnberger Spielwarenmesse (Teil 3 und 4)*. [Europa-Rochade](http://de.wikipedia.org/wiki/Rochade_Europa) 03-1989, 04-1989, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/07-1989,%20Rochade,%20H.-P.%20Ketterling,%20Nurnberger%20Messe%20%28Teil%203%20und%204%29.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> *Saitek Kasparov Brute Force Module - Owner's Manual*. [pdf](http://alain.zanchetta.free.fr/docs/Saitek/BruteForceUS.pdf) hosted by [Alain Zanchetta](index.php?title=Alain_Zanchetta&action=edit&redlink=1 "Alain Zanchetta (page does not exist)")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The chess games of Saitek Brute Force](http://www.chessgames.com/perl/chessplayer?pid=70668) from [chessgames.com](http://www.chessgames.com/index.html)
 
 **[Up one level](Engines "Engines")**
 

@@ -36,11 +36,11 @@ a German mathematician, computer scientist, games researcher, and professor at [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr. Thomas Ströhlein](http://home.in.tum.de/%7Estroehle/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Mathematics Genealogy Project - Thomas Ströhlein](http://genealogy.math.ndsu.nodak.edu/id.php?id=58327)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lewis Stiller](Lewis_Stiller "Lewis Stiller") (**1996**). *Multilinear Algebra and Chess Endgames*. [Games of No Chance](http://library.msri.org/books/Book29/index.html) edited by [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski"), [pdf](http://www.msri.org/publications/books/Book29/files/stiller.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Guy Haworth](Guy_Haworth "Guy Haworth") (**2020**). *CEN: Thomas Ströhlein’s Endgame Tables, a 50th Anniversary*. [ICGA Journal, Vol. 42, Nos. 2-3](ICGA_Journal#42_23 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr. Thomas Ströhlein](http://home.in.tum.de/%7Estroehle/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Mathematics Genealogy Project - Thomas Ströhlein](http://genealogy.math.ndsu.nodak.edu/id.php?id=58327)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lewis Stiller](Lewis_Stiller "Lewis Stiller") (**1996**). *Multilinear Algebra and Chess Endgames*. [Games of No Chance](http://library.msri.org/books/Book29/index.html) edited by [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski"), [pdf](http://www.msri.org/publications/books/Book29/files/stiller.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Guy Haworth](Guy_Haworth "Guy Haworth") (**2020**). *CEN: Thomas Ströhlein’s Endgame Tables, a 50th Anniversary*. [ICGA Journal, Vol. 42, Nos. 2-3](ICGA_Journal#42_23 "ICGA Journal")
 
 **[Up one level](People "People")**
 

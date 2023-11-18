@@ -15,7 +15,7 @@ a Polish software developer with focus on [Java](Java "Java") and [mobile device
 
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [II Mistrzostwa Polski Programów Szachowych - Autorzy przy swoich programach](http://mpps.maciej.szmit.info/mpps-2/autorzy/), hosted by [Maciej Szmit](Maciej_Szmit "Maciej Szmit")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [II Mistrzostwa Polski Programów Szachowych - Autorzy przy swoich programach](http://mpps.maciej.szmit.info/mpps-2/autorzy/), hosted by [Maciej Szmit](Maciej_Szmit "Maciej Szmit")
 
 **[Up one Level](People "People")**
 

@@ -41,9 +41,9 @@ a commercial chess program running under [Windows 98](Windows "Windows") release
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [USCF Chess](http://www.giantbomb.com/uscf-chess/3030-19764/) from [Giant Bomb](https://en.wikipedia.org/wiki/Giant_Bomb)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: USCF Chess CD](http://groups.google.com/group/rec.games.chess.computer/msg/8c8467e4437ce00e) by Erik Kraft, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 26, 1996
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Avoid USCF Chess](http://groups.google.com/group/rec.games.chess.computer/msg/4ab1eeb0ac4d61e3) by mate07, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 31, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [USCF Chess](http://www.giantbomb.com/uscf-chess/3030-19764/) from [Giant Bomb](https://en.wikipedia.org/wiki/Giant_Bomb)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: USCF Chess CD](http://groups.google.com/group/rec.games.chess.computer/msg/8c8467e4437ce00e) by Erik Kraft, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 26, 1996
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Avoid USCF Chess](http://groups.google.com/group/rec.games.chess.computer/msg/4ab1eeb0ac4d61e3) by mate07, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 31, 1997
 
 **[Up one level](Engines "Engines")**
 

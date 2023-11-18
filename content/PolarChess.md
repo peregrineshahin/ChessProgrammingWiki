@@ -60,10 +60,10 @@ PolarChess played the [CCT4](CCT4 "CCT4") and [CCT5](CCT5 "CCT5") tournaments.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [THE CASE OF THE BI-POLAR CHESS QUEEN: A Short Story | Flickr - Fotosharing!](http://www.flickr.com/photos/29528454@N04/5428134932) by [Robert Huffstutter](http://www.flickr.com/photos/huffstutterrobertl/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Vadsø, Norway - Sunrise, sunset, dawn and dusk times for the whole year - Gaisma](http://www.gaisma.com/en/location/vadso.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CCT4 - PGN-Download](http://www.vrichey.de/cct4/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [PolarChess just beat Warlord](https://www.stmintz.com/ccc/index.php?id=208631) by [William H. Rogers](William_H._Rogers "William H. Rogers"), [CCC](CCC "CCC"), January 20, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [THE CASE OF THE BI-POLAR CHESS QUEEN: A Short Story | Flickr - Fotosharing!](http://www.flickr.com/photos/29528454@N04/5428134932) by [Robert Huffstutter](http://www.flickr.com/photos/huffstutterrobertl/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Vadsø, Norway - Sunrise, sunset, dawn and dusk times for the whole year - Gaisma](http://www.gaisma.com/en/location/vadso.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CCT4 - PGN-Download](http://www.vrichey.de/cct4/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [PolarChess just beat Warlord](https://www.stmintz.com/ccc/index.php?id=208631) by [William H. Rogers](William_H._Rogers "William H. Rogers"), [CCC](CCC "CCC"), January 20, 2002
 
 **[Up one Level](Engines "Engines")**
 

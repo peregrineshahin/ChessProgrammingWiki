@@ -38,14 +38,14 @@ His reaearch includes [machine learning](Learning "Learning"), [neural networks]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alois Heinz | LinkedIn](https://www.linkedin.com/in/alois-heinz-b1545448/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Alois Heinz (**2003**). *[Yes, Trees May Have Neurons](https://link.springer.com/chapter/10.1007%2F3-540-36477-3_13)*. [Computer Science in Perspective 2003](https://dblp.uni-trier.de/db/conf/birthday/ottmann2003.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Evaluation by neural network ?](https://www.stmintz.com/ccc/index.php?id=11893) by [Jay Scott](Jay_Scott "Jay Scott"), [CCC](CCC "CCC"), November 10, 1997
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Alois Heinz (**1994**). *[Efficient Neural Net α-β-Evaluators](https://link.springer.com/chapter/10.1007/978-1-4471-2097-1_149)*. [ICANN ’94](https://link.springer.com/book/10.1007/978-1-4471-2097-1), [citeseerx](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.55.3994)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Alois P. Heinz](https://dblp.uni-trier.de/pers/hd/h/Heinz:Alois_P=)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [University of Freiburg](https://en.wikipedia.org/wiki/University_of_Freiburg), [Department of Computer Science - Technical Reports](http://tr.informatik.uni-freiburg.de/complete.php)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Online papers](http://satirist.org/learn-game/lists/papers.html) by [Jay Scott](Jay_Scott "Jay Scott")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Monoid from Wikipedia](https://en.wikipedia.org/wiki/Monoid)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alois Heinz | LinkedIn](https://www.linkedin.com/in/alois-heinz-b1545448/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Alois Heinz (**2003**). *[Yes, Trees May Have Neurons](https://link.springer.com/chapter/10.1007%2F3-540-36477-3_13)*. [Computer Science in Perspective 2003](https://dblp.uni-trier.de/db/conf/birthday/ottmann2003.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Evaluation by neural network ?](https://www.stmintz.com/ccc/index.php?id=11893) by [Jay Scott](Jay_Scott "Jay Scott"), [CCC](CCC "CCC"), November 10, 1997
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Alois Heinz (**1994**). *[Efficient Neural Net α-β-Evaluators](https://link.springer.com/chapter/10.1007/978-1-4471-2097-1_149)*. [ICANN ’94](https://link.springer.com/book/10.1007/978-1-4471-2097-1), [citeseerx](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.55.3994)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Alois P. Heinz](https://dblp.uni-trier.de/pers/hd/h/Heinz:Alois_P=)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [University of Freiburg](https://en.wikipedia.org/wiki/University_of_Freiburg), [Department of Computer Science - Technical Reports](http://tr.informatik.uni-freiburg.de/complete.php)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Online papers](http://satirist.org/learn-game/lists/papers.html) by [Jay Scott](Jay_Scott "Jay Scott")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Monoid from Wikipedia](https://en.wikipedia.org/wiki/Monoid)
 
 **[Up one level](People "People")**
 

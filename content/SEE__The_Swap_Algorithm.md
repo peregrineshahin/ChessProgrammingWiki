@@ -174,9 +174,9 @@ gain[0] = -max(-100,   225) =  -225
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Subject: Re: Static Exchange Eval](https://www.stmintz.com/ccc/index.php?id=178981) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") from [CCC](Computer_Chess_Forums "Computer Chess Forums"), August 02, 2001
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Crafty](Crafty "Crafty") by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), see ***swap.c***
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: SEE with alpha beta](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=419315&t=40054) by [Michael Hoffmann](Michael_Hoffmann "Michael Hoffmann"), [CCC](CCC "CCC"), August 14, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Subject: Re: Static Exchange Eval](https://www.stmintz.com/ccc/index.php?id=178981) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") from [CCC](Computer_Chess_Forums "Computer Chess Forums"), August 02, 2001
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Crafty](Crafty "Crafty") by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), see ***swap.c***
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: SEE with alpha beta](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=419315&t=40054) by [Michael Hoffmann](Michael_Hoffmann "Michael Hoffmann"), [CCC](CCC "CCC"), August 14, 2011
 
 **[Up one Level](Bitboards "Bitboards")**
 

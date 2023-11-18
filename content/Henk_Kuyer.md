@@ -17,11 +17,11 @@ He is further author of the chess program [October](October "October"), which pa
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [De Biltse Schaakclub | Album 2016-2017](http://www.dbcschaak.nl/foto/fotoarchief2016-2017/album2016-2017.shtml)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A better Chessity to celebrate our 5th anniversary](https://www.chessity.com/en/blog/1265/A_better_Chessity_to_celebrate_our_5th_anniversary), November 11, 2016
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chessity – Online chess learning and teaching](https://www.chessity.com/en)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Report on the 8th Dutch National Computer-Chess Championship*. [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1989**). *The 9th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [De Biltse Schaakclub | Album 2016-2017](http://www.dbcschaak.nl/foto/fotoarchief2016-2017/album2016-2017.shtml)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A better Chessity to celebrate our 5th anniversary](https://www.chessity.com/en/blog/1265/A_better_Chessity_to_celebrate_our_5th_anniversary), November 11, 2016
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chessity – Online chess learning and teaching](https://www.chessity.com/en)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Report on the 8th Dutch National Computer-Chess Championship*. [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1989**). *The 9th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
 
 **[Up one level](People "People")**
 

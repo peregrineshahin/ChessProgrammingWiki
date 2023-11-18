@@ -40,12 +40,12 @@ a Dutch computer scientist and assistant professor at [Leiden University](Leiden
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jan N. van Rijn - LIACS](http://liacs.leidenuniv.nl/~rijnjnvan/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jan van Rijn (**2016**). *[Massively collaborative machine learning](https://openaccess.leidenuniv.nl/handle/1887/44814)*. Ph.D. thesis, [Leiden University](Leiden_University "Leiden University")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Jan van Rijn (**2012**). *Playing Games: The complexity of Klondike, Mahjong, Nonograms and Animal Chess*. Master's thesis, [Leiden Institute of Advanced Computer Science](Leiden_University#LIACS "Leiden University"), [pdf](http://liacs.leidenuniv.nl/~rijnjnvan/pdf/master/PlayingGamesV1_1.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jungle (board game) from Wikipedia](https://en.wikipedia.org/wiki/Jungle_%28board_game%29)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Jan N. van Rijn](http://dblp.uni-trier.de/pers/hd/r/Rijn:Jan_N=_van.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [OpenML.org](http://www.openml.org/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jan N. van Rijn - LIACS](http://liacs.leidenuniv.nl/~rijnjnvan/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jan van Rijn (**2016**). *[Massively collaborative machine learning](https://openaccess.leidenuniv.nl/handle/1887/44814)*. Ph.D. thesis, [Leiden University](Leiden_University "Leiden University")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Jan van Rijn (**2012**). *Playing Games: The complexity of Klondike, Mahjong, Nonograms and Animal Chess*. Master's thesis, [Leiden Institute of Advanced Computer Science](Leiden_University#LIACS "Leiden University"), [pdf](http://liacs.leidenuniv.nl/~rijnjnvan/pdf/master/PlayingGamesV1_1.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jungle (board game) from Wikipedia](https://en.wikipedia.org/wiki/Jungle_%28board_game%29)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Jan N. van Rijn](http://dblp.uni-trier.de/pers/hd/r/Rijn:Jan_N=_van.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [OpenML.org](http://www.openml.org/)
 
 **[Up one level](People "People")**
 

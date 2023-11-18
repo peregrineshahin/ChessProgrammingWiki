@@ -43,9 +43,9 @@ a computer chess program written at the [University of Waterloo](University_of_W
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gray tree frog from Wikipedia](https://en.wikipedia.org/wiki/Gray_tree_frog)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [M. M. Newborn](Monroe_Newborn "Monroe Newborn") (**1977**). *[Summary of the ACM Sixth U.S. Computer Chess Championship](http://www.atariarchives.org/bcc2/showpage.php?page=22)*, from [The Best of Creative Computing Volume 2](http://www.atariarchives.org/bcc2/index.php), edited by [David Ahl](https://en.wikipedia.org/wiki/David_H._Ahl), hosted by [AtariArchives.org](http://www.atariarchives.org/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1979**). *A bibliography of computer chess*. [Machine Intelligence 9](http://www.doc.ic.ac.uk/%7Eshm/MI/mi9.html), [pdf](http://aitopics.org/sites/default/files/classic/Machine_Intelligence_9/MI9-Ch19-Marsland.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gray tree frog from Wikipedia](https://en.wikipedia.org/wiki/Gray_tree_frog)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [M. M. Newborn](Monroe_Newborn "Monroe Newborn") (**1977**). *[Summary of the ACM Sixth U.S. Computer Chess Championship](http://www.atariarchives.org/bcc2/showpage.php?page=22)*, from [The Best of Creative Computing Volume 2](http://www.atariarchives.org/bcc2/index.php), edited by [David Ahl](https://en.wikipedia.org/wiki/David_H._Ahl), hosted by [AtariArchives.org](http://www.atariarchives.org/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1979**). *A bibliography of computer chess*. [Machine Intelligence 9](http://www.doc.ic.ac.uk/%7Eshm/MI/mi9.html), [pdf](http://aitopics.org/sites/default/files/classic/Machine_Intelligence_9/MI9-Ch19-Marsland.pdf)
 
 **[Up one Level](Engines "Engines")**
 

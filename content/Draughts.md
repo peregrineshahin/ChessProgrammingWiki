@@ -137,13 +137,13 @@ The starting position of international draughts has 20 men each placed on its ho
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Starting position on a 10×10 draughts board, Image by [Michel32Nl](https://en.wikipedia.org/wiki/User:Michel32Nl), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [International draughts from Wikipedia](https://en.wikipedia.org/wiki/International_draughts)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [All 10x10 programs in the world](http://windames.free.fr/apage76_e.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> personal communication of the [editor](Gerd_Isenberg "Gerd Isenberg") with [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey") at the [18th Computer Olympiad](18th_Computer_Olympiad "18th Computer Olympiad"), July 04, 2015
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Photos 2013 Events: day 4](https://icga.leidenuniv.nl/?page_id=827), [ICGA](ICGA "ICGA")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Games Tournament 2013 - 10×10 Draughts](https://icga.leidenuniv.nl/?page_id=627#10x10)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [18th Computer Olympiad - Day 7 Photos](https://icga.leidenuniv.nl/?page_id=1497) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [(Free) draughts software](http://laatste.info/bb3/viewtopic.php?t=3819) by A. Presman, [World Draughts Forum](http://laatste.info/bb3/index.php?sid=a58b41156d433755b2d4b3dc45087638), April 21, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Starting position on a 10×10 draughts board, Image by [Michel32Nl](https://en.wikipedia.org/wiki/User:Michel32Nl), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [International draughts from Wikipedia](https://en.wikipedia.org/wiki/International_draughts)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [All 10x10 programs in the world](http://windames.free.fr/apage76_e.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> personal communication of the [editor](Gerd_Isenberg "Gerd Isenberg") with [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey") at the [18th Computer Olympiad](18th_Computer_Olympiad "18th Computer Olympiad"), July 04, 2015
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Photos 2013 Events: day 4](https://icga.leidenuniv.nl/?page_id=827), [ICGA](ICGA "ICGA")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Games Tournament 2013 - 10×10 Draughts](https://icga.leidenuniv.nl/?page_id=627#10x10)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [18th Computer Olympiad - Day 7 Photos](https://icga.leidenuniv.nl/?page_id=1497) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [(Free) draughts software](http://laatste.info/bb3/viewtopic.php?t=3819) by A. Presman, [World Draughts Forum](http://laatste.info/bb3/index.php?sid=a58b41156d433755b2d4b3dc45087638), April 21, 2012
 
 **[Up one Level](Games "Games")**
 

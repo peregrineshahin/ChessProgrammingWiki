@@ -37,12 +37,12 @@ Team [Pandix](Pandix "Pandix") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, N
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WCCC in Japan - Hans's Diary](http://hiarcs.net/forums/viewtopic.php?t=3696&postdays=0&postorder=asc&start=19) by [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), September 26, 2010
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Studie: Schachspielen mit ein 286er 12 MHz Laptop - Schachcomputer.info Community](http://www.schachcomputer.info/forum/showthread.php?t=3531) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), May 22, 2010 (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pandix' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=190)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [Aegon 1996](Aegon_1996 "Aegon 1996")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [WCCC in Japan - Hans's Diary](http://hiarcs.net/forums/viewtopic.php?t=3696&postdays=0&postorder=asc&start=19) by [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), September 26, 2010
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Studie: Schachspielen mit ein 286er 12 MHz Laptop - Schachcomputer.info Community](http://www.schachcomputer.info/forum/showthread.php?t=3531) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), May 22, 2010 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WCCC in Japan - Hans's Diary](http://hiarcs.net/forums/viewtopic.php?t=3696&postdays=0&postorder=asc&start=19) by [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), September 26, 2010
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Studie: Schachspielen mit ein 286er 12 MHz Laptop - Schachcomputer.info Community](http://www.schachcomputer.info/forum/showthread.php?t=3531) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), May 22, 2010 (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pandix' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=190)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [Aegon 1996](Aegon_1996 "Aegon 1996")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [WCCC in Japan - Hans's Diary](http://hiarcs.net/forums/viewtopic.php?t=3696&postdays=0&postorder=asc&start=19) by [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), September 26, 2010
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Studie: Schachspielen mit ein 286er 12 MHz Laptop - Schachcomputer.info Community](http://www.schachcomputer.info/forum/showthread.php?t=3531) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), May 22, 2010 (German)
 
 **[Up one level](People "People")**
 

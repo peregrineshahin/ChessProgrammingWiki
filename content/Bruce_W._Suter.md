@@ -53,14 +53,14 @@ and has also been with [Honeywell, Inc.](https://en.wikipedia.org/wiki/Honeywell
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bruce Suter | Aerospace & Electronic Systems Society](http://ieee-aess.org/contact/bruce-suter)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1988**). *A High-Performance Parallel Algorithm to Search Depth-First Game Trees*. Ph.D. thesis, Department of Computer Science, [University of Alabama at Birmingham](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), Bruce W. Suter, [Harry Nelson](Harry_Nelson "Harry Nelson") (**1989**). *A Parallel Alpha-Beta Tree Searching Algorithm*. [Parallel Computing](https://www.journals.elsevier.com/parallel-computing), Vol. 10, No. 3
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Bruce W. Suter](https://dblp.uni-trier.de/pers/hd/s/Suter:Bruce_W=)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Bruce W. Suter - Google Scholar Citations](https://scholar.google.com/citations?user=fbQuez0AAAAJ&hl=en)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Radon transform from Wikipedia](https://en.wikipedia.org/wiki/Radon_transform)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Hankel transform from Wikipedia](https://en.wikipedia.org/wiki/Hankel_transform)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Eigenvalues and eigenvectors from Wikipedia](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bruce Suter | Aerospace & Electronic Systems Society](http://ieee-aess.org/contact/bruce-suter)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1988**). *A High-Performance Parallel Algorithm to Search Depth-First Game Trees*. Ph.D. thesis, Department of Computer Science, [University of Alabama at Birmingham](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), Bruce W. Suter, [Harry Nelson](Harry_Nelson "Harry Nelson") (**1989**). *A Parallel Alpha-Beta Tree Searching Algorithm*. [Parallel Computing](https://www.journals.elsevier.com/parallel-computing), Vol. 10, No. 3
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Bruce W. Suter](https://dblp.uni-trier.de/pers/hd/s/Suter:Bruce_W=)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Bruce W. Suter - Google Scholar Citations](https://scholar.google.com/citations?user=fbQuez0AAAAJ&hl=en)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Radon transform from Wikipedia](https://en.wikipedia.org/wiki/Radon_transform)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Hankel transform from Wikipedia](https://en.wikipedia.org/wiki/Hankel_transform)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Eigenvalues and eigenvectors from Wikipedia](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
 
 **[Up one level](People "People")**
 

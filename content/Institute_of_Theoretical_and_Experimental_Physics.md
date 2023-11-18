@@ -47,10 +47,10 @@ ITEP team during TV interview, November 24, 1967, [M-20](M-20 "M-20") in the bac
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Cheremushki manor (ITEP), Palace](https://www.flickr.com/photos/lotzman/1025419538/), by [Lotzman Katzman](https://www.flickr.com/photos/lotzman/) August 05, 2007, [Institute of Theoretical and Experimental Physics from Wikipedia](https://en.wikipedia.org/wiki/Institute_for_Theoretical_and_Experimental_Physics), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Institute of Theoretical and Experimental Physics from Wikipedia](https://en.wikipedia.org/wiki/Institute_for_Theoretical_and_Experimental_Physics)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ITEP official side](http://www.itep.ru/eng/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Image captured from the [Video В шахматы "играет" ЭВМ. Телевизионные новости. Эфир 24.11.1967](ITEP_Chess_Program#Video "ITEP Chess Program"), 3:03
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Cheremushki manor (ITEP), Palace](https://www.flickr.com/photos/lotzman/1025419538/), by [Lotzman Katzman](https://www.flickr.com/photos/lotzman/) August 05, 2007, [Institute of Theoretical and Experimental Physics from Wikipedia](https://en.wikipedia.org/wiki/Institute_for_Theoretical_and_Experimental_Physics), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Institute of Theoretical and Experimental Physics from Wikipedia](https://en.wikipedia.org/wiki/Institute_for_Theoretical_and_Experimental_Physics)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ITEP official side](http://www.itep.ru/eng/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Image captured from the [Video В шахматы "играет" ЭВМ. Телевизионные новости. Эфир 24.11.1967](ITEP_Chess_Program#Video "ITEP Chess Program"), 3:03
 
 **[Up one Level](Organizations "Organizations")**
 

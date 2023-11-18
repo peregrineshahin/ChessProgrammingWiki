@@ -41,11 +41,11 @@ an American software engineer at [Square](https://en.wikipedia.org/wiki/Square_%
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John Tamplin | LinkedIn](http://www.linkedin.com/in/johntamplin)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Welcome to Deep Thought Games](http://www.deepthoughtgames.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Archives - Endgames (DTC, DTM, DTZ, DTZ-50)](http://chess.jaet.org/endings/) hosted by John Tamplin
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Publications for Mr Guy Haworth](http://www.reading.ac.uk/sse/about/staff/publications/g-haworth-publications.asp)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John Tamplin | LinkedIn](http://www.linkedin.com/in/johntamplin)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Welcome to Deep Thought Games](http://www.deepthoughtgames.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Archives - Endgames (DTC, DTM, DTZ, DTZ-50)](http://chess.jaet.org/endings/) hosted by John Tamplin
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Publications for Mr Guy Haworth](http://www.reading.ac.uk/sse/about/staff/publications/g-haworth-publications.asp)
 
 **[Up one level](People "People")**
 

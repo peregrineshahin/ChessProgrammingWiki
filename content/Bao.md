@@ -53,9 +53,9 @@ a traditional [mancala board game](https://en.wikipedia.org/wiki/Mancala) played
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Bao Board from Tanzania, [Image](https://commons.wikimedia.org/wiki/File:Tavolabao.jpg) by [Nino Vessella](http://www.vessella.it/), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Bao (mancala game) from Wikipedia](https://en.wikipedia.org/wiki/Bao_%28mancala_game%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bao (mancala game) from Wikipedia](https://en.wikipedia.org/wiki/Bao_%28mancala_game%29)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [De Ludis Orientalibus (Libri Duo: Historia Nerdiludii)](http://www.lot-tissimo.com/de/i/4067569/?PHPSESSID=5pj8nhio3khgm7j496tdl09u91) from [ot-tissimo - Ihr Auktionsportal](http://www.lot-tissimo.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Bao Board from Tanzania, [Image](https://commons.wikimedia.org/wiki/File:Tavolabao.jpg) by [Nino Vessella](http://www.vessella.it/), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Bao (mancala game) from Wikipedia](https://en.wikipedia.org/wiki/Bao_%28mancala_game%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bao (mancala game) from Wikipedia](https://en.wikipedia.org/wiki/Bao_%28mancala_game%29)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [De Ludis Orientalibus (Libri Duo: Historia Nerdiludii)](http://www.lot-tissimo.com/de/i/4067569/?PHPSESSID=5pj8nhio3khgm7j496tdl09u91) from [ot-tissimo - Ihr Auktionsportal](http://www.lot-tissimo.com/)
 
 **[Up one Level](Games "Games")**
 

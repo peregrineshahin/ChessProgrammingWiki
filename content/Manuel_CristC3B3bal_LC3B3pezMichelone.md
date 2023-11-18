@@ -37,10 +37,10 @@ a Mexican [FIDE](FIDE "FIDE") [master of chess](https://en.wikipedia.org/wiki/FI
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [¿Quién puede ser gran maestro?](https://es.chessbase.com/post/-quin-puede-ser-gran-maestro-) [ChessBase](ChessBase "ChessBase")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lopez Michelone, Manuel FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=5100305)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Manuel Cristóbal López-Michelone, [Jorge Luis Ortega-Arjona](Jorge_Luis_Ortega-Arjona "Jorge Luis Ortega-Arjona") (**2020**). *[A description language for chess](https://content.iospress.com/articles/icga-journal/icg190141)*. [ICGA Journal, Vol. 42, No. 1](ICGA_Journal#42_1 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Manuel Cristóbal López-Michelone](https://dblp.uni-trier.de/pers/hd/l/L=oacute=pez=Michelone:Manuel_Crist=oacute=bal)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [¿Quién puede ser gran maestro?](https://es.chessbase.com/post/-quin-puede-ser-gran-maestro-) [ChessBase](ChessBase "ChessBase")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lopez Michelone, Manuel FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=5100305)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Manuel Cristóbal López-Michelone, [Jorge Luis Ortega-Arjona](Jorge_Luis_Ortega-Arjona "Jorge Luis Ortega-Arjona") (**2020**). *[A description language for chess](https://content.iospress.com/articles/icga-journal/icg190141)*. [ICGA Journal, Vol. 42, No. 1](ICGA_Journal#42_1 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Manuel Cristóbal López-Michelone](https://dblp.uni-trier.de/pers/hd/l/L=oacute=pez=Michelone:Manuel_Crist=oacute=bal)
 
 **[Up one level](People "People")**
 

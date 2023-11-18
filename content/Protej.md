@@ -38,8 +38,8 @@ So far, Protej played the [CCT9](CCT9 "CCT9"), [CCT10](CCT10 "CCT10"), [WCRCC 20
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The infernal Proteus, from [Erasmus Francisci](https://en.wikipedia.org/wiki/Erasmus_Finx) (**1695**). *[Der Höllische Proteus, oder Tausendkünstige Versteller, vermittelst Erzehlung der vielfältigen Bild-Verwechslungen Erscheinender Gespenster, Werffender und poltrender Geister, gespenstischer Vorzeichen der Todes-Fälle, Wie auch Andrer abentheurlicher Händel, arglistiger Possen, und seltsamer Aufzüge dieses verdammten Schauspielers, und, Von theils Gelehrten, für den menschlichen Lebens-Geist irrig-angesehenen Betriegers, (nebenst vorberichtlichem Grund-Beweis der Gewissheit, daß es würcklich Gespenster gebe)](http://www.zeno.org/Literatur/M/Francisci,+Erasmus/Werk/Der+H%C3%B6llische+Proteus,+oder+Tausendk%C3%BCnstige+Versteller)*. 2nd edition, Nürnberg: Endter, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Protej chess engine - chronology](http://protej.info/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The infernal Proteus, from [Erasmus Francisci](https://en.wikipedia.org/wiki/Erasmus_Finx) (**1695**). *[Der Höllische Proteus, oder Tausendkünstige Versteller, vermittelst Erzehlung der vielfältigen Bild-Verwechslungen Erscheinender Gespenster, Werffender und poltrender Geister, gespenstischer Vorzeichen der Todes-Fälle, Wie auch Andrer abentheurlicher Händel, arglistiger Possen, und seltsamer Aufzüge dieses verdammten Schauspielers, und, Von theils Gelehrten, für den menschlichen Lebens-Geist irrig-angesehenen Betriegers, (nebenst vorberichtlichem Grund-Beweis der Gewissheit, daß es würcklich Gespenster gebe)](http://www.zeno.org/Literatur/M/Francisci,+Erasmus/Werk/Der+H%C3%B6llische+Proteus,+oder+Tausendk%C3%BCnstige+Versteller)*. 2nd edition, Nürnberg: Endter, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Protej chess engine - chronology](http://protej.info/)
 
 **[Up one Level](Engines "Engines")**
 

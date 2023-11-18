@@ -51,9 +51,9 @@ The [evaluation](Evaluation "Evaluation") seems not that heavy as the program's 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chessboard](Chessboard "Chessboard") and [pieces](Pieces "Pieces") made out of [mining](https://en.wikipedia.org/wiki/Mining) tools and parts in [Cerro Sombrero](https://en.wikipedia.org/wiki/Cerro_Sombrero), [Chile](https://en.wikipedia.org/wiki/Chile). [Flickr Photo](https://www.flickr.com/photos/teosaurio/4531534307/in/photostream/) by [Mr. Hicks](https://www.flickr.com/photos/teosaurio/), March 08, 2010
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [HeavyChess](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=49475) by [Ron Murawski](Ron_Murawski "Ron Murawski"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 09, 2008
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> HeavyChess 0.13 \\BitBoards.h
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chessboard](Chessboard "Chessboard") and [pieces](Pieces "Pieces") made out of [mining](https://en.wikipedia.org/wiki/Mining) tools and parts in [Cerro Sombrero](https://en.wikipedia.org/wiki/Cerro_Sombrero), [Chile](https://en.wikipedia.org/wiki/Chile). [Flickr Photo](https://www.flickr.com/photos/teosaurio/4531534307/in/photostream/) by [Mr. Hicks](https://www.flickr.com/photos/teosaurio/), March 08, 2010
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [HeavyChess](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=49475) by [Ron Murawski](Ron_Murawski "Ron Murawski"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 09, 2008
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> HeavyChess 0.13 \\BitBoards.h
 
 **[Up one Level](Engines "Engines")**
 

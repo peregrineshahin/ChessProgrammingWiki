@@ -55,19 +55,19 @@ David Kittinger, [WCCC 1983](WCCC_1983 "WCCC 1983") <a id="cite-note-12" href="#
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Echecs Electroniques pour Tous - Programmeurs](http://pagesperso-orange.fr/Eric.Terrien/page4/page2/page2.html) (French)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PSH](http://www.schach-computer.info/wiki/index.php/PSH) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Historical Chessmaster ?](https://www.stmintz.com/ccc/index.php?id=422725) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), April 24, 2005
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Historical Chessmaster ?](https://www.stmintz.com/ccc/index.php?id=422644) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), April 24, 2005
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462584&t=43447) by Dave Kittinger, [CCC](CCC "CCC"), April 25, 2012
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Power Chess from Wikipedia](https://en.wikipedia.org/wiki/Power_Chess)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [USCF Chess for Windows (1998) - MobyGames](http://www.mobygames.com/game/uscf-chess)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Hoyle Majestic Chess Review - GameSpot.com](http://www.gamespot.com/hoyle-majestic-chess/reviews/hoyle-majestic-chess-review-6074888/)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Disney's Aladdin Chess Adventures for Windows (2004) - MobyGames](http://www.mobygames.com/game/disneys-aladdin-chess-adventures)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [0x88 Move Generation](http://web.archive.org/web/20070716111804/www.brucemo.com/compchess/programming/0x88.htm) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland")
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Thompson and Kittinger at 6th World Computer Chess Championship in Edmonton, Alberta](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdd6cd9), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") 1989 from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Echecs Electroniques pour Tous - Programmeurs](http://pagesperso-orange.fr/Eric.Terrien/page4/page2/page2.html) (French)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PSH](http://www.schach-computer.info/wiki/index.php/PSH) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Historical Chessmaster ?](https://www.stmintz.com/ccc/index.php?id=422725) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), April 24, 2005
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Historical Chessmaster ?](https://www.stmintz.com/ccc/index.php?id=422644) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), April 24, 2005
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462584&t=43447) by Dave Kittinger, [CCC](CCC "CCC"), April 25, 2012
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Power Chess from Wikipedia](https://en.wikipedia.org/wiki/Power_Chess)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [USCF Chess for Windows (1998) - MobyGames](http://www.mobygames.com/game/uscf-chess)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Hoyle Majestic Chess Review - GameSpot.com](http://www.gamespot.com/hoyle-majestic-chess/reviews/hoyle-majestic-chess-review-6074888/)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Disney's Aladdin Chess Adventures for Windows (2004) - MobyGames](http://www.mobygames.com/game/disneys-aladdin-chess-adventures)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [0x88 Move Generation](http://web.archive.org/web/20070716111804/www.brucemo.com/compchess/programming/0x88.htm) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland")
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Thompson and Kittinger at 6th World Computer Chess Championship in Edmonton, Alberta](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdd6cd9), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") 1989 from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](People "People")**
 

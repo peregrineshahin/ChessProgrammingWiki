@@ -44,8 +44,8 @@ The **Advances in Computer Chess 3** conference was held at [Imperial College](h
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Imperial College London](https://en.wikipedia.org/wiki/File:ImperialCollegeLondon.jpg), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1981**). *Progress in Computer Chess.* [AISB Quarterly](http://www.aisb.org.uk/aisbq/qarchive.shtml), reprinted in [ICCA Newsletter, Vol. 4. No. 3](ICGA_Journal#4_3 "ICGA Journal"), [pdf](https://pure.uvt.nl/portal/files/1249111/PROGRESS.PDF)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Imperial College London](https://en.wikipedia.org/wiki/File:ImperialCollegeLondon.jpg), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1981**). *Progress in Computer Chess.* [AISB Quarterly](http://www.aisb.org.uk/aisbq/qarchive.shtml), reprinted in [ICCA Newsletter, Vol. 4. No. 3](ICGA_Journal#4_3 "ICGA Journal"), [pdf](https://pure.uvt.nl/portal/files/1249111/PROGRESS.PDF)
 
 **[Up one Level](Conferences "Conferences")**
 

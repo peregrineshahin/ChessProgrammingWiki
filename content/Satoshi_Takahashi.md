@@ -34,8 +34,8 @@ and in the field of education, the [manga](https://en.wikipedia.org/wiki/Manga) 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [TAKAHASHI Satoshi | Profile | Tokyo University of Science](http://www.tus.ac.jp/en/fac/p/index.php?6d1a)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Satoshi Takahashi](https://dblp.uni-trier.de/pers/hd/t/Takahashi:Satoshi)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [TAKAHASHI Satoshi | Profile | Tokyo University of Science](http://www.tus.ac.jp/en/fac/p/index.php?6d1a)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Satoshi Takahashi](https://dblp.uni-trier.de/pers/hd/t/Takahashi:Satoshi)
 
 **[Up one Level](People "People")**
 

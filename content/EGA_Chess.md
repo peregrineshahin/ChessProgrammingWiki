@@ -23,11 +23,11 @@ EGA Chess Screen <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Robert Nisonoff, M. Stephanie Ricks (**1988**). *To Catch a King: East Meets West in the Game of Chess*. [PC Magazine](PC_Magazine "PC Magazine"), October 31, 1988, pp. 506
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *2nd U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1986, Fall/Winter Edition
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1988**). *U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1987-1988, Fall/Winter Edition
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Roy Keeley](index.php?title=Roy_Keeley&action=edit&redlink=1 "Roy Keeley (page does not exist)") (**1988**). *The 4th Annual U.S. Open Computer Chess Championship*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Image captured from Robert Nisonoff, M. Stephanie Ricks (**1988**). *To Catch a King: East Meets West in the Game of Chess*. [PC Magazine](PC_Magazine "PC Magazine"), October 31, 1988, pp. 506
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Robert Nisonoff, M. Stephanie Ricks (**1988**). *To Catch a King: East Meets West in the Game of Chess*. [PC Magazine](PC_Magazine "PC Magazine"), October 31, 1988, pp. 506
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *2nd U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1986, Fall/Winter Edition
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1988**). *U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1987-1988, Fall/Winter Edition
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Roy Keeley](index.php?title=Roy_Keeley&action=edit&redlink=1 "Roy Keeley (page does not exist)") (**1988**). *The 4th Annual U.S. Open Computer Chess Championship*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Image captured from Robert Nisonoff, M. Stephanie Ricks (**1988**). *To Catch a King: East Meets West in the Game of Chess*. [PC Magazine](PC_Magazine "PC Magazine"), October 31, 1988, pp. 506
 
 **[Up one Level](Engines "Engines")**
 

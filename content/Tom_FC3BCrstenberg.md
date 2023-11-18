@@ -53,17 +53,17 @@ As I had no longer the possibility to give adequate after-sales-service without 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tom Furstenberg | Facebook](https://www.facebook.com/tom.furstenberg)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Sorcerer's Apprentice from Wikipedia](https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice) about the poem by [Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Best chess books ever](http://susanpolgar.blogspot.com/2008/04/best-chess-books-ever.html) from [Susan Polgar's](https://en.wikipedia.org/wiki/Susan_Polgar) [Chess Daily Mews and Information](http://susanpolgar.blogspot.com/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CSVN Aegon 1991 site](http://www.csvn.nl/index.php?option=com_content&task=view&id=117&Itemid=50)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CSVN Aegon 1997 site](http://www.csvn.nl/index.php?option=com_content&task=view&id=123&Itemid=50)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Computerschaak pagina 2](http://www.csvnsupplementsite.nl/CSVNPAGINA2.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Photo from his former page skynet.be/fidelity/furstenberg - [David Bronstein](David_Bronstein "David Bronstein") and myself at the AEGON Human v. Computer tournament in Den Haag, 1991
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Quotes by Tom Fürstenberg from his former page skynet.be/fidelity/furstenberg
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [09-1981, 2. Mikrocomputer-Schachweltmeisterschaft in Travemünde und Hamburg](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1981,%202.%20Mikrocomputer-Schachweltmeisterschaft%20in%20Travemunde%20und%20Hamburg.pdf) (pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Sorcerer's Apprentice (Cadogan Chess Books) from amazon.com](https://www.amazon.com/Sorcerers-Apprentice-Cadogan-Chess-Books/dp/1857441516)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tom Furstenberg | Facebook](https://www.facebook.com/tom.furstenberg)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Sorcerer's Apprentice from Wikipedia](https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice) about the poem by [Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Best chess books ever](http://susanpolgar.blogspot.com/2008/04/best-chess-books-ever.html) from [Susan Polgar's](https://en.wikipedia.org/wiki/Susan_Polgar) [Chess Daily Mews and Information](http://susanpolgar.blogspot.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CSVN Aegon 1991 site](http://www.csvn.nl/index.php?option=com_content&task=view&id=117&Itemid=50)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CSVN Aegon 1997 site](http://www.csvn.nl/index.php?option=com_content&task=view&id=123&Itemid=50)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Computerschaak pagina 2](http://www.csvnsupplementsite.nl/CSVNPAGINA2.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Photo from his former page skynet.be/fidelity/furstenberg - [David Bronstein](David_Bronstein "David Bronstein") and myself at the AEGON Human v. Computer tournament in Den Haag, 1991
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Quotes by Tom Fürstenberg from his former page skynet.be/fidelity/furstenberg
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [09-1981, 2. Mikrocomputer-Schachweltmeisterschaft in Travemünde und Hamburg](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1981,%202.%20Mikrocomputer-Schachweltmeisterschaft%20in%20Travemunde%20und%20Hamburg.pdf) (pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Sorcerer's Apprentice (Cadogan Chess Books) from amazon.com](https://www.amazon.com/Sorcerers-Apprentice-Cadogan-Chess-Books/dp/1857441516)
 
 **[Up one level](People "People")**
 

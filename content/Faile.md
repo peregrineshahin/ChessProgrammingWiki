@@ -37,7 +37,7 @@ Faile uses a [12x12 mailbox](Mailbox "Mailbox") board representation plus [piece
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Why the name Faile?](https://www.stmintz.com/ccc/index.php?id=116786) by [Adrien Regimbald](Adrien_Regimbald "Adrien Regimbald"), [CCC](CCC "CCC"), June 28, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Why the name Faile?](https://www.stmintz.com/ccc/index.php?id=116786) by [Adrien Regimbald](Adrien_Regimbald "Adrien Regimbald"), [CCC](CCC "CCC"), June 28, 2000
 
 **[Up one Level](Engines "Engines")**
 

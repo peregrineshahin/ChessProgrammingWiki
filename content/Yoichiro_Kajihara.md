@@ -34,10 +34,10 @@ a Japanese [Shogi](Shogi "Shogi") player and computer scientist at [Shizuoka Uni
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jun Nagashima](Jun_Nagashima "Jun Nagashima") (**2007**). *Towards master-level play of Shogi*. Ph.D. thesis, Supervisor [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [JAIST](JAIST "JAIST"), [pdf](https://dspace.jaist.ac.jp/dspace/bitstream/10119/3565/3/034paper.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2001**). *Shotest wins Shogi tournament*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal"), pp. 187
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Yoichiro Kajihara](https://dblp.uni-trier.de/pers/hd/k/Kajihara:Yoichiro.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jun Nagashima](Jun_Nagashima "Jun Nagashima") (**2007**). *Towards master-level play of Shogi*. Ph.D. thesis, Supervisor [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [JAIST](JAIST "JAIST"), [pdf](https://dspace.jaist.ac.jp/dspace/bitstream/10119/3565/3/034paper.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2001**). *Shotest wins Shogi tournament*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal"), pp. 187
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Yoichiro Kajihara](https://dblp.uni-trier.de/pers/hd/k/Kajihara:Yoichiro.html)
 
 **[Up one level](People "People")**
 

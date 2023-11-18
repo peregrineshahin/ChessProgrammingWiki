@@ -33,11 +33,11 @@ a Taiwanese computer scientist at Department of Computer Science and [Informatio
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Ping-Hung Lin](Ping-Hung_Lin "Ping-Hung Lin") (**2008**). *NCTU6-Lite wins Connect6 tournament*. [ICGA Journal, Vol. 31, No. 4](ICGA_Journal#31_4 "ICGA Journal")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Publications of I-Chen Wu](http://java.csie.nctu.edu.tw/~icwu/publications.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DBLP: Hung-Hsuan Lin](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lin:Hung=Hsuan.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [TAAI Computer Game Tournaments](http://aigames.nctu.edu.tw/TAAI2011/eng/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Mathematics of Sudoku from Wikipedia](https://en.wikipedia.org/wiki/Mathematics_of_Sudoku)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Ping-Hung Lin](Ping-Hung_Lin "Ping-Hung Lin") (**2008**). *NCTU6-Lite wins Connect6 tournament*. [ICGA Journal, Vol. 31, No. 4](ICGA_Journal#31_4 "ICGA Journal")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Publications of I-Chen Wu](http://java.csie.nctu.edu.tw/~icwu/publications.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DBLP: Hung-Hsuan Lin](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lin:Hung=Hsuan.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [TAAI Computer Game Tournaments](http://aigames.nctu.edu.tw/TAAI2011/eng/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mathematics of Sudoku from Wikipedia](https://en.wikipedia.org/wiki/Mathematics_of_Sudoku)
 
 **[Up one Level](People "People")**
 

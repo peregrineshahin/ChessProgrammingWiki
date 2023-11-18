@@ -67,11 +67,11 @@ Rxg3 56.Kf2 h4 57.Ke2 h3 58.Kf2 h2 59.Bxg3 h1=Q 60.Be5 Qf3+ 61.Ke1 Qd3 62.Kf2 Qd
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Compressed Logo (9KB) captured from [Clubfoot/Clubfoot-Logo.png at master · zd3nik](https://github.com/zd3nik/Clubfoot/blob/master/Clubfoot-Logo.png) (415 KB)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [zd3nik/SenjoUCIAdapter · GitHub](https://github.com/zd3nik/SenjoUCIAdapter)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Clubfoot source code on github.](https://github.com/zd3nik/Clubfoot)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Clubfoot (UCI) by Shawn Chidester](http://www.talkchess.com/forum/viewtopic.php?t=55584&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), March 10, 2015
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Clubfoot source code on github](https://github.com/zd3nik/Clubfoot)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Compressed Logo (9KB) captured from [Clubfoot/Clubfoot-Logo.png at master · zd3nik](https://github.com/zd3nik/Clubfoot/blob/master/Clubfoot-Logo.png) (415 KB)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [zd3nik/SenjoUCIAdapter · GitHub](https://github.com/zd3nik/SenjoUCIAdapter)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Clubfoot source code on github.](https://github.com/zd3nik/Clubfoot)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Clubfoot (UCI) by Shawn Chidester](http://www.talkchess.com/forum/viewtopic.php?t=55584&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), March 10, 2015
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Clubfoot source code on github](https://github.com/zd3nik/Clubfoot)
 
 **[Up one Level](Engines "Engines")**
 

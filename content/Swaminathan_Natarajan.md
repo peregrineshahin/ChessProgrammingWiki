@@ -38,8 +38,8 @@ an Indian chess player <a id="cite-note-1" href="#cite-ref-1">[1]</a>, computer 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Authors - Strategic Test Suite](https://sites.google.com/site/strategictestsuite/authors)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Strategic Test Suite](https://sites.google.com/site/strategictestsuite/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Authors - Strategic Test Suite](https://sites.google.com/site/strategictestsuite/authors)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Strategic Test Suite](https://sites.google.com/site/strategictestsuite/)
 
 **[Up one level](People "People")**
 

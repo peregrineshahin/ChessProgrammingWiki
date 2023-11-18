@@ -59,9 +59,9 @@ Crabby gets its name from the Rust mascot, Ferris the Crab <a id="cite-note-2" h
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [rust_memes/ferris_happy.jpg at master · rochacbruno/rust_memes · GitHub](https://github.com/rochacbruno/rust_memes/blob/master/img/ferris_happy.jpg) by [Bruno Rocha](https://github.com/rochacbruno)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Crabby/README.md at master · Johnson-A/Crabby · GitHub](https://github.com/Johnson-A/Crabby/blob/master/README.md)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Features from [Crabby/README.md at master · Johnson-A/Crabby · GitHub](https://github.com/Johnson-A/Crabby/blob/master/README.md) and the sources [Crabby/src at master · Johnson-A/Crabby · GitHub](https://github.com/Johnson-A/Crabby/tree/master/src)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [rust_memes/ferris_happy.jpg at master · rochacbruno/rust_memes · GitHub](https://github.com/rochacbruno/rust_memes/blob/master/img/ferris_happy.jpg) by [Bruno Rocha](https://github.com/rochacbruno)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Crabby/README.md at master · Johnson-A/Crabby · GitHub](https://github.com/Johnson-A/Crabby/blob/master/README.md)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Features from [Crabby/README.md at master · Johnson-A/Crabby · GitHub](https://github.com/Johnson-A/Crabby/blob/master/README.md) and the sources [Crabby/src at master · Johnson-A/Crabby · GitHub](https://github.com/Johnson-A/Crabby/tree/master/src)
 
 **[Up one Level](Engines "Engines")**
 

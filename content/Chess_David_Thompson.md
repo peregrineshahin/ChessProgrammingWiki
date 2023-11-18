@@ -35,12 +35,12 @@ while the Acornsoft Chess brand for the BBC Micro was continued with a [program]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess - Acorn Atom - Games Database](https://www.gamesdatabase.org/game/acorn-atom/chess)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess - Complete BBC Games Archive](http://bbcmicro.co.uk/game.php?id=955)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess (V2.1) - Complete BBC Games Archive](http://bbcmicro.co.uk/game.php?id=924)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess – 1988 Superior Software - Games That Weren't - GTW64 - home of unreleased Commodore 64 games](http://www.gamesthatwerent.com/gtw64/chess/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess - The Oric Site](http://www.oric.org/software/chess__ijk_-59.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chess - Complete BBC Games Archive](http://bbcmicro.co.uk/game.php?id=955)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess - Acorn Atom - Games Database](https://www.gamesdatabase.org/game/acorn-atom/chess)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess - Complete BBC Games Archive](http://bbcmicro.co.uk/game.php?id=955)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess (V2.1) - Complete BBC Games Archive](http://bbcmicro.co.uk/game.php?id=924)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess – 1988 Superior Software - Games That Weren't - GTW64 - home of unreleased Commodore 64 games](http://www.gamesthatwerent.com/gtw64/chess/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess - The Oric Site](http://www.oric.org/software/chess__ijk_-59.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chess - Complete BBC Games Archive](http://bbcmicro.co.uk/game.php?id=955)
 
 **[Up one Level](Engines "Engines")**
 

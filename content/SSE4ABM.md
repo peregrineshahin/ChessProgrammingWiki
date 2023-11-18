@@ -157,9 +157,9 @@ The two important instructions work on general purpose registers. [Leading Zero 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [PCMPESTRI — Packed Compare Explicit Length Strings, Return Index](http://www.felixcloutier.com/x86/PCMPESTRI.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MSDN - Streaming SIMD Extensions 4 Instructions](http://msdn.microsoft.com/en-us/library/bb892950.aspx), 2.3 SSE4.2 INSTRUCTION SET, 2.3.3. Application-Targeted Accelerator Instructions
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Application Targeted Accelerators Intrinsics](https://software.intel.com/en-us/node/524195)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [PCMPESTRI — Packed Compare Explicit Length Strings, Return Index](http://www.felixcloutier.com/x86/PCMPESTRI.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MSDN - Streaming SIMD Extensions 4 Instructions](http://msdn.microsoft.com/en-us/library/bb892950.aspx), 2.3 SSE4.2 INSTRUCTION SET, 2.3.3. Application-Targeted Accelerator Instructions
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Application Targeted Accelerators Intrinsics](https://software.intel.com/en-us/node/524195)
 
 **[Up one Level](X86 "X86")**
 

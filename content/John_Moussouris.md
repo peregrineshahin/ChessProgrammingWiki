@@ -38,10 +38,10 @@ He was an [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not ex
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John Moussouris | LinkedIn](https://www.linkedin.com/in/john-moussouris-3402a230/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About Us: VenEarth Group LLC - John Moussouris](http://www.venearth.com/about_us/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> John Moussouris, [Jack Holloway](Jack_Holloway "Jack Holloway"), [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt") (**1979**). *[CHEOPS: A Chess-orientated Processing System](https://dl.acm.org/citation.cfm?id=61701.67028)*. [Machine Intelligence 9](http://www.doc.ic.ac.uk/%7Eshm/MI/mi9.html), reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: John P. Moussouris](https://dblp.org/pers/hd/m/Moussouris:John_P=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John Moussouris | LinkedIn](https://www.linkedin.com/in/john-moussouris-3402a230/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About Us: VenEarth Group LLC - John Moussouris](http://www.venearth.com/about_us/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> John Moussouris, [Jack Holloway](Jack_Holloway "Jack Holloway"), [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt") (**1979**). *[CHEOPS: A Chess-orientated Processing System](https://dl.acm.org/citation.cfm?id=61701.67028)*. [Machine Intelligence 9](http://www.doc.ic.ac.uk/%7Eshm/MI/mi9.html), reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: John P. Moussouris](https://dblp.org/pers/hd/m/Moussouris:John_P=)
 
 **[Up one level](People "People")**
 

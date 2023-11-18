@@ -144,9 +144,9 @@ int Eval()
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> firstchess.png from [Index of /cc65](http://devwebcl.atarionline.pl/cc65/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [FirstChess - a crazy project!](https://www.stmintz.com/ccc/index.php?id=242289) by [Pham Hong Nguyen](Pham_Hong_Nguyen "Pham Hong Nguyen"), [CCC](CCC "CCC"), July 24, 2002
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> oups, better replace "unsigned char" by "int"
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> firstchess.png from [Index of /cc65](http://devwebcl.atarionline.pl/cc65/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [FirstChess - a crazy project!](https://www.stmintz.com/ccc/index.php?id=242289) by [Pham Hong Nguyen](Pham_Hong_Nguyen "Pham Hong Nguyen"), [CCC](CCC "CCC"), July 24, 2002
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> oups, better replace "unsigned char" by "int"
 
 **[Up one level](Engines "Engines")**
 

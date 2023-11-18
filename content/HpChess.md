@@ -30,9 +30,9 @@ title: HpChess
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [HpChess 1.0 for HP48GX](http://www.fzibi.com/hp48/hpchess.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gilbert Fernandes](https://www.hpcalc.org/authors/706), [Eric Rechlin](https://www.hpcalc.org/authors/1) (**2005**). *[Introduction to Saturn Assembly Language](https://www.hpcalc.org/details/1693)*. Third edition, Part of the [HP Calculator Archive](https://www.hpcalc.org/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pharaon - Some Background](http://www.fzibi.com/pharaon.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [HpChess 1.0 for HP48GX](http://www.fzibi.com/hp48/hpchess.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gilbert Fernandes](https://www.hpcalc.org/authors/706), [Eric Rechlin](https://www.hpcalc.org/authors/1) (**2005**). *[Introduction to Saturn Assembly Language](https://www.hpcalc.org/details/1693)*. Third edition, Part of the [HP Calculator Archive](https://www.hpcalc.org/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pharaon - Some Background](http://www.fzibi.com/pharaon.htm)
 
 **[Up one level](Engines "Engines")**
 

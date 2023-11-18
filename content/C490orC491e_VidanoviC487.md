@@ -38,16 +38,16 @@ In 1999 Djordje reported about the [Nato Cluster bombing of Niš](https://en.wik
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image courtesy Đorđe Vidanović, February 2017
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rybka opening book (Paderborn and beyond)](https://www.stmintz.com/ccc/index.php?id=473907) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), December 27, 2005
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Rybka 1.0 Beta FAQ](http://www.rybkachess.com/deutsch/index.php?auswahl=FAQ+zur+Beta)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Achilles Home](http://chess.elfak.ni.ac.yu/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Professor Djordje Vidanovic from Nis](http://web.peacelink.it/kossovo/lettere/vidanovic_eng.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [DBLP: Djordje Vidanovic](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/v/Vidanovic:Djordje.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [A New Approach to Draw Detection by Move Repetition](https://www.stmintz.com/ccc/index.php?id=379648) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), July 29, 2004
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Draw Detection by Move Repetition Procedure - Comments](https://www.stmintz.com/ccc/index.php?id=380201) by Đorđe Vidanović, [CCC](CCC "CCC"), August 01, 2004
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Thomas Kuhn](Mathematician#ThomasKuhn "Mathematician")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Noam Chomsky](Mathematician#Chomsky "Mathematician")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image courtesy Đorđe Vidanović, February 2017
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rybka opening book (Paderborn and beyond)](https://www.stmintz.com/ccc/index.php?id=473907) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), December 27, 2005
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rybka 1.0 Beta FAQ](http://www.rybkachess.com/deutsch/index.php?auswahl=FAQ+zur+Beta)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Achilles Home](http://chess.elfak.ni.ac.yu/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Professor Djordje Vidanovic from Nis](http://web.peacelink.it/kossovo/lettere/vidanovic_eng.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [DBLP: Djordje Vidanovic](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/v/Vidanovic:Djordje.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [A New Approach to Draw Detection by Move Repetition](https://www.stmintz.com/ccc/index.php?id=379648) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), July 29, 2004
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Draw Detection by Move Repetition Procedure - Comments](https://www.stmintz.com/ccc/index.php?id=380201) by Đorđe Vidanović, [CCC](CCC "CCC"), August 01, 2004
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Thomas Kuhn](Mathematician#ThomasKuhn "Mathematician")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Noam Chomsky](Mathematician#Chomsky "Mathematician")
 
 **[Up one level](People "People")**
 

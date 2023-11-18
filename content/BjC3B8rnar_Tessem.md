@@ -36,10 +36,10 @@ A Framework for long-term planning in computer chess is sketched and as an examp
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bjørnar Tessem :: UiB](https://www.uib.no/personer/Bjornar.Tessem)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Andreas L. Opdahl](Andreas_L._Opdahl "Andreas L. Opdahl"), Bjørnar Tessem (**1994**). *Long-Term Planning in Computer Chess*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Bjørnar Tessem](https://dblp.uni-trier.de/pid/84/6562.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bjørnar Tessem :: UiB](https://www.uib.no/personer/Bjornar.Tessem)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Andreas L. Opdahl](Andreas_L._Opdahl "Andreas L. Opdahl"), Bjørnar Tessem (**1994**). *Long-Term Planning in Computer Chess*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Bjørnar Tessem](https://dblp.uni-trier.de/pid/84/6562.html)
 
 **[Up one level](People "People")**
 

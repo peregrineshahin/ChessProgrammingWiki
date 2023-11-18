@@ -60,10 +60,10 @@ title: University of Toronto
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [University College](https://en.wikipedia.org/wiki/University_College,_Toronto), south side, [University of Toronto](https://en.wikipedia.org/wiki/University_of_Toronto), [Photo](https://commons.wikimedia.org/wiki/File:Uoft_universitycollege.jpg) by [Jphillips23](https://commons.wikimedia.org/wiki/User_talk:Jphillips23), September 30, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [King of Kings 1.96 Released](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=34297) by [Koundinya Veluri](index.php?title=Koundinya_Veluri&action=edit&redlink=1 "Koundinya Veluri (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 31, 2001
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Computerised Chess Games](http://groups.google.com/group/rec.games.chess.computer/msg/10c8fd07bc7f5d9a) by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 07, 1997
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [University of Toronto Mississauga](https://en.wikipedia.org/wiki/University_of_Toronto_Mississauga)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [University College](https://en.wikipedia.org/wiki/University_College,_Toronto), south side, [University of Toronto](https://en.wikipedia.org/wiki/University_of_Toronto), [Photo](https://commons.wikimedia.org/wiki/File:Uoft_universitycollege.jpg) by [Jphillips23](https://commons.wikimedia.org/wiki/User_talk:Jphillips23), September 30, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [King of Kings 1.96 Released](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=34297) by [Koundinya Veluri](index.php?title=Koundinya_Veluri&action=edit&redlink=1 "Koundinya Veluri (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 31, 2001
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Computerised Chess Games](http://groups.google.com/group/rec.games.chess.computer/msg/10c8fd07bc7f5d9a) by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 07, 1997
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [University of Toronto Mississauga](https://en.wikipedia.org/wiki/University_of_Toronto_Mississauga)
 
 **[Up one Level](Organizations "Organizations")**
 

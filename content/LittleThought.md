@@ -92,10 +92,10 @@ Ke7 28.dxe6 fxe6 29.Qf5 e5 30.dxe5 Bxa3 31.Qg5+ 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Little thought No. 2 detail](https://commons.wikimedia.org/wiki/File:WLANL_-_Marjolein_Benard_-_Little_thought_No._2,_Qiangli_Liang_(2005)_detail.jpg) by [Qiangli Liang](index.php?title=Category:Qiangli_Liang&action=edit&redlink=1 "Category:Qiangli Liang (page does not exist)"), from [Little thought No. 2, Qiangli Liang (2005) detail | Flickr - Fotosharing!](https://www.flickr.com/photos/39373836@N06/3673214726/) by [Marjolein Benard](https://www.flickr.com/people/39373836@N06), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Returning PV from hash table](https://www.stmintz.com/ccc/index.php?id=277422) by [Nathan Thom](Nathan_Thom "Nathan Thom"), [CCC](CCC "CCC"), January 15, 2003
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kimien Software - LittleThought Chess Software - Change History](http://www.kimiensoftware.com/software/chess/littlethought_history)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [LittleThought Chess Software](http://www.kimiensoftware.com/software/chess/littlethought)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Little thought No. 2 detail](https://commons.wikimedia.org/wiki/File:WLANL_-_Marjolein_Benard_-_Little_thought_No._2,_Qiangli_Liang_(2005)_detail.jpg) by [Qiangli Liang](index.php?title=Category:Qiangli_Liang&action=edit&redlink=1 "Category:Qiangli Liang (page does not exist)"), from [Little thought No. 2, Qiangli Liang (2005) detail | Flickr - Fotosharing!](https://www.flickr.com/photos/39373836@N06/3673214726/) by [Marjolein Benard](https://www.flickr.com/people/39373836@N06), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Returning PV from hash table](https://www.stmintz.com/ccc/index.php?id=277422) by [Nathan Thom](Nathan_Thom "Nathan Thom"), [CCC](CCC "CCC"), January 15, 2003
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kimien Software - LittleThought Chess Software - Change History](http://www.kimiensoftware.com/software/chess/littlethought_history)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [LittleThought Chess Software](http://www.kimiensoftware.com/software/chess/littlethought)
 
 **[Up one Level](Engines "Engines")**
 

@@ -92,7 +92,7 @@ for (sq = 0; sq < 64; sq += ++sq & 4)  {
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Demotivational Posters & Images](http://bestdemotivationalposters.com/tag/chess/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Demotivational Posters & Images](http://bestdemotivationalposters.com/tag/chess/)
 
 **[Up one Level](Chess_Position "Chess Position")**
 

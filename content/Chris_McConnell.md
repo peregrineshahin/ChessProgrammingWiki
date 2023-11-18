@@ -26,8 +26,8 @@ At CMU as P.D. Student, Chris McConnell worked with [Berliner](Hans_Berliner "Ha
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chris McConnell's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=195)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Chris McConnell](https://dblp.uni-trier.de/pers/hd/m/McConnell:Chris.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chris McConnell's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=195)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Chris McConnell](https://dblp.uni-trier.de/pers/hd/m/McConnell:Chris.html)
 
 ## What links here?
 

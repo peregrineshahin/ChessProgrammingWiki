@@ -57,12 +57,12 @@ an American computer scientist and programmer from [Palo Alto, California](https
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tim Mann's Home Page](http://tim-mann.org/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [rec.games.chess.computer GNU Chess and XBoard: Frequently Asked Questions](http://groups.google.de/group/rec.games.chess.computer/browse_frm/thread/ede2b5c699e38334?)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), Tim Mann (**2002**). *[A lock-less transposition table implementation for parallel search chess engines](http://www.craftychess.com/hyatt/hashing.html).* [ICCA Journal, Vol. 25, No. 1](ICGA_Journal#25_1 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [XBoard Project History](http://tim-mann.org/history.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Deep Thought from Tim Mann's Chess Pages](http://www.tim-mann.org/deepthought.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [3 interviews about engine protocols with T. Mann, R. Hyatt and M. Blume](https://www.stmintz.com/ccc/index.php?id=245615) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 15, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tim Mann's Home Page](http://tim-mann.org/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [rec.games.chess.computer GNU Chess and XBoard: Frequently Asked Questions](http://groups.google.de/group/rec.games.chess.computer/browse_frm/thread/ede2b5c699e38334?)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), Tim Mann (**2002**). *[A lock-less transposition table implementation for parallel search chess engines](http://www.craftychess.com/hyatt/hashing.html).* [ICCA Journal, Vol. 25, No. 1](ICGA_Journal#25_1 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [XBoard Project History](http://tim-mann.org/history.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Deep Thought from Tim Mann's Chess Pages](http://www.tim-mann.org/deepthought.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [3 interviews about engine protocols with T. Mann, R. Hyatt and M. Blume](https://www.stmintz.com/ccc/index.php?id=245615) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 15, 2002
 
 **[Up one level](People "People")**
 

@@ -140,23 +140,23 @@ ChessGenius for Android is a chess playing program for phones and tablets with [
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eric Hallsworth](Eric_Hallsworth "Eric Hallsworth") (**1992**). *Chess Genius*. [Selective Search](Selective_Search "Selective Search") 43, pp. 7, [pdf](http://www.chesscomputeruk.com/SS_43.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ChessGenius Classic 7.0 - The Chess Program that beat Kasparov!](http://pcsol-sage.tripod.com/pages/chess.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Staff (**1995**). *An Interview with [Richard Lang](Richard_Lang "Richard Lang")*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 63
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ChessGenius Classic 7.0 - The Chess Program that beat Kasparov!](http://pcsol-sage.tripod.com/pages/chess.htm)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Richard Lang](Richard_Lang "Richard Lang") (**1995**). *Chess Genius 4*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports"), pp. 80
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Schachclub Leinzell - Schach + PC - Shredder 5, Teil 1](http://scleinzell.schachvereine.de/p_spielprogramme/shredder5.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ChessGenius Classic 7.0 - The Chess Program that beat Kasparov!](http://pcsol-sage.tripod.com/pages/chess.htm)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Chess Genius for iPhone, iPod touch, and iPad on the iTunes App Store](http://itunes.apple.com/en/app/chess-genius/id294631172?mt=8)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [GM Magazine: Vol. 12 Intel Grand Prix London 1994 {DVD}](http://www.ukgamesshop.com/Merchant2/merchant.mvc?Screen=PROD&Product_Code=chdvgmv008&Category_Code=chdvmag) by [GM Daniel King](http://www.danielking.biz/)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Matches](http://www.top-5000.nl/matches/1994.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Intel Rapid Chess Grand Prix 1994 - London](http://www.chessgames.com/perl/chesscollection?cid=1017131) from [chessgames.com](http://www.chessgames.com/index.html)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Garry Kasparov vs Chess Genius (1994)](http://www.chessgames.com/perl/chessgame?gid=1070710) from [chessgames.com](http://www.chessgames.com/index.html)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [ChessGenius - Famous game - Wikipedia](https://en.wikipedia.org/wiki/ChessGenius#Famous_game)
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> \[Kasparov, Garry 2805 - Genius 3, Intel World Chess Grand Prix London (1) 1994 D23, 0-1 [Hertneck,G](https://www.schach-computer.info/wiki/games/genius_3_kasparov_1.html)\] from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [ChessGenius for Android](http://www.chessgenius.com/android/index.html)
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Re: Farewell of chess programmers](https://www.stmintz.com/ccc/index.php?id=449629) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [CCC](CCC "CCC"), September 15, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eric Hallsworth](Eric_Hallsworth "Eric Hallsworth") (**1992**). *Chess Genius*. [Selective Search](Selective_Search "Selective Search") 43, pp. 7, [pdf](http://www.chesscomputeruk.com/SS_43.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ChessGenius Classic 7.0 - The Chess Program that beat Kasparov!](http://pcsol-sage.tripod.com/pages/chess.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Staff (**1995**). *An Interview with [Richard Lang](Richard_Lang "Richard Lang")*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 63
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ChessGenius Classic 7.0 - The Chess Program that beat Kasparov!](http://pcsol-sage.tripod.com/pages/chess.htm)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Richard Lang](Richard_Lang "Richard Lang") (**1995**). *Chess Genius 4*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports"), pp. 80
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Schachclub Leinzell - Schach + PC - Shredder 5, Teil 1](http://scleinzell.schachvereine.de/p_spielprogramme/shredder5.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ChessGenius Classic 7.0 - The Chess Program that beat Kasparov!](http://pcsol-sage.tripod.com/pages/chess.htm)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chess Genius for iPhone, iPod touch, and iPad on the iTunes App Store](http://itunes.apple.com/en/app/chess-genius/id294631172?mt=8)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [GM Magazine: Vol. 12 Intel Grand Prix London 1994 {DVD}](http://www.ukgamesshop.com/Merchant2/merchant.mvc?Screen=PROD&Product_Code=chdvgmv008&Category_Code=chdvmag) by [GM Daniel King](http://www.danielking.biz/)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Matches](http://www.top-5000.nl/matches/1994.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Intel Rapid Chess Grand Prix 1994 - London](http://www.chessgames.com/perl/chesscollection?cid=1017131) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Garry Kasparov vs Chess Genius (1994)](http://www.chessgames.com/perl/chessgame?gid=1070710) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [ChessGenius - Famous game - Wikipedia](https://en.wikipedia.org/wiki/ChessGenius#Famous_game)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> \[Kasparov, Garry 2805 - Genius 3, Intel World Chess Grand Prix London (1) 1994 D23, 0-1 [Hertneck,G](https://www.schach-computer.info/wiki/games/genius_3_kasparov_1.html)\] from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [ChessGenius for Android](http://www.chessgenius.com/android/index.html)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Re: Farewell of chess programmers](https://www.stmintz.com/ccc/index.php?id=449629) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [CCC](CCC "CCC"), September 15, 2005
 
 **[Up one Level](Engines "Engines")**
 

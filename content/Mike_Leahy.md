@@ -36,11 +36,11 @@ incorporating [Richard Lang's](Richard_Lang "Richard Lang") [Chess Genius](Chess
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mike Leahy (Bookup) - Chess Profile](https://www.chess.com/member/bookup) - [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mike, The Database Man – Bookup.com](https://www.bookup.com/contact-us/mike-the-database-man/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bobby Fischer Teaches Chess : Mission Studios : Free Download, Borrow, and Streaming](https://archive.org/details/bobby-fischer-teaches-chess), [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Bobby Fischer Teaches Chess for DOS (1994)](https://www.mobygames.com/game/dos/bobby-fischer-teaches-chess), [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Bobby Fischer Teaches Chess](https://groups.google.com/d/msg/rec.games.chess/t9Ns0CTlwBs/_PR5FKlb_FMJ) by Mike Leahy, [rgc](Computer_Chess_Forums "Computer Chess Forums"), March 09, 1995
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mike Leahy (Bookup) - Chess Profile](https://www.chess.com/member/bookup) - [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mike, The Database Man – Bookup.com](https://www.bookup.com/contact-us/mike-the-database-man/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bobby Fischer Teaches Chess : Mission Studios : Free Download, Borrow, and Streaming](https://archive.org/details/bobby-fischer-teaches-chess), [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Bobby Fischer Teaches Chess for DOS (1994)](https://www.mobygames.com/game/dos/bobby-fischer-teaches-chess), [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Bobby Fischer Teaches Chess](https://groups.google.com/d/msg/rec.games.chess/t9Ns0CTlwBs/_PR5FKlb_FMJ) by Mike Leahy, [rgc](Computer_Chess_Forums "Computer Chess Forums"), March 09, 1995
 
 **[Up one level](People "People")**
 

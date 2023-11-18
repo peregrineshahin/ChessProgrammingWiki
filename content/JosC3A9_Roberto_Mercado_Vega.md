@@ -24,9 +24,9 @@ Along with [Zvi Retchkiman Königsberg](Zvi_Retchkiman_K%C3%B6nigsberg "Zvi Retc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Consulta de Cédulas Profesionales - José Roberto Mercado Vega](https://www.buholegal.com/5167142/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> José Roberto Mercado Vega, [Zvi Retchkiman Königsberg](Zvi_Retchkiman_K%C3%B6nigsberg "Zvi Retchkiman Königsberg") (**2009**). *[Modeling the Game of Arimaa with Linguistic Geometry](https://dl.acm.org/doi/10.5555/1719293.1719355)*. [CIG'09](https://dl.acm.org/doi/proceedings/10.5555/1719293), [pdf](http://arimaa.com/arimaa/papers/JoseVega/index.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: José Roberto Mercado Vega](https://dblp.org/pid/97/10073.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Consulta de Cédulas Profesionales - José Roberto Mercado Vega](https://www.buholegal.com/5167142/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> José Roberto Mercado Vega, [Zvi Retchkiman Königsberg](Zvi_Retchkiman_K%C3%B6nigsberg "Zvi Retchkiman Königsberg") (**2009**). *[Modeling the Game of Arimaa with Linguistic Geometry](https://dl.acm.org/doi/10.5555/1719293.1719355)*. [CIG'09](https://dl.acm.org/doi/proceedings/10.5555/1719293), [pdf](http://arimaa.com/arimaa/papers/JoseVega/index.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: José Roberto Mercado Vega](https://dblp.org/pid/97/10073.html)
 
 **[Up one level](People "People")**
 

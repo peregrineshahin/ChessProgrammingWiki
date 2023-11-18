@@ -94,17 +94,17 @@ is a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [zero-sum](http
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Arimaa - Rules from Wikipedia](https://en.wikipedia.org/wiki/Arimaa#Rules)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Arimaa Game Rules](http://arimaa.com/arimaa/learn/rulesIntro.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Omar Syed](Omar_Syed "Omar Syed") and [Aamir Syed](Aamir_Syed "Aamir Syed") (**2003**). *[Arimaa - A New Game Designed to be Difficult for Computers](http://arimaa.com/arimaa/papers/030801ICGA/)*. [ICGA Journal, Vol. 26, No. 2](ICGA_Journal#26_2 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Brian "Janzert" Haskin](index.php?title=Brian_Haskin&action=edit&redlink=1 "Brian Haskin (page does not exist)") (**2006**). [Arimaa Branching Factor](http://arimaa.janzert.com/bf_study/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The 2015 Arimaa Challenge](http://arimaa.com/arimaa/challenge/2015/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Arimaa - Academic Papers and Presentations](http://arimaa.com/arimaa/papers/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The Home Page of Linguistic Geometry](http://www.stilman-strategies.com/bstilman/lgmain.html) by [Boris Stilman](Boris_Stilman "Boris Stilman")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [thesis on eval function learning in Arimaa](http://www.talkchess.com/forum/viewtopic.php?t=58472) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), December 04, 2015
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Paper describing "Sharp" the program that won the Arimaa Challenge](https://www.game-ai-forum.org/viewtopic.php?f=2&t=83) by ddyer, [Game-AI Forum](Computer_Chess_Forums "Computer Chess Forums"), January 14, 2016
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> slightly adapted version of [Arimaa: Game Over?](http://www.kingpinchess.net/2015/07/arimaa-game-over/) by [Andy Lewis](index.php?title=Andy_Lewis&action=edit&redlink=1 "Andy Lewis (page does not exist)"), [Kingpin Chess Magazine](http://www.kingpinchess.net/), July 11, 2015
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a>  [Andy Lewis](index.php?title=Andy_Lewis&action=edit&redlink=1 "Andy Lewis (page does not exist)") (**2015**). *Game Over, Arimaa?* [ICGA Journal, Vol. 38, No. 1](ICGA_Journal#38_1 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Arimaa - Rules from Wikipedia](https://en.wikipedia.org/wiki/Arimaa#Rules)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Arimaa Game Rules](http://arimaa.com/arimaa/learn/rulesIntro.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Omar Syed](Omar_Syed "Omar Syed") and [Aamir Syed](Aamir_Syed "Aamir Syed") (**2003**). *[Arimaa - A New Game Designed to be Difficult for Computers](http://arimaa.com/arimaa/papers/030801ICGA/)*. [ICGA Journal, Vol. 26, No. 2](ICGA_Journal#26_2 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Brian "Janzert" Haskin](index.php?title=Brian_Haskin&action=edit&redlink=1 "Brian Haskin (page does not exist)") (**2006**). [Arimaa Branching Factor](http://arimaa.janzert.com/bf_study/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The 2015 Arimaa Challenge](http://arimaa.com/arimaa/challenge/2015/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Arimaa - Academic Papers and Presentations](http://arimaa.com/arimaa/papers/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Home Page of Linguistic Geometry](http://www.stilman-strategies.com/bstilman/lgmain.html) by [Boris Stilman](Boris_Stilman "Boris Stilman")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [thesis on eval function learning in Arimaa](http://www.talkchess.com/forum/viewtopic.php?t=58472) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), December 04, 2015
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Paper describing "Sharp" the program that won the Arimaa Challenge](https://www.game-ai-forum.org/viewtopic.php?f=2&t=83) by ddyer, [Game-AI Forum](Computer_Chess_Forums "Computer Chess Forums"), January 14, 2016
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> slightly adapted version of [Arimaa: Game Over?](http://www.kingpinchess.net/2015/07/arimaa-game-over/) by [Andy Lewis](index.php?title=Andy_Lewis&action=edit&redlink=1 "Andy Lewis (page does not exist)"), [Kingpin Chess Magazine](http://www.kingpinchess.net/), July 11, 2015
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a>  [Andy Lewis](index.php?title=Andy_Lewis&action=edit&redlink=1 "Andy Lewis (page does not exist)") (**2015**). *Game Over, Arimaa?* [ICGA Journal, Vol. 38, No. 1](ICGA_Journal#38_1 "ICGA Journal")
 
 **[Up one Level](Games "Games")**
 

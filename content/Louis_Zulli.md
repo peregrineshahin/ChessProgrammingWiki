@@ -84,14 +84,14 @@ His none professional interests include chess and chess programming, in particul
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Louis Zulli · Math · Lafayette College](https://math.lafayette.edu/people/louis-zulli/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Louis Kauffman](Mathematician#LouisKauffman "Mathematician") and [Vaughan Jones](Mathematician#VaughanJones "Mathematician")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Louis Zulli (**1993**). *[A Matrix for Computing the Jones Polynomial of a Knot](https://dl.acm.org/citation.cfm?id=920418)*. Ph.D. thesis, advisor [Allen Hatcher](Mathematician#AllenHatcher "Mathematician"), [Cornell University](https://en.wikipedia.org/wiki/Cornell_University)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Feeling like Morphy](http://www.talkchess.com/forum/viewtopic.php?t=47106) by Louis Zulli, [CCC](CCC "CCC"), February 03, 2013
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Thanks](http://www.talkchess.com/forum/viewtopic.php?t=52697&start=9) by Louis Zulli, [CCC](CCC "CCC"), June 20, 2014
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Louis Zulli, Lafayette College, Department of Mathematics - ResearchGate](https://www.researchgate.net/profile/Louis_Zulli)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Louis Zulli](https://dblp.uni-trier.de/pers/hd/z/Zulli:Louis)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Shrestha\_LinearAlgebra(Final).pdf](https://web.williams.edu/Mathematics/sjmiller/public_html/hudson/Shrestha_LinearAlgebra(Final).pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Louis Zulli · Math · Lafayette College](https://math.lafayette.edu/people/louis-zulli/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Louis Kauffman](Mathematician#LouisKauffman "Mathematician") and [Vaughan Jones](Mathematician#VaughanJones "Mathematician")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Louis Zulli (**1993**). *[A Matrix for Computing the Jones Polynomial of a Knot](https://dl.acm.org/citation.cfm?id=920418)*. Ph.D. thesis, advisor [Allen Hatcher](Mathematician#AllenHatcher "Mathematician"), [Cornell University](https://en.wikipedia.org/wiki/Cornell_University)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Feeling like Morphy](http://www.talkchess.com/forum/viewtopic.php?t=47106) by Louis Zulli, [CCC](CCC "CCC"), February 03, 2013
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Thanks](http://www.talkchess.com/forum/viewtopic.php?t=52697&start=9) by Louis Zulli, [CCC](CCC "CCC"), June 20, 2014
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Louis Zulli, Lafayette College, Department of Mathematics - ResearchGate](https://www.researchgate.net/profile/Louis_Zulli)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Louis Zulli](https://dblp.uni-trier.de/pers/hd/z/Zulli:Louis)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Shrestha\_LinearAlgebra(Final).pdf](https://web.williams.edu/Mathematics/sjmiller/public_html/hudson/Shrestha_LinearAlgebra(Final).pdf)
 
 **[Up one level](People "People")**
 

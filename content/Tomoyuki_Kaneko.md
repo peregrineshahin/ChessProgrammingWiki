@@ -84,14 +84,14 @@ a Japanese computer scientist, and associate professor at Graduate School of the
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tomoyuki Kaneko - Homepage](http://www.graco.c.u-tokyo.ac.jp/~kaneko/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GPSShogi](http://gps.tanaka.ecc.u-tokyo.ac.jp/gpsshogi/index.php?GPSShogiEn)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hiroyuki Miura - 8-dan Professionals](http://www2.teu.ac.jp/gamelab/SHOGI/pro8dan.html#Miura) by [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computer shogi - Computers versus humans - Denou-sen (2013) - Wikipedia](https://en.wikipedia.org/wiki/Computer_shogi#Denou-sen_.282013.29)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Tomoyuki Kaneko - Selected Publications](http://www.graco.c.u-tokyo.ac.jp/~kaneko/papers/index.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Tomoyuki Kaneko](http://www.informatik.uni-trier.de/~ley/pers/hd/k/Kaneko:Tomoyuki.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [MMTO for evaluation learning](http://www.talkchess.com/forum/viewtopic.php?t=55084) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), January 25, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tomoyuki Kaneko - Homepage](http://www.graco.c.u-tokyo.ac.jp/~kaneko/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GPSShogi](http://gps.tanaka.ecc.u-tokyo.ac.jp/gpsshogi/index.php?GPSShogiEn)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hiroyuki Miura - 8-dan Professionals](http://www2.teu.ac.jp/gamelab/SHOGI/pro8dan.html#Miura) by [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computer shogi - Computers versus humans - Denou-sen (2013) - Wikipedia](https://en.wikipedia.org/wiki/Computer_shogi#Denou-sen_.282013.29)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tomoyuki Kaneko - Selected Publications](http://www.graco.c.u-tokyo.ac.jp/~kaneko/papers/index.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Tomoyuki Kaneko](http://www.informatik.uni-trier.de/~ley/pers/hd/k/Kaneko:Tomoyuki.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [MMTO for evaluation learning](http://www.talkchess.com/forum/viewtopic.php?t=55084) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), January 25, 2015
 
 **[Up one level](People "People")**
 

@@ -45,9 +45,9 @@ feat. [Miroslav Vitouš](Category:Miroslav_Vitou%C5%A1 "Category:Miroslav Vitou�
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Artillery battery from Wikipedia](https://en.wikipedia.org/wiki/Artillery_battery)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Die Drucksäule](http://www.schachfeld.de/f30/drucksaeule-7739/) (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1999**). *[The Evaluation of Material Imbalances](http://www.danheisman.com/evaluation-of-material-imbalances.html)*. (first published in [Chess Life](https://en.wikipedia.org/wiki/Chess_Life) March 1999, online version edited by [Dan Heisman](Dan_Heisman "Dan Heisman"))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Artillery battery from Wikipedia](https://en.wikipedia.org/wiki/Artillery_battery)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Die Drucksäule](http://www.schachfeld.de/f30/drucksaeule-7739/) (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1999**). *[The Evaluation of Material Imbalances](http://www.danheisman.com/evaluation-of-material-imbalances.html)*. (first published in [Chess Life](https://en.wikipedia.org/wiki/Chess_Life) March 1999, online version edited by [Dan Heisman](Dan_Heisman "Dan Heisman"))
 
 **[Up one Level](Tactics "Tactics")**
 

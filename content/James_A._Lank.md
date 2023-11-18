@@ -21,8 +21,8 @@ an American chess player and former chess programmer. In the early 80s, along wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Eleventh ACM's North American Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6cdeeb/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Twelfth ACM's North American Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6ce737/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Eleventh ACM's North American Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6cdeeb/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Twelfth ACM's North American Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6ce737/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](People "People")**
 

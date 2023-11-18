@@ -104,14 +104,14 @@ Nc6 41.Qg4 Rcc8 42.g6 Re7 43.h4 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SLIDE Klein Bottle Project by Nerius Landys and Shad Roundy](https://people.eecs.berkeley.edu/~ug/slide/gallery/kleinbottle/), [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley"), Spring 1999
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Who is Nexus?](https://www.stmintz.com/ccc/index.php?id=393098) by [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [CCC](CCC "CCC"), October 24, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Engines written in which programming language?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50192&p=190061) by [Andreas Herrmann](Andreas_Herrmann "Andreas Herrmann"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 01, 2009
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> personal communication of the editor with [Ralf Dörr](Ralf_D%C3%B6rr "Ralf Dörr") in 2004
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [2e prijs: Ralf Dörr en Norbert Esser auteurs van Nexus](https://old.csvn.nl/pics2004/nexus02.jpg), [24th Open Dutch Computer Chess Championship 2004 - Photo Gallery](http://old.csvn.nl/gallery21.html), [DOCCC 2004](DOCCC_2004 "DOCCC 2004")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: What is the opinion of Sjeng to the game Nexus-Isichess?](https://www.stmintz.com/ccc/index.php?id=392127) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), October 18, 2004
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=5)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Nexus - The King 1-0 (!)](https://www.stmintz.com/ccc/index.php?id=392894) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CCC](CCC "CCC"), October 23, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SLIDE Klein Bottle Project by Nerius Landys and Shad Roundy](https://people.eecs.berkeley.edu/~ug/slide/gallery/kleinbottle/), [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley"), Spring 1999
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Who is Nexus?](https://www.stmintz.com/ccc/index.php?id=393098) by [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [CCC](CCC "CCC"), October 24, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Engines written in which programming language?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50192&p=190061) by [Andreas Herrmann](Andreas_Herrmann "Andreas Herrmann"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 01, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> personal communication of the editor with [Ralf Dörr](Ralf_D%C3%B6rr "Ralf Dörr") in 2004
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [2e prijs: Ralf Dörr en Norbert Esser auteurs van Nexus](https://old.csvn.nl/pics2004/nexus02.jpg), [24th Open Dutch Computer Chess Championship 2004 - Photo Gallery](http://old.csvn.nl/gallery21.html), [DOCCC 2004](DOCCC_2004 "DOCCC 2004")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: What is the opinion of Sjeng to the game Nexus-Isichess?](https://www.stmintz.com/ccc/index.php?id=392127) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), October 18, 2004
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=5)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Nexus - The King 1-0 (!)](https://www.stmintz.com/ccc/index.php?id=392894) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CCC](CCC "CCC"), October 23, 2004
 
 **[Up one Level](Engines "Engines")**
 

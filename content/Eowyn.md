@@ -70,10 +70,10 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Éowyn, as portrayed in [Ralph Bakshi's](https://en.wikipedia.org/wiki/Ralph_Bakshi) [The Lord of the Rings](<https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1978_film)>), [Éowyn from Wikipedia](https://en.wikipedia.org/wiki/%C3%89owyn)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Crash Test Dummy](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=21484&start=24) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [CCC](CCC "CCC"), June 01, 2008
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICT 8th Leiden 2008 (Download Games)](http://www.talkchess.com/forum/viewtopic.php?t=21568) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), June 02, 2008
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICT8 Ronde 1](https://www.csvn.nl/index.php/nieuws/18-vereniging/292-ronde-1), Photo Gallery no longer available
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Éowyn, as portrayed in [Ralph Bakshi's](https://en.wikipedia.org/wiki/Ralph_Bakshi) [The Lord of the Rings](<https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(1978_film)>), [Éowyn from Wikipedia](https://en.wikipedia.org/wiki/%C3%89owyn)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Crash Test Dummy](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=21484&start=24) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [CCC](CCC "CCC"), June 01, 2008
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICT 8th Leiden 2008 (Download Games)](http://www.talkchess.com/forum/viewtopic.php?t=21568) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), June 02, 2008
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICT8 Ronde 1](https://www.csvn.nl/index.php/nieuws/18-vereniging/292-ronde-1), Photo Gallery no longer available
 
 **[Up one level](Engines "Engines")**
 

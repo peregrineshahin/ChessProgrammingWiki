@@ -57,14 +57,14 @@ lineup: [Klaus Doldinger](Category:Klaus_Doldinger "Category:Klaus Doldinger"), 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Short-tailed Albatross](https://en.wikipedia.org/wiki/File:Short_tailed_Albatross1.jpg) taken by - James Lloyd, Eastern Island, [Midway Atoll](https://en.wikipedia.org/wiki/Midway_Atoll), March 2007, [Short tailed Albatross.jpg photo - James photos at pbase.com](https://www.pbase.com/freespirit/image/80996745), [Albatross from Wikipedia](https://en.wikipedia.org/wiki/Albatross)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Albatross' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=464)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jonathan Eyers](https://www.abebooks.co.uk/servlet/SearchResults?an=Eyers%2C+Jonathan) (**2011**). *Don't Shoot the Albatross!: Nautical Myths and Superstitions*.
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Rime of the Ancient Mariner from Wikipedia](https://en.wikipedia.org/wiki/The_Rime_of_the_Ancient_Mariner)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Chess Tournament - 4th European Microcomputer Chess Championship*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [December 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [London 1980 - Chess - Round 1 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=13&round=1&id=7)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Cross-collateralization from Wikipedia](https://en.wikipedia.org/wiki/Cross-collateralization)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Short-tailed Albatross](https://en.wikipedia.org/wiki/File:Short_tailed_Albatross1.jpg) taken by - James Lloyd, Eastern Island, [Midway Atoll](https://en.wikipedia.org/wiki/Midway_Atoll), March 2007, [Short tailed Albatross.jpg photo - James photos at pbase.com](https://www.pbase.com/freespirit/image/80996745), [Albatross from Wikipedia](https://en.wikipedia.org/wiki/Albatross)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Albatross' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=464)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jonathan Eyers](https://www.abebooks.co.uk/servlet/SearchResults?an=Eyers%2C+Jonathan) (**2011**). *Don't Shoot the Albatross!: Nautical Myths and Superstitions*.
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Rime of the Ancient Mariner from Wikipedia](https://en.wikipedia.org/wiki/The_Rime_of_the_Ancient_Mariner)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Chess Tournament - 4th European Microcomputer Chess Championship*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [December 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [London 1980 - Chess - Round 1 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=13&round=1&id=7)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Cross-collateralization from Wikipedia](https://en.wikipedia.org/wiki/Cross-collateralization)
 
 **[Up one Level](Engines "Engines")**
 

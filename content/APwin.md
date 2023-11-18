@@ -32,7 +32,7 @@ Example of APwin v2015, Alybadix Main screen <a id="cite-note-1" href="#cite-ref
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [APwin](https://alybadix.000webhostapp.com/apwin.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [APwin](https://alybadix.000webhostapp.com/apwin.htm)
 
 **[Up one Level](GUI "GUI")**
 

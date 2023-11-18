@@ -66,14 +66,14 @@ a British computer scientist, researcher in [artificial intelligence](Artificial
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Staff and Students working in QEMG](http://www.qub.ac.uk/qc/webpages/whatwedo/researchgroups/environmentalmodelling/stafflist/qcindex.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Kieran Greer (**1998**). *A Neural Network Based Search Heuristic and its Application to Computer Chess*. D.Phil. Thesis, [University of Ulster](https://en.wikipedia.org/wiki/University_of_Ulster)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ChessMaps Download](http://www.distributedcomputingsystems.co.uk/chessmapsdownload.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Kieran Greer (**2009**). *Chess with Mined Squares*. [pdf](https://www.distributedcomputingsystems.co.uk/Documents/ChessMines.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Kieran Greer's Publications](https://www.distributedcomputingsystems.co.uk/publications.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Kieran Greer](https://dblp.uni-trier.de/pers/hd/g/Greer:Kieran.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Alan Turing](Alan_Turing "Alan Turing") (**1950**). *[Computing Machinery and Intelligence](http://loebner.net/Prizef/TuringArticle.html)*. Mind, 59, 433-460. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/2-0%20and%202-1.Computing_machinery_and_intelligence.turing/2-0%20and%202-1.Computing_machinery_and_intelligence.turing-alan.mind-59.1950.062303001.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Staff and Students working in QEMG](http://www.qub.ac.uk/qc/webpages/whatwedo/researchgroups/environmentalmodelling/stafflist/qcindex.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Kieran Greer (**1998**). *A Neural Network Based Search Heuristic and its Application to Computer Chess*. D.Phil. Thesis, [University of Ulster](https://en.wikipedia.org/wiki/University_of_Ulster)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ChessMaps Download](http://www.distributedcomputingsystems.co.uk/chessmapsdownload.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Kieran Greer (**2009**). *Chess with Mined Squares*. [pdf](https://www.distributedcomputingsystems.co.uk/Documents/ChessMines.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Kieran Greer's Publications](https://www.distributedcomputingsystems.co.uk/publications.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Kieran Greer](https://dblp.uni-trier.de/pers/hd/g/Greer:Kieran.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Alan Turing](Alan_Turing "Alan Turing") (**1950**). *[Computing Machinery and Intelligence](http://loebner.net/Prizef/TuringArticle.html)*. Mind, 59, 433-460. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/2-0%20and%202-1.Computing_machinery_and_intelligence.turing/2-0%20and%202-1.Computing_machinery_and_intelligence.turing-alan.mind-59.1950.062303001.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](People "People")**
 

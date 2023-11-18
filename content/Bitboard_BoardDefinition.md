@@ -156,8 +156,8 @@ lineup: [Charlie Mariano](Category:Charlie_Mariano "Category:Charlie Mariano"), 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bitwise Optimization in Java: Bitfields, Bitboards, and Beyond](https://web.archive.org/web/20060316100407/http://www.onjava.com/pub/a/onjava/2005/02/02/bitsets.html?page=2) by [Glen Pepicelli](Glen_Pepicelli "Glen Pepicelli"), ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2005), [O'Reilly's](https://en.wikipedia.org/wiki/O%27Reilly_Media) [OnJava.com](https://web.archive.org/web/20050203015229/http://onjava.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [On Beowulf - long post](https://www.stmintz.com/ccc/index.php?id=173418) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), April 04, 2001
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bitwise Optimization in Java: Bitfields, Bitboards, and Beyond](https://web.archive.org/web/20060316100407/http://www.onjava.com/pub/a/onjava/2005/02/02/bitsets.html?page=2) by [Glen Pepicelli](Glen_Pepicelli "Glen Pepicelli"), ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2005), [O'Reilly's](https://en.wikipedia.org/wiki/O%27Reilly_Media) [OnJava.com](https://web.archive.org/web/20050203015229/http://onjava.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [On Beowulf - long post](https://www.stmintz.com/ccc/index.php?id=173418) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), April 04, 2001
 
 **[Up one Level](Bitboards "Bitboards")**
 

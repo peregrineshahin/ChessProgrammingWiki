@@ -42,12 +42,12 @@ an early chess program by [Johann Joss](Johann_Joss "Johann Joss"), who already 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Detail from the [Statue of William Tell](https://en.wikipedia.org/wiki/Tell_Monument) and his son in [Altdorf](https://en.wikipedia.org/wiki/Altdorf,_Uri) ([Richard Kissling](https://en.wikipedia.org/wiki/Richard_Kissling), 1895), [William Tell from Wikipedia](https://en.wikipedia.org/wiki/William_Tell)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](https://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tells Geschoß: Schachmatt](https://www.computerwoche.de/a/tells-geschoss-schachmatt,1205122), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computerschach: Mini besiegt Maxi](https://www.computerwoche.de/a/computerschach-mini-besiegt-maxi,1205115), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Karsten Bauermeister](Karsten_Bauermeister "Karsten Bauermeister") (**1995**). *Aufbruchstimmung in Deutschland.* [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") Heft 6, 1995 (German)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Ostermundigen: Im Tell Ostermundigen gibt es keine Rockkonzerte mehr - News Region: Bern & Region](http://www.bernerzeitung.newsnet.ch/region/bern/Im-Tell-Ostermundigen-gibt-es-keine-Rockkonzerte-mehr/story/22521926), [Berner Zeitung](https://en.wikipedia.org/wiki/Berner_Zeitung), January 31, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Detail from the [Statue of William Tell](https://en.wikipedia.org/wiki/Tell_Monument) and his son in [Altdorf](https://en.wikipedia.org/wiki/Altdorf,_Uri) ([Richard Kissling](https://en.wikipedia.org/wiki/Richard_Kissling), 1895), [William Tell from Wikipedia](https://en.wikipedia.org/wiki/William_Tell)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](https://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tells Geschoß: Schachmatt](https://www.computerwoche.de/a/tells-geschoss-schachmatt,1205122), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computerschach: Mini besiegt Maxi](https://www.computerwoche.de/a/computerschach-mini-besiegt-maxi,1205115), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Karsten Bauermeister](Karsten_Bauermeister "Karsten Bauermeister") (**1995**). *Aufbruchstimmung in Deutschland.* [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") Heft 6, 1995 (German)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Ostermundigen: Im Tell Ostermundigen gibt es keine Rockkonzerte mehr - News Region: Bern & Region](http://www.bernerzeitung.newsnet.ch/region/bern/Im-Tell-Ostermundigen-gibt-es-keine-Rockkonzerte-mehr/story/22521926), [Berner Zeitung](https://en.wikipedia.org/wiki/Berner_Zeitung), January 31, 2012
 
 **[Up one level](Engines "Engines")**
 

@@ -27,10 +27,10 @@ His new open source engine [Testudo](index.php?title=Testudo&action=edit&redlink
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image clipped from [Chi siamo - EOS Development](http://www.eosdev.it/chi-siamo/) (Who we are)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [joker/README.md at master · morinim/joker · GitHub](https://github.com/morinim/joker/blob/master/README.md)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - morinim/vita: Vita - Genetic Programming Framework](https://github.com/morinim/vita)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - morinim/testudo: A simple but not trivial chess engine](https://github.com/morinim/testudo)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image clipped from [Chi siamo - EOS Development](http://www.eosdev.it/chi-siamo/) (Who we are)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [joker/README.md at master · morinim/joker · GitHub](https://github.com/morinim/joker/blob/master/README.md)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - morinim/vita: Vita - Genetic Programming Framework](https://github.com/morinim/vita)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - morinim/testudo: A simple but not trivial chess engine](https://github.com/morinim/testudo)
 
 **[Up one level](People "People")**
 

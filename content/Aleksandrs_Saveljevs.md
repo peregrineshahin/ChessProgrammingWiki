@@ -26,10 +26,10 @@ Aleksandrs Saveljevs is author of the chess engine [Warrior](Warrior "Warrior"),
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Baltic GIT conference - Challenges of using OSRM for timbertruck routing](https://www.balticgitconf.eu/#challenges-of-using-osrm-for-timbertruck-routing)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Saveljevs, Aleksandrs FIDE profile](https://ratings.fide.com/profile/11601779)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aleksandrs Saveljevs | LinkedIn](https://www.linkedin.com/in/asaveljevs/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Baltic GIT conference - Challenges of using OSRM for timbertruck routing](https://www.balticgitconf.eu/#challenges-of-using-osrm-for-timbertruck-routing)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Baltic GIT conference - Challenges of using OSRM for timbertruck routing](https://www.balticgitconf.eu/#challenges-of-using-osrm-for-timbertruck-routing)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Saveljevs, Aleksandrs FIDE profile](https://ratings.fide.com/profile/11601779)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aleksandrs Saveljevs | LinkedIn](https://www.linkedin.com/in/asaveljevs/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Baltic GIT conference - Challenges of using OSRM for timbertruck routing](https://www.balticgitconf.eu/#challenges-of-using-osrm-for-timbertruck-routing)
 
 **[Up one Level](People "People")**
 

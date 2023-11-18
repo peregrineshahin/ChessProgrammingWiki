@@ -16,8 +16,8 @@ with the game result in the form of the disc difference and performs a [linear r
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Michael Buro](Michael_Buro "Michael Buro") (**1995**). *[Statistical Feature Combination for the Evaluation of Game Positions](https://www.jair.org/index.php/jair/article/view/10146)*. [JAIR](https://en.wikipedia.org/wiki/Journal_of_Artificial_Intelligence_Research), Vol. 3
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Michael Buro](Michael_Buro "Michael Buro") (**1997**). *An Evaluation Function for Othello Based on Statistics.* NEC Research Institute. Technical Report #31
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Michael Buro](Michael_Buro "Michael Buro") (**1995**). *[Statistical Feature Combination for the Evaluation of Game Positions](https://www.jair.org/index.php/jair/article/view/10146)*. [JAIR](https://en.wikipedia.org/wiki/Journal_of_Artificial_Intelligence_Research), Vol. 3
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Michael Buro](Michael_Buro "Michael Buro") (**1997**). *An Evaluation Function for Othello Based on Statistics.* NEC Research Institute. Technical Report #31
 
 **[Up one level](People "People")**
 

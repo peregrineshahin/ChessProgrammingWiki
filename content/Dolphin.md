@@ -38,8 +38,8 @@ Dolphin played the [IOCSC 2010](IOCSC_2010 "IOCSC 2010"), and the [DOCCC 2010](D
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dolphin Chess Open Source | Free software downloads at SourceForge.net](https://sourceforge.net/projects/dolphinchess/), DolphinChess\\DolphinChess\\Resources\\dolphin.png
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SourceForge from Wikipedia](https://en.wikipedia.org/wiki/SourceForge)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dolphin Chess Open Source | Free software downloads at SourceForge.net](https://sourceforge.net/projects/dolphinchess/), DolphinChess\\DolphinChess\\Resources\\dolphin.png
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SourceForge from Wikipedia](https://en.wikipedia.org/wiki/SourceForge)
 
 **[Up one level](Engines "Engines")**
 

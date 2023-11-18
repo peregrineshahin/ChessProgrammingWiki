@@ -54,8 +54,8 @@ Eiríksson re-investigated multi-cut pruning with Ziggy, and found an enhancemen
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Bowie](Category:David_Bowie "Category:David Bowie") in the early 1970s, by Rik Walton, [Ziggy Stardust (character) from Wikipedia](https://en.wikipedia.org/wiki/Ziggy_Stardust_(character))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hrafn Eiríksson](Hrafn_Eir%C3%ADksson "Hrafn Eiríksson") (**2011**). *Investigation of Multi-Cut Pruning in Game-Tree Search*. B.Sc. thesis, [Reykjavík University](https://en.wikipedia.org/wiki/Reykjav%C3%ADk_University), [pdf](https://skemman.is/bitstream/1946/9180/1/research-report.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Bowie](Category:David_Bowie "Category:David Bowie") in the early 1970s, by Rik Walton, [Ziggy Stardust (character) from Wikipedia](https://en.wikipedia.org/wiki/Ziggy_Stardust_(character))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hrafn Eiríksson](Hrafn_Eir%C3%ADksson "Hrafn Eiríksson") (**2011**). *Investigation of Multi-Cut Pruning in Game-Tree Search*. B.Sc. thesis, [Reykjavík University](https://en.wikipedia.org/wiki/Reykjav%C3%ADk_University), [pdf](https://skemman.is/bitstream/1946/9180/1/research-report.pdf)
 
 **[Up one level](Engines "Engines")**
 

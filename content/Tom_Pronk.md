@@ -28,10 +28,10 @@ Later in the 80s, while affiliated with [Maastricht University](Maastricht_Unive
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zevende Nederlands Kampioenschap Computerschaak, Leiden 10, 11, 17 en 18 Oktober 1987.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1987,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201987.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1987](DOCCC_1987 "DOCCC 1987")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship](https://www.computerhistory.org/chess/doc-434fea055cbb3/). Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Don Beal](Don_Beal "Don Beal") (**1993**). *Report on the QMW 1993 Uniform-Platform Computer-Chess Championship.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [QMW computer chess](https://groups.google.com/d/msg/rec.games.chess/USZ-JlNvqRI/Yn68mNr08xAJ) by [Don Beal](Don_Beal "Don Beal"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zevende Nederlands Kampioenschap Computerschaak, Leiden 10, 11, 17 en 18 Oktober 1987.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1987,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201987.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1987](DOCCC_1987 "DOCCC 1987")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship](https://www.computerhistory.org/chess/doc-434fea055cbb3/). Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Don Beal](Don_Beal "Don Beal") (**1993**). *Report on the QMW 1993 Uniform-Platform Computer-Chess Championship.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [QMW computer chess](https://groups.google.com/d/msg/rec.games.chess/USZ-JlNvqRI/Yn68mNr08xAJ) by [Don Beal](Don_Beal "Don Beal"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
 
 **[Up one level](People "People")**
 

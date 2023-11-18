@@ -38,8 +38,8 @@ a Taiwanese computer scientiest at the Institute of Information Science at the [
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Hung-Jui Chang at the [20th Computer Olympiad, Leiden 2017](20th_Computer_Olympiad#Go9x9 "20th Computer Olympiad"), cropped from [Events 2017: Dinner - Photo 23 of 25](https://icga.org/?page_id=2137) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Department of Information Engineering and Computer Science](http://www.csie.ntu.edu.tw/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Hung-Jui Chang at the [20th Computer Olympiad, Leiden 2017](20th_Computer_Olympiad#Go9x9 "20th Computer Olympiad"), cropped from [Events 2017: Dinner - Photo 23 of 25](https://icga.org/?page_id=2137) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Department of Information Engineering and Computer Science](http://www.csie.ntu.edu.tw/)
 
 **[Up one level](People "People")**
 

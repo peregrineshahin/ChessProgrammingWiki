@@ -72,8 +72,8 @@ a [Windows](Windows "Windows") [command line](CLI "CLI") utility written by [Odd
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Inbetween debug output saving as a log file?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35904&p=136087#p136093) by [Odd Gunnar Malin](Odd_Gunnar_Malin "Odd Gunnar Malin"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 26, 2002
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Connecting a Windows box to a remote Engine on a GNU+Linux server](http://komodochess.com/remote-engine.htm) from [komodochess.com](Komodo "Komodo")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Inbetween debug output saving as a log file?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35904&p=136087#p136093) by [Odd Gunnar Malin](Odd_Gunnar_Malin "Odd Gunnar Malin"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 26, 2002
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Connecting a Windows box to a remote Engine on a GNU+Linux server](http://komodochess.com/remote-engine.htm) from [komodochess.com](Komodo "Komodo")
 
 **[Up one Level](Utilities "Utilities")**
 

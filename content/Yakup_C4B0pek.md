@@ -29,8 +29,8 @@ a Turkish freelance software developer with expertise in [Microsoft's](Microsoft
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yakup İpek | LinkedIn](https://www.linkedin.com/pub/yakup-i%CC%87pek/49/615/a04)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Turk - Home](http://theturk.codeplex.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yakup İpek | LinkedIn](https://www.linkedin.com/pub/yakup-i%CC%87pek/49/615/a04)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Turk - Home](http://theturk.codeplex.com/)
 
 **[Up one level](People "People")**
 

@@ -48,14 +48,14 @@ a British computer scientist and researcher at [Google](index.php?title=Google&a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image captured from [ICLR2015 "Very Deep Convolutional Networks for Large-Scale Image Recognition"](https://youtu.be/OQe-9P51Z0s) [YouTube](https://en.wikipedia.org/wiki/YouTube) Video, 0:39
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Karen Simonyan (**2013**). *Large-Scale Learning of Discriminative Image Representations*. Ph.D. thesis, [University of Oxford](https://en.wikipedia.org/wiki/University_of_Oxford), advisors [Andrew Zisserman](Mathematician#AZisserman "Mathematician") and [Antonio Criminisi](https://www.microsoft.com/en-us/research/people/antcrim/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Teaming up with Oxford University on Artificial Intelligence](https://europe.googleblog.com/2014/10/teaming-up-with-oxford-university-on.html) by [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), Google Europe Blog, October 23, 2014
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Karen Simonyan](http://dblp.uni-trier.de/pers/hd/s/Simonyan:Karen)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Karen Simonyan](http://www.robots.ox.ac.uk/~karen/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [WaveNet from Wikipedia](https://en.wikipedia.org/wiki/WaveNet)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/) by [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser") and [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), December 03, 2018
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?fbclid=IwAR3mSwrn1YXDKr9uuGm2GlFKh76wBilex7f8QvBiQecwiVmAvD6Bkyjx-rE)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image captured from [ICLR2015 "Very Deep Convolutional Networks for Large-Scale Image Recognition"](https://youtu.be/OQe-9P51Z0s) [YouTube](https://en.wikipedia.org/wiki/YouTube) Video, 0:39
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Karen Simonyan (**2013**). *Large-Scale Learning of Discriminative Image Representations*. Ph.D. thesis, [University of Oxford](https://en.wikipedia.org/wiki/University_of_Oxford), advisors [Andrew Zisserman](Mathematician#AZisserman "Mathematician") and [Antonio Criminisi](https://www.microsoft.com/en-us/research/people/antcrim/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Teaming up with Oxford University on Artificial Intelligence](https://europe.googleblog.com/2014/10/teaming-up-with-oxford-university-on.html) by [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), Google Europe Blog, October 23, 2014
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Karen Simonyan](http://dblp.uni-trier.de/pers/hd/s/Simonyan:Karen)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Karen Simonyan](http://www.robots.ox.ac.uk/~karen/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [WaveNet from Wikipedia](https://en.wikipedia.org/wiki/WaveNet)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/) by [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser") and [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), December 03, 2018
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?fbclid=IwAR3mSwrn1YXDKr9uuGm2GlFKh76wBilex7f8QvBiQecwiVmAvD6Bkyjx-rE)
 
 **[Up one level](People "People")**
 

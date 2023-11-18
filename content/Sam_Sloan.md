@@ -36,15 +36,15 @@ an American chess player, publisher and and politician, during the mid 80s invol
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [sams-new-photo](https://commons.wikimedia.org/wiki/File:Sam_Sloan_%2824774488070%29.jpg) by Sam Sloan, February 16, 2016, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Sam Sloan from Wikipedia](https://en.wikipedia.org/wiki/Sam_Sloan)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sam Sloan's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=443)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [About Komodo](https://komodochess.com/store/pages.php?cmsid=13) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") » [Komodo](Komodo "Komodo")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cheating in the World Computer Chess Championship](https://groups.google.com/d/msg/rec.games.chess.misc/X55KPCMZeSA/uI2MGxwQsrQJ) by Sam Sloan, [rgcm](Computer_Chess_Forums "Computer Chess Forums"), March 11, 1999
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [2013 13th World Xiangqi Championship Men's Individual- Game list -XiangQi Database](http://www.01xq.com/archives/Gamelist.asp?eid=100001574)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [World Championship of Chinese Chess, Round 8 in Munich Germany](http://www.chessbanter.com/rec-games-chess-misc-chess/54803-world-championship-chinese-chess-round.html) by Sam Sloan, [Chessbanter](http://www.chessbanter.com/), August 25, 2015
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Sam Sloan from Wikipedia](https://en.wikipedia.org/wiki/Sam_Sloan)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Sam Sloan Candidate For U.S. Presidency 2016 - YouTube](https://www.youtube.com/channel/UCi8-7xO_Uk9eXJMHL2io_aw)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Sam Sloan v. Ishi Press International](http://www.anusha.com/flahert2.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [sams-new-photo](https://commons.wikimedia.org/wiki/File:Sam_Sloan_%2824774488070%29.jpg) by Sam Sloan, February 16, 2016, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Sam Sloan from Wikipedia](https://en.wikipedia.org/wiki/Sam_Sloan)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sam Sloan's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=443)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [About Komodo](https://komodochess.com/store/pages.php?cmsid=13) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") » [Komodo](Komodo "Komodo")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cheating in the World Computer Chess Championship](https://groups.google.com/d/msg/rec.games.chess.misc/X55KPCMZeSA/uI2MGxwQsrQJ) by Sam Sloan, [rgcm](Computer_Chess_Forums "Computer Chess Forums"), March 11, 1999
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [2013 13th World Xiangqi Championship Men's Individual- Game list -XiangQi Database](http://www.01xq.com/archives/Gamelist.asp?eid=100001574)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [World Championship of Chinese Chess, Round 8 in Munich Germany](http://www.chessbanter.com/rec-games-chess-misc-chess/54803-world-championship-chinese-chess-round.html) by Sam Sloan, [Chessbanter](http://www.chessbanter.com/), August 25, 2015
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Sam Sloan from Wikipedia](https://en.wikipedia.org/wiki/Sam_Sloan)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Sam Sloan Candidate For U.S. Presidency 2016 - YouTube](https://www.youtube.com/channel/UCi8-7xO_Uk9eXJMHL2io_aw)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Sam Sloan v. Ishi Press International](http://www.anusha.com/flahert2.htm)
 
 **[Up one level](People "People")**
 

@@ -71,9 +71,9 @@ A brief summary
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [A portable, simple, desktop workbench for chess players and analysts](https://BanksiaGUI.com:)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Banksia GUI released](http://talkchess.com/forum3/viewtopic.php?f=2&t=72350)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Banksia GUI](https://banksiagui.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [A portable, simple, desktop workbench for chess players and analysts](https://BanksiaGUI.com:)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Banksia GUI released](http://talkchess.com/forum3/viewtopic.php?f=2&t=72350)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Banksia GUI](https://banksiagui.com/)
 
 **[Up one Level](GUI "GUI")**
 

@@ -51,7 +51,7 @@ Beside [material](Material "Material"), [mobility](Mobility "Mobility") and [paw
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Шахматы в искусстве (22 часть) BAK Samuel](https://valsur.livejournal.com/129416.html) by Valerij Surkov
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Шахматы в искусстве (22 часть) BAK Samuel](https://valsur.livejournal.com/129416.html) by Valerij Surkov
 
 **[Up one level](Game_Phases "Game Phases")**
 

@@ -89,16 +89,16 @@ We began work on this program in May of 1994. [Don Dailey](Don_Dailey "Don Daile
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The light panels of [FROSTBURG](https://en.wikipedia.org/wiki/FROSTBURG), a CM-5, on display at the [National Cryptologic Museum](https://en.wikipedia.org/wiki/National_Cryptologic_Museum) in 2005. The panels were used to check the usage of the processing nodes, and to run diagnostics.
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Connection Machine from Wikipedia](https://en.wikipedia.org/wiki/Connection_Machine)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Connection Machine](http://www.tamikothiel.com/cm/) by [Tamiko Thiel](https://en.wikipedia.org/wiki/Tamiko_Thiel)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson") (**1985**).  *Fat-Trees: Universal Networks for Hardware-efficient Supercomputing*. [IEEE Transactions on Computers](IEEE#TOC "IEEE"), Vol. 34 , No. 10, [pdf](http://courses.csail.mit.edu/6.896/spring04/handouts/papers/fat_trees.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CM-5/1024 | TOP500 Supercomputer Sites](https://www.top500.org/system/166997)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Lewis Stiller](Lewis_Stiller "Lewis Stiller") (**1996**). *Multilinear Algebra and Chess Endgames*. [Games of No Chance](http://library.msri.org/books/Book29/index.html) edited by [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski"), [pdf](http://library.msri.org/books/Book29/files/stiller.pdf)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [CM-5/512 | TOP500 Supercomputer Sites](https://www.top500.org/system/167057)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [1993 ACM International Computer Chess Championship (with corrections)](http://groups.google.com/group/rec.games.chess/browse_frm/thread/45699b80a93fde41) by [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), February 19, 1993
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Christopher F. Joerg](Chris_Joerg "Chris Joerg") (**1996**). *The Cilk System for Parallel Multithreaded Computing* Ph. D. thesis, Department of Electrical Engineering and Computer Science, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/joerg-phd-thesis.pdf)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Cooley–Tukey FFT algorithm from Wikipedia](https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The light panels of [FROSTBURG](https://en.wikipedia.org/wiki/FROSTBURG), a CM-5, on display at the [National Cryptologic Museum](https://en.wikipedia.org/wiki/National_Cryptologic_Museum) in 2005. The panels were used to check the usage of the processing nodes, and to run diagnostics.
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Connection Machine from Wikipedia](https://en.wikipedia.org/wiki/Connection_Machine)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Connection Machine](http://www.tamikothiel.com/cm/) by [Tamiko Thiel](https://en.wikipedia.org/wiki/Tamiko_Thiel)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson") (**1985**).  *Fat-Trees: Universal Networks for Hardware-efficient Supercomputing*. [IEEE Transactions on Computers](IEEE#TOC "IEEE"), Vol. 34 , No. 10, [pdf](http://courses.csail.mit.edu/6.896/spring04/handouts/papers/fat_trees.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CM-5/1024 | TOP500 Supercomputer Sites](https://www.top500.org/system/166997)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Lewis Stiller](Lewis_Stiller "Lewis Stiller") (**1996**). *Multilinear Algebra and Chess Endgames*. [Games of No Chance](http://library.msri.org/books/Book29/index.html) edited by [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski"), [pdf](http://library.msri.org/books/Book29/files/stiller.pdf)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [CM-5/512 | TOP500 Supercomputer Sites](https://www.top500.org/system/167057)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [1993 ACM International Computer Chess Championship (with corrections)](http://groups.google.com/group/rec.games.chess/browse_frm/thread/45699b80a93fde41) by [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), February 19, 1993
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Christopher F. Joerg](Chris_Joerg "Chris Joerg") (**1996**). *The Cilk System for Parallel Multithreaded Computing* Ph. D. thesis, Department of Electrical Engineering and Computer Science, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/joerg-phd-thesis.pdf)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Cooley–Tukey FFT algorithm from Wikipedia](https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm)
 
 **[Up one Level](Hardware "Hardware")**
 

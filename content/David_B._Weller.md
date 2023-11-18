@@ -34,11 +34,11 @@ David is author of the [WinBoard](WinBoard "WinBoard") compliant chess engines [
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [opraus v2.0](http://www.opraus.com/) by David B. Weller
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Robot Games for Education in Robotic](http://www.opraus.com/robot-game/) by David B. Weller
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Solar Energy](http://www.opraus.com/solar.html) by David B. Weller
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [new win32 winboard engine](https://www.stmintz.com/ccc/index.php?id=374619) by David B. Weller, [CCC](CCC "CCC"), July 07, 2004
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Xpdnt: Free chess engine](http://www.opraus.com/ai/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [opraus v2.0](http://www.opraus.com/) by David B. Weller
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Robot Games for Education in Robotic](http://www.opraus.com/robot-game/) by David B. Weller
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Solar Energy](http://www.opraus.com/solar.html) by David B. Weller
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [new win32 winboard engine](https://www.stmintz.com/ccc/index.php?id=374619) by David B. Weller, [CCC](CCC "CCC"), July 07, 2004
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Xpdnt: Free chess engine](http://www.opraus.com/ai/)
 
 **[Up one level](People "People")**
 

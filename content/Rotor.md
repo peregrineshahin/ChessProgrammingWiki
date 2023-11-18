@@ -115,12 +115,12 @@ Rotor is available as [Windows](Windows "Windows") and [Mac OS](Mac_OS "Mac OS")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rotor](https://en.wikipedia.org/wiki/Rotor_(electric)) of [Hoover Dam](https://en.wikipedia.org/wiki/Hoover_Dam) [generator](https://en.wikipedia.org/wiki/Electric_generator) during inspection, [Image](https://commons.wikimedia.org/wiki/File:Hoover_dam_rotor.jpg) by Ratwod, February 08, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [BikJump 1.2.1 : 1864](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=12868) by [Patrick Buchmann](Patrick_Buchmann "Patrick Buchmann"), [CCC](CCC "CCC"), April 04, 2007
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Amateur Litmus Test (Rotor 0.1a wins)](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=13481) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), April 30, 2007
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Rotor on Android](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=38202) by [Jan Brouwer](Jan_Brouwer "Jan Brouwer"), [CCC](CCC "CCC"), February 24, 2011
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ChessRotor](https://sites.google.com/site/chessrotor/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: About king safety](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=38756&start=4) by [Jan Brouwer](Jan_Brouwer "Jan Brouwer"), [CCC](CCC "CCC"), April 20, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rotor](https://en.wikipedia.org/wiki/Rotor_(electric)) of [Hoover Dam](https://en.wikipedia.org/wiki/Hoover_Dam) [generator](https://en.wikipedia.org/wiki/Electric_generator) during inspection, [Image](https://commons.wikimedia.org/wiki/File:Hoover_dam_rotor.jpg) by Ratwod, February 08, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [BikJump 1.2.1 : 1864](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=12868) by [Patrick Buchmann](Patrick_Buchmann "Patrick Buchmann"), [CCC](CCC "CCC"), April 04, 2007
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Amateur Litmus Test (Rotor 0.1a wins)](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=13481) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), April 30, 2007
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rotor on Android](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=38202) by [Jan Brouwer](Jan_Brouwer "Jan Brouwer"), [CCC](CCC "CCC"), February 24, 2011
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ChessRotor](https://sites.google.com/site/chessrotor/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: About king safety](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=38756&start=4) by [Jan Brouwer](Jan_Brouwer "Jan Brouwer"), [CCC](CCC "CCC"), April 20, 2011
 
 **[Up one Level](Engines "Engines")**
 

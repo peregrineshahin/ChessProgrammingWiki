@@ -90,7 +90,7 @@ int search( int alpha, int beta, ... ) {
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Reverse Futility Pruning](http://www.talkchess.com/forum/viewtopic.php?t=41302&start=1) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), December 02, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Reverse Futility Pruning](http://www.talkchess.com/forum/viewtopic.php?t=41302&start=1) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), December 02, 2011
 
 **[Up one Level](Pruning "Pruning")**
 

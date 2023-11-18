@@ -46,13 +46,13 @@ the first commercial [dedicated chess computer](Dedicated_Chess_Computers "Dedic
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Flickr - Fotosharing | ARB](http://www.flickr.com/photos/10261668@N05/859026204/in/set-72157600923816639/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chafitz ARB Sargon 2.5](http://www.schach-computer.info/wiki/index.php/Chafitz_ARB_Sargon_2.5) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [Chafitz ARB Sargon 3.0](http://www.schach-computer.info/wiki/index.php/Chafitz_ARB_Sargon_3.0) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Aker, John](http://www.schach-computer.info/wiki/index.php/Aker,_John) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Applied Concepts ARB + modules](http://www.chesscomputeruk.com/html/applied_concepts_arb_-_modules.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Gift](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/) by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Flickr - Fotosharing | ARB](http://www.flickr.com/photos/10261668@N05/859026204/in/set-72157600923816639/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chafitz ARB Sargon 2.5](http://www.schach-computer.info/wiki/index.php/Chafitz_ARB_Sargon_2.5) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [Chafitz ARB Sargon 3.0](http://www.schach-computer.info/wiki/index.php/Chafitz_ARB_Sargon_3.0) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Aker, John](http://www.schach-computer.info/wiki/index.php/Aker,_John) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Applied Concepts ARB + modules](http://www.chesscomputeruk.com/html/applied_concepts_arb_-_modules.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Gift](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/) by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](Engines "Engines")**
 

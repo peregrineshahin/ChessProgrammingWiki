@@ -47,10 +47,10 @@ Rg1+ 50.Kh4 Nd7 51.Nh6 Ke6 52.Nf5 Nc5 53.Ng3 Kf6 54.Kh3 Re1 55.Nf5 Rh1+ 56.Kg2 R
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aegon Man-Machine Tournaments](http://old.csvn.nl/aegonhist.html) from the old [CSVN](CSVN "CSVN") Site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Tiger 12.0 wins the FCCC together with Capture](https://www.stmintz.com/ccc/index.php?id=72642) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](CCC "CCC"), October 10, 1999
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Capture's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=9)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Paris 1997 - Chess - Round 2 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=2&id=3)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aegon Man-Machine Tournaments](http://old.csvn.nl/aegonhist.html) from the old [CSVN](CSVN "CSVN") Site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Tiger 12.0 wins the FCCC together with Capture](https://www.stmintz.com/ccc/index.php?id=72642) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](CCC "CCC"), October 10, 1999
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Capture's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=9)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Paris 1997 - Chess - Round 2 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=2&id=3)
 
 **[Up one Level](Engines "Engines")**
 

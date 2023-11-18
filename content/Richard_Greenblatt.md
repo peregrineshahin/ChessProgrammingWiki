@@ -44,11 +44,11 @@ In 1979, Greenblatt founded [Lisp Machines, Inc.](https://en.wikipedia.org/wiki/
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image captured [Oral History of Richard Greenblatt](http://www.computerhistory.org/chess/orl-433440f03cfe1/) Video from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hackers: Heroes of the Computer Revolution](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Richard Greenblatt and Thomas Knight with the CADR LISP Machine at MIT](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f64ea3e), Courtesy of [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Moby Memory](http://ljkrakauer.com/LJK/60s/moby.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Richard Greenblatt: "[Wedgitude](https://en.wiktionary.org/wiki/wedgitude) is not an accepted English word. It is a bit of [hacker](https://en.wikipedia.org/wiki/Hacker_%28term%29) jargon, coined, I believe, by the famous hacker [Bill Gosper](Bill_Gosper "Bill Gosper"). We say a system is [wedged](https://en.wiktionary.org/wiki/wedge) if there exists a binding, a clashing deep within its bowels, that prevents progress you would otherwise expect. Wedgitude, then, by a well-known English transformation, is the state of being wedged".
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image captured [Oral History of Richard Greenblatt](http://www.computerhistory.org/chess/orl-433440f03cfe1/) Video from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hackers: Heroes of the Computer Revolution](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Richard Greenblatt and Thomas Knight with the CADR LISP Machine at MIT](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f64ea3e), Courtesy of [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Moby Memory](http://ljkrakauer.com/LJK/60s/moby.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Richard Greenblatt: "[Wedgitude](https://en.wiktionary.org/wiki/wedgitude) is not an accepted English word. It is a bit of [hacker](https://en.wikipedia.org/wiki/Hacker_%28term%29) jargon, coined, I believe, by the famous hacker [Bill Gosper](Bill_Gosper "Bill Gosper"). We say a system is [wedged](https://en.wiktionary.org/wiki/wedge) if there exists a binding, a clashing deep within its bowels, that prevents progress you would otherwise expect. Wedgitude, then, by a well-known English transformation, is the state of being wedged".
 
 **[Up one level](People "People")**
 

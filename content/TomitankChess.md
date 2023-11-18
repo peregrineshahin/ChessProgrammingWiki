@@ -110,13 +110,13 @@ tomitankChess is available as [mobile app](https://en.wikipedia.org/wiki/Mobile_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [tomitankChess - New JavaScript engine](http://www.talkchess.com/forum/viewtopic.php?t=65200) by [Tamás Kuzmics](Tam%C3%A1s_Kuzmics "Tamás Kuzmics"), [CCC](CCC "CCC"), September 17, 2017
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Javascript-Obfuscator.aspx](http://www.javascriptobfuscator.com/Javascript-Obfuscator.aspx)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: tomitankChess - New JavaScript engine](http://www.talkchess.com/forum/viewtopic.php?t=65200&start=14) by [Tamás Kuzmics](Tam%C3%A1s_Kuzmics "Tamás Kuzmics"), [CCC](CCC "CCC"), September 21, 2017
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Strongest JavaScript Chess Engine](http://www.talkchess.com/forum/viewtopic.php?t=65344) by [Tamás Kuzmics](Tam%C3%A1s_Kuzmics "Tamás Kuzmics"), [CCC](CCC "CCC"), September 30, 2017
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Node.js](https://nodejs.org/en/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Mobile application](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73377) by [Tamás Kuzmics](Tam%C3%A1s_Kuzmics "Tamás Kuzmics"), [CCC](CCC "CCC"), March 15, 2020
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Features based on [tomitankChess/README.md at master · tomitank/tomitankChess · GitHub](https://github.com/tomitank/tomitankChess/blob/master/README.md) and tomitankChess 4.2
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [tomitankChess - New JavaScript engine](http://www.talkchess.com/forum/viewtopic.php?t=65200) by [Tamás Kuzmics](Tam%C3%A1s_Kuzmics "Tamás Kuzmics"), [CCC](CCC "CCC"), September 17, 2017
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Javascript-Obfuscator.aspx](http://www.javascriptobfuscator.com/Javascript-Obfuscator.aspx)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: tomitankChess - New JavaScript engine](http://www.talkchess.com/forum/viewtopic.php?t=65200&start=14) by [Tamás Kuzmics](Tam%C3%A1s_Kuzmics "Tamás Kuzmics"), [CCC](CCC "CCC"), September 21, 2017
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Strongest JavaScript Chess Engine](http://www.talkchess.com/forum/viewtopic.php?t=65344) by [Tamás Kuzmics](Tam%C3%A1s_Kuzmics "Tamás Kuzmics"), [CCC](CCC "CCC"), September 30, 2017
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Node.js](https://nodejs.org/en/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mobile application](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73377) by [Tamás Kuzmics](Tam%C3%A1s_Kuzmics "Tamás Kuzmics"), [CCC](CCC "CCC"), March 15, 2020
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Features based on [tomitankChess/README.md at master · tomitank/tomitankChess · GitHub](https://github.com/tomitank/tomitankChess/blob/master/README.md) and tomitankChess 4.2
 
 **[Up one Level](Engines "Engines")**
 

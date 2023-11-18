@@ -40,10 +40,10 @@ Clever & Smart played the [IPCCC 1998](IPCCC_1998 "IPCCC 1998") in Paderborn whe
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mortadelo y Filemón](https://es.wikipedia.org/wiki/Mortadelo_y_Filem%C3%B3n) representados en [Fallas de Valencia](https://en.wikipedia.org/wiki/Falles), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The 3-Hirn Setting](http://www.minet.uni-jena.de/fakultaet/iam/personen/CA-Chessd.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: 7th International Paderborn Computer Chess Championships](https://groups.google.com/d/msg/rec.games.chess.computer/57p6iD4epjU/iO1h0kw-xwIJ) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [r.g.c.c](Computer_Chess_Forums "Computer Chess Forums"), February 18, 1998
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Images from [Mortadelo Wiki](https://mortadelo.fandom.com/es/wiki/Mortadelo_Wiki)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mortadelo y Filemón](https://es.wikipedia.org/wiki/Mortadelo_y_Filem%C3%B3n) representados en [Fallas de Valencia](https://en.wikipedia.org/wiki/Falles), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The 3-Hirn Setting](http://www.minet.uni-jena.de/fakultaet/iam/personen/CA-Chessd.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: 7th International Paderborn Computer Chess Championships](https://groups.google.com/d/msg/rec.games.chess.computer/57p6iD4epjU/iO1h0kw-xwIJ) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [r.g.c.c](Computer_Chess_Forums "Computer Chess Forums"), February 18, 1998
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Images from [Mortadelo Wiki](https://mortadelo.fandom.com/es/wiki/Mortadelo_Wiki)
 
 **[Up one Level](Shredder "Shredder")**
 

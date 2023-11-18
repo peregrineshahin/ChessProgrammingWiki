@@ -137,11 +137,11 @@ Rc8 55.Qf4+ Ke8 56.Qxh4 Bd5 57.Qh8+ Kd7 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Richard Lang](Richard_Lang "Richard Lang") (**1989**). *The Ninth World Microcomputer Chess Championship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: The truth about Deep <9> : Remember Quick Step](https://www.stmintz.com/ccc/index.php?id=289376) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), March 15, 2003
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [David Levy](David_Levy "David Levy") (**1989**). *Disqualification at Portorož*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Portorož 1989 - Chess - Round 6 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=75&round=6&id=3)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Portorož 1989 - Chess - Round 7 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=75&round=7&id=3)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Richard Lang](Richard_Lang "Richard Lang") (**1989**). *The Ninth World Microcomputer Chess Championship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: The truth about Deep <9> : Remember Quick Step](https://www.stmintz.com/ccc/index.php?id=289376) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), March 15, 2003
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [David Levy](David_Levy "David Levy") (**1989**). *Disqualification at Portorož*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Portorož 1989 - Chess - Round 6 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=75&round=6&id=3)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Portorož 1989 - Chess - Round 7 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=75&round=7&id=3)
 
 **[Up one level](Engines "Engines")**
 

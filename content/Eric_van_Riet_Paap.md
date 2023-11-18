@@ -35,14 +35,14 @@ Van Riet Paap is author of the [PC](IBM_PC "IBM PC") chess program [Genesis](Gen
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BeWater freedive opleidingen - Eric van Riet Paap](http://be-water.nl/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About the Blockchaingers - Blockchaingers Community](https://blockchaingers.org/p/about)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dodgem Arena for PlayStation (1998)](http://www.mobygames.com/game/dodgem-arena) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mephisto Mini](https://www.schach-computer.info/wiki/index.php/Mephisto_Mini) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Fidelity Marauder](https://www.schach-computer.info/wiki/index.php/Fidelity_Marauder) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Fidelity Tiny Chess (1991)](http://www.spacious-mind.com/html/tiny.html) by Eric van Riet Paap, from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1993**). *Report on the 13th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Unsubstantiated claim in the Diep homepage](http://groups.google.com/group/rec.games.chess.computer/msg/50d158b6b30eb6a8) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 20, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BeWater freedive opleidingen - Eric van Riet Paap](http://be-water.nl/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About the Blockchaingers - Blockchaingers Community](https://blockchaingers.org/p/about)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dodgem Arena for PlayStation (1998)](http://www.mobygames.com/game/dodgem-arena) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mephisto Mini](https://www.schach-computer.info/wiki/index.php/Mephisto_Mini) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fidelity Marauder](https://www.schach-computer.info/wiki/index.php/Fidelity_Marauder) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fidelity Tiny Chess (1991)](http://www.spacious-mind.com/html/tiny.html) by Eric van Riet Paap, from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1993**). *Report on the 13th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Unsubstantiated claim in the Diep homepage](http://groups.google.com/group/rec.games.chess.computer/msg/50d158b6b30eb6a8) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 20, 1997
 
 **[Up one level](People "People")**
 

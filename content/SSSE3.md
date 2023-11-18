@@ -392,12 +392,12 @@ public:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Supplemental Streaming SIMD Extensions 3 Instructions](http://msdn.microsoft.com/en-us/library/vstudio/bb892952%28v=vs.100%29.aspx)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Intel C++ Compiler for Linux Intrinsics Reference](https://www.cs.fsu.edu/~engelen/courses/HPC-adv/intref_cls.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [fixing SSSE3 pmaddubsw description](http://gcc.gnu.org/ml/gcc-patches/2008-03/msg00619.html) from the mail archive of the [[[1]](mailto:gcc-patches@gcc.gnu.org%7Cgcc-patches@gcc.gnu.org)] mailing list for the [GCC project](Free_Software_Foundation#GCC "Free Software Foundation")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SSSE3: fast popcount](http://0x80.pl/articles/sse-popcount.html) by [Wojciech Muła](Wojciech_Mu%C5%82a "Wojciech Muła"), May 24, 2008
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Wojciech Muła](Wojciech_Mu%C5%82a "Wojciech Muła"), [Nathan Kurz](http://dblp.uni-trier.de/pers/hd/k/Kurz:Nathan), [Daniel Lemire](https://github.com/lemire) (**2016**). *Faster Population Counts Using AVX2 Instructions*. [arXiv:1611.07612](https://arxiv.org/abs/1611.07612)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Plain and fancy magic on modern hardware](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=367616&t=35858) by [Robert Purves](index.php?title=Robert_Purves&action=edit&redlink=1 "Robert Purves (page does not exist)"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), August 23, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Supplemental Streaming SIMD Extensions 3 Instructions](http://msdn.microsoft.com/en-us/library/vstudio/bb892952%28v=vs.100%29.aspx)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Intel C++ Compiler for Linux Intrinsics Reference](https://www.cs.fsu.edu/~engelen/courses/HPC-adv/intref_cls.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [fixing SSSE3 pmaddubsw description](http://gcc.gnu.org/ml/gcc-patches/2008-03/msg00619.html) from the mail archive of the [[[1]](mailto:gcc-patches@gcc.gnu.org%7Cgcc-patches@gcc.gnu.org)] mailing list for the [GCC project](Free_Software_Foundation#GCC "Free Software Foundation")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SSSE3: fast popcount](http://0x80.pl/articles/sse-popcount.html) by [Wojciech Muła](Wojciech_Mu%C5%82a "Wojciech Muła"), May 24, 2008
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Wojciech Muła](Wojciech_Mu%C5%82a "Wojciech Muła"), [Nathan Kurz](http://dblp.uni-trier.de/pers/hd/k/Kurz:Nathan), [Daniel Lemire](https://github.com/lemire) (**2016**). *Faster Population Counts Using AVX2 Instructions*. [arXiv:1611.07612](https://arxiv.org/abs/1611.07612)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Plain and fancy magic on modern hardware](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=367616&t=35858) by [Robert Purves](index.php?title=Robert_Purves&action=edit&redlink=1 "Robert Purves (page does not exist)"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), August 23, 2010
 
 **[Up one Level](X86 "X86")**
 

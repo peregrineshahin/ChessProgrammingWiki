@@ -206,8 +206,8 @@ If applied for [move generation](Move_Generation "Move Generation") we better tr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Queen's Star](http://www.carinajorgensen.com/Chess/queensstar.php) 2009 by [Carina Jørgensen](Category:Carina_J%C3%B8rgensen "Category:Carina Jørgensen")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Movegen Re: Bitmap Type Re: Tinker 81 secs Re: Testing speed](https://www.stmintz.com/ccc/index.php?id=107485) by [Brian Richardson](Brian_Richardson "Brian Richardson"), [CCC](CCC "CCC"), April 24, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Queen's Star](http://www.carinajorgensen.com/Chess/queensstar.php) 2009 by [Carina Jørgensen](Category:Carina_J%C3%B8rgensen "Category:Carina Jørgensen")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Movegen Re: Bitmap Type Re: Tinker 81 secs Re: Testing speed](https://www.stmintz.com/ccc/index.php?id=107485) by [Brian Richardson](Brian_Richardson "Brian Richardson"), [CCC](CCC "CCC"), April 24, 2000
 
 **[Up one Level](Bitboards "Bitboards")**
 

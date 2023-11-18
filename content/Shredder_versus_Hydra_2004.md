@@ -255,8 +255,8 @@ Bb5 60.a4 Bd3 61.Bd1 Kc4 62.e4 Kd4 63.e5 Kxe5 64.Ke3 Bf1 65.Kxd2 Bxh3 66.Bf3 Bf1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer titans clash in Abu Dhabi](https://en.chessbase.com/post/computer-titans-clash-in-abu-dhabi), [ChessBase News](ChessBase "ChessBase"), August 14, 2004
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Image captured from the [Video](#video) @ 8:24
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer titans clash in Abu Dhabi](https://en.chessbase.com/post/computer-titans-clash-in-abu-dhabi), [ChessBase News](ChessBase "ChessBase"), August 14, 2004
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Image captured from the [Video](#video) @ 8:24
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

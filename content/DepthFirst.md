@@ -66,11 +66,11 @@ The [depth-limited search](https://en.wikipedia.org/wiki/Depth-limited_search), 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Depth-first search from Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Breadth-first search from Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> quoted by [Hans Berliner](Hans_Berliner "Hans Berliner"), [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch") (**1985**). *A Study of Search Methods : The Effect of Constraint Satisfaction and Adventurousness*. [pdf](https://www.ijcai.org/Proceedings/85-2/Papers/083.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Paper is mentioned by [Richard Korf](Richard_Korf#JudeaPearl "Richard Korf") at [Judea Pearl Symposium](Judea_Pearl#Symposium "Judea Pearl"), 2010
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Depth-first search from Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Breadth-first search from Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> quoted by [Hans Berliner](Hans_Berliner "Hans Berliner"), [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch") (**1985**). *A Study of Search Methods : The Effect of Constraint Satisfaction and Adventurousness*. [pdf](https://www.ijcai.org/Proceedings/85-2/Papers/083.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Paper is mentioned by [Richard Korf](Richard_Korf#JudeaPearl "Richard Korf") at [Judea Pearl Symposium](Judea_Pearl#Symposium "Judea Pearl"), 2010
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
 
 **[Up one Level](Search "Search")**
 

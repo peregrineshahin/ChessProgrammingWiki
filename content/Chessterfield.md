@@ -56,12 +56,12 @@ While affiliated with [ETH Zurich](ETH_Zurich "ETH Zurich"), inspired by [Michae
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ChessterfieldCL Download](http://home.datacomm.ch/m.luescher/download_cl.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chessterfield GUI screenshot](http://home.datacomm.ch/m.luescher/screenshot.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Michael Buro](Michael_Buro "Michael Buro") (**1998**). *[From Simple Features to Sophisticated Evaluation Functions](http://link.springer.com/chapter/10.1007/3-540-48957-6_8)*. [CG 1998](CG_1998 "CG 1998"), [pdf](https://skatgame.net/mburo/ps/glem.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Matthias Lüscher](Matthias_L%C3%BCscher "Matthias Lüscher") (**2000**). *Automatic Generation of an Evaluation Function for Chess Endgames*. [ETH Zurich](ETH_Zurich "ETH Zurich") Supervisors: [Thomas Lincke](Thomas_Lincke "Thomas Lincke") and [Christoph Wirth](Christoph_Wirth "Christoph Wirth"), [pdf](http://www.datacomm.ch/m.luescher/evaluation_function_en.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Christoph Wirth](Christoph_Wirth "Christoph Wirth"), [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt") (**1999**). *Exhaustive and Heuristic Retrograde Analysis of the KPPKP Endgame.* [ICCA Journal, Vol. 22, No. 2](ICGA_Journal#22_2 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a>  [Chris Wirth's endgame tablebases](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=2923) by [Denis P. Mendoza](Denis_Mendoza "Denis Mendoza"), [CCRL Endgame Tablebases](Computer_Chess_Forums "Computer Chess Forums"), December 13, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ChessterfieldCL Download](http://home.datacomm.ch/m.luescher/download_cl.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chessterfield GUI screenshot](http://home.datacomm.ch/m.luescher/screenshot.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Michael Buro](Michael_Buro "Michael Buro") (**1998**). *[From Simple Features to Sophisticated Evaluation Functions](http://link.springer.com/chapter/10.1007/3-540-48957-6_8)*. [CG 1998](CG_1998 "CG 1998"), [pdf](https://skatgame.net/mburo/ps/glem.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Matthias Lüscher](Matthias_L%C3%BCscher "Matthias Lüscher") (**2000**). *Automatic Generation of an Evaluation Function for Chess Endgames*. [ETH Zurich](ETH_Zurich "ETH Zurich") Supervisors: [Thomas Lincke](Thomas_Lincke "Thomas Lincke") and [Christoph Wirth](Christoph_Wirth "Christoph Wirth"), [pdf](http://www.datacomm.ch/m.luescher/evaluation_function_en.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Christoph Wirth](Christoph_Wirth "Christoph Wirth"), [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt") (**1999**). *Exhaustive and Heuristic Retrograde Analysis of the KPPKP Endgame.* [ICCA Journal, Vol. 22, No. 2](ICGA_Journal#22_2 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a>  [Chris Wirth's endgame tablebases](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=2923) by [Denis P. Mendoza](Denis_Mendoza "Denis Mendoza"), [CCRL Endgame Tablebases](Computer_Chess_Forums "Computer Chess Forums"), December 13, 2007
 
 **[Up one level](Engines "Engines")**
 

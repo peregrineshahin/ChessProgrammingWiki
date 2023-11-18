@@ -42,10 +42,10 @@ Klaus-Uwe Koschnick is author of the [Backgammon](Backgammon "Backgammon") playi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr. Klaus-Uwe Koschnick - Geschäftsführer - VIA Software GmbH & Co KG | XING](https://www.xing.com/profile/KlausUwe_Koschnick)
- 2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ein gutes Jahr beginnt mit dem Ende eines Skandals](http://forum.computerschach.de/cgi-bin/mwf/topic_show.pl?tid=4320) by [Michael Scheidl](index.php?title=Michael_Scheidl&action=edit&redlink=1 "Michael Scheidl (page does not exist)"), [CSS Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2012 with follow-up by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") mentioning his advisor [Rudolf Ahlswede](Mathematician#Ahlswede "Mathematician"), [Søren Riis](S%C3%B8ren_Riis "Søren Riis") (the topic of the postings is his [ChessBase](ChessBase "ChessBase") [article](S%C3%B8ren_Riis#Miscarriage "Søren Riis") concerning the [Rybka Controversy](Rybka_Controversy "Rybka Controversy")), and Klaus-Uwe Koschnick (with images) (German) 
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Klaus-Uwe Koschnick](https://dblp.uni-trier.de/pers/hd/k/Koschnick:Klaus=Uwe)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Rudolf Ahlswede PhD Theses](https://www.math.uni-bielefeld.de/ahlswede/arbeiten/index1.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr. Klaus-Uwe Koschnick - Geschäftsführer - VIA Software GmbH & Co KG | XING](https://www.xing.com/profile/KlausUwe_Koschnick)
+ 2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ein gutes Jahr beginnt mit dem Ende eines Skandals](http://forum.computerschach.de/cgi-bin/mwf/topic_show.pl?tid=4320) by [Michael Scheidl](index.php?title=Michael_Scheidl&action=edit&redlink=1 "Michael Scheidl (page does not exist)"), [CSS Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2012 with follow-up by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") mentioning his advisor [Rudolf Ahlswede](Mathematician#Ahlswede "Mathematician"), [Søren Riis](S%C3%B8ren_Riis "Søren Riis") (the topic of the postings is his [ChessBase](ChessBase "ChessBase") [article](S%C3%B8ren_Riis#Miscarriage "Søren Riis") concerning the [Rybka Controversy](Rybka_Controversy "Rybka Controversy")), and Klaus-Uwe Koschnick (with images) (German) 
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Klaus-Uwe Koschnick](https://dblp.uni-trier.de/pers/hd/k/Koschnick:Klaus=Uwe)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rudolf Ahlswede PhD Theses](https://www.math.uni-bielefeld.de/ahlswede/arbeiten/index1.html)
 
 **[Up one level](People "People")**
 

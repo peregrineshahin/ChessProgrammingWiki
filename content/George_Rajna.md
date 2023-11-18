@@ -68,13 +68,13 @@ In the early 90s he researched at [Tel Aviv University](https://en.wikipedia.org
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [George Rajna - Israel | LinkedIn](https://www.linkedin.com/in/georgeraina/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [George Rajna - Israel | LinkedIn](https://www.linkedin.com/in/georgeraina/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Papa's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=52)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [George Rajna - Israel | LinkedIn](https://www.linkedin.com/in/georgeraina/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [viXra.org e-Print archive, George Rajna](http://vixra.org/author/george_rajna)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Who or what is George Rajna?](https://academia.stackexchange.com/questions/116060/who-or-what-is-george-rajna) by user97402, August 29, 2018
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> republished 2012, text appears on page 76 in [Jean E. Hayes](Jean_Hayes_Michie "Jean Hayes Michie"), [David Levy](David_Levy "David Levy") (**1976**). *The world computer chess championship, Stockholm 1974*. University Press (Edinburgh) ISBN 0852242859
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [George Rajna - Israel | LinkedIn](https://www.linkedin.com/in/georgeraina/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [George Rajna - Israel | LinkedIn](https://www.linkedin.com/in/georgeraina/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Papa's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=52)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [George Rajna - Israel | LinkedIn](https://www.linkedin.com/in/georgeraina/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [viXra.org e-Print archive, George Rajna](http://vixra.org/author/george_rajna)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Who or what is George Rajna?](https://academia.stackexchange.com/questions/116060/who-or-what-is-george-rajna) by user97402, August 29, 2018
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> republished 2012, text appears on page 76 in [Jean E. Hayes](Jean_Hayes_Michie "Jean Hayes Michie"), [David Levy](David_Levy "David Levy") (**1976**). *The world computer chess championship, Stockholm 1974*. University Press (Edinburgh) ISBN 0852242859
 
 **[Up one level](People "People")**
 

@@ -27,10 +27,10 @@ Atom Chess Screen with [Pseudo Graphics Board](Graphics_Programming "Graphics Pr
 
 ## [Acornsoft Atom Chess](http://www.vintagecomputer.net/fjkraan/comp/atom/Control_Universal_catalogue_html/Acornsoft/Acornsoft_Atom_CHESS.htm) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Atom Chess - Computing History](http://www.computinghistory.org.uk/det/32771/Atom%20Chess/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Editor (**1981**). *Chess Final '81*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1981](http://www.chesscomputeruk.com/html/publication_archive.html), [pdf](http://www.chesscomputeruk.com/PCW_November_1981.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Acornsoft Atom Chess](http://www.vintagecomputer.net/fjkraan/comp/atom/Control_Universal_catalogue_html/Acornsoft/Acornsoft_Atom_CHESS.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Acornsoft Atom Chess](http://www.vintagecomputer.net/fjkraan/comp/atom/Control_Universal_catalogue_html/Acornsoft/Acornsoft_Atom_CHESS.htm) from [Vintagecomputer.net](http://vintagecomputer.net/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Atom Chess - Computing History](http://www.computinghistory.org.uk/det/32771/Atom%20Chess/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Editor (**1981**). *Chess Final '81*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1981](http://www.chesscomputeruk.com/html/publication_archive.html), [pdf](http://www.chesscomputeruk.com/PCW_November_1981.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Acornsoft Atom Chess](http://www.vintagecomputer.net/fjkraan/comp/atom/Control_Universal_catalogue_html/Acornsoft/Acornsoft_Atom_CHESS.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Acornsoft Atom Chess](http://www.vintagecomputer.net/fjkraan/comp/atom/Control_Universal_catalogue_html/Acornsoft/Acornsoft_Atom_CHESS.htm) from [Vintagecomputer.net](http://vintagecomputer.net/)
 
 **[Up one Level](Engines "Engines")**
 

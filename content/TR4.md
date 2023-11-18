@@ -40,11 +40,11 @@ In 1968, the TR4 was superseded by the ten times faster [TR 440](TR_440 "TR 440"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [TELEFUNKEN TR4 am Leibniz-Rechenzentrum 1965](http://www.qslnet.de/member/dj4kw/tr4.htm) by [Gerd Sapper](http://www.qslnet.de/member/dj4kw/index.htm) (German, English)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Erlangen Classification System - Wikipedia.de](http://de.wikipedia.org/wiki/Erlangen_Classification_System) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Eike Jessen](Mathematician#EJessen "Mathematician"), Dieter Michel, [Hans-Jürgen Siegert](http://genealogy.math.ndsu.nodak.edu/id.php?id=25498), Heinz Voigt (**2008**). *[AEG-Telefunken TR 440: Unternehmensstrategie, Markterfolg und Nachfolger](http://link.springer.com/article/10.1007%2Fs00450-008-0048-2)*. Informatik - Forschung und Entwicklung, Vol. 22, No. 4
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [TR-4\_Brochure\_Apr60.pdf](http://bitsavers.informatik.uni-stuttgart.de/pdf/aeg-telefunken/tr4/TR-4_Brochure_Apr60.pdf), pp. 2
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Telefunken Rollkugel ~ oldmouse.com](http://www.oldmouse.com/mouse/misc/telefunken.shtml)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [TELEFUNKEN TR4 am Leibniz-Rechenzentrum 1965](http://www.qslnet.de/member/dj4kw/tr4.htm) by [Gerd Sapper](http://www.qslnet.de/member/dj4kw/index.htm) (German, English)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Erlangen Classification System - Wikipedia.de](http://de.wikipedia.org/wiki/Erlangen_Classification_System) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Eike Jessen](Mathematician#EJessen "Mathematician"), Dieter Michel, [Hans-Jürgen Siegert](http://genealogy.math.ndsu.nodak.edu/id.php?id=25498), Heinz Voigt (**2008**). *[AEG-Telefunken TR 440: Unternehmensstrategie, Markterfolg und Nachfolger](http://link.springer.com/article/10.1007%2Fs00450-008-0048-2)*. Informatik - Forschung und Entwicklung, Vol. 22, No. 4
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [TR-4\_Brochure\_Apr60.pdf](http://bitsavers.informatik.uni-stuttgart.de/pdf/aeg-telefunken/tr4/TR-4_Brochure_Apr60.pdf), pp. 2
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Telefunken Rollkugel ~ oldmouse.com](http://www.oldmouse.com/mouse/misc/telefunken.shtml)
 
 **[Up one Level](Hardware "Hardware")**
 

@@ -79,10 +79,10 @@ a private chess engine by [Ralf Dörr](Ralf_D%C3%B6rr "Ralf Dörr") and as succe
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lorenzo Costa](index.php?title=Category:Lorenzo_Costa&action=edit&redlink=1 "Category:Lorenzo Costa (page does not exist)") - The Argo, 1st third of 16th century, Current Location: Museo Civico, [Padua](https://en.wikipedia.org/wiki/Padua), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Argo from Wikipedia](https://en.wikipedia.org/wiki/Argo)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Argonaut vs Neurosis](http://www.chessgames.com/perl/chessgame?gid=1411202) from [chessgames.com](http://www.chessgames.com/index.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [6th International CSVN Tournament 2006 - Photo Gallery](http://old.csvn.nl/gallery24.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Downloads | CSVN International Computerchess Tournament | Games | ICT Leiden 2006](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=39&Itemid=26&lang=en&limitstart=5), [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lorenzo Costa](index.php?title=Category:Lorenzo_Costa&action=edit&redlink=1 "Category:Lorenzo Costa (page does not exist)") - The Argo, 1st third of 16th century, Current Location: Museo Civico, [Padua](https://en.wikipedia.org/wiki/Padua), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Argo from Wikipedia](https://en.wikipedia.org/wiki/Argo)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Argonaut vs Neurosis](http://www.chessgames.com/perl/chessgame?gid=1411202) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [6th International CSVN Tournament 2006 - Photo Gallery](http://old.csvn.nl/gallery24.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Downloads | CSVN International Computerchess Tournament | Games | ICT Leiden 2006](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=39&Itemid=26&lang=en&limitstart=5), [CSVN](CSVN "CSVN") site
 
 **[Up one Level](Engines "Engines")**
 

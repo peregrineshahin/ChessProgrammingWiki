@@ -88,14 +88,14 @@ Qa1 41.Rd2 Qb2+ 42.Kd1 Qa1+ 43.Ke2 Qh1 44.Rd7+ Kh6 45.h4 Qg2+ 46.Ke1 Qh1+ 47.Kf2
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo from [Dmitry Gurevich](https://en.wikipedia.org/wiki/Dmitry_Gurevich) (**1991**). *On The Road*. Illinois Chess Bulletin, [pdf](http://il-chess.net/icb_pdf/ICB_1991_11_12.pdf) » [Illinois Open 1991](#illinois-open-1991)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The ACM's Eighteenth North American Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6cabbd/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](https://www.computerhistory.org/chess/doc-434fea055cbb3/) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Garth Courtois Jr.](Garth_Courtois_Jr. "Garth Courtois Jr.") (**1991**). *Where is Computer Chess Going?* [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Mulder BP's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=358)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Ken Marshall (**1991**). *Andrew Karklins Wins Illinois Open - GM Gurevich Upset By Computer Program Bp'\*. Illinois Chess Bulletin, [pdf](http://il-chess.net/icb_pdf/ICB_1991_11_12.pdf)*
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Edmonton 1989 - Chess - Round 2 - Game 10 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=14&round=2&id=10)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Dmitry Gurevich](https://en.wikipedia.org/wiki/Dmitry_Gurevich) (**1991**). *On The Road*. Illinois Chess Bulletin, [pdf](http://il-chess.net/icb_pdf/ICB_1991_11_12.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo from [Dmitry Gurevich](https://en.wikipedia.org/wiki/Dmitry_Gurevich) (**1991**). *On The Road*. Illinois Chess Bulletin, [pdf](http://il-chess.net/icb_pdf/ICB_1991_11_12.pdf) » [Illinois Open 1991](#illinois-open-1991)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The ACM's Eighteenth North American Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6cabbd/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](https://www.computerhistory.org/chess/doc-434fea055cbb3/) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Garth Courtois Jr.](Garth_Courtois_Jr. "Garth Courtois Jr.") (**1991**). *Where is Computer Chess Going?* [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mulder BP's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=358)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Ken Marshall (**1991**). *Andrew Karklins Wins Illinois Open - GM Gurevich Upset By Computer Program Bp'\*. Illinois Chess Bulletin, [pdf](http://il-chess.net/icb_pdf/ICB_1991_11_12.pdf)*
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Edmonton 1989 - Chess - Round 2 - Game 10 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=14&round=2&id=10)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Dmitry Gurevich](https://en.wikipedia.org/wiki/Dmitry_Gurevich) (**1991**). *On The Road*. Illinois Chess Bulletin, [pdf](http://il-chess.net/icb_pdf/ICB_1991_11_12.pdf)
 
 **[Up one level](Engines "Engines")**
 

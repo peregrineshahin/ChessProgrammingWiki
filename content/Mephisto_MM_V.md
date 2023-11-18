@@ -39,9 +39,9 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Mephisto MMV](http://rebel13.nl/dedicated/mm5.html) from [Rebel Pure Nostalgica](http://rebel13.nl/index.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mephisto MMV](http://rebel13.nl/dedicated/mm5.html) from [Rebel Pure Nostalgica](http://rebel13.nl/index.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Programmer Stuff - Quiescent Search in REBEL](http://www.top-5000.nl/authors/rebel/chess840.htm#QS) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Mephisto MMV](http://rebel13.nl/dedicated/mm5.html) from [Rebel Pure Nostalgica](http://rebel13.nl/index.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mephisto MMV](http://rebel13.nl/dedicated/mm5.html) from [Rebel Pure Nostalgica](http://rebel13.nl/index.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Programmer Stuff - Quiescent Search in REBEL](http://www.top-5000.nl/authors/rebel/chess840.htm#QS) by [Ed Schröder](Ed_Schroder "Ed Schroder")
 
 **[Up one level](Mephisto "Mephisto")**
 

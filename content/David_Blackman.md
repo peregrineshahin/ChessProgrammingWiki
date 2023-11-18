@@ -30,7 +30,7 @@ an Australian chess player <a id="cite-note-1" href="#cite-ref-1">[1]</a>, softw
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Blackman chess games - 365Chess.com](https://www.365chess.com/players/David_Blackman)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Blackman chess games - 365Chess.com](https://www.365chess.com/players/David_Blackman)
 
 **[Up one level](People "People")**
 

@@ -27,8 +27,8 @@ an [UCI](UCI "UCI") compliant chess engine by [Folkert van Heusden](Folkert_van_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Micah](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71019) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), June 15, 2019
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess programs :: Source available, but not today?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75904) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), November 23, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Micah](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71019) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), June 15, 2019
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess programs :: Source available, but not today?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75904) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), November 23, 2020
 
 **[Up one Level](Engines "Engines")**
 

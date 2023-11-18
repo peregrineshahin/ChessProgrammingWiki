@@ -117,11 +117,11 @@ int refuteRest(Node p, int α, int β) {
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Igor Steinberg | LinkedIn](https://www.linkedin.com/in/igor-steinberg-89294136/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Igor Steinberg | LinkedIn](https://www.linkedin.com/in/igor-steinberg-89294136/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Igor Steinberg (**1991**). *Design and Analysis of Parallel Algorithms for Game-Tree Search*. Ph.D. thesis, [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin-Madison)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Igor Steinberg, [Marvin Solomon](Marvin_Solomon "Marvin Solomon") (**1989**). *Searching Game Trees in Parallel*. [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin-Madison), Technical report 877, [pdf](ftp://ftp.cs.wisc.edu/pub/techreports/1989/TR877.pdf), [pdf](https://pdfs.semanticscholar.org/0814/076db01c0e5e110ef2f40539857c8e8fccd6.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Igor Steinberg](http://dblp.uni-trier.de/pers/hd/s/Steinberg:Igor.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Igor Steinberg | LinkedIn](https://www.linkedin.com/in/igor-steinberg-89294136/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Igor Steinberg | LinkedIn](https://www.linkedin.com/in/igor-steinberg-89294136/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Igor Steinberg (**1991**). *Design and Analysis of Parallel Algorithms for Game-Tree Search*. Ph.D. thesis, [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin-Madison)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Igor Steinberg, [Marvin Solomon](Marvin_Solomon "Marvin Solomon") (**1989**). *Searching Game Trees in Parallel*. [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin-Madison), Technical report 877, [pdf](ftp://ftp.cs.wisc.edu/pub/techreports/1989/TR877.pdf), [pdf](https://pdfs.semanticscholar.org/0814/076db01c0e5e110ef2f40539857c8e8fccd6.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Igor Steinberg](http://dblp.uni-trier.de/pers/hd/s/Steinberg:Igor.html)
 
 **[Up one level](People "People")**
 

@@ -41,9 +41,9 @@ a Taiwanese computer scientist at Department of Computer Science and [Informatio
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Ping-Hung Lin (**2010**). *Relevance-Zone-Oriented Proof Search for Connect6*. Ph.D. thesis
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Publications of I-Chen Wu](http://java.csie.nctu.edu.tw/~icwu/publications.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DBLP: Ping-Hung Lin](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lin:Ping=Hung.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Ping-Hung Lin (**2010**). *Relevance-Zone-Oriented Proof Search for Connect6*. Ph.D. thesis
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Publications of I-Chen Wu](http://java.csie.nctu.edu.tw/~icwu/publications.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DBLP: Ping-Hung Lin](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lin:Ping=Hung.html)
 
 **[Up one Level](People "People")**
 

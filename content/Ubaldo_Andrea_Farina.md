@@ -45,12 +45,12 @@ Winners [IOCSC 2010](IOCSC_2010 "IOCSC 2010"): Ubaldo Andrea Farina, [Gian-Carlo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer Chess Cup 2005](http://walkofmind.com/programming/chess/ccc2005.htm) (Italian) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fauce, Author: Ubaldo Andrea Farina, Italy](http://wbec-ridderkerk.nl/html/details1/Fauce.html) from [WBEC ridderkerk](WBEC "WBEC")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [.:: Chiron Chess Engine ::.:](http://www.chironchess.com/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chiron 1.0 available for preorder](http://www.talkchess.com/forum/viewtopic.php?t=40529) by Ubaldo Andrea Farina, [CCC](CCC "CCC"), September 26, 2011
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Turin 2006 - Chess - Round 11 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=11&id=5)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> 1st Italian Open Computer Chess Cup, November 14-15, 2010, [Giocando con i Re - Home](http://www.giocandoconire.it/) (Italian)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer Chess Cup 2005](http://walkofmind.com/programming/chess/ccc2005.htm) (Italian) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fauce, Author: Ubaldo Andrea Farina, Italy](http://wbec-ridderkerk.nl/html/details1/Fauce.html) from [WBEC ridderkerk](WBEC "WBEC")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [.:: Chiron Chess Engine ::.:](http://www.chironchess.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chiron 1.0 available for preorder](http://www.talkchess.com/forum/viewtopic.php?t=40529) by Ubaldo Andrea Farina, [CCC](CCC "CCC"), September 26, 2011
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Turin 2006 - Chess - Round 11 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=11&id=5)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> 1st Italian Open Computer Chess Cup, November 14-15, 2010, [Giocando con i Re - Home](http://www.giocandoconire.it/) (Italian)
 
 **[Up one level](People "People")**
 

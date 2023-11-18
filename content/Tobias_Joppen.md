@@ -40,12 +40,12 @@ His research interests include [reinforcement learning](Reinforcement_Learning "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tobias Joppen - M.Sc. Student, Darmstadt](https://connect.unity.com/u/tobias-joppen)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Knowledge Engineering Group Staff](http://www.ke.tu-darmstadt.de/staff)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [IEEE Xplore - Tobias Joppen](https://ieeexplore.ieee.org/author/37086345464)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Tobias Joppen](https://dblp.uni-trier.de/pers/hd/j/Joppen:Tobias)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Knowledge Engineering Group - Tobias Joppen](http://www.ke.tu-darmstadt.de/staff/tobias-joppen)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [obias Joppen - Google Scholar Citations](https://scholar.google.de/citations?user=QCBD1-4AAAAJ&hl=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tobias Joppen - M.Sc. Student, Darmstadt](https://connect.unity.com/u/tobias-joppen)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Knowledge Engineering Group Staff](http://www.ke.tu-darmstadt.de/staff)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [IEEE Xplore - Tobias Joppen](https://ieeexplore.ieee.org/author/37086345464)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Tobias Joppen](https://dblp.uni-trier.de/pers/hd/j/Joppen:Tobias)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Knowledge Engineering Group - Tobias Joppen](http://www.ke.tu-darmstadt.de/staff/tobias-joppen)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [obias Joppen - Google Scholar Citations](https://scholar.google.de/citations?user=QCBD1-4AAAAJ&hl=en)
 
 **[Up one level](People "People")**
 

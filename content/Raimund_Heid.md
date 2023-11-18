@@ -32,8 +32,8 @@ a German computer scientist and software developer with a [diplom](https://en.wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Raimund Heid - Google+](https://plus.google.com/107319120328639452608/photos?banner=pwa)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Interview](http://www.schach-welt.de/schach/computerschach/interviews/raimund-heid) with Raimund Heid, by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Schachwelt.de](http://www.schach-welt.de/), February 20, 2010 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Raimund Heid - Google+](https://plus.google.com/107319120328639452608/photos?banner=pwa)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Interview](http://www.schach-welt.de/schach/computerschach/interviews/raimund-heid) with Raimund Heid, by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Schachwelt.de](http://www.schach-welt.de/), February 20, 2010 (German)
 
 **[Up one level](People "People")**
 

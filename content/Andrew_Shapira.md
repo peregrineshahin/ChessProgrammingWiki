@@ -40,10 +40,10 @@ His non professional interests include [one minute chess games](https://en.wikip
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Andrew Shapira | LinkedIn](https://www.linkedin.com/in/andrewshapira/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Andrew Shapira](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Shapira:Andrew.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [onezero » Research, Software, and Papers](http://onezero.org/research-software-and-papers)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Greedy algorithm from Wikipedia](https://en.wikipedia.org/wiki/Greedy_algorithm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Andrew Shapira | LinkedIn](https://www.linkedin.com/in/andrewshapira/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Andrew Shapira](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Shapira:Andrew.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [onezero » Research, Software, and Papers](http://onezero.org/research-software-and-papers)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Greedy algorithm from Wikipedia](https://en.wikipedia.org/wiki/Greedy_algorithm)
 
 **[Up one level](People "People")**
 

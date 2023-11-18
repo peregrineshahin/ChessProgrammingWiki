@@ -38,16 +38,16 @@ In 2013, Convekta Ltd. announced the release of [7-men](Endgame_Tablebases#7-men
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ChessAssistance.com A talk with Victor Zakharov, head of Convekta development, part a](http://chessok.com/files/bobpawlak/Articles/Victor_Zakharov_a.html) by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), February 02, 2003
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ChessAssistance.com A talk with Victor Zakharov, head of Convekta development, part b](http://chessok.com/files/bobpawlak/Articles/Victor_Zakharov_b.html) by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), February 14, 2003
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ChessAssistance.com About Sergey Abramov, head of business operations at Convekta](http://ca.chessok.com/Articles/046_Sergey_Abramov.html) by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), September 17, 2004
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [About - ChessOK.com](http://chessok.com/?page_id=262)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Endgame Nalimov Tablebases Online - ChessOK.com](http://chessok.com/?page_id=361)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Opening Tree Mode - ChessOK.com](http://chessok.com/?page_id=352)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Tournaments & Broadcasts - ChessOK.com](http://chessok.com/?page_id=139)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chess Assistant - ChessOK.com](http://chessok.com/?page_id=19894)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [7-man TB](https://plus.google.com/100454521496393505718/posts) - [Google+](https://en.wikipedia.org/wiki/Google%2B)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Lomonosov Endgame Tablebases](http://chessok.com/?page_id=27966) - ChessOK
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ChessAssistance.com A talk with Victor Zakharov, head of Convekta development, part a](http://chessok.com/files/bobpawlak/Articles/Victor_Zakharov_a.html) by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), February 02, 2003
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ChessAssistance.com A talk with Victor Zakharov, head of Convekta development, part b](http://chessok.com/files/bobpawlak/Articles/Victor_Zakharov_b.html) by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), February 14, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ChessAssistance.com About Sergey Abramov, head of business operations at Convekta](http://ca.chessok.com/Articles/046_Sergey_Abramov.html) by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), September 17, 2004
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [About - ChessOK.com](http://chessok.com/?page_id=262)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Endgame Nalimov Tablebases Online - ChessOK.com](http://chessok.com/?page_id=361)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Opening Tree Mode - ChessOK.com](http://chessok.com/?page_id=352)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Tournaments & Broadcasts - ChessOK.com](http://chessok.com/?page_id=139)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chess Assistant - ChessOK.com](http://chessok.com/?page_id=19894)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [7-man TB](https://plus.google.com/100454521496393505718/posts) - [Google+](https://en.wikipedia.org/wiki/Google%2B)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Lomonosov Endgame Tablebases](http://chessok.com/?page_id=27966) - ChessOK
 
 **[Up one Level](Organizations "Organizations")**
 

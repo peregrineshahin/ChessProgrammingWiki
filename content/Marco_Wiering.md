@@ -73,12 +73,12 @@ a Dutch mathematician, computer scientist, and assistant professor at Faculty of
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marco Wiering | Universität Groningen](https://www.rug.nl/staff/m.a.wiering/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Marco Wiering's Home Page](http://www.ai.rug.nl/~mwiering/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Marco Wiering's publications page](http://www.ai.rug.nl/~mwiering/publications.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Marco Wiering](http://dblp.uni-trier.de/pers/hd/w/Wiering:Marco)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ms. Pac-Man from Wikipedia](https://en.wikipedia.org/wiki/Ms._Pac-Man)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [GitHub - paintception/Deep-Quality-Value-DQV-Learning-: DQV-Learning: a novel faster synchronous Deep Reinforcement Learning algorithm](https://github.com/paintception/Deep-Quality-Value-DQV-Learning-)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marco Wiering | Universität Groningen](https://www.rug.nl/staff/m.a.wiering/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Marco Wiering's Home Page](http://www.ai.rug.nl/~mwiering/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Marco Wiering's publications page](http://www.ai.rug.nl/~mwiering/publications.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Marco Wiering](http://dblp.uni-trier.de/pers/hd/w/Wiering:Marco)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ms. Pac-Man from Wikipedia](https://en.wikipedia.org/wiki/Ms._Pac-Man)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GitHub - paintception/Deep-Quality-Value-DQV-Learning-: DQV-Learning: a novel faster synchronous Deep Reinforcement Learning algorithm](https://github.com/paintception/Deep-Quality-Value-DQV-Learning-)
 
 **[Up one level](People "People")**
 

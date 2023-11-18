@@ -266,7 +266,7 @@ The intersection of those targets with squares not occupied by own pieces or att
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [View facsimile print](http://www.mcescher.com/Shopmain/ShopEU/facsilimeprints/prints.html) from [M.C. Escher - 16 Facsimile Prints](http://www.mcescher.com/Shopmain/ShopEU/facsilimeprints/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [View facsimile print](http://www.mcescher.com/Shopmain/ShopEU/facsilimeprints/prints.html) from [M.C. Escher - 16 Facsimile Prints](http://www.mcescher.com/Shopmain/ShopEU/facsilimeprints/)
 
 **[Up one Level](Bitboards "Bitboards")**
 

@@ -45,10 +45,10 @@ While affiliated with the [Maastricht University](Maastricht_University "Maastri
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Report on the 8th Dutch National Computer-Chess Championship*. [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal")  » [DOCCC 1988](DOCCC_1988 "DOCCC 1988")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Maarten van der Meulen (**1988**). *Parallel Conspiracy-Number Search*. M.Sc. thesis, Faculty of Mathematics and Computer Science, [Vrije Universteit, Amsterdam](https://en.wikipedia.org/wiki/Vrije_Universiteit)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Maarten van der Meulen's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=250)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Maarten van der Meulen](https://dblp.uni-trier.de/pers/hd/m/Meulen:Maarten_van_der)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Report on the 8th Dutch National Computer-Chess Championship*. [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal")  » [DOCCC 1988](DOCCC_1988 "DOCCC 1988")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Maarten van der Meulen (**1988**). *Parallel Conspiracy-Number Search*. M.Sc. thesis, Faculty of Mathematics and Computer Science, [Vrije Universteit, Amsterdam](https://en.wikipedia.org/wiki/Vrije_Universiteit)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Maarten van der Meulen's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=250)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Maarten van der Meulen](https://dblp.uni-trier.de/pers/hd/m/Meulen:Maarten_van_der)
 
 **[Up one level](People "People")**
 

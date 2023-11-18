@@ -27,9 +27,9 @@ DreamChess authors were [Kris McAulay](index.php?title=Kris_McAulay&action=edit&
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Screenshots | DreamChess](https://www.dreamchess.org/screenshots)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [DreamChess - home](https://www.dreamchess.org/home.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dreamchess/credits.c at master · dreamchess/dreamchess · GitHub](https://github.com/dreamchess/dreamchess/blob/master/dreamchess/src/credits.c)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Screenshots | DreamChess](https://www.dreamchess.org/screenshots)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [DreamChess - home](https://www.dreamchess.org/home.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dreamchess/credits.c at master · dreamchess/dreamchess · GitHub](https://github.com/dreamchess/dreamchess/blob/master/dreamchess/src/credits.c)
 
 **[Up one Level](GUI "GUI")**
 

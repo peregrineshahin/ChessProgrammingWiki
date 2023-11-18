@@ -110,8 +110,8 @@ After the tournament, the directors, participants, and other interested parties 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The largest head of [Soviet](https://en.wikipedia.org/wiki/Soviet_Union) leader [Vladimir Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin) ever built is in [Ulan-Ude](https://en.wikipedia.org/wiki/Ulan-Ude), July 08, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The largest head of [Soviet](https://en.wikipedia.org/wiki/Soviet_Union) leader [Vladimir Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin) ever built is in [Ulan-Ude](https://en.wikipedia.org/wiki/Ulan-Ude), July 08, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
 
 **[Up one level](Tournaments_and_Matches "Tournaments and Matches")**
 

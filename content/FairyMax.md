@@ -51,10 +51,10 @@ Game depiction showing output from the Fairy-Max chess engine <a id="cite-note-4
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Lily Fairy](https://commons.wikimedia.org/wiki/File:Falero_Luis_Ricardo_Lily_Fairy_1888.jpg) by [Luis Ricardo Falero](Category:Luis_Ricardo_Falero "Category:Luis Ricardo Falero"), [Oil on canvas](https://en.wikipedia.org/wiki/Oil_painting), 1888, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fairy-Max: an AI for playing user-defined Chess variants](http://home.hccnet.nl/h.g.muller/CVfairy.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Anatomy of a simple engine: Fairy-Max](http://www.open-aurec.com/wbforum/viewtopic.php?f=24&t=52775) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Winboard Forum | Chess Programming Lessons](Computer_Chess_Forums "Computer Chess Forums"), March 28, 2013
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> A sample chess game being played using Fairy-Max. Note: Fairy-Max is a chess engine and the actual output depends on the GUI it is used with. This is an arbitrary image showing some data output possible when using Fairy-Max software, Image by LithiumFlash, July 03, 2017, [Fairy-Max from Wikipedia](https://en.wikipedia.org/wiki/Fairy-Max)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Lily Fairy](https://commons.wikimedia.org/wiki/File:Falero_Luis_Ricardo_Lily_Fairy_1888.jpg) by [Luis Ricardo Falero](Category:Luis_Ricardo_Falero "Category:Luis Ricardo Falero"), [Oil on canvas](https://en.wikipedia.org/wiki/Oil_painting), 1888, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fairy-Max: an AI for playing user-defined Chess variants](http://home.hccnet.nl/h.g.muller/CVfairy.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Anatomy of a simple engine: Fairy-Max](http://www.open-aurec.com/wbforum/viewtopic.php?f=24&t=52775) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Winboard Forum | Chess Programming Lessons](Computer_Chess_Forums "Computer Chess Forums"), March 28, 2013
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> A sample chess game being played using Fairy-Max. Note: Fairy-Max is a chess engine and the actual output depends on the GUI it is used with. This is an arbitrary image showing some data output possible when using Fairy-Max software, Image by LithiumFlash, July 03, 2017, [Fairy-Max from Wikipedia](https://en.wikipedia.org/wiki/Fairy-Max)
 
 **[Up one Level](Engines "Engines")**
 

@@ -30,9 +30,9 @@ a private chess engine <a id="cite-note-2" href="#cite-ref-2">[2]</a> written in
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Dicke Berta (Fat Berta), [lighthouse](https://en.wikipedia.org/wiki/Lighthouse) in [Cuxhaven](https://en.wikipedia.org/wiki/Cuxhaven), Germany, [Dicke Berta (Leuchtturm) from Wikipedia.de](<https://de.wikipedia.org/wiki/Dicke_Berta_(Leuchtturm)>) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [BertaSchnebel](https://www.chessclub.com/forums/member/BertaSchnebel), [Internet Chess Club](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Dicke Berta (Fat Berta), [lighthouse](https://en.wikipedia.org/wiki/Lighthouse) in [Cuxhaven](https://en.wikipedia.org/wiki/Cuxhaven), Germany, [Dicke Berta (Leuchtturm) from Wikipedia.de](<https://de.wikipedia.org/wiki/Dicke_Berta_(Leuchtturm)>) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [BertaSchnebel](https://www.chessclub.com/forums/member/BertaSchnebel), [Internet Chess Club](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)")
 
 **[Up one Level](Engines "Engines")**
 

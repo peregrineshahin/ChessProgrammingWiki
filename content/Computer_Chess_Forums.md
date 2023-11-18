@@ -123,7 +123,7 @@ Unmoderated [newsgroups](https://en.wikipedia.org/wiki/Google_Groups) contain a 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> HDR panoramic view out of 9 pictures (3 exposures at 3 different angles). [Picture](<https://commons.wikimedia.org/wiki/File:Forum_romanum_6k_(5760x2097).jpg>) taken from the [Capitoline Museums](https://en.wikipedia.org/wiki/Capitoline_Museums) by [BeBo86](https://commons.wikimedia.org/wiki/User:BeBo86), June 02, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> HDR panoramic view out of 9 pictures (3 exposures at 3 different angles). [Picture](<https://commons.wikimedia.org/wiki/File:Forum_romanum_6k_(5760x2097).jpg>) taken from the [Capitoline Museums](https://en.wikipedia.org/wiki/Capitoline_Museums) by [BeBo86](https://commons.wikimedia.org/wiki/User:BeBo86), June 02, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one Level](Home "Home")**
 

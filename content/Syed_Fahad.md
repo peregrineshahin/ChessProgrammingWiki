@@ -78,13 +78,13 @@ a computer chess programmer from [Indian-administrated region](https://en.wikipe
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [where to start chess programming?](http://www.talkchess.com/forum/viewtopic.php?t=52709) by Syed Fahad, [CCC](CCC "CCC"), June 21, 2014
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chesser: A Chess Engine derived from wingletx](http://www.talkchess.com/forum/viewtopic.php?t=54740) by Syed Fahad, [CCC](CCC "CCC"), December 24, 2014
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Yaka - An original chess engine - Syed Fahad's Website](https://sites.google.com/site/sydfhd/projects/yaka)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [M42 from Wikipedia](https://en.wikipedia.org/wiki/M42)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [M42 - Library for Bitboard Attack Mask Generation - Syed Fahad's Website](https://sites.google.com/site/sydfhd/projects/m42)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> personal communication
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [GitHub - sinandredemption/M42: C++ Library for Bitboard Attack Mask Generation](https://github.com/sinandredemption/M42)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [where to start chess programming?](http://www.talkchess.com/forum/viewtopic.php?t=52709) by Syed Fahad, [CCC](CCC "CCC"), June 21, 2014
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chesser: A Chess Engine derived from wingletx](http://www.talkchess.com/forum/viewtopic.php?t=54740) by Syed Fahad, [CCC](CCC "CCC"), December 24, 2014
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Yaka - An original chess engine - Syed Fahad's Website](https://sites.google.com/site/sydfhd/projects/yaka)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [M42 from Wikipedia](https://en.wikipedia.org/wiki/M42)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [M42 - Library for Bitboard Attack Mask Generation - Syed Fahad's Website](https://sites.google.com/site/sydfhd/projects/m42)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> personal communication
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [GitHub - sinandredemption/M42: C++ Library for Bitboard Attack Mask Generation](https://github.com/sinandredemption/M42)
 
 **[Up one level](People "People")**
 

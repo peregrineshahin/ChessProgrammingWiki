@@ -17,10 +17,10 @@ a Hungarian [correspondence chess](https://en.wikipedia.org/wiki/Correspondence_
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Foto-impressie WCCC/WCSC Kanazawa, Japan](http://www.csvn.nl/index.php?option=com_content&view=article&id=472%3Afoto-impressie-wcccwcsc-kanazawa-japan&catid=51%3Atoernooien&Itemid=28&lang=en) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos") from the [CSVN site](CSVN "CSVN")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICCF Ratings > Player details > Jergler, Csaba](https://www.iccf.com/PlayerDetails.aspx?id=230591)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [E.G.D. - European Go Database | Main panel: Csaba Jergler](http://www.europeangodatabase.eu/EGD/Player_Card.php?key=12037916)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hector for Chess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=610)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Foto-impressie WCCC/WCSC Kanazawa, Japan](http://www.csvn.nl/index.php?option=com_content&view=article&id=472%3Afoto-impressie-wcccwcsc-kanazawa-japan&catid=51%3Atoernooien&Itemid=28&lang=en) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos") from the [CSVN site](CSVN "CSVN")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICCF Ratings > Player details > Jergler, Csaba](https://www.iccf.com/PlayerDetails.aspx?id=230591)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [E.G.D. - European Go Database | Main panel: Csaba Jergler](http://www.europeangodatabase.eu/EGD/Player_Card.php?key=12037916)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hector for Chess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=610)
 
 **[Up one level](People "People")**
 

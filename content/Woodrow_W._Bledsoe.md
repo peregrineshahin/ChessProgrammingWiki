@@ -66,11 +66,11 @@ Bledsoe was interested in Computer Chess and published tournament reports on the
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Woodrow W. Bledsoe - MIT](http://groups.csail.mit.edu/medg/people/doyle/gallery/bledsoe/), [Woody Bledsoe from Wikipedia](https://en.wikipedia.org/wiki/Woody_Bledsoe), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Mathematics Genealogy Project - Woodrow Bledsoe](https://genealogy.math.ndsu.nodak.edu/id.php?id=32274)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Woodrow Bledsoe Originates of Automated Facial Recognition : History of Information](http://www.historyofinformation.com/detail.php?entryid=2495)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Panorama Research](http://pano.com/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [DBLP: W. W. Bledsoe](https://dblp.uni-trier.de/pers/b/Bledsoe:W=_W=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Woodrow W. Bledsoe - MIT](http://groups.csail.mit.edu/medg/people/doyle/gallery/bledsoe/), [Woody Bledsoe from Wikipedia](https://en.wikipedia.org/wiki/Woody_Bledsoe), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Mathematics Genealogy Project - Woodrow Bledsoe](https://genealogy.math.ndsu.nodak.edu/id.php?id=32274)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Woodrow Bledsoe Originates of Automated Facial Recognition : History of Information](http://www.historyofinformation.com/detail.php?entryid=2495)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Panorama Research](http://pano.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [DBLP: W. W. Bledsoe](https://dblp.uni-trier.de/pers/b/Bledsoe:W=_W=.html)
 
 **[Up one level](People "People")**
 

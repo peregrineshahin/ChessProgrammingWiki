@@ -40,7 +40,7 @@ The CPW team thanks all [People](People "People") and [Organizations](Organizati
 
 ### References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Schaakcomputer database](http://www.schaakcomputers.nl/hein_veldhuis/) by Hein Veldhuis
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by Mike Watters
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Schaakcomputer database](http://www.schaakcomputers.nl/hein_veldhuis/) by Hein Veldhuis
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by Mike Watters
 

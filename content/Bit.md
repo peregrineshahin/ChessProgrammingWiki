@@ -71,8 +71,8 @@ Bitwise addition (Modulo 2) and subtraction with aggregations of Bits without ov
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bits](http://ljkrakauer.com/LJK/essays/bits.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Claude Shannon](Claude_Shannon "Claude Shannon") (**1948**). *A Mathematical Theory of Communication*, [pdf reprint](http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bits](http://ljkrakauer.com/LJK/essays/bits.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Claude Shannon](Claude_Shannon "Claude Shannon") (**1948**). *A Mathematical Theory of Communication*, [pdf reprint](http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf)
 
 **[Up one level](Data "Data")**
 

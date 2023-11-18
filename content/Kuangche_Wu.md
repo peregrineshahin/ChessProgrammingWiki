@@ -33,9 +33,9 @@ a Taiwanese computer scientist and Chinese Chess programmer. He holds a B.Sc. an
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kuang-Che Wu's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=95)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Kuang-che Wu](http://www.informatik.uni-trier.de/~ley/pers/hd/w/Wu:Kuang=che.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [2048 (video game) from Wikipedia](https://en.wikipedia.org/wiki/2048_%28video_game%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kuang-Che Wu's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=95)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Kuang-che Wu](http://www.informatik.uni-trier.de/~ley/pers/hd/w/Wu:Kuang=che.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [2048 (video game) from Wikipedia](https://en.wikipedia.org/wiki/2048_%28video_game%29)
 
 **[Up one Level](People "People")**
 

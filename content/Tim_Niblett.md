@@ -48,12 +48,12 @@ In 1980 I spent another summer in Edinburgh as a guest of Donald Michie. Since t
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tim Niblett (@tim\_niblett) | Twitter](https://twitter.com/tim_niblett)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Tim Niblett (**1982**). *Validation of Machine-Oriented Strategies in Chess Endgames*. Ph.D. thesis, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ross Quinlan](Ross_Quinlan "Ross Quinlan") (**1986**). *Induction of Decision Trees*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_(journal)), Vol. 1, No. 1
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [D. Michie CV](http://www.aiai.ed.ac.uk/%7Edm/dmcv.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [I remember Donald Michie (1923 – 2007) « A Programmers Place](http://vanemden.wordpress.com/2009/06/12/i-remember-donald-michie-1923-2007/) by [Maarten van Emden](Maarten_van_Emden "Maarten van Emden"), June 12, 2009
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tim Niblett (@tim\_niblett) | Twitter](https://twitter.com/tim_niblett)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Tim Niblett (**1982**). *Validation of Machine-Oriented Strategies in Chess Endgames*. Ph.D. thesis, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ross Quinlan](Ross_Quinlan "Ross Quinlan") (**1986**). *Induction of Decision Trees*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_(journal)), Vol. 1, No. 1
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [D. Michie CV](http://www.aiai.ed.ac.uk/%7Edm/dmcv.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [I remember Donald Michie (1923 – 2007) « A Programmers Place](http://vanemden.wordpress.com/2009/06/12/i-remember-donald-michie-1923-2007/) by [Maarten van Emden](Maarten_van_Emden "Maarten van Emden"), June 12, 2009
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

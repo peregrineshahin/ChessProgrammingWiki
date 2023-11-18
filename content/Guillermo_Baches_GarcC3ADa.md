@@ -18,7 +18,7 @@ While affiliated with the [Barcelona School of Informatics](http://www.fib.upc.e
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Guillermo Baches García, closing ceremony, [WCCC 2006](WCCC_2006 "WCCC 2006"), Turin, Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Guillermo Baches García, closing ceremony, [WCCC 2006](WCCC_2006 "WCCC 2006"), Turin, Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
 
 **[Up one level](People "People")**
 

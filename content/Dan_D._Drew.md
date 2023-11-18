@@ -21,13 +21,13 @@ was an American computer scientist and Professor Emeritus at [Texas A&M Universi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Drew, Dan D | People | Computer Science & Engineering | College of Engineering](http://engineering.tamu.edu/cse/people/ddrew)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Texas A&M University 08-09 Undergraduate Catalog](http://catalog.tamu.edu/08-09_ug_catalog/faculty/emeriti_faculty/emeriti_d.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Upsilon Pi Epsilon (UPE) - Texas A&M Chapter of UPE Receives Significant Donation from Spectra Energy](http://upe.acm.org/texas_am_news.html), March 27, 2013
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ACM 1970 - Special Events for Association for Computing Machinery, 25th National Conference](http://archive.computerhistory.org/projects/chess/related_materials/text/3-0%20and%203-1%20and%203-2%20and%203-3%20and%205-2.1970_ACM_70/1970_ACM.062303010.pdf) (pdf), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Dan D. Drew](http://www.informatik.uni-trier.de/~ley/pers/hd/d/Drew:Dan_D=.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Upsilon Pi Epsilon from Wikipedia](https://en.wikipedia.org/wiki/Upsilon_Pi_Epsilon)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Spectra Energy from Wikipedia](https://en.wikipedia.org/wiki/Spectra_Energy)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Drew, Dan D | People | Computer Science & Engineering | College of Engineering](http://engineering.tamu.edu/cse/people/ddrew)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Texas A&M University 08-09 Undergraduate Catalog](http://catalog.tamu.edu/08-09_ug_catalog/faculty/emeriti_faculty/emeriti_d.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Upsilon Pi Epsilon (UPE) - Texas A&M Chapter of UPE Receives Significant Donation from Spectra Energy](http://upe.acm.org/texas_am_news.html), March 27, 2013
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ACM 1970 - Special Events for Association for Computing Machinery, 25th National Conference](http://archive.computerhistory.org/projects/chess/related_materials/text/3-0%20and%203-1%20and%203-2%20and%203-3%20and%205-2.1970_ACM_70/1970_ACM.062303010.pdf) (pdf), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Dan D. Drew](http://www.informatik.uni-trier.de/~ley/pers/hd/d/Drew:Dan_D=.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Upsilon Pi Epsilon from Wikipedia](https://en.wikipedia.org/wiki/Upsilon_Pi_Epsilon)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Spectra Energy from Wikipedia](https://en.wikipedia.org/wiki/Spectra_Energy)
 
 **[Up one level](People "People")**
 

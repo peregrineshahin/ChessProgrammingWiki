@@ -47,12 +47,12 @@ a Japanese computer scientist, and Professor at Department of Electrical Enginee
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Takashi Chikayama - Homepage](http://www.logos.t.u-tokyo.ac.jp/www/home/chik/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Daisaku Yokoyama](Daisaku_Yokoyama "Daisaku Yokoyama"), [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka"), [Takashi Maruyama](Takashi_Maruyama "Takashi Maruyama"), Takashi Chikayama (**2002**). *[Implementation of "Gekisashi". A Computer Shogi Player](http://sciencelinks.jp/j-east/article/200218/000020021802A0583583.php)*. [Joho Shori Gakkai Natsu no Puroguramingu, Shinpojiumu Hokokushu](http://sciencelinks.jp/j-east/journal/J/L0461A/2006.php) (Japanese)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DBLP: Takashi Chikayama](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/c/Chikayama:Takashi.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [David Levy](David_Levy "David Levy") (**2002**). *[SOME COMMENTS ON REALIZATION PROBABILITIES AND THE SEX ALGORITHM](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm#SOME%20COMMENTS%20ON%20REALIZATION%20PROBABILITIES)*.[ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [The 17th International Conference on Algorithmic Learning Theory](http://www-alg.ist.hokudai.ac.jp/%7Ethomas/ALT06/progfin.pdf) (pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Takashi Chikayama - Homepage](http://www.logos.t.u-tokyo.ac.jp/www/home/chik/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Daisaku Yokoyama](Daisaku_Yokoyama "Daisaku Yokoyama"), [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka"), [Takashi Maruyama](Takashi_Maruyama "Takashi Maruyama"), Takashi Chikayama (**2002**). *[Implementation of "Gekisashi". A Computer Shogi Player](http://sciencelinks.jp/j-east/article/200218/000020021802A0583583.php)*. [Joho Shori Gakkai Natsu no Puroguramingu, Shinpojiumu Hokokushu](http://sciencelinks.jp/j-east/journal/J/L0461A/2006.php) (Japanese)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DBLP: Takashi Chikayama](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/c/Chikayama:Takashi.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [David Levy](David_Levy "David Levy") (**2002**). *[SOME COMMENTS ON REALIZATION PROBABILITIES AND THE SEX ALGORITHM](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm#SOME%20COMMENTS%20ON%20REALIZATION%20PROBABILITIES)*.[ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The 17th International Conference on Algorithmic Learning Theory](http://www-alg.ist.hokudai.ac.jp/%7Ethomas/ALT06/progfin.pdf) (pdf)
 
 **[Up one level](People "People")**
 

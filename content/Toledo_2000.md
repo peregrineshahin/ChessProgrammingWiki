@@ -53,8 +53,8 @@ Toledo 2000 played a strong [WMCCC 1997](WMCCC_1997 "WMCCC 1997") in [Paris](htt
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [View of Toledo](https://en.wikipedia.org/wiki/View_of_Toledo) by resident [El Greco](index.php?title=Category:El_Greco&action=edit&redlink=1 "Category:El Greco (page does not exist)"), ca. 1596-00, [Metropolitan Museum of Art](https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art), [Google Art Project](https://en.wikipedia.org/wiki/Google_Arts_%26_Culture)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Paris 1997 - Chess - Round 1 - Game 16 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=1&id=16)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [View of Toledo](https://en.wikipedia.org/wiki/View_of_Toledo) by resident [El Greco](index.php?title=Category:El_Greco&action=edit&redlink=1 "Category:El Greco (page does not exist)"), ca. 1596-00, [Metropolitan Museum of Art](https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art), [Google Art Project](https://en.wikipedia.org/wiki/Google_Arts_%26_Culture)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Paris 1997 - Chess - Round 1 - Game 16 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=1&id=16)
 
 **[Up one level](Engines "Engines")**
 

@@ -49,11 +49,11 @@ a German computer scientist, in the early 90s affiliated with the [Technical Uni
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WCCC 2006](WCCC_2006 "WCCC 2006") Turin, Photo by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The UCI Specification](http://www.shredderchess.com/chess-info/features/uci-universal-chess-interface.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Peter Berger](Peter_Berger "Peter Berger") and Rudolf in [Crafty](Crafty "Crafty") vs. [ParSOS](ParSOS "ParSOS"), Blitz [WCCC 2006](WCCC_2006 "WCCC 2006") Turin, Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Rudolf Huber](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Huber:Rudolf.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Fovea centralis from Wikipedia](https://en.wikipedia.org/wiki/Fovea_centralis)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WCCC 2006](WCCC_2006 "WCCC 2006") Turin, Photo by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The UCI Specification](http://www.shredderchess.com/chess-info/features/uci-universal-chess-interface.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Peter Berger](Peter_Berger "Peter Berger") and Rudolf in [Crafty](Crafty "Crafty") vs. [ParSOS](ParSOS "ParSOS"), Blitz [WCCC 2006](WCCC_2006 "WCCC 2006") Turin, Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Rudolf Huber](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Huber:Rudolf.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fovea centralis from Wikipedia](https://en.wikipedia.org/wiki/Fovea_centralis)
 
 **[Up one level](People "People")**
 

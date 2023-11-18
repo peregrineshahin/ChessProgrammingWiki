@@ -54,9 +54,9 @@ a Japanese electrical engineer, computer scientist, and professor at Department 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The University of Tokyo, GPES | Faculty Staff | Measurement and Evaluation | Yamaguchi, Kazunori](http://gpes.c.u-tokyo.ac.jp/faculty-staff/measurement-and-evaluation/kazunori-yamaguchi.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Department of General Systems Studies](http://system.c.u-tokyo.ac.jp/index_e.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Kazunori Yamaguchi](http://www.informatik.uni-trier.de/~ley/pers/hd/y/Yamaguchi:Kazunori.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The University of Tokyo, GPES | Faculty Staff | Measurement and Evaluation | Yamaguchi, Kazunori](http://gpes.c.u-tokyo.ac.jp/faculty-staff/measurement-and-evaluation/kazunori-yamaguchi.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Department of General Systems Studies](http://system.c.u-tokyo.ac.jp/index_e.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Kazunori Yamaguchi](http://www.informatik.uni-trier.de/~ley/pers/hd/y/Yamaguchi:Kazunori.html)
 
 **[Up one level](People "People")**
 

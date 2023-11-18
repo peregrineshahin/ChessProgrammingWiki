@@ -80,13 +80,13 @@ The evaluation features a [material hash table](Material_Hash_Table "Material Ha
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Purple Haze flower](https://commons.wikimedia.org/wiki/File:Purple_Haze_(Cannabis).jpg), Photo by [Hans Roht](https://en.wikipedia.org/wiki/User:HansRoht), May 01, 2010, [Purple Haze (cannabis) from Wikipedia](https://en.wikipedia.org/wiki/Purple_Haze_%28cannabis%29), [Cannabis (drug) from Wikipedia](https://en.wikipedia.org/wiki/Cannabis_%28drug%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [purplehaze/README.md at master · vinc/purplehaze · GitHub](https://github.com/vinc/purplehaze/blob/master/README.md)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Purple Haze v2.0.2](http://www.talkchess.com/forum/viewtopic.php?t=43028) by [Vincent Ollivier](Vincent_Ollivier "Vincent Ollivier"), [CCC](CCC "CCC"), March 26, 2012
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [github.com/vinc/purplehaze/blob/master/src/board.h](https://github.com/vinc/purplehaze/blob/master/src/board.h)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [PVS](http://www.talkchess.com/forum/viewtopic.php?t=26974) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), March 12, 2009
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [github.com/vinc/purplehaze/blob/master/src/search.cpp](https://github.com/vinc/purplehaze/blob/master/src/search.cpp)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [github.com/vinc/purplehaze/blob/master/README.md](https://github.com/vinc/purplehaze/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Purple Haze flower](https://commons.wikimedia.org/wiki/File:Purple_Haze_(Cannabis).jpg), Photo by [Hans Roht](https://en.wikipedia.org/wiki/User:HansRoht), May 01, 2010, [Purple Haze (cannabis) from Wikipedia](https://en.wikipedia.org/wiki/Purple_Haze_%28cannabis%29), [Cannabis (drug) from Wikipedia](https://en.wikipedia.org/wiki/Cannabis_%28drug%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [purplehaze/README.md at master · vinc/purplehaze · GitHub](https://github.com/vinc/purplehaze/blob/master/README.md)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Purple Haze v2.0.2](http://www.talkchess.com/forum/viewtopic.php?t=43028) by [Vincent Ollivier](Vincent_Ollivier "Vincent Ollivier"), [CCC](CCC "CCC"), March 26, 2012
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [github.com/vinc/purplehaze/blob/master/src/board.h](https://github.com/vinc/purplehaze/blob/master/src/board.h)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [PVS](http://www.talkchess.com/forum/viewtopic.php?t=26974) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), March 12, 2009
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [github.com/vinc/purplehaze/blob/master/src/search.cpp](https://github.com/vinc/purplehaze/blob/master/src/search.cpp)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [github.com/vinc/purplehaze/blob/master/README.md](https://github.com/vinc/purplehaze/blob/master/README.md)
 
 **[Up one level](Engines "Engines")**
 

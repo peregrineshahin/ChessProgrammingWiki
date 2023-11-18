@@ -24,10 +24,10 @@ Along with [Russell Wang](Russell_Wang "Russell Wang"), [Siddhartha Sen](Siddhar
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Maia Chess](https://maiachess.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Maia Chess](https://maiachess.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Reid McIlroy-Young‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=7Tclf3kAAAAJ&hl=en)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Reid McIlroy-Young](https://dblp.org/pid/196/4704.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Maia Chess](https://maiachess.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Maia Chess](https://maiachess.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Reid McIlroy-Young‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=7Tclf3kAAAAJ&hl=en)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Reid McIlroy-Young](https://dblp.org/pid/196/4704.html)
 
 **[Up one level](People "People")**
 

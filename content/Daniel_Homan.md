@@ -74,9 +74,9 @@ He received his Ph.D. in [physics](https://en.wikipedia.org/wiki/Physics) from [
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image (cropped) from [Daniel C. Homan - homepage](http://personal.denison.edu/~homand/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [EXchess: My Experimental Chess Program](http://personal.denison.edu/%7Ehomand/EXchess.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Active galactic nucleus from Wikipedia](https://en.wikipedia.org/wiki/Active_galactic_nucleus)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image (cropped) from [Daniel C. Homan - homepage](http://personal.denison.edu/~homand/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [EXchess: My Experimental Chess Program](http://personal.denison.edu/%7Ehomand/EXchess.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Active galactic nucleus from Wikipedia](https://en.wikipedia.org/wiki/Active_galactic_nucleus)
 
 **[Up one Level](People "People")**
 

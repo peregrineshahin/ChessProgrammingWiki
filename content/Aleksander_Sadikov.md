@@ -37,10 +37,10 @@ a Slovenian computer scientist, chess player, senior lecturer and researcher at 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aleksander Sadikov - Personal Information](https://ailab.si/sasha/index.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Artificial Intelligence Laboratory](https://fri.uni-lj.si/en/laboratory/lui)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aleksander Sadikov - Publications](https://ailab.si/sasha/publications.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Aleksander Sadikov](https://dblp.uni-trier.de/pers/hd/s/Sadikov:Aleksander)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aleksander Sadikov - Personal Information](https://ailab.si/sasha/index.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Artificial Intelligence Laboratory](https://fri.uni-lj.si/en/laboratory/lui)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aleksander Sadikov - Publications](https://ailab.si/sasha/publications.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Aleksander Sadikov](https://dblp.uni-trier.de/pers/hd/s/Sadikov:Aleksander)
 
 **[Up one level](People "People")**
 

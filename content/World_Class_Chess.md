@@ -28,9 +28,9 @@ Stafford claims World Class Chess was the first commercial chess program which o
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [World Class Chess (weak) has a stupendous view mode!! You MUST see it!](https://groups.google.com/d/msg/rec.games.chess.computer/bH2TBJ2A3rc/FAEZOTqc9GgJ) by Michael Kramer, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), July 4, 1996
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Twiddling the Bits: About Me](http://zimbry.blogspot.com/2011/09/about-me.html) by [David Stafford](David_Stafford "David Stafford"), September 27, 2011
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Stafford | Facebook](https://www.facebook.com/davidst)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [World Class Chess (weak) has a stupendous view mode!! You MUST see it!](https://groups.google.com/d/msg/rec.games.chess.computer/bH2TBJ2A3rc/FAEZOTqc9GgJ) by Michael Kramer, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), July 4, 1996
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Twiddling the Bits: About Me](http://zimbry.blogspot.com/2011/09/about-me.html) by [David Stafford](David_Stafford "David Stafford"), September 27, 2011
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Stafford | Facebook](https://www.facebook.com/davidst)
 
 **[Up one Level](Engines "Engines")**
 

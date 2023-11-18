@@ -121,11 +121,11 @@ a Hungarian-born American mathematician. Beside his contributions in a vast rang
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John von Neumann from Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Paul Stein](Paul_Stein "Paul Stein"), [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam") (**1957**). *Experiments in chess on electronic computing machines*. Chess Review, 13 January 1957.
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [James Kister](James_Kister "James Kister"), [Paul Stein](Paul_Stein "Paul Stein"), [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam"), [William Walden](William_Walden "William Walden"), [Mark Wells](Mark_Wells "Mark Wells") (**1957**). *[Experiments in Chess](http://dl.acm.org/citation.cfm?id=320868.320877&coll=DL&dl=GUIDE&CFID=628969023&CFTOKEN=30690604)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 4, No. 2
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Middle-square method from Wikipedia](https://en.wikipedia.org/wiki/Middle-square_method)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John von Neumann from Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Paul Stein](Paul_Stein "Paul Stein"), [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam") (**1957**). *Experiments in chess on electronic computing machines*. Chess Review, 13 January 1957.
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [James Kister](James_Kister "James Kister"), [Paul Stein](Paul_Stein "Paul Stein"), [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam"), [William Walden](William_Walden "William Walden"), [Mark Wells](Mark_Wells "Mark Wells") (**1957**). *[Experiments in Chess](http://dl.acm.org/citation.cfm?id=320868.320877&coll=DL&dl=GUIDE&CFID=628969023&CFTOKEN=30690604)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 4, No. 2
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Middle-square method from Wikipedia](https://en.wikipedia.org/wiki/Middle-square_method)
 
 **[Up one level](People "People")**
 

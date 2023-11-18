@@ -41,10 +41,10 @@ a private research university in [Stanford](https://en.wikipedia.org/wiki/Stanfo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stanford University from Wikipedia](https://en.wikipedia.org/wiki/Stanford_University)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stanford University from Wikipedia](https://en.wikipedia.org/wiki/Stanford_University)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Arthur Samuel: Pioneer in Machine Learning](http://infolab.stanford.edu/pub/voy/museum/samuel.html) by [John McCarthy](John_McCarthy "John McCarthy") from [Stanford Computer History Exhibits](http://infolab.stanford.edu/pub/voy/museum.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Les Bourgeois de Calais](https://en.wikipedia.org/wiki/The_Burghers_of_Calais) by [Auguste Rodin](Category:Auguste_Rodin "Category:Auguste Rodin") in the Memorial Court of the Main Quad, on the [Stanford University campus](https://en.wikipedia.org/wiki/Stanford_University). [Photo](http://commons.wikimedia.org/wiki/File:Les-bourgeois-de-Calais.jpg) taken September 2004 by [Introvert](http://commons.wikimedia.org/wiki/User:Introvert), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stanford University from Wikipedia](https://en.wikipedia.org/wiki/Stanford_University)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stanford University from Wikipedia](https://en.wikipedia.org/wiki/Stanford_University)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Arthur Samuel: Pioneer in Machine Learning](http://infolab.stanford.edu/pub/voy/museum/samuel.html) by [John McCarthy](John_McCarthy "John McCarthy") from [Stanford Computer History Exhibits](http://infolab.stanford.edu/pub/voy/museum.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Les Bourgeois de Calais](https://en.wikipedia.org/wiki/The_Burghers_of_Calais) by [Auguste Rodin](Category:Auguste_Rodin "Category:Auguste Rodin") in the Memorial Court of the Main Quad, on the [Stanford University campus](https://en.wikipedia.org/wiki/Stanford_University). [Photo](http://commons.wikimedia.org/wiki/File:Les-bourgeois-de-Calais.jpg) taken September 2004 by [Introvert](http://commons.wikimedia.org/wiki/User:Introvert), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one Level](Organizations "Organizations")**
 

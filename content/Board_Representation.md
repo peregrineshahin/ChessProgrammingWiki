@@ -102,8 +102,8 @@ With a board representation, one big consideration is the generation of [moves](
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Ueberschach, 1937, [[1]](https://commons.wikimedia.org/wiki/File:Paul_Klee_Ueberschach.jpg) [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Kunsthaus Zürich](https://en.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: multi-dimensional piece/square tables](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=52861&start=8) by Tony P., [CCC](CCC "CCC"), January 28, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Ueberschach, 1937, [[1]](https://commons.wikimedia.org/wiki/File:Paul_Klee_Ueberschach.jpg) [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Kunsthaus Zürich](https://en.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: multi-dimensional piece/square tables](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=52861&start=8) by Tony P., [CCC](CCC "CCC"), January 28, 2020
 
 **[Up one Level](Home "Home")**
 

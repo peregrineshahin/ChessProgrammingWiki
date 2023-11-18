@@ -97,11 +97,11 @@ Bxe5 26.dxe5 Ng4 27.Qe2 d4 28.h3 Ne3 29.Bb4 f6 30.Bxf8 Rxf8 31.c3 fxe5 32.Kh2 Rx
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Three people enjoy the summer sky over the [Delaware river](https://en.wikipedia.org/wiki/Delaware_River), [NJ](https://en.wikipedia.org/wiki/New_Jersey), USA during the [Perseid](https://en.wikipedia.org/wiki/Perseids) [meteor shower](https://en.wikipedia.org/wiki/Meteor_shower) in August, 2006. [The picture](https://commons.wikimedia.org/wiki/File:Astronomy_Amateur_3_V2.jpg) is probably a [photomontage](https://en.wikipedia.org/wiki/Photomontage), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> amateur-2.82.zip\\amateur282\\readme.txt
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Bionic Vs Crafty Debate: some data required](https://www.stmintz.com/ccc/index.php?id=40780) by [Will Singleton](Will_Singleton "Will Singleton"), [CCC](CCC "CCC"), January 25, 1999
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Amateur new winboard engine](https://www.stmintz.com/ccc/index.php?id=240197) by [Will Singleton](Will_Singleton "Will Singleton"), [CCC](CCC "CCC"), July 12, 2002
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [2008 Second Annual ACCA World Computer Chess Championships - Results](http://aigames.net/ACCA/ACCAWCRCC/2008ACCAWCRCC/2008WCRCCResults.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Three people enjoy the summer sky over the [Delaware river](https://en.wikipedia.org/wiki/Delaware_River), [NJ](https://en.wikipedia.org/wiki/New_Jersey), USA during the [Perseid](https://en.wikipedia.org/wiki/Perseids) [meteor shower](https://en.wikipedia.org/wiki/Meteor_shower) in August, 2006. [The picture](https://commons.wikimedia.org/wiki/File:Astronomy_Amateur_3_V2.jpg) is probably a [photomontage](https://en.wikipedia.org/wiki/Photomontage), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> amateur-2.82.zip\\amateur282\\readme.txt
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Bionic Vs Crafty Debate: some data required](https://www.stmintz.com/ccc/index.php?id=40780) by [Will Singleton](Will_Singleton "Will Singleton"), [CCC](CCC "CCC"), January 25, 1999
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Amateur new winboard engine](https://www.stmintz.com/ccc/index.php?id=240197) by [Will Singleton](Will_Singleton "Will Singleton"), [CCC](CCC "CCC"), July 12, 2002
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [2008 Second Annual ACCA World Computer Chess Championships - Results](http://aigames.net/ACCA/ACCAWCRCC/2008ACCAWCRCC/2008WCRCCResults.html)
 
 **[Up one Level](Engines "Engines")**
 

@@ -293,21 +293,21 @@ Rxg5 25.Qh8+ Ke7 26.Qxb8 Rc8 27.Qd6+ Kf6  1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Engine OliThink by Oliver Brausch](http://brausch.org/home/chess/index.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Engine OliThink](http://brausch.org/home/chess/index.html) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [OliPerft with divide Option as Pre Version for OliThink 5](http://www.talkchess.com/forum/viewtopic.php?t=18590) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), December 27, 2007
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [OliThink@CCT6 - Programmers View](https://www.stmintz.com/ccc/index.php?id=346753) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), February 03, 2004
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [OliThink 5.4.0 has been published with an big leap in strength for only 3 lines of code](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74203) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), June 16, 2020
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [OliThink 5.1.2 released](http://www.talkchess.com/forum/viewtopic.php?t=20505) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), April 03, 2008
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [OliThink 5.2.6 released introducing LMR](http://www.talkchess.com/forum/viewtopic.php?t=31364) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), December 31, 2009
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [OliThink 5.1.1 released](http://www.talkchess.com/forum/viewtopic.php?t=20281) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), March 21, 2008
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Kindergarten Bitboard Approach by Gerd Isenberg](http://www.talkchess.com/forum/viewtopic.php?t=24724) by [Edsel Apostol](Edsel_Apostol "Edsel Apostol"), [CCC](CCC "CCC"), November 05, 2008
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Re: Question about SEE (Static exchange evaluation)](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=166649&t=18750) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), December 18, 2007
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Re: OliThink 5.9.5 is very small](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77339&start=44) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), June 06, 2021
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [5.9.8a Half sized bitboards (slightly edited)](https://github.com/olithink/OliThink/commit/78fa794f777bd5e851fc0abbcfc1bca22e6c0dcf)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Chess Engine OliThink - OliThink Source Code Vers. 5.3.2 Java - olithink.java (slightly edited)](http://brausch.org/home/chess/index.html)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [CCT6](http://www.vrichey.de/cct6/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [CCT6](http://www.vrichey.de/cct6/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Engine OliThink by Oliver Brausch](http://brausch.org/home/chess/index.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Engine OliThink](http://brausch.org/home/chess/index.html) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [OliPerft with divide Option as Pre Version for OliThink 5](http://www.talkchess.com/forum/viewtopic.php?t=18590) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), December 27, 2007
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [OliThink@CCT6 - Programmers View](https://www.stmintz.com/ccc/index.php?id=346753) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), February 03, 2004
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [OliThink 5.4.0 has been published with an big leap in strength for only 3 lines of code](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74203) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), June 16, 2020
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [OliThink 5.1.2 released](http://www.talkchess.com/forum/viewtopic.php?t=20505) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), April 03, 2008
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [OliThink 5.2.6 released introducing LMR](http://www.talkchess.com/forum/viewtopic.php?t=31364) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), December 31, 2009
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [OliThink 5.1.1 released](http://www.talkchess.com/forum/viewtopic.php?t=20281) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), March 21, 2008
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Kindergarten Bitboard Approach by Gerd Isenberg](http://www.talkchess.com/forum/viewtopic.php?t=24724) by [Edsel Apostol](Edsel_Apostol "Edsel Apostol"), [CCC](CCC "CCC"), November 05, 2008
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: Question about SEE (Static exchange evaluation)](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=166649&t=18750) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), December 18, 2007
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: OliThink 5.9.5 is very small](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77339&start=44) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), June 06, 2021
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [5.9.8a Half sized bitboards (slightly edited)](https://github.com/olithink/OliThink/commit/78fa794f777bd5e851fc0abbcfc1bca22e6c0dcf)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Chess Engine OliThink - OliThink Source Code Vers. 5.3.2 Java - olithink.java (slightly edited)](http://brausch.org/home/chess/index.html)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [CCT6](http://www.vrichey.de/cct6/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [CCT6](http://www.vrichey.de/cct6/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
 
 **[Up one level](Engines "Engines")**
 

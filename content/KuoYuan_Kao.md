@@ -61,10 +61,10 @@ Kuo-Yuan Kao is author of the early [Go](Go "Go") program [Stone](https://www.ga
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Forum of Computer Games 2010](https://www.iis.sinica.edu.tw/cgforum2010/eng_index.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Kuo-Yuan Kao (**1997**). *[Sums of hot and tepid combinatorial games](https://dl.acm.org/citation.cfm?id=267243)*. Ph.D. thesis, [University of North Carolina at Charlotte](https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Charlotte)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Mathematics Genealogy Project - Kuo-Yuan Kao](https://genealogy.math.ndsu.nodak.edu/id.php?id=14830)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Kuo-Yuan Kao](https://dblp.uni-trier.de/pers/hd/k/Kao:Kuo=Yuan.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Forum of Computer Games 2010](https://www.iis.sinica.edu.tw/cgforum2010/eng_index.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Kuo-Yuan Kao (**1997**). *[Sums of hot and tepid combinatorial games](https://dl.acm.org/citation.cfm?id=267243)*. Ph.D. thesis, [University of North Carolina at Charlotte](https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Charlotte)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Mathematics Genealogy Project - Kuo-Yuan Kao](https://genealogy.math.ndsu.nodak.edu/id.php?id=14830)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Kuo-Yuan Kao](https://dblp.uni-trier.de/pers/hd/k/Kao:Kuo=Yuan.html)
 
 **[Up one Level](People "People")**
 

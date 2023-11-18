@@ -22,8 +22,8 @@ Engaged in programming since 1994, Dmitry Morozov started first chess programmin
 ## References
 
 1. ↑ [1.0](#cite-ref-iccf-1-0) [1.1](#cite-ref-iccf-1-1) [ICCF Player Details Morozov, Dmitry Viktorovich](https://www.iccf.com/player?id=141447)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Morozov, Dmitry - FIDE Chess Profile](https://ratings.fide.com/profile/4135296)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Quazar by Dmitry Morozov Russia](http://www.sdchess.ru/Quazar.htm) from [sdchess.ru](http://www.sdchess.ru/) (Russian)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Morozov, Dmitry - FIDE Chess Profile](https://ratings.fide.com/profile/4135296)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Quazar by Dmitry Morozov Russia](http://www.sdchess.ru/Quazar.htm) from [sdchess.ru](http://www.sdchess.ru/) (Russian)
 
 **[Up one Level](People "People")**
 

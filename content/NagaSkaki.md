@@ -109,11 +109,11 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [NagaSkaki](https://mayothi.com/nagaskaki.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [How NagaSkaki plays chess - Move generation](https://mayothi.com/nagaskakichess6.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [How NagaSkaki plays chess - The thinking process](https://mayothi.com/computerschess.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [How NagaSkaki plays chess - Evaluation](https://web.archive.org/web/20111012015457/http://mayothi.com/nagaskakichess4.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Default values may be adjusted via ini-file
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [NagaSkaki](https://mayothi.com/nagaskaki.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [How NagaSkaki plays chess - Move generation](https://mayothi.com/nagaskakichess6.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [How NagaSkaki plays chess - The thinking process](https://mayothi.com/computerschess.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [How NagaSkaki plays chess - Evaluation](https://web.archive.org/web/20111012015457/http://mayothi.com/nagaskakichess4.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Default values may be adjusted via ini-file
 
 **[Up one level](Engines "Engines")**
 

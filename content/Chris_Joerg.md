@@ -23,11 +23,11 @@ an American computer scientist and chief systems achitect at [Akamai Technologie
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Chris Joerg | LinkedIn](https://www.linkedin.com/pub/chris-joerg/2/b5/b05/de)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Cilk Project](http://supertech.csail.mit.edu/cilk/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [8th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cd6ed), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1995_WCCC/1995%20WCCC.062303014.sm.pdf) Courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Christopher F. Joerg's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=198)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Chris Joerg | LinkedIn](https://www.linkedin.com/pub/chris-joerg/2/b5/b05/de)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Cilk Project](http://supertech.csail.mit.edu/cilk/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [8th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cd6ed), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1995_WCCC/1995%20WCCC.062303014.sm.pdf) Courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Christopher F. Joerg's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=198)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
 
 **[Up one level](People "People")**
 

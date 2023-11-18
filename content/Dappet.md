@@ -50,10 +50,10 @@ h5 21.Nxf7 Rxf7 22.Bxf7 b6 23.Bd5 Bb7 24.Bxc6 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2009**). *A Thesis is more than three unrelated Ideas*. Review, [ICGA Journal](ICGA_Journal "ICGA Journal"), Vol. 32, No. 2
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Butterfly Boards*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 11, Nos. 2/3, pp. 64-71.
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1986**). *Nona retains her Title*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 9, No. 3, pp. 160
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2009**). *A Thesis is more than three unrelated Ideas*. Review, [ICGA Journal](ICGA_Journal "ICGA Journal"), Vol. 32, No. 2
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Butterfly Boards*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 11, Nos. 2/3, pp. 64-71.
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1986**). *Nona retains her Title*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 9, No. 3, pp. 160
 
 **[Up one Level](Engines "Engines")**
 

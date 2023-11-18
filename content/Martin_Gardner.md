@@ -92,19 +92,19 @@ was an American polymath, [recreational mathematics](https://en.wikipedia.org/wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Details: Martin Gardner](http://owpdb.mfo.de/detail?photo_id=1292), [MFO](https://en.wikipedia.org/wiki/Mathematical_Research_Institute_of_Oberwolfach) Photo by [Konrad Jacobs](Mathematician#Ahlswede "Mathematician"), [Erlangen](https://en.wikipedia.org/wiki/Erlangen), [Martin Gardner from Wikipedia](https://en.wikipedia.org/wiki/Martin_Gardner)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Martin Gardner from Wikipedia](https://en.wikipedia.org/wiki/Martin_Gardner)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Index to Mathematical Games](http://www.dialectrix.com/MG.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mehdi Mhalla](index.php?title=Mehdi_Mhalla&action=edit&redlink=1 "Mehdi Mhalla (page does not exist)"), [Frédéric Prost](Fr%C3%A9d%C3%A9ric_Prost "Frédéric Prost") (**2013**). *[Gardner’s Minichess Variant is Solved](http://arxiv-web3.library.cornell.edu/abs/1307.7118)*. [ICGA Journal, Vol. 36, No. 4](ICGA_Journal#36_4 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Gardner's minichess solved](http://www.open-chess.org/viewtopic.php?f=5&t=2414) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), August 29, 2013
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Martin Gardner (**1969, 1991**). *The Unexpected Hanging and Other Mathematical Diversions*. [Simon & Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster), [University Of Chicago Press](https://en.wikipedia.org/wiki/University_of_Chicago_Press), Chapter 8: A Matchbox Game-Learning Machine
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a>  Martin Gardner (**1959**). *The Game of Hex*. in *[The Scientific American Book of Mathematical Puzzles and Diversions](http://www.librarything.com/work/5317022)*. pp 73-83.[Simon & Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a>  Martin Gardner (**1970**). *[Mathematical Games - The fantastic combinations of John Conway's new solitaire game "life"](http://ddi.cs.uni-potsdam.de/HyFISCH/Produzieren/lis_projekt/proj_gamelife/ConwayScientificAmerican.htm)*. [Scientific American](Scientific_American "Scientific American"), Vol. 223, pp. 120-123.
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Martin Gardner bibliography](https://en.wikipedia.org/wiki/Martin_Gardner_bibliography)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Martin Gardner's Puzzle Books](http://martin-gardner.org/PuzzleBooks.html)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Unexpected hanging paradox from Wikipedia](https://en.wikipedia.org/wiki/Unexpected_hanging_paradox)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Negative base from Wikipedia](https://en.wikipedia.org/wiki/Negative_base)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Borromean rings from Wikipedia](https://en.wikipedia.org/wiki/Borromean_rings)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Details: Martin Gardner](http://owpdb.mfo.de/detail?photo_id=1292), [MFO](https://en.wikipedia.org/wiki/Mathematical_Research_Institute_of_Oberwolfach) Photo by [Konrad Jacobs](Mathematician#Ahlswede "Mathematician"), [Erlangen](https://en.wikipedia.org/wiki/Erlangen), [Martin Gardner from Wikipedia](https://en.wikipedia.org/wiki/Martin_Gardner)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Martin Gardner from Wikipedia](https://en.wikipedia.org/wiki/Martin_Gardner)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Index to Mathematical Games](http://www.dialectrix.com/MG.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mehdi Mhalla](index.php?title=Mehdi_Mhalla&action=edit&redlink=1 "Mehdi Mhalla (page does not exist)"), [Frédéric Prost](Fr%C3%A9d%C3%A9ric_Prost "Frédéric Prost") (**2013**). *[Gardner’s Minichess Variant is Solved](http://arxiv-web3.library.cornell.edu/abs/1307.7118)*. [ICGA Journal, Vol. 36, No. 4](ICGA_Journal#36_4 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Gardner's minichess solved](http://www.open-chess.org/viewtopic.php?f=5&t=2414) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), August 29, 2013
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Martin Gardner (**1969, 1991**). *The Unexpected Hanging and Other Mathematical Diversions*. [Simon & Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster), [University Of Chicago Press](https://en.wikipedia.org/wiki/University_of_Chicago_Press), Chapter 8: A Matchbox Game-Learning Machine
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a>  Martin Gardner (**1959**). *The Game of Hex*. in *[The Scientific American Book of Mathematical Puzzles and Diversions](http://www.librarything.com/work/5317022)*. pp 73-83.[Simon & Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a>  Martin Gardner (**1970**). *[Mathematical Games - The fantastic combinations of John Conway's new solitaire game "life"](http://ddi.cs.uni-potsdam.de/HyFISCH/Produzieren/lis_projekt/proj_gamelife/ConwayScientificAmerican.htm)*. [Scientific American](Scientific_American "Scientific American"), Vol. 223, pp. 120-123.
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Martin Gardner bibliography](https://en.wikipedia.org/wiki/Martin_Gardner_bibliography)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Martin Gardner's Puzzle Books](http://martin-gardner.org/PuzzleBooks.html)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Unexpected hanging paradox from Wikipedia](https://en.wikipedia.org/wiki/Unexpected_hanging_paradox)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Negative base from Wikipedia](https://en.wikipedia.org/wiki/Negative_base)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Borromean rings from Wikipedia](https://en.wikipedia.org/wiki/Borromean_rings)
 
 **[Up one level](People "People")**
 

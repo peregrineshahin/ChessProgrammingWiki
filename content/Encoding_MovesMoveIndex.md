@@ -512,12 +512,12 @@ Sheet of all moves, considering [Castling](Castling "Castling") (but no null mov
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Binary code from Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Subject: Maximum Number of Legal Moves](https://www.stmintz.com/ccc/index.php?id=424966) by [Andrew Shapira](Andrew_Shapira "Andrew Shapira"), [CCC](CCC "CCC"), May 08, 2005
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [max amount of moves from a position?](http://www.talkchess.com/forum/viewtopic.php?t=39332) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), June 10, 2011
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: max amount of moves from a position?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=410026&t=39332) by [Árpád Rusz](%C3%81rp%C3%A1d_Rusz "Árpád Rusz"), [CCC](CCC "CCC"), June 11, 2011
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [A detailed walkthrough of an implementation of BCGN's move index based move encoding scheme · GitHub](https://github.com/Sopel97/chess_pos_db/blob/master/docs/bcgn/move_index.md)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> PxP not possible during promotion, therefore only four capture targets
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Binary code from Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Subject: Maximum Number of Legal Moves](https://www.stmintz.com/ccc/index.php?id=424966) by [Andrew Shapira](Andrew_Shapira "Andrew Shapira"), [CCC](CCC "CCC"), May 08, 2005
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [max amount of moves from a position?](http://www.talkchess.com/forum/viewtopic.php?t=39332) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), June 10, 2011
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: max amount of moves from a position?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=410026&t=39332) by [Árpád Rusz](%C3%81rp%C3%A1d_Rusz "Árpád Rusz"), [CCC](CCC "CCC"), June 11, 2011
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [A detailed walkthrough of an implementation of BCGN's move index based move encoding scheme · GitHub](https://github.com/Sopel97/chess_pos_db/blob/master/docs/bcgn/move_index.md)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> PxP not possible during promotion, therefore only four capture targets
 
 **[Up one Level](Moves "Moves")**
 

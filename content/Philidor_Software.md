@@ -87,12 +87,12 @@ In summer 1981, Levy and O’Connell decided to loosen their relationship with [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [5505. Viktor Korchnoi’s Best Games - Chess Notes Archive 45](http://www.chesshistory.com/winter/winter45.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Intelligent Software*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [April 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html), [pdf](http://www.chesscomputeruk.com/PCW_April_1983.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Intelligent Software*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [April 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html), [pdf](http://www.chesscomputeruk.com/PCW_April_1983.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [5505. Viktor Korchnoi’s Best Games - Chess Notes Archive 45](http://www.chesshistory.com/winter/winter45.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Intelligent Software*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [April 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html), [pdf](http://www.chesscomputeruk.com/PCW_April_1983.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Intelligent Software*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [April 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html), [pdf](http://www.chesscomputeruk.com/PCW_April_1983.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -46,12 +46,12 @@ Enrique Irazoqui was editor of the annual [Computer Chess Digest](Computer_Chess
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The gospel according to Enrique Irazoqui!](http://en.chessbase.com/post/the-gospel-according-to-enrique-irazoqui-) Interview with Enrique Irazoqui by [Mariano Sigman](index.php?title=Mariano_Sigman&action=edit&redlink=1 "Mariano Sigman (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), April 18, 2003
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Enrique Irazoqui](http://www.imdb.com/name/nm0409820/) from the [Internet Movie Database](http://www.imdb.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Enrique Irazoqui – Cadaqués Tournament 2001](http://www.chessib.com/compcadaq.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Enrique Irazoqui – Cadaqués Tournament 2001](https://web.archive.org/web/20010127115000/http://www.computerschach.de/tourn/cad2001/cad2001.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Man vs Machine Team Championship starts](http://en.chessbase.com/post/man-vs-machine-team-championship-starts), [ChessBase News](ChessBase "ChessBase"), October 6, 2004
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> quoted with the kind permission of [Chrilly](Chrilly_Donninger "Chrilly Donninger") and Enir » [Hydra](Hydra "Hydra"), [Rybka](Rybka "Rybka")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The gospel according to Enrique Irazoqui!](http://en.chessbase.com/post/the-gospel-according-to-enrique-irazoqui-) Interview with Enrique Irazoqui by [Mariano Sigman](index.php?title=Mariano_Sigman&action=edit&redlink=1 "Mariano Sigman (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), April 18, 2003
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Enrique Irazoqui](http://www.imdb.com/name/nm0409820/) from the [Internet Movie Database](http://www.imdb.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Enrique Irazoqui – Cadaqués Tournament 2001](http://www.chessib.com/compcadaq.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Enrique Irazoqui – Cadaqués Tournament 2001](https://web.archive.org/web/20010127115000/http://www.computerschach.de/tourn/cad2001/cad2001.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Man vs Machine Team Championship starts](http://en.chessbase.com/post/man-vs-machine-team-championship-starts), [ChessBase News](ChessBase "ChessBase"), October 6, 2004
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> quoted with the kind permission of [Chrilly](Chrilly_Donninger "Chrilly Donninger") and Enir » [Hydra](Hydra "Hydra"), [Rybka](Rybka "Rybka")
 
 **[Up one level](People "People")**
 

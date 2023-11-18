@@ -63,11 +63,11 @@ Re6+ 79.Kc7 Re7+ 80.Kd8 Rf7 81.c6 Rf8+ 82.Ke7 Rc8 83.c7 Bg2 84.Kf7 Kb7 85.Kxg6 R
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yellow-headed Caracara](https://en.wikipedia.org/wiki/Yellow-headed_caracara) (Milvago chimachima) on male [Capybara](https://en.wikipedia.org/wiki/Capybara) (Hydrochoeris hydrochaeris), the [Pantanal](https://en.wikipedia.org/wiki/Pantanal), [Brazil](https://en.wikipedia.org/wiki/Brazil), Image by [Charles J. Sharp](https://www.wikidata.org/wiki/Q54800218), September 06, 2015, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Capybara from Wikipedia](https://en.wikipedia.org/wiki/Capybara)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Im learning the chess engines programming, with the Capivara](http://www.open-aurec.com/wbforum/viewtopic.php?f=24&t=51676) by [Lourenço Araujo de Oliveira Junior](Louren%C3%A7o_Araujo_de_Oliveira_Junior "Lourenço Araujo de Oliveira Junior"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 09, 2011
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [vivaxadrez - Capivara](http://vivaxadrez.wikispaces.com/Capivara) (Portuguese)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Capivara missed the first round at [CCT15](CCT15 "CCT15") due to a power failure
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Capivara books? It's the HS-Classic? YES !!!](http://www.talkchess.com/forum/viewtopic.php?t=44846&start=3) by [Lourenco A Oliveira Jr](Louren%C3%A7o_Araujo_de_Oliveira_Junior "Lourenço Araujo de Oliveira Junior"), [CCC](CCC "CCC"), July 07, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yellow-headed Caracara](https://en.wikipedia.org/wiki/Yellow-headed_caracara) (Milvago chimachima) on male [Capybara](https://en.wikipedia.org/wiki/Capybara) (Hydrochoeris hydrochaeris), the [Pantanal](https://en.wikipedia.org/wiki/Pantanal), [Brazil](https://en.wikipedia.org/wiki/Brazil), Image by [Charles J. Sharp](https://www.wikidata.org/wiki/Q54800218), September 06, 2015, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Capybara from Wikipedia](https://en.wikipedia.org/wiki/Capybara)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Im learning the chess engines programming, with the Capivara](http://www.open-aurec.com/wbforum/viewtopic.php?f=24&t=51676) by [Lourenço Araujo de Oliveira Junior](Louren%C3%A7o_Araujo_de_Oliveira_Junior "Lourenço Araujo de Oliveira Junior"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 09, 2011
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [vivaxadrez - Capivara](http://vivaxadrez.wikispaces.com/Capivara) (Portuguese)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Capivara missed the first round at [CCT15](CCT15 "CCT15") due to a power failure
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Capivara books? It's the HS-Classic? YES !!!](http://www.talkchess.com/forum/viewtopic.php?t=44846&start=3) by [Lourenco A Oliveira Jr](Louren%C3%A7o_Araujo_de_Oliveira_Junior "Lourenço Araujo de Oliveira Junior"), [CCC](CCC "CCC"), July 07, 2013
 
 **[Up one level](Engines "Engines")**
 

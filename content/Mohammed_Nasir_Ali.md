@@ -28,9 +28,9 @@ His interest in chess and computer chess led to his involvement in the [Hydra](H
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Muhammad Nasir Ali, LinkedIn](https://www.linkedin.com/in/muhammad-nasir-ali-b6b7735/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [All about the Hydra chess project + Interview with Mohammed Nasir Ali](https://en.chessbase.com/post/all-about-the-hydra-che-project/25) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), August 22, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**2005**). *[Interview](http://computerschach.de/Files/2000/Interview%20mit%20Ali%20Nasir%20und%20Stefan%20Meyer-Kahlen.pdf) mit Ali Nasir und [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen")*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") Online, Probeausgabe (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Muhammad Nasir Ali, LinkedIn](https://www.linkedin.com/in/muhammad-nasir-ali-b6b7735/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [All about the Hydra chess project + Interview with Mohammed Nasir Ali](https://en.chessbase.com/post/all-about-the-hydra-che-project/25) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), August 22, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**2005**). *[Interview](http://computerschach.de/Files/2000/Interview%20mit%20Ali%20Nasir%20und%20Stefan%20Meyer-Kahlen.pdf) mit Ali Nasir und [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen")*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") Online, Probeausgabe (German)
 
 **[Up one level](People "People")**
 

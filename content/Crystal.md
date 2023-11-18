@@ -48,9 +48,9 @@ feat: [Larry Coryell](Category:Larry_Coryell "Category:Larry Coryell"), [Alphons
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mineral Quartz Crystal](https://commons.wikimedia.org/wiki/File:USDA_Mineral_Quartz_Crystal_93c3951.jpg), USDA Photo 93cs3951 by Ken Hammond, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Crystal](http://talkchess.com/forum3/viewtopic.php?f=2&t=71547) by [Joseph Ellis](index.php?title=Joseph_Ellis&action=edit&redlink=1 "Joseph Ellis (page does not exist)"), [CCC](CCC "CCC"), August 14, 2019
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Crystal 3.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75072) by [Joseph Ellis](index.php?title=Joseph_Ellis&action=edit&redlink=1 "Joseph Ellis (page does not exist)"), [CCC](CCC "CCC"), September 10, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mineral Quartz Crystal](https://commons.wikimedia.org/wiki/File:USDA_Mineral_Quartz_Crystal_93c3951.jpg), USDA Photo 93cs3951 by Ken Hammond, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Crystal](http://talkchess.com/forum3/viewtopic.php?f=2&t=71547) by [Joseph Ellis](index.php?title=Joseph_Ellis&action=edit&redlink=1 "Joseph Ellis (page does not exist)"), [CCC](CCC "CCC"), August 14, 2019
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Crystal 3.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75072) by [Joseph Ellis](index.php?title=Joseph_Ellis&action=edit&redlink=1 "Joseph Ellis (page does not exist)"), [CCC](CCC "CCC"), September 10, 2020
 
 **[Up one Level](Stockfish "Stockfish")**
 

@@ -40,9 +40,9 @@ It has separate [evaluation](Evaluation "Evaluation") for [opening](Opening "Ope
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nullmover chessprogram](https://mlngveld.home.xs4all.nl/nullmover/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Photos](https://old.csvn.nl/mei2003toernooi.html) from the old [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nullmover chessprogram](https://mlngveld.home.xs4all.nl/nullmover/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Photos](https://old.csvn.nl/mei2003toernooi.html) from the old [CSVN](CSVN "CSVN") site
 
 **[Up one Level](Engines "Engines")**
 

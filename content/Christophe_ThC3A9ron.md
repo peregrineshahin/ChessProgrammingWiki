@@ -50,8 +50,8 @@ a French computer chess programmer living in [Guadeloupe](https://en.wikipedia.o
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Tiger - About us](http://www.rebel.nl/chesstiger/us.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Tiger - About us](http://www.rebel.nl/chesstiger/us.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
 
 **[Up one level](People "People")**
 

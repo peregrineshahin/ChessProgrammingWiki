@@ -38,9 +38,9 @@ feat.: [Sonny Criss](https://en.wikipedia.org/wiki/Sonny_Criss), [Al Haig](https
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Red Squirrel](https://en.wikipedia.org/wiki/Red_squirrel) (Sciurus vulgaris, Eichhörnchen) with pronounced winter ear tufts in the [Hofgarten](http://de.wikipedia.org/wiki/Hofgarten_%28D%C3%BCsseldorf%29) of [Düsseldorf](https://en.wikipedia.org/wiki/D%C3%BCsseldorf), Photo by [Ray eye](http://commons.wikimedia.org/wiki/User:Ray_eye), February 23, 2007, [Eichhörnchen – Wikipedia.de](https://de.wikipedia.org/wiki/Eichh%C3%B6rnchen) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ChessWar XVII F : final standings](http://talkchess.com/forum3/viewtopic.php?f=6&t=41182) by [Olivier Deville](Olivier_Deville "Olivier Deville"), [CCC](CCC "CCC"), November 23, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Red Squirrel](https://en.wikipedia.org/wiki/Red_squirrel) (Sciurus vulgaris, Eichhörnchen) with pronounced winter ear tufts in the [Hofgarten](http://de.wikipedia.org/wiki/Hofgarten_%28D%C3%BCsseldorf%29) of [Düsseldorf](https://en.wikipedia.org/wiki/D%C3%BCsseldorf), Photo by [Ray eye](http://commons.wikimedia.org/wiki/User:Ray_eye), February 23, 2007, [Eichhörnchen – Wikipedia.de](https://de.wikipedia.org/wiki/Eichh%C3%B6rnchen) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ChessWar XVII F : final standings](http://talkchess.com/forum3/viewtopic.php?f=6&t=41182) by [Olivier Deville](Olivier_Deville "Olivier Deville"), [CCC](CCC "CCC"), November 23, 2011
 
 **[Up one Level](Engines "Engines")**
 

@@ -37,9 +37,9 @@ a Japanese computer scientist and associate professor at [Toyota Technological I
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Makoto Miwa - Google Scholar Citations](https://scholar.google.com/citations?user=lhpx2fkAAAAJ)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Makoto Miwa](http://www.informatik.uni-trier.de/~ley/pers/hy/m/Miwa:Makoto.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The 17th International Conference on Algorithmic Learning Theory](http://www-alg.ist.hokudai.ac.jp/~thomas/ALT06/progfin.pdf) (pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Makoto Miwa - Google Scholar Citations](https://scholar.google.com/citations?user=lhpx2fkAAAAJ)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Makoto Miwa](http://www.informatik.uni-trier.de/~ley/pers/hy/m/Miwa:Makoto.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The 17th International Conference on Algorithmic Learning Theory](http://www-alg.ist.hokudai.ac.jp/~thomas/ALT06/progfin.pdf) (pdf)
 
 **[Up one level](People "People")**
 

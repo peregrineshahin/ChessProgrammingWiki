@@ -37,7 +37,7 @@ a [Go](Go "Go") variant with hidden information. There are two players and a ref
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2005**). *[A Phantom-Go Program](http://link.springer.com/chapter/10.1007/11922155_9)*. [Advances in Computer Games 11](Advances_in_Computer_Games_11 "Advances in Computer Games 11"), [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/phantomgo.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2005**). *[A Phantom-Go Program](http://link.springer.com/chapter/10.1007/11922155_9)*. [Advances in Computer Games 11](Advances_in_Computer_Games_11 "Advances in Computer Games 11"), [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/phantomgo.pdf)
 
 **[Up one Level](Games "Games")**
 

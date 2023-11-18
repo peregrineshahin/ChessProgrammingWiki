@@ -77,15 +77,15 @@ Yoshiyuki Kotani is further [maze](https://en.wikipedia.org/wiki/Maze) and [puzz
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yoshiyuki Kotani | Doctor of Engineering | Tokyo University of Agriculture and Technology, Tokyo](https://www.researchgate.net/profile/Yoshiyuki_Kotani), [ResearchGate](https://en.wikipedia.org/wiki/ResearchGate)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mazes - Puzzle](https://sites.google.com/site/geduldspiele/GalleryMazePuzzles)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Adam E. Parker](https://www.wittenberg.edu/academics/math/facultystaff/aparker.html) (**1999**). *Kotani's Ant Problem*. [Wittenberg University](https://en.wikipedia.org/wiki/Wittenberg_University), [pdf](http://www4.wittenberg.edu/academics/mathcomp/mathematics/students/student_projects/aparker_kotani.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Problem of the Month (May 2000)](http://www2.stetson.edu/%7Eefriedma/mathmagic/0500.html) from [Math Magic](http://www2.stetson.edu/%7Eefriedma/mathmagic/) by [Erich Friedman](http://www2.stetson.edu/%7Eefriedma/index.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Yoshiyuki Kotani](https://dblp.uni-trier.de/pers/hd/k/Kotani:Yoshiyuki)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Blokus Duo from Wikipedia](https://en.wikipedia.org/wiki/Blokus#Blokus_Duo.2FTravel_Blokus)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Morpion solitaire from Wikipedia](https://en.wikipedia.org/wiki/Join_Five)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Morpion Solitaire - Record Grids (5T game)](http://www.morpionsolitaire.com/English/RecordsGrids5T.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yoshiyuki Kotani | Doctor of Engineering | Tokyo University of Agriculture and Technology, Tokyo](https://www.researchgate.net/profile/Yoshiyuki_Kotani), [ResearchGate](https://en.wikipedia.org/wiki/ResearchGate)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mazes - Puzzle](https://sites.google.com/site/geduldspiele/GalleryMazePuzzles)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Adam E. Parker](https://www.wittenberg.edu/academics/math/facultystaff/aparker.html) (**1999**). *Kotani's Ant Problem*. [Wittenberg University](https://en.wikipedia.org/wiki/Wittenberg_University), [pdf](http://www4.wittenberg.edu/academics/mathcomp/mathematics/students/student_projects/aparker_kotani.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Problem of the Month (May 2000)](http://www2.stetson.edu/%7Eefriedma/mathmagic/0500.html) from [Math Magic](http://www2.stetson.edu/%7Eefriedma/mathmagic/) by [Erich Friedman](http://www2.stetson.edu/%7Eefriedma/index.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Yoshiyuki Kotani](https://dblp.uni-trier.de/pers/hd/k/Kotani:Yoshiyuki)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Blokus Duo from Wikipedia](https://en.wikipedia.org/wiki/Blokus#Blokus_Duo.2FTravel_Blokus)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Morpion solitaire from Wikipedia](https://en.wikipedia.org/wiki/Join_Five)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Morpion Solitaire - Record Grids (5T game)](http://www.morpionsolitaire.com/English/RecordsGrids5T.htm)
 
 **[Up one level](People "People")**
 

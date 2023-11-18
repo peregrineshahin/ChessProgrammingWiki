@@ -94,14 +94,14 @@ Rb3 48.Re4 Ng4 49.Rxg4+ hxg4 50.Kxg4 f2 51.Rf1 f5+ 52.Kf4 Rb4+ 53.Kf3 Rxh4 54.Rx
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Reproduction of an Alfil from [Giacomo Publicio](http://beta.biblissima.fr/fr/ark:/43093/oedataecba17c429b277b30f41f95b7a9d371d565461cb) (**1482**). *[Ars Oratoria](https://archive.org/details/OEXV540_P4/page/n139)*, by [Donald M. Liddell](https://www.abebooks.com/servlet/SearchResults?an=liddell%20donald%20macy&cm_sp=det-_-bdp-_-author) (**1937**). *[Chessmen](https://www.abebooks.com/servlet/SearchResults?an=liddell%20donald%20macy&cm_sp=det-_-bdp-_-author)*, [Alfil (chess) from Wikipedia](https://en.wikipedia.org/wiki/Alfil_%28chess%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alfil History | esacosta´s Blog](http://esacosta.wordpress.com/home-2/alfil-history/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alfil 11 MT](http://www.talkchess.com/forum/viewtopic.php?t=41263) by [esacosta](Enrique_S%C3%A1nchez_Acosta "Enrique Sánchez Acosta"), [CCC](CCC "CCC"), November 29, 2011
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alfil leaves TCEC Stage 1b due to “Own book” | Chessdom](http://www.chessdom.com/alfil-leaves-tcec-stage-1b-due-to-own-book/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Has Alfil 15.8 been withdrawn?](http://www.talkchess.com/forum/viewtopic.php?t=57433) by [Jose Mº Velasco](Jose_Maria_Velasco "Jose Maria Velasco"), [CCC](CCC "CCC"), August 29, 2015
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [· Engine/README.md at master · Alfilchess/Engine · GitHub](https://github.com/Alfilchess/Engine/blob/master/README.md)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [nTCEC - Stage 1](http://tcec.chessdom.com/stage_1.php)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [The challenge of creating Chessaria's mission-based Chess engine](https://www.gamasutra.com/blogs/MatthieuBaldyPixelWizards/20180629/319443/Interview_The_challenge_of_creating_Chessarias_Chess_engine.php), Interview with [Enrique Sánchez Acosta](Enrique_S%C3%A1nchez_Acosta "Enrique Sánchez Acosta") by [Matthieu Baldy](https://www.linkedin.com/in/matthieubaldy/), June 29, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Reproduction of an Alfil from [Giacomo Publicio](http://beta.biblissima.fr/fr/ark:/43093/oedataecba17c429b277b30f41f95b7a9d371d565461cb) (**1482**). *[Ars Oratoria](https://archive.org/details/OEXV540_P4/page/n139)*, by [Donald M. Liddell](https://www.abebooks.com/servlet/SearchResults?an=liddell%20donald%20macy&cm_sp=det-_-bdp-_-author) (**1937**). *[Chessmen](https://www.abebooks.com/servlet/SearchResults?an=liddell%20donald%20macy&cm_sp=det-_-bdp-_-author)*, [Alfil (chess) from Wikipedia](https://en.wikipedia.org/wiki/Alfil_%28chess%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alfil History | esacosta´s Blog](http://esacosta.wordpress.com/home-2/alfil-history/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alfil 11 MT](http://www.talkchess.com/forum/viewtopic.php?t=41263) by [esacosta](Enrique_S%C3%A1nchez_Acosta "Enrique Sánchez Acosta"), [CCC](CCC "CCC"), November 29, 2011
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alfil leaves TCEC Stage 1b due to “Own book” | Chessdom](http://www.chessdom.com/alfil-leaves-tcec-stage-1b-due-to-own-book/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Has Alfil 15.8 been withdrawn?](http://www.talkchess.com/forum/viewtopic.php?t=57433) by [Jose Mº Velasco](Jose_Maria_Velasco "Jose Maria Velasco"), [CCC](CCC "CCC"), August 29, 2015
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [· Engine/README.md at master · Alfilchess/Engine · GitHub](https://github.com/Alfilchess/Engine/blob/master/README.md)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [nTCEC - Stage 1](http://tcec.chessdom.com/stage_1.php)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [The challenge of creating Chessaria's mission-based Chess engine](https://www.gamasutra.com/blogs/MatthieuBaldyPixelWizards/20180629/319443/Interview_The_challenge_of_creating_Chessarias_Chess_engine.php), Interview with [Enrique Sánchez Acosta](Enrique_S%C3%A1nchez_Acosta "Enrique Sánchez Acosta") by [Matthieu Baldy](https://www.linkedin.com/in/matthieubaldy/), June 29, 2018
 
 **[Up one level](Engines "Engines")**
 

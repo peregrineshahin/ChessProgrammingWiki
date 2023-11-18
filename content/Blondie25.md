@@ -34,8 +34,8 @@ Blondie25 is the result of over 8000 generations of variation and selection, sim
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David B. Fogel](David_B._Fogel "David B. Fogel"), [Timothy J. Hays](Timothy_J._Hays "Timothy J. Hays"), [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), [James Quon](James_Quon "James Quon") (**2004**). *[A Self-Learning Evolutionary Chess Program](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1360168)*. [Proceedings of the IEEE](IEEE#Proceedings "IEEE"), Vol. 92 No. 12, [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.72.4267)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Natural Selection, Inc. Presents New Results in Evolving Chess Programs: Two Milestones in Self-Learning Chess Achieved | Natural Selection, Inc](http://natural-selection.com/press/2006/pr_05222006.html) (as of October 24, 2018 no longer avalable)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David B. Fogel](David_B._Fogel "David B. Fogel"), [Timothy J. Hays](Timothy_J._Hays "Timothy J. Hays"), [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), [James Quon](James_Quon "James Quon") (**2004**). *[A Self-Learning Evolutionary Chess Program](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1360168)*. [Proceedings of the IEEE](IEEE#Proceedings "IEEE"), Vol. 92 No. 12, [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.72.4267)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Natural Selection, Inc. Presents New Results in Evolving Chess Programs: Two Milestones in Self-Learning Chess Achieved | Natural Selection, Inc](http://natural-selection.com/press/2006/pr_05222006.html) (as of October 24, 2018 no longer avalable)
 
 **[Up one level](Engines "Engines")**
 

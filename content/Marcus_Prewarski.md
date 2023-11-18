@@ -28,8 +28,8 @@ an American software engineer and computer chess programmer. He is author of the
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [DrunkenMaster 0.1 - New engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=40893) by Marcus Prewarski, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 27, 2003
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Drunken Master Chess Engine](http://www.geocities.ws/prewarski/) by Marcus Prewarski
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [DrunkenMaster 0.1 - New engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=40893) by Marcus Prewarski, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 27, 2003
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Drunken Master Chess Engine](http://www.geocities.ws/prewarski/) by Marcus Prewarski
 
 **[Up one Level](People "People")**
 

@@ -194,10 +194,10 @@ Qxb2 24.Qf4 Bd5 25.Qg3 Qe2 26.Bc3 b4 27.Be1 Bxf3 28.gxf3 Qxe1+ 29.Kg2 Qxe5 30.Qh
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Evgenii Landis](Mathematician#Landis "Mathematician"), [Isaak Yaglom](Mathematician#Yaglom "Mathematician") (**1987**). *Remembering A.S. Kronrod*. (**2002**). Translation by [Viola Brudno](http://www.translatorscafe.com/cafe/member16949.htm), Edited by [Walter Gautschi](Mathematician#WaGautschi "Mathematician"), [ps](https://www.cs.purdue.edu/homes/wxg/Kronrod.ps)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Michael Brudno](http://www.cs.toronto.edu/~brudno/) (**2000**). *Competitions, Controversies, and Computer Chess*, [pdf](http://www.cs.toronto.edu/%7Ebrudno/essays/cchess.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Биография А.С. Кронрода](http://vikont.50webs.com/art_kronrod.html) (Biography AS Kronrod) by Alexander Yershov
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Boris Polyak. Memories.](https://7i.7iskusstv.com/y2020/nomer7/bpoljak/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Evgenii Landis](Mathematician#Landis "Mathematician"), [Isaak Yaglom](Mathematician#Yaglom "Mathematician") (**1987**). *Remembering A.S. Kronrod*. (**2002**). Translation by [Viola Brudno](http://www.translatorscafe.com/cafe/member16949.htm), Edited by [Walter Gautschi](Mathematician#WaGautschi "Mathematician"), [ps](https://www.cs.purdue.edu/homes/wxg/Kronrod.ps)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Michael Brudno](http://www.cs.toronto.edu/~brudno/) (**2000**). *Competitions, Controversies, and Computer Chess*, [pdf](http://www.cs.toronto.edu/%7Ebrudno/essays/cchess.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Биография А.С. Кронрода](http://vikont.50webs.com/art_kronrod.html) (Biography AS Kronrod) by Alexander Yershov
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Boris Polyak. Memories.](https://7i.7iskusstv.com/y2020/nomer7/bpoljak/)
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

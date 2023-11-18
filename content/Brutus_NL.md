@@ -87,10 +87,10 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Brutus' Homepage](http://vermeire.home.xs4all.nl/brutus.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Asterix from Wikipedia](https://en.wikipedia.org/wiki/Asterix)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Albert Uderzo from Wikipedia](https://en.wikipedia.org/wiki/Albert_Uderzo)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Based on Brutus 8.05, [Brutus' Homepage](http://vermeire.home.xs4all.nl/brutus.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Brutus' Homepage](http://vermeire.home.xs4all.nl/brutus.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Asterix from Wikipedia](https://en.wikipedia.org/wiki/Asterix)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Albert Uderzo from Wikipedia](https://en.wikipedia.org/wiki/Albert_Uderzo)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Based on Brutus 8.05, [Brutus' Homepage](http://vermeire.home.xs4all.nl/brutus.html)
 
 **[Up one Level](Engines "Engines")**
 

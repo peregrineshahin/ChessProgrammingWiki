@@ -26,9 +26,9 @@ title: SSE3
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [LDDQU: Load Unaligned Integer 128 Bits (x86 Instruction Set Reference)](http://siyobik.info/index.php?module=x86&id=150)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Unaligned memory operands - US Patent 6721866 Description](http://www.patentstorm.us/patents/6721866/description.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [How to Implement the FISTTP Streaming SIMD Extensions 3 Instruction - Intel® Software Network](http://software.intel.com/en-us/articles/how-to-implement-the-fisttp-streaming-simd-extensions-3-instruction/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [LDDQU: Load Unaligned Integer 128 Bits (x86 Instruction Set Reference)](http://siyobik.info/index.php?module=x86&id=150)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Unaligned memory operands - US Patent 6721866 Description](http://www.patentstorm.us/patents/6721866/description.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [How to Implement the FISTTP Streaming SIMD Extensions 3 Instruction - Intel® Software Network](http://software.intel.com/en-us/articles/how-to-implement-the-fisttp-streaming-simd-extensions-3-instruction/)
 
 **[Up one Level](X86 "X86")**
 

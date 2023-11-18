@@ -142,10 +142,10 @@ Rc8 56.f5 exf5 57.e6 Kg6 58.Ke5 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Amyan \<- Antonio Diéguez](http://www.pincha.cl/amyan/amyane.html), Amyan [1.522 screenshot](http://www.pincha.cl/amyan/amyane.jpg)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Amyan ...](http://www.pincha.cl/jueguitos/amyanjava/applete.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Description loosely based on readme.txt, Amyan 1.72, [Amyan \<- Antonio Diéguez](http://www.pincha.cl/amyan/amyane.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The 2006 First Annual ACCA Americas' Computer Chess Championships - Results - PGN download](http://compchess.org/2006ACCCResults.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Amyan \<- Antonio Diéguez](http://www.pincha.cl/amyan/amyane.html), Amyan [1.522 screenshot](http://www.pincha.cl/amyan/amyane.jpg)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Amyan ...](http://www.pincha.cl/jueguitos/amyanjava/applete.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Description loosely based on readme.txt, Amyan 1.72, [Amyan \<- Antonio Diéguez](http://www.pincha.cl/amyan/amyane.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The 2006 First Annual ACCA Americas' Computer Chess Championships - Results - PGN download](http://compchess.org/2006ACCCResults.html)
 
 **[Up one Level](Engines "Engines")**
 

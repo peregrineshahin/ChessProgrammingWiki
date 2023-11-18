@@ -118,9 +118,9 @@ First released in August 2008, it initially used [Pradu Kannan's](Pradu_Kannan "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Auguste Rodin from Wikipedia](https://en.wikipedia.org/wiki/Auguste_Rodin)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New Engine: Rodin v1.14](http://www.talkchess.com/forum/viewtopic.php?t=23126) by [Fermin Serrano](Fermin_Serrano "Fermin Serrano"), [CCC](CCC "CCC"), August 20, 2008
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Feature list based on [RODIN - Rodin chess engine & other tools](https://sites.google.com/site/clonfsp/rodin-chess-engine)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Auguste Rodin from Wikipedia](https://en.wikipedia.org/wiki/Auguste_Rodin)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New Engine: Rodin v1.14](http://www.talkchess.com/forum/viewtopic.php?t=23126) by [Fermin Serrano](Fermin_Serrano "Fermin Serrano"), [CCC](CCC "CCC"), August 20, 2008
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Feature list based on [RODIN - Rodin chess engine & other tools](https://sites.google.com/site/clonfsp/rodin-chess-engine)
 
 **[Up one level](Engines "Engines")**
 

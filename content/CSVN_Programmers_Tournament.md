@@ -98,7 +98,7 @@ The **CSVN Programmers Tournament** supersedes the [Dutch Open Computer Chess Ch
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos") (**2014**). *The Theo van der Storm Cup*. [ICGA Journal, Vol. 37, No. 2](ICGA_Journal#37_2 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos") (**2014**). *The Theo van der Storm Cup*. [ICGA Journal, Vol. 37, No. 2](ICGA_Journal#37_2 "ICGA Journal")
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

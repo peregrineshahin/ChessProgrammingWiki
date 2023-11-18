@@ -137,13 +137,13 @@ SCID Databases consist of three kind of files, index files (.si4), name files (.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Main window of Scid. The version is 4.6.2 and is running in [Windows 7](Windows "Windows"), Image by Nicoguaro, [Shane's Chess Information Database from Wikipedia](https://en.wikipedia.org/wiki/Shane%27s_Chess_Information_Database)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Scid / Wiki / ShaneHudson](https://sourceforge.net/p/scid/wiki/ShaneHudson/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Scid / Wiki / ScidAuthors](http://sourceforge.net/p/scid/wiki/ScidAuthors/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Scid / Wiki / ScidContributors](http://sourceforge.net/p/scid/wiki/ScidContributors/) by [Shane Hudson](Shane_Hudson "Shane Hudson"), April 2007
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Scid 2.1 (free chess database) now available](https://www.stmintz.com/ccc/index.php?id=140108) by [Shane Hudson](Shane_Hudson "Shane Hudson"), [CCC](CCC "CCC"), November 20, 2000
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gady Costeff](Gady_Costeff "Gady Costeff") (**2004**). *The Chess Query Language: CQL*. [ICGA Journal, Vol. 27, No. 4](ICGA_Journal#27_4 "ICGA Journal"), [pdf](http://gadycosteff.com/chess_query_language.pdf)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [si4 database format](http://scidvspc.sourceforge.net/doc/Formats.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Main window of Scid. The version is 4.6.2 and is running in [Windows 7](Windows "Windows"), Image by Nicoguaro, [Shane's Chess Information Database from Wikipedia](https://en.wikipedia.org/wiki/Shane%27s_Chess_Information_Database)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Scid / Wiki / ShaneHudson](https://sourceforge.net/p/scid/wiki/ShaneHudson/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Scid / Wiki / ScidAuthors](http://sourceforge.net/p/scid/wiki/ScidAuthors/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Scid / Wiki / ScidContributors](http://sourceforge.net/p/scid/wiki/ScidContributors/) by [Shane Hudson](Shane_Hudson "Shane Hudson"), April 2007
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Scid 2.1 (free chess database) now available](https://www.stmintz.com/ccc/index.php?id=140108) by [Shane Hudson](Shane_Hudson "Shane Hudson"), [CCC](CCC "CCC"), November 20, 2000
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gady Costeff](Gady_Costeff "Gady Costeff") (**2004**). *The Chess Query Language: CQL*. [ICGA Journal, Vol. 27, No. 4](ICGA_Journal#27_4 "ICGA Journal"), [pdf](http://gadycosteff.com/chess_query_language.pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [si4 database format](http://scidvspc.sourceforge.net/doc/Formats.htm)
 
 **[Up one Level](Databases "Databases")**
 

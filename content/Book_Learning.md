@@ -101,14 +101,14 @@ Romi remembers and incorporates winning lines regardless of which side played th
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> France in 2000 year (XXI century). Future school. France, paper card, A reproduction of the early 20th century, scan, [Learning from Wikipedia](https://en.wikipedia.org/wiki/Learning)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1999**). *[Book Learning - a Methodology to Tune an Opening Book Automatically](http://www.craftychess.com/hyatt/learning.html)*. [ICCA Journal, Vol. 22, No. 1](ICGA_Journal#22_1 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Book learning](https://www.stmintz.com/ccc/index.php?id=68381) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 12, 1999
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: questions about book learning](https://www.stmintz.com/ccc/index.php?id=340060) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 03, 2004
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Crafty Documentation](http://www.craftychess.com/hyatt/craftydoc.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Marty Hirsch](Marty_Hirsch "Marty Hirsch") (**2001**). *Machine Learning in MChess Professional* - [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9"), pp. 133-142, 135
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Positional learning](http://www.talkchess.com/forum/viewtopic.php?t=37062&start=15) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), December 18, 2010
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Anybody tried Logistello's book learning for chess?](http://www.talkchess.com/forum/viewtopic.php?t=50680) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), December 29, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> France in 2000 year (XXI century). Future school. France, paper card, A reproduction of the early 20th century, scan, [Learning from Wikipedia](https://en.wikipedia.org/wiki/Learning)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1999**). *[Book Learning - a Methodology to Tune an Opening Book Automatically](http://www.craftychess.com/hyatt/learning.html)*. [ICCA Journal, Vol. 22, No. 1](ICGA_Journal#22_1 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Book learning](https://www.stmintz.com/ccc/index.php?id=68381) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 12, 1999
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: questions about book learning](https://www.stmintz.com/ccc/index.php?id=340060) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 03, 2004
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Crafty Documentation](http://www.craftychess.com/hyatt/craftydoc.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Marty Hirsch](Marty_Hirsch "Marty Hirsch") (**2001**). *Machine Learning in MChess Professional* - [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9"), pp. 133-142, 135
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Positional learning](http://www.talkchess.com/forum/viewtopic.php?t=37062&start=15) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), December 18, 2010
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Anybody tried Logistello's book learning for chess?](http://www.talkchess.com/forum/viewtopic.php?t=50680) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), December 29, 2013
 
 **[Up one Level](Learning "Learning")**
 

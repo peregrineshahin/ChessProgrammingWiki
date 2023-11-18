@@ -29,7 +29,7 @@ a Taiwanese computer scientist affiliated with the Department of Computer Scienc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [交通大學學術集成 National Chiao Tung University](http://ir.lib.nctu.edu.tw/items-by-author?author=Tang%2C++Shi-Jie)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [交通大學學術集成 National Chiao Tung University](http://ir.lib.nctu.edu.tw/items-by-author?author=Tang%2C++Shi-Jie)
 
 **[Up one Level](People "People")**
 

@@ -38,10 +38,10 @@ an early chess program by [Ulf Rathsman](Ulf_Rathsman "Ulf Rathsman"), written i
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo of the Great Dark Horse Nebula, March 09, 2006, [Dark Horse (astronomy)](https://en.wikipedia.org/wiki/Dark_Horse_%28astronomy%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Peter Jennings](Peter_Jennings "Peter Jennings") (**1978**). *Microchess 1.5 Versus Dark Horse*. [BYTE, Vol. 3, No. 3](Byte_Magazine#BYTE303 "Byte Magazine")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [3rd World Computer Chess Championship - Linz 1980 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=68)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Barend Swets](Barend_Swets "Barend Swets") (**1978**). *Second European Computer Chess Championship, Announcement*. [ICCA Newsletter](ICGA_Journal "ICGA Journal"), Vol. 1, No. 1
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo of the Great Dark Horse Nebula, March 09, 2006, [Dark Horse (astronomy)](https://en.wikipedia.org/wiki/Dark_Horse_%28astronomy%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Peter Jennings](Peter_Jennings "Peter Jennings") (**1978**). *Microchess 1.5 Versus Dark Horse*. [BYTE, Vol. 3, No. 3](Byte_Magazine#BYTE303 "Byte Magazine")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [3rd World Computer Chess Championship - Linz 1980 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=68)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Barend Swets](Barend_Swets "Barend Swets") (**1978**). *Second European Computer Chess Championship, Announcement*. [ICCA Newsletter](ICGA_Journal "ICGA Journal"), Vol. 1, No. 1
 
 **[Up one Level](Engines "Engines")**
 

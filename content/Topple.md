@@ -115,10 +115,10 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Klein bottle](https://en.wikipedia.org/wiki/Klein_bottle) parametrized all in one piece, toppled, Graphed using [Grapher](https://en.wikipedia.org/wiki/Grapher) by [AugPi](https://commons.wikimedia.org/wiki/User:AugPi), August 15, 2019, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Topple](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67685) by [Vincent Tang](Vincent_Tang "Vincent Tang"), [CCC](CCC "CCC"), June 09, 2018
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> based on *Techniques used* in [ToppleChess/README.md at master · konsolas/ToppleChess · GitHub](https://github.com/konsolas/ToppleChess/blob/master/README.md)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> using [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") in [Topple 0.5.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70394) by [Vincent Tang](Vincent_Tang "Vincent Tang"), [CCC](CCC "CCC"), April 02, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Klein bottle](https://en.wikipedia.org/wiki/Klein_bottle) parametrized all in one piece, toppled, Graphed using [Grapher](https://en.wikipedia.org/wiki/Grapher) by [AugPi](https://commons.wikimedia.org/wiki/User:AugPi), August 15, 2019, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Topple](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67685) by [Vincent Tang](Vincent_Tang "Vincent Tang"), [CCC](CCC "CCC"), June 09, 2018
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> based on *Techniques used* in [ToppleChess/README.md at master · konsolas/ToppleChess · GitHub](https://github.com/konsolas/ToppleChess/blob/master/README.md)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> using [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") in [Topple 0.5.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70394) by [Vincent Tang](Vincent_Tang "Vincent Tang"), [CCC](CCC "CCC"), April 02, 2019
 
 **[Up one level](Engines "Engines")**
 

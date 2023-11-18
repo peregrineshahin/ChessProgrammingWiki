@@ -46,10 +46,10 @@ a British computer scientist and professor at the [University of Nottingham](htt
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo of Graham Kendall, July 20, 2008. The picture was taken at [The Coastguard restaurant](http://www.dover-kent.com/Coastguard-St-Margarets.html) in [St. Margaret's Bay](https://en.wikipedia.org/wiki/St_Margaret-at-Cliffe), [Kent](https://en.wikipedia.org/wiki/Kent), [Graham Kendall from Wikipedia](https://en.wikipedia.org/wiki/Graham_Kendall)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Graham Kendall: Home Page](http://www.graham-kendall.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Graham Kendall](https://dblp.uni-trier.de/pers/hd/k/Kendall:Graham.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Blondie24 from Wikipedia](https://en.wikipedia.org/wiki/Blondie24)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo of Graham Kendall, July 20, 2008. The picture was taken at [The Coastguard restaurant](http://www.dover-kent.com/Coastguard-St-Margarets.html) in [St. Margaret's Bay](https://en.wikipedia.org/wiki/St_Margaret-at-Cliffe), [Kent](https://en.wikipedia.org/wiki/Kent), [Graham Kendall from Wikipedia](https://en.wikipedia.org/wiki/Graham_Kendall)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Graham Kendall: Home Page](http://www.graham-kendall.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Graham Kendall](https://dblp.uni-trier.de/pers/hd/k/Kendall:Graham.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Blondie24 from Wikipedia](https://en.wikipedia.org/wiki/Blondie24)
 
 **[Up one level](People "People")**
 

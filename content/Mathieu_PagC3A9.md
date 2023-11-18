@@ -71,8 +71,8 @@ under development approximately since 2003. MatMoi 7.15.0, which played the [CCT
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [MatMoi (Chess engine)](http://www.mathieupage.com/index.php/matmoi-chess-engine/) by Mathieu Pagé
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MatMoi 7.15.0-cct, a Windows/Linux chess engine](http://www.talkchess.com/forum/viewtopic.php?t=33279) by Mathieu Pagé, [CCC](CCC "CCC"), March 15, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [MatMoi (Chess engine)](http://www.mathieupage.com/index.php/matmoi-chess-engine/) by Mathieu Pagé
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MatMoi 7.15.0-cct, a Windows/Linux chess engine](http://www.talkchess.com/forum/viewtopic.php?t=33279) by Mathieu Pagé, [CCC](CCC "CCC"), March 15, 2010
 
 **[Up one level](People "People")**
 

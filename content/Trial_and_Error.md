@@ -34,7 +34,7 @@ title: Trial and Error
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Given enough time, a hypothetical monkey typing at random would, as part of its output, [almost surely](https://en.wikipedia.org/wiki/Almost_surely) produce all of [Shakespeare's](https://en.wikipedia.org/wiki/William_Shakespeare) plays. In this image a [chimpanzee](https://en.wikipedia.org/wiki/Chimpanzee) is giving it a try, [Infinite monkey theorem from Wikipedia](https://en.wikipedia.org/wiki/Infinite_monkey_theorem), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Given enough time, a hypothetical monkey typing at random would, as part of its output, [almost surely](https://en.wikipedia.org/wiki/Almost_surely) produce all of [Shakespeare's](https://en.wikipedia.org/wiki/William_Shakespeare) plays. In this image a [chimpanzee](https://en.wikipedia.org/wiki/Chimpanzee) is giving it a try, [Infinite monkey theorem from Wikipedia](https://en.wikipedia.org/wiki/Infinite_monkey_theorem), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
 
 **[Up one Level](Algorithms "Algorithms")**
 

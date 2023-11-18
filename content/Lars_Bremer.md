@@ -41,12 +41,12 @@ as well as [Chrilly's](Chrilly_Donninger "Chrilly Donninger") Corner <a id="cite
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lars Bremer | c't Magazinr](https://www.heise.de/ct/entdecken/?redautor=Lars+Bremer)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Glarean](http://glareanverlag.wordpress.com/) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Denkspiele und mehr - Home](http://www.lbremer.de/index.html) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Denkspiele und mehr - Mustrum](http://www.lbremer.de/mustrum.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Denkspiele und mehr - Chrillys Ecke](http://www.lbremer.de/chrilly.html) (German)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Denkspiele und mehr - Schach](http://www.lbremer.de/schach.html) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lars Bremer | c't Magazinr](https://www.heise.de/ct/entdecken/?redautor=Lars+Bremer)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Glarean](http://glareanverlag.wordpress.com/) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Denkspiele und mehr - Home](http://www.lbremer.de/index.html) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Denkspiele und mehr - Mustrum](http://www.lbremer.de/mustrum.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Denkspiele und mehr - Chrillys Ecke](http://www.lbremer.de/chrilly.html) (German)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Denkspiele und mehr - Schach](http://www.lbremer.de/schach.html) (German)
 
 **[Up one level](People "People")**
 

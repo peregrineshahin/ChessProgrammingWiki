@@ -176,7 +176,7 @@ feat.: [Hubert Eaves III](https://en.wikipedia.org/wiki/Hubert_Eaves_III), [Ceci
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Goliath wall painting at the town hall of [Weiler-Simmerberg](https://en.wikipedia.org/wiki/Weiler-Simmerberg), [Westallgäu](https://en.wikipedia.org/wiki/Westallg%C3%A4u), Germany, epigram:Stand still you dear hiking man,
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Goliath wall painting at the town hall of [Weiler-Simmerberg](https://en.wikipedia.org/wiki/Weiler-Simmerberg), [Westallgäu](https://en.wikipedia.org/wiki/Westallg%C3%A4u), Germany, epigram:Stand still you dear hiking man,
 
 Look at the giant Goliath.
 
@@ -187,18 +187,18 @@ The strength does not do it alone,
 Prudence must be her godfather.
 
 Image by [Axel Mauruszat](https://commons.wikimedia.org/wiki/User:Axel.Mauruszat), September 26, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2\. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ratih Dewanti](Ratih_Dewanti "Ratih Dewanti") (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
-3\. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Thorsten about Jakarta 2](https://groups.google.com/d/msg/rec.games.chess.computer/oMolBzKM5ug/mY3wik9lBe8J) by [Dirk Frickenschmidt](Dirk_Frickenschmidt "Dirk Frickenschmidt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 10, 1996
-4\. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: WMCCC](https://www.stmintz.com/ccc/index.php?id=10200) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), September 25, 1997
-5\. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: WMCCC](https://www.stmintz.com/ccc/index.php?id=10375) by [Michael Borgstädt](Michael_Borgst%C3%A4dt "Michael Borgstädt"), [CCC](CCC "CCC"), October 05, 1997 » [WMCCC 1997](WMCCC_1997 "WMCCC 1997")
-6\. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: FREE ENGINE FOR WINBOARD (GOLIATH LIGHT)](https://www.stmintz.com/ccc/index.php?id=25604) by [Bert Seifriz](index.php?title=Berthold_Seifriz&action=edit&redlink=1 "Berthold Seifriz (page does not exist)"), [CCC](CCC "CCC"), August 29, 1998
-7\. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Goliath Light, Gromit, Patzer, SOS, etc. commercially sold](https://www.stmintz.com/ccc/index.php?id=186009) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CCC](CCC "CCC"), August 28, 2001
-8\. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [New Little Goliath 3.15 with NN released](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=79188) by Thomas J. Miller, [CCC](CCC "CCC"), January 22, 2022
-9\. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [18th World Microcomputer Chess Championship (Blitz) - Maastricht 2001 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=155)
-10\. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Paris 1997 - Chess - Round 3 - Game 11 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=3&id=11)
-11\. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Leiden 2001](http://titanic.nyme.hu/%7Ewyx/csvn2001/) by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
-12\. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Downloads | CSVN International Computerchess Tournament | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=39&Itemid=26&lang=en&limitstart=10)
-13\. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Maastricht 2001 - Chess (Blitz) - Round 5 - Game 3 (ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=155&round=5&id=3)
+2\. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ratih Dewanti](Ratih_Dewanti "Ratih Dewanti") (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+3\. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Thorsten about Jakarta 2](https://groups.google.com/d/msg/rec.games.chess.computer/oMolBzKM5ug/mY3wik9lBe8J) by [Dirk Frickenschmidt](Dirk_Frickenschmidt "Dirk Frickenschmidt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 10, 1996
+4\. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: WMCCC](https://www.stmintz.com/ccc/index.php?id=10200) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), September 25, 1997
+5\. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: WMCCC](https://www.stmintz.com/ccc/index.php?id=10375) by [Michael Borgstädt](Michael_Borgst%C3%A4dt "Michael Borgstädt"), [CCC](CCC "CCC"), October 05, 1997 » [WMCCC 1997](WMCCC_1997 "WMCCC 1997")
+6\. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: FREE ENGINE FOR WINBOARD (GOLIATH LIGHT)](https://www.stmintz.com/ccc/index.php?id=25604) by [Bert Seifriz](index.php?title=Berthold_Seifriz&action=edit&redlink=1 "Berthold Seifriz (page does not exist)"), [CCC](CCC "CCC"), August 29, 1998
+7\. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Goliath Light, Gromit, Patzer, SOS, etc. commercially sold](https://www.stmintz.com/ccc/index.php?id=186009) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CCC](CCC "CCC"), August 28, 2001
+8\. <a id="cite-ref-8" href="#cite-note-8">↑</a> [New Little Goliath 3.15 with NN released](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=79188) by Thomas J. Miller, [CCC](CCC "CCC"), January 22, 2022
+9\. <a id="cite-ref-9" href="#cite-note-9">↑</a> [18th World Microcomputer Chess Championship (Blitz) - Maastricht 2001 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=155)
+10\. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Paris 1997 - Chess - Round 3 - Game 11 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=3&id=11)
+11\. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Leiden 2001](http://titanic.nyme.hu/%7Ewyx/csvn2001/) by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
+12\. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Downloads | CSVN International Computerchess Tournament | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=39&Itemid=26&lang=en&limitstart=10)
+13\. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Maastricht 2001 - Chess (Blitz) - Round 5 - Game 3 (ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=155&round=5&id=3)
 
 **[Up one Level](Engines "Engines")**
 

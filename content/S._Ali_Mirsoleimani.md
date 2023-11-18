@@ -51,11 +51,11 @@ Involved in the [HEPGAME](Jos_Vermaseren#HEPGAME "Jos Vermaseren") project heade
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [S.A. (Ali) Mirsoleimani | LinkedIn](https://www.linkedin.com/in/alimirsoleimani/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Leiden Centre of Data Science - Leiden University](https://www.universiteitleiden.nl/en/science/leiden-centre-of-data-science)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [People | HEPGAME](http://hepgame.org/people/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Sayyed Ali Mirsoleimani](https://dblp.uni-trier.de/pers/hd/m/Mirsoleimani:Sayyed_Ali)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [S.A. (Ali) Mirsoleimani - Publications](http://liacs.leidenuniv.nl/~mirsoleimanisa/mypubs.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [S.A. (Ali) Mirsoleimani | LinkedIn](https://www.linkedin.com/in/alimirsoleimani/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Leiden Centre of Data Science - Leiden University](https://www.universiteitleiden.nl/en/science/leiden-centre-of-data-science)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [People | HEPGAME](http://hepgame.org/people/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Sayyed Ali Mirsoleimani](https://dblp.uni-trier.de/pers/hd/m/Mirsoleimani:Sayyed_Ali)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [S.A. (Ali) Mirsoleimani - Publications](http://liacs.leidenuniv.nl/~mirsoleimanisa/mypubs.html)
 
 **[Up one level](People "People")**
 

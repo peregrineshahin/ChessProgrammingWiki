@@ -70,12 +70,12 @@ a Russian computer scientist, computer chess and games programmer. He is author 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sergei Markoff - Facebook](https://www.facebook.com/sergei.markoff)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Due to different, but equally valid ways of [transliterating](https://en.wikipedia.org/wiki/Transliteration) [Cyrillic](https://en.wikipedia.org/wiki/Cyrillic_alphabet), also **Sergei Markov**, see [Markov number from Wikipedia](https://en.wikipedia.org/wiki/Markov_number)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SmarThink by Sergei Markoff, Russia](http://www.sdchess.ru/smarthink.htm) from [sdchess.ru](http://www.sdchess.ru/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Some SmarThink details](http://www.aigroup.narod.ru/detailse.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The "same threat extension" as effective way to resolve horizon problem](https://www.stmintz.com/ccc/index.php?id=318833), Sergei Markoff introduced the extension, [CCC](CCC "CCC"), October 01, 2003
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Sergei Markoff - Russian Federation | LinkedIn](http://ru.linkedin.com/pub/sergei-markoff/2b/94/360?trk=pub-pbmap)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sergei Markoff - Facebook](https://www.facebook.com/sergei.markoff)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Due to different, but equally valid ways of [transliterating](https://en.wikipedia.org/wiki/Transliteration) [Cyrillic](https://en.wikipedia.org/wiki/Cyrillic_alphabet), also **Sergei Markov**, see [Markov number from Wikipedia](https://en.wikipedia.org/wiki/Markov_number)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SmarThink by Sergei Markoff, Russia](http://www.sdchess.ru/smarthink.htm) from [sdchess.ru](http://www.sdchess.ru/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Some SmarThink details](http://www.aigroup.narod.ru/detailse.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The "same threat extension" as effective way to resolve horizon problem](https://www.stmintz.com/ccc/index.php?id=318833), Sergei Markoff introduced the extension, [CCC](CCC "CCC"), October 01, 2003
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Sergei Markoff - Russian Federation | LinkedIn](http://ru.linkedin.com/pub/sergei-markoff/2b/94/360?trk=pub-pbmap)
 
 **[Up one level](People "People")**
 

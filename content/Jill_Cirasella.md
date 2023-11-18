@@ -34,11 +34,11 @@ an American associate professor and associate [librarian](https://en.wikipedia.o
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [About - Jill Cirasella @ GC](https://jillcirasella.commons.gc.cuny.edu/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About - Jill Cirasella @ GC](https://jillcirasella.commons.gc.cuny.edu/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Jill Cirasella, [Danny Kopec](Danny_Kopec "Danny Kopec") (**2006**). *[The History of Computer Games](https://academicworks.cuny.edu/gc_pubs/174/)*. [CUNY Academic Works](https://academicworks.cuny.edu/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Jill Cirasella](https://dblp.uni-trier.de/pers/hd/c/Cirasella:Jill)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Travelling salesman problem from Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [About - Jill Cirasella @ GC](https://jillcirasella.commons.gc.cuny.edu/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About - Jill Cirasella @ GC](https://jillcirasella.commons.gc.cuny.edu/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Jill Cirasella, [Danny Kopec](Danny_Kopec "Danny Kopec") (**2006**). *[The History of Computer Games](https://academicworks.cuny.edu/gc_pubs/174/)*. [CUNY Academic Works](https://academicworks.cuny.edu/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Jill Cirasella](https://dblp.uni-trier.de/pers/hd/c/Cirasella:Jill)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Travelling salesman problem from Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 **[Up one level](People "People")**
 

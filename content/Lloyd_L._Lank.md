@@ -28,11 +28,11 @@ He is further author of the [PC](IBM_PC "IBM PC") chess program [EGA Chess](EGA_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lloyd L. Lank - a Trademark Correspondent](https://www.trademarkia.com/correspondent-lloyd-l-lank-1-210740)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Eleventh ACM's North American Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6cdeeb/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Twelfth ACM's North American Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6ce737/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Roy Keeley](index.php?title=Roy_Keeley&action=edit&redlink=1 "Roy Keeley (page does not exist)") (**1988**). *The 4th Annual U.S. Open Computer Chess Championship*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo by [Roy Keeley Jr.](index.php?title=Roy_Keeley&action=edit&redlink=1 "Roy Keeley (page does not exist)"), [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal"), pp. 95
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lloyd L. Lank - a Trademark Correspondent](https://www.trademarkia.com/correspondent-lloyd-l-lank-1-210740)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Eleventh ACM's North American Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6cdeeb/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Twelfth ACM's North American Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6ce737/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Roy Keeley](index.php?title=Roy_Keeley&action=edit&redlink=1 "Roy Keeley (page does not exist)") (**1988**). *The 4th Annual U.S. Open Computer Chess Championship*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo by [Roy Keeley Jr.](index.php?title=Roy_Keeley&action=edit&redlink=1 "Roy Keeley (page does not exist)"), [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal"), pp. 95
 
 **[Up one level](People "People")**
 

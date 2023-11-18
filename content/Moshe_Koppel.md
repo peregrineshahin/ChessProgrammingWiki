@@ -62,13 +62,13 @@ His research interests includes [machine learning](Learning "Learning") and its 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image](https://commons.wikimedia.org/wiki/File:Moshe_Koppel.jpg) by [זאב גלילי (Ze'ev Galili)](https://he.wikipedia.org/wiki/%D7%96%D7%90%D7%91_%D7%92%D7%9C%D7%99%D7%9C%D7%99), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Omid David](Eli_David "Eli David"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Moshe Koppel, [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2014**). *Genetic Algorithms for Evolving Computer Chess Programs*. [IEEE Transactions on Evolutionary Computation](IEEE#EC "IEEE"), [pdf](http://www.genetic-programming.org/hc2014/David-Paper.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Publications (Chronological) - Prof. Moshe Koppel](http://u.cs.biu.ac.il/~koppel/Publications.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Moshe Koppel](https://dblp.uni-trier.de/pers/hd/k/Koppel:Moshe)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Kolmogorov complexity from Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Domain theory from Wikipedia](https://en.wikipedia.org/wiki/Domain_theory)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Rabbinic Judaism from Wikipedia](https://en.wikipedia.org/wiki/Rabbinic_Judaism)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](https://commons.wikimedia.org/wiki/File:Moshe_Koppel.jpg) by [זאב גלילי (Ze'ev Galili)](https://he.wikipedia.org/wiki/%D7%96%D7%90%D7%91_%D7%92%D7%9C%D7%99%D7%9C%D7%99), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Omid David](Eli_David "Eli David"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Moshe Koppel, [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2014**). *Genetic Algorithms for Evolving Computer Chess Programs*. [IEEE Transactions on Evolutionary Computation](IEEE#EC "IEEE"), [pdf](http://www.genetic-programming.org/hc2014/David-Paper.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Publications (Chronological) - Prof. Moshe Koppel](http://u.cs.biu.ac.il/~koppel/Publications.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Moshe Koppel](https://dblp.uni-trier.de/pers/hd/k/Koppel:Moshe)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Kolmogorov complexity from Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Domain theory from Wikipedia](https://en.wikipedia.org/wiki/Domain_theory)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Rabbinic Judaism from Wikipedia](https://en.wikipedia.org/wiki/Rabbinic_Judaism)
 
 **[Up one level](People "People")**
 

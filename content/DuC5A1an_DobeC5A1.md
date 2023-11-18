@@ -15,8 +15,8 @@ a Czech computer scientist and chess programmer. While student in the 90s, Duša
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Phalanx Chess | Free software downloads at SourceForge.net](https://sourceforge.net/projects/phalanx/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Phalanx XXIII](http://www.talkchess.com/forum/viewtopic.php?t=54098) by Dušan Dobeš, [CCC](CCC "CCC"), October 20, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Phalanx Chess | Free software downloads at SourceForge.net](https://sourceforge.net/projects/phalanx/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Phalanx XXIII](http://www.talkchess.com/forum/viewtopic.php?t=54098) by Dušan Dobeš, [CCC](CCC "CCC"), October 20, 2014
 
 **[Up one level](People "People")**
 

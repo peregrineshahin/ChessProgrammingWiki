@@ -22,9 +22,9 @@ a Finnish [chess problem composer](Category:Chess_Composer "Category:Chess Compo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Photo Gallery](https://alybadix.000webhostapp.com/gallery.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alybadix chess solving programs (Home Page)](http://alybadix.bl.ee/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [apwin](http://alybadix.bl.ee/apwin.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Photo Gallery](https://alybadix.000webhostapp.com/gallery.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alybadix chess solving programs (Home Page)](http://alybadix.bl.ee/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [apwin](http://alybadix.bl.ee/apwin.htm)
 
 **[Up one level](People "People")**
 

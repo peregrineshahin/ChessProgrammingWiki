@@ -46,8 +46,8 @@ a Spanish computer chess aficionado, programmer, and author of the [Ippolit](Ipp
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The masculine ordinal indicator](https://en.wikipedia.org/wiki/Ordinal_indicator#Galician.2C_Italian.2C_Portuguese.2C_and_Spanish) U+00BA (º) is often confused with the [degree sign](https://en.wikipedia.org/wiki/Degree_symbol) U+00B0 (°), which looks very similar in many fonts. Spanish uses the indicator letters in some abbreviations.
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Bouquet 1.2 Relased](http://www.talkchess.com/forum3/viewtopic.php?t=44110&start=2) by Jose Mº Velasco, [CCC](CCC "CCC"), June 19, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The masculine ordinal indicator](https://en.wikipedia.org/wiki/Ordinal_indicator#Galician.2C_Italian.2C_Portuguese.2C_and_Spanish) U+00BA (º) is often confused with the [degree sign](https://en.wikipedia.org/wiki/Degree_symbol) U+00B0 (°), which looks very similar in many fonts. Spanish uses the indicator letters in some abbreviations.
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Bouquet 1.2 Relased](http://www.talkchess.com/forum3/viewtopic.php?t=44110&start=2) by Jose Mº Velasco, [CCC](CCC "CCC"), June 19, 2012
 
 **[Up one level](People "People")**
 

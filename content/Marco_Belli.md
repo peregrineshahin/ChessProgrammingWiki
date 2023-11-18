@@ -45,8 +45,8 @@ After early chess programming trials in [C#](C_sharp "C sharp"), Marco worked th
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Winglet, Writing a Chess Program in 99 Steps](http://web.archive.org/web/20120621100214/http://www.sluijten.com/winglet/) by [Stef Luijten](index.php?title=Stef_Luijten&action=edit&redlink=1 "Stef Luijten (page does not exist)"), [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: where to start chess programming?](http://www.talkchess.com/forum/viewtopic.php?t=52709&start=18) by Marco Belli, [CCC](CCC "CCC"), June 22, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Winglet, Writing a Chess Program in 99 Steps](http://web.archive.org/web/20120621100214/http://www.sluijten.com/winglet/) by [Stef Luijten](index.php?title=Stef_Luijten&action=edit&redlink=1 "Stef Luijten (page does not exist)"), [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: where to start chess programming?](http://www.talkchess.com/forum/viewtopic.php?t=52709&start=18) by Marco Belli, [CCC](CCC "CCC"), June 22, 2014
 
 **[Up one level](People "People")**
 

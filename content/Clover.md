@@ -94,10 +94,10 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Trifolium repens L](https://en.wikipedia.org/wiki/Trifolium_repens), [Image](https://commons.wikimedia.org/wiki/File:79_Trifolium_repens_L.jpg) from [Amédée Masclef](https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Masclef) (**1891**). *[Atlas des plantes de France](https://commons.wikimedia.org/wiki/Category:Atlas_des_plantes_de_France)*. [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New engine: Clover](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77156) by [Luca Metehau](Luca_Metehau "Luca Metehau"), [CCC](CCC "CCC"), April 23, 2021
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: New engine: Clover](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=77156&start=111) by [Luca Metehau](Luca_Metehau "Luca Metehau"), [CCC](CCC "CCC"), January 23, 2022
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - lucametehau / CloverEngine](https://github.com/lucametehau/CloverEngine)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Trifolium repens L](https://en.wikipedia.org/wiki/Trifolium_repens), [Image](https://commons.wikimedia.org/wiki/File:79_Trifolium_repens_L.jpg) from [Amédée Masclef](https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Masclef) (**1891**). *[Atlas des plantes de France](https://commons.wikimedia.org/wiki/Category:Atlas_des_plantes_de_France)*. [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New engine: Clover](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77156) by [Luca Metehau](Luca_Metehau "Luca Metehau"), [CCC](CCC "CCC"), April 23, 2021
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: New engine: Clover](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=77156&start=111) by [Luca Metehau](Luca_Metehau "Luca Metehau"), [CCC](CCC "CCC"), January 23, 2022
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - lucametehau / CloverEngine](https://github.com/lucametehau/CloverEngine)
 
 **[Up one level](Engines "Engines")**
 

@@ -27,9 +27,9 @@ a Swiss computer scientist, technologist, investor and advisor, and former CEO o
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Michael Halbherr | LinkedIn](https://www.linkedin.com/in/michael-halbherr-40b89520/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Michael Halbherr Steps Down As CEO Of Here, Nokia’s Location And Mapping Division](https://techcrunch.com/2014/08/19/michael-halbherr-steps-down-as-ceo-of-here-nokias-location-and-mapping-division/?guccounter=1) by [Ingrid Lunden](https://techcrunch.com/author/ingrid-lunden/), [TechCrunch](https://en.wikipedia.org/wiki/TechCrunch), August 20, 2014
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chris Joerg](Chris_Joerg "Chris Joerg"), [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Massively Parallel Chess*. Proceedings of the Third DIMACS Parallel Implementation Challenge, [pdf](http://supertech.csail.mit.edu/papers/dimacs94.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Michael Halbherr | LinkedIn](https://www.linkedin.com/in/michael-halbherr-40b89520/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Michael Halbherr Steps Down As CEO Of Here, Nokia’s Location And Mapping Division](https://techcrunch.com/2014/08/19/michael-halbherr-steps-down-as-ceo-of-here-nokias-location-and-mapping-division/?guccounter=1) by [Ingrid Lunden](https://techcrunch.com/author/ingrid-lunden/), [TechCrunch](https://en.wikipedia.org/wiki/TechCrunch), August 20, 2014
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chris Joerg](Chris_Joerg "Chris Joerg"), [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Massively Parallel Chess*. Proceedings of the Third DIMACS Parallel Implementation Challenge, [pdf](http://supertech.csail.mit.edu/papers/dimacs94.pdf)
 
 **[Up one level](People "People")**
 

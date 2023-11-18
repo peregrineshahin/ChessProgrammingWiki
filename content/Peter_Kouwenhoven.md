@@ -39,13 +39,13 @@ He was early involved in computer chess. In 1978 his program [Alder](Alder "Alde
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from Photo Composition of [CSVN](CSVN "CSVN") Board members and known visitors, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Peter Kouwenhoven overleden](http://www.csvn.nl/index.php/nieuws/18-vereniging/710-peter-kouwenhoven-overleden), [CSVN](CSVN "CSVN") site
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [About - IGCI](http://www.igci.org.nz/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo Composition of [CSVN](CSVN "CSVN") Board members and known visitors, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Peter Kouwenhoven](https://dblp.uni-trier.de/pers/hd/k/Kouwenhoven:Peter)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from Photo Composition of [CSVN](CSVN "CSVN") Board members and known visitors, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Peter Kouwenhoven overleden](http://www.csvn.nl/index.php/nieuws/18-vereniging/710-peter-kouwenhoven-overleden), [CSVN](CSVN "CSVN") site
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [About - IGCI](http://www.igci.org.nz/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo Composition of [CSVN](CSVN "CSVN") Board members and known visitors, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Peter Kouwenhoven](https://dblp.uni-trier.de/pers/hd/k/Kouwenhoven:Peter)
 
 **[Up one level](People "People")**
 

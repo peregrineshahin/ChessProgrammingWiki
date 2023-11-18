@@ -35,9 +35,9 @@ a [transistorized](https://en.wikipedia.org/wiki/Transistor_computer), [18-bit](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> UNIVAC 418 at [OTC](https://en.wikipedia.org/wiki/Overseas_Telecommunications_Commission), [Paddington, New South Wales](https://en.wikipedia.org/wiki/Paddington,_New_South_Wales), Image from [Univac 418 – Paddington | Ex-OTC](https://zerogees.wordpress.com/2015/12/06/univac-418-paddington/) by Robert Brand, December 6, 2015
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [UNIVAC 418 from Wikipedia](https://en.wikipedia.org/wiki/UNIVAC_418)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [UNIVAC 418-III System Description 1969](http://bitsavers.trailing-edge.com/pdf/univac/418/UP-7576_418-IIIsys_1969.pdf) (pdf hosted by [bitsavers.org](http://bitsavers.informatik.uni-stuttgart.de/))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> UNIVAC 418 at [OTC](https://en.wikipedia.org/wiki/Overseas_Telecommunications_Commission), [Paddington, New South Wales](https://en.wikipedia.org/wiki/Paddington,_New_South_Wales), Image from [Univac 418 – Paddington | Ex-OTC](https://zerogees.wordpress.com/2015/12/06/univac-418-paddington/) by Robert Brand, December 6, 2015
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [UNIVAC 418 from Wikipedia](https://en.wikipedia.org/wiki/UNIVAC_418)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [UNIVAC 418-III System Description 1969](http://bitsavers.trailing-edge.com/pdf/univac/418/UP-7576_418-IIIsys_1969.pdf) (pdf hosted by [bitsavers.org](http://bitsavers.informatik.uni-stuttgart.de/))
 
 **[Up one Level](Hardware "Hardware")**
 

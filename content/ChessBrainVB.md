@@ -103,11 +103,11 @@ ChessBrainVBA <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [My new exotic engine: ChessBrainVB for OfficeVBA (1950 ELO)](http://www.talkchess.com/forum/viewtopic.php?t=57705) by [Roger Zuehlsdorf](index.php?title=Roger_Zuehlsdorf&action=edit&redlink=1 "Roger Zuehlsdorf (page does not exist)"), [CCC](CCC "CCC"), September 20, 2015
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ChessBrainVB/Search.bas at master · RZulu54/ChessBrainVB · GitHub](https://github.com/RZulu54/ChessBrainVB/blob/master/Development/Modules/Search.bas)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ChessBrainVB/ChessBrainVB_Notes.txt at master · RZulu54/ChessBrainVB · GitHub](https://github.com/RZulu54/ChessBrainVB/blob/master/Development/ChessBrainVB_Notes.txt)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ChessBrainVB/ChessBrainVBA_Screenshot.jpg at master · RZulu54/ChessBrainVB · GitHub](https://github.com/RZulu54/ChessBrainVB/blob/master/ChessBrainVBA_Screenshot.jpg)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Features based on [V3.31 · RZulu54/ChessBrainVB@870f735 · GitHub](https://github.com/RZulu54/ChessBrainVB/commit/870f735b3ed195f58e335ea95a9523bfede2b458)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [My new exotic engine: ChessBrainVB for OfficeVBA (1950 ELO)](http://www.talkchess.com/forum/viewtopic.php?t=57705) by [Roger Zuehlsdorf](index.php?title=Roger_Zuehlsdorf&action=edit&redlink=1 "Roger Zuehlsdorf (page does not exist)"), [CCC](CCC "CCC"), September 20, 2015
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ChessBrainVB/Search.bas at master · RZulu54/ChessBrainVB · GitHub](https://github.com/RZulu54/ChessBrainVB/blob/master/Development/Modules/Search.bas)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ChessBrainVB/ChessBrainVB_Notes.txt at master · RZulu54/ChessBrainVB · GitHub](https://github.com/RZulu54/ChessBrainVB/blob/master/Development/ChessBrainVB_Notes.txt)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ChessBrainVB/ChessBrainVBA_Screenshot.jpg at master · RZulu54/ChessBrainVB · GitHub](https://github.com/RZulu54/ChessBrainVB/blob/master/ChessBrainVBA_Screenshot.jpg)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Features based on [V3.31 · RZulu54/ChessBrainVB@870f735 · GitHub](https://github.com/RZulu54/ChessBrainVB/commit/870f735b3ed195f58e335ea95a9523bfede2b458)
 
 **[Up one Level](Engines "Engines")**
 

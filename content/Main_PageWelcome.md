@@ -82,9 +82,9 @@ We hope you like the work we have done.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: community test result web page?](http://www.talkchess.com/forum/viewtopic.php?t=17344&start=4) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), October 26, 2007
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Wikispaces Chessprogramming - home](http://web.archive.org/web/20180216204915/http://chessprogramming.wikispaces.com/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), February 16, 2018)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Programming Wiki](http://www.talkchess.com/forum/viewtopic.php?t=66573) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), February 12, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: community test result web page?](http://www.talkchess.com/forum/viewtopic.php?t=17344&start=4) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), October 26, 2007
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Wikispaces Chessprogramming - home](http://web.archive.org/web/20180216204915/http://chessprogramming.wikispaces.com/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), February 16, 2018)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Programming Wiki](http://www.talkchess.com/forum/viewtopic.php?t=66573) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), February 12, 2018
 
 
 

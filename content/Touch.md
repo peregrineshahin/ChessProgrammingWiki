@@ -59,8 +59,8 @@ Bxd4 16.Bd3 e4 17.Bxe4 Qxe4 18.Qxe4 Bxb2 19.Rab1 Bc3 20.Rxb7 Rfc8 21.Qe3 Ba5
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Illustration from [Anatomy & Physiology](https://anatomyandphysiologyi.com/), [Connexions Web site](http://cnx.org/content/col11496/1.6/), June 19, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Illustration from [Anatomy & Physiology](https://anatomyandphysiologyi.com/), [Connexions Web site](http://cnx.org/content/col11496/1.6/), June 19, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
 
 **[Up one Level](Engines "Engines")**
 

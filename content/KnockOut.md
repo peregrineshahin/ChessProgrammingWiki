@@ -117,9 +117,9 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image](https://commons.wikimedia.org/wiki/File:Schachboxen1.jpg) by [WCBO](https://en.wikipedia.org/wiki/World_Chess_Boxing_Organisation) from a [chess boxing](https://en.wikipedia.org/wiki/Chess_boxing) match in [Berlin](https://en.wikipedia.org/wiki/Berlin) July 05, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New engine: KnockOut 0.7](http://www.talkchess.com/forum/viewtopic.php?t=34713) by [Sven Schüle](Sven_Sch%C3%BCle "Sven Schüle"), [CCC](CCC "CCC"), June 04, 2
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Features based on [/chess/knockout](http://www.schuelebln.de/chess/knockout/)\knockout-0.7-build012.zip\readme.txt
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](https://commons.wikimedia.org/wiki/File:Schachboxen1.jpg) by [WCBO](https://en.wikipedia.org/wiki/World_Chess_Boxing_Organisation) from a [chess boxing](https://en.wikipedia.org/wiki/Chess_boxing) match in [Berlin](https://en.wikipedia.org/wiki/Berlin) July 05, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New engine: KnockOut 0.7](http://www.talkchess.com/forum/viewtopic.php?t=34713) by [Sven Schüle](Sven_Sch%C3%BCle "Sven Schüle"), [CCC](CCC "CCC"), June 04, 2
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Features based on [/chess/knockout](http://www.schuelebln.de/chess/knockout/)\knockout-0.7-build012.zip\readme.txt
 
 **[Up one Level](Engines "Engines")**
 

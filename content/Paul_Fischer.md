@@ -61,15 +61,15 @@ He has also written about [GUI](GUI "GUI") [programming](Programming "Programmin
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paul Fischer - Associate Professor](http://www2.imm.dtu.dk/~pafi/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AlgoLoG - The section for Algorithms, Logic and Graphs in the Department of Applied Mathematics and Computer Science at the Technical University of Denmark](http://algolog.compute.dtu.dk/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Paul Fischer - CV](http://www2.imm.dtu.dk/~pafi/CV.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Paul Fischer (**2005**). *An Introduction to Graphical User Interfaces with Java Swing*. [Pearson Education](https://en.wikipedia.org/wiki/Pearson_Education), [Addison-Wesley](https://en.wikipedia.org/wiki/Addison-Wesley), [Amazon.de](http://www.amazon.de/Introduction-Graphical-User-Interfaces-Swing/dp/0321220706)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Multi-armed bandit from Wikipedia](https://en.wikipedia.org/wiki/Multi-armed_bandit)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Peter Auer](Peter_Auer "Peter Auer"), [Nicolò Cesa-Bianchi](Nicol%C3%B2_Cesa-Bianchi "Nicolò Cesa-Bianchi"), Paul Fischer (**2002**). *[Finite-time Analysis of the Multiarmed Bandit Problem](http://link.springer.com/article/10.1023%2FA%3A1013689704352)*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_%28journal%29), Vol. 47, No. 2, [pdf](http://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2006**). *[Bandit based Monte-Carlo Planning](http://www.computer-go.info/resources/bandit.html)* ECML-06, LNCS/LNAI 4212, [pdf](http://www.sztaki.hu/%7Eszcsaba/papers/ecml06.pdf)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Paul Fischer](https://dblp.uni-trier.de/pers/hd/f/Fischer:Paul)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [List of publications, Paul Fischer](http://www2.imm.dtu.dk/~pafi/Publications.pdf) (pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul Fischer - Associate Professor](http://www2.imm.dtu.dk/~pafi/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AlgoLoG - The section for Algorithms, Logic and Graphs in the Department of Applied Mathematics and Computer Science at the Technical University of Denmark](http://algolog.compute.dtu.dk/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Paul Fischer - CV](http://www2.imm.dtu.dk/~pafi/CV.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Paul Fischer (**2005**). *An Introduction to Graphical User Interfaces with Java Swing*. [Pearson Education](https://en.wikipedia.org/wiki/Pearson_Education), [Addison-Wesley](https://en.wikipedia.org/wiki/Addison-Wesley), [Amazon.de](http://www.amazon.de/Introduction-Graphical-User-Interfaces-Swing/dp/0321220706)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Multi-armed bandit from Wikipedia](https://en.wikipedia.org/wiki/Multi-armed_bandit)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Peter Auer](Peter_Auer "Peter Auer"), [Nicolò Cesa-Bianchi](Nicol%C3%B2_Cesa-Bianchi "Nicolò Cesa-Bianchi"), Paul Fischer (**2002**). *[Finite-time Analysis of the Multiarmed Bandit Problem](http://link.springer.com/article/10.1023%2FA%3A1013689704352)*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_%28journal%29), Vol. 47, No. 2, [pdf](http://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2006**). *[Bandit based Monte-Carlo Planning](http://www.computer-go.info/resources/bandit.html)* ECML-06, LNCS/LNAI 4212, [pdf](http://www.sztaki.hu/%7Eszcsaba/papers/ecml06.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Paul Fischer](https://dblp.uni-trier.de/pers/hd/f/Fischer:Paul)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [List of publications, Paul Fischer](http://www2.imm.dtu.dk/~pafi/Publications.pdf) (pdf)
 
 **[Up one Level](People "People")**
 

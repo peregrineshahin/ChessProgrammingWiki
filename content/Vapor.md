@@ -53,12 +53,12 @@ an [UCI](UCI "UCI") compliant chess engine by [Mike Leany](Mike_Leany "Mike Lean
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The [vapor-liquid critical point](https://en.wikipedia.org/wiki/Critical_point_(thermodynamics)) in a [pressure](https://en.wikipedia.org/wiki/Pressure)-[temperature](https://en.wikipedia.org/wiki/Temperature) [phase diagram](https://en.wikipedia.org/wiki/Phase_diagram) is at the high-temperature extreme of the [liquid–gas phase boundary](https://en.wikipedia.org/wiki/Supercritical_liquid%E2%80%93gas_boundaries) (The dotted green line gives the [anomalous behaviour of water](https://en.wikipedia.org/wiki/Superheated_water#Explanation_of_anomalous_behaviour)). Image by Matthieumarechal, January 28, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Vaporware No More - Vapor Chess](http://vapor.mikeleany.com/home/vaporwarenomore) by [Mike Leany](Mike_Leany "Mike Leany"), October 11, 2010
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Source Code Released](http://vapor.mikeleany.com/home/sourcecodereleased) by [Mike Leany](Mike_Leany "Mike Leany"), November 09, 2019
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [vapor/moves.h at master · mikeleany/vapor · GitHub](https://github.com/mikeleany/vapor/blob/master/src/moves.h)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [vapor/search.c at master · mikeleany/vapor · GitHub](https://github.com/mikeleany/vapor/blob/master/src/search.c)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [vapor/eval.c at master · mikeleany/vapor · GitHub](https://github.com/mikeleany/vapor/blob/master/src/eval.c)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The [vapor-liquid critical point](https://en.wikipedia.org/wiki/Critical_point_(thermodynamics)) in a [pressure](https://en.wikipedia.org/wiki/Pressure)-[temperature](https://en.wikipedia.org/wiki/Temperature) [phase diagram](https://en.wikipedia.org/wiki/Phase_diagram) is at the high-temperature extreme of the [liquid–gas phase boundary](https://en.wikipedia.org/wiki/Supercritical_liquid%E2%80%93gas_boundaries) (The dotted green line gives the [anomalous behaviour of water](https://en.wikipedia.org/wiki/Superheated_water#Explanation_of_anomalous_behaviour)). Image by Matthieumarechal, January 28, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Vaporware No More - Vapor Chess](http://vapor.mikeleany.com/home/vaporwarenomore) by [Mike Leany](Mike_Leany "Mike Leany"), October 11, 2010
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Source Code Released](http://vapor.mikeleany.com/home/sourcecodereleased) by [Mike Leany](Mike_Leany "Mike Leany"), November 09, 2019
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [vapor/moves.h at master · mikeleany/vapor · GitHub](https://github.com/mikeleany/vapor/blob/master/src/moves.h)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [vapor/search.c at master · mikeleany/vapor · GitHub](https://github.com/mikeleany/vapor/blob/master/src/search.c)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [vapor/eval.c at master · mikeleany/vapor · GitHub](https://github.com/mikeleany/vapor/blob/master/src/eval.c)
 
 **[Up one level](Engines "Engines")**
 

@@ -97,18 +97,18 @@ focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multip
 <details>
 <summary><h3>References</h3></summary>
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [VandeVondele, Joost, Dr. | ETH Zurich](https://itp.phys.ethz.ch/people/person-detail.html?persid=90106)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Joost VandeVondele‬ - ‪Google Scholar‬](https://scholar.google.ch/citations?user=o0pfmnIAAAAJ&hl=en)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [VandeVondele, Joost, Dr. | ETH Zurich](https://itp.phys.ethz.ch/people/person-detail.html?persid=90106)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: SF misevaluating pawn endings](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=62369&start=15) by [Eelco de Groot](index.php?title=Eelco_de_Groot&action=edit&redlink=1 "Eelco de Groot (page does not exist)"), [CCC](CCC "CCC"), December 07, 2016
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Maintainers They Are a-Changin'](https://groups.google.com/d/msg/fishcooking/nG6aqewRuSM/C5hn5hD3EwAJ) by [Stephane Nicolet](Stephane_Nicolet "Stephane Nicolet"), [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), January 23, 2020
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [NNUE merge · Issue #2823 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/issues/2823) by Joost VandeVondele, July 25, 2020
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [NNUE evaluation merged in master](https://groups.google.com/d/msg/fishcooking/Kzw1W_Yr1d8/YNEmCqIyBAAJ) by Joost VandeVondele, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), August 06, 2020
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Joost VandeVondele](https://dblp.org/pers/v/VandeVondele:Joost.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Joost VandeVondele‬ - ‪Google Scholar‬](https://scholar.google.ch/citations?user=o0pfmnIAAAAJ&hl=en)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Density functional theory from Wikipedia](https://en.wikipedia.org/wiki/Density_functional_theory)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Random phase approximation from Wikipedia](https://en.wikipedia.org/wiki/Random_phase_approximation)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Coronavirus disease 2019 from Wikipedia](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [VandeVondele, Joost, Dr. | ETH Zurich](https://itp.phys.ethz.ch/people/person-detail.html?persid=90106)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Joost VandeVondele‬ - ‪Google Scholar‬](https://scholar.google.ch/citations?user=o0pfmnIAAAAJ&hl=en)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [VandeVondele, Joost, Dr. | ETH Zurich](https://itp.phys.ethz.ch/people/person-detail.html?persid=90106)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: SF misevaluating pawn endings](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=62369&start=15) by [Eelco de Groot](index.php?title=Eelco_de_Groot&action=edit&redlink=1 "Eelco de Groot (page does not exist)"), [CCC](CCC "CCC"), December 07, 2016
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Maintainers They Are a-Changin'](https://groups.google.com/d/msg/fishcooking/nG6aqewRuSM/C5hn5hD3EwAJ) by [Stephane Nicolet](Stephane_Nicolet "Stephane Nicolet"), [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), January 23, 2020
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [NNUE merge · Issue #2823 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/issues/2823) by Joost VandeVondele, July 25, 2020
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [NNUE evaluation merged in master](https://groups.google.com/d/msg/fishcooking/Kzw1W_Yr1d8/YNEmCqIyBAAJ) by Joost VandeVondele, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), August 06, 2020
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Joost VandeVondele](https://dblp.org/pers/v/VandeVondele:Joost.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Joost VandeVondele‬ - ‪Google Scholar‬](https://scholar.google.ch/citations?user=o0pfmnIAAAAJ&hl=en)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Density functional theory from Wikipedia](https://en.wikipedia.org/wiki/Density_functional_theory)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Random phase approximation from Wikipedia](https://en.wikipedia.org/wiki/Random_phase_approximation)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Coronavirus disease 2019 from Wikipedia](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)
 </details>
 
 **[Up one level](People "People")**

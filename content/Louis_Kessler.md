@@ -22,8 +22,8 @@ a Canadian [genealogist](https://en.wikipedia.org/wiki/Genealogy) <a id="cite-no
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Genealogy Software Reviews](http://www.gensoftreviews.com/) by Louis Kessler
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Behold Genealogy Software](http://www.beholdgenealogy.com/) by Louis Kessler
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Genealogy Software Reviews](http://www.gensoftreviews.com/) by Louis Kessler
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Behold Genealogy Software](http://www.beholdgenealogy.com/) by Louis Kessler
 
 **[Up one level](People "People")**
 

@@ -189,13 +189,13 @@ A 10 game match was conducted between GNU Chess 1.55 running on a [Sun](index.ph
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GNU Project - Free Software Foundation - A Bold GNU Head](https://www.gnu.org/graphics/heckert_gnu.html) by [Aurelio A. Heckert](http://wiki.colivre.net/Aurium/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: request ...](https://groups.google.com/d/msg/gnu.chess/KChQhVPAACA/ApFk4OeWlcYJ) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [gnu.chess](GNU_Chess#NewsGroup "GNU Chess"), June 16, 1995
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [gnuchess/common.h at master · heisencoder/gnuchess · GitHub](https://github.com/heisencoder/gnuchess/blob/master/src/common.h)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GNU Chess - Free Software Foundation](http://www.gnu.org/software/chess/chess.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GNU's Bulletin, vol. 1 no. 8 - GNU Project - Free Software Foundation (FSF) | GNUs Flashes](http://www.gnu.org/bulletins/bull8.html#SEC7)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [GNU Chess 1.55 vs. Fidelity Mach 3](http://groups.google.com/group/gnu.chess/msg/583f6ed4f648bf90) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [gnu.chess](GNU_Chess#NewsGroup "GNU Chess"), January 3, 1990
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GNU Project - Free Software Foundation - A Bold GNU Head](https://www.gnu.org/graphics/heckert_gnu.html) by [Aurelio A. Heckert](http://wiki.colivre.net/Aurium/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: request ...](https://groups.google.com/d/msg/gnu.chess/KChQhVPAACA/ApFk4OeWlcYJ) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [gnu.chess](GNU_Chess#NewsGroup "GNU Chess"), June 16, 1995
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [gnuchess/common.h at master · heisencoder/gnuchess · GitHub](https://github.com/heisencoder/gnuchess/blob/master/src/common.h)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GNU Chess - Free Software Foundation](http://www.gnu.org/software/chess/chess.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GNU's Bulletin, vol. 1 no. 8 - GNU Project - Free Software Foundation (FSF) | GNUs Flashes](http://www.gnu.org/bulletins/bull8.html#SEC7)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GNU Chess 1.55 vs. Fidelity Mach 3](http://groups.google.com/group/gnu.chess/msg/583f6ed4f648bf90) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [gnu.chess](GNU_Chess#NewsGroup "GNU Chess"), January 3, 1990
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
 
 **[Up one Level](Engines "Engines")**
 

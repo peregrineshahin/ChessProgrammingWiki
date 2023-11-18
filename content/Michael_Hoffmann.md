@@ -52,10 +52,10 @@ a German computer scientist, programmer, and chess player <a id="cite-note-1" hr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [DWZ-Rangliste Schachgemeinschaft Neuss e. V. - Deutscher Schachbund](https://www.schachbund.de/verein/62233.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Deutsche Wertungszahl (DWZ) from Wikipedia](https://en.wikipedia.org/wiki/Deutsche_Wertungszahl)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Not to be confused with the German Grandmaster [Michael Hoffmann](http://de.wikipedia.org/wiki/Michael_Hoffmann_%28Schachspieler%29)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DIRECT BITBOARD MOVEGENERATION](http://www.talkchess.com/forum/viewtopic.php?t=29087) by Michael Hoffmann, [CCC](CCC "CCC"), July 23, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [DWZ-Rangliste Schachgemeinschaft Neuss e. V. - Deutscher Schachbund](https://www.schachbund.de/verein/62233.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Deutsche Wertungszahl (DWZ) from Wikipedia](https://en.wikipedia.org/wiki/Deutsche_Wertungszahl)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Not to be confused with the German Grandmaster [Michael Hoffmann](http://de.wikipedia.org/wiki/Michael_Hoffmann_%28Schachspieler%29)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DIRECT BITBOARD MOVEGENERATION](http://www.talkchess.com/forum/viewtopic.php?t=29087) by Michael Hoffmann, [CCC](CCC "CCC"), July 23, 2009
 
 **[Up one Level](People "People")**
 

@@ -109,11 +109,11 @@ MoHex-CNN, which won the [13x13 competition of the 20th Computer Olympiad 2017](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ryan Hayward - Faculty of Science - University of Alberta](https://www.ualberta.ca/science/about-us/contact-us/faculty-directory/ryan-hayward)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The University of Alberta GAMES Group](http://webdocs.cs.ualberta.ca/~games/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Broderick Arneson](index.php?title=Broderick_Arneson&action=edit&redlink=1 "Broderick Arneson (page does not exist)"), Ryan Hayward, [Philip Henderson](index.php?title=Philip_Henderson&action=edit&redlink=1 "Philip Henderson (page does not exist)") (**2010**). *Monte Carlo Tree Search in Hex*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2, No. 4, [pdf](http://webdocs.cs.ualberta.ca/~hayward/papers/mcts-hex.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Ryan Hayward, [Noah Weninger](index.php?title=Noah_Weninger&action=edit&redlink=1 "Noah Weninger (page does not exist)") (**2017**). *Hex 2017: MoHex wins the 11x11 and 13x13 tournaments*. [ICGA Journal, Vol. 39, Nos. 3-4](ICGA_Journal#39_34 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Publications of Ryan B. Hayward](http://webdocs.cs.ualberta.ca/~hayward/publications.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ryan Hayward - Faculty of Science - University of Alberta](https://www.ualberta.ca/science/about-us/contact-us/faculty-directory/ryan-hayward)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The University of Alberta GAMES Group](http://webdocs.cs.ualberta.ca/~games/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Broderick Arneson](index.php?title=Broderick_Arneson&action=edit&redlink=1 "Broderick Arneson (page does not exist)"), Ryan Hayward, [Philip Henderson](index.php?title=Philip_Henderson&action=edit&redlink=1 "Philip Henderson (page does not exist)") (**2010**). *Monte Carlo Tree Search in Hex*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2, No. 4, [pdf](http://webdocs.cs.ualberta.ca/~hayward/papers/mcts-hex.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Ryan Hayward, [Noah Weninger](index.php?title=Noah_Weninger&action=edit&redlink=1 "Noah Weninger (page does not exist)") (**2017**). *Hex 2017: MoHex wins the 11x11 and 13x13 tournaments*. [ICGA Journal, Vol. 39, Nos. 3-4](ICGA_Journal#39_34 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Publications of Ryan B. Hayward](http://webdocs.cs.ualberta.ca/~hayward/publications.html)
 
 **[Up one level](People "People")**
 

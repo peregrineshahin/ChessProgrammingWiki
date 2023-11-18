@@ -32,10 +32,10 @@ At the end of 1966 a [four game match](Stanford-ITEP_Match "Stanford-ITEP Match"
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tony Marsland](Tony_Marsland "Tony Marsland"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1981**). *A brighter future for Soviet computer chess?* [ICCA Newsletter, Vol. 4, No. 1](ICGA_Journal#4_1 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Marsland-Newborn-1981.pdf)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Arlazarov, Uskov, and Donskoy in Moscow 1980](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc15a4a7), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> ["Каисса" - Историю программы рассказывает один из ее создателей Михаил Донской](http://adamant1.fromru.com/kaissa.html) - [Kaissa](http://translate.google.com/translate?sl=ru&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fadamant1.fromru.com%2Fkaissa.html) by [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), translated by [Google Translate](https://en.wikipedia.org/wiki/Google_Translate)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [zbMATH Uskov, A.V.](https://zbmath.org/authors/?q=ai:uskov.a-v)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1981**). *A brighter future for Soviet computer chess?* [ICCA Newsletter, Vol. 4, No. 1](ICGA_Journal#4_1 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Marsland-Newborn-1981.pdf)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Arlazarov, Uskov, and Donskoy in Moscow 1980](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc15a4a7), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> ["Каисса" - Историю программы рассказывает один из ее создателей Михаил Донской](http://adamant1.fromru.com/kaissa.html) - [Kaissa](http://translate.google.com/translate?sl=ru&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fadamant1.fromru.com%2Fkaissa.html) by [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), translated by [Google Translate](https://en.wikipedia.org/wiki/Google_Translate)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [zbMATH Uskov, A.V.](https://zbmath.org/authors/?q=ai:uskov.a-v)
 
 **[Up one level](People "People")**
 

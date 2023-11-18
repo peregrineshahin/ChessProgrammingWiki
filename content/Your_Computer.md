@@ -53,8 +53,8 @@ a British computer magazine published monthly from 1981 to 1988 with focus on [h
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Your Computer : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/YourComputer_198201)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Your Computer (British magazine) from Wikipedia](https://en.wikipedia.org/wiki/Your_Computer_%28British_magazine%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Your Computer : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/YourComputer_198201)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Your Computer (British magazine) from Wikipedia](https://en.wikipedia.org/wiki/Your_Computer_%28British_magazine%29)
 
 **[Up one Level](Periodical "Periodical")**
 

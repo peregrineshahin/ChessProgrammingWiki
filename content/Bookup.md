@@ -55,9 +55,9 @@ and further supports any [Chess Engine Communication Protocol](Chess_Engine_Comm
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bookup.com - Chess Opening Software](https://www.bookup.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [FAQ | Bookup.com](https://www.bookup.com/home/faq/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Backsolving | Bookup.com](https://www.bookup.com/home/backsolving/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bookup.com - Chess Opening Software](https://www.bookup.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [FAQ | Bookup.com](https://www.bookup.com/home/faq/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Backsolving | Bookup.com](https://www.bookup.com/home/backsolving/)
 
 **[Up one Level](Databases "Databases")**
 

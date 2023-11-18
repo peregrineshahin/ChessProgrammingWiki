@@ -107,11 +107,11 @@ The author mentions following engines and their authors for implementation detai
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: New engine releases 2020](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=80) by [Marcin Henryk Bartkowiak](Marcin_Henryk_Bartkowiak "Marcin Henryk Bartkowiak"), [CCC](CCC "CCC"), February 23, 2020
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [ombuskengine • lichess.org](https://lichess.org/@/combuskengine)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [combusken/engine at master · mhib/combusken · GitHub](https://github.com/mhib/combusken/tree/master/engine)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [combusken/evaluation at master · mhib/combusken · GitHub](https://github.com/mhib/combusken/tree/master/evaluation)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - mhib/combusken: A chess engine](https://github.com/mhib/combusken)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: New engine releases 2020](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=80) by [Marcin Henryk Bartkowiak](Marcin_Henryk_Bartkowiak "Marcin Henryk Bartkowiak"), [CCC](CCC "CCC"), February 23, 2020
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [ombuskengine • lichess.org](https://lichess.org/@/combuskengine)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [combusken/engine at master · mhib/combusken · GitHub](https://github.com/mhib/combusken/tree/master/engine)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [combusken/evaluation at master · mhib/combusken · GitHub](https://github.com/mhib/combusken/tree/master/evaluation)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - mhib/combusken: A chess engine](https://github.com/mhib/combusken)
 
 **[Up one Level](Engines "Engines")**
 

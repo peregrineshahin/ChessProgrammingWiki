@@ -41,9 +41,9 @@ Freccia played the [CCC 2009](CCC_2009 "CCC 2009"), the [IOCSC 2010](IOCSC_2010 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - [Antike Fabel](https://commons.wikimedia.org/wiki/File:Paul_klee,_freccia_in_giardino,_1929,_01.JPG), 1923, [Musée National d'Art Moderne](https://en.wikipedia.org/wiki/Mus%C3%A9e_National_d%27Art_Moderne), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Freccia 0.0.2.5 released](http://www.talkchess.com/forum/viewtopic.php?t=63785) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), April 21, 2017
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Assembly move generation in Freccia](http://www.talkchess.com/forum/viewtopic.php?t=39873) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), July 26, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - [Antike Fabel](https://commons.wikimedia.org/wiki/File:Paul_klee,_freccia_in_giardino,_1929,_01.JPG), 1923, [Musée National d'Art Moderne](https://en.wikipedia.org/wiki/Mus%C3%A9e_National_d%27Art_Moderne), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Freccia 0.0.2.5 released](http://www.talkchess.com/forum/viewtopic.php?t=63785) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), April 21, 2017
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Assembly move generation in Freccia](http://www.talkchess.com/forum/viewtopic.php?t=39873) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), July 26, 2011
 
 **[Up one level](Engines "Engines")**
 

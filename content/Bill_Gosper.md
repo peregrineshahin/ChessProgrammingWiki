@@ -104,23 +104,23 @@ Gosper's [Glider Gun](https://en.wikipedia.org/wiki/Gun_%28cellular_automaton%29
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Mathematician Bill Gosper in March, 2006 at the [Seventh Gathering for Gardner](http://www.ifp.illinois.edu/~sdickson/G4G7/G4G7_Trip_Report.html) (G4G7) in [Atlanta](https://en.wikipedia.org/wiki/Atlanta), [Georgia](https://en.wikipedia.org/wiki/Georgia_%28U.S._state%29), March 16, 2006, Photographer [Thane Plambeck](http://www.flickr.com/people/thane/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hackers: Heroes of the Computer Revolution](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bill Gosper from Wikipedia](https://en.wikipedia.org/wiki/Bill_Gosper)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Twubblesome Twelve - a difficult puzzle](http://gosper.org/) by Bill Gosper
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> *[MIT Computer Loses to Human in Chess](http://news.google.com/newspapers?nid=1928&dat=19670123&id=O2ggAAAAIBAJ&sjid=1GYFAAAAIBAJ&pg=2308,2313204)*. [Sun Journal (Lewiston)](https://en.wikipedia.org/wiki/Sun_Journal_%28Lewiston%29), January 23, 1967, [Google News](https://en.wikipedia.org/wiki/Google_News)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> *[MIT Computer Loses to Human in Chess](https://news.google.com/newspapers?nid=1928&dat=19670123&id=O2ggAAAAIBAJ&sjid=1GYFAAAAIBAJ&pg=2308,2313204&hl=en)*. [Sun Journal (Lewiston)](https://en.wikipedia.org/wiki/Sun_Journal_%28Lewiston%29), January 23, 1967, [Google News](https://en.wikipedia.org/wiki/Google_News)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [HAKMEM from Wikipedia](https://en.wikipedia.org/wiki/HAKMEM)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Michael Beeler, Bill Gosper, [Rich Schroeppel](https://en.wikipedia.org/wiki/Richard_Schroeppel) (**1972**). *[HAKMEM](https://dspace.mit.edu/handle/1721.1/6086)*, Memo 239, Artificial Intelligence Laboratory, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [HAKMEMC -- HAKMEM Programming hacks in C](http://www.cl.cam.ac.uk/~am21/hakmemc.html) by [Alan Mycroft](http://www.cl.cam.ac.uk/~am21/)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Edward Lasker](https://en.wikipedia.org/wiki/Edward_Lasker) (**1942,1962**) *Chess for Fun and Chess for Blood*. Dover Publications; 2 Edition, ISBN-13: 978-0486201467, [amazon](http://www.amazon.com/Chess-Fun-Blood-Edward-Lasker/dp/0486201465)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> 1.g8=N b5 2.Ne7 Kxb4 3.Nc6#
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [HAKMEM 169](Population_Count#HAKMEM169 "Population Count") by Gosper, Mann, Lenard, (Root and Mann)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> Bill Gosper's [Glider Gun](https://en.wikipedia.org/wiki/Gun_%28cellular_automaton%29) in action — a variation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). This image was made by using [Life32 v2.15 beta](http://psoup.math.wisc.edu/Life32.html) by Johan G. Bontes, 2005, [Gun (cellular automaton) from Wikipedia](https://en.wikipedia.org/wiki/Gun_%28cellular_automaton%29)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Arithmetic with Continued Fractions](https://perl.plover.com/yak/cftalk/) by [Mark Jason Dominus](https://en.wikiquote.org/wiki/Mark_Jason_Dominus),
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Continued fraction from Wikipedia](https://en.wikipedia.org/wiki/Continued_fraction)
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Gosper's algorithm from Wikipedia](https://en.wikipedia.org/wiki/Gosper%27s_algorithm)
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [The Minsky Circle Algorithm – Random (Blog)](https://nbickford.wordpress.com/2011/04/03/the-minsky-circle-algorithm/) by [Neil Bickford](https://nbickford.wordpress.com/author/nbickford/), April 3, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Mathematician Bill Gosper in March, 2006 at the [Seventh Gathering for Gardner](http://www.ifp.illinois.edu/~sdickson/G4G7/G4G7_Trip_Report.html) (G4G7) in [Atlanta](https://en.wikipedia.org/wiki/Atlanta), [Georgia](https://en.wikipedia.org/wiki/Georgia_%28U.S._state%29), March 16, 2006, Photographer [Thane Plambeck](http://www.flickr.com/people/thane/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hackers: Heroes of the Computer Revolution](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bill Gosper from Wikipedia](https://en.wikipedia.org/wiki/Bill_Gosper)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Twubblesome Twelve - a difficult puzzle](http://gosper.org/) by Bill Gosper
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> *[MIT Computer Loses to Human in Chess](http://news.google.com/newspapers?nid=1928&dat=19670123&id=O2ggAAAAIBAJ&sjid=1GYFAAAAIBAJ&pg=2308,2313204)*. [Sun Journal (Lewiston)](https://en.wikipedia.org/wiki/Sun_Journal_%28Lewiston%29), January 23, 1967, [Google News](https://en.wikipedia.org/wiki/Google_News)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> *[MIT Computer Loses to Human in Chess](https://news.google.com/newspapers?nid=1928&dat=19670123&id=O2ggAAAAIBAJ&sjid=1GYFAAAAIBAJ&pg=2308,2313204&hl=en)*. [Sun Journal (Lewiston)](https://en.wikipedia.org/wiki/Sun_Journal_%28Lewiston%29), January 23, 1967, [Google News](https://en.wikipedia.org/wiki/Google_News)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [HAKMEM from Wikipedia](https://en.wikipedia.org/wiki/HAKMEM)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> Michael Beeler, Bill Gosper, [Rich Schroeppel](https://en.wikipedia.org/wiki/Richard_Schroeppel) (**1972**). *[HAKMEM](https://dspace.mit.edu/handle/1721.1/6086)*, Memo 239, Artificial Intelligence Laboratory, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [HAKMEMC -- HAKMEM Programming hacks in C](http://www.cl.cam.ac.uk/~am21/hakmemc.html) by [Alan Mycroft](http://www.cl.cam.ac.uk/~am21/)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Edward Lasker](https://en.wikipedia.org/wiki/Edward_Lasker) (**1942,1962**) *Chess for Fun and Chess for Blood*. Dover Publications; 2 Edition, ISBN-13: 978-0486201467, [amazon](http://www.amazon.com/Chess-Fun-Blood-Edward-Lasker/dp/0486201465)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> 1.g8=N b5 2.Ne7 Kxb4 3.Nc6#
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [HAKMEM 169](Population_Count#HAKMEM169 "Population Count") by Gosper, Mann, Lenard, (Root and Mann)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> Bill Gosper's [Glider Gun](https://en.wikipedia.org/wiki/Gun_%28cellular_automaton%29) in action — a variation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). This image was made by using [Life32 v2.15 beta](http://psoup.math.wisc.edu/Life32.html) by Johan G. Bontes, 2005, [Gun (cellular automaton) from Wikipedia](https://en.wikipedia.org/wiki/Gun_%28cellular_automaton%29)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Arithmetic with Continued Fractions](https://perl.plover.com/yak/cftalk/) by [Mark Jason Dominus](https://en.wikiquote.org/wiki/Mark_Jason_Dominus),
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Continued fraction from Wikipedia](https://en.wikipedia.org/wiki/Continued_fraction)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Gosper's algorithm from Wikipedia](https://en.wikipedia.org/wiki/Gosper%27s_algorithm)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [The Minsky Circle Algorithm – Random (Blog)](https://nbickford.wordpress.com/2011/04/03/the-minsky-circle-algorithm/) by [Neil Bickford](https://nbickford.wordpress.com/author/nbickford/), April 3, 2011
 
 **[Up one level](People "People")**
 

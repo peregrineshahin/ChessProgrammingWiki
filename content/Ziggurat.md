@@ -71,11 +71,11 @@ Early Ziggurat Window <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Reconstruction of the [Ziggurat of Ur](https://en.wikipedia.org/wiki/Ziggurat_of_Ur), based on a 1939 drawing by [Leonard Woolley](https://en.wikipedia.org/wiki/Leonard_Woolley), _Ur Excavations_, Vol. V. [The Ziggurat and its Surroundings](http://digital.library.stonybrook.edu/cdm/ref/collection/amar/id/153751), [Figure 1.4](http://users.design.ucla.edu/~aniemetz/utm/tower.jpg)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WinChess v1.01 : David Norris : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/WinChess_1020)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bogus Software](http://www.exmsft.com/~hanss/pranks.htm#bogus)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 01, 2017
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Reconstruction of the [Ziggurat of Ur](https://en.wikipedia.org/wiki/Ziggurat_of_Ur), based on a 1939 drawing by [Leonard Woolley](https://en.wikipedia.org/wiki/Leonard_Woolley), _Ur Excavations_, Vol. V. [The Ziggurat and its Surroundings](http://digital.library.stonybrook.edu/cdm/ref/collection/amar/id/153751), [Figure 1.4](http://users.design.ucla.edu/~aniemetz/utm/tower.jpg)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WinChess v1.01 : David Norris : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/WinChess_1020)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bogus Software](http://www.exmsft.com/~hanss/pranks.htm#bogus)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 01, 2017
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
 
 **[Up one Level](Engines "Engines")**
 

@@ -39,10 +39,10 @@ Just to rewind a bit, one evening when I was home having dinner, I got a call fr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Steve Chafitz, as appeared in the March 28, 1983 issue of [Forbes](https://en.wikipedia.org/wiki/Forbes), Image from former e-End site
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [e-End - How We Started](https://www.eendusa.com/how-we-started/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [e-End](https://www.eendusa.com/) former history site
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Industry and Security News - Old news story brings back old memories for e-End’s CEO and President](https://www.eendusa.com/indusry-news/old-story-brings-back-old-memories?rq=Bobby%20Fischer)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Steve Chafitz, as appeared in the March 28, 1983 issue of [Forbes](https://en.wikipedia.org/wiki/Forbes), Image from former e-End site
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [e-End - How We Started](https://www.eendusa.com/how-we-started/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [e-End](https://www.eendusa.com/) former history site
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Industry and Security News - Old news story brings back old memories for e-End’s CEO and President](https://www.eendusa.com/indusry-news/old-story-brings-back-old-memories?rq=Bobby%20Fischer)
 
 **[Up one level](People "People")**
 

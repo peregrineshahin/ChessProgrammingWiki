@@ -142,10 +142,10 @@ Delicate Brute was doing well as Black in a Petroff Defense against [Socrates](S
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1992**). *The 7th World Computer-Chess Championship. Report on the Tournament*. [ICCA Journal, Vol. 15, No. 4](ICGA_Journal#15_4 "ICGA Journal")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Don Beal](Don_Beal "Don Beal") (**1986**). *Selective Search without Tears.* [ICCA Journal, Vol. 9, No. 2](ICGA_Journal#9_2 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Don Beal](Don_Beal "Don Beal") (**1989**). *Experiments with the Null Move*. [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5"), A revised version is published (**1990**) under the title *A Generalized Quiescence Search Algorithm*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Danny Kopec](Danny_Kopec "Danny Kopec"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [Michael Valvo](Michael_Valvo "Michael Valvo") (**1992**). *The 22d Annual ACM International Chess Championship*, in [The 23rd ACM International Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6cc6e9/) hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1992**). *The 7th World Computer-Chess Championship. Report on the Tournament*. [ICCA Journal, Vol. 15, No. 4](ICGA_Journal#15_4 "ICGA Journal")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Don Beal](Don_Beal "Don Beal") (**1986**). *Selective Search without Tears.* [ICCA Journal, Vol. 9, No. 2](ICGA_Journal#9_2 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Don Beal](Don_Beal "Don Beal") (**1989**). *Experiments with the Null Move*. [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5"), A revised version is published (**1990**) under the title *A Generalized Quiescence Search Algorithm*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Danny Kopec](Danny_Kopec "Danny Kopec"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [Michael Valvo](Michael_Valvo "Michael Valvo") (**1992**). *The 22d Annual ACM International Chess Championship*, in [The 23rd ACM International Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6cc6e9/) hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one Level](Engines "Engines")**
 

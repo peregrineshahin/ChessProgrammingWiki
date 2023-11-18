@@ -34,12 +34,12 @@ He is currently affiliated with the *Ergon* software company in [Zürich](https:
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image clipped from [Fabian Mäser - Ergon Informatik AG](https://www.ergon.ch/de/wir/mitarbeitende/fabian-maeser)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Maeser, Fabian FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=1301187)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Fabian Mäser (**2001**). *Divide and Conquer in Game Tree Search: Algorithms, Software and Case Studies*. Ph.D. thesis. [ETH Zurich](ETH_Zurich "ETH Zurich")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ergon Company](https://www.ergon.ch/en/us/company)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Fabian Mäser](https://dblp.uni-trier.de/pers/hd/m/M=auml=ser:Fabian)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image clipped from [Fabian Mäser - Ergon Informatik AG](https://www.ergon.ch/de/wir/mitarbeitende/fabian-maeser)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Maeser, Fabian FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=1301187)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Fabian Mäser (**2001**). *Divide and Conquer in Game Tree Search: Algorithms, Software and Case Studies*. Ph.D. thesis. [ETH Zurich](ETH_Zurich "ETH Zurich")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ergon Company](https://www.ergon.ch/en/us/company)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Fabian Mäser](https://dblp.uni-trier.de/pers/hd/m/M=auml=ser:Fabian)
 
 **[Up one level](People "People")**
 

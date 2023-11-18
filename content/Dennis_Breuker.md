@@ -47,13 +47,13 @@ Dennis is author of the chess program [Duck](Duck "Duck"), already written durin
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dennis Breuker's Homepage](http://www.dennisbreuker.nl/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Dennis Breuker (**1998**). *Memory versus Search in Games*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), pdf via [Dennis Breuker's page](http://www.dennisbreuker.nl/thesis/index.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dennis Breuker's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=286)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [cap.connx.com - /Alibaba/](http://cap.connx.com/Alibaba/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Alibaba (Dennis Breuker - 1995) with winboard support](http://www.talkchess.com/forum/viewtopic.php?t=25734) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), December 31, 2008
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Dennis M. Breuker](https://dblp.uni-trier.de/pers/hd/b/Breuker:Dennis_M=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dennis Breuker's Homepage](http://www.dennisbreuker.nl/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Dennis Breuker (**1998**). *Memory versus Search in Games*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), pdf via [Dennis Breuker's page](http://www.dennisbreuker.nl/thesis/index.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dennis Breuker's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=286)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [cap.connx.com - /Alibaba/](http://cap.connx.com/Alibaba/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Alibaba (Dennis Breuker - 1995) with winboard support](http://www.talkchess.com/forum/viewtopic.php?t=25734) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), December 31, 2008
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Dennis M. Breuker](https://dblp.uni-trier.de/pers/hd/b/Breuker:Dennis_M=)
 
 **[Up one level](People "People")**
 

@@ -55,18 +55,18 @@ Dieter Steinwender participated at the [Aegon 1996](Aegon_1996 "Aegon 1996") hum
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Schach der Schachmaschine](http://www.zeit.de/1982/39/schach-der-schachmaschine) by [Wolfram Runkel](http://www.zeit.de/autoren/R/Wolfram_Runkel/index.xml), [Zeit Online](https://en.wikipedia.org/wiki/Die_Zeit), September 24, 1982 (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [qBASIC Chess program - from 1984 by Dieter Steinwender](https://www.stmintz.com/ccc/index.php?id=286508) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), February 23, 2003
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Another qBASIC Chess program -Dieter Steinwender (in english+comment](https://www.stmintz.com/ccc/index.php?id=286619) by Tony Worsman, [CCC](CCC "CCC"), February 24, 2003
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Computerschach und Spiele - Startseite](http://www.computerschach.de/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Computerschach und Spiele, Impressum](http://www.computerschach.com/index.php?option=com_akolegal&Itemid=45) (German)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Steinwender EDV-Beratung GbR](http://www.steinwender.de/cms/front_content.php)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CSS-Shop](http://www.computerschach.de/shop/index.html?http://www.computerschach.de/shop/xaranshop_53_1.htm)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Allgemeine Geschäftsbedingungen der Steinwender EDV-Beratung GbR](http://www.computerschach.de/shop/index.html?http://www.computerschach.de/shop/xaranshop_53_1.htm)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [commercial interests and the CSS magazine (was: Botvinnik article) post 194 ...](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/656439670bd7c7fb#) from [rgcc](Computer_Chess_Forums "Computer Chess Forums") November 3, 1996
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Aegon 1996](http://www.csvn.nl/index.php?option=com_content&task=view&id=122&Itemid=50) from [Computerschaak](http://www.csvn.nl/), the [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Schach der Schachmaschine](http://www.zeit.de/1982/39/schach-der-schachmaschine) by [Wolfram Runkel](http://www.zeit.de/autoren/R/Wolfram_Runkel/index.xml), [Zeit Online](https://en.wikipedia.org/wiki/Die_Zeit), September 24, 1982 (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [qBASIC Chess program - from 1984 by Dieter Steinwender](https://www.stmintz.com/ccc/index.php?id=286508) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), February 23, 2003
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Another qBASIC Chess program -Dieter Steinwender (in english+comment](https://www.stmintz.com/ccc/index.php?id=286619) by Tony Worsman, [CCC](CCC "CCC"), February 24, 2003
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Computerschach und Spiele - Startseite](http://www.computerschach.de/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Computerschach und Spiele, Impressum](http://www.computerschach.com/index.php?option=com_akolegal&Itemid=45) (German)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Steinwender EDV-Beratung GbR](http://www.steinwender.de/cms/front_content.php)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CSS-Shop](http://www.computerschach.de/shop/index.html?http://www.computerschach.de/shop/xaranshop_53_1.htm)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Allgemeine Geschäftsbedingungen der Steinwender EDV-Beratung GbR](http://www.computerschach.de/shop/index.html?http://www.computerschach.de/shop/xaranshop_53_1.htm)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [commercial interests and the CSS magazine (was: Botvinnik article) post 194 ...](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/656439670bd7c7fb#) from [rgcc](Computer_Chess_Forums "Computer Chess Forums") November 3, 1996
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Aegon 1996](http://www.csvn.nl/index.php?option=com_content&task=view&id=122&Itemid=50) from [Computerschaak](http://www.csvn.nl/), the [CSVN](CSVN "CSVN") site
 
 **[Up one level](People "People")**
 

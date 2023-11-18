@@ -17,8 +17,8 @@ and proposed [Magic Compression](Kindergarten_Bitboards#MagicCompression "Kinder
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [A Faster Magic Move Bitboard Generator?](http://www.open-aurec.com/wbforum/viewtopic.php?t=5997) by Grant Osborne, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 15, 2006
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: How to reduce the "bits" used in a magic number](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=198660&t=21329) by Grant Osborne, [CCC](CCC "CCC"), July 04, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [A Faster Magic Move Bitboard Generator?](http://www.open-aurec.com/wbforum/viewtopic.php?t=5997) by Grant Osborne, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 15, 2006
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: How to reduce the "bits" used in a magic number](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=198660&t=21329) by Grant Osborne, [CCC](CCC "CCC"), July 04, 2008
 
 **[Up one level](People "People")**
 

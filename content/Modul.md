@@ -40,7 +40,7 @@ a computer chess periodical published from 1988 until 1992 in German language by
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
 
 **[Up one Level](Periodical "Periodical")**
 

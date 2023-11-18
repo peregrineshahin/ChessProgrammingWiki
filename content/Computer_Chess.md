@@ -31,10 +31,10 @@ Two instances of the program played the [North American Microcomputer Chess Cham
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [AtariAge - Atari 800/XL/XE - Computer Chess (Atari)](https://atariage.com/software_page.php?SystemID=800&SoftwareLabelID=2428), [Box Image](https://atariage.com/box_page.php?SoftwareLabelID=2428&ItemTypeID=BOX)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tekla E. Perry](https://www.linkedin.com/in/tekla-perry-33b4a211), [Paul Wallich](https://spectrum.ieee.org/at-work/innovation/review-liars-outliers) (**1983**). *[Design case history: the Atari Video Computer System](http://www.atarimuseum.com/videogames/consoles/2600/Atari_case_history.html)*. [IEEE Spectrum](IEEE#Spectrum "IEEE"), March 1983, "Doing the 'impossible': chess"
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer Chess - AtariProtos.com](http://www.atariprotos.com/2600/software/computerchess/computerchess.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Bryce Perry (**1980**). *North American Microcomputer Championship*. [Chess Voice](http://www.chessdryad.com/articles/chessvoice/index.htm), October - November 1980, [pdf](http://www.chessdryad.com/articles/chessvoice/1980cv13_4.pdf), pp. 71
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [AtariAge - Atari 800/XL/XE - Computer Chess (Atari)](https://atariage.com/software_page.php?SystemID=800&SoftwareLabelID=2428), [Box Image](https://atariage.com/box_page.php?SoftwareLabelID=2428&ItemTypeID=BOX)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tekla E. Perry](https://www.linkedin.com/in/tekla-perry-33b4a211), [Paul Wallich](https://spectrum.ieee.org/at-work/innovation/review-liars-outliers) (**1983**). *[Design case history: the Atari Video Computer System](http://www.atarimuseum.com/videogames/consoles/2600/Atari_case_history.html)*. [IEEE Spectrum](IEEE#Spectrum "IEEE"), March 1983, "Doing the 'impossible': chess"
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer Chess - AtariProtos.com](http://www.atariprotos.com/2600/software/computerchess/computerchess.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Bryce Perry (**1980**). *North American Microcomputer Championship*. [Chess Voice](http://www.chessdryad.com/articles/chessvoice/index.htm), October - November 1980, [pdf](http://www.chessdryad.com/articles/chessvoice/1980cv13_4.pdf), pp. 71
 
 **[Up one Level](Engines "Engines")**
 

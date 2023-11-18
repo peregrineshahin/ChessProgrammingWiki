@@ -21,8 +21,8 @@ an early chess program by [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhov
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Oblique view of [Alder](<https://en.wikipedia.org/wiki/Alder_(crater)>), on the [far side](https://en.wikipedia.org/wiki/Far_side_of_the_Moon) of the [moon](https://en.wikipedia.org/wiki/Moon), facing west, created by James Stuby in 2014 based on 1967 [NASA](https://en.wikipedia.org/wiki/NASA) [Lunar Orbiter 5](https://en.wikipedia.org/wiki/Lunar_Orbiter_5) [image 030, h1](http://www.lpi.usra.edu/resources/lunarorbiter/images/print/5030_h1.jpg), rotated and cropped in [GIMP](https://en.wikipedia.org/wiki/GIMP), [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Alder (crater) from Wikipedia](https://en.wikipedia.org/wiki/Alder_%28crater%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Oblique view of [Alder](<https://en.wikipedia.org/wiki/Alder_(crater)>), on the [far side](https://en.wikipedia.org/wiki/Far_side_of_the_Moon) of the [moon](https://en.wikipedia.org/wiki/Moon), facing west, created by James Stuby in 2014 based on 1967 [NASA](https://en.wikipedia.org/wiki/NASA) [Lunar Orbiter 5](https://en.wikipedia.org/wiki/Lunar_Orbiter_5) [image 030, h1](http://www.lpi.usra.edu/resources/lunarorbiter/images/print/5030_h1.jpg), rotated and cropped in [GIMP](https://en.wikipedia.org/wiki/GIMP), [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Alder (crater) from Wikipedia](https://en.wikipedia.org/wiki/Alder_%28crater%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
 
 **[Up one Level](Engines "Engines")**
 

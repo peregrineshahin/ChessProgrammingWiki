@@ -137,20 +137,20 @@ Murray Campbell has helped with the opening book, and has now implemented the [S
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [A Decade After Kasparov's Defeat, Deep Blue Coder Relives Victory](http://www.wired.com/science/discoveries/news/2007/05/murraycampbell_qa), [Wired News](https://en.wikipedia.org/wiki/Wired_(magazine)) Interview with Murray Campbell by [Robert Andrews](http://www.robertandrews.co.uk/), May 11, 2007
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Murray Campbell from Wikipedia](https://en.wikipedia.org/wiki/Murray_Campbell)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tony Marsland](Tony_Marsland "Tony Marsland"), Murray Campbell (**1982**). *Parallel Search of Strongly Ordered Game Trees.* [ACM Computing Surveys](ACM#Surveys "ACM"), Vol. 14, No. 4, [pdf](http://www.cs.ualberta.ca/%7Etony/OldPapers/strong.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: PVS](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=254906&t=26974) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), March 12, 2009
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Murray Campbell (**1988**). *Chunking as an Abstraction Mechanism*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch"), Murray Campbell (**1990**). *Experiments with the Null-move Heuristic*. [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Murray Campbell IBM Research Scientist](http://www.research.ibm.com/deepblue/meet/html/d.4.3.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Deep Thought team with Fredkin Intermediate Prize](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 1988, Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1988**). *HiTech Becomes FirstComputer Senior Master*. AI Magazine Volume 9 Number 3 (© AAAI), [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/946/864)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman"), Murray Campbell, [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**1988**). *Singular extensions: Adding Selectivity to Brute-Force Searching*. AAAI Spring Symposium, Computer Game Playing, pp. 8-13. Also published in [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal"), republished (1990) in [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1, pp. 99-109. ISSN 0004-3702
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [dblp: Murray Campbell](http://www.informatik.uni-trier.de/~ley/pers/hd/c/Campbell:Murray.html)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [An interesting link](https://www.stmintz.com/ccc/index.php?id=357151) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 29, 2004
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [HAL 9000 from Wikipedia](https://en.wikipedia.org/wiki/HAL_9000)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [A Decade After Kasparov's Defeat, Deep Blue Coder Relives Victory](http://www.wired.com/science/discoveries/news/2007/05/murraycampbell_qa), [Wired News](https://en.wikipedia.org/wiki/Wired_(magazine)) Interview with Murray Campbell by [Robert Andrews](http://www.robertandrews.co.uk/), May 11, 2007
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Murray Campbell from Wikipedia](https://en.wikipedia.org/wiki/Murray_Campbell)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland"), Murray Campbell (**1982**). *Parallel Search of Strongly Ordered Game Trees.* [ACM Computing Surveys](ACM#Surveys "ACM"), Vol. 14, No. 4, [pdf](http://www.cs.ualberta.ca/%7Etony/OldPapers/strong.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: PVS](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=254906&t=26974) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), March 12, 2009
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Murray Campbell (**1988**). *Chunking as an Abstraction Mechanism*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch"), Murray Campbell (**1990**). *Experiments with the Null-move Heuristic*. [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Murray Campbell IBM Research Scientist](http://www.research.ibm.com/deepblue/meet/html/d.4.3.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Deep Thought team with Fredkin Intermediate Prize](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 1988, Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1988**). *HiTech Becomes FirstComputer Senior Master*. AI Magazine Volume 9 Number 3 (© AAAI), [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/946/864)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman"), Murray Campbell, [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**1988**). *Singular extensions: Adding Selectivity to Brute-Force Searching*. AAAI Spring Symposium, Computer Game Playing, pp. 8-13. Also published in [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal"), republished (1990) in [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1, pp. 99-109. ISSN 0004-3702
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [dblp: Murray Campbell](http://www.informatik.uni-trier.de/~ley/pers/hd/c/Campbell:Murray.html)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [An interesting link](https://www.stmintz.com/ccc/index.php?id=357151) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 29, 2004
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [HAL 9000 from Wikipedia](https://en.wikipedia.org/wiki/HAL_9000)
 
 **[Up one level](People "People")**
 

@@ -76,13 +76,13 @@ In 2010, Zach collaborated with [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Foto-impressie WCCC/WCSC Kanazawa, Japan](http://www.csvn.nl/index.php?option=com_content&view=article&id=472%3Afoto-impressie-wcccwcsc-kanazawa-japan&catid=51%3Atoernooien&Itemid=28&lang=en) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos") from the [CSVN site](CSVN "CSVN")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [BitBoard q](https://www.stmintz.com/ccc/index.php?id=246067) by Zach Wegner, [CCC](CCC "CCC"), August 18, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Questions for Vas](http://www.talkchess.com/forum/viewtopic.php?t=23249) by Zach Wegner, [CCC](CCC "CCC"), August 25, 2008
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [File:ZW Rybka Fruit.pdf](File:ZW_Rybka_Fruit.pdf "File:ZW Rybka Fruit.pdf")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Zappa Chess Engine](http://www.acoz.net/zappa/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Zappa's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=58)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Zach's first post to [CCC](CCC "CCC"), after starting his first engine at the tender age of 14
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Foto-impressie WCCC/WCSC Kanazawa, Japan](http://www.csvn.nl/index.php?option=com_content&view=article&id=472%3Afoto-impressie-wcccwcsc-kanazawa-japan&catid=51%3Atoernooien&Itemid=28&lang=en) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos") from the [CSVN site](CSVN "CSVN")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [BitBoard q](https://www.stmintz.com/ccc/index.php?id=246067) by Zach Wegner, [CCC](CCC "CCC"), August 18, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Questions for Vas](http://www.talkchess.com/forum/viewtopic.php?t=23249) by Zach Wegner, [CCC](CCC "CCC"), August 25, 2008
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [File:ZW Rybka Fruit.pdf](File:ZW_Rybka_Fruit.pdf "File:ZW Rybka Fruit.pdf")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Zappa Chess Engine](http://www.acoz.net/zappa/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Zappa's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=58)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Zach's first post to [CCC](CCC "CCC"), after starting his first engine at the tender age of 14
 
 **[Up one Level](People "People")**
 

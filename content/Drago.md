@@ -41,11 +41,11 @@ They convince with an impressive speed in [nodes per second](Nodes_per_Second "N
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mosaic](https://en.wikipedia.org/wiki/Mosaic) of the [3rd century BC](https://en.wikipedia.org/wiki/3rd_century_BC) from [Caulonia](<https://en.wikipedia.org/wiki/Caulonia_(ancient_city)>), exposed in [Museo Nazionale della Magna Grecia](https://en.wikipedia.org/wiki/Museo_Nazionale_della_Magna_Grecia), [Reggio Calabria](https://en.wikipedia.org/wiki/Reggio_Calabria), [Image](https://commons.wikimedia.org/wiki/File:Reggio_calabria_museo_nazionale_mosaico_da_kaulon.jpg) 2007, [European dragon from Wikipedia](https://en.wikipedia.org/wiki/European_dragon), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess software for free - Original software made in Italy](http://www.linformatica.com/index-scacchi.php) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli") (archived)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [AlfaGemma is back](http://www.talkchess.com/forum/viewtopic.php?t=61024) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), August 03, 2016
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Drago](https://www.stmintz.com/ccc/index.php?id=130537) by [Carmelo Calzerano](Carmelo_Calzerano "Carmelo Calzerano"), [CCC](CCC "CCC"), September 25, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mosaic](https://en.wikipedia.org/wiki/Mosaic) of the [3rd century BC](https://en.wikipedia.org/wiki/3rd_century_BC) from [Caulonia](<https://en.wikipedia.org/wiki/Caulonia_(ancient_city)>), exposed in [Museo Nazionale della Magna Grecia](https://en.wikipedia.org/wiki/Museo_Nazionale_della_Magna_Grecia), [Reggio Calabria](https://en.wikipedia.org/wiki/Reggio_Calabria), [Image](https://commons.wikimedia.org/wiki/File:Reggio_calabria_museo_nazionale_mosaico_da_kaulon.jpg) 2007, [European dragon from Wikipedia](https://en.wikipedia.org/wiki/European_dragon), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess software for free - Original software made in Italy](http://www.linformatica.com/index-scacchi.php) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli") (archived)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [AlfaGemma is back](http://www.talkchess.com/forum/viewtopic.php?t=61024) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), August 03, 2016
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Drago](https://www.stmintz.com/ccc/index.php?id=130537) by [Carmelo Calzerano](Carmelo_Calzerano "Carmelo Calzerano"), [CCC](CCC "CCC"), September 25, 2000
 
 **[Up one level](Engines "Engines")**
 

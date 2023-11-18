@@ -19,9 +19,9 @@ a Canadian physicist, computer scientist, and systems engineer at [Sun Microsyst
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sun Microsystems Technology Futures Seminar](http://www.cse.yorku.ca/course_archive/2005-06/W/1030/SunFutures.pdf) (pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Waterloo@50](https://cs.uwaterloo.ca/40th/Chronology/ChronologyGlossary.pdf) (pdf) 2007
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1977**). *[Summary of the ACM Sixth U.S. Computer Chess Championship](http://www.atariarchives.org/bcc2/showpage.php?page=22)*, from [The Best of Creative Computing Volume 2](http://www.atariarchives.org/bcc2/index.php), edited by [David Ahl](https://en.wikipedia.org/wiki/David_H._Ahl), hosted by [AtariArchives.org](http://www.atariarchives.org/) » [ACM 1975](ACM_1975 "ACM 1975")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sun Microsystems Technology Futures Seminar](http://www.cse.yorku.ca/course_archive/2005-06/W/1030/SunFutures.pdf) (pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Waterloo@50](https://cs.uwaterloo.ca/40th/Chronology/ChronologyGlossary.pdf) (pdf) 2007
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1977**). *[Summary of the ACM Sixth U.S. Computer Chess Championship](http://www.atariarchives.org/bcc2/showpage.php?page=22)*, from [The Best of Creative Computing Volume 2](http://www.atariarchives.org/bcc2/index.php), edited by [David Ahl](https://en.wikipedia.org/wiki/David_H._Ahl), hosted by [AtariArchives.org](http://www.atariarchives.org/) » [ACM 1975](ACM_1975 "ACM 1975")
 
 **[Up one level](People "People")**
 

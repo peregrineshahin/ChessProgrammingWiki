@@ -143,20 +143,20 @@ In February 2014, a modified and tuned version of Glaurung became the chess engi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Glaurung - Middle-Earth Encyclopedia](http://middle-earthencyclopedia.weebly.com/glaurung.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Glaurung slain by [Túrin Turambar](https://en.wikipedia.org/wiki/T%C3%BArin_Turambar), [Glaurung - Lord of the Rings Wiki](http://lotr.wikia.com/wiki/Glaurung)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Glaurung is new Polish Champion](http://www.talkchess.com/forum/viewtopic.php?t=14815) by [Werner Schüle](index.php?title=Werner_Sch%C3%BCle&action=edit&redlink=1 "Werner Schüle (page does not exist)"), [CCC](CCC "CCC"), July 01, 2007
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Fruit's Board Representation?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=2407&p=11081g#p11081) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 27, 2005
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: 0x88 engines](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=265497&t=27680) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), May 05, 2009
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Glaurung 2-epsilon](http://www.talkchess.com/forum/viewtopic.php?t=13597) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), May 06, 2007
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: What's the difference between Glaurung and Gothmog?](https://www.stmintz.com/ccc/index.php?id=415035) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), March 02, 2005
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [An Introduction to Late Move Reductions](http://www.glaurungchess.com/lmr.html) by [Tord Romstad](Tord_Romstad "Tord Romstad")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The Art of Evaluation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=135133&t=15504) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), August 2, 2007
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Writing portable code - GNUstepWiki](http://wiki.gnustep.org/index.php/Writing_portable_code)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Glaurung GUI for Mac OS X (and possibly Linux)](http://www.talkchess.com/forum/viewtopic.php?t=14864) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), July 03, 2007
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Re: Play Magnus: official App with Chess Engine](http://www.talkchess.com/forum/viewtopic.php?t=51408&start=5) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), February 26, 2014
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Play Magnus](https://www.playmagnus.com/)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Glaurungchess site](http://www.talkchess.com/forum/viewtopic.php?t=60118) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), May 10, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Glaurung - Middle-Earth Encyclopedia](http://middle-earthencyclopedia.weebly.com/glaurung.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Glaurung slain by [Túrin Turambar](https://en.wikipedia.org/wiki/T%C3%BArin_Turambar), [Glaurung - Lord of the Rings Wiki](http://lotr.wikia.com/wiki/Glaurung)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Glaurung is new Polish Champion](http://www.talkchess.com/forum/viewtopic.php?t=14815) by [Werner Schüle](index.php?title=Werner_Sch%C3%BCle&action=edit&redlink=1 "Werner Schüle (page does not exist)"), [CCC](CCC "CCC"), July 01, 2007
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Fruit's Board Representation?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=2407&p=11081g#p11081) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 27, 2005
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: 0x88 engines](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=265497&t=27680) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), May 05, 2009
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Glaurung 2-epsilon](http://www.talkchess.com/forum/viewtopic.php?t=13597) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), May 06, 2007
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: What's the difference between Glaurung and Gothmog?](https://www.stmintz.com/ccc/index.php?id=415035) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), March 02, 2005
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [An Introduction to Late Move Reductions](http://www.glaurungchess.com/lmr.html) by [Tord Romstad](Tord_Romstad "Tord Romstad")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The Art of Evaluation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=135133&t=15504) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), August 2, 2007
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Writing portable code - GNUstepWiki](http://wiki.gnustep.org/index.php/Writing_portable_code)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Glaurung GUI for Mac OS X (and possibly Linux)](http://www.talkchess.com/forum/viewtopic.php?t=14864) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), July 03, 2007
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Re: Play Magnus: official App with Chess Engine](http://www.talkchess.com/forum/viewtopic.php?t=51408&start=5) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), February 26, 2014
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Play Magnus](https://www.playmagnus.com/)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Glaurungchess site](http://www.talkchess.com/forum/viewtopic.php?t=60118) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), May 10, 2016
 
 **[Up one Level](Engines "Engines")**
 

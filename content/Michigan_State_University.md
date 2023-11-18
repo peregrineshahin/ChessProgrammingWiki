@@ -28,7 +28,7 @@ title: Michigan State University
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [MSU Computer Center](https://commons.wikimedia.org/wiki/File:MSU_Computer_Center.jpg), [Michigan State University - Wikimedia Commons](https://commons.wikimedia.org/wiki/Michigan_State_University)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [MSU Computer Center](https://commons.wikimedia.org/wiki/File:MSU_Computer_Center.jpg), [Michigan State University - Wikimedia Commons](https://commons.wikimedia.org/wiki/Michigan_State_University)
 
 **[Up one Level](Organizations "Organizations")**
 

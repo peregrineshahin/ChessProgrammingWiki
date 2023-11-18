@@ -64,10 +64,10 @@ PawnKing uses a [depth-first](Depth-First "Depth-First") [alpha-beta](Alpha-Beta
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Collection of figurines, 1926, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Metropolitan Museum of Art](https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Helmut Horacek](Helmut_Horacek "Helmut Horacek") (**1982**). *Ein Modell für Schachbauernendspiele mit menschlichen Problemlösungstechniken*. Ph.D. thesis, Department of Computer Science, [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna), supervisors [Curt Christian](Mathematician#CChristian "Mathematician") (University of Vienna) and [Wilhelm Barth](Wilhelm_Barth "Wilhelm Barth") ([Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology"))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [PAWNKING](https://www.stmintz.com/ccc/index.php?id=24696) by José de Jesús García Ruvalcaba, [CCC](CCC "CCC"), August 14, 1998
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [An interesting book with some insights on Bob's Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?t=39455) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), June 23, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Collection of figurines, 1926, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Metropolitan Museum of Art](https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Helmut Horacek](Helmut_Horacek "Helmut Horacek") (**1982**). *Ein Modell für Schachbauernendspiele mit menschlichen Problemlösungstechniken*. Ph.D. thesis, Department of Computer Science, [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna), supervisors [Curt Christian](Mathematician#CChristian "Mathematician") (University of Vienna) and [Wilhelm Barth](Wilhelm_Barth "Wilhelm Barth") ([Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology"))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PAWNKING](https://www.stmintz.com/ccc/index.php?id=24696) by José de Jesús García Ruvalcaba, [CCC](CCC "CCC"), August 14, 1998
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [An interesting book with some insights on Bob's Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?t=39455) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), June 23, 2011
 
 **[Up one Level](Engines "Engines")**
 

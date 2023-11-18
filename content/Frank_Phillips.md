@@ -66,10 +66,10 @@ a British avocational computer chess programmer <a id="cite-note-1" href="#cite-
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CCT3 Day 1 reflections](https://www.stmintz.com/ccc/index.php?id=171919) by Frank Phillips, [CCC](CCC "CCC"), May 27, 2001
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CCT3 day2](https://www.stmintz.com/ccc/index.php?id=172027) by Frank Phillips, [CCC](CCC "CCC"), May 28, 2001
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Finger SearcherX](https://www.chessclub.com/user/finger/SearcherX) at [ICC](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Frank Phillips' KNNKP position revisited ...](https://www.stmintz.com/ccc/index.php?id=316547) by [Guy Haworth](Guy_Haworth "Guy Haworth"), [CCC](CCC "CCC"), September 18, 2003 » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CCT3 Day 1 reflections](https://www.stmintz.com/ccc/index.php?id=171919) by Frank Phillips, [CCC](CCC "CCC"), May 27, 2001
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CCT3 day2](https://www.stmintz.com/ccc/index.php?id=172027) by Frank Phillips, [CCC](CCC "CCC"), May 28, 2001
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Finger SearcherX](https://www.chessclub.com/user/finger/SearcherX) at [ICC](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Frank Phillips' KNNKP position revisited ...](https://www.stmintz.com/ccc/index.php?id=316547) by [Guy Haworth](Guy_Haworth "Guy Haworth"), [CCC](CCC "CCC"), September 18, 2003 » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases")
 
 **[Up one Level](People "People")**
 

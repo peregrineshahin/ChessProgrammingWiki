@@ -45,10 +45,10 @@ a Canadian research scientist at at [Google](index.php?title=Google&action=edit&
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Vlad Mnih - Homepage](https://www.cs.toronto.edu/~vmnih/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [We’ll Never Win! Google’s AI Plays Atari - Propecta](https://propecta.com/googles-ai-can-beat-atari-games) by [Nate Dame](https://www.linkedin.com/in/natedame/en), March 19, 2015
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Volodymyr Mnih](http://dblp.uni-trier.de/pers/hd/m/Mnih:Volodymyr)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by [Tambet Matiisen](http://www.nervanasys.com/author/tambet/), [Nervana](http://www.nervanasys.com/), December 21, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Vlad Mnih - Homepage](https://www.cs.toronto.edu/~vmnih/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [We’ll Never Win! Google’s AI Plays Atari - Propecta](https://propecta.com/googles-ai-can-beat-atari-games) by [Nate Dame](https://www.linkedin.com/in/natedame/en), March 19, 2015
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Volodymyr Mnih](http://dblp.uni-trier.de/pers/hd/m/Mnih:Volodymyr)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by [Tambet Matiisen](http://www.nervanasys.com/author/tambet/), [Nervana](http://www.nervanasys.com/), December 21, 2015
 
 **[Up one level](People "People")**
 

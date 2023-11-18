@@ -93,12 +93,12 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Greta Garbo in a publicity still for [Inspiration](https://en.wikipedia.org/wiki/Inspiration_%281931_film%29) (1931), author: [Metro-Goldwyn-Mayer](https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer), [Greta Garbo from Wikipedia](https://en.wikipedia.org/wiki/Greta_Garbo)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [glinscott/Garbochess-JS · GitHub](https://github.com/glinscott/Garbochess-JS)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ajax chess](http://www.talkchess.com/forum/viewtopic.php?p=332081) by [Gary](Gary_Linscott "Gary Linscott"), [CCC](CCC "CCC"), February 20, 2010
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Microsoft Silverlight Chess](http://www.talkchess.com/forum/viewtopic.php?t=16814&start=1) by Gary, [CCC](CCC "CCC"), October 01, 2007
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Garbochess v2 released](http://www.talkchess.com/forum/viewtopic.php?t=19933) by Gary, [CCC](CCC "CCC"), March 01, 2008
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> based on [Garbochess-3/GarboChess3 at master · glinscott/Garbochess-3 · GitHub](https://github.com/glinscott/Garbochess-3/tree/master/GarboChess3)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Greta Garbo in a publicity still for [Inspiration](https://en.wikipedia.org/wiki/Inspiration_%281931_film%29) (1931), author: [Metro-Goldwyn-Mayer](https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer), [Greta Garbo from Wikipedia](https://en.wikipedia.org/wiki/Greta_Garbo)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [glinscott/Garbochess-JS · GitHub](https://github.com/glinscott/Garbochess-JS)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ajax chess](http://www.talkchess.com/forum/viewtopic.php?p=332081) by [Gary](Gary_Linscott "Gary Linscott"), [CCC](CCC "CCC"), February 20, 2010
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Microsoft Silverlight Chess](http://www.talkchess.com/forum/viewtopic.php?t=16814&start=1) by Gary, [CCC](CCC "CCC"), October 01, 2007
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Garbochess v2 released](http://www.talkchess.com/forum/viewtopic.php?t=19933) by Gary, [CCC](CCC "CCC"), March 01, 2008
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> based on [Garbochess-3/GarboChess3 at master · glinscott/Garbochess-3 · GitHub](https://github.com/glinscott/Garbochess-3/tree/master/GarboChess3)
 
 **[Up one Level](Engines "Engines")**
 

@@ -70,10 +70,10 @@ a program used for [parameter tuning](Automated_Tuning "Automated Tuning"), crea
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CLOP: Confident Local Optimization for Noisy Black-Box Parameter Tuning](http://remi.coulom.free.fr/CLOP/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Second partial derivative test from Wikipedia](https://en.wikipedia.org/wiki/Second_partial_derivative_test)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: How Do You Automatically Tune Your Evaluation Tables](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=552257&t=50823) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), January 31, 2014
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Inventions - Les Paul](http://www.les-paul.com/timeline/les-the-inventor/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CLOP: Confident Local Optimization for Noisy Black-Box Parameter Tuning](http://remi.coulom.free.fr/CLOP/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Second partial derivative test from Wikipedia](https://en.wikipedia.org/wiki/Second_partial_derivative_test)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: How Do You Automatically Tune Your Evaluation Tables](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=552257&t=50823) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), January 31, 2014
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Inventions - Les Paul](http://www.les-paul.com/timeline/les-the-inventor/)
 
 **[Up one Level](Automated_Tuning "Automated Tuning")**
 

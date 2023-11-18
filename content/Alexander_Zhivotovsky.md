@@ -22,8 +22,8 @@ is a Russian computer scientist. In [1963](Timeline#1963 "Timeline") <a id="cite
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> ["Каисса" - Историю программы рассказывает один из ее создателей Михаил Донской](http://adamant1.fromru.com/kaissa.html) - [Kaissa](http://translate.google.com/translate?sl=ru&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fadamant1.fromru.com%2Fkaissa.html) by [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), translated by [Google Translate](https://en.wikipedia.org/wiki/Google_Translate)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Image captured from the [Video В шахматы "играет" ЭВМ. Телевизионные новости. Эфир 24.11.1967](ITEP_Chess_Program#Video "ITEP Chess Program"), ca. 0:58
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> ["Каисса" - Историю программы рассказывает один из ее создателей Михаил Донской](http://adamant1.fromru.com/kaissa.html) - [Kaissa](http://translate.google.com/translate?sl=ru&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fadamant1.fromru.com%2Fkaissa.html) by [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), translated by [Google Translate](https://en.wikipedia.org/wiki/Google_Translate)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Image captured from the [Video В шахматы "играет" ЭВМ. Телевизионные новости. Эфир 24.11.1967](ITEP_Chess_Program#Video "ITEP Chess Program"), ca. 0:58
 
 **[Up one level](People "People")**
 

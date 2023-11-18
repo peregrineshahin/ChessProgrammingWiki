@@ -62,13 +62,13 @@ Peter Kappler was computer chess consultant for [Andrew Bujalski's](https://en.w
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Peter Kappler | LinkedIn](https://www.linkedin.com/in/peter-kappler-b860907/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The United States Chess Federation - The Making of Computer Chess](http://www.uschess.org/content/view/12283/719/) by [Dr. Alexey Root](https://en.wikipedia.org/wiki/Alexey_Root), July 17, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Austin Chess Club - FAQ](http://www.austinchess.org/FAQ.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Welcome to the new TCA website! - Texas Chess Association](https://texaschess.org/welcome-to-the-new-tca-website/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Texas Knights - The official publication of the Texas Chess Association, Volume 52, Number 4, March-April 2011](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0ZXhhc2NoZXNzfGd4OjYyMTVmZDU0N2M5ODE5MDk)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [inactive Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list#inactive_private_engine_list) from [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home) by [Ron Murawski](Ron_Murawski "Ron Murawski")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The United States Chess Federation - The Making of Computer Chess](http://www.uschess.org/content/view/12283/719/) by [Dr. Alexey Root](https://en.wikipedia.org/wiki/Alexey_Root), July 17, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Peter Kappler | LinkedIn](https://www.linkedin.com/in/peter-kappler-b860907/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The United States Chess Federation - The Making of Computer Chess](http://www.uschess.org/content/view/12283/719/) by [Dr. Alexey Root](https://en.wikipedia.org/wiki/Alexey_Root), July 17, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Austin Chess Club - FAQ](http://www.austinchess.org/FAQ.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Welcome to the new TCA website! - Texas Chess Association](https://texaschess.org/welcome-to-the-new-tca-website/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Texas Knights - The official publication of the Texas Chess Association, Volume 52, Number 4, March-April 2011](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0ZXhhc2NoZXNzfGd4OjYyMTVmZDU0N2M5ODE5MDk)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [inactive Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list#inactive_private_engine_list) from [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home) by [Ron Murawski](Ron_Murawski "Ron Murawski")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The United States Chess Federation - The Making of Computer Chess](http://www.uschess.org/content/view/12283/719/) by [Dr. Alexey Root](https://en.wikipedia.org/wiki/Alexey_Root), July 17, 2013
 
 **[Up one level](People "People")**
 

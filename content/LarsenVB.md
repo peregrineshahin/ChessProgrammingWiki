@@ -77,9 +77,9 @@ Rc8 55.Nd8 Kb3 56. e8=Q Rc4 57.Qe6 Kc3 58.Qxc4+ Kd2 59.Qd3+ Kc1 60.Qc3+ Kd1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Golem's Page](http://www.reocities.com/TimesSquare/Chaos/9481/indexOld.html) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli") ([reocities](http://www.reocities.com/))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Downloads](http://xoomer.virgilio.it/ludormio/download_e.htm), Source code ver. 0.04.07, readme.txt
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Computer Cup 2008 (PGN)](http://www.scaccomasco.com/tornei/2008/wwwCCC3/crosstbl.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Golem's Page](http://www.reocities.com/TimesSquare/Chaos/9481/indexOld.html) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli") ([reocities](http://www.reocities.com/))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Downloads](http://xoomer.virgilio.it/ludormio/download_e.htm), Source code ver. 0.04.07, readme.txt
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Computer Cup 2008 (PGN)](http://www.scaccomasco.com/tornei/2008/wwwCCC3/crosstbl.html)
 
 **[Up one level](Engines "Engines")**
 

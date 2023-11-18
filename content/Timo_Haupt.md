@@ -59,19 +59,19 @@ Timo Haupt and [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Operating [GridGinkgo](GridGinkgo "GridGinkgo") is exhausting and at times tiring - Timo Haupt takes a nap during the [WCCC 2016](WCCC_2016 "WCCC 2016"), Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), ‎June 28, ‎2016
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Timo Haupt - IT Administrator | XING](https://www.xing.com/profile/Timo_Haupt3)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Timo Klaustermeyer (**2006**). *Wandel von Interaktion zwischen Menschen und Maschine am Beispiel des Schachspiels*. Diplom thesis, [Paderborn University](Paderborn_University "Paderborn University"), advisors [Gerd Szwillus](https://dblp.uni-trier.de/pers/hd/s/Szwillus:Gerd) and [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [abstract as pdf](http://www.team-oh.de/files/Abstract%20Diplomarbeit.pdf) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2018 Chess Program Descriptions | ICGA](https://icga.org/?page_id=2429)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2018**). *Computer-Aided Game Play and Computer Cheating: Examples from Chess, Shogi, and Go*. [Extended Abstract as pdf](https://www.uni-trier.de/fileadmin/fb4/prof/BWL/FIN/Veranstaltungen/pisa-althofer-12.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Freestyle Blitz Tournaments on January 15 and 22, 2005](http://www.team-oh.de/FreestyleBlitz/Rules.htm) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") and Timo Klaustermeyer
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Steinwender EDV-Beratung](http://www.steinwender.de/cms/front_content.php)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Timo Haupt - CV](http://www.team-oh.de/Lebenslauf.htm) (German)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [14th World Computer Chess Championship (Blitz) - Turin 2006](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=17)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Index of /sebi/WCCC-Beijing-2008](http://www.czyzewski.org/sebi/WCCC-Beijing-2008/) pictures by [Sebastian Böhme](Sebastian_B%C3%B6hme "Sebastian Böhme")
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Beijing 2008 - Chess - Round 1 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=178&round=1&id=3)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Operating [GridGinkgo](GridGinkgo "GridGinkgo") is exhausting and at times tiring - Timo Haupt takes a nap during the [WCCC 2016](WCCC_2016 "WCCC 2016"), Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), ‎June 28, ‎2016
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Timo Haupt - IT Administrator | XING](https://www.xing.com/profile/Timo_Haupt3)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Timo Klaustermeyer (**2006**). *Wandel von Interaktion zwischen Menschen und Maschine am Beispiel des Schachspiels*. Diplom thesis, [Paderborn University](Paderborn_University "Paderborn University"), advisors [Gerd Szwillus](https://dblp.uni-trier.de/pers/hd/s/Szwillus:Gerd) and [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [abstract as pdf](http://www.team-oh.de/files/Abstract%20Diplomarbeit.pdf) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2018 Chess Program Descriptions | ICGA](https://icga.org/?page_id=2429)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2018**). *Computer-Aided Game Play and Computer Cheating: Examples from Chess, Shogi, and Go*. [Extended Abstract as pdf](https://www.uni-trier.de/fileadmin/fb4/prof/BWL/FIN/Veranstaltungen/pisa-althofer-12.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Freestyle Blitz Tournaments on January 15 and 22, 2005](http://www.team-oh.de/FreestyleBlitz/Rules.htm) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") and Timo Klaustermeyer
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Steinwender EDV-Beratung](http://www.steinwender.de/cms/front_content.php)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Timo Haupt - CV](http://www.team-oh.de/Lebenslauf.htm) (German)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [14th World Computer Chess Championship (Blitz) - Turin 2006](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=17)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Index of /sebi/WCCC-Beijing-2008](http://www.czyzewski.org/sebi/WCCC-Beijing-2008/) pictures by [Sebastian Böhme](Sebastian_B%C3%B6hme "Sebastian Böhme")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Beijing 2008 - Chess - Round 1 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=178&round=1&id=3)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
 
 **[Up one level](People "People")**
 

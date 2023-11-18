@@ -77,14 +77,14 @@ The 1988-89 [Mephisto Award for the best publication](Hegener_%26_Glaser#Mephist
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image](https://commons.wikimedia.org/wiki/File:Noordwijkerhout_Leeuwenhorst.jpg) by [Michiel1972](https://commons.wikimedia.org/wiki/User:Michiel1972),[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Leeuwenhorst - Wikipedia.nl](https://nl.wikipedia.org/wiki/Leeuwenhorst) (Dutch)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1987**). *Advances in Computer Chess, The 5th Triennial Conference*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal") (report)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Advances in Computer Chess 5](http://openlibrary.org/b/OL21437349M/Advances-in-computer-chess-5) from [openlibrary.org](http://openlibrary.org/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Advances in Computer Chess 5](http://www.amazon.com/Advances-Computer-Chess-v-Beal/dp/0444871594) from [amazon.com](http://www.amazon.com/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 144
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 138
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 117
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Advances in Computer Chess 5](https://web.archive.org/web/20010407201611/http://www.cs.rulimburg.nl/~uiterwyk/ACC8.htm) from [Paul Verhelst'](Paul_Verhelst "Paul Verhelst") Computer Chess Sites
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](https://commons.wikimedia.org/wiki/File:Noordwijkerhout_Leeuwenhorst.jpg) by [Michiel1972](https://commons.wikimedia.org/wiki/User:Michiel1972),[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Leeuwenhorst - Wikipedia.nl](https://nl.wikipedia.org/wiki/Leeuwenhorst) (Dutch)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1987**). *Advances in Computer Chess, The 5th Triennial Conference*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal") (report)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Advances in Computer Chess 5](http://openlibrary.org/b/OL21437349M/Advances-in-computer-chess-5) from [openlibrary.org](http://openlibrary.org/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Advances in Computer Chess 5](http://www.amazon.com/Advances-Computer-Chess-v-Beal/dp/0444871594) from [amazon.com](http://www.amazon.com/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 144
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 138
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 117
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Advances in Computer Chess 5](https://web.archive.org/web/20010407201611/http://www.cs.rulimburg.nl/~uiterwyk/ACC8.htm) from [Paul Verhelst'](Paul_Verhelst "Paul Verhelst") Computer Chess Sites
 
 **[Up one Level](Conferences "Conferences")**
 

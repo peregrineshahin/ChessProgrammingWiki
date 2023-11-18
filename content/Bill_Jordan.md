@@ -62,13 +62,13 @@ More recently, Bill Jordan published the didactic [open source chess programs](C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bill Jordan chess YouTube channel](https://www.youtube.com/channel/UCsdlBGD9F-HNla3kQdhTleQ)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bill Jordan | South Australian Chess Association](https://sachess.org.au/bill-jordan/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bills Bare Bones Chess](http://web.archive.org/web/20161111132747/http://www.chess-tuition.com/bbb//bbbc.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Awesome Chess Program, Chess Tuition (2016)](http://web.archive.org/web/20161012202911/http://chess-tuition.com/awesome.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess Memory](http://web.archive.org/web/20140122140327/http://home.vicnet.net.au/~chess/cm.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [billjordanchess · GitHub](https://github.com/billjordanchess)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [FM Bill Jordan's eBooks @ Amazon Author Central](https://www.amazon.com/-/e/B07F5WSFHZ)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bill Jordan chess YouTube channel](https://www.youtube.com/channel/UCsdlBGD9F-HNla3kQdhTleQ)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bill Jordan | South Australian Chess Association](https://sachess.org.au/bill-jordan/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bills Bare Bones Chess](http://web.archive.org/web/20161111132747/http://www.chess-tuition.com/bbb//bbbc.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Awesome Chess Program, Chess Tuition (2016)](http://web.archive.org/web/20161012202911/http://chess-tuition.com/awesome.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess Memory](http://web.archive.org/web/20140122140327/http://home.vicnet.net.au/~chess/cm.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [billjordanchess · GitHub](https://github.com/billjordanchess)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [FM Bill Jordan's eBooks @ Amazon Author Central](https://www.amazon.com/-/e/B07F5WSFHZ)
 
 **[Up one level](People "People")**
 

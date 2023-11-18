@@ -47,9 +47,9 @@ It is a comparatively weak engine, having a primary focus of being a reasonable 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [JustBasic](http://justbasic.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [RPD Youtube channel](https://www.youtube.com/watch?v=Nol8oq_QJHo)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Numpty chess - key features](https://sites.google.com/site/numptychess/home)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [JustBasic](http://justbasic.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [RPD Youtube channel](https://www.youtube.com/watch?v=Nol8oq_QJHo)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Numpty chess - key features](https://sites.google.com/site/numptychess/home)
 
 **[Up one Level](Engines "Engines")**
 

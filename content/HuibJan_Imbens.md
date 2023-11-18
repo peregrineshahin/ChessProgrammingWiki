@@ -29,14 +29,14 @@ He is further author of various chess programs for mobile devices, such as [Mobi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Huib-Jan Imbens | LinkedIn](https://www.linkedin.com/in/huib-jan-imbens-93b3b72/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Syncode](http://www.syncode.nl/syncode/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Swiss Master Credits](https://www.susendian.nl/swissmaster/index.html?credits.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1993**). *Report on the 13th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Les Echecs Electroniques | Programmes Windows](http://www.echecs.site/Windows.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Soliton from Wikipedia](https://en.wikipedia.org/wiki/Soliton)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Lie group from Wikipedia](https://en.wikipedia.org/wiki/Lie_group)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Lie algebra from Wikipedia](https://en.wikipedia.org/wiki/Lie_algebra)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Huib-Jan Imbens | LinkedIn](https://www.linkedin.com/in/huib-jan-imbens-93b3b72/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Syncode](http://www.syncode.nl/syncode/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Swiss Master Credits](https://www.susendian.nl/swissmaster/index.html?credits.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1993**). *Report on the 13th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Les Echecs Electroniques | Programmes Windows](http://www.echecs.site/Windows.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Soliton from Wikipedia](https://en.wikipedia.org/wiki/Soliton)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Lie group from Wikipedia](https://en.wikipedia.org/wiki/Lie_group)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Lie algebra from Wikipedia](https://en.wikipedia.org/wiki/Lie_algebra)
 
 **[Up one level](People "People")**
 

@@ -122,16 +122,16 @@ In the 14th WMCC (Jakarta, 1996), the Indonesian program GUNDA-1 participated, a
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gunda javanica from Wikipedia](https://en.wikipedia.org/wiki/Gunda_javanica)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ratih Dewanti](Ratih_Dewanti "Ratih Dewanti") (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ratih Dewanti](Ratih_Dewanti "Ratih Dewanti") (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal"), pp. 251
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jakarta 1996 - Chess - Round 1 - Game 13 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=55&round=1&id=13)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1996**). *Recognition of Local Participation*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [WMCCC Jakarta information](https://groups.google.com/d/msg/rec.games.chess.computer/50s5AfH68zs/hUwnuBw1BY8J) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 8, 1996
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: FIDE Ethics Commission ruling on ICGA/Rybka complaint](http://www.talkchess.com/forum/viewtopic.php?t=56112&start=202) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), May 04, 2015
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1997**). *Augmentes Ideas*. Editorial [ICCA Journal, Vol. 20, No. 1](ICGA_Journal#20_1 "ICGA Journal")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Misinformation about RAJAH in the ICCA](https://groups.google.com/d/msg/rec.games.chess.computer/NjJdS3uw7qQ/L7aYTdKG31AJ) by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 5, 1997
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Re: Misinformation about RAJAH in the ICCA - APOLOGY](https://groups.google.com/d/msg/rec.games.chess.computer/NjJdS3uw7qQ/EeeuJl9rkUcJ) by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 8, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gunda javanica from Wikipedia](https://en.wikipedia.org/wiki/Gunda_javanica)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ratih Dewanti](Ratih_Dewanti "Ratih Dewanti") (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ratih Dewanti](Ratih_Dewanti "Ratih Dewanti") (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal"), pp. 251
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jakarta 1996 - Chess - Round 1 - Game 13 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=55&round=1&id=13)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1996**). *Recognition of Local Participation*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [WMCCC Jakarta information](https://groups.google.com/d/msg/rec.games.chess.computer/50s5AfH68zs/hUwnuBw1BY8J) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 8, 1996
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: FIDE Ethics Commission ruling on ICGA/Rybka complaint](http://www.talkchess.com/forum/viewtopic.php?t=56112&start=202) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), May 04, 2015
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1997**). *Augmentes Ideas*. Editorial [ICCA Journal, Vol. 20, No. 1](ICGA_Journal#20_1 "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Misinformation about RAJAH in the ICCA](https://groups.google.com/d/msg/rec.games.chess.computer/NjJdS3uw7qQ/L7aYTdKG31AJ) by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 5, 1997
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: Misinformation about RAJAH in the ICCA - APOLOGY](https://groups.google.com/d/msg/rec.games.chess.computer/NjJdS3uw7qQ/EeeuJl9rkUcJ) by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 8, 1997
 
 **[Up one Level](Engines "Engines")**
 

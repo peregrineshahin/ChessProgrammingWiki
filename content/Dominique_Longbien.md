@@ -15,7 +15,7 @@ a French computer chess programmer and author of the chess engine [Adam](Adam "A
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from [Massy, France - 4 & 5 Oct 2003 - 10ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2003/tournoi.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen"), [FCCC 2003](FCCC_2003 "FCCC 2003"), other pictures from [Sylvain](Sylvain_Renard "Sylvain Renard")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from [Massy, France - 4 & 5 Oct 2003 - 10ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2003/tournoi.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen"), [FCCC 2003](FCCC_2003 "FCCC 2003"), other pictures from [Sylvain](Sylvain_Renard "Sylvain Renard")
 
 **[Up one level](People "People")**
 

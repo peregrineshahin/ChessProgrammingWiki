@@ -45,8 +45,8 @@ Concerning game and chess programming, Chao Ma is author of the chess engine [Cm
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [nkg114mc/cute-mpi-interface - GitHub](https://github.com/nkg114mc/cute-mpi-interface)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [nkg114mc/viper-cluster - GitHub](https://github.com/nkg114mc/viper-cluster)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Senpai Regression - GitHub](https://github.com/nkg114mc/senpai2_regression)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [A brief introduction to Stockfish NNUE - GitHub](https://github.com/nkg114mc/sfnnue-intro)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [nkg114mc/cute-mpi-interface - GitHub](https://github.com/nkg114mc/cute-mpi-interface)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [nkg114mc/viper-cluster - GitHub](https://github.com/nkg114mc/viper-cluster)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Senpai Regression - GitHub](https://github.com/nkg114mc/senpai2_regression)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [A brief introduction to Stockfish NNUE - GitHub](https://github.com/nkg114mc/sfnnue-intro)
 

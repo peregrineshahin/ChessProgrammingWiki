@@ -25,10 +25,10 @@ while Schäfer left that company short after and continued his business in the c
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kingsoft GmbH - Background and foundation (1978–1982) | Wikipedia](<https://en.wikipedia.org/wiki/Kingsoft_GmbH#Background_and_foundation_(1978%E2%80%931982)>)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Electronic Arts acquires distributor in Germany, Kingsoft GmbH](https://web.archive.org/web/20180914203318/https://www.thefreelibrary.com/Electronic+Arts+acquires+distributor+in+Germany%2C+Kingsoft+GmbH.-a016628703), March 08, 1995 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Commodore 16 from Wikipedia](https://en.wikipedia.org/wiki/Commodore_16)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Commodore Plus/4 from Wikipedia](https://en.wikipedia.org/wiki/Commodore_Plus/4)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kingsoft GmbH - Background and foundation (1978–1982) | Wikipedia](<https://en.wikipedia.org/wiki/Kingsoft_GmbH#Background_and_foundation_(1978%E2%80%931982)>)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Electronic Arts acquires distributor in Germany, Kingsoft GmbH](https://web.archive.org/web/20180914203318/https://www.thefreelibrary.com/Electronic+Arts+acquires+distributor+in+Germany%2C+Kingsoft+GmbH.-a016628703), March 08, 1995 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Commodore 16 from Wikipedia](https://en.wikipedia.org/wiki/Commodore_16)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Commodore Plus/4 from Wikipedia](https://en.wikipedia.org/wiki/Commodore_Plus/4)
 
 **[Up one level](People "People")**
 

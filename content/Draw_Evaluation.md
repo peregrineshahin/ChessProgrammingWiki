@@ -87,7 +87,7 @@ There are some heuristics that tells us only that one of the players cannot win 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [When can a game be declared as a draw?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=42991) by [Josué Forte](Josu%C3%A9_Forte "Josué Forte"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 15, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [When can a game be declared as a draw?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=42991) by [Josué Forte](Josu%C3%A9_Forte "Josué Forte"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 15, 2003
 
 **[Up one Level](Endgame "Endgame")**
 

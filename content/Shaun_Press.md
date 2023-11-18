@@ -76,13 +76,13 @@ Shaun Press represented [Papua New Guinea](https://en.wikipedia.org/wiki/Papua_N
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Shaun Press, Chief Arbiter at the 2013 [Doeberl Cup](https://en.wikipedia.org/wiki/Doeberl_Cup), [Canberra](https://en.wikipedia.org/wiki/Canberra), April 2013, Photo taken by [Gary Bekker](https://en.wikipedia.org/wiki/User:Garybekker), April 01, 2013, [Shaun Press from Wikipedia](https://en.wikipedia.org/wiki/User:Garybekker/Shaun_Press)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CCLA Home](http://www.ccla.net.au/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Shaun Press – Google+ | About](https://plus.google.com/100802559958907689739/about)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Shaun Press Home Page](http://users.cecs.anu.edu.au/~shaun/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Shaun Press from Wikipedia](https://en.wikipedia.org/wiki/User:Garybekker/Shaun_Press)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [WCCC 2006](WCCC_2006 "WCCC 2006"), [CG 2006](CG_2006 "CG 2006")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Workshop Chess and Mathematics](Workshop_Chess_and_Mathematics "Workshop Chess and Mathematics")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Shaun Press, Chief Arbiter at the 2013 [Doeberl Cup](https://en.wikipedia.org/wiki/Doeberl_Cup), [Canberra](https://en.wikipedia.org/wiki/Canberra), April 2013, Photo taken by [Gary Bekker](https://en.wikipedia.org/wiki/User:Garybekker), April 01, 2013, [Shaun Press from Wikipedia](https://en.wikipedia.org/wiki/User:Garybekker/Shaun_Press)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CCLA Home](http://www.ccla.net.au/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Shaun Press – Google+ | About](https://plus.google.com/100802559958907689739/about)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Shaun Press Home Page](http://users.cecs.anu.edu.au/~shaun/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Shaun Press from Wikipedia](https://en.wikipedia.org/wiki/User:Garybekker/Shaun_Press)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [WCCC 2006](WCCC_2006 "WCCC 2006"), [CG 2006](CG_2006 "CG 2006")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Workshop Chess and Mathematics](Workshop_Chess_and_Mathematics "Workshop Chess and Mathematics")
 
 **[Up one level](People "People")**
 

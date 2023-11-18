@@ -63,16 +63,16 @@ I happen to know this story because, for almost two years, I worked as the only 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Fabulous 70s: Boris Baczynskyj!](http://nezhmet.wordpress.com/2008/06/16/the-fabulous-70s-boris-baczynskyj/) [IM Mark Ginsburg](http://uschessleague.com/player.php?p=mark-ginsburg) [Presents A Personal Chess History](http://nezhmet.wordpress.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The United States Chess Federation - Philly Chess Legend, Boris Baczynskyj Dies](http://main.uschess.org/content/view/8135/429/), By [Jennifer Shahade](https://en.wikipedia.org/wiki/Jennifer_Shahade), January 24, 2008
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Boris Baczynskij: Peace Corps Thai 27](http://thai27.com/volunteer_Boris_Baczynskyj2.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Boris Baczynskyj, 62, chess master](http://articles.philly.com/2008-01-27/news/25254290_1_chess-master-chess-players-world-chess-federation), By [Sally A. Downey](http://www.zoominfo.com/p/Sally-Downey/110701650), January 27, 2008, [Philly.com](https://en.wikipedia.org/wiki/Philadelphia_Media_Network)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [An interesting book with some insights on Bob's Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?t=39455) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), June 23, 2011
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [The chess games of Boris Baczynskyj](http://www.chessgames.com/perl/chessplayer?pid=28425) from [chessgames.com](http://www.chessgames.com/index.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [NACCC download](http://www.csvn.nl/downloads/partijen/landen-kampioenschappen/north-america/95-verzamelde-partijen-van-north-american-computer-chess-championships-1984-1994/file), [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Boris Baczynskyj (**1985**). *The 15th ACM NACCC Anatomized*. [ICCA Journal, Vol. 8, No. 3](ICGA_Journal#8_3 "ICGA Journal")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Transposition tables in Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?t=61543) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), September 26, 2016 » [Transposition Table](Transposition_Table "Transposition Table"), [Cray Blitz](Cray_Blitz "Cray Blitz")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1985**). *D.E. Welsh and B. Baczynskyj: Computer Chess II*. [ICCA Journal, Vol. 8, No. 3](ICGA_Journal#8_3 "ICGA Journal") (review)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Fabulous 70s: Boris Baczynskyj!](http://nezhmet.wordpress.com/2008/06/16/the-fabulous-70s-boris-baczynskyj/) [IM Mark Ginsburg](http://uschessleague.com/player.php?p=mark-ginsburg) [Presents A Personal Chess History](http://nezhmet.wordpress.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The United States Chess Federation - Philly Chess Legend, Boris Baczynskyj Dies](http://main.uschess.org/content/view/8135/429/), By [Jennifer Shahade](https://en.wikipedia.org/wiki/Jennifer_Shahade), January 24, 2008
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Boris Baczynskij: Peace Corps Thai 27](http://thai27.com/volunteer_Boris_Baczynskyj2.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Boris Baczynskyj, 62, chess master](http://articles.philly.com/2008-01-27/news/25254290_1_chess-master-chess-players-world-chess-federation), By [Sally A. Downey](http://www.zoominfo.com/p/Sally-Downey/110701650), January 27, 2008, [Philly.com](https://en.wikipedia.org/wiki/Philadelphia_Media_Network)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [An interesting book with some insights on Bob's Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?t=39455) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), June 23, 2011
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The chess games of Boris Baczynskyj](http://www.chessgames.com/perl/chessplayer?pid=28425) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [NACCC download](http://www.csvn.nl/downloads/partijen/landen-kampioenschappen/north-america/95-verzamelde-partijen-van-north-american-computer-chess-championships-1984-1994/file), [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> Boris Baczynskyj (**1985**). *The 15th ACM NACCC Anatomized*. [ICCA Journal, Vol. 8, No. 3](ICGA_Journal#8_3 "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Transposition tables in Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?t=61543) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), September 26, 2016 » [Transposition Table](Transposition_Table "Transposition Table"), [Cray Blitz](Cray_Blitz "Cray Blitz")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1985**). *D.E. Welsh and B. Baczynskyj: Computer Chess II*. [ICCA Journal, Vol. 8, No. 3](ICGA_Journal#8_3 "ICGA Journal") (review)
 
 **[Up one level](People "People")**
 

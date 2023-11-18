@@ -33,11 +33,11 @@ a New Zealand computer scientist, and software engineer at [Google](index.php?ti
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [photostream webDU 2009](https://www.flickr.com/photos/webdu/page3), [Flickr](https://en.wikipedia.org/wiki/Flickr)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Peter McKenzie | LinkedIn](https://www.linkedin.com/in/peter-mckenzie-31397922/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [McKenzie, Peter](http://www.computer-go.info/db/operson.php?a=McKenzie%2C+Peter) from [computer-go.info](http://www.computer-go.info/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2015 World Computer Championship](http://arimaa.com/arimaa/wcc/2015/showGames.cgi)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Paderborn 1999 - Chess - Round 7 - Game 15 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=7&id=15)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [photostream webDU 2009](https://www.flickr.com/photos/webdu/page3), [Flickr](https://en.wikipedia.org/wiki/Flickr)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Peter McKenzie | LinkedIn](https://www.linkedin.com/in/peter-mckenzie-31397922/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [McKenzie, Peter](http://www.computer-go.info/db/operson.php?a=McKenzie%2C+Peter) from [computer-go.info](http://www.computer-go.info/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2015 World Computer Championship](http://arimaa.com/arimaa/wcc/2015/showGames.cgi)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Paderborn 1999 - Chess - Round 7 - Game 15 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=7&id=15)
 
 **[Up one level](People "People")**
 

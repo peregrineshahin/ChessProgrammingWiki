@@ -46,11 +46,11 @@ Celes utilizes a [main transposition table](Transposition_Table "Transposition T
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Female Celes variabilis photographed near [Akshiy](https://en.wikipedia.org/wiki/Akshiy), [Almaty Region](https://en.wikipedia.org/wiki/Almaty_Region), [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan), [Photo](https://commons.wikimedia.org/wiki/File:Celes_variabilis_female2.jpg) by [ChriKo](https://commons.wikimedia.org/wiki/User:ChriKo), June 11, 2017, [Celes - Wikispecies](https://species.wikimedia.org/wiki/Celes), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [31337 (Celes)](https://web.archive.org/web/20120712162100/http://wbec-ridderkerk.nl/html/details1/31337.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Celes/31337 website](https://www.stmintz.com/ccc/index.php?id=172152) by [Marcel Veldhuizen](Marcel_Veldhuizen "Marcel Veldhuizen"), [CCC](CCC "CCC"), May 28, 2001
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Norbert's collection/Celes aka 31337 (Compilation)/v0.75c](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Celes%20aka%2031337%20%28Compilation%29/v0.75c/) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [22nd Open Dutch Computer-Chess Championship 2002 - Photo Gallery](http://old.csvn.nl/gallery19.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Female Celes variabilis photographed near [Akshiy](https://en.wikipedia.org/wiki/Akshiy), [Almaty Region](https://en.wikipedia.org/wiki/Almaty_Region), [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan), [Photo](https://commons.wikimedia.org/wiki/File:Celes_variabilis_female2.jpg) by [ChriKo](https://commons.wikimedia.org/wiki/User:ChriKo), June 11, 2017, [Celes - Wikispecies](https://species.wikimedia.org/wiki/Celes), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [31337 (Celes)](https://web.archive.org/web/20120712162100/http://wbec-ridderkerk.nl/html/details1/31337.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Celes/31337 website](https://www.stmintz.com/ccc/index.php?id=172152) by [Marcel Veldhuizen](Marcel_Veldhuizen "Marcel Veldhuizen"), [CCC](CCC "CCC"), May 28, 2001
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Norbert's collection/Celes aka 31337 (Compilation)/v0.75c](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Celes%20aka%2031337%20%28Compilation%29/v0.75c/) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [22nd Open Dutch Computer-Chess Championship 2002 - Photo Gallery](http://old.csvn.nl/gallery19.html)
 
 **[Up one Level](Engines "Engines")**
 

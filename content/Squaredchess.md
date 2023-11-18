@@ -81,10 +81,10 @@ by looking up four pre-calculated line attack arrays, 32-Kbyte each, indexed by 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> squared-chess logo based on [media/^2.png · master · Tsoj Tsoj / squared-chess · GitLab](https://gitlab.com/tsoj/squared-chess/-/blob/master/media/%5E2.png)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New chess engine '^2-chess' - release 1.1.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68472) by [Jost Triller](Jost_Triller "Jost Triller"), [CCC](CCC "CCC"), September 20, 2018
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ChessData.hpp · master · Tsoj Tsoj / squared-chess · GitLab](https://gitlab.com/tsoj/squared-chess/-/blob/master/ChessData.hpp#L129)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [README.md · master · Tsoj Tsoj / squared-chess · GitLab](https://gitlab.com/tsoj/squared-chess/-/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> squared-chess logo based on [media/^2.png · master · Tsoj Tsoj / squared-chess · GitLab](https://gitlab.com/tsoj/squared-chess/-/blob/master/media/%5E2.png)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New chess engine '^2-chess' - release 1.1.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68472) by [Jost Triller](Jost_Triller "Jost Triller"), [CCC](CCC "CCC"), September 20, 2018
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ChessData.hpp · master · Tsoj Tsoj / squared-chess · GitLab](https://gitlab.com/tsoj/squared-chess/-/blob/master/ChessData.hpp#L129)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [README.md · master · Tsoj Tsoj / squared-chess · GitLab](https://gitlab.com/tsoj/squared-chess/-/blob/master/README.md)
 
 **[Up one Level](Engines "Engines")**
 

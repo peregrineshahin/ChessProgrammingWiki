@@ -262,16 +262,16 @@ More recently, Uri Blass contributed to the [Stockfish](Stockfish "Stockfish") d
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computerschach Weltmeisterschaft in Tel Aviv](http://www.shredderchess.de/schach-news/shredder-news/telaviv2004.html) from [shredderchess.de](http://www.shredderchess.de/) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Simon Litsyn, Ph.D CV](https://www.eng.tau.ac.il/~litsyn/taucv08.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICCF Player Details - Uri Blass](https://www.iccf.com/PlayerDetails.aspx?id=270233)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [how to develop a chess program?](https://www.stmintz.com/ccc/index.php?id=16921) by Uri Blass, [CCC](CCC "CCC"), April 14, 1998
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [my program movei is released](https://www.stmintz.com/ccc/index.php?id=229271) by Uri Blass, [CCC](CCC "CCC"), May 12, 2002
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Stockfish: call for contributor's full name :-) · Issue #1380 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/issues/1380)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Uri Blass](https://dblp.uni-trier.de/pers/hd/b/Blass:Uri.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Sprague–Grundy theorem from Wikipedia](https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Wythoff's game from Wikipedia](https://en.wikipedia.org/wiki/Wythoff%27s_game)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Football pools from Wikipedia](https://en.wikipedia.org/wiki/Football_pools)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computerschach Weltmeisterschaft in Tel Aviv](http://www.shredderchess.de/schach-news/shredder-news/telaviv2004.html) from [shredderchess.de](http://www.shredderchess.de/) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Simon Litsyn, Ph.D CV](https://www.eng.tau.ac.il/~litsyn/taucv08.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICCF Player Details - Uri Blass](https://www.iccf.com/PlayerDetails.aspx?id=270233)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [how to develop a chess program?](https://www.stmintz.com/ccc/index.php?id=16921) by Uri Blass, [CCC](CCC "CCC"), April 14, 1998
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [my program movei is released](https://www.stmintz.com/ccc/index.php?id=229271) by Uri Blass, [CCC](CCC "CCC"), May 12, 2002
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Stockfish: call for contributor's full name :-) · Issue #1380 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/issues/1380)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Uri Blass](https://dblp.uni-trier.de/pers/hd/b/Blass:Uri.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Sprague–Grundy theorem from Wikipedia](https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Wythoff's game from Wikipedia](https://en.wikipedia.org/wiki/Wythoff%27s_game)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Football pools from Wikipedia](https://en.wikipedia.org/wiki/Football_pools)
 
 **[Up one level](People "People")**
 

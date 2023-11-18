@@ -34,9 +34,9 @@ which probes the same [deep](Neural_Networks#Deep "Neural Networks") [convolutio
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Adam Treat - Senior Consulting Engineer - The Qt Company | LinkedIn](https://www.linkedin.com/in/adam-treat-4b977056)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Adam Treat - Qt World Summit 2018 Qt World Summit 2018](https://www.qtworldsummit.com/2018/speakers/adam-treat/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Matthew Lai](Matthew_Lai "Matthew Lai"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2017**). *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm*. [arXiv:1712.01815](https://arxiv.org/abs/1712.01815)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Adam Treat - Senior Consulting Engineer - The Qt Company | LinkedIn](https://www.linkedin.com/in/adam-treat-4b977056)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Adam Treat - Qt World Summit 2018 Qt World Summit 2018](https://www.qtworldsummit.com/2018/speakers/adam-treat/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Matthew Lai](Matthew_Lai "Matthew Lai"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2017**). *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm*. [arXiv:1712.01815](https://arxiv.org/abs/1712.01815)
 
 **[Up one level](People "People")**
 

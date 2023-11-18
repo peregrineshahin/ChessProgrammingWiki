@@ -50,14 +50,14 @@ His research interests include [game AI](Artificial_Intelligence "Artificial Int
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Meeting A Singaporean Working At Google](https://www.facebook.com/Vulcanpost/videos/vb.310518205758742/1196904277120126/?type=2&theater), October 11, 2017
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> In Asia, the standard template for names is reversed i.e., [LAST NAME] [FIRST NAME]. To avoid any confusion, my last name is Lim. My first name consists of two separate words, Yew Jin, and when pronounced, sounds like "Eugene".
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lim Yew Jin - Homepage](http://www.yewjin.com/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Yew Jin Lim, [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt") (**2009**). *Tigers and Goats is a draw.* in [Michael H. Albert](index.php?title=Michael_H._Albert&action=edit&redlink=1 "Michael H. Albert (page does not exist)"), [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski") (eds) (**2009**). *[Games of No Chance 3](http://library.msri.org/books/Book56/index.html)*. [Cambridge University Press](https://en.wikipedia.org/wiki/Cambridge_University_Press) , [pdf](http://library.msri.org/books/Book56/files/22jin.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Rules for Tigers and Goats](http://www.mastersgames.com/rules/tigers-goats-rules.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [About Me - Yew Jin's Sometimes Blog](http://www.yewjin.com/about-me/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Yew Jin Lim](https://dblp.uni-trier.de/pers/hd/l/Lim:Yew_Jin.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Meeting A Singaporean Working At Google](https://www.facebook.com/Vulcanpost/videos/vb.310518205758742/1196904277120126/?type=2&theater), October 11, 2017
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> In Asia, the standard template for names is reversed i.e., [LAST NAME] [FIRST NAME]. To avoid any confusion, my last name is Lim. My first name consists of two separate words, Yew Jin, and when pronounced, sounds like "Eugene".
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lim Yew Jin - Homepage](http://www.yewjin.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Yew Jin Lim, [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt") (**2009**). *Tigers and Goats is a draw.* in [Michael H. Albert](index.php?title=Michael_H._Albert&action=edit&redlink=1 "Michael H. Albert (page does not exist)"), [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski") (eds) (**2009**). *[Games of No Chance 3](http://library.msri.org/books/Book56/index.html)*. [Cambridge University Press](https://en.wikipedia.org/wiki/Cambridge_University_Press) , [pdf](http://library.msri.org/books/Book56/files/22jin.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Rules for Tigers and Goats](http://www.mastersgames.com/rules/tigers-goats-rules.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [About Me - Yew Jin's Sometimes Blog](http://www.yewjin.com/about-me/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Yew Jin Lim](https://dblp.uni-trier.de/pers/hd/l/Lim:Yew_Jin.html)
 
 **[Up one level](People "People")**
 

@@ -32,8 +32,8 @@ Mark Weeks also covers computer chess topics on his sites, such as [World Comput
 
 
 1. ↑ [1.0](#cite-ref-linkedin-1-0) [1.1](#cite-ref-linkedin-1-1) [Mark Weeks | LinkedIn](https://www.linkedin.com/in/markweeksinbelgium/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess for All Ages - Home](https://www.mark-weeks.com/aboutcom/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [World Computer Chess Championship](https://www.mark-weeks.com/chess/wcc-comp.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess for All Ages - Home](https://www.mark-weeks.com/aboutcom/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [World Computer Chess Championship](https://www.mark-weeks.com/chess/wcc-comp.htm)
 
 **[Up one level](People "People")**
 

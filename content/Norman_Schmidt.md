@@ -79,29 +79,29 @@ Due to that accusation of misuse, and the [Espin](index.php?title=Johandry_Gonza
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> personal communication, 2016
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Comrade from Wikipedia](https://en.wikipedia.org/wiki/Comrade)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Decembrist revolt from Wikipedia](https://en.wikipedia.org/wiki/Decembrist_revolt)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ChessLogik - RobboLito](http://users.telenet.be/chesslogik//robbolito.htm) hosted by Norman Schmidt has a list of [RobboLito](RobboLito "RobboLito") comrades and Decembrists
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [www.chesslogik.com](http://www.chesslogik.com/index.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Censor/Firenzina · GitHub](https://github.com/Censor/Firenzina)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [xyclOps 1.2 is available](http://www.talkchess.com/forum/viewtopic.php?t=22151) by Norman Schmidt, [CCC](CCC "CCC"), July 05, 2008
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [xyclOps, a clone ?](http://www.talkchess.com/forum/viewtopic.php?t=22276) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), July 10, 2008
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: xyclOps, a clone ?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=200082&t=22276) by Norman Schmidt, [CCC](CCC "CCC"), July 11, 2008
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [open apology to the chess engine community](http://www.talkchess.com/forum/viewtopic.php?t=22306) by Norman Schmidt, [CCC](CCC "CCC"), July 12, 2008
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Cylone 1.0 beta now available](http://www.talkchess.com/forum/viewtopic.php?t=22619) by Norman Schmidt, [CCC](CCC "CCC"), July 27, 2008
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> IMPORTANT: Cyclone is a fork of [Toga II 1.4b5](Toga#1.4beta5c "Toga") which has been relicensed under the GPL 3. Code from Cyclone cannot be reused in Fruit/Toga which is GPL 2+., [Posix ports of some recent version of Toga II](https://web.archive.org/web/20131012012343/http://hardy.uhasselt.be/Toga/posix_versions/) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [TogaToy 1.0](http://www.talkchess.com/forum/viewtopic.php?t=28787) by Norman Schmidt, [CCC](CCC "CCC"), July 04, 2009
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Cyclone 1.0 and Cyclops 1.0 avaliable](http://www.talkchess.com/forum/viewtopic.php?t=22794) by Norman Schmidt, [CCC](CCC "CCC"), August 04, 2008
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Crimson 1.1 is a clone of Viper (and so is 1.0)](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=278427) by [Christopher Conkie](index.php?title=Christopher_Conkie&action=edit&redlink=1 "Christopher Conkie (page does not exist)"), [CCC](CCC "CCC"), July 05, 2009
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [GitHub - FireFather/jinx: chess engine based on Fridolin 2.0](https://github.com/FireFather/jinx)
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [GitHub - FireFather/tomcat: chess engine based on Bobcat 8.0](https://github.com/FireFather/tomcat)
-18. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [GitHub - FireFather/seagull: chess engine based on Gull 3](https://github.com/FireFather/seagull)
-19. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [Computer Chess Biggest Liar](http://www.open-chess.org/viewtopic.php?f=3&t=1647) by [kingliveson](Franklin_Titus "Franklin Titus"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), October 09, 2011
-20. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [Houdini with 1:1 Robbolito-code?](http://www.talkchess.com/forum/viewtopic.php?t=40728) by [Dr. Alexander Schmidt](index.php?title=Dr._Alexander_Schmidt&action=edit&redlink=1 "Dr. Alexander Schmidt (page does not exist)"), [CCC](CCC "CCC"), October 12, 2011
-21. <a id="cite-ref-21" href="#cite-note-21">[21]</a> [Re: Houdini with 1:1 Robbolito-code?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=428534&t=40728) by Norman Schmidt, [CCC](CCC "CCC"), October 12, 2011
-22. <a id="cite-ref-22" href="#cite-note-22">[22]</a> [ChessLogik - RobboLito](http://users.telenet.be/chesslogik//robbolito.htm)
-23. <a id="cite-ref-23" href="#cite-note-23">[23]</a> [ChessLogik - Fire](http://users.telenet.be/chesslogik//fire.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> personal communication, 2016
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Comrade from Wikipedia](https://en.wikipedia.org/wiki/Comrade)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Decembrist revolt from Wikipedia](https://en.wikipedia.org/wiki/Decembrist_revolt)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ChessLogik - RobboLito](http://users.telenet.be/chesslogik//robbolito.htm) hosted by Norman Schmidt has a list of [RobboLito](RobboLito "RobboLito") comrades and Decembrists
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [www.chesslogik.com](http://www.chesslogik.com/index.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Censor/Firenzina · GitHub](https://github.com/Censor/Firenzina)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [xyclOps 1.2 is available](http://www.talkchess.com/forum/viewtopic.php?t=22151) by Norman Schmidt, [CCC](CCC "CCC"), July 05, 2008
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [xyclOps, a clone ?](http://www.talkchess.com/forum/viewtopic.php?t=22276) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), July 10, 2008
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: xyclOps, a clone ?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=200082&t=22276) by Norman Schmidt, [CCC](CCC "CCC"), July 11, 2008
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [open apology to the chess engine community](http://www.talkchess.com/forum/viewtopic.php?t=22306) by Norman Schmidt, [CCC](CCC "CCC"), July 12, 2008
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Cylone 1.0 beta now available](http://www.talkchess.com/forum/viewtopic.php?t=22619) by Norman Schmidt, [CCC](CCC "CCC"), July 27, 2008
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> IMPORTANT: Cyclone is a fork of [Toga II 1.4b5](Toga#1.4beta5c "Toga") which has been relicensed under the GPL 3. Code from Cyclone cannot be reused in Fruit/Toga which is GPL 2+., [Posix ports of some recent version of Toga II](https://web.archive.org/web/20131012012343/http://hardy.uhasselt.be/Toga/posix_versions/) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [TogaToy 1.0](http://www.talkchess.com/forum/viewtopic.php?t=28787) by Norman Schmidt, [CCC](CCC "CCC"), July 04, 2009
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Cyclone 1.0 and Cyclops 1.0 avaliable](http://www.talkchess.com/forum/viewtopic.php?t=22794) by Norman Schmidt, [CCC](CCC "CCC"), August 04, 2008
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Crimson 1.1 is a clone of Viper (and so is 1.0)](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=278427) by [Christopher Conkie](index.php?title=Christopher_Conkie&action=edit&redlink=1 "Christopher Conkie (page does not exist)"), [CCC](CCC "CCC"), July 05, 2009
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [GitHub - FireFather/jinx: chess engine based on Fridolin 2.0](https://github.com/FireFather/jinx)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [GitHub - FireFather/tomcat: chess engine based on Bobcat 8.0](https://github.com/FireFather/tomcat)
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [GitHub - FireFather/seagull: chess engine based on Gull 3](https://github.com/FireFather/seagull)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Computer Chess Biggest Liar](http://www.open-chess.org/viewtopic.php?f=3&t=1647) by [kingliveson](Franklin_Titus "Franklin Titus"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), October 09, 2011
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Houdini with 1:1 Robbolito-code?](http://www.talkchess.com/forum/viewtopic.php?t=40728) by [Dr. Alexander Schmidt](index.php?title=Dr._Alexander_Schmidt&action=edit&redlink=1 "Dr. Alexander Schmidt (page does not exist)"), [CCC](CCC "CCC"), October 12, 2011
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Re: Houdini with 1:1 Robbolito-code?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=428534&t=40728) by Norman Schmidt, [CCC](CCC "CCC"), October 12, 2011
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [ChessLogik - RobboLito](http://users.telenet.be/chesslogik//robbolito.htm)
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [ChessLogik - Fire](http://users.telenet.be/chesslogik//fire.htm)
 
 **[Up one level](People "People")**
 

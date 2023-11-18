@@ -34,9 +34,9 @@ EdChess emulated via [browser-based DosBox](https://en.wikipedia.org/wiki/DOSBox
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Programmer's Corner » EDCV199.DOC](https://www.pcorner.com/list/GAMES/EDCV199.ZIP/EDCV199.DOC/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Programmer's Corner » EDCV199.DOC](https://www.pcorner.com/list/GAMES/EDCV199.ZIP/EDCV199.DOC/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ed Chess : Free Streaming](https://archive.org/details/msdos_Ed_Chess_1994) : [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Programmer's Corner » EDCV199.DOC](https://www.pcorner.com/list/GAMES/EDCV199.ZIP/EDCV199.DOC/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Programmer's Corner » EDCV199.DOC](https://www.pcorner.com/list/GAMES/EDCV199.ZIP/EDCV199.DOC/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ed Chess : Free Streaming](https://archive.org/details/msdos_Ed_Chess_1994) : [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
 
 **[Up one Level](Engines "Engines")**
 

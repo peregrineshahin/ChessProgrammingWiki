@@ -39,9 +39,9 @@ a Taiwanese computer scientist at Department of Computer Science and Information
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer Chinese Chess](http://www.iis.sinica.edu.tw/~tshsu/projects/che.html) by [Tsan-sheng Hsu](Tsan-sheng_Hsu "Tsan-sheng Hsu")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Banqi from Wikipedia](https://en.wikipedia.org/wiki/Banqi)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DBLP: Bo-Nian Chen](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Chen:Bo=Nian.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer Chinese Chess](http://www.iis.sinica.edu.tw/~tshsu/projects/che.html) by [Tsan-sheng Hsu](Tsan-sheng_Hsu "Tsan-sheng Hsu")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Banqi from Wikipedia](https://en.wikipedia.org/wiki/Banqi)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DBLP: Bo-Nian Chen](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Chen:Bo=Nian.html)
 
 **[Up one level](People "People")**
 

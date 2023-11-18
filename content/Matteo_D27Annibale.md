@@ -29,10 +29,10 @@ Along with [Roberto Munter](Roberto_Munter "Roberto Munter"), he is further co-a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BlackMamba chess engine](https://sites.google.com/site/mdannib/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BlackMamba chess engine](https://sites.google.com/site/mdannib/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list)
 from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Vitruvius](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=52448&start=6) by [Roberto Munter](Roberto_Munter "Roberto Munter"), [CCC](CCC "CCC"), May 27, 2014
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Vitruvius](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=52448&start=6) by [Roberto Munter](Roberto_Munter "Roberto Munter"), [CCC](CCC "CCC"), May 27, 2014
 
 **[Up one level](People "People")**
 

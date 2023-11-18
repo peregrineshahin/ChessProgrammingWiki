@@ -1298,8 +1298,8 @@ October 22 - November 07, 2018, timecontrol 120' + 15''
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2018**). *TCEC13: the 13th Top Chess EngineChampionship*. [pdf](http://www.chessdom.com/wp-content/uploads/2019/01/TCEC-13-for-TCEC.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2018**). *TCEC13: the 13th Top Chess EngineChampionship*. [pdf](http://www.chessdom.com/wp-content/uploads/2019/01/TCEC-13-for-TCEC.pdf)
 
 **[Up one level](TCEC "TCEC")**
 

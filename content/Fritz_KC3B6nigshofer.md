@@ -21,17 +21,17 @@ In an interview, Austrian writer [Gerhard Roth](https://en.wikipedia.org/wiki/Ge
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Königshofer](https://much.isds.tugraz.at/people/by_name/k/koenigshofer_fritz/index.htm/) from [MUCH](http://much.iicm.edu/index.htm/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Burgenland Bunch Staff](http://www.the-burgenland-bunch.org/Staff/BB-Staff.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [BB News No. 227, 31 Dec 2012](http://www.the-burgenland-bunch.org/Newsletter/Newsletter227.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Die Geburt der Informatik an der TU Graz](https://austria-forum.org/af/Wissenssammlungen/Essays/Institutionen/Die_Geburt_der_Informatik_an_der_TU_Graz) by [Reinhard Posch](Mathematician#ReinhardPosch "Mathematician"), [Austria-Forum](https://de.wikipedia.org/wiki/Austria-Forum)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Rechenzentrum (Graz) : "Für eine Stärkung des Rechenzentrums" v . Fritz Königshofer : Kl. Ztg. v. 16.3.1973, S . 17, Kataloge der Universitäten Graz, Linz, Bratislava und Innsbruck](http://webapp.uibk.ac.at/alo_cat/card.jsp?id=12536859)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Frantz' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=47)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [SCHACH (Graz) : "Grazer nehmen an Computer - SCHACH - WM in Stockholm teil": Wahrheit v. 3.8.1974, S. 7, Kataloge der Universitäten Graz, Linz, Bratislava und Innsbruck](http://webapp.uibk.ac.at/alo_cat/card.jsp?id=12537152&pos=43)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [BB News No. 100 dtd 31 Oct 2001](http://www.the-burgenland-bunch.org/Newsletter/NL/Newsletter%20100.htm)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Tischgespräche: Dieses Mal mit Gerhard Roth](https://kurier.at/lifestyle/tischgespraeche-dieses-mal-mit-gerhard-roth/752.048) - [Kurier.at](https://en.wikipedia.org/wiki/Kurier)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> Fritz Königshofer is also mentioned in [Gerhard Roth](https://en.wikipedia.org/wiki/Gerhard_Roth) (**2003**). *Meine erste Lesung*. in [Willi Reserarits](https://en.wikipedia.org/wiki/Willi_Resetarits), [Hans Veigl](https://de.wikipedia.org/wiki/Hans_Veigl) (eds.) (**2003**). *Beatles, Bond und Blumenkinder: unser Lebensgefühl in den sechziger Jahren*. [Böhlau Verlag](https://en.wikipedia.org/wiki/B%C3%B6hlau_Verlag) (German)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [computer_kommunikation_l_1980-11-24_1800_1.gif](https://much.isds.tugraz.at/publications/lectures/_data/computer_kommunikation_l_1980-11-24_1800_1.gif) gez. [Univ.Prof. Dr. H. Maurer](Mathematician#HermannMaurer "Mathematician")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Königshofer](https://much.isds.tugraz.at/people/by_name/k/koenigshofer_fritz/index.htm/) from [MUCH](http://much.iicm.edu/index.htm/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Burgenland Bunch Staff](http://www.the-burgenland-bunch.org/Staff/BB-Staff.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [BB News No. 227, 31 Dec 2012](http://www.the-burgenland-bunch.org/Newsletter/Newsletter227.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Die Geburt der Informatik an der TU Graz](https://austria-forum.org/af/Wissenssammlungen/Essays/Institutionen/Die_Geburt_der_Informatik_an_der_TU_Graz) by [Reinhard Posch](Mathematician#ReinhardPosch "Mathematician"), [Austria-Forum](https://de.wikipedia.org/wiki/Austria-Forum)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Rechenzentrum (Graz) : "Für eine Stärkung des Rechenzentrums" v . Fritz Königshofer : Kl. Ztg. v. 16.3.1973, S . 17, Kataloge der Universitäten Graz, Linz, Bratislava und Innsbruck](http://webapp.uibk.ac.at/alo_cat/card.jsp?id=12536859)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Frantz' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=47)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [SCHACH (Graz) : "Grazer nehmen an Computer - SCHACH - WM in Stockholm teil": Wahrheit v. 3.8.1974, S. 7, Kataloge der Universitäten Graz, Linz, Bratislava und Innsbruck](http://webapp.uibk.ac.at/alo_cat/card.jsp?id=12537152&pos=43)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [BB News No. 100 dtd 31 Oct 2001](http://www.the-burgenland-bunch.org/Newsletter/NL/Newsletter%20100.htm)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Tischgespräche: Dieses Mal mit Gerhard Roth](https://kurier.at/lifestyle/tischgespraeche-dieses-mal-mit-gerhard-roth/752.048) - [Kurier.at](https://en.wikipedia.org/wiki/Kurier)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> Fritz Königshofer is also mentioned in [Gerhard Roth](https://en.wikipedia.org/wiki/Gerhard_Roth) (**2003**). *Meine erste Lesung*. in [Willi Reserarits](https://en.wikipedia.org/wiki/Willi_Resetarits), [Hans Veigl](https://de.wikipedia.org/wiki/Hans_Veigl) (eds.) (**2003**). *Beatles, Bond und Blumenkinder: unser Lebensgefühl in den sechziger Jahren*. [Böhlau Verlag](https://en.wikipedia.org/wiki/B%C3%B6hlau_Verlag) (German)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [computer_kommunikation_l_1980-11-24_1800_1.gif](https://much.isds.tugraz.at/publications/lectures/_data/computer_kommunikation_l_1980-11-24_1800_1.gif) gez. [Univ.Prof. Dr. H. Maurer](Mathematician#HermannMaurer "Mathematician")
 
 **[Up one Level](People "People")**
 

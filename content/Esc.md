@@ -65,10 +65,10 @@ Esc applies a [principal variation search](Principal_Variation_Search "Principal
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Esc key from Wikipedia](https://en.wikipedia.org/wiki/Esc_key)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [2nd "Italian Chess Engine Contest", (last round results)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35745) by [gianluigi](Gianluigi_Masciulli "Gianluigi Masciulli"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 14, 2002
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Index of /chess/engines/Norbert's collection/Esc/Esc 1.16/Esc000.log](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Esc%20%28Compilation%29/v1.16%20CIPS/Esc000.log)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2° CIPS - le foto](https://www.g-sei.org/2-campionato-italiano/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Esc key from Wikipedia](https://en.wikipedia.org/wiki/Esc_key)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [2nd "Italian Chess Engine Contest", (last round results)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35745) by [gianluigi](Gianluigi_Masciulli "Gianluigi Masciulli"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 14, 2002
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Index of /chess/engines/Norbert's collection/Esc/Esc 1.16/Esc000.log](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Esc%20%28Compilation%29/v1.16%20CIPS/Esc000.log)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2° CIPS - le foto](https://www.g-sei.org/2-campionato-italiano/)
 
 **[Up one level](Engines "Engines")**
 

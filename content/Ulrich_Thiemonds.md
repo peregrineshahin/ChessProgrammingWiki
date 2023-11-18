@@ -36,9 +36,9 @@ and further elaborated on [Endgame Tablebases](Endgame_Tablebases "Endgame Table
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image snipped from [Uli Thiemonds erhält die Ehrennadel der Schachjugend NRW - Schachgemeinschaft Porz e.V.](https://www.sg-porz.de/pages/posts/uli-thiemonds-erhaelt-die-ehrennadel-der-schachjugend-nrw-197.php), April 11, 2016
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [FIDE Profile - Thiemonds, Uli](https://ratings.fide.com/profile/24681377)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Schachgemeinschaft Porz e.V.](https://www.sg-porz.de/pages/ueber-uns/kontakt.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image snipped from [Uli Thiemonds erhält die Ehrennadel der Schachjugend NRW - Schachgemeinschaft Porz e.V.](https://www.sg-porz.de/pages/posts/uli-thiemonds-erhaelt-die-ehrennadel-der-schachjugend-nrw-197.php), April 11, 2016
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [FIDE Profile - Thiemonds, Uli](https://ratings.fide.com/profile/24681377)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Schachgemeinschaft Porz e.V.](https://www.sg-porz.de/pages/ueber-uns/kontakt.php)
 
 **[Up one level](People "People")**
 

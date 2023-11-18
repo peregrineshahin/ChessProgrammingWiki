@@ -97,9 +97,9 @@ For the minimizing side, the returned value is negated.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GitHub - rchastain/moustique: UCI chess engine derived from a didactic program by Jürgen Schlottke](https://github.com/rchastain/moustique)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: JS Schach's alpha-beta approximation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75478&start=11) [Rasmus Althoff](Rasmus_Althoff "Rasmus Althoff"), [CCC](CCC "CCC"), October 21, 2020
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [moustique/schach.txt at master · rchastain/moustique · GitHub | maxwertung](https://github.com/rchastain/moustique/blob/master/original/schach.txt#L551)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GitHub - rchastain/moustique: UCI chess engine derived from a didactic program by Jürgen Schlottke](https://github.com/rchastain/moustique)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: JS Schach's alpha-beta approximation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75478&start=11) [Rasmus Althoff](Rasmus_Althoff "Rasmus Althoff"), [CCC](CCC "CCC"), October 21, 2020
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [moustique/schach.txt at master · rchastain/moustique · GitHub | maxwertung](https://github.com/rchastain/moustique/blob/master/original/schach.txt#L551)
 
 **[Up one level](Engines "Engines")**
 

@@ -26,9 +26,9 @@ an American computer scientist, software and database engineer, from 1989 until 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Shawn Benn - LinkedIn](https://www.linkedin.com/in/shawnbenn/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Shawn Benn, [Danny Kopec](Danny_Kopec "Danny Kopec") (**1993**). *The Bratko-Kopec Test Recalibrated.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Revised version of the paper *Comparison and Testing of Six Commercial Computer Chess Programs*, presented at the [WCCC 1992 - Workshop: The Impact of Computer Chess on AI Research](WCCC_1992#Workshop "WCCC 1992") by [Tony Marsland](Tony_Marsland "Tony Marsland")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Shawn Benn - LinkedIn](https://www.linkedin.com/in/shawnbenn/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Shawn Benn, [Danny Kopec](Danny_Kopec "Danny Kopec") (**1993**). *The Bratko-Kopec Test Recalibrated.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Revised version of the paper *Comparison and Testing of Six Commercial Computer Chess Programs*, presented at the [WCCC 1992 - Workshop: The Impact of Computer Chess on AI Research](WCCC_1992#Workshop "WCCC 1992") by [Tony Marsland](Tony_Marsland "Tony Marsland")
 
 **[Up one level](People "People")**
 

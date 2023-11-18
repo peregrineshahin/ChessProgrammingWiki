@@ -53,17 +53,17 @@ In 1985, Taylor started to develop [Cyrus 68K](Cyrus_68K "Cyrus 68K") <a id="cit
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Scisys Intelligent Chess](http://www.chesscomputeruk.com/html/intelligent_chess.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Interview with David Levy, Feb. 2006 by 'hard](http://www.schach-computer.info/wiki/index.php/Levy,_David) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CXG Pocket Chess](http://www.schach-computer.info/wiki/index.php/CXG_Pocket_Chess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CXG Sensor Computachess](http://www.schach-computer.info/wiki/index.php/CXG_Sensor_Computachess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), Mark Taylor (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [CXG Electronic Chess Computers](http://www.spacious-mind.com/html/cxg.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CXG](http://www.schach-computer.info/wiki/index.php/CXG) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [CXG Sphinx Chess Card](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_Chess_Card) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Scisys Intelligent Chess](http://www.chesscomputeruk.com/html/intelligent_chess.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Interview with David Levy, Feb. 2006 by 'hard](http://www.schach-computer.info/wiki/index.php/Levy,_David) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CXG Pocket Chess](http://www.schach-computer.info/wiki/index.php/CXG_Pocket_Chess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CXG Sensor Computachess](http://www.schach-computer.info/wiki/index.php/CXG_Sensor_Computachess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), Mark Taylor (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [CXG Electronic Chess Computers](http://www.spacious-mind.com/html/cxg.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CXG](http://www.schach-computer.info/wiki/index.php/CXG) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [CXG Sphinx Chess Card](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_Chess_Card) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

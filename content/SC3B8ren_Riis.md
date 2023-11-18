@@ -68,21 +68,21 @@ a Danish mathematician at School of Electronic Engineering and Computer Science 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rybka controversy - Dr Søren Riis](http://www.top-5000.nl/Zach/riis.htm) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer analysis of world champions](http://www.chessbase.com/newsdetail.asp?newsid=3465) by Søren Riis, [ChessBase News](ChessBase "ChessBase"), November 02, 2006
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Rybka to play in Leiden?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=420807&t=40151) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [CCC](CCC "CCC"), August 23, 2011
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Rybka and the ICGA](http://www.computerschaak.nl/index.php?option=com_content&view=article&id=514%3Arybka-en-de-icga&catid=18%3Avereniging&Itemid=28&lang=en), [CSVN](CSVN "CSVN")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: For non programmers](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=22522;pg=2) by SR, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), July 30, 2011
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA response to ChessBase 4-part article](http://www.talkchess.com/forum/viewtopic.php?t=41866) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 08, 2012
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Søren Riis' Home Page](http://www.eecs.qmul.ac.uk/~smriis/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Søren Riis](https://dblp.uni-trier.de/pers/hd/r/Riis:S=oslash=ren)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Ada Lovelace from Wikipedia](https://en.wikipedia.org/wiki/Ada_Lovelace)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [ChessBase: A Gross Miscarriage of Justice in Computer Chess](http://www.open-chess.org/viewtopic.php?f=3&t=1771) by [kingliveson](Franklin_Titus "Franklin Titus"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2012
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Re: ChessBase: A Gross Miscarriage of Justice in Computer Chess](http://www.open-chess.org/viewtopic.php?f=3&t=1771#p15455) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2012
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Re: Hyatt Is Gone!](http://www.open-chess.org/viewtopic.php?f=3&t=1763&p=15497#p15459) by [BB+](Mark_Watkins "Mark Watkins") [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), Jan 03, 2012
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Rybka evidence recapitulation](http://www.open-chess.org/viewtopic.php?f=5&t=1772) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 03, 2012
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> Søren Riis (**2012**). *A Gross Miscarriage of Justice in Computer Chess*. [pdf](https://en.chessbase.com/news/2011/riis01.pdf) hosted by [ChessBase](ChessBase "ChessBase")
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Feedback on the ICGA/Rybka disqualification scandal](https://en.chessbase.com/post/feedback-on-the-icga-rybka-disqualification-scandal), [ChessBase News](ChessBase "ChessBase"), January 13, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rybka controversy - Dr Søren Riis](http://www.top-5000.nl/Zach/riis.htm) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer analysis of world champions](http://www.chessbase.com/newsdetail.asp?newsid=3465) by Søren Riis, [ChessBase News](ChessBase "ChessBase"), November 02, 2006
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Rybka to play in Leiden?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=420807&t=40151) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [CCC](CCC "CCC"), August 23, 2011
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rybka and the ICGA](http://www.computerschaak.nl/index.php?option=com_content&view=article&id=514%3Arybka-en-de-icga&catid=18%3Avereniging&Itemid=28&lang=en), [CSVN](CSVN "CSVN")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: For non programmers](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=22522;pg=2) by SR, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), July 30, 2011
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA response to ChessBase 4-part article](http://www.talkchess.com/forum/viewtopic.php?t=41866) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 08, 2012
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Søren Riis' Home Page](http://www.eecs.qmul.ac.uk/~smriis/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Søren Riis](https://dblp.uni-trier.de/pers/hd/r/Riis:S=oslash=ren)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Ada Lovelace from Wikipedia](https://en.wikipedia.org/wiki/Ada_Lovelace)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ChessBase: A Gross Miscarriage of Justice in Computer Chess](http://www.open-chess.org/viewtopic.php?f=3&t=1771) by [kingliveson](Franklin_Titus "Franklin Titus"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2012
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: ChessBase: A Gross Miscarriage of Justice in Computer Chess](http://www.open-chess.org/viewtopic.php?f=3&t=1771#p15455) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2012
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Re: Hyatt Is Gone!](http://www.open-chess.org/viewtopic.php?f=3&t=1763&p=15497#p15459) by [BB+](Mark_Watkins "Mark Watkins") [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), Jan 03, 2012
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Rybka evidence recapitulation](http://www.open-chess.org/viewtopic.php?f=5&t=1772) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 03, 2012
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> Søren Riis (**2012**). *A Gross Miscarriage of Justice in Computer Chess*. [pdf](https://en.chessbase.com/news/2011/riis01.pdf) hosted by [ChessBase](ChessBase "ChessBase")
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Feedback on the ICGA/Rybka disqualification scandal](https://en.chessbase.com/post/feedback-on-the-icga-rybka-disqualification-scandal), [ChessBase News](ChessBase "ChessBase"), January 13, 2012
 
 **[Up one level](People "People")**
 

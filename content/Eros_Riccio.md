@@ -44,9 +44,9 @@ fxg5 55.Kb7 Kg6 56.Rxa5 Kh5 57.c7 1/2-1/2
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image](https://commons.wikimedia.org/wiki/File:Eros_Riccio.gif) by Cinmad, December 01, 2006, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Eros Riccio from Wikipedia](https://en.wikipedia.org/wiki/Eros_Riccio)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eros Riccio's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=8)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Turin 2006 - Chess - Round 11 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=11&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](https://commons.wikimedia.org/wiki/File:Eros_Riccio.gif) by Cinmad, December 01, 2006, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Eros Riccio from Wikipedia](https://en.wikipedia.org/wiki/Eros_Riccio)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eros Riccio's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=8)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Turin 2006 - Chess - Round 11 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=11&id=5)
 
 **[Up one level](People "People")**
 

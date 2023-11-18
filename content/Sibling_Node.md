@@ -17,7 +17,7 @@ title: Sibling Node
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jeroen Carolus](Jeroen_Carolus "Jeroen Carolus") (**2006**). *Alpha-Beta with Sibling Prediction Pruning in Chess*. Masters thesis, [pdf](http://homepages.cwi.nl/%7Epaulk/theses/Carolus.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jeroen Carolus](Jeroen_Carolus "Jeroen Carolus") (**2006**). *Alpha-Beta with Sibling Prediction Pruning in Chess*. Masters thesis, [pdf](http://homepages.cwi.nl/%7Epaulk/theses/Carolus.pdf)
 
 **[Up one Level](Node "Node")**
 

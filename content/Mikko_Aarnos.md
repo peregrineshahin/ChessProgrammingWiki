@@ -29,9 +29,9 @@ a Finnish chess and [correspondence chess](https://en.wikipedia.org/wiki/Corresp
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ICCF Player Details | Mikko Aarnos](https://www.iccf.com/PlayerDetails.aspx?id=461001)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [mAarnos/QCSimulator · GitHub](https://github.com/mAarnos/QCSimulator)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [mAarnos/Accelerator · GitHub](https://github.com/mAarnos/Accelerator)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ICCF Player Details | Mikko Aarnos](https://www.iccf.com/PlayerDetails.aspx?id=461001)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [mAarnos/QCSimulator · GitHub](https://github.com/mAarnos/QCSimulator)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [mAarnos/Accelerator · GitHub](https://github.com/mAarnos/Accelerator)
 
 **[Up one level](People "People")**
 

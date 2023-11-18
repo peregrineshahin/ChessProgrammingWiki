@@ -20,10 +20,10 @@ a Taiwanese Doctor of medicine at department of [Radiation Oncology](https://en.
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [沈秉杰 Bing-Jie Shen](http://www.bjs.tw/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Far Eastern Memorial Hospital](http://www.femh.org.tw/En_website/Default.aspx?UID=24)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Bing-Jie Shen (**2009**). *Simulation of Intervention Strategies for Pandemic Influenza*. Master Thesis. CSIE, [National Taiwan University](National_Taiwan_University "National Taiwan University")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Influenza pandemic from Wikipedia](https://en.wikipedia.org/wiki/Influenza_pandemic)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [沈秉杰 Bing-Jie Shen](http://www.bjs.tw/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Far Eastern Memorial Hospital](http://www.femh.org.tw/En_website/Default.aspx?UID=24)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Bing-Jie Shen (**2009**). *Simulation of Intervention Strategies for Pandemic Influenza*. Master Thesis. CSIE, [National Taiwan University](National_Taiwan_University "National Taiwan University")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Influenza pandemic from Wikipedia](https://en.wikipedia.org/wiki/Influenza_pandemic)
 
 **[Up one level](People "People")**
 

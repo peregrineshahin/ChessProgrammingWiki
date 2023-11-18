@@ -37,8 +37,8 @@ a series of [Z80A](Z80 "Z80") based "all in one" [home computers](https://en.wik
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A look inside the CPC6128, [Image](https://commons.wikimedia.org/wiki/File:Amstrad_CPC6128,_keyboard_removed.jpg) by [Jesus Abizanda](https://www.flickr.com/people/35046176@N00), January 29, 2013, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Amstrad CPC from Wikipedia](https://en.wikipedia.org/wiki/Amstrad_CPC)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Amstrad CPC from Wikipedia](https://en.wikipedia.org/wiki/Amstrad_CPC)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A look inside the CPC6128, [Image](https://commons.wikimedia.org/wiki/File:Amstrad_CPC6128,_keyboard_removed.jpg) by [Jesus Abizanda](https://www.flickr.com/people/35046176@N00), January 29, 2013, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Amstrad CPC from Wikipedia](https://en.wikipedia.org/wiki/Amstrad_CPC)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Amstrad CPC from Wikipedia](https://en.wikipedia.org/wiki/Amstrad_CPC)
 
 **[Up one Level](Hardware "Hardware")**
 

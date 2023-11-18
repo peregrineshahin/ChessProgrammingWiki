@@ -38,10 +38,10 @@ a German computer scientist, software developer and former computer chess progra
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Peter Gillgasch at [WCCC 1995](WCCC_1995 "WCCC 1995"). Image clipped from [ICCA Journal, Vol. 18, No. 3](ICGA_Journal#18_3 "ICGA Journal"), pp. 178, Photo courtesy by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rotated Bitboards](http://people.csail.mit.edu/heinz/dt/node8.html) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DarkThought - Acknowledgements](http://people.csail.mit.edu/heinz/dt/node1.html#acknlg)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: About Deep Blue](https://www.stmintz.com/ccc/index.php?id=473371) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), December 23, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Peter Gillgasch at [WCCC 1995](WCCC_1995 "WCCC 1995"). Image clipped from [ICCA Journal, Vol. 18, No. 3](ICGA_Journal#18_3 "ICGA Journal"), pp. 178, Photo courtesy by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rotated Bitboards](http://people.csail.mit.edu/heinz/dt/node8.html) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DarkThought - Acknowledgements](http://people.csail.mit.edu/heinz/dt/node1.html#acknlg)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: About Deep Blue](https://www.stmintz.com/ccc/index.php?id=473371) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), December 23, 2005
 
 **[Up one level](People "People")**
 

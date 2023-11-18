@@ -86,17 +86,17 @@ He defended his Ph.D. at [Darmstadt University of Technology](Darmstadt_Universi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Homepage of Wilhelm Barth](https://web.archive.org/web/20130612033718/https://www.ads.tuwien.ac.at/people/Barth.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Mathematics Genealogy Project - Wilhelm Barth](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=21231)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Barth, Wilhelm | Wissenschaftler | Wissenschaft im Austria-Forum](https://austria-forum.org/af/Wissenssammlungen/Wissenschaftler/Barth%2C_Wilhelm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computer Chess](http://www.ads.tuwien.ac.at/research/Chess.html) (Barth, [Herbeck](Heinz_Herbeck "Heinz Herbeck"))
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Neues Schachprogramm für Spezialprobleme](https://idw-online.de/de/news4179), October 28, 1996 (German)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Heinz Herbeck](Heinz_Herbeck "Heinz Herbeck"), Wilhelm Barth (**1996**). *An Explanation Tool for Chess Endgames Based on the Rule Method*. [ICCA Journal, Vol. 19, No. 2](ICGA_Journal#19_2 "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Wilhelm Barth](https://dblp.uni-trier.de/pers/hd/b/Barth:Wilhelm)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Wilhelm Barth :: Institut für Computergraphik und Algorithmen - Arbeitsgruppe für Computergraphik](https://www.cg.tuwien.ac.at/staff/WilhelmBarth.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [root-finding algorithms from Wikipedia](https://en.wikipedia.org/wiki/Root-finding_algorithm)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Ulrich Thiemonds](Ulrich_Thiemonds "Ulrich Thiemonds") (**1999**). *Ein regelbasiertes Spielprogramm für Schachendspiele*. [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn), Diplom thesis (German)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Steven Edwards](Steven_Edwards "Steven Edwards") (**1995**). *Comments on Barth’s Article “Combining Knowledge and Search to Yield Infallible Endgame Programs.”* [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Homepage of Wilhelm Barth](https://web.archive.org/web/20130612033718/https://www.ads.tuwien.ac.at/people/Barth.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Mathematics Genealogy Project - Wilhelm Barth](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=21231)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Barth, Wilhelm | Wissenschaftler | Wissenschaft im Austria-Forum](https://austria-forum.org/af/Wissenssammlungen/Wissenschaftler/Barth%2C_Wilhelm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computer Chess](http://www.ads.tuwien.ac.at/research/Chess.html) (Barth, [Herbeck](Heinz_Herbeck "Heinz Herbeck"))
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Neues Schachprogramm für Spezialprobleme](https://idw-online.de/de/news4179), October 28, 1996 (German)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Heinz Herbeck](Heinz_Herbeck "Heinz Herbeck"), Wilhelm Barth (**1996**). *An Explanation Tool for Chess Endgames Based on the Rule Method*. [ICCA Journal, Vol. 19, No. 2](ICGA_Journal#19_2 "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Wilhelm Barth](https://dblp.uni-trier.de/pers/hd/b/Barth:Wilhelm)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Wilhelm Barth :: Institut für Computergraphik und Algorithmen - Arbeitsgruppe für Computergraphik](https://www.cg.tuwien.ac.at/staff/WilhelmBarth.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [root-finding algorithms from Wikipedia](https://en.wikipedia.org/wiki/Root-finding_algorithm)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Ulrich Thiemonds](Ulrich_Thiemonds "Ulrich Thiemonds") (**1999**). *Ein regelbasiertes Spielprogramm für Schachendspiele*. [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn), Diplom thesis (German)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Steven Edwards](Steven_Edwards "Steven Edwards") (**1995**). *Comments on Barth’s Article “Combining Knowledge and Search to Yield Infallible Endgame Programs.”* [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal")
 
 **[Up one level](People "People")**
 

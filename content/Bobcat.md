@@ -90,14 +90,14 @@ feat. [Michał Urbaniak](Category:Michal_Urbaniak "Category:Michal Urbaniak"), [
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Bobcat (Lynx rufus), taken at [Sunol Park](https://en.wikipedia.org/wiki/Sunol_Regional_Wilderness) near [Livermore CA](https://en.wikipedia.org/wiki/Livermore,_California), USA, [Bobcat from Wikipedia](https://en.wikipedia.org/wiki/Bobcat)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: CCT 13: Bobcat by Gunnar Harms/Denis Mendoza has entered](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=390644&t=37795) by [Gunnar Harms](Gunnar_Harms "Gunnar Harms"), [CCC](CCC "CCC"), January 26, 2011
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [bobcat/book/README at master · Bobcat/bobcat · GitHub](https://github.com/Bobcat/bobcat/blob/master/book/README)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [bobcat/src/Magic.h at master · Bobcat/bobcat · GitHub](https://github.com/Bobcat/bobcat/blob/master/src/Magic.h)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [bobcat/src/Bitmanip.h at master · Bobcat/bobcat · GitHub](https://github.com/Bobcat/bobcat/blob/master/src/Bitmanip.h)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: New version of Bobcat](http://www.talkchess.com/forum/viewtopic.php?p=400408#400408) by [Gunnar Harms](Gunnar_Harms "Gunnar Harms"), [CCC](CCC "CCC"), March 22, 2011
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [bobcat/src/Search.h at master · Bobcat/bobcat · GitHub](https://github.com/Bobcat/bobcat/blob/master/src/Search.h)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [2011 Fifth Annual ACCA World Computer Rapid Chess Championships - Results](http://compchess.org/ACCAWCRCC/2011ACCAWCRCC/WCRCCResults.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Bobcat (Lynx rufus), taken at [Sunol Park](https://en.wikipedia.org/wiki/Sunol_Regional_Wilderness) near [Livermore CA](https://en.wikipedia.org/wiki/Livermore,_California), USA, [Bobcat from Wikipedia](https://en.wikipedia.org/wiki/Bobcat)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: CCT 13: Bobcat by Gunnar Harms/Denis Mendoza has entered](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=390644&t=37795) by [Gunnar Harms](Gunnar_Harms "Gunnar Harms"), [CCC](CCC "CCC"), January 26, 2011
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [bobcat/book/README at master · Bobcat/bobcat · GitHub](https://github.com/Bobcat/bobcat/blob/master/book/README)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [bobcat/src/Magic.h at master · Bobcat/bobcat · GitHub](https://github.com/Bobcat/bobcat/blob/master/src/Magic.h)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [bobcat/src/Bitmanip.h at master · Bobcat/bobcat · GitHub](https://github.com/Bobcat/bobcat/blob/master/src/Bitmanip.h)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: New version of Bobcat](http://www.talkchess.com/forum/viewtopic.php?p=400408#400408) by [Gunnar Harms](Gunnar_Harms "Gunnar Harms"), [CCC](CCC "CCC"), March 22, 2011
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [bobcat/src/Search.h at master · Bobcat/bobcat · GitHub](https://github.com/Bobcat/bobcat/blob/master/src/Search.h)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [2011 Fifth Annual ACCA World Computer Rapid Chess Championships - Results](http://compchess.org/ACCAWCRCC/2011ACCAWCRCC/WCRCCResults.html)
 
 **[Up one Level](Engines "Engines")**
 

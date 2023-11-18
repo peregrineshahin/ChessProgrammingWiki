@@ -20,8 +20,8 @@ an American entrepreneur, and along with her husband [Steve Chafitz](Steve_Chafi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Steve and Arleen Chafitz, as appeared in the December 3, 1979 issue of [Business Week](https://en.wikipedia.org/wiki/Bloomberg_Businessweek), [Chafitz Electronic Chess Computers](http://www.spacious-mind.com/html/chafitz.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [e-End - How We Started](https://www.eendusa.com/how-we-started/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Steve and Arleen Chafitz, as appeared in the December 3, 1979 issue of [Business Week](https://en.wikipedia.org/wiki/Bloomberg_Businessweek), [Chafitz Electronic Chess Computers](http://www.spacious-mind.com/html/chafitz.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [e-End - How We Started](https://www.eendusa.com/how-we-started/)
 
 **[Up one level](People "People")**
 

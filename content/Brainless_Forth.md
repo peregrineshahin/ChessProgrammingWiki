@@ -34,8 +34,8 @@ It features a [10x12 Board](10x12_Board "10x12 Board"), [alpha-beta](Alpha-Beta 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [brainless - Browse Files at SourceForge.net](https://sourceforge.net/projects/forth-brainless/files/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Using ANS Forth](http://www.forth.org/ansforth/ansforth.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [brainless - Browse Files at SourceForge.net](https://sourceforge.net/projects/forth-brainless/files/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Using ANS Forth](http://www.forth.org/ansforth/ansforth.html)
 
 **[Up one Level](Engines "Engines")**
 

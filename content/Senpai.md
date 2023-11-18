@@ -89,16 +89,16 @@ Senpai is a Japanese term applied to the mentor system in wide use in [Japanese 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Great Wave off Kanagawa](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa), [Katsushika Hokusai](Category:Katsushika_Hokusai "Category:Katsushika Hokusai"), c. 1829–32, the first print in Hokusai's series [Thirty-six Views of Mount Fuji](https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji), current location: [Library of Congress](https://en.wikipedia.org/wiki/Library_of_Congress), see [Culture of Japan](https://en.wikipedia.org/wiki/Culture_of_Japan)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Senpai 1.0 (new engine)](http://www.talkchess.com/forum/viewtopic.php?t=51637) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), March 17, 2014
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Senpai Chess Engine - Computer Chess Programming](http://www.chessprogramming.net/senpai/) hosted by [Steve Maughan](Steve_Maughan "Steve Maughan")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Senpai 2.0](http://www.talkchess.com/forum/viewtopic.php?t=65680) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), November 10, 2017
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> \_\_builtin\_ctzll,\_\_ builtin\_popcountll, [Other Builtins - Using the GNU Compiler Collection (GCC)](http://gcc.gnu.org/onlinedocs/gcc-3.4.3/gcc/Other-Builtins.html)
- 6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Bibob](Bibob "Bibob") image 
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Senpai and kōhai - Wikipedia](https://en.wikipedia.org/wiki/Senpai_and_k%C5%8Dhai)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [senpai - Wiktionary](http://en.wiktionary.org/wiki/senpai)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Kohai 1.0 Released - a Senpai Derivative](http://www.talkchess.com/forum/viewtopic.php?t=60393) by [Michael B](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), June 06, 2016
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [GitHub - MichaelB7/Kohai-Chess: UCI Chess Engine, a derivative of Senpai 1.0](https://github.com/MichaelB7/Kohai-Chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Great Wave off Kanagawa](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa), [Katsushika Hokusai](Category:Katsushika_Hokusai "Category:Katsushika Hokusai"), c. 1829–32, the first print in Hokusai's series [Thirty-six Views of Mount Fuji](https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji), current location: [Library of Congress](https://en.wikipedia.org/wiki/Library_of_Congress), see [Culture of Japan](https://en.wikipedia.org/wiki/Culture_of_Japan)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Senpai 1.0 (new engine)](http://www.talkchess.com/forum/viewtopic.php?t=51637) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), March 17, 2014
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Senpai Chess Engine - Computer Chess Programming](http://www.chessprogramming.net/senpai/) hosted by [Steve Maughan](Steve_Maughan "Steve Maughan")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Senpai 2.0](http://www.talkchess.com/forum/viewtopic.php?t=65680) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), November 10, 2017
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> \_\_builtin\_ctzll,\_\_ builtin\_popcountll, [Other Builtins - Using the GNU Compiler Collection (GCC)](http://gcc.gnu.org/onlinedocs/gcc-3.4.3/gcc/Other-Builtins.html)
+ 6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Bibob](Bibob "Bibob") image 
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Senpai and kōhai - Wikipedia](https://en.wikipedia.org/wiki/Senpai_and_k%C5%8Dhai)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [senpai - Wiktionary](http://en.wiktionary.org/wiki/senpai)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Kohai 1.0 Released - a Senpai Derivative](http://www.talkchess.com/forum/viewtopic.php?t=60393) by [Michael B](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), June 06, 2016
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [GitHub - MichaelB7/Kohai-Chess: UCI Chess Engine, a derivative of Senpai 1.0](https://github.com/MichaelB7/Kohai-Chess)
 
 **[Up one level](Engines "Engines")**
 

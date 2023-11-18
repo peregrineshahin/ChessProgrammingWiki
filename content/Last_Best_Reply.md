@@ -51,8 +51,8 @@ One way of implementing the LBR data store is by means of a [binary tree](https:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The LBR move ordering heuristic](http://www.talkchess.com/forum/viewtopic.php?t=38556) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 26, 2011
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Testing LBR](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=401117&t=38556) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 27, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The LBR move ordering heuristic](http://www.talkchess.com/forum/viewtopic.php?t=38556) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 26, 2011
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Testing LBR](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=401117&t=38556) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 27, 2011
 
 **[Up one Level](Move_Ordering "Move Ordering")**
 

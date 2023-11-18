@@ -34,9 +34,9 @@ Along with [Victor Zakharov](Victor_Zakharov "Victor Zakharov") and [Michael G. 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Victor Zakharov](Victor_Zakharov "Victor Zakharov"), [Michael G. Malkovsky](Michael_G._Malkovsky "Michael G. Malkovsky"), Vladislav Y. Shchukin (**2016**). *[Compression of underdetermined data in a 7-piece chess table](https://link.springer.com/article/10.3103%2FS0278641916010076)*. [Moscow University Computational Mathematics and Cybernetics](https://www.springer.com/mathematics/journal/11968), Vol. 40, No. 1
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [tablebase compression / academic integrity](http://www.talkchess.com/forum/viewtopic.php?t=60222) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), May 19, 2016
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Щукин Владислав Юрьевич](https://istina.msu.ru/profile/vpike/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Victor Zakharov](Victor_Zakharov "Victor Zakharov"), [Michael G. Malkovsky](Michael_G._Malkovsky "Michael G. Malkovsky"), Vladislav Y. Shchukin (**2016**). *[Compression of underdetermined data in a 7-piece chess table](https://link.springer.com/article/10.3103%2FS0278641916010076)*. [Moscow University Computational Mathematics and Cybernetics](https://www.springer.com/mathematics/journal/11968), Vol. 40, No. 1
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [tablebase compression / academic integrity](http://www.talkchess.com/forum/viewtopic.php?t=60222) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), May 19, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Щукин Владислав Юрьевич](https://istina.msu.ru/profile/vpike/)
 
 **[Up one Level](People "People")**
 

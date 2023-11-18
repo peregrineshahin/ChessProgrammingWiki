@@ -35,7 +35,7 @@ In late [endgames](Endgame "Endgame"), specially [pawn endgames](Pawn_Endgame "P
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hilma af Klint](Category:Hilma_af_Klint "Category:Hilma af Klint") - [Group IX SUW, The Swan No. 1](https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_-_Group_IX_SUW,_The_Swan_No._1_(13947).jpg), 1915, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hilma af Klint](Category:Hilma_af_Klint "Category:Hilma af Klint") - [Group IX SUW, The Swan No. 1](https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_-_Group_IX_SUW,_The_Swan_No._1_(13947).jpg), 1915, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one Level](King "King")**
 

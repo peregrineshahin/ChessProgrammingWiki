@@ -67,12 +67,12 @@ symbolsUnicode = []string {
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [gochess/LICENSE at master · fdomig/gochess · GitHub](https://github.com/fdomig/gochess/blob/master/LICENSE)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [gochess/README.md at master · fdomig/gochess · GitHub](https://github.com/fdomig/gochess/blob/master/README.md)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [gochess/gochess.png at master · fdomig/gochess · GitHub](https://github.com/fdomig/gochess/blob/master/gochess.png)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ochess/piece.go at master · fdomig/gochess · GitHub](https://github.com/fdomig/gochess/blob/master/engine/piece.go)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [gochess/search.go at master · fdomig/gochess · GitHub](https://github.com/fdomig/gochess/blob/master/engine/search.go)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [gochess/eval.go at master · fdomig/gochess · GitHub](https://github.com/fdomig/gochess/blob/master/engine/eval.go)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [gochess/LICENSE at master · fdomig/gochess · GitHub](https://github.com/fdomig/gochess/blob/master/LICENSE)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [gochess/README.md at master · fdomig/gochess · GitHub](https://github.com/fdomig/gochess/blob/master/README.md)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [gochess/gochess.png at master · fdomig/gochess · GitHub](https://github.com/fdomig/gochess/blob/master/gochess.png)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ochess/piece.go at master · fdomig/gochess · GitHub](https://github.com/fdomig/gochess/blob/master/engine/piece.go)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [gochess/search.go at master · fdomig/gochess · GitHub](https://github.com/fdomig/gochess/blob/master/engine/search.go)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [gochess/eval.go at master · fdomig/gochess · GitHub](https://github.com/fdomig/gochess/blob/master/engine/eval.go)
 
 **[Up one level](Engines "Engines")**
 

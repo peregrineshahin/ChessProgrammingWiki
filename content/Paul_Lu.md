@@ -63,13 +63,13 @@ Paul Lu further was member of the [Chinook](https://en.wikipedia.org/wiki/Chinoo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paul Lu's Home Page](https://webdocs.cs.ualberta.ca/~paullu/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Aurora Distributed Shared Data System](http://webdocs.cs.ualberta.ca/~paullu/Aurora/aurora.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Authors - Chinook - World Man-Machine Checkers Champion](http://webdocs.cs.ualberta.ca/~chinook/authors/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Paul Lu's (Selected) Publications (by date)](http://webdocs.cs.ualberta.ca/~paullu/publications.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [DBLP: Paul Lu](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lu:Paul.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Marion Tinsley vs. Chinook - Wikipedia](https://en.wikipedia.org/wiki/Marion_Tinsley#Vs._Chinook)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> The [Aurora Borealis](https://en.wikipedia.org/wiki/Aurora_%28astronomy%29), or Northern Lights, shines above [Bear Lake](https://en.wikipedia.org/wiki/Bear_Lake_%28Alaska%29), [Eielson Air Force Base](https://en.wikipedia.org/wiki/Eielson_Air_Force_Base), [Alaska](https://en.wikipedia.org/wiki/Alaska), January 18, 2005, [United States Air Force](https://en.wikipedia.org/wiki/United_States_Air_Force) photo by Senior Airman Joshua Strang
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul Lu's Home Page](https://webdocs.cs.ualberta.ca/~paullu/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Aurora Distributed Shared Data System](http://webdocs.cs.ualberta.ca/~paullu/Aurora/aurora.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Authors - Chinook - World Man-Machine Checkers Champion](http://webdocs.cs.ualberta.ca/~chinook/authors/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Paul Lu's (Selected) Publications (by date)](http://webdocs.cs.ualberta.ca/~paullu/publications.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [DBLP: Paul Lu](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lu:Paul.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Marion Tinsley vs. Chinook - Wikipedia](https://en.wikipedia.org/wiki/Marion_Tinsley#Vs._Chinook)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> The [Aurora Borealis](https://en.wikipedia.org/wiki/Aurora_%28astronomy%29), or Northern Lights, shines above [Bear Lake](https://en.wikipedia.org/wiki/Bear_Lake_%28Alaska%29), [Eielson Air Force Base](https://en.wikipedia.org/wiki/Eielson_Air_Force_Base), [Alaska](https://en.wikipedia.org/wiki/Alaska), January 18, 2005, [United States Air Force](https://en.wikipedia.org/wiki/United_States_Air_Force) photo by Senior Airman Joshua Strang
 
 **[Up one level](People "People")**
 

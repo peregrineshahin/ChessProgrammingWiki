@@ -121,21 +121,21 @@ With the help of the FPGA technology, the boarder between hard- and software has
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hydra species](https://en.wikipedia.org/wiki/Hydra_%28genus%29) filmed with a binocular stereomicroscope his eyes From School hydra jellyfish Hydrozoa Flowers, [Category:Hydra (genus) - Wikimedia Commons](http://commons.wikimedia.org/wiki/Category:Hydra_%28genus%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lewis Wolpert](https://en.wikipedia.org/wiki/Lewis_Wolpert), [Amata Hornbruch](https://devneuro.org/cdn/people-detail.php?personID=1450), [Mike Clarke](Mike_Clarke "Mike Clarke") (**1974**). *[Positional Information and Positional Signalling in Hydra](https://academic.oup.com/icb/article/14/2/647/2014123)*. [Integrative and Comparative Biology](https://en.wikipedia.org/wiki/Integrative_and_Comparative_Biology), Vol. 14, No. 2
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pal Group of Companies](http://www.palgroup.com/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Al Nahyan family from Wikipedia](https://en.wikipedia.org/wiki/Al_Nahyan_family)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hydra (chess) from Wikipedia](https://en.wikipedia.org/wiki/Hydra_%28chess%29)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [The General Secretariat of the Executive Council - Abu Dhabi - Members' Profiles](http://gsec.abudhabi.ae/Sites/GSEC/Navigation/EN/ExecutiveCouncil/picture-gallery.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Zor-Champ wins Freestyle Tournament](https://en.chessbase.com/post/zor-champ-wins-freestyle-tournament) by [Arno Nickel](Arno_Nickel "Arno Nickel"), [ChessBase News](ChessBase "ChessBase"), April 16, 2006
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Who will be the next Freestyle Champion](http://en.chessbase.com/post/who-will-be-the-next-freestyle-champion) by [Arno Nickel](Arno_Nickel "Arno Nickel"), [ChessBase News](ChessBase "ChessBase"), July 05, 2006
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Hydra (chess) from Wikipedia](https://en.wikipedia.org/wiki/Hydra_%28chess%29)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Hydra (Schachcomputer) – Wikipedia.de](<https://de.wikipedia.org/wiki/Hydra_(Schachcomputer)>) (German)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Hydra (chess): 13:34, 30 May 2008 by 80.227.14.13](https://en.wikipedia.org/w/index.php?title=Hydra_%28chess%29&oldid=215962237)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Hydra (chess): 13:57, 16 December 2009‎ by 217.165.22.102](https://en.wikipedia.org/w/index.php?title=Hydra_%28chess%29&oldid=332038940)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Die Internationalen Paderborner Computerschachmeisterschaften](http://de.chessbase.com/post/die-internationalen-paderborner-computerschachmeisterschaften) by [Mathias Feist](Mathias_Feist "Mathias Feist"), [ChessBase Nachrichten](ChessBase "ChessBase"), February 17, 2004 (German)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Part 1](http://computerschach.de/Files/2007/Computer-WM%20Amsterdam%20%281%29.pdf) has an interview with [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") about Hydra
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> quoted with the kind permission of [Chrilly](Chrilly_Donninger "Chrilly Donninger") and [Enir](Enrique_Irazoqui "Enrique Irazoqui") » [Rybka](Rybka "Rybka")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hydra species](https://en.wikipedia.org/wiki/Hydra_%28genus%29) filmed with a binocular stereomicroscope his eyes From School hydra jellyfish Hydrozoa Flowers, [Category:Hydra (genus) - Wikimedia Commons](http://commons.wikimedia.org/wiki/Category:Hydra_%28genus%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lewis Wolpert](https://en.wikipedia.org/wiki/Lewis_Wolpert), [Amata Hornbruch](https://devneuro.org/cdn/people-detail.php?personID=1450), [Mike Clarke](Mike_Clarke "Mike Clarke") (**1974**). *[Positional Information and Positional Signalling in Hydra](https://academic.oup.com/icb/article/14/2/647/2014123)*. [Integrative and Comparative Biology](https://en.wikipedia.org/wiki/Integrative_and_Comparative_Biology), Vol. 14, No. 2
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pal Group of Companies](http://www.palgroup.com/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Al Nahyan family from Wikipedia](https://en.wikipedia.org/wiki/Al_Nahyan_family)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hydra (chess) from Wikipedia](https://en.wikipedia.org/wiki/Hydra_%28chess%29)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The General Secretariat of the Executive Council - Abu Dhabi - Members' Profiles](http://gsec.abudhabi.ae/Sites/GSEC/Navigation/EN/ExecutiveCouncil/picture-gallery.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Zor-Champ wins Freestyle Tournament](https://en.chessbase.com/post/zor-champ-wins-freestyle-tournament) by [Arno Nickel](Arno_Nickel "Arno Nickel"), [ChessBase News](ChessBase "ChessBase"), April 16, 2006
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Who will be the next Freestyle Champion](http://en.chessbase.com/post/who-will-be-the-next-freestyle-champion) by [Arno Nickel](Arno_Nickel "Arno Nickel"), [ChessBase News](ChessBase "ChessBase"), July 05, 2006
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Hydra (chess) from Wikipedia](https://en.wikipedia.org/wiki/Hydra_%28chess%29)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Hydra (Schachcomputer) – Wikipedia.de](<https://de.wikipedia.org/wiki/Hydra_(Schachcomputer)>) (German)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Hydra (chess): 13:34, 30 May 2008 by 80.227.14.13](https://en.wikipedia.org/w/index.php?title=Hydra_%28chess%29&oldid=215962237)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Hydra (chess): 13:57, 16 December 2009‎ by 217.165.22.102](https://en.wikipedia.org/w/index.php?title=Hydra_%28chess%29&oldid=332038940)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Die Internationalen Paderborner Computerschachmeisterschaften](http://de.chessbase.com/post/die-internationalen-paderborner-computerschachmeisterschaften) by [Mathias Feist](Mathias_Feist "Mathias Feist"), [ChessBase Nachrichten](ChessBase "ChessBase"), February 17, 2004 (German)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Part 1](http://computerschach.de/Files/2007/Computer-WM%20Amsterdam%20%281%29.pdf) has an interview with [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") about Hydra
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> quoted with the kind permission of [Chrilly](Chrilly_Donninger "Chrilly Donninger") and [Enir](Enrique_Irazoqui "Enrique Irazoqui") » [Rybka](Rybka "Rybka")
 
 **[Up one Level](Engines "Engines")**
 

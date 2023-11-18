@@ -18,8 +18,8 @@ Eric Marathée and [Bernard Brioit](Bernard_Brioit "Bernard Brioit"), [FCCC 2002
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [gibbon home page](http://perso.numericable.com/monique.marathee/gibbon_home_page.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3) (dead link)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [gibbon home page](http://perso.numericable.com/monique.marathee/gibbon_home_page.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3) (dead link)
 
 **[Up one level](People "People")**
 

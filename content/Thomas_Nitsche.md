@@ -62,16 +62,16 @@ As reported by [Albert Silver](Albert_Silver "Albert Silver"), [AlphaGo](index.p
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ab Dezember neuer Mikroschachcomputer für 350 Mark:: Mephisto unterm Weihnachtsbaum](http://www.computerwoche.de/heftarchiv/1979/36/1194002/), October 7, 1979, [Computerwoche](Computerworld#Woche "Computerworld") 36/1979 (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Was macht eigentlich Thomas Nitsche, der Mephisto III Programmierer?](http://www.thorstenczub.de/thomas.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Photo by [Rainer Neuhäusler](index.php?title=Rainer_Neuh%C3%A4usler&action=edit&redlink=1 "Rainer Neuhäusler (page does not exist)"), [Re: Who is that guy?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=287460&t=29458) by [Rainer Neuhäusler](index.php?title=Rainer_Neuh%C3%A4usler&action=edit&redlink=1 "Rainer Neuhäusler (page does not exist)"), [CCC](CCC "CCC"), August 19, 2009
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hegener & Glaser (Mephisto)](http://www.ismenio.com/mephisto.html) from [ChessComputers.org](http://www.ismenio.com/chess_computers.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Cogeon GmbH – Informationen, Zahlen, Fakten und Nachrichten - deutsche-startups.de](https://www.deutsche-startups.de/verzeichnisse/startups-a-z/cogeon-gmbh/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [MATH 42](http://math-42.com/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Zu Besuch bei Math 42: Die Mathematiker-Entwicklerbude - Golem.de](https://www.golem.de/news/zu-besuch-bei-math-42-die-mathematiker-entwicklerbude-1604-120081.html) (German)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Fat Fritz – What on Earth is that?](https://en.chessbase.com/post/fat-fritz-what-on-earth-is-that) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), August 13, 2019
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ab Dezember neuer Mikroschachcomputer für 350 Mark:: Mephisto unterm Weihnachtsbaum](http://www.computerwoche.de/heftarchiv/1979/36/1194002/), October 7, 1979, [Computerwoche](Computerworld#Woche "Computerworld") 36/1979 (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Was macht eigentlich Thomas Nitsche, der Mephisto III Programmierer?](http://www.thorstenczub.de/thomas.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Photo by [Rainer Neuhäusler](index.php?title=Rainer_Neuh%C3%A4usler&action=edit&redlink=1 "Rainer Neuhäusler (page does not exist)"), [Re: Who is that guy?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=287460&t=29458) by [Rainer Neuhäusler](index.php?title=Rainer_Neuh%C3%A4usler&action=edit&redlink=1 "Rainer Neuhäusler (page does not exist)"), [CCC](CCC "CCC"), August 19, 2009
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hegener & Glaser (Mephisto)](http://www.ismenio.com/mephisto.html) from [ChessComputers.org](http://www.ismenio.com/chess_computers.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Cogeon GmbH – Informationen, Zahlen, Fakten und Nachrichten - deutsche-startups.de](https://www.deutsche-startups.de/verzeichnisse/startups-a-z/cogeon-gmbh/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [MATH 42](http://math-42.com/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Zu Besuch bei Math 42: Die Mathematiker-Entwicklerbude - Golem.de](https://www.golem.de/news/zu-besuch-bei-math-42-die-mathematiker-entwicklerbude-1604-120081.html) (German)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Fat Fritz – What on Earth is that?](https://en.chessbase.com/post/fat-fritz-what-on-earth-is-that) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), August 13, 2019
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -48,11 +48,11 @@ Shrike played the first three [CCT Tournaments](CCT_Tournaments "CCT Tournaments
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A red-backed shrike at [lake Kerkini](https://en.wikipedia.org/wiki/Lake_Kerkini) [Natura 2000](https://en.wikipedia.org/wiki/Natura_2000) [site](http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=GR1260001), [Image](https://commons.wikimedia.org/wiki/File:Red-backed_shrike.jpg) by [Antonios Tsaknakis](https://commons.wikimedia.org/wiki/User:Birding_around), May 14, 2016, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Daniel Newman | LinkedIn](https://www.linkedin.com/in/daniel-newman-2483147/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Bitboard user's information request](https://www.stmintz.com/ccc/index.php?id=71984) by [Dan Newman](Dan_Newman "Dan Newman"), [CCC](CCC "CCC"), October 06, 1999
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: typical nps on single cpus](https://www.stmintz.com/ccc/index.php?id=96842) by [Dan Newman](Dan_Newman "Dan Newman"), [CCC](CCC "CCC"), February 13, 2000
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CCT-1 - PGN Download](http://www.vrichey.de/cct1/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A red-backed shrike at [lake Kerkini](https://en.wikipedia.org/wiki/Lake_Kerkini) [Natura 2000](https://en.wikipedia.org/wiki/Natura_2000) [site](http://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=GR1260001), [Image](https://commons.wikimedia.org/wiki/File:Red-backed_shrike.jpg) by [Antonios Tsaknakis](https://commons.wikimedia.org/wiki/User:Birding_around), May 14, 2016, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Daniel Newman | LinkedIn](https://www.linkedin.com/in/daniel-newman-2483147/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Bitboard user's information request](https://www.stmintz.com/ccc/index.php?id=71984) by [Dan Newman](Dan_Newman "Dan Newman"), [CCC](CCC "CCC"), October 06, 1999
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: typical nps on single cpus](https://www.stmintz.com/ccc/index.php?id=96842) by [Dan Newman](Dan_Newman "Dan Newman"), [CCC](CCC "CCC"), February 13, 2000
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CCT-1 - PGN Download](http://www.vrichey.de/cct1/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
 
 **[Up one Level](Engines "Engines")**
 

@@ -28,9 +28,9 @@ Crashtest Dummy played the [ICT 2007](ICT_2007 "ICT 2007"), the [DOCCC 2007](DOC
 
 ## [Dummy variable (statistics) from Wikipedia](https://en.wikipedia.org/wiki/Dummy_variable_%28statistics%29) [Free variables and bound variables from Wikipedia](https://en.wikipedia.org/wiki/Free_variables_and_bound_variables) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Today's featured article/May 21, 2004, Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article/May_21,_2004)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: The Baron 2.23](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=203643&t=22611) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [CCC](CCC "CCC"), July 26, 2008
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Photo by [Richard Pijl](Richard_Pijl "Richard Pijl")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Today's featured article/May 21, 2004, Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article/May_21,_2004)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: The Baron 2.23](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=203643&t=22611) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [CCC](CCC "CCC"), July 26, 2008
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Photo by [Richard Pijl](Richard_Pijl "Richard Pijl")
 
 **[Up one Level](Engines "Engines")**
 

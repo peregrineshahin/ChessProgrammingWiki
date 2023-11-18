@@ -80,18 +80,18 @@ and architect and principal engineer on *CloneDR* <a id="cite-note-8" href="#cit
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [DMS: Software Tool Infrastructure](#dms)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Semantic Designs People: Ira D. Baxter, Ph.D.](http://www.semdesigns.com/Company/People/idbaxter/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/), [Rémi Ronchaud](http://emergences.inria.fr/2011/newsletter_n17/L17_ICTLABS) (eds.) (**2004**). *Report on the EU/NSF Strategic Workshop on Engineering Software-Intensive Systems*. May 22-23, 2004, [Edinburgh](https://en.wikipedia.org/wiki/Edinburgh), [GB](https://en.wikipedia.org/wiki/Kingdom_of_Great_Britain), [pdf](https://www.ercim.eu/EU-NSF/sis.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Program Transformation Wiki / Ira Baxter](http://www.program-transformation.org/Transform/IraBaxter)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Program Transformation Wiki / DMSSoftware Reengineering Toolkit](http://www.program-transformation.org/Transform/DMSSoftwareReengineeringToolkit)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Semantic Designs: PARLANSE Parallel Programming Language for Windows Pentium/80x86](http://www.semdesigns.com/Products/Parlanse/index.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [multithreading - Threads in x86 assembler (using the GNU assember: as)](https://stackoverflow.com/questions/714905/is-it-possible-to-create-threads-without-system-calls-in-linux-x86-gas-assembly) - [Stack Overflow](https://en.wikipedia.org/wiki/Stack_Overflow)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Semantic Designs, Inc: Clone Doctor](http://www.semdesigns.com/Products/Clone/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Douglas Penrod](Douglas_Penrod "Douglas Penrod") (ed.) (**1977**). *[Computer Chess Newsletter, Issue 2](https://www.computerhistory.org/chess/doc-431614f6d6b8e/)*. p. 9
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> *The Fourth World Computer Chess Championship*, [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_36_C.pdf) courtesy [Danny Kopec](Danny_Kopec "Danny Kopec")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [dblp: Ira D. Baxter](https://dblp.uni-trier.de/pers/hd/b/Baxter:Ira_D=.html)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> hosted by [Modern Mechanix](http://blog.modernmechanix.com/), Photo 4: Ira Baxter’s [chess playing system](SD_Chess "SD Chess") display, which competed in the [Microcomputer Chess Tournament](MCCT_1978 "MCCT 1978") at the Faire. The level of play was impressive, and the winning program, called [SARGON](Sargon "Sargon"), was a 16 K byte [Z-80](Z80 "Z80") [assembler](Assembly "Assembly") program written by a husband and wife team, [Kathe](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen").
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [DMS: Software Tool Infrastructure](#dms)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Semantic Designs People: Ira D. Baxter, Ph.D.](http://www.semdesigns.com/Company/People/idbaxter/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/), [Rémi Ronchaud](http://emergences.inria.fr/2011/newsletter_n17/L17_ICTLABS) (eds.) (**2004**). *Report on the EU/NSF Strategic Workshop on Engineering Software-Intensive Systems*. May 22-23, 2004, [Edinburgh](https://en.wikipedia.org/wiki/Edinburgh), [GB](https://en.wikipedia.org/wiki/Kingdom_of_Great_Britain), [pdf](https://www.ercim.eu/EU-NSF/sis.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Program Transformation Wiki / Ira Baxter](http://www.program-transformation.org/Transform/IraBaxter)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Program Transformation Wiki / DMSSoftware Reengineering Toolkit](http://www.program-transformation.org/Transform/DMSSoftwareReengineeringToolkit)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Semantic Designs: PARLANSE Parallel Programming Language for Windows Pentium/80x86](http://www.semdesigns.com/Products/Parlanse/index.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [multithreading - Threads in x86 assembler (using the GNU assember: as)](https://stackoverflow.com/questions/714905/is-it-possible-to-create-threads-without-system-calls-in-linux-x86-gas-assembly) - [Stack Overflow](https://en.wikipedia.org/wiki/Stack_Overflow)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Semantic Designs, Inc: Clone Doctor](http://www.semdesigns.com/Products/Clone/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Douglas Penrod](Douglas_Penrod "Douglas Penrod") (ed.) (**1977**). *[Computer Chess Newsletter, Issue 2](https://www.computerhistory.org/chess/doc-431614f6d6b8e/)*. p. 9
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> *The Fourth World Computer Chess Championship*, [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_36_C.pdf) courtesy [Danny Kopec](Danny_Kopec "Danny Kopec")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [dblp: Ira D. Baxter](https://dblp.uni-trier.de/pers/hd/b/Baxter:Ira_D=.html)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> hosted by [Modern Mechanix](http://blog.modernmechanix.com/), Photo 4: Ira Baxter’s [chess playing system](SD_Chess "SD Chess") display, which competed in the [Microcomputer Chess Tournament](MCCT_1978 "MCCT 1978") at the Faire. The level of play was impressive, and the winning program, called [SARGON](Sargon "Sargon"), was a 16 K byte [Z-80](Z80 "Z80") [assembler](Assembly "Assembly") program written by a husband and wife team, [Kathe](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen").
 
 **[Up one level](People "People")**
 

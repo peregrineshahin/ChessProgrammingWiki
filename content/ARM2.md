@@ -68,10 +68,10 @@ The ARM2 processor was embedded inside the [TASC](TASC "TASC") [ChessMachine](Ch
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Some facts about the Acorn RISC Machine](https://groups.google.com/forum/#!msg/comp.arch/hPsDLEPf2eo/nvJR_d7nnyYJ) by [Roger Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson), comp.arch, November 02, 1988
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ARM Assembly Language Programming - Chapter 2 - Inside the ARM](http://www.peter-cockerell.net/aalp/html/ch-2.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Samples from [ARM-Architektur - Besonderheiten des Befehlssatzes | Wikipedia.de](https://de.wikipedia.org/wiki/ARM-Architektur#Besonderheiten_des_Befehlssatzes) (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [TASC ChessMachine](https://www.schach-computer.info/wiki/index.php/TASC_ChessMachine) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Some facts about the Acorn RISC Machine](https://groups.google.com/forum/#!msg/comp.arch/hPsDLEPf2eo/nvJR_d7nnyYJ) by [Roger Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson), comp.arch, November 02, 1988
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ARM Assembly Language Programming - Chapter 2 - Inside the ARM](http://www.peter-cockerell.net/aalp/html/ch-2.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Samples from [ARM-Architektur - Besonderheiten des Befehlssatzes | Wikipedia.de](https://de.wikipedia.org/wiki/ARM-Architektur#Besonderheiten_des_Befehlssatzes) (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [TASC ChessMachine](https://www.schach-computer.info/wiki/index.php/TASC_ChessMachine) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En)
 
 **[Up one Level](Hardware "Hardware")**
 

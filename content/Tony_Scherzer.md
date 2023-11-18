@@ -27,11 +27,11 @@ was an American electrical engineer, entrepreneur and chess programmer. Along wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [IGI Individual Record - Anthony Scherzer](http://www.familysearch.org/Eng/Search/IGI/individual_record.asp?recid=100000058897&lds=1&region=11&regionfriendly=North+America&frompage=99)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Welcome to SYS-10, Inc.](http://www.sys-10.com/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Linda Scherzer (Shinouskis) - LinkedIn](http://www.linkedin.com/in/lindascherzer)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [IGI Individual Record - Anthony Scherzer](http://www.familysearch.org/Eng/Search/IGI/individual_record.asp?recid=100000058897&lds=1&region=11&regionfriendly=North+America&frompage=99)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Welcome to SYS-10, Inc.](http://www.sys-10.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Linda Scherzer (Shinouskis) - LinkedIn](http://www.linkedin.com/in/lindascherzer)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -21,8 +21,8 @@ was an American chess programmer and chess organizer and player from [Royal Oak]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Garth E. Courtois, Jr., '70, of Boulder, CO, formerly of Royal Oak, June 29, age 48, [Obituaries](https://www.msu.edu/unit/msuaa/magazine/w97/obitsw97.htm) from the [Alumni Association](http://alumni.msu.edu/) of the [Michigan State University](Michigan_State_University "Michigan State University"), Winter 1997
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GG Says, August 7th, 2008](http://www.ababsurdo.com/archives/2235#comment-21369) from [ababsurdo.com](http://www.ababsurdo.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Garth E. Courtois, Jr., '70, of Boulder, CO, formerly of Royal Oak, June 29, age 48, [Obituaries](https://www.msu.edu/unit/msuaa/magazine/w97/obitsw97.htm) from the [Alumni Association](http://alumni.msu.edu/) of the [Michigan State University](Michigan_State_University "Michigan State University"), Winter 1997
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GG Says, August 7th, 2008](http://www.ababsurdo.com/archives/2235#comment-21369) from [ababsurdo.com](http://www.ababsurdo.com/)
 
 **[Up one level](People "People")**
 

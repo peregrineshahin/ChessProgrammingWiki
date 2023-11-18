@@ -65,8 +65,8 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [JikChess - History](http://koti.kapsi.fi/jik/jikchess/#history)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> based on [JikChess - Technical](http://koti.kapsi.fi/jik/jikchess/#technical)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [JikChess - History](http://koti.kapsi.fi/jik/jikchess/#history)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> based on [JikChess - Technical](http://koti.kapsi.fi/jik/jikchess/#technical)
 
 **[Up one Level](Engines "Engines")**
 

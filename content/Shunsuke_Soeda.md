@@ -33,14 +33,14 @@ a Japanese computer scientist affiliated with the Computing System Research Grou
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [shnsk (Shunsuke Soeda) · GitHub](https://github.com/shnsk)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GPSShogi](http://gps.tanaka.ecc.u-tokyo.ac.jp/gpsshogi/index.php?GPSShogiEn)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The 23rd World Computer Shogi Championship Applicant List](https://groups.google.com/d/msg/shogi-l/zO3mIXuHetY/6Hx5Cpl83yUJ) by [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen"), SHOGI-L, April 29, 2913
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hiroyuki Miura - 8-dan Professionals](http://www2.teu.ac.jp/gamelab/SHOGI/pro8dan.html#Miura) by [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Human versus computer Shogi: the final game](http://lang-8.com/564051/journals/276527624005506358412540051145272303204/Human-versus-computer-Shogi%253A-the-final-game), April 21, 2013
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Computer shogi - Computers versus humans - Denou-sen (2013) - Wikipedia](https://en.wikipedia.org/wiki/Computer_shogi#Denou-sen_.282013.29)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Shunsuke Soeda](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Soeda:Shunsuke)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [TANAKA Teturo's Papers](http://www.tanaka.ecc.u-tokyo.ac.jp/~ktanaka/papers.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [shnsk (Shunsuke Soeda) · GitHub](https://github.com/shnsk)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GPSShogi](http://gps.tanaka.ecc.u-tokyo.ac.jp/gpsshogi/index.php?GPSShogiEn)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The 23rd World Computer Shogi Championship Applicant List](https://groups.google.com/d/msg/shogi-l/zO3mIXuHetY/6Hx5Cpl83yUJ) by [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen"), SHOGI-L, April 29, 2913
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hiroyuki Miura - 8-dan Professionals](http://www2.teu.ac.jp/gamelab/SHOGI/pro8dan.html#Miura) by [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Human versus computer Shogi: the final game](http://lang-8.com/564051/journals/276527624005506358412540051145272303204/Human-versus-computer-Shogi%253A-the-final-game), April 21, 2013
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Computer shogi - Computers versus humans - Denou-sen (2013) - Wikipedia](https://en.wikipedia.org/wiki/Computer_shogi#Denou-sen_.282013.29)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Shunsuke Soeda](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Soeda:Shunsuke)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [TANAKA Teturo's Papers](http://www.tanaka.ecc.u-tokyo.ac.jp/~ktanaka/papers.html)
 
 **[Up one level](People "People")**
 

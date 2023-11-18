@@ -96,12 +96,12 @@ are compact [endgame bitbases](Endgame_Bitbases "Endgame Bitbases") created by [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Scorpio constellation](https://en.wikipedia.org/wiki/Scorpius) 1782, from [Bode's](Mathematician#JEBode "Mathematician") revised and enlarged edition of [Fortin's small star atlas](http://www.astrobril.nl/Fortin76.html) of [Flamsteed](https://en.wikipedia.org/wiki/John_Flamsteed)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Search with bitbase](http://www.talkchess.com/forum/viewtopic.php?t=45009&start=4) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), September 05, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Added liscense](http://www.talkchess.com/forum/viewtopic.php?t=49572&start=7) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), October 04, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Scorpio 6men EGBB Now available](http://www.talkchess.com/forum/viewtopic.php?t=50894) by [Joshua Shriver](index.php?title=Joshua_Shriver&action=edit&redlink=1 "Joshua Shriver (page does not exist)"), [CCC](CCC "CCC"), January 14, 2014
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dshawul/Scorpio · GitHub](https://github.com/dshawul/Scorpio) includes Six men egbb code
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [BitTorrent from Wikipedia](https://en.wikipedia.org/wiki/BitTorrent)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Scorpio constellation](https://en.wikipedia.org/wiki/Scorpius) 1782, from [Bode's](Mathematician#JEBode "Mathematician") revised and enlarged edition of [Fortin's small star atlas](http://www.astrobril.nl/Fortin76.html) of [Flamsteed](https://en.wikipedia.org/wiki/John_Flamsteed)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Search with bitbase](http://www.talkchess.com/forum/viewtopic.php?t=45009&start=4) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), September 05, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Added liscense](http://www.talkchess.com/forum/viewtopic.php?t=49572&start=7) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), October 04, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Scorpio 6men EGBB Now available](http://www.talkchess.com/forum/viewtopic.php?t=50894) by [Joshua Shriver](index.php?title=Joshua_Shriver&action=edit&redlink=1 "Joshua Shriver (page does not exist)"), [CCC](CCC "CCC"), January 14, 2014
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dshawul/Scorpio · GitHub](https://github.com/dshawul/Scorpio) includes Six men egbb code
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [BitTorrent from Wikipedia](https://en.wikipedia.org/wiki/BitTorrent)
 
 **[Up one level](Endgame_Tablebases "Endgame Tablebases")**
 

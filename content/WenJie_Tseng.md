@@ -53,10 +53,10 @@ a Taiwanese computer scientist affiliated with the Department of Computer Scienc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yokohama 2013](17th_Computer_Olympiad#ChineseChess "17th Computer Olympiad"), Silver medal for [Chimo](https://www.game-ai-forum.org/icga-tournaments/program.php?id=178), [Photos 2013 Events: day 3](https://icga.org/?page_id=800), [ICGA](ICGA "ICGA")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [Bo-Nian Chen](Bo-Nian_Chen "Bo-Nian Chen"), Wen-Jie Tseng (**2013**). *DARKNIGHT Wins Chinese Dark Chess Tournament*. [ICGA Journal, Vol. 36, No. 3](ICGA_Journal#36_3 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), Wen-Jie Tseng, [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2013**). *MOBILE 6 Wins Connect6 Tournament*. [ICGA Journal, Vol. 36, No. 3](ICGA_Journal#36_3 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Photos 2013 Events: day 5](https://icga.org/?page_id=849), [ICGA](ICGA "ICGA")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yokohama 2013](17th_Computer_Olympiad#ChineseChess "17th Computer Olympiad"), Silver medal for [Chimo](https://www.game-ai-forum.org/icga-tournaments/program.php?id=178), [Photos 2013 Events: day 3](https://icga.org/?page_id=800), [ICGA](ICGA "ICGA")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [Bo-Nian Chen](Bo-Nian_Chen "Bo-Nian Chen"), Wen-Jie Tseng (**2013**). *DARKNIGHT Wins Chinese Dark Chess Tournament*. [ICGA Journal, Vol. 36, No. 3](ICGA_Journal#36_3 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), Wen-Jie Tseng, [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2013**). *MOBILE 6 Wins Connect6 Tournament*. [ICGA Journal, Vol. 36, No. 3](ICGA_Journal#36_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Photos 2013 Events: day 5](https://icga.org/?page_id=849), [ICGA](ICGA "ICGA")
 
 **[Up one Level](People "People")**
 

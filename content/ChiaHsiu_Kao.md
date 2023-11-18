@@ -34,10 +34,10 @@ In this paper, we present a robotic prediction agent including a [darkforest](ht
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chia-Hsiu Kao - NUTN OASE Lab.](https://sites.google.com/site/nutnoaselab/research-team/chia-hsiu-kao)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang"), Chia-Hsiu Kao, [Sheng-Chi Yang](index.php?title=Sheng-Chi_Yang&action=edit&redlink=1 "Sheng-Chi Yang (page does not exist)"), [Yusuke Nojima](index.php?title=Yusuke_Nojima&action=edit&redlink=1 "Yusuke Nojima (page does not exist)"), [Ryosuke Saga](index.php?title=Ryosuke_Saga&action=edit&redlink=1 "Ryosuke Saga (page does not exist)"), [Nan Shuo](index.php?title=Nan_Shuo&action=edit&redlink=1 "Nan Shuo (page does not exist)"), [Naoyuki Kubota](Naoyuki_Kubota "Naoyuki Kubota") (**2017**). *FML-based Prediction Agent and Its Application to Game of Go*. [arXiv:1704.04719](https://arxiv.org/abs/1704.04719)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [PALRO is a robot who cares](https://palro.jp/en/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Chia-Hsiu Kao](https://dblp.uni-trier.de/pers/hd/k/Kao:Chia=Hsiu)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chia-Hsiu Kao - NUTN OASE Lab.](https://sites.google.com/site/nutnoaselab/research-team/chia-hsiu-kao)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang"), Chia-Hsiu Kao, [Sheng-Chi Yang](index.php?title=Sheng-Chi_Yang&action=edit&redlink=1 "Sheng-Chi Yang (page does not exist)"), [Yusuke Nojima](index.php?title=Yusuke_Nojima&action=edit&redlink=1 "Yusuke Nojima (page does not exist)"), [Ryosuke Saga](index.php?title=Ryosuke_Saga&action=edit&redlink=1 "Ryosuke Saga (page does not exist)"), [Nan Shuo](index.php?title=Nan_Shuo&action=edit&redlink=1 "Nan Shuo (page does not exist)"), [Naoyuki Kubota](Naoyuki_Kubota "Naoyuki Kubota") (**2017**). *FML-based Prediction Agent and Its Application to Game of Go*. [arXiv:1704.04719](https://arxiv.org/abs/1704.04719)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PALRO is a robot who cares](https://palro.jp/en/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Chia-Hsiu Kao](https://dblp.uni-trier.de/pers/hd/k/Kao:Chia=Hsiu)
 
 **[Up one level](People "People")**
 

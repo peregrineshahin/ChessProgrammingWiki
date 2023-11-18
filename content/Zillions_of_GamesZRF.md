@@ -93,11 +93,11 @@ a commercial [general game playing](General_Game_Playing "General Game Playing")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zillions of Games - Wikipedia](https://en.wikipedia.org/wiki/Zillions_of_Games)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zillions of Games - How Many Games?](http://www.zillionsofgames.com/games.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jeff Mallett](Jeff_Mallett "Jeff Mallett") (**2003**). *ZRF Language References*. [pdf](http://www.cs.duke.edu/courses/spring06/cps108/Assignments/06_vooga/zrf.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nina Hagen](Category:Nina_Hagen "Category:Nina Hagen")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [BEZZENBERGER Rechtsanwälte - Kanzlei für gewerblichen Rechtsschutz, Urheber- und Medienrecht](http://www.kanzlei-bezzenberger.de/jb.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zillions of Games - Wikipedia](https://en.wikipedia.org/wiki/Zillions_of_Games)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zillions of Games - How Many Games?](http://www.zillionsofgames.com/games.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jeff Mallett](Jeff_Mallett "Jeff Mallett") (**2003**). *ZRF Language References*. [pdf](http://www.cs.duke.edu/courses/spring06/cps108/Assignments/06_vooga/zrf.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nina Hagen](Category:Nina_Hagen "Category:Nina Hagen")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [BEZZENBERGER Rechtsanwälte - Kanzlei für gewerblichen Rechtsschutz, Urheber- und Medienrecht](http://www.kanzlei-bezzenberger.de/jb.html)
 
 **[Up one level](Engines "Engines")**
 

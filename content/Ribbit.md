@@ -148,10 +148,10 @@ During the first decade of the [computer chess championship](ACM_North_American_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Waterloo@50](http://www.cs.uwaterloo.ca/40th/Chronology/ChronologyGlossary.pdf) (pdf) 2007, Photo courtesy of Peter Ponzo, Copyright 1992, The beaver is the mascot for CS at [University of Waterloo](University_of_Waterloo "University of Waterloo")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hansen, Perry and Slate at 1st World Computer Chess Championship in Stockholm](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdaadb6), Photo by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [An Introduction to Computer Chess](http://www.cs.uwaterloo.ca/%7Ealopez-o/divulge/chimp.html) by [Alejandro López-Ortiz](index.php?title=Alejandro_L%C3%B3pez-Ortiz&action=edit&redlink=1 "Alejandro López-Ortiz (page does not exist)"), 1993
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [George Atkinson](index.php?title=George_Atkinson&action=edit&redlink=1 "George Atkinson (page does not exist)") (**1998**). *[Chess and Machine Intuition](http://books.google.com/books?id=ZuTvVo4zo6oC&printsec=frontcover&dq=Chess+and+machine+intuition#v=onepage&q&f=false)*. (Intellect Ltd.) pp 67
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Waterloo@50](http://www.cs.uwaterloo.ca/40th/Chronology/ChronologyGlossary.pdf) (pdf) 2007, Photo courtesy of Peter Ponzo, Copyright 1992, The beaver is the mascot for CS at [University of Waterloo](University_of_Waterloo "University of Waterloo")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hansen, Perry and Slate at 1st World Computer Chess Championship in Stockholm](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdaadb6), Photo by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [An Introduction to Computer Chess](http://www.cs.uwaterloo.ca/%7Ealopez-o/divulge/chimp.html) by [Alejandro López-Ortiz](index.php?title=Alejandro_L%C3%B3pez-Ortiz&action=edit&redlink=1 "Alejandro López-Ortiz (page does not exist)"), 1993
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [George Atkinson](index.php?title=George_Atkinson&action=edit&redlink=1 "George Atkinson (page does not exist)") (**1998**). *[Chess and Machine Intuition](http://books.google.com/books?id=ZuTvVo4zo6oC&printsec=frontcover&dq=Chess+and+machine+intuition#v=onepage&q&f=false)*. (Intellect Ltd.) pp 67
 
 **[Up one Level](Engines "Engines")**
 

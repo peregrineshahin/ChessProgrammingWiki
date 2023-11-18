@@ -180,16 +180,16 @@ and more recently with [Ryan Hayward](Ryan_Hayward "Ryan Hayward") on the game o
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Martin Müller - University of Alberta](https://www.ualberta.ca/science/about-us/contact-us/faculty-directory/martin-mueller)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Authors - Chinook - World Man-Machine Checkers Champion](https://webdocs.cs.ualberta.ca/~chinook/authors/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fuego from sourceforge](http://fuego.sourceforge.net/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Markus Enzenberger](Markus_Enzenberger "Markus Enzenberger"), Martin Müller (**2009**). *Fuego - An Open-source Framework for Board Games and Go Engine Based on Monte-Carlo Tree Search*. Technical Report TR 09-08, [University of Alberta](University_of_Alberta "University of Alberta")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Martin Müller (**2009**). *Fuego at the Computer Olympiad in Pamplona 2009: A Tournament Report*. Technical Report TR 09-09, [University of Alberta](University_of_Alberta "University of Alberta")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Publications of Martin Müller's Research Group](https://webdocs.cs.ualberta.ca/%7Emmueller/publications.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Martin Müller 0003](https://dblp.uni-trier.de/pers/hd/m/M=uuml=ller_0003:Martin)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: A new(?) technique to recognize draws](https://www.stmintz.com/ccc/index.php?id=233322) by [Dan Andersson](index.php?title=Dan_Andersson&action=edit&redlink=1 "Dan Andersson (page does not exist)"), [CCC](CCC "CCC"), June 01, 2002
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [The SAT Game](http://www.cril.univ-artois.fr/~roussel/satgame/satgame.php?lang=eng)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Martin Müller - University of Alberta](https://www.ualberta.ca/science/about-us/contact-us/faculty-directory/martin-mueller)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Authors - Chinook - World Man-Machine Checkers Champion](https://webdocs.cs.ualberta.ca/~chinook/authors/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fuego from sourceforge](http://fuego.sourceforge.net/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Markus Enzenberger](Markus_Enzenberger "Markus Enzenberger"), Martin Müller (**2009**). *Fuego - An Open-source Framework for Board Games and Go Engine Based on Monte-Carlo Tree Search*. Technical Report TR 09-08, [University of Alberta](University_of_Alberta "University of Alberta")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Martin Müller (**2009**). *Fuego at the Computer Olympiad in Pamplona 2009: A Tournament Report*. Technical Report TR 09-09, [University of Alberta](University_of_Alberta "University of Alberta")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Publications of Martin Müller's Research Group](https://webdocs.cs.ualberta.ca/%7Emmueller/publications.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Martin Müller 0003](https://dblp.uni-trier.de/pers/hd/m/M=uuml=ller_0003:Martin)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: A new(?) technique to recognize draws](https://www.stmintz.com/ccc/index.php?id=233322) by [Dan Andersson](index.php?title=Dan_Andersson&action=edit&redlink=1 "Dan Andersson (page does not exist)"), [CCC](CCC "CCC"), June 01, 2002
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [The SAT Game](http://www.cril.univ-artois.fr/~roussel/satgame/satgame.php?lang=eng)
 
 **[Up one level](People "People")**
 

@@ -61,7 +61,7 @@ N1g3 40.Kh2 Rb1 41.Bd1 Nf1+ 42.Kg1 N1e3 43.Kh2 0-1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Illustration](http://commons.wikimedia.org/wiki/File:EuplectesGierowiiAnsorgei.jpg) of [Euplectes gierowii ansorgei](http://animaldiversity.ummz.umich.edu/site/accounts/classification/Euplectes_gierowii_ansorgei.html) by [J. G. Keulemans](https://en.wikipedia.org/wiki/John_Gerrard_Keulemans) (1899), [Black Bishop from Wikipedia](https://en.wikipedia.org/wiki/Black_Bishop)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Illustration](http://commons.wikimedia.org/wiki/File:EuplectesGierowiiAnsorgei.jpg) of [Euplectes gierowii ansorgei](http://animaldiversity.ummz.umich.edu/site/accounts/classification/Euplectes_gierowii_ansorgei.html) by [J. G. Keulemans](https://en.wikipedia.org/wiki/John_Gerrard_Keulemans) (1899), [Black Bishop from Wikipedia](https://en.wikipedia.org/wiki/Black_Bishop)
 
 **[Up one Level](Engines "Engines")**
 

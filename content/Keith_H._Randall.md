@@ -41,12 +41,12 @@ After some years as research scientist at [Compaq's System Research Center](http
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Keith H. Randall from MIT](http://people.csail.mit.edu/randall/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Cilk Project](http://supertech.csail.mit.edu/cilk/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [8th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cd6ed) [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1995_WCCC/1995%20WCCC.062303014.sm.pdf) Courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: "Using de Bruijn Sequences to Index a 1 in a Computer Word"](https://www.stmintz.com/ccc/index.php?id=213492) by [Tim Mann](Tim_Mann "Tim Mann"), [CCC](CCC "CCC"), February 13, 2002
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Keith H. Randall](https://dblp.uni-trier.de/pers/hd/r/Randall:Keith_H=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Keith H. Randall from MIT](http://people.csail.mit.edu/randall/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Cilk Project](http://supertech.csail.mit.edu/cilk/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [8th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cd6ed) [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1995_WCCC/1995%20WCCC.062303014.sm.pdf) Courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: "Using de Bruijn Sequences to Index a 1 in a Computer Word"](https://www.stmintz.com/ccc/index.php?id=213492) by [Tim Mann](Tim_Mann "Tim Mann"), [CCC](CCC "CCC"), February 13, 2002
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Keith H. Randall](https://dblp.uni-trier.de/pers/hd/r/Randall:Keith_H=)
 
 **[Up one level](People "People")**
 

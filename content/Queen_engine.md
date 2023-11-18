@@ -54,10 +54,10 @@ Queen applies [principal variation search](Principal_Variation_Search "Principal
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Queen (playing card) from Wikipedia](https://en.wikipedia.org/wiki/Queen_%28playing_card%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Yet another (amateur) chess program](https://www.stmintz.com/ccc/index.php?id=106507) by [Leen Ammeraal](Leen_Ammeraal "Leen Ammeraal"), [CCC](CCC "CCC"), April 18, 2000
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [WinBoard version of Queen now downloadable](https://www.stmintz.com/ccc/index.php?id=149747) by [Leen Ammeraal](Leen_Ammeraal "Leen Ammeraal"), [CCC](CCC "CCC"), January 13, 2001
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Why not store both a lower and an upper bound in a hashtable?](https://www.stmintz.com/ccc/index.php?id=143435) by [Leen Ammeraal](Leen_Ammeraal "Leen Ammeraal"), [CCC](CCC "CCC"), December 07, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Queen (playing card) from Wikipedia](https://en.wikipedia.org/wiki/Queen_%28playing_card%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Yet another (amateur) chess program](https://www.stmintz.com/ccc/index.php?id=106507) by [Leen Ammeraal](Leen_Ammeraal "Leen Ammeraal"), [CCC](CCC "CCC"), April 18, 2000
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [WinBoard version of Queen now downloadable](https://www.stmintz.com/ccc/index.php?id=149747) by [Leen Ammeraal](Leen_Ammeraal "Leen Ammeraal"), [CCC](CCC "CCC"), January 13, 2001
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Why not store both a lower and an upper bound in a hashtable?](https://www.stmintz.com/ccc/index.php?id=143435) by [Leen Ammeraal](Leen_Ammeraal "Leen Ammeraal"), [CCC](CCC "CCC"), December 07, 2000
 
 **[Up one level](Engines "Engines")**
 

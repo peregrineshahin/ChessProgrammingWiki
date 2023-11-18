@@ -76,11 +76,11 @@ Along with La Dame Blanche, Marc-Philippe realized a [Book Builder](Opening_Book
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Illustration for the fifth chapter of [Lewis Carroll's](Category:Lewis_Carroll "Category:Lewis Carroll") [Through The Looking Glass](https://en.wikipedia.org/wiki/Through_the_Looking-Glass) (1865) by [John Tenniel](Category:John_Tenniel "Category:John Tenniel")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Big winboard Tournament at level 40/40 (504 games !!)](https://www.stmintz.com/ccc/index.php?id=36588) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), [CCC](CCC "CCC"), December 18, 1998
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [La Dame Blanche 2.0b released](https://www.stmintz.com/ccc/index.php?id=38780) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), [CCC](CCC "CCC"), January 08, 1999
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [La Dame Blanche](http://www.quarkchess.de/ladameblanche/) hosted by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Web site updated and new program Book Builder](https://www.stmintz.com/ccc/index.php?id=44407) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), [CCC](CCC "CCC"), February 24, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Illustration for the fifth chapter of [Lewis Carroll's](Category:Lewis_Carroll "Category:Lewis Carroll") [Through The Looking Glass](https://en.wikipedia.org/wiki/Through_the_Looking-Glass) (1865) by [John Tenniel](Category:John_Tenniel "Category:John Tenniel")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Big winboard Tournament at level 40/40 (504 games !!)](https://www.stmintz.com/ccc/index.php?id=36588) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), [CCC](CCC "CCC"), December 18, 1998
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [La Dame Blanche 2.0b released](https://www.stmintz.com/ccc/index.php?id=38780) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), [CCC](CCC "CCC"), January 08, 1999
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [La Dame Blanche](http://www.quarkchess.de/ladameblanche/) hosted by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Web site updated and new program Book Builder](https://www.stmintz.com/ccc/index.php?id=44407) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), [CCC](CCC "CCC"), February 24, 1999
 
 **[Up one level](Engines "Engines")**
 

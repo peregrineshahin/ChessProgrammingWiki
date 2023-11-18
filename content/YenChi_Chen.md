@@ -47,9 +47,9 @@ His research interests include [machine learning](Learning "Learning") and [comp
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yen-Chi Chen | LinkedIn](https://www.linkedin.com/in/yen-chi-chen-934b96147/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> ["Exact-Win Strategy for Overcoming AlphaZero" · Issue #799 · LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/issues/799) » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Yen-Chi Chen | National Taiwan Normal University, Taipei | NTNU | Department of Computer science & Information Engineering](https://www.researchgate.net/profile/Yen_Chi_Chen6)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yen-Chi Chen | LinkedIn](https://www.linkedin.com/in/yen-chi-chen-934b96147/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> ["Exact-Win Strategy for Overcoming AlphaZero" · Issue #799 · LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/issues/799) » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Yen-Chi Chen | National Taiwan Normal University, Taipei | NTNU | Department of Computer science & Information Engineering](https://www.researchgate.net/profile/Yen_Chi_Chen6)
 
 **[Up one level](People "People")**
 

@@ -160,12 +160,12 @@ Rf4 53.Ree3 Kh6 54.Rh3 g4 55.Rhe3 h4 56.a6 h3 57.Rg3 hxg2+ 58.Rxg2 Qa8 59.Qe3 Kg
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from former ZZZZZZ - Homepage of [Gijsbert Wiesenekker](Gijsbert_Wiesenekker "Gijsbert Wiesenekker")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Anyone know of a freeware chess game for Windows 95?](http://groups.google.com/group/rec.games.chinese-chess/msg/e6d5902ce22d6a43) by [Gijsbert Wiesenekker](Gijsbert_Wiesenekker "Gijsbert Wiesenekker"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 09, 1998
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ZZZZZZ 3.0 plays in Dutch Comp. Chess Champ. 1993](http://groups.google.com/group/rec.games.chess/browse_frm/thread/5f1c0623a1aba89b) by [Gijsbert Wiesenekker](Gijsbert_Wiesenekker "Gijsbert Wiesenekker"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), November 15, 1993
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Efficient quiescence](http://groups.google.com/group/rec.games.chess/msg/87fcddab7c4c8ad4) by [Gijsbert Wiesenekker](Gijsbert_Wiesenekker "Gijsbert Wiesenekker"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), January 22, 1994
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Evaluation Function Fuss](http://laatste.info/bb3/viewtopic.php?t=2839#p86071) by [Gijsbert Wiesenekker](Gijsbert_Wiesenekker "Gijsbert Wiesenekker"), [World Draughts Forum](http://laatste.info/bb3/index.php), February 20, 2011
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Zzzzzz takes Junior to school](http://www.talkchess.com/forum/viewtopic.php?t=17429) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CCC](CCC "CCC"), October 28, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from former ZZZZZZ - Homepage of [Gijsbert Wiesenekker](Gijsbert_Wiesenekker "Gijsbert Wiesenekker")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Anyone know of a freeware chess game for Windows 95?](http://groups.google.com/group/rec.games.chinese-chess/msg/e6d5902ce22d6a43) by [Gijsbert Wiesenekker](Gijsbert_Wiesenekker "Gijsbert Wiesenekker"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 09, 1998
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ZZZZZZ 3.0 plays in Dutch Comp. Chess Champ. 1993](http://groups.google.com/group/rec.games.chess/browse_frm/thread/5f1c0623a1aba89b) by [Gijsbert Wiesenekker](Gijsbert_Wiesenekker "Gijsbert Wiesenekker"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), November 15, 1993
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Efficient quiescence](http://groups.google.com/group/rec.games.chess/msg/87fcddab7c4c8ad4) by [Gijsbert Wiesenekker](Gijsbert_Wiesenekker "Gijsbert Wiesenekker"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), January 22, 1994
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Evaluation Function Fuss](http://laatste.info/bb3/viewtopic.php?t=2839#p86071) by [Gijsbert Wiesenekker](Gijsbert_Wiesenekker "Gijsbert Wiesenekker"), [World Draughts Forum](http://laatste.info/bb3/index.php), February 20, 2011
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Zzzzzz takes Junior to school](http://www.talkchess.com/forum/viewtopic.php?t=17429) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CCC](CCC "CCC"), October 28, 2007
 
 **[Up one Level](Engines "Engines")**
 

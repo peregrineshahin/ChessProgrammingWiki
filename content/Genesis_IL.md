@@ -66,9 +66,9 @@ Like its successor [Falcon](Falcon "Falcon"), Genesis was designed especially fo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The first chapter of Genesis](https://en.wikipedia.org/wiki/Bereishit_%28parsha%29#Genesis_chapter_1) written on an egg, [The Israel Museum](https://en.wikipedia.org/wiki/Israel_Museum), [Bereishit (parsha) from Wikipedia](https://en.wikipedia.org/wiki/Bereishit_%28parsha%29), [שיחת משתמש:Daniel Ventura/ תשס"ט ג'](http://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%97%D7%AA_%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Daniel_Ventura/_%D7%AA%D7%A9%D7%A1%22%D7%98_%D7%92%27)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Genesis 1.05 for academic research](https://www.stmintz.com/ccc/index.php?id=234324) by [Omid David](Eli_David "Eli David"), [CCC](CCC "CCC"), June 06, 2002
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Omid David](Eli_David "Eli David"), [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2002**). *Verified null-move pruning.* [ICGA Journal, Vol. 25 No. 3](ICGA_Journal#25_3 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The first chapter of Genesis](https://en.wikipedia.org/wiki/Bereishit_%28parsha%29#Genesis_chapter_1) written on an egg, [The Israel Museum](https://en.wikipedia.org/wiki/Israel_Museum), [Bereishit (parsha) from Wikipedia](https://en.wikipedia.org/wiki/Bereishit_%28parsha%29), [שיחת משתמש:Daniel Ventura/ תשס"ט ג'](http://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%97%D7%AA_%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Daniel_Ventura/_%D7%AA%D7%A9%D7%A1%22%D7%98_%D7%92%27)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Genesis 1.05 for academic research](https://www.stmintz.com/ccc/index.php?id=234324) by [Omid David](Eli_David "Eli David"), [CCC](CCC "CCC"), June 06, 2002
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Omid David](Eli_David "Eli David"), [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2002**). *Verified null-move pruning.* [ICGA Journal, Vol. 25 No. 3](ICGA_Journal#25_3 "ICGA Journal")
 
 **[Up one Level](Engines "Engines")**
 

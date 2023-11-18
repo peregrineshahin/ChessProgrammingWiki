@@ -44,12 +44,12 @@ This process eliminates many common problems that accompany a fixed depth search
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [UCC\_Jun\_1970.pdf](https://conservancy.umn.edu/bitstream/handle/11299/157360/UCC_Jun_1970.pdf?sequence=1&isAllowed=y)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CDC 6600: Defining Supercomputing - Wikipedia](https://en.wikipedia.org/wiki/Control_Data_Corporation#CDC_6600:_defining_supercomputing)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [James R. Slagle](James_R._Slagle "James R. Slagle"), [Philip Bursky](Philip_Bursky "Philip Bursky") (**1968**). *Experiments With a Multipurpose, Theorem-Proving Heuristic Program*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 15, No. 1
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ben Mittman](Ben_Mittman "Ben Mittman") (**1971**). *[Computer Chess Programs (Panel)](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d1ee8)*. hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ostrich effect from Wikipedia](https://en.wikipedia.org/wiki/Ostrich_effect)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: E. James Mundstock](https://dblp.org/pers/hd/m/Mundstock:E=_James)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [UCC\_Jun\_1970.pdf](https://conservancy.umn.edu/bitstream/handle/11299/157360/UCC_Jun_1970.pdf?sequence=1&isAllowed=y)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CDC 6600: Defining Supercomputing - Wikipedia](https://en.wikipedia.org/wiki/Control_Data_Corporation#CDC_6600:_defining_supercomputing)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [James R. Slagle](James_R._Slagle "James R. Slagle"), [Philip Bursky](Philip_Bursky "Philip Bursky") (**1968**). *Experiments With a Multipurpose, Theorem-Proving Heuristic Program*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 15, No. 1
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ben Mittman](Ben_Mittman "Ben Mittman") (**1971**). *[Computer Chess Programs (Panel)](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d1ee8)*. hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ostrich effect from Wikipedia](https://en.wikipedia.org/wiki/Ostrich_effect)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: E. James Mundstock](https://dblp.org/pers/hd/m/Mundstock:E=_James)
 
 **[Up one level](Engines "Engines")**
 

@@ -49,8 +49,8 @@ In [make move](Make_Move "Make Move") one has to consider that king-moves includ
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computerschach - Eine Wette, die ich gerne verloren habe](http://www.horst-wandersleben.de/Wette.htm) by [Horst Wandersleben](index.php?title=Horst_Wandersleben&action=edit&redlink=1 "Horst Wandersleben (page does not exist)") (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner") found a game finished in a [fifty-move rule](Fifty-move_Rule "Fifty-move Rule") draw, where [castling](Castling "Castling") occurred during the last fifty moves
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computerschach - Eine Wette, die ich gerne verloren habe](http://www.horst-wandersleben.de/Wette.htm) by [Horst Wandersleben](index.php?title=Horst_Wandersleben&action=edit&redlink=1 "Horst Wandersleben (page does not exist)") (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner") found a game finished in a [fifty-move rule](Fifty-move_Rule "Fifty-move Rule") draw, where [castling](Castling "Castling") occurred during the last fifty moves
 
 **[Up one Level](Chess_Position "Chess Position")**
 

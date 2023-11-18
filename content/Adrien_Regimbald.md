@@ -22,8 +22,8 @@ a Canadian computer engineer, chess player, organizer of chess tournaments throu
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Ivanchuk, Shirov, et al. win Canadian Open - Canadian Open Chess Championship, Edmonton 2005](http://en.chessbase.com/post/ivanchuk-shirov-et-al-win-canadian-open) by Adrien Regimbald, [ChessBase News](ChessBase "ChessBase"), July 23, 2005, as of 2018 no longer available
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Homepage of Faile](http://faile.sourceforge.net/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Ivanchuk, Shirov, et al. win Canadian Open - Canadian Open Chess Championship, Edmonton 2005](http://en.chessbase.com/post/ivanchuk-shirov-et-al-win-canadian-open) by Adrien Regimbald, [ChessBase News](ChessBase "ChessBase"), July 23, 2005, as of 2018 no longer available
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Homepage of Faile](http://faile.sourceforge.net/)
 
 **[Up one level](People "People")**
 

@@ -54,14 +54,14 @@ Heisman applies two [dichotomies](https://en.wikipedia.org/wiki/Dichotomy): *act
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dan Heisman - Home](https://www.danheisman.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dan Heisman from Wikipedia](https://en.wikipedia.org/wiki/Dan_Heisman)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chessville - Interviews - Dan Heisman - Part 1](http://web.archive.org/web/20070204023455/http://www.chessville.com/editorials/Interviews/Heisman_Part_1.htm), February 2003 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Dan Heisman (**1990, 1999, 2010**). *[Elements of Positional Evaluation](https://www.danheisman.com/elements-of-positional-evaluation.html)*. Russell Enterprises
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Robert Levinson](Robert_Levinson "Robert Levinson"), [Richard Snyder](Richard_Snyder "Richard Snyder") (**1993**). *DISTANCE: Toward the Unification of Chess Knowledge*. [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Elements of Positional Evaluation, 4th Edition (Heisman, 2010)](https://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id903.html) by [John L. Jerz](John_L._Jerz "John L. Jerz")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Wilhelm Steinitz](https://en.wikipedia.org/wiki/Wilhelm_Steinitz), [Ernst Zermelo](Ernst_Zermelo "Ernst Zermelo") and [Noam Elkies](Noam_Elkies "Noam Elkies")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dan Heisman - Home](https://www.danheisman.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dan Heisman from Wikipedia](https://en.wikipedia.org/wiki/Dan_Heisman)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chessville - Interviews - Dan Heisman - Part 1](http://web.archive.org/web/20070204023455/http://www.chessville.com/editorials/Interviews/Heisman_Part_1.htm), February 2003 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Dan Heisman (**1990, 1999, 2010**). *[Elements of Positional Evaluation](https://www.danheisman.com/elements-of-positional-evaluation.html)*. Russell Enterprises
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Robert Levinson](Robert_Levinson "Robert Levinson"), [Richard Snyder](Richard_Snyder "Richard Snyder") (**1993**). *DISTANCE: Toward the Unification of Chess Knowledge*. [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Elements of Positional Evaluation, 4th Edition (Heisman, 2010)](https://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id903.html) by [John L. Jerz](John_L._Jerz "John L. Jerz")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Wilhelm Steinitz](https://en.wikipedia.org/wiki/Wilhelm_Steinitz), [Ernst Zermelo](Ernst_Zermelo "Ernst Zermelo") and [Noam Elkies](Noam_Elkies "Noam Elkies")
 
 **[Up one level](People "People")**
 

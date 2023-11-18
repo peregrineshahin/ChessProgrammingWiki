@@ -17,7 +17,7 @@ an [Indian American](https://en.wikipedia.org/wiki/Indian_American) game designe
 
 ## [About the Designers](http://arimaa.com/arimaa/about/designers.html) [The Arimaa Public License](http://arimaa.com/arimaa/license/) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Arimaa from Wikipedia](https://en.wikipedia.org/wiki/Arimaa)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Arimaa from Wikipedia](https://en.wikipedia.org/wiki/Arimaa)
 
 **[Up one level](People "People")**
 

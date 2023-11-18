@@ -10,7 +10,7 @@ title: CategoryFiction
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Artwork done by [David Revoy](https://commons.wikimedia.org/wiki/User:Deevad) for the preproduction of the fourth open movie of the [Blender Foundation](https://en.wikipedia.org/wiki/Blender_Foundation) '[Tears of Steel](https://en.wikipedia.org/wiki/Tears_of_Steel)' (project Mango)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Artwork done by [David Revoy](https://commons.wikimedia.org/wiki/User:Deevad) for the preproduction of the fourth open movie of the [Blender Foundation](https://en.wikipedia.org/wiki/Blender_Foundation) '[Tears of Steel](https://en.wikipedia.org/wiki/Tears_of_Steel)' (project Mango)
 
 ## Subcategories
 

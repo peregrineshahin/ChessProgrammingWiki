@@ -81,12 +81,12 @@ SOS is an amateur program which was started in 1993 and has since then competed 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Silicon on sapphire from Wikipedia.de](http://de.wikipedia.org/wiki/Silicon_on_Sapphire)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New Winboard engine, SOS by Rudolf Huber, Germany !](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=30441) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), 27 October 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The new UCI / WB GUI Arena is available with UCI Arena SOS ..](https://www.stmintz.com/ccc/index.php?id=208295) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), January 18, 2002
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Arena Chess GUI 3.0 - Partner Chess Engines](https://web.archive.org/web/20120103164848/http://www.playwitharena.com/?Partner_Chess_Engines) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Arena Chess GUI 3.0 - SOS](https://web.archive.org/web/20120106001947/http://www.playwitharena.com/?Partner_Chess_Engines:SOS%26nbsp%3B) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [SOS' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=21)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Silicon on sapphire from Wikipedia.de](http://de.wikipedia.org/wiki/Silicon_on_Sapphire)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New Winboard engine, SOS by Rudolf Huber, Germany !](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=30441) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), 27 October 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The new UCI / WB GUI Arena is available with UCI Arena SOS ..](https://www.stmintz.com/ccc/index.php?id=208295) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), January 18, 2002
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Arena Chess GUI 3.0 - Partner Chess Engines](https://web.archive.org/web/20120103164848/http://www.playwitharena.com/?Partner_Chess_Engines) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Arena Chess GUI 3.0 - SOS](https://web.archive.org/web/20120106001947/http://www.playwitharena.com/?Partner_Chess_Engines:SOS%26nbsp%3B) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [SOS' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=21)
 
 **[Up one level](Engines "Engines")**
 

@@ -33,9 +33,9 @@ Martin further distributed his [shareware](https://en.wikipedia.org/wiki/Sharewa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gesellschaft bürgerlichen Rechts (Deutschland) GbR - Wikipedia.de](http://de.wikipedia.org/wiki/Gesellschaft_b%C3%BCrgerlichen_Rechts_%28Deutschland%29) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Home - EDV-Schorndorf](http://bauer-schweitzer.de/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bauer & Schweitzer - Webdesign, Software, Shareware, Freeware, EDV - Chessworks](http://web.archive.org/web/20080331031658if_/http://www.bauer-schweitzer.de:80/index.html?chesswks/index_chesswks.html) (German, [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 2008)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gesellschaft bürgerlichen Rechts (Deutschland) GbR - Wikipedia.de](http://de.wikipedia.org/wiki/Gesellschaft_b%C3%BCrgerlichen_Rechts_%28Deutschland%29) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Home - EDV-Schorndorf](http://bauer-schweitzer.de/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bauer & Schweitzer - Webdesign, Software, Shareware, Freeware, EDV - Chessworks](http://web.archive.org/web/20080331031658if_/http://www.bauer-schweitzer.de:80/index.html?chesswks/index_chesswks.html) (German, [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 2008)
 
 **[Up one level](People "People")**
 

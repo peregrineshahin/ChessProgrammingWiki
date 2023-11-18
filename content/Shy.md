@@ -84,14 +84,14 @@ Re3+ 59.Ka4 Re4 60.Rd7 h3 61.Rg7+ Kf3 62.Rc7 h2 63.Rf7+ Kg2 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Chess problem solving](https://www.stmintz.com/ccc/index.php?id=191935) by [Timo Saari](Timo_Saari "Timo Saari"), [CCC](CCC "CCC"), October 05, 2001
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Burroughs large systems from Wikipedia](https://en.wikipedia.org/wiki/Burroughs_large_systems)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Fourth World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6c8af8) (labeled 22nd ACM), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1983_WCCC/1983-%20WCCC.062303061.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_36_C.pdf) from [Danny Kopec](Danny_Kopec "Danny Kopec")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Byte Chess 0.5 finally available. From Byte Magazine 1978](http://groups.google.com/group/rec.games.chess.computer/msg/d6da2b3b0fbcb50e) by I Forget, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 02, 2005
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Update for Byte Chess 0.5](http://groups.google.com/group/comp.lang.pascal.misc/browse_frm/thread/13268077738fa33) by I Forget, [comp.lang.pascal.misc](http://groups.google.com/group/comp.lang.pascal.misc/topics), June 12, 2005
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Larry R. Atkin Magazine articles](http://www.devili.iki.fi/library/author/1442.en.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [New York 1983 - Chess - Round 2 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=65&round=2&id=5)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [New York 1983 - Chess - Round 5 - Game 11 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=65&round=5&id=11)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Chess problem solving](https://www.stmintz.com/ccc/index.php?id=191935) by [Timo Saari](Timo_Saari "Timo Saari"), [CCC](CCC "CCC"), October 05, 2001
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Burroughs large systems from Wikipedia](https://en.wikipedia.org/wiki/Burroughs_large_systems)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Fourth World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6c8af8) (labeled 22nd ACM), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1983_WCCC/1983-%20WCCC.062303061.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_36_C.pdf) from [Danny Kopec](Danny_Kopec "Danny Kopec")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Byte Chess 0.5 finally available. From Byte Magazine 1978](http://groups.google.com/group/rec.games.chess.computer/msg/d6da2b3b0fbcb50e) by I Forget, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 02, 2005
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Update for Byte Chess 0.5](http://groups.google.com/group/comp.lang.pascal.misc/browse_frm/thread/13268077738fa33) by I Forget, [comp.lang.pascal.misc](http://groups.google.com/group/comp.lang.pascal.misc/topics), June 12, 2005
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Larry R. Atkin Magazine articles](http://www.devili.iki.fi/library/author/1442.en.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [New York 1983 - Chess - Round 2 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=65&round=2&id=5)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [New York 1983 - Chess - Round 5 - Game 11 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=65&round=5&id=11)
 
 **[Up one Level](Engines "Engines")**
 

@@ -49,13 +49,13 @@ The thesis chess engine dubbed [Phoenix](Phoenix_(Rahul) "Phoenix (Rahul)") is b
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rahul Aralikatte - Google Scholar Citations](https://scholar.google.com/citations?user=UbcNXvQAAAAJ&hl=en)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  Rahul Aralikatte (**2014**). *Phoenix : A Self Learning Chess Engine*. for the Award of M. Tech in Information Technology, [International Institute of Information Technology, Bangalore](https://en.wikipedia.org/wiki/International_Institute_of_Information_Technology,_Bangalore), [Bangalore](https://en.wikipedia.org/wiki/Bangalore), advisor [G. Srinivasaraghavan](Gopalakrishnan_Srinivasaraghavan "Gopalakrishnan Srinivasaraghavan")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Stockfish Port for Java](http://rahular.com/stockfish-port-for-java/) by Rahul Aralikatte, February 02, 2014
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Rahul Aralikatte](https://dblp.org/pers/a/Aralikatte:Rahul.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: PHOENIX=CuckooChess with learning function in Falcon style](http://www.talkchess.com/forum/viewtopic.php?t=55476&start=4) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), March 20, 2016
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Deep Learning & Neural Networks: Using IBM DARVIZ as a Deep Learning IDE!](https://www.youtube.com/watch?v=mmRw_MuMPC4), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [DeepTriage](http://bugtriage.mybluemix.net/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rahul Aralikatte - Google Scholar Citations](https://scholar.google.com/citations?user=UbcNXvQAAAAJ&hl=en)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  Rahul Aralikatte (**2014**). *Phoenix : A Self Learning Chess Engine*. for the Award of M. Tech in Information Technology, [International Institute of Information Technology, Bangalore](https://en.wikipedia.org/wiki/International_Institute_of_Information_Technology,_Bangalore), [Bangalore](https://en.wikipedia.org/wiki/Bangalore), advisor [G. Srinivasaraghavan](Gopalakrishnan_Srinivasaraghavan "Gopalakrishnan Srinivasaraghavan")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Stockfish Port for Java](http://rahular.com/stockfish-port-for-java/) by Rahul Aralikatte, February 02, 2014
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Rahul Aralikatte](https://dblp.org/pers/a/Aralikatte:Rahul.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: PHOENIX=CuckooChess with learning function in Falcon style](http://www.talkchess.com/forum/viewtopic.php?t=55476&start=4) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), March 20, 2016
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Deep Learning & Neural Networks: Using IBM DARVIZ as a Deep Learning IDE!](https://www.youtube.com/watch?v=mmRw_MuMPC4), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [DeepTriage](http://bugtriage.mybluemix.net/)
 
 **[Up one level](People "People")**
 

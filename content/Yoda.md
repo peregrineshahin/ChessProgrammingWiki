@@ -48,10 +48,10 @@ Yoda 1.30 and Yoda 2.09 (bug-fixed) are available from [Ron Murawski's](Ron_Mura
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Master [Yoda](https://en.wikipedia.org/wiki/Yoda) [origami](https://en.wikipedia.org/wiki/Origami), by [Ciro Duran](https://www.flickr.com/people/25076052@N00), [Caracas](https://en.wikipedia.org/wiki/Caracas), [Venezuela](https://en.wikipedia.org/wiki/Venezuela), May 14, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [My new engine : Yoda](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=49232) by [Daniel Anulliero](Daniel_Anulliero "Daniel Anulliero"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 02, 2008
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Anulliero Daniel](http://www.blitzchess.fr/fr/common/info/les-programmeurs/anulliero-daniel.html) from [blitzchess.fr](http://www.blitzchess.fr/) (French)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computer Chess Wiki - Engine Download List](http://computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list) hosted by [Ron Murawski](Ron_Murawski "Ron Murawski")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Master [Yoda](https://en.wikipedia.org/wiki/Yoda) [origami](https://en.wikipedia.org/wiki/Origami), by [Ciro Duran](https://www.flickr.com/people/25076052@N00), [Caracas](https://en.wikipedia.org/wiki/Caracas), [Venezuela](https://en.wikipedia.org/wiki/Venezuela), May 14, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [My new engine : Yoda](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=49232) by [Daniel Anulliero](Daniel_Anulliero "Daniel Anulliero"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 02, 2008
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Anulliero Daniel](http://www.blitzchess.fr/fr/common/info/les-programmeurs/anulliero-daniel.html) from [blitzchess.fr](http://www.blitzchess.fr/) (French)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computer Chess Wiki - Engine Download List](http://computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list) hosted by [Ron Murawski](Ron_Murawski "Ron Murawski")
 
 **[Up one level](Engines "Engines")**
 

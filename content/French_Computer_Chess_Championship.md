@@ -52,7 +52,7 @@ title: French Computer Chess Championship
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: French Computer Chess Championship results](https://www.stmintz.com/ccc/index.php?id=72753) by [Pascal Coupet](index.php?title=Pascal_Coupet&action=edit&redlink=1 "Pascal Coupet (page does not exist)"), [CCC](CCC "CCC"), October 11, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: French Computer Chess Championship results](https://www.stmintz.com/ccc/index.php?id=72753) by [Pascal Coupet](index.php?title=Pascal_Coupet&action=edit&redlink=1 "Pascal Coupet (page does not exist)"), [CCC](CCC "CCC"), October 11, 1999
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

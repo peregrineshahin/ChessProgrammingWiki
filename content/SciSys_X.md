@@ -26,8 +26,8 @@ an experimental, not yet commercially available [dedicated chess computer](Dedic
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SciSys' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=470)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Travemünde 1981 - Chess - Round 7 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=67&round=7&id=2)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SciSys' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=470)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Travemünde 1981 - Chess - Round 7 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=67&round=7&id=2)
 
 **[Up one level](Engines "Engines")**
 

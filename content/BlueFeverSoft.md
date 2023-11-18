@@ -23,9 +23,9 @@ His didactic C engine as developed in his video is called [Vice](Vice "Vice") (V
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BlueFeverSoft - About](https://www.youtube.com/user/BlueFeverSoft/about)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Vice ReadMe File](http://bluefever.net/Downloads/ViceReadMe.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) - [YouTube](https://en.wikipedia.org/wiki/YouTube) Videos by BlueFeverSoft
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BlueFeverSoft - About](https://www.youtube.com/user/BlueFeverSoft/about)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Vice ReadMe File](http://bluefever.net/Downloads/ViceReadMe.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) - [YouTube](https://en.wikipedia.org/wiki/YouTube) Videos by BlueFeverSoft
 
 **[Up one level](People "People")**
 

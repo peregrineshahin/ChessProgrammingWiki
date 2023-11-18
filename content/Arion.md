@@ -68,8 +68,8 @@ Arion had its over the board debut at the [Seventh French Programmers Tournament
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [François Boucher](Category:Fran%C3%A7ois_Boucher "Category:François Boucher") - [Arion on a Dolphin](https://commons.wikimedia.org/wiki/File:Boucher,_Fran%C3%A7ois,_Arion_on_the_Dolphin,_1748.jpg), 1748, [Princeton University Art Museum](https://en.wikipedia.org/wiki/Princeton_University_Art_Museum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> based on [Arion chess program](https://web.archive.org/web/20160320182635/http://transversale.fr/Arion/Arion.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)), slightly edited
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [François Boucher](Category:Fran%C3%A7ois_Boucher "Category:François Boucher") - [Arion on a Dolphin](https://commons.wikimedia.org/wiki/File:Boucher,_Fran%C3%A7ois,_Arion_on_the_Dolphin,_1748.jpg), 1748, [Princeton University Art Museum](https://en.wikipedia.org/wiki/Princeton_University_Art_Museum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> based on [Arion chess program](https://web.archive.org/web/20160320182635/http://transversale.fr/Arion/Arion.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)), slightly edited
 
 **[Up one level](Engines "Engines")**
 

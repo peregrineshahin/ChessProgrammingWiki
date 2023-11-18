@@ -24,12 +24,12 @@ Andrew Kadatch collaborated with his fellow [Eugene Nalimov](Eugene_Nalimov "Eug
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Capture from the [Google I/O 2013 Video](#video)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Andrew Kadatch - LinkedIn](https://www.linkedin.com/in/andrew-kadatch-06674b3/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Andrew Kadatch | Google Inc., Mountain View | Google | Engineering Department](https://www.researchgate.net/profile/Andrew-Kadatch)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - cloudera/crcutil](https://github.com/cloudera/crcutil)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Cyclic redundancy check from Wikipedia](https://en.wikipedia.org/wiki/Cyclic_redundancy_check)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Mathematics of CRC from Wikipedia](https://en.wikipedia.org/wiki/Mathematics_of_cyclic_redundancy_checks)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Capture from the [Google I/O 2013 Video](#video)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Andrew Kadatch - LinkedIn](https://www.linkedin.com/in/andrew-kadatch-06674b3/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Andrew Kadatch | Google Inc., Mountain View | Google | Engineering Department](https://www.researchgate.net/profile/Andrew-Kadatch)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - cloudera/crcutil](https://github.com/cloudera/crcutil)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Cyclic redundancy check from Wikipedia](https://en.wikipedia.org/wiki/Cyclic_redundancy_check)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mathematics of CRC from Wikipedia](https://en.wikipedia.org/wiki/Mathematics_of_cyclic_redundancy_checks)
 
 **[Up one level](People "People")**
 

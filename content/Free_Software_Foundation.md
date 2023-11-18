@@ -81,9 +81,9 @@ The [GNU General Public License (GPL)](https://en.wikipedia.org/wiki/GNU_General
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Free Software Foundation from Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GNU Project from Wikipedia](https://en.wikipedia.org/wiki/GNU_Project)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GNU from Wikipedidia](https://en.wikipedia.org/wiki/GNU)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Free Software Foundation from Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GNU Project from Wikipedia](https://en.wikipedia.org/wiki/GNU_Project)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GNU from Wikipedidia](https://en.wikipedia.org/wiki/GNU)
 
 **[Up one level](Organizations "Organizations")**
 

@@ -50,12 +50,12 @@ The stable version 3.1 was released on May 30, 2017 <a id="cite-note-6" href="#c
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Sea-Wolf | Jack London | Lit2Go ETC](https://etc.usf.edu/lit2go/153/the-sea-wolf/), Copyright © 2006—2019 by the [Florida Center for Instructional Technology](https://fcit.usf.edu/), [College of Education](https://www.usf.edu/education/), [University of South Florida](https://en.wikipedia.org/wiki/University_of_South_Florida)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [crafty vs ghost on ICC ...could Kasparov himself execute such an attack?](https://www.stmintz.com/ccc/index.php?id=194607) by Jeffrey Wadsworth, [CCC](CCC "CCC"), October 28, 2001
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ghost 2.0.1 in CCRL 40/40](http://www.computerchess.org.uk/ccrl/4040/cgi/engine_details.cgi?print=Details&each_game=1&eng=Ghost%202.0.1#Ghost_2_0_1)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ghost | Search algorithms: Ghost 1](http://www.ghostchess.de/) by [Philipp Claßen](Philipp_Cla%C3%9Fen "Philipp Claßen")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ghost | Search algorithms: Ghost 2](http://www.ghostchess.de/) by [Philipp Claßen](Philipp_Cla%C3%9Fen "Philipp Claßen")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Ghost 3.1 released!](http://www.talkchess.com/forum/viewtopic.php?t=64143) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), June 01, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Sea-Wolf | Jack London | Lit2Go ETC](https://etc.usf.edu/lit2go/153/the-sea-wolf/), Copyright © 2006—2019 by the [Florida Center for Instructional Technology](https://fcit.usf.edu/), [College of Education](https://www.usf.edu/education/), [University of South Florida](https://en.wikipedia.org/wiki/University_of_South_Florida)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [crafty vs ghost on ICC ...could Kasparov himself execute such an attack?](https://www.stmintz.com/ccc/index.php?id=194607) by Jeffrey Wadsworth, [CCC](CCC "CCC"), October 28, 2001
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ghost 2.0.1 in CCRL 40/40](http://www.computerchess.org.uk/ccrl/4040/cgi/engine_details.cgi?print=Details&each_game=1&eng=Ghost%202.0.1#Ghost_2_0_1)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ghost | Search algorithms: Ghost 1](http://www.ghostchess.de/) by [Philipp Claßen](Philipp_Cla%C3%9Fen "Philipp Claßen")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ghost | Search algorithms: Ghost 2](http://www.ghostchess.de/) by [Philipp Claßen](Philipp_Cla%C3%9Fen "Philipp Claßen")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Ghost 3.1 released!](http://www.talkchess.com/forum/viewtopic.php?t=64143) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), June 01, 2017
 
 **[Up one Level](Engines "Engines")**
 

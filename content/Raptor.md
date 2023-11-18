@@ -42,10 +42,10 @@ Frédéric Louguet explicitly stated that Raptor is definitely **not** [Chess Wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Deinonychus antirrhopus](https://en.wikipedia.org/wiki/Deinonychus) skeleton, [Philadelphia Academy of Natural Sciences](https://en.wikipedia.org/wiki/Academy_of_Natural_Sciences_of_Drexel_University), by Bearerofthecup, July 04, 2008
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Massy, a correction : Raptor is NOT Chess Wizard](https://www.stmintz.com/ccc/index.php?id=301078) by [Frédéric Louguet](Fr%C3%A9d%C3%A9ric_Louguet "Frédéric Louguet"), [CCC](CCC "CCC"), June 16, 2003
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> from Photo 7 by [Christian Barreteau](Christian_Barreteau "Christian Barreteau"), from [Massy 2003/06/15 - Tournoi de programmes d'Echecs](http://www.ludochess.com/trn_massy2003/tournoi.php3)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Massy 2003/06/15 - Tournoi de programmes d'Echecs - Parties en pgn](http://www.ludochess.com/trn_massy2003/tournoi.php3)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Deinonychus antirrhopus](https://en.wikipedia.org/wiki/Deinonychus) skeleton, [Philadelphia Academy of Natural Sciences](https://en.wikipedia.org/wiki/Academy_of_Natural_Sciences_of_Drexel_University), by Bearerofthecup, July 04, 2008
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Massy, a correction : Raptor is NOT Chess Wizard](https://www.stmintz.com/ccc/index.php?id=301078) by [Frédéric Louguet](Fr%C3%A9d%C3%A9ric_Louguet "Frédéric Louguet"), [CCC](CCC "CCC"), June 16, 2003
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> from Photo 7 by [Christian Barreteau](Christian_Barreteau "Christian Barreteau"), from [Massy 2003/06/15 - Tournoi de programmes d'Echecs](http://www.ludochess.com/trn_massy2003/tournoi.php3)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Massy 2003/06/15 - Tournoi de programmes d'Echecs - Parties en pgn](http://www.ludochess.com/trn_massy2003/tournoi.php3)
 
 **[Up one Level](Engines "Engines")**
 

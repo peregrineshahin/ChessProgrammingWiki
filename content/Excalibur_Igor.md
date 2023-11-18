@@ -62,12 +62,12 @@ but was of course a weaker program than the original 8-bit Igor <a id="cite-note
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [10.Exotic | Page 2 | Flickr](https://www.flickr.com/photos/10261668@N05/albums/72157600922174174/page2/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591&start=8) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2016
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [KS57C2308 PDF Datasheet - Samsung Semiconductor Division - Datasheets360.com](https://www.datasheets360.com/pdf/2733143681578461097)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591&start=8) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2016
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=102) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 23, 2015
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Excalibur Igor](https://www.schach-computer.info/wiki/index.php/Excalibur_Igor) - [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php?title=Hauptseite_En) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [10.Exotic | Page 2 | Flickr](https://www.flickr.com/photos/10261668@N05/albums/72157600922174174/page2/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591&start=8) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2016
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [KS57C2308 PDF Datasheet - Samsung Semiconductor Division - Datasheets360.com](https://www.datasheets360.com/pdf/2733143681578461097)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591&start=8) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2016
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=102) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 23, 2015
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Excalibur Igor](https://www.schach-computer.info/wiki/index.php/Excalibur_Igor) - [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php?title=Hauptseite_En) (German)
 
 **[Up one level](Engines "Engines")**
 

@@ -36,11 +36,11 @@ the pilot who [successfully landed an airplane](https://en.wikipedia.org/wiki/US
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Matt Gingell | LinkedIn](https://www.linkedin.com/in/matt-gingell-8bb38b88/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Seattle/Kirkland - Google Careers](https://careers.google.com/locations/seattle-kirkland/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - google/asylo: An open and flexible framework for developing enclave applications](https://github.com/google/asylo)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Matt Gingell | LinkedIn](https://www.linkedin.com/in/matt-gingell-8bb38b88/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [chesley/README.md at master · matthewgingell/chesley · GitHub](https://github.com/matthewgingell/chesley/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Matt Gingell | LinkedIn](https://www.linkedin.com/in/matt-gingell-8bb38b88/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Seattle/Kirkland - Google Careers](https://careers.google.com/locations/seattle-kirkland/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - google/asylo: An open and flexible framework for developing enclave applications](https://github.com/google/asylo)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Matt Gingell | LinkedIn](https://www.linkedin.com/in/matt-gingell-8bb38b88/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [chesley/README.md at master · matthewgingell/chesley · GitHub](https://github.com/matthewgingell/chesley/blob/master/README.md)
 
 **[Up one level](People "People")**
 

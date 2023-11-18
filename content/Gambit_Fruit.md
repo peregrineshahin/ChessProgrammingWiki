@@ -59,12 +59,12 @@ Thank you to [Fabian](Fabien_Letouzey "Fabien Letouzey") for [Fruit 2.1](Fruit "
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Minoan](https://en.wikipedia.org/wiki/Minoan_civilization) Ceramic from [Phaistos](https://en.wikipedia.org/wiki/Phaistos), [Heraklion Archaeological Museum](https://en.wikipedia.org/wiki/Heraklion_Archaeological_Museum)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Fruchtbarkeitsschale für die Opferung von Früchten aus Phaistos zu sehen im Archäologischen Museum in Herakleion, [Minoische Religion from Wikipedia.de](http://de.wikipedia.org/wiki/Minoische_Religion) (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Gambit Fruit ?](https://www.stmintz.com/ccc/index.php?id=461801) by [Ryan B.](Ryan_Benitez "Ryan Benitez"), [CCC](CCC "CCC"), November 15, 2005
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Has anyone tested Gambit Fruit with Rebel Reductions on?](https://www.stmintz.com/ccc/index.php?id=461958) by [Ryan B.](Ryan_Benitez "Ryan Benitez"), [CCC](CCC "CCC"), November 15, 2005
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Programmer Corner - How Rebel Plays Chess - Reductions](http://www.top-5000.nl/authors/rebel/chess840.htm#REDUCTIONS) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [pdf reprint](http://members.home.nl/matador/Inside%20Rebel.pdf)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gambit fruit](http://www.superchessengine.com/gambit_fruit.htm), gfruit4b.zip - readme.txt
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Minoan](https://en.wikipedia.org/wiki/Minoan_civilization) Ceramic from [Phaistos](https://en.wikipedia.org/wiki/Phaistos), [Heraklion Archaeological Museum](https://en.wikipedia.org/wiki/Heraklion_Archaeological_Museum)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Fruchtbarkeitsschale für die Opferung von Früchten aus Phaistos zu sehen im Archäologischen Museum in Herakleion, [Minoische Religion from Wikipedia.de](http://de.wikipedia.org/wiki/Minoische_Religion) (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Gambit Fruit ?](https://www.stmintz.com/ccc/index.php?id=461801) by [Ryan B.](Ryan_Benitez "Ryan Benitez"), [CCC](CCC "CCC"), November 15, 2005
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Has anyone tested Gambit Fruit with Rebel Reductions on?](https://www.stmintz.com/ccc/index.php?id=461958) by [Ryan B.](Ryan_Benitez "Ryan Benitez"), [CCC](CCC "CCC"), November 15, 2005
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Programmer Corner - How Rebel Plays Chess - Reductions](http://www.top-5000.nl/authors/rebel/chess840.htm#REDUCTIONS) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [pdf reprint](http://members.home.nl/matador/Inside%20Rebel.pdf)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gambit fruit](http://www.superchessengine.com/gambit_fruit.htm), gfruit4b.zip - readme.txt
 
 **[Up one Level](Toga "Toga")**
 

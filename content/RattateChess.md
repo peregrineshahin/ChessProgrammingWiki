@@ -82,9 +82,9 @@ The [evaluation](Evaluation "Evaluation") considers [material](Material "Materia
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image by Joergsam, September 2011, [Filmpark Babelsberg](https://en.wikipedia.org/wiki/Babelsberg_Studio), [Nosferatu – Eine Symphonie des Grauens - Wikipedia.de](https://de.wikipedia.org/wiki/Nosferatu_%E2%80%93_Eine_Symphonie_des_Grauens), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New Chess Engine ?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=39916&p=152540) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 13, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [RattatAjedrez](https://sites.google.com/site/rattatajedrez/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image by Joergsam, September 2011, [Filmpark Babelsberg](https://en.wikipedia.org/wiki/Babelsberg_Studio), [Nosferatu – Eine Symphonie des Grauens - Wikipedia.de](https://de.wikipedia.org/wiki/Nosferatu_%E2%80%93_Eine_Symphonie_des_Grauens), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New Chess Engine ?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=39916&p=152540) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 13, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [RattatAjedrez](https://sites.google.com/site/rattatajedrez/)
 
 **[Up one level](Engines "Engines")**
 

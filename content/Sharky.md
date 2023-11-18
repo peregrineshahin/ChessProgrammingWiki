@@ -40,7 +40,7 @@ Sharky used a [best-first](Best-First "Best-First") search, keeping the search t
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Poor Sharky without a single W or even D](https://www.stmintz.com/ccc/index.php?id=239869) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Poor Sharky without a single W or even D](https://www.stmintz.com/ccc/index.php?id=239869) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2002
 
 **[Up one level](Engines "Engines")**
 

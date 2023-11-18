@@ -127,12 +127,12 @@ Kg7 30.Rbd1 Qb2 31.Rb1 Qa2 32.a4 Rc6 33.Bg5 Rc3 34.Be3 Rd3 35.Bb6 h6 36.a5 Rxb3
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Novag Super Constellation](http://www.schach-computer.info/wiki/index.php/Novag_Super_Constellation) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PSH](http://www.schach-computer.info/wiki/index.php/PSH) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Kittinger](David_Kittinger "David Kittinger"), [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports"), pp. 15-33
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Interview with Peter Auge](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1985,%20Interview%20mit%20Peter%20Auge,%20Ich%20bin%20ja%20nur%20der%20Chef.pdf) (pdf), Erwerbsquelle: 10-1985, Zeitschrift Schachcomputer (Herausgeber Florian Piel) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Budapest 1983 - Chess - Round 4 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=4&id=4)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Budapest 1983 - Chess - Round 6 - Game 9 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=6&id=9)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Novag Super Constellation](http://www.schach-computer.info/wiki/index.php/Novag_Super_Constellation) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PSH](http://www.schach-computer.info/wiki/index.php/PSH) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Kittinger](David_Kittinger "David Kittinger"), [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports"), pp. 15-33
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Interview with Peter Auge](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1985,%20Interview%20mit%20Peter%20Auge,%20Ich%20bin%20ja%20nur%20der%20Chef.pdf) (pdf), Erwerbsquelle: 10-1985, Zeitschrift Schachcomputer (Herausgeber Florian Piel) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Budapest 1983 - Chess - Round 4 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=4&id=4)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Budapest 1983 - Chess - Round 6 - Game 9 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=6&id=9)
 
 **[Up one level](Engines "Engines")**
 

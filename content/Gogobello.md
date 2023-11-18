@@ -117,9 +117,9 @@ Qb5+ 0-1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gogo Dancer](https://en.wikipedia.org/wiki/Go-go_dancing) [Cherry Lei](https://instagram.com/gogocherrylei/) dancing at The Fix in [Honolulu](https://en.wikipedia.org/wiki/Honolulu), [Hawaii](https://en.wikipedia.org/wiki/Hawaii) on June 27, 2014, [Photo](https://commons.wikimedia.org/wiki/File:Gogo_Dancer_Cherry_Lei.jpg) by [Peter Chiapperino](https://commons.wikimedia.org/wiki/User:Peterchiapperino), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> based on features mentioned gogobello_11_x64.zip/readme.txt, October 2015, [IGT 2015](IGT_2015 "IGT 2015") and [Homepage - gogobello](http://sasachess.altervista.org/gogobello/index.html), Version History
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [International Gsei Tournament 2015 « G 6](http://www.g-sei.org/international-gsei-tournament-2015/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gogo Dancer](https://en.wikipedia.org/wiki/Go-go_dancing) [Cherry Lei](https://instagram.com/gogocherrylei/) dancing at The Fix in [Honolulu](https://en.wikipedia.org/wiki/Honolulu), [Hawaii](https://en.wikipedia.org/wiki/Hawaii) on June 27, 2014, [Photo](https://commons.wikimedia.org/wiki/File:Gogo_Dancer_Cherry_Lei.jpg) by [Peter Chiapperino](https://commons.wikimedia.org/wiki/User:Peterchiapperino), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> based on features mentioned gogobello_11_x64.zip/readme.txt, October 2015, [IGT 2015](IGT_2015 "IGT 2015") and [Homepage - gogobello](http://sasachess.altervista.org/gogobello/index.html), Version History
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [International Gsei Tournament 2015 « G 6](http://www.g-sei.org/international-gsei-tournament-2015/)
 
 **[Up one Level](Engines "Engines")**
 

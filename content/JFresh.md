@@ -35,10 +35,10 @@ In 2016, JFresh was superseded by [Spartan](Spartan "Spartan") <a id="cite-note-
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [JFresh (UCI) - new chess engine with Mac OS X64 built](http://www.talkchess.com/forum/viewtopic.php?t=51757) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), March 27, 2014
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New UCI engine: Spartan](http://www.open-chess.org/viewtopic.php?f=7&t=2973) by [CDaley11](Christian_Daley "Christian Daley"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 23, 2016
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - christiandaley/Spartan: UCI chess engine](https://github.com/christiandaley/Spartan)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [JFresh/README.md at master · christiandaley/JFresh · GitHub - Current Features](https://github.com/christiandaley/JFresh/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [JFresh (UCI) - new chess engine with Mac OS X64 built](http://www.talkchess.com/forum/viewtopic.php?t=51757) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), March 27, 2014
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New UCI engine: Spartan](http://www.open-chess.org/viewtopic.php?f=7&t=2973) by [CDaley11](Christian_Daley "Christian Daley"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 23, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - christiandaley/Spartan: UCI chess engine](https://github.com/christiandaley/Spartan)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [JFresh/README.md at master · christiandaley/JFresh · GitHub - Current Features](https://github.com/christiandaley/JFresh/blob/master/README.md)
 
 **[Up one Level](Engines "Engines")**
 

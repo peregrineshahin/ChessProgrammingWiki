@@ -147,18 +147,18 @@ Kb6 64.Rb7+ Kc5 65.c7 Bxc7 66.Rxc7+ Kb4 67.cxb5 Kxb5 68.Rf7 Kc5 69.Rxf6 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Spike](https://en.wikipedia.org/wiki/Spike_%28Buffy_the_Vampire_Slayer%29) fights alongside [Buffy](https://en.wikipedia.org/wiki/Buffy_Summers) against the demon hordes, [Spike - Buffyverse Wiki](https://buffy.fandom.com/wiki/Spike), [FANDOM powered by Wikia](https://en.wikipedia.org/wiki/Wikia)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spike | Background](http://spike.lazypics.de/bg_index_en.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Spike | Background | Programming Stuff](http://spike.lazypics.de/bg_index_en.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Description largely based on the information provided by the authors: [Spike | Background | Programming Stuff](http://spike.lazypics.de/bg_index_en.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Spike 1.4 is available](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=37915) by [Ralf Schäfer](Ralf_Sch%C3%A4fer "Ralf Schäfer"), [CCC](CCC "CCC"), February 01, 2011
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Spike - Mainz 2005 Report](http://www.spikechess.de/mainz2005.html) (German)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [14th World Computer Chess Championship (Blitz) - Turin 2006](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=17)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [30th ODCCC Final Results - Images](http://www.csvn.nl/index.php?option=com_content&view=article&id=487%3A30th-odccc-final-results&catid=51%3Atoernooien&Itemid=28&lang=en)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Paderborn: Spike vs Rybka (1-0) PGN](https://www.stmintz.com/ccc/index.php?id=474125) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), December 27, 2005
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Spike-Rybka](https://www.stmintz.com/ccc/index.php?id=474330) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), [CCC](CCC "CCC"), December 28, 2005
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> Part 1 covers [Houdini](Houdini "Houdini"), [Rybka](Rybka "Rybka"), [Komodo](Komodo "Komodo"), [Stockfish](Stockfish "Stockfish"), [Critter](Critter "Critter"), [Naum](Naum "Naum"), [Chiron](Chiron "Chiron") and Spike
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Spike](https://en.wikipedia.org/wiki/Spike_%28Buffy_the_Vampire_Slayer%29) fights alongside [Buffy](https://en.wikipedia.org/wiki/Buffy_Summers) against the demon hordes, [Spike - Buffyverse Wiki](https://buffy.fandom.com/wiki/Spike), [FANDOM powered by Wikia](https://en.wikipedia.org/wiki/Wikia)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spike | Background](http://spike.lazypics.de/bg_index_en.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Spike | Background | Programming Stuff](http://spike.lazypics.de/bg_index_en.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Description largely based on the information provided by the authors: [Spike | Background | Programming Stuff](http://spike.lazypics.de/bg_index_en.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Spike 1.4 is available](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=37915) by [Ralf Schäfer](Ralf_Sch%C3%A4fer "Ralf Schäfer"), [CCC](CCC "CCC"), February 01, 2011
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Spike - Mainz 2005 Report](http://www.spikechess.de/mainz2005.html) (German)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [14th World Computer Chess Championship (Blitz) - Turin 2006](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=17)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [30th ODCCC Final Results - Images](http://www.csvn.nl/index.php?option=com_content&view=article&id=487%3A30th-odccc-final-results&catid=51%3Atoernooien&Itemid=28&lang=en)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Paderborn: Spike vs Rybka (1-0) PGN](https://www.stmintz.com/ccc/index.php?id=474125) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), December 27, 2005
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Spike-Rybka](https://www.stmintz.com/ccc/index.php?id=474330) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), [CCC](CCC "CCC"), December 28, 2005
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> Part 1 covers [Houdini](Houdini "Houdini"), [Rybka](Rybka "Rybka"), [Komodo](Komodo "Komodo"), [Stockfish](Stockfish "Stockfish"), [Critter](Critter "Critter"), [Naum](Naum "Naum"), [Chiron](Chiron "Chiron") and Spike
 
 **[Up one Level](Engines "Engines")**
 

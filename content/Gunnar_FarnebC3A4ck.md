@@ -52,14 +52,14 @@ and wrote the legal counting program in [Pike](https://en.wikipedia.org/wiki/Pik
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gunnar Farnebäck at LMI](https://lmi.med.harvard.edu/people/gunnar-farneb%C3%A4ck)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Gunnar Farnebäck (**2002**). *Polynomial Expansion for Orientation and Motion Estimation*. Ph.D. thesis, [Linköping University](https://en.wikipedia.org/wiki/Link%C3%B6ping_University), [pdf](https://www.diva-portal.org/smash/get/diva2:302485/FULLTEXT01.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GNU Go - GNU Project - Free Software Foundation (FSF)](https://www.gnu.org/software/gnugo/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Details of Program: MonteGNU](http://www.computer-go.info/db/oprog.php?a=MonteGNU) from [computer-go.info](http://www.computer-go.info/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Counting Legal Positions in Go](https://tromp.github.io/go/legal.html) by [John Tromp](John_Tromp "John Tromp")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [A094777](https://oeis.org/A094777) in the [On-Line Encyclopedia of Integer Sequences](https://oeis.org/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [legal.pike - Count the number of legal go boards](https://www.lysator.liu.se/~gunnar/legal.pike.txt)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Gunnar Farnebäck](https://dblp.org/pid/f/GunnarFarneback.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gunnar Farnebäck at LMI](https://lmi.med.harvard.edu/people/gunnar-farneb%C3%A4ck)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Gunnar Farnebäck (**2002**). *Polynomial Expansion for Orientation and Motion Estimation*. Ph.D. thesis, [Linköping University](https://en.wikipedia.org/wiki/Link%C3%B6ping_University), [pdf](https://www.diva-portal.org/smash/get/diva2:302485/FULLTEXT01.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GNU Go - GNU Project - Free Software Foundation (FSF)](https://www.gnu.org/software/gnugo/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Details of Program: MonteGNU](http://www.computer-go.info/db/oprog.php?a=MonteGNU) from [computer-go.info](http://www.computer-go.info/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Counting Legal Positions in Go](https://tromp.github.io/go/legal.html) by [John Tromp](John_Tromp "John Tromp")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [A094777](https://oeis.org/A094777) in the [On-Line Encyclopedia of Integer Sequences](https://oeis.org/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [legal.pike - Count the number of legal go boards](https://www.lysator.liu.se/~gunnar/legal.pike.txt)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Gunnar Farnebäck](https://dblp.org/pid/f/GunnarFarneback.html)
 
 **[Up one level](People "People")**
 

@@ -99,22 +99,22 @@ Ewn Computer bots usually apply some sort of [Monte-Carlo tree search](Monte-Car
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [On the Origins of "EinStein würfelt nicht!"](http://www.althofer.de/origins-of-ewn.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [EinStein würfelt nicht! - Wikipedia](https://en.wikipedia.org/wiki/EinStein_w%C3%BCrfelt_nicht!)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Pictures of the IPCCC 2005](https://www.stmintz.com/ccc/index.php?id=414534) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [CCC](CCC "CCC"), February 27, 2005
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Paderborner Bilderbogen](http://www.computerschach.de/index.php?option=content&task=view&id=119&Itemid=109), [Computerschach und Spiele Online](Computerschach_und_Spiele "Computerschach und Spiele")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Rules of "EinStein wuerfelt nicht"](https://www.stmintz.com/ccc/index.php?id=415431) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CCC](CCC "CCC"), March 05, 2005
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Copenhagen interpretation - Criticism | Wikipedia](https://en.wikipedia.org/wiki/Copenhagen_interpretation#Criticism)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Albert Einstein - Wikiquote](http://en.wikiquote.org/wiki/Albert_Einstein)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Quantum mechanics is very worthy of regard. But an inner voice..](http://izquotes.com/quote/305328) from [iz quotes](http://izquotes.com/)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [On the Origins of "EinStein würfelt nicht!"](http://www.althofer.de/origins-of-ewn.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> ["EinStein würfelt nicht" in the Computer Olympiad 2011](http://www.althofer.de/ewn-tilburg-2011.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Stormy's Corner](http://www.csvn.nl/downloads/stormys-corner) in remembrance on [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CSVN](CSVN "CSVN") site, Download of [MeinStein](https://www.game-ai-forum.org/icga-tournaments/program.php?id=508)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> Photo from [5th CSVN-Tournament 2005 Gallery](http://old.csvn.nl/gallery22.html)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a>  ["EinStein würfelt nicht" in the Computer Olympiad 2011](http://www.althofer.de/ewn-tilburg-2011.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> A central part of the thesis was published in: [Jakob Erdmann](Jakob_Erdmann "Jakob Erdmann") (**2009**). *Chanciness: Towards a Characterization of Chance in Games.* [ICGA Journal, Vol. 32, No. 4](ICGA_Journal#32_4 "ICGA Journal")
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Karl's Race](http://www.althofer.de/karls-race.html) A Game on [Karl Scherer's](index.php?title=Karl_Scherer&action=edit&redlink=1 "Karl Scherer (page does not exist)") Alternating Tiling by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), 2006
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> See the [CCC](CCC "CCC") match between [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") and [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm") on Ingo Althöfer's ["Einstein würfelt nicht" site](http://www.3-hirn-verlag.de/MasterGame/regel.html) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [On the Origins of "EinStein würfelt nicht!"](http://www.althofer.de/origins-of-ewn.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [EinStein würfelt nicht! - Wikipedia](https://en.wikipedia.org/wiki/EinStein_w%C3%BCrfelt_nicht!)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Pictures of the IPCCC 2005](https://www.stmintz.com/ccc/index.php?id=414534) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [CCC](CCC "CCC"), February 27, 2005
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Paderborner Bilderbogen](http://www.computerschach.de/index.php?option=content&task=view&id=119&Itemid=109), [Computerschach und Spiele Online](Computerschach_und_Spiele "Computerschach und Spiele")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Rules of "EinStein wuerfelt nicht"](https://www.stmintz.com/ccc/index.php?id=415431) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CCC](CCC "CCC"), March 05, 2005
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Copenhagen interpretation - Criticism | Wikipedia](https://en.wikipedia.org/wiki/Copenhagen_interpretation#Criticism)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Albert Einstein - Wikiquote](http://en.wikiquote.org/wiki/Albert_Einstein)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Quantum mechanics is very worthy of regard. But an inner voice..](http://izquotes.com/quote/305328) from [iz quotes](http://izquotes.com/)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [On the Origins of "EinStein würfelt nicht!"](http://www.althofer.de/origins-of-ewn.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> ["EinStein würfelt nicht" in the Computer Olympiad 2011](http://www.althofer.de/ewn-tilburg-2011.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Stormy's Corner](http://www.csvn.nl/downloads/stormys-corner) in remembrance on [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CSVN](CSVN "CSVN") site, Download of [MeinStein](https://www.game-ai-forum.org/icga-tournaments/program.php?id=508)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> Photo from [5th CSVN-Tournament 2005 Gallery](http://old.csvn.nl/gallery22.html)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a>  ["EinStein würfelt nicht" in the Computer Olympiad 2011](http://www.althofer.de/ewn-tilburg-2011.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> A central part of the thesis was published in: [Jakob Erdmann](Jakob_Erdmann "Jakob Erdmann") (**2009**). *Chanciness: Towards a Characterization of Chance in Games.* [ICGA Journal, Vol. 32, No. 4](ICGA_Journal#32_4 "ICGA Journal")
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Karl's Race](http://www.althofer.de/karls-race.html) A Game on [Karl Scherer's](index.php?title=Karl_Scherer&action=edit&redlink=1 "Karl Scherer (page does not exist)") Alternating Tiling by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), 2006
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> See the [CCC](CCC "CCC") match between [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") and [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm") on Ingo Althöfer's ["Einstein würfelt nicht" site](http://www.3-hirn-verlag.de/MasterGame/regel.html) (German)
 
 **[Up one Level](Games "Games")**
 

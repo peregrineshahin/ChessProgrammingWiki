@@ -70,10 +70,10 @@ FabChess comes with its own [Wiki](https://en.wikipedia.org/wiki/Wiki), elaborat
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  Unknown [Spanish Painter](https://en.wikipedia.org/wiki/List_of_Spanish_painters), [St.Sebastian](https://en.wikipedia.org/wiki/Saint_Sebastian) and [St.Fabian](https://en.wikipedia.org/wiki/Pope_Fabian), Late XV century, [Aragonese](https://en.wikipedia.org/wiki/Aragon) School, From the [Shuvalov](https://en.wikipedia.org/wiki/Ivan_Shuvalov) collection, [Hermitage](https://en.wikipedia.org/wiki/Hermitage_Museum), Photo by [George Shuklin](https://commons.wikimedia.org/wiki/User:George_Shuklin), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Home · fabianvdW/FabChess Wiki · GitHub](https://github.com/fabianvdW/FabChess/wiki)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Features based on [FabChess/src at master · fabianvdW/FabChess · GitHub](https://github.com/fabianvdW/FabChess/tree/master/src)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Evaluation · fabianvdW/FabChess Wiki · GitHub](https://github.com/fabianvdW/FabChess/wiki/Evaluation)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  Unknown [Spanish Painter](https://en.wikipedia.org/wiki/List_of_Spanish_painters), [St.Sebastian](https://en.wikipedia.org/wiki/Saint_Sebastian) and [St.Fabian](https://en.wikipedia.org/wiki/Pope_Fabian), Late XV century, [Aragonese](https://en.wikipedia.org/wiki/Aragon) School, From the [Shuvalov](https://en.wikipedia.org/wiki/Ivan_Shuvalov) collection, [Hermitage](https://en.wikipedia.org/wiki/Hermitage_Museum), Photo by [George Shuklin](https://commons.wikimedia.org/wiki/User:George_Shuklin), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Home · fabianvdW/FabChess Wiki · GitHub](https://github.com/fabianvdW/FabChess/wiki)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Features based on [FabChess/src at master · fabianvdW/FabChess · GitHub](https://github.com/fabianvdW/FabChess/tree/master/src)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Evaluation · fabianvdW/FabChess Wiki · GitHub](https://github.com/fabianvdW/FabChess/wiki/Evaluation)
 
 **[Up one Level](Engines "Engines")**
 

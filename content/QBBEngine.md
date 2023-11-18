@@ -241,9 +241,9 @@ P2     RQK        P1    NB  K       P0   P B Q         PM side to move
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [A KTM Quad 990 ATV](https://commons.wikimedia.org/wiki/File:KTM_Quad_990_neutral.jpg), custom-made from E-ATV Eicker Germany, Basevehicle was a KTM Supermotobike, Typ SM 990 with LC8 engine, Image by [Stefan Krause](https://commons.wikimedia.org/wiki/User:Ritchyblack), February 20, 2011, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pedone Chess Engine](https://sites.google.com/site/pedonechess/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [QBBEngine - a didactic engine](https://sites.google.com/site/pedonechess/a-didactic-engine)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [A KTM Quad 990 ATV](https://commons.wikimedia.org/wiki/File:KTM_Quad_990_neutral.jpg), custom-made from E-ATV Eicker Germany, Basevehicle was a KTM Supermotobike, Typ SM 990 with LC8 engine, Image by [Stefan Krause](https://commons.wikimedia.org/wiki/User:Ritchyblack), February 20, 2011, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pedone Chess Engine](https://sites.google.com/site/pedonechess/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [QBBEngine - a didactic engine](https://sites.google.com/site/pedonechess/a-didactic-engine)
 
 **[Up one Level](Engines "Engines")**
 

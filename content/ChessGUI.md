@@ -144,14 +144,14 @@ On 29 Mar 2016, the author of ChessGUI announced he retired from chess programmi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BigLion Homepage](http://www.chess.hylogic.de/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [an STS Tool retouched](http://www.talkchess.com/forum/viewtopic.php?t=41608) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), December 26, 2011
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ChessGUI 0.230 and TLCV](http://www.talkchess.com/forum/viewtopic.php?t=40137) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), August 21, 2011
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tom's Live Chess Viewer](http://home.pacific.net.au/~tommyinoz/tlcv.html) by [Thomas McBurney](Thomas_McBurney "Thomas McBurney")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [nTCEC Complete Rules + FAQ](http://www.tcec-chess.net/viewtopic.php?f=13&t=20)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ChessGUI 0.245f is available](http://www.talkchess.com/forum/viewtopic.php?t=50492) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), December 14, 2013
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Image courtesy [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [BigLion Homepage](http://www.chess.hylogic.de/)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ChessGUI](http://www.talkchess.com/forum/viewtopic.php?t=81145) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 14, 2022
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BigLion Homepage](http://www.chess.hylogic.de/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [an STS Tool retouched](http://www.talkchess.com/forum/viewtopic.php?t=41608) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), December 26, 2011
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ChessGUI 0.230 and TLCV](http://www.talkchess.com/forum/viewtopic.php?t=40137) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), August 21, 2011
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tom's Live Chess Viewer](http://home.pacific.net.au/~tommyinoz/tlcv.html) by [Thomas McBurney](Thomas_McBurney "Thomas McBurney")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [nTCEC Complete Rules + FAQ](http://www.tcec-chess.net/viewtopic.php?f=13&t=20)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ChessGUI 0.245f is available](http://www.talkchess.com/forum/viewtopic.php?t=50492) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), December 14, 2013
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> Image courtesy [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [BigLion Homepage](http://www.chess.hylogic.de/)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ChessGUI](http://www.talkchess.com/forum/viewtopic.php?t=81145) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 14, 2022
 
 **[Up one Level](GUI "GUI")**
 

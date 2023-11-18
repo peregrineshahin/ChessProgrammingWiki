@@ -34,15 +34,15 @@ Adrian Millett is developer of the [Windows](Windows "Windows") [GUI](GUI "GUI")
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sage 4000](https://mdgsoft.home.xs4all.nl/draughts/sage4000.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SAGE 4001 Checkers Program](https://mdgsoft.home.xs4all.nl/draughts/sage4001.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sage Draughts 9.0](http://pcsol-sage.tripod.com/pages/sage.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dynamo Draughts](http://pcsol-sage.tripod.com/pages/dynamo.htm)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [PDN - Portable Draughts Notation](https://groups.google.com/d/msg/rec.games.chess/_bc_FD4tSFI/nZq6ifCR58cJ) by Pc Sol, [rgc](Computer_Chess_Forums "Computer Chess Forums"), July 22, 1995
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [cg](https://groups.google.com/d/msg/rec.games.chess/Lm5NFuW-xGc/7qFhcsXnEHgJ) by Pc Solutions, [rgc](Computer_Chess_Forums "Computer Chess Forums"), December 29, 1994
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Richard Lang](Richard_Lang "Richard Lang") (**1995**). *Chess Genius 4*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4, pp. 80
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Schachclub Leinzell - Schach + PC - Shredder 5, Teil 1](http://scleinzell.schachvereine.de/p_spielprogramme/shredder5.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [ChessGenius Classic 7.0 - The Chess Program that beat Kasparov!](http://pcsol-sage.tripod.com/pages/chess.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sage 4000](https://mdgsoft.home.xs4all.nl/draughts/sage4000.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SAGE 4001 Checkers Program](https://mdgsoft.home.xs4all.nl/draughts/sage4001.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sage Draughts 9.0](http://pcsol-sage.tripod.com/pages/sage.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dynamo Draughts](http://pcsol-sage.tripod.com/pages/dynamo.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [PDN - Portable Draughts Notation](https://groups.google.com/d/msg/rec.games.chess/_bc_FD4tSFI/nZq6ifCR58cJ) by Pc Sol, [rgc](Computer_Chess_Forums "Computer Chess Forums"), July 22, 1995
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [cg](https://groups.google.com/d/msg/rec.games.chess/Lm5NFuW-xGc/7qFhcsXnEHgJ) by Pc Solutions, [rgc](Computer_Chess_Forums "Computer Chess Forums"), December 29, 1994
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Richard Lang](Richard_Lang "Richard Lang") (**1995**). *Chess Genius 4*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4, pp. 80
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Schachclub Leinzell - Schach + PC - Shredder 5, Teil 1](http://scleinzell.schachvereine.de/p_spielprogramme/shredder5.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ChessGenius Classic 7.0 - The Chess Program that beat Kasparov!](http://pcsol-sage.tripod.com/pages/chess.htm)
 
 **[Up one level](People "People")**
 

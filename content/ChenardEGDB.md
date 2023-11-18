@@ -67,13 +67,13 @@ Chenard's [Windows](Windows "Windows") [GUI](GUI "GUI") <a id="cite-note-7" href
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [A Creed Model 7 teleprinter in 1930](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-2008-0516-500,_Fernschreibmaschine_mit_Telefonanschluss.jpg?uselang=en), Photo by Willi Illger, [Bundesarchiv](https://commons.wikimedia.org/wiki/Commons:Bundesarchiv), [Bild 183-2008-0516-500](https://www.bild.bundesarchiv.de/dba/de/search/?query=Bild+183-2008-0516-500), [CC BY-SA 3.0 DE](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Fernschreiber - Wikipedia.de](https://de.wikipedia.org/wiki/Fernschreiber)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chenard - a freeware chess program](http://cosinekitty.com/chenard/) by [Don Cross](Don_Cross "Don Cross")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [chenard/search.cpp at master · cosinekitty/chenard · GitHub](https://github.com/cosinekitty/chenard/blob/master/src/search.cpp)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - cosinekitty/endgame: Chess endgame database generator](https://github.com/cosinekitty/endgame)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [chenard/egdbase.cpp at master · cosinekitty/chenard · GitHub](https://github.com/cosinekitty/chenard/blob/master/src/egdbase.cpp)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Build Your Own Chess Endgame Monster - Level Up Coding](https://levelup.gitconnected.com/build-your-own-chess-endgame-monster-a3fb23bb3ec1) by [Don Cross](Don_Cross "Don Cross"), February 17, 2020
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Chenard - a freeware chess program](http://cosinekitty.com/chenard/) by [Don Cross](Don_Cross "Don Cross")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [A Creed Model 7 teleprinter in 1930](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-2008-0516-500,_Fernschreibmaschine_mit_Telefonanschluss.jpg?uselang=en), Photo by Willi Illger, [Bundesarchiv](https://commons.wikimedia.org/wiki/Commons:Bundesarchiv), [Bild 183-2008-0516-500](https://www.bild.bundesarchiv.de/dba/de/search/?query=Bild+183-2008-0516-500), [CC BY-SA 3.0 DE](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Fernschreiber - Wikipedia.de](https://de.wikipedia.org/wiki/Fernschreiber)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chenard - a freeware chess program](http://cosinekitty.com/chenard/) by [Don Cross](Don_Cross "Don Cross")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [chenard/search.cpp at master · cosinekitty/chenard · GitHub](https://github.com/cosinekitty/chenard/blob/master/src/search.cpp)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - cosinekitty/endgame: Chess endgame database generator](https://github.com/cosinekitty/endgame)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [chenard/egdbase.cpp at master · cosinekitty/chenard · GitHub](https://github.com/cosinekitty/chenard/blob/master/src/egdbase.cpp)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Build Your Own Chess Endgame Monster - Level Up Coding](https://levelup.gitconnected.com/build-your-own-chess-endgame-monster-a3fb23bb3ec1) by [Don Cross](Don_Cross "Don Cross"), February 17, 2020
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chenard - a freeware chess program](http://cosinekitty.com/chenard/) by [Don Cross](Don_Cross "Don Cross")
 
 **[Up one Level](Engines "Engines")**
 

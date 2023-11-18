@@ -46,11 +46,11 @@ a Dutch computer game and chess programmer, who already started programming with
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [PT 48](PT_48 "PT 48"), Round 7: Stan Arts and [Richard Pijl](Richard_Pijl "Richard Pijl") in [The Baron](The_Baron "The Baron") vs. [Nemeton](Nemeton "Nemeton"), [PT48 Round 7](http://www.computerschaak.nl/index.php/nieuws/51-toernooien/704-pt48-round-7)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Program in Ada 95. (for Pascal or Ada programmers)](https://www.stmintz.com/ccc/index.php?id=232745) by [José Lauro Strapasson](index.php?title=Jos%C3%A9_Lauro_Strapasson&action=edit&redlink=1 "José Lauro Strapasson (page does not exist)"), [CCC](CCC "CCC"), May 29, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Stanschess.html Stan´s Chess (no longer available) from [WBEC Ridderkerk](WBEC "WBEC")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Stan´s Chess 1.1](https://www.stmintz.com/ccc/index.php?id=245041) by Stan Arts, [CCC](CCC "CCC"), August 10, 2002
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Nemeton 1 release](http://www.talkchess.com/forum/viewtopic.php?t=54375) by Stan Arts, [CCC](CCC "CCC"), November 18, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [PT 48](PT_48 "PT 48"), Round 7: Stan Arts and [Richard Pijl](Richard_Pijl "Richard Pijl") in [The Baron](The_Baron "The Baron") vs. [Nemeton](Nemeton "Nemeton"), [PT48 Round 7](http://www.computerschaak.nl/index.php/nieuws/51-toernooien/704-pt48-round-7)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Program in Ada 95. (for Pascal or Ada programmers)](https://www.stmintz.com/ccc/index.php?id=232745) by [José Lauro Strapasson](index.php?title=Jos%C3%A9_Lauro_Strapasson&action=edit&redlink=1 "José Lauro Strapasson (page does not exist)"), [CCC](CCC "CCC"), May 29, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Stanschess.html Stan´s Chess (no longer available) from [WBEC Ridderkerk](WBEC "WBEC")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Stan´s Chess 1.1](https://www.stmintz.com/ccc/index.php?id=245041) by Stan Arts, [CCC](CCC "CCC"), August 10, 2002
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Nemeton 1 release](http://www.talkchess.com/forum/viewtopic.php?t=54375) by Stan Arts, [CCC](CCC "CCC"), November 18, 2014
 
 **[Up one level](People "People")**
 

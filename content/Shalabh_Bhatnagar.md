@@ -61,8 +61,8 @@ His research interests are in control/optimization in stochastic dynamic systems
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Shalabh Bhatnagar](https://www.csa.iisc.ac.in/~shalabh/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Shalabh Bhatnagar](https://dblp.org/pid/71/2542.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Shalabh Bhatnagar](https://www.csa.iisc.ac.in/~shalabh/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Shalabh Bhatnagar](https://dblp.org/pid/71/2542.html)
 
 **[Up one level](People "People")**
 

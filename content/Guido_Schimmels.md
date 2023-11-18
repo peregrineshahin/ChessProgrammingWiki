@@ -53,10 +53,10 @@ if(value > alpha && value < beta && depth > 1) {
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [About TeXmacs (FSF GNU project)](http://www.texmacs.org/tmweb/manual/webman-about.en.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tango Theme | ROX Desktop](http://rox.sourceforge.net/desktop/node/270.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Copyright © 1999-2019 Ultimate++ team :: Ultimate++](http://www.ultimatepp.org/app$ide$About$en-us.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Zero-width Window Null Move Search](https://www.stmintz.com/ccc/index.php?id=20868) by Guido Schimmels, [CCC](CCC "CCC"), June 18, 1998
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [About TeXmacs (FSF GNU project)](http://www.texmacs.org/tmweb/manual/webman-about.en.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tango Theme | ROX Desktop](http://rox.sourceforge.net/desktop/node/270.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Copyright © 1999-2019 Ultimate++ team :: Ultimate++](http://www.ultimatepp.org/app$ide$About$en-us.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Zero-width Window Null Move Search](https://www.stmintz.com/ccc/index.php?id=20868) by Guido Schimmels, [CCC](CCC "CCC"), June 18, 1998
 
 **[Up one level](People "People")**
 

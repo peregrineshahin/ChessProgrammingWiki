@@ -52,13 +52,13 @@ Dave Slate, [David Levy](David_Levy "David Levy"), [Claude Shannon](Claude_Shann
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> David Slate from [Slate, Swartz, and Rubin at 1st World Chess Championship in Stockholm](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdafbd8), 1974, Photo by [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Letter Recognition Data Set](http://archive.ics.uci.edu/ml/datasets/Letter+Recognition) by David Slate from [UC Irvine Machine Learning Repository!](http://archive.ics.uci.edu/ml/index.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Peter W. Frey](Peter_W._Frey "Peter W. Frey"), David Slate (**1991**). *[Letter Recognition Using Holland-style Adaptive Classifiers](http://www.springerlink.com/content/x83328826p16u32u/)*. Machine Learning Vol 6 #2 March 91, [pdf](http://www.springerlink.com/content/x83328826p16u32u/fulltext.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Slate and Atkin at the 6th ACM North American Computer Chess Tournament](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc15f2c0), 1975, Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess pioneers in Sacher Hotel Vienna, Austria](http://www.computerhistory.org/collections/accession/102665753), Gift of [Benjamin Mittman](Ben_Mittman "Ben Mittman"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: David J. Slate](https://dblp.uni-trier.de/pers/hd/s/Slate:David_J=)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Results of the KDD cup 2009](http://www.kddcup-orange.com/winners.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> David Slate from [Slate, Swartz, and Rubin at 1st World Chess Championship in Stockholm](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdafbd8), 1974, Photo by [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Letter Recognition Data Set](http://archive.ics.uci.edu/ml/datasets/Letter+Recognition) by David Slate from [UC Irvine Machine Learning Repository!](http://archive.ics.uci.edu/ml/index.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Peter W. Frey](Peter_W._Frey "Peter W. Frey"), David Slate (**1991**). *[Letter Recognition Using Holland-style Adaptive Classifiers](http://www.springerlink.com/content/x83328826p16u32u/)*. Machine Learning Vol 6 #2 March 91, [pdf](http://www.springerlink.com/content/x83328826p16u32u/fulltext.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Slate and Atkin at the 6th ACM North American Computer Chess Tournament](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc15f2c0), 1975, Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess pioneers in Sacher Hotel Vienna, Austria](http://www.computerhistory.org/collections/accession/102665753), Gift of [Benjamin Mittman](Ben_Mittman "Ben Mittman"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: David J. Slate](https://dblp.uni-trier.de/pers/hd/s/Slate:David_J=)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Results of the KDD cup 2009](http://www.kddcup-orange.com/winners.php)
 
 **[Up one level](People "People")**
 

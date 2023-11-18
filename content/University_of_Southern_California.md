@@ -27,7 +27,7 @@ title: University of Southern California
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> University of Southern California, Los Angeles, California, between circa 1930 and circa 1945, [Category:University of Southern California buildings - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:University_of_Southern_California_buildings)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> University of Southern California, Los Angeles, California, between circa 1930 and circa 1945, [Category:University of Southern California buildings - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:University_of_Southern_California_buildings)
 
 **[Up one Level](Organizations "Organizations")**
 

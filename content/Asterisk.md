@@ -88,15 +88,15 @@ Kf8 61.Qd6+ Kf7 62.Qd7+ Kf6 63.Qd8+ Kf7 64.Qc7+ Kg8 65.Qd7 h6 66.Qe8+ Kg7 67.Qe7
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Asterisks seen in the margin of Greek papyrus, 4th-5th century AD, [Asterisk from Wikipedia](https://en.wikipedia.org/wiki/Asterisk)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MASPV 2007](http://titanic.nyme.hu/~wyx/maspv2007/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MASPV 2002](http://titanic.nyme.hu/~wyx/maspv2002/indexeng.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [new hungarian wb engine : Asterisk](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=36331&p=137788) by [WYx](L%C3%A1szl%C3%B3_Szalai "László Szalai"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 05, 2002
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [asterisk - Wiktionary](http://en.wiktionary.org/wiki/asterisk)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Asterisk from Wikipedia](https://en.wikipedia.org/wiki/Asterisk)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Standard: Portable Game Notation Specification and Implementation Guide](http://www.thechessdrum.net/PGN_Reference.txt) by [Steven Edwards](Steven_Edwards "Steven Edwards")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [MASPV 2003 - PGN](http://titanic.nyme.hu/~wyx/maspv2003/indexeng.htm), PGN has 0-1, [MASPV 2003 results](http://titanic.nyme.hu/~wyx/maspv2003/results.htm) 1-0?
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [MASPV 2003 photos](http://titanic.nyme.hu/~wyx/maspv2003/images.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Asterisks seen in the margin of Greek papyrus, 4th-5th century AD, [Asterisk from Wikipedia](https://en.wikipedia.org/wiki/Asterisk)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MASPV 2007](http://titanic.nyme.hu/~wyx/maspv2007/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MASPV 2002](http://titanic.nyme.hu/~wyx/maspv2002/indexeng.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [new hungarian wb engine : Asterisk](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=36331&p=137788) by [WYx](L%C3%A1szl%C3%B3_Szalai "László Szalai"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 05, 2002
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [asterisk - Wiktionary](http://en.wiktionary.org/wiki/asterisk)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Asterisk from Wikipedia](https://en.wikipedia.org/wiki/Asterisk)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Standard: Portable Game Notation Specification and Implementation Guide](http://www.thechessdrum.net/PGN_Reference.txt) by [Steven Edwards](Steven_Edwards "Steven Edwards")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [MASPV 2003 - PGN](http://titanic.nyme.hu/~wyx/maspv2003/indexeng.htm), PGN has 0-1, [MASPV 2003 results](http://titanic.nyme.hu/~wyx/maspv2003/results.htm) 1-0?
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [MASPV 2003 photos](http://titanic.nyme.hu/~wyx/maspv2003/images.htm)
 
 **[Up one Level](Engines "Engines")**
 

@@ -21,8 +21,8 @@ a British computer scientist, computer games and chess programmer, and author of
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Andrew Williams at the [WCCC 2002](WCCC_2002 "WCCC 2002"), image from [7th Computer Olympiad Album](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2002/album/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Building the Principal Variation in MTD(f) searches](https://www.stmintz.com/ccc/index.php?id=60833) by Andrew Williams, [CCC](CCC "CCC"), July 18, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Andrew Williams at the [WCCC 2002](WCCC_2002 "WCCC 2002"), image from [7th Computer Olympiad Album](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2002/album/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Building the Principal Variation in MTD(f) searches](https://www.stmintz.com/ccc/index.php?id=60833) by Andrew Williams, [CCC](CCC "CCC"), July 18, 1999
 
 **[Up one level](People "People")**
 

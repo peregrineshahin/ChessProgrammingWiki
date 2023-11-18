@@ -74,9 +74,9 @@ The Programmer's **Computer Chess Tournament** CCT are Online Computer Chess Tou
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Welcome to the Internet Chess Club](http://www.chessclub.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Free Internet Chess Server (FICS)](http://www.freechess.org/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> CCT1-CCT6 hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Welcome to the Internet Chess Club](http://www.chessclub.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Free Internet Chess Server (FICS)](http://www.freechess.org/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> CCT1-CCT6 hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

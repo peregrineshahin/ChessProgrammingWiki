@@ -44,12 +44,12 @@ In 1983/1984 the Steinitz Encore was announced but never originally released. Ex
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wilhelm Steinitz - Wikimedia Commons](https://commons.wikimedia.org/wiki/Wilhelm_Steinitz), [Wilhelm Steinitz from Wikipedia](https://en.wikipedia.org/wiki/Wilhelm_Steinitz)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Flickr - Fotosharing | Steinitz 4 With Special Keyboard Overlay](http://www.flickr.com/photos/10261668@N05/858210787/in/set-72157600923816639/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chafitz Steinitz Edition](http://www.schach-computer.info/wiki/index.php/Chafitz_Steinitz_Edition) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Frank Sommers](http://www.atarimagazines.com/creative/index/index.php?author=Frank+Sommers) (**1983**). *[Chess 7.0. (evaluation)](http://www.atarimagazines.com/creative/v9n9/176_Chess_70.php)*. [Creative Computing](Creative_Computing "Creative Computing"), Vol. 9, No. 9, pp. 176
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chafitz Steinitz Encore Edition Electronic Chess Computer](http://www.spacious-mind.com/html/steinitz_encore.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chafitz Steinitz Encore](http://www.schach-computer.info/wiki/index.php/Chafitz_Steinitz_Encore) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wilhelm Steinitz - Wikimedia Commons](https://commons.wikimedia.org/wiki/Wilhelm_Steinitz), [Wilhelm Steinitz from Wikipedia](https://en.wikipedia.org/wiki/Wilhelm_Steinitz)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Flickr - Fotosharing | Steinitz 4 With Special Keyboard Overlay](http://www.flickr.com/photos/10261668@N05/858210787/in/set-72157600923816639/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chafitz Steinitz Edition](http://www.schach-computer.info/wiki/index.php/Chafitz_Steinitz_Edition) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Frank Sommers](http://www.atarimagazines.com/creative/index/index.php?author=Frank+Sommers) (**1983**). *[Chess 7.0. (evaluation)](http://www.atarimagazines.com/creative/v9n9/176_Chess_70.php)*. [Creative Computing](Creative_Computing "Creative Computing"), Vol. 9, No. 9, pp. 176
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chafitz Steinitz Encore Edition Electronic Chess Computer](http://www.spacious-mind.com/html/steinitz_encore.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chafitz Steinitz Encore](http://www.schach-computer.info/wiki/index.php/Chafitz_Steinitz_Encore) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
 
 **[Up one Level](Engines "Engines")**
 

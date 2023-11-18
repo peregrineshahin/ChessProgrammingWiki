@@ -43,13 +43,13 @@ He holds a Ph.D. from [University of Alberta](University_of_Alberta "University 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Welcome to Adi Botea's Homepage](http://abotea.rsise.anu.edu.au/index.php)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Adi Botea (**2006**). *Improving AI Planning and Search with Automatic Abstraction*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Adi Botea, [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"). (**2004**). *Near Optimal Hierarchical Path-Finding*. Journal of Game Development, Vol. 1, No. 1
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Adi Botea - Macro-FF](http://abotea.rsise.anu.edu.au/index.php?page=macroff)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Adi Botea, [Markus Enzenberger](Markus_Enzenberger "Markus Enzenberger"), [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**2005**). *Macro-FF: Improving AI Planning with Automatically Learned Macro-Operators*. Journal of Artificial Intelligence Research, Vol. 24
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Adi Botea](https://dblp.org/pers/hd/b/Botea:Adi)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Adi Botea - Publications](http://abotea.rsise.anu.edu.au/index.php?page=publications)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Welcome to Adi Botea's Homepage](http://abotea.rsise.anu.edu.au/index.php)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Adi Botea (**2006**). *Improving AI Planning and Search with Automatic Abstraction*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Adi Botea, [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"). (**2004**). *Near Optimal Hierarchical Path-Finding*. Journal of Game Development, Vol. 1, No. 1
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Adi Botea - Macro-FF](http://abotea.rsise.anu.edu.au/index.php?page=macroff)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Adi Botea, [Markus Enzenberger](Markus_Enzenberger "Markus Enzenberger"), [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**2005**). *Macro-FF: Improving AI Planning with Automatically Learned Macro-Operators*. Journal of Artificial Intelligence Research, Vol. 24
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Adi Botea](https://dblp.org/pers/hd/b/Botea:Adi)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Adi Botea - Publications](http://abotea.rsise.anu.edu.au/index.php?page=publications)
 
 **[Up one level](People "People")**
 

@@ -32,10 +32,10 @@ The program featured [CGA graphics](https://en.wikipedia.org/wiki/Color_Graphics
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Zorland, the company by [Walter Bright](https://en.wikipedia.org/wiki/Walter_Bright), was later renamed to Zortech and [Digital Mars](https://en.wikipedia.org/wiki/Digital_Mars), where Walter Bright created the [D programming language](D_(Programming_Language) "D (Programming Language)")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Classic Computer Chess - ... The programs of yesteryear | Programs | Zorland Chess](http://web.archive.org/web/20071221115817/http://classicchess.googlepages.com/Chess.htm) by [Carey](Carey_Bloodworth "Carey Bloodworth") ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Oxford Mobius - MobyGames](https://www.mobygames.com/company/oxford-mobius)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Slate](David_Slate "David Slate"), [Larry Atkin](Larry_Atkin "Larry Atkin") (**1977**). *Chess 4.5 - The Northwestern University Chess Program.* [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine"), reprinted (1988) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Zorland, the company by [Walter Bright](https://en.wikipedia.org/wiki/Walter_Bright), was later renamed to Zortech and [Digital Mars](https://en.wikipedia.org/wiki/Digital_Mars), where Walter Bright created the [D programming language](D_(Programming_Language) "D (Programming Language)")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Classic Computer Chess - ... The programs of yesteryear | Programs | Zorland Chess](http://web.archive.org/web/20071221115817/http://classicchess.googlepages.com/Chess.htm) by [Carey](Carey_Bloodworth "Carey Bloodworth") ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Oxford Mobius - MobyGames](https://www.mobygames.com/company/oxford-mobius)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Slate](David_Slate "David Slate"), [Larry Atkin](Larry_Atkin "Larry Atkin") (**1977**). *Chess 4.5 - The Northwestern University Chess Program.* [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine"), reprinted (1988) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
 
 **[Up one Level](Engines "Engines")**
 

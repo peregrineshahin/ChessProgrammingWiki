@@ -111,15 +111,15 @@ a [Windows](Windows "Windows") chess program dedicated to the [mass market](http
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hoyle Majestic Chess for Windows (2003)](http://www.mobygames.com/game/hoyle-majestic-chess) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Edmond Hoyle from Wikipedia](https://en.wikipedia.org/wiki/Edmond_Hoyle)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [majestic - Wiktionary](http://en.wiktionary.org/wiki/majestic)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fluent Entertainment, Inc.](http://www.mobygames.com/company/fluent-entertainment-inc) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Majestic /Pocket PC](https://www.stmintz.com/ccc/index.php?id=311494) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), August 15, 2003
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Historical Chessmaster ?](https://www.stmintz.com/ccc/index.php?id=422644) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), April 24, 2005
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Hoyle Majestic Chess : Head-To-Head with ChessMaster?](https://www.stmintz.com/ccc/index.php?id=305792) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), July 10, 2003
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Screen capture from the [Majestic Chess Video](Majestic_Chess#Video "Majestic Chess")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Review Of Majestic Chess](https://www.stmintz.com/ccc/index.php?id=315412) by Anthony Martini, [CCC](CCC "CCC"), September 12, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hoyle Majestic Chess for Windows (2003)](http://www.mobygames.com/game/hoyle-majestic-chess) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Edmond Hoyle from Wikipedia](https://en.wikipedia.org/wiki/Edmond_Hoyle)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [majestic - Wiktionary](http://en.wiktionary.org/wiki/majestic)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fluent Entertainment, Inc.](http://www.mobygames.com/company/fluent-entertainment-inc) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Majestic /Pocket PC](https://www.stmintz.com/ccc/index.php?id=311494) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), August 15, 2003
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Historical Chessmaster ?](https://www.stmintz.com/ccc/index.php?id=422644) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), April 24, 2005
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Hoyle Majestic Chess : Head-To-Head with ChessMaster?](https://www.stmintz.com/ccc/index.php?id=305792) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), July 10, 2003
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Screen capture from the [Majestic Chess Video](Majestic_Chess#Video "Majestic Chess")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Review Of Majestic Chess](https://www.stmintz.com/ccc/index.php?id=315412) by Anthony Martini, [CCC](CCC "CCC"), September 12, 2003
 
 **[Up one level](Engines "Engines")**
 

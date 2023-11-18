@@ -32,11 +32,11 @@ As computer chess programmer, Daniel Sparks is author of the [open source chess 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [d-sparks (Dan Sparks) · GitHub](https://github.com/d-sparks)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - d-sparks/exacto: Exacto Chess Engine](https://github.com/d-sparks/exacto)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Engine release Exacto 0.e](http://www.talkchess.com/forum/viewtopic.php?t=51546) by Daniel Sparks, [CCC](CCC "CCC"), March 10, 2014
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hilbert's irreducibility theorem - Wikipedia](https://en.wikipedia.org/wiki/Hilbert%27s_irreducibility_theorem)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [UC Berkeley - Math Departmental Citation - Daniel. L. Sparks](https://www.youtube.com/watch?v=DiSBGy14JNM), [YouTube](https://en.wikipedia.org/wiki/YouTube)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [d-sparks (Dan Sparks) · GitHub](https://github.com/d-sparks)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - d-sparks/exacto: Exacto Chess Engine](https://github.com/d-sparks/exacto)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Engine release Exacto 0.e](http://www.talkchess.com/forum/viewtopic.php?t=51546) by Daniel Sparks, [CCC](CCC "CCC"), March 10, 2014
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hilbert's irreducibility theorem - Wikipedia](https://en.wikipedia.org/wiki/Hilbert%27s_irreducibility_theorem)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [UC Berkeley - Math Departmental Citation - Daniel. L. Sparks](https://www.youtube.com/watch?v=DiSBGy14JNM), [YouTube](https://en.wikipedia.org/wiki/YouTube)
 
 **[Up one level](Engines "Engines")**
 

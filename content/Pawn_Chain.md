@@ -57,8 +57,8 @@ A **Pawn chain** consists of pawns placed on the same diagonal, without interrup
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Huge simplification](http://www.talkchess.com/forum/viewtopic.php?t=52117&start=10) by [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov"), [CCC](CCC "CCC"), April 26, 2014
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Huge simplification](http://www.talkchess.com/forum/viewtopic.php?t=52117&start=24) by [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov"), [CCC](CCC "CCC"), April 26, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Huge simplification](http://www.talkchess.com/forum/viewtopic.php?t=52117&start=10) by [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov"), [CCC](CCC "CCC"), April 26, 2014
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Huge simplification](http://www.talkchess.com/forum/viewtopic.php?t=52117&start=24) by [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov"), [CCC](CCC "CCC"), April 26, 2014
 
 **[Up one Level](Pawn_Structure "Pawn Structure")**
 

@@ -23,14 +23,14 @@ was a German chess official, computer scientist, during the 60s affiliated with 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr. Günter Reinemann](https://www.schach-sachsen-anhalt.de/verband/praesidium_neu/2-dr-guenter-reinemann1)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dr. Günter Reinemann (26.1.1942-16.7.2018)](https://de.chessbase.com/post/dr-guenter-reinemann-26-1-1942-16-7-2018) | [ChessBase](ChessBase "ChessBase"), July 24, 2018 (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Günter Reinemann † - Deutscher Schachbund](https://www.schachbund.de/news/guenter-reinemann-verstorben.html), July 18, 2018 (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Unser Ehrenpräsident Dr. Günter Reinemann feierte seinen 75. Geburtstag](https://www.schach-sachsen-anhalt.de/119-landesschachverband/1088-unser-ehrenpr%C3%A4sident-dr-g%C3%BCnter-reinemann-feiert-seinen-75-geburtstag) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Emanuel Lasker Gesellschaft: Who we are](https://web.archive.org/web/20040131131548/http://www.lasker-gesellschaft.de/society/flyer.html), 2003
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Dr. Günter Reinemann (26.1.1942-16.7.2018)](https://de.chessbase.com/post/dr-guenter-reinemann-26-1-1942-16-7-2018) | [ChessBase](ChessBase "ChessBase"), July 24, 2018 (German)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Christian Posthoff and Günter Reinemann: Computerschach - Schachcomputer*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal") (Review)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2020**). *Computer Chess and Chess Computers in East Germany*. [ICGA Journal, Vol. 42, Nos. 2-3](ICGA_Journal#42_23 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr. Günter Reinemann](https://www.schach-sachsen-anhalt.de/verband/praesidium_neu/2-dr-guenter-reinemann1)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dr. Günter Reinemann (26.1.1942-16.7.2018)](https://de.chessbase.com/post/dr-guenter-reinemann-26-1-1942-16-7-2018) | [ChessBase](ChessBase "ChessBase"), July 24, 2018 (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Günter Reinemann † - Deutscher Schachbund](https://www.schachbund.de/news/guenter-reinemann-verstorben.html), July 18, 2018 (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Unser Ehrenpräsident Dr. Günter Reinemann feierte seinen 75. Geburtstag](https://www.schach-sachsen-anhalt.de/119-landesschachverband/1088-unser-ehrenpr%C3%A4sident-dr-g%C3%BCnter-reinemann-feiert-seinen-75-geburtstag) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Emanuel Lasker Gesellschaft: Who we are](https://web.archive.org/web/20040131131548/http://www.lasker-gesellschaft.de/society/flyer.html), 2003
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Dr. Günter Reinemann (26.1.1942-16.7.2018)](https://de.chessbase.com/post/dr-guenter-reinemann-26-1-1942-16-7-2018) | [ChessBase](ChessBase "ChessBase"), July 24, 2018 (German)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Christian Posthoff and Günter Reinemann: Computerschach - Schachcomputer*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal") (Review)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2020**). *Computer Chess and Chess Computers in East Germany*. [ICGA Journal, Vol. 42, Nos. 2-3](ICGA_Journal#42_23 "ICGA Journal")
 
 **[Up one level](People "People")**
 

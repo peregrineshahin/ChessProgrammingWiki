@@ -34,10 +34,10 @@ As an expert in building [Beowulf clusters](https://en.wikipedia.org/wiki/Beowul
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Kevin C.F. Lew Kew Lin (**1999**). *[Orthogonal Persistence, Object-Orientation and Distribution](https://digital.library.adelaide.edu.au/dspace/handle/2440/19630)*. Ph.D thesis, [University of Adelaide](https://en.wikipedia.org/wiki/University_of_Adelaide)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kevin Lew, PhD MBA. | LinkedIn](https://www.linkedin.com/in/lewk9)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Colin Frayn](Colin_Frayn "Colin Frayn"), [Carlos Justiniano](Carlos_Justiniano "Carlos Justiniano"), Kevin Lew (**2006**). *ChessBrain II – A Hierarchical Infrastructure for Distributed Inhomogeneous Speed-Critical Computation*. [pdf](http://www.chessbrain.net/docs/chessbrainII.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Kevin Lew](https://dblp.uni-trier.de/pers/hd/l/Lew:Kevin)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Kevin C.F. Lew Kew Lin (**1999**). *[Orthogonal Persistence, Object-Orientation and Distribution](https://digital.library.adelaide.edu.au/dspace/handle/2440/19630)*. Ph.D thesis, [University of Adelaide](https://en.wikipedia.org/wiki/University_of_Adelaide)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kevin Lew, PhD MBA. | LinkedIn](https://www.linkedin.com/in/lewk9)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Colin Frayn](Colin_Frayn "Colin Frayn"), [Carlos Justiniano](Carlos_Justiniano "Carlos Justiniano"), Kevin Lew (**2006**). *ChessBrain II – A Hierarchical Infrastructure for Distributed Inhomogeneous Speed-Critical Computation*. [pdf](http://www.chessbrain.net/docs/chessbrainII.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Kevin Lew](https://dblp.uni-trier.de/pers/hd/l/Lew:Kevin)
 
 **[Up one level](People "People")**
 

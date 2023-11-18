@@ -19,8 +19,8 @@ While he was responsible for the chess playing algorithm, John T. Bell worked on
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [EdTech Associates Inc.](https://www.mobygames.com/company/edtech-associates-inc), [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Programmer's Corner » EDCV199.DOC - History](https://www.pcorner.com/list/GAMES/EDCV199.ZIP/EDCV199.DOC/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [EdTech Associates Inc.](https://www.mobygames.com/company/edtech-associates-inc), [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Programmer's Corner » EDCV199.DOC - History](https://www.pcorner.com/list/GAMES/EDCV199.ZIP/EDCV199.DOC/)
 
 **[Up one level](People "People")**
 

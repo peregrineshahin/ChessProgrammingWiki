@@ -110,11 +110,11 @@ The implementation of the en passant rule often caused subtle [bugs](Engine_Test
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Earliest Occurrences of Chess Terms](http://www.chesshistory.com/winter/extra/earliest.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [en passant and hash key calculation](http://www.talkchess.com/forum/viewtopic.php?t=33397) by [Fred Hamilton](index.php?title=Fred_Hamilton&action=edit&redlink=1 "Fred Hamilton (page does not exist)"), [CCC](CCC "CCC"), March 21, 2010
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1999**). *Computer machen keine Fehler*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele") 2/99, [pdf](http://www.mustrum.de/chrilly/keine_fehler.pdf) (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CSVN Downloads Games Aegon Tournaments](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=40&Itemid=26&lang=en)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Aegon 1994 Round 4 (REPOST)](http://groups.google.com/group/rec.games.chess/browse_frm/thread/8dbd04e027108e0c) by [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), May 09, 1994
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Earliest Occurrences of Chess Terms](http://www.chesshistory.com/winter/extra/earliest.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [en passant and hash key calculation](http://www.talkchess.com/forum/viewtopic.php?t=33397) by [Fred Hamilton](index.php?title=Fred_Hamilton&action=edit&redlink=1 "Fred Hamilton (page does not exist)"), [CCC](CCC "CCC"), March 21, 2010
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1999**). *Computer machen keine Fehler*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele") 2/99, [pdf](http://www.mustrum.de/chrilly/keine_fehler.pdf) (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CSVN Downloads Games Aegon Tournaments](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=40&Itemid=26&lang=en)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Aegon 1994 Round 4 (REPOST)](http://groups.google.com/group/rec.games.chess/browse_frm/thread/8dbd04e027108e0c) by [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), May 09, 1994
 
 **[Up one Level](Moves "Moves")**
 

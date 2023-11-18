@@ -49,10 +49,10 @@ an Australian programmer, primary author of the [TD-learning](Temporal_Differenc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo by [Gopal Vijayaraghavan](https://www.flickr.com/people/46888841@N00), January 28, 2006, [Category:Andrew Tridgell - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Andrew_Tridgell)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Welcome to the KnightCap home page](http://samba.org/KnightCap/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Andrew Tridgell (**1999**). *Efficient Algorithms for Sorting and Synchronization*. Ph.D. thesis, The [Australian National University](Australian_National_University "Australian National University"), advisor [Richard P. Brent](Mathematician#Brent "Mathematician"), [pdf](http://samba.org/~tridge/phd_thesis.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Andrew Tridgell](http://dblp.org/pers/hd/t/Tridgell:Andrew.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo by [Gopal Vijayaraghavan](https://www.flickr.com/people/46888841@N00), January 28, 2006, [Category:Andrew Tridgell - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Andrew_Tridgell)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Welcome to the KnightCap home page](http://samba.org/KnightCap/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Andrew Tridgell (**1999**). *Efficient Algorithms for Sorting and Synchronization*. Ph.D. thesis, The [Australian National University](Australian_National_University "Australian National University"), advisor [Richard P. Brent](Mathematician#Brent "Mathematician"), [pdf](http://samba.org/~tridge/phd_thesis.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Andrew Tridgell](http://dblp.org/pers/hd/t/Tridgell:Andrew.html)
 
 **[Up one level](People "People")**
 

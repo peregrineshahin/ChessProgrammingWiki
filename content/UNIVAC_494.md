@@ -36,8 +36,8 @@ a 30-bit [real-time](https://en.wikipedia.org/wiki/Real-time_computing) mainfram
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [UNIVAC 494 Console](http://ed-thelen.org/comp-hist/UNIVAC-494-Console-J-Knapp.jpg) from John Knapp, August 7, 2003 - [UNIVAC 494](http://ed-thelen.org/comp-hist/vs-univac-494.html) by [Ed Thelen](http://ed-thelen.org/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [UNIVAC 490 from Wikipedia](https://en.wikipedia.org/wiki/UNIVAC_490)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [UNIVAC 494 Console](http://ed-thelen.org/comp-hist/UNIVAC-494-Console-J-Knapp.jpg) from John Knapp, August 7, 2003 - [UNIVAC 494](http://ed-thelen.org/comp-hist/vs-univac-494.html) by [Ed Thelen](http://ed-thelen.org/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [UNIVAC 490 from Wikipedia](https://en.wikipedia.org/wiki/UNIVAC_490)
 
 **[Up one Level](Hardware "Hardware")**
 

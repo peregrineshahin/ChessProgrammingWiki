@@ -32,8 +32,8 @@ was a major American company in the [computer industry](https://en.wikipedia.org
 
 ## [In Memoriam](http://www.decconnection.org/memorials.htm) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> SVG of digital equipment corporation logo. Adapted from 170px XPM version of digital logo [here](http://www.vaxination.ca/vms/alpha/index.html), using [autotrace](http://autotrace.sourceforge.net/index.html), [inkscape](https://en.wikipedia.org/wiki/Inkscape), [GIMP](https://en.wikipedia.org/wiki/GIMP), and editing by hand by [Brianski](https://commons.wikimedia.org/wiki/User:Brianski), July 14, 2011, [Wikimedia Common](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Digital Equipment Corporation from Wikipedia](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> SVG of digital equipment corporation logo. Adapted from 170px XPM version of digital logo [here](http://www.vaxination.ca/vms/alpha/index.html), using [autotrace](http://autotrace.sourceforge.net/index.html), [inkscape](https://en.wikipedia.org/wiki/Inkscape), [GIMP](https://en.wikipedia.org/wiki/GIMP), and editing by hand by [Brianski](https://commons.wikimedia.org/wiki/User:Brianski), July 14, 2011, [Wikimedia Common](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Digital Equipment Corporation from Wikipedia](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation)
 
 **[Up one level](Organizations "Organizations")**
 

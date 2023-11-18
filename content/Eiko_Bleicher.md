@@ -47,13 +47,13 @@ Eiko Bleicher, [Frank Schneider](Frank_Schneider "Frank Schneider"), [Chrilly Do
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Eiko Bleicher, clip from [Ingo Althöfer's](Ingo_Alth%C3%B6fer "Ingo Althöfer") [Workshop 2008](http://www.althofer.de/workshop-2008.html) Photo
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Welcome to the World of Freezer](http://www.freezerchess.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Eiko Bleicher (**2004**). *Building Chess Endgame Databases for Positions with many Pieces using A-priori Information*. Lehrstuhl Mathematische Optimierung, [Fakultät für Mathematik und Informatik](http://www.minet.uni-jena.de/), [Friedrich-Schiller-Universität, Jena](https://en.wikipedia.org/wiki/University_of_Jena), Germany, [pdf](http://www.minet.uni-jena.de/preprints/bleicher_04/FREEZER_.PDF)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Shredderbases](https://www.shredderchess.com/chess-info/features/shredderbases.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Shredder Computer Chess Download - Freezer Endgame Analysis Tool](https://www.shredderchess.com/chess-news/shredder-news/freezer-video-tutorial.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Photo by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [Workshop Jena 2008: Analysis, Design, and Programming of Games](http://www.althofer.de/workshop-2008.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Eiko Bleicher](https://dblp.uni-trier.de/pers/hd/b/Bleicher:Eiko)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Eiko Bleicher, clip from [Ingo Althöfer's](Ingo_Alth%C3%B6fer "Ingo Althöfer") [Workshop 2008](http://www.althofer.de/workshop-2008.html) Photo
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Welcome to the World of Freezer](http://www.freezerchess.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Eiko Bleicher (**2004**). *Building Chess Endgame Databases for Positions with many Pieces using A-priori Information*. Lehrstuhl Mathematische Optimierung, [Fakultät für Mathematik und Informatik](http://www.minet.uni-jena.de/), [Friedrich-Schiller-Universität, Jena](https://en.wikipedia.org/wiki/University_of_Jena), Germany, [pdf](http://www.minet.uni-jena.de/preprints/bleicher_04/FREEZER_.PDF)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Shredderbases](https://www.shredderchess.com/chess-info/features/shredderbases.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Shredder Computer Chess Download - Freezer Endgame Analysis Tool](https://www.shredderchess.com/chess-news/shredder-news/freezer-video-tutorial.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photo by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [Workshop Jena 2008: Analysis, Design, and Programming of Games](http://www.althofer.de/workshop-2008.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Eiko Bleicher](https://dblp.uni-trier.de/pers/hd/b/Bleicher:Eiko)
 
 **[Up one level](People "People")**
 

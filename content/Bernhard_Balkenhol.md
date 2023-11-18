@@ -36,12 +36,12 @@ His research interests include [search algorithms](Search "Search") and [data co
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr. Bernhard Balkenhol - Homepage](http://www.balkenhol.net/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bernhard Balkenhol | LinkedIn](https://www.linkedin.com/in/bernhard-balkenhol-29a22ba/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt") (**1977**). *[Information content of chess positions](Workshop_Chess_and_Mathematics#Information "Workshop Chess and Mathematics").* [ACM SIGART Newsletter](ACM#SIG "ACM"), Vol. 62
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Bernhard Balkenhol (**1994**). *Data Compression in Encoding Chess Positions.* [ICCA Journal, Vol. 17, No. 3](ICGA_Journal#17_3 "ICGA Journal"), [zipped ps](http://www.balkenhol.net/papers/icca94.ps.gz)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Bernhard Balkenhol](https://dblp.uni-trier.de/pers/hd/b/Balkenhol:Bernhard.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Dr. Bernhard Balkenhol - Publications](http://www.balkenhol.net/balkenhol.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr. Bernhard Balkenhol - Homepage](http://www.balkenhol.net/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bernhard Balkenhol | LinkedIn](https://www.linkedin.com/in/bernhard-balkenhol-29a22ba/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt") (**1977**). *[Information content of chess positions](Workshop_Chess_and_Mathematics#Information "Workshop Chess and Mathematics").* [ACM SIGART Newsletter](ACM#SIG "ACM"), Vol. 62
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Bernhard Balkenhol (**1994**). *Data Compression in Encoding Chess Positions.* [ICCA Journal, Vol. 17, No. 3](ICGA_Journal#17_3 "ICGA Journal"), [zipped ps](http://www.balkenhol.net/papers/icca94.ps.gz)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Bernhard Balkenhol](https://dblp.uni-trier.de/pers/hd/b/Balkenhol:Bernhard.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Dr. Bernhard Balkenhol - Publications](http://www.balkenhol.net/balkenhol.html)
 
 **[Up one level](People "People")**
 

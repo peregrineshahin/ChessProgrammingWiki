@@ -33,13 +33,13 @@ a German [evangelical](https://en.wikipedia.org/wiki/Evangelical_Church_in_Germa
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Unterbarmen - Kirchenkreis Wuppertal](https://www.evangelisch-wuppertal.de/unterbarmen-1270.html) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Christuskirche: Zentrum am Oberdörnen steht zum Verkauf](https://www.wz.de/nrw/wuppertal/stadtteile/barmen/christuskirche-zentrum-am-oberdoernen-steht-zum-verkauf_aid-29967455), [Westdeutsche Zeitung](https://en.wikipedia.org/wiki/Westdeutsche_Zeitung), April 05, 2013 (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Christuskirche wird zu Senioreneinrichtung](https://www.wz.de/nrw/wuppertal/stadtteile/barmen/christuskirche-wird-zu-senioreneinrichtung_aid-26862275), [Westdeutsche Zeitung](https://en.wikipedia.org/wiki/Westdeutsche_Zeitung), June 22, 2017 (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Dirk Frickenschmidt (**1998**). *Schach mit dem Computer*. [amazon.de](https://www.amazon.de/Schach-mit-Computer-Schach--Bibliothek/dp/3806807477) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Rebuttal to Chris Whittington](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/41a10a903c89a683) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 17, 1998
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Hamburg 1985, [Garry Kasparov](Garry_Kasparov "Garry Kasparov") simultaneous exhibition versus chess computers 32-0, from [Chess Metaphors – Artificial Intelligence and the Human Mind](http://en.chessbase.com/post/che-metaphors-artificial-intelligence-and-the-human-mind) by [Diego Rasskin-Gutman](index.php?title=Diego_Rasskin-Gutman&action=edit&redlink=1 "Diego Rasskin-Gutman (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), January 28, 2010
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Character assassination from Wikipedia](https://en.wikipedia.org/wiki/Character_assassination)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Unterbarmen - Kirchenkreis Wuppertal](https://www.evangelisch-wuppertal.de/unterbarmen-1270.html) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Christuskirche: Zentrum am Oberdörnen steht zum Verkauf](https://www.wz.de/nrw/wuppertal/stadtteile/barmen/christuskirche-zentrum-am-oberdoernen-steht-zum-verkauf_aid-29967455), [Westdeutsche Zeitung](https://en.wikipedia.org/wiki/Westdeutsche_Zeitung), April 05, 2013 (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Christuskirche wird zu Senioreneinrichtung](https://www.wz.de/nrw/wuppertal/stadtteile/barmen/christuskirche-wird-zu-senioreneinrichtung_aid-26862275), [Westdeutsche Zeitung](https://en.wikipedia.org/wiki/Westdeutsche_Zeitung), June 22, 2017 (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Dirk Frickenschmidt (**1998**). *Schach mit dem Computer*. [amazon.de](https://www.amazon.de/Schach-mit-Computer-Schach--Bibliothek/dp/3806807477) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Rebuttal to Chris Whittington](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/41a10a903c89a683) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 17, 1998
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Hamburg 1985, [Garry Kasparov](Garry_Kasparov "Garry Kasparov") simultaneous exhibition versus chess computers 32-0, from [Chess Metaphors – Artificial Intelligence and the Human Mind](http://en.chessbase.com/post/che-metaphors-artificial-intelligence-and-the-human-mind) by [Diego Rasskin-Gutman](index.php?title=Diego_Rasskin-Gutman&action=edit&redlink=1 "Diego Rasskin-Gutman (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), January 28, 2010
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Character assassination from Wikipedia](https://en.wikipedia.org/wiki/Character_assassination)
 
 **[Up one level](People "People")**
 

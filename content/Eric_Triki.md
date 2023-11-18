@@ -31,10 +31,10 @@ Spectator talking with Eric Triki and [Franck Zibi](Franck_Zibi "Franck Zibi"), 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Massy 2002/05/26 - Tournoi de programmes d'Echecs](https://web.archive.org/web/20080704123358/http://www.ludochess.com/trn_massy2002/tournoi.php3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eric Triki - LinkedIn](https://www.linkedin.com/in/eric-triki-2614485/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Massy 2002/05/26 - Tournoi de programmes d'Echecs](https://web.archive.org/web/20080704123358/http://www.ludochess.com/trn_massy2002/tournoi.php3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Eric Triki](https://dblp.org/pers/t/Triki:Eric.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Massy 2002/05/26 - Tournoi de programmes d'Echecs](https://web.archive.org/web/20080704123358/http://www.ludochess.com/trn_massy2002/tournoi.php3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eric Triki - LinkedIn](https://www.linkedin.com/in/eric-triki-2614485/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Massy 2002/05/26 - Tournoi de programmes d'Echecs](https://web.archive.org/web/20080704123358/http://www.ludochess.com/trn_massy2002/tournoi.php3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Eric Triki](https://dblp.org/pers/t/Triki:Eric.html)
 
 **[Up one level](People "People")**
 

@@ -109,11 +109,11 @@ a minimalistic chess program written by [Andy Thomason](Andy_Thomason "Andy Thom
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tom Fürstenberg](Tom_F%C3%BCrstenberg "Tom Fürstenberg") (**1980**). *The First World Microcomputer Championship*. [Chess](https://en.wikipedia.org/wiki/CHESS_magazine), [December 1980](http://www.chesscomputeruk.com/html/publication_archive.html) mentions Killer Chess
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html) mentions K. Chess
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [London 1980 - Chess - Round 3 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=13&round=3&id=7)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [London 1980 - Chess - Round 4 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=13&round=4&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tom Fürstenberg](Tom_F%C3%BCrstenberg "Tom Fürstenberg") (**1980**). *The First World Microcomputer Championship*. [Chess](https://en.wikipedia.org/wiki/CHESS_magazine), [December 1980](http://www.chesscomputeruk.com/html/publication_archive.html) mentions Killer Chess
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html) mentions K. Chess
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [London 1980 - Chess - Round 3 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=13&round=3&id=7)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [London 1980 - Chess - Round 4 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=13&round=4&id=5)
 
 **[Up one level](Engines "Engines")**
 

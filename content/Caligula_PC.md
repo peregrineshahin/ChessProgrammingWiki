@@ -42,8 +42,8 @@ Caligula is not a substitute for [DanaSah](DanaSah "DanaSah"), Pedro Castro's fi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Caligula kitchingi](https://en.wikipedia.org/wiki/Caligula_kitchingi) adult from [Texas A&M University](https://en.wikipedia.org/wiki/Texas_A%26M_University) Insect Collection in [College Station, Texas](https://en.wikipedia.org/wiki/College_Station,_Texas), Author: [Shawn Hanrahan](https://en.wikipedia.org/wiki/User:Kugamazog), July 18, 2009
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Caligula 0.3](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=49221) by [Pedro Castro](Pedro_Castro "Pedro Castro"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 29, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Caligula kitchingi](https://en.wikipedia.org/wiki/Caligula_kitchingi) adult from [Texas A&M University](https://en.wikipedia.org/wiki/Texas_A%26M_University) Insect Collection in [College Station, Texas](https://en.wikipedia.org/wiki/College_Station,_Texas), Author: [Shawn Hanrahan](https://en.wikipedia.org/wiki/User:Kugamazog), July 18, 2009
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Caligula 0.3](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=49221) by [Pedro Castro](Pedro_Castro "Pedro Castro"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 29, 2008
 
 **[Up one Level](Engines "Engines")**
 

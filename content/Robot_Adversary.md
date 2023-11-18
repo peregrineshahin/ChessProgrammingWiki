@@ -44,10 +44,10 @@ title: Robot Adversary
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Novag Robot Adversary chess computer | Kikuyumoja](http://kikuyumoja.com/2011/10/23/novag-robot-adversary-chess-computer/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Novag Chess Robot Adversary (1982) | Flickr - Fotosharing!](http://www.flickr.com/photos/kikus/6272683530/in/photostream/) by [kikuyumoja](http://www.flickr.com/photos/kikus/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Novag Robot Adversary](http://www.schach-computer.info/wiki/index.php/Novag_Robot_Adversary) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Milton Bradley Phantom](http://www.chesscomputeruk.com/html/milton_bradley_phantom.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Novag Robot Adversary chess computer | Kikuyumoja](http://kikuyumoja.com/2011/10/23/novag-robot-adversary-chess-computer/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Novag Chess Robot Adversary (1982) | Flickr - Fotosharing!](http://www.flickr.com/photos/kikus/6272683530/in/photostream/) by [kikuyumoja](http://www.flickr.com/photos/kikus/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Novag Robot Adversary](http://www.schach-computer.info/wiki/index.php/Novag_Robot_Adversary) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Milton Bradley Phantom](http://www.chesscomputeruk.com/html/milton_bradley_phantom.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one level](Engines "Engines")**
 

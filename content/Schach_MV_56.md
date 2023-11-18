@@ -29,8 +29,8 @@ Despite its lack of [search](Search "Search") and [opening book](Opening_Book "O
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](https://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sieger bleibt nüchtern: Tells Geschoß: Schachmatt](https://www.computerwoche.de/a/tells-geschoss-schachmatt,1205122), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](https://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sieger bleibt nüchtern: Tells Geschoß: Schachmatt](https://www.computerwoche.de/a/tells-geschoss-schachmatt,1205122), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
 
 **[Up one level](Engines "Engines")**
 

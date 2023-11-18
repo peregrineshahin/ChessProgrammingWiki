@@ -34,12 +34,12 @@ Bronze with [Fuego](https://www.game-ai-forum.org/icga-tournaments/program.php?i
 
 ## [Beijing 2008](http://www.geocities.jp/hideki_katoh/13days/index.html) » [13th Computer Olympiad](13th_Computer_Olympiad "13th Computer Olympiad") [Pamplona 2009](https://picasaweb.google.com/117053534374902710729/14thComputerOlympiadPamplona)  » [14th Computer Olympiad](14th_Computer_Olympiad "14th Computer Olympiad") [Kanazawa 2010](https://picasaweb.google.com/117053534374902710729/15thComputerOlympiadKanazawa) » [15th Computer Olympiad](15th_Computer_Olympiad "15th Computer Olympiad") References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pamplona 2009 (WCCC - CO - ACGC) Photo Album](http://picasaweb.google.es/curtasuncein/Pamplona2009WCCCCOACGC#) by [Carlos Urtasun](http://es.linkedin.com/in/curtasun)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Details of Program: Fudo](http://www.computer-go.info/db/oprog.php?a=Fudo)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sensei's Library: Zen (go program)](http://senseis.xmp.net/?ZenGoProgram)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tencho no Igo has been released](http://justplaygo.com/index.php/tencho_no_igo_has_been_released)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), November 22, 2011
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Photos 2013 Events: day 3](https://icga.leidenuniv.nl/?page_id=800), [ICGA](ICGA "ICGA")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pamplona 2009 (WCCC - CO - ACGC) Photo Album](http://picasaweb.google.es/curtasuncein/Pamplona2009WCCCCOACGC#) by [Carlos Urtasun](http://es.linkedin.com/in/curtasun)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Details of Program: Fudo](http://www.computer-go.info/db/oprog.php?a=Fudo)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sensei's Library: Zen (go program)](http://senseis.xmp.net/?ZenGoProgram)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tencho no Igo has been released](http://justplaygo.com/index.php/tencho_no_igo_has_been_released)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), November 22, 2011
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Photos 2013 Events: day 3](https://icga.leidenuniv.nl/?page_id=800), [ICGA](ICGA "ICGA")
 
 **[Up one level](People "People")**
 

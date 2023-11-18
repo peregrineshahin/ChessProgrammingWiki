@@ -106,32 +106,32 @@ Chrilly is regularly column writer in the German chess magazines KARL <a id="cit
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Chrilly Donninger (**1987**). *Mathematische, statistische und computergestützte Methoden der Netzwerkanalyse*. (Mathematical, statistical and programming methods for the Analysis of networks), Ph.D. thesis, [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> TU Vienna mentioned in [Curriculum Vitae - Christian "Chrilly" Donninger](http://www.godotfinance.com/pdf/ChDonningerCV.pdf) (pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Pal Group of Companies](http://www.palgroup.com/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Al Nahyan family from Wikipedia](https://en.wikipedia.org/wiki/Al_Nahyan_family)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [First Gulf Bank - Key people - Vice-Chairman - Wikipedia](https://en.wikipedia.org/wiki/First_Gulf_Bank#Key_people)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Hydra (chess) from Wikipedia](https://en.wikipedia.org/wiki/Hydra_%28chess%29)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Das Programm der Langen Nacht der Wissenschaft - STERNSTUNDEN. Lange Nacht der Wissenschaften Jena 25.11.2011](http://www.2011.sternstunden-jena.de/programmpunkt-anzeigen/event/751.html) (German)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Sibyl Godot Finance Server](http://www.godotfinance.com/) by Chrilly Donninger and [Steffen Jakob](Steffen_A._Jakob "Steffen A. Jakob")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Curriculum Vitae - Christian "Chrilly" Donninger](http://www.godotfinance.com/pdf/ChDonningerCV.pdf) (pdf)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a>  [Re: Another qBASIC Chess program -Dieter Steinwender (in english+comment](https://www.stmintz.com/ccc/index.php?id=286619) by Tony Worsman, [CCC](CCC "CCC"), February 24, 2003
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> Chrilly Donninger (**1993**). *Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [AUTO232.TXT - Technische Spezifikation des 232-Protokolls](https://groups.google.com/d/msg/rec.games.chess.computer/Y26C-mjUWqE/yojGpxsy4gkJ) (German) by [Harald Faber](index.php?title=Harald_Faber&action=edit&redlink=1 "Harald Faber (page does not exist)"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 08, 1997
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Auto232 player - Auto232 and Winboard](http://horizonchess.com/FAQ/Winboard/auto232player.html) by [Aaron Tay](Aaron_Tay "Aaron Tay"), hosted by [Ron Murawski](Ron_Murawski "Ron Murawski")
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> Chrilly Donninger (**1996**). *CHE: A Graphical Language for Expressing Chess Knowledge*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [CHE docs in English / Nimzo 3 version](https://www.stmintz.com/ccc/index.php?id=198528) by Mike S., [CCC](CCC "CCC"), November 22, 2001
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Re: I know something of Dr.Donninger](https://www.hiarcs.net/forums/viewtopic.php?t=398&start=16) by Chrilly Donninger, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 11, 2007
-1. <a id="cite-ref-18" href="#cite-note-18">[18]</a> Chrilly Donninger (**1994**). *A la Recherche du Temps Perdu: 'That was easy'* . [ICCA Journal, Vol. 17, No. 1](ICGA_Journal#17_1 "ICGA Journal")
-1. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), Chrilly Donninger, [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), [Valentin Rottmann](Valentin_Rottmann "Valentin Rottmann") (**1994**). *On Timing, Permanent Brain and Human Intervention.* [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
-1. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [Guernica from Wikipedia](https://en.wikipedia.org/wiki/Guernica_%28town%29)
-1. <a id="cite-ref-21" href="#cite-note-21">[21]</a> [Why I am not going to the Graz WCCC](https://www.stmintz.com/ccc/index.php?id=291320) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), April 01, 2003
-1. <a id="cite-ref-22" href="#cite-note-22">[22]</a> [KARL das kulturelle Schachmagazin](http://www.karlonline.org/home.htm) (German)
-1. <a id="cite-ref-23" href="#cite-note-23">[23]</a> [Kaissiber](http://www.kaissiber.de/html/info_in_english.html) Info in English
-1. <a id="cite-ref-24" href="#cite-note-24">[24]</a> [Dr. Christian Donninger](http://www.computerschach.de/index.php?option=com_content&task=view&id=220&Itemid=151) - [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") Author profile
-1. <a id="cite-ref-25" href="#cite-note-25">[25]</a> [Amazon.de: Dr. Christian Donninger "vulgo Chrilly"s Rezension von Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data](http://www.amazon.de/review/RVLNM5E224FYE)
-1. <a id="cite-ref-26" href="#cite-note-26">[26]</a> quoted with the kind permission of Chrilly and [Enir](Enrique_Irazoqui "Enrique Irazoqui") » [Hydra](Hydra "Hydra"), [Rybka](Rybka "Rybka")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Chrilly Donninger (**1987**). *Mathematische, statistische und computergestützte Methoden der Netzwerkanalyse*. (Mathematical, statistical and programming methods for the Analysis of networks), Ph.D. thesis, [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> TU Vienna mentioned in [Curriculum Vitae - Christian "Chrilly" Donninger](http://www.godotfinance.com/pdf/ChDonningerCV.pdf) (pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Pal Group of Companies](http://www.palgroup.com/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Al Nahyan family from Wikipedia](https://en.wikipedia.org/wiki/Al_Nahyan_family)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [First Gulf Bank - Key people - Vice-Chairman - Wikipedia](https://en.wikipedia.org/wiki/First_Gulf_Bank#Key_people)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Hydra (chess) from Wikipedia](https://en.wikipedia.org/wiki/Hydra_%28chess%29)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Das Programm der Langen Nacht der Wissenschaft - STERNSTUNDEN. Lange Nacht der Wissenschaften Jena 25.11.2011](http://www.2011.sternstunden-jena.de/programmpunkt-anzeigen/event/751.html) (German)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Sibyl Godot Finance Server](http://www.godotfinance.com/) by Chrilly Donninger and [Steffen Jakob](Steffen_A._Jakob "Steffen A. Jakob")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Curriculum Vitae - Christian "Chrilly" Donninger](http://www.godotfinance.com/pdf/ChDonningerCV.pdf) (pdf)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a>  [Re: Another qBASIC Chess program -Dieter Steinwender (in english+comment](https://www.stmintz.com/ccc/index.php?id=286619) by Tony Worsman, [CCC](CCC "CCC"), February 24, 2003
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> Chrilly Donninger (**1993**). *Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [AUTO232.TXT - Technische Spezifikation des 232-Protokolls](https://groups.google.com/d/msg/rec.games.chess.computer/Y26C-mjUWqE/yojGpxsy4gkJ) (German) by [Harald Faber](index.php?title=Harald_Faber&action=edit&redlink=1 "Harald Faber (page does not exist)"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 08, 1997
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Auto232 player - Auto232 and Winboard](http://horizonchess.com/FAQ/Winboard/auto232player.html) by [Aaron Tay](Aaron_Tay "Aaron Tay"), hosted by [Ron Murawski](Ron_Murawski "Ron Murawski")
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> Chrilly Donninger (**1996**). *CHE: A Graphical Language for Expressing Chess Knowledge*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [CHE docs in English / Nimzo 3 version](https://www.stmintz.com/ccc/index.php?id=198528) by Mike S., [CCC](CCC "CCC"), November 22, 2001
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Re: I know something of Dr.Donninger](https://www.hiarcs.net/forums/viewtopic.php?t=398&start=16) by Chrilly Donninger, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 11, 2007
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> Chrilly Donninger (**1994**). *A la Recherche du Temps Perdu: 'That was easy'* . [ICCA Journal, Vol. 17, No. 1](ICGA_Journal#17_1 "ICGA Journal")
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), Chrilly Donninger, [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), [Valentin Rottmann](Valentin_Rottmann "Valentin Rottmann") (**1994**). *On Timing, Permanent Brain and Human Intervention.* [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Guernica from Wikipedia](https://en.wikipedia.org/wiki/Guernica_%28town%29)
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Why I am not going to the Graz WCCC](https://www.stmintz.com/ccc/index.php?id=291320) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), April 01, 2003
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [KARL das kulturelle Schachmagazin](http://www.karlonline.org/home.htm) (German)
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Kaissiber](http://www.kaissiber.de/html/info_in_english.html) Info in English
+1. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Dr. Christian Donninger](http://www.computerschach.de/index.php?option=com_content&task=view&id=220&Itemid=151) - [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") Author profile
+1. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Amazon.de: Dr. Christian Donninger "vulgo Chrilly"s Rezension von Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data](http://www.amazon.de/review/RVLNM5E224FYE)
+1. <a id="cite-ref-26" href="#cite-note-26">↑</a> quoted with the kind permission of Chrilly and [Enir](Enrique_Irazoqui "Enrique Irazoqui") » [Hydra](Hydra "Hydra"), [Rybka](Rybka "Rybka")
 
 **[Up one level](People "People")**
 

@@ -92,9 +92,9 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rachel Baker Gale](https://en.wikipedia.org/wiki/Rachel_Baker_Gale) (**1894**). *[Mr. Bob; a comedy in two acts](https://commons.wikimedia.org/wiki/File:Mr._Bob;_a_comedy_in_two_acts_(IA_mrbobcomedyintwo00gale_1).pdf)*. [Boston, Walter H. Baker & Co.](https://en.wikipedia.org/wiki/List_of_booksellers_in_Boston), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Release v0.1 · bobsquared/Mr\_Bob\_Chess · GitHub](https://github.com/bobsquared/Mr_Bob_Chess/releases/tag/v0.1)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Features based on [Release Mr Bob v0.9.0 · bobsquared/Mr\_Bob\_Chess · GitHub](https://github.com/bobsquared/Mr_Bob_Chess/releases/tag/v0.9.0)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rachel Baker Gale](https://en.wikipedia.org/wiki/Rachel_Baker_Gale) (**1894**). *[Mr. Bob; a comedy in two acts](https://commons.wikimedia.org/wiki/File:Mr._Bob;_a_comedy_in_two_acts_(IA_mrbobcomedyintwo00gale_1).pdf)*. [Boston, Walter H. Baker & Co.](https://en.wikipedia.org/wiki/List_of_booksellers_in_Boston), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Release v0.1 · bobsquared/Mr\_Bob\_Chess · GitHub](https://github.com/bobsquared/Mr_Bob_Chess/releases/tag/v0.1)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Features based on [Release Mr Bob v0.9.0 · bobsquared/Mr\_Bob\_Chess · GitHub](https://github.com/bobsquared/Mr_Bob_Chess/releases/tag/v0.9.0)
 
 **[Up one level](Engines "Engines")**
 

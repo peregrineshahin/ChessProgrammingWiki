@@ -101,7 +101,7 @@ on the public [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web).
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [netChess Computer Chess Utility](https://web.archive.org/web/20140724074729/http://home.arcor.de/bernhard.wallner/netChess.html) by [Bernhard Wallner](index.php?title=Bernhard_Wallner&action=edit&redlink=1 "Bernhard Wallner (page does not exist)") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [netChess Computer Chess Utility](https://web.archive.org/web/20140724074729/http://home.arcor.de/bernhard.wallner/netChess.html) by [Bernhard Wallner](index.php?title=Bernhard_Wallner&action=edit&redlink=1 "Bernhard Wallner (page does not exist)") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](Chess "Chess")**
 

@@ -50,12 +50,12 @@ Along with Michael Thielscher, Stephan Schiffel is co-author of the General Game
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stephan Schiffel](http://www.ru.is/kennarar/stephans/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Stephan Schiffel (**2011**). *Knowledge-Based General Game Playing*. Ph.D. thesis, [Dresden University of Technology](https://en.wikipedia.org/wiki/Dresden_University_of_Technology), advisor [Michael Thielscher](Michael_Thielscher "Michael Thielscher") and [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [pdf](http://www.qucosa.de/fileadmin/data/qucosa/documents/8874/Stephan_Schiffel_Diss.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Research - General Game Playing](http://www.general-game-playing.de/research.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Stephan Schiffel](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Schiffel:Stephan.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Stephan Schiffel - Google Scholar Citations](https://scholar.google.com/citations?user=jRcb4G4AAAAJ&hl=en)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Game Description Language from Wikipedia](https://en.wikipedia.org/wiki/Game_Description_Language)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stephan Schiffel](http://www.ru.is/kennarar/stephans/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Stephan Schiffel (**2011**). *Knowledge-Based General Game Playing*. Ph.D. thesis, [Dresden University of Technology](https://en.wikipedia.org/wiki/Dresden_University_of_Technology), advisor [Michael Thielscher](Michael_Thielscher "Michael Thielscher") and [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [pdf](http://www.qucosa.de/fileadmin/data/qucosa/documents/8874/Stephan_Schiffel_Diss.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Research - General Game Playing](http://www.general-game-playing.de/research.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Stephan Schiffel](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Schiffel:Stephan.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Stephan Schiffel - Google Scholar Citations](https://scholar.google.com/citations?user=jRcb4G4AAAAJ&hl=en)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Game Description Language from Wikipedia](https://en.wikipedia.org/wiki/Game_Description_Language)
 
 **[Up one level](People "People")**
 

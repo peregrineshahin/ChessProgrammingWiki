@@ -54,15 +54,15 @@ an American mathematician, science writer, chess [national master](https://en.wi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess - Dana Mackenzie](http://danamackenzie.com/about/chess/), Photo by [Bill Lovejoy](http://photos.santacruzsentinel.com/tag/bill-lovejoy/) for the [Santa Cruz Sentinel](https://en.wikipedia.org/wiki/Santa_Cruz_Sentinel)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [LM Dana Mackenzie - ChessLecture](https://blog.chesslecture.com/meet-the-masters/lm-dana-mackenzie/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess - Dana Mackenzie](http://danamackenzie.com/about/chess/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dana Mackenzie - The Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=17382)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Dana Mackenzie (**2012**). *[The Universe in Zero Words](https://press.princeton.edu/titles/9662.html)*. [Princeton University Press](https://en.wikipedia.org/wiki/Princeton_University_Press)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [AMS :: Whats Happening in the Mathematical Sciences](http://www.ams.org/samplings/math-history/happening-series)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Dana Mackenzie – Hachette Book Group](https://www.hachettebookgroup.com/contributor/dana-mackenzie/)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Giant-impact hypothesis from Wikipedia](https://en.wikipedia.org/wiki/Giant-impact_hypothesis)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Article:"How Alpha Zero Sees/Wins"](http://www.talkchess.com/forum/viewtopic.php?t=66349) by AA Ross, [CCC](CCC "CCC"), January 17, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess - Dana Mackenzie](http://danamackenzie.com/about/chess/), Photo by [Bill Lovejoy](http://photos.santacruzsentinel.com/tag/bill-lovejoy/) for the [Santa Cruz Sentinel](https://en.wikipedia.org/wiki/Santa_Cruz_Sentinel)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [LM Dana Mackenzie - ChessLecture](https://blog.chesslecture.com/meet-the-masters/lm-dana-mackenzie/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess - Dana Mackenzie](http://danamackenzie.com/about/chess/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dana Mackenzie - The Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=17382)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Dana Mackenzie (**2012**). *[The Universe in Zero Words](https://press.princeton.edu/titles/9662.html)*. [Princeton University Press](https://en.wikipedia.org/wiki/Princeton_University_Press)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [AMS :: Whats Happening in the Mathematical Sciences](http://www.ams.org/samplings/math-history/happening-series)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Dana Mackenzie – Hachette Book Group](https://www.hachettebookgroup.com/contributor/dana-mackenzie/)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Giant-impact hypothesis from Wikipedia](https://en.wikipedia.org/wiki/Giant-impact_hypothesis)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Article:"How Alpha Zero Sees/Wins"](http://www.talkchess.com/forum/viewtopic.php?t=66349) by AA Ross, [CCC](CCC "CCC"), January 17, 2018
 
 **[Up one level](People "People")**
 

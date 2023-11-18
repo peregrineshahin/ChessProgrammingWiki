@@ -35,14 +35,14 @@ He has further created various [PGN](Portable_Game_Notation "Portable Game Notat
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [My picture album](http://www.oocities.org/siliconvalley/lab/6606/pictures.htm) from [George Lyapko's Home Page](http://www.oocities.org/siliconvalley/lab/6606/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Co-ordinate square systems](https://www.stmintz.com/ccc/index.php?id=245564) by George Lyapko, [CCC](CCC "CCC"), August 14, 2002
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Olympiads 2004 : Bestia Nationality](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=46770) by Nicolas Normand, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 08, 2004
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [George Lyapko's Home Page](http://www.oocities.org/siliconvalley/lab/6606/) (outdated)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Tool to recreate PGN from winboard.debug?](http://www.talkchess.com/forum/viewtopic.php?t=46721) by [Sven Schüle](Sven_Sch%C3%BCle "Sven Schüle"), [CCC](CCC "CCC"), January 01, 2013
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Lyapko George's WinBoard related page](http://www.oocities.org/siliconvalley/lab/6606/winboard.htm) (outdated)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [1234 Modern End Game Studies - Free eBooks Download](http://www.ebook3000.com/1234-Modern-End-Game-Studies_118820.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [George Lyapko Chess pages](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=50524) by [Ron Murawski](Ron_Murawski "Ron Murawski"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 31, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [My picture album](http://www.oocities.org/siliconvalley/lab/6606/pictures.htm) from [George Lyapko's Home Page](http://www.oocities.org/siliconvalley/lab/6606/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Co-ordinate square systems](https://www.stmintz.com/ccc/index.php?id=245564) by George Lyapko, [CCC](CCC "CCC"), August 14, 2002
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Olympiads 2004 : Bestia Nationality](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=46770) by Nicolas Normand, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 08, 2004
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [George Lyapko's Home Page](http://www.oocities.org/siliconvalley/lab/6606/) (outdated)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tool to recreate PGN from winboard.debug?](http://www.talkchess.com/forum/viewtopic.php?t=46721) by [Sven Schüle](Sven_Sch%C3%BCle "Sven Schüle"), [CCC](CCC "CCC"), January 01, 2013
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Lyapko George's WinBoard related page](http://www.oocities.org/siliconvalley/lab/6606/winboard.htm) (outdated)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [1234 Modern End Game Studies - Free eBooks Download](http://www.ebook3000.com/1234-Modern-End-Game-Studies_118820.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [George Lyapko Chess pages](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=50524) by [Ron Murawski](Ron_Murawski "Ron Murawski"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 31, 2009
 
 **[Up one Level](People "People")**
 

@@ -47,7 +47,7 @@ an American software developer and computer chess programmer. He is author of th
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dorky Chess](http://home.insightbb.com/~mmcknight/) by Matt McKnight
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dorky Chess](http://home.insightbb.com/~mmcknight/) by Matt McKnight
 
 **[Up one level](People "People")**
 

@@ -40,10 +40,10 @@ and the recent [CSVN Programmers Tournament](CSVN_Programmers_Tournament "CSVN P
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Cropped from Image 21 of [30e Gebruikerstoernooi](http://www.computerschaak.nl/index.php/nieuws/51-toernooien/698-indruk-van-het-30e-gebruikerstoernooi)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CSVNP25.html:ONK 2000 te Leiden. In tekstformaat. Foto's 3e Gebruikerstoernooi 200](http://www.csvnsupplementsite.nl/csvnp25.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Schaakcomputer database van Hein Veldhuis - Zie ook: History - Geschichte](http://www.schaakcomputers.nl/hein_veldhuis/database/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> The Dutch version of the interview by Rob van Son appeared in [Computerschaak](Computerschaak "Computerschaak") 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Cropped from Image 21 of [30e Gebruikerstoernooi](http://www.computerschaak.nl/index.php/nieuws/51-toernooien/698-indruk-van-het-30e-gebruikerstoernooi)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CSVNP25.html:ONK 2000 te Leiden. In tekstformaat. Foto's 3e Gebruikerstoernooi 200](http://www.csvnsupplementsite.nl/csvnp25.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Schaakcomputer database van Hein Veldhuis - Zie ook: History - Geschichte](http://www.schaakcomputers.nl/hein_veldhuis/database/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> The Dutch version of the interview by Rob van Son appeared in [Computerschaak](Computerschaak "Computerschaak") 2003
 
 **[Up one level](People "People")**
 

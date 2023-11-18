@@ -34,13 +34,13 @@ More recently, Steffen worked with [Chrilly Donninger](Chrilly_Donninger "Chrill
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Steffen's Gallery](http://www.jakob.at/steffen/gallery.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Steffen Jakob](http://www.jakob.at/steffen/lebenslauf/lebenslauf-steffen-jakob.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hossa's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=122)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hossa - A Chess Program By Steffen A. Jakob](http://www.jakob.at/steffen/hossa/index.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Brause](http://www.jakob.at/steffen/chess/brause.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [The Halloween-Attack in the Four Knight Game](http://www.jakob.at/steffen/halloween/) © 1996-1997 by Steffen A. Jakob
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Sibyl Godot Finance Server](http://www.godotfinance.com/) by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") and Steffen Jakob
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Steffen's Gallery](http://www.jakob.at/steffen/gallery.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Steffen Jakob](http://www.jakob.at/steffen/lebenslauf/lebenslauf-steffen-jakob.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hossa's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=122)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hossa - A Chess Program By Steffen A. Jakob](http://www.jakob.at/steffen/hossa/index.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Brause](http://www.jakob.at/steffen/chess/brause.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The Halloween-Attack in the Four Knight Game](http://www.jakob.at/steffen/halloween/) © 1996-1997 by Steffen A. Jakob
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Sibyl Godot Finance Server](http://www.godotfinance.com/) by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") and Steffen Jakob
 
 **[Up one level](People "People")**
 

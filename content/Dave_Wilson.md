@@ -13,8 +13,8 @@ a British computer scientist and during the 70s and 80s, chess programmer. He is
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Advance Warning*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html), [pdf](http://www.chesscomputeruk.com/PCW_November_1983.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Advance's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=404)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Advance Warning*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html), [pdf](http://www.chesscomputeruk.com/PCW_November_1983.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Advance's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=404)
 
 **[Up one level](People "People")**
 

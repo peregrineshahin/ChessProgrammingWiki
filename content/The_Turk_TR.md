@@ -41,11 +41,11 @@ The Turk applies [alpha-beta](Alpha-Beta "Alpha-Beta") [PVS](Principal_Variation
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Copper engraving from the book: [Karl Gottlieb von Windisch](https://en.wikipedia.org/wiki/Karl_Gottlieb_von_Windisch) (**1783**). *Briefe über den Schachspieler [von Kempelen](https://en.wikipedia.org/wiki/Wolfgang_von_Kempelen) nebst drey Kupferstichen die diese berühmte Maschine vorstellen*. [The Turk from Wikipedia](https://en.wikipedia.org/wiki/The_Turk), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Wolfgang von Kempelen from Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_von_Kempelen)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Johann Nepomuk Maelzel from Wikipedia](https://en.wikipedia.org/wiki/Johann_Nepomuk_Maelzel)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Maelzel's Chess Player from Wikipedia](https://en.wikipedia.org/wiki/Maelzel%27s_Chess_Player)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Turk - Home](http://theturk.codeplex.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Copper engraving from the book: [Karl Gottlieb von Windisch](https://en.wikipedia.org/wiki/Karl_Gottlieb_von_Windisch) (**1783**). *Briefe über den Schachspieler [von Kempelen](https://en.wikipedia.org/wiki/Wolfgang_von_Kempelen) nebst drey Kupferstichen die diese berühmte Maschine vorstellen*. [The Turk from Wikipedia](https://en.wikipedia.org/wiki/The_Turk), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Wolfgang von Kempelen from Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_von_Kempelen)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Johann Nepomuk Maelzel from Wikipedia](https://en.wikipedia.org/wiki/Johann_Nepomuk_Maelzel)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Maelzel's Chess Player from Wikipedia](https://en.wikipedia.org/wiki/Maelzel%27s_Chess_Player)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Turk - Home](http://theturk.codeplex.com/)
 
 **[Up one level](Engines "Engines")**
 

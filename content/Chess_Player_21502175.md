@@ -39,10 +39,10 @@ The successor, the **Chess Player 2175**, also commercially called **Chess Champ
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Atari ST Old Computer Chess Game Collection - Chess Player 2150](http://www.spacious-mind.com/html/atari_st_chess_player_2150.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Oldie-Artikel 4](http://thorstenczub.de/oldie4.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Checkmate Amiga - HOL database](http://hol.abime.net/3002)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Atari ST Old Computer Chess Game Collection - Chess Player 2150](http://www.spacious-mind.com/html/atari_st_chess_player_2150.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Oldie-Artikel 4](http://thorstenczub.de/oldie4.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Checkmate Amiga - HOL database](http://hol.abime.net/3002)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
 
 **[Up one Level](Engines "Engines")**
 

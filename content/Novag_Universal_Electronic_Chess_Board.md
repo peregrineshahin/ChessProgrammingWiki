@@ -68,12 +68,12 @@ a wooden chess board with magnetic sensors released by [Novag](Novag "Novag") in
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Universal Chess Board with Sapphire II](https://www.flickr.com/photos/10261668@N05/858169517/in/album-72157600922171918/) from [Novag | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171918/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Universal Chess Board with Super Vip and other](http://www.hiarcs.net/forums/viewtopic.php?t=7725) by dedicate computers, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), March 15, 2016
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mephisto Gideon](http://rebel13.nl/dos/mephisto%20gideon.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Novag Universal Chessboard - Instruction](http://s3.chesshouse.com/manuals/novag-universal-chessboard-chess-computer-manual.pdf) (pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Does the Novag Universal Chessboard work with ChessPartner or ERT ? - Lokasoft - Home of ChessPartner](http://www.lokasoft.nl/does-the-novag-universal-chessboard-work-with-chesspartner-or-ert-.aspx)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Extensions and Drivers](http://www.tim-mann.org/extensions.html#sensory) from [Tim Mann's](Tim_Mann "Tim Mann") Chess Pages
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Universal Chess Board with Sapphire II](https://www.flickr.com/photos/10261668@N05/858169517/in/album-72157600922171918/) from [Novag | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171918/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Universal Chess Board with Super Vip and other](http://www.hiarcs.net/forums/viewtopic.php?t=7725) by dedicate computers, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), March 15, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mephisto Gideon](http://rebel13.nl/dos/mephisto%20gideon.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Novag Universal Chessboard - Instruction](http://s3.chesshouse.com/manuals/novag-universal-chessboard-chess-computer-manual.pdf) (pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Does the Novag Universal Chessboard work with ChessPartner or ERT ? - Lokasoft - Home of ChessPartner](http://www.lokasoft.nl/does-the-novag-universal-chessboard-work-with-chesspartner-or-ert-.aspx)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Extensions and Drivers](http://www.tim-mann.org/extensions.html#sensory) from [Tim Mann's](Tim_Mann "Tim Mann") Chess Pages
 
 **[Up one level](Sensory_Board "Sensory Board")**
 

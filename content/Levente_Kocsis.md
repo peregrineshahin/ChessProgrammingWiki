@@ -70,13 +70,13 @@ The [Magog](https://www.game-ai-forum.org/icga-tournaments/program.php?id=137) t
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Levente Kocsis | Data Mining and Search Group](https://dms.sztaki.hu/en/people/levente-kocsis)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Levente Kocsis (**2003**). *Learning Search Decisions*. Ph.D thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](https://project.dke.maastrichtuniversity.nl/games/files/phd/Kocsis_thesis.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Levente Kocsis, [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2006**). *[Bandit based Monte-Carlo Planning](http://www.computer-go.info/resources/bandit.html)*
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [Marc Schoenauer](Marc_Schoenauer "Marc Schoenauer"), [Michèle Sebag](Mich%C3%A8le_Sebag "Michèle Sebag"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), Levente Kocsis, [David Silver](David_Silver "David Silver"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2012**). *[The Grand Challenge of Computer Go: Monte Carlo Tree Search and Extensions](http://dl.acm.org/citation.cfm?id=2093548.2093574)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 55, No. 3, [pdf preprint](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Applications_files/grand-challenge.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [MAGOG](http://erikvanderwerf.tengen.nl/magog.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Publications - Maastricht University](https://dke.maastrichtuniversity.nl/m.winands/publications.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Levente Kocsis | Data Mining and Search Group](https://dms.sztaki.hu/en/people/levente-kocsis)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Levente Kocsis (**2003**). *Learning Search Decisions*. Ph.D thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](https://project.dke.maastrichtuniversity.nl/games/files/phd/Kocsis_thesis.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Levente Kocsis, [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2006**). *[Bandit based Monte-Carlo Planning](http://www.computer-go.info/resources/bandit.html)*
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [Marc Schoenauer](Marc_Schoenauer "Marc Schoenauer"), [Michèle Sebag](Mich%C3%A8le_Sebag "Michèle Sebag"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), Levente Kocsis, [David Silver](David_Silver "David Silver"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2012**). *[The Grand Challenge of Computer Go: Monte Carlo Tree Search and Extensions](http://dl.acm.org/citation.cfm?id=2093548.2093574)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 55, No. 3, [pdf preprint](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Applications_files/grand-challenge.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [MAGOG](http://erikvanderwerf.tengen.nl/magog.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Publications - Maastricht University](https://dke.maastrichtuniversity.nl/m.winands/publications.html)
 
 **[Up one level](People "People")**
 

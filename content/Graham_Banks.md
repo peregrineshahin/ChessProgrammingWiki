@@ -21,9 +21,9 @@ a New Zealand senior teacher, head of learning support at Edgewater College <a i
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Edgewater College](http://www.edgewater.school.nz/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Graham Banks - New Zealand | LinkedIn](http://nz.linkedin.com/pub/graham-banks/29/599/180)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Welcome to the CCRL](http://www.computerchess.org.uk/ccrl/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Edgewater College](http://www.edgewater.school.nz/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Graham Banks - New Zealand | LinkedIn](http://nz.linkedin.com/pub/graham-banks/29/599/180)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Welcome to the CCRL](http://www.computerchess.org.uk/ccrl/)
 
 **[Up one Level](People "People")**
 

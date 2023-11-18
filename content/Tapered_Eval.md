@@ -143,12 +143,12 @@ phase = (phase * 256 + (TotalPhase / 2)) / TotalPhase
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - [Ad Parnassum](https://en.wikipedia.org/wiki/File:Polyphony2.JPG), 1932, oil colors, stamped lines, dots stamped in white color and later repainted, on casein paint on canvas on stretcher frame, [Museum of Fine Arts Berne](https://en.wikipedia.org/wiki/Museum_of_Fine_Arts_Berne), [Paul Klee from Wikipedia](https://en.wikipedia.org/wiki/Paul_Klee)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gradus ad Parnassum - Wikipedia](https://en.wikipedia.org/wiki/Gradus_ad_Parnassum)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the [11th World Microcomputer Chess Championship](WMCCC_1991 "WMCCC 1991")*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1979**). *[On the Construction of Evaluation Functions for Large Domains](http://www.bkgm.com/articles/Berliner/EvaluationFunctionsLargeDomains/)*. [III. Smoothness](http://www.bkgm.com/articles/Berliner/EvaluationFunctionsLargeDomains/#sec-3), [IJCAI 1979](Conferences#IJCAI1979 "Conferences"), Tokyo, Vol. 1
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Secrets of Rybka and Fruit from my point of view](https://www.stmintz.com/ccc/index.php?id=470681) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), December 15, 2005
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Deep Learning Chess Engine ?](http://www.talkchess.com/forum/viewtopic.php?t=60883&start=1) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi"), [CCC](CCC "CCC"), July 21, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - [Ad Parnassum](https://en.wikipedia.org/wiki/File:Polyphony2.JPG), 1932, oil colors, stamped lines, dots stamped in white color and later repainted, on casein paint on canvas on stretcher frame, [Museum of Fine Arts Berne](https://en.wikipedia.org/wiki/Museum_of_Fine_Arts_Berne), [Paul Klee from Wikipedia](https://en.wikipedia.org/wiki/Paul_Klee)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gradus ad Parnassum - Wikipedia](https://en.wikipedia.org/wiki/Gradus_ad_Parnassum)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the [11th World Microcomputer Chess Championship](WMCCC_1991 "WMCCC 1991")*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1979**). *[On the Construction of Evaluation Functions for Large Domains](http://www.bkgm.com/articles/Berliner/EvaluationFunctionsLargeDomains/)*. [III. Smoothness](http://www.bkgm.com/articles/Berliner/EvaluationFunctionsLargeDomains/#sec-3), [IJCAI 1979](Conferences#IJCAI1979 "Conferences"), Tokyo, Vol. 1
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Secrets of Rybka and Fruit from my point of view](https://www.stmintz.com/ccc/index.php?id=470681) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), December 15, 2005
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Deep Learning Chess Engine ?](http://www.talkchess.com/forum/viewtopic.php?t=60883&start=1) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi"), [CCC](CCC "CCC"), July 21, 2016
 
 **[Up one level](Evaluation "Evaluation")**
 

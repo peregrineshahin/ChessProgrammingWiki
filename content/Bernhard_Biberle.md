@@ -20,8 +20,8 @@ As member of the former [First Vienna Computer Chess Club](index.php?title=First
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Biberle, Bernhard FIDE Chess Profile](https://ratings.fide.com/profile/1605100)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Paris 1997](http://www.thorstenczub.de/pariswm97.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Biberle, Bernhard FIDE Chess Profile](https://ratings.fide.com/profile/1605100)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Paris 1997](http://www.thorstenczub.de/pariswm97.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
 
 **[Up one level](People "People")**
 

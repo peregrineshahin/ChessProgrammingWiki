@@ -51,9 +51,9 @@ In 2004, soon after it was found and proved Chinito contained parts of [Crafty](
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [List is NOT a Crafty clone, ... etc](https://www.stmintz.com/ccc/index.php?id=383228) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), August 21, 2004
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Open letter by Eugenio Castillo (ELChinito team) ...](https://www.stmintz.com/ccc/index.php?id=384790) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 28, 2004
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Image from no longer available (May 2019) [Massy 2002's chess programs tournament](http://www.ludochess.com/trn_massy2002/tournoi.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [List is NOT a Crafty clone, ... etc](https://www.stmintz.com/ccc/index.php?id=383228) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), August 21, 2004
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Open letter by Eugenio Castillo (ELChinito team) ...](https://www.stmintz.com/ccc/index.php?id=384790) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 28, 2004
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Image from no longer available (May 2019) [Massy 2002's chess programs tournament](http://www.ludochess.com/trn_massy2002/tournoi.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
 
 **[Up one level](Engines "Engines")**
 

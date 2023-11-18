@@ -45,10 +45,10 @@ Qxf4+ 15.Kg2 Qxe4+ 16.Nf3 Qe2+ 17.Kg1 Qxf3 18.Rh2 Re1# 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rob van Son](Rob_van_Son "Rob van Son") (**2011**). *De Assyrische krijgsman die vaak won!* (Dutch) [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-2011,%20Rob%20van%20Son,%20De%20Assyrische%20krijgsman%20die%20vaak%20won.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stephen Stuart](Stephen_Stuart "Stephen Stuart") (**1977**). *Letter*. in [Douglas Penrod](Douglas_Penrod "Douglas Penrod") (ed.) (**1977**). *[Computer Chess Newsletter, Issue 2](https://www.computerhistory.org/chess/doc-431614f6d6b8e/)*. hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), pg. 12
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Larry Wagner](Larry_Wagner "Larry Wagner") (**1978**). *Results of First Microcomputer Chess Tournament*. [Silicon Gulch Gazette](http://www.computerhistory.org/collections/accession/102686281), Vol. 2, No. 4, May 10, 1978, pg. 9
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Editor (**1978**). *Some San Jose Color*. [Personal Computing, Vol. 2, No. 9](Personal_Computing#2_9 "Personal Computing"), pp. 82
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rob van Son](Rob_van_Son "Rob van Son") (**2011**). *De Assyrische krijgsman die vaak won!* (Dutch) [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-2011,%20Rob%20van%20Son,%20De%20Assyrische%20krijgsman%20die%20vaak%20won.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stephen Stuart](Stephen_Stuart "Stephen Stuart") (**1977**). *Letter*. in [Douglas Penrod](Douglas_Penrod "Douglas Penrod") (ed.) (**1977**). *[Computer Chess Newsletter, Issue 2](https://www.computerhistory.org/chess/doc-431614f6d6b8e/)*. hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), pg. 12
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Larry Wagner](Larry_Wagner "Larry Wagner") (**1978**). *Results of First Microcomputer Chess Tournament*. [Silicon Gulch Gazette](http://www.computerhistory.org/collections/accession/102686281), Vol. 2, No. 4, May 10, 1978, pg. 9
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Editor (**1978**). *Some San Jose Color*. [Personal Computing, Vol. 2, No. 9](Personal_Computing#2_9 "Personal Computing"), pp. 82
 
 **[Up one Level](Engines "Engines")**
 

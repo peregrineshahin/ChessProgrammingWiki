@@ -236,36 +236,36 @@ Pi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Raspberry Pi Model A](https://www.flickr.com/photos/sparkfun/8747111043/), by [SparkFun Electronics](https://www.flickr.com/people/41898857@N04) , May 13, 2013, [Raspberry Pi from Wikipedia](https://en.wikipedia.org/wiki/Raspberry_Pi)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About us | Raspberry Pi](http://www.raspberrypi.org/about)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ARM Options - Using the GNU Compiler Collection (GCC)](http://gcc.gnu.org/onlinedocs/gcc/ARM-Options.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cross Compiling Tools Package Guidelines - ArchWiki](https://wiki.archlinux.org/index.php/Cross_Compiling_Tools_Package_Guidelines)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a>  [Raspberry Pi 2 Model B | Raspberry Pi](http://www.raspberrypi.org/products/raspberry-pi-2-model-b/), February 2015
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Raspberry Pi 3 Model B | Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Raspberry Pi 4 Model B – Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [RaspBerry PI/ Arduino driven Wooden Chessboard](http://www.chess.fortherapy.co.uk) running [Stockfish](Stockfish "Stockfish")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [USB Board](http://usbchessboard.yolasite.com/) by [Bryan Whitby](index.php?title=Bryan_Whitby&action=edit&redlink=1 "Bryan Whitby (page does not exist)")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Arduino & Raspberry PI Chess Computer](http://www.chess.fortherapy.co.uk/)  running [Stockfish](Stockfish "Stockfish") on Raspberry Pi, by [Max Dobres](index.php?title=Max_Dobres&action=edit&redlink=1 "Max Dobres (page does not exist)")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [PicoChess](http://jromang.github.io/Stockfish/) by [Jean-Francois Romang](Jean-Francois_Romang "Jean-Francois Romang")
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Chess. Bare metal assembly language chess. | Raspberry Pi](http://www.raspberrypi.org/archives/4300), July 03, 2013
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [xu-ji/assembly\_chess · GitHub](https://github.com/xu-ji/assembly_chess/)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [GAVON Portable Chess System](http://hiarcs.net/forums/viewtopic.php?t=6575&sid=b7c1e806c342b662b536ab62b24d7929) by [Chessmaster Ireland](index.php?title=Bryan_Whitby&action=edit&redlink=1 "Bryan Whitby (page does not exist)"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), February 08, 2014
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Jaguatirica Chess Cluster - Phase I - 7 Nodes - 30 Photos](http://www.talkchess.com/forum/viewtopic.php?t=51927) by [Lourenço Araujo de Oliveira Junior](Louren%C3%A7o_Araujo_de_Oliveira_Junior "Lourenço Araujo de Oliveira Junior"), [CCC](CCC "CCC"), April 10, 2014
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [PicoChess](http://www.picochess.org/) by [Jean-Francois Romang](Jean-Francois_Romang "Jean-Francois Romang")
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [UDOO from Wikipedia](https://en.wikipedia.org/wiki/UDOO)
-18. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Re: CSVN 1st Open Internet Tournament: Results and games](http://www.talkchess.com/forum/viewtopic.php?t=52280&start=11) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), May 12, 2014
-19. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [raspberry pi cluster versus fairymax](http://www.talkchess.com/forum/viewtopic.php?t=49892) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), October 31, 2013
-20. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [chess computer board](http://www.talkchess.com/forum/viewtopic.php?t=59977) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), April 27, 2016
-21. <a id="cite-ref-21" href="#cite-note-21">[21]</a> [Embla based chess computer](https://www.vanheusden.com/Embla/board/) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden")
-22. <a id="cite-ref-22" href="#cite-note-22">[22]</a> Image courtesy [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), June 01, 2017
-23. <a id="cite-ref-23" href="#cite-note-23">[23]</a> [DGT Pi - Chess Computer for DGT e-Boards - Digital Game Technology](http://www.digitalgametechnology.com/index.php/products/revelation-ii/533-dgt-pi-chess-computer-for-dgt-e-boards)
-24. <a id="cite-ref-24" href="#cite-note-24">[24]</a> [Raspberry Turk](http://www.raspberryturk.com/)
-25. <a id="cite-ref-25" href="#cite-note-25">[25]</a> [GitHub - joeymeyer/raspberryturk: The Raspberry Turk is a robot that can play chess](https://github.com/joeymeyer/raspberryturk)
-26. <a id="cite-ref-26" href="#cite-note-26">[26]</a> [A new computer chess GUI](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76760) by [Rohn Blake](index.php?title=Rohn_Blake&action=edit&redlink=1 "Rohn Blake (page does not exist)"), [CCC](CCC "CCC"), March 02, 2021
-27. <a id="cite-ref-27" href="#cite-note-27">[27]</a> [Raspberry Pi 2 Model B | Raspberry Pi](http://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
-28. <a id="cite-ref-28" href="#cite-note-28">[28]</a> [Limor Fried (Adafruit Industries) from Wikipedia](https://en.wikipedia.org/wiki/Limor_Fried)
-29. <a id="cite-ref-29" href="#cite-note-29">[29]</a> [National Security Agency from Wikipedia](https://en.wikipedia.org/wiki/National_Security_Agency)
-30. <a id="cite-ref-30" href="#cite-note-30">[30]</a> [PRISM (surveillance program) from Wikipedia](https://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Raspberry Pi Model A](https://www.flickr.com/photos/sparkfun/8747111043/), by [SparkFun Electronics](https://www.flickr.com/people/41898857@N04) , May 13, 2013, [Raspberry Pi from Wikipedia](https://en.wikipedia.org/wiki/Raspberry_Pi)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About us | Raspberry Pi](http://www.raspberrypi.org/about)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ARM Options - Using the GNU Compiler Collection (GCC)](http://gcc.gnu.org/onlinedocs/gcc/ARM-Options.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cross Compiling Tools Package Guidelines - ArchWiki](https://wiki.archlinux.org/index.php/Cross_Compiling_Tools_Package_Guidelines)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a>  [Raspberry Pi 2 Model B | Raspberry Pi](http://www.raspberrypi.org/products/raspberry-pi-2-model-b/), February 2015
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Raspberry Pi 3 Model B | Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Raspberry Pi 4 Model B – Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [RaspBerry PI/ Arduino driven Wooden Chessboard](http://www.chess.fortherapy.co.uk) running [Stockfish](Stockfish "Stockfish")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [USB Board](http://usbchessboard.yolasite.com/) by [Bryan Whitby](index.php?title=Bryan_Whitby&action=edit&redlink=1 "Bryan Whitby (page does not exist)")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Arduino & Raspberry PI Chess Computer](http://www.chess.fortherapy.co.uk/)  running [Stockfish](Stockfish "Stockfish") on Raspberry Pi, by [Max Dobres](index.php?title=Max_Dobres&action=edit&redlink=1 "Max Dobres (page does not exist)")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [PicoChess](http://jromang.github.io/Stockfish/) by [Jean-Francois Romang](Jean-Francois_Romang "Jean-Francois Romang")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Chess. Bare metal assembly language chess. | Raspberry Pi](http://www.raspberrypi.org/archives/4300), July 03, 2013
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [xu-ji/assembly\_chess · GitHub](https://github.com/xu-ji/assembly_chess/)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [GAVON Portable Chess System](http://hiarcs.net/forums/viewtopic.php?t=6575&sid=b7c1e806c342b662b536ab62b24d7929) by [Chessmaster Ireland](index.php?title=Bryan_Whitby&action=edit&redlink=1 "Bryan Whitby (page does not exist)"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), February 08, 2014
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Jaguatirica Chess Cluster - Phase I - 7 Nodes - 30 Photos](http://www.talkchess.com/forum/viewtopic.php?t=51927) by [Lourenço Araujo de Oliveira Junior](Louren%C3%A7o_Araujo_de_Oliveira_Junior "Lourenço Araujo de Oliveira Junior"), [CCC](CCC "CCC"), April 10, 2014
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [PicoChess](http://www.picochess.org/) by [Jean-Francois Romang](Jean-Francois_Romang "Jean-Francois Romang")
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [UDOO from Wikipedia](https://en.wikipedia.org/wiki/UDOO)
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Re: CSVN 1st Open Internet Tournament: Results and games](http://www.talkchess.com/forum/viewtopic.php?t=52280&start=11) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), May 12, 2014
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [raspberry pi cluster versus fairymax](http://www.talkchess.com/forum/viewtopic.php?t=49892) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), October 31, 2013
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [chess computer board](http://www.talkchess.com/forum/viewtopic.php?t=59977) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), April 27, 2016
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Embla based chess computer](https://www.vanheusden.com/Embla/board/) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden")
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> Image courtesy [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), June 01, 2017
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [DGT Pi - Chess Computer for DGT e-Boards - Digital Game Technology](http://www.digitalgametechnology.com/index.php/products/revelation-ii/533-dgt-pi-chess-computer-for-dgt-e-boards)
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Raspberry Turk](http://www.raspberryturk.com/)
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [GitHub - joeymeyer/raspberryturk: The Raspberry Turk is a robot that can play chess](https://github.com/joeymeyer/raspberryturk)
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [A new computer chess GUI](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76760) by [Rohn Blake](index.php?title=Rohn_Blake&action=edit&redlink=1 "Rohn Blake (page does not exist)"), [CCC](CCC "CCC"), March 02, 2021
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [Raspberry Pi 2 Model B | Raspberry Pi](http://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Limor Fried (Adafruit Industries) from Wikipedia](https://en.wikipedia.org/wiki/Limor_Fried)
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [National Security Agency from Wikipedia](https://en.wikipedia.org/wiki/National_Security_Agency)
+30. <a id="cite-ref-30" href="#cite-note-30">↑</a> [PRISM (surveillance program) from Wikipedia](https://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29)
 
 **[Up one Level](Hardware "Hardware")**
 

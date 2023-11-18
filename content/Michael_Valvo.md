@@ -106,13 +106,13 @@ A respected opening theoretician Valvo played 1.e4 for much of his career before
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Michael Valvo at the Deep Blue vs. Kasparov match in Philadelphia, Pennsylvania](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbc75254), photo by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), 1996, from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Valvo-DT CC-games](https://www.stmintz.com/ccc/index.php?id=22438) by Hans Christian Lykke, [CCC](CCC "CCC"), July 18, 1998
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Michael Valvo from Wikipedia](https://en.wikipedia.org/wiki/Michael_Valvo)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ken Thompson](Ken_Thompson "Ken Thompson") (**2004**). *Obituary: Michael Joseph Valvo (1942-2004)*. [ICGA Journal, Vol. 27, No. 4](ICGA_Journal#27_4 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Pennswoodpusher, A Quarterly Publication of the Pennsylvania State Chess Federation, February 2005](http://www.pitt.edu/~schach/Newsletters/2005WinterPWP.pdf) (pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Karpov vs. DEEP THOUGHT Cambridge, Massachusetts reported by Darren Bedwell, Compuserve 73](http://www.skepticfiles.org/cowtext/comput~1/karpovpr.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Michael Valvo at the Deep Blue vs. Kasparov match in Philadelphia, Pennsylvania](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbc75254), photo by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), 1996, from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Valvo-DT CC-games](https://www.stmintz.com/ccc/index.php?id=22438) by Hans Christian Lykke, [CCC](CCC "CCC"), July 18, 1998
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Michael Valvo from Wikipedia](https://en.wikipedia.org/wiki/Michael_Valvo)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ken Thompson](Ken_Thompson "Ken Thompson") (**2004**). *Obituary: Michael Joseph Valvo (1942-2004)*. [ICGA Journal, Vol. 27, No. 4](ICGA_Journal#27_4 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Pennswoodpusher, A Quarterly Publication of the Pennsylvania State Chess Federation, February 2005](http://www.pitt.edu/~schach/Newsletters/2005WinterPWP.pdf) (pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Karpov vs. DEEP THOUGHT Cambridge, Massachusetts reported by Darren Bedwell, Compuserve 73](http://www.skepticfiles.org/cowtext/comput~1/karpovpr.htm)
 
 **[Up one level](People "People")**
 

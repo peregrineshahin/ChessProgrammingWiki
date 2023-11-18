@@ -35,12 +35,12 @@ a Thai [FIDE](FIDE "FIDE") chess arbiter <a id="cite-note-1" href="#cite-ref-1">
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tovirat, Teerapong FIDE Chess Profile - Players Arbiters Trainers](http://ratings.fide.com/card.phtml?event=6200320)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Thai ratings | Bangkok Chess Club](http://bangkokchess.com/chess-ratings/thai-ratings)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [FIDE Directory - Thailand Chess Association](http://www.fide.com/fide/directory.html?task=country&fid=140)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Thai Checkers](http://mindsports.nl/index.php/on-the-evolution-of-draughts-variants/draughts-variants/500-thai) from [mindsports.nl](http://mindsports.nl/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Makruk from Wikipedia](https://en.wikipedia.org/wiki/Makruk)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Thai Board Games - Download](http://eng.thaibg.com/template.php?CenterFile=dw_all.php&Title=Download)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tovirat, Teerapong FIDE Chess Profile - Players Arbiters Trainers](http://ratings.fide.com/card.phtml?event=6200320)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Thai ratings | Bangkok Chess Club](http://bangkokchess.com/chess-ratings/thai-ratings)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [FIDE Directory - Thailand Chess Association](http://www.fide.com/fide/directory.html?task=country&fid=140)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Thai Checkers](http://mindsports.nl/index.php/on-the-evolution-of-draughts-variants/draughts-variants/500-thai) from [mindsports.nl](http://mindsports.nl/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Makruk from Wikipedia](https://en.wikipedia.org/wiki/Makruk)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Thai Board Games - Download](http://eng.thaibg.com/template.php?CenterFile=dw_all.php&Title=Download)
 
 **[Up one level](People "People")**
 

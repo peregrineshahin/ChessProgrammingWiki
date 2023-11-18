@@ -147,20 +147,20 @@ Kg6 63.Re5 Kf6 64.Ra5 Kg6 65.Kg2 Rb2+ 66.Kh3 Rb1 67.Rg5+ Kf6 68.Rc5 Kg6 1/2-1/2
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image by [Arnoldius](https://commons.wikimedia.org/wiki/User:Arnoldius), November 09, 2016, [Category:Cultural heritage monuments in List auf Sylt - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Cultural_heritage_monuments_in_List_auf_Sylt)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [List](http://wbec-ridderkerk.nl/html/details1/List.html) from [WBEC Ridderkerk](WBEC "WBEC")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [List 5.04 Native-Engine available for free !!!](https://www.stmintz.com/ccc/index.php?id=269741) by CLiebert, [CCC](CCC "CCC"), December 09, 2002
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Part of the readme, from [List](http://wbec-ridderkerk.nl/html/details1/List.html) from [WBEC Ridderkerk](WBEC "WBEC")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: List is crafty (with a small c)](https://www.stmintz.com/ccc/index.php?id=270338) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), December 12, 2002
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [11th World Computer Chess Championship](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=2) from the [ICGA Tournament site](https://www.game-ai-forum.org/icga-tournaments/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA disqualifies chess program 'List'](http://www.chessbase.com/Home/TabId/211/PostId/4001330/icga-disqualifies-chess-program-list-.aspx), [ChessBase News](ChessBase "ChessBase"), November 27, 2003
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Chessbase must be confident that List is not a clone...](https://www.stmintz.com/ccc/index.php?id=416428) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), March 11, 2005
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2005**). *A Letter to the ICGA*. [ICGA Journal](ICGA_Journal "ICGA Journal"), [Vol. 28, No. 1](http://ilk.uvt.nl/icga/journal/pdf/toc28-1.pdf) (pdf)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [David Levy](David_Levy "David Levy") (**2005**). *Cancellation of Suspension*. [ICGA Journal](ICGA_Journal "ICGA Journal"), [Vol. 28, No. 1](http://ilk.uvt.nl/icga/journal/pdf/toc28-1.pdf) (pdf)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [List 512 UCI und Aristarch 4.37 ready for Download :-) !!!](https://www.stmintz.com/ccc/index.php?id=345007) by Andreas Aicher, [CCC](CCC "CCC"), January 26, 2004
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Re: Loop List commercially available soon](https://www.stmintz.com/ccc/index.php?id=455043) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), October 11, 2005
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*. Ph.D. thesis
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Graz 2003 - Chess - Round 7 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=7&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image by [Arnoldius](https://commons.wikimedia.org/wiki/User:Arnoldius), November 09, 2016, [Category:Cultural heritage monuments in List auf Sylt - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Cultural_heritage_monuments_in_List_auf_Sylt)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [List](http://wbec-ridderkerk.nl/html/details1/List.html) from [WBEC Ridderkerk](WBEC "WBEC")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [List 5.04 Native-Engine available for free !!!](https://www.stmintz.com/ccc/index.php?id=269741) by CLiebert, [CCC](CCC "CCC"), December 09, 2002
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Part of the readme, from [List](http://wbec-ridderkerk.nl/html/details1/List.html) from [WBEC Ridderkerk](WBEC "WBEC")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: List is crafty (with a small c)](https://www.stmintz.com/ccc/index.php?id=270338) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), December 12, 2002
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [11th World Computer Chess Championship](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=2) from the [ICGA Tournament site](https://www.game-ai-forum.org/icga-tournaments/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA disqualifies chess program 'List'](http://www.chessbase.com/Home/TabId/211/PostId/4001330/icga-disqualifies-chess-program-list-.aspx), [ChessBase News](ChessBase "ChessBase"), November 27, 2003
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Chessbase must be confident that List is not a clone...](https://www.stmintz.com/ccc/index.php?id=416428) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), March 11, 2005
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2005**). *A Letter to the ICGA*. [ICGA Journal](ICGA_Journal "ICGA Journal"), [Vol. 28, No. 1](http://ilk.uvt.nl/icga/journal/pdf/toc28-1.pdf) (pdf)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [David Levy](David_Levy "David Levy") (**2005**). *Cancellation of Suspension*. [ICGA Journal](ICGA_Journal "ICGA Journal"), [Vol. 28, No. 1](http://ilk.uvt.nl/icga/journal/pdf/toc28-1.pdf) (pdf)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [List 512 UCI und Aristarch 4.37 ready for Download :-) !!!](https://www.stmintz.com/ccc/index.php?id=345007) by Andreas Aicher, [CCC](CCC "CCC"), January 26, 2004
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Re: Loop List commercially available soon](https://www.stmintz.com/ccc/index.php?id=455043) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), October 11, 2005
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*. Ph.D. thesis
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Graz 2003 - Chess - Round 7 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=7&id=5)
 
 **[Up one level](Engines "Engines")**
 

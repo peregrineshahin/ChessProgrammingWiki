@@ -40,8 +40,8 @@ His research interests include argumentation based [machine learning](Learning "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Artificial Intelligence Laboratory - FRI](https://fri.uni-lj.si/en/laboratory/lui)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Martin Mozina](https://dblp.uni-trier.de/pers/hd/m/Mozina:Martin)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Artificial Intelligence Laboratory - FRI](https://fri.uni-lj.si/en/laboratory/lui)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Martin Mozina](https://dblp.uni-trier.de/pers/hd/m/Mozina:Martin)
 
 **[Up one level](People "People")**
 

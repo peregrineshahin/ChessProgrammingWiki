@@ -139,13 +139,13 @@ a private chess engine by [Mridul Muralidharan](Mridul_Muralidharan "Mridul Mura
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hans Baldung](Category:Hans_Baldung "Category:Hans Baldung"), New Year’s Wish with Three Witches, ca. 1514, Pen drawing heightened with white body colour on brown prepared paper, Current location: [Musée du Louvre](https://en.wikipedia.org/wiki/The_Louvre), [Skyclad (Neopaganism) from Wikipedia](https://en.wikipedia.org/wiki/Skyclad_%28Neopaganism%29), [European witchcraft from Wikipedia](https://en.wikipedia.org/wiki/European_witchcraft)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [pmess at cct](https://www.stmintz.com/ccc/index.php?id=490035) by [Mridul Muralidharan](Mridul_Muralidharan "Mridul Muralidharan"), [CCC](CCC "CCC"), February 27, 2006
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Finger witchess](http://www6.chessclub.com/finger/witchess) from [ICC](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [a few notes from Arasan's games in CCT7](https://www.stmintz.com/ccc/index.php?id=411385) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), February 14, 2005
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Most brilliant novelty from cct7 Witchess-Arasan](https://www.stmintz.com/ccc/index.php?id=411398) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), February 14, 2005
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Gardnerian Wicca from Wikipedia](https://en.wikipedia.org/wiki/Gardnerian_Wicca)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hans Baldung](Category:Hans_Baldung "Category:Hans Baldung"), New Year’s Wish with Three Witches, ca. 1514, Pen drawing heightened with white body colour on brown prepared paper, Current location: [Musée du Louvre](https://en.wikipedia.org/wiki/The_Louvre), [Skyclad (Neopaganism) from Wikipedia](https://en.wikipedia.org/wiki/Skyclad_%28Neopaganism%29), [European witchcraft from Wikipedia](https://en.wikipedia.org/wiki/European_witchcraft)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [pmess at cct](https://www.stmintz.com/ccc/index.php?id=490035) by [Mridul Muralidharan](Mridul_Muralidharan "Mridul Muralidharan"), [CCC](CCC "CCC"), February 27, 2006
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Finger witchess](http://www6.chessclub.com/finger/witchess) from [ICC](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [a few notes from Arasan's games in CCT7](https://www.stmintz.com/ccc/index.php?id=411385) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), February 14, 2005
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Most brilliant novelty from cct7 Witchess-Arasan](https://www.stmintz.com/ccc/index.php?id=411398) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), February 14, 2005
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Gardnerian Wicca from Wikipedia](https://en.wikipedia.org/wiki/Gardnerian_Wicca)
 
 **[Up one Level](Engines "Engines")**
 

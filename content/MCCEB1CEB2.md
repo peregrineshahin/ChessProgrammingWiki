@@ -59,8 +59,8 @@ is a [Best-First search](Best-First "Best-First") algorithm based on [Monte-Carl
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Richard Korf](Richard_Korf "Richard Korf"), [Max Chickering](Max_Chickering "Max Chickering") (**1996**). *[Best-First Minimax Search](https://www.microsoft.com/en-us/research/publication/best-first-minimax-search/)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)), Vol. 84, No 1-2
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Announcing lczero](http://www.talkchess.com/forum/viewtopic.php?t=66280&start=67) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), January 21, 2018 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Richard Korf](Richard_Korf "Richard Korf"), [Max Chickering](Max_Chickering "Max Chickering") (**1996**). *[Best-First Minimax Search](https://www.microsoft.com/en-us/research/publication/best-first-minimax-search/)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)), Vol. 84, No 1-2
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Announcing lczero](http://www.talkchess.com/forum/viewtopic.php?t=66280&start=67) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), January 21, 2018 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
 
 **[Up one level](Search "Search")**
 

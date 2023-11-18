@@ -46,10 +46,10 @@ Waxman's name resembles the Russian word for chess [Шахмат](http://bg.wiki
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Screenshots by [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WAXMAN | WinBoard Chess Engine by Ivan Bacigal](http://www.waxman2008.com/waxman.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [WAXMAN | WinBoard Chess Engine by Ivan Bacigal - What's New?](http://www.waxman2008.com/whatsnew.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [WAXMAN | WinBoard Chess Engine by Ivan Bacigal - Q & A](http://www.waxman2008.com/qa.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Screenshots by [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WAXMAN | WinBoard Chess Engine by Ivan Bacigal](http://www.waxman2008.com/waxman.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [WAXMAN | WinBoard Chess Engine by Ivan Bacigal - What's New?](http://www.waxman2008.com/whatsnew.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [WAXMAN | WinBoard Chess Engine by Ivan Bacigal - Q & A](http://www.waxman2008.com/qa.html)
 
 **[Up one level](Engines "Engines")**
 

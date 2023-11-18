@@ -65,8 +65,8 @@ Sapphire and Diamond both support the [Novag Universal Electronic Chess Board](N
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sapphire I](https://www.flickr.com/photos/10261668@N05/858171271/in/album-72157600922171918/) from [Novag | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171918/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Novag Sapphire](https://www.schach-computer.info/wiki/index.php/Novag_Sapphire) from [httpa://www.schach-computer.info/wiki/index.php/Hauptseite\_En Schachcomputer.info Wiki] (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sapphire I](https://www.flickr.com/photos/10261668@N05/858171271/in/album-72157600922171918/) from [Novag | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171918/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Novag Sapphire](https://www.schach-computer.info/wiki/index.php/Novag_Sapphire) from [httpa://www.schach-computer.info/wiki/index.php/Hauptseite\_En Schachcomputer.info Wiki] (German)
 
 **[Up one level](Engines "Engines")**
 

@@ -41,9 +41,9 @@ in [Maribor](https://en.wikipedia.org/wiki/Maribor), [Slovenia](https://en.wikip
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Category:University of Maribor - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:University_of_Maribor)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [University of Maribor from Wikipedia](https://en.wikipedia.org/wiki/University_of_Maribor)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess program BBChess - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/Chess_program_BBChess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Category:University of Maribor - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:University_of_Maribor)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [University of Maribor from Wikipedia](https://en.wikipedia.org/wiki/University_of_Maribor)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess program BBChess - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/Chess_program_BBChess)
 
 **[Up one Level](Organizations "Organizations")**
 

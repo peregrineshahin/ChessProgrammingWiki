@@ -51,12 +51,12 @@ lineup: [Tony Levin](https://en.wikipedia.org/wiki/Tony_Levin), [Adrian Belew](C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The [Glas Elephant](https://de.wikipedia.org/wiki/Glaselefant), [Maximilianpark](https://de.wikipedia.org/wiki/Maximilianpark), [Hamm](https://en.wikipedia.org/wiki/Hamm), [North Rhine-Westphalia](https://en.wikipedia.org/wiki/North_Rhine-Westphalia), Germany, [The Industrial Heritage Trail](Category:Industrial_Heritage_Trail "Category:Industrial Heritage Trail")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Elefantenparade – HammWiki](http://www.hammwiki.de/wiki/Elefantenparade)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Elephant](http://wbec-ridderkerk.nl/html/details1/Elephant.html) from [WBEC Ridderkerk](WBEC "WBEC")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Elephant](https://www.stmintz.com/ccc/index.php?id=160251) by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [CCC](CCC "CCC"), March 26, 2001
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Elephant 1.00, a new winboard engine](https://www.stmintz.com/ccc/index.php?id=354776) by [Harald Lüßen](Harald_L%C3%BC%C3%9Fen "Harald Lüßen"), [CCC](CCC "CCC"), March 15, 2004
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=140111&t=16002) by [Harald Lüßen](Harald_L%C3%BC%C3%9Fen "Harald Lüßen"), [CCC](CCC "CCC"), August 24, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The [Glas Elephant](https://de.wikipedia.org/wiki/Glaselefant), [Maximilianpark](https://de.wikipedia.org/wiki/Maximilianpark), [Hamm](https://en.wikipedia.org/wiki/Hamm), [North Rhine-Westphalia](https://en.wikipedia.org/wiki/North_Rhine-Westphalia), Germany, [The Industrial Heritage Trail](Category:Industrial_Heritage_Trail "Category:Industrial Heritage Trail")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Elefantenparade – HammWiki](http://www.hammwiki.de/wiki/Elefantenparade)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Elephant](http://wbec-ridderkerk.nl/html/details1/Elephant.html) from [WBEC Ridderkerk](WBEC "WBEC")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Elephant](https://www.stmintz.com/ccc/index.php?id=160251) by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [CCC](CCC "CCC"), March 26, 2001
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Elephant 1.00, a new winboard engine](https://www.stmintz.com/ccc/index.php?id=354776) by [Harald Lüßen](Harald_L%C3%BC%C3%9Fen "Harald Lüßen"), [CCC](CCC "CCC"), March 15, 2004
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=140111&t=16002) by [Harald Lüßen](Harald_L%C3%BC%C3%9Fen "Harald Lüßen"), [CCC](CCC "CCC"), August 24, 2007
 
 **[Up one Level](Engines "Engines")**
 

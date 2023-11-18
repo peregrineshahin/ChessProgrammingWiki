@@ -63,10 +63,10 @@ Finally, Lucas Chess is able to [play tournaments](Tournament_Manager "Tournamen
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lucas Chess - Thanks](https://lucaschess.pythonanywhere.com/thanks)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - lukasmonk/lucaschessR: Chess GUI](https://github.com/lukasmonk/lucaschessR#readme)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Screenshot from [OMGChess: A Great Hidden Feature in Lucas Chess](http://omgchess.blogspot.com/2015/08/a-great-hidden-feature-in-lucas-chess.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [New DGT driver and updated eBoard drivers (Windows/Linux)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77783) by [Graham O'Neill](index.php?title=Graham_O%27Neill&action=edit&redlink=1 "Graham O'Neill (page does not exist)"), [CCC](CCC "CCC"), July 23, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lucas Chess - Thanks](https://lucaschess.pythonanywhere.com/thanks)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - lukasmonk/lucaschessR: Chess GUI](https://github.com/lukasmonk/lucaschessR#readme)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Screenshot from [OMGChess: A Great Hidden Feature in Lucas Chess](http://omgchess.blogspot.com/2015/08/a-great-hidden-feature-in-lucas-chess.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [New DGT driver and updated eBoard drivers (Windows/Linux)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77783) by [Graham O'Neill](index.php?title=Graham_O%27Neill&action=edit&redlink=1 "Graham O'Neill (page does not exist)"), [CCC](CCC "CCC"), July 23, 2021
 
 **[Up one Level](GUI "GUI")**
 

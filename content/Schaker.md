@@ -49,8 +49,8 @@ Kd8 22.Nd5 b5 23.Ndc7 e5 24.Nxb5 Be7 25.c4 Bg5+ 26.Kc3 Ne3 27.b4 Bf6 28.a4 Re8
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Ohio Scientific Challenger 4P computer, Image by [Bilby](https://commons.wikimedia.org/wiki/User:Bilby), August 8, 2010, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Ohio Scientific from Wikipedia](https://en.wikipedia.org/wiki/Ohio_Scientific)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Edwin Knoop](index.php?title=Edwin_Knoop&action=edit&redlink=1 "Edwin Knoop (page does not exist)") (**1983**). *Schaker* in [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1983**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1982*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-1983,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201982.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1982](DOCCC_1982 "DOCCC 1982")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Ohio Scientific Challenger 4P computer, Image by [Bilby](https://commons.wikimedia.org/wiki/User:Bilby), August 8, 2010, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Ohio Scientific from Wikipedia](https://en.wikipedia.org/wiki/Ohio_Scientific)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Edwin Knoop](index.php?title=Edwin_Knoop&action=edit&redlink=1 "Edwin Knoop (page does not exist)") (**1983**). *Schaker* in [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1983**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1982*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-1983,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201982.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1982](DOCCC_1982 "DOCCC 1982")
 
 **[Up one level](Engines "Engines")**
 

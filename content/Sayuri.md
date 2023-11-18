@@ -103,10 +103,10 @@ Sayuri is a [bitboard](Bitboards "Bitboards") engine and determines [sliding pie
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [sayuri/sayuri\_logo\_small.png at master · MetalPhaeton/sayuri · GitHub](https://github.com/MetalPhaeton/sayuri/blob/master/SayuriLogo/sayuri_logo_small.png)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sayuri (UCI Engine) by Ishibashi Hironori](http://www.talkchess.com/forum/viewtopic.php?t=49977) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), November 08, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [sayuri/README.md at master · MetalPhaeton/sayuri · GitHub](https://github.com/MetalPhaeton/sayuri/blob/master/README.md)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> based on Sayuri 2015.12.08, [Sayuri 2015.12.08 Released!!](http://tinyurl.com/ohhna55) by [Hironori Ishibashi](Hironori_Ishibashi "Hironori Ishibashi"), [Google Groups](https://en.wikipedia.org/wiki/Google_Groups), December 08, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [sayuri/sayuri\_logo\_small.png at master · MetalPhaeton/sayuri · GitHub](https://github.com/MetalPhaeton/sayuri/blob/master/SayuriLogo/sayuri_logo_small.png)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sayuri (UCI Engine) by Ishibashi Hironori](http://www.talkchess.com/forum/viewtopic.php?t=49977) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), November 08, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [sayuri/README.md at master · MetalPhaeton/sayuri · GitHub](https://github.com/MetalPhaeton/sayuri/blob/master/README.md)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> based on Sayuri 2015.12.08, [Sayuri 2015.12.08 Released!!](http://tinyurl.com/ohhna55) by [Hironori Ishibashi](Hironori_Ishibashi "Hironori Ishibashi"), [Google Groups](https://en.wikipedia.org/wiki/Google_Groups), December 08, 2015
 
 **[Up one Level](Engines "Engines")**
 

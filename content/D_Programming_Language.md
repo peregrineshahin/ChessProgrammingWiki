@@ -76,11 +76,11 @@ Althought it looks like D has advantages over C/C++ in terms if a modern languag
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The D Programming Language - Walter Bright Interview](http://bitwisemag.co.uk/copy/programming/d/interview/d_programming_language.html) by [Huw Collingbourne](http://bitwisemag.co.uk/copy/bios/bio_huw_collingbourne.html) and [Dermot Hogan](http://bitwisemag.co.uk/copy/bios/bio_dermot_hogan.html), [Bitwise Magazine](http://www.bitwisemag.com/index.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The A-Z of Programming Languages: D - Walter Bright talks about D and his desire to improve on systems programming language](https://www.computerworld.com/article/3475025/the-a-z-of-programming-languages-d.html), [Computerworld](Computerworld "Computerworld")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [D (programming language) from Wikipedia](<https://en.wikipedia.org/wiki/D_(programming_language)>)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [TIOBE Software: Tiobe Index](https://www.tiobe.com/tiobe-index//)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> The D Programming Language with [Andrei Alexandrescu](https://erdani.com/), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The D Programming Language - Walter Bright Interview](http://bitwisemag.co.uk/copy/programming/d/interview/d_programming_language.html) by [Huw Collingbourne](http://bitwisemag.co.uk/copy/bios/bio_huw_collingbourne.html) and [Dermot Hogan](http://bitwisemag.co.uk/copy/bios/bio_dermot_hogan.html), [Bitwise Magazine](http://www.bitwisemag.com/index.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The A-Z of Programming Languages: D - Walter Bright talks about D and his desire to improve on systems programming language](https://www.computerworld.com/article/3475025/the-a-z-of-programming-languages-d.html), [Computerworld](Computerworld "Computerworld")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [D (programming language) from Wikipedia](<https://en.wikipedia.org/wiki/D_(programming_language)>)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [TIOBE Software: Tiobe Index](https://www.tiobe.com/tiobe-index//)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> The D Programming Language with [Andrei Alexandrescu](https://erdani.com/), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
 
 **[Up one Level](Languages "Languages")**
 

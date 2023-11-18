@@ -101,10 +101,10 @@ static int vector[256] = {
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Manhole cover](https://en.wikipedia.org/wiki/Manhole_cover) in [Rome](https://en.wikipedia.org/wiki/Rome) with [SPQR](https://en.wikipedia.org/wiki/SPQR) inscription, Image by [Indian Joe](https://en.wikipedia.org/wiki/User:Indian_Joe), January 08, 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [SPQR from Wikipedia](https://en.wikipedia.org/wiki/SPQR)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gullydeckel2 chess playing program](http://borriss.com/g2/RELEASE)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Gullydeckel Chess Program - Download](http://borriss.com/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> edited, symbols replaced for column alignment
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Manhole cover](https://en.wikipedia.org/wiki/Manhole_cover) in [Rome](https://en.wikipedia.org/wiki/Rome) with [SPQR](https://en.wikipedia.org/wiki/SPQR) inscription, Image by [Indian Joe](https://en.wikipedia.org/wiki/User:Indian_Joe), January 08, 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [SPQR from Wikipedia](https://en.wikipedia.org/wiki/SPQR)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gullydeckel2 chess playing program](http://borriss.com/g2/RELEASE)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gullydeckel Chess Program - Download](http://borriss.com/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> edited, symbols replaced for column alignment
 
 **[Up one Level](Engines "Engines")**
 

@@ -43,9 +43,9 @@ an American computer scientist from the [University of Kentucky](https://en.wiki
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Raphael A. Finkel - Homepage](http://www.cs.uky.edu/%7Eraphael/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1981**) *Analysis of Speedup in Distributed Algorithms* Ph.D. thesis, [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin-Madison), [pdf](http://www.cs.wisc.edu/techreports/1981/TR431.pdf), Appendix: Some Optimizations of Alpha-Beta Search.
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Raphael A. Finkel](http://dblp.uni-trier.de/pers/hd/f/Finkel:Raphael_A=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Raphael A. Finkel - Homepage](http://www.cs.uky.edu/%7Eraphael/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1981**) *Analysis of Speedup in Distributed Algorithms* Ph.D. thesis, [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin-Madison), [pdf](http://www.cs.wisc.edu/techreports/1981/TR431.pdf), Appendix: Some Optimizations of Alpha-Beta Search.
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Raphael A. Finkel](http://dblp.uni-trier.de/pers/hd/f/Finkel:Raphael_A=)
 
 **[Up one level](People "People")**
 

@@ -44,8 +44,8 @@ title: Institute of Control Sciences
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [V. A. Trapeznikov Institute of Control Sciences, Russian Academy of Sciences, Moscow, Russia](http://www.mathnet.ru/php/organisation.phtml?orgid=1511&option_lang=eng)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [V. A. Trapeznikov Institute of Control Sciences - BookletE.pdf](http://www.ipu.ru/sites/default/files/BookletE.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [V. A. Trapeznikov Institute of Control Sciences, Russian Academy of Sciences, Moscow, Russia](http://www.mathnet.ru/php/organisation.phtml?orgid=1511&option_lang=eng)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [V. A. Trapeznikov Institute of Control Sciences - BookletE.pdf](http://www.ipu.ru/sites/default/files/BookletE.pdf)
 
 **[Up one Level](Organizations "Organizations")**
 

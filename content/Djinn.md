@@ -160,10 +160,10 @@ Qf4+ 60.Kg2 Ke3 61.g5 Qxg5+ 62.Kf1 Qg3 63.h4 Qf2# 0-1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The black king of the djinns, Al-Malik al-Aswad, from the late 14th century [Book of Wonders](https://en.wikipedia.org/wiki/Book_of_Wonders), [Bodleian Libraries](https://en.wikipedia.org/wiki/Bodleian_Libraries) Shelfmark; MS. Bodl. Or. 133. Fol. 30b, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Djinn 0.815 Available](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=45757) by [Tom Likens](Tom_Likens "Tom Likens"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 25, 2003
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer Chess Programming Topics](https://web.archive.org/web/20180220175920/http://webpages.charter.net/tlikens/tech.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CCT6 - PGN download](http://www.vrichey.de/cct6/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The black king of the djinns, Al-Malik al-Aswad, from the late 14th century [Book of Wonders](https://en.wikipedia.org/wiki/Book_of_Wonders), [Bodleian Libraries](https://en.wikipedia.org/wiki/Bodleian_Libraries) Shelfmark; MS. Bodl. Or. 133. Fol. 30b, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Djinn 0.815 Available](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=45757) by [Tom Likens](Tom_Likens "Tom Likens"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 25, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer Chess Programming Topics](https://web.archive.org/web/20180220175920/http://webpages.charter.net/tlikens/tech.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CCT6 - PGN download](http://www.vrichey.de/cct6/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
 
 **[Up one level](Engines "Engines")**
 

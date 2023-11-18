@@ -36,8 +36,8 @@ Abbess features [magic bitboards](Magic_Bitboards "Magic Bitboards") to determin
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Portrait of [Maria Theresa of Austria](<https://en.wikipedia.org/wiki/Maria_Theresa_of_Austria_(1816%E2%80%931867)>), [Queen of the Two Sicilies](https://en.wikipedia.org/wiki/List_of_consorts_of_the_Kingdom_of_the_Two_Sicilies) (1816-1867) as abbess with her [crosier](https://en.wikipedia.org/wiki/Crosier), circa 1836, [Abbess from Wikipedia](https://en.wikipedia.org/wiki/Abbess), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Abbess 2016](http://www.talkchess.com/forum/viewtopic.php?t=62528) by [Robert Pope](Robert_Pope "Robert Pope"), [CCC](CCC "CCC"), December 19, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Portrait of [Maria Theresa of Austria](<https://en.wikipedia.org/wiki/Maria_Theresa_of_Austria_(1816%E2%80%931867)>), [Queen of the Two Sicilies](https://en.wikipedia.org/wiki/List_of_consorts_of_the_Kingdom_of_the_Two_Sicilies) (1816-1867) as abbess with her [crosier](https://en.wikipedia.org/wiki/Crosier), circa 1836, [Abbess from Wikipedia](https://en.wikipedia.org/wiki/Abbess), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Abbess 2016](http://www.talkchess.com/forum/viewtopic.php?t=62528) by [Robert Pope](Robert_Pope "Robert Pope"), [CCC](CCC "CCC"), December 19, 2016
 
 **[Up one Level](Engines "Engines")**
 

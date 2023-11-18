@@ -32,10 +32,10 @@ He operated MChess during the [15th World Microcomputer Chess Championship](WMCC
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Schachclub Leinzell Informationen zu aktueller Schachsoftware](http://scleinzell.schachvereine.de/home/pitters.shtml) by Peter Schreiner (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: KK's Gold Metal list](https://groups.google.com/d/msg/rec.games.chess.computer/VkDSuYr15fo/yJlAa234Fj8J) by [Marty Hirsch](Marty_Hirsch "Marty Hirsch"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 24, 1997
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Marty Hirsch](https://groups.google.com/d/msg/rec.games.chess.computer/CE8lF2uw1YY/7tWxUgLgFBoJ) by [Andreas Mader](Andreas_Mader "Andreas Mader"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 6, 1997
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Photo by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"),. [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal"), pp. 231
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Schachclub Leinzell Informationen zu aktueller Schachsoftware](http://scleinzell.schachvereine.de/home/pitters.shtml) by Peter Schreiner (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: KK's Gold Metal list](https://groups.google.com/d/msg/rec.games.chess.computer/VkDSuYr15fo/yJlAa234Fj8J) by [Marty Hirsch](Marty_Hirsch "Marty Hirsch"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 24, 1997
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Marty Hirsch](https://groups.google.com/d/msg/rec.games.chess.computer/CE8lF2uw1YY/7tWxUgLgFBoJ) by [Andreas Mader](Andreas_Mader "Andreas Mader"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 6, 1997
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Photo by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"),. [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal"), pp. 231
 
 **[Up one level](People "People")**
 

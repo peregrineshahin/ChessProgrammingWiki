@@ -52,8 +52,8 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Savant I](https://www.flickr.com/photos/10261668@N05/858166235/sizes/o/in/set-72157600922171918/) from [Novag Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171918/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Savant I](https://www.flickr.com/photos/10261668@N05/858166235/sizes/o/in/set-72157600922171918/) from [Novag Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171918/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one level](Engines "Engines")**
 

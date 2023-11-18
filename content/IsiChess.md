@@ -290,10 +290,10 @@ g2 55.Rg3 Rxb7 56.Rxg2 Ke5 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1999**). *Rotated Bitmaps, a New Twist on an Old Idea*. [ICCA Journal, Vol. 22, No. 4](ICGA_Journal#22_4 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Image photographed from an advertisement
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [IsiChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=17)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Photo by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1999**). *Rotated Bitmaps, a New Twist on an Old Idea*. [ICCA Journal, Vol. 22, No. 4](ICGA_Journal#22_4 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Image photographed from an advertisement
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [IsiChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=17)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Photo by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
 
 **[Up one level](Engines "Engines")**
 

@@ -45,7 +45,7 @@ which won the [21st Computer Olympiad 2018](index.php?title=21st_Computer_Olympi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [dblp: Jung-Kuei Yang](https://dblp.uni-trier.de/pers/hd/y/Yang:Jung=Kuei.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [dblp: Jung-Kuei Yang](https://dblp.uni-trier.de/pers/hd/y/Yang:Jung=Kuei.html)
 
 **[Up one Level](People "People")**
 

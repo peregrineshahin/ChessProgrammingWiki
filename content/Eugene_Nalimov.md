@@ -93,10 +93,10 @@ Eugène Nalimov, winner of the [ChessBase Best-Publication Award](ChessBase#Best
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo from [Las tablas de finales por dentro](http://www.chessbase.com/espanola/newsdetail2.asp?id=2547) [ChessBase espanola](http://www.chessbase.com/espanola/index.asp)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nalimov: bsf/bsr intrinsics implementation still not optimal](https://www.stmintz.com/ccc/index.php?id=388668) by [Dezhi Zhao](index.php?title=Dezhi_Zhao&action=edit&redlink=1 "Dezhi Zhao (page does not exist)"), [CCC](CCC "CCC"), September 22, 2004
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [About compiler optimizations](https://www.stmintz.com/ccc/index.php?id=271642) by [Frédéric Louguet](Fr%C3%A9d%C3%A9ric_Louguet "Frédéric Louguet"), [CCC](CCC "CCC"), December 19, 2002
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Eugene Nalimov: Winner of the ChessBase Award and Guest of Honor in Maastricht](http://archive.today/HFYs) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessBase Events](ChessBase "ChessBase"), July 9, 2002 (archived)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo from [Las tablas de finales por dentro](http://www.chessbase.com/espanola/newsdetail2.asp?id=2547) [ChessBase espanola](http://www.chessbase.com/espanola/index.asp)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nalimov: bsf/bsr intrinsics implementation still not optimal](https://www.stmintz.com/ccc/index.php?id=388668) by [Dezhi Zhao](index.php?title=Dezhi_Zhao&action=edit&redlink=1 "Dezhi Zhao (page does not exist)"), [CCC](CCC "CCC"), September 22, 2004
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [About compiler optimizations](https://www.stmintz.com/ccc/index.php?id=271642) by [Frédéric Louguet](Fr%C3%A9d%C3%A9ric_Louguet "Frédéric Louguet"), [CCC](CCC "CCC"), December 19, 2002
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Eugene Nalimov: Winner of the ChessBase Award and Guest of Honor in Maastricht](http://archive.today/HFYs) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessBase Events](ChessBase "ChessBase"), July 9, 2002 (archived)
 
 **[Up one level](People "People")**
 

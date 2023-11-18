@@ -31,8 +31,8 @@ a Spanish computer chess programmer, and author of the [WinBoard](WinBoard "WinB
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CPT 2008 Participants](http://users.telenet.be/thebaron/html/20082.html) by [Richard Pijl](Richard_Pijl "Richard Pijl")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [25th Open Dutch Computer-Chess Championship 2005, Photo Gallery](http://old.csvn.nl/gallery23.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CPT 2008 Participants](http://users.telenet.be/thebaron/html/20082.html) by [Richard Pijl](Richard_Pijl "Richard Pijl")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [25th Open Dutch Computer-Chess Championship 2005, Photo Gallery](http://old.csvn.nl/gallery23.html)
 
 **[Up one level](People "People")**
 

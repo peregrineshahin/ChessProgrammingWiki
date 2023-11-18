@@ -129,9 +129,9 @@ Ke5 73.Kb2 Nc4+ 74.Kc2 Kd4 75.Ne2+ Ke3 76.Nf4 Nd6 77.Nd5+ Kf3 78.Nf6 h6 79.g4 f4
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo by [Lars Lentz](https://lars-lentz.pixels.com/), [Brightness from Wikipedia](https://en.wikipedia.org/wiki/Brightness)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Interview with Allard Siemelink](https://www.schach-welt.de/schach/computerschach/interviews/allard-siemelink-deng) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Schachwelt](https://www.schach-welt.de/), January 10, 2010
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CCT11: Bright by Allard Siemelink and Fruit by Fabien Letouzey are Co-Champions](https://cctchess.com/previous-events/cct-11/results/) (dead link)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo by [Lars Lentz](https://lars-lentz.pixels.com/), [Brightness from Wikipedia](https://en.wikipedia.org/wiki/Brightness)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Interview with Allard Siemelink](https://www.schach-welt.de/schach/computerschach/interviews/allard-siemelink-deng) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Schachwelt](https://www.schach-welt.de/), January 10, 2010
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CCT11: Bright by Allard Siemelink and Fruit by Fabien Letouzey are Co-Champions](https://cctchess.com/previous-events/cct-11/results/) (dead link)
 
 **[Up one Level](Engines "Engines")**
 

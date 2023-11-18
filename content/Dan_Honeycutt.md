@@ -36,10 +36,10 @@ More recently, Dan is author of the chess engines [Bruja](Bruja "Bruja") written
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Your first chess program](http://www.talkchess.com/forum/viewtopic.php?t=43381) by Dan Honeycutt, [CCC](CCC "CCC"), April 20, 2012
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mersenne twister from Wikipedia](https://en.wikipedia.org/wiki/Mersenne_twister)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [64-bit KISS RNGs](http://compgroups.net/comp.lang.fortran/64-bit-kiss-rngs/601519) by [George Marsaglia](Mathematician#GMarsaglia "Mathematician"), [comp.lang.fortran | Computer Group](http://compgroups.net/comp.lang.fortran/), February 28, 2009
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [RKISS](Bob_Jenkins#RKISS "Bob Jenkins") by [Bob Jenkins](Bob_Jenkins "Bob Jenkins")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Your first chess program](http://www.talkchess.com/forum/viewtopic.php?t=43381) by Dan Honeycutt, [CCC](CCC "CCC"), April 20, 2012
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mersenne twister from Wikipedia](https://en.wikipedia.org/wiki/Mersenne_twister)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [64-bit KISS RNGs](http://compgroups.net/comp.lang.fortran/64-bit-kiss-rngs/601519) by [George Marsaglia](Mathematician#GMarsaglia "Mathematician"), [comp.lang.fortran | Computer Group](http://compgroups.net/comp.lang.fortran/), February 28, 2009
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [RKISS](Bob_Jenkins#RKISS "Bob Jenkins") by [Bob Jenkins](Bob_Jenkins "Bob Jenkins")
 
 **[Up one level](People "People")**
 

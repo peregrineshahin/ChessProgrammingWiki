@@ -34,11 +34,11 @@ and was affiliated with the [Lawrence Radiation Laboratory](Lawrence_Livermore_N
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [James R. Slagle](James_R._Slagle "James R. Slagle"), Philip Bursky (**1968**). *[Experiments With a Multipurpose, Theorem-Proving Heuristic Program](https://dl.acm.org/citation.cfm?id=321444)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 15, No. 1
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Phil Bursky | LinkedIn](https://www.linkedin.com/in/phil-bursky-b41b808/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [James R. Slagle](James_R._Slagle "James R. Slagle"), Philip Bursky (**1968**). *[Experiments With a Multipurpose, Theorem-Proving Heuristic Program](https://dl.acm.org/citation.cfm?id=321444)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 15, No. 1
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Philip Bursky](https://dblp.org/pers/hd/b/Bursky:Philip)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [David C. Cooper](https://www.projecteuclid.org/euclid.jsl/1183735759) (**1970**). *[Review: James R. Slagle, Philip Bursky, Experiments with a Multipurpose, Theorem-Proving Heuristic Program](https://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.jsl/1183737432)*. [Journal of Symbolic Logic](https://en.wikipedia.org/wiki/Journal_of_Symbolic_Logic), Vol. 35, No. 4
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [James R. Slagle](James_R._Slagle "James R. Slagle"), Philip Bursky (**1968**). *[Experiments With a Multipurpose, Theorem-Proving Heuristic Program](https://dl.acm.org/citation.cfm?id=321444)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 15, No. 1
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Phil Bursky | LinkedIn](https://www.linkedin.com/in/phil-bursky-b41b808/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [James R. Slagle](James_R._Slagle "James R. Slagle"), Philip Bursky (**1968**). *[Experiments With a Multipurpose, Theorem-Proving Heuristic Program](https://dl.acm.org/citation.cfm?id=321444)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 15, No. 1
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Philip Bursky](https://dblp.org/pers/hd/b/Bursky:Philip)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [David C. Cooper](https://www.projecteuclid.org/euclid.jsl/1183735759) (**1970**). *[Review: James R. Slagle, Philip Bursky, Experiments with a Multipurpose, Theorem-Proving Heuristic Program](https://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.jsl/1183737432)*. [Journal of Symbolic Logic](https://en.wikipedia.org/wiki/Journal_of_Symbolic_Logic), Vol. 35, No. 4
 
 **[Up one level](Engines "Engines")**
 

@@ -38,8 +38,8 @@ Belka 1.8.13 reads user adjustable [evaluation](Evaluation "Evaluation") paramet
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> 50th anniversary of the space flight of [Belka and Strelka](https://en.wikipedia.org/wiki/Soviet_space_dogs#Belka_and_Strelka), The [Stamp of Russia](https://en.wikipedia.org/wiki/Postage_stamps_and_postal_history_of_Russia), 12 Rubles, October 29, 2010, PTC Marka Catalogue # 1455, Michel # 1687, Author: [Russian Post](https://en.wikipedia.org/wiki/Russian_Post), Publishing and Trade Centre "Marka" (ИТЦ «Марка»). The design of the stamp by O. Yakovleva, [Белка и Стрелка — Википедия](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BA%D0%B0_%D0%B8_%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Is Belka a Rybka?](http://www.talkchess.com/forum3/viewtopic.php?t=18061&start=1) by Andrej Sidorov, [CCC](CCC "CCC"), November 27, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> 50th anniversary of the space flight of [Belka and Strelka](https://en.wikipedia.org/wiki/Soviet_space_dogs#Belka_and_Strelka), The [Stamp of Russia](https://en.wikipedia.org/wiki/Postage_stamps_and_postal_history_of_Russia), 12 Rubles, October 29, 2010, PTC Marka Catalogue # 1455, Michel # 1687, Author: [Russian Post](https://en.wikipedia.org/wiki/Russian_Post), Publishing and Trade Centre "Marka" (ИТЦ «Марка»). The design of the stamp by O. Yakovleva, [Белка и Стрелка — Википедия](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BA%D0%B0_%D0%B8_%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Is Belka a Rybka?](http://www.talkchess.com/forum3/viewtopic.php?t=18061&start=1) by Andrej Sidorov, [CCC](CCC "CCC"), November 27, 2007
 
 **[Up one Level](Engines "Engines")**
 

@@ -44,14 +44,14 @@ He received a B.Sc. degree in [Chinese language](https://en.wikipedia.org/wiki/C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Cheng-Wei Chou(周政緯) - Google Scholar Citations](https://scholar.google.co.jp/citations?user=0UxqLPMAAAAJ&hl=ja)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), Cheng-Wei Chou, [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao") (**2014**). *Design and Implementation of Chinese Dark Chess Programs*. Computational Intelligence and AI in Games, [pdf](https://www.researchgate.net/profile/Cheng_Wei_Chou/publication/270724435_Design_and_Implementation_of_Chinese_Dark_Chess_Programs/links/55462b150cf24107d397e85b.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Cheng-Wei Chou's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=802)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Photos 2013 Events: day 5](https://icga.org/?page_id=849), [ICGA](ICGA "ICGA")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a>  [Cheng-Wei Chou(周政緯) - Google Scholar Citations](https://scholar.google.co.jp/citations?user=0UxqLPMAAAAJ&hl=en)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Cheng-Wei Chou](http://dblp.uni-trier.de/pers/hd/c/Chou:Cheng=Wei)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Hashiwokakero from Wikipedia](https://en.wikipedia.org/wiki/Hashiwokakero)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [NoGo (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/game.php?id=47)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Cheng-Wei Chou(周政緯) - Google Scholar Citations](https://scholar.google.co.jp/citations?user=0UxqLPMAAAAJ&hl=ja)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), Cheng-Wei Chou, [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao") (**2014**). *Design and Implementation of Chinese Dark Chess Programs*. Computational Intelligence and AI in Games, [pdf](https://www.researchgate.net/profile/Cheng_Wei_Chou/publication/270724435_Design_and_Implementation_of_Chinese_Dark_Chess_Programs/links/55462b150cf24107d397e85b.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Cheng-Wei Chou's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=802)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Photos 2013 Events: day 5](https://icga.org/?page_id=849), [ICGA](ICGA "ICGA")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a>  [Cheng-Wei Chou(周政緯) - Google Scholar Citations](https://scholar.google.co.jp/citations?user=0UxqLPMAAAAJ&hl=en)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Cheng-Wei Chou](http://dblp.uni-trier.de/pers/hd/c/Chou:Cheng=Wei)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Hashiwokakero from Wikipedia](https://en.wikipedia.org/wiki/Hashiwokakero)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [NoGo (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/game.php?id=47)
 
 **[Up one Level](People "People")**
 

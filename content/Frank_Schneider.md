@@ -42,12 +42,12 @@ in the background with [Christian Sommerfeld](Christian_Sommerfeld "Christian So
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo from [Tom Kerrigan's](Tom_Kerrigan "Tom Kerrigan") [Home Page](http://www.tckerrigan.com/Chess/Stobor/Paderborn/), during [IPCCC 1997](IPCCC_1997 "IPCCC 1997")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Anaconda Chess Home Page](http://hobblefrank.homepage.t-online.de/AnacondaChess/index.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Welcome to PocketGrandmaster](http://www.pocketgrandmaster.com/english/index.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Photo by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [Workshop Jena 2008: Analysis, Design, and Programming of Games](http://www.althofer.de/workshop-2008.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 03, 2015
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Interface description language - Wikipedia](https://en.wikipedia.org/wiki/Interface_description_language)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo from [Tom Kerrigan's](Tom_Kerrigan "Tom Kerrigan") [Home Page](http://www.tckerrigan.com/Chess/Stobor/Paderborn/), during [IPCCC 1997](IPCCC_1997 "IPCCC 1997")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Anaconda Chess Home Page](http://hobblefrank.homepage.t-online.de/AnacondaChess/index.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Welcome to PocketGrandmaster](http://www.pocketgrandmaster.com/english/index.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Photo by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [Workshop Jena 2008: Analysis, Design, and Programming of Games](http://www.althofer.de/workshop-2008.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 03, 2015
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Interface description language - Wikipedia](https://en.wikipedia.org/wiki/Interface_description_language)
 
 **[Up one level](People "People")**
 

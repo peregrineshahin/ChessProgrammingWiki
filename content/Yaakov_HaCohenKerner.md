@@ -54,9 +54,9 @@ Computerized [chess composers](https://en.wikipedia.org/wiki/Chess_composer) of 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Home Page of Prof. Yaakov HaCohen-Kerner](http://homedir.jct.ac.il/~kerner/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fridel Fainshtein](Fridel_Fainshtein "Fridel Fainshtein"), Yaakov HaCohen-Kerner (**2006**). *A Chess Composer of Two-Move Mate Problems*. [ICGA Journal, Vol. 29, No. 1](ICGA_Journal#29_1 "ICGA Journal"), [pdf](http://homedir.jct.ac.il/~kerner/pdf_docs/ICGA_computer_composer.pdf), Appendix E: 64-bit representation
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Yaakov HaCohen-Kerner](https://dblp.org/pid/h/YaakovHaCohenKerner.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Home Page of Prof. Yaakov HaCohen-Kerner](http://homedir.jct.ac.il/~kerner/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fridel Fainshtein](Fridel_Fainshtein "Fridel Fainshtein"), Yaakov HaCohen-Kerner (**2006**). *A Chess Composer of Two-Move Mate Problems*. [ICGA Journal, Vol. 29, No. 1](ICGA_Journal#29_1 "ICGA Journal"), [pdf](http://homedir.jct.ac.il/~kerner/pdf_docs/ICGA_computer_composer.pdf), Appendix E: 64-bit representation
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Yaakov HaCohen-Kerner](https://dblp.org/pid/h/YaakovHaCohenKerner.html)
 
 **[Up one level](People "People")**
 

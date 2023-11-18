@@ -15,7 +15,7 @@ author of the chess program [KC Chess](KC_Chess "KC Chess") to run under [MS-DOS
 
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [KC Chess: Kevin & Craig's Chess Program](https://web.archive.org/web/20120411173812/http://www.csbruce.com/~csbruce/chess/) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [KC Chess: Kevin & Craig's Chess Program](https://web.archive.org/web/20120411173812/http://www.csbruce.com/~csbruce/chess/) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
 
 **[Up one level](People "People")**
 

@@ -21,10 +21,10 @@ a Taiwanese computer scientist, while affiliated with the Department of Computer
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Introduction to Connect6](http://java.csie.nctu.edu.tw/~icwu/connect6/connect6.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), Dei-Yen Huang (**2005**). *[A New Family of k -in-a-Row Games](http://link.springer.com/chapter/10.1007/11922155_14)*. [Advances in Computer Games 11](Advances_in_Computer_Games_11 "Advances in Computer Games 11"), [pdf](http://www.connect6.org/k-in-a-row.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DBLP: Dei-Yen Huang](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Huang:Dei=Yen.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Publications of I-Chen Wu](http://java.csie.nctu.edu.tw/~icwu/publications.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Introduction to Connect6](http://java.csie.nctu.edu.tw/~icwu/connect6/connect6.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), Dei-Yen Huang (**2005**). *[A New Family of k -in-a-Row Games](http://link.springer.com/chapter/10.1007/11922155_14)*. [Advances in Computer Games 11](Advances_in_Computer_Games_11 "Advances in Computer Games 11"), [pdf](http://www.connect6.org/k-in-a-row.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DBLP: Dei-Yen Huang](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Huang:Dei=Yen.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Publications of I-Chen Wu](http://java.csie.nctu.edu.tw/~icwu/publications.html)
 
 **[Up one Level](People "People")**
 

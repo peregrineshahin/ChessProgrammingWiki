@@ -44,7 +44,7 @@ For [sliding piece](Sliding_Pieces "Sliding Pieces") forks, [Mailbox](Mailbox "M
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jacques Callot](Category:Jacques_Callot "Category:Jacques Callot") - [Le duelliste à l'épée et au poignard](http://commons.wikimedia.org/wiki/File:Le_duelliste_%C3%A0_l%27%C3%A9p%C3%A9e_et_au_poignard.jpg), 1621-1625, Source: [Les Gobbi, Le duelliste à l'épée et au poignard : estampe / Jacques Callot](http://gallica.bnf.fr/ark:/12148/btv1b8495739c/f1.item), [Bibliothèque nationale de France](https://en.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France), [Category:Jacques Callot](http://commons.wikimedia.org/wiki/Category:Jacques_Callot) from [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jacques Callot](Category:Jacques_Callot "Category:Jacques Callot") - [Le duelliste à l'épée et au poignard](http://commons.wikimedia.org/wiki/File:Le_duelliste_%C3%A0_l%27%C3%A9p%C3%A9e_et_au_poignard.jpg), 1621-1625, Source: [Les Gobbi, Le duelliste à l'épée et au poignard : estampe / Jacques Callot](http://gallica.bnf.fr/ark:/12148/btv1b8495739c/f1.item), [Bibliothèque nationale de France](https://en.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France), [Category:Jacques Callot](http://commons.wikimedia.org/wiki/Category:Jacques_Callot) from [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one Level](Tactics "Tactics")**
 

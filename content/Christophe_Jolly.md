@@ -62,10 +62,10 @@ Ra7 35.d5 cxd5 36.cxd5 Ra6 37.Bg6 Rg8 38.Bf7 Bxb4 39.Bxg8 Bxa3 40.Ra2 Bb4
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [KnightX 1.92 aka Techno Chess engine for Winboard - readme.txt](http://technochess.free.fr/readme.txt)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Knightx 1.93 released](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=54309) by Christophe Jolly, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 23, 2019
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Paris - Trier - Lünen](http://www.thorstenczub.de/pariswm97.html), Photos [WMCCC 1997](WMCCC_1997 "WMCCC 1997") by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Paris 1997 - Chess - Round 9 - Game 15 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=9&id=15)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [KnightX 1.92 aka Techno Chess engine for Winboard - readme.txt](http://technochess.free.fr/readme.txt)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Knightx 1.93 released](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=54309) by Christophe Jolly, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 23, 2019
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Paris - Trier - Lünen](http://www.thorstenczub.de/pariswm97.html), Photos [WMCCC 1997](WMCCC_1997 "WMCCC 1997") by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Paris 1997 - Chess - Round 9 - Game 15 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=9&id=15)
 
 **[Up one level](People "People")**
 

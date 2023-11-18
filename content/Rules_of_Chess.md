@@ -104,10 +104,10 @@ it is considered [cheating](https://en.wikipedia.org/wiki/Cheating_in_chess) in 
 
 
 1. ↑ [1.0](#cite-ref-wikipedia-1-0) [1.1](#cite-ref-wikipedia-1-1) [Rules of chess from Wikipedia](https://en.wikipedia.org/wiki/Rules_of_chess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [FIDE Handbook E. Miscellaneous / 03. Regulations for Play with Computers](https://handbook.fide.com/chapter/E03)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CCT: Update to rules for future events](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=35026) by [Peter Skinner](Peter_Skinner "Peter Skinner"), [CCC](CCC "CCC"), June 18, 2010
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [TCEC Leagues Season rules](https://wiki.chessdom.org/Rules)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Question to Uri](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=64798&start=1) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), August 04, 2017
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [FIDE Handbook E. Miscellaneous / 03. Regulations for Play with Computers](https://handbook.fide.com/chapter/E03)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CCT: Update to rules for future events](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=35026) by [Peter Skinner](Peter_Skinner "Peter Skinner"), [CCC](CCC "CCC"), June 18, 2010
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [TCEC Leagues Season rules](https://wiki.chessdom.org/Rules)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Question to Uri](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=64798&start=1) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), August 04, 2017
 
 **[Up one level](Chess "Chess")**
 

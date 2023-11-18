@@ -39,9 +39,9 @@ The computer had a wooden [sensory board](Sensory_Board "Sensory Board") and an 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Fidelity | Photo collection](https://www.flickr.com/photos/10261668@N05/sets/72157600922170604/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fidelity Elite Privat](https://www.schach-computer.info/wiki/index.php/Fidelity_Elite_Privat) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Private Line's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=485)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Fidelity | Photo collection](https://www.flickr.com/photos/10261668@N05/sets/72157600922170604/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fidelity Elite Privat](https://www.schach-computer.info/wiki/index.php/Fidelity_Elite_Privat) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Private Line's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=485)
 
 **[Up one level](Engines "Engines")**
 

@@ -25,10 +25,10 @@ as applied in his [WinBoard](WinBoard "WinBoard") compatible chess engine [Shrik
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Daniel Newman | LinkedIn](https://www.linkedin.com/in/daniel-newman-01a6b813/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Bitboard user's information request](https://www.stmintz.com/ccc/index.php?id=71984) by Dan Newman, [CCC](CCC "CCC"), October 06, 1999
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Remote Shell from Wikipedia](https://en.wikipedia.org/wiki/Remote_Shell)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Windows Implementation of RSHD](http://rshd.sourceforge.net/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Daniel Newman | LinkedIn](https://www.linkedin.com/in/daniel-newman-01a6b813/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Bitboard user's information request](https://www.stmintz.com/ccc/index.php?id=71984) by Dan Newman, [CCC](CCC "CCC"), October 06, 1999
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Remote Shell from Wikipedia](https://en.wikipedia.org/wiki/Remote_Shell)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Windows Implementation of RSHD](http://rshd.sourceforge.net/)
 
 **[Up one level](People "People")**
 

@@ -40,8 +40,8 @@ which then fade away as he realises just how awful the codebase is getting to be
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: New winboard engine Blikskottel 0.4 ?](https://www.stmintz.com/ccc/index.php?id=174758) by [Adam Oellermann](Adam_Oellermann "Adam Oellermann"), [CCC](CCC "CCC"), June 12, 2001
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Definition of Blikskottel in A Dictionary of South African English - DSAE](https://dsae.co.za/entry/blikskottel/e00853)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: New winboard engine Blikskottel 0.4 ?](https://www.stmintz.com/ccc/index.php?id=174758) by [Adam Oellermann](Adam_Oellermann "Adam Oellermann"), [CCC](CCC "CCC"), June 12, 2001
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Definition of Blikskottel in A Dictionary of South African English - DSAE](https://dsae.co.za/entry/blikskottel/e00853)
 
 **[Up one Level](Engines "Engines")**
 

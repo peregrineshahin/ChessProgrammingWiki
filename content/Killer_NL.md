@@ -36,8 +36,8 @@ a chess program developed by [Kees de Kruif](index.php?title=Kees_de_Kruif&actio
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kees de Kruif](index.php?title=Kees_de_Kruif&action=edit&redlink=1 "Kees de Kruif (page does not exist)") (**1982**). *Killer*. in [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1982**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1981*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/03-1982,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201981.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1982**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1981*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/03-1982,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201981.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kees de Kruif](index.php?title=Kees_de_Kruif&action=edit&redlink=1 "Kees de Kruif (page does not exist)") (**1982**). *Killer*. in [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1982**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1981*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/03-1982,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201981.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1982**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1981*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/03-1982,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201981.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
 
 **[Up one level](Engines "Engines")**
 

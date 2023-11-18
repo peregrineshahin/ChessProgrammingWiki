@@ -90,23 +90,23 @@ At the [Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances i
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Matej Guid - Research Page](https://ailab.si/matej/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Matej Guid, [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2006**). *Computer Analysis of World Chess Champions*. [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computers choose: who was the strongest player?](https://en.chessbase.com/post/computers-choose-who-was-the-strongest-player-), [ChessBase News](ChessBase "ChessBase"), October 30, 2006
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computer analysis of world champions](https://en.chessbase.com/post/computer-analysis-of-world-champions) by [Søren Riis](S%C3%B8ren_Riis "Søren Riis"), [ChessBase News](ChessBase "ChessBase"), November 02, 2006
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Matej Guid, [Aritz Pérez](Aritz_P%C3%A9rez "Aritz Pérez"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2008**). *How trustworthy is Crafty's analysis of world chess champions*? [ICGA Journal, Vol. 31, No. 3](ICGA_Journal#31_3 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jean-Marc Alliot - Who is the Master?](Jean-Marc_Alliot#WhoistheMaster "Jean-Marc Alliot")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Vito Janko](index.php?title=Vito_Janko&action=edit&redlink=1 "Vito Janko (page does not exist)"), Matej Guid (**2015**). *Development of a Program for Playing Progressive Chess*. [Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances in Computer Games 14")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [The program for playing Progressive Chess](https://ailab.si/progressive-chess/) by [Vito Janko](index.php?title=Vito_Janko&action=edit&redlink=1 "Vito Janko (page does not exist)") and Matej Guid
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a>  [New Year's present: Progressive Chess](https://en.chessbase.com/post/new-year-s-present-progressive-chess) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), January 01, 2018
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [ICGA Events 2015: Photos Day 3](https://icga.org/?page_id=1340/?page_id=1340) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [dblp: Matej Guid](https://dblp.uni-trier.de/pid/12/6755.html)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2010**). *How can Humans learn from Computers?* Review on Matej Guid's [Ph.D. thesis](Matej_Guid#PHDthesis "Matej Guid"), [ICGA Journal, Vol. 33, No. 5](ICGA_Journal#33_4 "ICGA Journal")
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Dr. Mohammed Azlan Bin Mohamed Iqbal (Publications and Research Grants)](http://metalab.uniten.edu.my/~azlan/Research/)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [A computer program to identify beauty in problems and studies](http://en.chessbase.com/home/TabId/211/PostId/4008602), [ChessBase News](ChessBase "ChessBase"), December 15, 2012
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Re: Tony's positional test suite](http://www.talkchess.com/forum/viewtopic.php?t=64306&start=27) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), August 01, 2017
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Progressive chess from Wikipedia](https://en.wikipedia.org/wiki/Progressive_chess)
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Progressive Chess](http://www.talkchess.com/forum/viewtopic.php?t=60438) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), June 11, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Matej Guid - Research Page](https://ailab.si/matej/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Matej Guid, [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2006**). *Computer Analysis of World Chess Champions*. [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computers choose: who was the strongest player?](https://en.chessbase.com/post/computers-choose-who-was-the-strongest-player-), [ChessBase News](ChessBase "ChessBase"), October 30, 2006
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computer analysis of world champions](https://en.chessbase.com/post/computer-analysis-of-world-champions) by [Søren Riis](S%C3%B8ren_Riis "Søren Riis"), [ChessBase News](ChessBase "ChessBase"), November 02, 2006
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Matej Guid, [Aritz Pérez](Aritz_P%C3%A9rez "Aritz Pérez"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2008**). *How trustworthy is Crafty's analysis of world chess champions*? [ICGA Journal, Vol. 31, No. 3](ICGA_Journal#31_3 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jean-Marc Alliot - Who is the Master?](Jean-Marc_Alliot#WhoistheMaster "Jean-Marc Alliot")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Vito Janko](index.php?title=Vito_Janko&action=edit&redlink=1 "Vito Janko (page does not exist)"), Matej Guid (**2015**). *Development of a Program for Playing Progressive Chess*. [Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances in Computer Games 14")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [The program for playing Progressive Chess](https://ailab.si/progressive-chess/) by [Vito Janko](index.php?title=Vito_Janko&action=edit&redlink=1 "Vito Janko (page does not exist)") and Matej Guid
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a>  [New Year's present: Progressive Chess](https://en.chessbase.com/post/new-year-s-present-progressive-chess) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), January 01, 2018
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ICGA Events 2015: Photos Day 3](https://icga.org/?page_id=1340/?page_id=1340) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [dblp: Matej Guid](https://dblp.uni-trier.de/pid/12/6755.html)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2010**). *How can Humans learn from Computers?* Review on Matej Guid's [Ph.D. thesis](Matej_Guid#PHDthesis "Matej Guid"), [ICGA Journal, Vol. 33, No. 5](ICGA_Journal#33_4 "ICGA Journal")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Dr. Mohammed Azlan Bin Mohamed Iqbal (Publications and Research Grants)](http://metalab.uniten.edu.my/~azlan/Research/)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [A computer program to identify beauty in problems and studies](http://en.chessbase.com/home/TabId/211/PostId/4008602), [ChessBase News](ChessBase "ChessBase"), December 15, 2012
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Re: Tony's positional test suite](http://www.talkchess.com/forum/viewtopic.php?t=64306&start=27) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), August 01, 2017
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Progressive chess from Wikipedia](https://en.wikipedia.org/wiki/Progressive_chess)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Progressive Chess](http://www.talkchess.com/forum/viewtopic.php?t=60438) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), June 11, 2016
 
 **[Up one level](People "People")**
 

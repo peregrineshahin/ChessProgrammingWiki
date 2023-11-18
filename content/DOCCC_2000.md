@@ -410,11 +410,11 @@ Bc6 34.Qe5 Bf3 35.Rd4 Rxd4 36.Qxd4 g4 37.h4 Qa5 38.Rd2 Ra8 39.Qf4 Kg7
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ONK 2000](http://www.csvn.nl/index.php/historie/n-k-computerschaak/45-2000) [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Photo courtesy [Joost Buijs](Joost_Buijs "Joost Buijs"), July 24, 2015
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Photo from [ONK 2000 te Leiden](http://old.csvn.nl/csvnp25.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tao 4.3 (won against Quest, Dutch-ch 2000) is available !](https://www.stmintz.com/ccc/index.php?id=134675) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), October 23, 2000
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Defending Humanity's Honor](http://www.xs4all.nl/~timkr/chess2/honor.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ONK 2000](http://www.csvn.nl/index.php/historie/n-k-computerschaak/45-2000) [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Photo courtesy [Joost Buijs](Joost_Buijs "Joost Buijs"), July 24, 2015
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Photo from [ONK 2000 te Leiden](http://old.csvn.nl/csvnp25.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tao 4.3 (won against Quest, Dutch-ch 2000) is available !](https://www.stmintz.com/ccc/index.php?id=134675) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), October 23, 2000
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Defending Humanity's Honor](http://www.xs4all.nl/~timkr/chess2/honor.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9)
 
 **[Up one level](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship")**
 

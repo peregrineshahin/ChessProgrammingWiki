@@ -31,11 +31,11 @@ an American mathematician with expertise in [machine learning](Learning "Learnin
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jay Scott at satirist.org](http://satirist.org/), self portrait, January 2000
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Math Forum @ Drexel University](http://mathforum.org/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jay Scott at satirist.org](http://satirist.org/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The ACM's Eighteenth North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cabbd) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), as [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1987_18th_NACCC/1987%20NACCC.062303063.sm.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [playing style from search (was Re: Junior's long lines)](https://www.stmintz.com/ccc/index.php?id=13454) by Jay Scott, [CCC](CCC "CCC"), December 29, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jay Scott at satirist.org](http://satirist.org/), self portrait, January 2000
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Math Forum @ Drexel University](http://mathforum.org/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jay Scott at satirist.org](http://satirist.org/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The ACM's Eighteenth North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cabbd) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), as [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1987_18th_NACCC/1987%20NACCC.062303063.sm.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [playing style from search (was Re: Junior's long lines)](https://www.stmintz.com/ccc/index.php?id=13454) by Jay Scott, [CCC](CCC "CCC"), December 29, 1997
 
 **[Up one Level](People "People")**
 

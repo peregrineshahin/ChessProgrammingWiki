@@ -32,10 +32,10 @@ a French chess [International master](https://en.wikipedia.org/wiki/Internationa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Echecs à Dieppe : Jean-Luc Seret le retour - Chess & Strategy - Echecs & Stratégie](http://www.chess-and-strategy.com/2010/08/echecs-dieppe-jean-luc-seret-le-retour.html), August 25, 2010 (French)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Le championnat de France d'échecs](http://heritageechecsfra.free.fr/interest.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Problem Database Serve](http://www.softdecc.com/pdb/search.pdb?expression=A=%27Seret%27%20and%20FIRSTNAME=%27Jean_Luc%27)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Frenchess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=183)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Echecs à Dieppe : Jean-Luc Seret le retour - Chess & Strategy - Echecs & Stratégie](http://www.chess-and-strategy.com/2010/08/echecs-dieppe-jean-luc-seret-le-retour.html), August 25, 2010 (French)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Le championnat de France d'échecs](http://heritageechecsfra.free.fr/interest.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Problem Database Serve](http://www.softdecc.com/pdb/search.pdb?expression=A=%27Seret%27%20and%20FIRSTNAME=%27Jean_Luc%27)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Frenchess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=183)
 
 **[Up one level](People "People")**
 

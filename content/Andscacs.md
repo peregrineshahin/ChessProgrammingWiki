@@ -114,16 +114,16 @@ The about 200 evaluation features were [tuned](Automated_Tuning "Automated Tunin
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Andscacs Logo based on [Flag of Andorra](https://en.wikipedia.org/wiki/Flag_of_Andorra), from [Andscacs Homepage](http://www.andscacs.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New engine - Andscacs](http://www.talkchess.com/forum/viewtopic.php?t=51182) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), February 06, 2014
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Andscacs - New version](http://www.talkchess.com/forum/viewtopic.php?t=51475&start=11) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), March 03, 2014
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [Andscacs - New version 0.70](http://www.talkchess.com/forum/viewtopic.php?t=54257) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), November 05, 2014
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [New engine - Andscacs](http://www.talkchess.com/forum/viewtopic.php?t=51182) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), February 06, 2014
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Changes in Andscacs 0.70](http://www.talkchess.com/forum/viewtopic.php?t=54290) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), November 08, 2014
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Andscacs - New version 0.80](http://www.talkchess.com/forum/viewtopic.php?t=56030) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), April 17, 2015
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Trying to improve lazy smp](http://www.talkchess.com/forum/viewtopic.php?t=55970) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), April 11, 2015
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Andscacs Homepage](http://www.andscacs.com/)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Re: New engine - Andscacs](http://www.talkchess.com/forum/viewtopic.php?t=51182&start=2) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), February 06, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Andscacs Logo based on [Flag of Andorra](https://en.wikipedia.org/wiki/Flag_of_Andorra), from [Andscacs Homepage](http://www.andscacs.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New engine - Andscacs](http://www.talkchess.com/forum/viewtopic.php?t=51182) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), February 06, 2014
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Andscacs - New version](http://www.talkchess.com/forum/viewtopic.php?t=51475&start=11) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), March 03, 2014
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [Andscacs - New version 0.70](http://www.talkchess.com/forum/viewtopic.php?t=54257) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), November 05, 2014
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [New engine - Andscacs](http://www.talkchess.com/forum/viewtopic.php?t=51182) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), February 06, 2014
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Changes in Andscacs 0.70](http://www.talkchess.com/forum/viewtopic.php?t=54290) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), November 08, 2014
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Andscacs - New version 0.80](http://www.talkchess.com/forum/viewtopic.php?t=56030) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), April 17, 2015
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Trying to improve lazy smp](http://www.talkchess.com/forum/viewtopic.php?t=55970) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), April 11, 2015
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Andscacs Homepage](http://www.andscacs.com/)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: New engine - Andscacs](http://www.talkchess.com/forum/viewtopic.php?t=51182&start=2) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), February 06, 2014
 
 **[Up one level](Engines "Engines")**
 

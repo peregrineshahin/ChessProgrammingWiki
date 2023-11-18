@@ -57,11 +57,11 @@ Vitruvius won the [3rd Italian Open Chess Software Cup 2012](IOCSC_2012 "IOCSC 2
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Vitruvian Man](https://en.wikipedia.org/wiki/Vitruvian_Man) by [Leonardo da Vinci](Mathematician#Leonardo "Mathematician"), c. 1487, accompanied by notes based on the work of the famed architect, [Vitruvius](https://en.wikipedia.org/wiki/Vitruvius), Photo by [Luc Viatour](http://www.lucnix.be/main.php), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [IPPOLIT - Deep Saros Page - Discussion - Vitruvius](https://web.archive.org/web/20120315192930/http://ippolit.wikispaces.com/message/view/Deep+Saros+Page/41406245), August 15, 2011 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [VitruviusChess | About Us](https://www.vitruviuschess.com/About-Us.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [VitruviusChess | ITALIAN OPEN CHESS SOFTWARE CUP – Rome, 6-7 october 2012](https://www.vitruviuschess.com/article/ITALIAN-OPEN-CHESS-SOFTWARE-CUP.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Difficult exercise](https://youtu.be/6Q6_m6HlD78) from [GM Shashin](index.php?title=Alexander_Shashin&action=edit&redlink=1 "Alexander Shashin (page does not exist)"), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video (Italian)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Vitruvian Man](https://en.wikipedia.org/wiki/Vitruvian_Man) by [Leonardo da Vinci](Mathematician#Leonardo "Mathematician"), c. 1487, accompanied by notes based on the work of the famed architect, [Vitruvius](https://en.wikipedia.org/wiki/Vitruvius), Photo by [Luc Viatour](http://www.lucnix.be/main.php), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [IPPOLIT - Deep Saros Page - Discussion - Vitruvius](https://web.archive.org/web/20120315192930/http://ippolit.wikispaces.com/message/view/Deep+Saros+Page/41406245), August 15, 2011 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [VitruviusChess | About Us](https://www.vitruviuschess.com/About-Us.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [VitruviusChess | ITALIAN OPEN CHESS SOFTWARE CUP – Rome, 6-7 october 2012](https://www.vitruviuschess.com/article/ITALIAN-OPEN-CHESS-SOFTWARE-CUP.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Difficult exercise](https://youtu.be/6Q6_m6HlD78) from [GM Shashin](index.php?title=Alexander_Shashin&action=edit&redlink=1 "Alexander Shashin (page does not exist)"), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video (Italian)
 
 **[Up one Level](Engines "Engines")**
 

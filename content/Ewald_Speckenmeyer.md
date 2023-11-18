@@ -52,9 +52,9 @@ a German mathematician, computer scientist and professor at the [University of C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lehrstuhl Prof. Dr. E. Speckenmeyer](http://scale.uni-koeln.de/15674.html?&L=0)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Publikationen - Lehrstuhl Prof. Dr. E. Speckenmeyer](http://scale.uni-koeln.de/15387.html?&L=0)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Ewald Speckenmeyer](http://dblp.uni-trier.de/pers/hd/s/Speckenmeyer:Ewald)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lehrstuhl Prof. Dr. E. Speckenmeyer](http://scale.uni-koeln.de/15674.html?&L=0)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Publikationen - Lehrstuhl Prof. Dr. E. Speckenmeyer](http://scale.uni-koeln.de/15387.html?&L=0)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Ewald Speckenmeyer](http://dblp.uni-trier.de/pers/hd/s/Speckenmeyer:Ewald)
 
 **[Up one level](People "People")**
 

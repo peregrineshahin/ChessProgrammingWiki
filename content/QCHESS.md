@@ -33,7 +33,7 @@ QCHESS is a Chess game written in BASIC that uses an algorithmic model of the ga
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [DECUS Program Library PDP-8 Catalog 1978](http://www.bitsavers.org/pdf/dec/decus/programCatalogs/DECUS_Catalog_PDP-8_Aug78.pdf) (pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [DECUS Program Library PDP-8 Catalog 1978](http://www.bitsavers.org/pdf/dec/decus/programCatalogs/DECUS_Catalog_PDP-8_Aug78.pdf) (pdf)
 
 **[Up one level](Engines "Engines")**
 

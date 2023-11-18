@@ -30,10 +30,10 @@ With the improved *Toledo Nanochess* , Óscar held the lead in *The World's Smal
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Óscar Toledo Gutiérrez - About me](https://nanochess.org/author.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Óscar Toledo Gutiérrez (**2009**). *The World's Smallest Chess Program*. [ICGA Journal, Vol. 32, No. 1](ICGA_Journal#32_1 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [International Obfuscated C Code Contest - Toledo Nanochess from Wikipedia](https://en.wikipedia.org/wiki/International_Obfuscated_C_Code_Contest#Toledo_Nanochess)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Toledo Nanochess: The commented source code (book)](http://www.talkchess.com/forum/viewtopic.php?t=51243) by Óscar Toledo Gutiérrez, [CCC](CCC "CCC"), February 11, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Óscar Toledo Gutiérrez - About me](https://nanochess.org/author.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Óscar Toledo Gutiérrez (**2009**). *The World's Smallest Chess Program*. [ICGA Journal, Vol. 32, No. 1](ICGA_Journal#32_1 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [International Obfuscated C Code Contest - Toledo Nanochess from Wikipedia](https://en.wikipedia.org/wiki/International_Obfuscated_C_Code_Contest#Toledo_Nanochess)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Toledo Nanochess: The commented source code (book)](http://www.talkchess.com/forum/viewtopic.php?t=51243) by Óscar Toledo Gutiérrez, [CCC](CCC "CCC"), February 11, 2014
 
 **[Up one level](People "People")**
 

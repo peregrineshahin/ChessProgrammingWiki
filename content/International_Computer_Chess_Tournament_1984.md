@@ -78,8 +78,8 @@ c2 50.Rc8 Kd6 51.h8=Q a6 52.Qd4+ Ke7 53.Qa7+ Kd6 54.Qc5+ Kd7 55.Qc7# 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1984**). *International Computer-Chess Tournament in the Netherlands*. [ICCA Journal, Vol. 7, No. 2](ICGA_Journal#7_2 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1984**). *Merlin wint AEGON Computerschaaktoernooi*. [Schakend Nederland](http://www.worldcat.org/title/schakend-nederland/oclc/24327767), [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/07-1984,%20Schakend%20Nederland,%20J.%20v.d.%20Herik,%20Merlin%20wint%20Aegon%20Computerschaaktoernooi.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1984**). *International Computer-Chess Tournament in the Netherlands*. [ICCA Journal, Vol. 7, No. 2](ICGA_Journal#7_2 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1984**). *Merlin wint AEGON Computerschaaktoernooi*. [Schakend Nederland](http://www.worldcat.org/title/schakend-nederland/oclc/24327767), [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/07-1984,%20Schakend%20Nederland,%20J.%20v.d.%20Herik,%20Merlin%20wint%20Aegon%20Computerschaaktoernooi.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
 
 **[Up one level](Tournaments_and_Matches "Tournaments and Matches")**
 

@@ -40,15 +40,15 @@ Frédéric Louguet was editor of the French computer chess magazine [La Puce Ech
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Frédéric Louguet winner of [Massy 2004](Massy_2004 "Massy 2004"), Image by [Sylvain Renard](Sylvain_Renard "Sylvain Renard") from no longer available [Massy 2004 - Tournoi de programmes d'Echecs](http://www.ludochess.com/trn_massy2004/massy2004.htm) from [LUDOCHESS - Les jeux d'Echecs 100% pur Java](http://www.ludochess.com/dotcom/accueil.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ranch Computing has doubled its GPU calculation power](https://blog.ranchcomputing.com/ranch-computing-has-doubled-its-gpu-calculation-power)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Great quality/price ratio render farm - Ranch Computing](https://www.ranchcomputing.com/en)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Massy, a correction : Raptor is NOT Chess Wizard](https://www.stmintz.com/ccc/index.php?id=301078) by Frédéric Louguet, [CCC](CCC "CCC"), June 16, 2003
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [La Puce Echiquéenne](http://www.blitzchess.fr/fr/biblio/lapuceechiqueenne/index.html) from [blitzchess.fr](http://www.blitzchess.fr)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Présentation LCT II](http://www.blitzchess.fr/fr/tests/lct-ii/) from [blitzchess.fr](http://www.blitzchess.fr)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3) (no longer available)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Massy, France - 4 & 5 Oct 2003 - 10ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2003/tournoi.php3) (no longer available)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Echecs et Mips](http://blitzchess.fr/images/mips.jpg) image from [blitzchess.fr](http://www.blitzchess.fr)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Frédéric Louguet winner of [Massy 2004](Massy_2004 "Massy 2004"), Image by [Sylvain Renard](Sylvain_Renard "Sylvain Renard") from no longer available [Massy 2004 - Tournoi de programmes d'Echecs](http://www.ludochess.com/trn_massy2004/massy2004.htm) from [LUDOCHESS - Les jeux d'Echecs 100% pur Java](http://www.ludochess.com/dotcom/accueil.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ranch Computing has doubled its GPU calculation power](https://blog.ranchcomputing.com/ranch-computing-has-doubled-its-gpu-calculation-power)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Great quality/price ratio render farm - Ranch Computing](https://www.ranchcomputing.com/en)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Massy, a correction : Raptor is NOT Chess Wizard](https://www.stmintz.com/ccc/index.php?id=301078) by Frédéric Louguet, [CCC](CCC "CCC"), June 16, 2003
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [La Puce Echiquéenne](http://www.blitzchess.fr/fr/biblio/lapuceechiqueenne/index.html) from [blitzchess.fr](http://www.blitzchess.fr)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Présentation LCT II](http://www.blitzchess.fr/fr/tests/lct-ii/) from [blitzchess.fr](http://www.blitzchess.fr)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3) (no longer available)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Massy, France - 4 & 5 Oct 2003 - 10ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2003/tournoi.php3) (no longer available)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Echecs et Mips](http://blitzchess.fr/images/mips.jpg) image from [blitzchess.fr](http://www.blitzchess.fr)
 
 **[Up one level](People "People")**
 

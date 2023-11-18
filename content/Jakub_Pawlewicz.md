@@ -53,13 +53,13 @@ a Polish mathematician, computer scientist and assistant professor at [Universit
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jakub Pawlewicz](http://www.mimuw.edu.pl/~pan/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [jakubpawlewicz/MiMHex · GitHub](https://github.com/jakubpawlewicz/MiMHex)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Atari Go at Sensei's Library](http://senseis.xmp.net/?AtariGo)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Jakub Pawlewicz, [Łukasz Lew](index.php?title=%C5%81ukasz_Lew&action=edit&redlink=1 "Łukasz Lew (page does not exist)") (**2006**). *[Improving Depth-First PN-Search: 1 +  ε Trick](http://link.springer.com/chapter/10.1007/978-3-540-75538-8_14)*. [CG 2006](CG_2006 "CG 2006"), [pdf](http://www.mimuw.edu.pl/~pan/papers/lm-pns.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Jakub Pawlewicz - publications](http://www.mimuw.edu.pl/~pan/papers/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Jakub Pawlewicz](http://www.informatik.uni-trier.de/~ley/pers/hd/p/Pawlewicz:Jakub)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Squarefree -- from Wolfram MathWorld](http://mathworld.wolfram.com/Squarefree.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jakub Pawlewicz](http://www.mimuw.edu.pl/~pan/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [jakubpawlewicz/MiMHex · GitHub](https://github.com/jakubpawlewicz/MiMHex)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Atari Go at Sensei's Library](http://senseis.xmp.net/?AtariGo)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Jakub Pawlewicz, [Łukasz Lew](index.php?title=%C5%81ukasz_Lew&action=edit&redlink=1 "Łukasz Lew (page does not exist)") (**2006**). *[Improving Depth-First PN-Search: 1 +  ε Trick](http://link.springer.com/chapter/10.1007/978-3-540-75538-8_14)*. [CG 2006](CG_2006 "CG 2006"), [pdf](http://www.mimuw.edu.pl/~pan/papers/lm-pns.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jakub Pawlewicz - publications](http://www.mimuw.edu.pl/~pan/papers/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Jakub Pawlewicz](http://www.informatik.uni-trier.de/~ley/pers/hd/p/Pawlewicz:Jakub)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Squarefree -- from Wolfram MathWorld](http://mathworld.wolfram.com/Squarefree.html)
 
 **[Up one level](People "People")**
 

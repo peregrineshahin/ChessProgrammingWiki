@@ -35,10 +35,10 @@ He graduated from [University of Wuppertal](https://en.wikipedia.org/wiki/Univer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") from [Ein Besuch in Paderborn](http://www.thorstenczub.de/Paderborn.html), [IPCCC 1998](IPCCC_1998 "IPCCC 1998")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Thorsten Greiner's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=202)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Python & Spark by Thorsten Greiner | Meetup](https://www.meetup.com/Dusseldorf-Data-Science-Meetup/events/227496388/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [XML from Wikipedia](https://en.wikipedia.org/wiki/XML)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") from [Ein Besuch in Paderborn](http://www.thorstenczub.de/Paderborn.html), [IPCCC 1998](IPCCC_1998 "IPCCC 1998")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Thorsten Greiner's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=202)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Python & Spark by Thorsten Greiner | Meetup](https://www.meetup.com/Dusseldorf-Data-Science-Meetup/events/227496388/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [XML from Wikipedia](https://en.wikipedia.org/wiki/XML)
 
 **[Up one level](People "People")**
 

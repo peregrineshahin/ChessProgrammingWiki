@@ -131,14 +131,14 @@ title: Moscow State University
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lomonosov Moscow State University](https://en.wikipedia.org/wiki/Moscow_State_University), Photo by [Dmitry A. Mottl](http://commons.wikimedia.org/wiki/User:Dmottl), September 21, 2012
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Moscow State University from Wikipedia](https://en.wikipedia.org/wiki/Moscow_State_University)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> External Links from Wikipedia and ® [Russian Virtual Computer Museum](Russian_Virtual_Computer_Museum "Russian Virtual Computer Museum")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [List of Moscow State University people - Wikipedia](https://en.wikipedia.org/wiki/List_of_Moscow_State_University_people)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Academician Andrei Ershov | Photograph Album](http://ershov.iis.nsk.su/ershov/english/pict.html) from [Academician Andrei Ershov's Archive](http://ershov.iis.nsk.su/english/index.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Alexander Shen](Mathematician#AShen "Mathematician") (**2020**). *Mathematical works of Vladimir A. Uspensky: A commentary*. [arXiv:2008.02773v1](https://arxiv.org/abs/2008.02773v1)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Vladimir Putin from Wikipedia](https://en.wikipedia.org/wiki/Vladimir_Putin)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Viktor Sadovnichiy from Wikipedia](https://en.wikipedia.org/wiki/Viktor_Sadovnichiy)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lomonosov Moscow State University](https://en.wikipedia.org/wiki/Moscow_State_University), Photo by [Dmitry A. Mottl](http://commons.wikimedia.org/wiki/User:Dmottl), September 21, 2012
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Moscow State University from Wikipedia](https://en.wikipedia.org/wiki/Moscow_State_University)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> External Links from Wikipedia and ® [Russian Virtual Computer Museum](Russian_Virtual_Computer_Museum "Russian Virtual Computer Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [List of Moscow State University people - Wikipedia](https://en.wikipedia.org/wiki/List_of_Moscow_State_University_people)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Academician Andrei Ershov | Photograph Album](http://ershov.iis.nsk.su/ershov/english/pict.html) from [Academician Andrei Ershov's Archive](http://ershov.iis.nsk.su/english/index.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Alexander Shen](Mathematician#AShen "Mathematician") (**2020**). *Mathematical works of Vladimir A. Uspensky: A commentary*. [arXiv:2008.02773v1](https://arxiv.org/abs/2008.02773v1)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Vladimir Putin from Wikipedia](https://en.wikipedia.org/wiki/Vladimir_Putin)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Viktor Sadovnichiy from Wikipedia](https://en.wikipedia.org/wiki/Viktor_Sadovnichiy)
 
 **[Up one Level](Organizations "Organizations")**
 

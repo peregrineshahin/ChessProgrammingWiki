@@ -52,10 +52,10 @@ Johannes Czech continued the development in porting the engine to [C++](Cpp "Cpp
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [QueensGambit (Johannes Czech) · GitHub](https://github.com/QueensGambit)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [TU Darmstadt | Johannes Czech](https://www.ml.informatik.tu-darmstadt.de/people/jczech/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Johannes Czech (**2019**). *Deep Reinforcement Learning for Crazyhouse*. Master thesis, [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology"), [pdf](https://ml-research.github.io/papers/czech2019deep.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Johannes Czech](https://dblp.org/pid/247/6412.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [QueensGambit (Johannes Czech) · GitHub](https://github.com/QueensGambit)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TU Darmstadt | Johannes Czech](https://www.ml.informatik.tu-darmstadt.de/people/jczech/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Johannes Czech (**2019**). *Deep Reinforcement Learning for Crazyhouse*. Master thesis, [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology"), [pdf](https://ml-research.github.io/papers/czech2019deep.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Johannes Czech](https://dblp.org/pid/247/6412.html)
 
 **[Up one level](People "People")**
 

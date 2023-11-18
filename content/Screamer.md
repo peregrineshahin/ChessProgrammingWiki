@@ -64,8 +64,8 @@ and a variable [transposition table](Transposition_Table "Transposition Table") 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Screamer Chess Home Page Screamer and Screamer II](https://web.archive.org/web/20011212070033/http://pweb.netcom.com/~wbryant/screamer.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), December 12, 2001)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Screamer Readme File](https://macfreebees.tripod.com/readme2/screamerchess.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Screamer Chess Home Page Screamer and Screamer II](https://web.archive.org/web/20011212070033/http://pweb.netcom.com/~wbryant/screamer.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), December 12, 2001)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Screamer Readme File](https://macfreebees.tripod.com/readme2/screamerchess.html)
 
 **[Up one Level](Engines "Engines")**
 

@@ -43,12 +43,12 @@ a French/British <a id="cite-note-2" href="#cite-ref-2">[2]</a> computer games p
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [About Wyllie's Programmer](http://www.wylliedraughts.com/roberto.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Summer98-Tournament: Description](http://chess.fsv.de/Summer98/descript.htm#Roberto%20Waldteufel) by [Torsten Schoop](index.php?title=Torsten_Schoop&action=edit&redlink=1 "Torsten Schoop (page does not exist)")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: V Spanish MCC](https://www.stmintz.com/ccc/index.php?id=23490) by Roberto Waldteufel, [CCC](CCC "CCC"), July 31, 1998
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Wyllie Checkers Program](http://www.wylliedraughts.com/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Rabbit available for download](https://www.stmintz.com/ccc/index.php?id=33136) by Roberto Waldteufel, [CCC](CCC "CCC"), November 16, 1998
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Extracting information from rotated Bitboards](https://www.stmintz.com/ccc/index.php?id=31456) by Roberto Waldteufel, [CCC](CCC "CCC"), November 02, 1998
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [About Wyllie's Programmer](http://www.wylliedraughts.com/roberto.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Summer98-Tournament: Description](http://chess.fsv.de/Summer98/descript.htm#Roberto%20Waldteufel) by [Torsten Schoop](index.php?title=Torsten_Schoop&action=edit&redlink=1 "Torsten Schoop (page does not exist)")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: V Spanish MCC](https://www.stmintz.com/ccc/index.php?id=23490) by Roberto Waldteufel, [CCC](CCC "CCC"), July 31, 1998
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Wyllie Checkers Program](http://www.wylliedraughts.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Rabbit available for download](https://www.stmintz.com/ccc/index.php?id=33136) by Roberto Waldteufel, [CCC](CCC "CCC"), November 16, 1998
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Extracting information from rotated Bitboards](https://www.stmintz.com/ccc/index.php?id=31456) by Roberto Waldteufel, [CCC](CCC "CCC"), November 02, 1998
 
 **[Up one level](People "People")**
 

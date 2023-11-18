@@ -31,8 +31,8 @@ PLY was discontinued in 1998 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 2020
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PLY/SSDF – the story](https://web.archive.org/web/20180713223218/http://privat.bahnhof.se/wb432434/historik.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), July 2018)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 2020
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PLY/SSDF – the story](https://web.archive.org/web/20180713223218/http://privat.bahnhof.se/wb432434/historik.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), July 2018)
 
 **[Up one Level](Periodical "Periodical")**
 

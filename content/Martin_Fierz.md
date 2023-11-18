@@ -95,11 +95,11 @@ and the Checkers [GUI](GUI "GUI") *CheckerBoard* <a id="cite-note-4" href="#cite
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Martin Fierz | LinkedIn](https://www.linkedin.com/in/martin-fierz-01463649/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Martin's World >> Muse](http://www.fierz.ch/muse.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Martin's World >> Cake](http://www.fierz.ch/cake.php)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Martin's World >> CheckerBoard](http://www.fierz.ch/checkerboard.php)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Martin's World >> Physics - Publication](http://www.fierz.ch/physics.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Martin Fierz | LinkedIn](https://www.linkedin.com/in/martin-fierz-01463649/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Martin's World >> Muse](http://www.fierz.ch/muse.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Martin's World >> Cake](http://www.fierz.ch/cake.php)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Martin's World >> CheckerBoard](http://www.fierz.ch/checkerboard.php)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Martin's World >> Physics - Publication](http://www.fierz.ch/physics.htm)
 
 **[Up one level](People "People")**
 

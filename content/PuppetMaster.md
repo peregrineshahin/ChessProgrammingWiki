@@ -98,13 +98,13 @@ Qxd3 44.Bxd3 Ra2 45.Bxf5+ g6 46.Bd3 Rxa5 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [raspberry pi cluster versus fairymax](http://www.talkchess.com/forum/viewtopic.php?t=49892) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), October 31, 2013
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: CSVN Programmers' Tournaments May 2014](http://www.talkchess.com/forum/viewtopic.php?t=51761&start=41) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), May 20, 2014
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Photo by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [PT46: Round 1](http://www.computerschaak.nl/nieuws-mainmenu-28/51-toernooien/639-pt46-round-1)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: CSVN Programmers' Tournaments May 2014](http://www.talkchess.com/forum/viewtopic.php?t=51761&start=39) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), May 20, 2014
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Cruel fate that [Arasan](Arasan "Arasan"), which became runner-up at [PT 46](PT_46 "PT 46") behind the [The Baron](The_Baron "The Baron"), lost from PuppetMaster due to an operator glitch unexperienced with [Arena](Arena "Arena"), [Re: The Baron is the winner](http://www.talkchess.com/forum/viewtopic.php?t=52344&start=12) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [CCC](CCC "CCC"), May 18, 2014
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CSVN PT 46 PGN download](http://marcelk.net/2014-05-18/PT46.pgn.bz2)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Photo by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [PT46: Round 4](http://www.computerschaak.nl/nieuws-mainmenu-28/51-toernooien/643-pt46-round-4)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [raspberry pi cluster versus fairymax](http://www.talkchess.com/forum/viewtopic.php?t=49892) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), October 31, 2013
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: CSVN Programmers' Tournaments May 2014](http://www.talkchess.com/forum/viewtopic.php?t=51761&start=41) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), May 20, 2014
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Photo by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [PT46: Round 1](http://www.computerschaak.nl/nieuws-mainmenu-28/51-toernooien/639-pt46-round-1)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: CSVN Programmers' Tournaments May 2014](http://www.talkchess.com/forum/viewtopic.php?t=51761&start=39) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), May 20, 2014
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Cruel fate that [Arasan](Arasan "Arasan"), which became runner-up at [PT 46](PT_46 "PT 46") behind the [The Baron](The_Baron "The Baron"), lost from PuppetMaster due to an operator glitch unexperienced with [Arena](Arena "Arena"), [Re: The Baron is the winner](http://www.talkchess.com/forum/viewtopic.php?t=52344&start=12) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [CCC](CCC "CCC"), May 18, 2014
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CSVN PT 46 PGN download](http://marcelk.net/2014-05-18/PT46.pgn.bz2)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Photo by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [PT46: Round 4](http://www.computerschaak.nl/nieuws-mainmenu-28/51-toernooien/643-pt46-round-4)
 
 **[Up one Level](Engines "Engines")**
 

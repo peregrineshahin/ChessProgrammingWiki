@@ -21,9 +21,9 @@ a Japanese software developer, computer chess programmer, and author of the [UCI
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [MetalPhaeton (Hironori Ishibashi) | DeviantArt](https://www.deviantart.com/metalphaeton)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Phaeton from Wikipedia](https://en.wikipedia.org/wiki/Phaeton))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MetalPhaeton/sayuri · GitHub](https://github.com/MetalPhaeton/sayuri)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [MetalPhaeton (Hironori Ishibashi) | DeviantArt](https://www.deviantart.com/metalphaeton)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Phaeton from Wikipedia](https://en.wikipedia.org/wiki/Phaeton))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MetalPhaeton/sayuri · GitHub](https://github.com/MetalPhaeton/sayuri)
 
 **[Up one level](People "People")**
 

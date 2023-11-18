@@ -39,8 +39,8 @@ Much consists of several programs. The [user-interface](User_Interface "User Int
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Much's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=355)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](https://www.computerhistory.org/chess/doc-434fea055cbb3/) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), hosted by[The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Much's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=355)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](https://www.computerhistory.org/chess/doc-434fea055cbb3/) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), hosted by[The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](Engines "Engines")**
 

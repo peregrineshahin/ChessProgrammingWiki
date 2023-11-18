@@ -20,8 +20,8 @@ a Taiwanese computer scientist affiliated with the Department of Computer Scienc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pascal Tang](Pascal_Tang "Pascal Tang") (**2015**). *SHIGA wins Chinese Chess Tournament*. [ICGA Journal, Vol. 38, No. 4](ICGA_Journal#38_4 "ICGA Journal")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp:Ching-Hua Kuo](http://dblp.uni-trier.de/pers/hd/k/Kuo:Ching=Hua)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pascal Tang](Pascal_Tang "Pascal Tang") (**2015**). *SHIGA wins Chinese Chess Tournament*. [ICGA Journal, Vol. 38, No. 4](ICGA_Journal#38_4 "ICGA Journal")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp:Ching-Hua Kuo](http://dblp.uni-trier.de/pers/hd/k/Kuo:Ching=Hua)
 
 **[Up one Level](People "People")**
 

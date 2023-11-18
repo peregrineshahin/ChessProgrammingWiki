@@ -125,9 +125,9 @@ a Chilean writer, journalist, sociologist affiliated with the [University of Chi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Fernando Villegas at [Feria Santiago International Book Fair](https://en.wikipedia.org/wiki/Santiago_International_Book_Fair) 2017, [Fernando Villegas from Wikipedia.es](https://es.wikipedia.org/wiki/Fernando_Villegas) (Spanish)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fernando Villegas from Wikipedia.es](http://es.wikipedia.org/wiki/Fernando_Villegas) (Spanish)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [December 2001 riots in Argentina from Wikipedia](https://en.wikipedia.org/wiki/December_2001_riots_in_Argentina)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Fernando Villegas at [Feria Santiago International Book Fair](https://en.wikipedia.org/wiki/Santiago_International_Book_Fair) 2017, [Fernando Villegas from Wikipedia.es](https://es.wikipedia.org/wiki/Fernando_Villegas) (Spanish)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fernando Villegas from Wikipedia.es](http://es.wikipedia.org/wiki/Fernando_Villegas) (Spanish)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [December 2001 riots in Argentina from Wikipedia](https://en.wikipedia.org/wiki/December_2001_riots_in_Argentina)
 
 **[Up one level](People "People")**
 

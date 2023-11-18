@@ -79,12 +79,12 @@ Jan passed away on December 16, 2022.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Jan Krabbenbos, Assistent Tournament Director at [WCCC 2015](WCCC_2015 "WCCC 2015")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [FIDE chess profile - Krabbenbos, Jan](http://ratings.fide.com/card.phtml?event=1037536)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jan Krabbenbos | LinkedIn](http://www.linkedin.com/in/jankrabbenbos)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [5th CSVN-Tournament 2005 Gallery](http://old.csvn.nl/gallery22.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Einstein würfelt nicht](http://www.3-hirn-verlag.de/MasterGame/regel.html) von [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), Copyright 2004
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [A challenge to Theo van der Storm!](https://www.stmintz.com/ccc/index.php?id=415289) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CCC](CCC "CCC"), March 04, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Jan Krabbenbos, Assistent Tournament Director at [WCCC 2015](WCCC_2015 "WCCC 2015")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [FIDE chess profile - Krabbenbos, Jan](http://ratings.fide.com/card.phtml?event=1037536)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jan Krabbenbos | LinkedIn](http://www.linkedin.com/in/jankrabbenbos)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [5th CSVN-Tournament 2005 Gallery](http://old.csvn.nl/gallery22.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Einstein würfelt nicht](http://www.3-hirn-verlag.de/MasterGame/regel.html) von [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), Copyright 2004
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [A challenge to Theo van der Storm!](https://www.stmintz.com/ccc/index.php?id=415289) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CCC](CCC "CCC"), March 04, 2005
 
 **[Up one level](People "People")**
 

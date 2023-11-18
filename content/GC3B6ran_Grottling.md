@@ -41,9 +41,9 @@ and author of computer chess articles and interviews published in [ICCA Journal]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Göran Grottling explains the Swedish rating system to [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"), [WMCCC 1988](WMCCC_1988 "WMCCC 1988"), Photo in Göran Grottling (**1989**). *Eine Lebende Legende - Ein Interview mit Kathe Spracklen*. [Modul](Modul "Modul"), 1/89, pp. 41-45 (German), [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/03-1989,%20Modul,%20Goran%20Grottling,%20Ein%20Interview%20mit%20Kathe%20Spracklen.pdf)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Thomas Mally](Thomas_Mally "Thomas Mally") (**1990**). *Interview mit dem Interviewer. Göran Grottling über die Schwedische Rating-Liste*. [Modul](Modul "Modul") 2/90, pp. 12-18 (German), [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1990,%20Modul,%20Goran%20Grottling%20uber%20die%20Schwedische%20Rating-Liste.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [PLY/SSDF – the story](https://web.archive.org/web/20180713223218/http://privat.bahnhof.se/wb432434/historik.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), July 2018)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Göran Grottling explains the Swedish rating system to [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"), [WMCCC 1988](WMCCC_1988 "WMCCC 1988"), Photo in Göran Grottling (**1989**). *Eine Lebende Legende - Ein Interview mit Kathe Spracklen*. [Modul](Modul "Modul"), 1/89, pp. 41-45 (German), [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/03-1989,%20Modul,%20Goran%20Grottling,%20Ein%20Interview%20mit%20Kathe%20Spracklen.pdf)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Thomas Mally](Thomas_Mally "Thomas Mally") (**1990**). *Interview mit dem Interviewer. Göran Grottling über die Schwedische Rating-Liste*. [Modul](Modul "Modul") 2/90, pp. 12-18 (German), [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1990,%20Modul,%20Goran%20Grottling%20uber%20die%20Schwedische%20Rating-Liste.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PLY/SSDF – the story](https://web.archive.org/web/20180713223218/http://privat.bahnhof.se/wb432434/historik.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), July 2018)
 
 **[Up one level](People "People")**
 

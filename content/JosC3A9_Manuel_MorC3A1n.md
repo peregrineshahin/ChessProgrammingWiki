@@ -50,12 +50,12 @@ Bc4 58.Kg1 Bd5 59.Rc1 Qd6 60.Qe3 Bb7 61.Rf1 Qd5 62.Qf2 b4 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Spanish Checkers | Board Game | BoardGameGeek](https://boardgamegeek.com/boardgame/36250/spanish-checkers)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ruy Lopez' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=96)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Antonio de Torquemada from Wikipedia](https://en.wikipedia.org/wiki/Antonio_de_Torquemada)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [alonamaloh / RuyDos / source / LICENSE — Bitbucket](https://bitbucket.org/alonamaloh/ruydos/src/88d7ffc1026339c334ee75d234a8df9e6af2ca34/LICENSE?at=default)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué") (left) and José Manuel Morán at [WCCC 2003](WCCC_2003 "WCCC 2003"), from [Chess in a cave – live from Graz](https://en.chessbase.com/post/che-in-a-cave-live-from-graz), [ChessBase News](ChessBase "ChessBase"), November, 23, 2003
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Graz 2003 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=1&id=2)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Spanish Checkers | Board Game | BoardGameGeek](https://boardgamegeek.com/boardgame/36250/spanish-checkers)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ruy Lopez' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=96)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Antonio de Torquemada from Wikipedia](https://en.wikipedia.org/wiki/Antonio_de_Torquemada)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [alonamaloh / RuyDos / source / LICENSE — Bitbucket](https://bitbucket.org/alonamaloh/ruydos/src/88d7ffc1026339c334ee75d234a8df9e6af2ca34/LICENSE?at=default)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué") (left) and José Manuel Morán at [WCCC 2003](WCCC_2003 "WCCC 2003"), from [Chess in a cave – live from Graz](https://en.chessbase.com/post/che-in-a-cave-live-from-graz), [ChessBase News](ChessBase "ChessBase"), November, 23, 2003
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Graz 2003 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=1&id=2)
 
 **[Up one level](People "People")**
 

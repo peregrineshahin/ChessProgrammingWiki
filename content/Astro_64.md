@@ -48,9 +48,9 @@ gxh4 27.Qxh6 Rxe5 28.dxe5 Qb6+ 29.Kg2 hxg3 30.Qg5+ Kf8 31.exf6 Qf2+
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Viorel Darie - Cantec pentru Bucovina - index.html](http://www.vioreldarie.ro/index.php?ToDo=ActInfo) (Romanian)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ulrich Friedberg](index.php?title=Ulrich_Friedberg&action=edit&redlink=1 "Ulrich Friedberg (page does not exist)") (**1978**). *A Roumanian Rhapsody - Computer Felix C-256 Plays Chess*. [Personal Computing, Vol. 2, No. 10](Personal_Computing#2_10 "Personal Computing"), pp. 76
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Editor (**1979**). *Romanian Computer Loses to Newspaper Readers*. [Personal Computing, Vol. 3, No. 3](Personal_Computing#3_3 "Personal Computing"), pp. 45
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Viorel Darie - Cantec pentru Bucovina - index.html](http://www.vioreldarie.ro/index.php?ToDo=ActInfo) (Romanian)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ulrich Friedberg](index.php?title=Ulrich_Friedberg&action=edit&redlink=1 "Ulrich Friedberg (page does not exist)") (**1978**). *A Roumanian Rhapsody - Computer Felix C-256 Plays Chess*. [Personal Computing, Vol. 2, No. 10](Personal_Computing#2_10 "Personal Computing"), pp. 76
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Editor (**1979**). *Romanian Computer Loses to Newspaper Readers*. [Personal Computing, Vol. 3, No. 3](Personal_Computing#3_3 "Personal Computing"), pp. 45
 
 **[Up one level](Engines "Engines")**
 

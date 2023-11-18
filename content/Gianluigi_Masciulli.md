@@ -30,8 +30,8 @@ Gianluigi Masciulli is author of the chess engine [Golem](Golem "Golem") <a id="
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Intervista a Gianluigi Masciulli, autore di Golem](http://spazioinwind.libero.it/dellacorte/ita/interviste/int_01_glm.htm) « [G 6](G_6 "G 6")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html) (archived)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Intervista a Gianluigi Masciulli, autore di Golem](http://spazioinwind.libero.it/dellacorte/ita/interviste/int_01_glm.htm) « [G 6](G_6 "G 6")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html) (archived)
 
 **[Up one level](People "People")**
 

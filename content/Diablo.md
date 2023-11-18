@@ -85,8 +85,8 @@ The [depth-preferred](Transposition_Table#ReplacementStrategies "Transposition T
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Diablo Cojuelo](https://commons.wikimedia.org/wiki/File:Cojuelo03.JPG) by DRW2193, February 01, 2011, [Culture of the Dominican Republic - Festivals - Wikipedia](https://en.wikipedia.org/wiki/Culture_of_the_Dominican_Republic#Festivals), [Category: Diablo Cojuelo](http://commons.wikimedia.org/wiki/Category:Diablo_Cojuelo), [Diablo Cojuelo from Wikipedia.es](https://es.wikipedia.org/wiki/Diablo_Cojuelo), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Diablo 0.5.1 JA](http://kirill-kryukov.com/chess/kcec/cgi/engine_details.cgi?print=Details&each_game=1&eng=Diablo%200.5.1%20JA) in [KCEC](KCEC "KCEC")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Diablo Cojuelo](https://commons.wikimedia.org/wiki/File:Cojuelo03.JPG) by DRW2193, February 01, 2011, [Culture of the Dominican Republic - Festivals - Wikipedia](https://en.wikipedia.org/wiki/Culture_of_the_Dominican_Republic#Festivals), [Category: Diablo Cojuelo](http://commons.wikimedia.org/wiki/Category:Diablo_Cojuelo), [Diablo Cojuelo from Wikipedia.es](https://es.wikipedia.org/wiki/Diablo_Cojuelo), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Diablo 0.5.1 JA](http://kirill-kryukov.com/chess/kcec/cgi/engine_details.cgi?print=Details&each_game=1&eng=Diablo%200.5.1%20JA) in [KCEC](KCEC "KCEC")
 
 **[Up one Level](Engines "Engines")**
 

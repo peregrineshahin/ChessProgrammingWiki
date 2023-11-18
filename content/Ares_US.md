@@ -59,9 +59,9 @@ Ares is designed for human like, entertaining playing style, and is therefor sui
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Rollout of Ares I-X at [Kennedy Space Center Launch Complex 39](https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39) secured by four bolts on a mobile launcher platform, Author: NASA/Kim Shiflett, Source: [NASA Kennedy Media Gallery](http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=43714), [Ares I-X from Wikipedia](https://en.wikipedia.org/wiki/Ares_I-X)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ares 1.0 in honor of the NASA Ares I-X Space Rocket](http://www.talkchess.com/forum/viewtopic.php?t=30424) by [Charles Roberson](Charles_Roberson "Charles Roberson"), [CCC](CCC "CCC"), October 31, 2009
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ares Chess 1.005.2](http://aigames.net/AresChess1-005.2.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Rollout of Ares I-X at [Kennedy Space Center Launch Complex 39](https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39) secured by four bolts on a mobile launcher platform, Author: NASA/Kim Shiflett, Source: [NASA Kennedy Media Gallery](http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=43714), [Ares I-X from Wikipedia](https://en.wikipedia.org/wiki/Ares_I-X)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ares 1.0 in honor of the NASA Ares I-X Space Rocket](http://www.talkchess.com/forum/viewtopic.php?t=30424) by [Charles Roberson](Charles_Roberson "Charles Roberson"), [CCC](CCC "CCC"), October 31, 2009
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ares Chess 1.005.2](http://aigames.net/AresChess1-005.2.html)
 
 **[Up one Level](Engines "Engines")**
 

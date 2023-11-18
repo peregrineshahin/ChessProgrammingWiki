@@ -31,10 +31,10 @@ Already affiliated with [IBM Research](index.php?title=IBM&action=edit&redlink=1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Deep Blue Team Member Joe Hoane](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f68108d) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), Courtesy of IBM archives
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [IBM100 - Deep Blue - The Team - Joseph Hoane Jr.](http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/team/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Joe Hoane (left) and Garry Kasparov at the 1991 CeBIT show in Hannover, Germany](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd1d41b), Photo courtesy: [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The core Deep Blue team](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f67157b) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), Courtesy of IBM Archives
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Deep Blue Team Member Joe Hoane](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f68108d) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), Courtesy of IBM archives
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [IBM100 - Deep Blue - The Team - Joseph Hoane Jr.](http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/team/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Joe Hoane (left) and Garry Kasparov at the 1991 CeBIT show in Hannover, Germany](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd1d41b), Photo courtesy: [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The core Deep Blue team](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f67157b) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), Courtesy of IBM Archives
 
 **[Up one level](People "People")**
 

@@ -54,9 +54,9 @@ Chess players in Harvard Square <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Harvard Square seen from a nearby building, Image by Chensiyuan, April 08, 2010, [Harvard University from Wikipedia](https://en.wikipedia.org/wiki/Harvard_University)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Harvard University from Wikipedia](https://en.wikipedia.org/wiki/Harvard_University)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Dean Metrovich (left, in sunglasses) teaches chess in Harvard Square, Photo: Steve Stepak, [Harvard Square from Wikipedia](https://en.wikipedia.org/wiki/Harvard_Square)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Harvard Square seen from a nearby building, Image by Chensiyuan, April 08, 2010, [Harvard University from Wikipedia](https://en.wikipedia.org/wiki/Harvard_University)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Harvard University from Wikipedia](https://en.wikipedia.org/wiki/Harvard_University)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Dean Metrovich (left, in sunglasses) teaches chess in Harvard Square, Photo: Steve Stepak, [Harvard Square from Wikipedia](https://en.wikipedia.org/wiki/Harvard_Square)
 
 **[Up one Level](Organizations "Organizations")**
 

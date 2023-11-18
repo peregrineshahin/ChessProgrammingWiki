@@ -64,18 +64,18 @@ The [Magog](https://www.game-ai-forum.org/icga-tournaments/program.php?id=137) t
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [evdwerf (Erik van der Werf) · GitHub](https://github.com/evdwerf)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Homepage of Erik van der Werf](http://erikvanderwerf.tengen.nl/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Magog](http://erikvanderwerf.tengen.nl/magog.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [About Steenvreter](http://erikvanderwerf.tengen.nl/steenvreter.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [About GridMaster](http://erikvanderwerf.tengen.nl/gridmaster.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [5x5 Go is solved](http://erikvanderwerf.tengen.nl/5x5/5x5solved.html) October 20,2002
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Benson's Definition of Unconditional Life / Version 20100208 at Sensei's Library](https://senseis.xmp.net/?BensonsDefinitionOfUnconditionalLife%2FVersion20100208)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [David B. Benson](index.php?title=David_B._Benson&action=edit&redlink=1 "David B. Benson (page does not exist)") (**1976**). *Life in the Game of Go*. [Information Sciences](<https://en.wikipedia.org/wiki/Information_Sciences_(journal)>), Vol. 10, [pdf](https://webdocs.cs.ualberta.ca/~games/go/seminar/2002/020717/benson.pdf)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [MAGOG](http://erikvanderwerf.tengen.nl/magog.html)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Publications of Erik van der Werf](http://erikvanderwerf.tengen.nl/publications.html)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [dblp: Erik C. D. van der Werf](https://dblp.org/pers/hd/w/Werf:Erik_C=_D=_van_der)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [evdwerf (Erik van der Werf) · GitHub](https://github.com/evdwerf)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Homepage of Erik van der Werf](http://erikvanderwerf.tengen.nl/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Magog](http://erikvanderwerf.tengen.nl/magog.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [About Steenvreter](http://erikvanderwerf.tengen.nl/steenvreter.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [About GridMaster](http://erikvanderwerf.tengen.nl/gridmaster.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [5x5 Go is solved](http://erikvanderwerf.tengen.nl/5x5/5x5solved.html) October 20,2002
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Benson's Definition of Unconditional Life / Version 20100208 at Sensei's Library](https://senseis.xmp.net/?BensonsDefinitionOfUnconditionalLife%2FVersion20100208)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [David B. Benson](index.php?title=David_B._Benson&action=edit&redlink=1 "David B. Benson (page does not exist)") (**1976**). *Life in the Game of Go*. [Information Sciences](<https://en.wikipedia.org/wiki/Information_Sciences_(journal)>), Vol. 10, [pdf](https://webdocs.cs.ualberta.ca/~games/go/seminar/2002/020717/benson.pdf)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [MAGOG](http://erikvanderwerf.tengen.nl/magog.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Publications of Erik van der Werf](http://erikvanderwerf.tengen.nl/publications.html)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [dblp: Erik C. D. van der Werf](https://dblp.org/pers/hd/w/Werf:Erik_C=_D=_van_der)
 
 **[Up one level](People "People")**
 

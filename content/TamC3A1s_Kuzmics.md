@@ -69,8 +69,8 @@ a Hungarian web developer <a id="cite-note-1" href="#cite-ref-1">[1]</a> and com
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tamás Kuzmics | LinkedIn](https://www.linkedin.com/in/tam%C3%A1s-kuzmics-a225931b6/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mobile application](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73377) by Tamás Kuzmics, [CCC](CCC "CCC"), March 15, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tamás Kuzmics | LinkedIn](https://www.linkedin.com/in/tam%C3%A1s-kuzmics-a225931b6/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mobile application](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73377) by Tamás Kuzmics, [CCC](CCC "CCC"), March 15, 2020
 
 **[Up one level](People "People")**
 

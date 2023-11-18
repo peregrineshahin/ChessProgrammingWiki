@@ -91,12 +91,12 @@ a Dutch computer and games scientist and [CEO](https://en.wikipedia.org/wiki/Chi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Victor Allis - Where has he been? Where did he go?](http://web.archive.org/web/20041204234709/www.cs.vu.nl/~victor/home.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Victor Allis (**1988**). *A Knowledge-Based Approach of Connect Four: The Game is Over, White to Move Wins*. M.Sc. Thesis, Report No. IR-163, Faculty of Mathematics and Computer Science, [Vrije Universteit, Amsterdam](https://en.wikipedia.org/wiki/Vrije_Universiteit)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Victor Allis (**1994**). *Searching for Solutions in Games and Artificial Intelligence*. Ph.D. Thesis, [University of Limburg](Maastricht_University "Maastricht University"), [pdf](http://fragrieu.free.fr/SearchingForSolutions.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Victor Allis' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=249)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: L. Victor Allis](https://dblp.uni-trier.de/pers/hd/a/Allis:L=_Victor)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Victor Allis - Where has he been? Where did he go?](http://web.archive.org/web/20041204234709/www.cs.vu.nl/~victor/home.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Victor Allis (**1988**). *A Knowledge-Based Approach of Connect Four: The Game is Over, White to Move Wins*. M.Sc. Thesis, Report No. IR-163, Faculty of Mathematics and Computer Science, [Vrije Universteit, Amsterdam](https://en.wikipedia.org/wiki/Vrije_Universiteit)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Victor Allis (**1994**). *Searching for Solutions in Games and Artificial Intelligence*. Ph.D. Thesis, [University of Limburg](Maastricht_University "Maastricht University"), [pdf](http://fragrieu.free.fr/SearchingForSolutions.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Victor Allis' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=249)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: L. Victor Allis](https://dblp.uni-trier.de/pers/hd/a/Allis:L=_Victor)
 
 **[Up one level](People "People")**
 

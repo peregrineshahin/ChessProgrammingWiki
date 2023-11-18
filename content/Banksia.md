@@ -33,7 +33,7 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Banksia - Yet another Chess Tournament Manager](http://talkchess.com/forum3/viewtopic.php?f=7&t=71157&hilit=banksia) by [Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen"), [CCC](CCC "CCC"), July 01, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Banksia - Yet another Chess Tournament Manager](http://talkchess.com/forum3/viewtopic.php?f=7&t=71157&hilit=banksia) by [Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen"), [CCC](CCC "CCC"), July 01, 2019
 
 **[Up one Level](GUI "GUI")**
 

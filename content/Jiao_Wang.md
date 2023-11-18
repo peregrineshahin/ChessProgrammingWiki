@@ -36,9 +36,9 @@ a Chinese computer scientist affiliated with the School of Information Science a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [clipped](http://www.yss-aya.com/photo/20060525torino/Htmls/PICT0954.html) from [Computer Olympiad in Torino, Italy](http://www.yss-aya.com/photo/20060525torino/index04.html), Photo gallery by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu") (**2006**). *NEUChess wins Chinese Chess tournament*. [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal") » [11th Computer Olympiad](11th_Computer_Olympiad#ChineseChess "11th Computer Olympiad")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DBLP: Jiao Wang](http://www.informatik.uni-trier.de/~ley/pers/hd/w/Wang:Jiao.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [clipped](http://www.yss-aya.com/photo/20060525torino/Htmls/PICT0954.html) from [Computer Olympiad in Torino, Italy](http://www.yss-aya.com/photo/20060525torino/index04.html), Photo gallery by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu") (**2006**). *NEUChess wins Chinese Chess tournament*. [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal") » [11th Computer Olympiad](11th_Computer_Olympiad#ChineseChess "11th Computer Olympiad")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DBLP: Jiao Wang](http://www.informatik.uni-trier.de/~ley/pers/hd/w/Wang:Jiao.html)
 
 **[Up one level](People "People")**
 

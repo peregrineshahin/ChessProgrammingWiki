@@ -37,10 +37,10 @@ Tomasz Michniewski studied mathematics, computing and mechanics at the [Universi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tomasz Michniewski - LinkedIn](https://www.linkedin.com/in/tmichniewski/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Michniewski, Tomasz FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=1111167)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Tomasz Michniewski (**1995**). *Samouczenie Programów Szachowych*. Thesis, [ps](http://www.armageddon.szach.pl/pracamag.ps) (Polish)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [II Mistrzostwa Polski Programów Szachowych](http://mpps.maciej.szmit.info/mpps-2/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tomasz Michniewski - LinkedIn](https://www.linkedin.com/in/tmichniewski/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Michniewski, Tomasz FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=1111167)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Tomasz Michniewski (**1995**). *Samouczenie Programów Szachowych*. Thesis, [ps](http://www.armageddon.szach.pl/pracamag.ps) (Polish)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [II Mistrzostwa Polski Programów Szachowych](http://mpps.maciej.szmit.info/mpps-2/)
 
 **[Up one Level](People "People")**
 

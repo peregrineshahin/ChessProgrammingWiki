@@ -170,11 +170,11 @@ g5 30.Bg2 Ne5 31.Bd2 Rc4 32.Ra2 Kc7 33.Bh3 Kd7 34.Bf1 Rh4 35.Bg2 Kc7 36.Ra1 Rc4
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Studie: Schachspielen mit ein 286er 12 MHz Laptop - Schachcomputer.info Community](http://www.schachcomputer.info/forum/showthread.php?t=3531) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), May 22, 2010 (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the 11th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hin-Kwok Tsang](http://www.ece.ust.hk/~eetsang/), [Don Beal](Don_Beal "Don Beal") (**1995**). *The 8th World Computer-Chess Championship*. [ICCA Journal, Vol. 18, No. 2](ICGA_Journal#14_2 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=38)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Paderborn 1995 - Chess - Round 12 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=56&round=12&id=1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Studie: Schachspielen mit ein 286er 12 MHz Laptop - Schachcomputer.info Community](http://www.schachcomputer.info/forum/showthread.php?t=3531) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), May 22, 2010 (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the 11th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hin-Kwok Tsang](http://www.ece.ust.hk/~eetsang/), [Don Beal](Don_Beal "Don Beal") (**1995**). *The 8th World Computer-Chess Championship*. [ICCA Journal, Vol. 18, No. 2](ICGA_Journal#14_2 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=38)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Paderborn 1995 - Chess - Round 12 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=56&round=12&id=1)
 
 **[Up one level](Engines "Engines")**
 

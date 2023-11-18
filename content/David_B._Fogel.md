@@ -52,10 +52,10 @@ and results in the chess program dubbed [Blondie25](Blondie25 "Blondie25").
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Natural Selection, Inc. | Corporate Management](http://www.natural-selection.com/management)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Natural Selection, Inc. | Corporate Management](http://www.natural-selection.com/management)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> David B. Fogel, [Timothy J. Hays](Timothy_J._Hays "Timothy J. Hays"), [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), [James Quon](James_Quon "James Quon") (**2004**). *[A Self-Learning Evolutionary Chess Program](https://ieeexplore.ieee.org/document/1360168?arnumber=1360168)*. [Proceedings of the IEEE](IEEE#Proceedings "IEEE"), Vol. 92, No. 12
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DBLP: dblp: David B. Fogel](https://dblp.uni-trier.de/pers/hd/f/Fogel:David_B=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Natural Selection, Inc. | Corporate Management](http://www.natural-selection.com/management)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Natural Selection, Inc. | Corporate Management](http://www.natural-selection.com/management)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> David B. Fogel, [Timothy J. Hays](Timothy_J._Hays "Timothy J. Hays"), [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), [James Quon](James_Quon "James Quon") (**2004**). *[A Self-Learning Evolutionary Chess Program](https://ieeexplore.ieee.org/document/1360168?arnumber=1360168)*. [Proceedings of the IEEE](IEEE#Proceedings "IEEE"), Vol. 92, No. 12
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DBLP: dblp: David B. Fogel](https://dblp.uni-trier.de/pers/hd/f/Fogel:David_B=)
 
 **[Up one level](People "People")**
 

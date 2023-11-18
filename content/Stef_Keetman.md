@@ -38,13 +38,13 @@ Many conditions and exceptions had to be considered which was quite error prone 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Toernooibase Dammen - Noord-Hollandse DamBond](https://toernooibase.kndb.nl/opvraag/liddetailp.php?taal=&Id=8&SpId=994&se=12)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stef Keetman, HiQ Invest: Profile and Biography - Bloomberg Markets](https://www.bloomberg.com/profile/person/18869762)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Toernooibase Dammen - Noord-Hollandse DamBond](https://toernooibase.kndb.nl/opvraag/liddetailp.php?taal=&Id=8&SpId=994&se=12)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Truus](http://windames.free.fr/truus_e.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Truus (dammen) - Wikipedia.nl](https://nl.wikipedia.org/wiki/Truus_(dammen)) (Dutch)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Intelligent Strategy Games 10 (1993) DOS credits](https://www.mobygames.com/game/dos/intelligent-strategy-games-10/credits) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 19. Home Away From Home, pp. 365-371
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Toernooibase Dammen - Noord-Hollandse DamBond](https://toernooibase.kndb.nl/opvraag/liddetailp.php?taal=&Id=8&SpId=994&se=12)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stef Keetman, HiQ Invest: Profile and Biography - Bloomberg Markets](https://www.bloomberg.com/profile/person/18869762)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Toernooibase Dammen - Noord-Hollandse DamBond](https://toernooibase.kndb.nl/opvraag/liddetailp.php?taal=&Id=8&SpId=994&se=12)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Truus](http://windames.free.fr/truus_e.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Truus (dammen) - Wikipedia.nl](https://nl.wikipedia.org/wiki/Truus_(dammen)) (Dutch)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Intelligent Strategy Games 10 (1993) DOS credits](https://www.mobygames.com/game/dos/intelligent-strategy-games-10/credits) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 19. Home Away From Home, pp. 365-371
 
 **[Up one level](People "People")**
 

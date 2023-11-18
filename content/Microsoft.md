@@ -52,11 +52,11 @@ co-developed by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov") <a id="cite-no
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Building 92](https://commons.wikimedia.org/wiki/File:Building92microsoft.jpg) at Microsoft Corporation headquarters in [Redmond, Washington](https://en.wikipedia.org/wiki/Redmond,_Washington). Photographed by user [Coolcaesar](https://commons.wikimedia.org/wiki/User:Coolcaesar) on 30 May 2016, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About compiler optimizations](https://www.stmintz.com/ccc/index.php?id=271642) by [Frédéric Louguet](Fr%C3%A9d%C3%A9ric_Louguet "Frédéric Louguet"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), December 19, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Remarks by Bill Gates, International Joint Conference on Artificial Intelligence, Seattle, Wash., August 7, 2001](http://www.microsoft.com/presspass/exec/billg/speeches/2001/08-07aiconference.aspx)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Microsoft Entertainment Pack from Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess Titans from Wikipedia](https://en.wikipedia.org/wiki/Chess_Titans)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Building 92](https://commons.wikimedia.org/wiki/File:Building92microsoft.jpg) at Microsoft Corporation headquarters in [Redmond, Washington](https://en.wikipedia.org/wiki/Redmond,_Washington). Photographed by user [Coolcaesar](https://commons.wikimedia.org/wiki/User:Coolcaesar) on 30 May 2016, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About compiler optimizations](https://www.stmintz.com/ccc/index.php?id=271642) by [Frédéric Louguet](Fr%C3%A9d%C3%A9ric_Louguet "Frédéric Louguet"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), December 19, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Remarks by Bill Gates, International Joint Conference on Artificial Intelligence, Seattle, Wash., August 7, 2001](http://www.microsoft.com/presspass/exec/billg/speeches/2001/08-07aiconference.aspx)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Microsoft Entertainment Pack from Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess Titans from Wikipedia](https://en.wikipedia.org/wiki/Chess_Titans)
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -42,12 +42,12 @@ After an abstinence of 12 years from computer chess, Martin released the improve
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Eustache Le Sueur](Category:Eustache_Le_Sueur "Category:Eustache Le Sueur") - [The Muses: Clio, Euterpe and Thalia](https://en.wikipedia.org/wiki/File:Eustache_Le_Sueur_-_The_Muses_-_Clio,_Euterpe_and_Thalia_-_WGA12611.jpg), [oil](https://en.wikipedia.org/wiki/Oil_painting) on [panel](https://en.wikipedia.org/wiki/Panel_painting), between 1652 and 1655, Current location: [Louvre](https://en.wikipedia.org/wiki/Louvre), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Muse!](https://www.stmintz.com/ccc/index.php?id=381373) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), August 08, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Martin's World >> Muse](http://www.fierz.ch/muse.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Muse 0.95](http://www.talkchess.com/forum/viewtopic.php?t=59817) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), April 10, 2016
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Fastest Magic Move Bitboard Generator ready to use](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5452) by [Pradu Kannan](Pradu_Kannan "Pradu Kannan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 25, 2006
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Pradyumna Kannan](Pradu_Kannan "Pradu Kannan") (**2007**). *Magic Move-Bitboard Generation in Computer Chess*. [pdf](http://www.pradu.us/old/Nov27_2008/Buzz/research/magic/Bitboards.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Eustache Le Sueur](Category:Eustache_Le_Sueur "Category:Eustache Le Sueur") - [The Muses: Clio, Euterpe and Thalia](https://en.wikipedia.org/wiki/File:Eustache_Le_Sueur_-_The_Muses_-_Clio,_Euterpe_and_Thalia_-_WGA12611.jpg), [oil](https://en.wikipedia.org/wiki/Oil_painting) on [panel](https://en.wikipedia.org/wiki/Panel_painting), between 1652 and 1655, Current location: [Louvre](https://en.wikipedia.org/wiki/Louvre), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Muse!](https://www.stmintz.com/ccc/index.php?id=381373) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), August 08, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Martin's World >> Muse](http://www.fierz.ch/muse.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Muse 0.95](http://www.talkchess.com/forum/viewtopic.php?t=59817) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), April 10, 2016
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fastest Magic Move Bitboard Generator ready to use](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5452) by [Pradu Kannan](Pradu_Kannan "Pradu Kannan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 25, 2006
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pradyumna Kannan](Pradu_Kannan "Pradu Kannan") (**2007**). *Magic Move-Bitboard Generation in Computer Chess*. [pdf](http://www.pradu.us/old/Nov27_2008/Buzz/research/magic/Bitboards.pdf)
 
 **[Up one Level](Engines "Engines")**
 

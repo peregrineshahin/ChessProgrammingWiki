@@ -39,9 +39,9 @@ a German actor <a id="cite-note-2" href="#cite-ref-2">[2]</a> and lawyer <a id="
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marcus Kästner - YouTube](https://www.youtube.com/user/arcobaer), Image from [Marcus Kästner Demo](https://www.youtube.com/watch?v=_aXyJnCI-Dg), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video, 1:08
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Marcus Kästner - IMDb](https://www.imdb.com/name/nm1141870/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Marcus Kästner - Deutsche Anwaltauskunft](https://anwaltauskunft.de/anwaltssuche/marcus-kaestner-g75kz)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marcus Kästner - YouTube](https://www.youtube.com/user/arcobaer), Image from [Marcus Kästner Demo](https://www.youtube.com/watch?v=_aXyJnCI-Dg), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video, 1:08
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Marcus Kästner - IMDb](https://www.imdb.com/name/nm1141870/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Marcus Kästner - Deutsche Anwaltauskunft](https://anwaltauskunft.de/anwaltssuche/marcus-kaestner-g75kz)
 
 **[Up one level](People "People")**
 

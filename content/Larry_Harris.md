@@ -43,11 +43,11 @@ Larry Harris further research interests were related to [natural language query 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Larry Harris | LinkedIn](https://www.linkedin.com/in/larry-harris-2655915/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Larry Harris (**1973**). *The bandwidth heuristic search*. [3. IJCAI 1973](Conferences#IJCAI1973 "Conferences"), [pdf](http://www.ijcai.org/Past%20Proceedings/IJCAI-73/PDF/004.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Danny Kopec](Danny_Kopec "Danny Kopec") (**1977**). *Recent developments in computer chess*. Firbush News 7 Edinburgh: Machine Intelligence Research Unit, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") (ed. [Donald Michie](Donald_Michie "Donald Michie")), [pdf](http://www.sci.brooklyn.cuny.edu/~kopec/Publications/Publications/O_45_C.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [EasyAsk - Natural Language Processing for your eCommerce Site Search](https://www.easyask.com/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Larry R. Harris](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Harris:Larry_R=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Larry Harris | LinkedIn](https://www.linkedin.com/in/larry-harris-2655915/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Larry Harris (**1973**). *The bandwidth heuristic search*. [3. IJCAI 1973](Conferences#IJCAI1973 "Conferences"), [pdf](http://www.ijcai.org/Past%20Proceedings/IJCAI-73/PDF/004.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Danny Kopec](Danny_Kopec "Danny Kopec") (**1977**). *Recent developments in computer chess*. Firbush News 7 Edinburgh: Machine Intelligence Research Unit, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") (ed. [Donald Michie](Donald_Michie "Donald Michie")), [pdf](http://www.sci.brooklyn.cuny.edu/~kopec/Publications/Publications/O_45_C.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [EasyAsk - Natural Language Processing for your eCommerce Site Search](https://www.easyask.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Larry R. Harris](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Harris:Larry_R=.html)
 
 **[Up one level](People "People")**
 

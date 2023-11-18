@@ -25,9 +25,9 @@ and its experimental version called [McTobber](McTobber "McTobber"), playing the
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1989**). *The 9th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [iMac at Dutch Computer Championship - McTobber](https://www.stmintz.com/ccc/index.php?id=76618) by Richard A. Fowell, [CCC](CCC "CCC"), November 06, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1989**). *The 9th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [iMac at Dutch Computer Championship - McTobber](https://www.stmintz.com/ccc/index.php?id=76618) by Richard A. Fowell, [CCC](CCC "CCC"), November 06, 1999
 
 **[Up one level](People "People")**
 

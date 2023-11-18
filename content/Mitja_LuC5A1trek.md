@@ -42,10 +42,10 @@ In 2005, Mitja Luštrek was visiting researcher at the [University of Alberta](U
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mitja Luštrek](https://dis.ijs.si/mitjal/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Department of Intelligent systems](https://dis.ijs.si/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Mitja Luštrek (**2007**). *Patologija v hevrističnih preiskovalnih algoritmih*. Ph.D. thesis, [University of Ljubljana](University_of_Ljubljana "University of Ljubljana") (Slovenian)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Mitja Lustrek](https://dblp.uni-trier.de/pers/hd/l/Lustrek:Mitja.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mitja Luštrek](https://dis.ijs.si/mitjal/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Department of Intelligent systems](https://dis.ijs.si/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Mitja Luštrek (**2007**). *Patologija v hevrističnih preiskovalnih algoritmih*. Ph.D. thesis, [University of Ljubljana](University_of_Ljubljana "University of Ljubljana") (Slovenian)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Mitja Lustrek](https://dblp.uni-trier.de/pers/hd/l/Lustrek:Mitja.html)
 
 **[Up one level](People "People")**
 

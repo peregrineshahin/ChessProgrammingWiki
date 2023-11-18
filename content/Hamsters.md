@@ -84,9 +84,9 @@ Ke7 56.Qe5+ Kf7 57.Ra7+ Nc7 58.Rxc7+ Kf8 59.Qh8# 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A short-haired hamster (named "Egbert") sitting in its owner's hand and eating a piece of carrot, Photo by Keith Pomakis on July 27, 2003, [Hamster from Wikipedia](https://en.wikipedia.org/wiki/Hamster)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hamsters Homepage](http://walkofmind.com/programming/chess/hamsters.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Computer Cup 2008 (PGN)](http://www.scaccomasco.com/tornei/2008/wwwCCC3/crosstbl.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A short-haired hamster (named "Egbert") sitting in its owner's hand and eating a piece of carrot, Photo by Keith Pomakis on July 27, 2003, [Hamster from Wikipedia](https://en.wikipedia.org/wiki/Hamster)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hamsters Homepage](http://walkofmind.com/programming/chess/hamsters.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Computer Cup 2008 (PGN)](http://www.scaccomasco.com/tornei/2008/wwwCCC3/crosstbl.html)
 
 **[Up one level](Engines "Engines")**
 

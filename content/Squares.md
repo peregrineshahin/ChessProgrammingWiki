@@ -146,7 +146,7 @@ Lists, Arrays and Sets of Squares
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Piet Mondrian](Category:Piet_Mondrian "Category:Piet Mondrian") - [Tableau I](https://commons.wikimedia.org/wiki/File:Tableau_I,_by_Piet_Mondriaan.jpg), 1921, [Gemeentemuseum Den Haag](https://en.wikipedia.org/wiki/Gemeentemuseum_Den_Haag)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Piet Mondrian](Category:Piet_Mondrian "Category:Piet Mondrian") - [Tableau I](https://commons.wikimedia.org/wiki/File:Tableau_I,_by_Piet_Mondriaan.jpg), 1921, [Gemeentemuseum Den Haag](https://en.wikipedia.org/wiki/Gemeentemuseum_Den_Haag)
 
 **[Up one Level](Chess "Chess")**
 

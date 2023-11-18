@@ -111,10 +111,10 @@ a monthly [microcomputer](https://en.wikipedia.org/wiki/Microcomputer) periodica
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Byte Magazine Volume 04 Number 11 - Fun and Games : Free Download & Streaming : Internet Archive](https://archive.org/details/byte-magazine-1979-11)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Byte Magazine from Wikipedia](https://en.wikipedia.org/wiki/Byte_%28magazine%29)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [BYTE Magazine : Free Texts : Download & Streaming : Internet Archive](https://archive.org/details/byte-magazine)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> hosted by [Modern Mechanix](http://blog.modernmechanix.com/), Photo 4: [Ira Baxter’s](Ira_Baxter "Ira Baxter") [chess playing system](SD_Chess "SD Chess") display, which competed in the [Microcomputer Chess Tournament](MCCT_1978 "MCCT 1978") at the Faire. The level of play was impressive, and the winning program, called [SARGON](Sargon "Sargon"), was a 16 K byte [Z-80](Z80 "Z80") [assembler](Assembly "Assembly") program written by a husband and wife team, [Kathe](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen").
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Byte Magazine Volume 04 Number 11 - Fun and Games : Free Download & Streaming : Internet Archive](https://archive.org/details/byte-magazine-1979-11)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Byte Magazine from Wikipedia](https://en.wikipedia.org/wiki/Byte_%28magazine%29)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [BYTE Magazine : Free Texts : Download & Streaming : Internet Archive](https://archive.org/details/byte-magazine)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> hosted by [Modern Mechanix](http://blog.modernmechanix.com/), Photo 4: [Ira Baxter’s](Ira_Baxter "Ira Baxter") [chess playing system](SD_Chess "SD Chess") display, which competed in the [Microcomputer Chess Tournament](MCCT_1978 "MCCT 1978") at the Faire. The level of play was impressive, and the winning program, called [SARGON](Sargon "Sargon"), was a 16 K byte [Z-80](Z80 "Z80") [assembler](Assembly "Assembly") program written by a husband and wife team, [Kathe](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen").
 
 **[Up one Level](Periodical "Periodical")**
 

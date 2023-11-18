@@ -37,10 +37,10 @@ subsequent improved versions are kept privat. MatMoi is based on [bitboards](Bit
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The need to unmake move](https://www.stmintz.com/ccc/index.php?id=312031) by [Mathieu Pagé](Mathieu_Pag%C3%A9 "Mathieu Pagé"), [CCC](CCC "CCC"), August 19, 2003
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MatMoi 7.15.0-cct, a Windows/Linux chess engine](http://www.talkchess.com/forum/viewtopic.php?t=33279) by [Mathieu Pagé](Mathieu_Pag%C3%A9 "Mathieu Pagé"), [CCC](CCC "CCC"), March 15, 2010
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MatMoi (Chess engine)](http://mathieupage.com/?page_id=38) by [Mathieu Pagé](Mathieu_Pag%C3%A9 "Mathieu Pagé")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Transposition Table and nps drop](http://www.talkchess.com/forum/viewtopic.php?t=19867) by [Mathieu Pagé](Mathieu_Pag%C3%A9 "Mathieu Pagé"), [CCC](CCC "CCC"), February 27, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The need to unmake move](https://www.stmintz.com/ccc/index.php?id=312031) by [Mathieu Pagé](Mathieu_Pag%C3%A9 "Mathieu Pagé"), [CCC](CCC "CCC"), August 19, 2003
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MatMoi 7.15.0-cct, a Windows/Linux chess engine](http://www.talkchess.com/forum/viewtopic.php?t=33279) by [Mathieu Pagé](Mathieu_Pag%C3%A9 "Mathieu Pagé"), [CCC](CCC "CCC"), March 15, 2010
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MatMoi (Chess engine)](http://mathieupage.com/?page_id=38) by [Mathieu Pagé](Mathieu_Pag%C3%A9 "Mathieu Pagé")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Transposition Table and nps drop](http://www.talkchess.com/forum/viewtopic.php?t=19867) by [Mathieu Pagé](Mathieu_Pag%C3%A9 "Mathieu Pagé"), [CCC](CCC "CCC"), February 27, 2008
 
 **[Up one level](Engines "Engines")**
 

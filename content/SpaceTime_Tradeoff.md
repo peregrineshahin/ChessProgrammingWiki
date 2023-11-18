@@ -70,9 +70,9 @@ title: SpaceTime Tradeoff
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Space-time Vortex](http://www.physorg.com/news8256.html) from [PhysOrg.com](http://www.physorg.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bloom filter from Wikipedia](https://en.wikipedia.org/wiki/Bloom_filter)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Use equations for PushAway and PushClose · official-stockfish/Stockfish@5a7b45e · GitHub](https://github.com/official-stockfish/Stockfish/commit/5a7b45eac9dedbf7ebc61d9deb4dd934058d1ca1#diff-4cd6bcdb505b124d7bdc612c4789dc26L57-R59)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Space-time Vortex](http://www.physorg.com/news8256.html) from [PhysOrg.com](http://www.physorg.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bloom filter from Wikipedia](https://en.wikipedia.org/wiki/Bloom_filter)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Use equations for PushAway and PushClose · official-stockfish/Stockfish@5a7b45e · GitHub](https://github.com/official-stockfish/Stockfish/commit/5a7b45eac9dedbf7ebc61d9deb4dd934058d1ca1#diff-4cd6bcdb505b124d7bdc612c4789dc26L57-R59)
 
 **[Up one Level](Programming "Programming")**
 

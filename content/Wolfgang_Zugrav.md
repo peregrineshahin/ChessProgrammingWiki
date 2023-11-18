@@ -34,12 +34,12 @@ More recently, he was engaged in [Jean-François Romang's](Jean-Francois_Romang 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Wolfgang Zugrav at the [WCCC 2016](WCCC_2016 "WCCC 2016"), [round 8](WCCC_2016#R8 "WCCC 2016"), Image by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), June 30, 2016
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Wolfgang Zugrav - Sales - IBM Österreich | XING](https://www.xing.com/profile/Wolfgang_Zugrav)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICCF Player Details - GM Zugrav, Wolfgang](https://www.iccf.com/player?id=10211)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Schach + PC - Brutus](http://scleinzell.schachvereine.de/p_themen/brutus.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml), April 2002 (German) - Interview mit Chrilly Donninger
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [WC17/final, World Championship 17 Final](https://www.iccf.com/event?id=5329)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Kaufbeuren Tournament 2012](https://groups.google.com/d/msg/picochess/BZWx8QvSzYI/QhcSa0aMVgYJ) by Wolfgang Zugrav, [PicoChess](PicoChess "PicoChess"), October 08, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Wolfgang Zugrav at the [WCCC 2016](WCCC_2016 "WCCC 2016"), [round 8](WCCC_2016#R8 "WCCC 2016"), Image by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), June 30, 2016
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Wolfgang Zugrav - Sales - IBM Österreich | XING](https://www.xing.com/profile/Wolfgang_Zugrav)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICCF Player Details - GM Zugrav, Wolfgang](https://www.iccf.com/player?id=10211)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Schach + PC - Brutus](http://scleinzell.schachvereine.de/p_themen/brutus.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml), April 2002 (German) - Interview mit Chrilly Donninger
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [WC17/final, World Championship 17 Final](https://www.iccf.com/event?id=5329)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Kaufbeuren Tournament 2012](https://groups.google.com/d/msg/picochess/BZWx8QvSzYI/QhcSa0aMVgYJ) by Wolfgang Zugrav, [PicoChess](PicoChess "PicoChess"), October 08, 2012
 
 **[Up one level](People "People")**
 

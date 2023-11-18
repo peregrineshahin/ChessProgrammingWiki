@@ -29,9 +29,9 @@ a chess program by [Albert Zobrist](Albert_Zobrist "Albert Zobrist") and [Freder
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Neleus - Greek Mythology Link](http://www.maicar.com/GML/Neleus.html), belonging to the [Greek Mythology Link](http://homepage.mac.com/cparada/GML/index.html), a web site created by [Carlos Parada](http://homepage.mac.com/cparada/GML/AboutGML.html#carlos), author of [Genealogical Guide to Greek Mythology](http://homepage.mac.com/cparada/GML/AboutGML.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Albert L. Zobrist](Albert_Zobrist "Albert Zobrist"), [Fredric R. Carlson](Frederic_Roy_Carlson "Frederic Roy Carlson") (**1973**). *[The USC chess program](http://portal.acm.org/citation.cfm?id=805705)*. Proceedings of the [ACM](ACM "ACM") annual conference, Atlanta, Georgia, United States, August 27-29, 1973
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [A Memorial to BRUTE FORCE](http://www.lkessler.com/brutefor.shtml) by [Louis Kessler](Louis_Kessler "Louis Kessler")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Neleus - Greek Mythology Link](http://www.maicar.com/GML/Neleus.html), belonging to the [Greek Mythology Link](http://homepage.mac.com/cparada/GML/index.html), a web site created by [Carlos Parada](http://homepage.mac.com/cparada/GML/AboutGML.html#carlos), author of [Genealogical Guide to Greek Mythology](http://homepage.mac.com/cparada/GML/AboutGML.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Albert L. Zobrist](Albert_Zobrist "Albert Zobrist"), [Fredric R. Carlson](Frederic_Roy_Carlson "Frederic Roy Carlson") (**1973**). *[The USC chess program](http://portal.acm.org/citation.cfm?id=805705)*. Proceedings of the [ACM](ACM "ACM") annual conference, Atlanta, Georgia, United States, August 27-29, 1973
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [A Memorial to BRUTE FORCE](http://www.lkessler.com/brutefor.shtml) by [Louis Kessler](Louis_Kessler "Louis Kessler")
 
 **[Up one level](Engines "Engines")**
 

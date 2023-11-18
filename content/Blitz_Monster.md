@@ -47,10 +47,10 @@ lineup: [Dave Pike](Category:Dave_Pike "Category:Dave Pike"), [Volker Kriegel](C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Novag Constellation Expert](http://www.schach-computer.info/wiki/index.php/Novag_Constellation_Expert) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hans-Peter Ketterling](index.php?title=Hans-Peter_Ketterling&action=edit&redlink=1 "Hans-Peter Ketterling (page does not exist)") (**1987**). *Neuigkeiten aus Nürnberg*. [Europa-Rochade](http://de.wikipedia.org/wiki/Rochade_Europa), 03-1987, 04-1987, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/03-1987,%20Rochade,%20H.-P.%20Ketterling,%20Neuigkeiten%20aus%20Nurnberg.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Interview with Peter Auge](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1985,%20Interview%20mit%20Peter%20Auge,%20Ich%20bin%20ja%20nur%20der%20Chef.pdf) (pdf), Erwerbsquelle: 10-1985, Zeitschrift Schachcomputer (Herausgeber Florian Piel) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Amsterdam 1985 - Chess - Round 7 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=63&round=7&id=4)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Novag Constellation Expert](http://www.schach-computer.info/wiki/index.php/Novag_Constellation_Expert) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hans-Peter Ketterling](index.php?title=Hans-Peter_Ketterling&action=edit&redlink=1 "Hans-Peter Ketterling (page does not exist)") (**1987**). *Neuigkeiten aus Nürnberg*. [Europa-Rochade](http://de.wikipedia.org/wiki/Rochade_Europa), 03-1987, 04-1987, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/03-1987,%20Rochade,%20H.-P.%20Ketterling,%20Neuigkeiten%20aus%20Nurnberg.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Interview with Peter Auge](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1985,%20Interview%20mit%20Peter%20Auge,%20Ich%20bin%20ja%20nur%20der%20Chef.pdf) (pdf), Erwerbsquelle: 10-1985, Zeitschrift Schachcomputer (Herausgeber Florian Piel) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Amsterdam 1985 - Chess - Round 7 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=63&round=7&id=4)
 
 **[Up one level](Engines "Engines")**
 

@@ -31,7 +31,7 @@ for searching, manipulating and formatting [chess games](Chess_Game "Chess Game"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [pgn-extract: Portable Game Notation (PGN) Manipulator for Chess Games](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [pgn-extract: Portable Game Notation (PGN) Manipulator for Chess Games](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/)
 
 **[Up one Level](Utilities "Utilities")**
 

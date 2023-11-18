@@ -53,10 +53,10 @@ His special interest includes [stochastic games](https://en.wikipedia.org/wiki/S
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [James Glenn | Computer Science | Yale University](https://cpsc.yale.edu/people/james-glenn)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dr. James Glenn - Center for Yahtzee Research and Applications](http://gunpowder.cs.loyola.edu/~jglenn/research/yahtzee.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: James Glenn](https://dblp.uni-trier.de/pers/hd/g/Glenn:James)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Presburger arithmetic](https://en.wikipedia.org/wiki/Presburger_arithmetic)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [James Glenn | Computer Science | Yale University](https://cpsc.yale.edu/people/james-glenn)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dr. James Glenn - Center for Yahtzee Research and Applications](http://gunpowder.cs.loyola.edu/~jglenn/research/yahtzee.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: James Glenn](https://dblp.uni-trier.de/pers/hd/g/Glenn:James)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Presburger arithmetic](https://en.wikipedia.org/wiki/Presburger_arithmetic)
 
 **[Up one level](People "People")**
 

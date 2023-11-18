@@ -81,11 +81,11 @@ Kg6 43.Kh3 Qf1+ 44.Kg4 h5# 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Norway Lemming, Lemmus lemmus, [Brehms Tierleben](https://en.wikipedia.org/wiki/Brehms_Tierleben), Small Edition 1927, [Norway lemming from Wikipedia](https://en.wikipedia.org/wiki/Norway_lemming)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Hannibal 1.1- Learning Lemming 0.44T - x64](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=411225&t=39469) by [Sam Hamilton](Sam_Hamilton "Sam Hamilton"), [CCC](CCC "CCC"), June 24, 2011
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [2007 ACCA Pan Am Champs after 4 Rounds](http://www.talkchess.com/forum/viewtopic.php?t=17418) by [Charles Roberson](Charles_Roberson "Charles Roberson"), [CCC](CCC "CCC"), October 28, 2007
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Learning Lemming vs Rybka 2009](http://www.chessgames.com/perl/chessgame?gid=1570027) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Norway Lemming, Lemmus lemmus, [Brehms Tierleben](https://en.wikipedia.org/wiki/Brehms_Tierleben), Small Edition 1927, [Norway lemming from Wikipedia](https://en.wikipedia.org/wiki/Norway_lemming)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Hannibal 1.1- Learning Lemming 0.44T - x64](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=411225&t=39469) by [Sam Hamilton](Sam_Hamilton "Sam Hamilton"), [CCC](CCC "CCC"), June 24, 2011
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [2007 ACCA Pan Am Champs after 4 Rounds](http://www.talkchess.com/forum/viewtopic.php?t=17418) by [Charles Roberson](Charles_Roberson "Charles Roberson"), [CCC](CCC "CCC"), October 28, 2007
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Learning Lemming vs Rybka 2009](http://www.chessgames.com/perl/chessgame?gid=1570027) from [chessgames.com](http://www.chessgames.com/index.html)
 
 **[Up one level](Engines "Engines")**
 

@@ -70,10 +70,10 @@ Pawel Koziol has contributed to the [Chess Programming Wiki](Home "Home") mainly
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [nescitus (Pawel Koziol) · GitHub](https://github.com/nescitus)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Glass Homepage](http://www.pkoziol.cal24.pl/glass/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Rodent Chess](http://www.pkoziol.cal24.pl/rodent/rodent.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Lazy SMP and 44 cores](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=68154&start=7) by [John Stanback](John_Stanback "John Stanback"), [CCC](CCC "CCC"), August 08, 2018 » [Wasp](Wasp "Wasp")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [nescitus (Pawel Koziol) · GitHub](https://github.com/nescitus)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Glass Homepage](http://www.pkoziol.cal24.pl/glass/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rodent Chess](http://www.pkoziol.cal24.pl/rodent/rodent.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Lazy SMP and 44 cores](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=68154&start=7) by [John Stanback](John_Stanback "John Stanback"), [CCC](CCC "CCC"), August 08, 2018 » [Wasp](Wasp "Wasp")
 
 **[Up one Level](People "People")**
 

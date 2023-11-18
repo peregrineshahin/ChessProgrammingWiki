@@ -64,7 +64,7 @@ training features, and ported SCID to the [Pocket PC](index.php?title=Pocket_PC&
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Scid / Wiki / ScidAuthors](https://sourceforge.net/p/scid/wiki/ScidAuthors/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Scid / Wiki / ScidAuthors](https://sourceforge.net/p/scid/wiki/ScidAuthors/)
 
 **[Up one level](People "People")**
 

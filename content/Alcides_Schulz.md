@@ -43,11 +43,11 @@ The matured [Tucano](Tucano "Tucano") <a id="cite-note-3" href="#cite-ref-3">[3]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alcides Schulz | Facebook](https://www.facebook.com/alcides.schulz)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Introduction and (hopefully) contribution - bitboard methods](http://www.talkchess.com/forum/viewtopic.php?t=39268) by Alcides Schulz, [CCC](CCC "CCC"), June 03, 2011
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tucano 7.00 Release - SMP version](http://www.talkchess.com/forum/viewtopic.php?t=66027) by Alcides Schulz, [CCC](CCC "CCC"), December 16, 2017
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Enxadrista 1.00 Release - Instructional chess engine](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=66854) by Alcides Schulz, [CCC](CCC "CCC"), March 17, 2018
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - alcides-schulz/Xadrez: Programa de Xadrez completo em C# com documentação em português](https://github.com/alcides-schulz/Xadrez)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alcides Schulz | Facebook](https://www.facebook.com/alcides.schulz)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Introduction and (hopefully) contribution - bitboard methods](http://www.talkchess.com/forum/viewtopic.php?t=39268) by Alcides Schulz, [CCC](CCC "CCC"), June 03, 2011
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tucano 7.00 Release - SMP version](http://www.talkchess.com/forum/viewtopic.php?t=66027) by Alcides Schulz, [CCC](CCC "CCC"), December 16, 2017
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Enxadrista 1.00 Release - Instructional chess engine](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=66854) by Alcides Schulz, [CCC](CCC "CCC"), March 17, 2018
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - alcides-schulz/Xadrez: Programa de Xadrez completo em C# com documentação em português](https://github.com/alcides-schulz/Xadrez)
 
 **[Up one level](People "People")**
 

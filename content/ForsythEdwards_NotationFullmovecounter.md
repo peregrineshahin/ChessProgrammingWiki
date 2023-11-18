@@ -221,12 +221,12 @@ The earlier [X-FEN](https://en.wikipedia.org/wiki/X-FEN) extension was introduce
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Standard: Portable Game Notation Specification and Implementation Guide](http://www.thechessdrum.net/PGN_Reference.txt) 16.1: FEN by [Steven Edwards](Steven_Edwards "Steven Edwards")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Arasan test suite update](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=219015&t=23806) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), September 19, 2008
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [where FEN is not consistent](http://www.talkchess.com/forum/viewtopic.php?t=31521) by [Reinhard Scharnagl](Reinhard_Scharnagl "Reinhard Scharnagl"), [CCC](CCC "CCC"), January 06, 2010
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [No more pseudolegal en passant target foolishness](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=396838&t=37879) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), February 27, 2011
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Why to use compatible X-FEN (in Chess960)](https://www.stmintz.com/ccc/index.php?id=437213) by [Reinhard Scharnagl](Reinhard_Scharnagl "Reinhard Scharnagl"), [CCC](CCC "CCC"), July 17, 2005
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Encapsulated PostScript from Wikipedia](https://en.wikipedia.org/wiki/Encapsulated_PostScript)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Standard: Portable Game Notation Specification and Implementation Guide](http://www.thechessdrum.net/PGN_Reference.txt) 16.1: FEN by [Steven Edwards](Steven_Edwards "Steven Edwards")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Arasan test suite update](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=219015&t=23806) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), September 19, 2008
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [where FEN is not consistent](http://www.talkchess.com/forum/viewtopic.php?t=31521) by [Reinhard Scharnagl](Reinhard_Scharnagl "Reinhard Scharnagl"), [CCC](CCC "CCC"), January 06, 2010
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [No more pseudolegal en passant target foolishness](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=396838&t=37879) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), February 27, 2011
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Why to use compatible X-FEN (in Chess960)](https://www.stmintz.com/ccc/index.php?id=437213) by [Reinhard Scharnagl](Reinhard_Scharnagl "Reinhard Scharnagl"), [CCC](CCC "CCC"), July 17, 2005
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Encapsulated PostScript from Wikipedia](https://en.wikipedia.org/wiki/Encapsulated_PostScript)
 
 **[Up one Level](Chess_Position "Chess Position")**
 

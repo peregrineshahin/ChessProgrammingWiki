@@ -34,14 +34,14 @@ Paul Hsieh further maintains his *A zillion monkeys* <a id="cite-note-4" href="#
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Programming Bits](http://www.azillionmonkeys.com/qed/programming.html) by Paul Hsieh
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Paul Hsieh (**1996**). *Deep Blue - Deep Thought 2*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol 5, No 3+4, pp. 45
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Keyano (Othello) - Acknowledgements](https://webdocs.cs.ualberta.ca/~games/keyano/thanks.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Infinite monkey theorem from Wikipedia](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Programming Optimization](http://www.azillionmonkeys.com/qed/optimize.html) by Paul Hsieh
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Hash functions](http://www.azillionmonkeys.com/qed/hash.html) by Paul Hsieh
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Assembly Language Lab](http://www.azillionmonkeys.com/qed/asmexample.html) by Paul Hsieh
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [World Chess Championship 1990 - Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_1990)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Programming Bits](http://www.azillionmonkeys.com/qed/programming.html) by Paul Hsieh
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Paul Hsieh (**1996**). *Deep Blue - Deep Thought 2*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol 5, No 3+4, pp. 45
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Keyano (Othello) - Acknowledgements](https://webdocs.cs.ualberta.ca/~games/keyano/thanks.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Infinite monkey theorem from Wikipedia](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Programming Optimization](http://www.azillionmonkeys.com/qed/optimize.html) by Paul Hsieh
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hash functions](http://www.azillionmonkeys.com/qed/hash.html) by Paul Hsieh
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Assembly Language Lab](http://www.azillionmonkeys.com/qed/asmexample.html) by Paul Hsieh
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [World Chess Championship 1990 - Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_1990)
 
 **[Up one level](People "People")**
 

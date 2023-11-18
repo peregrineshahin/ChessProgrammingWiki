@@ -23,7 +23,7 @@ Nicola also maintained a blog about computer chess and game theory.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Nicola Rizzuti in [Berlin](https://en.wikipedia.org/wiki/Berlin) near [Potsdamer Platz](https://en.wikipedia.org/wiki/Potsdamer_Platz), summer 2006, [Lo Zibaldone di Nicola](http://lozibaldonedinicola.blogspot.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Nicola Rizzuti in [Berlin](https://en.wikipedia.org/wiki/Berlin) near [Potsdamer Platz](https://en.wikipedia.org/wiki/Potsdamer_Platz), summer 2006, [Lo Zibaldone di Nicola](http://lozibaldonedinicola.blogspot.com/)
 
 **[Up one level](People "People")**
 

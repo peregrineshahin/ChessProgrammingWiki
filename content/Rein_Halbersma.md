@@ -56,8 +56,8 @@ a Dutch [Draughts](Draughts "Draughts") and [Checkers](Checkers "Checkers") prog
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GitHub - rhalbersma/dctl: Draughts and checkers template library](https://github.com/rhalbersma/dctl)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> on Ghost squares in Checkers [Bitboards](Bitboards "Bitboards")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GitHub - rhalbersma/dctl: Draughts and checkers template library](https://github.com/rhalbersma/dctl)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> on Ghost squares in Checkers [Bitboards](Bitboards "Bitboards")
 
 **[Up one level](People "People")**
 

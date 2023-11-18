@@ -76,12 +76,12 @@ and the [FASTRA II](https://en.wikipedia.org/wiki/Fastra_II) desktop supercomput
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Homepage of Kees Joost Batenburg (Centrum Wiskunde & Informatica)](https://www.cwi.nl/people/joost-batenburg)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A Little Green Machine for High Performance Parallel Multipurpose Supercomputing Using Graphical Processing Units](https://www.nwo.nl/en/research-and-results/research-projects/i/66/5966.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Publications of Kees Joost Batenburg (Centrum Wiskunde & Informatica)](https://homepages.cwi.nl/~kbatenbu/pubs.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DBLP: Kees Joost Batenburg](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Batenburg:Kees_Joost.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Cell (microprocessor) from Wikipedia](https://en.wikipedia.org/wiki/Cell_(microprocessor))
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Dr. Joost Batenburg takes us to the ASTRA-lab where he explains why we need a powerful desktop supercomputer, and the design ideas behind the [FASTRA II](https://en.wikipedia.org/wiki/Fastra_II) system
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Homepage of Kees Joost Batenburg (Centrum Wiskunde & Informatica)](https://www.cwi.nl/people/joost-batenburg)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A Little Green Machine for High Performance Parallel Multipurpose Supercomputing Using Graphical Processing Units](https://www.nwo.nl/en/research-and-results/research-projects/i/66/5966.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Publications of Kees Joost Batenburg (Centrum Wiskunde & Informatica)](https://homepages.cwi.nl/~kbatenbu/pubs.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DBLP: Kees Joost Batenburg](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Batenburg:Kees_Joost.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Cell (microprocessor) from Wikipedia](https://en.wikipedia.org/wiki/Cell_(microprocessor))
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Dr. Joost Batenburg takes us to the ASTRA-lab where he explains why we need a powerful desktop supercomputer, and the design ideas behind the [FASTRA II](https://en.wikipedia.org/wiki/Fastra_II) system
 
 **[Up one level](People "People")**
 

@@ -90,27 +90,27 @@ and defended its title at the [19th](19th_Computer_Olympiad#Draughts "19th Compu
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photos [WCCC 2005](WCCC_2005 "WCCC 2005") by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fruit Chess Engine by Fabien Letouzey](http://arctrix.com/nas/chess/fruit/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Congratulations to Anthony !](http://www.talkchess.com/forum/viewtopic.php?t=16738&start=13) by [Ryan Benitez](Ryan_Benitez "Ryan Benitez"), [CCC](CCC "CCC"), September 27, 2007
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Programmes d'Othello® et de Reversi pour Linux](http://pagesperso-orange.fr/brunodlb/othelinu.htm)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Fabien Letouzey, othello programmer of Snail, Turtle and Piloth.](http://www.othello.dk/book/index.php/Fabien_Letouzey)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Toy](http://windames.free.fr/toy_e.html) by Fabien Letouzey from [All 10x10 programs in the world](http://windames.free.fr/apage76_e.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Behind the scenes of Fine Art](Go#FineArtVideo "Go") with report on [Computer Go UEC Cup](https://en.wikipedia.org/wiki/Computer_Go_UEC_Cup), March 2017 @ 9:00
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Toga II](http://www.superchessengine.com/toga_ii.htm) by [Thomas Gaksch](Thomas_Gaksch "Thomas Gaksch") and Fabien Letouzey
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Fruit - pure playing strength](http://www.fruitchess.com/)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Re: When will come a new Toga Engine?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=260688&t=27385) by [Ryan Benitez](Ryan_Benitez "Ryan Benitez") from [CCC](CCC "CCC"), April 10, 2009
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Senpai 1.0 (new engine)](http://www.talkchess.com/forum/viewtopic.php?t=51637) by Fabien Letouzey, [CCC](CCC "CCC"), March 17, 2014
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Fruit 1.0 anniversary](http://www.talkchess.com/forum/viewtopic.php?t=51638) by Fabien Letouzey, [CCC](CCC "CCC"), March 17, 2014
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Senpai Chess Engine - Computer Chess Programming](http://www.chessprogramming.net/senpai/) hosted by [Steve Maughan](Steve_Maughan "Steve Maughan")
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Fruit Reloaded - Computer Chess Programming](http://www.chessprogramming.net/fruit-reloaded/) hosted by [Steve Maughan](Steve_Maughan "Steve Maughan")
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Draughts at the ICGA Olympiad](http://www.talkchess.com/forum/viewtopic.php?t=56170) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), April 30, 2015
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Computer Olympiad 2015 Leiden](http://laatste.info/bb3/viewtopic.php?f=53&t=6700) by [Bert Tuyt](index.php?title=Bert_Tuyt&action=edit&redlink=1 "Bert Tuyt (page does not exist)"), [World Draughts Forum](http://laatste.info/bb3/index.php?sid=a58b41156d433755b2d4b3dc45087638), May 01, 2015
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> Image from the [18th Computer Olympiad](18th_Computer_Olympiad#Draughts "18th Computer Olympiad"), 2015 by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-1. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Harm Jetten's draughts program - Performance](http://hjetten.home.xs4all.nl/dameng.html#perform)
-1. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [François DENIS Pulications](http://www.lif.univ-mrs.fr/~fdenis/)
-1. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [The Chess Mind Blog - More Computer Chess Controversy](http://www.thechessmind.net/blog/2011/1/24/more-computer-chess-controversy.html)
-1. <a id="cite-ref-21" href="#cite-note-21">[21]</a> [Interview with Fabien (from the year 2005) ...](http://www.talkchess.com/forum/viewtopic.php?t=37777) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), January 25, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photos [WCCC 2005](WCCC_2005 "WCCC 2005") by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fruit Chess Engine by Fabien Letouzey](http://arctrix.com/nas/chess/fruit/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Congratulations to Anthony !](http://www.talkchess.com/forum/viewtopic.php?t=16738&start=13) by [Ryan Benitez](Ryan_Benitez "Ryan Benitez"), [CCC](CCC "CCC"), September 27, 2007
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Programmes d'Othello® et de Reversi pour Linux](http://pagesperso-orange.fr/brunodlb/othelinu.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fabien Letouzey, othello programmer of Snail, Turtle and Piloth.](http://www.othello.dk/book/index.php/Fabien_Letouzey)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Toy](http://windames.free.fr/toy_e.html) by Fabien Letouzey from [All 10x10 programs in the world](http://windames.free.fr/apage76_e.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Behind the scenes of Fine Art](Go#FineArtVideo "Go") with report on [Computer Go UEC Cup](https://en.wikipedia.org/wiki/Computer_Go_UEC_Cup), March 2017 @ 9:00
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Toga II](http://www.superchessengine.com/toga_ii.htm) by [Thomas Gaksch](Thomas_Gaksch "Thomas Gaksch") and Fabien Letouzey
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Fruit - pure playing strength](http://www.fruitchess.com/)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: When will come a new Toga Engine?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=260688&t=27385) by [Ryan Benitez](Ryan_Benitez "Ryan Benitez") from [CCC](CCC "CCC"), April 10, 2009
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Senpai 1.0 (new engine)](http://www.talkchess.com/forum/viewtopic.php?t=51637) by Fabien Letouzey, [CCC](CCC "CCC"), March 17, 2014
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Fruit 1.0 anniversary](http://www.talkchess.com/forum/viewtopic.php?t=51638) by Fabien Letouzey, [CCC](CCC "CCC"), March 17, 2014
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Senpai Chess Engine - Computer Chess Programming](http://www.chessprogramming.net/senpai/) hosted by [Steve Maughan](Steve_Maughan "Steve Maughan")
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Fruit Reloaded - Computer Chess Programming](http://www.chessprogramming.net/fruit-reloaded/) hosted by [Steve Maughan](Steve_Maughan "Steve Maughan")
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Draughts at the ICGA Olympiad](http://www.talkchess.com/forum/viewtopic.php?t=56170) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), April 30, 2015
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Computer Olympiad 2015 Leiden](http://laatste.info/bb3/viewtopic.php?f=53&t=6700) by [Bert Tuyt](index.php?title=Bert_Tuyt&action=edit&redlink=1 "Bert Tuyt (page does not exist)"), [World Draughts Forum](http://laatste.info/bb3/index.php?sid=a58b41156d433755b2d4b3dc45087638), May 01, 2015
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> Image from the [18th Computer Olympiad](18th_Computer_Olympiad#Draughts "18th Computer Olympiad"), 2015 by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Harm Jetten's draughts program - Performance](http://hjetten.home.xs4all.nl/dameng.html#perform)
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [François DENIS Pulications](http://www.lif.univ-mrs.fr/~fdenis/)
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [The Chess Mind Blog - More Computer Chess Controversy](http://www.thechessmind.net/blog/2011/1/24/more-computer-chess-controversy.html)
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Interview with Fabien (from the year 2005) ...](http://www.talkchess.com/forum/viewtopic.php?t=37777) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), January 25, 2011
 
 **[Up one level](People "People")**
 

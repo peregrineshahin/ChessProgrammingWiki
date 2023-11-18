@@ -47,8 +47,8 @@ The rudimentary [Evaluation](Evaluation "Evaluation") considers [material](Mater
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Psyco Chess - A GNU Java Chess Engine download | SourceForge.net](https://sourceforge.net/projects/psycochess/), PsycoChess.tar.gz/BestMove.java
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Psyco Chess - A GNU Java Chess Engine download | SourceForge.net](https://sourceforge.net/projects/psycochess/), PsycoChess.tar.gz/Scacchiera.java
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Psyco Chess - A GNU Java Chess Engine download | SourceForge.net](https://sourceforge.net/projects/psycochess/), PsycoChess.tar.gz/BestMove.java
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Psyco Chess - A GNU Java Chess Engine download | SourceForge.net](https://sourceforge.net/projects/psycochess/), PsycoChess.tar.gz/Scacchiera.java
 
 **[Up one level](Engines "Engines")**
 

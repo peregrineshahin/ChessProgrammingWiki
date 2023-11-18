@@ -160,14 +160,14 @@ Between 1984-1995 I was developing Pandix. Then I stopped working on it. I just 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Two more](https://www.game-ai-forum.org/icga-tournaments/program.php?id=310) tournaments, the [2nd Computer Olympiad](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad") and [WMCCC 1991](WMCCC_1991 "WMCCC 1991") were played by [Brainstorm](Brainstorm "Brainstorm")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pandix games from ACCA](http://www.talkchess.com/forum/viewtopic.php?t=39854) by [Gyula Horváth](Gyula_Horv%C3%A1th "Gyula Horváth"), [CCC](CCC "CCC"), July 25, 2011
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [WCCC in Japan - Hans's Diary](http://hiarcs.net/forums/viewtopic.php?t=3696&postdays=0&postorder=asc&start=19) by [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), September 26, 2010
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Studie: Schachspielen mit ein 286er 12 MHz Laptop - Schachcomputer.info Community](http://www.schachcomputer.info/forum/showthread.php?t=3531) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), May 22, 2010 (German)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Kanazawa 2010 - Chess - Round 3 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=209&round=3&id=3)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICT11 Round 7 - Photos](http://www.csvn.nl/index.php?option=com_content&view=article&id=508%3Aict11-round-7&catid=51%3Atoernooien&Itemid=28&lang=en)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Pandix' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=190)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Two more](https://www.game-ai-forum.org/icga-tournaments/program.php?id=310) tournaments, the [2nd Computer Olympiad](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad") and [WMCCC 1991](WMCCC_1991 "WMCCC 1991") were played by [Brainstorm](Brainstorm "Brainstorm")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pandix games from ACCA](http://www.talkchess.com/forum/viewtopic.php?t=39854) by [Gyula Horváth](Gyula_Horv%C3%A1th "Gyula Horváth"), [CCC](CCC "CCC"), July 25, 2011
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [WCCC in Japan - Hans's Diary](http://hiarcs.net/forums/viewtopic.php?t=3696&postdays=0&postorder=asc&start=19) by [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), September 26, 2010
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Studie: Schachspielen mit ein 286er 12 MHz Laptop - Schachcomputer.info Community](http://www.schachcomputer.info/forum/showthread.php?t=3531) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), May 22, 2010 (German)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Kanazawa 2010 - Chess - Round 3 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=209&round=3&id=3)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICT11 Round 7 - Photos](http://www.csvn.nl/index.php?option=com_content&view=article&id=508%3Aict11-round-7&catid=51%3Atoernooien&Itemid=28&lang=en)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Pandix' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=190)
 
 **[Up one Level](Engines "Engines")**
 

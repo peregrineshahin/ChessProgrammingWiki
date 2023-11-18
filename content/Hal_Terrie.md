@@ -22,10 +22,10 @@ an American chess player recognized as [National Chess Master, Life Master](http
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hal Terrie | LinkedIn](https://www.linkedin.com/in/hal-terrie-90614340/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Test, Evaluate and Improve Your Chess, 3rd Edition - Products - New In Chess:](https://www.newinchess.com/Test__Evaluate_and_Improve_Your_Chess__3rd_Edition-p-7410.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Danny Kopec](Danny_Kopec "Danny Kopec") (**1977**). *Recent developments in computer chess*. Firbush News 7 Edinburgh: Machine Intelligence Research Unit, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") (ed. [Donald Michie](Donald_Michie "Donald Michie")), [pdf](http://www.sci.brooklyn.cuny.edu/~kopec/Publications/Publications/O_45_C.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [Danny Kopec](Danny_Kopec "Danny Kopec"), Hal Terrie (**2013**). *[Test, Evaluate, and Improve your Chess: A Knowledge-Based Approach](http://www.goodreads.com/book/show/17823740-test-evaluate-and-improve-your-chess)*. 3rd Edition
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hal Terrie | LinkedIn](https://www.linkedin.com/in/hal-terrie-90614340/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Test, Evaluate and Improve Your Chess, 3rd Edition - Products - New In Chess:](https://www.newinchess.com/Test__Evaluate_and_Improve_Your_Chess__3rd_Edition-p-7410.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Danny Kopec](Danny_Kopec "Danny Kopec") (**1977**). *Recent developments in computer chess*. Firbush News 7 Edinburgh: Machine Intelligence Research Unit, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") (ed. [Donald Michie](Donald_Michie "Donald Michie")), [pdf](http://www.sci.brooklyn.cuny.edu/~kopec/Publications/Publications/O_45_C.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [Danny Kopec](Danny_Kopec "Danny Kopec"), Hal Terrie (**2013**). *[Test, Evaluate, and Improve your Chess: A Knowledge-Based Approach](http://www.goodreads.com/book/show/17823740-test-evaluate-and-improve-your-chess)*. 3rd Edition
 
 **[Up one level](People "People")**
 

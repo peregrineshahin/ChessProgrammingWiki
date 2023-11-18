@@ -141,12 +141,12 @@ Prior to Tucano 10, the handcrafted [evaluation](Evaluation "Evaluation") featur
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Keel-billed Toucan](https://en.wikipedia.org/wiki/Keel-billed_Toucan) (also known as Sulfur-breasted Toucan and the Rainbow-billed Toucan) [Faunia](https://en.wikipedia.org/wiki/Faunia), [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.org/wiki/Spain), [Photo](https://commons.wikimedia.org/wiki/File:Ramphastos_sulfuratus_-Spain_-Zoo_-upper_body-8a.jpg) by [Raúl Hernández González](https://www.flickr.com/photos/24175071@N00), April 23, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tucano chess engine 1.00](http://www.talkchess.com/forum/viewtopic.php?t=45066) by [Alcides Schulz](Alcides_Schulz "Alcides Schulz"), [CCC](CCC "CCC"), September 09, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tucano 10.00 release - Neural network evaluation](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=79172) by [Alcides Schulz](Alcides_Schulz "Alcides Schulz"), [CCC](CCC "CCC"), January 20, 2022
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tucano 7.00 Release - SMP version](http://www.talkchess.com/forum/viewtopic.php?t=66027) by [Alcides Schulz](Alcides_Schulz "Alcides Schulz"), [CCC](CCC "CCC"), December 16, 2017
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Tucano/README.md at master · alcides-schulz/Tucano · GitHub](https://github.com/alcides-schulz/Tucano/blob/master/README.md)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Eval development: is it better to tune or add new terms?](http://www.talkchess.com/forum/viewtopic.php?t=47532) by [Alcides Schulz](Alcides_Schulz "Alcides Schulz"), [CCC](CCC "CCC"), March 17, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Keel-billed Toucan](https://en.wikipedia.org/wiki/Keel-billed_Toucan) (also known as Sulfur-breasted Toucan and the Rainbow-billed Toucan) [Faunia](https://en.wikipedia.org/wiki/Faunia), [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.org/wiki/Spain), [Photo](https://commons.wikimedia.org/wiki/File:Ramphastos_sulfuratus_-Spain_-Zoo_-upper_body-8a.jpg) by [Raúl Hernández González](https://www.flickr.com/photos/24175071@N00), April 23, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tucano chess engine 1.00](http://www.talkchess.com/forum/viewtopic.php?t=45066) by [Alcides Schulz](Alcides_Schulz "Alcides Schulz"), [CCC](CCC "CCC"), September 09, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tucano 10.00 release - Neural network evaluation](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=79172) by [Alcides Schulz](Alcides_Schulz "Alcides Schulz"), [CCC](CCC "CCC"), January 20, 2022
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tucano 7.00 Release - SMP version](http://www.talkchess.com/forum/viewtopic.php?t=66027) by [Alcides Schulz](Alcides_Schulz "Alcides Schulz"), [CCC](CCC "CCC"), December 16, 2017
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tucano/README.md at master · alcides-schulz/Tucano · GitHub](https://github.com/alcides-schulz/Tucano/blob/master/README.md)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Eval development: is it better to tune or add new terms?](http://www.talkchess.com/forum/viewtopic.php?t=47532) by [Alcides Schulz](Alcides_Schulz "Alcides Schulz"), [CCC](CCC "CCC"), March 17, 2013
 
 **[Up one Level](Engines "Engines")**
 

@@ -65,10 +65,10 @@ his residence was in [Antalya](https://en.wikipedia.org/wiki/Antalya). Harun Tan
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Turkish Chess Federation Antalya, Obituary Harun Taner](http://antalya.tsf.org.tr/duyurular/377-vefat)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Satrançtan Esintiler](http://satranctanesintiler.blogspot.com/) (Breezes of Chess)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Antalya Literary Express](http://antalyaliteraryexpress.blogspot.com/) by Harun Taner
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Abana Gazetesi - Harun Taner “KIMSESIZLER GÖMÜTLÜGÜ”NE GÖMÜLDÜ](http://www.abanagazetesi.net/haber-2417-center-harun-taner--center---center--font-colorblue-kimsesizler-gomutlugune-gomuldu--font----center.html) (Turkish)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Turkish Chess Federation Antalya, Obituary Harun Taner](http://antalya.tsf.org.tr/duyurular/377-vefat)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Satrançtan Esintiler](http://satranctanesintiler.blogspot.com/) (Breezes of Chess)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Antalya Literary Express](http://antalyaliteraryexpress.blogspot.com/) by Harun Taner
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Abana Gazetesi - Harun Taner “KIMSESIZLER GÖMÜTLÜGÜ”NE GÖMÜLDÜ](http://www.abanagazetesi.net/haber-2417-center-harun-taner--center---center--font-colorblue-kimsesizler-gomutlugune-gomuldu--font----center.html) (Turkish)
 
 **[Up one level](People "People")**
 

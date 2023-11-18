@@ -48,11 +48,11 @@ His research interests include [distributed algorithms](https://en.wikipedia.org
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alberto Maria Segre | Department of Computer Science](https://cs.uiowa.edu/people/alberto-maria-segre)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Alberto Maria Segre](https://dblp.uni-trier.de/pers/hd/s/Segre:Alberto_Maria.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Domain theory from Wikipedia](https://en.wikipedia.org/wiki/Domain_theory)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nagging from Wikipedia](https://en.wikipedia.org/wiki/Nagging)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Possible Search Algorithms for GPUs?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=442052&t=41853) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), January 07, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alberto Maria Segre | Department of Computer Science](https://cs.uiowa.edu/people/alberto-maria-segre)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Alberto Maria Segre](https://dblp.uni-trier.de/pers/hd/s/Segre:Alberto_Maria.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Domain theory from Wikipedia](https://en.wikipedia.org/wiki/Domain_theory)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nagging from Wikipedia](https://en.wikipedia.org/wiki/Nagging)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Possible Search Algorithms for GPUs?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=442052&t=41853) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), January 07, 2012
 
 **[Up one level](People "People")**
 

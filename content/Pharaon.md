@@ -118,13 +118,13 @@ f5 30.Nc3 Bb3 31.Rb2 Bc4 32.Bd6 Ba5 33.Na4 Bd5 34.Rb5 Bd8 35.Nc5 Kf7 36.Ke3 Bc6
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Pharaoh, the king of [ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt), is often depicted wearing the [nemes](https://en.wikipedia.org/wiki/Nemes) [headdress](http://en.wiktionary.org/wiki/headdress) and an [ornate](http://en.wiktionary.org/wiki/ornate) [kilt](https://en.wikipedia.org/wiki/Kilt). Based on [New Kingdom](https://en.wikipedia.org/wiki/New_Kingdom_of_Egypt) [tomb paintings](https://en.wikipedia.org/wiki/Art_of_ancient_Egypt#Painting). Author: [Jeff Dahl](https://en.wikipedia.org/wiki/User:Jeff_Dahl?rdfrom=commons:User:Jeff_Dahl), December 2007, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Pharaoh from Wikipedia](https://en.wikipedia.org/wiki/Pharaoh)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pharaon History](http://www.fzibi.com/pharaon/history.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Introduction to Bitboards](http://www.fzibi.com/cchess/bitboards.htm) by [Franck Zibi](Franck_Zibi "Franck Zibi")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Home of Pharaon](http://www.fzibi.com/pharaon.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Release of Pharaon v3.3 (with Chess 960 support)](https://www.stmintz.com/ccc/index.php?id=431772) by [Franck Zibi](Franck_Zibi "Franck Zibi"), [CCC](CCC "CCC"), June 17, 2005
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Home of Pharaon](http://www.fzibi.com/pharaon.htm)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [French ch Pharaon-Tiger15 - nice attack](https://www.stmintz.com/ccc/index.php?id=256580) by [Sune Larsson](index.php?title=Sune_Larsson&action=edit&redlink=1 "Sune Larsson (page does not exist)"), [CCC](CCC "CCC"), October 06, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Pharaoh, the king of [ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt), is often depicted wearing the [nemes](https://en.wikipedia.org/wiki/Nemes) [headdress](http://en.wiktionary.org/wiki/headdress) and an [ornate](http://en.wiktionary.org/wiki/ornate) [kilt](https://en.wikipedia.org/wiki/Kilt). Based on [New Kingdom](https://en.wikipedia.org/wiki/New_Kingdom_of_Egypt) [tomb paintings](https://en.wikipedia.org/wiki/Art_of_ancient_Egypt#Painting). Author: [Jeff Dahl](https://en.wikipedia.org/wiki/User:Jeff_Dahl?rdfrom=commons:User:Jeff_Dahl), December 2007, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Pharaoh from Wikipedia](https://en.wikipedia.org/wiki/Pharaoh)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pharaon History](http://www.fzibi.com/pharaon/history.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Introduction to Bitboards](http://www.fzibi.com/cchess/bitboards.htm) by [Franck Zibi](Franck_Zibi "Franck Zibi")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Home of Pharaon](http://www.fzibi.com/pharaon.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Release of Pharaon v3.3 (with Chess 960 support)](https://www.stmintz.com/ccc/index.php?id=431772) by [Franck Zibi](Franck_Zibi "Franck Zibi"), [CCC](CCC "CCC"), June 17, 2005
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Home of Pharaon](http://www.fzibi.com/pharaon.htm)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [French ch Pharaon-Tiger15 - nice attack](https://www.stmintz.com/ccc/index.php?id=256580) by [Sune Larsson](index.php?title=Sune_Larsson&action=edit&redlink=1 "Sune Larsson (page does not exist)"), [CCC](CCC "CCC"), October 06, 2002
 
 **[Up one level](Engines "Engines")**
 

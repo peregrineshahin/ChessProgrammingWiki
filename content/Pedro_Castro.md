@@ -50,13 +50,13 @@ He further hosts the *Hispanic Chess Engines* site to promote the chess engines 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SquarknII Chess Program Disqualified (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/news_item.php?id=57)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pedro Castro Elgarresta | LinkedIn](https://www.linkedin.com/in/pedro-castro-elgarresta-42911164/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Engine DanaSah](https://sites.google.com/site/danasah/english/home)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Caligula 0.3](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=49221) by Pedro Castro, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 29, 2008
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Hispanic Chess Engines](https://sites.google.com/site/hispanicchessengines/Home) by Pedro Castro
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Engine - Hispanic Chess Engines](https://sites.google.com/site/hispanicchessengines/programs--interface---engines/engine) by Pedro Castro
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SquarknII Chess Program Disqualified (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/news_item.php?id=57)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pedro Castro Elgarresta | LinkedIn](https://www.linkedin.com/in/pedro-castro-elgarresta-42911164/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Engine DanaSah](https://sites.google.com/site/danasah/english/home)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Caligula 0.3](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=49221) by Pedro Castro, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 29, 2008
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hispanic Chess Engines](https://sites.google.com/site/hispanicchessengines/Home) by Pedro Castro
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Engine - Hispanic Chess Engines](https://sites.google.com/site/hispanicchessengines/programs--interface---engines/engine) by Pedro Castro
 
 **[Up one level](People "People")**
 

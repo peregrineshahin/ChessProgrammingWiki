@@ -62,10 +62,10 @@ Be7 10.O-O O-O 11.Qe1 h6 12.Bxf6 Bxf6 13.e4 Bg6 14.Nf4 Kh7
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Black armor in a Russian museum](https://en.wikipedia.org/wiki/File:%D0%9A%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C_3_%28%D0%AD%D1%80%D0%BC%D0%B8%D1%82%D0%B0%D0%B6%29.jpg) by [George Shuklin](http://commons.wikimedia.org/wiki/User:George_Shuklin)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Chess - A Memorial to Brute Force](http://www.lkessler.com/brutefor.shtml) by [Louis Kessler](Louis_Kessler "Louis Kessler")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Schachcomputer sagt Kortschnojs Sieg voraus:: "Black Knight" gegen Petrossjan unentschieden](http://www.computerwoche.de/heftarchiv/1980/16/1189322/) April 18, 1980, [Computerwoche](Computerworld#Woche "Computerworld") 16/1980 (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Black Knight Chess - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.black.knight.chess&hl=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Black armor in a Russian museum](https://en.wikipedia.org/wiki/File:%D0%9A%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C_3_%28%D0%AD%D1%80%D0%BC%D0%B8%D1%82%D0%B0%D0%B6%29.jpg) by [George Shuklin](http://commons.wikimedia.org/wiki/User:George_Shuklin)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Chess - A Memorial to Brute Force](http://www.lkessler.com/brutefor.shtml) by [Louis Kessler](Louis_Kessler "Louis Kessler")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Schachcomputer sagt Kortschnojs Sieg voraus:: "Black Knight" gegen Petrossjan unentschieden](http://www.computerwoche.de/heftarchiv/1980/16/1189322/) April 18, 1980, [Computerwoche](Computerworld#Woche "Computerworld") 16/1980 (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Black Knight Chess - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.black.knight.chess&hl=en)
 
 **[Up one Level](Engines "Engines")**
 

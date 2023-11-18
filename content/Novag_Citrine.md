@@ -76,8 +76,8 @@ and further a [H8/3687](H8 "H8") processor at 20 MHz running a [David Kittinger]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Novag Citrine Electronic Chess Computer](http://www.spacious-mind.com/html/citrine.html) by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Novag Universal Electronic Chess Board](https://www.schach-computer.info/wiki/index.php/Novag_Universal_Electronic_Chess_Board) from [Schachcomputer.info - Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Novag Citrine Electronic Chess Computer](http://www.spacious-mind.com/html/citrine.html) by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Novag Universal Electronic Chess Board](https://www.schach-computer.info/wiki/index.php/Novag_Universal_Electronic_Chess_Board) from [Schachcomputer.info - Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
 
 **[Up one level](Engines "Engines")**
 

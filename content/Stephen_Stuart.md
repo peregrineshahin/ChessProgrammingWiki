@@ -19,8 +19,8 @@ an American early chess programmer, who wrote a chess program for the [Signetics
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Stephen Stuart (**1977**). *Letter*. [Douglas Penrod](Douglas_Penrod "Douglas Penrod") (ed.) (**1977**). *[Computer Chess Newsletter, Issue 2](https://www.computerhistory.org/chess/doc-431614f6d6b8e/)*. hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), pg. 12
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Larry Wagner](Larry_Wagner "Larry Wagner") (**1978**). *Results of First Microcomputer Chess Tournament*. [Silicon Gulch Gazette](http://www.computerhistory.org/collections/accession/102686281), Vol. 2, No. 4, May 10, 1978, pg. 9
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Stephen Stuart (**1977**). *Letter*. [Douglas Penrod](Douglas_Penrod "Douglas Penrod") (ed.) (**1977**). *[Computer Chess Newsletter, Issue 2](https://www.computerhistory.org/chess/doc-431614f6d6b8e/)*. hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), pg. 12
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Larry Wagner](Larry_Wagner "Larry Wagner") (**1978**). *Results of First Microcomputer Chess Tournament*. [Silicon Gulch Gazette](http://www.computerhistory.org/collections/accession/102686281), Vol. 2, No. 4, May 10, 1978, pg. 9
 
 **[Up one level](People "People")**
 

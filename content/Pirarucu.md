@@ -83,8 +83,8 @@ Pirarucu's source code is licensed under the [GPL v3.0](Free_Software_Foundation
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Arapaima gigas or Pirarucu, [Photo](https://commons.wikimedia.org/wiki/File:Arapaima_gigas_captivity.jpg) by [Citron](https://commons.wikimedia.org/wiki/User:Citron), February 2014, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [pirarucu/README.md at master · ratosh/pirarucu · GitHub](https://github.com/ratosh/pirarucu/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Arapaima gigas or Pirarucu, [Photo](https://commons.wikimedia.org/wiki/File:Arapaima_gigas_captivity.jpg) by [Citron](https://commons.wikimedia.org/wiki/User:Citron), February 2014, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [pirarucu/README.md at master · ratosh/pirarucu · GitHub](https://github.com/ratosh/pirarucu/blob/master/README.md)
 
 **[Up one level](Engines "Engines")**
 

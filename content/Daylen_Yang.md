@@ -37,14 +37,14 @@ In June 2015, he talked on *[How do modern chess engines work](#video)* at the *
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Daylen Yang](https://daylen.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Brian Chu](https://dblp.org/pers/hd/c/Chu:Brian), Daylen Yang, [Ravi Tadinada](https://dblp.org/pers/hd/t/Tadinada:Ravi) (**2017**). *Visualizing Residual Networks*. [arXiv:1701.02362](https://arxiv.org/abs/1701.02362)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [TNG | Abstracts](http://www.tngtech.com/tng-ueber-uns/bigtechday/big-techday-8/abstracts.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [About - Stockfish - Open Source Chess Engine](https://stockfishchess.org/about/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [TNG | Big Techday 8](https://www.tngtech.com/en/tng-about-us/bigtechday/big-techday-8.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Daylen Yang](https://dblp.org/pers/hd/y/Yang:Daylen)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Video : How do modern chess engines work ?](http://www.talkchess.com/forum/viewtopic.php?t=59836) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), April 12, 2016
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Parallelism and Selectivity in Game Tree Search | Video](Tord_Romstad#Video "Tord Romstad"), Talk by [Tord Romstad](Tord_Romstad "Tord Romstad")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Daylen Yang](https://daylen.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Brian Chu](https://dblp.org/pers/hd/c/Chu:Brian), Daylen Yang, [Ravi Tadinada](https://dblp.org/pers/hd/t/Tadinada:Ravi) (**2017**). *Visualizing Residual Networks*. [arXiv:1701.02362](https://arxiv.org/abs/1701.02362)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [TNG | Abstracts](http://www.tngtech.com/tng-ueber-uns/bigtechday/big-techday-8/abstracts.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [About - Stockfish - Open Source Chess Engine](https://stockfishchess.org/about/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [TNG | Big Techday 8](https://www.tngtech.com/en/tng-about-us/bigtechday/big-techday-8.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Daylen Yang](https://dblp.org/pers/hd/y/Yang:Daylen)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Video : How do modern chess engines work ?](http://www.talkchess.com/forum/viewtopic.php?t=59836) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), April 12, 2016
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Parallelism and Selectivity in Game Tree Search | Video](Tord_Romstad#Video "Tord Romstad"), Talk by [Tord Romstad](Tord_Romstad "Tord Romstad")
 
 **[Up one level](People "People")**
 

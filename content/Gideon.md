@@ -58,18 +58,18 @@ The [PC](IBM_PC "IBM PC") program **Mephisto Gideon** was developed in cooperati
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Gideon and His Three Hundred; as in Judges 7:9-23; illustration from a Bible card published by the Providence Lithograph Company, [Gideon (Bijbel) from Wikipedia.nl](http://nl.wikipedia.org/wiki/Gideon_%28Bijbel%29) (Dutch)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [World Champion (1991-1995)](http://members.home.nl/matador/chess_2.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [REBEL (chess) from Wikipedia](https://en.wikipedia.org/wiki/REBEL_%28chess%29)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [TASC ChessMachine](http://www.schach-computer.info/wiki/index.php/TASC_ChessMachine) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Mephisto Risc 1MB](http://www.schach-computer.info/wiki/index.php/Mephisto_Risc_1MB) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Mephisto Risc 2](http://www.schach-computer.info/wiki/index.php/Mephisto_Risc_2) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the [11th World Microcomputer Chess Championship](WMCCC_1991 "WMCCC 1991")*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 14, No. 2
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Ed Schröder - Mephisto Gideon](http://www.schachversand.eu/e/detail/software/101.html) from [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [REBEL on the PC (1993-2001)](http://members.home.nl/matador/chess_3.htm)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Mephisto Gideon Professional (1993) for Winboard and UCI](http://www.talkchess.com/forum/viewtopic.php?t=44819) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 17, 2012
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Donationware](http://www.top-5000.nl/donationware.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Vancouver 1991 - Chess - Round 2 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=59&round=2&id=1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Gideon and His Three Hundred; as in Judges 7:9-23; illustration from a Bible card published by the Providence Lithograph Company, [Gideon (Bijbel) from Wikipedia.nl](http://nl.wikipedia.org/wiki/Gideon_%28Bijbel%29) (Dutch)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [World Champion (1991-1995)](http://members.home.nl/matador/chess_2.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [REBEL (chess) from Wikipedia](https://en.wikipedia.org/wiki/REBEL_%28chess%29)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [TASC ChessMachine](http://www.schach-computer.info/wiki/index.php/TASC_ChessMachine) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mephisto Risc 1MB](http://www.schach-computer.info/wiki/index.php/Mephisto_Risc_1MB) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mephisto Risc 2](http://www.schach-computer.info/wiki/index.php/Mephisto_Risc_2) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the [11th World Microcomputer Chess Championship](WMCCC_1991 "WMCCC 1991")*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 14, No. 2
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Ed Schröder - Mephisto Gideon](http://www.schachversand.eu/e/detail/software/101.html) from [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [REBEL on the PC (1993-2001)](http://members.home.nl/matador/chess_3.htm)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Mephisto Gideon Professional (1993) for Winboard and UCI](http://www.talkchess.com/forum/viewtopic.php?t=44819) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 17, 2012
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Donationware](http://www.top-5000.nl/donationware.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Vancouver 1991 - Chess - Round 2 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=59&round=2&id=1)
 
 **[Up one level](Engines "Engines")**
 

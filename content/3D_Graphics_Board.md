@@ -158,16 +158,16 @@ KnightCap's 3D Board <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image selfmade with [Blender](https://en.wikipedia.org/wiki/Blender_%28software%29), Author: [J.A. Freyre](https://en.wikipedia.org/wiki/User:Jfreyre), January 22 2006, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Colossus Chess from Wikipedia](https://en.wikipedia.org/wiki/Colossus_Chess)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Cyrus II - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0001213)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [PC-Screenshots | Chessmaster XI: The Art of Learning](http://chessmaster.de.ubi.com/xi/pcScreens.php) | [Ubisoft](index.php?title=Ubisoft&action=edit&redlink=1 "Ubisoft (page does not exist)")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ChessPartner Screen shots | ChessPartner - Lokasoft - Home of ChessPartner](http://www.lokasoft.nl/chesspartner.aspx)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Welcome to the KnightCap home page](http://samba.anu.edu.au/KnightCap/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Going commercial, maybe](https://groups.google.com/group/rec.games.chess.computer/msg/ded7e4e4304d8d4e) by [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 9, 1997
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Nemeton3D 1.51](http://www.talkchess.com/forum/viewtopic.php?t=64177) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), June 04, 2017
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Home page Uragano 3D](http://www.naddei.it/uragano_3d/)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Pointshop3D](http://graphics.ethz.ch/pointshop3d/) developed at the Computer Graphics Lab at [ETH Zurich](ETH_Zurich "ETH Zurich")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image selfmade with [Blender](https://en.wikipedia.org/wiki/Blender_%28software%29), Author: [J.A. Freyre](https://en.wikipedia.org/wiki/User:Jfreyre), January 22 2006, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Colossus Chess from Wikipedia](https://en.wikipedia.org/wiki/Colossus_Chess)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Cyrus II - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0001213)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [PC-Screenshots | Chessmaster XI: The Art of Learning](http://chessmaster.de.ubi.com/xi/pcScreens.php) | [Ubisoft](index.php?title=Ubisoft&action=edit&redlink=1 "Ubisoft (page does not exist)")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ChessPartner Screen shots | ChessPartner - Lokasoft - Home of ChessPartner](http://www.lokasoft.nl/chesspartner.aspx)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Welcome to the KnightCap home page](http://samba.anu.edu.au/KnightCap/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Going commercial, maybe](https://groups.google.com/group/rec.games.chess.computer/msg/ded7e4e4304d8d4e) by [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 9, 1997
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Nemeton3D 1.51](http://www.talkchess.com/forum/viewtopic.php?t=64177) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), June 04, 2017
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Home page Uragano 3D](http://www.naddei.it/uragano_3d/)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Pointshop3D](http://graphics.ethz.ch/pointshop3d/) developed at the Computer Graphics Lab at [ETH Zurich](ETH_Zurich "ETH Zurich")
 
 **[Up one Level](Graphics_Programming "Graphics Programming")**
 

@@ -93,10 +93,10 @@ Galjoen 0.35, released in March 2017 is able to play [Chess960](Chess960 "Chess9
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Spanish Galleon](https://en.wikipedia.org/wiki/Galleon), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [new gui, new engine](http://www.talkchess.com/forum/viewtopic.php?t=55216) by [Werner Taelemans](index.php?title=Werner_Taelemans&action=edit&redlink=1 "Werner Taelemans (page does not exist)"), [CCC](CCC "CCC"), February 05, 2015
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Galjoen 0.35](http://www.talkchess.com/forum/viewtopic.php?t=63341) by [Werner Taelemans](index.php?title=Werner_Taelemans&action=edit&redlink=1 "Werner Taelemans (page does not exist)"), [CCC](CCC "CCC"), March 04, 2017
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chessprogram Galjoen](http://www.goudengaljoen.be/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Spanish Galleon](https://en.wikipedia.org/wiki/Galleon), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [new gui, new engine](http://www.talkchess.com/forum/viewtopic.php?t=55216) by [Werner Taelemans](index.php?title=Werner_Taelemans&action=edit&redlink=1 "Werner Taelemans (page does not exist)"), [CCC](CCC "CCC"), February 05, 2015
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Galjoen 0.35](http://www.talkchess.com/forum/viewtopic.php?t=63341) by [Werner Taelemans](index.php?title=Werner_Taelemans&action=edit&redlink=1 "Werner Taelemans (page does not exist)"), [CCC](CCC "CCC"), March 04, 2017
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chessprogram Galjoen](http://www.goudengaljoen.be/)
 
 **[Up one Level](Engines "Engines")**
 

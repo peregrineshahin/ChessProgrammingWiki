@@ -25,9 +25,9 @@ He is author of the [UCI](UCI "UCI") compliant chess program [Anechka](Anechka "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nefedov, Sergei FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=4146115)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Anechka by Сергей Нефедов, Russia](http://www.sdchess.ru/Anechka_UCI.htm) from [sdchess.ru](http://www.sdchess.ru/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Новости за февраль - март 2008 года, 29 февраля 2008 г.](http://www.sdchess.ru/febr_march_08.htm) from [sdchess.ru](http://www.sdchess.ru/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nefedov, Sergei FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=4146115)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Anechka by Сергей Нефедов, Russia](http://www.sdchess.ru/Anechka_UCI.htm) from [sdchess.ru](http://www.sdchess.ru/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Новости за февраль - март 2008 года, 29 февраля 2008 г.](http://www.sdchess.ru/febr_march_08.htm) from [sdchess.ru](http://www.sdchess.ru/)
 
 **[Up one level](People "People")**
 

@@ -34,11 +34,11 @@ Edward Lockhart contributed to various [reinforcement learning](Reinforcement_Le
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Edward Lockhart | LinkedIn](https://www.linkedin.com/in/edward-lockhart-938a6141/?originalSubdomain=uk)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Edward Lockhart | LinkedIn](https://www.linkedin.com/in/edward-lockhart-938a6141/?originalSubdomain=uk)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?fbclid=IwAR3mSwrn1YXDKr9uuGm2GlFKh76wBilex7f8QvBiQecwiVmAvD6Bkyjx-rE)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Edward Lockhart](https://dblp.uni-trier.de/pid/210/2233.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [open_spiel/contributing.md at master · deepmind/open_spiel · GitHub](https://github.com/deepmind/open_spiel/blob/master/docs/contributing.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Edward Lockhart | LinkedIn](https://www.linkedin.com/in/edward-lockhart-938a6141/?originalSubdomain=uk)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Edward Lockhart | LinkedIn](https://www.linkedin.com/in/edward-lockhart-938a6141/?originalSubdomain=uk)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?fbclid=IwAR3mSwrn1YXDKr9uuGm2GlFKh76wBilex7f8QvBiQecwiVmAvD6Bkyjx-rE)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Edward Lockhart](https://dblp.uni-trier.de/pid/210/2233.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [open_spiel/contributing.md at master · deepmind/open_spiel · GitHub](https://github.com/deepmind/open_spiel/blob/master/docs/contributing.md)
 
 **[Up one level](People "People")**
 

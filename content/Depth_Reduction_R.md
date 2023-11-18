@@ -33,10 +33,10 @@ When **R** becomes a variable, then we say that a program uses [adaptive null mo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"). (**1993**). *Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**2001**). *Multi-cut Alpha-Beta Pruning in Game Tree Search.* Theoretical Computer Science, Vol. 252
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"). (**1999**). *Adaptive null-move pruning*. [ICCA Journal, Vol. 22, No 3](ICGA_Journal#22_3 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Rethinking r in null move](http://www.talkchess.com/forum/viewtopic.php?t=64927) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), August 18, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"). (**1993**). *Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**2001**). *Multi-cut Alpha-Beta Pruning in Game Tree Search.* Theoretical Computer Science, Vol. 252
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"). (**1999**). *Adaptive null-move pruning*. [ICCA Journal, Vol. 22, No 3](ICGA_Journal#22_3 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rethinking r in null move](http://www.talkchess.com/forum/viewtopic.php?t=64927) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), August 18, 2017
 
 **[Up one Level](Search "Search")**
 

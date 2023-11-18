@@ -21,8 +21,8 @@ a Bulgarian entrepreneur and since April 2007 CEO at [Chessdom](index.php?title=
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Anton Mihailov | LinkedIn](https://www.linkedin.com/in/anton-mihailov-05721054/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: What Happened to TCEC Season 8? Where is Martin?](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=55915&start=17) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), April 08, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Anton Mihailov | LinkedIn](https://www.linkedin.com/in/anton-mihailov-05721054/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: What Happened to TCEC Season 8? Where is Martin?](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=55915&start=17) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), April 08, 2015
 
 **[Up one level](People "People")**
 

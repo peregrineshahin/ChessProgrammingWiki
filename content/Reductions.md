@@ -105,7 +105,7 @@ A none recursive pruning based on reduction at some fixed depth is applied by:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Programmer Corner - How Rebel Plays Chess - Reductions](http://www.top-5000.nl/authors/rebel/chess840.htm#REDUCTIONS) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [pdf reprint](http://members.home.nl/matador/Inside%20Rebel.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Programmer Corner - How Rebel Plays Chess - Reductions](http://www.top-5000.nl/authors/rebel/chess840.htm#REDUCTIONS) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [pdf reprint](http://members.home.nl/matador/Inside%20Rebel.pdf)
 
 **[Up one level](Selectivity "Selectivity")**
 

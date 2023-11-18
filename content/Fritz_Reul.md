@@ -70,14 +70,14 @@ During the [ICGA Investigations](ICGA_Investigations "ICGA Investigations") in 2
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [...weil Chess960 Leben ins Schach bringt](http://www.chesstigers.de/ccm9_index_news.php?id=760&rubrik=6&lang=0&kat=6) Die Computer Schach Experten [Frank Schneider](Frank_Schneider "Frank Schneider") und [Kai Skibbe](Kai_Skibbe "Kai Skibbe") im Interview (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Fritz Reul (**2009**). *New Architectures in Computer Chess*. Ph.D. thesis
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA disqualifies chess program 'List'](http://www.chessbase.com/Home/TabId/211/PostId/4001330/icga-disqualifies-chess-program-list-.aspx), [ChessBase News](ChessBase "ChessBase"), November 27, 2003
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Levy](David_Levy "David Levy") (**2005**). *Cancellation of Suspension*.[ICGA Journal, Vol. 28, No. 1](ICGA_Journal#28_1 "ICGA Journal") [pdf](http://ilk.uvt.nl/icga/journal/pdf/toc28-1.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Loop 2007 / Fruit 2.1](http://www.open-chess.org/viewtopic.php?f=5&t=1353) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 18, 2011
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a>  [ICGA/Rybka controversy: Feedback - Allegations against another Chess Engine – The LOOP Program](http://www.chessbase.com/newsdetail.asp?newsid=7926) by [David Levy](David_Levy "David Levy"), [ChessBase News](ChessBase "ChessBase"), February 17, 2012
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Loop 2007 / Fruit 2.1](http://www.open-chess.org/viewtopic.php?f=5&t=1353#p13794) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), August 22, 2011
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Fritz Reul](http://dblp.org/pers/hd/r/Reul:Fritz)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [...weil Chess960 Leben ins Schach bringt](http://www.chesstigers.de/ccm9_index_news.php?id=760&rubrik=6&lang=0&kat=6) Die Computer Schach Experten [Frank Schneider](Frank_Schneider "Frank Schneider") und [Kai Skibbe](Kai_Skibbe "Kai Skibbe") im Interview (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Fritz Reul (**2009**). *New Architectures in Computer Chess*. Ph.D. thesis
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA disqualifies chess program 'List'](http://www.chessbase.com/Home/TabId/211/PostId/4001330/icga-disqualifies-chess-program-list-.aspx), [ChessBase News](ChessBase "ChessBase"), November 27, 2003
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Levy](David_Levy "David Levy") (**2005**). *Cancellation of Suspension*.[ICGA Journal, Vol. 28, No. 1](ICGA_Journal#28_1 "ICGA Journal") [pdf](http://ilk.uvt.nl/icga/journal/pdf/toc28-1.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Loop 2007 / Fruit 2.1](http://www.open-chess.org/viewtopic.php?f=5&t=1353) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 18, 2011
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a>  [ICGA/Rybka controversy: Feedback - Allegations against another Chess Engine – The LOOP Program](http://www.chessbase.com/newsdetail.asp?newsid=7926) by [David Levy](David_Levy "David Levy"), [ChessBase News](ChessBase "ChessBase"), February 17, 2012
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Loop 2007 / Fruit 2.1](http://www.open-chess.org/viewtopic.php?f=5&t=1353#p13794) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), August 22, 2011
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Fritz Reul](http://dblp.org/pers/hd/r/Reul:Fritz)
 
 **[Up one level](People "People")**
 

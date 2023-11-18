@@ -249,16 +249,16 @@ Butterflies from [Wikipedia](https://en.wikipedia.org/wiki/Home) <a id="cite-not
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Picture gallery "Symmetry"](http://www.mcescher.com/Gallery/gallery-symmetry.htm) from [The Official M.C. Escher Website](http://www.mcescher.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1991**). *Sundry Computer Chess Topics*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Countermove Heuristic*. [ICCA Journal, Vol. 15, No. 1](ICGA_Journal#15_1 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: History pruning / move ordering question](http://www.talkchess.com/forum/viewtopic.php?t=47953&start=2) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), May 10, 2013
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: LMR: history or not?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=163477&t=18345) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") from [CCC](Computer_Chess_Forums "Computer Chess Forums"), December 13, 2007
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Butterfly Boards*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1991**). *Sundry Computer Chess Topics*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Edward Walter Maunder, Solar observations](https://en.wikipedia.org/wiki/Edward_Walter_Maunder#Solar_observations) A modern version of the Mauders' sunspot "butterfly diagram". (This version from the solar group at NASA Marshall Space Flight Center.)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Butterfly (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Butterfly_%28disambiguation%29)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Fast Fourier Transform (FFT)](http://www.relisoft.com/Science/Physics/fft.html) from [Reliable Software](http://www.relisoft.com/index.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Picture gallery "Symmetry"](http://www.mcescher.com/Gallery/gallery-symmetry.htm) from [The Official M.C. Escher Website](http://www.mcescher.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1991**). *Sundry Computer Chess Topics*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Countermove Heuristic*. [ICCA Journal, Vol. 15, No. 1](ICGA_Journal#15_1 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: History pruning / move ordering question](http://www.talkchess.com/forum/viewtopic.php?t=47953&start=2) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), May 10, 2013
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: LMR: history or not?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=163477&t=18345) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") from [CCC](Computer_Chess_Forums "Computer Chess Forums"), December 13, 2007
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Butterfly Boards*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1991**). *Sundry Computer Chess Topics*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Edward Walter Maunder, Solar observations](https://en.wikipedia.org/wiki/Edward_Walter_Maunder#Solar_observations) A modern version of the Mauders' sunspot "butterfly diagram". (This version from the solar group at NASA Marshall Space Flight Center.)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Butterfly (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Butterfly_%28disambiguation%29)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Fast Fourier Transform (FFT)](http://www.relisoft.com/Science/Physics/fft.html) from [Reliable Software](http://www.relisoft.com/index.htm)
 
 **[Up one Level](Data "Data")**
 

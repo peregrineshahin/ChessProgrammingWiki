@@ -306,11 +306,11 @@ ejm97 /XX\     /XX\   /XX\     /XX\   /XX\     /XX\
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> An example of early-style [Staunton Chess Set](https://en.wikipedia.org/wiki/Staunton_chess_set) - Photo used by permission of [Frank A. Camaratta, Jr.](http://www.uschess.org/cc/absolute/camarattabio.php); [The House of Staunton, Inc.](https://en.wikipedia.org/wiki/House_of_Staunton); [houseofstaunton.com](http://www.houseofstaunton.com/), [Chess piece from Wikipedia](https://en.wikipedia.org/wiki/Chess_piece), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Burton Wendroff](Burton_Wendroff "Burton Wendroff") (**1985**). *Attack Detection and Move Generation on the [X-MP/48](http://www.cisl.ucar.edu/computers/gallery/cray/xmp.jsp).* [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 8, No. 2
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*, Ph.D. Thesis, *Chapter 2 Non-Bitboard Architectures*
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [chess - Ascii Art Dictionary](http://www.ascii-art.de/ascii/c/chess.txt) by [Andreas Freise](http://www.sr.bham.ac.uk/~adf/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ASCII Chess Pieces](http://www.chessvariants.com/d.pieces/ascii.html) by [David Moeser](http://www.chessvariants.com/books.html#lotus)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> An example of early-style [Staunton Chess Set](https://en.wikipedia.org/wiki/Staunton_chess_set) - Photo used by permission of [Frank A. Camaratta, Jr.](http://www.uschess.org/cc/absolute/camarattabio.php); [The House of Staunton, Inc.](https://en.wikipedia.org/wiki/House_of_Staunton); [houseofstaunton.com](http://www.houseofstaunton.com/), [Chess piece from Wikipedia](https://en.wikipedia.org/wiki/Chess_piece), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Burton Wendroff](Burton_Wendroff "Burton Wendroff") (**1985**). *Attack Detection and Move Generation on the [X-MP/48](http://www.cisl.ucar.edu/computers/gallery/cray/xmp.jsp).* [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 8, No. 2
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*, Ph.D. Thesis, *Chapter 2 Non-Bitboard Architectures*
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [chess - Ascii Art Dictionary](http://www.ascii-art.de/ascii/c/chess.txt) by [Andreas Freise](http://www.sr.bham.ac.uk/~adf/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ASCII Chess Pieces](http://www.chessvariants.com/d.pieces/ascii.html) by [David Moeser](http://www.chessvariants.com/books.html#lotus)
 
 **[Up one Level](Chess "Chess")**
 

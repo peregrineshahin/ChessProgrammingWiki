@@ -41,10 +41,10 @@ a chess program by [Ulf Rathsman](Ulf_Rathsman "Ulf Rathsman") written in [6502]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ruggiero](https://en.wikipedia.org/wiki/Ruggiero_%28character%29) Rescuing [Angelica](https://en.wikipedia.org/wiki/Angelica_%28character%29), an illustration for [Ludovico Ariosto's](https://en.wikipedia.org/wiki/Ludovico_Ariosto) [Orlando Furioso](https://en.wikipedia.org/wiki/Orlando_Furioso) by [Gustave Doré](Category:Gustave_Dor%C3%A9 "Category:Gustave Doré"), [Princess and dragon from Wikipedia](https://en.wikipedia.org/wiki/Princess_and_dragon)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Conchess](http://www.schach-computer.info/wiki/index.php/Conchess) – [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Karsten Bauermeister](Karsten_Bauermeister "Karsten Bauermeister") (**1998**). *Die Geschichte der Conchess-Schachcomputer*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), Heft 4, August-September 1998
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Travemünde 1981 - Chess - Round 6 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=67&round=6&id=2)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ruggiero](https://en.wikipedia.org/wiki/Ruggiero_%28character%29) Rescuing [Angelica](https://en.wikipedia.org/wiki/Angelica_%28character%29), an illustration for [Ludovico Ariosto's](https://en.wikipedia.org/wiki/Ludovico_Ariosto) [Orlando Furioso](https://en.wikipedia.org/wiki/Orlando_Furioso) by [Gustave Doré](Category:Gustave_Dor%C3%A9 "Category:Gustave Doré"), [Princess and dragon from Wikipedia](https://en.wikipedia.org/wiki/Princess_and_dragon)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Conchess](http://www.schach-computer.info/wiki/index.php/Conchess) – [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Karsten Bauermeister](Karsten_Bauermeister "Karsten Bauermeister") (**1998**). *Die Geschichte der Conchess-Schachcomputer*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), Heft 4, August-September 1998
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Travemünde 1981 - Chess - Round 6 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=67&round=6&id=2)
 
 **[Up one Level](Engines "Engines")**
 

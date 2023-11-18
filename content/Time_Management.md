@@ -281,12 +281,12 @@ Human chess players often wonder about the inflexible time management of various
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Streatham & Brixton Chess Blog: Chess in Art Postscript: Chess-in-Artists do for Christmas](http://streathambrixtonchess.blogspot.de/2009/11/chess-in-art-postscript-chess-in_22.html) The site *Roland La Tuffo Barczik Hungarian artist, La Tuffo's Artwork, Barcsik's Chess Art* no longer available
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [History of the clocks](http://digitalgametechnology.com/site/index.php/History/clock-history.html) from [DGT - Digital Game Technology](http://digitalgametechnology.com/site/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Digital chess clock - Google Patent Search](http://www.google.com/patents?vid=4884255)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [question about fixing the time management of movei](https://www.stmintz.com/ccc/index.php?id=378905) by [Uri Blass](Uri_Blass "Uri Blass") from [CCC](CCC "CCC"), July 25, 2004
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1984**). *Using Time Wisely*. [ICCA Journal, Vol. 7, No. 1](ICGA_Journal#7_1 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Normalized Elo](http://hardy.uhasselt.be/Toga/normalized_elo.pdf) (pdf) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Streatham & Brixton Chess Blog: Chess in Art Postscript: Chess-in-Artists do for Christmas](http://streathambrixtonchess.blogspot.de/2009/11/chess-in-art-postscript-chess-in_22.html) The site *Roland La Tuffo Barczik Hungarian artist, La Tuffo's Artwork, Barcsik's Chess Art* no longer available
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [History of the clocks](http://digitalgametechnology.com/site/index.php/History/clock-history.html) from [DGT - Digital Game Technology](http://digitalgametechnology.com/site/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Digital chess clock - Google Patent Search](http://www.google.com/patents?vid=4884255)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [question about fixing the time management of movei](https://www.stmintz.com/ccc/index.php?id=378905) by [Uri Blass](Uri_Blass "Uri Blass") from [CCC](CCC "CCC"), July 25, 2004
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1984**). *Using Time Wisely*. [ICCA Journal, Vol. 7, No. 1](ICGA_Journal#7_1 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Normalized Elo](http://hardy.uhasselt.be/Toga/normalized_elo.pdf) (pdf) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh")
 
 **[Up one Level](Search "Search")**
 

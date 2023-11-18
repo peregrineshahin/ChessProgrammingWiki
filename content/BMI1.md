@@ -122,10 +122,10 @@ unsigned __int64 _tzcnt_u64(unsigned __int64 src);
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [AMD64 Architecture Programmer’s Manual Volume 3: General-Purpose and System Instructions](https://www.amd.com/system/files/TechDocs/24594.pdf) (pdf)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sign Extension](http://aggregate.org/MAGIC/#Sign%20Extension) from [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC) by [Hank Dietz](Hank_Dietz "Hank Dietz")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Looking for intrinsic "least significant bit" on Visual Studio](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74989) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), September 03, 2020
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Moved BMI and TBM instructions from Volume 4 to Volume 3 in September 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [AMD64 Architecture Programmer’s Manual Volume 3: General-Purpose and System Instructions](https://www.amd.com/system/files/TechDocs/24594.pdf) (pdf)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sign Extension](http://aggregate.org/MAGIC/#Sign%20Extension) from [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC) by [Hank Dietz](Hank_Dietz "Hank Dietz")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Looking for intrinsic "least significant bit" on Visual Studio](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74989) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), September 03, 2020
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Moved BMI and TBM instructions from Volume 4 to Volume 3 in September 2011
 
 **[Up one Level](X86-64 "X86-64")**
 

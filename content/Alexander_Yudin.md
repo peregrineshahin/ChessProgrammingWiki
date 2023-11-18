@@ -29,10 +29,10 @@ in partuclar, he worked on Pioneer's [opening book](Opening_Book "Opening Book")
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [По стопам ПИОНЕРа](http://atimopheyev.narod.ru/AfterPIONEER/inPIONEERsFootsteps.ALL.HTM) (In the footsteps of PIONEER) hosted by [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Alexander Yudin (**1975**). *Biblioteka debyutov i algoritm yeye ispol'zovaniya*. (The library of openings and the algorithm for its use) Appendix 2 in [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") (**1975**). *O Kiberneticheskoi Celi Igri*. (On the Cybernetic Goal of Games), Soviet Radio, Moscow
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Linguistic Geometry - Related Publications](https://stilman-strategies.com/bstilman/publications.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") (**1984**). *[Computers in Chess: Solving Inexact Search Problems](https://link.springer.com/book/10.1007/978-1-4612-5204-7)*. [Springer](https://de.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [По стопам ПИОНЕРа](http://atimopheyev.narod.ru/AfterPIONEER/inPIONEERsFootsteps.ALL.HTM) (In the footsteps of PIONEER) hosted by [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Alexander Yudin (**1975**). *Biblioteka debyutov i algoritm yeye ispol'zovaniya*. (The library of openings and the algorithm for its use) Appendix 2 in [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") (**1975**). *O Kiberneticheskoi Celi Igri*. (On the Cybernetic Goal of Games), Soviet Radio, Moscow
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Linguistic Geometry - Related Publications](https://stilman-strategies.com/bstilman/publications.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") (**1984**). *[Computers in Chess: Solving Inexact Search Problems](https://link.springer.com/book/10.1007/978-1-4612-5204-7)*. [Springer](https://de.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
 
 **[Up one level](People "People")**
 

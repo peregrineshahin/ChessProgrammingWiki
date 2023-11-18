@@ -90,8 +90,8 @@ Three Lyon versions were shipped - with [68000](68000 "68000") and [68020](68020
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lyon 68020](https://www.flickr.com/photos/10261668@N05/859028734/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> *Mephisto Lyon 16 / 32 bit*. [pdf](http://alain.zanchetta.free.fr/docs/mephisto/MephistoLyonDE.pdf) hosted by [Alain Zanchetta](index.php?title=Alain_Zanchetta&action=edit&redlink=1 "Alain Zanchetta (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lyon 68020](https://www.flickr.com/photos/10261668@N05/859028734/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> *Mephisto Lyon 16 / 32 bit*. [pdf](http://alain.zanchetta.free.fr/docs/mephisto/MephistoLyonDE.pdf) hosted by [Alain Zanchetta](index.php?title=Alain_Zanchetta&action=edit&redlink=1 "Alain Zanchetta (page does not exist)")
 
 **[Up one Level](Mephisto "Mephisto")**
 

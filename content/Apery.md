@@ -84,10 +84,10 @@ pub struct Bitboard {
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Satori](<https://en.wikipedia.org/wiki/Satori_(folklore)>) from the [Konjaku Gazu Zoku Hyakki](https://en.wikipedia.org/wiki/Konjaku_Gazu_Zoku_Hyakki) (今昔画図続百鬼) by [Toriyama Sekien](Category:Toriyama_Sekien "Category:Toriyama Sekien"), circa 1779, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - HiraokaTakuya/apery_rust: USI shogi engine written in Rust](https://github.com/HiraokaTakuya/apery_rust)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [apery/bitboard.hpp at master · HiraokaTakuya/apery · GitHub](https://github.com/HiraokaTakuya/apery/blob/master/src/bitboard.hpp)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [apery_rust/bitboard.rs at master · HiraokaTakuya/apery_rust · GitHub](https://github.com/HiraokaTakuya/apery_rust/blob/master/src/bitboard.rs#L6)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Satori](<https://en.wikipedia.org/wiki/Satori_(folklore)>) from the [Konjaku Gazu Zoku Hyakki](https://en.wikipedia.org/wiki/Konjaku_Gazu_Zoku_Hyakki) (今昔画図続百鬼) by [Toriyama Sekien](Category:Toriyama_Sekien "Category:Toriyama Sekien"), circa 1779, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - HiraokaTakuya/apery_rust: USI shogi engine written in Rust](https://github.com/HiraokaTakuya/apery_rust)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [apery/bitboard.hpp at master · HiraokaTakuya/apery · GitHub](https://github.com/HiraokaTakuya/apery/blob/master/src/bitboard.hpp)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [apery_rust/bitboard.rs at master · HiraokaTakuya/apery_rust · GitHub](https://github.com/HiraokaTakuya/apery_rust/blob/master/src/bitboard.rs#L6)
 
 **[Up one Level](Engines "Engines")**
 

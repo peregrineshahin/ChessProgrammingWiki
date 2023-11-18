@@ -54,14 +54,14 @@ We arrived in Moscow on December 7th and spent several days in technical talks a
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Погиб Александр Рафаилович Битман | Об игре го](http://aboutgo.ru/pogib-aleksandr-rafailovich-bitman/), September 11, 2013 (obituary by Mikhail Krylov)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alexander R. Bitman's Chess Games from 365chess.com](http://www.365chess.com/players/Alexander_R_Bitman)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sensei's Library: Alexander Bitman](http://senseis.xmp.net/?AlexanderBitman)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [History of Kaissa](Kaissa#HistoryofKaissa "Kaissa")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Alexander Bitman](http://www.hiarcs.net/forums/viewtopic.php?t=6245) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), September 22, 2013
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Image captured from the [Video В шахматы "играет" ЭВМ. Телевизионные новости. Эфир 24.11.1967](ITEP_Chess_Program#Video "ITEP Chess Program"), ca. 0:58
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Tony Marsland](Tony_Marsland "Tony Marsland"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1981**). *A brighter future for Soviet computer chess?* [ICCA Newsletter, Vol. 4, No. 1](ICGA_Journal#4_1 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Marsland-Newborn-1981.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Погиб Александр Рафаилович Битман | Об игре го](http://aboutgo.ru/pogib-aleksandr-rafailovich-bitman/), September 11, 2013 (obituary by Mikhail Krylov)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alexander R. Bitman's Chess Games from 365chess.com](http://www.365chess.com/players/Alexander_R_Bitman)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sensei's Library: Alexander Bitman](http://senseis.xmp.net/?AlexanderBitman)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [History of Kaissa](Kaissa#HistoryofKaissa "Kaissa")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Alexander Bitman](http://www.hiarcs.net/forums/viewtopic.php?t=6245) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), September 22, 2013
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> Image captured from the [Video В шахматы "играет" ЭВМ. Телевизионные новости. Эфир 24.11.1967](ITEP_Chess_Program#Video "ITEP Chess Program"), ca. 0:58
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1981**). *A brighter future for Soviet computer chess?* [ICCA Newsletter, Vol. 4, No. 1](ICGA_Journal#4_1 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Marsland-Newborn-1981.pdf)
 
 **[Up one level](People "People")**
 

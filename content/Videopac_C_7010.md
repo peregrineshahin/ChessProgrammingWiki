@@ -40,11 +40,11 @@ a chess [module](Module "Module") for the [Philips](https://en.wikipedia.org/wik
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Magnavox Odyssey²](https://en.wikipedia.org/wiki/Magnavox_Odyssey%C2%B2)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [National Semiconductor NSC800](http://www.cpu-world.com/CPUs/NSC800/index.html) from [CPU-World: Microprocessor news, benchmarks, information and pictures](http://www.cpu-world.com/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NSC800 MICROPROCESSOR Instruction Set Summary](http://www.textfiles.com/programming/CARDS/nsc800)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Schaakcomputers van Luuk Hofman](http://www.schaakcomputers.nl/schaakcomputers/uitgebreide%20lijst%20alle%20schaakcomputers.pdf) (pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Schach dem G7000!](http://www.homecon.net/index.php/artikel/40-ts/206-schach-dem-g7000.html) by Hessi (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Magnavox Odyssey²](https://en.wikipedia.org/wiki/Magnavox_Odyssey%C2%B2)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [National Semiconductor NSC800](http://www.cpu-world.com/CPUs/NSC800/index.html) from [CPU-World: Microprocessor news, benchmarks, information and pictures](http://www.cpu-world.com/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NSC800 MICROPROCESSOR Instruction Set Summary](http://www.textfiles.com/programming/CARDS/nsc800)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Schaakcomputers van Luuk Hofman](http://www.schaakcomputers.nl/schaakcomputers/uitgebreide%20lijst%20alle%20schaakcomputers.pdf) (pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Schach dem G7000!](http://www.homecon.net/index.php/artikel/40-ts/206-schach-dem-g7000.html) by Hessi (German)
 
 **[Up one level](Engines "Engines")**
 

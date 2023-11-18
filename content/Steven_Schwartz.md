@@ -26,10 +26,10 @@ with focus on [dedicated chess computers](Dedicated_Chess_Computers "Dedicated C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Your Move Chess & Games: Some of Our Chess Staff](https://www.chessusa.com/chess-staff.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Institutional Computer Development Corp in Massapequa NY - Company Profile](https://www.corporationwiki.com/New-York/Massapequa/institutional-computer-development-corp/49139294.aspx), [corporationwiki.com](https://www.corporationwiki.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer-Chess Club](https://groups.google.com/g/rec.games.chess.computer/c/Bd6-AZkuWU0) by Steven Schwartz, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 17, 1997
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Moderator Nominees, The Vote, My Personal Thoughts...](https://www.stmintz.com/ccc/index.php?id=18712) by Steven Schwartz, [CCC](CCC "CCC"), May 15, 1998
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Your Move Chess & Games: Some of Our Chess Staff](https://www.chessusa.com/chess-staff.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Institutional Computer Development Corp in Massapequa NY - Company Profile](https://www.corporationwiki.com/New-York/Massapequa/institutional-computer-development-corp/49139294.aspx), [corporationwiki.com](https://www.corporationwiki.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer-Chess Club](https://groups.google.com/g/rec.games.chess.computer/c/Bd6-AZkuWU0) by Steven Schwartz, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 17, 1997
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Moderator Nominees, The Vote, My Personal Thoughts...](https://www.stmintz.com/ccc/index.php?id=18712) by Steven Schwartz, [CCC](CCC "CCC"), May 15, 1998
 
 **[Up one level](People "People")**
 

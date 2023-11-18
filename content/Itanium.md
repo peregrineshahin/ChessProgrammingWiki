@@ -60,15 +60,15 @@ a family of 64-bit microprocessors by [Intel](Intel "Intel") that implement the 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Intel's Next Generation Itanium 'Kittson' IA64 Processor Detailed - 32nm Process, 9300/9500 Socket Compatible](http://wccftech.com/intel-itanium-kittson-ia64-processors-32nm/) by [Usman Pirzada](http://wccftech.com/author/usmanpirzada/), April 2015
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Intel names Merced chip Itanium - CNET News](https://archive.is/IUNih) by [Michael Kanellos](https://www.linkedin.com/pub/michael-kanellos/0/803/20b), [CNET News](https://en.wikipedia.org/wiki/CNET), October 4, 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Itanium from Wikipedia](https://en.wikipedia.org/wiki/Itanium)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Diagram of the architecture of the Itanium (IA-64) 64-bit Intel microprocessor, Image by [Fred the Oyster](https://commons.wikimedia.org/wiki/User:Fred_the_Oyster), September 08, 2014, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [IA-64 from Wikipedia](https://en.wikipedia.org/wiki/IA-64), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Deep-Fritz 18 on a 64 cpu itanium (intel not AMD) system](https://www.stmintz.com/ccc/index.php?id=277735) by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [CCC](CCC "CCC"), January 16, 2003
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Question: Itanium Info](https://www.stmintz.com/ccc/index.php?id=334348) by K. Burcham, [CCC](CCC "CCC"), December 08, 2003
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Itanium2 Testing Crafty & Tinker Informal Results](https://www.stmintz.com/ccc/index.php?id=284689) by [Brian Richardson](Brian_Richardson "Brian Richardson"), [CCC](CCC "CCC"), February 16, 2003
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Question: Itanium Info](https://www.stmintz.com/ccc/index.php?id=334474) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), December 09, 2003
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: Will the Itanium have a BSF or BSR instruction?](https://www.stmintz.com/ccc/index.php?id=124712) by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [CCC](CCC "CCC"), August 16, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Intel's Next Generation Itanium 'Kittson' IA64 Processor Detailed - 32nm Process, 9300/9500 Socket Compatible](http://wccftech.com/intel-itanium-kittson-ia64-processors-32nm/) by [Usman Pirzada](http://wccftech.com/author/usmanpirzada/), April 2015
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Intel names Merced chip Itanium - CNET News](https://archive.is/IUNih) by [Michael Kanellos](https://www.linkedin.com/pub/michael-kanellos/0/803/20b), [CNET News](https://en.wikipedia.org/wiki/CNET), October 4, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Itanium from Wikipedia](https://en.wikipedia.org/wiki/Itanium)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Diagram of the architecture of the Itanium (IA-64) 64-bit Intel microprocessor, Image by [Fred the Oyster](https://commons.wikimedia.org/wiki/User:Fred_the_Oyster), September 08, 2014, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [IA-64 from Wikipedia](https://en.wikipedia.org/wiki/IA-64), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Deep-Fritz 18 on a 64 cpu itanium (intel not AMD) system](https://www.stmintz.com/ccc/index.php?id=277735) by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [CCC](CCC "CCC"), January 16, 2003
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Question: Itanium Info](https://www.stmintz.com/ccc/index.php?id=334348) by K. Burcham, [CCC](CCC "CCC"), December 08, 2003
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Itanium2 Testing Crafty & Tinker Informal Results](https://www.stmintz.com/ccc/index.php?id=284689) by [Brian Richardson](Brian_Richardson "Brian Richardson"), [CCC](CCC "CCC"), February 16, 2003
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Question: Itanium Info](https://www.stmintz.com/ccc/index.php?id=334474) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), December 09, 2003
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: Will the Itanium have a BSF or BSR instruction?](https://www.stmintz.com/ccc/index.php?id=124712) by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [CCC](CCC "CCC"), August 16, 2000
 
 **[Up one Level](Hardware "Hardware")**
 

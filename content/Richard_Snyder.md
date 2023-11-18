@@ -32,9 +32,9 @@ an American computer scientist and AI researcher at times affiliated with the [U
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [the Morph project](http://satirist.org/learn-game/projects/morph.html) by [Jay Scott](Jay_Scott "Jay Scott")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Richard Snyder](http://dblp.uni-trier.de/pers/hd/s/Snyder:Richard)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [the Morph project](http://satirist.org/learn-game/projects/morph.html) by [Jay Scott](Jay_Scott "Jay Scott")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Richard Snyder](http://dblp.uni-trier.de/pers/hd/s/Snyder:Richard)
 
 **[Up one level](People "People")**
 

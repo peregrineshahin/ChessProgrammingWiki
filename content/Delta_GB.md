@@ -36,10 +36,10 @@ Wilson later joint forces with [Mike Johnson](Mike_Johnson "Mike Johnson"), and 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nile Delta from Wikipedia](https://en.wikipedia.org/wiki/Nile_Delta)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nile River Delta at Night : Image of the Day](http://earthobservatory.nasa.gov/IOTD/view.php?id=46820&src=eoa-iotd) from [NASA Earth Observatory](https://en.wikipedia.org/wiki/NASA_Earth_Observatory)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1979**). *Second Annual European Microcomputer Chess Championship - Results and Authors*. [ICCA Newsletter, Vol. 2, No. 2](ICGA_Journal#2_2 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Advance Warning*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nile Delta from Wikipedia](https://en.wikipedia.org/wiki/Nile_Delta)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nile River Delta at Night : Image of the Day](http://earthobservatory.nasa.gov/IOTD/view.php?id=46820&src=eoa-iotd) from [NASA Earth Observatory](https://en.wikipedia.org/wiki/NASA_Earth_Observatory)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1979**). *Second Annual European Microcomputer Chess Championship - Results and Authors*. [ICCA Newsletter, Vol. 2, No. 2](ICGA_Journal#2_2 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Advance Warning*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
 
 **[Up one level](Engines "Engines")**
 

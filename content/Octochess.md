@@ -69,10 +69,10 @@ Octochess is [cross-platform](https://en.wikipedia.org/wiki/Cross-platform) with
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Octopus vulgaris, [Common octopus from Wikipedia](https://en.wikipedia.org/wiki/Common_octopus), Author: [Comingio Merculiano](https://commons.wikimedia.org/wiki/Category:Comingio_Merculiano), in [Giuseppe Jatta](https://it.wikipedia.org/wiki/Giuseppe_Jatta) (**1896**). *[I Cefalopodi viventi nel Golfo di Napoli (sistematica) : monografia](https://archive.org/details/icefalopodiviven00jatt)*.
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Introducing Octochess](http://www.talkchess.com/forum/viewtopic.php?t=42676) by [Tim Kosse](Tim_Kosse "Tim Kosse"), [CCC](CCC "CCC"), February 28, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Octochess - An open source chess engine](http://octochess.org/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Magic bitboards: Cache issues and state of the art?](http://www.talkchess.com/forum/viewtopic.php?p=512051#512051) by [Tim Kosse](Tim_Kosse "Tim Kosse"), [CCC](CCC "CCC"), March 24, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Octopus vulgaris, [Common octopus from Wikipedia](https://en.wikipedia.org/wiki/Common_octopus), Author: [Comingio Merculiano](https://commons.wikimedia.org/wiki/Category:Comingio_Merculiano), in [Giuseppe Jatta](https://it.wikipedia.org/wiki/Giuseppe_Jatta) (**1896**). *[I Cefalopodi viventi nel Golfo di Napoli (sistematica) : monografia](https://archive.org/details/icefalopodiviven00jatt)*.
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Introducing Octochess](http://www.talkchess.com/forum/viewtopic.php?t=42676) by [Tim Kosse](Tim_Kosse "Tim Kosse"), [CCC](CCC "CCC"), February 28, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Octochess - An open source chess engine](http://octochess.org/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Magic bitboards: Cache issues and state of the art?](http://www.talkchess.com/forum/viewtopic.php?p=512051#512051) by [Tim Kosse](Tim_Kosse "Tim Kosse"), [CCC](CCC "CCC"), March 24, 2013
 
 **[Up one level](Engines "Engines")**
 

@@ -47,15 +47,15 @@ an [open source](Category:Open_Source "Category:Open Source") [program for solvi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Popeye](https://en.wikipedia.org/wiki/Popeye) comic log by [Bud Sagendorf](https://en.wikipedia.org/wiki/Bud_Sagendorf), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [heterodox problem | chess composition | Encyclopedia Britannica](http://www.britannica.com/EBchecked/topic/264261/heterodox-problem)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Popeye - from Software for handling chess problems, Wikipedia](https://en.wikipedia.org/wiki/Software_for_handling_chess_problems#Popeye)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Marián Križovenský](https://soks.sk/author/superadminsoks/) (**2013**). *[5+1 Popeye shells](http://www.jurajlorinc.com/chess/5_1_Popeye_shells.pdf)*. (pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [APwin v2012 + Popeye](http://alybadix.bl.ee/apwin.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Software - WFCC](http://www.wfcc.ch/software/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Ankona | chess problems: create, store, share, solve](http://www.ankona.ch/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [fhubs jimdo page!](http://fhub.jimdo.com/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Update: Euclide 0.94 released](http://www.talkchess.com/forum/viewtopic.php?t=29702) by [Michael Diosi](index.php?title=Michael_Diosi&action=edit&redlink=1 "Michael Diosi (page does not exist)"), [CCC](CCC "CCC"), September 09, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Popeye](https://en.wikipedia.org/wiki/Popeye) comic log by [Bud Sagendorf](https://en.wikipedia.org/wiki/Bud_Sagendorf), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [heterodox problem | chess composition | Encyclopedia Britannica](http://www.britannica.com/EBchecked/topic/264261/heterodox-problem)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Popeye - from Software for handling chess problems, Wikipedia](https://en.wikipedia.org/wiki/Software_for_handling_chess_problems#Popeye)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Marián Križovenský](https://soks.sk/author/superadminsoks/) (**2013**). *[5+1 Popeye shells](http://www.jurajlorinc.com/chess/5_1_Popeye_shells.pdf)*. (pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [APwin v2012 + Popeye](http://alybadix.bl.ee/apwin.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Software - WFCC](http://www.wfcc.ch/software/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Ankona | chess problems: create, store, share, solve](http://www.ankona.ch/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [fhubs jimdo page!](http://fhub.jimdo.com/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Update: Euclide 0.94 released](http://www.talkchess.com/forum/viewtopic.php?t=29702) by [Michael Diosi](index.php?title=Michael_Diosi&action=edit&redlink=1 "Michael Diosi (page does not exist)"), [CCC](CCC "CCC"), September 09, 2009
 
 **[Up one level](Engines "Engines")**
 

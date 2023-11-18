@@ -51,11 +51,11 @@ Iota performs [alpha-beta](Alpha-Beta "Alpha-Beta"), and considers [material](Ma
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> 'uci'/'uciok', 'isready'/'readyok', 'position' and 'go'/'bestmove'
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New 'Micro' Chess Engine - Iota 0.1](http://www.talkchess.com/forum/viewtopic.php?t=44325) by [Daniel White](Daniel_White "Daniel White"), [CCC](CCC "CCC"), July 07, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - DanielWhite94/iota: iota aims to be a tiny C chess engine, supporting the full rules of chess, as well as a standard protocol](https://github.com/DanielWhite94/iota)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [iota/iota.c at master · DanielWhite94/iota · GitHub](https://github.com/DanielWhite94/iota/blob/master/iota.c)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Iota from Wikipedia](https://en.wikipedia.org/wiki/Iota)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> 'uci'/'uciok', 'isready'/'readyok', 'position' and 'go'/'bestmove'
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New 'Micro' Chess Engine - Iota 0.1](http://www.talkchess.com/forum/viewtopic.php?t=44325) by [Daniel White](Daniel_White "Daniel White"), [CCC](CCC "CCC"), July 07, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - DanielWhite94/iota: iota aims to be a tiny C chess engine, supporting the full rules of chess, as well as a standard protocol](https://github.com/DanielWhite94/iota)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [iota/iota.c at master · DanielWhite94/iota · GitHub](https://github.com/DanielWhite94/iota/blob/master/iota.c)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Iota from Wikipedia](https://en.wikipedia.org/wiki/Iota)
 
 **[Up one Level](Engines "Engines")**
 

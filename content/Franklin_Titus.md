@@ -47,11 +47,11 @@ He was active poster in [CCC](CCC "CCC") until mid 2010, and since then in [Jere
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer-Chess Wiki Forum - Update Information: October 23, 2010](http://computer-chess.org/forum/index.php?mode=thread&id=1080)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [cygnitec](https://chess.cygnitec.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fixed: Corrupted tablebases archive @ chess.cygnitec.com](http://www.open-chess.org/viewtopic.php?f=3&t=3039) by kingliveson, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), November 19, 2016
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computer Chess Biggest Liar](http://www.open-chess.org/viewtopic.php?f=3&t=1647) by kingliveson, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), October 09, 2011
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [BorisChess - Understanding of Ippolit](http://borischess.wikispaces.com/Understanding+of+Ippolit)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer-Chess Wiki Forum - Update Information: October 23, 2010](http://computer-chess.org/forum/index.php?mode=thread&id=1080)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [cygnitec](https://chess.cygnitec.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fixed: Corrupted tablebases archive @ chess.cygnitec.com](http://www.open-chess.org/viewtopic.php?f=3&t=3039) by kingliveson, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), November 19, 2016
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computer Chess Biggest Liar](http://www.open-chess.org/viewtopic.php?f=3&t=1647) by kingliveson, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), October 09, 2011
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [BorisChess - Understanding of Ippolit](http://borischess.wikispaces.com/Understanding+of+Ippolit)
 
 **[Up one level](People "People")**
 

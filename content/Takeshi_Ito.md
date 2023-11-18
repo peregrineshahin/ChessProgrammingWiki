@@ -58,17 +58,17 @@ a Japanese doctor of engineering and assistant professor at Department of Commun
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CEDEC Challange： Lightning GO 9×9 Board AI Matches | CEDEC 2011 | Computer Entertainment Developers Conference](http://cedec.cesa.or.jp/2011/en/events/challenge/ai.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [First Densei-sen Competition](http://entcog.c.ooco.jp/entcog/densei/eng/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer Shogi Association Web Site](http://www.computer-shogi.org/index_e.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CEDEC Challange： Lightning GO 9×9 Board AI Matches | CEDEC 2011 | Computer Entertainment Developers Conference](http://cedec.cesa.or.jp/2011/en/events/challenge/ai.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Takeshi Ito (**2007**). *[Selfish Search on Playing Shogi](http://link.springer.com/chapter/10.1007%2F978-3-540-74873-1_52)*. [CGW 2007](CGW_2007 "CGW 2007")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [WCSC20 Participant List](https://groups.google.com/d/msg/shogi-l/bazz1reADOY/KB8UvBZQf_cJ) by Nobu, SHOGI-L, Shogi Google Group, February 02, 2010
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Ms Pac-Man Screen Capture Competition: CIG 2011 Results](http://dces.essex.ac.uk/staff/sml/pacman/CIG2011Results.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Nozomu Ikehata](index.php?title=Nozomu_Ikehata&action=edit&redlink=1 "Nozomu Ikehata (page does not exist)"), Takeshi Ito (**2011**). *Monte-Carlo Tree Search In Ms. Pac-Man*. Proceedings of IEEE Conference on Computational Intelligence and Games 2011, Seoul, Korea
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Forum of Computer Games 2010](http://www.iis.sinica.edu.tw/cgforum2010/eng_index.html)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [dblp: Takeshi Ito](http://www.informatik.uni-trier.de/~ley/pers/hd/i/Ito:Takeshi.html)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CEDEC Challange： Lightning GO 9×9 Board AI Matches | CEDEC 2011 | Computer Entertainment Developers Conference](http://cedec.cesa.or.jp/2011/en/events/challenge/ai.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [First Densei-sen Competition](http://entcog.c.ooco.jp/entcog/densei/eng/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer Shogi Association Web Site](http://www.computer-shogi.org/index_e.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CEDEC Challange： Lightning GO 9×9 Board AI Matches | CEDEC 2011 | Computer Entertainment Developers Conference](http://cedec.cesa.or.jp/2011/en/events/challenge/ai.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Takeshi Ito (**2007**). *[Selfish Search on Playing Shogi](http://link.springer.com/chapter/10.1007%2F978-3-540-74873-1_52)*. [CGW 2007](CGW_2007 "CGW 2007")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [WCSC20 Participant List](https://groups.google.com/d/msg/shogi-l/bazz1reADOY/KB8UvBZQf_cJ) by Nobu, SHOGI-L, Shogi Google Group, February 02, 2010
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Ms Pac-Man Screen Capture Competition: CIG 2011 Results](http://dces.essex.ac.uk/staff/sml/pacman/CIG2011Results.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Nozomu Ikehata](index.php?title=Nozomu_Ikehata&action=edit&redlink=1 "Nozomu Ikehata (page does not exist)"), Takeshi Ito (**2011**). *Monte-Carlo Tree Search In Ms. Pac-Man*. Proceedings of IEEE Conference on Computational Intelligence and Games 2011, Seoul, Korea
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Forum of Computer Games 2010](http://www.iis.sinica.edu.tw/cgforum2010/eng_index.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Takeshi Ito](http://www.informatik.uni-trier.de/~ley/pers/hd/i/Ito:Takeshi.html)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
 
 **[Up one level](People "People")**
 

@@ -79,9 +79,9 @@ More recently James works on a project to explore [Java](Java "Java") and [Amazo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [jswaff (James Swafford) · GitHub](https://github.com/jswaff)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Board Representation. Any strong chess engine uses this method?](https://www.stmintz.com/ccc/index.php?id=491728) by James Swafford, [CCC](CCC "CCC"), March 06, 2006
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mr.James Swafford and Chess4J project](http://www.talkchess.com/forum/viewtopic.php?t=45090) by Ruxy Sylwyka, [CCC](CCC "CCC"), September 11, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [jswaff (James Swafford) · GitHub](https://github.com/jswaff)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Board Representation. Any strong chess engine uses this method?](https://www.stmintz.com/ccc/index.php?id=491728) by James Swafford, [CCC](CCC "CCC"), March 06, 2006
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mr.James Swafford and Chess4J project](http://www.talkchess.com/forum/viewtopic.php?t=45090) by Ruxy Sylwyka, [CCC](CCC "CCC"), September 11, 2012
 
 **[Up one level](People "People")**
 

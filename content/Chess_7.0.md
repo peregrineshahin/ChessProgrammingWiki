@@ -35,10 +35,10 @@ a chess program in [6502](6502 "6502") [Assembly](Assembly "Assembly") by [Larry
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Atari 400 800 XL XE Chess 7.0 : scans, dump, download, screenshots, ads, videos, catalog, instructions, roms](http://www.atarimania.com/game-atari-400-800-xl-xe-chess-70_1022.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [How About A Nice Game of Chess for Apple II - The Video Games Museum](http://www.video-games-museum.com/en/game/Hows-About-A-Nice-Game-of-Chess/37/3/12646)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: chess 7.0](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=225677&t=24419) by [Carey](Carey_Bloodworth "Carey Bloodworth"), [CCC](CCC "CCC"), October 16, 2008
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Larry Atkin | LinkedIn](http://www.linkedin.com/in/larryatkin)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Atari 400 800 XL XE Chess 7.0 : scans, dump, download, screenshots, ads, videos, catalog, instructions, roms](http://www.atarimania.com/game-atari-400-800-xl-xe-chess-70_1022.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [How About A Nice Game of Chess for Apple II - The Video Games Museum](http://www.video-games-museum.com/en/game/Hows-About-A-Nice-Game-of-Chess/37/3/12646)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: chess 7.0](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=225677&t=24419) by [Carey](Carey_Bloodworth "Carey Bloodworth"), [CCC](CCC "CCC"), October 16, 2008
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Larry Atkin | LinkedIn](http://www.linkedin.com/in/larryatkin)
 
 **[Up one Level](Engines "Engines")**
 

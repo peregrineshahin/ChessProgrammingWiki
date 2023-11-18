@@ -41,9 +41,9 @@ The single-chip **nCUBE-2** processor launched in June 1989 used [wormhole routi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Die](https://en.wikipedia.org/wiki/Die_(integrated_circuit)) of nCUBE-10 processor, [Image](https://commons.wikimedia.org/wiki/File:NCUBE_nCUBE-10_die.jpg) by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), November 25, 2013, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ed Felten](Ed_Felten "Ed Felten"), [Steve Otto](Steve_Otto "Steve Otto") (**1988**). *[Chess on a Hypercube](https://authors.library.caltech.edu/71250/)*. The Third Conference on Hypercube Concurrent Computers and Applications, Vol. II-Applications
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [nCUBE by Wikipedia](https://en.wikipedia.org/wiki/NCUBE)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Die](https://en.wikipedia.org/wiki/Die_(integrated_circuit)) of nCUBE-10 processor, [Image](https://commons.wikimedia.org/wiki/File:NCUBE_nCUBE-10_die.jpg) by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), November 25, 2013, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ed Felten](Ed_Felten "Ed Felten"), [Steve Otto](Steve_Otto "Steve Otto") (**1988**). *[Chess on a Hypercube](https://authors.library.caltech.edu/71250/)*. The Third Conference on Hypercube Concurrent Computers and Applications, Vol. II-Applications
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [nCUBE by Wikipedia](https://en.wikipedia.org/wiki/NCUBE)
 
 **[Up one Level](Hardware "Hardware")**
 

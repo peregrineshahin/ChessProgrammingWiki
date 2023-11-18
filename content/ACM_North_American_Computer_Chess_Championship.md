@@ -112,9 +112,9 @@ The [Association for Computing Machinery](ACM "ACM") (ACM) hosted the first majo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Association for Computing Machinery from Wikipedia](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Association for Computing Machinery](https://www.acm.org/%7C)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Wita-Awit - readme.txt](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/Awit-Wita-ReadMe/wita-history-readme.txt) by [Tony Marsland](Tony_Marsland "Tony Marsland")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Association for Computing Machinery from Wikipedia](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Association for Computing Machinery](https://www.acm.org/%7C)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Wita-Awit - readme.txt](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/Awit-Wita-ReadMe/wita-history-readme.txt) by [Tony Marsland](Tony_Marsland "Tony Marsland")
 
 **[Up one level](Tournaments_and_Matches "Tournaments and Matches")**
 

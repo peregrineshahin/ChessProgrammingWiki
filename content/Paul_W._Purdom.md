@@ -67,11 +67,11 @@ and [computational biology](https://en.wikipedia.org/wiki/Computational_biology)
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Home Page of Paul W. Purdom, Jr.](https://legacy.cs.indiana.edu/~pwp/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Paul Purdom: Cognitive Science Program: Indiana University Bloomington](https://citations.cogs.indiana.edu/profile.php?faculty=pwp)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Paul Walton Purdom Jr.](https://dblp.org/pid/74/5420.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Buddy memory allocation from Wikipedia](https://en.wikipedia.org/wiki/Buddy_memory_allocation)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Unification from Wikipedia](https://en.wikipedia.org/wiki/Unification_(computer_science))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Home Page of Paul W. Purdom, Jr.](https://legacy.cs.indiana.edu/~pwp/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Paul Purdom: Cognitive Science Program: Indiana University Bloomington](https://citations.cogs.indiana.edu/profile.php?faculty=pwp)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Paul Walton Purdom Jr.](https://dblp.org/pid/74/5420.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Buddy memory allocation from Wikipedia](https://en.wikipedia.org/wiki/Buddy_memory_allocation)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Unification from Wikipedia](https://en.wikipedia.org/wiki/Unification_(computer_science))
 
 **[Up one level](People "People")**
 

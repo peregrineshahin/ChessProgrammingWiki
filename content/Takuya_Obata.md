@@ -34,12 +34,12 @@ a Japanese computer scientist, M.Sc in 2011 from the Department of Computer Scie
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image clipped from [Takeshi Ito](Takeshi_Ito "Takeshi Ito") (**2011**). *Clair 1/128 wins 5x5 Shogi Tournament*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal"), pp. 41
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WCSC20 Participant List](https://groups.google.com/d/msg/shogi-l/bazz1reADOY/KB8UvBZQf_cJ) by Nobu, SHOGI-L, Shogi Google Group, February 02, 2010
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki") (**2011**). *Analysis of Evaluation-Function Learning by Comparison of Sibling Nodes*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko") (**2011**). *The Global Landscape of Objective Functions for the Optimization of Shogi Piece Values with a Game-Tree Search*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Clair 1/128's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=616)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Takuya Obata](http://www.informatik.uni-trier.de/~ley/pers/hd/o/Obata:Takuya.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image clipped from [Takeshi Ito](Takeshi_Ito "Takeshi Ito") (**2011**). *Clair 1/128 wins 5x5 Shogi Tournament*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal"), pp. 41
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WCSC20 Participant List](https://groups.google.com/d/msg/shogi-l/bazz1reADOY/KB8UvBZQf_cJ) by Nobu, SHOGI-L, Shogi Google Group, February 02, 2010
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki") (**2011**). *Analysis of Evaluation-Function Learning by Comparison of Sibling Nodes*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko") (**2011**). *The Global Landscape of Objective Functions for the Optimization of Shogi Piece Values with a Game-Tree Search*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Clair 1/128's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=616)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Takuya Obata](http://www.informatik.uni-trier.de/~ley/pers/hd/o/Obata:Takuya.html)
 
 **[Up one level](People "People")**
 

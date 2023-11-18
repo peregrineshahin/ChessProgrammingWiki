@@ -25,10 +25,10 @@ In 2001, Andrei developed the [CCC](CCC "CCC") Web search engine of the pre 2006
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Planet Source Code™ | Freyr - A Chess Playing Program](http://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=3333&lngWId=3), image archived
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About Andrei Fortuna](https://web.archive.org/web/20020224143312/http://planet-source-code.com/vb/authors/ShowAuthorBio.asp?lngAuthorId=285062&lngWId=3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: The very first Romanian chess engine - Chess 176/1](http://talkchess.com/forum/viewtopic.php?topic_view=threads&p=411300&t=39467) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), June 24, 2011
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Thanks a million to Andrei Fortuna!!!](https://www.stmintz.com/ccc/index.php?id=197749) by [Steven Schwartz](Steven_Schwartz "Steven Schwartz"), [CCC](CCC "CCC"), November 15, 2001
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Planet Source Code™ | Freyr - A Chess Playing Program](http://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=3333&lngWId=3), image archived
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About Andrei Fortuna](https://web.archive.org/web/20020224143312/http://planet-source-code.com/vb/authors/ShowAuthorBio.asp?lngAuthorId=285062&lngWId=3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: The very first Romanian chess engine - Chess 176/1](http://talkchess.com/forum/viewtopic.php?topic_view=threads&p=411300&t=39467) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), June 24, 2011
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Thanks a million to Andrei Fortuna!!!](https://www.stmintz.com/ccc/index.php?id=197749) by [Steven Schwartz](Steven_Schwartz "Steven Schwartz"), [CCC](CCC "CCC"), November 15, 2001
 
 **[Up one level](People "People")**
 

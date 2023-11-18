@@ -39,9 +39,9 @@ a French computer scientist, self-employed software engineer <a id="cite-note-2"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Vincent Ollivier | LinkedIn](https://www.linkedin.com/in/ollivier/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Vincent Ollivier | LinkedIn](https://www.linkedin.com/in/ollivier/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [vinc (Vincent Ollivier) · GitHub](https://github.com/vinc)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Vincent Ollivier | LinkedIn](https://www.linkedin.com/in/ollivier/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Vincent Ollivier | LinkedIn](https://www.linkedin.com/in/ollivier/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [vinc (Vincent Ollivier) · GitHub](https://github.com/vinc)
 
 **[Up one Level](People "People")**
 

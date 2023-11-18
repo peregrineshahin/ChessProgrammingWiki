@@ -55,8 +55,8 @@ title: Go Programming Language
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Effective Go - The Go Programming Language - Concurrency](https://golang.org/doc/effective_go.html#concurrency)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Go (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Go_%28programming_language%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Effective Go - The Go Programming Language - Concurrency](https://golang.org/doc/effective_go.html#concurrency)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Go (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Go_%28programming_language%29)
 
 **[Up one Level](Languages "Languages")**
 

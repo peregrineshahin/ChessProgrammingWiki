@@ -55,9 +55,9 @@ Combining his professional and avocational interests, he is working on his own c
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Erin Dame | LinkedIn](https://www.linkedin.com/in/erindame/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Erin Dame | Facebook](https://www.facebook.com/erin.dame)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [perpetual check position](http://www.talkchess.com/forum/viewtopic.php?t=61140) by Erin Dame, [CCC](CCC "CCC"), August 16, 2016 » [Perpetual Check](Check#Perpetual "Check")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Erin Dame | LinkedIn](https://www.linkedin.com/in/erindame/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Erin Dame | Facebook](https://www.facebook.com/erin.dame)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [perpetual check position](http://www.talkchess.com/forum/viewtopic.php?t=61140) by Erin Dame, [CCC](CCC "CCC"), August 16, 2016 » [Perpetual Check](Check#Perpetual "Check")
 
 **[Up one level](People "People")**
 

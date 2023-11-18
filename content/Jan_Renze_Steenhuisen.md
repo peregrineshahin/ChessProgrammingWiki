@@ -53,11 +53,11 @@ His 2005 Master's thesis was about [Parallel Search](Parallel_Search "Parallel S
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Renze Steenhuisen | LinkedIn](https://www.linkedin.com/in/renze-steenhuisen-448b42b/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jan Renze Steenhuisen (**2005**). *Transposition-Driven Scheduling in Parallel Two-Player State-Space Search*. Master's Thesis, [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.96.174)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [John Romein](John_Romein "John Romein"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1999**). *Transposition Table Driven Work Scheduling in Distributed Search*. [AAAI-99](Conferences#AAAI-99 "Conferences"), [pdf](https://www.aaai.org/Papers/AAAI/1999/AAAI99-103.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2002**). *A Performance Analysis of Transposition-Table-Driven Scheduling in Distributed Search*. [IEEE Transactions on Parallel and Distributed Systems](IEEE#TPDS "IEEE"), Vol. 13, No. 5, [pdf](http://www.cs.vu.nl/~bal/Papers/tds.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: J. Renze Steenhuisen](https://dblp.uni-trier.de/pers/hd/s/Steenhuisen:J=_Renze)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Renze Steenhuisen | LinkedIn](https://www.linkedin.com/in/renze-steenhuisen-448b42b/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jan Renze Steenhuisen (**2005**). *Transposition-Driven Scheduling in Parallel Two-Player State-Space Search*. Master's Thesis, [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.96.174)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [John Romein](John_Romein "John Romein"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1999**). *Transposition Table Driven Work Scheduling in Distributed Search*. [AAAI-99](Conferences#AAAI-99 "Conferences"), [pdf](https://www.aaai.org/Papers/AAAI/1999/AAAI99-103.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2002**). *A Performance Analysis of Transposition-Table-Driven Scheduling in Distributed Search*. [IEEE Transactions on Parallel and Distributed Systems](IEEE#TPDS "IEEE"), Vol. 13, No. 5, [pdf](http://www.cs.vu.nl/~bal/Papers/tds.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: J. Renze Steenhuisen](https://dblp.uni-trier.de/pers/hd/s/Steenhuisen:J=_Renze)
 
 **[Up one level](People "People")**
 

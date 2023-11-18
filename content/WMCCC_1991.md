@@ -152,13 +152,13 @@ Fifteen programs from seven countries contested for the main title, and the subs
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [University of British Columbia from Wikipedia](https://en.wikipedia.org/wiki/University_of_British_Columbia)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Levy](David_Levy "David Levy") (**1990**). *The 1991 World Microcomputer Chess Championship*. Entry Form. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [WMCC 1991](http://www.csvn.nl/index.php?option=com_content&view=article&id=75%3Awmcc-1991&catid=19%3Acomputer-computer&Itemid=48&lang=en), [CSVN](CSVN "CSVN") tournament site
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [11th World Microcomputer Chess Championship - Vancouver 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=59)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the 11th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Photo by [Gaby von Rekowski](Gaby_von_Rekowski "Gaby von Rekowski") / [Reinhold Gellner](Reinhold_Gellner "Reinhold Gellner"), [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal"), pp. 91
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Vancouver 1991 - Chess - Round 2 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=59&round=2&id=1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [University of British Columbia from Wikipedia](https://en.wikipedia.org/wiki/University_of_British_Columbia)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Levy](David_Levy "David Levy") (**1990**). *The 1991 World Microcomputer Chess Championship*. Entry Form. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [WMCC 1991](http://www.csvn.nl/index.php?option=com_content&view=article&id=75%3Awmcc-1991&catid=19%3Acomputer-computer&Itemid=48&lang=en), [CSVN](CSVN "CSVN") tournament site
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [11th World Microcomputer Chess Championship - Vancouver 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=59)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the 11th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photo by [Gaby von Rekowski](Gaby_von_Rekowski "Gaby von Rekowski") / [Reinhold Gellner](Reinhold_Gellner "Reinhold Gellner"), [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal"), pp. 91
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Vancouver 1991 - Chess - Round 2 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=59&round=2&id=1)
 
 **[Up one level](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship")**
 

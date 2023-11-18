@@ -22,8 +22,8 @@ He is author of the chess program [Viktor 2](index.php?title=Viktor_2&action=edi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wolfgang Rausch](http://www.schachcomputer.at/rausch.htm) from [Kurt´s Schachcomputer Homepage](http://www.schachcomputer.at/index.htm) by [Kurt Kispert](Kurt_Kispert "Kurt Kispert") (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Viktor's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=214)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wolfgang Rausch](http://www.schachcomputer.at/rausch.htm) from [Kurt´s Schachcomputer Homepage](http://www.schachcomputer.at/index.htm) by [Kurt Kispert](Kurt_Kispert "Kurt Kispert") (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Viktor's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=214)
 
 **[Up one level](People "People")**
 

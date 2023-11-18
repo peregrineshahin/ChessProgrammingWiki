@@ -44,9 +44,9 @@ Nb5 62.Rf6 Nxd4 63.a7 Rxa7 64.Bxd4 Ra4 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: FIDE computer registration](https://groups.google.com/d/msg/rec.games.chess.computer/f75dVhbYVz0/K7VWCMJDicgJ) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 07, 1995
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The 24th ACM International Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6cceea/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> "Evaluator recovered from an apparent typo in its [opening book](Opening_Book "Opening Book") (f3 in a double-KP opening!?) to upset [WChess](WChess "WChess")", [ACM Tournament - Final results](https://groups.google.com/d/msg/rec.games.chess/P9WW8L3gq9U/LyDKCyxKPnoJ) by [Hal Bogner](index.php?title=Harold_Bogner&action=edit&redlink=1 "Harold Bogner (page does not exist)"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), June 28, 1994
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: FIDE computer registration](https://groups.google.com/d/msg/rec.games.chess.computer/f75dVhbYVz0/K7VWCMJDicgJ) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 07, 1995
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The 24th ACM International Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6cceea/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> "Evaluator recovered from an apparent typo in its [opening book](Opening_Book "Opening Book") (f3 in a double-KP opening!?) to upset [WChess](WChess "WChess")", [ACM Tournament - Final results](https://groups.google.com/d/msg/rec.games.chess/P9WW8L3gq9U/LyDKCyxKPnoJ) by [Hal Bogner](index.php?title=Harold_Bogner&action=edit&redlink=1 "Harold Bogner (page does not exist)"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), June 28, 1994
 
 **[Up one Level](Engines "Engines")**
 

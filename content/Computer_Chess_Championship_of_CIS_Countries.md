@@ -15,8 +15,8 @@ The **Computer Chess Championship of CIS Countries** <a id="cite-note-1" href="#
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CIS Countries from Wikipedia](https://en.wikipedia.org/wiki/Commonwealth_of_Independent_States)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Online championships of the CIS via [sdchess.narod.ru](http://sdchess.narod.ru/sdchess_english_version.htm) English version
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CIS Countries from Wikipedia](https://en.wikipedia.org/wiki/Commonwealth_of_Independent_States)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Online championships of the CIS via [sdchess.narod.ru](http://sdchess.narod.ru/sdchess_english_version.htm) English version
    [sdchess.narod.ru Шахматная страничка Сергея и Дмитрия](http://sdchess.narod.ru/) Russian version
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**

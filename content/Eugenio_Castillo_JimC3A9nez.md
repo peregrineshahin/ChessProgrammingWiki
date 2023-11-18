@@ -39,12 +39,12 @@ However, many who knew Eugenio from tournaments and personal communication found
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [List is NOT a Crafty clone, ... etc](https://www.stmintz.com/ccc/index.php?id=383228) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), August 21, 2004
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Open letter by Eugenio Castillo (ELChinito team) ...](https://www.stmintz.com/ccc/index.php?id=384790) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 28, 2004
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Image from no longer available (May 2019) [Massy 2002/05/26 - Tournoi de programmes d'Echec](http://www.ludochess.com/trn_massy2002/tournoi.php3) from [LUDOCHESS - Les jeux d'Echecs 100% pur Java](http://www.ludochess.com/dotcom/accueil.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [List is NOT a Crafty clone, ... etc](https://www.stmintz.com/ccc/index.php?id=383228) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), August 21, 2004
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Open letter by Eugenio Castillo (ELChinito team) ...](https://www.stmintz.com/ccc/index.php?id=384790) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 28, 2004
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Image from no longer available (May 2019) [Massy 2002/05/26 - Tournoi de programmes d'Echec](http://www.ludochess.com/trn_massy2002/tournoi.php3) from [LUDOCHESS - Les jeux d'Echecs 100% pur Java](http://www.ludochess.com/dotcom/accueil.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
 
 **[Up one level](People "People")**
 

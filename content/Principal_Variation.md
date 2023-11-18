@@ -223,16 +223,16 @@ Multiple PVs, that is collecting not only one PV of the best move and testing ot
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Variation (game tree) from Wikipedia](https://en.wikipedia.org/wiki/Variation_%28game_tree%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [triangular pv vs. hash move pv](https://www.stmintz.com/ccc/index.php?id=387179) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), September 11, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Extracting PV from TT](http://www.talkchess.com/forum/viewtopic.php?t=29730) by Colin, [CCC](CCC "CCC"), September 12, 2009
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Collecting the Principal Variation](http://web.archive.org/web/20040427013839/brucemo.com/compchess/programming/pv.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [memcpy - C++ Reference](http://www.cplusplus.com/reference/clibrary/cstring/memcpy/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Full Principal Variation Retrieval](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=369163&t=35982) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 07, 2010
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [working!](http://www.talkchess.com/forum/viewtopic.php?t=36099) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 17, 2010
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Hashing the PV](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=409570&t=39289) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), June 06, 2011
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a>  [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**2014**). *A Solution to Short PVs Caused by Exact Hash Matches*. [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [An alternative means of PV recovery](http://talkchess.com/forum/viewtopic.php?topic_view=threads&t=38776) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), April 17, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Variation (game tree) from Wikipedia](https://en.wikipedia.org/wiki/Variation_%28game_tree%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [triangular pv vs. hash move pv](https://www.stmintz.com/ccc/index.php?id=387179) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), September 11, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Extracting PV from TT](http://www.talkchess.com/forum/viewtopic.php?t=29730) by Colin, [CCC](CCC "CCC"), September 12, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Collecting the Principal Variation](http://web.archive.org/web/20040427013839/brucemo.com/compchess/programming/pv.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [memcpy - C++ Reference](http://www.cplusplus.com/reference/clibrary/cstring/memcpy/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Full Principal Variation Retrieval](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=369163&t=35982) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 07, 2010
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [working!](http://www.talkchess.com/forum/viewtopic.php?t=36099) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 17, 2010
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Hashing the PV](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=409570&t=39289) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), June 06, 2011
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a>  [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**2014**). *A Solution to Short PVs Caused by Exact Hash Matches*. [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [An alternative means of PV recovery](http://talkchess.com/forum/viewtopic.php?topic_view=threads&t=38776) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), April 17, 2011
 
 **[Up one Level](Search "Search")**
 

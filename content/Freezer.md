@@ -50,9 +50,9 @@ lineup: [Joe Zawinul](Category:Joe_Zawinul "Category:Joe Zawinul"), [Wayne Short
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Use of Eiko Bleicher's FREEZER endgame software](http://www.talkchess.com/forum/viewtopic.php?t=41936&start=1) by [Jesús Muñoz](index.php?title=Jes%C3%BAs_Mu%C3%B1oz&action=edit&redlink=1 "Jesús Muñoz (page does not exist)"), [CCC](CCC "CCC"), January 12, 2012
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Freezer](http://www.shredderchess.com/chess-program/freezer.html) from [Shredder Computer Chess Download](Shredder "Shredder")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Freezerchess.com - Endgame Analysis beyond Databases](http://www.freezerchess.com/index.php?topic=screenshots)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Use of Eiko Bleicher's FREEZER endgame software](http://www.talkchess.com/forum/viewtopic.php?t=41936&start=1) by [Jesús Muñoz](index.php?title=Jes%C3%BAs_Mu%C3%B1oz&action=edit&redlink=1 "Jesús Muñoz (page does not exist)"), [CCC](CCC "CCC"), January 12, 2012
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Freezer](http://www.shredderchess.com/chess-program/freezer.html) from [Shredder Computer Chess Download](Shredder "Shredder")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Freezerchess.com - Endgame Analysis beyond Databases](http://www.freezerchess.com/index.php?topic=screenshots)
 
 **[Up one level](Endgame_Tablebases "Endgame Tablebases")**
 

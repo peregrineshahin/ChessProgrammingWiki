@@ -40,8 +40,8 @@ title: Technical University of C581C3B3dC5BA
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> , Image 'Politechnika Łódzka, Wydział Elektrotechniki, Elektrotechniki, Informatyki i Automatyki' by mckdnk, June 19, 2013, [Technical University of Łódź - Wikipedia](https://en.wikipedia.org/wiki/Technical_University_of_%C5%81%C3%B3d%C5%BA)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Maciej Szmit - Welcome to my site](https://sites.google.com/site/maciejszmit/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> , Image 'Politechnika Łódzka, Wydział Elektrotechniki, Elektrotechniki, Informatyki i Automatyki' by mckdnk, June 19, 2013, [Technical University of Łódź - Wikipedia](https://en.wikipedia.org/wiki/Technical_University_of_%C5%81%C3%B3d%C5%BA)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Maciej Szmit - Welcome to my site](https://sites.google.com/site/maciejszmit/)
 
 **[Up one Level](Organizations "Organizations")**
 

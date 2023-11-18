@@ -76,10 +76,10 @@ Clyde Kruskal on [Kruskal's algorithm](https://en.wikipedia.org/wiki/Kruskal%27s
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kruskal](https://commons.wikimedia.org/wiki/File:ClydeKruskal2019.png) on September 30, 2019, by Idespisemayonnaise, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Domineering from Wikipedia](https://en.wikipedia.org/wiki/Domineering)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sahil Bahri](index.php?title=Sahil_Bahri&action=edit&redlink=1 "Sahil Bahri (page does not exist)"), Clyde Kruskal *Standard Domineering*. [pdf](http://www.cs.umd.edu/~kruskal/Standard_V2.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Clyde P. Kruskal](https://dblp.uni-trier.de/pers/hd/k/Kruskal:Clyde_P=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kruskal](https://commons.wikimedia.org/wiki/File:ClydeKruskal2019.png) on September 30, 2019, by Idespisemayonnaise, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Domineering from Wikipedia](https://en.wikipedia.org/wiki/Domineering)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sahil Bahri](index.php?title=Sahil_Bahri&action=edit&redlink=1 "Sahil Bahri (page does not exist)"), Clyde Kruskal *Standard Domineering*. [pdf](http://www.cs.umd.edu/~kruskal/Standard_V2.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Clyde P. Kruskal](https://dblp.uni-trier.de/pers/hd/k/Kruskal:Clyde_P=.html)
 
 **[Up one level](People "People")**
 

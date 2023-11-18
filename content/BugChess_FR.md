@@ -88,12 +88,12 @@ Re7 61.Rxe3 1/2-1/2
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A kite bug ([Nemoptera sinuata](https://en.wikipedia.org/wiki/Nemoptera)), [Zorkun](https://en.wikipedia.org/wiki/Zorkun), [Osmaniye](https://en.wikipedia.org/wiki/Osmaniye) - [Turkey](https://en.wikipedia.org/wiki/Turkey), [Photo](https://commons.wikimedia.org/wiki/File:Kite_bug_-_Nemoptera_sinuata.jpg) by [Zeynel Cebeci](https://commons.wikimedia.org/wiki/User:Zcebeci), June 25, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CSVNP8 supplement site 1999](http://www.csvnsupplementsite.nl/csvnp8.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Programming language](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=34468&p=130292#p130292) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 04, 2001
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> BugChess Screenshot from former Computerschach site by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Help with BugChess2 first 64bit version](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=19486) by [François Karr](Fran%C3%A7ois_Karr "François Karr"), [CCC](CCC "CCC"), February 08, 2008
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [2008 Second Annual ACCA World Computer Chess Championships - Results - PGN download](http://compchess.org/ACCAWCRCC/2008ACCAWCRCC/2008WCRCCResults.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A kite bug ([Nemoptera sinuata](https://en.wikipedia.org/wiki/Nemoptera)), [Zorkun](https://en.wikipedia.org/wiki/Zorkun), [Osmaniye](https://en.wikipedia.org/wiki/Osmaniye) - [Turkey](https://en.wikipedia.org/wiki/Turkey), [Photo](https://commons.wikimedia.org/wiki/File:Kite_bug_-_Nemoptera_sinuata.jpg) by [Zeynel Cebeci](https://commons.wikimedia.org/wiki/User:Zcebeci), June 25, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CSVNP8 supplement site 1999](http://www.csvnsupplementsite.nl/csvnp8.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Programming language](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=34468&p=130292#p130292) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 04, 2001
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> BugChess Screenshot from former Computerschach site by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Help with BugChess2 first 64bit version](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=19486) by [François Karr](Fran%C3%A7ois_Karr "François Karr"), [CCC](CCC "CCC"), February 08, 2008
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [2008 Second Annual ACCA World Computer Chess Championships - Results - PGN download](http://compchess.org/ACCAWCRCC/2008ACCAWCRCC/2008WCRCCResults.html)
 
 **[Up one Level](Engines "Engines")**
 

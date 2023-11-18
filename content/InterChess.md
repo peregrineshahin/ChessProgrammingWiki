@@ -93,16 +93,16 @@ Not related, Interchess is further a name of an e-mail chess client, reported to
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [InterChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=195)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ratih Dewanti](Ratih_Dewanti "Ratih Dewanti") (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Thorsten about Jakarta 2](https://groups.google.com/d/msg/rec.games.chess.computer/oMolBzKM5ug/mY3wik9lBe8J) by [Dirk Frickenschmidt](Dirk_Frickenschmidt "Dirk Frickenschmidt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 10, 1996
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: WMCCC](https://www.stmintz.com/ccc/index.php?id=10200) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), September 25, 1997
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Any information on InterChess?](https://www.stmintz.com/ccc/index.php?id=252369) by Aloisio Ponti Lopes, [CCC](CCC "CCC"), September 16, 2002
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: InterChess?](https://www.stmintz.com/ccc/index.php?id=294503) by [Peter Skinner](Peter_Skinner "Peter Skinner"), [CCC](CCC "CCC"), April 24, 2003
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Interchess(C) On FICS !!](https://www.stmintz.com/ccc/index.php?id=355859) by Mike Taylor, [CCC](CCC "CCC"), March 21, 2004
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [New In Chess](http://www.newinchess.com/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [InterChess - Software Informer. An email chess game](http://interchess.software.informer.com/)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Jakarta 1996 - Chess - Round 10 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=55&round=10&id=3)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [InterChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=195)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ratih Dewanti](Ratih_Dewanti "Ratih Dewanti") (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Thorsten about Jakarta 2](https://groups.google.com/d/msg/rec.games.chess.computer/oMolBzKM5ug/mY3wik9lBe8J) by [Dirk Frickenschmidt](Dirk_Frickenschmidt "Dirk Frickenschmidt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 10, 1996
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: WMCCC](https://www.stmintz.com/ccc/index.php?id=10200) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), September 25, 1997
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Any information on InterChess?](https://www.stmintz.com/ccc/index.php?id=252369) by Aloisio Ponti Lopes, [CCC](CCC "CCC"), September 16, 2002
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: InterChess?](https://www.stmintz.com/ccc/index.php?id=294503) by [Peter Skinner](Peter_Skinner "Peter Skinner"), [CCC](CCC "CCC"), April 24, 2003
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Interchess(C) On FICS !!](https://www.stmintz.com/ccc/index.php?id=355859) by Mike Taylor, [CCC](CCC "CCC"), March 21, 2004
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [New In Chess](http://www.newinchess.com/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [InterChess - Software Informer. An email chess game](http://interchess.software.informer.com/)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Jakarta 1996 - Chess - Round 10 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=55&round=10&id=3)
 
 **[Up one level](Engines "Engines")**
 

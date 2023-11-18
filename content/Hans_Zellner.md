@@ -19,11 +19,11 @@ a German programmer involved in the early development and compression of [endgam
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1986**). *A note on KBBK*. [ICCA Journal, Vol. 9, No. 4](ICGA_Journal#9_4 "ICGA Journal")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Hans Zellner (**1986**). *Compressing Databases Down to Micro Size*. [ICCA Journal, Vol. 9, No. 4](ICGA_Journal#9_4 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computerschach und Datenbanken - historischer Sammelthread](http://www.schachfeld.de/threads/7862-computerschach-und-datenbanken-historischer-sammelthread) by hoppelstoppler, [Schachfeld.de](http://www.schachfeld.de/forum.php), October 18, 2008 (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Solutions to our 2012 Christmas Puzzles – Part 2 by [John Nunn](John_Nunn "John Nunn"), [ChessBase](ChessBase "ChessBase") Christmas Puzzles
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1986**). *A note on KBBK*. [ICCA Journal, Vol. 9, No. 4](ICGA_Journal#9_4 "ICGA Journal")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Hans Zellner (**1986**). *Compressing Databases Down to Micro Size*. [ICCA Journal, Vol. 9, No. 4](ICGA_Journal#9_4 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computerschach und Datenbanken - historischer Sammelthread](http://www.schachfeld.de/threads/7862-computerschach-und-datenbanken-historischer-sammelthread) by hoppelstoppler, [Schachfeld.de](http://www.schachfeld.de/forum.php), October 18, 2008 (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Solutions to our 2012 Christmas Puzzles – Part 2 by [John Nunn](John_Nunn "John Nunn"), [ChessBase](ChessBase "ChessBase") Christmas Puzzles
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

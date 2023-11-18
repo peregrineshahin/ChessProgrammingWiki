@@ -30,7 +30,7 @@ a commercial chess program released in 1984 for the [ZX Spectrum](ZX_Spectrum "Z
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Turbo Chess - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0005457)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Turbo Chess - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0005457)
 
 **[Up one level](Engines "Engines")**
 

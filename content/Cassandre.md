@@ -38,9 +38,9 @@ The structure of the [move generation](Move_Generation "Move Generation") [seria
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Evelyn De Morgan](Category:Evelyn_De_Morgan "Category:Evelyn De Morgan") - [Cassandra](https://en.wikipedia.org/wiki/Cassandra) (1898, London). Cassandra in front of the burning city of [Troy](https://en.wikipedia.org/wiki/Troy) at the peak of her insanity, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cassandre - Chess Engine](http://cassandre.sourceforge.net/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Cassandre - Chess Engine - About](http://cassandre.sourceforge.net/about.html), cassandre-0.24\\src\\BitboardToolkit.cpp - contage de bits par table lookup (D. Corbit)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Evelyn De Morgan](Category:Evelyn_De_Morgan "Category:Evelyn De Morgan") - [Cassandra](https://en.wikipedia.org/wiki/Cassandra) (1898, London). Cassandra in front of the burning city of [Troy](https://en.wikipedia.org/wiki/Troy) at the peak of her insanity, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cassandre - Chess Engine](http://cassandre.sourceforge.net/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Cassandre - Chess Engine - About](http://cassandre.sourceforge.net/about.html), cassandre-0.24\\src\\BitboardToolkit.cpp - contage de bits par table lookup (D. Corbit)
 
 **[Up one level](Engines "Engines")**
 

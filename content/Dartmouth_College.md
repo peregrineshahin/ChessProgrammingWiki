@@ -45,11 +45,11 @@ Joe Bowie's 2008 Residency with the [Barbary Coast Ensemble](http://www.thedartm
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A photo of the Sherman Fairchild Sciences complex at Dartmouth College in Hanover, New Hampshire, taken from the tower of [Baker tower](https://en.wikipedia.org/wiki/Baker-Berry_Library), October 20, 2007, [Dartmouth College from Wikipedia](https://en.wikipedia.org/wiki/Dartmouth_College)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dartmouth Conferences from Wikipedia](https://en.wikipedia.org/wiki/Dartmouth_Conference)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html) by [John McCarthy](John_McCarthy "John McCarthy"), [Marvin Minsky](Marvin_Minsky "Marvin Minsky"), [Nathaniel Rochester](https://en.wikipedia.org/wiki/Nathaniel_Rochester_%28computer_scientist%29), [Claude Shannon](Claude_Shannon "Claude Shannon"), August 31, 1955
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Danny Kopec](Danny_Kopec "Danny Kopec") (**1977**). *Recent developments in computer chess*. Firbush News 7 Edinburgh: Machine Intelligence Research Unit, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") (ed. [Donald Michie](Donald_Michie "Donald Michie")), [pdf](http://www.sci.brooklyn.cuny.edu/~kopec/Publications/Publications/O_45_C.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Dartmouth Computing Timeline - The 1970s - 1973 - Chess Program in Tournament](http://www.dartmouth.edu/comp/about/archive/history/timeline/1970s.html#1973)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A photo of the Sherman Fairchild Sciences complex at Dartmouth College in Hanover, New Hampshire, taken from the tower of [Baker tower](https://en.wikipedia.org/wiki/Baker-Berry_Library), October 20, 2007, [Dartmouth College from Wikipedia](https://en.wikipedia.org/wiki/Dartmouth_College)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dartmouth Conferences from Wikipedia](https://en.wikipedia.org/wiki/Dartmouth_Conference)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html) by [John McCarthy](John_McCarthy "John McCarthy"), [Marvin Minsky](Marvin_Minsky "Marvin Minsky"), [Nathaniel Rochester](https://en.wikipedia.org/wiki/Nathaniel_Rochester_%28computer_scientist%29), [Claude Shannon](Claude_Shannon "Claude Shannon"), August 31, 1955
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Danny Kopec](Danny_Kopec "Danny Kopec") (**1977**). *Recent developments in computer chess*. Firbush News 7 Edinburgh: Machine Intelligence Research Unit, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") (ed. [Donald Michie](Donald_Michie "Donald Michie")), [pdf](http://www.sci.brooklyn.cuny.edu/~kopec/Publications/Publications/O_45_C.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Dartmouth Computing Timeline - The 1970s - 1973 - Chess Program in Tournament](http://www.dartmouth.edu/comp/about/archive/history/timeline/1970s.html#1973)
 
 **[Up one Level](Organizations "Organizations")**
 

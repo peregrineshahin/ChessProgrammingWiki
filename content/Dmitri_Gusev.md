@@ -60,12 +60,12 @@ He uses open-source chess programming in higher education, and is along with [No
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Dmitri Gusev's Professional Profile at Purdue Polytechnic Institute](https://tech.purdue.edu/profile/dgusev)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Censor/Firenzina · GitHub](https://github.com/Censor/Firenzina)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Dmitri A. Gusev](https://dblp.uni-trier.de/pers/hd/g/Gusev:Dmitri_A=)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fritz 12 Online - Tournament](http://www.foscec.org/test/index.htm)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Karel Traxler from Wikipedia](https://en.wikipedia.org/wiki/Karel_Traxler)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Контратака Тракслера — Википедия](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D1%82%D0%B0%D0%BA%D0%B0_%D0%A2%D1%80%D0%B0%D0%BA%D1%81%D0%BB%D0%B5%D1%80%D0%B0)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Dmitri Gusev's Professional Profile at Purdue Polytechnic Institute](https://tech.purdue.edu/profile/dgusev)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Censor/Firenzina · GitHub](https://github.com/Censor/Firenzina)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Dmitri A. Gusev](https://dblp.uni-trier.de/pers/hd/g/Gusev:Dmitri_A=)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fritz 12 Online - Tournament](http://www.foscec.org/test/index.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Karel Traxler from Wikipedia](https://en.wikipedia.org/wiki/Karel_Traxler)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Контратака Тракслера — Википедия](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D1%82%D0%B0%D0%BA%D0%B0_%D0%A2%D1%80%D0%B0%D0%BA%D1%81%D0%BB%D0%B5%D1%80%D0%B0)
 
 **[Up one level](People "People")**
 

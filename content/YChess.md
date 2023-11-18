@@ -71,12 +71,12 @@ YChess 1.0 Windows [GUI](GUI "GUI") <a id="cite-note-6" href="#cite-ref-6">[6]</
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [YChess 1.09 : Free Download & Streaming](https://archive.org/details/YChess_1020) : [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive), YchessV1.091995romanAntonczykstrategyChess.zip README.TXT
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ychess 1.0 for Windows by Roman Antonczik](http://www.talkchess.com/forum/viewtopic.php?t=49077) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), August 24, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: YChess 1.0 = a superb engine & GUI](http://www.talkchess.com/forum/viewtopic.php?start=2&t=49077) by Ruxy Sylwyka, [CCC](CCC "CCC"), August 26, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tablebases Generator of YChess 1.0](http://www.talkchess.com/forum/viewtopic.php?t=49456) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), September 25, 2013
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: YChess 1.0 = a superb engine & GUI](http://www.talkchess.com/forum/viewtopic.php?start=2&t=49077) by Ruxy Sylwyka, [CCC](CCC "CCC"), August 26, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [YChess 1.09 : Free Download & Streaming](https://archive.org/details/YChess_1020) : [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive), YchessV1.091995romanAntonczykstrategyChess.zip README.TXT
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ychess 1.0 for Windows by Roman Antonczik](http://www.talkchess.com/forum/viewtopic.php?t=49077) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), August 24, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: YChess 1.0 = a superb engine & GUI](http://www.talkchess.com/forum/viewtopic.php?start=2&t=49077) by Ruxy Sylwyka, [CCC](CCC "CCC"), August 26, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tablebases Generator of YChess 1.0](http://www.talkchess.com/forum/viewtopic.php?t=49456) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), September 25, 2013
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: YChess 1.0 = a superb engine & GUI](http://www.talkchess.com/forum/viewtopic.php?start=2&t=49077) by Ruxy Sylwyka, [CCC](CCC "CCC"), August 26, 2013
 
 **[Up one Level](Engines "Engines")**
 

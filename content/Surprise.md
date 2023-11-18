@@ -58,8 +58,8 @@ a [WinBoard](WinBoard "WinBoard") chess engine by [Sven Schüle](Sven_Sch%C3%BCl
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> An [emoticon](https://en.wikipedia.org/wiki/Emoticon) showing a [surprised face](https://commons.wikimedia.org/wiki/File:Face-surprise.svg?uselang=en), Source: [Tango Desktop Project](http://tango.freedesktop.org/Tango_Desktop_Project), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Surprise - A WinBoard Chess Engine](http://www.schuelebln.de/chess/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> An [emoticon](https://en.wikipedia.org/wiki/Emoticon) showing a [surprised face](https://commons.wikimedia.org/wiki/File:Face-surprise.svg?uselang=en), Source: [Tango Desktop Project](http://tango.freedesktop.org/Tango_Desktop_Project), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Surprise - A WinBoard Chess Engine](http://www.schuelebln.de/chess/)
 
 **[Up one Level](Engines "Engines")**
 

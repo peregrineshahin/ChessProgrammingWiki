@@ -32,8 +32,8 @@ In 1999 he started to develop the chess playing [neural networks](Neural_Network
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Luke Pellen (@fishspoon) | Twitter](https://twitter.com/fishspoon)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Amazon.com: Luke Pellen: Books, Biography, Blog, Audiobooks, Kindle](https://www.amazon.com/Luke-Pellen/e/B004WMGUPQ)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Luke Pellen (@fishspoon) | Twitter](https://twitter.com/fishspoon)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Amazon.com: Luke Pellen: Books, Biography, Blog, Audiobooks, Kindle](https://www.amazon.com/Luke-Pellen/e/B004WMGUPQ)
 
 **[Up one level](People "People")**
 

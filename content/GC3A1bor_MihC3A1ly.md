@@ -15,7 +15,7 @@ a Hungarian software engineer, M.Sc. in computer programming at [University of S
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gabor Mihaly | LinkedIn](https://www.linkedin.com/in/gabor-mihaly-20322150/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gabor Mihaly | LinkedIn](https://www.linkedin.com/in/gabor-mihaly-20322150/)
 
 **[Up one Level](People "People")**
 

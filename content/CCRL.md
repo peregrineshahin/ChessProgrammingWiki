@@ -35,7 +35,7 @@ the Computer Chess Rating Lists maintained by a group of computer chess enthusia
 
 ## [Endgame Tablebases](http://kirill-kryukov.com/chess/discussion-board/viewforum.php?f=6) [CCRL Public](http://kirill-kryukov.com/chess/discussion-board/viewforum.php?f=7) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Welcome to the CCRL](http://computerchess.org.uk/ccrl/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Welcome to the CCRL](http://computerchess.org.uk/ccrl/)
 
 **[Up one Level](Engine_Rating_Lists "Engine Rating Lists")**
 

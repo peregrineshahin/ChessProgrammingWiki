@@ -120,12 +120,12 @@ In the context of Search, a position is the [node](Node "Node") inside a [search
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo by [Arnold T. Rosenberg](https://en.wikipedia.org/wiki/Arnold_T._Rosenberg), [Marcel Duchamp](Category:Marcel_Duchamp "Category:Marcel Duchamp") playing chess on a sheet of Glass, 1958, see [Francis M. Naumann](https://en.wikipedia.org/wiki/Francis_Naumann), [Bradley Bailey](https://www.slu.edu/arts-and-sciences/fine-and-performing-arts/faculty/bailey-bradley.php) (**2009**). *[Marcel Duchamp: The Art of Chess](http://www.francisnaumann.com/Chess%20Book/)*
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Marcel Duchamp: Chess Master](http://www.slu.edu/sluma-home/past-exhibitions/2009/duchamp) [Saint Louis University Museum of Art](https://www.slu.edu/sluma-home) [Saint Louis University : SLU](https://en.wikipedia.org/wiki/Saint_Louis_University)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Shirish Chinchalkar](Shirish_Chinchalkar "Shirish Chinchalkar") (**1996**). *An Upper Bound for the Number of Reachable Positions*. [ICCA Journal, Vol. 19, No. 3](ICGA_Journal#19_3 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Subject: Maximum Number of Legal Moves](https://www.stmintz.com/ccc/index.php?id=424966) by [Andrew Shapira](Andrew_Shapira "Andrew Shapira"), [CCC](CCC "CCC"), May 08, 2005
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Hashing function for board positions](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/a0a82ffbb59b7ced) post 4 by [Jim Gillogly](James_Gillogly "James Gillogly"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 12, 1997
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [NULP in chess endgames](http://kirill-kryukov.com/chess/nulp/) by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo by [Arnold T. Rosenberg](https://en.wikipedia.org/wiki/Arnold_T._Rosenberg), [Marcel Duchamp](Category:Marcel_Duchamp "Category:Marcel Duchamp") playing chess on a sheet of Glass, 1958, see [Francis M. Naumann](https://en.wikipedia.org/wiki/Francis_Naumann), [Bradley Bailey](https://www.slu.edu/arts-and-sciences/fine-and-performing-arts/faculty/bailey-bradley.php) (**2009**). *[Marcel Duchamp: The Art of Chess](http://www.francisnaumann.com/Chess%20Book/)*
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Marcel Duchamp: Chess Master](http://www.slu.edu/sluma-home/past-exhibitions/2009/duchamp) [Saint Louis University Museum of Art](https://www.slu.edu/sluma-home) [Saint Louis University : SLU](https://en.wikipedia.org/wiki/Saint_Louis_University)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Shirish Chinchalkar](Shirish_Chinchalkar "Shirish Chinchalkar") (**1996**). *An Upper Bound for the Number of Reachable Positions*. [ICCA Journal, Vol. 19, No. 3](ICGA_Journal#19_3 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Subject: Maximum Number of Legal Moves](https://www.stmintz.com/ccc/index.php?id=424966) by [Andrew Shapira](Andrew_Shapira "Andrew Shapira"), [CCC](CCC "CCC"), May 08, 2005
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Hashing function for board positions](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/a0a82ffbb59b7ced) post 4 by [Jim Gillogly](James_Gillogly "James Gillogly"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 12, 1997
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [NULP in chess endgames](http://kirill-kryukov.com/chess/nulp/) by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
 
 **[Up one Level](Chess "Chess")**
 

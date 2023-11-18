@@ -27,8 +27,8 @@ an early microcomputer chess program written by [Bill Miller](index.php?title=Bi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Classic Computer Chess - ... The programs of yesteryear](http://web.archive.org/web/20071221115817/http://classicchess.googlepages.com/Chess.htm) | programs | Z-Chess by [Carey](Carey_Bloodworth "Carey Bloodworth"), hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Classic Computer Chess - ... The programs of yesteryear](http://web.archive.org/web/20071221115817/http://classicchess.googlepages.com/Chess.htm) | programs | Z-Chess by [Carey](Carey_Bloodworth "Carey Bloodworth"), hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
 
 **[Up one level](Engines "Engines")**
 

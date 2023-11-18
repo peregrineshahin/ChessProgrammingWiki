@@ -39,10 +39,10 @@ He achieved his Ph.D. at the [University Paris XI - Orsay](University_of_Paris#1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jérémie Mary Research Homepage](http://www.grappa.univ-lille3.fr/~mary/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SequeL – This is SequeL Inria team-project website](https://team.inria.fr/sequel/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jeremie's Foundry - Jeremie Mary Research Homepage - Publications](http://www.grappa.univ-lille3.fr/~mary/research.php)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Jérémie Mary](http://dblp.uni-trier.de/pers/hd/m/Mary:J=eacute=r=eacute=mie.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jérémie Mary Research Homepage](http://www.grappa.univ-lille3.fr/~mary/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SequeL – This is SequeL Inria team-project website](https://team.inria.fr/sequel/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jeremie's Foundry - Jeremie Mary Research Homepage - Publications](http://www.grappa.univ-lille3.fr/~mary/research.php)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Jérémie Mary](http://dblp.uni-trier.de/pers/hd/m/Mary:J=eacute=r=eacute=mie.html)
 
 **[Up one level](People "People")**
 

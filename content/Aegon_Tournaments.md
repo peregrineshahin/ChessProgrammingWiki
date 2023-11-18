@@ -128,9 +128,9 @@ Tournament hall <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [This photo](https://commons.wikimedia.org/wiki/File:AegongebouwR0013788.JPG) shows the headquarters of [Aegon](https://en.wikipedia.org/wiki/Aegon_N.V.) in [The Hague](https://en.wikipedia.org/wiki/The_Hague), [Netherlands](https://en.wikipedia.org/wiki/Netherlands), Image by [Teun Spaans](https://commons.wikimedia.org/wiki/User:TeunSpaans) (assumed), September 20 , 2005, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AEGON tournament disappears, do we let this happen?](https://www.stmintz.com/ccc/index.php?id=11455) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), November 01, 1997
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [This photo](https://commons.wikimedia.org/wiki/File:AegongebouwR0013788.JPG) shows the headquarters of [Aegon](https://en.wikipedia.org/wiki/Aegon_N.V.) in [The Hague](https://en.wikipedia.org/wiki/The_Hague), [Netherlands](https://en.wikipedia.org/wiki/Netherlands), Image by [Teun Spaans](https://commons.wikimedia.org/wiki/User:TeunSpaans) (assumed), September 20 , 2005, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AEGON tournament disappears, do we let this happen?](https://www.stmintz.com/ccc/index.php?id=11455) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), November 01, 1997
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

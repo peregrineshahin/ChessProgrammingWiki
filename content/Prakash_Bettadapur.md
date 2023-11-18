@@ -36,9 +36,9 @@ Prakash Bettadapur holds a Proficience Certificate in computing systems from the
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Prakash Bettadapur | LinkedIn](https://www.linkedin.com/in/prakashbettadapur/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Prakash Bettadapur (**1986**). *Experiments in Chess Capture Search*, M.Sc. Thesis, Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Prakash Bettadapur](https://dblp.uni-trier.de/pers/hd/b/Bettadapur:Prakash.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Prakash Bettadapur | LinkedIn](https://www.linkedin.com/in/prakashbettadapur/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Prakash Bettadapur (**1986**). *Experiments in Chess Capture Search*, M.Sc. Thesis, Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Prakash Bettadapur](https://dblp.uni-trier.de/pers/hd/b/Bettadapur:Prakash.html)
 
 **[Up one level](People "People")**
 

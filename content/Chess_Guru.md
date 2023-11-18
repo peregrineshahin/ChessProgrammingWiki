@@ -36,8 +36,8 @@ Chess Guru is a 64 bits intensive program and performs poorly on 32 bits compute
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Srimad Guru Adi Shankaracharya, [Adi Shankara](https://en.wikipedia.org/wiki/Adi_Shankara) with disciples, by [Raja Ravi Varma](Arts#Varma "Arts"), 1904
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Guru's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=11)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Srimad Guru Adi Shankaracharya, [Adi Shankara](https://en.wikipedia.org/wiki/Adi_Shankara) with disciples, by [Raja Ravi Varma](Arts#Varma "Arts"), 1904
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Guru's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=11)
 
 **[Up one Level](Engines "Engines")**
 

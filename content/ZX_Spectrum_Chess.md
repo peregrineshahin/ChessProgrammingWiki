@@ -25,10 +25,10 @@ In 1987, a [Mastertronic](https://en.wikipedia.org/wiki/Mastertronic) program na
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Spectrum 48K - Old Home Computer Chess Games Collection - ZX Spectrum Chess](http://www.spacious-mind.com/html/spectrum_48k_zx_spectrum_chess.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spectrum Chess - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0004722)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Master Chess - CPCWiki](http://www.cpcwiki.eu/index.php/Master_Chess)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Master Chess for Amstrad CPC (1987) - MobyGames](http://www.mobygames.com/game/master-chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Spectrum 48K - Old Home Computer Chess Games Collection - ZX Spectrum Chess](http://www.spacious-mind.com/html/spectrum_48k_zx_spectrum_chess.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spectrum Chess - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0004722)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Master Chess - CPCWiki](http://www.cpcwiki.eu/index.php/Master_Chess)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Master Chess for Amstrad CPC (1987) - MobyGames](http://www.mobygames.com/game/master-chess)
 
 **[Up one level](Engines "Engines")**
 

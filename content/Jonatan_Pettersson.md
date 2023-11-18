@@ -35,9 +35,9 @@ and maintains the *Mediocre Chess blog*, covering the development of his engine 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Blogger: Jonatan Pettersson](https://www.blogger.com/profile/03152085169762414586)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mediocre website](http://mediocrechess.sourceforge.net/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Still around, Mediocre Chess blog](http://mediocrechess.blogspot.com/2019/03/info-still-around.html), March 13, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Blogger: Jonatan Pettersson](https://www.blogger.com/profile/03152085169762414586)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mediocre website](http://mediocrechess.sourceforge.net/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Still around, Mediocre Chess blog](http://mediocrechess.blogspot.com/2019/03/info-still-around.html), March 13, 2019
 
 **[Up one level](People "People")**
 

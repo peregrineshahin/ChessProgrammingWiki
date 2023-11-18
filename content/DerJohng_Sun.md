@@ -26,12 +26,12 @@ a Taiwanese computer scientist at Department of Computer Science and [Informatio
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Der-Johng Sun - Candidate Ph.D.](http://java.csie.nctu.edu.tw/~derjohng/) from [Internet Application Technology Laboratory](http://java.csie.nctu.edu.tw/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Publications of I-Chen Wu](http://java.csie.nctu.edu.tw/~icwu/publications.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DBLP: Der-Johng Sun](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sun:Der=Johng.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nurikabe from Wikipedia](https://en.wikipedia.org/wiki/Nurikabe)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [TAAI Computer Game Tournaments](http://aigames.nctu.edu.tw/TAAI2011/eng/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Slitherlink from Wikipedia](https://en.wikipedia.org/wiki/Slitherlink)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Der-Johng Sun - Candidate Ph.D.](http://java.csie.nctu.edu.tw/~derjohng/) from [Internet Application Technology Laboratory](http://java.csie.nctu.edu.tw/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Publications of I-Chen Wu](http://java.csie.nctu.edu.tw/~icwu/publications.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DBLP: Der-Johng Sun](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Sun:Der=Johng.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nurikabe from Wikipedia](https://en.wikipedia.org/wiki/Nurikabe)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [TAAI Computer Game Tournaments](http://aigames.nctu.edu.tw/TAAI2011/eng/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Slitherlink from Wikipedia](https://en.wikipedia.org/wiki/Slitherlink)
 
 **[Up one Level](People "People")**
 

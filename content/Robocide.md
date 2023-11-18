@@ -116,11 +116,11 @@ and distributed under the [GNU General Public License](Free_Software_Foundation#
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tableaux ayant pour sujet les échecs](https://www.jmrw.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Шахматы в искусстве (48 часть): valsur — LiveJournal](https://valsur.livejournal.com/222212.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - DanielWhite94/robocide - GitHub - DanielWhite94/robocide: Robocide is a free, open-source UCI chess engine written in C from scratch](https://github.com/DanielWhite94/robocide)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [robocide/Readme.md at master · DanielWhite94/robocide · GitHub](https://github.com/DanielWhite94/robocide/blob/master/Readme.md)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [robocide/Readme.md at master · DanielWhite94/robocide · GitHub](https://github.com/DanielWhite94/robocide/blob/master/Readme.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tableaux ayant pour sujet les échecs](https://www.jmrw.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Шахматы в искусстве (48 часть): valsur — LiveJournal](https://valsur.livejournal.com/222212.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - DanielWhite94/robocide - GitHub - DanielWhite94/robocide: Robocide is a free, open-source UCI chess engine written in C from scratch](https://github.com/DanielWhite94/robocide)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [robocide/Readme.md at master · DanielWhite94/robocide · GitHub](https://github.com/DanielWhite94/robocide/blob/master/Readme.md)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [robocide/Readme.md at master · DanielWhite94/robocide · GitHub](https://github.com/DanielWhite94/robocide/blob/master/Readme.md)
 
 **[Up one Level](Engines "Engines")**
 

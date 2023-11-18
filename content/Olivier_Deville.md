@@ -61,11 +61,11 @@ Since May 2008, Olivier Deville administrates the [Winboard Forum](Computer_Ches
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Monaco Echecs on Twitter: "Tournoi de l AEPA, Olivier Deville remporte le Grand Prix de Monaco, Clémentine Kruk 1ère Féminine / Twitter](https://twitter.com/cemcmonaco/status/1059089128187404290), November 04, 2018
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Grand Prix de Monaco AEPA concluded](https://www.europechess.org/grand-prix-de-monaco-aepa-concluded/), November 6, 2018
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Deville, Olivier FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=624160)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Welcome back to all !](http://www.open-aurec.com/wbforum/viewtopic.php?f=11&t=49203) by Olivier Deville, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 25, 2008
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Refreshable braille display from Wikipedia](https://en.wikipedia.org/wiki/Refreshable_braille_display)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Monaco Echecs on Twitter: "Tournoi de l AEPA, Olivier Deville remporte le Grand Prix de Monaco, Clémentine Kruk 1ère Féminine / Twitter](https://twitter.com/cemcmonaco/status/1059089128187404290), November 04, 2018
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Grand Prix de Monaco AEPA concluded](https://www.europechess.org/grand-prix-de-monaco-aepa-concluded/), November 6, 2018
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Deville, Olivier FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=624160)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Welcome back to all !](http://www.open-aurec.com/wbforum/viewtopic.php?f=11&t=49203) by Olivier Deville, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 25, 2008
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Refreshable braille display from Wikipedia](https://en.wikipedia.org/wiki/Refreshable_braille_display)
 
 **[Up one level](People "People")**
 

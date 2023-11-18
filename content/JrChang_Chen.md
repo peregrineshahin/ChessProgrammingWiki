@@ -101,10 +101,10 @@ a Taiwanese computer scientist, game researcher and programmer, and associate pr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), Jr-Chang Chen, [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao") (**2014**). *Design and Implementation of Chinese Dark Chess Programs*. Computational Intelligence and AI in Games, [pdf](https://www.researchgate.net/profile/Cheng_Wei_Chou/publication/270724435_Design_and_Implementation_of_Chinese_Dark_Chess_Programs/links/55462b150cf24107d397e85b.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pascal Tang](Pascal_Tang "Pascal Tang") (**2015**). *SHIGA wins Chinese Chess Tournament*. [ICGA Journal, Vol. 38, No. 4](ICGA_Journal#38_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jr-Chang Chen's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=96)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DBLP: Jr-Chang Chen](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Chen:Jr=Chang.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), Jr-Chang Chen, [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao") (**2014**). *Design and Implementation of Chinese Dark Chess Programs*. Computational Intelligence and AI in Games, [pdf](https://www.researchgate.net/profile/Cheng_Wei_Chou/publication/270724435_Design_and_Implementation_of_Chinese_Dark_Chess_Programs/links/55462b150cf24107d397e85b.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pascal Tang](Pascal_Tang "Pascal Tang") (**2015**). *SHIGA wins Chinese Chess Tournament*. [ICGA Journal, Vol. 38, No. 4](ICGA_Journal#38_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jr-Chang Chen's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=96)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DBLP: Jr-Chang Chen](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Chen:Jr=Chang.html)
 
 **[Up one Level](People "People")**
 

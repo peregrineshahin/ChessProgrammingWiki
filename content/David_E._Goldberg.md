@@ -54,9 +54,9 @@ and is renowned for his seminal work on [genetic algorithms](Genetic_Programming
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David E Goldberg– Author, CEO Threejoy Associates, Jerry S. Dobrovolny Distinguished Professor Emeritus Co-Director, Illinois Foundry for Innovation in Engineering Education | Thought Leadership Leverage](http://thoughtleadershipleverage.com/2012/01/david-e-goldberg-author-ceo-threejoy-associates-jerry-s-dobrovolny-distinguished-professor-emeritus-co-director-illinois-foundry-for-innovation-in-engineering-education/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [People – ThreeJoy® Associates, Inc.](https://threejoy.com/people/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: David E. Goldberg](https://dblp.uni-trier.de/pers/g/Goldberg:David_E=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David E Goldberg– Author, CEO Threejoy Associates, Jerry S. Dobrovolny Distinguished Professor Emeritus Co-Director, Illinois Foundry for Innovation in Engineering Education | Thought Leadership Leverage](http://thoughtleadershipleverage.com/2012/01/david-e-goldberg-author-ceo-threejoy-associates-jerry-s-dobrovolny-distinguished-professor-emeritus-co-director-illinois-foundry-for-innovation-in-engineering-education/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [People – ThreeJoy® Associates, Inc.](https://threejoy.com/people/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: David E. Goldberg](https://dblp.uni-trier.de/pers/g/Goldberg:David_E=.html)
 
 **[Up one level](People "People")**
 

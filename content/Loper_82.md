@@ -40,8 +40,8 @@ Qxb2 16.Rc1 O-O 17.Bf4 Qxa2 18.Nf3 Nb3 19.Nxd4 Nxd4 20.Bd1 Nc2+ 21.Bxc2 Bxc2
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1983**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1982*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-1983,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201982.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Image from [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1983**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1982*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-1983,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201982.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1983**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1982*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-1983,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201982.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Image from [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1983**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1982*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-1983,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201982.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
 
 **[Up one level](Engines "Engines")**
 

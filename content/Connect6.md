@@ -104,13 +104,13 @@ a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [abstract strategy
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A game of Connect6 played on a large white board, originally posted to [Flickr](https://en.wikipedia.org/wiki/Flickr) as [Closeup of a Connect 6 game](https://www.flickr.com/photos/41894169422@N01/363886773) by [Nelson Pavlosky](https://www.flickr.com/people/41894169422@N01), January 18, 2007, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Connect6 from Wikipedia](https://en.wikipedia.org/wiki/Connect6)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Connect6 from Wikipedia](https://en.wikipedia.org/wiki/Connect6)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Introduction to Connect6](http://java.csie.nctu.edu.tw/~icwu/connect6/connect6.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Connect6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/game.php?id=18)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [MoreThenFive (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/program.php?id=696)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Ping-Hung Lin](Ping-Hung_Lin "Ping-Hung Lin") (**2010**). *[Relevance-Zone-Oriented Proof Search for Connect6](https://www.researchgate.net/publication/224159031_Relevance-Zone-Oriented_Proof_Search_for_Connect6)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2, No. 3
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [GitHub - lang010/ConnectMore: ConnectMore is a UI for Cloudict of the game Connect6, written by Python 3](https://github.com/lang010/ConnectMore/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A game of Connect6 played on a large white board, originally posted to [Flickr](https://en.wikipedia.org/wiki/Flickr) as [Closeup of a Connect 6 game](https://www.flickr.com/photos/41894169422@N01/363886773) by [Nelson Pavlosky](https://www.flickr.com/people/41894169422@N01), January 18, 2007, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Connect6 from Wikipedia](https://en.wikipedia.org/wiki/Connect6)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Connect6 from Wikipedia](https://en.wikipedia.org/wiki/Connect6)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Introduction to Connect6](http://java.csie.nctu.edu.tw/~icwu/connect6/connect6.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Connect6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/game.php?id=18)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [MoreThenFive (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/program.php?id=696)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Ping-Hung Lin](Ping-Hung_Lin "Ping-Hung Lin") (**2010**). *[Relevance-Zone-Oriented Proof Search for Connect6](https://www.researchgate.net/publication/224159031_Relevance-Zone-Oriented_Proof_Search_for_Connect6)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2, No. 3
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [GitHub - lang010/ConnectMore: ConnectMore is a UI for Cloudict of the game Connect6, written by Python 3](https://github.com/lang010/ConnectMore/)
 
 **[Up one Level](Games "Games")**
 

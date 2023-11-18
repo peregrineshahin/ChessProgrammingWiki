@@ -71,18 +71,18 @@ Vadim Anshelevich has been fascinated by the game of [Hex](Hex "Hex") since [Mar
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Combinatorial Game Theory Research Workshop](http://www.msri.org/workshops/104), [Berkeley, California](https://en.wikipedia.org/wiki/Berkeley,_California), from [Photo Gallery: Friends and Peers](http://webdocs.cs.ualberta.ca/%7Edarse/Photos/Friends/) by [Darse Billings](Darse_Billings "Darse Billings")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Vadim Anshelevich (**1974**). *Kubo-Martin-Schwinger States and Some Problems of "Noncommutative" Theory of Probability*. Ph.D. Thesis, [Moscow State University](Moscow_State_University "Moscow State University")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hexy plays Hex - Who is Vanshel](http://vanshel.com/Hexy/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Martin Gardner](Martin_Gardner "Martin Gardner") (**1959**). *The Game of Hex*. in *[The Scientific American Book of Mathematical Puzzles and Diversions](https://archive.org/details/scientificameric00gard)*, pp. 73-83, [Simon and Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hexy plays Hex](http://vanshel.com/Hexy/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Claude E. Shannon](Claude_Shannon "Claude Shannon") (**1953**). *[Computers and Automata](https://ieeexplore.ieee.org/document/4051186)*. [Proceedings of the Institute of Radio Engineers](https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers), Vol. 41, No. 10
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Vadim Anshelevich (**2002**). *[A hierarchical approach to computer Hex](https://www.sciencedirect.com/science/article/pii/S0004370201001540)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)), Chips challenging champions: games, computers and Artificial Intelligence, [pdf](https://www.cs.auckland.ac.nz/courses/compsci767s2c/resources/VAnshelevich-ARTINT.pdf)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Vadim Anshelevich - ResearchGate](https://www.researchgate.net/profile/Vadim_Anshelevich)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Vadim V. Anshelevich](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/a/Anshelevich:Vadim_V=.html)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Kubo-Martin-Schwinger state from Wikipedia](https://en.wikipedia.org/wiki/KMS_state)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Laplace operator from Wikipedia](https://en.wikipedia.org/wiki/Laplace_operator)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [AAAI-2000 Outstanding Paper Awards](http://www.aaai.org/Awards/paper.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Combinatorial Game Theory Research Workshop](http://www.msri.org/workshops/104), [Berkeley, California](https://en.wikipedia.org/wiki/Berkeley,_California), from [Photo Gallery: Friends and Peers](http://webdocs.cs.ualberta.ca/%7Edarse/Photos/Friends/) by [Darse Billings](Darse_Billings "Darse Billings")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Vadim Anshelevich (**1974**). *Kubo-Martin-Schwinger States and Some Problems of "Noncommutative" Theory of Probability*. Ph.D. Thesis, [Moscow State University](Moscow_State_University "Moscow State University")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hexy plays Hex - Who is Vanshel](http://vanshel.com/Hexy/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Martin Gardner](Martin_Gardner "Martin Gardner") (**1959**). *The Game of Hex*. in *[The Scientific American Book of Mathematical Puzzles and Diversions](https://archive.org/details/scientificameric00gard)*, pp. 73-83, [Simon and Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hexy plays Hex](http://vanshel.com/Hexy/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Claude E. Shannon](Claude_Shannon "Claude Shannon") (**1953**). *[Computers and Automata](https://ieeexplore.ieee.org/document/4051186)*. [Proceedings of the Institute of Radio Engineers](https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers), Vol. 41, No. 10
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Vadim Anshelevich (**2002**). *[A hierarchical approach to computer Hex](https://www.sciencedirect.com/science/article/pii/S0004370201001540)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)), Chips challenging champions: games, computers and Artificial Intelligence, [pdf](https://www.cs.auckland.ac.nz/courses/compsci767s2c/resources/VAnshelevich-ARTINT.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Vadim Anshelevich - ResearchGate](https://www.researchgate.net/profile/Vadim_Anshelevich)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Vadim V. Anshelevich](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/a/Anshelevich:Vadim_V=.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Kubo-Martin-Schwinger state from Wikipedia](https://en.wikipedia.org/wiki/KMS_state)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Laplace operator from Wikipedia](https://en.wikipedia.org/wiki/Laplace_operator)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [AAAI-2000 Outstanding Paper Awards](http://www.aaai.org/Awards/paper.php)
 
 **[Up one level](People "People")**
 

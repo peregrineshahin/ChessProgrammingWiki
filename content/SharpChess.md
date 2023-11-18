@@ -36,9 +36,9 @@ It has its own [GUI](GUI "GUI") and additionally supports the [Chess Engine Comm
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SharpChess: Tecnical Details](http://sharpchess.com/?page=50%20Development/01%20Object%20Model)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SharpChess: Object Model](http://sharpchess.com/?page=50%20Development/01%20Object%20Model)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SharpChess: Home](http://sharpchess.com/?page=01%20Home)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SharpChess: Tecnical Details](http://sharpchess.com/?page=50%20Development/01%20Object%20Model)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SharpChess: Object Model](http://sharpchess.com/?page=50%20Development/01%20Object%20Model)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SharpChess: Home](http://sharpchess.com/?page=01%20Home)
 
 **[Up one level](History "History")**
 

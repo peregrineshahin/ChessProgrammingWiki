@@ -35,12 +35,12 @@ a chess program released in 2003 as [Windows](Windows "Windows"), [Mac OS](Mac_O
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kasparov Chessmate Casual Game](https://youtu.be/AF8ki0K6sOw), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kasparov Chessmate from Wikipedia](https://en.wikipedia.org/wiki/Kasparov_Chessmate)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kasparov Chessmate for Macintosh (2004)](https://www.mobygames.com/game/kasparov-chessmate) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Perola Valfridsson](https://www.mobygames.com/developer/sheet/view/by_genre/developerId,281982/) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Kasparov Chessmate review](https://www.stmintz.com/ccc/index.php?id=306057) by Alastair Scott, [CCC](CCC "CCC"), July 12, 2003
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: about Kasparov Chessmate](https://www.stmintz.com/ccc/index.php?id=427659) by [Fernando Villegas](Fernando_Villegas "Fernando Villegas"), [CCC](CCC "CCC"), May 22, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kasparov Chessmate Casual Game](https://youtu.be/AF8ki0K6sOw), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kasparov Chessmate from Wikipedia](https://en.wikipedia.org/wiki/Kasparov_Chessmate)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kasparov Chessmate for Macintosh (2004)](https://www.mobygames.com/game/kasparov-chessmate) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Perola Valfridsson](https://www.mobygames.com/developer/sheet/view/by_genre/developerId,281982/) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Kasparov Chessmate review](https://www.stmintz.com/ccc/index.php?id=306057) by Alastair Scott, [CCC](CCC "CCC"), July 12, 2003
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: about Kasparov Chessmate](https://www.stmintz.com/ccc/index.php?id=427659) by [Fernando Villegas](Fernando_Villegas "Fernando Villegas"), [CCC](CCC "CCC"), May 22, 2005
 
 **[Up one Level](Engines "Engines")**
 

@@ -70,9 +70,9 @@ The **Sun-4** was launched in 1987 using Sun's own [SPARC](SPARC "SPARC") [RISC]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Sun-2 [Multibus](https://en.wikipedia.org/wiki/Multibus) CPU Board Photo taken by [Robert Harker](https://en.wikipedia.org/wiki/User:Robert.Harker), October 2003, [CC BY-SA 2.5](http://creativecommons.org/licenses/by-sa/2.5/), [Sun-2 from Wikipedia](https://en.wikipedia.org/wiki/Sun-2)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sun-1 from Wikipedia](https://en.wikipedia.org/wiki/Sun-1)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Sun-3 [VMEbus](https://en.wikipedia.org/wiki/VMEbus) CPU Board Photo taken by [Robert Harker](https://en.wikipedia.org/wiki/User:Robert.Harker), October 2003, [CC BY-SA 2.5](http://creativecommons.org/licenses/by-sa/2.5/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Sun-3 from Wikipedia](https://en.wikipedia.org/wiki/Sun-3)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Sun-2 [Multibus](https://en.wikipedia.org/wiki/Multibus) CPU Board Photo taken by [Robert Harker](https://en.wikipedia.org/wiki/User:Robert.Harker), October 2003, [CC BY-SA 2.5](http://creativecommons.org/licenses/by-sa/2.5/), [Sun-2 from Wikipedia](https://en.wikipedia.org/wiki/Sun-2)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sun-1 from Wikipedia](https://en.wikipedia.org/wiki/Sun-1)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Sun-3 [VMEbus](https://en.wikipedia.org/wiki/VMEbus) CPU Board Photo taken by [Robert Harker](https://en.wikipedia.org/wiki/User:Robert.Harker), October 2003, [CC BY-SA 2.5](http://creativecommons.org/licenses/by-sa/2.5/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Sun-3 from Wikipedia](https://en.wikipedia.org/wiki/Sun-3)
 
 **[Up one Level](Hardware "Hardware")**
 

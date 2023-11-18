@@ -91,11 +91,11 @@ a private chess engine by [Sander de Zoete](Sander_de_Zoete "Sander de Zoete"), 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A [great white shark](https://en.wikipedia.org/wiki/Great_white_shark) at [Isla Guadalupe](https://en.wikipedia.org/wiki/Guadalupe_Island), [Mexico](https://en.wikipedia.org/wiki/Mexico). The picture is a digital copy of my old film picture, [Shark from Wikipedia](https://en.wikipedia.org/wiki/Shark)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Reverse Bitboards](https://www.stmintz.com/ccc/index.php?id=276884) by [Sander de Zoete](Sander_de_Zoete "Sander de Zoete"), [CCC](CCC "CCC"), January 13, 2003
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [22nd Open Dutch Computer-Chess Championship 2002 - Photo Gallery](http://old.csvn.nl/gallery19.html), Photos by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=10)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Reverse Bitboards](https://www.stmintz.com/ccc/index.php?id=277148) by [Sander de Zoete](Sander_de_Zoete "Sander de Zoete"), [CCC](CCC "CCC"), January 14, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A [great white shark](https://en.wikipedia.org/wiki/Great_white_shark) at [Isla Guadalupe](https://en.wikipedia.org/wiki/Guadalupe_Island), [Mexico](https://en.wikipedia.org/wiki/Mexico). The picture is a digital copy of my old film picture, [Shark from Wikipedia](https://en.wikipedia.org/wiki/Shark)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Reverse Bitboards](https://www.stmintz.com/ccc/index.php?id=276884) by [Sander de Zoete](Sander_de_Zoete "Sander de Zoete"), [CCC](CCC "CCC"), January 13, 2003
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [22nd Open Dutch Computer-Chess Championship 2002 - Photo Gallery](http://old.csvn.nl/gallery19.html), Photos by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=10)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Reverse Bitboards](https://www.stmintz.com/ccc/index.php?id=277148) by [Sander de Zoete](Sander_de_Zoete "Sander de Zoete"), [CCC](CCC "CCC"), January 14, 2003
 
 **[Up one Level](Engines "Engines")**
 

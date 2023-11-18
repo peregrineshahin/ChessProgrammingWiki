@@ -149,10 +149,10 @@ next_2_play[ply+1]     ::= next_2_generate[ply];
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [50-Züge-Regel - Schachmathematik from Wikipedia.de](http://de.wikipedia.org/wiki/50-Z%C3%BCge-Regel#Schachmathematik) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Eero Bonsdorff, [Karl Fabel](https://en.wikipedia.org/wiki/Karl_Fabel), Olvai Riihimaa (**1966**) *Schach und Zahl - Unterhaltsame Schachmathematik*. Seite 11-13, Walter Rau Verlag, Düsseldorf (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Defending Humanity's Honor](http://www.xs4all.nl/~timkr/chess2/honor.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9), see game [NewRival](Rival "Rival") - [Faile](Faile "Faile") with 493 moves, and playing 402 moves with bare kings!
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Subject: Maximum Number of Legal Moves](https://www.stmintz.com/ccc/index.php?id=424966) by [Andrew Shapira](Andrew_Shapira "Andrew Shapira"), [CCC](CCC "CCC"), May 08, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [50-Züge-Regel - Schachmathematik from Wikipedia.de](http://de.wikipedia.org/wiki/50-Z%C3%BCge-Regel#Schachmathematik) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Eero Bonsdorff, [Karl Fabel](https://en.wikipedia.org/wiki/Karl_Fabel), Olvai Riihimaa (**1966**) *Schach und Zahl - Unterhaltsame Schachmathematik*. Seite 11-13, Walter Rau Verlag, Düsseldorf (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Defending Humanity's Honor](http://www.xs4all.nl/~timkr/chess2/honor.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9), see game [NewRival](Rival "Rival") - [Faile](Faile "Faile") with 493 moves, and playing 402 moves with bare kings!
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Subject: Maximum Number of Legal Moves](https://www.stmintz.com/ccc/index.php?id=424966) by [Andrew Shapira](Andrew_Shapira "Andrew Shapira"), [CCC](CCC "CCC"), May 08, 2005
 
 **[Up one Level](Data "Data")**
 

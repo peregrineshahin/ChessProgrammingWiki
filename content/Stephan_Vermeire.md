@@ -30,8 +30,8 @@ a Dutch [remedial teacher](https://en.wikipedia.org/wiki/Remedial_education) and
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stephan Vermeire | LinkedIn](https://www.linkedin.com/in/stephan-vermeire-7b93477a/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Brutus' Homepage](http://vermeire.home.xs4all.nl/brutus.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stephan Vermeire | LinkedIn](https://www.linkedin.com/in/stephan-vermeire-7b93477a/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Brutus' Homepage](http://vermeire.home.xs4all.nl/brutus.html)
 
 **[Up one level](People "People")**
 

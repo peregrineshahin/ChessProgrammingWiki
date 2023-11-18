@@ -41,12 +41,12 @@ by Craig S. Bruce <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Craig Bruce's Home Page](https://web.archive.org/web/20120324151647/http://www.csbruce.com/~csbruce/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Craig S. Bruce (**1998**). *[Performance Optimization for Distributed-Shared-Data Systems](https://uwspace.uwaterloo.ca/handle/10012/300)*. Ph.D. thesis, [University of Waterloo](University_of_Waterloo "University of Waterloo")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Craig's 8-bit Commodore Page](https://web.archive.org/web/20120419041243/http://www.csbruce.com/~csbruce/cbm/) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [KC Chess: Kevin & Craig's Chess Program](https://web.archive.org/web/20120411173812/http://www.csbruce.com/~csbruce/chess/) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Selected Quotations of Craig S. Bruce](https://web.archive.org/web/20111021183914/http://www.csbruce.com/~csbruce/quotes/craig-cut.html) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Faculty of Computer Science | Technical Reports 1990 to 1994 | UNB](https://www.cs.unb.ca/tech-reports/reportpage9094.shtml)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Craig Bruce's Home Page](https://web.archive.org/web/20120324151647/http://www.csbruce.com/~csbruce/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Craig S. Bruce (**1998**). *[Performance Optimization for Distributed-Shared-Data Systems](https://uwspace.uwaterloo.ca/handle/10012/300)*. Ph.D. thesis, [University of Waterloo](University_of_Waterloo "University of Waterloo")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Craig's 8-bit Commodore Page](https://web.archive.org/web/20120419041243/http://www.csbruce.com/~csbruce/cbm/) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [KC Chess: Kevin & Craig's Chess Program](https://web.archive.org/web/20120411173812/http://www.csbruce.com/~csbruce/chess/) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Selected Quotations of Craig S. Bruce](https://web.archive.org/web/20111021183914/http://www.csbruce.com/~csbruce/quotes/craig-cut.html) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Faculty of Computer Science | Technical Reports 1990 to 1994 | UNB](https://www.cs.unb.ca/tech-reports/reportpage9094.shtml)
 
 **[Up one level](People "People")**
 

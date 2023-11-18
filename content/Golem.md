@@ -63,10 +63,10 @@ Golem played all the early G6 tournaments, four [Italian Computer Chess Champion
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Illustration of a Golem](https://commons.wikimedia.org/wiki/File:Golem_by_Philippe_Semeria.jpg) by [Philippe Semeria](http://commons.wikimedia.org/wiki/User:Phisem#Permission). The [Hebrew](https://en.wikipedia.org/wiki/Hebrew_language) word for "Truth", one of the names of God, is written on his forehead, January 21, 2009, [Golem from Wikipedia](https://en.wikipedia.org/wiki/Golem)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Golem (was Re: what's the tool you used for the diagram ? THANKS!)](https://www.stmintz.com/ccc/index.php?id=93566) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli"), [CCC](CCC "CCC"), January 31, 2000
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Intervista a Gianluigi Masciulli, autore di Golem](http://spazioinwind.libero.it/dellacorte/ita/interviste/int_01_glm.htm) « [G 6](G_6 "G 6")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Illustration of a Golem](https://commons.wikimedia.org/wiki/File:Golem_by_Philippe_Semeria.jpg) by [Philippe Semeria](http://commons.wikimedia.org/wiki/User:Phisem#Permission). The [Hebrew](https://en.wikipedia.org/wiki/Hebrew_language) word for "Truth", one of the names of God, is written on his forehead, January 21, 2009, [Golem from Wikipedia](https://en.wikipedia.org/wiki/Golem)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Golem (was Re: what's the tool you used for the diagram ? THANKS!)](https://www.stmintz.com/ccc/index.php?id=93566) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli"), [CCC](CCC "CCC"), January 31, 2000
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Intervista a Gianluigi Masciulli, autore di Golem](http://spazioinwind.libero.it/dellacorte/ita/interviste/int_01_glm.htm) « [G 6](G_6 "G 6")
 
 **[Up one level](Engines "Engines")**
 

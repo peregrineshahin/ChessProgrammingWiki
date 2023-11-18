@@ -29,11 +29,11 @@ Edward Komissarchik and his daughter Julia immigrated from Russia to the United 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ernst Zermelo](Ernst_Zermelo "Ernst Zermelo") (**1913**). *Über eine Anwendung der Mengenlehre auf die Theorie des Schachspiels* Proc. Fifth Congress Mathematicians, (Cambridge 1912), Cambridge Univ. Press 1913, 501–504. Translation: *On an Application of Set Theory to the Theory of the Game of Chess*. see Appendix in [Ulrich Schwalbe](https://www.uni-hohenheim.de/organization/person/prof-dr-ulrich-schwalbe), [Paul Walker](http://www.econ.canterbury.ac.nz/personal_pages/paul_walker/psw.htm) (**1997**). *Zermelo and the early history of game theory*. [pdf](http://abel.math.harvard.edu/~elkies/FS23j.03/zermelo.pdf)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Julia Komissarchik | LinkedIn](https://www.linkedin.com/in/juliakomissarchik/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Safecrackers open up the "deep Web"](http://seattletimes.nwsource.com/html/businesstechnology/2002472583_btdeepweb05.html) by [Michael Bazeley](http://www.linkedin.com/pub/michael-bazeley/0/403/541) from [The Seattle Times](http://seattletimes.nwsource.com/html/home/), September 5, 2005
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Subject: brute-force vs. intuition in math & chess](http://www.mathematik.uni-bielefeld.de/%7Esillke/NEWS/brute-force) by [Bill Dubuque](https://en.wikipedia.org/wiki/Macsyma), August 1996
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ernst Zermelo](Ernst_Zermelo "Ernst Zermelo") (**1913**). *Über eine Anwendung der Mengenlehre auf die Theorie des Schachspiels* Proc. Fifth Congress Mathematicians, (Cambridge 1912), Cambridge Univ. Press 1913, 501–504. Translation: *On an Application of Set Theory to the Theory of the Game of Chess*. see Appendix in [Ulrich Schwalbe](https://www.uni-hohenheim.de/organization/person/prof-dr-ulrich-schwalbe), [Paul Walker](http://www.econ.canterbury.ac.nz/personal_pages/paul_walker/psw.htm) (**1997**). *Zermelo and the early history of game theory*. [pdf](http://abel.math.harvard.edu/~elkies/FS23j.03/zermelo.pdf)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Julia Komissarchik | LinkedIn](https://www.linkedin.com/in/juliakomissarchik/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Safecrackers open up the "deep Web"](http://seattletimes.nwsource.com/html/businesstechnology/2002472583_btdeepweb05.html) by [Michael Bazeley](http://www.linkedin.com/pub/michael-bazeley/0/403/541) from [The Seattle Times](http://seattletimes.nwsource.com/html/home/), September 5, 2005
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Subject: brute-force vs. intuition in math & chess](http://www.mathematik.uni-bielefeld.de/%7Esillke/NEWS/brute-force) by [Bill Dubuque](https://en.wikipedia.org/wiki/Macsyma), August 1996
 
 **[Up one level](People "People")**
 

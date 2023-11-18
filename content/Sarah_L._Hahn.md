@@ -25,9 +25,9 @@ an American English teacher involved in the research and publication on evolutio
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Natural Selection, Inc. Presents New Results in Evolving Chess Programs: Two Milestones in Self-Learning Chess Achieved | Natural Selection, Inc](http://natural-selection.com/press/2006/pr_05222006.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David B. Fogel](David_B._Fogel "David B. Fogel"), [Timothy J. Hays](Timothy_J._Hays "Timothy J. Hays"), Sarah L. Hahn, [James Quon](James_Quon "James Quon") (**2006**). *[The Blondie25 Chess Program Competes Against Fritz 8.0 and a Human Chess Master](https://ieeexplore.ieee.org/document/4100133)*. [IEEE Symposium on Computational Intelligence & Games](IEEE#CIG "IEEE")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Sarah L. Hahn](https://dblp.uni-trier.de/pers/hd/h/Hahn:Sarah_L=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Natural Selection, Inc. Presents New Results in Evolving Chess Programs: Two Milestones in Self-Learning Chess Achieved | Natural Selection, Inc](http://natural-selection.com/press/2006/pr_05222006.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David B. Fogel](David_B._Fogel "David B. Fogel"), [Timothy J. Hays](Timothy_J._Hays "Timothy J. Hays"), Sarah L. Hahn, [James Quon](James_Quon "James Quon") (**2006**). *[The Blondie25 Chess Program Competes Against Fritz 8.0 and a Human Chess Master](https://ieeexplore.ieee.org/document/4100133)*. [IEEE Symposium on Computational Intelligence & Games](IEEE#CIG "IEEE")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Sarah L. Hahn](https://dblp.uni-trier.de/pers/hd/h/Hahn:Sarah_L=)
 
 **[Up one level](People "People")**
 

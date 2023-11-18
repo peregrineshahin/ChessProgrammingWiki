@@ -118,12 +118,12 @@ A common idea was mentioned by [Daniel Mehrmann](Daniel_Mehrmann "Daniel Mehrman
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mark Winands](Mark_Winands "Mark Winands"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2004**). *[The Relative History Heuristic](http://link.springer.com/chapter/10.1007/11674399_18)*. [CG 2004](CG_2004 "CG 2004"), [pdf](http://erikvanderwerf.tengen.nl/pubdown/relhis.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [late move reductions](https://www.stmintz.com/ccc/index.php?id=490705) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), March 01, 2006
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: relative history heuristic](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=234691&t=25118&sid=5d8f3f4a0d7f4c59a93e786c21c00072) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), November 30, 2008
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Negative Plausibility](http://www.aifactory.co.uk/newsletter/2007_01_neg_plausibility.htm) by [Jeff Rollason](Jeff_Rollason "Jeff Rollason"), [AI Factory](AI_Factory "AI Factory"), March 2007
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [PHR (Peak History Reduction) idea](https://www.stmintz.com/ccc/index.php?id=490779) by [Daniel Mehrmann](Daniel_Mehrmann "Daniel Mehrmann"), [CCC](CCC "CCC"), March 01, 2006
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Negative Plausibility Move Ordering](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=28873) by [Alessandro Damiani](Alessandro_Damiani "Alessandro Damiani"), [CCC](CCC "CCC"), July 09, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mark Winands](Mark_Winands "Mark Winands"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2004**). *[The Relative History Heuristic](http://link.springer.com/chapter/10.1007/11674399_18)*. [CG 2004](CG_2004 "CG 2004"), [pdf](http://erikvanderwerf.tengen.nl/pubdown/relhis.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [late move reductions](https://www.stmintz.com/ccc/index.php?id=490705) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), March 01, 2006
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: relative history heuristic](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=234691&t=25118&sid=5d8f3f4a0d7f4c59a93e786c21c00072) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), November 30, 2008
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Negative Plausibility](http://www.aifactory.co.uk/newsletter/2007_01_neg_plausibility.htm) by [Jeff Rollason](Jeff_Rollason "Jeff Rollason"), [AI Factory](AI_Factory "AI Factory"), March 2007
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [PHR (Peak History Reduction) idea](https://www.stmintz.com/ccc/index.php?id=490779) by [Daniel Mehrmann](Daniel_Mehrmann "Daniel Mehrmann"), [CCC](CCC "CCC"), March 01, 2006
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Negative Plausibility Move Ordering](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=28873) by [Alessandro Damiani](Alessandro_Damiani "Alessandro Damiani"), [CCC](CCC "CCC"), July 09, 2009
 
 **[Up one Level](Move_Ordering "Move Ordering")**
 

@@ -63,13 +63,13 @@ ConvChess was played against [Sunfish](Sunfish "Sunfish") (search depth not repo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [2D Image-Kernel Convolution Animation](https://commons.wikimedia.org/wiki/File:2D_Convolution_Animation.gif) by Michael Plotke, January 28, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [2D Image-Kernel Convolution Animation](https://commons.wikimedia.org/wiki/File:2D_Convolution_Animation.gif) by Michael Plotke, January 28, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 1. ↑ [2.0](#cite-ref-paper-2-0) [2.1](#cite-ref-paper-2-1) [2.2](#cite-ref-paper-2-2) [Barak Oshri](Barak_Oshri "Barak Oshri"), [Nishith Khandwala](Nishith_Khandwala "Nishith Khandwala") (**2015**). *Predicting Moves in Chess using Convolutional Neural Networks*. [pdf](http://vision.stanford.edu/teaching/cs231n/reports/2015/pdfs/ConvChess.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli"), [Francesco Bidoia](Francesco_Bidoia "Francesco Bidoia"), [Valeriu Codreanu](Valeriu_Codreanu "Valeriu Codreanu"), [Marco Wiering](Marco_Wiering "Marco Wiering") (**2018**). *Learning to Evaluate Chess Positions with Deep Neural Networks and Limited Lookahead*. ICPRAM 2018, [pdf](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CHESS_DNN_2018.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - BarakOshri/ConvChess: Predicting Moves in Chess Using Convolutional Neural Networks](https://github.com/BarakOshri/ConvChess)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Christopher Clark](Christopher_Clark "Christopher Clark"), [Amos Storkey](Amos_Storkey "Amos Storkey") (**2014**). *Teaching Deep Convolutional Neural Networks to Play Go*. [arXiv:1412.3409](http://arxiv.org/abs/1412.3409)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: ConvChess CNN](http://www.talkchess.com/forum3/viewtopic.php?t=63458&start=1) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), March 15, 2017
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ConvChess/master/data/FICS_2000.pgn](https://raw.githubusercontent.com/BarakOshri/ConvChess/master/data/FICS_2000.pgn)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli"), [Francesco Bidoia](Francesco_Bidoia "Francesco Bidoia"), [Valeriu Codreanu](Valeriu_Codreanu "Valeriu Codreanu"), [Marco Wiering](Marco_Wiering "Marco Wiering") (**2018**). *Learning to Evaluate Chess Positions with Deep Neural Networks and Limited Lookahead*. ICPRAM 2018, [pdf](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CHESS_DNN_2018.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - BarakOshri/ConvChess: Predicting Moves in Chess Using Convolutional Neural Networks](https://github.com/BarakOshri/ConvChess)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Christopher Clark](Christopher_Clark "Christopher Clark"), [Amos Storkey](Amos_Storkey "Amos Storkey") (**2014**). *Teaching Deep Convolutional Neural Networks to Play Go*. [arXiv:1412.3409](http://arxiv.org/abs/1412.3409)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: ConvChess CNN](http://www.talkchess.com/forum3/viewtopic.php?t=63458&start=1) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), March 15, 2017
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ConvChess/master/data/FICS_2000.pgn](https://raw.githubusercontent.com/BarakOshri/ConvChess/master/data/FICS_2000.pgn)
 
 **[Up one Level](Engines "Engines")**
 

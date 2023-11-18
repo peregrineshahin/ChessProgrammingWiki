@@ -49,10 +49,10 @@ Bruce on Gerbil <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gerbil from Wikipedia](https://en.wikipedia.org/wiki/Gerbil)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gerbil](http://web.archive.org/web/20070607151211/www.brucemo.com/compchess/gerbil/index.htm) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland") archived by the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Release Notes 02](http://web.archive.org/web/20070602233810/http://www.seanet.com/~brucemo/gerbil/release.txt) archived by the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Bruce Moreland's Gerbil](https://www.stmintz.com/ccc/index.php?id=174438) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), June 09, 2001
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gerbil from Wikipedia](https://en.wikipedia.org/wiki/Gerbil)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gerbil](http://web.archive.org/web/20070607151211/www.brucemo.com/compchess/gerbil/index.htm) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland") archived by the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Release Notes 02](http://web.archive.org/web/20070602233810/http://www.seanet.com/~brucemo/gerbil/release.txt) archived by the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Bruce Moreland's Gerbil](https://www.stmintz.com/ccc/index.php?id=174438) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), June 09, 2001
 
 **[Up one Level](Engines "Engines")**
 

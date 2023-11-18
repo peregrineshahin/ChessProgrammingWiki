@@ -38,11 +38,11 @@ E.T.Chess - [DOS](MS-DOS "MS-DOS") Screen <a id="cite-note-5" href="#cite-ref-5"
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [E.T. Makeshift communicator](https://commons.wikimedia.org/wiki/File:ET_Communicator_Cropped.jpg) used by [E.T.](https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial) to phone home, Among its parts is a [Speak & Spell](<https://en.wikipedia.org/wiki/Speak_%26_Spell_(toy)>), an umbrella lined with tinfoil, and a coffee can filled with other electronics, Author: Mattingly23, July 19, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [E.T.Chess - DOS Version](http://eric.triki.pagesperso-orange.fr/dos_en.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [E.T.Chess - Xboard Version](http://eric.triki.pagesperso-orange.fr/xboard_en.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [A new strong chess program by Eric Triki - E. T. Chess](https://www.stmintz.com/ccc/index.php?id=447664) by Tim Borik, [CCC](CCC "CCC"), September 04, 2005
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [E.T.Chess - DOS Version](http://eric.triki.pagesperso-orange.fr/dos_en.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [E.T. Makeshift communicator](https://commons.wikimedia.org/wiki/File:ET_Communicator_Cropped.jpg) used by [E.T.](https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial) to phone home, Among its parts is a [Speak & Spell](<https://en.wikipedia.org/wiki/Speak_%26_Spell_(toy)>), an umbrella lined with tinfoil, and a coffee can filled with other electronics, Author: Mattingly23, July 19, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [E.T.Chess - DOS Version](http://eric.triki.pagesperso-orange.fr/dos_en.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [E.T.Chess - Xboard Version](http://eric.triki.pagesperso-orange.fr/xboard_en.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [A new strong chess program by Eric Triki - E. T. Chess](https://www.stmintz.com/ccc/index.php?id=447664) by Tim Borik, [CCC](CCC "CCC"), September 04, 2005
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [E.T.Chess - DOS Version](http://eric.triki.pagesperso-orange.fr/dos_en.html)
 
 **[Up one Level](Engines "Engines")**
 

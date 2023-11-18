@@ -73,8 +73,8 @@ Second blitz play-off game is drawn - [Shredder](Shredder "Shredder") won the 4t
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) Photos by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) Photos by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
 
 **[Up one level](People "People")**
 

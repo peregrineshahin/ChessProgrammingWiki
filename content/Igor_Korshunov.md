@@ -33,14 +33,14 @@ Igor is moderator of the [Kasparov computer chess forum](Computer_Chess_Forums "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [download page](http://www.igorkorshunov.narod.ru/WildCat/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [K-A-L-L-I-S-T-O](http://www.igorkorshunov.narod.ru/Draughts/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aurora Borealis](http://aurora.shashki.com/) the Checkers database program
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Downloads](http://www.sdchess.ru/download_engines.htm) from [sdchess.ru](http://www.sdchess.ru/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Мурка / Murka](http://immortalchess.net/forum/showthread.php?t=2202) by Wildcat, [immortalchess](Computer_Chess_Forums "Computer Chess Forums"), May 31, 2010 (Russian)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Murka 3.0 released](http://www.talkchess.com/forum/viewtopic.php?t=48673) by Günther Höhne, [CCC](CCC "CCC"), July 17, 2013
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [kasparovchess](http://kasparovchess.crestbook.com/forums/13/) (Russian)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Новости за февраль - март 2008 года, 29 февраля 2008 г.](http://www.sdchess.ru/febr_march_08.htm) from [sdchess.ru](http://www.sdchess.ru/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [download page](http://www.igorkorshunov.narod.ru/WildCat/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [K-A-L-L-I-S-T-O](http://www.igorkorshunov.narod.ru/Draughts/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aurora Borealis](http://aurora.shashki.com/) the Checkers database program
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Downloads](http://www.sdchess.ru/download_engines.htm) from [sdchess.ru](http://www.sdchess.ru/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Мурка / Murka](http://immortalchess.net/forum/showthread.php?t=2202) by Wildcat, [immortalchess](Computer_Chess_Forums "Computer Chess Forums"), May 31, 2010 (Russian)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Murka 3.0 released](http://www.talkchess.com/forum/viewtopic.php?t=48673) by Günther Höhne, [CCC](CCC "CCC"), July 17, 2013
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [kasparovchess](http://kasparovchess.crestbook.com/forums/13/) (Russian)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Новости за февраль - март 2008 года, 29 февраля 2008 г.](http://www.sdchess.ru/febr_march_08.htm) from [sdchess.ru](http://www.sdchess.ru/)
 
 **[Up one level](People "People")**
 

@@ -59,10 +59,10 @@ Founded the company LogiSoft ApS and developed a 4K chess computer, which was so
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kaare Danielsen | Facebook](http://www.facebook.com/people/Kaare-Danielsen/1008365652)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [danielsen.com](http://www.danielsen.com/logisoft.shtml) (Danish)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Turbo GameWorks (Open Library)](http://openlibrary.org/b/OL2753290M/Turbo_GameWorks)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kaare Danielsen | Facebook](http://www.facebook.com/people/Kaare-Danielsen/1008365652)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [danielsen.com](http://www.danielsen.com/logisoft.shtml) (Danish)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Turbo GameWorks (Open Library)](http://openlibrary.org/b/OL2753290M/Turbo_GameWorks)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
 
 **[Up one level](People "People")**
 

@@ -36,9 +36,9 @@ Forth evolved from [Charles H. (Chuck) Moore's](https://en.wikipedia.org/wiki/Ch
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [FORTH, Inc. - Embedded Systems Development, Software Tools, and Consulting Services](https://www.forth.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The J1 Forth CPU — excamera](http://www.excamera.com/sphinx/fpga-j1.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [brainless | Free Games software downloads at SourceForge.net](http://sourceforge.net/projects/forth-brainless/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [FORTH, Inc. - Embedded Systems Development, Software Tools, and Consulting Services](https://www.forth.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The J1 Forth CPU — excamera](http://www.excamera.com/sphinx/fpga-j1.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [brainless | Free Games software downloads at SourceForge.net](http://sourceforge.net/projects/forth-brainless/)
 
 **[Up one Level](Languages "Languages")**
 

@@ -151,13 +151,13 @@ e5 57.a4 Rf3+ 58.Kg2 e4 59.a5 e3 60.a6 e2 61.a7 Rf8 62.Kg3 Ke3 63.Ra3+ Kd4
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pavlov](https://en.wikipedia.org/wiki/Ivan_Pavlov) in his laboratory, Image by [Karl Bulla](https://en.wikipedia.org/wiki/Karl_Bulla), [ИСКРЫ, No. 12, March 24, 1913](https://history-foto.livejournal.com/268684.html), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [RomiChess && learning or the emperor has no clothes](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4835) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 19, 2006
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Modified old 64 bit attack getter](http://www.talkchess.com/forum/viewtopic.php?t=30971) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), December 06, 2009
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Normalizing the eval](http://www.talkchess.com/forum/viewtopic.php?t=28245) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), June 04, 2009
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Positional learning](http://www.talkchess.com/forum/viewtopic.php?t=37062&start=15) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), December 18, 2010
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [The 2006 First Annual ACCA Americas' Computer Chess Championships - Results](http://compchess.org/2006ACCCResults.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The Emperor's New Clothes](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes) by [Hans Christian Andersen](https://en.wikipedia.org/wiki/Hans_Christian_Andersen)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pavlov](https://en.wikipedia.org/wiki/Ivan_Pavlov) in his laboratory, Image by [Karl Bulla](https://en.wikipedia.org/wiki/Karl_Bulla), [ИСКРЫ, No. 12, March 24, 1913](https://history-foto.livejournal.com/268684.html), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [RomiChess && learning or the emperor has no clothes](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4835) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 19, 2006
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Modified old 64 bit attack getter](http://www.talkchess.com/forum/viewtopic.php?t=30971) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), December 06, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Normalizing the eval](http://www.talkchess.com/forum/viewtopic.php?t=28245) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), June 04, 2009
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Positional learning](http://www.talkchess.com/forum/viewtopic.php?t=37062&start=15) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), December 18, 2010
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The 2006 First Annual ACCA Americas' Computer Chess Championships - Results](http://compchess.org/2006ACCCResults.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Emperor's New Clothes](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes) by [Hans Christian Andersen](https://en.wikipedia.org/wiki/Hans_Christian_Andersen)
 
 **[Up one level](Engines "Engines")**
 

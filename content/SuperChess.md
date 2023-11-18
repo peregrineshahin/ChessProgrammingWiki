@@ -82,10 +82,10 @@ Superchess 3 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [World of Spectrum - Sinclair Infoseek - Search Results](http://www.worldofspectrum.org/infoseek.cgi?regexp=%5Eg108$&phrase&loadpics=1)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spectrum 48K - Old Home Computer Chess Games Collection - Superchess II v2.1](http://www.spacious-mind.com/html/spectrum_48k_superchess_ii_v2_.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ZX81 Cassette Tape Information for Super Chess](http://www.zx81stuff.org.uk/zx81/generated/tapeinfo/s/SuperChess%28Softsync%29.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Superchess 3 - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0005007)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [World of Spectrum - Sinclair Infoseek - Search Results](http://www.worldofspectrum.org/infoseek.cgi?regexp=%5Eg108$&phrase&loadpics=1)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spectrum 48K - Old Home Computer Chess Games Collection - Superchess II v2.1](http://www.spacious-mind.com/html/spectrum_48k_superchess_ii_v2_.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ZX81 Cassette Tape Information for Super Chess](http://www.zx81stuff.org.uk/zx81/generated/tapeinfo/s/SuperChess%28Softsync%29.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Superchess 3 - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0005007)
 
 **[Up one Level](Engines "Engines")**
 

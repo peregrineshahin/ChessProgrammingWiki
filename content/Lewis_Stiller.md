@@ -51,10 +51,10 @@ Lewis Stiller holds a Ph.D. on *Parallel Algorithms in AI* from [Johns Hopkins U
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The State Bar of California - Attorney Search - Lewis Benjamin Stiller](http://members.calbar.ca.gov/search/member_detail.aspx?x=251808)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CQL Manual](https://web.archive.org/web/20140130143815/http://www.rbnn.com/cql/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Lewis Stiller](https://dblp.uni-trier.de/pers/hd/s/Stiller:Lewis)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The State Bar of California - Attorney Search - Lewis Benjamin Stiller](http://members.calbar.ca.gov/search/member_detail.aspx?x=251808)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CQL Manual](https://web.archive.org/web/20140130143815/http://www.rbnn.com/cql/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Lewis Stiller](https://dblp.uni-trier.de/pers/hd/s/Stiller:Lewis)
 
 **[Up one level](People "People")**
 

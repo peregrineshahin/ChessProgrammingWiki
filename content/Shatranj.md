@@ -63,8 +63,8 @@ the Arabic and Persian precurser of [Western Chess](Chess "Chess") and one succe
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WinBoard 4.7 - Shatranj, the Arabic precurser of modern Chess](http://hgm.nubati.net/) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Engine Communication Protocol - 8. Commands from xboard to the engine - variant shatranj](http://home.hccnet.nl/h.g.muller/engine-intf.html#8)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WinBoard 4.7 - Shatranj, the Arabic precurser of modern Chess](http://hgm.nubati.net/) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Engine Communication Protocol - 8. Commands from xboard to the engine - variant shatranj](http://home.hccnet.nl/h.g.muller/engine-intf.html#8)
 
 **[Up one Level](Games "Games")**
 

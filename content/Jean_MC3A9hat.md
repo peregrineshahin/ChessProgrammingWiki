@@ -42,11 +42,11 @@ In 2009, Jean Méhat and [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jean Méhat Home Page](http://www.ai.univ-paris8.fr/%7Ejm/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [General Game Playing Competition 2009](http://www.ru.is/faculty/yngvi/GIGA09/ggpc2009.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Jean Méhat, [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2008**). *Ary: A Program for General Game Playing*. [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/poster2008.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2009**). *Nested Monte-Carlo Search*. [IJCAI 2009](Conferences#IJCAI2009 "Conferences"), [pdf](https://www.lamsade.dauphine.fr/%7Ecazenave/papers/nested.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Jean Méhat](https://dblp.uni-trier.de/pers/hd/m/M=eacute=hat:Jean.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jean Méhat Home Page](http://www.ai.univ-paris8.fr/%7Ejm/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [General Game Playing Competition 2009](http://www.ru.is/faculty/yngvi/GIGA09/ggpc2009.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Jean Méhat, [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2008**). *Ary: A Program for General Game Playing*. [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/poster2008.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave") (**2009**). *Nested Monte-Carlo Search*. [IJCAI 2009](Conferences#IJCAI2009 "Conferences"), [pdf](https://www.lamsade.dauphine.fr/%7Ecazenave/papers/nested.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Jean Méhat](https://dblp.uni-trier.de/pers/hd/m/M=eacute=hat:Jean.html)
 
 **[Up one level](People "People")**
 

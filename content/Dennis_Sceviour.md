@@ -56,8 +56,8 @@ a Canadian avocational computer chess programmer and author of the [Chess Engine
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Schooner Version 1.4](http://www.talkchess.com/forum/viewtopic.php?t=57311) by Dennis Sceviour, [CCC](CCC "CCC"), August 19, 2015
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Features - Schooner Chess](https://sites.google.com/site/schoonerchess/features)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Schooner Version 1.4](http://www.talkchess.com/forum/viewtopic.php?t=57311) by Dennis Sceviour, [CCC](CCC "CCC"), August 19, 2015
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Features - Schooner Chess](https://sites.google.com/site/schoonerchess/features)
 
 **[Up one level](People "People")**
 

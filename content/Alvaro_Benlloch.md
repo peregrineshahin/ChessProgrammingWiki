@@ -17,12 +17,12 @@ a Spanish [Correspondence Chess](https://en.wikipedia.org/wiki/Correspondence_ch
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [(IM)Alvaro Benlloch Guirau | postalchess](https://postalchess.wordpress.com/2011/09/20/imalvaro-benlloch-guirau/) (Spanish)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICCF Player Details - SIM Benlloch Guirau, Alvaro (2429)](https://www.iccf.com/PlayerDetails.aspx?id=160689)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alvaro Benlloch Guirau | LinkedIn](https://www.linkedin.com/pub/alvaro-benlloch-guirau/42/95/564)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Josep Parés](Natalia_Par%C3%A9s "Natalia Parés"), [Teresa Canela](Teresa_Canela "Teresa Canela") (**1993**). *Report on the 1st Spanish Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> various [ANACA](ANACA "ANACA") articles under Historia
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [(IM)Alvaro Benlloch Guirau | postalchess](https://postalchess.wordpress.com/2011/09/20/imalvaro-benlloch-guirau/) (Spanish)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICCF Player Details - SIM Benlloch Guirau, Alvaro (2429)](https://www.iccf.com/PlayerDetails.aspx?id=160689)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alvaro Benlloch Guirau | LinkedIn](https://www.linkedin.com/pub/alvaro-benlloch-guirau/42/95/564)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Josep Parés](Natalia_Par%C3%A9s "Natalia Parés"), [Teresa Canela](Teresa_Canela "Teresa Canela") (**1993**). *Report on the 1st Spanish Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> various [ANACA](ANACA "ANACA") articles under Historia
 
 **[Up one level](People "People")**
 

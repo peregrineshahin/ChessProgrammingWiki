@@ -85,8 +85,8 @@ Games and short analyze on Lichess.org : [game 1](https://fr.lichess.org/Ds9giS
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Vaeshartelt - Kasteel Vaeshartelt](http://www.vaeshartelt.nl/vaeshartelt/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Information about Kasteel Vaeshartelt](http://www.hoteliers.com/maastricht/kasteel-vaeshartelt/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Vaeshartelt - Kasteel Vaeshartelt](http://www.vaeshartelt.nl/vaeshartelt/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Information about Kasteel Vaeshartelt](http://www.hoteliers.com/maastricht/kasteel-vaeshartelt/)
 
 **[Up one Level](Conferences "Conferences")**
 

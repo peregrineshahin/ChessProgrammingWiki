@@ -54,13 +54,13 @@ a low-cost [home computer](https://en.wikipedia.org/wiki/Home_computer) develope
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The Sinclair ZX81, a hobbyist home computer released in the UK in 1981, [photo](https://commons.wikimedia.org/wiki/File:Sinclair-ZX81.png) by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos), January 31, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Assembly Listing of the Operating System of the Sinclair ZX81](http://www.wearmouth.demon.co.uk/zx81.htm) - THE 'SAVE COMMAND' ROUTINE, THE 'LOAD COMMAND' ROUTINE
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ZX81 from Wikipedia](https://en.wikipedia.org/wiki/ZX81)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Assembly Listing of the Operating System of the Sinclair ZX81](http://www.wearmouth.demon.co.uk/zx81.htm) - THE 'NON MASKABLE INTERRUPT' ROUTINE
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ZX81 from Wikipedia](https://en.wikipedia.org/wiki/ZX81)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Stuart Nicholls](http://yourcomputeronline.wordpress.com/tag/stuart-nicholls/page/3/) (**1982**). *[ZX-81 Games Writing](http://yourcomputeronline.wordpress.com/2012/09/22/zx-81-games-writing/)*. [Your Computer](Your_Computer "Your Computer"), [November 1982](http://yourcomputeronline.wordpress.com/2011/11/13/november-1982-contents-and-editorial/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [David Horne](David_Horne "David Horne") (**1982**). *Chess in 1K*. [Your Computer](Your_Computer "Your Computer"), December 1982
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The Sinclair ZX81, a hobbyist home computer released in the UK in 1981, [photo](https://commons.wikimedia.org/wiki/File:Sinclair-ZX81.png) by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos), January 31, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Assembly Listing of the Operating System of the Sinclair ZX81](http://www.wearmouth.demon.co.uk/zx81.htm) - THE 'SAVE COMMAND' ROUTINE, THE 'LOAD COMMAND' ROUTINE
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ZX81 from Wikipedia](https://en.wikipedia.org/wiki/ZX81)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Assembly Listing of the Operating System of the Sinclair ZX81](http://www.wearmouth.demon.co.uk/zx81.htm) - THE 'NON MASKABLE INTERRUPT' ROUTINE
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ZX81 from Wikipedia](https://en.wikipedia.org/wiki/ZX81)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Stuart Nicholls](http://yourcomputeronline.wordpress.com/tag/stuart-nicholls/page/3/) (**1982**). *[ZX-81 Games Writing](http://yourcomputeronline.wordpress.com/2012/09/22/zx-81-games-writing/)*. [Your Computer](Your_Computer "Your Computer"), [November 1982](http://yourcomputeronline.wordpress.com/2011/11/13/november-1982-contents-and-editorial/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [David Horne](David_Horne "David Horne") (**1982**). *Chess in 1K*. [Your Computer](Your_Computer "Your Computer"), December 1982
 
 **[Up one Level](Hardware "Hardware")**
 

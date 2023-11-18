@@ -64,11 +64,11 @@ a Swedish computer scientist and chess programmer. He is author of [MLChess](MLC
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [HP48 Machine Language - A Journey to the Center of the HP48 S / SX](http://www.courbis.com/HP48-Machine-Language-A-Journey-to,134.html) by [Paul Courbis](https://en.wikipedia.org/wiki/Paul_Courbis)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MLChess V1.01](https://groups.google.com/d/msg/comp.sys.hp48/FWmYmytpmwg/R5mt8DCZlHcJ) by Peter Österlund, [comp.sys.hp48](https://groups.google.com/forum/#!forum/comp.sys.hp48), December 17, 1995
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MLChess.txt V1.14](http://hem.bredband.net/petero2b/mlchess/MLChess.txt)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DroidFish - Strong chess program for the Android platform](http://hem.bredband.net/petero2b/droidfish/index.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [New chess engine: Texel](http://www.talkchess.com/forum/viewtopic.php?t=42999) by Peter Österlund, [CCC](CCC "CCC"), March 24, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [HP48 Machine Language - A Journey to the Center of the HP48 S / SX](http://www.courbis.com/HP48-Machine-Language-A-Journey-to,134.html) by [Paul Courbis](https://en.wikipedia.org/wiki/Paul_Courbis)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MLChess V1.01](https://groups.google.com/d/msg/comp.sys.hp48/FWmYmytpmwg/R5mt8DCZlHcJ) by Peter Österlund, [comp.sys.hp48](https://groups.google.com/forum/#!forum/comp.sys.hp48), December 17, 1995
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MLChess.txt V1.14](http://hem.bredband.net/petero2b/mlchess/MLChess.txt)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DroidFish - Strong chess program for the Android platform](http://hem.bredband.net/petero2b/droidfish/index.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [New chess engine: Texel](http://www.talkchess.com/forum/viewtopic.php?t=42999) by Peter Österlund, [CCC](CCC "CCC"), March 24, 2012
 
 **[Up one level](People "People")**
 

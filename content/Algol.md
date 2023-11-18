@@ -61,9 +61,9 @@ A boolean procedure in Algol W from the chess program [Awit](Awit "Awit") by [To
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Eclipsing binary star animation, created by [Stanlekub](https://commons.wikimedia.org/wiki/User:Stanlekub) with [Blender](<https://en.wikipedia.org/wiki/Blender_(software)>) and the [GIMP](https://en.wikipedia.org/wiki/GIMP), [Algol (Stern) Wikipedia.de](<https://de.wikipedia.org/wiki/Algol_(Stern)#Bedeckungsver%C3%A4nderlicher_Stern>), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Algol W Language Description](http://webdocs.cs.ualberta.ca/%7Etony/Public/Awit-Wita-ComputerChess/AlgolwSupport/algolw.pdf) (pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Awit Source code in Algol W](http://webdocs.cs.ualberta.ca/%7Etony/Public/Awit-Wita-ComputerChess/AlgolwSupport/awit.pdf) by [Tony Marsland](Tony_Marsland "Tony Marsland") (pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Eclipsing binary star animation, created by [Stanlekub](https://commons.wikimedia.org/wiki/User:Stanlekub) with [Blender](<https://en.wikipedia.org/wiki/Blender_(software)>) and the [GIMP](https://en.wikipedia.org/wiki/GIMP), [Algol (Stern) Wikipedia.de](<https://de.wikipedia.org/wiki/Algol_(Stern)#Bedeckungsver%C3%A4nderlicher_Stern>), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Algol W Language Description](http://webdocs.cs.ualberta.ca/%7Etony/Public/Awit-Wita-ComputerChess/AlgolwSupport/algolw.pdf) (pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Awit Source code in Algol W](http://webdocs.cs.ualberta.ca/%7Etony/Public/Awit-Wita-ComputerChess/AlgolwSupport/awit.pdf) by [Tony Marsland](Tony_Marsland "Tony Marsland") (pdf)
 
 **[Up one Level](Languages "Languages")**
 

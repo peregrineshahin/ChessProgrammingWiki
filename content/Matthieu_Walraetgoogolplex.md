@@ -34,12 +34,12 @@ a French [Go](Go "Go") player <a id="cite-note-2" href="#cite-ref-2">[2]</a> and
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [MatthieuW (Matthieu Walraet) · GitHub](https://github.com/MatthieuW)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Matthieu Walraet at Sensei's Library](http://senseis.xmp.net/?MatthieuWalraet)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Matthieu Walraet | LinkedIn](https://www.linkedin.com/in/matthieu-walraet-11401082)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Go Tournaments. Gotha](http://vannier.info/jeux/gotournaments/opengotha.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Matthieu Walraet - Wolfram Demonstrations Project](http://demonstrations.wolfram.com/author.html?author=Matthieu%20Walraet)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [longest 3x3 game](https://groups.google.com/d/msg/computer-go-archive/sTHY0pBpm0o/WB3XIwuMBgAJ) by [John Tromp](John_Tromp "John Tromp"), [Computer Go Archive](https://groups.google.com/forum/#!forum/computer-go-archive), February 22, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [MatthieuW (Matthieu Walraet) · GitHub](https://github.com/MatthieuW)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Matthieu Walraet at Sensei's Library](http://senseis.xmp.net/?MatthieuWalraet)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Matthieu Walraet | LinkedIn](https://www.linkedin.com/in/matthieu-walraet-11401082)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Go Tournaments. Gotha](http://vannier.info/jeux/gotournaments/opengotha.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Matthieu Walraet - Wolfram Demonstrations Project](http://demonstrations.wolfram.com/author.html?author=Matthieu%20Walraet)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [longest 3x3 game](https://groups.google.com/d/msg/computer-go-archive/sTHY0pBpm0o/WB3XIwuMBgAJ) by [John Tromp](John_Tromp "John Tromp"), [Computer Go Archive](https://groups.google.com/forum/#!forum/computer-go-archive), February 22, 2016
 
 **[Up one level](People "People")**
 

@@ -162,9 +162,9 @@ LOPLAS was merged into [TOPLAS](ACM#TOPLAS "ACM") in 1994.
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Association for Computing Machinery from Wikipedia](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Association for Computing Machinery](https://www.acm.org/%7C)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Listing of Turing Lectures](http://amturing.acm.org/lectures.cfm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Association for Computing Machinery from Wikipedia](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Association for Computing Machinery](https://www.acm.org/%7C)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Listing of Turing Lectures](http://amturing.acm.org/lectures.cfm)
 
 **[Up one level](Organizations "Organizations")**
 

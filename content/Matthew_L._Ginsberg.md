@@ -104,17 +104,17 @@ which works by converting a crossword to a weighted [constraint satisfaction pro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Matthew L. Ginsberg](https://www.lybrary.com/matthew-ginsberg-m-243.html) at [lybrary.com](http://www.lybrary.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Matthew L. Ginsberg](http://www.cirl.uoregon.edu/~ginsberg/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computational Intelligence Research Laboratory](http://www.cirl.uoregon.edu/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [On Time Systems, Inc.](https://www.otsys.com/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Commits · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/commits?author=mattginsberg) Commits by Matt Ginsberg
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Open Source Community Critical Of Chessbase, Fat Fritz 2](https://www.chess.com/news/view/chessbase-fat-fritz-2-stockfish-leela-chess-zero) by [Peter Doggers](Peter_Doggers "Peter Doggers"), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), February 24, 2021 » [Fat Fritz 2](Fat_Fritz#Fat_Fritz_2 "Fat Fritz")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Matthew L. Ginsberg (**1993**). *[Essentials of artificial intelligence](https://searchworks.stanford.edu/view/2746445)*. [Morgan Kaufmann Publishers](https://en.wikipedia.org/wiki/Morgan_Kaufmann_Publishers)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Matthew L. Ginsberg (**2012**). *The Crossword Solver DR.FILL*. [ICGA Journal, Vol. 35, No. 2](ICGA_Journal#35_2 "ICGA Journal")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Matthew L. Ginsberg](https://dblp.uni-trier.de/pers/hd/g/Ginsberg:Matthew_L=)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Society of Mind from Wikipedia](https://en.wikipedia.org/wiki/Society_of_Mind)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [WalkSAT from Wikipedia](https://en.wikipedia.org/wiki/WalkSAT)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Matthew L. Ginsberg](https://www.lybrary.com/matthew-ginsberg-m-243.html) at [lybrary.com](http://www.lybrary.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Matthew L. Ginsberg](http://www.cirl.uoregon.edu/~ginsberg/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computational Intelligence Research Laboratory](http://www.cirl.uoregon.edu/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [On Time Systems, Inc.](https://www.otsys.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Commits · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/commits?author=mattginsberg) Commits by Matt Ginsberg
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Open Source Community Critical Of Chessbase, Fat Fritz 2](https://www.chess.com/news/view/chessbase-fat-fritz-2-stockfish-leela-chess-zero) by [Peter Doggers](Peter_Doggers "Peter Doggers"), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), February 24, 2021 » [Fat Fritz 2](Fat_Fritz#Fat_Fritz_2 "Fat Fritz")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Matthew L. Ginsberg (**1993**). *[Essentials of artificial intelligence](https://searchworks.stanford.edu/view/2746445)*. [Morgan Kaufmann Publishers](https://en.wikipedia.org/wiki/Morgan_Kaufmann_Publishers)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Matthew L. Ginsberg (**2012**). *The Crossword Solver DR.FILL*. [ICGA Journal, Vol. 35, No. 2](ICGA_Journal#35_2 "ICGA Journal")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Matthew L. Ginsberg](https://dblp.uni-trier.de/pers/hd/g/Ginsberg:Matthew_L=)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Society of Mind from Wikipedia](https://en.wikipedia.org/wiki/Society_of_Mind)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [WalkSAT from Wikipedia](https://en.wikipedia.org/wiki/WalkSAT)
 
 **[Up one level](People "People")**
 

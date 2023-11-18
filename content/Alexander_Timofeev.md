@@ -24,10 +24,10 @@ Alexander Timofeev was president of the *Chess-Programming Association of the [U
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [A. Alexander Timofeev - Resume](http://atimopheyev.narod.ru/RESUME/Resume.HTM) (Russian)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Сайт Александра Тимофеева](http://atimopheyev.narod.ru/Frame/index.html)  (Site of Alexander Timofeev)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Alexander Timofeev (**1989**). *Report on the 1st International Chess-Computer Tournament in the USSR*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [A. Alexander Timofeev - Resume](http://atimopheyev.narod.ru/RESUME/Resume.HTM) (Russian)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Сайт Александра Тимофеева](http://atimopheyev.narod.ru/Frame/index.html)  (Site of Alexander Timofeev)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Alexander Timofeev (**1989**). *Report on the 1st International Chess-Computer Tournament in the USSR*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
 
 **[Up one level](People "People")**
 

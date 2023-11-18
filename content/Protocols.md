@@ -121,7 +121,7 @@ A **Protocol** is a [formal description](https://en.wikipedia.org/wiki/Formal_me
 
  featuring [Andy Timmons](https://en.wikipedia.org/wiki/Andy_Timmons), [Everette Harp](https://en.wikipedia.org/wiki/Everette_Harp), [Steve Weingart](https://en.wikipedia.org/wiki/Steve_Weingart), [Del Atkins](http://www.allmusic.com/artist/del-atkins-mn0000237644)
  
-**[Up one Level](Home "Home")**1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [3 interviews about engine protocols with T. Mann, R. Hyatt and M. Blume](https://www.stmintz.com/ccc/index.php?id=245615) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 15, 2002
+**[Up one Level](Home "Home")**1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [3 interviews about engine protocols with T. Mann, R. Hyatt and M. Blume](https://www.stmintz.com/ccc/index.php?id=245615) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 15, 2002
 
 
 

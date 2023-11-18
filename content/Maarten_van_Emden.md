@@ -135,22 +135,22 @@ From the team of undergrads who authored [Ribbit](Ribbit "Ribbit"), [Ron Hansen]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Biographical MHvE](http://webhome.cs.uvic.ca/%7Evanemden/bio/index.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Maarten van Emden (**1982**). *[Chess End-game Advice: a Case Study in Computer Utilisation of Knowledge](https://www.researchgate.net/publication/292104329_CHESS_END-GAME_ADVICE_A_CASE_STUDY_IN_COMPUTER_UTILISATION_OF_KNOWLEDGE)*. [Machine Intelligence 10](http://www.doc.ic.ac.uk/~shm/MI/mi10.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Robert Kowalski from Wikipedia](https://en.wikipedia.org/wiki/Robert_Kowalski)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Maarten van Emden, [Robert Kowalski](Mathematician#RKowalski "Mathematician") (**1976**). *The Semantics of Predicate Logic as a Programming Language*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 23, No. 4, [pdf](http://webhome.cs.uvic.ca/%7Evanemden/Publications/kowVE.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [I remember Donald Michie (1923 – 2007) « A Programmers Place](https://vanemden.wordpress.com/2009/06/12/i-remember-donald-michie-1923-2007/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Donald Michie](Donald_Michie "Donald Michie") (**1976**). *[AL1: a package for generating strategies from tables](http://portal.acm.org/citation.cfm?id=1045272)*. [ACM SIGART Bulletin](ACM#SIG "ACM"), No. 59
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Donald Michie](Donald_Michie "Donald Michie") (**1976**). *An Advice-Taking System for Computer Chess.* Computer Bulletin, Ser. 2, Vol. 10
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [An Introduction to Computer Chess](https://cs.uwaterloo.ca/~alopez-o/divulge/chimp.html) by [Alejandro López-Ortiz](index.php?title=Alejandro_L%C3%B3pez-Ortiz&action=edit&redlink=1 "Alejandro López-Ortiz (page does not exist)"), 1993
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Downloads MHvE](http://webhome.cs.uvic.ca/%7Evanemden/downloads.html)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [dblp: M. H. van Emden](https://dblp.uni-trier.de/pers/hd/e/Emden:M=_H=_van)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Maarten van Emden - Google Scholar Citations](https://scholar.google.com/citations?user=C2QJcnoAAAAJ&hl=en)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Quicksort from Wikipedia](https://en.wikipedia.org/wiki/Quicksort)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Quotes by Maarten van Emden](#quotes)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [David H. D. Warren](Mathematician#DHDWarren "Mathematician") (**1982**). *Higer-order extensions to prolog: are they needed?* [pdf](https://aitopics.org/download/classics:C65CF540)
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> on [Jan Eric Larsson](Jan_Eric_Larsson "Jan Eric Larsson") (**2011**). *Understanding the Turing Test*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Biographical MHvE](http://webhome.cs.uvic.ca/%7Evanemden/bio/index.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Maarten van Emden (**1982**). *[Chess End-game Advice: a Case Study in Computer Utilisation of Knowledge](https://www.researchgate.net/publication/292104329_CHESS_END-GAME_ADVICE_A_CASE_STUDY_IN_COMPUTER_UTILISATION_OF_KNOWLEDGE)*. [Machine Intelligence 10](http://www.doc.ic.ac.uk/~shm/MI/mi10.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Robert Kowalski from Wikipedia](https://en.wikipedia.org/wiki/Robert_Kowalski)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Maarten van Emden, [Robert Kowalski](Mathematician#RKowalski "Mathematician") (**1976**). *The Semantics of Predicate Logic as a Programming Language*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 23, No. 4, [pdf](http://webhome.cs.uvic.ca/%7Evanemden/Publications/kowVE.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [I remember Donald Michie (1923 – 2007) « A Programmers Place](https://vanemden.wordpress.com/2009/06/12/i-remember-donald-michie-1923-2007/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Donald Michie](Donald_Michie "Donald Michie") (**1976**). *[AL1: a package for generating strategies from tables](http://portal.acm.org/citation.cfm?id=1045272)*. [ACM SIGART Bulletin](ACM#SIG "ACM"), No. 59
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Donald Michie](Donald_Michie "Donald Michie") (**1976**). *An Advice-Taking System for Computer Chess.* Computer Bulletin, Ser. 2, Vol. 10
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [An Introduction to Computer Chess](https://cs.uwaterloo.ca/~alopez-o/divulge/chimp.html) by [Alejandro López-Ortiz](index.php?title=Alejandro_L%C3%B3pez-Ortiz&action=edit&redlink=1 "Alejandro López-Ortiz (page does not exist)"), 1993
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Downloads MHvE](http://webhome.cs.uvic.ca/%7Evanemden/downloads.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [dblp: M. H. van Emden](https://dblp.uni-trier.de/pers/hd/e/Emden:M=_H=_van)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Maarten van Emden - Google Scholar Citations](https://scholar.google.com/citations?user=C2QJcnoAAAAJ&hl=en)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Quicksort from Wikipedia](https://en.wikipedia.org/wiki/Quicksort)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Quotes by Maarten van Emden](#quotes)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [David H. D. Warren](Mathematician#DHDWarren "Mathematician") (**1982**). *Higer-order extensions to prolog: are they needed?* [pdf](https://aitopics.org/download/classics:C65CF540)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> on [Jan Eric Larsson](Jan_Eric_Larsson "Jan Eric Larsson") (**2011**). *Understanding the Turing Test*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

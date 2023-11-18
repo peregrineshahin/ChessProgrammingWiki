@@ -115,7 +115,7 @@ blackKingSafety = ( (blackKingShield - tropismToBlackKing) * whitePieceMaterial 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Adam Kujawski](Adam_Kujawski "Adam Kujawski") (**1994**). *Programowanie gry w szachy*. Masters thesis, [University of Warsaw](University_of_Warsaw "University of Warsaw"), [pdf](http://mkarasinski.pl/_cms/files/Adam%20Kujawski%20szachy.pdf) (Polish)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Adam Kujawski](Adam_Kujawski "Adam Kujawski") (**1994**). *Programowanie gry w szachy*. Masters thesis, [University of Warsaw](University_of_Warsaw "University of Warsaw"), [pdf](http://mkarasinski.pl/_cms/files/Adam%20Kujawski%20szachy.pdf) (Polish)
 
 **[Up one Level](Evaluation "Evaluation")**
 

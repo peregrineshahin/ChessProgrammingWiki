@@ -36,10 +36,10 @@ Triangulation, like any other zugzwang related motives, requires some care in [s
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Triangulation from Wikipedia](https://en.wikipedia.org/wiki/Triangulation)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Philidor Position in KQKR from Wikipedia](https://en.wikipedia.org/wiki/Philidor_position#Queen_versus_rook)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Triangulation with a rook from Wikipedia](https://en.wikipedia.org/wiki/Triangulation_%28chess%29#Triangulation_with_a_rook)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fischer versus Taimanov, fourth match game from Wikipedia](https://en.wikipedia.org/wiki/Zugzwang#Fischer_versus_Taimanov.2C_fourth_match_game)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Triangulation from Wikipedia](https://en.wikipedia.org/wiki/Triangulation)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Philidor Position in KQKR from Wikipedia](https://en.wikipedia.org/wiki/Philidor_position#Queen_versus_rook)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Triangulation with a rook from Wikipedia](https://en.wikipedia.org/wiki/Triangulation_%28chess%29#Triangulation_with_a_rook)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fischer versus Taimanov, fourth match game from Wikipedia](https://en.wikipedia.org/wiki/Zugzwang#Fischer_versus_Taimanov.2C_fourth_match_game)
 
 **[Up one Level](Tactics "Tactics")**
 

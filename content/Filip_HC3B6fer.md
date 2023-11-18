@@ -20,7 +20,7 @@ and the improved [Chess 2013](Chess_2020#2013 "Chess 2020") and [Chess 2020](Che
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess for Windows | Filip Höfer](https://www.filiphofer.com/en/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess for Windows | Filip Höfer](https://www.filiphofer.com/en/)
 
 **[Up one level](People "People")**
 

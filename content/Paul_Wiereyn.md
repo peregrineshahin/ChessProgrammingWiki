@@ -33,8 +33,8 @@ He is author of a free [Sudoku](https://en.wikipedia.org/wiki/Sudoku) program an
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Paul Wiereyn (**1985**). *Inventive Problem Solving*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Paul Wiereyn (**1985**). *Inventive Problem Solving*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

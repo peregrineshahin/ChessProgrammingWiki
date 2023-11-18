@@ -93,12 +93,12 @@ So far, [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") -
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Promotional photo](https://commons.wikimedia.org/wiki/File:Jimi_Hendrix_experience_1968.jpg) of [The Jimi Hendrix Experience](https://en.wikipedia.org/wiki/The_Jimi_Hendrix_Experience), Back is stamped November 22, 1968, [Warner](https://en.wikipedia.org/wiki/Warner_Bros._Records)/[Reprise Records](https://en.wikipedia.org/wiki/Reprise_Records)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Little Wing](https://vinc.cc/projects/littlewing.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [u64 - Rust](https://doc.rust-lang.org/std/primitive.u64.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [u64 - Rust: trailing\_zeros](https://doc.rust-lang.org/std/primitive.u64.html#method.trailing_zeros)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [u64 - Rust: count\_ones](https://doc.rust-lang.org/std/primitive.u64.html#method.count_ones)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [littlewing/attack.rs at master · vinc/littlewing · GitHub](https://github.com/vinc/littlewing/blob/master/src/attack.rs)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Promotional photo](https://commons.wikimedia.org/wiki/File:Jimi_Hendrix_experience_1968.jpg) of [The Jimi Hendrix Experience](https://en.wikipedia.org/wiki/The_Jimi_Hendrix_Experience), Back is stamped November 22, 1968, [Warner](https://en.wikipedia.org/wiki/Warner_Bros._Records)/[Reprise Records](https://en.wikipedia.org/wiki/Reprise_Records)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Little Wing](https://vinc.cc/projects/littlewing.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [u64 - Rust](https://doc.rust-lang.org/std/primitive.u64.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [u64 - Rust: trailing\_zeros](https://doc.rust-lang.org/std/primitive.u64.html#method.trailing_zeros)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [u64 - Rust: count\_ones](https://doc.rust-lang.org/std/primitive.u64.html#method.count_ones)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [littlewing/attack.rs at master · vinc/littlewing · GitHub](https://github.com/vinc/littlewing/blob/master/src/attack.rs)
 
 **[Up one level](Engines "Engines")**
 

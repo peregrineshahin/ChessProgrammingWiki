@@ -26,9 +26,9 @@ an American software developer and lead programmer of the evolutionary [checkers
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David B. Fogel](David_B._Fogel "David B. Fogel"), Timothy J. Hays, [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), [James Quon](James_Quon "James Quon") (**2004**). *[A Self-Learning Evolutionary Chess Program](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1360168)*. [Proceedings of the IEEE](IEEE#Proceedings "IEEE"), Vol. 92 No. 12, pp. 1947-1954, [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.72.4267)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David B. Fogel](David_B._Fogel "David B. Fogel"), Timothy J. Hays, [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), [James Quon](James_Quon "James Quon") (**2006**). *[The Blondie25 Chess Program Competes Against Fritz 8.0 and a Human Chess Master](https://ieeexplore.ieee.org/document/4100133)*. [IEEE Symposium on Computational Intelligence & Games](IEEE#CIG "IEEE")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Timothy J. Hays](https://dblp.uni-trier.de/pers/hd/h/Hays:Timothy_J=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David B. Fogel](David_B._Fogel "David B. Fogel"), Timothy J. Hays, [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), [James Quon](James_Quon "James Quon") (**2004**). *[A Self-Learning Evolutionary Chess Program](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1360168)*. [Proceedings of the IEEE](IEEE#Proceedings "IEEE"), Vol. 92 No. 12, pp. 1947-1954, [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.72.4267)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David B. Fogel](David_B._Fogel "David B. Fogel"), Timothy J. Hays, [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), [James Quon](James_Quon "James Quon") (**2006**). *[The Blondie25 Chess Program Competes Against Fritz 8.0 and a Human Chess Master](https://ieeexplore.ieee.org/document/4100133)*. [IEEE Symposium on Computational Intelligence & Games](IEEE#CIG "IEEE")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Timothy J. Hays](https://dblp.uni-trier.de/pers/hd/h/Hays:Timothy_J=)
 
 **[Up one level](People "People")**
 

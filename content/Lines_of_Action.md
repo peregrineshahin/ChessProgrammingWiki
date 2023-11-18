@@ -123,12 +123,12 @@ LOA winners of the [8th Computer Olympiad](8th_Computer_Olympiad#LOA "8th Comput
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The starting position of a game of Lines of Action, by [Elembis](https://en.wikipedia.org/wiki/User:Elembis), [Lines of Action from Wikipedia](https://en.wikipedia.org/wiki/Lines_of_Action)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA: Lines of Action](http://icga.leidenuniv.nl/icga/games/Loa/) by [Mark Winands](Mark_Winands "Mark Winands"), [ICGA](ICGA "ICGA")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mark Winands](Mark_Winands "Mark Winands") (**2000**). *Analysis and Implementation of Lines of Action*. M.Sc. thesis. [Universiteit Maastricht](Maastricht_University "Maastricht University"), [pdf](http://ilk.uvt.nl/icga/games/Loa/documents/Analysis%20and%20Implementation.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mind Sports Olympiad, England, August 2000](http://spaz.ca/aaron/gallery/england2000/games.html) by [Aaron Davidson](index.php?title=Aaron_Davidson&action=edit&redlink=1 "Aaron Davidson (page does not exist)")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computer Olympiad 2003 in Graz, Austria, November 25](http://www.yss-aya.com/photo/graz2003/1125/index01.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Publications - Maastricht University](https://dke.maastrichtuniversity.nl/m.winands/publications.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The starting position of a game of Lines of Action, by [Elembis](https://en.wikipedia.org/wiki/User:Elembis), [Lines of Action from Wikipedia](https://en.wikipedia.org/wiki/Lines_of_Action)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA: Lines of Action](http://icga.leidenuniv.nl/icga/games/Loa/) by [Mark Winands](Mark_Winands "Mark Winands"), [ICGA](ICGA "ICGA")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mark Winands](Mark_Winands "Mark Winands") (**2000**). *Analysis and Implementation of Lines of Action*. M.Sc. thesis. [Universiteit Maastricht](Maastricht_University "Maastricht University"), [pdf](http://ilk.uvt.nl/icga/games/Loa/documents/Analysis%20and%20Implementation.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mind Sports Olympiad, England, August 2000](http://spaz.ca/aaron/gallery/england2000/games.html) by [Aaron Davidson](index.php?title=Aaron_Davidson&action=edit&redlink=1 "Aaron Davidson (page does not exist)")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computer Olympiad 2003 in Graz, Austria, November 25](http://www.yss-aya.com/photo/graz2003/1125/index01.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Publications - Maastricht University](https://dke.maastrichtuniversity.nl/m.winands/publications.html)
 
 **[Up one Level](Games "Games")**
 

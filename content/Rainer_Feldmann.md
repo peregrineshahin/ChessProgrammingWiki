@@ -85,15 +85,15 @@ a German computer scientist, games researcher and former chess programmer. He wa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rainer Feldmann - Universität Paderborn](http://www.uni-paderborn.de/person/113/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rainer Feldmann's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=119)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Feldmann, R. (**1993**). *Game Tree Search on Massively Parallel Systems*. Ph.D. thesis, [pdf](http://wwwcs.uni-paderborn.de/fachbereich/AG/monien/PUBLICATIONS/POSTSCRIPTS/feldmann_phd.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Feldmann, R. (**1997**). *Fail-High Reductions.* [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8"), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4399933A9FAE32A9C855DED714120C66?doi=10.1.1.51.4897&rep=rep1&type=pdf) from [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.51.4897)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ein Besuch in Paderborn 1998](http://www.thorstenczub.de/Paderborn.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Rainer Feldmann](https://dblp.uni-trier.de/pers/hd/f/Feldmann:Rainer)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1989**). *Comment on Distributed Game-Tree Search*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1990**). *A Rejoinder to the Response to a Comment on Distributed Game-Tree Search*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Forschungszentrum Jülich schickt Cray T-3 zur Schachweltmeisterschaft](https://www.computerwoche.de/a/forschungszentrum-juelich-schickt-cray-t-3-zur-schachweltmeisterschaft,508177), June 09, 1999, [Computerwoche](Computerworld#Woche "Computerworld") (German) » [WCCC 1999](WCCC_1999 "WCCC 1999")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rainer Feldmann - Universität Paderborn](http://www.uni-paderborn.de/person/113/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rainer Feldmann's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=119)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Feldmann, R. (**1993**). *Game Tree Search on Massively Parallel Systems*. Ph.D. thesis, [pdf](http://wwwcs.uni-paderborn.de/fachbereich/AG/monien/PUBLICATIONS/POSTSCRIPTS/feldmann_phd.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Feldmann, R. (**1997**). *Fail-High Reductions.* [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8"), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4399933A9FAE32A9C855DED714120C66?doi=10.1.1.51.4897&rep=rep1&type=pdf) from [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.51.4897)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ein Besuch in Paderborn 1998](http://www.thorstenczub.de/Paderborn.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Rainer Feldmann](https://dblp.uni-trier.de/pers/hd/f/Feldmann:Rainer)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1989**). *Comment on Distributed Game-Tree Search*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1990**). *A Rejoinder to the Response to a Comment on Distributed Game-Tree Search*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Forschungszentrum Jülich schickt Cray T-3 zur Schachweltmeisterschaft](https://www.computerwoche.de/a/forschungszentrum-juelich-schickt-cray-t-3-zur-schachweltmeisterschaft,508177), June 09, 1999, [Computerwoche](Computerworld#Woche "Computerworld") (German) » [WCCC 1999](WCCC_1999 "WCCC 1999")
 
 **[Up one level](People "People")**
 

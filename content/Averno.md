@@ -80,11 +80,11 @@ feat. [John Du Cann](Category:John_Du_Cann "Category:John Du Cann"), [John Gusta
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Lake Avernus by [Richard Wilson](index.php?title=Category:Richard_Wilson&action=edit&redlink=1 "Category:Richard Wilson (page does not exist)") c. 1765, [National Gallery of Victoria](https://en.wikipedia.org/wiki/National_Gallery_of_Victoria), [Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Lake Avernus from Wikipedia](https://en.wikipedia.org/wiki/Lake_Avernus)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Engines written in which programming language?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50192&p=19006) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 02, 2009
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Averno](https://www.stmintz.com/ccc/index.php?id=68623) by [José Carlos](Jos%C3%A9_Carlos_Mart%C3%ADnez_Gal%C3%A1n "José Carlos Martínez Galán"), [CCC](CCC "CCC"), September 14, 1999
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Surprising performance {to me} by GLC 3 verses Comet B60](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=42034&start=1) by [Jose Carlos](Jos%C3%A9_Carlos_Mart%C3%ADnez_Gal%C3%A1n "José Carlos Martínez Galán"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 02, 2003
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [facilis descensus Averno - Wiktionary](https://en.wiktionary.org/wiki/facilis_descensus_Averno)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Lake Avernus by [Richard Wilson](index.php?title=Category:Richard_Wilson&action=edit&redlink=1 "Category:Richard Wilson (page does not exist)") c. 1765, [National Gallery of Victoria](https://en.wikipedia.org/wiki/National_Gallery_of_Victoria), [Melbourne](https://en.wikipedia.org/wiki/Melbourne), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Lake Avernus from Wikipedia](https://en.wikipedia.org/wiki/Lake_Avernus)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Engines written in which programming language?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50192&p=19006) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 02, 2009
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Averno](https://www.stmintz.com/ccc/index.php?id=68623) by [José Carlos](Jos%C3%A9_Carlos_Mart%C3%ADnez_Gal%C3%A1n "José Carlos Martínez Galán"), [CCC](CCC "CCC"), September 14, 1999
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Surprising performance {to me} by GLC 3 verses Comet B60](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=42034&start=1) by [Jose Carlos](Jos%C3%A9_Carlos_Mart%C3%ADnez_Gal%C3%A1n "José Carlos Martínez Galán"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 02, 2003
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [facilis descensus Averno - Wiktionary](https://en.wiktionary.org/wiki/facilis_descensus_Averno)
 
 **[Up one Level](Engines "Engines")**
 

@@ -52,12 +52,12 @@ an 200 Elo boost with Pesto's Evaluation Function <a id="cite-note-4" href="#cit
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: New uci engine: Rofchade](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68311&start=19) by [Ronald Friederich](Ronald_Friederich "Ronald Friederich"), [CCC](CCC "CCC"), Auguat 28, 2018
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Help with Texel's tuning](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76238&start=15) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), January 07, 2021
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Community - Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/TSCP/Community/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [little fun with TSCP](https://prodeo.actieforum.com/t252-little-fun-with-tscp) by [nescitus](Pawel_Koziol "Pawel Koziol"), [ProDeo Forum](Computer_Chess_Forums "Computer Chess Forums"), February 12, 2021
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ProDeo 3.1 - The PESTO version](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76643) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), February 19, 2021
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Community - Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/TSCP/Community/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: New uci engine: Rofchade](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68311&start=19) by [Ronald Friederich](Ronald_Friederich "Ronald Friederich"), [CCC](CCC "CCC"), Auguat 28, 2018
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Help with Texel's tuning](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76238&start=15) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), January 07, 2021
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Community - Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/TSCP/Community/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [little fun with TSCP](https://prodeo.actieforum.com/t252-little-fun-with-tscp) by [nescitus](Pawel_Koziol "Pawel Koziol"), [ProDeo Forum](Computer_Chess_Forums "Computer Chess Forums"), February 12, 2021
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ProDeo 3.1 - The PESTO version](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76643) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), February 19, 2021
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Community - Tom Kerrigan's Home Page](http://www.tckerrigan.com/Chess/TSCP/Community/)
 
 **[Up one Level](Evaluation "Evaluation")**
 

@@ -49,9 +49,9 @@ would be difficult for computers to play well, but would have rules simple enoug
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [About the Designers](http://arimaa.com/arimaa/about/designers.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Omar Syed | LinkedIn](https://www.linkedin.com/in/omarsyed1/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Arimaa - Intuitively simple ... intellectually challenging](http://arimaa.com/arimaa/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [About the Designers](http://arimaa.com/arimaa/about/designers.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Omar Syed | LinkedIn](https://www.linkedin.com/in/omarsyed1/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Arimaa - Intuitively simple ... intellectually challenging](http://arimaa.com/arimaa/)
 
 **[Up one level](People "People")**
 

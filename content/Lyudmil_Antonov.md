@@ -42,11 +42,11 @@ where he combines his professional expertise in statistics and his avocational i
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [lantonov (Lyudmil Antonov) · GitHub](https://github.com/lantonov)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lyudmil Antonov | LinkedIn](https://www.linkedin.com/in/lyudmil-antonov-64077570)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Stockfish/AUTHORS at master · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SPSA Tuner for Stockfish Chess Engine](https://github.com/zamar/spsa) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - lantonov/spsa: Modifications of SPSA](https://github.com/lantonov/spsa)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [lantonov (Lyudmil Antonov) · GitHub](https://github.com/lantonov)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lyudmil Antonov | LinkedIn](https://www.linkedin.com/in/lyudmil-antonov-64077570)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Stockfish/AUTHORS at master · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SPSA Tuner for Stockfish Chess Engine](https://github.com/zamar/spsa) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - lantonov/spsa: Modifications of SPSA](https://github.com/lantonov/spsa)
 
 **[Up one level](People "People")**
 

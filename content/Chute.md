@@ -81,9 +81,9 @@ Nxc4 26.Nxd8 Rxh4 27.Ne6 Bf4+ 28.Kg1 Bh2+ 29.Kh1 Be5+ 30.Kg1 Re8
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Michael Valenti](Michael_Valenti "Michael Valenti") (**1974**). *CHUTE I, An Easily Modifiable Chess Playing Program*. MSc. Thesis, Dept. of Electrical Engineering, [University of Toronto](University_of_Toronto "University of Toronto")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Michael Valenti](Michael_Valenti "Michael Valenti"), [Zvonko Vranesic](Zvonko_Vranesic "Zvonko Vranesic") (**1977**). *[Experiences with CHUTE](http://portal.acm.org/citation.cfm?id=810241)*. Proceedings of the 1977 annual [ACM](ACM "ACM") conference
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Toronto 1977 - Chess - Round 4 - Game 5 (ICGA Tournaments)](http://www.game-ai-forum.org/icga-tournaments/round.php?tournament=18&round=4&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Michael Valenti](Michael_Valenti "Michael Valenti") (**1974**). *CHUTE I, An Easily Modifiable Chess Playing Program*. MSc. Thesis, Dept. of Electrical Engineering, [University of Toronto](University_of_Toronto "University of Toronto")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Michael Valenti](Michael_Valenti "Michael Valenti"), [Zvonko Vranesic](Zvonko_Vranesic "Zvonko Vranesic") (**1977**). *[Experiences with CHUTE](http://portal.acm.org/citation.cfm?id=810241)*. Proceedings of the 1977 annual [ACM](ACM "ACM") conference
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Toronto 1977 - Chess - Round 4 - Game 5 (ICGA Tournaments)](http://www.game-ai-forum.org/icga-tournaments/round.php?tournament=18&round=4&id=5)
 
 **[Up one level](Engines "Engines")**
 

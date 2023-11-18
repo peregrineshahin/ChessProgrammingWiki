@@ -48,11 +48,11 @@ and later worked with [Andreas Nowatzyk](Andreas_Nowatzyk "Andreas Nowatzyk") et
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Deep Thought team with Fredkin Intermediate Prize](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 1988, Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mike Browne's Publications at ACM Portal](http://portal.acm.org/author_page.cfm?id=81100010224)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Michael C. Browne](https://dblp.uni-trier.de/pers/hd/b/Browne:Michael_C=)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Temporal logic from Wikipedia](https://en.wikipedia.org/wiki/Temporal_logic)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Kripke structure (model checking) from Wikipedia](https://en.wikipedia.org/wiki/Kripke_structure_(model_checking))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Deep Thought team with Fredkin Intermediate Prize](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 1988, Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mike Browne's Publications at ACM Portal](http://portal.acm.org/author_page.cfm?id=81100010224)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Michael C. Browne](https://dblp.uni-trier.de/pers/hd/b/Browne:Michael_C=)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Temporal logic from Wikipedia](https://en.wikipedia.org/wiki/Temporal_logic)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Kripke structure (model checking) from Wikipedia](https://en.wikipedia.org/wiki/Kripke_structure_(model_checking))
 
 **[Up one level](People "People")**
 

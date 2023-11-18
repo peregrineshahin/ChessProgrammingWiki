@@ -46,12 +46,12 @@ Daniel José Queraltó represented [Andorra](https://en.wikipedia.org/wiki/Andor
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jose Queralto, Daniel FIDE Chess Profile - Players Arbiters Trainers](http://ratings.fide.com/card.phtml?event=6900089)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jose Queralto, Daniel FIDE Chess Profile - Players Arbiters Trainers](http://ratings.fide.com/card.phtml?event=6900089)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Viquipèdia:Notes de premsa/La Viquipèdia en català convida a tothom a celebrar el desè aniversari - wikipedia.ca](http://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Notes_de_premsa/10_anys_amb_la_Viquip%C3%A8dia)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Àbac - Wikipedia.ca](http://ca.wikipedia.org/wiki/%C3%80bac)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Premi Actuació Cívica per a l’impulsor de la Viquipèdia, l’andorrà Daniel José | Diari digital d'Andorra BonDia](http://www.bondia.ad/cultura/premi-actuacio-civica-limpulsor-de-la-viquipedia-landorra-daniel-jose)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Andscacs Homepage](http://www.andscacs.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jose Queralto, Daniel FIDE Chess Profile - Players Arbiters Trainers](http://ratings.fide.com/card.phtml?event=6900089)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jose Queralto, Daniel FIDE Chess Profile - Players Arbiters Trainers](http://ratings.fide.com/card.phtml?event=6900089)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Viquipèdia:Notes de premsa/La Viquipèdia en català convida a tothom a celebrar el desè aniversari - wikipedia.ca](http://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Notes_de_premsa/10_anys_amb_la_Viquip%C3%A8dia)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Àbac - Wikipedia.ca](http://ca.wikipedia.org/wiki/%C3%80bac)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Premi Actuació Cívica per a l’impulsor de la Viquipèdia, l’andorrà Daniel José | Diari digital d'Andorra BonDia](http://www.bondia.ad/cultura/premi-actuacio-civica-limpulsor-de-la-viquipedia-landorra-daniel-jose)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Andscacs Homepage](http://www.andscacs.com/)
 
 **[Up one level](People "People")**
 

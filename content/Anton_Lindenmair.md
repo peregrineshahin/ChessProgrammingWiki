@@ -19,10 +19,10 @@ Using a [braille terminal](https://en.wikipedia.org/wiki/Refreshable_braille_dis
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Willkommen auf schachkomet.de](http://www.schachkomet.de/) - [Ein Bild von mir](http://www.schachkomet.de/jpg/bild.jpg)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Deutscher Blinden- und Sehbehinderten-Schachbund e. V.](https://www.dbsb.de/) (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [TeleSchach / 13. Blinden-Schacholympiade 2008 in Heraklion auf Kreta](http://www.teleschach.com/aktuelles/blinden-ol08.htm) (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [AliChess (UCI only!)](https://web.archive.org/web/20130818145144/http://wbec-ridderkerk.nl/html/details1/AliChess.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Willkommen auf schachkomet.de](http://www.schachkomet.de/) - [Ein Bild von mir](http://www.schachkomet.de/jpg/bild.jpg)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Deutscher Blinden- und Sehbehinderten-Schachbund e. V.](https://www.dbsb.de/) (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [TeleSchach / 13. Blinden-Schacholympiade 2008 in Heraklion auf Kreta](http://www.teleschach.com/aktuelles/blinden-ol08.htm) (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [AliChess (UCI only!)](https://web.archive.org/web/20130818145144/http://wbec-ridderkerk.nl/html/details1/AliChess.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](People "People")**
 

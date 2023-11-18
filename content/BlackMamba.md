@@ -41,10 +41,10 @@ The [Italian Computer Chess Association - G 6](G_6 "G 6") considers BlackMamba a
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Black mamba](https://en.wikipedia.org/wiki/Black_mamba) in defensive posture, photo taken by [Bill Love, Blue Chameleon Ventures](http://www.bluechameleon.org/Reptile%20&%20Amphibian%20Photography.htm), January 05, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [BlackMamba chess engine](https://sites.google.com/site/mdannib/home)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Black Mamba](http://www.g-sei.org/black-mamba/) « [G 6](G_6 "G 6")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Engines categoria free « G 6](http://www.g-sei.org/engines-categoria-free/) (Italian)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Black mamba](https://en.wikipedia.org/wiki/Black_mamba) in defensive posture, photo taken by [Bill Love, Blue Chameleon Ventures](http://www.bluechameleon.org/Reptile%20&%20Amphibian%20Photography.htm), January 05, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [BlackMamba chess engine](https://sites.google.com/site/mdannib/home)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Black Mamba](http://www.g-sei.org/black-mamba/) « [G 6](G_6 "G 6")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Engines categoria free « G 6](http://www.g-sei.org/engines-categoria-free/) (Italian)
 
 **[Up one Level](Engines "Engines")**
 

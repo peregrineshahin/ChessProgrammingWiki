@@ -45,9 +45,9 @@ Atak had its over the board debut at the [1st Polish Computer Chess Championship
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Index of /chess/engines/Norbert's collection/Atak (Compilation)/v2.4 (standalone application)/atak_gui/Atak_GUI](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Atak%20%28Compilation%29/v2.4%20%28standalone%20application%29/atak_gui/Atak_GUI/) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner") hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Image from (as of July 2019 no longer available) Polski Związek Szachowy - oficjalna strona - 3.1. Program "Atak" Mateusza Łuksika wygrał IX Międzynarodowe Mistrzostwa Polski Programów Komputerowych (Polish)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> PGN from [9.Mistrzostwa Polski Programów Szachowych 2010](http://www.chessarbiter.com/turnieje/2010/ti_28/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Index of /chess/engines/Norbert's collection/Atak (Compilation)/v2.4 (standalone application)/atak_gui/Atak_GUI](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Atak%20%28Compilation%29/v2.4%20%28standalone%20application%29/atak_gui/Atak_GUI/) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner") hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Image from (as of July 2019 no longer available) Polski Związek Szachowy - oficjalna strona - 3.1. Program "Atak" Mateusza Łuksika wygrał IX Międzynarodowe Mistrzostwa Polski Programów Komputerowych (Polish)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> PGN from [9.Mistrzostwa Polski Programów Szachowych 2010](http://www.chessarbiter.com/turnieje/2010/ti_28/index.html)
 
 **[Up one Level](Engines "Engines")**
 

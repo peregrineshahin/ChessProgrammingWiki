@@ -73,7 +73,7 @@ This page serves as a quick reference for those who look for ideas about evaluat
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Queen wandering, was: Crafty 14,9](https://www.stmintz.com/ccc/index.php?id=18371) by [Roland Pfister](Roland_Pfister "Roland Pfister"), [CCC](CCC "CCC"), May 11, 1998
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Queen wandering, was: Crafty 14,9](https://www.stmintz.com/ccc/index.php?id=18371) by [Roland Pfister](Roland_Pfister "Roland Pfister"), [CCC](CCC "CCC"), May 11, 1998
 
 **[Up one Level](Evaluation "Evaluation")**
 

@@ -43,9 +43,9 @@ an Austrian computer chess periodical published in 1993 and 1994 in German langu
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zeitschrift des Wiener Schachcomputer-Clubs e.V. 5 Hefte: Amazon.de](https://www.amazon.de/Zeitschrift-Wiener-Schachcomputer-Clubs-e-V-Hefte/dp/B005E45R0A)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Braille from Wikipedia](https://en.wikipedia.org/wiki/Braille)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Socratic method from Wikipedia](https://en.wikipedia.org/wiki/Socratic_method)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zeitschrift des Wiener Schachcomputer-Clubs e.V. 5 Hefte: Amazon.de](https://www.amazon.de/Zeitschrift-Wiener-Schachcomputer-Clubs-e-V-Hefte/dp/B005E45R0A)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Braille from Wikipedia](https://en.wikipedia.org/wiki/Braille)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Socratic method from Wikipedia](https://en.wikipedia.org/wiki/Socratic_method)
 
 **[Up one Level](Periodical "Periodical")**
 

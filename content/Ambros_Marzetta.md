@@ -23,10 +23,10 @@ a Swiss computer scientist, and former member of [Jürg Nievergelt's](J%C3%BCrg_
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Ambros Marzetta (**1998**). *ZRAM: a library of parallel search algorithms and its use in enumeration and combinatorial optimization*. Ph.D. thesis, [ETH Zurich](ETH_Zurich "ETH Zurich")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [zram](https://www.cs.unb.ca/~bremner/software/zram/) hosted by [David Bremner](http://www.cs.unb.ca/~bremner/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Ambros Marzetta](https://dblp.uni-trier.de/pers/hd/m/Marzetta:Ambros)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Ambros Marzetta (**1998**). *ZRAM: a library of parallel search algorithms and its use in enumeration and combinatorial optimization*. Ph.D. thesis, [ETH Zurich](ETH_Zurich "ETH Zurich")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [zram](https://www.cs.unb.ca/~bremner/software/zram/) hosted by [David Bremner](http://www.cs.unb.ca/~bremner/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Ambros Marzetta](https://dblp.uni-trier.de/pers/hd/m/Marzetta:Ambros)
 
 **[Up one level](People "People")**
 

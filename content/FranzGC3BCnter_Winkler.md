@@ -41,15 +41,15 @@ and [philosophy of time](https://en.wikipedia.org/wiki/Philosophy_of_space_and_t
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Franz-Günter Winkler - homepage](http://members.aon.at/fgwinkler/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cognitive Science and Artificial Intelligence](http://members.aon.at/fgwinkler/cognition.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Euclidean Interpretation of Relativity Theory](http://members.aon.at/fgwinkler/relativity.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Spacetime Holism](http://members.aon.at/fgwinkler/holism.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Philosophy of Time](http://members.aon.at/fgwinkler/time.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Philosophy of Mind](http://members.aon.at/fgwinkler/consciousness.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Franz-Günter Winkler (**2004**). *[Spacetime Holism - A Fundamental Approach to the Representation Problem in Cognitive Science](http://repositum.tuwien.ac.at/obvutwhs/content/titleinfo/1562461?lang=en)*. Ph.D. thesis, [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology"), [pdf](http://www.ub.tuwien.ac.at/diss/AC04222135.pdf)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Franz-Günter Winkler - Publications](http://members.aon.at/fgwinkler/publications.html)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Franz-Günter Winkler](https://dblp.uni-trier.de/pers/hd/w/Winkler:Franz=G=uuml=nter)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Franz-Günter Winkler - homepage](http://members.aon.at/fgwinkler/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cognitive Science and Artificial Intelligence](http://members.aon.at/fgwinkler/cognition.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Euclidean Interpretation of Relativity Theory](http://members.aon.at/fgwinkler/relativity.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Spacetime Holism](http://members.aon.at/fgwinkler/holism.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Philosophy of Time](http://members.aon.at/fgwinkler/time.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Philosophy of Mind](http://members.aon.at/fgwinkler/consciousness.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> Franz-Günter Winkler (**2004**). *[Spacetime Holism - A Fundamental Approach to the Representation Problem in Cognitive Science](http://repositum.tuwien.ac.at/obvutwhs/content/titleinfo/1562461?lang=en)*. Ph.D. thesis, [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology"), [pdf](http://www.ub.tuwien.ac.at/diss/AC04222135.pdf)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Franz-Günter Winkler - Publications](http://members.aon.at/fgwinkler/publications.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Franz-Günter Winkler](https://dblp.uni-trier.de/pers/hd/w/Winkler:Franz=G=uuml=nter)
 
 **[Up one level](People "People")**
 

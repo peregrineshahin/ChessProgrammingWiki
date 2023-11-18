@@ -20,11 +20,11 @@ a German mathematician, computer scientist and early chess programmer. Along wit
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [So lernte der Computer Schachspielen](http://www.computerwoche.de/a/so-lernte-der-computer-schachspielen,1195039), February 17, 1978, [Computerwoche](Computerworld#Woche "Computerworld") 8/1978 (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](http://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Mathematics Genealogy Project - Hans-Jochen Schneider](http://genealogy.math.ndsu.nodak.edu/id.php?id=53390)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1983**). *Computerschaak, Schaakwereld en Kunstmatige Intelligentie*. Ph.D. thesis, [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology"). Academic Service, The Hague. ISBN 90 62 33 093 2 (Dutch) 2.2.15. Het Fischer-Schneider-programma
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Hans-Jochen Schneider](https://dblp.uni-trier.de/pers/hd/s/Schneider:Hans=Jochen)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [So lernte der Computer Schachspielen](http://www.computerwoche.de/a/so-lernte-der-computer-schachspielen,1195039), February 17, 1978, [Computerwoche](Computerworld#Woche "Computerworld") 8/1978 (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](http://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Mathematics Genealogy Project - Hans-Jochen Schneider](http://genealogy.math.ndsu.nodak.edu/id.php?id=53390)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1983**). *Computerschaak, Schaakwereld en Kunstmatige Intelligentie*. Ph.D. thesis, [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology"). Academic Service, The Hague. ISBN 90 62 33 093 2 (Dutch) 2.2.15. Het Fischer-Schneider-programma
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Hans-Jochen Schneider](https://dblp.uni-trier.de/pers/hd/s/Schneider:Hans=Jochen)
 
 **[Up one level](People "People")**
 

@@ -101,11 +101,11 @@ a [wargame](https://en.wikipedia.org/wiki/War_Game) based [chess variant](https:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [H. G. Wells](Mathematician#HGWells "Mathematician") playing a [wargame](https://en.wikipedia.org/wiki/Wargaming): This illustration was first published in [The Illustrated London News](https://en.wikipedia.org/wiki/The_Illustrated_London_News), January 25, 1913, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Little Wars from Wikipedia](https://en.wikipedia.org/wiki/Little_Wars)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICC Help: Kriegspiel](http://www.chessclub.com/help/Kriegspiel)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2011**). *Review: The Dark Side of the Board: Advances in Chess Kriegspiel*. [ICGA Journal, Vol. 34, No. 3](ICGA_Journal#34_3 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Les Grandes Misères de la guerre from Wikipedia](https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Thirty Years' War from Wikipedia](https://en.wikipedia.org/wiki/Thirty_Years%27_War)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [H. G. Wells](Mathematician#HGWells "Mathematician") playing a [wargame](https://en.wikipedia.org/wiki/Wargaming): This illustration was first published in [The Illustrated London News](https://en.wikipedia.org/wiki/The_Illustrated_London_News), January 25, 1913, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Little Wars from Wikipedia](https://en.wikipedia.org/wiki/Little_Wars)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICC Help: Kriegspiel](http://www.chessclub.com/help/Kriegspiel)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2011**). *Review: The Dark Side of the Board: Advances in Chess Kriegspiel*. [ICGA Journal, Vol. 34, No. 3](ICGA_Journal#34_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Les Grandes Misères de la guerre from Wikipedia](https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Thirty Years' War from Wikipedia](https://en.wikipedia.org/wiki/Thirty_Years%27_War)
 
 **[Up one Level](Games "Games")**
 

@@ -50,8 +50,8 @@ Nova Chess is hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Int
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Screenshot from [Nova Chess : Thomas Starke : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/NovaChessV1.121996ThomasStarkeStrategyChess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nova Chess : Thomas Starke : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/NovaChessV1.121996ThomasStarkeStrategyChess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Screenshot from [Nova Chess : Thomas Starke : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/NovaChessV1.121996ThomasStarkeStrategyChess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nova Chess : Thomas Starke : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/NovaChessV1.121996ThomasStarkeStrategyChess)
 
 **[Up one level](Engines "Engines")**
 

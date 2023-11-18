@@ -13,8 +13,8 @@ The [Chinese Chess](Chinese_Chess "Chinese Chess") (Xiangqi) board is a grid of 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Xiangqi board in the [Chinese Garden](https://commons.wikimedia.org/wiki/Category:Chinese_Garden_Bochum) [Qian Yuan](https://www.ruhr-uni-bochum.de/cgev/) of the [Botanical Garden](https://en.wikipedia.org/wiki/Botanical_Garden_of_Ruhr_University_Bochum) of [Ruhr University Bochum](https://en.wikipedia.org/wiki/Ruhr_University_Bochum), Image by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 07, 2016
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zhang Zhenshan](http://www.dcva.de/bucher/%E7%94%BB%E8%B0%88%E6%BD%9C%E5%9B%AD-qian-yuan-chinesische-gartenkunst-in-bildern-und-texten/ueber-den-autor/) (**2015**). *[Qian Yuan - Chinesische Gartenkunst in Bochum](https://omp.ub.rub.de/index.php/rub/catalog/book/58)*. DOI:10.13154/RUB.58.61
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Xiangqi board in the [Chinese Garden](https://commons.wikimedia.org/wiki/Category:Chinese_Garden_Bochum) [Qian Yuan](https://www.ruhr-uni-bochum.de/cgev/) of the [Botanical Garden](https://en.wikipedia.org/wiki/Botanical_Garden_of_Ruhr_University_Bochum) of [Ruhr University Bochum](https://en.wikipedia.org/wiki/Ruhr_University_Bochum), Image by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 07, 2016
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zhang Zhenshan](http://www.dcva.de/bucher/%E7%94%BB%E8%B0%88%E6%BD%9C%E5%9B%AD-qian-yuan-chinesische-gartenkunst-in-bildern-und-texten/ueber-den-autor/) (**2015**). *[Qian Yuan - Chinesische Gartenkunst in Bochum](https://omp.ub.rub.de/index.php/rub/catalog/book/58)*. DOI:10.13154/RUB.58.61
 
 **[Up one Level](Chinese_Chess "Chinese Chess")**
 

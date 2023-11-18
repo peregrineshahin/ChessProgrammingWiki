@@ -28,11 +28,11 @@ Alessandro Iavicoli and [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Alessandro Iavicoli at [IGT 2014](IGT_2014 "IGT 2014"), Image (cropped) from [Due giorni da protagonisti « G 6](http://www.g-sei.org/due-giorni-da-protagonisti/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ada (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Ada_%28programming_language%29)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Photo by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [PT54 Round 3](https://www.csvn.nl/index.php/nieuws/51-toernooien/813-pt54-round-3)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [AdaChess al Csvn](http://www.g-sei.org/adachess-al-csvn/), [G 6](G_6 "G 6")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Interview on g-sei](http://www.adachess.com/other/interview-on-g-sei.html), December 12, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Alessandro Iavicoli at [IGT 2014](IGT_2014 "IGT 2014"), Image (cropped) from [Due giorni da protagonisti « G 6](http://www.g-sei.org/due-giorni-da-protagonisti/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ada (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Ada_%28programming_language%29)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Photo by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [PT54 Round 3](https://www.csvn.nl/index.php/nieuws/51-toernooien/813-pt54-round-3)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [AdaChess al Csvn](http://www.g-sei.org/adachess-al-csvn/), [G 6](G_6 "G 6")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Interview on g-sei](http://www.adachess.com/other/interview-on-g-sei.html), December 12, 2018
 
 **[Up one level](People "People")**
 

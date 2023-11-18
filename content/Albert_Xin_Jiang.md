@@ -38,10 +38,10 @@ In his 2003 thesis *Implementation of Multi-ProbCut in Chess*, Albert Xin Jiang 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Albert Xin Jiang - UBC homepage](http://www.cs.ubc.ca/%7Ejiang/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Albert Xin Jiang (**2003**). *Implementation of Multi-ProbCut in Chess*. [pdf](https://www.cs.ubc.ca/~jiang/papers/thesis.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Albert Xin Jiang - publications](http://www.cs.ubc.ca/%7Ejiang/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Albert Xin Jiang](https://dblp.uni-trier.de/pers/hd/j/Jiang:Albert_Xin)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Albert Xin Jiang - UBC homepage](http://www.cs.ubc.ca/%7Ejiang/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Albert Xin Jiang (**2003**). *Implementation of Multi-ProbCut in Chess*. [pdf](https://www.cs.ubc.ca/~jiang/papers/thesis.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Albert Xin Jiang - publications](http://www.cs.ubc.ca/%7Ejiang/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Albert Xin Jiang](https://dblp.uni-trier.de/pers/hd/j/Jiang:Albert_Xin)
 
 **[Up one level](People "People")**
 

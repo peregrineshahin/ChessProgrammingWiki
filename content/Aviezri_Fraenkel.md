@@ -57,12 +57,12 @@ an Israeli mathematician, computer scientist and pioneer in [combinatorial game 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A 2004 photo of Aviezri Fraenkel by photographer Douglas Wertheimer, [Aviezri Fraenkel from Wikipedia](https://en.wikipedia.org/wiki/Aviezri_Fraenkel)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Aviezri S. Fraenkel (**1961**). *Rational Approximations to Algebraic Numbers.* Dissertation, [University of California, Los Angeles](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles), advisor [Ernst Gabor Straus](Mathematician#EGStraus "Mathematician")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Mathematics Genealogy Project - Aviezri Fraenkel](http://genealogy.math.ndsu.nodak.edu/id.php?id=18990)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DBLP: Aviezri S. Fraenkel](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fraenkel:Aviezri_S=.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Sprague–Grundy theorem from Wikipedia](https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Wythoff's game from Wikipedia](https://en.wikipedia.org/wiki/Wythoff%27s_game)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A 2004 photo of Aviezri Fraenkel by photographer Douglas Wertheimer, [Aviezri Fraenkel from Wikipedia](https://en.wikipedia.org/wiki/Aviezri_Fraenkel)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Aviezri S. Fraenkel (**1961**). *Rational Approximations to Algebraic Numbers.* Dissertation, [University of California, Los Angeles](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles), advisor [Ernst Gabor Straus](Mathematician#EGStraus "Mathematician")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Mathematics Genealogy Project - Aviezri Fraenkel](http://genealogy.math.ndsu.nodak.edu/id.php?id=18990)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DBLP: Aviezri S. Fraenkel](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fraenkel:Aviezri_S=.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Sprague–Grundy theorem from Wikipedia](https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Wythoff's game from Wikipedia](https://en.wikipedia.org/wiki/Wythoff%27s_game)
 
 **[Up one level](People "People")**
 

@@ -28,8 +28,8 @@ Quickstep and Mr. Langer were disqualified from the tournament after round 7
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Richard Lang](Richard_Lang "Richard Lang") (**1989**). *The Ninth World Microcomputer Chess Championship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [David Levy](David_Levy "David Levy") (**1989**). *Disqualification at Portorož*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Richard Lang](Richard_Lang "Richard Lang") (**1989**). *The Ninth World Microcomputer Chess Championship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [David Levy](David_Levy "David Levy") (**1989**). *Disqualification at Portorož*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -456,10 +456,10 @@ bool squaresAreConnected(U64 sq1, U64 sq2, U64 path)
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Moore neighborhood from Wikipedia](https://en.wikipedia.org/wiki/Moore_neighborhood)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Thanks to Thomas Herges for pointing out a bug if kings are on the eighth rank
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Flood Fill from Wikipedia](https://en.wikipedia.org/wiki/Flood_fill)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: algorithm question](https://www.stmintz.com/ccc/index.php?id=251180.) answer by [Steffan Westcott](Steffan_Westcott "Steffan Westcott") in [CCC](CCC "CCC") September 09, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Moore neighborhood from Wikipedia](https://en.wikipedia.org/wiki/Moore_neighborhood)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Thanks to Thomas Herges for pointing out a bug if kings are on the eighth rank
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Flood Fill from Wikipedia](https://en.wikipedia.org/wiki/Flood_fill)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: algorithm question](https://www.stmintz.com/ccc/index.php?id=251180.) answer by [Steffan Westcott](Steffan_Westcott "Steffan Westcott") in [CCC](CCC "CCC") September 09, 2002
 
 **[Up one Level](Bitboards "Bitboards")**
 

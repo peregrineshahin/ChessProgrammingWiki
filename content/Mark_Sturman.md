@@ -29,10 +29,10 @@ an American chess player <a id="cite-note-2" href="#cite-ref-2">[2]</a> , chess 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mark Sturman Image](http://www.charlottechess.com/MVC-002msF.jpg) from [Charlotte Chess Club News & Views](http://www.charlottechess.com/index3-14-13.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The 2013 Statesville Open Chess Tournament: Final Results](http://www.statesvillechess.com/so2013/so2013_Xtable.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [US Chess Federation](http://archive.uschess.org/tds/tdlist.php) - List of Active TDs as of August 4, 2008
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Looking for Mark Sturman](https://groups.google.com/d/msg/rec.games.chess/xFCRAQIqvjw/OVFg2ezWYTYJ) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), July 02, 1995
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mark Sturman Image](http://www.charlottechess.com/MVC-002msF.jpg) from [Charlotte Chess Club News & Views](http://www.charlottechess.com/index3-14-13.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The 2013 Statesville Open Chess Tournament: Final Results](http://www.statesvillechess.com/so2013/so2013_Xtable.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [US Chess Federation](http://archive.uschess.org/tds/tdlist.php) - List of Active TDs as of August 4, 2008
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Looking for Mark Sturman](https://groups.google.com/d/msg/rec.games.chess/xFCRAQIqvjw/OVFg2ezWYTYJ) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), July 02, 1995
 
 **[Up one level](People "People")**
 

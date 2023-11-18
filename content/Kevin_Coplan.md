@@ -35,12 +35,12 @@ In his 1984 Ph.D. thesis from [University of Edinburgh](University_of_Edinburgh 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Kevin Coplan (**2001**). *[Synthesis of Chess and Chess-like Endgames: A Proof of Correctness](http://ilk.uvt.nl/icga/journal/contents/content24-1.htm#SYNTHESIS%20OF%20CHESS)*. [ICCA Journal, Vol. 24, No. 1](ICGA_Journal#24_1 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Kevin Coplan (**1982**). *[A Special-Purpose Machine for an Improved Search Algorithm for Deep Chess Combinations](https://www.sciencedirect.com/science/article/pii/B9780080268989500061)*. [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") (**1991**). *Experiments With the NegaC\* Search - An Alternative for Othello Endgame Search.* [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Kevin Coplan (**1984**). *[The experimental and theoretical validation of a new search algorithm with a note on the automatic generation of causal explanations](https://www.era.lib.ed.ac.uk/handle/1842/6645)*. Ph.D. thesis, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh"), [pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/6645/Coplan1984.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: K. P. Coplan](https://dblp.org/pers/hd/c/Coplan:K=_P=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Kevin Coplan (**2001**). *[Synthesis of Chess and Chess-like Endgames: A Proof of Correctness](http://ilk.uvt.nl/icga/journal/contents/content24-1.htm#SYNTHESIS%20OF%20CHESS)*. [ICCA Journal, Vol. 24, No. 1](ICGA_Journal#24_1 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Kevin Coplan (**1982**). *[A Special-Purpose Machine for an Improved Search Algorithm for Deep Chess Combinations](https://www.sciencedirect.com/science/article/pii/B9780080268989500061)*. [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") (**1991**). *Experiments With the NegaC\* Search - An Alternative for Othello Endgame Search.* [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Kevin Coplan (**1984**). *[The experimental and theoretical validation of a new search algorithm with a note on the automatic generation of causal explanations](https://www.era.lib.ed.ac.uk/handle/1842/6645)*. Ph.D. thesis, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh"), [pdf](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/6645/Coplan1984.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: K. P. Coplan](https://dblp.org/pers/hd/c/Coplan:K=_P=)
 
 **[Up one level](People "People")**
 

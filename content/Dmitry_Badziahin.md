@@ -51,10 +51,10 @@ His hobbies include chess and programming - he is author of the chess utility [K
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dzmitry Badziahin, Sydney Mathematics & Statistics](https://www.maths.usyd.edu.au/u/dzmitry/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Mathematics Genealogy Project - Dzmitry Badziahin](https://www.mathgenealogy.org/id.php?id=119094)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Dzmitry Badziahin](https://dblp.org/pid/172/0059.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hausdorff dimension from Wikipedia](https://en.wikipedia.org/wiki/Hausdorff_dimension)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dzmitry Badziahin, Sydney Mathematics & Statistics](https://www.maths.usyd.edu.au/u/dzmitry/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Mathematics Genealogy Project - Dzmitry Badziahin](https://www.mathgenealogy.org/id.php?id=119094)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Dzmitry Badziahin](https://dblp.org/pid/172/0059.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hausdorff dimension from Wikipedia](https://en.wikipedia.org/wiki/Hausdorff_dimension)
 
 **[Up one Level](People "People")**
 

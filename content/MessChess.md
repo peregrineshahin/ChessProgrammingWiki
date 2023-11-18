@@ -91,10 +91,10 @@ Rd8 42.d7 Rg5 43.Kd4 Kf8 44.Bb3 Ke7 45.Ba4 Rb8 46.Kc4 f5 47.Ra5 f6 48.Bc6 f4
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [The What-a-Mess Collection](http://www.oocities.org/ebnsteve/muirwam.html), The [WaM books](https://en.wikipedia.org/wiki/What-a-Mess#Books_list), written by [Frank Muir](https://en.wikipedia.org/wiki/Frank_Muir) and illustrated by [Joseph Wright](https://en.wikipedia.org/wiki/Joseph_Wright_(illustrator)), tell the tale of an [Afghan hound](https://en.wikipedia.org/wiki/Afghan_Hound) whose real name is Prince [Amir of Kinjan](https://en.wikipedia.org/wiki/What-a-Mess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MessChess](http://www.geocities.ws/mridulm80/messchess.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MessChess](http://www.geocities.ws/mridulm80/messchess.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Arasan in ACCA Rapid tourney (day 2)](http://www.talkchess.com/forum/viewtopic.php?t=21913) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), June 22, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [The What-a-Mess Collection](http://www.oocities.org/ebnsteve/muirwam.html), The [WaM books](https://en.wikipedia.org/wiki/What-a-Mess#Books_list), written by [Frank Muir](https://en.wikipedia.org/wiki/Frank_Muir) and illustrated by [Joseph Wright](https://en.wikipedia.org/wiki/Joseph_Wright_(illustrator)), tell the tale of an [Afghan hound](https://en.wikipedia.org/wiki/Afghan_Hound) whose real name is Prince [Amir of Kinjan](https://en.wikipedia.org/wiki/What-a-Mess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MessChess](http://www.geocities.ws/mridulm80/messchess.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MessChess](http://www.geocities.ws/mridulm80/messchess.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Arasan in ACCA Rapid tourney (day 2)](http://www.talkchess.com/forum/viewtopic.php?t=21913) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), June 22, 2008
 
 **[Up one Level](Engines "Engines")**
 

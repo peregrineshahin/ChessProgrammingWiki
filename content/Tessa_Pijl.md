@@ -39,9 +39,9 @@ a Dutch youth chess player and operator of her father's, [Richard Pijl's](Richar
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [27th Dutch Open Computer Chess Championship 2007 - Photo Gallery](http://www.csvn.nl/index.php?option=com_content&view=article&id=430%3Afotogalerij-7&catid=54%3Afotogalerij&Itemid=61&lang=en#)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [1st Programmers Tournament](http://users.telenet.be/thebaron/html/20082.html) Photos by [Richard Pijl](Richard_Pijl "Richard Pijl")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [PT48 Round 7](http://www.computerschaak.nl/index.php/nieuws/51-toernooien/704-pt48-round-7)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [27th Dutch Open Computer Chess Championship 2007 - Photo Gallery](http://www.csvn.nl/index.php?option=com_content&view=article&id=430%3Afotogalerij-7&catid=54%3Afotogalerij&Itemid=61&lang=en#)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [1st Programmers Tournament](http://users.telenet.be/thebaron/html/20082.html) Photos by [Richard Pijl](Richard_Pijl "Richard Pijl")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PT48 Round 7](http://www.computerschaak.nl/index.php/nieuws/51-toernooien/704-pt48-round-7)
 
 **[Up one level](People "People")**
 

@@ -247,8 +247,8 @@ The [alternative approach](Diagonals#TwoSquares "Diagonals"), to test whether th
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bibob](Bibob "Bibob") image by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [An undetected bug for 10 years](http://talkchess.com/forum3/viewtopic.php?f=7&t=74821) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), August 18, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bibob](Bibob "Bibob") image by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [An undetected bug for 10 years](http://talkchess.com/forum3/viewtopic.php?f=7&t=74821) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), August 18, 2020
 
 **[Up one Level](Chess "Chess")**
 

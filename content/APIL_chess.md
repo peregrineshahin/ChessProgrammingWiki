@@ -21,7 +21,7 @@ APILchess represents the board using a [16x12](Vector_Attacks#16x12 "Vector Atta
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Other - Ulf Lorenz - Fachbereich Mathematik - Technische Universität Darmstadt](http://www3.mathematik.tu-darmstadt.de/hp/optimierung/lorenz-ulf/other.html) (dead APILchess Software links)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Other - Ulf Lorenz - Fachbereich Mathematik - Technische Universität Darmstadt](http://www3.mathematik.tu-darmstadt.de/hp/optimierung/lorenz-ulf/other.html) (dead APILchess Software links)
 
 **[Up one Level](Engines "Engines")**
 

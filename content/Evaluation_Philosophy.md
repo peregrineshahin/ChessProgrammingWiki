@@ -59,7 +59,7 @@ It is better to be wrong by 10 centipawns all the time than to be completely cor
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Art of Evaluation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=135133&t=15504) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), August 2, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Art of Evaluation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=135133&t=15504) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), August 2, 2007
 
 **[Up One Level](Evaluation "Evaluation")**
 

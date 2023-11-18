@@ -32,10 +32,10 @@ he is author of the [Chess Engine Communication Protocol](Chess_Engine_Communica
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Neels Groenewald - LinkedIn](https://www.linkedin.com/in/neels-groenewald-15482a12/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Welcome to Mayothi](https://web.archive.org/web/20110101220826/http://www.mayothi.com/index.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), January 01, 2011)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NagaSkaki](https://web.archive.org/web/20111007181515/http://www.mayothi.com/nagaskaki.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), October 07, 2011)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [mayothi.com](https://web.archive.org/web/20110101221750/http://www.mayothi.com/forum_smf/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), January 01, 2011)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Neels Groenewald - LinkedIn](https://www.linkedin.com/in/neels-groenewald-15482a12/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Welcome to Mayothi](https://web.archive.org/web/20110101220826/http://www.mayothi.com/index.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), January 01, 2011)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NagaSkaki](https://web.archive.org/web/20111007181515/http://www.mayothi.com/nagaskaki.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), October 07, 2011)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [mayothi.com](https://web.archive.org/web/20110101221750/http://www.mayothi.com/forum_smf/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), January 01, 2011)
 
 **[Up one level](People "People")**
 

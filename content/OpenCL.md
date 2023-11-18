@@ -51,9 +51,9 @@ The OpenGL graphics API specified by Khronos Group is deprecated in favor for [V
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [OpenGL, OpenCL deprecated in favor of Metal 2 in macOS 10.14 Mojave](https://appleinsider.com/articles/18/06/04/opengl-opencl-deprecated-in-favor-of-metal-2-in-macos-1014-mojave)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [clspv](https://github.com/google/clspv) by [Google](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)") on GitHub
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Programming with OpenCL C | Writing a Data-Parallel Kernel Using OpenCL C | InformIT](http://www.informit.com/articles/article.aspx?p=1732873)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [OpenGL, OpenCL deprecated in favor of Metal 2 in macOS 10.14 Mojave](https://appleinsider.com/articles/18/06/04/opengl-opencl-deprecated-in-favor-of-metal-2-in-macos-1014-mojave)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [clspv](https://github.com/google/clspv) by [Google](index.php?title=Google&action=edit&redlink=1 "Google (page does not exist)") on GitHub
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Programming with OpenCL C | Writing a Data-Parallel Kernel Using OpenCL C | InformIT](http://www.informit.com/articles/article.aspx?p=1732873)
 
 **[Up one Level](Languages "Languages")**
 

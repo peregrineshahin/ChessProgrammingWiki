@@ -35,8 +35,8 @@ at [Chilton site, Oxfordshire](https://en.wikipedia.org/wiki/Chilton,_Oxfordshir
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Atlas Computer Laboratory, Chilton: 1961-1975](http://www.chilton-computing.org.uk/acl/home.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Atlas Computer Laboratory from Wikipedia](https://en.wikipedia.org/wiki/Atlas_Computer_Laboratory)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Atlas Computer Laboratory, Chilton: 1961-1975](http://www.chilton-computing.org.uk/acl/home.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Atlas Computer Laboratory from Wikipedia](https://en.wikipedia.org/wiki/Atlas_Computer_Laboratory)
 
 **[Up one Level](Organizations "Organizations")**
 

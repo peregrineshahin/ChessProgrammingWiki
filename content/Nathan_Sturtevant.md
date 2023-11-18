@@ -82,12 +82,12 @@ In 2006 and 2007 he worked with [BioWare](https://en.wikipedia.org/wiki/BioWare)
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nathan Sturtevant, Moving AI Lab](https://www.movingai.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Nathan Sturtevant (**2003**). *Multi-Player Games: Algorithms and Approaches*. Ph.D. thesis, [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Nathan Sturtevant @ UAlberta - Pathfinding](http://webdocs.cs.ualberta.ca/~nathanst/pathfinding.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Nathan R. Sturtevant](https://dblp.uni-trier.de/pid/18/991.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hearts from Wikipedia](https://en.wikipedia.org/wiki/Hearts)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [IDA\* from WIkipedia](https://en.wikipedia.org/wiki/IDA*)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nathan Sturtevant, Moving AI Lab](https://www.movingai.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Nathan Sturtevant (**2003**). *Multi-Player Games: Algorithms and Approaches*. Ph.D. thesis, [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Nathan Sturtevant @ UAlberta - Pathfinding](http://webdocs.cs.ualberta.ca/~nathanst/pathfinding.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Nathan R. Sturtevant](https://dblp.uni-trier.de/pid/18/991.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hearts from Wikipedia](https://en.wikipedia.org/wiki/Hearts)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [IDA\* from WIkipedia](https://en.wikipedia.org/wiki/IDA*)
 
 **[Up one level](People "People")**
 

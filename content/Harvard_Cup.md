@@ -76,8 +76,8 @@ The **Harvard Cup** Human vs. Computer Chess Challenge has been organized by [Ha
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Computer Museum, Boston from Wikipedia](https://en.wikipedia.org/wiki/The_Computer_Museum,_Boston)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1992**). *The 1992 Harvard Cup*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 3, No. 2
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Computer Museum, Boston from Wikipedia](https://en.wikipedia.org/wiki/The_Computer_Museum,_Boston)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1992**). *The 1992 Harvard Cup*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 3, No. 2
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

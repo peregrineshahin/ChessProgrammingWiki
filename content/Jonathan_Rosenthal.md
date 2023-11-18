@@ -62,11 +62,11 @@ a Swiss chess [FIDE Master](https://en.wikipedia.org/wiki/FIDE_titles#FIDE_Maste
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Carlsen macht den Hamilton - Kultur: Diverses](https://www.tagesanzeiger.ch/kultur/diverses/der-showdown-kann-beginnen/story/21199877) - [Tages-Anzeiger](https://de.wikipedia.org/wiki/Tages-Anzeiger), November 28, 2016 (German) » ticker by Jonathan Rosenthal on [WCC Game 12: Carlsen–Karjakin, ½–½](https://en.wikipedia.org/wiki/World_Chess_Championship_2016#Game_12:_Carlsen%E2%80%93Karjakin,_%C2%BD%E2%80%93%C2%BD)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rosenthal, Jonathan FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=1315684)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: On-line engine blitz tourney January](http://www.talkchess.com/forum/viewtopic.php?t=55039&start=30) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 24, 2015
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Jonathan Rosenthal (**2016**). *[Deep Learning for Go](https://www.research-collection.ethz.ch/handle/20.500.11850/156354)*. B.Sc. thesis, [ETH Zurich](ETH_Zurich "ETH Zurich")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Winter Released](http://www.talkchess.com/forum/viewtopic.php?t=66266) by Jonathan Rosenthal, [CCC](CCC "CCC"), January 08, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Carlsen macht den Hamilton - Kultur: Diverses](https://www.tagesanzeiger.ch/kultur/diverses/der-showdown-kann-beginnen/story/21199877) - [Tages-Anzeiger](https://de.wikipedia.org/wiki/Tages-Anzeiger), November 28, 2016 (German) » ticker by Jonathan Rosenthal on [WCC Game 12: Carlsen–Karjakin, ½–½](https://en.wikipedia.org/wiki/World_Chess_Championship_2016#Game_12:_Carlsen%E2%80%93Karjakin,_%C2%BD%E2%80%93%C2%BD)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rosenthal, Jonathan FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=1315684)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: On-line engine blitz tourney January](http://www.talkchess.com/forum/viewtopic.php?t=55039&start=30) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 24, 2015
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Jonathan Rosenthal (**2016**). *[Deep Learning for Go](https://www.research-collection.ethz.ch/handle/20.500.11850/156354)*. B.Sc. thesis, [ETH Zurich](ETH_Zurich "ETH Zurich")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Winter Released](http://www.talkchess.com/forum/viewtopic.php?t=66266) by Jonathan Rosenthal, [CCC](CCC "CCC"), January 08, 2018
 
 **[Up one level](People "People")**
 

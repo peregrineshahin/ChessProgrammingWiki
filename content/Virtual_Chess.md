@@ -125,12 +125,12 @@ Games on Lichess.org : [game 1](https://fr.lichess.org/fRtgbyuB) , [game 2](htt
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> This is the cover art for Virtual Chess 64. The cover art copyright is believed to belong to the distributor of the game or the publisher, [Titus Software](index.php?title=Titus&action=edit&redlink=1 "Titus (page does not exist)"), [Virtual Chess 64 from Wikipedia](https://en.wikipedia.org/wiki/Virtual_Chess_64)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Virtual Chess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=13) with [Virtua Chess](Virtua_Chess "Virtua Chess")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Virtual Chess' games](http://www.chessgames.com/perl/ezsearch.pl?search=Virtual+Chess) from [chessgames.com](http://www.chessgames.com/index.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Aegon 1997](http://www.csvn.nl/index.php?option=com_content&task=view&id=123&Itemid=50) from the [CSVN](CSVN "CSVN") site
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Virtual Chess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=13)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Titus Software](https://en.wikipedia.org/wiki/Titus_Software)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> This is the cover art for Virtual Chess 64. The cover art copyright is believed to belong to the distributor of the game or the publisher, [Titus Software](index.php?title=Titus&action=edit&redlink=1 "Titus (page does not exist)"), [Virtual Chess 64 from Wikipedia](https://en.wikipedia.org/wiki/Virtual_Chess_64)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Virtual Chess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=13) with [Virtua Chess](Virtua_Chess "Virtua Chess")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Virtual Chess' games](http://www.chessgames.com/perl/ezsearch.pl?search=Virtual+Chess) from [chessgames.com](http://www.chessgames.com/index.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Aegon 1997](http://www.csvn.nl/index.php?option=com_content&task=view&id=123&Itemid=50) from the [CSVN](CSVN "CSVN") site
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Virtual Chess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=13)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Titus Software](https://en.wikipedia.org/wiki/Titus_Software)
 
 **[Up one Level](Engines "Engines")**
 

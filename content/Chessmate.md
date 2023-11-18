@@ -39,9 +39,9 @@ Ke7 37.Ng5+ Kf8 38.Qh8# 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Piece of [BASIC](Basic "Basic") code (containing inline [6502](6502 "6502") [assembly](Assembly "Assembly")) copied from the manual, [Flickr - Photo Sharing](https://www.flickr.com/photos/34689432@N00/2829906581) by [Timitrius](https://www.flickr.com/people/34689432@N00), September 05, 2008, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [BBC BASIC from Wikipedia](https://en.wikipedia.org/wiki/BBC_BASIC)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1985**). *The Dutch Computer-Chess Championship 1985 - Nona Prima Donna*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Deelnemers NK Computerschaak 1992](http://www.xs4all.nl/%7Ebreukerd/duck/deelnemers_nk1992.html) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Piece of [BASIC](Basic "Basic") code (containing inline [6502](6502 "6502") [assembly](Assembly "Assembly")) copied from the manual, [Flickr - Photo Sharing](https://www.flickr.com/photos/34689432@N00/2829906581) by [Timitrius](https://www.flickr.com/people/34689432@N00), September 05, 2008, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [BBC BASIC from Wikipedia](https://en.wikipedia.org/wiki/BBC_BASIC)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1985**). *The Dutch Computer-Chess Championship 1985 - Nona Prima Donna*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Deelnemers NK Computerschaak 1992](http://www.xs4all.nl/%7Ebreukerd/duck/deelnemers_nk1992.html) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker")
 
 **[Up one level](Engines "Engines")**
 

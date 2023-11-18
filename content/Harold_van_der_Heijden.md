@@ -43,13 +43,13 @@ a Dutch [chess endgame study composer](Category:Chess_Composer "Category:Chess C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Harold van der Heijden from Wikipedia](https://en.wikipedia.org/wiki/Harold_van_der_Heijden)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alexander Rueb Vereniging voor SchaakEindspelStudie - Dutch-Flemish Association for Endgame Study](http://www.arves.org/arves/index.php/en/about/welcome)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Harold van der Heijden - Endgame Study Database IV](http://www.hhdbiv.nl/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Azlan Iqbal](Azlan_Iqbal "Azlan Iqbal"), Harold van der Heijden, [Matej Guid](Matej_Guid "Matej Guid") (**2010**). *Research Grant to Investigate Multi-Dimensional Aesthetic Perception using Endgame Studies*, [EG](https://en.wikipedia.org/wiki/EG_%28magazine%29), [Alexander Rueb](https://en.wikipedia.org/wiki/Alexander_Rueb) Vereniging voor Schaakeindspelstudie ([ARVES](http://www.arves.org/English/index.htm)), No. 180, Vol. XVI
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher"), [Guy Haworth](Guy_Haworth "Guy Haworth"), Harold van der Heijden (**2010**). *[Data-Mining Chess Databases](http://centaur.reading.ac.uk/17497/)*. [ICGA Journal, Vol. 33, No. 4](ICGA_Journal#33_4 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Dr. Mohammed Azlan Bin Mohamed Iqbal (Publications and Research Grants)](http://metalab.uniten.edu.my/~azlan/Research/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [A computer program to identify beauty in problems and studies](http://en.chessbase.com/home/TabId/211/PostId/4008602), [ChessBase News](ChessBase "ChessBase"), December 15, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Harold van der Heijden from Wikipedia](https://en.wikipedia.org/wiki/Harold_van_der_Heijden)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alexander Rueb Vereniging voor SchaakEindspelStudie - Dutch-Flemish Association for Endgame Study](http://www.arves.org/arves/index.php/en/about/welcome)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Harold van der Heijden - Endgame Study Database IV](http://www.hhdbiv.nl/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Azlan Iqbal](Azlan_Iqbal "Azlan Iqbal"), Harold van der Heijden, [Matej Guid](Matej_Guid "Matej Guid") (**2010**). *Research Grant to Investigate Multi-Dimensional Aesthetic Perception using Endgame Studies*, [EG](https://en.wikipedia.org/wiki/EG_%28magazine%29), [Alexander Rueb](https://en.wikipedia.org/wiki/Alexander_Rueb) Vereniging voor Schaakeindspelstudie ([ARVES](http://www.arves.org/English/index.htm)), No. 180, Vol. XVI
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher"), [Guy Haworth](Guy_Haworth "Guy Haworth"), Harold van der Heijden (**2010**). *[Data-Mining Chess Databases](http://centaur.reading.ac.uk/17497/)*. [ICGA Journal, Vol. 33, No. 4](ICGA_Journal#33_4 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Dr. Mohammed Azlan Bin Mohamed Iqbal (Publications and Research Grants)](http://metalab.uniten.edu.my/~azlan/Research/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [A computer program to identify beauty in problems and studies](http://en.chessbase.com/home/TabId/211/PostId/4008602), [ChessBase News](ChessBase "ChessBase"), December 15, 2012
 
 **[Up one level](Engines "Engines")**
 

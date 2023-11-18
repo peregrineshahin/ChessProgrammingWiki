@@ -48,11 +48,11 @@ Borko Bošković is author of the [open source engines](Category:Open_Source "Ca
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Borko Bošković - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/Borko_Bo%c5%a1kovi%c4%87)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/General_Information)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Borko Bošković (**2011**) *[Differential Evolution for the Tuning of a Chess Evaluation Function](http://labraj.uni-mb.si/en/PhD_Thesis_Defence_%28Borko_Bo%C5%A1kovi%C4%87%29)*. Ph.D. thesis
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Borko Bošković - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/Borko_Bo%c5%a1kovi%c4%87)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [DBLP: Borko Boskovic](https://dblp.uni-trier.de/pers/hd/b/Boskovic:Borko.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Borko Bošković - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/Borko_Bo%c5%a1kovi%c4%87)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/General_Information)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Borko Bošković (**2011**) *[Differential Evolution for the Tuning of a Chess Evaluation Function](http://labraj.uni-mb.si/en/PhD_Thesis_Defence_%28Borko_Bo%C5%A1kovi%C4%87%29)*. Ph.D. thesis
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Borko Bošković - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/Borko_Bo%c5%a1kovi%c4%87)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [DBLP: Borko Boskovic](https://dblp.uni-trier.de/pers/hd/b/Boskovic:Borko.html)
 
 **[Up one level](People "People")**
 

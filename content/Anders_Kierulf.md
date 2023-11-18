@@ -38,15 +38,15 @@ The **Smart Game Board**, topic of Kierulf's Ph.D. thesis, provides a [GUI](GUI 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SmartGo - Anders Kierulf](http://www.smartgo.com/anders.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Anders Kierulf (**1990**). *Smart Game Board: a Workbench for Game-Playing Programs, with Go and Othello as Case Studies*. Ph.D. thesis, [ETH Zurich](ETH_Zurich "ETH Zurich"), advisor: [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SmartGo - About](http://www.smartgo.com/about.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [James Gillogly](James_Gillogly "James Gillogly") (**1989**). *New Directions in Game-Tree Search - First Workshop Session*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Anders Kierulf, [Ken Chen](Keh-Hsun_Chen "Keh-Hsun Chen"), [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt") (**1989**). *Smart Game Board and Go Explorer: A Case Study in Software and Knowledge Engineering*. [Workshop on New Directions in Game-Tree Search](WCCC_1989#Workshop "WCCC 1989")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**1991**). *The Smart Game Board as a Tool for Game Programmers*. [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Smart Game Board](https://webdocs.cs.ualberta.ca/~mmueller/cgo/sgb.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Anders Kierulf](https://dblp.uni-trier.de/pers/hd/k/Kierulf:Anders)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SmartGo - Anders Kierulf](http://www.smartgo.com/anders.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Anders Kierulf (**1990**). *Smart Game Board: a Workbench for Game-Playing Programs, with Go and Othello as Case Studies*. Ph.D. thesis, [ETH Zurich](ETH_Zurich "ETH Zurich"), advisor: [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SmartGo - About](http://www.smartgo.com/about.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [James Gillogly](James_Gillogly "James Gillogly") (**1989**). *New Directions in Game-Tree Search - First Workshop Session*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Anders Kierulf, [Ken Chen](Keh-Hsun_Chen "Keh-Hsun Chen"), [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt") (**1989**). *Smart Game Board and Go Explorer: A Case Study in Software and Knowledge Engineering*. [Workshop on New Directions in Game-Tree Search](WCCC_1989#Workshop "WCCC 1989")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**1991**). *The Smart Game Board as a Tool for Game Programmers*. [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Smart Game Board](https://webdocs.cs.ualberta.ca/~mmueller/cgo/sgb.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Anders Kierulf](https://dblp.uni-trier.de/pers/hd/k/Kierulf:Anders)
 
 **[Up one level](People "People")**
 

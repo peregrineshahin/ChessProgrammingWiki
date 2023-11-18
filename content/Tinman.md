@@ -55,11 +55,11 @@ a didactic [open source chess engine](Category:Open_Source "Category:Open Source
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The [Tin Woodman](https://en.wikipedia.org/wiki/Tin_Woodman) as pictured by [William Wallace Denslow](https://en.wikipedia.org/wiki/William_Wallace_Denslow) in [The Wonderful Wizard of Oz](https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz) by [L. Frank Baum](https://en.wikipedia.org/wiki/L._Frank_Baum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: New engine releases 2020](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=53) by [Tony Mokonen](index.php?title=Tony_Mokonen&action=edit&redlink=1 "Tony Mokonen (page does not exist)"), [CCC](CCC "CCC"), January 26, 2020
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [tinman/attacks.rs at master · mikeleany/tinman · GitHub](https://github.com/mikeleany/tinman/blob/master/src/chess/bitboard/attacks.rs)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [tinman/mod.rs at master · mikeleany/tinman · GitHub](https://github.com/mikeleany/tinman/blob/master/src/engine/mod.rs)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [tinman/eval.rs at master · mikeleany/tinman · GitHub](https://github.com/mikeleany/tinman/blob/master/src/engine/eval.rs)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The [Tin Woodman](https://en.wikipedia.org/wiki/Tin_Woodman) as pictured by [William Wallace Denslow](https://en.wikipedia.org/wiki/William_Wallace_Denslow) in [The Wonderful Wizard of Oz](https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz) by [L. Frank Baum](https://en.wikipedia.org/wiki/L._Frank_Baum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: New engine releases 2020](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=53) by [Tony Mokonen](index.php?title=Tony_Mokonen&action=edit&redlink=1 "Tony Mokonen (page does not exist)"), [CCC](CCC "CCC"), January 26, 2020
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [tinman/attacks.rs at master · mikeleany/tinman · GitHub](https://github.com/mikeleany/tinman/blob/master/src/chess/bitboard/attacks.rs)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [tinman/mod.rs at master · mikeleany/tinman · GitHub](https://github.com/mikeleany/tinman/blob/master/src/engine/mod.rs)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [tinman/eval.rs at master · mikeleany/tinman · GitHub](https://github.com/mikeleany/tinman/blob/master/src/engine/eval.rs)
 
 **[Up one level](Engines "Engines")**
 

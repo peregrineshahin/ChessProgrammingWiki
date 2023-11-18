@@ -33,9 +33,9 @@ by Wüllenweber and Journalist [Frederic Friedel](Frederic_Friedel "Frederic Fri
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Matthias Wüllenweber at the press conference of the [German Chess Federation](https://en.wikipedia.org/wiki/German_Chess_Federation) in the [Maritim Hotel Berlin](https://de.wikipedia.org/wiki/Maritim_Hotelgesellschaft), on the occasion of [Robert von Weizsäcker's](https://en.wikipedia.org/wiki/Robert_K._von_Weizs%C3%A4cker) candidacy as [ECU](https://en.wikipedia.org/wiki/European_Chess_Union) President, Image by [Frank Hopp](https://commons.wikimedia.org/wiki/User:Frank_Hoppe), May 21, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Matthias Wüllenweber from Wikipedia.de](https://de.wikipedia.org/wiki/Matthias_W%C3%BCllenweber)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Christmas dinner on a train – meet the ChessBase team](https://en.chessbase.com/post/christmas-dinner-on-a-train-meet-the-chebase-team), [ChessBase News](ChessBase "ChessBase"), December 23, 2003
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Smudo, Vaile, Vladimir and Ludwig – when chess meets music](https://en.chessbase.com/post/smudo-vaile-vladimir-and-ludwig-when-che-meets-music), [ChessBase News](ChessBase "ChessBase"), July 23, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Matthias Wüllenweber at the press conference of the [German Chess Federation](https://en.wikipedia.org/wiki/German_Chess_Federation) in the [Maritim Hotel Berlin](https://de.wikipedia.org/wiki/Maritim_Hotelgesellschaft), on the occasion of [Robert von Weizsäcker's](https://en.wikipedia.org/wiki/Robert_K._von_Weizs%C3%A4cker) candidacy as [ECU](https://en.wikipedia.org/wiki/European_Chess_Union) President, Image by [Frank Hopp](https://commons.wikimedia.org/wiki/User:Frank_Hoppe), May 21, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Matthias Wüllenweber from Wikipedia.de](https://de.wikipedia.org/wiki/Matthias_W%C3%BCllenweber)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Christmas dinner on a train – meet the ChessBase team](https://en.chessbase.com/post/christmas-dinner-on-a-train-meet-the-chebase-team), [ChessBase News](ChessBase "ChessBase"), December 23, 2003
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Smudo, Vaile, Vladimir and Ludwig – when chess meets music](https://en.chessbase.com/post/smudo-vaile-vladimir-and-ludwig-when-che-meets-music), [ChessBase News](ChessBase "ChessBase"), July 23, 2007
 
 **[Up one level](People "People")**
 

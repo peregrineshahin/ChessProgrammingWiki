@@ -59,12 +59,12 @@ The [Philidor Software](Philidor_Software "Philidor Software") program, written 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Chess Champion Pocket Chess](http://www.chesscomputeruk.com/html/chess_champion_pocket_chess.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Champion Pocket Chess](http://www.chesscomputeruk.com/html/chess_champion_pocket_chess.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Klone](http://www.schach-computer.info/wiki/index.php/Klone) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hans-Peter Ketterling](index.php?title=Hans-Peter_Ketterling&action=edit&redlink=1 "Hans-Peter Ketterling (page does not exist)") (**1981**). *Computer auf dem Vormarsch - VI Teil*. [Europa-Rochade](http://de.wikipedia.org/wiki/Rochade_Europa), 04-1981, in [Novag & SciSys – Chess Champion Pocket Chess](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1980%20%5BD-0001%5D%20Novag%20-%20Chess%20Champion%20Pocket%20Chess%20%28Chess%20Traveller%29.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch and German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [3539-1CD 256x8 static RAM Datasheet](http://www.datasheetarchive.com/dlmain/Datasheets-8/DSA-156855.pdf) (pdf)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Other F8 games - Acetronic Chess Traveler](http://www.seanriddle.com/f8.html) by [Sean Riddle](index.php?title=Sean_Riddle&action=edit&redlink=1 "Sean Riddle (page does not exist)") - playable in [MESS](http://www.mess.org/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Chess Champion Pocket Chess](http://www.chesscomputeruk.com/html/chess_champion_pocket_chess.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Champion Pocket Chess](http://www.chesscomputeruk.com/html/chess_champion_pocket_chess.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Klone](http://www.schach-computer.info/wiki/index.php/Klone) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hans-Peter Ketterling](index.php?title=Hans-Peter_Ketterling&action=edit&redlink=1 "Hans-Peter Ketterling (page does not exist)") (**1981**). *Computer auf dem Vormarsch - VI Teil*. [Europa-Rochade](http://de.wikipedia.org/wiki/Rochade_Europa), 04-1981, in [Novag & SciSys – Chess Champion Pocket Chess](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1980%20%5BD-0001%5D%20Novag%20-%20Chess%20Champion%20Pocket%20Chess%20%28Chess%20Traveller%29.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch and German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [3539-1CD 256x8 static RAM Datasheet](http://www.datasheetarchive.com/dlmain/Datasheets-8/DSA-156855.pdf) (pdf)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Other F8 games - Acetronic Chess Traveler](http://www.seanriddle.com/f8.html) by [Sean Riddle](index.php?title=Sean_Riddle&action=edit&redlink=1 "Sean Riddle (page does not exist)") - playable in [MESS](http://www.mess.org/)
 
 **[Up one level](Engines "Engines")**
 

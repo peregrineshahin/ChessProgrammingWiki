@@ -77,27 +77,27 @@ In April 2013, Ronald de Man published his [Syzygy Bases](Syzygy_Bases "Syzygy B
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [International Mathematical Olympiad - Ronald de Man](http://www.imo-official.org/participant_r.aspx?id=2462)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> ['Programmeren hoef je niet te kunnen' - TU Delta - Weekblad van de Technische Universiteit Delft](http://www.delta.tudelft.nl/artikel/-programmeren-hoef-je-niet-te-kunnen/10155), March 16, 1995 (Dutch)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ACM Programming Contest World Finals](http://icpc.baylor.edu/past/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [gnome-libs-32bit-1.4.2-11.1.x86\_64 RPM](http://rpmfind.net/linux/RPM/opensuse/11.1/x86_64/gnome-libs-32bit-1.4.2-11.1.x86_64.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA: Losing Chess](http://ilk.uvt.nl/icga/games/losingchess/) by [Guy Haworth](Guy_Haworth "Guy Haworth")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Statistics for TrojanKnight(C)](http://www.nicklong.net/chess/atomic/mewis/trojanknight.txt)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: AEGON 97/ 1st round: HIARCS lost](http://groups.google.com/group/rec.games.chess.computer/msg/6bb58a0605f7e2f1) by Ronald de Man, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 25 1997
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [FICS Statistics - April 2004, Best Ratings - Computer List](http://poincare.matf.bg.ac.rs/~andrew/suicide/fics/en0404C.htm)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: random play](https://groups.google.com/d/msg/rec.games.chess.computer/AI3xadkLEIk/UUqnp9J3BaMJ) by Ronald de Man, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 28, 1996
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Re: computer chess "oracle" ideas...](https://groups.google.com/d/msg/rec.games.chess.computer/me7GkjsEgds/iC_ZJm5UwswJ) by Ronald de Man, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 7, 1997, see also [Re: mate threat extension/null move](https://www.stmintz.com/ccc/index.php?id=390268) by [Don Beal](Don_Beal "Don Beal"), [CCC](CCC "CCC"), October 04, 2004 » [Mate Threat Extensions](Mate_Threat_Extensions "Mate Threat Extensions"), [Null Move](Null_Move_Pruning "Null Move Pruning") and [WAC](Win_at_Chess "Win at Chess") booster
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Re: triple repetition](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/c431ac1739de871b/d8f8d6ee1b252b86) by Ronald de Man, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 27, 1997
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck") (**2002**). *The design and implementation of the Rookie 2.0 Chess Playing Program*. Masters Thesis, [pdf](http://alexandria.tue.nl/extra2/afstversl/wsk-i/kervinck2002.pdf)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Re: New 6-piece tablebases](http://www.talkchess.com/forum/viewtopic.php?t=47681&start=45) by Ronald de Man, [CCC](CCC "CCC"), April 10, 2013
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [New 6-piece tablebases](http://www.talkchess.com/forum/viewtopic.php?t=47681) by Ronald de Man, [CCC](CCC "CCC"), April 01, 2013
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [syzygy1/tb · GitHub](https://github.com/syzygy1/tb) by Ronald de Man
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [DBLP: Ronald de Man](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Man:Ronald_de.html)
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Solenoidal vector field from Wikipedia](https://en.wikipedia.org/wiki/Solenoidal_vector_field)
-18. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Coxeter group from Wikipedia](https://en.wikipedia.org/wiki/Coxeter_group)
-19. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [Metro Ethernet from Wikipedia](https://en.wikipedia.org/wiki/Metro_Ethernet)
-20. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [Randomness in move selection](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/ba5f8759ec0ce454) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 01, 1996
-21. <a id="cite-ref-21" href="#cite-note-21">[21]</a> [Victor Zakharov](Victor_Zakharov "Victor Zakharov"), [Michael G. Malkovsky](Michael_G._Malkovsky "Michael G. Malkovsky"), [Vladislav Y. Shchukin](Vladislav_Y._Shchukin "Vladislav Y. Shchukin") (**2016**). *[Compression of underdetermined data in a 7-piece chess table](http://link.springer.com/article/10.3103%2FS0278641916010076)*. [Moscow University Computational Mathematics and Cybernetics](http://www.springer.com/mathematics/journal/11968), Vol. 40, No. 1
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [International Mathematical Olympiad - Ronald de Man](http://www.imo-official.org/participant_r.aspx?id=2462)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> ['Programmeren hoef je niet te kunnen' - TU Delta - Weekblad van de Technische Universiteit Delft](http://www.delta.tudelft.nl/artikel/-programmeren-hoef-je-niet-te-kunnen/10155), March 16, 1995 (Dutch)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ACM Programming Contest World Finals](http://icpc.baylor.edu/past/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [gnome-libs-32bit-1.4.2-11.1.x86\_64 RPM](http://rpmfind.net/linux/RPM/opensuse/11.1/x86_64/gnome-libs-32bit-1.4.2-11.1.x86_64.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA: Losing Chess](http://ilk.uvt.nl/icga/games/losingchess/) by [Guy Haworth](Guy_Haworth "Guy Haworth")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Statistics for TrojanKnight(C)](http://www.nicklong.net/chess/atomic/mewis/trojanknight.txt)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: AEGON 97/ 1st round: HIARCS lost](http://groups.google.com/group/rec.games.chess.computer/msg/6bb58a0605f7e2f1) by Ronald de Man, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 25 1997
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [FICS Statistics - April 2004, Best Ratings - Computer List](http://poincare.matf.bg.ac.rs/~andrew/suicide/fics/en0404C.htm)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: random play](https://groups.google.com/d/msg/rec.games.chess.computer/AI3xadkLEIk/UUqnp9J3BaMJ) by Ronald de Man, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 28, 1996
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: computer chess "oracle" ideas...](https://groups.google.com/d/msg/rec.games.chess.computer/me7GkjsEgds/iC_ZJm5UwswJ) by Ronald de Man, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 7, 1997, see also [Re: mate threat extension/null move](https://www.stmintz.com/ccc/index.php?id=390268) by [Don Beal](Don_Beal "Don Beal"), [CCC](CCC "CCC"), October 04, 2004 » [Mate Threat Extensions](Mate_Threat_Extensions "Mate Threat Extensions"), [Null Move](Null_Move_Pruning "Null Move Pruning") and [WAC](Win_at_Chess "Win at Chess") booster
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: triple repetition](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/c431ac1739de871b/d8f8d6ee1b252b86) by Ronald de Man, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 27, 1997
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck") (**2002**). *The design and implementation of the Rookie 2.0 Chess Playing Program*. Masters Thesis, [pdf](http://alexandria.tue.nl/extra2/afstversl/wsk-i/kervinck2002.pdf)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Re: New 6-piece tablebases](http://www.talkchess.com/forum/viewtopic.php?t=47681&start=45) by Ronald de Man, [CCC](CCC "CCC"), April 10, 2013
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [New 6-piece tablebases](http://www.talkchess.com/forum/viewtopic.php?t=47681) by Ronald de Man, [CCC](CCC "CCC"), April 01, 2013
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [syzygy1/tb · GitHub](https://github.com/syzygy1/tb) by Ronald de Man
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [DBLP: Ronald de Man](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Man:Ronald_de.html)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Solenoidal vector field from Wikipedia](https://en.wikipedia.org/wiki/Solenoidal_vector_field)
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Coxeter group from Wikipedia](https://en.wikipedia.org/wiki/Coxeter_group)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Metro Ethernet from Wikipedia](https://en.wikipedia.org/wiki/Metro_Ethernet)
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Randomness in move selection](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/ba5f8759ec0ce454) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 01, 1996
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Victor Zakharov](Victor_Zakharov "Victor Zakharov"), [Michael G. Malkovsky](Michael_G._Malkovsky "Michael G. Malkovsky"), [Vladislav Y. Shchukin](Vladislav_Y._Shchukin "Vladislav Y. Shchukin") (**2016**). *[Compression of underdetermined data in a 7-piece chess table](http://link.springer.com/article/10.3103%2FS0278641916010076)*. [Moscow University Computational Mathematics and Cybernetics](http://www.springer.com/mathematics/journal/11968), Vol. 40, No. 1
 
 **[Up one level](People "People")**
 

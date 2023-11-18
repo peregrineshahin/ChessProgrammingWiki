@@ -146,15 +146,15 @@ SmarThink played various tournaments in Russia, and became Russian computer ches
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [José Ferraz de Almeida Júnior](index.php?title=Category:Jos%C3%A9_Ferraz_de_Almeida_J%C3%BAnior&action=edit&redlink=1 "Category:José Ferraz de Almeida Júnior (page does not exist)") - Girl with a Book, [São Paulo Museum of Art](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Museum_of_Art), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Thought from Wikipedia](https://en.wikipedia.org/wiki/Thought)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A way to improve PVS](http://www.talkchess.com/forum/viewtopic.php?t=29681) by [Sergei Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), September 07, 2009
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Подробнее о SmarThink](http://www.aigroup.narod.ru/detailsr.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Forward pruning and some related techniques](https://www.stmintz.com/ccc/index.php?id=352384) by [Sergei Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), March 02, 2004
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The "same threat extension" as effective way to resolve horizon problem](https://www.stmintz.com/ccc/index.php?id=318833) by [Sergei Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), October 01, 2003
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [SmarThink v1.97 is available](http://www.talkchess.com/forum/viewtopic.php?t=62563) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), December 22, 2016
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [SmarThink 1.98 is out](http://www.talkchess.com/forum/viewtopic.php?t=66464) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), January 31, 2018
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [SmarThink from Wikipedia](https://en.wikipedia.org/wiki/SmarThink)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Новости за февраль - март 2008 года, 29 февраля 2008 г.](http://www.sdchess.ru/febr_march_08.htm) from [sdchess.ru](http://www.sdchess.ru/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [José Ferraz de Almeida Júnior](index.php?title=Category:Jos%C3%A9_Ferraz_de_Almeida_J%C3%BAnior&action=edit&redlink=1 "Category:José Ferraz de Almeida Júnior (page does not exist)") - Girl with a Book, [São Paulo Museum of Art](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Museum_of_Art), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Thought from Wikipedia](https://en.wikipedia.org/wiki/Thought)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A way to improve PVS](http://www.talkchess.com/forum/viewtopic.php?t=29681) by [Sergei Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), September 07, 2009
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Подробнее о SmarThink](http://www.aigroup.narod.ru/detailsr.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Forward pruning and some related techniques](https://www.stmintz.com/ccc/index.php?id=352384) by [Sergei Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), March 02, 2004
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The "same threat extension" as effective way to resolve horizon problem](https://www.stmintz.com/ccc/index.php?id=318833) by [Sergei Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), October 01, 2003
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [SmarThink v1.97 is available](http://www.talkchess.com/forum/viewtopic.php?t=62563) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), December 22, 2016
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [SmarThink 1.98 is out](http://www.talkchess.com/forum/viewtopic.php?t=66464) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), January 31, 2018
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [SmarThink from Wikipedia](https://en.wikipedia.org/wiki/SmarThink)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Новости за февраль - март 2008 года, 29 февраля 2008 г.](http://www.sdchess.ru/febr_march_08.htm) from [sdchess.ru](http://www.sdchess.ru/)
 
 **[Up one Level](Engines "Engines")**
 

@@ -18,7 +18,7 @@ an [UCI](UCI "UCI") compatible chess engine written by [Chao Ma](Chao_Ma "Chao M
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Welcome to Cmcchess' website](https://web.archive.org/web/20130509162856/http://people.oregonstate.edu/~machao/Cmcchess_site/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Welcome to Cmcchess' website](https://web.archive.org/web/20130509162856/http://people.oregonstate.edu/~machao/Cmcchess_site/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](Engines "Engines")**
 

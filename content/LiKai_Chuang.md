@@ -30,8 +30,8 @@ a Taiwanese computer scientist affiliated with the Department of Computer Scienc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), Li-Kai Chuang, [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2013**). *[LONGCAT Wins Mahjong Tournament](http://ir.nctu.edu.tw/handle/11536/23551)*. [ICGA Journal, Vol. 36, No. 3](ICGA_Journal#36_3 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [交通大學學術集成 National Chiao Tung University](http://ir.lib.nctu.edu.tw/items-by-author?author=Chuang%2C++Li-Kai)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), Li-Kai Chuang, [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2013**). *[LONGCAT Wins Mahjong Tournament](http://ir.nctu.edu.tw/handle/11536/23551)*. [ICGA Journal, Vol. 36, No. 3](ICGA_Journal#36_3 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [交通大學學術集成 National Chiao Tung University](http://ir.lib.nctu.edu.tw/items-by-author?author=Chuang%2C++Li-Kai)
 
 **[Up one Level](People "People")**
 

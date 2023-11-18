@@ -30,8 +30,8 @@ a Moldavian born, Romanian mathematician, computer scientist and creator of the 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Viorel Darie creatorul primului program de sah pe calculator din Romania Amintiri despre robotul de sah LABIRINT 64](http://www.marketwatch.ro/articol/4372/Viorel_Darie_creatorul_primului_program_de_sah_pe_calculator_din_Romania_Amintiri_despre_robotul_de_sah_LABIRINT_64/), [Market Watch, Arhiva Revistei](http://www.marketwatch.ro/), February 26, 2009 (Romanian)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Experienţe în programarea şahului - Programul "Friendly Chess" (Şah Prietenos)](http://www.vioreldarie.ro/index.php?ToDo=Sah) (Romanian)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Viorel Darie creatorul primului program de sah pe calculator din Romania Amintiri despre robotul de sah LABIRINT 64](http://www.marketwatch.ro/articol/4372/Viorel_Darie_creatorul_primului_program_de_sah_pe_calculator_din_Romania_Amintiri_despre_robotul_de_sah_LABIRINT_64/), [Market Watch, Arhiva Revistei](http://www.marketwatch.ro/), February 26, 2009 (Romanian)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Experienţe în programarea şahului - Programul "Friendly Chess" (Şah Prietenos)](http://www.vioreldarie.ro/index.php?ToDo=Sah) (Romanian)
 
 **[Up one level](People "People")**
 

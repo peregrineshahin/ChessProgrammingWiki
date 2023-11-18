@@ -55,9 +55,9 @@ and was first published as [WinBoard engine](Category:WinBoard "Category:WinBoar
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Mate scores in the hash table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=3405#p17152) by Josué Forte, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 04, 2005
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1995**). *1994 Uniform Platform Tournament*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, No. 1, pp. 8
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Matheus](http://web.archive.org/web/20121209201403/http://wbec-ridderkerk.nl/html/details1/Matheus.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Mate scores in the hash table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=3405#p17152) by Josué Forte, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 04, 2005
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1995**). *1994 Uniform Platform Tournament*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, No. 1, pp. 8
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Matheus](http://web.archive.org/web/20121209201403/http://wbec-ridderkerk.nl/html/details1/Matheus.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

@@ -68,12 +68,12 @@ a dedicated chess computer project developed and maintained by [Jean-Francois Ro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [PicoChess](http://www.picochess.org/) by [Jean-Francois Romang](Jean-Francois_Romang "Jean-Francois Romang")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Overview - PicoChess](http://picochess.com/overview/) by [LocutusOfPenguin](index.php?title=J%C3%BCrgen_Pr%C3%A9cour&action=edit&redlink=1 "Jürgen Précour (page does not exist)")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [niklasf/python-chess · GitHub](https://github.com/niklasf/python-chess)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Free Software — PicoChess 0.24 documentation](http://docs.picochess.org/en/latest/source.html#project-licence-and-philosophy)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Usage — PicoChess 0.9 documentation - Choosing the engine](http://docs.picochess.org/en/latest/usage.html#choosing-the-engine)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [DGT Clocks : DGT 3000 (WCC in Sochi was using this clock) | | DGT Web Shop](http://www.dgtshop.nl/index.php/209/1/dgt-chess-clocks/dgt3000-3-detail)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [PicoChess](http://www.picochess.org/) by [Jean-Francois Romang](Jean-Francois_Romang "Jean-Francois Romang")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Overview - PicoChess](http://picochess.com/overview/) by [LocutusOfPenguin](index.php?title=J%C3%BCrgen_Pr%C3%A9cour&action=edit&redlink=1 "Jürgen Précour (page does not exist)")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [niklasf/python-chess · GitHub](https://github.com/niklasf/python-chess)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Free Software — PicoChess 0.24 documentation](http://docs.picochess.org/en/latest/source.html#project-licence-and-philosophy)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Usage — PicoChess 0.9 documentation - Choosing the engine](http://docs.picochess.org/en/latest/usage.html#choosing-the-engine)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [DGT Clocks : DGT 3000 (WCC in Sochi was using this clock) | | DGT Web Shop](http://www.dgtshop.nl/index.php/209/1/dgt-chess-clocks/dgt3000-3-detail)
 
 **[Up one level](Dedicated_Chess_Computers "Dedicated Chess Computers")**
 

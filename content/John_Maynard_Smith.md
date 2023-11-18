@@ -54,16 +54,16 @@ In 1973, Maynard Smith formalized a central concept in [game theory](https://en.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John Maynard Smith from Wikipedia](https://en.wikipedia.org/wiki/John_Maynard_Smith)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Evolutionary biologist John Maynard Smith dies](http://www.sussex.ac.uk/press_office/media/media399.shtml) from [University of Sussex](http://www.sussex.ac.uk/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chronology of Computing](http://www.fbi.fh-darmstadt.de/fileadmin/vmi/chronologie/index.htm) compiled by [David Singmaster](Mathematician#DSingmaster "Mathematician")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> John Maynard Smith, [Donald Michie](Donald_Michie "Donald Michie") (**1961**). *Machines that play games*. [New Scientist](https://en.wikipedia.org/wiki/New_Scientist), 12, 367-9. [google books](http://books.google.com/books?id=lo7r0zX_T0sC&lpg=PA369&dq=Machines%20that%20play%20games.%201961%2C%20New%20Scientist%2C%2012&pg=PA367#v=onepage&q&f=false)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Donald Michie](Donald_Michie "Donald Michie") (**1966**). *Game Playing and Game Learning Automata.* Advances in Programming and Non-Numerical Computation, [Leslie Fox](https://en.wikipedia.org/wiki/Leslie_Fox) (ed.), pp 183-200. Oxford, Pergamon. » Includes Appendix: *Rules of SOMAC* by John Maynard Smith
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Leslie Fox](https://en.wikipedia.org/wiki/Leslie_Fox) (**1966**). *Advances in programming and non-numerical computation*. Pergamon
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Donald Michie](Donald_Michie "Donald Michie") (**1974**). *On Machine Intelligence*. Edinburgh: University Press, ISBN 10: 085224262X, ISBN 13: 9780852242629, [abebooks.com](http://www.abebooks.com/servlet/SearchResults?isbn=085224262X), [alibris.com](http://www.alibris.com/search/books/qwork/4836304/used/On%20machine%20intelligence), [biblio.com](http://www.biblio.com/isbn/9780852242629.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> John Maynard Smith (**1982**). *[Evolution and the Theory of Games](https://en.wikipedia.org/wiki/Evolution_and_the_Theory_of_Games)*. Cambridge; New York, Cambridge University Press.
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Publications of John Maynard Smith](http://www.lifesci.sussex.ac.uk/CSE/members/jms/JMSpublications.pdf) (pdf)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> see [Swap-off](Helmut_Richter#Swapoff "Helmut Richter") by [Helmut Richter](Helmut_Richter "Helmut Richter")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John Maynard Smith from Wikipedia](https://en.wikipedia.org/wiki/John_Maynard_Smith)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Evolutionary biologist John Maynard Smith dies](http://www.sussex.ac.uk/press_office/media/media399.shtml) from [University of Sussex](http://www.sussex.ac.uk/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chronology of Computing](http://www.fbi.fh-darmstadt.de/fileadmin/vmi/chronologie/index.htm) compiled by [David Singmaster](Mathematician#DSingmaster "Mathematician")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> John Maynard Smith, [Donald Michie](Donald_Michie "Donald Michie") (**1961**). *Machines that play games*. [New Scientist](https://en.wikipedia.org/wiki/New_Scientist), 12, 367-9. [google books](http://books.google.com/books?id=lo7r0zX_T0sC&lpg=PA369&dq=Machines%20that%20play%20games.%201961%2C%20New%20Scientist%2C%2012&pg=PA367#v=onepage&q&f=false)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Donald Michie](Donald_Michie "Donald Michie") (**1966**). *Game Playing and Game Learning Automata.* Advances in Programming and Non-Numerical Computation, [Leslie Fox](https://en.wikipedia.org/wiki/Leslie_Fox) (ed.), pp 183-200. Oxford, Pergamon. » Includes Appendix: *Rules of SOMAC* by John Maynard Smith
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Leslie Fox](https://en.wikipedia.org/wiki/Leslie_Fox) (**1966**). *Advances in programming and non-numerical computation*. Pergamon
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Donald Michie](Donald_Michie "Donald Michie") (**1974**). *On Machine Intelligence*. Edinburgh: University Press, ISBN 10: 085224262X, ISBN 13: 9780852242629, [abebooks.com](http://www.abebooks.com/servlet/SearchResults?isbn=085224262X), [alibris.com](http://www.alibris.com/search/books/qwork/4836304/used/On%20machine%20intelligence), [biblio.com](http://www.biblio.com/isbn/9780852242629.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> John Maynard Smith (**1982**). *[Evolution and the Theory of Games](https://en.wikipedia.org/wiki/Evolution_and_the_Theory_of_Games)*. Cambridge; New York, Cambridge University Press.
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Publications of John Maynard Smith](http://www.lifesci.sussex.ac.uk/CSE/members/jms/JMSpublications.pdf) (pdf)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> see [Swap-off](Helmut_Richter#Swapoff "Helmut Richter") by [Helmut Richter](Helmut_Richter "Helmut Richter")
 
 **[Up one level](People "People")**
 

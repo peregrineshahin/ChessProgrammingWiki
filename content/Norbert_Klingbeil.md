@@ -25,10 +25,10 @@ a Canadian computer scientist and software professional <a id="cite-note-1" href
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alumni US | University of Alberta, Edmonton, Canada Area](https://alumnius.net/university_of_albert-796-160#id10877146)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Norbert Klingbeil (**1988**). *Search Strategies for Conspiracy Numbers*. M.Sc. thesis, [pdf](https://era.library.ualberta.ca/items/338ea21e-9cfa-4cc5-b2a8-c9b5ec93c3ad/view/31d66522-6a81-4fdf-9932-6af805a64717/ML52837.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jonathan Schaeffer: Norbert Klingbeil](https://webdocs.cs.ualberta.ca/~jonathan/PREVIOUS/Grad/klingbeil.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Norbert Klingbeil](https://dblp.uni-trier.de/pers/hd/k/Klingbeil:Norbert)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alumni US | University of Alberta, Edmonton, Canada Area](https://alumnius.net/university_of_albert-796-160#id10877146)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Norbert Klingbeil (**1988**). *Search Strategies for Conspiracy Numbers*. M.Sc. thesis, [pdf](https://era.library.ualberta.ca/items/338ea21e-9cfa-4cc5-b2a8-c9b5ec93c3ad/view/31d66522-6a81-4fdf-9932-6af805a64717/ML52837.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jonathan Schaeffer: Norbert Klingbeil](https://webdocs.cs.ualberta.ca/~jonathan/PREVIOUS/Grad/klingbeil.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Norbert Klingbeil](https://dblp.uni-trier.de/pers/hd/k/Klingbeil:Norbert)
 
 **[Up one level](People "People")**
 

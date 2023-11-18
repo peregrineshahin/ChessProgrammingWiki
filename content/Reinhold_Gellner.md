@@ -29,9 +29,9 @@ As former avocational computer chess programmer, supported by co-author [Gaby vo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nach dem Feiern kommt das Fasten: UKM Pressemitteilungen Archiv](https://www.ukm.de/index.php?id=11631&tx_news_pi1%5Bnews%5D=7528&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=d2e689d560a988f7ef5bee26d726ebca), February 28, 2019 (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nightmare's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=18)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hiarcs Fan Page](http://www.thorstenczub.de/hiarcs.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nach dem Feiern kommt das Fasten: UKM Pressemitteilungen Archiv](https://www.ukm.de/index.php?id=11631&tx_news_pi1%5Bnews%5D=7528&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=d2e689d560a988f7ef5bee26d726ebca), February 28, 2019 (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nightmare's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=18)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hiarcs Fan Page](http://www.thorstenczub.de/hiarcs.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
 
 **[Up one level](People "People")**
 

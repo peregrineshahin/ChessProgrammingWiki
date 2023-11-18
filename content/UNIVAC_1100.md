@@ -59,9 +59,9 @@ From left, [Fred Swartz](Fred_Swartz "Fred Swartz") (rear), [Vic Berman](Victor_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The Sperry UNIVAC 1100/80 Computer Photo by [Erick M. Griffin](https://en.wikipedia.org/wiki/User:Emgriffin), [Albany State University](https://en.wikipedia.org/wiki/Albany_State_University), 1981, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [UNIVAC 1100/2200 series from Wikipedia](https://en.wikipedia.org/wiki/UNIVAC_1100/2200_series)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> not considering the [vacuum tube](https://en.wikipedia.org/wiki/Vacuum_tube) based machines with model numbers from 1101 to 1105 with different architectures and word sizes
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Photo courtesy [Joe Winograd](Joe_Winograd "Joe Winograd")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The Sperry UNIVAC 1100/80 Computer Photo by [Erick M. Griffin](https://en.wikipedia.org/wiki/User:Emgriffin), [Albany State University](https://en.wikipedia.org/wiki/Albany_State_University), 1981, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [UNIVAC 1100/2200 series from Wikipedia](https://en.wikipedia.org/wiki/UNIVAC_1100/2200_series)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> not considering the [vacuum tube](https://en.wikipedia.org/wiki/Vacuum_tube) based machines with model numbers from 1101 to 1105 with different architectures and word sizes
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Photo courtesy [Joe Winograd](Joe_Winograd "Joe Winograd")
 
 **[Up one Level](Hardware "Hardware")**
 

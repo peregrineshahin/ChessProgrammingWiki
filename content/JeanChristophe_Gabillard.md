@@ -33,10 +33,10 @@ and as computer chess programmer author of the [Chess Engine Communication Proto
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jean-Christophe Gabillard - France | LinkedIn](https://www.linkedin.com/in/jean-christophe-gabillard-69966147/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jean-Christophe Gabillard - France | LinkedIn](https://www.linkedin.com/in/jean-christophe-gabillard-69966147/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jean Christophe Gabillard chess games - 365Chess.com](https://www.365chess.com/players/Jean_Christophe_Gabillard)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Nejmet](http://web.archive.org/web/20120516202303/http://membres.multimania.fr/nejmet/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jean-Christophe Gabillard - France | LinkedIn](https://www.linkedin.com/in/jean-christophe-gabillard-69966147/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jean-Christophe Gabillard - France | LinkedIn](https://www.linkedin.com/in/jean-christophe-gabillard-69966147/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jean Christophe Gabillard chess games - 365Chess.com](https://www.365chess.com/players/Jean_Christophe_Gabillard)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Nejmet](http://web.archive.org/web/20120516202303/http://membres.multimania.fr/nejmet/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

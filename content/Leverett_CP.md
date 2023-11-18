@@ -111,11 +111,11 @@ versus [MSU CP](MSU_CP "MSU CP")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pittsburgh boasts top chess players who are hip to the squares - Pittsburgh Tribune-Review](https://archive.triblive.com/news/pittsburgh-boasts-top-chess-players-who-are-hip-to-the-squares-2/) by Craig Smith, January 9, 2011
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1975**). *Computer Chess*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press)  
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pittsburgh boasts top chess players who are hip to the squares - Pittsburgh Tribune-Review](https://archive.triblive.com/news/pittsburgh-boasts-top-chess-players-who-are-hip-to-the-squares-2/) by Craig Smith, January 9, 2011
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1975**). *Computer Chess*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press)  
 Chapter VII. The Third United States Computer Chess Championship, p. 98
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computers Compete in Sheraton Chess Match](http://www.thecrimson.com/article/1972/8/22/computers-compete-in-sheraton-chess-match/) by [Peter Koretsky](http://www.thecrimson.com/writer/1200913/Peter__Koretsky/), [The Harvard Crimson](https://en.wikipedia.org/wiki/The_Harvard_Crimson), August 22, 1972
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) from [Computerschaak/Downloads/Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=13&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computers Compete in Sheraton Chess Match](http://www.thecrimson.com/article/1972/8/22/computers-compete-in-sheraton-chess-match/) by [Peter Koretsky](http://www.thecrimson.com/writer/1200913/Peter__Koretsky/), [The Harvard Crimson](https://en.wikipedia.org/wiki/The_Harvard_Crimson), August 22, 1972
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) from [Computerschaak/Downloads/Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=13&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN")
 
 **[Up one level](Engines "Engines")**
 

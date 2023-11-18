@@ -40,8 +40,8 @@ His first engine written in [GFA Basic](Basic#GFA_BASIC "Basic") on an [Atari ST
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [TRACE Chess Eingine](http://web.archive.org/web/20090221115308/http://members.optusnet.com.au/~john.boyd/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), February 2009)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [TRACE Chess Engine](http://members.optusnet.com.au/%7Ejohn.boyd/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [TRACE Chess Eingine](http://web.archive.org/web/20090221115308/http://members.optusnet.com.au/~john.boyd/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), February 2009)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TRACE Chess Engine](http://members.optusnet.com.au/%7Ejohn.boyd/)
 
 **[Up one level](People "People")**
 

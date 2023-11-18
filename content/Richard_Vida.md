@@ -57,10 +57,10 @@ a Slovakian software developer, consultant, computer chess programmer and author
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SourceForge.net: Critter Chess - Project Web Hosting - Open Source Software](http://critterchess.sourceforge.net/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Critter: Pascal vs C](http://www.talkchess.com/forum/viewtopic.php?t=29562) by Richard Vida, [CCC](CCC "CCC"), August 27, 2009
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Robodini](http://www.talkchess.com/forum/viewtopic.php?t=47034) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), January 29, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Robodini Q&A](http://www.talkchess.com/forum/viewtopic.php?t=47045) by Richard Vida, [CCC](CCC "CCC"), January 30, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SourceForge.net: Critter Chess - Project Web Hosting - Open Source Software](http://critterchess.sourceforge.net/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Critter: Pascal vs C](http://www.talkchess.com/forum/viewtopic.php?t=29562) by Richard Vida, [CCC](CCC "CCC"), August 27, 2009
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Robodini](http://www.talkchess.com/forum/viewtopic.php?t=47034) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), January 29, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Robodini Q&A](http://www.talkchess.com/forum/viewtopic.php?t=47045) by Richard Vida, [CCC](CCC "CCC"), January 30, 2013
 
 **[Up one level](People "People")**
 

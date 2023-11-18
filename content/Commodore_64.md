@@ -55,11 +55,11 @@ In April 2011, the [Commodore 64x](https://en.wikipedia.org/wiki/Commodore_64x) 
 
 ## [Starring the Computer - Ground Zero (1987)](http://starringthecomputer.com/feature.html?f=611) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Commodore 64 from Wikipedia](https://en.wikipedia.org/wiki/Commodore_64)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Commodore 64 from Wikipedia](https://en.wikipedia.org/wiki/Commodore_64)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [How many Commodore 64 computers were really sold?](http://www.pagetable.com/?p=547)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Total Share: Personal Computer Market Share 1975-2005 | Jeremy Reimer's Blog](http://jeremyreimer.com/postman/node/329)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Commodore 64x](http://www.commodoreusa.net/CUSA_C64.aspx)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Commodore 64 from Wikipedia](https://en.wikipedia.org/wiki/Commodore_64)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Commodore 64 from Wikipedia](https://en.wikipedia.org/wiki/Commodore_64)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [How many Commodore 64 computers were really sold?](http://www.pagetable.com/?p=547)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Total Share: Personal Computer Market Share 1975-2005 | Jeremy Reimer's Blog](http://jeremyreimer.com/postman/node/329)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Commodore 64x](http://www.commodoreusa.net/CUSA_C64.aspx)
 
 **[Up one Level](Hardware "Hardware")**
 

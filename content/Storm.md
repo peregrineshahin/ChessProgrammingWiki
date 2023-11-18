@@ -84,10 +84,10 @@ a chess program by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Storm Spirits](https://commons.wikimedia.org/wiki/File:The_Storm_Spirits.jpg) by [Evelyn De Morgan](Category:Evelyn_De_Morgan "Category:Evelyn De Morgan") (1900, [De Morgan Centre](https://en.wikipedia.org/wiki/De_Morgan_Centre), [London](https://en.wikipedia.org/wiki/London)), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [De Morgan Foundation from Wikipedia](https://en.wikipedia.org/wiki/De_Morgan_Foundation)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eerste Nederlands Kampioenschappen Computerschaken](http://www.csvnsupplementsite.nl/csvnp2.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1985**). *The Dutch Computer-Chess Championship 1985 - Nona Prima Donna*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Stormy's Corner](http://www.csvn.nl/downloads/stormys-corner) in remembrance on [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CSVN](CSVN "CSVN") site (dead link)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Storm Spirits](https://commons.wikimedia.org/wiki/File:The_Storm_Spirits.jpg) by [Evelyn De Morgan](Category:Evelyn_De_Morgan "Category:Evelyn De Morgan") (1900, [De Morgan Centre](https://en.wikipedia.org/wiki/De_Morgan_Centre), [London](https://en.wikipedia.org/wiki/London)), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [De Morgan Foundation from Wikipedia](https://en.wikipedia.org/wiki/De_Morgan_Foundation)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eerste Nederlands Kampioenschappen Computerschaken](http://www.csvnsupplementsite.nl/csvnp2.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1985**). *The Dutch Computer-Chess Championship 1985 - Nona Prima Donna*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Stormy's Corner](http://www.csvn.nl/downloads/stormys-corner) in remembrance on [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CSVN](CSVN "CSVN") site (dead link)
 
 **[Up one level](Engines "Engines")**
 

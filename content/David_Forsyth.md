@@ -19,8 +19,8 @@ Forsyth was mentioned compiling a [Go](Go "Go") column in the *[Otago Witness](h
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [PGN-Reference 16.1.1: History](http://www.thechessdrum.net/PGN_Reference.txt)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [go.org.nz - History:Early Go in Otago - August 1990](https://go.org.nz/index.php/about-go/history-of-go-in-new-zealand)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [PGN-Reference 16.1.1: History](http://www.thechessdrum.net/PGN_Reference.txt)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [go.org.nz - History:Early Go in Otago - August 1990](https://go.org.nz/index.php/about-go/history-of-go-in-new-zealand)
 
 **[Up one level](People "People")**
 

@@ -76,13 +76,13 @@ Based on the research along with Botvinnik on the project [Pioneer](Pioneer "Pio
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf), Figure 3
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The last day of the “Botvinnik Memorial”](http://en.chessbase.com/home/TabId/211/PostId/4007513) by [Anna Burtasova](http://de.wikipedia.org/wiki/Anna_Denissowna_Burtassowa), [ChessBase News](ChessBase "ChessBase"), September 07, 2011
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Paul Rushton](Paul_Rushton "Paul Rushton"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1973**). *Current Chess Programs: A Summary of their Potential and Limitations*. INFOR Journal of the Canadian Information Processing Society Vol. 11, No. 1, [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Rushton-Marsland-Feb73.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computers, Chess and Long-range Planning by Botvinnik](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id128.html) by [John L. Jerz](John_L._Jerz "John L. Jerz")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Fovea centralis from Wikipedia](https://en.wikipedia.org/wiki/Fovea_centralis)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Coq from Wikipedia](https://en.wikipedia.org/wiki/Coq)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf), Figure 3
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The last day of the “Botvinnik Memorial”](http://en.chessbase.com/home/TabId/211/PostId/4007513) by [Anna Burtasova](http://de.wikipedia.org/wiki/Anna_Denissowna_Burtassowa), [ChessBase News](ChessBase "ChessBase"), September 07, 2011
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Paul Rushton](Paul_Rushton "Paul Rushton"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1973**). *Current Chess Programs: A Summary of their Potential and Limitations*. INFOR Journal of the Canadian Information Processing Society Vol. 11, No. 1, [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Rushton-Marsland-Feb73.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computers, Chess and Long-range Planning by Botvinnik](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id128.html) by [John L. Jerz](John_L._Jerz "John L. Jerz")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fovea centralis from Wikipedia](https://en.wikipedia.org/wiki/Fovea_centralis)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Coq from Wikipedia](https://en.wikipedia.org/wiki/Coq)
 
 **[Up one Level](Chess "Chess")**
 

@@ -93,15 +93,15 @@ Bg8 79.Nxh3 Be6 80.e5+ Kg7 81.Kf2 Kf8 82.Kg3 Bd5 83.f4 Bb3 84.f5 Ba4 85.Ng5 Bc2
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A small part of a prehistoric [rock painting](https://en.wikipedia.org/wiki/Finnish_rock_art) of Värikallio in [Hossa](<https://en.wikipedia.org/wiki/Hossa_(Finland)>), [Suomussalmi](https://en.wikipedia.org/wiki/Suomussalmi), [Finland](https://en.wikipedia.org/wiki/Finland), Photo by Ilarius, January 03, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hossa's book learning](https://www.stmintz.com/ccc/index.php?id=25160) by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob"), [CCC](CCC "CCC"), August 20, 1998
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hossa finds Qa7 with experimental blocked position code enabled](https://www.stmintz.com/ccc/index.php?id=153437) by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob"), [CCC](CCC "CCC"), February 05, 2001
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**2000**). *W. Steinitz gegen L. Gott*. [Kaissiber](http://de.wikipedia.org/wiki/Kaissiber) Nr. 15, [pdf](http://www.mustrum.de/chrilly/kaissiber15.pdf) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Taming the Tiger :-)](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=402729&t=38726) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), April 11, 2011
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Graz 2003 - Chess - Round 4 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=4&id=7)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Brutus auf WM-Kurs?](https://de.chessbase.com/post/brutus-auf-wm-kurs-) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), Photographer: [Matthias Wüllenweber](Matthias_W%C3%BCllenweber "Matthias Wüllenweber"), [ChessBase News](ChessBase "ChessBase"), November 24, 2003 (German)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Graz 2003 - Chess - Round 5 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=5&id=5)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [WCCC: interesting position from Hossa - Ruy Lopez](https://www.stmintz.com/ccc/index.php?id=330695) by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob"), [CCC](CCC "CCC"), November 26, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A small part of a prehistoric [rock painting](https://en.wikipedia.org/wiki/Finnish_rock_art) of Värikallio in [Hossa](<https://en.wikipedia.org/wiki/Hossa_(Finland)>), [Suomussalmi](https://en.wikipedia.org/wiki/Suomussalmi), [Finland](https://en.wikipedia.org/wiki/Finland), Photo by Ilarius, January 03, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hossa's book learning](https://www.stmintz.com/ccc/index.php?id=25160) by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob"), [CCC](CCC "CCC"), August 20, 1998
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hossa finds Qa7 with experimental blocked position code enabled](https://www.stmintz.com/ccc/index.php?id=153437) by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob"), [CCC](CCC "CCC"), February 05, 2001
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**2000**). *W. Steinitz gegen L. Gott*. [Kaissiber](http://de.wikipedia.org/wiki/Kaissiber) Nr. 15, [pdf](http://www.mustrum.de/chrilly/kaissiber15.pdf) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Taming the Tiger :-)](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=402729&t=38726) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), April 11, 2011
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Graz 2003 - Chess - Round 4 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=4&id=7)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Brutus auf WM-Kurs?](https://de.chessbase.com/post/brutus-auf-wm-kurs-) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), Photographer: [Matthias Wüllenweber](Matthias_W%C3%BCllenweber "Matthias Wüllenweber"), [ChessBase News](ChessBase "ChessBase"), November 24, 2003 (German)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Graz 2003 - Chess - Round 5 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=5&id=5)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [WCCC: interesting position from Hossa - Ruy Lopez](https://www.stmintz.com/ccc/index.php?id=330695) by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob"), [CCC](CCC "CCC"), November 26, 2003
 
 **[Up one level](Engines "Engines")**
 

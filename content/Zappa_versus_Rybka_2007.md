@@ -382,14 +382,14 @@ Rxb3 46.g6 Bb6 47.Qa2 Rb4 48.Rb1 fxg6 49.fxg6 Qg5 50.Rxb4 axb4 51.Qb1 Qd2+ 52.Kf
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Stamp of [Moldova](https://en.wikipedia.org/wiki/Moldova) on the occasion of the [2007 World Chess Championship](https://en.wikipedia.org/wiki/World_Chess_Championship_2007), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Open Letter & $100,000 challenge to FIDE](http://www.talkchess.com/forum/viewtopic.php?t=14159) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), [CCC](CCC "CCC"), May 31, 2007
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [An Open Letter and $100,000 challenge to FIDE President Kirsan N. Ilyumzhinov](http://www.rybkachess.com/docs/ChallengeToFIDE.htm) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), May 31, 2007
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [A Lost Opportunity](http://www.chessninja.com/download/rybka-junior-nomatch-levy.pdf) by [David Levy](David_Levy "David Levy"), hosted by [chessninja.com](http://chessninja.com/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Zappa match - from Rybka from Wikipedia](https://en.wikipedia.org/wiki/Rybka#Zappa_match)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Blog de La\_Morsa: Rybka y Zappa luchan en México](http://la-morsa.blogspot.de/2007/09/rybka-y-zappa-luchan-en-mxico.html), September 22, 2007
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [WM Mexiko-City 2007: 108 Bilder, Namen, Themen, kommentiert, ...](http://www.chesstigers.de/index_news.php?id=1269&rubrik=3) (German) [Chess Tigers News](http://www.chesstigers.de/index.php) October 08, 2007
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Clash of the Computer Titans (2007)](http://www.chessgames.com/perl/chess.pl?tid=63143) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Stamp of [Moldova](https://en.wikipedia.org/wiki/Moldova) on the occasion of the [2007 World Chess Championship](https://en.wikipedia.org/wiki/World_Chess_Championship_2007), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Open Letter & $100,000 challenge to FIDE](http://www.talkchess.com/forum/viewtopic.php?t=14159) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), [CCC](CCC "CCC"), May 31, 2007
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [An Open Letter and $100,000 challenge to FIDE President Kirsan N. Ilyumzhinov](http://www.rybkachess.com/docs/ChallengeToFIDE.htm) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), May 31, 2007
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [A Lost Opportunity](http://www.chessninja.com/download/rybka-junior-nomatch-levy.pdf) by [David Levy](David_Levy "David Levy"), hosted by [chessninja.com](http://chessninja.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Zappa match - from Rybka from Wikipedia](https://en.wikipedia.org/wiki/Rybka#Zappa_match)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Blog de La\_Morsa: Rybka y Zappa luchan en México](http://la-morsa.blogspot.de/2007/09/rybka-y-zappa-luchan-en-mxico.html), September 22, 2007
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [WM Mexiko-City 2007: 108 Bilder, Namen, Themen, kommentiert, ...](http://www.chesstigers.de/index_news.php?id=1269&rubrik=3) (German) [Chess Tigers News](http://www.chesstigers.de/index.php) October 08, 2007
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Clash of the Computer Titans (2007)](http://www.chessgames.com/perl/chess.pl?tid=63143) from [chessgames.com](http://www.chessgames.com/index.html)
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

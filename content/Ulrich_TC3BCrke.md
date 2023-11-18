@@ -49,10 +49,10 @@ Ulrich Türke at [ICT 2002](ICT_2002 "ICT 2002") <a id="cite-note-4" href="#cite
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ulrich Türke | Facebook](https://de-de.facebook.com/ulrich.turke.79)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ulrich Türke | Facebook](https://de-de.facebook.com/ulrich.turke.79)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2nd International CSVN Tournament Photo Gallery II](http://old.csvn.nl/gallery17.html) (Photos by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ulrich Türke | Facebook](https://de-de.facebook.com/ulrich.turke.79)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ulrich Türke | Facebook](https://de-de.facebook.com/ulrich.turke.79)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2nd International CSVN Tournament Photo Gallery II](http://old.csvn.nl/gallery17.html) (Photos by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"))
 
 **[Up one level](People "People")**
 

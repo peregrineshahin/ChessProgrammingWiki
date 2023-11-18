@@ -27,10 +27,10 @@ which started in summer 2018 as a [semester](https://en.wikipedia.org/wiki/Acade
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Moritz Willig](https://moritz-willig.de/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rise of light - dev page: Moritz Willig](https://rise-of-light.de/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CrazyAra - About us](https://crazyara.org/about.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Moritz Willig](https://dblp.org/pid/247/6267.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Moritz Willig](https://moritz-willig.de/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rise of light - dev page: Moritz Willig](https://rise-of-light.de/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CrazyAra - About us](https://crazyara.org/about.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Moritz Willig](https://dblp.org/pid/247/6267.html)
 
 **[Up one level](People "People")**
 

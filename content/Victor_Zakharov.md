@@ -41,13 +41,13 @@ a Russian computer scientist holding a Ph.D. in CS from [Lomonosov Moscow State 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ChessAssistance.com All you ever wanted to know about Convekta](https://chessok.com/files/BobPawlak/Articles/045_Convekta_Trip.html) by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), September 12, 2004
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About - ChessOK.com](http://chessok.com/?page_id=262)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lomonosov Endgame Tablebases - History Note](http://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Institute of Informatics Problems of The Russian Academy of Sciences (IPI RAN)](http://www.ipiran.ru/english/main.asp)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Endgame tablebase from Wikipedia - Background](https://en.wikipedia.org/wiki/Endgame_tablebase#Background)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Lomonosov Endgame Tablebases](http://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [tablebase compression / academic integrity](http://www.talkchess.com/forum/viewtopic.php?t=60222) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), May 19, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ChessAssistance.com All you ever wanted to know about Convekta](https://chessok.com/files/BobPawlak/Articles/045_Convekta_Trip.html) by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), September 12, 2004
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About - ChessOK.com](http://chessok.com/?page_id=262)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lomonosov Endgame Tablebases - History Note](http://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Institute of Informatics Problems of The Russian Academy of Sciences (IPI RAN)](http://www.ipiran.ru/english/main.asp)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Endgame tablebase from Wikipedia - Background](https://en.wikipedia.org/wiki/Endgame_tablebase#Background)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Lomonosov Endgame Tablebases](http://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [tablebase compression / academic integrity](http://www.talkchess.com/forum/viewtopic.php?t=60222) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), May 19, 2016
 
 **[Up one Level](People "People")**
 

@@ -52,9 +52,9 @@ feat. [Lonnie Liston Smith](https://en.wikipedia.org/wiki/Lonnie_Liston_Smith), 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Domenico Ghirlandaio](index.php?title=Category:Domenico_Ghirlandaio&action=edit&redlink=1 "Category:Domenico Ghirlandaio (page does not exist)") - Portrait of [Giovanna Tornabuoni](https://it.wikipedia.org/wiki/Giovanna_degli_Albizzi), 1489 or 1490, [Thyssen-Bornemisza Museum](https://en.wikipedia.org/wiki/Thyssen-Bornemisza_Museum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons). Giovanna Tornabuoni, member of the [a Florentine](https://en.wikipedia.org/wiki/Florence) [Albizzi family](https://en.wikipedia.org/wiki/Albizzi), died at the age of nineteen - in her honor a large number of art works were created, the portrait by Domenico Ghirlandaio was used for the Firenzina logo ([Firenzina - Home](http://www.firenzina.org/))
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Firenzina/README at master · Censor/Firenzina · GitHub](https://github.com/Censor/Firenzina/blob/master/README)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Firenzina - Home](http://www.firenzina.org/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Domenico Ghirlandaio](index.php?title=Category:Domenico_Ghirlandaio&action=edit&redlink=1 "Category:Domenico Ghirlandaio (page does not exist)") - Portrait of [Giovanna Tornabuoni](https://it.wikipedia.org/wiki/Giovanna_degli_Albizzi), 1489 or 1490, [Thyssen-Bornemisza Museum](https://en.wikipedia.org/wiki/Thyssen-Bornemisza_Museum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons). Giovanna Tornabuoni, member of the [a Florentine](https://en.wikipedia.org/wiki/Florence) [Albizzi family](https://en.wikipedia.org/wiki/Albizzi), died at the age of nineteen - in her honor a large number of art works were created, the portrait by Domenico Ghirlandaio was used for the Firenzina logo ([Firenzina - Home](http://www.firenzina.org/))
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Firenzina/README at master · Censor/Firenzina · GitHub](https://github.com/Censor/Firenzina/blob/master/README)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Firenzina - Home](http://www.firenzina.org/)
 
 **[Up one Level](Fire "Fire")**
 

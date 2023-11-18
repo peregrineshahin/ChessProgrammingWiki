@@ -65,12 +65,12 @@ In January 2015, Óscar Toledo G. released Toledo **Atomchess**, a chess program
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Toledo Chess 2, winner of 19th IOCCC. Chess program with X/Window and Windows graphical user interface](https://nanochess.org/chess.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Text-mode Chess. 18th IOCCC. Best Game](https://nanochess.org/chess1.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Toledo Nanochess and Toledo Picochess](https://nanochess.org/chess3.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Toledo Java Chess Game](https://nanochess.org/chess5.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Toledo Atomchess Game](https://nanochess.org/chess6.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Toledo Nanochess: The commented source code (book)](http://www.talkchess.com/forum/viewtopic.php?t=51243) by [Óscar Toledo Gutiérrez](%C3%93scar_Toledo_Guti%C3%A9rrez "Óscar Toledo Gutiérrez"), [CCC](CCC "CCC"), February 11, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Toledo Chess 2, winner of 19th IOCCC. Chess program with X/Window and Windows graphical user interface](https://nanochess.org/chess.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Text-mode Chess. 18th IOCCC. Best Game](https://nanochess.org/chess1.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Toledo Nanochess and Toledo Picochess](https://nanochess.org/chess3.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Toledo Java Chess Game](https://nanochess.org/chess5.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Toledo Atomchess Game](https://nanochess.org/chess6.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Toledo Nanochess: The commented source code (book)](http://www.talkchess.com/forum/viewtopic.php?t=51243) by [Óscar Toledo Gutiérrez](%C3%93scar_Toledo_Guti%C3%A9rrez "Óscar Toledo Gutiérrez"), [CCC](CCC "CCC"), February 11, 2014
 
 **[Up one level](Engines "Engines")**
 

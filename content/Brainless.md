@@ -52,9 +52,9 @@ The [evaluation](Evaluation "Evaluation") function, written by [Wieland Belka](W
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [FICS Games Database - Statistics for BrainlessChess(C)](http://www.ficsgames.org/cgi-bin/search.cgi?action=statistics;player=BrainlessChess)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Piece of Mind » Blog Archive » Computer Chess Tournament?!](https://matthewlai.ca/blog/2010/11/18/computer-chess-tournament/) by [Matthew Lai](Matthew_Lai "Matthew Lai")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Other Builtins - Using the GNU Compiler Collection (GCC)](http://gcc.gnu.org/onlinedocs/gcc-4.4.5/gcc/Other-Builtins.html#Other-Builtins)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [FICS Games Database - Statistics for BrainlessChess(C)](http://www.ficsgames.org/cgi-bin/search.cgi?action=statistics;player=BrainlessChess)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Piece of Mind » Blog Archive » Computer Chess Tournament?!](https://matthewlai.ca/blog/2010/11/18/computer-chess-tournament/) by [Matthew Lai](Matthew_Lai "Matthew Lai")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Other Builtins - Using the GNU Compiler Collection (GCC)](http://gcc.gnu.org/onlinedocs/gcc-4.4.5/gcc/Other-Builtins.html#Other-Builtins)
 
 **[Up one Level](Engines "Engines")**
 

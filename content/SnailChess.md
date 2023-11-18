@@ -68,11 +68,11 @@ The last public SnailChess **4.013** was released in June 2002. Then SnailChess 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Picture](http://commons.wikimedia.org/wiki/File:Grapevinesnail_01.jpg) of [Helix pomatia](https://en.wikipedia.org/wiki/Helix_pomatia) by [Jürgen Schoner](https://de.wikipedia.org/wiki/Benutzer:Heliodor), May 23, 2005, [Snail from Wikipedia](https://en.wikipedia.org/wiki/Snail)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SnailChess ver 1.07](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=32444) by [Rasjid Chan](Rasjid_Chan "Rasjid Chan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 28, 2000
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SnailChess-new release](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=31555) by [Rasjid Chan](Rasjid_Chan "Rasjid Chan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 03, 2000
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [Re: Fastest Magic Move Bitboard Generator ready to use](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5452&p=27108) by [Rasjid Chan](Rasjid_Chan "Rasjid Chan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 28, 2006
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Warum können Schnecken über Rasierklingen kriechen, ohne sich zu verletzen?](http://www.wdr.de/tv/kopfball/sendungsbeitraege/2009/1025/schleimspur.jsp), [Kopfball](http://de.wikipedia.org/wiki/Kopfball_%28Show%29) [DasErste](https://en.wikipedia.org/wiki/Das_Erste) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Picture](http://commons.wikimedia.org/wiki/File:Grapevinesnail_01.jpg) of [Helix pomatia](https://en.wikipedia.org/wiki/Helix_pomatia) by [Jürgen Schoner](https://de.wikipedia.org/wiki/Benutzer:Heliodor), May 23, 2005, [Snail from Wikipedia](https://en.wikipedia.org/wiki/Snail)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SnailChess ver 1.07](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=32444) by [Rasjid Chan](Rasjid_Chan "Rasjid Chan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 28, 2000
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SnailChess-new release](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=31555) by [Rasjid Chan](Rasjid_Chan "Rasjid Chan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 03, 2000
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [Re: Fastest Magic Move Bitboard Generator ready to use](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5452&p=27108) by [Rasjid Chan](Rasjid_Chan "Rasjid Chan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 28, 2006
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Warum können Schnecken über Rasierklingen kriechen, ohne sich zu verletzen?](http://www.wdr.de/tv/kopfball/sendungsbeitraege/2009/1025/schleimspur.jsp), [Kopfball](http://de.wikipedia.org/wiki/Kopfball_%28Show%29) [DasErste](https://en.wikipedia.org/wiki/Das_Erste) (German)
 
 **[Up one level](Engines "Engines")**
 

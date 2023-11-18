@@ -55,14 +55,14 @@ developing and trading the [Norcroft compiler suite](https://en.wikipedia.org/wi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photographic portrait of Arthur Norman by [David Thompson](index.php?title=David_Thompson&action=edit&redlink=1 "David Thompson (page does not exist)"), May 18, 2008, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), [Norman | David Thompson | Flickr](https://flickr.com/photos/39023889@N00/2661630518)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Laboratory: 2008-03-12: Arthur Norman’s last lecture](https://www.cl.cam.ac.uk/misc/news/2008/03-12-acn.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ARX, Arthur and RISC OS](http://rougol.jellybaby.net/meetings/2012/PaulFellows/index.html) by [Paul Fellows](http://rougol.jellybaby.net/meetings/2012/oct.html), [RISC OS User Group Of London](http://www.rougol.jellybaby.net/), October 15, 2012
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess (V2.1) - Complete BBC Games Archive](http://bbcmicro.co.uk/game.php?id=924)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Codemist Ltd home page](http://www.codemist.co.uk/index.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Arthur Norman](https://dblp.uni-trier.de/pers/hd/n/Norman:Arthur_C=)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Reduce (computer algebra system) from Wikipedia](<https://en.wikipedia.org/wiki/Reduce_(computer_algebra_system)>)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Included in the documentation of the REDUCE distribution at [Sourceforge](https://en.wikipedia.org/wiki/SourceForge): [REDUCE Documentation](https://reduce-algebra.sourceforge.io/documentation.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photographic portrait of Arthur Norman by [David Thompson](index.php?title=David_Thompson&action=edit&redlink=1 "David Thompson (page does not exist)"), May 18, 2008, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), [Norman | David Thompson | Flickr](https://flickr.com/photos/39023889@N00/2661630518)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Laboratory: 2008-03-12: Arthur Norman’s last lecture](https://www.cl.cam.ac.uk/misc/news/2008/03-12-acn.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ARX, Arthur and RISC OS](http://rougol.jellybaby.net/meetings/2012/PaulFellows/index.html) by [Paul Fellows](http://rougol.jellybaby.net/meetings/2012/oct.html), [RISC OS User Group Of London](http://www.rougol.jellybaby.net/), October 15, 2012
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess (V2.1) - Complete BBC Games Archive](http://bbcmicro.co.uk/game.php?id=924)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Codemist Ltd home page](http://www.codemist.co.uk/index.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Arthur Norman](https://dblp.uni-trier.de/pers/hd/n/Norman:Arthur_C=)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Reduce (computer algebra system) from Wikipedia](<https://en.wikipedia.org/wiki/Reduce_(computer_algebra_system)>)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> Included in the documentation of the REDUCE distribution at [Sourceforge](https://en.wikipedia.org/wiki/SourceForge): [REDUCE Documentation](https://reduce-algebra.sourceforge.io/documentation.php)
 
 **[Up one level](People "People")**
 

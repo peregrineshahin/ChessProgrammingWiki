@@ -109,12 +109,12 @@ DanaSah's name is related to [Dana](https://en.wikipedia.org/wiki/Dana) of Danie
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [DanaSah 8.8](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76209&start=250) by [Pedro Castro](Pedro_Castro "Pedro Castro"), [CCC](CCC "CCC"), April 20, 2021
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [7th World Computer Chess Championship (Blitz) - Pamplona 2009 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=208)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Computer Cup 4 - Photo Gallerie 1](http://www.scaccomasco.com/foto/2009/CCC4-7_nov/album/index.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Computer Cup 4](http://www.scaccomasco.com/2009/wwwCCC4/tblscore.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess Engine DanaSah | readme](https://sites.google.com/site/danasah/english/readme)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chess Engine DanaSah | readme](https://sites.google.com/site/danasah/english/readme)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [DanaSah 8.8](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76209&start=250) by [Pedro Castro](Pedro_Castro "Pedro Castro"), [CCC](CCC "CCC"), April 20, 2021
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [7th World Computer Chess Championship (Blitz) - Pamplona 2009 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=208)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Computer Cup 4 - Photo Gallerie 1](http://www.scaccomasco.com/foto/2009/CCC4-7_nov/album/index.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Computer Cup 4](http://www.scaccomasco.com/2009/wwwCCC4/tblscore.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess Engine DanaSah | readme](https://sites.google.com/site/danasah/english/readme)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chess Engine DanaSah | readme](https://sites.google.com/site/danasah/english/readme)
 
 **[Up one Level](Engines "Engines")**
 

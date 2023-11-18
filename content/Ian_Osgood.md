@@ -46,11 +46,11 @@ the [Forth](Forth "Forth") Chess Program, originally derived from [Tom Kerrigan'
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [an Osgood - Quora](https://www.quora.com/profile/Ian-Osgood-1)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ian Osgood - C2 Wiki](http://wiki.c2.com/?IanOsgood)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [an Osgood - Quora](https://www.quora.com/profile/Ian-Osgood-1)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ian Osgood's Forth Chess Program (FCP)](http://www.quirkster.com/iano/forth/FCP.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ian Osgood's Forth Go Program (FGP)](http://www.quirkster.com/iano/forth/fgp.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [an Osgood - Quora](https://www.quora.com/profile/Ian-Osgood-1)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ian Osgood - C2 Wiki](http://wiki.c2.com/?IanOsgood)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [an Osgood - Quora](https://www.quora.com/profile/Ian-Osgood-1)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ian Osgood's Forth Chess Program (FCP)](http://www.quirkster.com/iano/forth/FCP.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ian Osgood's Forth Go Program (FGP)](http://www.quirkster.com/iano/forth/fgp.html)
 
 **[Up one Level](People "People")**
 

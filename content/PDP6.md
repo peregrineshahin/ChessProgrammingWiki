@@ -70,22 +70,22 @@ First tournament game by a computer, Carl Wagner (2190) - [Robert Q](Mac_Hack#Ro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bits](http://ljkrakauer.com/LJK/essays/bits.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PDP-6 Circuit Instruction Manual, © 1966, Digital Equipment Corporation](http://bitsavers.trailing-edge.com/pdf/dec/pdp6/F-67_circuitInstr_May66.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [PDP-6 Details](http://www.computerhistory.org/collections/accession/102618955) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
- 4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [/resources/still-image/DEC/PDP-6/](http://archive.computerhistory.org/resources/still-image/DEC/PDP-6/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") 
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Moby Memory](http://ljkrakauer.com/LJK/60s/moby.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [PDP-6 Price List, February 1, 1964](http://www.vortex.com/pdp6.pdf) (pdf)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [PDP-6 from Wikipedia](https://en.wikipedia.org/wiki/PDP-6)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [I resign](http://ljkrakauer.com/LJK/60s/resign.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Chess stories](http://ljkrakauer.com/LJK/60s/chess1.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> Image of DEC 340 at [A Critical History of Computer Graphics and Animation | Section 3: The industry evolves](http://design.osu.edu/carlson/history/lesson3.html)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [History of Australian Computer Museum Society WA | PDP-6](http://www.aceware.com.au/acms/HistoryOfAcmsWA.htm)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> James Gerard Fiasconaro (**1970**). *[A Computer-Controlled Graphical Display Processor](http://www.worldcat.org/title/computer-controlled-graphical-display-processor/oclc/227599012)*. [Project MAC](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory#Project_MAC), [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-071.pdf)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Mac Hack from Wikipedia](https://en.wikipedia.org/wiki/Mac_Hack)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [PDP-6 with Gordon Bell and Alan Kotok](http://www.computerhistory.org/collections/accession/102618954) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [PDP-6 from Wikipedia](https://en.wikipedia.org/wiki/PDP-6)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> *[MIT Computer Loses to Human in Chess](http://news.google.com/newspapers?nid=1928&dat=19670123&id=O2ggAAAAIBAJ&sjid=1GYFAAAAIBAJ&pg=2308,2313204)*. [Sun Journal (Lewiston)](https://en.wikipedia.org/wiki/Sun_Journal_%28Lewiston%29), January 23, 1967, [Google News](https://en.wikipedia.org/wiki/Google_News)
- 16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [AP :: Images :: Search Results :: Carl Wagner, 1967, MIT Chess](http://www.apimages.com/Search.aspx?st=k&remem=x&entity=&kw=Carl+Wagner%2C+1967%2C+MIT+Chess&intv=None&shgroup=-10&sh=10) 
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bits](http://ljkrakauer.com/LJK/essays/bits.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PDP-6 Circuit Instruction Manual, © 1966, Digital Equipment Corporation](http://bitsavers.trailing-edge.com/pdf/dec/pdp6/F-67_circuitInstr_May66.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PDP-6 Details](http://www.computerhistory.org/collections/accession/102618955) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+ 4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [/resources/still-image/DEC/PDP-6/](http://archive.computerhistory.org/resources/still-image/DEC/PDP-6/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") 
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Moby Memory](http://ljkrakauer.com/LJK/60s/moby.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [PDP-6 Price List, February 1, 1964](http://www.vortex.com/pdp6.pdf) (pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [PDP-6 from Wikipedia](https://en.wikipedia.org/wiki/PDP-6)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [I resign](http://ljkrakauer.com/LJK/60s/resign.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chess stories](http://ljkrakauer.com/LJK/60s/chess1.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> Image of DEC 340 at [A Critical History of Computer Graphics and Animation | Section 3: The industry evolves](http://design.osu.edu/carlson/history/lesson3.html)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [History of Australian Computer Museum Society WA | PDP-6](http://www.aceware.com.au/acms/HistoryOfAcmsWA.htm)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> James Gerard Fiasconaro (**1970**). *[A Computer-Controlled Graphical Display Processor](http://www.worldcat.org/title/computer-controlled-graphical-display-processor/oclc/227599012)*. [Project MAC](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory#Project_MAC), [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-071.pdf)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Mac Hack from Wikipedia](https://en.wikipedia.org/wiki/Mac_Hack)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [PDP-6 with Gordon Bell and Alan Kotok](http://www.computerhistory.org/collections/accession/102618954) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [PDP-6 from Wikipedia](https://en.wikipedia.org/wiki/PDP-6)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> *[MIT Computer Loses to Human in Chess](http://news.google.com/newspapers?nid=1928&dat=19670123&id=O2ggAAAAIBAJ&sjid=1GYFAAAAIBAJ&pg=2308,2313204)*. [Sun Journal (Lewiston)](https://en.wikipedia.org/wiki/Sun_Journal_%28Lewiston%29), January 23, 1967, [Google News](https://en.wikipedia.org/wiki/Google_News)
+ 16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [AP :: Images :: Search Results :: Carl Wagner, 1967, MIT Chess](http://www.apimages.com/Search.aspx?st=k&remem=x&entity=&kw=Carl+Wagner%2C+1967%2C+MIT+Chess&intv=None&shgroup=-10&sh=10) 
 
 **[Up one Level](Hardware "Hardware")**
 

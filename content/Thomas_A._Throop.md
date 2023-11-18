@@ -56,17 +56,17 @@ In 2001, Thomas A. Throop, Senior passed along the role of managing the company 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Stephen J.J. Smith](Stephen_J.J._Smith "Stephen J.J. Smith"), [Dana S. Nau](Dana_S._Nau "Dana S. Nau"), Thomas A. Throop (**1998**). *Computer Bridge: A Big Win for AI Planning*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 19, No. 2, [pdf](http://www.cs.umd.edu/~nau/papers/smith1998computer.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Great Game Products](http://www.greatgameproducts.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bridge: Jack - World Computer Bridge Championship Contestants: Bridge Baron](http://www.jackbridge.com/ewkprt.htm#bridgebaron)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Participating Computer Bridge Software for the World Computer Bridge Championship and the History of these Software Programs - Summary of Participants at Computer Olympiads See: Computer Olympiad](http://www.bridgeguys.com/CGlossary/Computer/CBProgrammers.pdf) (pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Tom Throop's Bridge Baron - GB64.COM](http://www.gb64.com/game.php?id=17023&d=39)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Micro Bridge Companion - Programs by Tom Throop and Tony Guilfoyle](https://www.amazon.com/BRIDGE-COMPANION-DISKETTE-PROGRAMS-GUILFOYLE/dp/B000KX4VPC) from [Amazon.com](https://en.wikipedia.org/wiki/Amazon.com)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Ian Frank](Ian_Frank "Ian Frank") (**1998**). *[Search and Planning Under Incomplete Information: A Study Using Bridge Card Play](http://www.goodreads.com/book/show/7998822-search-and-planning-under-incomplete-information)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), 1996 Ph.D. thesis, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Bridge Baron - The 1997 world champion of computer bridge uses AI planning techniques to plan its declarer play](http://www.cs.umd.edu/%7Enau/bridge/bridge.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Participating Computer Bridge Software for the World Computer Bridge Championship and the History of these Software Programs - Summary of Participants at Computer Olympiads See: Computer Olympiad](http://www.bridgeguys.com/CGlossary/Computer/CBProgrammers.pdf) (pdf)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [dblp: Thomas A. Throop](https://dblp.uni-trier.de/pers/hd/t/Throop:Thomas_A=.html)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Stephen J.J. Smith](Stephen_J.J._Smith "Stephen J.J. Smith"), [Dana S. Nau](Dana_S._Nau "Dana S. Nau"), Thomas A. Throop (**1998**). *Computer Bridge: A Big Win for AI Planning*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 19, No. 2, [pdf](http://www.cs.umd.edu/~nau/papers/smith1998computer.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Great Game Products](http://www.greatgameproducts.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bridge: Jack - World Computer Bridge Championship Contestants: Bridge Baron](http://www.jackbridge.com/ewkprt.htm#bridgebaron)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Participating Computer Bridge Software for the World Computer Bridge Championship and the History of these Software Programs - Summary of Participants at Computer Olympiads See: Computer Olympiad](http://www.bridgeguys.com/CGlossary/Computer/CBProgrammers.pdf) (pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tom Throop's Bridge Baron - GB64.COM](http://www.gb64.com/game.php?id=17023&d=39)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Micro Bridge Companion - Programs by Tom Throop and Tony Guilfoyle](https://www.amazon.com/BRIDGE-COMPANION-DISKETTE-PROGRAMS-GUILFOYLE/dp/B000KX4VPC) from [Amazon.com](https://en.wikipedia.org/wiki/Amazon.com)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Ian Frank](Ian_Frank "Ian Frank") (**1998**). *[Search and Planning Under Incomplete Information: A Study Using Bridge Card Play](http://www.goodreads.com/book/show/7998822-search-and-planning-under-incomplete-information)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), 1996 Ph.D. thesis, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Bridge Baron - The 1997 world champion of computer bridge uses AI planning techniques to plan its declarer play](http://www.cs.umd.edu/%7Enau/bridge/bridge.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Participating Computer Bridge Software for the World Computer Bridge Championship and the History of these Software Programs - Summary of Participants at Computer Olympiads See: Computer Olympiad](http://www.bridgeguys.com/CGlossary/Computer/CBProgrammers.pdf) (pdf)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Thomas A. Throop](https://dblp.uni-trier.de/pers/hd/t/Throop:Thomas_A=.html)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

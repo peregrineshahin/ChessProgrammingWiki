@@ -72,9 +72,9 @@ Ra8 29.a3 Rb8 30.Re6 Qd5 31.Qd2 Bd6 32.Nxd4 Bc5 33.Rxf6 gxf6 34.Nxb5+ Kc6 35.Be4
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Bust of Zeus in the [British Museum](https://en.wikipedia.org/wiki/British_Museum), [Zeus from Wikipedia](https://en.wikipedia.org/wiki/Zeus)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zeus' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=189)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Shatin 1995 - Chess - Round 4 - Game 11 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=29&round=4&id=11)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Bust of Zeus in the [British Museum](https://en.wikipedia.org/wiki/British_Museum), [Zeus from Wikipedia](https://en.wikipedia.org/wiki/Zeus)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zeus' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=189)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Shatin 1995 - Chess - Round 4 - Game 11 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=29&round=4&id=11)
 
 **[Up one Level](Engines "Engines")**
 

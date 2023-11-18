@@ -76,11 +76,11 @@ is not true if a \< b \< 0.5.
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Homegage - Charles Elkan](http://cseweb.ucsd.edu/~elkan/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Charles Elkan (**1989**). *Conspiracy Numbers and Caching for Searching And/Or Trees and Theorem-Proving*. [IJCAI 1989](Conferences#IJCAI "Conferences"), [pdf](https://www.ijcai.org/Proceedings/89-1/Papers/054.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Charles Elkan](https://dblp.uni-trier.de/pers/hd/e/Elkan:Charles.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Charles Elkan - Selected publications](http://cseweb.ucsd.edu/~elkan/#publications)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [k-means clustering from Wikipedia](https://en.wikipedia.org/wiki/K-means_clustering)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Homegage - Charles Elkan](http://cseweb.ucsd.edu/~elkan/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Charles Elkan (**1989**). *Conspiracy Numbers and Caching for Searching And/Or Trees and Theorem-Proving*. [IJCAI 1989](Conferences#IJCAI "Conferences"), [pdf](https://www.ijcai.org/Proceedings/89-1/Papers/054.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Charles Elkan](https://dblp.uni-trier.de/pers/hd/e/Elkan:Charles.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Charles Elkan - Selected publications](http://cseweb.ucsd.edu/~elkan/#publications)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [k-means clustering from Wikipedia](https://en.wikipedia.org/wiki/K-means_clustering)
 
 **[Up one level](People "People")**
 

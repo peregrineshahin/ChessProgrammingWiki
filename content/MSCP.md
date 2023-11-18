@@ -84,9 +84,9 @@ As subject of his Bachelor thesis, *Parallelizing a Simple Chess Program*, [Bria
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [MSCP - Marcel's Simple Chess Program](http://marcelk.net/mscp/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Brian Greskamp](index.php?title=Brian_Greskamp&action=edit&redlink=1 "Brian Greskamp (page does not exist)") (**2003**). *Parallelizing a Simple Chess Program*. [pdf](https://pdfs.semanticscholar.org/8e1b/da134a45bd362c61827e99fd1e2cb624079d.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Participants 22nd Open Dutch Computer-Chess Championship 19, 20, 26, 27 Oct. 2002, Leiden, Netherlands](http://old.csvn.nl/partic02.html) [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck") is not involved in the current development of Djenghis. [Theo](Theo_van_der_Storm "Theo van der Storm"), October 29, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [MSCP - Marcel's Simple Chess Program](http://marcelk.net/mscp/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Brian Greskamp](index.php?title=Brian_Greskamp&action=edit&redlink=1 "Brian Greskamp (page does not exist)") (**2003**). *Parallelizing a Simple Chess Program*. [pdf](https://pdfs.semanticscholar.org/8e1b/da134a45bd362c61827e99fd1e2cb624079d.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Participants 22nd Open Dutch Computer-Chess Championship 19, 20, 26, 27 Oct. 2002, Leiden, Netherlands](http://old.csvn.nl/partic02.html) [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck") is not involved in the current development of Djenghis. [Theo](Theo_van_der_Storm "Theo van der Storm"), October 29, 2002
 
 **[Up one Level](Engines "Engines")**
 

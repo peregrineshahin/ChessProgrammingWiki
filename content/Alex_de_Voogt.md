@@ -61,18 +61,18 @@ and member of the editorial board of its journal <a id="cite-note-3" href="#cite
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alex de Voogt | Drew University - Academia.edu](https://drew.academia.edu/AlexdeVoogt)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Alex de Voogt (**1995**). *Limits of the Mind: Towards a Characterisation of Bao Mastership*. Ph.D. Thesis, CNWS Publications
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ludus-Opuscula BGSJ - Editorial Board](http://bgsj.ludus-opuscula.org/Home/WebPageDetails?Page=Editorial%20Board)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alex de Voogt - Google Scholar Citations](https://scholar.google.com/citations?user=zSbdmvwAAAAJ&hl=en)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Alex de Voogt | Drew University - Academia.edu](https://drew.academia.edu/AlexdeVoogt)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Sa'id ibn Jubayr from Wikipedia](https://en.wikipedia.org/wiki/Sa%27id_ibn_Jubayr)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Husayn ibn Ali from Wikipedia](https://en.wikipedia.org/wiki/Husayn_ibn_Ali)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Umayyad Caliphate from Wikipedia](https://en.wikipedia.org/wiki/Umayyad_Caliphate)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Palmyra from Wikipedia](https://en.wikipedia.org/wiki/Palmyra)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Nubian pyramids from Wikipedia](https://en.wikipedia.org/wiki/Nubian_pyramids)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Juǀʼhoan language from Wikipedia](https://en.wikipedia.org/wiki/Ju%C7%80%CA%BChoan_language)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Melville J. Herskovits from Wikipedia](https://en.wikipedia.org/wiki/Melville_J._Herskovits)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alex de Voogt | Drew University - Academia.edu](https://drew.academia.edu/AlexdeVoogt)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Alex de Voogt (**1995**). *Limits of the Mind: Towards a Characterisation of Bao Mastership*. Ph.D. Thesis, CNWS Publications
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ludus-Opuscula BGSJ - Editorial Board](http://bgsj.ludus-opuscula.org/Home/WebPageDetails?Page=Editorial%20Board)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alex de Voogt - Google Scholar Citations](https://scholar.google.com/citations?user=zSbdmvwAAAAJ&hl=en)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Alex de Voogt | Drew University - Academia.edu](https://drew.academia.edu/AlexdeVoogt)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Sa'id ibn Jubayr from Wikipedia](https://en.wikipedia.org/wiki/Sa%27id_ibn_Jubayr)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Husayn ibn Ali from Wikipedia](https://en.wikipedia.org/wiki/Husayn_ibn_Ali)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Umayyad Caliphate from Wikipedia](https://en.wikipedia.org/wiki/Umayyad_Caliphate)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Palmyra from Wikipedia](https://en.wikipedia.org/wiki/Palmyra)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Nubian pyramids from Wikipedia](https://en.wikipedia.org/wiki/Nubian_pyramids)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Juǀʼhoan language from Wikipedia](https://en.wikipedia.org/wiki/Ju%C7%80%CA%BChoan_language)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Melville J. Herskovits from Wikipedia](https://en.wikipedia.org/wiki/Melville_J._Herskovits)
 
 **[Up one level](People "People")**
 

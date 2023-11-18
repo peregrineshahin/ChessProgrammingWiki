@@ -51,9 +51,9 @@ written in [C](C "C")/[C++](Cpp "Cpp"), and released under the [MIT license](Mas
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [chess-at-nite/README at master · fdomig/chess-at-nite · GitHub](https://github.com/fdomig/chess-at-nite/blob/master/README)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [chess-at-nite/ComputerPlayer.cpp at master · fdomig/chess-at-nite · GitHub](https://github.com/fdomig/chess-at-nite/blob/master/src/player/ComputerPlayer.cpp)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [chess-at-nite/evaluate.cpp at master · fdomig/chess-at-nite · GitHub](https://github.com/fdomig/chess-at-nite/blob/master/src/model/evaluate.cpp)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [chess-at-nite/README at master · fdomig/chess-at-nite · GitHub](https://github.com/fdomig/chess-at-nite/blob/master/README)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [chess-at-nite/ComputerPlayer.cpp at master · fdomig/chess-at-nite · GitHub](https://github.com/fdomig/chess-at-nite/blob/master/src/player/ComputerPlayer.cpp)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [chess-at-nite/evaluate.cpp at master · fdomig/chess-at-nite · GitHub](https://github.com/fdomig/chess-at-nite/blob/master/src/model/evaluate.cpp)
 
 **[Up one level](Engines "Engines")**
 

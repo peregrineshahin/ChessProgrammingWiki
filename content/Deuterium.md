@@ -121,9 +121,9 @@ Deuterium participated at most [ACCA World Computer Rapid Chess Championships](A
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image by [Alchemist-hp](https://commons.wikimedia.org/wiki/User:Alchemist-hp), [Deuterium (heavy hydrogen) from Wikipedia](https://en.wikipedia.org/wiki/Deuterium)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Deuterium v14.2.33.276 released](http://www.talkchess.com/forum/viewtopic.php?t=52710) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), June 21, 2014
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> based on [Deuterium Homepage](https://sites.google.com/site/deuteriumengine/) and Deuterium v14.3.34.130 readme.txt
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image by [Alchemist-hp](https://commons.wikimedia.org/wiki/User:Alchemist-hp), [Deuterium (heavy hydrogen) from Wikipedia](https://en.wikipedia.org/wiki/Deuterium)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Deuterium v14.2.33.276 released](http://www.talkchess.com/forum/viewtopic.php?t=52710) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), June 21, 2014
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> based on [Deuterium Homepage](https://sites.google.com/site/deuteriumengine/) and Deuterium v14.3.34.130 readme.txt
 
 **[Up one Level](Engines "Engines")**
 

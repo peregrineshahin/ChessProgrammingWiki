@@ -29,9 +29,9 @@ and is co-author of the chess engine [Rival](Rival "Rival") <a id="cite-note-3" 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [chris-moreton (Chris Moreton) · GitHub](https://github.com/chris-moreton)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Play Chess on RedHotPawn.com](https://www.redhotpawn.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Rival Chess Engine - About](http://web.archive.org/web/20160313201136/http://www.rivalchess.com/about) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [chris-moreton (Chris Moreton) · GitHub](https://github.com/chris-moreton)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Play Chess on RedHotPawn.com](https://www.redhotpawn.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rival Chess Engine - About](http://web.archive.org/web/20160313201136/http://www.rivalchess.com/about) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

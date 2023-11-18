@@ -44,8 +44,8 @@ Jochen Peussner and [Roland Pfister](Roland_Pfister "Roland Pfister"), [BELCT 20
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [DisasterArea Homepage](https://sites.google.com/site/disasterareachess/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) Photos by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [DisasterArea Homepage](https://sites.google.com/site/disasterareachess/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) Photos by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
 
 **[Up one level](People "People")**
 

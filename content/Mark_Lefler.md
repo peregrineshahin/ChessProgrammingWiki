@@ -124,16 +124,16 @@ Mark graduated in 1981 with a BS degree in Engineering Science and Mechanics fro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zillions of Games from Wikipedia](https://en.wikipedia.org/wiki/Zillions_of_Games)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zillions Development Corporation](http://www.zillions-of-games.com/zildev.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Who is Don/Larry's new partner!?](http://www.talkchess.com/forum/viewtopic.php?t=49623&start=23) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), October 08, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Who Are We?](http://www.zillions-of-games.com/whoarewe.html) - About the founders Mark Lefler and [Jeff Mallett](Jeff_Mallett "Jeff Mallett") & others working for Zillions Development Corporation
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: community test result web page?](http://www.talkchess.com/forum/viewtopic.php?t=17344&start=4) by Mark Lefler, [CCC](CCC "CCC"), October 26, 2007
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Photo from the no longer available [ChessBase](ChessBase "ChessBase") site
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Events 2016: Photos Day 7](https://icga.leidenuniv.nl/?page_id=1930) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [community test result web page?](http://www.talkchess.com/forum/viewtopic.php?t=17344) by [Sam Hamilton](Sam_Hamilton "Sam Hamilton"), [CCC](CCC "CCC"), October 25, 2007
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Moore's law from Wikipedia](https://en.wikipedia.org/wiki/Moore%27s_law)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [20 Years after Deep Blue: How AI Has Advanced Since Conquering Chess](https://www.scientificamerican.com/article/20-years-after-deep-blue-how-ai-has-advanced-since-conquering-chess/) by [Larry Greenemeier](https://www.crunchbase.com/person/larry-greenemeier), [Scientific American](Scientific_American "Scientific American"), June 2, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zillions of Games from Wikipedia](https://en.wikipedia.org/wiki/Zillions_of_Games)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zillions Development Corporation](http://www.zillions-of-games.com/zildev.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Who is Don/Larry's new partner!?](http://www.talkchess.com/forum/viewtopic.php?t=49623&start=23) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), October 08, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Who Are We?](http://www.zillions-of-games.com/whoarewe.html) - About the founders Mark Lefler and [Jeff Mallett](Jeff_Mallett "Jeff Mallett") & others working for Zillions Development Corporation
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: community test result web page?](http://www.talkchess.com/forum/viewtopic.php?t=17344&start=4) by Mark Lefler, [CCC](CCC "CCC"), October 26, 2007
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photo from the no longer available [ChessBase](ChessBase "ChessBase") site
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Events 2016: Photos Day 7](https://icga.leidenuniv.nl/?page_id=1930) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [community test result web page?](http://www.talkchess.com/forum/viewtopic.php?t=17344) by [Sam Hamilton](Sam_Hamilton "Sam Hamilton"), [CCC](CCC "CCC"), October 25, 2007
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Moore's law from Wikipedia](https://en.wikipedia.org/wiki/Moore%27s_law)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [20 Years after Deep Blue: How AI Has Advanced Since Conquering Chess](https://www.scientificamerican.com/article/20-years-after-deep-blue-how-ai-has-advanced-since-conquering-chess/) by [Larry Greenemeier](https://www.crunchbase.com/person/larry-greenemeier), [Scientific American](Scientific_American "Scientific American"), June 2, 2017
 
 ## What links here?
 

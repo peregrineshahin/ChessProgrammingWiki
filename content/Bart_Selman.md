@@ -50,12 +50,12 @@ an American computer scientist with Dutch roots, and professor at [Cornell Unive
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bart Selman | LinkedIn](https://www.linkedin.com/in/bart-selman-33a114)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bart Selman's Home Page - Bio](http://www.cs.cornell.edu/selman/bio.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Raghuram Ramanujan](Raghuram_Ramanujan "Raghuram Ramanujan"), [Ashish Sabharwal](Ashish_Sabharwal "Ashish Sabharwal"), Bart Selman (**2010**). *[On Adversarial Search Spaces and Sampling-Based Planning](http://www.aaai.org/ocs/index.php/ICAPS/ICAPS10/paper/view/1458)*. [ICAPS 2010](http://www.aaai.org/Press/Proceedings/icaps10.php)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Bart Selman](http://dblp.uni-trier.de/pers/hd/s/Selman:Bart)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Papers by Bart Selman](http://www.cs.cornell.edu/selman/papers/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Search traps in MCTS and chess](http://www.talkchess.com/forum/viewtopic.php?t=66125) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), December 25, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bart Selman | LinkedIn](https://www.linkedin.com/in/bart-selman-33a114)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bart Selman's Home Page - Bio](http://www.cs.cornell.edu/selman/bio.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Raghuram Ramanujan](Raghuram_Ramanujan "Raghuram Ramanujan"), [Ashish Sabharwal](Ashish_Sabharwal "Ashish Sabharwal"), Bart Selman (**2010**). *[On Adversarial Search Spaces and Sampling-Based Planning](http://www.aaai.org/ocs/index.php/ICAPS/ICAPS10/paper/view/1458)*. [ICAPS 2010](http://www.aaai.org/Press/Proceedings/icaps10.php)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Bart Selman](http://dblp.uni-trier.de/pers/hd/s/Selman:Bart)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Papers by Bart Selman](http://www.cs.cornell.edu/selman/papers/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Search traps in MCTS and chess](http://www.talkchess.com/forum/viewtopic.php?t=66125) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), December 25, 2017
 
 **[Up one level](People "People")**
 

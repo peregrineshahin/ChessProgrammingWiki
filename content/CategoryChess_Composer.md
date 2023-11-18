@@ -19,7 +19,7 @@ a person who creates [endgame](Endgame "Endgame") [studies or chess problems](Ch
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John Roycroft](John_Roycroft "John Roycroft"), [Gia Nadareischwili](https://en.wikipedia.org/wiki/Gia_Nadareishvili), [Virgil Nestorescu](https://de.wikipedia.org/wiki/Virgil_Nestorescu) and [Jan Mortensen](http://www.arves.org/arves/index.php/en/halloffame/composers-by-timeline/composers-by-timeline-1900-1932) at [PCCC-meeting](https://en.wikipedia.org/wiki/World_Federation_for_Chess_Composition) 1990 in [Benidorm](https://en.wikipedia.org/wiki/Benidorm) (Spain), Photo by [Rainer Staudte](Rainer_Staudte "Rainer Staudte"), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John Roycroft](John_Roycroft "John Roycroft"), [Gia Nadareischwili](https://en.wikipedia.org/wiki/Gia_Nadareishvili), [Virgil Nestorescu](https://de.wikipedia.org/wiki/Virgil_Nestorescu) and [Jan Mortensen](http://www.arves.org/arves/index.php/en/halloffame/composers-by-timeline/composers-by-timeline-1900-1932) at [PCCC-meeting](https://en.wikipedia.org/wiki/World_Federation_for_Chess_Composition) 1990 in [Benidorm](https://en.wikipedia.org/wiki/Benidorm) (Spain), Photo by [Rainer Staudte](Rainer_Staudte "Rainer Staudte"), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 ## Pages in category "Chess Composer"
 

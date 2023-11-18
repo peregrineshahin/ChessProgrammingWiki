@@ -22,12 +22,12 @@ a British computer chess expert, journalist, from 1985 until 2013 editor and pro
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Capture from the [Video](#video) ca. 4:04
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eric Hallsworth's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=18)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [PC HIARCS 9.0 Computer Chess Software Program](http://www.hiarcs.com/pc_hiarcs_9_0.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Eric Hallsworth](http://www.hiarcs.net/forums/viewtopic.php?t=1997) by [Ted Summers](Ted_Summers "Ted Summers"), [HIARCS Forum](Computer_Chess_Forums "Computer Chess Forums"), December 14, 2008
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Historic video's](http://www.top-5000.nl/video.html) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [A couple of new historic video's](http://www.talkchess.com/forum/viewtopic.php?t=47530) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), Mar 17, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Capture from the [Video](#video) ca. 4:04
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eric Hallsworth's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=18)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PC HIARCS 9.0 Computer Chess Software Program](http://www.hiarcs.com/pc_hiarcs_9_0.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Eric Hallsworth](http://www.hiarcs.net/forums/viewtopic.php?t=1997) by [Ted Summers](Ted_Summers "Ted Summers"), [HIARCS Forum](Computer_Chess_Forums "Computer Chess Forums"), December 14, 2008
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Historic video's](http://www.top-5000.nl/video.html) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [A couple of new historic video's](http://www.talkchess.com/forum/viewtopic.php?t=47530) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), Mar 17, 2013
 
 **[Up one level](People "People")**
 

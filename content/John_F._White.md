@@ -42,15 +42,15 @@ a British multiple author <a id="cite-note-1" href="#cite-ref-1">[1]</a>, comput
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Amazon.com: John F. White: Books](http://www.amazon.com/John-F-White/e/B001KDV7WQ/ref=ntt_athr_dp_pel_1)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> John F. White (**2006**). *[Restorer of the World: The Roman Emperor Aurelian](http://www.amazon.com/Restorer-World-Roman-Emperor-Aurelian/dp/1862272506/ref=lp_B001KDV7WQ_1_5?ie=UTF8&qid=1333734895&sr=1-5)*. Spellmount
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> John F. White (**2016**). *[Blitz Latin Revisited](https://www.cambridge.org/core/journals/journal-of-classics-teaching/article/blitz-latin-revisited/24CDD56F60DA2297F34A54F63BBA5B38)*. Journal of Classics Teaching, Vol. 16, No. 32
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Welcome to Blitz Latin](http://www.blitzlatin.com/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [White John F. countrybookshop.co.uk](http://www.peakfestival.com/cgi-bin/search.pl?searchtype=author&searchtext=White+John+F.)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> John F. White (**1988**). *Querg Chess*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> John F. White (**1990**). *The Amateur's Book-Opening Routine*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The Master Game from Wikipedia](https://en.wikipedia.org/wiki/The_Master_Game)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Amazon.com: John F. White: Books](http://www.amazon.com/John-F-White/e/B001KDV7WQ/ref=ntt_athr_dp_pel_1)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> John F. White (**2006**). *[Restorer of the World: The Roman Emperor Aurelian](http://www.amazon.com/Restorer-World-Roman-Emperor-Aurelian/dp/1862272506/ref=lp_B001KDV7WQ_1_5?ie=UTF8&qid=1333734895&sr=1-5)*. Spellmount
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> John F. White (**2016**). *[Blitz Latin Revisited](https://www.cambridge.org/core/journals/journal-of-classics-teaching/article/blitz-latin-revisited/24CDD56F60DA2297F34A54F63BBA5B38)*. Journal of Classics Teaching, Vol. 16, No. 32
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Welcome to Blitz Latin](http://www.blitzlatin.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [White John F. countrybookshop.co.uk](http://www.peakfestival.com/cgi-bin/search.pl?searchtype=author&searchtext=White+John+F.)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> John F. White (**1988**). *Querg Chess*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> John F. White (**1990**). *The Amateur's Book-Opening Routine*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The Master Game from Wikipedia](https://en.wikipedia.org/wiki/The_Master_Game)
 
 **[Up one level](People "People")**
 

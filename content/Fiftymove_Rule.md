@@ -95,10 +95,10 @@ At the beginning of the nineties, when it has been proven that some [endgames](E
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Fide Handbook - E.I.01A. Laws of Chess](http://www.fide.com/component/handbook/?id=124&view=article)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [FIDE's new rules for chess](http://www.talkchess.com/forum/viewtopic.php?t=53030) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), July 20, 2014
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Endgame tablebases with the fifty-move rule](http://galen.metapath.org/egtb50/) by [Galen Huntington](index.php?title=Galen_Huntington&action=edit&redlink=1 "Galen Huntington (page does not exist)")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner") found a game finished in a fifty-move rule draw, where [castling](Castling "Castling") occurred during the last fifty moves
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Fide Handbook - E.I.01A. Laws of Chess](http://www.fide.com/component/handbook/?id=124&view=article)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [FIDE's new rules for chess](http://www.talkchess.com/forum/viewtopic.php?t=53030) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), July 20, 2014
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Endgame tablebases with the fifty-move rule](http://galen.metapath.org/egtb50/) by [Galen Huntington](index.php?title=Galen_Huntington&action=edit&redlink=1 "Galen Huntington (page does not exist)")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner") found a game finished in a fifty-move rule draw, where [castling](Castling "Castling") occurred during the last fifty moves
 
 **[Up one Level](Draw "Draw")**
 

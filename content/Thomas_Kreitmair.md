@@ -30,8 +30,8 @@ a German electrical engineer, research scientist affiliated with the [NATO C3 Ag
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image captured from [10th Aegon Human vs Computers The Hague 1995](Aegon_1995#Video "Aegon 1995") Video by [Hebert Perez Garcia](http://www.chessgames.com/perl/chessplayer?pid=60789) : 2:23
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The chess games of Schach 2 3](http://www.chessgames.com/perl/chessplayer?pid=64934) from [Chessgames.com](https://en.wikipedia.org/wiki/Chessgames.com)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image captured from [10th Aegon Human vs Computers The Hague 1995](Aegon_1995#Video "Aegon 1995") Video by [Hebert Perez Garcia](http://www.chessgames.com/perl/chessplayer?pid=60789) : 2:23
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The chess games of Schach 2 3](http://www.chessgames.com/perl/chessplayer?pid=64934) from [Chessgames.com](https://en.wikipedia.org/wiki/Chessgames.com)
 
 **[Up one level](People "People")**
 

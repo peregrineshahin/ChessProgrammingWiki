@@ -25,10 +25,10 @@ a Swiss computer scientist and software engineer. While affiliated with [ETH Zur
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Archives - Endgames (DTC, DTM, DTZ, DTZ-50)](http://chess.jaet.org/endings/) hosted by [John Tamplin](John_Tamplin "John Tamplin")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Christoph Wirth](https://dblp.uni-trier.de/pers/hd/w/Wirth:Christoph)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chris Wirth's endgame tablebases](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=2923) by [Denis P. Mendoza](Denis_Mendoza "Denis Mendoza"), [CCRL Endgame Tablebases](Computer_Chess_Forums "Computer Chess Forums"), December 13, 2007 » [Chessterfield](Chessterfield "Chessterfield")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Archives - Endgames (DTC, DTM, DTZ, DTZ-50)](http://chess.jaet.org/endings/) hosted by [John Tamplin](John_Tamplin "John Tamplin")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Christoph Wirth](https://dblp.uni-trier.de/pers/hd/w/Wirth:Christoph)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chris Wirth's endgame tablebases](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=2923) by [Denis P. Mendoza](Denis_Mendoza "Denis Mendoza"), [CCRL Endgame Tablebases](Computer_Chess_Forums "Computer Chess Forums"), December 13, 2007 » [Chessterfield](Chessterfield "Chessterfield")
 
 **[Up one level](People "People")**
 

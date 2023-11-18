@@ -61,12 +61,12 @@ an American computer scientist and [AI](Artificial_Intelligence "Artificial Inte
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tom Mitchell's Home Page](http://www.cs.cmu.edu/~tom/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tom Mitchell Represents CMU at 2017 World Economic Forum - Machine Learning](https://www.ml.cmu.edu/news/news-archive/2017/june/mitchell-world-economic-forum.html) - [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), June 29, 2017
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Machine Learning Department - Carnegie Mellon University](http://www.ml.cmu.edu/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Selected Publications by Tom Mitchell](http://www.cs.cmu.edu/~tom/publications.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Tom M. Mitchell](https://dblp.uni-trier.de/pers/hd/m/Mitchell:Tom_M=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tom Mitchell's Home Page](http://www.cs.cmu.edu/~tom/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tom Mitchell Represents CMU at 2017 World Economic Forum - Machine Learning](https://www.ml.cmu.edu/news/news-archive/2017/june/mitchell-world-economic-forum.html) - [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), June 29, 2017
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Machine Learning Department - Carnegie Mellon University](http://www.ml.cmu.edu/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Selected Publications by Tom Mitchell](http://www.cs.cmu.edu/~tom/publications.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Tom M. Mitchell](https://dblp.uni-trier.de/pers/hd/m/Mitchell:Tom_M=)
 
 **[Up one level](People "People")**
 

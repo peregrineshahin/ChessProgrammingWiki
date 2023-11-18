@@ -44,8 +44,8 @@ a [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computing) proces
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Die shot](https://commons.wikimedia.org/wiki/File:Inmos_T805_die.JPG) by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), November 25, 2013, [Transputer from Wikipedia](https://en.wikipedia.org/wiki/Transputer), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Burkhard Monien](Burkhard_Monien "Burkhard Monien") (**1991**). *A Fully Distributed Chess Program*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6"), page 6
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Die shot](https://commons.wikimedia.org/wiki/File:Inmos_T805_die.JPG) by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), November 25, 2013, [Transputer from Wikipedia](https://en.wikipedia.org/wiki/Transputer), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Burkhard Monien](Burkhard_Monien "Burkhard Monien") (**1991**). *A Fully Distributed Chess Program*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6"), page 6
 
 **[Up one Level](Hardware "Hardware")**
 

@@ -137,17 +137,17 @@ Ke1 77.Ra4 f3 78.Rxh4 Ke2 79.Rf4 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Tiger for iOS - The best chess program for iPhone, iPod touch and iPad - Screenshots](http://www.chesstiger.com/iphone/index.html#Screenshots)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [REBEL-TIGER II](http://www.rebel.nl/r11-rt2.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Question:1.hashtable 2.board 3.C](https://www.stmintz.com/ccc/index.php?id=114436) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), June 13, 2000
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Tiger 2007](http://www.lokasoft.nl/chess_tiger_2007) from [Lokasoft](Lokasoft "Lokasoft")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ChessTiger 15](http://www.chessbase-shop.com/en/products/chesstiger_15) from [ChessBase Shop](ChessBase "ChessBase")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chess Tiger: the strongest computer chess program for the Palm - free download](http://www.chesstiger.com/palm/index.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Chess Tiger for iOS - The best chess program for iPhone, iPod touch and iPad](http://www.chesstiger.com/iphone/index.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chess Pro - with coach for iPhone, iPod touch, and iPad on the iTunes App Store](https://itunes.apple.com/us/app/chess-pro-with-coach/id423198259?mt=8)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Chess Tiger's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=23)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=10)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Tiger for iOS - The best chess program for iPhone, iPod touch and iPad - Screenshots](http://www.chesstiger.com/iphone/index.html#Screenshots)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [REBEL-TIGER II](http://www.rebel.nl/r11-rt2.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Question:1.hashtable 2.board 3.C](https://www.stmintz.com/ccc/index.php?id=114436) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), June 13, 2000
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Tiger 2007](http://www.lokasoft.nl/chess_tiger_2007) from [Lokasoft](Lokasoft "Lokasoft")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ChessTiger 15](http://www.chessbase-shop.com/en/products/chesstiger_15) from [ChessBase Shop](ChessBase "ChessBase")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chess Tiger: the strongest computer chess program for the Palm - free download](http://www.chesstiger.com/palm/index.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chess Tiger for iOS - The best chess program for iPhone, iPod touch and iPad](http://www.chesstiger.com/iphone/index.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chess Pro - with coach for iPhone, iPod touch, and iPad on the iTunes App Store](https://itunes.apple.com/us/app/chess-pro-with-coach/id423198259?mt=8)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chess Tiger's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=23)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=10)
 
 **[Up one Level](Engines "Engines")**
 

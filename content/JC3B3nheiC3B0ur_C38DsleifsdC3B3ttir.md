@@ -34,9 +34,9 @@ GTQL is a [language](Languages "Languages") and tool, designed for [Testing](Eng
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Jónheiður Ísleifsdóttir (**2007**). *GTQL: A Query Language for Game Trees*. M.Sc. thesis, [Reykjavík University](https://en.wikipedia.org/wiki/Reykjav%C3%ADk_University)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Regression testing from Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Jónheiður Ísleifsdóttir](https://dblp.uni-trier.de/pid/39/4208.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Jónheiður Ísleifsdóttir (**2007**). *GTQL: A Query Language for Game Trees*. M.Sc. thesis, [Reykjavík University](https://en.wikipedia.org/wiki/Reykjav%C3%ADk_University)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Regression testing from Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Jónheiður Ísleifsdóttir](https://dblp.uni-trier.de/pid/39/4208.html)
 
 **[Up one level](People "People")**
 

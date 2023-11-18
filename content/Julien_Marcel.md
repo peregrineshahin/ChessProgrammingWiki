@@ -34,10 +34,10 @@ a French jurist, professor of law, and avocational computer chess programmer. He
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marcel Julien](http://www.blitzchess.fr/fr/programmeurs/programmeursfranais/marceljulien/index.html) from [blitzchess.fr](http://www.blitzchess.fr/) (French)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Thank you!](http://www.talkchess.com/forum/viewtopic.php?t=44733) by Julien Marcel, [CCC](CCC "CCC"), August 08, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David E. Welsh](David_E._Welsh "David E. Welsh"), [Boris Baczynskyj](Boris_Baczynskyj "Boris Baczynskyj") (**1985**). *[Computer Chess II](http://www.amazon.com/Computer-Chess-II-David-Welsh/dp/0697099113)*. William C Brown Publications, ISBN-13: 978-0697099112
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mac Chess Engines Repository](http://julien.marcel.free.fr/macchess/Chess_on_Mac/Engines.html) hosted by Julien Marcel
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marcel Julien](http://www.blitzchess.fr/fr/programmeurs/programmeursfranais/marceljulien/index.html) from [blitzchess.fr](http://www.blitzchess.fr/) (French)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Thank you!](http://www.talkchess.com/forum/viewtopic.php?t=44733) by Julien Marcel, [CCC](CCC "CCC"), August 08, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David E. Welsh](David_E._Welsh "David E. Welsh"), [Boris Baczynskyj](Boris_Baczynskyj "Boris Baczynskyj") (**1985**). *[Computer Chess II](http://www.amazon.com/Computer-Chess-II-David-Welsh/dp/0697099113)*. William C Brown Publications, ISBN-13: 978-0697099112
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mac Chess Engines Repository](http://julien.marcel.free.fr/macchess/Chess_on_Mac/Engines.html) hosted by Julien Marcel
 
 **[Up one level](People "People")**
 

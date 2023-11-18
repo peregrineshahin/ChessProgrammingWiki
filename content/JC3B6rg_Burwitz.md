@@ -28,8 +28,8 @@ He regularly played the [IPCCC](IPCCC "IPCCC") tournaments with Diogenes in the 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ein Besuch in Paderborn](http://www.thorstenczub.de/Paderborn.html) Photos by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SV Rugia Bergen (Mannschaften)](http://www.rugia-schach.de/Rugia.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ein Besuch in Paderborn](http://www.thorstenczub.de/Paderborn.html) Photos by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SV Rugia Bergen (Mannschaften)](http://www.rugia-schach.de/Rugia.htm)
 
 **[Up one level](People "People")**
 

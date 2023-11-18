@@ -40,8 +40,8 @@ In most variations of atomic chess, players must respond to being [checked](Chec
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Atomic chess from Wikipedia](https://en.wikipedia.org/wiki/Atomic_chess)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [February 2019 – Chronatog - Golden Era of Atomic Chess (1995-1999)](https://chronatog.com/2019/02/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Atomic chess from Wikipedia](https://en.wikipedia.org/wiki/Atomic_chess)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [February 2019 – Chronatog - Golden Era of Atomic Chess (1995-1999)](https://chronatog.com/2019/02/)
 
 **[Up one Level](Games "Games")**
 

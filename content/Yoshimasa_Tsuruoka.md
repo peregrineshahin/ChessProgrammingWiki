@@ -56,11 +56,11 @@ a Japanese computer scientist, [Shogi](Shogi "Shogi") programmer and associate p
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yoshimasa Tsuruoka](http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [JAIST School of Information Science](http://www.jaist.ac.jp/is/index.php)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Publications](http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/publications.htm) of Yoshimasa Tsuruoka
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [David Levy](David_Levy "David Levy") (**2002**). *[Some Comments on Realization Probabilities and the SEX Algorithm](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm#SOME%20COMMENTS%20ON%20REALIZATION%20PROBABILITIES)*.[ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yoshimasa Tsuruoka](http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [JAIST School of Information Science](http://www.jaist.ac.jp/is/index.php)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Publications](http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/publications.htm) of Yoshimasa Tsuruoka
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [David Levy](David_Levy "David Levy") (**2002**). *[Some Comments on Realization Probabilities and the SEX Algorithm](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm#SOME%20COMMENTS%20ON%20REALIZATION%20PROBABILITIES)*.[ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -53,10 +53,10 @@ and further maintains a chess programming site <a id="cite-note-4" href="#cite-r
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Contact Details www.fam-petzke.de](http://www.fam-petzke.de/contact_en.shtml)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [mACE Chess: Getting started](http://macechess.blogspot.com/2010/08/getting-started.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [mACE Chess](http://macechess.blogspot.com/) by Thomas Petzke
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Programming - Home](http://www.fam-petzke.de/chess_home_en.shtml) by Thomas Petzke
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Contact Details www.fam-petzke.de](http://www.fam-petzke.de/contact_en.shtml)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [mACE Chess: Getting started](http://macechess.blogspot.com/2010/08/getting-started.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [mACE Chess](http://macechess.blogspot.com/) by Thomas Petzke
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Programming - Home](http://www.fam-petzke.de/chess_home_en.shtml) by Thomas Petzke
 
 **[Up one level](People "People")**
 

@@ -190,19 +190,19 @@ Rfxf2 25.Rxf2 Qxf2+ 26.Kh1 h6 27.Qd8+ Kh7 1/2-1/2
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Levy on Kasparov vs X3D Fritz](https://en.chessbase.com/post/david-levy-on-kasparov-vs-x3d-fritz), November 21, 2003
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Quote from [David Levy](David_Levy "David Levy") (**2003**). *Kasparov vs X3D Fritz*. [ICGA Journal, Vol. 26, No. 4](ICGA_Journal#26_4 "ICGA Journal"), The 3D environment: "With the [virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) environment Kasparov was calling out his moves and did not have the luxury of changing his mind when he saw the piece in the air (or on a new square). After the match his second, Yuri Dokhian, asked him simply to remove the rook from the board in game two (instead of playing it to g7), and immediately Kasparov realised that ...Rg7 would be fatal."
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [X3D Fritz from Wikipedia](https://en.wikipedia.org/wiki/X3D_Fritz)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Meant to be Seen - View topic - IZ3D + X3D glasses, a couple of problems](http://www.mtbs3d.com/phpBB/viewtopic.php?f=104&t=10352), May 21, 2010
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Classical World Chess Championship 2000](https://en.wikipedia.org/wiki/Classical_World_Chess_Championship_2000)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [It's Man vs Machine in virtual reality](https://en.chessbase.com/post/it-s-man-vs-machine-in-virtual-reality), November 03, 2003
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> The Board of the [ICGA](ICGA "ICGA") (**2003**). *Garry Kasparov vs. X3D Fritz*. [ICGA Journal, Vol. 26, No. 3](ICGA_Journal#26_3 "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Kasparov,G vs X3D Fritz (1) draw (PGN)](https://www.stmintz.com/ccc/index.php?id=326771) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), November 11, 2003
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Fritz X3D vs Kasparov,G (2) 1-0 (PGN)](https://www.stmintz.com/ccc/index.php?id=327243) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), November 13, 2003
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [A historical game](http://www.talkchess.com/forum/viewtopic.php?t=54391) by [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov"), [CCC](CCC "CCC"), November 19, 2014
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Kasparov,G vs Fritz X3D (3) 1-0 PGN and live comments](https://www.stmintz.com/ccc/index.php?id=328028) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), November 16, 2003
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Fritz X3D vs Kasparov,G (4) draw (PGN) Live comments](https://www.stmintz.com/ccc/index.php?id=328509) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), November 18, 2003
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [David Levy on Kasparov vs X3D Fritz](http://en.chessbase.com/post/david-levy-on-kasparov-vs-x3d-fritz), November 21, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Levy on Kasparov vs X3D Fritz](https://en.chessbase.com/post/david-levy-on-kasparov-vs-x3d-fritz), November 21, 2003
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Quote from [David Levy](David_Levy "David Levy") (**2003**). *Kasparov vs X3D Fritz*. [ICGA Journal, Vol. 26, No. 4](ICGA_Journal#26_4 "ICGA Journal"), The 3D environment: "With the [virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) environment Kasparov was calling out his moves and did not have the luxury of changing his mind when he saw the piece in the air (or on a new square). After the match his second, Yuri Dokhian, asked him simply to remove the rook from the board in game two (instead of playing it to g7), and immediately Kasparov realised that ...Rg7 would be fatal."
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [X3D Fritz from Wikipedia](https://en.wikipedia.org/wiki/X3D_Fritz)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Meant to be Seen - View topic - IZ3D + X3D glasses, a couple of problems](http://www.mtbs3d.com/phpBB/viewtopic.php?f=104&t=10352), May 21, 2010
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Classical World Chess Championship 2000](https://en.wikipedia.org/wiki/Classical_World_Chess_Championship_2000)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [It's Man vs Machine in virtual reality](https://en.chessbase.com/post/it-s-man-vs-machine-in-virtual-reality), November 03, 2003
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> The Board of the [ICGA](ICGA "ICGA") (**2003**). *Garry Kasparov vs. X3D Fritz*. [ICGA Journal, Vol. 26, No. 3](ICGA_Journal#26_3 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Kasparov,G vs X3D Fritz (1) draw (PGN)](https://www.stmintz.com/ccc/index.php?id=326771) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), November 11, 2003
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Fritz X3D vs Kasparov,G (2) 1-0 (PGN)](https://www.stmintz.com/ccc/index.php?id=327243) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), November 13, 2003
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [A historical game](http://www.talkchess.com/forum/viewtopic.php?t=54391) by [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov"), [CCC](CCC "CCC"), November 19, 2014
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Kasparov,G vs Fritz X3D (3) 1-0 PGN and live comments](https://www.stmintz.com/ccc/index.php?id=328028) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), November 16, 2003
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Fritz X3D vs Kasparov,G (4) draw (PGN) Live comments](https://www.stmintz.com/ccc/index.php?id=328509) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), November 18, 2003
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [David Levy on Kasparov vs X3D Fritz](http://en.chessbase.com/post/david-levy-on-kasparov-vs-x3d-fritz), November 21, 2003
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

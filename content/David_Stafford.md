@@ -22,9 +22,9 @@ As former computer chess programmer, David Stafford is author of the chess progr
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Stafford | LinkedIn](https://www.linkedin.com/in/davidwstafford/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Stafford | LinkedIn](https://www.linkedin.com/in/davidwstafford/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The ACM's Eighteenth North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cabbd) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1987_18th_NACCC/1987%20NACCC.062303063.sm.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Stafford | LinkedIn](https://www.linkedin.com/in/davidwstafford/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Stafford | LinkedIn](https://www.linkedin.com/in/davidwstafford/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The ACM's Eighteenth North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cabbd) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1987_18th_NACCC/1987%20NACCC.062303063.sm.pdf)
 
 **[Up one level](People "People")**
 

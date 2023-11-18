@@ -83,14 +83,14 @@ Chess System Matador IV <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Early 20th century [photograph of a matador](https://commons.wikimedia.org/wiki/File:MatadorEarly20thCentury.jpg), showing traditional outfit. The photo is taken from the 1935 book [The Secret Museum of Mankind](http://ian.macky.net/secretmuseum/) with no author and no copyright notice. 
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Early 20th century [photograph of a matador](https://commons.wikimedia.org/wiki/File:MatadorEarly20thCentury.jpg), showing traditional outfit. The photo is taken from the 1935 book [The Secret Museum of Mankind](http://ian.macky.net/secretmuseum/) with no author and no copyright notice. 
 It has been faithfully reproduced and released under a [Creative Commons Noncommercial 3.0](https://en.wikipedia.org/wiki/Creative_Commons_NonCommercial_license) license. 
 However, since this is a faithful two-dimensional reproduction of a work that is within the [public domain](https://en.wikipedia.org/wiki/Public_domain), it should be within the public domain itself, 
 at least in the [United States](https://en.wikipedia.org/wiki/United_States). [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Matador (Torero) from Wikipedia](https://en.wikipedia.org/wiki/Torero)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lokalmatador – Wiktionary](https://de.wiktionary.org/wiki/Lokalmatador)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [wacnew.epd & single search improvements (extensions)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=43060) by [Stefan Knappe](Stefan_Knappe "Stefan Knappe"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 19, 2003 » [Win at Chess](Win_at_Chess "Win at Chess")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Schach | Homepage Stefan Knappe](https://web.archive.org/web/20090810115640/http://www.stefanknappe.de/content/schach) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), August 10, 2009)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Chess System Matador IV Screenshot from [Schach | Homepage Stefan Knappe](https://web.archive.org/web/20090810115640/http://www.stefanknappe.de/content/schach) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), August 10, 2009)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lokalmatador – Wiktionary](https://de.wiktionary.org/wiki/Lokalmatador)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [wacnew.epd & single search improvements (extensions)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=43060) by [Stefan Knappe](Stefan_Knappe "Stefan Knappe"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 19, 2003 » [Win at Chess](Win_at_Chess "Win at Chess")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Schach | Homepage Stefan Knappe](https://web.archive.org/web/20090810115640/http://www.stefanknappe.de/content/schach) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), August 10, 2009)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Chess System Matador IV Screenshot from [Schach | Homepage Stefan Knappe](https://web.archive.org/web/20090810115640/http://www.stefanknappe.de/content/schach) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), August 10, 2009)
 
 **[Up one Level](Engines "Engines")**
 

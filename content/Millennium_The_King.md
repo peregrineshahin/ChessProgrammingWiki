@@ -61,7 +61,7 @@ while the **The King Performance** released in late 2019 has an own [sensory boa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The King Performance](https://www.hiarcs.net/forums/viewtopic.php?t=9540) by Schachspieler, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), May 16, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The King Performance](https://www.hiarcs.net/forums/viewtopic.php?t=9540) by Schachspieler, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), May 16, 2019
 
 **[Up one level](The_King "The King")**
 

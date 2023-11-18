@@ -75,9 +75,9 @@ feat. [Billy Cobham](Category:Billy_Cobham "Category:Billy Cobham"), [Biréli La
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Viktor Vasnetsov](Category:Viktor_Vasnetsov "Category:Viktor Vasnetsov") - [Dobrynia Nikitich](https://en.wikipedia.org/wiki/Dobrynya_Nikitich) fighting seven-headed [Zmei Gorynych](https://en.wikipedia.org/wiki/Slavic_dragon), 1913–1918
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Заставить работать машину клиента! Конференция](http://forum.ixbt.com/topic.cgi?id=26:39751-20#308) by [Vladimir Rybinkin](Vladimir_Rybinkin "Vladimir Rybinkin"), [Конференция iXBT.com](http://forum.ixbt.com/), September 01, 2009
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Dragon x3, Nightmare x2, Jester x2 ...](https://www.stmintz.com/ccc/index.php?id=256952) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), October 07, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Viktor Vasnetsov](Category:Viktor_Vasnetsov "Category:Viktor Vasnetsov") - [Dobrynia Nikitich](https://en.wikipedia.org/wiki/Dobrynya_Nikitich) fighting seven-headed [Zmei Gorynych](https://en.wikipedia.org/wiki/Slavic_dragon), 1913–1918
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Заставить работать машину клиента! Конференция](http://forum.ixbt.com/topic.cgi?id=26:39751-20#308) by [Vladimir Rybinkin](Vladimir_Rybinkin "Vladimir Rybinkin"), [Конференция iXBT.com](http://forum.ixbt.com/), September 01, 2009
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Dragon x3, Nightmare x2, Jester x2 ...](https://www.stmintz.com/ccc/index.php?id=256952) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), October 07, 2002
 
 **[Up one Level](Engines "Engines")**
 

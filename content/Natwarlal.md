@@ -166,12 +166,12 @@ Kg8 37.Qe6 Kh7 38.f5 Rf8 39.Rxa5 Rfg8 40.g4 Rf8 41.f6 Rgf7 42.g5 Kg6 43.Ra3 c5
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [India's Biggest Conman Natwarlal | Biography Of Natwarlal](https://www.scoopwhoop.com/Natwarlal-Indias-Greatest-Conman-Who-Sold-Taj-Mahal/) by [Shabdita Pareek](https://www.scoopwhoop.com/author/shabdita-pareek/?ref=page_article), [ScoopWhoop](https://en.wikipedia.org/wiki/ScoopWhoop)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: New Engine classifications](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=2178&p=10172#p10172) by [Pallav Nawani](Pallav_Nawani "Pallav Nawani"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 08, 2005
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Natwarlal from Wikipedia](https://en.wikipedia.org/wiki/Natwarlal)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> readme.txt
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Initial version of Natwarlal was greatly influenced by [MSCP](MSCP "MSCP")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Pallav's Domain - Natwarlal](http://www.oocities.org/pallavnawani/chess-natwarlal.html) and source files
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [India's Biggest Conman Natwarlal | Biography Of Natwarlal](https://www.scoopwhoop.com/Natwarlal-Indias-Greatest-Conman-Who-Sold-Taj-Mahal/) by [Shabdita Pareek](https://www.scoopwhoop.com/author/shabdita-pareek/?ref=page_article), [ScoopWhoop](https://en.wikipedia.org/wiki/ScoopWhoop)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: New Engine classifications](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=2178&p=10172#p10172) by [Pallav Nawani](Pallav_Nawani "Pallav Nawani"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 08, 2005
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Natwarlal from Wikipedia](https://en.wikipedia.org/wiki/Natwarlal)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> readme.txt
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Initial version of Natwarlal was greatly influenced by [MSCP](MSCP "MSCP")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pallav's Domain - Natwarlal](http://www.oocities.org/pallavnawani/chess-natwarlal.html) and source files
 
 **[Up one Level](Engines "Engines")**
 

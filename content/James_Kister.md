@@ -28,7 +28,7 @@ an American mathematician, [topologist](https://en.wikipedia.org/wiki/Topology),
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Mathematics Genealogy Project - James Kister](http://genealogy.math.ndsu.nodak.edu/id.php?id=668)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Mathematics Genealogy Project - James Kister](http://genealogy.math.ndsu.nodak.edu/id.php?id=668)
 
 **[Up one level](People "People")**
 

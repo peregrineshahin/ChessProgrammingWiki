@@ -42,8 +42,8 @@ With opponent pieces left, programs usually perform the default passer evaluatio
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> In [Fruit](Fruit "Fruit") referred as king\_passer, [Passed Pawn Evaluation](https://webspace.utexas.edu/zzw57/rtc/eval/passed_pawns.html) from [Rybka 1.0 beta vs. Fruit Evaluation](https://webspace.utexas.edu/zzw57/rtc/eval/eval.html) by [Zach Wegner](Zach_Wegner "Zach Wegner") » [Rybka Controversy](Rybka_Controversy "Rybka Controversy")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Improving evaluation of passed pawns](http://www.talkchess.com/forum/viewtopic.php?t=37748) by [Ben-Hur Carlos Vieira Langoni Junior](Ben-Hur_Carlos_Vieira_Langoni_Junior "Ben-Hur Carlos Vieira Langoni Junior"), [CCC](CCC "CCC"), January 22, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> In [Fruit](Fruit "Fruit") referred as king\_passer, [Passed Pawn Evaluation](https://webspace.utexas.edu/zzw57/rtc/eval/passed_pawns.html) from [Rybka 1.0 beta vs. Fruit Evaluation](https://webspace.utexas.edu/zzw57/rtc/eval/eval.html) by [Zach Wegner](Zach_Wegner "Zach Wegner") » [Rybka Controversy](Rybka_Controversy "Rybka Controversy")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Improving evaluation of passed pawns](http://www.talkchess.com/forum/viewtopic.php?t=37748) by [Ben-Hur Carlos Vieira Langoni Junior](Ben-Hur_Carlos_Vieira_Langoni_Junior "Ben-Hur Carlos Vieira Langoni Junior"), [CCC](CCC "CCC"), January 22, 2011
 
 **[Up one Level](Passed_Pawn "Passed Pawn")**
 

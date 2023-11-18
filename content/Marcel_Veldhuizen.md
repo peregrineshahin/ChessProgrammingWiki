@@ -33,10 +33,10 @@ he contributed to the engine by working on the interface code and various speedu
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marcel Veldhuizen | LinkedIn](https://www.linkedin.com/in/mveldhuizen)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Marcel Veldhuizen | LinkedIn](http://www.linkedin.com/in/mveldhuizen)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [31337 Chess engine | About](https://web.archive.org/web/20020213103433/http://paladijn.dhs.org/chess/about.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2002)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [1st CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html) Photos by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marcel Veldhuizen | LinkedIn](https://www.linkedin.com/in/mveldhuizen)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Marcel Veldhuizen | LinkedIn](http://www.linkedin.com/in/mveldhuizen)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [31337 Chess engine | About](https://web.archive.org/web/20020213103433/http://paladijn.dhs.org/chess/about.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2002)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [1st CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html) Photos by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
 
 **[Up one level](People "People")**
 

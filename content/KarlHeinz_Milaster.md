@@ -22,10 +22,10 @@ a German computer chess programmer, author of [ChessBrain](Chess_Brain "Chess Br
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Karl-Heinz Milaster's schachserver - Impressum](http://www.schachserver.de/Impressum/impressum.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Karl-Heinz Milaster's schachserver](http://www.schachserver.de/index.html) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Karl-Heinz Milaster's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=215)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Schachclub Leinzell - 3D-Schach!](http://scleinzell.schachvereine.de/p_spielprogramme/3dschach.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") - Januar 1999 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Karl-Heinz Milaster's schachserver - Impressum](http://www.schachserver.de/Impressum/impressum.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Karl-Heinz Milaster's schachserver](http://www.schachserver.de/index.html) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Karl-Heinz Milaster's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=215)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Schachclub Leinzell - 3D-Schach!](http://scleinzell.schachvereine.de/p_spielprogramme/3dschach.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") - Januar 1999 (German)
 
 **[Up one level](People "People")**
 

@@ -185,19 +185,19 @@ Scalar integers as numbers, enumerations or simple structures related to [Chess]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [History of Economics Playground - October « 2008](http://historyofeconomics.wordpress.com/2008/10/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Reflections on Trusting Trust](http://cm.bell-labs.com/who/ken/trust.html) [ACM](ACM "ACM") Classic by [Ken Thompson](Ken_Thompson "Ken Thompson")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Storage-Class Specifiers](http://msdn.microsoft.com/en-us/library/ash6ess9.aspx) from [MSDN Library](http://msdn.microsoft.com/en-us/library/ms123401.aspx)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth) (**1976**). *[Algorithms + Data Structures = Programs](https://en.wikipedia.org/wiki/Algorithms_%2B_Data_Structures_%3D_Programs)*
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [AVL tree from Wikipedia](https://en.wikipedia.org/wiki/AVL_tree)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Bloom filter from Wikipedia](https://en.wikipedia.org/wiki/Bloom_filter)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [NIH Class Library — Software Preservation Group](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [NIH Class Library Revision 3.0 - Release Notes](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl/3.0-readme.pdf) (pdf)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [steganography from Wikipedia](https://en.wikipedia.org/wiki/Steganography)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Tango tree from Wikipedia](https://en.wikipedia.org/wiki/Tango_tree)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Bloom filter - Bloomier filters from Wikipedia](https://en.wikipedia.org/wiki/Bloom_filter#Bloomier_filters)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Weka (machine learning) from Wikipedia](<https://en.wikipedia.org/wiki/Weka_(machine_learning)>)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Cuckoo filter from Wikipedia](https://en.wikipedia.org/wiki/Cuckoo_filter)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [History of Economics Playground - October « 2008](http://historyofeconomics.wordpress.com/2008/10/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Reflections on Trusting Trust](http://cm.bell-labs.com/who/ken/trust.html) [ACM](ACM "ACM") Classic by [Ken Thompson](Ken_Thompson "Ken Thompson")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Storage-Class Specifiers](http://msdn.microsoft.com/en-us/library/ash6ess9.aspx) from [MSDN Library](http://msdn.microsoft.com/en-us/library/ms123401.aspx)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth) (**1976**). *[Algorithms + Data Structures = Programs](https://en.wikipedia.org/wiki/Algorithms_%2B_Data_Structures_%3D_Programs)*
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [AVL tree from Wikipedia](https://en.wikipedia.org/wiki/AVL_tree)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Bloom filter from Wikipedia](https://en.wikipedia.org/wiki/Bloom_filter)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [NIH Class Library — Software Preservation Group](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [NIH Class Library Revision 3.0 - Release Notes](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl/3.0-readme.pdf) (pdf)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [steganography from Wikipedia](https://en.wikipedia.org/wiki/Steganography)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Tango tree from Wikipedia](https://en.wikipedia.org/wiki/Tango_tree)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Bloom filter - Bloomier filters from Wikipedia](https://en.wikipedia.org/wiki/Bloom_filter#Bloomier_filters)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Weka (machine learning) from Wikipedia](<https://en.wikipedia.org/wiki/Weka_(machine_learning)>)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Cuckoo filter from Wikipedia](https://en.wikipedia.org/wiki/Cuckoo_filter)
 
 **[Up one Level](Programming "Programming")**
 

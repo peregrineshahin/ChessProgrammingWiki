@@ -45,12 +45,12 @@ Alan Sherman has been the faculty advisor of the UMBC Chess Club since 1991 <a i
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alan T. Sherman (Home Page)](https://www.csee.umbc.edu/~sherman/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [How to Select a College Chess Team‬](https://www.csee.umbc.edu/~sherman/Papers/team_select.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [UMBC Chess Program - UMBC](https://chess.umbc.edu/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [UMBC Chess Team - UMBC Chess Program - UMBC](https://chess.umbc.edu/umbc-chess-team-2/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Alan T. Sherman](https://dblp.uni-trier.de/pid/84/927.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Data Encryption Standard from Wikipedia](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alan T. Sherman (Home Page)](https://www.csee.umbc.edu/~sherman/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [How to Select a College Chess Team‬](https://www.csee.umbc.edu/~sherman/Papers/team_select.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [UMBC Chess Program - UMBC](https://chess.umbc.edu/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [UMBC Chess Team - UMBC Chess Program - UMBC](https://chess.umbc.edu/umbc-chess-team-2/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Alan T. Sherman](https://dblp.uni-trier.de/pid/84/927.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Data Encryption Standard from Wikipedia](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 
 **[Up one level](People "People")**
 

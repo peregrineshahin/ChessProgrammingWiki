@@ -51,10 +51,10 @@ Edsel has worked as a College Professor for two semesters before deciding to pur
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ed-apostol (Edsel Apostol) · GitHub](https://github.com/ed-apostol)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Twisted Logic Chess Engine v0.001 released!](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=3270&p=16194) by Edsel Apostol, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 11, 2005
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Invictus chess engine r228](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68538) by Edsel Apostol, [CCC](CCC "CCC"), September 29, 2018
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hannibal - Chess Engine Portal](https://sites.google.com/site/edapostol/hannibal)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ed-apostol (Edsel Apostol) · GitHub](https://github.com/ed-apostol)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Twisted Logic Chess Engine v0.001 released!](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=3270&p=16194) by Edsel Apostol, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 11, 2005
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Invictus chess engine r228](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68538) by Edsel Apostol, [CCC](CCC "CCC"), September 29, 2018
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hannibal - Chess Engine Portal](https://sites.google.com/site/edapostol/hannibal)
 
 **[Up one level](People "People")**
 

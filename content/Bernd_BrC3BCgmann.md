@@ -29,12 +29,12 @@ Prompted by his work in physics, he has written a [Go](Go "Go") playing program 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Theoretisch-Physikalisches Institut | FSU Jena | Brügmann](https://www.tpi.uni-jena.de/tiki-view_tracker_item.php?page=Staff&itemId=19&show=view)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Prof. Dr. Bernd Brügmann zum Dekan gewählt](https://idw-online.de/de/news?print=1&id=414255), March 21, 2011
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Theoretisch-Physikalisches Institut | FSU Jena | Brügmann](https://www.tpi.uni-jena.de/tiki-view_tracker_item.php?page=Staff&itemId=19&show=view)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ehrenpromotion von Prof. Dr. Abhay Ashtekar](https://www.physik.uni-jena.de/Fakult%C3%A4t/Historisches/Ehrenpromotionen/Abhay+Ashtekar.html), [University of Jena](https://en.wikipedia.org/wiki/University_of_Jena), September 27, 2005 (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Gobble](http://www.cgl.ucsf.edu/home/pett/go/Programs/Gobble.html) by Bernd Brügmann
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Bernd Brügmann](https://dblp.uni-trier.de/pers/hd/b/Br=uuml=gmann:Bernd)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Theoretisch-Physikalisches Institut | FSU Jena | Brügmann](https://www.tpi.uni-jena.de/tiki-view_tracker_item.php?page=Staff&itemId=19&show=view)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Prof. Dr. Bernd Brügmann zum Dekan gewählt](https://idw-online.de/de/news?print=1&id=414255), March 21, 2011
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Theoretisch-Physikalisches Institut | FSU Jena | Brügmann](https://www.tpi.uni-jena.de/tiki-view_tracker_item.php?page=Staff&itemId=19&show=view)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ehrenpromotion von Prof. Dr. Abhay Ashtekar](https://www.physik.uni-jena.de/Fakult%C3%A4t/Historisches/Ehrenpromotionen/Abhay+Ashtekar.html), [University of Jena](https://en.wikipedia.org/wiki/University_of_Jena), September 27, 2005 (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Gobble](http://www.cgl.ucsf.edu/home/pett/go/Programs/Gobble.html) by Bernd Brügmann
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Bernd Brügmann](https://dblp.uni-trier.de/pers/hd/b/Br=uuml=gmann:Bernd)
 
 **[Up one level](People "People")**
 

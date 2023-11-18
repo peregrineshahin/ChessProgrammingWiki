@@ -22,9 +22,9 @@ As computer chess programmer, he is author of the [open source chess engine](Cat
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gábor Buella | LinkedIn](https://www.linkedin.com/in/buellagabor/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gábor Buella | LinkedIn](https://www.linkedin.com/in/buellagabor/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [zochova download | SourceForge.net](https://sourceforge.net/projects/zochova/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gábor Buella | LinkedIn](https://www.linkedin.com/in/buellagabor/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gábor Buella | LinkedIn](https://www.linkedin.com/in/buellagabor/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [zochova download | SourceForge.net](https://sourceforge.net/projects/zochova/)
 
 **[Up one level](People "People")**
 

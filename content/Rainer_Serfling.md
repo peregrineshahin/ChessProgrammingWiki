@@ -30,9 +30,9 @@ Rainer Serfling has build his own [board chess computer](Dedicated_Chess_Compute
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from the former [CEGT](CEGT "CEGT") testers site by [Heinz van Kempen](Heinz_van_Kempen "Heinz van Kempen")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Freistil- Turnier die Zweite](http://computerschach.de/Files/2005/Freistil-Turnier%20die%20Zweite.pdf) (pdf) by [Timo Klaustermeyer](Timo_Haupt "Timo Haupt"), 2005
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Thüringer Computerschachturnier](https://rainerschach.beepworld.de/) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from the former [CEGT](CEGT "CEGT") testers site by [Heinz van Kempen](Heinz_van_Kempen "Heinz van Kempen")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Freistil- Turnier die Zweite](http://computerschach.de/Files/2005/Freistil-Turnier%20die%20Zweite.pdf) (pdf) by [Timo Klaustermeyer](Timo_Haupt "Timo Haupt"), 2005
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Thüringer Computerschachturnier](https://rainerschach.beepworld.de/) (German)
 
 **[Up one level](People "People")**
 

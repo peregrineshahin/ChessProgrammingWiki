@@ -79,8 +79,8 @@ To avoid [score oscillations](Odd-Even_Effect#ScoreOscillation "Odd-Even Effect"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Siegbert Tarrasch](https://en.wikipedia.org/wiki/Siegbert_Tarrasch) (**1931**). [Das Schachspiel](http://www.amazon.de/Das-Schachspiel-Originalfassung-Siegbert-Tarrasch/dp/3938484845) Die Eröffnung I. Allgemeiner Teil Die Kräfte, Der Raum, Die Zeit, Tempobilanz (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The creativity of Don Dailey](http://www.talkchess.com/forum/viewtopic.php?t=50222) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), November 25, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Siegbert Tarrasch](https://en.wikipedia.org/wiki/Siegbert_Tarrasch) (**1931**). [Das Schachspiel](http://www.amazon.de/Das-Schachspiel-Originalfassung-Siegbert-Tarrasch/dp/3938484845) Die Eröffnung I. Allgemeiner Teil Die Kräfte, Der Raum, Die Zeit, Tempobilanz (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The creativity of Don Dailey](http://www.talkchess.com/forum/viewtopic.php?t=50222) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), November 25, 2013
 
 **[Up one Level](Evaluation "Evaluation")**
 

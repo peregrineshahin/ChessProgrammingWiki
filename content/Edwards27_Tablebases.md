@@ -59,9 +59,9 @@ The index scheme for pawn-less endgames exploits the fourfold symmetry of the [c
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Steve Edward's Endgame Tablebase generator is now available for WIN95](https://www.stmintz.com/ccc/index.php?id=11493) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), November 01, 1997
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1999**). *Endgame Databases and Efficient Index Schemes for Chess.* [ICCA Journal, Vol. 22, No. 1](ICGA_Journal#22_1 "ICGA Journal"), [ps](http://people.csail.mit.edu/heinz/ps/edb_index.ps.gz)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Courtesy [Steven Edwards](Steven_Edwards "Steven Edwards")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Steve Edward's Endgame Tablebase generator is now available for WIN95](https://www.stmintz.com/ccc/index.php?id=11493) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), November 01, 1997
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1999**). *Endgame Databases and Efficient Index Schemes for Chess.* [ICCA Journal, Vol. 22, No. 1](ICGA_Journal#22_1 "ICGA Journal"), [ps](http://people.csail.mit.edu/heinz/ps/edb_index.ps.gz)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Courtesy [Steven Edwards](Steven_Edwards "Steven Edwards")
 
 **[Up one level](Endgame_Tablebases "Endgame Tablebases")**
 

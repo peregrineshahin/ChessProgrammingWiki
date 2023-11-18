@@ -57,14 +57,14 @@ Delphi provides an [Integrated development environment](https://en.wikipedia.org
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Priestess of Delphi](http://commons.wikimedia.org/wiki/File:Collier-priestess_of_Delphi.jpg) by [John Collier](Category:John_Collier "Category:John Collier") 1891, [Oil on canvas](https://en.wikipedia.org/wiki/Oil_painting), 1893 given to the [Art Gallery of South Australia](https://en.wikipedia.org/wiki/Art_Gallery_of_South_Australia), [Adelaide](https://en.wikipedia.org/wiki/Adelaide), by the [Earl of Kintore](https://en.wikipedia.org/wiki/Algernon_Keith-Falconer,_9th_Earl_of_Kintore), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Pythia from Wikipedia](https://en.wikipedia.org/wiki/Pythia)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Delphi from Embarcadero - RAD Application Development Software](http://www.embarcadero.com/products/delphi)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [RAD Studio (Common)](http://docs.embarcadero.com/products/rad_studio/delphiAndcpp2009/HelpUpdate2/EN/html/devcommon/conceptspart_xml.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [UML Modeling from RAD Studio](http://docs.embarcadero.com/products/rad_studio/delphiAndcpp2009/HelpUpdate2/EN/html/devcommon/tgnetpart_xml.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Inline Assembly Code (Win32 Only) from RAD Studio](http://docs.embarcadero.com/products/rad_studio/delphiAndcpp2009/HelpUpdate2/EN/html/devcommon/inlineassemblycodepart_xml.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [RAD Studio, Delphi and C++Builder Roadmap](http://edn.embarcadero.com/article/39934)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Delphi XE3 | Develop Windows 8 Metro Apps | Create Mac App](http://www.embarcadero.com/products/delphi) from [Embarcadero Technologies](http://www.embarcadero.com/)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [FastMM | Free Development software downloads at SourceForge.net](http://sourceforge.net/projects/fastmm/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Priestess of Delphi](http://commons.wikimedia.org/wiki/File:Collier-priestess_of_Delphi.jpg) by [John Collier](Category:John_Collier "Category:John Collier") 1891, [Oil on canvas](https://en.wikipedia.org/wiki/Oil_painting), 1893 given to the [Art Gallery of South Australia](https://en.wikipedia.org/wiki/Art_Gallery_of_South_Australia), [Adelaide](https://en.wikipedia.org/wiki/Adelaide), by the [Earl of Kintore](https://en.wikipedia.org/wiki/Algernon_Keith-Falconer,_9th_Earl_of_Kintore), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Pythia from Wikipedia](https://en.wikipedia.org/wiki/Pythia)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Delphi from Embarcadero - RAD Application Development Software](http://www.embarcadero.com/products/delphi)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [RAD Studio (Common)](http://docs.embarcadero.com/products/rad_studio/delphiAndcpp2009/HelpUpdate2/EN/html/devcommon/conceptspart_xml.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [UML Modeling from RAD Studio](http://docs.embarcadero.com/products/rad_studio/delphiAndcpp2009/HelpUpdate2/EN/html/devcommon/tgnetpart_xml.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Inline Assembly Code (Win32 Only) from RAD Studio](http://docs.embarcadero.com/products/rad_studio/delphiAndcpp2009/HelpUpdate2/EN/html/devcommon/inlineassemblycodepart_xml.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [RAD Studio, Delphi and C++Builder Roadmap](http://edn.embarcadero.com/article/39934)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Delphi XE3 | Develop Windows 8 Metro Apps | Create Mac App](http://www.embarcadero.com/products/delphi) from [Embarcadero Technologies](http://www.embarcadero.com/)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [FastMM | Free Development software downloads at SourceForge.net](http://sourceforge.net/projects/fastmm/)
 
 **[Up one Level](Languages "Languages")**
 

@@ -27,8 +27,8 @@ p4wn plays by all the rules, though it never claims a [draw](Draw "Draw"), just 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [p4wn](http://p4wn.sourceforge.net/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [GitHub - douglasbagnall/p4wn: a smallish turn-of-the-century javascript chess engine](https://github.com/douglasbagnall/p4wn)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [p4wn](http://p4wn.sourceforge.net/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [GitHub - douglasbagnall/p4wn: a smallish turn-of-the-century javascript chess engine](https://github.com/douglasbagnall/p4wn)
 
 **[Up one Level](Engines "Engines")**
 

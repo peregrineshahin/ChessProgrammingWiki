@@ -31,12 +31,12 @@ in [Madrid](https://en.wikipedia.org/wiki/Madrid), [Spain](https://en.wikipedia.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Technical University of Madrid from Wikipedia](https://en.wikipedia.org/wiki/Technical_University_of_Madrid)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Technical University of Madrid from Wikipedia](https://en.wikipedia.org/wiki/Technical_University_of_Madrid)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Madrid 1992 (ICGA Tournaments)](http://www.grappa.univ-lille3.fr/icga/event.php?id=20)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Universidad Politécnica de Madrid - Museo "Torres Quevedo"](http://www.upm.es/institucional/UPM/MuseosUPM/MuseoTorresQuevedo)
- 5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Torres-Quevedo Museum of Engineering - Early Developments in Remote-Control, 1901 - The Telekine](http://www.torresquevedo.org/LTQ10/images/TelekinoMilestone2007.pdf) (pdf, Spanish/English) [Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos](http://www.caminos.upm.es/) (Institute of Civil Engineering) - Universidad Politécnica de Madrid 
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1992**). *The 7th World Computer-Chess Championship. Report on the Tournament*. [ICCA Journal, Vol. 15, No. 4](ICGA_Journal#15_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Technical University of Madrid from Wikipedia](https://en.wikipedia.org/wiki/Technical_University_of_Madrid)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Technical University of Madrid from Wikipedia](https://en.wikipedia.org/wiki/Technical_University_of_Madrid)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Madrid 1992 (ICGA Tournaments)](http://www.grappa.univ-lille3.fr/icga/event.php?id=20)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Universidad Politécnica de Madrid - Museo "Torres Quevedo"](http://www.upm.es/institucional/UPM/MuseosUPM/MuseoTorresQuevedo)
+ 5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Torres-Quevedo Museum of Engineering - Early Developments in Remote-Control, 1901 - The Telekine](http://www.torresquevedo.org/LTQ10/images/TelekinoMilestone2007.pdf) (pdf, Spanish/English) [Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos](http://www.caminos.upm.es/) (Institute of Civil Engineering) - Universidad Politécnica de Madrid 
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1992**). *The 7th World Computer-Chess Championship. Report on the Tournament*. [ICCA Journal, Vol. 15, No. 4](ICGA_Journal#15_4 "ICGA Journal")
 
 **[Up one Level](Organizations "Organizations")**
 

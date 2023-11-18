@@ -44,11 +44,11 @@ a chess engine by primary author [Giancarlo Delli Colli](Giancarlo_Delli_Colli "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Watermelon, Watermelon!](https://chrisgalvinwriter.wordpress.com/2012/07/09/watermelon-watermelon/) by [Chris Galvin](https://chrisgalvinwriter.wordpress.com/author/chrisgalvinwriter/), July 9, 2012
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Chess – a conversation](http://www.impalapublications.com/blog/index.php?/search/kasparov/P10.html), May 30. 2006
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2006**). *The Interpretation of Rules*. Editorial, [ICGA Journal](ICGA_Journal "ICGA Journal"), Vol. 29, No. 2, [pdf](http://ilk.uvt.nl/icga/journal/pdf/toc29-2.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Lion's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=86)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [WCCC Rules (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/event_info.php?id=12), June 11-18, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Watermelon, Watermelon!](https://chrisgalvinwriter.wordpress.com/2012/07/09/watermelon-watermelon/) by [Chris Galvin](https://chrisgalvinwriter.wordpress.com/author/chrisgalvinwriter/), July 9, 2012
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Chess – a conversation](http://www.impalapublications.com/blog/index.php?/search/kasparov/P10.html), May 30. 2006
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2006**). *The Interpretation of Rules*. Editorial, [ICGA Journal](ICGA_Journal "ICGA Journal"), Vol. 29, No. 2, [pdf](http://ilk.uvt.nl/icga/journal/pdf/toc29-2.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Lion's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=86)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [WCCC Rules (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/event_info.php?id=12), June 11-18, 2007
 
 **[Up one level](Engines "Engines")**
 

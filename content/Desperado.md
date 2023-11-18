@@ -65,8 +65,8 @@ Ba4 36.Re1 Re8 37.Nxe6 Qf7 38.Nfg5 Qg6 39.Qe5 Bb3 40.Qc7 Bc4 41.Kh2 Qf6
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Illustration by [Maximilian Schäfer](http://de.wikipedia.org/wiki/Maximilian_Sch%C3%A4fer) from the book [Der Schatz des Kaziken](http://www.abenteuerroman.info/tafeln/26/26dat/09/070603d.htm) (German). Adventures and struggles of a young German with the desperadoes in the [Wild West](https://en.wikipedia.org/wiki/American_Frontier), [Eginhard von Barfus](http://de.wikipedia.org/wiki/Eginhard_von_Barfus). [Stuttgart](https://en.wikipedia.org/wiki/Stuttgart), [K. Thienemanns Verlag](http://de.wikipedia.org/wiki/Thienemann_Verlag), Anton Hoffmann. (1890), [Desperado (chess) from Wikipedia](https://en.wikipedia.org/wiki/Desperado_%28chess%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Illustration by [Maximilian Schäfer](http://de.wikipedia.org/wiki/Maximilian_Sch%C3%A4fer) from the book [Der Schatz des Kaziken](http://www.abenteuerroman.info/tafeln/26/26dat/09/070603d.htm) (German). Adventures and struggles of a young German with the desperadoes in the [Wild West](https://en.wikipedia.org/wiki/American_Frontier), [Eginhard von Barfus](http://de.wikipedia.org/wiki/Eginhard_von_Barfus). [Stuttgart](https://en.wikipedia.org/wiki/Stuttgart), [K. Thienemanns Verlag](http://de.wikipedia.org/wiki/Thienemann_Verlag), Anton Hoffmann. (1890), [Desperado (chess) from Wikipedia](https://en.wikipedia.org/wiki/Desperado_%28chess%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
 
 **[Up one Level](Engines "Engines")**
 

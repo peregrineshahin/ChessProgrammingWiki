@@ -131,15 +131,15 @@ Rb8 58.Qe4+ Qxe4 59.Rxe4 Nf2+ 60.Rxf2 Bxf2 61.Re2 Bd4 62.Re4 Rd8 0-1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chezzz Playazzz | Petya Popovyanska | Flickr](http://www.flickr.com/photos/phunkepixie/with/5064982592/#photo_5064982592)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Congrats to David Rasmussen](http://www.open-aurec.com/wbforum/viewtopic.php?t=33817&p=128002) by [Leo Dijksman](Leo_Dijksman "Leo Dijksman"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 23, 2001
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [\*\*\* 100 \*\*\* Chezzz 0.88 by David Rasmussen (Denmark) is available](http://www.open-aurec.com/wbforum/viewtopic.php?t=33815&p=128015) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 23, 2001
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Rasmussen](David_Rasmussen "David Rasmussen") (**2004**). *Parallel Chess Searching and Bitboards.* Master's thesis, [pdf](http://www.cs.cmu.edu/afs/cs/academic/class/15418-s12/www/competition/www.contrib.andrew.cmu.edu/~jvirdo/rasmussen-2004.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Find The Bug - C / C++](http://bytes.com/topic/c/answers/128755-find-bug) by [David Rasmussen](David_Rasmussen "David Rasmussen"), [bytes.com](http://bytes.com/), July 22, 2005
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [AMD Athlon™ Processor x86 Code Optimization](http://www.bartol.udel.edu/mri/sam/Athlon_code_optimization_guide.pdf) (pdf) Efficient 64-Bit Population Count MMX Version Page 130
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Chezzz 1.0.1 - problem solved - for David Rasmussen](https://www.stmintz.com/ccc/index.php?id=281989) by [David Rasmussen](David_Rasmussen "David Rasmussen"), [CCC](CCC "CCC"), February 05, 2003
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Tim Mann](Tim_Mann "Tim Mann") (**2002**). *A lock-less transposition table implementation for parallel search chess engines*. [ICGA Journal, Vol. 25, No. 1](ICGA_Journal#25_1 "ICGA Journal")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Chezzz - Hossa CCT5](https://www.stmintz.com/ccc/index.php?id=278110) by [David Rasmussen](David_Rasmussen "David Rasmussen"), [CCC](CCC "CCC"), January 18, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chezzz Playazzz | Petya Popovyanska | Flickr](http://www.flickr.com/photos/phunkepixie/with/5064982592/#photo_5064982592)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Congrats to David Rasmussen](http://www.open-aurec.com/wbforum/viewtopic.php?t=33817&p=128002) by [Leo Dijksman](Leo_Dijksman "Leo Dijksman"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 23, 2001
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [\*\*\* 100 \*\*\* Chezzz 0.88 by David Rasmussen (Denmark) is available](http://www.open-aurec.com/wbforum/viewtopic.php?t=33815&p=128015) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 23, 2001
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Rasmussen](David_Rasmussen "David Rasmussen") (**2004**). *Parallel Chess Searching and Bitboards.* Master's thesis, [pdf](http://www.cs.cmu.edu/afs/cs/academic/class/15418-s12/www/competition/www.contrib.andrew.cmu.edu/~jvirdo/rasmussen-2004.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Find The Bug - C / C++](http://bytes.com/topic/c/answers/128755-find-bug) by [David Rasmussen](David_Rasmussen "David Rasmussen"), [bytes.com](http://bytes.com/), July 22, 2005
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [AMD Athlon™ Processor x86 Code Optimization](http://www.bartol.udel.edu/mri/sam/Athlon_code_optimization_guide.pdf) (pdf) Efficient 64-Bit Population Count MMX Version Page 130
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Chezzz 1.0.1 - problem solved - for David Rasmussen](https://www.stmintz.com/ccc/index.php?id=281989) by [David Rasmussen](David_Rasmussen "David Rasmussen"), [CCC](CCC "CCC"), February 05, 2003
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Tim Mann](Tim_Mann "Tim Mann") (**2002**). *A lock-less transposition table implementation for parallel search chess engines*. [ICGA Journal, Vol. 25, No. 1](ICGA_Journal#25_1 "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chezzz - Hossa CCT5](https://www.stmintz.com/ccc/index.php?id=278110) by [David Rasmussen](David_Rasmussen "David Rasmussen"), [CCC](CCC "CCC"), January 18, 2003
 
 **[Up one Level](Engines "Engines")**
 

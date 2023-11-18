@@ -24,12 +24,12 @@ an American mathematician, computer scientist and professor of CS at [Duke Unive
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alan W. Biermann](http://www.cs.duke.edu/~awb/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Lewiston Daily Sun - Google News Archive](http://news.google.com/newspapers?nid=1928&dat=19770512&id=hr4gAAAAIBAJ&sjid=xmkFAAAAIBAJ&pg=4778,1673986), May 12, 1977
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [A brief history of computer checkers](http://www.fierz.ch/history.htm) by [Martin Fierz](Martin_Fierz "Martin Fierz")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Samuel's and The Duke Checkers Programs](http://checkersbackground.com/samuel-s-and-the.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Alan W. Biermann - Selected Publicatons](http://www.cs.duke.edu/~awb/sectionstar3_3.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Alan W. Biermann](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Biermann:Alan_W=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alan W. Biermann](http://www.cs.duke.edu/~awb/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Lewiston Daily Sun - Google News Archive](http://news.google.com/newspapers?nid=1928&dat=19770512&id=hr4gAAAAIBAJ&sjid=xmkFAAAAIBAJ&pg=4778,1673986), May 12, 1977
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [A brief history of computer checkers](http://www.fierz.ch/history.htm) by [Martin Fierz](Martin_Fierz "Martin Fierz")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Samuel's and The Duke Checkers Programs](http://checkersbackground.com/samuel-s-and-the.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Alan W. Biermann - Selected Publicatons](http://www.cs.duke.edu/~awb/sectionstar3_3.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Alan W. Biermann](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Biermann:Alan_W=)
 
 **[Up one level](People "People")**
 

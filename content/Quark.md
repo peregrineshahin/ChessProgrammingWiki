@@ -67,12 +67,12 @@ It further played multiple [CCT Tournaments](CCT_Tournaments "CCT Tournaments").
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Pellkartoffeln mit Quark und Leinöl, Image by [Dr. Bernd Gross](https://commons.wikimedia.org/wiki/User:Dr._Bernd_Gross), December 20, 2014, see [Diskussion:Quark mit Leinöl/Archiv](https://de.wikipedia.org/wiki/Diskussion:Quark_mit_Lein%C3%B6l/Archiv) (German), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Best feature?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4441&start=5) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 02, 2006
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Quark's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=120)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [1st CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: CCT4 Tao/Quark](https://www.stmintz.com/ccc/index.php?id=210030) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [CCC](CCC "CCC"), January 26, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Pellkartoffeln mit Quark und Leinöl, Image by [Dr. Bernd Gross](https://commons.wikimedia.org/wiki/User:Dr._Bernd_Gross), December 20, 2014, see [Diskussion:Quark mit Leinöl/Archiv](https://de.wikipedia.org/wiki/Diskussion:Quark_mit_Lein%C3%B6l/Archiv) (German), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Best feature?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4441&start=5) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 02, 2006
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Quark's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=120)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [1st CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: CCT4 Tao/Quark](https://www.stmintz.com/ccc/index.php?id=210030) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [CCC](CCC "CCC"), January 26, 2002
 
 **[Up one level](Engines "Engines")**
 

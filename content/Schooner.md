@@ -114,16 +114,16 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The [Eendracht](https://en.wikipedia.org/wiki/Eendracht_(1989_ship)) in the [North Sea](https://en.wikipedia.org/wiki/North_Sea) on the way to [Rotterdam](https://en.wikipedia.org/wiki/Rotterdam), Photo taken from [Hoek van Holland](https://en.wikipedia.org/wiki/Hook_of_Holland) beach, July 05, 2017 15:07 [CEST](https://en.wikipedia.org/wiki/Central_European_Summer_Time) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), bike tour during [WCCC 2017](WCCC_2017 "WCCC 2017")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Features - Schooner Chess](https://sites.google.com/site/schoonerchess/features)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Schooner](http://www.computerchess.org.uk/ccrl/404/cgi/compare_engines.cgi?family=Schooner&print=Rating+list&print=Results+table&print=LOS+table&print=Ponder+hit+table&print=Eval+difference+table&print=Comopp+gamenum+table&print=Overlap+table&print=Score+with+common+opponents) at [CCRL 40/4](CCRL "CCRL")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Xiphos Material Evaluator](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=68842) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), November 05, 2018
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Schooner 2](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68775&start=32) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), November 02, 2018
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Schooner 2](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68775&start=22) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), October 31, 2018
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Features - Schooner Chess](https://sites.google.com/site/schoonerchess/features)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Floating Move Reduction](http://www.talkchess.com/forum/viewtopic.php?t=61425) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), September 14, 2016
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Hash Refutation](http://www.talkchess.com/forum/viewtopic.php?t=57374) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), August 24, 2015
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Ee: Calculating space](http://www.talkchess.com/forum/viewtopic.php?t=61064&start=5) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), August 09, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The [Eendracht](https://en.wikipedia.org/wiki/Eendracht_(1989_ship)) in the [North Sea](https://en.wikipedia.org/wiki/North_Sea) on the way to [Rotterdam](https://en.wikipedia.org/wiki/Rotterdam), Photo taken from [Hoek van Holland](https://en.wikipedia.org/wiki/Hook_of_Holland) beach, July 05, 2017 15:07 [CEST](https://en.wikipedia.org/wiki/Central_European_Summer_Time) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), bike tour during [WCCC 2017](WCCC_2017 "WCCC 2017")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Features - Schooner Chess](https://sites.google.com/site/schoonerchess/features)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Schooner](http://www.computerchess.org.uk/ccrl/404/cgi/compare_engines.cgi?family=Schooner&print=Rating+list&print=Results+table&print=LOS+table&print=Ponder+hit+table&print=Eval+difference+table&print=Comopp+gamenum+table&print=Overlap+table&print=Score+with+common+opponents) at [CCRL 40/4](CCRL "CCRL")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Xiphos Material Evaluator](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=68842) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), November 05, 2018
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Schooner 2](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68775&start=32) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), November 02, 2018
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Schooner 2](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68775&start=22) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), October 31, 2018
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Features - Schooner Chess](https://sites.google.com/site/schoonerchess/features)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Floating Move Reduction](http://www.talkchess.com/forum/viewtopic.php?t=61425) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), September 14, 2016
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Hash Refutation](http://www.talkchess.com/forum/viewtopic.php?t=57374) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), August 24, 2015
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Ee: Calculating space](http://www.talkchess.com/forum/viewtopic.php?t=61064&start=5) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), August 09, 2016
 
 **[Up one Level](Engines "Engines")**
 

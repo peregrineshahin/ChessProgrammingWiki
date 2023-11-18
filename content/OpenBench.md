@@ -67,10 +67,10 @@ and supports [Chess960](Chess960 "Chess960"). OpenBench was the primary testing 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [OpenBench/README.md at master · AndyGrant/OpenBench · GitHub](https://github.com/AndyGrant/OpenBench/blob/master/README.md)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - AndyGrant/OpenBench: OpenBench is a Distributed SPRT Testing Framework for Chess Engines - Setting Up The Client For Windows](https://github.com/AndyGrant/OpenBench#setting-up-the-client-for-windows)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [OpenBench/Client.py at master · AndyGrant/OpenBench · GitHub](https://github.com/AndyGrant/OpenBench/blob/master/Client/Client.py)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - AndyGrant/OpenBench: OpenBench is a Distributed SPRT Testing Framework for Chess Engines - Running The Client](https://github.com/AndyGrant/OpenBench#running-the-client)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [OpenBench/README.md at master · AndyGrant/OpenBench · GitHub](https://github.com/AndyGrant/OpenBench/blob/master/README.md)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - AndyGrant/OpenBench: OpenBench is a Distributed SPRT Testing Framework for Chess Engines - Setting Up The Client For Windows](https://github.com/AndyGrant/OpenBench#setting-up-the-client-for-windows)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [OpenBench/Client.py at master · AndyGrant/OpenBench · GitHub](https://github.com/AndyGrant/OpenBench/blob/master/Client/Client.py)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - AndyGrant/OpenBench: OpenBench is a Distributed SPRT Testing Framework for Chess Engines - Running The Client](https://github.com/AndyGrant/OpenBench#running-the-client)
 
 **[Up one Level](Engine_Testing "Engine Testing")**
 

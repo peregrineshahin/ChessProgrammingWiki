@@ -49,10 +49,10 @@ He proposed [Exploding Bitboards](Exploding_Bitboards "Exploding Bitboards") <a 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Elephant 1.00, a new winboard engine](https://www.stmintz.com/ccc/index.php?id=354776) by Harald Lüßen, [CCC](CCC "CCC"), March 15, 2004
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=140111&t=16002) by Harald Lüßen, [CCC](CCC "CCC"), August 24, 2007
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Compact Bitboard Attacks](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4523&start=80) by Harald Lüßen, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 13, 2006
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: New bitboard move generator](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5587&start=11) by Harald Lüßen, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 19, 2006
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Elephant 1.00, a new winboard engine](https://www.stmintz.com/ccc/index.php?id=354776) by Harald Lüßen, [CCC](CCC "CCC"), March 15, 2004
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=140111&t=16002) by Harald Lüßen, [CCC](CCC "CCC"), August 24, 2007
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Compact Bitboard Attacks](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4523&start=80) by Harald Lüßen, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 13, 2006
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: New bitboard move generator](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5587&start=11) by Harald Lüßen, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 19, 2006
 
 **[Up one level](People "People")**
 

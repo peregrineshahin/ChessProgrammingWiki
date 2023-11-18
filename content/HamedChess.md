@@ -21,9 +21,9 @@ It applies [alpha-beta](Alpha-Beta "Alpha-Beta") along with a few optimizations 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Artificial Intelligence Projects](http://hamedahmadi.com/ai_projects.html) by [Hamed Ahmadi](Hamed_Ahmadi "Hamed Ahmadi")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Back to Chess Programming after 20 years](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76583) by [Hamed Ahmadi](Hamed_Ahmadi "Hamed Ahmadi"), [CCC](CCC "CCC"), February 14, 2021
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Artificial Intelligence Projects](http://hamedahmadi.com/ai_projects.html) by [Hamed Ahmadi](Hamed_Ahmadi "Hamed Ahmadi")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Artificial Intelligence Projects](http://hamedahmadi.com/ai_projects.html) by [Hamed Ahmadi](Hamed_Ahmadi "Hamed Ahmadi")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Back to Chess Programming after 20 years](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76583) by [Hamed Ahmadi](Hamed_Ahmadi "Hamed Ahmadi"), [CCC](CCC "CCC"), February 14, 2021
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Artificial Intelligence Projects](http://hamedahmadi.com/ai_projects.html) by [Hamed Ahmadi](Hamed_Ahmadi "Hamed Ahmadi")
 
 **[Up one Level](Engines "Engines")**
 

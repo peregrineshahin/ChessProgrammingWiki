@@ -34,11 +34,11 @@ and [Pulse](Pulse "Pulse") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and t
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [fluxroot (Phokham Nonava) · GitHub](https://github.com/fluxroot)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Phokham Nonava | LinkedIn](https://www.linkedin.com/in/nonava)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Flux Chess open sourced](http://www.talkchess.com/forum/viewtopic.php?t=44418) by Phokham Nonava, [CCC](CCC "CCC"), July 13, 2012
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Pulse Chess 1.0.0 and JCPI 1.4 released](http://www.talkchess.com/forum/viewtopic.php?t=50930) by Phokham Nonava, [CCC](CCC "CCC"), January 16, 2014
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - fluxroot/jcpi: A Java Chess Protocol Interface](https://github.com/fluxroot/jcpi)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [fluxroot (Phokham Nonava) · GitHub](https://github.com/fluxroot)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Phokham Nonava | LinkedIn](https://www.linkedin.com/in/nonava)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Flux Chess open sourced](http://www.talkchess.com/forum/viewtopic.php?t=44418) by Phokham Nonava, [CCC](CCC "CCC"), July 13, 2012
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Pulse Chess 1.0.0 and JCPI 1.4 released](http://www.talkchess.com/forum/viewtopic.php?t=50930) by Phokham Nonava, [CCC](CCC "CCC"), January 16, 2014
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - fluxroot/jcpi: A Java Chess Protocol Interface](https://github.com/fluxroot/jcpi)
 
 **[Up one level](People "People")**
 

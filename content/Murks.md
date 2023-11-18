@@ -26,7 +26,7 @@ a chess program designed and developed since 1979 by [Alexander Reinefeld](Alexa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title)
 
 **[Up one level](Engines "Engines")**
 

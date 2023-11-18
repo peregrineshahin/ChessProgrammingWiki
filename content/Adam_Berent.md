@@ -30,8 +30,8 @@ a Canadian computer programmer and [indie game developer](https://en.wikipedia.o
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Adam Berent – Software & Hobbies](https://www.adamberent.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - 3583Bytes/ChessCore: Chess Engine Implemented in .net core](https://github.com/3583Bytes/ChessCore)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Adam Berent – Software & Hobbies](https://www.adamberent.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - 3583Bytes/ChessCore: Chess Engine Implemented in .net core](https://github.com/3583Bytes/ChessCore)
 
 **[Up one level](People "People")**
 

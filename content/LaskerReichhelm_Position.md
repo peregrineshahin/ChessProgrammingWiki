@@ -64,11 +64,11 @@ The Lasker-Reichhelm position, elaborated in 1932 by [Vitaly Halberstadt](https:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Lasker-Reichhelm Position, as described in 1932 treatise *L'opposition et cases conjuguées sont réconciliées* (Opposition and Sister Squares are Reconciled) by [Vitaly Halberstadt](https://en.wikipedia.org/wiki/Vitaly_Halberstadt) and [Marcel Duchamp](Category:Marcel_Duchamp "Category:Marcel Duchamp"), introducing [Corresponding Squares](Corresponding_Squares "Corresponding Squares")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gustavus Charles Reichhelm from Chess Archaeology](http://www.chessarch.com/museum/draw/01_reichhelm.shtml)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Vitaly Halberstadt](https://en.wikipedia.org/wiki/Vitaly_Halberstadt), [Marcel Duchamp](Category:Marcel_Duchamp "Category:Marcel Duchamp") (**1932**). *L'opposition et les cases conjuguées sont réconciliées*.
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Lasker-Reichhelm Position, as described in 1932 treatise *L'opposition et cases conjuguées sont réconciliées* (Opposition and Sister Squares are Reconciled) by [Vitaly Halberstadt](https://en.wikipedia.org/wiki/Vitaly_Halberstadt) and [Marcel Duchamp](Category:Marcel_Duchamp "Category:Marcel Duchamp"), introducing [Corresponding Squares](Corresponding_Squares "Corresponding Squares")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gustavus Charles Reichhelm from Chess Archaeology](http://www.chessarch.com/museum/draw/01_reichhelm.shtml)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Vitaly Halberstadt](https://en.wikipedia.org/wiki/Vitaly_Halberstadt), [Marcel Duchamp](Category:Marcel_Duchamp "Category:Marcel Duchamp") (**1932**). *L'opposition et les cases conjuguées sont réconciliées*.
 Paris-Brussels 1932, German Edition 2001 *[Opposition und Schwesterfelder](http://www.buecher-nach-isbn.info/3-608/3608500359-Opposition-und-Schwesterfelder-Marcel-Duchamp-Vitali-Halberstadt-3-608-50035-9.html)*, ISBN 3-932170-35-0
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Reuben Fine](https://en.wikipedia.org/wiki/Reuben_Fine) (**1941**). *[Basic Chess Endings](https://en.wikipedia.org/wiki/Basic_Chess_Endings)*
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Reuben Fine](https://en.wikipedia.org/wiki/Reuben_Fine) (**1941**). *[Basic Chess Endings](https://en.wikipedia.org/wiki/Basic_Chess_Endings)*
 
 **[Up one level](Test-Positions "Test-Positions")**
 

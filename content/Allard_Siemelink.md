@@ -39,9 +39,9 @@ In 1999, when I was working as an [ICT](https://en.wikipedia.org/wiki/Informatio
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Allard Siemelink, clipped from [ICT 2010 photo](#photos)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICT 2010](ICT_2010 "ICT 2010"), image from [Computerschaak - ICT 10 Final Results](http://www.csvn.nl/index.php?option=com_content&view=article&id=459%3Aict-10-final-results&catid=51%3Atoernooien&Itemid=28&lang=en)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Interview with Allard Siemelink](https://www.schach-welt.de/schach/computerschach/interviews/allard-siemelink-deng) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Schachwelt](https://www.schach-welt.de/), January 10, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Allard Siemelink, clipped from [ICT 2010 photo](#photos)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICT 2010](ICT_2010 "ICT 2010"), image from [Computerschaak - ICT 10 Final Results](http://www.csvn.nl/index.php?option=com_content&view=article&id=459%3Aict-10-final-results&catid=51%3Atoernooien&Itemid=28&lang=en)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Interview with Allard Siemelink](https://www.schach-welt.de/schach/computerschach/interviews/allard-siemelink-deng) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Schachwelt](https://www.schach-welt.de/), January 10, 2010
 
 **[Up one level](People "People")**
 

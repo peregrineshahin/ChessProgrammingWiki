@@ -44,9 +44,9 @@ and a rudimentary [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation")
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [new win32 winboard engine](https://www.stmintz.com/ccc/index.php?id=374619) by [David B. Weller](David_B._Weller "David B. Weller"), [CCC](CCC "CCC"), July 07, 2004
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GES 111](https://www.stmintz.com/ccc/index.php?id=382993) by [David B. Weller](David_B._Weller "David B. Weller"), [CCC](CCC "CCC"), August 19, 2004
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Limiting extensions](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=1754&p=8190) by [David B. Weller](David_B._Weller "David B. Weller"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 23, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [new win32 winboard engine](https://www.stmintz.com/ccc/index.php?id=374619) by [David B. Weller](David_B._Weller "David B. Weller"), [CCC](CCC "CCC"), July 07, 2004
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GES 111](https://www.stmintz.com/ccc/index.php?id=382993) by [David B. Weller](David_B._Weller "David B. Weller"), [CCC](CCC "CCC"), August 19, 2004
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Limiting extensions](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=1754&p=8190) by [David B. Weller](David_B._Weller "David B. Weller"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 23, 2005
 
 **[Up one Level](Engines "Engines")**
 

@@ -82,11 +82,11 @@ At recent [TCEC](TCEC "TCEC"), in conjunction with [Jeroen Noomen](Jeroen_Noomen
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from the video, [A Conversation with Vasik Rajlich - Part 2](https://www.youtube.com/watch?v=f5XXP9m4umU) ~0:16, December, 2009
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Interviews with Freestylets](http://www.rybkachess.com/docs/INTERVIEW/freestylers_version_2.htm) …by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Vasik Rajlich responds to his accusers](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=22402) by Nelson Hernandez, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), July 12, 2011
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nelson Hernandez (Cato the Younger in... - TCEC - Thoresen Chess Engines Competition | Facebook](https://www.facebook.com/tcec.chess/posts/nelson-hernandez-cato-the-younger-in-the-tcec-chat-gives-us-an-explanation-on-hi/242309149266285/), November 19, 2013
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Nelson Hernandez (**2018**). *Choosing chess openings for TCEC10*. [ICGA Journal, Vol. 40, No. 3](ICGA_Journal#40_3 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from the video, [A Conversation with Vasik Rajlich - Part 2](https://www.youtube.com/watch?v=f5XXP9m4umU) ~0:16, December, 2009
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Interviews with Freestylets](http://www.rybkachess.com/docs/INTERVIEW/freestylers_version_2.htm) …by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Vasik Rajlich responds to his accusers](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=22402) by Nelson Hernandez, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), July 12, 2011
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nelson Hernandez (Cato the Younger in... - TCEC - Thoresen Chess Engines Competition | Facebook](https://www.facebook.com/tcec.chess/posts/nelson-hernandez-cato-the-younger-in-the-tcec-chat-gives-us-an-explanation-on-hi/242309149266285/), November 19, 2013
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Nelson Hernandez (**2018**). *Choosing chess openings for TCEC10*. [ICGA Journal, Vol. 40, No. 3](ICGA_Journal#40_3 "ICGA Journal")
 
 **[Up one Level](People "People")**
 

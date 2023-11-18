@@ -99,11 +99,11 @@ Karp introduced the now standard methodology for proving problems to be [NP-comp
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Richard Karp giving a talk at the [EPFL](https://en.wikipedia.org/wiki/EPFL) on 13th of July 2009, [Category:Richard Karp - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Richard_Karp)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Richard M. Karp from Wikipedia](https://en.wikipedia.org/wiki/Richard_M._Karp)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. Thesis, Department of Electrical Engineering and Computer Science, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf), pp. 146, Acknowledgments
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Richard M. Karp](https://dblp.uni-trier.de/pers/hy/k/Karp:Richard_M=.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Travelling salesman problem from Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Richard Karp giving a talk at the [EPFL](https://en.wikipedia.org/wiki/EPFL) on 13th of July 2009, [Category:Richard Karp - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Richard_Karp)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Richard M. Karp from Wikipedia](https://en.wikipedia.org/wiki/Richard_M._Karp)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. Thesis, Department of Electrical Engineering and Computer Science, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf), pp. 146, Acknowledgments
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Richard M. Karp](https://dblp.uni-trier.de/pers/hy/k/Karp:Richard_M=.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Travelling salesman problem from Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 **[Up one level](People "People")**
 

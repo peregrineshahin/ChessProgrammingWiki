@@ -46,10 +46,10 @@ a Swiss computer scientist and software engineer at [Google](index.php?title=Goo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ralph Gasser | LinkedIn](https://www.linkedin.com/in/ralphgasser)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nine Men's Morris is a DRAW](http://www.ics.uci.edu/~eppstein/cgt/morris.html) by Ralph Gasser, [rec.games.chess, rec.games.go, rec.games.abstract](Computer_Chess_Forums "Computer Chess Forums"), November 23, 1993
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Ralph Gasser](https://dblp.uni-trier.de/pers/hd/g/Gasser:Ralph)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ralph Gasser | LinkedIn](https://www.linkedin.com/in/ralphgasser)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nine Men's Morris is a DRAW](http://www.ics.uci.edu/~eppstein/cgt/morris.html) by Ralph Gasser, [rec.games.chess, rec.games.go, rec.games.abstract](Computer_Chess_Forums "Computer Chess Forums"), November 23, 1993
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Ralph Gasser](https://dblp.uni-trier.de/pers/hd/g/Gasser:Ralph)
 
 **[Up one level](People "People")**
 

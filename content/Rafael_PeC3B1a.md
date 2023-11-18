@@ -34,7 +34,7 @@ which at times appeared to be a [clone](Category:Clone "Category:Clone") of [Cra
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Clone Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:clone_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Clone Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:clone_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
 
 **[Up one Level](People "People")**
 

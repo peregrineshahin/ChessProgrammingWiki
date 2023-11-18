@@ -39,11 +39,11 @@ In this paper we outline a general approach to the study of problem-solving, in 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Princeton Alumni Weekly: Eric Huang Wefald](https://paw.princeton.edu/memorial/eric-huang-wefald-85), February 6, 1991
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stuart Russell](Stuart_Russell "Stuart Russell"), Eric Wefald (**1988**). *Decision-Theoretic Search Control: General Theory and an Application to Game-Playing.* CS Technical Report 88/435, [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Stuart Russell](Stuart_Russell "Stuart Russell"), Eric Wefald (**1989**). *On optimal game-tree search using rational metareasoning.* [IJCAI 1989](Conferences#IJCAI1989 "Conferences")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DBLP: Eric Wefald](https://dblp.uni-trier.de/pers/hd/w/Wefald:Eric.htm)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Eric Wefald's research works | University of California, Berkeley, CA (UCB) and other places](https://www.researchgate.net/scientific-contributions/69792834_Eric_Wefald)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Princeton Alumni Weekly: Eric Huang Wefald](https://paw.princeton.edu/memorial/eric-huang-wefald-85), February 6, 1991
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stuart Russell](Stuart_Russell "Stuart Russell"), Eric Wefald (**1988**). *Decision-Theoretic Search Control: General Theory and an Application to Game-Playing.* CS Technical Report 88/435, [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Stuart Russell](Stuart_Russell "Stuart Russell"), Eric Wefald (**1989**). *On optimal game-tree search using rational metareasoning.* [IJCAI 1989](Conferences#IJCAI1989 "Conferences")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DBLP: Eric Wefald](https://dblp.uni-trier.de/pers/hd/w/Wefald:Eric.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Eric Wefald's research works | University of California, Berkeley, CA (UCB) and other places](https://www.researchgate.net/scientific-contributions/69792834_Eric_Wefald)
 
 **[Up one level](People "People")**
 

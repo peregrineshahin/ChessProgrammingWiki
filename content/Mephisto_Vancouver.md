@@ -84,8 +84,8 @@ Like with previous models, three Vancouver versions were shipped - with [68000](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Vancouver 16](https://www.flickr.com/photos/10261668@N05/859029906/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mephisto (H&G) World Machine (WM) Vancouver (68030RC50B)](http://chesseval.com/RareBoard/WM/WM.htm) by [Hans van Mierlo](index.php?title=Hans_van_Mierlo&action=edit&redlink=1 "Hans van Mierlo (page does not exist)"), [ChessEval](http://www.chesseval.com/index.html), January 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Vancouver 16](https://www.flickr.com/photos/10261668@N05/859029906/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mephisto (H&G) World Machine (WM) Vancouver (68030RC50B)](http://chesseval.com/RareBoard/WM/WM.htm) by [Hans van Mierlo](index.php?title=Hans_van_Mierlo&action=edit&redlink=1 "Hans van Mierlo (page does not exist)"), [ChessEval](http://www.chesseval.com/index.html), January 2014
 
 **[Up one Level](Mephisto "Mephisto")**
 

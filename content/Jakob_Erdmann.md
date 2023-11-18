@@ -33,12 +33,12 @@ a German computer scientist with a Ph.D. on *The Characterization of Chance and 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [3-Hirn-Scholar Jakob Erdmann](http://www.althofer.de/3-hirn-grant--erdmann.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jakob Erdmann (**2010**). *The Characterization of Chance and Skill in Games*. Dissertation, [Friedrich-Schiller-Universität Jena](https://en.wikipedia.org/wiki/University_of_Jena), [pdf](http://www.althofer.de/erdmann-doctoral-thesis.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fakultät für Mathematik und Informatik](http://www.fmi.uni-jena.de/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [3-Hirn-Stipendium](http://www.3-hirn-verlag.de/3-hirn-stipendium-neu.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Lange Nacht der Wissenschaften - Long Night of Sciences Jena - 2007](http://www.althofer.de/lange-nacht-jena.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> A central part of the thesis was published in: [Jakob Erdmann](http://www.althofer.de/3-hirn-grant--erdmann.html) (**2009**). *Chanciness: Towards a Characterization of Chance in Games.* [ICGA Journal, Vol. 32, No. 4](ICGA_Journal#32_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [3-Hirn-Scholar Jakob Erdmann](http://www.althofer.de/3-hirn-grant--erdmann.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jakob Erdmann (**2010**). *The Characterization of Chance and Skill in Games*. Dissertation, [Friedrich-Schiller-Universität Jena](https://en.wikipedia.org/wiki/University_of_Jena), [pdf](http://www.althofer.de/erdmann-doctoral-thesis.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fakultät für Mathematik und Informatik](http://www.fmi.uni-jena.de/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [3-Hirn-Stipendium](http://www.3-hirn-verlag.de/3-hirn-stipendium-neu.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Lange Nacht der Wissenschaften - Long Night of Sciences Jena - 2007](http://www.althofer.de/lange-nacht-jena.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> A central part of the thesis was published in: [Jakob Erdmann](http://www.althofer.de/3-hirn-grant--erdmann.html) (**2009**). *Chanciness: Towards a Characterization of Chance in Games.* [ICGA Journal, Vol. 32, No. 4](ICGA_Journal#32_4 "ICGA Journal")
 
 **[Up one level](People "People")**
 

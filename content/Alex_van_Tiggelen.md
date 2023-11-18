@@ -22,10 +22,10 @@ Alexs played chess at the [DOCCC 1996](DOCCC_1996 "DOCCC 1996") and [DOCCC 1998]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=318017&t=31545) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), January 11, 2010
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Online Begraafplaatsen; Laren - St. Janskerkhof](https://www.online-begraafplaatsen.nl/zerken.asp?command=showpers&bgp=627&char=T)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Review of ALEXS by Larry Kaufman](https://www.stmintz.com/ccc/index.php?id=43056) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), February 12, 1999
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=318017&t=31545) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), January 11, 2010
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Online Begraafplaatsen; Laren - St. Janskerkhof](https://www.online-begraafplaatsen.nl/zerken.asp?command=showpers&bgp=627&char=T)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Review of ALEXS by Larry Kaufman](https://www.stmintz.com/ccc/index.php?id=43056) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), February 12, 1999
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

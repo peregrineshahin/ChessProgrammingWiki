@@ -87,15 +87,15 @@ a French computer scientist, [deep learning](Deep_Learning "Deep Learning") rese
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Capture from the [12th Computer Olympiad](12th_Computer_Olympiad "12th Computer Olympiad") [Video](#video) interview
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sylvain Gelly | LinkedIn](https://www.linkedin.com/in/sylvain-gelly-624a5458/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Laboratoire de Recherche en Informatique - A&O Group](http://www.lri.fr/equipe_en.php?eq=7)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Sylvain Gelly (**2007**). *A Contribution to Reinforcement Learning; Application to Computer Go.* Ph.D. thesis, [pdf](http://www.lri.fr/~gelly/paper/SylvainGellyThesis.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Sylvain Gelly's Home Page - OpenDP, a free stochastic dynamic programming tool for stochastic dynamic programming.](http://www.lri.fr/~gelly/OpenDP.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Sylvain Gelly's home page - MoGo](http://www.lri.fr/~gelly/MoGo.htm)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [MoGo: a software for the Game of Go](http://www.lri.fr/~teytaud/mogo.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Sylvain Gelly](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gelly:Sylvain.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [April 01](https://en.wikipedia.org/wiki/April_Fools%27_Day), 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Capture from the [12th Computer Olympiad](12th_Computer_Olympiad "12th Computer Olympiad") [Video](#video) interview
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sylvain Gelly | LinkedIn](https://www.linkedin.com/in/sylvain-gelly-624a5458/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Laboratoire de Recherche en Informatique - A&O Group](http://www.lri.fr/equipe_en.php?eq=7)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Sylvain Gelly (**2007**). *A Contribution to Reinforcement Learning; Application to Computer Go.* Ph.D. thesis, [pdf](http://www.lri.fr/~gelly/paper/SylvainGellyThesis.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Sylvain Gelly's Home Page - OpenDP, a free stochastic dynamic programming tool for stochastic dynamic programming.](http://www.lri.fr/~gelly/OpenDP.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Sylvain Gelly's home page - MoGo](http://www.lri.fr/~gelly/MoGo.htm)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [MoGo: a software for the Game of Go](http://www.lri.fr/~teytaud/mogo.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Sylvain Gelly](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gelly:Sylvain.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [April 01](https://en.wikipedia.org/wiki/April_Fools%27_Day), 2018
 
 **[Up one level](People "People")**
 

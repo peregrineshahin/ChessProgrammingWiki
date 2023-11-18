@@ -198,21 +198,21 @@ On September 30, 2017, Texel 1.07 came with a new [parallel search](Parallel_Sea
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Beach on the island of Texel](https://en.wikipedia.org/wiki/File:Beach_Texel_Netherlands.jpg) by [Jean-Pierre Dagneaux](http://commons.wikimedia.org/wiki/User:Jpda), October 13, 2013, [Texel from Wikipedia](https://en.wikipedia.org/wiki/Texel)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New chess engine: Texel](http://www.talkchess.com/forum/viewtopic.php?t=42999) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), March 24, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Texel 1.02](http://www.talkchess.com/forum/viewtopic.php?t=48228) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), June 08, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Texel 1.03](http://www.talkchess.com/forum/viewtopic.php?t=50964) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 19, 2014
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=555522&t=50823) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 31, 2014
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a>  [Recursive DTS-like search algorithm](http://www.talkchess.com/forum/viewtopic.php?t=48752) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), July 24, 2013
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Texel 1.04](http://www.talkchess.com/forum/viewtopic.php?t=52470) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), May 29, 2014
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Texel Chess Engine - Android Apps on Google Play](https://play.google.com/store/apps/details?id=org.petero.texelchessengine&hl=en)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [How texel probes endgame tablebases](http://www.talkchess.com/forum/viewtopic.php?t=60833) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), July 16, 2016
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [LMP in PV nodes](http://www.talkchess.com/forum/viewtopic.php?t=54761) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), December 27, 2014
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Texel 1.05](http://www.talkchess.com/forum/viewtopic.php?t=55058) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 24, 2015
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Texel 1.06](http://www.talkchess.com/forum/viewtopic.php?t=60774) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), July 10, 2016
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Lazy SMP and "lazy cluster" experiments](http://talkchess.com/forum/viewtopic.php?topic_view=threads&p=726656&t=64824) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), August 06, 2017
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Approximate ABDADA](http://talkchess.com/forum/viewtopic.php?topic_view=threads&p=728817&t=64824) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), August 23, 2017
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Texel 1.07](http://www.talkchess.com/forum/viewtopic.php?t=65339) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), September 30, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Beach on the island of Texel](https://en.wikipedia.org/wiki/File:Beach_Texel_Netherlands.jpg) by [Jean-Pierre Dagneaux](http://commons.wikimedia.org/wiki/User:Jpda), October 13, 2013, [Texel from Wikipedia](https://en.wikipedia.org/wiki/Texel)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New chess engine: Texel](http://www.talkchess.com/forum/viewtopic.php?t=42999) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), March 24, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Texel 1.02](http://www.talkchess.com/forum/viewtopic.php?t=48228) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), June 08, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Texel 1.03](http://www.talkchess.com/forum/viewtopic.php?t=50964) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 19, 2014
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=555522&t=50823) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 31, 2014
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a>  [Recursive DTS-like search algorithm](http://www.talkchess.com/forum/viewtopic.php?t=48752) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), July 24, 2013
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Texel 1.04](http://www.talkchess.com/forum/viewtopic.php?t=52470) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), May 29, 2014
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Texel Chess Engine - Android Apps on Google Play](https://play.google.com/store/apps/details?id=org.petero.texelchessengine&hl=en)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [How texel probes endgame tablebases](http://www.talkchess.com/forum/viewtopic.php?t=60833) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), July 16, 2016
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [LMP in PV nodes](http://www.talkchess.com/forum/viewtopic.php?t=54761) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), December 27, 2014
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Texel 1.05](http://www.talkchess.com/forum/viewtopic.php?t=55058) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 24, 2015
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Texel 1.06](http://www.talkchess.com/forum/viewtopic.php?t=60774) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), July 10, 2016
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Lazy SMP and "lazy cluster" experiments](http://talkchess.com/forum/viewtopic.php?topic_view=threads&p=726656&t=64824) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), August 06, 2017
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Approximate ABDADA](http://talkchess.com/forum/viewtopic.php?topic_view=threads&p=728817&t=64824) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), August 23, 2017
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Texel 1.07](http://www.talkchess.com/forum/viewtopic.php?t=65339) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), September 30, 2017
 
 **[Up one level](Engines "Engines")**
 

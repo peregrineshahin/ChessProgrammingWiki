@@ -43,12 +43,12 @@ a Romanian chess player <a id="cite-note-2" href="#cite-ref-2">[2]</a> and [ches
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Endgame Study Composition](http://ruszchessstudies.blogspot.com/) by Árpád Rusz
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Arpad Rusz chess games - 365Chess.com](http://www.365chess.com/players/Arpad_Rusz)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Informal Tourney "Magyar Sakkvilag – 2006" The award and the judgement report A/ General category B/ Database category](http://www.magyarsakkszerzok.com/Study_Award_MSV_2006.pdf) (pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Guy McCrossan Haworth](Guy_Haworth "Guy Haworth"), Árpád Rusz (**2011**). *Position Criticality in Chess Endgames*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Polgar Starchess](http://www.polgarstarchess.com/Home/ENHome.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Polgar Superstar Chess (Starchess)](http://polgarstarchess.blogspot.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Endgame Study Composition](http://ruszchessstudies.blogspot.com/) by Árpád Rusz
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Arpad Rusz chess games - 365Chess.com](http://www.365chess.com/players/Arpad_Rusz)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Informal Tourney "Magyar Sakkvilag – 2006" The award and the judgement report A/ General category B/ Database category](http://www.magyarsakkszerzok.com/Study_Award_MSV_2006.pdf) (pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Guy McCrossan Haworth](Guy_Haworth "Guy Haworth"), Árpád Rusz (**2011**). *Position Criticality in Chess Endgames*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Polgar Starchess](http://www.polgarstarchess.com/Home/ENHome.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Polgar Superstar Chess (Starchess)](http://polgarstarchess.blogspot.com/)
 
 **[Up one level](People "People")**
 

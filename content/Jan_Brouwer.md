@@ -46,8 +46,8 @@ calculated the relative [jump](https://en.wikipedia.org/wiki/Branch_(computer_sc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ChessRotor](https://sites.google.com/site/chessrotor/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Your first chess program](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=43381&start=7) by Jan Brouwer, [CCC](CCC "CCC"), April 20, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ChessRotor](https://sites.google.com/site/chessrotor/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Your first chess program](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=43381&start=7) by Jan Brouwer, [CCC](CCC "CCC"), April 20, 2012
 
 **[Up one Level](People "People")**
 

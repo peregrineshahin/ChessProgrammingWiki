@@ -99,9 +99,9 @@ Kh7 42.Qe1 Qxg4+ 43.Kh2 Qf4+ 44.Kg1 Bd5 45.Qf2 Qe4 46.Kh2 Qh1+ 47.Kg3 Qxa1 48.c4
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ajax](https://en.wikipedia.org/wiki/Ajax_%28mythology%29) and [Hector](https://en.wikipedia.org/wiki/Hector) exchange gifts, [woodcut](https://en.wikipedia.org/wiki/Woodcut) in [Andreas Alciatus](https://en.wikipedia.org/wiki/Andrea_Alciato), [Emblematum](https://en.wikipedia.org/wiki/Emblemata) libellus, 1591, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Deelnemers NK Computerschaak 1992](https://breukerd.home.xs4all.nl/duck/deelnemers_nk1992.html) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dutch Open, rounds 5-8](https://groups.google.com/d/msg/rec.games.chess.computer/dueIdEwMQAU/if4aa7QkX6gJ) by [Walter Ravenek](Walter_Ravenek "Walter Ravenek"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 5, 1996
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ajax](https://en.wikipedia.org/wiki/Ajax_%28mythology%29) and [Hector](https://en.wikipedia.org/wiki/Hector) exchange gifts, [woodcut](https://en.wikipedia.org/wiki/Woodcut) in [Andreas Alciatus](https://en.wikipedia.org/wiki/Andrea_Alciato), [Emblematum](https://en.wikipedia.org/wiki/Emblemata) libellus, 1591, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Deelnemers NK Computerschaak 1992](https://breukerd.home.xs4all.nl/duck/deelnemers_nk1992.html) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dutch Open, rounds 5-8](https://groups.google.com/d/msg/rec.games.chess.computer/dueIdEwMQAU/if4aa7QkX6gJ) by [Walter Ravenek](Walter_Ravenek "Walter Ravenek"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 5, 1996
 
 **[Up one level](Engines "Engines")**
 

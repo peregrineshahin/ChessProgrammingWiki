@@ -72,14 +72,14 @@ Re1+ 59.Re4 Rg1 60.Kf5 Rd1 61.g5 Rd5+ 62.Kf6 Rd8 63.Kf7 Rd5 64.f4 Rf5+ 65.Ke7 Rd
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ICCF Player Details - Necchi, Sandro](https://www.iccf.com/player?id=241867)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sandro Necchi | LinkedIn](https://www.linkedin.com/in/sandro-necchi-46762754/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICCF Player Details - Necchi, Sandro](https://www.iccf.com/player?id=241867)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Y!'s ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=356)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Shredder's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=20)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Shredder Computer Schach Download - Interview mit Stefan Meyer-Kahlen](http://www.shredderchess.de/schach-news/shredder-news/interview-stefan-meyer%11kahlen.html) (German) ca. 2007
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Image by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner") from [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner") (**1989**).*Die wiederauferstandene Mikro-Weltmeisterschaft - 8.Mikroschachcomputer - WM 1988 in Almeria*. [Europa-Rochade](https://de.wikipedia.org/wiki/Rochade_Europa), 01/02-1989, [pdf](http://schaakcomputers.nl/hein_veldhuis/database/files/11-1988,%20Europa-Rochade,%20Die%208.%20Mikroschachcomputer-WM%201988%20in%20Almeria.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Shredder schreibt Eröffnungstheorie](https://de.chessbase.com/post/shredder-schreibt-erffnungstheorie), [ChessBase](ChessBase "ChessBase"), November 13, 2003 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ICCF Player Details - Necchi, Sandro](https://www.iccf.com/player?id=241867)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sandro Necchi | LinkedIn](https://www.linkedin.com/in/sandro-necchi-46762754/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICCF Player Details - Necchi, Sandro](https://www.iccf.com/player?id=241867)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Y!'s ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=356)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Shredder's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=20)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Shredder Computer Schach Download - Interview mit Stefan Meyer-Kahlen](http://www.shredderchess.de/schach-news/shredder-news/interview-stefan-meyer%11kahlen.html) (German) ca. 2007
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Image by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner") from [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner") (**1989**).*Die wiederauferstandene Mikro-Weltmeisterschaft - 8.Mikroschachcomputer - WM 1988 in Almeria*. [Europa-Rochade](https://de.wikipedia.org/wiki/Rochade_Europa), 01/02-1989, [pdf](http://schaakcomputers.nl/hein_veldhuis/database/files/11-1988,%20Europa-Rochade,%20Die%208.%20Mikroschachcomputer-WM%201988%20in%20Almeria.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Shredder schreibt Eröffnungstheorie](https://de.chessbase.com/post/shredder-schreibt-erffnungstheorie), [ChessBase](ChessBase "ChessBase"), November 13, 2003 (German)
 
 **[Up one level](People "People")**
 

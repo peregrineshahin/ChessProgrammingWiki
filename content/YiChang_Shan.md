@@ -27,7 +27,7 @@ a Taiwanese computer scientist affiliated with the Department of Computer Scienc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [DBLP: Yi-Chang Shan](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Shan:Yi=Chang.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [DBLP: Yi-Chang Shan](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Shan:Yi=Chang.html)
 
 **[Up one Level](People "People")**
 

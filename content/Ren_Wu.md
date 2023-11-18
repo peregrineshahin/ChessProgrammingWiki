@@ -72,21 +72,21 @@ Along with [Don Beal](Don_Beal "Don Beal"), Ren Wu researched and published on [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ren Wu | LinkedIn](https://www.linkedin.com/in/ren-wu-944162/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [NovuMind - Company](https://www.novumind.com/company/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NovuMind - Leadership](https://www.novumind.com/company/leadership/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [NovuMind - Technology](https://www.novumind.com/technology/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [NovuMind's AI Chip Sparks Controversy](https://www.eetimes.com/document.asp?doc_id=1333898) by [Junko Yoshida](https://www.eetimes.com/profile.asp?piddl_userid=37009), [EE Times](https://en.wikipedia.org/wiki/EE_Times), October 24, 2018
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [WMCCC Jakarta](https://groups.google.com/d/msg/rec.games.chess.computer/VnaUuGmkuQQ/qCmmDeYAIPkJ) by [Chris Whittington](Chris_Whittington "Chris Whittington"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 8, 1996
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Fritz5 ECM test suite results](https://groups.google.com/d/msg/rec.games.chess.computer/ZY2Hq4e5RyE/9nseFZx1xQgJ) by Ren Wu, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), September 6, 1997
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Chess software for psion](https://groups.google.com/d/msg/comp.sys.psion/7XLMSdq4kfY/NGqToXHc30EJ) post 5 by [Chris Whittington](Chris_Whittington "Chris Whittington"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 18, 1996
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> Ren Wu, [Don Beal](Don_Beal "Don Beal") (**2001**). *Fast, Memory-efficient Retrograde Algorithms*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [dblp: Ren Wu](https://dblp.uni-trier.de/pers/hd/w/Wu:Ren.html)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Generating egtbs ICGAJ](https://www.stmintz.com/ccc/index.php?id=200335) by [Tony Werten](Tony_van_Roon-Werten "Tony van Roon-Werten"), [CCC](CCC "CCC"), December 04, 2001, with reference to [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by [Urban Koistinen](Urban_Koistinen "Urban Koistinen")
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Wu / Beal retrograde analisys algorithm](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6302&p=29956) by [Alvaro Jose Povoa Cardoso](Alvaro_Cardoso "Alvaro Cardoso"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 10, 2007
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> Ren Wu, [Don Beal](Don_Beal "Don Beal") (**2001**). *Fast, Memory-efficient Retrograde Algorithms*.[ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by [Urban Koistinen](Urban_Koistinen "Urban Koistinen")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ren Wu | LinkedIn](https://www.linkedin.com/in/ren-wu-944162/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [NovuMind - Company](https://www.novumind.com/company/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NovuMind - Leadership](https://www.novumind.com/company/leadership/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [NovuMind - Technology](https://www.novumind.com/technology/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [NovuMind's AI Chip Sparks Controversy](https://www.eetimes.com/document.asp?doc_id=1333898) by [Junko Yoshida](https://www.eetimes.com/profile.asp?piddl_userid=37009), [EE Times](https://en.wikipedia.org/wiki/EE_Times), October 24, 2018
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [WMCCC Jakarta](https://groups.google.com/d/msg/rec.games.chess.computer/VnaUuGmkuQQ/qCmmDeYAIPkJ) by [Chris Whittington](Chris_Whittington "Chris Whittington"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 8, 1996
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Fritz5 ECM test suite results](https://groups.google.com/d/msg/rec.games.chess.computer/ZY2Hq4e5RyE/9nseFZx1xQgJ) by Ren Wu, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), September 6, 1997
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Chess software for psion](https://groups.google.com/d/msg/comp.sys.psion/7XLMSdq4kfY/NGqToXHc30EJ) post 5 by [Chris Whittington](Chris_Whittington "Chris Whittington"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 18, 1996
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> Ren Wu, [Don Beal](Don_Beal "Don Beal") (**2001**). *Fast, Memory-efficient Retrograde Algorithms*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Ren Wu](https://dblp.uni-trier.de/pers/hd/w/Wu:Ren.html)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Generating egtbs ICGAJ](https://www.stmintz.com/ccc/index.php?id=200335) by [Tony Werten](Tony_van_Roon-Werten "Tony van Roon-Werten"), [CCC](CCC "CCC"), December 04, 2001, with reference to [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by [Urban Koistinen](Urban_Koistinen "Urban Koistinen")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Wu / Beal retrograde analisys algorithm](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6302&p=29956) by [Alvaro Jose Povoa Cardoso](Alvaro_Cardoso "Alvaro Cardoso"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 10, 2007
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> Ren Wu, [Don Beal](Don_Beal "Don Beal") (**2001**). *Fast, Memory-efficient Retrograde Algorithms*.[ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by [Urban Koistinen](Urban_Koistinen "Urban Koistinen")
 
 **[Up one level](People "People")**
 

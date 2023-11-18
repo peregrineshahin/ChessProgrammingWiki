@@ -29,8 +29,8 @@ He has also been a writer of reviews for [Computer Chess Reports](Computer_Chess
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Claudio Bollini | Pontificia Universidad Católica Argentina - Academia.edu](http://uca-ar.academia.edu/cepteo)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rebel Reviews](http://www.rebel.nl/reviews.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Claudio Bollini | Pontificia Universidad Católica Argentina - Academia.edu](http://uca-ar.academia.edu/cepteo)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rebel Reviews](http://www.rebel.nl/reviews.htm)
 
 **[Up one level](People "People")**
 

@@ -164,11 +164,11 @@ The linewise approaches of [First Rank Attacks](First_Rank_Attacks "First Rank A
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bitboard CHESS ENGINE in C: intro](https://youtu.be/QUNP-UjujBM)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - maksimKorzh/bbc: Bit Board Chess (BBC) - The easiest to understand bitboard chess engine by Code Monkey King](https://github.com/maksimKorzh/bbc)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [BBC 1.0 release - UCI chess engine by CMK](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75199) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), September 24, 2020
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [BBC 1.3 + Stockfish NNUE released!](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75482) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), October 21, 2020
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Main Transposition Table](http://web.archive.org/web/20070809015843/www.seanet.com/%7Ebrucemo/topics/hashing.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20070607231311/www.brucemo.com/compchess/programming/index.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bitboard CHESS ENGINE in C: intro](https://youtu.be/QUNP-UjujBM)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - maksimKorzh/bbc: Bit Board Chess (BBC) - The easiest to understand bitboard chess engine by Code Monkey King](https://github.com/maksimKorzh/bbc)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [BBC 1.0 release - UCI chess engine by CMK](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75199) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), September 24, 2020
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [BBC 1.3 + Stockfish NNUE released!](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75482) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), October 21, 2020
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Main Transposition Table](http://web.archive.org/web/20070809015843/www.seanet.com/%7Ebrucemo/topics/hashing.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20070607231311/www.brucemo.com/compchess/programming/index.htm)
 
 **[Up one Level](Engines "Engines")**
 

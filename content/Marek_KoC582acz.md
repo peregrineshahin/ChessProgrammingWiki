@@ -21,9 +21,9 @@ a Polish software engineer, and as computer chess programmer, author of the ches
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [III Mistrzostwa Polski Programów Szachowych](http://mpps.maciej.szmit.info/mpps-3/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New Butcher](https://www.stmintz.com/ccc/index.php?id=190209) by [Grzegorz Sidorowicz](Grzegorz_Sidorowicz "Grzegorz Sidorowicz"), [CCC](CCC "CCC"), September 24, 2001
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Maciej Szmit](Maciej_Szmit "Maciej Szmit") (**2006**). *The 5th Polish Computer-Chess Championship: The Second Comeback of Butcher*. [ICGA Journal, Vol. 29, No. 4](ICGA_Journal#29_4 "ICGA Journal") » [PCCC 2006](PCCC_2006 "PCCC 2006")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [III Mistrzostwa Polski Programów Szachowych](http://mpps.maciej.szmit.info/mpps-3/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New Butcher](https://www.stmintz.com/ccc/index.php?id=190209) by [Grzegorz Sidorowicz](Grzegorz_Sidorowicz "Grzegorz Sidorowicz"), [CCC](CCC "CCC"), September 24, 2001
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Maciej Szmit](Maciej_Szmit "Maciej Szmit") (**2006**). *The 5th Polish Computer-Chess Championship: The Second Comeback of Butcher*. [ICGA Journal, Vol. 29, No. 4](ICGA_Journal#29_4 "ICGA Journal") » [PCCC 2006](PCCC_2006 "PCCC 2006")
 
 **[Up one Level](People "People")**
 

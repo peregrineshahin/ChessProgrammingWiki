@@ -53,12 +53,12 @@ As avocational software developer and programmer, Torsten Linß is involved in d
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Torsten Linß](https://www.fernuni-hagen.de/numerik/team/torsten.linss.shtml), [FernUniversität Hagen](https://en.wikipedia.org/wiki/FernUniversit%C3%A4t_Hagen), Photo by [Hardy Welsch](http://www.hardy-welsch.de/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [harmonie Homepage](http://www.problemschach.de/harmonie/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Popeye - from Software for handling chess problems, Wikipedia](https://en.wikipedia.org/wiki/Software_for_handling_chess_problems#Popeye)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [History of Popeye](http://juliasfairies.com/software/popeye/history-of-popeye/) by [Thomas Brand](https://www.thbrand.de/), hosted by [Julia Vysotska](http://juliasfairies.com/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Torsten Linß](https://dblp.uni-trier.de/pers/hd/l/Lin=szlig=:Torsten)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Grigorii I. Shishkin](http://shishkin.imm.uran.ru/Shishkin.html) (**1992**). *Grid Approximations of Singularly Perturbed Elliptic and Parabolic Equations*. [Russian Academy of Sciences](https://en.wikipedia.org/wiki/Russian_Academy_of_Sciences), Ural Branch, [Yekaterinburg](https://en.wikipedia.org/wiki/Yekaterinburg) (Russian)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Torsten Linß](https://www.fernuni-hagen.de/numerik/team/torsten.linss.shtml), [FernUniversität Hagen](https://en.wikipedia.org/wiki/FernUniversit%C3%A4t_Hagen), Photo by [Hardy Welsch](http://www.hardy-welsch.de/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [harmonie Homepage](http://www.problemschach.de/harmonie/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Popeye - from Software for handling chess problems, Wikipedia](https://en.wikipedia.org/wiki/Software_for_handling_chess_problems#Popeye)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [History of Popeye](http://juliasfairies.com/software/popeye/history-of-popeye/) by [Thomas Brand](https://www.thbrand.de/), hosted by [Julia Vysotska](http://juliasfairies.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Torsten Linß](https://dblp.uni-trier.de/pers/hd/l/Lin=szlig=:Torsten)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Grigorii I. Shishkin](http://shishkin.imm.uran.ru/Shishkin.html) (**1992**). *Grid Approximations of Singularly Perturbed Elliptic and Parabolic Equations*. [Russian Academy of Sciences](https://en.wikipedia.org/wiki/Russian_Academy_of_Sciences), Ural Branch, [Yekaterinburg](https://en.wikipedia.org/wiki/Yekaterinburg) (Russian)
 
 **[Up one level](People "People")**
 

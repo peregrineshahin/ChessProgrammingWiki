@@ -28,8 +28,8 @@ a university located in [Helsinki](https://en.wikipedia.org/wiki/Helsinki), [Fin
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  University of Helsinki main building. Built 1832. Architect: Carl Ludvig Engel.
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [University of Helsinki from Wikipedia](https://en.wikipedia.org/wiki/University_of_Helsinki)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  University of Helsinki main building. Built 1832. Architect: Carl Ludvig Engel.
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [University of Helsinki from Wikipedia](https://en.wikipedia.org/wiki/University_of_Helsinki)
 
 **[Up one Level](Organizations "Organizations")**
 

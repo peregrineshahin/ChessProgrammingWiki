@@ -51,10 +51,10 @@ a chess program by [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz") and [Valentin Rottmann]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Head of Odysseus from a sculptural group representing Odysseus blinding [Polyphemus](https://en.wikipedia.org/wiki/Polyphemus). Marble, Greek, probably 1st century AD. From the [villa of Tiberius at Sperlonga](https://en.wikipedia.org/wiki/Sperlonga_sculptures), Museo Archeologico Nazionale in [Sperlonga](https://en.wikipedia.org/wiki/Sperlonga), [Odysseus from Wikipedia](https://en.wikipedia.org/wiki/Odysseus)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), [Valentin Rottmann](Valentin_Rottmann "Valentin Rottmann") (**1996**). *Parallel Controlled Conspiracy-Number Search*. [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ulysses' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=192)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Bootleg Series #12: Cream – Winterland, San Francisco, CA. 10th March 1968](https://tomcaswell.net/2015/02/25/bootleg-series-12-cream-live-at-winterland-san-francisco-ca-10th-march-1968/) by [Tom Caswell](https://tomcaswell.net/), February 25, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Head of Odysseus from a sculptural group representing Odysseus blinding [Polyphemus](https://en.wikipedia.org/wiki/Polyphemus). Marble, Greek, probably 1st century AD. From the [villa of Tiberius at Sperlonga](https://en.wikipedia.org/wiki/Sperlonga_sculptures), Museo Archeologico Nazionale in [Sperlonga](https://en.wikipedia.org/wiki/Sperlonga), [Odysseus from Wikipedia](https://en.wikipedia.org/wiki/Odysseus)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), [Valentin Rottmann](Valentin_Rottmann "Valentin Rottmann") (**1996**). *Parallel Controlled Conspiracy-Number Search*. [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ulysses' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=192)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Bootleg Series #12: Cream – Winterland, San Francisco, CA. 10th March 1968](https://tomcaswell.net/2015/02/25/bootleg-series-12-cream-live-at-winterland-san-francisco-ca-10th-march-1968/) by [Tom Caswell](https://tomcaswell.net/), February 25, 2015
 
 **[Up one Level](Engines "Engines")**
 

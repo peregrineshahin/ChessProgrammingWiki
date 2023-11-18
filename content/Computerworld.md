@@ -126,9 +126,9 @@ an IT periodical published in many countries by [International Data Group](https
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Computerworld | Global Brands | IDG.com](http://idg.com/www/idgproducts.nsf/display?readform&type=view&view=brandindex11&category=Computerworld)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computerworld from Wikipedia](https://en.wikipedia.org/wiki/Computerworld)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computerworld - IT news, features, blogs, tech reviews, career advice](http://www.computerworld.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Computerworld | Global Brands | IDG.com](http://idg.com/www/idgproducts.nsf/display?readform&type=view&view=brandindex11&category=Computerworld)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computerworld from Wikipedia](https://en.wikipedia.org/wiki/Computerworld)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computerworld - IT news, features, blogs, tech reviews, career advice](http://www.computerworld.com/)
 
 **[Up one Level](Periodical "Periodical")**
 

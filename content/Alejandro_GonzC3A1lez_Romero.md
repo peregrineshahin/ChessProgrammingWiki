@@ -36,9 +36,9 @@ His research interests include [artificial intelligence](Artificial_Intelligence
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image clipped from the [WCCC 2004](WCCC_2004 "WCCC 2004") group photo, [Computer Games events at Ban-Ilan University](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2004/pictures/) ([ICGA](ICGA "ICGA") Images)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Alejandro González Romero](https://dblp.uni-trier.de/pers/hd/r/Romero:Alejandro_Gonz=aacute=lez.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Building Policies for Scrabble from ACM Portal](http://portal.acm.org/citation.cfm?id=1566946)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image clipped from the [WCCC 2004](WCCC_2004 "WCCC 2004") group photo, [Computer Games events at Ban-Ilan University](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2004/pictures/) ([ICGA](ICGA "ICGA") Images)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Alejandro González Romero](https://dblp.uni-trier.de/pers/hd/r/Romero:Alejandro_Gonz=aacute=lez.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Building Policies for Scrabble from ACM Portal](http://portal.acm.org/citation.cfm?id=1566946)
 
 **[Up one level](People "People")**
 

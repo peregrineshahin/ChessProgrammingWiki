@@ -67,12 +67,12 @@ It was in winter 1988, when Duane Szafron along with [Joe Culberson](Joe_Culbers
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Duane Szafron Home Page](https://webdocs.cs.ualberta.ca/~duane/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Duane Szafron - Research](https://webdocs.cs.ualberta.ca/~duane/research/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](https://www.springer.com/gp/book/9780387765754)*. 1. This Was Going to Be Easy, pp. 5
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chinook - Solving Checkers](http://webdocs.cs.ualberta.ca/~chinook/publications/solving_checkers.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Duane Szafron](https://dblp.uni-trier.de/pers/s/Szafron:Duane.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Duane Szafron - Publication](https://webdocs.cs.ualberta.ca/~duane/publications/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Duane Szafron Home Page](https://webdocs.cs.ualberta.ca/~duane/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Duane Szafron - Research](https://webdocs.cs.ualberta.ca/~duane/research/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](https://www.springer.com/gp/book/9780387765754)*. 1. This Was Going to Be Easy, pp. 5
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chinook - Solving Checkers](http://webdocs.cs.ualberta.ca/~chinook/publications/solving_checkers.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Duane Szafron](https://dblp.uni-trier.de/pers/s/Szafron:Duane.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Duane Szafron - Publication](https://webdocs.cs.ualberta.ca/~duane/publications/)
 
 **[Up one level](People "People")**
 

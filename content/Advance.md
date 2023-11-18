@@ -79,13 +79,13 @@ Advance **2.0** was runner up behind [Cyrus](Cyrus "Cyrus") at the [European MCC
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Advance Warning*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Advance Warning*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Advance Warning*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1982**). *Advance to the fore*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [December 1982](http://www.chesscomputeruk.com/html/publication_archive_1982.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Advance's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=404)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) from [Computerschaak/Downloads/Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=13&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Cologne 1986 - Chess - Round 4 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=6)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Advance Warning*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Advance Warning*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Advance Warning*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [November 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1982**). *Advance to the fore*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [December 1982](http://www.chesscomputeruk.com/html/publication_archive_1982.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Advance's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=404)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) from [Computerschaak/Downloads/Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=13&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Cologne 1986 - Chess - Round 4 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=6)
 
 **[Up one Level](Engines "Engines")**
 

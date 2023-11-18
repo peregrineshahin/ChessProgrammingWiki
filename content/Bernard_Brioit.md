@@ -24,9 +24,9 @@ I am 55 years old and I develop BBchess for more than 10 years. With [Christian 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Bernard Brioit at [FCCC 2002](FCCC_2002 "FCCC 2002"), no longer available "Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  Interview with BBChess programmer Bernhard Brioit ... (May 31th, 2002 Deutsch, Français, English) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") from the Schachwerkstatt Archives, September 4, 2006 (dead link)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3) (dead link)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Bernard Brioit at [FCCC 2002](FCCC_2002 "FCCC 2002"), no longer available "Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a>  Interview with BBChess programmer Bernhard Brioit ... (May 31th, 2002 Deutsch, Français, English) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") from the Schachwerkstatt Archives, September 4, 2006 (dead link)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3) (dead link)
 
 **[Up one level](People "People")**
 

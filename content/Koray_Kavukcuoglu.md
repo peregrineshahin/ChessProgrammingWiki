@@ -52,15 +52,15 @@ a Turkish aerospace engineer, computer scientist, and researcher at [Google](ind
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Koray Kavukcuoglu | LinkedIn](https://www.linkedin.com/in/koray-kavukcuoglu-0439a720)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Torch 5](http://torch5.sourceforge.net/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Koray Kavukcuoglu - koray kavukcuoglu](http://koray.kavukcuoglu.org/index.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Code - koray kavukcuoglu](http://koray.kavukcuoglu.org/code.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Koray Kavukcuoglu](http://dblp.uni-trier.de/pers/hd/k/Kavukcuoglu:Koray)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Clément Farabet | Code](http://www.clement.farabet.net/code.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by [Tambet Matiisen](http://www.nervanasys.com/author/tambet/), [Nervana](http://www.nervanasys.com/), December 21, 2015
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Patent US20150100530 - Methods and apparatus for reinforcement learning - Google Patents](http://www.google.com/patents/US20150100530)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [WaveNet from Wikipedia](https://en.wikipedia.org/wiki/WaveNet)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Koray Kavukcuoglu | LinkedIn](https://www.linkedin.com/in/koray-kavukcuoglu-0439a720)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Torch 5](http://torch5.sourceforge.net/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Koray Kavukcuoglu - koray kavukcuoglu](http://koray.kavukcuoglu.org/index.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Code - koray kavukcuoglu](http://koray.kavukcuoglu.org/code.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Koray Kavukcuoglu](http://dblp.uni-trier.de/pers/hd/k/Kavukcuoglu:Koray)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Clément Farabet | Code](http://www.clement.farabet.net/code.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by [Tambet Matiisen](http://www.nervanasys.com/author/tambet/), [Nervana](http://www.nervanasys.com/), December 21, 2015
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Patent US20150100530 - Methods and apparatus for reinforcement learning - Google Patents](http://www.google.com/patents/US20150100530)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [WaveNet from Wikipedia](https://en.wikipedia.org/wiki/WaveNet)
 
 **[Up one level](People "People")**
 

@@ -60,23 +60,23 @@ void raninit( ranctx *x, u8 seed ) {
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bob Jenkins' Web Site](http://burtleburtle.net/bob/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stuff Yaron Finds Interesting - What is Microsoft's Cosmos service?](http://www.goland.org/whatiscosmos/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dryad - Microsoft Research](http://research.microsoft.com/en-us/projects/dryad/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ronnie Chaiken](http://www.linkedin.com/pub/ronnie-chaiken/26/571/143), Bob Jenkins, [Per-Åke Larson](http://research.microsoft.com/en-us/people/palarson/), [Bill Ramsey](http://portal.acm.org/author_page.cfm?id=81344496896&coll=DL&dl=ACM&trk=0&cfid=28619666&cftoken=49088236), [Darren Shakib](http://www.microsoft.com/presspass/exec/de/Shakib/default.mspx), [Simon Weaver](http://www.linkedin.com/in/simonjweaver), [Jingren Zhou](http://research.microsoft.com/en-us/um/people/jrzhou/) (**2008**). *[SCOPE: Easy and Efficient Parallel Processing of Massive Data Sets](http://portal.acm.org/citation.cfm?id=1454166)*. [Microsoft Corporation](Microsoft "Microsoft"), [pdf](http://www.goland.org/Scope-VLDB-final.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Resume for Bob Jenkins](http://burtleburtle.net/bob/other/resume3.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Hash Functions for Hash Table Lookup](http://burtleburtle.net/bob/hash/evahash.html), Robert J. Jenkins Jr., 1995-1997
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Hash functions](http://www.azillionmonkeys.com/qed/hash.html) by [Paul Hsieh](Paul_Hsieh "Paul Hsieh")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Stockfish Blog - Stockfish 2.0](http://blog.stockfishchess.com/)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [RKISS](http://www.talkchess.com/forum/viewtopic.php?t=37406) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), January 01, 2011
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [RKISS copyright?](http://www.talkchess.com/forum/viewtopic.php?start=0&t=38313) by Giorgio Medeot, [CCC](CCC "CCC"), March 07, 2011
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [64-bit KISS RNGs](http://compgroups.net/comp.lang.fortran/64-bit-kiss-rngs/601519) by [George Marsaglia](Mathematician#GMarsaglia "Mathematician"), [comp.lang.fortran | Computer Group](http://compgroups.net/comp.lang.fortran/), February 28, 2009
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Re: RKISS copyright?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=398196&t=38313) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), March 09, 2011
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [RANDOM.ORG - Integer Generator](http://www.random.org/integers/?mode=advanced)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [The Marsaglia Random Number CDROM including the Diehard Battery of Tests](http://www.stat.fsu.edu/pub/diehard/)
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [A small noncryptographic pseudorandom number generator - 64-bit variants](http://www.burtleburtle.net/bob/rand/smallprng.html) by Bob Jenkins
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Cyclic redundancy check from Wikipedia](https://en.wikipedia.org/wiki/Cyclic_redundancy_check)
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Mathematics of CRC from Wikipedia](https://en.wikipedia.org/wiki/Mathematics_of_CRC)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bob Jenkins' Web Site](http://burtleburtle.net/bob/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stuff Yaron Finds Interesting - What is Microsoft's Cosmos service?](http://www.goland.org/whatiscosmos/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dryad - Microsoft Research](http://research.microsoft.com/en-us/projects/dryad/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ronnie Chaiken](http://www.linkedin.com/pub/ronnie-chaiken/26/571/143), Bob Jenkins, [Per-Åke Larson](http://research.microsoft.com/en-us/people/palarson/), [Bill Ramsey](http://portal.acm.org/author_page.cfm?id=81344496896&coll=DL&dl=ACM&trk=0&cfid=28619666&cftoken=49088236), [Darren Shakib](http://www.microsoft.com/presspass/exec/de/Shakib/default.mspx), [Simon Weaver](http://www.linkedin.com/in/simonjweaver), [Jingren Zhou](http://research.microsoft.com/en-us/um/people/jrzhou/) (**2008**). *[SCOPE: Easy and Efficient Parallel Processing of Massive Data Sets](http://portal.acm.org/citation.cfm?id=1454166)*. [Microsoft Corporation](Microsoft "Microsoft"), [pdf](http://www.goland.org/Scope-VLDB-final.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Resume for Bob Jenkins](http://burtleburtle.net/bob/other/resume3.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hash Functions for Hash Table Lookup](http://burtleburtle.net/bob/hash/evahash.html), Robert J. Jenkins Jr., 1995-1997
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Hash functions](http://www.azillionmonkeys.com/qed/hash.html) by [Paul Hsieh](Paul_Hsieh "Paul Hsieh")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Stockfish Blog - Stockfish 2.0](http://blog.stockfishchess.com/)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [RKISS](http://www.talkchess.com/forum/viewtopic.php?t=37406) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), January 01, 2011
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [RKISS copyright?](http://www.talkchess.com/forum/viewtopic.php?start=0&t=38313) by Giorgio Medeot, [CCC](CCC "CCC"), March 07, 2011
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [64-bit KISS RNGs](http://compgroups.net/comp.lang.fortran/64-bit-kiss-rngs/601519) by [George Marsaglia](Mathematician#GMarsaglia "Mathematician"), [comp.lang.fortran | Computer Group](http://compgroups.net/comp.lang.fortran/), February 28, 2009
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Re: RKISS copyright?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=398196&t=38313) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), March 09, 2011
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [RANDOM.ORG - Integer Generator](http://www.random.org/integers/?mode=advanced)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [The Marsaglia Random Number CDROM including the Diehard Battery of Tests](http://www.stat.fsu.edu/pub/diehard/)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [A small noncryptographic pseudorandom number generator - 64-bit variants](http://www.burtleburtle.net/bob/rand/smallprng.html) by Bob Jenkins
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Cyclic redundancy check from Wikipedia](https://en.wikipedia.org/wiki/Cyclic_redundancy_check)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Mathematics of CRC from Wikipedia](https://en.wikipedia.org/wiki/Mathematics_of_CRC)
 
 **[Up one level](People "People")**
 

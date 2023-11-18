@@ -70,20 +70,20 @@ Steinar H. Gunderson has a wide range of interests spanning from [DSP](https://e
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [sesse (Steinar H. Gunderson) · GitHub](https://github.com/sesse)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [FOSDEM 2014 - Steinar H. Gunderson](https://archive.fosdem.org/2014/schedule/speaker/steinar_h_gunderson/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Steinar H. Gunderson - Sesse.net](https://www.sesse.net/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Steinar H. Gunderson (**2007**). *[Musical descriptors: An assessment of psychoacoustical models in the presence of lossy compression](http://descriptors.sesse.net/)*. M.Sc. thesis, [Norwegian University of Science and Technology](https://en.wikipedia.org/wiki/Norwegian_University_of_Science_and_Technology), advisor [Jan Tro](https://www.ntnu.edu/employees/jantro)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [FOSDEM 2014 - Steinar H. Gunderson](https://archive.fosdem.org/2014/schedule/speaker/steinar_h_gunderson/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CTG specification](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=2319) by Sesse, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), September 30, 2007
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [git.sesse.net Git - remoteglot/summary](https://git.sesse.net/?p=remoteglot;a=summary)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [analysis.sesse.net](http://analysis.sesse.net/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [git.sesse.net Git - Stupid, a chess AI](https://git.sesse.net/?p=stupid)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [tablebase.sesse.net](http://tablebase.sesse.net/)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Stockfish/AUTHORS at master · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Steinar H. Gunderson - Sesse.net](https://www.sesse.net/)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [dblp: Steinar H. Gunderson](https://dblp.uni-trier.de/pers/hd/g/Gunderson:Steinar_H=)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [git.sesse.net Git - movit/summary](https://git.sesse.net/?p=movit)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [sesse (Steinar H. Gunderson) · GitHub](https://github.com/sesse)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [FOSDEM 2014 - Steinar H. Gunderson](https://archive.fosdem.org/2014/schedule/speaker/steinar_h_gunderson/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Steinar H. Gunderson - Sesse.net](https://www.sesse.net/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Steinar H. Gunderson (**2007**). *[Musical descriptors: An assessment of psychoacoustical models in the presence of lossy compression](http://descriptors.sesse.net/)*. M.Sc. thesis, [Norwegian University of Science and Technology](https://en.wikipedia.org/wiki/Norwegian_University_of_Science_and_Technology), advisor [Jan Tro](https://www.ntnu.edu/employees/jantro)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [FOSDEM 2014 - Steinar H. Gunderson](https://archive.fosdem.org/2014/schedule/speaker/steinar_h_gunderson/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CTG specification](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=2319) by Sesse, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), September 30, 2007
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [git.sesse.net Git - remoteglot/summary](https://git.sesse.net/?p=remoteglot;a=summary)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [analysis.sesse.net](http://analysis.sesse.net/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [git.sesse.net Git - Stupid, a chess AI](https://git.sesse.net/?p=stupid)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [tablebase.sesse.net](http://tablebase.sesse.net/)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Stockfish/AUTHORS at master · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Steinar H. Gunderson - Sesse.net](https://www.sesse.net/)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [dblp: Steinar H. Gunderson](https://dblp.uni-trier.de/pers/hd/g/Gunderson:Steinar_H=)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [git.sesse.net Git - movit/summary](https://git.sesse.net/?p=movit)
 
 **[Up one level](People "People")**
 

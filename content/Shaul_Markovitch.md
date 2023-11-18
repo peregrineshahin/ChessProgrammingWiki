@@ -83,12 +83,12 @@ feature generation, active learning, learning in [multi-agent systems](https://e
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Shaul Markovitch's Home Page](http://www.cs.technion.ac.il/%7Eshaulm/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Curriculum Vitae Shaul Markovitch](http://www.cs.technion.ac.il/%7Eshaulm/cv.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Shaul Markovitch - Research summary](http://www.cs.technion.ac.il/%7Eshaulm/research-summary.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Man vs. Machine: The Experiment](https://web.archive.org/web/20040822163301/http://www.cri.haifa.ac.il/events/2002/kasparov/kasparov02.htm) October 15-16, 2002, [University of Haifa](https://en.wikipedia.org/wiki/University_of_Haifa)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Shaul Markovitch](https://dblp.uni-trier.de/pers/hd/m/Markovitch:Shaul)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Different eval for white/black](http://www.talkchess.com/forum/viewtopic.php?t=54865&start=27) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), January 08, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Shaul Markovitch's Home Page](http://www.cs.technion.ac.il/%7Eshaulm/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Curriculum Vitae Shaul Markovitch](http://www.cs.technion.ac.il/%7Eshaulm/cv.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Shaul Markovitch - Research summary](http://www.cs.technion.ac.il/%7Eshaulm/research-summary.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Man vs. Machine: The Experiment](https://web.archive.org/web/20040822163301/http://www.cri.haifa.ac.il/events/2002/kasparov/kasparov02.htm) October 15-16, 2002, [University of Haifa](https://en.wikipedia.org/wiki/University_of_Haifa)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Shaul Markovitch](https://dblp.uni-trier.de/pers/hd/m/Markovitch:Shaul)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Different eval for white/black](http://www.talkchess.com/forum/viewtopic.php?t=54865&start=27) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), January 08, 2015
 
 **[Up one level](People "People")**
 

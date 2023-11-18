@@ -24,8 +24,8 @@ Anastasios is author of the computer chess engines [AICE](AICE "AICE"), which ha
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Portrait of Anastasios Mikilas, author of the Chess960 engine AICE](http://www.chesstigers.de/ccm9_index_news.php?id=310&rubrik=6&lang=1&kat=6) by [Mark Vogelgesang](http://www.chesstigers.de/index_news.php?id=594&rubrik=), July 21, 2005 - as of February 2019 no longer available
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Portrait of Anastasios Mikilas, author of the Chess960 engine AICE](http://www.chesstigers.de/ccm9_index_news.php?id=310&rubrik=6&lang=1&kat=6) by [Mark Vogelgesang](http://www.chesstigers.de/index_news.php?id=594&rubrik=), July 21, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Portrait of Anastasios Mikilas, author of the Chess960 engine AICE](http://www.chesstigers.de/ccm9_index_news.php?id=310&rubrik=6&lang=1&kat=6) by [Mark Vogelgesang](http://www.chesstigers.de/index_news.php?id=594&rubrik=), July 21, 2005 - as of February 2019 no longer available
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Portrait of Anastasios Mikilas, author of the Chess960 engine AICE](http://www.chesstigers.de/ccm9_index_news.php?id=310&rubrik=6&lang=1&kat=6) by [Mark Vogelgesang](http://www.chesstigers.de/index_news.php?id=594&rubrik=), July 21, 2005
 
 **[Up one Level](People "People")**
 

@@ -51,14 +51,14 @@ Ph.D., University of Montreal, a student and friend
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bibliography of Dream Anthropology](http://www.angelfire.com/ak/electricdreams/rcwbib96.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ASD journal, Dreaming](http://www.asdreams.org/asdj01.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Association for the Study of Dreams Dreams and Cultures](http://www.asdreams.org/2002/updated_program_june7.pdf) Dreams and Cultures, Nineteenth Annual International Dream Conference 2002 (pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> George W. Baylor, [Herbert A. Simon](Herbert_Simon "Herbert Simon") (**1966**). *[A chess mating combinations program](http://dl.acm.org/citation.cfm?id=1464182.1464233&coll=GUIDE&dl=GUIDE)*. [AFIPS](https://en.wikipedia.org/wiki/American_Federation_of_Information_Processing_Societies) [Joint Computer Conferences](https://en.wikipedia.org/wiki/Joint_Computer_Conference)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [All Remembrance of Herbert A. Simon](http://www.cs.cmu.edu/simon/all.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Mỹ Lai Massacre from Wikipedia](https://en.wikipedia.org/wiki/My_Lai_Massacre)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The Nice](https://en.wikipedia.org/wiki/The_Nice) - [America](http://www.songfacts.com/detail.php?id=21795) (Live on [BBC One](https://en.wikipedia.org/wiki/BBC_One) "[How It Is](http://peel.wikia.com/wiki/How_It_Is)" by [John Peel](https://en.wikipedia.org/wiki/John_Peel), 1968), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Program and protocol analysis on a mental imagery task](http://portal.acm.org/citation.cfm?id=1622898) from [ACM Portal](http://portal.acm.org/portal.cfm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bibliography of Dream Anthropology](http://www.angelfire.com/ak/electricdreams/rcwbib96.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ASD journal, Dreaming](http://www.asdreams.org/asdj01.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Association for the Study of Dreams Dreams and Cultures](http://www.asdreams.org/2002/updated_program_june7.pdf) Dreams and Cultures, Nineteenth Annual International Dream Conference 2002 (pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> George W. Baylor, [Herbert A. Simon](Herbert_Simon "Herbert Simon") (**1966**). *[A chess mating combinations program](http://dl.acm.org/citation.cfm?id=1464182.1464233&coll=GUIDE&dl=GUIDE)*. [AFIPS](https://en.wikipedia.org/wiki/American_Federation_of_Information_Processing_Societies) [Joint Computer Conferences](https://en.wikipedia.org/wiki/Joint_Computer_Conference)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [All Remembrance of Herbert A. Simon](http://www.cs.cmu.edu/simon/all.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mỹ Lai Massacre from Wikipedia](https://en.wikipedia.org/wiki/My_Lai_Massacre)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Nice](https://en.wikipedia.org/wiki/The_Nice) - [America](http://www.songfacts.com/detail.php?id=21795) (Live on [BBC One](https://en.wikipedia.org/wiki/BBC_One) "[How It Is](http://peel.wikia.com/wiki/How_It_Is)" by [John Peel](https://en.wikipedia.org/wiki/John_Peel), 1968), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Program and protocol analysis on a mental imagery task](http://portal.acm.org/citation.cfm?id=1622898) from [ACM Portal](http://portal.acm.org/portal.cfm)
 
 **[Up one Level](People "People")**
 

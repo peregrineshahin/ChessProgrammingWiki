@@ -69,13 +69,13 @@ In 1958, a chess program (NSS) beat a human player for the first time. The human
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Johnniac computer, [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), California, by Andrew Lih, [JOHNNIAC from Wikipedia](https://en.wikipedia.org/wiki/JOHNNIAC)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Classic Computer Chess - ... The programs of yesteryear](http://web.archive.org/web/20071221115817/http://classicchess.googlepages.com/Chess.htm) by [Carey](Carey_Bloodworth "Carey Bloodworth"), hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aritificial Intelligence pioneers Allen Newell (right) and Herbert Simon 1958](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a07cf7a1) Courtesy of [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Paul Rushton](Paul_Rushton "Paul Rushton"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1973**). *Current Chess Programs: A Summary of their Potential and Limitations*. INFOR Journal of the Canadian Information Processing Society Vol. 11, No. 1, [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Rushton-Marsland-Feb73.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computer Chess History](http://www.oocities.org/siliconvalley/lab/7378/comphis.htm) by [Bill Wall](index.php?title=Bill_Wall&action=edit&redlink=1 "Bill Wall (page does not exist)")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [General Problem Solver from Wikipedia](https://en.wikipedia.org/wiki/General_Problem_Solver)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Johnniac computer, [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), California, by Andrew Lih, [JOHNNIAC from Wikipedia](https://en.wikipedia.org/wiki/JOHNNIAC)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Classic Computer Chess - ... The programs of yesteryear](http://web.archive.org/web/20071221115817/http://classicchess.googlepages.com/Chess.htm) by [Carey](Carey_Bloodworth "Carey Bloodworth"), hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aritificial Intelligence pioneers Allen Newell (right) and Herbert Simon 1958](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a07cf7a1) Courtesy of [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Paul Rushton](Paul_Rushton "Paul Rushton"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1973**). *Current Chess Programs: A Summary of their Potential and Limitations*. INFOR Journal of the Canadian Information Processing Society Vol. 11, No. 1, [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Rushton-Marsland-Feb73.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computer Chess History](http://www.oocities.org/siliconvalley/lab/7378/comphis.htm) by [Bill Wall](index.php?title=Bill_Wall&action=edit&redlink=1 "Bill Wall (page does not exist)")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [General Problem Solver from Wikipedia](https://en.wikipedia.org/wiki/General_Problem_Solver)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
 
 **[Up one Level](Engines "Engines")**
 

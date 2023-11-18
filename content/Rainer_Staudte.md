@@ -53,12 +53,12 @@ a German mathematician and computer scientist, alumnus of the [Chemnitz Universi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Composers: July 31st](http://chesscomposers.blogspot.com/2012/07/july-31st.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Deutsche Hochschulmannschaftsmeisterschaft Schach 1996](http://www.tu-chemnitz.de/usg/schach/Archiv/DHMM96/dhmm96.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SV Muldental Wilkau-Haßlau e.V.](http://www.svm-wilkau-hasslau.de/sportarten/schach.htm) Jugendleiter: Dr. Rainer Staudte
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SV Muldental Wilkau-Haßlau Jugendschach](http://www.svm-jugendschach.de/index2.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Aktuelles 2010 - Schwalbe-Tagung 2010 in Berlin](http://www.dieschwalbe.de/aktuelles20101010.htm) from [Schwalbe - deutsche Vereinigung für Problemschach](http://www.dieschwalbe.de/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Rainer Staudte](http://dblp.uni-trier.de/pers/hd/s/Staudte:Rainer)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Composers: July 31st](http://chesscomposers.blogspot.com/2012/07/july-31st.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Deutsche Hochschulmannschaftsmeisterschaft Schach 1996](http://www.tu-chemnitz.de/usg/schach/Archiv/DHMM96/dhmm96.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SV Muldental Wilkau-Haßlau e.V.](http://www.svm-wilkau-hasslau.de/sportarten/schach.htm) Jugendleiter: Dr. Rainer Staudte
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SV Muldental Wilkau-Haßlau Jugendschach](http://www.svm-jugendschach.de/index2.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Aktuelles 2010 - Schwalbe-Tagung 2010 in Berlin](http://www.dieschwalbe.de/aktuelles20101010.htm) from [Schwalbe - deutsche Vereinigung für Problemschach](http://www.dieschwalbe.de/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Rainer Staudte](http://dblp.uni-trier.de/pers/hd/s/Staudte:Rainer)
 
 **[Up one level](People "People")**
 

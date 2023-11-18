@@ -158,12 +158,12 @@ title: Java
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [TIOBE Index](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Java chess program?](https://groups.google.com/d/msg/rec.games.chess.computer/o3AMPvhmY3o/1yZhMk3_VlIJ) by [Moritz Berger](Moritz_Berger "Moritz Berger"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 29, 1997 » [Shifting Bitboards](General_Setwise_Operations#ShiftingBitboards "General Setwise Operations")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bitboards and Java](http://www.talkchess.com/forum/viewtopic.php?t=65724) by [Fred Hamilton](index.php?title=Fred_Hamilton&action=edit&redlink=1 "Fred Hamilton (page does not exist)"), [CCC](CCC "CCC"), November 14, 2017
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [java engines](http://www.talkchess.com/forum/viewtopic.php?t=58080) by [Gabor Szots](Gabor_Szots "Gabor Szots"), [CCC](CCC "CCC"), October 28, 2015
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [π-calculus from Wikipedia](https://en.wikipedia.org/wiki/%CE%A0-calculus)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Mark Watson · GitHub](https://github.com/mark-watson)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [TIOBE Index](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Java chess program?](https://groups.google.com/d/msg/rec.games.chess.computer/o3AMPvhmY3o/1yZhMk3_VlIJ) by [Moritz Berger](Moritz_Berger "Moritz Berger"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 29, 1997 » [Shifting Bitboards](General_Setwise_Operations#ShiftingBitboards "General Setwise Operations")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bitboards and Java](http://www.talkchess.com/forum/viewtopic.php?t=65724) by [Fred Hamilton](index.php?title=Fred_Hamilton&action=edit&redlink=1 "Fred Hamilton (page does not exist)"), [CCC](CCC "CCC"), November 14, 2017
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [java engines](http://www.talkchess.com/forum/viewtopic.php?t=58080) by [Gabor Szots](Gabor_Szots "Gabor Szots"), [CCC](CCC "CCC"), October 28, 2015
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [π-calculus from Wikipedia](https://en.wikipedia.org/wiki/%CE%A0-calculus)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mark Watson · GitHub](https://github.com/mark-watson)
 
 **[Up one Level](Languages "Languages")**
 

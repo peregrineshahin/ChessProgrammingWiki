@@ -42,11 +42,11 @@ was an American computer scientist, known for the [Kotok-McCarthy-Chess Program]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Alan Kotok at [CSAIL](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory) in 2006, [Alan Kotok from Wikipedia](https://en.wikipedia.org/wiki/Alan_Kotok)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Alan Kotok (**1962**). *[Artificial Intelligence Project - MIT Computation Center: Memo 41 - A Chess Playing Program](http://www.kotok.org/AI_Memo_41.html)*. [pdf](ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-041.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Forty five years ago](http://www.talkchess.com/forum/viewtopic.php?t=13506) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), May 01, 2007
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Michael Brudno](http://www.cs.toronto.edu/~brudno/) (**2000**). *Competitions, Controversies, and Computer Chess*, [pdf](http://www.cs.toronto.edu/%7Ebrudno/essays/cchess.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Alan Kotok died at his home in Cambridge, apparently from a heart attack, on May 26, 2006, eleven days after the PDP-1 Celebration Event
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Alan Kotok at [CSAIL](https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory) in 2006, [Alan Kotok from Wikipedia](https://en.wikipedia.org/wiki/Alan_Kotok)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Alan Kotok (**1962**). *[Artificial Intelligence Project - MIT Computation Center: Memo 41 - A Chess Playing Program](http://www.kotok.org/AI_Memo_41.html)*. [pdf](ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-041.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Forty five years ago](http://www.talkchess.com/forum/viewtopic.php?t=13506) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), May 01, 2007
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Michael Brudno](http://www.cs.toronto.edu/~brudno/) (**2000**). *Competitions, Controversies, and Computer Chess*, [pdf](http://www.cs.toronto.edu/%7Ebrudno/essays/cchess.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Alan Kotok died at his home in Cambridge, apparently from a heart attack, on May 26, 2006, eleven days after the PDP-1 Celebration Event
 
 **[Up one level](People "People")**
 

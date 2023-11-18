@@ -49,9 +49,9 @@ title: University of California Berkeley
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> View of campus from [Evans Hall](https://en.wikipedia.org/wiki/Evans_Hall_(UC_Berkeley)), as [San Francisco](https://en.wikipedia.org/wiki/San_Francisco) and [Oakland](https://en.wikipedia.org/wiki/Oakland,_California) are seen in the background, image by Zpwilliams, November 16, 2016, [University of California, Berkeley from Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Berkeley) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bremermann's limit from Wikipedia](https://en.wikipedia.org/wiki/Bremermann%27s_limit)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Solving chess from Wikipedia](https://en.wikipedia.org/wiki/Solving_chess)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> View of campus from [Evans Hall](https://en.wikipedia.org/wiki/Evans_Hall_(UC_Berkeley)), as [San Francisco](https://en.wikipedia.org/wiki/San_Francisco) and [Oakland](https://en.wikipedia.org/wiki/Oakland,_California) are seen in the background, image by Zpwilliams, November 16, 2016, [University of California, Berkeley from Wikipedia](https://en.wikipedia.org/wiki/University_of_California,_Berkeley) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bremermann's limit from Wikipedia](https://en.wikipedia.org/wiki/Bremermann%27s_limit)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Solving chess from Wikipedia](https://en.wikipedia.org/wiki/Solving_chess)
 
 **[Up one Level](Organizations "Organizations")**
 

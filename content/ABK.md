@@ -93,8 +93,8 @@ struct SBookMoveEntry {
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Opening books format](http://www.talkchess.com/forum/viewtopic.php?t=20661&start=5) by [Jury Osipov](Jury_Osipov "Jury Osipov"), [CCC](CCC "CCC"), April 15, 2008
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Scid / Scid vs. PC - ChessBase (.ctg) and Arena (.abk)](http://www.talkchess.com/forum/viewtopic.php?t=61165) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), August 19, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Opening books format](http://www.talkchess.com/forum/viewtopic.php?t=20661&start=5) by [Jury Osipov](Jury_Osipov "Jury Osipov"), [CCC](CCC "CCC"), April 15, 2008
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Scid / Scid vs. PC - ChessBase (.ctg) and Arena (.abk)](http://www.talkchess.com/forum/viewtopic.php?t=61165) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), August 19, 2016
 
 **[Up one Level](Opening_Book "Opening Book")**
 

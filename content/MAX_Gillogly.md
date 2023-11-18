@@ -51,8 +51,8 @@ an early chess program from the late 60s written by [James Gillogly](James_Gillo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The fate of Max and Moritz](https://en.wikipedia.org/wiki/File:Max_und_Moritz_%28Busch%29_092.png), drawing by [Wilhelm Busch](https://en.wikipedia.org/wiki/Wilhelm_Busch) (1832-1908), [Max and Moritz from Wikipedia](https://en.wikipedia.org/wiki/Max_and_Moritz), [Max und Moritz/Letzter Streich – Wikisource](https://de.wikisource.org/wiki/Max_und_Moritz/Letzter_Streich)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [James Gillogly](James_Gillogly "James Gillogly") (**1970**). *[MAX : A FORTRAN Chess Player](https://www.rand.org/pubs/papers/P4428.html)*. [RAND](https://en.wikipedia.org/wiki/RAND) paper
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The fate of Max and Moritz](https://en.wikipedia.org/wiki/File:Max_und_Moritz_%28Busch%29_092.png), drawing by [Wilhelm Busch](https://en.wikipedia.org/wiki/Wilhelm_Busch) (1832-1908), [Max and Moritz from Wikipedia](https://en.wikipedia.org/wiki/Max_and_Moritz), [Max und Moritz/Letzter Streich – Wikisource](https://de.wikisource.org/wiki/Max_und_Moritz/Letzter_Streich)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [James Gillogly](James_Gillogly "James Gillogly") (**1970**). *[MAX : A FORTRAN Chess Player](https://www.rand.org/pubs/papers/P4428.html)*. [RAND](https://en.wikipedia.org/wiki/RAND) paper
 
 **[Up one level](Engines "Engines")**
 

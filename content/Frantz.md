@@ -69,10 +69,10 @@ g5 36.h5 g4 37.h6 b6 38.Ra8+ Kf7 39.Rh8 Bc2 40.Rd8 Ke6 41.Re8+ Kf6 42.Rf8+ Ke7
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SCHACH (Graz) : "Grazer nehmen an Computer - SCHACH - WM in Stockholm teil": Wahrheit v. 3.8.1974, S. 7, Kataloge der Universitäten Graz, Linz, Bratislava und Innsbruck](http://webapp.uibk.ac.at/alo_cat/card.jsp?id=12537152&pos=43)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Frantz' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=47)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Stockholm 1974 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=1&id=2)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Stockholm 1974 - Chess - Round 4 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=4&id=3)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SCHACH (Graz) : "Grazer nehmen an Computer - SCHACH - WM in Stockholm teil": Wahrheit v. 3.8.1974, S. 7, Kataloge der Universitäten Graz, Linz, Bratislava und Innsbruck](http://webapp.uibk.ac.at/alo_cat/card.jsp?id=12537152&pos=43)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Frantz' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=47)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Stockholm 1974 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=1&id=2)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Stockholm 1974 - Chess - Round 4 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=4&id=3)
 
 **[Up one Level](Engines "Engines")**
 

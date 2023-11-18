@@ -21,8 +21,8 @@ The program takes 16K bytes of [memory](Memory "Memory") - for [teletypes](https
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computerworld](Computerworld "Computerworld"), Vol. XI, No. 38, September 19, 1977, pg. 62
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Larry Wagner](Larry_Wagner "Larry Wagner") (**1978**). *Results of First Microcomputer Chess Tournament*. [Silicon Gulch Gazette](http://www.computerhistory.org/collections/accession/102686281), Vol. 2, No. 4, May 10, 1978, pg. 9
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computerworld](Computerworld "Computerworld"), Vol. XI, No. 38, September 19, 1977, pg. 62
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Larry Wagner](Larry_Wagner "Larry Wagner") (**1978**). *Results of First Microcomputer Chess Tournament*. [Silicon Gulch Gazette](http://www.computerhistory.org/collections/accession/102686281), Vol. 2, No. 4, May 10, 1978, pg. 9
 
 **[Up one Level](Engines "Engines")**
 

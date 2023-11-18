@@ -242,8 +242,8 @@ Additionally, all 16 move target bitboards might be aggregated into a union set,
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Golem: How He Came Into the World, from Wikipedia](https://en.wikipedia.org/wiki/The_Golem:_How_He_Came_into_the_World)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AVX-512 instructions | Intel® Developer Zone](http://software.intel.com/en-us/blogs/2013/avx-512-instructions), by [James Reinders](http://software.intel.com/en-us/user/335550), July 23, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Golem: How He Came Into the World, from Wikipedia](https://en.wikipedia.org/wiki/The_Golem:_How_He_Came_into_the_World)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AVX-512 instructions | Intel® Developer Zone](http://software.intel.com/en-us/blogs/2013/avx-512-instructions), by [James Reinders](http://software.intel.com/en-us/user/335550), July 23, 2013
 
 **[Up one Level](Move_Generation "Move Generation")**
 

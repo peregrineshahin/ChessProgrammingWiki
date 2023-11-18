@@ -47,12 +47,12 @@ a Belgian computer scientist and games researcher. As student at [Carnegie Mello
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess-Playing Computer Closing In on Champions](http://query.nytimes.com/gst/fullpage.html?res=950DEEDF1F3DF935A1575AC0A96F948260&sec=&spon=&pagewanted=all) by [Robert Byrne](https://en.wikipedia.org/wiki/Robert_Byrne), [New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), September 26, 1989
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fernand Gobet](Fernand_Gobet "Fernand Gobet"), Peter Jansen (**1994**). *Towards a Chess Program Based on a Model of Human Memory*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Edmonton 1989 - Chess - Round 5 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=14&round=5&id=1)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ray Keene](https://en.wikipedia.org/wiki/Raymond_Keene) (**1989**). *Deep Thoughts from Edmonton*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo by [Pierre Nolot](Pierre_Nolot "Pierre Nolot")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess-Playing Computer Closing In on Champions](http://query.nytimes.com/gst/fullpage.html?res=950DEEDF1F3DF935A1575AC0A96F948260&sec=&spon=&pagewanted=all) by [Robert Byrne](https://en.wikipedia.org/wiki/Robert_Byrne), [New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), September 26, 1989
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fernand Gobet](Fernand_Gobet "Fernand Gobet"), Peter Jansen (**1994**). *Towards a Chess Program Based on a Model of Human Memory*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Edmonton 1989 - Chess - Round 5 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=14&round=5&id=1)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ray Keene](https://en.wikipedia.org/wiki/Raymond_Keene) (**1989**). *Deep Thoughts from Edmonton*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo by [Pierre Nolot](Pierre_Nolot "Pierre Nolot")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

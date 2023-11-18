@@ -25,12 +25,12 @@ and wrote several books and reports on that topic.
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: An interesting book with some insights on Bob's Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=411349&t=39455) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), June 25, 2011
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer chess books](https://groups.google.com/g/rec.games.chess.computer/c/kecoM_YlyAM/m/NiCnP8wRgnQJ) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 05, 1997
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer Chess by David E. Welsh](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id125.html) by [John L. Jerz](John_L._Jerz "John L. Jerz")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [An interesting book with some insights on Bob's Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?t=39455) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), June 23, 2011 » [Cray Blitz](Cray_Blitz "Cray Blitz")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Transposition tables in Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?t=61543) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), September 26, 2016 » [Transposition Table](Transposition_Table "Transposition Table"), [Cray Blitz](Cray_Blitz "Cray Blitz")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1985**). *D.E. Welsh and B. Baczynskyj: Computer Chess II*. [ICCA Journal, Vol. 8, No. 3](ICGA_Journal#8_3 "ICGA Journal") (review)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: An interesting book with some insights on Bob's Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=411349&t=39455) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), June 25, 2011
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer chess books](https://groups.google.com/g/rec.games.chess.computer/c/kecoM_YlyAM/m/NiCnP8wRgnQJ) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 05, 1997
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer Chess by David E. Welsh](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id125.html) by [John L. Jerz](John_L._Jerz "John L. Jerz")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [An interesting book with some insights on Bob's Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?t=39455) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), June 23, 2011 » [Cray Blitz](Cray_Blitz "Cray Blitz")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Transposition tables in Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?t=61543) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), September 26, 2016 » [Transposition Table](Transposition_Table "Transposition Table"), [Cray Blitz](Cray_Blitz "Cray Blitz")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1985**). *D.E. Welsh and B. Baczynskyj: Computer Chess II*. [ICCA Journal, Vol. 8, No. 3](ICGA_Journal#8_3 "ICGA Journal") (review)
 
 **[Up one level](People "People")**
 

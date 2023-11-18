@@ -36,11 +36,11 @@ Gianluca further hosts a chess [tactics](Tactics "Tactics") training site <a id=
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Gianluca Cisana at the [4th Chess Computer Cup 2009](CCC_2009 "CCC 2009"), [Chess Computer Cup 4 - Photo Gallerie 2](http://www.scaccomasco.com/foto/2009/CCC4_8-nov/album/index.html) (dead link, March 06, 2020)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gianluca Cisana](https://cisana.com/en/home/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [BremboCE | Download the winboard chess engine version](https://web.archive.org/web/20180821045818/http://bremboce.cisana.com/download_en.php) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [idea chess - Chess tactics and strategy training](http://de.ideachess.com/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess tactics puzzles | IdeaTactics - Apps on Google Play](https://play.google.com/store/apps/details?id=com.cisana.ideatactics)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Gianluca Cisana at the [4th Chess Computer Cup 2009](CCC_2009 "CCC 2009"), [Chess Computer Cup 4 - Photo Gallerie 2](http://www.scaccomasco.com/foto/2009/CCC4_8-nov/album/index.html) (dead link, March 06, 2020)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gianluca Cisana](https://cisana.com/en/home/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [BremboCE | Download the winboard chess engine version](https://web.archive.org/web/20180821045818/http://bremboce.cisana.com/download_en.php) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [idea chess - Chess tactics and strategy training](http://de.ideachess.com/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess tactics puzzles | IdeaTactics - Apps on Google Play](https://play.google.com/store/apps/details?id=com.cisana.ideatactics)
 
 **[Up one level](People "People")**
 

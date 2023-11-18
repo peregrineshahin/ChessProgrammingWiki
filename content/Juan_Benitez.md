@@ -14,8 +14,8 @@ Juan is author of the chess engines [Betsabe](Betsabe "Betsabe") and its success
 
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mac Chess Engines Repository](http://julien.marcel.free.fr/macchess/Chess_on_Mac/Engines.html) hosted by [Julien Marcel](Julien_Marcel "Julien Marcel"), betsabe-II-130-ja/readme.txt
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mac Chess Engines Repository](http://julien.marcel.free.fr/macchess/Chess_on_Mac/Engines.html) hosted by [Julien Marcel](Julien_Marcel "Julien Marcel"), betsabe-II-130-ja/readme.txt
 
 **[Up one level](People "People")**
 

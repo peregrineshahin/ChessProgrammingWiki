@@ -126,12 +126,12 @@ an Italian software developer and proponent of [open source](https://en.wikipedi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SourceForge.net: Marco Costalba - Developer Web Hosting - Open Source Software](http://mcostalba.users.sourceforge.net/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [QGit a git GUI viewer built on Qt/C++](http://digilander.libero.it/mcostalba/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Git - Fast Version Control System](http://git-scm.com/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Stockfish 1.0](http://www.talkchess.com/forum/viewtopic.php?t=24675) by Marco Costalba, [CCC](CCC "CCC"), November 02, 2008
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Stockfish - Glaurung](http://wbec-ridderkerk.forumotion.com/wbec-ridderkerk-news-info-f1/stockfish-glaurung-t402.htm) from [WBEC-Ridderkerk forum](WBEC "WBEC"), September, 2009
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [add (smart) logging facility · eb28a68 · mcostalba/Stockfish · GitHub](https://github.com/mcostalba/Stockfish/commit/eb28a683bd5a15be4a59c1e14b45b2c80cf7bf2c)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SourceForge.net: Marco Costalba - Developer Web Hosting - Open Source Software](http://mcostalba.users.sourceforge.net/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [QGit a git GUI viewer built on Qt/C++](http://digilander.libero.it/mcostalba/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Git - Fast Version Control System](http://git-scm.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Stockfish 1.0](http://www.talkchess.com/forum/viewtopic.php?t=24675) by Marco Costalba, [CCC](CCC "CCC"), November 02, 2008
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Stockfish - Glaurung](http://wbec-ridderkerk.forumotion.com/wbec-ridderkerk-news-info-f1/stockfish-glaurung-t402.htm) from [WBEC-Ridderkerk forum](WBEC "WBEC"), September, 2009
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [add (smart) logging facility · eb28a68 · mcostalba/Stockfish · GitHub](https://github.com/mcostalba/Stockfish/commit/eb28a683bd5a15be4a59c1e14b45b2c80cf7bf2c)
 
 **[Up one level](People "People")**
 

@@ -103,13 +103,13 @@ an American computer scientist and [cloud](https://en.wikipedia.org/wiki/Cloud_c
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stuart Cracraft | LinkedIn](https://www.linkedin.com/in/stuartcracraft/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stuart Cracraft | LinkedIn](http://www.linkedin.com/in/stuartcracraft)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: request ...](http://groups.google.com/group/gnu.chess/browse_frm/thread/2828508553c00020) by Stuart Cracraft, [gnu.chess](GNU_Chess#NewsGroup "GNU Chess"), June 16, 1995
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: The KISS Chess Program Project - Overview - ABSEARCH.TXT (0/1)](https://groups.google.com/d/msg/rec.games.chess.computer/Co_7iTrx7rM/5znIOUfvGy4J) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 12, 1997
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Stuart Cracraft (**1984**). *Bitmap move generation in Chess*. [ICCA Journal, Vol. 7, No. 3](ICGA_Journal#7_3 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Stuart Cracraft](https://dblp.uni-trier.de/pers/hd/c/Cracraft:Stuart)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stuart Cracraft | LinkedIn](https://www.linkedin.com/in/stuartcracraft/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stuart Cracraft | LinkedIn](http://www.linkedin.com/in/stuartcracraft)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: request ...](http://groups.google.com/group/gnu.chess/browse_frm/thread/2828508553c00020) by Stuart Cracraft, [gnu.chess](GNU_Chess#NewsGroup "GNU Chess"), June 16, 1995
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: The KISS Chess Program Project - Overview - ABSEARCH.TXT (0/1)](https://groups.google.com/d/msg/rec.games.chess.computer/Co_7iTrx7rM/5znIOUfvGy4J) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 12, 1997
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Stuart Cracraft (**1984**). *Bitmap move generation in Chess*. [ICCA Journal, Vol. 7, No. 3](ICGA_Journal#7_3 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Stuart Cracraft](https://dblp.uni-trier.de/pers/hd/c/Cracraft:Stuart)
 
 **[Up one level](People "People")**
 

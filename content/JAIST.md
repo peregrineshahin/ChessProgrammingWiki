@@ -30,7 +30,7 @@ title: JAIST
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Japan Advanced Institute of Science and Technology from Wikipedia](https://en.wikipedia.org/wiki/Japan_Advanced_Institute_of_Science_and_Technology)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Japan Advanced Institute of Science and Technology from Wikipedia](https://en.wikipedia.org/wiki/Japan_Advanced_Institute_of_Science_and_Technology)
 
 **[Up one Level](Organizations "Organizations")**
 

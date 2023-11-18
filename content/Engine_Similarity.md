@@ -99,16 +99,16 @@ Overall similarity of multiple engines may be visualized as [hierarchical cluste
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>
    A [phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree) of [living things](https://en.wikipedia.org/wiki/Life), based on [RNA](https://en.wikipedia.org/wiki/RNA) data and proposed by [Carl Woese](https://en.wikipedia.org/wiki/Carl_Woese),
    showing the separation of [bacteria](https://en.wikipedia.org/wiki/Bacteria), [archaea](https://en.wikipedia.org/wiki/Archaea), and [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote).
    Trees constructed with other genes are generally similar, although they may place some early-branching groups very differently, thanks to [long branch attraction](https://en.wikipedia.org/wiki/Long_branch_attraction). The exact relationships of the three domains are still being debated, as is the position of the root of the tree. It has also been suggested that due to [lateral gene transfer](https://en.wikipedia.org/wiki/Horizontal_gene_transfer), a tree may not be the best representation of the genetic relationships of all organisms. For instance some genetic evidence suggests that eukaryotes evolved from the union of some bacteria and archaea (one becoming an [organelle](https://en.wikipedia.org/wiki/Organelle) and the other the main [cell](<https://en.wikipedia.org/wiki/Cell_(biology)>)).
    Autor: Eric Gaba, September 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> i.e. > 65% in SIM03
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Komodo Chess Engine - Official Site](https://komodochess.com/downloads.htm) with Similary tester version 03 download
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SIMEX 2.1](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71709) provided by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), September 01, 2019
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [How to measure overall similarity](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70390) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), April 02, 2019
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Pairwise Analysis of Chess Engine Move Selections](http://www.talkchess.com/forum/viewtopic.php?t=38772) by [Adam Hair](Adam_Hair "Adam Hair"), [CCC](CCC "CCC"), April 17, 2011
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> i.e. > 65% in SIM03
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Komodo Chess Engine - Official Site](https://komodochess.com/downloads.htm) with Similary tester version 03 download
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SIMEX 2.1](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71709) provided by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), September 01, 2019
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [How to measure overall similarity](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70390) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), April 02, 2019
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pairwise Analysis of Chess Engine Move Selections](http://www.talkchess.com/forum/viewtopic.php?t=38772) by [Adam Hair](Adam_Hair "Adam Hair"), [CCC](CCC "CCC"), April 17, 2011
 
 **[Up one Level](Engines "Engines")**
 

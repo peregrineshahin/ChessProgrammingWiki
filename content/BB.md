@@ -59,8 +59,8 @@ Kc7 57.Rc1 Kc6 58.h5 gxh5 59.Rh1 Nd5 60.Ra1 Re2+ 61.Kf5 Kb5 0-1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Statue](http://commons.wikimedia.org/wiki/File:Statue_of_Brigitte_Bardot_in_Rio_de_Janeiro.jpg) of [Brigitte Bardot](https://en.wikipedia.org/wiki/Brigitte_Bardot) in Praia de Búzios, [Rio de Janeiro](https://en.wikipedia.org/wiki/Rio_de_Janeiro), [Brazil](https://en.wikipedia.org/wiki/Brazil), by [Chistina Motta](http://www.christinamotta.com/), 1999, [Brigitte Bardot from Wikipedia.af](http://af.wikipedia.org/wiki/Brigitte_Bardot) ([Afrikaans](https://en.wikipedia.org/wiki/Afrikaans)), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lyon 1990 - Chess - Round 5 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=60&round=5&id=6)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Statue](http://commons.wikimedia.org/wiki/File:Statue_of_Brigitte_Bardot_in_Rio_de_Janeiro.jpg) of [Brigitte Bardot](https://en.wikipedia.org/wiki/Brigitte_Bardot) in Praia de Búzios, [Rio de Janeiro](https://en.wikipedia.org/wiki/Rio_de_Janeiro), [Brazil](https://en.wikipedia.org/wiki/Brazil), by [Chistina Motta](http://www.christinamotta.com/), 1999, [Brigitte Bardot from Wikipedia.af](http://af.wikipedia.org/wiki/Brigitte_Bardot) ([Afrikaans](https://en.wikipedia.org/wiki/Afrikaans)), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lyon 1990 - Chess - Round 5 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=60&round=5&id=6)
 
 **[Up one level](Engines "Engines")**
 

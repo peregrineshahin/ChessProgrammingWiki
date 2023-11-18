@@ -38,15 +38,15 @@ an American computer scientist, Professor and Chief Academic Officer at [Toyota 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David McAllester's Personal WWW Page](https://ttic.uchicago.edu/~dmcallester/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> David McAllester, [Deniz Yuret](Deniz_Yuret "Deniz Yuret") (**2002**). *Alpha-Beta Conspiracy Search*. [ICGA Journal, Vol. 25, No. 1](ICGA_Journal#25_1 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Murray Campbell](Murray_Campbell "Murray Campbell"), [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**1999**). *Search Control Methods in Deep Blue*. [AAAI](AAAI "AAAI") Technical Report SS-99-07, [pdf](https://pdfs.semanticscholar.org/211d/7268093b4dfce8201e8da321201c6cd349ef.pdf), [pdf](https://web.archive.org/web/20160914070926/http://aaaipress.org/Papers/Symposia/Spring/1999/SS-99-07/SS99-07-004.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [DBLP: David A. McAllester](http://dblp.uni-trier.de/pers/hd/m/McAllester:David_A=)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [WalkSAT from WIkipedia](https://en.wikipedia.org/wiki/WalkSAT)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Good–Turing frequency estimation from Wikipedia](https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Jack Good](Jack_Good "Jack Good") (**1953**). *[The population frequencies of species and the estimation of population parameters](http://biomet.oxfordjournals.org/content/40/3-4/237)*. [Biometrika](https://en.wikipedia.org/wiki/Biometrika), Vol. 40, Nos. 3-4
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Jack Good](Jack_Good "Jack Good") (**2000**). *[Turing’s anticipation of emprical Bayes in connection with the cryptanalysis of the naval enigma](http://www.tandfonline.com/doi/abs/10.1080/00949650008812016)*. [Journal of Statistical Computation and Simulation](https://en.wikipedia.org/wiki/Journal_of_Statistical_Computation_and_Simulation), Vol. 66, No. 2
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David McAllester's Personal WWW Page](https://ttic.uchicago.edu/~dmcallester/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> David McAllester, [Deniz Yuret](Deniz_Yuret "Deniz Yuret") (**2002**). *Alpha-Beta Conspiracy Search*. [ICGA Journal, Vol. 25, No. 1](ICGA_Journal#25_1 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Murray Campbell](Murray_Campbell "Murray Campbell"), [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**1999**). *Search Control Methods in Deep Blue*. [AAAI](AAAI "AAAI") Technical Report SS-99-07, [pdf](https://pdfs.semanticscholar.org/211d/7268093b4dfce8201e8da321201c6cd349ef.pdf), [pdf](https://web.archive.org/web/20160914070926/http://aaaipress.org/Papers/Symposia/Spring/1999/SS-99-07/SS99-07-004.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [DBLP: David A. McAllester](http://dblp.uni-trier.de/pers/hd/m/McAllester:David_A=)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [WalkSAT from WIkipedia](https://en.wikipedia.org/wiki/WalkSAT)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Good–Turing frequency estimation from Wikipedia](https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Jack Good](Jack_Good "Jack Good") (**1953**). *[The population frequencies of species and the estimation of population parameters](http://biomet.oxfordjournals.org/content/40/3-4/237)*. [Biometrika](https://en.wikipedia.org/wiki/Biometrika), Vol. 40, Nos. 3-4
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Jack Good](Jack_Good "Jack Good") (**2000**). *[Turing’s anticipation of emprical Bayes in connection with the cryptanalysis of the naval enigma](http://www.tandfonline.com/doi/abs/10.1080/00949650008812016)*. [Journal of Statistical Computation and Simulation](https://en.wikipedia.org/wiki/Journal_of_Statistical_Computation_and_Simulation), Vol. 66, No. 2
 
 **[Up one level](People "People")**
 

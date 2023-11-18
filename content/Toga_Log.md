@@ -28,8 +28,8 @@ useful as a natural language description of reasonably strong evaluation functio
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Rodent 1.1 released](http://www.talkchess.com/forum/viewtopic.php?t=49517&start=6) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), October 03, 2013
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rodent II 0.9.64 released](http://www.talkchess.com/forum/viewtopic.php?t=61496) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), September 22, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Rodent 1.1 released](http://www.talkchess.com/forum/viewtopic.php?t=49517&start=6) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), October 03, 2013
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rodent II 0.9.64 released](http://www.talkchess.com/forum/viewtopic.php?t=61496) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), September 22, 2016
 
 **[Up one level](Toga "Toga")**
 

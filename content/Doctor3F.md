@@ -42,12 +42,12 @@ The engine uses [fractional plies](Depth#FractionalPlies "Depth") with a [depth]
 
 ## Refererences
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who) [logo used from 1963 to 1967](https://commons.wikimedia.org/wiki/File:Doctor_Who_logo_1963-1967.png), [Cultural icon from Wikipedia](https://simple.wikipedia.org/wiki/Cultural_icon)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fritz 5.32 - mehr als nur ein Update!](http://scleinzell.schachvereine.de/p_spielprogramme/fritz532.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German), [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Doctor? 2.0 / Engine MacIntosh](http://www.schachversand.de/d/detail/software/76.html) from [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Doctor module for Fritz/Chessbase?](https://groups.google.com/d/msg/rec.games.chess.computer/wicY4-UeoxM/56IttHZVta4J) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 08, 1997
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Doctor? by Dr. Hans-Joachim Kraas and Dr. Gunther Schrüfer](http://www.ajedrez-de-estilo.com.ar/int/Products/engines/doctor/index.htm) (as of June 2018, dead link)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer") (**1988**). *[Minimax-Suchen : Kosten, Qualität und Algorithmen](http://www.worldcat.org/oclc/246856479&referer=brief_results)*. [Technical University of Braunschweig](https://en.wikipedia.org/wiki/Technical_University_of_Braunschweig) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who) [logo used from 1963 to 1967](https://commons.wikimedia.org/wiki/File:Doctor_Who_logo_1963-1967.png), [Cultural icon from Wikipedia](https://simple.wikipedia.org/wiki/Cultural_icon)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fritz 5.32 - mehr als nur ein Update!](http://scleinzell.schachvereine.de/p_spielprogramme/fritz532.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German), [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Doctor? 2.0 / Engine MacIntosh](http://www.schachversand.de/d/detail/software/76.html) from [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Doctor module for Fritz/Chessbase?](https://groups.google.com/d/msg/rec.games.chess.computer/wicY4-UeoxM/56IttHZVta4J) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 08, 1997
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Doctor? by Dr. Hans-Joachim Kraas and Dr. Gunther Schrüfer](http://www.ajedrez-de-estilo.com.ar/int/Products/engines/doctor/index.htm) (as of June 2018, dead link)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer") (**1988**). *[Minimax-Suchen : Kosten, Qualität und Algorithmen](http://www.worldcat.org/oclc/246856479&referer=brief_results)*. [Technical University of Braunschweig](https://en.wikipedia.org/wiki/Technical_University_of_Braunschweig) (German)
 
 **[Up one Level](Engines "Engines")**
 

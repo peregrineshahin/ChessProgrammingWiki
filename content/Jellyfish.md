@@ -46,8 +46,8 @@ Jellyfish played the [TCEC Season 9](TCEC_Season_9 "TCEC Season 9").
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image](https://commons.wikimedia.org/wiki/File:Radiate_Oral-aboral_Axes.JPG) showing major axes of radiate animals, by [Nordelch](https://commons.wikimedia.org/wiki/User:Nordelch), April 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Jellyfish from Wikipedia](https://en.wikipedia.org/wiki/Jellyfish)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jellyfish Chess](https://sites.google.com/site/jellyfishchess/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](https://commons.wikimedia.org/wiki/File:Radiate_Oral-aboral_Axes.JPG) showing major axes of radiate animals, by [Nordelch](https://commons.wikimedia.org/wiki/User:Nordelch), April 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Jellyfish from Wikipedia](https://en.wikipedia.org/wiki/Jellyfish)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jellyfish Chess](https://sites.google.com/site/jellyfishchess/)
 
 **[Up one Level](Engines "Engines")**
 

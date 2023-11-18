@@ -38,8 +38,8 @@ Apart from being a regular chess engine, it also includes a "[puppet master](Pup
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [DeepBrutePOS - An experimental chess program](https://vanheusden.com/DeepBrutePos/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: CSVN Programmers' Tournaments May 2014](http://www.talkchess.com/forum/viewtopic.php?t=51761&start=41) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), May 20, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [DeepBrutePOS - An experimental chess program](https://vanheusden.com/DeepBrutePos/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: CSVN Programmers' Tournaments May 2014](http://www.talkchess.com/forum/viewtopic.php?t=51761&start=41) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), May 20, 2014
 
 **[Up one Level](Engines "Engines")**
 

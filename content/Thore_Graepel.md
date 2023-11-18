@@ -49,13 +49,13 @@ a German physicist and computer scientist, professor of [machine learning](Learn
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Thore Graepel](https://thoregraepel.github.io/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dr Thore Graepel — The Psychometrics Centre](https://www.psychometrics.cam.ac.uk/about-us/directory/thore-graepel)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Keynote talk - Learning to Play: Machine Learning and Computer Games](http://www.aimsaconference.org/aimsa2010/invited.php), [AIMSA 2010](http://www.aimsaconference.org/aimsa2010/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Google’s AlphaGo Trounces Humans—But It Also Gives Them a Boost](https://www.wired.com/2017/05/googles-alphago-trounces-humans-also-gives-boost/) by [Cade Metz](https://www.wired.com/author/cade-metz/), [Wired](https://en.wikipedia.org/wiki/Wired_(magazine)), May 26, 2017
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Thore Graepel](http://dblp.uni-trier.de/pers/hd/g/Graepel:Thore)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/) by [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser") and [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), December 03, 2018
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?fbclid=IwAR3mSwrn1YXDKr9uuGm2GlFKh76wBilex7f8QvBiQecwiVmAvD6Bkyjx-rE)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Thore Graepel](https://thoregraepel.github.io/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dr Thore Graepel — The Psychometrics Centre](https://www.psychometrics.cam.ac.uk/about-us/directory/thore-graepel)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Keynote talk - Learning to Play: Machine Learning and Computer Games](http://www.aimsaconference.org/aimsa2010/invited.php), [AIMSA 2010](http://www.aimsaconference.org/aimsa2010/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Google’s AlphaGo Trounces Humans—But It Also Gives Them a Boost](https://www.wired.com/2017/05/googles-alphago-trounces-humans-also-gives-boost/) by [Cade Metz](https://www.wired.com/author/cade-metz/), [Wired](https://en.wikipedia.org/wiki/Wired_(magazine)), May 26, 2017
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Thore Graepel](http://dblp.uni-trier.de/pers/hd/g/Graepel:Thore)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/) by [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser") and [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), December 03, 2018
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?fbclid=IwAR3mSwrn1YXDKr9uuGm2GlFKh76wBilex7f8QvBiQecwiVmAvD6Bkyjx-rE)
 
 **[Up one level](People "People")**
 

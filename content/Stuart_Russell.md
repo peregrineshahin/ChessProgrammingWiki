@@ -89,12 +89,12 @@ He is a Fellow and former Executive Council member of the [AAAI](AAAI "AAAI") an
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stuart J. Russell from Wikipedia](https://en.wikipedia.org/wiki/Stuart_J._Russell)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stuart Russell - Biography](http://www.cs.berkeley.edu/%7Erussell/biography.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Stuart Russell, [Eric Wefald](Eric_Wefald "Eric Wefald") (**1989**). *On optimal game-tree search using rational metareasoning.* [IJCAI-89](Conferences#IJCAI1989 "Conferences")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Stuart Russell - Publications](https://people.eecs.berkeley.edu/~russell/publications.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Stuart J. Russell](https://dblp.uni-trier.de/pers/hd/r/Russell:Stuart_J=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stuart J. Russell from Wikipedia](https://en.wikipedia.org/wiki/Stuart_J._Russell)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stuart Russell - Biography](http://www.cs.berkeley.edu/%7Erussell/biography.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Stuart Russell, [Eric Wefald](Eric_Wefald "Eric Wefald") (**1989**). *On optimal game-tree search using rational metareasoning.* [IJCAI-89](Conferences#IJCAI1989 "Conferences")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Stuart Russell - Publications](https://people.eecs.berkeley.edu/~russell/publications.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Stuart J. Russell](https://dblp.uni-trier.de/pers/hd/r/Russell:Stuart_J=)
 
 **[Up one level](People "People")**
 

@@ -51,11 +51,11 @@ a Portuguese [checkers](Checkers "Checkers") programmer, and author of the Portu
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jogo de Damas Clássicas - Checkers & Draughts Wiki](https://checkers.fandom.com/wiki/Jogo_de_Damas_Cl%C3%A1ssicas)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Board Representation. Any strong chess engine uses this method?](https://www.stmintz.com/ccc/index.php?id=492099) by Alvaro Jose Povoa Cardoso, [CCC](CCC "CCC"), March 08, 2006
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [João Guerra](index.php?title=Jo%C3%A3o_Guerra&action=edit&redlink=1 "João Guerra (page does not exist)") (**2011**). *Classical Checkers*. Masters thesis, [Technical University of Lisbon](https://en.wikipedia.org/wiki/Technical_University_of_Lisbon), [pdf](https://dspace.ist.utl.pt/bitstream/2295/1051359/1/dissertacao.pdf), pp. 5
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Programas de Damas Clásicas](http://damasclasicas.blogspot.com/) ([Galician](https://en.wikipedia.org/wiki/Galician_language))
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ren Wu](Ren_Wu "Ren Wu"), [Don Beal](Don_Beal "Don Beal") (**2001**). *[Fast, Memory-efficient Retrograde Algorithms](http://ilk.uvt.nl/icga/journal/contents/content24-3.htm#FAST)*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jogo de Damas Clássicas - Checkers & Draughts Wiki](https://checkers.fandom.com/wiki/Jogo_de_Damas_Cl%C3%A1ssicas)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Board Representation. Any strong chess engine uses this method?](https://www.stmintz.com/ccc/index.php?id=492099) by Alvaro Jose Povoa Cardoso, [CCC](CCC "CCC"), March 08, 2006
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [João Guerra](index.php?title=Jo%C3%A3o_Guerra&action=edit&redlink=1 "João Guerra (page does not exist)") (**2011**). *Classical Checkers*. Masters thesis, [Technical University of Lisbon](https://en.wikipedia.org/wiki/Technical_University_of_Lisbon), [pdf](https://dspace.ist.utl.pt/bitstream/2295/1051359/1/dissertacao.pdf), pp. 5
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Programas de Damas Clásicas](http://damasclasicas.blogspot.com/) ([Galician](https://en.wikipedia.org/wiki/Galician_language))
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ren Wu](Ren_Wu "Ren Wu"), [Don Beal](Don_Beal "Don Beal") (**2001**). *[Fast, Memory-efficient Retrograde Algorithms](http://ilk.uvt.nl/icga/journal/contents/content24-3.htm#FAST)*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
 
 **[Up one level](People "People")**
 

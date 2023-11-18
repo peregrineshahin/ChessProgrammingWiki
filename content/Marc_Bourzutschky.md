@@ -35,13 +35,13 @@ an American physicist and researcher in the field of [Retrograde Analysis](Retro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Endgame databases](http://www.vlasak.biz/tablebase.htm) by [Emil Vlasák](index.php?title=Emil_Vlas%C3%A1k&action=edit&redlink=1 "Emil Vlasák (page does not exist)")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Current status of 7-men tablebases?](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=2176) by ZeroOne, [CCRL Discussion Board Endgame Tablebases](Computer_Chess_Forums "Computer Chess Forums"), May 07, 2007
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Subject: KRRNKRR win in 290: a new record](https://www.stmintz.com/ccc/index.php?id=456178) by Marc Bourzutschky, [CCC](CCC "CCC"), October 16, 2005
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess endgame from Wikipedia](https://en.wikipedia.org/wiki/Chess_endgame)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Open Chess Diary 311. 31 March 2006: White plays and wins in 330 moves](http://www.xs4all.nl/~timkr/chess2/diary_16.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Open Chess Diary 316. 26 May 2006: A 517-move win](http://www.xs4all.nl/~timkr/chess2/diary_16.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Bernard W. Kobes](http://www.public.asu.edu/~kobes/) (**2008**). *The Apriori in Chess*. [pdf](http://www.public.asu.edu/~kobes/apriori-chess.pdf) (draft)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Endgame databases](http://www.vlasak.biz/tablebase.htm) by [Emil Vlasák](index.php?title=Emil_Vlas%C3%A1k&action=edit&redlink=1 "Emil Vlasák (page does not exist)")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Current status of 7-men tablebases?](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=2176) by ZeroOne, [CCRL Discussion Board Endgame Tablebases](Computer_Chess_Forums "Computer Chess Forums"), May 07, 2007
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Subject: KRRNKRR win in 290: a new record](https://www.stmintz.com/ccc/index.php?id=456178) by Marc Bourzutschky, [CCC](CCC "CCC"), October 16, 2005
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess endgame from Wikipedia](https://en.wikipedia.org/wiki/Chess_endgame)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Open Chess Diary 311. 31 March 2006: White plays and wins in 330 moves](http://www.xs4all.nl/~timkr/chess2/diary_16.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Open Chess Diary 316. 26 May 2006: A 517-move win](http://www.xs4all.nl/~timkr/chess2/diary_16.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Bernard W. Kobes](http://www.public.asu.edu/~kobes/) (**2008**). *The Apriori in Chess*. [pdf](http://www.public.asu.edu/~kobes/apriori-chess.pdf) (draft)
 
 **[Up one level](People "People")**
 

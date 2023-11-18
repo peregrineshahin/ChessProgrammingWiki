@@ -84,9 +84,9 @@ In C++, template paramater are either types or integer constants for the wider r
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [STLport: An Interview with A. Stepanov](http://www.stlport.org/resources/StepanovUSA.html) by [Graziano Lo Russo](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Russo:Graziano_Lo.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SO/IEC JTC1/SC22/WG21 - The C++ Standards Committee](http://www.open-std.org/jtc1/sc22/wg21/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Collected Papers of Alexander A. Stepanov](http://www.stepanovpapers.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [STLport: An Interview with A. Stepanov](http://www.stlport.org/resources/StepanovUSA.html) by [Graziano Lo Russo](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Russo:Graziano_Lo.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SO/IEC JTC1/SC22/WG21 - The C++ Standards Committee](http://www.open-std.org/jtc1/sc22/wg21/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Collected Papers of Alexander A. Stepanov](http://www.stepanovpapers.com/)
 
 **[Up one Level](Programming "Programming")**
 

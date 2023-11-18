@@ -34,9 +34,9 @@ a German computer chess expert and chess programmer. Along with [Frank Schneider
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Kai Skibbe and [Frank Schneider](Frank_Schneider "Frank Schneider") with [GromitChess](Gromit "Gromit") playing for the Amateur title, [WMCCC 2001](WMCCC_2001 "WMCCC 2001"), [PocketGrandmaster About](http://www.pocketgrandmaster.com/english/about.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Anaconda Chess Home Page](http://hobblefrank.homepage.t-online.de/AnacondaChess/index.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Welcome to PocketGrandmaster](http://www.pocketgrandmaster.com/english/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Kai Skibbe and [Frank Schneider](Frank_Schneider "Frank Schneider") with [GromitChess](Gromit "Gromit") playing for the Amateur title, [WMCCC 2001](WMCCC_2001 "WMCCC 2001"), [PocketGrandmaster About](http://www.pocketgrandmaster.com/english/about.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Anaconda Chess Home Page](http://hobblefrank.homepage.t-online.de/AnacondaChess/index.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Welcome to PocketGrandmaster](http://www.pocketgrandmaster.com/english/index.html)
 
 **[Up one level](People "People")**
 

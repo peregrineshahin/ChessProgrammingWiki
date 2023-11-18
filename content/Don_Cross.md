@@ -29,10 +29,10 @@ He is author of the [open source chess program](Category:Open_Source "Category:O
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [cosinekitty (Don Cross) · GitHub](https://github.com/cosinekitty)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Arduino Playground - CosineKitty](http://playground.arduino.cc/Profiles/CosineKitty)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - cosinekitty/flywheel: A chess engine for the web browser](https://github.com/cosinekitty/flywheel)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Don Cross - personal website - math, science, software, electronics](http://cosinekitty.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [cosinekitty (Don Cross) · GitHub](https://github.com/cosinekitty)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Arduino Playground - CosineKitty](http://playground.arduino.cc/Profiles/CosineKitty)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - cosinekitty/flywheel: A chess engine for the web browser](https://github.com/cosinekitty/flywheel)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Don Cross - personal website - math, science, software, electronics](http://cosinekitty.com/)
 
 **[Up one level](People "People")**
 

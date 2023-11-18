@@ -30,10 +30,10 @@ and **Shark**, in 2008 mentioned on the now defunct Hydra site, and from May 200
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [PAL Group of Companies - PAL IT Department | PAL Group](https://web.archive.org/web/20140105205809/http://www.palgroup.com/palgroup4/index.php/component/content/article/354.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), January 05, 2014)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cryptic- a powerful neglected engine](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=22702) by Magnus Friedmann, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), August 19, 2011
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hydra (chess): 13:34, 30 May 2008 by 80.227.14.13](https://en.wikipedia.org/w/index.php?title=Hydra_%28chess%29&oldid=215962237)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hydra (chess): 13:57, 16 December 2009‎ by 217.165.22.102](https://en.wikipedia.org/w/index.php?title=Hydra_%28chess%29&oldid=332038940)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [PAL Group of Companies - PAL IT Department | PAL Group](https://web.archive.org/web/20140105205809/http://www.palgroup.com/palgroup4/index.php/component/content/article/354.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), January 05, 2014)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cryptic- a powerful neglected engine](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=22702) by Magnus Friedmann, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), August 19, 2011
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hydra (chess): 13:34, 30 May 2008 by 80.227.14.13](https://en.wikipedia.org/w/index.php?title=Hydra_%28chess%29&oldid=215962237)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hydra (chess): 13:57, 16 December 2009‎ by 217.165.22.102](https://en.wikipedia.org/w/index.php?title=Hydra_%28chess%29&oldid=332038940)
 
 **[Up one level](People "People")**
 

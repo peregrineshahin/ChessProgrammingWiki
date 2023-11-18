@@ -68,13 +68,13 @@ a Swiss mathematician and computer scientist. Jürg Nievergelt has been full Pro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jürg Nievergelt Homepage](http://www.jn.inf.ethz.ch/index.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Prof. Jürg Nievergelt - Research](http://www.jn.inf.ethz.ch/research.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Beats Biblionetz - Personen: Jürg Nievergelt](http://beat.doebe.li/bibliothek/p01118.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Jürg Nievergelt](https://dblp.uni-trier.de/pers/hd/n/Nievergelt:J=uuml=rg)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Rules for Tigers and Goats](http://www.mastersgames.com/rules/tigers-goats-rules.htm)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Bagh-Chal from Wikipedia](https://en.wikipedia.org/wiki/Bagh-Chal)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jürg Nievergelt Homepage](http://www.jn.inf.ethz.ch/index.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Prof. Jürg Nievergelt - Research](http://www.jn.inf.ethz.ch/research.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Beats Biblionetz - Personen: Jürg Nievergelt](http://beat.doebe.li/bibliothek/p01118.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Jürg Nievergelt](https://dblp.uni-trier.de/pers/hd/n/Nievergelt:J=uuml=rg)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Rules for Tigers and Goats](http://www.mastersgames.com/rules/tigers-goats-rules.htm)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Bagh-Chal from Wikipedia](https://en.wikipedia.org/wiki/Bagh-Chal)
 
 **[Up one level](People "People")**
 

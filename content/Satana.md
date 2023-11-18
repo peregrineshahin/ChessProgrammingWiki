@@ -66,13 +66,13 @@ Satana further played the [IGT 2014](IGT_2014 "IGT 2014"), [IGT 2015](IGT_2015 "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Depiction of Satan, the antagonist of [John Milton's](https://en.wikipedia.org/wiki/John_Milton) [Paradise Lost](https://en.wikipedia.org/wiki/Paradise_Lost), drawn by [Gustave Doré](Category:Gustave_Dor%C3%A9 "Category:Gustave Doré") c. 1866, [Satan from Wikipedia](https://en.wikipedia.org/wiki/Satan), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Clericus International Chess Championship held in Rome | Chessdom](http://www.chessdom.com/clericus-international-chess-championship-held-in-rome/), October 11, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: man-machine challenge part II](http://www.talkchess.com/forum/viewtopic.php?t=45532&start=3) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), December 02, 2012
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Assembly move generation in Freccia](http://www.talkchess.com/forum/viewtopic.php?t=39873) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), July 26, 2011
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [New chess software announce: Satana](http://www.talkchess.com/forum/viewtopic.php?t=41070) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), November 13, 2011
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: New chess software announce: Satana](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=433956&t=41070) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), November 21, 2011
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Emerson, Lake & Palmer](https://en.wikipedia.org/wiki/Emerson,_Lake_%26_Palmer) - [Take A Pebble](https://en.wikipedia.org/wiki/Take_a_Pebble), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Depiction of Satan, the antagonist of [John Milton's](https://en.wikipedia.org/wiki/John_Milton) [Paradise Lost](https://en.wikipedia.org/wiki/Paradise_Lost), drawn by [Gustave Doré](Category:Gustave_Dor%C3%A9 "Category:Gustave Doré") c. 1866, [Satan from Wikipedia](https://en.wikipedia.org/wiki/Satan), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Clericus International Chess Championship held in Rome | Chessdom](http://www.chessdom.com/clericus-international-chess-championship-held-in-rome/), October 11, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: man-machine challenge part II](http://www.talkchess.com/forum/viewtopic.php?t=45532&start=3) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), December 02, 2012
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Assembly move generation in Freccia](http://www.talkchess.com/forum/viewtopic.php?t=39873) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), July 26, 2011
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [New chess software announce: Satana](http://www.talkchess.com/forum/viewtopic.php?t=41070) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), November 13, 2011
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: New chess software announce: Satana](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=433956&t=41070) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), November 21, 2011
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Emerson, Lake & Palmer](https://en.wikipedia.org/wiki/Emerson,_Lake_%26_Palmer) - [Take A Pebble](https://en.wikipedia.org/wiki/Take_a_Pebble), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
 
 **[Up one Level](Engines "Engines")**
 

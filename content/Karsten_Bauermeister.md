@@ -31,11 +31,11 @@ Karsten operated [HIARCS](HIARCS "HIARCS") at the [WMCCC 1995](WMCCC_1995 "WMCCC
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ein Türke in Paderborn](https://de.chessbase.com/post/ein-trke-in-paderborn) by [Mathias Feist](Mathias_Feist "Mathias Feist") and Karsten Bauermeister, [ChessBase Nachrichten](ChessBase "ChessBase"), April 06, 2004 (German), Image no longer available
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Chess Turk has been brought back to life](https://www.hnf.de/en/permanent-exhibition/exhibition-areas/the-mechanization-of-information-technology/early-automatons-miracles-of-technology/the-chess-turk-has-been-brought-back-to-life.html), [Heinz Nixdorf MuseumsForum](Heinz_Nixdorf_MuseumsForum "Heinz Nixdorf MuseumsForum"), March 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Rechtsanwälte Dr. Keller & Bauermeister](http://www.rechtsanwaltskanzlei-muenster.de/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Karsten Bauermeister - Bestandsliste Schachcomputer](http://www.schachcomputer.at/bauerm.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Schachcomputer Geschichte](http://www.schachcomputer.at/gesch1.htm) von Karsten Bauermeister (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ein Türke in Paderborn](https://de.chessbase.com/post/ein-trke-in-paderborn) by [Mathias Feist](Mathias_Feist "Mathias Feist") and Karsten Bauermeister, [ChessBase Nachrichten](ChessBase "ChessBase"), April 06, 2004 (German), Image no longer available
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Chess Turk has been brought back to life](https://www.hnf.de/en/permanent-exhibition/exhibition-areas/the-mechanization-of-information-technology/early-automatons-miracles-of-technology/the-chess-turk-has-been-brought-back-to-life.html), [Heinz Nixdorf MuseumsForum](Heinz_Nixdorf_MuseumsForum "Heinz Nixdorf MuseumsForum"), March 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rechtsanwälte Dr. Keller & Bauermeister](http://www.rechtsanwaltskanzlei-muenster.de/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Karsten Bauermeister - Bestandsliste Schachcomputer](http://www.schachcomputer.at/bauerm.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Schachcomputer Geschichte](http://www.schachcomputer.at/gesch1.htm) von Karsten Bauermeister (German)
 
 **[Up one level](People "People")**
 

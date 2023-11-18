@@ -63,15 +63,15 @@ Since coming to the US in 1967, Toshinori Munakata research has spanned many of 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image (cropped) from [Munakata's Home Page](http://cis.csuohio.edu/~munakata/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Munakata's Home Page - Professional Information](http://cis.csuohio.edu/~munakata/profess/profess.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Toshinori Munakata](https://dblp.uni-trier.de/pers/hd/m/Munakata:Toshinori)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Rough set from Wikipedia](https://en.wikipedia.org/wiki/Rough_set)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ID3 algorithm from Wikipedia](https://en.wikipedia.org/wiki/ID3_algorithm) » [Ross Quinlan](Ross_Quinlan "Ross Quinlan")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Mathematician | Zdzisław Pawlak](Mathematician#ZPawlak "Mathematician")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Physarum polycephalum from Wikipedia](https://en.wikipedia.org/wiki/Physarum_polycephalum)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Tug of war from Wikipedia](https://en.wikipedia.org/wiki/Tug_of_war)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Multi-armed bandit from Wikipedia](https://en.wikipedia.org/wiki/Multi-armed_bandit)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image (cropped) from [Munakata's Home Page](http://cis.csuohio.edu/~munakata/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Munakata's Home Page - Professional Information](http://cis.csuohio.edu/~munakata/profess/profess.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Toshinori Munakata](https://dblp.uni-trier.de/pers/hd/m/Munakata:Toshinori)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rough set from Wikipedia](https://en.wikipedia.org/wiki/Rough_set)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ID3 algorithm from Wikipedia](https://en.wikipedia.org/wiki/ID3_algorithm) » [Ross Quinlan](Ross_Quinlan "Ross Quinlan")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mathematician | Zdzisław Pawlak](Mathematician#ZPawlak "Mathematician")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Physarum polycephalum from Wikipedia](https://en.wikipedia.org/wiki/Physarum_polycephalum)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Tug of war from Wikipedia](https://en.wikipedia.org/wiki/Tug_of_war)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Multi-armed bandit from Wikipedia](https://en.wikipedia.org/wiki/Multi-armed_bandit)
 
 **[Up one level](People "People")**
 

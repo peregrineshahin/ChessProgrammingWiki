@@ -42,8 +42,8 @@ Mephisto Montreux was the last and lonesome dedicated computer competing a [Worl
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Montreux um 1900, Reproduction number: LC-DIG-ppmsc-07108 from [Library of Congress](https://en.wikipedia.org/wiki/Library_of_Congress), [Prints and Photographs Division](http://www.loc.gov/pictures/), [Photochrom Prints Collection](http://www.loc.gov/pictures/collection/pgz/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Montreux from Wikipedia](https://en.wikipedia.org/wiki/Montreux)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The King's ICGA Tournaments](http://www.grappa.univ-lille3.fr/icga/program.php?id=60)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Montreux um 1900, Reproduction number: LC-DIG-ppmsc-07108 from [Library of Congress](https://en.wikipedia.org/wiki/Library_of_Congress), [Prints and Photographs Division](http://www.loc.gov/pictures/), [Photochrom Prints Collection](http://www.loc.gov/pictures/collection/pgz/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Montreux from Wikipedia](https://en.wikipedia.org/wiki/Montreux)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The King's ICGA Tournaments](http://www.grappa.univ-lille3.fr/icga/program.php?id=60)
 
 **[Up one level](Engines "Engines")**
 

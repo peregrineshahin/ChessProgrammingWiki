@@ -127,10 +127,10 @@ He is author of the [WinBoard](WinBoard "WinBoard") compatible chess engine [Rom
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: It is finally time to announce](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=375777) by Michael Sherwin, [CCC](CCC "CCC"), November 09, 2010
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [RomiChess && learning or the emperor has no clothes](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4835) by Michael Sherwin, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 19, 2006
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Progress On Bricabrac](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77182) by Mike Sherwin, [CCC](CCC "CCC"), April 26, 2021
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Rust (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Rust_%28programming_language%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: It is finally time to announce](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=375777) by Michael Sherwin, [CCC](CCC "CCC"), November 09, 2010
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [RomiChess && learning or the emperor has no clothes](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4835) by Michael Sherwin, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 19, 2006
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Progress On Bricabrac](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77182) by Mike Sherwin, [CCC](CCC "CCC"), April 26, 2021
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rust (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Rust_%28programming_language%29)
 
 **[Up one level](People "People")**
 

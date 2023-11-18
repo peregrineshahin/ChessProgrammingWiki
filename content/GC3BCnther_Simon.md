@@ -45,9 +45,9 @@ Since 2001 Günther Simon hosts and maintains the [Regensburg WinBoard Circuit](
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Regensburger Turnerschaft Schachabteilung](https://schach.in/regensburger-turnerschaft/) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [RWBC XB/UCI chronology](http://rwbc-chess.de/chronology.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [RWBC Downloads](http://www.rwbc-chess.de/download.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Regensburger Turnerschaft Schachabteilung](https://schach.in/regensburger-turnerschaft/) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [RWBC XB/UCI chronology](http://rwbc-chess.de/chronology.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [RWBC Downloads](http://www.rwbc-chess.de/download.htm)
 
 **[Up one Level](People "People")**
 

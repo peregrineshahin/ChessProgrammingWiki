@@ -47,14 +47,14 @@ Also, when I was a student, I started to develop my own chess program which comp
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ard's homepage](http://vanbergen.me.uk/ard_index.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Novidec - Home](http://www.novidec.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NOVIDEC LTD - Officers (free information from Companies House)](https://beta.companieshouse.gov.uk/company/05033718/officers)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [History – Chester Chess Club 1919-20xx](http://chesterchess.co.uk/history/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Intelligent Strategy Games 10 (1993) DOS credits](https://www.mobygames.com/game/dos/intelligent-strategy-games-10/credits) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Ard's Chesspage](http://vanbergen.me.uk/chess.htm)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Publications by Ard van Bergen](http://vanbergen.me.uk/publications.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ard's homepage](http://vanbergen.me.uk/ard_index.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Novidec - Home](http://www.novidec.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NOVIDEC LTD - Officers (free information from Companies House)](https://beta.companieshouse.gov.uk/company/05033718/officers)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [History – Chester Chess Club 1919-20xx](http://chesterchess.co.uk/history/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Intelligent Strategy Games 10 (1993) DOS credits](https://www.mobygames.com/game/dos/intelligent-strategy-games-10/credits) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Ard's Chesspage](http://vanbergen.me.uk/chess.htm)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Publications by Ard van Bergen](http://vanbergen.me.uk/publications.htm)
 
 **[Up one level](People "People")**
 

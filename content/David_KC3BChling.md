@@ -30,10 +30,10 @@ He is involved in the implementation of [Gforth](https://en.wikipedia.org/wiki/G
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gforth - GNU Project - Free Software Foundation](https://www.gnu.org/software/gforth/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gforth](http://gforth.org/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [brainless - Browse Files at SourceForge.net](https://sourceforge.net/projects/forth-brainless/files/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ben NanoNote from Wikipedia](https://en.wikipedia.org/wiki/Ben_NanoNote)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gforth - GNU Project - Free Software Foundation](https://www.gnu.org/software/gforth/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gforth](http://gforth.org/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [brainless - Browse Files at SourceForge.net](https://sourceforge.net/projects/forth-brainless/files/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ben NanoNote from Wikipedia](https://en.wikipedia.org/wiki/Ben_NanoNote)
 
 **[Up one Level](People "People")**
 

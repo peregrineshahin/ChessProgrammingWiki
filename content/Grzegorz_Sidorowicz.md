@@ -17,8 +17,8 @@ a Polish chess programmer and author of the [WinBoard](WinBoard "WinBoard") comp
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [OPCCC 2007 - Contact Us](http://mpps.maciej.szmit.info/mpps-6/contact.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Armageddon](http://www.armageddon.szach.pl/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [OPCCC 2007 - Contact Us](http://mpps.maciej.szmit.info/mpps-6/contact.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Armageddon](http://www.armageddon.szach.pl/)
 
 **[Up one Level](People "People")**
 

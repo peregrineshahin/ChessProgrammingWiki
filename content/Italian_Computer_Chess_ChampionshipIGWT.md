@@ -133,7 +133,7 @@ organized by [G 6](G_6 "G 6")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CC-Calendar](http://wbec-ridderkerk.nl/html/CC-Calendar.htm) from [WBEC-Ridderkerk](WBEC "WBEC")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CC-Calendar](http://wbec-ridderkerk.nl/html/CC-Calendar.htm) from [WBEC-Ridderkerk](WBEC "WBEC")
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

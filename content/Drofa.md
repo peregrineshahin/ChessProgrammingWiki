@@ -93,10 +93,10 @@ due to [AdaGrad](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#AdaGr
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Great bustard](https://en.wikipedia.org/wiki/Great_bustard), [Image](https://www.flickr.com/photos/andrej_chudy/2416576086/) by [Andrej Chudý](https://www.flickr.com/people/76362620@N00), March 30, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Drofa 1.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74950) by [Alexander Litov](Alexander_Litov "Alexander Litov"), [CCC](CCC "CCC"), August 31, 2020
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Drofa/README.md at master · justNo4b/Drofa · GitHub](https://github.com/justNo4b/Drofa/blob/master/README.md)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Are Aspiration Windows Worthless?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76115&start=12) by [Alexander Litov](Alexander_Litov "Alexander Litov"), [CCC](CCC "CCC"), December 23, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Great bustard](https://en.wikipedia.org/wiki/Great_bustard), [Image](https://www.flickr.com/photos/andrej_chudy/2416576086/) by [Andrej Chudý](https://www.flickr.com/people/76362620@N00), March 30, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Drofa 1.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74950) by [Alexander Litov](Alexander_Litov "Alexander Litov"), [CCC](CCC "CCC"), August 31, 2020
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Drofa/README.md at master · justNo4b/Drofa · GitHub](https://github.com/justNo4b/Drofa/blob/master/README.md)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Are Aspiration Windows Worthless?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76115&start=12) by [Alexander Litov](Alexander_Litov "Alexander Litov"), [CCC](CCC "CCC"), December 23, 2020
 
 **[Up one level](Engines "Engines")**
 

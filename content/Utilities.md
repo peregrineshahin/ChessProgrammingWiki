@@ -61,9 +61,9 @@ title: Utilities
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Just Crafty GUI acept my 4 words UCI engine.... why?](http://www.talkchess.com/forum/viewtopic.php?t=55681) by [Luis Babboni](index.php?title=Luis_Babboni&action=edit&redlink=1 "Luis Babboni (page does not exist)"), [CCC](CCC "CCC"), March 16, 2015
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Tale of the Lost Wrapper: InBetween by Odd Gunnar Malin](http://www.chess.com/blog/AldoE/the-tale-of-the-lost-wrapper-inbetween-by-odd-gunnar-malin) by [Aldo Ercolani](http://www.chess.com/members/view/AldoE), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), December 12, 2014
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [pgn4web](http://pgn4web.casaschi.net/home.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Just Crafty GUI acept my 4 words UCI engine.... why?](http://www.talkchess.com/forum/viewtopic.php?t=55681) by [Luis Babboni](index.php?title=Luis_Babboni&action=edit&redlink=1 "Luis Babboni (page does not exist)"), [CCC](CCC "CCC"), March 16, 2015
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Tale of the Lost Wrapper: InBetween by Odd Gunnar Malin](http://www.chess.com/blog/AldoE/the-tale-of-the-lost-wrapper-inbetween-by-odd-gunnar-malin) by [Aldo Ercolani](http://www.chess.com/members/view/AldoE), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), December 12, 2014
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [pgn4web](http://pgn4web.casaschi.net/home.html)
 
 **[Up one Level](Software "Software")**
 

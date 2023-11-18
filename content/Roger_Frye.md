@@ -46,13 +46,13 @@ He found the smallest counter-example to [Euler’s generalization](https://en.w
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Roger Frye | LinkedIn](https://www.linkedin.com/in/roger-frye-a38bb879)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Roger Frye (**1988**). *[Finding 958004 + 2175194 + 4145604 = 4224814 on the Connection Machine](https://ieeexplore.ieee.org/document/74138)*. [Thinking Machines Corporation](https://en.wikipedia.org/wiki/Thinking_Machines_Corporation)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Roger Frye | LinkedIn](https://www.linkedin.com/in/roger-frye-a38bb879)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. Thesis, Department of Electrical Engineering and Computer Science, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf), pp. 146, Acknowledgments
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Roger E. Frye's research works in Physics](https://www.researchgate.net/scientific-contributions/35306580_Roger_E_Frye)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Cooley–Tukey FFT algorithm from Wikipedia](https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Maxwell's demon from Wikipedia](https://en.wikipedia.org/wiki/Maxwell%27s_demon)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Roger Frye | LinkedIn](https://www.linkedin.com/in/roger-frye-a38bb879)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Roger Frye (**1988**). *[Finding 958004 + 2175194 + 4145604 = 4224814 on the Connection Machine](https://ieeexplore.ieee.org/document/74138)*. [Thinking Machines Corporation](https://en.wikipedia.org/wiki/Thinking_Machines_Corporation)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Roger Frye | LinkedIn](https://www.linkedin.com/in/roger-frye-a38bb879)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. Thesis, Department of Electrical Engineering and Computer Science, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf), pp. 146, Acknowledgments
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Roger E. Frye's research works in Physics](https://www.researchgate.net/scientific-contributions/35306580_Roger_E_Frye)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Cooley–Tukey FFT algorithm from Wikipedia](https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Maxwell's demon from Wikipedia](https://en.wikipedia.org/wiki/Maxwell%27s_demon)
 
 **[Up one level](People "People")**
 

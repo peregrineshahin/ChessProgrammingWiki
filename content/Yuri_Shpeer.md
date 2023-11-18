@@ -21,7 +21,7 @@ a Russian computer chess programmer, author of the chess program [Dragon](Dragon
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Vladimir Rybinkin](Vladimir_Rybinkin "Vladimir Rybinkin") and Yuri Shpeer from [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) Photos by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Vladimir Rybinkin](Vladimir_Rybinkin "Vladimir Rybinkin") and Yuri Shpeer from [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) Photos by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
 
 **[Up one level](People "People")**
 

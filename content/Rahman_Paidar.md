@@ -36,8 +36,8 @@ The first version was written in [Turbo Pascal](Pascal#TurboPascal "Pascal") und
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Ktulu 6.2 will be released soon](https://web.archive.org/web/20110611144445/http://www.playwitharena.com/?Newsticker:Archive_6), Interview with Rahman Paidar by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Arena News-Ticker](Arena "Arena") 80, March 15, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Klaus Wlotzka](index.php?title=Klaus_Wlotzka&action=edit&redlink=1 "Klaus Wlotzka (page does not exist)") (**2006**). *Ktulu 8 - Interview mit Rahman Paidar*. [CSS Online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](https://computerschach.de/Files/2006/CSS-Rangliste%20-%20Der%20Weltmeister%20im%20Blickpunkt.pdf) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Ktulu 6.2 will be released soon](https://web.archive.org/web/20110611144445/http://www.playwitharena.com/?Newsticker:Archive_6), Interview with Rahman Paidar by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Arena News-Ticker](Arena "Arena") 80, March 15, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Klaus Wlotzka](index.php?title=Klaus_Wlotzka&action=edit&redlink=1 "Klaus Wlotzka (page does not exist)") (**2006**). *Ktulu 8 - Interview mit Rahman Paidar*. [CSS Online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](https://computerschach.de/Files/2006/CSS-Rangliste%20-%20Der%20Weltmeister%20im%20Blickpunkt.pdf) (German)
 
 **[Up one level](People "People")**
 

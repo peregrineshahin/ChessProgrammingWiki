@@ -53,10 +53,10 @@ title: MLChess
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Detailed information for MLChess](http://www.hpcalc.org/details.php?id=3067), Part of the [HP Calculator Archive](http://www.hpcalc.org/) © [Eric Rechlin](http://www.hpcalc.org/contact.php)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gilbert Fernandes](https://www.hpcalc.org/authors/706), [Eric Rechlin](https://www.hpcalc.org/authors/1) (**2005**). *[Introduction to Saturn Assembly Language](https://www.hpcalc.org/details/1693)*. Third edition, Part of the [HP Calculator Archive](https://www.hpcalc.org/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MLChess 1.07](https://groups.google.com/d/msg/comp.sys.hp48/tC6Nfzdoq8s/pS0nsVNR6D4J) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [comp.sys.hp48](https://groups.google.com/forum/#!forum/comp.sys.hp48), August 10, 1996
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Description based on [MLChess.txt V1.14](http://hem.bredband.net/petero2b/mlchess/MLChess.txt)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Detailed information for MLChess](http://www.hpcalc.org/details.php?id=3067), Part of the [HP Calculator Archive](http://www.hpcalc.org/) © [Eric Rechlin](http://www.hpcalc.org/contact.php)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gilbert Fernandes](https://www.hpcalc.org/authors/706), [Eric Rechlin](https://www.hpcalc.org/authors/1) (**2005**). *[Introduction to Saturn Assembly Language](https://www.hpcalc.org/details/1693)*. Third edition, Part of the [HP Calculator Archive](https://www.hpcalc.org/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MLChess 1.07](https://groups.google.com/d/msg/comp.sys.hp48/tC6Nfzdoq8s/pS0nsVNR6D4J) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [comp.sys.hp48](https://groups.google.com/forum/#!forum/comp.sys.hp48), August 10, 1996
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Description based on [MLChess.txt V1.14](http://hem.bredband.net/petero2b/mlchess/MLChess.txt)
 
 **[Up one level](Engines "Engines")**
 

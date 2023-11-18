@@ -51,12 +51,12 @@ In the [alpha-beta](Alpha-Beta "Alpha-Beta") search of the Othello experiment, t
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [NNRG People - David E. Moriarty](http://nn.cs.utexas.edu/?moriarty)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> David E. Moriarty (**1997**). *[Symbiotic Evolution of Neural Networks in Sequential Decision Tasks](http://nn.cs.utexas.edu/?moriarty:phd97)*. Ph.D. thesis, [University of Texas at Austin](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin), advisor [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> David E. Moriarty, [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen") (**1996**). *[Efficient Reinforcement Learning through Symbiotic Evolution](http://nn.cs.utexas.edu/?moriarty:mlj96)*. [Machine Learning](<https://en.wikipedia.org/wiki/Machine_Learning_(journal)>), Vol. 22
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> David E. Moriarty, [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen") (**1994**). *[Evolving Neural Networks to focus Minimax Search](http://nn.cs.utexas.edu/?moriarty:aaai94)*. [AAAI-94](Conferences#AAAI-94 "Conferences")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: David E. Moriarty](https://dblp.uni-trier.de/pers/hd/m/Moriarty:David_E=)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Inverted pendulum from Wikipedia](https://en.wikipedia.org/wiki/Inverted_pendulum)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [NNRG People - David E. Moriarty](http://nn.cs.utexas.edu/?moriarty)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> David E. Moriarty (**1997**). *[Symbiotic Evolution of Neural Networks in Sequential Decision Tasks](http://nn.cs.utexas.edu/?moriarty:phd97)*. Ph.D. thesis, [University of Texas at Austin](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin), advisor [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> David E. Moriarty, [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen") (**1996**). *[Efficient Reinforcement Learning through Symbiotic Evolution](http://nn.cs.utexas.edu/?moriarty:mlj96)*. [Machine Learning](<https://en.wikipedia.org/wiki/Machine_Learning_(journal)>), Vol. 22
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> David E. Moriarty, [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen") (**1994**). *[Evolving Neural Networks to focus Minimax Search](http://nn.cs.utexas.edu/?moriarty:aaai94)*. [AAAI-94](Conferences#AAAI-94 "Conferences")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: David E. Moriarty](https://dblp.uni-trier.de/pers/hd/m/Moriarty:David_E=)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Inverted pendulum from Wikipedia](https://en.wikipedia.org/wiki/Inverted_pendulum)
 
 **[Up one Level](People "People")**
 

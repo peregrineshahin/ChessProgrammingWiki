@@ -11,7 +11,7 @@ a person or thing having the same name as another <a id="cite-note-1" href="#cit
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [namesake | Definition of namesake in US English by Oxford Dictionaries](https://en.oxforddictionaries.com/definition/us/namesake)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [namesake | Definition of namesake in US English by Oxford Dictionaries](https://en.oxforddictionaries.com/definition/us/namesake)
 
 ## Subcategories
 

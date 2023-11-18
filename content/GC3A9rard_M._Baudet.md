@@ -34,10 +34,10 @@ in [Paris-Rocquencourt](https://en.wikipedia.org/wiki/Rocquencourt). He holds a 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Associate Professor Gerard Baudet](https://www.cs.uri.edu/about-us/people/gerard-baudet/) from [University of Rhode Island](https://en.wikipedia.org/wiki/University_of_Rhode_Island)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Gérard M. Baudet (**1978**). *The Design and Analysis of Algorithms for Asynchronous Multiprocessors*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), advisor [Hsiang-Tsung Kung](Mathematician#Kung "Mathematician")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Gérard M. Baudet](https://dblp.uni-trier.de/pers/hd/b/Baudet:G=eacute=rard_M=)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Journal of the ACM Bibliography - Gérard M. Baudet](http://projects.csail.mit.edu/jacm/References/baudet1978:226.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Associate Professor Gerard Baudet](https://www.cs.uri.edu/about-us/people/gerard-baudet/) from [University of Rhode Island](https://en.wikipedia.org/wiki/University_of_Rhode_Island)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Gérard M. Baudet (**1978**). *The Design and Analysis of Algorithms for Asynchronous Multiprocessors*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), advisor [Hsiang-Tsung Kung](Mathematician#Kung "Mathematician")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Gérard M. Baudet](https://dblp.uni-trier.de/pers/hd/b/Baudet:G=eacute=rard_M=)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Journal of the ACM Bibliography - Gérard M. Baudet](http://projects.csail.mit.edu/jacm/References/baudet1978:226.html)
 
 **[Up one level](People "People")**
 

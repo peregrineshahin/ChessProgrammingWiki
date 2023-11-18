@@ -46,11 +46,11 @@ a Taiwanese computer scientist and professor at the Department of Information En
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pangfeng Liu - 2002 International Olympiad in Informatics, Yong-In, Korea.](http://www.csie.ntu.edu.tw/~pangfeng/gallery.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Department of Information Engineering and Computer Science](http://www.csie.ntu.edu.tw/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pangfeng Liu Homepage](http://www.csie.ntu.edu.tw/~pangfeng/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Journal papers - Pangfeng Liu Hsu](http://www.csie.ntu.edu.tw/~pangfeng/publication.php)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Pangfeng Liu](http://www.informatik.uni-trier.de/~ley/pers/hd/l/Liu:Pangfeng)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pangfeng Liu - 2002 International Olympiad in Informatics, Yong-In, Korea.](http://www.csie.ntu.edu.tw/~pangfeng/gallery.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Department of Information Engineering and Computer Science](http://www.csie.ntu.edu.tw/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pangfeng Liu Homepage](http://www.csie.ntu.edu.tw/~pangfeng/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Journal papers - Pangfeng Liu Hsu](http://www.csie.ntu.edu.tw/~pangfeng/publication.php)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Pangfeng Liu](http://www.informatik.uni-trier.de/~ley/pers/hd/l/Liu:Pangfeng)
 
 **[Up one level](People "People")**
 

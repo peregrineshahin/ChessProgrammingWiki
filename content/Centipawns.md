@@ -71,10 +71,10 @@ feat. [Keith Tippett](Category:Keith_Tippett "Category:Keith Tippett"), [Ian Car
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Centipede in peat [marshlands](https://en.wikipedia.org/wiki/Wetland) of [Kawai Nui](https://en.wikipedia.org/wiki/Kawai_Nui_Marsh), [O'ahu](https://en.wikipedia.org/wiki/Oahu), [Hawai'i](https://en.wikipedia.org/wiki/Hawaii) photographed by [Eric Guinther](https://en.wikipedia.org/wiki/User:Marshman), [Centipede from Wikipedia](https://en.wikipedia.org/wiki/Centipede)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Centipawns and Millipawns](http://www.talkchess.com/forum/viewtopic.php?t=29694&start=10) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), September 08, 2009
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Centipawns and Millipawns](http://www.talkchess.com/forum/viewtopic.php?t=29694&start=14) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 09, 2009
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MTD(f) - A Minimax Algorithm faster than NegaScout](http://people.csail.mit.edu/plaat/mtdf.html) by [Aske Plaat](Aske_Plaat "Aske Plaat"), December 3, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Centipede in peat [marshlands](https://en.wikipedia.org/wiki/Wetland) of [Kawai Nui](https://en.wikipedia.org/wiki/Kawai_Nui_Marsh), [O'ahu](https://en.wikipedia.org/wiki/Oahu), [Hawai'i](https://en.wikipedia.org/wiki/Hawaii) photographed by [Eric Guinther](https://en.wikipedia.org/wiki/User:Marshman), [Centipede from Wikipedia](https://en.wikipedia.org/wiki/Centipede)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Centipawns and Millipawns](http://www.talkchess.com/forum/viewtopic.php?t=29694&start=10) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), September 08, 2009
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Centipawns and Millipawns](http://www.talkchess.com/forum/viewtopic.php?t=29694&start=14) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 09, 2009
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MTD(f) - A Minimax Algorithm faster than NegaScout](http://people.csail.mit.edu/plaat/mtdf.html) by [Aske Plaat](Aske_Plaat "Aske Plaat"), December 3, 1997
 
 **[Up one level](Score "Score")**
 

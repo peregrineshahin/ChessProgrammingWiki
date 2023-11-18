@@ -57,11 +57,11 @@ His research interests include [analysis of time series](https://en.wikipedia.or
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Maciej Szmit - LinkedIn](https://www.linkedin.com/in/maciejszmit/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Notatki: Computer Chess](http://maciejszmit.blogspot.com/p/szachy-komputerowe.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Maciej Szmit](http://dblp.uni-trier.de/pers/hd/s/Szmit:Maciej)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Pseudorandom Number Generator](Pseudorandom_Number_Generator "Pseudorandom Number Generator")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Double exponential smoothing - Wikipedia](https://en.wikipedia.org/wiki/Exponential_smoothing#Double_exponential_smoothing)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Maciej Szmit - LinkedIn](https://www.linkedin.com/in/maciejszmit/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Notatki: Computer Chess](http://maciejszmit.blogspot.com/p/szachy-komputerowe.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Maciej Szmit](http://dblp.uni-trier.de/pers/hd/s/Szmit:Maciej)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Pseudorandom Number Generator](Pseudorandom_Number_Generator "Pseudorandom Number Generator")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Double exponential smoothing - Wikipedia](https://en.wikipedia.org/wiki/Exponential_smoothing#Double_exponential_smoothing)
 
 **[Up one Level](People "People")**
 

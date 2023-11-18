@@ -134,15 +134,15 @@ Kc6 64.Qa2 Kb5 65.Qb2+ Kc6 1/2-1/2
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Three mechanical counters by [Arnold Reinhold](https://commons.wikimedia.org/wiki/User:ArnoldReinhold), April 20, 2009, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Counter (digital) from Wikipedia](<https://en.wikipedia.org/wiki/Counter_(digital)>)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Counter 1.2 Updated](http://www.talkchess.com/forum/viewtopic.php?t=32564) by [Swaminathan](Swaminathan_Natarajan "Swaminathan Natarajan"), [CCC](CCC "CCC"), February 12, 2010
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New version of Counter (in Go language)](http://www.talkchess.com/forum/viewtopic.php?t=64099) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), May 27, 2017
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Counter by Вадим Чижов (Vadim Chizhov), Russia!](http://www.sdchess.ru/Counter.htm) from [sdchess.ru](http://www.sdchess.ru/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Counter_12 - readme.txt
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CounterGo/types.go at master · ChizhovVadim/CounterGo · GitHub](https://github.com/ChizhovVadim/CounterGo/blob/master/common/types.go)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [CounterGo/search.go at master · ChizhovVadim/CounterGo · GitHub](https://github.com/ChizhovVadim/CounterGo/blob/master/engine/search.go)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Effective Go - The Go Programming Language - Concurrency](https://golang.org/doc/effective_go.html#concurrency)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The The First championship of the CIS (Первый официальный чемпионат СНГ)](http://www.sdchess.ru/Tournaments/Cis_official_1.htm) from [sdchess.ru](http://www.sdchess.ru/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Three mechanical counters by [Arnold Reinhold](https://commons.wikimedia.org/wiki/User:ArnoldReinhold), April 20, 2009, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Counter (digital) from Wikipedia](<https://en.wikipedia.org/wiki/Counter_(digital)>)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Counter 1.2 Updated](http://www.talkchess.com/forum/viewtopic.php?t=32564) by [Swaminathan](Swaminathan_Natarajan "Swaminathan Natarajan"), [CCC](CCC "CCC"), February 12, 2010
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New version of Counter (in Go language)](http://www.talkchess.com/forum/viewtopic.php?t=64099) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), May 27, 2017
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Counter by Вадим Чижов (Vadim Chizhov), Russia!](http://www.sdchess.ru/Counter.htm) from [sdchess.ru](http://www.sdchess.ru/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Counter_12 - readme.txt
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CounterGo/types.go at master · ChizhovVadim/CounterGo · GitHub](https://github.com/ChizhovVadim/CounterGo/blob/master/common/types.go)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [CounterGo/search.go at master · ChizhovVadim/CounterGo · GitHub](https://github.com/ChizhovVadim/CounterGo/blob/master/engine/search.go)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Effective Go - The Go Programming Language - Concurrency](https://golang.org/doc/effective_go.html#concurrency)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The The First championship of the CIS (Первый официальный чемпионат СНГ)](http://www.sdchess.ru/Tournaments/Cis_official_1.htm) from [sdchess.ru](http://www.sdchess.ru/)
 
 **[Up one Level](Engines "Engines")**
 

@@ -46,9 +46,9 @@ a chess program by [David Stafford](David_Stafford "David Stafford"). Greco was 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gioachino Greco from Wikipedia](https://en.wikipedia.org/wiki/Gioachino_Greco), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The ACM's Eighteenth North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cabbd) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1987_18th_NACCC/1987%20NACCC.062303063.sm.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gioachino Greco from Wikipedia](https://en.wikipedia.org/wiki/Gioachino_Greco), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The ACM's Eighteenth North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cabbd) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1987_18th_NACCC/1987%20NACCC.062303063.sm.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN")
 
 **[Up one Level](Engines "Engines")**
 

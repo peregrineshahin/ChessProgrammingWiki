@@ -48,7 +48,7 @@ Chess programs catch some of the human chess playing abilities but rely on the l
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer Pioneers - John R. Pasta](http://history.computer.org/pioneers/pasta.html) - [IEEE Computer Society](IEEE "IEEE")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer Pioneers - John R. Pasta](http://history.computer.org/pioneers/pasta.html) - [IEEE Computer Society](IEEE "IEEE")
 
 **[Up one level](People "People")**
 

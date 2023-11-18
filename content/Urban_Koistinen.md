@@ -55,14 +55,14 @@ a Swedish mathematician and computer scientist. While affiliated with the [KTH R
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Koistinen (Urban Koistinen) · GitHub](https://github.com/Koistinen)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Datastructures in computer chess](https://groups.google.com/d/msg/rec.games.chess.computer/L_roj2Mawg0/1lidUNmd3dsJ) by Urban Koistinen, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 17, 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Rotated bitboards](https://groups.google.com/d/msg/rec.games.chess.computer/YvFagyuVogw/2vNJw_qT8IYJ) by Urban Koistinen, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 31, 1997
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [PLY/SSDF – the story](https://web.archive.org/web/20180713223218/http://privat.bahnhof.se/wb432434/historik.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), July 2018)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by Urban Koistinen
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by Urban Koistinen
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Ren Wu](Ren_Wu "Ren Wu"), [Don Beal](Don_Beal "Don Beal") (**2001**). *Fast, Memory-efficient Retrograde Algorithms*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a>  [EGTB: Better algorithm](https://www.stmintz.com/ccc/index.php?id=162252) by Urban Koistinen, [CCC](CCC "CCC"), April 07, 2001
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Koistinen (Urban Koistinen) · GitHub](https://github.com/Koistinen)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Datastructures in computer chess](https://groups.google.com/d/msg/rec.games.chess.computer/L_roj2Mawg0/1lidUNmd3dsJ) by Urban Koistinen, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 17, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Rotated bitboards](https://groups.google.com/d/msg/rec.games.chess.computer/YvFagyuVogw/2vNJw_qT8IYJ) by Urban Koistinen, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 31, 1997
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [PLY/SSDF – the story](https://web.archive.org/web/20180713223218/http://privat.bahnhof.se/wb432434/historik.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), July 2018)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by Urban Koistinen
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by Urban Koistinen
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Ren Wu](Ren_Wu "Ren Wu"), [Don Beal](Don_Beal "Don Beal") (**2001**). *Fast, Memory-efficient Retrograde Algorithms*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a>  [EGTB: Better algorithm](https://www.stmintz.com/ccc/index.php?id=162252) by Urban Koistinen, [CCC](CCC "CCC"), April 07, 2001
 
 **[Up one level](People "People")**
 

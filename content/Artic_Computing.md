@@ -70,11 +70,11 @@ In 1984, Thornton left Artic to found [Kerian UK Ltd](index.php?title=Kerian&act
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Artic Computing from Wikipedia](https://en.wikipedia.org/wiki/Artic_Computing)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Richard Turner - CEO - ArtiCAD Ltd | LinkedIn](https://uk.linkedin.com/in/richard-turner-56197514)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Brendon Gore](https://magazinesfromthepast.fandom.com/wiki/Brendon_Gore) (**1982**). *Interview-One Degree In Artic*. [Your Computer](Your_Computer "Your Computer"), May 1982
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kerian UK Ltd - World of Spectrum](http://www.worldofspectrum.org/infoseekpub.cgi?regexp=%5EKerian+UK+Ltd$&loadpics=1)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chimera (video game) from Wikipedia](https://en.wikipedia.org/wiki/Chimera_%28video_game%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Artic Computing from Wikipedia](https://en.wikipedia.org/wiki/Artic_Computing)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Richard Turner - CEO - ArtiCAD Ltd | LinkedIn](https://uk.linkedin.com/in/richard-turner-56197514)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Brendon Gore](https://magazinesfromthepast.fandom.com/wiki/Brendon_Gore) (**1982**). *Interview-One Degree In Artic*. [Your Computer](Your_Computer "Your Computer"), May 1982
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kerian UK Ltd - World of Spectrum](http://www.worldofspectrum.org/infoseekpub.cgi?regexp=%5EKerian+UK+Ltd$&loadpics=1)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chimera (video game) from Wikipedia](https://en.wikipedia.org/wiki/Chimera_%28video_game%29)
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -65,8 +65,8 @@ a simple and stupid [UCI](UCI "UCI") compliant [open source chess engine](Catego
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Dumb 1.0 UCI by Richard Delorme](http://www.talkchess.com/forum/viewtopic.php?t=65305&start=2) by [Richard Delorme](Richard_Delorme "Richard Delorme"), [CCC](CCC "CCC"), September 27, 2017
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> based on [Dumb/README.md at master · abulmo/Dumb · GitHub](https://github.com/abulmo/Dumb/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Dumb 1.0 UCI by Richard Delorme](http://www.talkchess.com/forum/viewtopic.php?t=65305&start=2) by [Richard Delorme](Richard_Delorme "Richard Delorme"), [CCC](CCC "CCC"), September 27, 2017
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> based on [Dumb/README.md at master · abulmo/Dumb · GitHub](https://github.com/abulmo/Dumb/blob/master/README.md)
 
 **[Up one Level](Engines "Engines")**
 

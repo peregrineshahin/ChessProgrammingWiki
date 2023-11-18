@@ -58,10 +58,10 @@ Inspired by the success of the [Apple-1](https://en.wikipedia.org/wiki/Apple_I) 
 
 ## [Starring the Computer - The Thing (1982)](http://starringthecomputer.com/feature.html?f=129) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Apple II, Part of the videogames exhibition in the [Museum Moving Image](https://en.wikipedia.org/wiki/Museum_of_the_Moving_Image) in [New York City](https://en.wikipedia.org/wiki/New_York_City), Photo by [Marcin Wichary](https://www.flickr.com/people/mwichary/), [Flickr](https://www.flickr.com/photos/mwichary/2151368358/), [Apple Inc. from Wikipedia](https://en.wikipedia.org/wiki/Apple_Inc.)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [From a Little Apple a Mighty Industry Grows](http://www.wired.com/science/discoveries/news/2007/06/dayintech_0605) from [Wired News](http://www.wired.com/), June 5, 1977
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Apple II computer | Mastering the Game](http://www.computerhistory.org/chess/art-431f4cc107496/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Steve Jobs from Wikipedia](https://en.wikipedia.org/wiki/Steve_Jobs)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Apple II, Part of the videogames exhibition in the [Museum Moving Image](https://en.wikipedia.org/wiki/Museum_of_the_Moving_Image) in [New York City](https://en.wikipedia.org/wiki/New_York_City), Photo by [Marcin Wichary](https://www.flickr.com/people/mwichary/), [Flickr](https://www.flickr.com/photos/mwichary/2151368358/), [Apple Inc. from Wikipedia](https://en.wikipedia.org/wiki/Apple_Inc.)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [From a Little Apple a Mighty Industry Grows](http://www.wired.com/science/discoveries/news/2007/06/dayintech_0605) from [Wired News](http://www.wired.com/), June 5, 1977
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Apple II computer | Mastering the Game](http://www.computerhistory.org/chess/art-431f4cc107496/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Steve Jobs from Wikipedia](https://en.wikipedia.org/wiki/Steve_Jobs)
 
 **[Up one Level](Hardware "Hardware")**
 

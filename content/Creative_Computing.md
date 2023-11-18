@@ -60,15 +60,15 @@ Computer Chess in CC was covered by various tournament reports, for instance by 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Cover "The Best of Creative Computing Volume 2" by [Gilbert Shelton](https://en.wikipedia.org/wiki/Gilbert_Shelton), [Coding Horror: The Best of Creative Computing](http://www.codinghorror.com/blog/2005/10/the-best-of-creative-computing.html) by [Jeff Atwood](https://en.wikipedia.org/wiki/Jeff_Atwood), from [AtariArchives.org](http://www.atariarchives.org/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Backcover "The Best of Creative Computing Volume 1", Images by [Robert Crumb](https://en.wikipedia.org/wiki/Robert_Crumb), from [AtariArchives.org](http://www.atariarchives.org/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Creative Computing Magazine : Free Texts : Download & Streaming](http://archive.org/details/creativecomputing) hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fritz the Cat - Wikipedia](https://en.wikipedia.org/wiki/Fritz_the_Cat)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Fabulous Furry Freak Brothers - Wikipedia](https://en.wikipedia.org/wiki/The_Fabulous_Furry_Freak_Brothers)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [AtariArchives.org - archiving vintage computer books, information, and software](http://www.atariarchives.org/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [David Levy](David_Levy "David Levy") (**1980**). *[Intelligent Games](http://archive.org/stream/creativecomputing-1980-04/Creative_Computing_v06_n04_1980_Apr#page/n117/mode/2up)*. Creative Computing, Vol. 6, No. 4, hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Magic square from Wikipedia](https://en.wikipedia.org/wiki/Magic_square)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Benjamin Franklin from Wikipedia](https://en.wikipedia.org/wiki/Benjamin_Franklin)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Cover "The Best of Creative Computing Volume 2" by [Gilbert Shelton](https://en.wikipedia.org/wiki/Gilbert_Shelton), [Coding Horror: The Best of Creative Computing](http://www.codinghorror.com/blog/2005/10/the-best-of-creative-computing.html) by [Jeff Atwood](https://en.wikipedia.org/wiki/Jeff_Atwood), from [AtariArchives.org](http://www.atariarchives.org/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Backcover "The Best of Creative Computing Volume 1", Images by [Robert Crumb](https://en.wikipedia.org/wiki/Robert_Crumb), from [AtariArchives.org](http://www.atariarchives.org/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Creative Computing Magazine : Free Texts : Download & Streaming](http://archive.org/details/creativecomputing) hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fritz the Cat - Wikipedia](https://en.wikipedia.org/wiki/Fritz_the_Cat)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Fabulous Furry Freak Brothers - Wikipedia](https://en.wikipedia.org/wiki/The_Fabulous_Furry_Freak_Brothers)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [AtariArchives.org - archiving vintage computer books, information, and software](http://www.atariarchives.org/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [David Levy](David_Levy "David Levy") (**1980**). *[Intelligent Games](http://archive.org/stream/creativecomputing-1980-04/Creative_Computing_v06_n04_1980_Apr#page/n117/mode/2up)*. Creative Computing, Vol. 6, No. 4, hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Magic square from Wikipedia](https://en.wikipedia.org/wiki/Magic_square)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Benjamin Franklin from Wikipedia](https://en.wikipedia.org/wiki/Benjamin_Franklin)
 
 **[Up one Level](Periodical "Periodical")**
 

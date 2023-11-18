@@ -85,9 +85,9 @@ Last recent version is Sungorus 1.4 from June 2010, which was base of further de
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Djungarian hamster (Phodopus sungorus) named Świr eating [pumpkin (Cucurbita) seed](https://en.wikipedia.org/wiki/Pepita), Photo by Mar lena, April 09, 2012, [Djungarian hamster (Phodopus sungorus) from Wikipedia](https://en.wikipedia.org/wiki/Djungarian_hamster)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sungorus 1.0](http://www.talkchess.com/forum/viewtopic.php?t=28490) by [Pablo Vazquez](Pablo_Vazquez "Pablo Vazquez"), [CCC](CCC "CCC"), June 18, 2009
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [open source gift for Christmas](http://www.talkchess.com/forum/viewtopic.php?t=41590) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), December 25, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Djungarian hamster (Phodopus sungorus) named Świr eating [pumpkin (Cucurbita) seed](https://en.wikipedia.org/wiki/Pepita), Photo by Mar lena, April 09, 2012, [Djungarian hamster (Phodopus sungorus) from Wikipedia](https://en.wikipedia.org/wiki/Djungarian_hamster)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sungorus 1.0](http://www.talkchess.com/forum/viewtopic.php?t=28490) by [Pablo Vazquez](Pablo_Vazquez "Pablo Vazquez"), [CCC](CCC "CCC"), June 18, 2009
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [open source gift for Christmas](http://www.talkchess.com/forum/viewtopic.php?t=41590) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), December 25, 2011
 
 **[Up one Level](Engines "Engines")**
 

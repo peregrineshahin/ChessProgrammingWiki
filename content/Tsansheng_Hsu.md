@@ -98,13 +98,13 @@ a Taiwanese computer scientist and Research Fellow at the Institute of Informati
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tsan-sheng Hsu, Ph.D](http://www.iis.sinica.edu.tw/%7Etshsu/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Research Description](http://www.iis.sinica.edu.tw/%7Etshsu/tshsu/node4.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer Chinese Chess](http://www.iis.sinica.edu.tw/~tshsu/projects/che.html) by Tsan-sheng Hsu
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tsan-sheng Hsu's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=97)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Selected Publications - Tsan-sheng Hsu](http://www.iis.sinica.edu.tw/%7Etshsu/tshsu/node2.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Tsan-sheng Hsu](http://www.informatik.uni-trier.de/~ley/pers/hd/h/Hsu:Tsan=sheng.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tsan-sheng Hsu, Ph.D](http://www.iis.sinica.edu.tw/%7Etshsu/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Research Description](http://www.iis.sinica.edu.tw/%7Etshsu/tshsu/node4.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer Chinese Chess](http://www.iis.sinica.edu.tw/~tshsu/projects/che.html) by Tsan-sheng Hsu
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tsan-sheng Hsu's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=97)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Selected Publications - Tsan-sheng Hsu](http://www.iis.sinica.edu.tw/%7Etshsu/tshsu/node2.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Tsan-sheng Hsu](http://www.informatik.uni-trier.de/~ley/pers/hd/h/Hsu:Tsan=sheng.html)
 
 **[Up one level](People "People")**
 

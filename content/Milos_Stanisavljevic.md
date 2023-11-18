@@ -98,17 +98,17 @@ His professional interests include [microelectronics](https://en.wikipedia.org/w
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Milos Stanisavljevic - LinkedIn](https://www.linkedin.com/in/milosstanisavljevic/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Milos Stanisavljevic (**2009**). *[On the Dependability of Nanoscale Circuits and Systems : Methodologies and Circuit Architectures](https://infoscience.epfl.ch/record/133436)*. EPFL theses
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Houdini, Fire, IvanHoe, (and Rybka?) are 'clones'...?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=406714&t=38932) by Milos Stanisavljevic, [CCC](CCC "CCC"), May 12, 2011
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Houdini, Fire, IvanHoe, (and Rybka?) are 'clones'...?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=406732&t=38932) by Milos Stanisavljevic, [CCC](CCC "CCC"), May 12, 2011
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: WCCC 2011 - Junior is the 2011 World Champion](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=434569&t=41183) by Milos Stanisavljevic, [CCC](CCC "CCC"), November 25, 2011
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Sentinel from Wikipedia](https://en.wikipedia.org/wiki/Sentinel)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Firebird programmers no longer anonymous?](http://www.rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=15405) by oudheusa, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), February 07, 2010
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Is Houdini 2 Legally Copyrighted?](http://www.open-chess.org/viewtopic.php?f=3&t=1733#p15264) by [Jeremy Bernstein](Jeremy_Bernstein "Jeremy Bernstein"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 10, 2011
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [ChessLogik - RobboLito](http://users.telenet.be/chesslogik//robbolito.htm) hosted by [Norman Schmidt](Norman_Schmidt "Norman Schmidt")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Re: Fire 3.0 released](http://www.talkchess.com/forum/viewtopic.php?t=50463&start=5) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [CCC](CCC "CCC"), December 13, 2013
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [dblp: Milos Stanisavljevic](https://dblp.org/pers/hd/s/Stanisavljevic:Milos)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Milos Stanisavljevic - LinkedIn](https://www.linkedin.com/in/milosstanisavljevic/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Milos Stanisavljevic (**2009**). *[On the Dependability of Nanoscale Circuits and Systems : Methodologies and Circuit Architectures](https://infoscience.epfl.ch/record/133436)*. EPFL theses
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Houdini, Fire, IvanHoe, (and Rybka?) are 'clones'...?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=406714&t=38932) by Milos Stanisavljevic, [CCC](CCC "CCC"), May 12, 2011
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Houdini, Fire, IvanHoe, (and Rybka?) are 'clones'...?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=406732&t=38932) by Milos Stanisavljevic, [CCC](CCC "CCC"), May 12, 2011
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: WCCC 2011 - Junior is the 2011 World Champion](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=434569&t=41183) by Milos Stanisavljevic, [CCC](CCC "CCC"), November 25, 2011
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Sentinel from Wikipedia](https://en.wikipedia.org/wiki/Sentinel)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Firebird programmers no longer anonymous?](http://www.rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=15405) by oudheusa, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), February 07, 2010
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Is Houdini 2 Legally Copyrighted?](http://www.open-chess.org/viewtopic.php?f=3&t=1733#p15264) by [Jeremy Bernstein](Jeremy_Bernstein "Jeremy Bernstein"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 10, 2011
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ChessLogik - RobboLito](http://users.telenet.be/chesslogik//robbolito.htm) hosted by [Norman Schmidt](Norman_Schmidt "Norman Schmidt")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: Fire 3.0 released](http://www.talkchess.com/forum/viewtopic.php?t=50463&start=5) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [CCC](CCC "CCC"), December 13, 2013
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [dblp: Milos Stanisavljevic](https://dblp.org/pers/hd/s/Stanisavljevic:Milos)
 
 **[Up one level](People "People")**
 

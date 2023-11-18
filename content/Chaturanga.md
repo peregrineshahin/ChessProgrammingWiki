@@ -32,11 +32,11 @@ The name [Chaturanga](http://de.wikipedia.org/wiki/Chaturanga) was derived from 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chaturanga from Wikipedia](http://de.wikipedia.org/wiki/Chaturanga)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chessays - Ashtapada and cosmology](http://www.goddesschess.com/chessays/ashtapadacosmos.html) by [Prof. Rangachar Vasantha](http://ludicum.org/bgs08/invited), [Sri Krishnadevaraya University](https://en.wikipedia.org/wiki/Sri_Krishnadevaraya_University), [Anantapur](https://en.wikipedia.org/wiki/Anantapur,_Andhra_Pradesh), [Andhra Pradesh](https://en.wikipedia.org/wiki/Andhra_Pradesh), [India](https://en.wikipedia.org/wiki/India)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Twelfth ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6ce737), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1981_ACM_NACCC/1981_ACM_NACCC.sm.062303017.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [George Atkinson](index.php?title=George_Atkinson&action=edit&redlink=1 "George Atkinson (page does not exist)") (**1998**). *Chess and Machine Intuition*. Intellect Ltd. pp 63
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [History of chess from Wikipedia](https://en.wikipedia.org/wiki/Origins_of_chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chaturanga from Wikipedia](http://de.wikipedia.org/wiki/Chaturanga)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chessays - Ashtapada and cosmology](http://www.goddesschess.com/chessays/ashtapadacosmos.html) by [Prof. Rangachar Vasantha](http://ludicum.org/bgs08/invited), [Sri Krishnadevaraya University](https://en.wikipedia.org/wiki/Sri_Krishnadevaraya_University), [Anantapur](https://en.wikipedia.org/wiki/Anantapur,_Andhra_Pradesh), [Andhra Pradesh](https://en.wikipedia.org/wiki/Andhra_Pradesh), [India](https://en.wikipedia.org/wiki/India)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Twelfth ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6ce737), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1981_ACM_NACCC/1981_ACM_NACCC.sm.062303017.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [George Atkinson](index.php?title=George_Atkinson&action=edit&redlink=1 "George Atkinson (page does not exist)") (**1998**). *Chess and Machine Intuition*. Intellect Ltd. pp 63
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [History of chess from Wikipedia](https://en.wikipedia.org/wiki/Origins_of_chess)
 
 **[Up one level](Engines "Engines")**
 

@@ -138,20 +138,20 @@ However, early Ryzens prior to [Zen 3](https://en.wikipedia.org/wiki/Zen_3) micr
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> AMD headquarters, [Sunnyvale, California](https://en.wikipedia.org/wiki/Sunnyvale,_California), from [Advanced Micro Devices from Wikipedia](https://en.wikipedia.org/wiki/Advanced_Micro_Devices)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Advanced Micro Devices from Wikipedia](https://en.wikipedia.org/wiki/Advanced_Micro_Devices)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ryzen Fritz Chess Benchmarks ?](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=32016) by ralunger, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), March 03, 2017
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ryzen and BMI2: Strange behavior and high latencies](https://www.reddit.com/r/Amd/comments/60i6er/ryzen_and_bmi2_strange_behavior_and_high_latencies/) by DonnieTinyHands, [Reddit](https://en.wikipedia.org/wiki/Reddit), March 20, 2017
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Komodo 11.3](http://www.talkchess.com/forum/viewtopic.php?t=66737&start=4) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), March 04, 2018 » [BMI2 PEXT](BMI2#PEXT "BMI2"), [Komodo 11.3](Komodo#11 "Komodo")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Paris - Trier - Lünen](http://www.thorstenczub.de/pariswm97.html), Photos [WMCCC 1997](WMCCC_1997 "WMCCC 1997") by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [REBEL vs GM Vishy Anand](http://www.top-5000.nl/authors/rebel/chess_5.htm)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [Ed Schröder](Ed_Schroder "Ed Schroder") (**1998**). *Anand versus Rebel 10 exp.* [ICCA Journal, Vol. 21, No. 3](ICGA_Journal#21_3 "ICGA Journal")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) Photos by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [List of AMD microprocessors from Wikipedia](https://en.wikipedia.org/wiki/List_of_AMD_microprocessors)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Re: Komodo 11.3](http://www.talkchess.com/forum/viewtopic.php?t=66737&start=4) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), March 04, 2018
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Ryzen from Wikipedia](https://en.wikipedia.org/wiki/Ryzen)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Graphics Core Next from Wikipedia](https://en.wikipedia.org/wiki/Graphics_Core_Next)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [AMD Accelerated Processing Unit from Wikipedia](https://en.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> AMD headquarters, [Sunnyvale, California](https://en.wikipedia.org/wiki/Sunnyvale,_California), from [Advanced Micro Devices from Wikipedia](https://en.wikipedia.org/wiki/Advanced_Micro_Devices)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Advanced Micro Devices from Wikipedia](https://en.wikipedia.org/wiki/Advanced_Micro_Devices)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ryzen Fritz Chess Benchmarks ?](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=32016) by ralunger, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), March 03, 2017
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ryzen and BMI2: Strange behavior and high latencies](https://www.reddit.com/r/Amd/comments/60i6er/ryzen_and_bmi2_strange_behavior_and_high_latencies/) by DonnieTinyHands, [Reddit](https://en.wikipedia.org/wiki/Reddit), March 20, 2017
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Komodo 11.3](http://www.talkchess.com/forum/viewtopic.php?t=66737&start=4) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), March 04, 2018 » [BMI2 PEXT](BMI2#PEXT "BMI2"), [Komodo 11.3](Komodo#11 "Komodo")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Paris - Trier - Lünen](http://www.thorstenczub.de/pariswm97.html), Photos [WMCCC 1997](WMCCC_1997 "WMCCC 1997") by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [REBEL vs GM Vishy Anand](http://www.top-5000.nl/authors/rebel/chess_5.htm)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [Ed Schröder](Ed_Schroder "Ed Schroder") (**1998**). *Anand versus Rebel 10 exp.* [ICCA Journal, Vol. 21, No. 3](ICGA_Journal#21_3 "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) Photos by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [List of AMD microprocessors from Wikipedia](https://en.wikipedia.org/wiki/List_of_AMD_microprocessors)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: Komodo 11.3](http://www.talkchess.com/forum/viewtopic.php?t=66737&start=4) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), March 04, 2018
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Ryzen from Wikipedia](https://en.wikipedia.org/wiki/Ryzen)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Graphics Core Next from Wikipedia](https://en.wikipedia.org/wiki/Graphics_Core_Next)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [AMD Accelerated Processing Unit from Wikipedia](https://en.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit)
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -94,9 +94,9 @@ a [mobile device](https://en.wikipedia.org/wiki/Mobile_device) [operating system
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Android (operating system) from Wikipedia](https://en.wikipedia.org/wiki/Android_%28operating_system%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Google Chrome from Wikipedia](https://en.wikipedia.org/wiki/Google_Chrome)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - DLTcollab/sse2neon: A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation](https://github.com/DLTcollab/sse2neon)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Android (operating system) from Wikipedia](https://en.wikipedia.org/wiki/Android_%28operating_system%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Google Chrome from Wikipedia](https://en.wikipedia.org/wiki/Google_Chrome)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - DLTcollab/sse2neon: A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation](https://github.com/DLTcollab/sse2neon)
 
 **[Up one Level](Software "Software")**
 

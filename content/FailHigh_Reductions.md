@@ -44,7 +44,7 @@ if ( eval - threat >= beta && alpha == beta - 1)
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1997**). *Fail-High Reductions.* [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8"), available as [pdf](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4399933A9FAE32A9C855DED714120C66?doi=10.1.1.51.4897&rep=rep1&type=pdf) from [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.51.4897)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1997**). *Fail-High Reductions.* [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8"), available as [pdf](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4399933A9FAE32A9C855DED714120C66?doi=10.1.1.51.4897&rep=rep1&type=pdf) from [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.51.4897)
 
 **[Up one level](Reductions "Reductions")**
 

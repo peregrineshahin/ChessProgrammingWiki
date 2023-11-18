@@ -61,12 +61,12 @@ At the [18th Computer Olympiad 2015](18th_Computer_Olympiad "18th Computer Olymp
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Simon Portegies Zwart: Home page](https://home.strw.leidenuniv.nl/~spz/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Diplomacy Challenge | ICGA](https://icga.org/?page_id=987)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Diplomacy (game) from Wikipedia](https://en.wikipedia.org/wiki/Diplomacy_%28game%29)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Simon Portegies Zwart](https://dblp.org/pid/45/529.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [SDSS J090745.0+024507 from Wikipedia](https://en.wikipedia.org/wiki/SDSS_J090745.0%2B024507)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [FLOPS from Wikipedia](https://en.wikipedia.org/wiki/FLOPS)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Simon Portegies Zwart: Home page](https://home.strw.leidenuniv.nl/~spz/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Diplomacy Challenge | ICGA](https://icga.org/?page_id=987)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Diplomacy (game) from Wikipedia](https://en.wikipedia.org/wiki/Diplomacy_%28game%29)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Simon Portegies Zwart](https://dblp.org/pid/45/529.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [SDSS J090745.0+024507 from Wikipedia](https://en.wikipedia.org/wiki/SDSS_J090745.0%2B024507)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [FLOPS from Wikipedia](https://en.wikipedia.org/wiki/FLOPS)
 
 **[Up one level](People "People")**
 

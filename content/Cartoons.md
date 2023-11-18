@@ -36,12 +36,12 @@ Ed's Nighmare <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Two questions for Bob](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=222228&t=24100) by [Carey](Carey_Bloodworth "Carey Bloodworth"), [CCC](CCC "CCC"), September 30, 2008
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Diaz Cartoons](http://www.diazcartoons.nl/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Rebel in Cartoon Mode](http://www.rebel.nl/edindex2.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Diaz Cartoon from [WMCCC 1993](WMCCC_1993 "WMCCC 1993") booklet from [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), via [More DIAZ Cartoons](http://www.rebel.nl/diaz.htm) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [The LINCS/NLTSS Chronicles](http://www.computer-history.info/Page5.dir/pages/Chronicles.dir/index.html) by [James E. (Jed) Donnelley](http://www.webstart.com/jed/), Cartoons by Bill Aimonetti
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Two questions for Bob](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=222228&t=24100) by [Carey](Carey_Bloodworth "Carey Bloodworth"), [CCC](CCC "CCC"), September 30, 2008
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Diaz Cartoons](http://www.diazcartoons.nl/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rebel in Cartoon Mode](http://www.rebel.nl/edindex2.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Diaz Cartoon from [WMCCC 1993](WMCCC_1993 "WMCCC 1993") booklet from [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), via [More DIAZ Cartoons](http://www.rebel.nl/diaz.htm) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The LINCS/NLTSS Chronicles](http://www.computer-history.info/Page5.dir/pages/Chronicles.dir/index.html) by [James E. (Jed) Donnelley](http://www.webstart.com/jed/), Cartoons by Bill Aimonetti
 
 **[Home](Home "Home")**
 

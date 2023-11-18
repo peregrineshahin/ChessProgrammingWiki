@@ -44,8 +44,8 @@ a Swedish engineer, computer scientist, in 2014 retired from [Volvo](https://en.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image clipped from Peter Fendrich former Volvo IT page, Sociala media och en etablerad verksamhet, April 04, 2010
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jean-Peter Fendrich | LinkedIn](http://se.linkedin.com/in/jpfendrich)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image clipped from Peter Fendrich former Volvo IT page, Sociala media och en etablerad verksamhet, April 04, 2010
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jean-Peter Fendrich | LinkedIn](http://se.linkedin.com/in/jpfendrich)
 
 **[Up one level](People "People")**
 

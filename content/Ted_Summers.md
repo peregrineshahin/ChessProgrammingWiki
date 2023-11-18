@@ -82,10 +82,10 @@ an American information technology and services professional <a id="cite-note-2"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ted Summers | LinkedIn](https://www.linkedin.com/in/ted-summers-2739a710/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ted Summers | LinkedIn](https://www.linkedin.com/in/ted-summers-2739a710/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ted Summers J. - Atlanta Chess Club (Atlanta, GA) | Meetup](https://www.meetup.com/AtlantaChessClub/member/128076132/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The 2008 Third Annual ACCA Americas' Computer Chess Chamionships](http://aigames.net/ACCA/ACCAChampionships/ACCA2008Championships/SitePics.html) Site Pics from [UAB](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham") » [ACCA Americas' Computer Chess Championship](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship"), [ACCA 2008](ACCA_2008 "ACCA 2008")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ted Summers | LinkedIn](https://www.linkedin.com/in/ted-summers-2739a710/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ted Summers | LinkedIn](https://www.linkedin.com/in/ted-summers-2739a710/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ted Summers J. - Atlanta Chess Club (Atlanta, GA) | Meetup](https://www.meetup.com/AtlantaChessClub/member/128076132/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The 2008 Third Annual ACCA Americas' Computer Chess Chamionships](http://aigames.net/ACCA/ACCAChampionships/ACCA2008Championships/SitePics.html) Site Pics from [UAB](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham") » [ACCA Americas' Computer Chess Championship](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship"), [ACCA 2008](ACCA_2008 "ACCA 2008")
 
 **[Up one level](People "People")**
 

@@ -33,9 +33,9 @@ As computer chess programmer, Morgan Houppin is author of the [UCI](UCI "UCI") c
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Morgan Houppin | LinkedIn](https://www.linkedin.com/in/morgan-houppin-5587a0197/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [42 Lyon | École et formation d'informatique gratuite](https://www.42lyon.fr/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New engine: Stash](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73092) by Morgan Houppin, [CCC](CCC "CCC"), February 14, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Morgan Houppin | LinkedIn](https://www.linkedin.com/in/morgan-houppin-5587a0197/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [42 Lyon | École et formation d'informatique gratuite](https://www.42lyon.fr/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New engine: Stash](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73092) by Morgan Houppin, [CCC](CCC "CCC"), February 14, 2020
 
 **[Up one Level](People "People")**
 

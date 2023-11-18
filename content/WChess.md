@@ -133,15 +133,15 @@ The further developed *WChess 2000* was incorporated as game AI in [Majestic Che
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Power Chess from Wikipedia](https://en.wikipedia.org/wiki/Power_Chess)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [USCF Chess for Windows (1998) - MobyGames](http://www.mobygames.com/game/uscf-chess)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Studie: Geschwindigkeits Vergleiche - Schachcomputer.info Community](http://www.schachcomputer.info/forum/f10/geschwindigkeits-vergleiche-4059.html) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), November 12, 2011 (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [WChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=184)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462584&t=43447) by [David Kittinger](David_Kittinger "David Kittinger"), [CCC](CCC "CCC"), April 25, 2012
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462734&t=43447) by [Dave Kittinger](David_Kittinger "David Kittinger"), [CCC](CCC "CCC"), April 27, 2012
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Hoyle Majestic Chess Review - GameSpot.com](http://www.gamespot.com/hoyle-majestic-chess/reviews/hoyle-majestic-chess-review-6074888/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Disney's Aladdin Chess Adventures for Windows (2004) - MobyGames](http://www.mobygames.com/game/disneys-aladdin-chess-adventures)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Power Chess from Wikipedia](https://en.wikipedia.org/wiki/Power_Chess)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [USCF Chess for Windows (1998) - MobyGames](http://www.mobygames.com/game/uscf-chess)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Studie: Geschwindigkeits Vergleiche - Schachcomputer.info Community](http://www.schachcomputer.info/forum/f10/geschwindigkeits-vergleiche-4059.html) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), November 12, 2011 (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [WChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=184)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462584&t=43447) by [David Kittinger](David_Kittinger "David Kittinger"), [CCC](CCC "CCC"), April 25, 2012
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462734&t=43447) by [Dave Kittinger](David_Kittinger "David Kittinger"), [CCC](CCC "CCC"), April 27, 2012
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Hoyle Majestic Chess Review - GameSpot.com](http://www.gamespot.com/hoyle-majestic-chess/reviews/hoyle-majestic-chess-review-6074888/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Disney's Aladdin Chess Adventures for Windows (2004) - MobyGames](http://www.mobygames.com/game/disneys-aladdin-chess-adventures)
 
 **[Up one level](Engines "Engines")**
 

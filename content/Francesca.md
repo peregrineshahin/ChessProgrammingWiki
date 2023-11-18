@@ -122,12 +122,12 @@ Ka7 50.h5 a4 51.h6 f6 52.Rd4 Qe7 53.Rc4 fxe5 54.Rc8 Qxb7 55.Bxb7 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Resurrection (Piero della Francesca) from Wikipedia](<https://en.wikipedia.org/wiki/The_Resurrection_(Piero_della_Francesca)>)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Francesca 0.78 by Tom King is available !](https://www.stmintz.com/ccc/index.php?id=101076) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), March 09, 2000
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Francesca MAD v0.11 Released](https://www.stmintz.com/ccc/index.php?id=491623) by [Tom King](Tom_King "Tom King"), [CCC](CCC "CCC"), March 06, 2006
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Francesca's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=32)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Silentshark - Tom King's personal website - Computer Chess](http://www.silentshark.co.uk/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Paderborn 1999 - Chess - Round 3 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=3&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Resurrection (Piero della Francesca) from Wikipedia](<https://en.wikipedia.org/wiki/The_Resurrection_(Piero_della_Francesca)>)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Francesca 0.78 by Tom King is available !](https://www.stmintz.com/ccc/index.php?id=101076) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), March 09, 2000
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Francesca MAD v0.11 Released](https://www.stmintz.com/ccc/index.php?id=491623) by [Tom King](Tom_King "Tom King"), [CCC](CCC "CCC"), March 06, 2006
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Francesca's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=32)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Silentshark - Tom King's personal website - Computer Chess](http://www.silentshark.co.uk/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Paderborn 1999 - Chess - Round 3 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=3&id=5)
 
 **[Up one Level](Engines "Engines")**
 

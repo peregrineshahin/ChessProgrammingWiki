@@ -34,8 +34,8 @@ The computer is represented by a wooden [sensory board](Sensory_Board "Sensory B
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Saitek President](http://www.chesscomputeruk.com/html/saitek_president.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mephisto PC Schachbrett](https://www.schach-computer.info/wiki/index.php/Mephisto_PC_Schachbrett) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Saitek President](http://www.chesscomputeruk.com/html/saitek_president.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mephisto PC Schachbrett](https://www.schach-computer.info/wiki/index.php/Mephisto_PC_Schachbrett) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En)
 
 **[Up one Level](Engines "Engines")**
 

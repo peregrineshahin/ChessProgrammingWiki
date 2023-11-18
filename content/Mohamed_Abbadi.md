@@ -36,12 +36,12 @@ an Italian computer scientist and Ph.D. student at [Tilburg University](Tilburg_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mohamed Abbadi | LinkedIn](https://www.linkedin.com/pub/mohamed-abbadi/92/591/b88)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Casanova Language - People](http://casanova.codeplex.com/team/view)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Casanova Language - Home](http://casanova.codeplex.com/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Giacomo Casanova from Wikipedia](https://en.wikipedia.org/wiki/Giacomo_Casanova)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Giuseppe Maggiore](index.php?title=Giuseppe_Maggiore&action=edit&redlink=1 "Giuseppe Maggiore (page does not exist)"), [Alvise Spanò](index.php?title=Alvise_Span%C3%B2&action=edit&redlink=1 "Alvise Spanò (page does not exist)"), [Renzo Orsini](index.php?title=Renzo_Orsini&action=edit&redlink=1 "Renzo Orsini (page does not exist)"), [Giulia Costantini](index.php?title=Giulia_Costantini&action=edit&redlink=1 "Giulia Costantini (page does not exist)"), [Michele Bugliesi](index.php?title=Michele_Bugliesi&action=edit&redlink=1 "Michele Bugliesi (page does not exist)"), Mohamed Abbadi (**2011**). *[Designing Casanova: A Language for Games](http://link.springer.com/chapter/10.1007%2F978-3-642-31866-5_27)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Mohamed Abbadi](http://www.informatik.uni-trier.de/~ley/pers/hd/a/Abbadi:Mohamed.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mohamed Abbadi | LinkedIn](https://www.linkedin.com/pub/mohamed-abbadi/92/591/b88)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Casanova Language - People](http://casanova.codeplex.com/team/view)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Casanova Language - Home](http://casanova.codeplex.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Giacomo Casanova from Wikipedia](https://en.wikipedia.org/wiki/Giacomo_Casanova)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Giuseppe Maggiore](index.php?title=Giuseppe_Maggiore&action=edit&redlink=1 "Giuseppe Maggiore (page does not exist)"), [Alvise Spanò](index.php?title=Alvise_Span%C3%B2&action=edit&redlink=1 "Alvise Spanò (page does not exist)"), [Renzo Orsini](index.php?title=Renzo_Orsini&action=edit&redlink=1 "Renzo Orsini (page does not exist)"), [Giulia Costantini](index.php?title=Giulia_Costantini&action=edit&redlink=1 "Giulia Costantini (page does not exist)"), [Michele Bugliesi](index.php?title=Michele_Bugliesi&action=edit&redlink=1 "Michele Bugliesi (page does not exist)"), Mohamed Abbadi (**2011**). *[Designing Casanova: A Language for Games](http://link.springer.com/chapter/10.1007%2F978-3-642-31866-5_27)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Mohamed Abbadi](http://www.informatik.uni-trier.de/~ley/pers/hd/a/Abbadi:Mohamed.html)
 
 **[Up one level](People "People")**
 

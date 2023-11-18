@@ -30,9 +30,9 @@ and provides an text based [user interface](User_Interface "User Interface") wit
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Screenshot taken from [nibble-chess.gif](https://github.com/maksimKorzh/nibble-chess/blob/master/nibble-chess.gif) at [GitHub - maksimKorzh/nibble-chess: Console based minimalist chess program - A tribute to chess programming community](https://github.com/maksimKorzh/nibble-chess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A tribute to community](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69118) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), December 02, 2018
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [nibble-chess/README.md at master · maksimKorzh/nibble-chess · GitHub](https://github.com/maksimKorzh/nibble-chess/blob/master/README.md)|
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Screenshot taken from [nibble-chess.gif](https://github.com/maksimKorzh/nibble-chess/blob/master/nibble-chess.gif) at [GitHub - maksimKorzh/nibble-chess: Console based minimalist chess program - A tribute to chess programming community](https://github.com/maksimKorzh/nibble-chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A tribute to community](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69118) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), December 02, 2018
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [nibble-chess/README.md at master · maksimKorzh/nibble-chess · GitHub](https://github.com/maksimKorzh/nibble-chess/blob/master/README.md)|
 
 **[Up one Level](Engines "Engines")**
 

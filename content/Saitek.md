@@ -138,18 +138,18 @@ Professional programmers associated with SciSys and Saitek computers:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Saitek from Wikipedia](https://en.wikipedia.org/wiki/Saitek)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess System III](http://www.chesscomputeruk.com/html/chess_system_iii.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Levy interview](http://www.schach-computer.info/wiki/index.php/Levy,_David) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: list of our chess computers , let's share it](http://hiarcs.net/forums/viewtopic.php?t=204&start=34) by [Craig Barnes](Craig_Barnes "Craig Barnes"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 17, 2010
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [SciSys Sensor Chess](http://www.schach-computer.info/wiki/index.php/Scisys_Sensor_Chess) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Interview with Julio P Kaplan](http://www.p4r.org.ar/biografias/kaplan.htm), July 8, 2006 (Spanish)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Hegener & Glaser (Mephisto)](http://www.ismenio.com/mephisto.html) from [ChessComputers.org](http://www.ismenio.com/chess_computers.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Saitek Schachcomputer Mephisto](http://www.saitek-shop.de/html/saitek_schachcomputer_mephisto.htm)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Mad Catz buys Saitek - News at GameSpot](http://www.gamespot.com/news/6182902.html)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Ryder Industries - Introduction](http://www.ryderems.com/about_us/introduction.html)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [SciSys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> List of computers from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) contains various manufacturer
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Saitek from Wikipedia](https://en.wikipedia.org/wiki/Saitek)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess System III](http://www.chesscomputeruk.com/html/chess_system_iii.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Levy interview](http://www.schach-computer.info/wiki/index.php/Levy,_David) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: list of our chess computers , let's share it](http://hiarcs.net/forums/viewtopic.php?t=204&start=34) by [Craig Barnes](Craig_Barnes "Craig Barnes"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 17, 2010
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [SciSys Sensor Chess](http://www.schach-computer.info/wiki/index.php/Scisys_Sensor_Chess) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Interview with Julio P Kaplan](http://www.p4r.org.ar/biografias/kaplan.htm), July 8, 2006 (Spanish)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Hegener & Glaser (Mephisto)](http://www.ismenio.com/mephisto.html) from [ChessComputers.org](http://www.ismenio.com/chess_computers.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Saitek Schachcomputer Mephisto](http://www.saitek-shop.de/html/saitek_schachcomputer_mephisto.htm)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Mad Catz buys Saitek - News at GameSpot](http://www.gamespot.com/news/6182902.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Ryder Industries - Introduction](http://www.ryderems.com/about_us/introduction.html)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [SciSys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> List of computers from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) contains various manufacturer
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -17,7 +17,7 @@ the Asociación Nacional de Aficionados a las Computadoras de Ajedrez, the Spani
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Chess computers magazine in spanish](https://www.stmintz.com/ccc/index.php?id=421846) by [Javier Ros Padilla](index.php?title=Javier_Ros_Padilla&action=edit&redlink=1 "Javier Ros Padilla (page does not exist)"), [CCC](CCC "CCC"), April 20, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Chess computers magazine in spanish](https://www.stmintz.com/ccc/index.php?id=421846) by [Javier Ros Padilla](index.php?title=Javier_Ros_Padilla&action=edit&redlink=1 "Javier Ros Padilla (page does not exist)"), [CCC](CCC "CCC"), April 20, 2005
 
 **[Up one Level](Periodical "Periodical")**
 

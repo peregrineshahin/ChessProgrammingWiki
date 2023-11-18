@@ -47,8 +47,8 @@ the first pure chess engine rating list with [Ponder On](Pondering "Pondering") 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [IPON Rating's List Bash Script](http://www.open-chess.org/viewtopic.php?f=5&t=1592) by [kingliveson](Franklin_Titus "Franklin Titus"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), September 05, 2011
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The public IPON is finished](http://www.talkchess.com/forum/viewtopic.php?t=49315) by [Jesús Muñoz](index.php?title=Jes%C3%BAs_Mu%C3%B1oz&action=edit&redlink=1 "Jesús Muñoz (page does not exist)"), [CCC](CCC "CCC"), September 12, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [IPON Rating's List Bash Script](http://www.open-chess.org/viewtopic.php?f=5&t=1592) by [kingliveson](Franklin_Titus "Franklin Titus"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), September 05, 2011
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The public IPON is finished](http://www.talkchess.com/forum/viewtopic.php?t=49315) by [Jesús Muñoz](index.php?title=Jes%C3%BAs_Mu%C3%B1oz&action=edit&redlink=1 "Jesús Muñoz (page does not exist)"), [CCC](CCC "CCC"), September 12, 2013
 
 **[Up one Level](Engine_Rating_Lists "Engine Rating Lists")**
 

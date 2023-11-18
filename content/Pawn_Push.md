@@ -30,8 +30,8 @@ The double pawn push from the initial rank requires both squares ahead empty. [M
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Arasan test suite update](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=219015&t=23806) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), September 19, 2008
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [en passant and hash key calculation](http://www.talkchess.com/forum/viewtopic.php?t=33397) by [Fred Hamilton](index.php?title=Fred_Hamilton&action=edit&redlink=1 "Fred Hamilton (page does not exist)"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), March 21, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Arasan test suite update](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=219015&t=23806) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), September 19, 2008
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [en passant and hash key calculation](http://www.talkchess.com/forum/viewtopic.php?t=33397) by [Fred Hamilton](index.php?title=Fred_Hamilton&action=edit&redlink=1 "Fred Hamilton (page does not exist)"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), March 21, 2010
 
 **[Up one Level](Moves "Moves")**
 

@@ -63,18 +63,18 @@ He developed the first version of the Chinook [endgame database](Endgame_Tableba
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Authors - Chinook](http://webdocs.cs.ualberta.ca/~chinook/authors/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Joseph Culberson's Binary Search Tree Research](http://webdocs.cs.ualberta.ca/~joe/Research/binary.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Joseph Culberson Research Interests](http://webdocs.cs.ualberta.ca/~joe/research.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](https://www.springer.com/gp/book/9780387765754)*. 1. This Was Going to Be Easy, pp. 5
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chinook - Solving Checkers](http://webdocs.cs.ualberta.ca/~chinook/publications/solving_checkers.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Authors - Chinook](http://webdocs.cs.ualberta.ca/~chinook/authors/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Joseph Culberson's Publications List](http://webdocs.cs.ualberta.ca/~joe/publications.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Joseph C. Culberson](https://dblp.uni-trier.de/pers/c/Culberson:Joseph_C=.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Hamiltonian path problem from Wikipedia](https://en.wikipedia.org/wiki/Hamiltonian_path_problem)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [No free lunch in search and optimization | Wikipedia](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [NK model from Wikipedia](https://en.wikipedia.org/wiki/NK_model)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Constraint satisfaction problem from Wikipedia](https://en.wikipedia.org/wiki/Constraint_satisfaction_problem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Authors - Chinook](http://webdocs.cs.ualberta.ca/~chinook/authors/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Joseph Culberson's Binary Search Tree Research](http://webdocs.cs.ualberta.ca/~joe/Research/binary.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Joseph Culberson Research Interests](http://webdocs.cs.ualberta.ca/~joe/research.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](https://www.springer.com/gp/book/9780387765754)*. 1. This Was Going to Be Easy, pp. 5
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chinook - Solving Checkers](http://webdocs.cs.ualberta.ca/~chinook/publications/solving_checkers.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Authors - Chinook](http://webdocs.cs.ualberta.ca/~chinook/authors/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Joseph Culberson's Publications List](http://webdocs.cs.ualberta.ca/~joe/publications.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Joseph C. Culberson](https://dblp.uni-trier.de/pers/c/Culberson:Joseph_C=.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Hamiltonian path problem from Wikipedia](https://en.wikipedia.org/wiki/Hamiltonian_path_problem)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [No free lunch in search and optimization | Wikipedia](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [NK model from Wikipedia](https://en.wikipedia.org/wiki/NK_model)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Constraint satisfaction problem from Wikipedia](https://en.wikipedia.org/wiki/Constraint_satisfaction_problem)
 
 **[Up one level](People "People")**
 

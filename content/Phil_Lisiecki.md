@@ -38,13 +38,13 @@ While affiliated with [Massachusetts Institute of Technology](Massachusetts_Inst
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo from [Dr. Melissa N. Hayes-Gehrke's Homepage - Pictures, Phil](http://www.astro.umd.edu/%7Eavondale/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Homepages of My Friends and Family - Lorraine Lisiecki](http://www.astro.umd.edu/%7Eavondale/Friends.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Philip Lisiecki | LinkedIn](https://www.linkedin.com/in/philip-lisiecki-05aa6410a/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Phil Lisiecki's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=39)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Lorraine Lisiecki - Paleoceanography](http://www.lorraine-lisiecki.com/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Akamai Technical Publications](https://www.akamai.com/us/en/resources/our-thinking/technical-publications.jsp)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo from [Dr. Melissa N. Hayes-Gehrke's Homepage - Pictures, Phil](http://www.astro.umd.edu/%7Eavondale/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Homepages of My Friends and Family - Lorraine Lisiecki](http://www.astro.umd.edu/%7Eavondale/Friends.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Philip Lisiecki | LinkedIn](https://www.linkedin.com/in/philip-lisiecki-05aa6410a/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Phil Lisiecki's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=39)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Lorraine Lisiecki - Paleoceanography](http://www.lorraine-lisiecki.com/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Akamai Technical Publications](https://www.akamai.com/us/en/resources/our-thinking/technical-publications.jsp)
 
 **[Up one level](People "People")**
 

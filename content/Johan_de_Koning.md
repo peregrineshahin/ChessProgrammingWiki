@@ -62,14 +62,14 @@ Gold medal winner Johan de Koning with [PAN](https://www.game-ai-forum.org/icga-
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [2nd International CSVN Tournament (2002)](http://old.csvn.nl/gallery16.html) Photos by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Just Curious - Does anyone know Johan de Koning of Chessmaster fame?](https://www.stmintz.com/ccc/index.php?id=287267) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), February 28, 2003
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mads Brevik](index.php?title=Mads_Brevik&action=edit&redlink=1 "Mads Brevik (page does not exist)") (**1994**). *[Chessmaster 4000 Turbo for Windows from Mindscape](http://www.ibiblio.org/GameBytes/issue18/greviews/chess/chess.html)*. [Game Bytes Magazine](http://www.ibiblio.org/GameBytes/issue18/editor/pub.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chessmaster from Wikipedia](https://en.wikipedia.org/wiki/Chessmaster)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Why is Chessmaster so popular in CCC?](https://www.stmintz.com/ccc/index.php?id=117882) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), July 05, 2000
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [3rd International CSVN Tournament Leiden, Netherlands, May 16-18, 2003](http://old.csvn.nl/mei2003toernooi.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Computer Olympiad 2011 - Clobber](http://www.althofer.de/clobber-2011.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [K-Best Visualisations](http://www.althofer.de/k-best-visualisations.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [2nd International CSVN Tournament (2002)](http://old.csvn.nl/gallery16.html) Photos by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Just Curious - Does anyone know Johan de Koning of Chessmaster fame?](https://www.stmintz.com/ccc/index.php?id=287267) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), February 28, 2003
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mads Brevik](index.php?title=Mads_Brevik&action=edit&redlink=1 "Mads Brevik (page does not exist)") (**1994**). *[Chessmaster 4000 Turbo for Windows from Mindscape](http://www.ibiblio.org/GameBytes/issue18/greviews/chess/chess.html)*. [Game Bytes Magazine](http://www.ibiblio.org/GameBytes/issue18/editor/pub.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chessmaster from Wikipedia](https://en.wikipedia.org/wiki/Chessmaster)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Why is Chessmaster so popular in CCC?](https://www.stmintz.com/ccc/index.php?id=117882) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), July 05, 2000
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [3rd International CSVN Tournament Leiden, Netherlands, May 16-18, 2003](http://old.csvn.nl/mei2003toernooi.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Computer Olympiad 2011 - Clobber](http://www.althofer.de/clobber-2011.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [K-Best Visualisations](http://www.althofer.de/k-best-visualisations.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
 
 **[Up one level](People "People")**
 

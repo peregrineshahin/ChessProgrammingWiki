@@ -159,12 +159,12 @@ if ( CurEval <= Alpha - PVal[FirstPiece(Opponent)] - PVal[SecondPiece(Opponent)]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Picture gallery "Back in Holland 1941 - 1954"](http://www.mcescher.com/Gallery/gallery-back.htm) from [The Official M.C. Escher Website](http://www.mcescher.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Serious bug in Gothmog 0.2.6!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=43669&p=166791) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 04, 2003
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Unexpected problem with futility pruning?](https://www.stmintz.com/ccc/index.php?id=339076) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), December 29, 2003
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1998**). *[Extended Futility Pruning](http://people.csail.mit.edu/heinz/dt/node18.html).* [ICCA Journal, Vol. 21, No. 2](ICGA_Journal#21_2 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [move count based pruning](http://www.talkchess.com/forum/viewtopic.php?t=35955) by [Tom King](Tom_King "Tom King"), [CCC](CCC "CCC"), September 02, 2010
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Deep Futility Pruning](http://home.hccnet.nl/h.g.muller/deepfut.html) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Picture gallery "Back in Holland 1941 - 1954"](http://www.mcescher.com/Gallery/gallery-back.htm) from [The Official M.C. Escher Website](http://www.mcescher.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Serious bug in Gothmog 0.2.6!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=43669&p=166791) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 04, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Unexpected problem with futility pruning?](https://www.stmintz.com/ccc/index.php?id=339076) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), December 29, 2003
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1998**). *[Extended Futility Pruning](http://people.csail.mit.edu/heinz/dt/node18.html).* [ICCA Journal, Vol. 21, No. 2](ICGA_Journal#21_2 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [move count based pruning](http://www.talkchess.com/forum/viewtopic.php?t=35955) by [Tom King](Tom_King "Tom King"), [CCC](CCC "CCC"), September 02, 2010
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Deep Futility Pruning](http://home.hccnet.nl/h.g.muller/deepfut.html) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
 
 **[Up one Level](Pruning "Pruning")**
 

@@ -67,7 +67,7 @@ A **Legal Move** is a [pseudo-legal move](Pseudo-Legal_Move "Pseudo-Legal Move")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The King can never be Captured by Marina Kalinovsky, Artwork for Sale - Brooklyn, NY - United States](https://fineartamerica.com/featured/the-king-can-never-be-captured-marina-kalinovsky.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The King can never be Captured by Marina Kalinovsky, Artwork for Sale - Brooklyn, NY - United States](https://fineartamerica.com/featured/the-king-can-never-be-captured-marina-kalinovsky.html)
 
 **[Up one Level](Moves "Moves")**
 

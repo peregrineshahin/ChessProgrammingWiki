@@ -24,8 +24,8 @@ written in [C](C "C")/[C++](Cpp "Cpp"), and first released in June 2002 <a id="c
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> "Your name, when spelled in reverse, may be something funny or cool", [textreverse.com](http://www.textreverse.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Better UCI support for Abrok, version 2.0602 released!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=37554) by [Leo Dijksman](Leo_Dijksman "Leo Dijksman"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 02, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> "Your name, when spelled in reverse, may be something funny or cool", [textreverse.com](http://www.textreverse.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Better UCI support for Abrok, version 2.0602 released!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=37554) by [Leo Dijksman](Leo_Dijksman "Leo Dijksman"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 02, 2002
 
 **[Up one level](Engines "Engines")**
 

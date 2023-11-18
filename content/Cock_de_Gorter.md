@@ -39,12 +39,12 @@ was a Dutch computer chess expert, [tournament organizer](Category:Tournament_Di
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from Photo Composition of [CSVN](CSVN "CSVN") Board members and known visitors, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [8th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cd6ed) available as [pdf reprint](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1995_WCCC/1995%20WCCC.062303014.sm.pdf) Courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Deep Blue vs Kasparov, and some thoughts on 8th WCCC](http://groups.google.com/group/rec.games.chess/browse_frm/thread/c7204a7e6dfb52d6) by [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), June 05, 1995
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Cock de Gorter passed away](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71148&start=4) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), June 30, 2019
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computerschaak pagina 2](http://www.csvnsupplementsite.nl/CSVNPAGINA2.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Cock de Gorter](https://dblp.org/pers/hd/g/Gorter:Cock_de)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from Photo Composition of [CSVN](CSVN "CSVN") Board members and known visitors, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [8th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cd6ed) available as [pdf reprint](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1995_WCCC/1995%20WCCC.062303014.sm.pdf) Courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Deep Blue vs Kasparov, and some thoughts on 8th WCCC](http://groups.google.com/group/rec.games.chess/browse_frm/thread/c7204a7e6dfb52d6) by [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), June 05, 1995
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Cock de Gorter passed away](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71148&start=4) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), June 30, 2019
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computerschaak pagina 2](http://www.csvnsupplementsite.nl/CSVNPAGINA2.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Cock de Gorter](https://dblp.org/pers/hd/g/Gorter:Cock_de)
 
 **[Up one level](People "People")**
 

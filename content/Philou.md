@@ -79,9 +79,9 @@ Kb2 72.h4 c2 73.R1d2 Rb3 74.g3 Kb1 75.Rd1+ cxd1=R 76.Rxd1+ Kc2 77.Rd6 Rcc3 78.Rg
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Philou](https://web.archive.org/web/20130104213410/http://wbec-ridderkerk.nl:80/html/details1/Philou.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), January 04, 2013)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Philippe — Wiktionnaire](https://fr.wiktionary.org/wiki/Philippe) (French)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GNU Chess 5.07.170.5b vs Philou 3.5 - TCEC Season 2, Division F](https://tcec-chess.com/#div=f&game=24&season=2)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Philou](https://web.archive.org/web/20130104213410/http://wbec-ridderkerk.nl:80/html/details1/Philou.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), January 04, 2013)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Philippe — Wiktionnaire](https://fr.wiktionary.org/wiki/Philippe) (French)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GNU Chess 5.07.170.5b vs Philou 3.5 - TCEC Season 2, Division F](https://tcec-chess.com/#div=f&game=24&season=2)
 
 **[Up one Level](Engines "Engines")**
 

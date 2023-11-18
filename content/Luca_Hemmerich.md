@@ -40,8 +40,8 @@ a German chess player and programmer. He was active in computer chess programmin
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Youngest author of an original engine?](http://www.talkchess.com/forum/viewtopic.php?t=55596&start=1) by [Adam Hair](Adam_Hair "Adam Hair"), [CCC](CCC "CCC"), March 08, 2015
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New UCI engine: ChessMind](http://talkchess.com/forum/viewtopic.php?t=34066) by Luca Hemmerich, [CCC](CCC "CCC"), April 29, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Youngest author of an original engine?](http://www.talkchess.com/forum/viewtopic.php?t=55596&start=1) by [Adam Hair](Adam_Hair "Adam Hair"), [CCC](CCC "CCC"), March 08, 2015
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New UCI engine: ChessMind](http://talkchess.com/forum/viewtopic.php?t=34066) by Luca Hemmerich, [CCC](CCC "CCC"), April 29, 2010
 
 **[Up one level](People "People")**
 

@@ -42,15 +42,15 @@ Pascal Tang is primary author of the the world class [Chinese Chess](Chinese_Che
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Pascal Tang [debugging](Massy_2001#Bug "Massy 2001") [El Chinito](Chinito "Chinito"), from as of May 2019 no longer available [Massy 2001 - Tournoi de programmes d'Echecs](http://www.ludochess.com/trn_massy2001/tournoi.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Report on Massy 2001](https://www.stmintz.com/ccc/index.php?id=174576) by [Eugenio Castillo](Eugenio_Castillo_Jim%C3%A9nez "Eugenio Castillo Jiménez"), [CCC](CCC "CCC"), June 11, 2001
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Datagacy - Team](https://www.datagacy.fr/team/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Pascal Tang | LinkedIn](https://www.linkedin.com/in/pascal-tang-533a7a2/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Paris 1997](http://www.thorstenczub.de/pariswm97.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [XiangQi - XieXie | About Us](http://www.cc-xiexie.com/about.php)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Odyssey2001-Tournament: final round, first games](https://www.stmintz.com/ccc/index.php?id=206572) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [CCC](CCC "CCC"), January 10, 2002
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Computer Olympiad 2003 in Graz, Austria, November 26](http://www.yss-aya.com/photo/graz2003/1126/index01.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Pascal Tang - Program manager/Head of R&D Broadcast Broadband at ATEME](http://www.yatedo.com/p/Pascal+Tang/normal/a64b39b86fa813025e982cf33710c995)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Pascal Tang [debugging](Massy_2001#Bug "Massy 2001") [El Chinito](Chinito "Chinito"), from as of May 2019 no longer available [Massy 2001 - Tournoi de programmes d'Echecs](http://www.ludochess.com/trn_massy2001/tournoi.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Report on Massy 2001](https://www.stmintz.com/ccc/index.php?id=174576) by [Eugenio Castillo](Eugenio_Castillo_Jim%C3%A9nez "Eugenio Castillo Jiménez"), [CCC](CCC "CCC"), June 11, 2001
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Datagacy - Team](https://www.datagacy.fr/team/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Pascal Tang | LinkedIn](https://www.linkedin.com/in/pascal-tang-533a7a2/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Paris 1997](http://www.thorstenczub.de/pariswm97.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [XiangQi - XieXie | About Us](http://www.cc-xiexie.com/about.php)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Odyssey2001-Tournament: final round, first games](https://www.stmintz.com/ccc/index.php?id=206572) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [CCC](CCC "CCC"), January 10, 2002
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Computer Olympiad 2003 in Graz, Austria, November 26](http://www.yss-aya.com/photo/graz2003/1126/index01.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Pascal Tang - Program manager/Head of R&D Broadcast Broadband at ATEME](http://www.yatedo.com/p/Pascal+Tang/normal/a64b39b86fa813025e982cf33710c995)
 
 **[Up one level](People "People")**
 

@@ -59,12 +59,12 @@ Courtesy of [Ed Schröder](Ed_Schroder "Ed Schroder") and [Richard Lang](Richard
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Amsterdam Closeup](https://www.flickr.com/photos/10261668@N05/858198039/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Psion](http://www.schach-computer.info/wiki/index.php/Psion) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Image captured from the [WMCCC 1985 Video](WMCCC_1985#Video "WMCCC 1985") @ 2:41
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Amsterdam 1985 - Chess - Round 6 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=63&round=6&id=2)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Back to the 80's with UCI](http://www.top-5000.nl/mephisto.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Back to the 80's](http://www.hiarcs.net/forums/viewtopic.php?t=696) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 13, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Amsterdam Closeup](https://www.flickr.com/photos/10261668@N05/858198039/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Psion](http://www.schach-computer.info/wiki/index.php/Psion) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Image captured from the [WMCCC 1985 Video](WMCCC_1985#Video "WMCCC 1985") @ 2:41
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Amsterdam 1985 - Chess - Round 6 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=63&round=6&id=2)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Back to the 80's with UCI](http://www.top-5000.nl/mephisto.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Back to the 80's](http://www.hiarcs.net/forums/viewtopic.php?t=696) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 13, 2007
 
 **[Up one Level](Mephisto "Mephisto")**
 

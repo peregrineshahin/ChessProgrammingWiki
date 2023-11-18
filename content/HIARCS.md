@@ -182,20 +182,20 @@ HIARCS [Chess Strength](Playing_Strength "Playing Strength") <a id="cite-note-14
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [PC Chess Software - HIARCS Chess Explorer download](http://www.hiarcs.com/pc-chess-explorer.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [HIARCS: Where It All Began](http://www.hiarcs.com/beginning.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Now Walking, 1982-1983: HIARCS 5](http://www.hiarcs.com/nowwalking.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Larry Harris](Larry_Harris "Larry Harris") (**1974**). *Heuristic Search under Conditions of Error*. [Artificial Intelligence](<https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)>), Vol. 5, No. 3, also as (**1977**). *The heuristic search: An alternative to the alpha-beta minimax procedure.* [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [HIARCS Fan Page](http://www.thorstenczub.de/hiarcs.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Free HIARCS Chess Software Programs](http://www.hiarcs.com/freechess.htm)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [HIARCS Milestone Achievements](http://www.hiarcs.com/hiarcs_milestones.htm)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [HIARCS' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=53)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [ChessBase Shop - HIARCS 12](http://www.chessbase.com/shop/productlist.asp?product=cp&subd=HIARCS) from [ChessBase](ChessBase "ChessBase")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [HIARCS for PC Chess Software](http://www.hiarcs.com/pc_chess_hiarcs.htm)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [HIARCS Chess Software: What's New](http://www.hiarcs.com/news.htm)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [HIARCS from Wikipedia](https://en.wikipedia.org/wiki/HIARCS#HIARCS_13_.282009.29)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [HIARCS Chess Explorer - World class chess database and chess playing program](http://www.hiarcs.com/chess-explorer.htm)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [HIARCS Chess Strength - from the official HIARCS site](http://www.hiarcs.com/hiarcs_info.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [PC Chess Software - HIARCS Chess Explorer download](http://www.hiarcs.com/pc-chess-explorer.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [HIARCS: Where It All Began](http://www.hiarcs.com/beginning.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Now Walking, 1982-1983: HIARCS 5](http://www.hiarcs.com/nowwalking.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Larry Harris](Larry_Harris "Larry Harris") (**1974**). *Heuristic Search under Conditions of Error*. [Artificial Intelligence](<https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)>), Vol. 5, No. 3, also as (**1977**). *The heuristic search: An alternative to the alpha-beta minimax procedure.* [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [HIARCS Fan Page](http://www.thorstenczub.de/hiarcs.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Free HIARCS Chess Software Programs](http://www.hiarcs.com/freechess.htm)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [HIARCS Milestone Achievements](http://www.hiarcs.com/hiarcs_milestones.htm)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [HIARCS' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=53)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ChessBase Shop - HIARCS 12](http://www.chessbase.com/shop/productlist.asp?product=cp&subd=HIARCS) from [ChessBase](ChessBase "ChessBase")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [HIARCS for PC Chess Software](http://www.hiarcs.com/pc_chess_hiarcs.htm)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [HIARCS Chess Software: What's New](http://www.hiarcs.com/news.htm)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [HIARCS from Wikipedia](https://en.wikipedia.org/wiki/HIARCS#HIARCS_13_.282009.29)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [HIARCS Chess Explorer - World class chess database and chess playing program](http://www.hiarcs.com/chess-explorer.htm)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [HIARCS Chess Strength - from the official HIARCS site](http://www.hiarcs.com/hiarcs_info.htm)
 
 **[Up one level](Engines "Engines")**
 

@@ -98,10 +98,10 @@ Kc7 43.Bg4 Nc6 44.Rc8+ Kb7 45.Rxc6 Kxc6 46.Qb5+ Kb7 47.Qxd5+ Kc7 48.Qd7+
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Willem Drost](index.php?title=Category:Willem_Drost&action=edit&redlink=1 "Category:Willem Drost (page does not exist)") - [Bathsheba holding King David's letter](https://commons.wikimedia.org/wiki/File:Willem_Drost_-_Batsheba_met_de_brief_van_koning_David.jpg), 1654, [Louvre Museum](https://en.wikipedia.org/wiki/The_Louvre), [Bathsheba from Wikipedia](https://en.wikipedia.org/wiki/Bathsheba)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> betsabe-II-109-ja-jm/readme.txt
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> data.h
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Spanish Championship: Final Round](https://www.stmintz.com/ccc/index.php?id=84977) by Sergio Martinez, [CCC](CCC "CCC"), December 29, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Willem Drost](index.php?title=Category:Willem_Drost&action=edit&redlink=1 "Category:Willem Drost (page does not exist)") - [Bathsheba holding King David's letter](https://commons.wikimedia.org/wiki/File:Willem_Drost_-_Batsheba_met_de_brief_van_koning_David.jpg), 1654, [Louvre Museum](https://en.wikipedia.org/wiki/The_Louvre), [Bathsheba from Wikipedia](https://en.wikipedia.org/wiki/Bathsheba)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> betsabe-II-109-ja-jm/readme.txt
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> data.h
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Spanish Championship: Final Round](https://www.stmintz.com/ccc/index.php?id=84977) by Sergio Martinez, [CCC](CCC "CCC"), December 29, 1999
 
 **[Up one level](Engines "Engines")**
 

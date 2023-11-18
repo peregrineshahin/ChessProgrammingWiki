@@ -74,7 +74,7 @@ The **World Chess Software Championship** (WCSC) is an annual event organized by
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WCCC 2010](http://hiarcs.net/forums/viewtopic.php?t=2683&sid=bac3b22ee9b7cfff9f9f0a8d553d3b08) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), September 28, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WCCC 2010](http://hiarcs.net/forums/viewtopic.php?t=2683&sid=bac3b22ee9b7cfff9f9f0a8d553d3b08) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), September 28, 2009
 
 **[Up one level](Tournaments_and_Matches "Tournaments and Matches")**
 

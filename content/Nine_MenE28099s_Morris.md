@@ -70,12 +70,12 @@ Nine Men’s Morris field from the [Middle Ages](https://en.wikipedia.org/wiki/M
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nine Men's Morris from Wikipedia](https://en.wikipedia.org/wiki/Nine_Men%27s_Morris)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nine Men's Morris is a DRAW](http://www.ics.uci.edu/~eppstein/cgt/morris.html) by [Ralph Gasser](Ralph_Gasser "Ralph Gasser"), [rec.games.chess, rec.games.go, rec.games.abstract](Computer_Chess_Forums "Computer Chess Forums"), November 23, 1993
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ralph Gasser](Ralph_Gasser "Ralph Gasser") (**1993**). *Nine Men's Morris is a DRAW* Dept. Informatik, Swiss Federal Institute of Technology (ETH)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Not the [Stone Age](https://en.wikipedia.org/wiki/Stone_Age)!
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Mühle (Spiel) from Wikipedia.de](https://de.wikipedia.org/wiki/M%C3%BChle_%28Spiel%29) (German)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CeBIT 2007](http://www.althofer.de/cebit-2007.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nine Men's Morris from Wikipedia](https://en.wikipedia.org/wiki/Nine_Men%27s_Morris)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nine Men's Morris is a DRAW](http://www.ics.uci.edu/~eppstein/cgt/morris.html) by [Ralph Gasser](Ralph_Gasser "Ralph Gasser"), [rec.games.chess, rec.games.go, rec.games.abstract](Computer_Chess_Forums "Computer Chess Forums"), November 23, 1993
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ralph Gasser](Ralph_Gasser "Ralph Gasser") (**1993**). *Nine Men's Morris is a DRAW* Dept. Informatik, Swiss Federal Institute of Technology (ETH)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Not the [Stone Age](https://en.wikipedia.org/wiki/Stone_Age)!
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mühle (Spiel) from Wikipedia.de](https://de.wikipedia.org/wiki/M%C3%BChle_%28Spiel%29) (German)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CeBIT 2007](http://www.althofer.de/cebit-2007.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
 
 **[Up one Level](Games "Games")**
 

@@ -43,11 +43,11 @@ Sam Fuller received his Ph.D. in [electical engineering](https://en.wikipedia.or
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sam Fuller | LinkedIn](https://www.linkedin.com/in/samuelhfuller)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Samuel Fuller, [John Gaschnig](John_Gaschnig "John Gaschnig"), [James Gillogly](James_Gillogly "James Gillogly") (**1973**). *An Analysis of the Alpha-Beta Pruning Algorithm*. Technical Report, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Samuel H. Fuller](https://dblp.uni-trier.de/pers/hd/f/Fuller:Samuel_H=.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [RapidIO from Wikipedia](https://en.wikipedia.org/wiki/RapidIO)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sam Fuller | LinkedIn](https://www.linkedin.com/in/samuelhfuller)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Samuel Fuller, [John Gaschnig](John_Gaschnig "John Gaschnig"), [James Gillogly](James_Gillogly "James Gillogly") (**1973**). *An Analysis of the Alpha-Beta Pruning Algorithm*. Technical Report, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Samuel H. Fuller](https://dblp.uni-trier.de/pers/hd/f/Fuller:Samuel_H=.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [RapidIO from Wikipedia](https://en.wikipedia.org/wiki/RapidIO)
 
 **[Up one level](People "People")**
 

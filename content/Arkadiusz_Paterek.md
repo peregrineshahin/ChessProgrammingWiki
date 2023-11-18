@@ -35,14 +35,14 @@ to [tune](Automated_Tuning "Automated Tuning") its evaluation by [logistic regre
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Arkadiusz Paterek - Polska | LinkedIn](https://www.linkedin.com/in/paterek/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Arkadiusz Paterek's Homepage](http://arek-paterek.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Katarzyna Kucharska - Szachy w Polsce](http://www.szachypolskie.pl/katarzyna-kucharska/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Arkadiusz Paterek (**2004**). *Modelowanie funkcji oceniającej w szachach*. Masters thesis, [University of Warsaw](University_of_Warsaw "University of Warsaw") (Polish, Modeling of the evaluation function in chess)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a>  [Michael Buro](Michael_Buro "Michael Buro") (**1998**). *[From Simple Features to Sophisticated Evaluation Functions](http://link.springer.com/chapter/10.1007/3-540-48957-6_8)*. [CG 1998](CG_1998 "CG 1998"), [pdf](https://skatgame.net/mburo/ps/glem.pdf)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Arkadiusz Paterek - Google Scholar Citations](https://scholar.google.com/citations?user=PKa5IYAAAAAJ&hl=en)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Collaborative filtering from Wikipedia](https://en.wikipedia.org/wiki/Collaborative_filtering)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Netflix Prize from Wikipedia](https://en.wikipedia.org/wiki/Netflix_Prize)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Arkadiusz Paterek - Polska | LinkedIn](https://www.linkedin.com/in/paterek/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Arkadiusz Paterek's Homepage](http://arek-paterek.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Katarzyna Kucharska - Szachy w Polsce](http://www.szachypolskie.pl/katarzyna-kucharska/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Arkadiusz Paterek (**2004**). *Modelowanie funkcji oceniającej w szachach*. Masters thesis, [University of Warsaw](University_of_Warsaw "University of Warsaw") (Polish, Modeling of the evaluation function in chess)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a>  [Michael Buro](Michael_Buro "Michael Buro") (**1998**). *[From Simple Features to Sophisticated Evaluation Functions](http://link.springer.com/chapter/10.1007/3-540-48957-6_8)*. [CG 1998](CG_1998 "CG 1998"), [pdf](https://skatgame.net/mburo/ps/glem.pdf)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Arkadiusz Paterek - Google Scholar Citations](https://scholar.google.com/citations?user=PKa5IYAAAAAJ&hl=en)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Collaborative filtering from Wikipedia](https://en.wikipedia.org/wiki/Collaborative_filtering)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Netflix Prize from Wikipedia](https://en.wikipedia.org/wiki/Netflix_Prize)
 
 **[Up one level](People "People")**
 

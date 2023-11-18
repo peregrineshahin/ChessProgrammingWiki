@@ -70,17 +70,17 @@ and further introduced the [first-order inductive learner](https://en.wikipedia.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ross Quinlan's personal homepage](https://www.rulequest.com/Personal/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [RuleQuest Research - Data Mining Tools](https://www.rulequest.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Machine Learning Dictionary - CLS](http://www.cse.unsw.edu.au/~billw/mldict.html#CLS)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Earl B. Hunt](https://en.wikipedia.org/wiki/Earl_B._Hunt) (**1962**). *[Concept Learning: An Information Processing Problem](https://psycnet.apa.org/record/2008-13026-000)*. [Wiley](https://en.wikipedia.org/wiki/Wiley_(publisher))
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The ID3 Algorithm](https://www.cise.ufl.edu/~ddd/cap6635/Fall-97/Short-papers/2.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chris Drummond](Mathematician#CDrummond "Mathematician"), [Robert Holte](Robert_Holte "Robert Holte") (**2003**). *C4.5, Class Imbalance, and Cost Sensitivity: Why Under-Sampling beats Over-Sampling*. [ICML 2003 Workshop on Learning from Imbalanced Data Sets (II)](https://www.site.uottawa.ca/~nat/Workshop2003/workshop2003.html), [pdf](https://www.site.uottawa.ca/~nat/Workshop2003/drummondc.pdf)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Information on See5/C5.0](https://www.rulequest.com/see5-info.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Is C5.0 Better Than C4.5?](https://www.rulequest.com/see5-comparison.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> Ross Quinlan (**1983**). *[Learning Efficient Classification Procedures and Their Application to Chess End Games](https://link.springer.com/chapter/10.1007/978-3-662-12405-5_15)*. in [Machine Learning: An Artificial Intelligence Approach](https://link.springer.com/book/10.1007%2F978-3-662-12405-5)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [DBLP: J. Ross Quinlan](https://dblp.uni-trier.de/pers/hd/q/Quinlan:J=_Ross.html)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ross Quinlan's personal homepage](https://www.rulequest.com/Personal/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [RuleQuest Research - Data Mining Tools](https://www.rulequest.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Machine Learning Dictionary - CLS](http://www.cse.unsw.edu.au/~billw/mldict.html#CLS)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Earl B. Hunt](https://en.wikipedia.org/wiki/Earl_B._Hunt) (**1962**). *[Concept Learning: An Information Processing Problem](https://psycnet.apa.org/record/2008-13026-000)*. [Wiley](https://en.wikipedia.org/wiki/Wiley_(publisher))
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The ID3 Algorithm](https://www.cise.ufl.edu/~ddd/cap6635/Fall-97/Short-papers/2.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chris Drummond](Mathematician#CDrummond "Mathematician"), [Robert Holte](Robert_Holte "Robert Holte") (**2003**). *C4.5, Class Imbalance, and Cost Sensitivity: Why Under-Sampling beats Over-Sampling*. [ICML 2003 Workshop on Learning from Imbalanced Data Sets (II)](https://www.site.uottawa.ca/~nat/Workshop2003/workshop2003.html), [pdf](https://www.site.uottawa.ca/~nat/Workshop2003/drummondc.pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Information on See5/C5.0](https://www.rulequest.com/see5-info.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Is C5.0 Better Than C4.5?](https://www.rulequest.com/see5-comparison.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> Ross Quinlan (**1983**). *[Learning Efficient Classification Procedures and Their Application to Chess End Games](https://link.springer.com/chapter/10.1007/978-3-662-12405-5_15)*. in [Machine Learning: An Artificial Intelligence Approach](https://link.springer.com/book/10.1007%2F978-3-662-12405-5)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [DBLP: J. Ross Quinlan](https://dblp.uni-trier.de/pers/hd/q/Quinlan:J=_Ross.html)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

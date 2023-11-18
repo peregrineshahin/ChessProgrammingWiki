@@ -58,13 +58,13 @@ Keith Gorlen operating Chess 3.0, [Monty Newborn](Monroe_Newborn "Monroe Newborn
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [NIH Class Library — Software Preservation Group](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [NIH Class Library Revision 3.0 - Release Notes](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl/3.0-readme.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Undergraduate Alumni Honor Roll 1970s](http://giving.northwestern.edu/afhr/1970)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Slate](David_Slate "David Slate"), [Larry Atkin](Larry_Atkin "Larry Atkin") (**1977**). *Chess 4.5 - The Northwestern University Chess Program.* [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine"), reprinted (1988) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> John C. Devlin (**1970**). *[Chess Computer Loses Game in a King‐Size Blunder](https://www.nytimes.com/1970/09/02/archives/chess-computer-loses-game-in-a-kingsize-blunder.html)*. [New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), September 02, 1970, Thanks to [Monty Newborn](Monroe_Newborn "Monroe Newborn") for recognizing people
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [DBLP: Keith E. Gorlen](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gorlen:Keith_E=.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [NIH Class Library — Software Preservation Group](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [NIH Class Library — Software Preservation Group](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [NIH Class Library Revision 3.0 - Release Notes](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl/3.0-readme.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Undergraduate Alumni Honor Roll 1970s](http://giving.northwestern.edu/afhr/1970)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Slate](David_Slate "David Slate"), [Larry Atkin](Larry_Atkin "Larry Atkin") (**1977**). *Chess 4.5 - The Northwestern University Chess Program.* [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine"), reprinted (1988) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> John C. Devlin (**1970**). *[Chess Computer Loses Game in a King‐Size Blunder](https://www.nytimes.com/1970/09/02/archives/chess-computer-loses-game-in-a-kingsize-blunder.html)*. [New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), September 02, 1970, Thanks to [Monty Newborn](Monroe_Newborn "Monroe Newborn") for recognizing people
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [DBLP: Keith E. Gorlen](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gorlen:Keith_E=.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [NIH Class Library — Software Preservation Group](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](People "People")**
 

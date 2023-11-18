@@ -132,7 +132,7 @@ bool squaresOnSameRank(int sq1, int sq2) {
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [An undetected bug for 10 years](http://talkchess.com/forum3/viewtopic.php?f=7&t=74821) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), August 18, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [An undetected bug for 10 years](http://talkchess.com/forum3/viewtopic.php?f=7&t=74821) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), August 18, 2020
 
 **[Up one Level](Chess "Chess")**
 

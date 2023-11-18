@@ -55,13 +55,13 @@ and [Jean-Baptiste Hoock](Jean-Baptiste_Hoock "Jean-Baptiste Hoock") right <a id
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Fotland | LinkedIn](https://www.linkedin.com/in/dfotland/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: object oriented chess programming](https://groups.google.com/d/msg/rec.games.chess.computer/LTANssDhxw4/Ifc1SPOlSLAJ) by Dave Fotland, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 06, 1998
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Details of Program: Many Faces of Go](http://www.computer-go.info/db/oprog.php?a=Many+Faces+of+Go) from [computer-go.info](http://www.computer-go.info/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Smart Games](http://www.smart-games.com/index.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Image clipped from [11th Day Image 5](http://www.geocities.jp/hideki_katoh/13days/11th_day/slides/DSCF3204.html), [2008 Gallery](http://www.geocities.jp/hideki_katoh/13days/index.html) by [Hideki Kato](Hideki_Kato "Hideki Kato")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Image Medalists of 13x13 Go](https://get.google.com/albumarchive/117053534374902710729/album/AF1QipORq5svHFhGrtWUFQ4nelT0mQlfNV4rdkS8spmh/AF1QipPkvMJpOKh8hOdIAmhQK368QVkuyochb_BQGkZy) from [Album archive - 15th Computer Olympiad Kanazawa](https://get.google.com/albumarchive/117053534374902710729/album/AF1QipORq5svHFhGrtWUFQ4nelT0mQlfNV4rdkS8spmh) by [Hideki Kato](Hideki_Kato "Hideki Kato")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: David Fotland](https://dblp.uni-trier.de/pers/hd/f/Fotland:David)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Fotland | LinkedIn](https://www.linkedin.com/in/dfotland/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: object oriented chess programming](https://groups.google.com/d/msg/rec.games.chess.computer/LTANssDhxw4/Ifc1SPOlSLAJ) by Dave Fotland, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 06, 1998
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Details of Program: Many Faces of Go](http://www.computer-go.info/db/oprog.php?a=Many+Faces+of+Go) from [computer-go.info](http://www.computer-go.info/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Smart Games](http://www.smart-games.com/index.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Image clipped from [11th Day Image 5](http://www.geocities.jp/hideki_katoh/13days/11th_day/slides/DSCF3204.html), [2008 Gallery](http://www.geocities.jp/hideki_katoh/13days/index.html) by [Hideki Kato](Hideki_Kato "Hideki Kato")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Image Medalists of 13x13 Go](https://get.google.com/albumarchive/117053534374902710729/album/AF1QipORq5svHFhGrtWUFQ4nelT0mQlfNV4rdkS8spmh/AF1QipPkvMJpOKh8hOdIAmhQK368QVkuyochb_BQGkZy) from [Album archive - 15th Computer Olympiad Kanazawa](https://get.google.com/albumarchive/117053534374902710729/album/AF1QipORq5svHFhGrtWUFQ4nelT0mQlfNV4rdkS8spmh) by [Hideki Kato](Hideki_Kato "Hideki Kato")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: David Fotland](https://dblp.uni-trier.de/pers/hd/f/Fotland:David)
 
 **[Up one level](People "People")**
 

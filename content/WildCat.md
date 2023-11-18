@@ -92,9 +92,9 @@ Qf5 28.h4 Bd5 29.hxg5 hxg5 30.Rh4 f6 31.f4 Bxc4 32.fxg5 Kf7 33.gxf6 Rg8
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Sketch of a [European wildcat](https://en.wikipedia.org/wiki/European_wildcat) killing a [deer fawn](https://en.wikipedia.org/wiki/Deer), source: [Richard Lydekker](https://en.wikipedia.org/wiki/Richard_Lydekker) (**1916**). *Wild life of the world : a descriptive survey of the geographical distribution of animals*. Vol. I, [Wildcat from Wikipedia](https://en.wikipedia.org/wiki/Wildcat)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WildCat/v8/history.txt](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/WildCat%20%28Compilation%29/v8/history.txt)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Новости за февраль - март 2008 года, 29 февраля 2008 г.](http://www.sdchess.ru/febr_march_08.htm) from [sdchess.ru](http://www.sdchess.ru/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Sketch of a [European wildcat](https://en.wikipedia.org/wiki/European_wildcat) killing a [deer fawn](https://en.wikipedia.org/wiki/Deer), source: [Richard Lydekker](https://en.wikipedia.org/wiki/Richard_Lydekker) (**1916**). *Wild life of the world : a descriptive survey of the geographical distribution of animals*. Vol. I, [Wildcat from Wikipedia](https://en.wikipedia.org/wiki/Wildcat)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WildCat/v8/history.txt](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/WildCat%20%28Compilation%29/v8/history.txt)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Новости за февраль - март 2008 года, 29 февраля 2008 г.](http://www.sdchess.ru/febr_march_08.htm) from [sdchess.ru](http://www.sdchess.ru/)
 
 **[Up one Level](Engines "Engines")**
 

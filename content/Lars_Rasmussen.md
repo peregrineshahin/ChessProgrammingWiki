@@ -33,19 +33,19 @@ He further developed the [ChessBase](ChessBase_(Database) "ChessBase (Database)"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> not to confused with [Lars Rasmussen (software developer)](https://en.wikipedia.org/wiki/Lars_Rasmussen_%28software_developer%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [List of All Known Mutual Zugzwangs](http://chess.jaet.org/cgi-bin/mzugs)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Lars Rasmussen (**1991 - 2000**). *Mutual Zugzwang Results*. (various) [EG](https://en.wikipedia.org/wiki/EG_%28magazine%29)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [Guy Haworth](Guy_Haworth "Guy Haworth"), [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**2000**). *[Space-Efficient Indexing of Chess Endgame Tables](http://centaur.reading.ac.uk/4562/)*. [ICGA Journal, Vol. 23, No. 3](ICGA_Journal#23_3 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [David Forthoffer](David_Forthoffer "David Forthoffer"), Lars Rasmussen, [Sito Dekker](Sito_Dekker "Sito Dekker") (**1989**). *A Correction to some KRKB-Database Results*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), et al. (**1988**). *Computer Checks on Human Analyses of the KRKB Endgame*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [John Roycroft and chess by himself](http://theproblemist.org/composers.pl?type=c_ajr&page=1)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [John Nunn](John_Nunn "John Nunn") (**1992**). *Perfect Prose*. [ICCA Journal, Vol. 15, No. 2](ICGA_Journal#15_2 "ICGA Journal")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Secrets of Pawnless Endings - Chess Master](http://www.chessmaster.xyz/pawnless-endings/secrets-of-pawn-less-endings-1.html) by [Carey Steveson](http://www.chessmaster.xyz/about/)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Chess | Culture](http://www.independent.co.uk/arts-entertainment/chess-5380306.html) by [Jon Speelman](https://en.wikipedia.org/wiki/Jon_Speelman), [The Independent](https://en.wikipedia.org/wiki/The_Independent), July 30, 1999
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Practical Chess Engame + Computer Analysis](http://www.chessending.com/psitn038.htm), May 17, 1998
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller"), [Frank Lamprecht](https://en.wikipedia.org/wiki/Frank_Lamprecht) (**2000**). *Secrets of Pawn Endings*. [Everyman Chess](https://en.wikipedia.org/wiki/Everyman_Chess), (**2007**). [re-issue](http://dev.jeremysilman.com/shop/pc/Secrets-of-Pawn-Endings-p3748.htm) by [Gambit Publications](https://en.wikipedia.org/wiki/Gambit_Publications)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> not to confused with [Lars Rasmussen (software developer)](https://en.wikipedia.org/wiki/Lars_Rasmussen_%28software_developer%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [List of All Known Mutual Zugzwangs](http://chess.jaet.org/cgi-bin/mzugs)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Lars Rasmussen (**1991 - 2000**). *Mutual Zugzwang Results*. (various) [EG](https://en.wikipedia.org/wiki/EG_%28magazine%29)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [Guy Haworth](Guy_Haworth "Guy Haworth"), [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**2000**). *[Space-Efficient Indexing of Chess Endgame Tables](http://centaur.reading.ac.uk/4562/)*. [ICGA Journal, Vol. 23, No. 3](ICGA_Journal#23_3 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [David Forthoffer](David_Forthoffer "David Forthoffer"), Lars Rasmussen, [Sito Dekker](Sito_Dekker "Sito Dekker") (**1989**). *A Correction to some KRKB-Database Results*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), et al. (**1988**). *Computer Checks on Human Analyses of the KRKB Endgame*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [John Roycroft and chess by himself](http://theproblemist.org/composers.pl?type=c_ajr&page=1)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [John Nunn](John_Nunn "John Nunn") (**1992**). *Perfect Prose*. [ICCA Journal, Vol. 15, No. 2](ICGA_Journal#15_2 "ICGA Journal")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Secrets of Pawnless Endings - Chess Master](http://www.chessmaster.xyz/pawnless-endings/secrets-of-pawn-less-endings-1.html) by [Carey Steveson](http://www.chessmaster.xyz/about/)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Chess | Culture](http://www.independent.co.uk/arts-entertainment/chess-5380306.html) by [Jon Speelman](https://en.wikipedia.org/wiki/Jon_Speelman), [The Independent](https://en.wikipedia.org/wiki/The_Independent), July 30, 1999
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Practical Chess Engame + Computer Analysis](http://www.chessending.com/psitn038.htm), May 17, 1998
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller"), [Frank Lamprecht](https://en.wikipedia.org/wiki/Frank_Lamprecht) (**2000**). *Secrets of Pawn Endings*. [Everyman Chess](https://en.wikipedia.org/wiki/Everyman_Chess), (**2007**). [re-issue](http://dev.jeremysilman.com/shop/pc/Secrets-of-Pawn-Endings-p3748.htm) by [Gambit Publications](https://en.wikipedia.org/wiki/Gambit_Publications)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -83,10 +83,10 @@ The rare **Concord** ran at 3.6 MHz, the **Concord II**, released in 1985, at 7.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Scisys/Saitek Collection](https://www.flickr.com/photos/10261668@N05/albums/72157600922172552/with/859039420/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Danielsen, Kaare](https://www.schach-computer.info/wiki/index.php/Danielsen,_Kaare) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Companion II](http://www.chesscomputeruk.com/html/chess_companion_ii.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tandy 1650](https://www.schach-computer.info/wiki/index.php/Tandy_1650) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Scisys/Saitek Collection](https://www.flickr.com/photos/10261668@N05/albums/72157600922172552/with/859039420/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Danielsen, Kaare](https://www.schach-computer.info/wiki/index.php/Danielsen,_Kaare) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Companion II](http://www.chesscomputeruk.com/html/chess_companion_ii.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tandy 1650](https://www.schach-computer.info/wiki/index.php/Tandy_1650) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En)
 
 **[Up one level](Engines "Engines")**
 

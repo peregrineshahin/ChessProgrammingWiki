@@ -49,7 +49,7 @@ title: Darmstadt University of Technology
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The Department of Electrical Engineering (left) and Chemistry (right) of the TU Darmstadt, towards the end of the 19th century, [Technische Universität Darmstadt - Wikipedia.de (German)](https://de.wikipedia.org/wiki/Technische_Universit%C3%A4t_Darmstadt)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The Department of Electrical Engineering (left) and Chemistry (right) of the TU Darmstadt, towards the end of the 19th century, [Technische Universität Darmstadt - Wikipedia.de (German)](https://de.wikipedia.org/wiki/Technische_Universit%C3%A4t_Darmstadt)
 
 **[Up one Level](Organizations "Organizations")**
 

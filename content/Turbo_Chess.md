@@ -98,12 +98,12 @@ written in [Turbo Pascal](Pascal#TurboPascal "Pascal") and published as source c
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") (**1985**). *[Turbo GameWorks](http://openlibrary.org/b/OL2753290M/Turbo_GameWorks)*. [Borland International](https://en.wikipedia.org/wiki/Borland)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: origin of Chess from old Turbo Pascal Turbo GameWorks](https://groups.google.com/d/msg/borland.public.delphi.non-technical/vhpzc1kmNF4/FJ9mxPVsAwAJ) by [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen"), [borland.public.delphi.non-technical](https://groups.google.com/forum/#!forum/borland.public.delphi.non-technical), February 29, 2016
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Features are based on the description in the [book](#book)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> The tables are calculated at the beginning of the search using the evaluation function described earlier, [book](#book) pp. 69
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Turbo Chess - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0005457)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") (**1985**). *[Turbo GameWorks](http://openlibrary.org/b/OL2753290M/Turbo_GameWorks)*. [Borland International](https://en.wikipedia.org/wiki/Borland)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: origin of Chess from old Turbo Pascal Turbo GameWorks](https://groups.google.com/d/msg/borland.public.delphi.non-technical/vhpzc1kmNF4/FJ9mxPVsAwAJ) by [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen"), [borland.public.delphi.non-technical](https://groups.google.com/forum/#!forum/borland.public.delphi.non-technical), February 29, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Features are based on the description in the [book](#book)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> The tables are calculated at the beginning of the search using the evaluation function described earlier, [book](#book) pp. 69
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Turbo Chess - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0005457)
 
 **[Up one level](Engines "Engines")**
 

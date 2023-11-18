@@ -71,10 +71,10 @@ a Dutch mathematician and computer scientist, former lecturer at [Utrecht Univer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Leen Ammeraal | LinkedIn](https://www.linkedin.com/in/leen-ammeraal-b97b968/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Leen Ammeraal - Queen](http://home.planet.nl/~ammeraal/chess.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Leen Ammeraal (English)](http://home.planet.nl/~ammeraal/english.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: (Offtopic)](https://www.stmintz.com/ccc/index.php?id=106520) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), April 18, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Leen Ammeraal | LinkedIn](https://www.linkedin.com/in/leen-ammeraal-b97b968/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Leen Ammeraal - Queen](http://home.planet.nl/~ammeraal/chess.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Leen Ammeraal (English)](http://home.planet.nl/~ammeraal/english.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: (Offtopic)](https://www.stmintz.com/ccc/index.php?id=106520) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), April 18, 2000
 
 **[Up one level](People "People")**
 

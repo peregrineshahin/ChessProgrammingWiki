@@ -61,9 +61,9 @@ public class BitBoard { // Position object
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Calculon – Wikipedia.fi](https://fi.wikipedia.org/wiki/Calculon), created by [Matt Groening](https://en.wikipedia.org/wiki/Matt_Groening)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CalculonX · GitHub](https://github.com/BarrySW19/CalculonX)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CalculonX/BitBoard.java at master · BarrySW19/CalculonX · GitHub](https://github.com/BarrySW19/CalculonX/blob/master/src/main/java/barrysw19/calculon/engine/BitBoard.java#L418)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Calculon – Wikipedia.fi](https://fi.wikipedia.org/wiki/Calculon), created by [Matt Groening](https://en.wikipedia.org/wiki/Matt_Groening)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CalculonX · GitHub](https://github.com/BarrySW19/CalculonX)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CalculonX/BitBoard.java at master · BarrySW19/CalculonX · GitHub](https://github.com/BarrySW19/CalculonX/blob/master/src/main/java/barrysw19/calculon/engine/BitBoard.java#L418)
 
 **[Up one Level](Engines "Engines")**
 

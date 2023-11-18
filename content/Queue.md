@@ -175,11 +175,11 @@ The [informal breadth-first algorithm](https://en.wikipedia.org/wiki/Breadth-fir
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Queue (abstract data type) from Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Serial UART, an in depth tutorial](http://www.lammertbies.nl/comm/info/serial-uart.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Technische Spezifikation des 232-Protokolls](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/636e82fa68d45aa1#), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 8, 1997
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Problems](http://www-math.mit.edu/~rstan/chess/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CHESS - Microsoft Research](http://research.microsoft.com/en-us/projects/chess/) a tool for finding and reproducing [Heisenbugs](https://en.wikipedia.org/wiki/Unusual_software_bug) in concurrent programs
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Queue (abstract data type) from Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Serial UART, an in depth tutorial](http://www.lammertbies.nl/comm/info/serial-uart.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Technische Spezifikation des 232-Protokolls](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/636e82fa68d45aa1#), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 8, 1997
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Problems](http://www-math.mit.edu/~rstan/chess/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CHESS - Microsoft Research](http://research.microsoft.com/en-us/projects/chess/) a tool for finding and reproducing [Heisenbugs](https://en.wikipedia.org/wiki/Unusual_software_bug) in concurrent programs
 
 **[Up one Level](Data "Data")**
 

@@ -66,9 +66,9 @@ if (dl < dw && dl < dp ) draw = true;
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> *Implementation note:* In order for this heuristic to work, program must be able to recognize position as a draw even after the stronger side sacrifices a bishop
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: King, rook pawn and wrong bishop endgames](https://www.stmintz.com/ccc/index.php?id=133811) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), October 18, 2000
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> see [game 17.1](http://tcec.chessdom.com/superfinal.php) in [TCEC Season 5 Superfinal](TCEC_Season_5#Superfinal "TCEC Season 5"), [Stockfish](Stockfish "Stockfish") vs. [Komodo](Komodo "Komodo"), November 25, 2013, where Komodo had the knowledge, but Stockfish apparently not
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> *Implementation note:* In order for this heuristic to work, program must be able to recognize position as a draw even after the stronger side sacrifices a bishop
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: King, rook pawn and wrong bishop endgames](https://www.stmintz.com/ccc/index.php?id=133811) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), October 18, 2000
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> see [game 17.1](http://tcec.chessdom.com/superfinal.php) in [TCEC Season 5 Superfinal](TCEC_Season_5#Superfinal "TCEC Season 5"), [Stockfish](Stockfish "Stockfish") vs. [Komodo](Komodo "Komodo"), November 25, 2013, where Komodo had the knowledge, but Stockfish apparently not
 
 **[Up one Level](Endgame "Endgame")**
 

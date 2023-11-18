@@ -24,9 +24,9 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [5.Scisys/Saitek | Flickr - Fotosharing](http://www.flickr.com/photos/10261668@N05/sets/72157600922172552/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Champion Super System IV](http://www.chesscomputeruk.com/html/chess_champion_super_system_iv.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1981**). *MicroChess - Paris Tournament*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), August 1981
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [5.Scisys/Saitek | Flickr - Fotosharing](http://www.flickr.com/photos/10261668@N05/sets/72157600922172552/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Champion Super System IV](http://www.chesscomputeruk.com/html/chess_champion_super_system_iv.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1981**). *MicroChess - Paris Tournament*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), August 1981
 
 **[Up one level](Engines "Engines")**
 

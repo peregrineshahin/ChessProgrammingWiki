@@ -46,13 +46,13 @@ Fafis was convicted a clone of Crafty <a id="cite-note-7" href="#cite-ref-7">[7]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [New fafis 1.0, now written in c/c++ without the frameworks!!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47206) by [Rafael Peña](Rafael_Pe%C3%B1a "Rafael Peña"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 09, 2004
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fafis out of CCT7](https://www.stmintz.com/ccc/index.php?id=411012) by [Rafael Peña](Rafael_Pe%C3%B1a "Rafael Peña"), [CCC](CCC "CCC"), February 12, 2005
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fafis and the virus](https://www.stmintz.com/ccc/index.php?id=427828) by [Michael Diosi](index.php?title=Michael_Diosi&action=edit&redlink=1 "Michael Diosi (page does not exist)"), [CCC](CCC "CCC"), May 23, 2005
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Fafis and the virus](https://www.stmintz.com/ccc/index.php?id=427862) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), May 24, 2005
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [About Fafis...](https://www.stmintz.com/ccc/index.php?id=428436) by [Alexander Schmidt](index.php?title=Alexander_Schmidt&action=edit&redlink=1 "Alexander Schmidt (page does not exist)"), [CCC](CCC "CCC"), May 27, 2005
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Fafis 2.6](https://www.stmintz.com/ccc/index.php?id=480318) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), January 17, 2006
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Clone Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:clone_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [New fafis 1.0, now written in c/c++ without the frameworks!!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47206) by [Rafael Peña](Rafael_Pe%C3%B1a "Rafael Peña"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 09, 2004
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fafis out of CCT7](https://www.stmintz.com/ccc/index.php?id=411012) by [Rafael Peña](Rafael_Pe%C3%B1a "Rafael Peña"), [CCC](CCC "CCC"), February 12, 2005
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fafis and the virus](https://www.stmintz.com/ccc/index.php?id=427828) by [Michael Diosi](index.php?title=Michael_Diosi&action=edit&redlink=1 "Michael Diosi (page does not exist)"), [CCC](CCC "CCC"), May 23, 2005
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Fafis and the virus](https://www.stmintz.com/ccc/index.php?id=427862) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), May 24, 2005
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [About Fafis...](https://www.stmintz.com/ccc/index.php?id=428436) by [Alexander Schmidt](index.php?title=Alexander_Schmidt&action=edit&redlink=1 "Alexander Schmidt (page does not exist)"), [CCC](CCC "CCC"), May 27, 2005
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Fafis 2.6](https://www.stmintz.com/ccc/index.php?id=480318) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), January 17, 2006
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Clone Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:clone_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
 
 **[Up one Level](Engines "Engines")**
 

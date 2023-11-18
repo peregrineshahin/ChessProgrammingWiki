@@ -385,7 +385,7 @@ The same sample as circuit f. i. in [Diode logic](https://en.wikipedia.org/wiki/
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Edward Fredkin](Edward_Fredkin "Edward Fredkin"), [Tommaso Toffoli](https://en.wikipedia.org/wiki/Tommaso_Toffoli) (**1982**). *Conservative logic*. [International Journal of Theoretical Physics](https://en.wikipedia.org/wiki/International_Journal_of_Theoretical_Physics), Vol. 21, [pdf](http://web.archive.org/web/20061017232512/http://www.digitalphilosophy.org/download_documents/ConservativeLogic.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Edward Fredkin](Edward_Fredkin "Edward Fredkin"), [Tommaso Toffoli](https://en.wikipedia.org/wiki/Tommaso_Toffoli) (**1982**). *Conservative logic*. [International Journal of Theoretical Physics](https://en.wikipedia.org/wiki/International_Journal_of_Theoretical_Physics), Vol. 21, [pdf](http://web.archive.org/web/20061017232512/http://www.digitalphilosophy.org/download_documents/ConservativeLogic.pdf)
 
 **[Up one Level](Hardware "Hardware")**
 

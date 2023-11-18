@@ -86,17 +86,17 @@ He has written many popular books on [Assembly](Assembly "Assembly") language, a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr. Maurer's Home Page](https://www2.seas.gwu.edu/~maurer/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Ward Douglas Maurer (**1965**). *On Minimal Decompositions of Group Machines*. Ph.D. thesis, [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley"), advisor [John Rhodes](Mathematician#JRhodes "Mathematician")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [QW'98 -- Speaker Biographies](http://www.qualityweek.com/QW98/qw98.bios.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Ward Douglas Maurer (**1979**). *[Alpha-Beta Pruning](https://archive.org/stream/byte-magazine-1979-11/1979_11_BYTE_04-11_Fun_and_Games#page/n85/mode/2up)*. [BYTE, Vol. 4, No. 11](Byte_Magazine#BYTE411 "Byte Magazine"), pp. 84-96
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Ward Douglas Maurer](https://dblp.uni-trier.de/pid/m/WDMaurer.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Non-abelian group from Wikipedia](https://en.wikipedia.org/wiki/Non-abelian_group)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Macintosh Programmer's Workshop from Wikipedia](https://en.wikipedia.org/wiki/Macintosh_Programmer%27s_Workshop)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Floyd–Hoare logic from Wikipedia](https://en.wikipedia.org/wiki/Hoare_logic)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_Dijkstra) (**1968**). *Go To Statement Considered Harmful*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 11, No. 3, [pdf](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD215.PDF)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Considered harmful from Wikipedia](https://en.wikipedia.org/wiki/Considered_harmful)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Twelve-tone technique from Wikipedia](https://en.wikipedia.org/wiki/Twelve-tone_technique)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr. Maurer's Home Page](https://www2.seas.gwu.edu/~maurer/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Ward Douglas Maurer (**1965**). *On Minimal Decompositions of Group Machines*. Ph.D. thesis, [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley"), advisor [John Rhodes](Mathematician#JRhodes "Mathematician")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [QW'98 -- Speaker Biographies](http://www.qualityweek.com/QW98/qw98.bios.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Ward Douglas Maurer (**1979**). *[Alpha-Beta Pruning](https://archive.org/stream/byte-magazine-1979-11/1979_11_BYTE_04-11_Fun_and_Games#page/n85/mode/2up)*. [BYTE, Vol. 4, No. 11](Byte_Magazine#BYTE411 "Byte Magazine"), pp. 84-96
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Ward Douglas Maurer](https://dblp.uni-trier.de/pid/m/WDMaurer.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Non-abelian group from Wikipedia](https://en.wikipedia.org/wiki/Non-abelian_group)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Macintosh Programmer's Workshop from Wikipedia](https://en.wikipedia.org/wiki/Macintosh_Programmer%27s_Workshop)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Floyd–Hoare logic from Wikipedia](https://en.wikipedia.org/wiki/Hoare_logic)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_Dijkstra) (**1968**). *Go To Statement Considered Harmful*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 11, No. 3, [pdf](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD215.PDF)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Considered harmful from Wikipedia](https://en.wikipedia.org/wiki/Considered_harmful)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Twelve-tone technique from Wikipedia](https://en.wikipedia.org/wiki/Twelve-tone_technique)
 
 **[Up one Level](People "People")**
 

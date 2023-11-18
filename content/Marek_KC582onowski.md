@@ -21,8 +21,8 @@ a Polish software developer and computer chess programmer. He is author of the [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Marek Kłonowski operating [Excelsior](Excelsior "Excelsior") at [PCCC 2003](PCCC_2003 "PCCC 2003"), [II Mistrzostwa Polski Programów Szachowych - Autorzy przy swoich programach](http://mpps.maciej.szmit.info/mpps-2/autorzy/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Polskie programy szachowe](http://lpps.maciej.szmit.info/programy.html) by [Maciej Szmit](Maciej_Szmit "Maciej Szmit")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Marek Kłonowski operating [Excelsior](Excelsior "Excelsior") at [PCCC 2003](PCCC_2003 "PCCC 2003"), [II Mistrzostwa Polski Programów Szachowych - Autorzy przy swoich programach](http://mpps.maciej.szmit.info/mpps-2/autorzy/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Polskie programy szachowe](http://lpps.maciej.szmit.info/programy.html) by [Maciej Szmit](Maciej_Szmit "Maciej Szmit")
 
 **[Up one Level](People "People")**
 

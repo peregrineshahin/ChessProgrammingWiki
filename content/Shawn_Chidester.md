@@ -48,12 +48,12 @@ Senjo simplifies the UCI protocol implementation of engines written in C++, as d
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Shawn Chidester | LinkedIn](https://www.linkedin.com/in/shawn-chidester-62a8b494/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Shawn Chidester | LinkedIn](https://www.linkedin.com/pub/shawn-chidester/94/8b4/62a)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - zd3nik/CACIO: My first chess program (created 1994-ish)](https://github.com/zd3nik/CACIO)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Clunk 1.0 released](http://www.talkchess.com/forum/viewtopic.php?t=58725) by Shawn Chidester, [CCC](CCC "CCC"), December 29, 2015
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Bumblebee 1.0](http://www.talkchess.com/forum/viewtopic.php?t=59182) by Shawn Chidester, [CCC](CCC "CCC"), February 07, 2016
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Senjo C++ UCI Adapter](https://github.com/zd3nik/SenjoUCIAdapter)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Shawn Chidester | LinkedIn](https://www.linkedin.com/in/shawn-chidester-62a8b494/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shawn Chidester | LinkedIn](https://www.linkedin.com/pub/shawn-chidester/94/8b4/62a)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - zd3nik/CACIO: My first chess program (created 1994-ish)](https://github.com/zd3nik/CACIO)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Clunk 1.0 released](http://www.talkchess.com/forum/viewtopic.php?t=58725) by Shawn Chidester, [CCC](CCC "CCC"), December 29, 2015
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Bumblebee 1.0](http://www.talkchess.com/forum/viewtopic.php?t=59182) by Shawn Chidester, [CCC](CCC "CCC"), February 07, 2016
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Senjo C++ UCI Adapter](https://github.com/zd3nik/SenjoUCIAdapter)
 
 **[Up one level](People "People")**
 

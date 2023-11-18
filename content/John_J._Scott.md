@@ -69,12 +69,12 @@ In 1972 I was back in England again and met John Scott, who was doing a PhD, and
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> John J. Scott (**1969**). *Lancaster vs. Mac Hack*. [SIGART](ACM#SIG "ACM"), Vol. 16
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jack Good](Jack_Good "Jack Good") (**1969**). *Analysis of the machine chess game, J. Scott (White), ICL-1900 versus R.D. Greenblatt, PDP-10*. [Machine Intelligence Vol. 4](http://www.doc.ic.ac.uk/~shm/MI/mi4.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess programs: Scott](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/p005.htm#index22) from [Alex Bell](Alex_Bell "Alex Bell") (**1972**). *[Games Playing with Computers](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/overview.htm)*. [Allen & Unwin](https://en.wikipedia.org/wiki/Allen_%26_Unwin), ISBN-13: 978-0080212227
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *[MASTER at IFIPS](http://www.chilton-computing.org.uk/acl/applications/cocoa/p008.htm)*. from [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"), hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory), excerpt from [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *The Machine Plays Chess*. Pergamon Press, ISBN-13: 978-0080212227, from [amazon](http://www.amazon.com/Machine-Plays-Chess-Pergamon/dp/0080212220)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Games Playing with Computers - References](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/references.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Alan Bond. Curriculum Vitae](http://www.exso.com/cvu.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> John J. Scott (**1969**). *Lancaster vs. Mac Hack*. [SIGART](ACM#SIG "ACM"), Vol. 16
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jack Good](Jack_Good "Jack Good") (**1969**). *Analysis of the machine chess game, J. Scott (White), ICL-1900 versus R.D. Greenblatt, PDP-10*. [Machine Intelligence Vol. 4](http://www.doc.ic.ac.uk/~shm/MI/mi4.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess programs: Scott](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/p005.htm#index22) from [Alex Bell](Alex_Bell "Alex Bell") (**1972**). *[Games Playing with Computers](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/overview.htm)*. [Allen & Unwin](https://en.wikipedia.org/wiki/Allen_%26_Unwin), ISBN-13: 978-0080212227
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *[MASTER at IFIPS](http://www.chilton-computing.org.uk/acl/applications/cocoa/p008.htm)*. from [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"), hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory), excerpt from [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *The Machine Plays Chess*. Pergamon Press, ISBN-13: 978-0080212227, from [amazon](http://www.amazon.com/Machine-Plays-Chess-Pergamon/dp/0080212220)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Games Playing with Computers - References](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/references.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Alan Bond. Curriculum Vitae](http://www.exso.com/cvu.html)
 
 **[Up one level](People "People")**
 

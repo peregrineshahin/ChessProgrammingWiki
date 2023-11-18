@@ -141,19 +141,19 @@ fxe6 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Apparition of a naval battle in the air, seen at [Stralsund](https://en.wikipedia.org/wiki/Stralsund) in 1665, author [Erasmus Francisci](https://en.wikipedia.org/wiki/Erasmus_Finx) (1680), [Deutsche Fotothek](https://en.wikipedia.org/wiki/Deutsche_Fotothek) [df\_tg\_0007302](http://www.deutschefotothek.de/documents/obj/88967302), [Category:Mirages](https://commons.wikimedia.org/wiki/Category:Mirages) from [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Mirage chess by Yuri Shpeer & Vladimir Rybinkin](https://www.stmintz.com/ccc/index.php?id=279436) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), January 25, 2003
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re;Iterative Deepening](https://groups.google.com/d/msg/rec.games.chess.computer/24sL-_prZzw/7vEW3Fe6v9sJ) by [Tom King](Tom_King "Tom King"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 27, 1997
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [New Mirage](https://www.stmintz.com/ccc/index.php?id=88342) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), January 13, 2000
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Centaur's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=57)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chess Assistant](http://chessok.com/?page_id=19894) - [ChessOK](ChessOK "ChessOK")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Заставить работать машину клиента! Конференция](http://forum.ixbt.com/topic.cgi?id=26:39751-20#308) by [Vladimir Rybinkin](Vladimir_Rybinkin "Vladimir Rybinkin"), [Конференция iXBT.com](http://forum.ixbt.com/), September 01, 2009
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [DEBYUT-M](http://www.hiarcs.net/forums/viewtopic.php?t=7967) by IvenGO, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), July 11, 2016
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [QMW computer chess](http://groups.google.com/group/rec.games.chess/browse_frm/thread/51267e26536fa912) by [Don Beal](Don_Beal "Don Beal"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [les oldies](http://lechiquier-orseen.pagesperso-orange.fr/DOS_Oldies/les_oldies.html) from [Page d'acceuil du club echecs de bures sur yvette](http://lechiquier-orseen.pagesperso-orange.fr/index.html) by [Nicolas Normand](index.php?title=Nicolas_Normand&action=edit&redlink=1 "Nicolas Normand (page does not exist)")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Munich 1993 - Chess - Round 7 - Game 11 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=57&round=7&id=11)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> Image capture from the [Aegon 1997 Video](Aegon_1997#Video "Aegon 1997") @ 18:53
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> Image capture from the [Aegon 1997 Video](Aegon_1997#Video "Aegon 1997") @ 22:02
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Apparition of a naval battle in the air, seen at [Stralsund](https://en.wikipedia.org/wiki/Stralsund) in 1665, author [Erasmus Francisci](https://en.wikipedia.org/wiki/Erasmus_Finx) (1680), [Deutsche Fotothek](https://en.wikipedia.org/wiki/Deutsche_Fotothek) [df\_tg\_0007302](http://www.deutschefotothek.de/documents/obj/88967302), [Category:Mirages](https://commons.wikimedia.org/wiki/Category:Mirages) from [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Mirage chess by Yuri Shpeer & Vladimir Rybinkin](https://www.stmintz.com/ccc/index.php?id=279436) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), January 25, 2003
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re;Iterative Deepening](https://groups.google.com/d/msg/rec.games.chess.computer/24sL-_prZzw/7vEW3Fe6v9sJ) by [Tom King](Tom_King "Tom King"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 27, 1997
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [New Mirage](https://www.stmintz.com/ccc/index.php?id=88342) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), January 13, 2000
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Centaur's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=57)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chess Assistant](http://chessok.com/?page_id=19894) - [ChessOK](ChessOK "ChessOK")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Заставить работать машину клиента! Конференция](http://forum.ixbt.com/topic.cgi?id=26:39751-20#308) by [Vladimir Rybinkin](Vladimir_Rybinkin "Vladimir Rybinkin"), [Конференция iXBT.com](http://forum.ixbt.com/), September 01, 2009
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [DEBYUT-M](http://www.hiarcs.net/forums/viewtopic.php?t=7967) by IvenGO, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), July 11, 2016
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [QMW computer chess](http://groups.google.com/group/rec.games.chess/browse_frm/thread/51267e26536fa912) by [Don Beal](Don_Beal "Don Beal"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [les oldies](http://lechiquier-orseen.pagesperso-orange.fr/DOS_Oldies/les_oldies.html) from [Page d'acceuil du club echecs de bures sur yvette](http://lechiquier-orseen.pagesperso-orange.fr/index.html) by [Nicolas Normand](index.php?title=Nicolas_Normand&action=edit&redlink=1 "Nicolas Normand (page does not exist)")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Munich 1993 - Chess - Round 7 - Game 11 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=57&round=7&id=11)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> Image capture from the [Aegon 1997 Video](Aegon_1997#Video "Aegon 1997") @ 18:53
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> Image capture from the [Aegon 1997 Video](Aegon_1997#Video "Aegon 1997") @ 22:02
 
 **[Up one level](Engines "Engines")**
 

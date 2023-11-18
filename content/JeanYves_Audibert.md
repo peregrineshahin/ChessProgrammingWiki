@@ -37,12 +37,12 @@ a French statistician, computer scientist, and lecturer at [École Normale Supé
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jean-Yves Audibert - Homepage](http://certis.enpc.fr/~audibert/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jean-Yves Audibert - Teaching](http://certis.enpc.fr/~audibert/teaching.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sequential Prediction](http://robowiki.net/wiki/Sequential_Prediction) from [RoboWiki](http://robowiki.net/wiki/Home)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MoGo: a software for the Game of Go](http://www.lri.fr/~teytaud/mogo.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Jean-Yves Audibert - Publications](http://certis.enpc.fr/~audibert/publis.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Jean-Yves Audibert](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Audibert:Jean=Yves.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jean-Yves Audibert - Homepage](http://certis.enpc.fr/~audibert/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jean-Yves Audibert - Teaching](http://certis.enpc.fr/~audibert/teaching.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sequential Prediction](http://robowiki.net/wiki/Sequential_Prediction) from [RoboWiki](http://robowiki.net/wiki/Home)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MoGo: a software for the Game of Go](http://www.lri.fr/~teytaud/mogo.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jean-Yves Audibert - Publications](http://certis.enpc.fr/~audibert/publis.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Jean-Yves Audibert](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Audibert:Jean=Yves.html)
 
 **[Up one level](People "People")**
 

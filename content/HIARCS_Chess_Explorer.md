@@ -45,9 +45,9 @@ Mac Chess Explorer <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [PC Chess Explorer - World class PC chess database and chess playing program](http://www.hiarcs.com/pc-chess-explorer.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mac Chess Explorer - World class Mac chess database and chess playing program](http://www.hiarcs.com/mac-chess-explorer.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hiarcs Chess Explorer for Mac and PC - Quick tour videos](http://hiarcs.net/forums/viewtopic.php?t=5178) by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), [HIARCS Customer Support & Announcements Forum](Computer_Chess_Forums "Computer Chess Forums"), September 28, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [PC Chess Explorer - World class PC chess database and chess playing program](http://www.hiarcs.com/pc-chess-explorer.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mac Chess Explorer - World class Mac chess database and chess playing program](http://www.hiarcs.com/mac-chess-explorer.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hiarcs Chess Explorer for Mac and PC - Quick tour videos](http://hiarcs.net/forums/viewtopic.php?t=5178) by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), [HIARCS Customer Support & Announcements Forum](Computer_Chess_Forums "Computer Chess Forums"), September 28, 2012
 
 **[Up one Level](GUI "GUI")**
 

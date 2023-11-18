@@ -42,23 +42,23 @@ In collaboration with [Albrecht Heeffer](Albrecht_Heeffer "Albrecht Heeffer"), H
 
 ## 6R1/P2k4/r7/5N1P/r7/p7/7K/8 w - - References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hans Secelle - LinkedIn](https://www.linkedin.com/in/hans-secelle-299622b/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computerschaakbladen vanaf oktober 2004](http://www.csvnsupplementsite.nl/Computerschaakblad.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Some thoughts on computer Shogi](http://www.shogi.net/shogi-l/Archive/2007/Njan16-00.txt) by Hans Secelle, January 16, 2007
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Human Power of Chess Classic](http://www.chesstigers.de/ccm9_index_news.php?id=1237&rubrik=6&lang=1&kat=0)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Ein Mal, zwei Mal, drei Mal, Rybka!](http://www.chesstigers.de/ccm9_index_news.php?id=1794&rubrik=6&lang=1&kat=6) (German)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [1st International CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chess960 rules in Mainz!](http://www.chesstigers.de/ccm9_index_news.php?id=1772&rubrik=6&lang=1&kat=8)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: Bionic Vs Crafty Debate: some data required](https://www.stmintz.com/ccc/index.php?id=40771) by [Albrecht Heeffer](Albrecht_Heeffer "Albrecht Heeffer"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), January 25, 1999
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Re: POOR BOB HYATT](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/f6b1901c0aa05a94#) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 21, 1999
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Crafty implications ...](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/ed89415506592e02#) by [Chris Whittington](Chris_Whittington "Chris Whittington"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 4, 1999
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Bionic vs Crafty, once again](https://www.stmintz.com/ccc/index.php?id=40574) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), January 23, 1999
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Re: Dutch CCC - Arthur on 300MHz G3 2nd weekend](https://www.stmintz.com/ccc/index.php?id=34321) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), November 29, 1998
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Chess program similarity experiment](https://www.stmintz.com/ccc/index.php?id=40708) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), January 24, 1999
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Re: Bionic Vs Crafty Debate: some data required](https://www.stmintz.com/ccc/index.php?id=40771) by [Albrecht Heeffer](Albrecht_Heeffer "Albrecht Heeffer"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), January 25, 1999
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Some news about H. Secelle (author of Bionic)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=30320) by [Johan Havegheer](Johan_Havegheer "Johan Havegheer"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 08, 1999
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Re: Whatever happened to crafty clone Bionic](https://www.stmintz.com/ccc/index.php?id=281885) by [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), February 05, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hans Secelle - LinkedIn](https://www.linkedin.com/in/hans-secelle-299622b/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computerschaakbladen vanaf oktober 2004](http://www.csvnsupplementsite.nl/Computerschaakblad.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Some thoughts on computer Shogi](http://www.shogi.net/shogi-l/Archive/2007/Njan16-00.txt) by Hans Secelle, January 16, 2007
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Human Power of Chess Classic](http://www.chesstigers.de/ccm9_index_news.php?id=1237&rubrik=6&lang=1&kat=0)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Ein Mal, zwei Mal, drei Mal, Rybka!](http://www.chesstigers.de/ccm9_index_news.php?id=1794&rubrik=6&lang=1&kat=6) (German)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [1st International CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chess960 rules in Mainz!](http://www.chesstigers.de/ccm9_index_news.php?id=1772&rubrik=6&lang=1&kat=8)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: Bionic Vs Crafty Debate: some data required](https://www.stmintz.com/ccc/index.php?id=40771) by [Albrecht Heeffer](Albrecht_Heeffer "Albrecht Heeffer"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), January 25, 1999
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: POOR BOB HYATT](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/f6b1901c0aa05a94#) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 21, 1999
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Crafty implications ...](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/ed89415506592e02#) by [Chris Whittington](Chris_Whittington "Chris Whittington"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 4, 1999
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Bionic vs Crafty, once again](https://www.stmintz.com/ccc/index.php?id=40574) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), January 23, 1999
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Re: Dutch CCC - Arthur on 300MHz G3 2nd weekend](https://www.stmintz.com/ccc/index.php?id=34321) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), November 29, 1998
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Chess program similarity experiment](https://www.stmintz.com/ccc/index.php?id=40708) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), January 24, 1999
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Re: Bionic Vs Crafty Debate: some data required](https://www.stmintz.com/ccc/index.php?id=40771) by [Albrecht Heeffer](Albrecht_Heeffer "Albrecht Heeffer"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), January 25, 1999
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Some news about H. Secelle (author of Bionic)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=30320) by [Johan Havegheer](Johan_Havegheer "Johan Havegheer"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 08, 1999
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Re: Whatever happened to crafty clone Bionic](https://www.stmintz.com/ccc/index.php?id=281885) by [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), February 05, 2003
 
 **[Up one level](People "People")**
 

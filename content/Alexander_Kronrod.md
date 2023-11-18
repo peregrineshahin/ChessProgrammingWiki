@@ -84,17 +84,17 @@ Alexander Kronrod, a Russian AI researcher, said '[Chess](Chess "Chess") is the 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alexander Kronrod from Wikipedia](https://en.wikipedia.org/wiki/Alexander_Kronrod)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Image from [Evgenii Landis](Mathematician#Landis "Mathematician"), [Isaak Yaglom](Mathematician#Yaglom "Mathematician") (**1987**). *Remembering A.S. Kronrod*. (**2002**). Translation by [Viola Brudno](http://www.translatorscafe.com/cafe/member16949.htm), Edited by [Walter Gautschi](Mathematician#WaGautschi "Mathematician"), [ps](https://www.cs.purdue.edu/homes/wxg/Kronrod.ps)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alexander Kronrod from Wikiquote](https://en.wikiquote.org/wiki/Alexander_Kronrod)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Evgenii Landis](Mathematician#Landis "Mathematician"), [Isaak Yaglom](Mathematician#Yaglom "Mathematician") (**1987**). *Remembering A.S. Kronrod*. (**2002**). Translation by [Viola Brudno](http://www.translatorscafe.com/cafe/member16949.htm), Edited by [Walter Gautschi](Mathematician#WaGautschi "Mathematician"), [ps](https://www.cs.purdue.edu/homes/wxg/Kronrod.ps)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Биография А.С. Кронрода](http://vikont.50webs.com/art_kronrod.html) (Biography AS Kronrod) by Alexander Yershov
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Boris Polyak. Memories.](https://7i.7iskusstv.com/y2020/nomer7/bpoljak/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Michael Brudno](http://www.cs.toronto.edu/~brudno/) (**2000**). *Competitions, Controversies, and Computer Chess*, [pdf](http://www.cs.toronto.edu/%7Ebrudno/essays/cchess.pdf)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [John McCarthy](John_McCarthy "John McCarthy") (**1989**). *The Fruitfly on the Fly*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [John McCarthy](John_McCarthy "John McCarthy") (**1990**). *Chess as the Drosophila of AI*. [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition"), pp. 227-237
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Kronrod Aleksandr Semenovich](http://www.mathnet.ru/php/person.phtml?personid=24862&option_lang=eng)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Gauss–Kronrod quadrature formula - Wikipedia](https://en.wikipedia.org/wiki/Gauss%E2%80%93Kronrod_quadrature_formula)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alexander Kronrod from Wikipedia](https://en.wikipedia.org/wiki/Alexander_Kronrod)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Image from [Evgenii Landis](Mathematician#Landis "Mathematician"), [Isaak Yaglom](Mathematician#Yaglom "Mathematician") (**1987**). *Remembering A.S. Kronrod*. (**2002**). Translation by [Viola Brudno](http://www.translatorscafe.com/cafe/member16949.htm), Edited by [Walter Gautschi](Mathematician#WaGautschi "Mathematician"), [ps](https://www.cs.purdue.edu/homes/wxg/Kronrod.ps)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alexander Kronrod from Wikiquote](https://en.wikiquote.org/wiki/Alexander_Kronrod)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Evgenii Landis](Mathematician#Landis "Mathematician"), [Isaak Yaglom](Mathematician#Yaglom "Mathematician") (**1987**). *Remembering A.S. Kronrod*. (**2002**). Translation by [Viola Brudno](http://www.translatorscafe.com/cafe/member16949.htm), Edited by [Walter Gautschi](Mathematician#WaGautschi "Mathematician"), [ps](https://www.cs.purdue.edu/homes/wxg/Kronrod.ps)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Биография А.С. Кронрода](http://vikont.50webs.com/art_kronrod.html) (Biography AS Kronrod) by Alexander Yershov
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Boris Polyak. Memories.](https://7i.7iskusstv.com/y2020/nomer7/bpoljak/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Michael Brudno](http://www.cs.toronto.edu/~brudno/) (**2000**). *Competitions, Controversies, and Computer Chess*, [pdf](http://www.cs.toronto.edu/%7Ebrudno/essays/cchess.pdf)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [John McCarthy](John_McCarthy "John McCarthy") (**1989**). *The Fruitfly on the Fly*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [John McCarthy](John_McCarthy "John McCarthy") (**1990**). *Chess as the Drosophila of AI*. [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition"), pp. 227-237
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Kronrod Aleksandr Semenovich](http://www.mathnet.ru/php/person.phtml?personid=24862&option_lang=eng)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Gauss–Kronrod quadrature formula - Wikipedia](https://en.wikipedia.org/wiki/Gauss%E2%80%93Kronrod_quadrature_formula)
 
 **[Up one level](People "People")**
 

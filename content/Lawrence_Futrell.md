@@ -22,8 +22,8 @@ As graduate student at [Georgia Institute of Technology](Georgia_Institute_of_Te
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Larry Futrell | LinkedIn](https://www.linkedin.com/in/larryfutrell)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Making A Machine "Think"](https://news.google.com/newspapers?nid=1241&dat=19731228&id=-W9TAAAAIBAJ&sjid=64UDAAAAIBAJ&pg=3200,6816037), [Daily News](https://en.wikipedia.org/wiki/Daily_News_%28Kingsport%29) - December 28, 1973, [Google News Archive](https://en.wikipedia.org/wiki/Google_News_Archive)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Larry Futrell | LinkedIn](https://www.linkedin.com/in/larryfutrell)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Making A Machine "Think"](https://news.google.com/newspapers?nid=1241&dat=19731228&id=-W9TAAAAIBAJ&sjid=64UDAAAAIBAJ&pg=3200,6816037), [Daily News](https://en.wikipedia.org/wiki/Daily_News_%28Kingsport%29) - December 28, 1973, [Google News Archive](https://en.wikipedia.org/wiki/Google_News_Archive)
 
 **[Up one level](People "People")**
 

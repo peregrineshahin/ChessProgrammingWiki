@@ -89,20 +89,20 @@ a German computer scientist, [AI](Artificial_Intelligence "Artificial Intelligen
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Logistello - Murakami About the players](https://skatgame.net/mburo/players.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Logistello's Homepage](https://skatgame.net/mburo/log.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Michael Buro (**1994**). *Techniken für die Bewertung von Spielsituationen anhand von Beispielen.* Ph.D. Thesis. [Paderborn University](Paderborn_University "Paderborn University")(German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Michael Buro (**1997**). *The Othello match of the year: Takeshi Murakami vs Logistello*. [ICCA Journal, Vol 20, No. 3](ICGA_Journal#20_3 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Othello match of the year](https://skatgame.net/mburo/event.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Othello man machine match](https://groups.google.com/d/msg/rec.games.chess.computer/edCIIJdxSHY/31ioIUVhBD8J) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 6, 1997
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Michael Buro (**1998**). *[From Simple Features to Sophisticated Evaluation Functions](http://link.springer.com/chapter/10.1007/3-540-48957-6_8)*. [CG 1998](CG_1998 "CG 1998"), [pdf](https://skatgame.net/mburo/ps/glem.pdf)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Michael Buro's Publication List](https://skatgame.net/mburo/publications.html)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [dblp: Michael Buro](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Buro:Michael.html)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Busy beaver from Wikipedia](https://en.wikipedia.org/wiki/Busy_beaver)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Busy Beaver](http://www.drb.insel.de/~heiner/BB/index.html) by [Heiner Marxen](Heiner_Marxen "Heiner Marxen")
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Anybody tried Logistello's book learning for chess?](http://www.talkchess.com/forum/viewtopic.php?t=50680) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), December 29, 2013
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Re: Move ordering for cheapest refutation](http://www.talkchess.com/forum/viewtopic.php?t=57228&start=6) by [Mikko Aarnos](Mikko_Aarnos "Mikko Aarnos"), [CCC](CCC "CCC"), August 10, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Logistello - Murakami About the players](https://skatgame.net/mburo/players.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Logistello's Homepage](https://skatgame.net/mburo/log.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Michael Buro (**1994**). *Techniken für die Bewertung von Spielsituationen anhand von Beispielen.* Ph.D. Thesis. [Paderborn University](Paderborn_University "Paderborn University")(German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Michael Buro (**1997**). *The Othello match of the year: Takeshi Murakami vs Logistello*. [ICCA Journal, Vol 20, No. 3](ICGA_Journal#20_3 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Othello match of the year](https://skatgame.net/mburo/event.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Othello man machine match](https://groups.google.com/d/msg/rec.games.chess.computer/edCIIJdxSHY/31ioIUVhBD8J) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 6, 1997
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Michael Buro (**1998**). *[From Simple Features to Sophisticated Evaluation Functions](http://link.springer.com/chapter/10.1007/3-540-48957-6_8)*. [CG 1998](CG_1998 "CG 1998"), [pdf](https://skatgame.net/mburo/ps/glem.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Michael Buro's Publication List](https://skatgame.net/mburo/publications.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Michael Buro](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Buro:Michael.html)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Busy beaver from Wikipedia](https://en.wikipedia.org/wiki/Busy_beaver)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Busy Beaver](http://www.drb.insel.de/~heiner/BB/index.html) by [Heiner Marxen](Heiner_Marxen "Heiner Marxen")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Anybody tried Logistello's book learning for chess?](http://www.talkchess.com/forum/viewtopic.php?t=50680) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), December 29, 2013
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Re: Move ordering for cheapest refutation](http://www.talkchess.com/forum/viewtopic.php?t=57228&start=6) by [Mikko Aarnos](Mikko_Aarnos "Mikko Aarnos"), [CCC](CCC "CCC"), August 10, 2015
 
 **[Up one level](People "People")**
 

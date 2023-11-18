@@ -49,9 +49,9 @@ and [evaluation](Evaluation "Evaluation").
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The trajectories that enabled [Voyager spacecraft](https://en.wikipedia.org/wiki/Voyager_program) to visit the [outer planets](https://en.wikipedia.org/wiki/Solar_System#Outer_Solar_System) and achieve velocity to escape our [solar system](https://en.wikipedia.org/wiki/Solar_System), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dr. Gabriele Müller](https://web.archive.org/web/20180713102955/http://chess.fsv.de/Summer98/descript.htm#Dr.%20Gabriele%20M%C3%BCller) from [Summer98-Tournament](https://web.archive.org/web/20180713102955/http://chess.fsv.de/Summer98/descript.htm) by [Torsten Schoop](index.php?title=Torsten_Schoop&action=edit&redlink=1 "Torsten Schoop (page does not exist)") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: On the Voyager Issue, briefly -- to Bob Hyatt](https://www.stmintz.com/ccc/index.php?id=43498) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), February 17, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The trajectories that enabled [Voyager spacecraft](https://en.wikipedia.org/wiki/Voyager_program) to visit the [outer planets](https://en.wikipedia.org/wiki/Solar_System#Outer_Solar_System) and achieve velocity to escape our [solar system](https://en.wikipedia.org/wiki/Solar_System), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dr. Gabriele Müller](https://web.archive.org/web/20180713102955/http://chess.fsv.de/Summer98/descript.htm#Dr.%20Gabriele%20M%C3%BCller) from [Summer98-Tournament](https://web.archive.org/web/20180713102955/http://chess.fsv.de/Summer98/descript.htm) by [Torsten Schoop](index.php?title=Torsten_Schoop&action=edit&redlink=1 "Torsten Schoop (page does not exist)") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: On the Voyager Issue, briefly -- to Bob Hyatt](https://www.stmintz.com/ccc/index.php?id=43498) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), February 17, 1999
 
 **[Up one level](Engines "Engines")**
 

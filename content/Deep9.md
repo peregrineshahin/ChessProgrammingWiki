@@ -58,11 +58,11 @@ Bxe7 48.Rxe7 Rd3 49.Kc4 Rxh3 0-1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [First one on the left...](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=41748#p159370) by S. Voigt, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 14, 2003
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CSS-Online-Masters 2002/2003 Teilnehmer & Spielgruppen & Modus](https://lchristian.beepworld.de/teilnehmer.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Paderborn: where did Deep9 go?](https://www.stmintz.com/ccc/index.php?id=285372) by [Denis Grafen](Denis_Grafen "Denis Grafen"), [CCC](CCC "CCC"), February 19, 2003
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Information](https://www.stmintz.com/ccc/index.php?id=289424) by [Denis Grafen](Denis_Grafen "Denis Grafen"), [CCC](CCC "CCC"), March 15, 2003
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Online-Masters: Junior starts with 3:0, Fritz8 - Deep9 0:1 !](https://www.stmintz.com/ccc/index.php?id=269361) by CLiebert, [CCC](CCC "CCC"), December 07, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [First one on the left...](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=41748#p159370) by S. Voigt, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 14, 2003
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CSS-Online-Masters 2002/2003 Teilnehmer & Spielgruppen & Modus](https://lchristian.beepworld.de/teilnehmer.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Paderborn: where did Deep9 go?](https://www.stmintz.com/ccc/index.php?id=285372) by [Denis Grafen](Denis_Grafen "Denis Grafen"), [CCC](CCC "CCC"), February 19, 2003
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Information](https://www.stmintz.com/ccc/index.php?id=289424) by [Denis Grafen](Denis_Grafen "Denis Grafen"), [CCC](CCC "CCC"), March 15, 2003
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Online-Masters: Junior starts with 3:0, Fritz8 - Deep9 0:1 !](https://www.stmintz.com/ccc/index.php?id=269361) by CLiebert, [CCC](CCC "CCC"), December 07, 2002
 
 **[Up one Level](Engines "Engines")**
 

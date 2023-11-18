@@ -20,11 +20,11 @@ In the late 80s, a group of MS developers including Norris believed that, in ord
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Blogger: David Norris](https://www.blogger.com/profile/18298961984549854316)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bogus Software](http://www.exmsft.com/~hanss/pranks.htm#bogus)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Download Taipei 3.10](http://www.download-central.ws/Win16/Games/T/Taipei/3.10/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Download Taipei 5.00](http://www.download-central.ws/Win16/Games/T/Taipei/5.00/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Download WinChess 1.01](http://www.download-central.ws/Win16/Games/W/WinChess/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Blogger: David Norris](https://www.blogger.com/profile/18298961984549854316)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bogus Software](http://www.exmsft.com/~hanss/pranks.htm#bogus)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Download Taipei 3.10](http://www.download-central.ws/Win16/Games/T/Taipei/3.10/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Download Taipei 5.00](http://www.download-central.ws/Win16/Games/T/Taipei/5.00/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Download WinChess 1.01](http://www.download-central.ws/Win16/Games/W/WinChess/)
 
 **[Up one level](People "People")**
 

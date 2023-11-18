@@ -36,9 +36,9 @@ the first Polish chess program developed from 1992 to 1994 by [Adam Kujawski](Ad
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Adam Kujawski](Adam_Kujawski "Adam Kujawski") (**1994**). *Programowanie gry w szachy*. Masters thesis, [University of Warsaw](University_of_Warsaw "University of Warsaw") (Polish)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tony Scherzer](Tony_Scherzer "Tony Scherzer"), [Linda Scherzer](Linda_Scherzer "Linda Scherzer"), [Dean Tjaden](index.php?title=Dean_Tjaden&action=edit&redlink=1 "Dean Tjaden (page does not exist)") (**1991**). *Learning in Bebe.* [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [I Mistrzostwa Polski Programów Szachowych - Partie (PGN)](http://mpps.maciej.szmit.info/mpps-1/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Adam Kujawski](Adam_Kujawski "Adam Kujawski") (**1994**). *Programowanie gry w szachy*. Masters thesis, [University of Warsaw](University_of_Warsaw "University of Warsaw") (Polish)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tony Scherzer](Tony_Scherzer "Tony Scherzer"), [Linda Scherzer](Linda_Scherzer "Linda Scherzer"), [Dean Tjaden](index.php?title=Dean_Tjaden&action=edit&redlink=1 "Dean Tjaden (page does not exist)") (**1991**). *Learning in Bebe.* [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [I Mistrzostwa Polski Programów Szachowych - Partie (PGN)](http://mpps.maciej.szmit.info/mpps-1/)
 
 **[Up one Level](Engines "Engines")**
 

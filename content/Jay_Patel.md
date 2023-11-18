@@ -25,8 +25,8 @@ While affiliated with [Interplay](index.php?title=Interplay&action=edit&redlink=
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jay Patel - LinkedIn](https://www.linkedin.com/in/jay-patel-408673/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jay Patel Video Game Credits and Biography](https://www.mobygames.com/developer/sheet/view/developerId,8786/) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jay Patel - LinkedIn](https://www.linkedin.com/in/jay-patel-408673/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jay Patel Video Game Credits and Biography](https://www.mobygames.com/developer/sheet/view/developerId,8786/) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
 
 **[Up one level](People "People")**
 

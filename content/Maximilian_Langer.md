@@ -24,8 +24,8 @@ In his 2021 B.Sc. thesis, he elaborates on [supervised](Supervised_Learning "Sup
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  Maximilian Langer (**2021**). *Evaluation of Monte-Carlo Tree Search for Xiangqi*. B.Sc. thesis, [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [TU Darmstadt | Johannes Czech | Supervised Theses](https://www.ml.informatik.tu-darmstadt.de/people/jczech/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  Maximilian Langer (**2021**). *Evaluation of Monte-Carlo Tree Search for Xiangqi*. B.Sc. thesis, [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TU Darmstadt | Johannes Czech | Supervised Theses](https://www.ml.informatik.tu-darmstadt.de/people/jczech/)
 
 **[Up one level](People "People")**
 

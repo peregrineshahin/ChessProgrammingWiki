@@ -58,13 +58,13 @@ a German computer scientist, professional computer chess programmer, and author 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Self-photographed, 2008, [Stefan Meyer-Kahlen from Wikipedia](https://en.wikipedia.org/wiki/Stefan_Meyer-Kahlen)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Shredder Computer Chess](http://www.shredderchess.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [UCI (=universal chess interface)](https://www.stmintz.com/ccc/index.php?id=141612) by Stefan Meyer-Kahlen, [CCC](CCC "CCC"), November 28, 2000
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ein Besuch in Paderborn 1998](http://www.thorstenczub.de/Paderborn.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Stefan Meyer-Kahlen interviewed by [Axel Fritz](http://www.karlonline.org/302_4.htm) ([Schach.com](http://www.schach.com/)), [Chess Classic Mainz 2001](http://de.wikipedia.org/wiki/Chess_Classic), Photographer [Gerhard Hund](Gerhard_Hund "Gerhard Hund")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [K-Best Visualisations](http://www.althofer.de/k-best-visualisations.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Let's talk about chess ... by Eric with Stefan-Meyer Kahlen!](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75968) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), December 02, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Self-photographed, 2008, [Stefan Meyer-Kahlen from Wikipedia](https://en.wikipedia.org/wiki/Stefan_Meyer-Kahlen)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shredder Computer Chess](http://www.shredderchess.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [UCI (=universal chess interface)](https://www.stmintz.com/ccc/index.php?id=141612) by Stefan Meyer-Kahlen, [CCC](CCC "CCC"), November 28, 2000
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ein Besuch in Paderborn 1998](http://www.thorstenczub.de/Paderborn.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Stefan Meyer-Kahlen interviewed by [Axel Fritz](http://www.karlonline.org/302_4.htm) ([Schach.com](http://www.schach.com/)), [Chess Classic Mainz 2001](http://de.wikipedia.org/wiki/Chess_Classic), Photographer [Gerhard Hund](Gerhard_Hund "Gerhard Hund")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [K-Best Visualisations](http://www.althofer.de/k-best-visualisations.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Let's talk about chess ... by Eric with Stefan-Meyer Kahlen!](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75968) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), December 02, 2020
 
 **[Up one level](People "People")**
 

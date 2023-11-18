@@ -53,11 +53,11 @@ In order to avoid possibly [explosive growth](Search_Explosion "Search Explosion
 
 ## References
 
-1.  <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Deep Search Extension](https://www.stmintz.com/ccc/index.php?id=14327) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [CCC](CCC "CCC"), January 19, 1998
-2.  <a id="cite-ref-2" href="#cite-note-2">[1]</a> [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") (**1990**). _A Statistical Study of Selective Min-Max Search in Computer Chess_. Doctoral Thesis. UMI Order Number: AAI9111467, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-3.  <a id="cite-ref-3" href="#cite-note-3">[1]</a> [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") (**1991**). _Extension Heuristics_. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 14, No. 2, pp. 47-65
-4.  <a id="cite-ref-4" href="#cite-note-4">[1]</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1993**). _Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs._ [ICCA Journal](ICGA_Journal "ICGA Journal"), [Vol. 16, No. 3](http://people.csail.mit.edu/heinz/iccaj_db/node4.html), pp. 137-143
-5.  <a id="cite-ref-5" href="#cite-note-5">[1]</a> [Re: Deep Search Extension](https://www.stmintz.com/ccc/index.php?id=14492) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [CCC](CCC "CCC"), January 22, 1998
-6.  <a id="cite-ref-6" href="#cite-note-6">[1]</a> _[Extension Heuristics](http://people.csail.mit.edu/heinz/dt/node11.html)_ from [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1997**). _[How DarkThought Plays Chess](http://people.csail.mit.edu/heinz/dt/node2.html)._ [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 20, No. 3, pp. 166-176
+1.  <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Deep Search Extension](https://www.stmintz.com/ccc/index.php?id=14327) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [CCC](CCC "CCC"), January 19, 1998
+2.  <a id="cite-ref-2" href="#cite-note-2">↑</a> [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") (**1990**). _A Statistical Study of Selective Min-Max Search in Computer Chess_. Doctoral Thesis. UMI Order Number: AAI9111467, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
+3.  <a id="cite-ref-3" href="#cite-note-3">↑</a> [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") (**1991**). _Extension Heuristics_. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 14, No. 2, pp. 47-65
+4.  <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1993**). _Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs._ [ICCA Journal](ICGA_Journal "ICGA Journal"), [Vol. 16, No. 3](http://people.csail.mit.edu/heinz/iccaj_db/node4.html), pp. 137-143
+5.  <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Deep Search Extension](https://www.stmintz.com/ccc/index.php?id=14492) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [CCC](CCC "CCC"), January 22, 1998
+6.  <a id="cite-ref-6" href="#cite-note-6">↑</a> _[Extension Heuristics](http://people.csail.mit.edu/heinz/dt/node11.html)_ from [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1997**). _[How DarkThought Plays Chess](http://people.csail.mit.edu/heinz/dt/node2.html)._ [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 20, No. 3, pp. 166-176
 
 **[Up one Level](Extensions "Extensions")**

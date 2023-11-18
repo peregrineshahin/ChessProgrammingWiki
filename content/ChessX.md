@@ -66,10 +66,10 @@ ChessX has an abstract *Database* C++ class, providing a common interface with m
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ChessX download | SourceForge.net](https://sourceforge.net/projects/chessx/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Scid, ChessDB and ChessX - Chess Teacher Lessons](http://www.chessteacherlessons.com/scid-chessdb-and-chessx/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Development | ChessX](http://chessx.sourceforge.net/node/7)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ChessX | Free Games software downloads at SourceForge.net](https://sourceforge.net/projects/chessx/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ChessX download | SourceForge.net](https://sourceforge.net/projects/chessx/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Scid, ChessDB and ChessX - Chess Teacher Lessons](http://www.chessteacherlessons.com/scid-chessdb-and-chessx/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Development | ChessX](http://chessx.sourceforge.net/node/7)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ChessX | Free Games software downloads at SourceForge.net](https://sourceforge.net/projects/chessx/)
 
 **[Up one Level](Databases "Databases")**
 

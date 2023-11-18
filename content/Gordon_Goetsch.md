@@ -41,11 +41,11 @@ Gordon Goetsch wrote most of the system software that makes possible interfacing
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gordon Goetsch | LinkedIn](https://www.linkedin.com/pub/gordon-goetsch/27/81/22)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Gordon Goetsch (**1990**). *Maximization of Mutual Information in a Context Sensitive Neural Network*. Ph.D. thesis
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Gordon Goetsch, [Murray Campbell](Murray_Campbell "Murray Campbell") (**1988**). *Experimenting with the Null Move Heuristic in Chess.* [AAAI](AAAI "AAAI") Spring Symposium Proceedings
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1988**). *Pennsyvania State Chess Championship - HiTech Becomes First Computer Senior Master*. AI Magazine, Vol. 9, No. 3, [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/946/864)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Gordon Goetsch](https://dblp.uni-trier.de/pers/hd/g/Goetsch:Gordon)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gordon Goetsch | LinkedIn](https://www.linkedin.com/pub/gordon-goetsch/27/81/22)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Gordon Goetsch (**1990**). *Maximization of Mutual Information in a Context Sensitive Neural Network*. Ph.D. thesis
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Gordon Goetsch, [Murray Campbell](Murray_Campbell "Murray Campbell") (**1988**). *Experimenting with the Null Move Heuristic in Chess.* [AAAI](AAAI "AAAI") Spring Symposium Proceedings
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1988**). *Pennsyvania State Chess Championship - HiTech Becomes First Computer Senior Master*. AI Magazine, Vol. 9, No. 3, [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/946/864)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Gordon Goetsch](https://dblp.uni-trier.de/pers/hd/g/Goetsch:Gordon)
 
 **[Up one level](People "People")**
 

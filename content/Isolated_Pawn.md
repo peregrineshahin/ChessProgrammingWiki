@@ -32,8 +32,8 @@ a pawn with no pawns of the same color on the neighboring [files](Files "Files")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Chess - Isolated Pawn, [Chess Paintings](http://www.schach-chess.com/chess-art-painting.htm) by[Elke Rehder](Arts#Rehder "Arts")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Re: Self-test and others rating stuffs...](https://www.stmintz.com/ccc/index.php?id=13592) by [Amir Ban](Amir_Ban "Amir Ban"), [CCC](CCC "CCC"), January 02, 1998
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Chess - Isolated Pawn, [Chess Paintings](http://www.schach-chess.com/chess-art-painting.htm) by[Elke Rehder](Arts#Rehder "Arts")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Re: Self-test and others rating stuffs...](https://www.stmintz.com/ccc/index.php?id=13592) by [Amir Ban](Amir_Ban "Amir Ban"), [CCC](CCC "CCC"), January 02, 1998
 
 **[Up one level](Pawn_Structure "Pawn Structure")**
 

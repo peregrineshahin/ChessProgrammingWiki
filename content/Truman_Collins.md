@@ -37,11 +37,11 @@ During the mid 80s, while affiliated with Willamette University, he wrote the ch
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> From [DSC\_9428 | They ask you to do these silly poses. | troom | Flickr](https://www.flickr.com/photos/80375235@N00/4342941284/), [troom | Flickr](https://www.flickr.com/photos/80375235@N00/page2), referred from [Truman Collins' Index Page](http://www.tkcs-collins.com/truman/index.shtml#My%20pages)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [History In-Depth | The Collins Companies | Truman W. Collins Jr.](https://www.collinsco.com/history/In-Depth.php#Outside)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pawnder Chess Program](http://www.tkcs-collins.com/truman/pawnder/pawnder.shtml)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The old Boris chess computer](https://groups.google.com/g/rec.games.chess.computer/c/WQKs5kl32VI/m/CaLYlpkpzSUJ) by Truman Collins, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 25, 1996
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Monopoly (game) from Wikipedia](https://en.wikipedia.org/wiki/Monopoly_%28game%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> From [DSC\_9428 | They ask you to do these silly poses. | troom | Flickr](https://www.flickr.com/photos/80375235@N00/4342941284/), [troom | Flickr](https://www.flickr.com/photos/80375235@N00/page2), referred from [Truman Collins' Index Page](http://www.tkcs-collins.com/truman/index.shtml#My%20pages)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [History In-Depth | The Collins Companies | Truman W. Collins Jr.](https://www.collinsco.com/history/In-Depth.php#Outside)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pawnder Chess Program](http://www.tkcs-collins.com/truman/pawnder/pawnder.shtml)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The old Boris chess computer](https://groups.google.com/g/rec.games.chess.computer/c/WQKs5kl32VI/m/CaLYlpkpzSUJ) by Truman Collins, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 25, 1996
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Monopoly (game) from Wikipedia](https://en.wikipedia.org/wiki/Monopoly_%28game%29)
 
 **[Up one level](People "People")**
 

@@ -78,14 +78,14 @@ Performance was determined by [test-positions](Test-Positions "Test-Positions") 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A singular, small depiction of a rather gnarly-looking [dwarf](https://en.wikipedia.org/wiki/Dwarf_(mythology)) appearing with the list of dwarves in the [Poetic Edda](https://en.wikipedia.org/wiki/Poetic_Edda) poem [Völuspá](https://en.wikipedia.org/wiki/V%C3%B6lusp%C3%A1), Painting by [Lorenz Frølich](https://en.wikipedia.org/wiki/Lorenz_Fr%C3%B8lich) in [Karl Gjellerup](https://en.wikipedia.org/wiki/Karl_Adolph_Gjellerup) (**1895**). *[Den ældre Eddas Gudesange](https://archive.org/details/denldreeddasgud00saemgoog)*.
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [John F. White](John_F._White "John F. White") (**1988**). *Querg Chess*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [John F. White](John_F._White "John F. White") (**1990**). *The Amateur's Book-Opening Routine*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> In the German [Colognian dialect](https://en.wikipedia.org/wiki/Colognian_dialect)] a Querg appeared to be a [dwarf](https://en.wikipedia.org/wiki/Dwarf_(mythology)) or [Heinzelmännchen](https://en.wikipedia.org/wiki/Heinzelm%C3%A4nnchen), [Wörterbuchnetz - Rheinisches Wörterbuch](http://woerterbuchnetz.de/RhWB/call_wbgui_py_from_form?sigle=RhWB&mode=Volltextsuche&hitlist=&patternlist=&lemid=RQ00937) (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [I, Querg P Quigel « Pathfinder's Federation Log](http://pathfinderfl.wordpress.com/2011/02/26/i-querg-p-quigel/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Paul Wiereyn](Paul_Wiereyn "Paul Wiereyn") (**1985**). *Inventive Problem Solving*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Jan Eric Larsson](Jan_Eric_Larsson "Jan Eric Larsson") (**1987**). *Challenging that Mobility is Fundamental*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A singular, small depiction of a rather gnarly-looking [dwarf](https://en.wikipedia.org/wiki/Dwarf_(mythology)) appearing with the list of dwarves in the [Poetic Edda](https://en.wikipedia.org/wiki/Poetic_Edda) poem [Völuspá](https://en.wikipedia.org/wiki/V%C3%B6lusp%C3%A1), Painting by [Lorenz Frølich](https://en.wikipedia.org/wiki/Lorenz_Fr%C3%B8lich) in [Karl Gjellerup](https://en.wikipedia.org/wiki/Karl_Adolph_Gjellerup) (**1895**). *[Den ældre Eddas Gudesange](https://archive.org/details/denldreeddasgud00saemgoog)*.
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [John F. White](John_F._White "John F. White") (**1988**). *Querg Chess*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [John F. White](John_F._White "John F. White") (**1990**). *The Amateur's Book-Opening Routine*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> In the German [Colognian dialect](https://en.wikipedia.org/wiki/Colognian_dialect)] a Querg appeared to be a [dwarf](https://en.wikipedia.org/wiki/Dwarf_(mythology)) or [Heinzelmännchen](https://en.wikipedia.org/wiki/Heinzelm%C3%A4nnchen), [Wörterbuchnetz - Rheinisches Wörterbuch](http://woerterbuchnetz.de/RhWB/call_wbgui_py_from_form?sigle=RhWB&mode=Volltextsuche&hitlist=&patternlist=&lemid=RQ00937) (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [I, Querg P Quigel « Pathfinder's Federation Log](http://pathfinderfl.wordpress.com/2011/02/26/i-querg-p-quigel/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Paul Wiereyn](Paul_Wiereyn "Paul Wiereyn") (**1985**). *Inventive Problem Solving*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Jan Eric Larsson](Jan_Eric_Larsson "Jan Eric Larsson") (**1987**). *Challenging that Mobility is Fundamental*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

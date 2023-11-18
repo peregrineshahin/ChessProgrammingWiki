@@ -76,13 +76,13 @@ due to its reformulation as a sequence of [depth-first](Depth-First "Depth-First
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from Arie de Bruin's former homepage
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Arie de Bruin, [Wim Pijls](Wim_Pijls "Wim Pijls") (**1997**). *SSS†.* [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [10e WK Computerschaak, 6-11 juli 2002, Maastricht](http://old.csvn.nl/wk2002.html), [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Arie de Bruin](https://dblp.uni-trier.de/pers/hd/b/Bruin:Arie_de.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [RePub, Erasmus University Repository: A. de Bruin (Arie)](https://repub.eur.nl/ppl/40)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Csaba Attila Boer](Mathematician#CABoer "Mathematician") (**2005**). *[Distributed Simulation in Industry](https://repub.eur.nl/pub/6925)*. Ph.D. thesis, [Erasmus University Rotterdam](https://en.wikipedia.org/wiki/Erasmus_University_Rotterdam), Promotor Arie de Bruin
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from Arie de Bruin's former homepage
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Arie de Bruin, [Wim Pijls](Wim_Pijls "Wim Pijls") (**1997**). *SSS†.* [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [10e WK Computerschaak, 6-11 juli 2002, Maastricht](http://old.csvn.nl/wk2002.html), [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Arie de Bruin](https://dblp.uni-trier.de/pers/hd/b/Bruin:Arie_de.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [RePub, Erasmus University Repository: A. de Bruin (Arie)](https://repub.eur.nl/ppl/40)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Csaba Attila Boer](Mathematician#CABoer "Mathematician") (**2005**). *[Distributed Simulation in Industry](https://repub.eur.nl/pub/6925)*. Ph.D. thesis, [Erasmus University Rotterdam](https://en.wikipedia.org/wiki/Erasmus_University_Rotterdam), Promotor Arie de Bruin
 
 **[Up one level](People "People")**
 

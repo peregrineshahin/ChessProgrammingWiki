@@ -39,11 +39,11 @@ a Japanese computer scientist, computer games programmer, associate professor at
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SASAKI Nobusuke](https://hiris.pu-hiroshima.ac.jp/profile/en.lCBLKQMl9usMjO1ym9Xoig==.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Nobusuke Sasaki](https://dblp.uni-trier.de/pers/hd/s/Sasaki:Nobusuke.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tsumego from Wikipedia](https://en.wikipedia.org/wiki/Tsumego)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Gifu Challenge 2003](http://www.reiss.demon.co.uk/webgo/gifu.htm) by [Michael Reiss](index.php?title=Michael_Reiss&action=edit&redlink=1 "Michael Reiss (page does not exist)")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Go Program "Katsunari"](http://homepage1.nifty.com/Ike/katsunari/index_e.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SASAKI Nobusuke](https://hiris.pu-hiroshima.ac.jp/profile/en.lCBLKQMl9usMjO1ym9Xoig==.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Nobusuke Sasaki](https://dblp.uni-trier.de/pers/hd/s/Sasaki:Nobusuke.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tsumego from Wikipedia](https://en.wikipedia.org/wiki/Tsumego)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Gifu Challenge 2003](http://www.reiss.demon.co.uk/webgo/gifu.htm) by [Michael Reiss](index.php?title=Michael_Reiss&action=edit&redlink=1 "Michael Reiss (page does not exist)")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Go Program "Katsunari"](http://homepage1.nifty.com/Ike/katsunari/index_e.html)
 
 **[Up one level](People "People")**
 

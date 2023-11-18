@@ -85,7 +85,7 @@ The author of Schaak, Alex van Tiggelen, one of the newcomers, was eager to show
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1985**). *The Dutch Computer-Chess Championship 1985 - Nona Prima Donna*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 8, No. 4, pp. 248
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1985**). *The Dutch Computer-Chess Championship 1985 - Nona Prima Donna*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 8, No. 4, pp. 248
 
 **[Up one level](Engines "Engines")**
 

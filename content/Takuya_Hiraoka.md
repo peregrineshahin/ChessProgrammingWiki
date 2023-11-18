@@ -41,12 +41,12 @@ Along with [Takenobu Takizawa](Takenobu_Takizawa "Takenobu Takizawa"), [Takeshi 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image clipped from [Takuya Hiraoka: Our Researchers | NEC](https://www.nec.com/en/global/rd/people/takuya_hiraoka.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Takuya Hiraoka: Our Researchers | NEC](https://www.nec.com/en/global/rd/people/takuya_hiraoka.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Apery](https://hiraokatakuya.github.io/apery/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - HiraokaTakuya/apery\_rust: USI shogi engine written in Rust](https://github.com/HiraokaTakuya/apery_rust)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Takenobu Takizawa](Takenobu_Takizawa "Takenobu Takizawa"), [Takeshi Ito](Takeshi_Ito "Takeshi Ito"), Takuya Hiraoka, [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki") (**2015**). *[Contemporary Computer Shogi](https://link.springer.com/referenceworkentry/10.1007/978-3-319-08234-9_22-1)*. [Encyclopedia of Computer Graphics and Games](https://link.springer.com/referencework/10.1007/978-3-319-08234-9)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Takuya Hiraoka](https://dblp.org/pers/h/Hiraoka:Takuya.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image clipped from [Takuya Hiraoka: Our Researchers | NEC](https://www.nec.com/en/global/rd/people/takuya_hiraoka.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Takuya Hiraoka: Our Researchers | NEC](https://www.nec.com/en/global/rd/people/takuya_hiraoka.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Apery](https://hiraokatakuya.github.io/apery/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - HiraokaTakuya/apery\_rust: USI shogi engine written in Rust](https://github.com/HiraokaTakuya/apery_rust)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Takenobu Takizawa](Takenobu_Takizawa "Takenobu Takizawa"), [Takeshi Ito](Takeshi_Ito "Takeshi Ito"), Takuya Hiraoka, [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki") (**2015**). *[Contemporary Computer Shogi](https://link.springer.com/referenceworkentry/10.1007/978-3-319-08234-9_22-1)*. [Encyclopedia of Computer Graphics and Games](https://link.springer.com/referencework/10.1007/978-3-319-08234-9)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Takuya Hiraoka](https://dblp.org/pers/h/Hiraoka:Takuya.html)
 
 **[Up one level](People "People")**
 

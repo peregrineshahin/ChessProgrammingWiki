@@ -22,9 +22,9 @@ a German computer chess programmer. He is author of the [Commodore 64](Commodore
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [64'er Spielesammlung, Volume 4 - C64-Wiki](https://www.c64-wiki.com/wiki/64'er_Spielesammlung#Volume_4)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nova Chess : Thomas Starke : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/NovaChessV1.121996ThomasStarkeStrategyChess)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pawn - Freeware Chess Program - History](https://web.archive.org/web/20120304222811/http://www.pawn.sitesled.com/html/history.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [64'er Spielesammlung, Volume 4 - C64-Wiki](https://www.c64-wiki.com/wiki/64'er_Spielesammlung#Volume_4)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nova Chess : Thomas Starke : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/NovaChessV1.121996ThomasStarkeStrategyChess)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pawn - Freeware Chess Program - History](https://web.archive.org/web/20120304222811/http://www.pawn.sitesled.com/html/history.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

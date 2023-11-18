@@ -44,9 +44,9 @@ Szeregowiec applies pure [alpha-beta](Alpha-Beta "Alpha-Beta") using the [killer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Badge](https://en.wikipedia.org/wiki/Badge) of rank of Szeregowy (Private) of the [Polish Army](https://en.wikipedia.org/wiki/Polish_Land_Forces), [Polish Armed Forces rank insignia - Wikipedia](https://en.wikipedia.org/wiki/Polish_Armed_Forces_rank_insignia), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Porucznik program szachowy algorytmy szachowe programowanie gry w szachy](http://strony.toya.net.pl/~sierzant29/) (Polish)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mistrzostwa Polski Programów Szachowych - PGN](http://mpps.maciej.szmit.info/mpps-2/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Badge](https://en.wikipedia.org/wiki/Badge) of rank of Szeregowy (Private) of the [Polish Army](https://en.wikipedia.org/wiki/Polish_Land_Forces), [Polish Armed Forces rank insignia - Wikipedia](https://en.wikipedia.org/wiki/Polish_Armed_Forces_rank_insignia), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Porucznik program szachowy algorytmy szachowe programowanie gry w szachy](http://strony.toya.net.pl/~sierzant29/) (Polish)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mistrzostwa Polski Programów Szachowych - PGN](http://mpps.maciej.szmit.info/mpps-2/)
 
 **[Up one Level](Engines "Engines")**
 

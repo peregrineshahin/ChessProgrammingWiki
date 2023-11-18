@@ -82,7 +82,7 @@ In order to safely switch modes, Intel recommends using **vzeroupper** after usi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [AMD64 Architecture Programmer’s Manual, Volume 4: 128-Bit and 256-Bit Media Instructions](https://support.amd.com/TechDocs/26568.pdf) (pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [AMD64 Architecture Programmer’s Manual, Volume 4: 128-Bit and 256-Bit Media Instructions](https://support.amd.com/TechDocs/26568.pdf) (pdf)
 
 **[Up one Level](X86 "X86")**
 

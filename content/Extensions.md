@@ -208,8 +208,8 @@ In contemporary, heavily reducing programs former typical extensions are often u
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Search Extension](http://web.archive.org/web/20070607151732/www.brucemo.com/compchess/programming/extensions.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20070607231311/www.brucemo.com/compchess/programming/index.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). _The SEX Algorithm in Computer Chess_. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> ["Automated Discovery of Search Extensions"](http://www.open-chess.org/viewtopic.php?f=5&t=248) by [Mark Watkins](Mark_Watkins "Mark Watkins"), [OpenChess - Programming and Technical Discussions](Computer_Chess_Forums "Computer Chess Forums"), June 22, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Search Extension](http://web.archive.org/web/20070607151732/www.brucemo.com/compchess/programming/extensions.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20070607231311/www.brucemo.com/compchess/programming/index.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). _The SEX Algorithm in Computer Chess_. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> ["Automated Discovery of Search Extensions"](http://www.open-chess.org/viewtopic.php?f=5&t=248) by [Mark Watkins](Mark_Watkins "Mark Watkins"), [OpenChess - Programming and Technical Discussions](Computer_Chess_Forums "Computer Chess Forums"), June 22, 2010
 
 **[Up one level](Selectivity "Selectivity")**

@@ -35,7 +35,7 @@ This paper describes an approach for obtaining direct access to the attacked squ
 ## References
 
 1. ↑ [1.0](#cite-ref-icgaj-1-0) [1.1](#cite-ref-icgaj-1-1) [Sam Tannous](Sam_Tannous "Sam Tannous") (**2007**). *Avoiding Rotated Bitboards with Direct Lookup*. [ICGA Journal, Vol. 30, No. 2](ICGA_Journal#30_2 "ICGA Journal"), [arXiv:0704.3773](https://arxiv.org/abs/0704.3773)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Donald Knuth](Donald_Knuth "Donald Knuth") (**1998**). *The Art of Computer Programming*. Volume 3, Sorting and Searching. Addison Wesley. ISBN 0201896850
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Donald Knuth](Donald_Knuth "Donald Knuth") (**1998**). *The Art of Computer Programming*. Volume 3, Sorting and Searching. Addison Wesley. ISBN 0201896850
 
 **[Up one Level](Sliding_Piece_Attacks "Sliding Piece Attacks")**
 

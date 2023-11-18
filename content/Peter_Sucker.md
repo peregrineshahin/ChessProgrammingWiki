@@ -20,7 +20,7 @@ a German software developer and author of the private chess program [Pschach](Ps
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [World Microcomputer Championships](https://groups.google.com/g/rec.games.chess/c/DaNyRcJT8U8/m/GGcAJEiBMdgJ) by Stefan Hahndel, [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), November 8, 1993
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [World Microcomputer Championships](https://groups.google.com/g/rec.games.chess/c/DaNyRcJT8U8/m/GGcAJEiBMdgJ) by Stefan Hahndel, [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), November 8, 1993
 
 **[Up one level](People "People")**
 

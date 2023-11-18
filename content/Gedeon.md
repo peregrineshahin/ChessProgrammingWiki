@@ -39,9 +39,9 @@ h6 42.Ba2 g6+ 43.Kf6 Rf4+ 0-1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gedeon's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=475)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1984**). *Move from the East*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), January 1984, [Publication Archive 1984](http://www.chesscomputeruk.com/html/publication_archive_1984.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Budapest 1983 - Chess - Round 3 - Game 9 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=3&id=9)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gedeon's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=475)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1984**). *Move from the East*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), January 1984, [Publication Archive 1984](http://www.chesscomputeruk.com/html/publication_archive_1984.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Budapest 1983 - Chess - Round 3 - Game 9 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=3&id=9)
 
 **[Up one level](Engines "Engines")**
 

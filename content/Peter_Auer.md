@@ -66,14 +66,14 @@ an Austrian mathematician and computer scientist, full professor and chair for i
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Homepage Peter Auer](http://personal.unileoben.ac.at/auer/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Homepage Peter Auer](http://personal.unileoben.ac.at/auer/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Peter Auer: Informationstechnologie, Montanuniversität Leoben | 21.02.2003 | APA-OTS](http://www.ots.at/presseaussendung/OTS_20030221_OTS0101/peter-auer-informationstechnologie-montanuniversitaet-leoben) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Multi-armed bandit from Wikipedia](https://en.wikipedia.org/wiki/Multi-armed_bandit)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Peter Auer, [Nicolò Cesa-Bianchi](Nicol%C3%B2_Cesa-Bianchi "Nicolò Cesa-Bianchi"), [Paul Fischer](Paul_Fischer "Paul Fischer") (**2002**). *[Finite-time Analysis of the Multiarmed Bandit Problem](http://link.springer.com/article/10.1023%2FA%3A1013689704352)*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_%28journal%29), Vol. 47, No. 2, [pdf](http://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2006**). *[Bandit based Monte-Carlo Planning](http://www.computer-go.info/resources/bandit.html)* ECML-06, LNCS/LNAI 4212, [pdf](http://www.sztaki.hu/%7Eszcsaba/papers/ecml06.pdf)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Publikationen von Prof. Dr. Peter Auer](http://institute.unileoben.ac.at/infotech//publikationen/pub_pauer_index.htm)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Peter Auer](http://dblp.uni-trier.de/pers/hd/a/Auer:Peter)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Homepage Peter Auer](http://personal.unileoben.ac.at/auer/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Homepage Peter Auer](http://personal.unileoben.ac.at/auer/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Peter Auer: Informationstechnologie, Montanuniversität Leoben | 21.02.2003 | APA-OTS](http://www.ots.at/presseaussendung/OTS_20030221_OTS0101/peter-auer-informationstechnologie-montanuniversitaet-leoben) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Multi-armed bandit from Wikipedia](https://en.wikipedia.org/wiki/Multi-armed_bandit)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Peter Auer, [Nicolò Cesa-Bianchi](Nicol%C3%B2_Cesa-Bianchi "Nicolò Cesa-Bianchi"), [Paul Fischer](Paul_Fischer "Paul Fischer") (**2002**). *[Finite-time Analysis of the Multiarmed Bandit Problem](http://link.springer.com/article/10.1023%2FA%3A1013689704352)*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_%28journal%29), Vol. 47, No. 2, [pdf](http://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2006**). *[Bandit based Monte-Carlo Planning](http://www.computer-go.info/resources/bandit.html)* ECML-06, LNCS/LNAI 4212, [pdf](http://www.sztaki.hu/%7Eszcsaba/papers/ecml06.pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Publikationen von Prof. Dr. Peter Auer](http://institute.unileoben.ac.at/infotech//publikationen/pub_pauer_index.htm)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Peter Auer](http://dblp.uni-trier.de/pers/hd/a/Auer:Peter)
 
 **[Up one Level](People "People")**
 

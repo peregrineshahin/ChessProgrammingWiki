@@ -32,8 +32,8 @@ As avocational computer chess programmer, affiliated with [InfinityChess](index.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computerschach: Die besten Engines der Welt (2)](https://glarean-magazin.ch/2020/06/01/computerschach-die-besten-engines-der-welt-update-31-best-chess-engines-tournament/) by [Walter Eigenmann](index.php?title=Walter_Eigenmann&action=edit&redlink=1 "Walter Eigenmann (page does not exist)"), [Glarean Magazin](https://glarean-magazin.ch/), June 01, 2020 (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eman chess engine](https://eman.zohosites.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computerschach: Die besten Engines der Welt (2)](https://glarean-magazin.ch/2020/06/01/computerschach-die-besten-engines-der-welt-update-31-best-chess-engines-tournament/) by [Walter Eigenmann](index.php?title=Walter_Eigenmann&action=edit&redlink=1 "Walter Eigenmann (page does not exist)"), [Glarean Magazin](https://glarean-magazin.ch/), June 01, 2020 (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eman chess engine](https://eman.zohosites.com/)
 
 **[Up one level](People "People")**
 

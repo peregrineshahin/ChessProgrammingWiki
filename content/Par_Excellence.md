@@ -57,13 +57,13 @@ At the [Second United States Open Computer Chess Championship 1986](USOCCC_1986 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Flickr - Fotosharing - 2. Fidelity](https://www.flickr.com/photos/10261668@N05/albums/72157600922170604/page2) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *Reviews - Fidelity - The Avant Garde and Par Excellence Bugs*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1986, Fall/Winter Edition, pp. 77
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [A Chess Computer With An Expert Rating](https://www.tribpub.com/gdpr/sun-sentinel.com/) by Humberto Cruz, [Sun Sentinel](https://en.wikipedia.org/wiki/Sun-Sentinel), June 22, 1986
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fidelity Par Excellence](https://www.schach-computer.info/wiki/index.php/Fidelity_Par_Excellence) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Wiki-Elo-Liste – Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Wiki-Elo-Liste)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Schachcomputer.info - Elo Turnier Liste](https://www.schachcomputer.info/html/private_elo_liste.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *2nd U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1986, Fall/Winter Edition, pp. 27
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Flickr - Fotosharing - 2. Fidelity](https://www.flickr.com/photos/10261668@N05/albums/72157600922170604/page2) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *Reviews - Fidelity - The Avant Garde and Par Excellence Bugs*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1986, Fall/Winter Edition, pp. 77
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [A Chess Computer With An Expert Rating](https://www.tribpub.com/gdpr/sun-sentinel.com/) by Humberto Cruz, [Sun Sentinel](https://en.wikipedia.org/wiki/Sun-Sentinel), June 22, 1986
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fidelity Par Excellence](https://www.schach-computer.info/wiki/index.php/Fidelity_Par_Excellence) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Wiki-Elo-Liste – Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Wiki-Elo-Liste)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Schachcomputer.info - Elo Turnier Liste](https://www.schachcomputer.info/html/private_elo_liste.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *2nd U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1986, Fall/Winter Edition, pp. 27
 
 **[Up one level](Engines "Engines")**
 

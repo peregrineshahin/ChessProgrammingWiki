@@ -21,10 +21,10 @@ an American mathematician <a id="cite-note-1" href="#cite-ref-1">[1]</a> and com
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Mathematics Genealogy Project - Andrew Palay](https://genealogy.math.ndsu.nodak.edu/id.php?id=50403)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Andrew James Palay (**1983**). *Searching with Probabilities*. Ph.D. thesis
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1988**). *Pennsyvania State Chess Championship - HiTech Becomes First Computer Senior Master*. AI Magazine Volume 9 Number 3 (© AAAI), [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/946/864)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Mathematics Genealogy Project - Andrew Palay](https://genealogy.math.ndsu.nodak.edu/id.php?id=50403)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Andrew James Palay (**1983**). *Searching with Probabilities*. Ph.D. thesis
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1988**). *Pennsyvania State Chess Championship - HiTech Becomes First Computer Senior Master*. AI Magazine Volume 9 Number 3 (© AAAI), [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/946/864)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

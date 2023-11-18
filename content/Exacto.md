@@ -90,8 +90,8 @@ Starting with version **0.e**, released in March 2014, Exacto uses [bitboards](B
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Shows how any [exact sequence](https://en.wikipedia.org/wiki/Exact_sequence) is weaved together from several overlapping short exact sequences, [Axel Boldt](https://en.wikipedia.org/wiki/User:AxelBoldt), February 2004, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Features based on source, [GitHub - d-sparks/exacto: Exacto Chess Engine](https://github.com/d-sparks/exacto)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Shows how any [exact sequence](https://en.wikipedia.org/wiki/Exact_sequence) is weaved together from several overlapping short exact sequences, [Axel Boldt](https://en.wikipedia.org/wiki/User:AxelBoldt), February 2004, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Features based on source, [GitHub - d-sparks/exacto: Exacto Chess Engine](https://github.com/d-sparks/exacto)
 
 **[Up one level](Engines "Engines")**
 

@@ -51,13 +51,13 @@ The French manual of the [Videopac C 7010](Videopac_C_7010 "Videopac C 7010") fo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *[The third European Microcomputer Chess tournament](http://www.atarimagazines.com/creative/v9n1/123_The_third_European_Microc.php)*. [Creative Computing](Creative_Computing "Creative Computing"), Vol. 9, No. 1
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Free translation from Dutch, excerpt from: [Wim Rens](Wim_Rens "Wim Rens") (**1981**). *Grondslagen van computerschaak*. [Databus](http://home.kpn.nl/a.dikker1/museum/databus.html) 06-81, pp. 13-15, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1981,%20Databus,%20Wim%20Rens,%20Grondslagen%20van%20computerschaak.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> first milestone was winning a match from [IGM](IGM "IGM") in early 1980
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Gabmol was Gambiet's initial name
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GAMBIET - Reviews & Brand Information - Microtrend International B.V. Amsterdam , Serial Number: 73334547](http://www.trademarkia.com/gambiet-73334547.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gambiet order form](https://books.google.com/books?id=Cz4EAAAAMBAJ&pg=PA11&lpg=PA11&source=bl&ots=NNPeGit1RW&sig=OJkQ8pLSOju5EpW1DBOGPrfQXlI&hl=en&sa=X&ei=X9B0T-WTJofesgacma29DQ&sqi=2&redir_esc=y#v=onepage&q&f=false), [InfoWorld](https://en.wikipedia.org/wiki/InfoWorld), Vol. 3, No. 9, May 11, 1981, from [Google Books](https://en.wikipedia.org/wiki/Google_Books)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Philips](https://en.wikipedia.org/wiki/Philips), [Videopac C 7010](Videopac_C_7010 "Videopac C 7010"), French Manual, [pdf](http://www.6502man.com/tempo/VIDEOPAC%20CHESS%20%20C7010.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *[The third European Microcomputer Chess tournament](http://www.atarimagazines.com/creative/v9n1/123_The_third_European_Microc.php)*. [Creative Computing](Creative_Computing "Creative Computing"), Vol. 9, No. 1
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Free translation from Dutch, excerpt from: [Wim Rens](Wim_Rens "Wim Rens") (**1981**). *Grondslagen van computerschaak*. [Databus](http://home.kpn.nl/a.dikker1/museum/databus.html) 06-81, pp. 13-15, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1981,%20Databus,%20Wim%20Rens,%20Grondslagen%20van%20computerschaak.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> first milestone was winning a match from [IGM](IGM "IGM") in early 1980
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Gabmol was Gambiet's initial name
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GAMBIET - Reviews & Brand Information - Microtrend International B.V. Amsterdam , Serial Number: 73334547](http://www.trademarkia.com/gambiet-73334547.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gambiet order form](https://books.google.com/books?id=Cz4EAAAAMBAJ&pg=PA11&lpg=PA11&source=bl&ots=NNPeGit1RW&sig=OJkQ8pLSOju5EpW1DBOGPrfQXlI&hl=en&sa=X&ei=X9B0T-WTJofesgacma29DQ&sqi=2&redir_esc=y#v=onepage&q&f=false), [InfoWorld](https://en.wikipedia.org/wiki/InfoWorld), Vol. 3, No. 9, May 11, 1981, from [Google Books](https://en.wikipedia.org/wiki/Google_Books)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Philips](https://en.wikipedia.org/wiki/Philips), [Videopac C 7010](Videopac_C_7010 "Videopac C 7010"), French Manual, [pdf](http://www.6502man.com/tempo/VIDEOPAC%20CHESS%20%20C7010.pdf)
 
 **[Up one Level](Organizations "Organizations")**
 

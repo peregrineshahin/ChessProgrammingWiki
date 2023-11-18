@@ -44,8 +44,8 @@ an American computer scientist and jurist. He holds a Ph.D. in Computer Science 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Intellectual Property Expert Witness – Damages - Portfolios – The Law & Economics of Technology](http://www.bdabramson.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Bruce Abramson](http://www.informatik.uni-trier.de/~ley/pers/hd/a/Abramson:Bruce)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Intellectual Property Expert Witness – Damages - Portfolios – The Law & Economics of Technology](http://www.bdabramson.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Bruce Abramson](http://www.informatik.uni-trier.de/~ley/pers/hd/a/Abramson:Bruce)
 
 **[Up one level](People "People")**
 

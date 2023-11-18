@@ -48,9 +48,9 @@ At the [FCCC 2003](FCCC_2003 "FCCC 2003"), running in a [Pentiom 3](X86 "X86"), 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Detail of [Michelangelo's](Category:Michelangelo "Category:Michelangelo") [The Creation of Adam](https://en.wikipedia.org/wiki/The_Creation_of_Adam), [Fresco](https://en.wikipedia.org/wiki/Fresco) [Sistine Chapel ceiling](https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling) ca. 1512, source: [Web Gallery of Art](https://en.wikipedia.org/wiki/Web_Gallery_of_Art), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WB Engine 150, Adam by Dominique Longbien (France) is available](http://www.open-aurec.com/wbforum/viewtopic.php?t=37585) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 05, 2002
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CHESS WIZARD Champion de France 2003 !](http://www.ludochess.com/fccc2003/tournoi.php3)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Detail of [Michelangelo's](Category:Michelangelo "Category:Michelangelo") [The Creation of Adam](https://en.wikipedia.org/wiki/The_Creation_of_Adam), [Fresco](https://en.wikipedia.org/wiki/Fresco) [Sistine Chapel ceiling](https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling) ca. 1512, source: [Web Gallery of Art](https://en.wikipedia.org/wiki/Web_Gallery_of_Art), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WB Engine 150, Adam by Dominique Longbien (France) is available](http://www.open-aurec.com/wbforum/viewtopic.php?t=37585) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 05, 2002
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CHESS WIZARD Champion de France 2003 !](http://www.ludochess.com/fccc2003/tournoi.php3)
 
 **[Up one Level](Engines "Engines")**
 

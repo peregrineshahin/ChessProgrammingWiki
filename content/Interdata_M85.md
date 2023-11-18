@@ -33,8 +33,8 @@ a 16-bit [minicomputer](https://en.wikipedia.org/wiki/Minicomputer) by [Interdat
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Interdata 832 Megamini: " Riese" mit Lampenfieber](http://www.computerwoche.de/a/riese-mit-lampenfieber,1204046), April 11, 1975, [Computerwoche](#woche) 15/1975
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title), Interdata M85, page 37
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Interdata 832 Megamini: " Riese" mit Lampenfieber](http://www.computerwoche.de/a/riese-mit-lampenfieber,1204046), April 11, 1975, [Computerwoche](#woche) 15/1975
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title), Interdata M85, page 37
 
 **[Up one Level](Hardware "Hardware")**
 

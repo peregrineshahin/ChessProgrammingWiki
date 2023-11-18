@@ -91,15 +91,15 @@ a [popular science](https://en.wikipedia.org/wiki/Popular_science) magazine, fou
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Scientific American from Wikipedia](https://en.wikipedia.org/wiki/Scientific_American)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Martin Gardner from Wikipedia](https://en.wikipedia.org/wiki/Martin_Gardner)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Index to Mathematical Games](http://www.dialectrix.com/MG.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Complete Annotated Strachey Checkers Program](http://norvig.com/sciam/checkers-complete.html) by [Peter Norvig](Peter_Norvig "Peter Norvig")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Prescient but Not Perfect: A Look Back at a 1966 Scientific American Article on Systems Analysis](http://blogs.scientificamerican.com/at-scientific-american/2011/08/23/systems-analysis-look-back-1966-scientific-american-article/) by [Peter Norvig](Peter_Norvig "Peter Norvig"), Scientific American Online, August 23, 2011
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Negative base from Wikipedia](https://en.wikipedia.org/wiki/Negative_base)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Feng's (Deep Thought) article in Scientific American (long)](http://groups.google.com/group/rec.games.chess/browse_frm/thread/b3b584ef5a572d79#) by [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), October 19, 1990
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Fukushima Daiichi nuclear disaster from Wikipedia](https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Scientific American article on Computer Chess](http://www.talkchess.com/forum/viewtopic.php?t=64158) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), June 03, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Scientific American from Wikipedia](https://en.wikipedia.org/wiki/Scientific_American)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Martin Gardner from Wikipedia](https://en.wikipedia.org/wiki/Martin_Gardner)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Index to Mathematical Games](http://www.dialectrix.com/MG.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Complete Annotated Strachey Checkers Program](http://norvig.com/sciam/checkers-complete.html) by [Peter Norvig](Peter_Norvig "Peter Norvig")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Prescient but Not Perfect: A Look Back at a 1966 Scientific American Article on Systems Analysis](http://blogs.scientificamerican.com/at-scientific-american/2011/08/23/systems-analysis-look-back-1966-scientific-american-article/) by [Peter Norvig](Peter_Norvig "Peter Norvig"), Scientific American Online, August 23, 2011
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Negative base from Wikipedia](https://en.wikipedia.org/wiki/Negative_base)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Feng's (Deep Thought) article in Scientific American (long)](http://groups.google.com/group/rec.games.chess/browse_frm/thread/b3b584ef5a572d79#) by [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), October 19, 1990
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Fukushima Daiichi nuclear disaster from Wikipedia](https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Scientific American article on Computer Chess](http://www.talkchess.com/forum/viewtopic.php?t=64158) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), June 03, 2017
 
 **[Up one Level](Periodical "Periodical")**
 

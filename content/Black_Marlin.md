@@ -75,11 +75,11 @@ Black Marlin **4.0**, released in January 2022, improved due to a larger network
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image](https://commons.wikimedia.org/wiki/File:Iziko_Black_Marlin.JPG) by Nkansah Rexford, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Release 1.0 · dsekercioglu/blackmarlin · GitHub](https://github.com/dsekercioglu/blackmarlin/releases/tag/1.0)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - dsekercioglu/marlinflow: Neural Network training repository for the Black Marlin chess engine](https://github.com/dsekercioglu/marlinflow)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Release 4.0 · dsekercioglu/blackmarlin · GitHub](https://github.com/dsekercioglu/blackmarlin/releases/tag/4.0)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [blackmarlin/README.md at main · dsekercioglu/blackmarlin · GitHub](https://github.com/dsekercioglu/blackmarlin/blob/main/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](https://commons.wikimedia.org/wiki/File:Iziko_Black_Marlin.JPG) by Nkansah Rexford, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Release 1.0 · dsekercioglu/blackmarlin · GitHub](https://github.com/dsekercioglu/blackmarlin/releases/tag/1.0)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - dsekercioglu/marlinflow: Neural Network training repository for the Black Marlin chess engine](https://github.com/dsekercioglu/marlinflow)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Release 4.0 · dsekercioglu/blackmarlin · GitHub](https://github.com/dsekercioglu/blackmarlin/releases/tag/4.0)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [blackmarlin/README.md at main · dsekercioglu/blackmarlin · GitHub](https://github.com/dsekercioglu/blackmarlin/blob/main/README.md)
 
 **[Up one level](Engines "Engines")**
 

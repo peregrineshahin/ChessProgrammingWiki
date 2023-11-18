@@ -48,7 +48,7 @@ title: Columbia University
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Looking east on Columbia University College Walk, New York City, [Columbia University from Wikipedia](https://en.wikipedia.org/wiki/Columbia_University)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Looking east on Columbia University College Walk, New York City, [Columbia University from Wikipedia](https://en.wikipedia.org/wiki/Columbia_University)
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -24,9 +24,9 @@ by Tilps from [The Missing Docs.Net](https://www.themissingdocs.net/)
 
 ## [Puzzle/Game Software](https://www.themissingdocs.net/?page_id=263) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [lc0/changelog.txt at master · LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/blob/master/changelog.txt)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gareth Pearce - Software Engineer - Google | LinkedIn](https://au.linkedin.com/in/gareth-pearce-71034535)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Multigather parallel by Tilps · Pull Request #1478 · LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/pull/1478)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [lc0/changelog.txt at master · LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/blob/master/changelog.txt)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gareth Pearce - Software Engineer - Google | LinkedIn](https://au.linkedin.com/in/gareth-pearce-71034535)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Multigather parallel by Tilps · Pull Request #1478 · LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/pull/1478)
 
 **[Up one Level](People "People")**
 

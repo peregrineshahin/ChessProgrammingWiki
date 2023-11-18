@@ -25,9 +25,9 @@ a German chess player, chess collector and former chess programmer. While affili
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> cropped from [Wolfgang Pähtz ist neuer GSM-Vorsitzender - Deutsches Schachmuseum](http://www.schachmuseum.com/neu-im-schachmuseum/wolfgang-pahtz-ist-neuer-gsm-vorsitzender), June 07, 2017
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess-Master Diamond](https://www.schach-computer.info/wiki/index.php/Chess-Master_Diamond) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Wolfgang Pähtz ist neuer GSM-Vorsitzender - Deutsches Schachmuseum](http://www.schachmuseum.com/neu-im-schachmuseum/wolfgang-pahtz-ist-neuer-gsm-vorsitzender)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> cropped from [Wolfgang Pähtz ist neuer GSM-Vorsitzender - Deutsches Schachmuseum](http://www.schachmuseum.com/neu-im-schachmuseum/wolfgang-pahtz-ist-neuer-gsm-vorsitzender), June 07, 2017
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess-Master Diamond](https://www.schach-computer.info/wiki/index.php/Chess-Master_Diamond) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Wolfgang Pähtz ist neuer GSM-Vorsitzender - Deutsches Schachmuseum](http://www.schachmuseum.com/neu-im-schachmuseum/wolfgang-pahtz-ist-neuer-gsm-vorsitzender)
 
 **[Up one level](People "People")**
 

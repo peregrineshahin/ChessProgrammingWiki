@@ -38,10 +38,10 @@ Along with [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo") et al., he
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Prof. Agustín Jiménez](http://www.disam.etsii.upm.es/ajimenez/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo"), [Ramón Galán](Ram%C3%B3n_Gal%C3%A1n "Ramón Galán"), [Fernando Matía](Fernando_Mat%C3%ADa "Fernando Matía"), [Diego Rodríguez-Losada](Diego_Rodr%C3%ADguez-Losada "Diego Rodríguez-Losada"), Agustín Jiménez (**2006**). *[Efficient Search Using Bitboard Models](http://dl.acm.org/citation.cfm?id=1191130)*. [ICTAI 2006](http://www.informatik.uni-trier.de/%7Eley/db/conf/ictai/ictai2006.html#SegundoGMRJ06)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Agustín Jiménez](https://dblp.uni-trier.de/pers/hd/j/Jim=eacute=nez:Agust=iacute=n)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tomohiro Takagi](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomohiro), [Michio Sugeno](https://www.researchgate.net/scientific-contributions/6761930_Michio_Sugeno) (**1985**). *[Fuzzy identification of systems and its applications to modeling and control](https://ieeexplore.ieee.org/document/6313399)*. [IEEE Transactions on Systems, Man, and Cybernetics](IEEE#SMC "IEEE"), Vol. 15, No. 1
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Prof. Agustín Jiménez](http://www.disam.etsii.upm.es/ajimenez/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo"), [Ramón Galán](Ram%C3%B3n_Gal%C3%A1n "Ramón Galán"), [Fernando Matía](Fernando_Mat%C3%ADa "Fernando Matía"), [Diego Rodríguez-Losada](Diego_Rodr%C3%ADguez-Losada "Diego Rodríguez-Losada"), Agustín Jiménez (**2006**). *[Efficient Search Using Bitboard Models](http://dl.acm.org/citation.cfm?id=1191130)*. [ICTAI 2006](http://www.informatik.uni-trier.de/%7Eley/db/conf/ictai/ictai2006.html#SegundoGMRJ06)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Agustín Jiménez](https://dblp.uni-trier.de/pers/hd/j/Jim=eacute=nez:Agust=iacute=n)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tomohiro Takagi](https://dblp.uni-trier.de/pers/hd/t/Takagi:Tomohiro), [Michio Sugeno](https://www.researchgate.net/scientific-contributions/6761930_Michio_Sugeno) (**1985**). *[Fuzzy identification of systems and its applications to modeling and control](https://ieeexplore.ieee.org/document/6313399)*. [IEEE Transactions on Systems, Man, and Cybernetics](IEEE#SMC "IEEE"), Vol. 15, No. 1
 
 **[Up one Level](People "People")**
 

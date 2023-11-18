@@ -124,10 +124,10 @@ An early 2007 version is available as [open source](Category:Open_Source "Catego
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paul of Venice](https://en.wikipedia.org/wiki/Paul_of_Venice) (**1546**). *Logica*. Bartolomeo e Francesco Imperatore, Typographic brand on the title page
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Twisted Logic Chess Engine v0.001 released!](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=3270&p=16194) by [Edsel Apostol](Edsel_Apostol "Edsel Apostol"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 11, 2005
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Early version of Twisted Logic chess engine from 2007](https://github.com/ed-apostol/TwistedLogic)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Twisted Logic Tour](https://en.wikipedia.org/wiki/Twisted_Logic_Tour)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul of Venice](https://en.wikipedia.org/wiki/Paul_of_Venice) (**1546**). *Logica*. Bartolomeo e Francesco Imperatore, Typographic brand on the title page
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Twisted Logic Chess Engine v0.001 released!](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=3270&p=16194) by [Edsel Apostol](Edsel_Apostol "Edsel Apostol"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 11, 2005
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Early version of Twisted Logic chess engine from 2007](https://github.com/ed-apostol/TwistedLogic)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Twisted Logic Tour](https://en.wikipedia.org/wiki/Twisted_Logic_Tour)
 
 **[Up one Level](Engines "Engines")**
 

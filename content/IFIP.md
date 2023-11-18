@@ -39,7 +39,7 @@ The IFIP sponsored and hosted the [First World Computer Chess Championship](WCCC
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [dblp: 6. IFIP Congress 1974: Stockholm, Sweden](https://dblp.uni-trier.de/db/conf/ifip/ifip74.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [dblp: 6. IFIP Congress 1974: Stockholm, Sweden](https://dblp.uni-trier.de/db/conf/ifip/ifip74.html)
 
 **[Up one level](Organizations "Organizations")**
 

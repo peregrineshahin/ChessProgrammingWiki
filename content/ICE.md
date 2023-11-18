@@ -110,12 +110,12 @@ iCE uses [magic bitboards](Magic_Bitboards "Magic Bitboards") and a [fail-hard](
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ice Chess Battle At Rosa Parks Circle](http://rivergrandrapids.com/ice-chess-battle-at-rosa-parks-circle/), Image 4 (cropped) - The Chess Board, by [Gene Parker](http://rivergrandrapids.com/author/gparker/), January 11, 2011 - The Ice pieces were made by [Randy Finch](http://www.iceguru.com/about/) and [Ice Sculptures, LTD](http://www.iceguru.com/) of [Grand Rapids, Michigan](https://en.wikipedia.org/wiki/Grand_Rapids,_Michigan)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [mACE Chess](http://macechess.blogspot.de/) blog by [Thomas Petzke](Thomas_Petzke "Thomas Petzke")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Not being lazy anymore](http://macechess.blogspot.de/2014/06/not-being-lazy-anymore.html), [mACE Chess](http://macechess.blogspot.de/), June 28, 2014
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Programming - Inside iCE](http://www.fam-petzke.de/cp_inside_ice_en.shtml)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Eval tuning - any open source engines with GA or PBIL?](http://www.talkchess.com/forum/viewtopic.php?t=54545&start=1) by [Thomas Petzke](Thomas_Petzke "Thomas Petzke"), [CCC](CCC "CCC"), December 06, 2014
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: FCT1: iCE 2.0 v2240 POP x64 is still running ...](http://www.talkchess.com/forum/viewtopic.php?t=53741&start=4) by [Thomas Petzke](Thomas_Petzke "Thomas Petzke"), [CCC](CCC "CCC"), September 19, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ice Chess Battle At Rosa Parks Circle](http://rivergrandrapids.com/ice-chess-battle-at-rosa-parks-circle/), Image 4 (cropped) - The Chess Board, by [Gene Parker](http://rivergrandrapids.com/author/gparker/), January 11, 2011 - The Ice pieces were made by [Randy Finch](http://www.iceguru.com/about/) and [Ice Sculptures, LTD](http://www.iceguru.com/) of [Grand Rapids, Michigan](https://en.wikipedia.org/wiki/Grand_Rapids,_Michigan)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [mACE Chess](http://macechess.blogspot.de/) blog by [Thomas Petzke](Thomas_Petzke "Thomas Petzke")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Not being lazy anymore](http://macechess.blogspot.de/2014/06/not-being-lazy-anymore.html), [mACE Chess](http://macechess.blogspot.de/), June 28, 2014
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Programming - Inside iCE](http://www.fam-petzke.de/cp_inside_ice_en.shtml)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Eval tuning - any open source engines with GA or PBIL?](http://www.talkchess.com/forum/viewtopic.php?t=54545&start=1) by [Thomas Petzke](Thomas_Petzke "Thomas Petzke"), [CCC](CCC "CCC"), December 06, 2014
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: FCT1: iCE 2.0 v2240 POP x64 is still running ...](http://www.talkchess.com/forum/viewtopic.php?t=53741&start=4) by [Thomas Petzke](Thomas_Petzke "Thomas Petzke"), [CCC](CCC "CCC"), September 19, 2014
 
 **[Up one Level](Engines "Engines")**
 

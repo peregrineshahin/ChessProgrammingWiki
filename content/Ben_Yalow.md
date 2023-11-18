@@ -40,14 +40,14 @@ In 1973, King was hired by the [City University of New York](https://en.wikipedi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ben Yalow 1979 | Flickr - Photosharing!](http://www.flickr.com/photos/morbius19/6111468726/) by [Morbius19](http://www.flickr.com/photos/morbius19/with/6111468726/#photo_6111468726)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ben Yalow's homepage](http://www.panix.com/~ybmcu/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ben Yalow « File 770](http://file770.com/?tag=ben-yalow)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computing at Columbia Timeline - Aug 3-5, 1971](http://www.columbia.edu/cu/computinghistory/index.html#cccp)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Recollections of CUCC 1968-70 -The CCCP Chess Program](http://www.columbia.edu/cu/computinghistory/elliott-frank.html#cccp)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Andrew Koenig](Andrew_Koenig "Andrew Koenig") (**1978**). *Light-Pen used in game*. [Personal Computing, Vol. 2, No. 5](Personal_Computing#2_5 "Personal Computing"), pp. 112
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Aron Eisenpress, CUNY/CIS's Renaissance Man](http://www1.cuny.edu/events/fyei/fall_1996/eisenpress.html) by Gillian Frasier
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Computing at Columbia Timeline - May 1973](http://www.columbia.edu/cu/computinghistory/index.html#ssio)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ben Yalow 1979 | Flickr - Photosharing!](http://www.flickr.com/photos/morbius19/6111468726/) by [Morbius19](http://www.flickr.com/photos/morbius19/with/6111468726/#photo_6111468726)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ben Yalow's homepage](http://www.panix.com/~ybmcu/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ben Yalow « File 770](http://file770.com/?tag=ben-yalow)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computing at Columbia Timeline - Aug 3-5, 1971](http://www.columbia.edu/cu/computinghistory/index.html#cccp)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Recollections of CUCC 1968-70 -The CCCP Chess Program](http://www.columbia.edu/cu/computinghistory/elliott-frank.html#cccp)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Andrew Koenig](Andrew_Koenig "Andrew Koenig") (**1978**). *Light-Pen used in game*. [Personal Computing, Vol. 2, No. 5](Personal_Computing#2_5 "Personal Computing"), pp. 112
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Aron Eisenpress, CUNY/CIS's Renaissance Man](http://www1.cuny.edu/events/fyei/fall_1996/eisenpress.html) by Gillian Frasier
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Computing at Columbia Timeline - May 1973](http://www.columbia.edu/cu/computinghistory/index.html#ssio)
 
 **[Up one level](People "People")**
 

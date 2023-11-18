@@ -109,9 +109,9 @@ with interests in all aspects of [chess engines](Engines "Engines"), [tournament
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yet Another Mate Solving Test](http://www.talkchess.com/forum/viewtopic.php?t=37616) by Jouni Uski, [CCC](CCC "CCC"), January 14, 2011
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jouni Uski (**1996**). *Human vs. Computer Acttion Chess Match - Finland*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 8
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Use equations for PushAway and PushClose · official-stockfish/Stockfish@5a7b45e · GitHub](https://github.com/official-stockfish/Stockfish/commit/5a7b45eac9dedbf7ebc61d9deb4dd934058d1ca1#diff-4cd6bcdb505b124d7bdc612c4789dc26L57-R59)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yet Another Mate Solving Test](http://www.talkchess.com/forum/viewtopic.php?t=37616) by Jouni Uski, [CCC](CCC "CCC"), January 14, 2011
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jouni Uski (**1996**). *Human vs. Computer Acttion Chess Match - Finland*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 8
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Use equations for PushAway and PushClose · official-stockfish/Stockfish@5a7b45e · GitHub](https://github.com/official-stockfish/Stockfish/commit/5a7b45eac9dedbf7ebc61d9deb4dd934058d1ca1#diff-4cd6bcdb505b124d7bdc612c4789dc26L57-R59)
 
 **[Up one level](People "People")**
 

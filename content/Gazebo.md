@@ -40,11 +40,11 @@ Gazebo Screen <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gazebo](https://en.wikipedia.org/wiki/Gazebo), [United States](https://en.wikipedia.org/wiki/United_States), late [19th Century](https://en.wikipedia.org/wiki/19th_century), Source: Father of [JGKlein](https://commons.wikimedia.org/wiki/User:JGKlein), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Comet B.13 is available !](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=30779&start=2) by Pete Galati, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 27, 2000
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: An Open Letter to Computer Chess Programmers](https://groups.google.com/d/msg/rec.games.chess/x79Ys8WSc-I/UdoCc_7AYNUJ) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), January 02, 1994
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [gnuchess/common.h at master · heisencoder/gnuchess · GitHub](https://github.com/heisencoder/gnuchess/blob/master/src/common.h)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gazebo](https://en.wikipedia.org/wiki/Gazebo), [United States](https://en.wikipedia.org/wiki/United_States), late [19th Century](https://en.wikipedia.org/wiki/19th_century), Source: Father of [JGKlein](https://commons.wikimedia.org/wiki/User:JGKlein), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Comet B.13 is available !](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=30779&start=2) by Pete Galati, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 27, 2000
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: An Open Letter to Computer Chess Programmers](https://groups.google.com/d/msg/rec.games.chess/x79Ys8WSc-I/UdoCc_7AYNUJ) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), January 02, 1994
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [gnuchess/common.h at master · heisencoder/gnuchess · GitHub](https://github.com/heisencoder/gnuchess/blob/master/src/common.h)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
 
 **[Up one Level](Engines "Engines")**
 

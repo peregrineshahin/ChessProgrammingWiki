@@ -35,12 +35,12 @@ He holds a master degree from the Department of Computer Science, [Aarhus Univer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [jespertk (Jesper Torp Kristensen) · GitHub](https://github.com/jespertk)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jesper Torp Kristensen (**2005**). *[Generation and compression of endgame tables in chess with fast random access using OBDDs](https://issuu.com/jespertk/docs/master_thesis)*. Master thesis, supervisor [Peter Bro Miltersen](Mathematician#Miltersen "Mathematician"), [Aarhus University](https://en.wikipedia.org/wiki/Aarhus_University)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [doktoren (Jesper Torp Kristensen) · GitHub](https://github.com/doktoren)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: New 6-piece tablebase generator](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=6971&start=6) by [syzygy](Ronald_de_Man "Ronald de Man"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), April 06, 2013
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Jesper Torp Kristensen](https://dblp.uni-trier.de/pers/hd/k/Kristensen:Jesper_Torp)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jesper Torp Kristensen](https://issuu.com/jespertk) [Issuu](https://en.wikipedia.org/wiki/Issuu)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [jespertk (Jesper Torp Kristensen) · GitHub](https://github.com/jespertk)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jesper Torp Kristensen (**2005**). *[Generation and compression of endgame tables in chess with fast random access using OBDDs](https://issuu.com/jespertk/docs/master_thesis)*. Master thesis, supervisor [Peter Bro Miltersen](Mathematician#Miltersen "Mathematician"), [Aarhus University](https://en.wikipedia.org/wiki/Aarhus_University)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [doktoren (Jesper Torp Kristensen) · GitHub](https://github.com/doktoren)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: New 6-piece tablebase generator](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=6971&start=6) by [syzygy](Ronald_de_Man "Ronald de Man"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), April 06, 2013
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Jesper Torp Kristensen](https://dblp.uni-trier.de/pers/hd/k/Kristensen:Jesper_Torp)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jesper Torp Kristensen](https://issuu.com/jespertk) [Issuu](https://en.wikipedia.org/wiki/Issuu)
 
 **[Up one level](People "People")**
 

@@ -44,9 +44,9 @@ Adam Hair served as moderator in [CCC](CCC "CCC").
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Blogger: userprofile: Adam Hair](https://www.blogger.com/profile/02603317394302975592)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Adam Hair (**2012**). *The Rybka Investigation: A Survey Of Evidence From Both Perspectives*.
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Adam's Computer Chess Pages: Stockfish Progression](http://adamsccpages.blogspot.com/p/sf-framework-history.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Blogger: userprofile: Adam Hair](https://www.blogger.com/profile/02603317394302975592)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Adam Hair (**2012**). *The Rybka Investigation: A Survey Of Evidence From Both Perspectives*.
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Adam's Computer Chess Pages: Stockfish Progression](http://adamsccpages.blogspot.com/p/sf-framework-history.html)
 
 **[Up one Level](People "People")**
 

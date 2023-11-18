@@ -77,11 +77,11 @@ The [ACM 1974](ACM_1974 "ACM 1974") game between KChes6 and [Tech 2](Tech "Tech"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Wanda Nichols (**1974**). *[Programmed to Win?](https://www.newspapers.com/newspage/108064388/)*. [The Courier-Journal](https://en.wikipedia.org/wiki/The_Courier-Journal) from [Louisville, Kentucky](https://en.wikipedia.org/wiki/Louisville,_Kentucky), November 3, 1974, pp. 29
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hewlett-Packard HP 2000 Time Shared Basic](http://www.decodesystems.com/hp2000/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> John Filiatreau (**1974**). *[At Engineer Week at UL you can try to make a soft landing on the moon](https://www.newspapers.com/newspage/107846183/)*. [The Courier-Journal](https://en.wikipedia.org/wiki/The_Courier-Journal) from [Louisville, Kentucky](https://en.wikipedia.org/wiki/Louisville,_Kentucky), February 18, 1974, pp. 20
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Walter Tevis](https://en.wikipedia.org/wiki/Walter_Tevis) (**1974**). *[Input your move](https://www.newspapers.com/newspage/108077667/) - [continued](https://www.newspapers.com/newspage/108077688/)*. [The Courier-Journal](https://en.wikipedia.org/wiki/The_Courier-Journal) from [Louisville, Kentucky](https://en.wikipedia.org/wiki/Louisville,_Kentucky), May 19, 1974, pp. 209, 212
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [David Levy](David_Levy "David Levy") (**1976**). *[Chess and Computers](http://link.springer.com/book/10.1007/978-3-642-85538-2)*. Batsford
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Wanda Nichols (**1974**). *[Programmed to Win?](https://www.newspapers.com/newspage/108064388/)*. [The Courier-Journal](https://en.wikipedia.org/wiki/The_Courier-Journal) from [Louisville, Kentucky](https://en.wikipedia.org/wiki/Louisville,_Kentucky), November 3, 1974, pp. 29
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hewlett-Packard HP 2000 Time Shared Basic](http://www.decodesystems.com/hp2000/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> John Filiatreau (**1974**). *[At Engineer Week at UL you can try to make a soft landing on the moon](https://www.newspapers.com/newspage/107846183/)*. [The Courier-Journal](https://en.wikipedia.org/wiki/The_Courier-Journal) from [Louisville, Kentucky](https://en.wikipedia.org/wiki/Louisville,_Kentucky), February 18, 1974, pp. 20
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Walter Tevis](https://en.wikipedia.org/wiki/Walter_Tevis) (**1974**). *[Input your move](https://www.newspapers.com/newspage/108077667/) - [continued](https://www.newspapers.com/newspage/108077688/)*. [The Courier-Journal](https://en.wikipedia.org/wiki/The_Courier-Journal) from [Louisville, Kentucky](https://en.wikipedia.org/wiki/Louisville,_Kentucky), May 19, 1974, pp. 209, 212
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [David Levy](David_Levy "David Levy") (**1976**). *[Chess and Computers](http://link.springer.com/book/10.1007/978-3-642-85538-2)*. Batsford
 
 **[Up one level](Engines "Engines")**
 

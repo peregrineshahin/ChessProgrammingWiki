@@ -79,15 +79,15 @@ a Canadian [neuroscientist](https://en.wikipedia.org/wiki/Neuroscientist) an [AI
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image captured from the [Data efficient Deep Reinforcement Learning for Continuous Control - Video](Timothy_Lillicrap#DRLVideo "Timothy Lillicrap") at 20:21
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Timothy Lillicrap (**2014**). *Modelling Motor Cortex using Neural Network Controls Laws*. Ph.D. Systems Neuroscience Thesis, Centre for Neuroscience Studies, [Queen's University](https://en.wikipedia.org/wiki/Queen%27s_University), advisor: [Stephen H. Scott](https://en.wikipedia.org/wiki/Stephen_H._Scott)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Curriculum Vitae - Timothy P. Lillicrap](http://contrastiveconvergence.net/~timothylillicrap/files/resume/timothy_lillicrap_cv.pdf) (pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [timothy lillicrap - research](http://contrastiveconvergence.net/~timothylillicrap/research.php)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Timothy P. Lillicrap](http://dblp.uni-trier.de/pers/hd/l/Lillicrap:Timothy_P=)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Q-learning from Wikipedia](https://en.wikipedia.org/wiki/Q-learning)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [AlphaGo Zero: Learning from scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/) by [Demis Hassabis](Demis_Hassabis "Demis Hassabis") and [David Silver](David_Silver "David Silver"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), October 18, 2017
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/) by [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser") and [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), December 03, 2018
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?fbclid=IwAR3mSwrn1YXDKr9uuGm2GlFKh76wBilex7f8QvBiQecwiVmAvD6Bkyjx-rE)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image captured from the [Data efficient Deep Reinforcement Learning for Continuous Control - Video](Timothy_Lillicrap#DRLVideo "Timothy Lillicrap") at 20:21
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Timothy Lillicrap (**2014**). *Modelling Motor Cortex using Neural Network Controls Laws*. Ph.D. Systems Neuroscience Thesis, Centre for Neuroscience Studies, [Queen's University](https://en.wikipedia.org/wiki/Queen%27s_University), advisor: [Stephen H. Scott](https://en.wikipedia.org/wiki/Stephen_H._Scott)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Curriculum Vitae - Timothy P. Lillicrap](http://contrastiveconvergence.net/~timothylillicrap/files/resume/timothy_lillicrap_cv.pdf) (pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [timothy lillicrap - research](http://contrastiveconvergence.net/~timothylillicrap/research.php)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Timothy P. Lillicrap](http://dblp.uni-trier.de/pers/hd/l/Lillicrap:Timothy_P=)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Q-learning from Wikipedia](https://en.wikipedia.org/wiki/Q-learning)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [AlphaGo Zero: Learning from scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/) by [Demis Hassabis](Demis_Hassabis "Demis Hassabis") and [David Silver](David_Silver "David Silver"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), October 18, 2017
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/) by [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser") and [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), December 03, 2018
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?fbclid=IwAR3mSwrn1YXDKr9uuGm2GlFKh76wBilex7f8QvBiQecwiVmAvD6Bkyjx-rE)
 
 **[Up one level](People "People")**
 

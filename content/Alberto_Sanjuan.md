@@ -36,7 +36,7 @@ Supported by chess advisers [Jose Antonio Morillas](index.php?title=Jose_Antonio
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rhetoric - Equipo de Desarrollo](https://web.archive.org/web/20180823125714/http://www.chessrhetoric.com/index.php/equipo) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), August 23, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rhetoric - Equipo de Desarrollo](https://web.archive.org/web/20180823125714/http://www.chessrhetoric.com/index.php/equipo) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), August 23, 2018
 
 **[Up one level](People "People")**
 

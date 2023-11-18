@@ -53,17 +53,17 @@ Joe Leslie-Hurd is further author of the open source [Go](Go "Go") playing progr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gilith - Joe Leslie-Hurd](http://www.gilith.com/about/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Joe Leslie-Hurd - CV](http://www.gilith.com/about/cv.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Gilith - Chess](http://www.gilith.com/chess/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Joe Hurd (**2005**). *Formal Verification of Chess Endgame Databases*. Technical Report PRG-RR-05-02, [Oxford University](http://de.wikipedia.org/wiki/University_of_Oxford) Computing Laboratory, [pdf](http://www.gilith.com/research/papers/chess.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Gomi Go Player](http://www.gilith.com/software/gomi/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [fen2img Chess Diagram Maker](http://www.gilith.com/software/fen2img/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Gilith - Chess Diagram Maker](http://www.gilith.com/chess/diagrams/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Gilith - Research Papers](http://www.gilith.com/research/papers/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Joe Hurd](https://dblp.uni-trier.de/pid/29/4239.html)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [HOL (proof assistant) from Wikipedia](https://en.wikipedia.org/wiki/HOL_%28proof_assistant%29)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Homotopy Type Theory](https://homotopytypetheory.org/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gilith - Joe Leslie-Hurd](http://www.gilith.com/about/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Joe Leslie-Hurd - CV](http://www.gilith.com/about/cv.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gilith - Chess](http://www.gilith.com/chess/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Joe Hurd (**2005**). *Formal Verification of Chess Endgame Databases*. Technical Report PRG-RR-05-02, [Oxford University](http://de.wikipedia.org/wiki/University_of_Oxford) Computing Laboratory, [pdf](http://www.gilith.com/research/papers/chess.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Gomi Go Player](http://www.gilith.com/software/gomi/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [fen2img Chess Diagram Maker](http://www.gilith.com/software/fen2img/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Gilith - Chess Diagram Maker](http://www.gilith.com/chess/diagrams/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Gilith - Research Papers](http://www.gilith.com/research/papers/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Joe Hurd](https://dblp.uni-trier.de/pid/29/4239.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [HOL (proof assistant) from Wikipedia](https://en.wikipedia.org/wiki/HOL_%28proof_assistant%29)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Homotopy Type Theory](https://homotopytypetheory.org/)
 
 **[Up one level](People "People")**
 

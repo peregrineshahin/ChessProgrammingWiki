@@ -132,12 +132,12 @@ Since the authors are claiming some originality in the ideas represented in this
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The sexual cycle](https://commons.wikimedia.org/wiki/File:Sexual_cycle.svg), image by [Stannered](http://commons.wikimedia.org/wiki/User:Stannered), March 30, 2007, [Sex from Wikipedia](https://en.wikipedia.org/wiki/Sex) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> The **swap-off value** of a [move](Moves "Moves") is defined by its [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") value.
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The sexual cycle](https://commons.wikimedia.org/wiki/File:Sexual_cycle.svg), image by [Stannered](http://commons.wikimedia.org/wiki/User:Stannered), March 30, 2007, [Sex from Wikipedia](https://en.wikipedia.org/wiki/Sex) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> The **swap-off value** of a [move](Moves "Moves") is defined by its [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") value.
 The **non-swap-off value** of a move is the value of the position arising after that move with no exchanging sequences evaluated
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Parker Chess](Parker_Chess "Parker Chess") developed by [David Broughton](David_Broughton "David Broughton")
- 5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICCA1989 12 1 part.jpg](http://www.schach-computer.info/wiki/images/5/56/ICCA1989_12_1_part.jpg) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) 
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Parker Chess](Parker_Chess "Parker Chess") developed by [David Broughton](David_Broughton "David Broughton")
+ 5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICCA1989 12 1 part.jpg](http://www.schach-computer.info/wiki/images/5/56/ICCA1989_12_1_part.jpg) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) 
 
 **[Up one level](Selectivity "Selectivity")**
 

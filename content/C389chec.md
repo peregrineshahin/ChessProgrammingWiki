@@ -89,8 +89,8 @@ Written by Marc-François Baudot, in association with Jean-Christophe Weill of [
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [A Short Story of JCW's Computer Chess Program](http://recherche.enac.fr/~weill/chess.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the [11th World Microcomputer Chess Championship](WMCCC_1991 "WMCCC 1991")*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 14, No. 2
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [A Short Story of JCW's Computer Chess Program](http://recherche.enac.fr/~weill/chess.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the [11th World Microcomputer Chess Championship](WMCCC_1991 "WMCCC 1991")*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 14, No. 2
 
 **[Up one Level](Engines "Engines")**
 

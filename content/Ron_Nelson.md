@@ -80,15 +80,15 @@ After [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") acquired [Fideli
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fidelity Electronics](http://www.ismenio.com/fidelity.html) from [chesscomputers.org](http://www.ismenio.com/chess_computers.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Ron Nelson maybe will come here...](http://www.talkchess.com/forum/viewtopic.php?t=58813&start=6) by Ron Nelson, [CCC](CCC "CCC"), February 03, 2016
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Göran Grottling](G%C3%B6ran_Grottling "Göran Grottling") (**1988**). *Thank you Mister Spock! Ein Interview mit Sid Samole.* [Modul](Modul "Modul") 4/88, pp. 36-38 (German), [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1988,%20Modul,%20Interview%20mit%20Sid%20Samole.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Lev Alburt](https://en.wikipedia.org/wiki/Lev_Alburt) and [Al Lawrence](https://en.wikipedia.org/wiki/Al_Lawrence) (**2000**). *"How About a Nice Game of Chess?" - Any Time. Sidney Samole (1935-2000)*. [Chess Café](http://www.chesscafe.com/), October 17, 2000, [pdf](http://www.chesscafe.com/text/leval06.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Fidelity Chess Challenger 7](http://www.schach-computer.info/wiki/index.php/Fidelity_Chess_Challenger_7) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [16.Fidelity ..The Golden Years | Flickr - Fotosharing](http://www.flickr.com/photos/10261668@N05/sets/72157600923819227/with/858218235/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Excalibur Electronics](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=78) by ChessChallenger, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 22, 2015
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Excalibur Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591) by ChessChallenger, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 05, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fidelity Electronics](http://www.ismenio.com/fidelity.html) from [chesscomputers.org](http://www.ismenio.com/chess_computers.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Ron Nelson maybe will come here...](http://www.talkchess.com/forum/viewtopic.php?t=58813&start=6) by Ron Nelson, [CCC](CCC "CCC"), February 03, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Göran Grottling](G%C3%B6ran_Grottling "Göran Grottling") (**1988**). *Thank you Mister Spock! Ein Interview mit Sid Samole.* [Modul](Modul "Modul") 4/88, pp. 36-38 (German), [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1988,%20Modul,%20Interview%20mit%20Sid%20Samole.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Lev Alburt](https://en.wikipedia.org/wiki/Lev_Alburt) and [Al Lawrence](https://en.wikipedia.org/wiki/Al_Lawrence) (**2000**). *"How About a Nice Game of Chess?" - Any Time. Sidney Samole (1935-2000)*. [Chess Café](http://www.chesscafe.com/), October 17, 2000, [pdf](http://www.chesscafe.com/text/leval06.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fidelity Chess Challenger 7](http://www.schach-computer.info/wiki/index.php/Fidelity_Chess_Challenger_7) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [16.Fidelity ..The Golden Years | Flickr - Fotosharing](http://www.flickr.com/photos/10261668@N05/sets/72157600923819227/with/858218235/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Excalibur Electronics](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=78) by ChessChallenger, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 22, 2015
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Excalibur Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591) by ChessChallenger, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 05, 2016
 
 **[Up one level](People "People")**
 

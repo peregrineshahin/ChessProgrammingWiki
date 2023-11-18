@@ -84,10 +84,10 @@ f5 29.Qd2 Kf7 30.Qe2 fxe4 31.dxe4 Rxd1 32.Rxd1 Rxd1 33.Qxd1 Qxa2 34.f4 Bg4 35.Qd
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Enigma Machine at the [Imperial War Museum](https://en.wikipedia.org/wiki/Imperial_War_Museum), London, Photo by [Karsten Sperling](https://en.wikipedia.org/wiki/User:Sperling), December 31, 2004, [Enigma machine from Wikipedia](https://en.wikipedia.org/wiki/Enigma_machine)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Enigma changelog.txt](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Enigma%201.1.4%20%5B-xboard%5D/enigma114/changelog.txt)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mistrzostwa Polski Programów Szachowych - PGN](http://mpps.maciej.szmit.info/mpps-2/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Marian Rejewski](https://en.wikipedia.org/wiki/Marian_Rejewski) (**1981**). *[How Polish Mathematicians Deciphered the Enigma](https://ieeexplore.ieee.org/document/4640685)*. [IEEE Annals of the History of Computing](IEEE#Annals "IEEE")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Enigma Machine at the [Imperial War Museum](https://en.wikipedia.org/wiki/Imperial_War_Museum), London, Photo by [Karsten Sperling](https://en.wikipedia.org/wiki/User:Sperling), December 31, 2004, [Enigma machine from Wikipedia](https://en.wikipedia.org/wiki/Enigma_machine)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Enigma changelog.txt](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Enigma%201.1.4%20%5B-xboard%5D/enigma114/changelog.txt)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mistrzostwa Polski Programów Szachowych - PGN](http://mpps.maciej.szmit.info/mpps-2/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Marian Rejewski](https://en.wikipedia.org/wiki/Marian_Rejewski) (**1981**). *[How Polish Mathematicians Deciphered the Enigma](https://ieeexplore.ieee.org/document/4640685)*. [IEEE Annals of the History of Computing](IEEE#Annals "IEEE")
 
 **[Up one Level](Engines "Engines")**
 

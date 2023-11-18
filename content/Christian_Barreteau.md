@@ -49,8 +49,8 @@ fxg4 59.hxg4 Bd3 60.Bxd3 Rxd3 61.Rg8+ Kf4 62.Rd1 Rxg3+ 63.fxg3+ Kxg3 64.Rd8 Be3+
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Christian Barreteau - France | LinkedIn](https://www.linkedin.com/in/christian-barreteau-795a431a/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Massy 2001 - Tournoi de programmes d'Echecs](http://www.ludochess.com/trn_massy2001/tournoi.php3) from [LUDOCHESS - Les jeux d'Echecs 100% pur Java](http://www.ludochess.com/dotcom/accueil.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen") (dead link)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Christian Barreteau - France | LinkedIn](https://www.linkedin.com/in/christian-barreteau-795a431a/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Massy 2001 - Tournoi de programmes d'Echecs](http://www.ludochess.com/trn_massy2001/tournoi.php3) from [LUDOCHESS - Les jeux d'Echecs 100% pur Java](http://www.ludochess.com/dotcom/accueil.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen") (dead link)
 
 **[Up one level](People "People")**
 

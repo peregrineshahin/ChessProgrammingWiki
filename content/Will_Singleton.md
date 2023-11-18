@@ -78,13 +78,13 @@ an American [real estate](https://en.wikipedia.org/wiki/Real_estate) developer a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pamela Singleton - Pacific Palisades, California](https://www.familytreenow.com/records/people/singleton/pamela/rjmwk1v4-sqlvkho3as6mw) has William Singleton Wood, born 1953, as possible relative
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Bionic Vs Crafty Debate: some data required](https://www.stmintz.com/ccc/index.php?id=40836) by Will Singleton, [CCC](CCC "CCC"), January 25, 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: LCT II Fin4, Deep Thought, and Deep Blue (was Re: LCT II results...)](https://www.stmintz.com/ccc/index.php?id=13763) by Willie Wood, [CCC](CCC "CCC"), January 07, 1998
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Bionic Vs Crafty Debate: some data required](https://www.stmintz.com/ccc/index.php?id=40780) by Will Singleton, [CCC](CCC "CCC"), January 25, 1999
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Has this name been used before?](https://www.stmintz.com/ccc/index.php?id=12937) by Willie Wood, [CCC](CCC "CCC"), December 12, 1997
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Fixation: Amateur Chess Engine](http://cknelsen.sasktelwebsite.net/fixation/Amateur.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Withdrawal](https://www.stmintz.com/ccc/index.php?id=43855) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), February 19, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pamela Singleton - Pacific Palisades, California](https://www.familytreenow.com/records/people/singleton/pamela/rjmwk1v4-sqlvkho3as6mw) has William Singleton Wood, born 1953, as possible relative
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Bionic Vs Crafty Debate: some data required](https://www.stmintz.com/ccc/index.php?id=40836) by Will Singleton, [CCC](CCC "CCC"), January 25, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: LCT II Fin4, Deep Thought, and Deep Blue (was Re: LCT II results...)](https://www.stmintz.com/ccc/index.php?id=13763) by Willie Wood, [CCC](CCC "CCC"), January 07, 1998
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Bionic Vs Crafty Debate: some data required](https://www.stmintz.com/ccc/index.php?id=40780) by Will Singleton, [CCC](CCC "CCC"), January 25, 1999
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Has this name been used before?](https://www.stmintz.com/ccc/index.php?id=12937) by Willie Wood, [CCC](CCC "CCC"), December 12, 1997
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fixation: Amateur Chess Engine](http://cknelsen.sasktelwebsite.net/fixation/Amateur.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Withdrawal](https://www.stmintz.com/ccc/index.php?id=43855) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), February 19, 1999
 
 **[Up one level](People "People")**
 

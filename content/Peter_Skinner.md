@@ -48,9 +48,9 @@ Peter Skinner was member of the [Crafty](Crafty "Crafty") team around [Robert Hy
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [chessprogramming.wikispaces - Peter Skinner](http://web.archive.org/web/20180712230732/https://chessprogramming.wikispaces.com/Peter+Skinner) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [And.... I'm done](http://www.talkchess.com/forum3/viewtopic.php?t=51587) by Peter Skinner, [CCC](CCC "CCC"), March 13, 2014
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Crafty/README.md at master · MichaelB7/Crafty · GitHub](https://github.com/MichaelB7/Crafty/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [chessprogramming.wikispaces - Peter Skinner](http://web.archive.org/web/20180712230732/https://chessprogramming.wikispaces.com/Peter+Skinner) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [And.... I'm done](http://www.talkchess.com/forum3/viewtopic.php?t=51587) by Peter Skinner, [CCC](CCC "CCC"), March 13, 2014
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Crafty/README.md at master · MichaelB7/Crafty · GitHub](https://github.com/MichaelB7/Crafty/blob/master/README.md)
 
 **[Up one Level](People "People")**
 

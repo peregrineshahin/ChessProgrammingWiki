@@ -101,14 +101,14 @@ MBF ::= count of all nodes / count of non terminal nodes
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Example of red-black tree by [Cburnett](https://en.wikipedia.org/wiki/User:Cburnett), December 30, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Branching factor from Wikipedia](https://en.wikipedia.org/wiki/Branching_factor)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [EBF definition problem in chess wiki](http://www.talkchess.com/forum/viewtopic.php?t=39073) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), May 13, 2011
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Gérard M. Baudet](G%C3%A9rard_M._Baudet "Gérard M. Baudet") (**1978**). *On the branching factor of the alpha-beta pruning algorithm*. [Artificial Intelligence](Artificial_Intelligence#Journals "Artificial Intelligence") 10
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Judea Pearl](Judea_Pearl "Judea Pearl") (**1982**). *[The Solution for the Branching Factor of the Alpha-Beta Pruning Algorithm and its Optimality](http://portal.acm.org/citation.cfm?id=358616&dl=ACM&coll=DL&CFID=27355608&CFTOKEN=40935826)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 25, No. 8
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Branching Factor of top engines](http://www.talkchess.com/forum/viewtopic.php?t=48281) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), June 15, 2013 » [Houdini 3](Houdini "Houdini"), [Stockfish 3](Stockfish "Stockfish"), [Komodo 5 CCT](Komodo "Komodo"), [Shredder 6](Shredder "Shredder")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Calculation of branching factor](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=181822&t=20301) by [Tord Romstad](Tord_Romstad "Tord Romstad"), March 28, 2008
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Calculation of branching factor](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=181617&t=20301) by [Steven Edwards](Steven_Edwards "Steven Edwards"), March 27, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Example of red-black tree by [Cburnett](https://en.wikipedia.org/wiki/User:Cburnett), December 30, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Branching factor from Wikipedia](https://en.wikipedia.org/wiki/Branching_factor)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [EBF definition problem in chess wiki](http://www.talkchess.com/forum/viewtopic.php?t=39073) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), May 13, 2011
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Gérard M. Baudet](G%C3%A9rard_M._Baudet "Gérard M. Baudet") (**1978**). *On the branching factor of the alpha-beta pruning algorithm*. [Artificial Intelligence](Artificial_Intelligence#Journals "Artificial Intelligence") 10
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Judea Pearl](Judea_Pearl "Judea Pearl") (**1982**). *[The Solution for the Branching Factor of the Alpha-Beta Pruning Algorithm and its Optimality](http://portal.acm.org/citation.cfm?id=358616&dl=ACM&coll=DL&CFID=27355608&CFTOKEN=40935826)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 25, No. 8
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Branching Factor of top engines](http://www.talkchess.com/forum/viewtopic.php?t=48281) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), June 15, 2013 » [Houdini 3](Houdini "Houdini"), [Stockfish 3](Stockfish "Stockfish"), [Komodo 5 CCT](Komodo "Komodo"), [Shredder 6](Shredder "Shredder")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Calculation of branching factor](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=181822&t=20301) by [Tord Romstad](Tord_Romstad "Tord Romstad"), March 28, 2008
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Calculation of branching factor](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=181617&t=20301) by [Steven Edwards](Steven_Edwards "Steven Edwards"), March 27, 2008
 
 **[Up one Level](Search_Tree "Search Tree")**
 

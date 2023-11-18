@@ -41,9 +41,9 @@ was a German representative of [Fidelity Electronics](Fidelity_Electronics "Fide
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Remote Control Systems: RCS Granit/Granit S](http://chess-computer.blogspot.de/2012/11/remote-control-systems-rcs-granitgranit.html) (German), from the Obituary in [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), 4/1989
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fidelity Elite Privat](http://www.schach-computer.info/wiki/index.php/Fidelity_Elite_Privat) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1984**).*Move from the East*.Report of the WMCCC 1983, [Personal Computer World](Personal_Computer_World "Personal Computer World"), January 1984, [pdf](http://www.chesscomputeruk.com/PCW_January_1984_Budapest_Report.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Remote Control Systems: RCS Granit/Granit S](http://chess-computer.blogspot.de/2012/11/remote-control-systems-rcs-granitgranit.html) (German), from the Obituary in [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), 4/1989
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fidelity Elite Privat](http://www.schach-computer.info/wiki/index.php/Fidelity_Elite_Privat) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1984**).*Move from the East*.Report of the WMCCC 1983, [Personal Computer World](Personal_Computer_World "Personal Computer World"), January 1984, [pdf](http://www.chesscomputeruk.com/PCW_January_1984_Budapest_Report.pdf)
 
 **[Up one level](People "People")**
 

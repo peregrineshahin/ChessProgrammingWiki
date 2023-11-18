@@ -26,10 +26,10 @@ a Taiwanese electrical engineer and computer scientist, retired professor at dep
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tech Mahindra, ASUS in outsourcing pact](https://www.business-standard.com/article/technology/tech-mahindra-asus-in-outsourcing-pact-107080701127_1.html), [Business Standard](https://en.wikipedia.org/wiki/Business_Standard), August 7, 2007
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Yi-Fan Ke](Yi-Fan_Ke "Yi-Fan Ke") (**1996**). *A parallel hardware architecture for accelerating computer chess system-平行電腦象棋系統架構之設計及研究*. Ph.D. thesis, [National Taiwan University](National_Taiwan_University "National Taiwan University")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Yi-Fan Ke](Yi-Fan_Ke "Yi-Fan Ke"), Tai-Ming Parng (**1993**). *The Guard Heuristic: Legal Move Ordering with Forward Game-Tree Pruning*. [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Tai-Ming Parng](http://www.informatik.uni-trier.de/~ley/pers/hd/p/Parng:Tai=Ming.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tech Mahindra, ASUS in outsourcing pact](https://www.business-standard.com/article/technology/tech-mahindra-asus-in-outsourcing-pact-107080701127_1.html), [Business Standard](https://en.wikipedia.org/wiki/Business_Standard), August 7, 2007
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Yi-Fan Ke](Yi-Fan_Ke "Yi-Fan Ke") (**1996**). *A parallel hardware architecture for accelerating computer chess system-平行電腦象棋系統架構之設計及研究*. Ph.D. thesis, [National Taiwan University](National_Taiwan_University "National Taiwan University")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Yi-Fan Ke](Yi-Fan_Ke "Yi-Fan Ke"), Tai-Ming Parng (**1993**). *The Guard Heuristic: Legal Move Ordering with Forward Game-Tree Pruning*. [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Tai-Ming Parng](http://www.informatik.uni-trier.de/~ley/pers/hd/p/Parng:Tai=Ming.html)
 
 **[Up one level](People "People")**
 

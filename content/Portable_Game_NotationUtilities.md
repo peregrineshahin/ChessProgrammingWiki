@@ -203,16 +203,16 @@ title: Portable Game NotationUtilities
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SAN Kit: Implemented Standards for Chess Move Notation](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/games/chess/san/) by [Steven Edwards](Steven_Edwards "Steven Edwards")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [XML from Wikipedia](https://en.wikipedia.org/wiki/XML)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - fsmosca/PGN-Standard: Portable Game Notation Specification and Implementation Guide](https://github.com/fsmosca/PGN-Standard) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [JSON from Wikipedia](https://en.wikipedia.org/wiki/JSON)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: PGN standard](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73984&start=10) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), May 22, 2020
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Tool to recreate PGN from winboard.debug?](http://www.talkchess.com/forum/viewtopic.php?t=46721) by [Sven Schüle](Sven_Sch%C3%BCle "Sven Schüle"), [CCC](CCC "CCC"), January 01, 2013
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [An important message to users of 40H utility tools](http://www.talkchess.com/forum/viewtopic.php?t=58581) by [Norm Pollock](index.php?title=Norman_Pollock&action=edit&redlink=1 "Norman Pollock (page does not exist)"), [CCC](CCC "CCC"), December 13, 2015
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: 40H chess downloads has moved](http://www.talkchess.com/forum/viewtopic.php?t=59376&start=1) by [Norm Pollock](index.php?title=Norman_Pollock&action=edit&redlink=1 "Norman Pollock (page does not exist)"), [CCC](CCC "CCC"), March 12, 2016
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Moved "40H" tools/utilities to a new URL](http://www.talkchess.com/forum/viewtopic.php?t=62554) by [Norm Pollock](index.php?title=Norman_Pollock&action=edit&redlink=1 "Norman Pollock (page does not exist)"), [CCC](CCC "CCC"), December 21, 2016
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [chess.py.txt](http://www.sdragons.org/Software/Python/chess.py.txt)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SAN Kit: Implemented Standards for Chess Move Notation](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/games/chess/san/) by [Steven Edwards](Steven_Edwards "Steven Edwards")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [XML from Wikipedia](https://en.wikipedia.org/wiki/XML)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - fsmosca/PGN-Standard: Portable Game Notation Specification and Implementation Guide](https://github.com/fsmosca/PGN-Standard) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [JSON from Wikipedia](https://en.wikipedia.org/wiki/JSON)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: PGN standard](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73984&start=10) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), May 22, 2020
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Tool to recreate PGN from winboard.debug?](http://www.talkchess.com/forum/viewtopic.php?t=46721) by [Sven Schüle](Sven_Sch%C3%BCle "Sven Schüle"), [CCC](CCC "CCC"), January 01, 2013
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [An important message to users of 40H utility tools](http://www.talkchess.com/forum/viewtopic.php?t=58581) by [Norm Pollock](index.php?title=Norman_Pollock&action=edit&redlink=1 "Norman Pollock (page does not exist)"), [CCC](CCC "CCC"), December 13, 2015
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: 40H chess downloads has moved](http://www.talkchess.com/forum/viewtopic.php?t=59376&start=1) by [Norm Pollock](index.php?title=Norman_Pollock&action=edit&redlink=1 "Norman Pollock (page does not exist)"), [CCC](CCC "CCC"), March 12, 2016
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Moved "40H" tools/utilities to a new URL](http://www.talkchess.com/forum/viewtopic.php?t=62554) by [Norm Pollock](index.php?title=Norman_Pollock&action=edit&redlink=1 "Norman Pollock (page does not exist)"), [CCC](CCC "CCC"), December 21, 2016
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [chess.py.txt](http://www.sdragons.org/Software/Python/chess.py.txt)
 
 **[Up one Level](Game_Notation "Game Notation")**
 

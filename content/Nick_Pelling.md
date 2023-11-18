@@ -79,16 +79,16 @@ Somewhat longer ago, along with [Arthur Norman](Arthur_Norman "Arthur Norman"), 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nick Pelling (@nickpelling) | Twitter](https://twitter.com/nickpelling)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nick Pelling | LinkedIn](https://www.linkedin.com/in/nick-pelling-2b8384)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Nick Pelling (**2004**). *[The Network Is The Knowledge: Ideology & Strategy in Mintzberg's Ten Schools](http://www.nickpelling.com/dissertation/)*. [MBA](https://en.wikipedia.org/wiki/Master_of_Business_Administration) dissertation, [Kingston University](https://en.wikipedia.org/wiki/Kingston_University) [Business School](https://en.wikipedia.org/wiki/Kingston_Business_School), [Surrey](https://en.wikipedia.org/wiki/Surrey), UK
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nick Pelling from Wikipedia - Ludography](https://en.wikipedia.org/wiki/Nick_Pelling#Ludography)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Surbiton Chess Club - Chess Superminiatures](http://www.surbitonchessclub.co.uk/news_chess_superminiatures.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Nick Pelling (**2013**). *[Chess Superminiatures](https://www.amazon.co.uk/Chess-Superminiatures-Nick-Pelling-ebook/dp/B00HEOZ8B6)*. [eBook](https://en.wikipedia.org/wiki/E-book), [Kindle edition](https://en.wikipedia.org/wiki/Amazon_Kindle), [Amazon](https://en.wikipedia.org/wiki/Amazon.com)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Stockfish/AUTHORS](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Nick Pelling's Home Page!](http://www.nickpelling.com/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Graphics Core Next from Wikipedia](https://en.wikipedia.org/wiki/Graphics_Core_Next)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [AMD Accelerated Processing Unit from Wikipedia](https://en.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nick Pelling (@nickpelling) | Twitter](https://twitter.com/nickpelling)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nick Pelling | LinkedIn](https://www.linkedin.com/in/nick-pelling-2b8384)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Nick Pelling (**2004**). *[The Network Is The Knowledge: Ideology & Strategy in Mintzberg's Ten Schools](http://www.nickpelling.com/dissertation/)*. [MBA](https://en.wikipedia.org/wiki/Master_of_Business_Administration) dissertation, [Kingston University](https://en.wikipedia.org/wiki/Kingston_University) [Business School](https://en.wikipedia.org/wiki/Kingston_Business_School), [Surrey](https://en.wikipedia.org/wiki/Surrey), UK
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nick Pelling from Wikipedia - Ludography](https://en.wikipedia.org/wiki/Nick_Pelling#Ludography)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Surbiton Chess Club - Chess Superminiatures](http://www.surbitonchessclub.co.uk/news_chess_superminiatures.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Nick Pelling (**2013**). *[Chess Superminiatures](https://www.amazon.co.uk/Chess-Superminiatures-Nick-Pelling-ebook/dp/B00HEOZ8B6)*. [eBook](https://en.wikipedia.org/wiki/E-book), [Kindle edition](https://en.wikipedia.org/wiki/Amazon_Kindle), [Amazon](https://en.wikipedia.org/wiki/Amazon.com)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Stockfish/AUTHORS](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Nick Pelling's Home Page!](http://www.nickpelling.com/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Graphics Core Next from Wikipedia](https://en.wikipedia.org/wiki/Graphics_Core_Next)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [AMD Accelerated Processing Unit from Wikipedia](https://en.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit)
 
 **[Up one level](People "People")**
 

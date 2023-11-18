@@ -78,14 +78,14 @@ He developed a computational chess aesthetics model and incorporated it into a c
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mohammed Azlan Bin Mohamed Iqbal](http://metalab.uniten.edu.my/%7Eazlan/) at [Universiti Tenaga Nasional](https://en.wikipedia.org/wiki/Universiti_Tenaga_Nasional)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess aesthetics from Wikipedia](https://en.wikipedia.org/wiki/Chess_aesthetics)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [A machine that composes chess problems’](https://en.chessbase.com/post/a-machine-that-composes-chess-problems) by Azlan Iqbal, [ChessBase News](ChessBase "ChessBase"), November 07, 2014
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DBLP: Azlan Iqbal](https://dblp.uni-trier.de/pers/hd/i/Iqbal:Azlan.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Dr. Mohammed Azlan Bin Mohamed Iqbal (Publications and Research Grants)](http://metalab.uniten.edu.my/%7Eazlan/Research/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [A computer program to identify beauty in problems and studies](https://en.chessbase.com/post/a-computer-program-to-identify-beauty-in-problems-and-studies), [ChessBase News](ChessBase "ChessBase"), December 15, 2012
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Chain detection algorithm](http://www.talkchess.com/forum/viewtopic.php?t=64594) by Jorge Garcia, [CCC](CCC "CCC"), July 13, 2017
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Four knights vs queen challenge](https://en.chessbase.com/post/four-knights-vs-queen-challenge-2) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), 0ctober 02, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mohammed Azlan Bin Mohamed Iqbal](http://metalab.uniten.edu.my/%7Eazlan/) at [Universiti Tenaga Nasional](https://en.wikipedia.org/wiki/Universiti_Tenaga_Nasional)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess aesthetics from Wikipedia](https://en.wikipedia.org/wiki/Chess_aesthetics)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [A machine that composes chess problems’](https://en.chessbase.com/post/a-machine-that-composes-chess-problems) by Azlan Iqbal, [ChessBase News](ChessBase "ChessBase"), November 07, 2014
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DBLP: Azlan Iqbal](https://dblp.uni-trier.de/pers/hd/i/Iqbal:Azlan.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dr. Mohammed Azlan Bin Mohamed Iqbal (Publications and Research Grants)](http://metalab.uniten.edu.my/%7Eazlan/Research/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [A computer program to identify beauty in problems and studies](https://en.chessbase.com/post/a-computer-program-to-identify-beauty-in-problems-and-studies), [ChessBase News](ChessBase "ChessBase"), December 15, 2012
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chain detection algorithm](http://www.talkchess.com/forum/viewtopic.php?t=64594) by Jorge Garcia, [CCC](CCC "CCC"), July 13, 2017
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Four knights vs queen challenge](https://en.chessbase.com/post/four-knights-vs-queen-challenge-2) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), 0ctober 02, 2017
 
 **[Up one level](Engines "Engines")**
 

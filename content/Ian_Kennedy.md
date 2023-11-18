@@ -34,9 +34,9 @@ and as of 2020 still under active development <a id="cite-note-3" href="#cite-re
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Does anyone play chess?](https://groups.google.com/g/rec.games.chess/c/OWveIuYYGZg/m/kFxFw_zcHzgJ) by Ian Kennedy, [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), July 5, 1995
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Don Beal](Don_Beal "Don Beal") (**1993**). *Report on the QMW 1993 Uniform-Platform Computer-Chess Championship.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [YBW engines past and present?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76184) by Ian Kennedy, [CCC](CCC "CCC"), December 30, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Does anyone play chess?](https://groups.google.com/g/rec.games.chess/c/OWveIuYYGZg/m/kFxFw_zcHzgJ) by Ian Kennedy, [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), July 5, 1995
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Don Beal](Don_Beal "Don Beal") (**1993**). *Report on the QMW 1993 Uniform-Platform Computer-Chess Championship.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [YBW engines past and present?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76184) by Ian Kennedy, [CCC](CCC "CCC"), December 30, 2020
 
 **[Up one level](People "People")**
 

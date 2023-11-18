@@ -21,10 +21,10 @@ a German software devloper and chess programmer. He is co-author of the chess pr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hiarcs Fan Page](http://www.thorstenczub.de/hiarcs.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Thomas Mally](Thomas_Mally "Thomas Mally") (**1990**). *The 10th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the 11th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Werner Koch's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=180)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hiarcs Fan Page](http://www.thorstenczub.de/hiarcs.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Thomas Mally](Thomas_Mally "Thomas Mally") (**1990**). *The 10th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the 11th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Werner Koch's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=180)
 
 **[Up one level](People "People")**
 

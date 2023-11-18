@@ -50,9 +50,9 @@ a commercial mass market chess program running under [Windows 95](Windows "Windo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Power Chess from Wikipedia](https://en.wikipedia.org/wiki/Power_Chess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Power Chess from Wikipedia](https://en.wikipedia.org/wiki/Power_Chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Power Chess from Wikipedia](https://en.wikipedia.org/wiki/Power_Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Power Chess from Wikipedia](https://en.wikipedia.org/wiki/Power_Chess)
 
 **[Up one level](Engines "Engines")**
 

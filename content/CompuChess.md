@@ -39,17 +39,17 @@ by [David Levy](David_Levy "David Levy") and [Monroe Newborn](Monroe_Newborn "Mo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Compuchess Closeup | Flickr - Fotosharing](http://www.flickr.com/photos/10261668@N05/859056406/in/photostream) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CompuChess](http://www.schach-computer.info/wiki/index.php/CompuChess) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CompuChess](http://www.schach-computer.info/wiki/index.php/CompuChess) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [DATA CASH Systems, Inc. v. JS&A Group, Inc., et al.](http://www2.newpaltz.edu/%7Ezuckerpr/cases/data-chs.htm)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Data Cash Systems v. JS&A Group - The IT Law Wiki](http://itlaw.wikia.com/wiki/Data_Cash_Systems_v._JS%26A_Group)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Data Cash Systems, Inc. v. JS&A GROUP, INC., 480 F. Supp. 1063 - Dist. Court, ND Illinois 1979 - Google Scholar](http://scholar.google.com/scholar_case?case=2740925334562415320)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Data Cash Systems, Inc. v. JS&A GROUP, INC., 628 F. 2d 1038 - Court of Appeals, 7th Circuit 1980 - Google Scholar](http://scholar.google.com/scholar_case?case=6047525544656937218)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [David Levy](David_Levy "David Levy"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1991**). *How Computers Play Chess*. Freeman & Co. ISBN 0-7167-8121-2
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> also quoted in [Data Cash Systems - CompuChess The Second Edition](http://www.schaakcomputers.nl/hein_veldhuis/database/files/08-1978%20%5BA-2979%5D%20Data%20Cash%20Systems%20-%20CompuChess%20The%20Second%20Edition.pdf) pdf by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [CompuChess - Play 3D chess, download free online chess games](http://www.inertiasoftware.com/chess/index.php) by [Inertia Game Studios - UK based Casual Games Developer](http://www.inertiasoftware.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Compuchess Closeup | Flickr - Fotosharing](http://www.flickr.com/photos/10261668@N05/859056406/in/photostream) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CompuChess](http://www.schach-computer.info/wiki/index.php/CompuChess) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CompuChess](http://www.schach-computer.info/wiki/index.php/CompuChess) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [DATA CASH Systems, Inc. v. JS&A Group, Inc., et al.](http://www2.newpaltz.edu/%7Ezuckerpr/cases/data-chs.htm)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Data Cash Systems v. JS&A Group - The IT Law Wiki](http://itlaw.wikia.com/wiki/Data_Cash_Systems_v._JS%26A_Group)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Data Cash Systems, Inc. v. JS&A GROUP, INC., 480 F. Supp. 1063 - Dist. Court, ND Illinois 1979 - Google Scholar](http://scholar.google.com/scholar_case?case=2740925334562415320)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Data Cash Systems, Inc. v. JS&A GROUP, INC., 628 F. 2d 1038 - Court of Appeals, 7th Circuit 1980 - Google Scholar](http://scholar.google.com/scholar_case?case=6047525544656937218)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [David Levy](David_Levy "David Levy"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1991**). *How Computers Play Chess*. Freeman & Co. ISBN 0-7167-8121-2
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> also quoted in [Data Cash Systems - CompuChess The Second Edition](http://www.schaakcomputers.nl/hein_veldhuis/database/files/08-1978%20%5BA-2979%5D%20Data%20Cash%20Systems%20-%20CompuChess%20The%20Second%20Edition.pdf) pdf by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [CompuChess - Play 3D chess, download free online chess games](http://www.inertiasoftware.com/chess/index.php) by [Inertia Game Studios - UK based Casual Games Developer](http://www.inertiasoftware.com/)
 
 **[Up one level](Engines "Engines")**
 

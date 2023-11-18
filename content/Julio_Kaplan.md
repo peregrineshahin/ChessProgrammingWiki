@@ -33,11 +33,11 @@ an Argentinean born, Puerto Rican chess player and [International Master](https:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Interview with Julio P Kaplan](http://www.p4r.org.ar/biografias/kaplan.htm), July 8, 2006 (Spanish)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Julio Kaplan from Wikipedia](https://en.wikipedia.org/wiki/Julio_Kaplan)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tekla E. Perry](https://www.linkedin.com/in/tekla-perry-33b4a211), [Paul Wallich](http://spectrum.ieee.org/at-work/innovation/review-liars-outliers) (**1983**). *[Design case history: the Atari Video Computer System](http://www.atarimuseum.com/videogames/consoles/2600/Atari_case_history.html)*. [IEEE Spectrum](IEEE#Spectrum "IEEE"), March 1983, "Doing the 'impossible': chess"
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Saitek](http://www.schach-computer.info/wiki/index.php/Saitek_En) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: list of our chess computers , let's share it](http://hiarcs.net/forums/viewtopic.php?t=204&start=34) by [Craig Barnes](Craig_Barnes "Craig Barnes"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 17, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Interview with Julio P Kaplan](http://www.p4r.org.ar/biografias/kaplan.htm), July 8, 2006 (Spanish)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Julio Kaplan from Wikipedia](https://en.wikipedia.org/wiki/Julio_Kaplan)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tekla E. Perry](https://www.linkedin.com/in/tekla-perry-33b4a211), [Paul Wallich](http://spectrum.ieee.org/at-work/innovation/review-liars-outliers) (**1983**). *[Design case history: the Atari Video Computer System](http://www.atarimuseum.com/videogames/consoles/2600/Atari_case_history.html)*. [IEEE Spectrum](IEEE#Spectrum "IEEE"), March 1983, "Doing the 'impossible': chess"
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Saitek](http://www.schach-computer.info/wiki/index.php/Saitek_En) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: list of our chess computers , let's share it](http://hiarcs.net/forums/viewtopic.php?t=204&start=34) by [Craig Barnes](Craig_Barnes "Craig Barnes"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 17, 2010
 
 **[Up one level](People "People")**
 

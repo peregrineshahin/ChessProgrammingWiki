@@ -151,21 +151,21 @@ Not a chess programmer by himself, Lyudmil contributed in [CCC](CCC "CCC") and k
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photos Courtesy of Lyudmil Tsvetkov
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Department of Foreign Affairs - New Ambassadors present Credentials](http://www.dfa.ie/home/index.aspx?id=37646)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ludmil Tsvetkov chess games - 365Chess.com](http://www.365chess.com/players/Ludmil_Tsvetkov)
- 4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Lyudmil Tsvetkov (**2010**). *Little Chess Evaluation Compendium*. [2010 pdf](images/a/a0/LittleChessEvaluationCompendium-2010-04-07.pdf "LittleChessEvaluationCompendium-2010-04-07.pdf") 
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Thanks](http://www.talkchess.com/forum/viewtopic.php?t=52697&start=9) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), June 20, 2014
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [An Update of the Addendum to the LittleCompendium](http://www.talkchess.com/forum/viewtopic.php?t=44265) by Lyudmil Tsvetkov, [CCC](CCC "CCC"), July 02, 2012
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Post-final release of the Little Compendium](http://www.talkchess.com/forum/viewtopic.php?t=46166) by Lyudmil Tsvetkov, [CCC](CCC "CCC"), November 27, 2012
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [The Secret of Chess](http://www.talkchess.com/forum/viewtopic.php?t=64776) by Lyudmil Tsvetkov, [CCC](CCC "CCC"), August 01, 2017
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The Secret of Chess? - Review](http://davidsmerdon.com/?p=1970) by [David Smerdon](https://en.wikipedia.org/wiki/David_Smerdon), December 03, 2017
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [The Secret of Chess](https://en.chessbase.com/post/the-secret-of-chess) by [David Smerdon](https://en.wikipedia.org/wiki/David_Smerdon), [ChessBase News](ChessBase "ChessBase"), December 22, 2017
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Playing with "The Secret of Chess"](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76453) by [Harald Lüßen](Harald_L%C3%BC%C3%9Fen "Harald Lüßen"), [CCC](CCC "CCC"), January 30, 2021
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Human versus Machine](http://www.hiarcs.net/forums/viewtopic.php?t=8613) by Lyudmil Tsvetkov, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 08, 2017
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [The Fine Art of Chess](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71791) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), September 11, 2019
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [King's Indian Defence from Wikipedia](https://en.wikipedia.org/wiki/King%27s_Indian_Defence)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Two Knights Defense, Fried Liver Attack - Wikipedia](https://en.wikipedia.org/wiki/Two_Knights_Defense,_Fried_Liver_Attack)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photos Courtesy of Lyudmil Tsvetkov
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Department of Foreign Affairs - New Ambassadors present Credentials](http://www.dfa.ie/home/index.aspx?id=37646)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ludmil Tsvetkov chess games - 365Chess.com](http://www.365chess.com/players/Ludmil_Tsvetkov)
+ 4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Lyudmil Tsvetkov (**2010**). *Little Chess Evaluation Compendium*. [2010 pdf](images/a/a0/LittleChessEvaluationCompendium-2010-04-07.pdf "LittleChessEvaluationCompendium-2010-04-07.pdf") 
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Thanks](http://www.talkchess.com/forum/viewtopic.php?t=52697&start=9) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), June 20, 2014
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [An Update of the Addendum to the LittleCompendium](http://www.talkchess.com/forum/viewtopic.php?t=44265) by Lyudmil Tsvetkov, [CCC](CCC "CCC"), July 02, 2012
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Post-final release of the Little Compendium](http://www.talkchess.com/forum/viewtopic.php?t=46166) by Lyudmil Tsvetkov, [CCC](CCC "CCC"), November 27, 2012
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [The Secret of Chess](http://www.talkchess.com/forum/viewtopic.php?t=64776) by Lyudmil Tsvetkov, [CCC](CCC "CCC"), August 01, 2017
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The Secret of Chess? - Review](http://davidsmerdon.com/?p=1970) by [David Smerdon](https://en.wikipedia.org/wiki/David_Smerdon), December 03, 2017
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [The Secret of Chess](https://en.chessbase.com/post/the-secret-of-chess) by [David Smerdon](https://en.wikipedia.org/wiki/David_Smerdon), [ChessBase News](ChessBase "ChessBase"), December 22, 2017
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Playing with "The Secret of Chess"](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76453) by [Harald Lüßen](Harald_L%C3%BC%C3%9Fen "Harald Lüßen"), [CCC](CCC "CCC"), January 30, 2021
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Human versus Machine](http://www.hiarcs.net/forums/viewtopic.php?t=8613) by Lyudmil Tsvetkov, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 08, 2017
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [The Fine Art of Chess](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71791) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), September 11, 2019
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [King's Indian Defence from Wikipedia](https://en.wikipedia.org/wiki/King%27s_Indian_Defence)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Two Knights Defense, Fried Liver Attack - Wikipedia](https://en.wikipedia.org/wiki/Two_Knights_Defense,_Fried_Liver_Attack)
 
 **[Up one level](People "People")**
 

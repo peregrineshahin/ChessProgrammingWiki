@@ -71,11 +71,11 @@ feat. [Chris Layton](https://en.wikipedia.org/wiki/Chris_Layton) and [Tommy Shan
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1999**). *The System: A World Champion's Approach to Chess*, [Gambit Publications](https://en.wikipedia.org/wiki/Gambit_Publications), ISBN 1-901983-10-2
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Types of doubled pawns from Wikipedia](https://en.wikipedia.org/wiki/Doubled_pawns#Types_of_doubled_pawns)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1987**). *Some Innovations Introduced by Hitech*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 10, No. 3, pp. 111-117
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1985**). *Computer Chess at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")*. [Advances in Computer Chess 4](Advances_in_Computer_Chess_4 "Advances in Computer Chess 4")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**2005**). *[All About Doubled Pawns](https://de.scribd.com/document/10151669/All-About-Doubled-Pawns)*.
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1999**). *The System: A World Champion's Approach to Chess*, [Gambit Publications](https://en.wikipedia.org/wiki/Gambit_Publications), ISBN 1-901983-10-2
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Types of doubled pawns from Wikipedia](https://en.wikipedia.org/wiki/Doubled_pawns#Types_of_doubled_pawns)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1987**). *Some Innovations Introduced by Hitech*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 10, No. 3, pp. 111-117
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1985**). *Computer Chess at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")*. [Advances in Computer Chess 4](Advances_in_Computer_Chess_4 "Advances in Computer Chess 4")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**2005**). *[All About Doubled Pawns](https://de.scribd.com/document/10151669/All-About-Doubled-Pawns)*.
 
 **[Up one Level](Pawn_Structure "Pawn Structure")**
 

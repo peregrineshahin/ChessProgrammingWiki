@@ -81,8 +81,8 @@ and focuses on [parallel search](Parallel_Search "Parallel Search"), in particul
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Emil Fredrik Østensen](index.php?title=Emil_Fredrik_%C3%98stensen&action=edit&redlink=1 "Emil Fredrik Østensen (page does not exist)") (**2016**). *A Complete Chess Engine Parallelized Using Lazy SMP*. M.Sc. thesis, [University of Oslo](https://en.wikipedia.org/wiki/University_of_Oslo), [pdf](https://www.duo.uio.no/bitstream/handle/10852/53769/master.pdf?sequence=1)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - emilfo/master - Kholin Chess Engine](https://github.com/emilfo/master)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Emil Fredrik Østensen](index.php?title=Emil_Fredrik_%C3%98stensen&action=edit&redlink=1 "Emil Fredrik Østensen (page does not exist)") (**2016**). *A Complete Chess Engine Parallelized Using Lazy SMP*. M.Sc. thesis, [University of Oslo](https://en.wikipedia.org/wiki/University_of_Oslo), [pdf](https://www.duo.uio.no/bitstream/handle/10852/53769/master.pdf?sequence=1)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - emilfo/master - Kholin Chess Engine](https://github.com/emilfo/master)
 
 **[Up one Level](Engines "Engines")**
 

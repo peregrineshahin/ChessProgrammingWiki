@@ -140,9 +140,9 @@ Nd5 30.Rff7 Rxe4 31.Nxd3 Qd6 32.Bh6 Qxh2+ 33.Kxh2 Rh4+ 34.Kg1 Rxh6 35.Qxd5 Rh5
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> How do vanilla chess checkerboard cookies? (no longer exist)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Index of /chess/engines/Norbert's collection/Vanilla Chess (Compilation)/v2.6g JA/vanillachess 26g/modified src code/vchess26g.c](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Vanilla%20Chess%20%28Compilation%29/v2.6g%20JA/vanillachess%2026g/modified%20src%20code/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NC3 - 2003 Australian National Computer Chess Championship](http://home.pacific.net.au/%7Etommyinoz/nc3.html) by [Thomas McBurney](Thomas_McBurney "Thomas McBurney")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> How do vanilla chess checkerboard cookies? (no longer exist)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Index of /chess/engines/Norbert's collection/Vanilla Chess (Compilation)/v2.6g JA/vanillachess 26g/modified src code/vchess26g.c](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Vanilla%20Chess%20%28Compilation%29/v2.6g%20JA/vanillachess%2026g/modified%20src%20code/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NC3 - 2003 Australian National Computer Chess Championship](http://home.pacific.net.au/%7Etommyinoz/nc3.html) by [Thomas McBurney](Thomas_McBurney "Thomas McBurney")
 
 **[Up one Level](Engines "Engines")**
 

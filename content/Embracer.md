@@ -39,9 +39,9 @@ The project started in 1999, very much inspired from the instructive code of [TS
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bartolomeo Cesi](index.php?title=Category:Bartolomeo_Cesi&action=edit&redlink=1 "Category:Bartolomeo Cesi (page does not exist)") - [Two men in Florence kissing](https://commons.wikimedia.org/wiki/File:Twoflorencemenkiss.jpg), 1600, [Uffizi Gallery](https://en.wikipedia.org/wiki/Uffizi), [Florence](https://en.wikipedia.org/wiki/Florence), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alarm - History](http://web.archive.org/web/20020701112457fw_/http://www.codenet.se:80/Alarm/history.htm) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Embracer 1.00](https://www.stmintz.com/ccc/index.php?id=200601) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [CCC](CCC "CCC"), December 05, 2001
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bartolomeo Cesi](index.php?title=Category:Bartolomeo_Cesi&action=edit&redlink=1 "Category:Bartolomeo Cesi (page does not exist)") - [Two men in Florence kissing](https://commons.wikimedia.org/wiki/File:Twoflorencemenkiss.jpg), 1600, [Uffizi Gallery](https://en.wikipedia.org/wiki/Uffizi), [Florence](https://en.wikipedia.org/wiki/Florence), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alarm - History](http://web.archive.org/web/20020701112457fw_/http://www.codenet.se:80/Alarm/history.htm) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Embracer 1.00](https://www.stmintz.com/ccc/index.php?id=200601) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [CCC](CCC "CCC"), December 05, 2001
 
 **[Up one level](Engines "Engines")**
 

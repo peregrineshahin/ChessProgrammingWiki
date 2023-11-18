@@ -23,11 +23,11 @@ a Dutch computer chess expert, who published and maintained interesting chess <a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paul Verhelst's chess pages](https://web.archive.org/web/20010408203313/http://www.xs4all.nl/~verhelst/chess/links.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), April 08, 2001)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Paul Verhelst's chess programming pages](https://web.archive.org/web/20010405091155/http://www.xs4all.nl/~verhelst/chess/programming.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), April 05, 2001)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: futility pruning](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=59315&start=11) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), March 11, 2016
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Paul Wiereyn](Paul_Wiereyn "Paul Wiereyn") (**1985**). *Inventive Problem Solving*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462693&t=43447) by [Dave Kittinger](David_Kittinger "David Kittinger"), [CCC](CCC "CCC"), April 26, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul Verhelst's chess pages](https://web.archive.org/web/20010408203313/http://www.xs4all.nl/~verhelst/chess/links.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), April 08, 2001)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Paul Verhelst's chess programming pages](https://web.archive.org/web/20010405091155/http://www.xs4all.nl/~verhelst/chess/programming.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), April 05, 2001)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: futility pruning](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=59315&start=11) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), March 11, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Paul Wiereyn](Paul_Wiereyn "Paul Wiereyn") (**1985**). *Inventive Problem Solving*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462693&t=43447) by [Dave Kittinger](David_Kittinger "David Kittinger"), [CCC](CCC "CCC"), April 26, 2012
 
 **[Up one level](People "People")**
 

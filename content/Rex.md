@@ -135,17 +135,17 @@ The next step forward came when [Novag's](Novag "Novag") [Dave Kittinger](David_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Close up of "Sue" T-Rex replica skull at the [Field Museum of Natural History](https://en.wikipedia.org/wiki/Field_Museum_of_Natural_History) in [Chicago, IL.](https://en.wikipedia.org/wiki/Chicago), by Scott Robert Anselmo, November 09, 2009, [Tyrannosaurus from Wikipedia](https://en.wikipedia.org/wiki/Tyrannosaurus)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Don Dailey, 1956-2013](http://www.talkchess.com/forum/viewtopic.php?t=50189) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 23, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 9:16
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cologne 1986 - Chess - Round 4 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=1)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Index of /~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [r4-awit-rex.txt](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/r4-awit-rex.txt) by [Tony Marsland](Tony_Marsland "Tony Marsland")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Cheating in the World Computer Chess Championship](http://groups.google.com/group/rec.games.chess.misc/browse_frm/thread/5f9e4a3c23197920) by [Sam Sloan](Sam_Sloan "Sam Sloan"), [rec.games.chess.misc](Computer_Chess_Forums "Computer Chess Forums"), March 11, 1999
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 1:15
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Cologne 1986 - Chess - Round 5 - Game 11 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=5&id=11)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1988**). *U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1987-1988, pp. 21
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1990**). *The Rexchess Story*. [Computer Chess Reports Quarterly](Computer_Chess_Reports "Computer Chess Reports"), Vol. 1, No. 1, pp. 8
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Close up of "Sue" T-Rex replica skull at the [Field Museum of Natural History](https://en.wikipedia.org/wiki/Field_Museum_of_Natural_History) in [Chicago, IL.](https://en.wikipedia.org/wiki/Chicago), by Scott Robert Anselmo, November 09, 2009, [Tyrannosaurus from Wikipedia](https://en.wikipedia.org/wiki/Tyrannosaurus)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Don Dailey, 1956-2013](http://www.talkchess.com/forum/viewtopic.php?t=50189) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 23, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 9:16
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cologne 1986 - Chess - Round 4 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=1)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Index of /~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [r4-awit-rex.txt](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/r4-awit-rex.txt) by [Tony Marsland](Tony_Marsland "Tony Marsland")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Cheating in the World Computer Chess Championship](http://groups.google.com/group/rec.games.chess.misc/browse_frm/thread/5f9e4a3c23197920) by [Sam Sloan](Sam_Sloan "Sam Sloan"), [rec.games.chess.misc](Computer_Chess_Forums "Computer Chess Forums"), March 11, 1999
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 1:15
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Cologne 1986 - Chess - Round 5 - Game 11 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=5&id=11)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1988**). *U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1987-1988, pp. 21
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1990**). *The Rexchess Story*. [Computer Chess Reports Quarterly](Computer_Chess_Reports "Computer Chess Reports"), Vol. 1, No. 1, pp. 8
 
 **[Up one Level](Engines "Engines")**
 

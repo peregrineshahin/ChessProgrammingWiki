@@ -37,15 +37,15 @@ and most recently, the UCI compliant [open source chess engine](Category:Open_So
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Prof. Dr. Stefan Edlich - Biography - Beuth Hochschule für Technik Berlin](https://prof.beuth-hochschule.de/edlich/biography/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Prof. Dr. Stefan Edlich - Biography - Beuth Hochschule für Technik Berlin](https://prof.beuth-hochschule.de/edlich/biography/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [EdlChess - A UCI Chess Program in Ruby](http://web.archive.org/web/20130104013652/http://www.ohloh.net/p/EdlChess) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), January 06, 2013)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Edlchess (UCI)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=25543) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), December 20, 2008
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Prof. Dr. Stefan Edlich - RASBOJNIK - Beuth Hochschule für Technik Berlin](http://web.archive.org/web/20120312175930/https://prof.beuth-hochschule.de/edlich/lecture-results/edlchess/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 12, 2012)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Rasbojnik Chess Engine](http://www.talkchess.com/forum3/viewtopic.php?t=51335) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), February 19, 2014
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [GitHub - edlich/Finny: Lichess UCI Chess Bot](https://github.com/edlich/Finny)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Prof. Dr. Stefan Edlich - Publications - Beuth Hochschule für Technik Berlin](https://prof.beuth-hochschule.de/edlich/publications/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Stefan Edlich](https://dblp.uni-trier.de/pers/e/Edlich:Stefan.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Prof. Dr. Stefan Edlich - Biography - Beuth Hochschule für Technik Berlin](https://prof.beuth-hochschule.de/edlich/biography/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Prof. Dr. Stefan Edlich - Biography - Beuth Hochschule für Technik Berlin](https://prof.beuth-hochschule.de/edlich/biography/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [EdlChess - A UCI Chess Program in Ruby](http://web.archive.org/web/20130104013652/http://www.ohloh.net/p/EdlChess) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), January 06, 2013)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Edlchess (UCI)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=25543) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), December 20, 2008
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Prof. Dr. Stefan Edlich - RASBOJNIK - Beuth Hochschule für Technik Berlin](http://web.archive.org/web/20120312175930/https://prof.beuth-hochschule.de/edlich/lecture-results/edlchess/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 12, 2012)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Rasbojnik Chess Engine](http://www.talkchess.com/forum3/viewtopic.php?t=51335) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), February 19, 2014
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [GitHub - edlich/Finny: Lichess UCI Chess Bot](https://github.com/edlich/Finny)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Prof. Dr. Stefan Edlich - Publications - Beuth Hochschule für Technik Berlin](https://prof.beuth-hochschule.de/edlich/publications/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Stefan Edlich](https://dblp.uni-trier.de/pers/e/Edlich:Stefan.html)
 
 **[Up one level](People "People")**
 

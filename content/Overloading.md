@@ -36,8 +36,8 @@ Despite tactics is the domain of [search](Search "Search"), and static [evaluati
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Corner - Chess Tutorial - Overloading](http://www.chesscorner.com/tutorial/tactics/overloading/overload.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cross-collateralization from Wikipedia](https://en.wikipedia.org/wiki/Cross-collateralization)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Corner - Chess Tutorial - Overloading](http://www.chesscorner.com/tutorial/tactics/overloading/overload.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cross-collateralization from Wikipedia](https://en.wikipedia.org/wiki/Cross-collateralization)
 
 **[Up one Level](Tactics "Tactics")**
 

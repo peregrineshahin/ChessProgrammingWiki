@@ -35,9 +35,9 @@ an American accountant, chess and computer chess aficionado, and one of the Worl
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: amazing](https://www.stmintz.com/ccc/index.php?id=365258) by steven blincoe, [CCC](CCC "CCC"), May 15, 2004
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Flickr: Photo collection](http://www.flickr.com/photos/10261668@N05/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [eBay from Wikipedia](https://en.wikipedia.org/wiki/EBay)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: amazing](https://www.stmintz.com/ccc/index.php?id=365258) by steven blincoe, [CCC](CCC "CCC"), May 15, 2004
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Flickr: Photo collection](http://www.flickr.com/photos/10261668@N05/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [eBay from Wikipedia](https://en.wikipedia.org/wiki/EBay)
 
 **[Up one level](People "People")**
 

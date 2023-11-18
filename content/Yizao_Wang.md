@@ -46,10 +46,10 @@ Yizao Wang is co-author of the top level [Go](Go "Go") playing program [Mogo](ht
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yizao Wang's Homepage](http://homepages.uc.edu/~wangyz/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MoGo: a software for the Game of Go](http://www.lri.fr/~teytaud/mogo.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Yizao Wang's Homepage - Publications](http://homepages.uc.edu/~wangyz/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DBLP: Yizao Wang](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wang:Yizao.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yizao Wang's Homepage](http://homepages.uc.edu/~wangyz/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MoGo: a software for the Game of Go](http://www.lri.fr/~teytaud/mogo.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Yizao Wang's Homepage - Publications](http://homepages.uc.edu/~wangyz/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DBLP: Yizao Wang](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wang:Yizao.html)
 
 **[Up one level](People "People")**
 

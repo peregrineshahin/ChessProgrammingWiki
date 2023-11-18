@@ -93,13 +93,13 @@ CilkChess is programmed in the [Cilk](Cilk "Cilk") multithreaded programming lan
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Cilkchess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=56)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Cilkchess Parallel Chess Program](http://supertech.csail.mit.edu/chess/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Image captured from [Paderborn 1999 1.mp4](http://www.top-5000.nl/Paderborn_1999_1.mp4) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Paderborn 1999 - Chess - Round 7 - Game 12 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=7&id=12)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Awards for Cilk Technology & Research](http://www.cilk.com/company/awards/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CilkChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=56)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Don Dailey](Don_Dailey "Don Dailey"), [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson") (**2001**). *Using Cilk to Write Multiprocessor Chess Programs*, [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9"), [pdf](http://supertech.csail.mit.edu/papers/icca99.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Cilkchess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=56)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Cilkchess Parallel Chess Program](http://supertech.csail.mit.edu/chess/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Image captured from [Paderborn 1999 1.mp4](http://www.top-5000.nl/Paderborn_1999_1.mp4) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Paderborn 1999 - Chess - Round 7 - Game 12 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=7&id=12)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Awards for Cilk Technology & Research](http://www.cilk.com/company/awards/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CilkChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=56)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Don Dailey](Don_Dailey "Don Dailey"), [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson") (**2001**). *Using Cilk to Write Multiprocessor Chess Programs*, [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9"), [pdf](http://supertech.csail.mit.edu/papers/icca99.pdf)
 
 **[Up one Level](Engines "Engines")**
 

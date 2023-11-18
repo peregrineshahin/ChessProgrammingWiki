@@ -107,16 +107,16 @@ With the advent of operating systems with [graphical user interfaces](https://en
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Copper engraving from the book: [Freiherr Joseph Friedrich zu Racknitz](https://en.wikipedia.org/wiki/Joseph_Friedrich_Freiherr_von_Racknitz), *Ueber den Schachspieler des [Herrn von Kempelen](https://en.wikipedia.org/wiki/Wolfgang_von_Kempelen)*, [Leipzig](https://en.wikipedia.org/wiki/Leipzig) und [Dresden](https://en.wikipedia.org/wiki/Dresden) 1789
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Turk from Wikipedia](https://en.wikipedia.org/wiki/The_Turk)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Wolfgang von Kempelen from Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_von_Kempelen)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Johann Nepomuk Maelzel from Wikipedia](https://en.wikipedia.org/wiki/Johann_Nepomuk_Maelzel)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Maelzel's Chess Player from Wikipedia](https://en.wikipedia.org/wiki/Maelzel%27s_Chess_Player)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ACM SIGCHI Curricula for Human-Computer Interaction](http://old.sigchi.org/cdg/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Chua Huiyan](http://de.scientificcommons.org/huiyan_chua), Le Vinh, [Wong Lai Kuan](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/k/Kuan:Wong_Lai.html) (**2007**). *Chess Vision*. [School of Computing](https://en.wikipedia.org/wiki/NUS_School_of_Computing), [National University of Singapore](https://en.wikipedia.org/wiki/National_University_of_Singapore), [slides as pdf](http://www.comp.nus.edu.sg/~cs4243/showcase/chess_vision/Chess-Vision-Presentation.pdf)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [TELETYPE CORPORATION - Teletype Model 28 Page Printer (1)](http://hans.presto.tripod.com/scan/teletype/28_01.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Human–computer interaction - Wikipedia](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Object-oriented user interface -Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_user_interface)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Copper engraving from the book: [Freiherr Joseph Friedrich zu Racknitz](https://en.wikipedia.org/wiki/Joseph_Friedrich_Freiherr_von_Racknitz), *Ueber den Schachspieler des [Herrn von Kempelen](https://en.wikipedia.org/wiki/Wolfgang_von_Kempelen)*, [Leipzig](https://en.wikipedia.org/wiki/Leipzig) und [Dresden](https://en.wikipedia.org/wiki/Dresden) 1789
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Turk from Wikipedia](https://en.wikipedia.org/wiki/The_Turk)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Wolfgang von Kempelen from Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_von_Kempelen)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Johann Nepomuk Maelzel from Wikipedia](https://en.wikipedia.org/wiki/Johann_Nepomuk_Maelzel)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Maelzel's Chess Player from Wikipedia](https://en.wikipedia.org/wiki/Maelzel%27s_Chess_Player)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ACM SIGCHI Curricula for Human-Computer Interaction](http://old.sigchi.org/cdg/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chua Huiyan](http://de.scientificcommons.org/huiyan_chua), Le Vinh, [Wong Lai Kuan](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/k/Kuan:Wong_Lai.html) (**2007**). *Chess Vision*. [School of Computing](https://en.wikipedia.org/wiki/NUS_School_of_Computing), [National University of Singapore](https://en.wikipedia.org/wiki/National_University_of_Singapore), [slides as pdf](http://www.comp.nus.edu.sg/~cs4243/showcase/chess_vision/Chess-Vision-Presentation.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [TELETYPE CORPORATION - Teletype Model 28 Page Printer (1)](http://hans.presto.tripod.com/scan/teletype/28_01.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Human–computer interaction - Wikipedia](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Object-oriented user interface -Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_user_interface)
 
 **[Up one Level](Home "Home")**
 

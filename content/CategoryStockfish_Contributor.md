@@ -9,8 +9,8 @@ title: CategoryStockfish Contributor
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stockfish: call for contributor's full name :-) · Issue #1380 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/issues/1380)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stockfish/AUTHORS](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stockfish: call for contributor's full name :-) · Issue #1380 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/issues/1380)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stockfish/AUTHORS](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
 
 ## Pages in category "Stockfish Contributor"
 

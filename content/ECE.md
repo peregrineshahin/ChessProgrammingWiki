@@ -37,9 +37,9 @@ and subsequently the [IGWT 2013](IGWT_2013 "IGWT 2013"), [IGWT 2014](IGWT_2014 "
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Animation showing the operation of a [Newcomen atmospheric engine](https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine), a precursor of the [steam engine](https://en.wikipedia.org/wiki/Steam_engine), March 2006, drawn using [XaraX software](https://en.wikipedia.org/wiki/Xara_Photo_%26_Graphic_Designer) by [Emoscopes](https://commons.wikimedia.org/wiki/User:Emoscopes), [External combustion engine from Wikipedia](https://en.wikipedia.org/wiki/External_combustion_engine), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ECE](http://web.archive.org/web/20080704173259/http://wbec-ridderkerk.nl/html/details1/ECE.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), July 04, 2008)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Luigino Viscione Chess Page - Dimitri 5 - ECE 20](http://lesgames.altervista.org/faq.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Animation showing the operation of a [Newcomen atmospheric engine](https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine), a precursor of the [steam engine](https://en.wikipedia.org/wiki/Steam_engine), March 2006, drawn using [XaraX software](https://en.wikipedia.org/wiki/Xara_Photo_%26_Graphic_Designer) by [Emoscopes](https://commons.wikimedia.org/wiki/User:Emoscopes), [External combustion engine from Wikipedia](https://en.wikipedia.org/wiki/External_combustion_engine), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ECE](http://web.archive.org/web/20080704173259/http://wbec-ridderkerk.nl/html/details1/ECE.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), July 04, 2008)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Luigino Viscione Chess Page - Dimitri 5 - ECE 20](http://lesgames.altervista.org/faq.html)
 
 **[Up one level](Engines "Engines")**
 

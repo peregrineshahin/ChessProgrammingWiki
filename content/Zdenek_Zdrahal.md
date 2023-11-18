@@ -58,11 +58,11 @@ a Czech British electrical engineer, computer scientist and Senior Research fell
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zdenek Zdrahal | Knowledge Media Institute | The Open University](http://kmi.open.ac.uk/people/member/zdenek-zdrahal)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Knowledge Media Institute | The Open University](http://kmi.open.ac.uk/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Zdenek Zdrahal | LinkedIn](http://www.linkedin.com/pub/zdenek-zdrahal/5/495/235)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Zdenek Zdráhal, [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [Alen Shapiro](Alen_Shapiro "Alen Shapiro") (**1981**). *[Recognition of Complex Patterns Using Cellular Arrays](http://comjnl.oxfordjournals.org/content/24/3/263.abstract)*. [The Computer Journal, Vol. 24, No. 3](http://comjnl.oxfordjournals.org/content/24/3.toc), pp. 263-270
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Zdenek Zdráhal](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/z/Zdr=aacute=hal:Zdenek.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zdenek Zdrahal | Knowledge Media Institute | The Open University](http://kmi.open.ac.uk/people/member/zdenek-zdrahal)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Knowledge Media Institute | The Open University](http://kmi.open.ac.uk/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Zdenek Zdrahal | LinkedIn](http://www.linkedin.com/pub/zdenek-zdrahal/5/495/235)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Zdenek Zdráhal, [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [Alen Shapiro](Alen_Shapiro "Alen Shapiro") (**1981**). *[Recognition of Complex Patterns Using Cellular Arrays](http://comjnl.oxfordjournals.org/content/24/3/263.abstract)*. [The Computer Journal, Vol. 24, No. 3](http://comjnl.oxfordjournals.org/content/24/3.toc), pp. 263-270
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Zdenek Zdráhal](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/z/Zdr=aacute=hal:Zdenek.html)
 
 **[Up one level](People "People")**
 

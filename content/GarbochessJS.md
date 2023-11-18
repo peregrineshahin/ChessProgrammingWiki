@@ -57,10 +57,10 @@ a [JavaScript](JavaScript "JavaScript") [open source chess engine](Category:Open
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Microsoft Silverlight Chess](http://www.talkchess.com/forum/viewtopic.php?t=16814&start=1) by Gary, [CCC](CCC "CCC"), October 01, 2007
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gary Linscott's Home Page - Chess Programs](http://forwardcoding.com/projects/chess/chess.html), slchess.zip, GarboChess.cs
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Ajax chess](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=332088&t=32777) by [Gary](Gary_Linscott "Gary Linscott"), [CCC](CCC "CCC"), February 20, 2010
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> based on [Garbochess-JS/garbochess.js at master · glinscott/Garbochess-JS · GitHub](https://github.com/glinscott/Garbochess-JS/blob/master/js/garbochess.js)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Microsoft Silverlight Chess](http://www.talkchess.com/forum/viewtopic.php?t=16814&start=1) by Gary, [CCC](CCC "CCC"), October 01, 2007
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gary Linscott's Home Page - Chess Programs](http://forwardcoding.com/projects/chess/chess.html), slchess.zip, GarboChess.cs
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Ajax chess](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=332088&t=32777) by [Gary](Gary_Linscott "Gary Linscott"), [CCC](CCC "CCC"), February 20, 2010
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> based on [Garbochess-JS/garbochess.js at master · glinscott/Garbochess-JS · GitHub](https://github.com/glinscott/Garbochess-JS/blob/master/js/garbochess.js)
 
 **[Up one Level](Engines "Engines")**
 

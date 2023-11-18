@@ -37,10 +37,10 @@ Compute!'s original goal was to write about and publish programs for all of the 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Compute!, Issue 85](https://archive.org/details/1987-06-compute-magazine/mode/2up), introducing [Laser Chess](https://en.wikipedia.org/wiki/Laser_Chess)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Compute! from Wikipedia](https://en.wikipedia.org/wiki/Compute!)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Atarimagazines | Index of Compute! articles](https://www.atarimagazines.com/compute/index/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Laser Chess from Wikipedia](https://en.wikipedia.org/wiki/Laser_Chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Compute!, Issue 85](https://archive.org/details/1987-06-compute-magazine/mode/2up), introducing [Laser Chess](https://en.wikipedia.org/wiki/Laser_Chess)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Compute! from Wikipedia](https://en.wikipedia.org/wiki/Compute!)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Atarimagazines | Index of Compute! articles](https://www.atarimagazines.com/compute/index/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Laser Chess from Wikipedia](https://en.wikipedia.org/wiki/Laser_Chess)
 
 **[Up one Level](Periodical "Periodical")**
 

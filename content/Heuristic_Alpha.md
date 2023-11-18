@@ -47,8 +47,8 @@ Bxa4 23.bxa6 bxa6 24.Nxa6 Ned5 25.Ra1 Nb6 26.Bf1 Rc8 27.Nb4 Rc5 28.Be2 Bd7
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Harvard Cup 1991](http://www.csvn.nl/index.php?option=com_content&view=article&id=126%3Aharvard-cup-1991&catid=26%3Amens-computer&Itemid=50&lang=en), [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1991**). *The Second Harvard Cup*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1991, Vol. 2, No. 1, pp. 3-4, 15
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Harvard Cup 1991](http://www.csvn.nl/index.php?option=com_content&view=article&id=126%3Aharvard-cup-1991&catid=26%3Amens-computer&Itemid=50&lang=en), [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1991**). *The Second Harvard Cup*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1991, Vol. 2, No. 1, pp. 3-4, 15
 
 **[Up one Level](Engines "Engines")**
 

@@ -59,7 +59,7 @@ a Vietnamese scientist working on [AI](Artificial_Intelligence "Artificial Intel
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chinese Chess (Xiang Qi) Software 1](http://xiang-qi.appspot.com/software.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chinese Chess (Xiang Qi) Software 1](http://xiang-qi.appspot.com/software.html)
 
 **[Up one level](People "People")**
 

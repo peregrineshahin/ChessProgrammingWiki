@@ -71,10 +71,10 @@ a [Taiwanese American](https://en.wikipedia.org/wiki/Taiwanese_American) mathema
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Keh-Hsun Chen Personal Page](https://webpages.uncc.edu/chen/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Keh-Hsun Chen'S ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=75)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Ken Chen](https://dblp.uni-trier.de/pers/hd/c/Chen:Ken)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Keh-Hsun Chen Personal Page](https://webpages.uncc.edu/chen/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Keh-Hsun Chen'S ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=75)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Ken Chen](https://dblp.uni-trier.de/pers/hd/c/Chen:Ken)
 
 **[Up one level](People "People")**
 

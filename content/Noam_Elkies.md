@@ -68,13 +68,13 @@ an American chess player, [composer of chess studies](Chess_Problems,_Compositio
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo 2007 by Renate Schmid, MFO, [Details for Noam D. Elkies](http://owpdb.mfo.de/person_detail?id=8109), [Oberwolfach Photo Collection](https://en.wikipedia.org/wiki/Mathematical_Research_Institute_of_Oberwolfach)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Category:Pictures from Oberwolfach Photo Collection - Wikimedia Commons](http://commons.wikimedia.org/w/index.php?title=Category:Pictures_from_Oberwolfach_Photo_Collection&filefrom=Kohnen+winfried.jpg#mw-category-media)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [World Champion Dr GM GM John Nunn](http://www.chessbase.com/newsdetail.asp?newsid=1919), from [ChessBase News](ChessBase "ChessBase"), September 22, 2004
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Noam D. Elkies Chess Pages Links](http://www.math.harvard.edu/%7Eelkies/chess.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Noam D. Elkies](http://www.informatik.uni-trier.de/~ley/pers/hd/e/Elkies:Noam_D=.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> This article is based on a presentation given at the banquet in honor of [Richard Stanley's](Mathematician#RPStanley "Mathematician") 60th birthday, and is dedicated to Stanley on this occasion
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Mathieu group M12 from Wikipedia](https://en.wikipedia.org/wiki/Mathieu_group_M12)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo 2007 by Renate Schmid, MFO, [Details for Noam D. Elkies](http://owpdb.mfo.de/person_detail?id=8109), [Oberwolfach Photo Collection](https://en.wikipedia.org/wiki/Mathematical_Research_Institute_of_Oberwolfach)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Category:Pictures from Oberwolfach Photo Collection - Wikimedia Commons](http://commons.wikimedia.org/w/index.php?title=Category:Pictures_from_Oberwolfach_Photo_Collection&filefrom=Kohnen+winfried.jpg#mw-category-media)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [World Champion Dr GM GM John Nunn](http://www.chessbase.com/newsdetail.asp?newsid=1919), from [ChessBase News](ChessBase "ChessBase"), September 22, 2004
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Noam D. Elkies Chess Pages Links](http://www.math.harvard.edu/%7Eelkies/chess.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Noam D. Elkies](http://www.informatik.uni-trier.de/~ley/pers/hd/e/Elkies:Noam_D=.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> This article is based on a presentation given at the banquet in honor of [Richard Stanley's](Mathematician#RPStanley "Mathematician") 60th birthday, and is dedicated to Stanley on this occasion
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Mathieu group M12 from Wikipedia](https://en.wikipedia.org/wiki/Mathieu_group_M12)
 
 **[Up one Level](People "People")**
 

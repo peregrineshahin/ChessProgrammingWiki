@@ -48,13 +48,13 @@ He received a Ph.D. on *Parallel Algorithms for Combinatorial Search Problems* f
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yanjun Zhang | LinkedIn](https://www.linkedin.com/in/yanjun-zhang-2663704/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Mathematics Genealogy Project - Yanjun Zhang](https://genealogy.math.ndsu.nodak.edu/id.php?id=106248)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Richard Karp](Richard_Karp "Richard Karp"), Yanjun Zhang (**1988**). *[A randomized parallel branch-and-bound procedure](https://dl.acm.org/citation.cfm?id=62212.62240)*. [STOC '88](http://www.informatik.uni-trier.de/%7Eley/db/conf/stoc/stoc88.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Abhiram Ranade](https://scholar.google.com/citations?user=lb5ffQ8AAAAJ&hl=en) (**1990**). *[A Simpler Analysis of the Karp-Zhang Parallel Branch-and-Bound Method](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1990/6384.html)*. Technical Report, [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Peter Sanders](Peter_Sanders "Peter Sanders") (**1995**). *[Fast priority queues for parallel branch-and-bound](https://link.springer.com/chapter/10.1007/3-540-60321-2_30)*. [IRREGULAR 1995](http://www.informatik.uni-trier.de/~ley/db/conf/irregular/irregular95.html#HoppS95)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Tiankai Liu](http://www.math.utah.edu/~tliu/) (**2003**). *[A Implementation of the Karp-Zhang Parallel Branch-and-Bound Algorithm](http://www.academia.edu/2894543/A_Implementation_of_the_Karp-Zhang_Parallel_Branch-and-Bound_Algorithm)*. under direction of [Charles Leiserson](Charles_Leiserson "Charles Leiserson"), [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Yanjun Zhang](https://dblp.uni-trier.de/pers/hd/z/Zhang:Yanjun.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yanjun Zhang | LinkedIn](https://www.linkedin.com/in/yanjun-zhang-2663704/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Mathematics Genealogy Project - Yanjun Zhang](https://genealogy.math.ndsu.nodak.edu/id.php?id=106248)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Richard Karp](Richard_Karp "Richard Karp"), Yanjun Zhang (**1988**). *[A randomized parallel branch-and-bound procedure](https://dl.acm.org/citation.cfm?id=62212.62240)*. [STOC '88](http://www.informatik.uni-trier.de/%7Eley/db/conf/stoc/stoc88.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Abhiram Ranade](https://scholar.google.com/citations?user=lb5ffQ8AAAAJ&hl=en) (**1990**). *[A Simpler Analysis of the Karp-Zhang Parallel Branch-and-Bound Method](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1990/6384.html)*. Technical Report, [University of California, Berkeley](University_of_California,_Berkeley "University of California, Berkeley")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Peter Sanders](Peter_Sanders "Peter Sanders") (**1995**). *[Fast priority queues for parallel branch-and-bound](https://link.springer.com/chapter/10.1007/3-540-60321-2_30)*. [IRREGULAR 1995](http://www.informatik.uni-trier.de/~ley/db/conf/irregular/irregular95.html#HoppS95)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Tiankai Liu](http://www.math.utah.edu/~tliu/) (**2003**). *[A Implementation of the Karp-Zhang Parallel Branch-and-Bound Algorithm](http://www.academia.edu/2894543/A_Implementation_of_the_Karp-Zhang_Parallel_Branch-and-Bound_Algorithm)*. under direction of [Charles Leiserson](Charles_Leiserson "Charles Leiserson"), [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Yanjun Zhang](https://dblp.uni-trier.de/pers/hd/z/Zhang:Yanjun.html)
 
 **[Up one level](People "People")**
 

@@ -38,17 +38,17 @@ More recently, he contributed to the [Leela Chess Zero](Leela_Chess_Zero "Leela 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ankan Banerjee - Quora](https://www.quora.com/profile/Ankan-Banerjee-4)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ankan Banerjee | LinkedIn](https://www.linkedin.com/in/ankan-banerjee-929b553)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NVIDIA India (Pune) | NVIDIA](http://www.nvidia.in/object/india_pune.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ankan-ban/perft_gpu · GitHub](https://github.com/ankan-ban/perft_gpu)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - ankan-ban/chess_cpu: Ankan's new chess engine](https://github.com/ankan-ban/chess_cpu)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a>  [Re: New engine?](http://www.talkchess.com/forum/viewtopic.php?t=60328&start=10) by Ankan Banerjee, [CCC](CCC "CCC"), July 11, 2016
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: perft(15)](http://www.talkchess.com/forum/viewtopic.php?t=64983&start=4) by Ankan Banerjee, [CCC](CCC "CCC"), August 25, 2017
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Contributors to LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/graphs/contributors)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: My failed attempt to change TCEC NN clone rules](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71822&start=48) by [Adam Treat](Adam_Treat "Adam Treat"), [CCC](CCC "CCC"), September 19, 2019
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [GeForce 20 series from Wikipedia](https://en.wikipedia.org/wiki/GeForce_20_series)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Multiply–accumulate operation - Wikipedia](https://en.wikipedia.org/wiki/Multiply%E2%80%93accumulate_operation)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ankan Banerjee - Quora](https://www.quora.com/profile/Ankan-Banerjee-4)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ankan Banerjee | LinkedIn](https://www.linkedin.com/in/ankan-banerjee-929b553)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NVIDIA India (Pune) | NVIDIA](http://www.nvidia.in/object/india_pune.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ankan-ban/perft_gpu · GitHub](https://github.com/ankan-ban/perft_gpu)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - ankan-ban/chess_cpu: Ankan's new chess engine](https://github.com/ankan-ban/chess_cpu)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a>  [Re: New engine?](http://www.talkchess.com/forum/viewtopic.php?t=60328&start=10) by Ankan Banerjee, [CCC](CCC "CCC"), July 11, 2016
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: perft(15)](http://www.talkchess.com/forum/viewtopic.php?t=64983&start=4) by Ankan Banerjee, [CCC](CCC "CCC"), August 25, 2017
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Contributors to LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/graphs/contributors)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: My failed attempt to change TCEC NN clone rules](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71822&start=48) by [Adam Treat](Adam_Treat "Adam Treat"), [CCC](CCC "CCC"), September 19, 2019
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [GeForce 20 series from Wikipedia](https://en.wikipedia.org/wiki/GeForce_20_series)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Multiply–accumulate operation - Wikipedia](https://en.wikipedia.org/wiki/Multiply%E2%80%93accumulate_operation)
 
 **[Up one Level](People "People")**
 

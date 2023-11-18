@@ -51,9 +51,9 @@ lineup: [David Paich](https://en.wikipedia.org/wiki/David_Paich), [Steve Lukathe
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Engraving about the [second labour](https://en.wikipedia.org/wiki/Labours_of_Hercules) of [Heracles](https://en.wikipedia.org/wiki/Heracles): slay the [Lernaean Hydra](https://en.wikipedia.org/wiki/Lernaean_Hydra), ca. 1565, [Category:Lernaean Hydra - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Lernaean_Hydra)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: How can Deep Blue lose?](https://groups.google.com/d/msg/rec.games.chess.computer/J9gYk1HalUE/8iLbcIoLUeAJ) by [Andreas Mader](Andreas_Mader "Andreas Mader"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 20, 1997
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Paris Blitz Tournament Thorsten](https://www.stmintz.com/ccc/index.php?id=11481) by [Herbert Groot Jebbink](http://herbert.groot.jebbink.nl/), [CCC](CCC "CCC"), November 01, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Engraving about the [second labour](https://en.wikipedia.org/wiki/Labours_of_Hercules) of [Heracles](https://en.wikipedia.org/wiki/Heracles): slay the [Lernaean Hydra](https://en.wikipedia.org/wiki/Lernaean_Hydra), ca. 1565, [Category:Lernaean Hydra - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Lernaean_Hydra)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: How can Deep Blue lose?](https://groups.google.com/d/msg/rec.games.chess.computer/J9gYk1HalUE/8iLbcIoLUeAJ) by [Andreas Mader](Andreas_Mader "Andreas Mader"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 20, 1997
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Paris Blitz Tournament Thorsten](https://www.stmintz.com/ccc/index.php?id=11481) by [Herbert Groot Jebbink](http://herbert.groot.jebbink.nl/), [CCC](CCC "CCC"), November 01, 1997
 
 **[Up one Level](Engines "Engines")**
 

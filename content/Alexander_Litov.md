@@ -32,9 +32,9 @@ Previously, Alexander Litov already worked on a Chess variant engine <a id="cite
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped [Alexander Litov | VK | Photo](https://vk.com/litovag?z=photo40549816_457239361%2Fphotos40549816), September 22, 2019
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Is cloning a hobby?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75040&start=69) by Alexander Litov, [CCC](CCC "CCC"), September 19, 2020
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess varinat engine questions](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74277) by Alexander Litov, [CCC](CCC "CCC"), June 25, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped [Alexander Litov | VK | Photo](https://vk.com/litovag?z=photo40549816_457239361%2Fphotos40549816), September 22, 2019
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Is cloning a hobby?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75040&start=69) by Alexander Litov, [CCC](CCC "CCC"), September 19, 2020
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess varinat engine questions](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74277) by Alexander Litov, [CCC](CCC "CCC"), June 25, 2020
 
 **[Up one level](People "People")**
 

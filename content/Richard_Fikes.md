@@ -70,12 +70,12 @@ He was principal investigator of major projects for multiple Federal Government 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Richard Fikes | Engineering](https://engineering.stanford.edu/people/richard-fikes)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ontolingua Home Page](http://www.ksl.stanford.edu/software/ontolingua/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Richard Fikes](https://dblp.uni-trier.de/pers/hd/f/Fikes:Richard.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Frame language from Wikipedia](https://en.wikipedia.org/wiki/Frame_language)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Exploratory programming from Wikipedia](https://en.wikipedia.org/wiki/Exploratory_programming)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Ontology (information science) from Wikipedia](https://en.wikipedia.org/wiki/Ontology_(information_science))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Richard Fikes | Engineering](https://engineering.stanford.edu/people/richard-fikes)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ontolingua Home Page](http://www.ksl.stanford.edu/software/ontolingua/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Richard Fikes](https://dblp.uni-trier.de/pers/hd/f/Fikes:Richard.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Frame language from Wikipedia](https://en.wikipedia.org/wiki/Frame_language)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Exploratory programming from Wikipedia](https://en.wikipedia.org/wiki/Exploratory_programming)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Ontology (information science) from Wikipedia](https://en.wikipedia.org/wiki/Ontology_(information_science))
 
 **[Up one level](People "People")**
 

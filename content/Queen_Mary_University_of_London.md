@@ -53,8 +53,8 @@ title: Queen Mary University of London
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Crest of QMUL by AlexD, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Queen Mary University of London from Wikipedia](https://en.wikipedia.org/wiki/Queen_Mary_University_of_London)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Queen Mary University of London from Wikipedia](https://en.wikipedia.org/wiki/Queen_Mary_University_of_London)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Crest of QMUL by AlexD, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Queen Mary University of London from Wikipedia](https://en.wikipedia.org/wiki/Queen_Mary_University_of_London)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Queen Mary University of London from Wikipedia](https://en.wikipedia.org/wiki/Queen_Mary_University_of_London)
 
 **[Up one Level](Organizations "Organizations")**
 

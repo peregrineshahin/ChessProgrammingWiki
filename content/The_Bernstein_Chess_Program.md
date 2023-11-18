@@ -100,16 +100,16 @@ The Bernstein Chess Program was the prototype of a selective forward pruning, [S
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [IBM programmer Alex Bernstein](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f6482e6) 1958 Courtesy of [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") Archives from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Runner-Up - The New Yorker - November 29, 1958](http://www.newyorker.com/magazine/1958/11/29/runner-up-4)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Arthur Bisguier from Wikipedia.de](http://de.wikipedia.org/wiki/Arthur_Bisguier) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nathaniel Rochester (computer scientist) from Wikipedia](https://en.wikipedia.org/wiki/Nathaniel_Rochester_%28computer_scientist%29)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=17) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), June 09, 2019
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Pamela McCorduck](https://en.wikipedia.org/wiki/Pamela_McCorduck) (**2004**). *[Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence](Artificial_Intelligence#MachinesWhoThink "Artificial Intelligence")*. [A. K. Peters](https://en.wikipedia.org/wiki/A_K_Peters) (25th anniversary edition), pp. 182-185
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The Dartmouth Workshop--as planned and as it happened](http://www-formal.stanford.edu/jmc/slides/dartmouth/dartmouth/node1.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Alex Bernstein](Alex_Bernstein "Alex Bernstein"), [Michael de V. Roberts](Michael_de_V._Roberts "Michael de V. Roberts") (**1958**). *[Computer vs. Chess-Player](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f690f16)*. [Scientific American](Scientific_American "Scientific American"), Vol. 198, reprinted **1988** in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Fritz Leiber's "The 64-Square Madhouse"](http://www.talkchess.com/forum/viewtopic.php?t=49858) by [Ian Osgood](Ian_Osgood "Ian Osgood"), [CCC](CCC "CCC"), October 28, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [IBM programmer Alex Bernstein](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f6482e6) 1958 Courtesy of [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") Archives from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Runner-Up - The New Yorker - November 29, 1958](http://www.newyorker.com/magazine/1958/11/29/runner-up-4)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Arthur Bisguier from Wikipedia.de](http://de.wikipedia.org/wiki/Arthur_Bisguier) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nathaniel Rochester (computer scientist) from Wikipedia](https://en.wikipedia.org/wiki/Nathaniel_Rochester_%28computer_scientist%29)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=17) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), June 09, 2019
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pamela McCorduck](https://en.wikipedia.org/wiki/Pamela_McCorduck) (**2004**). *[Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence](Artificial_Intelligence#MachinesWhoThink "Artificial Intelligence")*. [A. K. Peters](https://en.wikipedia.org/wiki/A_K_Peters) (25th anniversary edition), pp. 182-185
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Dartmouth Workshop--as planned and as it happened](http://www-formal.stanford.edu/jmc/slides/dartmouth/dartmouth/node1.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Alex Bernstein](Alex_Bernstein "Alex Bernstein"), [Michael de V. Roberts](Michael_de_V._Roberts "Michael de V. Roberts") (**1958**). *[Computer vs. Chess-Player](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f690f16)*. [Scientific American](Scientific_American "Scientific American"), Vol. 198, reprinted **1988** in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Fritz Leiber's "The 64-Square Madhouse"](http://www.talkchess.com/forum/viewtopic.php?t=49858) by [Ian Osgood](Ian_Osgood "Ian Osgood"), [CCC](CCC "CCC"), October 28, 2013
 
 **[Up one Level](Engines "Engines")**
 

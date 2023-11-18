@@ -45,13 +45,13 @@ while the implementation by co-author [Toshihiko Okuhara](index.php?title=Toshih
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Gunnar Andersson (**2000**). *Some New Randomized Approximation Algorithms*. Ph.D. thesis, Department of Numerical Analysis and Computer Science, [Royal Institute of Technology](https://en.wikipedia.org/wiki/Royal_Institute_of_Technology), [pdf](http://radagast.se/thesis.pdf)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zebra](http://radagast.se/othello/zebra.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Download WZebra](http://radagast.se/othello/download.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [bitboard mobility](http://radagast.se/othello/bitmob.c) Copyright (c) 2003, Gunnar Andersson
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> bitbmob.c in [zebra.tar.gz](http://radagast.se/othello/zebra.tar.gz)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gunnar Andersson, Research](http://radagast.se/papers.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Gunnar Andersson](https://dblp.uni-trier.de/pers/hd/a/Andersson:Gunnar)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Gunnar Andersson (**2000**). *Some New Randomized Approximation Algorithms*. Ph.D. thesis, Department of Numerical Analysis and Computer Science, [Royal Institute of Technology](https://en.wikipedia.org/wiki/Royal_Institute_of_Technology), [pdf](http://radagast.se/thesis.pdf)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zebra](http://radagast.se/othello/zebra.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Download WZebra](http://radagast.se/othello/download.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [bitboard mobility](http://radagast.se/othello/bitmob.c) Copyright (c) 2003, Gunnar Andersson
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> bitbmob.c in [zebra.tar.gz](http://radagast.se/othello/zebra.tar.gz)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gunnar Andersson, Research](http://radagast.se/papers.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Gunnar Andersson](https://dblp.uni-trier.de/pers/hd/a/Andersson:Gunnar)
 
 **[Up one level](People "People")**
 

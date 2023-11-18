@@ -166,19 +166,19 @@ Qxb3 60.Bxf4 Kf5 61.Bc1 Ke4 62.Bg5 Qf3+ 63.Kg1 Qe2 64.Be3 Kxe3 65.h3 Kf3
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Laridae from Wikipedia.es](http://es.wikipedia.org/wiki/Laridae)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gull from Wikipedia](https://en.wikipedia.org/wiki/Gull)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New Gaviota 0.86 (Linux, Android, Windows, and now Mac!)](http://www.talkchess.com/forum/viewtopic.php?t=46977) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), January 23, 2013
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Gaviota v1.0 (engine) - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/releases/gaviotav10)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Change Log - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/change-log)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Acknowledgments - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/acknowledgments)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Yet another bitboard attack generator](http://www.talkchess.com/forum/viewtopic.php?t=30356) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), October 28, 2009
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Programmers: what's the story behind the name of your engine](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=410892&t=39407) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), June 20, 2011
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Insane move](http://www.talkchess.com/forum/viewtopic.php?t=48702) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), July 20, 2013
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1992**). *Computer Chess and Search.* Encyclopedia of Artificial Intelligence (2nd ed.) (ed. S.C. Shapiro) pp. 224-241. John Wiley & Sons, Inc., New York, NY. ISBN 0-471-50305-3. [pdf](http://webdocs.cs.ualberta.ca/~tony/RecentPapers/encyc.mac-1991.pdf)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=555522&t=50823) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 31, 2014 » [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method")
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [TCEC computer chess LIVE!](http://www.chessdom.com/tcec-computer-chess-live/)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [TCEC - Thoresen Chess Engines Competition | Facebook](https://www.facebook.com/tcec.chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Laridae from Wikipedia.es](http://es.wikipedia.org/wiki/Laridae)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gull from Wikipedia](https://en.wikipedia.org/wiki/Gull)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New Gaviota 0.86 (Linux, Android, Windows, and now Mac!)](http://www.talkchess.com/forum/viewtopic.php?t=46977) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), January 23, 2013
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Gaviota v1.0 (engine) - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/releases/gaviotav10)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Change Log - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/change-log)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Acknowledgments - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/acknowledgments)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Yet another bitboard attack generator](http://www.talkchess.com/forum/viewtopic.php?t=30356) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), October 28, 2009
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Programmers: what's the story behind the name of your engine](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=410892&t=39407) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), June 20, 2011
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Insane move](http://www.talkchess.com/forum/viewtopic.php?t=48702) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), July 20, 2013
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1992**). *Computer Chess and Search.* Encyclopedia of Artificial Intelligence (2nd ed.) (ed. S.C. Shapiro) pp. 224-241. John Wiley & Sons, Inc., New York, NY. ISBN 0-471-50305-3. [pdf](http://webdocs.cs.ualberta.ca/~tony/RecentPapers/encyc.mac-1991.pdf)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=555522&t=50823) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 31, 2014 » [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method")
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [TCEC computer chess LIVE!](http://www.chessdom.com/tcec-computer-chess-live/)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [TCEC - Thoresen Chess Engines Competition | Facebook](https://www.facebook.com/tcec.chess)
 
 **[Up one Level](Engines "Engines")**
 

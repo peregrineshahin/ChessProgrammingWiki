@@ -44,11 +44,11 @@ and was invited in 2007 to play a demonstration match against the blindfolded [V
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Alex Brunetti, [WCCC 2006](WCCC_2006 "WCCC 2006") operating [Delfi](Delfi "Delfi"), Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alex Brunetti | LinkedIn](https://www.linkedin.com/in/alexbrunetti/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bulgaria's Topalov Wins Exhibition Chess Match - Novinite.com - Sofia News Agency](https://www.novinite.com/articles/80417/Bulgaria%27s+Topalov+Wins+Exhibition+Chess+Match), May 9, 2007
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Veselin Topalov – Alex Brunetti | Chessdom](http://www.chessdom.com/veselin-topalov-blindfold/), May 8, 2007
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Interview with Alex Brunetti | Chessdom](http://www.chessdom.com/brunetti-interview), May 9, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Alex Brunetti, [WCCC 2006](WCCC_2006 "WCCC 2006") operating [Delfi](Delfi "Delfi"), Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alex Brunetti | LinkedIn](https://www.linkedin.com/in/alexbrunetti/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bulgaria's Topalov Wins Exhibition Chess Match - Novinite.com - Sofia News Agency](https://www.novinite.com/articles/80417/Bulgaria%27s+Topalov+Wins+Exhibition+Chess+Match), May 9, 2007
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Veselin Topalov – Alex Brunetti | Chessdom](http://www.chessdom.com/veselin-topalov-blindfold/), May 8, 2007
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Interview with Alex Brunetti | Chessdom](http://www.chessdom.com/brunetti-interview), May 9, 2007
 
 **[Up one level](People "People")**
 

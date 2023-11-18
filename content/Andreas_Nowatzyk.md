@@ -48,10 +48,10 @@ Andreas Nowatzyk was one of the contributors to the [Deep Thought](Deep_Thought 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Menschliche Ehre gerettet](http://www.spiegel.de/spiegel/print/d-13500222.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 44/1989, October 30, 1989 (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Deep Thought team with Fredkin Intermediate Prize](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 1988, Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Deep Thought from Tim Mann's Chess Pages](http://www.tim-mann.org/deepthought.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Menschliche Ehre gerettet](http://www.spiegel.de/spiegel/print/d-13500222.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 44/1989, October 30, 1989 (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Deep Thought team with Fredkin Intermediate Prize](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 1988, Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Deep Thought from Tim Mann's Chess Pages](http://www.tim-mann.org/deepthought.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

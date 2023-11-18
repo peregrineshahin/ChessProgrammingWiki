@@ -40,9 +40,9 @@ a Danish software developer, computer chess programmer and along with by [openin
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Steen Suurballe Homepage](http://www.suurballe.dk/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dansker kan sætte verdenselite skakmat](https://www.berlingske.dk/samfund/dansker-kan-saette-verdenselite-skakmat) by Erik Bork, [Berlingske](https://en.wikipedia.org/wiki/Berlingske), September 20, 2003 (Danish)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [LinkedIn-website of Steen Suurballe, author of Gandalf](http://www.talkchess.com/forum/viewtopic.php?t=60584) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), June 24, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Steen Suurballe Homepage](http://www.suurballe.dk/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dansker kan sætte verdenselite skakmat](https://www.berlingske.dk/samfund/dansker-kan-saette-verdenselite-skakmat) by Erik Bork, [Berlingske](https://en.wikipedia.org/wiki/Berlingske), September 20, 2003 (Danish)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [LinkedIn-website of Steen Suurballe, author of Gandalf](http://www.talkchess.com/forum/viewtopic.php?t=60584) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), June 24, 2016
 
 **[Up one level](People "People")**
 

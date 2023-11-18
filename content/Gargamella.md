@@ -87,13 +87,13 @@ f6 11.exf6 gxf6 12.Bh6 Be6 13.Re1 O-O-O 14.Nbd2 Rhe8 15.Nc4 Qf7 16.Bd2 Rg8 17.Rc
 
 ## [Gargamella - Wikipedia.it](https://it.wikipedia.org/wiki/Gargamella) (Italian) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Panel from the [Smurfs](https://en.wikipedia.org/wiki/The_Smurfs) by [Peyo](https://en.wikipedia.org/wiki/Peyo), © [Dupuis](https://en.wikipedia.org/wiki/Dupuis), [Gargamel from Wikipedia](https://en.wikipedia.org/wiki/Gargamel)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gargamella](http://wbec-ridderkerk.nl/html/details1/Gargamella.html) from [WBEC Ridderkerk](WBEC "WBEC")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Gargamel from Wikipedia](https://en.wikipedia.org/wiki/Gargamel)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Gargamella from Wikipedia](https://en.wikipedia.org/wiki/Gargamella)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [2° CIPS - le foto](https://www.g-sei.org/2-campionato-italiano/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Panel from the [Smurfs](https://en.wikipedia.org/wiki/The_Smurfs) by [Peyo](https://en.wikipedia.org/wiki/Peyo), © [Dupuis](https://en.wikipedia.org/wiki/Dupuis), [Gargamel from Wikipedia](https://en.wikipedia.org/wiki/Gargamel)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gargamella](http://wbec-ridderkerk.nl/html/details1/Gargamella.html) from [WBEC Ridderkerk](WBEC "WBEC")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Gargamel from Wikipedia](https://en.wikipedia.org/wiki/Gargamel)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Gargamella from Wikipedia](https://en.wikipedia.org/wiki/Gargamella)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [2° CIPS - le foto](https://www.g-sei.org/2-campionato-italiano/)
 
 **[Up one Level](Engines "Engines")**
 

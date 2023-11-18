@@ -53,14 +53,14 @@ Dharshan Kumaran's chess career started early, he became [Under-12](https://en.w
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [dharshan kumaran](https://sites.google.com/site/dharshankumaran1/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bidmonfa - Dharshan Kumaran](http://www.bidmonfa.com/kumaran_dharshan.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess - dharshan kumaran](https://sites.google.com/site/dharshankumaran1/other)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kumaran, Dharshan FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=401978)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Dharshan Kumaran – Wikipedia.pl](https://pl.wikipedia.org/wiki/Dharshan_Kumaran) (Polish)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Publications - dharshan kumaran](https://sites.google.com/site/dharshankumaran1/publications)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Dharshan Kumaran](http://dblp.uni-trier.de/pers/hd/k/Kumaran:Dharshan)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/) by [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser") and [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), December 03, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [dharshan kumaran](https://sites.google.com/site/dharshankumaran1/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bidmonfa - Dharshan Kumaran](http://www.bidmonfa.com/kumaran_dharshan.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess - dharshan kumaran](https://sites.google.com/site/dharshankumaran1/other)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kumaran, Dharshan FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=401978)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dharshan Kumaran – Wikipedia.pl](https://pl.wikipedia.org/wiki/Dharshan_Kumaran) (Polish)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Publications - dharshan kumaran](https://sites.google.com/site/dharshankumaran1/publications)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Dharshan Kumaran](http://dblp.uni-trier.de/pers/hd/k/Kumaran:Dharshan)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/) by [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser") and [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), December 03, 2018
 
 **[Up one level](People "People")**
 

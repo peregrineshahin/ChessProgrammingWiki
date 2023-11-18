@@ -92,9 +92,9 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zebra](https://en.wikipedia.org/wiki/Zebra) striping patterns are unique to each individual, Closeup of stripes around a zebra's eyes, [image](https://commons.wikimedia.org/wiki/File:Zebra-stripes-black-and-white-zoo-39245.jpg) by [igorowitsch](https://pixabay.com/users/igorowitsch-762582/), November 01, 2014, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zevra chess engine - I went back to development](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78041) by [Oleg Smirnov](index.php?title=Oleg_Smirnov&action=edit&redlink=1 "Oleg Smirnov (page does not exist)"), [CCC](CCC "CCC"), August 28, 2021
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Zevra v2.1.2 r248 has plain like declaration (U64 rookPossibleMoves[64][4096]), but fancy like implementation with variable shift!?
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zebra](https://en.wikipedia.org/wiki/Zebra) striping patterns are unique to each individual, Closeup of stripes around a zebra's eyes, [image](https://commons.wikimedia.org/wiki/File:Zebra-stripes-black-and-white-zoo-39245.jpg) by [igorowitsch](https://pixabay.com/users/igorowitsch-762582/), November 01, 2014, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zevra chess engine - I went back to development](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78041) by [Oleg Smirnov](index.php?title=Oleg_Smirnov&action=edit&redlink=1 "Oleg Smirnov (page does not exist)"), [CCC](CCC "CCC"), August 28, 2021
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Zevra v2.1.2 r248 has plain like declaration (U64 rookPossibleMoves[64][4096]), but fancy like implementation with variable shift!?
 
 **[Up one Level](Engines "Engines")**
 

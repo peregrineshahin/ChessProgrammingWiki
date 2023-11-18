@@ -29,9 +29,9 @@ In the early 80s, he was affiliated with the Department of Mathematics at the [C
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Alumnus Olaf Jenkner interested in the new computers of [Chemnitz University of Technology](Chemnitz_University_of_Technology "Chemnitz University of Technology"), class reunion, September 2002, [images](http://www.kuemmling.de/kt02/kt02.htm) by Nico Kümmling 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Schwalbe - deutsche Vereinigung für Problemschach](http://www.dieschwalbe.de/schwalbe222.htm), Heft 222, Dezember 2006
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Gustav 4.0](https://www.schachversand.de/en/gustav-4-0-i.html) from [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann") (German)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Alumnus Olaf Jenkner interested in the new computers of [Chemnitz University of Technology](Chemnitz_University_of_Technology "Chemnitz University of Technology"), class reunion, September 2002, [images](http://www.kuemmling.de/kt02/kt02.htm) by Nico Kümmling 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Schwalbe - deutsche Vereinigung für Problemschach](http://www.dieschwalbe.de/schwalbe222.htm), Heft 222, Dezember 2006
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gustav 4.0](https://www.schachversand.de/en/gustav-4-0-i.html) from [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann") (German)
 
 **[Up one level](People "People")**
 

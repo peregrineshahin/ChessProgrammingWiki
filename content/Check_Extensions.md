@@ -56,9 +56,9 @@ If a program does not consider checks in the [quiescence search](Quiescence_Sear
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: move count based pruning](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=368875&t=35955) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 04, 2010
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [search extensions](http://www.talkchess.com/forum/viewtopic.php?t=54281) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), November 08, 2014
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [checks in q-search](http://www.talkchess.com/forum/viewtopic.php?t=23447) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 02, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: move count based pruning](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=368875&t=35955) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 04, 2010
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [search extensions](http://www.talkchess.com/forum/viewtopic.php?t=54281) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), November 08, 2014
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [checks in q-search](http://www.talkchess.com/forum/viewtopic.php?t=23447) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 02, 2008
 
 **[Up one Level](Extensions "Extensions")**
 

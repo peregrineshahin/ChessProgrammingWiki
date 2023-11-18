@@ -61,9 +61,9 @@ The [Motorola 6847](https://en.wikipedia.org/wiki/Motorola_6847) video chip prov
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Photo](https://commons.wikimedia.org/wiki/File:Acorn_Atom_computer_at_Play_Expo_2013.JPG) taken by [Rept0n1x](https://commons.wikimedia.org/wiki/User:Rept0n1x) at [Play Expo 2013](https://www.facebook.com/NLPinball/videos/540877812658017/?_fb_noscript=1), held at [EventCity](https://en.wikipedia.org/wiki/EventCity) [Manchester](https://en.wikipedia.org/wiki/Manchester), England, October 12, 2013, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Johnson-Davies](http://www.computinghistory.org.uk/det/5858/David-Johnson-Davies/) (**1980**). *[Atomic Theory and Practice](http://members.casema.nl/hhaydn/howel/Acorn/Atom/atap/atap.htm)*.
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Acorn Atom Books](https://stardot.org.uk/forums/viewtopic.php?t=6791) by hoglet, [stardot.org.uk](https://stardot.org.uk/forums/index.php), June 23, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Photo](https://commons.wikimedia.org/wiki/File:Acorn_Atom_computer_at_Play_Expo_2013.JPG) taken by [Rept0n1x](https://commons.wikimedia.org/wiki/User:Rept0n1x) at [Play Expo 2013](https://www.facebook.com/NLPinball/videos/540877812658017/?_fb_noscript=1), held at [EventCity](https://en.wikipedia.org/wiki/EventCity) [Manchester](https://en.wikipedia.org/wiki/Manchester), England, October 12, 2013, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Johnson-Davies](http://www.computinghistory.org.uk/det/5858/David-Johnson-Davies/) (**1980**). *[Atomic Theory and Practice](http://members.casema.nl/hhaydn/howel/Acorn/Atom/atap/atap.htm)*.
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Acorn Atom Books](https://stardot.org.uk/forums/viewtopic.php?t=6791) by hoglet, [stardot.org.uk](https://stardot.org.uk/forums/index.php), June 23, 2013
 
 **[Up one Level](Hardware "Hardware")**
 

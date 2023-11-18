@@ -44,9 +44,9 @@ title: The Computer History Museum
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The Computer History Museum in [Mountain View](https://en.wikipedia.org/wiki/Mountain_View,_California), [California](https://en.wikipedia.org/wiki/California), Image by Dzou, July 12, 2005, [[1]](https://commons.wikimedia.org/wiki/File:Computer_history_museum.jpg) [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mastering The Game - A History of Computer Chess](http://www.computerhistory.org/chess/index.php)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Newmanry from Wikipedia](https://en.wikipedia.org/wiki/Newmanry), [Max Newman from Wikipedia](https://en.wikipedia.org/wiki/Max_Newman)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The Computer History Museum in [Mountain View](https://en.wikipedia.org/wiki/Mountain_View,_California), [California](https://en.wikipedia.org/wiki/California), Image by Dzou, July 12, 2005, [[1]](https://commons.wikimedia.org/wiki/File:Computer_history_museum.jpg) [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mastering The Game - A History of Computer Chess](http://www.computerhistory.org/chess/index.php)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Newmanry from Wikipedia](https://en.wikipedia.org/wiki/Newmanry), [Max Newman from Wikipedia](https://en.wikipedia.org/wiki/Max_Newman)
 
 **[Up one Level](Organizations "Organizations")**
 

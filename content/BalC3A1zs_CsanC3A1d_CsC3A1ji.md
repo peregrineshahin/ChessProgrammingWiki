@@ -48,11 +48,11 @@ In the early 2000s, Balázs Csanád Csáji developed the chess program [Pandora]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Balázs Csanád Csáji's Homepage](https://igor.xen.emi.sztaki.hu/~csaji/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MASPV 2002 photos](http://titanic.nyme.hu/~wyx/maspv2002/images.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Balázs Csanád Csáji](https://dblp.dagstuhl.de/pers/hd/c/Cs=aacute=ji:Bal=aacute=zs_Csan=aacute=d.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [PageRank from Wikipedia](https://en.wikipedia.org/wiki/PageRank)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Autoregressive conditional heteroskedasticity - Wikipedia](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Balázs Csanád Csáji's Homepage](https://igor.xen.emi.sztaki.hu/~csaji/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MASPV 2002 photos](http://titanic.nyme.hu/~wyx/maspv2002/images.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Balázs Csanád Csáji](https://dblp.dagstuhl.de/pers/hd/c/Cs=aacute=ji:Bal=aacute=zs_Csan=aacute=d.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [PageRank from Wikipedia](https://en.wikipedia.org/wiki/PageRank)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Autoregressive conditional heteroskedasticity - Wikipedia](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity)
 
 **[Up one level](People "People")**
 

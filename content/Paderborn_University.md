@@ -63,7 +63,7 @@ at the near by [Heinz Nixdorf MuseumsForum](Heinz_Nixdorf_MuseumsForum "Heinz Ni
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Paderborn University, Photo by [ludger1961](https://commons.wikimedia.org/wiki/User:Ludger1961), May 2005, [Paderborn University from Wikipedia](https://commons.wikimedia.org/wiki/User:Ludger1961)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Paderborn University, Photo by [ludger1961](https://commons.wikimedia.org/wiki/User:Ludger1961), May 2005, [Paderborn University from Wikipedia](https://commons.wikimedia.org/wiki/User:Ludger1961)
 
 **[Up one Level](Organizations "Organizations")**
 

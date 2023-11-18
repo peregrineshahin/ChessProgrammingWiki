@@ -206,23 +206,23 @@ With the the advent of [NNUE](NNUE "NNUE") and its huge success in [Stockfish NN
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Scorpio symbol, [Book of Hours](https://en.wikipedia.org/wiki/Book_of_hours), the Falstof Master, [Bodleian Library](https://en.wikipedia.org/wiki/Bodleian_Library), [Oxford](https://en.wikipedia.org/wiki/University_of_Oxford), [Scorpio (astrology) from Wikipedia](https://en.wikipedia.org/wiki/Scorpio_%28astrology%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Scorpio Chess and Nebiyu Alien](http://sites.google.com/site/dshawul/home)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Scorpio/scorpio.h at master · dshawul/Scorpio · GitHub](https://github.com/dshawul/Scorpio/blob/master/scorpio.h)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Scorpio/magics.cpp at master · dshawul/Scorpio · GitHub](https://github.com/dshawul/Scorpio/blob/master/magics.cpp)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Scorpio/parallel.cpp at master · dshawul/Scorpio · GitHub](https://github.com/dshawul/Scorpio/blob/master/parallel.cpp)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [asynchronous search](http://www.talkchess.com/forum/viewtopic.php?t=33652) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 6, 2010
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Scorpio/search.cpp at master · dshawul/Scorpio · GitHub](https://github.com/dshawul/Scorpio/blob/master/search.cpp)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Scorpio 2.7.9](http://www.talkchess.com/forum/viewtopic.php?t=66032) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), December 16, 2017
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Bojun Huang](Bojun_Huang "Bojun Huang") (**2015**). *[Pruning Game Tree by Rollouts](https://www.semanticscholar.org/paper/Pruning-Game-Tree-by-Rollouts-Huang/a38b358745067f71a9c780db117ae2471e693d63)*. [AAAI](AAAI "AAAI")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Scorpio 2.8](http://www.talkchess.com/forum/viewtopic.php?t=66552) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), February 10, 2018
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Scorpio/eval.cpp at master · dshawul/Scorpio · GitHub](https://github.com/dshawul/Scorpio/blob/master/eval.cpp)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [GitHub - dshawul/egbbdll: Probing code for scorpio bitbases](https://github.com/dshawul/egbbdll)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [NVIDIA TensorRT | NVIDIA Developer](https://developer.nvidia.com/tensorrt)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [GitHub - dshawul/Scorpio: Scorpio chess engine - Neural Networks (NNs)](https://github.com/dshawul/Scorpio#nns)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Re: Hacking around CFish NNUE](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75400&start=22) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), October 15, 2020
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [GitHub - dshawul/nnue-probe](https://github.com/dshawul/nnue-probe)
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Re: How to scale stockfish NNUE score?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75415&start=3) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), October 17, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Scorpio symbol, [Book of Hours](https://en.wikipedia.org/wiki/Book_of_hours), the Falstof Master, [Bodleian Library](https://en.wikipedia.org/wiki/Bodleian_Library), [Oxford](https://en.wikipedia.org/wiki/University_of_Oxford), [Scorpio (astrology) from Wikipedia](https://en.wikipedia.org/wiki/Scorpio_%28astrology%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Scorpio Chess and Nebiyu Alien](http://sites.google.com/site/dshawul/home)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Scorpio/scorpio.h at master · dshawul/Scorpio · GitHub](https://github.com/dshawul/Scorpio/blob/master/scorpio.h)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Scorpio/magics.cpp at master · dshawul/Scorpio · GitHub](https://github.com/dshawul/Scorpio/blob/master/magics.cpp)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Scorpio/parallel.cpp at master · dshawul/Scorpio · GitHub](https://github.com/dshawul/Scorpio/blob/master/parallel.cpp)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [asynchronous search](http://www.talkchess.com/forum/viewtopic.php?t=33652) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 6, 2010
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Scorpio/search.cpp at master · dshawul/Scorpio · GitHub](https://github.com/dshawul/Scorpio/blob/master/search.cpp)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Scorpio 2.7.9](http://www.talkchess.com/forum/viewtopic.php?t=66032) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), December 16, 2017
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Bojun Huang](Bojun_Huang "Bojun Huang") (**2015**). *[Pruning Game Tree by Rollouts](https://www.semanticscholar.org/paper/Pruning-Game-Tree-by-Rollouts-Huang/a38b358745067f71a9c780db117ae2471e693d63)*. [AAAI](AAAI "AAAI")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Scorpio 2.8](http://www.talkchess.com/forum/viewtopic.php?t=66552) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), February 10, 2018
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Scorpio/eval.cpp at master · dshawul/Scorpio · GitHub](https://github.com/dshawul/Scorpio/blob/master/eval.cpp)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [GitHub - dshawul/egbbdll: Probing code for scorpio bitbases](https://github.com/dshawul/egbbdll)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [NVIDIA TensorRT | NVIDIA Developer](https://developer.nvidia.com/tensorrt)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [GitHub - dshawul/Scorpio: Scorpio chess engine - Neural Networks (NNs)](https://github.com/dshawul/Scorpio#nns)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Re: Hacking around CFish NNUE](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75400&start=22) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), October 15, 2020
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [GitHub - dshawul/nnue-probe](https://github.com/dshawul/nnue-probe)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Re: How to scale stockfish NNUE score?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75415&start=3) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), October 17, 2020
 
 **[Up one level](Engines "Engines")**
 

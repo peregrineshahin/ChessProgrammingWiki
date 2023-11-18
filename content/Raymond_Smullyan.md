@@ -168,25 +168,25 @@ was an American mathematician, logician, philosopher, [magician](https://en.wiki
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Smullyan Portraits](http://www-history.mcs.st-and.ac.uk/PictDisplay/Smullyan.html), [McTutor History of Mathematics](http://www-history.mcs.st-and.ac.uk/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mathematician and puzzle-maker Raymond Smullyan dead at 97](http://www.ibtimes.co.uk/mathematician-puzzle-maker-raymond-smullyan-dead-97-1605912) by [Hannah Osborne](http://www.ibtimes.co.uk/reporters/hannah-osborne), [International Business Times](https://en.wikipedia.org/wiki/International_Business_Times), February 10, 2017
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Mathematics Genealogy Project - Raymond Smullyan](http://genealogy.math.ndsu.nodak.edu/id.php?id=8027)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Raymond Smullyan | Department of Philosophy](http://www.indiana.edu/~phil/people/smullyan.shtml) | [Indiana University Bloomington](https://en.wikipedia.org/wiki/Indiana_University_Bloomington)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [first-order logic from Wikipedia](https://en.wikipedia.org/wiki/First-order_logic)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [George Boolos](Mathematician#GBoolos "Mathematician") (**1996**). *[The Hardest Logic Puzzle Ever](https://en.wikipedia.org/wiki/The_Hardest_Logic_Puzzle_Ever)*. [The Harvard Review of Philosophy](https://en.wikipedia.org/wiki/The_Harvard_Review_of_Philosophy). Vol. 6, [pdf](http://www.hcs.harvard.edu/~hrp/issues/1996/Boolos.pdf)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Knights and Knaves - Wikipedia](https://en.wikipedia.org/wiki/Knights_and_Knaves)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Smullyan Problem in Sherlock Holmes book](https://groups.google.com/d/msg/rec.games.chess.computer/MyFmpXxqccg/Z6WgNuoF-hcJ) by Christopher Heckman, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 18, 2013
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Retrospektive (Retroanalyse)](http://de.wikipedia.org/wiki/Schachkomposition#Retrospektive_.28Retroanalyse.29) from German Wikipedia, Raymond Smullyan, [Manchester Guardian](https://en.wikipedia.org/wiki/The_Guardian), 1957
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> on c3, capturing a pawn from b3, which took on c3 [en passant](En_passant "En passant") after 1... Bd5+ 2. c4
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> inspired by [Frank R. Stockton](https://en.wikipedia.org/wiki/Frank_R._Stockton) (**1882**). *[The Lady, or the Tiger?](https://en.wikipedia.org/wiki/The_Lady,_or_the_Tiger%3F)* [The Century Magazine](https://en.wikipedia.org/wiki/The_Century_Magazine)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Tiefes Wasser](http://www.spiegel.de/spiegel/print/d-14345297.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 32/1982 (German)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Epistemology from Wikipedia](https://en.wikipedia.org/wiki/Epistemology)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Gödel's incompleteness theorems - Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Metamathematics from Wikipedia](https://en.wikipedia.org/wiki/Metamathematics)
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Continuum hypothesis from Wikipedia](https://en.wikipedia.org/wiki/Continuum_hypothesis)
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Raymond Smullyan](Mathematician#Smullyan "Mathematician") introducing [retrograde analysis](Retrograde_Analysis "Retrograde Analysis") in the [game of chess](Chess_Game "Chess Game")
-18. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Smullyan Problem in Sherlock Holmes book](https://groups.google.com/d/msg/rec.games.chess.computer/MyFmpXxqccg/Z6WgNuoF-hcJ) by Christopher Heckman, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 18, 2013
-19. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [Joop van Oosterom from Wikipedia](https://en.wikipedia.org/wiki/Joop_van_Oosterom)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Smullyan Portraits](http://www-history.mcs.st-and.ac.uk/PictDisplay/Smullyan.html), [McTutor History of Mathematics](http://www-history.mcs.st-and.ac.uk/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mathematician and puzzle-maker Raymond Smullyan dead at 97](http://www.ibtimes.co.uk/mathematician-puzzle-maker-raymond-smullyan-dead-97-1605912) by [Hannah Osborne](http://www.ibtimes.co.uk/reporters/hannah-osborne), [International Business Times](https://en.wikipedia.org/wiki/International_Business_Times), February 10, 2017
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Mathematics Genealogy Project - Raymond Smullyan](http://genealogy.math.ndsu.nodak.edu/id.php?id=8027)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Raymond Smullyan | Department of Philosophy](http://www.indiana.edu/~phil/people/smullyan.shtml) | [Indiana University Bloomington](https://en.wikipedia.org/wiki/Indiana_University_Bloomington)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [first-order logic from Wikipedia](https://en.wikipedia.org/wiki/First-order_logic)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [George Boolos](Mathematician#GBoolos "Mathematician") (**1996**). *[The Hardest Logic Puzzle Ever](https://en.wikipedia.org/wiki/The_Hardest_Logic_Puzzle_Ever)*. [The Harvard Review of Philosophy](https://en.wikipedia.org/wiki/The_Harvard_Review_of_Philosophy). Vol. 6, [pdf](http://www.hcs.harvard.edu/~hrp/issues/1996/Boolos.pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Knights and Knaves - Wikipedia](https://en.wikipedia.org/wiki/Knights_and_Knaves)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Smullyan Problem in Sherlock Holmes book](https://groups.google.com/d/msg/rec.games.chess.computer/MyFmpXxqccg/Z6WgNuoF-hcJ) by Christopher Heckman, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 18, 2013
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Retrospektive (Retroanalyse)](http://de.wikipedia.org/wiki/Schachkomposition#Retrospektive_.28Retroanalyse.29) from German Wikipedia, Raymond Smullyan, [Manchester Guardian](https://en.wikipedia.org/wiki/The_Guardian), 1957
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> on c3, capturing a pawn from b3, which took on c3 [en passant](En_passant "En passant") after 1... Bd5+ 2. c4
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> inspired by [Frank R. Stockton](https://en.wikipedia.org/wiki/Frank_R._Stockton) (**1882**). *[The Lady, or the Tiger?](https://en.wikipedia.org/wiki/The_Lady,_or_the_Tiger%3F)* [The Century Magazine](https://en.wikipedia.org/wiki/The_Century_Magazine)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Tiefes Wasser](http://www.spiegel.de/spiegel/print/d-14345297.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 32/1982 (German)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Epistemology from Wikipedia](https://en.wikipedia.org/wiki/Epistemology)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Gödel's incompleteness theorems - Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Metamathematics from Wikipedia](https://en.wikipedia.org/wiki/Metamathematics)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Continuum hypothesis from Wikipedia](https://en.wikipedia.org/wiki/Continuum_hypothesis)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Raymond Smullyan](Mathematician#Smullyan "Mathematician") introducing [retrograde analysis](Retrograde_Analysis "Retrograde Analysis") in the [game of chess](Chess_Game "Chess Game")
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Smullyan Problem in Sherlock Holmes book](https://groups.google.com/d/msg/rec.games.chess.computer/MyFmpXxqccg/Z6WgNuoF-hcJ) by Christopher Heckman, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 18, 2013
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Joop van Oosterom from Wikipedia](https://en.wikipedia.org/wiki/Joop_van_Oosterom)
 
 **[Up one Level](People "People")**
 

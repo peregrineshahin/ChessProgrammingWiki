@@ -61,10 +61,10 @@ These are the timesaving techniques relished by computer hackers—those devoted
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [IBM Research: Blue Gene](http://domino.research.ibm.com/comm/research_projects.nsf/pages/bluegene.index.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hacker's Delight, Henry S. Warren, Book](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&isbn=0201914654&TXT=Y&itm=2), Biography, from [Barnes & Noble](http://www.barnesandnoble.com/index.asp)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [IBM's Blue Gene passes petaflop milestone](http://www.zdnet.com.au/ibm-s-blue-gene-passes-petaflop-milestone-339279111.htm) from [ZDNet Australia](http://www.zdnet.com.au/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hacker's Delight, Henry S. Warren, Book](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&isbn=0201914654&TXT=Y&itm=2) from [Barnes & Noble](http://www.barnesandnoble.com/index.asp)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [IBM Research: Blue Gene](http://domino.research.ibm.com/comm/research_projects.nsf/pages/bluegene.index.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hacker's Delight, Henry S. Warren, Book](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&isbn=0201914654&TXT=Y&itm=2), Biography, from [Barnes & Noble](http://www.barnesandnoble.com/index.asp)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [IBM's Blue Gene passes petaflop milestone](http://www.zdnet.com.au/ibm-s-blue-gene-passes-petaflop-milestone-339279111.htm) from [ZDNet Australia](http://www.zdnet.com.au/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hacker's Delight, Henry S. Warren, Book](http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&isbn=0201914654&TXT=Y&itm=2) from [Barnes & Noble](http://www.barnesandnoble.com/index.asp)
 
 **[Up one level](People "People")**
 

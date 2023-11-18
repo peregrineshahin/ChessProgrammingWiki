@@ -57,12 +57,12 @@ uses a configuration file to obtain more than 150 evaluation, material, search, 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Polar cyclone](https://en.wikipedia.org/wiki/Polar_vortex) near [Iceland](https://en.wikipedia.org/wiki/Iceland) on September 4, 2003,
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Polar cyclone](https://en.wikipedia.org/wiki/Polar_vortex) near [Iceland](https://en.wikipedia.org/wiki/Iceland) on September 4, 2003,
    [Jacques Descloitres](https://public.wmo.int/en/files/jacques-descloitres-modis-rapid-response-team-nasagsfc), [MODISRapid Response Team](https://en.wikipedia.org/wiki/Moderate_Resolution_Imaging_Spectroradiometer) , [NASA](https://en.wikipedia.org/wiki/NASA)/[GSFC](https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center),
    [NASA Visible Earth: Low off Iceland](https://visibleearth.nasa.gov/images/68992/low-off-iceland), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fruit (software) - Derivatives from Wikipedia](https://en.wikipedia.org/wiki/Fruit_%28software%29#Derivatives)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> IMPORTANT: Cyclone is a fork of [Toga II 1.4b5](Toga#1.4beta5c "Toga") which has been relicensed under the GPL 3. Code from Cyclone cannot be reused in Fruit/Toga which is GPL 2+., [Posix ports of some recent version of Toga II](https://web.archive.org/web/20131012012343/http://hardy.uhasselt.be/Toga/posix_versions/) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cyclone from chesslogik.com](http://users.telenet.be/chesslogik//cyclone.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fruit (software) - Derivatives from Wikipedia](https://en.wikipedia.org/wiki/Fruit_%28software%29#Derivatives)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> IMPORTANT: Cyclone is a fork of [Toga II 1.4b5](Toga#1.4beta5c "Toga") which has been relicensed under the GPL 3. Code from Cyclone cannot be reused in Fruit/Toga which is GPL 2+., [Posix ports of some recent version of Toga II](https://web.archive.org/web/20131012012343/http://hardy.uhasselt.be/Toga/posix_versions/) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cyclone from chesslogik.com](http://users.telenet.be/chesslogik//cyclone.htm)
 
 **[Up one Level](Toga "Toga")**
 

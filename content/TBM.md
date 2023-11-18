@@ -330,9 +330,9 @@ BEXTR reg64, reg/mem64, imm32
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [AMD CPUID Specification](http://support.amd.com/us/Embedded_TechDocs/25481.pdf) (pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Family 16h Models 00h-0Fh AMD A-Series Mobile Accelerated Processor Product Data Sheet](https://www.amd.com/system/files/TechDocs/52169_KB_A_Series_Mobile.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Moved BMI and TBM instructions from Volume 4 to Volume 3 in September 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [AMD CPUID Specification](http://support.amd.com/us/Embedded_TechDocs/25481.pdf) (pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Family 16h Models 00h-0Fh AMD A-Series Mobile Accelerated Processor Product Data Sheet](https://www.amd.com/system/files/TechDocs/52169_KB_A_Series_Mobile.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Moved BMI and TBM instructions from Volume 4 to Volume 3 in September 2011
 
 **[Up one Level](X86-64 "X86-64")**
 

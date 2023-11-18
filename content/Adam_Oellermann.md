@@ -25,10 +25,10 @@ Adam further maintained *A Beginner's Guide to Chess Programming* <a id="cite-no
 
 ## [A Beginner's Guide to Chess Programming](https://web.archive.org/web/20130127113729/http://www.oellermann.com/cftchess/notes) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2013) [Blikskottel](https://web.archive.org/web/20150206222925/http://www.oellermann.com/Blikskottel) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2015) [Deep Brew](https://web.archive.org/web/20150207000618/http://www.oellermann.com/DeepBrew) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2015) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Adam Oellermann | LinkedIn](https://uk.linkedin.com/in/adamoellermann)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: I notion for a chess contest format](https://www.stmintz.com/ccc/index.php?id=181896) by Adam Oellermann, [CCC](CCC "CCC"), July 31, 2001
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Deep Brew](https://web.archive.org/web/20150207000618/http://www.oellermann.com/DeepBrew) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2015)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [A Beginner's Guide to Chess Programming](https://web.archive.org/web/20130127113729/http://www.oellermann.com/cftchess/notes) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2013)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Adam Oellermann | LinkedIn](https://uk.linkedin.com/in/adamoellermann)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: I notion for a chess contest format](https://www.stmintz.com/ccc/index.php?id=181896) by Adam Oellermann, [CCC](CCC "CCC"), July 31, 2001
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Deep Brew](https://web.archive.org/web/20150207000618/http://www.oellermann.com/DeepBrew) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2015)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [A Beginner's Guide to Chess Programming](https://web.archive.org/web/20130127113729/http://www.oellermann.com/cftchess/notes) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2013)
 
 **[Up one level](People "People")**
 

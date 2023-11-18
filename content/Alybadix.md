@@ -39,11 +39,11 @@ a set of [programs for solving](Category:Problem "Category:Problem") orthodox (M
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [heterodox problem | chess composition | Encyclopedia Britannica](http://www.britannica.com/EBchecked/topic/264261/heterodox-problem)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [maximummer | chess problem | Encyclopedia Britannica](http://www.britannica.com/EBchecked/topic/370584/maximummer)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [chess-problems-gr: Maximummer](http://chess-problems-gr.blogspot.de/2008/05/maximummer.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alybadix - from Software for handling chess problems, Wikipedia](https://en.wikipedia.org/wiki/Software_for_handling_chess_problems#Alybadix)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Alybadix - 1. Contents of Aly-CD 2010, Aly-USB 2010 and Aly-SD 2010](https://alybadix.000webhostapp.com/#1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [heterodox problem | chess composition | Encyclopedia Britannica](http://www.britannica.com/EBchecked/topic/264261/heterodox-problem)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [maximummer | chess problem | Encyclopedia Britannica](http://www.britannica.com/EBchecked/topic/370584/maximummer)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [chess-problems-gr: Maximummer](http://chess-problems-gr.blogspot.de/2008/05/maximummer.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alybadix - from Software for handling chess problems, Wikipedia](https://en.wikipedia.org/wiki/Software_for_handling_chess_problems#Alybadix)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Alybadix - 1. Contents of Aly-CD 2010, Aly-USB 2010 and Aly-SD 2010](https://alybadix.000webhostapp.com/#1)
 
 **[Up one level](Engines "Engines")**
 

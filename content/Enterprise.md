@@ -68,16 +68,16 @@ Kb1 58.Qg6+ Ka1 59.Qxg5 b2 60.Qa5+ Kb1 61.Kd3 Kc1 62.Qe1# 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 9:49, interview with [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CXG Super Enterprise](http://www.schach-computer.info/wiki/index.php/CXG_Super_Enterprise) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CXG Super Crown](http://www.schach-computer.info/wiki/index.php/CXG_Super_Crown) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Mephisto Merlin 16K](http://www.schach-computer.info/wiki/index.php/Mephisto_Merlin_16K) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Danielsen, Kaare](http://www.schach-computer.info/wiki/index.php/Danielsen,_Kaare) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> "[This approach](Oracle#Donninger "Oracle") seems to have been invented by [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") for his program [CXG Advanced Star Chess](CXG_Star_Chess#Advanced "CXG Star Chess")" from [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1996**). *CHE: A Graphical Language for Expressing Chess Knowledge*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [David Kittinger](David_Kittinger "David Kittinger") and [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 15-33
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Cologne 1986 - Chess - Round 3 - Game 9 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=3&id=9)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [r3-enterprise-awit.txt](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/r3-enterprise-awit.txt) from [Awit-Wita-ComputerChess/5thWCCC-Cologne1986](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/) by [Tony Marsland](Tony_Marsland "Tony Marsland")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 9:49, interview with [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CXG Super Enterprise](http://www.schach-computer.info/wiki/index.php/CXG_Super_Enterprise) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CXG Super Crown](http://www.schach-computer.info/wiki/index.php/CXG_Super_Crown) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mephisto Merlin 16K](http://www.schach-computer.info/wiki/index.php/Mephisto_Merlin_16K) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Danielsen, Kaare](http://www.schach-computer.info/wiki/index.php/Danielsen,_Kaare) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> "[This approach](Oracle#Donninger "Oracle") seems to have been invented by [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") for his program [CXG Advanced Star Chess](CXG_Star_Chess#Advanced "CXG Star Chess")" from [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1996**). *CHE: A Graphical Language for Expressing Chess Knowledge*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [David Kittinger](David_Kittinger "David Kittinger") and [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 15-33
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Cologne 1986 - Chess - Round 3 - Game 9 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=3&id=9)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [r3-enterprise-awit.txt](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/r3-enterprise-awit.txt) from [Awit-Wita-ComputerChess/5thWCCC-Cologne1986](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/) by [Tony Marsland](Tony_Marsland "Tony Marsland")
 
 **[Up one level](Engines "Engines")**
 

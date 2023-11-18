@@ -99,14 +99,14 @@ Zahak started its first debut in [TCEC](TCEC "TCEC") in Swiss 2 event of S21 <a 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GitHub - amanjpro/zahak: A UCI compatible chess AI in Go - Name](https://github.com/amanjpro/zahak#zahak)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nasrin Zaza · LinkedIn Profile](https://www.linkedin.com/in/nasrin-zaza)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Release Zahak 0.0.1 · amanjpro/zahak · GitHub](https://github.com/amanjpro/zahak/releases/tag/0.0.1)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [amanjpro/zahak-trainer · GitHub](https://github.com/amanjpro/zahak-trainer)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Training Documentation · amanjpro/zahak · GitHub](https://github.com/amanjpro/zahak/blob/master/training.md)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [TCEC Swiss 2 Wiki](https://wiki.chessdom.org/TCEC_Swiss_2)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Zahhak from Wikipedia](https://en.wikipedia.org/wiki/Zahhak)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Features based on [README.md · amanjpro/zahak · GitHub](https://github.com/amanjpro/zahak#implemented-features)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GitHub - amanjpro/zahak: A UCI compatible chess AI in Go - Name](https://github.com/amanjpro/zahak#zahak)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nasrin Zaza · LinkedIn Profile](https://www.linkedin.com/in/nasrin-zaza)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Release Zahak 0.0.1 · amanjpro/zahak · GitHub](https://github.com/amanjpro/zahak/releases/tag/0.0.1)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [amanjpro/zahak-trainer · GitHub](https://github.com/amanjpro/zahak-trainer)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Training Documentation · amanjpro/zahak · GitHub](https://github.com/amanjpro/zahak/blob/master/training.md)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [TCEC Swiss 2 Wiki](https://wiki.chessdom.org/TCEC_Swiss_2)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Zahhak from Wikipedia](https://en.wikipedia.org/wiki/Zahhak)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Features based on [README.md · amanjpro/zahak · GitHub](https://github.com/amanjpro/zahak#implemented-features)
 
 **[Up one level](Engines "Engines")**
 

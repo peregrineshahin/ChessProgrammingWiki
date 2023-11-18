@@ -33,8 +33,8 @@ an American federal research facility in [Livermore](https://en.wikipedia.org/wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lawrence Livermore National Laboratory - Wikimedia Commons](https://commons.wikimedia.org/wiki/Lawrence_Livermore_National_Laboratory)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lawrence Livermore National Laboratory from Wikipedia](https://en.wikipedia.org/wiki/Lawrence_Livermore_National_Laboratory)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lawrence Livermore National Laboratory - Wikimedia Commons](https://commons.wikimedia.org/wiki/Lawrence_Livermore_National_Laboratory)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lawrence Livermore National Laboratory from Wikipedia](https://en.wikipedia.org/wiki/Lawrence_Livermore_National_Laboratory)
 
 **[Up one Level](Organizations "Organizations")**
 

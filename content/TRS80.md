@@ -51,9 +51,9 @@ Microchess 1.5 on TRS-80 <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [TRS-80 from Wikipedia](https://en.wikipedia.org/wiki/TRS-80)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Microchess running on Radio Shack TRS-80 microcomputer](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a0807480), 1976, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings") and [Digibarn](http://www.digibarn.com/), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Konane from Wikipedia](https://en.wikipedia.org/wiki/Konane)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [TRS-80 from Wikipedia](https://en.wikipedia.org/wiki/TRS-80)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Microchess running on Radio Shack TRS-80 microcomputer](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a0807480), 1976, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings") and [Digibarn](http://www.digibarn.com/), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Konane from Wikipedia](https://en.wikipedia.org/wiki/Konane)
 
 **[Up one Level](Hardware "Hardware")**
 

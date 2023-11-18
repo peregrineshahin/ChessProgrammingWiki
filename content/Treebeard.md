@@ -48,11 +48,11 @@ Treebeard comes with an optional [3D Board](3D_Graphics_Board "3D Graphics Board
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tom Loback](index.php?title=Category:Tom_Loback&action=edit&redlink=1 "Category:Tom Loback (page does not exist)") - Treebeard and Hobbits, [Ent from Wikipedia](https://en.wikipedia.org/wiki/Ent)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2000**). *[SUPER-SOMA - Solving Tactical Exchanges in Shogi without Tree Searching](http://link.springer.com/chapter/10.1007/3-540-45579-5_19)*. [CG 2000](CG_2000 "CG 2000"), [Word preprint](http://www.aifactory.co.uk/downloads/SUPER-SOMA.doc)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [AI Factory Chess Treebeard](http://www.aifactory.co.uk/AIF_Games_Chess_Treebeard.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess - MSN Games - Free Online Games](https://zone.msn.com/en/chess/default.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Free Chess program in Android](http://www.talkchess.com/forum/viewtopic.php?t=54538) by [Fernando Villegas](Fernando_Villegas "Fernando Villegas"), [CCC](CCC "CCC"), December 03, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tom Loback](index.php?title=Category:Tom_Loback&action=edit&redlink=1 "Category:Tom Loback (page does not exist)") - Treebeard and Hobbits, [Ent from Wikipedia](https://en.wikipedia.org/wiki/Ent)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2000**). *[SUPER-SOMA - Solving Tactical Exchanges in Shogi without Tree Searching](http://link.springer.com/chapter/10.1007/3-540-45579-5_19)*. [CG 2000](CG_2000 "CG 2000"), [Word preprint](http://www.aifactory.co.uk/downloads/SUPER-SOMA.doc)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [AI Factory Chess Treebeard](http://www.aifactory.co.uk/AIF_Games_Chess_Treebeard.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess - MSN Games - Free Online Games](https://zone.msn.com/en/chess/default.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Free Chess program in Android](http://www.talkchess.com/forum/viewtopic.php?t=54538) by [Fernando Villegas](Fernando_Villegas "Fernando Villegas"), [CCC](CCC "CCC"), December 03, 2014
 
 **[Up one level](Engines "Engines")**
 

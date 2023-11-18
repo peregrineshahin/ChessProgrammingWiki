@@ -165,13 +165,13 @@ Some features as mentioned in History / Test Results of the Colossus Chess UCI s
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Colossus Chess from Wikipedia](https://en.wikipedia.org/wiki/Colossus_Chess)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Colossus Chess from Wikipedia](https://en.wikipedia.org/wiki/Colossus_Chess)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Colossus 2008b available](http://www.talkchess.com/forum/viewtopic.php?t=23914) by [Martin Bryant](Martin_Bryant "Martin Bryant"), [CCC](CCC "CCC"), September 23, 2008
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Colossus Chess UCI](http://www.colossusgames.co.uk/chess/colossuschessuci.htm)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Colossus Chess UCI](http://web.archive.org/web/20160517033111/http://www.colossusgames.co.uk/chess/colossuschessuci.htm), [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Lorenz cipher from Wikipedia](https://en.wikipedia.org/wiki/Lorenz_cipher)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Colossus Chess from Wikipedia](https://en.wikipedia.org/wiki/Colossus_Chess)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Colossus Chess from Wikipedia](https://en.wikipedia.org/wiki/Colossus_Chess)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Colossus 2008b available](http://www.talkchess.com/forum/viewtopic.php?t=23914) by [Martin Bryant](Martin_Bryant "Martin Bryant"), [CCC](CCC "CCC"), September 23, 2008
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Colossus Chess UCI](http://www.colossusgames.co.uk/chess/colossuschessuci.htm)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Colossus Chess UCI](http://web.archive.org/web/20160517033111/http://www.colossusgames.co.uk/chess/colossuschessuci.htm), [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Lorenz cipher from Wikipedia](https://en.wikipedia.org/wiki/Lorenz_cipher)
 
 **[Up one Level](Engines "Engines")**
 

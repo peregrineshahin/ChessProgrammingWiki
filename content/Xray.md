@@ -35,7 +35,7 @@ Commonly, **X-ray** in Chess refers to a family of several tactical motives, whe
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [X-ray museum](http://www.roentgenmuseum.de/index.php?id=1&L=1) in [Remscheid](https://en.wikipedia.org/wiki/Remscheid)-[Lennep](https://de.wikipedia.org/wiki/Lennep), [North Rhine-Westphalia](https://en.wikipedia.org/wiki/North_Rhine-Westphalia), Germany, commemorating [Wilhelm Röntgen's](Mathematician#WRoentgen "Mathematician") life and discoveries, Image by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), April 09, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [X-ray museum](http://www.roentgenmuseum.de/index.php?id=1&L=1) in [Remscheid](https://en.wikipedia.org/wiki/Remscheid)-[Lennep](https://de.wikipedia.org/wiki/Lennep), [North Rhine-Westphalia](https://en.wikipedia.org/wiki/North_Rhine-Westphalia), Germany, commemorating [Wilhelm Röntgen's](Mathematician#WRoentgen "Mathematician") life and discoveries, Image by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), April 09, 2017
 
 **[Up one Level](Tactics "Tactics")**
 

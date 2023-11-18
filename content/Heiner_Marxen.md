@@ -53,15 +53,15 @@ It did not need or use any tapes and ran on an [IBM-1130](https://en.wikipedia.o
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BELCT 2001 Berlin is worth a trip !](http://www.quarkchess.de/belct/) photos by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chest: A Program for Solving Orthodox Chess Problems](http://turbotm.de/~heiner/Chess/chest.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Heiner Marxen - Busy Beaver](http://turbotm.de/~heiner/BB/index.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Rook Paths Puzzles](http://www.iwriteiam.nl/Crook_path.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Heiner Marxen's Method to compute the Rook Paths Puzzle](http://turbotm.de/~heiner/Rookpath/method.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CHEST: A Program for Solving Orthodox Chess Problems](http://turbotm.de/~heiner/Chess/chest.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Perft(3) from 1978, with a twist!](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=41373&start=5) by Heiner Marxen, [CCC](CCC "CCC"), December 09, 2011
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Heiner Marxen](https://dblp.org/pid/02/4081.html)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [BESSY from Wikipedia](https://en.wikipedia.org/wiki/BESSY)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BELCT 2001 Berlin is worth a trip !](http://www.quarkchess.de/belct/) photos by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chest: A Program for Solving Orthodox Chess Problems](http://turbotm.de/~heiner/Chess/chest.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Heiner Marxen - Busy Beaver](http://turbotm.de/~heiner/BB/index.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rook Paths Puzzles](http://www.iwriteiam.nl/Crook_path.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Heiner Marxen's Method to compute the Rook Paths Puzzle](http://turbotm.de/~heiner/Rookpath/method.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CHEST: A Program for Solving Orthodox Chess Problems](http://turbotm.de/~heiner/Chess/chest.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Perft(3) from 1978, with a twist!](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=41373&start=5) by Heiner Marxen, [CCC](CCC "CCC"), December 09, 2011
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Heiner Marxen](https://dblp.org/pid/02/4081.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [BESSY from Wikipedia](https://en.wikipedia.org/wiki/BESSY)
 
 **[Up one level](People "People")**
 

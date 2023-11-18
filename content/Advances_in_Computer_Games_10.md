@@ -54,8 +54,8 @@ Conference in the cave <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Images Graz 2003 - 03.jpg](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2003/fotos/graz_web/%7CICGA)\]
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Olympiad 2003 in Graz, Austria, November 25](http://www.yss-aya.com/photo/graz2003/1125/index01.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Images Graz 2003 - 03.jpg](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2003/fotos/graz_web/%7CICGA)\]
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Olympiad 2003 in Graz, Austria, November 25](http://www.yss-aya.com/photo/graz2003/1125/index01.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
 
 **[Up one Level](Conferences "Conferences")**
 

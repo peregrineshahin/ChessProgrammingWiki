@@ -88,9 +88,9 @@ and can therefore considered as didactic engine with some prospects to improve.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Blue LED fun](https://www.flickr.com/photos/mrbill/34651005/), taken on August 16, 2005, by [Bill Bradford](https://www.flickr.com/people/41894183508@N01), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - GunshipPenguin / shallow-blue | Features](https://github.com/GunshipPenguin/shallow-blue#features)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fast Chess Move Generation With Magic Bitboards](https://rhysre.net/fast-chess-move-generation-with-magic-bitboards.html) by [Rhys Rustad-Elliott](Rhys_Rustad-Elliott "Rhys Rustad-Elliott"), January 15, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Blue LED fun](https://www.flickr.com/photos/mrbill/34651005/), taken on August 16, 2005, by [Bill Bradford](https://www.flickr.com/people/41894183508@N01), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - GunshipPenguin / shallow-blue | Features](https://github.com/GunshipPenguin/shallow-blue#features)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fast Chess Move Generation With Magic Bitboards](https://rhysre.net/fast-chess-move-generation-with-magic-bitboards.html) by [Rhys Rustad-Elliott](Rhys_Rustad-Elliott "Rhys Rustad-Elliott"), January 15, 2019
 
 **[Up one level](Engines "Engines")**
 

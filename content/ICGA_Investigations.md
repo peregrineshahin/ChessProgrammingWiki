@@ -122,12 +122,12 @@ Some pages copied (and slightly edited concerning links and headers [user:GerdIs
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ICGA Investigations Wiki](http://icga.wikispaces.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Charter](http://icga.wikispaces.com/The+Charter)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Attack of the clones | ChessVibes](http://www.chessvibes.com/?q=reports/attack-of-the-clones) by [David Levy](David_Levy "David Levy"), February 19, 2011
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Allegations against two more Chess Engines – The LOOP Program](https://icga.org/?p=354) by [David Levy](David_Levy "David Levy"), [ICGA](ICGA "ICGA"), May 22, 2012
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Complaints against the Chess programs LOOP and THINKER](https://icga.org/?p=919) by [David Levy](David_Levy "David Levy"), [ICGA](ICGA "ICGA") President, May 9, 2014
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Voir dire from Wikipedia](https://en.wikipedia.org/wiki/Voir_dire)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ICGA Investigations Wiki](http://icga.wikispaces.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Charter](http://icga.wikispaces.com/The+Charter)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Attack of the clones | ChessVibes](http://www.chessvibes.com/?q=reports/attack-of-the-clones) by [David Levy](David_Levy "David Levy"), February 19, 2011
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Allegations against two more Chess Engines – The LOOP Program](https://icga.org/?p=354) by [David Levy](David_Levy "David Levy"), [ICGA](ICGA "ICGA"), May 22, 2012
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Complaints against the Chess programs LOOP and THINKER](https://icga.org/?p=919) by [David Levy](David_Levy "David Levy"), [ICGA](ICGA "ICGA") President, May 9, 2014
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Voir dire from Wikipedia](https://en.wikipedia.org/wiki/Voir_dire)
 
 **[Up one Level](ICGA "ICGA")**
 

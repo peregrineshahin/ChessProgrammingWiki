@@ -71,12 +71,12 @@ a chess program developed by [Jari Huikari](index.php?title=Jari_Huikari&action=
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Bust of [Nero](https://en.wikipedia.org/wiki/Nero) at the [Capitoline Museum](https://en.wikipedia.org/wiki/Capitoline_Museums), [Rome](https://en.wikipedia.org/wiki/Rome), Image by cjh1452000, May 19, 2009, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Nero from Wikipedia](https://en.wikipedia.org/wiki/Nero)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [64 bit version of Nerowb60](http://www.talkchess.com/forum/viewtopic.php?t=26273&start=3) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), January 28, 2009
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Mate in 1 - Nero's results](https://www.stmintz.com/ccc/index.php?id=124075) by [Jari Huikari](index.php?title=Jari_Huikari&action=edit&redlink=1 "Jari Huikari (page does not exist)"), [CCC](CCC "CCC"), August 12, 2000
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nerowb51.pas](https://web.archive.org/web/20060624001510/http://www.mit.jyu.fi/~huikari/NEROWB51.PAS)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Looking for Nero source code](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75521&start=1) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), October 24, 2020
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> In the 1960s, [Klaus Doldinger](Category:Klaus_Doldinger "Category:Klaus Doldinger") also published dance and rock music under the pseudonym [Paul Nero](https://de.wikipedia.org/wiki/Klaus_Doldinger#Sonstiges)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Bust of [Nero](https://en.wikipedia.org/wiki/Nero) at the [Capitoline Museum](https://en.wikipedia.org/wiki/Capitoline_Museums), [Rome](https://en.wikipedia.org/wiki/Rome), Image by cjh1452000, May 19, 2009, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Nero from Wikipedia](https://en.wikipedia.org/wiki/Nero)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [64 bit version of Nerowb60](http://www.talkchess.com/forum/viewtopic.php?t=26273&start=3) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), January 28, 2009
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Mate in 1 - Nero's results](https://www.stmintz.com/ccc/index.php?id=124075) by [Jari Huikari](index.php?title=Jari_Huikari&action=edit&redlink=1 "Jari Huikari (page does not exist)"), [CCC](CCC "CCC"), August 12, 2000
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nerowb51.pas](https://web.archive.org/web/20060624001510/http://www.mit.jyu.fi/~huikari/NEROWB51.PAS)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Looking for Nero source code](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75521&start=1) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), October 24, 2020
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> In the 1960s, [Klaus Doldinger](Category:Klaus_Doldinger "Category:Klaus Doldinger") also published dance and rock music under the pseudonym [Paul Nero](https://de.wikipedia.org/wiki/Klaus_Doldinger#Sonstiges)
 
 **[Up one Level](Engines "Engines")**
 

@@ -37,8 +37,8 @@ a chess engine by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") bas
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Spartacus' death by [Hermann Vogel](https://en.wikipedia.org/wiki/Hermann_Vogel_(German_illustrator)) (1882), Source. [Slave Revolt in the Final Battle Crassus Defeats the Slaves and Spartacus is Killed](https://www.allposters.com/-sp/Slave-Revolt-in-the-Final-Battle-Crassus-Defeats-the-Slaves-and-Spartacus-is-Killed-Posters_i1879371_.htm), [Spartacus from Wikipedia](https://en.wikipedia.org/wiki/Spartacus)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Any joker1114w Updates?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=41007&start=2) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), November 06, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Spartacus' death by [Hermann Vogel](https://en.wikipedia.org/wiki/Hermann_Vogel_(German_illustrator)) (1882), Source. [Slave Revolt in the Final Battle Crassus Defeats the Slaves and Spartacus is Killed](https://www.allposters.com/-sp/Slave-Revolt-in-the-Final-Battle-Crassus-Defeats-the-Slaves-and-Spartacus-is-Killed-Posters_i1879371_.htm), [Spartacus from Wikipedia](https://en.wikipedia.org/wiki/Spartacus)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Any joker1114w Updates?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=41007&start=2) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), November 06, 2011
 
 **[Up one Level](Engines "Engines")**
 

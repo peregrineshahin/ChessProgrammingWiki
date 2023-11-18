@@ -39,14 +39,14 @@ was a Dutch mathematician, [actuarial scientist](https://en.wikipedia.org/wiki/A
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [DOCCC 1986](DOCCC_1986 "DOCCC 1986"), [Computerschaak pagina 3](http://www.csvnsupplementsite.nl/CSVNPAGINA3.html) (Dutch)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kampioenen van de Schaakclub Utrecht](http://schaakclubutrecht.nl/histinterne.html) (Dutch)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1987**). *[Advances in Computer Chess, The 5th Triennial Conference](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5")*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Wit: [J.H. Donner](https://en.wikipedia.org/wiki/Jan_Hein_Donner) - Zwart: [Belle](Belle "Belle") from [CSVN](CSVN "CSVN")-[supplement site 11](http://www.csvnsupplementsite.nl/csvnp11.html) (Dutch)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Drs. J.J. van Oosterwijk Bruyn | Schaakclub Oud Zuylen Utrecht](http://oudzuylenutrecht.nl/drs-j-j-van-oosterwijk-bruyn/) by Robert Beekman, March 13, 2016
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [De oorlog en de tijd van de vijf ‘Musketiers’ (1941 – 1957) | Schaakclub Oud Zuylen Utrecht](http://oudzuylenutrecht.nl/de-oorlog-en-de-tijd-van-de-vijf-musketiers-1941-1957/) by Robert Beekman, March 13, 2016
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Notes on other Actuarial Journals](http://www.actuaries.org.uk/__data/assets/pdf_file/0011/24995/0161-0163.pdf) (pdf)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Ned Tijdschr Geneeskd. 1977 Oct 15](http://www.ncbi.nlm.nih.gov/pubmed/904717)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [DOCCC 1986](DOCCC_1986 "DOCCC 1986"), [Computerschaak pagina 3](http://www.csvnsupplementsite.nl/CSVNPAGINA3.html) (Dutch)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kampioenen van de Schaakclub Utrecht](http://schaakclubutrecht.nl/histinterne.html) (Dutch)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1987**). *[Advances in Computer Chess, The 5th Triennial Conference](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5")*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Wit: [J.H. Donner](https://en.wikipedia.org/wiki/Jan_Hein_Donner) - Zwart: [Belle](Belle "Belle") from [CSVN](CSVN "CSVN")-[supplement site 11](http://www.csvnsupplementsite.nl/csvnp11.html) (Dutch)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Drs. J.J. van Oosterwijk Bruyn | Schaakclub Oud Zuylen Utrecht](http://oudzuylenutrecht.nl/drs-j-j-van-oosterwijk-bruyn/) by Robert Beekman, March 13, 2016
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [De oorlog en de tijd van de vijf ‘Musketiers’ (1941 – 1957) | Schaakclub Oud Zuylen Utrecht](http://oudzuylenutrecht.nl/de-oorlog-en-de-tijd-van-de-vijf-musketiers-1941-1957/) by Robert Beekman, March 13, 2016
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Notes on other Actuarial Journals](http://www.actuaries.org.uk/__data/assets/pdf_file/0011/24995/0161-0163.pdf) (pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Ned Tijdschr Geneeskd. 1977 Oct 15](http://www.ncbi.nlm.nih.gov/pubmed/904717)
 
 **[Up one level](People "People")**
 

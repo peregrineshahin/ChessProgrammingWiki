@@ -59,7 +59,7 @@ an Australian electronics engineer, as computer chess programmer author of the d
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [LTChess - Home](https://ltchess.weebly.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [LTChess - Home](https://ltchess.weebly.com/)
 
 **[Up one level](People "People")**
 

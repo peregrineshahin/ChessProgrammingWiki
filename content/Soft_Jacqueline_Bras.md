@@ -38,9 +38,9 @@ Soft Jacqueline Bras played the [Massy 2004](Massy_2004 "Massy 2004") and [Massy
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Close-up view of the [Cardrona Bra Fence](https://en.wikipedia.org/wiki/Cardrona_Bra_Fence), taken the 24th of March, 2006. Photo by Adam Buczynski - [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Report on Massy'2004 : Soft Jacqueline Bras ???](https://www.stmintz.com/ccc/index.php?id=377826) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), July 19, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Massy, France - 16 & 17 Oct 2004 - 11ème Championnat Français de Programmes d'Echecs - Toutes les parties en pgn / All pgn games](https://web.archive.org/web/20041215192842/http://www.ludochess.com/fccc2004/tournoi.php3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Close-up view of the [Cardrona Bra Fence](https://en.wikipedia.org/wiki/Cardrona_Bra_Fence), taken the 24th of March, 2006. Photo by Adam Buczynski - [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Report on Massy'2004 : Soft Jacqueline Bras ???](https://www.stmintz.com/ccc/index.php?id=377826) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), July 19, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Massy, France - 16 & 17 Oct 2004 - 11ème Championnat Français de Programmes d'Echecs - Toutes les parties en pgn / All pgn games](https://web.archive.org/web/20041215192842/http://www.ludochess.com/fccc2004/tournoi.php3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](Engines "Engines")**
 

@@ -81,20 +81,20 @@ were frequently added to the VEB actual names. VEB Mikroelektronik ...
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [VEB Mikroelektronik „Karl Marx“ Erfurt](http://www.robotrontechnik.de/index.htm?/html/standorte/mme.htm) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kombinat Mikroelektronik Erfurt from Wikipedia.de](http://de.wikipedia.org/wiki/Kombinat_Mikroelektronik_Erfurt) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [VEB Kombinat Mikroelektronik „Karl Marx“ Erfurt](http://www.robotrontechnik.de/index.htm?/html/standorte/kme.htm) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Semiconductor Charts - Manufacturers and References](http://www.kytelabs.de/charts/semi/quellen.html) by Franz Hamberger
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Integrierte Schaltkreise - Prozessor U880](http://www.robotrontechnik.de/index.htm?/html/komponenten/ic.htm#u880) from [robotrontechnik.de](http://www.robotrontechnik.de/index.htm?/html/internes/haupt_en.htm) (German)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Der Befehlssatz des U880](http://www.z1013.de/u880_befehle.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Copyright und illegal genutzte westliche Software](http://www.robotrontechnik.de/index.htm?/html/software/software.htm) from [robotrontechnik.de](http://www.robotrontechnik.de/index.htm?/html/internes/haupt_en.htm) (German)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2020**). *Computer Chess and Chess Computers in East Germany*. [ICGA Journal, Vol. 42, Nos. 2-3](ICGA_Journal#42_23 "ICGA Journal")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [VEB Mikroelektronik Erfurt](http://www.schach-computer.info/wiki/index.php/VEB_Mikroelektronik_Erfurt) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [The chess games of Karl Marx chessgames.com](http://www.chessgames.com/perl/chessplayer?pid=83456)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [VEB Mikroelektronik „Wilhelm Pieck“ Mühlhausen](http://www.robotrontechnik.de/index.htm?/html/standorte/mpm.htm) (German)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Bilder von der Übergabe des 32-Bit-Mikroprozessors U80701 an Erich Honecker im ZK der SED, 14. August 1989](http://www.robotron-vax.de/U80701/U80701.htm), Quelle [Das Digitale Bildarchiv des Bundesarchivs](http://www.bild.bundesarchiv.de/)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [OEM und Sonstiges - Schachcomputer "ChessMaster"](http://www.robotron-net.de/sonstiges.html#CM) from [Robotron-net.de](http://www.robotron-net.de/) (German)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [VEB Robotron from Wikipedia](https://en.wikipedia.org/wiki/VEB_Robotron)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [VEB Mikroelektronik „Karl Marx“ Erfurt](http://www.robotrontechnik.de/index.htm?/html/standorte/mme.htm) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kombinat Mikroelektronik Erfurt from Wikipedia.de](http://de.wikipedia.org/wiki/Kombinat_Mikroelektronik_Erfurt) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [VEB Kombinat Mikroelektronik „Karl Marx“ Erfurt](http://www.robotrontechnik.de/index.htm?/html/standorte/kme.htm) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Semiconductor Charts - Manufacturers and References](http://www.kytelabs.de/charts/semi/quellen.html) by Franz Hamberger
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Integrierte Schaltkreise - Prozessor U880](http://www.robotrontechnik.de/index.htm?/html/komponenten/ic.htm#u880) from [robotrontechnik.de](http://www.robotrontechnik.de/index.htm?/html/internes/haupt_en.htm) (German)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Der Befehlssatz des U880](http://www.z1013.de/u880_befehle.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Copyright und illegal genutzte westliche Software](http://www.robotrontechnik.de/index.htm?/html/software/software.htm) from [robotrontechnik.de](http://www.robotrontechnik.de/index.htm?/html/internes/haupt_en.htm) (German)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2020**). *Computer Chess and Chess Computers in East Germany*. [ICGA Journal, Vol. 42, Nos. 2-3](ICGA_Journal#42_23 "ICGA Journal")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [VEB Mikroelektronik Erfurt](http://www.schach-computer.info/wiki/index.php/VEB_Mikroelektronik_Erfurt) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [The chess games of Karl Marx chessgames.com](http://www.chessgames.com/perl/chessplayer?pid=83456)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [VEB Mikroelektronik „Wilhelm Pieck“ Mühlhausen](http://www.robotrontechnik.de/index.htm?/html/standorte/mpm.htm) (German)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Bilder von der Übergabe des 32-Bit-Mikroprozessors U80701 an Erich Honecker im ZK der SED, 14. August 1989](http://www.robotron-vax.de/U80701/U80701.htm), Quelle [Das Digitale Bildarchiv des Bundesarchivs](http://www.bild.bundesarchiv.de/)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [OEM und Sonstiges - Schachcomputer "ChessMaster"](http://www.robotron-net.de/sonstiges.html#CM) from [Robotron-net.de](http://www.robotron-net.de/) (German)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [VEB Robotron from Wikipedia](https://en.wikipedia.org/wiki/VEB_Robotron)
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -103,16 +103,16 @@ On his work in collaboration with [Yoav Freund](Yoav_Freund "Yoav Freund") on [A
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ICMLA 2009 - Invited Speakers](http://www.icmla-conference.org/icmla09/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Robert Schapire - Department of Computer Science, Princeton University - VideoLectures.NET](http://videolectures.net/robert_schapire/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Robert Schapire - Microsoft Research](https://www.microsoft.com/en-us/research/people/schapire/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICMLA 2009 - Invited Speakers](https://www.icmla-conference.org/icmla09/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Peter Auer](Peter_Auer "Peter Auer"), [Nicolò Cesa-Bianchi](Nicol%C3%B2_Cesa-Bianchi "Nicolò Cesa-Bianchi"), [Yoav Freund](Yoav_Freund "Yoav Freund"), Robert Schapire (**1998**). *Gambling in a rigged casino: The adversarial multi-arm bandit problem*. [NeuroCOLT2](http://www.bio.net/bioarchives/neuroscience/1998-November/034748.html), [pdf](http://www.dklevine.com/archive/refs4462.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Robert Schapire - Publication list](https://www.cs.princeton.edu/~schapire/publist.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Robert E. Schapire](https://dblp.uni-trier.de/pers/hd/s/Schapire:Robert_E=)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Good–Turing frequency estimation from Wikipedia](https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Jack Good](Jack_Good "Jack Good") (**1953**). *[The population frequencies of species and the estimation of population parameters](http://biomet.oxfordjournals.org/content/40/3-4/237)*. [Biometrika](https://en.wikipedia.org/wiki/Biometrika), Vol. 40, Nos. 3-4
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Jack Good](Jack_Good "Jack Good") (**2000**). *[Turing’s anticipation of emprical Bayes in connection with the cryptanalysis of the naval enigma](http://www.tandfonline.com/doi/abs/10.1080/00949650008812016)*. [Journal of Statistical Computation and Simulation](https://en.wikipedia.org/wiki/Journal_of_Statistical_Computation_and_Simulation), Vol. 66, No. 2
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ICMLA 2009 - Invited Speakers](http://www.icmla-conference.org/icmla09/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Robert Schapire - Department of Computer Science, Princeton University - VideoLectures.NET](http://videolectures.net/robert_schapire/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Robert Schapire - Microsoft Research](https://www.microsoft.com/en-us/research/people/schapire/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICMLA 2009 - Invited Speakers](https://www.icmla-conference.org/icmla09/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Peter Auer](Peter_Auer "Peter Auer"), [Nicolò Cesa-Bianchi](Nicol%C3%B2_Cesa-Bianchi "Nicolò Cesa-Bianchi"), [Yoav Freund](Yoav_Freund "Yoav Freund"), Robert Schapire (**1998**). *Gambling in a rigged casino: The adversarial multi-arm bandit problem*. [NeuroCOLT2](http://www.bio.net/bioarchives/neuroscience/1998-November/034748.html), [pdf](http://www.dklevine.com/archive/refs4462.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Robert Schapire - Publication list](https://www.cs.princeton.edu/~schapire/publist.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Robert E. Schapire](https://dblp.uni-trier.de/pers/hd/s/Schapire:Robert_E=)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Good–Turing frequency estimation from Wikipedia](https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Jack Good](Jack_Good "Jack Good") (**1953**). *[The population frequencies of species and the estimation of population parameters](http://biomet.oxfordjournals.org/content/40/3-4/237)*. [Biometrika](https://en.wikipedia.org/wiki/Biometrika), Vol. 40, Nos. 3-4
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Jack Good](Jack_Good "Jack Good") (**2000**). *[Turing’s anticipation of emprical Bayes in connection with the cryptanalysis of the naval enigma](http://www.tandfonline.com/doi/abs/10.1080/00949650008812016)*. [Journal of Statistical Computation and Simulation](https://en.wikipedia.org/wiki/Journal_of_Statistical_Computation_and_Simulation), Vol. 66, No. 2
 
 **[Up one Level](People "People")**
 

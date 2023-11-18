@@ -35,11 +35,11 @@ an [Indian American](https://en.wikipedia.org/wiki/Indian_Americans) electrical 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Capture from [Trade-Offs in Sampling-Based Adversarial Planning - VideoLectures.NET](http://videolectures.net/icaps2011_ramanujan_sampling/), [ICAPS 2011](http://icaps11.icaps-conference.org/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Raghuram Ramanujan - Davidson College](http://www.davidson.edu/academics/mathematics-and-computer-science/faculty-and-staff/raghuram-ramanujan)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Raghuram Ramanujan, [Ashish Sabharwal](Ashish_Sabharwal "Ashish Sabharwal"), [Bart Selman](Bart_Selman "Bart Selman") (**2010**). *[On Adversarial Search Spaces and Sampling-Based Planning](http://www.aaai.org/ocs/index.php/ICAPS/ICAPS10/paper/view/1458)*. [ICAPS 2010](http://www.aaai.org/Press/Proceedings/icaps10.php)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Raghuram Ramanujan](http://dblp.uni-trier.de/pers/hd/r/Ramanujan:Raghuram?q=Raghuram+Ramanujan)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Search traps in MCTS and chess](http://www.talkchess.com/forum/viewtopic.php?t=66125) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), December 25, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Capture from [Trade-Offs in Sampling-Based Adversarial Planning - VideoLectures.NET](http://videolectures.net/icaps2011_ramanujan_sampling/), [ICAPS 2011](http://icaps11.icaps-conference.org/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Raghuram Ramanujan - Davidson College](http://www.davidson.edu/academics/mathematics-and-computer-science/faculty-and-staff/raghuram-ramanujan)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Raghuram Ramanujan, [Ashish Sabharwal](Ashish_Sabharwal "Ashish Sabharwal"), [Bart Selman](Bart_Selman "Bart Selman") (**2010**). *[On Adversarial Search Spaces and Sampling-Based Planning](http://www.aaai.org/ocs/index.php/ICAPS/ICAPS10/paper/view/1458)*. [ICAPS 2010](http://www.aaai.org/Press/Proceedings/icaps10.php)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Raghuram Ramanujan](http://dblp.uni-trier.de/pers/hd/r/Ramanujan:Raghuram?q=Raghuram+Ramanujan)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Search traps in MCTS and chess](http://www.talkchess.com/forum/viewtopic.php?t=66125) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), December 25, 2017
 
 **[Up one level](People "People")**
 

@@ -23,8 +23,8 @@ which started in summer 2018 as a [semester](https://en.wikipedia.org/wiki/Acade
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CrazyAra - About us](https://crazyara.org/about.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Alena Beyer](https://dblp.org/pid/247/6355.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CrazyAra - About us](https://crazyara.org/about.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Alena Beyer](https://dblp.org/pid/247/6355.html)
 
 **[Up one level](People "People")**
 

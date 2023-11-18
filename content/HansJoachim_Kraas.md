@@ -46,13 +46,13 @@ a German computer scientist, county league tournament chess player <a id="cite-n
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") capture at 11:33, interview by [Albrecht Fölsing](https://en.wikipedia.org/wiki/Albrecht_F%C3%B6lsing) during the round 4, [Bobby](Bobby "Bobby") - [Mephisto X](Mephisto "Mephisto") game
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Schachvereinigung Salzgitter e.V. » Vor 20 Jahren](http://www.schachvereinigung-salzgitter.de/blog/2011/12/vor-20-jahren/), December 18, 2011 (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ingo-Zahl – Wikipedia.de](https://de.wikipedia.org/wiki/Ingo-Zahl) (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Hans-Joachim Kraas (**1990**). *Zur Parallelisierung des SSS\*-Algorithmus*. Ph.D. thesis, [TU Braunschweig](https://en.wikipedia.org/wiki/Technical_University_of_Braunschweig)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Cologne 1986 - Chess - Round 4 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=4)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). *R. Bartel, H.J. Kraas and G. Schrüfer: Das grosse Computerschach-Buch*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal") (Review)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") capture at 11:33, interview by [Albrecht Fölsing](https://en.wikipedia.org/wiki/Albrecht_F%C3%B6lsing) during the round 4, [Bobby](Bobby "Bobby") - [Mephisto X](Mephisto "Mephisto") game
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Schachvereinigung Salzgitter e.V. » Vor 20 Jahren](http://www.schachvereinigung-salzgitter.de/blog/2011/12/vor-20-jahren/), December 18, 2011 (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ingo-Zahl – Wikipedia.de](https://de.wikipedia.org/wiki/Ingo-Zahl) (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Hans-Joachim Kraas (**1990**). *Zur Parallelisierung des SSS\*-Algorithmus*. Ph.D. thesis, [TU Braunschweig](https://en.wikipedia.org/wiki/Technical_University_of_Braunschweig)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Cologne 1986 - Chess - Round 4 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=4)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). *R. Bartel, H.J. Kraas and G. Schrüfer: Das grosse Computerschach-Buch*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal") (Review)
 
 **[Up one level](People "People")**
 

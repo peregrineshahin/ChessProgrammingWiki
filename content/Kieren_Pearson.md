@@ -46,8 +46,8 @@ He is author of the [UCI](UCI "UCI") compliant [open source chess engine](Catego
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kieren Pearson | LinkedIn](https://www.linkedin.com/in/kieren-pearson-106988172/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - KierenP/Halogen: A c++ chess engine](https://github.com/KierenP/Halogen)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kieren Pearson | LinkedIn](https://www.linkedin.com/in/kieren-pearson-106988172/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - KierenP/Halogen: A c++ chess engine](https://github.com/KierenP/Halogen)
 
 **[Up one Level](People "People")**
 

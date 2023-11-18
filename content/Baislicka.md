@@ -31,7 +31,7 @@ Features based on [Baislicka/README.txt at master · kz04px/Baislicka · GitHub]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Baislicka 1.0 64-bit in CCRL 40/40](https://ccrl.chessdom.com/ccrl/4040/cgi/engine_details.cgi?print=Details&eng=Baislicka%201.0%2064-bit#Baislicka_1_0_64-bit)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Baislicka 1.0 64-bit in CCRL 40/40](https://ccrl.chessdom.com/ccrl/4040/cgi/engine_details.cgi?print=Details&eng=Baislicka%201.0%2064-bit#Baislicka_1_0_64-bit)
 
 **[Up one Level](Engines "Engines")**
 

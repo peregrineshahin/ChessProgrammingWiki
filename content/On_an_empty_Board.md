@@ -369,8 +369,8 @@ U64 queenMaskEx (int sq) {return rookMask(sq)     ^ bishopMask(sq);}
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: [Question] Efficiently generate ray masks?](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79140&start=10) by [Thomas Jahn](Thomas_Jahn "Thomas Jahn"), [CCC](CCC "CCC"), January 17, 2022
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SARX/SHLX/SHRX — Shift Without Affecting Flags](https://www.felixcloutier.com/x86/sarx:shlx:shrx)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: [Question] Efficiently generate ray masks?](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79140&start=10) by [Thomas Jahn](Thomas_Jahn "Thomas Jahn"), [CCC](CCC "CCC"), January 17, 2022
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SARX/SHLX/SHRX — Shift Without Affecting Flags](https://www.felixcloutier.com/x86/sarx:shlx:shrx)
 
 **[Up one Level](Sliding_Piece_Attacks "Sliding Piece Attacks")**
 

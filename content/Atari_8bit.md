@@ -32,7 +32,7 @@ manufactured by [Atari Corporation](https://en.wikipedia.org/wiki/Atari_Corporat
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  Atari 800 8-bit home computer. Photo by [Bilby](https://commons.wikimedia.org/wiki/User:Bilby), July 21, 2010, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Atari 8-bit family from Wikipedia](https://en.wikipedia.org/wiki/Atari_8-bit_family)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  Atari 800 8-bit home computer. Photo by [Bilby](https://commons.wikimedia.org/wiki/User:Bilby), July 21, 2010, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Atari 8-bit family from Wikipedia](https://en.wikipedia.org/wiki/Atari_8-bit_family)
 
 **[Up one Level](Hardware "Hardware")**
 

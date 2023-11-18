@@ -73,8 +73,8 @@ Qb7 31.Nd5 Rcxe6 32.Rxe6 Nxd5 33.Rxf6+ Nxf6 34.Re6 Qe4 35.Qxf6+ Kh5 36.Rxe4 Kg4
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Dartmouth Computing Timeline - The 1970s - 1973 - Chess Program in Tournament](https://www.dartmouth.edu/its-tools/archive/history/timeline/1970s.html#1973)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Danny Kopec](Danny_Kopec "Danny Kopec") (**1977**). *Recent developments in computer chess*. Firbush News 7 Edinburgh: Machine Intelligence Research Unit, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") (ed. [Donald Michie](Donald_Michie "Donald Michie")), [pdf](http://www.sci.brooklyn.cuny.edu/~kopec/Publications/Publications/O_45_C.pdf) - Work at Dartmouth College
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Dartmouth Computing Timeline - The 1970s - 1973 - Chess Program in Tournament](https://www.dartmouth.edu/its-tools/archive/history/timeline/1970s.html#1973)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Danny Kopec](Danny_Kopec "Danny Kopec") (**1977**). *Recent developments in computer chess*. Firbush News 7 Edinburgh: Machine Intelligence Research Unit, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") (ed. [Donald Michie](Donald_Michie "Donald Michie")), [pdf](http://www.sci.brooklyn.cuny.edu/~kopec/Publications/Publications/O_45_C.pdf) - Work at Dartmouth College
 
 **[Up one Level](Engines "Engines")**
 

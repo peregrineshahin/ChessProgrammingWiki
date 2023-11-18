@@ -74,13 +74,13 @@ an [UCI](UCI "UCI") compliant chess engine by [Thomas Kolarik](Thomas_Kolarik "T
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mahavira's](https://en.wikipedia.org/wiki/Mahavira) [Nirvana](https://en.wikipedia.org/wiki/Nirvana) or [Moksha](https://en.wikipedia.org/wiki/Moksha). Note the crescent shaped [Siddhashila](https://en.wikipedia.org/wiki/Siddhashila) (a place where all [Siddhas](https://en.wikipedia.org/wiki/Siddha) reside after Nirvana). Folio 53r from [Kalpa Sūtra](https://en.wikipedia.org/wiki/Kalpa_S%C5%ABtra) series, loose leaf manuscript, [Patan, Gujarat](https://en.wikipedia.org/wiki/Patan,_Gujarat), ca. 1472, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nirvanachess 1.0 Release](http://www.talkchess.com/forum/viewtopic.php?t=47750) by [Thomas Kolarik](Thomas_Kolarik "Thomas Kolarik"), [CCC](CCC "CCC"), April 10, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Nirvanachess](http://nirvanachess.blogspot.com/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nirvanachess 2.0 Release](http://www.talkchess.com/forum/viewtopic.php?t=54671) by [Thomas Kolarik](Thomas_Kolarik "Thomas Kolarik"), [CCC](CCC "CCC"), December 17, 2014
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Nirvanachess: Nirvanachess 2.1 Release](http://nirvanachess.blogspot.de/2015/05/nirvanachess-21-release.html), May 04, 2015
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Nirvanachess 2.1 Release](http://www.talkchess.com/forum/viewtopic.php?t=56239) by [Thomas Kolarik](Thomas_Kolarik "Thomas Kolarik"), [CCC](CCC "CCC"), May 05, 2015
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Nirvanachess 2.4 has been released](http://www.talkchess.com/forum/viewtopic.php?t=64904) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), August 15, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mahavira's](https://en.wikipedia.org/wiki/Mahavira) [Nirvana](https://en.wikipedia.org/wiki/Nirvana) or [Moksha](https://en.wikipedia.org/wiki/Moksha). Note the crescent shaped [Siddhashila](https://en.wikipedia.org/wiki/Siddhashila) (a place where all [Siddhas](https://en.wikipedia.org/wiki/Siddha) reside after Nirvana). Folio 53r from [Kalpa Sūtra](https://en.wikipedia.org/wiki/Kalpa_S%C5%ABtra) series, loose leaf manuscript, [Patan, Gujarat](https://en.wikipedia.org/wiki/Patan,_Gujarat), ca. 1472, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nirvanachess 1.0 Release](http://www.talkchess.com/forum/viewtopic.php?t=47750) by [Thomas Kolarik](Thomas_Kolarik "Thomas Kolarik"), [CCC](CCC "CCC"), April 10, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Nirvanachess](http://nirvanachess.blogspot.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nirvanachess 2.0 Release](http://www.talkchess.com/forum/viewtopic.php?t=54671) by [Thomas Kolarik](Thomas_Kolarik "Thomas Kolarik"), [CCC](CCC "CCC"), December 17, 2014
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Nirvanachess: Nirvanachess 2.1 Release](http://nirvanachess.blogspot.de/2015/05/nirvanachess-21-release.html), May 04, 2015
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Nirvanachess 2.1 Release](http://www.talkchess.com/forum/viewtopic.php?t=56239) by [Thomas Kolarik](Thomas_Kolarik "Thomas Kolarik"), [CCC](CCC "CCC"), May 05, 2015
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Nirvanachess 2.4 has been released](http://www.talkchess.com/forum/viewtopic.php?t=64904) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), August 15, 2017
 
 **[Up one level](Engines "Engines")**
 

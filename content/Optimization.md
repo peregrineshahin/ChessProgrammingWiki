@@ -73,7 +73,7 @@ Program Optimization is a necessary part of a decent chess program. It comes in 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Donald Knuth](Donald_Knuth "Donald Knuth") (**1974**).*Structured Programming with go to Statements*. [ACM Computing Surveys](ACM#Surveys "ACM"), Vol. 6, No. 4, [pdf](http://cs.sjsu.edu/~mak/CS185C/KnuthStructuredProgrammingGoTo.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Donald Knuth](Donald_Knuth "Donald Knuth") (**1974**).*Structured Programming with go to Statements*. [ACM Computing Surveys](ACM#Surveys "ACM"), Vol. 6, No. 4, [pdf](http://cs.sjsu.edu/~mak/CS185C/KnuthStructuredProgrammingGoTo.pdf)
 
 **[Up one Level](Programming "Programming")**
 

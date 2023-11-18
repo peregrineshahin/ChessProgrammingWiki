@@ -32,7 +32,7 @@ a [chess strategy](Strategy "Strategy") to [control](Square_Control "Square Cont
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - [Squares with Concentric Circles](https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1913_-_Color_Study,_Squares_with_Concentric_Circles.jpg), 1913, [Stadtische Galerie in Lenbach](https://en.wikipedia.org/wiki/Lenbachhaus), [Munich](https://en.wikipedia.org/wiki/Munich), Germany, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - [Squares with Concentric Circles](https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1913_-_Color_Study,_Squares_with_Concentric_Circles.jpg), 1913, [Stadtische Galerie in Lenbach](https://en.wikipedia.org/wiki/Lenbachhaus), [Munich](https://en.wikipedia.org/wiki/Munich), Germany, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one level](Evaluation "Evaluation")**
 

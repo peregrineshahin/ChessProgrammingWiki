@@ -115,10 +115,10 @@ The Acorn Archimedes was development platform for many [ARM2](ARM2 "ARM2") based
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Acorn Archimedes. Photograph taken and edited by Philcrbk, [Wikimedia Commons](https://de.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [RISC OS Open: Raspberry Pi](https://www.riscosopen.org/content/downloads/raspberry-pi)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Acorn Archimedes from Wikipedia](https://en.wikipedia.org/wiki/Acorn_Archimedes)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chris's Acorns: Acorn Manuals](http://chrisacorns.computinghistory.org.uk/docs/Acorn/Manuals/Manuals.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Acorn Archimedes. Photograph taken and edited by Philcrbk, [Wikimedia Commons](https://de.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [RISC OS Open: Raspberry Pi](https://www.riscosopen.org/content/downloads/raspberry-pi)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Acorn Archimedes from Wikipedia](https://en.wikipedia.org/wiki/Acorn_Archimedes)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chris's Acorns: Acorn Manuals](http://chrisacorns.computinghistory.org.uk/docs/Acorn/Manuals/Manuals.html)
 
 **[Up one Level](Hardware "Hardware")**
 

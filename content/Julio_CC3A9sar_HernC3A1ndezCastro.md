@@ -49,10 +49,10 @@ and also likes the game of [Go](Go "Go"). Along with co-author [David J. Barnes]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Julio Hernandez-Castro - School of Computing - University of Kent](https://www.kent.ac.uk/computing/people/3110/hernandez-castro-julio)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hernandez Castro, Julio Cesar FIDE Chess Profile](https://ratings.fide.com/profile/2290820)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David J. Barnes](David_J._Barnes "David J. Barnes"), Julio Hernández-Castro (**2015**). *[On the limits of engine analysis for cheating detection in chess](https://www.sciencedirect.com/science/article/pii/S0167404814001485)*. [Computers & Security](https://www.journals.elsevier.com/computers-and-security/), Vol. 48
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Julio César Hernández Castro](https://dblp.org/pid/45/4009.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Julio Hernandez-Castro - School of Computing - University of Kent](https://www.kent.ac.uk/computing/people/3110/hernandez-castro-julio)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hernandez Castro, Julio Cesar FIDE Chess Profile](https://ratings.fide.com/profile/2290820)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David J. Barnes](David_J._Barnes "David J. Barnes"), Julio Hernández-Castro (**2015**). *[On the limits of engine analysis for cheating detection in chess](https://www.sciencedirect.com/science/article/pii/S0167404814001485)*. [Computers & Security](https://www.journals.elsevier.com/computers-and-security/), Vol. 48
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Julio César Hernández Castro](https://dblp.org/pid/45/4009.html)
 
 **[Up one level](People "People")**
 

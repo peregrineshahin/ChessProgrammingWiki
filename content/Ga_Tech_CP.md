@@ -41,8 +41,8 @@ Making A Machine "Think" <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1975**). *Computer Chess*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), New York, N.Y. Chapter IX. The Fourth United States Computer Chess Championship
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Making A Machine "Think"](https://news.google.com/newspapers?nid=1241&dat=19731228&id=-W9TAAAAIBAJ&sjid=64UDAAAAIBAJ&pg=3200,6816037), [Daily News](https://en.wikipedia.org/wiki/Daily_News_%28Kingsport%29) - December 28, 1973, [Google News Archive](https://en.wikipedia.org/wiki/Google_News_Archive)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1975**). *Computer Chess*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), New York, N.Y. Chapter IX. The Fourth United States Computer Chess Championship
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Making A Machine "Think"](https://news.google.com/newspapers?nid=1241&dat=19731228&id=-W9TAAAAIBAJ&sjid=64UDAAAAIBAJ&pg=3200,6816037), [Daily News](https://en.wikipedia.org/wiki/Daily_News_%28Kingsport%29) - December 28, 1973, [Google News Archive](https://en.wikipedia.org/wiki/Google_News_Archive)
 
 **[Up one Level](Engines "Engines")**
 

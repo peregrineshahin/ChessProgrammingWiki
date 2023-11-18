@@ -60,10 +60,10 @@ His research interests include [computational biology](https://en.wikipedia.org/
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Steven Skiena from Wikipedia](https://en.wikipedia.org/wiki/Steven_Skiena)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Steven Skiena (**1986**). *An Overview of Machine Learning in Chess.* [ICCA Journal, Vol. 9, No. 1](ICGA_Journal#9_1 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Steven Skiena](https://dblp.uni-trier.de/pers/hd/s/Skiena:Steven)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Steven Skiena from Wikipedia](https://en.wikipedia.org/wiki/Steven_Skiena)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Steven Skiena (**1986**). *An Overview of Machine Learning in Chess.* [ICCA Journal, Vol. 9, No. 1](ICGA_Journal#9_1 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Steven Skiena](https://dblp.uni-trier.de/pers/hd/s/Skiena:Steven)
 
 **[Up one level](People "People")**
 

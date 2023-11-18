@@ -41,11 +41,11 @@ a Russian physicist and since 1968 leading researcher at [Kurchatov Institute](h
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [V. V. Vikhrev | PhD | Kurchatov Institute, Moscow | Department of Synchrotron and Neutron Radiation | ResearchGate](https://www.researchgate.net/profile/V_Vikhrev)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [V. V. Vikhrev | PhD | Kurchatov Institute, Moscow | Department of Synchrotron and Neutron Radiation | ResearchGate](https://www.researchgate.net/profile/V_Vikhrev)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> <http://adamant1.fromru.com/centaur.html> Кентавр (Russian, as of October 2018 no longer available)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ChessPro online | Шахматный форум | Новости мира движков](https://chesspro.ru/guestnew/looknullmessage/?themeid=54&id=31&page=10#54-31-4381) (Russian)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Z-pinch from Wikipedia](https://en.wikipedia.org/wiki/Z-pinch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [V. V. Vikhrev | PhD | Kurchatov Institute, Moscow | Department of Synchrotron and Neutron Radiation | ResearchGate](https://www.researchgate.net/profile/V_Vikhrev)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [V. V. Vikhrev | PhD | Kurchatov Institute, Moscow | Department of Synchrotron and Neutron Radiation | ResearchGate](https://www.researchgate.net/profile/V_Vikhrev)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> <http://adamant1.fromru.com/centaur.html> Кентавр (Russian, as of October 2018 no longer available)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ChessPro online | Шахматный форум | Новости мира движков](https://chesspro.ru/guestnew/looknullmessage/?themeid=54&id=31&page=10#54-31-4381) (Russian)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Z-pinch from Wikipedia](https://en.wikipedia.org/wiki/Z-pinch)
 
 **[Up one level](People "People")**
 

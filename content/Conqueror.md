@@ -73,9 +73,9 @@ The following game versus [Pulsar](Pulsar "Pulsar") represents the current stren
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Conqueror](<https://en.wikipedia.org/wiki/The_Conqueror_(1956_film)>) theatrical release poster, [John Wayne](https://en.wikipedia.org/wiki/John_Wayne) was posthumously named a "winner" of a [Golden Turkey Award](https://en.wikipedia.org/wiki/The_Golden_Turkey_Awards) for his performance in the film, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Conqueror/README.md at master · pandeaditya/Conqueror · GitHub](https://github.com/pandeaditya/Conqueror/blob/master/README.md)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chessmaster 11 Settings](Chessmaster#CM11Settings "Chessmaster") by [Graham Banks](Graham_Banks "Graham Banks")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Conqueror](<https://en.wikipedia.org/wiki/The_Conqueror_(1956_film)>) theatrical release poster, [John Wayne](https://en.wikipedia.org/wiki/John_Wayne) was posthumously named a "winner" of a [Golden Turkey Award](https://en.wikipedia.org/wiki/The_Golden_Turkey_Awards) for his performance in the film, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Conqueror/README.md at master · pandeaditya/Conqueror · GitHub](https://github.com/pandeaditya/Conqueror/blob/master/README.md)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chessmaster 11 Settings](Chessmaster#CM11Settings "Chessmaster") by [Graham Banks](Graham_Banks "Graham Banks")
 
 **[Up one level](Engines "Engines")**
 

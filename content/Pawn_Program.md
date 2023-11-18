@@ -40,8 +40,8 @@ It features a [transposition table](Transposition_Table "Transposition Table"), 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pawn - Freeware Chess Program - Download](https://web.archive.org/web/20120304222454/http://www.pawn.sitesled.com/html/download.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pawn - Freeware Chess Program - History](https://web.archive.org/web/20120304222811/http://www.pawn.sitesled.com/html/history.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pawn - Freeware Chess Program - Download](https://web.archive.org/web/20120304222454/http://www.pawn.sitesled.com/html/download.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pawn - Freeware Chess Program - History](https://web.archive.org/web/20120304222811/http://www.pawn.sitesled.com/html/history.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](Engines "Engines")**
 

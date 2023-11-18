@@ -35,11 +35,11 @@ an American electrical engineer and computer chess programmer. He started chess 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John Stanback's Home Page](http://john.stanback.net/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [v01i023: chess - C source for chess](https://groups.google.com/d/msg/comp.sources.games/zs_1mrpdseE/YL2yGrzoXrEJ) by John Stanback, [comp.sources.games](Computer_Chess_Forums "Computer Chess Forums"), May 21, 1987
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [How Zarkov Plays Chess](http://john.stanback.net/zarkov/zarkov_methods.html) by John Stanback
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Wasp 1.01 x64 by John Stanback released ...](http://www.talkchess.com/forum/viewtopic.php?t=60550) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), June 22, 2016
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Frank's Chess Page, Wasp by John Stanback](http://www.amateurschach.de/main/_wasp.htm), June 22, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John Stanback's Home Page](http://john.stanback.net/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [v01i023: chess - C source for chess](https://groups.google.com/d/msg/comp.sources.games/zs_1mrpdseE/YL2yGrzoXrEJ) by John Stanback, [comp.sources.games](Computer_Chess_Forums "Computer Chess Forums"), May 21, 1987
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [How Zarkov Plays Chess](http://john.stanback.net/zarkov/zarkov_methods.html) by John Stanback
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Wasp 1.01 x64 by John Stanback released ...](http://www.talkchess.com/forum/viewtopic.php?t=60550) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), June 22, 2016
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Frank's Chess Page, Wasp by John Stanback](http://www.amateurschach.de/main/_wasp.htm), June 22, 2016
 
 **[Up one level](People "People")**
 

@@ -36,8 +36,8 @@ Alejandro Dubrovsky is author of the [open source chess engine](Category:Open_So
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alejandro Dubrovsky - LinkedIn](https://www.linkedin.com/in/alejandro-dubrovsky-90b9b833/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Small Potato Homepage](http://alito.github.io/smallpotato/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alejandro Dubrovsky - LinkedIn](https://www.linkedin.com/in/alejandro-dubrovsky-90b9b833/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Small Potato Homepage](http://alito.github.io/smallpotato/)
 
 **[Up one level](People "People")**
 

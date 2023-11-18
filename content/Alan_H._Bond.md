@@ -54,14 +54,14 @@ He was tutor and advisor of [John J. Scott](John_J._Scott "John J. Scott"), an e
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alan Bond's home page](http://www.exso.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alan Bond's home page](http://www.exso.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NSF bio](http://www.exso.com/bio.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alan Bond. Curriculum Vitae](http://www.exso.com/cvu.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *[MASTER at IFIPS](http://www.chilton-computing.org.uk/acl/applications/cocoa/p008.htm)*. Excerpt from: The Machine Plays Chess? from [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"), hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Alan Bond's publications page](http://www.exso.com/pubs.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Alan H. Bond](https://dblp.uni-trier.de/pers/hd/b/Bond:Alan_H=.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Neocortex from Wikipedia](https://en.wikipedia.org/wiki/Neocortex)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alan Bond's home page](http://www.exso.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alan Bond's home page](http://www.exso.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NSF bio](http://www.exso.com/bio.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alan Bond. Curriculum Vitae](http://www.exso.com/cvu.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *[MASTER at IFIPS](http://www.chilton-computing.org.uk/acl/applications/cocoa/p008.htm)*. Excerpt from: The Machine Plays Chess? from [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"), hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Alan Bond's publications page](http://www.exso.com/pubs.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Alan H. Bond](https://dblp.uni-trier.de/pers/hd/b/Bond:Alan_H=.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Neocortex from Wikipedia](https://en.wikipedia.org/wiki/Neocortex)
 
 **[Up one level](People "People")**
 

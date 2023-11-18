@@ -35,10 +35,10 @@ His research interests include [grid computing](https://en.wikipedia.org/wiki/Gr
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yen-Chi Chen](Yen-Chi_Chen "Yen-Chi Chen"), Chih-Hung Chen, [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") (**2018**). *[Exact-Win Strategy for Overcoming AlphaZero](https://dl.acm.org/citation.cfm?id=3293486)*. [CIIS 2018](https://dl.acm.org/citation.cfm?id=3293475)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), Chih-Hung Chen, [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen") (**2014**). *TCGA 2014 Computer Game Tournament*. [ICGA Journal, Vol. 37, No. 4](ICGA_Journal#37_4 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Chih-Hung Chen, [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Yen-Chi Chen](Yen-Chi_Chen "Yen-Chi Chen") (**2017**). *[An algorithmic design and implementation of outer-open gomoku](https://ieeexplore.ieee.org/document/8075180)*. [ICCCS 2017](https://ieeexplore.ieee.org/xpl/conhome/8055814/proceeding)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chih-Hung Chen](https://www.researchgate.net/profile/Chih_Hung_Chen4) from [ResearchGate](https://en.wikipedia.org/wiki/ResearchGate)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yen-Chi Chen](Yen-Chi_Chen "Yen-Chi Chen"), Chih-Hung Chen, [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") (**2018**). *[Exact-Win Strategy for Overcoming AlphaZero](https://dl.acm.org/citation.cfm?id=3293486)*. [CIIS 2018](https://dl.acm.org/citation.cfm?id=3293475)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), Chih-Hung Chen, [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen") (**2014**). *TCGA 2014 Computer Game Tournament*. [ICGA Journal, Vol. 37, No. 4](ICGA_Journal#37_4 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Chih-Hung Chen, [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Yen-Chi Chen](Yen-Chi_Chen "Yen-Chi Chen") (**2017**). *[An algorithmic design and implementation of outer-open gomoku](https://ieeexplore.ieee.org/document/8075180)*. [ICCCS 2017](https://ieeexplore.ieee.org/xpl/conhome/8055814/proceeding)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chih-Hung Chen](https://www.researchgate.net/profile/Chih_Hung_Chen4) from [ResearchGate](https://en.wikipedia.org/wiki/ResearchGate)
 
 **[Up one level](People "People")**
 

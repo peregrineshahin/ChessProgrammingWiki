@@ -10,7 +10,7 @@ This category lists [Dedicated Chess Computers](Dedicated_Chess_Computers "Dedic
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mephisto X computer chess board at the 20th ACM North American Computer Chess Championship in Reno, Nevada](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc190001), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mephisto X computer chess board at the 20th ACM North American Computer Chess Championship in Reno, Nevada](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc190001), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 ## Subcategories
 

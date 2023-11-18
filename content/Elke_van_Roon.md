@@ -19,11 +19,11 @@ Celebrating [DOCCC 2005](DOCCC_2005 "DOCCC 2005"): [Jaime Benito](Jaime_Benito_d
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [25th Open Dutch Computer-Chess Championship 2005 - Photo Gallery](http://old.csvn.nl/gallery23.html), [DOCCC 2005](DOCCC_2005 "DOCCC 2005")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Interview met Elke van Roon op Boschtion Radio « Schaakvereniging HMC Den Bosch](http://www.hmcdenbosch.nl/2014/01/interview-met-elke-van-roon-op-boschtion-radio/), January 18, 2014
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer tournament in Leiden](http://www.chessbase.com/newsdetail.asp?newsid=951), [ChessBase News](ChessBase "ChessBase"), May 13, 2003
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CSVN Supplement Site](http://www.csvnsupplementsite.nl/Computerschaakblad.html) (Dutch)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [25th Open Dutch Computer-Chess Championship 2005 - Photo Gallery](http://old.csvn.nl/gallery23.html), [DOCCC 2005](DOCCC_2005 "DOCCC 2005")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [25th Open Dutch Computer-Chess Championship 2005 - Photo Gallery](http://old.csvn.nl/gallery23.html), [DOCCC 2005](DOCCC_2005 "DOCCC 2005")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Interview met Elke van Roon op Boschtion Radio « Schaakvereniging HMC Den Bosch](http://www.hmcdenbosch.nl/2014/01/interview-met-elke-van-roon-op-boschtion-radio/), January 18, 2014
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer tournament in Leiden](http://www.chessbase.com/newsdetail.asp?newsid=951), [ChessBase News](ChessBase "ChessBase"), May 13, 2003
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CSVN Supplement Site](http://www.csvnsupplementsite.nl/Computerschaakblad.html) (Dutch)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [25th Open Dutch Computer-Chess Championship 2005 - Photo Gallery](http://old.csvn.nl/gallery23.html), [DOCCC 2005](DOCCC_2005 "DOCCC 2005")
 
 **[Up one level](People "People")**
 

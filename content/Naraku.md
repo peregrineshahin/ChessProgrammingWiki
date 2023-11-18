@@ -95,12 +95,12 @@ b3 45.Kc3 b2 46.Kc2 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A [mural](https://en.wikipedia.org/wiki/Mural) from a [temple](https://en.wikipedia.org/wiki/Temple) in northern [Thailand](https://en.wikipedia.org/wiki/Thailand) depicting naked beings climbing thorn-covered trees, pecked by birds from above, and attacked from below by hell guards armed with spears. There are icy mountains in the background, and [Phra Malaya](https://en.wikipedia.org/wiki/Phra_Malai) watches from above. [Photograph](https://commons.wikimedia.org/wiki/File:Buddhist-hell-Thailand-1.jpg) taken 1998 by ntennis, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Naraka (Buddhism) from Wikipedia](https://en.wikipedia.org/wiki/Naraka_(Buddhism))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Miro's blog » Naraku Chess Engine](http://www.miroku79.info/blog/?page_id=88) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), November 27, 2013)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Naraku Chess 1.12](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=35909&start=26) by [Christopher Conkie](index.php?title=Christopher_Conkie&action=edit&redlink=1 "Christopher Conkie (page does not exist)"), [CCC](CCC "CCC"), March 25, 2011
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Miro's blog » Stopped working on Naraku](https://web.archive.org/web/20110923045531/http://www.miroku79.info/blog/?p=218) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), September 23, 2011)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [List of Inuyasha characters from Wikipedia](https://en.wikipedia.org/wiki/List_of_Inuyasha_characters)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Philou 3.5 vs Naraku 1.3 - TCEC Season 2, Division F](https://tcec-chess.com/#div=f&game=21&season=2)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A [mural](https://en.wikipedia.org/wiki/Mural) from a [temple](https://en.wikipedia.org/wiki/Temple) in northern [Thailand](https://en.wikipedia.org/wiki/Thailand) depicting naked beings climbing thorn-covered trees, pecked by birds from above, and attacked from below by hell guards armed with spears. There are icy mountains in the background, and [Phra Malaya](https://en.wikipedia.org/wiki/Phra_Malai) watches from above. [Photograph](https://commons.wikimedia.org/wiki/File:Buddhist-hell-Thailand-1.jpg) taken 1998 by ntennis, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Naraka (Buddhism) from Wikipedia](https://en.wikipedia.org/wiki/Naraka_(Buddhism))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Miro's blog » Naraku Chess Engine](http://www.miroku79.info/blog/?page_id=88) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), November 27, 2013)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Naraku Chess 1.12](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=35909&start=26) by [Christopher Conkie](index.php?title=Christopher_Conkie&action=edit&redlink=1 "Christopher Conkie (page does not exist)"), [CCC](CCC "CCC"), March 25, 2011
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Miro's blog » Stopped working on Naraku](https://web.archive.org/web/20110923045531/http://www.miroku79.info/blog/?p=218) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), September 23, 2011)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [List of Inuyasha characters from Wikipedia](https://en.wikipedia.org/wiki/List_of_Inuyasha_characters)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Philou 3.5 vs Naraku 1.3 - TCEC Season 2, Division F](https://tcec-chess.com/#div=f&game=21&season=2)
 
 **[Up one Level](Engines "Engines")**
 

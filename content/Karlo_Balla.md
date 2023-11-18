@@ -59,13 +59,13 @@ As a chess player <a id="cite-note-2" href="#cite-ref-2">[2]</a>, he is further 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Karlo Bala, asistent – Odsek za medijske studije](http://odsek.medijskestudije.org/arhiva/karlo-bala-mast-strucni-saradnik.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bala, Karlo FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=924890)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [TT behavior](http://www.talkchess.com/forum/viewtopic.php?t=39481) by Karlo Balla, [CCC](CCC "CCC"), June 25, 2011
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Karlo Bala](https://dblp1.uni-trier.de/pers/hd/b/Bala:Karlo)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ronald L. Rivest](Ronald_L._Rivest "Ronald L. Rivest") (**1987**). *Game Tree Searching by Min/Max Approximation*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)), Vol. 34, 1, [pdf 1995](http://people.csail.mit.edu/rivest/Rivest-GameTreeSearchingByMinMaxApproximation.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Eric B. Baum](Eric_B._Baum "Eric B. Baum"), [Warren D. Smith](Warren_D._Smith "Warren D. Smith") (**1995**). *[Best Play for Imperfect Players and Game Tree Search](https://www.semanticscholar.org/paper/Best-Play-for-Imperfect-Players-and-Game-Tree-part-Baum-Warren/5838432c92c8905c7066962400c55ddc8803f11a)*. Part I - theory, with pseudocode appendix by [Charles Garrett](index.php?title=Charles_Garrett&action=edit&redlink=1 "Charles Garrett (page does not exist)")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Yan Radovilsky](Yan_Radovilsky "Yan Radovilsky"), [Solomon Eyal Shimony](Solomon_Eyal_Shimony "Solomon Eyal Shimony") (**2004**). *Generalized Model for Rational Game Tree Search*. [pdf](https://www.cs.bgu.ac.il/~yanr/Publications/smc04.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Karlo Bala, asistent – Odsek za medijske studije](http://odsek.medijskestudije.org/arhiva/karlo-bala-mast-strucni-saradnik.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bala, Karlo FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=924890)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [TT behavior](http://www.talkchess.com/forum/viewtopic.php?t=39481) by Karlo Balla, [CCC](CCC "CCC"), June 25, 2011
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Karlo Bala](https://dblp1.uni-trier.de/pers/hd/b/Bala:Karlo)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ronald L. Rivest](Ronald_L._Rivest "Ronald L. Rivest") (**1987**). *Game Tree Searching by Min/Max Approximation*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)), Vol. 34, 1, [pdf 1995](http://people.csail.mit.edu/rivest/Rivest-GameTreeSearchingByMinMaxApproximation.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Eric B. Baum](Eric_B._Baum "Eric B. Baum"), [Warren D. Smith](Warren_D._Smith "Warren D. Smith") (**1995**). *[Best Play for Imperfect Players and Game Tree Search](https://www.semanticscholar.org/paper/Best-Play-for-Imperfect-Players-and-Game-Tree-part-Baum-Warren/5838432c92c8905c7066962400c55ddc8803f11a)*. Part I - theory, with pseudocode appendix by [Charles Garrett](index.php?title=Charles_Garrett&action=edit&redlink=1 "Charles Garrett (page does not exist)")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Yan Radovilsky](Yan_Radovilsky "Yan Radovilsky"), [Solomon Eyal Shimony](Solomon_Eyal_Shimony "Solomon Eyal Shimony") (**2004**). *Generalized Model for Rational Game Tree Search*. [pdf](https://www.cs.bgu.ac.il/~yanr/Publications/smc04.pdf)
 
 **[Up one level](People "People")**
 

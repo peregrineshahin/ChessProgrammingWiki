@@ -54,10 +54,10 @@ Kc6 44.Rd2 Rxd2 45.Kxd2 Kb7 46.Kc3 Kc7 47.Kd2 Kc6 48.Kc2 Kd6 49.Kd2 Kc7 50.Kc3 K
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A [Jack o' Lantern](https://en.wikipedia.org/wiki/Jack-o%27-lantern) one of the symbols of [Halloween](https://en.wikipedia.org/wiki/Halloween)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1986**). *The 6th World Microcomputer-Chess Championship*. [ICCA Journal, Vol. 9, No. 4](ICGA_Journal#9_4 "ICGA Journal"), [pdf](images/f/fe/6WMCCC-Report.pdf "6WMCCC-Report.pdf")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [6th World Microcomputer Chess Championship - Dallas 1986 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=15)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dallas 1986 - Chess - Round 5 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=15&round=5&id=3)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A [Jack o' Lantern](https://en.wikipedia.org/wiki/Jack-o%27-lantern) one of the symbols of [Halloween](https://en.wikipedia.org/wiki/Halloween)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1986**). *The 6th World Microcomputer-Chess Championship*. [ICCA Journal, Vol. 9, No. 4](ICGA_Journal#9_4 "ICGA Journal"), [pdf](images/f/fe/6WMCCC-Report.pdf "6WMCCC-Report.pdf")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [6th World Microcomputer Chess Championship - Dallas 1986 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=15)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dallas 1986 - Chess - Round 5 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=15&round=5&id=3)
 
 **[Up one Level](Engines "Engines")**
 

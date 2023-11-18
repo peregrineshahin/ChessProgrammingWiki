@@ -149,13 +149,13 @@ Ke4 97.Kg2 e2 98.Kf2 Kd3 99.c4 Kd2 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Welcome to the KnightCap home page](http://samba.anu.edu.au/KnightCap/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell") (**1997**). *KnightCap — a parallel chess program on the AP1000+*.
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [Lex Weaver](Lex_Weaver "Lex Weaver") (**1997**) *Knightcap: A chess program that learns by combining td(λ) with minimax search*. 15th International Conference on Machine Learning
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Bit Board Bonkers?? - other alternatives](https://groups.google.com/group/rec.games.chess.computer/msg/4d6c328e8e8e0cd4) by [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 9, 1997
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Going commercial, maybe](https://groups.google.com/group/rec.games.chess.computer/msg/ded7e4e4304d8d4e) by [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 9, 1997
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [Lex Weaver](Lex_Weaver "Lex Weaver") (**1997**) *Knightcap: A chess program that learns by combining td(λ) with minimax search*. 15th International Conference on Machine Learning
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: KnightCap source code](http://www.talkchess.com/forum/viewtopic.php?t=59304&start=1) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), February 19, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Welcome to the KnightCap home page](http://samba.anu.edu.au/KnightCap/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell") (**1997**). *KnightCap — a parallel chess program on the AP1000+*.
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [Lex Weaver](Lex_Weaver "Lex Weaver") (**1997**) *Knightcap: A chess program that learns by combining td(λ) with minimax search*. 15th International Conference on Machine Learning
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Bit Board Bonkers?? - other alternatives](https://groups.google.com/group/rec.games.chess.computer/msg/4d6c328e8e8e0cd4) by [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 9, 1997
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Going commercial, maybe](https://groups.google.com/group/rec.games.chess.computer/msg/ded7e4e4304d8d4e) by [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 9, 1997
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [Lex Weaver](Lex_Weaver "Lex Weaver") (**1997**) *Knightcap: A chess program that learns by combining td(λ) with minimax search*. 15th International Conference on Machine Learning
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: KnightCap source code](http://www.talkchess.com/forum/viewtopic.php?t=59304&start=1) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), February 19, 2016
 
 **[Up one level](Engines "Engines")**
 

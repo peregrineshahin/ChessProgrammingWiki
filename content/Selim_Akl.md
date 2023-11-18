@@ -72,17 +72,17 @@ a Canadian computer scientist and professor at [Queen's University](https://en.w
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Selim Akl's Official Home Page](http://research.cs.queensu.ca/home/akl/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Parallel and Unconventional Computation Group](http://research.cs.queensu.ca/Parallel//index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Monty Newborn - Ph. D. Students: Current and Former](http://www.cs.mcgill.ca/%7Enewborn/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Selim Akl and [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1977**). *The Principal Continuation and the Killer Heuristic*. 1977 ACM Annual Conference Proceedings, pp. 466-473. ACM, Seattle, WA.
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Quantum Chess](http://research.cs.queensu.ca/Parallel/QuantumChess/QuantumChess.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Quantum physics adds twist to chess](http://www.cbc.ca/technology/story/2010/09/02/quantum-chess-akl.html), [CBC News - Technology & Science](http://www.cbc.ca/technology/), September 6, 2010
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Selim Akl - Publications](http://research.cs.queensu.ca/Parallel/publications.html#Publications)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Selim Akl - Technical Reports](http://research.cs.queensu.ca/Parallel//technical.html#Technical)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [DBLP: Selim G. Akl](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Akl:Selim_G=.html)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Bitonic sorter from Wikipedia](https://en.wikipedia.org/wiki/Bitonic_sorter)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Selim Akl's Official Home Page](http://research.cs.queensu.ca/home/akl/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Parallel and Unconventional Computation Group](http://research.cs.queensu.ca/Parallel//index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Monty Newborn - Ph. D. Students: Current and Former](http://www.cs.mcgill.ca/%7Enewborn/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Selim Akl and [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1977**). *The Principal Continuation and the Killer Heuristic*. 1977 ACM Annual Conference Proceedings, pp. 466-473. ACM, Seattle, WA.
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Quantum Chess](http://research.cs.queensu.ca/Parallel/QuantumChess/QuantumChess.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Quantum physics adds twist to chess](http://www.cbc.ca/technology/story/2010/09/02/quantum-chess-akl.html), [CBC News - Technology & Science](http://www.cbc.ca/technology/), September 6, 2010
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Selim Akl - Publications](http://research.cs.queensu.ca/Parallel/publications.html#Publications)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Selim Akl - Technical Reports](http://research.cs.queensu.ca/Parallel//technical.html#Technical)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [DBLP: Selim G. Akl](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Akl:Selim_G=.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Bitonic sorter from Wikipedia](https://en.wikipedia.org/wiki/Bitonic_sorter)
 
 **[Up one level](People "People")**
 

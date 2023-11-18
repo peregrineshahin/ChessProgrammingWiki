@@ -136,12 +136,12 @@ Bd5 64.Kg3 Rg2+ 65.Kf4 Bc6 66.Bc7 1/2-1/2
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image of Leila Davis](https://comicvine.gamespot.com/images/1300-498372/) from [Comic Vine](https://comicvine.gamespot.com/) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [LEILA wins the FSI Italian Engine Contest](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=33236) by [the famous gianluigi](Gianluigi_Masciulli "Gianluigi Masciulli"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 22, 2001
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [THE FIRST ITALIAN "HISTORIC" COMPUTER CHESS TOURNAMENT](http://www.oocities.org/gmasciulli/first.htm) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2′ Campionato Italiano « G 6](https://www.g-sei.org/2-campionato-italiano/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> From Leila's former [WBEC Ridderkerk](WBEC "WBEC") site, acknowledgements slightly edited
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Duong Thanh Nha | The Chess Federation of Canada - La Fédération Canadienne des Échecs](http://chess.ca/duong-thanh-nha)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image of Leila Davis](https://comicvine.gamespot.com/images/1300-498372/) from [Comic Vine](https://comicvine.gamespot.com/) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [LEILA wins the FSI Italian Engine Contest](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=33236) by [the famous gianluigi](Gianluigi_Masciulli "Gianluigi Masciulli"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 22, 2001
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [THE FIRST ITALIAN "HISTORIC" COMPUTER CHESS TOURNAMENT](http://www.oocities.org/gmasciulli/first.htm) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2′ Campionato Italiano « G 6](https://www.g-sei.org/2-campionato-italiano/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> From Leila's former [WBEC Ridderkerk](WBEC "WBEC") site, acknowledgements slightly edited
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Duong Thanh Nha | The Chess Federation of Canada - La Fédération Canadienne des Échecs](http://chess.ca/duong-thanh-nha)
 
 **[Up one Level](Engines "Engines")**
 

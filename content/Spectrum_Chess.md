@@ -34,9 +34,9 @@ Spectrum Chess participated at the [European MCC 1982](European_MCC_1982 "Europe
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Spectrum Voice Chess - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0005599)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spectrum Chess - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0004722)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Brendon Gore](https://magazinesfromthepast.fandom.com/wiki/Brendon_Gore) (**1982**). *Interview-One Degree In Artic*. [Your Computer](Your_Computer "Your Computer"), May 1982
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Spectrum Voice Chess - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0005599)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spectrum Chess - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0004722)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Brendon Gore](https://magazinesfromthepast.fandom.com/wiki/Brendon_Gore) (**1982**). *Interview-One Degree In Artic*. [Your Computer](Your_Computer "Your Computer"), May 1982
 
 **[Up one level](Engines "Engines")**
 

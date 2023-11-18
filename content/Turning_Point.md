@@ -38,9 +38,9 @@ According to [Ed Schröder](Ed_Schroder "Ed Schroder"), Turning Point searches m
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Turning Point [Olympic Marathon 1912](https://en.wikipedia.org/wiki/Athletics_at_the_1912_Summer_Olympics_%E2%80%93_Men%27s_marathon), [Sollentuna](https://en.wikipedia.org/wiki/Sollentuna_Municipality), [image](https://commons.wikimedia.org/wiki/File:Olympic_marathon_1912_turnpoint.JPG) by Johannes Scherman, March 21, 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Unsubstantiated claim in the Diep homepage](https://groups.google.com/g/rec.games.chess.computer/c/EecO487Gx18/m/qLYOs7ZY0VAJ) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 20, 1997
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bobby Fischer quote](https://www.azquotes.com/quote/615926)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Turning Point [Olympic Marathon 1912](https://en.wikipedia.org/wiki/Athletics_at_the_1912_Summer_Olympics_%E2%80%93_Men%27s_marathon), [Sollentuna](https://en.wikipedia.org/wiki/Sollentuna_Municipality), [image](https://commons.wikimedia.org/wiki/File:Olympic_marathon_1912_turnpoint.JPG) by Johannes Scherman, March 21, 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Unsubstantiated claim in the Diep homepage](https://groups.google.com/g/rec.games.chess.computer/c/EecO487Gx18/m/qLYOs7ZY0VAJ) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 20, 1997
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bobby Fischer quote](https://www.azquotes.com/quote/615926)
 
 **[Up one level](Engines "Engines")**
 

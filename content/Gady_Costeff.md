@@ -26,8 +26,8 @@ and [chess composer](Chess_Problems,_Compositions_and_Studies "Chess Problems, C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [www.arves.org - Costeff, Gady 1961](http://www.arves.org/arves/index.php/en/halloffame/152-costeff-gady-1961)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CQL Introduction](http://www.gadycosteff.com/cql/doc/introduction.html) by Gady Costeff
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [www.arves.org - Costeff, Gady 1961](http://www.arves.org/arves/index.php/en/halloffame/152-costeff-gady-1961)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CQL Introduction](http://www.gadycosteff.com/cql/doc/introduction.html) by Gady Costeff
 
 **[Up one level](People "People")**
 

@@ -33,12 +33,12 @@ and the **cartesian-gp-chess-engine**, an experiment involving evolving cartesia
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Advanced Robotics at University of Washington Team](https://aruw.org/ourteam)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Advanced Robotics at University of Washington Team](https://aruw.org/ourteam)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: New engine releases 2020](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=427) by Connor McMonigle, [CCC](CCC "CCC"), October 18, 2020
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - connormcmonigle/reference-neural-network](https://github.com/connormcmonigle/reference-neural-network)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - connormcmonigle/cartesian-gp-chess-engine: Experiment involving evolving cartesian genetic programs to evaluate chess positions](https://github.com/connormcmonigle/cartesian-gp-chess-engine)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gao Huang](index.php?title=Gao_Huang&action=edit&redlink=1 "Gao Huang (page does not exist)"), [Zhuang Liu](index.php?title=Zhuang_Liu&action=edit&redlink=1 "Zhuang Liu (page does not exist)"), [Laurens van der Maaten](index.php?title=Laurens_van_der_Maaten&action=edit&redlink=1 "Laurens van der Maaten (page does not exist)"), [Kilian Q. Weinberger](index.php?title=Kilian_Q._Weinberger&action=edit&redlink=1 "Kilian Q. Weinberger (page does not exist)") (**2016**). *Densely Connected Convolutional Networks*. [arXiv:1608.06993](https://arxiv.org/abs/1608.06993)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Advanced Robotics at University of Washington Team](https://aruw.org/ourteam)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Advanced Robotics at University of Washington Team](https://aruw.org/ourteam)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: New engine releases 2020](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=427) by Connor McMonigle, [CCC](CCC "CCC"), October 18, 2020
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - connormcmonigle/reference-neural-network](https://github.com/connormcmonigle/reference-neural-network)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - connormcmonigle/cartesian-gp-chess-engine: Experiment involving evolving cartesian genetic programs to evaluate chess positions](https://github.com/connormcmonigle/cartesian-gp-chess-engine)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gao Huang](index.php?title=Gao_Huang&action=edit&redlink=1 "Gao Huang (page does not exist)"), [Zhuang Liu](index.php?title=Zhuang_Liu&action=edit&redlink=1 "Zhuang Liu (page does not exist)"), [Laurens van der Maaten](index.php?title=Laurens_van_der_Maaten&action=edit&redlink=1 "Laurens van der Maaten (page does not exist)"), [Kilian Q. Weinberger](index.php?title=Kilian_Q._Weinberger&action=edit&redlink=1 "Kilian Q. Weinberger (page does not exist)") (**2016**). *Densely Connected Convolutional Networks*. [arXiv:1608.06993](https://arxiv.org/abs/1608.06993)
 
 **[Up one Level](People "People")**
 

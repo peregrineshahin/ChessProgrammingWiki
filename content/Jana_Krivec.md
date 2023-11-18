@@ -45,10 +45,10 @@ Previously, she was affiliated with the Artificial Intelligence Laboratory <a id
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jana Krivec](https://en.wikipedia.org/wiki/Jana_Krivec), Photo by [Andrej Jakobčič](https://commons.wikimedia.org/wiki/User:Andrejj), August 2009, [Category:Jana Krivec - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Jana_Krivec)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Department of Intelligent systems - People](https://dis.ijs.si/?page_id=7)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Artificial Intelligence Laboratory](https://fri.uni-lj.si/en/laboratory/lui)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Jana Krivec](https://dblp.uni-trier.de/pers/hd/k/Krivec:Jana)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jana Krivec](https://en.wikipedia.org/wiki/Jana_Krivec), Photo by [Andrej Jakobčič](https://commons.wikimedia.org/wiki/User:Andrejj), August 2009, [Category:Jana Krivec - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Jana_Krivec)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Department of Intelligent systems - People](https://dis.ijs.si/?page_id=7)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Artificial Intelligence Laboratory](https://fri.uni-lj.si/en/laboratory/lui)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Jana Krivec](https://dblp.uni-trier.de/pers/hd/k/Krivec:Jana)
 
 **[Up one level](People "People")**
 

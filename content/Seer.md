@@ -112,12 +112,12 @@ Due to [PEXT Bitboards](BMI2#PEXTBitboards "BMI2"), Seer requires [BMI2](BMI2 "B
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Detail](https://commons.wikimedia.org/wiki/File:GR_08-04-23_Olympia_Museum_Zeustempel_Ostgiebel2.JPG) of [Temple of Zeus, Olympia](https://en.wikipedia.org/wiki/Temple_of_Zeus,_Olympia), author [Monika Angela Arnold, Berlin](https://commons.wikimedia.org/wiki/Category:Fotos_by_Monika_Angela_Arnold,_Berlin), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - connormcmonigle/seer-nnue: UCI chess engine using NNUE for position evaluation](https://github.com/connormcmonigle/seer-nnue)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - DLTcollab/sse2neon: A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation](https://github.com/DLTcollab/sse2neon)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Seer 2.0.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77187&start=32) by Archimedes, [CCC](CCC "CCC"), August 06, 2021
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [seer-nnue/README.md at master · connormcmonigle/seer-nnue · GitHub](https://github.com/connormcmonigle/seer-nnue/blob/master/README.md)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gao Huang](index.php?title=Gao_Huang&action=edit&redlink=1 "Gao Huang (page does not exist)"), [Zhuang Liu](index.php?title=Zhuang_Liu&action=edit&redlink=1 "Zhuang Liu (page does not exist)"), [Laurens van der Maaten](index.php?title=Laurens_van_der_Maaten&action=edit&redlink=1 "Laurens van der Maaten (page does not exist)"), [Kilian Q. Weinberger](index.php?title=Kilian_Q._Weinberger&action=edit&redlink=1 "Kilian Q. Weinberger (page does not exist)") (**2016**). *Densely Connected Convolutional Networks*. [arXiv:1608.06993](https://arxiv.org/abs/1608.06993)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Detail](https://commons.wikimedia.org/wiki/File:GR_08-04-23_Olympia_Museum_Zeustempel_Ostgiebel2.JPG) of [Temple of Zeus, Olympia](https://en.wikipedia.org/wiki/Temple_of_Zeus,_Olympia), author [Monika Angela Arnold, Berlin](https://commons.wikimedia.org/wiki/Category:Fotos_by_Monika_Angela_Arnold,_Berlin), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - connormcmonigle/seer-nnue: UCI chess engine using NNUE for position evaluation](https://github.com/connormcmonigle/seer-nnue)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - DLTcollab/sse2neon: A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation](https://github.com/DLTcollab/sse2neon)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Seer 2.0.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77187&start=32) by Archimedes, [CCC](CCC "CCC"), August 06, 2021
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [seer-nnue/README.md at master · connormcmonigle/seer-nnue · GitHub](https://github.com/connormcmonigle/seer-nnue/blob/master/README.md)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gao Huang](index.php?title=Gao_Huang&action=edit&redlink=1 "Gao Huang (page does not exist)"), [Zhuang Liu](index.php?title=Zhuang_Liu&action=edit&redlink=1 "Zhuang Liu (page does not exist)"), [Laurens van der Maaten](index.php?title=Laurens_van_der_Maaten&action=edit&redlink=1 "Laurens van der Maaten (page does not exist)"), [Kilian Q. Weinberger](index.php?title=Kilian_Q._Weinberger&action=edit&redlink=1 "Kilian Q. Weinberger (page does not exist)") (**2016**). *Densely Connected Convolutional Networks*. [arXiv:1608.06993](https://arxiv.org/abs/1608.06993)
 
 **[Up one level](Engines "Engines")**
 

@@ -71,11 +71,11 @@ Bringer played the [BELCT 2001](BELCT_2001 "BELCT 2001") over the board, operate
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gustave Doré's](Category:Gustave_Dor%C3%A9 "Category:Gustave Doré") illustration for [John Milton's](https://en.wikipedia.org/wiki/John_Milton) [Paradise Lost](https://en.wikipedia.org/wiki/Paradise_Lost), Book III - The Light Bringer [Lucifer](https://en.wikipedia.org/wiki/Lucifer), 1866, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Free chessprogram "Bringer 1.3", fixed version ready for download](https://www.stmintz.com/ccc/index.php?id=54667) by [Gerrit Reubold](Gerrit_Reubold "Gerrit Reubold"), [CCC](CCC "CCC"), June 07, 1999
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dead Engine List](http://www.computer-chess.org/doku.php?id=computer_chess:wiki:lists:chess_engine_list#dead_engine_list) from [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home) by [Ron Murawski](Ron_Murawski "Ron Murawski")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: The Scalable Search Test / Results of "Der Bringer"](https://www.stmintz.com/ccc/index.php?id=115020) by [Gerrit Reubold](Gerrit_Reubold "Gerrit Reubold"), [CCC](CCC "CCC"), June 18, 2000
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Free Chess Software - Program](http://chess.kearman.com/html/software.htm) by [Jim Kearman](index.php?title=Jim_Kearman&action=edit&redlink=1 "Jim Kearman (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gustave Doré's](Category:Gustave_Dor%C3%A9 "Category:Gustave Doré") illustration for [John Milton's](https://en.wikipedia.org/wiki/John_Milton) [Paradise Lost](https://en.wikipedia.org/wiki/Paradise_Lost), Book III - The Light Bringer [Lucifer](https://en.wikipedia.org/wiki/Lucifer), 1866, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Free chessprogram "Bringer 1.3", fixed version ready for download](https://www.stmintz.com/ccc/index.php?id=54667) by [Gerrit Reubold](Gerrit_Reubold "Gerrit Reubold"), [CCC](CCC "CCC"), June 07, 1999
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dead Engine List](http://www.computer-chess.org/doku.php?id=computer_chess:wiki:lists:chess_engine_list#dead_engine_list) from [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home) by [Ron Murawski](Ron_Murawski "Ron Murawski")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: The Scalable Search Test / Results of "Der Bringer"](https://www.stmintz.com/ccc/index.php?id=115020) by [Gerrit Reubold](Gerrit_Reubold "Gerrit Reubold"), [CCC](CCC "CCC"), June 18, 2000
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Free Chess Software - Program](http://chess.kearman.com/html/software.htm) by [Jim Kearman](index.php?title=Jim_Kearman&action=edit&redlink=1 "Jim Kearman (page does not exist)")
 
 **[Up one Level](Engines "Engines")**
 

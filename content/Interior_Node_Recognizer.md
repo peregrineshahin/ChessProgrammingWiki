@@ -50,7 +50,7 @@ Implementation of this technique requires a [legality check](Legal_Move#Legality
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Picture gallery "Recognition and Success 1955 - 1972"](http://www.mcescher.com/Gallery/gallery-recogn.htm) from [The Official M.C. Escher Website](http://www.mcescher.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Picture gallery "Recognition and Success 1955 - 1972"](http://www.mcescher.com/Gallery/gallery-recogn.htm) from [The Official M.C. Escher Website](http://www.mcescher.com/)
 
 **[Up one Level](Knowledge "Knowledge")**
 

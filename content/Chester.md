@@ -91,10 +91,10 @@ Kxb5 82.Bxb2 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chester (1874-1888)](https://en.wikipedia.org/wiki/File:Chester_1874.jpg) was an [Australian Thoroughbred](https://en.wikipedia.org/wiki/Thoroughbred_racing_in_Australia) racehorse and champion sire, ca. 1878 by Turf Cavalcade, [Chester (horse) from Wikipedia](https://en.wikipedia.org/wiki/Chester_%28horse%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Nice tactical shot](https://www.stmintz.com/ccc/index.php?id=209565) by [Steve Timson](index.php?title=Steve_Timson&action=edit&redlink=1 "Steve Timson (page does not exist)"), [CCC](CCC "CCC"), January 24, 2002
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: ATTN : CCC users - 1 Hour CCR Test - Chester's results](https://www.stmintz.com/ccc/index.php?id=168466) by [Steve Timson](index.php?title=Steve_Timson&action=edit&redlink=1 "Steve Timson (page does not exist)"), [CCC](CCC "CCC"), May 07, 2001
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> PGN download from [CCT4](http://www.vrichey.de/cct4/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chester (1874-1888)](https://en.wikipedia.org/wiki/File:Chester_1874.jpg) was an [Australian Thoroughbred](https://en.wikipedia.org/wiki/Thoroughbred_racing_in_Australia) racehorse and champion sire, ca. 1878 by Turf Cavalcade, [Chester (horse) from Wikipedia](https://en.wikipedia.org/wiki/Chester_%28horse%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Nice tactical shot](https://www.stmintz.com/ccc/index.php?id=209565) by [Steve Timson](index.php?title=Steve_Timson&action=edit&redlink=1 "Steve Timson (page does not exist)"), [CCC](CCC "CCC"), January 24, 2002
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: ATTN : CCC users - 1 Hour CCR Test - Chester's results](https://www.stmintz.com/ccc/index.php?id=168466) by [Steve Timson](index.php?title=Steve_Timson&action=edit&redlink=1 "Steve Timson (page does not exist)"), [CCC](CCC "CCC"), May 07, 2001
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> PGN download from [CCT4](http://www.vrichey.de/cct4/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
 
 **[Up one Level](Engines "Engines")**
 

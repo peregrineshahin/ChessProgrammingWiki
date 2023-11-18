@@ -62,10 +62,10 @@ also responsible for the [Android](Android "Android") version since [Komodo 8](K
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Live!iXem.05 - giorno 1 | Jeremy Bernstein – Live Audiovisual Performance](http://vortice.provincia.venezia.it/Live!iXem05_day1.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Goodbye Talkchess](http://www.talkchess.com/forum/viewtopic.php?t=34840) by Jeremy Bernstein, [CCC](CCC "CCC"), June 09, 2010
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Komodo Syzygy evals](http://www.talkchess.com/forum/viewtopic.php?t=52391&start=7) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 21, 2014
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Komodo Chess Engine - About Us](https://komodochess.com/store/pages.php?cmsid=13) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Live!iXem.05 - giorno 1 | Jeremy Bernstein – Live Audiovisual Performance](http://vortice.provincia.venezia.it/Live!iXem05_day1.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Goodbye Talkchess](http://www.talkchess.com/forum/viewtopic.php?t=34840) by Jeremy Bernstein, [CCC](CCC "CCC"), June 09, 2010
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Komodo Syzygy evals](http://www.talkchess.com/forum/viewtopic.php?t=52391&start=7) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 21, 2014
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Komodo Chess Engine - About Us](https://komodochess.com/store/pages.php?cmsid=13) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman")
 
 **[Up one level](People "People")**
 

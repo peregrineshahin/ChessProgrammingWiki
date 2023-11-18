@@ -23,7 +23,7 @@ a Japanese computer scientist at [Shizuoka University](https://en.wikipedia.org/
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [dblp: Kazutoshi Takahara](https://dblp.uni-trier.de/pers/hd/t/Takahara:Kazutoshi.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [dblp: Kazutoshi Takahara](https://dblp.uni-trier.de/pers/hd/t/Takahara:Kazutoshi.html)
 
 **[Up one level](People "People")**
 

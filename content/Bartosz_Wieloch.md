@@ -33,8 +33,8 @@ His research interest include [artificial intelligence](Artificial_Intelligence 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [dblp: Bartosz Wieloch](https://dblp.uni-trier.de/pers/hd/w/Wieloch:Bartosz.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ant Wars](http://www.cs.put.poznan.pl/wjaskowski/projects/ant-wars) by [Wojciech Jaśkowski](Wojciech_Ja%C5%9Bkowski "Wojciech Jaśkowski")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [dblp: Bartosz Wieloch](https://dblp.uni-trier.de/pers/hd/w/Wieloch:Bartosz.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ant Wars](http://www.cs.put.poznan.pl/wjaskowski/projects/ant-wars) by [Wojciech Jaśkowski](Wojciech_Ja%C5%9Bkowski "Wojciech Jaśkowski")
 
 **[Up one level](People "People")**
 

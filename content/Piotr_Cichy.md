@@ -31,9 +31,9 @@ nanoSzachy won the [8th PCCC 2009](PCCC_2009 "PCCC 2009").
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [nanoSzachy 3.3](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=21483) by Piotr Cichy, [CCC](CCC "CCC"), May 30, 2008
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [nanoSzachy and pikoSzachy - Home and Download](http://www.kalisz.mm.pl/~pic/nanochess/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [8th Polish Computer Chess Championship](http://mpps.maciej.szmit.info/mpps-8/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [nanoSzachy 3.3](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=21483) by Piotr Cichy, [CCC](CCC "CCC"), May 30, 2008
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [nanoSzachy and pikoSzachy - Home and Download](http://www.kalisz.mm.pl/~pic/nanochess/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [8th Polish Computer Chess Championship](http://mpps.maciej.szmit.info/mpps-8/)
 
 **[Up one Level](People "People")**
 

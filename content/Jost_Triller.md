@@ -46,10 +46,10 @@ and the most recent [Nalwald](Nalwald "Nalwald") written in the [Nim programming
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GitHub - tsoj/hactar: hactar is a simple chessengine written in rust](https://github.com/tsoj/hactar)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tsoj Tsoj / squared-chess · GitLab](https://gitlab.com/tsoj/squared-chess)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tsoj Tsoj / Googleplex\_Starthinker · GitLab](https://gitlab.com/tsoj/Googleplex_Starthinker)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tsoj Tsoj / Nalwald · GitLab](https://gitlab.com/tsoj/Nalwald)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GitHub - tsoj/hactar: hactar is a simple chessengine written in rust](https://github.com/tsoj/hactar)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tsoj Tsoj / squared-chess · GitLab](https://gitlab.com/tsoj/squared-chess)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tsoj Tsoj / Googleplex\_Starthinker · GitLab](https://gitlab.com/tsoj/Googleplex_Starthinker)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tsoj Tsoj / Nalwald · GitLab](https://gitlab.com/tsoj/Nalwald)
 
 **[Up one level](People "People")**
 

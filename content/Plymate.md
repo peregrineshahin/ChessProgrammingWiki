@@ -112,13 +112,13 @@ Ng8 80.h6 Kg6 81.Rg7+ Kxh6 82.Rxg8 Kh7 83.Rc8 f5 84.Rf8 Kg7 85.Rxf5 Kg6 86.Rd5
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kathy Shower](https://en.wikipedia.org/wiki/Kathy_Shower), Photo by [Tgi417](https://en.wikipedia.org/wiki/User:Tgi417), This is my own work. I took tis picture myself of Kathy Shower in 2005
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Conchess - Schließlich doch schachmatt](http://www.schach-computer.info/wiki/index.php/Conchess#Schlie.C3.9Flich_doch_schachmatt) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mephisto MM II](http://www.schach-computer.info/wiki/index.php/Mephisto_MM_II) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Image captured from the [WMCCC 1985 Video](WMCCC_1985#Video "WMCCC 1985") @ 2:58
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Amsterdam 1985 - Chess - Round 6 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=63&round=6&id=2)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [5. WCCC Köln 1986](https://www.schach-computer.info/wiki/index.php?title=5._WCCC_K%C3%B6ln_1986#Bilder) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En), © Pictures by [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), No. 3, Juni-July 1986
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Cologne 1986 - Chess - Round 2 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=2&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kathy Shower](https://en.wikipedia.org/wiki/Kathy_Shower), Photo by [Tgi417](https://en.wikipedia.org/wiki/User:Tgi417), This is my own work. I took tis picture myself of Kathy Shower in 2005
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Conchess - Schließlich doch schachmatt](http://www.schach-computer.info/wiki/index.php/Conchess#Schlie.C3.9Flich_doch_schachmatt) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mephisto MM II](http://www.schach-computer.info/wiki/index.php/Mephisto_MM_II) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Image captured from the [WMCCC 1985 Video](WMCCC_1985#Video "WMCCC 1985") @ 2:58
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Amsterdam 1985 - Chess - Round 6 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=63&round=6&id=2)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [5. WCCC Köln 1986](https://www.schach-computer.info/wiki/index.php?title=5._WCCC_K%C3%B6ln_1986#Bilder) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En), © Pictures by [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), No. 3, Juni-July 1986
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Cologne 1986 - Chess - Round 2 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=2&id=5)
 
 **[Up one level](Engines "Engines")**
 

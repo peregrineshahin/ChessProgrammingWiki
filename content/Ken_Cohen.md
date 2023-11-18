@@ -19,8 +19,8 @@ an American technologist, entrepreneur, businessman and manufacturer of [consume
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Cassia - Chess Mate](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1979%20%5BA-3976%5D%20Cassia%20-%20Chess%20Mate.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> "White and Allcock was meant to be a joke name for the partnership, the ‘all cock’ being Ken Cohen. It became a source of amusement to White and Cohen that their Chinese colleagues never realised". Quote from [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Cassia - Chess Mate](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1979%20%5BA-3976%5D%20Cassia%20-%20Chess%20Mate.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> "White and Allcock was meant to be a joke name for the partnership, the ‘all cock’ being Ken Cohen. It became a source of amusement to White and Cohen that their Chinese colleagues never realised". Quote from [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one level](People "People")**
 

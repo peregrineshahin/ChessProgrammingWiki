@@ -42,8 +42,8 @@ The [Fidelity Sensory Chess Challenger 9](Sensory_9 "Sensory 9") based program b
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Fidelity | Photo collection](https://www.flickr.com/photos/10261668@N05/sets/72157600922170604/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Remote Control Systems: RCS Granit/Granit S](http://chess-computer.blogspot.de/2012/11/remote-control-systems-rcs-granitgranit.html) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Fidelity | Photo collection](https://www.flickr.com/photos/10261668@N05/sets/72157600922170604/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Remote Control Systems: RCS Granit/Granit S](http://chess-computer.blogspot.de/2012/11/remote-control-systems-rcs-granitgranit.html) (German)
 
 **[Up one level](Engines "Engines")**
 

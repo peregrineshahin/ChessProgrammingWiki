@@ -113,10 +113,10 @@ Screenshot of older G1 version
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Android Market - Apps by Aart Bik](https://market.android.com/developer?pub=Aart+Bik)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Chess for Android v5.6](http://www.talkchess.com/forum/viewtopic.php?t=66692&start=3) by [Aart Bik](Aart_Bik "Aart Bik"), [CCC](CCC "CCC"), February 28, 2018
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Connecting Chess for Android with the Millennium](http://www.aartbik.com/android_millennium.php) » [Millennium ChessGenius](Millennium_ChessGenius "Millennium ChessGenius")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess for Android and Electronic ChessBoards](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=69257) by [Aart Bik](Aart_Bik "Aart Bik"), [CCC](CCC "CCC"), December 14, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Android Market - Apps by Aart Bik](https://market.android.com/developer?pub=Aart+Bik)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Chess for Android v5.6](http://www.talkchess.com/forum/viewtopic.php?t=66692&start=3) by [Aart Bik](Aart_Bik "Aart Bik"), [CCC](CCC "CCC"), February 28, 2018
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Connecting Chess for Android with the Millennium](http://www.aartbik.com/android_millennium.php) » [Millennium ChessGenius](Millennium_ChessGenius "Millennium ChessGenius")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess for Android and Electronic ChessBoards](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=69257) by [Aart Bik](Aart_Bik "Aart Bik"), [CCC](CCC "CCC"), December 14, 2018
 
 **[Up one Level](BikJump "BikJump")**
 

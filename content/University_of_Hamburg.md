@@ -40,9 +40,9 @@ in [Hamburg](https://en.wikipedia.org/wiki/Hamburg), [Germany](https://en.wikipe
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Main building of the University of Hamburg, [Photo](https://commons.wikimedia.org/wiki/File:UniHHHauptgebaeude.jpg) by [Merlin Senger](https://de.wikipedia.org/wiki/Benutzer:MerlinSenger), 2005, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [University of Hamburg from Wikipedia](https://en.wikipedia.org/wiki/University_of_Hamburg)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Frederic Friedel from Wikipedia](https://en.wikipedia.org/wiki/Frederic_Friedel)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Main building of the University of Hamburg, [Photo](https://commons.wikimedia.org/wiki/File:UniHHHauptgebaeude.jpg) by [Merlin Senger](https://de.wikipedia.org/wiki/Benutzer:MerlinSenger), 2005, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [University of Hamburg from Wikipedia](https://en.wikipedia.org/wiki/University_of_Hamburg)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Frederic Friedel from Wikipedia](https://en.wikipedia.org/wiki/Frederic_Friedel)
 
 **[Up one Level](Organizations "Organizations")**
 

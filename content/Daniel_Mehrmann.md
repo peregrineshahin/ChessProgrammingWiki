@@ -34,11 +34,11 @@ More recently, Daniel initiated a "let's update Fruit", published in March 2014 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [25th Open Dutch Computer-Chess Championship 2005, Photo Gallery](http://old.csvn.nl/gallery23.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Announcement: Homer 1.0 beta avaible for download](https://www.stmintz.com/ccc/index.php?id=436459) by Daniel Mehrmann, [CCC](CCC "CCC"), July 12, 2005
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fruit 1.0 anniversary](http://www.talkchess.com/forum/viewtopic.php?t=51638) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), March 17, 2014
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fruit Reloaded - Computer Chess Programming](http://www.chessprogramming.net/fruit-reloaded/) hosted by [Steve Maughan](Steve_Maughan "Steve Maughan")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Akusari/Fruit-reloaded-public · GitHub](https://github.com/Akusari/Fruit-reloaded-public)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [25th Open Dutch Computer-Chess Championship 2005, Photo Gallery](http://old.csvn.nl/gallery23.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Announcement: Homer 1.0 beta avaible for download](https://www.stmintz.com/ccc/index.php?id=436459) by Daniel Mehrmann, [CCC](CCC "CCC"), July 12, 2005
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fruit 1.0 anniversary](http://www.talkchess.com/forum/viewtopic.php?t=51638) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), March 17, 2014
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fruit Reloaded - Computer Chess Programming](http://www.chessprogramming.net/fruit-reloaded/) hosted by [Steve Maughan](Steve_Maughan "Steve Maughan")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Akusari/Fruit-reloaded-public · GitHub](https://github.com/Akusari/Fruit-reloaded-public)
 
 **[Up one level](People "People")**
 

@@ -30,7 +30,7 @@ title: Chemnitz University of Technology
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> TU Chemnitz Main-building [Strasse der Nationen](https://de.wikipedia.org/wiki/Stra%C3%9Fe_der_Nationen), Image by [Kolossos](https://commons.wikimedia.org/wiki/User:Kolossos), February 26, 2008, [Chemnitz University of Technology from Wikipedia](https://en.wikipedia.org/wiki/Chemnitz_University_of_Technology)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> TU Chemnitz Main-building [Strasse der Nationen](https://de.wikipedia.org/wiki/Stra%C3%9Fe_der_Nationen), Image by [Kolossos](https://commons.wikimedia.org/wiki/User:Kolossos), February 26, 2008, [Chemnitz University of Technology from Wikipedia](https://en.wikipedia.org/wiki/Chemnitz_University_of_Technology)
 
 **[Up one Level](Organizations "Organizations")**
 

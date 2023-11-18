@@ -41,8 +41,8 @@ Praetorian's internal board representation relies on [Reverse Bitboards](Reverse
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Praetorians Relief](https://en.wikipedia.org/wiki/Praetorians_Relief), c. 51–52, once part of the [Arch of Claudius](https://en.wikipedia.org/wiki/Arch_of_Claudius_(British_victory)), current location [Louvre-Lens](https://en.wikipedia.org/wiki/Louvre-Lens)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Reverse Bitboards](https://www.stmintz.com/ccc/index.php?id=276884) by [Sander de Zoete](Sander_de_Zoete "Sander de Zoete"), [CCC](CCC "CCC"), January 13, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Praetorians Relief](https://en.wikipedia.org/wiki/Praetorians_Relief), c. 51–52, once part of the [Arch of Claudius](https://en.wikipedia.org/wiki/Arch_of_Claudius_(British_victory)), current location [Louvre-Lens](https://en.wikipedia.org/wiki/Louvre-Lens)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Reverse Bitboards](https://www.stmintz.com/ccc/index.php?id=276884) by [Sander de Zoete](Sander_de_Zoete "Sander de Zoete"), [CCC](CCC "CCC"), January 13, 2003
 
 **[Up one Level](Engines "Engines")**
 

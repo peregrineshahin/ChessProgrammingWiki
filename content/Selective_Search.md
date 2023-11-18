@@ -32,9 +32,9 @@ As announced in July 2016 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, Eric H
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Selective Search 2001 - 2005](http://www.chesscomputeruk.com/html/selective_search_2001_-_2005.html) hosted by [Mike Watters](Mike_Watters "Mike Watters")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Selective Search back issues](http://www.talkchess.com/forum/viewtopic.php?t=60825) by [Eric Wainwright](index.php?title=Eric_Wainwright&action=edit&redlink=1 "Eric Wainwright (page does not exist)"), [CCC](CCC "CCC"), July 15, 2016
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Selective Search](http://www.chesscomputeruk.com/html/selective_search.html) hosted by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Selective Search 2001 - 2005](http://www.chesscomputeruk.com/html/selective_search_2001_-_2005.html) hosted by [Mike Watters](Mike_Watters "Mike Watters")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Selective Search back issues](http://www.talkchess.com/forum/viewtopic.php?t=60825) by [Eric Wainwright](index.php?title=Eric_Wainwright&action=edit&redlink=1 "Eric Wainwright (page does not exist)"), [CCC](CCC "CCC"), July 15, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Selective Search](http://www.chesscomputeruk.com/html/selective_search.html) hosted by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one Level](Periodical "Periodical")**
 

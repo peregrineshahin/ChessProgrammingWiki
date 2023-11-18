@@ -18,8 +18,8 @@ a chess program for the [Commodore 64](Commodore_64 "Commodore 64") by [Thomas G
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [64'er Spielesammlung, Volume 1 - C64-Wiki](http://www.c64-wiki.com/index.php/64%27er_Spielesammlung#Volume_1)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Commodore 64 Emulator - Computer Chess Game Collection - Hypra-Chess](http://www.spacious-mind.com/html/c64_emu_-_hypra-chess.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [64'er Spielesammlung, Volume 1 - C64-Wiki](http://www.c64-wiki.com/index.php/64%27er_Spielesammlung#Volume_1)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Commodore 64 Emulator - Computer Chess Game Collection - Hypra-Chess](http://www.spacious-mind.com/html/c64_emu_-_hypra-chess.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
 
 **[Up one level](Engines "Engines")**
 

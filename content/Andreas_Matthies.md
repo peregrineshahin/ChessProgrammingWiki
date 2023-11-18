@@ -38,9 +38,9 @@ yielding to the development of [RubiChess](RubiChess "RubiChess").
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Andreas Matthies at Beach of [Laboe](https://en.wikipedia.org/wiki/Laboe), image from [Matthies · GitHub](https://github.com/Matthies)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Andreas Matthies | Facebook](https://de-de.facebook.com/toenderup)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: What got you into computer chess?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68659&start=5) by Andreas Matthies, [CCC](CCC "CCC"), October 16, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Andreas Matthies at Beach of [Laboe](https://en.wikipedia.org/wiki/Laboe), image from [Matthies · GitHub](https://github.com/Matthies)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Andreas Matthies | Facebook](https://de-de.facebook.com/toenderup)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: What got you into computer chess?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68659&start=5) by Andreas Matthies, [CCC](CCC "CCC"), October 16, 2018
 
 **[Up one level](People "People")**
 

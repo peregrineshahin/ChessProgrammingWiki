@@ -127,13 +127,13 @@ a Taiwanese computer scientiest and Professor at the Department of Information E
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Clipped from [IMG\_0264.JPG](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/img/2005_09_04/slides/IMG_0264.html) from [ICGA](ICGA "ICGA") [Image directory 09/04/2005](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/img/2005_09_04/index.html), [10th Computer Olympiad](10th_Computer_Olympiad "10th Computer Olympiad"), [Taipei](https://en.wikipedia.org/wiki/Taipei)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Department of Information Engineering and Computer Science](http://www.csie.ntu.edu.tw/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Shun-Chin Hsu's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=98)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2014**). *TAAI 2013 Computer Game Tournaments*. [ICGA Journal, Vol. 37, No. 1](ICGA_Journal#37_1 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Publication of Shun-Chin Hsu](http://www.csie.ntu.edu.tw/%7Eschsu/publish.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Shun-chin Hsu](http://www.informatik.uni-trier.de/~ley/pers/hd/h/Hsu:Shun=chin)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Clipped from [IMG\_0264.JPG](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/img/2005_09_04/slides/IMG_0264.html) from [ICGA](ICGA "ICGA") [Image directory 09/04/2005](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/img/2005_09_04/index.html), [10th Computer Olympiad](10th_Computer_Olympiad "10th Computer Olympiad"), [Taipei](https://en.wikipedia.org/wiki/Taipei)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Department of Information Engineering and Computer Science](http://www.csie.ntu.edu.tw/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Shun-Chin Hsu's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=98)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2014**). *TAAI 2013 Computer Game Tournaments*. [ICGA Journal, Vol. 37, No. 1](ICGA_Journal#37_1 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Publication of Shun-Chin Hsu](http://www.csie.ntu.edu.tw/%7Eschsu/publish.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Shun-chin Hsu](http://www.informatik.uni-trier.de/~ley/pers/hd/h/Hsu:Shun=chin)
 
 **[Up one level](People "People")**
 

@@ -51,10 +51,10 @@ Roland Stuckard is author of the [Java-based](Java "Java") [UCI](UCI "UCI") ches
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr. Roland Stuckardt | IT-Beratung - Medienanalyse - Sprachtechnologie](http://www.stuckardt.de/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Schachengine Fischerle](http://www.stuckardt.de/index.php/schachengine-fischerle.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Roland Stuckardt - Publikationen](http://www.stuckardt.de/index.php/publikationen.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Roland Stuckardt](https://dblp.uni-trier.de/pers/hd/s/Stuckardt:Roland.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr. Roland Stuckardt | IT-Beratung - Medienanalyse - Sprachtechnologie](http://www.stuckardt.de/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Schachengine Fischerle](http://www.stuckardt.de/index.php/schachengine-fischerle.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Roland Stuckardt - Publikationen](http://www.stuckardt.de/index.php/publikationen.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Roland Stuckardt](https://dblp.uni-trier.de/pers/hd/s/Stuckardt:Roland.html)
 
 **[Up one level](People "People")**
 

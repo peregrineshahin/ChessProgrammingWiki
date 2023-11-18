@@ -122,10 +122,10 @@ The **Man vs Machine Team Championship**, October 6 to 9, [2004](Timeline#2004 "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Casa Consistorial de Bilbao](https://en.wikipedia.org/wiki/Bilbao_City_Hall), where the 2004 opening ceremony took place, [Casa Consistorial de Bilbao - Wikipedia.es](http://es.wikipedia.org/wiki/Casa_Consistorial_de_Bilbao)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2004**). *The World Chess Team Championship Man vs. Machine*. [ICGA Journal, Vol. 27, No. 4](ICGA_Journal#27_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ch. Donninger at Bilbao (original in German)](https://www.stmintz.com/ccc/index.php?id=384988) by Franz Hagra, [CCC](CCC "CCC"), August 29, 2004
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Man vs Machine World Team Championship (2004–2005) - Wikipedia](https://en.wikipedia.org/wiki/Human%E2%80%93computer_chess_matches#Man_vs_Machine_World_Team_Championship_.282004.E2.80.932005.29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Casa Consistorial de Bilbao](https://en.wikipedia.org/wiki/Bilbao_City_Hall), where the 2004 opening ceremony took place, [Casa Consistorial de Bilbao - Wikipedia.es](http://es.wikipedia.org/wiki/Casa_Consistorial_de_Bilbao)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2004**). *The World Chess Team Championship Man vs. Machine*. [ICGA Journal, Vol. 27, No. 4](ICGA_Journal#27_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ch. Donninger at Bilbao (original in German)](https://www.stmintz.com/ccc/index.php?id=384988) by Franz Hagra, [CCC](CCC "CCC"), August 29, 2004
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Man vs Machine World Team Championship (2004–2005) - Wikipedia](https://en.wikipedia.org/wiki/Human%E2%80%93computer_chess_matches#Man_vs_Machine_World_Team_Championship_.282004.E2.80.932005.29)
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

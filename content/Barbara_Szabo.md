@@ -20,10 +20,10 @@ In the 80s, along with her husband [Alexander Szabo](Alexander_Szabo "Alexander 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Power to Change - From Uncertainty to Truth](https://www.lds.org/ensign/1995/01/the-power-to-change?lang=eng) by Barbara Szabo, January 1995
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gregg Pearlman](https://www.linkedin.com/in/greggpearlman/) (**1986**). *[ST New Products](https://www.atarimagazines.com/v5n8/STNewProducts.html)*. [Antic Vol. 5, No. 8](https://www.atarimagazines.com/index/?issue=v5n8)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Book of Mormon from Wikipedia](https://en.wikipedia.org/wiki/Book_of_Mormon)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Power to Change - From Uncertainty to Truth](https://www.lds.org/ensign/1995/01/the-power-to-change?lang=eng) by Barbara Szabo, January 1995
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gregg Pearlman](https://www.linkedin.com/in/greggpearlman/) (**1986**). *[ST New Products](https://www.atarimagazines.com/v5n8/STNewProducts.html)*. [Antic Vol. 5, No. 8](https://www.atarimagazines.com/index/?issue=v5n8)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Book of Mormon from Wikipedia](https://en.wikipedia.org/wiki/Book_of_Mormon)
 
 **[Up one level](People "People")**
 

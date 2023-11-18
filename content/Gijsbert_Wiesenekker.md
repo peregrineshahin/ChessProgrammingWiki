@@ -36,9 +36,9 @@ Gijsbert Wiesenekker and [Jaime Benito](Jaime_Benito_de_Valle_Ruiz "Jaime Benito
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> former Homepage of Gijsbert Wiesenekker\]
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [25th Open Dutch Computer-Chess Championship 2005, Photo Gallery](http://old.csvn.nl/gallery23.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> former Homepage of Gijsbert Wiesenekker\]
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [25th Open Dutch Computer-Chess Championship 2005, Photo Gallery](http://old.csvn.nl/gallery23.html)
 
 **[Up one level](People "People")**
 

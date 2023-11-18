@@ -41,7 +41,7 @@ He is author of the chess [GUI](GUI "GUI") [Scid vs. PC](Scid_vs._PC "Scid vs. P
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Scid vs. PC - Contact](http://scidvspc.sourceforge.net/#toc8)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Scid vs. PC - Contact](http://scidvspc.sourceforge.net/#toc8)
 
 **[Up one Level](People "People")**
 

@@ -63,12 +63,12 @@ Along with [Henri Bal](Henri_Bal "Henri Bal") in 1986, he wrote two papers on [p
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Robbert van Renesse's Home Page](https://www.cs.cornell.edu/home/rvr/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Robbert van Renesse's Resume](https://www.cs.cornell.edu/home/rvr/vita.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1987**). *Speculative Computing*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 118-124
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Robbert van Renesse](https://dblp.org/pers/r/Renesse:Robbert_van.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Amoeba (operating system) from Wikipedia](https://en.wikipedia.org/wiki/Amoeba_(operating_system))
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> 3 Questions Interview: Robert van Renesse, May 2017, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Robbert van Renesse's Home Page](https://www.cs.cornell.edu/home/rvr/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Robbert van Renesse's Resume](https://www.cs.cornell.edu/home/rvr/vita.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1987**). *Speculative Computing*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 118-124
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Robbert van Renesse](https://dblp.org/pers/r/Renesse:Robbert_van.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Amoeba (operating system) from Wikipedia](https://en.wikipedia.org/wiki/Amoeba_(operating_system))
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> 3 Questions Interview: Robert van Renesse, May 2017, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
 
 **[Up one Level](People "People")**
 

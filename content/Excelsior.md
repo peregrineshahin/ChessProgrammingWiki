@@ -64,10 +64,10 @@ Bg5 62.Bf4 Bd8 63.Qb8 Kf7 64.Qa7 Kg6 65.Kf1 Be7 66.Kf2 Qc8 67.Kg2 Bf6 68.Kf2 Bg7
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Coat of arms of the State of New York](https://en.wikipedia.org/wiki/Coat_of_arms_of_New_York), Motto: Excelsior, [E Pluribus Unum](https://en.wikipedia.org/wiki/E_pluribus_unum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Engines written in which programming language?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50192&p=190070#p190070) by [Andreas Herrmann](Andreas_Herrmann "Andreas Herrmann"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 02, 2009
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Excelsior](https://web.archive.org/web/20080704173304/http://wbec-ridderkerk.nl/html/details1/Excelsior.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), July 04, 2008)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Original Excelsior problem](https://www.stmintz.com/ccc/index.php?id=144445) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [CCC](CCC "CCC"), December 11, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Coat of arms of the State of New York](https://en.wikipedia.org/wiki/Coat_of_arms_of_New_York), Motto: Excelsior, [E Pluribus Unum](https://en.wikipedia.org/wiki/E_pluribus_unum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Engines written in which programming language?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50192&p=190070#p190070) by [Andreas Herrmann](Andreas_Herrmann "Andreas Herrmann"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 02, 2009
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Excelsior](https://web.archive.org/web/20080704173304/http://wbec-ridderkerk.nl/html/details1/Excelsior.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), July 04, 2008)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Original Excelsior problem](https://www.stmintz.com/ccc/index.php?id=144445) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [CCC](CCC "CCC"), December 11, 2000
 
 **[Up one Level](Engines "Engines")**
 

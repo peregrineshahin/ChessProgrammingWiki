@@ -28,13 +28,13 @@ Along with primary author [Sito Dekker](Sito_Dekker "Sito Dekker") and [Lars Ras
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Forthoffer](http://www.cubberley1965.org/class_profile.cfm?member_id=6226724)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [California and Chess](http://billwall.phpwebhosting.com/articles/California.htm) by [Bill Wall](index.php?title=Bill_Wall&action=edit&redlink=1 "Bill Wall (page does not exist)")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [Guy Haworth](Guy_Haworth "Guy Haworth"), [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**2000**). *[Space-Efficient Indexing of Chess Endgame Tables](http://centaur.reading.ac.uk/4562/)*. [ICGA Journal, Vol. 23, No. 3](ICGA_Journal#23_3 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> David Forthoffer, [Lars Rasmussen](Lars_Rasmussen "Lars Rasmussen"), [Sito Dekker](Sito_Dekker "Sito Dekker") (**1989**). *A Correction to some KRKB-Database Results*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), et al. (**1988**). *Computer Checks on Human Analyses of the KRKB Endgame*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Paul Magriel from Wikipedia](https://en.wikipedia.org/wiki/Paul_Magriel)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Forthoffer](http://www.cubberley1965.org/class_profile.cfm?member_id=6226724)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [California and Chess](http://billwall.phpwebhosting.com/articles/California.htm) by [Bill Wall](index.php?title=Bill_Wall&action=edit&redlink=1 "Bill Wall (page does not exist)")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [Guy Haworth](Guy_Haworth "Guy Haworth"), [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**2000**). *[Space-Efficient Indexing of Chess Endgame Tables](http://centaur.reading.ac.uk/4562/)*. [ICGA Journal, Vol. 23, No. 3](ICGA_Journal#23_3 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> David Forthoffer, [Lars Rasmussen](Lars_Rasmussen "Lars Rasmussen"), [Sito Dekker](Sito_Dekker "Sito Dekker") (**1989**). *A Correction to some KRKB-Database Results*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), et al. (**1988**). *Computer Checks on Human Analyses of the KRKB Endgame*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Paul Magriel from Wikipedia](https://en.wikipedia.org/wiki/Paul_Magriel)
 
 **[Up one level](People "People")**
 

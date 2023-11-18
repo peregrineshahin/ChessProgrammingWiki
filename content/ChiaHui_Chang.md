@@ -35,10 +35,10 @@ a Taiwanese computer scientist and full professor at Department of Computer Scie
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Homepage of Chang, Chia-Hui](http://staff.csie.ncu.edu.tw/chia/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Bio from [Job-Level Alpha-Beta Search - IEEE Xplore Document](http://ieeexplore.ieee.org/document/6785996/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [Bo-Han Lin](index.php?title=Bo-Han_Lin&action=edit&redlink=1 "Bo-Han Lin (page does not exist)"), Chia-Hui Chang (**2015**). *[Job-Level Alpha-Beta Search](http://ieeexplore.ieee.org/document/6785996/)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 7, No. 1
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Chia-Hui Chang](http://dblp.uni-trier.de/pers/hd/c/Chang:Chia=Hui)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Homepage of Chang, Chia-Hui](http://staff.csie.ncu.edu.tw/chia/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Bio from [Job-Level Alpha-Beta Search - IEEE Xplore Document](http://ieeexplore.ieee.org/document/6785996/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [Bo-Han Lin](index.php?title=Bo-Han_Lin&action=edit&redlink=1 "Bo-Han Lin (page does not exist)"), Chia-Hui Chang (**2015**). *[Job-Level Alpha-Beta Search](http://ieeexplore.ieee.org/document/6785996/)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 7, No. 1
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Chia-Hui Chang](http://dblp.uni-trier.de/pers/hd/c/Chang:Chia=Hui)
 
 **[Up one Level](People "People")**
 

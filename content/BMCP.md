@@ -40,9 +40,9 @@ yielding in illegal moves made with the king and pawn. [BMCP(JS)](</BMCP(JS)> "B
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Part 1 - design and implementation overview](https://youtu.be/927rfAPHX6E)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - maksimKorzh/bmcp: bare minimum chess program](https://github.com/maksimKorzh/bmcp)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bare minimum chess program in javascript](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70956) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), June 08, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Part 1 - design and implementation overview](https://youtu.be/927rfAPHX6E)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - maksimKorzh/bmcp: bare minimum chess program](https://github.com/maksimKorzh/bmcp)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bare minimum chess program in javascript](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70956) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), June 08, 2019
 
 **[Up one Level](Engines "Engines")**
 

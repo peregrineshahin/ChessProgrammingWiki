@@ -70,14 +70,14 @@ a Norwegian algebraic geometer by education, and as chess and games programmer a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Tord Romstad during [World Chess Championship 2014](https://en.wikipedia.org/wiki/World_Chess_Championship_2014) in Norwegian TV, Capture from German [ZDF Sportreportage](https://de.wikipedia.org/wiki/ZDF-Sportreportage), November 23, 2014, with excerpts from the broadcast
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Play Magnus: official App with Chess Engine](http://www.talkchess.com/forum/viewtopic.php?t=51408&start=5) by Tord Romstad, [CCC](CCC "CCC"), February 26, 2014
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Some thoughts on computer Shogi](http://www.shogi.net/shogi-l/Archive/2007/Njan15-10.txt) by Tord Romstad, January 15, 2007
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Universal Shogi Interface, draft 1 (2007-01-24)](http://www.glaurungchess.com/shogi/usi.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Stockfish - Glaurung](http://wbec-ridderkerk.forumotion.com/wbec-ridderkerk-news-info-f1/stockfish-glaurung-t402.htm) by Tord Romstad, [WBEC-Ridderkerk forum](http://wbec-ridderkerk.forumotion.com/forum.htm), September 05, 2009
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Home · Chess.jl](https://romstad.github.io/Chess.jl/dev/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Aronian gewinnt FINet-Chess960-Turnier](https://de.chessbase.com/post/aronian-gewinnt-finet-che960-turnier), [ChessBase Nachrichten](ChessBase "ChessBase"), August 13, 2005 (German)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Video : How do modern chess engines work ?](http://www.talkchess.com/forum/viewtopic.php?t=59836&start=3) by Hermann Krause, [CCC](CCC "CCC"), April 12, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Tord Romstad during [World Chess Championship 2014](https://en.wikipedia.org/wiki/World_Chess_Championship_2014) in Norwegian TV, Capture from German [ZDF Sportreportage](https://de.wikipedia.org/wiki/ZDF-Sportreportage), November 23, 2014, with excerpts from the broadcast
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Play Magnus: official App with Chess Engine](http://www.talkchess.com/forum/viewtopic.php?t=51408&start=5) by Tord Romstad, [CCC](CCC "CCC"), February 26, 2014
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Some thoughts on computer Shogi](http://www.shogi.net/shogi-l/Archive/2007/Njan15-10.txt) by Tord Romstad, January 15, 2007
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Universal Shogi Interface, draft 1 (2007-01-24)](http://www.glaurungchess.com/shogi/usi.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Stockfish - Glaurung](http://wbec-ridderkerk.forumotion.com/wbec-ridderkerk-news-info-f1/stockfish-glaurung-t402.htm) by Tord Romstad, [WBEC-Ridderkerk forum](http://wbec-ridderkerk.forumotion.com/forum.htm), September 05, 2009
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Home · Chess.jl](https://romstad.github.io/Chess.jl/dev/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Aronian gewinnt FINet-Chess960-Turnier](https://de.chessbase.com/post/aronian-gewinnt-finet-che960-turnier), [ChessBase Nachrichten](ChessBase "ChessBase"), August 13, 2005 (German)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Video : How do modern chess engines work ?](http://www.talkchess.com/forum/viewtopic.php?t=59836&start=3) by Hermann Krause, [CCC](CCC "CCC"), April 12, 2016
 
 **[Up one level](People "People")**
 

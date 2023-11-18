@@ -63,20 +63,20 @@ Marcel van Kervinck passed away on May 25, 2020 <a id="cite-note-9" href="#cite-
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [kervinck (Marcel van Kervinck) · GitHub](https://github.com/kervinck)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Marcel van Kervinck | Cuvo](https://www.cuvo.nl/condoleren/marcel-van-kervinck)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Index of /rookie](http://marcelk.net/rookie/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MSCP - Marcel's Simple Chess Program](https://marcelk.net/mscp/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Floyd 0.5 released](http://www.talkchess.com/forum/viewtopic.php?t=57913) by Marcel van Kervinck, [CCC](CCC "CCC"), Oct 11, 2015
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Index of /bookie](https://marcelk.net/bookie/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [8-bit color computer from TTL](https://hackaday.io/project/20781-8-bit-color-computer-from-ttl) by Marcel van Kervinck, [Hackaday.io](https://en.wikipedia.org/wiki/Hackaday), 2017
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [About – Gigatron](https://gigatron.io/?page_id=17)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [oud bestuurslid Marcel van Kervinck overleden](https://www.csvn.nl/index.php/2-uncategorised/863-oud-bestuurslid-marcel-van-kervinck-overleden), [CSVN](CSVN "CSVN") site, May 29, 2020
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Programmersprize 2010](http://www.csvn.nl/index.php?option=com_content&view=article&id=468%3Arules-programmersprize&catid=51%3Atoernooien&Itemid=28&lang=en)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Chess Programmers -- take note: M. N. J. van Kervinck's Master's Thesis](https://www.stmintz.com/ccc/index.php?id=246260) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), August 19, 2002
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Upcoming repetition detection](http://www.open-chess.org/viewtopic.php?f=5&t=2300) by Marcel van Kervinck, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 06, 2013
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [kervinck/pfkpk · GitHub](https://github.com/kervinck/pfkpk)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [The Gigatron project](http://www.talkchess.com/forum/viewtopic.php?t=65905) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), December 06, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [kervinck (Marcel van Kervinck) · GitHub](https://github.com/kervinck)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Marcel van Kervinck | Cuvo](https://www.cuvo.nl/condoleren/marcel-van-kervinck)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Index of /rookie](http://marcelk.net/rookie/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MSCP - Marcel's Simple Chess Program](https://marcelk.net/mscp/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Floyd 0.5 released](http://www.talkchess.com/forum/viewtopic.php?t=57913) by Marcel van Kervinck, [CCC](CCC "CCC"), Oct 11, 2015
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Index of /bookie](https://marcelk.net/bookie/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [8-bit color computer from TTL](https://hackaday.io/project/20781-8-bit-color-computer-from-ttl) by Marcel van Kervinck, [Hackaday.io](https://en.wikipedia.org/wiki/Hackaday), 2017
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [About – Gigatron](https://gigatron.io/?page_id=17)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [oud bestuurslid Marcel van Kervinck overleden](https://www.csvn.nl/index.php/2-uncategorised/863-oud-bestuurslid-marcel-van-kervinck-overleden), [CSVN](CSVN "CSVN") site, May 29, 2020
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Programmersprize 2010](http://www.csvn.nl/index.php?option=com_content&view=article&id=468%3Arules-programmersprize&catid=51%3Atoernooien&Itemid=28&lang=en)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Chess Programmers -- take note: M. N. J. van Kervinck's Master's Thesis](https://www.stmintz.com/ccc/index.php?id=246260) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), August 19, 2002
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Upcoming repetition detection](http://www.open-chess.org/viewtopic.php?f=5&t=2300) by Marcel van Kervinck, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 06, 2013
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [kervinck/pfkpk · GitHub](https://github.com/kervinck/pfkpk)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [The Gigatron project](http://www.talkchess.com/forum/viewtopic.php?t=65905) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), December 06, 2017
 
 **[Up one level](People "People")**
 

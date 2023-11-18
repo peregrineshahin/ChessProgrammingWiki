@@ -144,9 +144,9 @@ title: Selectivity
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ICCA Journal, Vol. 17, No. 1](https://groups.google.com/d/msg/rec.games.chess/5_dMbe0_juo/bXQQVYVEpykJ) by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 02, 1994
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> slightly revised version of the [CG 2004](CG_2004 "CG 2004") paper
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Selective Search Techniques in REBEL (introduction) from [Programmer Corner](Rebel#ProgrammerCorner "Rebel") by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ICCA Journal, Vol. 17, No. 1](https://groups.google.com/d/msg/rec.games.chess/5_dMbe0_juo/bXQQVYVEpykJ) by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 02, 1994
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> slightly revised version of the [CG 2004](CG_2004 "CG 2004") paper
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Selective Search Techniques in REBEL (introduction) from [Programmer Corner](Rebel#ProgrammerCorner "Rebel") by [Ed Schröder](Ed_Schroder "Ed Schroder")
 
 **[Up one level](Search "Search")**
 

@@ -222,9 +222,9 @@ likely at [All-Nodes](Node_Types#all-nodes "Node Types"):
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Under the Trees, Oil on Canvas, 160 x 200 cm, [Return to Vilna Series](http://chgs.elevator.umn.edu/asset/viewAsset/57f3b7047d58ae0c54bf8bab#57f3b7277d58ae2139bf8baf), [Center for Holocaust & Genocide Studies](http://www.chgs.umn.edu/), [University of Minnesota](University_of_Minnesota "University of Minnesota")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Better Alpha-Beta algorithm than pruning, to don't confuse it with the mentioned forward pruning
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: What is History Pruning?](https://www.stmintz.com/ccc/index.php?id=434817) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), July 03, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Under the Trees, Oil on Canvas, 160 x 200 cm, [Return to Vilna Series](http://chgs.elevator.umn.edu/asset/viewAsset/57f3b7047d58ae0c54bf8bab#57f3b7277d58ae2139bf8baf), [Center for Holocaust & Genocide Studies](http://www.chgs.umn.edu/), [University of Minnesota](University_of_Minnesota "University of Minnesota")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Better Alpha-Beta algorithm than pruning, to don't confuse it with the mentioned forward pruning
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: What is History Pruning?](https://www.stmintz.com/ccc/index.php?id=434817) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), July 03, 2005
 
 **[Up one level](Selectivity "Selectivity")**
 

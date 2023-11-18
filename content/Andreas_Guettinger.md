@@ -23,9 +23,9 @@ affiliated with [University of Bern](https://en.wikipedia.org/wiki/University_of
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Who is who](http://www.hiarcs.net/forums/viewtopic.php?p=92#92) by Andreas Guettinger, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), July 31, 2007
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Fastest Magic Move Bitboard Generator ready to use](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5452#p27031) by Andreas Guettinger, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 25, 2006
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bitboards and inCheck](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6064&p=29127) by Andreas Guettinger, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 03, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Who is who](http://www.hiarcs.net/forums/viewtopic.php?p=92#92) by Andreas Guettinger, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), July 31, 2007
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Fastest Magic Move Bitboard Generator ready to use](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5452#p27031) by Andreas Guettinger, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 25, 2006
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bitboards and inCheck](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6064&p=29127) by Andreas Guettinger, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 03, 2007
 
 **[Up one level](People "People")**
 

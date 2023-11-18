@@ -49,8 +49,8 @@ Footage courtesy of [Network Ten Australia](https://en.wikipedia.org/wiki/Networ
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ambigram](https://en.wikipedia.org/wiki/Ambigram) awesome, 180° rotational symmetry, by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin), June 08, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Awesome Chess Program](http://web.archive.org/web/20131114084319/http://home.vicnet.net.au/~chess/awesome.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ambigram](https://en.wikipedia.org/wiki/Ambigram) awesome, 180° rotational symmetry, by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin), June 08, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Awesome Chess Program](http://web.archive.org/web/20131114084319/http://home.vicnet.net.au/~chess/awesome.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](Engines "Engines")**
 

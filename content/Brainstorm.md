@@ -50,9 +50,9 @@ Qd7 45.Be3 Qd8 46.Rc1 Qd7 1/2-1/2
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Brainstorming by Agripolare, January 11, 2009, [Category:Brainstorming - Wikimedia Commons](http://commons.wikimedia.org/wiki/Category:Brainstorming)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the 11th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Vancouver 1991 - Chess - Round 4 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=59&round=4&id=6)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Brainstorming by Agripolare, January 11, 2009, [Category:Brainstorming - Wikimedia Commons](http://commons.wikimedia.org/wiki/Category:Brainstorming)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the 11th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Vancouver 1991 - Chess - Round 4 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=59&round=4&id=6)
 
 **[Up one level](Engines "Engines")**
 

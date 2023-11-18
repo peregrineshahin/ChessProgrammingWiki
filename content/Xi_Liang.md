@@ -25,9 +25,9 @@ a Taiwanese computer scientist affiliated with the Department of Computer Scienc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Xi Liang (**2015**). *[Job-Level Search for Solving Hex](https://ir.nctu.edu.tw/handle/11536/127155?locale=en)*. Master's thesis, [National Chiao Tung University](National_Chiao_Tung_University "National Chiao Tung University"), advisor [I-Chen Wu](I-Chen_Wu "I-Chen Wu")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Xi Liang, [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu") (**2015**). *Solving Hex Openings Using Job-Level UCT Search*. [ICGA Journal, Vol. 38, No. 3](ICGA_Journal#38_3 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Xi Liang](http://dblp.uni-trier.de/pers/hd/l/Liang:Xi)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Xi Liang (**2015**). *[Job-Level Search for Solving Hex](https://ir.nctu.edu.tw/handle/11536/127155?locale=en)*. Master's thesis, [National Chiao Tung University](National_Chiao_Tung_University "National Chiao Tung University"), advisor [I-Chen Wu](I-Chen_Wu "I-Chen Wu")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Xi Liang, [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu") (**2015**). *Solving Hex Openings Using Job-Level UCT Search*. [ICGA Journal, Vol. 38, No. 3](ICGA_Journal#38_3 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Xi Liang](http://dblp.uni-trier.de/pers/hd/l/Liang:Xi)
 
 **[Up one Level](People "People")**
 

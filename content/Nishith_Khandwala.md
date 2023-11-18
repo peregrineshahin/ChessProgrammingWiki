@@ -29,11 +29,11 @@ Along with [Barak Oshri](Barak_Oshri "Barak Oshri") at Stanford in 2015, he work
 
 
 1. ↑ [1.0](#cite-ref-linkedin-1-0) [1.1](#cite-ref-linkedin-1-1) [Nishith Khandwala | LinkedIn](https://www.linkedin.com/in/nishith-khandwala-16b27227/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bunkerhill Health | Y Combinator](https://www.ycombinator.com/companies/bunkerhill-health)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Nishith Khandwala | Center for Artificial Intelligence in Medicine & Imaging](https://aimi.stanford.edu/people/nishith-khandwala)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bunkerhill Health | Y Combinator](https://www.ycombinator.com/companies/bunkerhill-health)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Nishith Khandwala | Center for Artificial Intelligence in Medicine & Imaging](https://aimi.stanford.edu/people/nishith-khandwala)
 4. ↑ [4.0](#cite-ref-github-4-0) [4.1](#cite-ref-github-4-1) [GitHub - BarakOshri/ConvChess: Predicting Moves in Chess Using Convolutional Neural Networks](https://github.com/BarakOshri/ConvChess)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ConvChess CNN](http://www.talkchess.com/forum/viewtopic.php?t=63458) by [Brian Richardson](Brian_Richardson "Brian Richardson"), [CCC](CCC "CCC"), March 15, 2017
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Nishith Khandwala](https://dblp.org/pid/206/6174.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ConvChess CNN](http://www.talkchess.com/forum/viewtopic.php?t=63458) by [Brian Richardson](Brian_Richardson "Brian Richardson"), [CCC](CCC "CCC"), March 15, 2017
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Nishith Khandwala](https://dblp.org/pid/206/6174.html)
 
 **[Up one Level](People "People")**
 

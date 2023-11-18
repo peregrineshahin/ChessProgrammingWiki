@@ -62,13 +62,13 @@ The inspiration for the new HIARCS search was sought from the book [Chess Skill 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Capture from the 2011 [Video Interview](#video)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mark Uniacke - the author of HIARCS](http://www.hiarcs.com/mark_uniacke.htm) from [HIARCS Chess Software for PC, Mac, Pocket PC, iPhone, iPod and Palm Chess](http://www.hiarcs.com/index.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [HIARCS Chess Software for PC, Mac, Pocket PC, iPhone, iPod and Palm Chess](http://www.hiarcs.com/index.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hiarcs Chronicles](http://www.hiarcs.com/hiarcs_chronicle.htm) from [HIARCS Chess Software for PC, Mac, Pocket PC, iPhone, iPod and Palm Chess](http://www.hiarcs.com/index.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hiarcs Fan Page](http://www.thorstenczub.de/hiarcs.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Now Walking, 1982-1983: HIARCS 5](http://www.hiarcs.com/nowwalking.htm) from [HIARCS Chess Software for PC, Mac, Pocket PC, iPhone, iPod and Palm Chess](http://www.hiarcs.com/index.htm)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Larry Harris](Larry_Harris "Larry Harris") (**1974**). *Heuristic Search under Conditions of Error*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)), Vol. 5, No. 3, also as (**1977**). *The heuristic search: An alternative to the alpha-beta minimax procedure.* [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Capture from the 2011 [Video Interview](#video)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mark Uniacke - the author of HIARCS](http://www.hiarcs.com/mark_uniacke.htm) from [HIARCS Chess Software for PC, Mac, Pocket PC, iPhone, iPod and Palm Chess](http://www.hiarcs.com/index.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [HIARCS Chess Software for PC, Mac, Pocket PC, iPhone, iPod and Palm Chess](http://www.hiarcs.com/index.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hiarcs Chronicles](http://www.hiarcs.com/hiarcs_chronicle.htm) from [HIARCS Chess Software for PC, Mac, Pocket PC, iPhone, iPod and Palm Chess](http://www.hiarcs.com/index.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hiarcs Fan Page](http://www.thorstenczub.de/hiarcs.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Now Walking, 1982-1983: HIARCS 5](http://www.hiarcs.com/nowwalking.htm) from [HIARCS Chess Software for PC, Mac, Pocket PC, iPhone, iPod and Palm Chess](http://www.hiarcs.com/index.htm)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Larry Harris](Larry_Harris "Larry Harris") (**1974**). *Heuristic Search under Conditions of Error*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)), Vol. 5, No. 3, also as (**1977**). *The heuristic search: An alternative to the alpha-beta minimax procedure.* [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine")
 
 **[Up one level](People "People")**
 

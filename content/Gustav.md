@@ -57,8 +57,8 @@ K7/p3p1p1/1p2p1p1/rp4B1/brpn4/Rnk5/8/4N1N1 w - -
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Delphi/Kylix Compiler](https://www.stmintz.com/ccc/index.php?id=158578) by [Olaf Jenkner](Olaf_Jenkner "Olaf Jenkner"), [CCC](CCC "CCC"), March 14, 2001
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gustav 4.0](https://www.schachversand.de/en/gustav-4-0-i.html) from [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann") (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Delphi/Kylix Compiler](https://www.stmintz.com/ccc/index.php?id=158578) by [Olaf Jenkner](Olaf_Jenkner "Olaf Jenkner"), [CCC](CCC "CCC"), March 14, 2001
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gustav 4.0](https://www.schachversand.de/en/gustav-4-0-i.html) from [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann") (German)
 
 **[Up one level](Engines "Engines")**
 

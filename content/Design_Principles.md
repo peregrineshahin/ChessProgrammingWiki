@@ -32,7 +32,7 @@ Just considering the simple patterns, if your engine deals with pattern instance
 
 ## Rererences
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bitboard algorithm design principles](https://www.stmintz.com/ccc/index.php?id=261259) by [Steffan Westcott](Steffan_Westcott "Steffan Westcott"), [CCC](CCC "CCC"), October 23, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bitboard algorithm design principles](https://www.stmintz.com/ccc/index.php?id=261259) by [Steffan Westcott](Steffan_Westcott "Steffan Westcott"), [CCC](CCC "CCC"), October 23, 2002
 
 **[Up one Level](Bitboards "Bitboards")**
 

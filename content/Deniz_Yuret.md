@@ -34,10 +34,10 @@ a Turkish computer scientist and Assistant Professor at [Koç University](https:
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Deniz Yuret - Google Scholar Citations](https://scholar.google.com/citations?user=EJurXJ4AAAAJ&hl=en)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Murray Campbell](Murray_Campbell "Murray Campbell"), [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**1999**). *Search Control Methods in Deep Blue*. [AAAI](AAAI "AAAI") Technical Report SS-99-07, [pdf](https://pdfs.semanticscholar.org/211d/7268093b4dfce8201e8da321201c6cd349ef.pdf), [pdf](https://web.archive.org/web/20160914070926/http://aaaipress.org/Papers/Symposia/Spring/1999/SS-99-07/SS99-07-004.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Deniz Yuret (**1994**). *[The Principle of Pressure in Chess](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJurXJ4AAAAJ&cstart=40&citation_for_view=EJurXJ4AAAAJ:TQgYirikUcIC)*. TAINN 1994
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Deniz Yuret](https://dblp.uni-trier.de/pers/hd/y/Yuret:Deniz)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Deniz Yuret - Google Scholar Citations](https://scholar.google.com/citations?user=EJurXJ4AAAAJ&hl=en)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Murray Campbell](Murray_Campbell "Murray Campbell"), [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**1999**). *Search Control Methods in Deep Blue*. [AAAI](AAAI "AAAI") Technical Report SS-99-07, [pdf](https://pdfs.semanticscholar.org/211d/7268093b4dfce8201e8da321201c6cd349ef.pdf), [pdf](https://web.archive.org/web/20160914070926/http://aaaipress.org/Papers/Symposia/Spring/1999/SS-99-07/SS99-07-004.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Deniz Yuret (**1994**). *[The Principle of Pressure in Chess](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJurXJ4AAAAJ&cstart=40&citation_for_view=EJurXJ4AAAAJ:TQgYirikUcIC)*. TAINN 1994
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Deniz Yuret](https://dblp.uni-trier.de/pers/hd/y/Yuret:Deniz)
 
 **[Up one level](People "People")**
 

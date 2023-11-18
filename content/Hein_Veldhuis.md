@@ -19,9 +19,9 @@ Winners of the [ICT 2007](ICT_2007 "ICT 2007") users tournament: Hein Veldhuis, 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Users tournament](http://www.csvn.nl/index.php?option=com_content&view=category&id=25&Itemid=47&lang=en)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Schaakcomputer database van Hein Veldhuis](http://www.schaakcomputers.nl/hein_veldhuis/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CSVN](CSVN "CSVN") Image from former [ICT 2007](ICT_2007 "ICT 2007") Photo Gallery
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Users tournament](http://www.csvn.nl/index.php?option=com_content&view=category&id=25&Itemid=47&lang=en)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Schaakcomputer database van Hein Veldhuis](http://www.schaakcomputers.nl/hein_veldhuis/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CSVN](CSVN "CSVN") Image from former [ICT 2007](ICT_2007 "ICT 2007") Photo Gallery
 
 **[Up one level](People "People")**
 

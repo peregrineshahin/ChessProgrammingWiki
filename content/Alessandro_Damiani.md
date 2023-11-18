@@ -29,10 +29,10 @@ As computer chess programmer and founding member of the [Gruppo Scacchi e Inform
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alessandro Damiani - LinkedIn](https://www.linkedin.com/in/alessandro-damiani-0540725/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New Version: FORTRESS V1.5, the new Morphy?](https://www.stmintz.com/ccc/index.php?id=39509) by Alessandro Damiani, [CCC](CCC "CCC"), January 15, 1999
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Resources about rotated bitboards](https://www.stmintz.com/ccc/index.php?id=342812) by Alessandro Damiani, [CCC](CCC "CCC"), January 16, 2004
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2007**). *[Negative Plausibility](http://www.aifactory.co.uk/newsletter/2007_01_neg_plausibility.htm)*. [AI Factory](AI_Factory "AI Factory"), Spring 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alessandro Damiani - LinkedIn](https://www.linkedin.com/in/alessandro-damiani-0540725/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New Version: FORTRESS V1.5, the new Morphy?](https://www.stmintz.com/ccc/index.php?id=39509) by Alessandro Damiani, [CCC](CCC "CCC"), January 15, 1999
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Resources about rotated bitboards](https://www.stmintz.com/ccc/index.php?id=342812) by Alessandro Damiani, [CCC](CCC "CCC"), January 16, 2004
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2007**). *[Negative Plausibility](http://www.aifactory.co.uk/newsletter/2007_01_neg_plausibility.htm)*. [AI Factory](AI_Factory "AI Factory"), Spring 2007
 
 **[Up one level](People "People")**
 

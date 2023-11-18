@@ -72,5 +72,5 @@ for (r = 0; r < f; ++r)
 - [Reflection (physics) from Wikipedia](https://en.wikipedia.org/wiki/Reflection_%28physics%29)
 - [Reflection symmetry from Wikipedia](https://en.wikipedia.org/wiki/Reflection_symmetry)
 
-\*\*[Up one Level](Chess_Position "Chess Position")\*\*1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hilma af Klint](Category:Hilma_af_Klint "Category:Hilma af Klint") - [Group IX SUW, The Swan No. 7](<https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_-_Group_IX_SUW,_The_Swan_No._7_(13945).jpg>), 1915, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+\*\*[Up one Level](Chess_Position "Chess Position")\*\*1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hilma af Klint](Category:Hilma_af_Klint "Category:Hilma af Klint") - [Group IX SUW, The Swan No. 7](<https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_-_Group_IX_SUW,_The_Swan_No._7_(13945).jpg>), 1915, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 

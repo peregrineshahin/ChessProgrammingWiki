@@ -85,14 +85,14 @@ On June 04, 2021, Andrew Grant announced the commercial release of Ethereal **13
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [AndyGrant (Andrew Grant) · GitHub](https://github.com/AndyGrant)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AndyGrant (Andrew Grant) · GitHub](https://github.com/AndyGrant)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ethereal - Official Release](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=8645) by Andrew Grant, [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), June 25, 2016
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - OpenBench a Distributed SPRT Testing Framework for Chess Engines](https://github.com/AndyGrant/OpenBench)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re:Basic automated testing](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=68531&start=6) by Andrew Grant, [CCC](CCC "CCC"), September 30, 2018
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Commercial Release of Ethereal 13.00 (NNUE) for AVX2 Systems](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77438) by Andrew Grant, [CCC](CCC "CCC"), June 04, 2021
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Evaluation & Tuning in Chess Engines](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74877) by Andrew Grant, [CCC](CCC "CCC"), August 24, 2020
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Ethereal Tuning - Data Dump](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75350) by Andrew Grant, [CCC](CCC "CCC"), October 10, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [AndyGrant (Andrew Grant) · GitHub](https://github.com/AndyGrant)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AndyGrant (Andrew Grant) · GitHub](https://github.com/AndyGrant)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ethereal - Official Release](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=8645) by Andrew Grant, [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), June 25, 2016
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - OpenBench a Distributed SPRT Testing Framework for Chess Engines](https://github.com/AndyGrant/OpenBench)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re:Basic automated testing](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=68531&start=6) by Andrew Grant, [CCC](CCC "CCC"), September 30, 2018
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Commercial Release of Ethereal 13.00 (NNUE) for AVX2 Systems](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77438) by Andrew Grant, [CCC](CCC "CCC"), June 04, 2021
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Evaluation & Tuning in Chess Engines](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74877) by Andrew Grant, [CCC](CCC "CCC"), August 24, 2020
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Ethereal Tuning - Data Dump](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75350) by Andrew Grant, [CCC](CCC "CCC"), October 10, 2020
 
 **[Up one level](People "People")**
 

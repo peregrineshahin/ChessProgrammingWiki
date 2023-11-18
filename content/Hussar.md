@@ -35,8 +35,8 @@ Last recent version was Hussar **0.4**, released in 2011. Hussar is able to play
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Hungarian hussar in the 16th century. Woodcut by [Jost Amman](https://en.wikipedia.org/wiki/Jost_Amman), cc. 1550, source [Magyar huszár a XVI.-ik században (Digitális Képarchívum - DKA-006385)](http://keptar.oszk.hu/html/kepoldal/index.phtml?id=006385), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Hussar from Wikipedia](https://en.wikipedia.org/wiki/Hussar)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Engine Download List](http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Hungarian hussar in the 16th century. Woodcut by [Jost Amman](https://en.wikipedia.org/wiki/Jost_Amman), cc. 1550, source [Magyar huszár a XVI.-ik században (Digitális Képarchívum - DKA-006385)](http://keptar.oszk.hu/html/kepoldal/index.phtml?id=006385), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Hussar from Wikipedia](https://en.wikipedia.org/wiki/Hussar)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Engine Download List](http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
 
 **[Up one Level](Engines "Engines")**
 

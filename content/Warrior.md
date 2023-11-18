@@ -104,8 +104,8 @@ Ke7 68.Kd4 Bd7 69.Rc5 Ke6 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Golden Warrior](https://en.wikipedia.org/wiki/Issyk_kurgan#%22Golden_man%22) from the [Issyk kurgan](https://en.wikipedia.org/wiki/Issyk_kurgan), [Image](https://commons.wikimedia.org/wiki/File:The_Golden_Warrior_from_the_Issyk_kurgan.jpg) by [Derzsi Elekes Andor](https://commons.wikimedia.org/wiki/User:Derzsi_Elekes_Andor), August 18, 2019, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Description based on warrior-1.03.zip\warrior\_103\doc\ChangeLog.txt from [Engine Download List](http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Golden Warrior](https://en.wikipedia.org/wiki/Issyk_kurgan#%22Golden_man%22) from the [Issyk kurgan](https://en.wikipedia.org/wiki/Issyk_kurgan), [Image](https://commons.wikimedia.org/wiki/File:The_Golden_Warrior_from_the_Issyk_kurgan.jpg) by [Derzsi Elekes Andor](https://commons.wikimedia.org/wiki/User:Derzsi_Elekes_Andor), August 18, 2019, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Description based on warrior-1.03.zip\warrior\_103\doc\ChangeLog.txt from [Engine Download List](http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
 
 **[Up one Level](Engines "Engines")**
 

@@ -74,12 +74,12 @@ Kxf8 25.Rbc1 b5 26.Rh3 b4 27.f4 b3 28.Rb1 Rb4 29.Rb2 f5 30.exf5 Bf7 31.Rc3 Rb5 3
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sherlock Holmes](https://en.wikipedia.org/wiki/Sherlock_Holmes) in a 1904 illustration by [Sidney Paget](https://en.wikipedia.org/wiki/Sidney_Paget), [Sherlock Holmes - Wikiquote](https://en.wikiquote.org/wiki/Sherlock_Holmes), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICT Leiden 2002](https://www.csvn.nl/index.php/download/partijen/csvn-international-computer-chess-tournament/63-ict-leiden-2002), [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [2nd International CSVN Tournament (2002)](http://old.csvn.nl/gallery16.html) - Photo Gallery I
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Arthur Conan Doyle bibliography - Wikipedia](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle_bibliography)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Smullyan Problem in Sherlock Holmes book](https://groups.google.com/d/msg/rec.games.chess.computer/MyFmpXxqccg/Z6WgNuoF-hcJ) by Christopher Heckman, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 18, 2013
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Comet Holmes from Wikipedia](https://en.wikipedia.org/wiki/Comet_Holmes)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sherlock Holmes](https://en.wikipedia.org/wiki/Sherlock_Holmes) in a 1904 illustration by [Sidney Paget](https://en.wikipedia.org/wiki/Sidney_Paget), [Sherlock Holmes - Wikiquote](https://en.wikiquote.org/wiki/Sherlock_Holmes), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICT Leiden 2002](https://www.csvn.nl/index.php/download/partijen/csvn-international-computer-chess-tournament/63-ict-leiden-2002), [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [2nd International CSVN Tournament (2002)](http://old.csvn.nl/gallery16.html) - Photo Gallery I
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Arthur Conan Doyle bibliography - Wikipedia](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle_bibliography)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Smullyan Problem in Sherlock Holmes book](https://groups.google.com/d/msg/rec.games.chess.computer/MyFmpXxqccg/Z6WgNuoF-hcJ) by Christopher Heckman, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 18, 2013
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Comet Holmes from Wikipedia](https://en.wikipedia.org/wiki/Comet_Holmes)
 
 **[Up one Level](Engines "Engines")**
 

@@ -48,13 +48,13 @@ a chess program by [Eric van Riet Paap](Eric_van_Riet_Paap "Eric van Riet Paap")
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chinese character](https://en.wikipedia.org/wiki/Chinese_characters) for "nothing", [Chinese](https://en.wikipedia.org/wiki/Chinese_language): [wú](https://en.wikipedia.org/wiki/Mu_%28negative%29) ([Japanese](https://en.wikipedia.org/wiki/Japanese_language): mu). It figures in the famous [Zhaozhou's](https://en.wikipedia.org/wiki/Zhaozhou_Congshen) dog [kōan](https://en.wikipedia.org/wiki/K%C5%8Dan), [Zen from Wikipedia](https://en.wikipedia.org/wiki/Zen)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [M50743](http://www.schach-computer.info/wiki/index.php/M50743) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). _Report on the 8th Dutch National Computer-Chess Championship_. [ICCA Journal](ICGA_Journal "ICGA Journal") Vol. 11, No. 4, pp. 196-198
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mephisto Mini](http://www.schach-computer.info/wiki/index.php/Mephisto_Mini) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Fidelity Marauder](http://www.schach-computer.info/wiki/index.php/Fidelity_Marauder) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Fidelity Tiny Chess (1991)](http://www.spacious-mind.com/html/tiny.html) by [Eric van Riet Paap](Eric_van_Riet_Paap "Eric van Riet Paap"), from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [M50747](http://www.schach-computer.info/wiki/index.php/M50747) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chinese character](https://en.wikipedia.org/wiki/Chinese_characters) for "nothing", [Chinese](https://en.wikipedia.org/wiki/Chinese_language): [wú](https://en.wikipedia.org/wiki/Mu_%28negative%29) ([Japanese](https://en.wikipedia.org/wiki/Japanese_language): mu). It figures in the famous [Zhaozhou's](https://en.wikipedia.org/wiki/Zhaozhou_Congshen) dog [kōan](https://en.wikipedia.org/wiki/K%C5%8Dan), [Zen from Wikipedia](https://en.wikipedia.org/wiki/Zen)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [M50743](http://www.schach-computer.info/wiki/index.php/M50743) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). _Report on the 8th Dutch National Computer-Chess Championship_. [ICCA Journal](ICGA_Journal "ICGA Journal") Vol. 11, No. 4, pp. 196-198
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mephisto Mini](http://www.schach-computer.info/wiki/index.php/Mephisto_Mini) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fidelity Marauder](http://www.schach-computer.info/wiki/index.php/Fidelity_Marauder) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fidelity Tiny Chess (1991)](http://www.spacious-mind.com/html/tiny.html) by [Eric van Riet Paap](Eric_van_Riet_Paap "Eric van Riet Paap"), from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [M50747](http://www.schach-computer.info/wiki/index.php/M50747) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
 
 **[Up one level](Engines "Engines")**
 

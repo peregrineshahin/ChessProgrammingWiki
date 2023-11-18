@@ -37,10 +37,10 @@ So there were a total of five people. There was the initial four were, besides m
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Michael A. Lieberman - EECS at UC Berkeley](https://www2.eecs.berkeley.edu/Faculty/Homepages/lieberman.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Energy (ENE) - EECS at UC Berkeley](https://www2.eecs.berkeley.edu/Research/Areas/ENE/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alan Kotok](Alan_Kotok "Alan Kotok") (**1962**). *[Artificial Intelligence Project - MIT Computation Center: Memo 41 - A Chess Playing Program](http://www.kotok.org/AI_Memo_41.html)*.
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Highlights of Alan Kotok Oral History](https://www.computerhistory.org/chess/orl-433444ecc827d/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), November 15, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Michael A. Lieberman - EECS at UC Berkeley](https://www2.eecs.berkeley.edu/Faculty/Homepages/lieberman.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Energy (ENE) - EECS at UC Berkeley](https://www2.eecs.berkeley.edu/Research/Areas/ENE/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alan Kotok](Alan_Kotok "Alan Kotok") (**1962**). *[Artificial Intelligence Project - MIT Computation Center: Memo 41 - A Chess Playing Program](http://www.kotok.org/AI_Memo_41.html)*.
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Highlights of Alan Kotok Oral History](https://www.computerhistory.org/chess/orl-433444ecc827d/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), November 15, 2004
 
 **[Up one level](People "People")**
 

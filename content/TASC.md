@@ -44,17 +44,17 @@ In 1994, TASC, and their primary US distributor [ICD Corporation](index.php?titl
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tasc.ChessSystem Home](http://www.ismenio.com/tasc/) (archived version by [Ismenio Sousa](index.php?title=Ismenio_Sousa&action=edit&redlink=1 "Ismenio Sousa (page does not exist)"))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Besloten Vennootschap (BV) from Wikipedia](https://en.wikipedia.org/wiki/Besloten_Vennootschap)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Wil Sparreboom - LinkedIn](http://nl.linkedin.com/pub/wil-sparreboom/14/983/883)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Tutor & Chessica - Products](http://www.newinchess.com/Chess_Tutor___Chessica-p-2436.html) - [New In Chess](https://en.wikipedia.org/wiki/New_In_Chess)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Brehn Corp, Margate City, New Jersey NJ - Engineering Services](http://www.corpdetails.com/us-companies/New-Jersey/438742-engineering-accounting-research-management-related-sevices/brehn-corp-us)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Patent US5129654 - Electronic game apparatus - Google Patents](http://www.google.com/patents/US5129654)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Tasc R30 v 2.5?](https://www.stmintz.com/ccc/index.php?id=67909) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 08, 1999
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: What happened to TASC?](https://www.stmintz.com/ccc/index.php?id=194531) by [Steven Schwartz](Steven_Schwartz "Steven Schwartz"), [CCC](CCC "CCC"), October 27, 2001
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [PlainSite :: Flashlight :: Case No. 1:94-cv-03770-JEI: BREHN CORPORATION v. TASC BV, et al.](http://www.plainsite.org/flashlight/case.html?id=325396)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [United States District Court S.D. New York, BREHN CORPORATION (Plaintiff), TASC BV, A FOREIGN CORPORATION, I.C.D. Corporation and U.S. Chess Federation (Defendants), September 23, 1997](http://ipmall.info/hosted_resources/Markman/pdfFiles/1997.09.23_BREHN_CORPORATION_v._TASC_BV_A_FOREIGN_CORPORATION_ICD.pdf) (pdf)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Re: To Johan de Koning: Please convince Tasc to begin production of the R30!](https://www.stmintz.com/ccc/index.php?id=297891) by [Johan de Koning](Johan_de_Koning "Johan de Koning"), [CCC](CCC "CCC"), May 24, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tasc.ChessSystem Home](http://www.ismenio.com/tasc/) (archived version by [Ismenio Sousa](index.php?title=Ismenio_Sousa&action=edit&redlink=1 "Ismenio Sousa (page does not exist)"))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Besloten Vennootschap (BV) from Wikipedia](https://en.wikipedia.org/wiki/Besloten_Vennootschap)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Wil Sparreboom - LinkedIn](http://nl.linkedin.com/pub/wil-sparreboom/14/983/883)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Tutor & Chessica - Products](http://www.newinchess.com/Chess_Tutor___Chessica-p-2436.html) - [New In Chess](https://en.wikipedia.org/wiki/New_In_Chess)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Brehn Corp, Margate City, New Jersey NJ - Engineering Services](http://www.corpdetails.com/us-companies/New-Jersey/438742-engineering-accounting-research-management-related-sevices/brehn-corp-us)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Patent US5129654 - Electronic game apparatus - Google Patents](http://www.google.com/patents/US5129654)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Tasc R30 v 2.5?](https://www.stmintz.com/ccc/index.php?id=67909) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 08, 1999
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: What happened to TASC?](https://www.stmintz.com/ccc/index.php?id=194531) by [Steven Schwartz](Steven_Schwartz "Steven Schwartz"), [CCC](CCC "CCC"), October 27, 2001
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [PlainSite :: Flashlight :: Case No. 1:94-cv-03770-JEI: BREHN CORPORATION v. TASC BV, et al.](http://www.plainsite.org/flashlight/case.html?id=325396)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [United States District Court S.D. New York, BREHN CORPORATION (Plaintiff), TASC BV, A FOREIGN CORPORATION, I.C.D. Corporation and U.S. Chess Federation (Defendants), September 23, 1997](http://ipmall.info/hosted_resources/Markman/pdfFiles/1997.09.23_BREHN_CORPORATION_v._TASC_BV_A_FOREIGN_CORPORATION_ICD.pdf) (pdf)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: To Johan de Koning: Please convince Tasc to begin production of the R30!](https://www.stmintz.com/ccc/index.php?id=297891) by [Johan de Koning](Johan_de_Koning "Johan de Koning"), [CCC](CCC "CCC"), May 24, 2003
 
 **[Up one Level](Organizations "Organizations")**
 

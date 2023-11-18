@@ -61,9 +61,9 @@ Since version **3** in November 2016, Tarrasch provides sophisticated [Database]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GitHub - billforsternz/tarrasch-chess-gui: A portable, simple, desktop workbench for chess players and analysts](https://github.com/billforsternz/tarrasch-chess-gui)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Tarrasch Chess GUI - News](https://triplehappy.com/News.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Tarrasch Chess GUI](https://triplehappy.com/Home.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GitHub - billforsternz/tarrasch-chess-gui: A portable, simple, desktop workbench for chess players and analysts](https://github.com/billforsternz/tarrasch-chess-gui)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Tarrasch Chess GUI - News](https://triplehappy.com/News.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Tarrasch Chess GUI](https://triplehappy.com/Home.html)
 
 **[Up one Level](GUI "GUI")**
 

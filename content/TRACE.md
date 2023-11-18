@@ -91,8 +91,8 @@ cxd6 37.c7 Kg7 38.Rd8 d5 39.Rxf8 Bxf8 40.c8=Q a5 41.h4 Bc5 42.Qd8 Be3 43.h5 Bd4 
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Example of [solar coronal loops](https://en.wikipedia.org/wiki/Coronal_loop) observed by the Transition Region And Coronal Explorer ([TRACE](https://en.wikipedia.org/wiki/TRACE)), 171 [Å](https://en.wikipedia.org/wiki/Angstrom) filter. These loops have a temperature of approximately 106 [K](https://en.wikipedia.org/wiki/Kelvin). These loops contrast greatly with the cool [chromosphere](https://en.wikipedia.org/wiki/Chromosphere) below, [NASA](https://en.wikipedia.org/wiki/NASA) image 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [TRACE Home](http://www.members.optusnet.com.au/~john.boyd/)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Example of [solar coronal loops](https://en.wikipedia.org/wiki/Coronal_loop) observed by the Transition Region And Coronal Explorer ([TRACE](https://en.wikipedia.org/wiki/TRACE)), 171 [Å](https://en.wikipedia.org/wiki/Angstrom) filter. These loops have a temperature of approximately 106 [K](https://en.wikipedia.org/wiki/Kelvin). These loops contrast greatly with the cool [chromosphere](https://en.wikipedia.org/wiki/Chromosphere) below, [NASA](https://en.wikipedia.org/wiki/NASA) image 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TRACE Home](http://www.members.optusnet.com.au/~john.boyd/)
 
 **[Up one Level](Engines "Engines")**
 

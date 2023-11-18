@@ -107,13 +107,13 @@ accepted the proposal the following year, renamed *World Chess Hall of Fame and 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Excalibur Electronics, Inc. - Electronics Industry Business Directory](http://electronicsindustrybusinessdirectory.com/Listing/Company/32520)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1992**). *Excalibur Electronics*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 3, No. 1, pp. 5
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Excalibur Electronic Chess Computer Collection](http://www.spacious-mind.com/html/excalibur.html), [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fidelity Electronics from ChessComputers.org](http://www.ismenio.com/fidelity.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [EB Excalibur Completes Acquisition of Certain Assets of Excalibur Electronics – Sawaya Partners., LLC](https://www.sawayapartners.com/eb-excalibur-completes-acquisition-of-certain-assets-of-excalibur-electronics/), July 7, 2009
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [The United States Chess Federation - U.S. Chess Trust 501](http://main.uschess.org/content/view/7485/5/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [World Chess Hall of Fame from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Hall_of_Fame)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Excalibur Electronics, Inc. - Electronics Industry Business Directory](http://electronicsindustrybusinessdirectory.com/Listing/Company/32520)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1992**). *Excalibur Electronics*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 3, No. 1, pp. 5
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Excalibur Electronic Chess Computer Collection](http://www.spacious-mind.com/html/excalibur.html), [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fidelity Electronics from ChessComputers.org](http://www.ismenio.com/fidelity.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [EB Excalibur Completes Acquisition of Certain Assets of Excalibur Electronics – Sawaya Partners., LLC](https://www.sawayapartners.com/eb-excalibur-completes-acquisition-of-certain-assets-of-excalibur-electronics/), July 7, 2009
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The United States Chess Federation - U.S. Chess Trust 501](http://main.uschess.org/content/view/7485/5/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [World Chess Hall of Fame from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Hall_of_Fame)
 
 **[Up one Level](Organizations "Organizations")**
 

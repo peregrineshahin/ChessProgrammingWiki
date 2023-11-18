@@ -25,9 +25,9 @@ The GNU Chess 5 Header comment mention GNU Chess is based on the two research pr
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [cobalt](https://en.wikipedia.org/wiki/Cobalt) chips, [electrolytically](https://en.wikipedia.org/wiki/Electrolysis) refined, as well as a high [purity](https://en.wikipedia.org/wiki/Purity) (99.8% = [2N8](<https://en.wikipedia.org/wiki/Nine_(purity)>)) 1 [cm³](https://en.wikipedia.org/wiki/Cubic_centimetre) cobalt cube for comparison, [Image](https://commons.wikimedia.org/wiki/File:Kobalt_electrolytic_and_1cm3_cube.jpg) by [Alchemist-hp](https://commons.wikimedia.org/wiki/User:Alchemist-hp), September 19, 2010, [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GNU Chess copyright note](https://svn.exactcode.de/t2/trunk/package/games/gnuchess/gnuchess.desc)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [gnuchess/common.h at master · heisencoder/gnuchess · GitHub](https://github.com/heisencoder/gnuchess/blob/master/src/common.h)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [cobalt](https://en.wikipedia.org/wiki/Cobalt) chips, [electrolytically](https://en.wikipedia.org/wiki/Electrolysis) refined, as well as a high [purity](https://en.wikipedia.org/wiki/Purity) (99.8% = [2N8](<https://en.wikipedia.org/wiki/Nine_(purity)>)) 1 [cm³](https://en.wikipedia.org/wiki/Cubic_centimetre) cobalt cube for comparison, [Image](https://commons.wikimedia.org/wiki/File:Kobalt_electrolytic_and_1cm3_cube.jpg) by [Alchemist-hp](https://commons.wikimedia.org/wiki/User:Alchemist-hp), September 19, 2010, [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GNU Chess copyright note](https://svn.exactcode.de/t2/trunk/package/games/gnuchess/gnuchess.desc)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [gnuchess/common.h at master · heisencoder/gnuchess · GitHub](https://github.com/heisencoder/gnuchess/blob/master/src/common.h)
 
 **[Up one Level](Engines "Engines")**
 

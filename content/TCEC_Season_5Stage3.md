@@ -1546,11 +1546,11 @@ The Season 5 Superfinal between Stage 4 top two engines [Komodo](Komodo "Komodo"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Don Dailey, 1956-2013](http://www.talkchess.com/forum/viewtopic.php?t=50189) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 23, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Interviews with Freestylers](http://www.rybkachess.com/docs/freestylers_version_2.htm) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), Spring 2007
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cato the Younger from Wikipedia](https://en.wikipedia.org/wiki/Cato_the_Younger)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Roanoke Star from Wikipedia](https://en.wikipedia.org/wiki/Roanoke_Star)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Don Dailey, 1956-2013](http://www.talkchess.com/forum/viewtopic.php?t=50189) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 23, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Interviews with Freestylers](http://www.rybkachess.com/docs/freestylers_version_2.htm) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), Spring 2007
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cato the Younger from Wikipedia](https://en.wikipedia.org/wiki/Cato_the_Younger)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Roanoke Star from Wikipedia](https://en.wikipedia.org/wiki/Roanoke_Star)
 
 **[Up one level](TCEC "TCEC")**
 

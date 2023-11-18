@@ -37,10 +37,10 @@ As game programmer, he is author of the [KriegSpiel](KriegSpiel "KriegSpiel") bo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Austin Parker with Siver Medal at the [11th Computer Olympiad, KriegSpiel](11th_Computer_Olympiad#KriegSpiel "11th Computer Olympiad"), Image clipped from [ICGA Olympiad 2006 Photos](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2006/fotos/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dana Nau's Students](http://www.cs.umd.edu/~nau/students.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Brandon Wilson](index.php?title=Brandon_Wilson&action=edit&redlink=1 "Brandon Wilson (page does not exist)"), Austin Parker, [Dana S. Nau](Dana_S._Nau "Dana S. Nau") (**2009**). *Error Minimizing Minimax: Avoiding Search Pathology in Game Trees*. [pdf](http://www.cs.umd.edu/%7Ebswilson/papers/pgamePathology.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Austin Parker](https://dblp.uni-trier.de/pers/hd/p/Parker:Austin)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Austin Parker with Siver Medal at the [11th Computer Olympiad, KriegSpiel](11th_Computer_Olympiad#KriegSpiel "11th Computer Olympiad"), Image clipped from [ICGA Olympiad 2006 Photos](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2006/fotos/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dana Nau's Students](http://www.cs.umd.edu/~nau/students.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Brandon Wilson](index.php?title=Brandon_Wilson&action=edit&redlink=1 "Brandon Wilson (page does not exist)"), Austin Parker, [Dana S. Nau](Dana_S._Nau "Dana S. Nau") (**2009**). *Error Minimizing Minimax: Avoiding Search Pathology in Game Trees*. [pdf](http://www.cs.umd.edu/%7Ebswilson/papers/pgamePathology.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Austin Parker](https://dblp.uni-trier.de/pers/hd/p/Parker:Austin)
 
 **[Up one level](People "People")**
 

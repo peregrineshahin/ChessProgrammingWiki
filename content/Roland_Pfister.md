@@ -47,10 +47,10 @@ Roland Pfister and [Ulrich Türke](Ulrich_T%C3%BCrke "Ulrich Türke"), [Aegon 19
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Roland Pfister's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=72)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [1st International CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [ICT 2001](ICT_2001 "ICT 2001")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Roland Pfister's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=72)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [1st International CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [ICT 2001](ICT_2001 "ICT 2001")
 
 **[Up one level](People "People")**
 

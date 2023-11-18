@@ -193,15 +193,15 @@ for (i = 0; i < 64; ++i) { /* loop over all squares (no piece list) */
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Edward W. Kozdrowicki](Ed_Kozdrowicki "Ed Kozdrowicki"), [Dennis W. Cooper](Dennis_Cooper "Dennis Cooper") (**1973**). *[COKO III: The Cooper-Koz Chess Program](https://www.semanticscholar.org/paper/COKO-III%3A-The-Cooper-Koz-Chess-Program-Kozdrowicki-Cooper/8ca0c0f08ba564883b96f6126e2c0c3745fe31e7)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 16, 7, Fig. 2
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dan Spracklen](Dan_Spracklen "Dan Spracklen"), [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1978**). *First Steps in Computer Chess Programming*. [BYTE, Vol. 3, No. 10](Byte_Magazine#BYTE310 "Byte Magazine"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/4-4.First_Steps.Byte_Magazine/First_Steps_in_Computer_Chess_Programing.Spracklen-Dan_Kathe.Byte_Magazine.Oct-1978.062303035.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sargon Z80 assembly listing](http://www.andreadrian.de/schach/sargon.asm) by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"), hosted by [Andre Adrian](Andre_Adrian "Andre Adrian")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [TSCP - data.c](https://jim.sh/svn/jim/vendor/microwindows/current/src/demos/tuxchess/data.c)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [TSCP - data.c](https://jim.sh/svn/jim/vendor/microwindows/current/src/demos/tuxchess/data.c)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [mailbox & CPW](http://www.talkchess.com/forum/viewtopic.php?t=48164) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), May 31, 2013
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [TSCP - data.c](https://jim.sh/svn/jim/vendor/microwindows/current/src/demos/tuxchess/data.c)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [TSCP - board.c](https://jim.sh/svn/jim/vendor/microwindows/current/src/demos/tuxchess/board.c), slightly modified
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Edward W. Kozdrowicki](Ed_Kozdrowicki "Ed Kozdrowicki"), [Dennis W. Cooper](Dennis_Cooper "Dennis Cooper") (**1973**). *[COKO III: The Cooper-Koz Chess Program](https://www.semanticscholar.org/paper/COKO-III%3A-The-Cooper-Koz-Chess-Program-Kozdrowicki-Cooper/8ca0c0f08ba564883b96f6126e2c0c3745fe31e7)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 16, 7, Fig. 2
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dan Spracklen](Dan_Spracklen "Dan Spracklen"), [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1978**). *First Steps in Computer Chess Programming*. [BYTE, Vol. 3, No. 10](Byte_Magazine#BYTE310 "Byte Magazine"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/4-4.First_Steps.Byte_Magazine/First_Steps_in_Computer_Chess_Programing.Spracklen-Dan_Kathe.Byte_Magazine.Oct-1978.062303035.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sargon Z80 assembly listing](http://www.andreadrian.de/schach/sargon.asm) by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"), hosted by [Andre Adrian](Andre_Adrian "Andre Adrian")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [TSCP - data.c](https://jim.sh/svn/jim/vendor/microwindows/current/src/demos/tuxchess/data.c)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [TSCP - data.c](https://jim.sh/svn/jim/vendor/microwindows/current/src/demos/tuxchess/data.c)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [mailbox & CPW](http://www.talkchess.com/forum/viewtopic.php?t=48164) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), May 31, 2013
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [TSCP - data.c](https://jim.sh/svn/jim/vendor/microwindows/current/src/demos/tuxchess/data.c)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [TSCP - board.c](https://jim.sh/svn/jim/vendor/microwindows/current/src/demos/tuxchess/board.c), slightly modified
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one Level](Mailbox "Mailbox")**
 

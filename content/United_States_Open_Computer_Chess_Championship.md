@@ -48,9 +48,9 @@ The **United States Open Computer Chess Championship** was held four times in th
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  Editors (**1985**). *The US Open Computer-Chess Championship*. [ICCA Journal, Vol. 8, No. 3](ICGA_Journal#8_3 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Re: Who was Sid Samole?](https://www.stmintz.com/ccc/index.php?id=139230) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), November 16, 2000
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *Ethics in Computer Chess Tournaments: A Case in Point*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") Fall/Winter 1986 Edition, pp. 126-129
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  Editors (**1985**). *The US Open Computer-Chess Championship*. [ICCA Journal, Vol. 8, No. 3](ICGA_Journal#8_3 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Re: Who was Sid Samole?](https://www.stmintz.com/ccc/index.php?id=139230) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), November 16, 2000
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *Ethics in Computer Chess Tournaments: A Case in Point*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") Fall/Winter 1986 Edition, pp. 126-129
 
 **[Up one level](Tournaments_and_Matches "Tournaments and Matches")**
 

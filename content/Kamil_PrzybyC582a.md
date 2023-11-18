@@ -31,8 +31,8 @@ As computer chess programmer, Kamil Przybyła is author of chess engine [Enigma]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from Kamil Przybyła operating [Enigma](Enigma "Enigma") at [PCCC 2003](PCCC_2003 "PCCC 2003"), [II Mistrzostwa Polski Programów Szachowych - Autorzy przy swoich programach](http://mpps.maciej.szmit.info/mpps-2/autorzy/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Przybyla, Kamil FIDE Chess Profile](https://ratings.fide.com/profile/1137522)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from Kamil Przybyła operating [Enigma](Enigma "Enigma") at [PCCC 2003](PCCC_2003 "PCCC 2003"), [II Mistrzostwa Polski Programów Szachowych - Autorzy przy swoich programach](http://mpps.maciej.szmit.info/mpps-2/autorzy/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Przybyla, Kamil FIDE Chess Profile](https://ratings.fide.com/profile/1137522)
 
 **[Up one level](People "People")**
 

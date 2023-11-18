@@ -100,9 +100,9 @@ Simplex was first published with sources in 2010, while its development already 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The four simplexes which can be fully represented in 3D. Created in [Blender](https://en.wikipedia.org/wiki/Blender_(software)) by Hjhornbeck, April 08, 2017, [Simplex from Wikipedia](https://en.wikipedia.org/wiki/Simplex), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Simplex Updated](http://www.talkchess.com/forum/viewtopic.php?t=33637) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), April 05, 2010
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1997**). *[How DarkThought Plays Chess](http://people.csail.mit.edu/heinz/dt/node2.html).* [ICCA Journal, Vol. 20, No. 3](ICGA_Journal#20_3 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The four simplexes which can be fully represented in 3D. Created in [Blender](https://en.wikipedia.org/wiki/Blender_(software)) by Hjhornbeck, April 08, 2017, [Simplex from Wikipedia](https://en.wikipedia.org/wiki/Simplex), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Simplex Updated](http://www.talkchess.com/forum/viewtopic.php?t=33637) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), April 05, 2010
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1997**). *[How DarkThought Plays Chess](http://people.csail.mit.edu/heinz/dt/node2.html).* [ICCA Journal, Vol. 20, No. 3](ICGA_Journal#20_3 "ICGA Journal")
 
 **[Up one Level](Engines "Engines")**
 

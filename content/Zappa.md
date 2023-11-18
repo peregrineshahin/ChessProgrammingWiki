@@ -248,28 +248,28 @@ In 2010, [Zach Wegner](Zach_Wegner "Zach Wegner") started to work with [Anthony 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Frank Zappa](Category:Frank_Zappa "Category:Frank Zappa"), [Records on wheels, Toronto](https://www.blogto.com/music/2016/03/10_lost_but_not_forgotten_record_stores_in_toronto/), September 24, 1977, [Frank Zappa - Wikimedia Commons](https://commons.wikimedia.org/wiki/Frank_Zappa)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WM Mexiko-City 2007: 108 Bilder, Namen, Themen, kommentiert, ...](http://www.chesstigers.de/index_news.php?id=1269&rubrik=3) (German) [Chess Tigers News](http://www.chesstigers.de/index.php) October 08, 2007
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Zappa fillets the Fish: Mexico 2007](http://www.acoz.net/zappa/mexico/) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") (**2007**). *Zappa vs. Rybka*. [ICGA Journal, Vol. 30, No. 4](ICGA_Journal#30_4 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Zappa Chess Engine](http://www.acoz.net/zappa/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> By [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Zappa - Junior](https://www.stmintz.com/ccc/index.php?id=443224) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie"), [CCC](CCC "CCC"), August 19, 2005
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Zappa Chess Engine - Genealogy](http://www.acoz.net/zappa/#Name)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: Zappa Retail: No UCI?](https://www.stmintz.com/ccc/index.php?id=447511) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie"), [CCC](CCC "CCC"), September 04, 2005
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [World Computer Chess Champion: Zap!Chess](http://www.chessbase.com/newsdetail.asp?newsid=3043), [ChessBase News](ChessBase "ChessBase"), April 13, 2006
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [No Commercial Potential: The Saga Of Frank Zappa](http://www.amazon.com/No-Commercial-Potential-Frank-Zappa/dp/0306807106)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Frank Zappa - Wikiquote](http://en.wikiquote.org/wiki/Frank_Zappa)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [No Commercial Potential: The Saga of Frank Zappa - Zappa Wiki Jawaka](http://wiki.killuglyradio.com/wiki/No_Commercial_Potential:_The_Saga_of_Frank_Zappa)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [The Zappa Attack Table Code](https://www.stmintz.com/ccc/index.php?id=363519) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie"), [CCC](CCC "CCC"), May 05, 2004
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") (**2005**). *[The Effect of Hash Signature Collisions in a Chess Program](http://www.cis.uab.edu/hyatt/collisions.html)*. [ICGA Journal, Vol. 28, No. 3](ICGA_Journal#28_3 "ICGA Journal")
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [World Computer Chess Champion: Zap!Chess](http://www.chessbase.com/newsdetail.asp?newsid=3043), [ChessBase News](ChessBase "ChessBase"), April 13, 2006
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Zappa scaling #s](https://www.stmintz.com/ccc/index.php?id=444686) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie"), [CCC](CCC "CCC"), August 23, 2005
-18. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [bad news from zappa ...](http://www.talkchess.com/forum/viewtopic.php?t=20058) by Powell, [CCC](CCC "CCC"), Mar 09, 2008
-19. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [Zach, is this true?](http://www.talkchess.com/forum/viewtopic.php?t=34749) by [Gabor Szots](Gabor_Szots "Gabor Szots"), [CCC](CCC "CCC"), June 06, 2010
-20. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [Zappa's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=58)
-21. <a id="cite-ref-21" href="#cite-note-21">[21]</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1993**). *On Telescoping Linear Evaluation Functions.* [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal"), pp. 91-94
-22. <a id="cite-ref-22" href="#cite-note-22">[22]</a> [Erwin l'Ami from Wikipedia](https://en.wikipedia.org/wiki/Erwin_l%27Ami)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Frank Zappa](Category:Frank_Zappa "Category:Frank Zappa"), [Records on wheels, Toronto](https://www.blogto.com/music/2016/03/10_lost_but_not_forgotten_record_stores_in_toronto/), September 24, 1977, [Frank Zappa - Wikimedia Commons](https://commons.wikimedia.org/wiki/Frank_Zappa)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WM Mexiko-City 2007: 108 Bilder, Namen, Themen, kommentiert, ...](http://www.chesstigers.de/index_news.php?id=1269&rubrik=3) (German) [Chess Tigers News](http://www.chesstigers.de/index.php) October 08, 2007
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Zappa fillets the Fish: Mexico 2007](http://www.acoz.net/zappa/mexico/) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") (**2007**). *Zappa vs. Rybka*. [ICGA Journal, Vol. 30, No. 4](ICGA_Journal#30_4 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Zappa Chess Engine](http://www.acoz.net/zappa/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> By [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Zappa - Junior](https://www.stmintz.com/ccc/index.php?id=443224) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie"), [CCC](CCC "CCC"), August 19, 2005
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Zappa Chess Engine - Genealogy](http://www.acoz.net/zappa/#Name)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: Zappa Retail: No UCI?](https://www.stmintz.com/ccc/index.php?id=447511) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie"), [CCC](CCC "CCC"), September 04, 2005
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [World Computer Chess Champion: Zap!Chess](http://www.chessbase.com/newsdetail.asp?newsid=3043), [ChessBase News](ChessBase "ChessBase"), April 13, 2006
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [No Commercial Potential: The Saga Of Frank Zappa](http://www.amazon.com/No-Commercial-Potential-Frank-Zappa/dp/0306807106)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Frank Zappa - Wikiquote](http://en.wikiquote.org/wiki/Frank_Zappa)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [No Commercial Potential: The Saga of Frank Zappa - Zappa Wiki Jawaka](http://wiki.killuglyradio.com/wiki/No_Commercial_Potential:_The_Saga_of_Frank_Zappa)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [The Zappa Attack Table Code](https://www.stmintz.com/ccc/index.php?id=363519) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie"), [CCC](CCC "CCC"), May 05, 2004
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") (**2005**). *[The Effect of Hash Signature Collisions in a Chess Program](http://www.cis.uab.edu/hyatt/collisions.html)*. [ICGA Journal, Vol. 28, No. 3](ICGA_Journal#28_3 "ICGA Journal")
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [World Computer Chess Champion: Zap!Chess](http://www.chessbase.com/newsdetail.asp?newsid=3043), [ChessBase News](ChessBase "ChessBase"), April 13, 2006
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Zappa scaling #s](https://www.stmintz.com/ccc/index.php?id=444686) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie"), [CCC](CCC "CCC"), August 23, 2005
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [bad news from zappa ...](http://www.talkchess.com/forum/viewtopic.php?t=20058) by Powell, [CCC](CCC "CCC"), Mar 09, 2008
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Zach, is this true?](http://www.talkchess.com/forum/viewtopic.php?t=34749) by [Gabor Szots](Gabor_Szots "Gabor Szots"), [CCC](CCC "CCC"), June 06, 2010
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Zappa's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=58)
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1993**). *On Telescoping Linear Evaluation Functions.* [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal"), pp. 91-94
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Erwin l'Ami from Wikipedia](https://en.wikipedia.org/wiki/Erwin_l%27Ami)
 
 **[Up one level](Engines "Engines")**
 

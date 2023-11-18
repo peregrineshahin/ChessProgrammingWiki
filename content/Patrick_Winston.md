@@ -98,15 +98,15 @@ Winston is also author of various books on [Programming Languages](Programming "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [How to Speak: 7 Speaking Tips from Patrick Henry Winston](http://sixminutes.dlugan.com/2008/03/24/speaking-tips-patrick-henry-winston-speak/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Patrick Winston from Wikipedia](https://en.wikipedia.org/wiki/Patrick_Winston)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Patrick Winston (**1970**).  *Learning Structural Descriptions from Examples*. Ph.D. thesis, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Table of Contents for Artificial Intelligence](http://people.csail.mit.edu/phw/Books/AITABLE.HTML)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Books by Patrick Henry Winston and Friends](http://people.csail.mit.edu/phw/Books/index.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Books by Patrick Henry Winston and Friends](http://people.csail.mit.edu/phw/Books/index.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Patrick Henry Winston](https://dblp.uni-trier.de/pers/hd/w/Winston:Patrick_Henry.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Computer Learns to Hack Chess](http://hackaday.com/2015/10/02/computer-learns-to-hack-chess/#more-172231) by [Al Williams](http://hackaday.com/author/wd5gnr1/), [Hackaday](https://en.wikipedia.org/wiki/Hackaday), October 02, 2015 » [Giraffe](Giraffe "Giraffe")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Chess hackery](http://www.talkchess.com/forum/viewtopic.php?t=57817) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), October 02, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [How to Speak: 7 Speaking Tips from Patrick Henry Winston](http://sixminutes.dlugan.com/2008/03/24/speaking-tips-patrick-henry-winston-speak/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Patrick Winston from Wikipedia](https://en.wikipedia.org/wiki/Patrick_Winston)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Patrick Winston (**1970**).  *Learning Structural Descriptions from Examples*. Ph.D. thesis, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Table of Contents for Artificial Intelligence](http://people.csail.mit.edu/phw/Books/AITABLE.HTML)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Books by Patrick Henry Winston and Friends](http://people.csail.mit.edu/phw/Books/index.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Books by Patrick Henry Winston and Friends](http://people.csail.mit.edu/phw/Books/index.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Patrick Henry Winston](https://dblp.uni-trier.de/pers/hd/w/Winston:Patrick_Henry.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Computer Learns to Hack Chess](http://hackaday.com/2015/10/02/computer-learns-to-hack-chess/#more-172231) by [Al Williams](http://hackaday.com/author/wd5gnr1/), [Hackaday](https://en.wikipedia.org/wiki/Hackaday), October 02, 2015 » [Giraffe](Giraffe "Giraffe")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chess hackery](http://www.talkchess.com/forum/viewtopic.php?t=57817) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), October 02, 2015
 
 **[Up one level](People "People")**
 

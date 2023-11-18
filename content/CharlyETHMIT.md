@@ -98,12 +98,12 @@ Bxe2 9.Qxe2 Nxe4 10.d3 Nd6 11.Qxe7+ Kxe7 12.Re1+ Kd7 13.c3 Rae8 14.Rd1 Re2 15.d4
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Outdoor group portrait of a group of Swiss yodelers in costume](https://en.wikipedia.org/wiki/File:Swiss_yodelers.jpg), 1922, Moen Photo Service, [La Crosse, WI](https://en.wikipedia.org/wiki/La_Crosse,_Wisconsin), [Yodeling from Wikipedia](https://en.wikipedia.org/wiki/Yodeling), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Description taken from [July 1, 2010 letter from Dr. Gerald Tripard](http://ljkrakauer.com/LJK/60s/tripardltr.htm), hosted by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer chess via ham radio](http://ljkrakauer.com/LJK/60s/hamchess.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The first inter-computer chess game via ham radio](http://ljkrakauer.com/LJK/60s/game1list.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [October 30, 1968 letter from Richard Greenblatt to G. Tripard](http://ljkrakauer.com/LJK/60s/greenblattltr.htm)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Games 2 and 3](http://ljkrakauer.com/LJK/60s/games23list.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Outdoor group portrait of a group of Swiss yodelers in costume](https://en.wikipedia.org/wiki/File:Swiss_yodelers.jpg), 1922, Moen Photo Service, [La Crosse, WI](https://en.wikipedia.org/wiki/La_Crosse,_Wisconsin), [Yodeling from Wikipedia](https://en.wikipedia.org/wiki/Yodeling), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Description taken from [July 1, 2010 letter from Dr. Gerald Tripard](http://ljkrakauer.com/LJK/60s/tripardltr.htm), hosted by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer chess via ham radio](http://ljkrakauer.com/LJK/60s/hamchess.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The first inter-computer chess game via ham radio](http://ljkrakauer.com/LJK/60s/game1list.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [October 30, 1968 letter from Richard Greenblatt to G. Tripard](http://ljkrakauer.com/LJK/60s/greenblattltr.htm)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Games 2 and 3](http://ljkrakauer.com/LJK/60s/games23list.htm)
 
 **[Up one Level](Engines "Engines")**
 

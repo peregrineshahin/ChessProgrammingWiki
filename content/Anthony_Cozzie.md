@@ -77,19 +77,19 @@ Press conference [Zappa versus Rybka 2007](Zappa_versus_Rybka_2007 "Zappa versus
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Anthony Cozzie's page](http://www.acoz.net/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Anthony Cozzie (**2011**). *[Detecting and Combining Programming Patterns](http://www.ideals.illinois.edu/handle/2142/24358)*. Ph.D. thesis, [University of Illinois at Urbana-Champaign](University_of_Illinois_at_Urbana-Champaign "University of Illinois at Urbana-Champaign"), advisor [Samuel T. King](Mathematician#STKing "Mathematician")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CV Anthony Cozzie](http://www.acoz.net/cv_acozzie.pdf) (pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Zappa - Retirement](http://www.acoz.net/zappa/#retirement)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Subject: CCC Retirement](https://www.stmintz.com/ccc/index.php?id=479353) by *Zappa*, [CCC](CCC "CCC"), January 13, 2006
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Zappa Chess Engine](https://netfiles.uiuc.edu/acozzie2/www/zappa/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Chessprogram Zappa from Wikipedia](https://en.wikipedia.org/wiki/Zappa_%28chess%29)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), August 19, 2005
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Zappa - Junior](https://www.stmintz.com/ccc/index.php?id=443224) by Anthony Cozzie, [CCC](CCC "CCC"), August 19, 2005
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Reykjavík 2005 - Chess - Round 7 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=21&round=7&id=3)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [WM Mexiko-City 2007: 108 Bilder, Namen, Themen, kommentiert, ...](http://www.chesstigers.de/index_news.php?id=1269&rubrik=3) (German) [Chess Tigers News](http://www.chesstigers.de/index.php) October 08, 2007
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [DBLP: Anthony Cozzie](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cozzie:Anthony.html)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1993**). *On Telescoping Linear Evaluation Functions.* [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Anthony Cozzie's page](http://www.acoz.net/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Anthony Cozzie (**2011**). *[Detecting and Combining Programming Patterns](http://www.ideals.illinois.edu/handle/2142/24358)*. Ph.D. thesis, [University of Illinois at Urbana-Champaign](University_of_Illinois_at_Urbana-Champaign "University of Illinois at Urbana-Champaign"), advisor [Samuel T. King](Mathematician#STKing "Mathematician")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CV Anthony Cozzie](http://www.acoz.net/cv_acozzie.pdf) (pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Zappa - Retirement](http://www.acoz.net/zappa/#retirement)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Subject: CCC Retirement](https://www.stmintz.com/ccc/index.php?id=479353) by *Zappa*, [CCC](CCC "CCC"), January 13, 2006
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Zappa Chess Engine](https://netfiles.uiuc.edu/acozzie2/www/zappa/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chessprogram Zappa from Wikipedia](https://en.wikipedia.org/wiki/Zappa_%28chess%29)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), August 19, 2005
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Zappa - Junior](https://www.stmintz.com/ccc/index.php?id=443224) by Anthony Cozzie, [CCC](CCC "CCC"), August 19, 2005
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Reykjavík 2005 - Chess - Round 7 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=21&round=7&id=3)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [WM Mexiko-City 2007: 108 Bilder, Namen, Themen, kommentiert, ...](http://www.chesstigers.de/index_news.php?id=1269&rubrik=3) (German) [Chess Tigers News](http://www.chesstigers.de/index.php) October 08, 2007
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [DBLP: Anthony Cozzie](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Cozzie:Anthony.html)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1993**). *On Telescoping Linear Evaluation Functions.* [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal")
 
 **[Up one level](People "People")**
 

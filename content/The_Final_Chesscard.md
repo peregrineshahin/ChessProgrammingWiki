@@ -33,10 +33,10 @@ a chess playing entity by [TASC](TASC "TASC"), developed by [Marc Derksen](Marc_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CSDb - Final Chesscard Preview by Lutschers (1990)](http://csdb.dk/release/?id=36932)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Final Cartridge III Manual Project64.txt](http://ar.c64.org/wiki/Final_Cartridge_III_Manual_Project64.txt)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Welcome to Project 64!](http://project64.ath.cx/hw/fc310.txt)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [C64 Zubehör | CBMHARDWARE.DE](http://www.cbmhardware.de/misc/c64parts.php) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CSDb - Final Chesscard Preview by Lutschers (1990)](http://csdb.dk/release/?id=36932)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Final Cartridge III Manual Project64.txt](http://ar.c64.org/wiki/Final_Cartridge_III_Manual_Project64.txt)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Welcome to Project 64!](http://project64.ath.cx/hw/fc310.txt)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [C64 Zubehör | CBMHARDWARE.DE](http://www.cbmhardware.de/misc/c64parts.php) (German)
 
 **[Up one level](Engines "Engines")**
 

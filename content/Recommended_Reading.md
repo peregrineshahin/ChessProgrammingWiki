@@ -105,11 +105,11 @@ Recommended readings and viewings about computer [chess](Chess "Chess") [program
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Arasan Programmer's Guide](http://www.talkchess.com/forum/viewtopic.php?t=64364) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), June 21, 2017
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> How Rebel Plays Chess as [pdf reprint](http://members.home.nl/matador/Inside%20Rebel.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Excellent Computer-Chess Overview Paper Found!](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/7df61a100528f201) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 6, 1997
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Great article for people who wants to write a chess engine](https://www.stmintz.com/ccc/index.php?id=221364) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), April 03, 2002
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computer chess books](https://groups.google.com/g/rec.games.chess.computer/c/kecoM_YlyAM/m/NiCnP8wRgnQJ) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 05, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Arasan Programmer's Guide](http://www.talkchess.com/forum/viewtopic.php?t=64364) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), June 21, 2017
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> How Rebel Plays Chess as [pdf reprint](http://members.home.nl/matador/Inside%20Rebel.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Excellent Computer-Chess Overview Paper Found!](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/7df61a100528f201) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 6, 1997
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Great article for people who wants to write a chess engine](https://www.stmintz.com/ccc/index.php?id=221364) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), April 03, 2002
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computer chess books](https://groups.google.com/g/rec.games.chess.computer/c/kecoM_YlyAM/m/NiCnP8wRgnQJ) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 05, 1997
 
 **[Up one Level](Home "Home")**
 

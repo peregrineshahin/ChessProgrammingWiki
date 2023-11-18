@@ -17,7 +17,7 @@ a Japanese computer scientist and [Shogi](Shogi "Shogi") programmer affiliated w
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [dblp: Akira Ura](http://www.informatik.uni-trier.de/~ley/pers/hd/u/Ura:Akira.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [dblp: Akira Ura](http://www.informatik.uni-trier.de/~ley/pers/hd/u/Ura:Akira.html)
 
 **[Up one level](People "People")**
 

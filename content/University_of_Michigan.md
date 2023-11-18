@@ -36,7 +36,7 @@ title: University of Michigan
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [University of Michigan - Wikimedia Commons](https://commons.wikimedia.org/wiki/University_of_Michigan)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [University of Michigan - Wikimedia Commons](https://commons.wikimedia.org/wiki/University_of_Michigan)
 
 **[Up one Level](Organizations "Organizations")**
 

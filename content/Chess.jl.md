@@ -61,11 +61,11 @@ features a graphical board, along with a board representation link in [lichess](
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Julia (programming language) from Wikipedia](<https://en.wikipedia.org/wiki/Julia_(programming_language)>)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Is cloning a hobby?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75040&start=74) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), September 21, 2020
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Home · Chess.jl](https://romstad.github.io/Chess.jl/dev/#Introduction-1)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [API Reference · Chess.jl](https://romstad.github.io/Chess.jl/dev/api/#Square-Sets-1)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - fonsp/Pluto.jl: 🎈 Simple reactive notebooks for Julia](https://github.com/fonsp/Pluto.jl)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Julia (programming language) from Wikipedia](<https://en.wikipedia.org/wiki/Julia_(programming_language)>)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Is cloning a hobby?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75040&start=74) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), September 21, 2020
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Home · Chess.jl](https://romstad.github.io/Chess.jl/dev/#Introduction-1)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [API Reference · Chess.jl](https://romstad.github.io/Chess.jl/dev/api/#Square-Sets-1)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - fonsp/Pluto.jl: 🎈 Simple reactive notebooks for Julia](https://github.com/fonsp/Pluto.jl)
 
 **[Up one Level](Utilities "Utilities")**
 

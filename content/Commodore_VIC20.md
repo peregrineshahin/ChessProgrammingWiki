@@ -30,7 +30,7 @@ The VIC-20 has an integrated [keyboard](https://en.wikipedia.org/wiki/Computer_k
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image](https://commons.wikimedia.org/wiki/File:CBMVIC20P8.jpg) by [Cbmeeks](https://en.wikipedia.org/wiki/User:Cbmeeks), March 07, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](https://commons.wikimedia.org/wiki/File:CBMVIC20P8.jpg) by [Cbmeeks](https://en.wikipedia.org/wiki/User:Cbmeeks), March 07, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one Level](Hardware "Hardware")**
 

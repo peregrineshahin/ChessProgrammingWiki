@@ -38,14 +38,14 @@ During his time at MIT, Reid Barton worked with [Charles E. Leiserson](Charles_L
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Citations | Mathematical Association of America](https://www.maa.org/node/119508)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Harvard Mathematics Department : Reid Barton](http://www.math.harvard.edu/people/BartonReid.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Reid W. Barton Receives 2005 AMS Morgan Prize](http://www.ams.org/ams/press/morgan-barton.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Reid Barton's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=34)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Reid W. Barton](https://dblp.uni-trier.de/pers/hd/b/Barton:Reid_W=)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Reid Barton](https://dblp.uni-trier.de/pers/hd/b/Barton:Reid)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Sharkovskii's theorem from Wikipedia](https://en.wikipedia.org/wiki/Sharkovskii%27s_theorem)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Kempe's universality theorem from Wikipedia](https://en.wikipedia.org/wiki/Kempe%27s_universality_theorem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Citations | Mathematical Association of America](https://www.maa.org/node/119508)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Harvard Mathematics Department : Reid Barton](http://www.math.harvard.edu/people/BartonReid.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Reid W. Barton Receives 2005 AMS Morgan Prize](http://www.ams.org/ams/press/morgan-barton.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Reid Barton's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=34)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Reid W. Barton](https://dblp.uni-trier.de/pers/hd/b/Barton:Reid_W=)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Reid Barton](https://dblp.uni-trier.de/pers/hd/b/Barton:Reid)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Sharkovskii's theorem from Wikipedia](https://en.wikipedia.org/wiki/Sharkovskii%27s_theorem)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Kempe's universality theorem from Wikipedia](https://en.wikipedia.org/wiki/Kempe%27s_universality_theorem)
 
 **[Up one level](People "People")**
 

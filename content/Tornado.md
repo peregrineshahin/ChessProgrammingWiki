@@ -132,11 +132,11 @@ an [UCI](UCI "UCI") compliant chess engine by [Engin Üstün](Engin_%C3%9Cst%C3%
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration) image. [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Tornado from Wikipedia.de](http://de.wikipedia.org/wiki/Tornado) (German) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tornado Chess Engine](https://sites.google.com/view/tornadochess/start)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - dshawul/nnue-probe](https://github.com/dshawul/nnue-probe)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tornado Chess Engine](https://sites.google.com/view/tornadochess/start)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [using Popcount and Prefetch with SSE4 hardware support](http://www.talkchess.com/forum/viewtopic.php?t=43771) by [Engin Üstün](Engin_%C3%9Cst%C3%BCn "Engin Üstün"), [CCC](CCC "CCC"), May 19, 2012 » [Population Count](Population_Count "Population Count"), [Memory](Memory "Memory"), [SSE4](SSE4 "SSE4")
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration) image. [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Tornado from Wikipedia.de](http://de.wikipedia.org/wiki/Tornado) (German) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tornado Chess Engine](https://sites.google.com/view/tornadochess/start)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - dshawul/nnue-probe](https://github.com/dshawul/nnue-probe)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tornado Chess Engine](https://sites.google.com/view/tornadochess/start)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [using Popcount and Prefetch with SSE4 hardware support](http://www.talkchess.com/forum/viewtopic.php?t=43771) by [Engin Üstün](Engin_%C3%9Cst%C3%BCn "Engin Üstün"), [CCC](CCC "CCC"), May 19, 2012 » [Population Count](Population_Count "Population Count"), [Memory](Memory "Memory"), [SSE4](SSE4 "SSE4")
 
 **[Up one Level](Engines "Engines")**
 

@@ -31,8 +31,8 @@ As a chess player and [endgame](Endgame "Endgame") enthusiast, fascinated from [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Pregunta genérica](http://finalgenchess.ovh/phpBB3/viewtopic.php?f=3&t=21&start=3). [FinalGen EndGame Generator Forum](http://finalgenchess.ovh/phpBB3/viewforum.php?f=3), September 08, 2012
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [7 8 or more pieces tablebase generator](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=6523) by Pedro Pérez Romero, [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), March 16, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Pregunta genérica](http://finalgenchess.ovh/phpBB3/viewtopic.php?f=3&t=21&start=3). [FinalGen EndGame Generator Forum](http://finalgenchess.ovh/phpBB3/viewforum.php?f=3), September 08, 2012
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [7 8 or more pieces tablebase generator](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=6523) by Pedro Pérez Romero, [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), March 16, 2012
 
 **[Up one level](People "People")**
 

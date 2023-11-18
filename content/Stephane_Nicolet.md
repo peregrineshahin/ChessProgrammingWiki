@@ -114,10 +114,10 @@ In 2014, Stéphane Nicolet started to work on [Stockfish](Stockfish "Stockfish")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [IDF 5 : Stéphane Nicolet remporte le premier tournoi XOT parisien | Fédération Française d'Othello](https://www.ffothello.org/idf-5-stephane-nicolet-remporte-le-premier-tournoi-xot-parisien/) by Marc Tastet, June 18, 2017
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WOC history :: World Othello Federation](https://www.worldothello.org/about/world-othello-championship/woc/2007)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [C++ – Magistère Banque-Finance | Université Panthéon-Assas Paris II](https://mbfassas.com/k_course/c/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cassio - Play Othello on Macintosh](http://cassio.free.fr/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [IDF 5 : Stéphane Nicolet remporte le premier tournoi XOT parisien | Fédération Française d'Othello](https://www.ffothello.org/idf-5-stephane-nicolet-remporte-le-premier-tournoi-xot-parisien/) by Marc Tastet, June 18, 2017
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WOC history :: World Othello Federation](https://www.worldothello.org/about/world-othello-championship/woc/2007)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [C++ – Magistère Banque-Finance | Université Panthéon-Assas Paris II](https://mbfassas.com/k_course/c/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cassio - Play Othello on Macintosh](http://cassio.free.fr/)
 
 **[Up one level](People "People")**
 

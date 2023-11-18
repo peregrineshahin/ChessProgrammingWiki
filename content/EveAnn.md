@@ -94,9 +94,9 @@ Qxf3+ 21.Kh2 fxg6 22.Bxg6 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [readme.txt](http://webs.ono.com/a.valverde/readme.txt)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> based on eveann172.zip\\readme.txt
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [2007 World Computer Rapid Chess Championships | Results | PGN Download](http://compchess.org/2007PresResults.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [readme.txt](http://webs.ono.com/a.valverde/readme.txt)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> based on eveann172.zip\\readme.txt
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [2007 World Computer Rapid Chess Championships | Results | PGN Download](http://compchess.org/2007PresResults.html)
 
 **[Up one level](Engines "Engines")**
 

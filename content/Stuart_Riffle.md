@@ -35,11 +35,11 @@ Concerning computer chess, Stuart Riffle is autor of the [open source](Category:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [StuartRiffle (Stuart Riffle) · GitHub](https://github.com/StuartRiffle)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stuart Riffle | LinkedIn](https://www.linkedin.com/in/stuartriffle/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [D. Stuart Riffle Video Game Credits and Biography](https://www.mobygames.com/developer/sheet/view/developerId,14837/) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - StuartRiffle/Jaglavak: MCTS chess engine for GPU and SIMD](https://github.com/StuartRiffle/Jaglavak)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Fourier transform from Wikipedia](https://en.wikipedia.org/wiki/Fourier_transform)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [StuartRiffle (Stuart Riffle) · GitHub](https://github.com/StuartRiffle)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stuart Riffle | LinkedIn](https://www.linkedin.com/in/stuartriffle/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [D. Stuart Riffle Video Game Credits and Biography](https://www.mobygames.com/developer/sheet/view/developerId,14837/) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - StuartRiffle/Jaglavak: MCTS chess engine for GPU and SIMD](https://github.com/StuartRiffle/Jaglavak)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fourier transform from Wikipedia](https://en.wikipedia.org/wiki/Fourier_transform)
 
 **[Up one level](People "People")**
 

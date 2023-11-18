@@ -89,13 +89,13 @@ which the great computer dismisses because he has already "contemplated the very
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Googleplex Starthinker logo based on [Googleplex_Starthinker.png · master · Tsoj Tsoj / Googleplex_Starthinker · GitLab](https://gitlab.com/tsoj/Googleplex_Starthinker/-/blob/master/Googleplex_Starthinker.png)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> ["Googleplex Starthinker" chess engine](http://talkchess.com/forum3/viewtopic.php?f=2&t=69117) by [Jost Triller](Jost_Triller "Jost Triller"), [CCC](CCC "CCC"), December 02, 2018
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [src/bitboard.hpp · master · Tsoj Tsoj / Googleplex_Starthinker · GitLab](https://gitlab.com/tsoj/Googleplex_Starthinker/-/blob/master/src/bitboard.hpp#L106)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [List of The Hitchhiker's Guide to the Galaxy characters - Wikipedia](https://en.wikipedia.org/wiki/List_of_The_Hitchhiker%27s_Guide_to_the_Galaxy_characters#Googleplex_Starthinker)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Douglas Adams](Category:Douglas_Adams "Category:Douglas Adams") (**1985**). *[The Hitch-Hiker's Guide to the Galaxy: The Original Radio Scripts](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy:_The_Original_Radio_Scripts)*. Pan Books
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Googleplex Starthinker](http://starthinker.fr/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [README.md · master · Tsoj Tsoj / Googleplex_Starthinker · GitLab](https://gitlab.com/tsoj/Googleplex_Starthinker/-/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Googleplex Starthinker logo based on [Googleplex_Starthinker.png · master · Tsoj Tsoj / Googleplex_Starthinker · GitLab](https://gitlab.com/tsoj/Googleplex_Starthinker/-/blob/master/Googleplex_Starthinker.png)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> ["Googleplex Starthinker" chess engine](http://talkchess.com/forum3/viewtopic.php?f=2&t=69117) by [Jost Triller](Jost_Triller "Jost Triller"), [CCC](CCC "CCC"), December 02, 2018
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [src/bitboard.hpp · master · Tsoj Tsoj / Googleplex_Starthinker · GitLab](https://gitlab.com/tsoj/Googleplex_Starthinker/-/blob/master/src/bitboard.hpp#L106)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [List of The Hitchhiker's Guide to the Galaxy characters - Wikipedia](https://en.wikipedia.org/wiki/List_of_The_Hitchhiker%27s_Guide_to_the_Galaxy_characters#Googleplex_Starthinker)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Douglas Adams](Category:Douglas_Adams "Category:Douglas Adams") (**1985**). *[The Hitch-Hiker's Guide to the Galaxy: The Original Radio Scripts](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy:_The_Original_Radio_Scripts)*. Pan Books
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Googleplex Starthinker](http://starthinker.fr/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [README.md · master · Tsoj Tsoj / Googleplex_Starthinker · GitLab](https://gitlab.com/tsoj/Googleplex_Starthinker/-/blob/master/README.md)
 
 **[Up one Level](Engines "Engines")**
 

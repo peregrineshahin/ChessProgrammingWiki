@@ -40,10 +40,10 @@ In the early 80s, he collaborated with [Ivan Bratko](Ivan_Bratko "Ivan Bratko") 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The letter to Minister Tancig](https://groups.google.com/d/msg/soc.culture.yugoslavia/5GNtq1gokrU/m5BvgeZIXwgJ) by Vojkan S. Jaksic, [soc.culture.yugoslavia](https://groups.google.com/forum/#!forum/soc.culture.yugoslavia), July 29, 1991
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [UNESCO and Slovenia](http://pariz.veleposlanistvo.si/index.php?id=776&L=1)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), Peter Tancig, [Simona Tancig](Simona_Tancig "Simona Tancig") (**1984,1986**). *[Detection of Positional Patterns in Chess](Simona_Tancig#ChessExperiment "Simona Tancig")*. [Advances in Computer Chess 4](Advances_in_Computer_Chess_4 "Advances in Computer Chess 4")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Peter Tancig](https://dblp.uni-trier.de/pers/hd/t/Tancig:Peter.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The letter to Minister Tancig](https://groups.google.com/d/msg/soc.culture.yugoslavia/5GNtq1gokrU/m5BvgeZIXwgJ) by Vojkan S. Jaksic, [soc.culture.yugoslavia](https://groups.google.com/forum/#!forum/soc.culture.yugoslavia), July 29, 1991
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [UNESCO and Slovenia](http://pariz.veleposlanistvo.si/index.php?id=776&L=1)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), Peter Tancig, [Simona Tancig](Simona_Tancig "Simona Tancig") (**1984,1986**). *[Detection of Positional Patterns in Chess](Simona_Tancig#ChessExperiment "Simona Tancig")*. [Advances in Computer Chess 4](Advances_in_Computer_Chess_4 "Advances in Computer Chess 4")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Peter Tancig](https://dblp.uni-trier.de/pers/hd/t/Tancig:Peter.html)
 
 **[Up one level](People "People")**
 

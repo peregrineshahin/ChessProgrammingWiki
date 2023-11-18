@@ -29,11 +29,11 @@ Until 2009, Shane Samole was owner and president of the [World Chess Hall of Fam
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Shane Samole | LinkedIn](https://www.linkedin.com/in/shane-samole-a6a76510/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [B&D Group Miami FL, 33186 – Manta.com](https://www.manta.com/c/mhx4g1f/b-d-group)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Shane Samole | LinkedIn](https://www.linkedin.com/in/shane-samole-a6a76510/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Susan Polgar Global Chess Daily News and Information - The Collector and Museum Owner](http://web.chessdailynews.com/the-collector-and-museum-owner/), May 3, 2008
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Susan Polgar Global Chess Daily News and Information - My friends](http://web.chessdailynews.com/my-friends/), May 3, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Shane Samole | LinkedIn](https://www.linkedin.com/in/shane-samole-a6a76510/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [B&D Group Miami FL, 33186 – Manta.com](https://www.manta.com/c/mhx4g1f/b-d-group)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Shane Samole | LinkedIn](https://www.linkedin.com/in/shane-samole-a6a76510/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Susan Polgar Global Chess Daily News and Information - The Collector and Museum Owner](http://web.chessdailynews.com/the-collector-and-museum-owner/), May 3, 2008
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Susan Polgar Global Chess Daily News and Information - My friends](http://web.chessdailynews.com/my-friends/), May 3, 2008
 
 **[Up one level](People "People")**
 

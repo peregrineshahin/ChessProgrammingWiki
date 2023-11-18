@@ -39,9 +39,9 @@ a Korean computer scientist, cognitive scientist, professor of [artificial intel
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Byoung-Tak Zhang | LinkedIn](https://www.linkedin.com/in/byoung-tak-zhang-a30a6546)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Center for Biointelligence Technology | SNU Computer Science and Engineering](http://cse.snu.ac.kr/en/research-center/center-for-biointelligence-technology)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Byoung-Tak Zhang](http://dblp.uni-trier.de/pers/hd/z/Zhang:Byoung=Tak)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Byoung-Tak Zhang | LinkedIn](https://www.linkedin.com/in/byoung-tak-zhang-a30a6546)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Center for Biointelligence Technology | SNU Computer Science and Engineering](http://cse.snu.ac.kr/en/research-center/center-for-biointelligence-technology)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Byoung-Tak Zhang](http://dblp.uni-trier.de/pers/hd/z/Zhang:Byoung=Tak)
 
 **[Up one level](People "People")**
 

@@ -151,10 +151,10 @@ Common [Protocols](Protocols "Protocols") for automated [game playing](Chess_Gam
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Pondering? Yes. Ponder move? Maybe not](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=283576&t=29166) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), July 30, 2009
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Himstedt, K.](Kai_Himstedt "Kai Himstedt") (**2005**). *An Optimistic Pondering Approach for Asynchronous Distributed Games*. [ICGA Journal, Vol. 28, No. 2](ICGA_Journal#28_2 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pondering in WB](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50392) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [Winboard Programming Forum](Computer_Chess_Forums "Computer Chess Forums"), September 06, 2009
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2013**). *Optimistically Parallelizing Parallel Search Processes*. [ICGA Journal, Vol. 36, No. 2](ICGA_Journal#36_2 "ICGA Journal"), Review
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Pondering? Yes. Ponder move? Maybe not](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=283576&t=29166) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), July 30, 2009
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Himstedt, K.](Kai_Himstedt "Kai Himstedt") (**2005**). *An Optimistic Pondering Approach for Asynchronous Distributed Games*. [ICGA Journal, Vol. 28, No. 2](ICGA_Journal#28_2 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pondering in WB](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50392) by [Richard Allbert](Richard_Allbert "Richard Allbert"), [Winboard Programming Forum](Computer_Chess_Forums "Computer Chess Forums"), September 06, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2013**). *Optimistically Parallelizing Parallel Search Processes*. [ICGA Journal, Vol. 36, No. 2](ICGA_Journal#36_2 "ICGA Journal"), Review
 
 **[Up one Level](Search "Search")**
 

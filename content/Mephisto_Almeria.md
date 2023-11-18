@@ -112,12 +112,12 @@ Three versions were built, a [68000](68000 "68000") version, and beside the norm
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Almeria-16](https://www.flickr.com/photos/10261668@N05/859082106/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [David Levy](David_Levy "David Levy") (**1988**). *8th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mephisto Almeria Turniermaschine](http://www.chesscomputeruk.com/html/mephisto_almeria_turniermaschi.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Almeria 1988 - Chess (Manufacturers) - Round 6 - Game 1 (ICGA Tournaments)](http://www.grappa.univ-lille3.fr/icga/round.php?tournament=158&round=6&id=1)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Looking for games WCCC Almeria 1989](https://www.stmintz.com/ccc/index.php?id=478965) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), January 12, 2006
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jonsson, Hans FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=1700820)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Almeria-16](https://www.flickr.com/photos/10261668@N05/859082106/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [David Levy](David_Levy "David Levy") (**1988**). *8th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mephisto Almeria Turniermaschine](http://www.chesscomputeruk.com/html/mephisto_almeria_turniermaschi.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Almeria 1988 - Chess (Manufacturers) - Round 6 - Game 1 (ICGA Tournaments)](http://www.grappa.univ-lille3.fr/icga/round.php?tournament=158&round=6&id=1)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Looking for games WCCC Almeria 1989](https://www.stmintz.com/ccc/index.php?id=478965) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), January 12, 2006
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jonsson, Hans FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=1700820)
 
 **[Up one Level](Mephisto "Mephisto")**
 

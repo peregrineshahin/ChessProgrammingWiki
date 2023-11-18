@@ -64,12 +64,12 @@ He died soon later that month in August 2015 <a id="cite-note-4" href="#cite-ref
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Reinhard Scharnagl](https://plus.google.com/u/0/108847251854374603679/posts) - [Google+](https://en.wikipedia.org/wiki/Google%2B)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess960 from Wikipedia](https://en.wikipedia.org/wiki/Chess960)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Reinhard Scharnagl](https://plus.google.com/u/0/108847251854374603679/posts) - [Google+](https://en.wikipedia.org/wiki/Google%2B)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Please delete my account / Octopus](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=31031) by Sebastian Scharnagl, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), April 08, 2016
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Reinhard Scharnagl passed away](http://www.talkchess.com/forum/viewtopic.php?t=59805) by Herbert L, [CCC](CCC "CCC"), April 09, 2016
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Schach 960: Die Zukunft des Schachs? Interview mit Reinhard Scharnagl](https://de.chessbase.com/post/die-zukunft-des-schachs-) by [René Gralla](https://www.zeit.de/autoren/G/Ren_Gralla/index), [ChessBase.de](ChessBase "ChessBase"), August 17, 2006 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Reinhard Scharnagl](https://plus.google.com/u/0/108847251854374603679/posts) - [Google+](https://en.wikipedia.org/wiki/Google%2B)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess960 from Wikipedia](https://en.wikipedia.org/wiki/Chess960)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Reinhard Scharnagl](https://plus.google.com/u/0/108847251854374603679/posts) - [Google+](https://en.wikipedia.org/wiki/Google%2B)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Please delete my account / Octopus](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=31031) by Sebastian Scharnagl, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), April 08, 2016
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Reinhard Scharnagl passed away](http://www.talkchess.com/forum/viewtopic.php?t=59805) by Herbert L, [CCC](CCC "CCC"), April 09, 2016
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Schach 960: Die Zukunft des Schachs? Interview mit Reinhard Scharnagl](https://de.chessbase.com/post/die-zukunft-des-schachs-) by [René Gralla](https://www.zeit.de/autoren/G/Ren_Gralla/index), [ChessBase.de](ChessBase "ChessBase"), August 17, 2006 (German)
 
 **[Up one level](People "People")**
 

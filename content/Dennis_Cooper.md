@@ -24,10 +24,10 @@ an American [electrical engineer](https://en.wikipedia.org/wiki/Electrical_engin
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wita-Awit - readme.txt](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/Awit-Wita-ReadMe/wita-history-readme.txt) by [Tony Marsland](Tony_Marsland "Tony Marsland")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cooper Testing Labs](http://www.coopertestinglabs.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Company: Cooper Testing Labs - Cooper Testing Laboratory is an independent Geotechnical Laboratory located in Palo Alto California](http://companydatabase.org/c/services-testing-laboratories/water-testing/construction-construction/independent-testing/cooper-testing-labs.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Dennis W. Cooper](http://www.informatik.uni-trier.de/~ley/pers/hd/c/Cooper:Dennis_W=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wita-Awit - readme.txt](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/Awit-Wita-ReadMe/wita-history-readme.txt) by [Tony Marsland](Tony_Marsland "Tony Marsland")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cooper Testing Labs](http://www.coopertestinglabs.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Company: Cooper Testing Labs - Cooper Testing Laboratory is an independent Geotechnical Laboratory located in Palo Alto California](http://companydatabase.org/c/services-testing-laboratories/water-testing/construction-construction/independent-testing/cooper-testing-labs.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Dennis W. Cooper](http://www.informatik.uni-trier.de/~ley/pers/hd/c/Cooper:Dennis_W=)
 
 **[Up one level](People "People")**
 

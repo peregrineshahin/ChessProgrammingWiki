@@ -108,9 +108,9 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The [omphalos stone](https://en.wikipedia.org/wiki/Omphalos_of_Delphi) displayed outside at [Delphi](https://en.wikipedia.org/wiki/Delphi), [Greece](https://en.wikipedia.org/wiki/Greece), lower piece is a stash, [Image](https://commons.wikimedia.org/wiki/File:Outside_Omphalos_at_Delphi.jpg) by [Patar knight](https://commons.wikimedia.org/wiki/User:Patar_knight), March 21, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New engine: Stash](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73092) by [Morgan Houppin](Morgan_Houppin "Morgan Houppin"), [CCC](CCC "CCC"), February 14, 2020
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Features based on [Releases · Morgan Houppin / stash-bot · GitLab v22.0](https://gitlab.com/mhouppin/stash-bot/-/releases#v22.0)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The [omphalos stone](https://en.wikipedia.org/wiki/Omphalos_of_Delphi) displayed outside at [Delphi](https://en.wikipedia.org/wiki/Delphi), [Greece](https://en.wikipedia.org/wiki/Greece), lower piece is a stash, [Image](https://commons.wikimedia.org/wiki/File:Outside_Omphalos_at_Delphi.jpg) by [Patar knight](https://commons.wikimedia.org/wiki/User:Patar_knight), March 21, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New engine: Stash](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73092) by [Morgan Houppin](Morgan_Houppin "Morgan Houppin"), [CCC](CCC "CCC"), February 14, 2020
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Features based on [Releases · Morgan Houppin / stash-bot · GitLab v22.0](https://gitlab.com/mhouppin/stash-bot/-/releases#v22.0)
 
 **[Up one level](Engines "Engines")**
 

@@ -61,9 +61,9 @@ Ke7 81.Rc2 g5 82.Kc5 Ra1 83.Nd5+ Bxd5 84.Kxd5 Ra5+ 85.Kc4 Ke6 86.Rg2 Ra4+ 87.Kd3
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Stained glass window in the dining hall of [Caius College](https://en.wikipedia.org/wiki/Gonville_and_Caius_College,_Cambridge) in [Cambridge](https://en.wikipedia.org/wiki/Cambridge), commemorating [Ronald Fisher](Mathematician#RFisher "Mathematician") and representing a [Latin square](https://en.wikipedia.org/wiki/Latin_square), discussed in [The Design of Experiments](https://en.wikipedia.org/wiki/The_Design_of_Experiments), The stained glass was designed by Maria McClafferty and installed in 1989, photographed by [Schutz](https://commons.wikimedia.org/wiki/User:Schutz), April 28, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Experimental's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=209)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Munich 1993 - Chess - Round 6 - Game 14 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=57&round=6&id=14)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Stained glass window in the dining hall of [Caius College](https://en.wikipedia.org/wiki/Gonville_and_Caius_College,_Cambridge) in [Cambridge](https://en.wikipedia.org/wiki/Cambridge), commemorating [Ronald Fisher](Mathematician#RFisher "Mathematician") and representing a [Latin square](https://en.wikipedia.org/wiki/Latin_square), discussed in [The Design of Experiments](https://en.wikipedia.org/wiki/The_Design_of_Experiments), The stained glass was designed by Maria McClafferty and installed in 1989, photographed by [Schutz](https://commons.wikimedia.org/wiki/User:Schutz), April 28, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Experimental's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=209)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Munich 1993 - Chess - Round 6 - Game 14 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=57&round=6&id=14)
 
 **[Up one Level](Engines "Engines")**
 

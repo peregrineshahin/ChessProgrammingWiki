@@ -205,20 +205,20 @@ lineup: [Dave Pike](Category:Dave_Pike "Category:Dave Pike"), [Ruud Jacobs](Cate
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [The first Spooky and the fifth Smokey](http://4.bp.blogspot.com/-e-zuCaeA7No/T5bmrS8kvtI/AAAAAAAAFic/n0gPYVR82PU/s1600/smokey19350407+Smokey+Stover+First+Spooky+Bill+Holman.jpg) (April 7, 1935) from [The Birth of Smokey Stover - First Puffs (1935)](http://screwballcomics.blogspot.de/2012/04/how-smokey-stover-got-started-first.html), [Bill Holman](<https://en.wikipedia.org/wiki/Bill_Holman_(cartoonist)>) [Comics](Category:Comics "Category:Comics"), Copyright, 1935, by [Chicago Tribune](https://en.wikipedia.org/wiki/Chicago_Tribune), [New York News Syndicate Inc.](https://en.wikipedia.org/wiki/Tribune_Media_Services), supplied by [Carl Linich](https://www.blogger.com/profile/12144756085960502977), posted by [Paul Tumey](https://plus.google.com/+PaulTumey), April 24, 2012
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Free Pascal wiki](http://wiki.freepascal.org/Home)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Release date target](http://www.talkchess.com/forum/viewtopic.php?t=40643&start=24) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), October 16, 2011
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Announcement: The Bozochess Project](http://www.talkchess.com/forum/viewtopic.php?t=40643) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), October 05, 2011
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The name change](http://www.talkchess.com/forum/viewtopic.php?t=41430&start=4) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), December 16, 2011
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CookieCat source via the net](http://www.talkchess.com/forum/viewtopic.php?t=42169) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), January 26, 2012
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Cookie Cat (character) | Steven Universe Wiki](<http://steven-universe.wikia.com/wiki/Cookie_Cat_(character)>)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Cookie Cat | Steven Universe Wiki](http://steven-universe.wikia.com/wiki/Cookie_Cat)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> Description is based on the source code - CookieCat.pas
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [CookieCat and Cookie Cat](http://www.talkchess.com/forum/viewtopic.php?t=41874) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), January 08, 2012
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a>  [CookieCat's opening book implementation](http://www.talkchess.com/forum/viewtopic.php?t=41804) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), January 05, 2012
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [CookieCat's pawn structure code](http://www.talkchess.com/forum/viewtopic.php?t=41842) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), January 07, 2012
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> Source code courtesy [Steven Edwards](Steven_Edwards "Steven Edwards")
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [A018214 - OEIS | Alkane (or paraffin) numbers](http://oeis.org/A018214)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [The first Spooky and the fifth Smokey](http://4.bp.blogspot.com/-e-zuCaeA7No/T5bmrS8kvtI/AAAAAAAAFic/n0gPYVR82PU/s1600/smokey19350407+Smokey+Stover+First+Spooky+Bill+Holman.jpg) (April 7, 1935) from [The Birth of Smokey Stover - First Puffs (1935)](http://screwballcomics.blogspot.de/2012/04/how-smokey-stover-got-started-first.html), [Bill Holman](<https://en.wikipedia.org/wiki/Bill_Holman_(cartoonist)>) [Comics](Category:Comics "Category:Comics"), Copyright, 1935, by [Chicago Tribune](https://en.wikipedia.org/wiki/Chicago_Tribune), [New York News Syndicate Inc.](https://en.wikipedia.org/wiki/Tribune_Media_Services), supplied by [Carl Linich](https://www.blogger.com/profile/12144756085960502977), posted by [Paul Tumey](https://plus.google.com/+PaulTumey), April 24, 2012
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Free Pascal wiki](http://wiki.freepascal.org/Home)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Release date target](http://www.talkchess.com/forum/viewtopic.php?t=40643&start=24) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), October 16, 2011
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Announcement: The Bozochess Project](http://www.talkchess.com/forum/viewtopic.php?t=40643) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), October 05, 2011
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The name change](http://www.talkchess.com/forum/viewtopic.php?t=41430&start=4) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), December 16, 2011
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CookieCat source via the net](http://www.talkchess.com/forum/viewtopic.php?t=42169) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), January 26, 2012
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Cookie Cat (character) | Steven Universe Wiki](<http://steven-universe.wikia.com/wiki/Cookie_Cat_(character)>)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Cookie Cat | Steven Universe Wiki](http://steven-universe.wikia.com/wiki/Cookie_Cat)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> Description is based on the source code - CookieCat.pas
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [CookieCat and Cookie Cat](http://www.talkchess.com/forum/viewtopic.php?t=41874) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), January 08, 2012
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a>  [CookieCat's opening book implementation](http://www.talkchess.com/forum/viewtopic.php?t=41804) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), January 05, 2012
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [CookieCat's pawn structure code](http://www.talkchess.com/forum/viewtopic.php?t=41842) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), January 07, 2012
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> Source code courtesy [Steven Edwards](Steven_Edwards "Steven Edwards")
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [A018214 - OEIS | Alkane (or paraffin) numbers](http://oeis.org/A018214)
 
 **[Up one level](Engines "Engines")**
 

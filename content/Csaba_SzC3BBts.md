@@ -36,12 +36,12 @@ Kxe6 45.Ng5+ Ke7 46.Nxh7 Nc4+ 47.Kd4 Nxb2 48.g4 b6 49.h4 a5 50.h5 gxh5 51.gxh5 a
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Szûts Csaba (right) the opening book creator of [Pandix](Pandix "Pandix") (Chess Friend).....and....[Crux](Crux "Crux"), from [Crux Chess images](http://titanic.nyme.hu/~wyx/crux/images.htm) by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hungarian Chess Program Championships 2004](http://www.hun-digital.hu/MASPV2004/index_en.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pandix' ICGA Tournaments](http://www.grappa.univ-lille3.fr/icga/program.php?id=190)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Crux Chess images](http://titanic.nyme.hu/~wyx/crux/images.htm) by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [MASPV 2002 photos](http://titanic.nyme.hu/~wyx/maspv2002/images.htm)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [MASPV 2002 - PGN](http://titanic.nyme.hu/~wyx/maspv2002/indexeng.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Szûts Csaba (right) the opening book creator of [Pandix](Pandix "Pandix") (Chess Friend).....and....[Crux](Crux "Crux"), from [Crux Chess images](http://titanic.nyme.hu/~wyx/crux/images.htm) by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hungarian Chess Program Championships 2004](http://www.hun-digital.hu/MASPV2004/index_en.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pandix' ICGA Tournaments](http://www.grappa.univ-lille3.fr/icga/program.php?id=190)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Crux Chess images](http://titanic.nyme.hu/~wyx/crux/images.htm) by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [MASPV 2002 photos](http://titanic.nyme.hu/~wyx/maspv2002/images.htm)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [MASPV 2002 - PGN](http://titanic.nyme.hu/~wyx/maspv2002/indexeng.htm)
 
 **[Up one level](People "People")**
 

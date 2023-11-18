@@ -58,10 +58,10 @@ was a Polish American computer scientist and pioneer in [machine learning](Learn
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [PEOPLE – GMU Machine Learning and Inference Laboratory](https://www.mli.gmu.edu/index.php/people/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Machine Learning and Inference Laboratory at George Mason University](http://www.mli.gmu.edu/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Ryszard S. Michalski](https://dblp.uni-trier.de/pers/hd/m/Michalski:Ryszard_S=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [PEOPLE – GMU Machine Learning and Inference Laboratory](https://www.mli.gmu.edu/index.php/people/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Machine Learning and Inference Laboratory at George Mason University](http://www.mli.gmu.edu/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Ryszard S. Michalski](https://dblp.uni-trier.de/pers/hd/m/Michalski:Ryszard_S=.html)
 
 **[Up one level](People "People")**
 

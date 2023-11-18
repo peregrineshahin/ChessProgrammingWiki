@@ -14,11 +14,11 @@ a German senior engineer with background in [telecommunication](https://en.wikip
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer-Schach](http://www.andreadrian.de/schach/) by Andre Adrian (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sargon Z80 assembly listing](http://www.andreadrian.de/schach/sargon.asm) by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"), hosted by Andre Adrian
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ATmega88 Automotive](http://www.atmel.com/dyn/products/product_card.asp?part_id=3757) from [Atmel Products -Microcontrollers - AVR® 8-Bit RISC](http://www.atmel.com/products/AVR/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Self-made Chess Computer SHAH](http://www.andreadrian.de/schach/#Selbstbau_Schachcomputer_SHAH) based on an [Atmel](https://en.wikipedia.org/wiki/Atmel)-[ATmega88](https://en.wikipedia.org/wiki/ATmega88) [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller) and Micro-Max-port by Andre Adrian (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ATM18 Mini Chess Computer](http://www.elektor.com/magazines/2009/september/atm18-mini-chess-computer.1041342.lynkx) from [ELEKTOR.com – Platform for electronics and microcontrollers](http://www.elektor.com/elektor-uk.35.lynkx)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer-Schach](http://www.andreadrian.de/schach/) by Andre Adrian (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sargon Z80 assembly listing](http://www.andreadrian.de/schach/sargon.asm) by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"), hosted by Andre Adrian
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ATmega88 Automotive](http://www.atmel.com/dyn/products/product_card.asp?part_id=3757) from [Atmel Products -Microcontrollers - AVR® 8-Bit RISC](http://www.atmel.com/products/AVR/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Self-made Chess Computer SHAH](http://www.andreadrian.de/schach/#Selbstbau_Schachcomputer_SHAH) based on an [Atmel](https://en.wikipedia.org/wiki/Atmel)-[ATmega88](https://en.wikipedia.org/wiki/ATmega88) [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller) and Micro-Max-port by Andre Adrian (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ATM18 Mini Chess Computer](http://www.elektor.com/magazines/2009/september/atm18-mini-chess-computer.1041342.lynkx) from [ELEKTOR.com – Platform for electronics and microcontrollers](http://www.elektor.com/elektor-uk.35.lynkx)
 
 **[Up one level](People "People")**
 

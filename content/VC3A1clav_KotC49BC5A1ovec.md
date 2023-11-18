@@ -45,11 +45,11 @@ He has also contributed to the [On-Line Encyclopedia of Integer Sequences](https
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kotesovec Vaclav](https://commons.wikimedia.org/wiki/File:Vaclav_Kotesovec.jpg), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Václav Kotěšovec from Wikipedia.cs](https://cs.wikipedia.org/wiki/V%C3%A1clav_Kot%C4%9B%C5%A1ovec)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Note for (foreign) VKSACH users](http://www.kotesovec.cz/note.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Václav Kotěšovec (**2001**). *[King and Two Generalised Knights against King](https://content.iospress.com/articles/icga-journal/icg24212)*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [User:Vaclav Kotesovec - OeisWiki](http://oeis.org/wiki/User:Vaclav_Kotesovec)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kotesovec Vaclav](https://commons.wikimedia.org/wiki/File:Vaclav_Kotesovec.jpg), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Václav Kotěšovec from Wikipedia.cs](https://cs.wikipedia.org/wiki/V%C3%A1clav_Kot%C4%9B%C5%A1ovec)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Note for (foreign) VKSACH users](http://www.kotesovec.cz/note.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Václav Kotěšovec (**2001**). *[King and Two Generalised Knights against King](https://content.iospress.com/articles/icga-journal/icg24212)*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [User:Vaclav Kotesovec - OeisWiki](http://oeis.org/wiki/User:Vaclav_Kotesovec)
 
 **[Up one level](People "People")**
 

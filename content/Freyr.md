@@ -46,9 +46,9 @@ Freyr is a [bitboard](Bitboards "Bitboards") engine and uses [rotated bitboards]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> *Freyr* by [Johannes Gehrts](https://en.wikipedia.org/wiki/Johannes_Gehrts). The god [Freyr](https://en.wikipedia.org/wiki/Freyr) stands with his sword and the boar [Gullinbursti](https://en.wikipedia.org/wiki/Gullinbursti). Source: [Felix Dahn](https://en.wikipedia.org/wiki/Felix_Dahn), [Therese Dahn](https://de.wikipedia.org/wiki/Therese_Dahn) (**1901**). *[Walhall: Germanische Götter- und Heldensagen. Für Alt und Jung am deutschen Herd](https://archive.org/details/walhallgermanisc1888dahn/page/n5)*. [Breitkopf & Härtel](https://en.wikipedia.org/wiki/Breitkopf_%26_H%C3%A4rtel), [Sword of Freyr from Wikipedia](https://en.wikipedia.org/wiki/Sword_of_Freyr)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A Question on simple Alpha-Beta versus PVS/Negascout](https://www.stmintz.com/ccc/index.php?id=102792) by [Andrei Fortuna](Andrei_Fortuna "Andrei Fortuna"), [CCC](CCC "CCC"), March 21, 2000
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Planet Source Code™ | Freyr - A Chess Playing Program](http://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=3333&lngWId=3) by [Andrei Fortuna](Andrei_Fortuna "Andrei Fortuna")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> *Freyr* by [Johannes Gehrts](https://en.wikipedia.org/wiki/Johannes_Gehrts). The god [Freyr](https://en.wikipedia.org/wiki/Freyr) stands with his sword and the boar [Gullinbursti](https://en.wikipedia.org/wiki/Gullinbursti). Source: [Felix Dahn](https://en.wikipedia.org/wiki/Felix_Dahn), [Therese Dahn](https://de.wikipedia.org/wiki/Therese_Dahn) (**1901**). *[Walhall: Germanische Götter- und Heldensagen. Für Alt und Jung am deutschen Herd](https://archive.org/details/walhallgermanisc1888dahn/page/n5)*. [Breitkopf & Härtel](https://en.wikipedia.org/wiki/Breitkopf_%26_H%C3%A4rtel), [Sword of Freyr from Wikipedia](https://en.wikipedia.org/wiki/Sword_of_Freyr)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A Question on simple Alpha-Beta versus PVS/Negascout](https://www.stmintz.com/ccc/index.php?id=102792) by [Andrei Fortuna](Andrei_Fortuna "Andrei Fortuna"), [CCC](CCC "CCC"), March 21, 2000
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Planet Source Code™ | Freyr - A Chess Playing Program](http://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=3333&lngWId=3) by [Andrei Fortuna](Andrei_Fortuna "Andrei Fortuna")
 
 **[Up one level](Engines "Engines")**
 

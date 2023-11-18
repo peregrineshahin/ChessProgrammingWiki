@@ -29,8 +29,8 @@ For his masters thesis, a chess engine was created in [Java](Java "Java") with t
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [jcarolus (Jeroen Carolus) · GitHub](https://github.com/jcarolus)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  Jeroen Carolus (**2006**). *Alpha-Beta with Sibling Prediction Pruning in Chess*. Master's thesis, [pdf](http://homepages.cwi.nl/%7Epaulk/theses/Carolus.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [jcarolus (Jeroen Carolus) · GitHub](https://github.com/jcarolus)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  Jeroen Carolus (**2006**). *Alpha-Beta with Sibling Prediction Pruning in Chess*. Master's thesis, [pdf](http://homepages.cwi.nl/%7Epaulk/theses/Carolus.pdf)
 
 **[Up one Level](People "People")**
 

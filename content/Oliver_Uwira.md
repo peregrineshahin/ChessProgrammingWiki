@@ -33,11 +33,11 @@ a German [FIDE-Master](https://en.wikipedia.org/wiki/FIDE_Master) in chess, and 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Tigers Training Center: Aktuelles vom Hessenschach - Uwira mit +2600 Leistung beim Karl-Mala-Turnier, August 05, 2005, Copyright © 2018 Chess Tigers Training Center GmbH](http://chess-tigers.de/index_news.php?id=346&rubrik=1&PHPSESSID=b11203af3eda02c923e993f2f5730ea1)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Knowledge Engineering Group](http://www.ke.tu-darmstadt.de/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [2008 Poker Bot Competition Summary - 6-Player Texas Hold'em Limit](http://webdocs.cs.ualberta.ca/%7Epokert/2008/results/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2009 Poker Bot Competition Summary](http://webdocs.cs.ualberta.ca/%7Epokert/2009/results/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Oliver Uwira | Technische Universität Darmstadt - Academia.edu](http://tu-darmstadt.academia.edu/OliverUwira)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Tigers Training Center: Aktuelles vom Hessenschach - Uwira mit +2600 Leistung beim Karl-Mala-Turnier, August 05, 2005, Copyright © 2018 Chess Tigers Training Center GmbH](http://chess-tigers.de/index_news.php?id=346&rubrik=1&PHPSESSID=b11203af3eda02c923e993f2f5730ea1)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Knowledge Engineering Group](http://www.ke.tu-darmstadt.de/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [2008 Poker Bot Competition Summary - 6-Player Texas Hold'em Limit](http://webdocs.cs.ualberta.ca/%7Epokert/2008/results/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2009 Poker Bot Competition Summary](http://webdocs.cs.ualberta.ca/%7Epokert/2009/results/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Oliver Uwira | Technische Universität Darmstadt - Academia.edu](http://tu-darmstadt.academia.edu/OliverUwira)
 
 **[Up one level](People "People")**
 

@@ -30,8 +30,8 @@ The **Atari ST** was a personal computer released by [Atari Corporation](https:/
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Atari ST from Wikipedia](https://en.wikipedia.org/wiki/Atari_ST)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Future Of Atari Computing](http://www.atarimagazines.com/startv4n5/the_future.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Atari ST from Wikipedia](https://en.wikipedia.org/wiki/Atari_ST)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Future Of Atari Computing](http://www.atarimagazines.com/startv4n5/the_future.html)
 
 **[Up one Level](Hardware "Hardware")**
 

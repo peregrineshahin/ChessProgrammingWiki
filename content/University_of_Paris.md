@@ -90,8 +90,8 @@ was the university in [Paris](https://en.wikipedia.org/wiki/Paris), [France](htt
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Institut de physique du globe de Paris (ancien site de l'université Paris-VI), Photo credit: [Christophe Moustier](http://christophe.moustier.free.fr/index.php), 2006, [Pierre-and-Marie-Curie University from Wikipedia](https://en.wikipedia.org/wiki/Pierre-and-Marie-Curie_University)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [University of Paris from Wikipedia](https://en.wikipedia.org/wiki/University_of_Paris)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Institut de physique du globe de Paris (ancien site de l'université Paris-VI), Photo credit: [Christophe Moustier](http://christophe.moustier.free.fr/index.php), 2006, [Pierre-and-Marie-Curie University from Wikipedia](https://en.wikipedia.org/wiki/Pierre-and-Marie-Curie_University)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [University of Paris from Wikipedia](https://en.wikipedia.org/wiki/University_of_Paris)
 
 **[Up one Level](Organizations "Organizations")**
 

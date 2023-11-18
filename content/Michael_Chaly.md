@@ -39,6 +39,6 @@ Michael Chaly main contributions to [Stockfish](Stockfish.md):
  
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [some reference](https://example.com)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [some reference](https://example.com)
 
 **[Up one level]([People](People.md) "[People](People.md)")**

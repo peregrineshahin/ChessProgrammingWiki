@@ -40,11 +40,11 @@ Only H&G's intervention could retain their desired order <a id="cite-note-5" hre
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [MM IV](http://rebel13.nl/dedicated/mm4.html) from [Rebel Pure Nostalgica](http://rebel13.nl/index.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mephisto Almeria 68020](http://www.schach-computer.info/wiki/index.php/Mephisto_Almeria_68020) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Swedish Chess Computer Association - Leaders year by year from Wikipedia](https://en.wikipedia.org/wiki/Swedish_Chess_Computer_Association#Rating_list_year-end_leaders)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MM IV](http://rebel13.nl/dedicated/mm4.html) from [Rebel Pure Nostalgica](http://rebel13.nl/index.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The MM-V Machine at the World Championschip, Portorose, 1989](http://chesseval.com/ChessEvalJournal/PrototypeMMV.htm) by [Hans van Mierlo](index.php?title=Hans_van_Mierlo&action=edit&redlink=1 "Hans van Mierlo (page does not exist)"), [ChessEval](http://www.chesseval.com/index.html), February 09, 2014 » [WMCCC 1989](WMCCC_1989 "WMCCC 1989")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [MM IV](http://rebel13.nl/dedicated/mm4.html) from [Rebel Pure Nostalgica](http://rebel13.nl/index.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mephisto Almeria 68020](http://www.schach-computer.info/wiki/index.php/Mephisto_Almeria_68020) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Swedish Chess Computer Association - Leaders year by year from Wikipedia](https://en.wikipedia.org/wiki/Swedish_Chess_Computer_Association#Rating_list_year-end_leaders)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MM IV](http://rebel13.nl/dedicated/mm4.html) from [Rebel Pure Nostalgica](http://rebel13.nl/index.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The MM-V Machine at the World Championschip, Portorose, 1989](http://chesseval.com/ChessEvalJournal/PrototypeMMV.htm) by [Hans van Mierlo](index.php?title=Hans_van_Mierlo&action=edit&redlink=1 "Hans van Mierlo (page does not exist)"), [ChessEval](http://www.chesseval.com/index.html), February 09, 2014 » [WMCCC 1989](WMCCC_1989 "WMCCC 1989")
 
 **[Up one level](Mephisto "Mephisto")**
 

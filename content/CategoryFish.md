@@ -21,7 +21,7 @@ title: CategoryFish
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [what is a patzer?](https://www.chess.com/forum/view/general/what-is-a-patzer), [Chess.com](https://en.wikipedia.org/wiki/Chess.com)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [what is a patzer?](https://www.chess.com/forum/view/general/what-is-a-patzer), [Chess.com](https://en.wikipedia.org/wiki/Chess.com)
 
 ## Pages in category "Fish"
 

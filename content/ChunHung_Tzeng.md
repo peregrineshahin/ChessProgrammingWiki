@@ -51,11 +51,11 @@ His research interests include [probabilistic reasoning](https://en.wikipedia.or
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Details for Chun-Hung Tzeng](https://owpdb.mfo.de/person_detail?id=4288), [Mathematical Research Institute of Oberwolfach](https://en.wikipedia.org/wiki/Mathematical_Research_Institute_of_Oberwolfach), Photo by [Konrad Jacobs](Mathematician#KJacobs "Mathematician"), 1972
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Chun-Hung Tzeng (**2013**). *[A Theory of Heuristic Information](https://www.academia.edu/35890021/A_Theory_of_Heuristic_Information)*. [International Journal of E-Business Development](http://www.academicpub.org/ijed/), Vol. 3, No. 2
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Chun-Hung Tzeng](https://dblp.org/pid/23/3887.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Almost periodic function from Wikipedia](https://en.wikipedia.org/wiki/Almost_periodic_function)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Dirichlet series from Wikipedia](https://en.wikipedia.org/wiki/Dirichlet_series)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Details for Chun-Hung Tzeng](https://owpdb.mfo.de/person_detail?id=4288), [Mathematical Research Institute of Oberwolfach](https://en.wikipedia.org/wiki/Mathematical_Research_Institute_of_Oberwolfach), Photo by [Konrad Jacobs](Mathematician#KJacobs "Mathematician"), 1972
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Chun-Hung Tzeng (**2013**). *[A Theory of Heuristic Information](https://www.academia.edu/35890021/A_Theory_of_Heuristic_Information)*. [International Journal of E-Business Development](http://www.academicpub.org/ijed/), Vol. 3, No. 2
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Chun-Hung Tzeng](https://dblp.org/pid/23/3887.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Almost periodic function from Wikipedia](https://en.wikipedia.org/wiki/Almost_periodic_function)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dirichlet series from Wikipedia](https://en.wikipedia.org/wiki/Dirichlet_series)
 
 **[Up one level](People "People")**
 

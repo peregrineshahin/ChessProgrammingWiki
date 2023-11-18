@@ -152,23 +152,23 @@ The squares send piece-signals if any, respectively forwarding the signals of [s
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [FPGA from Wikipedia](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [All Programmable Technologies from Xilinx Inc.](http://www.xilinx.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [FPGA CPLD and ASIC from Altera](http://www.altera.com/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [IBM Power8 Processor Detailed - Features 22nm Design With 12 Cores, 96 MB eDRAM L3 Cache and 4 GHz Clock Speed](http://wccftech.com/ibm-power8-processor-architecture-detailed/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: FPGA chess](http://www.talkchess.com/forum/viewtopic.php?t=54474&start=17) by [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic"), [CCC](CCC "CCC"), November 28, 2014
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [FPGA Architecture for the Challenge](http://www.eecg.toronto.edu/~vaughn/challenge/fpga_arch.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [FPGA Architecture for the Challenge](http://www.eecg.toronto.edu/~vaughn/challenge/fpga_arch.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Field Programmable Gate Array from Wikipedia.de](http://de.wikipedia.org/wiki/Field_Programmable_Gate_Array) (German)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Field-programmable gate array from Wikipedia](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [What is Brutus?](http://en.chessbase.com/post/what-is-brutus-), [ChessBase News](ChessBase "ChessBase"), March 20, 2002
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé") (**2002**). *An FPGA Move Generator for the Game of Chess*. Masters thesis, [McGill University](McGill_University "McGill University"), supervisor: [Zeljko Zilic](Zeljko_Zilic "Zeljko Zilic"), co-supervisor: [Monty Newborn](Monroe_Newborn "Monroe Newborn")
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Re: Attention - Slater Wold](https://www.stmintz.com/ccc/index.php?id=292813) by [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé"), [CCC](CCC "CCC"), April 10, 2003
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Re: Thesis by Marc Boule](https://www.stmintz.com/ccc/index.php?id=251005) by [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé"), [CCC](CCC "CCC"), September 08, 2002
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé") (**2002**). *An FPGA Move Generator for the Game of Chess*. Masters thesis, [McGill University](McGill_University "McGill University"), supervisor: [Zeljko Zilic](Zeljko_Zilic "Zeljko Zilic"), co-supervisor: [Monty Newborn](Monroe_Newborn "Monroe Newborn")
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), [Alex Kure](Alex_Kure "Alex Kure"), [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz") (**2004**). *Parallel Brutus: The First Distributed, FPGA Accelerated Chess Program*. [IPDPS’04](http://dl.acm.org/citation.cfm?id=645610&picked=prox), [pdf](http://www2.cs.uni-paderborn.de/cs/ag-monien/PERSONAL/FLULO/publications/ipdps04.pdf)
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz") (**2004**). *[The Chess Monster Hydra](http://www.springerlink.com/content/hp9la9pwq0a1cmrp/)* in [Field Programmable Logic and Application](http://www.springerlink.com/content/8grv6pu2e8hd/?p=3037c8af6a0147319f6f5a8e133083dd&pi=0), 14th International Conference, FPL 2004
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [The J1 Forth CPU — excamera](http://www.excamera.com/sphinx/fpga-j1.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [FPGA from Wikipedia](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [All Programmable Technologies from Xilinx Inc.](http://www.xilinx.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [FPGA CPLD and ASIC from Altera](http://www.altera.com/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [IBM Power8 Processor Detailed - Features 22nm Design With 12 Cores, 96 MB eDRAM L3 Cache and 4 GHz Clock Speed](http://wccftech.com/ibm-power8-processor-architecture-detailed/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: FPGA chess](http://www.talkchess.com/forum/viewtopic.php?t=54474&start=17) by [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic"), [CCC](CCC "CCC"), November 28, 2014
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [FPGA Architecture for the Challenge](http://www.eecg.toronto.edu/~vaughn/challenge/fpga_arch.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [FPGA Architecture for the Challenge](http://www.eecg.toronto.edu/~vaughn/challenge/fpga_arch.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Field Programmable Gate Array from Wikipedia.de](http://de.wikipedia.org/wiki/Field_Programmable_Gate_Array) (German)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Field-programmable gate array from Wikipedia](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [What is Brutus?](http://en.chessbase.com/post/what-is-brutus-), [ChessBase News](ChessBase "ChessBase"), March 20, 2002
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé") (**2002**). *An FPGA Move Generator for the Game of Chess*. Masters thesis, [McGill University](McGill_University "McGill University"), supervisor: [Zeljko Zilic](Zeljko_Zilic "Zeljko Zilic"), co-supervisor: [Monty Newborn](Monroe_Newborn "Monroe Newborn")
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Re: Attention - Slater Wold](https://www.stmintz.com/ccc/index.php?id=292813) by [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé"), [CCC](CCC "CCC"), April 10, 2003
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Re: Thesis by Marc Boule](https://www.stmintz.com/ccc/index.php?id=251005) by [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé"), [CCC](CCC "CCC"), September 08, 2002
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé") (**2002**). *An FPGA Move Generator for the Game of Chess*. Masters thesis, [McGill University](McGill_University "McGill University"), supervisor: [Zeljko Zilic](Zeljko_Zilic "Zeljko Zilic"), co-supervisor: [Monty Newborn](Monroe_Newborn "Monroe Newborn")
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), [Alex Kure](Alex_Kure "Alex Kure"), [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz") (**2004**). *Parallel Brutus: The First Distributed, FPGA Accelerated Chess Program*. [IPDPS’04](http://dl.acm.org/citation.cfm?id=645610&picked=prox), [pdf](http://www2.cs.uni-paderborn.de/cs/ag-monien/PERSONAL/FLULO/publications/ipdps04.pdf)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz") (**2004**). *[The Chess Monster Hydra](http://www.springerlink.com/content/hp9la9pwq0a1cmrp/)* in [Field Programmable Logic and Application](http://www.springerlink.com/content/8grv6pu2e8hd/?p=3037c8af6a0147319f6f5a8e133083dd&pi=0), 14th International Conference, FPL 2004
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [The J1 Forth CPU — excamera](http://www.excamera.com/sphinx/fpga-j1.html)
 
 **[Up one Level](Hardware "Hardware")**
 

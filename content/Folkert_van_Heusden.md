@@ -60,16 +60,16 @@ Other new chess programs: [Feeks](Feeks "Feeks"), [CaffeinatedPawn](index.php?ti
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Folkert van Heusden operating [PuppetMaster](PuppetMaster "PuppetMaster") at [PT 46](PT_46 "PT 46"), photos by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [PT46: Round 2](https://www.csvn.nl/index.php/nieuws/51-toernooien/640-pt46-round-2)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Folkert van Heusden - LinkedIn](http://nl.linkedin.com/in/folkertvanheusden)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [POS - An experimental chess program](http://www.vanheusden.com/pos/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DeepBrutePOS - An experimental chess program](http://www.vanheusden.com/DeepBrutePos/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: CSVN 1st Open Internet Tournament: Results and games](http://www.talkchess.com/forum/viewtopic.php?t=52280&start=11) by Folkert van Heusden, [CCC](CCC "CCC"), May 12, 2014
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [chess computer board](http://www.talkchess.com/forum/viewtopic.php?t=59977) by Folkert van Heusden, [CCC](CCC "CCC"), April 27, 2016
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [CPP1](http://www.vanheusden.com/cpp1/)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Bullucks](http://www.vanheusden.com/bullucks/)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Micah](http://www.vanheusden.com/Micah/) by Folkert van Heusden
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [www.vanheusden.com - STOP](https://www.vanheusden.com/stop/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Folkert van Heusden operating [PuppetMaster](PuppetMaster "PuppetMaster") at [PT 46](PT_46 "PT 46"), photos by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [PT46: Round 2](https://www.csvn.nl/index.php/nieuws/51-toernooien/640-pt46-round-2)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Folkert van Heusden - LinkedIn](http://nl.linkedin.com/in/folkertvanheusden)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [POS - An experimental chess program](http://www.vanheusden.com/pos/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DeepBrutePOS - An experimental chess program](http://www.vanheusden.com/DeepBrutePos/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: CSVN 1st Open Internet Tournament: Results and games](http://www.talkchess.com/forum/viewtopic.php?t=52280&start=11) by Folkert van Heusden, [CCC](CCC "CCC"), May 12, 2014
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [chess computer board](http://www.talkchess.com/forum/viewtopic.php?t=59977) by Folkert van Heusden, [CCC](CCC "CCC"), April 27, 2016
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [CPP1](http://www.vanheusden.com/cpp1/)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Bullucks](http://www.vanheusden.com/bullucks/)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Micah](http://www.vanheusden.com/Micah/) by Folkert van Heusden
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [www.vanheusden.com - STOP](https://www.vanheusden.com/stop/)
 
 **[Up one level](People "People")**
 

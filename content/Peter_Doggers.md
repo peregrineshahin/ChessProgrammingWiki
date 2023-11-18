@@ -58,9 +58,9 @@ Peter Doggers continued his work as chess journalist at Chess.com. His postings 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Peter Doggers (PeterDoggers) - Profil](https://www.chess.com/de/member/peterdoggers) - [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Peter Doggers (PeterDoggers) - Profil](https://www.chess.com/de/member/peterdoggers) - [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess.com to Acquire ChessVibes](https://www.chess.com/news/view/chesscom-to-acquire-chessvibes-8508) - [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Peter Doggers (PeterDoggers) - Profil](https://www.chess.com/de/member/peterdoggers) - [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Peter Doggers (PeterDoggers) - Profil](https://www.chess.com/de/member/peterdoggers) - [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess.com to Acquire ChessVibes](https://www.chess.com/news/view/chesscom-to-acquire-chessvibes-8508) - [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)")
 
 **[Up one Level](People "People")**
 

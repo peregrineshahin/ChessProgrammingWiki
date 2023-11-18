@@ -61,9 +61,9 @@ Many people participated in the initial development of [LISP](index.php?title=LI
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Daniel Edwards](Daniel_Edwards "Daniel Edwards"), [Timothy Hart](Timothy_Hart "Timothy Hart") (**1961**). *The Alpha-Beta Heuristic*, AIM-030, reprint available from [DSpace](http://dspace.mit.edu/handle/1721.1/6098) at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [John McCarthy](John_McCarthy "John McCarthy") (**1979**). *[History of Lisp](http://jmc.stanford.edu/articles/lisp.html)*. Chapter 4, From LISP 1 to LISP 1.5
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [McCarthy et al. LISP 1.5 Programmer's Manual.](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") Software Preservation Group
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Daniel Edwards](Daniel_Edwards "Daniel Edwards"), [Timothy Hart](Timothy_Hart "Timothy Hart") (**1961**). *The Alpha-Beta Heuristic*, AIM-030, reprint available from [DSpace](http://dspace.mit.edu/handle/1721.1/6098) at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [John McCarthy](John_McCarthy "John McCarthy") (**1979**). *[History of Lisp](http://jmc.stanford.edu/articles/lisp.html)*. Chapter 4, From LISP 1 to LISP 1.5
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [McCarthy et al. LISP 1.5 Programmer's Manual.](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") Software Preservation Group
 
 **[Up one level](People "People")**
 

@@ -63,11 +63,11 @@ in [continuation passing style](https://en.wikipedia.org/wiki/Continuation-passi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> An illuminated page from [Abraham Abulafia's](https://en.wikipedia.org/wiki/Abraham_Abulafia) *Light of the Intellect* (1285), [The Vatican Library](https://en.wikipedia.org/wiki/Vatican_Library), Unknown artist; the author of the book is Abulafia, [Kabbalah from Wikipedia](https://en.wikipedia.org/wiki/Kabbalah), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Barbarossa 0.1.0](http://www.talkchess.com/forum/viewtopic.php?t=50213) by [Nicu Ionita](Nicu_Ionita "Nicu Ionita"), [CCC](CCC "CCC"), November 24, 2013
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Haskell/Monad transformers - Wikibooks](https://en.wikibooks.org/wiki/Haskell/Monad_transformers)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Haskell/Understanding monads - Wikibooks](https://en.wikibooks.org/wiki/Haskell/Understanding_monads)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Abulafia/Magics.hs at master · nionita/Abulafia · GitHub](https://github.com/nionita/Abulafia/blob/master/Moves/Magics.hs)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> An illuminated page from [Abraham Abulafia's](https://en.wikipedia.org/wiki/Abraham_Abulafia) *Light of the Intellect* (1285), [The Vatican Library](https://en.wikipedia.org/wiki/Vatican_Library), Unknown artist; the author of the book is Abulafia, [Kabbalah from Wikipedia](https://en.wikipedia.org/wiki/Kabbalah), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Barbarossa 0.1.0](http://www.talkchess.com/forum/viewtopic.php?t=50213) by [Nicu Ionita](Nicu_Ionita "Nicu Ionita"), [CCC](CCC "CCC"), November 24, 2013
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Haskell/Monad transformers - Wikibooks](https://en.wikibooks.org/wiki/Haskell/Monad_transformers)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Haskell/Understanding monads - Wikibooks](https://en.wikibooks.org/wiki/Haskell/Understanding_monads)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Abulafia/Magics.hs at master · nionita/Abulafia · GitHub](https://github.com/nionita/Abulafia/blob/master/Moves/Magics.hs)
 
 **[Up one level](Engines "Engines")**
 

@@ -97,14 +97,14 @@ Kxe6 45.Ng5+ Ke7 46.Nxh7 Nc4+ 47.Kd4 Nxb2 48.g4 b6 49.h4 a5 50.h5 gxh5 51.gxh5 a
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Crux Chess images](http://titanic.nyme.hu/%7Ewyx/crux/images.htm) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lászlo Szalai | University of West Hungary, Sopron, Sopron | Institute of Wood Science](https://www.researchgate.net/profile/Laszlo_Szalai)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Leiden 2001](http://titanic.nyme.hu/%7Ewyx/csvn2001/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MASPV 2001](http://titanic.nyme.hu/~wyx/maspv2001/indexeng.htm)
- 5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Crux Chess images](http://titanic.nyme.hu/%7Ewyx/crux/images.htm) 
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Downloads | CSVN International Computerchess Tournament | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=39&Itemid=26&lang=en&limitstart=10)
- 7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [MASPV 2002 photos](http://titanic.nyme.hu/~wyx/maspv2002/images.htm) 
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [MASPV 2002 - PGN](http://titanic.nyme.hu/~wyx/maspv2002/indexeng.htm)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Crux Chess images](http://titanic.nyme.hu/%7Ewyx/crux/images.htm) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lászlo Szalai | University of West Hungary, Sopron, Sopron | Institute of Wood Science](https://www.researchgate.net/profile/Laszlo_Szalai)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Leiden 2001](http://titanic.nyme.hu/%7Ewyx/csvn2001/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MASPV 2001](http://titanic.nyme.hu/~wyx/maspv2001/indexeng.htm)
+ 5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Crux Chess images](http://titanic.nyme.hu/%7Ewyx/crux/images.htm) 
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Downloads | CSVN International Computerchess Tournament | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=39&Itemid=26&lang=en&limitstart=10)
+ 7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [MASPV 2002 photos](http://titanic.nyme.hu/~wyx/maspv2002/images.htm) 
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [MASPV 2002 - PGN](http://titanic.nyme.hu/~wyx/maspv2002/indexeng.htm)
 
 **[Up one level](People "People")**
 

@@ -75,11 +75,11 @@ and author of the [WinBoard](WinBoard "WinBoard") compliant chess engine [Requie
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [sevesalm (Severi Salminen) · GitHub](https://github.com/sevesalm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Severi Salminen | LinkedIn](https://www.linkedin.com/in/severi-salminen/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Homepage of Severi Salminen - ssRay](http://www.saunalahti.fi/~sevesalm/ssRay/ssRay.php)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Homepage of Severi Salminen - Requiem](http://www.saunalahti.fi/~sevesalm/Requiem.php)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1999**). *[Scalable Search in Computer Chess](http://people.csail.mit.edu/heinz/node1.html#scale-cchess)*. [Morgan Kaufmann](https://en.wikipedia.org/wiki/Morgan_Kaufmann)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [sevesalm (Severi Salminen) · GitHub](https://github.com/sevesalm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Severi Salminen | LinkedIn](https://www.linkedin.com/in/severi-salminen/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Homepage of Severi Salminen - ssRay](http://www.saunalahti.fi/~sevesalm/ssRay/ssRay.php)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Homepage of Severi Salminen - Requiem](http://www.saunalahti.fi/~sevesalm/Requiem.php)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1999**). *[Scalable Search in Computer Chess](http://people.csail.mit.edu/heinz/node1.html#scale-cchess)*. [Morgan Kaufmann](https://en.wikipedia.org/wiki/Morgan_Kaufmann)
 
 **[Up one level](People "People")**
 

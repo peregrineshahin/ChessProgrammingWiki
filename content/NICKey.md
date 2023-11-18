@@ -30,8 +30,8 @@ a system of classification for chess openings, variations and subvariations by [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [New In Chess - Support | NICBase Online Help - What is the NIC-Key?](https://www.newinchess.com/Support/Default.aspx?PageID=401)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [NIC-Schlüssel - Wikipedia.de](https://de.wikipedia.org/wiki/NIC-Schl%C3%BCssel) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [New In Chess - Support | NICBase Online Help - What is the NIC-Key?](https://www.newinchess.com/Support/Default.aspx?PageID=401)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [NIC-Schlüssel - Wikipedia.de](https://de.wikipedia.org/wiki/NIC-Schl%C3%BCssel) (German)
 
 **[Up one level](Opening_Book "Opening Book")**
 

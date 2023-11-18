@@ -32,9 +32,9 @@ He is author of the [UCI](UCI "UCI") compliant [open source](Category:Open_Sourc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [jhonnold (Jay Honnold) · GitHub](https://github.com/jhonnold)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jay Honnold | LinkedIn](https://www.linkedin.com/in/jay-honnold-123275140/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Berserk Chess Engine (new)](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=12771) by Jay Honnold, [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), February 20, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [jhonnold (Jay Honnold) · GitHub](https://github.com/jhonnold)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jay Honnold | LinkedIn](https://www.linkedin.com/in/jay-honnold-123275140/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Berserk Chess Engine (new)](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=12771) by Jay Honnold, [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), February 20, 2021
 
 **[Up one Level](People "People")**
 

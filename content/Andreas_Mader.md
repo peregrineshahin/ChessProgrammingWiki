@@ -36,8 +36,8 @@ and one of the [founders](CCC#Founders "CCC") of [CCC](CCC "CCC") <a id="cite-no
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Any word on future Nimzo plans](https://groups.google.com/g/rec.games.chess.computer/c/HMerbVnDF-Q/m/S-zPAuB5kioJ) by Andreas Mader, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 22, 1998
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [computer-chess club](https://groups.google.com/g/rec.games.chess.computer/c/fFtH0aJ6Qt8/m/6uytN_251S8J) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 10, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Any word on future Nimzo plans](https://groups.google.com/g/rec.games.chess.computer/c/HMerbVnDF-Q/m/S-zPAuB5kioJ) by Andreas Mader, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 22, 1998
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [computer-chess club](https://groups.google.com/g/rec.games.chess.computer/c/fFtH0aJ6Qt8/m/6uytN_251S8J) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 10, 1997
 
 **[Up one level](People "People")**
 

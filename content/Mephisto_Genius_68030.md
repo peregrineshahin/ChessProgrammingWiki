@@ -41,9 +41,9 @@ a set of [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Genius 68030 33MHZ StartUp Screen](https://www.flickr.com/photos/10261668@N05/859080074/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mephisto London 68030 – Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php?title=Mephisto_London_68030) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mephisto Bavaria Genius 68030 London](http://www.chesscomputeruk.com/html/mephisto_bavaria_genius_68030_london.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Genius 68030 33MHZ StartUp Screen](https://www.flickr.com/photos/10261668@N05/859080074/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mephisto London 68030 – Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php?title=Mephisto_London_68030) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mephisto Bavaria Genius 68030 London](http://www.chesscomputeruk.com/html/mephisto_bavaria_genius_68030_london.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one Level](Mephisto "Mephisto")**
 

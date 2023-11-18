@@ -59,16 +59,16 @@ Dabbaba Screen <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A [stone-throwing machine](https://en.wikipedia.org/wiki/Siege_engine) set to defend a gate, in the fresco of [Guidoriccio da Fogliano](https://en.wikipedia.org/wiki/Guidoriccio_da_Fogliano) by [Simone Martini](https://en.wikipedia.org/wiki/Simone_Martini) (14th century), [Siege engine from Wikipedia](https://en.wikipedia.org/wiki/Siege_engine)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Turbo C Graphics - initgraph function](http://www.softwareandfinance.com/Turbo_C/Graphics/initgraph.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: agChess -- an agressive chess variant](http://www.talkchess.com/forum/viewtopic.php?t=22588&start=8) by [H.G.Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), July 26, 2008
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Chess Variant Pages - Dabbaba](http://www.chessvariants.org/programs.dir/dabbaba.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [comp.lang.c FAQ list · Question 17.10](http://c-faq.com/style/stylewars.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Spaghetti code from Wikipedia](https://en.wikipedia.org/wiki/Spaghetti_code)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Dabbaba](http://www.jens-musik.dk/dabbaba.htm) by [Jens Bæk Nielsen](Jens_B%C3%A6k_Nielsen "Jens Bæk Nielsen")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Dabbaba 0.98 with Winboard support available](http://www.talkchess.com/forum/viewtopic.php?t=21051) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), May 08, 2008
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Dabbaba 6.50 has been released](http://www.talkchess.com/forum/viewtopic.php?t=44802) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), August 15, 2012
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Chess / Skak](http://www.jens-musik.dk/skak.htm) by [Jens Bæk Nielsen](Jens_B%C3%A6k_Nielsen "Jens Bæk Nielsen")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A [stone-throwing machine](https://en.wikipedia.org/wiki/Siege_engine) set to defend a gate, in the fresco of [Guidoriccio da Fogliano](https://en.wikipedia.org/wiki/Guidoriccio_da_Fogliano) by [Simone Martini](https://en.wikipedia.org/wiki/Simone_Martini) (14th century), [Siege engine from Wikipedia](https://en.wikipedia.org/wiki/Siege_engine)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Turbo C Graphics - initgraph function](http://www.softwareandfinance.com/Turbo_C/Graphics/initgraph.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: agChess -- an agressive chess variant](http://www.talkchess.com/forum/viewtopic.php?t=22588&start=8) by [H.G.Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), July 26, 2008
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Chess Variant Pages - Dabbaba](http://www.chessvariants.org/programs.dir/dabbaba.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [comp.lang.c FAQ list · Question 17.10](http://c-faq.com/style/stylewars.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Spaghetti code from Wikipedia](https://en.wikipedia.org/wiki/Spaghetti_code)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Dabbaba](http://www.jens-musik.dk/dabbaba.htm) by [Jens Bæk Nielsen](Jens_B%C3%A6k_Nielsen "Jens Bæk Nielsen")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Dabbaba 0.98 with Winboard support available](http://www.talkchess.com/forum/viewtopic.php?t=21051) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), May 08, 2008
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Dabbaba 6.50 has been released](http://www.talkchess.com/forum/viewtopic.php?t=44802) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), August 15, 2012
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Chess / Skak](http://www.jens-musik.dk/skak.htm) by [Jens Bæk Nielsen](Jens_B%C3%A6k_Nielsen "Jens Bæk Nielsen")
 
 **[Up one Level](Engines "Engines")**
 

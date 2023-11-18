@@ -220,16 +220,16 @@ Let δ be a number called the singular margin <a id="cite-note-7" href="#cite-re
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo from [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5") by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 138
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Definition, Sample, and Pseudo code taken from [Maarten van der Meulen](Maarten_van_der_Meulen "Maarten van der Meulen") (**1990**). *Conspiracy-Number Search*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David McAllester](David_McAllester "David McAllester") (**1988**). *Conspiracy Numbers for Min-Max Search*. [Artificial Intelligence](<https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)>), Vol. 35, No. 1, pp. 287-310. ISSN 0004-3702
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> due to [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1989**). *Conspiracy Numbers.* [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Maarten van der Meulen](Maarten_van_der_Meulen "Maarten van der Meulen") (**1990**). *Conspiracy-Number Search*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Norbert Klingbeil](Norbert_Klingbeil "Norbert Klingbeil"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Search Strategies for Conspiracy Numbers.* Canadian Artificial Intelligence Conference, pp. 133-139
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> The term *singular margin* comes from the [singular extension](Singular_Extensions "Singular Extensions") algorithm ([Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") et al. 1990)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [David McAllester](David_McAllester "David McAllester"), [Deniz Yuret](Deniz_Yuret "Deniz Yuret") (**1993**). *Alpha-Beta Conspiracy Search*. [ps (draft)](http://ttic.uchicago.edu/%7Edmcallester/abc.ps)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), [Valentin Rottmann](Valentin_Rottmann "Valentin Rottmann") (**1996**). *Parallel Controlled Conspiracy-Number Search.* [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo from [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5") by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 138
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Definition, Sample, and Pseudo code taken from [Maarten van der Meulen](Maarten_van_der_Meulen "Maarten van der Meulen") (**1990**). *Conspiracy-Number Search*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David McAllester](David_McAllester "David McAllester") (**1988**). *Conspiracy Numbers for Min-Max Search*. [Artificial Intelligence](<https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)>), Vol. 35, No. 1, pp. 287-310. ISSN 0004-3702
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> due to [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1989**). *Conspiracy Numbers.* [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Maarten van der Meulen](Maarten_van_der_Meulen "Maarten van der Meulen") (**1990**). *Conspiracy-Number Search*. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Norbert Klingbeil](Norbert_Klingbeil "Norbert Klingbeil"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Search Strategies for Conspiracy Numbers.* Canadian Artificial Intelligence Conference, pp. 133-139
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> The term *singular margin* comes from the [singular extension](Singular_Extensions "Singular Extensions") algorithm ([Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") et al. 1990)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [David McAllester](David_McAllester "David McAllester"), [Deniz Yuret](Deniz_Yuret "Deniz Yuret") (**1993**). *Alpha-Beta Conspiracy Search*. [ps (draft)](http://ttic.uchicago.edu/%7Edmcallester/abc.ps)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), [Valentin Rottmann](Valentin_Rottmann "Valentin Rottmann") (**1996**). *Parallel Controlled Conspiracy-Number Search.* [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one Level](Search "Search")**
 

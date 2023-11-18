@@ -51,10 +51,10 @@ After ten years "out of business", Martin Danielsson restarted the development i
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Martin Danielsson during [WCRCC 2019](WCRCC_2019 "WCRCC 2019"), [The 2019 Thirteenth Annual World Computer Rapid Chess Championships -- Pics](http://aigames.net/ACCA/ACCAWCRCC/2019ACCAWCRCC/WCRCCpics.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Martin Danielsson | LinkedIn](https://www.linkedin.com/in/martin-danielsson-297a703/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Marvin - new Winboard engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47529&p=179735) by Martin Danielsson, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 09, 2004
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Marvin 2.0.0 released](http://www.talkchess.com/forum/viewtopic.php?t=63518) by Martin Danielsson, [CCC](CCC "CCC"), March 21, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Martin Danielsson during [WCRCC 2019](WCRCC_2019 "WCRCC 2019"), [The 2019 Thirteenth Annual World Computer Rapid Chess Championships -- Pics](http://aigames.net/ACCA/ACCAWCRCC/2019ACCAWCRCC/WCRCCpics.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Martin Danielsson | LinkedIn](https://www.linkedin.com/in/martin-danielsson-297a703/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Marvin - new Winboard engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47529&p=179735) by Martin Danielsson, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 09, 2004
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Marvin 2.0.0 released](http://www.talkchess.com/forum/viewtopic.php?t=63518) by Martin Danielsson, [CCC](CCC "CCC"), March 21, 2017
 
 **[Up one Level](People "People")**
 

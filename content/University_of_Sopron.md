@@ -37,8 +37,8 @@ title: University of Sopron
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [MASPV 2007](http://titanic.nyme.hu/~wyx/maspv2007/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Faculty of Wood Sciences, Information Technology and the Institute of Economics
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [MASPV 2007](http://titanic.nyme.hu/~wyx/maspv2007/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Faculty of Wood Sciences, Information Technology and the Institute of Economics
 
 **[Up one Level](Organizations "Organizations")**
 

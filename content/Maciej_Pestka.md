@@ -21,7 +21,7 @@ a Polish software developer and computer chess programmer. He is author of the f
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [III Mistrzostwa Polski Programów Szachowych](http://mpps.maciej.szmit.info/mpps-3/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [III Mistrzostwa Polski Programów Szachowych](http://mpps.maciej.szmit.info/mpps-3/)
 
 **[Up one level](People "People")**
 

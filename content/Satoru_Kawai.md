@@ -45,9 +45,9 @@ a Japanese physicist, computer scientist and professor at Department of Informat
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Prof. Satoru KAWAI (pdf)](https://www.ouj.ac.jp/eng/pdf/profile/profile.kawai.satoru.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Prof. Satoru KAWAI](http://www.ouj.ac.jp/eng/pdf/profile/profile.kawai.satoru.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Satoru Kawai](http://dblp.uni-trier.de/pers/hd/k/Kawai:Satoru)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Prof. Satoru KAWAI (pdf)](https://www.ouj.ac.jp/eng/pdf/profile/profile.kawai.satoru.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Prof. Satoru KAWAI](http://www.ouj.ac.jp/eng/pdf/profile/profile.kawai.satoru.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Satoru Kawai](http://dblp.uni-trier.de/pers/hd/k/Kawai:Satoru)
 
 **[Up one level](People "People")**
 

@@ -61,15 +61,15 @@ also dubbed the [ACM](ACM "ACM") Chess Challenge of [Garry Kasparov](Garry_Kaspa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Deep Blue (Computer) vs Garry Kasparov (1996) "Sacre Blue!"](http://www.chessgames.com/perl/chessgame?gid=1070874)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Garry Kasparov: A History of Profesional Chess](https://en.chessbase.com/post/garry-kasparov-a-history-of-profesional-che) by [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)"). [ChessBase News](ChessBase "ChessBase"), April 08, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) focuses on his position in Game 6 vs. [Deep Blue](Deep_Blue "Deep Blue"), February 17, 1996, Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1996**). *Why did Kasparov Blink?* [ICCA Journal, Vol. 19, No. 2](ICGA_Journal#19_2 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Why did Kasparov blink?](https://groups.google.com/d/msg/rec.games.chess.computer/ZiNQesciLZM/d8-Xt8O9nDYJ) by [Tom King](Tom_King "Tom King"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 22, 1999 (Game 6 not 5)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Deep Blue vs Kasparov , Game 6 , 1996 - Annotated with test position](https://www.stmintz.com/ccc/index.php?id=368251) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), May 30, 2004
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1998**). *Review of Monty Newborn: Kasparov versus Deep Blue*. [pdf](http://www.ams.org/notices/199804/bkrev-berliner.pdf)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [20 years ago, a computer first beat a chess world champion - 1996-1997 The Kasparov-Deep Blue chess matches](http://mashable.com/2016/02/10/kasparov-deep-blue/#NdUYEzkSGkqJ) by [Alex Q. Arbuckle](http://www.alexqarbuckle.com/bio), February 10, 2016
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [New Pictures from Kasparov vs. Deep Blue](http://www.talkchess.com/forum/viewtopic.php?t=59211) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), February 10, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Deep Blue (Computer) vs Garry Kasparov (1996) "Sacre Blue!"](http://www.chessgames.com/perl/chessgame?gid=1070874)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Garry Kasparov: A History of Profesional Chess](https://en.chessbase.com/post/garry-kasparov-a-history-of-profesional-che) by [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)"). [ChessBase News](ChessBase "ChessBase"), April 08, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) focuses on his position in Game 6 vs. [Deep Blue](Deep_Blue "Deep Blue"), February 17, 1996, Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1996**). *Why did Kasparov Blink?* [ICCA Journal, Vol. 19, No. 2](ICGA_Journal#19_2 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Why did Kasparov blink?](https://groups.google.com/d/msg/rec.games.chess.computer/ZiNQesciLZM/d8-Xt8O9nDYJ) by [Tom King](Tom_King "Tom King"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 22, 1999 (Game 6 not 5)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Deep Blue vs Kasparov , Game 6 , 1996 - Annotated with test position](https://www.stmintz.com/ccc/index.php?id=368251) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), May 30, 2004
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1998**). *Review of Monty Newborn: Kasparov versus Deep Blue*. [pdf](http://www.ams.org/notices/199804/bkrev-berliner.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [20 years ago, a computer first beat a chess world champion - 1996-1997 The Kasparov-Deep Blue chess matches](http://mashable.com/2016/02/10/kasparov-deep-blue/#NdUYEzkSGkqJ) by [Alex Q. Arbuckle](http://www.alexqarbuckle.com/bio), February 10, 2016
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [New Pictures from Kasparov vs. Deep Blue](http://www.talkchess.com/forum/viewtopic.php?t=59211) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), February 10, 2016
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

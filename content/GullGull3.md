@@ -104,20 +104,20 @@ feat. [Kosuke Mine](https://en.wikipedia.org/wiki/Kosuke_Mine), [Mikio Masuda](h
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Gulls at the beach of [Scheveningen](https://en.wikipedia.org/wiki/Scheveningen) [Kurhaus](https://en.wikipedia.org/wiki/Kurhaus_of_Scheveningen), Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), December 26, 2015
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess engine from Wikiepdia](https://en.wikipedia.org/wiki/Chess_engine)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:chess_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: gull chess](http://www.open-chess.org/viewtopic.php?f=7&t=109&start=120#p18910) by [ThinkingALot](ThinkingALot "ThinkingALot"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), June 17, 2013 (Gull 2.1)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Gull 2.8 beta.zip/Gull 2.8 beta/readme.txt
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gull 3 (Linux port) released](http://www.talkchess.com/forum/viewtopic.php?t=58071) by [Basil Falcinelli](Basil_Falcinelli "Basil Falcinelli"), [CCC](CCC "CCC"), October 28, 2015
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Gull 3 Linux+Syzygy and Fathom released](http://www.talkchess.com/forum/viewtopic.php?t=58299) by [Basil Falcinelli](Basil_Falcinelli "Basil Falcinelli"), [CCC](CCC "CCC"), November 20, 2015
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Gull 3 x64 Mac Results](http://www.talkchess.com/forum/viewtopic.php?t=58096) by [Michael B](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), October 30, 2015
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Hawkeye 1.01](http://www.talkchess.com/forum/viewtopic.php?t=60695) by [Michael B](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), July 05, 2016
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [GitHub - FireFather/seagull: chess engine based on Gull 3](https://github.com/FireFather/seagull) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt")
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [GitHub - basil00/Gull: Gull chess (Linux/Mac port) - The LazyGull Chess Engine](https://github.com/basil00/Gull)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Gull/README.md at master · basil00/Gull · GitHub](https://github.com/basil00/Gull/blob/master/README.md)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [hyer / SonsOfTheBird / source / Slizzard — Bitbucket](https://bitbucket.org/hyer/sonsofthebird/src/052b62b0c78d11889379d5909bbe617b70274076/Slizzard/?at=default)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a>  [Future of Gull](http://www.talkchess.com/forum/viewtopic.php?t=61195) by [Tom Hyer](index.php?title=Tom_Hyer&action=edit&redlink=1 "Tom Hyer (page does not exist)"), [CCC](CCC "CCC"), August 23, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Gulls at the beach of [Scheveningen](https://en.wikipedia.org/wiki/Scheveningen) [Kurhaus](https://en.wikipedia.org/wiki/Kurhaus_of_Scheveningen), Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), December 26, 2015
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess engine from Wikiepdia](https://en.wikipedia.org/wiki/Chess_engine)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:chess_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: gull chess](http://www.open-chess.org/viewtopic.php?f=7&t=109&start=120#p18910) by [ThinkingALot](ThinkingALot "ThinkingALot"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), June 17, 2013 (Gull 2.1)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Gull 2.8 beta.zip/Gull 2.8 beta/readme.txt
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gull 3 (Linux port) released](http://www.talkchess.com/forum/viewtopic.php?t=58071) by [Basil Falcinelli](Basil_Falcinelli "Basil Falcinelli"), [CCC](CCC "CCC"), October 28, 2015
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Gull 3 Linux+Syzygy and Fathom released](http://www.talkchess.com/forum/viewtopic.php?t=58299) by [Basil Falcinelli](Basil_Falcinelli "Basil Falcinelli"), [CCC](CCC "CCC"), November 20, 2015
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Gull 3 x64 Mac Results](http://www.talkchess.com/forum/viewtopic.php?t=58096) by [Michael B](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), October 30, 2015
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Hawkeye 1.01](http://www.talkchess.com/forum/viewtopic.php?t=60695) by [Michael B](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), July 05, 2016
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [GitHub - FireFather/seagull: chess engine based on Gull 3](https://github.com/FireFather/seagull) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [GitHub - basil00/Gull: Gull chess (Linux/Mac port) - The LazyGull Chess Engine](https://github.com/basil00/Gull)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Gull/README.md at master · basil00/Gull · GitHub](https://github.com/basil00/Gull/blob/master/README.md)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [hyer / SonsOfTheBird / source / Slizzard — Bitbucket](https://bitbucket.org/hyer/sonsofthebird/src/052b62b0c78d11889379d5909bbe617b70274076/Slizzard/?at=default)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a>  [Future of Gull](http://www.talkchess.com/forum/viewtopic.php?t=61195) by [Tom Hyer](index.php?title=Tom_Hyer&action=edit&redlink=1 "Tom Hyer (page does not exist)"), [CCC](CCC "CCC"), August 23, 2016
 
 **[Up one Level](Engines "Engines")**
 

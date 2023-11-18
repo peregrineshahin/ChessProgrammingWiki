@@ -61,13 +61,13 @@ Ng7 30.Rxg7+ Kh8 31.h4 d6 32.b4 b5 33.Kh2 Na7 34.Rg5 Re8 35.Bg7+ 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Anvil](https://en.wikipedia.org/wiki/Anvil) of a large [Cumulonimbus](https://en.wikipedia.org/wiki/Cumulonimbus_cloud), [Cumulus congestus](https://en.wikipedia.org/wiki/Cumulus_congestus_cloud) at the bottom, [Photo](https://commons.wikimedia.org/wiki/File:Anvil_of_Cumulonimbus_and_Cu_con.JPG) by [Simon Eugster](https://commons.wikimedia.org/wiki/User:LivingShadow), April 7, 2005, [Cumulus cloud from Wikipedia](https://en.wikipedia.org/wiki/Cumulus_cloud)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A Short Story of JCW's Computer Chess Program](http://recherche.enac.fr/~weill/chess.html) by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Cumulus' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=225)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [A Short Story of JCW's Computer Chess Program](http://recherche.enac.fr/~weill/chess.html) by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the 11th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Madrid 1992 - Chess - Round 4 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=58&round=4&id=3)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Vancouver 1991 - Chess - Round 2 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=59&round=2&id=1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Anvil](https://en.wikipedia.org/wiki/Anvil) of a large [Cumulonimbus](https://en.wikipedia.org/wiki/Cumulonimbus_cloud), [Cumulus congestus](https://en.wikipedia.org/wiki/Cumulus_congestus_cloud) at the bottom, [Photo](https://commons.wikimedia.org/wiki/File:Anvil_of_Cumulonimbus_and_Cu_con.JPG) by [Simon Eugster](https://commons.wikimedia.org/wiki/User:LivingShadow), April 7, 2005, [Cumulus cloud from Wikipedia](https://en.wikipedia.org/wiki/Cumulus_cloud)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A Short Story of JCW's Computer Chess Program](http://recherche.enac.fr/~weill/chess.html) by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Cumulus' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=225)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [A Short Story of JCW's Computer Chess Program](http://recherche.enac.fr/~weill/chess.html) by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the 11th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Madrid 1992 - Chess - Round 4 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=58&round=4&id=3)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Vancouver 1991 - Chess - Round 2 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=59&round=2&id=1)
 
 **[Up one Level](Engines "Engines")**
 

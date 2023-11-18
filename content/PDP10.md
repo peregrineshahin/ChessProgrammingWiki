@@ -66,11 +66,11 @@ The PDP-10 was the foundation of the DECsystem-10 and the [DECSYSTEM-20](https:/
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> September 1967: The PDP-10 debuts, [PDP-10](http://archive.computerhistory.org/resources/text/dec/dec.digital_%28DEC%29_timeline_1957-1997.102630354/1967-1.htm) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Origins and Development of TOPS-20](http://tenex.opost.com/hbook.html) by [Dan Murphy](http://www.opost.com/dlm/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [PDP-10/its · GitHub](https://github.com/PDP-10/its/tree/master/src/chprog) (OCM 470 and accompanying files is a 1980 version of Mac Hack) maintained by [Lars Brinkhoff](User:Larsbrinkhoff "User:Larsbrinkhoff") and [Eric Swenson](https://github.com/eswenson1)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [its/src/rg at master · PDP-10/its · GitHub](https://github.com/PDP-10/its/tree/master/src/rg) (Tech 2 source code) maintained by [Lars Brinkhoff](User:Larsbrinkhoff "User:Larsbrinkhoff") and [Eric Swenson](https://github.com/eswenson1)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> MIT PDP-10 'Info' file converted to Hypertext 'html' format by [Henry Baker](http://home.pipeline.com/~hbaker1/home.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> September 1967: The PDP-10 debuts, [PDP-10](http://archive.computerhistory.org/resources/text/dec/dec.digital_%28DEC%29_timeline_1957-1997.102630354/1967-1.htm) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Origins and Development of TOPS-20](http://tenex.opost.com/hbook.html) by [Dan Murphy](http://www.opost.com/dlm/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PDP-10/its · GitHub](https://github.com/PDP-10/its/tree/master/src/chprog) (OCM 470 and accompanying files is a 1980 version of Mac Hack) maintained by [Lars Brinkhoff](User:Larsbrinkhoff "User:Larsbrinkhoff") and [Eric Swenson](https://github.com/eswenson1)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [its/src/rg at master · PDP-10/its · GitHub](https://github.com/PDP-10/its/tree/master/src/rg) (Tech 2 source code) maintained by [Lars Brinkhoff](User:Larsbrinkhoff "User:Larsbrinkhoff") and [Eric Swenson](https://github.com/eswenson1)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> MIT PDP-10 'Info' file converted to Hypertext 'html' format by [Henry Baker](http://home.pipeline.com/~hbaker1/home.html)
 
 **[Up one Level](Hardware "Hardware")**
 

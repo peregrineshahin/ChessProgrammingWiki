@@ -31,7 +31,7 @@ title: Leaf Node
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [M. C. Escher](Category:M._C._Escher "Category:M. C. Escher"), Dewdrop, 1948, [Picture gallery "Back in Holland 1941 - 1954"](http://www.mcescher.com/Gallery/gallery-back.htm) from [The Official M.C. Escher Website](http://www.mcescher.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [M. C. Escher](Category:M._C._Escher "Category:M. C. Escher"), Dewdrop, 1948, [Picture gallery "Back in Holland 1941 - 1954"](http://www.mcescher.com/Gallery/gallery-back.htm) from [The Official M.C. Escher Website](http://www.mcescher.com/)
 
 **[Up one Level](Node "Node")**
 

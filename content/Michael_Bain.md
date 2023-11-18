@@ -66,13 +66,13 @@ His research interests include [machine learning](Learning "Learning"), [inducti
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr Michael Bain | UNSW Research](https://research.unsw.edu.au/people/dr-michael-bain)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Michael Bain (**1994**). *Learning Logical Exceptions in Chess*. Ph.D. thesis, [University of Strathclyde](https://en.wikipedia.org/wiki/University_of_Strathclyde), [CitySeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.54.729)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Turing Trust - Historical Note](http://www.turingarchive.org/trust/) by [Donald Michie](Donald_Michie "Donald Michie"): "In association with the [University of Strathclyde](https://en.wikipedia.org/wiki/University_of_Strathclyde), the Turing Institute hosted seven public lectures in the period 1985-93"
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Michael Bain (**1994**). *Learning Logical Exceptions in Chess*. Ph.D. thesis - Acknowledgements
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Michael Bain](https://dblp.uni-trier.de/pers/hd/b/Bain:Michael.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Operational semantics from Wikipedia](https://en.wikipedia.org/wiki/Operational_semantics)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr Michael Bain | UNSW Research](https://research.unsw.edu.au/people/dr-michael-bain)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Michael Bain (**1994**). *Learning Logical Exceptions in Chess*. Ph.D. thesis, [University of Strathclyde](https://en.wikipedia.org/wiki/University_of_Strathclyde), [CitySeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.54.729)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Turing Trust - Historical Note](http://www.turingarchive.org/trust/) by [Donald Michie](Donald_Michie "Donald Michie"): "In association with the [University of Strathclyde](https://en.wikipedia.org/wiki/University_of_Strathclyde), the Turing Institute hosted seven public lectures in the period 1985-93"
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Michael Bain (**1994**). *Learning Logical Exceptions in Chess*. Ph.D. thesis - Acknowledgements
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Michael Bain](https://dblp.uni-trier.de/pers/hd/b/Bain:Michael.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Operational semantics from Wikipedia](https://en.wikipedia.org/wiki/Operational_semantics)
 
 **[Up one level](Engines "Engines")**
 

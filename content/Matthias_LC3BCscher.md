@@ -29,10 +29,10 @@ a Swiss computer scientist and senior technology engineer. He holds a diplom deg
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Matthias Luescher | LinkedIn](https://www.linkedin.com/in/matthias-luescher-2080191a)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Was sind Rechnergestützte Wissenschaften? | ETH Zürich](https://www.ethz.ch/de/studium/bachelor/studienangebot/naturwissenschaften-und-mathematik/rechnergestuetzte-wissenschaften/was-ist.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Michael Buro](Michael_Buro "Michael Buro") (**1998**). *[From Simple Features to Sophisticated Evaluation Functions](http://link.springer.com/chapter/10.1007/3-540-48957-6_8)*. [CG 1998](CG_1998 "CG 1998"), [pdf](https://skatgame.net/mburo/ps/glem.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Matthias Lüscher (**2000**). *Automatic Generation of an Evaluation Function for Chess Endgames*. [ETH Zurich](ETH_Zurich "ETH Zurich") Supervisors: [Thomas Lincke](Thomas_Lincke "Thomas Lincke") and [Christoph Wirth](Christoph_Wirth "Christoph Wirth"), [pdf](http://www.datacomm.ch/m.luescher/evaluation_function_en.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Matthias Luescher | LinkedIn](https://www.linkedin.com/in/matthias-luescher-2080191a)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Was sind Rechnergestützte Wissenschaften? | ETH Zürich](https://www.ethz.ch/de/studium/bachelor/studienangebot/naturwissenschaften-und-mathematik/rechnergestuetzte-wissenschaften/was-ist.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Michael Buro](Michael_Buro "Michael Buro") (**1998**). *[From Simple Features to Sophisticated Evaluation Functions](http://link.springer.com/chapter/10.1007/3-540-48957-6_8)*. [CG 1998](CG_1998 "CG 1998"), [pdf](https://skatgame.net/mburo/ps/glem.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Matthias Lüscher (**2000**). *Automatic Generation of an Evaluation Function for Chess Endgames*. [ETH Zurich](ETH_Zurich "ETH Zurich") Supervisors: [Thomas Lincke](Thomas_Lincke "Thomas Lincke") and [Christoph Wirth](Christoph_Wirth "Christoph Wirth"), [pdf](http://www.datacomm.ch/m.luescher/evaluation_function_en.pdf)
 
 **[Up one Level](People "People")**
 

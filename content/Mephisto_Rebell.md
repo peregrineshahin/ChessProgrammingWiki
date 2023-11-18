@@ -38,7 +38,7 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Rebell 5.0](http://rebel13.nl/dedicated/rebell%205.0.html) from [Rebel Pure Nostalgica](http://rebel13.nl/index.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Rebell 5.0](http://rebel13.nl/dedicated/rebell%205.0.html) from [Rebel Pure Nostalgica](http://rebel13.nl/index.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
 
 **[Up one level](Mephisto "Mephisto")**
 

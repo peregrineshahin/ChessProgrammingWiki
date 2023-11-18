@@ -64,9 +64,9 @@ featuring [Robert Fripp](Category:Robert_Fripp "Category:Robert Fripp") and [Zod
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The [Citipati](<https://en.wikipedia.org/wiki/Citipati_(Buddhism)>) as depicted in the [Gelug](https://en.wikipedia.org/wiki/Gelug) [Monastery](https://en.wikipedia.org/wiki/Monastery), [Nepal](https://en.wikipedia.org/wiki/Nepal), source [Kinkara, Citipati, The Dancing Enlightened Skeletons, Lord…](https://www.flickr.com/photos/wonderlane/3172647615/in/photostream/) by Wonderlane, [Flickr](https://en.wikipedia.org/wiki/Flickr), October 12, 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Photo by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CSVN Programmer Tournament 49 pgn-donwload](http://www.csvn.nl/index.php/download/partijen/csvn-programmer-tournaments/241-pt49)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The [Citipati](<https://en.wikipedia.org/wiki/Citipati_(Buddhism)>) as depicted in the [Gelug](https://en.wikipedia.org/wiki/Gelug) [Monastery](https://en.wikipedia.org/wiki/Monastery), [Nepal](https://en.wikipedia.org/wiki/Nepal), source [Kinkara, Citipati, The Dancing Enlightened Skeletons, Lord…](https://www.flickr.com/photos/wonderlane/3172647615/in/photostream/) by Wonderlane, [Flickr](https://en.wikipedia.org/wiki/Flickr), October 12, 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Photo by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CSVN Programmer Tournament 49 pgn-donwload](http://www.csvn.nl/index.php/download/partijen/csvn-programmer-tournaments/241-pt49)
 
 **[Up one level](Engines "Engines")**
 

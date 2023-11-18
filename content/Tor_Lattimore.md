@@ -67,13 +67,13 @@ As a chess player, and former computer chess programmer, Tor Lattimore is author
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tor Lattimore - Homepage](http://tor-lattimore.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SEE - the chess engine](http://home.netspeed.com.au/lattimore/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tor Lattimore Publications](http://tor-lattimore.com/publications/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Tor Lattimore](https://dblp.uni-trier.de/pers/hd/l/Lattimore:Tor.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [No free lunch in search and optimization - Wikipedia](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Occam's razor from Wikipedia](https://en.wikipedia.org/wiki/Occam%27s_razor)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Markov decision process from Wikipedia](https://en.wikipedia.org/wiki/Markov_decision_process)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tor Lattimore - Homepage](http://tor-lattimore.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SEE - the chess engine](http://home.netspeed.com.au/lattimore/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tor Lattimore Publications](http://tor-lattimore.com/publications/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Tor Lattimore](https://dblp.uni-trier.de/pers/hd/l/Lattimore:Tor.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [No free lunch in search and optimization - Wikipedia](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Occam's razor from Wikipedia](https://en.wikipedia.org/wiki/Occam%27s_razor)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Markov decision process from Wikipedia](https://en.wikipedia.org/wiki/Markov_decision_process)
 
 **[Up one level](People "People")**
 

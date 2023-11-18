@@ -23,8 +23,8 @@ He is author of [Portfish](Portfish "Portfish"), a [.Net](https://en.wikipedia.o
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Bálint Pfliegel | LinkedIn](https://www.linkedin.com/in/b%C3%A1lint-pfliegel-b522922/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Portfish - C# port of Stockfish](http://www.talkchess.com/forum/viewtopic.php?t=43571) by Balint Pfliegel, [CCC](CCC "CCC"), May 04, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Bálint Pfliegel | LinkedIn](https://www.linkedin.com/in/b%C3%A1lint-pfliegel-b522922/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Portfish - C# port of Stockfish](http://www.talkchess.com/forum/viewtopic.php?t=43571) by Balint Pfliegel, [CCC](CCC "CCC"), May 04, 2012
 
 **[Up one level](People "People")**
 

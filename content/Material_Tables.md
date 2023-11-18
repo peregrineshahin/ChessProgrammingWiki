@@ -112,10 +112,10 @@ In 2010, [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") proposed a s
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Strelka controversy from Wikipedia](https://en.wikipedia.org/wiki/Rybka#Strelka_controversy)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Strelka 2.0](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=3006) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2008
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [A Material Base for everybody](http://www.top-5000.nl/mb.htm) from [Home of the Dutch Rebel](http://www.top-5000.nl/) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cache-friendier material index](http://www.talkchess.com/forum/viewtopic.php?t=33561) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), March 31, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Strelka controversy from Wikipedia](https://en.wikipedia.org/wiki/Rybka#Strelka_controversy)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Strelka 2.0](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=3006) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2008
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [A Material Base for everybody](http://www.top-5000.nl/mb.htm) from [Home of the Dutch Rebel](http://www.top-5000.nl/) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cache-friendier material index](http://www.talkchess.com/forum/viewtopic.php?t=33561) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), March 31, 2010
 
 **[Up one level](Material "Material")**
 

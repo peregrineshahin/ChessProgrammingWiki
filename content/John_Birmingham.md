@@ -32,12 +32,12 @@ a British computer scientist and programmer from [Harwell Atomic Energy Research
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Slide 28: 23.08.74 to 01.11.74](http://www.chilton-computing.org.uk/gallery/ral/slide28.htm) from [Rutherford's](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory) Photographic Section for the [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Master's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=46)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [John Birmingham's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=440)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *[MASTER at IFIPS](http://www.chilton-computing.org.uk/acl/applications/cocoa/p008.htm)*. Excerpt from: The Machine Plays Chess? from [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"), hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> In the ICGA Database John Birmingham is mentioned as sole author
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Slide 28: 23.08.74 to 01.11.74](http://www.chilton-computing.org.uk/gallery/ral/slide28.htm) from [Rutherford's](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory) Photographic Section for the [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Master's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=46)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [John Birmingham's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=440)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *[MASTER at IFIPS](http://www.chilton-computing.org.uk/acl/applications/cocoa/p008.htm)*. Excerpt from: The Machine Plays Chess? from [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"), hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> In the ICGA Database John Birmingham is mentioned as sole author
 
 **[Up one level](People "People")**
 

@@ -38,10 +38,10 @@ Columbia's computer at the time, a [360/91](IBM_360 "IBM 360"), was a huge machi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computing at Columbia Timeline - Aug 3-5, 1971](http://www.columbia.edu/cu/computinghistory/index.html#cccp)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Recollections of CUCC 1968-70 -The CCCP Chess Program](http://www.columbia.edu/cu/computinghistory/elliott-frank.html#cccp)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aron Eisenpress, CUNY/CIS's Renaissance Man](http://www1.cuny.edu/events/fyei/fall_1996/eisenpress.html) by Gillian Frasier
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Andrew Koenig](Andrew_Koenig "Andrew Koenig") (**1978**). *Light-Pen used in game*. [Personal Computing, Vol. 2, No. 5](Personal_Computing#2_5 "Personal Computing"), pp. 112
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computing at Columbia Timeline - Aug 3-5, 1971](http://www.columbia.edu/cu/computinghistory/index.html#cccp)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Recollections of CUCC 1968-70 -The CCCP Chess Program](http://www.columbia.edu/cu/computinghistory/elliott-frank.html#cccp)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aron Eisenpress, CUNY/CIS's Renaissance Man](http://www1.cuny.edu/events/fyei/fall_1996/eisenpress.html) by Gillian Frasier
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Andrew Koenig](Andrew_Koenig "Andrew Koenig") (**1978**). *Light-Pen used in game*. [Personal Computing, Vol. 2, No. 5](Personal_Computing#2_5 "Personal Computing"), pp. 112
 
 **[Up one level](People "People")**
 

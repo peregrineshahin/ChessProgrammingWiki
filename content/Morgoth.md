@@ -31,8 +31,8 @@ a chess program by [Matt Craighead](Matt_Craighead "Matt Craighead") written in 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image by [Guy Gondron](http://www.protoguy.org/), [Rolozo Tolkien | The Morgoth Collection](http://fan.theonering.net/~rolozo/cgi-bin/rolozo.cgi/collection/morgoth)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [quiescence search problems](https://groups.google.com/d/msg/rec.games.chess.computer/oCesDi-1iS4/D931c3n_wpwJ) by [Matt Craighead](Matt_Craighead "Matt Craighead"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 01, 1995
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image by [Guy Gondron](http://www.protoguy.org/), [Rolozo Tolkien | The Morgoth Collection](http://fan.theonering.net/~rolozo/cgi-bin/rolozo.cgi/collection/morgoth)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [quiescence search problems](https://groups.google.com/d/msg/rec.games.chess.computer/oCesDi-1iS4/D931c3n_wpwJ) by [Matt Craighead](Matt_Craighead "Matt Craighead"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 01, 1995
 
 **[Up one Level](Engines "Engines")**
 

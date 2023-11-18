@@ -59,15 +59,15 @@ Hank Dietz is further author of the early [Go](Go "Go") playing program *Jim* <a
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Professor Hank Dietz](http://aggregate.org/hankd/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SPIE | Henry Gordon Dietz](https://spie.org/profile/Henry.Dietz-31450?SSO=1)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Aggregate: SWAR, SIMD Within A Register](http://www.aggregate.org/SWAR/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Details of Program: Jim](http://www.computer-go.info/db/oprog.php?a=Jim) from [computer-go.info](http://www.computer-go.info/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Henry G. Dietz](https://dblp.uni-trier.de/pers/hd/d/Dietz:Henry_G=)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Barrier (computer science) from Wikipedia](<https://en.wikipedia.org/wiki/Barrier_(computer_science)>)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [The Aggregate: Aggregate Function Networks](http://aggregate.org/AFN/)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Anaglyph 3D from Wikipedia](https://en.wikipedia.org/wiki/Anaglyph_3D)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Professor Hank Dietz](http://aggregate.org/hankd/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SPIE | Henry Gordon Dietz](https://spie.org/profile/Henry.Dietz-31450?SSO=1)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Aggregate: SWAR, SIMD Within A Register](http://www.aggregate.org/SWAR/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Details of Program: Jim](http://www.computer-go.info/db/oprog.php?a=Jim) from [computer-go.info](http://www.computer-go.info/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Henry G. Dietz](https://dblp.uni-trier.de/pers/hd/d/Dietz:Henry_G=)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Barrier (computer science) from Wikipedia](<https://en.wikipedia.org/wiki/Barrier_(computer_science)>)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [The Aggregate: Aggregate Function Networks](http://aggregate.org/AFN/)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Anaglyph 3D from Wikipedia](https://en.wikipedia.org/wiki/Anaglyph_3D)
 
 **[Up one level](People "People")**
 

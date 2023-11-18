@@ -351,13 +351,13 @@ sq$ = 24
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Samuel Bak - represented by Pucker Gallery since 1969](https://www.puckergallery.com/artists/#/samuel-bak/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [\_byteswap_uint64](http://msdn.microsoft.com/en-us/library/a3140177.aspx) Visual C++ Developer Center - Run-Time Library Reference
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=140314) by [Aleks Peshkov](Aleks_Peshkov "Aleks Peshkov"), [CCC](CCC "CCC"), August 25, [2007](Timeline#2007 "Timeline")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Intel 64 and IA32 Architectures Optimization Reference Manual](http://www.intel.com/assets/pdf/manual/248966.pdf) (pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [\_mm_shuffle_epi8](http://msdn.microsoft.com/en-us/library/bb531427.aspx) Visual C++ Developer Center - Run-Time Library Reference
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Hyperbola Quintessence for rooks along ranks](http://timcooijmans.blogspot.co.uk/2014/04/hyperbola-quintessence-for-rooks-along.html) by [Tim Cooijmans](https://www.blogger.com/profile/11033414990764447420), April 6, 2014
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Comparison of bitboard attack-getter variants](http://www.talkchess.com/forum/viewtopic.php?t=58795&start=10) by [Matthew R. Brades](Matthew_R._Brades "Matthew R. Brades"), [CCC](CCC "CCC"), January 04, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Samuel Bak - represented by Pucker Gallery since 1969](https://www.puckergallery.com/artists/#/samuel-bak/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [\_byteswap_uint64](http://msdn.microsoft.com/en-us/library/a3140177.aspx) Visual C++ Developer Center - Run-Time Library Reference
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=140314) by [Aleks Peshkov](Aleks_Peshkov "Aleks Peshkov"), [CCC](CCC "CCC"), August 25, [2007](Timeline#2007 "Timeline")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Intel 64 and IA32 Architectures Optimization Reference Manual](http://www.intel.com/assets/pdf/manual/248966.pdf) (pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [\_mm_shuffle_epi8](http://msdn.microsoft.com/en-us/library/bb531427.aspx) Visual C++ Developer Center - Run-Time Library Reference
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hyperbola Quintessence for rooks along ranks](http://timcooijmans.blogspot.co.uk/2014/04/hyperbola-quintessence-for-rooks-along.html) by [Tim Cooijmans](https://www.blogger.com/profile/11033414990764447420), April 6, 2014
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Comparison of bitboard attack-getter variants](http://www.talkchess.com/forum/viewtopic.php?t=58795&start=10) by [Matthew R. Brades](Matthew_R._Brades "Matthew R. Brades"), [CCC](CCC "CCC"), January 04, 2016
 
 **[Up one Level](Sliding_Piece_Attacks "Sliding Piece Attacks")**
 

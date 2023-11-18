@@ -107,23 +107,23 @@ The BBC Micro [Go](Go "Go") Tournament was held in [London](https://en.wikipedia
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image](https://commons.wikimedia.org/wiki/File:BBC_Micro.jpeg) assumed by [Stuart Brady](https://commons.wikimedia.org/wiki/User:StuartBrady), December 26, 2005, The expansion socket to the left of the keyboard is not a standard fitting and has been added afterwards, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [BBC - Computer Literacy Project - Computing History](http://www.computinghistory.org.uk/det/7182/BBC-Computer-Literacy-Project/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [BBC Continuing Education Television - Computer Literacy Project](http://www.computinghistory.org.uk/pdf/acorn/BBC-Computer-Literacy-Project.pdf) (pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Computer Programme (BBC2, 1982)](https://www.youtube.com/watch?v=5dIcOXx3Exc&list=PLOtimvwAoYtnCtLiLspq_Gnng1XusYwPU), [YouTube](https://en.wikipedia.org/wiki/YouTube) Videos
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [BBC Micro from Wikipedia](https://en.wikipedia.org/wiki/BBC_Micro)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Steve Furber's Video Interview](BBC_Micro#Video "BBC Micro") at 8:50
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [DM81LS95A Datasheet](http://www.alldatasheet.com/datasheet-pdf/pdf/114739/NSC/DM81LS95A.html) - [National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [BBC Micro from Wikipedia](https://en.wikipedia.org/wiki/BBC_Micro)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [USA model BBC micro](http://wouter.bbcmicro.net/pictures/computer/usa_bbc/index.html)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Chris's Acorns: German BBC Microcomputer Model B](https://web.archive.org/web/20100221035416/http://acorn.chriswhy.co.uk:80/Computers/BBCBDE.html), hosted by the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [BBC Micro from Wikipedia](https://en.wikipedia.org/wiki/BBC_Micro)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [BBC Micro from Wikipedia](https://en.wikipedia.org/wiki/BBC_Micro)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Acorn Sales News Issue 72](http://chrisacorns.computinghistory.org.uk/docs/Acorn/SN/Acorn_SalesNews72.pdf) (pdf) April 19, 1993
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Computer Go - Past Events - Acorn 1984](http://www.computer-go.info/events/acorn/1984/index.html)
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Micro Bit from Wikipedia](https://en.wikipedia.org/wiki/Micro_Bit)
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Acornsoft LISP from Wikipedia](https://en.wikipedia.org/wiki/Acornsoft_LISP)
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Chris's Acorns: Acorn Manuals](http://chrisacorns.computinghistory.org.uk/docs/Acorn/Manuals/Manuals.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](https://commons.wikimedia.org/wiki/File:BBC_Micro.jpeg) assumed by [Stuart Brady](https://commons.wikimedia.org/wiki/User:StuartBrady), December 26, 2005, The expansion socket to the left of the keyboard is not a standard fitting and has been added afterwards, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [BBC - Computer Literacy Project - Computing History](http://www.computinghistory.org.uk/det/7182/BBC-Computer-Literacy-Project/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [BBC Continuing Education Television - Computer Literacy Project](http://www.computinghistory.org.uk/pdf/acorn/BBC-Computer-Literacy-Project.pdf) (pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Computer Programme (BBC2, 1982)](https://www.youtube.com/watch?v=5dIcOXx3Exc&list=PLOtimvwAoYtnCtLiLspq_Gnng1XusYwPU), [YouTube](https://en.wikipedia.org/wiki/YouTube) Videos
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [BBC Micro from Wikipedia](https://en.wikipedia.org/wiki/BBC_Micro)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Steve Furber's Video Interview](BBC_Micro#Video "BBC Micro") at 8:50
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [DM81LS95A Datasheet](http://www.alldatasheet.com/datasheet-pdf/pdf/114739/NSC/DM81LS95A.html) - [National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [BBC Micro from Wikipedia](https://en.wikipedia.org/wiki/BBC_Micro)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [USA model BBC micro](http://wouter.bbcmicro.net/pictures/computer/usa_bbc/index.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Chris's Acorns: German BBC Microcomputer Model B](https://web.archive.org/web/20100221035416/http://acorn.chriswhy.co.uk:80/Computers/BBCBDE.html), hosted by the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [BBC Micro from Wikipedia](https://en.wikipedia.org/wiki/BBC_Micro)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [BBC Micro from Wikipedia](https://en.wikipedia.org/wiki/BBC_Micro)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Acorn Sales News Issue 72](http://chrisacorns.computinghistory.org.uk/docs/Acorn/SN/Acorn_SalesNews72.pdf) (pdf) April 19, 1993
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Computer Go - Past Events - Acorn 1984](http://www.computer-go.info/events/acorn/1984/index.html)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Micro Bit from Wikipedia](https://en.wikipedia.org/wiki/Micro_Bit)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Acornsoft LISP from Wikipedia](https://en.wikipedia.org/wiki/Acornsoft_LISP)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Chris's Acorns: Acorn Manuals](http://chrisacorns.computinghistory.org.uk/docs/Acorn/Manuals/Manuals.html)
 
 **[Up one Level](Hardware "Hardware")**
 

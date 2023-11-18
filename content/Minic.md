@@ -66,12 +66,12 @@ Minic **3.00**, announced on November 03, 2020, detached the [Stockfish NNUE](St
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GitHub - tryingsomestuff/Minic: A simple chess engine to learn and play with](https://github.com/tryingsomestuff/Minic)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Minic version 2](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73521&start=59) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), August 08, 2020
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Minic/README.md at master · tryingsomestuff/Minic · GitHub - NNUE (from Stockfish)](https://github.com/tryingsomestuff/Minic/blob/master/README.md#nnue-from-stockfish)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [Minic version 3](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75665) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), November 03, 2020
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - tryingsomestuff/NNUE-Nets for Seer like NNUE](https://github.com/tryingsomestuff/NNUE-Nets#for-seer-like-nnue)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gao Huang](index.php?title=Gao_Huang&action=edit&redlink=1 "Gao Huang (page does not exist)"), [Zhuang Liu](index.php?title=Zhuang_Liu&action=edit&redlink=1 "Zhuang Liu (page does not exist)"), [Laurens van der Maaten](index.php?title=Laurens_van_der_Maaten&action=edit&redlink=1 "Laurens van der Maaten (page does not exist)"), [Kilian Q. Weinberger](index.php?title=Kilian_Q._Weinberger&action=edit&redlink=1 "Kilian Q. Weinberger (page does not exist)") (**2016**). *Densely Connected Convolutional Networks*. [arXiv:1608.06993](https://arxiv.org/abs/1608.06993)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GitHub - tryingsomestuff/Minic: A simple chess engine to learn and play with](https://github.com/tryingsomestuff/Minic)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Minic version 2](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73521&start=59) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), August 08, 2020
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Minic/README.md at master · tryingsomestuff/Minic · GitHub - NNUE (from Stockfish)](https://github.com/tryingsomestuff/Minic/blob/master/README.md#nnue-from-stockfish)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [Minic version 3](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75665) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), November 03, 2020
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - tryingsomestuff/NNUE-Nets for Seer like NNUE](https://github.com/tryingsomestuff/NNUE-Nets#for-seer-like-nnue)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gao Huang](index.php?title=Gao_Huang&action=edit&redlink=1 "Gao Huang (page does not exist)"), [Zhuang Liu](index.php?title=Zhuang_Liu&action=edit&redlink=1 "Zhuang Liu (page does not exist)"), [Laurens van der Maaten](index.php?title=Laurens_van_der_Maaten&action=edit&redlink=1 "Laurens van der Maaten (page does not exist)"), [Kilian Q. Weinberger](index.php?title=Kilian_Q._Weinberger&action=edit&redlink=1 "Kilian Q. Weinberger (page does not exist)") (**2016**). *Densely Connected Convolutional Networks*. [arXiv:1608.06993](https://arxiv.org/abs/1608.06993)
 
 **[Up one level](Engines "Engines")**
 

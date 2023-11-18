@@ -81,13 +81,13 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A 1908 depiction of Beowulf fighting the dragon by [J. R. Skelton](http://commons.wikimedia.org/wiki/Category:J._R._Skelton), Illustration in the children's book *[Stories of Beowulf](http://www.mainlesson.com/display.php?author=marshall&book=beowulf&story=_contents)* ([H. E. Marshall](https://en.wikipedia.org/wiki/Henrietta_Elizabeth_Marshall)), published in [New York](https://en.wikipedia.org/wiki/New_York_City) in 1908 by [E. P. Dutton & Company](https://en.wikipedia.org/wiki/E._P._Dutton), [Beowulf from Wikipedia](https://en.wikipedia.org/wiki/Beowulf), [The Dragon (Beowulf) from Wikipedia](https://en.wikipedia.org/wiki/The_Dragon_%28Beowulf%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ChessBrain](http://www.chessbrain.net/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Beowulf v2.4a chess engine](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=367856&t=35859) by [Tony Mokonen](index.php?title=Tony_Mokonen&action=edit&redlink=1 "Tony Mokonen (page does not exist)"), [CCC](CCC "CCC"), August 25, 2010
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Beowulf version history](http://www.frayn.net/beowulf/version.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Beowulf 2.4 Windows 64-bit build available](http://www.talkchess.com/forum/viewtopic.php?t=18395) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), December 15, 2007
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ISAAC, a fast cryptographic random number generator](http://burtleburtle.net/bob/rand/isaacafa.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [probabilityZero/TrappyBeowulf · GitHub](https://github.com/probabilityZero/TrappyBeowulf) by [Mike Vollmer](index.php?title=Mike_Vollmer&action=edit&redlink=1 "Mike Vollmer (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A 1908 depiction of Beowulf fighting the dragon by [J. R. Skelton](http://commons.wikimedia.org/wiki/Category:J._R._Skelton), Illustration in the children's book *[Stories of Beowulf](http://www.mainlesson.com/display.php?author=marshall&book=beowulf&story=_contents)* ([H. E. Marshall](https://en.wikipedia.org/wiki/Henrietta_Elizabeth_Marshall)), published in [New York](https://en.wikipedia.org/wiki/New_York_City) in 1908 by [E. P. Dutton & Company](https://en.wikipedia.org/wiki/E._P._Dutton), [Beowulf from Wikipedia](https://en.wikipedia.org/wiki/Beowulf), [The Dragon (Beowulf) from Wikipedia](https://en.wikipedia.org/wiki/The_Dragon_%28Beowulf%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ChessBrain](http://www.chessbrain.net/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Beowulf v2.4a chess engine](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=367856&t=35859) by [Tony Mokonen](index.php?title=Tony_Mokonen&action=edit&redlink=1 "Tony Mokonen (page does not exist)"), [CCC](CCC "CCC"), August 25, 2010
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Beowulf version history](http://www.frayn.net/beowulf/version.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Beowulf 2.4 Windows 64-bit build available](http://www.talkchess.com/forum/viewtopic.php?t=18395) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), December 15, 2007
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ISAAC, a fast cryptographic random number generator](http://burtleburtle.net/bob/rand/isaacafa.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [probabilityZero/TrappyBeowulf · GitHub](https://github.com/probabilityZero/TrappyBeowulf) by [Mike Vollmer](index.php?title=Mike_Vollmer&action=edit&redlink=1 "Mike Vollmer (page does not exist)")
 
 **[Up one Level](Engines "Engines")**
 

@@ -87,10 +87,10 @@ Ke7 67.Nb7 Be2 68.Nc5 Kf7 69.Ke4 Kg6 70.Ne6 Bf1 71.Nd4 Bg2+ 72.Kd3 Bh3 73.Kc4 Kg
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Anselm Feuerbach](Category:Anselm_Feuerbach "Category:Anselm Feuerbach") - Gaea (1875). Ceiling painting, [Academy of Fine Arts Vienna](https://en.wikipedia.org/wiki/Academy_of_Fine_Arts_Vienna), [Category: Anselm Feuerbach - Wikimedia Commons](http://commons.wikimedia.org/wiki/Category:Anselm_Feuerbach)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gaïa Chess Engine - Acknowledgements](http://gaiachess.free.fr/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Gaia Chess Engine - readme](http://gaiachess.free.fr/downloads/gaia3.5/readme.txt)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Gaia Chess Engine - Gaïa games (PGN)](http://gaiachess.free.fr/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Anselm Feuerbach](Category:Anselm_Feuerbach "Category:Anselm Feuerbach") - Gaea (1875). Ceiling painting, [Academy of Fine Arts Vienna](https://en.wikipedia.org/wiki/Academy_of_Fine_Arts_Vienna), [Category: Anselm Feuerbach - Wikimedia Commons](http://commons.wikimedia.org/wiki/Category:Anselm_Feuerbach)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gaïa Chess Engine - Acknowledgements](http://gaiachess.free.fr/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gaia Chess Engine - readme](http://gaiachess.free.fr/downloads/gaia3.5/readme.txt)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Gaia Chess Engine - Gaïa games (PGN)](http://gaiachess.free.fr/)
 
 **[Up one Level](Engines "Engines")**
 

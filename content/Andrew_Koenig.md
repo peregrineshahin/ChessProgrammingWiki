@@ -51,19 +51,19 @@ I designed the overall structure of the program and coded much of the [human int
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Early Music Players | Andrew Koenig](http://www.earlymusicplayers.org/andybio.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Andrew Koenig](http://www.acceleratedcpp.com/authors/koenig/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Early Music Players | Andrew Koenig](http://www.earlymusicplayers.org/andybio.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computing at Columbia Timeline - Aug 3-5, 1971](http://www.columbia.edu/cu/computinghistory/index.html#cccp)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Recollections of CUCC 1968-70 -The CCCP Chess Program](http://www.columbia.edu/cu/computinghistory/elliott-frank.html#cccp)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Andrew Koenig (**1978**). *Light-Pen used in game*. [Personal Computing, Vol. 2, No. 5](Personal_Computing#2_5 "Personal Computing"), pp. 112
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Coverphoto of [Accelerated C++: Practical Programming by Example | InformIT](http://www.informit.com/store/accelerated-c-plus-plus-practical-programming-by-example-9780201703535), by Andrew Koenig, 1995
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Troll Wall from Wikipedia](https://en.wikipedia.org/wiki/Troll_Wall)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Troll from Wikipedia](https://en.wikipedia.org/wiki/Troll)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Troll (Internet) from Wikipedia](https://en.wikipedia.org/wiki/Troll_%28Internet%29)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Troll (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Troll_%28disambiguation%29)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Andrew Koenig | Other articles](http://www.acceleratedcpp.com/authors/koenig/bibliography/other.html)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [DBLP: Andrew Koenig](http://dblp.dagstuhl.de/db/indices/a-tree/k/Koenig:Andrew.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Early Music Players | Andrew Koenig](http://www.earlymusicplayers.org/andybio.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Andrew Koenig](http://www.acceleratedcpp.com/authors/koenig/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Early Music Players | Andrew Koenig](http://www.earlymusicplayers.org/andybio.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computing at Columbia Timeline - Aug 3-5, 1971](http://www.columbia.edu/cu/computinghistory/index.html#cccp)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Recollections of CUCC 1968-70 -The CCCP Chess Program](http://www.columbia.edu/cu/computinghistory/elliott-frank.html#cccp)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Andrew Koenig (**1978**). *Light-Pen used in game*. [Personal Computing, Vol. 2, No. 5](Personal_Computing#2_5 "Personal Computing"), pp. 112
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> Coverphoto of [Accelerated C++: Practical Programming by Example | InformIT](http://www.informit.com/store/accelerated-c-plus-plus-practical-programming-by-example-9780201703535), by Andrew Koenig, 1995
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Troll Wall from Wikipedia](https://en.wikipedia.org/wiki/Troll_Wall)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Troll from Wikipedia](https://en.wikipedia.org/wiki/Troll)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Troll (Internet) from Wikipedia](https://en.wikipedia.org/wiki/Troll_%28Internet%29)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Troll (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Troll_%28disambiguation%29)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Andrew Koenig | Other articles](http://www.acceleratedcpp.com/authors/koenig/bibliography/other.html)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [DBLP: Andrew Koenig](http://dblp.dagstuhl.de/db/indices/a-tree/k/Koenig:Andrew.html)
 
 **[Up one level](People "People")**
 

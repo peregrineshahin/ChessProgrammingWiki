@@ -50,10 +50,10 @@ The FPGA move was incorporated in his chess program [MBChess](MBChess "MBChess")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marc Boulé, ing., Ph.D. - Maître d'enseignement](https://sites.google.com/a/etsmtl.net/mboule/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A Response From Marc Boule](https://www.stmintz.com/ccc/index.php?id=221124) by [Slater Wold](index.php?title=Slater_Wold&action=edit&redlink=1 "Slater Wold (page does not exist)"), [CCC](CCC "CCC"), April 02, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Marc Boulé, Publications](https://sites.google.com/a/etsmtl.net/mboule/home/publications)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Marc Boule](https://dblp.uni-trier.de/pers/hd/b/Boule:Marc)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marc Boulé, ing., Ph.D. - Maître d'enseignement](https://sites.google.com/a/etsmtl.net/mboule/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A Response From Marc Boule](https://www.stmintz.com/ccc/index.php?id=221124) by [Slater Wold](index.php?title=Slater_Wold&action=edit&redlink=1 "Slater Wold (page does not exist)"), [CCC](CCC "CCC"), April 02, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Marc Boulé, Publications](https://sites.google.com/a/etsmtl.net/mboule/home/publications)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Marc Boule](https://dblp.uni-trier.de/pers/hd/b/Boule:Marc)
 
 **[Up one level](People "People")**
 

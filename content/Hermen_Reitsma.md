@@ -18,8 +18,8 @@ Along with [Erik van het Hof](Erik_van_het_Hof "Erik van het Hof"), he is co-aut
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hermen Reitsma | LinkedIn](https://www.linkedin.com/in/hermen-reitsma-9b337a2/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [queenmaxima/README.md at master · hof/queenmaxima · GitHub](https://github.com/hof/queenmaxima/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hermen Reitsma | LinkedIn](https://www.linkedin.com/in/hermen-reitsma-9b337a2/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [queenmaxima/README.md at master · hof/queenmaxima · GitHub](https://github.com/hof/queenmaxima/blob/master/README.md)
 
 **[Up one level](People "People")**
 

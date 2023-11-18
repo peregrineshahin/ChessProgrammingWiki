@@ -42,12 +42,12 @@ His research interests include [data structures](Data "Data") and [algorithms](A
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wee-Chong Oon | LinkedIn](https://www.linkedin.com/in/wee-chong-oon-09993815/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Oon Wee Chong - Curriculum Vitae](https://sites.google.com/site/oonwc1/curriculum-vitae)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Selected Publications - Oon Wee Chong](https://sites.google.com/site/oonwc1/research/selected-publications)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Wee-Chong Oon](https://dblp.uni-trier.de/pers/hd/o/Oon:Wee=Chong.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The hillclimbing HC-Gammon](http://satirist.org/learn-game/systems/gammon/hc-gammon.html) from [Machine Learning in Games](http://satirist.org/learn-game/) by [Jay Scott](Jay_Scott "Jay Scott")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Ricochet Robot from Wikipedia](https://en.wikipedia.org/wiki/Ricochet_Robot)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wee-Chong Oon | LinkedIn](https://www.linkedin.com/in/wee-chong-oon-09993815/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Oon Wee Chong - Curriculum Vitae](https://sites.google.com/site/oonwc1/curriculum-vitae)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Selected Publications - Oon Wee Chong](https://sites.google.com/site/oonwc1/research/selected-publications)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Wee-Chong Oon](https://dblp.uni-trier.de/pers/hd/o/Oon:Wee=Chong.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The hillclimbing HC-Gammon](http://satirist.org/learn-game/systems/gammon/hc-gammon.html) from [Machine Learning in Games](http://satirist.org/learn-game/) by [Jay Scott](Jay_Scott "Jay Scott")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Ricochet Robot from Wikipedia](https://en.wikipedia.org/wiki/Ricochet_Robot)
 
 **[Up one level](People "People")**
 

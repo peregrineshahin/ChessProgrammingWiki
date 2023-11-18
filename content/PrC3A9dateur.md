@@ -40,9 +40,9 @@ an [UCI](UCI "UCI") compatible chess engine by [Julien Marcel](Julien_Marcel "Ju
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A life-sized Predator sculpture on [Koh Samui](https://en.wikipedia.org/wiki/Koh_Samui), [Image](https://commons.wikimedia.org/wiki/File:Predator_01.jpg?uselang=en) by [Jessica Spengler](https://www.flickr.com/people/97844767@N00) from [Hove](https://en.wikipedia.org/wiki/Hove), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom), February 25, 2008, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Predator (créature) - Wikipédia](http://fr.wikipedia.org/wiki/Predator_%28cr%C3%A9ature%29) (French)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Marcel Julien](http://www.blitzchess.fr/fr/programmeurs/programmeursfranais/marceljulien/index.html) from [blitzchess.fr](http://www.blitzchess.fr/) (French)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Prédateur 2.2 released](http://predateur-chess.blogspot.de/2012/01/since-little-bit-more-than-year-and.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A life-sized Predator sculpture on [Koh Samui](https://en.wikipedia.org/wiki/Koh_Samui), [Image](https://commons.wikimedia.org/wiki/File:Predator_01.jpg?uselang=en) by [Jessica Spengler](https://www.flickr.com/people/97844767@N00) from [Hove](https://en.wikipedia.org/wiki/Hove), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom), February 25, 2008, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Predator (créature) - Wikipédia](http://fr.wikipedia.org/wiki/Predator_%28cr%C3%A9ature%29) (French)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Marcel Julien](http://www.blitzchess.fr/fr/programmeurs/programmeursfranais/marceljulien/index.html) from [blitzchess.fr](http://www.blitzchess.fr/) (French)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Prédateur 2.2 released](http://predateur-chess.blogspot.de/2012/01/since-little-bit-more-than-year-and.html)
 
 **[Up one level](Engines "Engines")**
 

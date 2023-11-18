@@ -112,12 +112,12 @@ title: Maastricht University
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Building Gouvernement, former residence of the Gouvernor of [Limburg](https://en.wikipedia.org/wiki/Limburg_%28Netherlands%29). Now a part of the University. Build around 1935 and designed by [G.C. Bremer](http://en.nai.nl/museum/exhibitions/online/item/_rp_kolom2-1_elementId/1_169764), Image by [Brbbl](https://commons.wikimedia.org/wiki/User:Brbbl), June 14, 2009, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Maastricht University from Wikipedia](https://en.wikipedia.org/wiki/Maastricht_University)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [UM History](http://www.unimaas.nl/default.asp?template=werkveld.htm&id=03IM3245DVHAD1WX4P30&taal=en)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Important UM dates](http://www.unimaas.nl/default.asp?template=werkveld.htm&id=V3V152R0XROSXONX5360&taal=en)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Journal, Vol. 31, No. 2](ICGA_Journal#31_2 "ICGA Journal") [From Maastricht to Tilburg](http://ticc.uvt.nl/icga/journal/contents/content31-2.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Japan Advanced Institute of Science and Technology](JAIST "JAIST")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Levente Kocsis from the Hungarian Academy of Science](http://aurora.mlhci.sztaki.hu/www/index.pl/kocsis)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Building Gouvernement, former residence of the Gouvernor of [Limburg](https://en.wikipedia.org/wiki/Limburg_%28Netherlands%29). Now a part of the University. Build around 1935 and designed by [G.C. Bremer](http://en.nai.nl/museum/exhibitions/online/item/_rp_kolom2-1_elementId/1_169764), Image by [Brbbl](https://commons.wikimedia.org/wiki/User:Brbbl), June 14, 2009, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Maastricht University from Wikipedia](https://en.wikipedia.org/wiki/Maastricht_University)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [UM History](http://www.unimaas.nl/default.asp?template=werkveld.htm&id=03IM3245DVHAD1WX4P30&taal=en)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Important UM dates](http://www.unimaas.nl/default.asp?template=werkveld.htm&id=V3V152R0XROSXONX5360&taal=en)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Journal, Vol. 31, No. 2](ICGA_Journal#31_2 "ICGA Journal") [From Maastricht to Tilburg](http://ticc.uvt.nl/icga/journal/contents/content31-2.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Japan Advanced Institute of Science and Technology](JAIST "JAIST")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Levente Kocsis from the Hungarian Academy of Science](http://aurora.mlhci.sztaki.hu/www/index.pl/kocsis)
 
 **[Up one Level](Organizations "Organizations")**
 

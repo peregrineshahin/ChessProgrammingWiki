@@ -29,11 +29,11 @@ In their 2014 paper *Move Evaluation in Go Using Deep Convolutional Neural Netwo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chris J. Maddison - Google Scholar Citations](http://scholar.google.ca/citations?user=WjCG3owAAAAJ)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chris J. Maddison](http://www.cs.toronto.edu/~cmaddis/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Chris J. Maddison, [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [Ilya Sutskever](Ilya_Sutskever "Ilya Sutskever"), [David Silver](David_Silver "David Silver") (**2014**). *Move Evaluation in Go Using Deep Convolutional Neural Networks*. [arXiv:1412.6564v1](http://arxiv.org/abs/1412.6564v1)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Move Evaluation in Go Using Deep Convolutional Neural Networks](http://computer-go.org/pipermail/computer-go/2014-December/007046.html) by [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [The Computer-go Archives](http://computer-go.org/pipermail/computer-go/), December 19, 2014
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Chris J. Maddison](http://dblp.uni-trier.de/pers/hd/m/Maddison:Chris_J=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chris J. Maddison - Google Scholar Citations](http://scholar.google.ca/citations?user=WjCG3owAAAAJ)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chris J. Maddison](http://www.cs.toronto.edu/~cmaddis/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Chris J. Maddison, [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [Ilya Sutskever](Ilya_Sutskever "Ilya Sutskever"), [David Silver](David_Silver "David Silver") (**2014**). *Move Evaluation in Go Using Deep Convolutional Neural Networks*. [arXiv:1412.6564v1](http://arxiv.org/abs/1412.6564v1)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Move Evaluation in Go Using Deep Convolutional Neural Networks](http://computer-go.org/pipermail/computer-go/2014-December/007046.html) by [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [The Computer-go Archives](http://computer-go.org/pipermail/computer-go/), December 19, 2014
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Chris J. Maddison](http://dblp.uni-trier.de/pers/hd/m/Maddison:Chris_J=)
 
 **[Up one level](People "People")**
 

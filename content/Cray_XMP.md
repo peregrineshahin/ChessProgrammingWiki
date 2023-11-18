@@ -73,12 +73,12 @@ The Cray **C90** series (Y-MP C90) was a vector processor supercomputer launched
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Harry Nelson](Harry_Nelson "Harry Nelson"), co-developer of chess program [Cray Blitz](Cray_Blitz "Cray Blitz"), in front of Cray supercomputer, 1983 ca., Courtesy of [Lawrence Livermore National Laboratory](Lawrence_Livermore_National_Laboratory "Lawrence Livermore National Laboratory"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cray X-MP from Wikipedia](https://en.wikipedia.org/wiki/Cray_X-MP)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Cray X-MP from Wikipedia](https://en.wikipedia.org/wiki/Cray_X-MP)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cray-2 from Wikipedia](https://en.wikipedia.org/wiki/Cray-2)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Cray Y-MP from Wikipedia](https://en.wikipedia.org/wiki/Cray_Y-MP)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Cray C90 from Wikipedia](https://en.wikipedia.org/wiki/Cray_C90)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Harry Nelson](Harry_Nelson "Harry Nelson"), co-developer of chess program [Cray Blitz](Cray_Blitz "Cray Blitz"), in front of Cray supercomputer, 1983 ca., Courtesy of [Lawrence Livermore National Laboratory](Lawrence_Livermore_National_Laboratory "Lawrence Livermore National Laboratory"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cray X-MP from Wikipedia](https://en.wikipedia.org/wiki/Cray_X-MP)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Cray X-MP from Wikipedia](https://en.wikipedia.org/wiki/Cray_X-MP)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cray-2 from Wikipedia](https://en.wikipedia.org/wiki/Cray-2)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Cray Y-MP from Wikipedia](https://en.wikipedia.org/wiki/Cray_Y-MP)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Cray C90 from Wikipedia](https://en.wikipedia.org/wiki/Cray_C90)
 
 **[Up one Level](Hardware "Hardware")**
 

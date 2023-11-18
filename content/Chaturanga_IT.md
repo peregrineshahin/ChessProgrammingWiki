@@ -56,11 +56,11 @@ Qc8 21.Bb7 Qxb7 22.Re8+ Nf8 23.Rxf8+ Kxf8 24.Qd8# 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sessa](https://de.wikipedia.org/wiki/Sissa_ibn_Dahir) (or Sissa) creating [Chaturanga](https://en.wikipedia.org/wiki/Chaturanga). Illustration specially created for Wikipedia by [Thiago Cruz](https://commons.wikimedia.org/wiki/User:Thiago_Cruz), December 10, 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stefano Malloggi's home page | Chaturanga Chess Engine | Tournaments](https://web.archive.org/web/20100903180758/http://www.stefanomalloggi.altervista.org/html/tournaments1.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [History of chess from Wikipedia](https://en.wikipedia.org/wiki/History_of_chess#Origin)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Turin 2006 - Chess - Round 3 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=3&id=8)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [WCCC 2006](WCCC_2006 "WCCC 2006") Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sessa](https://de.wikipedia.org/wiki/Sissa_ibn_Dahir) (or Sissa) creating [Chaturanga](https://en.wikipedia.org/wiki/Chaturanga). Illustration specially created for Wikipedia by [Thiago Cruz](https://commons.wikimedia.org/wiki/User:Thiago_Cruz), December 10, 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stefano Malloggi's home page | Chaturanga Chess Engine | Tournaments](https://web.archive.org/web/20100903180758/http://www.stefanomalloggi.altervista.org/html/tournaments1.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [History of chess from Wikipedia](https://en.wikipedia.org/wiki/History_of_chess#Origin)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Turin 2006 - Chess - Round 3 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=3&id=8)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [WCCC 2006](WCCC_2006 "WCCC 2006") Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
 
 **[Up one level](Engines "Engines")**
 

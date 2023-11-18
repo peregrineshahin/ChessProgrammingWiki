@@ -60,13 +60,13 @@ In 2006, along with [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Csaba Sze
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Homepage of Csaba Szepesvári](http://www.ualberta.ca/~szepesva/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Research Interests of Csaba Szepesvári](http://www.sztaki.hu/%7Eszcsaba/research/Interests.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Reinforcement Learning and Artificial Intelligence (RLAI)](http://rlai.cs.ualberta.ca/RLAI/ualberta.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Csaba Szepesvári (**2006**). *[Bandit based Monte-Carlo Planning](http://www.computer-go.info/resources/bandit.html)*
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [Marc Schoenauer](Marc_Schoenauer "Marc Schoenauer"), [Michèle Sebag](Mich%C3%A8le_Sebag "Michèle Sebag"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [David Silver](David_Silver "David Silver"), Csaba Szepesvári (**2012**). *[The Grand Challenge of Computer Go: Monte Carlo Tree Search and Extensions](http://dl.acm.org/citation.cfm?id=2093548.2093574)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 55, No. 3, [pdf preprint](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Applications_files/grand-challenge.pdf)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Publications of Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/publications.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Csaba Szepesvári](http://dblp.uni-trier.de/pers/hd/s/Szepesv=aacute=ri:Csaba)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Homepage of Csaba Szepesvári](http://www.ualberta.ca/~szepesva/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Research Interests of Csaba Szepesvári](http://www.sztaki.hu/%7Eszcsaba/research/Interests.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Reinforcement Learning and Artificial Intelligence (RLAI)](http://rlai.cs.ualberta.ca/RLAI/ualberta.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Csaba Szepesvári (**2006**). *[Bandit based Monte-Carlo Planning](http://www.computer-go.info/resources/bandit.html)*
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [Marc Schoenauer](Marc_Schoenauer "Marc Schoenauer"), [Michèle Sebag](Mich%C3%A8le_Sebag "Michèle Sebag"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [David Silver](David_Silver "David Silver"), Csaba Szepesvári (**2012**). *[The Grand Challenge of Computer Go: Monte Carlo Tree Search and Extensions](http://dl.acm.org/citation.cfm?id=2093548.2093574)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 55, No. 3, [pdf preprint](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Applications_files/grand-challenge.pdf)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Publications of Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/publications.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Csaba Szepesvári](http://dblp.uni-trier.de/pers/hd/s/Szepesv=aacute=ri:Csaba)
 
 **[Up one level](People "People")**
 

@@ -48,10 +48,10 @@ Chess 2020 comes with a improved GUI and [endgame](Endgame "Endgame") play, exte
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess for Windows | Filip Höfer](https://www.filiphofer.com/en/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Chess 2013 by Filip Hofer](http://www.talkchess.com/forum/viewtopic.php?t=49458&start=6) by [Filip Höfer](Filip_H%C3%B6fer "Filip Höfer"), [CCC](CCC "CCC"), November 06, 2013
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess 2013: What is new - Filip Höfer](https://web.archive.org/web/20130616093126/http://www.filiphofer.net/software_chess_2013_new.php) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), June 2013)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [hat is New in Chess 2020 | Filip Höfer](https://www.filiphofer.com/en/chess-2020/added-features/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess for Windows | Filip Höfer](https://www.filiphofer.com/en/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Chess 2013 by Filip Hofer](http://www.talkchess.com/forum/viewtopic.php?t=49458&start=6) by [Filip Höfer](Filip_H%C3%B6fer "Filip Höfer"), [CCC](CCC "CCC"), November 06, 2013
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess 2013: What is new - Filip Höfer](https://web.archive.org/web/20130616093126/http://www.filiphofer.net/software_chess_2013_new.php) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), June 2013)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [hat is New in Chess 2020 | Filip Höfer](https://www.filiphofer.com/en/chess-2020/added-features/)
 
 **[Up one level](Engines "Engines")**
 

@@ -63,10 +63,10 @@ a free, [open source](Category:Open_Source "Category:Open Source") [chess GUI](G
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [PyChess screenshot](https://en.wikipedia.org/wiki/File:PyChess_Screenshot.png) User playing [Crafty](Crafty "Crafty"), from [PyChess from Wikipedia](https://en.wikipedia.org/wiki/PyChess), Source [About PyChess](http://pychess.org/about/) by Matthew Gatto, January 4, 2011.
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Chess Engine Update Information: August 25, 2016](http://www.talkchess.com/forum/viewtopic.php?t=61231&start=1) by [Justin Blanchard](index.php?title=Justin_Blanchard&action=edit&redlink=1 "Justin Blanchard (page does not exist)"), [CCC](CCC "CCC"), August 26, 2016
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [17.1. threading — Thread-based parallelism — Python 3.4.3 documentation](https://docs.python.org/3/library/threading.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [PyChess 0.12rc4](http://www.talkchess.com/forum/viewtopic.php?t=57302) by [Bajusz Tamás](index.php?title=Bajusz_Tam%C3%A1s&action=edit&redlink=1 "Bajusz Tamás (page does not exist)"), [CCC](CCC "CCC"), August 18, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [PyChess screenshot](https://en.wikipedia.org/wiki/File:PyChess_Screenshot.png) User playing [Crafty](Crafty "Crafty"), from [PyChess from Wikipedia](https://en.wikipedia.org/wiki/PyChess), Source [About PyChess](http://pychess.org/about/) by Matthew Gatto, January 4, 2011.
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Chess Engine Update Information: August 25, 2016](http://www.talkchess.com/forum/viewtopic.php?t=61231&start=1) by [Justin Blanchard](index.php?title=Justin_Blanchard&action=edit&redlink=1 "Justin Blanchard (page does not exist)"), [CCC](CCC "CCC"), August 26, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [17.1. threading — Thread-based parallelism — Python 3.4.3 documentation](https://docs.python.org/3/library/threading.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [PyChess 0.12rc4](http://www.talkchess.com/forum/viewtopic.php?t=57302) by [Bajusz Tamás](index.php?title=Bajusz_Tam%C3%A1s&action=edit&redlink=1 "Bajusz Tamás (page does not exist)"), [CCC](CCC "CCC"), August 18, 2015
 
 **[Up one Level](GUI "GUI")**
 

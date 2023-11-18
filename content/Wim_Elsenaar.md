@@ -30,7 +30,7 @@ Chess 0.5X competed at the early [Dutch Open Computer Chess Championships](Dutch
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from [Roger Hünen](Roger_H%C3%BCnen "Roger Hünen"), [Sicco Kooi](index.php?title=Sicco_Kooi&action=edit&redlink=1 "Sicco Kooi (page does not exist)") (eds.) (**1984**). *CSVN computerschaak toernooi Leiden 1983*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/08-1984,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201983.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1983](DOCCC_1983 "DOCCC 1983")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from [Roger Hünen](Roger_H%C3%BCnen "Roger Hünen"), [Sicco Kooi](index.php?title=Sicco_Kooi&action=edit&redlink=1 "Sicco Kooi (page does not exist)") (eds.) (**1984**). *CSVN computerschaak toernooi Leiden 1983*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/08-1984,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201983.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1983](DOCCC_1983 "DOCCC 1983")
 
 **[Up one level](People "People")**
 

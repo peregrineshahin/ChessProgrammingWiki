@@ -57,12 +57,12 @@ Nfd7 15.Qxb4 d5 16.Qa5 d4 17.Bf2 Qc7 18.f4 Bxb3 19.axb3 Rc8 20.c3 Nc5
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ferret's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=35)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bruce Moreland's Gerbil](http://web.archive.org/web/20070607151211/www.brucemo.com/compchess/gerbil/index.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Bruce Moreland's Programming Topics](https://web.archive.org/web/20071026090003/http://www.brucemo.com/compchess/programming/index.htm)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo from the no longer available [ChessBase](ChessBase "ChessBase") site
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Paderborn 1999 - Chess - Round 7 - Game 10 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=7&id=10)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ferret's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=35)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bruce Moreland's Gerbil](http://web.archive.org/web/20070607151211/www.brucemo.com/compchess/gerbil/index.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Bruce Moreland's Programming Topics](https://web.archive.org/web/20071026090003/http://www.brucemo.com/compchess/programming/index.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo from the no longer available [ChessBase](ChessBase "ChessBase") site
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Paderborn 1999 - Chess - Round 7 - Game 10 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=7&id=10)
 
 **[Up one level](People "People")**
 

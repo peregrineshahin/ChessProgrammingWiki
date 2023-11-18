@@ -69,13 +69,13 @@ Ra7 26.Qf2 Qa5 27.Bxd5 Qa1+ 28.Kd2 Qa5 29.Ke1 Rf8 30.Be4 Rd7 31.Rxd7+ Bxd7 32.Qd
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Spanje CCC 1996](http://www.csvn.nl/index.php?option=com_content&view=article&id=209%3Aspanje-ccc-1996&catid=19%3Acomputer-computer&Itemid=48&lang=en), [CSVN](CSVN "CSVN") tournament site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eugenio Castillo Jiménez](Eugenio_Castillo_Jim%C3%A9nez "Eugenio Castillo Jiménez") (**1997**). *The Spanish Computer-Chess Championship*. [ICCA Journal, Vol. 20, No. 1](ICGA_Journal#20_1 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: List is NOT a Crafty clone, ... etc](https://www.stmintz.com/ccc/index.php?id=383312) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), August 21, 2004
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Don Beal](Don_Beal "Don Beal") (**1989**). *Experiments with the Null Move.* [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5"), a revised version is published (**1990**) under the title *A Generalized Quiescence Search Algorithm*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1, edited version in (**1999**). *The Nature of MINIMAX Search*. Ph.D. thesis, IKAT, Chapter 10, pp. 101-116
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Eugen's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=28)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Paris 1997 - Chess - Round 1 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=1&id=7)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Spanje CCC 1996](http://www.csvn.nl/index.php?option=com_content&view=article&id=209%3Aspanje-ccc-1996&catid=19%3Acomputer-computer&Itemid=48&lang=en), [CSVN](CSVN "CSVN") tournament site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eugenio Castillo Jiménez](Eugenio_Castillo_Jim%C3%A9nez "Eugenio Castillo Jiménez") (**1997**). *The Spanish Computer-Chess Championship*. [ICCA Journal, Vol. 20, No. 1](ICGA_Journal#20_1 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: List is NOT a Crafty clone, ... etc](https://www.stmintz.com/ccc/index.php?id=383312) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), August 21, 2004
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Don Beal](Don_Beal "Don Beal") (**1989**). *Experiments with the Null Move.* [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5"), a revised version is published (**1990**) under the title *A Generalized Quiescence Search Algorithm*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1, edited version in (**1999**). *The Nature of MINIMAX Search*. Ph.D. thesis, IKAT, Chapter 10, pp. 101-116
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Eugen's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=28)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Paris 1997 - Chess - Round 1 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=1&id=7)
 
 **[Up one level](Engines "Engines")**
 

@@ -38,8 +38,8 @@ Smith co-authored with [Don Beal](Don_Beal "Don Beal") on various computer chess
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [dblp: Martin C. Smith](https://dblp.uni-trier.de/pers/hd/s/Smith:Martin_C=.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [dblp: Martin C. Smith](https://dblp.uni-trier.de/pers/hd/s/Smith:Martin_C=.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

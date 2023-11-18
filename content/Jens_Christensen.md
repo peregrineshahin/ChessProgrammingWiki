@@ -38,10 +38,10 @@ In one experiment, a set of [relative weights](Point_Value "Point Value") for di
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jens Christensen | LinkedIn](https://www.linkedin.com/in/jensbchristensen/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jens Christensen (**1991**). *Automatic Abstraction in Planning*. Ph.D. thesis, [Stanford University](Stanford_University "Stanford University"), [pdf](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19970034976.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Jens Christensen, [Richard Korf](Richard_Korf "Richard Korf") (**1986**). *A Unified Theory of Heuristic Evaluation functions and Its Applications to Learning.* [AAAI-86](Conferences#AAAI-86 "Conferences"), [pdf](http://www.aaai.org/Papers/AAAI/1986/AAAI86-023.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Jens Christensen](https://dblp.uni-trier.de/pers/hd/c/Christensen:Jens.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jens Christensen | LinkedIn](https://www.linkedin.com/in/jensbchristensen/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jens Christensen (**1991**). *Automatic Abstraction in Planning*. Ph.D. thesis, [Stanford University](Stanford_University "Stanford University"), [pdf](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19970034976.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Jens Christensen, [Richard Korf](Richard_Korf "Richard Korf") (**1986**). *A Unified Theory of Heuristic Evaluation functions and Its Applications to Learning.* [AAAI-86](Conferences#AAAI-86 "Conferences"), [pdf](http://www.aaai.org/Papers/AAAI/1986/AAAI86-023.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Jens Christensen](https://dblp.uni-trier.de/pers/hd/c/Christensen:Jens.html)
 
 **[Up one level](People "People")**
 

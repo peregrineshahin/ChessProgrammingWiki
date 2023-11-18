@@ -55,10 +55,10 @@ The sequence of ALU and CHARM operations in CHEOPS is determined by a 1K by 64 b
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Great Pyramid of Giza](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza), Photo by [Nina Aldin Thune](http://no.wikipedia.org/wiki/Bruker:Nina), March 2005, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [John Moussouris](John_Moussouris "John Moussouris"), [Jack Holloway](Jack_Holloway "Jack Holloway"), [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt") (**1979**). *[CHEOPS: A Chess-orientated Processing System](http://portal.acm.org/citation.cfm?id=61701.67028)*. [Machine Intelligence 9](http://www.doc.ic.ac.uk/~shm/MI/mi9.html), reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Joe Condon](Joe_Condon "Joe Condon"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1982**). *Belle Chess Hardware*. [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3"), Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CHEOPS - nothingisreal.com](http://en.nothingisreal.com/wiki/CHEOPS)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Great Pyramid of Giza](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza), Photo by [Nina Aldin Thune](http://no.wikipedia.org/wiki/Bruker:Nina), March 2005, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [John Moussouris](John_Moussouris "John Moussouris"), [Jack Holloway](Jack_Holloway "Jack Holloway"), [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt") (**1979**). *[CHEOPS: A Chess-orientated Processing System](http://portal.acm.org/citation.cfm?id=61701.67028)*. [Machine Intelligence 9](http://www.doc.ic.ac.uk/~shm/MI/mi9.html), reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Joe Condon](Joe_Condon "Joe Condon"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1982**). *Belle Chess Hardware*. [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3"), Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CHEOPS - nothingisreal.com](http://en.nothingisreal.com/wiki/CHEOPS)
 
 **[Up one Level](Hardware "Hardware")**
 

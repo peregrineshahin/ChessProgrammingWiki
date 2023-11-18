@@ -66,16 +66,16 @@ His research interests include [genetic programming](Genetic_Programming "Geneti
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wojciech Jaśkowski - Google Scholar Citations](https://scholar.google.pl/citations?user=89a-n3YAAAAJ&hl=en)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [NNAISENSE - AI For The Physical World](https://nnaisense.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Wojciech Jaśkowski (**2011**). *Algorithms for Test-Based Problems*. Ph.D. thesis, [Poznań University of Technology](https://en.wikipedia.org/wiki/Pozna%C5%84_University_of_Technology), supervisor [Krzysztof Krawiec](Krzysztof_Krawiec "Krzysztof Krawiec"), [pdf](http://pssi.agh.edu.pl/laureaci2011/pssi2011konkurs-Jaskowski-rozprawa.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Honourable mention in the competition for the 2011 Polish Artificial Intelligence Society Award for the Best Ph. D. Dissertation in Artificial Intelligence (Polskie Stowarzyszenie Sztucznej Inteligencji)](http://pssi.agh.edu.pl/en:konkurs:laureaci2011)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Publications | Wojciech Jaśkowski](http://www.cs.put.poznan.pl/wjaskowski/publications)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Wojciech Jaskowski](https://dblp.uni-trier.de/pers/hd/j/Jaskowski:Wojciech)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Ant Wars](http://www.cs.put.poznan.pl/wjaskowski/projects/ant-wars) by Wojciech Jaśkowski
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [2048 (video game) from Wikipedia](https://en.wikipedia.org/wiki/2048_%28video_game%29)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CMA-ES from Wikipedia](https://en.wikipedia.org/wiki/CMA-ES)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Edax](https://en.wikipedia.org/wiki/Edax_(computing)) by [Richard Delorme](Richard_Delorme "Richard Delorme")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wojciech Jaśkowski - Google Scholar Citations](https://scholar.google.pl/citations?user=89a-n3YAAAAJ&hl=en)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [NNAISENSE - AI For The Physical World](https://nnaisense.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Wojciech Jaśkowski (**2011**). *Algorithms for Test-Based Problems*. Ph.D. thesis, [Poznań University of Technology](https://en.wikipedia.org/wiki/Pozna%C5%84_University_of_Technology), supervisor [Krzysztof Krawiec](Krzysztof_Krawiec "Krzysztof Krawiec"), [pdf](http://pssi.agh.edu.pl/laureaci2011/pssi2011konkurs-Jaskowski-rozprawa.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Honourable mention in the competition for the 2011 Polish Artificial Intelligence Society Award for the Best Ph. D. Dissertation in Artificial Intelligence (Polskie Stowarzyszenie Sztucznej Inteligencji)](http://pssi.agh.edu.pl/en:konkurs:laureaci2011)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Publications | Wojciech Jaśkowski](http://www.cs.put.poznan.pl/wjaskowski/publications)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Wojciech Jaskowski](https://dblp.uni-trier.de/pers/hd/j/Jaskowski:Wojciech)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Ant Wars](http://www.cs.put.poznan.pl/wjaskowski/projects/ant-wars) by Wojciech Jaśkowski
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [2048 (video game) from Wikipedia](https://en.wikipedia.org/wiki/2048_%28video_game%29)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CMA-ES from Wikipedia](https://en.wikipedia.org/wiki/CMA-ES)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Edax](https://en.wikipedia.org/wiki/Edax_(computing)) by [Richard Delorme](Richard_Delorme "Richard Delorme")
 
 **[Up one level](People "People")**
 

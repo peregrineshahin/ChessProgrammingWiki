@@ -27,10 +27,10 @@ As friend of [computer chess](Category:Chess_Programmer "Category:Chess Programm
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Excursion [WCCC 2005](WCCC_2005 "WCCC 2005"), Iceland August 17, 2005
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Elke Van Vlierberghe - Center for Medical Genetics](https://www.cmgg.be/en/about-us/employees/department/DEP1600001/1652)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [24th Open Dutch Computer-Chess Championship 2004 Photo Gallery](http://old.csvn.nl/gallery21.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Excursion [WCCC 2005](WCCC_2005 "WCCC 2005"), Iceland August 17, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Excursion [WCCC 2005](WCCC_2005 "WCCC 2005"), Iceland August 17, 2005
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Elke Van Vlierberghe - Center for Medical Genetics](https://www.cmgg.be/en/about-us/employees/department/DEP1600001/1652)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [24th Open Dutch Computer-Chess Championship 2004 Photo Gallery](http://old.csvn.nl/gallery21.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Excursion [WCCC 2005](WCCC_2005 "WCCC 2005"), Iceland August 17, 2005
 
 **[Up one level](People "People")**
 

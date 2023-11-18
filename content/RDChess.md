@@ -60,9 +60,9 @@ rarely exceed the value of one pawn, except [unstoppable passers](Unstoppable_Pa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Screenshot from [RDChess](https://web.archive.org/web/20050309185315/http://www.rdchess.com/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 09, 2005)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kasparov versus Deep Junior 2003, Game 1](Kasparov_versus_Deep_Junior_2003#Game_1 "Kasparov versus Deep Junior 2003"), 23... Ba6
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [RDChess: RDChess Technical Program Description](https://web.archive.org/web/20050414085626/http://groups.msn.com/RudolfPosch/technicalprogamdescription1.msnw)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Screenshot from [RDChess](https://web.archive.org/web/20050309185315/http://www.rdchess.com/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 09, 2005)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kasparov versus Deep Junior 2003, Game 1](Kasparov_versus_Deep_Junior_2003#Game_1 "Kasparov versus Deep Junior 2003"), 23... Ba6
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [RDChess: RDChess Technical Program Description](https://web.archive.org/web/20050414085626/http://groups.msn.com/RudolfPosch/technicalprogamdescription1.msnw)
 
 **[Up one Level](Engines "Engines")**
 

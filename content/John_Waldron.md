@@ -40,8 +40,8 @@ So a fourth member of the team was recruited - John Waldron, a sound county leve
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *[MASTER at IFIPS](http://www.chilton-computing.org.uk/acl/applications/cocoa/p008.htm)*. from [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory") hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory), excerpt from [A. G. Bell](Alex_Bell "Alex Bell") (**1978**). *The Machine Plays Chess*. Pergamon Press, ISBN-13: 978-0080212227, from [amazon](http://www.amazon.com/Machine-Plays-Chess-Pergamon/dp/0080212220)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Slide 28: 23.08.74 to 01.11.74](http://www.chilton-computing.org.uk/gallery/ral/slide28.htm) from [Rutherford's](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory) Photographic Section for the [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *[MASTER at IFIPS](http://www.chilton-computing.org.uk/acl/applications/cocoa/p008.htm)*. from [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory") hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory), excerpt from [A. G. Bell](Alex_Bell "Alex Bell") (**1978**). *The Machine Plays Chess*. Pergamon Press, ISBN-13: 978-0080212227, from [amazon](http://www.amazon.com/Machine-Plays-Chess-Pergamon/dp/0080212220)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Slide 28: 23.08.74 to 01.11.74](http://www.chilton-computing.org.uk/gallery/ral/slide28.htm) from [Rutherford's](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory) Photographic Section for the [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
 
 **[Up one level](People "People")**
 

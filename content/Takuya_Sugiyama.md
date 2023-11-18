@@ -24,8 +24,8 @@ a Japanese computer scientist affiliated with the [Graduate School of Science an
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WCSC20 Participant List](https://groups.google.com/d/msg/shogi-l/bazz1reADOY/KB8UvBZQf_cJ) by Nobu, SHOGI-L, Shogi Google Group, February 02, 2010
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Takuya Sugiyama](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Sugiyama:Takuya.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WCSC20 Participant List](https://groups.google.com/d/msg/shogi-l/bazz1reADOY/KB8UvBZQf_cJ) by Nobu, SHOGI-L, Shogi Google Group, February 02, 2010
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Takuya Sugiyama](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Sugiyama:Takuya.html)
 
 **[Up one level](People "People")**
 

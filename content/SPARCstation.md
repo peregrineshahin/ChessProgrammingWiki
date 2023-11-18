@@ -42,8 +42,8 @@ The [SPARCstation 20](https://en.wikipedia.org/wiki/SPARCstation_20) as last mod
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> SPARCstation 1, Photo taken by Mike Chapman, November 06, 2006, [SPARCstation from Wikipedia](https://en.wikipedia.org/wiki/SPARCstation)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SPARCstation 1 from Wikipedia](https://en.wikipedia.org/wiki/SPARCstation_1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> SPARCstation 1, Photo taken by Mike Chapman, November 06, 2006, [SPARCstation from Wikipedia](https://en.wikipedia.org/wiki/SPARCstation)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SPARCstation 1 from Wikipedia](https://en.wikipedia.org/wiki/SPARCstation_1)
 
 **[Up one Level](Hardware "Hardware")**
 

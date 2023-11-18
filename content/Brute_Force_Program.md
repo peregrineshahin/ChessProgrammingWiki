@@ -62,12 +62,12 @@ a4 24.Rb6 g5 25.hxg5 Kg7 26.Rb7+ Kg6 27.Rhxh7 Kxg5 28.Rxb5 Kf4 29.Ra5 a3 30.Rf7+
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> "Brute Force Issue 1", [Marvel Comic](https://en.wikipedia.org/wiki/Marvel_Comics) edited by [Tom DeFalco](https://en.wikipedia.org/wiki/Tom_DeFalco), August 1990, Cover Image from [80 Page Giant: It Came From the Dollar Bin: Brute Force](http://80pagegiant.blogspot.de/2012/07/it-came-from-dollar-bin-brute-force.html) by [Trixter](https://www.blogger.com/profile/12386426230143297171), July 10, 2012
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Levy](David_Levy "David Levy") (**1978**). *ACM '78*. [ICCA Newsletter, Vol. 1, No. 1](ICGA_Journal#1_1 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pech für den Weltmeister?](https://www.computerwoche.de/a/pech-fuer-den-weltmeister,1191711), February 02, 1979, [Computerwoche](Computerworld#Woche "Computerworld") 5/1979 (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Quote by [Louis Kessler](Louis_Kessler "Louis Kessler") from [A Memorial to BRUTE FORCE](http://www.lkessler.com/brutefor.shtml):
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> "Brute Force Issue 1", [Marvel Comic](https://en.wikipedia.org/wiki/Marvel_Comics) edited by [Tom DeFalco](https://en.wikipedia.org/wiki/Tom_DeFalco), August 1990, Cover Image from [80 Page Giant: It Came From the Dollar Bin: Brute Force](http://80pagegiant.blogspot.de/2012/07/it-came-from-dollar-bin-brute-force.html) by [Trixter](https://www.blogger.com/profile/12386426230143297171), July 10, 2012
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Levy](David_Levy "David Levy") (**1978**). *ACM '78*. [ICCA Newsletter, Vol. 1, No. 1](ICGA_Journal#1_1 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pech für den Weltmeister?](https://www.computerwoche.de/a/pech-fuer-den-weltmeister,1191711), February 02, 1979, [Computerwoche](Computerworld#Woche "Computerworld") 5/1979 (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Quote by [Louis Kessler](Louis_Kessler "Louis Kessler") from [A Memorial to BRUTE FORCE](http://www.lkessler.com/brutefor.shtml):
    As far as the en passant bug goes, it turns out this was my own misinterpretation of the rules. I read that "The en passant capture must be done on the very next turn, or the right to do so is lost”. I had interpreted that as losing the right to do any en passant for the remainder of the game, not just for that one specific en passant. My personal lack of experience in tournament chess led to that, and it cost me.
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess In The Cinema - Chess scenes from the movie Brute Force (Burt Lancaster)](http://www.chess-in-the-cinema.de/showfilm.php?filmfile=4708.txt&pfad=4049)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess In The Cinema - Chess scenes from the movie Brute Force (Burt Lancaster)](http://www.chess-in-the-cinema.de/showfilm.php?filmfile=4708.txt&pfad=4049)
 
 **[Up one level](Engines "Engines")**
 

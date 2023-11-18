@@ -123,11 +123,11 @@ a6 29.Bg5 Ba1 30.Be3 Rc8 31.Bc1 Rc4 32.Be3 Rc2 33.Rf5 c4 34.Ra5 Rc6 35.Ra7 Rd6
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), [Valentin Rottmann](Valentin_Rottmann "Valentin Rottmann") (**1996**). *Parallel Controlled Conspiracy-Number Search.* [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [P.ConNerS' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=95)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The chess program P.ConNerS](https://www.wiwi.uni-siegen.de/technologiemanagement/hp/lorenz/pconners.html?lang=en)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computer P.ConNers gewinnt 10. Lippstädter GM Turnier](http://www.hsk1830.de/pages/berichte/lippstadt/lippstadt00.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ConNers (Computer) vs Maia Chiburdanidze (2000)](http://www.chessgames.com/perl/chessgame?gid=1285976) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), [Valentin Rottmann](Valentin_Rottmann "Valentin Rottmann") (**1996**). *Parallel Controlled Conspiracy-Number Search.* [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [P.ConNerS' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=95)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The chess program P.ConNerS](https://www.wiwi.uni-siegen.de/technologiemanagement/hp/lorenz/pconners.html?lang=en)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computer P.ConNers gewinnt 10. Lippstädter GM Turnier](http://www.hsk1830.de/pages/berichte/lippstadt/lippstadt00.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ConNers (Computer) vs Maia Chiburdanidze (2000)](http://www.chessgames.com/perl/chessgame?gid=1285976) from [chessgames.com](http://www.chessgames.com/index.html)
 
 **[Up one Level](Engines "Engines")**
 

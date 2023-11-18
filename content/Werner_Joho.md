@@ -57,15 +57,15 @@ and was involved in developing of the [Swiss Light Source](https://en.wikipedia.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Accelerator Facilities at the Paul Scherrer Institute PSI - Author](https://www.bod.de/buchshop/the-accelerator-facilities-at-the-paul-scherrer-institute-psi-werner-joho-9783752847116)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Large Research Facilities | GFA | Paul Scherrer Institut (PSI)](https://www.psi.ch/en/gfa)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [More from Dr. Tim Yoho's "Yoho Page", as a Yoho foundation to Billy Lee Yoho's family](http://freepages.genealogy.rootsweb.ancestry.com/~yoho/con_yoho.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Werner Joho (**1970**). *Extraction of a 590 MeV Proton Beam from the SIN Ringcyclotron*. Ph.D. thesis, [Swiss Federal Institute of Technology Zurich](ETH_Zurich "ETH Zurich"), [abstract as pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/135284/eth-34023-01.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Werner Joho, Marc Munoz, Andreas Streun (**2006**). *[The SLS booster synchrotron](https://www.sciencedirect.com/science/article/pii/S0168900206002245)*. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Computer chess via ham radio](http://ljkrakauer.com/LJK/60s/hamchess.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The first inter-computer chess game via ham radio](http://ljkrakauer.com/LJK/60s/game1list.htm), hosted by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Games 2 and 3](http://ljkrakauer.com/LJK/60s/games23list.htm), hosted by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Werner Joho | PHD in Natural Sciences | Paul Scherrer Institut, Villigen | PSI | Department Large Research Facilities (GFA)](https://www.researchgate.net/profile/Werner_Joho)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Accelerator Facilities at the Paul Scherrer Institute PSI - Author](https://www.bod.de/buchshop/the-accelerator-facilities-at-the-paul-scherrer-institute-psi-werner-joho-9783752847116)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Large Research Facilities | GFA | Paul Scherrer Institut (PSI)](https://www.psi.ch/en/gfa)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [More from Dr. Tim Yoho's "Yoho Page", as a Yoho foundation to Billy Lee Yoho's family](http://freepages.genealogy.rootsweb.ancestry.com/~yoho/con_yoho.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Werner Joho (**1970**). *Extraction of a 590 MeV Proton Beam from the SIN Ringcyclotron*. Ph.D. thesis, [Swiss Federal Institute of Technology Zurich](ETH_Zurich "ETH Zurich"), [abstract as pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/135284/eth-34023-01.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Werner Joho, Marc Munoz, Andreas Streun (**2006**). *[The SLS booster synchrotron](https://www.sciencedirect.com/science/article/pii/S0168900206002245)*. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Computer chess via ham radio](http://ljkrakauer.com/LJK/60s/hamchess.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The first inter-computer chess game via ham radio](http://ljkrakauer.com/LJK/60s/game1list.htm), hosted by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Games 2 and 3](http://ljkrakauer.com/LJK/60s/games23list.htm), hosted by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Werner Joho | PHD in Natural Sciences | Paul Scherrer Institut, Villigen | PSI | Department Large Research Facilities (GFA)](https://www.researchgate.net/profile/Werner_Joho)
 
 **[Up one level](People "People")**
 

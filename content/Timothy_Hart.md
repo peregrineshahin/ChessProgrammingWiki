@@ -63,12 +63,12 @@ Many people participated in the initial development of [LISP](index.php?title=LI
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Timothy P. (Tim) Hart y Michael I. Levin | Escuela Técnica Superior de Ingeniería de Sistemas Informáticos](http://www.etsisi.upm.es/museo_virtual/3g/mccarthy) (Spanish)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Timothy P. Hart Obituary - Cambridge, MA | ObitTree™](https://obittree.com/obituary/us/massachusetts/cambridge/keefe-funeral-homes/timothy-p-hart/1778539/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Daniel Edwards](Daniel_Edwards "Daniel Edwards"), Timothy Hart (**1961**). *[The Alpha-Beta Heuristic](https://dspace.mit.edu/handle/1721.1/6098)*. AIM-030
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [John McCarthy](John_McCarthy "John McCarthy") (**1979**). *[History of Lisp](http://jmc.stanford.edu/articles/lisp.html)*. Chapter 4, From LISP 1 to LISP 1.5
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Timothy P. Hart](https://dblp.uni-trier.de/pers/hy/h/Hart:Timothy_P=.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [McCarthy et al. LISP 1.5 Programmer's Manual.](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") Software Preservation Group
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Timothy P. (Tim) Hart y Michael I. Levin | Escuela Técnica Superior de Ingeniería de Sistemas Informáticos](http://www.etsisi.upm.es/museo_virtual/3g/mccarthy) (Spanish)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Timothy P. Hart Obituary - Cambridge, MA | ObitTree™](https://obittree.com/obituary/us/massachusetts/cambridge/keefe-funeral-homes/timothy-p-hart/1778539/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Daniel Edwards](Daniel_Edwards "Daniel Edwards"), Timothy Hart (**1961**). *[The Alpha-Beta Heuristic](https://dspace.mit.edu/handle/1721.1/6098)*. AIM-030
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [John McCarthy](John_McCarthy "John McCarthy") (**1979**). *[History of Lisp](http://jmc.stanford.edu/articles/lisp.html)*. Chapter 4, From LISP 1 to LISP 1.5
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Timothy P. Hart](https://dblp.uni-trier.de/pers/hy/h/Hart:Timothy_P=.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [McCarthy et al. LISP 1.5 Programmer's Manual.](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") Software Preservation Group
 
 **[Up one level](People "People")**
 

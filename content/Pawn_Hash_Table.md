@@ -91,8 +91,8 @@ While the content of the pawn hash table entry varies a lot between different ch
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Woodcuts Graphic Arts Woodcut Art](http://www.elke-rehder.de/Chess_Woodcuts.htm) by [Elke Rehder](Arts#Rehder "Arts")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pawn hashing without Zobrist keys](https://www.stmintz.com/ccc/index.php?id=315478) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), September 12, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Woodcuts Graphic Arts Woodcut Art](http://www.elke-rehder.de/Chess_Woodcuts.htm) by [Elke Rehder](Arts#Rehder "Arts")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pawn hashing without Zobrist keys](https://www.stmintz.com/ccc/index.php?id=315478) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), September 12, 2003
 
 **[Up one level](Pawn_Structure "Pawn Structure")**
 

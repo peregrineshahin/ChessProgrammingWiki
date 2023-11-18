@@ -76,12 +76,12 @@ r4rk1/qp3p2/4b1Np/4Q3/1P4P1/3Pp2P/6BK/n4R2 b - - 2 32
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Close UP Of SSIII LCD Display | Flickr - Fotosharing](http://www.flickr.com/photos/10261668@N05/858178111/in/set-72157600922171918) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bad Kissingen 1980 - 365Chess.com Tournaments](http://www.365chess.com/tournaments/Bad_Kissingen_1980/21825)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Horten macht's möglich: Schach-Computer für 250 Mark](http://www.computerwoche.de/heftarchiv/1978/42/1197195/), October 13, 1978 [Computerwoche](Computerworld#Woche "Computerworld") 42/1978 (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess Champion Super System III](http://www.chesscomputeruk.com/html/chess_champion_super_system_ii.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Anatoly Karpov vs Super System III](http://www.chessgames.com/perl/chessgame?gid=1068060) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Close UP Of SSIII LCD Display | Flickr - Fotosharing](http://www.flickr.com/photos/10261668@N05/858178111/in/set-72157600922171918) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bad Kissingen 1980 - 365Chess.com Tournaments](http://www.365chess.com/tournaments/Bad_Kissingen_1980/21825)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Horten macht's möglich: Schach-Computer für 250 Mark](http://www.computerwoche.de/heftarchiv/1978/42/1197195/), October 13, 1978 [Computerwoche](Computerworld#Woche "Computerworld") 42/1978 (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess Champion Super System III](http://www.chesscomputeruk.com/html/chess_champion_super_system_ii.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Anatoly Karpov vs Super System III](http://www.chessgames.com/perl/chessgame?gid=1068060) from [chessgames.com](http://www.chessgames.com/index.html)
 
 **[Up one level](Engines "Engines")**
 

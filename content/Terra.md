@@ -145,16 +145,16 @@ Kg6 77.e8=Q+ Kxh6 78.Ke5 Kg7 79.Kf5 Kh7 80.Kf6 Kh6 81.Qh8# 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> "[The Blue Marble](https://en.wikipedia.org/wiki/The_Blue_Marble)" is a famous photograph of the Earth taken on December 7, 1972 by the crew of the [Apollo 17](https://en.wikipedia.org/wiki/Apollo_17) spacecraft en route to the [Moon](https://en.wikipedia.org/wiki/Moon) at a distance of about 29,000 kilometers (18,000 statute miles). It shows [Africa](https://en.wikipedia.org/wiki/Africa), [Antarctica](https://en.wikipedia.org/wiki/Antarctica), and the [Arabian Peninsula](https://en.wikipedia.org/wiki/Arabian_Peninsula), [NASA](https://en.wikipedia.org/wiki/NASA) Photo taken by either [Harrison Schmitt](https://en.wikipedia.org/wiki/Harrison_Schmitt) or [Ron Evans](https://en.wikipedia.org/wiki/Ronald_Evans). [Earth from Wikipedia](https://en.wikipedia.org/wiki/Earth), [The Blue Marble from Wikipedia](https://en.wikipedia.org/wiki/The_Blue_Marble)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About Terra](https://www.stmintz.com/ccc/index.php?id=40911) by [Peter Fendrich](Peter_Fendrich "Peter Fendrich"), [CCC](CCC "CCC"), January 26, 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [History of Terra and related things](http://terra.fendrich.se/Terra%20Help-220.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alaric - Archive](http://alaric.fendrich.se/Archive.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [History of Terra and related things - Technical about the engine](http://terra.fendrich.se/Terra%20Help-220.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Why the name Terra?](http://terra.fendrich.se/Terra%20Help-1635.htm)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [CCT2 Games](http://www.vrichey.de/cct2/cct2games.htm)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [A few notes from Arasan's games in CCT2](https://www.stmintz.com/ccc/index.php?id=136752) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), November 05, 2000
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CCT5 games](http://www.vrichey.de/cct5/cct5_games.htm)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> A [manga](https://en.wikipedia.org/wiki/Manga) animation of [Daevid Allen's](https://en.wikipedia.org/wiki/Daevid_Allen) drawings by Japanese team [Mood Magic](http://www.sakotaharuka.com/moodmagic/) ([Koji Morimoto](https://www.animenewsnetwork.com/encyclopedia/people.php?id=2773), [Haruka Sakota](http://www.sakotaharuka.com/profile-en.html), [Akira Watanabe](https://www.animenewsnetwork.com/encyclopedia/people.php?id=12901))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> "[The Blue Marble](https://en.wikipedia.org/wiki/The_Blue_Marble)" is a famous photograph of the Earth taken on December 7, 1972 by the crew of the [Apollo 17](https://en.wikipedia.org/wiki/Apollo_17) spacecraft en route to the [Moon](https://en.wikipedia.org/wiki/Moon) at a distance of about 29,000 kilometers (18,000 statute miles). It shows [Africa](https://en.wikipedia.org/wiki/Africa), [Antarctica](https://en.wikipedia.org/wiki/Antarctica), and the [Arabian Peninsula](https://en.wikipedia.org/wiki/Arabian_Peninsula), [NASA](https://en.wikipedia.org/wiki/NASA) Photo taken by either [Harrison Schmitt](https://en.wikipedia.org/wiki/Harrison_Schmitt) or [Ron Evans](https://en.wikipedia.org/wiki/Ronald_Evans). [Earth from Wikipedia](https://en.wikipedia.org/wiki/Earth), [The Blue Marble from Wikipedia](https://en.wikipedia.org/wiki/The_Blue_Marble)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About Terra](https://www.stmintz.com/ccc/index.php?id=40911) by [Peter Fendrich](Peter_Fendrich "Peter Fendrich"), [CCC](CCC "CCC"), January 26, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [History of Terra and related things](http://terra.fendrich.se/Terra%20Help-220.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alaric - Archive](http://alaric.fendrich.se/Archive.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [History of Terra and related things - Technical about the engine](http://terra.fendrich.se/Terra%20Help-220.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Why the name Terra?](http://terra.fendrich.se/Terra%20Help-1635.htm)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [CCT2 Games](http://www.vrichey.de/cct2/cct2games.htm)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [A few notes from Arasan's games in CCT2](https://www.stmintz.com/ccc/index.php?id=136752) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), November 05, 2000
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CCT5 games](http://www.vrichey.de/cct5/cct5_games.htm)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> A [manga](https://en.wikipedia.org/wiki/Manga) animation of [Daevid Allen's](https://en.wikipedia.org/wiki/Daevid_Allen) drawings by Japanese team [Mood Magic](http://www.sakotaharuka.com/moodmagic/) ([Koji Morimoto](https://www.animenewsnetwork.com/encyclopedia/people.php?id=2773), [Haruka Sakota](http://www.sakotaharuka.com/profile-en.html), [Akira Watanabe](https://www.animenewsnetwork.com/encyclopedia/people.php?id=12901))
 
 **[Up one Level](Engines "Engines")**
 

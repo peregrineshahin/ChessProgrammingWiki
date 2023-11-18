@@ -25,9 +25,9 @@ Sierżant is also subject of Mariusz' thesis.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from Mariusz Rostek operating [Szeregowiec](Szeregowiec "Szeregowiec") at [PCCC 2003](PCCC_2003 "PCCC 2003"), [II Mistrzostwa Polski Programów Szachowych - Autorzy przy swoich programach](http://mpps.maciej.szmit.info/mpps-2/autorzy/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Mariusz Rostek (**2008**). *[Program grający w szachy](http://strony.toya.net.pl/~sierzant29/nowosci.html)*. (Chess playing programs) Engineering Thesis, [Technical University of Łódź](Technical_University_of_%C5%81%C3%B3d%C5%BA "Technical University of Łódź"), advisor [Maciej Szmit](Maciej_Szmit "Maciej Szmit")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Porucznik program szachowy algorytmy szachowe programowanie gry w szachy](http://strony.toya.net.pl/~sierzant29/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from Mariusz Rostek operating [Szeregowiec](Szeregowiec "Szeregowiec") at [PCCC 2003](PCCC_2003 "PCCC 2003"), [II Mistrzostwa Polski Programów Szachowych - Autorzy przy swoich programach](http://mpps.maciej.szmit.info/mpps-2/autorzy/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Mariusz Rostek (**2008**). *[Program grający w szachy](http://strony.toya.net.pl/~sierzant29/nowosci.html)*. (Chess playing programs) Engineering Thesis, [Technical University of Łódź](Technical_University_of_%C5%81%C3%B3d%C5%BA "Technical University of Łódź"), advisor [Maciej Szmit](Maciej_Szmit "Maciej Szmit")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Porucznik program szachowy algorytmy szachowe programowanie gry w szachy](http://strony.toya.net.pl/~sierzant29/)
 
 **[Up one Level](People "People")**
 

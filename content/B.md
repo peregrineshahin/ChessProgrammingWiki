@@ -136,11 +136,11 @@ B\* and later PB\* was implemented in [HiTech](HiTech "HiTech"). B\*HiTech playe
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Moonlit Beauties](http://commons.wikimedia.org/wiki/File:Moonlit_Beauties_by_Luis_Ricardo_Falero.jpg) by [Luis Ricardo Falero](Category:Luis_Ricardo_Falero "Category:Luis Ricardo Falero"), [Oil on canvas](https://en.wikipedia.org/wiki/Oil_painting), 19th century, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1977**). *The B\* Tree Search Procedure: Best-first Search Combined with Branch and Bound*. Computer Science Department. [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Andrew James Palay](Andrew_James_Palay "Andrew James Palay") (**1983**). *Searching with Probabilities*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [B\* Probability Search (long)](http://www.talkchess.com/forum/viewtopic.php?t=24717) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), November 04, 2008
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [engine Rocinante is available](http://www.talkchess.com/forum/viewtopic.php?t=29360) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), August 12, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Moonlit Beauties](http://commons.wikimedia.org/wiki/File:Moonlit_Beauties_by_Luis_Ricardo_Falero.jpg) by [Luis Ricardo Falero](Category:Luis_Ricardo_Falero "Category:Luis Ricardo Falero"), [Oil on canvas](https://en.wikipedia.org/wiki/Oil_painting), 19th century, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1977**). *The B\* Tree Search Procedure: Best-first Search Combined with Branch and Bound*. Computer Science Department. [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Andrew James Palay](Andrew_James_Palay "Andrew James Palay") (**1983**). *Searching with Probabilities*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [B\* Probability Search (long)](http://www.talkchess.com/forum/viewtopic.php?t=24717) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), November 04, 2008
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [engine Rocinante is available](http://www.talkchess.com/forum/viewtopic.php?t=29360) by [Antonio Torrecillas](Antonio_Torrecillas "Antonio Torrecillas"), [CCC](CCC "CCC"), August 12, 2009
 
 **[Up one level](Search "Search")**
 

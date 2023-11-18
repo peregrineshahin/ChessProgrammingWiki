@@ -49,13 +49,13 @@ an Israeli computer scientist with a Ph.D. in [Rationality](https://en.wikipedia
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Photos 2013 Events: day 7](https://icga.org/?page_id=883), [ICGA](ICGA "ICGA")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Hebrew University of Jerusalem - Center for the Study of Rationality](http://www.ratio.huji.ac.il/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Deep Junior timeline](http://www.robotwisdom.com/ai/deepjunior.html) by [Jorn Barger](https://en.wikipedia.org/wiki/Jorn_Barger), February 2003
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Photo by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [10e WK Computerschaak](http://old.csvn.nl/wk2002.html) old [CSVN](CSVN "CSVN") Site
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [WCCC 2006](WCCC_2006 "WCCC 2006"), Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> \[Ban: Automatic Learning of Evaluation [...](http://www.open-chess.org/viewtopic.php?f=5&t=1954)\] by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), May 10, 2012
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [list of questions to ask to Amir and Shay ...](https://www.stmintz.com/ccc/index.php?id=283279) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), February 10, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Photos 2013 Events: day 7](https://icga.org/?page_id=883), [ICGA](ICGA "ICGA")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Hebrew University of Jerusalem - Center for the Study of Rationality](http://www.ratio.huji.ac.il/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Deep Junior timeline](http://www.robotwisdom.com/ai/deepjunior.html) by [Jorn Barger](https://en.wikipedia.org/wiki/Jorn_Barger), February 2003
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Photo by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [10e WK Computerschaak](http://old.csvn.nl/wk2002.html) old [CSVN](CSVN "CSVN") Site
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [WCCC 2006](WCCC_2006 "WCCC 2006"), Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> \[Ban: Automatic Learning of Evaluation [...](http://www.open-chess.org/viewtopic.php?f=5&t=1954)\] by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), May 10, 2012
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [list of questions to ask to Amir and Shay ...](https://www.stmintz.com/ccc/index.php?id=283279) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), February 10, 2003
 
 **[Up one level](People "People")**
 

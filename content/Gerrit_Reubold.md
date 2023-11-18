@@ -21,10 +21,10 @@ As computer chess programmer, Gerrit Reubold is author of the chess program the 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [DLRG Informer October, November, December, 2016](https://malsch.dlrg.de/fileadmin/groups/1070080/Informer/Informer_2016-10-11-12.pdf) (pdf), [DLRG](https://en.wikipedia.org/wiki/German_Life_Saving_Association) [Malsch](https://en.wikipedia.org/wiki/Malsch)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Reubold, Gerrit - FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=4676033)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [10 kleine Gerritlein ... | praegnanz.de](https://praegnanz.de/weblog/2004/10-kleine-gerritlein-)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Gerrit from Wikipedia](https://en.wikipedia.org/wiki/Gerrit)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [DLRG Informer October, November, December, 2016](https://malsch.dlrg.de/fileadmin/groups/1070080/Informer/Informer_2016-10-11-12.pdf) (pdf), [DLRG](https://en.wikipedia.org/wiki/German_Life_Saving_Association) [Malsch](https://en.wikipedia.org/wiki/Malsch)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Reubold, Gerrit - FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=4676033)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [10 kleine Gerritlein ... | praegnanz.de](https://praegnanz.de/weblog/2004/10-kleine-gerritlein-)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Gerrit from Wikipedia](https://en.wikipedia.org/wiki/Gerrit)
 
 **[Up one level](People "People")**
 

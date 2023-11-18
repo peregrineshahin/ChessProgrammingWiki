@@ -52,9 +52,9 @@ His research interests include [evolutionary computation](Genetic_Programming#Ev
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Thomas Philip Runarsson's home page](https://notendur.hi.is/tpr/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Thomas Philip Runarsson](https://dblp.uni-trier.de/pers/hd/r/Runarsson:Thomas_Philip)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [tpr-cv.dvi - tpr.pdf](https://von.hi.is/von/eng/cv/tpr.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Thomas Philip Runarsson's home page](https://notendur.hi.is/tpr/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Thomas Philip Runarsson](https://dblp.uni-trier.de/pers/hd/r/Runarsson:Thomas_Philip)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [tpr-cv.dvi - tpr.pdf](https://von.hi.is/von/eng/cv/tpr.pdf)
 
 **[Up one level](People "People")**
 

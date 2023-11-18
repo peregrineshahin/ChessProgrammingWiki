@@ -55,15 +55,15 @@ Atari Catalog 1981 Scan, Video Chess <a id="cite-note-7" href="#cite-ref-7">[7]<
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A screenshot of Video Chess (1979), [Video Chess from Wikipedia](https://en.wikipedia.org/wiki/Video_Chess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tekla E. Perry](https://www.linkedin.com/in/tekla-perry-33b4a211), [Paul Wallich](https://spectrum.ieee.org/at-work/innovation/review-liars-outliers) (**1983**). *[Design case history: the Atari Video Computer System](http://www.atarimuseum.com/videogames/consoles/2600/Atari_case_history.html)*. [IEEE Spectrum](IEEE#Spectrum "IEEE"), March 1983, "Doing the 'impossible': chess"
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DP Interviews with Bob Whitehead](http://www.digitpress.com/library/interviews/interview_bob_whitehead.html) by Scott Stilphen
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Video Chess from Wikipedia](https://en.wikipedia.org/wiki/Video_Chess)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Venetian Blinds from Wikipedia](https://en.wikipedia.org/wiki/Venetian_blinds#Venetian)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Bob Whitehead from Wikipedia](https://en.wikipedia.org/wiki/Bob_Whitehead)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [HuguesJohnson.com: Atari Catalog 1981 Scans](https://www.huguesjohnson.com/features/atari_catalog_1981/index.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Atari 2600 Video Chess](http://hiarcs.net/forums/viewtopic.php?t=6510&sid=057dba89f05a406f1e55b3ef223a4ae7) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 29, 2013
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Multi Emulator Super System - Wikipedia](https://en.wikipedia.org/wiki/Multi_Emulator_Super_System)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A screenshot of Video Chess (1979), [Video Chess from Wikipedia](https://en.wikipedia.org/wiki/Video_Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tekla E. Perry](https://www.linkedin.com/in/tekla-perry-33b4a211), [Paul Wallich](https://spectrum.ieee.org/at-work/innovation/review-liars-outliers) (**1983**). *[Design case history: the Atari Video Computer System](http://www.atarimuseum.com/videogames/consoles/2600/Atari_case_history.html)*. [IEEE Spectrum](IEEE#Spectrum "IEEE"), March 1983, "Doing the 'impossible': chess"
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DP Interviews with Bob Whitehead](http://www.digitpress.com/library/interviews/interview_bob_whitehead.html) by Scott Stilphen
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Video Chess from Wikipedia](https://en.wikipedia.org/wiki/Video_Chess)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Venetian Blinds from Wikipedia](https://en.wikipedia.org/wiki/Venetian_blinds#Venetian)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Bob Whitehead from Wikipedia](https://en.wikipedia.org/wiki/Bob_Whitehead)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [HuguesJohnson.com: Atari Catalog 1981 Scans](https://www.huguesjohnson.com/features/atari_catalog_1981/index.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Atari 2600 Video Chess](http://hiarcs.net/forums/viewtopic.php?t=6510&sid=057dba89f05a406f1e55b3ef223a4ae7) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 29, 2013
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Multi Emulator Super System - Wikipedia](https://en.wikipedia.org/wiki/Multi_Emulator_Super_System)
 
 **[Up one Level](Engines "Engines")**
 

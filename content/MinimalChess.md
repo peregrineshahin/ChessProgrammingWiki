@@ -78,9 +78,9 @@ The game playing entity consists of the library *MinimalChess*, and using that l
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alfio Giuffrida](index.php?title=Category:Alfio_Giuffrida&action=edit&redlink=1 "Category:Alfio Giuffrida (page does not exist)") - [AG Sinnwerke, ELEMENT LVIII-Animation](https://commons.wikimedia.org/wiki/File:ELEMENT_LVIII-Animation_Alfio_Guiffrida-AG_Sinnwerke.gif), [Category:Minimalism](https://commons.wikimedia.org/wiki/Category:Minimalism), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MinimalChess 0.2 released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76560) by [Thomas Jahn](Thomas_Jahn "Thomas Jahn"), [CCC](CCC "CCC"), February 12, 2021
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - lithander/MinimalChessEngine](https://github.com/lithander/MinimalChessEngine)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alfio Giuffrida](index.php?title=Category:Alfio_Giuffrida&action=edit&redlink=1 "Category:Alfio Giuffrida (page does not exist)") - [AG Sinnwerke, ELEMENT LVIII-Animation](https://commons.wikimedia.org/wiki/File:ELEMENT_LVIII-Animation_Alfio_Guiffrida-AG_Sinnwerke.gif), [Category:Minimalism](https://commons.wikimedia.org/wiki/Category:Minimalism), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MinimalChess 0.2 released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76560) by [Thomas Jahn](Thomas_Jahn "Thomas Jahn"), [CCC](CCC "CCC"), February 12, 2021
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - lithander/MinimalChessEngine](https://github.com/lithander/MinimalChessEngine)
 
 **[Up one level](Engines "Engines")**
 

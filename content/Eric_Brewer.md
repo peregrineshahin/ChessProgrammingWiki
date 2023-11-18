@@ -47,13 +47,13 @@ While graduate student at [MIT](Massachusetts_Institute_of_Technology "Massachus
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Eric Brewer at [TNW Conference](https://en.wikipedia.org/wiki/The_Next_Web), [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam) 2015, Photo by [Vera de Kok](https://commons.wikimedia.org/wiki/User:1Veertje), April 23, 2015, [Eric Brewer (scientist) from Wikipedia](<https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)>)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Eric Brewer (**2000**). *[Towards robust distributed systems](https://dl.acm.org/citation.cfm?id=343502)*. [PODC 2000](https://dblp.uni-trier.de/db/conf/podc/podc2000.html), [2004 pdf](https://people.eecs.berkeley.edu/~brewer/cs262b-2004/PODC-keynote.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The 24th ACM International Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cceea) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1994_24th_ICCC/1994%20ICCC.062303013.sm.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Eric A. Brewer](https://dblp.uni-trier.de/pers/hd/b/Brewer:Eric_A=)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Kubernetes from Wikipedia](https://en.wikipedia.org/wiki/Kubernetes)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Kubernetes: The Path to Cloud Native - Eric Brewer, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Borg (cluster manager) from Wikipedia](<https://en.wikipedia.org/wiki/Borg_(cluster_manager)>)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Eric Brewer at [TNW Conference](https://en.wikipedia.org/wiki/The_Next_Web), [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam) 2015, Photo by [Vera de Kok](https://commons.wikimedia.org/wiki/User:1Veertje), April 23, 2015, [Eric Brewer (scientist) from Wikipedia](<https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)>)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Eric Brewer (**2000**). *[Towards robust distributed systems](https://dl.acm.org/citation.cfm?id=343502)*. [PODC 2000](https://dblp.uni-trier.de/db/conf/podc/podc2000.html), [2004 pdf](https://people.eecs.berkeley.edu/~brewer/cs262b-2004/PODC-keynote.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The 24th ACM International Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cceea) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1994_24th_ICCC/1994%20ICCC.062303013.sm.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Eric A. Brewer](https://dblp.uni-trier.de/pers/hd/b/Brewer:Eric_A=)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Kubernetes from Wikipedia](https://en.wikipedia.org/wiki/Kubernetes)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Kubernetes: The Path to Cloud Native - Eric Brewer, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Borg (cluster manager) from Wikipedia](<https://en.wikipedia.org/wiki/Borg_(cluster_manager)>)
 
 **[Up one level](People "People")**
 

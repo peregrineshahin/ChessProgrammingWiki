@@ -21,9 +21,9 @@ a Canadian computer scientist and early computer chess programmer when he was un
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hansen, Perry and Slate at 1st World Computer Chess Championship in Stockholm](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdaadb6), Photo by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ribbit's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=43)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Waterloo@50](https://cs.uwaterloo.ca/40th/Chronology/ChronologyGlossary.pdf) (pdf) 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hansen, Perry and Slate at 1st World Computer Chess Championship in Stockholm](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdaadb6), Photo by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ribbit's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=43)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Waterloo@50](https://cs.uwaterloo.ca/40th/Chronology/ChronologyGlossary.pdf) (pdf) 2007
 
 **[Up one level](People "People")**
 

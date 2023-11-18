@@ -71,15 +71,15 @@ Her research interests include the broad range of [artificial intelligence](Arti
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Home page of Michele Sebag](https://www.lri.fr/~sebag/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [TikiWiki | People](https://tao.lri.fr/tiki-index.php?page=People)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Genetic Programming Bibliography entries](http://www.cs.bham.ac.uk/~wbl/biblio/gp-html/MicheleSebag.html) for Michèle Sebag
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Publications Sebag, M.: TikiWiki](https://tao.lri.fr/tiki-index.php?page=publications&bibAuthor=Sebag%2C+M.)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Michèle Sebag](https://dblp.uni-trier.de/pers/hd/s/Sebag:Mich=egrave=le.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Michèle Sebag - Google Scholar Citations](https://scholar.google.fr/citations?user=l-ys2jMAAAAJ&hl=en)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Multi-objective optimization from Wikipedia](https://en.wikipedia.org/wiki/Multi-objective_optimization)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Adaptive coordinate descent from Wikipedia](https://en.wikipedia.org/wiki/Adaptive_coordinate_descent)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CMA-ES from Wikipedia](https://en.wikipedia.org/wiki/CMA-ES)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Home page of Michele Sebag](https://www.lri.fr/~sebag/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TikiWiki | People](https://tao.lri.fr/tiki-index.php?page=People)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Genetic Programming Bibliography entries](http://www.cs.bham.ac.uk/~wbl/biblio/gp-html/MicheleSebag.html) for Michèle Sebag
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Publications Sebag, M.: TikiWiki](https://tao.lri.fr/tiki-index.php?page=publications&bibAuthor=Sebag%2C+M.)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Michèle Sebag](https://dblp.uni-trier.de/pers/hd/s/Sebag:Mich=egrave=le.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Michèle Sebag - Google Scholar Citations](https://scholar.google.fr/citations?user=l-ys2jMAAAAJ&hl=en)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Multi-objective optimization from Wikipedia](https://en.wikipedia.org/wiki/Multi-objective_optimization)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Adaptive coordinate descent from Wikipedia](https://en.wikipedia.org/wiki/Adaptive_coordinate_descent)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CMA-ES from Wikipedia](https://en.wikipedia.org/wiki/CMA-ES)
 
 **[Up one level](People "People")**
 

@@ -49,9 +49,9 @@ a [Portuguese American](https://en.wikipedia.org/wiki/Portuguese_American) elect
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Manuela Veloso speaking at the [Turing](Alan_Turing "Alan Turing") [centennial conference](https://en.wikipedia.org/wiki/Alan_Turing_Centenary_Conference) at [Manchester Town Hall](https://en.wikipedia.org/wiki/Manchester_Town_Hall), Photo by [David.Monniaux](http://commons.wikimedia.org/wiki/User:David.Monniaux), June 24, 2012, [Manuela M. Veloso from Wikipedia](https://en.wikipedia.org/wiki/Manuela_M._Veloso)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Manuela Veloso - Mechanical Engineering - Carnegie Mellon University](http://www.cmu.edu/me/people/veloso.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Manuela M. Veloso](http://www.informatik.uni-trier.de/~ley/pers/hd/v/Veloso:Manuela_M=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Manuela Veloso speaking at the [Turing](Alan_Turing "Alan Turing") [centennial conference](https://en.wikipedia.org/wiki/Alan_Turing_Centenary_Conference) at [Manchester Town Hall](https://en.wikipedia.org/wiki/Manchester_Town_Hall), Photo by [David.Monniaux](http://commons.wikimedia.org/wiki/User:David.Monniaux), June 24, 2012, [Manuela M. Veloso from Wikipedia](https://en.wikipedia.org/wiki/Manuela_M._Veloso)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Manuela Veloso - Mechanical Engineering - Carnegie Mellon University](http://www.cmu.edu/me/people/veloso.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Manuela M. Veloso](http://www.informatik.uni-trier.de/~ley/pers/hd/v/Veloso:Manuela_M=)
 
 **[Up one level](People "People")**
 

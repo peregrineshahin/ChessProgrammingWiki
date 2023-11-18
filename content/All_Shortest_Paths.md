@@ -125,10 +125,10 @@ int allShortestPaths(U64 sq1, U64 sq2, U64 path, U64* asp) {
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Pathfinding principle illustrated in a 2D space, [Pathfinding from Wikipedia](https://en.wikipedia.org/wiki/Pathfinding)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [All shortest paths & other flood-fill based algorithms](https://www.stmintz.com/ccc/index.php?id=252020) by [Steffan Westcott](Steffan_Westcott "Steffan Westcott"), [CCC](CCC "CCC"), September 13, 2002
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Discussion about this page](https://web.archive.org/web/20180820110255/http://chessprogramming.wikispaces.com/share/view/11449287)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Shakti from Wikipedia](<https://en.wikipedia.org/wiki/Shakti_(band)>)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Pathfinding principle illustrated in a 2D space, [Pathfinding from Wikipedia](https://en.wikipedia.org/wiki/Pathfinding)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [All shortest paths & other flood-fill based algorithms](https://www.stmintz.com/ccc/index.php?id=252020) by [Steffan Westcott](Steffan_Westcott "Steffan Westcott"), [CCC](CCC "CCC"), September 13, 2002
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Discussion about this page](https://web.archive.org/web/20180820110255/http://chessprogramming.wikispaces.com/share/view/11449287)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Shakti from Wikipedia](<https://en.wikipedia.org/wiki/Shakti_(band)>)
 
 **[Up one Level](King_Pattern "King Pattern")**
 

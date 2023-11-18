@@ -76,16 +76,16 @@ he wrote on [AI](Artificial_Intelligence "Artificial Intelligence") with [Turbo 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Christopher Chabris speaking at PopTech 2012, Northport, Maine, US, October 15, 2012, Photo by Agaton Strom for PopTech, [Christopher Chabris from Wikipedia](https://en.wikipedia.org/wiki/Christopher_Chabris), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Christopher Chabris, [Daniel Simons](https://en.wikipedia.org/wiki/Daniel_Simons) (**2010, 2011**). *[The Invisible Gorilla: How Our Intuitions Deceive Us](http://www.theinvisiblegorilla.com/buy_book.html)*.
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Invisible gorilla steals Ig Nobel prize](http://www.newscientist.com/article/dn6468-invisible-gorilla-steals-ig-nobel-prize.html) by [Jeff Hecht](http://www.jeffhecht.com/), [New Scientist](https://en.wikipedia.org/wiki/New_Scientist), October 01, 2004
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Invisible Gorilla: And Other Ways Our Intuitions Deceive Us - about the authors](http://www.theinvisiblegorilla.com/biographies.html) by Christopher Chabris and [Daniel Simons](https://en.wikipedia.org/wiki/Daniel_Simons)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Christopher Chabris (**1987**). *[Reviews: The Game of Kings - START's First Chess Tournament](https://www.atarimagazines.com/startv2n2/chess.html)*. [STart Vol. 2, No. 2](https://www.atarimagazines.com/index/?issue=startv2n2)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Christopher Chabris, [Danny Kopec](Danny_Kopec "Danny Kopec") (**1994**). *Report on the Fifth Harvard Cup Human versus Computer Intel Chess Challenge*. [ICCA Journal, Vol. 17, No. 4](ICGA_Journal#17_4 "ICGA Journal")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Amazon.com: Christopher F. Chabris: Books, Biography](https://www.amazon.com/Christopher-F.-Chabris/e/B001HQ3YL8/ref=ntt_dp_epwbk_0)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Christopher F. Chabris](https://dblp.uni-trier.de/pers/hd/c/Chabris:Christopher_F=)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Jonah Lehrer from Wikipedia](https://en.wikipedia.org/wiki/Jonah_Lehrer)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Christopher Chabris speaking at PopTech 2012, Northport, Maine, US, October 15, 2012, Photo by Agaton Strom for PopTech, [Christopher Chabris from Wikipedia](https://en.wikipedia.org/wiki/Christopher_Chabris), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Christopher Chabris, [Daniel Simons](https://en.wikipedia.org/wiki/Daniel_Simons) (**2010, 2011**). *[The Invisible Gorilla: How Our Intuitions Deceive Us](http://www.theinvisiblegorilla.com/buy_book.html)*.
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Invisible gorilla steals Ig Nobel prize](http://www.newscientist.com/article/dn6468-invisible-gorilla-steals-ig-nobel-prize.html) by [Jeff Hecht](http://www.jeffhecht.com/), [New Scientist](https://en.wikipedia.org/wiki/New_Scientist), October 01, 2004
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Invisible Gorilla: And Other Ways Our Intuitions Deceive Us - about the authors](http://www.theinvisiblegorilla.com/biographies.html) by Christopher Chabris and [Daniel Simons](https://en.wikipedia.org/wiki/Daniel_Simons)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Christopher Chabris (**1987**). *[Reviews: The Game of Kings - START's First Chess Tournament](https://www.atarimagazines.com/startv2n2/chess.html)*. [STart Vol. 2, No. 2](https://www.atarimagazines.com/index/?issue=startv2n2)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Christopher Chabris, [Danny Kopec](Danny_Kopec "Danny Kopec") (**1994**). *Report on the Fifth Harvard Cup Human versus Computer Intel Chess Challenge*. [ICCA Journal, Vol. 17, No. 4](ICGA_Journal#17_4 "ICGA Journal")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Amazon.com: Christopher F. Chabris: Books, Biography](https://www.amazon.com/Christopher-F.-Chabris/e/B001HQ3YL8/ref=ntt_dp_epwbk_0)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Christopher F. Chabris](https://dblp.uni-trier.de/pers/hd/c/Chabris:Christopher_F=)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Jonah Lehrer from Wikipedia](https://en.wikipedia.org/wiki/Jonah_Lehrer)
 
 **[Up one level](People "People")**
 

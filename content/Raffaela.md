@@ -99,13 +99,13 @@ Kd8 56.g8=Q+ Kc7 57.Qh8 Kb7 58.Qd8 Kc6 59.Qd7# 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Self-portrait of Raphael, aged approximately 23, between 1504 and 1506, [Uffizi](https://en.wikipedia.org/wiki/Uffizi), [Raphael from Wikipedia](https://en.wikipedia.org/wiki/Raphael), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli") (archived)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Assembly move generation in Freccia](http://www.talkchess.com/forum/viewtopic.php?t=39873) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), July 26, 2011
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [AlfaGemma is back](http://www.talkchess.com/forum/viewtopic.php?t=61024) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), August 03, 2016
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Drago](https://www.stmintz.com/ccc/index.php?id=130537) by [Carmelo Calzerano](Carmelo_Calzerano "Carmelo Calzerano"), [CCC](CCC "CCC"), September 25, 2000
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli") (archived)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [2′ Campionato Italiano « G 6](https://www.g-sei.org/2-campionato-italiano/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Self-portrait of Raphael, aged approximately 23, between 1504 and 1506, [Uffizi](https://en.wikipedia.org/wiki/Uffizi), [Raphael from Wikipedia](https://en.wikipedia.org/wiki/Raphael), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli") (archived)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Assembly move generation in Freccia](http://www.talkchess.com/forum/viewtopic.php?t=39873) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), July 26, 2011
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [AlfaGemma is back](http://www.talkchess.com/forum/viewtopic.php?t=61024) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), August 03, 2016
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Drago](https://www.stmintz.com/ccc/index.php?id=130537) by [Carmelo Calzerano](Carmelo_Calzerano "Carmelo Calzerano"), [CCC](CCC "CCC"), September 25, 2000
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Golem's Page](http://www.oocities.org/gmasciulli/indexOld.html) by [Gianluigi Masciulli](Gianluigi_Masciulli "Gianluigi Masciulli") (archived)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [2′ Campionato Italiano « G 6](https://www.g-sei.org/2-campionato-italiano/)
 
 **[Up one level](Engines "Engines")**
 

@@ -46,13 +46,13 @@ title: Laurent Sifre
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Laurent Sifre](http://www.cmap.polytechnique.fr/~sifre/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Laurent Sifre (**2014**). *Rigid-Motion Scattering for Image Classification*. Ph.D. thesis, [École Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique), supervisor [Stéphane Mallat](Mathematician#SMallat "Mathematician"), [pdf](http://www.di.ens.fr/data/publications/papers/phd_sifre.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Laurent Sifre](http://www.cmap.polytechnique.fr/~sifre/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Publications | DeepMind](https://deepmind.com/research/publications/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Alpha Zero](http://www.open-chess.org/viewtopic.php?f=5&t=3153) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 06, 2017
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/) by [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser") and [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), December 03, 2018
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?fbclid=IwAR3mSwrn1YXDKr9uuGm2GlFKh76wBilex7f8QvBiQecwiVmAvD6Bkyjx-rE)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Laurent Sifre](http://www.cmap.polytechnique.fr/~sifre/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Laurent Sifre (**2014**). *Rigid-Motion Scattering for Image Classification*. Ph.D. thesis, [École Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique), supervisor [Stéphane Mallat](Mathematician#SMallat "Mathematician"), [pdf](http://www.di.ens.fr/data/publications/papers/phd_sifre.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Laurent Sifre](http://www.cmap.polytechnique.fr/~sifre/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Publications | DeepMind](https://deepmind.com/research/publications/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Alpha Zero](http://www.open-chess.org/viewtopic.php?f=5&t=3153) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 06, 2017
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/) by [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser") and [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), December 03, 2018
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?fbclid=IwAR3mSwrn1YXDKr9uuGm2GlFKh76wBilex7f8QvBiQecwiVmAvD6Bkyjx-rE)
 
 **[Up one level](People "People")**
 

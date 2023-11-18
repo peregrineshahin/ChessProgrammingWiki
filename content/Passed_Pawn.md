@@ -71,8 +71,8 @@ A **passed pawn,** also called **free pawn** or **passer**, is a [pawn](Pawn "Pa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Schachclub Freibauer Schöneberg e.V](http://www.freibauer-schoeneberg.de/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [passed pawn question](http://www.talkchess.com/forum/viewtopic.php?t=48823) by [Alberto Sanjuan](Alberto_Sanjuan "Alberto Sanjuan"), [CCC](CCC "CCC"), August 02, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Schachclub Freibauer Schöneberg e.V](http://www.freibauer-schoeneberg.de/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [passed pawn question](http://www.talkchess.com/forum/viewtopic.php?t=48823) by [Alberto Sanjuan](Alberto_Sanjuan "Alberto Sanjuan"), [CCC](CCC "CCC"), August 02, 2013
 
 **[Up one Level](Pawn_Structure "Pawn Structure")**
 

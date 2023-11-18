@@ -72,14 +72,14 @@ an Austrian mathematician, computer scientist, and [AI](Artificial_Intelligence 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Johannes Fürnkranz - Knowledge Engineering Group](http://www.ke.tu-darmstadt.de/staff/juffi)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Knowledge Engineering Group TU Darmstadt](http://www.ke.informatik.tu-darmstadt.de/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Johannes Fürnkranz - Curriculum Vitae](http://www.ke.informatik.tu-darmstadt.de/%7Ejuffi/cv.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Johannes Fürnkranz - Research Areas (Selected Publications)](http://www.ke.informatik.tu-darmstadt.de/%7Ejuffi/publications/publications-sel.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Johannes Fürnkranz](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/F=uuml=rnkranz%3AJohannes.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Knowledge discovery from Wikipedia](https://en.wikipedia.org/wiki/Knowledge_discovery)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Sacha Droste](Sacha_Droste "Sacha Droste") (**2008**). *Lernen von Evaluierungsfunktionen für Schachvarianten* Diplomarbeit, [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology"), Fachbereich Informatik, Fachgebiet Knowledge Engineering, Prof. Dr. J. Fürnkranz, [pdf](http://www.ke.tu-darmstadt.de/lehre/arbeiten/diplom/2008/Droste_Sacha.pdf) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Johannes Fürnkranz - Knowledge Engineering Group](http://www.ke.tu-darmstadt.de/staff/juffi)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Knowledge Engineering Group TU Darmstadt](http://www.ke.informatik.tu-darmstadt.de/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Johannes Fürnkranz - Curriculum Vitae](http://www.ke.informatik.tu-darmstadt.de/%7Ejuffi/cv.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Johannes Fürnkranz - Research Areas (Selected Publications)](http://www.ke.informatik.tu-darmstadt.de/%7Ejuffi/publications/publications-sel.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Johannes Fürnkranz](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/F=uuml=rnkranz%3AJohannes.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Knowledge discovery from Wikipedia](https://en.wikipedia.org/wiki/Knowledge_discovery)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Sacha Droste](Sacha_Droste "Sacha Droste") (**2008**). *Lernen von Evaluierungsfunktionen für Schachvarianten* Diplomarbeit, [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology"), Fachbereich Informatik, Fachgebiet Knowledge Engineering, Prof. Dr. J. Fürnkranz, [pdf](http://www.ke.tu-darmstadt.de/lehre/arbeiten/diplom/2008/Droste_Sacha.pdf) (German)
 
 **[Up one level](People "People")**
 

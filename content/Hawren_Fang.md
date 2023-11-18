@@ -36,9 +36,9 @@ a Taiwanese mathematician, computer scientist, software engineer and former rese
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hawren Fang | LinkedIn](http://www.linkedin.com/pub/hawren-fang/40/a85/907)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Haw-ren Fang](http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Haw=ren)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Can't Stop (board game) from Wikipedia](https://en.wikipedia.org/wiki/Can%27t_Stop_%28board_game%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hawren Fang | LinkedIn](http://www.linkedin.com/pub/hawren-fang/40/a85/907)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Haw-ren Fang](http://www.informatik.uni-trier.de/~ley/pers/hd/f/Fang:Haw=ren)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Can't Stop (board game) from Wikipedia](https://en.wikipedia.org/wiki/Can%27t_Stop_%28board_game%29)
 
 **[Up one level](People "People")**
 

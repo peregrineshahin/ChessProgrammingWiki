@@ -34,8 +34,8 @@ He holds a [B.Sc.](https://en.wikipedia.org/wiki/Bachelor_of_Science) with [Hono
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lozza - A javascript UI and engine](http://www.talkchess.com/forum/viewtopic.php?t=51449) by Colin Jenkins, [CCC](CCC "CCC"), March 01, 2014
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Play Lozza online](https://op12no2.github.io/lozza-ui/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lozza - A javascript UI and engine](http://www.talkchess.com/forum/viewtopic.php?t=51449) by Colin Jenkins, [CCC](CCC "CCC"), March 01, 2014
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Play Lozza online](https://op12no2.github.io/lozza-ui/)
 
 **[Up one Level](People "People")**
 

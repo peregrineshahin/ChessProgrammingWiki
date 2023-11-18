@@ -383,15 +383,15 @@ Das Internet als Quelle für:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CHESS AND MATHEMATICS - Workshop Dresden, 21st - 23rd November 2008](http://www.math.tu-dresden.de/num/chess2008/index-en.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Workshop Chess and Mathematics](http://www.math.tu-dresden.de/num/chess2008/abstracts.pdf) (pdf) agenda and abstracts
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Prof. Dr. Christian Hesse](http://www.isa.uni-stuttgart.de/AbMathStat/Hesse/) from [Universität Stuttgart](http://www.uni-stuttgart.de/index.en.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Schach: Flow und mathematisches Modell, Interview mit Professor Christian Hesse](http://www.chessbase.de/nachrichten.asp?newsid=8375), [ChessBase News](ChessBase "ChessBase"), November 15, 2008 (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**2001**). *Multi-cut Alpha-Beta Pruning in Game Tree Search.* Theoretical Computer Science, Vol. 252, pp. 177-196. [pdf](http://www.ru.is/faculty/yngvi/pdf/BjornssonM01a.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [AAAI'08 Tutorial General Game Playing, Michael Thielscher, Dresden](http://cgi.cse.unsw.edu.au/~mit/Slides/AAAI08-Tutorial.pdf) (pdf)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Bernd Steinbach](Bernd_Steinbach "Bernd Steinbach"), [Christian Posthoff](Christian_Posthoff "Christian Posthoff") (**2007**). *Set-Based SAT-Solving*. [pdf](https://pdfs.semanticscholar.org/9a62/c2f75d619ea8b6fc07e55881f2724f5a33ac.pdf)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Bernd Steinbach](Bernd_Steinbach "Bernd Steinbach"), [Christina Dorotska](http://www.informatik.tu-freiberg.de/~dorotska/) (**2000**). *[Orthogonal Block Building Using Ordered Lists of Ternary Vectors](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.32.6551)*. [Freiberg University of Mining and Technology](https://en.wikipedia.org/wiki/Freiberg_University_of_Mining_and_Technology), [pdf](http://www.informatik.tu-freiberg.de/prof2/publikationen/BP2000_OBB.pdf)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Jaap van den Herik « Glarean Magazin | Ist im Jahr 2035 Schluss mit Schach?](http://glareanverlag.wordpress.com/tag/jaap-van-den-herik/) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), January 2009 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CHESS AND MATHEMATICS - Workshop Dresden, 21st - 23rd November 2008](http://www.math.tu-dresden.de/num/chess2008/index-en.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Workshop Chess and Mathematics](http://www.math.tu-dresden.de/num/chess2008/abstracts.pdf) (pdf) agenda and abstracts
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Prof. Dr. Christian Hesse](http://www.isa.uni-stuttgart.de/AbMathStat/Hesse/) from [Universität Stuttgart](http://www.uni-stuttgart.de/index.en.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Schach: Flow und mathematisches Modell, Interview mit Professor Christian Hesse](http://www.chessbase.de/nachrichten.asp?newsid=8375), [ChessBase News](ChessBase "ChessBase"), November 15, 2008 (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**2001**). *Multi-cut Alpha-Beta Pruning in Game Tree Search.* Theoretical Computer Science, Vol. 252, pp. 177-196. [pdf](http://www.ru.is/faculty/yngvi/pdf/BjornssonM01a.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [AAAI'08 Tutorial General Game Playing, Michael Thielscher, Dresden](http://cgi.cse.unsw.edu.au/~mit/Slides/AAAI08-Tutorial.pdf) (pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Bernd Steinbach](Bernd_Steinbach "Bernd Steinbach"), [Christian Posthoff](Christian_Posthoff "Christian Posthoff") (**2007**). *Set-Based SAT-Solving*. [pdf](https://pdfs.semanticscholar.org/9a62/c2f75d619ea8b6fc07e55881f2724f5a33ac.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Bernd Steinbach](Bernd_Steinbach "Bernd Steinbach"), [Christina Dorotska](http://www.informatik.tu-freiberg.de/~dorotska/) (**2000**). *[Orthogonal Block Building Using Ordered Lists of Ternary Vectors](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.32.6551)*. [Freiberg University of Mining and Technology](https://en.wikipedia.org/wiki/Freiberg_University_of_Mining_and_Technology), [pdf](http://www.informatik.tu-freiberg.de/prof2/publikationen/BP2000_OBB.pdf)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Jaap van den Herik « Glarean Magazin | Ist im Jahr 2035 Schluss mit Schach?](http://glareanverlag.wordpress.com/tag/jaap-van-den-herik/) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), January 2009 (German)
 
 **[Up one Level](Conferences "Conferences")**
 

@@ -41,15 +41,15 @@ Along with [David Forthoffer](David_Forthoffer "David Forthoffer") and [Lars Ras
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sito Dekker | LinkedIn](https://www.linkedin.com/in/sitodekker/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sito Dekker | LinkedIn](https://www.linkedin.com/in/sitodekker/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [Guy Haworth](Guy_Haworth "Guy Haworth"), [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**2000**). *[Space-Efficient Indexing of Chess Endgame Tables](http://centaur.reading.ac.uk/4562/)*. [ICGA Journal, Vol. 23, No. 3](ICGA_Journal#23_3 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Forthoffer](David_Forthoffer "David Forthoffer"), [Lars Rasmussen](Lars_Rasmussen "Lars Rasmussen"), Sito Dekker (**1989**). *A Correction to some KRKB-Database Results*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), et al. (**1988**). *Computer Checks on Human Analyses of the KRKB Endgame*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Image from [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1983**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1982*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-1983,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201982.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1982](DOCCC_1982 "DOCCC 1982")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Sito Dekker](https://dblp.uni-trier.de/pers/ht/d/Dekker:Sito)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Parallel ATA from Wikipedia](https://en.wikipedia.org/wiki/Parallel_ATA)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sito Dekker | LinkedIn](https://www.linkedin.com/in/sitodekker/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sito Dekker | LinkedIn](https://www.linkedin.com/in/sitodekker/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [Guy Haworth](Guy_Haworth "Guy Haworth"), [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**2000**). *[Space-Efficient Indexing of Chess Endgame Tables](http://centaur.reading.ac.uk/4562/)*. [ICGA Journal, Vol. 23, No. 3](ICGA_Journal#23_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Forthoffer](David_Forthoffer "David Forthoffer"), [Lars Rasmussen](Lars_Rasmussen "Lars Rasmussen"), Sito Dekker (**1989**). *A Correction to some KRKB-Database Results*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), et al. (**1988**). *Computer Checks on Human Analyses of the KRKB Endgame*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Image from [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1983**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1982*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-1983,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201982.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1982](DOCCC_1982 "DOCCC 1982")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Sito Dekker](https://dblp.uni-trier.de/pers/ht/d/Dekker:Sito)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Parallel ATA from Wikipedia](https://en.wikipedia.org/wiki/Parallel_ATA)
 
 **[Up one level](People "People")**
 

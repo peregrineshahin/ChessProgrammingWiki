@@ -92,10 +92,10 @@ hxg6 25.Bxc6 Rxc6 26.f4 Rgc7 27.a5 Qb5 28.Rh3 Rc8 29.b3 Rc2 30.Qe3 Qxa5 31.Rg3 Q
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chex Mix](https://en.wikipedia.org/wiki/Chex_Mix) Photo by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos), November 20, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chexa « G 6](http://www.g-sei.org/chexa/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Computer Cup 4 - Photo Gallerie 1](http://www.scaccomasco.com/foto/2009/CCC4-7_nov/album/index.html) (no longer available)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chex Mix](https://en.wikipedia.org/wiki/Chex_Mix) Photo by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos), November 20, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chexa « G 6](http://www.g-sei.org/chexa/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Computer Cup 4 - Photo Gallerie 1](http://www.scaccomasco.com/foto/2009/CCC4-7_nov/album/index.html) (no longer available)
 
 **[Up one level](Engines "Engines")**
 

@@ -71,11 +71,11 @@ Featuring [Philip Eijlander](http://www.tilburguniversity.edu/webwijs/show/?uid=
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tilburg city guide by In Your Pocket](http://www.inyourpocket.com/Netherlands/Tilburg)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Casanova Language - Home](http://casanova.codeplex.com/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Flux from Wikipedia](https://en.wikipedia.org/wiki/Flux)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Implication from Wikipedia](https://en.wikipedia.org/wiki/Implication)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tilburg city guide by In Your Pocket](http://www.inyourpocket.com/Netherlands/Tilburg)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Casanova Language - Home](http://casanova.codeplex.com/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Flux from Wikipedia](https://en.wikipedia.org/wiki/Flux)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Implication from Wikipedia](https://en.wikipedia.org/wiki/Implication)
 
 **[Up one Level](Conferences "Conferences")**
 

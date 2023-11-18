@@ -22,9 +22,9 @@ a Dutch computer chess programmer, and author of the chess program [Goldbar](Gol
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Photo courtesy [Joost Buijs](Joost_Buijs "Joost Buijs"), July 24, 2015
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [24th Open Dutch Computer Chess Championship 2004 - Photo Gallery](http://old.csvn.nl/gallery21.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Photo courtesy [Joost Buijs](Joost_Buijs "Joost Buijs"), July 24, 2015
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [24th Open Dutch Computer Chess Championship 2004 - Photo Gallery](http://old.csvn.nl/gallery21.html)
 
 **[Up one level](People "People")**
 

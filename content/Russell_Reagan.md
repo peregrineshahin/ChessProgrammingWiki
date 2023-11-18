@@ -68,9 +68,9 @@ and until 2015 active poster in [Computer Chess Forums](Computer_Chess_Forums "C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Promotion frequency](https://www.stmintz.com/ccc/index.php?id=242025) by Russell Reagan, [CCC](CCC "CCC"), July 23, 2002
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: need suggestion for callable Chess engine](http://www.talkchess.com/forum/viewtopic.php?t=18608&start=10) by Russell Reagan, [CCC](CCC "CCC"), January 01, 2008
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CCC Moderator Elections Have Ended. The Winners are....](https://www.stmintz.com/ccc/index.php?id=354167) by [Steven Schwartz](Steven_Schwartz "Steven Schwartz"), [CCC](CCC "CCC"), March 12, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Promotion frequency](https://www.stmintz.com/ccc/index.php?id=242025) by Russell Reagan, [CCC](CCC "CCC"), July 23, 2002
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: need suggestion for callable Chess engine](http://www.talkchess.com/forum/viewtopic.php?t=18608&start=10) by Russell Reagan, [CCC](CCC "CCC"), January 01, 2008
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CCC Moderator Elections Have Ended. The Winners are....](https://www.stmintz.com/ccc/index.php?id=354167) by [Steven Schwartz](Steven_Schwartz "Steven Schwartz"), [CCC](CCC "CCC"), March 12, 2004
 
 **[Up one Level](People "People")**
 

@@ -106,11 +106,11 @@ Nxd7 54.Rd8 Kg6 55.h3 Rd5 56.Kf2 Nf6 57.Rxd5 Nxd5 58.Kf3 Kf5 59.g4+ Ke5 60.Kg3 N
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Henry Fuseli](Category:Henry_Fuseli "Category:Henry Fuseli") - The Nightmare, 1781, [Detroit Institute of Arts](https://en.wikipedia.org/wiki/Detroit_Institute_of_Arts), [The Nightmare from Wikipedia](https://en.wikipedia.org/wiki/The_Nightmare)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nightmare's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=18)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lyon 1990 - Chess - Round 3 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=60&round=3&id=6)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jakarta 1996 - Chess - Round 3 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=55&round=3&id=2)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Epistemology from Wikipedia](https://en.wikipedia.org/wiki/Epistemology)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Henry Fuseli](Category:Henry_Fuseli "Category:Henry Fuseli") - The Nightmare, 1781, [Detroit Institute of Arts](https://en.wikipedia.org/wiki/Detroit_Institute_of_Arts), [The Nightmare from Wikipedia](https://en.wikipedia.org/wiki/The_Nightmare)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nightmare's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=18)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lyon 1990 - Chess - Round 3 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=60&round=3&id=6)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jakarta 1996 - Chess - Round 3 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=55&round=3&id=2)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Epistemology from Wikipedia](https://en.wikipedia.org/wiki/Epistemology)
 
 **[Up one level](Engines "Engines")**
 

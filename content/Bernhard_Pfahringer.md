@@ -40,12 +40,12 @@ an Austrian computer scientist and [AI](Artificial_Intelligence "Artificial Inte
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Homepage of Bernhard Pfahringer](http://www.cs.waikato.ac.nz/%7Ebernhard/) (cropped)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bernhard Pfahringer's publications](http://www.cs.waikato.ac.nz/%7Ebernhard/pubs.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Bernhard Pfahringer](https://dblp.uni-trier.de/pers/hd/p/Pfahringer:Bernhard)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz") (**1997**). *Knowledge Discovery in Chess Databases: A Research Proposal.* Technical Report OEFAI-TR-97-33, Austrian Research Institute for Artificial Intelligence, [zipped ps](http://www.ke.informatik.tu-darmstadt.de/%7Ejuffi/publications/chess-ws.ps.gz), [pdf](http://www.top-5000.nl/ps/Knowledge%20discovery%20in%20chess%20databases%20-%20a%20research%20proposal.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Homepage of Bernhard Pfahringer](http://www.cs.waikato.ac.nz/%7Ebernhard/) (cropped)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bernhard Pfahringer's publications](http://www.cs.waikato.ac.nz/%7Ebernhard/pubs.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Bernhard Pfahringer](https://dblp.uni-trier.de/pers/hd/p/Pfahringer:Bernhard)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz") (**1997**). *Knowledge Discovery in Chess Databases: A Research Proposal.* Technical Report OEFAI-TR-97-33, Austrian Research Institute for Artificial Intelligence, [zipped ps](http://www.ke.informatik.tu-darmstadt.de/%7Ejuffi/publications/chess-ws.ps.gz), [pdf](http://www.top-5000.nl/ps/Knowledge%20discovery%20in%20chess%20databases%20-%20a%20research%20proposal.pdf)
    3.6 Non-classification techniques: ... General dependencies \[Pfahringer and Kramer, 1995\] might find interesting applications in chess databases for discovering typical piece-patterns, such as “In many cases when white castles queen-sides, he will sooner or later play h4.”
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Weka (machine learning) from Wikipedia](<https://en.wikipedia.org/wiki/Weka_(machine_learning)>)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Weka (machine learning) from Wikipedia](<https://en.wikipedia.org/wiki/Weka_(machine_learning)>)
 
 **[Up one level](People "People")**
 

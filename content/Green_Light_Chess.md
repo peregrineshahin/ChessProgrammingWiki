@@ -84,13 +84,13 @@ Bxe5 43.Qxe5 Qxe5 44.Rxe5 Bf7 45.Rg1 Rg3 46.Be2 Kh8 47.Bf3 Rag8 48.Rc1 R3g5
 
 ## \[ References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The [Gachala Emerald](https://en.wikipedia.org/wiki/Gachal%C3%A1_Emerald) from the [National Museum of Natural History](https://en.wikipedia.org/wiki/National_Museum_of_Natural_History), [Washington, D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.), [Shades of green from Wikipedia](https://en.wikipedia.org/wiki/Shades_of_green)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> not to be confused with the [glChess](index.php?title=GlChess&action=edit&redlink=1 "GlChess (page does not exist)") [GUI](GUI "GUI")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Green Light Chess - WIN32 GUI](http://www.7sun.com/chess/oldversions/218/index.php#win32-gui)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [changes.txt](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Green%20Light%20Chess%20%28Compilation%29/v2.18/changes.txt)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Graz 2003 - Chess - Round 5 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=5&id=7)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> The [Aurora Borealis](https://en.wikipedia.org/wiki/Aurora_%28astronomy%29), or Northern Lights, shines above [Bear Lake](https://en.wikipedia.org/wiki/Bear_Lake_%28Alaska%29), [Eielson Air Force Base](https://en.wikipedia.org/wiki/Eielson_Air_Force_Base), [Alaska](https://en.wikipedia.org/wiki/Alaska), January 18, 2005, [United States Air Force](https://en.wikipedia.org/wiki/United_States_Air_Force) photo by Senior Airman Joshua Strang
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The Aurora Distributed Shared Data System](http://webdocs.cs.ualberta.ca/%7Epaullu/Aurora/aurora.html) by [Paul Lu](Paul_Lu "Paul Lu")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The [Gachala Emerald](https://en.wikipedia.org/wiki/Gachal%C3%A1_Emerald) from the [National Museum of Natural History](https://en.wikipedia.org/wiki/National_Museum_of_Natural_History), [Washington, D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.), [Shades of green from Wikipedia](https://en.wikipedia.org/wiki/Shades_of_green)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> not to be confused with the [glChess](index.php?title=GlChess&action=edit&redlink=1 "GlChess (page does not exist)") [GUI](GUI "GUI")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Green Light Chess - WIN32 GUI](http://www.7sun.com/chess/oldversions/218/index.php#win32-gui)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [changes.txt](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Green%20Light%20Chess%20%28Compilation%29/v2.18/changes.txt)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Graz 2003 - Chess - Round 5 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=5&id=7)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> The [Aurora Borealis](https://en.wikipedia.org/wiki/Aurora_%28astronomy%29), or Northern Lights, shines above [Bear Lake](https://en.wikipedia.org/wiki/Bear_Lake_%28Alaska%29), [Eielson Air Force Base](https://en.wikipedia.org/wiki/Eielson_Air_Force_Base), [Alaska](https://en.wikipedia.org/wiki/Alaska), January 18, 2005, [United States Air Force](https://en.wikipedia.org/wiki/United_States_Air_Force) photo by Senior Airman Joshua Strang
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Aurora Distributed Shared Data System](http://webdocs.cs.ualberta.ca/%7Epaullu/Aurora/aurora.html) by [Paul Lu](Paul_Lu "Paul Lu")
 
 **[Up one level](Engines "Engines")**
 

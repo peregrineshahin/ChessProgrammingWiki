@@ -111,12 +111,12 @@ released in 2014 as [NoraGrace](NoraGrace "NoraGrace"), dedicated to *Nora Grace
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: new/updated engines: 2008/11/28-29](http://www.open-aurec.com/wbforum/viewtopic.php?p=187799&start=1#p187822) by [Eric Oldre](Eric_Oldre "Eric Oldre"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 01, 2008
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Latista](http://wbec-ridderkerk.nl/html/details1/Latista.html) from [WBEC Ridderkerk](WBEC "WBEC")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [trunk/Sinobyl | SVN | Assembla](https://www.assembla.com/code/sinobyl/subversion/nodes/129/trunk/Sinobyl)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [New open source engine in C# - NoraGrace](http://www.talkchess.com/forum/viewtopic.php?t=52700) by [Eric Oldre](Eric_Oldre "Eric Oldre"), [CCC](CCC "CCC"), June 20, 2014
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Latista 1.5](https://www.stmintz.com/ccc/index.php?id=479324) by [Eric Oldre](Eric_Oldre "Eric Oldre"), [CCC](CCC "CCC"), January 13, 2006
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Latista 1.4 released. (Rybka killer edition!)](https://www.stmintz.com/ccc/index.php?id=472863) by [Eric Oldre](Eric_Oldre "Eric Oldre"), [CCC](CCC "CCC"), December 23, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: new/updated engines: 2008/11/28-29](http://www.open-aurec.com/wbforum/viewtopic.php?p=187799&start=1#p187822) by [Eric Oldre](Eric_Oldre "Eric Oldre"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 01, 2008
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Latista](http://wbec-ridderkerk.nl/html/details1/Latista.html) from [WBEC Ridderkerk](WBEC "WBEC")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [trunk/Sinobyl | SVN | Assembla](https://www.assembla.com/code/sinobyl/subversion/nodes/129/trunk/Sinobyl)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [New open source engine in C# - NoraGrace](http://www.talkchess.com/forum/viewtopic.php?t=52700) by [Eric Oldre](Eric_Oldre "Eric Oldre"), [CCC](CCC "CCC"), June 20, 2014
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Latista 1.5](https://www.stmintz.com/ccc/index.php?id=479324) by [Eric Oldre](Eric_Oldre "Eric Oldre"), [CCC](CCC "CCC"), January 13, 2006
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Latista 1.4 released. (Rybka killer edition!)](https://www.stmintz.com/ccc/index.php?id=472863) by [Eric Oldre](Eric_Oldre "Eric Oldre"), [CCC](CCC "CCC"), December 23, 2005
 
 **[Up one Level](Engines "Engines")**
 

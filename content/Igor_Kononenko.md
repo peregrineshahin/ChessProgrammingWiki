@@ -52,10 +52,10 @@ His research interests covers [artificial intelligence](Artificial_Intelligence 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Homepage of Igor Kononenko](http://lkm.fri.uni-lj.si/xaigor/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Laboratory for Cognitive Modeling](http://lkm.fri.uni-lj.si/xaigor/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Igor Kononenko - Bibliography](http://lkm.fri.uni-lj.si/xaigor/slo/bibliografija.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Igor Kononenko](https://dblp.uni-trier.de/pers/hd/k/Kononenko:Igor)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Homepage of Igor Kononenko](http://lkm.fri.uni-lj.si/xaigor/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Laboratory for Cognitive Modeling](http://lkm.fri.uni-lj.si/xaigor/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Igor Kononenko - Bibliography](http://lkm.fri.uni-lj.si/xaigor/slo/bibliografija.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Igor Kononenko](https://dblp.uni-trier.de/pers/hd/k/Kononenko:Igor)
 
 **[Up one level](People "People")**
 

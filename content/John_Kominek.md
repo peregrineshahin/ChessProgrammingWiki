@@ -38,10 +38,10 @@ He further worked on a revamped version of [Nalimov Tablebases](Nalimov_Tablebas
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The 7th Computer Olympiad (Maastricht, July 2002)](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2002/album/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [John Kominek | LinkedIn](https://www.linkedin.com/in/johnkominek/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [EGTB Online distributed kbpkn.tbs stats file is incorrect](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?p=30460#p30460) by John Kominek, [CCRL Discussion - Endgame Tablebases](Computer_Chess_Forums "Computer Chess Forums"), February 17, 2008
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: John Kominek](https://dblp.uni-trier.de/pers/hd/k/Kominek:John)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The 7th Computer Olympiad (Maastricht, July 2002)](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2002/album/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [John Kominek | LinkedIn](https://www.linkedin.com/in/johnkominek/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [EGTB Online distributed kbpkn.tbs stats file is incorrect](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?p=30460#p30460) by John Kominek, [CCRL Discussion - Endgame Tablebases](Computer_Chess_Forums "Computer Chess Forums"), February 17, 2008
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: John Kominek](https://dblp.uni-trier.de/pers/hd/k/Kominek:John)
 
 **[Up one level](People "People")**
 

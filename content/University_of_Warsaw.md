@@ -27,7 +27,7 @@ title: University of Warsaw
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image by Wydział Fizyki, [Uniwersytetu Warszawskiego](https://pl.wikipedia.org/wiki/Uniwersytet_Warszawski), August 13, 2014, [University of Warsaw from Wikipedia](https://en.wikipedia.org/wiki/University_of_Warsaw)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image by Wydział Fizyki, [Uniwersytetu Warszawskiego](https://pl.wikipedia.org/wiki/Uniwersytet_Warszawski), August 13, 2014, [University of Warsaw from Wikipedia](https://en.wikipedia.org/wiki/University_of_Warsaw)
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -220,11 +220,11 @@ After a long break from 2005 with KnightX **1.92**, Christophe Jolly had his com
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Edmund Leighton](Category:Edmund_Leighton "Category:Edmund Leighton") - [The Accolade](https://en.wikipedia.org/wiki/The_Accolade_(Leighton)), 1901, [oil on canvas](https://en.wikipedia.org/wiki/Oil_painting), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [KnightX 1.86 released](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=479) by [Christophe Jolly](Christophe_Jolly "Christophe Jolly"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 03, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Knightx 1.93 released](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=54309) by [Christophe Jolly](Christophe_Jolly "Christophe Jolly"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 23, 2019
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> as mentioned in [KnightX aka Techno Chess engine for Winboard - readme.txt](http://technochess.free.fr/readme.txt)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Massy 2003/06/15 - Tournoi de programmes d'Echecs - Parties en pgn](http://www.ludochess.com/trn_massy2003/tournoi.php3)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Edmund Leighton](Category:Edmund_Leighton "Category:Edmund Leighton") - [The Accolade](https://en.wikipedia.org/wiki/The_Accolade_(Leighton)), 1901, [oil on canvas](https://en.wikipedia.org/wiki/Oil_painting), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [KnightX 1.86 released](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=479) by [Christophe Jolly](Christophe_Jolly "Christophe Jolly"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 03, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Knightx 1.93 released](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=54309) by [Christophe Jolly](Christophe_Jolly "Christophe Jolly"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 23, 2019
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> as mentioned in [KnightX aka Techno Chess engine for Winboard - readme.txt](http://technochess.free.fr/readme.txt)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Massy 2003/06/15 - Tournoi de programmes d'Echecs - Parties en pgn](http://www.ludochess.com/trn_massy2003/tournoi.php3)
 
 **[Up one Level](Engines "Engines")**
 

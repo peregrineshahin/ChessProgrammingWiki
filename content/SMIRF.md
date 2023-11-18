@@ -70,10 +70,10 @@ A technique dubbed *adaptive recursive feed-back* implements a kind of [closed l
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [smirf](http://fennetic.net/smirf/smirf.html) by [Fenn Lipkowitz](http://fennetic.net/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lorenz system from Wikipedia](https://en.wikipedia.org/wiki/Lorenz_system)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SMIRF licencing](https://www.stmintz.com/ccc/index.php?id=479262) by Robert Hollay, [CCC](CCC "CCC"), January 13, 2006
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SMIRF Chess Program - Unofficial Web site - Fischer Random Chess, Capablanca Chess](http://www.geocities.ws/smirf.chess/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [smirf](http://fennetic.net/smirf/smirf.html) by [Fenn Lipkowitz](http://fennetic.net/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lorenz system from Wikipedia](https://en.wikipedia.org/wiki/Lorenz_system)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SMIRF licencing](https://www.stmintz.com/ccc/index.php?id=479262) by Robert Hollay, [CCC](CCC "CCC"), January 13, 2006
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SMIRF Chess Program - Unofficial Web site - Fischer Random Chess, Capablanca Chess](http://www.geocities.ws/smirf.chess/)
 
 **[Up one level](Engines "Engines")**
 

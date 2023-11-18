@@ -63,14 +63,14 @@ Kf6 57.Bd4+ Kf5 58.Kf2 Bd1 59.Rf7+ Ke6 60.Rc7 Kd6 61.Bc5+ Kd5 62.Be7 fxg3+
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Saxicola rubetra](https://commons.wikimedia.org/wiki/Saxicola_rubetra) by [Marek Szczepanek](https://commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Chat (bird) from Wikipedia](https://en.wikipedia.org/wiki/Chat_%28bird%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [KI – Machinelearning – Delmare.de](https://www.delmare.de/ki-deeplearning/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [mkc Michels & Kleberhoff](http://www.mkc-gmbh.de/startseite.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chat's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=406)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hans-Peter Ketterling](index.php?title=Hans-Peter_Ketterling&action=edit&redlink=1 "Hans-Peter Ketterling (page does not exist)") (**1989**). *Computerschachneuheiten auf der Nürnberger Spielwarenmesse (Teil 3 und 4)*. [Europa-Rochade](http://de.wikipedia.org/wiki/Rochade_Europa) 03-1989, 04-1989, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/07-1989,%20Rochade,%20H.-P.%20Ketterling,%20Nurnberger%20Messe%20%28Teil%203%20und%204%29.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: One ply chess engine](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=420816&t=40165) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [CCC](CCC "CCC"), August 23, 2011
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 0:31
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Cologne 1986 - Chess - Round 4 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=2)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Saxicola rubetra](https://commons.wikimedia.org/wiki/Saxicola_rubetra) by [Marek Szczepanek](https://commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Chat (bird) from Wikipedia](https://en.wikipedia.org/wiki/Chat_%28bird%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [KI – Machinelearning – Delmare.de](https://www.delmare.de/ki-deeplearning/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [mkc Michels & Kleberhoff](http://www.mkc-gmbh.de/startseite.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chat's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=406)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hans-Peter Ketterling](index.php?title=Hans-Peter_Ketterling&action=edit&redlink=1 "Hans-Peter Ketterling (page does not exist)") (**1989**). *Computerschachneuheiten auf der Nürnberger Spielwarenmesse (Teil 3 und 4)*. [Europa-Rochade](http://de.wikipedia.org/wiki/Rochade_Europa) 03-1989, 04-1989, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/07-1989,%20Rochade,%20H.-P.%20Ketterling,%20Nurnberger%20Messe%20%28Teil%203%20und%204%29.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: One ply chess engine](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=420816&t=40165) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [CCC](CCC "CCC"), August 23, 2011
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 0:31
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Cologne 1986 - Chess - Round 4 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=2)
 
 **[Up one Level](Engines "Engines")**
 

@@ -46,8 +46,8 @@ Zeus had its over the board debut at the [CCCCISC 2008](CCCCISC_2008 "CCCCISC 20
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zeus faber](https://commons.wikimedia.org/wiki/Zeus_faber), [photo](https://commons.wikimedia.org/wiki/File:Zeus.faber_2.jpg) by [Kleines.Opossum](https://de.wikipedia.org/wiki/Benutzer:Kleines.Opossum), June 22, 2006, [Zeus (fish) from Wikipedia](https://en.wikipedia.org/wiki/Zeus_%28fish%29), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zeus 1.25 history](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Zeus%20%28Compilation%29/v1.25/history)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zeus faber](https://commons.wikimedia.org/wiki/Zeus_faber), [photo](https://commons.wikimedia.org/wiki/File:Zeus.faber_2.jpg) by [Kleines.Opossum](https://de.wikipedia.org/wiki/Benutzer:Kleines.Opossum), June 22, 2006, [Zeus (fish) from Wikipedia](https://en.wikipedia.org/wiki/Zeus_%28fish%29), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zeus 1.25 history](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/Zeus%20%28Compilation%29/v1.25/history)
 
 **[Up one Level](Engines "Engines")**
 

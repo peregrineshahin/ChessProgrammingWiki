@@ -207,26 +207,26 @@ Rémi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Rémi Coulom, [16th Computer Olympiad](16th_Computer_Olympiad "16th Computer Olympiad"), 2011, Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rémi Coulom's Home Page](http://remi.coulom.free.fr/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bayesian Elo Rating](https://www.remi-coulom.fr/Bayesian-Elo/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Crazy Stone](https://www.remi-coulom.fr/CrazyStone/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: On-line engine blitz tourney April](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70578&start=14) by Rémi Coulom, [CCC](CCC "CCC"), April 27, 2019
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CLOP for Noisy Black-Box Parameter Optimization](http://www.talkchess.com/forum/viewtopic.php?t=40237) by Rémi Coulom, [CCC](CCC "CCC"), September 01, 2011
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Rémi Coulom (**2011**). *[CLOP: Confident Local Optimization for Noisy Black-Box Parameter Tuning](http://remi.coulom.free.fr/CLOP/)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> Group Photo by [Ernest Bonnem](index.php?title=Ernest_Bonnem&action=edit&redlink=1 "Ernest Bonnem (page does not exist)"), [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Computer Olympiad in Torino, Italy](http://www.yss-aya.com/photo/20060525torino/index06.html), Photo gallery by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Chess C++ class library source code released](http://groups.google.com/group/rec.games.chess.computer/msg/1f37f1a88e61bd22) by Rémi Coulom, [rgcc](Computer_Chess_Forums "Computer Chess Forums") April 1, 1997
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Rémi Coulom's Home Page](http://remi.coulom.free.fr/)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Re: EloStat, Bayeselo and Ordo](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=471004&t=44180) by Rémi Coulom, [CCC](CCC "CCC"), June 25, 2012
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Re: Understanding and Pushing the Limits of the Elo Rating Algorithm](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72087&start=3) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), October 15, 2019
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Franz-Josef Dickhut from Wikipedia](https://en.wikipedia.org/wiki/Franz-Josef_Dickhut)
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [codecentric go challenge 2014: Interviews with Franz-Josef Dickhut and Rémi Coulom - codecentric Blog](https://blog.codecentric.de/en/2014/10/codecentric-go-challenge-2014-interviews-franz-josef-dickhut-remi-coulom/) by [Raymond Georg Snatzke](index.php?title=Raymond_Georg_Snatzke&action=edit&redlink=1 "Raymond Georg Snatzke (page does not exist)") , October 1, 2014
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [codecentric go challenge 2014: Final Interviews - codecentric Blog](https://blog.codecentric.de/en/2014/11/codecentric-go-challenge-2014-final-interviews/) by [Raymond Georg Snatzke](index.php?title=Raymond_Georg_Snatzke&action=edit&redlink=1 "Raymond Georg Snatzke (page does not exist)"), November 27, 2014
-18. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Andrew Lavin](https://github.com/andravin), [Scott Gray](https://github.com/scott-gray) (**2015**). *Fast Algorithms for Convolutional Neural Networks*. [arXiv:1509.09308](https://arxiv.org/abs/1509.09308)
-19. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [Why GEMM is at the heart of deep learning](https://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/) « [Pete Warden's](https://github.com/petewarden) [blog](https://petewarden.com/), April 20, 2015
-20. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [Wired Article on Computer GO](http://www.talkchess.com/forum/viewtopic.php?t=52312) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), May 13, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Rémi Coulom, [16th Computer Olympiad](16th_Computer_Olympiad "16th Computer Olympiad"), 2011, Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rémi Coulom's Home Page](http://remi.coulom.free.fr/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bayesian Elo Rating](https://www.remi-coulom.fr/Bayesian-Elo/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Crazy Stone](https://www.remi-coulom.fr/CrazyStone/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: On-line engine blitz tourney April](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70578&start=14) by Rémi Coulom, [CCC](CCC "CCC"), April 27, 2019
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CLOP for Noisy Black-Box Parameter Optimization](http://www.talkchess.com/forum/viewtopic.php?t=40237) by Rémi Coulom, [CCC](CCC "CCC"), September 01, 2011
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Rémi Coulom (**2011**). *[CLOP: Confident Local Optimization for Noisy Black-Box Parameter Tuning](http://remi.coulom.free.fr/CLOP/)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> Group Photo by [Ernest Bonnem](index.php?title=Ernest_Bonnem&action=edit&redlink=1 "Ernest Bonnem (page does not exist)"), [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Computer Olympiad in Torino, Italy](http://www.yss-aya.com/photo/20060525torino/index06.html), Photo gallery by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Chess C++ class library source code released](http://groups.google.com/group/rec.games.chess.computer/msg/1f37f1a88e61bd22) by Rémi Coulom, [rgcc](Computer_Chess_Forums "Computer Chess Forums") April 1, 1997
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Rémi Coulom's Home Page](http://remi.coulom.free.fr/)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Re: EloStat, Bayeselo and Ordo](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=471004&t=44180) by Rémi Coulom, [CCC](CCC "CCC"), June 25, 2012
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Re: Understanding and Pushing the Limits of the Elo Rating Algorithm](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72087&start=3) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), October 15, 2019
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Franz-Josef Dickhut from Wikipedia](https://en.wikipedia.org/wiki/Franz-Josef_Dickhut)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [codecentric go challenge 2014: Interviews with Franz-Josef Dickhut and Rémi Coulom - codecentric Blog](https://blog.codecentric.de/en/2014/10/codecentric-go-challenge-2014-interviews-franz-josef-dickhut-remi-coulom/) by [Raymond Georg Snatzke](index.php?title=Raymond_Georg_Snatzke&action=edit&redlink=1 "Raymond Georg Snatzke (page does not exist)") , October 1, 2014
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [codecentric go challenge 2014: Final Interviews - codecentric Blog](https://blog.codecentric.de/en/2014/11/codecentric-go-challenge-2014-final-interviews/) by [Raymond Georg Snatzke](index.php?title=Raymond_Georg_Snatzke&action=edit&redlink=1 "Raymond Georg Snatzke (page does not exist)"), November 27, 2014
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Andrew Lavin](https://github.com/andravin), [Scott Gray](https://github.com/scott-gray) (**2015**). *Fast Algorithms for Convolutional Neural Networks*. [arXiv:1509.09308](https://arxiv.org/abs/1509.09308)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Why GEMM is at the heart of deep learning](https://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/) « [Pete Warden's](https://github.com/petewarden) [blog](https://petewarden.com/), April 20, 2015
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Wired Article on Computer GO](http://www.talkchess.com/forum/viewtopic.php?t=52312) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), May 13, 2014
 
 **[Up one level](People "People")**
 

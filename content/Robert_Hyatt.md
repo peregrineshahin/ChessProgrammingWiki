@@ -203,18 +203,18 @@ His engine [Crafty](Crafty "Crafty") was the strongest [open source](Category:Op
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Dr. Robert Hyatt's UAB homepage](http://web.archive.org/web/20110118221705/http://www.cis.uab.edu/hyatt/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Around Crafty dev. ...](http://www.talkchess.com/forum/viewtopic.php?t=61289&start=2) by Robert Hyatt, [CCC](CCC "CCC"), September 01, 2016
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Robert Hyatt (**1983**). *Cray Blitz - A Computer Chess Playing Program*. Master's Thesis, [University of Southern Mississippi](University_of_Southern_Mississippi "University of Southern Mississippi")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Robert Hyatt (**1988**). *A High-Performance Parallel Algorithm to Search Depth-First Game Trees*. Ph.D. Thesis, Department of Computer Science, [University of Alabama at Birmingham](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdcd092) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdea550) courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") (wrong text)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The 2007 Second Annual ACCA Americas' Computer Chess Chamionships](http://aigames.net/ACCA/ACCA2007Championships/SitePics.html) Site Pics from [UAB](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [DBLP: Robert M. Hyatt](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Hyatt:Robert_M=.html)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [3 interviews about engine protocols with T. Mann, R. Hyatt and M. Blume](https://www.stmintz.com/ccc/index.php?id=245615) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 15, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Dr. Robert Hyatt's UAB homepage](http://web.archive.org/web/20110118221705/http://www.cis.uab.edu/hyatt/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Around Crafty dev. ...](http://www.talkchess.com/forum/viewtopic.php?t=61289&start=2) by Robert Hyatt, [CCC](CCC "CCC"), September 01, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Robert Hyatt (**1983**). *Cray Blitz - A Computer Chess Playing Program*. Master's Thesis, [University of Southern Mississippi](University_of_Southern_Mississippi "University of Southern Mississippi")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Robert Hyatt (**1988**). *A High-Performance Parallel Algorithm to Search Depth-First Game Trees*. Ph.D. Thesis, Department of Computer Science, [University of Alabama at Birmingham](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdcd092) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdea550) courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") (wrong text)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The 2007 Second Annual ACCA Americas' Computer Chess Chamionships](http://aigames.net/ACCA/ACCA2007Championships/SitePics.html) Site Pics from [UAB](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [DBLP: Robert M. Hyatt](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Hyatt:Robert_M=.html)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [3 interviews about engine protocols with T. Mann, R. Hyatt and M. Blume](https://www.stmintz.com/ccc/index.php?id=245615) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 15, 2002
 
 **[Up one level](People "People")**
 

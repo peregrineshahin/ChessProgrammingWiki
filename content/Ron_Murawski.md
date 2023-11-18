@@ -47,10 +47,10 @@ Ron hosts and maintains the **Computer-Chess Wiki** <a id="cite-note-3" href="#c
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Horizon Chess - Main](http://www.horizonchess.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Your first chess program](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=43381&start=30) by Ron Murawski, [CCC](CCC "CCC"), April 23, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Welcome to the Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Engine Download List](http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Horizon Chess - Main](http://www.horizonchess.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Your first chess program](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=43381&start=30) by Ron Murawski, [CCC](CCC "CCC"), April 23, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Welcome to the Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Engine Download List](http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list)
 
 **[Up one level](People "People")**
 

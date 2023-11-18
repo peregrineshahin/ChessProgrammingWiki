@@ -37,7 +37,7 @@ programs and scripts, often incorporated in [user Interfaces](User_Interface "Us
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CETSA (Chess Engine Tournament Script for Android)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77372) by Archimedes, [CCC](CCC "CCC"), May 24, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CETSA (Chess Engine Tournament Script for Android)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77372) by Archimedes, [CCC](CCC "CCC"), May 24, 2021
 
 **[Up one Level](Software "Software")**
 

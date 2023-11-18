@@ -203,15 +203,15 @@ However, with a [transposition table](Transposition_Table "Transposition Table")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Elements by Lizzie Furniture - Tables](http://www.elementsbylizzie.com/Furn_Tables.html) by [Elizabeth Battaglia](http://www.elementsbylizzie.com/Home_Page.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [triangular pv vs. hash move pv](https://www.stmintz.com/ccc/index.php?id=387179) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), September 11, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Extracting PV from TT](http://www.talkchess.com/forum/viewtopic.php?t=29730) by Colin, [CCC](CCC "CCC"), September 12, 2009
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Java: Two-dimensional arrays as arrays of arrays](http://leepoint.net/notes-java/data/arrays/arrays-2D-2.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Collecting the Principal Variation](http://web.archive.org/web/20040427013839/brucemo.com/compchess/programming/pv.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: triangular pv](http://www.talkchess.com/forum/viewtopic.php?t=47573&start=4) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), March 22, 2013
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: triangular pv](http://www.talkchess.com/forum/viewtopic.php?t=47573&start=10) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), March 22, 2013
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> See also [Robert Hyatt's](Robert_Hyatt "Robert Hyatt") [idea](Principal_Variation#SeparateTT "Principal Variation") from the [principal variation page](Principal_Variation "Principal Variation")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [List of jazz contrafacts from Wikipedia](https://en.wikipedia.org/wiki/List_of_jazz_contrafacts)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Elements by Lizzie Furniture - Tables](http://www.elementsbylizzie.com/Furn_Tables.html) by [Elizabeth Battaglia](http://www.elementsbylizzie.com/Home_Page.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [triangular pv vs. hash move pv](https://www.stmintz.com/ccc/index.php?id=387179) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), September 11, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Extracting PV from TT](http://www.talkchess.com/forum/viewtopic.php?t=29730) by Colin, [CCC](CCC "CCC"), September 12, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Java: Two-dimensional arrays as arrays of arrays](http://leepoint.net/notes-java/data/arrays/arrays-2D-2.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Collecting the Principal Variation](http://web.archive.org/web/20040427013839/brucemo.com/compchess/programming/pv.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: triangular pv](http://www.talkchess.com/forum/viewtopic.php?t=47573&start=4) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), March 22, 2013
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: triangular pv](http://www.talkchess.com/forum/viewtopic.php?t=47573&start=10) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), March 22, 2013
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> See also [Robert Hyatt's](Robert_Hyatt "Robert Hyatt") [idea](Principal_Variation#SeparateTT "Principal Variation") from the [principal variation page](Principal_Variation "Principal Variation")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [List of jazz contrafacts from Wikipedia](https://en.wikipedia.org/wiki/List_of_jazz_contrafacts)
 
 **[Up one Level](Data "Data")**
 

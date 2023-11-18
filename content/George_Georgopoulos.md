@@ -18,10 +18,10 @@ He is chess player, chess arbiter <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [eorgopoulos, Georgios FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=4258070)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Composers: August 23rd](http://chesscomposers.blogspot.com/2012/08/august-23rd.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [chess-problems-gr: Composers cooperating, (No.1)](http://chess-problems-gr.blogspot.com/2009/11/composers-cooperating-no1.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Article on [study](Chess_Problems,_Compositions_and_Studies "Chess Problems, Compositions and Studies") by [www.arves.org Gijs van Breukelen](http://www.arves.org/arves/index.php/en/halloffame/333-van-breukelen-gijs) mentions George Georgopoulos
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [eorgopoulos, Georgios FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=4258070)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Composers: August 23rd](http://chesscomposers.blogspot.com/2012/08/august-23rd.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [chess-problems-gr: Composers cooperating, (No.1)](http://chess-problems-gr.blogspot.com/2009/11/composers-cooperating-no1.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Article on [study](Chess_Problems,_Compositions_and_Studies "Chess Problems, Compositions and Studies") by [www.arves.org Gijs van Breukelen](http://www.arves.org/arves/index.php/en/halloffame/333-van-breukelen-gijs) mentions George Georgopoulos
 
 **[Up one level](People "People")**
 

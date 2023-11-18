@@ -57,11 +57,11 @@ The [search](Search "Search") is implemented using a derivation chain of classes
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hurricane Betsy](https://en.wikipedia.org/wiki/Hurricane_Betsy) in the [Gulf of Mexico](https://en.wikipedia.org/wiki/Gulf_of_Mexico) in September of 1965 as taken by the [TIROS-8](https://en.wikipedia.org/wiki/Television_Infrared_Observation_Satellite) weather satellite. Source: [NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration) [Photo Library](http://www.photolib.noaa.gov/), September 4, 1965
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Betsy](https://web.archive.org/web/20131109133342/http://wbec-ridderkerk.nl/html/details1/Betsy.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Der Chess960-Express ist nicht mehr aufzuhalten](https://chess-tigers.de/index_news.php?id=308&rubrik=4&PHPSESSID=d71dfe17e7e8aae16adce6f8fb284410), [Chess Tigers Training Center](https://chess-tigers.de/cttc_main.php?rubrik=7), July 20, 2005 (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [landon rabern - about](https://landon.github.io/#about) (2019)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - landon/Chess: Beginnings of a port of Betsy to C#](https://github.com/landon/Chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hurricane Betsy](https://en.wikipedia.org/wiki/Hurricane_Betsy) in the [Gulf of Mexico](https://en.wikipedia.org/wiki/Gulf_of_Mexico) in September of 1965 as taken by the [TIROS-8](https://en.wikipedia.org/wiki/Television_Infrared_Observation_Satellite) weather satellite. Source: [NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration) [Photo Library](http://www.photolib.noaa.gov/), September 4, 1965
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Betsy](https://web.archive.org/web/20131109133342/http://wbec-ridderkerk.nl/html/details1/Betsy.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Der Chess960-Express ist nicht mehr aufzuhalten](https://chess-tigers.de/index_news.php?id=308&rubrik=4&PHPSESSID=d71dfe17e7e8aae16adce6f8fb284410), [Chess Tigers Training Center](https://chess-tigers.de/cttc_main.php?rubrik=7), July 20, 2005 (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [landon rabern - about](https://landon.github.io/#about) (2019)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - landon/Chess: Beginnings of a port of Betsy to C#](https://github.com/landon/Chess)
 
 **[Up one Level](Engines "Engines")**
 

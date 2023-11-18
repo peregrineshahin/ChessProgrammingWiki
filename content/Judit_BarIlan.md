@@ -59,13 +59,13 @@ Her research interests include [internet research](https://en.wikipedia.org/wiki
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Prof. Judit Bar-Ilan Homepage](https://is.biu.ac.il/en/judit/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bar-Ilan (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Bar-Ilan_%28disambiguation%29)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mark Levene](Mark_Levene "Mark Levene"), Judit Bar-Ilan (**2005**). *[Comparing Move Choices of Chess Search Engines](https://www.researchgate.net/publication/220174440_Comparing_Move_Choices_of_Chess_Search_Engines)*. [ICGA Journal, Vol. 28, No. 2](ICGA_Journal#28_2 "ICGA Journal"), [pdf](http://www.dcs.bbk.ac.uk/~mark/download/fritz_junior_icga.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mark Levene](Mark_Levene "Mark Levene"), Judit Bar-Ilan (**2006**). *Comparing Typical Opening Move Choices Made by Humans and Chess Engines*. [arXiv:cs/0610060](https://arxiv.org/abs/cs/0610060)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Judit Bar-Ilan - Publications](http://www.biu.ac.il/faculty/Judit/publ.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Judit Bar-Ilan](https://dblp.uni-trier.de/pers/hd/b/Bar=Ilan:Judit.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [One-way function from Wikipedia](https://en.wikipedia.org/wiki/One-way_function)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Prof. Judit Bar-Ilan Homepage](https://is.biu.ac.il/en/judit/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bar-Ilan (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Bar-Ilan_%28disambiguation%29)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mark Levene](Mark_Levene "Mark Levene"), Judit Bar-Ilan (**2005**). *[Comparing Move Choices of Chess Search Engines](https://www.researchgate.net/publication/220174440_Comparing_Move_Choices_of_Chess_Search_Engines)*. [ICGA Journal, Vol. 28, No. 2](ICGA_Journal#28_2 "ICGA Journal"), [pdf](http://www.dcs.bbk.ac.uk/~mark/download/fritz_junior_icga.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mark Levene](Mark_Levene "Mark Levene"), Judit Bar-Ilan (**2006**). *Comparing Typical Opening Move Choices Made by Humans and Chess Engines*. [arXiv:cs/0610060](https://arxiv.org/abs/cs/0610060)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Judit Bar-Ilan - Publications](http://www.biu.ac.il/faculty/Judit/publ.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Judit Bar-Ilan](https://dblp.uni-trier.de/pers/hd/b/Bar=Ilan:Judit.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [One-way function from Wikipedia](https://en.wikipedia.org/wiki/One-way_function)
 
 **[Up one level](People "People")**
 

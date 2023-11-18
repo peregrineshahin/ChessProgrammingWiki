@@ -117,10 +117,10 @@ Invictus r324 had its tournament debut at [TCEC Season 21](TCEC_Season_21 "TCEC 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sol Invictus](https://commons.wikimedia.org/wiki/File:Beit_alfa01.jpg), a [Byzantine](https://en.wikipedia.org/wiki/Byzantine_art) mosaic of a [Zodiac Wheel](https://en.wikipedia.org/wiki/Astrological_sign) — from the 6th century ancient [Beth Alpha](https://en.wikipedia.org/wiki/Beth_Alpha) synagogue. [Sol Invictus from Wikipedia](https://en.wikipedia.org/wiki/Sol_Invictus), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Invictus chess engine r228](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68538) by [Edsel Apostol](Edsel_Apostol "Edsel Apostol"), [CCC](CCC "CCC"), September 29, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sol Invictus](https://commons.wikimedia.org/wiki/File:Beit_alfa01.jpg), a [Byzantine](https://en.wikipedia.org/wiki/Byzantine_art) mosaic of a [Zodiac Wheel](https://en.wikipedia.org/wiki/Astrological_sign) — from the 6th century ancient [Beth Alpha](https://en.wikipedia.org/wiki/Beth_Alpha) synagogue. [Sol Invictus from Wikipedia](https://en.wikipedia.org/wiki/Sol_Invictus), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Invictus chess engine r228](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68538) by [Edsel Apostol](Edsel_Apostol "Edsel Apostol"), [CCC](CCC "CCC"), September 29, 2018
 3. ↑ [3.0](#cite-ref-readme-3-0) [3.1](#cite-ref-readme-3-1) [InvictusChess/README.md at master · ed-apostol/InvictusChess · GitHub](https://github.com/ed-apostol/InvictusChess/blob/master/README.md)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Simplified ABDADA](http://www.tckerrigan.com/Chess/Parallel_Search/Simplified_ABDADA/) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Simplified ABDADA](http://www.tckerrigan.com/Chess/Parallel_Search/Simplified_ABDADA/) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan")
 
 **[Up one Level](Engines "Engines")**
 

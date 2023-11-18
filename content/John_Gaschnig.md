@@ -38,13 +38,13 @@ was an American electrical engineer, computer scientist and [AI](Artificial_Inte
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nils J. Nilsson](Mathematician#NilsNilsson "Mathematician") (**1982**) *[In Memoriam: John G. Gaschnig](https://aaai.org/ojs/index.php/aimagazine/article/view/366)*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 3, No. 2
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Expert Systems Case Studies: Prospector](http://www.computing.surrey.ac.uk/ai/PROFILE/prospector.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Samuel Fuller](Samuel_Fuller "Samuel Fuller"), John Gaschnig, [James Gillogly](James_Gillogly "James Gillogly") (**1973**). *An Analysis of the Alpha-Beta Pruning Algorithm.* Technical Report, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> John Gaschnig (**1979**). *[Performance Measurement and Analysis of Certain Search Algorithms](https://dl.acm.org/citation.cfm?id=909244)*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Patrick Prosser](https://en.wikipedia.org/wiki/Patrick_Prosser) (**1993**). *[Hybrid Algorithms for the Constraint Satisfaction Problem](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8640.1993.tb00310.x)*. [Computational Intelligence](https://en.wikipedia.org/wiki/Computational_Intelligence_(journal)), Vol. 9, No. 3
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: John Gaschnig](https://dblp.uni-trier.de/pers/hd/g/Gaschnig:John.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nils J. Nilsson](Mathematician#NilsNilsson "Mathematician") (**1982**) *[In Memoriam: John G. Gaschnig](https://aaai.org/ojs/index.php/aimagazine/article/view/366)*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 3, No. 2
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Expert Systems Case Studies: Prospector](http://www.computing.surrey.ac.uk/ai/PROFILE/prospector.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Samuel Fuller](Samuel_Fuller "Samuel Fuller"), John Gaschnig, [James Gillogly](James_Gillogly "James Gillogly") (**1973**). *An Analysis of the Alpha-Beta Pruning Algorithm.* Technical Report, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> John Gaschnig (**1979**). *[Performance Measurement and Analysis of Certain Search Algorithms](https://dl.acm.org/citation.cfm?id=909244)*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Patrick Prosser](https://en.wikipedia.org/wiki/Patrick_Prosser) (**1993**). *[Hybrid Algorithms for the Constraint Satisfaction Problem](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8640.1993.tb00310.x)*. [Computational Intelligence](https://en.wikipedia.org/wiki/Computational_Intelligence_(journal)), Vol. 9, No. 3
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: John Gaschnig](https://dblp.uni-trier.de/pers/hd/g/Gaschnig:John.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

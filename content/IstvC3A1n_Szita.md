@@ -41,11 +41,11 @@ a Hungarian computer scientist and software engineer at [Google](index.php?title
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> István Szita (**2007**). *Rewarding Excursions: Extending Reinforcement Learning to Complex Domains*. Ph.D. thesis, supervisor András Lőrincz, [Eötvös Loránd University](https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: István Szita](https://dblp.uni-trier.de/pers/hd/s/Szita:Istv=aacute=n)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tetris from Wikipedia](https://en.wikipedia.org/wiki/Tetris)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Many Faces of Optimism: a Unifying Approach - videolectures.net](http://videolectures.net/icml08_szita_mfo/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Settlers of Catan from Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_of_Catan)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> István Szita (**2007**). *Rewarding Excursions: Extending Reinforcement Learning to Complex Domains*. Ph.D. thesis, supervisor András Lőrincz, [Eötvös Loránd University](https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: István Szita](https://dblp.uni-trier.de/pers/hd/s/Szita:Istv=aacute=n)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tetris from Wikipedia](https://en.wikipedia.org/wiki/Tetris)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Many Faces of Optimism: a Unifying Approach - videolectures.net](http://videolectures.net/icml08_szita_mfo/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Settlers of Catan from Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_of_Catan)
 
 **[Up one level](People "People")**
 

@@ -71,10 +71,10 @@ was originally a [Windows](Windows "Windows") [protocol](Protocols "Protocols") 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [UCI2WB "replacement" project news](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47003) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 23, 2004
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Universal Shogi Interface (USI)](http://hgm.nubati.net/usi.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [WinBoard 4.4 downloads](http://www.open-aurec.com/wbforum/viewtopic.php?f=19&t=50387) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 05, 2009
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Cannot download Polyglot or KingSlayer source code](http://www.talkchess.com/forum/viewtopic.php?t=66194&start=6) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 01, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [UCI2WB "replacement" project news](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47003) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 23, 2004
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Universal Shogi Interface (USI)](http://hgm.nubati.net/usi.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [WinBoard 4.4 downloads](http://www.open-aurec.com/wbforum/viewtopic.php?f=19&t=50387) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 05, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Cannot download Polyglot or KingSlayer source code](http://www.talkchess.com/forum/viewtopic.php?t=66194&start=6) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 01, 2018
 
 **[Up one Level](Utilities "Utilities")**
 

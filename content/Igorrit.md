@@ -44,7 +44,7 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [IPPOLIT from Wikipedia](https://en.wikipedia.org/wiki/IPPOLIT)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [IPPOLIT from Wikipedia](https://en.wikipedia.org/wiki/IPPOLIT)
 
 **[Up one level](Ippolit "Ippolit")**
 

@@ -32,7 +32,7 @@ a Finnish freetime and computer chess programmer. He is author of the [Chess Eng
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Cutechess-cli: A command line tool for engine-engine matches](http://www.talkchess.com/forum/viewtopic.php?t=27024) by Ilari Pihlajisto, [CCC](CCC "CCC"), March 16, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Cutechess-cli: A command line tool for engine-engine matches](http://www.talkchess.com/forum/viewtopic.php?t=27024) by Ilari Pihlajisto, [CCC](CCC "CCC"), March 16, 2009
 
 **[Up one level](People "People")**
 

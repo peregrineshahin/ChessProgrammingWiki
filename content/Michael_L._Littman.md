@@ -105,16 +105,16 @@ Michael Littman's explanatory grid on [Markov Models](https://en.wikipedia.org/w
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Michael Littman at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University) in 2009. This picture was taken by a student during a lecture, [Michael L. Littman from Wikipedia](https://en.wikipedia.org/wiki/Michael_L._Littman)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Michael L. Littman (**1996**). *Algorithms for Sequential Decision Making* . Ph.D. thesis, [Brown University](https://en.wikipedia.org/wiki/Brown_University), [pdf](http://www.cs.rutgers.edu/~mlittman/papers/thesis-with-gammas.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Proverb: The Probabilistic Cruciverbalist](http://www.oneacross.com/proverb/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Proverb (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Proverb_%28disambiguation%29)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [AAAI Outstanding Paper Award:](http://www.aaai.org/Awards/paper.php)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Greg A. Keim](https://www.linkedin.com/pub/greg-keim/0/960/648), [Noam M. Shazeer](http://dblp.uni-trier.de/pers/hd/s/Shazeer:Noam_M=), Michael L. Littman, [Sushant Agarwal](http://dblp.uni-trier.de/pers/hd/a/Agarwal:Sushant), [Catherine M. Cheves](http://dblp.uni-trier.de/pers/hd/c/Cheves:Catherine_M=), [Joseph Fitzgerald](http://dblp.uni-trier.de/pers/hd/f/Fitzgerald:Joseph), [Jason Grosland](http://dblp.uni-trier.de/pers/hd/g/Grosland:Jason), [Fan Jiang](http://dblp.uni-trier.de/pers/hd/j/Jiang:Fan), [Shannon Pollard](http://dblp.uni-trier.de/pers/hd/p/Pollard:Shannon), [Karl Weinmeister](http://dblp.uni-trier.de/pers/hd/w/Weinmeister:Karl) (**1999**). *PROVERB: The Probabilistic Cruciverbalist*. [AAAI-1999](Conferences#AAAI-99 "Conferences"), [pdf](http://www.cs.columbia.edu/~kathy/cs4701/documents/Proverb.pdf)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Proverb, the Crossword-Solving Computer Program](http://www.crosswordtournament.com/1999/art4.htm)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Michael L. Littman from Wikipedia](https://en.wikipedia.org/wiki/Michael_L._Littman)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The POMDP Page](http://www.pomdp.org/faq.shtml) by [Anthony R. Cassandra](index.php?title=Anthony_R._Cassandra&action=edit&redlink=1 "Anthony R. Cassandra (page does not exist)")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [dblp: Michael L. Littman](http://dblp.uni-trier.de/pers/hd/l/Littman:Michael_L=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Michael Littman at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University) in 2009. This picture was taken by a student during a lecture, [Michael L. Littman from Wikipedia](https://en.wikipedia.org/wiki/Michael_L._Littman)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Michael L. Littman (**1996**). *Algorithms for Sequential Decision Making* . Ph.D. thesis, [Brown University](https://en.wikipedia.org/wiki/Brown_University), [pdf](http://www.cs.rutgers.edu/~mlittman/papers/thesis-with-gammas.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Proverb: The Probabilistic Cruciverbalist](http://www.oneacross.com/proverb/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Proverb (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Proverb_%28disambiguation%29)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [AAAI Outstanding Paper Award:](http://www.aaai.org/Awards/paper.php)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Greg A. Keim](https://www.linkedin.com/pub/greg-keim/0/960/648), [Noam M. Shazeer](http://dblp.uni-trier.de/pers/hd/s/Shazeer:Noam_M=), Michael L. Littman, [Sushant Agarwal](http://dblp.uni-trier.de/pers/hd/a/Agarwal:Sushant), [Catherine M. Cheves](http://dblp.uni-trier.de/pers/hd/c/Cheves:Catherine_M=), [Joseph Fitzgerald](http://dblp.uni-trier.de/pers/hd/f/Fitzgerald:Joseph), [Jason Grosland](http://dblp.uni-trier.de/pers/hd/g/Grosland:Jason), [Fan Jiang](http://dblp.uni-trier.de/pers/hd/j/Jiang:Fan), [Shannon Pollard](http://dblp.uni-trier.de/pers/hd/p/Pollard:Shannon), [Karl Weinmeister](http://dblp.uni-trier.de/pers/hd/w/Weinmeister:Karl) (**1999**). *PROVERB: The Probabilistic Cruciverbalist*. [AAAI-1999](Conferences#AAAI-99 "Conferences"), [pdf](http://www.cs.columbia.edu/~kathy/cs4701/documents/Proverb.pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Proverb, the Crossword-Solving Computer Program](http://www.crosswordtournament.com/1999/art4.htm)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Michael L. Littman from Wikipedia](https://en.wikipedia.org/wiki/Michael_L._Littman)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The POMDP Page](http://www.pomdp.org/faq.shtml) by [Anthony R. Cassandra](index.php?title=Anthony_R._Cassandra&action=edit&redlink=1 "Anthony R. Cassandra (page does not exist)")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Michael L. Littman](http://dblp.uni-trier.de/pers/hd/l/Littman:Michael_L=)
 
 **[Up one Level](People "People")**
 

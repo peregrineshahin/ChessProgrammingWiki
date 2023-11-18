@@ -34,8 +34,8 @@ Since in the [initial position](Initial_Position "Initial Position") [bishops](B
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1999**). *[The Evaluation of Material Imbalances](https://www.chess.com/article/view/the-evaluation-of-material-imbalances-by-im-larry-kaufman)*. (first published in [Chess Life](https://en.wikipedia.org/wiki/Chess_Life) March 1999, online version edited by [Dan Heisman](Dan_Heisman "Dan Heisman"))
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Looking for Mark Sturman](https://groups.google.com/d/msg/rec.games.chess/xFCRAQIqvjw/OVFg2ezWYTYJ) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), July 02, 1995
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1999**). *[The Evaluation of Material Imbalances](https://www.chess.com/article/view/the-evaluation-of-material-imbalances-by-im-larry-kaufman)*. (first published in [Chess Life](https://en.wikipedia.org/wiki/Chess_Life) March 1999, online version edited by [Dan Heisman](Dan_Heisman "Dan Heisman"))
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Looking for Mark Sturman](https://groups.google.com/d/msg/rec.games.chess/xFCRAQIqvjw/OVFg2ezWYTYJ) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), July 02, 1995
 
 **[Up one Level](Evaluation_of_Pieces "Evaluation of Pieces")**
 

@@ -58,21 +58,21 @@ His further research interests covered [object-oriented analysis and design](htt
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Implementing the π-Calculus in Java](http://www.jot.fm/issues/issue_2005_03/article5/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Liwu Li | Obituary](http://windsorstar.remembering.ca/obituary/liwu-li-1066408539) | [Windsor Star](https://en.wikipedia.org/wiki/Windsor_Star), April 23, 2005
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Liwu Li (**1989**). *[Probabilistic Analysis of Search](https://era.library.ualberta.ca/items/35c3ba49-d0b5-41c5-9ccb-e16aca4808da)*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Liwu Li (**2005**). *[Implementing the π-Calculus in Java](http://www.jot.fm/issues/issue_2005_03/article5/)*. [Journal of Object Technology](https://en.wikipedia.org/wiki/The_Journal_of_Object_Technology), Vol. 4, No. 2
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Liwu Li 0001](https://dblp.org/pers/hd/l/Li_0001:Liwu)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Liwu Li's scientific contributions while working at University of Windsor, Windsor, Ontario, Canada](https://www.researchgate.net/scientific-contributions/2039420514_Liwu_Li)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [AVL tree - Wikipedia](https://en.wikipedia.org/wiki/AVL_tree)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Epigraph: [I shot an arrow in the air, It fell to earth I know not where](https://www.kingsnews.org/articles/the-arrow-and-the-song---henry-wadsworth-longfellow), [Henry Wadsworth Longfellow](https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Systolic array from Wikipedia](https://en.wikipedia.org/wiki/Systolic_array)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Autoepistemic logic from Wikipedia](https://en.wikipedia.org/wiki/Autoepistemic_logic)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [IBM VisualAge from Wikipedia](https://en.wikipedia.org/wiki/IBM_VisualAge)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Smalltalk from Wikipedia](https://en.wikipedia.org/wiki/Smalltalk)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Use case from Wikipedia](https://en.wikipedia.org/wiki/Use_case)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Sequence diagram from Wikipedia](https://en.wikipedia.org/wiki/Sequence_diagram)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [π-calculus from Wikipedia](https://en.wikipedia.org/wiki/%CE%A0-calculus)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Implementing the π-Calculus in Java](http://www.jot.fm/issues/issue_2005_03/article5/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Liwu Li | Obituary](http://windsorstar.remembering.ca/obituary/liwu-li-1066408539) | [Windsor Star](https://en.wikipedia.org/wiki/Windsor_Star), April 23, 2005
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Liwu Li (**1989**). *[Probabilistic Analysis of Search](https://era.library.ualberta.ca/items/35c3ba49-d0b5-41c5-9ccb-e16aca4808da)*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Liwu Li (**2005**). *[Implementing the π-Calculus in Java](http://www.jot.fm/issues/issue_2005_03/article5/)*. [Journal of Object Technology](https://en.wikipedia.org/wiki/The_Journal_of_Object_Technology), Vol. 4, No. 2
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Liwu Li 0001](https://dblp.org/pers/hd/l/Li_0001:Liwu)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Liwu Li's scientific contributions while working at University of Windsor, Windsor, Ontario, Canada](https://www.researchgate.net/scientific-contributions/2039420514_Liwu_Li)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [AVL tree - Wikipedia](https://en.wikipedia.org/wiki/AVL_tree)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Epigraph: [I shot an arrow in the air, It fell to earth I know not where](https://www.kingsnews.org/articles/the-arrow-and-the-song---henry-wadsworth-longfellow), [Henry Wadsworth Longfellow](https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Systolic array from Wikipedia](https://en.wikipedia.org/wiki/Systolic_array)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Autoepistemic logic from Wikipedia](https://en.wikipedia.org/wiki/Autoepistemic_logic)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [IBM VisualAge from Wikipedia](https://en.wikipedia.org/wiki/IBM_VisualAge)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Smalltalk from Wikipedia](https://en.wikipedia.org/wiki/Smalltalk)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Use case from Wikipedia](https://en.wikipedia.org/wiki/Use_case)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Sequence diagram from Wikipedia](https://en.wikipedia.org/wiki/Sequence_diagram)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [π-calculus from Wikipedia](https://en.wikipedia.org/wiki/%CE%A0-calculus)
 
 **[Up one level](People "People")**
 

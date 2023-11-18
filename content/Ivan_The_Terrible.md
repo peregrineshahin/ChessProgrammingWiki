@@ -66,11 +66,11 @@ adding [sound effects](https://en.wikipedia.org/wiki/Sound_effect) and [speech s
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [10.Exotic | Page 2 | Flickr](https://www.flickr.com/photos/10261668@N05/albums/72157600922174174/page2/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591&start=8) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2016
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ron Nelson & Talking Chess Computers](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=191) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2016
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Excalibur Electronics](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=78) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 22, 2015
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=112) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 23, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [10.Exotic | Page 2 | Flickr](https://www.flickr.com/photos/10261668@N05/albums/72157600922174174/page2/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591&start=8) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ron Nelson & Talking Chess Computers](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=191) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Excalibur Electronics](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=78) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 22, 2015
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=112) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 23, 2015
 
 **[Up one level](Engines "Engines")**
 

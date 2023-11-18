@@ -157,16 +157,16 @@ at times or exclusively dedicated to PowerPC
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Die](https://en.wikipedia.org/wiki/Die_%28integrated_circuit%29) shot of [Motorola](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page does not exist)") [PowerPC 603](https://en.wikipedia.org/wiki/PowerPC_600#PowerPC_603) microprocessor (XPC603FE75-2B), by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), April 29 2014, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [IBM PowerPC assembly](https://www.ibm.com/developerworks/library/l-ppc/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [PowerPC Assembly tutorial](http://www.csd.uwo.ca/~mburrel/stuff/ppc-asm.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [A data point for PowerPC bitboard program authors](https://www.stmintz.com/ccc/index.php?id=425020) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), May 09, 2005
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [IBM Knowledge Center - cntlzd (Count Leading Zeros Double Word) instruction](https://www.ibm.com/support/knowledgecenter/ssw_aix_61/com.ibm.aix.alangref/idalangref_cntlzd_inst.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [PowerPC 620 - Vorlesung Rechnerarchitektur, Heidelberg University](http://ra.ziti.uni-heidelberg.de/pages/lectures/fss10/ra/ext_info/powerpc620.pdf) (pdf)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [x86 equivalent for LWARX and STWCX](http://stackoverflow.com/questions/1147904/x86-equivalent-for-lwarx-and-stwcx) - [Stack Overflow](https://en.wikipedia.org/wiki/Stack_Overflow)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [PowerPC from Wikipedia](https://en.wikipedia.org/wiki/PowerPC)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [PowerPC G4 from Wikipedia](https://en.wikipedia.org/wiki/PowerPC_G4)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [MkLinux from Wikipedia](https://en.wikipedia.org/wiki/MkLinux)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Die](https://en.wikipedia.org/wiki/Die_%28integrated_circuit%29) shot of [Motorola](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page does not exist)") [PowerPC 603](https://en.wikipedia.org/wiki/PowerPC_600#PowerPC_603) microprocessor (XPC603FE75-2B), by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), April 29 2014, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [IBM PowerPC assembly](https://www.ibm.com/developerworks/library/l-ppc/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PowerPC Assembly tutorial](http://www.csd.uwo.ca/~mburrel/stuff/ppc-asm.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [A data point for PowerPC bitboard program authors](https://www.stmintz.com/ccc/index.php?id=425020) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), May 09, 2005
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [IBM Knowledge Center - cntlzd (Count Leading Zeros Double Word) instruction](https://www.ibm.com/support/knowledgecenter/ssw_aix_61/com.ibm.aix.alangref/idalangref_cntlzd_inst.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [PowerPC 620 - Vorlesung Rechnerarchitektur, Heidelberg University](http://ra.ziti.uni-heidelberg.de/pages/lectures/fss10/ra/ext_info/powerpc620.pdf) (pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [x86 equivalent for LWARX and STWCX](http://stackoverflow.com/questions/1147904/x86-equivalent-for-lwarx-and-stwcx) - [Stack Overflow](https://en.wikipedia.org/wiki/Stack_Overflow)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [PowerPC from Wikipedia](https://en.wikipedia.org/wiki/PowerPC)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [PowerPC G4 from Wikipedia](https://en.wikipedia.org/wiki/PowerPC_G4)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [MkLinux from Wikipedia](https://en.wikipedia.org/wiki/MkLinux)
 
 **[Up one Level](Hardware "Hardware")**
 

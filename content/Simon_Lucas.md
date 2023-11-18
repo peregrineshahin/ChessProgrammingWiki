@@ -76,12 +76,12 @@ and has gravitated toward game AI, covering the games of [Othello](Othello "Othe
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Simon M. Lucas](https://gaigresearch.github.io/members/Simon-Lucas)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GAIG](https://gaigresearch.github.io/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The IGGI Programme » IGGI](http://www.iggi.org.uk/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Simon Lucas (**1991**). *[Connectionist architectures for syntactic pattern recognition](https://eprints.soton.ac.uk/256263/)*. Ph.D. thesis, [University of Southampton](https://en.wikipedia.org/wiki/University_of_Southampton)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Simon M. Lucas](https://dblp.uni-trier.de/pers/hd/l/Lucas:Simon_M=)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Simon Lucas‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=Jz8DDVAAAAAJ&hl=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Simon M. Lucas](https://gaigresearch.github.io/members/Simon-Lucas)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GAIG](https://gaigresearch.github.io/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The IGGI Programme » IGGI](http://www.iggi.org.uk/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Simon Lucas (**1991**). *[Connectionist architectures for syntactic pattern recognition](https://eprints.soton.ac.uk/256263/)*. Ph.D. thesis, [University of Southampton](https://en.wikipedia.org/wiki/University_of_Southampton)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Simon M. Lucas](https://dblp.uni-trier.de/pers/hd/l/Lucas:Simon_M=)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Simon Lucas‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=Jz8DDVAAAAAJ&hl=en)
 
 **[Up one Level](People "People")**
 

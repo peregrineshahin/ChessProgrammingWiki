@@ -40,8 +40,8 @@ The chessboard is fourfold [symmetrical](https://en.wikipedia.org/wiki/Symmetry)
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Homage to Caissa (Hommage à Caissa) | מוזיאון ישראל, ירושלים](http://www.imj.org.il/en/collections/194326?itemNum=194326), [Israel Museum](https://en.wikipedia.org/wiki/Israel_Museum)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Negative base from Wikipedia](https://en.wikipedia.org/wiki/Negative_base)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Homage to Caissa (Hommage à Caissa) | מוזיאון ישראל, ירושלים](http://www.imj.org.il/en/collections/194326?itemNum=194326), [Israel Museum](https://en.wikipedia.org/wiki/Israel_Museum)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Negative base from Wikipedia](https://en.wikipedia.org/wiki/Negative_base)
 
 **[Up one Level](Chess "Chess")**
 

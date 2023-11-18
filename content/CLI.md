@@ -80,10 +80,10 @@ The UNIX paradigm was further archetype of both primary [protocols](Protocols "P
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Unix philosophy - McIlroy: A Quarter Century of Unix - Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy#McIlroy:_A_Quarter_Century_of_Unix)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Command-line interface from Wikipedia](https://en.wikipedia.org/wiki/Command-line_interface)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [unix2dos from Wikipedia](https://en.wikipedia.org/wiki/Unix2dos)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cutechess-cli: A command line tool for engine-engine matches](http://www.talkchess.com/forum/viewtopic.php?t=27024) by [Ilari Pihlajisto](Ilari_Pihlajisto "Ilari Pihlajisto"), [CCC](CCC "CCC"), March 16, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Unix philosophy - McIlroy: A Quarter Century of Unix - Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy#McIlroy:_A_Quarter_Century_of_Unix)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Command-line interface from Wikipedia](https://en.wikipedia.org/wiki/Command-line_interface)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [unix2dos from Wikipedia](https://en.wikipedia.org/wiki/Unix2dos)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cutechess-cli: A command line tool for engine-engine matches](http://www.talkchess.com/forum/viewtopic.php?t=27024) by [Ilari Pihlajisto](Ilari_Pihlajisto "Ilari Pihlajisto"), [CCC](CCC "CCC"), March 16, 2009
 
 **[Up one Level](User_Interface "User Interface")**
 

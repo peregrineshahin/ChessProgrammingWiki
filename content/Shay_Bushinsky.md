@@ -32,12 +32,12 @@ an Israeli computer scientist and chess programmer. Together with [Amir Ban](Ami
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Shay Bushinsky, [Nathan Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu"), and [David Levy](David_Levy "David Levy") at the opening ceremony in [Ramat-Gan 2004](WCCC_2004 "WCCC 2004"), [WCCC 04: Dutch program Diep in the lead](http://en.chessbase.com/post/wccc-02-dutch-program-diep-in-the-lead) from [ChessBase news](ChessBase "ChessBase"), Image no longer available
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Biographies](http://haifa.itc.it/Biographies.htm) from [Artificial Intelligence Research and Innovative Technologies for Human Development - Workshop of the ITC-IRST University of Haifa Collaboration](http://www.cri.haifa.ac.il/component/content/article/15), February 9-11, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Photo by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [10e WK Computerschaak](http://old.csvn.nl/wk2002.html) old [CSVN](CSVN "CSVN") Site
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [WCCC 2006](WCCC_2006 "WCCC 2006")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> ["Deus Ex Machina - article by Shay Bushinsky](http://www.talkchess.com/forum/viewtopic.php?t=61240) by Lonnie Cook, [CCC](CCC "CCC"), August 26, 2016
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Machine creativity: what it is and what it isn't](http://en.chessbase.com/post/machine-creativity-what-it-is-and-what-it-isn-t) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), August 28, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Shay Bushinsky, [Nathan Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu"), and [David Levy](David_Levy "David Levy") at the opening ceremony in [Ramat-Gan 2004](WCCC_2004 "WCCC 2004"), [WCCC 04: Dutch program Diep in the lead](http://en.chessbase.com/post/wccc-02-dutch-program-diep-in-the-lead) from [ChessBase news](ChessBase "ChessBase"), Image no longer available
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Biographies](http://haifa.itc.it/Biographies.htm) from [Artificial Intelligence Research and Innovative Technologies for Human Development - Workshop of the ITC-IRST University of Haifa Collaboration](http://www.cri.haifa.ac.il/component/content/article/15), February 9-11, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Photo by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [10e WK Computerschaak](http://old.csvn.nl/wk2002.html) old [CSVN](CSVN "CSVN") Site
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [WCCC 2006](WCCC_2006 "WCCC 2006")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> ["Deus Ex Machina - article by Shay Bushinsky](http://www.talkchess.com/forum/viewtopic.php?t=61240) by Lonnie Cook, [CCC](CCC "CCC"), August 26, 2016
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Machine creativity: what it is and what it isn't](http://en.chessbase.com/post/machine-creativity-what-it-is-and-what-it-isn-t) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), August 28, 2016
 
 **[Up one level](People "People")**
 

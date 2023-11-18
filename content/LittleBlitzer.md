@@ -41,8 +41,8 @@ Tournaments are either round-robin where each engine plays the same number of [g
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [LittleBlitzer 2.74 and epd file](http://www.talkchess.com/forum/viewtopic.php?t=54168) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), October 28, 2014
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kimien Software - LittleBlitzer Chess Software](http://www.kimiensoftware.com/software/chess/littleblitzer)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [LittleBlitzer 2.74 and epd file](http://www.talkchess.com/forum/viewtopic.php?t=54168) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), October 28, 2014
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kimien Software - LittleBlitzer Chess Software](http://www.kimiensoftware.com/software/chess/littleblitzer)
 
 **[Up one Level](Tournament_Manager "Tournament Manager")**
 

@@ -46,14 +46,14 @@ a Swedish computer scientist, president, CEO, and founder of *GoalArt* <a id="ci
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GoalArt: Jan Eric Larsson](http://www.goalart.com/aboutgoalart/janericlarsson.asp)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GoalArt](http://www.goalart.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Jan Eric Larsson (**1987**). *Challenging that Mobility is Fundamental*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). *How to Extract Relevant Knowledge from Grandmaster Games. Part 2: the Notion of Mobility, and the Work of [De Groot](Adriaan_de_Groot "Adriaan de Groot") and [Slater](Eliot_Slater "Eliot Slater")*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jan Eric Larsson - Lund University Publications](https://lup.lub.lu.se/search/person/it-jla)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Chinese room from Wikipedia](https://en.wikipedia.org/wiki/Chinese_room)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Turing test from Wikipedia](https://en.wikipedia.org/wiki/Turing_test)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GoalArt: Jan Eric Larsson](http://www.goalart.com/aboutgoalart/janericlarsson.asp)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GoalArt](http://www.goalart.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Jan Eric Larsson (**1987**). *Challenging that Mobility is Fundamental*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). *How to Extract Relevant Knowledge from Grandmaster Games. Part 2: the Notion of Mobility, and the Work of [De Groot](Adriaan_de_Groot "Adriaan de Groot") and [Slater](Eliot_Slater "Eliot Slater")*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jan Eric Larsson - Lund University Publications](https://lup.lub.lu.se/search/person/it-jla)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chinese room from Wikipedia](https://en.wikipedia.org/wiki/Chinese_room)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Turing test from Wikipedia](https://en.wikipedia.org/wiki/Turing_test)
 
 **[Up one level](People "People")**
 

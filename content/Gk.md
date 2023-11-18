@@ -126,11 +126,11 @@ Gk's [evaluation](Evaluation "Evaluation") is rudimentary and restricts position
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ICC Green List - Nov 29](https://www.stmintz.com/ccc/index.php?id=79887) by [Will Singleton](Will_Singleton "Will Singleton"), [CCC](CCC "CCC"), November 29, 1999
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICC Green List - Jan 3](https://www.stmintz.com/ccc/index.php?id=85701) by [Will Singleton](Will_Singleton "Will Singleton"), [CCC](CCC "CCC"), January 03, 2000
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tijs van Dam - Software](http://tijsvd.home.xs4all.nl/old_software/), gk-0.90.tar.gz / global.cpp
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tijs van Dam - Software](http://tijsvd.home.xs4all.nl/old_software/), gk-0.90.tar.gz / position.h
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Tijs van Dam - Software](http://tijsvd.home.xs4all.nl/old_software/), gk-0.90.tar.gz / bitboard.h
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ICC Green List - Nov 29](https://www.stmintz.com/ccc/index.php?id=79887) by [Will Singleton](Will_Singleton "Will Singleton"), [CCC](CCC "CCC"), November 29, 1999
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICC Green List - Jan 3](https://www.stmintz.com/ccc/index.php?id=85701) by [Will Singleton](Will_Singleton "Will Singleton"), [CCC](CCC "CCC"), January 03, 2000
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tijs van Dam - Software](http://tijsvd.home.xs4all.nl/old_software/), gk-0.90.tar.gz / global.cpp
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tijs van Dam - Software](http://tijsvd.home.xs4all.nl/old_software/), gk-0.90.tar.gz / position.h
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tijs van Dam - Software](http://tijsvd.home.xs4all.nl/old_software/), gk-0.90.tar.gz / bitboard.h
 
 **[Up one level](Engines "Engines")**
 

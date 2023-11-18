@@ -210,16 +210,16 @@ Nxb2 27.Bc2 Nc4 28.Ke2 Ne6 29.Kd1 b5 30.Ne2 Rhc8 31.e5 Nxe5 32.Nc3 Nd4 33.Bxh7 f
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Phoenix (mythology) from Wikipedia](https://en.wikipedia.org/wiki/Phoenix_%28mythology%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 8
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1987**). *Speculative Computing*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 8
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hash tables - Clash!!! What happens next?](http://groups.google.de/group/rec.games.chess/browse_thread/thread/87d436c2293f9138) by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), post 6 by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), March 17, 1994
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 9
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Phoenix's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=191)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Cologne 1986 - Chess - Round 3 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=3&id=6)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> Photo by [Monty Newborn](Monroe_Newborn "Monroe Newborn"), [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal"), pp. 184
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Phoenix (mythology) from Wikipedia](https://en.wikipedia.org/wiki/Phoenix_%28mythology%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 8
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1987**). *Speculative Computing*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 8
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hash tables - Clash!!! What happens next?](http://groups.google.de/group/rec.games.chess/browse_thread/thread/87d436c2293f9138) by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), post 6 by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), March 17, 1994
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 9
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Phoenix's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=191)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Cologne 1986 - Chess - Round 3 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=3&id=6)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> Photo by [Monty Newborn](Monroe_Newborn "Monroe Newborn"), [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal"), pp. 184
 
 **[Up one level](Engines "Engines")**
 

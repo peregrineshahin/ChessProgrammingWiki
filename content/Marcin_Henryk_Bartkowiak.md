@@ -29,8 +29,8 @@ He is author of the [UCI](UCI "UCI") compliant [open source chess engine](Catego
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marcin Henryk Bartkowiak | LinkedIn](https://www.linkedin.com/in/marcin-henryk-bartkowiak-08ba03107/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: New engine releases 2020](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=80) by Marcin Henryk Bartkowiak, [CCC](CCC "CCC"), February 23, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marcin Henryk Bartkowiak | LinkedIn](https://www.linkedin.com/in/marcin-henryk-bartkowiak-08ba03107/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: New engine releases 2020](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=80) by Marcin Henryk Bartkowiak, [CCC](CCC "CCC"), February 23, 2020
 
 **[Up one level](People "People")**
 

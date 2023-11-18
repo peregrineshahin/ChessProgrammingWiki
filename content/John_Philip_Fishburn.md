@@ -65,13 +65,13 @@ an American computer scientist and electrical engineer from the [Bell Laboratori
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> John Philip Fishburn (**1981**). *Analysis of Speedup in Distributed Algorithms*. Ph.D. thesis, [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin-Madison), [pdf](http://www.cs.wisc.edu/techreports/1981/TR431.pdf), *Calphabeta* at page 167
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1983**). *Relative Efficiency of Alpha-beta Implementations*. [IJCAI 1983](Conferences#IJCAI1983 "Conferences"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/IJCAI-83.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> John Philip Fishburn (**1983**). *[Another optimization of alpha-beta search](http://portal.acm.org/citation.cfm?id=1056623.1056628&coll=DL&dl=GUIDE&CFID=26266656&CFTOKEN=86225814)*. [SIGART Bulletin](ACM#SIG "ACM"), No. 84, [pdf](https://drive.google.com/file/d/0B2pvWWlf39g-cjJpZkc1cDhfbkk/view)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") (**1991**). *Experiments With the NegaC\* Search - An Alternative for Othello Endgame Search.* [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: John P. Fishburn](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fishburn:John_P=.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Search-Based Opening Book Construction](http://www.talkchess.com/forum/viewtopic.php?p=698871) by John Fishburn, [CCC](CCC "CCC"), December 14, 2016
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Search-Based Opening Book Construction](http://www.talkchess.com/forum/viewtopic.php?t=63862) by John Fishburn, [CCC](CCC "CCC"), April 29, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> John Philip Fishburn (**1981**). *Analysis of Speedup in Distributed Algorithms*. Ph.D. thesis, [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin-Madison), [pdf](http://www.cs.wisc.edu/techreports/1981/TR431.pdf), *Calphabeta* at page 167
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1983**). *Relative Efficiency of Alpha-beta Implementations*. [IJCAI 1983](Conferences#IJCAI1983 "Conferences"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/IJCAI-83.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> John Philip Fishburn (**1983**). *[Another optimization of alpha-beta search](http://portal.acm.org/citation.cfm?id=1056623.1056628&coll=DL&dl=GUIDE&CFID=26266656&CFTOKEN=86225814)*. [SIGART Bulletin](ACM#SIG "ACM"), No. 84, [pdf](https://drive.google.com/file/d/0B2pvWWlf39g-cjJpZkc1cDhfbkk/view)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") (**1991**). *Experiments With the NegaC\* Search - An Alternative for Othello Endgame Search.* [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: John P. Fishburn](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Fishburn:John_P=.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Search-Based Opening Book Construction](http://www.talkchess.com/forum/viewtopic.php?p=698871) by John Fishburn, [CCC](CCC "CCC"), December 14, 2016
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Search-Based Opening Book Construction](http://www.talkchess.com/forum/viewtopic.php?t=63862) by John Fishburn, [CCC](CCC "CCC"), April 29, 2017
 
 **[Up one level](People "People")**
 

@@ -37,9 +37,9 @@ He is author of the [Chess Engine Communication Protocol](Chess_Engine_Communica
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Johanes Suhardjo — College of Engineering](https://engineering.nd.edu/profiles/jsuhardjo)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Johanes Suhardjo — College of Engineering](https://engineering.nd.edu/profiles/jsuhardjo)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Parrot](https://www3.nd.edu/~johanes/parrot.html) by Johanes Suhardjo
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Johanes Suhardjo — College of Engineering](https://engineering.nd.edu/profiles/jsuhardjo)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Johanes Suhardjo — College of Engineering](https://engineering.nd.edu/profiles/jsuhardjo)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Parrot](https://www3.nd.edu/~johanes/parrot.html) by Johanes Suhardjo
 
 **[Up one level](People "People")**
 

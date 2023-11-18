@@ -33,8 +33,8 @@ c-chess-cli is [free software](https://en.wikipedia.org/wiki/Free_software) lice
 
 ## [Release 2021-07-10 · lucasart/c-chess-cli · GitHub](https://github.com/lucasart/c-chess-cli/releases/tag/20210710) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [c-chess-cli/README.md at master · lucasart/c-chess-cli · GitHub](https://github.com/lucasart/c-chess-cli/blob/master/README.md)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [c-chess-cli: generating training data for NN eval](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73948&start=16) by lucasart, [CCC](CCC "CCC"), August 19, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [c-chess-cli/README.md at master · lucasart/c-chess-cli · GitHub](https://github.com/lucasart/c-chess-cli/blob/master/README.md)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [c-chess-cli: generating training data for NN eval](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73948&start=16) by lucasart, [CCC](CCC "CCC"), August 19, 2020
 
 **[Up one Level](CLI "CLI")**
 

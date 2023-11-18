@@ -33,10 +33,10 @@ and further elaborates on [book learning](Book_Learning "Book Learning") <a id="
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marek Strejczek - personal information](https://www.goldenline.pl/marek-strejczek/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nesik - new version](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47527&p=179724) by Marek Strejczek, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 08, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Marek Strejczek (**2004**). *Some aspects of chess programming*. M.Sc. thesis, [Technical University of Łódź](Technical_University_of_%C5%81%C3%B3d%C5%BA "Technical University of Łódź"), Supervisor [Maciej Szmit](Maciej_Szmit "Maciej Szmit"), [pdf](http://read.pudn.com/downloads91/ebook/350723/Some%20Aspects%20of%20Chess%20Programming.PDF)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> ["Some aspects of chess programming"](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=121) by [Grzegorz Sidorowicz](Grzegorz_Sidorowicz "Grzegorz Sidorowicz"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 02, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marek Strejczek - personal information](https://www.goldenline.pl/marek-strejczek/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nesik - new version](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47527&p=179724) by Marek Strejczek, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 08, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Marek Strejczek (**2004**). *Some aspects of chess programming*. M.Sc. thesis, [Technical University of Łódź](Technical_University_of_%C5%81%C3%B3d%C5%BA "Technical University of Łódź"), Supervisor [Maciej Szmit](Maciej_Szmit "Maciej Szmit"), [pdf](http://read.pudn.com/downloads91/ebook/350723/Some%20Aspects%20of%20Chess%20Programming.PDF)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> ["Some aspects of chess programming"](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=121) by [Grzegorz Sidorowicz](Grzegorz_Sidorowicz "Grzegorz Sidorowicz"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 02, 2004
 
 **[Up one Level](People "People")**
 

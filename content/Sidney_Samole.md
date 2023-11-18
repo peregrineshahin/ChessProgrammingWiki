@@ -114,13 +114,13 @@ After building three working models and four non-working models, Sid decided to 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sid Samole](http://www.schach-computer.info/wiki/index.php/Sid_Samole) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), from [Ben Mittman](Ben_Mittman "Ben Mittman"), [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner") (**1983**). *Third World Microcomputer Chess Championship*. [ICCA Journal, Vol. 6, No. 4](ICGA_Journal#6_4 "ICGA Journal"), pp. 24
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fidelity Electronics](http://www.ismenio.com/fidelity.html) from [chesscomputers.org](http://www.ismenio.com/chess_computers.html), pictures from [USOCCC 1986](USOCCC_1986 "USOCCC 1986")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *2nd U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1986, Fall/Winter Edition
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> The Editor (**2000**). *SIDNEY SAMOLE (1935-2000)*. [ICGA Journal, Vol. 23, No. 4](ICGA_Journal#23_4 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Sidney Samole (1935-2000)](https://www.stmintz.com/ccc/index.php?id=133725) by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), October 18, 2000
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: The Fidelity vs. ICD/Your Move Lawsuit... The Epic](https://www.stmintz.com/ccc/index.php?id=134276) by [Al Lawrence](https://en.wikipedia.org/wiki/Al_Lawrence_%28chess_writer%29), [CCC](CCC "CCC"), October 20, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sid Samole](http://www.schach-computer.info/wiki/index.php/Sid_Samole) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), from [Ben Mittman](Ben_Mittman "Ben Mittman"), [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner") (**1983**). *Third World Microcomputer Chess Championship*. [ICCA Journal, Vol. 6, No. 4](ICGA_Journal#6_4 "ICGA Journal"), pp. 24
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fidelity Electronics](http://www.ismenio.com/fidelity.html) from [chesscomputers.org](http://www.ismenio.com/chess_computers.html), pictures from [USOCCC 1986](USOCCC_1986 "USOCCC 1986")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *2nd U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1986, Fall/Winter Edition
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> The Editor (**2000**). *SIDNEY SAMOLE (1935-2000)*. [ICGA Journal, Vol. 23, No. 4](ICGA_Journal#23_4 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Sidney Samole (1935-2000)](https://www.stmintz.com/ccc/index.php?id=133725) by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), October 18, 2000
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: The Fidelity vs. ICD/Your Move Lawsuit... The Epic](https://www.stmintz.com/ccc/index.php?id=134276) by [Al Lawrence](https://en.wikipedia.org/wiki/Al_Lawrence_%28chess_writer%29), [CCC](CCC "CCC"), October 20, 2000
 
 **[Up one level](People "People")**
 

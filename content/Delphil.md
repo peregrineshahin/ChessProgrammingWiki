@@ -49,10 +49,10 @@ Delphil 3.2, released on September 28, 2014, applies a [parallel search](Paralle
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Delphi - Early Borland Years (1995-2004) - Wikipedia](<https://en.wikipedia.org/wiki/Delphi_(software)#Early_Borland_years_(1995%E2%80%932003)>)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fabiani Philippe](http://www.blitzchess.fr/fr/programmeurs/programmeursfranais/fabianiphilippe/index.html) from [blitzchess.fr](http://www.blitzchess.fr/fr/index.php) by [Eric Belot](index.php?title=Eric_Belot&action=edit&redlink=1 "Eric Belot (page does not exist)") (French)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Delphil - home](http://delphil.nexgate.ch/English/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Delphil 3.3b2 (2334) - Stockfish 030916 (3228), TCEC Season 9 - Rapid, Round 11](http://tcec.chessdom.com/archive.php?se=9&rapid&ga=163), September 16, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Delphi - Early Borland Years (1995-2004) - Wikipedia](<https://en.wikipedia.org/wiki/Delphi_(software)#Early_Borland_years_(1995%E2%80%932003)>)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fabiani Philippe](http://www.blitzchess.fr/fr/programmeurs/programmeursfranais/fabianiphilippe/index.html) from [blitzchess.fr](http://www.blitzchess.fr/fr/index.php) by [Eric Belot](index.php?title=Eric_Belot&action=edit&redlink=1 "Eric Belot (page does not exist)") (French)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Delphil - home](http://delphil.nexgate.ch/English/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Delphil 3.3b2 (2334) - Stockfish 030916 (3228), TCEC Season 9 - Rapid, Round 11](http://tcec.chessdom.com/archive.php?se=9&rapid&ga=163), September 16, 2016
 
 **[Up one Level](Engines "Engines")**
 

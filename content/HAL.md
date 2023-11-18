@@ -118,12 +118,12 @@ The [search](Search "Search") algorithm is pure [alpha-beta](Alpha-Beta "Alpha-B
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The famous red eye of [HAL 9000](https://en.wikipedia.org/wiki/HAL_9000), the fictional character in [Arthur C. Clarke's](Category:Arthur_C._Clarke "Category:Arthur C. Clarke") [Space Odyssey](https://en.wikipedia.org/wiki/Space_Odyssey) series. [Image](https://commons.wikimedia.org/wiki/File:HAL9000.svg) by Cryteria, October 1, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Murray Campbell](Murray_Campbell "Murray Campbell") (**1997**). *"An Enjoyable Game": How HAL Plays Chess*. in [David G. Stork](https://mitpress.mit.edu/authors/david-g-stork) (ed.), *[Hal's Legacy - 2001's Computer as Dream and Reality](https://mitpress.mit.edu/books/hals-legacy)*. [MIT-Press](https://en.wikipedia.org/wiki/MIT_Press), [pdf](http://web.stanford.edu/class/sts145/Library/campbell.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [An interesting link](https://www.stmintz.com/ccc/index.php?id=357151) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 29, 2004
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [HAL 9000](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=17529) by Master Om, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), June 10, 2010 (Download)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> HAL-9000.zip/HALDOC.DOC
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> HAL-9000.zip/CP3.pas
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The famous red eye of [HAL 9000](https://en.wikipedia.org/wiki/HAL_9000), the fictional character in [Arthur C. Clarke's](Category:Arthur_C._Clarke "Category:Arthur C. Clarke") [Space Odyssey](https://en.wikipedia.org/wiki/Space_Odyssey) series. [Image](https://commons.wikimedia.org/wiki/File:HAL9000.svg) by Cryteria, October 1, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Murray Campbell](Murray_Campbell "Murray Campbell") (**1997**). *"An Enjoyable Game": How HAL Plays Chess*. in [David G. Stork](https://mitpress.mit.edu/authors/david-g-stork) (ed.), *[Hal's Legacy - 2001's Computer as Dream and Reality](https://mitpress.mit.edu/books/hals-legacy)*. [MIT-Press](https://en.wikipedia.org/wiki/MIT_Press), [pdf](http://web.stanford.edu/class/sts145/Library/campbell.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [An interesting link](https://www.stmintz.com/ccc/index.php?id=357151) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 29, 2004
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [HAL 9000](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=17529) by Master Om, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), June 10, 2010 (Download)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> HAL-9000.zip/HALDOC.DOC
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> HAL-9000.zip/CP3.pas
 
 **[Up one level](Engines "Engines")**
 

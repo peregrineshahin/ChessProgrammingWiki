@@ -29,8 +29,8 @@ BBchess played all [French Computer Chess Championships](French_Computer_Chess_C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: ZChess getting much stronger...](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=32639&start=1) by [Franck Zibi](Franck_Zibi "Franck Zibi"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 10, 2000
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Interview with BBChess programmer Bernhard Brioit ...](http://www.chessprogram.de/messages/19513.htm) (May 31th, 2002 Deutsch, Français, English) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") from the Schachwerkstatt Archives, September 4, 2006 (dead link)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: ZChess getting much stronger...](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=32639&start=1) by [Franck Zibi](Franck_Zibi "Franck Zibi"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 10, 2000
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Interview with BBChess programmer Bernhard Brioit ...](http://www.chessprogram.de/messages/19513.htm) (May 31th, 2002 Deutsch, Français, English) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") from the Schachwerkstatt Archives, September 4, 2006 (dead link)
 
 **[Up one Level](Engines "Engines")**
 

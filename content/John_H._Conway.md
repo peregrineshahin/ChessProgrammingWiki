@@ -103,20 +103,20 @@ was a British mathematician and Professor Emeritus at [Princeton University](htt
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Conway biography - MacTutor](http://www-history.mcs.st-and.ac.uk/Biographies/Conway.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [John Conway | Department of Mathematics](http://www.math.princeton.edu/directory/john-conway)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [John Horton Conway from Wikipedia](https://en.wikipedia.org/wiki/John_Horton_Conway)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Martin Gardner](Martin_Gardner "Martin Gardner") (**1970**). *[Mathematical Games - The fantastic combinations of John Conway's new solitaire game "life"](http://ddi.cs.uni-potsdam.de/HyFISCH/Produzieren/lis_projekt/proj_gamelife/ConwayScientificAmerican.htm)*. [Scientific American](Scientific_American "Scientific American"), Vol. 223, pp. 120-123.
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski") (**2009**). *The History of Combinatorial Game Theory*. [Dalhousie University](https://en.wikipedia.org/wiki/Dalhousie_University), [pdf](http://www.eos.tuwien.ac.at/OR/Mehlmann/Andis/publ/Spielmod10/HistoryCGT.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Donald Knuth](Donald_Knuth "Donald Knuth") (**1974**). *[Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www-cs-faculty.stanford.edu/~uno/sn.html)*. Addison-Wesley
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [English mathematician John Horton Conway dies after contracting COVID-19 - Wikinews, the free news source](https://en.wikinews.org/wiki/English_mathematician_John_Horton_Conway_dies_after_contracting_COVID-19)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: John H. Conway](http://www.informatik.uni-trier.de/~ley/pers/hy/c/Conway:John_H=.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [John H. Conway - Bibliography](http://web.math.princeton.edu/WebCV/ConwayBIB.pdf) (pdf)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Dual code from Wikipedia](https://en.wikipedia.org/wiki/Dual_code)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Finite field from Wikipedia](https://en.wikipedia.org/wiki/Finite_field)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Angel problem from Wikipedia](https://en.wikipedia.org/wiki/Angel_problem)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Mathieu group M12 from Wikipedia](https://en.wikipedia.org/wiki/Mathieu_group_M12)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Mathieu groupoid from Wikipedia](https://en.wikipedia.org/wiki/Mathieu_groupoid)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Conway biography - MacTutor](http://www-history.mcs.st-and.ac.uk/Biographies/Conway.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [John Conway | Department of Mathematics](http://www.math.princeton.edu/directory/john-conway)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [John Horton Conway from Wikipedia](https://en.wikipedia.org/wiki/John_Horton_Conway)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Martin Gardner](Martin_Gardner "Martin Gardner") (**1970**). *[Mathematical Games - The fantastic combinations of John Conway's new solitaire game "life"](http://ddi.cs.uni-potsdam.de/HyFISCH/Produzieren/lis_projekt/proj_gamelife/ConwayScientificAmerican.htm)*. [Scientific American](Scientific_American "Scientific American"), Vol. 223, pp. 120-123.
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski") (**2009**). *The History of Combinatorial Game Theory*. [Dalhousie University](https://en.wikipedia.org/wiki/Dalhousie_University), [pdf](http://www.eos.tuwien.ac.at/OR/Mehlmann/Andis/publ/Spielmod10/HistoryCGT.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Donald Knuth](Donald_Knuth "Donald Knuth") (**1974**). *[Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www-cs-faculty.stanford.edu/~uno/sn.html)*. Addison-Wesley
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [English mathematician John Horton Conway dies after contracting COVID-19 - Wikinews, the free news source](https://en.wikinews.org/wiki/English_mathematician_John_Horton_Conway_dies_after_contracting_COVID-19)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: John H. Conway](http://www.informatik.uni-trier.de/~ley/pers/hy/c/Conway:John_H=.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [John H. Conway - Bibliography](http://web.math.princeton.edu/WebCV/ConwayBIB.pdf) (pdf)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Dual code from Wikipedia](https://en.wikipedia.org/wiki/Dual_code)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Finite field from Wikipedia](https://en.wikipedia.org/wiki/Finite_field)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Angel problem from Wikipedia](https://en.wikipedia.org/wiki/Angel_problem)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Mathieu group M12 from Wikipedia](https://en.wikipedia.org/wiki/Mathieu_group_M12)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Mathieu groupoid from Wikipedia](https://en.wikipedia.org/wiki/Mathieu_groupoid)
 
 **[Up one level](People "People")**
 

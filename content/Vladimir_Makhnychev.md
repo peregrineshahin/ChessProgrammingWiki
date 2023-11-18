@@ -37,11 +37,11 @@ which were generated using the [Lomonosov Supercomputer](Lomonosov_Supercomputer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Posición de V. Makhnychev y V. Zakharov, Universidad Lomonosov de Moscú 2012 – música y ajedrez de diez](http://www.musicayajedrezdediez.com/2015/03/makhnychev_zakharov/), March 02, 2013 (Spanish)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Vladimir Makhnychev | LinkedIn](https://www.linkedin.com/pub/vladimir-makhnychev/64/625/290)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lomonosov Endgame Tablebases - History Note](https://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Lomonosov Endgame Tablebases](https://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Victor Zakharov](Victor_Zakharov "Victor Zakharov"), [Michael G. Malkovsky](Michael_G._Malkovsky "Michael G. Malkovsky"), [Vladislav Y. Shchukin](Vladislav_Y._Shchukin "Vladislav Y. Shchukin") (**2016**). *[Compression of underdetermined data in a 7-piece chess table](https://link.springer.com/article/10.3103%2FS0278641916010076)*. [Moscow University Computational Mathematics and Cybernetics](https://www.springer.com/mathematics/journal/11968), Vol. 40, No. 1
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Posición de V. Makhnychev y V. Zakharov, Universidad Lomonosov de Moscú 2012 – música y ajedrez de diez](http://www.musicayajedrezdediez.com/2015/03/makhnychev_zakharov/), March 02, 2013 (Spanish)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Vladimir Makhnychev | LinkedIn](https://www.linkedin.com/pub/vladimir-makhnychev/64/625/290)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lomonosov Endgame Tablebases - History Note](https://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Lomonosov Endgame Tablebases](https://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Victor Zakharov](Victor_Zakharov "Victor Zakharov"), [Michael G. Malkovsky](Michael_G._Malkovsky "Michael G. Malkovsky"), [Vladislav Y. Shchukin](Vladislav_Y._Shchukin "Vladislav Y. Shchukin") (**2016**). *[Compression of underdetermined data in a 7-piece chess table](https://link.springer.com/article/10.3103%2FS0278641916010076)*. [Moscow University Computational Mathematics and Cybernetics](https://www.springer.com/mathematics/journal/11968), Vol. 40, No. 1
 
 **[Up one Level](People "People")**
 

@@ -28,8 +28,8 @@ As a [correspondence chess](https://en.wikipedia.org/wiki/Correspondence_Chess) 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from the Cover Photo of [Harold Bogner](index.php?title=Harold_Bogner&action=edit&redlink=1 "Harold Bogner (page does not exist)") (**1984**). *[The New Champion](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cf749)*. [Chess Life](https://en.wikipedia.org/wiki/Chess_Life) February 1984, [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.Chess_Life.The_New_Champion.Bogner.Feb-1984/Chess_Life.The_New_Champion.Bogner.Feb-1984.062303068.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), Cover Photo: [Ken Thompson](Ken_Thompson "Ken Thompson"), [Joe Condon](Joe_Condon "Joe Condon"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), and Albert Gower
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Albert Gower - Tritone Press & Tenuto Publications](http://www.tritone-tenuto.com/gower.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from the Cover Photo of [Harold Bogner](index.php?title=Harold_Bogner&action=edit&redlink=1 "Harold Bogner (page does not exist)") (**1984**). *[The New Champion](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cf749)*. [Chess Life](https://en.wikipedia.org/wiki/Chess_Life) February 1984, [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.Chess_Life.The_New_Champion.Bogner.Feb-1984/Chess_Life.The_New_Champion.Bogner.Feb-1984.062303068.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), Cover Photo: [Ken Thompson](Ken_Thompson "Ken Thompson"), [Joe Condon](Joe_Condon "Joe Condon"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), and Albert Gower
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Albert Gower - Tritone Press & Tenuto Publications](http://www.tritone-tenuto.com/gower.htm)
 
 **[Up one level](People "People")**
 

@@ -137,10 +137,10 @@ an [UCI](UCI "UCI") compliant chess engine by [Álvaro Begué](%C3%81lvaro_Begu%
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  Figure showing the noise curves of various [gravitational-wave detectors](https://en.wikipedia.org/wiki/Gravitational-wave_observatory) as a function of frequency together with the characteristic strain of a selection of [astrophysical](https://en.wikipedia.org/wiki/Astrophysics) sources, [Pink noise from Wikipedia](https://en.wikipedia.org/wiki/Pink_noise)  
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  Figure showing the noise curves of various [gravitational-wave detectors](https://en.wikipedia.org/wiki/Gravitational-wave_observatory) as a function of frequency together with the characteristic strain of a selection of [astrophysical](https://en.wikipedia.org/wiki/Astrophysics) sources, [Pink noise from Wikipedia](https://en.wikipedia.org/wiki/Pink_noise)  
 Christopher Moore, Robert Cole, Christopher Berry (**2014**). *Gravitational-wave sensitivity curves*. [arXiv:1408.0740](https://arxiv.org/abs/1408.0740)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Suggestions for a sparring partner](http://www.talkchess.com/forum/viewtopic.php?t=47268) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), February 19, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [RuyDos publicly available](http://www.talkchess.com/forum/viewtopic.php?t=64138) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), June 01, 2017
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Suggestions for a sparring partner](http://www.talkchess.com/forum/viewtopic.php?t=47268) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), February 19, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [RuyDos publicly available](http://www.talkchess.com/forum/viewtopic.php?t=64138) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), June 01, 2017
 
 **[Up one Level](Engines "Engines")**
 

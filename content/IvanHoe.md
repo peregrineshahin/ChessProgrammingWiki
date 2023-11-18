@@ -60,14 +60,14 @@ IvanHoe analyzing a position with multi-pv enabled using [ComradesGUI](index.php
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Cover scan of a Classics Comics No. 2, 1941, by Chordboard, July 2008, [Classics Illustrated from Wikipedia](https://en.wikipedia.org/wiki/Classics_Illustrated)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [IPPOLIT from Wikipedia](https://en.wikipedia.org/wiki/IPPOLIT)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Double: A Petersburg Poem](https://en.wikipedia.org/wiki/The_Double:_A_Petersburg_Poem) a novella written by [Fyodor Dostoyevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Abdul Abulbul Amir from Wikipedia](https://en.wikipedia.org/wiki/Abdul_Abulbul_Amir)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: SCCT Rating List (25.05.2012)](http://www.talkchess.com/forum/viewtopic.php?p=467491) by [Izak Pretorius](index.php?title=Izak_Pretorius&action=edit&redlink=1 "Izak Pretorius (page does not exist)"), [CCC](CCC "CCC"), June 01, 2012
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Computer-Chess Wiki Forum - Update Information: October 23, 2010](http://computer-chess.org/forum/index.php?mode=thread&id=1080)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Index of /engine/ivanhoe](http://chess.cygnitec.com/engine/ivanhoe/) by [kingliveson](Franklin_Titus "Franklin Titus")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Screenshot by [Kingliveson](Franklin_Titus "Franklin Titus"), December 13, 2011, [IPPOLIT from Wikipedia](https://en.wikipedia.org/wiki/IPPOLIT), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Cover scan of a Classics Comics No. 2, 1941, by Chordboard, July 2008, [Classics Illustrated from Wikipedia](https://en.wikipedia.org/wiki/Classics_Illustrated)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [IPPOLIT from Wikipedia](https://en.wikipedia.org/wiki/IPPOLIT)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Double: A Petersburg Poem](https://en.wikipedia.org/wiki/The_Double:_A_Petersburg_Poem) a novella written by [Fyodor Dostoyevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Abdul Abulbul Amir from Wikipedia](https://en.wikipedia.org/wiki/Abdul_Abulbul_Amir)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: SCCT Rating List (25.05.2012)](http://www.talkchess.com/forum/viewtopic.php?p=467491) by [Izak Pretorius](index.php?title=Izak_Pretorius&action=edit&redlink=1 "Izak Pretorius (page does not exist)"), [CCC](CCC "CCC"), June 01, 2012
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Computer-Chess Wiki Forum - Update Information: October 23, 2010](http://computer-chess.org/forum/index.php?mode=thread&id=1080)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Index of /engine/ivanhoe](http://chess.cygnitec.com/engine/ivanhoe/) by [kingliveson](Franklin_Titus "Franklin Titus")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Screenshot by [Kingliveson](Franklin_Titus "Franklin Titus"), December 13, 2011, [IPPOLIT from Wikipedia](https://en.wikipedia.org/wiki/IPPOLIT), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one level](Ippolit "Ippolit")**
 

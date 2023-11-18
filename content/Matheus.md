@@ -37,10 +37,10 @@ Matheus applies a [principal variation search](Principal_Variation_Search "Princ
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1995**). *1994 Uniform Platform Tournament*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, No. 1, pp. 8
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Matheus](http://web.archive.org/web/20121209201403/http://wbec-ridderkerk.nl/html/details1/Matheus.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Mate scores in the hash table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=3405#p17152) by [Josué Forte](Josu%C3%A9_Forte "Josué Forte"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 04, 2005
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2002 FIFA World Cup from Wikipedia](https://en.wikipedia.org/wiki/2002_FIFA_World_Cup)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1995**). *1994 Uniform Platform Tournament*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, No. 1, pp. 8
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Matheus](http://web.archive.org/web/20121209201403/http://wbec-ridderkerk.nl/html/details1/Matheus.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Mate scores in the hash table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=3405#p17152) by [Josué Forte](Josu%C3%A9_Forte "Josué Forte"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 04, 2005
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2002 FIFA World Cup from Wikipedia](https://en.wikipedia.org/wiki/2002_FIFA_World_Cup)
 
 **[Up one level](Engines "Engines")**
 

@@ -71,9 +71,9 @@ Along with [Pradu Kannan](Pradu_Kannan "Pradu Kannan"), he contributed to the [C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sune Fischer | LinkedIn](https://www.linkedin.com/in/sune-fischer-61b4197/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sune Fischer | LinkedIn](https://www.linkedin.com/in/sune-fischer-61b4197/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: KDL Chess released! + Update and new name for ChessCraft](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=36801&start=4) by [Leo Dijksman](Leo_Dijksman "Leo Dijksman"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 10, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sune Fischer | LinkedIn](https://www.linkedin.com/in/sune-fischer-61b4197/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sune Fischer | LinkedIn](https://www.linkedin.com/in/sune-fischer-61b4197/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: KDL Chess released! + Update and new name for ChessCraft](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=36801&start=4) by [Leo Dijksman](Leo_Dijksman "Leo Dijksman"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 10, 2002
 
 **[Up one level](People "People")**
 

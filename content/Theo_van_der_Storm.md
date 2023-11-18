@@ -74,13 +74,13 @@ was a Dutch computer scientist, computer chess and games programmer. Theo van de
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from Photo Composition of [CSVN](CSVN "CSVN") Board members and known visitors, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Theo van der Storm is dead](http://www.talkchess.com/forum/viewtopic.php?t=26004) by [Rolf Tüschen](Rolf_T%C3%BCschen "Rolf Tüschen"), [CCC](CCC "CCC"), January 14, 2009
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DOCCC 2000](DOCCC_2000 "DOCCC 2000"), photo courtesy [Joost Buijs](Joost_Buijs "Joost Buijs"), July 24, 2015
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [5th CSVN-Tournament 2005 Gallery](http://old.csvn.nl/gallery22.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Einstein würfelt nicht](http://www.3-hirn-verlag.de/MasterGame/regel.html) von [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), Copyright 2004
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [A challenge to Theo van der Storm!](https://www.stmintz.com/ccc/index.php?id=415289) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CCC](CCC "CCC"), March 04, 2005
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from Photo Composition of [CSVN](CSVN "CSVN") Board members and known visitors, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Theo van der Storm is dead](http://www.talkchess.com/forum/viewtopic.php?t=26004) by [Rolf Tüschen](Rolf_T%C3%BCschen "Rolf Tüschen"), [CCC](CCC "CCC"), January 14, 2009
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DOCCC 2000](DOCCC_2000 "DOCCC 2000"), photo courtesy [Joost Buijs](Joost_Buijs "Joost Buijs"), July 24, 2015
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [5th CSVN-Tournament 2005 Gallery](http://old.csvn.nl/gallery22.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Einstein würfelt nicht](http://www.3-hirn-verlag.de/MasterGame/regel.html) von [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), Copyright 2004
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [A challenge to Theo van der Storm!](https://www.stmintz.com/ccc/index.php?id=415289) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CCC](CCC "CCC"), March 04, 2005
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -49,10 +49,10 @@ in particular working on and establishing [Lazy SMP](Lazy_SMP "Lazy SMP") <a id=
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Participants](http://wbec-ridderkerk.nl/html/part.htm) [WBEC Ridderkerk](WBEC "WBEC")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stockfish/AUTHORS at master · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Commits · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/commits?author=mbootsector)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Lazy SMP Better than YBWC?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=58031&start=24) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), October 24, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Participants](http://wbec-ridderkerk.nl/html/part.htm) [WBEC Ridderkerk](WBEC "WBEC")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stockfish/AUTHORS at master · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Commits · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/commits?author=mbootsector)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Lazy SMP Better than YBWC?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=58031&start=24) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), October 24, 2015
 
 **[Up one level](People "People")**
 

@@ -34,8 +34,8 @@ Tigran played the First [Spanish Computer Chess Championship](Spanish_Computer_C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stamp](https://en.wikipedia.org/wiki/List_of_people_on_postage_stamps_of_Armenia) of [Armenia](https://en.wikipedia.org/wiki/Armenia), 1996, [Tigran Petrosian](https://en.wikipedia.org/wiki/Tigran_Petrosian) [Chess House](https://en.wikipedia.org/wiki/Tigran_Petrosian_Chess_House) in [Yerevan](https://en.wikipedia.org/wiki/Yerevan), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Josep Parés](Natalia_Par%C3%A9s "Natalia Parés"), [Teresa Canela](Teresa_Canela "Teresa Canela") (**1993**). *Report on the 1st Spanish Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stamp](https://en.wikipedia.org/wiki/List_of_people_on_postage_stamps_of_Armenia) of [Armenia](https://en.wikipedia.org/wiki/Armenia), 1996, [Tigran Petrosian](https://en.wikipedia.org/wiki/Tigran_Petrosian) [Chess House](https://en.wikipedia.org/wiki/Tigran_Petrosian_Chess_House) in [Yerevan](https://en.wikipedia.org/wiki/Yerevan), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Josep Parés](Natalia_Par%C3%A9s "Natalia Parés"), [Teresa Canela](Teresa_Canela "Teresa Canela") (**1993**). *Report on the 1st Spanish Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

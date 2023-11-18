@@ -11,8 +11,8 @@ title: Pre Frontier Node
 
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1998**). *[Extended futility pruning](http://people.csail.mit.edu/heinz/dt/node18.html)*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 21, No 2, [ps](http://people.csail.mit.edu/heinz/ps/ext_fut.ps.gz)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: simple node definitions question](https://www.stmintz.com/ccc/index.php?id=387518) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), September 13, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1998**). *[Extended futility pruning](http://people.csail.mit.edu/heinz/dt/node18.html)*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 21, No 2, [ps](http://people.csail.mit.edu/heinz/ps/ext_fut.ps.gz)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: simple node definitions question](https://www.stmintz.com/ccc/index.php?id=387518) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), September 13, 2004
 
 **[Up one Level](Node "Node")**
 

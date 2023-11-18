@@ -62,11 +62,11 @@ The next step forward came when [Novag's](Novag "Novag") [Dave Kittinger](David_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Novag Constellation Forte B](http://www.schachcomputer.at/forteb.htm) from [Kurt´s Schachcomputer Homepage](http://www.schachcomputer.at/index.htm) by [Kurt Kispert](Kurt_Kispert "Kurt Kispert") (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PSH](http://www.schach-computer.info/wiki/index.php/PSH) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Oldie-Artikel 3](http://thorstenczub.de/oldie3.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Novag Super Forte B](http://www.schach-computer.info/wiki/index.php/Novag_Super_Forte_B) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1989**). *The Rexchess Story*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1989, pp. 8
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Novag Constellation Forte B](http://www.schachcomputer.at/forteb.htm) from [Kurt´s Schachcomputer Homepage](http://www.schachcomputer.at/index.htm) by [Kurt Kispert](Kurt_Kispert "Kurt Kispert") (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PSH](http://www.schach-computer.info/wiki/index.php/PSH) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Oldie-Artikel 3](http://thorstenczub.de/oldie3.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Novag Super Forte B](http://www.schach-computer.info/wiki/index.php/Novag_Super_Forte_B) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1989**). *The Rexchess Story*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1989, pp. 8
 
 **[Up one level](Engines "Engines")**
 

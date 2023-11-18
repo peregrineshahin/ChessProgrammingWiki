@@ -42,11 +42,11 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Photo](https://commons.wikimedia.org/wiki/File:Ephraim_Kishon_6.jpg) by [Nachoom Assis](https://www.wikidata.org/wiki/Q47175301), 1994, [Ephraim Kishon from Wikipedia](https://en.wikipedia.org/wiki/Ephraim_Kishon), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The life of Ephraim Kishon (1924-2005)](http://www.ephraimkishon.de/en/biography_of_ephraim_kishon.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ron Nelson and H & G Projects](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=194) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2016
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ephraim Kishon - Der Kishon Chesster](http://www.ephraimkishon.de/kishon_chesster.htm)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ephraim Kishon, 1924 – 2005](https://en.chessbase.com/post/ephraim-kishon-1924-2005), Obituary by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase](ChessBase "ChessBase"), February 04, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Photo](https://commons.wikimedia.org/wiki/File:Ephraim_Kishon_6.jpg) by [Nachoom Assis](https://www.wikidata.org/wiki/Q47175301), 1994, [Ephraim Kishon from Wikipedia](https://en.wikipedia.org/wiki/Ephraim_Kishon), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The life of Ephraim Kishon (1924-2005)](http://www.ephraimkishon.de/en/biography_of_ephraim_kishon.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ron Nelson and H & G Projects](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=194) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2016
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ephraim Kishon - Der Kishon Chesster](http://www.ephraimkishon.de/kishon_chesster.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ephraim Kishon, 1924 – 2005](https://en.chessbase.com/post/ephraim-kishon-1924-2005), Obituary by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase](ChessBase "ChessBase"), February 04, 2005
 
 **[Up one level](People "People")**
 

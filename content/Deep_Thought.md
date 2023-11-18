@@ -108,17 +108,17 @@ View into Deep Thought's source written in [C](C "C") with [gotos](C#Goto "C") <
 
 ## [Source code to tune Deep Thought's evaluation](http://www.tim-mann.org/DT_eval_tune.tar.gz) in tar.gz format. [Andreas Nowatzyk's explanations of the the source code](http://www.tim-mann.org/DT_eval_tune.txt) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Deep Thought I circuit board ca. 1988](http://www.computerhistory.org/chess/art-431f4cc1815a3/) Photo by [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Hitchhiker's Guide to the Galaxy from Wikipeadia](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Deep Thought team with Fredkin Intermediate Prize](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 1988, Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1989**). *Deep Thought Wins Fredkin Intermediate Prize*. AI Magazine, Vol. 10, No. 2, [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/753/671)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Aegon Tournament 1990; Hitech best overall](http://groups.google.com/group/rec.games.chess/browse_frm/thread/457406aed770f6be) by [Hans Berliner](Hans_Berliner "Hans Berliner"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), May 25, 1990
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> from [Kasparov versus Deep Thought 1989 documentary](Kasparov_versus_Deep_Thought_1989#Video "Kasparov versus Deep Thought 1989"), Video 2, 10:49
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> from [Kasparov versus Deep Thought 1989 documentary](Kasparov_versus_Deep_Thought_1989#Video "Kasparov versus Deep Thought 1989"), Video 2, 13:35
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Karpov vs. DEEP THOUGHT Cambridge, Massachusetts reported by Darren Bedwell, Compuserve 73](http://www.skepticfiles.org/cowtext/comput~1/karpovpr.htm)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CeBIT](https://en.wikipedia.org/wiki/CeBIT), [Hannover 1991 - 365Chess.com Tournaments](http://www.365chess.com/tournaments/Hannover_1991/18664)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [12. IJCAI 1991](Conferences#IJCAI1991 "Conferences") and Deep Thought vs. [Darryl Johansen](https://en.wikipedia.org/wiki/Darryl_Johansen) 1-1, [Sydney](https://en.wikipedia.org/wiki/Sydney), August 28, 1991
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Deep Thought vs. Darryl K. Johansen](http://www.chessgames.com/perl/chess.pl?pid=13728&pid2=47022) from [chessgames.co](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Deep Thought I circuit board ca. 1988](http://www.computerhistory.org/chess/art-431f4cc1815a3/) Photo by [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Hitchhiker's Guide to the Galaxy from Wikipeadia](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Deep Thought team with Fredkin Intermediate Prize](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 1988, Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1989**). *Deep Thought Wins Fredkin Intermediate Prize*. AI Magazine, Vol. 10, No. 2, [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/753/671)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Aegon Tournament 1990; Hitech best overall](http://groups.google.com/group/rec.games.chess/browse_frm/thread/457406aed770f6be) by [Hans Berliner](Hans_Berliner "Hans Berliner"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), May 25, 1990
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> from [Kasparov versus Deep Thought 1989 documentary](Kasparov_versus_Deep_Thought_1989#Video "Kasparov versus Deep Thought 1989"), Video 2, 10:49
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> from [Kasparov versus Deep Thought 1989 documentary](Kasparov_versus_Deep_Thought_1989#Video "Kasparov versus Deep Thought 1989"), Video 2, 13:35
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Karpov vs. DEEP THOUGHT Cambridge, Massachusetts reported by Darren Bedwell, Compuserve 73](http://www.skepticfiles.org/cowtext/comput~1/karpovpr.htm)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CeBIT](https://en.wikipedia.org/wiki/CeBIT), [Hannover 1991 - 365Chess.com Tournaments](http://www.365chess.com/tournaments/Hannover_1991/18664)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [12. IJCAI 1991](Conferences#IJCAI1991 "Conferences") and Deep Thought vs. [Darryl Johansen](https://en.wikipedia.org/wiki/Darryl_Johansen) 1-1, [Sydney](https://en.wikipedia.org/wiki/Sydney), August 28, 1991
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Deep Thought vs. Darryl K. Johansen](http://www.chessgames.com/perl/chess.pl?pid=13728&pid2=47022) from [chessgames.co](http://www.chessgames.com/index.html)
 
 **[Up one Level](Engines "Engines")**
 

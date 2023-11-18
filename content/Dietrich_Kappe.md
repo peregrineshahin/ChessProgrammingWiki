@@ -38,7 +38,7 @@ He is the author of [A0lite](A0lite "A0lite"), a didactic [UCI](UCI "UCI") compl
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> \[<https://orthogonal.io/> Orthogonal
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> \[<https://orthogonal.io/> Orthogonal
 
 **[Up one level](People "People")**
 

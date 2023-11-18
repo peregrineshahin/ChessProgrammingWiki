@@ -50,12 +50,12 @@ He holds a [B. Eng](https://en.wikipedia.org/wiki/Bachelor_of_Engineering) from 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zilic, Z., Ph.D., P. Eng.](http://www.iml.ece.mcgill.ca/people/professors/zilic/index.php) within Integrated Microsystems Laboratory of [McGill University](McGill_University "McGill University")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zilic, Z., Ph.D., P. Eng. - Research Interests](http://www.iml.ece.mcgill.ca/people/professors/zilic/index.php#interests)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Zeljko Zilic - Publications](http://www.iml.ece.mcgill.ca/people/professors/zilic/publications.php)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Zeljko Zilic](https://dblp.uni-trier.de/pers/hd/z/Zilic:Zeljko)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Reed–Muller code from Wikipedia](https://en.wikipedia.org/wiki/Reed%E2%80%93Muller_code)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Documentation on the NUMAchine Multiprocessor](http://www.eecg.toronto.edu/parallel/parallel/numadocs.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zilic, Z., Ph.D., P. Eng.](http://www.iml.ece.mcgill.ca/people/professors/zilic/index.php) within Integrated Microsystems Laboratory of [McGill University](McGill_University "McGill University")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zilic, Z., Ph.D., P. Eng. - Research Interests](http://www.iml.ece.mcgill.ca/people/professors/zilic/index.php#interests)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Zeljko Zilic - Publications](http://www.iml.ece.mcgill.ca/people/professors/zilic/publications.php)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Zeljko Zilic](https://dblp.uni-trier.de/pers/hd/z/Zilic:Zeljko)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Reed–Muller code from Wikipedia](https://en.wikipedia.org/wiki/Reed%E2%80%93Muller_code)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Documentation on the NUMAchine Multiprocessor](http://www.eecg.toronto.edu/parallel/parallel/numadocs.html)
 
 **[Up one level](People "People")**
 

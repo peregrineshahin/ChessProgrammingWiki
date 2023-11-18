@@ -141,22 +141,22 @@ DGT Board in action for live broadcast at [PT 45](PT_45 "PT 45"), round 4, [Kall
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Patent US6168158 - Device for detecting playing pieces on a board - Google Patents](http://www.google.com/patents/US6168158)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [How electronic chessboards works](http://groups.google.com/group/rec.games.chess.misc/msg/8734d1b2fffd6af0) by [Ben Bulsink DGT Project](http://digitalgametechnology.com/site/History/about-dgt.html), [rec.games.chess.misc](Computer_Chess_Forums "Computer Chess Forums"), February 19, 2004
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DGT presents: new clocks, technology – and Vladimir Kramnik](http://www.chessbase.com/newsdetail.asp?newsid=4372), [ChessBase News](ChessBase "ChessBase"), January 10, 2008
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Which programs support the DGT e-Board?](http://digitalgametechnology.com/site/index.php/dgtsupport/frequently-asked-questions/287-boards-with-3rd-party-software/131-which-programs-support-the-dgt-e-board)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [DGT Winboard interface](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=52438) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 19, 2012
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dgtdrv: An input engine for the DGT Digital Chess Board](http://dgtdrv.sourceforge.net/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Aart Bik's Website - Connecting Chess for Android with a DGT Chessboard](http://www.aartbik.com/android_dgt.php)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chess for Android and Electronic ChessBoards](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=69257) by [Aart Bik](Aart_Bik "Aart Bik"), [CCC](CCC "CCC"), December 14, 2018
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [PicoChess](http://www.picochess.org/) by [Jean-Francois Romang](Jean-Francois_Romang "Jean-Francois Romang")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Video: DGT board and modern pieces](http://www.talkchess.com/forum/viewtopic.php?t=49199) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), September 01, 2013
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [DGT presents: new clocks, technology – and Vladimir Kramnik](http://www.chessbase.com/newsdetail.asp?newsid=4372), [ChessBase News](ChessBase "ChessBase"), January 10, 2008
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Revelation II](http://www.revelationii.com/index.php?option=com_content&view=article&id=130:revelation-ii&catid=92&Itemid=584) from [DGT](index.php?title=DGT&action=edit&redlink=1 "DGT (page does not exist)")
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [DGT starts delivery in december](http://www.chesscomputer.eu/index.php?option=com_content&view=article&id=166%3Adgt-starts-delivery-in-december&catid=1%3Alatest&Itemid=68&lang=en), [Phoenix Chess Systems](index.php?title=Phoenix_Chess_Systems&action=edit&redlink=1 "Phoenix Chess Systems (page does not exist)"), December 01, 2013
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [CSVN Live](http://www.csvn.nl/live-tournament-cloud)
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Photo's PT45/GT27 day 1](http://www.computerschaak.nl/nieuws-mainmenu-28/51-toernooien/616-photo-s-pt45-gt27-day-1)
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [DGT Pi - Chess Computer for DGT e-Boards - Digital Game Technology](http://www.digitalgametechnology.com/index.php/products/revelation-ii/533-dgt-pi-chess-computer-for-dgt-e-boards)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Patent US6168158 - Device for detecting playing pieces on a board - Google Patents](http://www.google.com/patents/US6168158)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [How electronic chessboards works](http://groups.google.com/group/rec.games.chess.misc/msg/8734d1b2fffd6af0) by [Ben Bulsink DGT Project](http://digitalgametechnology.com/site/History/about-dgt.html), [rec.games.chess.misc](Computer_Chess_Forums "Computer Chess Forums"), February 19, 2004
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DGT presents: new clocks, technology – and Vladimir Kramnik](http://www.chessbase.com/newsdetail.asp?newsid=4372), [ChessBase News](ChessBase "ChessBase"), January 10, 2008
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Which programs support the DGT e-Board?](http://digitalgametechnology.com/site/index.php/dgtsupport/frequently-asked-questions/287-boards-with-3rd-party-software/131-which-programs-support-the-dgt-e-board)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [DGT Winboard interface](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=52438) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 19, 2012
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dgtdrv: An input engine for the DGT Digital Chess Board](http://dgtdrv.sourceforge.net/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Aart Bik's Website - Connecting Chess for Android with a DGT Chessboard](http://www.aartbik.com/android_dgt.php)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chess for Android and Electronic ChessBoards](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=69257) by [Aart Bik](Aart_Bik "Aart Bik"), [CCC](CCC "CCC"), December 14, 2018
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [PicoChess](http://www.picochess.org/) by [Jean-Francois Romang](Jean-Francois_Romang "Jean-Francois Romang")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Video: DGT board and modern pieces](http://www.talkchess.com/forum/viewtopic.php?t=49199) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), September 01, 2013
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [DGT presents: new clocks, technology – and Vladimir Kramnik](http://www.chessbase.com/newsdetail.asp?newsid=4372), [ChessBase News](ChessBase "ChessBase"), January 10, 2008
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Revelation II](http://www.revelationii.com/index.php?option=com_content&view=article&id=130:revelation-ii&catid=92&Itemid=584) from [DGT](index.php?title=DGT&action=edit&redlink=1 "DGT (page does not exist)")
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [DGT starts delivery in december](http://www.chesscomputer.eu/index.php?option=com_content&view=article&id=166%3Adgt-starts-delivery-in-december&catid=1%3Alatest&Itemid=68&lang=en), [Phoenix Chess Systems](index.php?title=Phoenix_Chess_Systems&action=edit&redlink=1 "Phoenix Chess Systems (page does not exist)"), December 01, 2013
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [CSVN Live](http://www.csvn.nl/live-tournament-cloud)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Photo's PT45/GT27 day 1](http://www.computerschaak.nl/nieuws-mainmenu-28/51-toernooien/616-photo-s-pt45-gt27-day-1)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [DGT Pi - Chess Computer for DGT e-Boards - Digital Game Technology](http://www.digitalgametechnology.com/index.php/products/revelation-ii/533-dgt-pi-chess-computer-for-dgt-e-boards)
 
 **[Up one level](Sensory_Board "Sensory Board")**
 

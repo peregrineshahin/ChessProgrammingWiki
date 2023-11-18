@@ -130,13 +130,13 @@ Rd4 63.Ra1 Qb7 64.Re1 Kh7 65.Qf6 Rd3 66.Ra1 Kg8 67.Ra4 Qc6 68.Ra1 Rd4 69.Rb1 Qc7
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wormhole](https://en.wikipedia.org/wiki/Wormhole) [travel](https://en.wikipedia.org/wiki/Wormhole#Traversable_wormholes) as envisioned by Les Bossinas (Cortez III Service Corp.), 1998 for [NASA](https://en.wikipedia.org/wiki/NASA), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Warp-Antrieb – Wikipedia.de](https://de.wikipedia.org/wiki/Warp-Antrieb) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [2003 National Computer Chess Championships | List of Entries](http://users.cecs.anu.edu.au/~shaun/chess/NC3_-_List_of_Entries.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Maastricht 2002 - Chess - Round 2 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=20&round=2&id=8)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [WCCC 2002: Round 2 - WARP vs. DIEP (my analysis)](https://www.stmintz.com/ccc/index.php?id=238978) by [Eduard Nemeth](index.php?title=Eduard_Nemeth&action=edit&redlink=1 "Eduard Nemeth (page does not exist)"), [CCC](CCC "CCC"), July 07, 2002
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Warp - Diep, WCCC](https://www.stmintz.com/ccc/index.php?id=268444) by [Peter McKenzie](Peter_McKenzie "Peter McKenzie"), [CCC](CCC "CCC"), December 02, 2002
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Maastricht 2002 - Chess - Round 3 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=20&round=3&id=6)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [WCCC Round 3: Quest vs Warp [maybe draw?](https://www.stmintz.com/ccc/index.php?id=239026)] by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), July 07, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wormhole](https://en.wikipedia.org/wiki/Wormhole) [travel](https://en.wikipedia.org/wiki/Wormhole#Traversable_wormholes) as envisioned by Les Bossinas (Cortez III Service Corp.), 1998 for [NASA](https://en.wikipedia.org/wiki/NASA), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Warp-Antrieb – Wikipedia.de](https://de.wikipedia.org/wiki/Warp-Antrieb) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [2003 National Computer Chess Championships | List of Entries](http://users.cecs.anu.edu.au/~shaun/chess/NC3_-_List_of_Entries.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Maastricht 2002 - Chess - Round 2 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=20&round=2&id=8)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [WCCC 2002: Round 2 - WARP vs. DIEP (my analysis)](https://www.stmintz.com/ccc/index.php?id=238978) by [Eduard Nemeth](index.php?title=Eduard_Nemeth&action=edit&redlink=1 "Eduard Nemeth (page does not exist)"), [CCC](CCC "CCC"), July 07, 2002
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Warp - Diep, WCCC](https://www.stmintz.com/ccc/index.php?id=268444) by [Peter McKenzie](Peter_McKenzie "Peter McKenzie"), [CCC](CCC "CCC"), December 02, 2002
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Maastricht 2002 - Chess - Round 3 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=20&round=3&id=6)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [WCCC Round 3: Quest vs Warp [maybe draw?](https://www.stmintz.com/ccc/index.php?id=239026)] by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), July 07, 2002
 
 **[Up one level](Engines "Engines")**
 

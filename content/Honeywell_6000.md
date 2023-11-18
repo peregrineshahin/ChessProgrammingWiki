@@ -71,12 +71,12 @@ The Honeywell **DPS8** was a descendant of the GE-645 released in 1983. The DPS8
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Dartmouth Computing Timeline - The 1960s](http://www.dartmouth.edu/its-tools/archive/history/timeline/1960s.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Multics - Multiplexed Information and Computing Service](http://multicians.org/index.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Multics - photo and specifications](http://web.mit.edu/Saltzer/www/multics.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Edward L. Glaser](https://www.nap.edu/read/4779/chapter/21#91), [John F. Couleur](https://www.google.com/patents/US3026035?dq=ininventor:%22Couleur+John+F%22&hl=en&sa=X&ved=0ahUKEwjLiIzx3-TYAhUH2aQKHRJlAMIQ6AEIVzAH), G. A. Oliver\]\] (**1965**). *[System Design of a Computer for Time Sharing Applications](http://www.multicians.org/fjcc2.html)*. [Fall Joint Computer Conference](https://en.wikipedia.org/wiki/Joint_Computer_Conference)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Honeywell 6000 series - Computer History Wiki](http://gunkies.org/wiki/Honeywell_6000_series)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Honeywell DPS8](http://ed-thelen.org/comp-hist/honeywell-DPS8.html) by [Ed Thelen](http://ed-thelen.org/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Dartmouth Computing Timeline - The 1960s](http://www.dartmouth.edu/its-tools/archive/history/timeline/1960s.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Multics - Multiplexed Information and Computing Service](http://multicians.org/index.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Multics - photo and specifications](http://web.mit.edu/Saltzer/www/multics.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Edward L. Glaser](https://www.nap.edu/read/4779/chapter/21#91), [John F. Couleur](https://www.google.com/patents/US3026035?dq=ininventor:%22Couleur+John+F%22&hl=en&sa=X&ved=0ahUKEwjLiIzx3-TYAhUH2aQKHRJlAMIQ6AEIVzAH), G. A. Oliver\]\] (**1965**). *[System Design of a Computer for Time Sharing Applications](http://www.multicians.org/fjcc2.html)*. [Fall Joint Computer Conference](https://en.wikipedia.org/wiki/Joint_Computer_Conference)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Honeywell 6000 series - Computer History Wiki](http://gunkies.org/wiki/Honeywell_6000_series)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Honeywell DPS8](http://ed-thelen.org/comp-hist/honeywell-DPS8.html) by [Ed Thelen](http://ed-thelen.org/)
 
 **[Up one Level](Hardware "Hardware")**
 

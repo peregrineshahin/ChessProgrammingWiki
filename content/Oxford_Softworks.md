@@ -33,9 +33,9 @@ Oxford Softworks developed several other games in house, some of which were writ
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Omar Sharif on Bridge Demo : Oxford Softworks : Free Download & Streaming : Internet Archive](http://archive.org/details/OmarSharifOnBridgeDemo)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Intelligent Strategy Games 10 (1993) DOS credits](https://www.mobygames.com/game/dos/intelligent-strategy-games-10/credits) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Chris Whittington, February 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Omar Sharif on Bridge Demo : Oxford Softworks : Free Download & Streaming : Internet Archive](http://archive.org/details/OmarSharifOnBridgeDemo)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Intelligent Strategy Games 10 (1993) DOS credits](https://www.mobygames.com/game/dos/intelligent-strategy-games-10/credits) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Chris Whittington, February 2013
 
 **[Up one Level](Organizations "Organizations")**
 

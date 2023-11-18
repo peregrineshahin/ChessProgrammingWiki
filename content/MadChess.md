@@ -122,19 +122,19 @@ The [evaluation](Evaluation "Evaluation") might be [lazy](Lazy_Evaluation "Lazy 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A postcard with the [public domain](https://en.wikipedia.org/wiki/Public_domain) "[me worry?](http://en.wiktionary.org/wiki/what_me_worry)" face that later inspired [Mad magazine's](https://en.wikipedia.org/wiki/Mad_%28magazine%29) [Alfred E. Neuman](https://en.wikipedia.org/wiki/Alfred_E._Neuman), ca. 1910s, [Alfred E. Neuman from Wikipedia](https://en.wikipedia.org/wiki/Alfred_E._Neuman)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MadChess 1.0 Released (C# .NET Engine)](http://www.talkchess.com/forum/viewtopic.php?t=45723) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), October 25, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MadChess UCI\_LimitStrength Algorithm](http://www.talkchess.com/forum/viewtopic.php?t=51973) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), April 12, 2014
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MadChess - User Guide](http://www.madchess.net/page/User-Guide)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [MadChess 2.1 Released – MadChess](http://www.madchess.net/2017/02/22/madchess-2-1-released/), February 22, 2017
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [MadChess 2.1 Released - Supports Windows, Linux, Mac](http://www.talkchess.com/forum/viewtopic.php?t=63248) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), February 23, 2017
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Question About CPP-C#, Performance, and Square Representation](http://talkchess.com/forum/viewtopic.php?p=485936#485936) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), October 03, 2012
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [yield - MSDN C# Reference](http://msdn.microsoft.com/en-us/library/9k7k7cf0.aspx)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Behind the scenes of the C# yield keyword | Struggles](http://startbigthinksmall.wordpress.com/2008/06/09/behind-the-scenes-of-the-c-yield-keyword/) by [Lars Corneliussen](http://startbigthinksmall.wordpress.com/), June 9, 2008
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Generator (computer programming) from Wikipedia](https://en.wikipedia.org/wiki/Generator_%28computer_programming%29)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Coroutine from Wikipedia](https://en.wikipedia.org/wiki/Coroutine)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Engine Crash Detective Story](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74931) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), August 29, 2020
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Are Aspiration Windows Worthless?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76115) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), December 20, 2020 » [Aspiration Windows](Aspiration_Windows "Aspiration Windows")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A postcard with the [public domain](https://en.wikipedia.org/wiki/Public_domain) "[me worry?](http://en.wiktionary.org/wiki/what_me_worry)" face that later inspired [Mad magazine's](https://en.wikipedia.org/wiki/Mad_%28magazine%29) [Alfred E. Neuman](https://en.wikipedia.org/wiki/Alfred_E._Neuman), ca. 1910s, [Alfred E. Neuman from Wikipedia](https://en.wikipedia.org/wiki/Alfred_E._Neuman)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MadChess 1.0 Released (C# .NET Engine)](http://www.talkchess.com/forum/viewtopic.php?t=45723) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), October 25, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MadChess UCI\_LimitStrength Algorithm](http://www.talkchess.com/forum/viewtopic.php?t=51973) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), April 12, 2014
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MadChess - User Guide](http://www.madchess.net/page/User-Guide)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [MadChess 2.1 Released – MadChess](http://www.madchess.net/2017/02/22/madchess-2-1-released/), February 22, 2017
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [MadChess 2.1 Released - Supports Windows, Linux, Mac](http://www.talkchess.com/forum/viewtopic.php?t=63248) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), February 23, 2017
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Question About CPP-C#, Performance, and Square Representation](http://talkchess.com/forum/viewtopic.php?p=485936#485936) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), October 03, 2012
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [yield - MSDN C# Reference](http://msdn.microsoft.com/en-us/library/9k7k7cf0.aspx)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Behind the scenes of the C# yield keyword | Struggles](http://startbigthinksmall.wordpress.com/2008/06/09/behind-the-scenes-of-the-c-yield-keyword/) by [Lars Corneliussen](http://startbigthinksmall.wordpress.com/), June 9, 2008
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Generator (computer programming) from Wikipedia](https://en.wikipedia.org/wiki/Generator_%28computer_programming%29)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Coroutine from Wikipedia](https://en.wikipedia.org/wiki/Coroutine)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Engine Crash Detective Story](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74931) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), August 29, 2020
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Are Aspiration Windows Worthless?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76115) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), December 20, 2020 » [Aspiration Windows](Aspiration_Windows "Aspiration Windows")
 
 **[Up one level](Engines "Engines")**[[Category:Mac]
 

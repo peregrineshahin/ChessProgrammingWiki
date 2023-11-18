@@ -44,11 +44,11 @@ In October 2010, Hans van der Zijden superseded [Eric van Reem](Eric_van_Reem "E
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from Photo Composition of [CSVN](CSVN "CSVN") Board members and known visitors, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [World Cube Association Official Results - Hans van der Zijden](http://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hans van der Zijden's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=306)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Image from [Pierre Nolot](Pierre_Nolot "Pierre Nolot") (**1986**). *Echecs: Les Progès des Programmes*. [Jeux et Stratégie](http://fr.wikipedia.org/wiki/Jeux_et_Strat%C3%A9gie)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [7th International CSVN Tournament 2007 - Photo Gallery](http://www.csvn.nl/index.php?option=com_content&view=article&id=424%3Afotogalerij-1&catid=54%3Afotogalerij&Itemid=61&lang=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from Photo Composition of [CSVN](CSVN "CSVN") Board members and known visitors, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [World Cube Association Official Results - Hans van der Zijden](http://www.worldcubeassociation.org/results/p.php?i=2004ZIJD01)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hans van der Zijden's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=306)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Image from [Pierre Nolot](Pierre_Nolot "Pierre Nolot") (**1986**). *Echecs: Les Progès des Programmes*. [Jeux et Stratégie](http://fr.wikipedia.org/wiki/Jeux_et_Strat%C3%A9gie)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [7th International CSVN Tournament 2007 - Photo Gallery](http://www.csvn.nl/index.php?option=com_content&view=article&id=424%3Afotogalerij-1&catid=54%3Afotogalerij&Itemid=61&lang=en)
 
 **[Up one level](People "People")**
 

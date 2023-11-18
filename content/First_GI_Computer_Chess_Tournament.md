@@ -167,13 +167,13 @@ Kf5 68.Qe4# 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gesellschaft für Informatik e.V.](http://www.gi-ev.de/english/at-a-glance.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tells Geschoß: Schachmatt](http://www.computerwoche.de/a/tells-geschoss-schachmatt,1205122), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Karsten Bauermeister](Karsten_Bauermeister "Karsten Bauermeister") (**1995**). *Aufbruchstimmung in Deutschland.* [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") Heft 6, 1995 (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [So lernte der Computer Schachspielen](http://www.computerwoche.de/heftarchiv/1978/8/1195039/), February 17, 1978, [Computerwoche](Computerworld#Woche "Computerworld") 8/1978 (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computermuseum München, Siemens](http://www.computermuseum-muenchen.de/computer/siemens/index.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](http://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Konrad Zuse](Konrad_Zuse "Konrad Zuse") (**1975**). *Vom Traum zür Wirklichkeit*. Mitteilungen der [Universität Dortmund](University_of_Dortmund "University of Dortmund"), Sondernummer 12, pp. 4.
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gesellschaft für Informatik e.V.](http://www.gi-ev.de/english/at-a-glance.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tells Geschoß: Schachmatt](http://www.computerwoche.de/a/tells-geschoss-schachmatt,1205122), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Karsten Bauermeister](Karsten_Bauermeister "Karsten Bauermeister") (**1995**). *Aufbruchstimmung in Deutschland.* [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") Heft 6, 1995 (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [So lernte der Computer Schachspielen](http://www.computerwoche.de/heftarchiv/1978/8/1195039/), February 17, 1978, [Computerwoche](Computerworld#Woche "Computerworld") 8/1978 (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computermuseum München, Siemens](http://www.computermuseum-muenchen.de/computer/siemens/index.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](http://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Konrad Zuse](Konrad_Zuse "Konrad Zuse") (**1975**). *Vom Traum zür Wirklichkeit*. Mitteilungen der [Universität Dortmund](University_of_Dortmund "University of Dortmund"), Sondernummer 12, pp. 4.
 
 **[Up one level](Tournaments_and_Matches "Tournaments and Matches")**
 

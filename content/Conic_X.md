@@ -60,15 +60,15 @@ feat.: [Senri Kawaguchi](Category:Senri_Kawaguchi "Category:Senri Kawaguchi"), [
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Conic Korchnoi Manual](https://www.flickr.com/photos/10261668@N05/877850832/in/album-72157600922173914/) from [9.Conchess-Conic | Flickr - Photo Sharing!](https://www.flickr.com/photos/10261668@N05/albums/72157600922173914/with/877000419/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Conic / Westrak](http://chesscomputeruk.com/html/conic___westrak.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Conic International Ltd.; HongKong Hersteller in HK](http://www.radiomuseum.org/dsp_hersteller_detail.cfm?company_id=9956)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Conic](http://www.schach-computer.info/wiki/index.php/Conic) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Conic Island from Wikipedia](https://en.wikipedia.org/wiki/Conic_Island)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Conic's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=469)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Björn Schwarz](index.php?title=Bj%C3%B6rn_Schwarz&action=edit&redlink=1 "Björn Schwarz (page does not exist)") (**1981**). *Güld’ne Pfründe in Travemünde. 2. Mikrocomputer-Schachweltmeisterschaft*. [Chip](https://en.wikipedia.org/wiki/Chip_%28magazine%29) 12-1981 (German) in **2.** Mikrocomputer-Schachweltmeisterschaft in Travemünde und Hamburg. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1981,%202.%20Mikrocomputer-Schachweltmeisterschaft%20in%20Travemunde%20und%20Hamburg.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Conic Computer Chess 7013 (Korchnoi)](http://chesscomputeruk.com/html/conic_computer_chess_7013_-korchnoi-.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Travemünde 1981 - Chess - Round 5 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=67&round=5&id=1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Conic Korchnoi Manual](https://www.flickr.com/photos/10261668@N05/877850832/in/album-72157600922173914/) from [9.Conchess-Conic | Flickr - Photo Sharing!](https://www.flickr.com/photos/10261668@N05/albums/72157600922173914/with/877000419/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Conic / Westrak](http://chesscomputeruk.com/html/conic___westrak.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Conic International Ltd.; HongKong Hersteller in HK](http://www.radiomuseum.org/dsp_hersteller_detail.cfm?company_id=9956)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Conic](http://www.schach-computer.info/wiki/index.php/Conic) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Conic Island from Wikipedia](https://en.wikipedia.org/wiki/Conic_Island)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Conic's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=469)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Björn Schwarz](index.php?title=Bj%C3%B6rn_Schwarz&action=edit&redlink=1 "Björn Schwarz (page does not exist)") (**1981**). *Güld’ne Pfründe in Travemünde. 2. Mikrocomputer-Schachweltmeisterschaft*. [Chip](https://en.wikipedia.org/wiki/Chip_%28magazine%29) 12-1981 (German) in **2.** Mikrocomputer-Schachweltmeisterschaft in Travemünde und Hamburg. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1981,%202.%20Mikrocomputer-Schachweltmeisterschaft%20in%20Travemunde%20und%20Hamburg.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Conic Computer Chess 7013 (Korchnoi)](http://chesscomputeruk.com/html/conic_computer_chess_7013_-korchnoi-.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Travemünde 1981 - Chess - Round 5 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=67&round=5&id=1)
 
 **[Up one Level](Engines "Engines")**
 

@@ -52,16 +52,16 @@ an American mathematician and computer scientist with more than 40 years experie
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alexander E. MacDonald](https://dblp.org/pers/hd/m/MacDonald:Alexander_E=), Jacques Middlecoff, [Tom Henderson](https://www.researchgate.net/profile/Tom_Henderson4), [Jin-Luen Lee](https://dblp.org/pers/hd/l/Lee:Jin=Luen) (**2010**). *[A general method for modeling on irregular grids](https://journals.sagepub.com/doi/abs/10.1177/1094342010385019)*. [International Journal of High Performance Computing Applications](https://en.wikipedia.org/wiki/International_Journal_of_High_Performance_Computing_Applications)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [NOAA Research - FIM Staff](https://fim.noaa.gov/fimStaff.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Elizabeth Middlecoff Obituary - Boulder, CO](https://www.legacy.com/obituaries/dailycamera/obituary.aspx?n=elizabeth-middlecoff&pid=172187366), [The Daily Camera](https://en.wikipedia.org/wiki/Daily_Camera), August 21, 2014
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Sixteenth ACM North American Computer Chess Championship, Denver Colorado, October 13-15, 1985](https://www.computerhistory.org/chess/doc-431614f6cef27/) hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Danny Kopec](Danny_Kopec "Danny Kopec"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1986**). *ACM's Sixteenth North American Computer Chess Championship*. in *[The ACM's Seventeenth North American Computer Chess Championship and The Sixth World Microcomputer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6ca4a7/)* hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [J. Middlecoff's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=472)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Jacques Middlecoff](https://dblp.org/pers/hd/m/Middlecoff:Jacques)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Jacques Middlecoff - Semantic Scholar](https://www.semanticscholar.org/author/Jacques-Middlecoff/2623231)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Finite difference method from Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_method)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Hyperbolic partial differential equation from Wikipedia](https://en.wikipedia.org/wiki/Hyperbolic_partial_differential_equation)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alexander E. MacDonald](https://dblp.org/pers/hd/m/MacDonald:Alexander_E=), Jacques Middlecoff, [Tom Henderson](https://www.researchgate.net/profile/Tom_Henderson4), [Jin-Luen Lee](https://dblp.org/pers/hd/l/Lee:Jin=Luen) (**2010**). *[A general method for modeling on irregular grids](https://journals.sagepub.com/doi/abs/10.1177/1094342010385019)*. [International Journal of High Performance Computing Applications](https://en.wikipedia.org/wiki/International_Journal_of_High_Performance_Computing_Applications)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [NOAA Research - FIM Staff](https://fim.noaa.gov/fimStaff.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Elizabeth Middlecoff Obituary - Boulder, CO](https://www.legacy.com/obituaries/dailycamera/obituary.aspx?n=elizabeth-middlecoff&pid=172187366), [The Daily Camera](https://en.wikipedia.org/wiki/Daily_Camera), August 21, 2014
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Sixteenth ACM North American Computer Chess Championship, Denver Colorado, October 13-15, 1985](https://www.computerhistory.org/chess/doc-431614f6cef27/) hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Danny Kopec](Danny_Kopec "Danny Kopec"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1986**). *ACM's Sixteenth North American Computer Chess Championship*. in *[The ACM's Seventeenth North American Computer Chess Championship and The Sixth World Microcomputer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6ca4a7/)* hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [J. Middlecoff's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=472)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Jacques Middlecoff](https://dblp.org/pers/hd/m/Middlecoff:Jacques)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Jacques Middlecoff - Semantic Scholar](https://www.semanticscholar.org/author/Jacques-Middlecoff/2623231)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Finite difference method from Wikipedia](https://en.wikipedia.org/wiki/Finite_difference_method)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Hyperbolic partial differential equation from Wikipedia](https://en.wikipedia.org/wiki/Hyperbolic_partial_differential_equation)
 
 **[Up one level](People "People")**
 

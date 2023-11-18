@@ -23,8 +23,8 @@ The framework of Abyss was based on the Western experimental Chess program [Para
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Chun Ye (**1992**). *[Experiments in Selective Search Extensions](https://era.library.ualberta.ca/items/76d751ac-7c86-410d-bcd2-54899d7d34f5)*. M.Sc. thesis, Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Chun Ye (**1992**). *[Experiments in Selective Search Extensions](https://era.library.ualberta.ca/items/76d751ac-7c86-410d-bcd2-54899d7d34f5)*. M.Sc. thesis, Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

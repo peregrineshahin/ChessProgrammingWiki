@@ -32,10 +32,10 @@ a chess program by [David Broughton](David_Broughton "David Broughton") written 
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Vega mission description, [NSSDC](https://en.wikipedia.org/wiki/National_Space_Science_Data_Center) [NASA](https://en.wikipedia.org/wiki/NASA) PD image, [Vega program from Wikipedia](https://en.wikipedia.org/wiki/Vega_program) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Vega's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=463)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [London 1980 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=13&round=1&id=2)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Vega mission description, [NSSDC](https://en.wikipedia.org/wiki/National_Space_Science_Data_Center) [NASA](https://en.wikipedia.org/wiki/NASA) PD image, [Vega program from Wikipedia](https://en.wikipedia.org/wiki/Vega_program) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Vega's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=463)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [London 1980 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=13&round=1&id=2)
 
 **[Up one Level](Engines "Engines")**
 

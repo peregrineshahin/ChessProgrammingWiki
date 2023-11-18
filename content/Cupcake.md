@@ -47,8 +47,8 @@ Cupcake applies a [tapered eval](Tapered_Eval "Tapered Eval") for a smooth trans
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chocolate Cupcakes with Raspberry Buttercream](http://whitneyinchicago.wordpress.com/2010/02/13/pretty-and-pink/) by [whitney](http://www.flickr.com/people/29298849@N05), February 07, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cupcake](http://www.talkchess.com/forum/viewtopic.php?t=44023) by [Dan Honeycutt](Dan_Honeycutt "Dan Honeycutt"), [CCC](CCC "CCC"), June 11, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chocolate Cupcakes with Raspberry Buttercream](http://whitneyinchicago.wordpress.com/2010/02/13/pretty-and-pink/) by [whitney](http://www.flickr.com/people/29298849@N05), February 07, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cupcake](http://www.talkchess.com/forum/viewtopic.php?t=44023) by [Dan Honeycutt](Dan_Honeycutt "Dan Honeycutt"), [CCC](CCC "CCC"), June 11, 2012
 
 **[Up one Level](Engines "Engines")**
 

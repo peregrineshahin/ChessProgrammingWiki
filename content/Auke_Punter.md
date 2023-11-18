@@ -14,8 +14,8 @@ Along with [Henk Kuyer](Henk_Kuyer "Henk Kuyer"), he developed the chess program
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Delftse SchaakSite - de geschiedenis van de Delfsche SchaakClub - 1985-1999 nieuw succes](http://www.delftseschaaksite.nl/dsc/historie/?type=article&id=0556)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zevende Nederlands Kampioenschap Computerschaak, Leiden 10, 11, 17 en 18 Oktober 1987.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1987,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201987.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Delftse SchaakSite - de geschiedenis van de Delfsche SchaakClub - 1985-1999 nieuw succes](http://www.delftseschaaksite.nl/dsc/historie/?type=article&id=0556)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zevende Nederlands Kampioenschap Computerschaak, Leiden 10, 11, 17 en 18 Oktober 1987.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1987,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201987.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
 
 **[Up one level](People "People")**
 

@@ -42,11 +42,11 @@ As computer chess programmer, Laurens Winkelhagen is author of the chess engines
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Laurens Winkelhagen | LinkedIn](https://www.linkedin.com/in/laurenswinkelhagen/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Frank-Walter 1.0.5](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=50010) by Laurens Winkelhagen, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 03, 2009
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Revived Engine - Frank Walter 2.2.0 (Java - WB)](http://talkchess.com/forum3/viewtopic.php?t=68989) by Laurens Winkelhagen, [CCC](CCC "CCC"), November 20, 2018
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: New engine releases 2019](http://talkchess.com/forum3/viewtopic.php?f=2&t=69754&start=9) by Laurens Winkelhagen, [CCC](CCC "CCC"), February 12, 2019
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Laurens Winkelhagen](https://dblp.uni-trier.de/pers/hd/w/Winkelhagen:Laurens)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Laurens Winkelhagen | LinkedIn](https://www.linkedin.com/in/laurenswinkelhagen/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Frank-Walter 1.0.5](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=50010) by Laurens Winkelhagen, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 03, 2009
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Revived Engine - Frank Walter 2.2.0 (Java - WB)](http://talkchess.com/forum3/viewtopic.php?t=68989) by Laurens Winkelhagen, [CCC](CCC "CCC"), November 20, 2018
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: New engine releases 2019](http://talkchess.com/forum3/viewtopic.php?f=2&t=69754&start=9) by Laurens Winkelhagen, [CCC](CCC "CCC"), February 12, 2019
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Laurens Winkelhagen](https://dblp.uni-trier.de/pers/hd/w/Winkelhagen:Laurens)
 
 **[Up one level](People "People")**
 

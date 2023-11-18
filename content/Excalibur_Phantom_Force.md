@@ -56,9 +56,9 @@ The [Ron Nelson](Ron_Nelson "Ron Nelson") program is a [6502](6502 "6502") port 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Excalibur Phantom Force](https://tluif.home.xs4all.nl/chescom/EngExcPhanF.html) by [Tom Luif](Tom_Luif "Tom Luif")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591&start=8) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2016
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Datasheet Archive GPLB32A](https://www.datasheetarchive.com/pdf/download.php?id=4217dcc545a50dbd1af41c2dafbac39e87dbfa&type=P&term=GPLB32A)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Excalibur Phantom Force](https://tluif.home.xs4all.nl/chescom/EngExcPhanF.html) by [Tom Luif](Tom_Luif "Tom Luif")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591&start=8) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2016
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Datasheet Archive GPLB32A](https://www.datasheetarchive.com/pdf/download.php?id=4217dcc545a50dbd1af41c2dafbac39e87dbfa&type=P&term=GPLB32A)
 
 **[Up one level](Engines "Engines")**
 

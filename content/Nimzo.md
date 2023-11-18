@@ -180,21 +180,21 @@ Following [forward pruning](Pruning "Pruning") code appears in Nimzo's 2.2.1 sea
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aron Nimzowitsch from Wikipedia](https://en.wikipedia.org/wiki/Aron_Nimzowitsch)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bombing of Guernica from Wikipedia](https://en.wikipedia.org/wiki/Bombing_of_Guernica)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> With the help of a sign bug in [passed pawn](Passed_Pawn "Passed Pawn") evaluation, see [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1999**). *Computer machen keine Fehler*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele") 2/99, [pdf](http://www.mustrum.de/chrilly/keine_fehler.pdf) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Photo](https://commons.wikimedia.org/wiki/File:Guernica_reproduction_on_tiled_wall,_Guernica,_Spain_(PPL3-Altered)_julesvernex2.jpg) by [Jules Verne Times Two](https://commons.wikimedia.org/wiki/User:Julesvernex2), September 08, 2018, [Guernica](https://en.wikipedia.org/wiki/Guernica), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [David Bronstein](David_Bronstein "David Bronstein") vs. Nimzo, Photo by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") from [Aegon 1996-97](http://www.thorstenczub.de/aegon.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1996**). *CHE: A Graphical Language for Expressing Chess Knowledge*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1987**). *Some Innovations Introduced by Hitech*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1989**). *Some Innovations Introduced by Hitech*. [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CHE docs in English / Nimzo 3 version](https://www.stmintz.com/ccc/index.php?id=198528) by [Mike S.](index.php?title=Michael_Scheidl&action=edit&redlink=1 "Michael Scheidl (page does not exist)"), [CCC](CCC "CCC"), November 22, 2001
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Re: Versions of Nimzo](https://www.stmintz.com/ccc/index.php?id=144598) by Shep, [CCC](CCC "CCC"), December 12, 2000
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Re: Nimzo 4](https://www.stmintz.com/ccc/index.php?id=265975) by [Manfred Meiler](index.php?title=Manfred_Meiler&action=edit&redlink=1 "Manfred Meiler (page does not exist)"), [CCC](CCC "CCC"), November 19, 2002
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Nimzo's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=93)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> Nimzo: sr.c: search-tree handling (dead acor link) hosted by Roger Thormann
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> home.arcor.de/roger.thormann/yacdb.com/nimzo/vorwort.html Vorwort von Chrilly Donninger (German) hosted by Roger Thormann
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Braille from Wikipedia](https://en.wikipedia.org/wiki/Braille)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aron Nimzowitsch from Wikipedia](https://en.wikipedia.org/wiki/Aron_Nimzowitsch)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bombing of Guernica from Wikipedia](https://en.wikipedia.org/wiki/Bombing_of_Guernica)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> With the help of a sign bug in [passed pawn](Passed_Pawn "Passed Pawn") evaluation, see [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1999**). *Computer machen keine Fehler*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele") 2/99, [pdf](http://www.mustrum.de/chrilly/keine_fehler.pdf) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Photo](https://commons.wikimedia.org/wiki/File:Guernica_reproduction_on_tiled_wall,_Guernica,_Spain_(PPL3-Altered)_julesvernex2.jpg) by [Jules Verne Times Two](https://commons.wikimedia.org/wiki/User:Julesvernex2), September 08, 2018, [Guernica](https://en.wikipedia.org/wiki/Guernica), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [David Bronstein](David_Bronstein "David Bronstein") vs. Nimzo, Photo by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") from [Aegon 1996-97](http://www.thorstenczub.de/aegon.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1996**). *CHE: A Graphical Language for Expressing Chess Knowledge*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1987**). *Some Innovations Introduced by Hitech*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1989**). *Some Innovations Introduced by Hitech*. [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CHE docs in English / Nimzo 3 version](https://www.stmintz.com/ccc/index.php?id=198528) by [Mike S.](index.php?title=Michael_Scheidl&action=edit&redlink=1 "Michael Scheidl (page does not exist)"), [CCC](CCC "CCC"), November 22, 2001
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: Versions of Nimzo](https://www.stmintz.com/ccc/index.php?id=144598) by Shep, [CCC](CCC "CCC"), December 12, 2000
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: Nimzo 4](https://www.stmintz.com/ccc/index.php?id=265975) by [Manfred Meiler](index.php?title=Manfred_Meiler&action=edit&redlink=1 "Manfred Meiler (page does not exist)"), [CCC](CCC "CCC"), November 19, 2002
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Nimzo's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=93)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> Nimzo: sr.c: search-tree handling (dead acor link) hosted by Roger Thormann
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> home.arcor.de/roger.thormann/yacdb.com/nimzo/vorwort.html Vorwort von Chrilly Donninger (German) hosted by Roger Thormann
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Braille from Wikipedia](https://en.wikipedia.org/wiki/Braille)
 
 **[Up one Level](Engines "Engines")**
 

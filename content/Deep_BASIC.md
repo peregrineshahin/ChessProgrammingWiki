@@ -32,8 +32,8 @@ Deep BASIC Screen <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> deepbasic.zip\\CHESS8.BAS
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Screenshot from [Deep BASIC](https://web.archive.org/web/20171221075513/http://home.pacific.net.au/~tommyinoz/db.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> deepbasic.zip\\CHESS8.BAS
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Screenshot from [Deep BASIC](https://web.archive.org/web/20171221075513/http://home.pacific.net.au/~tommyinoz/db.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](Engines "Engines")**
 

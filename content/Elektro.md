@@ -43,10 +43,10 @@ The Elektro Chess Engine site <a id="cite-note-3" href="#cite-ref-3">[3]</a> int
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Elektro](https://en.wikipedia.org/wiki/Elektro) the Moto-Man and his Little Dog Sparko; created by [Westinghouse Electric Company](https://en.wikipedia.org/wiki/Westinghouse_Electric_Corporation) for the [1939 World's Fair](https://en.wikipedia.org/wiki/1939_New_York_World%27s_Fair). Exhibit in the [Senator John Heinz History Center](https://en.wikipedia.org/wiki/Heinz_History_Center), [Pittsburgh, Pennsylvania](https://en.wikipedia.org/wiki/Pittsburgh), [Image](https://commons.wikimedia.org/wiki/File:Senator_John_Heinz_History_Center_-_IMG_7802.JPG) by Daderot, December 02, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Elektro - U.C.I.](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=53799) by [Roberto Munter](Roberto_Munter "Roberto Munter"), [CCC](CCC "CCC"), September 23, 2014
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Elektro Chess Engine](http://elektrochessengine.blogspot.com/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [IPPOLIT - home](https://web.archive.org/web/20111112091208/http://ippolit.wikispaces.com) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), November 12, 2011)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Elektro](https://en.wikipedia.org/wiki/Elektro) the Moto-Man and his Little Dog Sparko; created by [Westinghouse Electric Company](https://en.wikipedia.org/wiki/Westinghouse_Electric_Corporation) for the [1939 World's Fair](https://en.wikipedia.org/wiki/1939_New_York_World%27s_Fair). Exhibit in the [Senator John Heinz History Center](https://en.wikipedia.org/wiki/Heinz_History_Center), [Pittsburgh, Pennsylvania](https://en.wikipedia.org/wiki/Pittsburgh), [Image](https://commons.wikimedia.org/wiki/File:Senator_John_Heinz_History_Center_-_IMG_7802.JPG) by Daderot, December 02, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Elektro - U.C.I.](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=53799) by [Roberto Munter](Roberto_Munter "Roberto Munter"), [CCC](CCC "CCC"), September 23, 2014
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Elektro Chess Engine](http://elektrochessengine.blogspot.com/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [IPPOLIT - home](https://web.archive.org/web/20111112091208/http://ippolit.wikispaces.com) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), November 12, 2011)
 
 **[Up one Level](Engines "Engines")**
 

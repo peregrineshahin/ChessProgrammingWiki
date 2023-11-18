@@ -150,10 +150,10 @@ Please note that the code **must** exclude positions where the defending king is
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Max Bramer](Max_Bramer "Max Bramer") (**1977**) *KPK: using effective distance.* [Open University](https://en.wikipedia.org/wiki/Open_University), [Milton Keynes](https://en.wikipedia.org/wiki/Milton_Keynes)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Set-wise Rule of the Square](King_Pattern#SetwiseRuleoftheSquare "King Pattern") with [Bitboards](Bitboards "Bitboards")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [kervinck/pfkpk · GitHub](https://github.com/kervinck/pfkpk)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Yet another KPK endgame table generator: pfkpk](http://www.talkchess.com/forum/viewtopic.php?t=57517) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [CCC](CCC "CCC"), September 05, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Max Bramer](Max_Bramer "Max Bramer") (**1977**) *KPK: using effective distance.* [Open University](https://en.wikipedia.org/wiki/Open_University), [Milton Keynes](https://en.wikipedia.org/wiki/Milton_Keynes)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Set-wise Rule of the Square](King_Pattern#SetwiseRuleoftheSquare "King Pattern") with [Bitboards](Bitboards "Bitboards")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [kervinck/pfkpk · GitHub](https://github.com/kervinck/pfkpk)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Yet another KPK endgame table generator: pfkpk](http://www.talkchess.com/forum/viewtopic.php?t=57517) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [CCC](CCC "CCC"), September 05, 2015
 
 **[Up one Level](Pawn_Endgame "Pawn Endgame")**
 

@@ -64,8 +64,8 @@ cxd4 40.Rf7 Kd7 41.Kxd4 Rh2 42.Kc3 h5 43.Rh7 h4 44.Rh8 Re2 45.Rb8 Bd8 46.Rxb7+ B
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [O Bloggus: Anansi e a história das histórias](http://obloggus.blogspot.com/2012/02/anansi-e-historia-das-historias.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ananse's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=30)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [O Bloggus: Anansi e a história das histórias](http://obloggus.blogspot.com/2012/02/anansi-e-historia-das-historias.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ananse's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=30)
 
 **[Up one level](Engines "Engines")**
 

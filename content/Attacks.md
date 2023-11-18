@@ -48,7 +48,7 @@ The antonym of attack is **Defense**, controlling squares which are potentially 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> An [attack](<https://en.wikipedia.org/wiki/Attack_(fencing)>) lands in a [foil](<https://en.wikipedia.org/wiki/Foil_(fencing)>) bout, Image by pschemp, February 22, 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> An [attack](<https://en.wikipedia.org/wiki/Attack_(fencing)>) lands in a [foil](<https://en.wikipedia.org/wiki/Foil_(fencing)>) bout, Image by pschemp, February 22, 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one Level](Dictionary "Dictionary")**
 

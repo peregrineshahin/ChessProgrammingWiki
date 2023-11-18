@@ -39,7 +39,7 @@ Features are the use of [Bitboards](Bitboards "Bitboards") and a simple [Evaluat
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Polyglot book format](http://hardy.uhasselt.be/Toga/book_format.html) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Polyglot book format](http://hardy.uhasselt.be/Toga/book_format.html) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh")
 
 **[Up one level](Engines "Engines")**
 

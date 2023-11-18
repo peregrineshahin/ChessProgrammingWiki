@@ -87,14 +87,14 @@ Robert Holte was member of the *University of Alberta Computer Poker Research Gr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Robert Holte](http://webdocs.cs.ualberta.ca/~holte/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Robert Holte - Personal Information](http://webdocs.cs.ualberta.ca/%7Eholte/cv20180802.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CPRG Past Members](http://webdocs.cs.ualberta.ca/~games/poker/past_members.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Rob Holte - Publications](http://webdocs.cs.ualberta.ca/~holte/Publications/index.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Robert C. Holte](https://dblp.uni-trier.de/pers/h/Holte:Robert_C=.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Receiver operating characteristic from Wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [C4.5 algorithm from Wikipedia](https://en.wikipedia.org/wiki/C4.5_algorithm) » [Ross Quinlan](Ross_Quinlan "Ross Quinlan")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Iterative deepening A\* from Wikipedia](https://en.wikipedia.org/wiki/Iterative_deepening_A*)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Robert Holte](http://webdocs.cs.ualberta.ca/~holte/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Robert Holte - Personal Information](http://webdocs.cs.ualberta.ca/%7Eholte/cv20180802.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CPRG Past Members](http://webdocs.cs.ualberta.ca/~games/poker/past_members.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rob Holte - Publications](http://webdocs.cs.ualberta.ca/~holte/Publications/index.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Robert C. Holte](https://dblp.uni-trier.de/pers/h/Holte:Robert_C=.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Receiver operating characteristic from Wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [C4.5 algorithm from Wikipedia](https://en.wikipedia.org/wiki/C4.5_algorithm) » [Ross Quinlan](Ross_Quinlan "Ross Quinlan")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Iterative deepening A\* from Wikipedia](https://en.wikipedia.org/wiki/Iterative_deepening_A*)
 
 **[Up one level](People "People")**
 

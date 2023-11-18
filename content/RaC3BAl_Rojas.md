@@ -67,11 +67,11 @@ In 2001 Raúl Rojas hosted the [First Berliner Emanuel-Lasker Computerchess-Tour
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Raúl Rojas Homepage](http://dcis.inf.fu-berlin.de/rojas/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Artificial Intelligence Group](http://www.inf.fu-berlin.de/inst/ag-ki/eng/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Konrad Zuse Internet Archiv](http://www.zib.de/zuse/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [FU-Fighters - The Soccer Robots of Freie Universität Berlin](http://robocup.mi.fu-berlin.de/buch/broschure.pdf) (pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Raúl Rojas](https://dblp.org/pers/hd/r/Rojas:Ra=uacute=l)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Raúl Rojas Homepage](http://dcis.inf.fu-berlin.de/rojas/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Artificial Intelligence Group](http://www.inf.fu-berlin.de/inst/ag-ki/eng/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Konrad Zuse Internet Archiv](http://www.zib.de/zuse/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [FU-Fighters - The Soccer Robots of Freie Universität Berlin](http://robocup.mi.fu-berlin.de/buch/broschure.pdf) (pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Raúl Rojas](https://dblp.org/pers/hd/r/Rojas:Ra=uacute=l)
 
 **[Up one level](People "People")**
 

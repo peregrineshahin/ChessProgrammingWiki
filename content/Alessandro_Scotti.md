@@ -34,10 +34,10 @@ and [Hamsters](Hamsters "Hamsters") <a id="cite-note-3" href="#cite-ref-3">[3]</
 
 ## [Winboard/XBoard UML state diagram](https://walkofmind.com/programming/chess/xboard.htm) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer Chess Cup 2005](https://walkofmind.com/programming/chess/ccc2005.htm) by Alessandro Scotti, [CCC 2005](CCC_2005 "CCC 2005")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alessandro Scotti's Computer Chess Site](https://walkofmind.com/programming/chess/chess.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hamsters homepage](https://walkofmind.com/programming/chess/hamsters.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tinkering with Winboard...](https://walkofmind.com/programming/chess/winboard_x.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer Chess Cup 2005](https://walkofmind.com/programming/chess/ccc2005.htm) by Alessandro Scotti, [CCC 2005](CCC_2005 "CCC 2005")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alessandro Scotti's Computer Chess Site](https://walkofmind.com/programming/chess/chess.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hamsters homepage](https://walkofmind.com/programming/chess/hamsters.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tinkering with Winboard...](https://walkofmind.com/programming/chess/winboard_x.htm)
 
 **[Up one level](People "People")**
 

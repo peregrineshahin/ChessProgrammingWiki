@@ -113,8 +113,8 @@ an [UCI](UCI "UCI") compliant chess engine by [Jonatan Pettersson](Jonatan_Pette
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mediocre Chess Blog](http://mediocrechess.blogspot.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Features based on readme.txt of Mediocre v0.5
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mediocre Chess Blog](http://mediocrechess.blogspot.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Features based on readme.txt of Mediocre v0.5
 
 **[Up one Level](Engines "Engines")**
 

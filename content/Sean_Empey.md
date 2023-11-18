@@ -33,9 +33,9 @@ was an American computer scientist and IT director <a id="cite-note-2" href="#ci
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sean L. Empey Obituary - Sacramento, California - Tributes.com](http://www.tributes.com/show/Sean-L.-Empey-84584524)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Stormx is this a Crafty Clone??](https://www.stmintz.com/ccc/index.php?id=367073) by Sean Empey, [CCC](CCC "CCC"), May 25, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Live computer chess tournament at UAB? Bob?](https://www.stmintz.com/ccc/index.php?id=377596) by Sean Empey, [CCC](CCC "CCC"), July 17, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sean L. Empey Obituary - Sacramento, California - Tributes.com](http://www.tributes.com/show/Sean-L.-Empey-84584524)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Stormx is this a Crafty Clone??](https://www.stmintz.com/ccc/index.php?id=367073) by Sean Empey, [CCC](CCC "CCC"), May 25, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Live computer chess tournament at UAB? Bob?](https://www.stmintz.com/ccc/index.php?id=377596) by Sean Empey, [CCC](CCC "CCC"), July 17, 2004
 
 **[Up one level](People "People")**
 

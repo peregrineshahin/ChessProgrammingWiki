@@ -30,9 +30,9 @@ As chess programmer, Mike is author of the chess engines [Knightmare](Knightmare
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Knightmare](http://www.mikeleany.com/knightmare)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zilch](http://www.mikeleany.com/zilch)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Vapor Chess](http://vapor.mikeleany.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Knightmare](http://www.mikeleany.com/knightmare)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zilch](http://www.mikeleany.com/zilch)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Vapor Chess](http://vapor.mikeleany.com/)
 
 **[Up one level](People "People")**
 

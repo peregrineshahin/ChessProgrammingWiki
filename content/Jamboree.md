@@ -52,10 +52,10 @@ Jamboree was used in the massive parallel chess programs [StarTech](StarTech "St
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. Thesis, Department of Electrical Engineering and Computer Science, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MIMD From Wikipedia](https://en.wikipedia.org/wiki/MIMD)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> based on Figure 5: Algorithm Jamboree from [Chris Joerg](Chris_Joerg "Chris Joerg"), [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Massively Parallel Chess*. Proceedings of the Third DIMACS Parallel Implementation Challenge, [pdf](http://supertech.csail.mit.edu/papers/dimacs94.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. Thesis, Department of Electrical Engineering and Computer Science, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MIMD From Wikipedia](https://en.wikipedia.org/wiki/MIMD)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> based on Figure 5: Algorithm Jamboree from [Chris Joerg](Chris_Joerg "Chris Joerg"), [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Massively Parallel Chess*. Proceedings of the Third DIMACS Parallel Implementation Challenge, [pdf](http://supertech.csail.mit.edu/papers/dimacs94.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
 
 **[Up one level](Parallel_Search "Parallel Search")**
 

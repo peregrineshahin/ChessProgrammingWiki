@@ -33,7 +33,7 @@ is a [public](https://en.wikipedia.org/wiki/Public_university) [research univers
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A picture taken of Georgia Tech's new shop building (left) and [Tech Tower](https://en.wikipedia.org/wiki/Tech_Tower) (right) circa 1899, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A picture taken of Georgia Tech's new shop building (left) and [Tech Tower](https://en.wikipedia.org/wiki/Tech_Tower) (right) circa 1899, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one Level](Organizations "Organizations")**
 

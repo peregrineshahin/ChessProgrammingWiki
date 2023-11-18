@@ -64,9 +64,9 @@ An example of too much respect appeared during the [WMCCC 1990](WMCCC_1990 "WMCC
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ernest Joseph Bailly](Category:Ernest_Joseph_Bailly "Category:Ernest Joseph Bailly") - [In Contempt of Hate](https://commons.wikimedia.org/wiki/File:Ernest_Joseph_Bailly_-_In_Contempt_of_Hate.jpg), 1792, [Museum of Fine Arts, Ghent](https://en.wikipedia.org/wiki/Museum_of_Fine_Arts,_Ghent), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: 2007 World Computer Rapid Chess Championships: games pgn](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=132936&t=15295) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [CCC](CCC "CCC"), July 23, 2007
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lyon 1990, Chess, Round 5, Game 3](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=60&round=5&id=3) from [ICGA Tournaments](http://www.grappa.univ-lille3.fr/icga/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ernest Joseph Bailly](Category:Ernest_Joseph_Bailly "Category:Ernest Joseph Bailly") - [In Contempt of Hate](https://commons.wikimedia.org/wiki/File:Ernest_Joseph_Bailly_-_In_Contempt_of_Hate.jpg), 1792, [Museum of Fine Arts, Ghent](https://en.wikipedia.org/wiki/Museum_of_Fine_Arts,_Ghent), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: 2007 World Computer Rapid Chess Championships: games pgn](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=132936&t=15295) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [CCC](CCC "CCC"), July 23, 2007
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lyon 1990, Chess, Round 5, Game 3](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=60&round=5&id=3) from [ICGA Tournaments](http://www.grappa.univ-lille3.fr/icga/)
 
 **[Up one Level](Score "Score")**
 

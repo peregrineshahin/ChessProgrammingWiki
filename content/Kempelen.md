@@ -44,12 +44,12 @@ a chess program written by [Attila Kovács](index.php?title=Attila_Kov%C3%A1cs&a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kempelen from GB64.COM](http://www.gamebase64.com/game.php?id=13500&d=18)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Two Guys from Andromeda Story](http://www.wiw.org/~jess/twoguys.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kempelen from GB64.COM](http://www.gamebase64.com/game.php?id=13500&d=18)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Baron von Kempelens Schach-„Automat“](http://www.chess.at/geschichte/kempelen.htm) (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Amsterdam 1985 - Chess (Amateur) - Round 4 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=156&round=4&id=1)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Screen Capture from [Amsterdam 1985 Video](WMCCC_1985#Video "WMCCC 1985"), 0:37
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kempelen from GB64.COM](http://www.gamebase64.com/game.php?id=13500&d=18)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Two Guys from Andromeda Story](http://www.wiw.org/~jess/twoguys.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kempelen from GB64.COM](http://www.gamebase64.com/game.php?id=13500&d=18)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Baron von Kempelens Schach-„Automat“](http://www.chess.at/geschichte/kempelen.htm) (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Amsterdam 1985 - Chess (Amateur) - Round 4 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=156&round=4&id=1)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Screen Capture from [Amsterdam 1985 Video](WMCCC_1985#Video "WMCCC 1985"), 0:37
 
 **[Up one level](Engines "Engines")**
 

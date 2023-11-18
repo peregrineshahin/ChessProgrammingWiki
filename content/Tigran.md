@@ -54,9 +54,9 @@ and had its tournament debut at the [Hungarian Sakkprogramok Versenye 2008](MASP
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Tigran Petrosian](https://en.wikipedia.org/wiki/Tigran_Petrosian), [Image](https://en.wikipedia.org/wiki/File:Tigran_Petrosian_World_Chess_Champion.jpg) scanned from "[Szukam raju](https://www.goodreads.com/book/show/28241896-szukam-raju)" Iskry, Warsaw 1975, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tigran - Home](https://web.archive.org/web/20140128101142/http://tigran.swhu.tk/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Gabor Mihaly | LinkedIn](http://www.linkedin.com/pub/gabor-mihaly/50/221/203)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Tigran Petrosian](https://en.wikipedia.org/wiki/Tigran_Petrosian), [Image](https://en.wikipedia.org/wiki/File:Tigran_Petrosian_World_Chess_Champion.jpg) scanned from "[Szukam raju](https://www.goodreads.com/book/show/28241896-szukam-raju)" Iskry, Warsaw 1975, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tigran - Home](https://web.archive.org/web/20140128101142/http://tigran.swhu.tk/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gabor Mihaly | LinkedIn](http://www.linkedin.com/pub/gabor-mihaly/50/221/203)
 
 **[Up one level](Engines "Engines")**
 

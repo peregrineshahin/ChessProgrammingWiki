@@ -73,14 +73,14 @@ an Australian games programmer, mathematician and computer scientist with a Ph.D
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Joel Veness - About](http://jveness.info/about_me/default.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Joel Veness - About](http://jveness.info/about_me/default.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [BODO new OZ champion](https://www.stmintz.com/ccc/index.php?id=437038) by [Ross Boyd](Ross_Boyd "Ross Boyd"), [CCC](CCC "CCC"), July 17, 2005
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2006 National Computer Chess Championships - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC32006_-_List_of_Entries.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Joel Veness, [David Silver](David_Silver "David Silver"), [William Uther](William_Uther "William Uther"), [Alan Blair](Alan_Blair "Alan Blair") (**2009**). *[Bootstrapping from Game Tree Search](http://papers.nips.cc/paper/3722-bootstrapping-from-game-tree-search)*. [pdf](http://jveness.info/publications/nips2009%20-%20bootstrapping%20from%20game%20tree%20search.pdf), [video presentation](http://videolectures.net/nips09_veness_bfg/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Joel Veness - Publications](http://jveness.info/publications/default.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Joel Veness](https://dblp.uni-trier.de/pers/hd/v/Veness:Joel)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [A paper about parameter tuning](http://www.talkchess.com/forum/viewtopic.php?start=0&t=31667) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), January 12, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Joel Veness - About](http://jveness.info/about_me/default.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Joel Veness - About](http://jveness.info/about_me/default.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [BODO new OZ champion](https://www.stmintz.com/ccc/index.php?id=437038) by [Ross Boyd](Ross_Boyd "Ross Boyd"), [CCC](CCC "CCC"), July 17, 2005
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2006 National Computer Chess Championships - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC32006_-_List_of_Entries.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Joel Veness, [David Silver](David_Silver "David Silver"), [William Uther](William_Uther "William Uther"), [Alan Blair](Alan_Blair "Alan Blair") (**2009**). *[Bootstrapping from Game Tree Search](http://papers.nips.cc/paper/3722-bootstrapping-from-game-tree-search)*. [pdf](http://jveness.info/publications/nips2009%20-%20bootstrapping%20from%20game%20tree%20search.pdf), [video presentation](http://videolectures.net/nips09_veness_bfg/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Joel Veness - Publications](http://jveness.info/publications/default.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Joel Veness](https://dblp.uni-trier.de/pers/hd/v/Veness:Joel)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [A paper about parameter tuning](http://www.talkchess.com/forum/viewtopic.php?start=0&t=31667) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), January 12, 2010
 
 **[Up one level](People "People")**
 

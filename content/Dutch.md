@@ -49,9 +49,9 @@ Rxb8 21.Nxa7 Nd5 22.Nb5 Nc5 23.Qa3 Ne3 24.Nd4 Qg4 25.Bf3 Qg5 26.Rdc1 Nd7
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zevende Nederlands Kampioenschap Computerschaak, Leiden 10, 11, 17 en 18 Oktober 1987.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1987,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201987.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1987](DOCCC_1987 "DOCCC 1987")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1986**). *[Het wereldkampioenschap computerschaak 1986 te Keulen](http://www.csvnsupplementsite.nl/CSVNPAGINA3.html)*. [Computerschaak](Computerschaak "Computerschaak"), pagina 3 (Dutch)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Cologne 1986 - Chess - Round 5 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=5&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zevende Nederlands Kampioenschap Computerschaak, Leiden 10, 11, 17 en 18 Oktober 1987.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1987,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201987.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1987](DOCCC_1987 "DOCCC 1987")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1986**). *[Het wereldkampioenschap computerschaak 1986 te Keulen](http://www.csvnsupplementsite.nl/CSVNPAGINA3.html)*. [Computerschaak](Computerschaak "Computerschaak"), pagina 3 (Dutch)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Cologne 1986 - Chess - Round 5 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=5&id=5)
 
 **[Up one level](Engines "Engines")**
 

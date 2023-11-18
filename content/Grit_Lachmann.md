@@ -16,7 +16,7 @@ She implemented the KQNKQ-endgame in [rule-based](https://en.wikipedia.org/wiki/
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ulrich Thiemonds](Ulrich_Thiemonds "Ulrich Thiemonds") (**1999**). *Ein regelbasiertes Spielprogramm für Schachendspiele*. [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn), Diplom thesis, [pdf](https://www.idb.uni-bonn.de/publications/da/da_thiemonds_1999.pdf) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ulrich Thiemonds](Ulrich_Thiemonds "Ulrich Thiemonds") (**1999**). *Ein regelbasiertes Spielprogramm für Schachendspiele*. [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn), Diplom thesis, [pdf](https://www.idb.uni-bonn.de/publications/da/da_thiemonds_1999.pdf) (German)
 
 **[Up one level](People "People")**
 

@@ -25,8 +25,8 @@ adressing the average reward problem in sudden death games (such as [connection 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Chih-Hung Chen](Chih-Hung_Chen "Chih-Hung Chen"), Yu-Heng Chen, [Wei-Lin Wu](index.php?title=Wei-Lin_Wu&action=edit&redlink=1 "Wei-Lin Wu (page does not exist)") (**2018**). *Some improvements in Monte Carlo tree search algorithms for sudden death games*. [CG 2018](CG_2018 "CG 2018"), [ICGA Journal, Vol. 40, No. 4](ICGA_Journal#40_4 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Yu-Heng Chen](https://dblp.uni-trier.de/pers/hd/c/Chen:Yu=Heng)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Chih-Hung Chen](Chih-Hung_Chen "Chih-Hung Chen"), Yu-Heng Chen, [Wei-Lin Wu](index.php?title=Wei-Lin_Wu&action=edit&redlink=1 "Wei-Lin Wu (page does not exist)") (**2018**). *Some improvements in Monte Carlo tree search algorithms for sudden death games*. [CG 2018](CG_2018 "CG 2018"), [ICGA Journal, Vol. 40, No. 4](ICGA_Journal#40_4 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Yu-Heng Chen](https://dblp.uni-trier.de/pers/hd/c/Chen:Yu=Heng)
 
 **[Up one level](People "People")**
 

@@ -111,13 +111,13 @@ Nemeton3D 1.51 with its [3D Graphics Board](3D_Graphics_Board "3D Graphics Board
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The Temple of [Barger-Oosterveld](https://en.wikipedia.org/wiki/Barger-Oosterveld) is a temple of the [Elp culture](https://en.wikipedia.org/wiki/Elp_culture) from around 1250 BC, [Tempeltje van Barger-Oosterveld - Wikipedia.nl](https://nl.wikipedia.org/wiki/Tempeltje_van_Barger-Oosterveld), [Nemeton - Wikipedia.nl](https://nl.wikipedia.org/wiki/Nemeton) (Dutch)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nemeton 1 release](http://www.talkchess.com/forum/viewtopic.php?t=54375) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), November 18, 2014
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Nemeton 1.7](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67881) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), July 02, 2018
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nemeton 1.1](http://www.talkchess.com/forum/viewtopic.php?t=54375&start=16) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), February 15, 2015
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Nemeton 1 release](http://www.talkchess.com/forum/viewtopic.php?t=54375) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), November 18, 2014
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Nemeton3D 1.51](http://www.talkchess.com/forum/viewtopic.php?t=64177) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), June 04, 2017
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Round 7 photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), April 30, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The Temple of [Barger-Oosterveld](https://en.wikipedia.org/wiki/Barger-Oosterveld) is a temple of the [Elp culture](https://en.wikipedia.org/wiki/Elp_culture) from around 1250 BC, [Tempeltje van Barger-Oosterveld - Wikipedia.nl](https://nl.wikipedia.org/wiki/Tempeltje_van_Barger-Oosterveld), [Nemeton - Wikipedia.nl](https://nl.wikipedia.org/wiki/Nemeton) (Dutch)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nemeton 1 release](http://www.talkchess.com/forum/viewtopic.php?t=54375) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), November 18, 2014
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Nemeton 1.7](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67881) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), July 02, 2018
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nemeton 1.1](http://www.talkchess.com/forum/viewtopic.php?t=54375&start=16) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), February 15, 2015
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Nemeton 1 release](http://www.talkchess.com/forum/viewtopic.php?t=54375) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), November 18, 2014
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Nemeton3D 1.51](http://www.talkchess.com/forum/viewtopic.php?t=64177) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), June 04, 2017
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Round 7 photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), April 30, 2017
 
 **[Up one level](Engines "Engines")**
 

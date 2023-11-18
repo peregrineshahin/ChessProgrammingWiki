@@ -12,7 +12,7 @@ an American jazz bassist.
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  Picture taken by [OhWeh](https://commons.wikimedia.org/wiki/User:OhWeh) in [Jazzclub Unterfahrt](https://en.wikipedia.org/wiki/Jazzclub_Unterfahrt), [Munich](https://en.wikipedia.org/wiki/Munich)/[Bavaria](https://en.wikipedia.org/wiki/Bavaria), February 21, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  Picture taken by [OhWeh](https://commons.wikimedia.org/wiki/User:OhWeh) in [Jazzclub Unterfahrt](https://en.wikipedia.org/wiki/Jazzclub_Unterfahrt), [Munich](https://en.wikipedia.org/wiki/Munich)/[Bavaria](https://en.wikipedia.org/wiki/Bavaria), February 21, 2012
 
 ## Pages in category "Kim Clarke"
 

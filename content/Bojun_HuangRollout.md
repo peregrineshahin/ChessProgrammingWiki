@@ -27,12 +27,12 @@ In his 2015 [AAAI](AAAI "AAAI") paper *Pruning Game Tree by Rollouts* <a id="cit
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Bojun Huang | LinkedIn](https://www.linkedin.com/in/bojun-huang-25453173/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bojun Huang | LinkedIn](https://www.linkedin.com/in/bojun-huang-25453173/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Bojun Huang (**2015**). *[Pruning Game Tree by Rollouts](https://www.semanticscholar.org/paper/Pruning-Game-Tree-by-Rollouts-Huang/a38b358745067f71a9c780db117ae2471e693d63)*. [AAAI](AAAI "AAAI")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hendrik Baier](Hendrik_Baier "Hendrik Baier") (**2017**). *[A Rollout-Based Search Algorithm Unifying MCTS and Alpha-Beta](https://link.springer.com/chapter/10.1007/978-3-319-57969-6_5)*. [Computer Games](https://link.springer.com/book/10.1007%2F978-3-319-57969-6)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Bojun Huang](http://dblp.uni-trier.de/pers/hd/h/Huang:Bojun)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Announcing lczero](http://www.talkchess.com/forum/viewtopic.php?t=66280&start=67) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), January 21, 2018 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Bojun Huang | LinkedIn](https://www.linkedin.com/in/bojun-huang-25453173/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bojun Huang | LinkedIn](https://www.linkedin.com/in/bojun-huang-25453173/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Bojun Huang (**2015**). *[Pruning Game Tree by Rollouts](https://www.semanticscholar.org/paper/Pruning-Game-Tree-by-Rollouts-Huang/a38b358745067f71a9c780db117ae2471e693d63)*. [AAAI](AAAI "AAAI")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hendrik Baier](Hendrik_Baier "Hendrik Baier") (**2017**). *[A Rollout-Based Search Algorithm Unifying MCTS and Alpha-Beta](https://link.springer.com/chapter/10.1007/978-3-319-57969-6_5)*. [Computer Games](https://link.springer.com/book/10.1007%2F978-3-319-57969-6)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Bojun Huang](http://dblp.uni-trier.de/pers/hd/h/Huang:Bojun)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Announcing lczero](http://www.talkchess.com/forum/viewtopic.php?t=66280&start=67) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), January 21, 2018 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
 
 **[Up one Level](People "People")**
 

@@ -34,10 +34,10 @@ Despite embedding its authors name, [Sfinks](http://pl.wikipedia.org/wiki/Sfinks
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Winged sphinx](https://commons.wikimedia.org/wiki/File:Sphinx_Darius_Louvre.jpg) from the palace of [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) during [Persian Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) at [Susa](https://en.wikipedia.org/wiki/Susa), ca 510 BC, excavated by [Roland de Mecquenem](https://en.wikipedia.org/wiki/Roland_de_Mecquenem_%28archaeologist%29), 1911, Current location: [Louvre](https://en.wikipedia.org/wiki/Louvre), Department of Oriental Antiquities, Sully, ground floor, room 12a, Photo by [Jastrow](https://commons.wikimedia.org/wiki/User:Jastrow) in 2005, [Sphinx from Wikipedia](https://en.wikipedia.org/wiki/Sphinx)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SFINKS PC: Microcomputer Chess Game written by William Fink](http://www.textfiles.com/digitize/items/sfinks-pc/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [William Fink](William_Fink "William Fink") (**1982**). *An Enhancement to the Iterative, Alpha-Beta, Minimax Search Procedure*. [ICCA Newsletter, Vol. 5, No. 1](ICGA_Journal#5_1 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Winged sphinx](https://commons.wikimedia.org/wiki/File:Sphinx_Darius_Louvre.jpg) from the palace of [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) during [Persian Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) at [Susa](https://en.wikipedia.org/wiki/Susa), ca 510 BC, excavated by [Roland de Mecquenem](https://en.wikipedia.org/wiki/Roland_de_Mecquenem_%28archaeologist%29), 1911, Current location: [Louvre](https://en.wikipedia.org/wiki/Louvre), Department of Oriental Antiquities, Sully, ground floor, room 12a, Photo by [Jastrow](https://commons.wikimedia.org/wiki/User:Jastrow) in 2005, [Sphinx from Wikipedia](https://en.wikipedia.org/wiki/Sphinx)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SFINKS PC: Microcomputer Chess Game written by William Fink](http://www.textfiles.com/digitize/items/sfinks-pc/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [William Fink](William_Fink "William Fink") (**1982**). *An Enhancement to the Iterative, Alpha-Beta, Minimax Search Procedure*. [ICCA Newsletter, Vol. 5, No. 1](ICGA_Journal#5_1 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
 
 **[Up one level](Engines "Engines")**
 

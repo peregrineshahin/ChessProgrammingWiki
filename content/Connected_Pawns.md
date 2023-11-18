@@ -30,7 +30,7 @@ two or more pawns on adjacent [files](Files "Files") - as [duo](</Duo_Trio_Quart
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stockfish/pawns.cpp at master · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/blob/master/src/pawns.cpp)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stockfish/pawns.cpp at master · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/blob/master/src/pawns.cpp)
 
 **[Up one Level](Pawn_Structure "Pawn Structure")**
 

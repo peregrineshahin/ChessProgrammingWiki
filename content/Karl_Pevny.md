@@ -24,8 +24,8 @@ was an Austrian computer chess programmer and author of the private chess progra
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Remembering Karl Pevny - Facebook](https://www.facebook.com/karl.pevny)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [World Microcomputer Championships](https://groups.google.com/d/msg/rec.games.chess/DaNyRcJT8U8/GGcAJEiBMdgJ) by Stefan Hahndel, [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), November 8, 1993
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Remembering Karl Pevny - Facebook](https://www.facebook.com/karl.pevny)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [World Microcomputer Championships](https://groups.google.com/d/msg/rec.games.chess/DaNyRcJT8U8/GGcAJEiBMdgJ) by Stefan Hahndel, [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), November 8, 1993
 
 **[Up one level](People "People")**
 

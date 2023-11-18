@@ -59,13 +59,13 @@ Bc3 24.Ra2 f5 25.Rxg7 Rxe4+ 26.Kf3 Bxg7 27.a4 Nb4 28.Ra3 Bb2 29.c3 Bxa3 30.cxb4 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image](https://en.wikipedia.org/wiki/File:MYSTEM_86.JPG) of [Intel](Intel "Intel") [SDK-86](https://en.wikipedia.org/wiki/Intel_System_Development_Kit#SDK-86) from [Wikipedia](https://en.wikipedia.org/wiki/Home)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1979**). *Second Annual European Microcomputer Chess Championship - Results and Authors*. [ICCA Newsletter, Vol. 2, No. 2](ICGA_Journal#2_2 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Editor (**1980**). *A Chess Program & Random Openings*. [Personal Computing, Vol. 4, No. 12](Personal_Computing#4_12 "Personal Computing"), pp. 75
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Eerste Nederlands Kampioenschappen Computerschaken](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jan Kuipers](Jan_Kuipers "Jan Kuipers") (**1981**). *Tiny Chess 86 - Een schaakprogramma voor de 8088/8086*. [Databus](http://home.kpn.nl/a.dikker1/museum/databus.html) 06-81, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1981,%20Databus,%20Jan%20Kuipers,%20Tiny%20Chess%2086.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Editor (**1980**). *A Chess Program & Random Openings*. [Personal Computing, Vol. 4, No. 12](Personal_Computing#4_12 "Personal Computing"), pp. 75
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](https://en.wikipedia.org/wiki/File:MYSTEM_86.JPG) of [Intel](Intel "Intel") [SDK-86](https://en.wikipedia.org/wiki/Intel_System_Development_Kit#SDK-86) from [Wikipedia](https://en.wikipedia.org/wiki/Home)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1979**). *Second Annual European Microcomputer Chess Championship - Results and Authors*. [ICCA Newsletter, Vol. 2, No. 2](ICGA_Journal#2_2 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Editor (**1980**). *A Chess Program & Random Openings*. [Personal Computing, Vol. 4, No. 12](Personal_Computing#4_12 "Personal Computing"), pp. 75
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Eerste Nederlands Kampioenschappen Computerschaken](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jan Kuipers](Jan_Kuipers "Jan Kuipers") (**1981**). *Tiny Chess 86 - Een schaakprogramma voor de 8088/8086*. [Databus](http://home.kpn.nl/a.dikker1/museum/databus.html) 06-81, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1981,%20Databus,%20Jan%20Kuipers,%20Tiny%20Chess%2086.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Editor (**1980**). *A Chess Program & Random Openings*. [Personal Computing, Vol. 4, No. 12](Personal_Computing#4_12 "Personal Computing"), pp. 75
 
 **[Up one level](Engines "Engines")**
 

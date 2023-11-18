@@ -222,16 +222,16 @@ Re7 54.Qxg5 b6 55.Bc1 Qc4 56.Be3 Qd3 57.Qh5+ Kd7 58.Bg5 Rh7 59.Qg4+ Ne6 60.Qf5 R
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> ['btrzx3' inaugurated at German university - Scientific Computing World](http://www.scientific-computing.com/news/news_story.php?news_id=2172), July 08, 2013
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Linuxcluster btrzx3](http://www.hpc.uni-bayreuth.de/btrzx3/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Das Superhirn im Keller](http://www.frankenpost.de/regional/oberfranken/laenderspiegel/Das-Superhirn-im-Keller;art2388,2666422) by Joachim Dankbar, [Frankenpost](http://de.wikipedia.org/wiki/Frankenpost), July 01, 2013 (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Wir sind Weltmeister](https://www.uni-bayreuth.de/de/universitaet/presse/archiv/2015/122-Schachweltmeister-ITS.pdf) (pdf) [University of Bayreuth](https://en.wikipedia.org/wiki/University_of_Bayreuth) press release, July 10, 2015 (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Jonny wins PT47](http://www.csvn.nl/nieuws-mainmenu-28/51-toernooien/671-jonny-wins-pt47), [CSVN](CSVN "CSVN")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Photos 2013 Events: day 1](https://icga.leidenuniv.nl/?page_id=770), [ICGA](ICGA "ICGA")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [wccc2013.pgn](https://icga.leidenuniv.nl/wp-uploads/conference/WCCC/wccc2013.pgn)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [WCCC 2015](WCCC_2015 "WCCC 2015") photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The Trojan Horse-2](http://en.chessbase.com/post/the-trojan-horse-2) by [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller"), [ChessBase News](ChessBase "ChessBase"), August 18, 2015
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [WCCC 2016](WCCC_2016 "WCCC 2016") photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), June 29, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> ['btrzx3' inaugurated at German university - Scientific Computing World](http://www.scientific-computing.com/news/news_story.php?news_id=2172), July 08, 2013
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Linuxcluster btrzx3](http://www.hpc.uni-bayreuth.de/btrzx3/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Das Superhirn im Keller](http://www.frankenpost.de/regional/oberfranken/laenderspiegel/Das-Superhirn-im-Keller;art2388,2666422) by Joachim Dankbar, [Frankenpost](http://de.wikipedia.org/wiki/Frankenpost), July 01, 2013 (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Wir sind Weltmeister](https://www.uni-bayreuth.de/de/universitaet/presse/archiv/2015/122-Schachweltmeister-ITS.pdf) (pdf) [University of Bayreuth](https://en.wikipedia.org/wiki/University_of_Bayreuth) press release, July 10, 2015 (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jonny wins PT47](http://www.csvn.nl/nieuws-mainmenu-28/51-toernooien/671-jonny-wins-pt47), [CSVN](CSVN "CSVN")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Photos 2013 Events: day 1](https://icga.leidenuniv.nl/?page_id=770), [ICGA](ICGA "ICGA")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [wccc2013.pgn](https://icga.leidenuniv.nl/wp-uploads/conference/WCCC/wccc2013.pgn)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [WCCC 2015](WCCC_2015 "WCCC 2015") photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The Trojan Horse-2](http://en.chessbase.com/post/the-trojan-horse-2) by [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller"), [ChessBase News](ChessBase "ChessBase"), August 18, 2015
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [WCCC 2016](WCCC_2016 "WCCC 2016") photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), June 29, 2016
 
 **[Up one Level](Engines "Engines")**
 

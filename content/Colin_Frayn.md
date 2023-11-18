@@ -35,16 +35,16 @@ Colin has passionately studied the subject of evolution for many years, and is t
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Col’s Rational World](http://frayn.net/blog/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Col’s Rational World - Background](http://frayn.net/blog/?page_id=2)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer Chess Programming Theory](http://www.frayn.net/beowulf/theory.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Beowulf Computer Chess Engine](http://www.frayn.net/beowulf/index.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ChessBrain the world largest chess computer](http://www.chessbrain.net/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Col’s Rational World » Blog Archive » ChessBrain](http://frayn.net/blog/?p=662), May 4, 2011
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Col's Evolution Discussion FAQ](http://www.frayn.net/evolution/)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Col’s Rational World - Background](http://frayn.net/blog/?page_id=2)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Colin Frayn](https://dblp.uni-trier.de/pers/hd/f/Frayn:Colin)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Monopoly (game) from Wikipedia](<https://en.wikipedia.org/wiki/Monopoly_(game)>)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Col’s Rational World](http://frayn.net/blog/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Col’s Rational World - Background](http://frayn.net/blog/?page_id=2)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer Chess Programming Theory](http://www.frayn.net/beowulf/theory.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Beowulf Computer Chess Engine](http://www.frayn.net/beowulf/index.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ChessBrain the world largest chess computer](http://www.chessbrain.net/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Col’s Rational World » Blog Archive » ChessBrain](http://frayn.net/blog/?p=662), May 4, 2011
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Col's Evolution Discussion FAQ](http://www.frayn.net/evolution/)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Col’s Rational World - Background](http://frayn.net/blog/?page_id=2)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Colin Frayn](https://dblp.uni-trier.de/pers/hd/f/Frayn:Colin)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Monopoly (game) from Wikipedia](<https://en.wikipedia.org/wiki/Monopoly_(game)>)
 
 **[Up one level](People "People")**
 

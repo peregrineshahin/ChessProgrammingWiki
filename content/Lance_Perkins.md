@@ -56,9 +56,9 @@ and wrote his first private program with an own [GUI](GUI "GUI"), and many years
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Thinker output](http://www.talkchess.com/forum3/viewtopic.php?t=27113&start=13) by Lance Perkins, [CCC](CCC "CCC"), March 23, 2009
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Best tactical engine?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=27585&start=10) by Lance Perkins, [CCC](CCC "CCC"), April 25, 2009
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Arena Chess GUI 3.0 - Archive 8 - Message 118 - Interview with the programmer of Thinker, Lance Perkins (Canada)](https://web.archive.org/web/20120106002902/http://playwitharena.com/?Newsticker:Archive_8) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), April 27, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Thinker output](http://www.talkchess.com/forum3/viewtopic.php?t=27113&start=13) by Lance Perkins, [CCC](CCC "CCC"), March 23, 2009
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Best tactical engine?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=27585&start=10) by Lance Perkins, [CCC](CCC "CCC"), April 25, 2009
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Arena Chess GUI 3.0 - Archive 8 - Message 118 - Interview with the programmer of Thinker, Lance Perkins (Canada)](https://web.archive.org/web/20120106002902/http://playwitharena.com/?Newsticker:Archive_8) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), April 27, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

@@ -135,11 +135,11 @@ Search strategy refers to [search techniques](Search "Search") and [algorithms](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lithographs](http://www.irvingamen.com/lithograph.htm) by [Irving Amen](Category:Irving_Amen "Category:Irving Amen")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess - Wikiquote](http://en.wikiquote.org/wiki/Chess)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Corner - Chess Quotes](http://www.chesscorner.com/quotes/chess_quotes.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Strategy from Wikibooks](http://en.wikibooks.org/wiki/Chess_Strategy)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess Strategy from Wikibooks](http://en.wikibooks.org/wiki/Chess_Strategy)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lithographs](http://www.irvingamen.com/lithograph.htm) by [Irving Amen](Category:Irving_Amen "Category:Irving Amen")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess - Wikiquote](http://en.wikiquote.org/wiki/Chess)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Corner - Chess Quotes](http://www.chesscorner.com/quotes/chess_quotes.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Strategy from Wikibooks](http://en.wikibooks.org/wiki/Chess_Strategy)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess Strategy from Wikibooks](http://en.wikibooks.org/wiki/Chess_Strategy)
 
 **[Up one Level](Chess "Chess")**
 

@@ -22,7 +22,7 @@ The ACCA has membership that spans multiple countries in the Americas and sponso
 
 ## [![Americas (orthographic projection).svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/330px-Americas_%28orthographic_projection%29.svg.png)](http://en.wikipedia.org/wiki/Americas) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Americas' Computer Chess League](http://aigames.net/ACCA/AmericasComputerChessLeague.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Americas' Computer Chess League](http://aigames.net/ACCA/AmericasComputerChessLeague.html)
 
 **[Up one level](Organizations "Organizations")**
 

@@ -42,12 +42,12 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mephisto Wundermaschine](https://www.flickr.com/photos/10261668@N05/6371786359/in/album-72157600923814103/) from [1.The Ultra Rare Collection | Flickr - Photo Sharing!](https://www.flickr.com/photos/10261668@N05/albums/72157600923814103) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Wunderwaffe from Wikipedia](https://en.wikipedia.org/wiki/Wunderwaffe)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mephisto Wundermaschine](http://www.schach-computer.info/wiki/index.php/Mephisto_Wundermaschine) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mephisto Genius 68030 – Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php?title=Mephisto_Genius_68030) (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hiarcs Fan Page](http://www.thorstenczub.de/hiarcs.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender") (**1993**). *Results and selected games of the 12th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal"), pp. 231
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mephisto Wundermaschine](https://www.flickr.com/photos/10261668@N05/6371786359/in/album-72157600923814103/) from [1.The Ultra Rare Collection | Flickr - Photo Sharing!](https://www.flickr.com/photos/10261668@N05/albums/72157600923814103) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Wunderwaffe from Wikipedia](https://en.wikipedia.org/wiki/Wunderwaffe)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mephisto Wundermaschine](http://www.schach-computer.info/wiki/index.php/Mephisto_Wundermaschine) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mephisto Genius 68030 – Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php?title=Mephisto_Genius_68030) (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hiarcs Fan Page](http://www.thorstenczub.de/hiarcs.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender") (**1993**). *Results and selected games of the 12th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal"), pp. 231
 
 **[Up one Level](Mephisto "Mephisto")**
 

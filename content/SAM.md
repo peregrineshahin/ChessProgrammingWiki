@@ -36,8 +36,8 @@ Samsung provides development tools, such as the Samsung Arrangeable Microcontrol
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [100pcs Samsung S3P7588 4bit SAM47 core MCU silicon dies](https://www.ebay.com/itm/112321771858), [EBay](https://en.wikipedia.org/wiki/EBay)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [19-Development Tools - Samsung S3C9228/P9228 User Manual - Page 455 of 462 | Manualsbrain.com](https://manualsbrain.com/en/manuals/1196631/?page=455)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [100pcs Samsung S3P7588 4bit SAM47 core MCU silicon dies](https://www.ebay.com/itm/112321771858), [EBay](https://en.wikipedia.org/wiki/EBay)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [19-Development Tools - Samsung S3C9228/P9228 User Manual - Page 455 of 462 | Manualsbrain.com](https://manualsbrain.com/en/manuals/1196631/?page=455)
 
 **[Up one Level](Hardware "Hardware")**
 

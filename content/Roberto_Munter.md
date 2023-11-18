@@ -60,9 +60,9 @@ and primary author of [Vitruvius](Vitruvius "Vitruvius") [[1]](#cite-note-about-
 
 
 1. ↑ [1.0](#cite-ref-about-1-0) [1.1](#cite-ref-about-1-1) [VitruviusChess | About Us](https://www.vitruviuschess.com/About-Us.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Elektro - U.C.I.](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=53799) by Roberto Munter, [CCC](CCC "CCC"), September 23, 2014
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Elektro Chess Engine](http://elektrochessengine.blogspot.com/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Ippo with 2015 underwear](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=56445&start=6) by Roberto Munter, [CCC](CCC "CCC"), May 22, 2015
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Elektro - U.C.I.](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=53799) by Roberto Munter, [CCC](CCC "CCC"), September 23, 2014
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Elektro Chess Engine](http://elektrochessengine.blogspot.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Ippo with 2015 underwear](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=56445&start=6) by Roberto Munter, [CCC](CCC "CCC"), May 22, 2015
 
 **[Up one level](People "People")**
 

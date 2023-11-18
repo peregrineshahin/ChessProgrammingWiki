@@ -157,12 +157,12 @@ Kh6 113.Bg4 Kh7 114.Kxf4 1/2-1/2
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Maverick (animal) from Wikipedia](https://en.wikipedia.org/wiki/Maverick_%28animal%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Maverick’s Design Philosophy](http://www.chessprogramming.net/design-philosophy/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [First Release of Maverick Chess Engine!](http://www.talkchess.com/forum/viewtopic.php?t=48816) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), August 01, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Automatic Tuning of Evaluation Function](http://www.chessprogramming.net/automatic-tuning-evaluation-function/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [THE upset of the WC: Maverick-Komodo drawn!](http://www.talkchess.com/forum/viewtopic.php?t=56874) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), July 05, 2015
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [WCCC 2015](WCCC_2015 "WCCC 2015") and [WCSC 2015](WCSC_2015 "WCSC 2015") photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Maverick (animal) from Wikipedia](https://en.wikipedia.org/wiki/Maverick_%28animal%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Maverick’s Design Philosophy](http://www.chessprogramming.net/design-philosophy/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [First Release of Maverick Chess Engine!](http://www.talkchess.com/forum/viewtopic.php?t=48816) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), August 01, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Automatic Tuning of Evaluation Function](http://www.chessprogramming.net/automatic-tuning-evaluation-function/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [THE upset of the WC: Maverick-Komodo drawn!](http://www.talkchess.com/forum/viewtopic.php?t=56874) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), July 05, 2015
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [WCCC 2015](WCCC_2015 "WCCC 2015") and [WCSC 2015](WCSC_2015 "WCSC 2015") photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
 
 **[Up one Level](Engines "Engines")**
 

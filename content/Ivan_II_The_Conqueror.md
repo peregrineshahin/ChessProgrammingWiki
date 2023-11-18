@@ -59,10 +59,10 @@ The [Ron Nelson](Ron_Nelson "Ron Nelson") program is a [6502](6502 "6502") port 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [10.Exotic | Page 2 | Flickr](https://www.flickr.com/photos/10261668@N05/albums/72157600922174174/page2/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591&start=8) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2016
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SPLB32A](https://www.schach-computer.info/wiki/index.php/SPLB32A) – [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php?title=Hauptseite_En)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Excalibur Model 712 Ivan II The Conqueror (2002) Electronic Chess Computer](http://www.spacious-mind.com/html/ivan_ii_the_conqueror.html), [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [10.Exotic | Page 2 | Flickr](https://www.flickr.com/photos/10261668@N05/albums/72157600922174174/page2/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Products Ron Nelson designed/programmed](http://www.hiarcs.net/forums/viewtopic.php?t=7591&start=8) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 11, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SPLB32A](https://www.schach-computer.info/wiki/index.php/SPLB32A) – [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php?title=Hauptseite_En)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Excalibur Model 712 Ivan II The Conqueror (2002) Electronic Chess Computer](http://www.spacious-mind.com/html/ivan_ii_the_conqueror.html), [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
 
 **[Up one level](Engines "Engines")**
 

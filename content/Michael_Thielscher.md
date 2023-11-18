@@ -60,12 +60,12 @@ Michael Thielscher is co-author of the General Game Playing system [FluxPlayer](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ICCL - Study - International MSc - Guests and Events](http://www.computational-logic.org/content/study/master/staff/thielscher.php)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Professor Michael Thielscher | UNSW Research](https://research.unsw.edu.au/people/professor-michael-thielscher)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Michael Thielscher](http://cgi.cse.unsw.edu.au/~mit/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [General Game Playing](http://www.general-game-playing.de/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Research - General Game Playing](http://www.general-game-playing.de/research.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Michael Thielscher](https://dblp.uni-trier.de/pers/hd/t/Thielscher:Michael.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ICCL - Study - International MSc - Guests and Events](http://www.computational-logic.org/content/study/master/staff/thielscher.php)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Professor Michael Thielscher | UNSW Research](https://research.unsw.edu.au/people/professor-michael-thielscher)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Michael Thielscher](http://cgi.cse.unsw.edu.au/~mit/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [General Game Playing](http://www.general-game-playing.de/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Research - General Game Playing](http://www.general-game-playing.de/research.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Michael Thielscher](https://dblp.uni-trier.de/pers/hd/t/Thielscher:Michael.html)
 
 **[Up one level](People "People")**
 

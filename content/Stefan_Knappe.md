@@ -30,12 +30,12 @@ also affiliated with the *Inside Chess* project focusing on [web development](ht
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) Photos [BELCT 2001](BELCT_2001 "BELCT 2001") by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stefan Knappe's Homepage](https://web.archive.org/web/20060402233948/http://www.stefanknappe.de/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), April 02, 2006)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lokalmatador – Wiktionary](https://de.wiktionary.org/wiki/Lokalmatador)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ChessCoach - ChessCoach - Team](https://web.archive.org/web/20070107174813/http://www.chesscoach.de/chesscoach-team.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), January 07, 2007)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Inside Chess](https://web.archive.org/web/20171217230520/http://www.inside-chess.de:80/) (German) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), December 17, 2017)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [To Stefan Knappe](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=43088) by [Rahman Paidar](Rahman_Paidar "Rahman Paidar"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 21, 2003 » [Futility Pruning](Futility_Pruning "Futility Pruning")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) Photos [BELCT 2001](BELCT_2001 "BELCT 2001") by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stefan Knappe's Homepage](https://web.archive.org/web/20060402233948/http://www.stefanknappe.de/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), April 02, 2006)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lokalmatador – Wiktionary](https://de.wiktionary.org/wiki/Lokalmatador)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ChessCoach - ChessCoach - Team](https://web.archive.org/web/20070107174813/http://www.chesscoach.de/chesscoach-team.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), January 07, 2007)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Inside Chess](https://web.archive.org/web/20171217230520/http://www.inside-chess.de:80/) (German) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), December 17, 2017)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [To Stefan Knappe](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=43088) by [Rahman Paidar](Rahman_Paidar "Rahman Paidar"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 21, 2003 » [Futility Pruning](Futility_Pruning "Futility Pruning")
 
 **[Up one level](People "People")**
 

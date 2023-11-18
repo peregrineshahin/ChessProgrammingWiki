@@ -28,12 +28,12 @@ After the publication of my sources I received some critics: "more sources avail
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Winners [CCC 2005](CCC_2005 "CCC 2005"), [Computer Chess Cup 2005](http://walkofmind.com/programming/chess/ccc2005.htm) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MSB Software - Contatti](http://www.msbsoftware.it/contact.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Paolo Ciancarini](Paolo_Ciancarini "Paolo Ciancarini") (**1992**). *[I giocatori artificiali](https://www.glisfogliati.com/negozio/paolo-ciancarini-i-giocatori-artificiali-mursia-1992-scacchi/)*. Mursia (Italian)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Interview with Fabio Cavicchio, Delfi's author](http://spazioinwind.libero.it/dellacorte/eng/interviste/int_02_fkv.htm), [G 6](G_6 "G 6"), March 23, 2002
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Delfi Winboard - UCI Engine](http://www.msbsoftware.it/delfi/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Delfi Winboard - UCI Engine - Source](http://www.msbsoftware.it/delfi/source.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Winners [CCC 2005](CCC_2005 "CCC 2005"), [Computer Chess Cup 2005](http://walkofmind.com/programming/chess/ccc2005.htm) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MSB Software - Contatti](http://www.msbsoftware.it/contact.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Paolo Ciancarini](Paolo_Ciancarini "Paolo Ciancarini") (**1992**). *[I giocatori artificiali](https://www.glisfogliati.com/negozio/paolo-ciancarini-i-giocatori-artificiali-mursia-1992-scacchi/)*. Mursia (Italian)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Interview with Fabio Cavicchio, Delfi's author](http://spazioinwind.libero.it/dellacorte/eng/interviste/int_02_fkv.htm), [G 6](G_6 "G 6"), March 23, 2002
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Delfi Winboard - UCI Engine](http://www.msbsoftware.it/delfi/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Delfi Winboard - UCI Engine - Source](http://www.msbsoftware.it/delfi/source.htm)
 
 **[Up one level](People "People")**
 

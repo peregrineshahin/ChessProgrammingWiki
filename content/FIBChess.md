@@ -44,7 +44,7 @@ Rb3 27.Rd2 Re5 28.Bd8 Reb5 29.Rf2 Rxb2 30.Kg3 R5b3+ 31.Kg2 b5 32.axb6 a5 33.Bc7 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WCCC04 acknowledgements](https://www.stmintz.com/ccc/index.php?id=377326) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), July 16, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WCCC04 acknowledgements](https://www.stmintz.com/ccc/index.php?id=377326) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), July 16, 2004
 
 **[Up one Level](Engines "Engines")**
 

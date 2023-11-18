@@ -69,9 +69,9 @@ The **World Computer Shogi Championship** organized by the [CSA](CSA "CSA"), sin
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer Shogi Association Web Site](http://www2.computer-shogi.org/index_e.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Shogi Association - World Computer Shogi Championship](http://www2.computer-shogi.org/index_e.html) (English)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Takenobu Takizawa](Takenobu_Takizawa "Takenobu Takizawa"), [Takeshi Ito](Takeshi_Ito "Takeshi Ito"), [Takuya Hiraoka](Takuya_Hiraoka "Takuya Hiraoka"), [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki") (**2015**). *[Contemporary Computer Shogi](https://link.springer.com/referenceworkentry/10.1007/978-3-319-08234-9_22-1)*. [Encyclopedia of Computer Graphics and Games](https://link.springer.com/referencework/10.1007/978-3-319-08234-9)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer Shogi Association Web Site](http://www2.computer-shogi.org/index_e.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Shogi Association - World Computer Shogi Championship](http://www2.computer-shogi.org/index_e.html) (English)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Takenobu Takizawa](Takenobu_Takizawa "Takenobu Takizawa"), [Takeshi Ito](Takeshi_Ito "Takeshi Ito"), [Takuya Hiraoka](Takuya_Hiraoka "Takuya Hiraoka"), [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki") (**2015**). *[Contemporary Computer Shogi](https://link.springer.com/referenceworkentry/10.1007/978-3-319-08234-9_22-1)*. [Encyclopedia of Computer Graphics and Games](https://link.springer.com/referencework/10.1007/978-3-319-08234-9)
 
 **[Up one level](Tournaments_and_Matches "Tournaments and Matches")**
 

@@ -37,10 +37,10 @@ Harry Nefkens and [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm") 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Harry Nefkens's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=400)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Image from [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1983**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1982*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-1983,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201982.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1982](DOCCC_1982 "DOCCC 1982")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Harry Nefkens and [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm") during [WCCC 2006](WCCC_2006 "WCCC 2006") excursion, Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Harry Nefkens's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=400)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Image from [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1983**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1982*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-1983,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201982.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1982](DOCCC_1982 "DOCCC 1982")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Harry Nefkens and [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm") during [WCCC 2006](WCCC_2006 "WCCC 2006") excursion, Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -42,11 +42,11 @@ an American sales manager, from 1977 until the 90s affiliated with the [dedicate
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ron Nelson & Talking Chess Computers](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=191) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2016
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1992**). *Excalibur Electronics*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 3, No. 1, pp. 5
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fidelity Electronics](http://www.ismenio.com/fidelity.html) from [chesscomputers.org](http://www.ismenio.com/chess_computers.html), pictures from [USOCCC 1986](USOCCC_1986 "USOCCC 1986")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *2nd U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1986, Fall/Winter Edition
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo by [Roy Keeley Jr.](index.php?title=Roy_Keeley&action=edit&redlink=1 "Roy Keeley (page does not exist)"), [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal"), pp. 87
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ron Nelson & Talking Chess Computers](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=191) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2016
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1992**). *Excalibur Electronics*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 3, No. 1, pp. 5
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fidelity Electronics](http://www.ismenio.com/fidelity.html) from [chesscomputers.org](http://www.ismenio.com/chess_computers.html), pictures from [USOCCC 1986](USOCCC_1986 "USOCCC 1986")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *2nd U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1986, Fall/Winter Edition
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo by [Roy Keeley Jr.](index.php?title=Roy_Keeley&action=edit&redlink=1 "Roy Keeley (page does not exist)"), [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal"), pp. 87
 
 **[Up one level](People "People")**
 

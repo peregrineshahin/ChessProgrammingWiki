@@ -52,8 +52,8 @@ Since around 1996 he has specialized on [Java](Java "Java"). As avocational ches
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nicolai Czempin | LinkedIn](https://www.linkedin.com/in/nicolai-czempin/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess engine Eden](http://web.archive.org/web/20080503042018/http://www.czempin.de/chess/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nicolai Czempin | LinkedIn](https://www.linkedin.com/in/nicolai-czempin/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess engine Eden](http://web.archive.org/web/20080503042018/http://www.czempin.de/chess/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

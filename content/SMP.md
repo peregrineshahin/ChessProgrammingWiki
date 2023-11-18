@@ -135,9 +135,9 @@ a [multiprocessing](https://en.wikipedia.org/wiki/Multiprocessing) memory design
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Symmetric Multiprocessor System, [image](https://commons.wikimedia.org/wiki/File:SMP_-_Symmetric_Multiprocessor_System.svg) by Ferry24.Milan, November 01, 2011, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Symmetric multiprocessing from Wikipedia](https://en.wikipedia.org/wiki/Symmetric_multiprocessing) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Symmetric Multiprocessing - OSDev Wiki](http://wiki.osdev.org/Symmetric_Multiprocessing)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NUMA Frequently Asked Questions - 9. Why should I use NUMA? What are the benefits of NUMA?](http://lse.sourceforge.net/numa/faq/)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Symmetric Multiprocessor System, [image](https://commons.wikimedia.org/wiki/File:SMP_-_Symmetric_Multiprocessor_System.svg) by Ferry24.Milan, November 01, 2011, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Symmetric multiprocessing from Wikipedia](https://en.wikipedia.org/wiki/Symmetric_multiprocessing) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Symmetric Multiprocessing - OSDev Wiki](http://wiki.osdev.org/Symmetric_Multiprocessing)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NUMA Frequently Asked Questions - 9. Why should I use NUMA? What are the benefits of NUMA?](http://lse.sourceforge.net/numa/faq/)
 
 **[Up one Level](Memory "Memory")**
 

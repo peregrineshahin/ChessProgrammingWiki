@@ -68,11 +68,11 @@ Kxg7 20.Bc3+ f6 21.Kg2 Nh4+ 22.Kf1 Qg2+ 23.Ke2 Qe4+ 24.Kf1 Qh1+
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Eugène Delacroix](Category:Eug%C3%A8ne_Delacroix "Category:Eugène Delacroix") - [La Liberté guidant le peuple](https://fr.wikipedia.org/wiki/La_Libert%C3%A9_guidant_le_peuple) 1830, oil on canvas, Romantic history painting. [Commemorates](https://en.wiktionary.org/wiki/commemorate) the [French Revolution of 1830](https://en.wikipedia.org/wiki/July_Revolution), [Musée du Louvre](https://en.wikipedia.org/wiki/Mus%C3%A9e_du_Louvre)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Freedom's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=50)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [wita-awit#19-box2.pdf](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/Wita-base/WitaNotes/wita-awit%2319-box2.pdf) from [Wita Notes](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/Wita-base/WitaNotes/) by [Tony Marsland](Tony_Marsland "Tony Marsland")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jean E. Hayes](Jean_Hayes_Michie "Jean Hayes Michie"), [David Levy](David_Levy "David Levy") (**1976**). *[The world computer chess championship, Stockholm 1974](http://www.getcited.org/pub/101724802)*. University Press (Edinburgh) ISBN 0852242859
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Stockholm 1974 - Chess - Round 1 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=1&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Eugène Delacroix](Category:Eug%C3%A8ne_Delacroix "Category:Eugène Delacroix") - [La Liberté guidant le peuple](https://fr.wikipedia.org/wiki/La_Libert%C3%A9_guidant_le_peuple) 1830, oil on canvas, Romantic history painting. [Commemorates](https://en.wiktionary.org/wiki/commemorate) the [French Revolution of 1830](https://en.wikipedia.org/wiki/July_Revolution), [Musée du Louvre](https://en.wikipedia.org/wiki/Mus%C3%A9e_du_Louvre)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Freedom's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=50)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [wita-awit#19-box2.pdf](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/Wita-base/WitaNotes/wita-awit%2319-box2.pdf) from [Wita Notes](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/Wita-base/WitaNotes/) by [Tony Marsland](Tony_Marsland "Tony Marsland")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jean E. Hayes](Jean_Hayes_Michie "Jean Hayes Michie"), [David Levy](David_Levy "David Levy") (**1976**). *[The world computer chess championship, Stockholm 1974](http://www.getcited.org/pub/101724802)*. University Press (Edinburgh) ISBN 0852242859
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Stockholm 1974 - Chess - Round 1 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=1&id=5)
 
 **[Up one Level](Engines "Engines")**
 

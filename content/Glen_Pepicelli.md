@@ -24,9 +24,9 @@ about [Bit-Twiddling](Bit-Twiddling "Bit-Twiddling") and [Bitboards](Bitboards "
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Glen Pepicelli - O'Reilly Media](https://web.archive.org/web/20120204162242/http://www.oreillynet.com/pub/au/2129) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Glen Pepicelli (**2005**). *[Bitwise Optimization in Java: Bitfields, Bitboards, and Beyond](https://web.archive.org/web/20050205014648/http://www.onjava.com/pub/a/onjava/2005/02/02/bitsets.html)*. [O'Reilly's](https://en.wikipedia.org/wiki/O%27Reilly_Media) [OnJava.com](https://web.archive.org/web/20050203015229/http://onjava.com/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2005)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Obituary For: Glen Brent Pepicelli | Daly Funeral Home](https://web.archive.org/web/20120530010052/http://www.dalyfuneralhome.com/fh/obituaries/obituary.cfm?o_id=1478674&fh_id=11928) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Glen Pepicelli - O'Reilly Media](https://web.archive.org/web/20120204162242/http://www.oreillynet.com/pub/au/2129) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Glen Pepicelli (**2005**). *[Bitwise Optimization in Java: Bitfields, Bitboards, and Beyond](https://web.archive.org/web/20050205014648/http://www.onjava.com/pub/a/onjava/2005/02/02/bitsets.html)*. [O'Reilly's](https://en.wikipedia.org/wiki/O%27Reilly_Media) [OnJava.com](https://web.archive.org/web/20050203015229/http://onjava.com/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2005)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Obituary For: Glen Brent Pepicelli | Daly Funeral Home](https://web.archive.org/web/20120530010052/http://www.dalyfuneralhome.com/fh/obituaries/obituary.cfm?o_id=1478674&fh_id=11928) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](People "People")**
 

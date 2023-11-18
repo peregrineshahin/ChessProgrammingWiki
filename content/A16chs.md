@@ -37,10 +37,10 @@ a chess program developed by [Robert Prinsen](Robert_Prinsen "Robert Prinsen") o
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [NAKED MINI/ ALPHA 16](http://www.computerhistory.org/brochures/full_record.php?iid=doc-4372956d1d417) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A16chs, Computer Automation Alpha16 soft. by Interscan Data Systems (1974)](https://www.arcade-history.com/?n=a16chs&page=detail&id=265913)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jean E. Hayes](Jean_Hayes_Michie "Jean Hayes Michie"), [David Levy](David_Levy "David Levy") (**1976**). *The world computer chess championship, Stockholm 1974*. University Press (Edinburgh, pp. 80
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Stockholm 1974 - Chess - Round 1 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=1&id=3)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [NAKED MINI/ ALPHA 16](http://www.computerhistory.org/brochures/full_record.php?iid=doc-4372956d1d417) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A16chs, Computer Automation Alpha16 soft. by Interscan Data Systems (1974)](https://www.arcade-history.com/?n=a16chs&page=detail&id=265913)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jean E. Hayes](Jean_Hayes_Michie "Jean Hayes Michie"), [David Levy](David_Levy "David Levy") (**1976**). *The world computer chess championship, Stockholm 1974*. University Press (Edinburgh, pp. 80
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Stockholm 1974 - Chess - Round 1 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=1&id=3)
 
 **[Up one Level](Engines "Engines")**
 

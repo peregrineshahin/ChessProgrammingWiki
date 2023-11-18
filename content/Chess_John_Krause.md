@@ -26,9 +26,9 @@ The C64 version was also released in 1986 as **Chess Master** by *FHD Software* 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John Krause](John_Krause "John Krause") (**1984**). *[CHESS](https://www.atarimagazines.com/compute/issue55/chess.php)*. [Compute!](Compute! "Compute!"), [Issue 055](https://archive.org/stream/1984-12-compute-magazine/Compute_Issue_055_1984_Dec#page/n89/mode/2up)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [John Krause](John_Krause "John Krause") (**1985**). *[For IBM PC & PCjr CHESS](https://www.atarimagazines.com/compute/issue64/chess.php)*. [Compute!](Compute! "Compute!"), [Issue 064](https://archive.org/stream/1985-09-compute-magazine/Compute_Issue_064_1985_Sep#page/n88/mode/2up)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Master | GB64.COM - C64 Games, Database, Music, Emulation, Frontends, Reviews and Articles](http://www.gb64.com/game.php?id=26570&d=18)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John Krause](John_Krause "John Krause") (**1984**). *[CHESS](https://www.atarimagazines.com/compute/issue55/chess.php)*. [Compute!](Compute! "Compute!"), [Issue 055](https://archive.org/stream/1984-12-compute-magazine/Compute_Issue_055_1984_Dec#page/n89/mode/2up)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [John Krause](John_Krause "John Krause") (**1985**). *[For IBM PC & PCjr CHESS](https://www.atarimagazines.com/compute/issue64/chess.php)*. [Compute!](Compute! "Compute!"), [Issue 064](https://archive.org/stream/1985-09-compute-magazine/Compute_Issue_064_1985_Sep#page/n88/mode/2up)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Master | GB64.COM - C64 Games, Database, Music, Emulation, Frontends, Reviews and Articles](http://www.gb64.com/game.php?id=26570&d=18)
 
 **[Up one Level](Engines "Engines")**
 

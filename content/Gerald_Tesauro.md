@@ -50,16 +50,16 @@ Gerald Tesauro is author of the [Backgammon](Backgammon "Backgammon") programs [
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [IBM Research: Watson’s wagering strategies](http://ibmresearchnews.blogspot.com/2011/02/watsons-wagering-strategies.html) by Gerald Tesauro, February 13, 2011
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [IBM Press room - 2011-08-29 IBM and Jeopardy! Relive History with Encore Presentation of Jeopardy!: The IBM Challenge - United States](http://www-03.ibm.com/press/us/en/pressrelease/35301.wss)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [IBM Research: Watson’s wagering strategies](http://ibmresearchnews.blogspot.com/2011/02/watsons-wagering-strategies.html) by Gerald Tesauro, February 13, 2011
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Richard Sutton](Richard_Sutton "Richard Sutton"), [Andrew Barto](Andrew_Barto "Andrew Barto") (**1998**). *Reinforcement Learning: An Introduction*. [MIT Press](https://en.wikipedia.org/wiki/MIT_Press), 11.1 TD-Gammon
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Fuego from sourceforge](http://fuego.sourceforge.net/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Markus Enzenberger](Markus_Enzenberger "Markus Enzenberger"), [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2009**). *Fuego - An Open-source Framework for Board Games and Go Engine Based on Monte-Carlo Tree Search*. Tecnical Report
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2009**). *Fuego at the Computer Olympiad in Pamplona 2009: A Tournament Report*.
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [DBLP: Gerald Tesauro](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tesauro:Gerald.html)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Monte-Carlo Simulation Balancing - videolectures.net](http://videolectures.net/icml09_silver_mcsb/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [IBM Research: Watson’s wagering strategies](http://ibmresearchnews.blogspot.com/2011/02/watsons-wagering-strategies.html) by Gerald Tesauro, February 13, 2011
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [IBM Press room - 2011-08-29 IBM and Jeopardy! Relive History with Encore Presentation of Jeopardy!: The IBM Challenge - United States](http://www-03.ibm.com/press/us/en/pressrelease/35301.wss)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [IBM Research: Watson’s wagering strategies](http://ibmresearchnews.blogspot.com/2011/02/watsons-wagering-strategies.html) by Gerald Tesauro, February 13, 2011
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Richard Sutton](Richard_Sutton "Richard Sutton"), [Andrew Barto](Andrew_Barto "Andrew Barto") (**1998**). *Reinforcement Learning: An Introduction*. [MIT Press](https://en.wikipedia.org/wiki/MIT_Press), 11.1 TD-Gammon
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fuego from sourceforge](http://fuego.sourceforge.net/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Markus Enzenberger](Markus_Enzenberger "Markus Enzenberger"), [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2009**). *Fuego - An Open-source Framework for Board Games and Go Engine Based on Monte-Carlo Tree Search*. Tecnical Report
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2009**). *Fuego at the Computer Olympiad in Pamplona 2009: A Tournament Report*.
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [DBLP: Gerald Tesauro](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tesauro:Gerald.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Monte-Carlo Simulation Balancing - videolectures.net](http://videolectures.net/icml09_silver_mcsb/)
 
 **[Up one level](People "People")**
 

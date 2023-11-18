@@ -32,9 +32,9 @@ and is further author of the chess engine [Merlin](</Merlin_(HU)> "Merlin (HU)")
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Balázs Jákó LinkedIn](https://uk.linkedin.com/in/bal%C3%A1zs-j%C3%A1k%C3%B3-54614333)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Balázs Jákó (**2011**). *Fast Hydraulic and Thermal Erosion on GPU*. M.Sc. thesis, Supervisor [Balázs Tóth](https://hu.linkedin.com/in/bal%C3%A1zs-t%C3%B3th-1b151329), [Eurographics 2011](http://eg2011.bangor.ac.uk/), [pdf](http://old.cescg.org/CESCG-2011/papers/TUBudapest-Jako-Balazs.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [PowerVR from Wikipedia](https://en.wikipedia.org/wiki/PowerVR)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Balázs Jákó LinkedIn](https://uk.linkedin.com/in/bal%C3%A1zs-j%C3%A1k%C3%B3-54614333)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Balázs Jákó (**2011**). *Fast Hydraulic and Thermal Erosion on GPU*. M.Sc. thesis, Supervisor [Balázs Tóth](https://hu.linkedin.com/in/bal%C3%A1zs-t%C3%B3th-1b151329), [Eurographics 2011](http://eg2011.bangor.ac.uk/), [pdf](http://old.cescg.org/CESCG-2011/papers/TUBudapest-Jako-Balazs.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PowerVR from Wikipedia](https://en.wikipedia.org/wiki/PowerVR)
 
 **[Up one level](People "People")**
 

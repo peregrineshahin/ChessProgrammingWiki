@@ -65,11 +65,11 @@ I read mathematics at [Hertford College](https://en.wikipedia.org/wiki/Hertford_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Artificial Intelligence Recollections of the Pioneers](http://www.aiai.ed.ac.uk/events/ccs2002/), October 2002
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jim Doran, [Donald Michie](Donald_Michie "Donald Michie") (**1966**). *[Experiments with the Graph Traverser Program](https://royalsocietypublishing.org/doi/10.1098/rspa.1966.0205)*. [Proceedings of the Royal Society](https://en.wikipedia.org/wiki/Proceedings_of_the_Royal_Society), Series A, Vol. 294, No. 1437, [pdf](https://stacks.stanford.edu/file/druid:yf330xx7624/yf330xx7624.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Artificial Intelligence Recollections of the Pioneers](http://www.aiai.ed.ac.uk/events/ccs2002/), October 2002
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Profile for James Doran at the University of Essex](https://www.essex.ac.uk/people/doran10007/james-doran)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Jim Doran](https://dblp.uni-trier.de/pers/hd/d/Doran:Jim)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Artificial Intelligence Recollections of the Pioneers](http://www.aiai.ed.ac.uk/events/ccs2002/), October 2002
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jim Doran, [Donald Michie](Donald_Michie "Donald Michie") (**1966**). *[Experiments with the Graph Traverser Program](https://royalsocietypublishing.org/doi/10.1098/rspa.1966.0205)*. [Proceedings of the Royal Society](https://en.wikipedia.org/wiki/Proceedings_of_the_Royal_Society), Series A, Vol. 294, No. 1437, [pdf](https://stacks.stanford.edu/file/druid:yf330xx7624/yf330xx7624.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Artificial Intelligence Recollections of the Pioneers](http://www.aiai.ed.ac.uk/events/ccs2002/), October 2002
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Profile for James Doran at the University of Essex](https://www.essex.ac.uk/people/doran10007/james-doran)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Jim Doran](https://dblp.uni-trier.de/pers/hd/d/Doran:Jim)
 
 **[Up one level](People "People")**
 

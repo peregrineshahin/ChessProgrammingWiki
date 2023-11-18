@@ -109,15 +109,15 @@ Jan Louwman
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jan Louwman's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=420)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Photo by [John de Pater](http://www.nsp.nl/media-overzicht/naam/fotografie-john-de-pater/), in Henk Hage (**1985**). *Hoe intelligent wordt de schaakcomputer van de toekomst*. TNO Magazine, 02-1985, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/02-1985,%20TNO%20Magazine,%20Hoe%20intelligent%20wordt%20de%20schaakcomputer%20van%20de%20toekomst.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2nd International CSVN Tournament 2002 Photo Gallery II](http://old.csvn.nl/gallery17.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computerschaak pagina 1](http://www.csvnsupplementsite.nl/CSVNPAGINA1.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Translation from Dutch to English with the help of [Babel Fish](https://en.wikipedia.org/wiki/Babel_Fish_%28website%29)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [09-1981, 2. Mikrocomputer-Schachweltmeisterschaft in Travemünde und Hamburg](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1981,%202.%20Mikrocomputer-Schachweltmeisterschaft%20in%20Travemunde%20und%20Hamburg.pdf) (pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Applied Concepts - Morphy Edition Master Chess (module)](http://www.schaakcomputers.nl/hein_veldhuis/database/files/01-1981%20%5BE-4701%5D%20Applied%20Concepts%20-%20Morphy%20Edition%20Master%20Chess%20%28module%29.pdf) (pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Novag - Micro Chess](http://www.schaakcomputers.nl/hein_veldhuis/database/files/08-1981%20%5BM-0101%5D%20Novag%20-%20Micro%20Chess.pdf) (pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jan Louwman's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=420)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Photo by [John de Pater](http://www.nsp.nl/media-overzicht/naam/fotografie-john-de-pater/), in Henk Hage (**1985**). *Hoe intelligent wordt de schaakcomputer van de toekomst*. TNO Magazine, 02-1985, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/02-1985,%20TNO%20Magazine,%20Hoe%20intelligent%20wordt%20de%20schaakcomputer%20van%20de%20toekomst.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2nd International CSVN Tournament 2002 Photo Gallery II](http://old.csvn.nl/gallery17.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computerschaak pagina 1](http://www.csvnsupplementsite.nl/CSVNPAGINA1.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Translation from Dutch to English with the help of [Babel Fish](https://en.wikipedia.org/wiki/Babel_Fish_%28website%29)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [09-1981, 2. Mikrocomputer-Schachweltmeisterschaft in Travemünde und Hamburg](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1981,%202.%20Mikrocomputer-Schachweltmeisterschaft%20in%20Travemunde%20und%20Hamburg.pdf) (pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Applied Concepts - Morphy Edition Master Chess (module)](http://www.schaakcomputers.nl/hein_veldhuis/database/files/01-1981%20%5BE-4701%5D%20Applied%20Concepts%20-%20Morphy%20Edition%20Master%20Chess%20%28module%29.pdf) (pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Novag - Micro Chess](http://www.schaakcomputers.nl/hein_veldhuis/database/files/08-1981%20%5BM-0101%5D%20Novag%20-%20Micro%20Chess.pdf) (pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
 
 **[Up one level](People "People")**
 

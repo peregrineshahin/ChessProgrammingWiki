@@ -97,8 +97,8 @@ int bitScanForward(U64 bb) {
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bit magic](https://groups.google.com/d/msg/comp.lang.asm.x86/3pVGzQGb1ys/fPpKBKNi848J) by Matt Taylor, [comp.lang.asm.x86](https://groups.google.com/forum/#!forum/comp.lang.asm.x86), June 26, 2003
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Bit magic](https://groups.google.com/d/msg/comp.lang.asm.x86/3pVGzQGb1ys/230qffQJYvQJ) by Matt Taylor, [comp.lang.asm.x86](https://groups.google.com/forum/#!forum/comp.lang.asm.x86), June 29, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bit magic](https://groups.google.com/d/msg/comp.lang.asm.x86/3pVGzQGb1ys/fPpKBKNi848J) by Matt Taylor, [comp.lang.asm.x86](https://groups.google.com/forum/#!forum/comp.lang.asm.x86), June 26, 2003
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Bit magic](https://groups.google.com/d/msg/comp.lang.asm.x86/3pVGzQGb1ys/230qffQJYvQJ) by Matt Taylor, [comp.lang.asm.x86](https://groups.google.com/forum/#!forum/comp.lang.asm.x86), June 29, 2003
 
 **[Up one level](People "People")**
 

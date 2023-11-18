@@ -27,12 +27,12 @@ Chessica Screen <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Chessica Mistery](https://www.stmintz.com/ccc/index.php?id=234051) by [Albert Silver](Albert_Silver "Albert Silver"), [CCC](CCC "CCC"), June 04, 2002
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chessica : TASC B.V. : Free Download & Streaming](http://archive.org/details/Chessica_1020), [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Marc Derksen - Nederland | LinkedIn](http://nl.linkedin.com/in/marcderksen)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Jürgen Faas (**1995**). *Die fensterlde Dame*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), June-July 1995 (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chessica vs Older Brother](https://www.stmintz.com/ccc/index.php?id=76658) by [Howard Exner](index.php?title=Howard_Exner&action=edit&redlink=1 "Howard Exner (page does not exist)"), [CCC](CCC "CCC"), November 06, 1999
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chessica : TASC B.V. : Free Download & Streaming](https://archive.org/details/Chessica_1020) hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Chessica Mistery](https://www.stmintz.com/ccc/index.php?id=234051) by [Albert Silver](Albert_Silver "Albert Silver"), [CCC](CCC "CCC"), June 04, 2002
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chessica : TASC B.V. : Free Download & Streaming](http://archive.org/details/Chessica_1020), [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Marc Derksen - Nederland | LinkedIn](http://nl.linkedin.com/in/marcderksen)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Jürgen Faas (**1995**). *Die fensterlde Dame*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), June-July 1995 (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chessica vs Older Brother](https://www.stmintz.com/ccc/index.php?id=76658) by [Howard Exner](index.php?title=Howard_Exner&action=edit&redlink=1 "Howard Exner (page does not exist)"), [CCC](CCC "CCC"), November 06, 1999
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chessica : TASC B.V. : Free Download & Streaming](https://archive.org/details/Chessica_1020) hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
 
 **[Up one Level](Engines "Engines")**
 

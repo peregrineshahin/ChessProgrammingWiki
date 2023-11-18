@@ -54,12 +54,12 @@ It was intended to become the chess playing part of a [dedicated chess computer]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Miti e leggende](https://www.g-sei.org/miti-e-leggende/#!) « [G 6](G_6 "G 6")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [16-bit PIC® Microcontrollers](http://www.microchip.com/design-centers/16-bit)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [PIC microcontroller from Wikipedia](https://en.wikipedia.org/wiki/PIC_microcontroller)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [PIC instruction listings | PIC24 and dsPIC 16-bit microcontrollers | Wikipedia](https://en.wikipedia.org/wiki/PIC_instruction_listings#PIC24_and_dsPIC_16-bit_microcontrollers)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Discussione: PICcolino](https://www.g-sei.org/forums/topic/piccolino/) by [Luca Naddei](Luca_Naddei "Luca Naddei"), [G 6 Forum](G_6 "G 6"), January 20, 2017 (Italian)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Persone](https://www.g-sei.org/persone/#squelch-taas-tab-content-0-4) « [G 6](G_6 "G 6")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Miti e leggende](https://www.g-sei.org/miti-e-leggende/#!) « [G 6](G_6 "G 6")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [16-bit PIC® Microcontrollers](http://www.microchip.com/design-centers/16-bit)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PIC microcontroller from Wikipedia](https://en.wikipedia.org/wiki/PIC_microcontroller)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [PIC instruction listings | PIC24 and dsPIC 16-bit microcontrollers | Wikipedia](https://en.wikipedia.org/wiki/PIC_instruction_listings#PIC24_and_dsPIC_16-bit_microcontrollers)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Discussione: PICcolino](https://www.g-sei.org/forums/topic/piccolino/) by [Luca Naddei](Luca_Naddei "Luca Naddei"), [G 6 Forum](G_6 "G 6"), January 20, 2017 (Italian)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Persone](https://www.g-sei.org/persone/#squelch-taas-tab-content-0-4) « [G 6](G_6 "G 6")
 
 **[Up one Level](Engines "Engines")**
 

@@ -78,9 +78,9 @@ Defenchess evolved from the author's former engine *SCTR* <a id="cite-note-1" hr
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: SCTR 1.1d win64](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=65861&start=13) by CMCanavessi, [CCC](CCC "CCC"), January 03, 2018
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Defenchess wins TCEC Division 4](http://www.chessdom.com/defenchess-wins-tcec-division-4/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), January 06, 2018
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - gonzaloarro/MORA-CHESS-ENGINE: UCI Chess Engine in the 2100-2200 ELO range - README.md](https://github.com/gonzaloarro/MORA-CHESS-ENGINE)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: SCTR 1.1d win64](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=65861&start=13) by CMCanavessi, [CCC](CCC "CCC"), January 03, 2018
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Defenchess wins TCEC Division 4](http://www.chessdom.com/defenchess-wins-tcec-division-4/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), January 06, 2018
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - gonzaloarro/MORA-CHESS-ENGINE: UCI Chess Engine in the 2100-2200 ELO range - README.md](https://github.com/gonzaloarro/MORA-CHESS-ENGINE)
 
 **[Up one level](Engines "Engines")**
 

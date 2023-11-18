@@ -144,10 +144,10 @@ Cutechess-cli can be used with [Rémi Coulom's](R%C3%A9mi_Coulom "Rémi Coulom")
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Cutechess-cli: A command line tool for engine-engine matches](http://www.talkchess.com/forum/viewtopic.php?t=27024) by [Ilari Pihlajisto](Ilari_Pihlajisto "Ilari Pihlajisto"), [CCC](CCC "CCC"), March 16, 2009
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Is there a MPI version cutechess-cli?](http://www.talkchess.com/forum/viewtopic.php?t=49116&start=1) by [Chao Ma](Chao_Ma "Chao Ma"), [CCC](CCC "CCC"), September 03, 2013
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [JSON - Wikipedia](https://en.wikipedia.org/wiki/JSON)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [OS X Mavericks - Wikipedia](https://en.wikipedia.org/wiki/OS_X_Mavericks)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Cutechess-cli: A command line tool for engine-engine matches](http://www.talkchess.com/forum/viewtopic.php?t=27024) by [Ilari Pihlajisto](Ilari_Pihlajisto "Ilari Pihlajisto"), [CCC](CCC "CCC"), March 16, 2009
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Is there a MPI version cutechess-cli?](http://www.talkchess.com/forum/viewtopic.php?t=49116&start=1) by [Chao Ma](Chao_Ma "Chao Ma"), [CCC](CCC "CCC"), September 03, 2013
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [JSON - Wikipedia](https://en.wikipedia.org/wiki/JSON)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [OS X Mavericks - Wikipedia](https://en.wikipedia.org/wiki/OS_X_Mavericks)
 
 **[Up one Level](CLI "CLI")**
 

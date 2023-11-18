@@ -86,14 +86,14 @@ The art of problem solving (including phenomena such as self-mates and help-mate
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Brunel University](https://en.wikipedia.org/wiki/Brunel_University)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Levy](David_Levy "David Levy") (**1984**). *Chess Master versus Computer*. [ICCA Journal, Vol. 7, No. 2](ICGA_Journal#7_2 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [How to beat a chess champion - David Levy vs. computer program CRAY BLITZ](http://findarticles.com/p/articles/mi_m1200/is_v127/ai_3645282) Science News, Feb 16, 1985
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Danny Kopec](Danny_Kopec "Danny Kopec") (**1990**). *Advances in Man-Machine Play.* [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition"), pp. 9-32, [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_21_C.pdf)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1984**). *Cray Blitz versus David Levy*. [ICCA Journal, Vol. 7, No. 2](ICGA_Journal#7_2 "ICGA Journal")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Need 4 games Cray Blitz-Levy 1984](https://www.stmintz.com/ccc/index.php?id=95280) by Mike S., [CCC](CCC "CCC"), February 06, 2000
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). [Book review: Advances in Computer Chess 4](http://portal.acm.org/citation.cfm?id=1057627) from [ACM Portal](http://portal.acm.org/portal.cfm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Brunel University](https://en.wikipedia.org/wiki/Brunel_University)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Levy](David_Levy "David Levy") (**1984**). *Chess Master versus Computer*. [ICCA Journal, Vol. 7, No. 2](ICGA_Journal#7_2 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [How to beat a chess champion - David Levy vs. computer program CRAY BLITZ](http://findarticles.com/p/articles/mi_m1200/is_v127/ai_3645282) Science News, Feb 16, 1985
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Danny Kopec](Danny_Kopec "Danny Kopec") (**1990**). *Advances in Man-Machine Play.* [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition"), pp. 9-32, [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_21_C.pdf)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1984**). *Cray Blitz versus David Levy*. [ICCA Journal, Vol. 7, No. 2](ICGA_Journal#7_2 "ICGA Journal")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Need 4 games Cray Blitz-Levy 1984](https://www.stmintz.com/ccc/index.php?id=95280) by Mike S., [CCC](CCC "CCC"), February 06, 2000
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). [Book review: Advances in Computer Chess 4](http://portal.acm.org/citation.cfm?id=1057627) from [ACM Portal](http://portal.acm.org/portal.cfm)
 
 **[Up one Level](Conferences "Conferences")**
 

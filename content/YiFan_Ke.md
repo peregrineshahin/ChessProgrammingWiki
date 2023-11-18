@@ -34,10 +34,10 @@ a Taiwanese computer scientist, electrical engineer, chip designer and director 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yi-Fan Ke | LinkedIn](http://www.linkedin.com/in/yifanke)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Yi-Fan Ke (**1996**). *A parallel hardware architecture for accelerating computer chess system-平行電腦象棋系統架構之設計及研究*. Ph.D. thesis, [National Taiwan University](National_Taiwan_University "National Taiwan University")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Yi-Fan Ke, [Tai-Ming Parng](Tai-Ming_Parng "Tai-Ming Parng") (**1993**). *The Guard Heuristic: Legal Move Ordering with Forward Game-Tree Pruning*. [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Yi-Fan Ke | LinkedIn](http://www.linkedin.com/in/yifanke)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yi-Fan Ke | LinkedIn](http://www.linkedin.com/in/yifanke)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Yi-Fan Ke (**1996**). *A parallel hardware architecture for accelerating computer chess system-平行電腦象棋系統架構之設計及研究*. Ph.D. thesis, [National Taiwan University](National_Taiwan_University "National Taiwan University")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Yi-Fan Ke, [Tai-Ming Parng](Tai-Ming_Parng "Tai-Ming Parng") (**1993**). *The Guard Heuristic: Legal Move Ordering with Forward Game-Tree Pruning*. [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Yi-Fan Ke | LinkedIn](http://www.linkedin.com/in/yifanke)
 
 **[Up one level](People "People")**
 

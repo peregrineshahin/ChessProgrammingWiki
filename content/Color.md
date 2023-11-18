@@ -60,7 +60,7 @@ inline enumColor toggleColor(enumColor color) {
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Last Judgment](https://en.wikipedia.org/wiki/Last_Judgment) fresco by [Viktor Vasnetsov](Category:Viktor_Vasnetsov "Category:Viktor Vasnetsov"), between 1885 and 1896, [St. Vladimir's Cathedral](https://en.wikipedia.org/wiki/St_Volodymyr%27s_Cathedral), [Kiev](https://en.wikipedia.org/wiki/Kiev), [Ukraine](https://en.wikipedia.org/wiki/Ukraine), [Black-and-white dualism from Wikipedia](https://en.wikipedia.org/wiki/Black-and-white_dualism), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Last Judgment](https://en.wikipedia.org/wiki/Last_Judgment) fresco by [Viktor Vasnetsov](Category:Viktor_Vasnetsov "Category:Viktor Vasnetsov"), between 1885 and 1896, [St. Vladimir's Cathedral](https://en.wikipedia.org/wiki/St_Volodymyr%27s_Cathedral), [Kiev](https://en.wikipedia.org/wiki/Kiev), [Ukraine](https://en.wikipedia.org/wiki/Ukraine), [Black-and-white dualism from Wikipedia](https://en.wikipedia.org/wiki/Black-and-white_dualism), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one Level](Chess "Chess")**
 

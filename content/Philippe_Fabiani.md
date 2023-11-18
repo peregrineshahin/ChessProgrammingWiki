@@ -40,10 +40,10 @@ But man is a fickle and disreputable creature and perhaps, like a chess-player, 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tom Kerrigan's Home Page - Community](http://www.tckerrigan.com/Chess/TSCP/Community/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Delphil - thanks](http://delphil.nexgate.ch/English/thanks.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fabiani Philippe](http://www.blitzchess.fr/fr/common/info/les-programmeurs/fabiani-philippe.html) from [blitzchess.fr](http://www.blitzchess.fr/fr/index.php) by [Eric Belot](index.php?title=Eric_Belot&action=edit&redlink=1 "Eric Belot (page does not exist)") (French)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Notes from Underground Quotes By Fyodor Dostoyevsky](http://www.goodreads.com/work/quotes/19376)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tom Kerrigan's Home Page - Community](http://www.tckerrigan.com/Chess/TSCP/Community/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Delphil - thanks](http://delphil.nexgate.ch/English/thanks.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fabiani Philippe](http://www.blitzchess.fr/fr/common/info/les-programmeurs/fabiani-philippe.html) from [blitzchess.fr](http://www.blitzchess.fr/fr/index.php) by [Eric Belot](index.php?title=Eric_Belot&action=edit&redlink=1 "Eric Belot (page does not exist)") (French)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Notes from Underground Quotes By Fyodor Dostoyevsky](http://www.goodreads.com/work/quotes/19376)
 
 **[Up one level](People "People")**
 

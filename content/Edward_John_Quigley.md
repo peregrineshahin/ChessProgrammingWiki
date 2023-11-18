@@ -18,9 +18,9 @@ later also ported to several different computers <a id="cite-note-2" href="#cite
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The seventy-first Annual Meeting of the American Mathematical Society 1965](https://www.ams.org/journals/bull/1965-71-03/S0002-9904-1965-11298-8/S0002-9904-1965-11298-8.pdf) (pdf)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [DECUS Program Library PDP-8 Catalog 1978](http://www.bitsavers.org/pdf/dec/decus/programCatalogs/DECUS_Catalog_PDP-8_Aug78.pdf) (pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Edward J. Quigley](https://dblp.org/pers/hd/q/Quigley:Edward_J=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The seventy-first Annual Meeting of the American Mathematical Society 1965](https://www.ams.org/journals/bull/1965-71-03/S0002-9904-1965-11298-8/S0002-9904-1965-11298-8.pdf) (pdf)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [DECUS Program Library PDP-8 Catalog 1978](http://www.bitsavers.org/pdf/dec/decus/programCatalogs/DECUS_Catalog_PDP-8_Aug78.pdf) (pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Edward J. Quigley](https://dblp.org/pers/hd/q/Quigley:Edward_J=)
 
 **[Up one level](People "People")**
 

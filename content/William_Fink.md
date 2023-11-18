@@ -27,8 +27,8 @@ an American early microcomputer chess programmer and author of the commercial ch
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sfinks' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=418)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> William Fink (**1982**). *An Enhancement to the Iterative, Alpha-Beta, Minimax Search Procedure*. [ICCA Newsletter, Vol. 5, No. 1](ICGA_Journal#5_1 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sfinks' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=418)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> William Fink (**1982**). *An Enhancement to the Iterative, Alpha-Beta, Minimax Search Procedure*. [ICCA Newsletter, Vol. 5, No. 1](ICGA_Journal#5_1 "ICGA Journal")
 
 **[Up one level](People "People")**
 

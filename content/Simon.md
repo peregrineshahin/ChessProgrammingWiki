@@ -51,9 +51,9 @@ a [WinBoard](WinBoard "WinBoard") compliant, didactic [open source chess engine]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Simple Simon 2](https://commons.wikimedia.org/wiki/File:Simple_Simon_2_-_WW_Denslow_-_Project_Gutenberg_etext_18546.jpg) - Illustration by [William Wallace Denslow](https://en.wikipedia.org/wiki/William_Wallace_Denslow), from the [Project Gutenberg](https://en.wikipedia.org/wiki/Project_Gutenberg) [E-book](https://en.wikipedia.org/wiki/E-book) of Denslow's [Mother Goose](https://en.wikipedia.org/wiki/Mother_Goose), by Anonymous, [Denslow's Mother Goose by W. W. Denslow - Ebook](http://www.gutenberg.org/ebooks/18546), [Simple Simon (nursery rhyme) - Wikipedia](https://en.wikipedia.org/wiki/Simple_Simon_%28nursery_rhyme%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Simon](https://www.stmintz.com/ccc/index.php?id=407625) by [Dan Honeycutt](Dan_Honeycutt "Dan Honeycutt"), [CCC](CCC "CCC"), January 26, 2005
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Edmund Berkeley from Wikipedia](https://en.wikipedia.org/wiki/Edmund_Berkeley)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Simple Simon 2](https://commons.wikimedia.org/wiki/File:Simple_Simon_2_-_WW_Denslow_-_Project_Gutenberg_etext_18546.jpg) - Illustration by [William Wallace Denslow](https://en.wikipedia.org/wiki/William_Wallace_Denslow), from the [Project Gutenberg](https://en.wikipedia.org/wiki/Project_Gutenberg) [E-book](https://en.wikipedia.org/wiki/E-book) of Denslow's [Mother Goose](https://en.wikipedia.org/wiki/Mother_Goose), by Anonymous, [Denslow's Mother Goose by W. W. Denslow - Ebook](http://www.gutenberg.org/ebooks/18546), [Simple Simon (nursery rhyme) - Wikipedia](https://en.wikipedia.org/wiki/Simple_Simon_%28nursery_rhyme%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Simon](https://www.stmintz.com/ccc/index.php?id=407625) by [Dan Honeycutt](Dan_Honeycutt "Dan Honeycutt"), [CCC](CCC "CCC"), January 26, 2005
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Edmund Berkeley from Wikipedia](https://en.wikipedia.org/wiki/Edmund_Berkeley)
 
 **[Up one Level](Engines "Engines")**
 

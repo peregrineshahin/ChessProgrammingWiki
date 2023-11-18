@@ -37,14 +37,14 @@ and was also able to win some games against [Fuego](https://www.game-ai-forum.or
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Visiting Scholars — Allen Institute for AI](https://allenai.org/visitors.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Convolutional neural network - Playing Go - Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network#Playing_Go)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Christopher Clark, [Amos Storkey](Amos_Storkey "Amos Storkey") (**2014**). *Teaching Deep Convolutional Neural Networks to Play Go*. [arXiv:1412.3409](http://arxiv.org/abs/1412.3409)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Teaching Deep Convolutional Neural Networks to Play Go](http://computer-go.org/pipermail/computer-go/2014-December/007010.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita"), [The Computer-go Archives](http://computer-go.org/pipermail/computer-go/), December 14, 2014
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Teaching Deep Convolutional Neural Networks to Play Go](http://computer-go.org/pipermail/computer-go/2014-December/007041.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita"), [The Computer-go Archives](http://computer-go.org/pipermail/computer-go/), December 19, 2014
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Why Neural Networks Look Set to Thrash the Best Human Go Players for the First Time](https://www.technologyreview.com/s/533496/why-neural-networks-look-set-to-thrash-the-best-human-go-players-for-the-first-time/) | [MIT Technology Review](https://en.wikipedia.org/wiki/MIT_Technology_Review), December 15, 2014
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Teaching Deep Convolutional Neural Networks to Play Go](http://www.talkchess.com/forum/viewtopic.php?t=54663) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh"), [CCC](CCC "CCC"), December 16, 2014
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Christopher Clark](https://dblp.uni-trier.de/pers/hd/c/Clark:Christopher)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Visiting Scholars — Allen Institute for AI](https://allenai.org/visitors.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Convolutional neural network - Playing Go - Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network#Playing_Go)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Christopher Clark, [Amos Storkey](Amos_Storkey "Amos Storkey") (**2014**). *Teaching Deep Convolutional Neural Networks to Play Go*. [arXiv:1412.3409](http://arxiv.org/abs/1412.3409)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Teaching Deep Convolutional Neural Networks to Play Go](http://computer-go.org/pipermail/computer-go/2014-December/007010.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita"), [The Computer-go Archives](http://computer-go.org/pipermail/computer-go/), December 14, 2014
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Teaching Deep Convolutional Neural Networks to Play Go](http://computer-go.org/pipermail/computer-go/2014-December/007041.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita"), [The Computer-go Archives](http://computer-go.org/pipermail/computer-go/), December 19, 2014
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Why Neural Networks Look Set to Thrash the Best Human Go Players for the First Time](https://www.technologyreview.com/s/533496/why-neural-networks-look-set-to-thrash-the-best-human-go-players-for-the-first-time/) | [MIT Technology Review](https://en.wikipedia.org/wiki/MIT_Technology_Review), December 15, 2014
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Teaching Deep Convolutional Neural Networks to Play Go](http://www.talkchess.com/forum/viewtopic.php?t=54663) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh"), [CCC](CCC "CCC"), December 16, 2014
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Christopher Clark](https://dblp.uni-trier.de/pers/hd/c/Clark:Christopher)
 
 **[Up one level](People "People")**
 

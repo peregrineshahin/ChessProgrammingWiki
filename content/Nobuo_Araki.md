@@ -34,10 +34,10 @@ a Japanese computer scientist, and M.Sc. in 2008 from School of Information Scie
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image captured from [7th Day Image 13](http://www.geocities.jp/hideki_katoh/13days/7th_day/slides/DSCF3131.html), [2008 Gallery](http://www.geocities.jp/hideki_katoh/13days/index.html) by [Hideki Kato](Hideki_Kato "Hideki Kato"), [13th Computer Olympiad](13th_Computer_Olympiad "13th Computer Olympiad")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MC\_ark (ICGA Tournaments) - Description](https://www.game-ai-forum.org/icga-tournaments/program.php?id=528)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2007**). *[Computing Elo Ratings of Move Patterns in the Game of Go](http://remi.coulom.free.fr/Amsterdam2007/)*. [CGW 2007](CGW_2007 "CGW 2007"), [ICGA Journal, Vol. 30, No. 4](ICGA_Journal#30_4 "ICGA Journal"), [pdf](http://remi.coulom.free.fr/Amsterdam2007/icgaj.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Nobuo Araki](https://dblp.uni-trier.de/pers/hd/a/Araki:Nobuo)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image captured from [7th Day Image 13](http://www.geocities.jp/hideki_katoh/13days/7th_day/slides/DSCF3131.html), [2008 Gallery](http://www.geocities.jp/hideki_katoh/13days/index.html) by [Hideki Kato](Hideki_Kato "Hideki Kato"), [13th Computer Olympiad](13th_Computer_Olympiad "13th Computer Olympiad")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MC\_ark (ICGA Tournaments) - Description](https://www.game-ai-forum.org/icga-tournaments/program.php?id=528)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2007**). *[Computing Elo Ratings of Move Patterns in the Game of Go](http://remi.coulom.free.fr/Amsterdam2007/)*. [CGW 2007](CGW_2007 "CGW 2007"), [ICGA Journal, Vol. 30, No. 4](ICGA_Journal#30_4 "ICGA Journal"), [pdf](http://remi.coulom.free.fr/Amsterdam2007/icgaj.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Nobuo Araki](https://dblp.uni-trier.de/pers/hd/a/Araki:Nobuo)
 
 **[Up one Level](People "People")**
 

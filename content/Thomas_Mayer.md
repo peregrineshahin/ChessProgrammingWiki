@@ -58,11 +58,11 @@ to make room for a reconstruction of the [Prussian-era](https://en.wikipedia.org
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image clpped from [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) by Thomas Mayer
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: CCT4 Tao/Quark](https://www.stmintz.com/ccc/index.php?id=210030) by Thomas Mayer, [CCC](CCC "CCC"), January 26, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Quark by Thomas Mayer](http://www.quarkchess.de/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> nickname '[Erichs Lampenladen](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R0706-417,_Berlin,_Palast_der_Republik,_Jugendtanz.jpg)' (Erich's lamp store), referring to [Erich Honecker](https://en.wikipedia.org/wiki/Erich_Honecker) and the foyer lighting with numerous light balls
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [World Chess Championship 2016 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2016)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image clpped from [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) by Thomas Mayer
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: CCT4 Tao/Quark](https://www.stmintz.com/ccc/index.php?id=210030) by Thomas Mayer, [CCC](CCC "CCC"), January 26, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Quark by Thomas Mayer](http://www.quarkchess.de/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> nickname '[Erichs Lampenladen](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R0706-417,_Berlin,_Palast_der_Republik,_Jugendtanz.jpg)' (Erich's lamp store), referring to [Erich Honecker](https://en.wikipedia.org/wiki/Erich_Honecker) and the foyer lighting with numerous light balls
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [World Chess Championship 2016 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2016)
 
 **[Up one level](People "People")**
 

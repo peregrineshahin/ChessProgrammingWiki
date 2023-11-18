@@ -32,8 +32,8 @@ Like minimalist [Edlin](https://en.wikipedia.org/wiki/Edlin) line editor, it foc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chesslin by Red Sector Inc :: pouët.net](http://www.pouet.net/prod.php?which=67226)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Baudsurfer](Olivier_Poudade "Olivier Poudade")/[Red Sector Inc](https://en.wikipedia.org/wiki/Tristar_and_Red_Sector_Incorporated) (**2016**). *[Chesslin bis](http://www.phrack.org/issues/69/4.html#article)*. [Phrack Magazine](https://en.wikipedia.org/wiki/Phrack), Vol. 0x0f, No. 0x45
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chesslin by Red Sector Inc :: pouët.net](http://www.pouet.net/prod.php?which=67226)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Baudsurfer](Olivier_Poudade "Olivier Poudade")/[Red Sector Inc](https://en.wikipedia.org/wiki/Tristar_and_Red_Sector_Incorporated) (**2016**). *[Chesslin bis](http://www.phrack.org/issues/69/4.html#article)*. [Phrack Magazine](https://en.wikipedia.org/wiki/Phrack), Vol. 0x0f, No. 0x45
 
 **[Up one Level](Engines "Engines")**
 

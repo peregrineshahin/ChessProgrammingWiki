@@ -33,9 +33,9 @@ He is author of the [Stockfish](Stockfish "Stockfish") derivative [ShashChess](S
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [amchess · GitHub](https://github.com/amchess)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICCF Player Details - IM Manzo, Andrea](https://www.iccf.com/player?id=241224)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [VitruviusChess | About Us](https://www.vitruviuschess.com/About-Us.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [amchess · GitHub](https://github.com/amchess)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICCF Player Details - IM Manzo, Andrea](https://www.iccf.com/player?id=241224)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [VitruviusChess | About Us](https://www.vitruviuschess.com/About-Us.html)
 
 **[Up one level](People "People")**
 

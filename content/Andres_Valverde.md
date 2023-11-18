@@ -45,10 +45,10 @@ the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Andres Valverde Toresano - Dpto. Comercial | LinkedIn](https://es.linkedin.com/in/andres-valverde-toresano-a142711b)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ECTool](http://rebel13.nl/windows/ectool.html) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [XfccBasic Web Service](http://www.schemingmind.com/xfcc/xfccbasic.asmx) by [Martin Bennedik](index.php?title=Martin_Bennedik&action=edit&redlink=1 "Martin Bennedik (page does not exist)")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dirty Chess Engine](http://dirtychess.com/links.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Andres Valverde Toresano - Dpto. Comercial | LinkedIn](https://es.linkedin.com/in/andres-valverde-toresano-a142711b)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ECTool](http://rebel13.nl/windows/ectool.html) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [XfccBasic Web Service](http://www.schemingmind.com/xfcc/xfccbasic.asmx) by [Martin Bennedik](index.php?title=Martin_Bennedik&action=edit&redlink=1 "Martin Bennedik (page does not exist)")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dirty Chess Engine](http://dirtychess.com/links.php)
 
 **[Up one Level](People "People")**
 

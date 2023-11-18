@@ -359,10 +359,10 @@ bool squaresOnSameDiagonal(int sq1, int sq2) {
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [What is a Klein Bottle?](http://www.kleinbottle.com/whats_a_klein_bottle.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nerius Landys and Shad Roundy Klein Bottle Project](http://www.cs.berkeley.edu/%7Eug/slide/gallery/kleinbottle/index.shtml)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Torus Games](http://www.geometrygames.org/TorusGames/) - players who master the [games](Games "Games") on the [Torus](https://en.wikipedia.org/wiki/Torus) may move on to try them on the more challenging Klein bottle
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [An undetected bug for 10 years](http://talkchess.com/forum3/viewtopic.php?f=7&t=74821) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), August 18, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [What is a Klein Bottle?](http://www.kleinbottle.com/whats_a_klein_bottle.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nerius Landys and Shad Roundy Klein Bottle Project](http://www.cs.berkeley.edu/%7Eug/slide/gallery/kleinbottle/index.shtml)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Torus Games](http://www.geometrygames.org/TorusGames/) - players who master the [games](Games "Games") on the [Torus](https://en.wikipedia.org/wiki/Torus) may move on to try them on the more challenging Klein bottle
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [An undetected bug for 10 years](http://talkchess.com/forum3/viewtopic.php?f=7&t=74821) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), August 18, 2020
 
 **[Up one Level](Chess "Chess")**
 

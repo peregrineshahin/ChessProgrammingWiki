@@ -200,9 +200,9 @@ he elaborates on [x86](X86 "X86") [assembly](Assembly "Assembly"), [board repres
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [LL Chess Game - End of the World Production, LLC.](http://www.theparticle.com/chess.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About Us - End of the World Production, LLC.](http://www.theparticle.com/corp_about_us.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Introduction](http://www.theparticle.com/chess000.html) by Leonid Liberman
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [LL Chess Game - End of the World Production, LLC.](http://www.theparticle.com/chess.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About Us - End of the World Production, LLC.](http://www.theparticle.com/corp_about_us.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Introduction](http://www.theparticle.com/chess000.html) by Leonid Liberman
 
 **[Up one level](People "People")**
 

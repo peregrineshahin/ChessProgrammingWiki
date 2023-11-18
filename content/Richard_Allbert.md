@@ -77,11 +77,11 @@ He was also involved with [BlueFeverSoft's](BlueFeverSoft "BlueFeverSoft") contr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Richard Allbert | LinkedIn](https://www.linkedin.com/in/richard-allbert-81367a110/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Mother/father ?](http://www.talkchess.com/forum3/viewtopic.php?t=49043&start=4) by Richard Allbert, [CCC](CCC "CCC"), August 28, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Mussaurus 0.1-prealpha - a poor man's Vice](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72372&start=33) by Richard Allbert, [CCC](CCC "CCC"), December 02, 2019
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [JSON - Wikipedia](https://en.wikipedia.org/wiki/JSON)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [FICS Help: timeseal](https://www.freechess.org/Help/HelpFiles/timeseal.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Richard Allbert | LinkedIn](https://www.linkedin.com/in/richard-allbert-81367a110/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Mother/father ?](http://www.talkchess.com/forum3/viewtopic.php?t=49043&start=4) by Richard Allbert, [CCC](CCC "CCC"), August 28, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Mussaurus 0.1-prealpha - a poor man's Vice](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72372&start=33) by Richard Allbert, [CCC](CCC "CCC"), December 02, 2019
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [JSON - Wikipedia](https://en.wikipedia.org/wiki/JSON)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [FICS Help: timeseal](https://www.freechess.org/Help/HelpFiles/timeseal.html)
 
 **[Up one Level](People "People")**
 

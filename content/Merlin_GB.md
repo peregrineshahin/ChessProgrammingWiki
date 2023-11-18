@@ -40,9 +40,9 @@ The micro-processor program Merlin X, basically a [Z80](Z80 "Z80") [Assembly](As
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Merlin, from the [Nuremberg Chronicle](https://en.wikipedia.org/wiki/Nuremberg_Chronicle) (1493), by [Hartmann Schedel](https://en.wikipedia.org/wiki/Hartmann_Schedel) (1440-1514), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2000**). *[SUPER-SOMA - Solving Tactical Exchanges in Shogi without Tree Searching](http://link.springer.com/chapter/10.1007/3-540-45579-5_19)*. [CG 2000](CG_2000 "CG 2000")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jeff Rollason](Jeff_Rollason "Jeff Rollason"), [Didzis Cirulis](index.php?title=Didzis_Cirulis&action=edit&redlink=1 "Didzis Cirulis (page does not exist)") (**2005**). *[Treebeard - A new way to do Chess](http://www.aifactory.co.uk/newsletter/2005_02_treebeard_chess.htm)*. [AI Factory](AI_Factory "AI Factory"), Summer 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Merlin, from the [Nuremberg Chronicle](https://en.wikipedia.org/wiki/Nuremberg_Chronicle) (1493), by [Hartmann Schedel](https://en.wikipedia.org/wiki/Hartmann_Schedel) (1440-1514), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2000**). *[SUPER-SOMA - Solving Tactical Exchanges in Shogi without Tree Searching](http://link.springer.com/chapter/10.1007/3-540-45579-5_19)*. [CG 2000](CG_2000 "CG 2000")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jeff Rollason](Jeff_Rollason "Jeff Rollason"), [Didzis Cirulis](index.php?title=Didzis_Cirulis&action=edit&redlink=1 "Didzis Cirulis (page does not exist)") (**2005**). *[Treebeard - A new way to do Chess](http://www.aifactory.co.uk/newsletter/2005_02_treebeard_chess.htm)*. [AI Factory](AI_Factory "AI Factory"), Summer 2005
 
 **[Up one level](Engines "Engines")**
 

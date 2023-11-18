@@ -87,11 +87,11 @@ Contains vocal samples of [God Bless the Child](<https://en.wikipedia.org/wiki/G
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Pocket gopher, [Yellowstone National Park](https://en.wikipedia.org/wiki/Yellowstone_National_Park), [Gillian Bowser](https://source.colostate.edu/research-scientist-gillian-bowser-lauded-commitment-diversity-science/), 1990, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [GopherCheck 0.1.0 released](http://www.talkchess.com/forum/viewtopic.php?t=60378) by [Stephen Lovell](index.php?title=Stephen_Lovell&action=edit&redlink=1 "Stephen Lovell (page does not exist)"), [CCC](CCC "CCC"), June 06, 2016
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Effective Go - The Go Programming Language - Concurrency](https://golang.org/doc/effective_go.html#concurrency)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [gopher_check/bitboard_magic.go at master · stephenjlovell/gopher_check · GitHub](https://github.com/stephenjlovell/gopher_check/blob/master/bitboard_magic.go)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [gopher_check/readme.md at master · stephenjlovell/gopher_check · GitHub](https://github.com/stephenjlovell/gopher_check/blob/master/readme.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Pocket gopher, [Yellowstone National Park](https://en.wikipedia.org/wiki/Yellowstone_National_Park), [Gillian Bowser](https://source.colostate.edu/research-scientist-gillian-bowser-lauded-commitment-diversity-science/), 1990, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [GopherCheck 0.1.0 released](http://www.talkchess.com/forum/viewtopic.php?t=60378) by [Stephen Lovell](index.php?title=Stephen_Lovell&action=edit&redlink=1 "Stephen Lovell (page does not exist)"), [CCC](CCC "CCC"), June 06, 2016
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Effective Go - The Go Programming Language - Concurrency](https://golang.org/doc/effective_go.html#concurrency)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [gopher_check/bitboard_magic.go at master · stephenjlovell/gopher_check · GitHub](https://github.com/stephenjlovell/gopher_check/blob/master/bitboard_magic.go)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [gopher_check/readme.md at master · stephenjlovell/gopher_check · GitHub](https://github.com/stephenjlovell/gopher_check/blob/master/readme.md)
 
 **[Up one Level](Engines "Engines")**
 

@@ -39,14 +39,14 @@ and is member of the editorial board of the International Journal *Web Journal o
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Professor Michael G. Malkovskiy, Image clipped from [Искусственный Интеллект — eSyr's wiki](http://esyr.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%98%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82), by [Syromyatnikov Evgeny Leonidovich](http://esyr.org/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:ESyr01). November 13, 2007
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Department of Algorithmic Languages | CMC MSU](https://cs.msu.ru/en/departments/al)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Journal Of Russian Associaten For Artificial Intelligence - News of Artificial Intelligence](http://www.foibg.com/ijita/vol10/ijita10-1-p18.pdf) (pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Российская ассоциация искусственного интеллекта](http://raai.org/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Мальковский Михаил Георгиевич | ВМК МГУ](https://cs.msu.ru/persons/39)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Victor Zakharov](Victor_Zakharov "Victor Zakharov"), Michael G. Malkovsky, [Vladislav Y. Shchukin](Vladislav_Y._Shchukin "Vladislav Y. Shchukin") (**2016**). *[Compression of underdetermined data in a 7-piece chess table](https://link.springer.com/article/10.3103%2FS0278641916010076)*. [Moscow University Computational Mathematics and Cybernetics](https://www.springer.com/mathematics/journal/11968), Vol. 40, No. 1
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [tablebase compression / academic integrity](http://www.talkchess.com/forum/viewtopic.php?t=60222) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), May 19, 2016
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Michael G. Malkovsky](https://dblp2.uni-trier.de/pers/hd/m/Malkovsky:Michael_G=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Professor Michael G. Malkovskiy, Image clipped from [Искусственный Интеллект — eSyr's wiki](http://esyr.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%98%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82), by [Syromyatnikov Evgeny Leonidovich](http://esyr.org/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:ESyr01). November 13, 2007
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Department of Algorithmic Languages | CMC MSU](https://cs.msu.ru/en/departments/al)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Journal Of Russian Associaten For Artificial Intelligence - News of Artificial Intelligence](http://www.foibg.com/ijita/vol10/ijita10-1-p18.pdf) (pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Российская ассоциация искусственного интеллекта](http://raai.org/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Мальковский Михаил Георгиевич | ВМК МГУ](https://cs.msu.ru/persons/39)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Victor Zakharov](Victor_Zakharov "Victor Zakharov"), Michael G. Malkovsky, [Vladislav Y. Shchukin](Vladislav_Y._Shchukin "Vladislav Y. Shchukin") (**2016**). *[Compression of underdetermined data in a 7-piece chess table](https://link.springer.com/article/10.3103%2FS0278641916010076)*. [Moscow University Computational Mathematics and Cybernetics](https://www.springer.com/mathematics/journal/11968), Vol. 40, No. 1
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [tablebase compression / academic integrity](http://www.talkchess.com/forum/viewtopic.php?t=60222) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), May 19, 2016
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Michael G. Malkovsky](https://dblp2.uni-trier.de/pers/hd/m/Malkovsky:Michael_G=)
 
 **[Up one Level](People "People")**
 

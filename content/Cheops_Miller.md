@@ -45,10 +45,10 @@ The tree [search](Search "Search") is fixed [depth](Depth "Depth") [alpha–beta
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CHEOPS](https://logological.org/cheops) logo by [Jin Wicked](https://jinwicked.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CHEOPS 1.2 -- An AI chess engine -- released on 2015-02-01](https://groups.google.com/d/msg/rec.games.chess.computer/PfEqoxFZ-vI/K_66ofncsRQJ) by [Tristan Miller](index.php?title=Tristan_Miller&action=edit&redlink=1 "Tristan Miller (page does not exist)"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 03, 2015
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CHEOPS | Tristan Miller](https://logological.org/cheops)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CHEOPS | Tristan Miller](https://logological.org/cheops)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CHEOPS](https://logological.org/cheops) logo by [Jin Wicked](https://jinwicked.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CHEOPS 1.2 -- An AI chess engine -- released on 2015-02-01](https://groups.google.com/d/msg/rec.games.chess.computer/PfEqoxFZ-vI/K_66ofncsRQJ) by [Tristan Miller](index.php?title=Tristan_Miller&action=edit&redlink=1 "Tristan Miller (page does not exist)"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 03, 2015
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CHEOPS | Tristan Miller](https://logological.org/cheops)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CHEOPS | Tristan Miller](https://logological.org/cheops)
 
 **[Up one level](Engines "Engines")**
 

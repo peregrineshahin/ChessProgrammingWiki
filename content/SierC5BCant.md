@@ -134,9 +134,9 @@ The [material balance](Material#Balance "Material") is [calculated incrementally
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Badge](https://en.wikipedia.org/wiki/Badge) of rank of Sierżant (Sergeant) of the [Polish Army](https://en.wikipedia.org/wiki/Polish_Land_Forces), [Polish Armed Forces rank insignia - Wikipedia](https://en.wikipedia.org/wiki/Polish_Armed_Forces_rank_insignia), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mariusz Rostek](Mariusz_Rostek "Mariusz Rostek") (**2008**). *[Program grający w szachy](http://strony.toya.net.pl/~sierzant29/nowosci.html)*. (Chess playing programs) Engineering Thesis, [Technical University of Łódź](Technical_University_of_%C5%81%C3%B3d%C5%BA "Technical University of Łódź"), advisor [Maciej Szmit](Maciej_Szmit "Maciej Szmit")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mistrzostwa Polski Programów Szachowych - PGN](http://mpps.maciej.szmit.info/mpps-5/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Badge](https://en.wikipedia.org/wiki/Badge) of rank of Sierżant (Sergeant) of the [Polish Army](https://en.wikipedia.org/wiki/Polish_Land_Forces), [Polish Armed Forces rank insignia - Wikipedia](https://en.wikipedia.org/wiki/Polish_Armed_Forces_rank_insignia), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mariusz Rostek](Mariusz_Rostek "Mariusz Rostek") (**2008**). *[Program grający w szachy](http://strony.toya.net.pl/~sierzant29/nowosci.html)*. (Chess playing programs) Engineering Thesis, [Technical University of Łódź](Technical_University_of_%C5%81%C3%B3d%C5%BA "Technical University of Łódź"), advisor [Maciej Szmit](Maciej_Szmit "Maciej Szmit")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mistrzostwa Polski Programów Szachowych - PGN](http://mpps.maciej.szmit.info/mpps-5/)
 
 **[Up one Level](Engines "Engines")**
 

@@ -26,7 +26,7 @@ As former systems programmer and supervisor at [Cromenco](https://en.wikipedia.o
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> John Urwin (**1979**). *Two New Programs Are Tested*. [Personal Computing, Vol. 3, No. 12](Personal_Computing#3_12 "Personal Computing"), pp. 71
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> John Urwin (**1979**). *Two New Programs Are Tested*. [Personal Computing, Vol. 3, No. 12](Personal_Computing#3_12 "Personal Computing"), pp. 71
 
 **[Up one level](People "People")**
 

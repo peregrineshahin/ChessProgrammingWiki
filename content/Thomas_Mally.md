@@ -52,23 +52,23 @@ On January 07, 2013, at the beginning of a long and snowy midwinter period, Mall
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Erinnerung an Thomas Mally - Seit 7. Jänner ist er abgängig](http://www.wienerzeitung.at/themen_channel/wz_reflexionen/zeitgenossen/557450_Erinnerung-an-Thomas-Mally.html) by [Robert Schediwy](http://de.wikipedia.org/wiki/Robert_Schediwy), [Wiener Zeitung](https://en.wikipedia.org/wiki/Wiener_Zeitung) Online, June 26, 2013, Photo © Helmut Hubeny
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Thomas Mally – Regiowiki](http://regiowiki.at/index.php?title=Thomas_Mally)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Erinnerung an Thomas Mally - Seit 7. Jänner ist er abgängig](http://www.wienerzeitung.at/themen_channel/wz_reflexionen/zeitgenossen/557450_Erinnerung-an-Thomas-Mally.html) by [Robert Schediwy](http://de.wikipedia.org/wiki/Robert_Schediwy), [Wiener Zeitung](https://en.wikipedia.org/wiki/Wiener_Zeitung) Online, June 26, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Thomas Mally (**1992**). *Wappler Lebt - Der Nimzo Schock und die Folgen*. [Modul](Modul "Modul") 1/1992
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Erinnerung an Thomas Mally - Seit 7. Jänner ist er abgängig](http://www.wienerzeitung.at/themen_channel/wz_reflexionen/zeitgenossen/557450_Erinnerung-an-Thomas-Mally.html) by [Robert Schediwy](http://de.wikipedia.org/wiki/Robert_Schediwy), [Wiener Zeitung](https://en.wikipedia.org/wiki/Wiener_Zeitung) Online, June 26, 2013
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Thomas Mally – Regiowiki](http://regiowiki.at/index.php?title=Thomas_Mally)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Thomas Mally ist gestorben](http://forum.computerschach.de/cgi-bin/mwf/topic_show.pl?tid=7098) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CSS Forum](Computer_Chess_Forums "Computer Chess Forums"), April 16, 2014
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> pdfs hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [VEB Mikroelektronik Erfurt - Chess-Master Diamond](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1987%20%5BH-1501%5D%20VEB%20Mikroelektronik%20Erfurt%20-%20Chess-Master%20Diamond.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Chess-Master Diamond](Chess-Master#ChessMasterDiamond "Chess-Master")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Mein erster Mephisto](http://www.schach-computer.info/wiki/index.php/Mein_erster_Mephisto), [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Braille from Wikipedia](https://en.wikipedia.org/wiki/Braille)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Socratic method from Wikipedia](https://en.wikipedia.org/wiki/Socratic_method)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Thalia-Theatre](https://en.wikipedia.org/wiki/Thalia_Theatre), [Vienna](https://en.wikipedia.org/wiki/Vienna) (1856 - 1870)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Thalia-Theater (Wien) Wikipedia.de](http://de.wikipedia.org/wiki/Thalia-Theater_%28Wien%29) (German)
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Bilder Thaliatheater - Austria-Forum](http://www.austria-lexikon.at/af/AEIOU/Thaliatheater/Bilder_Thaliatheater)
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Thalia (Muse) from Wikipedia](https://en.wikipedia.org/wiki/Thalia_%28Muse%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Erinnerung an Thomas Mally - Seit 7. Jänner ist er abgängig](http://www.wienerzeitung.at/themen_channel/wz_reflexionen/zeitgenossen/557450_Erinnerung-an-Thomas-Mally.html) by [Robert Schediwy](http://de.wikipedia.org/wiki/Robert_Schediwy), [Wiener Zeitung](https://en.wikipedia.org/wiki/Wiener_Zeitung) Online, June 26, 2013, Photo © Helmut Hubeny
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Thomas Mally – Regiowiki](http://regiowiki.at/index.php?title=Thomas_Mally)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Erinnerung an Thomas Mally - Seit 7. Jänner ist er abgängig](http://www.wienerzeitung.at/themen_channel/wz_reflexionen/zeitgenossen/557450_Erinnerung-an-Thomas-Mally.html) by [Robert Schediwy](http://de.wikipedia.org/wiki/Robert_Schediwy), [Wiener Zeitung](https://en.wikipedia.org/wiki/Wiener_Zeitung) Online, June 26, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Thomas Mally (**1992**). *Wappler Lebt - Der Nimzo Schock und die Folgen*. [Modul](Modul "Modul") 1/1992
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Erinnerung an Thomas Mally - Seit 7. Jänner ist er abgängig](http://www.wienerzeitung.at/themen_channel/wz_reflexionen/zeitgenossen/557450_Erinnerung-an-Thomas-Mally.html) by [Robert Schediwy](http://de.wikipedia.org/wiki/Robert_Schediwy), [Wiener Zeitung](https://en.wikipedia.org/wiki/Wiener_Zeitung) Online, June 26, 2013
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Thomas Mally – Regiowiki](http://regiowiki.at/index.php?title=Thomas_Mally)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Thomas Mally ist gestorben](http://forum.computerschach.de/cgi-bin/mwf/topic_show.pl?tid=7098) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CSS Forum](Computer_Chess_Forums "Computer Chess Forums"), April 16, 2014
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> pdfs hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [VEB Mikroelektronik Erfurt - Chess-Master Diamond](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1987%20%5BH-1501%5D%20VEB%20Mikroelektronik%20Erfurt%20-%20Chess-Master%20Diamond.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Chess-Master Diamond](Chess-Master#ChessMasterDiamond "Chess-Master")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Mein erster Mephisto](http://www.schach-computer.info/wiki/index.php/Mein_erster_Mephisto), [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Braille from Wikipedia](https://en.wikipedia.org/wiki/Braille)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Socratic method from Wikipedia](https://en.wikipedia.org/wiki/Socratic_method)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Thalia-Theatre](https://en.wikipedia.org/wiki/Thalia_Theatre), [Vienna](https://en.wikipedia.org/wiki/Vienna) (1856 - 1870)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Thalia-Theater (Wien) Wikipedia.de](http://de.wikipedia.org/wiki/Thalia-Theater_%28Wien%29) (German)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Bilder Thaliatheater - Austria-Forum](http://www.austria-lexikon.at/af/AEIOU/Thaliatheater/Bilder_Thaliatheater)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Thalia (Muse) from Wikipedia](https://en.wikipedia.org/wiki/Thalia_%28Muse%29)
 
 **[Up one level](People "People")**
 

@@ -138,18 +138,18 @@ Zvonko Vranesic represented Canada at five [Chess Olympiads](https://en.wikipedi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zvonko Vranesic Croatian-Canadian International Chess Master and Professor at the University of Toronto](http://www.croatia.org/crown/articles/10863/1/Zvonko-Vranesic-Croatian-Canadian-International-Chess-Master-and-Professor-at-the-University-of-Toronto.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Biography - Z.G. Vranesic](http://www.eecg.toronto.edu/%7Ezvonko/bio.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Professor Stephen Brown - University of Toronto](http://www.eecg.toronto.edu/%7Ebrown/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Michael Valenti](Michael_Valenti "Michael Valenti") (**1974**). *CHUTE I, An Easily Modifiable Chess Playing Program*. M.A.Sc. thesis, Depature of Electrical Engineering, [University of Toronto](University_of_Toronto "University of Toronto")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Michael Valenti](Michael_Valenti "Michael Valenti"), Zvonko Vranesic (**1977**). *[Experiences with CHUTE](http://portal.acm.org/citation.cfm?id=810241)*. Proceedings of the [ACM](ACM "ACM") conference
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Zvonko Vranesic - Olympiads](https://en.wikipedia.org/wiki/Zvonko_Vranesic#Olympiads)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Zvonko Vranesic from Wikipedia](https://en.wikipedia.org/wiki/Zvonko_Vranesic)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Dr. Zvonko Vranesic vs Leonid Stein](http://www.chessgames.com/perl/chessgame?gid=1132287,) from [chessgames.com](http://www.chessgames.com/index.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [David Neil Lawrence Levy vs Dr. Zvonko Vranesic](http://www.chessgames.com/perl/chessgame?gid=1434722,) from [chessgames.com](http://www.chessgames.com/index.html)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [dblp: Zvonko G. Vranesic](https://dblp.uni-trier.de/pers/hd/v/Vranesic:Zvonko_G=)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Reed–Muller code from Wikipedia](https://en.wikipedia.org/wiki/Reed%E2%80%93Muller_code)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Documentation on the NUMAchine Multiprocessor](http://www.eecg.toronto.edu/parallel/parallel/numadocs.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zvonko Vranesic Croatian-Canadian International Chess Master and Professor at the University of Toronto](http://www.croatia.org/crown/articles/10863/1/Zvonko-Vranesic-Croatian-Canadian-International-Chess-Master-and-Professor-at-the-University-of-Toronto.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Biography - Z.G. Vranesic](http://www.eecg.toronto.edu/%7Ezvonko/bio.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Professor Stephen Brown - University of Toronto](http://www.eecg.toronto.edu/%7Ebrown/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Michael Valenti](Michael_Valenti "Michael Valenti") (**1974**). *CHUTE I, An Easily Modifiable Chess Playing Program*. M.A.Sc. thesis, Depature of Electrical Engineering, [University of Toronto](University_of_Toronto "University of Toronto")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Michael Valenti](Michael_Valenti "Michael Valenti"), Zvonko Vranesic (**1977**). *[Experiences with CHUTE](http://portal.acm.org/citation.cfm?id=810241)*. Proceedings of the [ACM](ACM "ACM") conference
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Zvonko Vranesic - Olympiads](https://en.wikipedia.org/wiki/Zvonko_Vranesic#Olympiads)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Zvonko Vranesic from Wikipedia](https://en.wikipedia.org/wiki/Zvonko_Vranesic)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Dr. Zvonko Vranesic vs Leonid Stein](http://www.chessgames.com/perl/chessgame?gid=1132287,) from [chessgames.com](http://www.chessgames.com/index.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [David Neil Lawrence Levy vs Dr. Zvonko Vranesic](http://www.chessgames.com/perl/chessgame?gid=1434722,) from [chessgames.com](http://www.chessgames.com/index.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Zvonko G. Vranesic](https://dblp.uni-trier.de/pers/hd/v/Vranesic:Zvonko_G=)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Reed–Muller code from Wikipedia](https://en.wikipedia.org/wiki/Reed%E2%80%93Muller_code)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Documentation on the NUMAchine Multiprocessor](http://www.eecg.toronto.edu/parallel/parallel/numadocs.html)
 
 **[Up one level](People "People")**
 

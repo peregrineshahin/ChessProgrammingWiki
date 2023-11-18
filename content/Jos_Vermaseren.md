@@ -70,13 +70,13 @@ a Dutch [theorecial physicist](https://en.wikipedia.org/wiki/Theoretical_physics
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nikhef researcher Jos Vermaseren receives prestigious ERC Advanced Grant](https://www.nikhef.nl/generalstorage/tt-news/nieuws/article/nikhef-researcher-jos-vermaseren-receives-prestigious-erc-advanced-grant/), December 17, 2012
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [World's most powerful symbolic manipulation computer program FORM is now available as open source](http://www.fom.nl/live/english/news/artikel.pag?objectnumber=131866), [Foundation for Fundamental Research on Matter](http://www.fom.nl/live/english/home.pag), December 01, 2010
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The FORM home site](http://www.nikhef.nl/~form/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The HEPGAME project](https://www.nikhef.nl/~form/maindir/HEPgame/HEPgame.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [HEPGAME | Nikhef/Leiden University](http://hepgame.org/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Nikhef researcher Jos Vermaseren receives prestigious ERC Advanced Grant](https://www.nikhef.nl/generalstorage/tt-news/nieuws/article/nikhef-researcher-jos-vermaseren-receives-prestigious-erc-advanced-grant/), December 17, 2012
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Jos Vermaseren](https://dblp.uni-trier.de/pers/hd/v/Vermaseren:J=_A=_M=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nikhef researcher Jos Vermaseren receives prestigious ERC Advanced Grant](https://www.nikhef.nl/generalstorage/tt-news/nieuws/article/nikhef-researcher-jos-vermaseren-receives-prestigious-erc-advanced-grant/), December 17, 2012
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [World's most powerful symbolic manipulation computer program FORM is now available as open source](http://www.fom.nl/live/english/news/artikel.pag?objectnumber=131866), [Foundation for Fundamental Research on Matter](http://www.fom.nl/live/english/home.pag), December 01, 2010
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The FORM home site](http://www.nikhef.nl/~form/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The HEPGAME project](https://www.nikhef.nl/~form/maindir/HEPgame/HEPgame.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [HEPGAME | Nikhef/Leiden University](http://hepgame.org/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Nikhef researcher Jos Vermaseren receives prestigious ERC Advanced Grant](https://www.nikhef.nl/generalstorage/tt-news/nieuws/article/nikhef-researcher-jos-vermaseren-receives-prestigious-erc-advanced-grant/), December 17, 2012
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Jos Vermaseren](https://dblp.uni-trier.de/pers/hd/v/Vermaseren:J=_A=_M=)
 
 **[Up one level](People "People")**
 

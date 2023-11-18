@@ -21,8 +21,8 @@ Chess Fighter is based on the ideas of [AlphaZero](AlphaZero "AlphaZero"), and a
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Fighter Neural Net](http://www.talkchess.com/forum3/viewtopic.php?t=70206) by [Alexander Lim](index.php?title=Alexander_Lim&action=edit&redlink=1 "Alexander Lim (page does not exist)"), [CCC](CCC "CCC"), March 15, 2019
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - davisking/dlib: A toolkit for making real world machine learning and data analysis applications in C++](https://github.com/davisking/dlib)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Fighter Neural Net](http://www.talkchess.com/forum3/viewtopic.php?t=70206) by [Alexander Lim](index.php?title=Alexander_Lim&action=edit&redlink=1 "Alexander Lim (page does not exist)"), [CCC](CCC "CCC"), March 15, 2019
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - davisking/dlib: A toolkit for making real world machine learning and data analysis applications in C++](https://github.com/davisking/dlib)
 
 **[Up one level](Engines "Engines")**
 

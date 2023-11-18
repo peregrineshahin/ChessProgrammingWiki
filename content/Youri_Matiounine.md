@@ -38,12 +38,12 @@ an American [actuary](https://en.wikipedia.org/wiki/Actuary) at [New York Life I
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Youri Matiounine | LinkedIn](https://www.linkedin.com/pub/youri-matiounine/5/67/704)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [List of Top Othello/ Reversi Programs - Wikipedia](https://en.wikipedia.org/wiki/Computer_Othello#List_of_Top_Othello.2F_Reversi_Programs)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ymatioun - code of YMATIOUN Othello bot - Google Project Hosting](https://code.google.com/p/ymatioun/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [new engine - Fizbo - could you please test it?](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=7523) by Youri Matiounine, [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), May 07, 2014
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Fizbo 2 sources just got released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72021) by Damir, [CCC](CCC "CCC"), October 06, 2019
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [GitHub - MoonstoneLight/Fizbo-Chess: Original codes of Fizbo Chess](https://github.com/MoonstoneLight/Fizbo-Chess). Thanks to original author Youri Matiounine
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Youri Matiounine | LinkedIn](https://www.linkedin.com/pub/youri-matiounine/5/67/704)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [List of Top Othello/ Reversi Programs - Wikipedia](https://en.wikipedia.org/wiki/Computer_Othello#List_of_Top_Othello.2F_Reversi_Programs)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ymatioun - code of YMATIOUN Othello bot - Google Project Hosting](https://code.google.com/p/ymatioun/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [new engine - Fizbo - could you please test it?](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=7523) by Youri Matiounine, [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), May 07, 2014
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fizbo 2 sources just got released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72021) by Damir, [CCC](CCC "CCC"), October 06, 2019
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GitHub - MoonstoneLight/Fizbo-Chess: Original codes of Fizbo Chess](https://github.com/MoonstoneLight/Fizbo-Chess). Thanks to original author Youri Matiounine
 
 **[Up one Level](People "People")**
 

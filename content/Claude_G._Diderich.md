@@ -42,11 +42,11 @@ His professional interests include [combinatorial optimization](https://en.wikip
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [innovate.d - Your Partner for Business Model Innovation, Strategy Design, and Digital Transformation](https://www.innovate-d.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [innovate.d - Your Partner for Business Model Innovation, Strategy Design, and Digital Transformation](https://www.innovate-d.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Claude Diderich's homepage](https://www.sigmadream.com/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Claude G. Diderich](https://dblp.uni-trier.de/pers/hd/d/Diderich:Claude_G=)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Claude Diderich's publications](https://www.sigmadream.com/papers.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [innovate.d - Your Partner for Business Model Innovation, Strategy Design, and Digital Transformation](https://www.innovate-d.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [innovate.d - Your Partner for Business Model Innovation, Strategy Design, and Digital Transformation](https://www.innovate-d.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Claude Diderich's homepage](https://www.sigmadream.com/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Claude G. Diderich](https://dblp.uni-trier.de/pers/hd/d/Diderich:Claude_G=)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Claude Diderich's publications](https://www.sigmadream.com/papers.html)
 
 **[Up one level](People "People")**
 

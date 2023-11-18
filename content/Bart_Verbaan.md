@@ -14,8 +14,8 @@ a Dutch chess player <a id="cite-note-1" href="#cite-ref-1">[1]</a>, computer ch
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [KNSB Rating Informatie - B.M. (Bart) Verbaan](http://xaa.dohd.org/rating/spelers.php?lidnr=7069667&listid=101)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [C.S.V.N. Nieuws archief](http://old.csvn.nl/nieuwsarchief.html), Juli 25, 2001 (Dutch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [KNSB Rating Informatie - B.M. (Bart) Verbaan](http://xaa.dohd.org/rating/spelers.php?lidnr=7069667&listid=101)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [C.S.V.N. Nieuws archief](http://old.csvn.nl/nieuwsarchief.html), Juli 25, 2001 (Dutch)
 
 **[Up one level](People "People")**
 

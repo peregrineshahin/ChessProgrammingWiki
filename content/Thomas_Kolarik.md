@@ -39,10 +39,10 @@ an American graduated physicist from [University of Maryland, Baltimore County](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Thomas Kolarik at UMBC, Photo Courtesy Thomas Kolarik, October 16, 2015
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gerald D. Mahan](http://www.phys.psu.edu/people/gdm12) (**2009**). *[Quantum Mechanics in a Nutshell](http://press.princeton.edu/titles/8965.html)*. [Princeton University Press](https://en.wikipedia.org/wiki/Princeton_University_Press)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [UMBC Club Tennis](http://www.umbc.edu/studentlife/orgs/tennis/ladders.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nirvanachess](http://nirvanachess.blogspot.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Thomas Kolarik at UMBC, Photo Courtesy Thomas Kolarik, October 16, 2015
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gerald D. Mahan](http://www.phys.psu.edu/people/gdm12) (**2009**). *[Quantum Mechanics in a Nutshell](http://press.princeton.edu/titles/8965.html)*. [Princeton University Press](https://en.wikipedia.org/wiki/Princeton_University_Press)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [UMBC Club Tennis](http://www.umbc.edu/studentlife/orgs/tennis/ladders.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nirvanachess](http://nirvanachess.blogspot.com/)
 
 **[Up one level](People "People")**
 

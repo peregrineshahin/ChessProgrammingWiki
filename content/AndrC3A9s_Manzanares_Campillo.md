@@ -20,7 +20,7 @@ a Spanish software developer, chess player and computer chess programmer. He is 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Atlas - Home](https://sites.google.com/site/atlaschess/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Atlas - Home](https://sites.google.com/site/atlaschess/)
 
 **[Up one Level](People "People")**
 

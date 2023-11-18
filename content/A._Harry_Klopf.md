@@ -35,15 +35,15 @@ an American senior scientist for [machine intelligence](Artificial_Intelligence 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Leemon C. Baird III](http://dblp.uni-trier.de/pers/hd/b/Baird_III:Leemon_C=), [Mance E. Harmon](http://dblp.uni-trier.de/pers/hd/h/Harmon:Mance_E=), A. Harry Klopf (**1996**). *Reinforcement Learning: An Alternative Approach to Machine Intelligence*. [pdf](http://www.leemon.com/papers/1996bhk.pdf)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> "About the Authors" from [Leemon C. Baird III](http://dblp.uni-trier.de/pers/hd/b/Baird_III:Leemon_C=), [Mance E. Harmon](http://dblp.uni-trier.de/pers/hd/h/Harmon:Mance_E=), A. Harry Klopf (**1996**). *Reinforcement Learning: An Alternative Approach to Machine Intelligence*. [pdf](http://www.leemon.com/papers/1996bhk.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> A. Harry Klopf (**1972**). *Brain Function and Adaptive Systems - A Heterostatic Theory*. [Air Force Cambridge Research Laboratories](https://en.wikipedia.org/wiki/Air_Force_Cambridge_Research_Laboratories), Special Reports, No. 133, [pdf](http://www.dtic.mil/dtic/tr/fulltext/u2/742259.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Arthur Samuel](Arthur_Samuel "Arthur Samuel") (**1959**). *[Some Studies in Machine Learning Using the Game of Checkers](http://domino.watson.ibm.com/tchjr/journalindex.nsf/600cc5649e2871db852568150060213c/39a870213169f45685256bfa00683d74!OpenDocument)*. IBM Journal July 1959
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a>  [Richard Sutton](Richard_Sutton "Richard Sutton"), [Andrew Barto](Andrew_Barto "Andrew Barto") (**1998**). *[Reinforcement Learning: An Introduction](http://www.incompleteideas.net/sutton/book/the-book.html)*. [MIT Press](https://en.wikipedia.org/wiki/MIT_Press), [6.10 Bibliographical and Historical Remarks](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/node70.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: A. Harry Klopf](http://dblp.uni-trier.de/pers/hd/k/Klopf:A=_Harry)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a>  [Heterostasis from Wikipedia](https://en.wikipedia.org/wiki/Heterostasis_%28cybernetics%29)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Hedonism from Wikipedia](https://en.wikipedia.org/wiki/Hedonism)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Classical conditioning from Wikipedia](https://en.wikipedia.org/wiki/Classical_conditioning)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Leemon C. Baird III](http://dblp.uni-trier.de/pers/hd/b/Baird_III:Leemon_C=), [Mance E. Harmon](http://dblp.uni-trier.de/pers/hd/h/Harmon:Mance_E=), A. Harry Klopf (**1996**). *Reinforcement Learning: An Alternative Approach to Machine Intelligence*. [pdf](http://www.leemon.com/papers/1996bhk.pdf)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> "About the Authors" from [Leemon C. Baird III](http://dblp.uni-trier.de/pers/hd/b/Baird_III:Leemon_C=), [Mance E. Harmon](http://dblp.uni-trier.de/pers/hd/h/Harmon:Mance_E=), A. Harry Klopf (**1996**). *Reinforcement Learning: An Alternative Approach to Machine Intelligence*. [pdf](http://www.leemon.com/papers/1996bhk.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> A. Harry Klopf (**1972**). *Brain Function and Adaptive Systems - A Heterostatic Theory*. [Air Force Cambridge Research Laboratories](https://en.wikipedia.org/wiki/Air_Force_Cambridge_Research_Laboratories), Special Reports, No. 133, [pdf](http://www.dtic.mil/dtic/tr/fulltext/u2/742259.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Arthur Samuel](Arthur_Samuel "Arthur Samuel") (**1959**). *[Some Studies in Machine Learning Using the Game of Checkers](http://domino.watson.ibm.com/tchjr/journalindex.nsf/600cc5649e2871db852568150060213c/39a870213169f45685256bfa00683d74!OpenDocument)*. IBM Journal July 1959
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a>  [Richard Sutton](Richard_Sutton "Richard Sutton"), [Andrew Barto](Andrew_Barto "Andrew Barto") (**1998**). *[Reinforcement Learning: An Introduction](http://www.incompleteideas.net/sutton/book/the-book.html)*. [MIT Press](https://en.wikipedia.org/wiki/MIT_Press), [6.10 Bibliographical and Historical Remarks](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/node70.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: A. Harry Klopf](http://dblp.uni-trier.de/pers/hd/k/Klopf:A=_Harry)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a>  [Heterostasis from Wikipedia](https://en.wikipedia.org/wiki/Heterostasis_%28cybernetics%29)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Hedonism from Wikipedia](https://en.wikipedia.org/wiki/Hedonism)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Classical conditioning from Wikipedia](https://en.wikipedia.org/wiki/Classical_conditioning)
 
 **[Up one level](People "People")**
 

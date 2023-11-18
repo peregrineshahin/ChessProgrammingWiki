@@ -48,7 +48,7 @@ fxg3 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [12-1986, toernooibulletin van het Nederlands kampioenschap computerschaak 1986.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1986,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201986.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [12-1986, toernooibulletin van het Nederlands kampioenschap computerschaak 1986.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1986,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201986.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
 
 **[Up one level](Engines "Engines")**
 

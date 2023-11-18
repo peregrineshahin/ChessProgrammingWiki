@@ -46,13 +46,13 @@ As undergraduate at [Harvard University](Harvard_University "Harvard University"
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bruce Leverett | LinkedIn](https://www.linkedin.com/in/bruce-leverett-8704a834/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Leverett, Bruce W FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=2002906)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Bruce W. Leverett (**1981**). *Register allocation in optimizing compilers*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), advisor [William A. Wulf](Mathematician#WiWulf "Mathematician")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Sailesh Chutani](https://dblp.uni-trier.de/pers/hd/c/Chutani:Sailesh.html), [Owen T. Anderson](https://dblp.uni-trier.de/pers/hd/a/Anderson:Owen_T=.html), [Michael L. Kazar](https://en.wikipedia.org/wiki/Michael_L._Kazar), Bruce W. Leverett, [W. Anthony Mason](https://dblp.uni-trier.de/pers/hd/m/Mason:W=_Anthony.html), [Robert N. Sidebotham](https://dblp.uni-trier.de/pers/hd/s/Sidebotham:Robert_N=.html) (**1992**). *The Episode File System*. [Transarc](https://en.wikipedia.org/wiki/Transarc), [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.6439)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Pittsburgh boasts top chess players who are hip to the squares - Pittsburgh Tribune-Review](https://archive.triblive.com/news/pittsburgh-boasts-top-chess-players-who-are-hip-to-the-squares-2/) by Craig Smith, January 9, 2011
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Bruce W. Leverett](https://dblp.uni-trier.de/pers/hd/l/Leverett:Bruce_W=.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [BLISS from Wikipedia](https://en.wikipedia.org/wiki/BLISS)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bruce Leverett | LinkedIn](https://www.linkedin.com/in/bruce-leverett-8704a834/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Leverett, Bruce W FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=2002906)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Bruce W. Leverett (**1981**). *Register allocation in optimizing compilers*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), advisor [William A. Wulf](Mathematician#WiWulf "Mathematician")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Sailesh Chutani](https://dblp.uni-trier.de/pers/hd/c/Chutani:Sailesh.html), [Owen T. Anderson](https://dblp.uni-trier.de/pers/hd/a/Anderson:Owen_T=.html), [Michael L. Kazar](https://en.wikipedia.org/wiki/Michael_L._Kazar), Bruce W. Leverett, [W. Anthony Mason](https://dblp.uni-trier.de/pers/hd/m/Mason:W=_Anthony.html), [Robert N. Sidebotham](https://dblp.uni-trier.de/pers/hd/s/Sidebotham:Robert_N=.html) (**1992**). *The Episode File System*. [Transarc](https://en.wikipedia.org/wiki/Transarc), [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.6439)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Pittsburgh boasts top chess players who are hip to the squares - Pittsburgh Tribune-Review](https://archive.triblive.com/news/pittsburgh-boasts-top-chess-players-who-are-hip-to-the-squares-2/) by Craig Smith, January 9, 2011
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Bruce W. Leverett](https://dblp.uni-trier.de/pers/hd/l/Leverett:Bruce_W=.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [BLISS from Wikipedia](https://en.wikipedia.org/wiki/BLISS)
 
 **[Up one level](People "People")**
 

@@ -34,11 +34,11 @@ Heiner Matthias explaining the drawing strategy in [Ikarus](Ikarus "Ikarus") vs.
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from a former site of [LSV/Turm Lippstadt](http://www.lsv-turm.de/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Heiner Matthias' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=71)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html), Photos by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Living Zweihirn, Photo from the former [IPCCC 2000 Homepage](http://wwwcs.uni-paderborn.de/%7EIPCCC/ipccc2000.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [IPCCC 2000 Gallery](http://wwwcs.uni-paderborn.de/%7EIPCCC/IPCCC2000/gallery1.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from a former site of [LSV/Turm Lippstadt](http://www.lsv-turm.de/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Heiner Matthias' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=71)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html), Photos by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Living Zweihirn, Photo from the former [IPCCC 2000 Homepage](http://wwwcs.uni-paderborn.de/%7EIPCCC/ipccc2000.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [IPCCC 2000 Gallery](http://wwwcs.uni-paderborn.de/%7EIPCCC/IPCCC2000/gallery1.html)
 
 **[Up one level](People "People")**
 

@@ -59,10 +59,10 @@ a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [abstract strategy
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [IigGameCenter :: Clobber](http://www.iggamecenter.com/info/en/clobber.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Schloss Dagstuhl : Seminar Homepage](http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=02081)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Clobber ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/game.php?id=14)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computer Olympiad 2011 - Clobber](http://www.althofer.de/clobber-2011.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [IigGameCenter :: Clobber](http://www.iggamecenter.com/info/en/clobber.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Schloss Dagstuhl : Seminar Homepage](http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=02081)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Clobber ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/game.php?id=14)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computer Olympiad 2011 - Clobber](http://www.althofer.de/clobber-2011.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
 
 **[Up one Level](Games "Games")**
 

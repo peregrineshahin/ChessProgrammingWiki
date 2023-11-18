@@ -33,10 +33,10 @@ Acornsoft Chess (V2.1) [2D Graphics Board](2D_Graphics_Board "2D Graphics Board"
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess for BBC Micro (1983)](https://www.mobygames.com/game/chess_acornsoft) [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Interview With Nick Pelling, AKA Orlando M Pilchard - The BBC Games Archive](http://www.beebgames.com/npinterv.php) (2006)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Chess for BBC Micro (1983)](http://www.mobygames.com/game/chess_acornsoft) [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess (V2.1) - Complete BBC Games Archive](http://bbcmicro.co.uk/game.php?id=924)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess for BBC Micro (1983)](https://www.mobygames.com/game/chess_acornsoft) [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Interview With Nick Pelling, AKA Orlando M Pilchard - The BBC Games Archive](http://www.beebgames.com/npinterv.php) (2006)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Chess for BBC Micro (1983)](http://www.mobygames.com/game/chess_acornsoft) [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess (V2.1) - Complete BBC Games Archive](http://bbcmicro.co.uk/game.php?id=924)
 
 **[Up one Level](Engines "Engines")**
 

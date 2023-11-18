@@ -161,16 +161,16 @@ bxc5 47.a4 a5 48.Kf3 Kg7 49.Rh3 Kf6 50.Rh5 Kg6 51.Rh8 Kf6 52.Ke4 Ke6
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Schach from Wikipedia.de](http://de.wikipedia.org/wiki/Schach) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Persian](https://en.wikipedia.org/wiki/Persian_people) youth playing chess with two of his suitors. Illustration to the [Haft Awrang](https://en.wikipedia.org/wiki/Haft_Awrang) of [Nur ad-Dīn Abd ar-Rahmān Jāmī](https://en.wikipedia.org/wiki/Jami), in the story *A Father Advises his Son About Love.* [Freer](https://en.wikipedia.org/wiki/Freer_Gallery_of_Art) and [Sackler Galleries](https://en.wikipedia.org/wiki/Arthur_M._Sackler_Gallery), [The Smithsonian Institution](https://en.wikipedia.org/wiki/Smithsonian_Institution), [Washington, D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Fifteenth ACM Computer Chess Championship, San Francisco California, October 7-9, 1984](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6c9575), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1984_15th_NACCC/1984%20NACCC.062303012.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Matthias Engelbach - Profile](http://www.xing.com/profile/Matthias_Engelbach), [XING](https://en.wikipedia.org/wiki/XING)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The chess games of Schach 2 3](http://www.chessgames.com/perl/chessplayer?pid=64934) from [Chessgames.com](https://en.wikipedia.org/wiki/Chessgames.com)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Schach 3.0](https://www.stmintz.com/ccc/index.php?id=222098) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), April 08, 2002
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Schach's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=187)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Linz 1980 - Chess - Round 4 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=68&round=4&id=2)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Cologne 1986 - Chess - Round 1 - Game 10 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=1&id=10)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Jakarta 1996 - Chess - Round 1 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=55&round=1&id=6)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Schach from Wikipedia.de](http://de.wikipedia.org/wiki/Schach) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Persian](https://en.wikipedia.org/wiki/Persian_people) youth playing chess with two of his suitors. Illustration to the [Haft Awrang](https://en.wikipedia.org/wiki/Haft_Awrang) of [Nur ad-Dīn Abd ar-Rahmān Jāmī](https://en.wikipedia.org/wiki/Jami), in the story *A Father Advises his Son About Love.* [Freer](https://en.wikipedia.org/wiki/Freer_Gallery_of_Art) and [Sackler Galleries](https://en.wikipedia.org/wiki/Arthur_M._Sackler_Gallery), [The Smithsonian Institution](https://en.wikipedia.org/wiki/Smithsonian_Institution), [Washington, D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Fifteenth ACM Computer Chess Championship, San Francisco California, October 7-9, 1984](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6c9575), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1984_15th_NACCC/1984%20NACCC.062303012.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Matthias Engelbach - Profile](http://www.xing.com/profile/Matthias_Engelbach), [XING](https://en.wikipedia.org/wiki/XING)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The chess games of Schach 2 3](http://www.chessgames.com/perl/chessplayer?pid=64934) from [Chessgames.com](https://en.wikipedia.org/wiki/Chessgames.com)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Schach 3.0](https://www.stmintz.com/ccc/index.php?id=222098) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), April 08, 2002
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Schach's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=187)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Linz 1980 - Chess - Round 4 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=68&round=4&id=2)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Cologne 1986 - Chess - Round 1 - Game 10 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=1&id=10)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Jakarta 1996 - Chess - Round 1 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=55&round=1&id=6)
 
 **[Up one level](Engines "Engines")**
 

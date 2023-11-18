@@ -29,9 +29,9 @@ a German chess programmer and chess player <a id="cite-note-2" href="#cite-ref-2
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Markus Gille at [WCCC 1995](WCCC_1995 "WCCC 1995"). Image clipped from [ICCA Journal, Vol. 18, No. 3](ICGA_Journal#18_3 "ICGA Journal"), pp. 178, Photo courtesy by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ahnengalerie | Schachklub Durlach - Die Zweite 1996](http://www.schachklub-durlach.de/node/416), [Durlach from Wikipedia](https://en.wikipedia.org/wiki/Durlach)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) Photos by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Markus Gille at [WCCC 1995](WCCC_1995 "WCCC 1995"). Image clipped from [ICCA Journal, Vol. 18, No. 3](ICGA_Journal#18_3 "ICGA Journal"), pp. 178, Photo courtesy by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ahnengalerie | Schachklub Durlach - Die Zweite 1996](http://www.schachklub-durlach.de/node/416), [Durlach from Wikipedia](https://en.wikipedia.org/wiki/Durlach)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) Photos by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
 
 **[Up one level](People "People")**
 

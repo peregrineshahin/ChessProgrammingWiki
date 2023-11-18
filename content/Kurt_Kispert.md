@@ -31,10 +31,10 @@ which was and is an inspiration for many computer chess lovers.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [III. D.A.CH Oldie-Computer-Turnier 2003 Kaufbeuren | Kurt Kispert (A-Wien)](http://www.schachcomputer.at/kaufbeu3.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [D.A.CH-Oldie-Tournaments](http://www.schachcomputer.at/Kaufbeu.htm) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kurt´s Schachcomputer Homepage](http://www.schachcomputer.at/index.htm) by Kurt Kispert
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> The Dutch version of the interview by [Rob van Son](Rob_van_Son "Rob van Son") appeared in [Computerschaak](Computerschaak "Computerschaak") 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [III. D.A.CH Oldie-Computer-Turnier 2003 Kaufbeuren | Kurt Kispert (A-Wien)](http://www.schachcomputer.at/kaufbeu3.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [D.A.CH-Oldie-Tournaments](http://www.schachcomputer.at/Kaufbeu.htm) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kurt´s Schachcomputer Homepage](http://www.schachcomputer.at/index.htm) by Kurt Kispert
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> The Dutch version of the interview by [Rob van Son](Rob_van_Son "Rob van Son") appeared in [Computerschaak](Computerschaak "Computerschaak") 2003
 
 **[Up one level](People "People")**
 

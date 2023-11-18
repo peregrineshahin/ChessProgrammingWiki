@@ -51,8 +51,8 @@ Qxd3+ 39.Kc6 Rxg4 40.Kc7 Rg6 41.Kb8 Qd8+ 42.Kb7 Rb6+ 43.Ka7 Qb8# 0-1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A pair of clash cymbals, Image by Kovac9478, January 01, 2008, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Clash cymbals from Wikipedia](https://en.wikipedia.org/wiki/Clash_cymbals)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Eleventh ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cdeeb), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1980_11th_ACM_NACCC/The_Eleventh_ACMs_North_American_Computer_Chess_Championship.1980.062303015.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A pair of clash cymbals, Image by Kovac9478, January 01, 2008, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Clash cymbals from Wikipedia](https://en.wikipedia.org/wiki/Clash_cymbals)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Eleventh ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cdeeb), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1980_11th_ACM_NACCC/The_Eleventh_ACMs_North_American_Computer_Chess_Championship.1980.062303015.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](Engines "Engines")**
 

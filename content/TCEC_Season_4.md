@@ -565,14 +565,14 @@ Season 4, Superfinal, April 26 - May 09, 2014, timecontrol 150'+30" <a id="cite-
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Official (re)launch of TCEC - website is up!](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=46861) by [Martin Thoresen](Martin_Thoresen "Martin Thoresen"), [CCC](CCC "CCC"), January 12, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Season 4 - Stage 1 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#game=1&season=4&stage=1)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Season 4 - Stage 2a | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#game=1&season=4&stage=2a)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Season 4 - Stage 2b | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#game=1&season=4&stage=2b)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Season 4 - Stage 3 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#game=1&season=4&stage=3)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Season 4 - Stage 4 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#game=1&season=4&stage=4)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Season 4 - Superfinal 1 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=sf&game=1&season=4)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Official (re)launch of TCEC - website is up!](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=46861) by [Martin Thoresen](Martin_Thoresen "Martin Thoresen"), [CCC](CCC "CCC"), January 12, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Season 4 - Stage 1 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#game=1&season=4&stage=1)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Season 4 - Stage 2a | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#game=1&season=4&stage=2a)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Season 4 - Stage 2b | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#game=1&season=4&stage=2b)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Season 4 - Stage 3 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#game=1&season=4&stage=3)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Season 4 - Stage 4 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#game=1&season=4&stage=4)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Season 4 - Superfinal 1 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=sf&game=1&season=4)
 
 **[Up one level](TCEC "TCEC")**
 

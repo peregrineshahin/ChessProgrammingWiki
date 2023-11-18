@@ -12,7 +12,7 @@ a German jazz and rock bassist and composer, founding member of [Kraan](Category
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Hellmut Hattler in [Fellbach](https://en.wikipedia.org/wiki/Fellbach) 2014, [Image](https://commons.wikimedia.org/wiki/File:Hattler.jpg) by [Dagmar Hollmann](https://commons.wikimedia.org/wiki/User:Dagmar_Hollmann)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Hellmut Hattler in [Fellbach](https://en.wikipedia.org/wiki/Fellbach) 2014, [Image](https://commons.wikimedia.org/wiki/File:Hattler.jpg) by [Dagmar Hollmann](https://commons.wikimedia.org/wiki/User:Dagmar_Hollmann)
 
 ## Subcategories
 

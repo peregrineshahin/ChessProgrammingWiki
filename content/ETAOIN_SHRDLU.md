@@ -40,10 +40,10 @@ a chess program by [Garth Courtois Jr.](Garth_Courtois_Jr. "Garth Courtois Jr.")
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [linotype keyboard](https://en.wikipedia.org/wiki/Linotype_machine) , Self-published work by Emdx, October 06, 2004, Copyright 2006 Marc Dufour for [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en), [ETAOIN SHRDLU from Wikipedia](https://en.wikipedia.org/wiki/ETAOIN_SHRDLU)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GG Says, August 7th, 2008](http://www.ababsurdo.com/?p=2235) from [ababsurdo.com](http://www.ababsurdo.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Chestnut Ridge Typewriter Museum: Smith Premier 10 Linowriter, ca. 1910](http://www.hpricecpa.com/typewriterinfo14.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Levy](David_Levy "David Levy") (ed.) (**1988**). *[Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")*. Chapter 9.1 Games from the ACM Tournaments
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [linotype keyboard](https://en.wikipedia.org/wiki/Linotype_machine) , Self-published work by Emdx, October 06, 2004, Copyright 2006 Marc Dufour for [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en), [ETAOIN SHRDLU from Wikipedia](https://en.wikipedia.org/wiki/ETAOIN_SHRDLU)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GG Says, August 7th, 2008](http://www.ababsurdo.com/?p=2235) from [ababsurdo.com](http://www.ababsurdo.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Chestnut Ridge Typewriter Museum: Smith Premier 10 Linowriter, ca. 1910](http://www.hpricecpa.com/typewriterinfo14.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Levy](David_Levy "David Levy") (ed.) (**1988**). *[Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")*. Chapter 9.1 Games from the ACM Tournaments
 
 **[Up one Level](Engines "Engines")**
 

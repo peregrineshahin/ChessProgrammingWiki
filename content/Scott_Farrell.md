@@ -37,8 +37,8 @@ an Australian consultant, chess player <a id="cite-note-1" href="#cite-ref-1">[1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ACF Master File for September 2019](http://auschess.org.au/wp-content/uploads/2019/09/sepmst19.txt)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home) by [Ron Murawski](Ron_Murawski "Ron Murawski")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ACF Master File for September 2019](http://auschess.org.au/wp-content/uploads/2019/09/sepmst19.txt)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home) by [Ron Murawski](Ron_Murawski "Ron Murawski")
 
 **[Up one level](People "People")**
 

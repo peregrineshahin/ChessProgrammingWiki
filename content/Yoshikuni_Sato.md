@@ -30,9 +30,9 @@ a Japanese computer scientist at Graduate School of Systems and Information Engi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Yoshikuni Sato, [Daisuke Takahashi](Daisuke_Takahashi "Daisuke Takahashi"), [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen") (**2010**). *A Shogi Program based on Monte-Carlo Tree Search*.[ICGA Journal, Vol. 33, No. 2](ICGA_Journal#33_2 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Yoshikuni Sato](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Sato:Yoshikuni.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [members - HPCS Lab](http://www.hpcs.cs.tsukuba.ac.jp/index.php?members)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Yoshikuni Sato, [Daisuke Takahashi](Daisuke_Takahashi "Daisuke Takahashi"), [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen") (**2010**). *A Shogi Program based on Monte-Carlo Tree Search*.[ICGA Journal, Vol. 33, No. 2](ICGA_Journal#33_2 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Yoshikuni Sato](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Sato:Yoshikuni.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [members - HPCS Lab](http://www.hpcs.cs.tsukuba.ac.jp/index.php?members)
 
 **[Up one Level](People "People")**
 

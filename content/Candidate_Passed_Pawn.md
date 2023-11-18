@@ -40,7 +40,7 @@ One possibility is to define a pawn as a candidate, if no square on its path is 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hans Kmoch](Hans_Kmoch "Hans Kmoch") (**1959, 1990**). *Pawn Power in Chess*. New York: Dover, 1990. Previous ed.: New York: McKay, 1959. ISBN 0-486-26486-6
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hans Kmoch](Hans_Kmoch "Hans Kmoch") (**1959, 1990**). *Pawn Power in Chess*. New York: Dover, 1990. Previous ed.: New York: McKay, 1959. ISBN 0-486-26486-6
 
 **[Up one Level](Pawn_Structure "Pawn Structure")**
 

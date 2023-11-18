@@ -88,8 +88,8 @@ Bf2 48.Rxe5 fxe5 49.Ke4 Kf6 50.Kf3 Bxh4 51.g4 hxg4+ 52.Kxg4 Be1 53.Kf3 g5
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Eerste Nederlands Kampioenschappen Computerschaken](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Image from [Luuk de Vries](index.php?title=Luuk_de_Vries&action=edit&redlink=1 "Luuk de Vries (page does not exist)") (**1982**). *YNCT*. in [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1982**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1981. De Deelnemers.* [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/03-1982,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201981.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1981](DOCCC_1981 "DOCCC 1981")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Eerste Nederlands Kampioenschappen Computerschaken](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Image from [Luuk de Vries](index.php?title=Luuk_de_Vries&action=edit&redlink=1 "Luuk de Vries (page does not exist)") (**1982**). *YNCT*. in [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1982**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1981. De Deelnemers.* [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/03-1982,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201981.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1981](DOCCC_1981 "DOCCC 1981")
 
 **[Up one Level](Engines "Engines")**
 

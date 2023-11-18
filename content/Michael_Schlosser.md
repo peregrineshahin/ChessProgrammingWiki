@@ -64,11 +64,11 @@ a German computer engineer and scientist, alumnus of the [Chemnitz University of
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Michael Schlosser | SciPort RLP](https://www.rlp-forschung.de/public/people/Michael_Schlosser)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hochschule Koblenz: Prof. Dr. Michael Schlosser](https://www.hs-koblenz.de/profile/schlosser/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Schwalbe > Heft 220, August 2006](http://www.dieschwalbe.de/schwalbe220.htm) from [Schwalbe - deutsche Vereinigung für Problemschach](http://www.dieschwalbe.de/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Die Schwalbe, Sonderheft 141A August 1993](http://www.problemschachbuch.de/Materialien/SonderheftSchwalbe1993.pdf) (pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Michael Schlosser | SciPort RLP](https://www.rlp-forschung.de/public/people/Michael_Schlosser)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hochschule Koblenz: Prof. Dr. Michael Schlosser](https://www.hs-koblenz.de/profile/schlosser/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Schwalbe > Heft 220, August 2006](http://www.dieschwalbe.de/schwalbe220.htm) from [Schwalbe - deutsche Vereinigung für Problemschach](http://www.dieschwalbe.de/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Die Schwalbe, Sonderheft 141A August 1993](http://www.problemschachbuch.de/Materialien/SonderheftSchwalbe1993.pdf) (pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

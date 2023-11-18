@@ -37,12 +37,12 @@ However, it seems Microchess 3 was an alias name of PetChess, with Mark Taylor a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Commodore 64 Emulator - Computer Chess Game Collection - Petchess 4000](http://www.spacious-mind.com/html/c64_emu_-_petchess_4000.html), [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Microchess – C64-Wiki](http://www.c64-wiki.de/index.php/Microchess) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Commodore 64 Emulator - Computer Chess Game Collection - Microchess 3](http://www.spacious-mind.com/html/c64_emu_-_microchess_3.html), [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Game music base - database of Games, Games music and soundtracks | Pet Chess 4000 aka Microchess 3.0](http://www.mirsoft.info/gmb/game_info.php?id_ele=MTQ3MDM=)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [John F. White](John_F._White "John F. White") (**1982**). *Review-Chess Computers*. [Your Computer](Your_Computer "Your Computer"), [March 1982](https://archive.org/details/your-computer-magazine-1982-03/mode/1up)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Commodore 64 Emulator - Computer Chess Game Collection - Petchess 4000](http://www.spacious-mind.com/html/c64_emu_-_petchess_4000.html), [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Microchess – C64-Wiki](http://www.c64-wiki.de/index.php/Microchess) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Commodore 64 Emulator - Computer Chess Game Collection - Microchess 3](http://www.spacious-mind.com/html/c64_emu_-_microchess_3.html), [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Game music base - database of Games, Games music and soundtracks | Pet Chess 4000 aka Microchess 3.0](http://www.mirsoft.info/gmb/game_info.php?id_ele=MTQ3MDM=)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [John F. White](John_F._White "John F. White") (**1982**). *Review-Chess Computers*. [Your Computer](Your_Computer "Your Computer"), [March 1982](https://archive.org/details/your-computer-magazine-1982-03/mode/1up)
 
 **[Up one Level](Engines "Engines")**
 

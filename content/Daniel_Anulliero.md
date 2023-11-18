@@ -73,10 +73,10 @@ When he got aware of [Leo Dijksman's](Leo_Dijksman "Leo Dijksman") [WBEC Ridderk
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Details from [Anulliero Daniel](http://www.blitzchess.fr/fr/common/info/les-programmeurs/anulliero-daniel.html) from [blitzchess.fr](http://www.blitzchess.fr/) (French)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Isa version 1.9.8 release](http://www.talkchess.com/forum/viewtopic.php?t=61891) by Daniel Anulliero, [CCC](CCC "CCC"), October 30, 2016
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Chess Engine Olympiad. France](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=70260&start=13) by Daniel Anulliero, [CCC](CCC "CCC"), April 04, 2019
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - Dany1962/BeLL: a winboard chess engine in C](https://github.com/Dany1962/BeLL)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Details from [Anulliero Daniel](http://www.blitzchess.fr/fr/common/info/les-programmeurs/anulliero-daniel.html) from [blitzchess.fr](http://www.blitzchess.fr/) (French)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Isa version 1.9.8 release](http://www.talkchess.com/forum/viewtopic.php?t=61891) by Daniel Anulliero, [CCC](CCC "CCC"), October 30, 2016
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Chess Engine Olympiad. France](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=70260&start=13) by Daniel Anulliero, [CCC](CCC "CCC"), April 04, 2019
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - Dany1962/BeLL: a winboard chess engine in C](https://github.com/Dany1962/BeLL)
 
 **[Up one level](People "People")**
 

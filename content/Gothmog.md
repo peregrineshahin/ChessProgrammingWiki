@@ -43,12 +43,12 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gothmog](https://en.wikipedia.org/wiki/Balrog#Gothmog), Lord of the [Balrogs](https://en.wikipedia.org/wiki/Balrog), riding a dragon, illustration by [Tom Loback](index.php?title=Category:Tom_Loback&action=edit&redlink=1 "Category:Tom Loback (page does not exist)")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fall of Gondolin from Wikipedia](https://en.wikipedia.org/wiki/Fall_of_Gondolin)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: What's the difference between Glaurung and Gothmog?](https://www.stmintz.com/ccc/index.php?id=415035) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), March 02, 2005
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Gothmog 1.0b2 vs Fruit 1.5 ended 15.5 to 14.5 Long Post](https://www.stmintz.com/ccc/index.php?id=369473) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), June 08, 2004
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: What's the difference between Glaurung and Gothmog?](https://www.stmintz.com/ccc/index.php?id=415017) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), March 02, 2005
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Unexpected problem with futility pruning?](https://www.stmintz.com/ccc/index.php?id=339076) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), December 29, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gothmog](https://en.wikipedia.org/wiki/Balrog#Gothmog), Lord of the [Balrogs](https://en.wikipedia.org/wiki/Balrog), riding a dragon, illustration by [Tom Loback](index.php?title=Category:Tom_Loback&action=edit&redlink=1 "Category:Tom Loback (page does not exist)")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fall of Gondolin from Wikipedia](https://en.wikipedia.org/wiki/Fall_of_Gondolin)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: What's the difference between Glaurung and Gothmog?](https://www.stmintz.com/ccc/index.php?id=415035) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), March 02, 2005
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Gothmog 1.0b2 vs Fruit 1.5 ended 15.5 to 14.5 Long Post](https://www.stmintz.com/ccc/index.php?id=369473) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), June 08, 2004
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: What's the difference between Glaurung and Gothmog?](https://www.stmintz.com/ccc/index.php?id=415017) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), March 02, 2005
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Unexpected problem with futility pruning?](https://www.stmintz.com/ccc/index.php?id=339076) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), December 29, 2003
 
 **[Up one Level](Engines "Engines")**
 

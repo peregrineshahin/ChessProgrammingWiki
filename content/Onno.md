@@ -118,14 +118,14 @@ Onno determines expected [Node Types](Node_Types "Node Types") to perform [IID](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Onno Chess Software](https://www.onnochess.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Development of Onno ends](http://www.talkchess.com/forum/viewtopic.php?t=38403) by [Onno Garms](Onno_Garms "Onno Garms"), [CCC](CCC "CCC"), March 13, 2011
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Magic with fixed shift](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50043) by [Onno Garms](Onno_Garms "Onno Garms"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 18, 2009
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SEE with alpha beta](http://www.talkchess.com/forum/viewtopic.php?t=40054) by [Onno Garms](Onno_Garms "Onno Garms"), [CCC](CCC "CCC"), August 14, 2011
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Parameter tuning](http://www.talkchess.com/forum/viewtopic.php?t=38412) by [Onno Garms](Onno_Garms "Onno Garms"), [CCC](CCC "CCC"), March 13, 2011
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Bad Pruning](http://www.talkchess.com/forum/viewtopic.php?t=38407) by [Onno Garms](Onno_Garms "Onno Garms"), [CCC](CCC "CCC"), March 13, 2011
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1993**). *Game Tree Search on Massively Parallel Systems*. Ph.D. thesis
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: On internal iterative deeping](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=399511&t=38408) by [Onno Garms](Onno_Garms "Onno Garms"), [CCC](CCC "CCC"), March 17, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Onno Chess Software](https://www.onnochess.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Development of Onno ends](http://www.talkchess.com/forum/viewtopic.php?t=38403) by [Onno Garms](Onno_Garms "Onno Garms"), [CCC](CCC "CCC"), March 13, 2011
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Magic with fixed shift](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50043) by [Onno Garms](Onno_Garms "Onno Garms"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 18, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SEE with alpha beta](http://www.talkchess.com/forum/viewtopic.php?t=40054) by [Onno Garms](Onno_Garms "Onno Garms"), [CCC](CCC "CCC"), August 14, 2011
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Parameter tuning](http://www.talkchess.com/forum/viewtopic.php?t=38412) by [Onno Garms](Onno_Garms "Onno Garms"), [CCC](CCC "CCC"), March 13, 2011
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Bad Pruning](http://www.talkchess.com/forum/viewtopic.php?t=38407) by [Onno Garms](Onno_Garms "Onno Garms"), [CCC](CCC "CCC"), March 13, 2011
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1993**). *Game Tree Search on Massively Parallel Systems*. Ph.D. thesis
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: On internal iterative deeping](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=399511&t=38408) by [Onno Garms](Onno_Garms "Onno Garms"), [CCC](CCC "CCC"), March 17, 2011
 
 **[Up one level](Engines "Engines")**
 

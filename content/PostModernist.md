@@ -54,13 +54,13 @@ a chess program by [Andrew Williams](Andrew_Williams "Andrew Williams"), support
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lawrence Weiner](index.php?title=Category:Lawrence_Weiner&action=edit&redlink=1 "Category:Lawrence Weiner (page does not exist)"), Bits & Pieces Put Together to Present a Semblance of a Whole, [Walker Art Center](https://en.wikipedia.org/wiki/Walker_Art_Center), [Minneapolis](https://en.wikipedia.org/wiki/Minneapolis), 2005
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Postmodern art from Wikipedia](https://en.wikipedia.org/wiki/Postmodern_art)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Green List, PostModernist??](https://www.stmintz.com/ccc/index.php?id=70677) by [Andrew Williams](Andrew_Williams "Andrew Williams"), [CCC](CCC "CCC"), September 27, 1999
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [PostModernist (v1003) available for download](https://www.stmintz.com/ccc/index.php?id=307830) by [Andrew Williams](Andrew_Williams "Andrew Williams"), [CCC](CCC "CCC"), July 24, 2003
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Building the Principal Variation in MTD(f) searches](https://www.stmintz.com/ccc/index.php?id=60833) by [Andrew Williams](Andrew_Williams "Andrew Williams"), [CCC](CCC "CCC"), July 18, 1999
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> README file for PostModernist, June 28, 2006
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Maastricht 2002 - Chess - Round 9 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=20&round=9&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lawrence Weiner](index.php?title=Category:Lawrence_Weiner&action=edit&redlink=1 "Category:Lawrence Weiner (page does not exist)"), Bits & Pieces Put Together to Present a Semblance of a Whole, [Walker Art Center](https://en.wikipedia.org/wiki/Walker_Art_Center), [Minneapolis](https://en.wikipedia.org/wiki/Minneapolis), 2005
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Postmodern art from Wikipedia](https://en.wikipedia.org/wiki/Postmodern_art)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Green List, PostModernist??](https://www.stmintz.com/ccc/index.php?id=70677) by [Andrew Williams](Andrew_Williams "Andrew Williams"), [CCC](CCC "CCC"), September 27, 1999
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [PostModernist (v1003) available for download](https://www.stmintz.com/ccc/index.php?id=307830) by [Andrew Williams](Andrew_Williams "Andrew Williams"), [CCC](CCC "CCC"), July 24, 2003
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Building the Principal Variation in MTD(f) searches](https://www.stmintz.com/ccc/index.php?id=60833) by [Andrew Williams](Andrew_Williams "Andrew Williams"), [CCC](CCC "CCC"), July 18, 1999
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> README file for PostModernist, June 28, 2006
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Maastricht 2002 - Chess - Round 9 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=20&round=9&id=5)
 
 **[Up one Level](Engines "Engines")**
 

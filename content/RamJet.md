@@ -67,10 +67,10 @@ The [evaluation function](Evaluation_Function "Evaluation Function") is implemen
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The [Bussard Ramjet](https://en.wikipedia.org/wiki/Bussard_ramjet) engine concept uses [interstellar](https://en.wikipedia.org/wiki/Interstellar) [hydrogen](https://en.wikipedia.org/wiki/Hydrogen) scooped up from its environment as the spacecraft passes by to provide [propellant](https://en.wikipedia.org/wiki/Propellant) mass. The hydrogen is then ionized and collected by an electromagentic field. In this image, an onboard [laser](https://en.wikipedia.org/wiki/Laser) is used to heat the plasma, and the laser or electron beam is used to trigger fusion pulses thereby creating propulsion. [NASA](https://en.wikipedia.org/wiki/NASA) image, April 2004, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New release: RamJet 0.14](http://www.talkchess.com/forum/viewtopic.php?t=65312) by [Edoardo Manino](Edoardo_Manino "Edoardo Manino"), [CCC](CCC "CCC"), September 27, 2017
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [RamJet](http://www.g-sei.org/ramjet/) « [G 6](G_6 "G 6")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [RamJet\_011.zip\RamJet\_011\readme.txt](http://www.g-sei.org/wp-content/uploads/2014/07/RamJet_011.zip)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The [Bussard Ramjet](https://en.wikipedia.org/wiki/Bussard_ramjet) engine concept uses [interstellar](https://en.wikipedia.org/wiki/Interstellar) [hydrogen](https://en.wikipedia.org/wiki/Hydrogen) scooped up from its environment as the spacecraft passes by to provide [propellant](https://en.wikipedia.org/wiki/Propellant) mass. The hydrogen is then ionized and collected by an electromagentic field. In this image, an onboard [laser](https://en.wikipedia.org/wiki/Laser) is used to heat the plasma, and the laser or electron beam is used to trigger fusion pulses thereby creating propulsion. [NASA](https://en.wikipedia.org/wiki/NASA) image, April 2004, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New release: RamJet 0.14](http://www.talkchess.com/forum/viewtopic.php?t=65312) by [Edoardo Manino](Edoardo_Manino "Edoardo Manino"), [CCC](CCC "CCC"), September 27, 2017
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [RamJet](http://www.g-sei.org/ramjet/) « [G 6](G_6 "G 6")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [RamJet\_011.zip\RamJet\_011\readme.txt](http://www.g-sei.org/wp-content/uploads/2014/07/RamJet_011.zip)
 
 **[Up one level](Engines "Engines")**
 

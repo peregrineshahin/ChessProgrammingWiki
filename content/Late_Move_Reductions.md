@@ -276,12 +276,12 @@ Some test results related to LMR can be found on
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess in the Art of Samuel Bak](http://chgs.elevator.umn.edu/asset/viewAsset/57f3b6787d58ae5f74bf8ba9#57f3b6d77d58ae5574bf8bc8), [Center for Holocaust & Genocide Studies](http://www.chgs.umn.edu/), [University of Minnesota](University_of_Minnesota "University of Minnesota")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [History Reductions in Pro Deo](http://members.home.nl/matador/hr.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [An Introduction to Late Move Reductions](https://web.archive.org/web/20150212051846/http://www.glaurungchess.com/lmr.html) by [Tord Romstad](Tord_Romstad "Tord Romstad") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [Mark Winands](Mark_Winands "Mark Winands"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2004**). *[The Relative History Heuristic](http://link.springer.com/chapter/10.1007/11674399_18)*. [CG 2004](CG_2004 "CG 2004"), [pdf](http://erikvanderwerf.tengen.nl/pubdown/relhis.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Receiver operating characteristic (ROC) from Wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [LMR - or starters - Advance and Expert](http://www.talkchess.com/forum/viewtopic.php?t=63870) by [Ed Schroder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), May 01, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess in the Art of Samuel Bak](http://chgs.elevator.umn.edu/asset/viewAsset/57f3b6787d58ae5f74bf8ba9#57f3b6d77d58ae5574bf8bc8), [Center for Holocaust & Genocide Studies](http://www.chgs.umn.edu/), [University of Minnesota](University_of_Minnesota "University of Minnesota")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [History Reductions in Pro Deo](http://members.home.nl/matador/hr.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [An Introduction to Late Move Reductions](https://web.archive.org/web/20150212051846/http://www.glaurungchess.com/lmr.html) by [Tord Romstad](Tord_Romstad "Tord Romstad") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [Mark Winands](Mark_Winands "Mark Winands"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2004**). *[The Relative History Heuristic](http://link.springer.com/chapter/10.1007/11674399_18)*. [CG 2004](CG_2004 "CG 2004"), [pdf](http://erikvanderwerf.tengen.nl/pubdown/relhis.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Receiver operating characteristic (ROC) from Wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [LMR - or starters - Advance and Expert](http://www.talkchess.com/forum/viewtopic.php?t=63870) by [Ed Schroder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), May 01, 2017
 
 **[Up one level](Reductions "Reductions")**
 

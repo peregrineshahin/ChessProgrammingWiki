@@ -140,15 +140,15 @@ A version of The Baron able to play [Chess960](Chess960 "Chess960") competed at 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Map detail [Duchy of Brabant](https://en.wikipedia.org/wiki/Duchy_of_Brabant) from [Baronie van Breda from Wikipedia.nl](https://nl.wikipedia.org/wiki/Baronie_van_Breda) (Dutch), The Baron has likely dual Dutch and Belgian "citizenship", but recently played under the Belgian flag, where his author currently resides near the Dutch border
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CCT14](CCT14 "CCT14"), 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Baron - Homepage](http://users.telenet.be/thebaron/html/the_baron.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Classic Mainz 2005 (CCM5)](http://www.chesstigers.de/ccm5_index.php?lang=1)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [... weil Chess960 vom ersten Zug an spannend ist](http://www.chesstigers.de/ccm6_index_news.php?id=806&rubrik=6&lang=0&kat=6) (German)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Bug-fixed Baron + new opening book](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35970&p=136337) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 31, 2002
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [New book for the Baron](http://www.talkchess.com/forum/viewtopic.php?t=12980) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [CCC](CCC "CCC"), April 09, 2007
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Komodo - Rybka in Danger?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=322144&t=31894) by [Arturo Ochoa](Arturo_Ochoa "Arturo Ochoa"), [CCC](CCC "CCC"), January 21, 2010
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [30th ONK 2010 Leiden: List of participants](http://www.csvn.nl/index.php?option=com_content&view=article&id=465%3A30th-onk-2010-leiden-list-of-participants&catid=51%3Atoernooien&Itemid=28&lang=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Map detail [Duchy of Brabant](https://en.wikipedia.org/wiki/Duchy_of_Brabant) from [Baronie van Breda from Wikipedia.nl](https://nl.wikipedia.org/wiki/Baronie_van_Breda) (Dutch), The Baron has likely dual Dutch and Belgian "citizenship", but recently played under the Belgian flag, where his author currently resides near the Dutch border
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CCT14](CCT14 "CCT14"), 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Baron - Homepage](http://users.telenet.be/thebaron/html/the_baron.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Classic Mainz 2005 (CCM5)](http://www.chesstigers.de/ccm5_index.php?lang=1)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [... weil Chess960 vom ersten Zug an spannend ist](http://www.chesstigers.de/ccm6_index_news.php?id=806&rubrik=6&lang=0&kat=6) (German)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Bug-fixed Baron + new opening book](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35970&p=136337) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 31, 2002
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [New book for the Baron](http://www.talkchess.com/forum/viewtopic.php?t=12980) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [CCC](CCC "CCC"), April 09, 2007
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Komodo - Rybka in Danger?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=322144&t=31894) by [Arturo Ochoa](Arturo_Ochoa "Arturo Ochoa"), [CCC](CCC "CCC"), January 21, 2010
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [30th ONK 2010 Leiden: List of participants](http://www.csvn.nl/index.php?option=com_content&view=article&id=465%3A30th-onk-2010-leiden-list-of-participants&catid=51%3Atoernooien&Itemid=28&lang=en)
 
 **[Up one Level](Engines "Engines")**
 

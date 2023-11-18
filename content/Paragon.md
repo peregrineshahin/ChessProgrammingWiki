@@ -43,8 +43,8 @@ The Paragon was based on the Intel [i860](I860 "I860") [RISC](https://en.wikiped
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Paragon card, [Image](https://commons.wikimedia.org/wiki/File:Paragon_Card.jpg) by [Simpsons contributor](https://en.wikipedia.org/wiki/User:Simpsons_contributor), August 28, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Intel Paragon from Wikipedia](https://en.wikipedia.org/wiki/Intel_Paragon)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Paragon card, [Image](https://commons.wikimedia.org/wiki/File:Paragon_Card.jpg) by [Simpsons contributor](https://en.wikipedia.org/wiki/User:Simpsons_contributor), August 28, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Intel Paragon from Wikipedia](https://en.wikipedia.org/wiki/Intel_Paragon)
 
 **[Up one Level](Hardware "Hardware")**
 

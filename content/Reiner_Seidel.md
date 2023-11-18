@@ -62,14 +62,14 @@ chess player and chess theorist who coined a [scientific](https://en.wikipedia.o
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wissenschaftliche Schachtheorie - Impressum](http://www.schachtheorie.de/impressum.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rainer (given name) from Wikipedia](https://en.wikipedia.org/wiki/Rainer_(given_name))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Reiner (Name) Wikipedia.de](https://de.wikipedia.org/wiki/Reiner_(Name)) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Reiner Seidel • Subjektforschung und Kritische Psychologie • Fachbereich Erziehungswissenschaft und Psychologie](https://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/subjektforschung_kritische/mitarbeiter/rseidel/index.html) (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Reiner Seidel (**1987**). *[Grundlagen einer wissenschaftlichen Schachtheorie](http://www.schachtheorie.de/wst1Info.htm)*. Verlag für Schachtheorie (German)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 117
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Wissenschaftlichen Schachtheorie - Bücher](http://www.schachtheorie.de/buecher.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wissenschaftliche Schachtheorie - Impressum](http://www.schachtheorie.de/impressum.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rainer (given name) from Wikipedia](https://en.wikipedia.org/wiki/Rainer_(given_name))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Reiner (Name) Wikipedia.de](https://de.wikipedia.org/wiki/Reiner_(Name)) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Reiner Seidel • Subjektforschung und Kritische Psychologie • Fachbereich Erziehungswissenschaft und Psychologie](https://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/subjektforschung_kritische/mitarbeiter/rseidel/index.html) (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Reiner Seidel (**1987**). *[Grundlagen einer wissenschaftlichen Schachtheorie](http://www.schachtheorie.de/wst1Info.htm)*. Verlag für Schachtheorie (German)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 117
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Wissenschaftlichen Schachtheorie - Bücher](http://www.schachtheorie.de/buecher.htm)
 
 **[Up one level](People "People")**
 

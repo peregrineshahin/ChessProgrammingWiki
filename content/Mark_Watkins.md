@@ -107,22 +107,22 @@ an American mathematician affiliated with the School of Mathematics and Statisti
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [M\_Watkins - USyd Maths & Stats](http://www.maths.usyd.edu.au/ut/people?who=M_Watkins)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [School of Mathematics and Statistics, University of Sydney](http://www.maths.usyd.edu.au/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computational Algebra Group](http://magma.maths.usyd.edu.au/group/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  British naturalist, illustrator and a children's author [Denys Watkins-Pitchford](https://en.wikipedia.org/wiki/Denys_Watkins-Pitchford) used the pseudonym **BB**.
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Mark Watkins (**2014**). *Solved Openings in Losing Chess*. [ICGA Journal, Vol. 37, No. 2](ICGA_Journal#37_2 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Losing Chess 1 e3 e6](http://www.jsbeasley.co.uk/losinge3e6.htm) by [John Beasley](index.php?title=John_Beasley&action=edit&redlink=1 "John Beasley (page does not exist)"), August 2014
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Losing Chess: 1. e3 wins](http://www.open-chess.org/viewtopic.php?f=3&t=3023) by BB+, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), October 10, 2016
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Quadratic field from Wikipedia](https://en.wikipedia.org/wiki/Quadratic_field)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Dirichlet L-function from Wikipedia](https://en.wikipedia.org/wiki/Dirichlet_L-function)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [BB's Rybka/Ippolit comparison](http://www.open-chess.org/viewtopic.php?f=3&t=119) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [OpenChess General Forum](Computer_Chess_Forums "Computer Chess Forums"), June 13, 2010
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Hecke character from Wikipedia](https://en.wikipedia.org/wiki/Hecke_character)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Feb 12 version: Rybka 1.0 Beta / Fruit 2.1 document](http://www.open-chess.org/viewtopic.php?f=5&t=1104) by Mark Watkins, [OpenChess General Forum](Computer_Chess_Forums "Computer Chess Forums"), February 12, 2011
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Rybka evidence recapitulation](http://www.open-chess.org/viewtopic.php?f=5&t=1772) by BB+, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 03, 2012
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> *[A Gross Miscarriage of Justice in Computer Chess](S%C3%B8ren_Riis#Miscarriage "Søren Riis")* by [Søren Riis](S%C3%B8ren_Riis "Søren Riis")
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [A Pairwise Comparison of Chess Engine Move Selections](http://www.top-5000.nl/clone.htm) by [Adam Hair](Adam_Hair "Adam Hair"), hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [A Gross Miscarriage of Justice in Computer Chess (part one)](http://www.chessbase.com/newsdetail.asp?newsid=7791) by [Søren Riis](S%C3%B8ren_Riis "Søren Riis"), [ChessBase News](ChessBase "ChessBase"), January 02, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [M\_Watkins - USyd Maths & Stats](http://www.maths.usyd.edu.au/ut/people?who=M_Watkins)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [School of Mathematics and Statistics, University of Sydney](http://www.maths.usyd.edu.au/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computational Algebra Group](http://magma.maths.usyd.edu.au/group/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a>  British naturalist, illustrator and a children's author [Denys Watkins-Pitchford](https://en.wikipedia.org/wiki/Denys_Watkins-Pitchford) used the pseudonym **BB**.
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Mark Watkins (**2014**). *Solved Openings in Losing Chess*. [ICGA Journal, Vol. 37, No. 2](ICGA_Journal#37_2 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Losing Chess 1 e3 e6](http://www.jsbeasley.co.uk/losinge3e6.htm) by [John Beasley](index.php?title=John_Beasley&action=edit&redlink=1 "John Beasley (page does not exist)"), August 2014
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Losing Chess: 1. e3 wins](http://www.open-chess.org/viewtopic.php?f=3&t=3023) by BB+, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), October 10, 2016
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Quadratic field from Wikipedia](https://en.wikipedia.org/wiki/Quadratic_field)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Dirichlet L-function from Wikipedia](https://en.wikipedia.org/wiki/Dirichlet_L-function)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [BB's Rybka/Ippolit comparison](http://www.open-chess.org/viewtopic.php?f=3&t=119) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [OpenChess General Forum](Computer_Chess_Forums "Computer Chess Forums"), June 13, 2010
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Hecke character from Wikipedia](https://en.wikipedia.org/wiki/Hecke_character)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Feb 12 version: Rybka 1.0 Beta / Fruit 2.1 document](http://www.open-chess.org/viewtopic.php?f=5&t=1104) by Mark Watkins, [OpenChess General Forum](Computer_Chess_Forums "Computer Chess Forums"), February 12, 2011
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Rybka evidence recapitulation](http://www.open-chess.org/viewtopic.php?f=5&t=1772) by BB+, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 03, 2012
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> *[A Gross Miscarriage of Justice in Computer Chess](S%C3%B8ren_Riis#Miscarriage "Søren Riis")* by [Søren Riis](S%C3%B8ren_Riis "Søren Riis")
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [A Pairwise Comparison of Chess Engine Move Selections](http://www.top-5000.nl/clone.htm) by [Adam Hair](Adam_Hair "Adam Hair"), hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [A Gross Miscarriage of Justice in Computer Chess (part one)](http://www.chessbase.com/newsdetail.asp?newsid=7791) by [Søren Riis](S%C3%B8ren_Riis "Søren Riis"), [ChessBase News](ChessBase "ChessBase"), January 02, 2012
 
 **[Up one Level](People "People")**
 

@@ -32,9 +32,9 @@ NG-play uses a [10x12 board](10x12_Board "10x12 Board"), and performs a [negamax
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [NGplay\_9.87.c](http://users.otenet.gr/~yggeorgo/NGplay_9.87.c)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bruce Moreland's Programming Topics](https://web.archive.org/web/20071026090003/http://www.brucemo.com/compchess/programming/index.htm) archived by the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NGplay\_9.87.c](http://users.otenet.gr/~yggeorgo/NGplay_9.87.c)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [NGplay\_9.87.c](http://users.otenet.gr/~yggeorgo/NGplay_9.87.c)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bruce Moreland's Programming Topics](https://web.archive.org/web/20071026090003/http://www.brucemo.com/compchess/programming/index.htm) archived by the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NGplay\_9.87.c](http://users.otenet.gr/~yggeorgo/NGplay_9.87.c)
 
 **[Up one Level](Engines "Engines")**
 

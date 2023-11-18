@@ -60,12 +60,12 @@ and elaborated on [Strategy](Strategy "Strategy") and [Planning](Planning "Plann
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [www.arves.org - Van Reek, Jan 1945-2015](http://www.arves.org/arves/index.php/en/halloffame/310-van-reek-jan-1945-2015)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jan van Reek (**1997**). *Strategy in Chess*. [Schachfirma Fruth](http://www.eurokursmuenzen-schach.de/), [Unterhaching](https://en.wikipedia.org/wiki/Unterhaching)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Jan van Reek, [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1998**). *Planning a Strategy in Chess*. [ICCA Journal, Vol. 21, No. 3](ICGA_Journal#31_3 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") (**1946**). *Het denken van den Schaker, een experimenteel-psychologische studie.* Ph.D. thesis, [University of Amsterdam](https://en.wikipedia.org/wiki/University_of_Amsterdam); N.V. Noord-Hollandse Uitgevers Maatschappij, [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam). Translated with the help of [George Baylor](George_Baylor "George Baylor"), with additions, (in **1965**) as *Thought and Choice in Chess*. Mouton Publishers, The Hague. ISBN 90-279-7914-6
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Carel Mann from Wikipedia.de](https://de.wikipedia.org/wiki/Carel_Mann) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [www.arves.org - Van Reek, Jan 1945-2015](http://www.arves.org/arves/index.php/en/halloffame/310-van-reek-jan-1945-2015)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jan van Reek (**1997**). *Strategy in Chess*. [Schachfirma Fruth](http://www.eurokursmuenzen-schach.de/), [Unterhaching](https://en.wikipedia.org/wiki/Unterhaching)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Jan van Reek, [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1998**). *Planning a Strategy in Chess*. [ICCA Journal, Vol. 21, No. 3](ICGA_Journal#31_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") (**1946**). *Het denken van den Schaker, een experimenteel-psychologische studie.* Ph.D. thesis, [University of Amsterdam](https://en.wikipedia.org/wiki/University_of_Amsterdam); N.V. Noord-Hollandse Uitgevers Maatschappij, [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam). Translated with the help of [George Baylor](George_Baylor "George Baylor"), with additions, (in **1965**) as *Thought and Choice in Chess*. Mouton Publishers, The Hague. ISBN 90-279-7914-6
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Carel Mann from Wikipedia.de](https://de.wikipedia.org/wiki/Carel_Mann) (German)
 
 **[Up one level](People "People")**
 

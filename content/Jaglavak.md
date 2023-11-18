@@ -42,12 +42,12 @@ The random playouts of the simulation phase may be distributed on CPUs, utilizin
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Dorsal view of ant [Dorylus gribodoi](https://en.wikipedia.org/wiki/Dorylus_gribodoi) specimen [casent0172627](https://www.antweb.org/specimen.do?name=casent0172627), Author: [April Nobile](https://www.antweb.org/artist.do?id=69), February 12, 2007, [AntWeb.org](http://www.antweb.org/bigPicture.do?name=casent0172627&number=1&shot=d), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jaglavak/BitBoard.h at master · StuartRiffle/Jaglavak · GitHub](https://github.com/StuartRiffle/Jaglavak/blob/master/Source/Chess/BitBoard.h)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jaglavak/SSE4.h at master · StuartRiffle/Jaglavak · GitHub](https://github.com/StuartRiffle/Jaglavak/blob/master/Source/Player/SSE4.h)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jaglavak/AVX2.h at master · StuartRiffle/Jaglavak · GitHub](https://github.com/StuartRiffle/Jaglavak/blob/master/Source/Player/AVX2.h)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Jaglavak/AVX512.h at master · StuartRiffle/Jaglavak · GitHub](https://github.com/StuartRiffle/Jaglavak/blob/master/Source/Player/AVX512.h)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jaglavak/CudaPlayer.h at master · StuartRiffle/Jaglavak · GitHub](https://github.com/StuartRiffle/Jaglavak/blob/master/Source/Player/CudaPlayer.h)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Dorsal view of ant [Dorylus gribodoi](https://en.wikipedia.org/wiki/Dorylus_gribodoi) specimen [casent0172627](https://www.antweb.org/specimen.do?name=casent0172627), Author: [April Nobile](https://www.antweb.org/artist.do?id=69), February 12, 2007, [AntWeb.org](http://www.antweb.org/bigPicture.do?name=casent0172627&number=1&shot=d), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaglavak/BitBoard.h at master · StuartRiffle/Jaglavak · GitHub](https://github.com/StuartRiffle/Jaglavak/blob/master/Source/Chess/BitBoard.h)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jaglavak/SSE4.h at master · StuartRiffle/Jaglavak · GitHub](https://github.com/StuartRiffle/Jaglavak/blob/master/Source/Player/SSE4.h)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jaglavak/AVX2.h at master · StuartRiffle/Jaglavak · GitHub](https://github.com/StuartRiffle/Jaglavak/blob/master/Source/Player/AVX2.h)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jaglavak/AVX512.h at master · StuartRiffle/Jaglavak · GitHub](https://github.com/StuartRiffle/Jaglavak/blob/master/Source/Player/AVX512.h)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jaglavak/CudaPlayer.h at master · StuartRiffle/Jaglavak · GitHub](https://github.com/StuartRiffle/Jaglavak/blob/master/Source/Player/CudaPlayer.h)
 
 **[Up one level](Engines "Engines")**
 

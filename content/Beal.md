@@ -63,9 +63,9 @@ title: Beal
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jean E. Hayes](Jean_Hayes_Michie "Jean Hayes Michie"), [David Levy](David_Levy "David Levy") (**1976**). *[The world computer chess championship, Stockholm 1974](http://www.getcited.org/pub/101724802)*. University Press (Edinburgh) ISBN 0852242859
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Stockholm 1974 - Chess - Round 2 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=2&id=1)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Stockholm 1974 - Chess - Round 3 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=3&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jean E. Hayes](Jean_Hayes_Michie "Jean Hayes Michie"), [David Levy](David_Levy "David Levy") (**1976**). *[The world computer chess championship, Stockholm 1974](http://www.getcited.org/pub/101724802)*. University Press (Edinburgh) ISBN 0852242859
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stockholm 1974 - Chess - Round 2 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=2&id=1)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Stockholm 1974 - Chess - Round 3 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=7&round=3&id=5)
 
 **[Up one Level](Engines "Engines")**
 

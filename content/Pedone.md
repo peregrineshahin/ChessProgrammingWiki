@@ -81,15 +81,15 @@ a [UCI](UCI "UCI") compliant chess engine by [Fabio Gobbato](Fabio_Gobbato "Fabi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Chess piece - White pawn, [Staunton design](https://en.wikipedia.org/wiki/Staunton_chess_set), by [Michael Maggs](http://commons.wikimedia.org/wiki/User:MichaelMaggs), [Pedone (scacchi) - Wikipedia.it](http://it.wikipedia.org/wiki/Pedone_%28scacchi%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pedone « G 6](http://www.g-sei.org/pedone/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: New commercial engine Revenge 1.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77684&start=12) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), July 11, 2021
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Pedone Chess Engine - QuadBitboard](https://sites.google.com/site/pedonechess/programming-articles/quadbitboard)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Pedobe Chess Engine - Evaluation Tuning](https://sites.google.com/site/pedonechess/programming-articles/evaluation-tuning)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Pedone 1.0](http://www.talkchess.com/forum/viewtopic.php?t=54640) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), December 14, 2014
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Pedone 1.4](http://www.talkchess.com/forum/viewtopic.php?t=59732) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), April 03, 2016
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [New release Pedone 1.6](http://www.talkchess.com/forum/viewtopic.php?t=64241) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), June 10, 2017
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a>  [New release Pedone 3.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76203) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), January 01, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Chess piece - White pawn, [Staunton design](https://en.wikipedia.org/wiki/Staunton_chess_set), by [Michael Maggs](http://commons.wikimedia.org/wiki/User:MichaelMaggs), [Pedone (scacchi) - Wikipedia.it](http://it.wikipedia.org/wiki/Pedone_%28scacchi%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pedone « G 6](http://www.g-sei.org/pedone/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: New commercial engine Revenge 1.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77684&start=12) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), July 11, 2021
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Pedone Chess Engine - QuadBitboard](https://sites.google.com/site/pedonechess/programming-articles/quadbitboard)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Pedobe Chess Engine - Evaluation Tuning](https://sites.google.com/site/pedonechess/programming-articles/evaluation-tuning)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pedone 1.0](http://www.talkchess.com/forum/viewtopic.php?t=54640) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), December 14, 2014
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Pedone 1.4](http://www.talkchess.com/forum/viewtopic.php?t=59732) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), April 03, 2016
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [New release Pedone 1.6](http://www.talkchess.com/forum/viewtopic.php?t=64241) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), June 10, 2017
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a>  [New release Pedone 3.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76203) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), January 01, 2021
 
 **[Up one Level](Engines "Engines")**
 

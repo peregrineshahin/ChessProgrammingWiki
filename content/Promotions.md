@@ -114,10 +114,10 @@ In [move generation](Move_Generation "Move Generation") it is quite common while
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Queening Pawn](http://www.carinajorgensen.com/Chess/pawnqueen.php) by [Carina Jørgensen](Category:Carina_J%C3%B8rgensen "Category:Carina Jørgensen"), 2008
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lasker Trap from Wikipedia](https://en.wikipedia.org/wiki/Lasker_Trap) features an underpromotion as early as the seventh move
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Page 18 in the [PDF report](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1993_23rd_ACM_ICCC/1993%20ICCC.062303066.sm.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Through the Looking-Glass from Wikipedia](https://en.wikipedia.org/wiki/Through_the_Looking-Glass)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Queening Pawn](http://www.carinajorgensen.com/Chess/pawnqueen.php) by [Carina Jørgensen](Category:Carina_J%C3%B8rgensen "Category:Carina Jørgensen"), 2008
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lasker Trap from Wikipedia](https://en.wikipedia.org/wiki/Lasker_Trap) features an underpromotion as early as the seventh move
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Page 18 in the [PDF report](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1993_23rd_ACM_ICCC/1993%20ICCC.062303066.sm.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Through the Looking-Glass from Wikipedia](https://en.wikipedia.org/wiki/Through_the_Looking-Glass)
 
 **[Up one Level](Moves "Moves")**
 

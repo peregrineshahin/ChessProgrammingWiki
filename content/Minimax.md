@@ -197,15 +197,15 @@ Usually the [Negamax](Negamax "Negamax") algorithm is used for simplicity. This 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Little Machine Constructed by Minimax Dadamax in Person from Wikipedia](https://en.wikipedia.org/wiki/Little_Machine_Constructed_by_Minimax_Dadamax_in_Person)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1983**). *Computerschaak, Schaakwereld en Kunstmatige Intelligentie*. Ph.D. thesis, [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology"). Academic Service, The Hague. ISBN 90 62 33 093 2 (Dutch)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [John von Neumann](John_von_Neumann "John von Neumann") (**1928**). *[Zur Theorie der Gesellschaftsspiele](http://gdz.sub.uni-goettingen.de/dms/load/img/?IDDOC=29357)*. Berlin
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Don Beal](Don_Beal "Don Beal") (**1999**). *The Nature of MINIMAX Search*. Ph.D. thesis, ISBN 90-62-16-6348, pp. 2, refers [Philip Morrison](Mathematician#PhilipMorrison "Mathematician") and Emily Morrison (**1961**). *Charles Babbage and his Calculating Engines*. Dover Publ. New York
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Norbert Wiener](Norbert_Wiener "Norbert Wiener") (**1948**). *[Cybernetics or Control and Communication in the Animal and the Machine](http://www.amazon.com/gp/reader/026273009X/ref=sib_dp_pt#reader-link)* - MIT Press, Cambridge, MA.
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Sion's minimax theorem from Wikipedia](https://en.wikipedia.org/wiki/Sion%27s_minimax_theorem)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> see [Swap-off](Helmut_Richter#Swapoff "Helmut Richter") by [Helmut Richter](Helmut_Richter "Helmut Richter")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Parthasarathy's theorem from Wikipedia](https://en.wikipedia.org/wiki/Parthasarathy%27s_theorem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Little Machine Constructed by Minimax Dadamax in Person from Wikipedia](https://en.wikipedia.org/wiki/Little_Machine_Constructed_by_Minimax_Dadamax_in_Person)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1983**). *Computerschaak, Schaakwereld en Kunstmatige Intelligentie*. Ph.D. thesis, [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology"). Academic Service, The Hague. ISBN 90 62 33 093 2 (Dutch)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [John von Neumann](John_von_Neumann "John von Neumann") (**1928**). *[Zur Theorie der Gesellschaftsspiele](http://gdz.sub.uni-goettingen.de/dms/load/img/?IDDOC=29357)*. Berlin
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Don Beal](Don_Beal "Don Beal") (**1999**). *The Nature of MINIMAX Search*. Ph.D. thesis, ISBN 90-62-16-6348, pp. 2, refers [Philip Morrison](Mathematician#PhilipMorrison "Mathematician") and Emily Morrison (**1961**). *Charles Babbage and his Calculating Engines*. Dover Publ. New York
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Norbert Wiener](Norbert_Wiener "Norbert Wiener") (**1948**). *[Cybernetics or Control and Communication in the Animal and the Machine](http://www.amazon.com/gp/reader/026273009X/ref=sib_dp_pt#reader-link)* - MIT Press, Cambridge, MA.
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Sion's minimax theorem from Wikipedia](https://en.wikipedia.org/wiki/Sion%27s_minimax_theorem)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> see [Swap-off](Helmut_Richter#Swapoff "Helmut Richter") by [Helmut Richter](Helmut_Richter "Helmut Richter")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Parthasarathy's theorem from Wikipedia](https://en.wikipedia.org/wiki/Parthasarathy%27s_theorem)
 
 **[Up one level](Search "Search")**
 

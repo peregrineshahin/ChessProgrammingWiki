@@ -61,10 +61,10 @@ h5 33.Kd1 Kb6 34.Kd2 Ka5 35.d5 Kb6 36.Kd1 Kc7 1/2-1/2
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marek Strejczek](Marek_Strejczek "Marek Strejczek") (**2004**). *Some aspects of chess programming*. M.Sc. thesis, [Technical University of Łódź](Technical_University_of_%C5%81%C3%B3d%C5%BA "Technical University of Łódź"), Supervisor [Maciej Szmit](Maciej_Szmit "Maciej Szmit") - Chapter 3 Implementation of my own chess program, pp. 62
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nesik chess engine](http://nesik.republika.pl/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Szachowa Vistula - partie (games) 1997-2013](http://vistula.linuxpl.eu/games/games.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> ["Some aspects of chess programming"](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=121) by [Grzegorz Sidorowicz](Grzegorz_Sidorowicz "Grzegorz Sidorowicz"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 02, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marek Strejczek](Marek_Strejczek "Marek Strejczek") (**2004**). *Some aspects of chess programming*. M.Sc. thesis, [Technical University of Łódź](Technical_University_of_%C5%81%C3%B3d%C5%BA "Technical University of Łódź"), Supervisor [Maciej Szmit](Maciej_Szmit "Maciej Szmit") - Chapter 3 Implementation of my own chess program, pp. 62
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nesik chess engine](http://nesik.republika.pl/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Szachowa Vistula - partie (games) 1997-2013](http://vistula.linuxpl.eu/games/games.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> ["Some aspects of chess programming"](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=121) by [Grzegorz Sidorowicz](Grzegorz_Sidorowicz "Grzegorz Sidorowicz"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 02, 2004
 
 **[Engines](Engines "Engines")**
 

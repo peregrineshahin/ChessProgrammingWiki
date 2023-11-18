@@ -37,9 +37,9 @@ and more recently, on a [data mining](https://en.wikipedia.org/wiki/Data_mining)
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Shan-Tai Chen, [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") (**2004**) *Optimal Algorithms for 2 × n AB Games – A Graph-Partition Approach*. [Journal of Information Science and Engineering, Vol. 20](https://dblp.uni-trier.de/db/journals/jise/jise20.html), No. 1, [pdf](http://www.rosenbaum-games.de/3m/p1/Mastermind/2003shantai02.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Shan-Tai Chen](https://dblp.uni-trier.de/pers/hd/c/Chen:Shan=Tai)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Binary decision diagram from Wikipedia](https://en.wikipedia.org/wiki/Binary_decision_diagram)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Shan-Tai Chen, [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") (**2004**) *Optimal Algorithms for 2 × n AB Games – A Graph-Partition Approach*. [Journal of Information Science and Engineering, Vol. 20](https://dblp.uni-trier.de/db/journals/jise/jise20.html), No. 1, [pdf](http://www.rosenbaum-games.de/3m/p1/Mastermind/2003shantai02.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Shan-Tai Chen](https://dblp.uni-trier.de/pers/hd/c/Chen:Shan=Tai)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Binary decision diagram from Wikipedia](https://en.wikipedia.org/wiki/Binary_decision_diagram)
 
 **[Up one level](People "People")**
 

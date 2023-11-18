@@ -23,10 +23,10 @@ an American computer scientist and professor emeritus at [Michigan State Univers
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [George Stockman's MSU Homepage](http://web.cse.msu.edu/%7Estockman/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> George Stockman (**1979**). *[A Minimax Algorithm Better than Alpha-Beta?](https://www.semanticscholar.org/paper/A-Minimax-Algorithm-Better-than-Alpha-Beta-Stockman/831d33e985e8cfcfbf3d3259ef7ff7273260c6d8)* [Artificial Intelligence](<https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)>), Vol. 12, No. 2
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: George C. Stockman](https://dblp.uni-trier.de/pers/hd/s/Stockman:George_C=)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Pulse from Wikipedia](https://en.wikipedia.org/wiki/Pulse)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [George Stockman's MSU Homepage](http://web.cse.msu.edu/%7Estockman/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> George Stockman (**1979**). *[A Minimax Algorithm Better than Alpha-Beta?](https://www.semanticscholar.org/paper/A-Minimax-Algorithm-Better-than-Alpha-Beta-Stockman/831d33e985e8cfcfbf3d3259ef7ff7273260c6d8)* [Artificial Intelligence](<https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)>), Vol. 12, No. 2
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: George C. Stockman](https://dblp.uni-trier.de/pers/hd/s/Stockman:George_C=)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Pulse from Wikipedia](https://en.wikipedia.org/wiki/Pulse)
 
 **[Up one level](People "People")**
 

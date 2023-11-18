@@ -52,12 +52,12 @@ In 1983, Parker Brothers further purchased Chess as cartridge system for [Atari 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Atari 400 800 XL XE Chess : scans, dump, download, screenshots, ads, videos, catalog, instructions, roms](http://www.atarimania.com/game-atari-400-800-xl-xe-chess_1020.html), PDF version
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
- 4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal"), see [Chipography](https://www.schach-computer.info/wiki/images/5/56/ICCA1989_12_1_part.jpg) hosted by [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) 
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Broughton, David](https://www.schach-computer.info/wiki/index.php/Broughton,_David) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Atari 400 800 XL XE Chess : scans, dump, download, screenshots, ads, videos, catalog, instructions, roms](http://www.atarimania.com/game-atari-400-800-xl-xe-chess_1020.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Atari 400 800 XL XE Chess : scans, dump, download, screenshots, ads, videos, catalog, instructions, roms](http://www.atarimania.com/game-atari-400-800-xl-xe-chess_1020.html), PDF version
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
+ 4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal"), see [Chipography](https://www.schach-computer.info/wiki/images/5/56/ICCA1989_12_1_part.jpg) hosted by [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) 
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Broughton, David](https://www.schach-computer.info/wiki/index.php/Broughton,_David) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Atari 400 800 XL XE Chess : scans, dump, download, screenshots, ads, videos, catalog, instructions, roms](http://www.atarimania.com/game-atari-400-800-xl-xe-chess_1020.html)
 
 **[Up one Level](Engines "Engines")**
 

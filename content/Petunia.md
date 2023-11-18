@@ -28,8 +28,8 @@ an experimental chess program applying a [parallel search](Parallel_Search "Para
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Petunia exserta](https://commons.wikimedia.org/wiki/File:Petunia_exserta_by_Scott_Zona_-_004_%281%29.jpg) by [Scott Zona](https://www.flickr.com/people/12017190@N06), cultivated from seeds from [www.greensparrowgardens.com](http://www.greensparrowgardens.com/). Biological Sciences greenhouse, [Florida International University](https://en.wikipedia.org/wiki/Florida_International_University), [Miami](https://en.wikipedia.org/wiki/Miami), [Florida](https://en.wikipedia.org/wiki/Florida), USA, [Petunia from Wikipedia](https://en.wikipedia.org/wiki/Petunia), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1993**). *Report on the 13th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Petunia exserta](https://commons.wikimedia.org/wiki/File:Petunia_exserta_by_Scott_Zona_-_004_%281%29.jpg) by [Scott Zona](https://www.flickr.com/people/12017190@N06), cultivated from seeds from [www.greensparrowgardens.com](http://www.greensparrowgardens.com/). Biological Sciences greenhouse, [Florida International University](https://en.wikipedia.org/wiki/Florida_International_University), [Miami](https://en.wikipedia.org/wiki/Miami), [Florida](https://en.wikipedia.org/wiki/Florida), USA, [Petunia from Wikipedia](https://en.wikipedia.org/wiki/Petunia), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1993**). *Report on the 13th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

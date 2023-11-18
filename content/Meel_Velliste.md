@@ -37,12 +37,12 @@ an Estonian computer scientist, biomedical engineer and member of the founding t
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Meel Velliste - AngelList](https://angel.co/mvelliste)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Meel Velliste - AngelList](https://angel.co/mvelliste)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fivetran - Integrations for Amazon Redshift](https://angel.co/fivetran)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), Meel Velliste (**1998**). *[Chess Endgames and Neural Networks](http://centaur.reading.ac.uk/4569/)*. [ICCA Journal, Vol. 21, No. 4](ICGA_Journal#21_4 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Meel Velliste](http://dblp.uni-trier.de/pers/hd/v/Velliste:Meel)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [University of Pittsburgh | Motorlab - Publications](http://motorlab.neurobio.pitt.edu/publications.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Meel Velliste - AngelList](https://angel.co/mvelliste)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Meel Velliste - AngelList](https://angel.co/mvelliste)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fivetran - Integrations for Amazon Redshift](https://angel.co/fivetran)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), Meel Velliste (**1998**). *[Chess Endgames and Neural Networks](http://centaur.reading.ac.uk/4569/)*. [ICCA Journal, Vol. 21, No. 4](ICGA_Journal#21_4 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Meel Velliste](http://dblp.uni-trier.de/pers/hd/v/Velliste:Meel)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [University of Pittsburgh | Motorlab - Publications](http://motorlab.neurobio.pitt.edu/publications.php)
 
 **[Up one level](People "People")**
 

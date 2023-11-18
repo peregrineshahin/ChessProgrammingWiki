@@ -58,11 +58,11 @@ More recently, he contributes to the [Stockfish](Stockfish "Stockfish") project 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Brian Sheppard talks about Maven](http://www.funkitron.com/HowToPlay/Pages/AboutMaven.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Brian Sheppard (**2002**). *Towards Perfect Play of Scrabble*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Brian Sheppard (**1996**). *A Professional Programmer*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, No. 3+4, pp. 117
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Stockfish/AUTHORS](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> slightly revised version of the [CG 2004](CG_2004 "CG 2004") paper
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Brian Sheppard talks about Maven](http://www.funkitron.com/HowToPlay/Pages/AboutMaven.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Brian Sheppard (**2002**). *Towards Perfect Play of Scrabble*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Brian Sheppard (**1996**). *A Professional Programmer*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, No. 3+4, pp. 117
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Stockfish/AUTHORS](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> slightly revised version of the [CG 2004](CG_2004 "CG 2004") paper
 
 **[Up one level](People "People")**
 

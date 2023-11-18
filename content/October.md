@@ -56,9 +56,9 @@ a chess program by [Henk Kuyer](Henk_Kuyer "Henk Kuyer"), which competed at the 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> October from [Très Riches Heures du Duc de Berry from Wikipedia](https://en.wikipedia.org/wiki/Tr%C3%A8s_Riches_Heures_du_Duc_de_Berry), the background contains the [Louvre](https://en.wikipedia.org/wiki/Mus%C3%A9e_du_Louvre)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1989**). *The 9th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Report on the 8th Dutch National Computer-Chess Championship*. [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> October from [Très Riches Heures du Duc de Berry from Wikipedia](https://en.wikipedia.org/wiki/Tr%C3%A8s_Riches_Heures_du_Duc_de_Berry), the background contains the [Louvre](https://en.wikipedia.org/wiki/Mus%C3%A9e_du_Louvre)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1989**). *The 9th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Report on the 8th Dutch National Computer-Chess Championship*. [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

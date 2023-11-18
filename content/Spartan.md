@@ -119,14 +119,14 @@ Spartan uses the [Euclidean distance](https://en.wikipedia.org/wiki/Euclidean_di
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SPARTAN-101](https://de.wikipedia.org/wiki/SPARTAN#SPARTAN_101) (Shuttle Pointed Autonomous Research Tool for Astronomy) carrier module of [STS-51-G](https://en.wikipedia.org/wiki/STS-51-G), the 18th flight of [NASA's](https://en.wikipedia.org/wiki/NASA) [Space Shuttle](https://en.wikipedia.org/wiki/Space_Shuttle) [program](https://en.wikipedia.org/wiki/Space_Shuttle_program), and the fifth flight of [Space Shuttle Discovery](https://en.wikipedia.org/wiki/Space_Shuttle_Discovery), June 17-24, 1985, [NASA](https://en.wikipedia.org/wiki/NASA) image, [SPARTAN – Wikipedia.de](https://de.wikipedia.org/wiki/SPARTAN) (German), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New UCI engine: Spartan](http://www.open-chess.org/viewtopic.php?f=7&t=2973) by [CDaley11](Christian_Daley "Christian Daley"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 23, 2016
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Spartan/bitscan.h at master · christiandaley/Spartan · GitHub](https://github.com/christiandaley/Spartan/blob/master/src/bitscan.h)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Spartan/bitscan.c at master · christiandaley/Spartan · GitHub](https://github.com/christiandaley/Spartan/blob/master/src/bitscan.c)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [partan/eval.h at master · christiandaley/Spartan · GitHub](https://github.com/christiandaley/Spartan/blob/master/src/eval.h), #define DIST(sq1, sq2) ((int)sqrt(((...
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [C sqrt() - C Standard Library](https://www.programiz.com/c-programming/library-function/math.h/sqrt)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Spartan/Readme.md at master · christiandaley/Spartan · GitHub](https://github.com/christiandaley/Spartan/blob/master/Readme.md)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Spartan Chess - Chess Variant Page](https://www.chessvariants.com/rules/spartan-chess)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SPARTAN-101](https://de.wikipedia.org/wiki/SPARTAN#SPARTAN_101) (Shuttle Pointed Autonomous Research Tool for Astronomy) carrier module of [STS-51-G](https://en.wikipedia.org/wiki/STS-51-G), the 18th flight of [NASA's](https://en.wikipedia.org/wiki/NASA) [Space Shuttle](https://en.wikipedia.org/wiki/Space_Shuttle) [program](https://en.wikipedia.org/wiki/Space_Shuttle_program), and the fifth flight of [Space Shuttle Discovery](https://en.wikipedia.org/wiki/Space_Shuttle_Discovery), June 17-24, 1985, [NASA](https://en.wikipedia.org/wiki/NASA) image, [SPARTAN – Wikipedia.de](https://de.wikipedia.org/wiki/SPARTAN) (German), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New UCI engine: Spartan](http://www.open-chess.org/viewtopic.php?f=7&t=2973) by [CDaley11](Christian_Daley "Christian Daley"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 23, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Spartan/bitscan.h at master · christiandaley/Spartan · GitHub](https://github.com/christiandaley/Spartan/blob/master/src/bitscan.h)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Spartan/bitscan.c at master · christiandaley/Spartan · GitHub](https://github.com/christiandaley/Spartan/blob/master/src/bitscan.c)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [partan/eval.h at master · christiandaley/Spartan · GitHub](https://github.com/christiandaley/Spartan/blob/master/src/eval.h), #define DIST(sq1, sq2) ((int)sqrt(((...
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [C sqrt() - C Standard Library](https://www.programiz.com/c-programming/library-function/math.h/sqrt)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Spartan/Readme.md at master · christiandaley/Spartan · GitHub](https://github.com/christiandaley/Spartan/blob/master/Readme.md)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Spartan Chess - Chess Variant Page](https://www.chessvariants.com/rules/spartan-chess)
 
 **[Up one Level](Engines "Engines")**
 

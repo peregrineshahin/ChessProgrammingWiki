@@ -38,11 +38,11 @@ FastChess' [hyperparameters](<https://en.wikipedia.org/wiki/Hyperparameter_(mach
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [fastchess/README.md at master · thomasahle/fastchess · GitHub - Screenshot](https://github.com/thomasahle/fastchess/blob/master/README.md#screenshot)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [fastchess/README.md at master · thomasahle/fastchess · GitHub - Teaching FastText to play Chess](https://github.com/thomasahle/fastchess/blob/master/README.md#teaching-fasttext-to-play-chess)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [fastchess/README.md at master · thomasahle/fastchess · GitHub - Train the model](https://github.com/thomasahle/fastchess/blob/master/README.md#train-the-model)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [New Tool for Tuning with Skopt](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=71650) by [Thomas Dybdahl Ahle](Thomas_Dybdahl_Ahle "Thomas Dybdahl Ahle"), [CCC](CCC "CCC"), August 25, 2019
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [skopt API documentation](https://scikit-optimize.github.io/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [fastchess/README.md at master · thomasahle/fastchess · GitHub - Screenshot](https://github.com/thomasahle/fastchess/blob/master/README.md#screenshot)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [fastchess/README.md at master · thomasahle/fastchess · GitHub - Teaching FastText to play Chess](https://github.com/thomasahle/fastchess/blob/master/README.md#teaching-fasttext-to-play-chess)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [fastchess/README.md at master · thomasahle/fastchess · GitHub - Train the model](https://github.com/thomasahle/fastchess/blob/master/README.md#train-the-model)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [New Tool for Tuning with Skopt](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=71650) by [Thomas Dybdahl Ahle](Thomas_Dybdahl_Ahle "Thomas Dybdahl Ahle"), [CCC](CCC "CCC"), August 25, 2019
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [skopt API documentation](https://scikit-optimize.github.io/)
 
 **[Up one level](Engines "Engines")**
 

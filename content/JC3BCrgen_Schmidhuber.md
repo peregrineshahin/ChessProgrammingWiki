@@ -100,13 +100,13 @@ Jürgen Schmidhuber is known for his research on [machine learning](Learning "Le
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [NNAISENSE Team](https://nnaisense.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [NNAISENSE Team](https://nnaisense.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Deep Learning - Scholarpedia](http://www.scholarpedia.org/article/Deep_Learning) by Jürgen Schmidhuber
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jürgen Schmidhuber from Wikipedia](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Juergen Schmidhuber's publications](http://www.idsia.ch/~juergen/onlinepub.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Jürgen Schmidhuber](https://dblp.uni-trier.de/pers/hd/s/Schmidhuber:J=uuml=rgen)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Partially Observable Markov Decision Process (POMDP) from Wikipedia](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [NNAISENSE Team](https://nnaisense.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [NNAISENSE Team](https://nnaisense.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Deep Learning - Scholarpedia](http://www.scholarpedia.org/article/Deep_Learning) by Jürgen Schmidhuber
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jürgen Schmidhuber from Wikipedia](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Juergen Schmidhuber's publications](http://www.idsia.ch/~juergen/onlinepub.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Jürgen Schmidhuber](https://dblp.uni-trier.de/pers/hd/s/Schmidhuber:J=uuml=rgen)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Partially Observable Markov Decision Process (POMDP) from Wikipedia](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process)
 
 **[Up one level](People "People")**
 

@@ -24,11 +24,11 @@ a Taiwanese computer scientist affiliated with the Computer Games and Intelligen
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Members - lab-aigames](http://www.aigames.nctu.edu.tw/members)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [lab-aigames](http://www.aigames.nctu.edu.tw/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CGI-2048](http://2048.aigames.nctu.edu.tw/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Chao-Chin Liang](http://dblp.uni-trier.de/pers/hd/l/Liang:Chao=Chin)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Best Paper Awards | TAAI 2014](http://taai2014.ntust.edu.tw/best-paper-award/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Members - lab-aigames](http://www.aigames.nctu.edu.tw/members)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [lab-aigames](http://www.aigames.nctu.edu.tw/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CGI-2048](http://2048.aigames.nctu.edu.tw/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Chao-Chin Liang](http://dblp.uni-trier.de/pers/hd/l/Liang:Chao=Chin)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Best Paper Awards | TAAI 2014](http://taai2014.ntust.edu.tw/best-paper-award/)
 
 **[Up one Level](People "People")**
 

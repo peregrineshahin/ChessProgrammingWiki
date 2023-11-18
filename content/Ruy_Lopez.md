@@ -66,12 +66,12 @@ Ruy-Lopez is a standard [alpha-beta](Alpha-Beta "Alpha-Beta") searcher, with som
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Game of Chess between [Ruy López](https://en.wikipedia.org/wiki/Ruy_L%C3%B3pez_de_Segura) and [Leonardo da Cutro](https://en.wikipedia.org/wiki/Giovanni_Leonardo_Di_Bona) at the Spanish Court, Painting by [Luigi Mussini](index.php?title=Category:Luigi_Mussini&action=edit&redlink=1 "Category:Luigi Mussini (page does not exist)") (1886)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué") (left) and [José Manuel Morán](Jos%C3%A9_Manuel_Mor%C3%A1n "José Manuel Morán") at [WCCC 2003](WCCC_2003 "WCCC 2003"), from [Chess in a cave – live from Graz](https://en.chessbase.com/post/che-in-a-cave-live-from-graz), [ChessBase News](ChessBase "ChessBase"), November, 23, 2003
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Graz 2003 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=1&id=2)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ruy Lopez' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=96)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Antonio de Torquemada from Wikipedia](https://en.wikipedia.org/wiki/Antonio_de_Torquemada)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Spanish Checkers | Board Game | BoardGameGeek](https://boardgamegeek.com/boardgame/36250/spanish-checkers)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Game of Chess between [Ruy López](https://en.wikipedia.org/wiki/Ruy_L%C3%B3pez_de_Segura) and [Leonardo da Cutro](https://en.wikipedia.org/wiki/Giovanni_Leonardo_Di_Bona) at the Spanish Court, Painting by [Luigi Mussini](index.php?title=Category:Luigi_Mussini&action=edit&redlink=1 "Category:Luigi Mussini (page does not exist)") (1886)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué") (left) and [José Manuel Morán](Jos%C3%A9_Manuel_Mor%C3%A1n "José Manuel Morán") at [WCCC 2003](WCCC_2003 "WCCC 2003"), from [Chess in a cave – live from Graz](https://en.chessbase.com/post/che-in-a-cave-live-from-graz), [ChessBase News](ChessBase "ChessBase"), November, 23, 2003
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Graz 2003 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=1&id=2)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ruy Lopez' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=96)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Antonio de Torquemada from Wikipedia](https://en.wikipedia.org/wiki/Antonio_de_Torquemada)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Spanish Checkers | Board Game | BoardGameGeek](https://boardgamegeek.com/boardgame/36250/spanish-checkers)
 
 **[Up one level](Engines "Engines")**
 

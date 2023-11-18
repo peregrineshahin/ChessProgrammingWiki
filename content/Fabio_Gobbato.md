@@ -54,10 +54,10 @@ and the tool *ParserCutechess*, which parses the output of [Cutechess-cli](Cutec
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [International Gsei Tournament 2013 « G 6](https://www.g-sei.org/i-g-t-2013//), Fabio Gobbato at [IGT 2013](IGT_2013 "IGT 2013")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [QBBEngine - A didactic engine](https://sites.google.com/site/pedonechess/a-didactic-engine)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: MATCH sanity](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=63888&start=2) by [Salvatore Giannotti](Salvatore_Giannotti "Salvatore Giannotti"), [CCC](CCC "CCC"), May 03, 2017
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [New commercial engine Revenge 1.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77684) by Fabio Gobbato, [CCC](CCC "CCC"), July 09, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [International Gsei Tournament 2013 « G 6](https://www.g-sei.org/i-g-t-2013//), Fabio Gobbato at [IGT 2013](IGT_2013 "IGT 2013")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [QBBEngine - A didactic engine](https://sites.google.com/site/pedonechess/a-didactic-engine)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: MATCH sanity](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=63888&start=2) by [Salvatore Giannotti](Salvatore_Giannotti "Salvatore Giannotti"), [CCC](CCC "CCC"), May 03, 2017
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [New commercial engine Revenge 1.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77684) by Fabio Gobbato, [CCC](CCC "CCC"), July 09, 2021
 
 **[Up one level](People "People")**
 

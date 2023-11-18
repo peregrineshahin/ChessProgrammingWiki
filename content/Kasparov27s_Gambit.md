@@ -62,11 +62,11 @@ Meanwhile Titan, which won the title under the name "Socrates II", was purchased
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Kasparov's Gambit from Wikipedia](https://en.wikipedia.org/wiki/Kasparov%27s_Gambit)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kasparov licensees](http://www.mobygames.com/game-group/kasparov-licensees) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kasparov's Gambit for DOS (1993)](http://www.mobygames.com/game/kasparovs-gambit) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kasparov's Gambit (1993) screenshots](http://www.mobygames.com/game/dos/kasparovs-gambit/screenshots) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1993**). *PC-Software*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 4, No. 1, pp. 8-9
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Kasparov's Gambit from Wikipedia](https://en.wikipedia.org/wiki/Kasparov%27s_Gambit)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kasparov licensees](http://www.mobygames.com/game-group/kasparov-licensees) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kasparov's Gambit for DOS (1993)](http://www.mobygames.com/game/kasparovs-gambit) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kasparov's Gambit (1993) screenshots](http://www.mobygames.com/game/dos/kasparovs-gambit/screenshots) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1993**). *PC-Software*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 4, No. 1, pp. 8-9
 
 **[Up one Level](Engines "Engines")**
 

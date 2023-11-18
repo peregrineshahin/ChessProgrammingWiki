@@ -24,8 +24,8 @@ a chess program by [Thomas Schaefer](index.php?title=Thomas_Schaefer&action=edit
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Game of 1794 entitled The royal pastime of cupid, or Entertaining game of the snake; by [Robert Laurie](https://en.wikipedia.org/wiki/Robert_Laurie_(engraver)) and James Whittle, [London](https://en.wikipedia.org/wiki/London), [Bodleian Libraries](https://en.wikipedia.org/wiki/Bodleian_Libraries), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Anne Marie Burton, [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1991**). *Report on the 1st International Paderborn Computer Chess Championship*. [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Game of 1794 entitled The royal pastime of cupid, or Entertaining game of the snake; by [Robert Laurie](https://en.wikipedia.org/wiki/Robert_Laurie_(engraver)) and James Whittle, [London](https://en.wikipedia.org/wiki/London), [Bodleian Libraries](https://en.wikipedia.org/wiki/Bodleian_Libraries), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Anne Marie Burton, [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1991**). *Report on the 1st International Paderborn Computer Chess Championship*. [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
 
 **[Up one Level](Engines "Engines")**
 

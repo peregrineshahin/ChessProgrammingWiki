@@ -26,8 +26,8 @@ an Ukrainian chess programmer and author of the chess program [Booot](Booot "Boo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [1st Italian Open Computer Chess Cup](IOCSC_2010 "IOCSC 2010"), November 14-15, 2010, [Giocando con i Re - Home](http://www.giocandoconire.it/) (Italian)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Alex Morozov (**2008**). *The 1st Computer Chess Championship of CIS Countries*. [ICGA Journal, Vol. 31 No. 2](ICGA_Journal#31_2 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [1st Italian Open Computer Chess Cup](IOCSC_2010 "IOCSC 2010"), November 14-15, 2010, [Giocando con i Re - Home](http://www.giocandoconire.it/) (Italian)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Alex Morozov (**2008**). *The 1st Computer Chess Championship of CIS Countries*. [ICGA Journal, Vol. 31 No. 2](ICGA_Journal#31_2 "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -36,9 +36,9 @@ an Indonesian computer scientist, IT professional, chess player and as computer 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Peter A. Harjanto - Quora](https://id.quora.com/profile/Peter-A-Harjanto)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Petir 4.999999](http://kirill-kryukov.com/chess/kcec/cgi/engine_details.cgi?print=Details&each_game=1&eng=Petir%204.999999) in [KCEC](KCEC "KCEC") by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Peter Aloysius Harjanto former LinkedIn site
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Peter A. Harjanto - Quora](https://id.quora.com/profile/Peter-A-Harjanto)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Petir 4.999999](http://kirill-kryukov.com/chess/kcec/cgi/engine_details.cgi?print=Details&each_game=1&eng=Petir%204.999999) in [KCEC](KCEC "KCEC") by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Peter Aloysius Harjanto former LinkedIn site
 
 **[Up one level](People "People")**
 

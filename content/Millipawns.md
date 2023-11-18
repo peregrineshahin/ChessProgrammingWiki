@@ -44,8 +44,8 @@ a score unit which corresponds approximately to **one thousandth** of a [pawn un
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photograph of a [millipede](https://en.wikipedia.org/wiki/Millipede) taken by [Eric Guinther](https://en.wikipedia.org/wiki/User:Marshman) on [O'ahu](https://en.wikipedia.org/wiki/Oahu), [Hawai'i](https://en.wikipedia.org/wiki/Hawaii), [Trigoniulus corallinus - Wikimedia Commons](http://commons.wikimedia.org/wiki/Trigoniulus_corallinus)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Centipawns and Millipawns](http://www.talkchess.com/forum/viewtopic.php?t=29694&start=10) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), September 08, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photograph of a [millipede](https://en.wikipedia.org/wiki/Millipede) taken by [Eric Guinther](https://en.wikipedia.org/wiki/User:Marshman) on [O'ahu](https://en.wikipedia.org/wiki/Oahu), [Hawai'i](https://en.wikipedia.org/wiki/Hawaii), [Trigoniulus corallinus - Wikimedia Commons](http://commons.wikimedia.org/wiki/Trigoniulus_corallinus)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Centipawns and Millipawns](http://www.talkchess.com/forum/viewtopic.php?t=29694&start=10) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), September 08, 2009
 
 **[Up one level](Score "Score")**
 

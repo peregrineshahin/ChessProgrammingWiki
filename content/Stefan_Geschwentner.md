@@ -55,10 +55,10 @@ but soon became a primary member of the Stockfish community, and contributed in 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from [Stefan Geschwentner über Künstliche Intelligenz und einer Aufforderung zum Duell von Google's KI](https://www.codenground.de/stefan-geschwentner-ueber-kuenstliche-intelligenz-und-einer-aufforderung-zum-duell-von-googles-ki/) by [Armin Haas](https://www.codenground.de/author/armin-haas/), [code'n'ground AG](https://www.codenground.de/), January 17, 2019 (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Botvinnik-Markov...these guys..](https://groups.google.com/d/msg/fishcooking/kZmhBPI2p6M/tJUZgmpfOUsJ) by Stefan Geschwentner, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), August 28, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Followup moves](https://groups.google.com/d/msg/fishcooking/d8IhZZJSBGc/PrN-8dP26dIJ) by Stefan Geschwentner, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), January 12, 2014
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Pinned pieces in king safety](https://groups.google.com/d/msg/fishcooking/lIjQUH3dsYg/4VEtHUkrdBsJ) by Stefan Geschwentner, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), March 28, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from [Stefan Geschwentner über Künstliche Intelligenz und einer Aufforderung zum Duell von Google's KI](https://www.codenground.de/stefan-geschwentner-ueber-kuenstliche-intelligenz-und-einer-aufforderung-zum-duell-von-googles-ki/) by [Armin Haas](https://www.codenground.de/author/armin-haas/), [code'n'ground AG](https://www.codenground.de/), January 17, 2019 (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Botvinnik-Markov...these guys..](https://groups.google.com/d/msg/fishcooking/kZmhBPI2p6M/tJUZgmpfOUsJ) by Stefan Geschwentner, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), August 28, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Followup moves](https://groups.google.com/d/msg/fishcooking/d8IhZZJSBGc/PrN-8dP26dIJ) by Stefan Geschwentner, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), January 12, 2014
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Pinned pieces in king safety](https://groups.google.com/d/msg/fishcooking/lIjQUH3dsYg/4VEtHUkrdBsJ) by Stefan Geschwentner, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), March 28, 2014
 
 **[Up one level](People "People")**
 

@@ -51,13 +51,13 @@ and the [Skein relation](https://en.wikipedia.org/wiki/Skein_relation), publicat
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ICGA: Amazons](http://icga.leidenuniv.nl/icga/games/amazons/) by [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mathematician | Victor Anatolyevich Vassiliev](Mathematician#VictorVassiliev "Mathematician")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mathematician | Louis Kauffman](Mathematician#LouisKauffman "Mathematician")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mathematician | James Waddell Alexander](Mathematician#JWAlexander "Mathematician")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Jens Lieberum](https://dblp.uni-trier.de/pers/hd/l/Lieberum:Jens)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Mathematician | Vladimir Drinfeld](Mathematician#VDrinfeld "Mathematician")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [K-Best Visualisations](https://althofer.de/k-best-visualisations.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ICGA: Amazons](http://icga.leidenuniv.nl/icga/games/amazons/) by [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mathematician | Victor Anatolyevich Vassiliev](Mathematician#VictorVassiliev "Mathematician")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mathematician | Louis Kauffman](Mathematician#LouisKauffman "Mathematician")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mathematician | James Waddell Alexander](Mathematician#JWAlexander "Mathematician")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Jens Lieberum](https://dblp.uni-trier.de/pers/hd/l/Lieberum:Jens)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mathematician | Vladimir Drinfeld](Mathematician#VDrinfeld "Mathematician")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [K-Best Visualisations](https://althofer.de/k-best-visualisations.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
 
 **[Up one level](People "People")**
 

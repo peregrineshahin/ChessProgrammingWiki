@@ -54,13 +54,13 @@ a Japanese computer scientist at Graduate School of Arts and Sciences, the [Univ
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), Tetsuro Tanaka (**2012**). *[GPSShogi and Assembly of Large Shogi Software with Text Protocol](https://www.jstage.jst.go.jp/article/jssst/29/1/29_1_1_75/_article)*. [Computer Software - JSSST Journal, Vol. 29, No. 1](https://www.jstage.jst.go.jp/browse/jssst/29/1/_contents)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [TANAKA Tetsuro](http://www.tanaka.ecc.u-tokyo.ac.jp/ktanaka/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GPSShogi](http://gps.tanaka.ecc.u-tokyo.ac.jp/gpsshogi/index.php?GPSShogiEn)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hiroyuki Miura - 8-dan Professionals](http://www2.teu.ac.jp/gamelab/SHOGI/pro8dan.html#Miura) by [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computer shogi - Computers versus humans - Denou-sen (2013) - Wikipedia](https://en.wikipedia.org/wiki/Computer_shogi#Denou-sen_.282013.29)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Tetsuro Tanaka](http://www.informatik.uni-trier.de/~ley/pers/hd/t/Tanaka:Tetsuro)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [TANAKA Teturo's Papers](http://www.tanaka.ecc.u-tokyo.ac.jp/~ktanaka/papers.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), Tetsuro Tanaka (**2012**). *[GPSShogi and Assembly of Large Shogi Software with Text Protocol](https://www.jstage.jst.go.jp/article/jssst/29/1/29_1_1_75/_article)*. [Computer Software - JSSST Journal, Vol. 29, No. 1](https://www.jstage.jst.go.jp/browse/jssst/29/1/_contents)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TANAKA Tetsuro](http://www.tanaka.ecc.u-tokyo.ac.jp/ktanaka/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GPSShogi](http://gps.tanaka.ecc.u-tokyo.ac.jp/gpsshogi/index.php?GPSShogiEn)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hiroyuki Miura - 8-dan Professionals](http://www2.teu.ac.jp/gamelab/SHOGI/pro8dan.html#Miura) by [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computer shogi - Computers versus humans - Denou-sen (2013) - Wikipedia](https://en.wikipedia.org/wiki/Computer_shogi#Denou-sen_.282013.29)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Tetsuro Tanaka](http://www.informatik.uni-trier.de/~ley/pers/hd/t/Tanaka:Tetsuro)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [TANAKA Teturo's Papers](http://www.tanaka.ecc.u-tokyo.ac.jp/~ktanaka/papers.html)
 
 **[Up one level](People "People")**
 

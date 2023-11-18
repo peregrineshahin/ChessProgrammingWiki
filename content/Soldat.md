@@ -54,9 +54,9 @@ Soldat participated at the [International Gsei Tournament 2017](IGT_2017 "IGT 20
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jean Metzinger](Category:Jean_Metzinger "Category:Jean Metzinger") - [Soldat jouant aux échecs (Soldier at a Game of Chess, Le Soldat à la partie d'échecs)](https://en.wikipedia.org/wiki/Soldier_at_a_Game_of_Chess) 1914-15, [Smart Museum of Art](https://en.wikipedia.org/wiki/Smart_Museum_of_Art), [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New WB engine from Italy!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=38057) by [Leo Dijksman](Leo_Dijksman "Leo Dijksman"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 05, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Description based on Soldat\_3.187.c from [Soldat-3\_187.zip](http://www.g-sei.org/soldat/), [G 6](G_6 "G 6") site
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jean Metzinger](Category:Jean_Metzinger "Category:Jean Metzinger") - [Soldat jouant aux échecs (Soldier at a Game of Chess, Le Soldat à la partie d'échecs)](https://en.wikipedia.org/wiki/Soldier_at_a_Game_of_Chess) 1914-15, [Smart Museum of Art](https://en.wikipedia.org/wiki/Smart_Museum_of_Art), [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New WB engine from Italy!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=38057) by [Leo Dijksman](Leo_Dijksman "Leo Dijksman"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 05, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Description based on Soldat\_3.187.c from [Soldat-3\_187.zip](http://www.g-sei.org/soldat/), [G 6](G_6 "G 6") site
 
 **[Up one Level](Engines "Engines")**
 

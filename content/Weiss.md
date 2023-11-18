@@ -116,9 +116,9 @@ Weiss had its tournament debut at [TCEC Season 18](TCEC_Season_18 "TCEC Season 1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Weiss](https://en.wikipedia.org/wiki/Weiss_(crater)) (named after Austrian astronomer [Edmund Weiss](https://en.wikipedia.org/wiki/Edmund_Weiss)) and its satellite [craters](https://en.wikipedia.org/wiki/Impact_crater) on the [moon](https://en.wikipedia.org/wiki/Moon), [Image](https://commons.wikimedia.org/wiki/File:Weiss_satellite_craters_map.jpg) by [Андрей Щербаков](https://commons.wikimedia.org/wiki/User:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%A9%D0%B5%D1%80%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2), October 30, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Engine release: weiss](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72369) by [Terje Kirstihagen](index.php?title=Terje_Kirstihagen&action=edit&redlink=1 "Terje Kirstihagen (page does not exist)"), [CCC](CCC "CCC"), November 19, 2019
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [weiss/README.md at master · TerjeKir/weiss · GitHub](https://github.com/TerjeKir/weiss/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Weiss](https://en.wikipedia.org/wiki/Weiss_(crater)) (named after Austrian astronomer [Edmund Weiss](https://en.wikipedia.org/wiki/Edmund_Weiss)) and its satellite [craters](https://en.wikipedia.org/wiki/Impact_crater) on the [moon](https://en.wikipedia.org/wiki/Moon), [Image](https://commons.wikimedia.org/wiki/File:Weiss_satellite_craters_map.jpg) by [Андрей Щербаков](https://commons.wikimedia.org/wiki/User:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%A9%D0%B5%D1%80%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2), October 30, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Engine release: weiss](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72369) by [Terje Kirstihagen](index.php?title=Terje_Kirstihagen&action=edit&redlink=1 "Terje Kirstihagen (page does not exist)"), [CCC](CCC "CCC"), November 19, 2019
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [weiss/README.md at master · TerjeKir/weiss · GitHub](https://github.com/TerjeKir/weiss/blob/master/README.md)
 
 **[Up one Level](Engines "Engines")**
 

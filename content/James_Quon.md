@@ -33,10 +33,10 @@ was an American computer scientist, chess master and professional chess coach. A
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David B. Fogel](David_B._Fogel "David B. Fogel"), [Timothy J. Hays](Timothy_J._Hays "Timothy J. Hays"), [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), James Quon (**2004**). *[A Self-Learning Evolutionary Chess Program](https://ieeexplore.ieee.org/document/1360168?arnumber=1360168)*. [Proceedings of the IEEE](IEEE#Proceedings "IEEE"), Vol. 92, No. 12, [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.72.4267)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Southern California Chess Federation, Obituaries](http://www.scchess.com/obits.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David B. Fogel](David_B._Fogel "David B. Fogel"), [Timothy J. Hays](Timothy_J._Hays "Timothy J. Hays"), [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), James Quon (**2004**). *[A Self-Learning Evolutionary Chess Program](https://ieeexplore.ieee.org/document/1360168?arnumber=1360168)*. [Proceedings of the IEEE](IEEE#Proceedings "IEEE"), Vol. 92, No. 12, [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.72.4267)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: James Quon](https://dblp.uni-trier.de/pers/hd/q/Quon:James)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David B. Fogel](David_B._Fogel "David B. Fogel"), [Timothy J. Hays](Timothy_J._Hays "Timothy J. Hays"), [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), James Quon (**2004**). *[A Self-Learning Evolutionary Chess Program](https://ieeexplore.ieee.org/document/1360168?arnumber=1360168)*. [Proceedings of the IEEE](IEEE#Proceedings "IEEE"), Vol. 92, No. 12, [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.72.4267)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Southern California Chess Federation, Obituaries](http://www.scchess.com/obits.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David B. Fogel](David_B._Fogel "David B. Fogel"), [Timothy J. Hays](Timothy_J._Hays "Timothy J. Hays"), [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), James Quon (**2004**). *[A Self-Learning Evolutionary Chess Program](https://ieeexplore.ieee.org/document/1360168?arnumber=1360168)*. [Proceedings of the IEEE](IEEE#Proceedings "IEEE"), Vol. 92, No. 12, [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.72.4267)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: James Quon](https://dblp.uni-trier.de/pers/hd/q/Quon:James)
 
 **[Up one level](People "People")**
 

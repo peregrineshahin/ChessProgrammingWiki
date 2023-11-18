@@ -45,8 +45,8 @@ a chess computer and program developed by [Karl-Heinz Milaster](Karl-Heinz_Milas
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Karl-Heinz Milaster's Schachserver](http://www.schachserver.de/index.html) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Munich 1993 - Chess - Round 7 - Game 9 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=57&round=7&id=9)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Karl-Heinz Milaster's Schachserver](http://www.schachserver.de/index.html) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Munich 1993 - Chess - Round 7 - Game 9 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=57&round=7&id=9)
 
 **[Up one Level](Engines "Engines")**
 

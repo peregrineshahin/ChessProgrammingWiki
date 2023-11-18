@@ -38,9 +38,9 @@ an American computer scientist, programmer and independent computer software pro
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bruce Wright | LinkedIn](http://www.linkedin.com/pub/bruce-wright/8/295/19b)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chapter 10 - On the early days of Usenet: The Roots of the cooperative Online Culture](http://www.columbia.edu/~rh120/ch106.x10) a draft chapter
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Psi (parapsychology) from Wikipedia](https://en.wikipedia.org/wiki/Psi_%28parapsychology%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bruce Wright | LinkedIn](http://www.linkedin.com/pub/bruce-wright/8/295/19b)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chapter 10 - On the early days of Usenet: The Roots of the cooperative Online Culture](http://www.columbia.edu/~rh120/ch106.x10) a draft chapter
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Psi (parapsychology) from Wikipedia](https://en.wikipedia.org/wiki/Psi_%28parapsychology%29)
 
 **[Up one level](People "People")**
 

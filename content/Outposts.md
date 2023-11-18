@@ -64,8 +64,8 @@ To give an estimate of a typical outpost score, [Toga log user manual](Toga_Log#
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Biting on Granite - On Chess Improvement](http://open-chess.org/blog/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Biting on Granite » Nimzowitsch, My System: Part 1, Chapter 2 – The Open File - The outpost](http://open-chess.org/blog/?p=112)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Biting on Granite - On Chess Improvement](http://open-chess.org/blog/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Biting on Granite » Nimzowitsch, My System: Part 1, Chapter 2 – The Open File - The outpost](http://open-chess.org/blog/?p=112)
 
 **[Up one Level](Evaluation_Patterns "Evaluation Patterns")**
 

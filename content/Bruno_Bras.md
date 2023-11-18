@@ -26,13 +26,13 @@ Bruno Bras, [Bruno Lucas](Bruno_Lucas "Bruno Lucas"), [Ernest Bonnem](index.php?
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bruno Serge Pascal Bras | LinkedIn](https://www.linkedin.com/in/bruno-serge-pascal-bras-31330a186/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nest's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=344)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pacque Expert's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=126)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](https://web.archive.org/web/20021201212457/http://www.ludochess.com/fccc2002/tournoi.php3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Massy, France - 4 & 5 Oct 2003 - 10ème Championnat Français de Programmes d'Echecs](https://web.archive.org/web/20031025173751/http://www.ludochess.com/fccc2003/tournoi.php3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Massy, France - 16 & 17 Oct 2004 - 11ème Championnat Français de Programmes d'Echecs](https://web.archive.org/web/20041215192842/http://www.ludochess.com/fccc2004/tournoi.php3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](https://web.archive.org/web/20021201212457/http://www.ludochess.com/fccc2002/tournoi.php3), Other pictures from [Sylvain](Sylvain_Renard "Sylvain Renard") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bruno Serge Pascal Bras | LinkedIn](https://www.linkedin.com/in/bruno-serge-pascal-bras-31330a186/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nest's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=344)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pacque Expert's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=126)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](https://web.archive.org/web/20021201212457/http://www.ludochess.com/fccc2002/tournoi.php3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Massy, France - 4 & 5 Oct 2003 - 10ème Championnat Français de Programmes d'Echecs](https://web.archive.org/web/20031025173751/http://www.ludochess.com/fccc2003/tournoi.php3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Massy, France - 16 & 17 Oct 2004 - 11ème Championnat Français de Programmes d'Echecs](https://web.archive.org/web/20041215192842/http://www.ludochess.com/fccc2004/tournoi.php3) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](https://web.archive.org/web/20021201212457/http://www.ludochess.com/fccc2002/tournoi.php3), Other pictures from [Sylvain](Sylvain_Renard "Sylvain Renard") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

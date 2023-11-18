@@ -24,10 +24,10 @@ In 2008, Sajeer Mohammed was technical manager of [InfinityChess](index.php?titl
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hydra Chess - Hydra Team](https://web.archive.org/web/20071023231056fw_/http://www.hydrachess.com/main.cfm?middle=cfm/teamhydra.cfm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), October 23, 2007)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [sajeer muhammad | LinkedIn](https://www.linkedin.com/in/sajeerm/?originalSubdomain=ae)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hydra Chess - Hydra Team](https://web.archive.org/web/20071023231056fw_/http://www.hydrachess.com/main.cfm?middle=cfm/teamhydra.cfm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), October 23, 2007)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hydrachess 64 Clusters](http://www.infinitychess.com/newsdetails.php?id=9) (no longer available) from [Infinitychess](http://www.infinitychess.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hydra Chess - Hydra Team](https://web.archive.org/web/20071023231056fw_/http://www.hydrachess.com/main.cfm?middle=cfm/teamhydra.cfm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), October 23, 2007)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [sajeer muhammad | LinkedIn](https://www.linkedin.com/in/sajeerm/?originalSubdomain=ae)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hydra Chess - Hydra Team](https://web.archive.org/web/20071023231056fw_/http://www.hydrachess.com/main.cfm?middle=cfm/teamhydra.cfm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), October 23, 2007)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hydrachess 64 Clusters](http://www.infinitychess.com/newsdetails.php?id=9) (no longer available) from [Infinitychess](http://www.infinitychess.com/)
 
 **[Up one level](People "People")**
 

@@ -41,7 +41,7 @@ title: Australian National University
 
 ## [College of Engineering and Computer Science](http://cecs.anu.edu.au/) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The City of Canberra, Image by [Alex Proimos](https://www.flickr.com/people/34120957@N04), January 20, 2012, [Australian National University from Wikipedia](https://en.wikipedia.org/wiki/Australian_National_University)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The City of Canberra, Image by [Alex Proimos](https://www.flickr.com/people/34120957@N04), January 20, 2012, [Australian National University from Wikipedia](https://en.wikipedia.org/wiki/Australian_National_University)
 
 **[Up one Level](Organizations "Organizations")**
 

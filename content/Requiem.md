@@ -41,11 +41,11 @@ and lacks a main [transposition table](Transposition_Table "Transposition Table"
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Doris Neidl](Category:Doris_Neidl "Category:Doris Neidl"), 2002, [Collage](https://www.dorisneidl.net/illustration?lightbox=image_18ck) to [Frederike Mayroecker's](https://en.wikipedia.org/wiki/Friederike_Mayr%C3%B6cker) book *[Requiem for Ernst Jandl](https://www.amazon.com/Requiem-Ernst-Jandl-German-List/dp/0857424750)*, [Ernst Jandl from Wikipedia](https://en.wikipedia.org/wiki/Ernst_Jandl) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Requiem (a WinBoard compatible engine) RELEASED!](https://www.stmintz.com/ccc/index.php?id=201192) by [Severi Salminen](Severi_Salminen "Severi Salminen"), [CCC](CCC "CCC"), December 09, 2001
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Requiem v0.52 released](https://www.stmintz.com/ccc/index.php?id=212309) by [Severi Salminen](Severi_Salminen "Severi Salminen"), [CCC](CCC "CCC"), February 07, 2002
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [To Severi Salminen about Requiem](https://www.stmintz.com/ccc/index.php?id=207641) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [CCC](CCC "CCC"), January 16, 2002
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Homepage of Severi Salminen - Requiem](http://www.saunalahti.fi/~sevesalm/Requiem.php)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Doris Neidl](Category:Doris_Neidl "Category:Doris Neidl"), 2002, [Collage](https://www.dorisneidl.net/illustration?lightbox=image_18ck) to [Frederike Mayroecker's](https://en.wikipedia.org/wiki/Friederike_Mayr%C3%B6cker) book *[Requiem for Ernst Jandl](https://www.amazon.com/Requiem-Ernst-Jandl-German-List/dp/0857424750)*, [Ernst Jandl from Wikipedia](https://en.wikipedia.org/wiki/Ernst_Jandl) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Requiem (a WinBoard compatible engine) RELEASED!](https://www.stmintz.com/ccc/index.php?id=201192) by [Severi Salminen](Severi_Salminen "Severi Salminen"), [CCC](CCC "CCC"), December 09, 2001
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Requiem v0.52 released](https://www.stmintz.com/ccc/index.php?id=212309) by [Severi Salminen](Severi_Salminen "Severi Salminen"), [CCC](CCC "CCC"), February 07, 2002
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [To Severi Salminen about Requiem](https://www.stmintz.com/ccc/index.php?id=207641) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [CCC](CCC "CCC"), January 16, 2002
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Homepage of Severi Salminen - Requiem](http://www.saunalahti.fi/~sevesalm/Requiem.php)
 
 **[Up one level](Engines "Engines")**
 

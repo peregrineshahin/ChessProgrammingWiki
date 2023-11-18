@@ -31,10 +31,10 @@ The experiments as elaborated in his thesis were conducted with his own [open so
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [krummi (Hrafn Eiríksson) · GitHub](https://github.com/krummi)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hrafn Eiríksson | F6S](https://www.f6s.com/hrafneirksson)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Hrafn Eiríksson (**2011**). *Investigation of Multi-Cut Pruning in Game-Tree Search*. B.Sc. thesis, [Reykjavík University](https://en.wikipedia.org/wiki/Reykjav%C3%ADk_University), [pdf](http://skemman.is/en/stream/get/1946/9180/22971/1/research-report.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - krummi/ChessEngine: Yet another chess engine](https://github.com/krummi/ChessEngine)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [krummi (Hrafn Eiríksson) · GitHub](https://github.com/krummi)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hrafn Eiríksson | F6S](https://www.f6s.com/hrafneirksson)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Hrafn Eiríksson (**2011**). *Investigation of Multi-Cut Pruning in Game-Tree Search*. B.Sc. thesis, [Reykjavík University](https://en.wikipedia.org/wiki/Reykjav%C3%ADk_University), [pdf](http://skemman.is/en/stream/get/1946/9180/22971/1/research-report.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - krummi/ChessEngine: Yet another chess engine](https://github.com/krummi/ChessEngine)
 
 **[Up one level](People "People")**
 

@@ -63,11 +63,11 @@ struct alignas(16) Bitboard
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [第29回世界コンピュータ将棋選手権 29th World Computer Shogi Championship](http://www2.computer-shogi.org/wcsc29/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [大阪のAI・人工知能開発に特化したシステム会社 | お多福ラボ | A system company specializing in AI / artificial intelligence development in Osaka | Otafuku Lab](https://otafuku-lab.co/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [How to install Yaneuraou with third party evaluation files/opening books and Gikou2](https://www.uuunuuun.com/single-post/2017/12/09/how-to-install-yaneuraou-engine-with-third-party-evaluation-fileopening-book)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [wcsc29/YaneuraOu/appeal.txt](https://www.apply.computer-shogi.org/wcsc29/appeal/YaneuraOu/appeal.txt)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [YaneuraOu/bitboard.h at master · yaneurao/YaneuraOu · GitHub](https://github.com/yaneurao/YaneuraOu/blob/master/source/bitboard.h)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [第29回世界コンピュータ将棋選手権 29th World Computer Shogi Championship](http://www2.computer-shogi.org/wcsc29/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [大阪のAI・人工知能開発に特化したシステム会社 | お多福ラボ | A system company specializing in AI / artificial intelligence development in Osaka | Otafuku Lab](https://otafuku-lab.co/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [How to install Yaneuraou with third party evaluation files/opening books and Gikou2](https://www.uuunuuun.com/single-post/2017/12/09/how-to-install-yaneuraou-engine-with-third-party-evaluation-fileopening-book)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [wcsc29/YaneuraOu/appeal.txt](https://www.apply.computer-shogi.org/wcsc29/appeal/YaneuraOu/appeal.txt)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [YaneuraOu/bitboard.h at master · yaneurao/YaneuraOu · GitHub](https://github.com/yaneurao/YaneuraOu/blob/master/source/bitboard.h)
 
 **[Up one Level](Engines "Engines")**
 

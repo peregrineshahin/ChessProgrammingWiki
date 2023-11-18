@@ -25,9 +25,9 @@ an early chess program for the [IBM PC](IBM_PC "IBM PC") by [Scott Murray](index
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Capture from [Scott Murray - Chess Partner - 1983](https://www.youtube.com/watch?v=MWpMyUyN1_k), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dave Whitehouse](index.php?title=Dave_Whitehouse&action=edit&redlink=1 "Dave Whitehouse (page does not exist)") in his September 1983 [PC Magazine](PC_Magazine "PC Magazine") article: "If I ever have need of a [cockroach](https://en.wikipedia.org/wiki/Cockroach) on a graphics display I will not hesitate to model it after the Black Queen in Chess Partner"
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dave Whitehouse](index.php?title=Dave_Whitehouse&action=edit&redlink=1 "Dave Whitehouse (page does not exist)") (**1983**). *Biding Your Time With Computerized Chess*. [PC Magazine](PC_Magazine "PC Magazine"), September 1983, pp. 449-458
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Capture from [Scott Murray - Chess Partner - 1983](https://www.youtube.com/watch?v=MWpMyUyN1_k), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dave Whitehouse](index.php?title=Dave_Whitehouse&action=edit&redlink=1 "Dave Whitehouse (page does not exist)") in his September 1983 [PC Magazine](PC_Magazine "PC Magazine") article: "If I ever have need of a [cockroach](https://en.wikipedia.org/wiki/Cockroach) on a graphics display I will not hesitate to model it after the Black Queen in Chess Partner"
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dave Whitehouse](index.php?title=Dave_Whitehouse&action=edit&redlink=1 "Dave Whitehouse (page does not exist)") (**1983**). *Biding Your Time With Computerized Chess*. [PC Magazine](PC_Magazine "PC Magazine"), September 1983, pp. 449-458
 
 **[Up one Level](Engines "Engines")**
 

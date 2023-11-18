@@ -44,9 +44,9 @@ Along with [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), Jahn-Take
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BiGCaT Bioinformatics - Alumni](https://www.bigcat.unimaas.nl/staff/alumni/), [Maastricht University](Maastricht_University "Maastricht University")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jahn-Takeshi Saito (**2010**). *Solving Difficult Game Positions*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](http://www.unimaas.nl/games/files/phd/Saito_thesis.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Jahn-Takeshi Saito](https://dblp.org/pers/hd/s/Saito:Jahn=Takeshi)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BiGCaT Bioinformatics - Alumni](https://www.bigcat.unimaas.nl/staff/alumni/), [Maastricht University](Maastricht_University "Maastricht University")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jahn-Takeshi Saito (**2010**). *Solving Difficult Game Positions*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](http://www.unimaas.nl/games/files/phd/Saito_thesis.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Jahn-Takeshi Saito](https://dblp.org/pers/hd/s/Saito:Jahn=Takeshi)
 
 **[Up one level](People "People")**
 

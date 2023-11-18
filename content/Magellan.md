@@ -39,9 +39,9 @@ Magellan competed at the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") in [Munich](https
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> An anonymous portrait of [Ferdinand Magellan](https://en.wikipedia.org/wiki/Ferdinand_Magellan), 16th or 17th century ([The Mariner's Museum Collection](https://en.wikipedia.org/wiki/Mariners%27_Museum_and_Park), [Newport News, VA](https://en.wikipedia.org/wiki/Newport_News,_Virginia)), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [World Microcomputer Championships](https://groups.google.com/d/msg/rec.games.chess/DaNyRcJT8U8/GGcAJEiBMdgJ) by Stefan Hahndel, [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), November 8, 1993
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Magellan's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=212)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> An anonymous portrait of [Ferdinand Magellan](https://en.wikipedia.org/wiki/Ferdinand_Magellan), 16th or 17th century ([The Mariner's Museum Collection](https://en.wikipedia.org/wiki/Mariners%27_Museum_and_Park), [Newport News, VA](https://en.wikipedia.org/wiki/Newport_News,_Virginia)), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [World Microcomputer Championships](https://groups.google.com/d/msg/rec.games.chess/DaNyRcJT8U8/GGcAJEiBMdgJ) by Stefan Hahndel, [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), November 8, 1993
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Magellan's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=212)
 
 **[Up one Level](Engines "Engines")**
 

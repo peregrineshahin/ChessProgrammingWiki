@@ -52,9 +52,9 @@ feat. [Andrea Ayassot](http://www.andreaayaceayassot.ijm.it/), [Aldo Mella](http
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Man Made in the Image of God, as in [Genesis 1:26](https://en.wikipedia.org/wiki/Genesis_creation_narrative#Day_6) to [2:3](https://en.wikipedia.org/wiki/Genesis_creation_narrative#Day_7), illustration from a [Bible card](https://en.wikipedia.org/wiki/Bible_card) published 1906 by the [Providence](https://en.wikipedia.org/wiki/Providence,_Rhode_Island) Lithograph Company, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Announcement: Eden 0.0.12 released!](http://www.talkchess.com/forum/viewtopic.php?t=15698) by [Nicolai Czempin](Nicolai_Czempin "Nicolai Czempin"), [CCC](CCC "CCC"), August 09, 2007
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Announcement: Eden 0.0.12 released!](http://www.talkchess.com/forum/viewtopic.php?t=15698) by [Nicolai Czempin](Nicolai_Czempin "Nicolai Czempin"), [CCC](CCC "CCC"), August 09, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Man Made in the Image of God, as in [Genesis 1:26](https://en.wikipedia.org/wiki/Genesis_creation_narrative#Day_6) to [2:3](https://en.wikipedia.org/wiki/Genesis_creation_narrative#Day_7), illustration from a [Bible card](https://en.wikipedia.org/wiki/Bible_card) published 1906 by the [Providence](https://en.wikipedia.org/wiki/Providence,_Rhode_Island) Lithograph Company, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Announcement: Eden 0.0.12 released!](http://www.talkchess.com/forum/viewtopic.php?t=15698) by [Nicolai Czempin](Nicolai_Czempin "Nicolai Czempin"), [CCC](CCC "CCC"), August 09, 2007
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Announcement: Eden 0.0.12 released!](http://www.talkchess.com/forum/viewtopic.php?t=15698) by [Nicolai Czempin](Nicolai_Czempin "Nicolai Czempin"), [CCC](CCC "CCC"), August 09, 2007
 
 **[Up one Level](Engines "Engines")**
 

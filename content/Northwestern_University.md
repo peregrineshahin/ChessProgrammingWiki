@@ -49,8 +49,8 @@ title: Northwestern University
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Northwestern University. Exterior: Technological Institute, Exterior: Aerial View, post-lakefill / Date: 1977 / Photographer: Bob Brandt and Associates. Source: [Northwestern University Archives](http://www.library.northwestern.edu/libraries-collections/university-archives/), [Northwestern University Lakefill from Wikipedia](https://en.wikipedia.org/wiki/Northwestern_University_Lakefill)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Lakefill - University Archives](http://digital.library.northwestern.edu/architecture/building.php?bid=24)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Northwestern University. Exterior: Technological Institute, Exterior: Aerial View, post-lakefill / Date: 1977 / Photographer: Bob Brandt and Associates. Source: [Northwestern University Archives](http://www.library.northwestern.edu/libraries-collections/university-archives/), [Northwestern University Lakefill from Wikipedia](https://en.wikipedia.org/wiki/Northwestern_University_Lakefill)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Lakefill - University Archives](http://digital.library.northwestern.edu/architecture/building.php?bid=24)
 
 **[Up one Level](Organizations "Organizations")**
 

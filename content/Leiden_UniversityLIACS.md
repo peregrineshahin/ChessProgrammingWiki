@@ -61,8 +61,8 @@ title: Leiden UniversityLIACS
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Gorlaeus Laboratory, Einsteinweg 55, Leiden, Built in 1967-1971, Image by [Vysotsky](https://commons.wikimedia.org/wiki/User:Vysotsky), November 08, 2013, [Leiden University from Wikipedia](https://en.wikipedia.org/wiki/Leiden_University)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Snellius Building, Home of the 2015, 2016 and 2017 [ICGA](ICGA "ICGA") events, Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 03, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Gorlaeus Laboratory, Einsteinweg 55, Leiden, Built in 1967-1971, Image by [Vysotsky](https://commons.wikimedia.org/wiki/User:Vysotsky), November 08, 2013, [Leiden University from Wikipedia](https://en.wikipedia.org/wiki/Leiden_University)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Snellius Building, Home of the 2015, 2016 and 2017 [ICGA](ICGA "ICGA") events, Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 03, 2015
 
 **[Up one Level](Organizations "Organizations")**
 

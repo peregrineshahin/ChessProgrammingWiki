@@ -178,10 +178,10 @@ A minimal, perfectly ordered search tree, with [Knuth's](Donald_Knuth "Donald Kn
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gray Tree from Wikipedia](https://en.wikipedia.org/wiki/Gray_Tree)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lecture notes for April 22, 1997 Alpha-Beta Search](http://www.ics.uci.edu/%7Eeppstein/180a/970422.html) by [David Eppstein](David_Eppstein "David Eppstein")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> see [Swap-off](Helmut_Richter#Swapoff "Helmut Richter") by [Helmut Richter](Helmut_Richter "Helmut Richter")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") and [Evgenii Landis](Mathematician#Landis "Mathematician") (**1962**). *An algorithm for the organization of information*. [Proceedings of the USSR Academy of Sciences](https://en.wikipedia.org/wiki/Proceedings_of_the_USSR_Academy_of_Sciences) 146: 263–266. (Russian) English translation by Myron J. Ricci in Soviet Math. Doklady, 3:1259–1263, 1962
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gray Tree from Wikipedia](https://en.wikipedia.org/wiki/Gray_Tree)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lecture notes for April 22, 1997 Alpha-Beta Search](http://www.ics.uci.edu/%7Eeppstein/180a/970422.html) by [David Eppstein](David_Eppstein "David Eppstein")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> see [Swap-off](Helmut_Richter#Swapoff "Helmut Richter") by [Helmut Richter](Helmut_Richter "Helmut Richter")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") and [Evgenii Landis](Mathematician#Landis "Mathematician") (**1962**). *An algorithm for the organization of information*. [Proceedings of the USSR Academy of Sciences](https://en.wikipedia.org/wiki/Proceedings_of_the_USSR_Academy_of_Sciences) 146: 263–266. (Russian) English translation by Myron J. Ricci in Soviet Math. Doklady, 3:1259–1263, 1962
 
 **[Up one Level](Search "Search")**
 

@@ -22,8 +22,8 @@ and the [UCI](UCI "UCI") compliant [Robocide](Robocide "Robocide"), all written 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [New 'Micro' Chess Engine - Iota 0.1](http://www.talkchess.com/forum/viewtopic.php?t=44325) by Daniel White, [CCC](CCC "CCC"), July 07, 2012
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - DanielWhite94/iota: iota aims to be a tiny C chess engine, supporting the full rules of chess, as well as a standard protocol](https://github.com/DanielWhite94/iota)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [New 'Micro' Chess Engine - Iota 0.1](http://www.talkchess.com/forum/viewtopic.php?t=44325) by Daniel White, [CCC](CCC "CCC"), July 07, 2012
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - DanielWhite94/iota: iota aims to be a tiny C chess engine, supporting the full rules of chess, as well as a standard protocol](https://github.com/DanielWhite94/iota)
 
 **[Up one level](People "People")**
 

@@ -545,11 +545,11 @@ However, due to various left and right shifts, Kogge-Stone can deal with all oth
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Carl Burch](Mathematician#CBurch "Mathematician") (**2009**). *[Introduction to parallel & distributed algorithms](http://www.toves.org/books/distalg/)*. On-line Book
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [See also](#seealso)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Gray Code Conversion](http://aggregate.org/MAGIC/#Gray%20Code%20Conversion) from [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC) by [Hank Dietz](Hank_Dietz "Hank Dietz")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [flood fill attack bitboards](https://www.stmintz.com/ccc/index.php?id=252289) by [Steffan Westcott](Steffan_Westcott "Steffan Westcott") from [CCC](Computer_Chess_Forums "Computer Chess Forums"), September 15, 2002
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hardware algorithms for arithmetic modules](http://www.aoki.ecei.tohoku.ac.jp/arith/mg/algorithm.html#fsa_pfx) from the ARITH research group, Aoki lab., [Tohoku University](https://en.wikipedia.org/wiki/Tohoku_University)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Carl Burch](Mathematician#CBurch "Mathematician") (**2009**). *[Introduction to parallel & distributed algorithms](http://www.toves.org/books/distalg/)*. On-line Book
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [See also](#seealso)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gray Code Conversion](http://aggregate.org/MAGIC/#Gray%20Code%20Conversion) from [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC) by [Hank Dietz](Hank_Dietz "Hank Dietz")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [flood fill attack bitboards](https://www.stmintz.com/ccc/index.php?id=252289) by [Steffan Westcott](Steffan_Westcott "Steffan Westcott") from [CCC](Computer_Chess_Forums "Computer Chess Forums"), September 15, 2002
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hardware algorithms for arithmetic modules](http://www.aoki.ecei.tohoku.ac.jp/arith/mg/algorithm.html#fsa_pfx) from the ARITH research group, Aoki lab., [Tohoku University](https://en.wikipedia.org/wiki/Tohoku_University)
 
 **[Up one Level](Algorithms "Algorithms")**
 

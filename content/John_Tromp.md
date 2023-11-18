@@ -89,18 +89,18 @@ His recreational interests include playing [Go](Go "Go") and [chess](Chess "Ches
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John Tromp HomePage](https://tromp.github.io/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer-go.info - Details of Program: Dimwit](http://www.computer-go.info/db/oprog.php?a=Dimwit)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Shirish Chinchalkar](Shirish_Chinchalkar "Shirish Chinchalkar") (**1996**). *An Upper Bound for the Number of Reachable Positions*. [ICCA Journal, Vol. 19, No. 3](ICGA_Journal#19_3 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [John's Chess Playground - Number of chess diagrams and positions](https://tromp.github.io/chess/chess.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Number of Go positions computed at last](https://groups.google.com/d/msg/computer-go-archive/jlVCk9IRGEY/us3LHpTPCgAJ) by John Tromp, [The Computer-go Archives](http://computer-go.org/pipermail/computer-go/), January 22, 2016
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Counting Legal Positions in Go](http://tromp.github.io/go/legal.html) by John Tromp, January 20, 2016
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: John Tromp](https://dblp.uni-trier.de/pers/hd/t/Tromp:John)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Prouhet–Thue–Morse Sequence](Max_Euwe#ProuhetThueMorseSequence "Max Euwe"), [Prouhet–Thue–Morse constant from Wikipedia](https://en.wikipedia.org/wiki/Prouhet%E2%80%93Thue%E2%80%93Morse_constant)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Combinatorics on words from Wikipedia](https://en.wikipedia.org/wiki/Combinatorics_on_words)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [The Shodan Go Bet](http://dcook.org/gobet/)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Cuckoo Cycle: a new memory-hard proof-of-work system](https://bitcointalk.org/index.php?topic=405483.0) by John Tromp, [Bitcoin Forum](https://bitcointalk.org/index.php), January 08, 2014
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Cuckoo hashing from Wikipedia](https://en.wikipedia.org/wiki/Cuckoo_hashing)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John Tromp HomePage](https://tromp.github.io/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer-go.info - Details of Program: Dimwit](http://www.computer-go.info/db/oprog.php?a=Dimwit)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Shirish Chinchalkar](Shirish_Chinchalkar "Shirish Chinchalkar") (**1996**). *An Upper Bound for the Number of Reachable Positions*. [ICCA Journal, Vol. 19, No. 3](ICGA_Journal#19_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [John's Chess Playground - Number of chess diagrams and positions](https://tromp.github.io/chess/chess.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Number of Go positions computed at last](https://groups.google.com/d/msg/computer-go-archive/jlVCk9IRGEY/us3LHpTPCgAJ) by John Tromp, [The Computer-go Archives](http://computer-go.org/pipermail/computer-go/), January 22, 2016
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Counting Legal Positions in Go](http://tromp.github.io/go/legal.html) by John Tromp, January 20, 2016
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: John Tromp](https://dblp.uni-trier.de/pers/hd/t/Tromp:John)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Prouhet–Thue–Morse Sequence](Max_Euwe#ProuhetThueMorseSequence "Max Euwe"), [Prouhet–Thue–Morse constant from Wikipedia](https://en.wikipedia.org/wiki/Prouhet%E2%80%93Thue%E2%80%93Morse_constant)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Combinatorics on words from Wikipedia](https://en.wikipedia.org/wiki/Combinatorics_on_words)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [The Shodan Go Bet](http://dcook.org/gobet/)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Cuckoo Cycle: a new memory-hard proof-of-work system](https://bitcointalk.org/index.php?topic=405483.0) by John Tromp, [Bitcoin Forum](https://bitcointalk.org/index.php), January 08, 2014
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Cuckoo hashing from Wikipedia](https://en.wikipedia.org/wiki/Cuckoo_hashing)
 
 **[Up one level](People "People")**
 

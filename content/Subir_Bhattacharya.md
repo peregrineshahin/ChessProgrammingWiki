@@ -54,10 +54,10 @@ an Indian computer scientist and professor at Department of Management Informati
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Prof. Subir Bhattacharya, Faculty Informations](https://www.iimcal.ac.in/users/subir)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Subir Bhattacharya](https://dblp.uni-trier.de/pers/hd/b/Bhattacharya:Subir)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mixed-integer non-linear programming problems (MINLP) - Wikipedia](https://en.wikipedia.org/wiki/Deterministic_global_optimization#Mixed-integer_non-linear_programming_problems_(MINLP))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Prof. Subir Bhattacharya, Faculty Informations](https://www.iimcal.ac.in/users/subir)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Subir Bhattacharya](https://dblp.uni-trier.de/pers/hd/b/Bhattacharya:Subir)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mixed-integer non-linear programming problems (MINLP) - Wikipedia](https://en.wikipedia.org/wiki/Deterministic_global_optimization#Mixed-integer_non-linear_programming_problems_(MINLP))
 
 **[Up one level](People "People")**
 

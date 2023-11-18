@@ -33,9 +33,9 @@ Hajiev reported that he was indeed able to derive from experimental data some im
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [AI11.org homepage - Ruslan Sinulla Ogly Hajiev](http://ui.disi.unitn.it/ijcai_sn/entity/read/18988)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [Peter Tancig](Peter_Tancig "Peter Tancig"), [Simona Tancig](Simona_Tancig "Simona Tancig") (**1984**). *[Detection of Positional Patterns in Chess](Simona_Tancig#ChessExperiment "Simona Tancig")*. [ICCA Journal, Vol. 7, No. 2](ICGA_Journal#7_2 "ICGA Journal"), R.E. Hajiev pp. 63/64
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: R. Hajiev](https://dblp.uni-trier.de/pers/hd/h/Hajiev:R=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [AI11.org homepage - Ruslan Sinulla Ogly Hajiev](http://ui.disi.unitn.it/ijcai_sn/entity/read/18988)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [Peter Tancig](Peter_Tancig "Peter Tancig"), [Simona Tancig](Simona_Tancig "Simona Tancig") (**1984**). *[Detection of Positional Patterns in Chess](Simona_Tancig#ChessExperiment "Simona Tancig")*. [ICCA Journal, Vol. 7, No. 2](ICGA_Journal#7_2 "ICGA Journal"), R.E. Hajiev pp. 63/64
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: R. Hajiev](https://dblp.uni-trier.de/pers/hd/h/Hajiev:R=.html)
 
 **[Up one level](People "People")**
 

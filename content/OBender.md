@@ -67,15 +67,15 @@ OBender is named after the main character of the classic [satirical novel](https
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Monument of Ostap Bender in [Melitopol](https://en.wikipedia.org/wiki/Melitopol), [Ukraine](https://en.wikipedia.org/wiki/Ukraine), Photo by [Олег Довгаль](https://ru.wikipedia.org/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Melitopol_rock_city), October 4, 2012, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Остап Бендер — Википедия](https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D0%B0%D0%BF_%D0%91%D0%B5%D0%BD%D0%B4%D0%B5%D1%80)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Домашняя страничка Евгения Корнилова | Evgeniy Korniloff Home Page](http://evgeniy-korniloff.narod.ru/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Index of /chess/engines/Jim Ablett/OBENDER](http://kirr.homeunix.org/chess/engines/Jim%20Ablett/OBENDER/) by [Jim Ablett](Jim_Ablett "Jim Ablett"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Evgeniy Korniloff](Evgeniy_Korniloff "Evgeniy Korniloff") (**2005**). *Программирование шахмат и других логических игр*. (Programming Chess and other logical games), ISBN 5-94157-497-5, [Глава 1. Общие сведения (Chapter I) as pdf](http://static.ozone.ru/multimedia/book_file/1007127469.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [OBender (ранее - Qchess-chess) by Evgeniy Korniloff, Russia](http://www.sdchess.ru/OBender.htm) from [sdchess.ru](http://www.sdchess.ru/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Description based on OBender-3.2.x.s.7.5
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The United States Chess Federation - Ostap Bender and the Space Chess Game](http://www.uschess.org/content/view/8881/475/) by [Glenn Petersen](https://en.wikipedia.org/wiki/Chess_Life), November 8, 2008
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [The chess games of Ostap Bender](http://www.chessgames.com/perl/chessplayer?pid=137965) from [chessgames.com](http://www.chessgames.com/index.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The Interplanetary Chess Congress](http://www.chess.com/blog/colibas/the-interplanetary-chess-congress) by [colibas](http://www.chess.com/members/view/colibas), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), August 17, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Monument of Ostap Bender in [Melitopol](https://en.wikipedia.org/wiki/Melitopol), [Ukraine](https://en.wikipedia.org/wiki/Ukraine), Photo by [Олег Довгаль](https://ru.wikipedia.org/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Melitopol_rock_city), October 4, 2012, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Остап Бендер — Википедия](https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D0%B0%D0%BF_%D0%91%D0%B5%D0%BD%D0%B4%D0%B5%D1%80)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Домашняя страничка Евгения Корнилова | Evgeniy Korniloff Home Page](http://evgeniy-korniloff.narod.ru/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Index of /chess/engines/Jim Ablett/OBENDER](http://kirr.homeunix.org/chess/engines/Jim%20Ablett/OBENDER/) by [Jim Ablett](Jim_Ablett "Jim Ablett"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Evgeniy Korniloff](Evgeniy_Korniloff "Evgeniy Korniloff") (**2005**). *Программирование шахмат и других логических игр*. (Programming Chess and other logical games), ISBN 5-94157-497-5, [Глава 1. Общие сведения (Chapter I) as pdf](http://static.ozone.ru/multimedia/book_file/1007127469.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [OBender (ранее - Qchess-chess) by Evgeniy Korniloff, Russia](http://www.sdchess.ru/OBender.htm) from [sdchess.ru](http://www.sdchess.ru/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Description based on OBender-3.2.x.s.7.5
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The United States Chess Federation - Ostap Bender and the Space Chess Game](http://www.uschess.org/content/view/8881/475/) by [Glenn Petersen](https://en.wikipedia.org/wiki/Chess_Life), November 8, 2008
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [The chess games of Ostap Bender](http://www.chessgames.com/perl/chessplayer?pid=137965) from [chessgames.com](http://www.chessgames.com/index.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The Interplanetary Chess Congress](http://www.chess.com/blog/colibas/the-interplanetary-chess-congress) by [colibas](http://www.chess.com/members/view/colibas), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), August 17, 2012
 
 **[Up one level](Engines "Engines")**
 

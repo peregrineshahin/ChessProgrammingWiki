@@ -109,24 +109,24 @@ an American chess player, mathematician, computer scientist and associate profes
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [UB CSE Department: Kenneth W. Regan](https://cse.buffalo.edu/faculty/regan/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [UB Computer Science and Engineering](http://www.cse.buffalo.edu/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Measuring Fidelity to a Computer Agent](https://cse.buffalo.edu/faculty/regan/chess/fidelity/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Regan, Kenneth FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=2000725)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Kenneth W. Regan](https://dblp.uni-trier.de/pers/hd/r/Regan:Kenneth_W=)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Kenneth W. Regan - Selected Publications](https://cse.buffalo.edu/faculty/regan/publications.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Analyzing [Kasparov versus the World](https://en.wikipedia.org/wiki/Kasparov_versus_the_World) using the [EGTBs](Endgame_Tablebases "Endgame Tablebases") by [Peter Karrer](Peter_Karrer "Peter Karrer")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Peter Karrer](Peter_Karrer "Peter Karrer") (**2000**). *KQQKQP and KQPKQP≈*. [ICGA Journal, Vol. 23, No. 2](ICGA_Journal#23_2 "ICGA Journal")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Jacobian matrix and determinant from Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Gröbner basis from Wikipedia](https://en.wikipedia.org/wiki/Gr%C3%B6bner_basis)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Bayesian inference from Wikipedia](https://en.wikipedia.org/wiki/Bayesian_inference)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a>  ["Intrinsic Chess Ratings" by Regan, Haworth -- seq](http://www.talkchess.com/forum/viewtopic.php?t=65772) by Kai Middleton, [CCC](CCC "CCC"), November 19, 2017
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [The New Chess World Champion](http://www.talkchess.com/forum/viewtopic.php?t=54777) by Bajusz Tamás, [CCC](CCC "CCC"), December 28, 2014
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Regan's latest: Depth of Satisficing](http://www.talkchess.com/forum/viewtopic.php?t=57890) by [Carl Lumma](index.php?title=Carl_Lumma&action=edit&redlink=1 "Carl Lumma (page does not exist)"), [CCC](CCC "CCC"), October 09, 2015
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Is the current Komodo that close to perfection?](http://www.talkchess.com/forum/viewtopic.php?t=58400) by Bajusz Tamás, [CCC](CCC "CCC"), November 28, 2015
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [World Chess Championship 2016 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2016)
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Regan's conundrum](http://www.talkchess.com/forum/viewtopic.php?t=62435) by [Carl Lumma](index.php?title=Carl_Lumma&action=edit&redlink=1 "Carl Lumma (page does not exist)"), [CCC](CCC "CCC"), December 09, 2016
-18. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Kasparov versus the World from Wikipedia](https://en.wikipedia.org/wiki/Kasparov_versus_the_World)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [UB CSE Department: Kenneth W. Regan](https://cse.buffalo.edu/faculty/regan/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [UB Computer Science and Engineering](http://www.cse.buffalo.edu/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Measuring Fidelity to a Computer Agent](https://cse.buffalo.edu/faculty/regan/chess/fidelity/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Regan, Kenneth FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=2000725)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Kenneth W. Regan](https://dblp.uni-trier.de/pers/hd/r/Regan:Kenneth_W=)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Kenneth W. Regan - Selected Publications](https://cse.buffalo.edu/faculty/regan/publications.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Analyzing [Kasparov versus the World](https://en.wikipedia.org/wiki/Kasparov_versus_the_World) using the [EGTBs](Endgame_Tablebases "Endgame Tablebases") by [Peter Karrer](Peter_Karrer "Peter Karrer")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Peter Karrer](Peter_Karrer "Peter Karrer") (**2000**). *KQQKQP and KQPKQP≈*. [ICGA Journal, Vol. 23, No. 2](ICGA_Journal#23_2 "ICGA Journal")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Jacobian matrix and determinant from Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Gröbner basis from Wikipedia](https://en.wikipedia.org/wiki/Gr%C3%B6bner_basis)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Bayesian inference from Wikipedia](https://en.wikipedia.org/wiki/Bayesian_inference)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a>  ["Intrinsic Chess Ratings" by Regan, Haworth -- seq](http://www.talkchess.com/forum/viewtopic.php?t=65772) by Kai Middleton, [CCC](CCC "CCC"), November 19, 2017
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [The New Chess World Champion](http://www.talkchess.com/forum/viewtopic.php?t=54777) by Bajusz Tamás, [CCC](CCC "CCC"), December 28, 2014
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Regan's latest: Depth of Satisficing](http://www.talkchess.com/forum/viewtopic.php?t=57890) by [Carl Lumma](index.php?title=Carl_Lumma&action=edit&redlink=1 "Carl Lumma (page does not exist)"), [CCC](CCC "CCC"), October 09, 2015
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Is the current Komodo that close to perfection?](http://www.talkchess.com/forum/viewtopic.php?t=58400) by Bajusz Tamás, [CCC](CCC "CCC"), November 28, 2015
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [World Chess Championship 2016 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2016)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Regan's conundrum](http://www.talkchess.com/forum/viewtopic.php?t=62435) by [Carl Lumma](index.php?title=Carl_Lumma&action=edit&redlink=1 "Carl Lumma (page does not exist)"), [CCC](CCC "CCC"), December 09, 2016
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Kasparov versus the World from Wikipedia](https://en.wikipedia.org/wiki/Kasparov_versus_the_World)
 
 **[Up one level](People "People")**
 

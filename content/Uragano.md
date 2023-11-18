@@ -84,9 +84,9 @@ engine and GUI compatible with the [Chess Engine Communication Protocol](Chess_E
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> L'uragano atlantico [Katrina](https://en.wikipedia.org/wiki/Hurricane_Katrina) è stato il più grave in termini di costi della storia degli Stati Uniti, August 28, 2005, Author [Jeff Schmaltz](https://www.nasa.gov/feature/goddard/jeff-schmaltz-quotes-tennyson-loves-wildlife-and-makes-pretty-pictures-for-nasa), [MODIS Rapid Response Team](https://earthdata.nasa.gov/earth-observation-data/near-real-time/rapid-response), [NASA](https://en.wikipedia.org/wiki/NASA)/[GSFC](https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center), [Hurricane Katrina from Wikipedia](https://en.wikipedia.org/wiki/Hurricane_Katrina), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Home page Uragano 3D](http://www.naddei.it/uragano_3d/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Turin 2006 - Chess - Round 6 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=6&id=7)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> L'uragano atlantico [Katrina](https://en.wikipedia.org/wiki/Hurricane_Katrina) è stato il più grave in termini di costi della storia degli Stati Uniti, August 28, 2005, Author [Jeff Schmaltz](https://www.nasa.gov/feature/goddard/jeff-schmaltz-quotes-tennyson-loves-wildlife-and-makes-pretty-pictures-for-nasa), [MODIS Rapid Response Team](https://earthdata.nasa.gov/earth-observation-data/near-real-time/rapid-response), [NASA](https://en.wikipedia.org/wiki/NASA)/[GSFC](https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center), [Hurricane Katrina from Wikipedia](https://en.wikipedia.org/wiki/Hurricane_Katrina), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Home page Uragano 3D](http://www.naddei.it/uragano_3d/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Turin 2006 - Chess - Round 6 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=6&id=7)
 
 **[Up one Level](Engines "Engines")**
 

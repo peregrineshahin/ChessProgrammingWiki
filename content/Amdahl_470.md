@@ -55,11 +55,11 @@ The 32-bit [CPU](https://en.wikipedia.org/wiki/Central_processing_unit) contains
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The Amdahl 470/V6 was a powerful mainframe computer introduced in 1975 that ran the popular [IBM System/360](IBM_360 "IBM 360") family of programs. In [1978](ACM_1978 "ACM 1978"), the microprocessor-based program [Sargon](Sargon "Sargon") [defeated](Sargon#Awit "Sargon") [Tony Marsland’s](Tony_Marsland "Tony Marsland") chess program [Awit](Awit "Awit") running on this type of machine. Even though the 470/V6 was by then over a decade old, this was still a dramatic development and showed the growing power of microcomputers, [image](http://www.computerhistory.org/chess/full_record.php?iid=stl-43330af270432) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gene Amdahl - The IBM & Amdahl years - Wikipedia](https://en.wikipedia.org/wiki/Gene_Amdahl#The_IBM_.26_Amdahl_years)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Alexis J. Pittman (**1975**). *The Amdahl 470v/6: The Latest in Computer Technology*. Michigan Technic, Vol. XCIV, No. 2, November 1975
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Alexis J. Pittman (**1975**). *The Amdahl 470v/6: The Latest in Computer Technology*. Michigan Technic, Vol. XCIV, No. 2, November 1975
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Amdahl 470V/6 Computer - CPU](http://www.computerhistory.org/revolution/mainframe-computers/7/169/677) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The Amdahl 470/V6 was a powerful mainframe computer introduced in 1975 that ran the popular [IBM System/360](IBM_360 "IBM 360") family of programs. In [1978](ACM_1978 "ACM 1978"), the microprocessor-based program [Sargon](Sargon "Sargon") [defeated](Sargon#Awit "Sargon") [Tony Marsland’s](Tony_Marsland "Tony Marsland") chess program [Awit](Awit "Awit") running on this type of machine. Even though the 470/V6 was by then over a decade old, this was still a dramatic development and showed the growing power of microcomputers, [image](http://www.computerhistory.org/chess/full_record.php?iid=stl-43330af270432) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gene Amdahl - The IBM & Amdahl years - Wikipedia](https://en.wikipedia.org/wiki/Gene_Amdahl#The_IBM_.26_Amdahl_years)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Alexis J. Pittman (**1975**). *The Amdahl 470v/6: The Latest in Computer Technology*. Michigan Technic, Vol. XCIV, No. 2, November 1975
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Alexis J. Pittman (**1975**). *The Amdahl 470v/6: The Latest in Computer Technology*. Michigan Technic, Vol. XCIV, No. 2, November 1975
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Amdahl 470V/6 Computer - CPU](http://www.computerhistory.org/revolution/mainframe-computers/7/169/677) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one Level](Hardware "Hardware")**
 

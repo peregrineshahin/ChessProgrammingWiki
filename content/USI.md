@@ -45,7 +45,7 @@ Quite similar to UCI, it uses a Shogi extension of the [Forsyth-Edwards Notation
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [First draft of the Universal Shogi Interface (USI)](http://www.shogi.net/shogi-l/dir07/dirday0124/article070124132552.html) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [SHOGI-L](Computer_Chess_Forums "Computer Chess Forums"), January 24, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [First draft of the Universal Shogi Interface (USI)](http://www.shogi.net/shogi-l/dir07/dirday0124/article070124132552.html) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [SHOGI-L](Computer_Chess_Forums "Computer Chess Forums"), January 24, 2007
 
 **[Up one Level](Protocols "Protocols")**
 

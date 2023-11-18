@@ -63,14 +63,14 @@ along with the **Digilogue Collection** [YouTube](https://en.wikipedia.org/wiki/
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Vlad Stamate as Private Pilot, [Vlad Stamate | LinkedIn](https://www.linkedin.com/in/vlad-stamate-427955/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ShaderX6 Programming - About the Authors](http://www.shaderx6.com/authors.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ShaderX3 Programming - About the Authors](http://www.shaderx3.com/authors.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [PliskChess - History](https://sites.google.com/site/pliskchess/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [DigiLogue Museum](https://sites.google.com/site/digiloguemuseum/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Digilogue Collection - YouTube](https://www.youtube.com/channel/UC7HbC_nq8t1S9l7qGYL0mTA)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ShaderX Book Series - Lighthouse3d.com](https://www.lighthouse3d.com/2011/06/shaderx-book-series/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Photon mapping from Wikipedia](https://en.wikipedia.org/wiki/Photon_mapping)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Vlad Stamate as Private Pilot, [Vlad Stamate | LinkedIn](https://www.linkedin.com/in/vlad-stamate-427955/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ShaderX6 Programming - About the Authors](http://www.shaderx6.com/authors.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ShaderX3 Programming - About the Authors](http://www.shaderx3.com/authors.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [PliskChess - History](https://sites.google.com/site/pliskchess/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [DigiLogue Museum](https://sites.google.com/site/digiloguemuseum/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Digilogue Collection - YouTube](https://www.youtube.com/channel/UC7HbC_nq8t1S9l7qGYL0mTA)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ShaderX Book Series - Lighthouse3d.com](https://www.lighthouse3d.com/2011/06/shaderx-book-series/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Photon mapping from Wikipedia](https://en.wikipedia.org/wiki/Photon_mapping)
 
 **[Up one level](People "People")**
 

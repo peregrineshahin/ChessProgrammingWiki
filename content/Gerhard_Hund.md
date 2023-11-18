@@ -56,12 +56,12 @@ He published a huge collection of media and [photographs](https://commons.wikime
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Gerhard Hund, September 30, 2010 at [Jena](https://en.wikipedia.org/wiki/Jena) on the occasion of his lecture in the course of a meeting of the [University of Jena](https://en.wikipedia.org/wiki/University_of_Jena), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Juliane Hund (1928 - 1999) - obituary](https://www.teleschach.com/Juliane/) by Gerhard Hund (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Familie von Juliane Hund im eigenen Haus (Allart, Juliane, Susanne, Isabel, Barbara, Dorothee und Gerhard) Photo by Gerhard Hund, 1970, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Gerhard Hund explains his intelligent watch to [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [Freiburg](https://en.wikipedia.org/wiki/Freiburg_im_Breisgau) 2019, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [TeleSchach / Schach in der CyberCity Köln](https://www.teleschach.de/schach_m.htm) (German)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [TeleSchach - Gerhard Hund - Freiburg im Breisgau - Aktuelles](https://www.teleschach.de/) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Gerhard Hund, September 30, 2010 at [Jena](https://en.wikipedia.org/wiki/Jena) on the occasion of his lecture in the course of a meeting of the [University of Jena](https://en.wikipedia.org/wiki/University_of_Jena), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Juliane Hund (1928 - 1999) - obituary](https://www.teleschach.com/Juliane/) by Gerhard Hund (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Familie von Juliane Hund im eigenen Haus (Allart, Juliane, Susanne, Isabel, Barbara, Dorothee und Gerhard) Photo by Gerhard Hund, 1970, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Gerhard Hund explains his intelligent watch to [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [Freiburg](https://en.wikipedia.org/wiki/Freiburg_im_Breisgau) 2019, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [TeleSchach / Schach in der CyberCity Köln](https://www.teleschach.de/schach_m.htm) (German)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [TeleSchach - Gerhard Hund - Freiburg im Breisgau - Aktuelles](https://www.teleschach.de/) (German)
 
 **[Up one Level](People "People")**
 

@@ -56,12 +56,12 @@ and along with [François Karr](Fran%C3%A7ois_Karr "François Karr") co-author o
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jean-Philippe KARR | Fédération Française des Échecs](http://www.echecs.asso.fr/FichehautNiveau.aspx?Ref=4480)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Trapped Ions Metrology](http://www.lkb.upmc.fr/iontrap/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Les membres - Institut Universitaire de France](http://www.iufrance.fr/les-membres-de-liuf/membre/743-jean-philippe-karr.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Karr, Jean-Philippe FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=612227)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [BugChess2](https://web.archive.org/web/20120104192417/http://wbec-ridderkerk.nl/html/details1/BugChess2.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Search Karr, Jean-Philippe | arXiv e-print repository](https://arxiv.org/search/physics?query=Karr%2C++Jean-Philippe&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jean-Philippe KARR | Fédération Française des Échecs](http://www.echecs.asso.fr/FichehautNiveau.aspx?Ref=4480)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Trapped Ions Metrology](http://www.lkb.upmc.fr/iontrap/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Les membres - Institut Universitaire de France](http://www.iufrance.fr/les-membres-de-liuf/membre/743-jean-philippe-karr.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Karr, Jean-Philippe FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=612227)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [BugChess2](https://web.archive.org/web/20120104192417/http://wbec-ridderkerk.nl/html/details1/BugChess2.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Search Karr, Jean-Philippe | arXiv e-print repository](https://arxiv.org/search/physics?query=Karr%2C++Jean-Philippe&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
 
 **[Up one level](People "People")**
 

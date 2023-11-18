@@ -57,13 +57,13 @@ a Romanian computer scientist, software engineer, and proponent of [free and ope
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [brtzsnr (Alexandru Moșoi) · GitHub](https://github.com/brtzsnr)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Alexandru Moșoi (**2011**). *[STRUCTure: Towards a Distibuted Boolean Satifibiality Solver](https://github.com/brtzsnr/structure)*. M.Sc. thesis, [Vrije Universiteit Amsterdam](https://en.wikipedia.org/wiki/Vrije_Universiteit)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chile - www.alexandru](http://www.alexandru.mosoi.ro/open-source/chile)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Next Thought: Gasca (yet another CDCL sat solver)](http://nextthought.mosoi.ro/2012/01/gasca-yet-another-cdcl-sat-solver.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Zurich German (Züritüütsch) from Wikipedia](https://en.wikipedia.org/wiki/Zurich_German)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [brtzsnr / zurichess — Bitbucket](https://bitbucket.org/brtzsnr/zurichess/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [brtzsnr / txt — Bitbucket](https://bitbucket.org/brtzsnr/txt) by Alexandru Mosoi
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [brtzsnr (Alexandru Moșoi) · GitHub](https://github.com/brtzsnr)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Alexandru Moșoi (**2011**). *[STRUCTure: Towards a Distibuted Boolean Satifibiality Solver](https://github.com/brtzsnr/structure)*. M.Sc. thesis, [Vrije Universiteit Amsterdam](https://en.wikipedia.org/wiki/Vrije_Universiteit)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chile - www.alexandru](http://www.alexandru.mosoi.ro/open-source/chile)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Next Thought: Gasca (yet another CDCL sat solver)](http://nextthought.mosoi.ro/2012/01/gasca-yet-another-cdcl-sat-solver.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Zurich German (Züritüütsch) from Wikipedia](https://en.wikipedia.org/wiki/Zurich_German)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [brtzsnr / zurichess — Bitbucket](https://bitbucket.org/brtzsnr/zurichess/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [brtzsnr / txt — Bitbucket](https://bitbucket.org/brtzsnr/txt) by Alexandru Mosoi
 
 **[Up one level](People "People")**
 

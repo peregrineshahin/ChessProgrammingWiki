@@ -33,7 +33,7 @@ a [public](https://en.wikipedia.org/wiki/Public_university) [research university
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Panorama of mall between Northrop and Coffman Memorial Union, University of Minnesota Twin Cities [East Bank Campus](https://en.wikipedia.org/wiki/University_of_Minnesota#East_Bank). From left: Ford Hall, [Coffman Memorial Union](https://en.wikipedia.org/wiki/Coffman_Memorial_Union), Kolthoff Hall, Smith Hall (in center of image), [Walter Library](https://en.wikipedia.org/wiki/Walter_Library), Johnston Hall, [Northrop](https://en.wikipedia.org/wiki/Northrop_Auditorium), and Morrill Hall. [Image](https://commons.wikimedia.org/wiki/File:Northrop_Mall_panorama.jpg) by [Runner1928](https://commons.wikimedia.org/wiki/User:Runner1928), April 25, 2014, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Panorama of mall between Northrop and Coffman Memorial Union, University of Minnesota Twin Cities [East Bank Campus](https://en.wikipedia.org/wiki/University_of_Minnesota#East_Bank). From left: Ford Hall, [Coffman Memorial Union](https://en.wikipedia.org/wiki/Coffman_Memorial_Union), Kolthoff Hall, Smith Hall (in center of image), [Walter Library](https://en.wikipedia.org/wiki/Walter_Library), Johnston Hall, [Northrop](https://en.wikipedia.org/wiki/Northrop_Auditorium), and Morrill Hall. [Image](https://commons.wikimedia.org/wiki/File:Northrop_Mall_panorama.jpg) by [Runner1928](https://commons.wikimedia.org/wiki/User:Runner1928), April 25, 2014, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
 
 **[Up one Level](Organizations "Organizations")**
 

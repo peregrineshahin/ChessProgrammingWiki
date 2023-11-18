@@ -31,14 +31,14 @@ an American electrical engineer, computer scientist, manager, pioneer in the dev
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Victor Berman | LinkedIn](https://www.linkedin.com/pub/victor-berman/3/235/401)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Wormser Energy Solutions](http://wormserenergy.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Improv Systems Inc.: Company Information](http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=7743598) - [BusinessWeek](http://www.businessweek.com/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Victor Berman | LinkedIn](https://www.linkedin.com/pub/victor-berman/3/235/401)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chaos' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=42)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> pp. 52, Table I. History of the [ACM Tournaments](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") from 
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Victor Berman | LinkedIn](https://www.linkedin.com/pub/victor-berman/3/235/401)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Wormser Energy Solutions](http://wormserenergy.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Improv Systems Inc.: Company Information](http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=7743598) - [BusinessWeek](http://www.businessweek.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Victor Berman | LinkedIn](https://www.linkedin.com/pub/victor-berman/3/235/401)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chaos' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=42)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> pp. 52, Table I. History of the [ACM Tournaments](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") from 
 [Ben Mittman](Ben_Mittman "Ben Mittman"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1980**). *Computer chess at [ACM 79](ACM_1979 "ACM 1979"): the tournament and the man vs. man and machine match*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 23, Issue 1, [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.Computer_chess_at_ACM_79/3-1%20and%203-2%20and%203-3.Computer_chess_at_ACM_79.062303018.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The Eleventh ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cdeeb) as [pdf reprint](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1980_11th_ACM_NACCC/The_Eleventh_ACMs_North_American_Computer_Chess_Championship.1980.062303015.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Eleventh ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cdeeb) as [pdf reprint](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1980_11th_ACM_NACCC/The_Eleventh_ACMs_North_American_Computer_Chess_Championship.1980.062303015.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](People "People")**
 

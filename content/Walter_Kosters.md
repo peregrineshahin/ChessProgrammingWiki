@@ -55,11 +55,11 @@ a Dutch computer scientist and mathematician, and associate professor of CS at L
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Walter Kosters](http://liacs.leidenuniv.nl/~kosterswa/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tetris is Hard: An Introduction to P vs NP](https://www.cs.jhu.edu/~susan/600.363/tetris.pdf) (pdf) slides based on [Erik D. Demaine](Erik_D._Demaine "Erik D. Demaine"), [Susan Hohenberger](Mathematician#SHohenberger "Mathematician"), [David Liben-Nowell](Mathematician#DLibenNowell "Mathematician") (**2002**). *Tetris is Hard, Even to Approximate*. [arXiv:cs/0210020](https://arxiv.org/abs/cs/0210020)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [How to Construct Tetris Conﬁgurations](http://liacs.leidenuniv.nl/~kosterswa/tetris/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nonogram — Turn your picture into a puzzle](http://www.liacs.nl/~kosters/nono/sjoerd/indexeng.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Walter A. Kosters](https://dblp.uni-trier.de/pers/hd/k/Kosters:Walter_A=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Walter Kosters](http://liacs.leidenuniv.nl/~kosterswa/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tetris is Hard: An Introduction to P vs NP](https://www.cs.jhu.edu/~susan/600.363/tetris.pdf) (pdf) slides based on [Erik D. Demaine](Erik_D._Demaine "Erik D. Demaine"), [Susan Hohenberger](Mathematician#SHohenberger "Mathematician"), [David Liben-Nowell](Mathematician#DLibenNowell "Mathematician") (**2002**). *Tetris is Hard, Even to Approximate*. [arXiv:cs/0210020](https://arxiv.org/abs/cs/0210020)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [How to Construct Tetris Conﬁgurations](http://liacs.leidenuniv.nl/~kosterswa/tetris/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nonogram — Turn your picture into a puzzle](http://www.liacs.nl/~kosters/nono/sjoerd/indexeng.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Walter A. Kosters](https://dblp.uni-trier.de/pers/hd/k/Kosters:Walter_A=.html)
 
 **[Up one level](People "People")**
 

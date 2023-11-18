@@ -27,7 +27,7 @@ an American chess master, who worked with [David Kittinger](David_Kittinger "Dav
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Novag's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=354)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Novag's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=354)
 
 **[Up one level](People "People")**
 

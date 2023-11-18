@@ -41,13 +41,13 @@ He was involved in an international project called [C.A.P.](index.php?title=C.A.
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Dann Corbit, Photo from [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [C.A.P. Biographies - Dann Corbit](https://web.archive.org/web/20081121101914/http://cap.connx.com/C.A.P.%20Biographies/DannCorbit.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Authors - Strategic Test Suite](https://sites.google.com/site/strategictestsuite/authors)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Beowulf Computer Chess Engine](http://www.frayn.net/beowulf/index.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Strategic Test Suite](https://sites.google.com/site/strategictestsuite/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Rybka vs ICGA a different view](https://web.archive.org/web/20120117081610/http://www.top-5000.nl/Rybka.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Voir dire from Wikipedia](https://en.wikipedia.org/wiki/Voir_dire)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Dann Corbit, Photo from [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [C.A.P. Biographies - Dann Corbit](https://web.archive.org/web/20081121101914/http://cap.connx.com/C.A.P.%20Biographies/DannCorbit.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Authors - Strategic Test Suite](https://sites.google.com/site/strategictestsuite/authors)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Beowulf Computer Chess Engine](http://www.frayn.net/beowulf/index.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Strategic Test Suite](https://sites.google.com/site/strategictestsuite/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Rybka vs ICGA a different view](https://web.archive.org/web/20120117081610/http://www.top-5000.nl/Rybka.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Voir dire from Wikipedia](https://en.wikipedia.org/wiki/Voir_dire)
 
 **[Up one level](People "People")**
 

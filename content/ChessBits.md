@@ -20,7 +20,7 @@ was a German computer chess periodical, first released in 1999 by [Marcus Kästn
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marcus Kästner](Marcus_K%C3%A4stner "Marcus Kästner") (**2000**). *[Interview with Ed Schröder](http://www.rebel.nl/marcus.htm)*. ChessBits No. 8, hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marcus Kästner](Marcus_K%C3%A4stner "Marcus Kästner") (**2000**). *[Interview with Ed Schröder](http://www.rebel.nl/marcus.htm)*. ChessBits No. 8, hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
 
 **[Up one Level](Periodical "Periodical")**
 

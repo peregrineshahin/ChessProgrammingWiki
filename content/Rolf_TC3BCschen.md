@@ -82,13 +82,13 @@ Rolf Tüschen is vehement critic of the [ICGA](ICGA "ICGA") [decision process](R
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The games of Ed Schroder Part I](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/4095f9ef9e311b83) by Rolf Tueschen, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 28, 1996
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rolf Tueschen](https://www.stmintz.com/ccc/index.php?id=26877) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), September 17, 1998
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Concerning Rolf Tueschen](https://www.stmintz.com/ccc/index.php?id=27456) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), September 21, 1998
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [To Rolf Tueschen](https://www.stmintz.com/ccc/index.php?id=11980) by [Enrique Irazoqui](Enrique_Irazoqui "Enrique Irazoqui"), [CCC](CCC "CCC"), November 12, 1997
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Rebuttal to Chris Whittington](https://groups.google.com/d/msg/rec.games.chess.computer/QaEKkDyJpoM/ATfN5KFMS_oJ) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 17, 1998
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Proposal](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=24519) by AWRIST, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums") , March 12, 2012
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Character assassination from Wikipedia](https://en.wikipedia.org/wiki/Character_assassination)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The games of Ed Schroder Part I](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/4095f9ef9e311b83) by Rolf Tueschen, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 28, 1996
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rolf Tueschen](https://www.stmintz.com/ccc/index.php?id=26877) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), September 17, 1998
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Concerning Rolf Tueschen](https://www.stmintz.com/ccc/index.php?id=27456) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), September 21, 1998
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [To Rolf Tueschen](https://www.stmintz.com/ccc/index.php?id=11980) by [Enrique Irazoqui](Enrique_Irazoqui "Enrique Irazoqui"), [CCC](CCC "CCC"), November 12, 1997
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Rebuttal to Chris Whittington](https://groups.google.com/d/msg/rec.games.chess.computer/QaEKkDyJpoM/ATfN5KFMS_oJ) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 17, 1998
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Proposal](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=24519) by AWRIST, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums") , March 12, 2012
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Character assassination from Wikipedia](https://en.wikipedia.org/wiki/Character_assassination)
 
 **[Up one level](People "People")**
 

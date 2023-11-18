@@ -76,12 +76,12 @@ The name Godot comes from [Samuel Beckett's](https://en.wikipedia.org/wiki/Samue
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Waiting For Godot](https://en.wikipedia.org/wiki/Waiting_for_Godot) set at [Theatre Royal Haymarket](https://en.wikipedia.org/wiki/Haymarket_Theatre) in [London's West End](https://en.wikipedia.org/wiki/West_End_of_London), [Photo](https://commons.wikimedia.org/wiki/File:Waiting_for_Godot_set_Theatre_Royal_Haymarket_2009.jpg) by KlickingKarl, July 01, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ulysse Carion](index.php?title=Ulysse_Carion&action=edit&redlink=1 "Ulysse Carion (page does not exist)") (**2013**). *Creating a Chess-Playing Computer Program*. [La Jolla High School](https://en.wikipedia.org/wiki/La_Jolla_High_School), [pdf](http://ulysse.io/ComputerChess.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [2013 California State Science Fair Participants in Mathematics & Software , Senior Division:](http://www.usc.edu/CSSF/History/2013/pictures/Portrait/p_S14.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CSSF Category Awards: 2013, Senior Mathematics & Software](http://www.usc.edu/CSSF/History/2013/Awards/S14.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ulysse Carion](index.php?title=Ulysse_Carion&action=edit&redlink=1 "Ulysse Carion (page does not exist)") (**2013**). *Creating a Chess-Playing Computer Program*. 3 Statement of Purpose
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ucarion/godot · GitHub - README.md](https://github.com/ucarion/godot)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Waiting For Godot](https://en.wikipedia.org/wiki/Waiting_for_Godot) set at [Theatre Royal Haymarket](https://en.wikipedia.org/wiki/Haymarket_Theatre) in [London's West End](https://en.wikipedia.org/wiki/West_End_of_London), [Photo](https://commons.wikimedia.org/wiki/File:Waiting_for_Godot_set_Theatre_Royal_Haymarket_2009.jpg) by KlickingKarl, July 01, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ulysse Carion](index.php?title=Ulysse_Carion&action=edit&redlink=1 "Ulysse Carion (page does not exist)") (**2013**). *Creating a Chess-Playing Computer Program*. [La Jolla High School](https://en.wikipedia.org/wiki/La_Jolla_High_School), [pdf](http://ulysse.io/ComputerChess.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [2013 California State Science Fair Participants in Mathematics & Software , Senior Division:](http://www.usc.edu/CSSF/History/2013/pictures/Portrait/p_S14.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CSSF Category Awards: 2013, Senior Mathematics & Software](http://www.usc.edu/CSSF/History/2013/Awards/S14.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ulysse Carion](index.php?title=Ulysse_Carion&action=edit&redlink=1 "Ulysse Carion (page does not exist)") (**2013**). *Creating a Chess-Playing Computer Program*. 3 Statement of Purpose
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ucarion/godot · GitHub - README.md](https://github.com/ucarion/godot)
 
 **[Up one Level](Engines "Engines")**
 

@@ -111,11 +111,11 @@ A [recursive](Recursion "Recursion") [search](Search "Search") is quite hard to 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wilhelm-Busch](https://en.wikipedia.org/wiki/Wilhelm_Busch), [Max und Moritz - Fünfter Streich](http://www.wilhelm-busch-seiten.de/werke/maxundmoritz/streich5.html) from [Wilhelm-Busch Seiten von Jochen Schöpflin](http://www.wilhelm-busch-seiten.de/index.html) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [DebugBreak Function (Windows)](http://msdn.microsoft.com/en-us/library/ms679297%28VS.85%29.aspx) from [Develop for Windows 7 and Windows Vista | MSDN](http://msdn.microsoft.com/en-us/default.aspx)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Re: Testing and debugging chess engines](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5955&start=5) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 05, 2006
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Regression testing from Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Assertion (software development) from Wikipedia](<https://en.wikipedia.org/wiki/Assertion_(software_development)>)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wilhelm-Busch](https://en.wikipedia.org/wiki/Wilhelm_Busch), [Max und Moritz - Fünfter Streich](http://www.wilhelm-busch-seiten.de/werke/maxundmoritz/streich5.html) from [Wilhelm-Busch Seiten von Jochen Schöpflin](http://www.wilhelm-busch-seiten.de/index.html) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [DebugBreak Function (Windows)](http://msdn.microsoft.com/en-us/library/ms679297%28VS.85%29.aspx) from [Develop for Windows 7 and Windows Vista | MSDN](http://msdn.microsoft.com/en-us/default.aspx)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Re: Testing and debugging chess engines](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5955&start=5) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 05, 2006
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Regression testing from Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Assertion (software development) from Wikipedia](<https://en.wikipedia.org/wiki/Assertion_(software_development)>)
 
 **[Up one Level](Programming "Programming")**
 

@@ -19,8 +19,8 @@ where they lost both games due to time forfeit
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [George R. R. Martin](Category:George_R._R._Martin "Category:George R. R. Martin") (**1972**). *[The Computer Was A Fish](</CCCP_(US)#TheComputerWasAFish> "CCCP (US)")*. [Analog Science Fiction/Science Fact, August 1972](http://www.isfdb.org/cgi-bin/pl.cgi?57064)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Chess Newsletter, Issue 2](https://www.computerhistory.org/chess/doc-431614f6d6b8e/) 1977 by [Douglas Penrod](Douglas_Penrod "Douglas Penrod"), letter by Charles F. Wilkes pp. 6-9, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), hosted by the [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [George R. R. Martin](Category:George_R._R._Martin "Category:George R. R. Martin") (**1972**). *[The Computer Was A Fish](</CCCP_(US)#TheComputerWasAFish> "CCCP (US)")*. [Analog Science Fiction/Science Fact, August 1972](http://www.isfdb.org/cgi-bin/pl.cgi?57064)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Chess Newsletter, Issue 2](https://www.computerhistory.org/chess/doc-431614f6d6b8e/) 1977 by [Douglas Penrod](Douglas_Penrod "Douglas Penrod"), letter by Charles F. Wilkes pp. 6-9, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), hosted by the [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](People "People")**
 

@@ -34,10 +34,10 @@ The **Livingston** <a id="cite-note-1" href="#cite-ref-1">[1]</a> [Chess960](Che
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Livingston, Europe's Number 1 Test & Measurement Hire and Computer Rental Company](http://www.livingston.co.uk/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Tigers](http://www.chesstigers.de/) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aronian gewinnt FINet-Chess960-Turnier](http://www.chessbase.de/nachrichten.asp?newsid=4623) from [ChessBase.de](ChessBase "ChessBase")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Classic: Rybka wins Chess960 Computer World Championship](http://www.chessbase.com/newsdetail.asp?newsid=5634) from [ChessBase](ChessBase "ChessBase")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Livingston, Europe's Number 1 Test & Measurement Hire and Computer Rental Company](http://www.livingston.co.uk/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Tigers](http://www.chesstigers.de/) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aronian gewinnt FINet-Chess960-Turnier](http://www.chessbase.de/nachrichten.asp?newsid=4623) from [ChessBase.de](ChessBase "ChessBase")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Classic: Rybka wins Chess960 Computer World Championship](http://www.chessbase.com/newsdetail.asp?newsid=5634) from [ChessBase](ChessBase "ChessBase")
 
 **[Up one level](Tournaments_and_Matches "Tournaments and Matches")**
 

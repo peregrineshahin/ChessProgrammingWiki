@@ -23,10 +23,10 @@ a computer engineering student at the [University of Toronto](University_of_Toro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Maia Chess](https://maiachess.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Maia Chess](https://maiachess.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Russell Wang‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=Zxnqui0AAAAJ&hl=en)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Russell Wang](https://dblp.org/pid/273/3838.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Maia Chess](https://maiachess.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Maia Chess](https://maiachess.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Russell Wang‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=Zxnqui0AAAAJ&hl=en)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Russell Wang](https://dblp.org/pid/273/3838.html)
 
 **[Up one level](People "People")**
 

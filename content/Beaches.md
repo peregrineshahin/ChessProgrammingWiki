@@ -52,9 +52,9 @@ Search is plain [alpha-beta](Alpha-Beta "Alpha-Beta") with [transposition table]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Anything goes in [Santa Monica](https://en.wikipedia.org/wiki/Santa_Monica,_California) - strenuous upper arm workouts, playing on swings, or brain workouts in the form of chess matches, source: [Muscle Beach and Chess Beach, Santa Monica](https://www.flickr.com/photos/skinnylawyer/5847210301/), [Image](<https://commons.wikimedia.org/wiki/File:Muscle_Beach_and_Chess_Beach,_Santa_Monica_(5847210301).jpg>) by [InSapphoWeTrust](https://www.flickr.com/people/56619626@N05?rb=1), June 18, 2011, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New WinBoard compatible engine - Beaches 0.96 by Robert Pope](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=38196) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 16, 2002
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [BeachesChess](https://sites.google.com/site/beacheschess/), Here is the source code of a slightly later version of Beaches (2.32)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Anything goes in [Santa Monica](https://en.wikipedia.org/wiki/Santa_Monica,_California) - strenuous upper arm workouts, playing on swings, or brain workouts in the form of chess matches, source: [Muscle Beach and Chess Beach, Santa Monica](https://www.flickr.com/photos/skinnylawyer/5847210301/), [Image](<https://commons.wikimedia.org/wiki/File:Muscle_Beach_and_Chess_Beach,_Santa_Monica_(5847210301).jpg>) by [InSapphoWeTrust](https://www.flickr.com/people/56619626@N05?rb=1), June 18, 2011, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New WinBoard compatible engine - Beaches 0.96 by Robert Pope](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=38196) by [Benny Antonsson](Benny_Antonsson "Benny Antonsson"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 16, 2002
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [BeachesChess](https://sites.google.com/site/beacheschess/), Here is the source code of a slightly later version of Beaches (2.32)
 
 **[Up one Level](Engines "Engines")**
 

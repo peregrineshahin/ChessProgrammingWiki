@@ -90,12 +90,12 @@ a [depth to mate](Endgame_Tablebases#DTM "Endgame Tablebases") endgame tablebase
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Black-legged Kittiwakes](https://en.wikipedia.org/wiki/Black-legged_kittiwake) at [Runde](https://en.wikipedia.org/wiki/Runde), [Herøy](https://en.wikipedia.org/wiki/Her%C3%B8y,_M%C3%B8re_og_Romsdal), [Møre og Romsdal](https://en.wikipedia.org/wiki/M%C3%B8re_og_Romsdal), [Norway](https://en.wikipedia.org/wiki/Norway), [Photo](https://commons.wikimedia.org/wiki/File:Dreizehenmoewen.jpg) by [T.Müller](https://commons.wikimedia.org/wiki/User:Islandmen), July 2006
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gaviota's Endgame Tablebases](http://www.talkchess.com/forum/viewtopic.php?t=25311) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), December 07, 2008
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Generation from Console - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/endgame-tablebases-1/gtb-generation)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Checking Files After Generation - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/endgame-tablebases-1/gtb-checking)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Compressing Tablebases - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/endgame-tablebases-1/gtb-compression)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [BitTorrent from Wikipedia](https://en.wikipedia.org/wiki/BitTorrent)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Black-legged Kittiwakes](https://en.wikipedia.org/wiki/Black-legged_kittiwake) at [Runde](https://en.wikipedia.org/wiki/Runde), [Herøy](https://en.wikipedia.org/wiki/Her%C3%B8y,_M%C3%B8re_og_Romsdal), [Møre og Romsdal](https://en.wikipedia.org/wiki/M%C3%B8re_og_Romsdal), [Norway](https://en.wikipedia.org/wiki/Norway), [Photo](https://commons.wikimedia.org/wiki/File:Dreizehenmoewen.jpg) by [T.Müller](https://commons.wikimedia.org/wiki/User:Islandmen), July 2006
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gaviota's Endgame Tablebases](http://www.talkchess.com/forum/viewtopic.php?t=25311) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), December 07, 2008
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Generation from Console - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/endgame-tablebases-1/gtb-generation)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Checking Files After Generation - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/endgame-tablebases-1/gtb-checking)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Compressing Tablebases - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/endgame-tablebases-1/gtb-compression)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [BitTorrent from Wikipedia](https://en.wikipedia.org/wiki/BitTorrent)
 
 **[Up one level](Endgame_Tablebases "Endgame Tablebases")**
 

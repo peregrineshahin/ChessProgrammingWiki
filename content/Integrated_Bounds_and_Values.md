@@ -61,7 +61,7 @@ int forceLB (int x) {return forceExact(x) + 1;}
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Don Beal](Don_Beal "Don Beal") (**1995**). *An Integrated-Bounds-and-Values (IBV) Numeric Scale for Minimax Searches*. [ICCA Journal, Vol. 18, No. 2](ICGA_Journal#18_2 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Don Beal](Don_Beal "Don Beal") (**1995**). *An Integrated-Bounds-and-Values (IBV) Numeric Scale for Minimax Searches*. [ICCA Journal, Vol. 18, No. 2](ICGA_Journal#18_2 "ICGA Journal")
 
 **[Up one level](Score "Score")**
 

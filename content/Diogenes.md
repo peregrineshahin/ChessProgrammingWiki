@@ -65,12 +65,12 @@ Diogenes <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John William Waterhouse](Category:John_William_Waterhouse "Category:John William Waterhouse") - [Diogenes](https://commons.wikimedia.org/wiki/File:John_Waterhouse_-_Diogenes_-_Google_Art_Project.jpg), 1882, [Art Gallery of New South Wales](https://en.wikipedia.org/wiki/Art_Gallery_of_New_South_Wales), [Google Arts & Culture](https://en.wikipedia.org/wiki/Google_Arts_%26_Culture), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Summer98-Tournament: Description](http://chess.fsv.de/Summer98/descript.htm#Joerg%20Burwitz) by [Torsten Schoop](index.php?title=Torsten_Schoop&action=edit&redlink=1 "Torsten Schoop (page does not exist)")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Diogenes' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=198)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Diogenes !](https://www.stmintz.com/ccc/index.php?id=60819) by [Jörg Burwitz](J%C3%B6rg_Burwitz "Jörg Burwitz"), [CCC](CCC "CCC"), July 18, 1999
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Jakarta 1996 - Chess - Round 7 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=55&round=7&id=8)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John William Waterhouse](Category:John_William_Waterhouse "Category:John William Waterhouse") - [Diogenes](https://commons.wikimedia.org/wiki/File:John_Waterhouse_-_Diogenes_-_Google_Art_Project.jpg), 1882, [Art Gallery of New South Wales](https://en.wikipedia.org/wiki/Art_Gallery_of_New_South_Wales), [Google Arts & Culture](https://en.wikipedia.org/wiki/Google_Arts_%26_Culture), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Summer98-Tournament: Description](http://chess.fsv.de/Summer98/descript.htm#Joerg%20Burwitz) by [Torsten Schoop](index.php?title=Torsten_Schoop&action=edit&redlink=1 "Torsten Schoop (page does not exist)")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Diogenes' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=198)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Diogenes !](https://www.stmintz.com/ccc/index.php?id=60819) by [Jörg Burwitz](J%C3%B6rg_Burwitz "Jörg Burwitz"), [CCC](CCC "CCC"), July 18, 1999
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jakarta 1996 - Chess - Round 7 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=55&round=7&id=8)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
 
 **[Up one level](Engines "Engines")**
 

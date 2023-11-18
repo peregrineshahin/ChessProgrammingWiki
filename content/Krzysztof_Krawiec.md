@@ -81,13 +81,13 @@ His research interests include [program synthesis](https://en.wikipedia.org/wiki
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Krzysztof Krawiec Site/Main](http://www.cs.put.poznan.pl/kkrawiec/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Krzysztof Krawiec Site/Main](http://www.cs.put.poznan.pl/kkrawiec/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Krzysztof Krawiec | LinkedIn](https://www.linkedin.com/pub/krzysztof-krawiec/38/9aa/411)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Krzysztof Krawiec](https://dblp.uni-trier.de/pers/hd/k/Krawiec:Krzysztof.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Genetic Programming Bibliography entries for Krzysztof Krawiec](http://www.cs.bham.ac.uk/~wbl/biblio/gp-html/KrzysztofKrawiec.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Ant Wars](http://www.cs.put.poznan.pl/wjaskowski/projects/ant-wars) by [Wojciech Jaśkowski](Wojciech_Ja%C5%9Bkowski "Wojciech Jaśkowski")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Edax](https://en.wikipedia.org/wiki/Edax_(computing)) by [Richard Delorme](Richard_Delorme "Richard Delorme")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Krzysztof Krawiec Site/Main](http://www.cs.put.poznan.pl/kkrawiec/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Krzysztof Krawiec Site/Main](http://www.cs.put.poznan.pl/kkrawiec/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Krzysztof Krawiec | LinkedIn](https://www.linkedin.com/pub/krzysztof-krawiec/38/9aa/411)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Krzysztof Krawiec](https://dblp.uni-trier.de/pers/hd/k/Krawiec:Krzysztof.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Genetic Programming Bibliography entries for Krzysztof Krawiec](http://www.cs.bham.ac.uk/~wbl/biblio/gp-html/KrzysztofKrawiec.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Ant Wars](http://www.cs.put.poznan.pl/wjaskowski/projects/ant-wars) by [Wojciech Jaśkowski](Wojciech_Ja%C5%9Bkowski "Wojciech Jaśkowski")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Edax](https://en.wikipedia.org/wiki/Edax_(computing)) by [Richard Delorme](Richard_Delorme "Richard Delorme")
 
 **[Up one level](People "People")**
 

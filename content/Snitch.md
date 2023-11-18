@@ -92,11 +92,11 @@ as well as [legal move generation](Move_Generation "Move Generation").
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [New engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=45881&p=174271) by [Klaus Friedel](index.php?title=Klaus_Friedel&action=edit&redlink=1 "Klaus Friedel (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 03, 2004
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New engine Snitch 1.0.0](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=74&p=157) by [Klaus Friedel](index.php?title=Klaus_Friedel&action=edit&redlink=1 "Klaus Friedel (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 28, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Attack table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=171&start=21) by [Klaus Friedel](index.php?title=Klaus_Friedel&action=edit&redlink=1 "Klaus Friedel (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 28, 2004
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Snitch and Hagrid two free UCI / Winboard chess engines](http://www.friedelprivat.de/) - Developer
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Evaluating bad bishops](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4815&start=2) by [Klaus Friedel](index.php?title=Klaus_Friedel&action=edit&redlink=1 "Klaus Friedel (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 15, 2006
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [New engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=45881&p=174271) by [Klaus Friedel](index.php?title=Klaus_Friedel&action=edit&redlink=1 "Klaus Friedel (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 03, 2004
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New engine Snitch 1.0.0](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=74&p=157) by [Klaus Friedel](index.php?title=Klaus_Friedel&action=edit&redlink=1 "Klaus Friedel (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 28, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Attack table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=171&start=21) by [Klaus Friedel](index.php?title=Klaus_Friedel&action=edit&redlink=1 "Klaus Friedel (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 28, 2004
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Snitch and Hagrid two free UCI / Winboard chess engines](http://www.friedelprivat.de/) - Developer
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Evaluating bad bishops](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4815&start=2) by [Klaus Friedel](index.php?title=Klaus_Friedel&action=edit&redlink=1 "Klaus Friedel (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 15, 2006
 
 **[Up one level](Engines "Engines")**
 

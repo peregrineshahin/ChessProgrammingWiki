@@ -84,11 +84,11 @@ is a series of [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) bas
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Apple's transition to Intel processors](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Macintosh Chess: Sigma Chess HIARCS Chess Software Program](http://www.hiarcs.com/prev-prod/MacH13-DJ12/mac_chess_hiarcs1.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [OSX Xboard 4.7.2 .app](http://www.talkchess.com/forum/viewtopic.php?t=49729) by [Joshua Pettus](index.php?title=Joshua_Pettus&action=edit&redlink=1 "Joshua Pettus (page does not exist)"), [CCC](CCC "CCC"), October 16, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [XBoard native Mac App](http://hiarcs.net/forums/viewtopic.php?t=6492) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 18, 2013
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Xcode from Wikipedia](https://en.wikipedia.org/wiki/Xcode)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Apple's transition to Intel processors](https://en.wikipedia.org/wiki/Apple%27s_transition_to_Intel_processors)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Macintosh Chess: Sigma Chess HIARCS Chess Software Program](http://www.hiarcs.com/prev-prod/MacH13-DJ12/mac_chess_hiarcs1.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [OSX Xboard 4.7.2 .app](http://www.talkchess.com/forum/viewtopic.php?t=49729) by [Joshua Pettus](index.php?title=Joshua_Pettus&action=edit&redlink=1 "Joshua Pettus (page does not exist)"), [CCC](CCC "CCC"), October 16, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [XBoard native Mac App](http://hiarcs.net/forums/viewtopic.php?t=6492) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 18, 2013
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Xcode from Wikipedia](https://en.wikipedia.org/wiki/Xcode)
 
 **[Up one Level](Software "Software")**
 

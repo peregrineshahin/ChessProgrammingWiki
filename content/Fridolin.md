@@ -125,16 +125,16 @@ Ne2+ 41.Kh1 Qxf2 42.Ra1 Nf4 43.Rg1 Kf8 44.Qc6 Rb8 45.Qc4 Qg3 46.Bf1 Qe3 47.Bg2 N
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Le bon Fridolin Rosengarten et son canon monstre](https://commons.wikimedia.org/wiki/File:Le_bon_Fridolin_Rosengarten_et_son_canon_monstre.jpg) in [Albert Robida](https://en.wikipedia.org/wiki/Albert_Robida) (**1879**). *[Voyages très extraordinaires de Saturnin Farandoul](https://fr.wikipedia.org/wiki/Voyages_tr%C3%A8s_extraordinaires_de_Saturnin_Farandoul)*. [page 265](https://archive.org/stream/voyagestrsextrao02robi#page/265/mode/1up) from [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> prior to Version 3 also [WinBoard](WinBoard "WinBoard")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fridolin - Home](https://sites.google.com/site/fridolinchess/home)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fridolin – Wikipedia.de](http://de.wikipedia.org/wiki/Fridolin) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Michael Jürgs](http://de.wikipedia.org/wiki/Michael_J%C3%BCrgs) (**2012**). *Codename Hélène: Churchills Geheimagentin Nancy Wake und ihr Kampf gegen die Gestapo in Frankreich*. Bertelsmann, München, ISBN 9783570101421 (German), [Nancy Wake from Wikipedia](https://en.wikipedia.org/wiki/Nancy_Wake)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> personal communication
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The JAIST 20th Anniversary Events with the ICGA - Computer Chess Championship - Photo Gallery](http://www.jaist.ac.jp/ICGA-events-2010/english/photo/02_1.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Kanazawa 2010 - Chess - Round 8 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=209&round=8&id=5)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Foto-impressie WCCC/WCSC Kanazawa, Japan](http://www.csvn.nl/index.php?option=com_content&view=article&id=472%3Afoto-impressie-wcccwcsc-kanazawa-japan&catid=51%3Atoernooien&Itemid=28&lang=en) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos") from the [CSVN site](CSVN "CSVN")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Kanazawa 2010 - Chess (Software) - Round 3 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=210&round=3&id=4)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Le bon Fridolin Rosengarten et son canon monstre](https://commons.wikimedia.org/wiki/File:Le_bon_Fridolin_Rosengarten_et_son_canon_monstre.jpg) in [Albert Robida](https://en.wikipedia.org/wiki/Albert_Robida) (**1879**). *[Voyages très extraordinaires de Saturnin Farandoul](https://fr.wikipedia.org/wiki/Voyages_tr%C3%A8s_extraordinaires_de_Saturnin_Farandoul)*. [page 265](https://archive.org/stream/voyagestrsextrao02robi#page/265/mode/1up) from [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> prior to Version 3 also [WinBoard](WinBoard "WinBoard")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fridolin - Home](https://sites.google.com/site/fridolinchess/home)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fridolin – Wikipedia.de](http://de.wikipedia.org/wiki/Fridolin) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Michael Jürgs](http://de.wikipedia.org/wiki/Michael_J%C3%BCrgs) (**2012**). *Codename Hélène: Churchills Geheimagentin Nancy Wake und ihr Kampf gegen die Gestapo in Frankreich*. Bertelsmann, München, ISBN 9783570101421 (German), [Nancy Wake from Wikipedia](https://en.wikipedia.org/wiki/Nancy_Wake)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> personal communication
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The JAIST 20th Anniversary Events with the ICGA - Computer Chess Championship - Photo Gallery](http://www.jaist.ac.jp/ICGA-events-2010/english/photo/02_1.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Kanazawa 2010 - Chess - Round 8 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=209&round=8&id=5)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Foto-impressie WCCC/WCSC Kanazawa, Japan](http://www.csvn.nl/index.php?option=com_content&view=article&id=472%3Afoto-impressie-wcccwcsc-kanazawa-japan&catid=51%3Atoernooien&Itemid=28&lang=en) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos") from the [CSVN site](CSVN "CSVN")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Kanazawa 2010 - Chess (Software) - Round 3 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=210&round=3&id=4)
 
 **[Up one Level](Engines "Engines")**
 

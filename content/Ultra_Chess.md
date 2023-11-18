@@ -29,7 +29,7 @@ Ultra Chess was released in 1985 by [Aackosoft](https://en.wikipedia.org/wiki/Aa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ultra Chess (1985, MSX, Aackosoft) | Generation MSX](https://www.generation-msx.nl/software/aackosoft/ultra-chess/2408/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ultra Chess (1985, MSX, Aackosoft) | Generation MSX](https://www.generation-msx.nl/software/aackosoft/ultra-chess/2408/)
 
 **[Up one Level](Engines "Engines")**
 

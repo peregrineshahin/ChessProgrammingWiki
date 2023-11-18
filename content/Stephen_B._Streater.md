@@ -39,15 +39,15 @@ a British computer scientist and technology entrepreneur. He holds a degree in m
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Leadership | Forbidden: Stephen Streater](http://www.forbidden.co.uk/company/board/#Stephen-Streater)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Forbidden | Change Vision](http://www.forbidden.co.uk/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [User:Stephen B Streater - Wikipedia](https://en.wikipedia.org/wiki/User:Stephen_B_Streater)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Epsom Go Tournament | Forbidden](http://www.forbidden.co.uk/2003/08/08/epsom-go-tournament-2/), August 8, 2003
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Epsom Go Tournament | Forbidden](https://www.forbidden.co.uk/2005/05/27/epsom-go-tournament/), May 27, 2005
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [9x9 Go.ogg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:9x9_Go.ogg) by Stephen B. Streater, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), August 27, 2006
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Search or Evaluation?](http://www.hiarcs.net/forums/viewtopic.php?p=2944) by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 14, 2007 » [Knowledge | Search versus Evaluation](Knowledge#SearchVersusEvaluation "Knowledge")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Zsuzsa Horváth](Zsuzsa_Horv%C3%A1th "Zsuzsa Horváth") (**1990**). *Report on the 2nd Computer Olympiad*. [ICCA Journal, Vol. 13, No. 3](ICGA_Journal#13_3 "ICGA Journal") » [2nd Computer Olympiad](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: The MCHESS5 computer killer book...](https://groups.google.com/d/msg/rec.games.chess.computer/ZWQ5ZwvXx_s/ehktIQAorUoJ) by Stephen B. Streater, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 16, 1996
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Leadership | Forbidden: Stephen Streater](http://www.forbidden.co.uk/company/board/#Stephen-Streater)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Forbidden | Change Vision](http://www.forbidden.co.uk/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [User:Stephen B Streater - Wikipedia](https://en.wikipedia.org/wiki/User:Stephen_B_Streater)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Epsom Go Tournament | Forbidden](http://www.forbidden.co.uk/2003/08/08/epsom-go-tournament-2/), August 8, 2003
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Epsom Go Tournament | Forbidden](https://www.forbidden.co.uk/2005/05/27/epsom-go-tournament/), May 27, 2005
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [9x9 Go.ogg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:9x9_Go.ogg) by Stephen B. Streater, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), August 27, 2006
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Search or Evaluation?](http://www.hiarcs.net/forums/viewtopic.php?p=2944) by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 14, 2007 » [Knowledge | Search versus Evaluation](Knowledge#SearchVersusEvaluation "Knowledge")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Zsuzsa Horváth](Zsuzsa_Horv%C3%A1th "Zsuzsa Horváth") (**1990**). *Report on the 2nd Computer Olympiad*. [ICCA Journal, Vol. 13, No. 3](ICGA_Journal#13_3 "ICGA Journal") » [2nd Computer Olympiad](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: The MCHESS5 computer killer book...](https://groups.google.com/d/msg/rec.games.chess.computer/ZWQ5ZwvXx_s/ehktIQAorUoJ) by Stephen B. Streater, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 16, 1996
 
 **[Up one level](People "People")**
 

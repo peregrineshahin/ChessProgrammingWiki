@@ -49,11 +49,11 @@ The CD package further included the DOS program *Terminator 2: Judgment Day - Ch
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Grandmaster Chess (CD-ROM Edition) (DOS)](http://www.mobygames.com/game/dos/grandmaster-chess-cd-rom-edition/screenshots/gameShotId,255153/) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames), Screenshot 2 of 5, contributed by [bluurg](http://www.mobygames.com/user/sheet/userSheetId,101708/), September 29, 2007
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zarkov Development History - Grandmaster Chess](http://john.stanback.net/zarkov/zarkov_history.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tim Carter](https://www.linkedin.com/pub/tim-carter/17/620/80a) (**1992**). *Castling with Capstone's Grandmaster Chess*. [Computer Gaming World](https://en.wikipedia.org/wiki/Computer_Gaming_World), 11/1992, [pdf](http://www.cgwmuseum.org/galleries/issues/cgw_100.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Grandmaster Chess (CD-ROM Edition)](http://www.mobygames.com/game/dos/grandmaster-chess-cd-rom-edition) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Terminator 2: Judgment Day - Chess Wars for DOS (1993)](http://www.mobygames.com/game/dos/terminator-2-judgment-day-chess-wars) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Grandmaster Chess (CD-ROM Edition) (DOS)](http://www.mobygames.com/game/dos/grandmaster-chess-cd-rom-edition/screenshots/gameShotId,255153/) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames), Screenshot 2 of 5, contributed by [bluurg](http://www.mobygames.com/user/sheet/userSheetId,101708/), September 29, 2007
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zarkov Development History - Grandmaster Chess](http://john.stanback.net/zarkov/zarkov_history.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tim Carter](https://www.linkedin.com/pub/tim-carter/17/620/80a) (**1992**). *Castling with Capstone's Grandmaster Chess*. [Computer Gaming World](https://en.wikipedia.org/wiki/Computer_Gaming_World), 11/1992, [pdf](http://www.cgwmuseum.org/galleries/issues/cgw_100.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Grandmaster Chess (CD-ROM Edition)](http://www.mobygames.com/game/dos/grandmaster-chess-cd-rom-edition) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Terminator 2: Judgment Day - Chess Wars for DOS (1993)](http://www.mobygames.com/game/dos/terminator-2-judgment-day-chess-wars) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
 
 **[Up one Level](Engines "Engines")**
 

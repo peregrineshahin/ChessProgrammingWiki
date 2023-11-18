@@ -32,9 +32,9 @@ a chess playing entity by [TASC](TASC "TASC"), extending an [IBM PC](IBM_PC "IBM
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [TASC ChessMachine](http://www.schach-computer.info/wiki/index.php/TASC_ChessMachine) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [7th World Computer Chess Championship](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=58)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [World Champion](http://members.home.nl/matador/chess_2.htm) by [Ed Schöder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [TASC ChessMachine](http://www.schach-computer.info/wiki/index.php/TASC_ChessMachine) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [7th World Computer Chess Championship](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=58)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [World Champion](http://members.home.nl/matador/chess_2.htm) by [Ed Schöder](Ed_Schroder "Ed Schroder")
 
 **[Up one level](Engines "Engines")**
 

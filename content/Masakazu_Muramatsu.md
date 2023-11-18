@@ -41,9 +41,9 @@ Along with [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki") and others, he also co
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Masakazu MURAMATSU Laboratory│The University of Electro-Communications](https://www.uec.ac.jp/eng/research/introduction/opal-ring/0000551.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Masakazu Muramatsu | PhD | The University of Electro-Communications, Tokyo | UEC | Department of Communication Engineering and Informatics | ResearchGate](https://www.researchgate.net/profile/Masakazu_Muramatsu)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Masakazu Muramatsu](https://dblp.uni-trier.de/pers/hd/m/Muramatsu:Masakazu)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Masakazu MURAMATSU Laboratory│The University of Electro-Communications](https://www.uec.ac.jp/eng/research/introduction/opal-ring/0000551.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Masakazu Muramatsu | PhD | The University of Electro-Communications, Tokyo | UEC | Department of Communication Engineering and Informatics | ResearchGate](https://www.researchgate.net/profile/Masakazu_Muramatsu)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Masakazu Muramatsu](https://dblp.uni-trier.de/pers/hd/m/Muramatsu:Masakazu)
 
 **[Up one Level](People "People")**
 

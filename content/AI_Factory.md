@@ -102,11 +102,11 @@ an independent, [UK-based](https://en.wikipedia.org/wiki/United_Kingdom) [game d
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [AI Factory Biogs](http://www.aifactory.co.uk/AIF_Us.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AI Factory Fireball](http://www.aifactory.co.uk/AIF_Fireball.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [AI Factory Chess Tal](http://www.aifactory.co.uk/AIF_Games_Chess_Tal.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [AI Factory Chess Treebeard](http://www.aifactory.co.uk/AIF_Games_Chess_Treebeard.htm)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Article Listing - AI Factory newsletter](http://www.aifactory.co.uk/newsletter/articles.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [AI Factory Biogs](http://www.aifactory.co.uk/AIF_Us.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AI Factory Fireball](http://www.aifactory.co.uk/AIF_Fireball.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [AI Factory Chess Tal](http://www.aifactory.co.uk/AIF_Games_Chess_Tal.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [AI Factory Chess Treebeard](http://www.aifactory.co.uk/AIF_Games_Chess_Treebeard.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Article Listing - AI Factory newsletter](http://www.aifactory.co.uk/newsletter/articles.htm)
 
 **[Up one Level](Organizations "Organizations")**
 

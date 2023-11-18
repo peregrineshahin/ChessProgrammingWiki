@@ -34,9 +34,9 @@ distributed under the [GNU General Public License](Free_Software_Foundation#GPL 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: DON 1.0b derivate Glaurung](http://www.talkchess.com/forum/viewtopic.php?t=51151&start=2) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), February 03, 2014
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [DON/Readme.md at master · erashid/DON · GitHub](https://github.com/erashid/DON/blob/master/Readme.md)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: New engine releases 2020...Don NNUE 2020?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=320#p856640) by supersharp77, [CCC](CCC "CCC"), August 19, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: DON 1.0b derivate Glaurung](http://www.talkchess.com/forum/viewtopic.php?t=51151&start=2) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), February 03, 2014
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [DON/Readme.md at master · erashid/DON · GitHub](https://github.com/erashid/DON/blob/master/Readme.md)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: New engine releases 2020...Don NNUE 2020?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=320#p856640) by supersharp77, [CCC](CCC "CCC"), August 19, 2020
 
 **[Up one Level](Engines "Engines")**
 

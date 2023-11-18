@@ -46,13 +46,13 @@ The first hidden layer has 2048 neurons as well. Bernhardsson used a [GPU](GPU "
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Shades of pink](https://en.wikipedia.org/wiki/Shades_of_pink) derived from [Color icon pink.svg](https://commons.wikimedia.org/wiki/File:Color_icon_pink.svg), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> color: #ff1493; [Deep Pink - Shades of pink from Wikipedia](https://en.wikipedia.org/wiki/Shades_of_pink#Deep_pink)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [erikbern/deep-pink · GitHub](https://github.com/erikbern/deep-pink)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Yurii Nesterov from Wikipedia](https://en.wikipedia.org/wiki/Yurii_Nesterov)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Deep learning for… chess](https://erikbern.com/2014/11/29/deep-learning-for-chess) by [Erik Bernhardsson](Erik_Bernhardsson "Erik Bernhardsson"), November 29, 2014
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ORF523: Nesterov’s Accelerated Gradient Descent](https://blogs.princeton.edu/imabandit/2013/04/01/acceleratedgradientdescent/) by [Sébastien Bubeck](index.php?title=S%C3%A9bastien_Bubeck&action=edit&redlink=1 "Sébastien Bubeck (page does not exist)"), [I’m a bandit](https://blogs.princeton.edu/imabandit/), April 1, 2013
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Nesterov’s Accelerated Gradient Descent for Smooth and Strongly Convex Optimization](https://blogs.princeton.edu/imabandit/2014/03/06/nesterovs-accelerated-gradient-descent-for-smooth-and-strongly-convex-optimization/) by [Sébastien Bubeck](index.php?title=S%C3%A9bastien_Bubeck&action=edit&redlink=1 "Sébastien Bubeck (page does not exist)"), [I’m a bandit](https://blogs.princeton.edu/imabandit/), March 6, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Shades of pink](https://en.wikipedia.org/wiki/Shades_of_pink) derived from [Color icon pink.svg](https://commons.wikimedia.org/wiki/File:Color_icon_pink.svg), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> color: #ff1493; [Deep Pink - Shades of pink from Wikipedia](https://en.wikipedia.org/wiki/Shades_of_pink#Deep_pink)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [erikbern/deep-pink · GitHub](https://github.com/erikbern/deep-pink)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Yurii Nesterov from Wikipedia](https://en.wikipedia.org/wiki/Yurii_Nesterov)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Deep learning for… chess](https://erikbern.com/2014/11/29/deep-learning-for-chess) by [Erik Bernhardsson](Erik_Bernhardsson "Erik Bernhardsson"), November 29, 2014
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ORF523: Nesterov’s Accelerated Gradient Descent](https://blogs.princeton.edu/imabandit/2013/04/01/acceleratedgradientdescent/) by [Sébastien Bubeck](index.php?title=S%C3%A9bastien_Bubeck&action=edit&redlink=1 "Sébastien Bubeck (page does not exist)"), [I’m a bandit](https://blogs.princeton.edu/imabandit/), April 1, 2013
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Nesterov’s Accelerated Gradient Descent for Smooth and Strongly Convex Optimization](https://blogs.princeton.edu/imabandit/2014/03/06/nesterovs-accelerated-gradient-descent-for-smooth-and-strongly-convex-optimization/) by [Sébastien Bubeck](index.php?title=S%C3%A9bastien_Bubeck&action=edit&redlink=1 "Sébastien Bubeck (page does not exist)"), [I’m a bandit](https://blogs.princeton.edu/imabandit/), March 6, 2014
 
 **[Up one level](Engines "Engines")**
 

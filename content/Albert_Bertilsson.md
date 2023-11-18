@@ -50,9 +50,9 @@ a Swedish computer scientist, programmer and consultant/architect on the [Micros
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Albert's notes on development and performance](https://www.blogger.com/profile/07472414629222124990)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Distributed perft project](https://www.stmintz.com/ccc/index.php?id=335026) by Albert Bertilsson, [CCC](CCC "CCC"), December 09, 2003
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Distributed Perft Project](https://web.archive.org/web/20061014115710/http://www.albert.nu/programs/dperft/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Albert's notes on development and performance](https://www.blogger.com/profile/07472414629222124990)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Distributed perft project](https://www.stmintz.com/ccc/index.php?id=335026) by Albert Bertilsson, [CCC](CCC "CCC"), December 09, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Distributed Perft Project](https://web.archive.org/web/20061014115710/http://www.albert.nu/programs/dperft/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

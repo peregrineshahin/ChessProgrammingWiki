@@ -48,8 +48,8 @@ A backward pawn is worse, or even a real [Straggler](</Backward_Pawns_(Bitboards
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess painting in oil on canvas](http://www.elke-rehder.de/Chess_Paintings.htm) by [Elke Rehder](Arts#Rehder "Arts")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Doubled and Backward Pawn Engine "Definitions"](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=290991&t=29689) by [Sam Hamilton](Sam_Hamilton "Sam Hamilton"), [CCC](CCC "CCC"), September 13, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess painting in oil on canvas](http://www.elke-rehder.de/Chess_Paintings.htm) by [Elke Rehder](Arts#Rehder "Arts")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Doubled and Backward Pawn Engine "Definitions"](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=290991&t=29689) by [Sam Hamilton](Sam_Hamilton "Sam Hamilton"), [CCC](CCC "CCC"), September 13, 2009
 
 **[Up one level](Pawn_Structure "Pawn Structure")**
 

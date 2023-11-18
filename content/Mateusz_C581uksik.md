@@ -32,9 +32,9 @@ Atak had its over the board tournament debut at the [PCCC 2002](PCCC_2002 "PCCC 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mateusz Luksik | LinkedIn](https://www.linkedin.com/in/mateuszluksik)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Luksik, Mateusz FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=1114913)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Polski Związek Szachowy - oficjalna strona - 3.1. Program "Atak" Mateusza Łuksika wygrał IX Międzynarodowe Mistrzostwa Polski Programów Komputerowych (Interview with Mateusz Łuksik in Polish) as of July 2019, no longer available
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mateusz Luksik | LinkedIn](https://www.linkedin.com/in/mateuszluksik)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Luksik, Mateusz FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=1114913)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Polski Związek Szachowy - oficjalna strona - 3.1. Program "Atak" Mateusza Łuksika wygrał IX Międzynarodowe Mistrzostwa Polski Programów Komputerowych (Interview with Mateusz Łuksik in Polish) as of July 2019, no longer available
 
 **[Up one Level](People "People")**
 

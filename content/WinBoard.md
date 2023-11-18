@@ -229,13 +229,13 @@ Winboard was the first-ever and unique for a while chess [graphical user interfa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Engine Communication Protocol](http://home.hccnet.nl/h.g.muller/engine-intf.html) by [Tim Mann](Tim_Mann "Tim Mann") & [H.G. Muller](Harm_Geert_Muller "Harm Geert Muller")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [XBoard Project History](http://tim-mann.org/history.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Refreshable braille display from Wikipedia](https://en.wikipedia.org/wiki/Refreshable_braille_display)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Lyapko George's WinBoard related page](http://www.oocities.org/siliconvalley/lab/6606/winboard.htm) (outdated) by [George Lyapko](George_Lyapko "George Lyapko")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Alpha compositing from Wikipedia](https://en.wikipedia.org/wiki/Alpha_compositing)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [MinGW from Wikipedia](https://en.wikipedia.org/wiki/MinGW)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Tool to recreate PGN from winboard.debug?](http://www.talkchess.com/forum/viewtopic.php?t=46721) by [Sven Schüle](Sven_Sch%C3%BCle "Sven Schüle"), [CCC](CCC "CCC"), January 01, 2013 » [Portable Game Notation](Portable_Game_Notation "Portable Game Notation")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Engine Communication Protocol](http://home.hccnet.nl/h.g.muller/engine-intf.html) by [Tim Mann](Tim_Mann "Tim Mann") & [H.G. Muller](Harm_Geert_Muller "Harm Geert Muller")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [XBoard Project History](http://tim-mann.org/history.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Refreshable braille display from Wikipedia](https://en.wikipedia.org/wiki/Refreshable_braille_display)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Lyapko George's WinBoard related page](http://www.oocities.org/siliconvalley/lab/6606/winboard.htm) (outdated) by [George Lyapko](George_Lyapko "George Lyapko")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Alpha compositing from Wikipedia](https://en.wikipedia.org/wiki/Alpha_compositing)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [MinGW from Wikipedia](https://en.wikipedia.org/wiki/MinGW)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Tool to recreate PGN from winboard.debug?](http://www.talkchess.com/forum/viewtopic.php?t=46721) by [Sven Schüle](Sven_Sch%C3%BCle "Sven Schüle"), [CCC](CCC "CCC"), January 01, 2013 » [Portable Game Notation](Portable_Game_Notation "Portable Game Notation")
 
 **[Up one Level](GUI "GUI")**
 

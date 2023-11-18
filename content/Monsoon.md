@@ -117,10 +117,10 @@ Nxc5 36.Bxc5 Rxc5 37.Kb3 Rf5 38.h4 Re5 39.Ka3 Re3+ 40.b3 Kc6 41.g4 Re4 42.g5 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Monsoon clouds over [Lucknow](https://en.wikipedia.org/wiki/Lucknow), [Uttar Pradesh](https://en.wikipedia.org/wiki/Uttar_Pradesh), [Monsoon from Wikipedia](https://en.wikipedia.org/wiki/Monsoon)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Monsoon/Typhoon Homepage](https://wannabe.guru.org/scott/hobbies/chess/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Monsoon/Typhoon Homepage - Miscellanious](https://wannabe.guru.org/scott/hobbies/chess/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> PGN download from [CCT4](http://www.vrichey.de/cct4/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Monsoon clouds over [Lucknow](https://en.wikipedia.org/wiki/Lucknow), [Uttar Pradesh](https://en.wikipedia.org/wiki/Uttar_Pradesh), [Monsoon from Wikipedia](https://en.wikipedia.org/wiki/Monsoon)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Monsoon/Typhoon Homepage](https://wannabe.guru.org/scott/hobbies/chess/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Monsoon/Typhoon Homepage - Miscellanious](https://wannabe.guru.org/scott/hobbies/chess/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> PGN download from [CCT4](http://www.vrichey.de/cct4/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
 
 **[Up one level](Engines "Engines")**
 

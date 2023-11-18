@@ -35,9 +35,9 @@ a Taiwanese computer scientist and product developer at [Arista Networks](https:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ting-Fu Liao | LinkedIn](https://www.linkedin.com/in/ting-fu-liao-84123297)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [17th Computer Olympiad](17th_Computer_Olympiad "17th Computer Olympiad") [Photos 2013 Events: day 5 | ICGA - Prize giving: NoNoGram](https://icga.org/?page_id=849)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Ting-Fu Liao](http://dblp.uni-trier.de/pers/hd/l/Liao:Ting=Fu)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ting-Fu Liao | LinkedIn](https://www.linkedin.com/in/ting-fu-liao-84123297)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [17th Computer Olympiad](17th_Computer_Olympiad "17th Computer Olympiad") [Photos 2013 Events: day 5 | ICGA - Prize giving: NoNoGram](https://icga.org/?page_id=849)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Ting-Fu Liao](http://dblp.uni-trier.de/pers/hd/l/Liao:Ting=Fu)
 
 **[Up one level](People "People")**
 

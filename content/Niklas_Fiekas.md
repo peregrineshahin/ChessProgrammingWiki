@@ -43,11 +43,11 @@ a German chess player and aficionado, open source software developer <a id="cite
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Niklas Fiekas's Open Source Report Card](https://osrc.dfm.io/niklasf/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Niklas Fiekas | Clausthal University of Technology - Academia.edu](http://tu-clausthal.academia.edu/NiklasFiekas)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: PGN to FEN (with Evaluation)?](http://www.talkchess.com/forum/viewtopic.php?t=54779&start=4) by [Matthew Lai](Matthew_Lai "Matthew Lai"), [CCC](CCC "CCC"), December 29, 2014
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Strong NP-completeness from Wikipedia](https://en.wikipedia.org/wiki/Strong_NP-completeness)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Drupal from Wikipedia](https://en.wikipedia.org/wiki/Drupal)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Niklas Fiekas's Open Source Report Card](https://osrc.dfm.io/niklasf/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Niklas Fiekas | Clausthal University of Technology - Academia.edu](http://tu-clausthal.academia.edu/NiklasFiekas)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: PGN to FEN (with Evaluation)?](http://www.talkchess.com/forum/viewtopic.php?t=54779&start=4) by [Matthew Lai](Matthew_Lai "Matthew Lai"), [CCC](CCC "CCC"), December 29, 2014
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Strong NP-completeness from Wikipedia](https://en.wikipedia.org/wiki/Strong_NP-completeness)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Drupal from Wikipedia](https://en.wikipedia.org/wiki/Drupal)
 
 **[Up one Level](People "People")**
 

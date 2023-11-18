@@ -41,11 +41,11 @@ which - translated from C++ to [C#](C_sharp "C sharp") - was used by [David J. E
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Judd Niemann | LinkedIn](https://au.linkedin.com/in/judd-niemann-15a318114)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - jniemann66/currentProjects: List of software Projects I'm working on / Have been working on recently](https://github.com/jniemann66/currentProjects)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - jniemann66/juddperft: Chess move generation engine](https://github.com/jniemann66/juddperft)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ceres/AUTHORS.txt at main · dje-dev/Ceres · GitHub](https://github.com/dje-dev/Ceres/blob/main/AUTHORS.txt)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ceres/MGPositionPerformMove.cs at main · dje-dev/Ceres · GitHub](https://github.com/dje-dev/Ceres/blob/main/src/Ceres.Chess/MoveGen/MGPositionPerformMove.cs)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Judd Niemann | LinkedIn](https://au.linkedin.com/in/judd-niemann-15a318114)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - jniemann66/currentProjects: List of software Projects I'm working on / Have been working on recently](https://github.com/jniemann66/currentProjects)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - jniemann66/juddperft: Chess move generation engine](https://github.com/jniemann66/juddperft)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ceres/AUTHORS.txt at main · dje-dev/Ceres · GitHub](https://github.com/dje-dev/Ceres/blob/main/AUTHORS.txt)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ceres/MGPositionPerformMove.cs at main · dje-dev/Ceres · GitHub](https://github.com/dje-dev/Ceres/blob/main/src/Ceres.Chess/MoveGen/MGPositionPerformMove.cs)
 
 **[Up one Level](People "People")**
 

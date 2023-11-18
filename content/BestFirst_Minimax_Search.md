@@ -37,7 +37,7 @@ BFMMS can be divided into four strategic phases, repeated as long as there is ti
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Richard Korf](Richard_Korf "Richard Korf"), [Max Chickering](Max_Chickering "Max Chickering") (**1996**). *[Best-First Minimax Search](https://www.microsoft.com/en-us/research/publication/best-first-minimax-search/)*. [Artificial Intelligence](<https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)>), Vol. 84, No 1-2
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Richard Korf](Richard_Korf "Richard Korf"), [Max Chickering](Max_Chickering "Max Chickering") (**1996**). *[Best-First Minimax Search](https://www.microsoft.com/en-us/research/publication/best-first-minimax-search/)*. [Artificial Intelligence](<https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)>), Vol. 84, No 1-2
 
 **[Up one level](Search "Search")**
 

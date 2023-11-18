@@ -79,12 +79,12 @@ There was the solitary amateur entry, [Geoff Bulmer's](Geoffrey_Bulmer "Geoffrey
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Acorn Diagram, [Image](https://commons.wikimedia.org/wiki/File:Acorn_diagram.jpg) by [KDS4444](https://commons.wikimedia.org/wiki/User:KDS4444), July 13, 2012, [Wikimedia CommonsWikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Chess Tournament - 4th European Microcomputer Chess Championship*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [December 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [4th World Microcomputer Chess Championship - Glasgow 1984 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=64)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1984**). *Look back in dismay - Report of WMCCC 1984*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [December 1984](http://www.chesscomputeruk.com/html/publication_archive_1984.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Glasgow 1984 - Chess - Round 5 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=64&round=5&id=1)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Glasgow 1984 - Chess - Round 6 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=64&round=6&id=1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Acorn Diagram, [Image](https://commons.wikimedia.org/wiki/File:Acorn_diagram.jpg) by [KDS4444](https://commons.wikimedia.org/wiki/User:KDS4444), July 13, 2012, [Wikimedia CommonsWikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Chess Tournament - 4th European Microcomputer Chess Championship*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [December 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [4th World Microcomputer Chess Championship - Glasgow 1984 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=64)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1984**). *Look back in dismay - Report of WMCCC 1984*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [December 1984](http://www.chesscomputeruk.com/html/publication_archive_1984.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Glasgow 1984 - Chess - Round 5 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=64&round=5&id=1)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Glasgow 1984 - Chess - Round 6 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=64&round=6&id=1)
 
 **[Up one Level](Engines "Engines")**
 

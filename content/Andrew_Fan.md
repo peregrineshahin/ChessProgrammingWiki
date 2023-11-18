@@ -21,9 +21,9 @@ As computer chess programmer, Andrew is author of the chess engines [KKFChess](i
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Andrew Fan | LinkedIn](https://www.linkedin.com/in/andrew-fan-83956124/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [48th PT 2015 Leiden: List of participants](http://www.computerschaak.nl/index.php/nieuws/51-toernooien/692-48th-pt-2015-leiden-list-of-participants-2)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [FireFly's Home page including WBROG and REGO](https://web.archive.org/web/20171016195126/http://fireflychess.dyndns.pro/JQuery/FF_JQ_UI.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2017)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Andrew Fan | LinkedIn](https://www.linkedin.com/in/andrew-fan-83956124/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [48th PT 2015 Leiden: List of participants](http://www.computerschaak.nl/index.php/nieuws/51-toernooien/692-48th-pt-2015-leiden-list-of-participants-2)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [FireFly's Home page including WBROG and REGO](https://web.archive.org/web/20171016195126/http://fireflychess.dyndns.pro/JQuery/FF_JQ_UI.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2017)
 
 **[Up one level](People "People")**
 

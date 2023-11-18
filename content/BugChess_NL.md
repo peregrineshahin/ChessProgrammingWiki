@@ -110,10 +110,10 @@ The program continued to play as **QueenMaxima(C)** at ICC and was published as 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bed bug](https://en.wikipedia.org/wiki/Bed_bug) ([Cimex lectularius](https://en.wikipedia.org/wiki/Cimex_lectularius)), Source: *[Hemiptera](https://en.wikipedia.org/wiki/Hemiptera)*, [Encyclopædia Britannica](https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica) (11th ed.), [v. 13, 1911, p. 260](https://archive.org/stream/encyclopaediabrit13chisrich#page/260/mode/1up), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm") (**1998**). *Report on the 18th Dutch Open Computer-Chess Championship*. [ICCA Journal, Vol. 21, No. 4](ICGA_Journal#21_4 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICC Green List - Nov 29](https://www.stmintz.com/ccc/index.php?id=79887) by [Will Singleton](Will_Singleton "Will Singleton"), [CCC](CCC "CCC"), November 29, 1999
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [queenmaxima/uci.h at master · hof/queenmaxima · GitHub](https://github.com/hof/queenmaxima/blob/master/src/uci.h)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bed bug](https://en.wikipedia.org/wiki/Bed_bug) ([Cimex lectularius](https://en.wikipedia.org/wiki/Cimex_lectularius)), Source: *[Hemiptera](https://en.wikipedia.org/wiki/Hemiptera)*, [Encyclopædia Britannica](https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica) (11th ed.), [v. 13, 1911, p. 260](https://archive.org/stream/encyclopaediabrit13chisrich#page/260/mode/1up), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm") (**1998**). *Report on the 18th Dutch Open Computer-Chess Championship*. [ICCA Journal, Vol. 21, No. 4](ICGA_Journal#21_4 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICC Green List - Nov 29](https://www.stmintz.com/ccc/index.php?id=79887) by [Will Singleton](Will_Singleton "Will Singleton"), [CCC](CCC "CCC"), November 29, 1999
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [queenmaxima/uci.h at master · hof/queenmaxima · GitHub](https://github.com/hof/queenmaxima/blob/master/src/uci.h)
 
 **[Up one Level](Engines "Engines")**
 

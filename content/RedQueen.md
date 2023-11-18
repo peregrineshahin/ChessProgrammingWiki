@@ -194,11 +194,11 @@ Qxb7 30.Bxe8 Kxe8 31.Qxe6+ Be7 32.f5 Qd7 33.Qg8+ Bf8 34.Qg6+ Kd8 35.Qf6+ Be7
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Illustration by [John Tenniel](Category:John_Tenniel "Category:John Tenniel") of the Red Queen lecturing [Alice](Alice "Alice") for [Lewis Carroll's](Category:Lewis_Carroll "Category:Lewis Carroll") "[Through The Looking Glass](https://en.wikipedia.org/wiki/Through_the_Looking-Glass)", 1871, [Red Queen (Through the Looking-Glass) - Wikipedia](https://en.wikipedia.org/wiki/Red_Queen_%28Through_the_Looking-Glass%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [RedQueen | Chess Engine](http://redqueenchess.sourceforge.net/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [redqueen-1.1.2-windows.zip download](http://sourceforge.net/projects/redqueenchess/), magicmoves.h, magicmoves.cpp
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [redqueen-1.1.2-windows.zip download](http://sourceforge.net/projects/redqueenchess/), bitboard.h
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [2011 6ht annual ACCA games (RedQueen's games)](http://www.talkchess.com/forum/viewtopic.php?t=41067) by [Ben-Hur Carlos Langoni](Ben-Hur_Carlos_Vieira_Langoni_Junior "Ben-Hur Carlos Vieira Langoni Junior"), [CCC](CCC "CCC"), November 13, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Illustration by [John Tenniel](Category:John_Tenniel "Category:John Tenniel") of the Red Queen lecturing [Alice](Alice "Alice") for [Lewis Carroll's](Category:Lewis_Carroll "Category:Lewis Carroll") "[Through The Looking Glass](https://en.wikipedia.org/wiki/Through_the_Looking-Glass)", 1871, [Red Queen (Through the Looking-Glass) - Wikipedia](https://en.wikipedia.org/wiki/Red_Queen_%28Through_the_Looking-Glass%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [RedQueen | Chess Engine](http://redqueenchess.sourceforge.net/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [redqueen-1.1.2-windows.zip download](http://sourceforge.net/projects/redqueenchess/), magicmoves.h, magicmoves.cpp
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [redqueen-1.1.2-windows.zip download](http://sourceforge.net/projects/redqueenchess/), bitboard.h
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [2011 6ht annual ACCA games (RedQueen's games)](http://www.talkchess.com/forum/viewtopic.php?t=41067) by [Ben-Hur Carlos Langoni](Ben-Hur_Carlos_Vieira_Langoni_Junior "Ben-Hur Carlos Vieira Langoni Junior"), [CCC](CCC "CCC"), November 13, 2011
 
 **[Up one Level](Engines "Engines")**
 

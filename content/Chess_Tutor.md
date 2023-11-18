@@ -24,9 +24,9 @@ The program plays chess on 3 different levels and teaches a beginner how to move
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GIF Image](https://archive.org/download/zx_Chess_Tutor_1983_Artic_Computing_16K/zx_Chess_Tutor_1983_Artic_Computing_16K.gif) from [Chess Tutor (1983)(Artic Computing)\[16K\] : Free Download & Streaming](https://archive.org/details/zx_Chess_Tutor_1983_Artic_Computing_16K) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Tutor | The right way to learn chess](http://en.chesstutor.eu/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Shredder Computer Chess Download - Chess Tutor](http://www.shredderchess.com/chess-software/chess-tutor.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GIF Image](https://archive.org/download/zx_Chess_Tutor_1983_Artic_Computing_16K/zx_Chess_Tutor_1983_Artic_Computing_16K.gif) from [Chess Tutor (1983)(Artic Computing)\[16K\] : Free Download & Streaming](https://archive.org/details/zx_Chess_Tutor_1983_Artic_Computing_16K) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Tutor | The right way to learn chess](http://en.chesstutor.eu/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Shredder Computer Chess Download - Chess Tutor](http://www.shredderchess.com/chess-software/chess-tutor.html)
 
 **[Up one Level](Engines "Engines")**
 

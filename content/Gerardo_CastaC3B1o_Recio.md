@@ -21,9 +21,9 @@ Participants of the [SCCC 1994](SCCC_1994 "SCCC 1994") with winner Gerardo Casta
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from [group photo](WMCCC_1996#group "WMCCC 1996") by B. Sumarwoto SE, in [Tony Marsland](Tony_Marsland "Tony Marsland") (**1996**). *[Experience is a Hard Teacher](http://webdocs.cs.ualberta.ca/~tony/ICCA/hard.html)*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal"), pp. 267
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zeus' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=189)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Photo by courtesy of [Teresa Canela](Teresa_Canela "Teresa Canela"), [Josep Parés](Natalia_Par%C3%A9s "Natalia Parés"), [ICCA Journal, Vol. 18, No. 1](ICGA_Journal#18_1 "ICGA Journal"), pp. 44
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from [group photo](WMCCC_1996#group "WMCCC 1996") by B. Sumarwoto SE, in [Tony Marsland](Tony_Marsland "Tony Marsland") (**1996**). *[Experience is a Hard Teacher](http://webdocs.cs.ualberta.ca/~tony/ICCA/hard.html)*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal"), pp. 267
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zeus' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=189)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Photo by courtesy of [Teresa Canela](Teresa_Canela "Teresa Canela"), [Josep Parés](Natalia_Par%C3%A9s "Natalia Parés"), [ICCA Journal, Vol. 18, No. 1](ICGA_Journal#18_1 "ICGA Journal"), pp. 44
 
 **[Up one level](People "People")**
 

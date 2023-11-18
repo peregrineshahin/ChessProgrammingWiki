@@ -87,14 +87,14 @@ Bb6+ 43. Kf1 Kf8 44. c7 Rc8 45. a4 e4 46. Ke2 e5 47. Rg6 Bd4
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> really?
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Henry S. Baird](Mathematician#HSBaird "Mathematician"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1990**). *[Reading Chess](http://doc.cat-v.org/bell_labs/reading_chess/)*. [IEEE Transactions on Pattern Analysis and Machine Intelligence](IEEE#TPAMI "IEEE"), Vol. 12, No. 6, [pdf](http://doc.cat-v.org/bell_labs/reading_chess/reading_chess.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Unicode values for chessmen](http://www.talkchess.com/forum/viewtopic.php?t=38318) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 07, 2011
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Miscellaneous Symbols – Test for Unicode support in Web browsers](http://www.alanwood.net/unicode/miscellaneous_symbols.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [JPEG BOBBY](http://www.echecs-photos.be/BobbyFischer-photos/index10.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Robert James Fischer vs Miguel Najdorf (1970)](http://www.chessgames.com/perl/chessgame?gid=1044320) from [chessgames.com](http://www.chessgames.com/index.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [JSON from Wikipedia](https://en.wikipedia.org/wiki/JSON)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chess Artist](http://www.talkchess.com/forum/viewtopic.php?t=61723) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), October 15, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> really?
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Henry S. Baird](Mathematician#HSBaird "Mathematician"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1990**). *[Reading Chess](http://doc.cat-v.org/bell_labs/reading_chess/)*. [IEEE Transactions on Pattern Analysis and Machine Intelligence](IEEE#TPAMI "IEEE"), Vol. 12, No. 6, [pdf](http://doc.cat-v.org/bell_labs/reading_chess/reading_chess.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Unicode values for chessmen](http://www.talkchess.com/forum/viewtopic.php?t=38318) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 07, 2011
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Miscellaneous Symbols – Test for Unicode support in Web browsers](http://www.alanwood.net/unicode/miscellaneous_symbols.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [JPEG BOBBY](http://www.echecs-photos.be/BobbyFischer-photos/index10.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Robert James Fischer vs Miguel Najdorf (1970)](http://www.chessgames.com/perl/chessgame?gid=1044320) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [JSON from Wikipedia](https://en.wikipedia.org/wiki/JSON)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chess Artist](http://www.talkchess.com/forum/viewtopic.php?t=61723) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), October 15, 2016
 
 **[Up one Level](Chess_Game "Chess Game")**
 

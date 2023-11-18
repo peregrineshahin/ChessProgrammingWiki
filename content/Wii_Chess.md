@@ -39,10 +39,10 @@ Wii Chess was released on January 18, 2008 in Europe and on September 30, 2008 u
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wii Chess from Wikipedia](https://en.wikipedia.org/wiki/Wii_Chess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*. Ph.D. thesis, 2.2.2 Nintendo Wii Chess, pp. 11
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*. Ph.D. thesis, Preface
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Wii Chess from Wikipedia](https://en.wikipedia.org/wiki/Wii_Chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wii Chess from Wikipedia](https://en.wikipedia.org/wiki/Wii_Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*. Ph.D. thesis, 2.2.2 Nintendo Wii Chess, pp. 11
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*. Ph.D. thesis, Preface
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Wii Chess from Wikipedia](https://en.wikipedia.org/wiki/Wii_Chess)
 
 **[Up one level](Engines "Engines")**
 

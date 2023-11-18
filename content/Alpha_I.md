@@ -53,8 +53,8 @@ Qxg4# 0-1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), from [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz") (**1995**). *Report on the 13th World Microcomputer-Chess Championship*. [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal"), pp. 233
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Paderborn 1995 - Chess - Round 6 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=56&round=6&id=1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), from [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz") (**1995**). *Report on the 13th World Microcomputer-Chess Championship*. [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal"), pp. 233
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Paderborn 1995 - Chess - Round 6 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=56&round=6&id=1)
 
 **[Up one Level](Engines "Engines")**
 

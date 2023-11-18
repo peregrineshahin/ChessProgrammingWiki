@@ -108,13 +108,13 @@ MyChess was further ported to the [6502](6502 "6502") and compatible CPUs to run
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Commodore 64/128 Old Computer Chess Game Collection - Mychess II](http://www.spacious-mind.com/html/commodore_c64_mychess_ii.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dave Kittinger](David_Kittinger "David Kittinger") (**1984**). *MyChess - Chess Playing Program*. [The Software Toolworks](index.php?title=Software_Toolworks&action=edit&redlink=1 "Software Toolworks (page does not exist)"), [pdf](http://heathkit.garlanger.com/library/TheSoftwareToolworks/software/manuals/210_Mychess.pdf) hosted by [garlanger.com](http://garlanger.com/Welcome.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Kittinger - Interview](http://kittinger.yolasite.com/) by [Bryan Whitby](index.php?title=Bryan_Whitby&action=edit&redlink=1 "Bryan Whitby (page does not exist)")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Commodore 64/128 Old Computer Chess Game Collection - Mychess II](http://www.spacious-mind.com/html/commodore_c64_mychess_ii.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [MYCHESS for DOS (1984)](http://www.mobygames.com/game/mychess) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Commodore 64/128 Old Computer Chess Game Collection - Mychess II](http://www.spacious-mind.com/html/commodore_c64_mychess_ii.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dave Kittinger](David_Kittinger "David Kittinger") (**1984**). *MyChess - Chess Playing Program*. [The Software Toolworks](index.php?title=Software_Toolworks&action=edit&redlink=1 "Software Toolworks (page does not exist)"), [pdf](http://heathkit.garlanger.com/library/TheSoftwareToolworks/software/manuals/210_Mychess.pdf) hosted by [garlanger.com](http://garlanger.com/Welcome.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Kittinger - Interview](http://kittinger.yolasite.com/) by [Bryan Whitby](index.php?title=Bryan_Whitby&action=edit&redlink=1 "Bryan Whitby (page does not exist)")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Commodore 64/128 Old Computer Chess Game Collection - Mychess II](http://www.spacious-mind.com/html/commodore_c64_mychess_ii.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [MYCHESS for DOS (1984)](http://www.mobygames.com/game/mychess) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
 
 **[Up one level](Engines "Engines")**
 

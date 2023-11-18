@@ -297,12 +297,12 @@ Beside [material balance](Material#Balance "Material"), Spector considers variou
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Full featured double rainbow in [Wrangell-St. Elias National Park](https://en.wikipedia.org/wiki/Wrangell%E2%80%93St._Elias_National_Park_and_Preserve), [Alaska](https://en.wikipedia.org/wiki/Alaska), by [Eric Rolph](https://en.wikipedia.org/wiki/User:Ericrolph), October 2005, [Rainbow from Wikipedia](https://en.wikipedia.org/wiki/Rainbow)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [For chess program source collectors](http://www.chesscircle.net/forums/archive/index.php/t-37436.html) by [Steven Edwards](Steven_Edwards "Steven Edwards"), Chess Circle, August 13, 2006
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ACM Tournament - Specs](https://groups.google.com/d/msg/rec.games.chess/P9WW8L3gq9U/YRX_mZAjv-wJ) by Jim Bumgardner, [rgc](Computer_Chess_Forums "Computer Chess Forums"), June 28, 1994
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ACM 1994: Spector's games](https://groups.google.com/d/msg/rec.games.chess/KzylHYi4mH0/2_lsGXtxZocJ) by [Steven J. Edwards](Steven_Edwards "Steven Edwards"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), June 29, 1994
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> refers to the published 1996 version
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Courtesy [Steven Edwards](Steven_Edwards "Steven Edwards")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Full featured double rainbow in [Wrangell-St. Elias National Park](https://en.wikipedia.org/wiki/Wrangell%E2%80%93St._Elias_National_Park_and_Preserve), [Alaska](https://en.wikipedia.org/wiki/Alaska), by [Eric Rolph](https://en.wikipedia.org/wiki/User:Ericrolph), October 2005, [Rainbow from Wikipedia](https://en.wikipedia.org/wiki/Rainbow)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [For chess program source collectors](http://www.chesscircle.net/forums/archive/index.php/t-37436.html) by [Steven Edwards](Steven_Edwards "Steven Edwards"), Chess Circle, August 13, 2006
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ACM Tournament - Specs](https://groups.google.com/d/msg/rec.games.chess/P9WW8L3gq9U/YRX_mZAjv-wJ) by Jim Bumgardner, [rgc](Computer_Chess_Forums "Computer Chess Forums"), June 28, 1994
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ACM 1994: Spector's games](https://groups.google.com/d/msg/rec.games.chess/KzylHYi4mH0/2_lsGXtxZocJ) by [Steven J. Edwards](Steven_Edwards "Steven Edwards"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), June 29, 1994
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> refers to the published 1996 version
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Courtesy [Steven Edwards](Steven_Edwards "Steven Edwards")
 
 **[Up one Level](Engines "Engines")**
 

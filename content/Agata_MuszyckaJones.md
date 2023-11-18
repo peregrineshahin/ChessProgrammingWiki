@@ -22,11 +22,11 @@ She has been developing software for 8 years before joining [IBM](index.php?titl
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Agata Muszycka-Jones - LinkedIn](https://www.linkedin.com/in/agata-muszycka-jones-55194569/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Agata Muszycka (**1985**). *[Game Trees: Searching Techniques and Pathological Phenomenon](https://spectrum.library.concordia.ca/3343/)*. Masters thesis, Department of Computer Science, [Concordia University](https://en.wikipedia.org/wiki/Concordia_University), [Montreal](https://en.wikipedia.org/wiki/Montreal), [pdf](http://spectrum.library.concordia.ca/3343/1/ML23125.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1987**). *A Quantitative Analysis of Minimal Window Search.* [IJCAI-87](Conferences#IJCAI1987 "Conferences"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/ijcai87.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Agata Muszycka](https://dblp.uni-trier.de/pers/hd/m/Muszycka:Agata)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Agata Muszycka-Jones - LinkedIn](https://www.linkedin.com/in/agata-muszycka-jones-55194569/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Agata Muszycka (**1985**). *[Game Trees: Searching Techniques and Pathological Phenomenon](https://spectrum.library.concordia.ca/3343/)*. Masters thesis, Department of Computer Science, [Concordia University](https://en.wikipedia.org/wiki/Concordia_University), [Montreal](https://en.wikipedia.org/wiki/Montreal), [pdf](http://spectrum.library.concordia.ca/3343/1/ML23125.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1987**). *A Quantitative Analysis of Minimal Window Search.* [IJCAI-87](Conferences#IJCAI1987 "Conferences"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/ijcai87.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Agata Muszycka](https://dblp.uni-trier.de/pers/hd/m/Muszycka:Agata)
 
 **[Up one level](People "People")**
 

@@ -33,8 +33,8 @@ A **Skewer** (thrust, reverse [pin](Pin "Pin")) is a [X-ray](X-ray "X-ray") rela
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Piquero - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Piquero) (Spanish)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Schachkomposition](http://de.wikipedia.org/wiki/Ado_Kraemer#Schachkomposition) by [Ado Kraemer](https://en.wikipedia.org/wiki/Ado_Kraemer) and [Walther von Holzhausen](https://en.wikipedia.org/wiki/Walther_von_Holzhausen), Magdeburger Zeitung, 1930
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Piquero - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Piquero) (Spanish)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Schachkomposition](http://de.wikipedia.org/wiki/Ado_Kraemer#Schachkomposition) by [Ado Kraemer](https://en.wikipedia.org/wiki/Ado_Kraemer) and [Walther von Holzhausen](https://en.wikipedia.org/wiki/Walther_von_Holzhausen), Magdeburger Zeitung, 1930
 
 **[Up one Level](Tactics "Tactics")**
 

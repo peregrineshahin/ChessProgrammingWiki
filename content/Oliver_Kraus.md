@@ -27,9 +27,9 @@ and interests in chess programming, the idea to develop a chess program to demon
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Comp Vancouver vs. Kraus (2025) - Dortmund 1993](https://www.365chess.com/view_game.php?g=1770075) » [Mephisto Vancouver](Mephisto_Vancouver "Mephisto Vancouver")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [little\_rook\_chess · olikraus/u8glib Wiki · GitHub](https://github.com/olikraus/u8glib/wiki/little_rook_chess)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [olikraus/u8glib Wiki · GitHub](https://github.com/olikraus/u8glib/wiki)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Comp Vancouver vs. Kraus (2025) - Dortmund 1993](https://www.365chess.com/view_game.php?g=1770075) » [Mephisto Vancouver](Mephisto_Vancouver "Mephisto Vancouver")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [little\_rook\_chess · olikraus/u8glib Wiki · GitHub](https://github.com/olikraus/u8glib/wiki/little_rook_chess)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [olikraus/u8glib Wiki · GitHub](https://github.com/olikraus/u8glib/wiki)
 
 **[Up one level](People "People")**
 

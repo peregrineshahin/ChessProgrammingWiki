@@ -40,8 +40,8 @@ His research interests include [machine learning](Learning "Learning"), and comp
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Kazutomo Shibahara](https://dblp.uni-trier.de/pers/hd/s/Shibahara:Kazutomo.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Kazutomo Shibahara](https://dblp.uni-trier.de/pers/hd/s/Shibahara:Kazutomo.html)
 
 **[Up one level](People "People")**
 

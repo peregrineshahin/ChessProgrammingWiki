@@ -47,17 +47,17 @@ a Dutch computer scientist at [ASTRON](https://en.wikipedia.org/wiki/ASTRON), th
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> John Romein (**2001**). *Multigame - An Environment for Distributed Game-Tree Search*. Ph.D. thesis, [Vrije Universiteit](https://en.wikipedia.org/wiki/Vrije_Universiteit), supervisor [Henri Bal](Henri_Bal "Henri Bal"), [pdf](http://dare.ubvu.vu.nl/bitstream/1871/11305/1/5429.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> John Romein, [Henri Bal](Henri_Bal "Henri Bal") (**2002**). *[Awari is Solved](http://ticc.uvt.nl/icga/journal/contents/content25-3.htm#AWARI%20IS%20SOLVED)*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Awari Oracle - Mancala World - Wikia](http://mancala.wikia.com/wiki/Awari_Oracle)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: John W. Romein](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Romein:John_W=.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [John W. Romein](http://www.astron.nl/~romein/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: scorpio can run on 8192 cores](http://www.talkchess.com/forum/viewtopic.php?t=57343&start=5) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), August 29, 2015
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Transposition-driven scheduling - Wikipedia](https://en.wikipedia.org/wiki/Transposition-driven_scheduling)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2001**). *Multigame - an Environment for Distributed Game Tree Research*. [ICCA Journal, Vol. 24, No. 1](ICGA_Journal#24_1 "ICGA Journal") (Review)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Jeroen Donkers](Jeroen_Donkers "Jeroen Donkers") (**2002**). *[Comments on the Awari Solution](http://ticc.uvt.nl/icga/journal/contents/content25-3.htm#COMMENTS%20ON%20THE%20AWARI%20SOLUTION)*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> John Romein (**2001**). *Multigame - An Environment for Distributed Game-Tree Search*. Ph.D. thesis, [Vrije Universiteit](https://en.wikipedia.org/wiki/Vrije_Universiteit), supervisor [Henri Bal](Henri_Bal "Henri Bal"), [pdf](http://dare.ubvu.vu.nl/bitstream/1871/11305/1/5429.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> John Romein, [Henri Bal](Henri_Bal "Henri Bal") (**2002**). *[Awari is Solved](http://ticc.uvt.nl/icga/journal/contents/content25-3.htm#AWARI%20IS%20SOLVED)*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Awari Oracle - Mancala World - Wikia](http://mancala.wikia.com/wiki/Awari_Oracle)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: John W. Romein](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Romein:John_W=.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [John W. Romein](http://www.astron.nl/~romein/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: scorpio can run on 8192 cores](http://www.talkchess.com/forum/viewtopic.php?t=57343&start=5) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), August 29, 2015
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Transposition-driven scheduling - Wikipedia](https://en.wikipedia.org/wiki/Transposition-driven_scheduling)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2001**). *Multigame - an Environment for Distributed Game Tree Research*. [ICCA Journal, Vol. 24, No. 1](ICGA_Journal#24_1 "ICGA Journal") (Review)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Jeroen Donkers](Jeroen_Donkers "Jeroen Donkers") (**2002**). *[Comments on the Awari Solution](http://ticc.uvt.nl/icga/journal/contents/content25-3.htm#COMMENTS%20ON%20THE%20AWARI%20SOLUTION)*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013
 
 **[Up one Level](People "People")**
 

@@ -19,8 +19,8 @@ an American computer scientist and along with [Mike Alexander](Mike_Alexander "M
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chaos' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=42)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Eleventh ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cdeeb) as [pdf reprint](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1980_11th_ACM_NACCC/The_Eleventh_ACMs_North_American_Computer_Chess_Championship.1980.062303015.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chaos' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=42)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Eleventh ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cdeeb) as [pdf reprint](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1980_11th_ACM_NACCC/The_Eleventh_ACMs_North_American_Computer_Chess_Championship.1980.062303015.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](People "People")**
 

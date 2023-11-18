@@ -45,7 +45,7 @@ FinalGen [GUI](GUI "GUI") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [FinalGen chess endgame tablebase generator](http://finalgenchess.ovh/home_ing.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [FinalGen chess endgame tablebase generator](http://finalgenchess.ovh/home_ing.php)
 
 **[Up one level](Endgame_Tablebases "Endgame Tablebases")**
 

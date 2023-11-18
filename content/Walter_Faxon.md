@@ -155,10 +155,10 @@ My suggestion: you are writing a chess program. Go ahead, put in [negascout](Neg
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess](https://www.nytimes.com/1970/06/07/archives/chess-brookline-wins-high-school-event.html) by [Al Horowitz](https://en.wikipedia.org/wiki/Israel_Albert_Horowitz), [The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), June 7, 1970
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Another hacky method for bitboard bit extraction](https://www.stmintz.com/ccc/index.php?id=265635) by Walter Faxon, [CCC](CCC "CCC"), November 17, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Markoff - Botvinnik - Kaissa - Hsu - ABC - Berliner](https://www.stmintz.com/ccc/index.php?id=299987) by Walter Faxon, [CCC](CCC "CCC"), June 09, 2003
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [No Go (was Re: Markoff -- Botvinnik -- Kaissa -- Hsu -- ABC -- Berliner)](https://www.stmintz.com/ccc/index.php?id=300412) by Walter Faxon, [CCC](CCC "CCC"), June 11, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess](https://www.nytimes.com/1970/06/07/archives/chess-brookline-wins-high-school-event.html) by [Al Horowitz](https://en.wikipedia.org/wiki/Israel_Albert_Horowitz), [The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), June 7, 1970
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Another hacky method for bitboard bit extraction](https://www.stmintz.com/ccc/index.php?id=265635) by Walter Faxon, [CCC](CCC "CCC"), November 17, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Markoff - Botvinnik - Kaissa - Hsu - ABC - Berliner](https://www.stmintz.com/ccc/index.php?id=299987) by Walter Faxon, [CCC](CCC "CCC"), June 09, 2003
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [No Go (was Re: Markoff -- Botvinnik -- Kaissa -- Hsu -- ABC -- Berliner)](https://www.stmintz.com/ccc/index.php?id=300412) by Walter Faxon, [CCC](CCC "CCC"), June 11, 2003
 
 **[Up one level](People "People")**
 

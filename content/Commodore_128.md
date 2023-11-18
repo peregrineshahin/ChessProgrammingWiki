@@ -37,9 +37,9 @@ an 8-bit [home computer](https://en.wikipedia.org/wiki/Home_computer) released b
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The Commodore 128, Image by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos), December 27, 2011, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Commodore 128 from Wikipedia](https://en.wikipedia.org/wiki/Commodore_128)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Commodore 128 from Wikipedia](https://en.wikipedia.org/wiki/Commodore_128)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Screen Capture from [Amsterdam 1985 Video](WMCCC_1985#Video "WMCCC 1985"), 0:37
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The Commodore 128, Image by [Evan-Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos), December 27, 2011, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Commodore 128 from Wikipedia](https://en.wikipedia.org/wiki/Commodore_128)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Commodore 128 from Wikipedia](https://en.wikipedia.org/wiki/Commodore_128)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Screen Capture from [Amsterdam 1985 Video](WMCCC_1985#Video "WMCCC 1985"), 0:37
 
 **[Up one Level](Hardware "Hardware")**
 

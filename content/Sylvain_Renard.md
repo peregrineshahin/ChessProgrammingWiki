@@ -31,10 +31,10 @@ a French chess official and arbiter of the [French Chess Federation](https://en.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> clipped from [FCCC 2002](FCCC_2002 "FCCC 2002") group photo by [Ernest Bonnem](index.php?title=Ernest_Bonnem&action=edit&redlink=1 "Ernest Bonnem (page does not exist)"), [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3) (no longer available)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WMCCC pairings round 5 not in accordance with swiss system rules!](https://www.stmintz.com/ccc/index.php?id=125701) by Sylvain Renard, [CCC](CCC "CCC"), August 22, 2000  » [WMCCC 2000](WMCCC_2000 "WMCCC 2000")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fédération Française des Échecs](http://echecs.asso.fr/FicheClub.aspx?Ref=640)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [AEGON 1997 breakdown of opponents from their webpage](https://groups.google.com/d/msg/rec.games.chess.computer/7fcqu7_2Rr4/WR5IijMqDF0J) by Lonnie, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 11, 1997 » [Aegon 1997](Aegon_1997 "Aegon 1997")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> clipped from [FCCC 2002](FCCC_2002 "FCCC 2002") group photo by [Ernest Bonnem](index.php?title=Ernest_Bonnem&action=edit&redlink=1 "Ernest Bonnem (page does not exist)"), [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3) (no longer available)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WMCCC pairings round 5 not in accordance with swiss system rules!](https://www.stmintz.com/ccc/index.php?id=125701) by Sylvain Renard, [CCC](CCC "CCC"), August 22, 2000  » [WMCCC 2000](WMCCC_2000 "WMCCC 2000")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fédération Française des Échecs](http://echecs.asso.fr/FicheClub.aspx?Ref=640)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [AEGON 1997 breakdown of opponents from their webpage](https://groups.google.com/d/msg/rec.games.chess.computer/7fcqu7_2Rr4/WR5IijMqDF0J) by Lonnie, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 11, 1997 » [Aegon 1997](Aegon_1997 "Aegon 1997")
 
 **[Up one level](People "People")**
 

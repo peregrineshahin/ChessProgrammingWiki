@@ -98,12 +98,12 @@ c4 53.Rxc4 Rxc4 54.bxc4 b3 55.axb3 a2 56.Ra5 a1=Q 57.Rxa1 Bxa1 58.c5 Kg8 59.Kf4 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Neurosis 2.5, readme.txt
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: movei hash report](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=137519&t=15688) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), August 13, 2007
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Neurosis 2.5 , Programmer's Tournament version](http://www.talkchess.com/forum/viewtopic.php?t=26580) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), February 16, 2009
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Neurosis 1.9.](https://www.stmintz.com/ccc/index.php?id=433604) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), June 26, 2005
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [25th Dutch Open Computer Chess Championship 2005 - Photo Gallery](http://old.csvn.nl/gallery23.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Neurosis's Dutch open, and new release](https://www.stmintz.com/ccc/index.php?id=393228) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), October 25, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Neurosis 2.5, readme.txt
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: movei hash report](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=137519&t=15688) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), August 13, 2007
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Neurosis 2.5 , Programmer's Tournament version](http://www.talkchess.com/forum/viewtopic.php?t=26580) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), February 16, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Neurosis 1.9.](https://www.stmintz.com/ccc/index.php?id=433604) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), June 26, 2005
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [25th Dutch Open Computer Chess Championship 2005 - Photo Gallery](http://old.csvn.nl/gallery23.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Neurosis's Dutch open, and new release](https://www.stmintz.com/ccc/index.php?id=393228) by [Stan Arts](Stan_Arts "Stan Arts"), [CCC](CCC "CCC"), October 25, 2004
 
 **[Up one Level](Engines "Engines")**
 

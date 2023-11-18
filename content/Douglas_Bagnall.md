@@ -25,10 +25,10 @@ Recently, he worked on [author identification](https://en.wikipedia.org/wiki/Aut
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> clipped from [Douglas Bagnall + Nicole Lim | Flickr - Fotosharing!](https://www.flickr.com/photos/colourmefiji/5494957241/), taken on March 03, 2011 by Erin Stewart and Nicole Lim
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ONE DAY SCULPTURE: Douglas Bagnall](https://web.archive.org/web/20150113113906/http://www.onedaysculpture.org.nz/ODS_artists_dbagnall.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Author prediction win for Douglas](https://www.dragonfly.co.nz/news/2015-09-28-douglas-bagnall-author-attribution.html), September 28, 2015
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Douglas Bagnall | dblp](https://dblp.org/pid/164/5557.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> clipped from [Douglas Bagnall + Nicole Lim | Flickr - Fotosharing!](https://www.flickr.com/photos/colourmefiji/5494957241/), taken on March 03, 2011 by Erin Stewart and Nicole Lim
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ONE DAY SCULPTURE: Douglas Bagnall](https://web.archive.org/web/20150113113906/http://www.onedaysculpture.org.nz/ODS_artists_dbagnall.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Author prediction win for Douglas](https://www.dragonfly.co.nz/news/2015-09-28-douglas-bagnall-author-attribution.html), September 28, 2015
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Douglas Bagnall | dblp](https://dblp.org/pid/164/5557.html)
 
 **[Up one level](People "People")**
 

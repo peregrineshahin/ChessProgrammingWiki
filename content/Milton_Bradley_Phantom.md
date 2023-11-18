@@ -78,11 +78,11 @@ Still in the 80's, [Fidelity Electronics](Fidelity_Electronics "Fidelity Electro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Flickr - Fotosharing | Robots](https://www.flickr.com/photos/10261668@N05/sets/72157600922174592/with/858173751/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Milton Bradley - Milton](https://www.schach-computer.info/wiki/index.php?title=Milton_Bradley_-_Milton) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Milton Bradley Phantom](http://www.chesscomputeruk.com/html/milton_bradley_phantom.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ismenio's chess computer collection - MB Phantom Chess Computer](http://www.ismenio.com/chess_mb_phantom.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Fidelity Phantom](http://www.schach-computer.info/wiki/index.php/Fidelity_Phantom) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Flickr - Fotosharing | Robots](https://www.flickr.com/photos/10261668@N05/sets/72157600922174592/with/858173751/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Milton Bradley - Milton](https://www.schach-computer.info/wiki/index.php?title=Milton_Bradley_-_Milton) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Milton Bradley Phantom](http://www.chesscomputeruk.com/html/milton_bradley_phantom.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ismenio's chess computer collection - MB Phantom Chess Computer](http://www.ismenio.com/chess_mb_phantom.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fidelity Phantom](http://www.schach-computer.info/wiki/index.php/Fidelity_Phantom) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
 
 **[Up one level](Engines "Engines")**
 

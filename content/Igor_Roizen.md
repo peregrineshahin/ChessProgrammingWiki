@@ -37,10 +37,10 @@ an American computer scientist in the [online shopping](https://en.wikipedia.org
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Executive Team | Feedonomics](https://feedonomics.com/executive-team/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Claude G. Diderich](Claude_G._Diderich "Claude G. Diderich") (**1993**). *[A Bibliography on Minimax Trees](http://portal.acm.org/citation.cfm?id=165007)*. [ACM SIGACT News](ACM#SIG "ACM"), Vol. 24, No. 4
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Igor Roizen](https://dblp.uni-trier.de/pers/hd/r/Roizen:Igor)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [5 Questions For: Feedonomics Founders Brian & Robert Roizen - LA West Media](https://lawestmedia.com/lawest/feedonomics-brian-robert-roizen/), July 30, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Executive Team | Feedonomics](https://feedonomics.com/executive-team/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Claude G. Diderich](Claude_G._Diderich "Claude G. Diderich") (**1993**). *[A Bibliography on Minimax Trees](http://portal.acm.org/citation.cfm?id=165007)*. [ACM SIGACT News](ACM#SIG "ACM"), Vol. 24, No. 4
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Igor Roizen](https://dblp.uni-trier.de/pers/hd/r/Roizen:Igor)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [5 Questions For: Feedonomics Founders Brian & Robert Roizen - LA West Media](https://lawestmedia.com/lawest/feedonomics-brian-robert-roizen/), July 30, 2018
 
 **[Up one level](People "People")**
 

@@ -29,10 +29,10 @@ a Japanese computer scientist, [Shogi](Shogi "Shogi") programmer, and research a
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Daisaku Yokoyama - Japan](http://jp.linkedin.com/pub/daisaku-yokoyama/8/886/525), [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Levy](David_Levy "David Levy") (**2002**). *[SOME COMMENTS ON REALIZATION PROBABILITIES AND THE SEX ALGORITHM](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm#SOME%20COMMENTS%20ON%20REALIZATION%20PROBABILITIES)*.[ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The 17th International Conference on Algorithmic Learning Theory](http://www-alg.ist.hokudai.ac.jp/~thomas/ALT06/progfin.pdf) (pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Daisaku Yokoyama - Japan](http://jp.linkedin.com/pub/daisaku-yokoyama/8/886/525), [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Levy](David_Levy "David Levy") (**2002**). *[SOME COMMENTS ON REALIZATION PROBABILITIES AND THE SEX ALGORITHM](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm#SOME%20COMMENTS%20ON%20REALIZATION%20PROBABILITIES)*.[ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The 17th International Conference on Algorithmic Learning Theory](http://www-alg.ist.hokudai.ac.jp/~thomas/ALT06/progfin.pdf) (pdf)
 
 **[Up one level](People "People")**
 

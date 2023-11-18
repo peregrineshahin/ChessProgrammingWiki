@@ -34,14 +34,14 @@ Stefan Zipproth further wrote technical articles about computer chess programmin
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stefan Zipproth | LinkedIn](https://www.linkedin.com/in/stefan-zipproth-38b922138/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Impressum](https://zipproth.de/legal/) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess opening library Cerebellum and Brainfish Chess Engine home page](https://zipproth.com/Brainfish/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Stefan Zipproth (**2000**). *Neuere Verfahren zur Wavelet-basierten Bildkompression mit Kantendetektion*. [Diplom thesis](http://www5.in.tum.de/persons/bungartz/teach_muc1), [Technical University of Munich](Technical_University_of_Munich "Technical University of Munich"), advisor [Hans-Joachim Bungartz](Mathematician#HJBungartz "Mathematician") (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess engines... Aristarch, List](https://zipproth.com/chess/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Stefan Zipproth (**2003**). *Suchet, so werdet ihr finden*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele"), 3/2003, [pdf](https://computerschach.de/Files/2000/Suchet,%20so%20werdet%20ihr%20finden.pdf) (German)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Stefan Zipproth (**2004**). *UNIX, C und lange Pipelines*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele"), 3/2004 (German)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Zipproth Software - Veröffentlichungen](http://zipproth.com/veroffentlichungen.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stefan Zipproth | LinkedIn](https://www.linkedin.com/in/stefan-zipproth-38b922138/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Impressum](https://zipproth.de/legal/) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess opening library Cerebellum and Brainfish Chess Engine home page](https://zipproth.com/Brainfish/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Stefan Zipproth (**2000**). *Neuere Verfahren zur Wavelet-basierten Bildkompression mit Kantendetektion*. [Diplom thesis](http://www5.in.tum.de/persons/bungartz/teach_muc1), [Technical University of Munich](Technical_University_of_Munich "Technical University of Munich"), advisor [Hans-Joachim Bungartz](Mathematician#HJBungartz "Mathematician") (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess engines... Aristarch, List](https://zipproth.com/chess/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Stefan Zipproth (**2003**). *Suchet, so werdet ihr finden*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele"), 3/2003, [pdf](https://computerschach.de/Files/2000/Suchet,%20so%20werdet%20ihr%20finden.pdf) (German)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Stefan Zipproth (**2004**). *UNIX, C und lange Pipelines*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele"), 3/2004 (German)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Zipproth Software - Veröffentlichungen](http://zipproth.com/veroffentlichungen.html)
 
 **[Up one level](People "People")**
 

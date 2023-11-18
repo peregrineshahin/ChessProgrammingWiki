@@ -32,8 +32,8 @@ a Japanese computer scientist affiliated with the Graduate School of Engineering
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Naoki Mizukami, [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka") (**2015**). *Building a Computer Mahjong Player Based on Monte Carlo Simulation and Opponent Models*. [IEEE CIG 2015](IEEE#TOCIAIGAMES "IEEE"), [pdf](http://www.logos.ic.i.u-tokyo.ac.jp/~mizukami/paper/cig_2015.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Publications](http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/publications.htm) of [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Naoki Mizukami, [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka") (**2015**). *Building a Computer Mahjong Player Based on Monte Carlo Simulation and Opponent Models*. [IEEE CIG 2015](IEEE#TOCIAIGAMES "IEEE"), [pdf](http://www.logos.ic.i.u-tokyo.ac.jp/~mizukami/paper/cig_2015.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Publications](http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/publications.htm) of [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka")
 
 **[Up one level](People "People")**
 

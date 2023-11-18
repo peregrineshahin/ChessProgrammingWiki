@@ -32,9 +32,9 @@ Shane is further author of the chess engine [Scidlet](index.php?title=Scidlet&ac
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: A word in praise of Scid v1.0](https://www.stmintz.com/ccc/index.php?id=87785) by [Peter McKenzie](Peter_McKenzie "Peter McKenzie"), [CCC](CCC "CCC"), January 11, 2000
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Scid / Wiki / ShaneHudson](https://sourceforge.net/p/scid/wiki/ShaneHudson/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Ian H. Witten](Ian_H._Witten "Ian H. Witten") et al. (**1999**). *[A New Zealand digital library for computer science research](https://www.researchgate.net/publication/2827763_A_New_Zealand_digital_library_for_computer_science_research)*. [University of Waikato](https://en.wikipedia.org/wiki/University_of_Waikato)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: A word in praise of Scid v1.0](https://www.stmintz.com/ccc/index.php?id=87785) by [Peter McKenzie](Peter_McKenzie "Peter McKenzie"), [CCC](CCC "CCC"), January 11, 2000
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Scid / Wiki / ShaneHudson](https://sourceforge.net/p/scid/wiki/ShaneHudson/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Ian H. Witten](Ian_H._Witten "Ian H. Witten") et al. (**1999**). *[A New Zealand digital library for computer science research](https://www.researchgate.net/publication/2827763_A_New_Zealand_digital_library_for_computer_science_research)*. [University of Waikato](https://en.wikipedia.org/wiki/University_of_Waikato)
 
 **[Up one level](People "People")**
 

@@ -220,16 +220,16 @@ Those pros and cons compared with [UCI](UCI "UCI")
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [XBoard Project History](http://tim-mann.org/history.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Winboard/XBoard UML state diagram](http://walkofmind.com/programming/chess/xboard.htm) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Winboard state machine diagram](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70502) by [Harald Lüßen](Harald_L%C3%BC%C3%9Fen "Harald Lüßen"), [CCC](CCC "CCC"), April 15, 2019
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Engine Communication Protocol](http://home.hccnet.nl/h.g.muller/engine-intf.html) by [Tim Mann](Tim_Mann "Tim Mann") & [H.G. Muller](Harm_Geert_Muller "Harm Geert Muller")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CECP ('WB protocol') specs](http://www.talkchess.com/forum/viewtopic.php?t=58714) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), December 28, 2015
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [WB protocol specs](http://www.talkchess.com/forum/viewtopic.php?t=54629) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), December 12, 2014
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Remote Shell from Wikipedia](https://en.wikipedia.org/wiki/Remote_Shell)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Windows Implementation of RSHD](http://rshd.sourceforge.net/)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Tool to recreate PGN from winboard.debug?](http://www.talkchess.com/forum/viewtopic.php?t=46721) by [Sven Schüle](Sven_Sch%C3%BCle "Sven Schüle"), [CCC](CCC "CCC"), January 01, 2013
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [3 interviews about engine protocols with T. Mann, R. Hyatt and M. Blume](https://www.stmintz.com/ccc/index.php?id=245615) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 15, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [XBoard Project History](http://tim-mann.org/history.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Winboard/XBoard UML state diagram](http://walkofmind.com/programming/chess/xboard.htm) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Winboard state machine diagram](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70502) by [Harald Lüßen](Harald_L%C3%BC%C3%9Fen "Harald Lüßen"), [CCC](CCC "CCC"), April 15, 2019
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Engine Communication Protocol](http://home.hccnet.nl/h.g.muller/engine-intf.html) by [Tim Mann](Tim_Mann "Tim Mann") & [H.G. Muller](Harm_Geert_Muller "Harm Geert Muller")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CECP ('WB protocol') specs](http://www.talkchess.com/forum/viewtopic.php?t=58714) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), December 28, 2015
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [WB protocol specs](http://www.talkchess.com/forum/viewtopic.php?t=54629) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), December 12, 2014
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Remote Shell from Wikipedia](https://en.wikipedia.org/wiki/Remote_Shell)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Windows Implementation of RSHD](http://rshd.sourceforge.net/)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Tool to recreate PGN from winboard.debug?](http://www.talkchess.com/forum/viewtopic.php?t=46721) by [Sven Schüle](Sven_Sch%C3%BCle "Sven Schüle"), [CCC](CCC "CCC"), January 01, 2013
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [3 interviews about engine protocols with T. Mann, R. Hyatt and M. Blume](https://www.stmintz.com/ccc/index.php?id=245615) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 15, 2002
 
 **[Up one Level](Protocols "Protocols")**
 

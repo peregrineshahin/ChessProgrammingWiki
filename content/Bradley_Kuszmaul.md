@@ -33,12 +33,12 @@ an American computer scientist and programmer at in the Supercomputing Technolog
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bradley C. Kuszmaul Homepage](http://people.csail.mit.edu/bradley/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Cilk Project](http://supertech.csail.mit.edu/cilk/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Bradley C. Kuszmaul (**1994**). *Synchronized MIMD Computing*. Ph. D. thesis, Department of Electrical Engineering and Computer Science, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [8th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cd6ed) available as [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1995_WCCC/1995%20WCCC.062303014.sm.pdf) Courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Bradley C. Kuszmaul](https://dblp.uni-trier.de/pers/hd/k/Kuszmaul:Bradley_C=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bradley C. Kuszmaul Homepage](http://people.csail.mit.edu/bradley/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Cilk Project](http://supertech.csail.mit.edu/cilk/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Bradley C. Kuszmaul (**1994**). *Synchronized MIMD Computing*. Ph. D. thesis, Department of Electrical Engineering and Computer Science, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [8th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cd6ed) available as [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1995_WCCC/1995%20WCCC.062303014.sm.pdf) Courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Bradley C. Kuszmaul](https://dblp.uni-trier.de/pers/hd/k/Kuszmaul:Bradley_C=)
 
 **[Up one level](People "People")**
 

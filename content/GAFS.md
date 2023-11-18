@@ -27,8 +27,8 @@ with two entry points, initialization and probing <a id="cite-note-2" href="#cit
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: tbgen compiled!](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=552&p=5602#p5602) by [Guido Antonelli](index.php?title=Guido_Antonelli&action=edit&redlink=1 "Guido Antonelli (page does not exist)"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), June 21, 2006
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [gafslib1.11.eng](http://users.libero.it/rigel_g/gafslib1.11.eng)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: tbgen compiled!](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=552&p=5602#p5602) by [Guido Antonelli](index.php?title=Guido_Antonelli&action=edit&redlink=1 "Guido Antonelli (page does not exist)"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), June 21, 2006
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [gafslib1.11.eng](http://users.libero.it/rigel_g/gafslib1.11.eng)
 
 **[Up one level](Endgame_Tablebases "Endgame Tablebases")**
 

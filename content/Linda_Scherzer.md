@@ -34,12 +34,12 @@ an American computer scientist, entrepreneur, along with [Tony Scherzer](Tony_Sc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Peggy Watt](http://www.linkedin.com/in/pwatt) (**1984**). *Mainframes checkmate Micros*. [InfoWorld](https://en.wikipedia.org/wiki/InfoWorld), November 5, 1984, pp. 18, [google books](http://books.google.com/books?id=oC4EAAAAMBAJ&pg=PA49&dq=InfoWorld,+November+5,+1984&client=firefox-a&cd=4#v=onepage&q=InfoWorld%2C%20November%205%2C%201984&f=false)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Peggy Watt](http://www.linkedin.com/in/pwatt) (**1984**). *Mainframes checkmate Micros*. [InfoWorld](https://en.wikipedia.org/wiki/InfoWorld), November 5, 1984, pp. 18, [google books](http://books.google.com/books?id=oC4EAAAAMBAJ&pg=PA49&dq=InfoWorld,+November+5,+1984&client=firefox-a&cd=4#v=onepage&q=InfoWorld%2C%20November%205%2C%201984&f=false)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [IGI Individual Record - Anthony Scherzer](http://www.familysearch.org/Eng/Search/IGI/individual_record.asp?recid=100000058897&lds=1&region=11&regionfriendly=North+America&frompage=99)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Welcome to SYS-10, Inc.](http://www.sys-10.com/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Linda Scherzer (Shinouskis) - LinkedIn](http://www.linkedin.com/in/lindascherzer)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Peggy Watt](http://www.linkedin.com/in/pwatt) (**1984**). *Mainframes checkmate Micros*. [InfoWorld](https://en.wikipedia.org/wiki/InfoWorld), November 5, 1984, pp. 18, [google books](http://books.google.com/books?id=oC4EAAAAMBAJ&pg=PA49&dq=InfoWorld,+November+5,+1984&client=firefox-a&cd=4#v=onepage&q=InfoWorld%2C%20November%205%2C%201984&f=false)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Peggy Watt](http://www.linkedin.com/in/pwatt) (**1984**). *Mainframes checkmate Micros*. [InfoWorld](https://en.wikipedia.org/wiki/InfoWorld), November 5, 1984, pp. 18, [google books](http://books.google.com/books?id=oC4EAAAAMBAJ&pg=PA49&dq=InfoWorld,+November+5,+1984&client=firefox-a&cd=4#v=onepage&q=InfoWorld%2C%20November%205%2C%201984&f=false)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [IGI Individual Record - Anthony Scherzer](http://www.familysearch.org/Eng/Search/IGI/individual_record.asp?recid=100000058897&lds=1&region=11&regionfriendly=North+America&frompage=99)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Welcome to SYS-10, Inc.](http://www.sys-10.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Linda Scherzer (Shinouskis) - LinkedIn](http://www.linkedin.com/in/lindascherzer)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

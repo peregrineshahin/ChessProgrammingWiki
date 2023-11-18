@@ -48,8 +48,8 @@ The **Heinz Nixdorf MuseumsForum** (HNF) in [Paderborn](https://en.wikipedia.org
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paderborner Schachtuerken-Cup](http://www.schachtuerken-cup.de/) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> The world's three leading computer museums - [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") in [Mountain View](https://en.wikipedia.org/wiki/Mountain_View,_California), [California](https://en.wikipedia.org/wiki/California), the [National Museum of Computing](https://en.wikipedia.org/wiki/The_National_Museum_of_Computing) in [Bletchley Park](https://en.wikipedia.org/wiki/Bletchley_Park), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom), and the Heinz Nixdorf MuseumsForum - have joined forces to mark the 100th birthday of [Alan Turing](Alan_Turing "Alan Turing") by producing their own webcasts on Turing topics and posting them online
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paderborner Schachtuerken-Cup](http://www.schachtuerken-cup.de/) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> The world's three leading computer museums - [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") in [Mountain View](https://en.wikipedia.org/wiki/Mountain_View,_California), [California](https://en.wikipedia.org/wiki/California), the [National Museum of Computing](https://en.wikipedia.org/wiki/The_National_Museum_of_Computing) in [Bletchley Park](https://en.wikipedia.org/wiki/Bletchley_Park), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom), and the Heinz Nixdorf MuseumsForum - have joined forces to mark the 100th birthday of [Alan Turing](Alan_Turing "Alan Turing") by producing their own webcasts on Turing topics and posting them online
 
 **[Up one Level](Organizations "Organizations")**
 

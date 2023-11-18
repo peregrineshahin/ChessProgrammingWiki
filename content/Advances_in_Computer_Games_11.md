@@ -60,11 +60,11 @@ The **11th Advances in Computer Games** was held from September 6 - 8, [2005](Ti
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Institute of Information Science, [Academia Sinica](https://en.wikipedia.org/wiki/Academia_Sinica), [Taipei](https://en.wikipedia.org/wiki/Taipei), [Image](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/img/2005_09_12/slides/IMG_0691.html) from [CO 10 and ACG 11](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/e1.htm), Pictures 09/12/2005
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA CO 10 and ACG 11](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/e1.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Advances in Computer Games 11](http://ilk.uvt.nl/icga/organisation/books/acg11.php), [Books at sale at ICGA](http://ilk.uvt.nl/icga/organisation/books/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Advances in Computer Games - Springer](https://link.springer.com/book/10.1007%2F11922155)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CO 10 and ACG11 - Invited Lectures](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/andrea09-2.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Institute of Information Science, [Academia Sinica](https://en.wikipedia.org/wiki/Academia_Sinica), [Taipei](https://en.wikipedia.org/wiki/Taipei), [Image](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/img/2005_09_12/slides/IMG_0691.html) from [CO 10 and ACG 11](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/e1.htm), Pictures 09/12/2005
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA CO 10 and ACG 11](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/e1.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Advances in Computer Games 11](http://ilk.uvt.nl/icga/organisation/books/acg11.php), [Books at sale at ICGA](http://ilk.uvt.nl/icga/organisation/books/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Advances in Computer Games - Springer](https://link.springer.com/book/10.1007%2F11922155)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CO 10 and ACG11 - Invited Lectures](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/andrea09-2.htm)
 
 **[Up one Level](Conferences "Conferences")**
 

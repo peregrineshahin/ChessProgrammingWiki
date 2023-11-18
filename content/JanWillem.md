@@ -89,9 +89,9 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image of [Jan Willem te Kolsté](https://en.wikipedia.org/wiki/Jan_Willem_te_Kolst%C3%A9) from [11 сентября родились... . Обсуждение на LiveInternet - Российский Сервис Онлайн-Дневников](https://www.liveinternet.ru/users/kakula/post371543541/) (Russian Online Diaries Service - Born on September 11)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [JanWillem](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=752) by [Laurens Winkelhagen](Laurens_Winkelhagen "Laurens Winkelhagen"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 26, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: JanWillem](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=752&start=1) by [Laurens Winkelhagen](Laurens_Winkelhagen "Laurens Winkelhagen"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), Dececmber 04, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image of [Jan Willem te Kolsté](https://en.wikipedia.org/wiki/Jan_Willem_te_Kolst%C3%A9) from [11 сентября родились... . Обсуждение на LiveInternet - Российский Сервис Онлайн-Дневников](https://www.liveinternet.ru/users/kakula/post371543541/) (Russian Online Diaries Service - Born on September 11)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [JanWillem](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=752) by [Laurens Winkelhagen](Laurens_Winkelhagen "Laurens Winkelhagen"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 26, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: JanWillem](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=752&start=1) by [Laurens Winkelhagen](Laurens_Winkelhagen "Laurens Winkelhagen"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), Dececmber 04, 2004
 
 **[Up one level](Engines "Engines")**
 

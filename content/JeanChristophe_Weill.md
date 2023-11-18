@@ -48,12 +48,12 @@ a French computer scientist and computer chess and games programmer. He introduc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jean-Christophe Weill's homepage](http://www.recherche.enac.fr/%7Eweill/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A Short Story of JCW's Computer Chess Program](http://www.recherche.enac.fr/~weill/chess.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jean-Christophe Weill's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=27)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Jean-Christophe Weill, Selected publications](http://www.recherche.enac.fr/~weill/publications.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Index of /~weill/publications](http://www.recherche.enac.fr/%7Eweill/publications/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jean-Christophe Weill's homepage](http://www.recherche.enac.fr/%7Eweill/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A Short Story of JCW's Computer Chess Program](http://www.recherche.enac.fr/~weill/chess.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jean-Christophe Weill's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=27)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jean-Christophe Weill, Selected publications](http://www.recherche.enac.fr/~weill/publications.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Index of /~weill/publications](http://www.recherche.enac.fr/%7Eweill/publications/)
 
 **[Up one level](People "People")**
 

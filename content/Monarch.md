@@ -44,9 +44,9 @@ Monarch's board is internally [represented](Board_Representation "Board Represen
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Photograph](http://commons.wikimedia.org/wiki/File:Monarch_In_May.jpg) of a Monarch Butterfly taken by [Kenneth Dwain Harrelson](https://en.wikipedia.org/wiki/User:HaarFager) May 29, 2007, [Monarch (butterfly) from Wikipedia](https://en.wikipedia.org/wiki/Monarch_%28butterfly%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New UCI 2 version of Monarch](https://www.stmintz.com/ccc/index.php?id=359707) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [[CCC], April 12, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [What makes Monarch tick?](http://www.monarchchess.com/technical.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Photograph](http://commons.wikimedia.org/wiki/File:Monarch_In_May.jpg) of a Monarch Butterfly taken by [Kenneth Dwain Harrelson](https://en.wikipedia.org/wiki/User:HaarFager) May 29, 2007, [Monarch (butterfly) from Wikipedia](https://en.wikipedia.org/wiki/Monarch_%28butterfly%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New UCI 2 version of Monarch](https://www.stmintz.com/ccc/index.php?id=359707) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [[CCC], April 12, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [What makes Monarch tick?](http://www.monarchchess.com/technical.html)
 
 **[Up one Level](Engines "Engines")**
 

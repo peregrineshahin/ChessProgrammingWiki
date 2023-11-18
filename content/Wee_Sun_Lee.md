@@ -53,10 +53,10 @@ His research interests include [machine learning](Learning "Learning") theory an
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lee Wee Sun's Homepage](http://www.comp.nus.edu.sg/%7Eleews/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Lee Wee Sun in Asian standard template [LAST NAME][FIRST NAME]
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lee Wee Sun - Publications](http://www.comp.nus.edu.sg/%7Eleews/publications/publications.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Wee Sun Lee](https://dblp.uni-trier.de/pers/hd/l/Lee:Wee_Sun.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lee Wee Sun's Homepage](http://www.comp.nus.edu.sg/%7Eleews/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Lee Wee Sun in Asian standard template [LAST NAME][FIRST NAME]
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lee Wee Sun - Publications](http://www.comp.nus.edu.sg/%7Eleews/publications/publications.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Wee Sun Lee](https://dblp.uni-trier.de/pers/hd/l/Lee:Wee_Sun.html)
 
 **[Up one level](People "People")**
 

@@ -50,9 +50,9 @@ a chess program by [Guy Burkill](index.php?title=Guy_Burkill&action=edit&redlink
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Max und Moritz](https://en.wikipedia.org/wiki/File:Max_und_Moritz.JPG), drawing by [Wilhelm Busch](https://en.wikipedia.org/wiki/Wilhelm_Busch) (1832-1908), [Max and Moritz from Wikipedia](https://en.wikipedia.org/wiki/Max_and_Moritz), [Max und Moritz – Wikisource](https://de.wikisource.org/wiki/Max_und_Moritz)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1979**). *Second Annual European Microcomputer Chess Championship - Results and Authors*. [ICCA Newsletter, Vol. 2, No. 2](ICGA_Journal#2_2 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Editor (**1980**). *Battle for Survival*. [Personal Computing, Vol. 4, No. 6](Personal_Computing#4_6 "Personal Computing")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Max und Moritz](https://en.wikipedia.org/wiki/File:Max_und_Moritz.JPG), drawing by [Wilhelm Busch](https://en.wikipedia.org/wiki/Wilhelm_Busch) (1832-1908), [Max and Moritz from Wikipedia](https://en.wikipedia.org/wiki/Max_and_Moritz), [Max und Moritz – Wikisource](https://de.wikisource.org/wiki/Max_und_Moritz)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1979**). *Second Annual European Microcomputer Chess Championship - Results and Authors*. [ICCA Newsletter, Vol. 2, No. 2](ICGA_Journal#2_2 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Editor (**1980**). *Battle for Survival*. [Personal Computing, Vol. 4, No. 6](Personal_Computing#4_6 "Personal Computing")
 
 **[Up one level](Engines "Engines")**
 

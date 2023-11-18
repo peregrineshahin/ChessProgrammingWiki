@@ -166,26 +166,26 @@ a Belgian mathematician, Ph.D. in 1985 and [Habilitation](https://en.wikipedia.o
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Michel Van den Bergh, [Oberwolfach](https://en.wikipedia.org/wiki/Mathematical_Research_Institute_of_Oberwolfach) 2010, [source](https://opc.mfo.de/detail?photo_id=12542), [Image](https://commons.wikimedia.org/wiki/File:Van_den_bergh_michel_2010.jpg) by [Renate Schmid](https://opc.mfo.de/pictures_of_author?id=8288), [Michel Van den Bergh from Wikipedia.de](https://de.wikipedia.org/wiki/Michel_Van_den_Bergh) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CV Michel Van den Bergh](http://hardy.uhasselt.be/personal/vdbergh/Members/curreng.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: GNU Chess 5.07.175b released](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=514587) by Michel Van den Bergh, [CCC](CCC "CCC"), April 14, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GNU Chess 5.07.175b released](http://www.talkchess.com/forum/viewtopic.php?t=47776) by Michel Van den Bergh, [CCC](CCC "CCC"), April 13, 2013
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Publications of Michel Van den Bergh](http://hardy.uhasselt.be/personal/vdbergh/Publications/michel_pub.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Hopf algebra from Wikipedia](https://en.wikipedia.org/wiki/Hopf_algebra)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Cohen–Macaulay ring from Wikipedia](https://en.wikipedia.org/wiki/Cohen%E2%80%93Macaulay_ring)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Stanley–Wilf conjecture from Wikipedia](https://en.wikipedia.org/wiki/Stanley%E2%80%93Wilf_conjecture)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Niels Henrik Abel from Wikipedia](https://en.wikipedia.org/wiki/Niels_Henrik_Abel)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Pierre Deligne from Wikipedia](https://en.wikipedia.org/wiki/Pierre_Deligne)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Poisson algebra from Wikipedia](https://en.wikipedia.org/wiki/Poisson_algebra)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Kontsevich quantization formula from Wikipedia](https://en.wikipedia.org/wiki/Kontsevich_quantization_formula)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Quadric from Wikipedia](https://en.wikipedia.org/wiki/Quadric)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [involutivity - Wiktionary](https://en.wiktionary.org/wiki/involutivity)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Support (measure theory) from Wikipedia](https://en.wikipedia.org/wiki/Support_(measure_theory))
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Calabi–Yau algebra from Wikipedia](https://en.wikipedia.org/wiki/Calabi%E2%80%93Yau_algebra)
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Crepant resolution from Wikipedia](https://en.wikipedia.org/wiki/Crepant_resolution)
-18. <a id="cite-ref-18" href="#cite-note-18">[18]</a>  [Xiaoou Li](Mathematician#XiaoouLi "Mathematician"), [Jingchen Liu](Mathematician#JingchenLiu "Mathematician"), [Zhiliang Ying](Mathematician#ZhiliangYing "Mathematician") (**2014**). *[Generalized Sequential Probability Ratio Test for Separate Families of Hypotheses](https://www.tandfonline.com/doi/abs/10.1080/07474946.2014.961861)*. [Sequential Analysis](https://www.tandfonline.com/loi/lsqa20?open=36&year=2017&repitition=0), Vol. 33, No. 4, [pdf](http://stat.columbia.edu/~jcliu/paper/GSPRT_SQA3.pdf)
-19. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [Perverse sheaf from Wikipedia](https://en.wikipedia.org/wiki/Perverse_sheaf)
-20. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [GSPRT approximation](http://hardy.uhasselt.be/Toga/GSPRT_approximation.pdf) (pdf) by Michel Van den Bergh
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Michel Van den Bergh, [Oberwolfach](https://en.wikipedia.org/wiki/Mathematical_Research_Institute_of_Oberwolfach) 2010, [source](https://opc.mfo.de/detail?photo_id=12542), [Image](https://commons.wikimedia.org/wiki/File:Van_den_bergh_michel_2010.jpg) by [Renate Schmid](https://opc.mfo.de/pictures_of_author?id=8288), [Michel Van den Bergh from Wikipedia.de](https://de.wikipedia.org/wiki/Michel_Van_den_Bergh) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CV Michel Van den Bergh](http://hardy.uhasselt.be/personal/vdbergh/Members/curreng.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: GNU Chess 5.07.175b released](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=514587) by Michel Van den Bergh, [CCC](CCC "CCC"), April 14, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GNU Chess 5.07.175b released](http://www.talkchess.com/forum/viewtopic.php?t=47776) by Michel Van den Bergh, [CCC](CCC "CCC"), April 13, 2013
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Publications of Michel Van den Bergh](http://hardy.uhasselt.be/personal/vdbergh/Publications/michel_pub.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hopf algebra from Wikipedia](https://en.wikipedia.org/wiki/Hopf_algebra)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Cohen–Macaulay ring from Wikipedia](https://en.wikipedia.org/wiki/Cohen%E2%80%93Macaulay_ring)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Stanley–Wilf conjecture from Wikipedia](https://en.wikipedia.org/wiki/Stanley%E2%80%93Wilf_conjecture)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Niels Henrik Abel from Wikipedia](https://en.wikipedia.org/wiki/Niels_Henrik_Abel)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Pierre Deligne from Wikipedia](https://en.wikipedia.org/wiki/Pierre_Deligne)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Poisson algebra from Wikipedia](https://en.wikipedia.org/wiki/Poisson_algebra)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Kontsevich quantization formula from Wikipedia](https://en.wikipedia.org/wiki/Kontsevich_quantization_formula)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Quadric from Wikipedia](https://en.wikipedia.org/wiki/Quadric)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [involutivity - Wiktionary](https://en.wiktionary.org/wiki/involutivity)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Support (measure theory) from Wikipedia](https://en.wikipedia.org/wiki/Support_(measure_theory))
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Calabi–Yau algebra from Wikipedia](https://en.wikipedia.org/wiki/Calabi%E2%80%93Yau_algebra)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Crepant resolution from Wikipedia](https://en.wikipedia.org/wiki/Crepant_resolution)
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a>  [Xiaoou Li](Mathematician#XiaoouLi "Mathematician"), [Jingchen Liu](Mathematician#JingchenLiu "Mathematician"), [Zhiliang Ying](Mathematician#ZhiliangYing "Mathematician") (**2014**). *[Generalized Sequential Probability Ratio Test for Separate Families of Hypotheses](https://www.tandfonline.com/doi/abs/10.1080/07474946.2014.961861)*. [Sequential Analysis](https://www.tandfonline.com/loi/lsqa20?open=36&year=2017&repitition=0), Vol. 33, No. 4, [pdf](http://stat.columbia.edu/~jcliu/paper/GSPRT_SQA3.pdf)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Perverse sheaf from Wikipedia](https://en.wikipedia.org/wiki/Perverse_sheaf)
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [GSPRT approximation](http://hardy.uhasselt.be/Toga/GSPRT_approximation.pdf) (pdf) by Michel Van den Bergh
 
 **[Up one level](People "People")**
 

@@ -71,14 +71,14 @@ Investigator [Alexander Schmidt](index.php?title=Alexander_Schmidt&action=edit&r
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Clone Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:clone_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Stars of 2004 Tournament : Kaissa 1.7 and SmarThink 0.17a !](https://www.stmintz.com/ccc/index.php?id=347751) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), February 06, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [about Botvinnik theory...](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=43197) by [Vladimir Yelin](Vladimir_Yelin "Vladimir Yelin"), [WinBoard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 30, 2003
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Sorry Vladimir but this is what I see...](https://www.stmintz.com/ccc/index.php?id=425107) by [Christopher Conkie](index.php?title=Christopher_Conkie&action=edit&redlink=1 "Christopher Conkie (page does not exist)"), [CCC](CCC "CCC"), May 09, 2005
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Patriot 2.0 Revealed as a Clone!](https://www.stmintz.com/ccc/index.php?id=424288) by Nog, [CCC](CCC "CCC"), May 04, 2005
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Clone engine list - Patriot](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=6396&start=24) by hirdelgird, [WinBoard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 19, 2007
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Patriot 1.0 maybe crafty clone...](https://www.stmintz.com/ccc/index.php?id=424347) by [Alexander Schmidt](index.php?title=Alexander_Schmidt&action=edit&redlink=1 "Alexander Schmidt (page does not exist)"), [CCC](CCC "CCC"), May 05, 2005
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: And the Ippolit author is...](http://www.talkchess.com/forum/viewtopic.php?t=30276&start=19) by [Alexander Schmidt](index.php?title=Alexander_Schmidt&action=edit&redlink=1 "Alexander Schmidt (page does not exist)"), [CCC](CCC "CCC"), October 23, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Clone Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:clone_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Stars of 2004 Tournament : Kaissa 1.7 and SmarThink 0.17a !](https://www.stmintz.com/ccc/index.php?id=347751) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), February 06, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [about Botvinnik theory...](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=43197) by [Vladimir Yelin](Vladimir_Yelin "Vladimir Yelin"), [WinBoard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 30, 2003
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Sorry Vladimir but this is what I see...](https://www.stmintz.com/ccc/index.php?id=425107) by [Christopher Conkie](index.php?title=Christopher_Conkie&action=edit&redlink=1 "Christopher Conkie (page does not exist)"), [CCC](CCC "CCC"), May 09, 2005
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Patriot 2.0 Revealed as a Clone!](https://www.stmintz.com/ccc/index.php?id=424288) by Nog, [CCC](CCC "CCC"), May 04, 2005
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Clone engine list - Patriot](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=6396&start=24) by hirdelgird, [WinBoard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 19, 2007
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Patriot 1.0 maybe crafty clone...](https://www.stmintz.com/ccc/index.php?id=424347) by [Alexander Schmidt](index.php?title=Alexander_Schmidt&action=edit&redlink=1 "Alexander Schmidt (page does not exist)"), [CCC](CCC "CCC"), May 05, 2005
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: And the Ippolit author is...](http://www.talkchess.com/forum/viewtopic.php?t=30276&start=19) by [Alexander Schmidt](index.php?title=Alexander_Schmidt&action=edit&redlink=1 "Alexander Schmidt (page does not exist)"), [CCC](CCC "CCC"), October 23, 2009
 
 **[Up one level](Engines "Engines")**
 

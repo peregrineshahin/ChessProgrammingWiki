@@ -29,7 +29,7 @@ was an American video-game developer and publisher founded in 1979 as On-Line Sy
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sierra Entertainment from Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sierra Entertainment from Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment)
 
 **[Up one Level](Organizations "Organizations")**
 

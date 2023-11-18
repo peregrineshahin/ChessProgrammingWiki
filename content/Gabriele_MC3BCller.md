@@ -57,11 +57,11 @@ I suppose it has to do with 'national morals' or whatever, ie the software pirac
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [crafty copyright problem](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/cc8520f40dc69198) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 17, 1999
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [La Petite 1.0 (download)](https://www.stmintz.com/ccc/index.php?id=74534) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), October 22, 1999
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Arena Chess GUI 3.0 - Engine Links Collection](http://www.playwitharena.com/?Engine_Links_Collection)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Bionic v Crafty - a possible solution](https://www.stmintz.com/ccc/index.php?id=40922) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 26, 1999
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: crafty copyright problem](https://groups.google.com/g/rec.games.chess.computer/c/zIUg9A3GkZg/m/tmSElNxbgtsJ) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 17, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [crafty copyright problem](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/cc8520f40dc69198) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 17, 1999
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [La Petite 1.0 (download)](https://www.stmintz.com/ccc/index.php?id=74534) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), October 22, 1999
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Arena Chess GUI 3.0 - Engine Links Collection](http://www.playwitharena.com/?Engine_Links_Collection)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Bionic v Crafty - a possible solution](https://www.stmintz.com/ccc/index.php?id=40922) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 26, 1999
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: crafty copyright problem](https://groups.google.com/g/rec.games.chess.computer/c/zIUg9A3GkZg/m/tmSElNxbgtsJ) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 17, 1999
 
 **[Up one level](People "People")**
 

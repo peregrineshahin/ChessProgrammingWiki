@@ -200,22 +200,22 @@ Steven Edwards died on October 1, 2016 at age 59 at his home in [Raymond](https:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Obituary For: Steven James Edwards | Kent & Pelczar Funeral Home](http://www.kentandpelczarfh.com/fh/obituaries/obituary.cfm?o_id=3941523&fh_id=12889)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Portable Game Notation Specification and Implementation Guide](http://www.thechessdrum.net/PGN_Reference.txt)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [How common is Common Lisp?](http://www.talkchess.com/forum/viewtopic.php?t=22752) by Steven Edwards, [CCC](CCC "CCC"), August 2, 2008
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CIL Toolkit: code snippets: move generation](http://www.talkchess.com/forum/viewtopic.php?t=23123) by Steven Edwards, [CCC](CCC "CCC"), August 19, 2008
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ChessLisp for everyone!](http://www.talkchess.com/forum/viewtopic.php?t=35539&sid=15a337045e15717b17fd8c974349187d) by Steven Edwards, [CCC](CCC "CCC"), July 22, 2010
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Myopic, a new Creative Commons chess program](http://www.talkchess.com/forum/viewtopic.php?t=34445) by Steven Edwards, [CCC](CCC "CCC"), May 22, 2010
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [CookieCat Monday release schedule](http://www.talkchess.com/forum/viewtopic.php?t=41522) by Steven Edwards, [CCC](CCC "CCC"), December 19, 2011
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [For a limited time, two sources](http://www.talkchess.com/forum/viewtopic.php?t=46964) by Steven Edwards, [CCC](CCC "CCC"), January 22, 2013
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [A048987](http://oeis.org/A048987) from [On-Line Encyclopedia of Integer Sequences](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences) (OEIS)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [James Edwards Obituary - Fremont, New Hampshire | Legacy.com](http://www.legacy.com/obituaries/name/james-edwards-obituary?pid=1000000181241732)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Just a moment of your time, please](http://www.talkchess.com/forum/viewtopic.php?t=61142) by Steven Edwards, [CCC](CCC "CCC"), August 16, 2016
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Wilhelm Barth](Wilhelm_Barth "Wilhelm Barth") (**1995**). *Combining Knowledge and Search to Yield Infallible Endgame Programs A study of passed Pawns in the KPKP endgame.* [ICCA Journal, Vol. 18, No. 3](ICGA_Journal#18_4 "ICGA Journal")
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Written in Cobol - Program Written as Chess Buff's Research Aid](http://news.google.com/newspapers?nid=849&dat=19780417&id=h8lOAAAAIBAJ&sjid=DEoDAAAAIBAJ&pg=6180,1080528) by Brad Schultz, [Computerworld](Computerworld "Computerworld"), April 17, 1978, Page 37
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [A018214 - OEIS | Alkane (or paraffin) numbers](http://oeis.org/A018214)
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> Courtesy Steven Edwards
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Obituary For: Steven James Edwards | Kent & Pelczar Funeral Home](http://www.kentandpelczarfh.com/fh/obituaries/obituary.cfm?o_id=3941523&fh_id=12889)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Portable Game Notation Specification and Implementation Guide](http://www.thechessdrum.net/PGN_Reference.txt)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [How common is Common Lisp?](http://www.talkchess.com/forum/viewtopic.php?t=22752) by Steven Edwards, [CCC](CCC "CCC"), August 2, 2008
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CIL Toolkit: code snippets: move generation](http://www.talkchess.com/forum/viewtopic.php?t=23123) by Steven Edwards, [CCC](CCC "CCC"), August 19, 2008
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ChessLisp for everyone!](http://www.talkchess.com/forum/viewtopic.php?t=35539&sid=15a337045e15717b17fd8c974349187d) by Steven Edwards, [CCC](CCC "CCC"), July 22, 2010
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Myopic, a new Creative Commons chess program](http://www.talkchess.com/forum/viewtopic.php?t=34445) by Steven Edwards, [CCC](CCC "CCC"), May 22, 2010
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [CookieCat Monday release schedule](http://www.talkchess.com/forum/viewtopic.php?t=41522) by Steven Edwards, [CCC](CCC "CCC"), December 19, 2011
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [For a limited time, two sources](http://www.talkchess.com/forum/viewtopic.php?t=46964) by Steven Edwards, [CCC](CCC "CCC"), January 22, 2013
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [A048987](http://oeis.org/A048987) from [On-Line Encyclopedia of Integer Sequences](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences) (OEIS)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [James Edwards Obituary - Fremont, New Hampshire | Legacy.com](http://www.legacy.com/obituaries/name/james-edwards-obituary?pid=1000000181241732)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Just a moment of your time, please](http://www.talkchess.com/forum/viewtopic.php?t=61142) by Steven Edwards, [CCC](CCC "CCC"), August 16, 2016
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Wilhelm Barth](Wilhelm_Barth "Wilhelm Barth") (**1995**). *Combining Knowledge and Search to Yield Infallible Endgame Programs A study of passed Pawns in the KPKP endgame.* [ICCA Journal, Vol. 18, No. 3](ICGA_Journal#18_4 "ICGA Journal")
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Written in Cobol - Program Written as Chess Buff's Research Aid](http://news.google.com/newspapers?nid=849&dat=19780417&id=h8lOAAAAIBAJ&sjid=DEoDAAAAIBAJ&pg=6180,1080528) by Brad Schultz, [Computerworld](Computerworld "Computerworld"), April 17, 1978, Page 37
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [A018214 - OEIS | Alkane (or paraffin) numbers](http://oeis.org/A018214)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> Courtesy Steven Edwards
 
 **[Up one level](People "People")**
 

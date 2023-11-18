@@ -53,14 +53,14 @@ In his 2019 [ICGAJ article](ICGA_Journal#41_1 "ICGA Journal") Jan-Jaap van Horss
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jan-Jaap van Horssen - LinkedIn](https://nl.linkedin.com/in/jan-jaap-van-horssen-86902126/nl-nl)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Olympiad Tilburg Computers 2011](https://toernooibase.kndb.nl/opvraag/detailsper.php?taal=1&kl=46&se=12&Nr=11535&Id=2494&sortbui=1&rattab=r70&rattabe=se012)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [e-dama :: Maximus (Jan-Jaap van Horssen)](https://e-dama.net/e/dama/arhiva_igrac.vm?id=12844&s=20)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Jan-Jaap van Horssen (**2012**). *Schwarzman vs. MAXIMUS: A Man-Machine Match in International Draughts*. [ICGA Journal, Vol. 35, No. 2](ICGA_Journal#35_2 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Jan-Jaap van Horssen (**2019**). *Move selection in MTD(f)*. [ICGA Journal, Vol. 41, No. 1](ICGA_Journal#41_1 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Photo 13 by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Events 2016: Day 7 | ICGA](http://icga.org/?page_id=1930)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Draughts Research](https://jhorssen.home.xs4all.nl/Maximus/research/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [MTD(f) Experiments](https://jhorssen.home.xs4all.nl/Maximus/research/mtdf/index.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jan-Jaap van Horssen - LinkedIn](https://nl.linkedin.com/in/jan-jaap-van-horssen-86902126/nl-nl)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Olympiad Tilburg Computers 2011](https://toernooibase.kndb.nl/opvraag/detailsper.php?taal=1&kl=46&se=12&Nr=11535&Id=2494&sortbui=1&rattab=r70&rattabe=se012)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [e-dama :: Maximus (Jan-Jaap van Horssen)](https://e-dama.net/e/dama/arhiva_igrac.vm?id=12844&s=20)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Jan-Jaap van Horssen (**2012**). *Schwarzman vs. MAXIMUS: A Man-Machine Match in International Draughts*. [ICGA Journal, Vol. 35, No. 2](ICGA_Journal#35_2 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Jan-Jaap van Horssen (**2019**). *Move selection in MTD(f)*. [ICGA Journal, Vol. 41, No. 1](ICGA_Journal#41_1 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photo 13 by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Events 2016: Day 7 | ICGA](http://icga.org/?page_id=1930)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Draughts Research](https://jhorssen.home.xs4all.nl/Maximus/research/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [MTD(f) Experiments](https://jhorssen.home.xs4all.nl/Maximus/research/mtdf/index.htm)
 
 **[Up one Level](People "People")**
 

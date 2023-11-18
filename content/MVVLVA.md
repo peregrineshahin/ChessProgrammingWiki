@@ -72,7 +72,7 @@ is a simple heuristic to [generate](Move_Generation "Move Generation") or sort [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé") (**2002**). *An FPGA Move Generator for the Game of Chess*. Masters thesis, [McGill University](McGill_University "McGill University"), (Supervisor: [Zeljko Zilic](Zeljko_Zilic "Zeljko Zilic"), Co-Supervisor: [Monty Newborn](Monroe_Newborn "Monroe Newborn")), [pdf](http://www.iml.ece.mcgill.ca/%7Emboule/files/mbthesis02.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé") (**2002**). *An FPGA Move Generator for the Game of Chess*. Masters thesis, [McGill University](McGill_University "McGill University"), (Supervisor: [Zeljko Zilic](Zeljko_Zilic "Zeljko Zilic"), Co-Supervisor: [Monty Newborn](Monroe_Newborn "Monroe Newborn")), [pdf](http://www.iml.ece.mcgill.ca/%7Emboule/files/mbthesis02.pdf)
 
 **[Up one level](Move_Ordering "Move Ordering")**
 

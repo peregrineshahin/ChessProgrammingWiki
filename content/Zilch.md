@@ -38,8 +38,8 @@ Zilch ran under [64-bit](X86-64 "X86-64") [Linux](Linux "Linux") <a id="cite-not
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zonites](https://en.wikipedia.org/wiki/Zonites) messenicus [Zilch](https://de.wikipedia.org/wiki/Adolf_Zilch), 1965; Diameter 1.7 cm; Originating from the [New Navarino fortress](https://en.wikipedia.org/wiki/New_Navarino_fortress), [Pylos](https://en.wikipedia.org/wiki/Pylos), Greece; Shell of [collection by H. Zell](https://commons.wikimedia.org/wiki/User:Llez/Shells_by_H._Zell), January 03, 2020, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zilch - Mike Leany](http://www.mikeleany.com/zilch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zonites](https://en.wikipedia.org/wiki/Zonites) messenicus [Zilch](https://de.wikipedia.org/wiki/Adolf_Zilch), 1965; Diameter 1.7 cm; Originating from the [New Navarino fortress](https://en.wikipedia.org/wiki/New_Navarino_fortress), [Pylos](https://en.wikipedia.org/wiki/Pylos), Greece; Shell of [collection by H. Zell](https://commons.wikimedia.org/wiki/User:Llez/Shells_by_H._Zell), January 03, 2020, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zilch - Mike Leany](http://www.mikeleany.com/zilch)
 
 **[Up one level](Engines "Engines")**
 

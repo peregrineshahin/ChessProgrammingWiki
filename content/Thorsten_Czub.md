@@ -72,15 +72,15 @@ Thorsten Czub, [Stefan Knappe](Stefan_Knappe "Stefan Knappe"), [Ingo Bauer](Ingo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) Photos by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Capa](http://www.thorstenczub.de/capa.html) Thorsten's [DOS](MS-DOS "MS-DOS") Chess Program, written in [Basic](Basic "Basic") (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hiarcs Fan Page](http://www.thorstenczub.de/hiarcs.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Schachcomputerwelt](http://www.thorstenczub.de/scw.html) Thorsten's computer chess magazine (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [commercial interests and the CSS magazine (was: Botvinnik article) post 194 ...](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/656439670bd7c7fb#) [rgcc](http://groups.google.com/group/rec.games.chess.computer/topics) November 3, 1996
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [computer-chess club](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/7c5b47d1a27a42df) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 10, 1997
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Computer-Chess Club](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/05debe01992e594d#) by [Steven Schwartz](Steven_Schwartz "Steven Schwartz"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 17, 1997
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Reinstate Thorsten Czub? A plea](https://www.stmintz.com/ccc/index.php?id=27681) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), September 24, 1998
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> Image from [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) Photos by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Capa](http://www.thorstenczub.de/capa.html) Thorsten's [DOS](MS-DOS "MS-DOS") Chess Program, written in [Basic](Basic "Basic") (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hiarcs Fan Page](http://www.thorstenczub.de/hiarcs.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Schachcomputerwelt](http://www.thorstenczub.de/scw.html) Thorsten's computer chess magazine (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [commercial interests and the CSS magazine (was: Botvinnik article) post 194 ...](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/656439670bd7c7fb#) [rgcc](http://groups.google.com/group/rec.games.chess.computer/topics) November 3, 1996
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [computer-chess club](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/7c5b47d1a27a42df) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 10, 1997
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Computer-Chess Club](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/05debe01992e594d#) by [Steven Schwartz](Steven_Schwartz "Steven Schwartz"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 17, 1997
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Reinstate Thorsten Czub? A plea](https://www.stmintz.com/ccc/index.php?id=27681) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), September 24, 1998
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> Image from [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
 
 **[Up one level](People "People")**
 

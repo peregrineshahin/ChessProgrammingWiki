@@ -48,9 +48,9 @@ If someone wants to check the basic idea's, there is [TSCP](TSCP "TSCP"). If som
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Category 29: The strongest chess tournament…ever! Chess Tigers News](http://chesstigers.de/index_news.php?id=1406&rubrik=6&PHPSESSID=415fbdd3bf40f39df9e68b5bf096434f), [Eric van Reem](Eric_van_Reem "Eric van Reem") July 18, 2008
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Category 29: The strongest chess tournament…ever! Chess Tigers News](http://chesstigers.de/index_news.php?id=1406&rubrik=6&PHPSESSID=415fbdd3bf40f39df9e68b5bf096434f), [Eric van Reem](Eric_van_Reem "Eric van Reem") July 18, 2008
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Glaurung 0.1.5 source code](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=818#p3435) by Naum, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 30, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Category 29: The strongest chess tournament…ever! Chess Tigers News](http://chesstigers.de/index_news.php?id=1406&rubrik=6&PHPSESSID=415fbdd3bf40f39df9e68b5bf096434f), [Eric van Reem](Eric_van_Reem "Eric van Reem") July 18, 2008
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Category 29: The strongest chess tournament…ever! Chess Tigers News](http://chesstigers.de/index_news.php?id=1406&rubrik=6&PHPSESSID=415fbdd3bf40f39df9e68b5bf096434f), [Eric van Reem](Eric_van_Reem "Eric van Reem") July 18, 2008
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Glaurung 0.1.5 source code](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=818#p3435) by Naum, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 30, 2004
 
 **[Up one level](People "People")**
 

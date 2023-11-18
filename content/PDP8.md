@@ -45,8 +45,8 @@ An amount of user-donated software for the PDP-8 was available from [DECUS](http
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> An open PDP-8/e shown at the Vintage Computing Festival 2014 in Berlin, Image by [Morn](https://commons.wikimedia.org/wiki/User:Morn), October 05, 2014 [PDP-8 from Wikipedia](https://en.wikipedia.org/wiki/PDP-8)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PDP-8 from Wikipedia](https://en.wikipedia.org/wiki/PDP-8)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> An open PDP-8/e shown at the Vintage Computing Festival 2014 in Berlin, Image by [Morn](https://commons.wikimedia.org/wiki/User:Morn), October 05, 2014 [PDP-8 from Wikipedia](https://en.wikipedia.org/wiki/PDP-8)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PDP-8 from Wikipedia](https://en.wikipedia.org/wiki/PDP-8)
 
 **[Up one Level](Hardware "Hardware")**
 

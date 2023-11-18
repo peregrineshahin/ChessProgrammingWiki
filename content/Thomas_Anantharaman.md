@@ -69,11 +69,11 @@ After teaching at Carnegie Mellon, Thomas Anantharaman currently works as princi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Thomas Ananatharaman, Assistant Professor of Computer Science](http://cs.nyu.edu/cs/review95/node3a.html), Ph.D., [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Thomas Anantharaman | LinkedIn](https://www.linkedin.com/in/thomas-anantharaman-15a1997/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Deep Thought team with Fredkin Intermediate Prize](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 1988, Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Thomas S. Anantharaman](https://dblp.uni-trier.de/pers/hd/a/Anantharaman:Thomas_S=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Thomas Ananatharaman, Assistant Professor of Computer Science](http://cs.nyu.edu/cs/review95/node3a.html), Ph.D., [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Thomas Anantharaman | LinkedIn](https://www.linkedin.com/in/thomas-anantharaman-15a1997/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Deep Thought team with Fredkin Intermediate Prize](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 1988, Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Thomas S. Anantharaman](https://dblp.uni-trier.de/pers/hd/a/Anantharaman:Thomas_S=)
 
 **[Up one level](People "People")**
 

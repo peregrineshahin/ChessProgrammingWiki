@@ -43,9 +43,9 @@ a didactic [UCI](UCI "UCI") compliant [open source chess program](Category:Open_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Two color variations of [Vipera berus](https://en.wikipedia.org/wiki/Vipera_berus) in [Copenhagen Zoo](https://en.wikipedia.org/wiki/Copenhagen_Zoo), Image by [Malene Thyssen](https://commons.wikimedia.org/wiki/User:Malene), May 10, 2005, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Viper](https://web.archive.org/web/20150404054609/http://www.glaurungchess.com/viper/) by [Tord Romstad](Tord_Romstad "Tord Romstad") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ouroboros from Wikipedia](https://en.wikipedia.org/wiki/Ouroboros)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Two color variations of [Vipera berus](https://en.wikipedia.org/wiki/Vipera_berus) in [Copenhagen Zoo](https://en.wikipedia.org/wiki/Copenhagen_Zoo), Image by [Malene Thyssen](https://commons.wikimedia.org/wiki/User:Malene), May 10, 2005, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Viper](https://web.archive.org/web/20150404054609/http://www.glaurungchess.com/viper/) by [Tord Romstad](Tord_Romstad "Tord Romstad") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ouroboros from Wikipedia](https://en.wikipedia.org/wiki/Ouroboros)
 
 **[Up one Level](Engines "Engines")**
 

@@ -26,11 +26,11 @@ Heinz van Kempen further maintains the *Teleschach* site <a id="cite-note-5" hre
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CEGT Testers](https://web.archive.org/web/20080218134356/http://www.husvankempen.de/nunn/testers/testers.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), February 18, 2008)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CEGT Testers](http://www.cegt.net/testers/testers.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [TeleSchach / 10. Deutsche Schach-Amateurmeisterschaft RAMADA Cup 6³ 2010/11 5. Qualifikation Brühl](https://www.teleschach.com/aktuelles/bruehl-2011.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [TeleSchach / Schach in der CyberCity Köln](https://www.teleschach.de/schach_m.htm) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [TeleSchach - Gerhard Hund - Freiburg im Breisgau - Aktuelles](https://www.teleschach.de/) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CEGT Testers](https://web.archive.org/web/20080218134356/http://www.husvankempen.de/nunn/testers/testers.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), February 18, 2008)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CEGT Testers](http://www.cegt.net/testers/testers.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [TeleSchach / 10. Deutsche Schach-Amateurmeisterschaft RAMADA Cup 6³ 2010/11 5. Qualifikation Brühl](https://www.teleschach.com/aktuelles/bruehl-2011.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [TeleSchach / Schach in der CyberCity Köln](https://www.teleschach.de/schach_m.htm) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [TeleSchach - Gerhard Hund - Freiburg im Breisgau - Aktuelles](https://www.teleschach.de/) (German)
 
 **[Up one level](People "People")**
 

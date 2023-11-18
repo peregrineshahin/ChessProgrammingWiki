@@ -78,16 +78,16 @@ a German mathematician with a Ph.D. from [University of Bayreuth](https://en.wik
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dipl.-Math. Johannes Zwanzger](http://www.mathe2.uni-bayreuth.de/20er/) Chair for Mathematics II [University of Bayreuth](https://en.wikipedia.org/wiki/University_of_Bayreuth)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Johannes Zwanzger](http://www.newinchess.com/Zwanzger__Johannes-ip-45958.html) at [New In Chess](http://www.newinchess.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [1. Bundesliga 2013/2014 - Mannschaftsaufstellung](http://www.fcbayern-schach.de/index.php?option=com_content&view=article&id=359&catid=141&Itemid=489)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mannschaftskader der deutschen Schachbundesliga 2013/14 - FC Bayern München - Wikipedia.de](https://de.wikipedia.org/wiki/Mannschaftskader_der_deutschen_Schachbundesliga_2013/14#FC_Bayern_M.C3.BCnchen)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Fritz and Shredder win Computer Chess Championship](http://en.chessbase.com/post/fritz-and-shredder-win-computer-che-championship), [ChessBase News](ChessBase "ChessBase"), November 30, 2003
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Shredder wins in Graz after controversy](https://www.stmintz.com/ccc/index.php?id=334429) by [Darse Billings](Darse_Billings "Darse Billings"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), December 09, 2003
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Prize giving ceremony photos by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Linear code from Wikipedia](https://en.wikipedia.org/wiki/Linear_code)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Lee distance from Wikipedia](https://en.wikipedia.org/wiki/Lee_distance)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [MinT - Kerdock Codes](http://mint.sbg.ac.at/desc_CKerdock.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dipl.-Math. Johannes Zwanzger](http://www.mathe2.uni-bayreuth.de/20er/) Chair for Mathematics II [University of Bayreuth](https://en.wikipedia.org/wiki/University_of_Bayreuth)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Johannes Zwanzger](http://www.newinchess.com/Zwanzger__Johannes-ip-45958.html) at [New In Chess](http://www.newinchess.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [1. Bundesliga 2013/2014 - Mannschaftsaufstellung](http://www.fcbayern-schach.de/index.php?option=com_content&view=article&id=359&catid=141&Itemid=489)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mannschaftskader der deutschen Schachbundesliga 2013/14 - FC Bayern München - Wikipedia.de](https://de.wikipedia.org/wiki/Mannschaftskader_der_deutschen_Schachbundesliga_2013/14#FC_Bayern_M.C3.BCnchen)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fritz and Shredder win Computer Chess Championship](http://en.chessbase.com/post/fritz-and-shredder-win-computer-che-championship), [ChessBase News](ChessBase "ChessBase"), November 30, 2003
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Shredder wins in Graz after controversy](https://www.stmintz.com/ccc/index.php?id=334429) by [Darse Billings](Darse_Billings "Darse Billings"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), December 09, 2003
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Prize giving ceremony photos by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Linear code from Wikipedia](https://en.wikipedia.org/wiki/Linear_code)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Lee distance from Wikipedia](https://en.wikipedia.org/wiki/Lee_distance)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [MinT - Kerdock Codes](http://mint.sbg.ac.at/desc_CKerdock.html)
 
 **[Up one level](People "People")**
 

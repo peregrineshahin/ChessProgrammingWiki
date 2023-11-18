@@ -151,13 +151,13 @@ EXchess applies [evaluation](Evaluation "Evaluation") [learning](Learning "Learn
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> EXchess v7.97 beta source code, chess.h, moves.cpp
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SEE and possible EXChess bug](https://www.stmintz.com/ccc/index.php?id=161209) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), April 01, 2001
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [EXchess v4.02 released](https://www.stmintz.com/ccc/index.php?id=162704) by [Daniel Homan](Daniel_Homan "Daniel Homan"), [CCC](CCC "CCC"), April 10, 2001
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Lazy SMP and Work Sharing](http://www.talkchess.com/forum/viewtopic.php?t=48536) by [Daniel Homan](Daniel_Homan "Daniel Homan"), [CCC](CCC "CCC"), July 03, 2013
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a>  [ABDADA speedup results](http://www.talkchess.com/forum/viewtopic.php?t=47887) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), May 01, 2013
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Pseudo-code for TD learning](https://www.stmintz.com/ccc/index.php?id=117970) by [Daniel Homan](Daniel_Homan "Daniel Homan"), [CCC](CCC "CCC"), July 06, 2000
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [New version of EXchess](https://www.stmintz.com/ccc/index.php?id=139716) by [Daniel Homan](Daniel_Homan "Daniel Homan"), [CCC](CCC "CCC"), November 18, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> EXchess v7.97 beta source code, chess.h, moves.cpp
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SEE and possible EXChess bug](https://www.stmintz.com/ccc/index.php?id=161209) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), April 01, 2001
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [EXchess v4.02 released](https://www.stmintz.com/ccc/index.php?id=162704) by [Daniel Homan](Daniel_Homan "Daniel Homan"), [CCC](CCC "CCC"), April 10, 2001
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Lazy SMP and Work Sharing](http://www.talkchess.com/forum/viewtopic.php?t=48536) by [Daniel Homan](Daniel_Homan "Daniel Homan"), [CCC](CCC "CCC"), July 03, 2013
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a>  [ABDADA speedup results](http://www.talkchess.com/forum/viewtopic.php?t=47887) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), May 01, 2013
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pseudo-code for TD learning](https://www.stmintz.com/ccc/index.php?id=117970) by [Daniel Homan](Daniel_Homan "Daniel Homan"), [CCC](CCC "CCC"), July 06, 2000
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [New version of EXchess](https://www.stmintz.com/ccc/index.php?id=139716) by [Daniel Homan](Daniel_Homan "Daniel Homan"), [CCC](CCC "CCC"), November 18, 2000
 
 **[Up one Level](Engines "Engines")**
 

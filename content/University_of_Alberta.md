@@ -122,9 +122,9 @@ Internet Collegiate Chess League Team Champions 1998-9 with perfect score (4/4) 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Aerial view of University of Alberta grounds, with downtown [Edmonton](https://en.wikipedia.org/wiki/Edmonton) in the background. [University of Alberta from Wikipedia](https://en.wikipedia.org/wiki/University_of_Alberta)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Canadian Chess - Topics - University of Alberta](http://www.canadianchess.info/canadianchesshistory/CanadianChessTopics.html#UOFA)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [U of A GAMES Group Home Page](https://webdocs.cs.ualberta.ca/~games/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Aerial view of University of Alberta grounds, with downtown [Edmonton](https://en.wikipedia.org/wiki/Edmonton) in the background. [University of Alberta from Wikipedia](https://en.wikipedia.org/wiki/University_of_Alberta)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Canadian Chess - Topics - University of Alberta](http://www.canadianchess.info/canadianchesshistory/CanadianChessTopics.html#UOFA)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [U of A GAMES Group Home Page](https://webdocs.cs.ualberta.ca/~games/)
 
 **[Up one Level](Organizations "Organizations")**
 

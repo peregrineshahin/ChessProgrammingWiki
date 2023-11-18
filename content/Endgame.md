@@ -166,10 +166,10 @@ Currently many engines support the usage of [Endgame Tablebases](Endgame_Tableba
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dorothea Tanning](Category:Dorothea_Tanning "Category:Dorothea Tanning") - End Game, 1944, from [artnet Magazine - We Are Duchampians by Ben Davis](http://www.artnet.com/magazineus/reviews/davis/davis11-1-05.asp), [Endgame | Dorothea Tanning](https://www.dorotheatanning.org/life-and-work/view/229/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nunn on Understanding Chess Endgames](http://www.chessbase.com/post/nunn-on-understanding-che-endgames), [ChessBase News](ChessBase "ChessBase"), September 13, 2009
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Nunn’s Chess Endings Volume One](http://www.chessbase.com/post/nunn-s-che-endings-volume-one), [ChessBase News](ChessBase "ChessBase"), May 28, 2010
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [World Chess Championship 2018 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2018)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dorothea Tanning](Category:Dorothea_Tanning "Category:Dorothea Tanning") - End Game, 1944, from [artnet Magazine - We Are Duchampians by Ben Davis](http://www.artnet.com/magazineus/reviews/davis/davis11-1-05.asp), [Endgame | Dorothea Tanning](https://www.dorotheatanning.org/life-and-work/view/229/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nunn on Understanding Chess Endgames](http://www.chessbase.com/post/nunn-on-understanding-che-endgames), [ChessBase News](ChessBase "ChessBase"), September 13, 2009
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Nunn’s Chess Endings Volume One](http://www.chessbase.com/post/nunn-s-che-endings-volume-one), [ChessBase News](ChessBase "ChessBase"), May 28, 2010
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [World Chess Championship 2018 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2018)
 
 **[Up one level](Game_Phases "Game Phases")**
 

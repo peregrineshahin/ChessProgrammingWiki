@@ -48,10 +48,10 @@ a simple [open source chess program](Category:Open_Source "Category:Open Source"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Diagram of Myopia](https://commons.wikimedia.org/wiki/File:Myopia_Diagram.jpg) in the [human eye](https://en.wikipedia.org/wiki/Human_eye), 2005, [National Eye Institute](https://en.wikipedia.org/wiki/National_Eye_Institute), [Myopia from Wikipedia](https://en.wikipedia.org/wiki/Myopia), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Myopic, a new Creative Commons chess program](http://www.talkchess.com/forum/viewtopic.php?t=34445) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), May 22, 2010
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [LED Matrix - Tri Color - Large - COM-00683 - SparkFun Electronics](https://www.sparkfun.com/products/683)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess for the Arduino](http://forum.arduino.cc/index.php?topic=8330.0) by [chessplayer](Steven_Edwards "Steven Edwards"), [Arduino Forum](http://forum.arduino.cc/), December 06, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Diagram of Myopia](https://commons.wikimedia.org/wiki/File:Myopia_Diagram.jpg) in the [human eye](https://en.wikipedia.org/wiki/Human_eye), 2005, [National Eye Institute](https://en.wikipedia.org/wiki/National_Eye_Institute), [Myopia from Wikipedia](https://en.wikipedia.org/wiki/Myopia), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Myopic, a new Creative Commons chess program](http://www.talkchess.com/forum/viewtopic.php?t=34445) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), May 22, 2010
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [LED Matrix - Tri Color - Large - COM-00683 - SparkFun Electronics](https://www.sparkfun.com/products/683)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess for the Arduino](http://forum.arduino.cc/index.php?topic=8330.0) by [chessplayer](Steven_Edwards "Steven Edwards"), [Arduino Forum](http://forum.arduino.cc/), December 06, 2009
 
 **[Up one level](Engines "Engines")**
 

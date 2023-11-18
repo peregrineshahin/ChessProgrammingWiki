@@ -59,8 +59,8 @@ Kg4 42.Rh4# 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chomp by Pylon – Luke's Album of The Day](https://lukealbums.wordpress.com/2016/05/18/chomp-by-pylon/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Is chompster available to download? if so, where? :) nt](https://www.stmintz.com/ccc/index.php?id=277327) by [Scott Farrell](Scott_Farrell "Scott Farrell"), [CCC](CCC "CCC"), January 15, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chomp by Pylon – Luke's Album of The Day](https://lukealbums.wordpress.com/2016/05/18/chomp-by-pylon/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Is chompster available to download? if so, where? :) nt](https://www.stmintz.com/ccc/index.php?id=277327) by [Scott Farrell](Scott_Farrell "Scott Farrell"), [CCC](CCC "CCC"), January 15, 2003
 
 **[Up one Level](Engines "Engines")**
 

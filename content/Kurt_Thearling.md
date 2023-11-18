@@ -52,9 +52,9 @@ an American electrical engineer, analytics and data science executive with focus
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kurt Thearling | LinkedIn](https://www.linkedin.com/in/kurtthearling/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. Thesis, Department of Electrical Engineering and Computer Science, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf), pp. 146, Acknowledgments
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Kurt H. Thearling](https://dblp.uni-trier.de/pers/hd/t/Thearling:Kurt_H=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kurt Thearling | LinkedIn](https://www.linkedin.com/in/kurtthearling/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. Thesis, Department of Electrical Engineering and Computer Science, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf), pp. 146, Acknowledgments
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Kurt H. Thearling](https://dblp.uni-trier.de/pers/hd/t/Thearling:Kurt_H=)
 
 **[Up one level](People "People")**
 

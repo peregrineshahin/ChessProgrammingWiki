@@ -83,16 +83,16 @@ SKA-Mephisto-Tournament, [Munich](https://en.wikipedia.org/wiki/Munich), April 1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Who is who behind Rebel](http://www.rebel.nl/whoiswho.htm) from [Ed Schröder's](Ed_Schroder "Ed Schroder") [Rebel](Rebel "Rebel") site
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Rybka Team](http://www.rybkachess.com/index.php?auswahl=Rybka+team)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Rybka @ Pamplona 17th ICGA World Computer Chess Championship](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=11022) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich") from [Rybka Support & Discussion / Rybka](http://rybkaforum.net/cgi-bin/rybkaforum/forum_show.pl#bid2), May 17, 2009
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Noomen (Mephisto Portorose) vs. Karpov](https://www.flickr.com/photos/10261668@N05/858196163) from [15.Collector's Album](https://www.flickr.com/photos/10261668@N05/albums/72157600923818481) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Schachcomputer - Geschichte - 26](http://www.schachcomputer.at/gesch26.htm) (German) by [Karsten Bauermeister](Karsten_Bauermeister "Karsten Bauermeister"), hosted by [Kurt Kispert](Kurt_Kispert "Kurt Kispert")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [can anyone name both players?](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=4283) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), June 05, 2008
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Karpov vs. Mephisto Portorose on Lichess.org](https://en.lichess.org/0iY3C89v)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Opening Books](http://rebel13.nl/download/books.html) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Who is who behind Rebel](http://www.rebel.nl/whoiswho.htm) from [Ed Schröder's](Ed_Schroder "Ed Schroder") [Rebel](Rebel "Rebel") site
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Rybka Team](http://www.rybkachess.com/index.php?auswahl=Rybka+team)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rybka @ Pamplona 17th ICGA World Computer Chess Championship](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=11022) by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich") from [Rybka Support & Discussion / Rybka](http://rybkaforum.net/cgi-bin/rybkaforum/forum_show.pl#bid2), May 17, 2009
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Noomen (Mephisto Portorose) vs. Karpov](https://www.flickr.com/photos/10261668@N05/858196163) from [15.Collector's Album](https://www.flickr.com/photos/10261668@N05/albums/72157600923818481) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Schachcomputer - Geschichte - 26](http://www.schachcomputer.at/gesch26.htm) (German) by [Karsten Bauermeister](Karsten_Bauermeister "Karsten Bauermeister"), hosted by [Kurt Kispert](Kurt_Kispert "Kurt Kispert")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [can anyone name both players?](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=4283) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), June 05, 2008
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Karpov vs. Mephisto Portorose on Lichess.org](https://en.lichess.org/0iY3C89v)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Opening Books](http://rebel13.nl/download/books.html) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
 
 **[Up one level](People "People")**
 

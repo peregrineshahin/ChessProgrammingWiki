@@ -100,11 +100,11 @@ by looking up four pre-calculated line attack arrays, 32-Kbyte each, indexed by 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Nalwald logo based on [logo.png · master · Tsoj Tsoj / Nalwald · GitLab](https://gitlab.com/tsoj/Nalwald/-/blob/master/logo.png)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nim programming language from Wikipedia](https://en.wikipedia.org/wiki/Nim_(programming_language))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Nalwald: Chess engine written in Nim](https://www.reddit.com/r/nim/comments/myfjx6/nalwald_chess_engine_written_in_nim/) by [Jost Triller](Jost_Triller "Jost Triller"), [Reddit](Computer_Chess_Forums "Computer Chess Forums"), April 25, 2021
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [bitboard.nim · master · Tsoj Tsoj / Nalwald · GitLab](https://gitlab.com/tsoj/Nalwald/-/blob/master/bitboard.nim)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [README.md · master · Tsoj Tsoj / Nalwald · GitLab](https://gitlab.com/tsoj/Nalwald/-/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Nalwald logo based on [logo.png · master · Tsoj Tsoj / Nalwald · GitLab](https://gitlab.com/tsoj/Nalwald/-/blob/master/logo.png)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nim programming language from Wikipedia](https://en.wikipedia.org/wiki/Nim_(programming_language))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Nalwald: Chess engine written in Nim](https://www.reddit.com/r/nim/comments/myfjx6/nalwald_chess_engine_written_in_nim/) by [Jost Triller](Jost_Triller "Jost Triller"), [Reddit](Computer_Chess_Forums "Computer Chess Forums"), April 25, 2021
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [bitboard.nim · master · Tsoj Tsoj / Nalwald · GitLab](https://gitlab.com/tsoj/Nalwald/-/blob/master/bitboard.nim)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [README.md · master · Tsoj Tsoj / Nalwald · GitLab](https://gitlab.com/tsoj/Nalwald/-/blob/master/README.md)
 
 **[Up one Level](Engines "Engines")**
 

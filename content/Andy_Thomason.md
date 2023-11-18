@@ -24,12 +24,12 @@ He was also involved in the developing of a [Flight simulator](https://en.wikipe
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Andy Thomason - United Kingdom | LinkedIn](https://www.linkedin.com/in/andy-thomason-561a946/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Key academic staff, Goldsmiths, University of London](http://www.gold.ac.uk/pg/msc-computer-games-entertainment/staff/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tom Fürstenberg](Tom_F%C3%BCrstenberg "Tom Fürstenberg") (**1980**). *The First World Microcomputer Championship*. [Chess](https://en.wikipedia.org/wiki/CHESS_magazine), [December 1980](http://www.chesscomputeruk.com/html/publication_archive.html) mentions Killer Chess
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html) mentions K. Chess
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Andrew Thomason Video Game Credits and Biography](https://www.mobygames.com/developer/sheet/view/developerId,121079/) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Quaternion from Wikipedia](https://en.wikipedia.org/wiki/Quaternion)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Andy Thomason - United Kingdom | LinkedIn](https://www.linkedin.com/in/andy-thomason-561a946/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Key academic staff, Goldsmiths, University of London](http://www.gold.ac.uk/pg/msc-computer-games-entertainment/staff/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tom Fürstenberg](Tom_F%C3%BCrstenberg "Tom Fürstenberg") (**1980**). *The First World Microcomputer Championship*. [Chess](https://en.wikipedia.org/wiki/CHESS_magazine), [December 1980](http://www.chesscomputeruk.com/html/publication_archive.html) mentions Killer Chess
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html) mentions K. Chess
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Andrew Thomason Video Game Credits and Biography](https://www.mobygames.com/developer/sheet/view/developerId,121079/) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Quaternion from Wikipedia](https://en.wikipedia.org/wiki/Quaternion)
 
 **[Up one level](People "People")**
 

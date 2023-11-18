@@ -12,7 +12,7 @@ an American jazz-funk band founded by trombonist and singer [Joseph Bowie](Categ
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Picture taken by [Lioneldecoster](https://commons.wikimedia.org/wiki/User:Lioneldecoster), June 08, 1981
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Picture taken by [Lioneldecoster](https://commons.wikimedia.org/wiki/User:Lioneldecoster), June 08, 1981
 
 ## Subcategories
 

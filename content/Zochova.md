@@ -37,10 +37,10 @@ an implementation of managed [Signals and slots](https://en.wikipedia.org/wiki/S
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Academy of Performing Arts](https://en.wikipedia.org/wiki/Academy_of_Performing_Arts_in_Bratislava) in [Bratislava](https://en.wikipedia.org/wiki/Bratislava), Zochova Street No. 1, [image](https://commons.wikimedia.org/wiki/File:Zochova_1.jpg) by Wizzard, February 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chapter 24. Boost.Signals - 1.52.0](https://www.boost.org/doc/libs/1_52_0/doc/html/signals.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Zochova/RebelBook.cpp](https://sourceforge.net/p/zochova/code/HEAD/tree/RebelBook.cpp)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Zochowa/bitboardmoves.cpp](https://sourceforge.net/p/zochova/code/HEAD/tree/bitboardmoves.cpp)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Academy of Performing Arts](https://en.wikipedia.org/wiki/Academy_of_Performing_Arts_in_Bratislava) in [Bratislava](https://en.wikipedia.org/wiki/Bratislava), Zochova Street No. 1, [image](https://commons.wikimedia.org/wiki/File:Zochova_1.jpg) by Wizzard, February 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chapter 24. Boost.Signals - 1.52.0](https://www.boost.org/doc/libs/1_52_0/doc/html/signals.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Zochova/RebelBook.cpp](https://sourceforge.net/p/zochova/code/HEAD/tree/RebelBook.cpp)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Zochowa/bitboardmoves.cpp](https://sourceforge.net/p/zochova/code/HEAD/tree/bitboardmoves.cpp)
 
 **[Up one level](Engines "Engines")**
 

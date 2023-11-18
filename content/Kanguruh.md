@@ -150,12 +150,12 @@ Qxh2+ 50.Ke4 Qc2+ 51.Kf4 Qxa4 52.Kg4 Qxb4+ 53.Kg3 Nf5+ 54.Kg2 Ne3+ 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A close-up of a pademelon eating a slice of [sweet potato](https://en.wikipedia.org/wiki/Sweet_potato) near [Port Douglas, Queensland](https://en.wikipedia.org/wiki/Port_Douglas,_Queensland) in December 2005, by [PanBK](https://en.wikipedia.org/wiki/User:PanBK), [Pademelon from Wikipedia](https://en.wikipedia.org/wiki/Pademelon)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [NC3 2003 - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC3_-_List_of_Entries.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NC3 2004 - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC32004_-_List_of_Entries.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [NC3 2005 - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC32005_-_List_of_Entries.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [NC3 2006 - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC32006_-_List_of_Entries.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [NC3 - 2003 Australian National Computer Chess Championship](https://web.archive.org/web/20180713121916/http://home.pacific.net.au/~tommyinoz/nc3.html) by [Thomas McBurney](Thomas_McBurney "Thomas McBurney") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A close-up of a pademelon eating a slice of [sweet potato](https://en.wikipedia.org/wiki/Sweet_potato) near [Port Douglas, Queensland](https://en.wikipedia.org/wiki/Port_Douglas,_Queensland) in December 2005, by [PanBK](https://en.wikipedia.org/wiki/User:PanBK), [Pademelon from Wikipedia](https://en.wikipedia.org/wiki/Pademelon)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [NC3 2003 - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC3_-_List_of_Entries.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NC3 2004 - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC32004_-_List_of_Entries.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [NC3 2005 - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC32005_-_List_of_Entries.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [NC3 2006 - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC32006_-_List_of_Entries.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [NC3 - 2003 Australian National Computer Chess Championship](https://web.archive.org/web/20180713121916/http://home.pacific.net.au/~tommyinoz/nc3.html) by [Thomas McBurney](Thomas_McBurney "Thomas McBurney") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](Engines "Engines")**
 

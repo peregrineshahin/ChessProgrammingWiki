@@ -43,8 +43,8 @@ The tables were optimized by [Texel's tuning method](Texel%27s_Tuning_Method "Te
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Preparation of [Basil](https://en.wikipedia.org/wiki/Basil) [pesto](https://en.wikipedia.org/wiki/Pesto) with [mortar and pestle](https://en.wikipedia.org/wiki/Mortar_and_pestle), [Image](https://commons.wikimedia.org/wiki/File:BasilkumPesto.jpg) by Flusel, May 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PeSTO: Piece Square Tables Only – RofChade](https://rofchade.nl/?p=307)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Preparation of [Basil](https://en.wikipedia.org/wiki/Basil) [pesto](https://en.wikipedia.org/wiki/Pesto) with [mortar and pestle](https://en.wikipedia.org/wiki/Mortar_and_pestle), [Image](https://commons.wikimedia.org/wiki/File:BasilkumPesto.jpg) by Flusel, May 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PeSTO: Piece Square Tables Only – RofChade](https://rofchade.nl/?p=307)
 
 **[Up one Level](Engines "Engines")**
 

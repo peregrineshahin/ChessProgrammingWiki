@@ -85,8 +85,8 @@ You can also talk about failing high and failing low from the root position, if 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Red Balloon, 1922, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Solomon R. Guggenheim Museum](https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Programming - Glossary - Fail Low, Fail High](http://web.archive.org/web/20040512194831/brucemo.com/compchess/programming/glossary.htm#fail-high) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics Site](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Red Balloon, 1922, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Solomon R. Guggenheim Museum](https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Programming - Glossary - Fail Low, Fail High](http://web.archive.org/web/20040512194831/brucemo.com/compchess/programming/glossary.htm#fail-high) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics Site](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
 
 **[Up one Level](Alpha-Beta "Alpha-Beta")**
 

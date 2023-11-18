@@ -56,10 +56,10 @@ a [chess variant](Chess#Variants "Chess") in which the objective of each player 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Losing Chess](http://ilk.uvt.nl/icga/games/losingchess/) by [Guy Haworth](Guy_Haworth "Guy Haworth"), [ICGA](ICGA "ICGA")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mark Watkins](Mark_Watkins "Mark Watkins") (**2014**). *Solved Openings in Losing Chess*. [ICGA Journal, Vol. 37, No. 2](ICGA_Journal#37_2 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Losing Chess 1 e3 e6](http://www.jsbeasley.co.uk/losinge3e6.htm) by [John Beasley](index.php?title=John_Beasley&action=edit&redlink=1 "John Beasley (page does not exist)"), August 2014
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Losing Chess: 1. e3 wins](http://www.open-chess.org/viewtopic.php?f=3&t=3023) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), October 10, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Losing Chess](http://ilk.uvt.nl/icga/games/losingchess/) by [Guy Haworth](Guy_Haworth "Guy Haworth"), [ICGA](ICGA "ICGA")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mark Watkins](Mark_Watkins "Mark Watkins") (**2014**). *Solved Openings in Losing Chess*. [ICGA Journal, Vol. 37, No. 2](ICGA_Journal#37_2 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Losing Chess 1 e3 e6](http://www.jsbeasley.co.uk/losinge3e6.htm) by [John Beasley](index.php?title=John_Beasley&action=edit&redlink=1 "John Beasley (page does not exist)"), August 2014
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Losing Chess: 1. e3 wins](http://www.open-chess.org/viewtopic.php?f=3&t=3023) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), October 10, 2016
 
 **[Up one Level](Games "Games")**
 

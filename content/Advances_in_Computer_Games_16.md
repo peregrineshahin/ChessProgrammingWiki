@@ -55,9 +55,9 @@ and the [22nd Computer Olympiad](index.php?title=22nd_Computer_Olympiad&action=e
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [IJCAI-19 – August 10-16 2019, Macao, China](https://ijcai19.org/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Advances in Computer Games | SpringerLink](https://link.springer.com/book/10.1007%2F978-3-030-65883-0)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Advances in Computer Games 2019 16th International Conference Macao China](https://www.lamsade.dauphine.fr/~cazenave/acg2019/schedule.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [IJCAI-19 – August 10-16 2019, Macao, China](https://ijcai19.org/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Advances in Computer Games | SpringerLink](https://link.springer.com/book/10.1007%2F978-3-030-65883-0)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Advances in Computer Games 2019 16th International Conference Macao China](https://www.lamsade.dauphine.fr/~cazenave/acg2019/schedule.html)
 
 **[Up one Level](Conferences "Conferences")**
 

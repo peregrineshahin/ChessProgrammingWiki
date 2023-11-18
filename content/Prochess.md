@@ -93,11 +93,11 @@ Nd5 45.Qe2 g6 46.Qb5 Ndb4 47.Qb6 Ke7 48.Kh3 Kd7 49.Kg2 Nxa6 50.Qb5 Nc7 51.Qc5 Nd
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Don Beal](Don_Beal "Don Beal") (**1993**). *Report on the QMW 1993 Uniform-Platform Computer-Chess Championship.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [QMW computer chess](https://groups.google.com/d/msg/rec.games.chess/USZ-JlNvqRI/Yn68mNr08xAJ) by [Don Beal](Don_Beal "Don Beal"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1992**). *The 7th World Computer-Chess Championship. Report on the Tournament*. [ICCA Journa, Vol. 15, No. 4l](ICGA_Journal#15_4 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=20)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Madrid 1992 - Chess - Round 5 - Game 10 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=58&round=5&id=10)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Don Beal](Don_Beal "Don Beal") (**1993**). *Report on the QMW 1993 Uniform-Platform Computer-Chess Championship.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [QMW computer chess](https://groups.google.com/d/msg/rec.games.chess/USZ-JlNvqRI/Yn68mNr08xAJ) by [Don Beal](Don_Beal "Don Beal"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1992**). *The 7th World Computer-Chess Championship. Report on the Tournament*. [ICCA Journa, Vol. 15, No. 4l](ICGA_Journal#15_4 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=20)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Madrid 1992 - Chess - Round 5 - Game 10 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=58&round=5&id=10)
 
 **[Up one Level](Engines "Engines")**
 

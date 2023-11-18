@@ -37,8 +37,8 @@ a French chess player, computer scientist and computer chess programmer. Along w
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) Photos by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A Short Story of JCW's Computer Chess Program](http://www.recherche.enac.fr/~weill/chess.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) Photos by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A Short Story of JCW's Computer Chess Program](http://www.recherche.enac.fr/~weill/chess.html)
 
 **[Up one level](People "People")**
 

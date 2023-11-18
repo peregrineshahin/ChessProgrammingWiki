@@ -33,10 +33,10 @@ an Indonesian computer scientist and independent IT and services professional <a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Soei Tan | LinkedIn](http://www.linkedin.com/in/tansoei)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Soei Tan - Biography](http://ezinearticles.com/?expert_bio=Soei_Tan) from [EzineArticles](http://ezinearticles.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Levy](David_Levy "David Levy") (**1988**). [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), Bibliography pp. 438
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Soei Tan | LinkedIn](http://www.linkedin.com/in/tansoei)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Soei Tan - Biography](http://ezinearticles.com/?expert_bio=Soei_Tan) from [EzineArticles](http://ezinearticles.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Levy](David_Levy "David Levy") (**1988**). [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), Bibliography pp. 438
 
 **[Up one level](People "People")**
 

@@ -51,8 +51,8 @@ a Canadian [electrical engineer](https://en.wikipedia.org/wiki/Electrical_engine
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Z.G. Vranesic - Former Graduate Students](http://www.eecg.toronto.edu/~zvonko/former.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chute's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=436)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Z.G. Vranesic - Former Graduate Students](http://www.eecg.toronto.edu/~zvonko/former.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chute's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=436)
 
 **[Up one level](People "People")**
 

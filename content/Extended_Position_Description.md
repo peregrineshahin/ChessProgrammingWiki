@@ -188,13 +188,13 @@ r1bqk2r/p1pp1ppp/2p2n2/8/1b2P3/2N5/PPP2PPP/R1BQKB1R w KQkq - bm Bd3; id "Crafty 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Standard: Portable Game Notation Specification and Implementation Guide](http://www.thechessdrum.net/PGN_Reference.txt) 16.2: EPD by [Steven Edwards](Steven_Edwards "Steven Edwards")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Fun challenge for best cool code](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70048&start=5) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), February 28, 2019
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [EPD format](https://www.stmintz.com/ccc/index.php?id=137052) by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), [CCC](CCC "CCC"), November 07, 2000
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [EPD2diag](http://www.rebel.nl/epd2diag.htm) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [An important message to users of 40H utility tools](http://www.talkchess.com/forum/viewtopic.php?t=58581) by [Norm Pollock](index.php?title=Norman_Pollock&action=edit&redlink=1 "Norman Pollock (page does not exist)"), [CCC](CCC "CCC"), December 13, 2015
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: 40H chess downloads has moved](http://www.talkchess.com/forum/viewtopic.php?t=59376&start=1) by [Norm Pollock](index.php?title=Norman_Pollock&action=edit&redlink=1 "Norman Pollock (page does not exist)"), [CCC](CCC "CCC"), March 12, 2016
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Moved "40H" tools/utilities to a new URL](http://www.talkchess.com/forum/viewtopic.php?t=62554) by[Norm Pollock](index.php?title=Norman_Pollock&action=edit&redlink=1 "Norman Pollock (page does not exist)"), [CCC](CCC "CCC"), December 21, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Standard: Portable Game Notation Specification and Implementation Guide](http://www.thechessdrum.net/PGN_Reference.txt) 16.2: EPD by [Steven Edwards](Steven_Edwards "Steven Edwards")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Fun challenge for best cool code](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70048&start=5) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), February 28, 2019
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [EPD format](https://www.stmintz.com/ccc/index.php?id=137052) by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), [CCC](CCC "CCC"), November 07, 2000
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [EPD2diag](http://www.rebel.nl/epd2diag.htm) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [An important message to users of 40H utility tools](http://www.talkchess.com/forum/viewtopic.php?t=58581) by [Norm Pollock](index.php?title=Norman_Pollock&action=edit&redlink=1 "Norman Pollock (page does not exist)"), [CCC](CCC "CCC"), December 13, 2015
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: 40H chess downloads has moved](http://www.talkchess.com/forum/viewtopic.php?t=59376&start=1) by [Norm Pollock](index.php?title=Norman_Pollock&action=edit&redlink=1 "Norman Pollock (page does not exist)"), [CCC](CCC "CCC"), March 12, 2016
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Moved "40H" tools/utilities to a new URL](http://www.talkchess.com/forum/viewtopic.php?t=62554) by[Norm Pollock](index.php?title=Norman_Pollock&action=edit&redlink=1 "Norman Pollock (page does not exist)"), [CCC](CCC "CCC"), December 21, 2016
 
 **[Up one Level](Chess_Position "Chess Position")**
 

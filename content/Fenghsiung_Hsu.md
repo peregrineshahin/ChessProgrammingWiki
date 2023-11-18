@@ -88,19 +88,19 @@ after winning the [Fredkin Intermediate Prize](Edward_Fredkin#Prize "Edward Fred
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess temporary](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Feng-hsiung Hsu (**1987**). *A Two-Million Moves/Sec CMOS Single-Chip Chess Move Generator*. [IEEE Journal of Solid-state Circuits](IEEE#JSSC "IEEE"), Vol. 22, No. 5
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Feng-hsiung Hsu, [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman"), [Murray Campbell](Murray_Campbell "Murray Campbell"), [Andreas Nowatzyk](Andreas_Nowatzyk "Andreas Nowatzyk") (**1990**). *Deep Thought*. [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Feng-hsiung Hsu, [Murray Campbell](Murray_Campbell "Murray Campbell"), [Joe Hoane](Joe_Hoane "Joe Hoane") (**1995**). *Deep Blue System Overview*. International Conference on Supercomputing
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Feng-hsiung Hsu (**2002**). *[Behind Deep Blue: Building the Computer that Defeated the World Chess Champion](http://press.princeton.edu/titles/7342.html)*. [Princeton University Press](https://en.wikipedia.org/wiki/Princeton_University_Press)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Feng-hsiung Hsu from Wikipedia](https://en.wikipedia.org/wiki/Feng-hsiung_Hsu)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Feng-hsiung Hsu (**1989**). *Large Scale Parallelization of Alpha-beta Search: An Algorithmic and Architectural Study with Computer Chess*. Ph.D. thesis, Technical report CMU-CS-90-108, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), advisor [Hsiang-Tsung Kung](Mathematician#Kung "Mathematician")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Murray Campbell](Murray_Campbell "Murray Campbell"), [Joe Hoane](Joe_Hoane "Joe Hoane"), Feng-hsiung Hsu (**2002**). *Deep Blue*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 134, No. 1-2
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Feng-hsiung Hsu from Wikipedia](https://en.wikipedia.org/wiki/Feng-hsiung_Hsu)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Deep Thought team with Fredkin Intermediate Prize](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 1988, Gift of Feng-hsiung Hsu hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Claude Shannon awards Feng-hsiung Hsu](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd35ab2) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [dblp: Feng-hsiung Hsu](https://dblp.uni-trier.de/pers/hd/h/Hsu:Feng=hsiung)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess temporary](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Feng-hsiung Hsu (**1987**). *A Two-Million Moves/Sec CMOS Single-Chip Chess Move Generator*. [IEEE Journal of Solid-state Circuits](IEEE#JSSC "IEEE"), Vol. 22, No. 5
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Feng-hsiung Hsu, [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman"), [Murray Campbell](Murray_Campbell "Murray Campbell"), [Andreas Nowatzyk](Andreas_Nowatzyk "Andreas Nowatzyk") (**1990**). *Deep Thought*. [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Feng-hsiung Hsu, [Murray Campbell](Murray_Campbell "Murray Campbell"), [Joe Hoane](Joe_Hoane "Joe Hoane") (**1995**). *Deep Blue System Overview*. International Conference on Supercomputing
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Feng-hsiung Hsu (**2002**). *[Behind Deep Blue: Building the Computer that Defeated the World Chess Champion](http://press.princeton.edu/titles/7342.html)*. [Princeton University Press](https://en.wikipedia.org/wiki/Princeton_University_Press)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Feng-hsiung Hsu from Wikipedia](https://en.wikipedia.org/wiki/Feng-hsiung_Hsu)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> Feng-hsiung Hsu (**1989**). *Large Scale Parallelization of Alpha-beta Search: An Algorithmic and Architectural Study with Computer Chess*. Ph.D. thesis, Technical report CMU-CS-90-108, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), advisor [Hsiang-Tsung Kung](Mathematician#Kung "Mathematician")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Murray Campbell](Murray_Campbell "Murray Campbell"), [Joe Hoane](Joe_Hoane "Joe Hoane"), Feng-hsiung Hsu (**2002**). *Deep Blue*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 134, No. 1-2
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Feng-hsiung Hsu from Wikipedia](https://en.wikipedia.org/wiki/Feng-hsiung_Hsu)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Deep Thought team with Fredkin Intermediate Prize](http://www.computerhistory.org/chess/stl-430b9bbd52f71/) 1988, Gift of Feng-hsiung Hsu hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Claude Shannon awards Feng-hsiung Hsu](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd35ab2) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [dblp: Feng-hsiung Hsu](https://dblp.uni-trier.de/pers/hd/h/Hsu:Feng=hsiung)
 
 **[Up one level](People "People")**
 

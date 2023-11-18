@@ -47,9 +47,9 @@ an American computer scientist and [Microsoft](Microsoft "Microsoft") employee w
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Max Chickering at Microsoft Research](https://www.microsoft.com/en-us/research/people/dmax/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: David Maxwell Chickering](http://dblp.org/pers/hd/c/Chickering:David_Maxwell)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Max Chickering at Microsoft Research](https://www.microsoft.com/en-us/research/people/dmax/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: David Maxwell Chickering](http://dblp.org/pers/hd/c/Chickering:David_Maxwell)
 
 **[Up one level](People "People")**
 

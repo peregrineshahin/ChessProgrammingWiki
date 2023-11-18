@@ -22,9 +22,9 @@ a Taiwanese computer scientist affiliated with the Department of Computer Scienc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Ti-Rong Wu](Ti-Rong_Wu "Ti-Rong Wu"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), Guan-Wun Chen, [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), [Tung-Yi Lai](index.php?title=Tung-Yi_Lai&action=edit&redlink=1 "Tung-Yi Lai (page does not exist)"), [Hung-Chun Wu](index.php?title=Hung-Chun_Wu&action=edit&redlink=1 "Hung-Chun Wu (page does not exist)"), [Li-Cheng Lan](index.php?title=Li-Cheng_Lan&action=edit&redlink=1 "Li-Cheng Lan (page does not exist)") (**2017**). *Multi-Labelled Value Networks for Computer Go*. [arXiv:1705.10701](https://arxiv.org/abs/1705.10701), [pdf](https://arxiv.org/ftp/arxiv/papers/1705/1705.10701.pdf)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Introduction to Go Programs Developed at CGI Lab](http://aigames.nctu.edu.tw/~icwu/CGI.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Guan-Wun Chen](http://dblp.uni-trier.de/pers/hd/c/Chen:Guan=Wun)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Ti-Rong Wu](Ti-Rong_Wu "Ti-Rong Wu"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), Guan-Wun Chen, [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), [Tung-Yi Lai](index.php?title=Tung-Yi_Lai&action=edit&redlink=1 "Tung-Yi Lai (page does not exist)"), [Hung-Chun Wu](index.php?title=Hung-Chun_Wu&action=edit&redlink=1 "Hung-Chun Wu (page does not exist)"), [Li-Cheng Lan](index.php?title=Li-Cheng_Lan&action=edit&redlink=1 "Li-Cheng Lan (page does not exist)") (**2017**). *Multi-Labelled Value Networks for Computer Go*. [arXiv:1705.10701](https://arxiv.org/abs/1705.10701), [pdf](https://arxiv.org/ftp/arxiv/papers/1705/1705.10701.pdf)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Introduction to Go Programs Developed at CGI Lab](http://aigames.nctu.edu.tw/~icwu/CGI.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Guan-Wun Chen](http://dblp.uni-trier.de/pers/hd/c/Chen:Guan=Wun)
 
 **[Up one Level](People "People")**
 

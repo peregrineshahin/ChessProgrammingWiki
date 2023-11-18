@@ -73,14 +73,14 @@ Along with [Craig Nevill-Manning](Mathematician#CNevillManning "Mathematician"),
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ian H. Witten - Homepage](https://www.cs.waikato.ac.nz/~ihw/index.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ian H. Witten from Wikipedia](https://en.wikipedia.org/wiki/Ian_H._Witten)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Ian H. Witten (**1977**). *An Adaptive Optimal Controller for Discrete-Time Markov Environments*. [Information and Control](https://en.wikipedia.org/wiki/Information_and_Computation), Vol. 34, No. 4, [pdf](https://core.ac.uk/download/pdf/82451748.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Craig Nevill-Manning](Mathematician#CNevillManning "Mathematician"), Ian H. Witten (**1997**). *[Identifying Hierarchical Structure in Sequences](http://www.sequitur.info/jair)*. [arXiv:cs/9709102](https://arxiv.org/abs/cs/9709102)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ian H. Witten: List of Publications](https://www.cs.waikato.ac.nz/~ihw/publications.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Ian H. Witten](https://dblp.uni-trier.de/pers/hd/w/Witten:Ian_H=.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Multi-armed bandit from Wikipedia](https://en.wikipedia.org/wiki/Multi-armed_bandit)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Weka (machine learning) from Wikipedia](<https://en.wikipedia.org/wiki/Weka_(machine_learning)>)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ian H. Witten - Homepage](https://www.cs.waikato.ac.nz/~ihw/index.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ian H. Witten from Wikipedia](https://en.wikipedia.org/wiki/Ian_H._Witten)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Ian H. Witten (**1977**). *An Adaptive Optimal Controller for Discrete-Time Markov Environments*. [Information and Control](https://en.wikipedia.org/wiki/Information_and_Computation), Vol. 34, No. 4, [pdf](https://core.ac.uk/download/pdf/82451748.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Craig Nevill-Manning](Mathematician#CNevillManning "Mathematician"), Ian H. Witten (**1997**). *[Identifying Hierarchical Structure in Sequences](http://www.sequitur.info/jair)*. [arXiv:cs/9709102](https://arxiv.org/abs/cs/9709102)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ian H. Witten: List of Publications](https://www.cs.waikato.ac.nz/~ihw/publications.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Ian H. Witten](https://dblp.uni-trier.de/pers/hd/w/Witten:Ian_H=.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Multi-armed bandit from Wikipedia](https://en.wikipedia.org/wiki/Multi-armed_bandit)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Weka (machine learning) from Wikipedia](<https://en.wikipedia.org/wiki/Weka_(machine_learning)>)
 
 **[Up one level](People "People")**
 

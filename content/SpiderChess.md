@@ -64,9 +64,9 @@ When the code has become rather messy, Martin started his second approach from s
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Victoria](http://www.microbotic.org/victoria.htm) from [The Sculpture](http://www.microbotic.org/portfolio.htm) of [Christopher Conte](Category:Christopher_Conte "Category:Christopher Conte"), © 2012, Description: Cast bronze with stainless steel and carbon steel components, Size: 2.5 "tall x 6" x 6" (6.5cm x 15cm x 15cm), Image: Sirris and [Liza Conlin](https://www.behance.net/Lizaconlin), [esculturas biomédicas | Trasdós](https://blogs.20minutos.es/trasdos/tag/esculturas-biomedicas/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spider Chess again ...](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=34993) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 08, 2001
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Rybka-Games aus dem Jahr 2004](http://forum.computerschach.de/cgi-bin/mwf/topic_show.pl?tid=3813) by Andreas Luettke, [CSS Forum](Computer_Chess_Forums "Computer Chess Forums"), June 30, 2011 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Victoria](http://www.microbotic.org/victoria.htm) from [The Sculpture](http://www.microbotic.org/portfolio.htm) of [Christopher Conte](Category:Christopher_Conte "Category:Christopher Conte"), © 2012, Description: Cast bronze with stainless steel and carbon steel components, Size: 2.5 "tall x 6" x 6" (6.5cm x 15cm x 15cm), Image: Sirris and [Liza Conlin](https://www.behance.net/Lizaconlin), [esculturas biomédicas | Trasdós](https://blogs.20minutos.es/trasdos/tag/esculturas-biomedicas/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spider Chess again ...](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=34993) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 08, 2001
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rybka-Games aus dem Jahr 2004](http://forum.computerschach.de/cgi-bin/mwf/topic_show.pl?tid=3813) by Andreas Luettke, [CSS Forum](Computer_Chess_Forums "Computer Chess Forums"), June 30, 2011 (German)
 
 **[Up one Level](Engines "Engines")**
 

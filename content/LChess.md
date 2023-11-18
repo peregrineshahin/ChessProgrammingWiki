@@ -60,11 +60,11 @@ Qxb5 20.a4 Qc6 21.Nd8+ Rxd8 22.Bxd5+ 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [History of ChessPartner](http://www.lokasoft.nl/history.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ChessPartner 4.0 available](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/ccff9c16b2022c6a) by [Lex Loep](Lex_Loep "Lex Loep"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 9, 1998
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ChessPartner 6.0](http://www.lokasoft.nl/chesspartner.aspx)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Champ for Windows (2003) - MobyGames](http://www.mobygames.com/game/windows/chess-champ)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [LChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=193)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [History of ChessPartner](http://www.lokasoft.nl/history.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ChessPartner 4.0 available](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/ccff9c16b2022c6a) by [Lex Loep](Lex_Loep "Lex Loep"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 9, 1998
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ChessPartner 6.0](http://www.lokasoft.nl/chesspartner.aspx)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Champ for Windows (2003) - MobyGames](http://www.mobygames.com/game/windows/chess-champ)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [LChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=193)
 
 **[Up one level](Engines "Engines")**
 

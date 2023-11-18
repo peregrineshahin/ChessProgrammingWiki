@@ -76,9 +76,9 @@ lineup: [Wayne Shorter](Category:Wayne_Shorter "Category:Wayne Shorter"), [Lee M
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hieronymus Bosch](index.php?title=Category:Hieronymus_Bosch&action=edit&redlink=1 "Category:Hieronymus Bosch (page does not exist)") - [The Last Judgment](https://en.wikipedia.org/wiki/The_Last_Judgment_%28Bosch_triptych%29) (detail), after 1482
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Year 2000 problem from Wikipedia](https://en.wikipedia.org/wiki/Year_2000_problem)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [I Mistrzostwa Polski Programów Szachowych Partie (PGN)](http://mpps.maciej.szmit.info/mpps-1/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hieronymus Bosch](index.php?title=Category:Hieronymus_Bosch&action=edit&redlink=1 "Category:Hieronymus Bosch (page does not exist)") - [The Last Judgment](https://en.wikipedia.org/wiki/The_Last_Judgment_%28Bosch_triptych%29) (detail), after 1482
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Year 2000 problem from Wikipedia](https://en.wikipedia.org/wiki/Year_2000_problem)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [I Mistrzostwa Polski Programów Szachowych Partie (PGN)](http://mpps.maciej.szmit.info/mpps-1/)
 
 **[Up one Level](Engines "Engines")**
 

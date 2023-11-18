@@ -55,9 +55,9 @@ but failed, and soon changed back to [mailbox](Mailbox "Mailbox") <a id="cite-no
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [InmiChess Homepage](https://web.archive.org/web/20081029021106/http://www.inmann.net/inmann/inmichess/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender"), [Frederic Friedel](Frederic_Friedel "Frederic Friedel"). (**1995**). *Schach am PC, Bits und Bytes im königlichen Spiel*. [Markt und Technik](https://en.wikipedia.org/wiki/Markt%2BTechnik) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Die Geschichte von InmiChess](https://web.archive.org/web/20091020032906/http://www.inmann.net/inmann/inmichess/about.htm) (German, [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [InmiChess Homepage](https://web.archive.org/web/20081029021106/http://www.inmann.net/inmann/inmichess/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender"), [Frederic Friedel](Frederic_Friedel "Frederic Friedel"). (**1995**). *Schach am PC, Bits und Bytes im königlichen Spiel*. [Markt und Technik](https://en.wikipedia.org/wiki/Markt%2BTechnik) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Die Geschichte von InmiChess](https://web.archive.org/web/20091020032906/http://www.inmann.net/inmann/inmichess/about.htm) (German, [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

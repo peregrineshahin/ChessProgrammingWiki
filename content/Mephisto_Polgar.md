@@ -31,8 +31,8 @@ In 1990, an improved 10 MHz module was released <a id="cite-note-2" href="#cite-
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Polgar 5 Mhz](https://www.flickr.com/photos/10261668@N05/858186855/in/album-72157600922171154/)  from [3.Mephisto | Flickr](https://www.flickr.com/photos/10261668@N05/albums/72157600922171154/with/3012071391/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mephisto Polgar 10 MHz](http://www.schach-computer.info/wiki/index.php/Mephisto_Polgar_10_MHz) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Polgar 5 Mhz](https://www.flickr.com/photos/10261668@N05/858186855/in/album-72157600922171154/)  from [3.Mephisto | Flickr](https://www.flickr.com/photos/10261668@N05/albums/72157600922171154/with/3012071391/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mephisto Polgar 10 MHz](http://www.schach-computer.info/wiki/index.php/Mephisto_Polgar_10_MHz) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
 
 **[Up one level](Mephisto "Mephisto")**
 

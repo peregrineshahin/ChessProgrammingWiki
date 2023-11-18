@@ -70,9 +70,9 @@ which implements the [graphical user interface](GUI "GUI"), to [render](https://
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GitHub - billjordanchess/JavaScript-Chess: JavaScript Chess Engine](https://github.com/billjordanchess/JavaScript-Chess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bill Jordan](Bill_Jordan "Bill Jordan") (**2020**). *[How to Write a JavaScript Chess Engine](https://amzn.eu/4Tn5dVE)*. [amazon](https://www.amazon.com/How-Write-JavaScript-Chess-Engine-ebook/dp/B087BJ467C/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [JavaScript-Chess/README.md at master · billjordanchess/JavaScript-Chess · GitHub](https://github.com/billjordanchess/JavaScript-Chess/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GitHub - billjordanchess/JavaScript-Chess: JavaScript Chess Engine](https://github.com/billjordanchess/JavaScript-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bill Jordan](Bill_Jordan "Bill Jordan") (**2020**). *[How to Write a JavaScript Chess Engine](https://amzn.eu/4Tn5dVE)*. [amazon](https://www.amazon.com/How-Write-JavaScript-Chess-Engine-ebook/dp/B087BJ467C/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [JavaScript-Chess/README.md at master · billjordanchess/JavaScript-Chess · GitHub](https://github.com/billjordanchess/JavaScript-Chess/blob/master/README.md)
 
 **[Up one Level](Engines "Engines")**
 

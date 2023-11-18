@@ -47,18 +47,18 @@ a German computer scientist and Professor of software technology and programming
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Prof. Dr.-Ing. habil. Steinbach - TU Bergakademie Freiberg](https://tu-freiberg.de/user/851)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Workshops Boolean Problems](http://www.informatik.tu-freiberg.de/index.php?option=com_content&task=view&id=48&Itemid=76)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  Bernd Steinbach, [Christian Posthoff](Christian_Posthoff "Christian Posthoff") (**2008**). *Combinatorics on the Chess Board – Solutions using Logic Equations*. [Workshop Chess and Mathematics](Workshop_Chess_and_Mathematics "Workshop Chess and Mathematics")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Bernd Steinbach, [Christian Posthoff](Christian_Posthoff "Christian Posthoff") (**2012**). *Extremely Complex 4-Colored Rectangle-Free Grids: Solution of Open Multiple-Valued Problems*. [ISMVL 2012](http://www.informatik.uni-trier.de/~ley/db/conf/ismvl/ismvl2012.html#SteinbachP12)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computational Complexity: The 17x17 challenge. Worth $289.00. This is not a joke](http://blog.computationalcomplexity.org/2009/11/17x17-challenge-worth-28900-this-is-not.html) by [Bill Gasarch](http://www.cs.umd.edu/~gasarch/), November 30, 2009
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Computational Complexity: The 17x17 problem SOLVED! (also 18x18)](http://blog.computationalcomplexity.org/2012/02/17x17-problem-solved-also-18x18.html) by [Bill Gasarch](http://www.cs.umd.edu/~gasarch/), February 08, 2012
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [17×17 4-coloring with no monochromatic rectangles | The Math Less Traveled](http://mathlesstraveled.com/2012/02/09/17x17-4-coloring-with-no-monochromatic-rectangles/), February 09, 2012
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Lösung des Vierfarbenrätsels: Drei Ecken dürft ihr bilden](http://www.spiegel.de/wissenschaft/mensch/loesung-des-vierfarbenraetsels-drei-ecken-duerft-ihr-bilden-a-816497.html) by [Holger Dambeck](http://www.spiegel.de/extra/a-632103.html), [Spiegel Online](https://en.wikipedia.org/wiki/Spiegel_Online), February 22, 2012 (German)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Prof. Steinbach Publikationen](http://www.informatik.tu-freiberg.de/index.php?option=com_content&task=view&id=35&Itemid=63)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [dblp: Bernd Steinbach](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Steinbach:Bernd.html)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [CHESS AND MATHEMATICS - Workshop Dresden, 21st - 23rd November 2008](http://www.math.tu-dresden.de/num/chess2008/index-en.html)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Workshop Chess and Mathematics](http://www.math.tu-dresden.de/num/chess2008/abstracts.pdf) (pdf) agenda and abstracts
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Prof. Dr.-Ing. habil. Steinbach - TU Bergakademie Freiberg](https://tu-freiberg.de/user/851)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Workshops Boolean Problems](http://www.informatik.tu-freiberg.de/index.php?option=com_content&task=view&id=48&Itemid=76)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a>  Bernd Steinbach, [Christian Posthoff](Christian_Posthoff "Christian Posthoff") (**2008**). *Combinatorics on the Chess Board – Solutions using Logic Equations*. [Workshop Chess and Mathematics](Workshop_Chess_and_Mathematics "Workshop Chess and Mathematics")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Bernd Steinbach, [Christian Posthoff](Christian_Posthoff "Christian Posthoff") (**2012**). *Extremely Complex 4-Colored Rectangle-Free Grids: Solution of Open Multiple-Valued Problems*. [ISMVL 2012](http://www.informatik.uni-trier.de/~ley/db/conf/ismvl/ismvl2012.html#SteinbachP12)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computational Complexity: The 17x17 challenge. Worth $289.00. This is not a joke](http://blog.computationalcomplexity.org/2009/11/17x17-challenge-worth-28900-this-is-not.html) by [Bill Gasarch](http://www.cs.umd.edu/~gasarch/), November 30, 2009
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Computational Complexity: The 17x17 problem SOLVED! (also 18x18)](http://blog.computationalcomplexity.org/2012/02/17x17-problem-solved-also-18x18.html) by [Bill Gasarch](http://www.cs.umd.edu/~gasarch/), February 08, 2012
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [17×17 4-coloring with no monochromatic rectangles | The Math Less Traveled](http://mathlesstraveled.com/2012/02/09/17x17-4-coloring-with-no-monochromatic-rectangles/), February 09, 2012
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Lösung des Vierfarbenrätsels: Drei Ecken dürft ihr bilden](http://www.spiegel.de/wissenschaft/mensch/loesung-des-vierfarbenraetsels-drei-ecken-duerft-ihr-bilden-a-816497.html) by [Holger Dambeck](http://www.spiegel.de/extra/a-632103.html), [Spiegel Online](https://en.wikipedia.org/wiki/Spiegel_Online), February 22, 2012 (German)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Prof. Steinbach Publikationen](http://www.informatik.tu-freiberg.de/index.php?option=com_content&task=view&id=35&Itemid=63)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Bernd Steinbach](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Steinbach:Bernd.html)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [CHESS AND MATHEMATICS - Workshop Dresden, 21st - 23rd November 2008](http://www.math.tu-dresden.de/num/chess2008/index-en.html)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Workshop Chess and Mathematics](http://www.math.tu-dresden.de/num/chess2008/abstracts.pdf) (pdf) agenda and abstracts
 
 **[Up one level](People "People")**
 

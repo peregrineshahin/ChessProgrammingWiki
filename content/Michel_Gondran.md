@@ -35,15 +35,15 @@ a French mathematician and physicist, and former president of *Académie Europé
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lu sur le Net : Trois questions à Michel Gondran](http://www.epi.asso.fr/revue/lu/l0406b.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Académie Européenne Interdisciplinaire des Sciences](http://www.science-inter.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Frenchess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=183)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Michel Gondran - ACM author profile page](http://portal.acm.org/author_page.cfm?id=81100523486&coll=DL&dl=ACM&trk=0&cfid=26664898&cftoken=59411599)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Michel Gondran](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gondran:Michel.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Semiring from Wikipedia](https://en.wikipedia.org/wiki/Semiring)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Idempotence from Wikipedia](https://en.wikipedia.org/wiki/Idempotence)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Fuzzy set from Wikipedia](https://en.wikipedia.org/wiki/Fuzzy_set)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Ordinal optimization from Wikipedia](https://en.wikipedia.org/wiki/Ordinal_optimization)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lu sur le Net : Trois questions à Michel Gondran](http://www.epi.asso.fr/revue/lu/l0406b.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Académie Européenne Interdisciplinaire des Sciences](http://www.science-inter.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Frenchess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=183)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Michel Gondran - ACM author profile page](http://portal.acm.org/author_page.cfm?id=81100523486&coll=DL&dl=ACM&trk=0&cfid=26664898&cftoken=59411599)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Michel Gondran](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gondran:Michel.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Semiring from Wikipedia](https://en.wikipedia.org/wiki/Semiring)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Idempotence from Wikipedia](https://en.wikipedia.org/wiki/Idempotence)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Fuzzy set from Wikipedia](https://en.wikipedia.org/wiki/Fuzzy_set)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Ordinal optimization from Wikipedia](https://en.wikipedia.org/wiki/Ordinal_optimization)
 
 **[Up one level](People "People")**
 

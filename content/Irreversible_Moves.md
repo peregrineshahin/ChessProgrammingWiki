@@ -28,10 +28,10 @@ title: Irreversible Moves
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> including [promotions](Promotions "Promotions")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Half Move Clock Confusion](http://www.open-chess.org/viewtopic.php?f=3&t=2209) by HumbleProgrammer, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 10, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computerschach - Eine Wette, die ich gerne verloren habe](http://www.horst-wandersleben.de/Wette.htm) by [Horst Wandersleben](index.php?title=Horst_Wandersleben&action=edit&redlink=1 "Horst Wandersleben (page does not exist)")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner") found a game finished in a [fifty-move rule](Fifty-move_Rule "Fifty-move Rule") draw, where [castling](Castling "Castling") occurred during the last fifty moves
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> including [promotions](Promotions "Promotions")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Half Move Clock Confusion](http://www.open-chess.org/viewtopic.php?f=3&t=2209) by HumbleProgrammer, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 10, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computerschach - Eine Wette, die ich gerne verloren habe](http://www.horst-wandersleben.de/Wette.htm) by [Horst Wandersleben](index.php?title=Horst_Wandersleben&action=edit&redlink=1 "Horst Wandersleben (page does not exist)")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner") found a game finished in a [fifty-move rule](Fifty-move_Rule "Fifty-move Rule") draw, where [castling](Castling "Castling") occurred during the last fifty moves
 
 **[Up one Level](Moves "Moves")**
 

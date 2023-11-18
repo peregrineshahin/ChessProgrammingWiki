@@ -70,9 +70,9 @@ Qd4 29.Ra2 Rxd3 30.Rxd3 Qxd3 31.Qe2 Qxe2+ 32.Rxe2 Rb8 33.e5 a4 34.Kf3 Ra8
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ProChess 102 A "doctor" released](http://www.talkchess.com/forum/viewtopic.php?t=45745) by [Edoardo Manino](Edoardo_Manino "Edoardo Manino"), [CCC](CCC "CCC"), October 26, 2012
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ProChess102AD.zip | readme.txt](https://www.g-sei.org/prochess/prochess102ad/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CCT15 Results | PGN download](https://cctchess.com/cct15-results/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ProChess 102 A "doctor" released](http://www.talkchess.com/forum/viewtopic.php?t=45745) by [Edoardo Manino](Edoardo_Manino "Edoardo Manino"), [CCC](CCC "CCC"), October 26, 2012
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ProChess102AD.zip | readme.txt](https://www.g-sei.org/prochess/prochess102ad/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CCT15 Results | PGN download](https://cctchess.com/cct15-results/)
 
 **[Up one Level](Engines "Engines")**
 

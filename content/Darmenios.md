@@ -51,8 +51,8 @@ Qf7 43.Kh3 Bd8 44.Nf4 Qf6 45.Rb3 exf4 46.Qxd1 Bxd1 47.Nf3 Bxb3 0-1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Darmenios' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=611)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kanazawa 2010 - Chess - Round 2 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=209&round=2&id=2)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Darmenios' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=611)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kanazawa 2010 - Chess - Round 2 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=209&round=2&id=2)
 
 **[Up one Level](Engines "Engines")**
 

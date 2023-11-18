@@ -38,7 +38,7 @@ an Austrian computer chess programmer, and author of the [freeware](https://en.w
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [RDChess](https://web.archive.org/web/20050309185315/http://www.rdchess.com/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 09, 2005)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [RDChess](https://web.archive.org/web/20050309185315/http://www.rdchess.com/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), March 09, 2005)
 
 **[Up one level](People "People")**
 

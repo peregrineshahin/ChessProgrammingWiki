@@ -45,8 +45,8 @@ Woodpecker further uses [centipawn](Centipawns "Centipawns") resolution instead 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ivory-billed Woodpecker](https://en.wikipedia.org/wiki/Ivory-billed_woodpecker), Campephilus principalis, [woodcut](https://en.wikipedia.org/wiki/Woodcut) or [engraving](https://en.wikipedia.org/wiki/Engraving) from [Elliott Coues](https://en.wikipedia.org/wiki/Elliott_Coues) (**1872**). *[Key to North American Birds](http://www.biodiversitylibrary.org/bibliography/38863)*, originally from [Brehms Tierleben](https://en.wikipedia.org/wiki/Brehms_Tierleben), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> chess.h from woodpecker 0.1 fixed gcc src, [Index of /chess/engines/Jim Ablett/WOODPECKER](http://kirr.homeunix.org/chess/engines/Jim%20Ablett/WOODPECKER/) by [Jim Ablett](Jim_Ablett "Jim Ablett"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ivory-billed Woodpecker](https://en.wikipedia.org/wiki/Ivory-billed_woodpecker), Campephilus principalis, [woodcut](https://en.wikipedia.org/wiki/Woodcut) or [engraving](https://en.wikipedia.org/wiki/Engraving) from [Elliott Coues](https://en.wikipedia.org/wiki/Elliott_Coues) (**1872**). *[Key to North American Birds](http://www.biodiversitylibrary.org/bibliography/38863)*, originally from [Brehms Tierleben](https://en.wikipedia.org/wiki/Brehms_Tierleben), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> chess.h from woodpecker 0.1 fixed gcc src, [Index of /chess/engines/Jim Ablett/WOODPECKER](http://kirr.homeunix.org/chess/engines/Jim%20Ablett/WOODPECKER/) by [Jim Ablett](Jim_Ablett "Jim Ablett"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
 
 **[Up one level](Engines "Engines")**
 

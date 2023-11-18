@@ -47,14 +47,14 @@ a British computer scientist and associate professor at [Future University-Hakod
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Ian Frank (**1991**). *[An Adaptation of Proof-Planning Techniques to Declarer Play in the Game of Bridge](http://www.fun.ac.jp/~ianf/Publications/msc.html)*. M.Sc. thesis, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Ian Frank (**1998**). *[Search and Planning Under Incomplete Information: A Study Using Bridge Card Play](http://www.goodreads.com/book/show/7998822-search-and-planning-under-incomplete-information)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), Ph.D. thesis, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [FINESSE: Computer Bridge Research](http://www.fun.ac.jp/~ianf/Finesse/index.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ian Frank | WMDF: World Music and Dance Festival in Hakodate, Japan](http://wmdf.org/en/author/ianf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [July | 2009 | WMDF: World Music and Dance Festival in Hakodate, Japan](http://wmdf.org/en/2009/07)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> 2010 World Music and Dance Festival (WMDF) 003 in Hakodate, Japan, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Ian Frank](http://dblp.uni-trier.de/pers/hd/f/Frank:Ian)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Scratch (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Scratch_%28programming_language%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Ian Frank (**1991**). *[An Adaptation of Proof-Planning Techniques to Declarer Play in the Game of Bridge](http://www.fun.ac.jp/~ianf/Publications/msc.html)*. M.Sc. thesis, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Ian Frank (**1998**). *[Search and Planning Under Incomplete Information: A Study Using Bridge Card Play](http://www.goodreads.com/book/show/7998822-search-and-planning-under-incomplete-information)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), Ph.D. thesis, [University of Edinburgh](University_of_Edinburgh "University of Edinburgh")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [FINESSE: Computer Bridge Research](http://www.fun.ac.jp/~ianf/Finesse/index.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ian Frank | WMDF: World Music and Dance Festival in Hakodate, Japan](http://wmdf.org/en/author/ianf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [July | 2009 | WMDF: World Music and Dance Festival in Hakodate, Japan](http://wmdf.org/en/2009/07)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> 2010 World Music and Dance Festival (WMDF) 003 in Hakodate, Japan, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Ian Frank](http://dblp.uni-trier.de/pers/hd/f/Frank:Ian)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Scratch (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Scratch_%28programming_language%29)
 
 **[Up one level](People "People")**
 

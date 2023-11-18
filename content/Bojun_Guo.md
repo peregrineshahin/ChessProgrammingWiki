@@ -60,14 +60,14 @@ The [APIs](https://en.wikipedia.org/wiki/API) will provide online position analy
 
 ## [Xiangqi Cloud Database API Documentation](https://www.chessdb.cn/cloudbook_api_en.html) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stockfish 11](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72837) by [Stephane Nicolet](Stephane_Nicolet "Stephane Nicolet"), [CCC](CCC "CCC"), January 18, 2020
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Official Release of Ethereal 11.75, supporting MultiPV](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72299) by [Andrew Grant](Andrew_Grant "Andrew Grant"), [CCC](CCC "CCC"), November 11, 2019
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [TCEC S17 – detailed information](http://www.chessdom.com/tcec-s17-detailed-information/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), December 21, 2019
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [7-men Syzygy attempt](http://www.talkchess.com/forum/viewtopic.php?t=66797) by Bojun Guo, [CCC](CCC "CCC"), March 10, 2018
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: 7-men Syzygy attempt](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=66797&start=472) by Bojun Guo, [CCC](CCC "CCC"), August 19, 2018
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chess Cloud Database Query Interface](https://www.chessdb.cn/queryc_en/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Xiangqi Cloud Database Query Interface](https://www.chessdb.cn/query_en/)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ChessDBCN](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71764) by noobpwnftw, [CCC](CCC "CCC"), September 09, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stockfish 11](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72837) by [Stephane Nicolet](Stephane_Nicolet "Stephane Nicolet"), [CCC](CCC "CCC"), January 18, 2020
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Official Release of Ethereal 11.75, supporting MultiPV](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72299) by [Andrew Grant](Andrew_Grant "Andrew Grant"), [CCC](CCC "CCC"), November 11, 2019
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [TCEC S17 – detailed information](http://www.chessdom.com/tcec-s17-detailed-information/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), December 21, 2019
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [7-men Syzygy attempt](http://www.talkchess.com/forum/viewtopic.php?t=66797) by Bojun Guo, [CCC](CCC "CCC"), March 10, 2018
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: 7-men Syzygy attempt](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=66797&start=472) by Bojun Guo, [CCC](CCC "CCC"), August 19, 2018
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chess Cloud Database Query Interface](https://www.chessdb.cn/queryc_en/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Xiangqi Cloud Database Query Interface](https://www.chessdb.cn/query_en/)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ChessDBCN](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71764) by noobpwnftw, [CCC](CCC "CCC"), September 09, 2019
 
 **[Up one level](People "People")**
 

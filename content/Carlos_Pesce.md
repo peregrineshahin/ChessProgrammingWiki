@@ -38,14 +38,14 @@ Carlos was also involved in providing opening books for the [Arena](Arena "Arena
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pesce, Carlos FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=105872)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Carlos Pesce's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=623)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computerschachturnier in Leiden](https://de.chessbase.com/post/computerschachturnier-in-leiden), [ChessBase.de](ChessBase "ChessBase"), May 13, 2003 » [ICT 2003](ICT_2003 "ICT 2003")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nine-headed monster wins Paderborn](https://en.chessbase.com/post/nine-headed-monster-wins-paderborn), [ChessBase News](ChessBase "ChessBase"), February 14, 2004 » [IPCCC 2004](IPCCC_2004 "IPCCC 2004")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Green Light Chess (v3.00)](http://www.7sun.com/chess/oldversions/218/index.php)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Smarthink book](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=4182&p=21458) by Carlos Pesce, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 19, 2006
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [WildCat download](http://www.igorkorshunov.narod.ru/WildCat/)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Acknowledgments - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/acknowledgments)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pesce, Carlos FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=105872)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Carlos Pesce's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=623)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computerschachturnier in Leiden](https://de.chessbase.com/post/computerschachturnier-in-leiden), [ChessBase.de](ChessBase "ChessBase"), May 13, 2003 » [ICT 2003](ICT_2003 "ICT 2003")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nine-headed monster wins Paderborn](https://en.chessbase.com/post/nine-headed-monster-wins-paderborn), [ChessBase News](ChessBase "ChessBase"), February 14, 2004 » [IPCCC 2004](IPCCC_2004 "IPCCC 2004")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Green Light Chess (v3.00)](http://www.7sun.com/chess/oldversions/218/index.php)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Smarthink book](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=4182&p=21458) by Carlos Pesce, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 19, 2006
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [WildCat download](http://www.igorkorshunov.narod.ru/WildCat/)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Acknowledgments - gaviota chess engine](https://sites.google.com/site/gaviotachessengine/Home/acknowledgments)
 
 **[Up one level](People "People")**
 

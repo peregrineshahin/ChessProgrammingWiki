@@ -49,8 +49,8 @@ the [board representation](Board_Representation "Board Representation"), in part
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [new engine : Cheese v1.0b](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=6925) by Patrice Duhamel, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 07, 2007
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Duhamel Patrice](http://www.blitzchess.fr/fr/common/info/les-programmeurs/duhamel-patrice.html) from [Blitzchess Nostalgie](http://www.blitzchess.fr/fr/) by [Eric Belot](index.php?title=Eric_Belot&action=edit&redlink=1 "Eric Belot (page does not exist)") (French)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [new engine : Cheese v1.0b](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=6925) by Patrice Duhamel, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 07, 2007
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Duhamel Patrice](http://www.blitzchess.fr/fr/common/info/les-programmeurs/duhamel-patrice.html) from [Blitzchess Nostalgie](http://www.blitzchess.fr/fr/) by [Eric Belot](index.php?title=Eric_Belot&action=edit&redlink=1 "Eric Belot (page does not exist)") (French)
 
 **[Up one level](People "People")**
 

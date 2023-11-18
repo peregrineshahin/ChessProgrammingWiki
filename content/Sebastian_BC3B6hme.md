@@ -21,8 +21,8 @@ a German chess and [correspondence chess](https://en.wikipedia.org/wiki/Correspo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sebastian Böhme's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=643)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [30th ONK 2010 Leiden: List of participants](http://www.csvn.nl/index.php?option=com_content&view=article&id=465%3A30th-onk-2010-leiden-list-of-participants&catid=51%3Atoernooien&Itemid=28&lang=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sebastian Böhme's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=643)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [30th ONK 2010 Leiden: List of participants](http://www.csvn.nl/index.php?option=com_content&view=article&id=465%3A30th-onk-2010-leiden-list-of-participants&catid=51%3Atoernooien&Itemid=28&lang=en)
 
 **[Up one level](People "People")**
 

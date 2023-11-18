@@ -83,14 +83,14 @@ In particular, Richard Korf researched and published on [best-first](Best-First 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [UCLA Class Instructor(s)](http://courseweb.seas.ucla.edu/classView.php?term=09S&srs=587620208)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Richard Korf's Home Page](http://www.cs.ucla.edu/%7Ekorf/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Richard E. Korf](https://dblp.uni-trier.de/pers/hd/k/Korf:Richard_E=)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [R. Korf's Selected Publications](http://web.cs.ucla.edu/~korf/publications.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> quoted by [Hans Berliner](Hans_Berliner "Hans Berliner"), [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch") (**1985**). *A Study of Search Methods : The Effect of Constraint Satisfaction and Adventurousness*. [pdf](https://www.ijcai.org/Proceedings/85-2/Papers/083.pdf)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Paper is mentioned by [Richard Korf](#judeapearl) at [Judea Pearl Symposium](Judea_Pearl#Symposium "Judea Pearl"), 2010
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: ICCA Journal Sinks To A New Low](https://www.stmintz.com/ccc/index.php?id=14647) by [Amir Ban](Amir_Ban "Amir Ban"), [CCC](CCC "CCC"), January 25, 1998
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [UCLA Class Instructor(s)](http://courseweb.seas.ucla.edu/classView.php?term=09S&srs=587620208)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Richard Korf's Home Page](http://www.cs.ucla.edu/%7Ekorf/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Richard E. Korf](https://dblp.uni-trier.de/pers/hd/k/Korf:Richard_E=)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [R. Korf's Selected Publications](http://web.cs.ucla.edu/~korf/publications.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> quoted by [Hans Berliner](Hans_Berliner "Hans Berliner"), [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch") (**1985**). *A Study of Search Methods : The Effect of Constraint Satisfaction and Adventurousness*. [pdf](https://www.ijcai.org/Proceedings/85-2/Papers/083.pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Paper is mentioned by [Richard Korf](#judeapearl) at [Judea Pearl Symposium](Judea_Pearl#Symposium "Judea Pearl"), 2010
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: ICCA Journal Sinks To A New Low](https://www.stmintz.com/ccc/index.php?id=14647) by [Amir Ban](Amir_Ban "Amir Ban"), [CCC](CCC "CCC"), January 25, 1998
 
 **[Up one level](People "People")**
 

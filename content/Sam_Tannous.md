@@ -27,7 +27,7 @@ In 2007, he introduced [Hashing Dictionaries](Hashing_Dictionaries "Hashing Dict
 
 
 1. ↑ [1.0](#cite-ref-linkedin-1-0) [1.1](#cite-ref-linkedin-1-1) [Sam Tannous | LinkedIn](https://www.linkedin.com/in/sam-tannous-486b9116/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Sam Tannous (**2007**). *Avoiding Rotated Bitboards with Direct Lookup*. [ICGA Journal, Vol. 30, No. 2](ICGA_Journal#30_2 "ICGA Journal"), [arXiv:0704.3773](https://arxiv.org/abs/0704.3773)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Sam Tannous (**2007**). *Avoiding Rotated Bitboards with Direct Lookup*. [ICGA Journal, Vol. 30, No. 2](ICGA_Journal#30_2 "ICGA Journal"), [arXiv:0704.3773](https://arxiv.org/abs/0704.3773)
 
 **[Up one level](People "People")**
 

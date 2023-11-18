@@ -19,7 +19,7 @@ a German former computer chess programmer and along with [Wolfgang Delmare](Wolf
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Experimental's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=209)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Experimental's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=209)
 
 **[Up one level](People "People")**
 

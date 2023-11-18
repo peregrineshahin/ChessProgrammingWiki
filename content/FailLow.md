@@ -84,8 +84,8 @@ You can also talk about failing high and failing low from the root position, if 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Going down?](https://commons.wikimedia.org/wiki/File:Going_down_%3F.jpg) [Camden Fort Meagher](https://en.wikipedia.org/wiki/Camden_Fort_Meagher) by Twhelton, February 9, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Programming - Glossary - Fail Low, Fail High](http://web.archive.org/web/20040512194831/brucemo.com/compchess/programming/glossary.htm#fail-high) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics Site](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Going down?](https://commons.wikimedia.org/wiki/File:Going_down_%3F.jpg) [Camden Fort Meagher](https://en.wikipedia.org/wiki/Camden_Fort_Meagher) by Twhelton, February 9, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Programming - Glossary - Fail Low, Fail High](http://web.archive.org/web/20040512194831/brucemo.com/compchess/programming/glossary.htm#fail-high) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics Site](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
 
 **[Up one Level](Alpha-Beta "Alpha-Beta")**
 

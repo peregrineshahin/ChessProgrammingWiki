@@ -44,12 +44,12 @@ Christopher Lutz - [Pendyala Harikrishna](https://en.wikipedia.org/wiki/Pendyala
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Christopher Lutz at [34th Chess Olympiad](https://en.wikipedia.org/wiki/34th_Chess_Olympiad), [Istanbul](https://en.wikipedia.org/wiki/Istanbul), 2000, Photo by [Adam Raoof](https://www.flickr.com/people/39298920@N00), [Christopher Lutz from Wikipedia](https://en.wikipedia.org/wiki/Christopher_Lutz)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lars Bremer](Lars_Bremer "Lars Bremer") (**2005**). *Interview: GM Christopher Lutz*. [CSS Online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](http://computerschach.de/Files/2005/Interview:%20GM%20Christopher%20Lutz.pdf) (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Paul's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=454)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Board of ICCA](ICCA "ICCA") (**1989**). *The Mephisto "Young Programmers" Scholarship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") during [WCCC 2006](WCCC_2006 "WCCC 2006"), also in [Oval Lingotto](https://en.wikipedia.org/wiki/Oval_Lingotto), [Turin](https://en.wikipedia.org/wiki/Turin), [Italy](https://en.wikipedia.org/wiki/Italy)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Olympiad R6: Holland defeats Russia, Armenia in the lead](http://www.chessbase.com/newsdetail.asp?newsid=3142) from [ChessBase News](ChessBase "ChessBase"), May 28, 2006
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Christopher Lutz at [34th Chess Olympiad](https://en.wikipedia.org/wiki/34th_Chess_Olympiad), [Istanbul](https://en.wikipedia.org/wiki/Istanbul), 2000, Photo by [Adam Raoof](https://www.flickr.com/people/39298920@N00), [Christopher Lutz from Wikipedia](https://en.wikipedia.org/wiki/Christopher_Lutz)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lars Bremer](Lars_Bremer "Lars Bremer") (**2005**). *Interview: GM Christopher Lutz*. [CSS Online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](http://computerschach.de/Files/2005/Interview:%20GM%20Christopher%20Lutz.pdf) (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Paul's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=454)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Board of ICCA](ICCA "ICCA") (**1989**). *The Mephisto "Young Programmers" Scholarship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") during [WCCC 2006](WCCC_2006 "WCCC 2006"), also in [Oval Lingotto](https://en.wikipedia.org/wiki/Oval_Lingotto), [Turin](https://en.wikipedia.org/wiki/Turin), [Italy](https://en.wikipedia.org/wiki/Italy)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Olympiad R6: Holland defeats Russia, Armenia in the lead](http://www.chessbase.com/newsdetail.asp?newsid=3142) from [ChessBase News](ChessBase "ChessBase"), May 28, 2006
 
 **[Up one level](People "People")**
 

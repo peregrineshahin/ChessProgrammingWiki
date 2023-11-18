@@ -137,8 +137,8 @@ Those moves are determined by [search](Search "Search") and are matter of [move 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lithographs by Irving Amen](http://www.irvingamen.com/lithograph.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - BarakOshri/ConvChess: Predicting Moves in Chess Using Convolutional Neural Networks](https://github.com/BarakOshri/ConvChess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lithographs by Irving Amen](http://www.irvingamen.com/lithograph.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - BarakOshri/ConvChess: Predicting Moves in Chess Using Convolutional Neural Networks](https://github.com/BarakOshri/ConvChess)
 
 **[Up one Level](Chess "Chess")**
 

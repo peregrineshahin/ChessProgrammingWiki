@@ -10,7 +10,7 @@ Chess programs running on a [Raspberry Pi](Raspberry_Pi "Raspberry Pi").
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Raspberry Pi Model A](https://www.flickr.com/photos/sparkfun/8747111043/), by [SparkFun Electronics](https://www.flickr.com/people/41898857@N04) , May 13, 2013, [Raspberry Pi from Wikipedia](https://en.wikipedia.org/wiki/Raspberry_Pi)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Raspberry Pi Model A](https://www.flickr.com/photos/sparkfun/8747111043/), by [SparkFun Electronics](https://www.flickr.com/people/41898857@N04) , May 13, 2013, [Raspberry Pi from Wikipedia](https://en.wikipedia.org/wiki/Raspberry_Pi)
 
 ## Pages in category "Pi"
 

@@ -37,8 +37,8 @@ a Dutch computer scientist, application manager and chess programmer. Tony is au
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [24th Open Dutch Computer Chess Championship 2004 - Photo Gallery](http://old.csvn.nl/gallery21.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [2nd International CSVN Tournament 2002](http://old.csvn.nl/gallery17.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [24th Open Dutch Computer Chess Championship 2004 - Photo Gallery](http://old.csvn.nl/gallery21.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [2nd International CSVN Tournament 2002](http://old.csvn.nl/gallery17.html)
 
 **[Up one level](People "People")**
 

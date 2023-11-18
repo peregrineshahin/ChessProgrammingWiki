@@ -19,8 +19,8 @@ a Dutch early computer chess programmer residing in Belgium <a id="cite-note-1" 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CSVNP2 - CSVN supplement site](http://www.csvnsupplementsite.nl/csvnp2.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1979**). *Second Annual European Microcomputer Chess Championship - Results and Authors*. [ICCA Newsletter, Vol. 2, No. 2](ICGA_Journal#2_2 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CSVNP2 - CSVN supplement site](http://www.csvnsupplementsite.nl/csvnp2.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1979**). *Second Annual European Microcomputer Chess Championship - Results and Authors*. [ICCA Newsletter, Vol. 2, No. 2](ICGA_Journal#2_2 "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -36,9 +36,9 @@ Derek Oldbury and his secretary, Betty Solomon, amazed by [Checker Hustler](http
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Derek Edward “DEO” Oldbury (1924-1994) - Find A Grave Memorial](https://www.findagrave.com/memorial/104324907/derek-edward-oldbury)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Derek Oldbury from Wikipedia](https://en.wikipedia.org/wiki/Derek_Oldbury)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Image from [Online Museum of Checkers History](http://www.online-museum-of-checkers-history.com/index.html), [Photos from the Past page 2](http://www.online-museum-of-checkers-history.com/id61.html), submitted by W. Scott, "Author Oldbury shows off his Checker Hustler program, while an amused (and amazed!) secretary Betty looks on", also on the dust cover of Derek Oldbury (**1983**). *The Complete Encyclopaedia of Checkers, Vol. 6: At All Levels*. Draughts & Checker Players Guild
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Derek Edward “DEO” Oldbury (1924-1994) - Find A Grave Memorial](https://www.findagrave.com/memorial/104324907/derek-edward-oldbury)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Derek Oldbury from Wikipedia](https://en.wikipedia.org/wiki/Derek_Oldbury)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Image from [Online Museum of Checkers History](http://www.online-museum-of-checkers-history.com/index.html), [Photos from the Past page 2](http://www.online-museum-of-checkers-history.com/id61.html), submitted by W. Scott, "Author Oldbury shows off his Checker Hustler program, while an amused (and amazed!) secretary Betty looks on", also on the dust cover of Derek Oldbury (**1983**). *The Complete Encyclopaedia of Checkers, Vol. 6: At All Levels*. Draughts & Checker Players Guild
 
 **[Up one level](People "People")**
 

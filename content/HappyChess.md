@@ -39,10 +39,10 @@ Happy-Chess has an own [2D graphics board](2D_Graphics_Board "2D Graphics Board"
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Commodore 64 Emulator - Computer Chess Game Collection - Masterchess v1.2](http://www.spacious-mind.com/html/c64_emu_-_masterchess_v1_2.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Commodore 64 Emulator - Computer Chess Game Collection - Masterchess v1.2](http://www.spacious-mind.com/html/c64_emu_-_masterchess_v1_2.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [64'er Spielesammlung, Volume 4 - C64-Wiki](https://www.c64-wiki.com/wiki/64'er_Spielesammlung#Volume_4)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Commodore 64/128 Old Computer Chess Game Collection - Masterchess](http://www.spacious-mind.com/html/commodore_c64_masterchess.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Commodore 64 Emulator - Computer Chess Game Collection - Masterchess v1.2](http://www.spacious-mind.com/html/c64_emu_-_masterchess_v1_2.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Commodore 64 Emulator - Computer Chess Game Collection - Masterchess v1.2](http://www.spacious-mind.com/html/c64_emu_-_masterchess_v1_2.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [64'er Spielesammlung, Volume 4 - C64-Wiki](https://www.c64-wiki.com/wiki/64'er_Spielesammlung#Volume_4)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Commodore 64/128 Old Computer Chess Game Collection - Masterchess](http://www.spacious-mind.com/html/commodore_c64_masterchess.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
 
 **[Up one level](Engines "Engines")**
 

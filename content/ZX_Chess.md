@@ -52,12 +52,12 @@ According to Artic's co-founder *Richard Turner*, Chris Thornton already program
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Turnier: Schachcomputer vergleich zu alte Computerschach Spiele](https://www.schachcomputer.info/forum/showthread.php?t=1948&page=2) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), [Schachcomputer.info Forum](https://www.schachcomputer.info/forum/portal.php), August 12, 2008 (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chris A. Thornton - World of Spectrum](https://www.worldofspectrum.org/infoseekpub.cgi?regexp=^Chris+A%2e+Thornton$&loadpics=1)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Championship Chess: Software for the Timex Sinclair 1500, Timex Sinclair 1000 and Zx-81 Computers: Thornton, Chris: Amazon.com](https://www.amazon.com/Championship-Chess-Software-Sinclair-Computers/dp/0835907384)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Brendon Gore](https://magazinesfromthepast.fandom.com/wiki/Brendon_Gore) (**1982**). *Interview-One Degree In Artic*. [Your Computer](Your_Computer "Your Computer"), May 1982
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Timex Sinclair - Old Home Computer Chess Games Collection - ZXChess II](http://www.spacious-mind.com/html/timex_sinclair_zxchess_ii.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ZX Chess I for ZX80 (1981)](https://www.mobygames.com/game/zx-chess-i) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Turnier: Schachcomputer vergleich zu alte Computerschach Spiele](https://www.schachcomputer.info/forum/showthread.php?t=1948&page=2) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), [Schachcomputer.info Forum](https://www.schachcomputer.info/forum/portal.php), August 12, 2008 (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chris A. Thornton - World of Spectrum](https://www.worldofspectrum.org/infoseekpub.cgi?regexp=^Chris+A%2e+Thornton$&loadpics=1)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Championship Chess: Software for the Timex Sinclair 1500, Timex Sinclair 1000 and Zx-81 Computers: Thornton, Chris: Amazon.com](https://www.amazon.com/Championship-Chess-Software-Sinclair-Computers/dp/0835907384)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Brendon Gore](https://magazinesfromthepast.fandom.com/wiki/Brendon_Gore) (**1982**). *Interview-One Degree In Artic*. [Your Computer](Your_Computer "Your Computer"), May 1982
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Timex Sinclair - Old Home Computer Chess Games Collection - ZXChess II](http://www.spacious-mind.com/html/timex_sinclair_zxchess_ii.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ZX Chess I for ZX80 (1981)](https://www.mobygames.com/game/zx-chess-i) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
 
 **[Up one Level](Engines "Engines")**
 

@@ -43,9 +43,9 @@ The Excellence was announced by Fidelity as "over 2000 rated machine" that would
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Flickr - Fotosharing - 2. Fidelity](https://www.flickr.com/photos/10261668@N05/albums/72157600922170604/page2) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Editors (**1985**). *1985 U.S. Open Championship - Hollywood, Florida - August 4-16, 1985*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1985, Vol. 3, No. 2
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Fidelity vs. ICD/Your Move Lawsuit... The Epic](https://www.stmintz.com/ccc/index.php?id=133998) by [Steven Schwartz](Steven_Schwartz "Steven Schwartz"), [CCC](CCC "CCC"), October 19, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Flickr - Fotosharing - 2. Fidelity](https://www.flickr.com/photos/10261668@N05/albums/72157600922170604/page2) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Editors (**1985**). *1985 U.S. Open Championship - Hollywood, Florida - August 4-16, 1985*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1985, Vol. 3, No. 2
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Fidelity vs. ICD/Your Move Lawsuit... The Epic](https://www.stmintz.com/ccc/index.php?id=133998) by [Steven Schwartz](Steven_Schwartz "Steven Schwartz"), [CCC](CCC "CCC"), October 19, 2000
 
 **[Up one level](Engines "Engines")**
 

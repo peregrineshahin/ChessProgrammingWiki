@@ -45,9 +45,9 @@ Since 2012, Sjakk was ported to [C++](Cpp "Cpp"), as Sjakk v2.0 released on Apri
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo by [Shaun Press](Shaun_Press "Shaun Press"), [41st Chess Olympiad](https://en.wikipedia.org/wiki/41st_Chess_Olympiad) ([Sjakkolympiaden 2014](http://no.wikipedia.org/wiki/Sjakkolympiaden_2014)) in [Tromsø](https://en.wikipedia.org/wiki/Troms%C3%B8), [Norway](https://en.wikipedia.org/wiki/Norway)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sjakk 2.1 - ReadMe.txt](http://www.pvv.ntnu.no/~jacobbl/jacob/Sjakk/ReadMe.txt)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Magnus Carlsen from Wikipedia](https://en.wikipedia.org/wiki/Magnus_Carlsen)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo by [Shaun Press](Shaun_Press "Shaun Press"), [41st Chess Olympiad](https://en.wikipedia.org/wiki/41st_Chess_Olympiad) ([Sjakkolympiaden 2014](http://no.wikipedia.org/wiki/Sjakkolympiaden_2014)) in [Tromsø](https://en.wikipedia.org/wiki/Troms%C3%B8), [Norway](https://en.wikipedia.org/wiki/Norway)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sjakk 2.1 - ReadMe.txt](http://www.pvv.ntnu.no/~jacobbl/jacob/Sjakk/ReadMe.txt)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Magnus Carlsen from Wikipedia](https://en.wikipedia.org/wiki/Magnus_Carlsen)
 
 **[Up one Level](Engines "Engines")**
 

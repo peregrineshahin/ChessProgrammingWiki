@@ -106,12 +106,12 @@ Bb7 18.Rad1 Kh8 19.Rfe1 Qf5 20.Bc1 f6 21.Qg3 Rae8 22.Ba3 Rg8 23.exf6 gxf6 24.Rxe
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pandora](https://en.wikipedia.org/wiki/Pandora) opens the [pithos](https://en.wikipedia.org/wiki/Pithos) given to her by [Zeus](https://en.wikipedia.org/wiki/Zeus), thus releasing all the bad things of the world, by [James Gillray](https://en.wikipedia.org/wiki/James_Gillray), published 1809, [Pandora's box from Wikipedia](https://en.wikipedia.org/wiki/Pandora%27s_box)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Balázs Csanád Csáji's Homepage - Software Development - Pandora 0.44](https://igor.xen.emi.sztaki.hu/~csaji/#Programs)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Pandora Chess v0.44](http://www.talkchess.com/forum/viewtopic.php?t=50874&start=1) by [Ruxy Sylwyka](http://www.talkchess.com/forum/profile.php?mode=viewprofile&u=881), [CCC](CCC "CCC"), January 12, 2014
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MASPV 2001 - PGN](http://titanic.nyme.hu/~wyx/maspv2001/indexeng.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [MASPV 2002 - PGN](http://titanic.nyme.hu/~wyx/maspv2002/indexeng.htm)
- 6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [MASPV 2002 photos](http://titanic.nyme.hu/~wyx/maspv2002/images.htm) 
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pandora](https://en.wikipedia.org/wiki/Pandora) opens the [pithos](https://en.wikipedia.org/wiki/Pithos) given to her by [Zeus](https://en.wikipedia.org/wiki/Zeus), thus releasing all the bad things of the world, by [James Gillray](https://en.wikipedia.org/wiki/James_Gillray), published 1809, [Pandora's box from Wikipedia](https://en.wikipedia.org/wiki/Pandora%27s_box)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Balázs Csanád Csáji's Homepage - Software Development - Pandora 0.44](https://igor.xen.emi.sztaki.hu/~csaji/#Programs)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Pandora Chess v0.44](http://www.talkchess.com/forum/viewtopic.php?t=50874&start=1) by [Ruxy Sylwyka](http://www.talkchess.com/forum/profile.php?mode=viewprofile&u=881), [CCC](CCC "CCC"), January 12, 2014
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MASPV 2001 - PGN](http://titanic.nyme.hu/~wyx/maspv2001/indexeng.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [MASPV 2002 - PGN](http://titanic.nyme.hu/~wyx/maspv2002/indexeng.htm)
+ 6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [MASPV 2002 photos](http://titanic.nyme.hu/~wyx/maspv2002/images.htm) 
 
 **[Up one level](Engines "Engines")**
 

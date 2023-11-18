@@ -21,11 +21,11 @@ as well as author of [Ultra Chess](Ultra_Chess "Ultra Chess") (Aackosoft, 1985) 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Brendon Gore](https://magazinesfromthepast.fandom.com/wiki/Brendon_Gore) (**1982**). *[Interview-One Degree In Artic](https://archive.org/details/YourComputer_198205/page/n26/mode/1up)*. [Your Computer](Your_Computer "Your Computer"), May 1982
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Championship Chess: Software for the Timex Sinclair 1500, Timex Sinclair 1000 and Zx-81 Computers: Thornton, Chris: Amazon.com](https://www.amazon.com/Championship-Chess-Software-Sinclair-Computers/dp/0835907384)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Championship Chess – Timex/Sinclair Computers](https://www.timexsinclair.com/product/timeware-chess/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ultra Chess (1985, MSX, Aackosoft) | Generation MSX](https://www.generation-msx.nl/software/aackosoft/ultra-chess/2408/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chimera (video game) from Wikipedia](https://en.wikipedia.org/wiki/Chimera_%28video_game%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Brendon Gore](https://magazinesfromthepast.fandom.com/wiki/Brendon_Gore) (**1982**). *[Interview-One Degree In Artic](https://archive.org/details/YourComputer_198205/page/n26/mode/1up)*. [Your Computer](Your_Computer "Your Computer"), May 1982
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Championship Chess: Software for the Timex Sinclair 1500, Timex Sinclair 1000 and Zx-81 Computers: Thornton, Chris: Amazon.com](https://www.amazon.com/Championship-Chess-Software-Sinclair-Computers/dp/0835907384)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Championship Chess – Timex/Sinclair Computers](https://www.timexsinclair.com/product/timeware-chess/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ultra Chess (1985, MSX, Aackosoft) | Generation MSX](https://www.generation-msx.nl/software/aackosoft/ultra-chess/2408/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chimera (video game) from Wikipedia](https://en.wikipedia.org/wiki/Chimera_%28video_game%29)
 
 **[Up one level](People "People")**
 

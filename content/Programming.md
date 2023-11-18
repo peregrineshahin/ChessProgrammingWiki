@@ -195,12 +195,12 @@ This is about general purpose [programming](https://en.wikipedia.org/wiki/Comput
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Electronic Delay Storage Automatic Calculator from Wikipedia](https://en.wikipedia.org/wiki/Electronic_Delay_Storage_Automatic_Calculator)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Considered harmful from Wikipedia](https://en.wikipedia.org/wiki/Considered_harmful)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Coding Horror: I'd Consider That Harmful, Too](http://www.codinghorror.com/blog/2007/10/id-consider-that-harmful-too.html) by [Jeff Atwood](https://en.wikipedia.org/wiki/Jeff_Atwood), October 25, 2007
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Art of Computer Programming from Wikipedia](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [William Cook](http://www2.isye.gatech.edu/~wcook/) (**2009**). *Fifty-Plus Years of Combinatorial Integer Programming*. [pdf](http://www2.isye.gatech.edu/~wcook/papers/ip50.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Barbara Hecker's YouTube channel](http://www.talkchess.com/forum/viewtopic.php?t=48599) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), July 09, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Electronic Delay Storage Automatic Calculator from Wikipedia](https://en.wikipedia.org/wiki/Electronic_Delay_Storage_Automatic_Calculator)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Considered harmful from Wikipedia](https://en.wikipedia.org/wiki/Considered_harmful)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Coding Horror: I'd Consider That Harmful, Too](http://www.codinghorror.com/blog/2007/10/id-consider-that-harmful-too.html) by [Jeff Atwood](https://en.wikipedia.org/wiki/Jeff_Atwood), October 25, 2007
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Art of Computer Programming from Wikipedia](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [William Cook](http://www2.isye.gatech.edu/~wcook/) (**2009**). *Fifty-Plus Years of Combinatorial Integer Programming*. [pdf](http://www2.isye.gatech.edu/~wcook/papers/ip50.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Barbara Hecker's YouTube channel](http://www.talkchess.com/forum/viewtopic.php?t=48599) by [Julien Marcel](Julien_Marcel "Julien Marcel"), [CCC](CCC "CCC"), July 09, 2013
 
 **[Up one Level](Home "Home")**
 

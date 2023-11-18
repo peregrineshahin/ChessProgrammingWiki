@@ -59,10 +59,10 @@ Kxe5 52.Kb3 Kxd5 53.Ka4 Kc4 54.Kxa5 Kc5 55.b4+ Kd5 56.b5 Kd6 57.b6 Kd7 58.Ka6 Kc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1984**). *Move from the East*. Report of the [WMCCC 1983](WMCCC_1983 "WMCCC 1983"), [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), January 1984, [Publication Archive 1984](http://www.chesscomputeruk.com/html/publication_archive_1984.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [AppleBox Library of IBS Interface Cards AP20 - AppleBox Section](http://www.appleii-box.de/APPLE2/IBSKARTEN/appleboxAppleIIIBSAP20.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Budapest 1983 - Chess - Round 2 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=2&id=8)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**2005**). *Die Entwicklung der Spielprogrammierung: Von John von Neumann bis zu den hochparallelen Schachmaschinen*. [slides as pdf](http://www.informatik.hu-berlin.de/studium/ringvorlesung/ss05/slides/05-06-02.pdf), Themen der Informatik im historischen Kontext Ringvorlesung an der [HU Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin), 02.06.2005 (English paper, German title)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1984**). *Move from the East*. Report of the [WMCCC 1983](WMCCC_1983 "WMCCC 1983"), [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), January 1984, [Publication Archive 1984](http://www.chesscomputeruk.com/html/publication_archive_1984.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [AppleBox Library of IBS Interface Cards AP20 - AppleBox Section](http://www.appleii-box.de/APPLE2/IBSKARTEN/appleboxAppleIIIBSAP20.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Budapest 1983 - Chess - Round 2 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=2&id=8)
 
 **[Up one level](Engines "Engines")**
 

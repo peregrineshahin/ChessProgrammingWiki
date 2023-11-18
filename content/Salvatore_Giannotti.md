@@ -32,7 +32,7 @@ and as computer chess programmer author of the [WinBoard](WinBoard "WinBoard") c
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Salvatore Giannotti | LinkedIn](https://www.linkedin.com/in/salvatoregiannotti)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Salvatore Giannotti | LinkedIn](https://www.linkedin.com/in/salvatoregiannotti)
 
 **[Up one level](People "People")**
 

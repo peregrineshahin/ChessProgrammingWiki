@@ -90,10 +90,10 @@ Kf6 58.Kg4 g5 59.Nf7 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Great Spotted Kiwi](https://en.wikipedia.org/wiki/Great_spotted_kiwi) (immature and adult male) by [John Gerrard Keulemans](https://en.wikipedia.org/wiki/John_Gerrard_Keulemans), [Ornithological Miscellany. Vol. 1](https://archive.org/stream/ornithologicalmi01rowl#page/n42/mode/1up), 1876
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Chess](https://walkofmind.com/programming/chess/chess.htm) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kiwi 0.1b](https://www.stmintz.com/ccc/index.php?id=388169) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti"), [CCC](CCC "CCC"), September 18, 2004
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computer Chess Cup 2005 - tutte le partite in formato PGN](https://walkofmind.com/programming/chess/ccc2005.htm) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Great Spotted Kiwi](https://en.wikipedia.org/wiki/Great_spotted_kiwi) (immature and adult male) by [John Gerrard Keulemans](https://en.wikipedia.org/wiki/John_Gerrard_Keulemans), [Ornithological Miscellany. Vol. 1](https://archive.org/stream/ornithologicalmi01rowl#page/n42/mode/1up), 1876
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Chess](https://walkofmind.com/programming/chess/chess.htm) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kiwi 0.1b](https://www.stmintz.com/ccc/index.php?id=388169) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti"), [CCC](CCC "CCC"), September 18, 2004
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computer Chess Cup 2005 - tutte le partite in formato PGN](https://walkofmind.com/programming/chess/ccc2005.htm) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
 
 **[Up one Level](Engines "Engines")**
 

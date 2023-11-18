@@ -37,10 +37,10 @@ He is author the [open source chess engines](Category:Open_Source "Category:Open
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Antonio Torrecillas González | LinkedIn](https://www.linkedin.com/in/antonio-torrecillas-gonz%C3%A1lez-68264212/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Not to confused with Catalan chess master and math professor [Antonio Torrecillas Martínez](https://ratings.fide.com/card.phtml?event=2200392)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Antonio Torrecillas González | LinkedIn](https://www.linkedin.com/in/antonio-torrecillas-gonz%C3%A1lez-68264212/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Antonio Torrecillas González | LinkedIn](https://www.linkedin.com/in/antonio-torrecillas-gonz%C3%A1lez-68264212/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Not to confused with Catalan chess master and math professor [Antonio Torrecillas Martínez](https://ratings.fide.com/card.phtml?event=2200392)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Antonio Torrecillas González | LinkedIn](https://www.linkedin.com/in/antonio-torrecillas-gonz%C3%A1lez-68264212/)
 
 **[Up one Level](People "People")**
 

@@ -51,9 +51,9 @@ a chess program by [Stephen F. Becker](Stephen_F._Becker "Stephen F. Becker") fr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [La belle sortie](https://commons.wikimedia.org/wiki/File:La_belle_sortie_(4956527450).jpg), Gros plan sur la sortie de Métro (censée représenter un insecte), [Art Nouveau](https://en.wikipedia.org/wiki/Art_Nouveau) by [Hector Guimard](https://en.wikipedia.org/wiki/Hector_Guimard), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ben Mittman](Ben_Mittman "Ben Mittman") (**1977**). *A Brief History of Computer Chess Tournaments: 1970-1975*. in [Peter W. Frey](Peter_W._Frey "Peter W. Frey") (ed.) [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Levy](David_Levy "David Levy") (ed.) (**1988**). *[Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")*. Chapter 9.1 Games from the ACM Tournaments
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [La belle sortie](https://commons.wikimedia.org/wiki/File:La_belle_sortie_(4956527450).jpg), Gros plan sur la sortie de Métro (censée représenter un insecte), [Art Nouveau](https://en.wikipedia.org/wiki/Art_Nouveau) by [Hector Guimard](https://en.wikipedia.org/wiki/Hector_Guimard), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ben Mittman](Ben_Mittman "Ben Mittman") (**1977**). *A Brief History of Computer Chess Tournaments: 1970-1975*. in [Peter W. Frey](Peter_W._Frey "Peter W. Frey") (ed.) [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Levy](David_Levy "David Levy") (ed.) (**1988**). *[Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")*. Chapter 9.1 Games from the ACM Tournaments
 
 **[Up one Level](Engines "Engines")**
 

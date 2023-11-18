@@ -142,19 +142,19 @@ With the advent of [NNUE](NNUE "NNUE"), [Dietrich Kappe](Dietrich_Kappe "Dietric
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Line art drawing of a man in a toga by [Scott Foresman](https://en.wikipedia.org/wiki/Scott_Foresman), [Toga from Wikipedia](https://en.wikipedia.org/wiki/Toga)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Toga Clone](https://www.stmintz.com/ccc/index.php?id=415992) by [Karl-Heinz Söntges](index.php?title=Karl-Heinz_S%C3%B6ntges&action=edit&redlink=1 "Karl-Heinz Söntges (page does not exist)"), [CCC](CCC "CCC"), March 09, 2005
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [A statement from the "Author" of Toga II](https://www.stmintz.com/ccc/index.php?id=416548) by [Thomas Gaksch](Thomas_Gaksch "Thomas Gaksch"), [CCC](CCC "CCC"), March 13, 2005
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fruit Chess Engine by Fabien Letouzey](http://arctrix.com/nas/chess/fruit/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Toga II 1.4 beta5c](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=19109&start=1) by [Denis P. Mendoza](Denis_Mendoza "Denis Mendoza"), [CCC](CCC "CCC"), January 21, 2008
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Toga II 1.4.1SE 4CPU in CCRL 40/15](http://ccrl.chessdom.com/ccrl/4040/cgi/engine_details.cgi?match_length=30&each_game=1&print=Details&each_game=1&eng=Toga%20II%201.4.1SE%204CPU#Toga_II_1_4_1SE_4CPU)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Toga CMLX 1.4 beta 5d released - Rybka in danger?](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=3329) by [Vempele](Teemu_Pudas "Teemu Pudas"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), February 26, 2008
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Toga CMLX 1.4.5e !!NOT BETA!! - Rybka in danger?](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=11629) by [Vempele](Teemu_Pudas "Teemu Pudas"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), July 05, 2009
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Toga CMLX 1.4.5e](http://ccrl.chessdom.com/ccrl/404FRC/cgi/engine_details.cgi?print=Details&eng=Toga%20CMLX%201.4.5e) in [CCRL 40/2 FRC](CCRL "CCRL")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Linux port of newer versions of TogaII](http://www.talkchess.com/forum/viewtopic.php?t=24108) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh"), [CCC](CCC "CCC"), October 01, 2008
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Toga Returns 1.00](http://www.talkchess.com/forum/viewtopic.php?t=46548) by [Ben Tennison](index.php?title=Ben_Tennison&action=edit&redlink=1 "Ben Tennison (page does not exist)"), December 23, 2012
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Toga III 0.4 NNUE](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75027) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), September 07, 2020
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [GitHub - dkappe/TogaIII at nnue](https://github.com/dkappe/TogaIII/tree/nnue) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Line art drawing of a man in a toga by [Scott Foresman](https://en.wikipedia.org/wiki/Scott_Foresman), [Toga from Wikipedia](https://en.wikipedia.org/wiki/Toga)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Toga Clone](https://www.stmintz.com/ccc/index.php?id=415992) by [Karl-Heinz Söntges](index.php?title=Karl-Heinz_S%C3%B6ntges&action=edit&redlink=1 "Karl-Heinz Söntges (page does not exist)"), [CCC](CCC "CCC"), March 09, 2005
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [A statement from the "Author" of Toga II](https://www.stmintz.com/ccc/index.php?id=416548) by [Thomas Gaksch](Thomas_Gaksch "Thomas Gaksch"), [CCC](CCC "CCC"), March 13, 2005
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fruit Chess Engine by Fabien Letouzey](http://arctrix.com/nas/chess/fruit/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Toga II 1.4 beta5c](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=19109&start=1) by [Denis P. Mendoza](Denis_Mendoza "Denis Mendoza"), [CCC](CCC "CCC"), January 21, 2008
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Toga II 1.4.1SE 4CPU in CCRL 40/15](http://ccrl.chessdom.com/ccrl/4040/cgi/engine_details.cgi?match_length=30&each_game=1&print=Details&each_game=1&eng=Toga%20II%201.4.1SE%204CPU#Toga_II_1_4_1SE_4CPU)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Toga CMLX 1.4 beta 5d released - Rybka in danger?](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=3329) by [Vempele](Teemu_Pudas "Teemu Pudas"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), February 26, 2008
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Toga CMLX 1.4.5e !!NOT BETA!! - Rybka in danger?](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=11629) by [Vempele](Teemu_Pudas "Teemu Pudas"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), July 05, 2009
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Toga CMLX 1.4.5e](http://ccrl.chessdom.com/ccrl/404FRC/cgi/engine_details.cgi?print=Details&eng=Toga%20CMLX%201.4.5e) in [CCRL 40/2 FRC](CCRL "CCRL")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Linux port of newer versions of TogaII](http://www.talkchess.com/forum/viewtopic.php?t=24108) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh"), [CCC](CCC "CCC"), October 01, 2008
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Toga Returns 1.00](http://www.talkchess.com/forum/viewtopic.php?t=46548) by [Ben Tennison](index.php?title=Ben_Tennison&action=edit&redlink=1 "Ben Tennison (page does not exist)"), December 23, 2012
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Toga III 0.4 NNUE](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75027) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), September 07, 2020
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [GitHub - dkappe/TogaIII at nnue](https://github.com/dkappe/TogaIII/tree/nnue) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe")
 
 **[Up one level](Fruit "Fruit")**
 

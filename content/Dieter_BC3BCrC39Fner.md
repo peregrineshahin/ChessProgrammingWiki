@@ -54,12 +54,12 @@ After some chess programming gaps, he started the development of his chess engin
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Steiner Research Group](http://www.uni-konstanz.de/chemie/~ag_steiner/), [Photochemical Kinetics](https://en.wikipedia.org/wiki/Chemical_kinetics)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Meet the Authors](http://www.rebel.nl/authors.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Steiner Research Group](http://www.uni-konstanz.de/chemie/~ag_steiner/), [Photochemical Kinetics](https://en.wikipedia.org/wiki/Chemical_kinetics)
    and [Spin Chemistry](https://en.wikipedia.org/wiki/Spin_chemistry), [Universität Konstanz](https://en.wikipedia.org/wiki/University_of_Konstanz)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lars Bremer](Lars_Bremer "Lars Bremer") (**2004**). *Das Rückwärts-Genie*. [CSS 4/04](Computerschach_und_Spiele "Computerschach und Spiele") (German), [pdf](http://www.lbremer.de/artikel/Yace.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [FSV personal chess service - Paderborn 2003 Pics](https://web.archive.org/web/20041103061005fw_/http://www.fsv.de/chess-server/Pics/Paderborn2003/baderborn2003a.htm) by [Torsten Schoop](index.php?title=Torsten_Schoop&action=edit&redlink=1 "Torsten Schoop (page does not exist)") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)), Victory Ceremony: Dieter Bürssner, 2nd place
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Dieter Bürßner found a game finished in a [fifty-move rule](Fifty-move_Rule "Fifty-move Rule") draw, where [castling](Castling "Castling") occurred during the last fifty moves
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lars Bremer](Lars_Bremer "Lars Bremer") (**2004**). *Das Rückwärts-Genie*. [CSS 4/04](Computerschach_und_Spiele "Computerschach und Spiele") (German), [pdf](http://www.lbremer.de/artikel/Yace.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [FSV personal chess service - Paderborn 2003 Pics](https://web.archive.org/web/20041103061005fw_/http://www.fsv.de/chess-server/Pics/Paderborn2003/baderborn2003a.htm) by [Torsten Schoop](index.php?title=Torsten_Schoop&action=edit&redlink=1 "Torsten Schoop (page does not exist)") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)), Victory Ceremony: Dieter Bürssner, 2nd place
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Dieter Bürßner found a game finished in a [fifty-move rule](Fifty-move_Rule "Fifty-move Rule") draw, where [castling](Castling "Castling") occurred during the last fifty moves
 
 **[Up one level](People "People")**
 

@@ -149,9 +149,9 @@ Killer moves work on the supposition that most of the moves do not change the si
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> One of a series of images from the [Illustrated London News](https://en.wikipedia.org/wiki/The_Illustrated_London_News) for October 13, 1888 carrying the overall caption, "With the Vigilance Committee in the East End". This specific image is entitled "A Suspicious Character", [Jack the Ripper from Wikipedia](https://en.wikipedia.org/wiki/Jack_the_Ripper), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Countermove Heuristic*. [ICCA Journal, Vol. 15, No. 1](ICGA_Journal#15_1 "ICGA Journal"), pp. 8, The killer heuristic
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Brian Auger-und-The-Trinity-und-Julie-Driscoll The-Mod-years](http://www.green-brain-krautrock.de/BRIAN-AUGER-und-THE-TRINITY-und-JULIE-DRISCOLL-The-Mod-years-CD-MadeInGermany_17962.html)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> One of a series of images from the [Illustrated London News](https://en.wikipedia.org/wiki/The_Illustrated_London_News) for October 13, 1888 carrying the overall caption, "With the Vigilance Committee in the East End". This specific image is entitled "A Suspicious Character", [Jack the Ripper from Wikipedia](https://en.wikipedia.org/wiki/Jack_the_Ripper), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Countermove Heuristic*. [ICCA Journal, Vol. 15, No. 1](ICGA_Journal#15_1 "ICGA Journal"), pp. 8, The killer heuristic
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Brian Auger-und-The-Trinity-und-Julie-Driscoll The-Mod-years](http://www.green-brain-krautrock.de/BRIAN-AUGER-und-THE-TRINITY-und-JULIE-DRISCOLL-The-Mod-years-CD-MadeInGermany_17962.html)
 
 **[Up one Level](Move_Ordering "Move Ordering")**
 

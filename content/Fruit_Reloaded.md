@@ -40,13 +40,13 @@ an independent [fork](https://en.wikipedia.org/wiki/Fork_%28software_development
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Projection, 1994 in [Samual Bak - The Fruit of Knowledge](https://static1.squarespace.com/static/594044bd3a041171e0426683/t/5a12fdbec83025eab3732a02/1511194070554/Fruit+of+Knowledge1995.pdf) (pdf) from the [Pucker Gallery - Samuel Bak](https://www.puckergallery.com/artists/#/samuel-bak/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fruit-reloaded-public/readme.txt at master · Akusari/Fruit-reloaded-public · GitHub](https://github.com/Akusari/Fruit-reloaded-public/blob/master/readme.txt)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Fruit 1.0 anniversary](http://www.talkchess.com/forum/viewtopic.php?t=51638) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), March 17, 2014
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fruit-reloaded-public/LICENSE at master · Akusari/Fruit-reloaded-public · GitHub](https://github.com/Akusari/Fruit-reloaded-public/blob/master/LICENSE)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Akusari/Fruit-reloaded-public · GitHub](https://github.com/Akusari/Fruit-reloaded-public)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Fruit Reloaded - Computer Chess Programming](http://www.chessprogramming.net/fruit-reloaded/) hosted by [Steve Maughan](Steve_Maughan "Steve Maughan")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The Cat in the Hat - Wikipedia](https://en.wikipedia.org/wiki/The_Cat_in_the_Hat)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Projection, 1994 in [Samual Bak - The Fruit of Knowledge](https://static1.squarespace.com/static/594044bd3a041171e0426683/t/5a12fdbec83025eab3732a02/1511194070554/Fruit+of+Knowledge1995.pdf) (pdf) from the [Pucker Gallery - Samuel Bak](https://www.puckergallery.com/artists/#/samuel-bak/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fruit-reloaded-public/readme.txt at master · Akusari/Fruit-reloaded-public · GitHub](https://github.com/Akusari/Fruit-reloaded-public/blob/master/readme.txt)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Fruit 1.0 anniversary](http://www.talkchess.com/forum/viewtopic.php?t=51638) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), March 17, 2014
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fruit-reloaded-public/LICENSE at master · Akusari/Fruit-reloaded-public · GitHub](https://github.com/Akusari/Fruit-reloaded-public/blob/master/LICENSE)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Akusari/Fruit-reloaded-public · GitHub](https://github.com/Akusari/Fruit-reloaded-public)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fruit Reloaded - Computer Chess Programming](http://www.chessprogramming.net/fruit-reloaded/) hosted by [Steve Maughan](Steve_Maughan "Steve Maughan")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Cat in the Hat - Wikipedia](https://en.wikipedia.org/wiki/The_Cat_in_the_Hat)
 
 **[Up one Level](Fruit "Fruit")**
 

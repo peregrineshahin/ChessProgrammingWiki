@@ -84,8 +84,8 @@ and spent some time as part of the [CCRL](CCRL "CCRL") testing group, but though
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo Courtesy Martin Thoresen
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Top Chess Engines Competition - Wikipedia](https://en.wikipedia.org/wiki/Top_Chess_Engine_Championship)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo Courtesy Martin Thoresen
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Top Chess Engines Competition - Wikipedia](https://en.wikipedia.org/wiki/Top_Chess_Engine_Championship)
 
 **[Up one level](People "People")**
 

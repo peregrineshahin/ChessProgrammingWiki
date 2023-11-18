@@ -85,13 +85,13 @@ end;
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [George Dyson](https://en.wikipedia.org/wiki/George_Dyson_%28science_historian%29) *Early experiments in digital evolution*. From the column [Retrospect](http://makezine.com/dyson/) by [George Dyson](https://en.wikipedia.org/wiki/George_Dyson_%28science_historian%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nils Barricelli's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=493)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *[MASTER at IFIPS](http://www.chilton-computing.org.uk/acl/applications/cocoa/p008.htm)*. Excerpt from: The Machine Plays Chess? from [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"), hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Barricellian symbioorganisms](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/p004.htm#index78) in [Alex Bell](Alex_Bell "Alex Bell") (**1972**). *[Games Playing with Computers](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/overview.htm)*. [Allen & Unwin](https://en.wikipedia.org/wiki/Allen_%26_Unwin), ISBN-13: 978-0080212227, hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Darwin among the Machines - Wikipedia](https://en.wikipedia.org/wiki/Darwin_among_the_Machines)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Barricelli: Built with Processing](http://cultureandcommunication.org/galloway/Barricelli/) by [Alexander R. Galloway](https://en.wikipedia.org/wiki/Alexander_R._Galloway)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Leviathan](https://en.wikipedia.org/wiki/Leviathan_%28book%29) by [Thomas Hobbes](https://en.wikipedia.org/wiki/Thomas_Hobbes)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [George Dyson](https://en.wikipedia.org/wiki/George_Dyson_%28science_historian%29) *Early experiments in digital evolution*. From the column [Retrospect](http://makezine.com/dyson/) by [George Dyson](https://en.wikipedia.org/wiki/George_Dyson_%28science_historian%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nils Barricelli's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=493)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alex Bell](Alex_Bell "Alex Bell") (**1978**). *[MASTER at IFIPS](http://www.chilton-computing.org.uk/acl/applications/cocoa/p008.htm)*. Excerpt from: The Machine Plays Chess? from [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"), hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Barricellian symbioorganisms](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/p004.htm#index78) in [Alex Bell](Alex_Bell "Alex Bell") (**1972**). *[Games Playing with Computers](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/overview.htm)*. [Allen & Unwin](https://en.wikipedia.org/wiki/Allen_%26_Unwin), ISBN-13: 978-0080212227, hosted by [Rutherford Appleton Laboratory (RAL)](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Darwin among the Machines - Wikipedia](https://en.wikipedia.org/wiki/Darwin_among_the_Machines)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Barricelli: Built with Processing](http://cultureandcommunication.org/galloway/Barricelli/) by [Alexander R. Galloway](https://en.wikipedia.org/wiki/Alexander_R._Galloway)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Leviathan](https://en.wikipedia.org/wiki/Leviathan_%28book%29) by [Thomas Hobbes](https://en.wikipedia.org/wiki/Thomas_Hobbes)
 
 **[Up one level](People "People")**
 

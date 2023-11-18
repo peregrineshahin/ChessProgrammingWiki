@@ -232,15 +232,15 @@ Nxc1 59.g4 Ke8 60.f4 Nd3 61.f5 Nc5 62.Kg2 Nb3 63.Kf3 Nd4+ 64.Kf4 Kf7 65.h4 Nb3
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr. Hans Zarkov - Flash Gordon Wiki](http://flashgordon.wikia.com/wiki/Dr._Hans_Zarkov), image courtesy [Danny Horn](http://community.wikia.com/wiki/User:Toughpigs)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zarkov Development History](http://john.stanback.net/zarkov/zarkov_history.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [How Zarkov Plays Chess](http://john.stanback.net/zarkov/zarkov_methods.html) 5. Learn Table
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Bookup | Chess Openings | Chess Opening Software](http://www.bookup.com/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Zarkov 5 Millenium Chess System](http://www.talkchess.com/forum/viewtopic.php?t=64355) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), June 21, 2017
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a>  [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) from [Computerschaak/Downloads/Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=13&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [BELCT 2001 discussion of the game zarkov-yace](https://www.stmintz.com/ccc/index.php?id=192011) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), October 05, 2001
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Wasp 1.01 x64 by John Stanback released ...](http://www.talkchess.com/forum/viewtopic.php?t=60550) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), June 22, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr. Hans Zarkov - Flash Gordon Wiki](http://flashgordon.wikia.com/wiki/Dr._Hans_Zarkov), image courtesy [Danny Horn](http://community.wikia.com/wiki/User:Toughpigs)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zarkov Development History](http://john.stanback.net/zarkov/zarkov_history.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [How Zarkov Plays Chess](http://john.stanback.net/zarkov/zarkov_methods.html) 5. Learn Table
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Bookup | Chess Openings | Chess Opening Software](http://www.bookup.com/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Zarkov 5 Millenium Chess System](http://www.talkchess.com/forum/viewtopic.php?t=64355) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), June 21, 2017
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a>  [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) from [Computerschaak/Downloads/Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=13&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [BELCT 2001 discussion of the game zarkov-yace](https://www.stmintz.com/ccc/index.php?id=192011) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), October 05, 2001
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Wasp 1.01 x64 by John Stanback released ...](http://www.talkchess.com/forum/viewtopic.php?t=60550) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), June 22, 2016
 
 **[Up one Level](Engines "Engines")**
 

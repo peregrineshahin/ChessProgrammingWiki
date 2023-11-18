@@ -31,11 +31,11 @@ a German electrical engineer and former chess programmer. When affiliated with [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from "Das Erfurter Entwicklungsteam anno 1983" [VEB Mikroelektronik Erfurt](http://www.schach-computer.info/wiki/index.php/VEB_Mikroelektronik_Erfurt) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess-Master](http://www.schach-computer.info/wiki/index.php/Chess-Master) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess-Master's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=481)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess-Master Diamond](http://www.schach-computer.info/wiki/index.php/Chess-Master_Diamond) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [OEM und Sonstiges - Schachcomputer "ChessMaster"](http://www.robotron-net.de/sonstiges.html#CM) from [Robotron-net.de](http://www.robotron-net.de/) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from "Das Erfurter Entwicklungsteam anno 1983" [VEB Mikroelektronik Erfurt](http://www.schach-computer.info/wiki/index.php/VEB_Mikroelektronik_Erfurt) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess-Master](http://www.schach-computer.info/wiki/index.php/Chess-Master) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess-Master's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=481)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess-Master Diamond](http://www.schach-computer.info/wiki/index.php/Chess-Master_Diamond) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [OEM und Sonstiges - Schachcomputer "ChessMaster"](http://www.robotron-net.de/sonstiges.html#CM) from [Robotron-net.de](http://www.robotron-net.de/) (German)
 
 **[Up one level](People "People")**
 

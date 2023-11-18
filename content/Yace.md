@@ -151,13 +151,13 @@ g3+ 37.Kxg3 Ra6 38.Rg5 Be6 39.Bxe6 Rxe6 40.Rxe6 Kf7 41.Rge5 b6 42.Kg4 Kg7
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lars Bremer](Lars_Bremer "Lars Bremer") (**2004**). *Das Rückwärts-Genie*. [CSS 4/04](Computerschach_und_Spiele "Computerschach und Spiele") (German), [pdf](http://www.lbremer.de/artikel/Yace.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Yace 0.99.50 available for download](https://www.stmintz.com/ccc/index.php?id=177410) by [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner"), [CCC](CCC "CCC"), June 28, 2001
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Yace Archive Page](https://sites.google.com/site/marochess/yace), yace\_ReadMe.pdf
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Any programs besides Yace and Patzer that can use bitbase files](https://www.stmintz.com/ccc/index.php?id=371131) by [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner"), [CCC](CCC "CCC"), June 18, 2004
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [FSV Netzwerk GmbH - Gesellschafter](https://web.archive.org/web/20090306190203/http://fsv.de:80/founders.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Photo by [Roland Pfister](Roland_Pfister "Roland Pfister"), [FSV - About us](https://web.archive.org/web/20180713110850/http://chess.fsv.de/aboutus/aboutus.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [FSV personal chess service - Paderborn 2003 Pics](https://web.archive.org/web/20041103061005fw_/http://www.fsv.de/chess-server/Pics/Paderborn2003/baderborn2003a.htm) by [Torsten Schoop](index.php?title=Torsten_Schoop&action=edit&redlink=1 "Torsten Schoop (page does not exist)") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lars Bremer](Lars_Bremer "Lars Bremer") (**2004**). *Das Rückwärts-Genie*. [CSS 4/04](Computerschach_und_Spiele "Computerschach und Spiele") (German), [pdf](http://www.lbremer.de/artikel/Yace.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Yace 0.99.50 available for download](https://www.stmintz.com/ccc/index.php?id=177410) by [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner"), [CCC](CCC "CCC"), June 28, 2001
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Yace Archive Page](https://sites.google.com/site/marochess/yace), yace\_ReadMe.pdf
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Any programs besides Yace and Patzer that can use bitbase files](https://www.stmintz.com/ccc/index.php?id=371131) by [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner"), [CCC](CCC "CCC"), June 18, 2004
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [FSV Netzwerk GmbH - Gesellschafter](https://web.archive.org/web/20090306190203/http://fsv.de:80/founders.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photo by [Roland Pfister](Roland_Pfister "Roland Pfister"), [FSV - About us](https://web.archive.org/web/20180713110850/http://chess.fsv.de/aboutus/aboutus.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [FSV personal chess service - Paderborn 2003 Pics](https://web.archive.org/web/20041103061005fw_/http://www.fsv.de/chess-server/Pics/Paderborn2003/baderborn2003a.htm) by [Torsten Schoop](index.php?title=Torsten_Schoop&action=edit&redlink=1 "Torsten Schoop (page does not exist)") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](Engines "Engines")**
 

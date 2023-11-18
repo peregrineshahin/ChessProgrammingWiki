@@ -81,11 +81,11 @@ g6 18.Re1 Bb4 19.c3 Bd6 20.Bxd6 cxd6 21.Rxd6 g5 22.Re7 f5 23.Re5 Kc7 24.Rg6 Rag8
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Map of the [Dutch province](https://en.wikipedia.org/wiki/Provinces_of_the_Netherlands) [Zeeland](https://en.wikipedia.org/wiki/Zeeland) with [Rhine–Meuse–Scheldt delta](https://en.wikipedia.org/wiki/Rhine%E2%80%93Meuse%E2%80%93Scheldt_delta) 1643, Source: Zeeuwse Boekhandel, Korte Sint Janstraat 17, [Zierikzee](https://en.wikipedia.org/wiki/Zierikzee), Author: [Willem Blaeu](https://en.wikipedia.org/wiki/Willem_Blaeu), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1986**). *Nona retains her Title*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 9, No. 3, pp. 160 » [DOCCC 1986](DOCCC_1986 "DOCCC 1986"), [Nona](Nona "Nona")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1985**). *The Dutch Computer-Chess Championship 1985 - Nona Prima Donna*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 8, No. 4, pp. 248, pp. 252: Delta on its home ground, F. Felkers, its author, in action
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Lyon 1990 - Chess - Round 1 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=60&round=1&id=5)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=20)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Map of the [Dutch province](https://en.wikipedia.org/wiki/Provinces_of_the_Netherlands) [Zeeland](https://en.wikipedia.org/wiki/Zeeland) with [Rhine–Meuse–Scheldt delta](https://en.wikipedia.org/wiki/Rhine%E2%80%93Meuse%E2%80%93Scheldt_delta) 1643, Source: Zeeuwse Boekhandel, Korte Sint Janstraat 17, [Zierikzee](https://en.wikipedia.org/wiki/Zierikzee), Author: [Willem Blaeu](https://en.wikipedia.org/wiki/Willem_Blaeu), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1986**). *Nona retains her Title*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 9, No. 3, pp. 160 » [DOCCC 1986](DOCCC_1986 "DOCCC 1986"), [Nona](Nona "Nona")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1985**). *The Dutch Computer-Chess Championship 1985 - Nona Prima Donna*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 8, No. 4, pp. 248, pp. 252: Delta on its home ground, F. Felkers, its author, in action
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Lyon 1990 - Chess - Round 1 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=60&round=1&id=5)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=20)
 
 **[Up one level](Engines "Engines")**
 

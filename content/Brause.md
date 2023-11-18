@@ -46,12 +46,12 @@ A sample game from [Tim Krabbé's](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Brause mit Fruchtgeschmack, gefärbt - mit Zucker und Süßstoff gesüßt, Feldschloss KG Lübben, EVP -,20 DM – Wikipedia.de](https://de.wikipedia.org/wiki/Datei:L%C3%BCbben,_Feldschloss,_Brause_mit_Fruchtgeschmack,_DM.jpg)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Steffen's Chess Page](http://www.jakob.at/steffen/chess/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Brause](http://www.jakob.at/steffen/chess/brause.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Halloween-Attack in the Four Knight Game](http://www.jakob.at/steffen/halloween/) © 1996-1997 by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Halloween-Gambit (Four Knights Game)](http://www.talkchess.com/forum/viewtopic.php?t=58105) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), [October 31](https://en.wikipedia.org/wiki/Halloween), 2015
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [A Breeze in the sleepy Four Knight's Game - A Guided Tour of Chess](http://timkr.home.xs4all.nl/tour/breeze.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9), [The Chess Cafe](https://en.wikipedia.org/wiki/ChessCafe.com), March 2000, mentions Brause and the Müller-Schulze Gambit
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Brause mit Fruchtgeschmack, gefärbt - mit Zucker und Süßstoff gesüßt, Feldschloss KG Lübben, EVP -,20 DM – Wikipedia.de](https://de.wikipedia.org/wiki/Datei:L%C3%BCbben,_Feldschloss,_Brause_mit_Fruchtgeschmack,_DM.jpg)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Steffen's Chess Page](http://www.jakob.at/steffen/chess/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Brause](http://www.jakob.at/steffen/chess/brause.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Halloween-Attack in the Four Knight Game](http://www.jakob.at/steffen/halloween/) © 1996-1997 by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Halloween-Gambit (Four Knights Game)](http://www.talkchess.com/forum/viewtopic.php?t=58105) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), [October 31](https://en.wikipedia.org/wiki/Halloween), 2015
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [A Breeze in the sleepy Four Knight's Game - A Guided Tour of Chess](http://timkr.home.xs4all.nl/tour/breeze.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9), [The Chess Cafe](https://en.wikipedia.org/wiki/ChessCafe.com), March 2000, mentions Brause and the Müller-Schulze Gambit
 
 **[Up one level](Engines "Engines")**
 

@@ -55,16 +55,16 @@ a Belgian computer scientist, professional software developer, amateur astronome
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Houdini: Flickr Album](https://www.flickr.com/photos/schaakfabriek/7074883983/in/set-72157629445845002/lightbox/) by [Jan Lagrain](https://ratings.fide.com/card.phtml?event=207560), [Schaakfabriek.be](http://schaakfabriek.be/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Design and Construction of the 110 cm Cruxis Telescope](http://www.cruxis.com/scope/scope1100.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Robert Houdart chess games - 365Chess.com](http://www.365chess.com/players/Robert_Houdart)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [IPON-Rating-List](http://www.inwoba.de/index.html) by [Ingo Bauer](Ingo_Bauer "Ingo Bauer")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Houdini 2 is released](http://www.talkchess.com/forum/viewtopic.php?t=40245) by Robert Houdart, [CCC](CCC "CCC"), September 02, 2011
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Houdini with 1:1 Robbolito-code?](http://www.talkchess.com/forum/viewtopic.php?t=40728) by [Dr. Alexander Schmidt](index.php?title=Dr._Alexander_Schmidt&action=edit&redlink=1 "Dr. Alexander Schmidt (page does not exist)"), [CCC](CCC "CCC"), October 12, 2011
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Houdini with 1:1 Robbolito-code?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=428534&t=40728) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [CCC](CCC "CCC"), October 12, 2011
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> ["Carlsen würde mit 2:8 verlieren"](https://de.chessbase.com/post/carlsen-wuerde-mit-2-8-verlieren), [ChessBase.de](ChessBase "ChessBase"), November 20, 2013 (German)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Magnus Carlsen from Wikipedia](https://en.wikipedia.org/wiki/Magnus_Carlsen)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [World Chess Championship 2013 - Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2013)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Houdini: Flickr Album](https://www.flickr.com/photos/schaakfabriek/7074883983/in/set-72157629445845002/lightbox/) by [Jan Lagrain](https://ratings.fide.com/card.phtml?event=207560), [Schaakfabriek.be](http://schaakfabriek.be/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Design and Construction of the 110 cm Cruxis Telescope](http://www.cruxis.com/scope/scope1100.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Robert Houdart chess games - 365Chess.com](http://www.365chess.com/players/Robert_Houdart)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [IPON-Rating-List](http://www.inwoba.de/index.html) by [Ingo Bauer](Ingo_Bauer "Ingo Bauer")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Houdini 2 is released](http://www.talkchess.com/forum/viewtopic.php?t=40245) by Robert Houdart, [CCC](CCC "CCC"), September 02, 2011
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Houdini with 1:1 Robbolito-code?](http://www.talkchess.com/forum/viewtopic.php?t=40728) by [Dr. Alexander Schmidt](index.php?title=Dr._Alexander_Schmidt&action=edit&redlink=1 "Dr. Alexander Schmidt (page does not exist)"), [CCC](CCC "CCC"), October 12, 2011
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Houdini with 1:1 Robbolito-code?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=428534&t=40728) by [Norman Schmidt](Norman_Schmidt "Norman Schmidt"), [CCC](CCC "CCC"), October 12, 2011
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> ["Carlsen würde mit 2:8 verlieren"](https://de.chessbase.com/post/carlsen-wuerde-mit-2-8-verlieren), [ChessBase.de](ChessBase "ChessBase"), November 20, 2013 (German)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Magnus Carlsen from Wikipedia](https://en.wikipedia.org/wiki/Magnus_Carlsen)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [World Chess Championship 2013 - Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2013)
 
 **[Up one level](People "People")**
 

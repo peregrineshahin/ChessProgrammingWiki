@@ -79,13 +79,13 @@ and the [helpmate](https://en.wikipedia.org/wiki/Helpmate) [problem solving prog
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jens Bæk Nielsen - Musik og Skak](http://www.jens-musik.dk/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Torben Osted - Chess Variant Pages](https://www.chessvariants.com/who/TorbenOsted)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Darkness Chess](https://www.chessvariants.com/incinf.dir/darkness.html) by Jens Bæk Nielsen
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dabbaba](http://www.jens-musik.dk/dabbaba.htm) by Jens Bæk Nielsen
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Dabbaba 0.98 with Winboard support available](http://www.talkchess.com/forum/viewtopic.php?t=21051) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), May 08, 2008
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Dabbaba 6.50 has been released](http://www.talkchess.com/forum/viewtopic.php?t=44802) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), August 15, 2012
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Brutalis](http://www.jens-musik.dk/brutalis.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jens Bæk Nielsen - Musik og Skak](http://www.jens-musik.dk/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Torben Osted - Chess Variant Pages](https://www.chessvariants.com/who/TorbenOsted)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Darkness Chess](https://www.chessvariants.com/incinf.dir/darkness.html) by Jens Bæk Nielsen
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dabbaba](http://www.jens-musik.dk/dabbaba.htm) by Jens Bæk Nielsen
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dabbaba 0.98 with Winboard support available](http://www.talkchess.com/forum/viewtopic.php?t=21051) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), May 08, 2008
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Dabbaba 6.50 has been released](http://www.talkchess.com/forum/viewtopic.php?t=44802) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), August 15, 2012
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Brutalis](http://www.jens-musik.dk/brutalis.htm)
 
 **[Up one Level](People "People")**
 

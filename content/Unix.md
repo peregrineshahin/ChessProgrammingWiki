@@ -85,11 +85,11 @@ Unix genealogy tree <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Unix from Wikipedia](https://en.wikipedia.org/wiki/Unix)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The X-Windows Disaster - How to make a 50-MIPS Workstation Run Like a 4.77MHz IBM PC](http://www.molgen.mpg.de/~wwwutz/Unix_Haters/old/x-windows.html), Chapter 7 of the [UNIX-HATERS Handbook](https://en.wikipedia.org/wiki/The_UNIX-HATERS_Handbook). The X-Windows Disaster chapter was written by [Don Hopkins](https://en.wikipedia.org/wiki/Don_Hopkins)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Unix wars from Wikipedia](https://en.wikipedia.org/wiki/Unix_wars)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Early UNIX Documents - Ancient UNIX - Blog - This Old Micro](http://www.thisoldmicro.com/show/ancient-unix/post/50/early-unix-documents)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ken Thompson, Dennis Ritchie win Japan 'Nobel' Prize](http://www.chessbase.com/newsdetail.asp?newsid=6970), [ChessBase News](ChessBase "ChessBase"), January 26, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Unix from Wikipedia](https://en.wikipedia.org/wiki/Unix)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The X-Windows Disaster - How to make a 50-MIPS Workstation Run Like a 4.77MHz IBM PC](http://www.molgen.mpg.de/~wwwutz/Unix_Haters/old/x-windows.html), Chapter 7 of the [UNIX-HATERS Handbook](https://en.wikipedia.org/wiki/The_UNIX-HATERS_Handbook). The X-Windows Disaster chapter was written by [Don Hopkins](https://en.wikipedia.org/wiki/Don_Hopkins)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Unix wars from Wikipedia](https://en.wikipedia.org/wiki/Unix_wars)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Early UNIX Documents - Ancient UNIX - Blog - This Old Micro](http://www.thisoldmicro.com/show/ancient-unix/post/50/early-unix-documents)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ken Thompson, Dennis Ritchie win Japan 'Nobel' Prize](http://www.chessbase.com/newsdetail.asp?newsid=6970), [ChessBase News](ChessBase "ChessBase"), January 26, 2011
 
 **[Up one Level](Software "Software")**
 

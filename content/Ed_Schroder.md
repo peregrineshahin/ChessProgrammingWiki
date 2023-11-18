@@ -112,25 +112,25 @@ In 2011, Ed Schröder first signed the [open letter](Open_letter_to_the_ICGA_abo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Ed Schröder just won the [Shannon Trophy](Shannon_Trophy "Shannon Trophy"), [WCCC Madrid 1992](WCCC_1992 "WCCC 1992"), [Computerschaak pagina 1](http://www.csvnsupplementsite.nl/CSVNPAGINA1.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Schröder BV](http://www.rebel.nl/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer Chess - Rebel](http://members.home.nl/matador/chess.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mephisto Gideon's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=222)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [World Champion (1991-1995)](http://members.home.nl/matador/chess_2.htm)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Pro Deo (version 1.2)](http://members.home.nl/matador/prodeo.htm)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ProDeo 1.7 official now](http://www.talkchess.com/forum/viewtopic.php?t=40978) by Ed Schröder, [CCC](CCC "CCC"), November 02, 2011
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Quote from Ed from his former *Programmer Stuff* site, now summarized in Ed Schröder (**2004**). *How Rebel Plays Chess*. [pdf](https://silo.tips/download/how-rebel-plays-chess-1):
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Ed Schröder just won the [Shannon Trophy](Shannon_Trophy "Shannon Trophy"), [WCCC Madrid 1992](WCCC_1992 "WCCC 1992"), [Computerschaak pagina 1](http://www.csvnsupplementsite.nl/CSVNPAGINA1.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Schröder BV](http://www.rebel.nl/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer Chess - Rebel](http://members.home.nl/matador/chess.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mephisto Gideon's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=222)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [World Champion (1991-1995)](http://members.home.nl/matador/chess_2.htm)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pro Deo (version 1.2)](http://members.home.nl/matador/prodeo.htm)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ProDeo 1.7 official now](http://www.talkchess.com/forum/viewtopic.php?t=40978) by Ed Schröder, [CCC](CCC "CCC"), November 02, 2011
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> Quote from Ed from his former *Programmer Stuff* site, now summarized in Ed Schröder (**2004**). *How Rebel Plays Chess*. [pdf](https://silo.tips/download/how-rebel-plays-chess-1):
 
 On this page I will try to explain some of the secrets of REBEL, I have retired from the competition so I see no need any longer to hide my ideas on computer chess. It's my hope that some of my fellow programmers find something useful on this page and that it might contribute to increase the elo rating of their chess engine.
-9\. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Company Information](http://www.rebel.nl/lokasoft.htm), by Ed Schröder and [Lex Loep](Lex_Loep "Lex Loep"), September 1, 2002
-10\. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Progess (often) is ugly, a summary try](http://www.open-chess.org/viewtopic.php?f=3&t=1471) by Rebel, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), July 03, 2011
-11\. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [In retrospect](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=22421) by Rebel, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), July 14, 2011
-12\. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Apology to Vas](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=22679) by Rebel, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), August 17, 2011
-13\. <a id="cite-ref-13" href="#cite-note-13">[13]</a> *Rybka vs ICGA a different view* by Ed Schröder, November 2011
-14\. <a id="cite-ref-14" href="#cite-note-14">[14]</a> *Rybka evidence* by Ed Schröder, November 2011
-15\. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Stockfish's tuning method](http://www.talkchess.com/forum/viewtopic.php?t=40662) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski"), [CCC](CCC "CCC"), October 07, 2011
-16\. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Ideas](http://www.talkchess.com/forum/viewtopic.php?t=61366) by Ed Schröder, [CCC](CCC "CCC"), September 08, 2016
-17\. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Blog](http://www.talkchess.com/forum/viewtopic.php?t=65741) by Ed Schroder, [CCC](CCC "CCC"), November 16, 2017
+9\. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Company Information](http://www.rebel.nl/lokasoft.htm), by Ed Schröder and [Lex Loep](Lex_Loep "Lex Loep"), September 1, 2002
+10\. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Progess (often) is ugly, a summary try](http://www.open-chess.org/viewtopic.php?f=3&t=1471) by Rebel, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), July 03, 2011
+11\. <a id="cite-ref-11" href="#cite-note-11">↑</a> [In retrospect](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=22421) by Rebel, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), July 14, 2011
+12\. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Apology to Vas](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=22679) by Rebel, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), August 17, 2011
+13\. <a id="cite-ref-13" href="#cite-note-13">↑</a> *Rybka vs ICGA a different view* by Ed Schröder, November 2011
+14\. <a id="cite-ref-14" href="#cite-note-14">↑</a> *Rybka evidence* by Ed Schröder, November 2011
+15\. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Stockfish's tuning method](http://www.talkchess.com/forum/viewtopic.php?t=40662) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski"), [CCC](CCC "CCC"), October 07, 2011
+16\. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Ideas](http://www.talkchess.com/forum/viewtopic.php?t=61366) by Ed Schröder, [CCC](CCC "CCC"), September 08, 2016
+17\. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Blog](http://www.talkchess.com/forum/viewtopic.php?t=65741) by Ed Schroder, [CCC](CCC "CCC"), November 16, 2017
 
 **[Up one level](People "People")**
 

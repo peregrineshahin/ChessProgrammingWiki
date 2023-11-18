@@ -81,10 +81,10 @@ The program is reported to select the best move with the help of a [static evalu
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1983**). *Computerschaak, Schaakwereld en Kunstmatige Intelligentie*. Ph.D. thesis, [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology"). Academic Service, The Hague. ISBN 90 62 33 093 2 (Dutch), 2.2.9. Sjoera-Boera - translation from Russian by J.P. Warris, Russian teacher at TH Delft
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [М. А. Евграфов](index.php?title=Marat_A._Evgrafov&action=edit&redlink=1 "Marat A. Evgrafov (page does not exist)"), [И. Б. Задыхайло](index.php?title=Igor_B._Zadyhailo&action=edit&redlink=1 "Igor B. Zadyhailo (page does not exist)") (**1965**). *Некоторые соображения о программировании шахматной игры*. / Сб. Проблемы кибернетики, №15
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=12) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), June 08, 2019
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=8) by Roman Zhukov, [CCC](CCC "CCC"), June 08, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1983**). *Computerschaak, Schaakwereld en Kunstmatige Intelligentie*. Ph.D. thesis, [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology"). Academic Service, The Hague. ISBN 90 62 33 093 2 (Dutch), 2.2.9. Sjoera-Boera - translation from Russian by J.P. Warris, Russian teacher at TH Delft
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [М. А. Евграфов](index.php?title=Marat_A._Evgrafov&action=edit&redlink=1 "Marat A. Evgrafov (page does not exist)"), [И. Б. Задыхайло](index.php?title=Igor_B._Zadyhailo&action=edit&redlink=1 "Igor B. Zadyhailo (page does not exist)") (**1965**). *Некоторые соображения о программировании шахматной игры*. / Сб. Проблемы кибернетики, №15
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=12) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), June 08, 2019
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=8) by Roman Zhukov, [CCC](CCC "CCC"), June 08, 2019
 
 **[Up one level](Engines "Engines")**
 

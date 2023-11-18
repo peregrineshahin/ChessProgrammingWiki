@@ -104,12 +104,12 @@ For K=4, the proposed logistic model and the data is plotted here for comparison
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [logistic model from Wolfram MathWorld](http://mathworld.wolfram.com/LogisticEquation.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Arpad Elo - Wikipedia](https://en.wikipedia.org/wiki/Arpad_Elo)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Regan's latest: Depth of Satisficing](http://www.talkchess.com/forum/viewtopic.php?t=57890) by [Carl Lumma](index.php?title=Carl_Lumma&action=edit&redlink=1 "Carl Lumma (page does not exist)"), [CCC](CCC "CCC"), October 09, 2015
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [When Data Serves Turkey](https://rjlipton.wordpress.com/2016/11/30/when-data-serves-turkey/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), November 30, 2016
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [World Chess Championship 2016 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2016)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Regan's conundrum](http://www.talkchess.com/forum/viewtopic.php?t=62435) by [Carl Lumma](index.php?title=Carl_Lumma&action=edit&redlink=1 "Carl Lumma (page does not exist)"), [CCC](CCC "CCC"), December 09, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [logistic model from Wolfram MathWorld](http://mathworld.wolfram.com/LogisticEquation.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Arpad Elo - Wikipedia](https://en.wikipedia.org/wiki/Arpad_Elo)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Regan's latest: Depth of Satisficing](http://www.talkchess.com/forum/viewtopic.php?t=57890) by [Carl Lumma](index.php?title=Carl_Lumma&action=edit&redlink=1 "Carl Lumma (page does not exist)"), [CCC](CCC "CCC"), October 09, 2015
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [When Data Serves Turkey](https://rjlipton.wordpress.com/2016/11/30/when-data-serves-turkey/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), November 30, 2016
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [World Chess Championship 2016 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2016)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Regan's conundrum](http://www.talkchess.com/forum/viewtopic.php?t=62435) by [Carl Lumma](index.php?title=Carl_Lumma&action=edit&redlink=1 "Carl Lumma (page does not exist)"), [CCC](CCC "CCC"), December 09, 2016
 
 **[Up one Level](Evaluation "Evaluation")**
 

@@ -83,10 +83,10 @@ later replaced by [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards") fol
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Head of Sculpture of [Chronos](https://en.wikipedia.org/wiki/Chronos) in the Knights' Hall of [Royal Castle, Warsaw](https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw), [Image](https://commons.wikimedia.org/wiki/File:Chronos_Statue_Detail.JPG) by [Scotch Mist](https://commons.wikimedia.org/wiki/User:Scotch_Mist), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Engines written in which programming language?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50192) by [Andreas Herrmann](Andreas_Herrmann "Andreas Herrmann"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 01, 2009
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [How NagaSkaki plays chess - Move generation](https://mayothi.com/nagaskakichess6.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a>  [Rotated bitmaps, a new twist on an old idea](http://www.craftychess.com/hyatt/bitmaps.html) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Head of Sculpture of [Chronos](https://en.wikipedia.org/wiki/Chronos) in the Knights' Hall of [Royal Castle, Warsaw](https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw), [Image](https://commons.wikimedia.org/wiki/File:Chronos_Statue_Detail.JPG) by [Scotch Mist](https://commons.wikimedia.org/wiki/User:Scotch_Mist), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Engines written in which programming language?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50192) by [Andreas Herrmann](Andreas_Herrmann "Andreas Herrmann"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 01, 2009
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [How NagaSkaki plays chess - Move generation](https://mayothi.com/nagaskakichess6.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [Rotated bitmaps, a new twist on an old idea](http://www.craftychess.com/hyatt/bitmaps.html) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt")
 1. ↑ [5.0](#cite-ref-history-5-0) [5.1](#cite-ref-history-5-1) [Chronos Chess Engine - History](https://sites.google.com/site/chronosce/history-2)
 
 **[Up one Level](Engines "Engines")**

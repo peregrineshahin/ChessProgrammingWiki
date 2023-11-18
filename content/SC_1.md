@@ -31,12 +31,12 @@ title: SC 1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kombinat Mikroelektronik Erfurt (KME) from Wikimedia Commons](http://commons.wikimedia.org/wiki/Mikroelektronik), Photo by [Erdmann Schleinitz](http://commons.wikimedia.org/wiki/User_talk:Erdmann_Schleinitz)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Integrierte Schaltkreise - Prozessor U880](http://www.robotrontechnik.de/index.htm?/html/komponenten/ic.htm#u880) from [robotrontechnik.de](http://www.robotrontechnik.de/index.htm?/html/internes/haupt_en.htm) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SC1, Schachcomputer in der DDR from Wikipedia.de](http://de.wikipedia.org/w/index.php?title=Schachcomputer_in_der_DDR#SC1) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Copyright und illegal genutzte westliche Software](http://www.robotrontechnik.de/index.htm?/html/software/software.htm) from [robotrontechnik.de](http://www.robotrontechnik.de/index.htm?/html/internes/haupt_en.htm) (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [VEB Mikroelektronik Erfurt](http://www.schach-computer.info/wiki/index.php/VEB_Mikroelektronik_Erfurt) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Karsten Bauermeister](Karsten_Bauermeister "Karsten Bauermeister") (**1999**). *Deutsch-Deutsche Geschichte(n)*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"). No. 5, October-November 1999, pp 32-33 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kombinat Mikroelektronik Erfurt (KME) from Wikimedia Commons](http://commons.wikimedia.org/wiki/Mikroelektronik), Photo by [Erdmann Schleinitz](http://commons.wikimedia.org/wiki/User_talk:Erdmann_Schleinitz)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Integrierte Schaltkreise - Prozessor U880](http://www.robotrontechnik.de/index.htm?/html/komponenten/ic.htm#u880) from [robotrontechnik.de](http://www.robotrontechnik.de/index.htm?/html/internes/haupt_en.htm) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SC1, Schachcomputer in der DDR from Wikipedia.de](http://de.wikipedia.org/w/index.php?title=Schachcomputer_in_der_DDR#SC1) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Copyright und illegal genutzte westliche Software](http://www.robotrontechnik.de/index.htm?/html/software/software.htm) from [robotrontechnik.de](http://www.robotrontechnik.de/index.htm?/html/internes/haupt_en.htm) (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [VEB Mikroelektronik Erfurt](http://www.schach-computer.info/wiki/index.php/VEB_Mikroelektronik_Erfurt) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Karsten Bauermeister](Karsten_Bauermeister "Karsten Bauermeister") (**1999**). *Deutsch-Deutsche Geschichte(n)*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"). No. 5, October-November 1999, pp 32-33 (German)
 
 **[Up one level](Engines "Engines")**
 

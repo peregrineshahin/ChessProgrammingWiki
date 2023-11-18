@@ -57,9 +57,9 @@ Rondo was declared [joint champion](Rybka_Controversy#2010 "Rybka Controversy") 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rondo in A minor (Mozart) from Wikipedia](https://en.wikipedia.org/wiki/Rondo_in_A_minor_(Mozart)), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zappa's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=58) (includes Rondo)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kanazawa 2010 - Chess - Round 6 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=209&round=6&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rondo in A minor (Mozart) from Wikipedia](https://en.wikipedia.org/wiki/Rondo_in_A_minor_(Mozart)), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zappa's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=58) (includes Rondo)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kanazawa 2010 - Chess - Round 6 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=209&round=6&id=5)
 
 **[Up one Level](Engines "Engines")**
 

@@ -145,9 +145,9 @@ MAT is material, PS is #pseudo-legal moves, DIF is #different attacked squares, 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jean E. Hayes](Jean_Hayes_Michie "Jean Hayes Michie"), [David Levy](David_Levy "David Levy") (**1976**). *[The world computer chess championship, Stockholm 1974](http://www.getcited.org/pub/101724802)*. University Press (Edinburgh) ISBN 0852242859
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Alexander Bitman](Alexander_Bitman "Alexander Bitman"), [Alexander Zhivotovsky](Alexander_Zhivotovsky "Alexander Zhivotovsky") and [Anatoly Uskov](Anatoly_Uskov "Anatoly Uskov") (**1970**). *Programming a Computer to Play Chess*. Russian Mathematical Surveys, Vol. 25, pp. 221-262
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1989**). *Notions of Evaluation Functions Tested against Grandmaster Games*. [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jean E. Hayes](Jean_Hayes_Michie "Jean Hayes Michie"), [David Levy](David_Levy "David Levy") (**1976**). *[The world computer chess championship, Stockholm 1974](http://www.getcited.org/pub/101724802)*. University Press (Edinburgh) ISBN 0852242859
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Alexander Bitman](Alexander_Bitman "Alexander Bitman"), [Alexander Zhivotovsky](Alexander_Zhivotovsky "Alexander Zhivotovsky") and [Anatoly Uskov](Anatoly_Uskov "Anatoly Uskov") (**1970**). *Programming a Computer to Play Chess*. Russian Mathematical Surveys, Vol. 25, pp. 221-262
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1989**). *Notions of Evaluation Functions Tested against Grandmaster Games*. [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5")
 
 **[Up one level](ICGA_Investigations "ICGA Investigations")**
 

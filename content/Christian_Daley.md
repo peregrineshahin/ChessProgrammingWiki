@@ -39,9 +39,9 @@ He is author of the [UCI](UCI "UCI") compliant [open source chess engines](Categ
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Christian R. Daley | LinkedIn](https://www.linkedin.com/in/christiandaley/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Christian R. Daley | LinkedIn](https://www.linkedin.com/in/christiandaley/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New UCI engine: Spartan](http://www.open-chess.org/viewtopic.php?f=7&t=2973) by CDaley11, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 23, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Christian R. Daley | LinkedIn](https://www.linkedin.com/in/christiandaley/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Christian R. Daley | LinkedIn](https://www.linkedin.com/in/christiandaley/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New UCI engine: Spartan](http://www.open-chess.org/viewtopic.php?f=7&t=2973) by CDaley11, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 23, 2016
 
 **[Up one Level](People "People")**
 

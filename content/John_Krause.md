@@ -32,7 +32,7 @@ where he authored [Chess](Chess_(John_Krause) "Chess (John Krause)") for various
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Index of Compute! articles by John Krause](https://www.atarimagazines.com/compute/index/index.php?author=John+Krause)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Index of Compute! articles by John Krause](https://www.atarimagazines.com/compute/index/index.php?author=John+Krause)
 
 **[Up one level](People "People")**
 

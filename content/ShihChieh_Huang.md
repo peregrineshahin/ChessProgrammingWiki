@@ -76,15 +76,15 @@ Aja Huang was postdoc at [University of Alberta](University_of_Alberta "Universi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Photo of the 15th Computer Olympiad Kanazawa 2010](http://picasaweb.google.com/117053534374902710729/15thComputerOlympiadKanazawa) by [Hideki Kato](Hideki_Kato "Hideki Kato")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Keynote Lecture CG 2016 Conference by Aja Huang](CG_2016#Keynote "CG 2016")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Shih-Chieh Huang's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=83)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Shih-Chieh Huang (**2011**). *New Heuristics for Monte Carlo Tree Search Applied to the Game of Go*. Ph.D. thesis, Appendix II, 2011 Super Computer Go: Shih-Chieh Huang's Erica, Introduction by [Peter Shotwell](http://www.goodreads.com/author/show/362902.Peter_Shotwell), [pdf](http://www.usgo.org/resources/downloads/Supercomputer%20Go%20Appendix%20Two.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [WCCC 2006](WCCC_2006 "WCCC 2006")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [DBLP: Shih-Chieh Huang](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Huang:Shih=Chieh.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Move Evaluation in Go Using Deep Convolutional Neural Networks](http://computer-go.org/pipermail/computer-go/2014-December/007046.html) by Aja Huang, [The Computer-go Archives](http://computer-go.org/pipermail/computer-go/), December 19, 2014
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [AlphaGo Zero: Learning from scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/) by [Demis Hassabis](Demis_Hassabis "Demis Hassabis") and [David Silver](David_Silver "David Silver"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), October 18, 2017
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Chris J. Maddison](Chris_J._Maddison "Chris J. Maddison"), Aja Huang, [Ilya Sutskever](Ilya_Sutskever "Ilya Sutskever"), [David Silver](David_Silver "David Silver") (**2014**). *Move Evaluation in Go Using Deep Convolutional Neural Networks*. [arXiv:1412.6564v1](http://arxiv.org/abs/1412.6564v1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Photo of the 15th Computer Olympiad Kanazawa 2010](http://picasaweb.google.com/117053534374902710729/15thComputerOlympiadKanazawa) by [Hideki Kato](Hideki_Kato "Hideki Kato")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Keynote Lecture CG 2016 Conference by Aja Huang](CG_2016#Keynote "CG 2016")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Shih-Chieh Huang's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=83)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Shih-Chieh Huang (**2011**). *New Heuristics for Monte Carlo Tree Search Applied to the Game of Go*. Ph.D. thesis, Appendix II, 2011 Super Computer Go: Shih-Chieh Huang's Erica, Introduction by [Peter Shotwell](http://www.goodreads.com/author/show/362902.Peter_Shotwell), [pdf](http://www.usgo.org/resources/downloads/Supercomputer%20Go%20Appendix%20Two.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [WCCC 2006](WCCC_2006 "WCCC 2006")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [DBLP: Shih-Chieh Huang](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Huang:Shih=Chieh.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Move Evaluation in Go Using Deep Convolutional Neural Networks](http://computer-go.org/pipermail/computer-go/2014-December/007046.html) by Aja Huang, [The Computer-go Archives](http://computer-go.org/pipermail/computer-go/), December 19, 2014
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [AlphaGo Zero: Learning from scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/) by [Demis Hassabis](Demis_Hassabis "Demis Hassabis") and [David Silver](David_Silver "David Silver"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), October 18, 2017
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chris J. Maddison](Chris_J._Maddison "Chris J. Maddison"), Aja Huang, [Ilya Sutskever](Ilya_Sutskever "Ilya Sutskever"), [David Silver](David_Silver "David Silver") (**2014**). *Move Evaluation in Go Using Deep Convolutional Neural Networks*. [arXiv:1412.6564v1](http://arxiv.org/abs/1412.6564v1)
 
 **[Up one level](People "People")**
 

@@ -36,8 +36,8 @@ a German software developer and computer chess programmer. He is author of the c
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [2nd International CSVN Tournament (2002)](http://old.csvn.nl/gallery16.html) - Photo Gallery I
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CodeGear Delphi from Wikipedia](https://en.wikipedia.org/wiki/CodeGear_Delphi)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [2nd International CSVN Tournament (2002)](http://old.csvn.nl/gallery16.html) - Photo Gallery I
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CodeGear Delphi from Wikipedia](https://en.wikipedia.org/wiki/CodeGear_Delphi)
 
 **[Up one level](People "People")**
 

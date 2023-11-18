@@ -61,10 +61,10 @@ from July 3 to 5, [2017](Timeline#2017 "Timeline"), Snellius Building <a id="cit
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo Snellius Building by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 03, 2015
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Snellius Building](https://www.universiteitleiden.nl/en/locations/snellius-building#tab-1)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Willebrord Snellius (1580 - 1626)](Mathematician#WSnellius "Mathematician")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jakub Kowalski](index.php?title=Jakub_Kowalski&action=edit&redlink=1 "Jakub Kowalski (page does not exist)"), [Jakub Sutowicz](index.php?title=Jakub_Sutowicz&action=edit&redlink=1 "Jakub Sutowicz (page does not exist)"), [Marek Szykuła](index.php?title=Marek_Szyku%C5%82a&action=edit&redlink=1 "Marek Szykuła (page does not exist)") (**2017**). *Regular Boardgames*. [arXiv:1706.02462](https://arxiv.org/abs/1706.02462)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo Snellius Building by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 03, 2015
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Snellius Building](https://www.universiteitleiden.nl/en/locations/snellius-building#tab-1)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Willebrord Snellius (1580 - 1626)](Mathematician#WSnellius "Mathematician")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jakub Kowalski](index.php?title=Jakub_Kowalski&action=edit&redlink=1 "Jakub Kowalski (page does not exist)"), [Jakub Sutowicz](index.php?title=Jakub_Sutowicz&action=edit&redlink=1 "Jakub Sutowicz (page does not exist)"), [Marek Szykuła](index.php?title=Marek_Szyku%C5%82a&action=edit&redlink=1 "Marek Szykuła (page does not exist)") (**2017**). *Regular Boardgames*. [arXiv:1706.02462](https://arxiv.org/abs/1706.02462)
 
 **[Up one Level](Conferences "Conferences")**
 

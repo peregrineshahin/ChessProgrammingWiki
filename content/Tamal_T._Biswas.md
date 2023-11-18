@@ -41,10 +41,10 @@ a Bangladeshi born electrical engineer, computer scientist and lecturer the CS d
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Depth of Satisficing](https://rjlipton.wordpress.com/2015/10/06/depth-of-satisficing/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), October 06, 2015
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Depth of Satisficing](https://rjlipton.wordpress.com/2015/10/06/depth-of-satisficing/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), October 06, 2015
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Tamal Biswas](https://dblp.uni-trier.de/pers/hd/b/Biswas:Tamal)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Regan's latest: Depth of Satisficing](http://www.talkchess.com/forum/viewtopic.php?t=57890) by [Carl Lumma](index.php?title=Carl_Lumma&action=edit&redlink=1 "Carl Lumma (page does not exist)"), [CCC](CCC "CCC"), October 09, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Depth of Satisficing](https://rjlipton.wordpress.com/2015/10/06/depth-of-satisficing/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), October 06, 2015
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Depth of Satisficing](https://rjlipton.wordpress.com/2015/10/06/depth-of-satisficing/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), October 06, 2015
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Tamal Biswas](https://dblp.uni-trier.de/pers/hd/b/Biswas:Tamal)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Regan's latest: Depth of Satisficing](http://www.talkchess.com/forum/viewtopic.php?t=57890) by [Carl Lumma](index.php?title=Carl_Lumma&action=edit&redlink=1 "Carl Lumma (page does not exist)"), [CCC](CCC "CCC"), October 09, 2015
 
 **[Up one level](People "People")**
 

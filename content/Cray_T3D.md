@@ -42,8 +42,8 @@ title: Cray T3D
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Cray T3D on display at the [EPFL](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne), Photo by [Rama](https://commons.wikimedia.org/wiki/User:Rama), [Cc-by-sa-2.0-fr](https://creativecommons.org/licenses/by-sa/2.0/fr/), [Category:Cray-T3D - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Cray-T3D)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [High Performance Computer Architectures: A Historical Perspective - The CRAY T3D](http://homepages.inf.ed.ac.uk/cgi/rni/comp-arch.pl?Shmem/t3d.html,Shmem/t3d-f.html,Shmem/menu-scal.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Cray T3D on display at the [EPFL](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne), Photo by [Rama](https://commons.wikimedia.org/wiki/User:Rama), [Cc-by-sa-2.0-fr](https://creativecommons.org/licenses/by-sa/2.0/fr/), [Category:Cray-T3D - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Cray-T3D)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [High Performance Computer Architectures: A Historical Perspective - The CRAY T3D](http://homepages.inf.ed.ac.uk/cgi/rni/comp-arch.pl?Shmem/t3d.html,Shmem/t3d-f.html,Shmem/menu-scal.html)
 
 **[Up one Level](Hardware "Hardware")**
 

@@ -228,9 +228,9 @@ title: HistoryComputerChess
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [An Oldie but a Goodie](http://www.talkchess.com/forum/viewtopic.php?p=209262) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), August 16, 2008
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer Chess – the movie](http://www.chessbase.com/newsdetail.asp?newsid=8792), [ChessBase News](ChessBase "ChessBase"), January 21, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [An Oldie but a Goodie](http://www.talkchess.com/forum/viewtopic.php?p=209262) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), August 16, 2008
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer Chess – the movie](http://www.chessbase.com/newsdetail.asp?newsid=8792), [ChessBase News](ChessBase "ChessBase"), January 21, 2013
 
 **[Up one level](Home "Home")**
 

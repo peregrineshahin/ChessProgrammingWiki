@@ -73,17 +73,17 @@ The name Sjeng, which is also a [Limburgish](https://en.wikipedia.org/wiki/Limbu
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sjeng : a chess-and-variants playing program - 7. Who wrote Sjeng ?](http://sjeng.org/indexold.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Dutch CC all games available](https://www.stmintz.com/ccc/index.php?id=195551) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), November 04, 2001
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA: Losing Chess](http://ilk.uvt.nl/icga/games/losingchess/) by [Guy Haworth](Guy_Haworth "Guy Haworth")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Sjeng 12.7 and 11.2 released](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/66707061247326df) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 2, 2002
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Deep Sjeng 1.0 released](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/261bfb217175033a) by [Lex](Lex_Loep "Lex Loep"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 3, 2003
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Sjeng Download - Readme](http://sjeng.org/download.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Chess (application) from Wikipedia](https://en.wikipedia.org/wiki/Chess_%28application%29)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chess - Source Browser](http://www.opensource.apple.com/source/Chess/Chess-110.0.6/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [README](http://www.opensource.apple.com/source/Chess/Chess-110.0.6/README)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Yes, there are](https://www.stmintz.com/ccc/index.php?id=298890) by [Georg von Zimmermann](Georg_von_Zimmermann "Georg von Zimmermann"), [CCC](CCC "CCC"), June 01, 2003
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Eric van Reem](Eric_van_Reem "Eric van Reem") (**2001**). *Tiger und Rebel gleichauf in Leiden*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), 6/2001 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sjeng : a chess-and-variants playing program - 7. Who wrote Sjeng ?](http://sjeng.org/indexold.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Dutch CC all games available](https://www.stmintz.com/ccc/index.php?id=195551) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), November 04, 2001
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA: Losing Chess](http://ilk.uvt.nl/icga/games/losingchess/) by [Guy Haworth](Guy_Haworth "Guy Haworth")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Sjeng 12.7 and 11.2 released](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/66707061247326df) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 2, 2002
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Deep Sjeng 1.0 released](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/261bfb217175033a) by [Lex](Lex_Loep "Lex Loep"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 3, 2003
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Sjeng Download - Readme](http://sjeng.org/download.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chess (application) from Wikipedia](https://en.wikipedia.org/wiki/Chess_%28application%29)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chess - Source Browser](http://www.opensource.apple.com/source/Chess/Chess-110.0.6/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [README](http://www.opensource.apple.com/source/Chess/Chess-110.0.6/README)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Yes, there are](https://www.stmintz.com/ccc/index.php?id=298890) by [Georg von Zimmermann](Georg_von_Zimmermann "Georg von Zimmermann"), [CCC](CCC "CCC"), June 01, 2003
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Eric van Reem](Eric_van_Reem "Eric van Reem") (**2001**). *Tiger und Rebel gleichauf in Leiden*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), 6/2001 (German)
 
 **[Up one Level](Engines "Engines")**
 

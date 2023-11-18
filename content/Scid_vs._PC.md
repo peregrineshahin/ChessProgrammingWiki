@@ -68,8 +68,8 @@ Scid vs. PC Screenshot
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Images from [Scid vs. PC - Index of /images](http://scidvspc.sourceforge.net/images/) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tcl/Tk](https://www.activestate.com/products/activetcl/downloads/)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Images from [Scid vs. PC - Index of /images](http://scidvspc.sourceforge.net/images/) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tcl/Tk](https://www.activestate.com/products/activetcl/downloads/)
 
 **[Up one Level](GUI "GUI")**
 

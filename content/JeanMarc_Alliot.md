@@ -83,15 +83,15 @@ a French mathematician, computer scientist and head of the optimization and high
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jean-Marc Alliot Wikipedia.fr (French)](https://fr.wikipedia.org/wiki/Jean-Marc_Alliot)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jean-Marc Alliot, [Nicolas Durand](Mathematician#NDurand "Mathematician") (**1995**). *[A Genetic Algorithm to Improve an Othello Program](https://hal-enac.archives-ouvertes.fr/hal-00937682)*. [Artificial Evolution](https://link.springer.com/book/10.1007/3-540-61108-8), [LNCS](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science) 1063, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess lovers](http://www.chess-lovers.org/) by Jean-Marc Alliot
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [How Should Chess Players Be Rated?](https://news.cnrs.fr/articles/how-should-chess-players-be-rated) by [Martin Koppe](https://news.cnrs.fr/authors/martin-koppe), [CNRS News](https://news.cnrs.fr/), April 25, 2017
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Jean-Marc Alliot (**2017**). *Who is the Master*? [ICGA Journal, Vol. 39, No. 1](ICGA_Journal#39_1 "ICGA Journal"), [draft as pdf](http://www.alliot.fr/CHESS/draft-icga-39-1.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> a small bug was fixed in [Stockfish 6](Stockfish "Stockfish") concerning [Syzygy 6-men bases](Syzygy_Bases "Syzygy Bases")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Comparison of top chess players throughout history from Wikipedia - 2.2 Markovian Model](https://en.wikipedia.org/wiki/Comparison_of_top_chess_players_throughout_history#Markovian_Model)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Jean-Marc Alliot](https://dblp.uni-trier.de/pers/hd/a/Alliot:Jean=Marc)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Countdown (game show) from Wikipedia](https://en.wikipedia.org/wiki/Countdown_(game_show))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jean-Marc Alliot Wikipedia.fr (French)](https://fr.wikipedia.org/wiki/Jean-Marc_Alliot)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jean-Marc Alliot, [Nicolas Durand](Mathematician#NDurand "Mathematician") (**1995**). *[A Genetic Algorithm to Improve an Othello Program](https://hal-enac.archives-ouvertes.fr/hal-00937682)*. [Artificial Evolution](https://link.springer.com/book/10.1007/3-540-61108-8), [LNCS](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science) 1063, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess lovers](http://www.chess-lovers.org/) by Jean-Marc Alliot
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [How Should Chess Players Be Rated?](https://news.cnrs.fr/articles/how-should-chess-players-be-rated) by [Martin Koppe](https://news.cnrs.fr/authors/martin-koppe), [CNRS News](https://news.cnrs.fr/), April 25, 2017
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Jean-Marc Alliot (**2017**). *Who is the Master*? [ICGA Journal, Vol. 39, No. 1](ICGA_Journal#39_1 "ICGA Journal"), [draft as pdf](http://www.alliot.fr/CHESS/draft-icga-39-1.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> a small bug was fixed in [Stockfish 6](Stockfish "Stockfish") concerning [Syzygy 6-men bases](Syzygy_Bases "Syzygy Bases")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Comparison of top chess players throughout history from Wikipedia - 2.2 Markovian Model](https://en.wikipedia.org/wiki/Comparison_of_top_chess_players_throughout_history#Markovian_Model)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Jean-Marc Alliot](https://dblp.uni-trier.de/pers/hd/a/Alliot:Jean=Marc)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Countdown (game show) from Wikipedia](https://en.wikipedia.org/wiki/Countdown_(game_show))
 
 **[Up one level](People "People")**
 

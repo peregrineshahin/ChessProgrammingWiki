@@ -64,8 +64,8 @@ Kf8 26.Qf6+ Kg8 27.Ne7# 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [gibbon home page](http://perso.numericable.com/monique.marathee/gibbon_home_page.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Massy 2001 - Tournoi de programmes d'Echecs - Toutes les parties pgn](http://www.ludochess.com/trn_massy2001/tournoi.php3) from [LUDOCHESS - Les jeux d'Echecs 100% pur Java](http://www.ludochess.com/dotcom/accueil.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [gibbon home page](http://perso.numericable.com/monique.marathee/gibbon_home_page.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Massy 2001 - Tournoi de programmes d'Echecs - Toutes les parties pgn](http://www.ludochess.com/trn_massy2001/tournoi.php3) from [LUDOCHESS - Les jeux d'Echecs 100% pur Java](http://www.ludochess.com/dotcom/accueil.php3) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen")
 
 **[Up one level](Engines "Engines")**
 

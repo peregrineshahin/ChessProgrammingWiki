@@ -61,10 +61,10 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from no longer available Paderborn 2002 site by [Harald Faber](http://www.harald-faber.de/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Defending Humanity's Honor](http://www.xs4all.nl/~timkr/chess2/honor.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [10e WK Computerschaak, 6-11 juli 2002, Maastricht](http://old.csvn.nl/wk2002.html), old [CSVN](CSVN "CSVN") site in Dutch
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Maastricht 2002 - Chess - Round 7 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=20&round=7&id=4)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from no longer available Paderborn 2002 site by [Harald Faber](http://www.harald-faber.de/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Defending Humanity's Honor](http://www.xs4all.nl/~timkr/chess2/honor.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [10e WK Computerschaak, 6-11 juli 2002, Maastricht](http://old.csvn.nl/wk2002.html), old [CSVN](CSVN "CSVN") site in Dutch
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Maastricht 2002 - Chess - Round 7 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=20&round=7&id=4)
 
 **[Up one Level](Engines "Engines")**
 

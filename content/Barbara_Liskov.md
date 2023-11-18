@@ -42,12 +42,12 @@ A lecture given on the occasion of [Princeton University's](https://en.wikipedia
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Programmer Dress Code – Part Deux | CodeThinked](http://www.codethinked.com/The-Programmer-Dress-Code---Part-Deux) by [Justin Etheredge](http://www.codethinked.com/), December 11, 2007
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Countermove Heuristic*. [ICCA Journal, Vol. 15, No. 1](ICGA_Journal#15_1 "ICGA Journal"), pp. 8, The killer heuristic
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Barbara J. Huberman (**1968**). *A Program to Play Chess End Games*. Technical Report no. CS-106, Ph.D. thesis. [Stanford University](Stanford_University "Stanford University")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alex Bell](Alex_Bell "Alex Bell") (**1972**). *[Games Playing with Computers](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/overview.htm)*. [Allen & Unwin](https://en.wikipedia.org/wiki/Allen_%26_Unwin), ISBN-13: 978-0080212227, [Chess programs: Huberman](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/p005.htm#index19)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Barbara Liskov Wins Turing Award](http://www.ddj.com/hpc-high-performance-computing/215801518) from [Dr. Dobb's Journal](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal), March 10, 2009
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Barbara Liskov](http://www.informatik.uni-trier.de/~ley/pers/hd/l/Liskov:Barbara.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Programmer Dress Code – Part Deux | CodeThinked](http://www.codethinked.com/The-Programmer-Dress-Code---Part-Deux) by [Justin Etheredge](http://www.codethinked.com/), December 11, 2007
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Countermove Heuristic*. [ICCA Journal, Vol. 15, No. 1](ICGA_Journal#15_1 "ICGA Journal"), pp. 8, The killer heuristic
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Barbara J. Huberman (**1968**). *A Program to Play Chess End Games*. Technical Report no. CS-106, Ph.D. thesis. [Stanford University](Stanford_University "Stanford University")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alex Bell](Alex_Bell "Alex Bell") (**1972**). *[Games Playing with Computers](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/overview.htm)*. [Allen & Unwin](https://en.wikipedia.org/wiki/Allen_%26_Unwin), ISBN-13: 978-0080212227, [Chess programs: Huberman](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/p005.htm#index19)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Barbara Liskov Wins Turing Award](http://www.ddj.com/hpc-high-performance-computing/215801518) from [Dr. Dobb's Journal](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal), March 10, 2009
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Barbara Liskov](http://www.informatik.uni-trier.de/~ley/pers/hd/l/Liskov:Barbara.html)
 
 **[Up one level](People "People")**
 

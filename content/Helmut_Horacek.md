@@ -65,15 +65,15 @@ an Austrian computer scientist, mathematician and [AI](Artificial_Intelligence "
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> From the workshop on Explanation-aware Computing [ExaCt 2008](http://exact2008.workshop.hm/) in [Patras](https://en.wikipedia.org/wiki/Patras), Greece. [flickr](http://www.flickr.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bloomsbury - Helmut Horacek](http://www.bloomsbury.com/author/helmut-horacek)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Merlin's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=353)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Helmut Horacek (**1982**). *Ein Modell für Schachbauernendspiele mit menschlichen Problemlösungstechniken*. Ph.D. thesis, Department of Computer Science, [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna), supervisors [Curt Christian](Mathematician#CChristian "Mathematician") (University of Vienna) and [Wilhelm Barth](Wilhelm_Barth "Wilhelm Barth") ([Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology"))
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Helmut Horacek (**1983**). *Knowledge-Based Move Selection and Evaluation to Guide the Search in Chess Pawn Endings*. [ICCA Journal, Vol. 6, No. 3](ICGA_Journal#6_3 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 117
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Helmut Horacek](http://dblp.uni-trier.de/pers/hd/h/Horacek:Helmut)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Werner DePauli-Schimanovich](Werner_Schimanovich "Werner Schimanovich") (**2006**). *Europolis 6*. Informatik für Spiele und Verkehr. Extension der Mengenlehre, Herausgeber: Franz Pichler, Universitätsverlag Rudolf Trauner, ISBN 978-3-85487-946-6, (SG7) Merlin (ein ComputerChess-Programm) s. 171 (German), [Google Books](http://books.google.com/books?id=Gf4WibmHVbcC&pg=PA175&lpg=PA175&source=bl&ots=YPtaHAp3Z4&sig=DNRPh11heo8Q1zS3UOBe0qoCF-8&hl=en&ei=0GmnTMX1GMfJswaL-NivDA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBgQ6AEwAA#v=onepage&q&f=false)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> From the workshop on Explanation-aware Computing [ExaCt 2008](http://exact2008.workshop.hm/) in [Patras](https://en.wikipedia.org/wiki/Patras), Greece. [flickr](http://www.flickr.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bloomsbury - Helmut Horacek](http://www.bloomsbury.com/author/helmut-horacek)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Merlin's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=353)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Helmut Horacek (**1982**). *Ein Modell für Schachbauernendspiele mit menschlichen Problemlösungstechniken*. Ph.D. thesis, Department of Computer Science, [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna), supervisors [Curt Christian](Mathematician#CChristian "Mathematician") (University of Vienna) and [Wilhelm Barth](Wilhelm_Barth "Wilhelm Barth") ([Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology"))
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Helmut Horacek (**1983**). *Knowledge-Based Move Selection and Evaluation to Guide the Search in Chess Pawn Endings*. [ICCA Journal, Vol. 6, No. 3](ICGA_Journal#6_3 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal"), pp. 117
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Helmut Horacek](http://dblp.uni-trier.de/pers/hd/h/Horacek:Helmut)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Werner DePauli-Schimanovich](Werner_Schimanovich "Werner Schimanovich") (**2006**). *Europolis 6*. Informatik für Spiele und Verkehr. Extension der Mengenlehre, Herausgeber: Franz Pichler, Universitätsverlag Rudolf Trauner, ISBN 978-3-85487-946-6, (SG7) Merlin (ein ComputerChess-Programm) s. 171 (German), [Google Books](http://books.google.com/books?id=Gf4WibmHVbcC&pg=PA175&lpg=PA175&source=bl&ots=YPtaHAp3Z4&sig=DNRPh11heo8Q1zS3UOBe0qoCF-8&hl=en&ei=0GmnTMX1GMfJswaL-NivDA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBgQ6AEwAA#v=onepage&q&f=false)
 
 **[Up one level](People "People")**
 

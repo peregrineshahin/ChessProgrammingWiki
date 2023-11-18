@@ -37,8 +37,8 @@ was a [x86-64](X86-64 "X86-64") [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR T
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [AMD Fusion now pushed back to 2011](http://arstechnica.com/old/content/2008/11/amd-fusion-now-pushed-back-to-2011.ars) by [Joel Hruska](http://arstechnica.com/author/joel-hruska/), November 14, 2008
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Volume 6: 128-Bit and 256-Bit XOP, FMA4 and CVT16 Instructions](http://support.amd.com/us/Embedded_TechDocs/43479.pdf) (pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [AMD Fusion now pushed back to 2011](http://arstechnica.com/old/content/2008/11/amd-fusion-now-pushed-back-to-2011.ars) by [Joel Hruska](http://arstechnica.com/author/joel-hruska/), November 14, 2008
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Volume 6: 128-Bit and 256-Bit XOP, FMA4 and CVT16 Instructions](http://support.amd.com/us/Embedded_TechDocs/43479.pdf) (pdf)
 
 **[Up one Level](X86 "X86")**
 

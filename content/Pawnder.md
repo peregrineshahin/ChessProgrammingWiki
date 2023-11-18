@@ -30,7 +30,7 @@ It reached a [depth](Depth "Depth") of 5 or 6 [plies](Ply "Ply") in about 15 sec
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pawnder Chess Program](http://www.tkcs-collins.com/truman/pawnder/pawnder.shtml)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pawnder Chess Program](http://www.tkcs-collins.com/truman/pawnder/pawnder.shtml)
 
 **[Up one level](Engines "Engines")**
 

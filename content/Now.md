@@ -81,13 +81,13 @@ General [alpha beta](Alpha-Beta "Alpha-Beta") searcher, with lots of [knowledge]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from no longer available DOS Museum - Download NOW, A Computer Chess Program
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Zillions of Games - Who Are We?](http://www.zillions-of-games.com/whoarewe.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [If You Were Starting From Scratch](http://www.talkchess.com/forum/viewtopic.php?t=15960) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), August 22, 2007
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the [11th World Microcomputer Chess Championship](WMCCC_1991 "WMCCC 1991")*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 14, No. 2
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Don Beal](Don_Beal "Don Beal") (**1993**). *Report on the QMW 1993 Uniform-Platform Computer-Chess Championship.* [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 16, No. 3, pp. 166-171.
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [QMW computer chess](http://groups.google.com/group/rec.games.chess/browse_frm/thread/51267e26536fa912) by [Don Beal](Don_Beal "Don Beal"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Now's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=94)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from no longer available DOS Museum - Download NOW, A Computer Chess Program
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zillions of Games - Who Are We?](http://www.zillions-of-games.com/whoarewe.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [If You Were Starting From Scratch](http://www.talkchess.com/forum/viewtopic.php?t=15960) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), August 22, 2007
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the [11th World Microcomputer Chess Championship](WMCCC_1991 "WMCCC 1991")*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 14, No. 2
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Don Beal](Don_Beal "Don Beal") (**1993**). *Report on the QMW 1993 Uniform-Platform Computer-Chess Championship.* [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 16, No. 3, pp. 166-171.
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [QMW computer chess](http://groups.google.com/group/rec.games.chess/browse_frm/thread/51267e26536fa912) by [Don Beal](Don_Beal "Don Beal"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Now's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=94)
 
 **[Up one Level](Engines "Engines")**
 

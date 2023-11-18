@@ -28,7 +28,7 @@ Timothy Arbuckle was member [Alex Bernstein's](Alex_Bernstein "Alex Bernstein") 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Paper hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Paper hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](People "People")**
 

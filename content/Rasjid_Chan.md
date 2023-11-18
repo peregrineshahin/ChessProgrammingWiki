@@ -46,10 +46,10 @@ Rasjid is author of the [Chess Engine Communication Protocol](Chess_Engine_Commu
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Chan Rasjid in [Big-endian](Big-endian "Big-endian") Asian standard template [LAST NAME][FIRST NAME]
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Re: Bitboard of squares between](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6573#p30811) by Rasjid Chan, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 15, 2007
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Engine Download List](http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Chan Rasjid in [Big-endian](Big-endian "Big-endian") Asian standard template [LAST NAME][FIRST NAME]
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Re: Bitboard of squares between](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6573#p30811) by Rasjid Chan, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 15, 2007
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Engine Download List](http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
 
 **[Up one level](People "People")**
 

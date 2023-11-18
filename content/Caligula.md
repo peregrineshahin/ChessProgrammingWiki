@@ -34,8 +34,8 @@ Caligula played a strong [6th Spanish Open Computer Chess Championship 1999](SCC
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Caligula from Wikipedia](https://en.wikipedia.org/wiki/Caligula)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spain open - Toledo2000/caligula wins from Tiger](https://www.stmintz.com/ccc/index.php?id=84582) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), December 27, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Caligula from Wikipedia](https://en.wikipedia.org/wiki/Caligula)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spain open - Toledo2000/caligula wins from Tiger](https://www.stmintz.com/ccc/index.php?id=84582) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), December 27, 1999
 
 **[Up one Level](Engines "Engines")**
 

@@ -114,14 +114,14 @@ To index and lock [search tables](Hash_Table#SearchTables "Hash Table"), especia
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Los Alamos National Laboratory from Wikipedia](https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lachex's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=227)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Cologne 1986 - Chess - Round 1 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=1&id=3)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Burton Wendroff](Burton_Wendroff "Burton Wendroff") (**1985**). *Attack Detection and Move Generation on the X-MP/48.* [ICCA Journal, Vol. 8, No. 2](ICGA_Journal#8_2 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Tony Warnock](Tony_Warnock "Tony Warnock"), [Burton Wendroff](Burton_Wendroff "Burton Wendroff") (**1988**). *Search Tables in Computer Chess*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1986**). *A Review of Game-Tree Pruning.* [ICCA Journal, Vol. 9, No. 1](ICGA_Journal#9_1 "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Harry Nelson](Harry_Nelson "Harry Nelson") (**1985**). *Hash Tables in [Cray Blitz](Cray_Blitz "Cray Blitz")*. [ICCA Journal, Vol. 8, No. 1](ICGA_Journal#8_1 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Los Alamos National Laboratory from Wikipedia](https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lachex's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=227)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Cologne 1986 - Chess - Round 1 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=1&id=3)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Burton Wendroff](Burton_Wendroff "Burton Wendroff") (**1985**). *Attack Detection and Move Generation on the X-MP/48.* [ICCA Journal, Vol. 8, No. 2](ICGA_Journal#8_2 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Tony Warnock](Tony_Warnock "Tony Warnock"), [Burton Wendroff](Burton_Wendroff "Burton Wendroff") (**1988**). *Search Tables in Computer Chess*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1986**). *A Review of Game-Tree Pruning.* [ICCA Journal, Vol. 9, No. 1](ICGA_Journal#9_1 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Harry Nelson](Harry_Nelson "Harry Nelson") (**1985**). *Hash Tables in [Cray Blitz](Cray_Blitz "Cray Blitz")*. [ICCA Journal, Vol. 8, No. 1](ICGA_Journal#8_1 "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

@@ -124,13 +124,13 @@ Patzer team [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") and [Roland Pfi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Patzer 3.80](http://web.archive.org/web/20090430124900/http://www.superchessengine.com/patzer.htm), [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Meet the Authors - PATZER, Roland Pfister](http://www.rebel.nl/authors.htm) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Position solved](https://www.stmintz.com/ccc/index.php?id=259020) by [Roland Pfister](Roland_Pfister "Roland Pfister"), [CCC](CCC "CCC"), October 14, 2002
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Support - ChessBase, May 28th, 2000](http://www.chessbase.com/support/support.asp?pid=100) (dead link)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Patzer's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=19)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [1st International CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [ICT 2001](ICT_2001 "ICT 2001")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Bobby Fischer](https://en.wikipedia.org/wiki/Bobby_Fischer) (**1969**). *[My 60 Memorable Games](https://en.wikipedia.org/wiki/My_60_Memorable_Games)*. [Simon & Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Patzer 3.80](http://web.archive.org/web/20090430124900/http://www.superchessengine.com/patzer.htm), [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Meet the Authors - PATZER, Roland Pfister](http://www.rebel.nl/authors.htm) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Position solved](https://www.stmintz.com/ccc/index.php?id=259020) by [Roland Pfister](Roland_Pfister "Roland Pfister"), [CCC](CCC "CCC"), October 14, 2002
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Support - ChessBase, May 28th, 2000](http://www.chessbase.com/support/support.asp?pid=100) (dead link)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Patzer's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=19)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [1st International CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [ICT 2001](ICT_2001 "ICT 2001")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Bobby Fischer](https://en.wikipedia.org/wiki/Bobby_Fischer) (**1969**). *[My 60 Memorable Games](https://en.wikipedia.org/wiki/My_60_Memorable_Games)*. [Simon & Schuster](https://en.wikipedia.org/wiki/Simon_%26_Schuster)
 
 **[Up one Level](Engines "Engines")**
 

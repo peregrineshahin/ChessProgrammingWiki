@@ -75,9 +75,9 @@ Hagrid is a [bitboard](Bitboards "Bitboards") engine and performs [Rotated Bitbo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Snitch and Hagrid two free UCI / Winboard chess engines](http://www.friedelprivat.de/) - News & History
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Attack table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=171&start=21) by [Klaus Friedel](index.php?title=Klaus_Friedel&action=edit&redlink=1 "Klaus Friedel (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 07, 2004
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Snitch and Hagrid two free UCI / Winboard chess engines](http://www.friedelprivat.de/) - Developer
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Snitch and Hagrid two free UCI / Winboard chess engines](http://www.friedelprivat.de/) - News & History
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Attack table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=171&start=21) by [Klaus Friedel](index.php?title=Klaus_Friedel&action=edit&redlink=1 "Klaus Friedel (page does not exist)"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 07, 2004
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Snitch and Hagrid two free UCI / Winboard chess engines](http://www.friedelprivat.de/) - Developer
 
 **[Up one level](Engines "Engines")**
 

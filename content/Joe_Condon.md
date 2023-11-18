@@ -97,12 +97,12 @@ He originally began his career at Bell Labs as a physicist/metallurgist and for 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Creator of Belle computer chess dies at 76](http://www.nj.com/independentpress/index.ssf/2012/03/creator_of_belle_computer_ches.html), [NJ.com](http://www.nj.com/), March 02, 2012
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Joe Condon's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=356)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) (**2001**). *[Ken, Unix, and Games](https://www.bell-labs.com/usr/dmr/www/ken-games.html)*, [ICGA Journal, Vol. 24. No. 2](http://ticc.uvt.nl/icga/journal/contents/content24-2.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbddbaf1) Courtesy [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [New York 1983 - Chess - Round 3 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=65&round=3&id=1)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Joseph H. Condon](http://www.princeton.edu/%7Ehos/frs122/precis/condon.htm) from [An Oral History of Unix](http://www.princeton.edu/%7Emike/unixhistory.htm) from the [Princeton University](http://www.princeton.edu/main/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Creator of Belle computer chess dies at 76](http://www.nj.com/independentpress/index.ssf/2012/03/creator_of_belle_computer_ches.html), [NJ.com](http://www.nj.com/), March 02, 2012
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Joe Condon's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=356)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) (**2001**). *[Ken, Unix, and Games](https://www.bell-labs.com/usr/dmr/www/ken-games.html)*, [ICGA Journal, Vol. 24. No. 2](http://ticc.uvt.nl/icga/journal/contents/content24-2.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbddbaf1) Courtesy [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [New York 1983 - Chess - Round 3 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=65&round=3&id=1)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Joseph H. Condon](http://www.princeton.edu/%7Ehos/frs122/precis/condon.htm) from [An Oral History of Unix](http://www.princeton.edu/%7Emike/unixhistory.htm) from the [Princeton University](http://www.princeton.edu/main/)
 
 **[Up one level](People "People")**
 

@@ -84,20 +84,20 @@ In 1951, Minsky built the first randomly wired [neural network](Neural_Networks 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Marvin Minsky visiting the [OLPC](https://en.wikipedia.org/wiki/One_Laptop_per_Child) offices, August 26, 2008, [Marvin Minsky from Wikipedia](https://en.wikipedia.org/wiki/Marvin_Minsky)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Marvin Minsky 1927-2016 | MIT Media Lab](http://www.media.mit.edu/people/in-memory/minsky)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Marvin Minsky from Wikipedia](https://en.wikipedia.org/wiki/Marvin_Minsky)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt) (**1962**). *[Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms](http://catalog.hathitrust.org/Record/000203591)*. Spartan Books
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [2001: A Space Odyssey | Science | Accuracy](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28film%29#Accuracy)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Marvin Minsky from Wikipedia | Biography](https://en.wikipedia.org/wiki/Marvin_Minsky#Biography)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Marvin Minsky's Home Page | Some Publications](http://web.media.mit.edu/~minsky/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Selected Publications of Marvin Minsky](http://web.media.mit.edu/~minsky/Bibliography.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The abandonment of connectionism in 1969 - Wikipedia](https://en.wikipedia.org/wiki/AI_winter#The_abandonment_of_connectionism_in_1969)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt) (**1962**). *[Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms](http://catalog.hathitrust.org/Record/000203591)*. Spartan Books
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [K-line (artificial intelligence) from Wikipedia](https://en.wikipedia.org/wiki/K-line_%28artificial_intelligence%29)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Matthew L. Ginsberg](Matthew_L._Ginsberg "Matthew L. Ginsberg") (**1991**). *Marvin Minsky, The Society of Mind*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 48
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Terasem Journal of Personal Cyberconsciousness - Marvin Lee Minsky discussing his book, The Emotion Machine](http://www.terasemjournals.org/PCJournal/PC0303/mm1.html)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [The Minsky Circle Algorithm – Random (Blog)](https://nbickford.wordpress.com/2011/04/03/the-minsky-circle-algorithm/) by [Neil Bickford](https://nbickford.wordpress.com/author/nbickford/), April 3, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Marvin Minsky visiting the [OLPC](https://en.wikipedia.org/wiki/One_Laptop_per_Child) offices, August 26, 2008, [Marvin Minsky from Wikipedia](https://en.wikipedia.org/wiki/Marvin_Minsky)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Marvin Minsky 1927-2016 | MIT Media Lab](http://www.media.mit.edu/people/in-memory/minsky)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Marvin Minsky from Wikipedia](https://en.wikipedia.org/wiki/Marvin_Minsky)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt) (**1962**). *[Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms](http://catalog.hathitrust.org/Record/000203591)*. Spartan Books
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [2001: A Space Odyssey | Science | Accuracy](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28film%29#Accuracy)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Marvin Minsky from Wikipedia | Biography](https://en.wikipedia.org/wiki/Marvin_Minsky#Biography)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Marvin Minsky's Home Page | Some Publications](http://web.media.mit.edu/~minsky/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Selected Publications of Marvin Minsky](http://web.media.mit.edu/~minsky/Bibliography.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The abandonment of connectionism in 1969 - Wikipedia](https://en.wikipedia.org/wiki/AI_winter#The_abandonment_of_connectionism_in_1969)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt) (**1962**). *[Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms](http://catalog.hathitrust.org/Record/000203591)*. Spartan Books
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [K-line (artificial intelligence) from Wikipedia](https://en.wikipedia.org/wiki/K-line_%28artificial_intelligence%29)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Matthew L. Ginsberg](Matthew_L._Ginsberg "Matthew L. Ginsberg") (**1991**). *Marvin Minsky, The Society of Mind*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 48
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Terasem Journal of Personal Cyberconsciousness - Marvin Lee Minsky discussing his book, The Emotion Machine](http://www.terasemjournals.org/PCJournal/PC0303/mm1.html)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [The Minsky Circle Algorithm – Random (Blog)](https://nbickford.wordpress.com/2011/04/03/the-minsky-circle-algorithm/) by [Neil Bickford](https://nbickford.wordpress.com/author/nbickford/), April 3, 2011
 
 **[Up one level](People "People")**
 

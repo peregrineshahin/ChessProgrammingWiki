@@ -29,8 +29,8 @@ the observation that for the [side to move](Side_to_move "Side to move") there i
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Without the null move observation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=443417&t=41942) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 11, 2012
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> courtesy of [Don Beal](Don_Beal "Don Beal") and [Carey Bloodworth](Carey_Bloodworth "Carey Bloodworth"), [Re: Antique chess programs](http://www.talkchess.com/forum/viewtopic.php?t=58603&start=13) by [Carey](Carey_Bloodworth "Carey Bloodworth"), [CCC](CCC "CCC"), December 16, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Without the null move observation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=443417&t=41942) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 11, 2012
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> courtesy of [Don Beal](Don_Beal "Don Beal") and [Carey Bloodworth](Carey_Bloodworth "Carey Bloodworth"), [Re: Antique chess programs](http://www.talkchess.com/forum/viewtopic.php?t=58603&start=13) by [Carey](Carey_Bloodworth "Carey Bloodworth"), [CCC](CCC "CCC"), December 16, 2015
 
 **[Up one Level](Dictionary "Dictionary")**
 

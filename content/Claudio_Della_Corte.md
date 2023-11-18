@@ -27,8 +27,8 @@ an Italian computer chess programmer, and author of the chess engine [Esc](Esc "
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Claudio Della Corte at [CIPS 2002](CIPS_2002 "CIPS 2002"), from [2′ Campionato Italiano « G 6](https://www.g-sei.org/2-campionato-italiano/#!gallery-sc1_3-68)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Chess engine authors list -- looking for help on spelling](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=45969&start=12) by Claudio Della Corte, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 08, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Claudio Della Corte at [CIPS 2002](CIPS_2002 "CIPS 2002"), from [2′ Campionato Italiano « G 6](https://www.g-sei.org/2-campionato-italiano/#!gallery-sc1_3-68)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Chess engine authors list -- looking for help on spelling](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=45969&start=12) by Claudio Della Corte, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 08, 2004
 
 **[Up one level](People "People")**
 

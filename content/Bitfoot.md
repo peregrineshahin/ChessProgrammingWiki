@@ -49,9 +49,9 @@ There are further versions of the routines leaving distinct sets of attacked blo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bitfoot/README.md at master · zd3nik/Bitfoot · GitHub](https://github.com/zd3nik/Bitfoot/blob/master/README.md)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A/B Bitboards from Bitfoot/README.md at master · zd3nik/Bitfoot · GitHub](https://github.com/zd3nik/Bitfoot/blob/master/README.md#ab-bitboards)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [scan-cut slider attack generation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73082) by [Martin Sedlak](Martin_Sedlak "Martin Sedlak"), [CCC](CCC "CCC"), February 13, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bitfoot/README.md at master · zd3nik/Bitfoot · GitHub](https://github.com/zd3nik/Bitfoot/blob/master/README.md)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A/B Bitboards from Bitfoot/README.md at master · zd3nik/Bitfoot · GitHub](https://github.com/zd3nik/Bitfoot/blob/master/README.md#ab-bitboards)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [scan-cut slider attack generation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73082) by [Martin Sedlak](Martin_Sedlak "Martin Sedlak"), [CCC](CCC "CCC"), February 13, 2020
 
 **[Up one Level](Engines "Engines")**
 

@@ -54,12 +54,12 @@ Johnson wrote the control part of the program, Schaeffer put in the [chess knowl
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Twelfth ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6ce737), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1981_ACM_NACCC/1981_ACM_NACCC.sm.062303017.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](https://www.springer.com/gp/book/9780387765754)*. 1. This Was Going to Be Easy, pp. 8
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: J. Howard Johnson](https://dblp.uni-trier.de/pers/j/Johnson:J=_Howard.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Students Supervised](https://cs.uwaterloo.ca/~fwtompa/students.html), [University of Waterloo](University_of_Waterloo "University of Waterloo")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Equivalence relation from Wikipedia](https://en.wikipedia.org/wiki/Equivalence_relation)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Hasse diagram from Wikipedia](https://en.wikipedia.org/wiki/Hasse_diagram)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Twelfth ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6ce737), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1981_ACM_NACCC/1981_ACM_NACCC.sm.062303017.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](https://www.springer.com/gp/book/9780387765754)*. 1. This Was Going to Be Easy, pp. 8
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: J. Howard Johnson](https://dblp.uni-trier.de/pers/j/Johnson:J=_Howard.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Students Supervised](https://cs.uwaterloo.ca/~fwtompa/students.html), [University of Waterloo](University_of_Waterloo "University of Waterloo")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Equivalence relation from Wikipedia](https://en.wikipedia.org/wiki/Equivalence_relation)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hasse diagram from Wikipedia](https://en.wikipedia.org/wiki/Hasse_diagram)
 
 **[Up one level](People "People")**
 

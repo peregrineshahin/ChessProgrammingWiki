@@ -49,14 +49,14 @@ He holds a Ph.D. from MIT on machine learning in 2002 <a id="cite-note-2" href="
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ryan M. Rifkin | Google Inc., Mountain View | Google](https://www.researchgate.net/profile/Ryan_Rifkin)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Ryan M. Rifkin (**2002**). *Everything Old Is New Again: A Fresh Look at Historical Approaches to Machine Learning*. Ph. D thesis, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The 23rd ACM International Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cc6e9) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1993_23rd_ACM_ICCC/1993%20ICCC.062303066.sm.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Hash tables----Clash!!!-What happens next?](http://groups.google.com/group/rec.games.chess/msg/5f2e7eeb8791dec7) by [Albert Gower](Albert_Gower "Albert Gower"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), March 19, 1994
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. thesis, Department of Electrical Engineering and Computer Science, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf), pp. 130, 6.6 How Time is Spent in StarTech
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Ryan M. Rifkin](https://dblp.uni-trier.de/pers/hd/r/Rifkin:Ryan_M=.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Tikhonov regularization from Wikipedia](https://en.wikipedia.org/wiki/Tikhonov_regularization) named for [Andrey N. Tikhonov](Mathematician#ANTikhonov "Mathematician")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Fenchel's duality theorem from Wikipedia](https://en.wikipedia.org/wiki/Fenchel%27s_duality_theorem) named after [Werner Fenchel](Mathematician#WFenchel "Mathematician")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ryan M. Rifkin | Google Inc., Mountain View | Google](https://www.researchgate.net/profile/Ryan_Rifkin)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Ryan M. Rifkin (**2002**). *Everything Old Is New Again: A Fresh Look at Historical Approaches to Machine Learning*. Ph. D thesis, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The 23rd ACM International Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cc6e9) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1993_23rd_ACM_ICCC/1993%20ICCC.062303066.sm.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Hash tables----Clash!!!-What happens next?](http://groups.google.com/group/rec.games.chess/msg/5f2e7eeb8791dec7) by [Albert Gower](Albert_Gower "Albert Gower"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), March 19, 1994
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. thesis, Department of Electrical Engineering and Computer Science, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf), pp. 130, 6.6 How Time is Spent in StarTech
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Ryan M. Rifkin](https://dblp.uni-trier.de/pers/hd/r/Rifkin:Ryan_M=.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Tikhonov regularization from Wikipedia](https://en.wikipedia.org/wiki/Tikhonov_regularization) named for [Andrey N. Tikhonov](Mathematician#ANTikhonov "Mathematician")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Fenchel's duality theorem from Wikipedia](https://en.wikipedia.org/wiki/Fenchel%27s_duality_theorem) named after [Werner Fenchel](Mathematician#WFenchel "Mathematician")
 
 **[Up one level](People "People")**
 

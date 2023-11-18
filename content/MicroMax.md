@@ -80,13 +80,13 @@ a minimalist [open source](Category:Open_Source "Category:Open Source") chess pr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Micro-Max, a 133-line Chess Source](http://home.hccnet.nl/h.g.muller/max-src2.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ATmega88 Automotive](http://www.atmel.com/dyn/products/product_card.asp?part_id=3757) from [Atmel Products -Microcontrollers - AVR® 8-Bit RISC](http://www.atmel.com/products/AVR/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Self-made Chess Computer SHAH](http://www.andreadrian.de/schach/#Selbstbau_Schachcomputer_SHAH) based on an [Atmel](https://en.wikipedia.org/wiki/Atmel)-[ATmega88](https://en.wikipedia.org/wiki/ATmega88) [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller) and Micro-Max-port by [Andre Adrian](Andre_Adrian "Andre Adrian") (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Amsterdam 2007, Chess, Round 3, Game 1](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=173&round=3&id=1) from the [ICGA Tournament Database](https://www.game-ai-forum.org/icga-tournaments/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Amsterdam 2007 WCCC, Olympiad and Workshop / Photos](https://www.game-ai-forum.org/icga-tournaments/event_info.php?id=15)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Elektor](https://en.wikipedia.org/wiki/Elektor) Chess Computer from [Computer Schach](http://www.andreadrian.de/schach/) by [Andre Adrian](Andre_Adrian "Andre Adrian") (German)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Computer:Club2 - YouTube](https://www.youtube.com/user/computerclubzwei)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Micro-Max, a 133-line Chess Source](http://home.hccnet.nl/h.g.muller/max-src2.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ATmega88 Automotive](http://www.atmel.com/dyn/products/product_card.asp?part_id=3757) from [Atmel Products -Microcontrollers - AVR® 8-Bit RISC](http://www.atmel.com/products/AVR/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Self-made Chess Computer SHAH](http://www.andreadrian.de/schach/#Selbstbau_Schachcomputer_SHAH) based on an [Atmel](https://en.wikipedia.org/wiki/Atmel)-[ATmega88](https://en.wikipedia.org/wiki/ATmega88) [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller) and Micro-Max-port by [Andre Adrian](Andre_Adrian "Andre Adrian") (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Amsterdam 2007, Chess, Round 3, Game 1](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=173&round=3&id=1) from the [ICGA Tournament Database](https://www.game-ai-forum.org/icga-tournaments/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Amsterdam 2007 WCCC, Olympiad and Workshop / Photos](https://www.game-ai-forum.org/icga-tournaments/event_info.php?id=15)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Elektor](https://en.wikipedia.org/wiki/Elektor) Chess Computer from [Computer Schach](http://www.andreadrian.de/schach/) by [Andre Adrian](Andre_Adrian "Andre Adrian") (German)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Computer:Club2 - YouTube](https://www.youtube.com/user/computerclubzwei)
 
 **[Up one Level](Engines "Engines")**
 

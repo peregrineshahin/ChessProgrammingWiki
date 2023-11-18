@@ -30,7 +30,7 @@ a Spanish computer chess programmer and author of the [UCI](UCI "UCI") compliant
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sungorus 1.4 - download](https://sites.google.com/site/sungorus/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sungorus 1.4 - download](https://sites.google.com/site/sungorus/)
 
 **[Up one level](People "People")**
 

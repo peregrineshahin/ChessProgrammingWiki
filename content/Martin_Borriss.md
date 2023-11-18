@@ -39,13 +39,13 @@ As computer chess programmer, Martin Borriss is author of the free [open source 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Martin Borriss | LinkedIn](https://www.linkedin.com/in/martinborriss/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Borriss, Martin, Dr. FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=4611950)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Martin Borriss | LinkedIn](https://www.linkedin.com/in/martinborriss/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Gullydeckel Chess Program](http://borriss.com/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [TUD - Operating Systems - Finished projects](http://www.inf.tu-dresden.de/index.php?node_id=1701)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Martin Borriss](https://dblp.org/pers/hd/b/Borriss:Martin)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Asynchronous transfer mode from Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_transfer_mode)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Martin Borriss | LinkedIn](https://www.linkedin.com/in/martinborriss/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Borriss, Martin, Dr. FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=4611950)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Martin Borriss | LinkedIn](https://www.linkedin.com/in/martinborriss/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Gullydeckel Chess Program](http://borriss.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [TUD - Operating Systems - Finished projects](http://www.inf.tu-dresden.de/index.php?node_id=1701)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Martin Borriss](https://dblp.org/pers/hd/b/Borriss:Martin)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Asynchronous transfer mode from Wikipedia](https://en.wikipedia.org/wiki/Asynchronous_transfer_mode)
 
 **[Up one level](People "People")**
 

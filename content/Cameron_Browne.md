@@ -66,13 +66,13 @@ Cameron Browne (**2015**). *Embed the Rules*. [pdf](http://www.cameronius.com/ga
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CV for Cameron Browne](http://cambolbro.com/cv/index.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Cameron Browne (**2008**). *Automatic Generation and Evaluation of Recombination Games*. Ph.D. thesis, [Queensland University of Technology](https://en.wikipedia.org/wiki/Queensland_University_of_Technology), advisor [Frédéric Maire](Mathematician#Maire "Mathematician"), [pdf](http://eprints.qut.edu.au/17025/1/Cameron_Browne_Thesis.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CV for Cameron Browne](http://www.cameronius.com/cv/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2010**). *Automatic Generation and Evaluation of Recombination Games*. Doctoral Dissertation by Cameron Browne, Review, [ICGA Journal, Vol. 33, No. 4](ICGA_Journal#33_4 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Cameron's Yavalath Page](http://cambolbro.com/games/yavalath/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [GECCO 2012](http://www.sigevo.org/gecco-2012/competitions.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Digital Ludeme Project](http://ludeme.eu/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CV for Cameron Browne](http://cambolbro.com/cv/index.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Cameron Browne (**2008**). *Automatic Generation and Evaluation of Recombination Games*. Ph.D. thesis, [Queensland University of Technology](https://en.wikipedia.org/wiki/Queensland_University_of_Technology), advisor [Frédéric Maire](Mathematician#Maire "Mathematician"), [pdf](http://eprints.qut.edu.au/17025/1/Cameron_Browne_Thesis.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CV for Cameron Browne](http://www.cameronius.com/cv/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2010**). *Automatic Generation and Evaluation of Recombination Games*. Doctoral Dissertation by Cameron Browne, Review, [ICGA Journal, Vol. 33, No. 4](ICGA_Journal#33_4 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Cameron's Yavalath Page](http://cambolbro.com/games/yavalath/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GECCO 2012](http://www.sigevo.org/gecco-2012/competitions.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Digital Ludeme Project](http://ludeme.eu/)
 
 **[Up one level](People "People")**
 

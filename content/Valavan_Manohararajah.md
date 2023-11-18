@@ -49,12 +49,12 @@ a Sri Lanka born, Canadian computer scientist with M.Sc. and Ph.D. degrees from 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Valavan Manohararajah at [Aegon 1997](Aegon_1997 "Aegon 1997"), cropped from [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Valavan Manohararajah (**2001**). *Parallel Alpha-Beta Search on Shared Memory Multiprocessors*. M.Sc. thesis, [pdf](http://www.top-5000.nl/ps/Parallel%20Alpha-Beta%20Search%20on%20Shared%20Memory%20Multiprocessors.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Papers by Valavan Manohararajah](http://www.valavan.net/papers.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Valavan Manohararajah](https://dblp.uni-trier.de/pers/hd/m/Manohararajah:Valavan)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Misinformation about RAJAH in the ICCA](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/36325d4b7bb0eea4#) by Valavan Manohararajah, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 5, 1997
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Misinformation about RAJAH in the ICCA - APOLOGY](http://groups.google.com/group/rec.games.chess.computer/msg/47916b5f26aee711) by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 8, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Valavan Manohararajah at [Aegon 1997](Aegon_1997 "Aegon 1997"), cropped from [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Valavan Manohararajah (**2001**). *Parallel Alpha-Beta Search on Shared Memory Multiprocessors*. M.Sc. thesis, [pdf](http://www.top-5000.nl/ps/Parallel%20Alpha-Beta%20Search%20on%20Shared%20Memory%20Multiprocessors.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Papers by Valavan Manohararajah](http://www.valavan.net/papers.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Valavan Manohararajah](https://dblp.uni-trier.de/pers/hd/m/Manohararajah:Valavan)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Misinformation about RAJAH in the ICCA](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/36325d4b7bb0eea4#) by Valavan Manohararajah, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 5, 1997
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Misinformation about RAJAH in the ICCA - APOLOGY](http://groups.google.com/group/rec.games.chess.computer/msg/47916b5f26aee711) by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 8, 1997
 
 **[Up one level](People "People")**
 

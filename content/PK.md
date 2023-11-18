@@ -32,11 +32,11 @@ PK80 already played the first [DOCCC 1981](DOCCC_1981 "DOCCC 1981"), running on 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A portrait of Paul Keres age 20-30, The photo was taken in the 30s or 40s in [Estonia](https://en.wikipedia.org/wiki/Estonia), scanned from a book by [Valter Heuer](https://en.wikipedia.org/wiki/Valter_Heuer), "Meie Keres" published in 1977 in the [USSR](https://en.wikipedia.org/wiki/Soviet_Union), [Paul Keres from Wikipedia](https://en.wikipedia.org/wiki/Paul_Keres)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Schaakvereniging Paul Keres](http://www.paulkeres.nl/) (Dutch)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Eerste Nederlands Kampioenschappen Computerschaken](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ard's chesspage](http://vanbergen.me.uk/chess.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computerschaak pagina 2](http://www.csvnsupplementsite.nl/CSVNPAGINA2.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A portrait of Paul Keres age 20-30, The photo was taken in the 30s or 40s in [Estonia](https://en.wikipedia.org/wiki/Estonia), scanned from a book by [Valter Heuer](https://en.wikipedia.org/wiki/Valter_Heuer), "Meie Keres" published in 1977 in the [USSR](https://en.wikipedia.org/wiki/Soviet_Union), [Paul Keres from Wikipedia](https://en.wikipedia.org/wiki/Paul_Keres)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Schaakvereniging Paul Keres](http://www.paulkeres.nl/) (Dutch)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Eerste Nederlands Kampioenschappen Computerschaken](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ard's chesspage](http://vanbergen.me.uk/chess.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computerschaak pagina 2](http://www.csvnsupplementsite.nl/CSVNPAGINA2.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
 
 **[Up one level](Engines "Engines")**
 

@@ -50,11 +50,11 @@ At [ICGA](ICGA "ICGA") [Computer Olympiads](Computer_Olympiad "Computer Olympiad
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from XieXie Master User Manual 2.2.0
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Xiexiemaster from Wikipedia](https://en.wikipedia.org/wiki/Xiexiemaster)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Xiexiemaster from Wikipedia](https://en.wikipedia.org/wiki/Xiexiemaster)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Hi Mr Muller, any news for the 2016 Chinese Chess Olympiad](http://www.talkchess.com/forum/viewtopic.php?t=60670&start=1) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), July 02, 2016
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 03, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from XieXie Master User Manual 2.2.0
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Xiexiemaster from Wikipedia](https://en.wikipedia.org/wiki/Xiexiemaster)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Xiexiemaster from Wikipedia](https://en.wikipedia.org/wiki/Xiexiemaster)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Hi Mr Muller, any news for the 2016 Chinese Chess Olympiad](http://www.talkchess.com/forum/viewtopic.php?t=60670&start=1) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), July 02, 2016
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 03, 2017
 
 **[Up one Level](Chinese_Chess "Chinese Chess")**
 

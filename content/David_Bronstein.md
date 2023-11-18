@@ -96,16 +96,16 @@ Qd8 16.Rg1 h6 17.fxe6 g6 18.exf7+ Kxf7 19.Qe2 Kg7 20.h4 Bxh4 21.Nf5+ Kh7
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> David Bronstein, July 16, 1968, from [Dutch National Archives, The Hague, Fotocollectie Algemeen Nederlands Persbureau (ANeFo), 1945-1989](http://www.gahetna.nl/over-ons/open-data) Nummer toegang 2.24.01.05 Bestanddeelnummer 921-5139, Eric Koch, Anefo, [David Bronstein from Wikipedia](https://en.wikipedia.org/wiki/David_Bronstein)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> David Bronstein, [Tom Fürstenberg](Tom_F%C3%BCrstenberg "Tom Fürstenberg") (**1995**). *[The Sorcerer's Apprentice](Tom_F%C3%BCrstenberg#TheSorcerersApprentice "Tom Fürstenberg")*. Cadogan Books, London. ISBN 1-85744-151-6, pp. 188 (47) Bronstein,D - [Rebel 90](Rebel "Rebel"), pp. 278 (26) Bronstein,D - [M20 Computer](ITEP_Chess_Program "ITEP Chess Program")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Bronstein vs M20 (Computer) 1963](http://www.chessgames.com/perl/chessgame?gid=1238081) from [chessgames.com](http://www.chessgames.com/index.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Aegon 1992](http://www.csvn.nl/index.php?option=com_content&task=view&id=118&Itemid=50) from [CSVN Computerschaak](CSVN "CSVN")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Sorcerer's Apprentice (Cadogan Chess Books)](http://www.amazon.com/exec/obidos/tg/detail/-/1857441516/104-6193618-9046309?vi=glance) from [amazon.com](http://www.amazon.com/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Photo from [Tom Furstenberg](http://users.skynet.be/fidelity/furstenberg.html) - David Bronstein and myself at the AEGON Human v. Computer tournament in Den Haag, 1991
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> David Bronstein vs. [XXXX](XXXX "XXXX"), Photo by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") from [Aegon 1996-97](http://www.thorstenczub.de/aegon.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [David Bronstein dies at 82](http://www.chessbase.com/newsdetail.asp?newsid=3525) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel") from [ChessBase News](ChessBase "ChessBase"), December 07, 2006
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Zurich 1953 chess tournament](https://en.wikipedia.org/wiki/Zurich_1953_chess_tournament)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Sorcerer's Apprentice (Cadogan Chess Books) from amazon.com](https://www.amazon.com/Sorcerers-Apprentice-Cadogan-Chess-Books/dp/1857441516)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> David Bronstein, July 16, 1968, from [Dutch National Archives, The Hague, Fotocollectie Algemeen Nederlands Persbureau (ANeFo), 1945-1989](http://www.gahetna.nl/over-ons/open-data) Nummer toegang 2.24.01.05 Bestanddeelnummer 921-5139, Eric Koch, Anefo, [David Bronstein from Wikipedia](https://en.wikipedia.org/wiki/David_Bronstein)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> David Bronstein, [Tom Fürstenberg](Tom_F%C3%BCrstenberg "Tom Fürstenberg") (**1995**). *[The Sorcerer's Apprentice](Tom_F%C3%BCrstenberg#TheSorcerersApprentice "Tom Fürstenberg")*. Cadogan Books, London. ISBN 1-85744-151-6, pp. 188 (47) Bronstein,D - [Rebel 90](Rebel "Rebel"), pp. 278 (26) Bronstein,D - [M20 Computer](ITEP_Chess_Program "ITEP Chess Program")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Bronstein vs M20 (Computer) 1963](http://www.chessgames.com/perl/chessgame?gid=1238081) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Aegon 1992](http://www.csvn.nl/index.php?option=com_content&task=view&id=118&Itemid=50) from [CSVN Computerschaak](CSVN "CSVN")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Sorcerer's Apprentice (Cadogan Chess Books)](http://www.amazon.com/exec/obidos/tg/detail/-/1857441516/104-6193618-9046309?vi=glance) from [amazon.com](http://www.amazon.com/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photo from [Tom Furstenberg](http://users.skynet.be/fidelity/furstenberg.html) - David Bronstein and myself at the AEGON Human v. Computer tournament in Den Haag, 1991
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> David Bronstein vs. [XXXX](XXXX "XXXX"), Photo by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") from [Aegon 1996-97](http://www.thorstenczub.de/aegon.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [David Bronstein dies at 82](http://www.chessbase.com/newsdetail.asp?newsid=3525) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel") from [ChessBase News](ChessBase "ChessBase"), December 07, 2006
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Zurich 1953 chess tournament](https://en.wikipedia.org/wiki/Zurich_1953_chess_tournament)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Sorcerer's Apprentice (Cadogan Chess Books) from amazon.com](https://www.amazon.com/Sorcerers-Apprentice-Cadogan-Chess-Books/dp/1857441516)
 
 **[Up one level](People "People")**
 

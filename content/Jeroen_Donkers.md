@@ -101,10 +101,10 @@ Beside the development of a [Java](Java "Java") [Games](Games "Games") Research 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [H.H.L.M. Donkers - Maastricht University](https://www.maastrichtuniversity.nl/jeroen.donkers)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Geoffrey Irving](index.php?title=Geoffrey_Irving&action=edit&redlink=1 "Geoffrey Irving (page does not exist)"), Jeroen Donkers, [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2000**). *Solving Kalah*. [5th Computer Olympiad Workshop](5th_Computer_Olympiad#Workshop "5th Computer Olympiad")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: H. H. L. M. Donkers](https://dblp.uni-trier.de/pers/hd/d/Donkers:H=_H=_L=_M=)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal") (**2002**). *Awari is Solved*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [H.H.L.M. Donkers - Maastricht University](https://www.maastrichtuniversity.nl/jeroen.donkers)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Geoffrey Irving](index.php?title=Geoffrey_Irving&action=edit&redlink=1 "Geoffrey Irving (page does not exist)"), Jeroen Donkers, [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2000**). *Solving Kalah*. [5th Computer Olympiad Workshop](5th_Computer_Olympiad#Workshop "5th Computer Olympiad")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: H. H. L. M. Donkers](https://dblp.uni-trier.de/pers/hd/d/Donkers:H=_H=_L=_M=)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal") (**2002**). *Awari is Solved*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -90,15 +90,15 @@ Since July 2000, Muggleton is Editor-in-chief of the *Machine Intelligence Serie
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stephen H. Muggleton](http://wp.doc.ic.ac.uk/shm/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computational Bioinformatics Laboratory](http://www.doc.ic.ac.uk/bioinformatics/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Profile of Professor Stephen H. Muggleton](http://www.doc.ic.ac.uk/%7Eshm/profile.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Stephen Muggleton (**1991**). *[Inductive Logic Programming](https://link.springer.com/article/10.1007/BF03037089)*. [New Generation Computing](https://link.springer.com/journal/354/8/4/page/1), Vol. 8, No. 4
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Machine Intelligence series](http://www.doc.ic.ac.uk/~shm/MI/mi.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Stephen Muggleton's publications](http://www.doc.ic.ac.uk/~shm/pub.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Stephen Muggleton](https://dblp.uni-trier.de/pers/hd/m/Muggleton:Stephen.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [First-order logic from Wikipedia](https://en.wikipedia.org/wiki/First-order_logic)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stephen H. Muggleton](http://wp.doc.ic.ac.uk/shm/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computational Bioinformatics Laboratory](http://www.doc.ic.ac.uk/bioinformatics/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Profile of Professor Stephen H. Muggleton](http://www.doc.ic.ac.uk/%7Eshm/profile.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Stephen Muggleton (**1991**). *[Inductive Logic Programming](https://link.springer.com/article/10.1007/BF03037089)*. [New Generation Computing](https://link.springer.com/journal/354/8/4/page/1), Vol. 8, No. 4
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Machine Intelligence series](http://www.doc.ic.ac.uk/~shm/MI/mi.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Stephen Muggleton's publications](http://www.doc.ic.ac.uk/~shm/pub.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Stephen Muggleton](https://dblp.uni-trier.de/pers/hd/m/Muggleton:Stephen.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [First-order logic from Wikipedia](https://en.wikipedia.org/wiki/First-order_logic)
 
 **[Up one level](Engines "Engines")**
 

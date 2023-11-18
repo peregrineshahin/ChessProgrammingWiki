@@ -184,14 +184,14 @@ A trend driven by collectors and enthusiasts of exclusive chess board computers,
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mephisto X computer chess board at the 20th ACM North American Computer Chess Championship in Reno, Nevada](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc190001), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [LegoLab](http://www.dcs.gla.ac.uk/%7Erod/legolab/index.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Lego from Wikipedia](https://en.wikipedia.org/wiki/Lego)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Lego Mindstorms from Wikipedia](https://en.wikipedia.org/wiki/Lego_Mindstorms)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Excellent Chess Computer Web Site](http://hiarcs.net/forums/viewtopic.php?t=6578&sid=b7c1e806c342b662b536ab62b24d7929) by [Chessmaster Ireland](index.php?title=Bryan_Whitby&action=edit&redlink=1 "Bryan Whitby (page does not exist)"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), February 08, 2014
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [It's Magic](http://www.hiarcs.net/forums/viewtopic.php?t=4546) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), November 23, 2011
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") (**1990**). *A Matchbox Chess Computer*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 13, No. 4
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mephisto X computer chess board at the 20th ACM North American Computer Chess Championship in Reno, Nevada](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc190001), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [LegoLab](http://www.dcs.gla.ac.uk/%7Erod/legolab/index.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Lego from Wikipedia](https://en.wikipedia.org/wiki/Lego)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Lego Mindstorms from Wikipedia](https://en.wikipedia.org/wiki/Lego_Mindstorms)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Excellent Chess Computer Web Site](http://hiarcs.net/forums/viewtopic.php?t=6578&sid=b7c1e806c342b662b536ab62b24d7929) by [Chessmaster Ireland](index.php?title=Bryan_Whitby&action=edit&redlink=1 "Bryan Whitby (page does not exist)"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), February 08, 2014
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [It's Magic](http://www.hiarcs.net/forums/viewtopic.php?t=4546) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), November 23, 2011
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") (**1990**). *A Matchbox Chess Computer*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 13, No. 4
 
 **[Home](Home "Home")**
 

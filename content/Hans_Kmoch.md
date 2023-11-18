@@ -54,9 +54,9 @@ was an Austrian-Dutch-American [International Master](https://en.wikipedia.org/w
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Hans Kmoch congratulates [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), [Groningen 1946 chess tournament](https://en.wikipedia.org/wiki/Groningen_1946_chess_tournament), cropped from Photo by [Theo van Haren Noman](https://nl.wikipedia.org/wiki/Theo_van_Haren_Noman) ([ANEFO](https://en.wikipedia.org/wiki/Anefo)), September 06, 1946
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pawn Power in Chess by Hans Kmoch - Glossary of Terms - Chess Forums](https://www.chess.com/forum/view/chess-equipment/pawn-power-in-chess-by-hans-kmoch-glossary-of-terms) - [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Amazon.com: Review of Pawn Power in Chess (Dover Chess)](https://www.amazon.com/review/R3Q8OCBBE3J98S) by [Russell Reagan](Russell_Reagan "Russell Reagan"), August 18, 2001
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Hans Kmoch congratulates [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), [Groningen 1946 chess tournament](https://en.wikipedia.org/wiki/Groningen_1946_chess_tournament), cropped from Photo by [Theo van Haren Noman](https://nl.wikipedia.org/wiki/Theo_van_Haren_Noman) ([ANEFO](https://en.wikipedia.org/wiki/Anefo)), September 06, 1946
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pawn Power in Chess by Hans Kmoch - Glossary of Terms - Chess Forums](https://www.chess.com/forum/view/chess-equipment/pawn-power-in-chess-by-hans-kmoch-glossary-of-terms) - [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Amazon.com: Review of Pawn Power in Chess (Dover Chess)](https://www.amazon.com/review/R3Q8OCBBE3J98S) by [Russell Reagan](Russell_Reagan "Russell Reagan"), August 18, 2001
 
 **[Up one level](People "People")**
 

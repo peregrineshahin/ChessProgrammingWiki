@@ -58,9 +58,9 @@ With integers a null-window is defined as alpha == beta - 1.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Judea Pearl](Judea_Pearl "Judea Pearl") (**1980**). *Scout: A Simple Game-Searching Algorithm with Proven Optimal Properties*. Proceedings of the First Annual National Conference on Artificial Intelligence. Stanford. [pdf](http://ftp.cs.ucla.edu/pub/stat_ser/scout.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1980**). *An optimization of alpha-beta search*, SIGART Bulletin, Issue 72
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn"), personal communication
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Judea Pearl](Judea_Pearl "Judea Pearl") (**1980**). *Scout: A Simple Game-Searching Algorithm with Proven Optimal Properties*. Proceedings of the First Annual National Conference on Artificial Intelligence. Stanford. [pdf](http://ftp.cs.ucla.edu/pub/stat_ser/scout.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1980**). *An optimization of alpha-beta search*, SIGART Bulletin, Issue 72
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn"), personal communication
 
 **[Up one level](Dictionary "Dictionary")**
 

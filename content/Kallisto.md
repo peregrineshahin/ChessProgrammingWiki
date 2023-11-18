@@ -59,11 +59,11 @@ Kallisto had its debut at the [DOCCC 1987](DOCCC_1987 "DOCCC 1987") running on a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [François Boucher](Category:Fran%C3%A7ois_Boucher "Category:François Boucher") - Jupiter and Callisto, 1744 [François Boucher - Wikimedia Commons](https://commons.wikimedia.org/wiki/Fran%C3%A7ois_Boucher)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bart Westrate - Kallisto II: 25,05 Euro - Schachprogramm](http://www.schachversand.de/d/detail/software/128.html) from [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann") (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Zevende Nederlands Kampioenschap Computerschaak, Leiden 10, 11, 17 en 18 Oktober 1987.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1987,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201987.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1987](DOCCC_1987 "DOCCC 1987")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Aegon 1997](http://www.csvn.nl/index.php?option=com_content&view=article&id=123%3Aaegon-1997&catid=26%3Amens-computer&Itemid=50&lang=en), [CSVN](CSVN "CSVN") tournament site
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [François Boucher](Category:Fran%C3%A7ois_Boucher "Category:François Boucher") - Jupiter and Callisto, 1744 [François Boucher - Wikimedia Commons](https://commons.wikimedia.org/wiki/Fran%C3%A7ois_Boucher)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bart Westrate - Kallisto II: 25,05 Euro - Schachprogramm](http://www.schachversand.de/d/detail/software/128.html) from [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann") (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Zevende Nederlands Kampioenschap Computerschaak, Leiden 10, 11, 17 en 18 Oktober 1987.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1987,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201987.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1987](DOCCC_1987 "DOCCC 1987")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Aegon 1997](http://www.csvn.nl/index.php?option=com_content&view=article&id=123%3Aaegon-1997&catid=26%3Amens-computer&Itemid=50&lang=en), [CSVN](CSVN "CSVN") tournament site
 
 **[Up one level](Engines "Engines")**
 

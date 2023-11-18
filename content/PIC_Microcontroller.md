@@ -60,11 +60,11 @@ a family of [microcontrollers](https://en.wikipedia.org/wiki/Microcontroller) (M
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [PICKit](https://en.wikipedia.org/wiki/PICkit) 3 Debug Express with demo board, [Image](https://commons.wikimedia.org/wiki/File:PICKit3.jpg) by Glossywhite, February 01, 2011, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PIC microcontroller from Wikipedia](https://en.wikipedia.org/wiki/PIC_microcontroller)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology) (**2009**). *[16-bit MCU and DSC Programmer’s Reference Manual](http://ww1.microchip.com/downloads/en/DeviceDoc/70157D.pdf)*. (pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Microchip PIC Family Reference Manuals - Compiled - Microcontroller](https://eewiki.net/display/microcontroller/Microchip+PIC+Family+Reference+Manuals+-+Compiled) - [eewiki](https://eewiki.net/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [luciodj / FlyingPIC24 / source / — Bitbucket](https://bitbucket.org/luciodj/flyingpic24/src)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [PICKit](https://en.wikipedia.org/wiki/PICkit) 3 Debug Express with demo board, [Image](https://commons.wikimedia.org/wiki/File:PICKit3.jpg) by Glossywhite, February 01, 2011, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PIC microcontroller from Wikipedia](https://en.wikipedia.org/wiki/PIC_microcontroller)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology) (**2009**). *[16-bit MCU and DSC Programmer’s Reference Manual](http://ww1.microchip.com/downloads/en/DeviceDoc/70157D.pdf)*. (pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Microchip PIC Family Reference Manuals - Compiled - Microcontroller](https://eewiki.net/display/microcontroller/Microchip+PIC+Family+Reference+Manuals+-+Compiled) - [eewiki](https://eewiki.net/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [luciodj / FlyingPIC24 / source / — Bitbucket](https://bitbucket.org/luciodj/flyingpic24/src)
 
 **[Up one Level](Hardware "Hardware")**
 

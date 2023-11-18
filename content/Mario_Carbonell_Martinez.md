@@ -30,9 +30,9 @@ He also organized the [2nd Spanish Computer-Chess Championship 1994](SCCC_1994 "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Josep Parés](Natalia_Par%C3%A9s "Natalia Parés"), [Teresa Canela](Teresa_Canela "Teresa Canela") (**1993**). *Report on the 1st Spanish Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [One idea to solve chess?](http://www.talkchess.com/forum/viewtopic.php?t=66003) by Mario Carbonell Martinez, [CCC](CCC "CCC"), December 13, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Josep Parés](Natalia_Par%C3%A9s "Natalia Parés"), [Teresa Canela](Teresa_Canela "Teresa Canela") (**1993**). *Report on the 1st Spanish Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [One idea to solve chess?](http://www.talkchess.com/forum/viewtopic.php?t=66003) by Mario Carbonell Martinez, [CCC](CCC "CCC"), December 13, 2017
 
 **[Up one level](People "People")**
 

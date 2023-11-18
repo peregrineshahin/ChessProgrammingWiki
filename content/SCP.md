@@ -86,13 +86,13 @@ SCP's [evaluation](Evaluation "Evaluation") considers [material](Material "Mater
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [v01i023: chess - C source for chess](https://groups.google.com/d/msg/comp.sources.games/zs_1mrpdseE/YL2yGrzoXrEJ) by [John Stanback](John_Stanback "John Stanback"), [comp.sources.games](Computer_Chess_Forums "Computer Chess Forums"), May 21, 1987
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess 2.0 for Amiga (1989)](http://www.mobygames.com/game/amiga/chess-20), [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SCP/Gnuchess 2.02 JA by John Stanback - Update](http://www.talkchess.com/forum/viewtopic.php?t=29106) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), July 25, 2009
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SCP](http://kirr.homeunix.org/chess/engines/Jim%20Ablett/SCP/) maintained and updated by [Jim Ablett](Jim_Ablett "Jim Ablett"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Detecting three-fold repetition?](https://www.stmintz.com/ccc/index.php?id=119911) by [John Stanback](John_Stanback "John Stanback"), [CCC](CCC "CCC"), July 17, 2000
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Move Tables - explain as if I'm five](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=490672&t=45846) by [Karlo Bala Jr.](Karlo_Balla "Karlo Balla"), [CCC](CCC "CCC"), November 05, 2012
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [v01i023: chess - C source for chess](https://groups.google.com/d/msg/comp.sources.games/zs_1mrpdseE/YL2yGrzoXrEJ) by [John Stanback](John_Stanback "John Stanback"), [comp.sources.games](Computer_Chess_Forums "Computer Chess Forums"), May 21, 1987
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess 2.0 for Amiga (1989)](http://www.mobygames.com/game/amiga/chess-20), [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SCP/Gnuchess 2.02 JA by John Stanback - Update](http://www.talkchess.com/forum/viewtopic.php?t=29106) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), July 25, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SCP](http://kirr.homeunix.org/chess/engines/Jim%20Ablett/SCP/) maintained and updated by [Jim Ablett](Jim_Ablett "Jim Ablett"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Detecting three-fold repetition?](https://www.stmintz.com/ccc/index.php?id=119911) by [John Stanback](John_Stanback "John Stanback"), [CCC](CCC "CCC"), July 17, 2000
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Move Tables - explain as if I'm five](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=490672&t=45846) by [Karlo Bala Jr.](Karlo_Balla "Karlo Balla"), [CCC](CCC "CCC"), November 05, 2012
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
 
 **[Up one level](Engines "Engines")**
 

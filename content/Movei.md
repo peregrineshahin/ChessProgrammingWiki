@@ -155,10 +155,10 @@ Rxd1+ 26.Rxd1 Nxf3 27.gxf3 Rxf3 28.Ne5 Rf8 29.Rd6 Qe7 30.Nxc6 Qf6 31.Qb1 Qf3+ 32
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Methods to stably evaluate nodes?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=115849&t=13559) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), May 05, 2007
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [movei hash report](http://www.talkchess.com/forum/viewtopic.php?t=15688) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), August 09, 2007
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ramat-Gan 2004 - Chess - Round 5 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=24&round=5&id=5)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Movei report in CCT7:first day](https://www.stmintz.com/ccc/index.php?id=412540) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), February 19, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Methods to stably evaluate nodes?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=115849&t=13559) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), May 05, 2007
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [movei hash report](http://www.talkchess.com/forum/viewtopic.php?t=15688) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), August 09, 2007
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ramat-Gan 2004 - Chess - Round 5 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=24&round=5&id=5)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Movei report in CCT7:first day](https://www.stmintz.com/ccc/index.php?id=412540) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), February 19, 2005
 
 
 

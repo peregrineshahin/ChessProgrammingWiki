@@ -75,10 +75,10 @@ feat. [Chris Speed](https://en.wikipedia.org/wiki/Chris_Speed), [Matt Moran](htt
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Portrait of [Claudia Antonia](https://en.wikipedia.org/wiki/Claudia_Antonia), [Domvs Romana](https://en.wikipedia.org/wiki/Domvs_Romana), Photo by [Marie-Lan Nguyen](https://commons.wikimedia.org/wiki/User:Jastrow), May 07, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Claudia (UCI-program) by Antonio Garro](http://www.talkchess.com/forum/viewtopic.php?t=51541) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), March 09, 2014
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Claudia - Wikipedia.it](https://it.wikipedia.org/wiki/Claudia)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Claudia/README.md at master · antoniogarro/Claudia · GitHub](https://github.com/antoniogarro/Claudia/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Portrait of [Claudia Antonia](https://en.wikipedia.org/wiki/Claudia_Antonia), [Domvs Romana](https://en.wikipedia.org/wiki/Domvs_Romana), Photo by [Marie-Lan Nguyen](https://commons.wikimedia.org/wiki/User:Jastrow), May 07, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Claudia (UCI-program) by Antonio Garro](http://www.talkchess.com/forum/viewtopic.php?t=51541) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), March 09, 2014
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Claudia - Wikipedia.it](https://it.wikipedia.org/wiki/Claudia)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Claudia/README.md at master · antoniogarro/Claudia · GitHub](https://github.com/antoniogarro/Claudia/blob/master/README.md)
 
 **[Up one Level](Engines "Engines")**
 

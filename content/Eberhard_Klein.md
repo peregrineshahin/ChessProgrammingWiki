@@ -20,8 +20,8 @@ further elaborated by Klein in his Ph.D. thesis on the topic of heuristics selec
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](https://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Eberhard Klein (**1976**). *[Heuristische Auswahlmethoden und Lernansätze bei Computerspielen](https://www.tib.eu/en/search/id/tema-archive%3ATEMAE77110357131/Heuristische-Auswahlmethoden-und-Lernansaetze-bei/)*. Ph.D. thesis, [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn), advisor [Gerd Veenker](Gerd_Veenker "Gerd Veenker") (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](https://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Eberhard Klein (**1976**). *[Heuristische Auswahlmethoden und Lernansätze bei Computerspielen](https://www.tib.eu/en/search/id/tema-archive%3ATEMAE77110357131/Heuristische-Auswahlmethoden-und-Lernansaetze-bei/)*. Ph.D. thesis, [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn), advisor [Gerd Veenker](Gerd_Veenker "Gerd Veenker") (German)
 
 **[Up one level](People "People")**
 

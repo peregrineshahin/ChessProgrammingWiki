@@ -88,9 +88,9 @@ Since 1985, Presidents have served a two-year term, preceded by two years as Pre
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Logo of Association for the Advancement of Artificial Intelligence, [Association for the Advancement of Artificial Intelligence from Wikipedia](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AAAI Name Change](http://www.aaai.org/Organization/name-change.php)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [AAAI Past Officers](http://www.aaai.org/Organization/past-officers.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Logo of Association for the Advancement of Artificial Intelligence, [Association for the Advancement of Artificial Intelligence from Wikipedia](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AAAI Name Change](http://www.aaai.org/Organization/name-change.php)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [AAAI Past Officers](http://www.aaai.org/Organization/past-officers.php)
 
 **[Up one level](Organizations "Organizations")**
 

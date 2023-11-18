@@ -35,10 +35,10 @@ After a break of several years, he worked on his engine again and released Cyber
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer Chess Cup 2005](https://www.walkofmind.com/programming/chess/ccc2005.htm) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Pedone promosso!](https://www.scacchisticatorinese.it/portale/scacchi-e-computer/324-pedone-promosso) by [Edoardo Manino](Edoardo_Manino "Edoardo Manino"), [Scacchistica Torinese](https://www.scacchisticatorinese.it/portale/), September 15, 2014 (Italian)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CyberPagno - Winboard Chess Engine](http://cyberpagno.altervista.org)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CyberPagno 2.2](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=53297) by Marco Pagnoncelli, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 19, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer Chess Cup 2005](https://www.walkofmind.com/programming/chess/ccc2005.htm) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Pedone promosso!](https://www.scacchisticatorinese.it/portale/scacchi-e-computer/324-pedone-promosso) by [Edoardo Manino](Edoardo_Manino "Edoardo Manino"), [Scacchistica Torinese](https://www.scacchisticatorinese.it/portale/), September 15, 2014 (Italian)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CyberPagno - Winboard Chess Engine](http://cyberpagno.altervista.org)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CyberPagno 2.2](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=53297) by Marco Pagnoncelli, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 19, 2014
 
 **[Up one level](People "People")**
 

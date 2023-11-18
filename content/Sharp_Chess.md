@@ -39,8 +39,8 @@ a [WinBoard](WinBoard "WinBoard") compliant [open source chess program](Category
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [#Chess](https://web.archive.org/web/20070607093301/http://www.albert.nu/default.asp?sub=programs/default.asp?sub=sharpchess/main.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Description based on source code of v 0.06, [#Chess](https://web.archive.org/web/20070607093301/http://www.albert.nu/default.asp?sub=programs/default.asp?sub=sharpchess/main.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [#Chess](https://web.archive.org/web/20070607093301/http://www.albert.nu/default.asp?sub=programs/default.asp?sub=sharpchess/main.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Description based on source code of v 0.06, [#Chess](https://web.archive.org/web/20070607093301/http://www.albert.nu/default.asp?sub=programs/default.asp?sub=sharpchess/main.htm)
 
 **[Up one level](Engines "Engines")**
 

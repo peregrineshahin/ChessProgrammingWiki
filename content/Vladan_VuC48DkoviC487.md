@@ -57,12 +57,12 @@ a Serbian computer scientist at the Faculty of Electronic Engineering, Computer 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Axon Development](http://chess.elfak.ni.ac.rs/axon.pdf) (pdf, Serbian)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Achilles Home](http://chess.elfak.ni.ac.rs/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Vladan Vuckovic](https://dblp.uni-trier.de/pers/hd/v/Vuckovic:Vladan.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [A New Approach to Draw Detection by Move Repetition](https://www.stmintz.com/ccc/index.php?id=379648) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), July 29, 2004
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Draw Detection by Move Repetition Procedure - Comments](https://www.stmintz.com/ccc/index.php?id=380201) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), August 01, 2004
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Robots/Corobot - ROS Wiki](http://wiki.ros.org/Robots/Corobot)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Axon Development](http://chess.elfak.ni.ac.rs/axon.pdf) (pdf, Serbian)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Achilles Home](http://chess.elfak.ni.ac.rs/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Vladan Vuckovic](https://dblp.uni-trier.de/pers/hd/v/Vuckovic:Vladan.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [A New Approach to Draw Detection by Move Repetition](https://www.stmintz.com/ccc/index.php?id=379648) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), July 29, 2004
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Draw Detection by Move Repetition Procedure - Comments](https://www.stmintz.com/ccc/index.php?id=380201) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), August 01, 2004
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Robots/Corobot - ROS Wiki](http://wiki.ros.org/Robots/Corobot)
 
 **[Up one level](People "People")**
 

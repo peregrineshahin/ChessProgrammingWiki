@@ -30,9 +30,9 @@ The designers of the "Swedish-made" chess computer Conchess, [Ulf Rathsman](Ulf_
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Conchess](http://www.chesscomputeruk.com/html/conchess.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [LOPROC Computer und Logikprozessor Systeme GmbH Feldafing - Branchenbuch meinestadt.de](http://branchenbuch.meinestadt.de/feldafing/company/8300431)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Den "svensktillverkade" schackdatorn Conchess konstruktörer, [Ulf Rathsman](Ulf_Rathsman "Ulf Rathsman") och [Johan Enroth](Johan_Enroth "Johan Enroth"), Image from [Tidskrift för Schack](https://sv.wikipedia.org/wiki/Tidskrift_f%C3%B6r_Schack) utges av [Sveriges Schackförbund](https://sv.wikipedia.org/wiki/Sveriges_Schackf%C3%B6rbund), [No. 9, November, 1982](http://www.schack.se/tfs/tidskrift-for-schack-1982/), pg. 285, [pdf](http://www.schack.se/tfsarkiv/history/1982/tfs_1982_09.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Conchess](http://www.chesscomputeruk.com/html/conchess.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [LOPROC Computer und Logikprozessor Systeme GmbH Feldafing - Branchenbuch meinestadt.de](http://branchenbuch.meinestadt.de/feldafing/company/8300431)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Den "svensktillverkade" schackdatorn Conchess konstruktörer, [Ulf Rathsman](Ulf_Rathsman "Ulf Rathsman") och [Johan Enroth](Johan_Enroth "Johan Enroth"), Image from [Tidskrift för Schack](https://sv.wikipedia.org/wiki/Tidskrift_f%C3%B6r_Schack) utges av [Sveriges Schackförbund](https://sv.wikipedia.org/wiki/Sveriges_Schackf%C3%B6rbund), [No. 9, November, 1982](http://www.schack.se/tfs/tidskrift-for-schack-1982/), pg. 285, [pdf](http://www.schack.se/tfsarkiv/history/1982/tfs_1982_09.pdf)
 
 **[Up one level](Engines "Engines")**
 

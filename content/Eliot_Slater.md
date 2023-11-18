@@ -61,20 +61,20 @@ In retirement he undertook and completed a PhD (later published) in which he mad
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Eliot Slater's contribution](http://www.gresham.ac.uk/uploads/Is%20it%20all%20in%20the%20genes.ppt) from [Gresham College](https://en.wikipedia.org/wiki/Gresham_College) (no longer available [Microsoft PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint) Slides)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Psychiatr Bull MR 7 (9): 175](http://pb.rcpsych.org/cgi/reprint/7/9/175) (pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Eliot Slater from Wikipedia](https://en.wikipedia.org/wiki/Eliot_Slater)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Probleme/Projekte/Prozesse: Die Pasternaks in »Charlottengrad«](http://www.luise-berlin.de/bms/bmstext/9809prof.htm) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Lydia Pasternak Slater, Poet, Is Dead at 87](http://www.nytimes.com/1989/05/19/obituaries/lydia-pasternak-slater-poet-is-dead-at-87.html) - [The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), May 19, 1989
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [The ebbless sea: Poems (1922-1962)](http://www.amazon.com/ebbless-sea-Poems-1922-1962/dp/B0000CO4UE) from [amazon.com](http://www.amazon.com/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Conference on Information theory, 26-29 September 1950](http://www.turing.org.uk/sources/info50index.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), ([David Levy](David_Levy "David Levy") ed.), pp. 115-117. Discussion on Dr. E. Slater's paper
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Conference on Information Theory, London 1950](http://www.turing.org.uk/sources/info50turing.html)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), ([David Levy](David_Levy "David Levy") ed.), pp. 115-117. Discussion on Dr. E. Slater's paper
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Poems by doctors - Eliot Slater](http://bjp.rcpsych.org/cgi/reprint/193/1/72.pdf) from [The British Journal of Psychiatry (2008) 193](http://bjp.rcpsych.org/content/vol193/issue1/), 72, (pdf)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> Eliot Slater (**1975**). *Shakespeare: word links between poems and plays*, N&Q 220 , 157–63
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> Eliot Slater, published (**1988**). *[The problem of The reign of King Edward III - a statistical approach](http://openlibrary.org/b/OL2405839M/problem_of_The_reign_of_King_Edward_III)*
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a>  [Eliot Slater Archive | Chess](http://www.eliotslater.org/index.php/chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Eliot Slater's contribution](http://www.gresham.ac.uk/uploads/Is%20it%20all%20in%20the%20genes.ppt) from [Gresham College](https://en.wikipedia.org/wiki/Gresham_College) (no longer available [Microsoft PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint) Slides)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Psychiatr Bull MR 7 (9): 175](http://pb.rcpsych.org/cgi/reprint/7/9/175) (pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Eliot Slater from Wikipedia](https://en.wikipedia.org/wiki/Eliot_Slater)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Probleme/Projekte/Prozesse: Die Pasternaks in »Charlottengrad«](http://www.luise-berlin.de/bms/bmstext/9809prof.htm) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Lydia Pasternak Slater, Poet, Is Dead at 87](http://www.nytimes.com/1989/05/19/obituaries/lydia-pasternak-slater-poet-is-dead-at-87.html) - [The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), May 19, 1989
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The ebbless sea: Poems (1922-1962)](http://www.amazon.com/ebbless-sea-Poems-1922-1962/dp/B0000CO4UE) from [amazon.com](http://www.amazon.com/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Conference on Information theory, 26-29 September 1950](http://www.turing.org.uk/sources/info50index.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), ([David Levy](David_Levy "David Levy") ed.), pp. 115-117. Discussion on Dr. E. Slater's paper
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Conference on Information Theory, London 1950](http://www.turing.org.uk/sources/info50turing.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), ([David Levy](David_Levy "David Levy") ed.), pp. 115-117. Discussion on Dr. E. Slater's paper
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Poems by doctors - Eliot Slater](http://bjp.rcpsych.org/cgi/reprint/193/1/72.pdf) from [The British Journal of Psychiatry (2008) 193](http://bjp.rcpsych.org/content/vol193/issue1/), 72, (pdf)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> Eliot Slater (**1975**). *Shakespeare: word links between poems and plays*, N&Q 220 , 157–63
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> Eliot Slater, published (**1988**). *[The problem of The reign of King Edward III - a statistical approach](http://openlibrary.org/b/OL2405839M/problem_of_The_reign_of_King_Edward_III)*
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a>  [Eliot Slater Archive | Chess](http://www.eliotslater.org/index.php/chess)
 
 **[Up one Level](People "People")**
 

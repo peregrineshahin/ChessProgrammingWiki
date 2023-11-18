@@ -88,7 +88,7 @@ So far, Sapeli has separate routines to [search](Search "Search") White (max) an
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Sapeli Tree, [Pokola](https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_the_Congo), [Republic of the Congo](https://en.wikipedia.org/wiki/Republic_of_the_Congo), Image by Robert Sharp, February 15, 2008, [Sapele from Wikipedia](https://en.wikipedia.org/wiki/Sapele)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Sapeli Tree, [Pokola](https://en.wikipedia.org/wiki/List_of_cities_in_the_Republic_of_the_Congo), [Republic of the Congo](https://en.wikipedia.org/wiki/Republic_of_the_Congo), Image by Robert Sharp, February 15, 2008, [Sapele from Wikipedia](https://en.wikipedia.org/wiki/Sapele)
 
 **[Up one level](Engines "Engines")**
 

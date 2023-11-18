@@ -41,12 +41,12 @@ They illustrate three categories of possible errors, each with its own cause and
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Owsnicki-Klewe | University of West Florida](https://uwf.edu/hmcse/departments/computer-science/our-faculty/faculty-profiles/dr-bernd-owsnicki-klewe.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**1985**). *Kai von Luck: Aspekte wissensgestützter Planung. Bernd Owsnicki: Repräsentation von positionellem Schachwissen mit Techniken der künstlichen Intelligenz*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1984**). *The Fourth Conference on Advances in Computer Chess*. [ICCA Journal, Vol. 7, No. 2](ICGA_Journal#7_2 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). *[Book review: Advances in Computer Chess 4](https://dl.acm.org/doi/10.1145/24671.1057627)*. [ACM SIGART Bulletin](ACM#SIGART "ACM"), No. 100
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Bernd Owsnicki-Klewe](https://dblp.uni-trier.de/pers/hd/o/Owsnicki=Klewe:Bernd)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Owsnicki-Klewe | University of West Florida](https://uwf.edu/hmcse/departments/computer-science/our-faculty/faculty-profiles/dr-bernd-owsnicki-klewe.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**1985**). *Kai von Luck: Aspekte wissensgestützter Planung. Bernd Owsnicki: Repräsentation von positionellem Schachwissen mit Techniken der künstlichen Intelligenz*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1984**). *The Fourth Conference on Advances in Computer Chess*. [ICCA Journal, Vol. 7, No. 2](ICGA_Journal#7_2 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). *[Book review: Advances in Computer Chess 4](https://dl.acm.org/doi/10.1145/24671.1057627)*. [ACM SIGART Bulletin](ACM#SIGART "ACM"), No. 100
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Bernd Owsnicki-Klewe](https://dblp.uni-trier.de/pers/hd/o/Owsnicki=Klewe:Bernd)
 
 **[Up one level](People "People")**
 

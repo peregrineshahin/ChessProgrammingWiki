@@ -32,8 +32,8 @@ title: La Puce EchiquC3A9enne
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [La Puce N°7](http://www.blitzchess.fr/fr/biblio/lapuceechiqueenne/la-puce-n7.html) from [blitzchess.fr](http://www.blitzchess.fr)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [La Puce Echiquéenne 7-13](http://www.blitzchess.fr/fr/biblio/lapuceechiqueenne/lapuceechiqueene0713/index.html) from [blitzchess.fr](http://www.blitzchess.fr)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [La Puce N°7](http://www.blitzchess.fr/fr/biblio/lapuceechiqueenne/la-puce-n7.html) from [blitzchess.fr](http://www.blitzchess.fr)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [La Puce Echiquéenne 7-13](http://www.blitzchess.fr/fr/biblio/lapuceechiqueenne/lapuceechiqueene0713/index.html) from [blitzchess.fr](http://www.blitzchess.fr)
 
 **[Up one Level](Periodical "Periodical")**
 

@@ -67,9 +67,9 @@ Ba6 32.Qf2 Qb3 33.Bc5 Bh8 34.Qxh4 Bd3 35.Qxh6 Bg6 36.Nh4 Qd3 37.Rc3 Ra7 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tetrasomy X Wikipedia](https://en.wikipedia.org/wiki/Tetrasomy_X)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [XXXX's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=22)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> David Bronstein vs. XXXX, Photo by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") from [Aegon 1996-97](http://www.thorstenczub.de/aegon.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tetrasomy X Wikipedia](https://en.wikipedia.org/wiki/Tetrasomy_X)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [XXXX's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=22)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> David Bronstein vs. XXXX, Photo by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") from [Aegon 1996-97](http://www.thorstenczub.de/aegon.html)
 
 **[Up one Level](Engines "Engines")**
 

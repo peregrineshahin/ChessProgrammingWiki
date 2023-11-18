@@ -94,11 +94,11 @@ Since [TCEC Season 14](TCEC_Season_14 "TCEC Season 14") in 2019, Matthew Sadler 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Matthew Sadler, chess grandmaster, January 2012, [Image](https://commons.wikimedia.org/wiki/File:MatthewSadler12a.jpg) by Stefan64, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Matthew Sadler from Wikipedia](https://en.wikipedia.org/wiki/Matthew_Sadler)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Matthew Sadler analysis of A0 vs SF [Edit: A0 published in Science?]](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=69174) by trulses, [CCC](CCC "CCC"), December 06, 2018
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Natasha Regan from Wikipedia - Game Changer](https://en.wikipedia.org/wiki/Natasha_Regan#Game_Changer)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Matthew Sadler](https://dblp.org/pid/280/8393.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Matthew Sadler, chess grandmaster, January 2012, [Image](https://commons.wikimedia.org/wiki/File:MatthewSadler12a.jpg) by Stefan64, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Matthew Sadler from Wikipedia](https://en.wikipedia.org/wiki/Matthew_Sadler)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Matthew Sadler analysis of A0 vs SF [Edit: A0 published in Science?]](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=69174) by trulses, [CCC](CCC "CCC"), December 06, 2018
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Natasha Regan from Wikipedia - Game Changer](https://en.wikipedia.org/wiki/Natasha_Regan#Game_Changer)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Matthew Sadler](https://dblp.org/pid/280/8393.html)
 
 **[Up one level](People "People")**
 

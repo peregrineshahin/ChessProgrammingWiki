@@ -38,10 +38,10 @@ He left IBM for [Burroughs Corporation](https://en.wikipedia.org/wiki/Burroughs_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Software release life cycle - History, Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle#History)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Emerson W. Pugh](https://mitpress.mit.edu/authors/emerson-w-pugh), [Lyle R. Johnson](https://mitpress.mit.edu/authors/lyle-r-johnson), [John H. Palmer](https://mitpress.mit.edu/authors/john-h-palmer) (**1991**). *[IBM's 360 and Early 370 Systems](https://mitpress.mit.edu/books/ibms-360-and-early-370-systems)*. [The MIT Press](https://en.wikipedia.org/wiki/MIT_Press). pp. 310, 311
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Martin A. Belsky](https://dblp1.uni-trier.de/pers/hd/b/Belsky:Martin_A=)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Software release life cycle - History, Wikipedia](https://en.wikipedia.org/wiki/Software_release_life_cycle#History)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Emerson W. Pugh](https://mitpress.mit.edu/authors/emerson-w-pugh), [Lyle R. Johnson](https://mitpress.mit.edu/authors/lyle-r-johnson), [John H. Palmer](https://mitpress.mit.edu/authors/john-h-palmer) (**1991**). *[IBM's 360 and Early 370 Systems](https://mitpress.mit.edu/books/ibms-360-and-early-370-systems)*. [The MIT Press](https://en.wikipedia.org/wiki/MIT_Press). pp. 310, 311
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Martin A. Belsky](https://dblp1.uni-trier.de/pers/hd/b/Belsky:Martin_A=)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](People "People")**
 

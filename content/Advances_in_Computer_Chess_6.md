@@ -47,8 +47,8 @@ This book is based on the proceedings of the latest international conference on 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Advances in Computer Chess 6](http://www.amazon.de/Advances-Computer-Horwood-Artificial-Intelligence/dp/0130065374) from [amazon.de](http://www.amazon.de/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: 2nd Computer Olympiad --- Chess results](https://groups.google.com/d/msg/rec.games.chess/wUdkcPVTxtQ/rMZePrIN5rsJ) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), August 27, 1990
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Advances in Computer Chess 6](http://www.amazon.de/Advances-Computer-Horwood-Artificial-Intelligence/dp/0130065374) from [amazon.de](http://www.amazon.de/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: 2nd Computer Olympiad --- Chess results](https://groups.google.com/d/msg/rec.games.chess/wUdkcPVTxtQ/rMZePrIN5rsJ) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), August 27, 1990
 
 **[Up one Level](Conferences "Conferences")**
 

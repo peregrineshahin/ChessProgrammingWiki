@@ -32,8 +32,8 @@ synced with Stockfish 11 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [stockfish-js/Readme.md at master · exoticorn/stockfish-js · GitHub](https://github.com/exoticorn/stockfish-js/blob/master/Readme.md)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [stockfish.js/Readme.md at master · nmrugg/stockfish.js · GitHub](https://github.com/nmrugg/stockfish.js/blob/master/Readme.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [stockfish-js/Readme.md at master · exoticorn/stockfish-js · GitHub](https://github.com/exoticorn/stockfish-js/blob/master/Readme.md)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [stockfish.js/Readme.md at master · nmrugg/stockfish.js · GitHub](https://github.com/nmrugg/stockfish.js/blob/master/Readme.md)
 
 **[Up one Level](Stockfish "Stockfish")**
 

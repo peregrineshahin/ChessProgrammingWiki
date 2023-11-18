@@ -59,9 +59,9 @@ an Argentinian computer scientist and as computer chess programmer author of the
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Index of /fedecorigliano/ajedrez](http://www.oocities.org/ar/fedecorigliano/ajedrez/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Falkland Islands from Wikipedia](https://en.wikipedia.org/wiki/Falkland_Islands)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Falklands War from Wikipedia](https://en.wikipedia.org/wiki/Falklands_War)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Index of /fedecorigliano/ajedrez](http://www.oocities.org/ar/fedecorigliano/ajedrez/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Falkland Islands from Wikipedia](https://en.wikipedia.org/wiki/Falkland_Islands)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Falklands War from Wikipedia](https://en.wikipedia.org/wiki/Falklands_War)
 
 **[Up one level](People "People")**
 

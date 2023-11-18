@@ -51,8 +51,8 @@ title: PathDependency
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Methods to stably evaluate nodes?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=115849&t=13559) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), May 05, 2007
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tony Warnock](Tony_Warnock "Tony Warnock"), [Burton Wendroff](Burton_Wendroff "Burton Wendroff") (**1988**). *Search Tables in Computer Chess*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 11, No. 1, pp. 10-13.
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Methods to stably evaluate nodes?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=115849&t=13559) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), May 05, 2007
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tony Warnock](Tony_Warnock "Tony Warnock"), [Burton Wendroff](Burton_Wendroff "Burton Wendroff") (**1988**). *Search Tables in Computer Chess*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 11, No. 1, pp. 10-13.
 
 **[Up one Level](Search "Search")**
 

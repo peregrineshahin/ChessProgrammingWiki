@@ -38,8 +38,8 @@ The computer's name apparently was devoted to [strongman](https://en.wikipedia.o
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Editor (**1994**). *Wunderkiste aus dem Osten*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), 1/94, [pdf](http://tinyurl.com/hd8t2r7) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CSVN Downloads Games Aegon Tournaments](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=40&Itemid=26&lang=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Editor (**1994**). *Wunderkiste aus dem Osten*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), 1/94, [pdf](http://tinyurl.com/hd8t2r7) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CSVN Downloads Games Aegon Tournaments](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=40&Itemid=26&lang=en)
 
 **[Up one level](Engines "Engines")**
 

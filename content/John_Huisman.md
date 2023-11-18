@@ -20,8 +20,8 @@ a Dutch computer scientist and early computer chess programmer. While affiliated
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ben Mittman](Ben_Mittman "Ben Mittman") (**1983**). *ACM's Thirteenth North American Computer Chess Championship*. [ICCA Newletter, Vol. 6, No. 1](ICGA_Journal#6_1 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jan Derksen](Jan_Derksen "Jan Derksen"), John Huisman (**1982**). *[Het schaakprogramma PION : vorderingen in 1981/1982](http://www.worldcat.org/title/schaakprogramma-pion-vorderingen-in-19811982/oclc/30495462)*. [Technische Hogeschool Delft](Delft_University_of_Technology "Delft University of Technology") (Dutch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ben Mittman](Ben_Mittman "Ben Mittman") (**1983**). *ACM's Thirteenth North American Computer Chess Championship*. [ICCA Newletter, Vol. 6, No. 1](ICGA_Journal#6_1 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jan Derksen](Jan_Derksen "Jan Derksen"), John Huisman (**1982**). *[Het schaakprogramma PION : vorderingen in 1981/1982](http://www.worldcat.org/title/schaakprogramma-pion-vorderingen-in-19811982/oclc/30495462)*. [Technische Hogeschool Delft](Delft_University_of_Technology "Delft University of Technology") (Dutch)
 
 **[Up one level](People "People")**
 

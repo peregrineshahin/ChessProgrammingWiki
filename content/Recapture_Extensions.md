@@ -26,8 +26,8 @@ Recapture Extensions are a subset of [Capture Extensions](Capture_Extensions), r
 
 ## References
 
-1.  <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re Recapture Extensions](httpswww.stmintz.comcccindex.phpid=172988) by [Ulrich Türke](Ulrich_T%C3%BCrke Ulrich Türke), [CCC](CCC CCC), June 02, 2001
-2.  <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re Search extensions at promising trajectories](httpwww.talkchess.comforumviewtopic.phptopic_view=threads&p=192791&t=21403) by [Robert Hyatt](Robert_Hyatt Robert Hyatt), [CCC](CCC CCC), May 29, 2008
-3.  <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re extensions](httpwww.open-aurec.comwbforumviewtopic.phpf=4&t=49446&p=186656#p186656) by [Edsel Apostol](Edsel_Apostol Edsel Apostol), [Winboard Forum](Computer_Chess_Forums Computer Chess Forums), August 27, 2008
+1.  <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re Recapture Extensions](httpswww.stmintz.comcccindex.phpid=172988) by [Ulrich Türke](Ulrich_T%C3%BCrke Ulrich Türke), [CCC](CCC CCC), June 02, 2001
+2.  <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re Search extensions at promising trajectories](httpwww.talkchess.comforumviewtopic.phptopic_view=threads&p=192791&t=21403) by [Robert Hyatt](Robert_Hyatt Robert Hyatt), [CCC](CCC CCC), May 29, 2008
+3.  <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re extensions](httpwww.open-aurec.comwbforumviewtopic.phpf=4&t=49446&p=186656#p186656) by [Edsel Apostol](Edsel_Apostol Edsel Apostol), [Winboard Forum](Computer_Chess_Forums Computer Chess Forums), August 27, 2008
 
 **[Up one level](Extensions "Extensions")**

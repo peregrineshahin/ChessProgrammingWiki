@@ -60,11 +60,11 @@ Splitting occurs after the first move has been searched at [PV-nodes](Node_Types
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Super Typhoon Mike at peak intensity on November 11, 1990 at 2221 UTC. [This image](https://commons.wikimedia.org/wiki/File:Typhoon_Mike_11_nov_1990_2221Z.jpg) was produced from data from NOAA-10, provided by [NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration), [Typhoons in the Philippines](https://en.wikipedia.org/wiki/Typhoons_in_the_Philippines) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Monsoon/Typhoon Homepage - Miscellanious](https://wannabe.guru.org/scott/hobbies/chess/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [recogn.c | Copyright (c) Scott Gasch](https://wannabe.guru.org/svn/typhoon/trunk/recogn.c)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [search.c | Copyright (c) Scott Gasch](https://wannabe.guru.org/svn/typhoon/trunk/search.c)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [split.c | Copyright (c) Scott Gasch](https://wannabe.guru.org/svn/typhoon/trunk/split.c)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Super Typhoon Mike at peak intensity on November 11, 1990 at 2221 UTC. [This image](https://commons.wikimedia.org/wiki/File:Typhoon_Mike_11_nov_1990_2221Z.jpg) was produced from data from NOAA-10, provided by [NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration), [Typhoons in the Philippines](https://en.wikipedia.org/wiki/Typhoons_in_the_Philippines) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Monsoon/Typhoon Homepage - Miscellanious](https://wannabe.guru.org/scott/hobbies/chess/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [recogn.c | Copyright (c) Scott Gasch](https://wannabe.guru.org/svn/typhoon/trunk/recogn.c)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [search.c | Copyright (c) Scott Gasch](https://wannabe.guru.org/svn/typhoon/trunk/search.c)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [split.c | Copyright (c) Scott Gasch](https://wannabe.guru.org/svn/typhoon/trunk/split.c)
 
 **[Up one level](Engines "Engines")**
 

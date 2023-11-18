@@ -53,7 +53,7 @@ November 23-25, [2021](Timeline#2021 "Timeline"), held online. ACG is the confer
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Advances in Computer Games 2021 | ICGA](https://icga.org/?page_id=3328)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Advances in Computer Games 2021 | ICGA](https://icga.org/?page_id=3328)
 
 **[Up one Level](Conferences "Conferences")**
 

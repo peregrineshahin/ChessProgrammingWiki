@@ -33,10 +33,10 @@ a Japanese computer scientist affiliated with the [University of Tokyo](https://
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Clipped from [Events 2017: Day 6 - Photo 13 of 13](https://icga.org/?page_id=2185) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Katsuki Ohto LinkedIn](https://www.linkedin.com/in/katsuki-ohto-986a68114/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [computer-go.info - Details of Program: Julie](http://www.computer-go.info/db/oprog.php?a=Julie)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - YuriCat/apery: a USI Shogi engine](https://github.com/YuriCat/apery)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Clipped from [Events 2017: Day 6 - Photo 13 of 13](https://icga.org/?page_id=2185) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Katsuki Ohto LinkedIn](https://www.linkedin.com/in/katsuki-ohto-986a68114/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [computer-go.info - Details of Program: Julie](http://www.computer-go.info/db/oprog.php?a=Julie)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - YuriCat/apery: a USI Shogi engine](https://github.com/YuriCat/apery)
 
 **[Up one Level](People "People")**
 

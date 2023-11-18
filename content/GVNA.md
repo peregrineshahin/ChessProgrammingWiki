@@ -35,8 +35,8 @@ a series of mainframe chess programs written in the early 80s by [Gert Vriend](i
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CSVNP2 - Eerste Nederlands Kampioenschappen Computerschaken](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=30)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CSVNP2 - Eerste Nederlands Kampioenschappen Computerschaken](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=30)
 
 **[Up one level](Engines "Engines")**
 

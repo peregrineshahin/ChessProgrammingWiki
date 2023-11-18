@@ -30,10 +30,10 @@ Jaleh Rezaie defended her Ph.D. in 1993 at the [University of Kentucky](https://
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jaleh Rezaie - North Carolina Central University](http://www.nccu.edu/directory/details.cfm?id=jrezaie)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [STEM-H Institute Established to Focus on Critical Fields of Study | Eastern Kentucky University](http://www.eku.edu/news/stem-h-institute-established-focus-critical-fields-study), October 14, 2011
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Jaleh Rezaie(**1993**). *Distributed game-tree search*. Ph.D. thesis [University of Kentucky](https://en.wikipedia.org/wiki/University_of_Kentucky)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ProQuest Dissertations & Theses](http://proquest.umi.com/pqdlink?Ver=1&Exp=01-19-2014&FMT=7&DID=747215341&RQT=309&attempt=1&cfc=1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jaleh Rezaie - North Carolina Central University](http://www.nccu.edu/directory/details.cfm?id=jrezaie)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [STEM-H Institute Established to Focus on Critical Fields of Study | Eastern Kentucky University](http://www.eku.edu/news/stem-h-institute-established-focus-critical-fields-study), October 14, 2011
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Jaleh Rezaie(**1993**). *Distributed game-tree search*. Ph.D. thesis [University of Kentucky](https://en.wikipedia.org/wiki/University_of_Kentucky)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ProQuest Dissertations & Theses](http://proquest.umi.com/pqdlink?Ver=1&Exp=01-19-2014&FMT=7&DID=747215341&RQT=309&attempt=1&cfc=1)
 
 **[Up one level](People "People")**
 

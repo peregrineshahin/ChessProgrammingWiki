@@ -30,8 +30,8 @@ For his master's thesis, he translated the [Fortran](Fortran "Fortran") program 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 7
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1980**). *Long-Range Planning in Computer Chess*. Master's thesis, Department of Computer Science, [University of Waterloo](University_of_Waterloo "University of Waterloo")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 7
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1980**). *Long-Range Planning in Computer Chess*. Master's thesis, Department of Computer Science, [University of Waterloo](University_of_Waterloo "University of Waterloo")
 
 **[Up one Level](Engines "Engines")**
 

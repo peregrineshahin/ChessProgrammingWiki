@@ -111,9 +111,9 @@ feat.: [Allan Holdsworth](Category:Allan_Holdsworth "Category:Allan Holdsworth")
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Breadth-first search from Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Boost Graph Library: Breadth-First Search](http://www.boost.org/doc/libs/1_43_0/libs/graph/doc/breadth_first_search.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Richard Korf Video](Richard_Korf#JudeaPearl "Richard Korf") at [Judea Pearl Symposium](Judea_Pearl#Symposium "Judea Pearl"), 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Breadth-first search from Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Boost Graph Library: Breadth-First Search](http://www.boost.org/doc/libs/1_43_0/libs/graph/doc/breadth_first_search.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Richard Korf Video](Richard_Korf#JudeaPearl "Richard Korf") at [Judea Pearl Symposium](Judea_Pearl#Symposium "Judea Pearl"), 2010
 
 **[Up one Level](Search "Search")**
 

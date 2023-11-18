@@ -32,10 +32,10 @@ Corel Chess Screen <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [About Alexander G. M. Smith (agmsmith) - Corel Chess for Windows](http://web.ncf.ca/au829/resume.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About Alexander G. M. Smith (agmsmith) - Corel Chess for Windows](http://web.ncf.ca/au829/resume.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Chess program for NT](http://groups.google.com/group/rec.games.chess.computer/msg/c55d836805caa309) by Komputer Korner, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 9, 1998
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [La Máquina Preservadora 4. Don Dailey & Larry Kaufman](http://www.foro.meca-web.es/viewtopic.php?f=9&t=72&start=30#p3105) by Luis a, [Meca Foro](Computer_Chess_Forums "Computer Chess Forums"), October 18, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [About Alexander G. M. Smith (agmsmith) - Corel Chess for Windows](http://web.ncf.ca/au829/resume.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About Alexander G. M. Smith (agmsmith) - Corel Chess for Windows](http://web.ncf.ca/au829/resume.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Chess program for NT](http://groups.google.com/group/rec.games.chess.computer/msg/c55d836805caa309) by Komputer Korner, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 9, 1998
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [La Máquina Preservadora 4. Don Dailey & Larry Kaufman](http://www.foro.meca-web.es/viewtopic.php?f=9&t=72&start=30#p3105) by Luis a, [Meca Foro](Computer_Chess_Forums "Computer Chess Forums"), October 18, 2013
 
 **[Up one Level](Engines "Engines")**
 

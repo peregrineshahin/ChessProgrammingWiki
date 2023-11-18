@@ -62,12 +62,12 @@ Rf8 56.Re7+ Kf4 57.Kb7 Kg3 58.a8=Q Rxa8 59.Kxa8 Kf4 60.Kb7 Kg5 61.Rf7 Kh5 62.Rg7
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Innovation](https://en.wikipedia.org/wiki/Innovation) [Life cycle](https://en.wikipedia.org/wiki/Life_cycle), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The 24th ACM International Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cceea) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1994_24th_ICCC/1994%20ICCC.062303013.sm.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Maurice Ashley Teaches Chess - Review](http://www.thechessdrum.net/MAshleyCD.html) by [Daaim Shabazz](http://www.thechessdrum.net/blog/author/admin/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Zillions of Games - Who Are We?](http://www.zillions-of-games.com/whoarewe.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the [11th World Microcomputer Chess Championship](WMCCC_1991 "WMCCC 1991")*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Vancouver 1991 - Chess - Round 3 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=59&round=3&id=4)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Innovation](https://en.wikipedia.org/wiki/Innovation) [Life cycle](https://en.wikipedia.org/wiki/Life_cycle), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The 24th ACM International Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cceea) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1994_24th_ICCC/1994%20ICCC.062303013.sm.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Maurice Ashley Teaches Chess - Review](http://www.thechessdrum.net/MAshleyCD.html) by [Daaim Shabazz](http://www.thechessdrum.net/blog/author/admin/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Zillions of Games - Who Are We?](http://www.zillions-of-games.com/whoarewe.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Don Beal](Don_Beal "Don Beal") (**1991**). *Report on the [11th World Microcomputer Chess Championship](WMCCC_1991 "WMCCC 1991")*. [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Vancouver 1991 - Chess - Round 3 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=59&round=3&id=4)
 
 **[Up one Level](Engines "Engines")**
 

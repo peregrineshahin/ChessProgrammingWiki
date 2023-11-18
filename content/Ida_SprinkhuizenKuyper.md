@@ -67,12 +67,12 @@ Her research interests include [artificial intelligence](Artificial_Intelligence
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [dr. I.G. Sprinkhuizen-Kuyper](http://www.socsci.ru.nl/idak/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Ida G. Sprinkhuizen-Kuyper](https://dblp.uni-trier.de/pers/hd/s/Sprinkhuizen=Kuyper:Ida_G=)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Koornwinder polynomials from Wikipedia](https://en.wikipedia.org/wiki/Koornwinder_polynomials)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Boundary (topology) from Wikipedia](https://en.wikipedia.org/wiki/Boundary_%28topology%29)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Error-Correcting Output Codes](https://cscheid.net/writing/data_science/error_correcting_output_codes/index.html) by [Carlos Scheidegger](https://cscheid.net/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Red Queen hypothesis from Wikipedia](https://en.wikipedia.org/wiki/Red_Queen_hypothesis)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [dr. I.G. Sprinkhuizen-Kuyper](http://www.socsci.ru.nl/idak/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Ida G. Sprinkhuizen-Kuyper](https://dblp.uni-trier.de/pers/hd/s/Sprinkhuizen=Kuyper:Ida_G=)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Koornwinder polynomials from Wikipedia](https://en.wikipedia.org/wiki/Koornwinder_polynomials)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Boundary (topology) from Wikipedia](https://en.wikipedia.org/wiki/Boundary_%28topology%29)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Error-Correcting Output Codes](https://cscheid.net/writing/data_science/error_correcting_output_codes/index.html) by [Carlos Scheidegger](https://cscheid.net/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Red Queen hypothesis from Wikipedia](https://en.wikipedia.org/wiki/Red_Queen_hypothesis)
 
 **[Up one level](People "People")**
 

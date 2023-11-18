@@ -22,10 +22,10 @@ a chess program by [Robert Arnstein](Robert_Arnstein "Robert Arnstein") for [S-1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [A Memorial to BRUTE FORCE](http://www.lkessler.com/brutefor.shtml) by [Louis Kessler](Louis_Kessler "Louis Kessler")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Larry Wagner](Larry_Wagner "Larry Wagner") (**1978**). *Results of First Microcomputer Chess Tournament*. [Silicon Gulch Gazette](http://www.computerhistory.org/collections/accession/102686281), Vol. 2, No. 4, May 10, 1978, pg. 9
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> *Processor Technology 8080 CHESS User's Manual*. [pdf](http://www.sol20.org/manuals/chess.pdf), [pdf](http://www.imsai.net/support/processor_tech/chess.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [A Memorial to BRUTE FORCE](http://www.lkessler.com/brutefor.shtml) by [Louis Kessler](Louis_Kessler "Louis Kessler")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Larry Wagner](Larry_Wagner "Larry Wagner") (**1978**). *Results of First Microcomputer Chess Tournament*. [Silicon Gulch Gazette](http://www.computerhistory.org/collections/accession/102686281), Vol. 2, No. 4, May 10, 1978, pg. 9
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> *Processor Technology 8080 CHESS User's Manual*. [pdf](http://www.sol20.org/manuals/chess.pdf), [pdf](http://www.imsai.net/support/processor_tech/chess.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
 
 **[Up one Level](Engines "Engines")**
 

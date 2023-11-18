@@ -22,7 +22,7 @@ a German computer scientist and former chess programmer. Martin is author of the
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Photo](http://www.tckerrigan.com/Chess/Stobor/Paderborn/ipccc7.jpg) from [Tom Kerrigan's](Tom_Kerrigan "Tom Kerrigan") [Home Page](http://www.tckerrigan.com/Chess/Stobor/Paderborn/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Photo](http://www.tckerrigan.com/Chess/Stobor/Paderborn/ipccc7.jpg) from [Tom Kerrigan's](Tom_Kerrigan "Tom Kerrigan") [Home Page](http://www.tckerrigan.com/Chess/Stobor/Paderborn/)
 
 **[Up one level](People "People")**
 

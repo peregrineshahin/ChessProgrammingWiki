@@ -38,11 +38,11 @@ Computerized [chess composers](https://en.wikipedia.org/wiki/Chess_composer) of 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WCCC 2004 - Pictures - Day 1](https://web.archive.org/web/20040712021540/http://cs.biu.ac.il/games/pictures.html), img10.jpg with [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") and [Mina Teicher](Mathematician#Teicher "Mathematician")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Fridel Fainshtein (**2006**). *An Orthodox k-Move Problem-Composer for Chess Directmates*. M.Sc. thesis, [Bar-Ilan University](Bar-Ilan_University "Bar-Ilan University"), [pdf](http://www.problemschach.de/KMOVEComposer.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Fridel Fainshtein (**2006**). *An Orthodox k-Move Problem-Composer for Chess Directmates*. M.Sc. thesis, [Bar-Ilan University](Bar-Ilan_University "Bar-Ilan University"), [pdf](http://www.problemschach.de/KMOVEComposer.pdf), Appendix D - 64-bit Representation, pp. 105
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Fridel Fainshtein, [Yaakov HaCohen-Kerner](Yaakov_HaCohen-Kerner "Yaakov HaCohen-Kerner") (**2006**). *A Chess Composer of Two-Move Mate Problems*. [ICGA Journal, Vol. 29, No. 1](ICGA_Journal#29_1 "ICGA Journal"), [pdf](http://homedir.jct.ac.il/~kerner/pdf_docs/ICGA_computer_composer.pdf), Appendix E: 64-bit representation
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Fridel Fainshtein](https://dblp.uni-trier.de/pid/57/2670.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WCCC 2004 - Pictures - Day 1](https://web.archive.org/web/20040712021540/http://cs.biu.ac.il/games/pictures.html), img10.jpg with [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") and [Mina Teicher](Mathematician#Teicher "Mathematician")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Fridel Fainshtein (**2006**). *An Orthodox k-Move Problem-Composer for Chess Directmates*. M.Sc. thesis, [Bar-Ilan University](Bar-Ilan_University "Bar-Ilan University"), [pdf](http://www.problemschach.de/KMOVEComposer.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Fridel Fainshtein (**2006**). *An Orthodox k-Move Problem-Composer for Chess Directmates*. M.Sc. thesis, [Bar-Ilan University](Bar-Ilan_University "Bar-Ilan University"), [pdf](http://www.problemschach.de/KMOVEComposer.pdf), Appendix D - 64-bit Representation, pp. 105
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Fridel Fainshtein, [Yaakov HaCohen-Kerner](Yaakov_HaCohen-Kerner "Yaakov HaCohen-Kerner") (**2006**). *A Chess Composer of Two-Move Mate Problems*. [ICGA Journal, Vol. 29, No. 1](ICGA_Journal#29_1 "ICGA Journal"), [pdf](http://homedir.jct.ac.il/~kerner/pdf_docs/ICGA_computer_composer.pdf), Appendix E: 64-bit representation
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Fridel Fainshtein](https://dblp.uni-trier.de/pid/57/2670.html)
 
 **[Up one level](People "People")**
 

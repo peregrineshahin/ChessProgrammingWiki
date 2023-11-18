@@ -52,8 +52,8 @@ He helped with the Hungarian translation for [Arena](Arena "Arena") and also ser
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [MASPV 2004 Images](http://www.hun-digital.hu/MASPV2004/images.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Szots, Gabor FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=711667)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [MASPV 2004 Images](http://www.hun-digital.hu/MASPV2004/images.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Szots, Gabor FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=711667)
 
 **[Up one Level](People "People")**
 

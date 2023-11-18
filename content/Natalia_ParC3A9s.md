@@ -34,9 +34,9 @@ As former computer chess programmer, Josep Parés was author of the chess progra
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Josep Natalia Parés Vives](http://www.bidmonfa.com/pares_josep.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Olimpbase - Spain 2008](http://www.olimpbase.org/photo/Teams/08spain.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Josep Natalia Parés Vives](http://www.bidmonfa.com/pares_josep.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spanish naming customs from Wikipedia](https://en.wikipedia.org/wiki/Spanish_naming_customs)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Olimpbase - Spain 2008](http://www.olimpbase.org/photo/Teams/08spain.html)
 
 **[Up one level](People "People")**
 

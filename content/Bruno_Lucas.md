@@ -15,8 +15,8 @@ a French software developer and computer chess programmer. Bruno Lucas is author
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> clipped from [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3), as of October 15, 2018 no longer abailable
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dragon (Chess, fr) (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/program.php?id=10)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> clipped from [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3), as of October 15, 2018 no longer abailable
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dragon (Chess, fr) (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/program.php?id=10)
 
 **[Up one level](People "People")**
 

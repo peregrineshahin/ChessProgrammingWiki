@@ -50,14 +50,14 @@ He holds a B.Sc. from [University of Trento](https://en.wikipedia.org/wiki/Unive
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Matthia Sabatelli](https://paintception.github.io/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Matthia Sabatelli | LinkedIn](https://www.linkedin.com/in/matthia-sabatelli-70370b93/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Zacharias Georgiou](Zacharias_Georgiou "Zacharias Georgiou"), [Evangelos Karountzos](Evangelos_Karountzos "Evangelos Karountzos"), [Yaroslav Shkarupa](Yaroslav_Shkarupa "Yaroslav Shkarupa"), Matthia Sabatelli (**2016**). *A Reinforcement Learning Approach for Solving KRK Chess Endgames*. [pdf](https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames/blob/master/project_papers/final_paper/reinforcement-learning-approach(2).pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Matthia Sabatelli (**2017**). *Learning to Play Chess with Minimal Lookahead and Deep Value Neural Networks*. Master's thesis, [University of Groningen](https://en.wikipedia.org/wiki/University_of_Groningen), [pdf](https://www.ai.rug.nl/~mwiering/Thesis_Matthia_Sabatelli.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Matthia Sabatelli](https://dblp.org/pid/160/6434.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [GitHub - paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames: Machine Learning - Reinforcement Learning](https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [GitHub - paintception/DeepChess](https://github.com/paintception/DeepChess)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [GitHub - paintception/Deep-Quality-Value-DQV-Learning-: DQV-Learning: a novel faster synchronous Deep Reinforcement Learning algorithm](https://github.com/paintception/Deep-Quality-Value-DQV-Learning-)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Matthia Sabatelli](https://paintception.github.io/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Matthia Sabatelli | LinkedIn](https://www.linkedin.com/in/matthia-sabatelli-70370b93/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Zacharias Georgiou](Zacharias_Georgiou "Zacharias Georgiou"), [Evangelos Karountzos](Evangelos_Karountzos "Evangelos Karountzos"), [Yaroslav Shkarupa](Yaroslav_Shkarupa "Yaroslav Shkarupa"), Matthia Sabatelli (**2016**). *A Reinforcement Learning Approach for Solving KRK Chess Endgames*. [pdf](https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames/blob/master/project_papers/final_paper/reinforcement-learning-approach(2).pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Matthia Sabatelli (**2017**). *Learning to Play Chess with Minimal Lookahead and Deep Value Neural Networks*. Master's thesis, [University of Groningen](https://en.wikipedia.org/wiki/University_of_Groningen), [pdf](https://www.ai.rug.nl/~mwiering/Thesis_Matthia_Sabatelli.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Matthia Sabatelli](https://dblp.org/pid/160/6434.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GitHub - paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames: Machine Learning - Reinforcement Learning](https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [GitHub - paintception/DeepChess](https://github.com/paintception/DeepChess)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [GitHub - paintception/Deep-Quality-Value-DQV-Learning-: DQV-Learning: a novel faster synchronous Deep Reinforcement Learning algorithm](https://github.com/paintception/Deep-Quality-Value-DQV-Learning-)
 
 **[Up one Level](People "People")**
 

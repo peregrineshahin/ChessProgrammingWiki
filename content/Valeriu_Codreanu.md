@@ -47,10 +47,10 @@ using [multilayer perceptrons](Neural_Networks#Deep "Neural Networks") versus [c
 
 
 1. ↑ [1.0](#cite-ref-linkedin-1-0) [1.1](#cite-ref-linkedin-1-1) [Valeriu Codreanu | LinkedIn](https://www.linkedin.com/in/vcodreanu/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Speaker: Valeriu Codreanu: Artificial Intelligence Conference: Applied AI & machine learning](https://conferences.oreilly.com/artificial-intelligence/ai-eu-2018/public/schedule/speaker/322916.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli") (**2017**). *Learning to Play Chess with Minimal Lookahead and Deep Value Neural Networks*. Master's thesis, [University of Groningen](https://en.wikipedia.org/wiki/University_of_Groningen), [pdf](https://www.ai.rug.nl/~mwiering/Thesis_Matthia_Sabatelli.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli"), [Francesco Bidoia](Francesco_Bidoia "Francesco Bidoia"), Valeriu Codreanu, [Marco Wiering](Marco_Wiering "Marco Wiering") (**2018**). *Learning to Evaluate Chess Positions with Deep Neural Networks and Limited Lookahead*. [ICPRAM 2018](http://www.icpram.org/?y=2018), [pdf](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CHESS_DNN_2018.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Valeriu Codreanu](https://dblp.org/pid/136/5479.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Speaker: Valeriu Codreanu: Artificial Intelligence Conference: Applied AI & machine learning](https://conferences.oreilly.com/artificial-intelligence/ai-eu-2018/public/schedule/speaker/322916.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli") (**2017**). *Learning to Play Chess with Minimal Lookahead and Deep Value Neural Networks*. Master's thesis, [University of Groningen](https://en.wikipedia.org/wiki/University_of_Groningen), [pdf](https://www.ai.rug.nl/~mwiering/Thesis_Matthia_Sabatelli.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli"), [Francesco Bidoia](Francesco_Bidoia "Francesco Bidoia"), Valeriu Codreanu, [Marco Wiering](Marco_Wiering "Marco Wiering") (**2018**). *Learning to Evaluate Chess Positions with Deep Neural Networks and Limited Lookahead*. [ICPRAM 2018](http://www.icpram.org/?y=2018), [pdf](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CHESS_DNN_2018.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Valeriu Codreanu](https://dblp.org/pid/136/5479.html)
 
 **[Up one Level](People "People")**
 

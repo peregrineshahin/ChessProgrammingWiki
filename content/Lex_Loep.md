@@ -26,9 +26,9 @@ In 2002 Lokasoft took over the activities of [Schröder BV](Ed_Schroder "Ed Schr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [History of ChessPartner](http://web.archive.org/web/20101103155509/http://www.lokasoft.nl/history.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ChessPartner 6.0](https://www.lokasoft.nl/chesspartner.aspx)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Company Information](http://www.rebel.nl/lokasoft.htm), by [Ed Schröder](Ed_Schroder "Ed Schroder") and Lex Loep, September 1, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [History of ChessPartner](http://web.archive.org/web/20101103155509/http://www.lokasoft.nl/history.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ChessPartner 6.0](https://www.lokasoft.nl/chesspartner.aspx)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Company Information](http://www.rebel.nl/lokasoft.htm), by [Ed Schröder](Ed_Schroder "Ed Schroder") and Lex Loep, September 1, 2002
 
 **[Up one level](People "People")**
 

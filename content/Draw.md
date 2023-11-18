@@ -129,11 +129,11 @@ Usually, assuming symmetric [evaluation](Evaluation "Evaluation") and [negamaxed
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Elke Rehder](Category:Elke_Rehder "Category:Elke Rehder") - Remis (1990) (two kings in a draw), [Holzschnitte zum Schach](http://www.elke-rehder.de/Chess_Woodcuts.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Harry Nelson](Harry_Nelson "Harry Nelson"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1988**). *The Draw Heuristic of Cray Blitz*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Draw Detection by Move Repetition Procedure -- Comments](https://www.stmintz.com/ccc/index.php?id=380201) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), August 01, 2004
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [How many points should you get for a draw?](http://en.chessbase.com/post/how-many-points-should-you-get-for-a-draw) by [Arno Nickel](Arno_Nickel "Arno Nickel"), [ChessBase News](ChessBase "ChessBase"), August 20, 2015
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Final Report on Draw Problem in Correspondence Chess](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?pid=552902) by [Ciron](Arno_Nickel "Arno Nickel"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), August 26, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Elke Rehder](Category:Elke_Rehder "Category:Elke Rehder") - Remis (1990) (two kings in a draw), [Holzschnitte zum Schach](http://www.elke-rehder.de/Chess_Woodcuts.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Harry Nelson](Harry_Nelson "Harry Nelson"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1988**). *The Draw Heuristic of Cray Blitz*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Draw Detection by Move Repetition Procedure -- Comments](https://www.stmintz.com/ccc/index.php?id=380201) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), August 01, 2004
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [How many points should you get for a draw?](http://en.chessbase.com/post/how-many-points-should-you-get-for-a-draw) by [Arno Nickel](Arno_Nickel "Arno Nickel"), [ChessBase News](ChessBase "ChessBase"), August 20, 2015
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Final Report on Draw Problem in Correspondence Chess](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?pid=552902) by [Ciron](Arno_Nickel "Arno Nickel"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), August 26, 2015
 
 **[Up one Level](Chess "Chess")**
 

@@ -45,10 +45,10 @@ Robin played the [MASPV 2001](MASPV_2001 "MASPV 2001"), but was superseded by P�
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> European Robin (Erithacus rubecula), Image by [Francis C. Franklin](https://commons.wikimedia.org/wiki/User:Baresi_franco), February 27, 2014, [Standish](https://en.wikipedia.org/wiki/Standish,_Greater_Manchester), [Wigan](https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Wigan), [North West England](https://en.wikipedia.org/wiki/North_West_England), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [European robin from Wikipedia](https://en.wikipedia.org/wiki/European_robin)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MASPV 2001](http://titanic.nyme.hu/~wyx/maspv2001/indexeng.htm)
- 3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MASPV 2001 Photos](http://titanic.nyme.hu/~wyx/maspv2001/images.htm) 
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MASPV 2001 zipped PGN](http://titanic.nyme.hu/~wyx/maspv2001/maspv2001.zip)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> European Robin (Erithacus rubecula), Image by [Francis C. Franklin](https://commons.wikimedia.org/wiki/User:Baresi_franco), February 27, 2014, [Standish](https://en.wikipedia.org/wiki/Standish,_Greater_Manchester), [Wigan](https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Wigan), [North West England](https://en.wikipedia.org/wiki/North_West_England), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [European robin from Wikipedia](https://en.wikipedia.org/wiki/European_robin)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MASPV 2001](http://titanic.nyme.hu/~wyx/maspv2001/indexeng.htm)
+ 3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MASPV 2001 Photos](http://titanic.nyme.hu/~wyx/maspv2001/images.htm) 
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MASPV 2001 zipped PGN](http://titanic.nyme.hu/~wyx/maspv2001/maspv2001.zip)
 
 **[Up one level](Engines "Engines")**
 

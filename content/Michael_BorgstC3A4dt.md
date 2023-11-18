@@ -41,12 +41,12 @@ By this time he decided to release a commercial program, later dubbed [Goliath](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WKP Personalberatung - Unser Führungsteam](https://www.wkpgmbh.de/team-mitarbeiter-wkp-personalberatung.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ratih Dewanti](Ratih_Dewanti "Ratih Dewanti") (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Thorsten about Jakarta 2](https://groups.google.com/d/msg/rec.games.chess.computer/oMolBzKM5ug/mY3wik9lBe8J) by [Dirk Frickenschmidt](Dirk_Frickenschmidt "Dirk Frickenschmidt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 10, 1996
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: WMCCC](https://www.stmintz.com/ccc/index.php?id=10200) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), September 25, 1997
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: WMCCC](https://www.stmintz.com/ccc/index.php?id=10374) by Michael Borgstädt, [CCC](CCC "CCC"), October 05, 1997
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [18th World Microcomputer Chess Championship (Blitz)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=155)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WKP Personalberatung - Unser Führungsteam](https://www.wkpgmbh.de/team-mitarbeiter-wkp-personalberatung.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ratih Dewanti](Ratih_Dewanti "Ratih Dewanti") (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Thorsten about Jakarta 2](https://groups.google.com/d/msg/rec.games.chess.computer/oMolBzKM5ug/mY3wik9lBe8J) by [Dirk Frickenschmidt](Dirk_Frickenschmidt "Dirk Frickenschmidt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 10, 1996
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: WMCCC](https://www.stmintz.com/ccc/index.php?id=10200) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), September 25, 1997
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: WMCCC](https://www.stmintz.com/ccc/index.php?id=10374) by Michael Borgstädt, [CCC](CCC "CCC"), October 05, 1997
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [18th World Microcomputer Chess Championship (Blitz)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=155)
 
 **[Up one level](People "People")**
 

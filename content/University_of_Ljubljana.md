@@ -37,8 +37,8 @@ title: University of Ljubljana
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> University of Ljubljana, Slovenia, The main building of the university, "Rektorat Univerze", Architecture: [Jan Vladimír Hráský](https://en.wikipedia.org/wiki/Jan_Vladim%C3%ADr_Hr%C3%A1sk%C3%BD) (1857-1939), [Josef Hudetz](https://de.wikipedia.org/wiki/Josef_Hudetz) (1842-1909), [Photo](https://commons.wikimedia.org/wiki/File:Univerza_Ljubljana.jpg) by [Andrejj](https://commons.wikimedia.org/wiki/User:Andrejj), May 2005, [Wikimedia Commons](https://de.wikipedia.org/wiki/Wikimedia_Commons), [University of Ljubljana from Wikipedia](https://en.wikipedia.org/wiki/University_of_Ljubljana)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [University of Ljubljana from Wikipedia](https://en.wikipedia.org/wiki/University_of_Ljubljana)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> University of Ljubljana, Slovenia, The main building of the university, "Rektorat Univerze", Architecture: [Jan Vladimír Hráský](https://en.wikipedia.org/wiki/Jan_Vladim%C3%ADr_Hr%C3%A1sk%C3%BD) (1857-1939), [Josef Hudetz](https://de.wikipedia.org/wiki/Josef_Hudetz) (1842-1909), [Photo](https://commons.wikimedia.org/wiki/File:Univerza_Ljubljana.jpg) by [Andrejj](https://commons.wikimedia.org/wiki/User:Andrejj), May 2005, [Wikimedia Commons](https://de.wikipedia.org/wiki/Wikimedia_Commons), [University of Ljubljana from Wikipedia](https://en.wikipedia.org/wiki/University_of_Ljubljana)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [University of Ljubljana from Wikipedia](https://en.wikipedia.org/wiki/University_of_Ljubljana)
 
 **[Up one Level](Organizations "Organizations")**
 

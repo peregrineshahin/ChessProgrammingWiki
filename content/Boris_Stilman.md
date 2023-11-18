@@ -77,17 +77,17 @@ originated [Linguistic Geometry](index.php?title=Linguistic_Geometry&action=edit
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Boris Stilman - LinkedIn](https://www.linkedin.com/in/boris-stilman-b2451668/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Boris Stilman | University of Colorado Denver, USA | Allied Academies](http://alliedacademies.com/profile/Boris%20Stilman)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Linguistic Geometry Tools - LG-PACKAGE](https://stilman-strategies.com/movies/LG-PACKAGE.pdf) (pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Boris Stilman - RESUME.pdf](https://stilman-strategies.com/bstilman/boris_papers/RESUME.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Tony Marsland](Tony_Marsland "Tony Marsland"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1981**). *A brighter future for Soviet computer chess?* [ICCA Newsletter, Vol. 4, No. 1](ICGA_Journal#4_1 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Marsland-Newborn-1981.pdf)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Monroe Newborn and Soviet computer chess developers in Moscow](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd70434), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), 1980
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Computer chess pioneer Mikhail Donskoy passes on](https://en.chessbase.com/post/computer-che-pioneer-mikhail-donskoy-paes-on), [ChessBase News](ChessBase "ChessBase"), January 16, 2009
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Linguistic Geometry - Related Publications](https://stilman-strategies.com/bstilman/publications.html)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [dblp: Boris Stilman](https://dblp.uni-trier.de/pers/hd/s/Stilman:Boris)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> Boris Stilman (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), [References](http://atimopheyev.narod.ru/LG01pdf_in_HTML/Ref/lit_en.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Boris Stilman - LinkedIn](https://www.linkedin.com/in/boris-stilman-b2451668/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Boris Stilman | University of Colorado Denver, USA | Allied Academies](http://alliedacademies.com/profile/Boris%20Stilman)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Linguistic Geometry Tools - LG-PACKAGE](https://stilman-strategies.com/movies/LG-PACKAGE.pdf) (pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Boris Stilman - RESUME.pdf](https://stilman-strategies.com/bstilman/boris_papers/RESUME.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1981**). *A brighter future for Soviet computer chess?* [ICCA Newsletter, Vol. 4, No. 1](ICGA_Journal#4_1 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Marsland-Newborn-1981.pdf)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Monroe Newborn and Soviet computer chess developers in Moscow](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd70434), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), 1980
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Computer chess pioneer Mikhail Donskoy passes on](https://en.chessbase.com/post/computer-che-pioneer-mikhail-donskoy-paes-on), [ChessBase News](ChessBase "ChessBase"), January 16, 2009
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Linguistic Geometry - Related Publications](https://stilman-strategies.com/bstilman/publications.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Boris Stilman](https://dblp.uni-trier.de/pers/hd/s/Stilman:Boris)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> Boris Stilman (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), [References](http://atimopheyev.narod.ru/LG01pdf_in_HTML/Ref/lit_en.htm)
 
 **[Up one level](People "People")**
 

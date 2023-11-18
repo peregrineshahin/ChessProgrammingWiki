@@ -28,8 +28,8 @@ They further wrote the mainframe chess program [Shy](Shy "Shy") for the [Burroug
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: IT industry favors the young and foolish](https://groups.google.com/d/msg/comp.sys.unisys/_OC0_9kXHUE/ZICHDe4XY-gJ) by Timo Saari, [comp.sys.unisys](https://groups.google.com/forum/?hl=ka#!forum/comp.sys.unisys), February 06, 2002
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Chess problem solving](https://www.stmintz.com/ccc/index.php?id=191935) by Timo Saari, [CCC](CCC "CCC"), October 05, 2001
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: IT industry favors the young and foolish](https://groups.google.com/d/msg/comp.sys.unisys/_OC0_9kXHUE/ZICHDe4XY-gJ) by Timo Saari, [comp.sys.unisys](https://groups.google.com/forum/?hl=ka#!forum/comp.sys.unisys), February 06, 2002
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Chess problem solving](https://www.stmintz.com/ccc/index.php?id=191935) by Timo Saari, [CCC](CCC "CCC"), October 05, 2001
 
 **[Up one level](People "People")**
 

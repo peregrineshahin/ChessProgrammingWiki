@@ -34,12 +34,12 @@ implemented sound and video portions of [Kasparov's Gambit](Kasparov%27s_Gambit 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Resume for Hugh S. Myers as text](http://www.sdragons.org/Business/hsm_resume.txt)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dr Schillers How to Play Chess discount software](http://www.planetcdrom.com/discount-software/Dr-Schillers-How-to-Play-Chess/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Perl by Hugh S. Myers](http://www.sdragons.org/Software/Perl/Perl.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Python by Hugh S. Myers](http://www.sdragons.org/Software/Python/python.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Package chess by Hugh S. Myers](http://www.sdragons.org/Software/Python/chess.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [chess.py.txt](http://www.sdragons.org/Software/Python/chess.py.txt)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Resume for Hugh S. Myers as text](http://www.sdragons.org/Business/hsm_resume.txt)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dr Schillers How to Play Chess discount software](http://www.planetcdrom.com/discount-software/Dr-Schillers-How-to-Play-Chess/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Perl by Hugh S. Myers](http://www.sdragons.org/Software/Perl/Perl.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Python by Hugh S. Myers](http://www.sdragons.org/Software/Python/python.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Package chess by Hugh S. Myers](http://www.sdragons.org/Software/Python/chess.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [chess.py.txt](http://www.sdragons.org/Software/Python/chess.py.txt)
 
 **[Up one level](People "People")**
 

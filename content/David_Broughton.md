@@ -31,12 +31,12 @@ was a British computer consultant and computer chess programmer. His first chess
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Champion Mark V](http://www.chesscomputeruk.com/html/chess_champion_mark_v.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Broughton Turnier](https://www.schachcomputer.info/forum/showthread.php?t=5925) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [Schachcomputer.info](Computer_Chess_Forums "Computer Chess Forums"), May 01, 2019
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Isle of Wight Family History Society - Biography - Dina Broughton](https://www.isle-of-wight-fhs.co.uk/dina_broughton_biog.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Champion Mark V](http://www.chesscomputeruk.com/html/chess_champion_mark_v.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Broughton Turnier](https://www.schachcomputer.info/forum/showthread.php?t=5925) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [Schachcomputer.info](Computer_Chess_Forums "Computer Chess Forums"), May 01, 2019
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Isle of Wight Family History Society - Biography - Dina Broughton](https://www.isle-of-wight-fhs.co.uk/dina_broughton_biog.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

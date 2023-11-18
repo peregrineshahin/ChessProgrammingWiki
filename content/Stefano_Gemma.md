@@ -79,11 +79,11 @@ and [Sabrina](Sabrina "Sabrina") <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [1′ Campionato Italiano « G 6](https://www.g-sei.org/partite-8/#!)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [L'Informatica di Gemma Stefano](http://www.linformatica.com/page_1.php)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Scacchi by Stefano Gemma](http://www.linformatica.com/page_8.php)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Clericus International Chess Championship held in Rome | Chessdom](http://www.chessdom.com/clericus-international-chess-championship-held-in-rome/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> ["New" chess engine: Sabrina](http://www.talkchess.com/forum/viewtopic.php?t=64167) by Stefano Gemma, [CCC](CCC "CCC"), June 03, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [1′ Campionato Italiano « G 6](https://www.g-sei.org/partite-8/#!)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [L'Informatica di Gemma Stefano](http://www.linformatica.com/page_1.php)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Scacchi by Stefano Gemma](http://www.linformatica.com/page_8.php)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Clericus International Chess Championship held in Rome | Chessdom](http://www.chessdom.com/clericus-international-chess-championship-held-in-rome/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> ["New" chess engine: Sabrina](http://www.talkchess.com/forum/viewtopic.php?t=64167) by Stefano Gemma, [CCC](CCC "CCC"), June 03, 2017
 
 **[Up one level](People "People")**
 

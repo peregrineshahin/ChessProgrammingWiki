@@ -55,9 +55,9 @@ a Chinese computer scientist and professor at School of Information Science and 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer Olympiad](Computer_Olympiad "Computer Olympiad"), [CG 2006](CG_2006 "CG 2006"), and [WCCC 2006](WCCC_2006 "WCCC 2006") excursion, [Sacra di San Michele](https://en.wikipedia.org/wiki/Sacra_di_San_Michele), photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [DBLP: Xinhe Xu](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/x/Xu:Xinhe.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Xinhe Xu - research alias](http://researchr.org/alias/xinhe-xu)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer Olympiad](Computer_Olympiad "Computer Olympiad"), [CG 2006](CG_2006 "CG 2006"), and [WCCC 2006](WCCC_2006 "WCCC 2006") excursion, [Sacra di San Michele](https://en.wikipedia.org/wiki/Sacra_di_San_Michele), photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [DBLP: Xinhe Xu](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/x/Xu:Xinhe.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Xinhe Xu - research alias](http://researchr.org/alias/xinhe-xu)
 
 **[Up one level](People "People")**
 

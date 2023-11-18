@@ -59,12 +59,12 @@ A Framework for long-term planning in computer chess is sketched and as an examp
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Andreas Lothe Opdahl | University of Bergen](https://www.uib.no/en/persons/Andreas.Opdahl)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Andreas L. Opdahl, [Bjørnar Tessem](Bj%C3%B8rnar_Tessem "Bjørnar Tessem") (**1994**). *Long-Term Planning in Computer Chess*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Andreas L. Opdahl](https://dblp.uni-trier.de/pid/12/256.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Unified Modeling Language from Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Extended Enterprise Modeling Language](https://en.wikipedia.org/wiki/Extended_Enterprise_Modeling_Language)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Andreas Lothe Opdahl | University of Bergen](https://www.uib.no/en/persons/Andreas.Opdahl)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Andreas L. Opdahl, [Bjørnar Tessem](Bj%C3%B8rnar_Tessem "Bjørnar Tessem") (**1994**). *Long-Term Planning in Computer Chess*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Andreas L. Opdahl](https://dblp.uni-trier.de/pid/12/256.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Unified Modeling Language from Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Extended Enterprise Modeling Language](https://en.wikipedia.org/wiki/Extended_Enterprise_Modeling_Language)
 
 **[Up one level](People "People")**
 

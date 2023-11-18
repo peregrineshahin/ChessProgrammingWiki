@@ -53,16 +53,16 @@ In 2007 Matteo Frigo co-founded *Cilk Arts, Inc.*, a start-up developing [Cilk](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Matteo Frigo - LinkedIn](https://www.linkedin.com/in/matteo-frigo-851212/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [8th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cd6ed) available as [pdf reprint](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1995_WCCC/1995%20WCCC.062303014.sm.pdf) Courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Matteo Frigo's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=37)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Intel Acquires Cilk++ Technology](http://www.drdobbs.com/cpp/intel-acquires-cilk-technology/218900367), [Dr. Dobb's](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal), August 01, 2009
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Intel Cilk Plus from Wikipedia](https://en.wikipedia.org/wiki/Cilk#Intel_Cilk_Plus)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Papers (co-)authored by Matteo Frigo](http://www.fftw.org/%7Eathena/papers.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Cilk LESS papers sorted by date](http://www.cs.utexas.edu/users/less/publications/cgi/bibSelectCilk.cgi)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Matteo Frigo](https://dblp.uni-trier.de/pers/hd/f/Frigo:Matteo)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [FFTW from Wikipedia](https://en.wikipedia.org/wiki/FFTW)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Matteo Frigo - LinkedIn](https://www.linkedin.com/in/matteo-frigo-851212/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [8th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cd6ed) available as [pdf reprint](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1995_WCCC/1995%20WCCC.062303014.sm.pdf) Courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Matteo Frigo's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=37)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Intel Acquires Cilk++ Technology](http://www.drdobbs.com/cpp/intel-acquires-cilk-technology/218900367), [Dr. Dobb's](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal), August 01, 2009
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Intel Cilk Plus from Wikipedia](https://en.wikipedia.org/wiki/Cilk#Intel_Cilk_Plus)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Papers (co-)authored by Matteo Frigo](http://www.fftw.org/%7Eathena/papers.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Cilk LESS papers sorted by date](http://www.cs.utexas.edu/users/less/publications/cgi/bibSelectCilk.cgi)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Matteo Frigo](https://dblp.uni-trier.de/pers/hd/f/Frigo:Matteo)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [FFTW from Wikipedia](https://en.wikipedia.org/wiki/FFTW)
 
 **[Up one level](People "People")**
 

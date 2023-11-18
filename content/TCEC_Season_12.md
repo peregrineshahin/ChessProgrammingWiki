@@ -1295,9 +1295,9 @@ June 18 - July 05, 2018, timecontrol 120' + 15''
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [TCEC Season 12 – participants and information](http://www.chessdom.com/tcec-season-12-participants-and-information/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), April 15, 2018
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2018**). *TCEC12: the 12thTop Chess Engine Championship*. [pdf](http://www.chessdom.com/wp-content/uploads/2019/01/TCEC-12-for-TCEC.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TCEC Season 12 – participants and information](http://www.chessdom.com/tcec-season-12-participants-and-information/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), April 15, 2018
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2018**). *TCEC12: the 12thTop Chess Engine Championship*. [pdf](http://www.chessdom.com/wp-content/uploads/2019/01/TCEC-12-for-TCEC.pdf)
 
 **[Up one level](TCEC "TCEC")**
 

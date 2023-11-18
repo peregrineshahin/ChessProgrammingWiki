@@ -31,11 +31,11 @@ a German computer scientist and chess programmer. Ralf is author of the chess en
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Clipped from [Volker Böhm und Ralf Schäfer, Sieger der ersten Chess960 Computer WM](http://www.chesstigers.de/bilder/vogelgesang/L1070174ak.JPG), [Chess Classic - 2. Computer Weltmeisterschaft im Chess960](http://www.chesstigers.de/ccm7_index_news.php?id=684&rubrik=6&lang=0&kat=6), [Chess Tigers](http://www.chess-tigers.de/), April 05, 2006 (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Spike home](http://spike.lazypics.de/index_en.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Spike - Mainz 2005 Report](http://www.spikechess.de/mainz2005.html) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Classic - Spike is the first Chess960 Computer World Champion!](http://www.chesstigers.de/index_news.php?id=413&rubrik=100&PHPSESSID=45a9bacd702a88ca73123364eaee243b)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Aronian gewinnt FINet-Chess960-Turnier](https://de.chessbase.com/post/aronian-gewinnt-finet-che960-turnier) from [ChessBase Nachrichten](ChessBase "ChessBase"), August 13, 2005 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Clipped from [Volker Böhm und Ralf Schäfer, Sieger der ersten Chess960 Computer WM](http://www.chesstigers.de/bilder/vogelgesang/L1070174ak.JPG), [Chess Classic - 2. Computer Weltmeisterschaft im Chess960](http://www.chesstigers.de/ccm7_index_news.php?id=684&rubrik=6&lang=0&kat=6), [Chess Tigers](http://www.chess-tigers.de/), April 05, 2006 (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Spike home](http://spike.lazypics.de/index_en.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Spike - Mainz 2005 Report](http://www.spikechess.de/mainz2005.html) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Classic - Spike is the first Chess960 Computer World Champion!](http://www.chesstigers.de/index_news.php?id=413&rubrik=100&PHPSESSID=45a9bacd702a88ca73123364eaee243b)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Aronian gewinnt FINet-Chess960-Turnier](https://de.chessbase.com/post/aronian-gewinnt-finet-che960-turnier) from [ChessBase Nachrichten](ChessBase "ChessBase"), August 13, 2005 (German)
 
 **[Up one level](People "People")**
 

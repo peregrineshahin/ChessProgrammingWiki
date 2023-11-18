@@ -142,17 +142,17 @@ c5 40.Qb2 Rb6 41.Rg1 cxb4 42.Bd4 Bc6 43.Bxc6 Rxc6 44.Qg2 Rc4 45.Qa2 b3 46.Qa1 Rc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [«Композиция 5».jpg](https://commons.wikimedia.org/wiki/File:%C2%AB%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F_5%C2%BB.jpg)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rotated Bitboards](http://people.csail.mit.edu/heinz/dt/node8.html) from [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1997**). *[How DarkThought Plays Chess.](http://people.csail.mit.edu/heinz/dt/node2.html)* [ICCA Journal, Vol. 20, No. 3](ICGA_Journal#20_3 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ernst A. Heinz - Professional Experience](http://people.csail.mit.edu/heinz/node10.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DarkThought - Acknowledgements](http://people.csail.mit.edu/heinz/dt/node1.html#acknlg)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Dark Thought's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=15)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Image clipped from [ICCA Journal, Vol. 18, No. 3](ICGA_Journal#18_3 "ICGA Journal"), pp. 178, Photo courtesy by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Shatin 1995 - Chess - Round 3 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=29&round=3&id=1)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CSVN Downloads Games Aegon Tournaments](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=40&Itemid=26&lang=en)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2000**). *[The Importance of being Scalable](http://ilk.uvt.nl/icga/journal/contents/content23-1.htm#THE%20IMPORTANCE%20OF%20BEING%20SCALABLE)*. [ICGA Journal, Vol. 23, No. 1](ICGA_Journal#23_1 "ICGA Journal"), Review
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**2000**). *Die Wissenschaft kehrt zurück - Computerschach-Forschung und das Buch von Ernst Heinz*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele") 2/00, [pdf](http://www.mustrum.de/chrilly/heinz.pdf) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [«Композиция 5».jpg](https://commons.wikimedia.org/wiki/File:%C2%AB%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F_5%C2%BB.jpg)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rotated Bitboards](http://people.csail.mit.edu/heinz/dt/node8.html) from [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1997**). *[How DarkThought Plays Chess.](http://people.csail.mit.edu/heinz/dt/node2.html)* [ICCA Journal, Vol. 20, No. 3](ICGA_Journal#20_3 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ernst A. Heinz - Professional Experience](http://people.csail.mit.edu/heinz/node10.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DarkThought - Acknowledgements](http://people.csail.mit.edu/heinz/dt/node1.html#acknlg)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dark Thought's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=15)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Image clipped from [ICCA Journal, Vol. 18, No. 3](ICGA_Journal#18_3 "ICGA Journal"), pp. 178, Photo courtesy by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Shatin 1995 - Chess - Round 3 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=29&round=3&id=1)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CSVN Downloads Games Aegon Tournaments](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=40&Itemid=26&lang=en)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2000**). *[The Importance of being Scalable](http://ilk.uvt.nl/icga/journal/contents/content23-1.htm#THE%20IMPORTANCE%20OF%20BEING%20SCALABLE)*. [ICGA Journal, Vol. 23, No. 1](ICGA_Journal#23_1 "ICGA Journal"), Review
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**2000**). *Die Wissenschaft kehrt zurück - Computerschach-Forschung und das Buch von Ernst Heinz*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele") 2/00, [pdf](http://www.mustrum.de/chrilly/heinz.pdf) (German)
 
 **[Up one level](Engines "Engines")**
 

@@ -51,11 +51,11 @@ a series of computer chess programs by [Martin Bryant](Martin_Bryant "Martin Bry
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alex Bell](Alex_Bell "Alex Bell") (**1983**). *Chess for three gives the White Knight a winning gambit*. [The Micro User Magazine](https://en.wikipedia.org/wiki/The_Micro_User), December 1983
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *University Challenge - Martin Bryant and White Knight*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [August 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html), [pdf](http://www.chesscomputeruk.com/PCW_August_1983.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Editor (**1981**). *Chess Final '81*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1981](http://www.chesscomputeruk.com/html/publication_archive.html), [pdf](http://www.chesscomputeruk.com/PCW_November_1981.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Colossus Chess from Wikipedia](https://en.wikipedia.org/wiki/Colossus_Chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alex Bell](Alex_Bell "Alex Bell") (**1983**). *Chess for three gives the White Knight a winning gambit*. [The Micro User Magazine](https://en.wikipedia.org/wiki/The_Micro_User), December 1983
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *University Challenge - Martin Bryant and White Knight*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [August 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html), [pdf](http://www.chesscomputeruk.com/PCW_August_1983.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Editor (**1981**). *Chess Final '81*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1981](http://www.chesscomputeruk.com/html/publication_archive.html), [pdf](http://www.chesscomputeruk.com/PCW_November_1981.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Colossus Chess from Wikipedia](https://en.wikipedia.org/wiki/Colossus_Chess)
 
 **[Up one Level](Engines "Engines")**
 

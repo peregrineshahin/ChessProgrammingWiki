@@ -19,9 +19,9 @@ which addresses the “problem of new terms” in the context of [learning decis
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Gerhard Mehlsam (**1989**). *Automatisches Erzeugen von Klassifikationskriterien*. Ph.D. thesis, [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology") (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Gerhard Mehlsam, [Hermann Kaindl](Hermann_Kaindl "Hermann Kaindl"), [Wilhelm Barth](Wilhelm_Barth "Wilhelm Barth") (**1995**). *[Feature Construction during Tree Learning](https://rd.springer.com/chapter/10.1007/3-540-60217-8_18)*. [GOSLER Final Report](https://dblp.uni-trier.de/db/conf/gosler/gosler1995.html) 1995
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Gerhard Mehlsam](https://dblp.uni-trier.de/pers/hd/m/Mehlsam:Gerhard.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Gerhard Mehlsam (**1989**). *Automatisches Erzeugen von Klassifikationskriterien*. Ph.D. thesis, [Vienna University of Technology](Vienna_University_of_Technology "Vienna University of Technology") (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Gerhard Mehlsam, [Hermann Kaindl](Hermann_Kaindl "Hermann Kaindl"), [Wilhelm Barth](Wilhelm_Barth "Wilhelm Barth") (**1995**). *[Feature Construction during Tree Learning](https://rd.springer.com/chapter/10.1007/3-540-60217-8_18)*. [GOSLER Final Report](https://dblp.uni-trier.de/db/conf/gosler/gosler1995.html) 1995
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Gerhard Mehlsam](https://dblp.uni-trier.de/pers/hd/m/Mehlsam:Gerhard.html)
 
 **[Up one Level](People "People")**
 

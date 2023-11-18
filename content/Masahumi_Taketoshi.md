@@ -30,9 +30,9 @@ a Japanese computer scientist, in 2002 affiliated with Departments of Computer S
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> "hu" ([Nihon-shiki romanization](https://en.wikipedia.org/wiki/Nihon-shiki_romanization)) and "fu" ([Hepburn romanization](https://en.wikipedia.org/wiki/Hepburn_romanization)) are two different [transcriptions](https://en.wikipedia.org/wiki/Phonetic_transcription) of the same sound in [Japanese](https://en.wikipedia.org/wiki/Japanese_language), see [Romanization of Japanese - Wikipedia](https://en.wikipedia.org/wiki/Romanization_of_Japanese)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Announcement of the 21st World Computer Shogi Championship](https://groups.google.com/d/msg/shogi-l/Nylx9GIXEgw/qh06-VPUNSsJ)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [JAIST Repository: Items for Author Masahumi Taketoshi](https://dspace.jaist.ac.jp/dspace/handle/10119/57/items-by-author?author=TAKETOSHI%2C+MASAHUMI&locale=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> "hu" ([Nihon-shiki romanization](https://en.wikipedia.org/wiki/Nihon-shiki_romanization)) and "fu" ([Hepburn romanization](https://en.wikipedia.org/wiki/Hepburn_romanization)) are two different [transcriptions](https://en.wikipedia.org/wiki/Phonetic_transcription) of the same sound in [Japanese](https://en.wikipedia.org/wiki/Japanese_language), see [Romanization of Japanese - Wikipedia](https://en.wikipedia.org/wiki/Romanization_of_Japanese)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Announcement of the 21st World Computer Shogi Championship](https://groups.google.com/d/msg/shogi-l/Nylx9GIXEgw/qh06-VPUNSsJ)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [JAIST Repository: Items for Author Masahumi Taketoshi](https://dspace.jaist.ac.jp/dspace/handle/10119/57/items-by-author?author=TAKETOSHI%2C+MASAHUMI&locale=en)
 
 **[Up one level](People "People")**
 

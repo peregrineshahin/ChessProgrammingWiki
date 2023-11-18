@@ -42,10 +42,10 @@ As a computer chess programmer, Nathan is author of the [UCI](UCI "UCI") complia
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nathan Thom - LinkedIn](https://www.linkedin.com/in/nathanthom/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nathan Thom - LinkedIn](https://www.linkedin.com/in/nathanthom/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kimien Software - LittleThought Chess Software](http://www.kimiensoftware.com/software/chess/littlethought)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kimien Software - LittleBlitzer Chess Software](http://www.kimiensoftware.com/software/chess/littleblitzer)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nathan Thom - LinkedIn](https://www.linkedin.com/in/nathanthom/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nathan Thom - LinkedIn](https://www.linkedin.com/in/nathanthom/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kimien Software - LittleThought Chess Software](http://www.kimiensoftware.com/software/chess/littlethought)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kimien Software - LittleBlitzer Chess Software](http://www.kimiensoftware.com/software/chess/littleblitzer)
 
 **[Up one level](People "People")**
 

@@ -45,14 +45,14 @@ He is further contributor on the [Polish Wikipedia](https://pl.wikipedia.org/wik
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wojciech Muła | Facebook](https://www.facebook.com/wojciech.mula)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Wojciech Muła | LinkedIn](https://www.linkedin.com/in/wojciech-mu%C5%82a-534856ab/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SSSE3: fast popcount](http://0x80.pl/articles/sse-popcount.html) by Wojciech Muła, May 24, 2008
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Wojciech Muła, [Nathan Kurz](https://dblp.uni-trier.de/pers/hd/k/Kurz:Nathan), [Daniel Lemire](https://github.com/lemire) (**2016**). *Faster Population Counts Using AVX2 Instructions*. [arXiv:1611.07612](https://arxiv.org/abs/1611.07612)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [User:Wojciech mula](https://commons.wikimedia.org/wiki/User:Wojciech_mula) from [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Wojciech Muła](https://dblp.uni-trier.de/pers/hd/m/Mula:Wojciech)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> see also [libpopcnt](Kim_Walisch#PopCount "Kim Walisch") by [Kim Walisch](Kim_Walisch "Kim Walisch")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Programming](http://0x80.pl/articles/) by Wojciech Muła
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wojciech Muła | Facebook](https://www.facebook.com/wojciech.mula)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Wojciech Muła | LinkedIn](https://www.linkedin.com/in/wojciech-mu%C5%82a-534856ab/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SSSE3: fast popcount](http://0x80.pl/articles/sse-popcount.html) by Wojciech Muła, May 24, 2008
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Wojciech Muła, [Nathan Kurz](https://dblp.uni-trier.de/pers/hd/k/Kurz:Nathan), [Daniel Lemire](https://github.com/lemire) (**2016**). *Faster Population Counts Using AVX2 Instructions*. [arXiv:1611.07612](https://arxiv.org/abs/1611.07612)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [User:Wojciech mula](https://commons.wikimedia.org/wiki/User:Wojciech_mula) from [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Wojciech Muła](https://dblp.uni-trier.de/pers/hd/m/Mula:Wojciech)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> see also [libpopcnt](Kim_Walisch#PopCount "Kim Walisch") by [Kim Walisch](Kim_Walisch "Kim Walisch")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Programming](http://0x80.pl/articles/) by Wojciech Muła
 
 **[Up one Level](People "People")**
 

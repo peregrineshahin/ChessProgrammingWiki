@@ -64,8 +64,8 @@ with [Nathaniel Love](index.php?title=Nathaniel_Love&action=edit&redlink=1 "Nath
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Michael Genesereth](http://logic.stanford.edu/people/genesereth/genesereth.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Michael R. Genesereth](https://dblp.uni-trier.de/pers/hd/g/Genesereth:Michael_R=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Michael Genesereth](http://logic.stanford.edu/people/genesereth/genesereth.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Michael R. Genesereth](https://dblp.uni-trier.de/pers/hd/g/Genesereth:Michael_R=)
 
 **[Up one level](People "People")**
 

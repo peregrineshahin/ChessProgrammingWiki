@@ -40,9 +40,9 @@ Ne5 23.g4 Nxg4 24.fxg4 Bxg4 25.Qa3 Rxd2 26.Rxd2 Qxd2 27.h3 Qd4+ 28.Kh1 Bd7
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ab Dezember neuer Mikroschachcomputer für 350 Mark:: Mephisto unterm Weihnachtsbaum](http://www.computerwoche.de/heftarchiv/1979/36/1194002/), October 7, 1979, [Computerwoche](Computerworld#Woche "Computerworld") 36/1979 (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Image from [World Microcomputer Chess Championship 1984](http://www.colossusgames.co.uk/chess/wmccc1984.htm) from [Colossus](http://www.colossusgames.co.uk/home.htm) by [Martin Bryant](Martin_Bryant "Martin Bryant") (as of 2017 dead link)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Glasgow 1984 - Chess - Round 5 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=64&round=5&id=4)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ab Dezember neuer Mikroschachcomputer für 350 Mark:: Mephisto unterm Weihnachtsbaum](http://www.computerwoche.de/heftarchiv/1979/36/1194002/), October 7, 1979, [Computerwoche](Computerworld#Woche "Computerworld") 36/1979 (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Image from [World Microcomputer Chess Championship 1984](http://www.colossusgames.co.uk/chess/wmccc1984.htm) from [Colossus](http://www.colossusgames.co.uk/home.htm) by [Martin Bryant](Martin_Bryant "Martin Bryant") (as of 2017 dead link)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Glasgow 1984 - Chess - Round 5 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=64&round=5&id=4)
 
 **[Up one level](People "People")**
 

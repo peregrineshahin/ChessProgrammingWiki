@@ -39,11 +39,11 @@ In the 90s, along with [Yasushi Tanase](index.php?title=Yasushi_Tanase&action=ed
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Imai Laboratory: Members](http://www-imai.is.s.u-tokyo.ac.jp/members.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ISshogi's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=255)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [8th Computer Shogi Championship](http://www2.computer-shogi.org/wcsc/csc8_e.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computer Shogi Association](http://www2.computer-shogi.org/index_e.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Ayumu Nagai](https://dblp.uni-trier.de/pers/hd/n/Nagai:Ayumu)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Imai Laboratory: Members](http://www-imai.is.s.u-tokyo.ac.jp/members.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ISshogi's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=255)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [8th Computer Shogi Championship](http://www2.computer-shogi.org/wcsc/csc8_e.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computer Shogi Association](http://www2.computer-shogi.org/index_e.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Ayumu Nagai](https://dblp.uni-trier.de/pers/hd/n/Nagai:Ayumu)
 
 **[Up one level](People "People")**
 

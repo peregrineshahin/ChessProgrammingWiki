@@ -48,12 +48,12 @@ Jonathan Kreuzer is author of the chess programs [Sam](index.php?title=Sam&actio
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [About 3DKingdoms](http://www.3dkingdoms.com/about3dk.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Checker Bitboards Tutorial](http://www.3dkingdoms.com/checkers/bitboards.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sam retouched for CuteChess](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75454) by [Roland Chastain](Roland_Chastain "Roland Chastain"), [CCC](CCC "CCC"), October 19, 2020
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Slow Chess Blitz, a free chess program](http://www.3dkingdoms.com/chess/slow.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Gui Checkers 1.05](http://www.3dkingdoms.com/checkers.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Pointy Stone Othello](http://www.3dkingdoms.com/pointy3/pointy3main.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [About 3DKingdoms](http://www.3dkingdoms.com/about3dk.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Checker Bitboards Tutorial](http://www.3dkingdoms.com/checkers/bitboards.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sam retouched for CuteChess](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75454) by [Roland Chastain](Roland_Chastain "Roland Chastain"), [CCC](CCC "CCC"), October 19, 2020
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Slow Chess Blitz, a free chess program](http://www.3dkingdoms.com/chess/slow.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Gui Checkers 1.05](http://www.3dkingdoms.com/checkers.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pointy Stone Othello](http://www.3dkingdoms.com/pointy3/pointy3main.htm)
 
 **[Up one level](People "People")**
 

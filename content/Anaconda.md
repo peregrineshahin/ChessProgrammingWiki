@@ -43,8 +43,8 @@ a [Chessbase](Fritz#FritzGUI "Fritz") compliant chess engine by [Frank Schneider
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lilith](http://commons.wikimedia.org/wiki/File:Lilith_%28John_Collier_painting%29.jpg) by [John Collier](Category:John_Collier "Category:John Collier"), 1892, [Oil on canvas](https://en.wikipedia.org/wiki/Oil_painting), [The Atkinson Art Gallery](https://en.wikipedia.org/wiki/Atkinson_Art_Gallery_and_Library), [Southport](https://en.wikipedia.org/wiki/Southport), [England](https://en.wikipedia.org/wiki/England), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Lilith from Wikipedia](https://en.wikipedia.org/wiki/Lilith)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Anaconda 1.0 (ex-GromitChess) available as CB-native](https://www.stmintz.com/ccc/index.php?id=288436) by [Kai Skibbe](Kai_Skibbe "Kai Skibbe"), [CCC](CCC "CCC"), March 08, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lilith](http://commons.wikimedia.org/wiki/File:Lilith_%28John_Collier_painting%29.jpg) by [John Collier](Category:John_Collier "Category:John Collier"), 1892, [Oil on canvas](https://en.wikipedia.org/wiki/Oil_painting), [The Atkinson Art Gallery](https://en.wikipedia.org/wiki/Atkinson_Art_Gallery_and_Library), [Southport](https://en.wikipedia.org/wiki/Southport), [England](https://en.wikipedia.org/wiki/England), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Lilith from Wikipedia](https://en.wikipedia.org/wiki/Lilith)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Anaconda 1.0 (ex-GromitChess) available as CB-native](https://www.stmintz.com/ccc/index.php?id=288436) by [Kai Skibbe](Kai_Skibbe "Kai Skibbe"), [CCC](CCC "CCC"), March 08, 2003
 
 **[Up one level](Engines "Engines")**
 

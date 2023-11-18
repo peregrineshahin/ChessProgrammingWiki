@@ -58,9 +58,9 @@ Insomniac had it tournament debut at the [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Insomnia](http://it.wikipedia.org/wiki/Insonnia) from [Tacuinum Sanitatis](https://en.wikipedia.org/wiki/Tacuinum_Sanitatis) (XIV century), [Insonnia da Wikipedia](http://it.wikipedia.org/wiki/Insonnia) (Italian)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Extensions and Futility Pruning](https://www.stmintz.com/ccc/index.php?id=50627) by [James Robertson](James_Robertson "James Robertson"), [CCC](CCC "CCC"), May 04, 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Null move mate extension](https://www.stmintz.com/ccc/index.php?id=57953) by [James Robertson](James_Robertson "James Robertson"), [CCC](CCC "CCC"), June 25, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Insomnia](http://it.wikipedia.org/wiki/Insonnia) from [Tacuinum Sanitatis](https://en.wikipedia.org/wiki/Tacuinum_Sanitatis) (XIV century), [Insonnia da Wikipedia](http://it.wikipedia.org/wiki/Insonnia) (Italian)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Extensions and Futility Pruning](https://www.stmintz.com/ccc/index.php?id=50627) by [James Robertson](James_Robertson "James Robertson"), [CCC](CCC "CCC"), May 04, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Null move mate extension](https://www.stmintz.com/ccc/index.php?id=57953) by [James Robertson](James_Robertson "James Robertson"), [CCC](CCC "CCC"), June 25, 1999
 
 **[Up one level](Engines "Engines")**
 

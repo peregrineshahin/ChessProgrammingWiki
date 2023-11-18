@@ -49,9 +49,9 @@ established in 1821 by [royal charter](https://en.wikipedia.org/wiki/Royal_chart
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> McGill University Campus, Arts Building, [Photo](https://commons.wikimedia.org/wiki/File:McGill_Arts_Building2.jpg) by [Paul Lowry](https://www.flickr.com/photos/paul_lowry/), December 31, 2008, [McGill University from Wikipedia](https://en.wikipedia.org/wiki/McGill_University)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [McGill University from Wikipedia](https://en.wikipedia.org/wiki/McGill_University)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Photos by [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> McGill University Campus, Arts Building, [Photo](https://commons.wikimedia.org/wiki/File:McGill_Arts_Building2.jpg) by [Paul Lowry](https://www.flickr.com/photos/paul_lowry/), December 31, 2008, [McGill University from Wikipedia](https://en.wikipedia.org/wiki/McGill_University)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [McGill University from Wikipedia](https://en.wikipedia.org/wiki/McGill_University)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Photos by [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one Level](Organizations "Organizations")**
 

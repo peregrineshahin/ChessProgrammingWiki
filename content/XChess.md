@@ -30,10 +30,10 @@ XChess is based on the chess engine [SCHK-Y](SCHK-Y "SCHK-Y"), written in [C](C 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Atari ST Xchess](http://www.atarimania.com/game-atari-st-xchess_28576.html) from [Atari Mania](http://www.atarimania.com/index.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [12-1986, toernooibulletin van het Nederlands kampioenschap computerschaak 1986.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1986,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201986.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Submitting disk images to AtariMania](http://atariage.com/forums/topic/201866-submitting-disk-images-to-atarimania/) by Dragonstomper, AtariAge Forums, August 23, 2012
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [xChess: Home](http://xchess.sourceforge.net/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Atari ST Xchess](http://www.atarimania.com/game-atari-st-xchess_28576.html) from [Atari Mania](http://www.atarimania.com/index.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [12-1986, toernooibulletin van het Nederlands kampioenschap computerschaak 1986.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1986,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201986.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Submitting disk images to AtariMania](http://atariage.com/forums/topic/201866-submitting-disk-images-to-atarimania/) by Dragonstomper, AtariAge Forums, August 23, 2012
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [xChess: Home](http://xchess.sourceforge.net/)
 
 **[Up one level](Engines "Engines")**
 

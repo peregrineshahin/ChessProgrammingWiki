@@ -43,7 +43,7 @@ Dreamer is a [bitboard](Bitboards "Bitboards") engine with [table-driven move ge
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image](https://commons.wikimedia.org/wiki/File:Tapestry_Dreamer_r.jpg) by DVConsultor, April 13 2015, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](https://commons.wikimedia.org/wiki/File:Tapestry_Dreamer_r.jpg) by DVConsultor, April 13 2015, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one level](Engines "Engines")**
 

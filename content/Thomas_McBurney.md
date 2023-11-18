@@ -57,10 +57,10 @@ Thomas McBurney is further collector of [dedicated chess computers](Dedicated_Ch
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tom's Stuff](https://web.archive.org/web/20180322015310/http://home.pacific.net.au/~tommyinoz/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Minimax in BASIC](https://web.archive.org/web/20180222163823/http://home.pacific.net.au/~tommyinoz/minimax.html) converted to [WinBoard](WinBoard "WinBoard") by Thomas McBurney
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tom's Chess Computer Collection](https://web.archive.org/web/20171221075507/http://home.pacific.net.au/~tommyinoz/chesscomputers.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tom's Stuff](https://web.archive.org/web/20180322015310/http://home.pacific.net.au/~tommyinoz/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Minimax in BASIC](https://web.archive.org/web/20180222163823/http://home.pacific.net.au/~tommyinoz/minimax.html) converted to [WinBoard](WinBoard "WinBoard") by Thomas McBurney
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tom's Chess Computer Collection](https://web.archive.org/web/20171221075507/http://home.pacific.net.au/~tommyinoz/chesscomputers.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

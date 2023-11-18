@@ -41,10 +41,10 @@ AICE is a [bitboard](Bitboards "Bitboards") based [PV searcher](Principal_Variat
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [milix AICE chess engine for both UCI and Winboard](http://users.sch.gr/amilikas/?page_id=16)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [milix AICE chess engine for both UCI and Winboard](http://users.sch.gr/amilikas/?page_id=16)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Portrait of Anastasios Mikilas, author of the Chess960 engine AICE](http://www.chesstigers.de/ccm9_index_news.php?id=310&rubrik=6&lang=1&kat=6) by [Mark Vogelgesang](http://www.chesstigers.de/index_news.php?id=594&rubrik=), July 21, 2005
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Interview with the programmer of AICE](http://www.playwitharena.com/?Newsticker:Archive_8) by [Alexander Schmidt](index.php?title=Alexander_Schmidt&action=edit&redlink=1 "Alexander Schmidt (page does not exist)") and [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Arena Chess GUI 3.0](Arena "Arena") - Archive 8, 118, April 27, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [milix AICE chess engine for both UCI and Winboard](http://users.sch.gr/amilikas/?page_id=16)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [milix AICE chess engine for both UCI and Winboard](http://users.sch.gr/amilikas/?page_id=16)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Portrait of Anastasios Mikilas, author of the Chess960 engine AICE](http://www.chesstigers.de/ccm9_index_news.php?id=310&rubrik=6&lang=1&kat=6) by [Mark Vogelgesang](http://www.chesstigers.de/index_news.php?id=594&rubrik=), July 21, 2005
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Interview with the programmer of AICE](http://www.playwitharena.com/?Newsticker:Archive_8) by [Alexander Schmidt](index.php?title=Alexander_Schmidt&action=edit&redlink=1 "Alexander Schmidt (page does not exist)") and [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Arena Chess GUI 3.0](Arena "Arena") - Archive 8, 118, April 27, 2005
 
 **[Up one Level](Engines "Engines")**
 

@@ -34,11 +34,11 @@ He obtained a Bachelor degree in mathematics from [University of Indonesia](http
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Universitas Gunadarma - Struktur Organisasi](https://www.gunadarma.ac.id/struktur)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [1996 World Microcomputer Chess Championship](https://groups.google.com/d/msg/rec.games.chess.computer/ByIeaNj4WOM/REC0ptmkckkJ) by [Tony Marsland](Tony_Marsland "Tony Marsland"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 22, 1996
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ratih Dewanti](Ratih_Dewanti "Ratih Dewanti") (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#14_4 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1996**). *Recognition of Local Participation*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Suryadi Harmanto](https://dblp.uni-trier.de/pers/hd/h/Harmanto:Suryadi)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Universitas Gunadarma - Struktur Organisasi](https://www.gunadarma.ac.id/struktur)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [1996 World Microcomputer Chess Championship](https://groups.google.com/d/msg/rec.games.chess.computer/ByIeaNj4WOM/REC0ptmkckkJ) by [Tony Marsland](Tony_Marsland "Tony Marsland"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 22, 1996
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ratih Dewanti](Ratih_Dewanti "Ratih Dewanti") (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#14_4 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1996**). *Recognition of Local Participation*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Suryadi Harmanto](https://dblp.uni-trier.de/pers/hd/h/Harmanto:Suryadi)
 
 **[Up one level](People "People")**
 

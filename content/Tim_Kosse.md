@@ -33,9 +33,9 @@ Tim Kosse is co-author of the [TCP](https://en.wikipedia.org/wiki/Transmission_C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SourceForge.net: Project of the Month, November 2003](https://sourceforge.net/blog/potm-2003-11/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [flowgrind · GitHub](https://github.com/flowgrind/flowgrind)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Introducing Octochess](http://www.talkchess.com/forum/viewtopic.php?t=42676) by Tim Kosse, [CCC](CCC "CCC"), February 28, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SourceForge.net: Project of the Month, November 2003](https://sourceforge.net/blog/potm-2003-11/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [flowgrind · GitHub](https://github.com/flowgrind/flowgrind)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Introducing Octochess](http://www.talkchess.com/forum/viewtopic.php?t=42676) by Tim Kosse, [CCC](CCC "CCC"), February 28, 2012
 
 **[Up one level](People "People")**
 

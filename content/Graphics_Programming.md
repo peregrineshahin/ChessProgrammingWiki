@@ -208,15 +208,15 @@ With the advent of [multitasking](https://en.wikipedia.org/wiki/Computer_multita
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ASCII chess boards](https://www.stmintz.com/ccc/index.php?id=113510) by [Steffen Jakob](Steffen_A._Jakob "Steffen A. Jakob"), [CCC](CCC "CCC"), June 05, 2000
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ASCII Board representation](https://www.stmintz.com/ccc/index.php?id=334290) by [Andreas Guettinger](Andreas_Guettinger "Andreas Guettinger"), [CCC](CCC "CCC"), December 08, 2003
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: ASCII chess boards](https://www.stmintz.com/ccc/index.php?id=113544) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [CCC](CCC "CCC"), June 05, 2000
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: ASCII Board representation](https://www.stmintz.com/ccc/index.php?id=334328) by [Reinhard Scharnagl](Reinhard_Scharnagl "Reinhard Scharnagl"), [CCC](CCC "CCC"), December 08, 2003
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [List of home computers by video hardware from Wikipedia](https://en.wikipedia.org/wiki/List_of_home_computers_by_video_hardware)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Microchess 1.5 running on a Radio Shack TRS-80 microcomputer](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a080c29f), 1976, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Psion Chess screenshots](http://www.mobygames.com/game/psion-chess/screenshots) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [LaTeX from Wikipedia](https://en.wikipedia.org/wiki/LaTeX)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Photon mapping from Wikipedia](https://en.wikipedia.org/wiki/Photon_mapping)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ASCII chess boards](https://www.stmintz.com/ccc/index.php?id=113510) by [Steffen Jakob](Steffen_A._Jakob "Steffen A. Jakob"), [CCC](CCC "CCC"), June 05, 2000
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ASCII Board representation](https://www.stmintz.com/ccc/index.php?id=334290) by [Andreas Guettinger](Andreas_Guettinger "Andreas Guettinger"), [CCC](CCC "CCC"), December 08, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: ASCII chess boards](https://www.stmintz.com/ccc/index.php?id=113544) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [CCC](CCC "CCC"), June 05, 2000
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: ASCII Board representation](https://www.stmintz.com/ccc/index.php?id=334328) by [Reinhard Scharnagl](Reinhard_Scharnagl "Reinhard Scharnagl"), [CCC](CCC "CCC"), December 08, 2003
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [List of home computers by video hardware from Wikipedia](https://en.wikipedia.org/wiki/List_of_home_computers_by_video_hardware)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Microchess 1.5 running on a Radio Shack TRS-80 microcomputer](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a080c29f), 1976, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Psion Chess screenshots](http://www.mobygames.com/game/psion-chess/screenshots) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [LaTeX from Wikipedia](https://en.wikipedia.org/wiki/LaTeX)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Photon mapping from Wikipedia](https://en.wikipedia.org/wiki/Photon_mapping)
 
 **[Up one Level](Programming "Programming")**
 

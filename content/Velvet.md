@@ -83,10 +83,10 @@ Velvet v2.0.0, released in July 2021, features [NNUE](NNUE "NNUE") [evaluation](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image](https://commons.wikimedia.org/wiki/File:Velvet_warp.svg) by Vladsinger, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Release v1.0.0 · mhonert/velvet-chess · GitHub](https://github.com/mhonert/velvet-chess/releases/tag/v1.0.0)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Release v2.0.0 · mhonert/velvet-chess · GitHub](https://github.com/mhonert/velvet-chess/releases/tag/v2.0.0)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Releases · mhonert/velvet-chess · GitHub](https://github.com/mhonert/velvet-chess/releases)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](https://commons.wikimedia.org/wiki/File:Velvet_warp.svg) by Vladsinger, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Release v1.0.0 · mhonert/velvet-chess · GitHub](https://github.com/mhonert/velvet-chess/releases/tag/v1.0.0)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Release v2.0.0 · mhonert/velvet-chess · GitHub](https://github.com/mhonert/velvet-chess/releases/tag/v2.0.0)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Releases · mhonert/velvet-chess · GitHub](https://github.com/mhonert/velvet-chess/releases)
 
 **[Up one level](Engines "Engines")**
 

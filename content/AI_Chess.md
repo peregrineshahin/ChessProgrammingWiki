@@ -41,9 +41,9 @@ Some types of [endgame positions](Endgame "Endgame") are scored differently, by 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Monty Newborn](Monroe_Newborn "Monroe Newborn"), [Danny Kopec](Danny_Kopec "Danny Kopec") (**1989**). *Results of The Nineteenth ACM North American Computer Chess Championship*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 32, No. 10, [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_23_C.pdf)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AI Chess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=352)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Monty Newborn](Monroe_Newborn "Monroe Newborn"), [Danny Kopec](Danny_Kopec "Danny Kopec") (**1989**). *Results of The Nineteenth ACM North American Computer Chess Championship*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 32, No. 10, [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_23_C.pdf)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AI Chess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=352)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf)
 
 **[Up one level](Engines "Engines")**
 

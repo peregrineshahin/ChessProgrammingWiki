@@ -63,16 +63,16 @@ and his Ph.D. on *Automating the Configuration of Algorithms for Solving Hard Co
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Frank Hutter](https://dblp.org/pers/hd/h/Hutter:Frank)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Publications - Frank Hutter](https://ml.informatik.uni-freiburg.de/people/hutter/publications.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Frank Hutter - Google Scholar Citations](https://scholar.google.ca/citations?user=YUrxwrkAAAAJ&hl=en)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Mark A. Hall](https://dblp.uni-trier.de/pers/hd/h/Hall:Mark_A=), [Eibe Frank](https://dblp.uni-trier.de/pers/hd/f/Frank:Eibe), [Geoffrey Holmes](index.php?title=Geoffrey_Holmes&action=edit&redlink=1 "Geoffrey Holmes (page does not exist)"), [Bernhard Pfahringer](Bernhard_Pfahringer "Bernhard Pfahringer"), [Peter Reutemann](https://dblp.uni-trier.de/pers/hd/r/Reutemann:Peter), [Ian H. Witten](Ian_H._Witten "Ian H. Witten") (**2009**). *The WEKA data mining software: an update*. [SIGKDD Explorations](https://dblp.uni-trier.de/db/journals/sigkdd/sigkdd11.html), Vol. 11, No. 1, [pdf](https://www.kdd.org/exploration_files/p2V11n1.pdf)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Weka (machine learning) from Wikipedia](<https://en.wikipedia.org/wiki/Weka_(machine_learning)>)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [CMA-ES from Wikipedia](https://en.wikipedia.org/wiki/CMA-ES)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [AI finds novel way to beat classic Q\*bert Atari video game](https://www.bbc.com/news/technology-43241936), [BBC News](https://en.wikipedia.org/wiki/BBC_News), March 01, 2018
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Q\*bert from Wikipedia](https://en.wikipedia.org/wiki/Q*bert)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [AutoML Freiburg-Hannover](https://www.automl.org/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/index.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Frank Hutter](https://dblp.org/pers/hd/h/Hutter:Frank)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Publications - Frank Hutter](https://ml.informatik.uni-freiburg.de/people/hutter/publications.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Frank Hutter - Google Scholar Citations](https://scholar.google.ca/citations?user=YUrxwrkAAAAJ&hl=en)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mark A. Hall](https://dblp.uni-trier.de/pers/hd/h/Hall:Mark_A=), [Eibe Frank](https://dblp.uni-trier.de/pers/hd/f/Frank:Eibe), [Geoffrey Holmes](index.php?title=Geoffrey_Holmes&action=edit&redlink=1 "Geoffrey Holmes (page does not exist)"), [Bernhard Pfahringer](Bernhard_Pfahringer "Bernhard Pfahringer"), [Peter Reutemann](https://dblp.uni-trier.de/pers/hd/r/Reutemann:Peter), [Ian H. Witten](Ian_H._Witten "Ian H. Witten") (**2009**). *The WEKA data mining software: an update*. [SIGKDD Explorations](https://dblp.uni-trier.de/db/journals/sigkdd/sigkdd11.html), Vol. 11, No. 1, [pdf](https://www.kdd.org/exploration_files/p2V11n1.pdf)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Weka (machine learning) from Wikipedia](<https://en.wikipedia.org/wiki/Weka_(machine_learning)>)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [CMA-ES from Wikipedia](https://en.wikipedia.org/wiki/CMA-ES)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [AI finds novel way to beat classic Q\*bert Atari video game](https://www.bbc.com/news/technology-43241936), [BBC News](https://en.wikipedia.org/wiki/BBC_News), March 01, 2018
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Q\*bert from Wikipedia](https://en.wikipedia.org/wiki/Q*bert)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [AutoML Freiburg-Hannover](https://www.automl.org/)
 
 **[Up one Level](People "People")**
 

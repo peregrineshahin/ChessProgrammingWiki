@@ -23,10 +23,10 @@ He works on a CSC grant (China Scholarship Council) on games and transportation 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hui Wang - Leiden University](https://www.universiteitleiden.nl/en/staffmembers/hui-wang#tab-1)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Leiden Centre of Data Science - Leiden University](https://www.universiteitleiden.nl/en/science/leiden-centre-of-data-science)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Aske Plaat](https://dblp.uni-trier.de/pers/hd/p/Plaat:Aske)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hui Wang wins Best Paper Award at BNAIC 2018](https://www.universiteitleiden.nl/en/news/2018/11/best-paper-for-hui-wang), [Leiden University](Leiden_University "Leiden University"), November 20, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hui Wang - Leiden University](https://www.universiteitleiden.nl/en/staffmembers/hui-wang#tab-1)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Leiden Centre of Data Science - Leiden University](https://www.universiteitleiden.nl/en/science/leiden-centre-of-data-science)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Aske Plaat](https://dblp.uni-trier.de/pers/hd/p/Plaat:Aske)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hui Wang wins Best Paper Award at BNAIC 2018](https://www.universiteitleiden.nl/en/news/2018/11/best-paper-for-hui-wang), [Leiden University](Leiden_University "Leiden University"), November 20, 2018
 
 **[Up one level](People "People")**
 

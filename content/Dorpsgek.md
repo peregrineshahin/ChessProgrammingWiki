@@ -101,11 +101,11 @@ Dorpsgek versions were named after [Cocktails](https://en.wikipedia.org/wiki/Coc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Vincent van Gogh](Category:Vincent_van_Gogh "Category:Vincent van Gogh") - [Self-Portrait with Grey Felt Hat](https://commons.wikimedia.org/wiki/File:Van_Gogh_Self-Portrait_with_Grey_Felt_Hat_1886-87_Rijksmuseum.jpg), 1887, oil on cardboard, [Rijksmuseum](https://en.wikipedia.org/wiki/Rijksmuseum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Van dorpsgek naar cultfiguur](http://www.reinwardtcommunity.nl/nl/page/12227/van-dorpsgek-naar-cultfiguur) by [Merel Lucassen](http://www.reinwardtcommunity.nl/nl/page/12071/merel-lucassen), October 05, 2015 (Dutch)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess programs :: Source available, but not today?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75904) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), November 23, 2020
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dorpsgek Ambrosia](http://www.talkchess.com/forum/viewtopic.php?t=60733) by [Matthew R. Brades](Matthew_R._Brades "Matthew R. Brades"), [CCC](CCC "CCC"), July 07, 2016
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Stripspeciaalzaak.be - BelgenTop 50 nr. 8: De Dorpsgek van Schoonvergeten](http://www.stripspeciaalzaak.be/Toppers/BelgenTop100/08_Dorpsgek.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Vincent van Gogh](Category:Vincent_van_Gogh "Category:Vincent van Gogh") - [Self-Portrait with Grey Felt Hat](https://commons.wikimedia.org/wiki/File:Van_Gogh_Self-Portrait_with_Grey_Felt_Hat_1886-87_Rijksmuseum.jpg), 1887, oil on cardboard, [Rijksmuseum](https://en.wikipedia.org/wiki/Rijksmuseum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Van dorpsgek naar cultfiguur](http://www.reinwardtcommunity.nl/nl/page/12227/van-dorpsgek-naar-cultfiguur) by [Merel Lucassen](http://www.reinwardtcommunity.nl/nl/page/12071/merel-lucassen), October 05, 2015 (Dutch)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess programs :: Source available, but not today?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75904) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), November 23, 2020
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dorpsgek Ambrosia](http://www.talkchess.com/forum/viewtopic.php?t=60733) by [Matthew R. Brades](Matthew_R._Brades "Matthew R. Brades"), [CCC](CCC "CCC"), July 07, 2016
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Stripspeciaalzaak.be - BelgenTop 50 nr. 8: De Dorpsgek van Schoonvergeten](http://www.stripspeciaalzaak.be/Toppers/BelgenTop100/08_Dorpsgek.htm)
 
 **[Up one Level](Engines "Engines")**
 

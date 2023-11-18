@@ -102,14 +102,14 @@ Bxc6 55.Nc5 Qa3 56.Bd3 Ng4 57.Bf1 Kf6 58.Nd3 Bb5 59.Qb4 Qxb4 60.Nxb4 Bc4 61.Bd3 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stoofvlees from Wikipedia.nl](https://nl.wikipedia.org/wiki/Stoofvlees) (Dutch)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=316511&t=31545) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), January 07, 2010
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sjeng 2.7 released](http://www.talkchess.com/forum/viewtopic.php?t=16244) by Jens, [CCC](CCC "CCC"), September 03, 2007
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=316769&t=31545) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), January 08, 2010
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a>  [the digital rebirth of Deep Sjeng](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=70631) by [Werner Schüle](index.php?title=Werner_Sch%C3%BCle&action=edit&redlink=1 "Werner Schüle (page does not exist)"), [CCC](CCC "CCC"), May 01, 2019
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CEGT - rating lists June 30th 2019](http://talkchess.com/forum3/viewtopic.php?f=6&t=71145) by [Werner Schüle](index.php?title=Werner_Sch%C3%BCle&action=edit&redlink=1 "Werner Schüle (page does not exist)"), [CCC](CCC "CCC"), June 30, 2019
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Downloads | CSVN International Computerchess Tournament | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=39&Itemid=26&lang=en&limitstart=5), [CSVN](CSVN "CSVN") site
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Komodo 2551.00 vs. Stoofvlees II a14 - TCEC - Live Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=p&game=4)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stoofvlees from Wikipedia.nl](https://nl.wikipedia.org/wiki/Stoofvlees) (Dutch)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=316511&t=31545) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), January 07, 2010
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sjeng 2.7 released](http://www.talkchess.com/forum/viewtopic.php?t=16244) by Jens, [CCC](CCC "CCC"), September 03, 2007
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=316769&t=31545) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), January 08, 2010
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a>  [the digital rebirth of Deep Sjeng](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=70631) by [Werner Schüle](index.php?title=Werner_Sch%C3%BCle&action=edit&redlink=1 "Werner Schüle (page does not exist)"), [CCC](CCC "CCC"), May 01, 2019
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CEGT - rating lists June 30th 2019](http://talkchess.com/forum3/viewtopic.php?f=6&t=71145) by [Werner Schüle](index.php?title=Werner_Sch%C3%BCle&action=edit&redlink=1 "Werner Schüle (page does not exist)"), [CCC](CCC "CCC"), June 30, 2019
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Downloads | CSVN International Computerchess Tournament | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=39&Itemid=26&lang=en&limitstart=5), [CSVN](CSVN "CSVN") site
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Komodo 2551.00 vs. Stoofvlees II a14 - TCEC - Live Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=p&game=4)
 
 **[Up one Level](Engines "Engines")**
 

@@ -107,20 +107,20 @@ In 2002, Judea Pearl's son [Daniel Pearl](https://en.wikipedia.org/wiki/Daniel_P
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Judea Pearl at NIPS 2013](https://www.flickr.com/photos/slurm/11781981594/) by [Better Than Bacon](https://www.flickr.com/people/39057810@N00), December 06, 2013, [[Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)]
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CAUSALITY by Judea Pearl](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html) (ebook)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Judea Pearl | The Franklin Institute](https://www.fi.edu/laureates/judea-pearl)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [RCA Research Laboratories](http://www.ieee-virtual-museum.org/collection/event.php?id=3457000&lid=1) from [IEEE Virtual Museum](http://www.ieee-virtual-museum.org/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Judea Pearl (**2011**). *[The Mechanization of Causal Inference: A "Mini Turing Test" and Beyond](http://www.aaai.org/Conferences/AAAI/2012/aaai12speakers.php#Pearl)*. [ACM Turing Award](ACM#ACMTuringAward "ACM") lecture, [YouTube Video](http://www.youtube.com/watch?v=iNm4nFBFmvo)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Judea Pearl - Cognitive Systems LaboratoryY: Publications](http://bayes.cs.ucla.edu/csl_papers.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Judea Pearl](https://dblp.uni-trier.de/pers/hd/p/Pearl:Judea)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Judea Pearl - Google Scholar Citations](https://scholar.google.com/citations?user=bAipNH8AAAAJ&hl=en)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> from the Symposium on [Heuristics](http://bayes.cs.ucla.edu/TRIBUTE/videos-heuristics.htm), [Probability](http://bayes.cs.ucla.edu/TRIBUTE/videos-prob-reasoning.htm) and [Causality](http://bayes.cs.ucla.edu/TRIBUTE/tribute-videos.htm), March 12, 2010, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video  
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Judea Pearl at NIPS 2013](https://www.flickr.com/photos/slurm/11781981594/) by [Better Than Bacon](https://www.flickr.com/people/39057810@N00), December 06, 2013, [[Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)]
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CAUSALITY by Judea Pearl](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html) (ebook)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Judea Pearl | The Franklin Institute](https://www.fi.edu/laureates/judea-pearl)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [RCA Research Laboratories](http://www.ieee-virtual-museum.org/collection/event.php?id=3457000&lid=1) from [IEEE Virtual Museum](http://www.ieee-virtual-museum.org/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Judea Pearl (**2011**). *[The Mechanization of Causal Inference: A "Mini Turing Test" and Beyond](http://www.aaai.org/Conferences/AAAI/2012/aaai12speakers.php#Pearl)*. [ACM Turing Award](ACM#ACMTuringAward "ACM") lecture, [YouTube Video](http://www.youtube.com/watch?v=iNm4nFBFmvo)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Judea Pearl - Cognitive Systems LaboratoryY: Publications](http://bayes.cs.ucla.edu/csl_papers.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Judea Pearl](https://dblp.uni-trier.de/pers/hd/p/Pearl:Judea)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Judea Pearl - Google Scholar Citations](https://scholar.google.com/citations?user=bAipNH8AAAAJ&hl=en)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> from the Symposium on [Heuristics](http://bayes.cs.ucla.edu/TRIBUTE/videos-heuristics.htm), [Probability](http://bayes.cs.ucla.edu/TRIBUTE/videos-prob-reasoning.htm) and [Causality](http://bayes.cs.ucla.edu/TRIBUTE/tribute-videos.htm), March 12, 2010, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video  
 
   
 
 see also [Richard Korf](Richard_Korf#JudeaPearl "Richard Korf"), [Dana Nau](Dana_S._Nau#JudeaPearl "Dana S. Nau") and [Stuart Russell](Stuart_Russell#JudeaPearl "Stuart Russell")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [ACM Turing Award](ACM#ACMTuringAward "ACM") lecture as [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ACM Turing Award](ACM#ACMTuringAward "ACM") lecture as [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
 
 **[Up one level](People "People")**
 

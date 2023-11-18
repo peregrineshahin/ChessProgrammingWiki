@@ -160,16 +160,16 @@ in the field of [match statistics](Match_Statistics "Match Statistics") in [engi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo courtesy Kai Laskos
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Horia Hulubei National Institute of Physics and Nuclear Engineering](https://www.nipne.ro/about/history/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [A Gross Miscarriage of Justice in Computer Chess (part two)](https://en.chessbase.com/post/a-gro-miscarriage-of-justice-in-computer-che-part-two) by [Søren Riis](S%C3%B8ren_Riis "Søren Riis"), [ChessBase News](ChessBase "ChessBase"), January 03, 2012
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dendrogram from Wikipedia](https://en.wikipedia.org/wiki/Dendrogram)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Type I and type II errors from Wikipedia](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Arpad Elo - Wikipedia](https://en.wikipedia.org/wiki/Arpad_Elo)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Resampling (statistics) from Wikipedia](https://en.wikipedia.org/wiki/Resampling_(statistics))
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Jackknife resampling from WIkipedia](https://en.wikipedia.org/wiki/Jackknife_resampling)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Normalized Elo](http://hardy.uhasselt.be/Toga/normalized_elo.pdf) (pdf) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [GitHub - kiudee/chess-tuning-tools](https://github.com/kiudee/chess-tuning-tools) by [Karlson Pfannschmidt](Karlson_Pfannschmidt "Karlson Pfannschmidt")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo courtesy Kai Laskos
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Horia Hulubei National Institute of Physics and Nuclear Engineering](https://www.nipne.ro/about/history/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [A Gross Miscarriage of Justice in Computer Chess (part two)](https://en.chessbase.com/post/a-gro-miscarriage-of-justice-in-computer-che-part-two) by [Søren Riis](S%C3%B8ren_Riis "Søren Riis"), [ChessBase News](ChessBase "ChessBase"), January 03, 2012
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dendrogram from Wikipedia](https://en.wikipedia.org/wiki/Dendrogram)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Type I and type II errors from Wikipedia](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Arpad Elo - Wikipedia](https://en.wikipedia.org/wiki/Arpad_Elo)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Resampling (statistics) from Wikipedia](https://en.wikipedia.org/wiki/Resampling_(statistics))
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Jackknife resampling from WIkipedia](https://en.wikipedia.org/wiki/Jackknife_resampling)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Normalized Elo](http://hardy.uhasselt.be/Toga/normalized_elo.pdf) (pdf) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [GitHub - kiudee/chess-tuning-tools](https://github.com/kiudee/chess-tuning-tools) by [Karlson Pfannschmidt](Karlson_Pfannschmidt "Karlson Pfannschmidt")
 
 **[Up one level](People "People")**
 

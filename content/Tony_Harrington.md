@@ -54,9 +54,9 @@ a British financial, pensions, and business journalist. His areas of expertise i
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Anthony Harrington | LinkedIn](http://uk.linkedin.com/in/anthonyharrington)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Publication Archive 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html) by [Mike Watters](Mike_Watters "Mike Watters")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Harrington's article mentions [Gern gefällig](http://www.spiegel.de/spiegel/print/d-14018815.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 1/1983, January 03, 1983 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Anthony Harrington | LinkedIn](http://uk.linkedin.com/in/anthonyharrington)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Publication Archive 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html) by [Mike Watters](Mike_Watters "Mike Watters")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Harrington's article mentions [Gern gefällig](http://www.spiegel.de/spiegel/print/d-14018815.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 1/1983, January 03, 1983 (German)
 
 **[Up one level](People "People")**
 

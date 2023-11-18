@@ -99,19 +99,19 @@ Further working with Larry Atkin, Peter W. Frey is co-author of the strong comme
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Peter W Frey](https://www.kaggle.com/2233-) - [Kaggle](https://en.wikipedia.org/wiki/Kaggle)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  Peter W. Frey (ed.) (**1977**). [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine"), Springer-Verlag, New York, N.Y. 2nd ed. 1983. ISBN 0-387-90815-3.
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Commodore 64/128 Old Computer Chess Game Collection - Chess 7.0, Approaches to Chess by Peter Frey](http://www.spacious-mind.com/html/commodore_c64_chess_7_0.html) hosted by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Peter W. Frey (**1991**). *Memory-Based Expertise: Computer Chess vs. AI*. [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [David Slate](David_Slate "David Slate"), [Larry Atkin](Larry_Atkin "Larry Atkin") (**1977**). *CHESS 4.5 - The Northwestern University Chess Program.* [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine"), reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Larry R. Atkin Magazine articles](http://www.devili.iki.fi/library/author/1442.en.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Chess 0.5, Release 1 - 2005-05-30](http://www.moorecad.com/standardpascal/ByteChess.txt)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Byte Chess 0.5 source code](http://www.moorecad.com/standardpascal/Chess05.pas)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> The Skog Church Tapestry portion possibly depicting Odin, Thor and Freyr or three Christian kings on the 12th century, [Trifunctional hypothesis from Wikipedia](https://en.wikipedia.org/wiki/Trifunctional_hypothesis)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Odin - The Othello Wiki Book Project](http://www.othello.dk/book/index.php/Odin)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Commodore 64/128 Old Computer Chess Game Collection - Chess 7.0](http://www.spacious-mind.com/html/commodore_c64_chess_7_0.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Welcome to the Great-Game Machine Workshop](http://www.great-game-machine.com/)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Peter W Frey](https://www.kaggle.com/2233-) - [Kaggle](https://en.wikipedia.org/wiki/Kaggle)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  Peter W. Frey (ed.) (**1977**). [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine"), Springer-Verlag, New York, N.Y. 2nd ed. 1983. ISBN 0-387-90815-3.
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Commodore 64/128 Old Computer Chess Game Collection - Chess 7.0, Approaches to Chess by Peter Frey](http://www.spacious-mind.com/html/commodore_c64_chess_7_0.html) hosted by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Peter W. Frey (**1991**). *Memory-Based Expertise: Computer Chess vs. AI*. [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [David Slate](David_Slate "David Slate"), [Larry Atkin](Larry_Atkin "Larry Atkin") (**1977**). *CHESS 4.5 - The Northwestern University Chess Program.* [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine"), reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Larry R. Atkin Magazine articles](http://www.devili.iki.fi/library/author/1442.en.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chess 0.5, Release 1 - 2005-05-30](http://www.moorecad.com/standardpascal/ByteChess.txt)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Byte Chess 0.5 source code](http://www.moorecad.com/standardpascal/Chess05.pas)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> The Skog Church Tapestry portion possibly depicting Odin, Thor and Freyr or three Christian kings on the 12th century, [Trifunctional hypothesis from Wikipedia](https://en.wikipedia.org/wiki/Trifunctional_hypothesis)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Odin - The Othello Wiki Book Project](http://www.othello.dk/book/index.php/Odin)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Commodore 64/128 Old Computer Chess Game Collection - Chess 7.0](http://www.spacious-mind.com/html/commodore_c64_chess_7_0.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Welcome to the Great-Game Machine Workshop](http://www.great-game-machine.com/)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

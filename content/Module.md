@@ -104,9 +104,9 @@ a component of a [modular](https://en.wikipedia.org/wiki/Modular_design) dedicat
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Roma 16](https://www.flickr.com/photos/10261668@N05/858166089/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mephisto Modulare Reihe](http://www.schach-computer.info/wiki/index.php/Mephisto_Modulare_Reihe) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Saitek Modulare Serie](http://www.schach-computer.info/wiki/index.php/Saitek_Modulare_Serie) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Roma 16](https://www.flickr.com/photos/10261668@N05/858166089/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mephisto Modulare Reihe](http://www.schach-computer.info/wiki/index.php/Mephisto_Modulare_Reihe) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Saitek Modulare Serie](http://www.schach-computer.info/wiki/index.php/Saitek_Modulare_Serie) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
 
 **[Up one level](Dedicated_Chess_Computers "Dedicated Chess Computers")**
 

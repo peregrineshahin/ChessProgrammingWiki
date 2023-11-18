@@ -44,10 +44,10 @@ John L. Jerz maintains a web site which contains a collection of information rel
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [About Me](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id1.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Welcome to my web site](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/index.html) by John L. Jerz
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> John L. Jerz (**2008, 2013**). *[A Proposed Heuristic for a Computer Chess Program](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id80.html)*. [pdf](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/myfiles/jerz.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [What Strelka tells about Rybka's nodecount and depth](http://www.talkchess.com/forum/viewtopic.php?t=14959) by [Ernest Bonnem](index.php?title=Ernest_Bonnem&action=edit&redlink=1 "Ernest Bonnem (page does not exist)"), [CCC](CCC "CCC"), July 09, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [About Me](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id1.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Welcome to my web site](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/index.html) by John L. Jerz
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> John L. Jerz (**2008, 2013**). *[A Proposed Heuristic for a Computer Chess Program](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id80.html)*. [pdf](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/myfiles/jerz.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [What Strelka tells about Rybka's nodecount and depth](http://www.talkchess.com/forum/viewtopic.php?t=14959) by [Ernest Bonnem](index.php?title=Ernest_Bonnem&action=edit&redlink=1 "Ernest Bonnem (page does not exist)"), [CCC](CCC "CCC"), July 09, 2007
 
 **[Up one level](People "People")**
 

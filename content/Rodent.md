@@ -259,15 +259,15 @@ Rodent II 0.8.7 x64 vs. [Gaviota 1.0 AVX x64](Gaviota "Gaviota"), March 11, 1016
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Eastern spiny mouse](https://en.wikipedia.org/wiki/Eastern_spiny_mouse) Photo by [Marcel Burkhard](http://www.tierlexikon.ch/), Acomys dimidiatus, [Gryzonie (Rodentia) - Wikipedia.pl](http://pl.wikipedia.org/wiki/Gryzonie)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [open source gift for Christmas](http://www.talkchess.com/forum/viewtopic.php?t=41590) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), December 25, 2011
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Rodent II is out](http://www.talkchess.com/forum/viewtopic.php?t=59257) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), February 15, 2016
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - nescitus/Rodent III](https://github.com/nescitus/Rodent_III)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Rodent NNUE (works with the old SF networks)](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78925) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), December 18, 2021
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1999**). *[The Evaluation of Material Imbalances](http://www.danheisman.com/evaluation-of-material-imbalances.html)*. (first published in [Chess Life](https://en.wikipedia.org/wiki/Chess_Life) March 1999, on-line version edited by [Dan Heisman](Dan_Heisman "Dan Heisman"))
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Very nice game ... Rodent - Gaviota, 1:0](http://www.talkchess.com/forum/viewtopic.php?t=59484) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), March 12, 2016
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [OpenTal - almost new engine](http://www.talkchess.com/forum/viewtopic.php?t=66042) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), December 17, 2017
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [nescitus/Rodent\_II · GitHub](https://github.com/nescitus/Rodent_II)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Eastern spiny mouse](https://en.wikipedia.org/wiki/Eastern_spiny_mouse) Photo by [Marcel Burkhard](http://www.tierlexikon.ch/), Acomys dimidiatus, [Gryzonie (Rodentia) - Wikipedia.pl](http://pl.wikipedia.org/wiki/Gryzonie)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [open source gift for Christmas](http://www.talkchess.com/forum/viewtopic.php?t=41590) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), December 25, 2011
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rodent II is out](http://www.talkchess.com/forum/viewtopic.php?t=59257) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), February 15, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - nescitus/Rodent III](https://github.com/nescitus/Rodent_III)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Rodent NNUE (works with the old SF networks)](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78925) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), December 18, 2021
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1999**). *[The Evaluation of Material Imbalances](http://www.danheisman.com/evaluation-of-material-imbalances.html)*. (first published in [Chess Life](https://en.wikipedia.org/wiki/Chess_Life) March 1999, on-line version edited by [Dan Heisman](Dan_Heisman "Dan Heisman"))
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Very nice game ... Rodent - Gaviota, 1:0](http://www.talkchess.com/forum/viewtopic.php?t=59484) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), March 12, 2016
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [OpenTal - almost new engine](http://www.talkchess.com/forum/viewtopic.php?t=66042) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), December 17, 2017
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [nescitus/Rodent\_II · GitHub](https://github.com/nescitus/Rodent_II)
 
 **[Up one Level](Engines "Engines")**
 

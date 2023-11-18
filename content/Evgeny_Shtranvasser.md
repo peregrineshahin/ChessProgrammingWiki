@@ -17,9 +17,9 @@ As computer chess programmer, Evgeny Shtranvasser is author of the [UCI](UCI "UC
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Evgeny Shtranvasser - LinkedIn](https://il.linkedin.com/in/evgeny-shtranvasser-114860123)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [jackalsh / Bismark — Bitbucket](https://bitbucket.org/jackalsh/bismark)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Blunders - endless database of chess puzzles](https://chessblunders.org/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Evgeny Shtranvasser - LinkedIn](https://il.linkedin.com/in/evgeny-shtranvasser-114860123)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [jackalsh / Bismark — Bitbucket](https://bitbucket.org/jackalsh/bismark)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Blunders - endless database of chess puzzles](https://chessblunders.org/)
 
 **[Up one level](People "People")**
 

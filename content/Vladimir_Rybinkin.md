@@ -28,9 +28,9 @@ As former computer chess programmer, Vladimir Rybinkin is primary author of the 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Vladimir Rybinkin and [Yuri Shpeer](Yuri_Shpeer "Yuri Shpeer") clipped from [Aegon 1996-97](http://www.thorstenczub.de/aegon.html), Photos by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WSEAS - World Scientific and Engineering Academy and Society](http://www.wseas.org/cms.action)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [WSEAS Members](http://www.wseas.org/cms.action?id=7659)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Vladimir Rybinkin and [Yuri Shpeer](Yuri_Shpeer "Yuri Shpeer") clipped from [Aegon 1996-97](http://www.thorstenczub.de/aegon.html), Photos by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WSEAS - World Scientific and Engineering Academy and Society](http://www.wseas.org/cms.action)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [WSEAS Members](http://www.wseas.org/cms.action?id=7659)
 
 **[Up one level](People "People")**
 

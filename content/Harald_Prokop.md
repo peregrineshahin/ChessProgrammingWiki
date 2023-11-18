@@ -35,14 +35,14 @@ and was involved in the [Cilk](Cilk "Cilk") project <a id="cite-note-4" href="#c
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Harald Prokop | LinkedIn](https://www.linkedin.com/in/prokop)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Harald Prokop | LinkedIn](https://www.linkedin.com/in/prokop)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Harald Prokop MIT homepage](http://people.csail.mit.edu/prokop/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Cilk Project](http://supertech.csail.mit.edu/cilk/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Harald Prokop's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=41)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Harald Prokop](https://dblp.uni-trier.de/pers/hd/p/Prokop:Harald)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Cache-oblivious algorithm from Wikipedia](https://en.wikipedia.org/wiki/Cache-oblivious_algorithm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Harald Prokop | LinkedIn](https://www.linkedin.com/in/prokop)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Harald Prokop | LinkedIn](https://www.linkedin.com/in/prokop)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Harald Prokop MIT homepage](http://people.csail.mit.edu/prokop/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Cilk Project](http://supertech.csail.mit.edu/cilk/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Harald Prokop's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=41)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Harald Prokop](https://dblp.uni-trier.de/pers/hd/p/Prokop:Harald)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Cache-oblivious algorithm from Wikipedia](https://en.wikipedia.org/wiki/Cache-oblivious_algorithm)
 
 **[Up one level](People "People")**
 

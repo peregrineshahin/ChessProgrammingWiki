@@ -45,12 +45,12 @@ an American physicist, computer scientist and [artificial intelligence](Artifici
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Eric Baum | LinkedIn](https://www.linkedin.com/pub/eric-baum/0/273/64a)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eric B. Baum | The MIT Press](https://mitpress.mit.edu/contributors/eric-b-baum)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lifeboat Foundation Bios: Dr. Eric B. Baum](http://lifeboat.com/ex/bios.eric.b.baum)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Eric B. Baum's Research](http://www.whatisthought.com/eric.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Eric B. Baum](http://dblp.uni-trier.de/pers/hd/b/Baum:Eric_B=)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Idea: use range (evalMin - evalMax) for position evaluation](https://groups.google.com/g/lczero/c/TLCMkkdm1hw/m/SgbGghzhBAAJ) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [LCZero Forum](Computer_Chess_Forums "Computer Chess Forums"), May 28, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Eric Baum | LinkedIn](https://www.linkedin.com/pub/eric-baum/0/273/64a)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eric B. Baum | The MIT Press](https://mitpress.mit.edu/contributors/eric-b-baum)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lifeboat Foundation Bios: Dr. Eric B. Baum](http://lifeboat.com/ex/bios.eric.b.baum)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Eric B. Baum's Research](http://www.whatisthought.com/eric.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Eric B. Baum](http://dblp.uni-trier.de/pers/hd/b/Baum:Eric_B=)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Idea: use range (evalMin - evalMax) for position evaluation](https://groups.google.com/g/lczero/c/TLCMkkdm1hw/m/SgbGghzhBAAJ) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [LCZero Forum](Computer_Chess_Forums "Computer Chess Forums"), May 28, 2021
 
 **[Up one level](People "People")**
 

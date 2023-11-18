@@ -26,8 +26,8 @@ a Dutch chess and computer chess journalist, former editor of [Computerschaak](C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [2nd International CSVN Tournament (2002)](http://old.csvn.nl/gallery16.html) Photos by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Tigers: Das Chess Tigers Team](https://web.archive.org/web/20060206233910/http://www.chesstigers.de/chesstigers.php) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [2nd International CSVN Tournament (2002)](http://old.csvn.nl/gallery16.html) Photos by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Tigers: Das Chess Tigers Team](https://web.archive.org/web/20060206233910/http://www.chesstigers.de/chesstigers.php) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), German)
 
 **[Up one level](People "People")**
 

@@ -29,7 +29,7 @@ a free chess engine with [Chess Engine Communication Protocol](Chess_Engine_Comm
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Final Standing 7th IOPCCC 2008](http://mpps.maciej.szmit.info/mpps-7/results.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Final Standing 7th IOPCCC 2008](http://mpps.maciej.szmit.info/mpps-7/results.htm)
 
 **[Up one Level](Engines "Engines")**
 

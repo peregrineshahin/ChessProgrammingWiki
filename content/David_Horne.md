@@ -41,10 +41,10 @@ a British inventor <a id="cite-note-1" href="#cite-ref-1">[1]</a>, former progra
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Horne David R, Inventor, Crowborough, GB2](http://www.patentbuddy.com/Inventor/Horne-David-R/10585408)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [1K ZX81 Chess Z80 Assembly listing](http://users.ox.ac.uk/~uzdm0006/scans/1kchess/assem.html) © Copyright David Horne
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Magazine Page Scan from World of Spectrum](http://zx81stuff.org.uk/zx81/showmag.php?mag=SinclairUser/Issue003/Pages/SinclairUser00300061.jpg)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Tutor - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0000920)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Horne David R, Inventor, Crowborough, GB2](http://www.patentbuddy.com/Inventor/Horne-David-R/10585408)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [1K ZX81 Chess Z80 Assembly listing](http://users.ox.ac.uk/~uzdm0006/scans/1kchess/assem.html) © Copyright David Horne
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Magazine Page Scan from World of Spectrum](http://zx81stuff.org.uk/zx81/showmag.php?mag=SinclairUser/Issue003/Pages/SinclairUser00300061.jpg)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Tutor - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0000920)
 
 **[Up one level](People "People")**
 

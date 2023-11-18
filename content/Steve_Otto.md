@@ -47,12 +47,12 @@ During the 80s, while affiliated with the [California Institute of Technology](h
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Steve W Otto | Facebook](https://www.facebook.com/steve.w.otto)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Waycool's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=359)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Steve W. Otto](https://dblp.org/pers/hd/o/Otto:Steve_W=)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Steve W. Otto - Semantic Scholar](https://www.semanticscholar.org/author/Steve-W.-Otto/1760350)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Travelling salesman problem from Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Message Passing Interface from Wikipedia](https://en.wikipedia.org/wiki/Message_Passing_Interface)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Steve W Otto | Facebook](https://www.facebook.com/steve.w.otto)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Waycool's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=359)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Steve W. Otto](https://dblp.org/pers/hd/o/Otto:Steve_W=)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Steve W. Otto - Semantic Scholar](https://www.semanticscholar.org/author/Steve-W.-Otto/1760350)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Travelling salesman problem from Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Message Passing Interface from Wikipedia](https://en.wikipedia.org/wiki/Message_Passing_Interface)
 
 **[Up one level](People "People")**
 

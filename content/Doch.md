@@ -64,12 +64,12 @@ position search( position_state *prev,  ...  )
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [About Komodo](https://komodochess.com/store/pages.php?cmsid=13) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Doch 09.980 (uci) by Don Dailey available](http://www.talkchess.com/forum/viewtopic.php?t=30598) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), November 13, 2009
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Komodo credit](http://www.talkchess.com/forum/viewtopic.php?t=31920) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), January 22, 2010
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computerschach, Interview with Don Dailey](http://www.schach-welt.de/schach/computerschach/interviews/don-dailey) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Schachwelt.de](http://www.schach-welt.de/), December 18-20, 2009
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: undo move vs. Position Cloning](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=291570&t=29770) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), September 16, 2009
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: undo move vs. Position Cloning](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=291586&t=29770) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), September 16, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [About Komodo](https://komodochess.com/store/pages.php?cmsid=13) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Doch 09.980 (uci) by Don Dailey available](http://www.talkchess.com/forum/viewtopic.php?t=30598) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), November 13, 2009
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Komodo credit](http://www.talkchess.com/forum/viewtopic.php?t=31920) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), January 22, 2010
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computerschach, Interview with Don Dailey](http://www.schach-welt.de/schach/computerschach/interviews/don-dailey) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Schachwelt.de](http://www.schach-welt.de/), December 18-20, 2009
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: undo move vs. Position Cloning](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=291570&t=29770) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), September 16, 2009
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: undo move vs. Position Cloning](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=291586&t=29770) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), September 16, 2009
 
 **[Up one Level](Engines "Engines")**
 

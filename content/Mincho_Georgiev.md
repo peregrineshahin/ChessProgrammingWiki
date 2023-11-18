@@ -46,7 +46,7 @@ first released in September 2009 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [New open source engine called "Pawny"](http://www.talkchess.com/forum/viewtopic.php?t=29641) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), September 03, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [New open source engine called "Pawny"](http://www.talkchess.com/forum/viewtopic.php?t=29641) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), September 03, 2009
 
 **[Up one Level](People "People")**
 

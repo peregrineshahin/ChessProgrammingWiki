@@ -57,9 +57,9 @@ a Spanish chess player, computer chess programmer, and author of the [Chess Engi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [José Carlos Martínez Galán | Facebook](https://es-la.facebook.com/jose.carlos.martinez.galan)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Averno](https://www.stmintz.com/ccc/index.php?id=67450) by José Carlos, [CCC](CCC "CCC"), September 05, 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Ponder=on in cutechess-cli?](http://www.talkchess.com/forum3/viewtopic.php?t=43157&start=1) by José Carlos, [CCC](CCC "CCC"), April 04, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [José Carlos Martínez Galán | Facebook](https://es-la.facebook.com/jose.carlos.martinez.galan)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Averno](https://www.stmintz.com/ccc/index.php?id=67450) by José Carlos, [CCC](CCC "CCC"), September 05, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Ponder=on in cutechess-cli?](http://www.talkchess.com/forum3/viewtopic.php?t=43157&start=1) by José Carlos, [CCC](CCC "CCC"), April 04, 2012
 
 **[Up one level](People "People")**
 

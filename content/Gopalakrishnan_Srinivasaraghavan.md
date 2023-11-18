@@ -41,12 +41,12 @@ As advisor of [Rahul Aralikatte](Rahul_Aralikatte "Rahul Aralikatte"), he co-aut
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [IIIT-B :: faculty | G Srinivasaraghavan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gopalakrishnan Srinivasaraghavan | LinkedIn](https://www.linkedin.com/in/gopalakrishnan-srinivasaraghavan-43b4b9)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Rahul Aralikatte](Rahul_Aralikatte "Rahul Aralikatte"), G. Srinivasaraghavan (**2016**). *Phoenix: A Self-Optimizing Chess Engine*. [arXiv:1603.09051](https://arxiv.org/abs/1603.09051)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Rahul Aralikatte](Rahul_Aralikatte "Rahul Aralikatte") (**2014**). *Phoenix : A Self Learning Chess Engine*. for the Award of M. Tech in Information Technology, [International Institute of Information Technology, Bangalore](https://en.wikipedia.org/wiki/International_Institute_of_Information_Technology,_Bangalore), [Bangalore](https://en.wikipedia.org/wiki/Bangalore), advisor G. Srinivasaraghavan
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: PHOENIX=CuckooChess with learning function in Falcon style](http://www.talkchess.com/forum/viewtopic.php?t=55476&start=4) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), March 20, 2016
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: G. Srinivasaraghavan](https://dblp.uni-trier.de/pers/hd/s/Srinivasaraghavan:G=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [IIIT-B :: faculty | G Srinivasaraghavan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gopalakrishnan Srinivasaraghavan | LinkedIn](https://www.linkedin.com/in/gopalakrishnan-srinivasaraghavan-43b4b9)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rahul Aralikatte](Rahul_Aralikatte "Rahul Aralikatte"), G. Srinivasaraghavan (**2016**). *Phoenix: A Self-Optimizing Chess Engine*. [arXiv:1603.09051](https://arxiv.org/abs/1603.09051)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rahul Aralikatte](Rahul_Aralikatte "Rahul Aralikatte") (**2014**). *Phoenix : A Self Learning Chess Engine*. for the Award of M. Tech in Information Technology, [International Institute of Information Technology, Bangalore](https://en.wikipedia.org/wiki/International_Institute_of_Information_Technology,_Bangalore), [Bangalore](https://en.wikipedia.org/wiki/Bangalore), advisor G. Srinivasaraghavan
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: PHOENIX=CuckooChess with learning function in Falcon style](http://www.talkchess.com/forum/viewtopic.php?t=55476&start=4) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), March 20, 2016
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: G. Srinivasaraghavan](https://dblp.uni-trier.de/pers/hd/s/Srinivasaraghavan:G=)
 
 **[Up one level](People "People")**
 

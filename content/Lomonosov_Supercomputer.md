@@ -53,14 +53,14 @@ One scientific as well as commercial research application using the Lomonosov Su
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Russia Accelerates Scientific Innovation with GPU Supercomputers|NVIDIA](http://www.nvidia.in/object/nvidia-russia-supercomputer-press-20110615-in.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [T-Platforms](https://en.wikipedia.org/wiki/T-Platforms) (**2012**). *Lomonosov Supercomputer*.
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Clustrx HPC software by [T-Platforms](https://en.wikipedia.org/wiki/T-Platforms)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Endgame tablebase from Wikipedia - Background](https://en.wikipedia.org/wiki/Endgame_tablebase#Background)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [7-man TB](https://plus.google.com/100454521496393505718/posts) - [Google+](https://en.wikipedia.org/wiki/Google%2B)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Lomonosov Endgame Tablebases](http://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Vladimir Putin from Wikipedia](https://en.wikipedia.org/wiki/Vladimir_Putin)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Viktor Sadovnichiy from Wikipedia](https://en.wikipedia.org/wiki/Viktor_Sadovnichiy)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Russia Accelerates Scientific Innovation with GPU Supercomputers|NVIDIA](http://www.nvidia.in/object/nvidia-russia-supercomputer-press-20110615-in.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [T-Platforms](https://en.wikipedia.org/wiki/T-Platforms) (**2012**). *Lomonosov Supercomputer*.
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Clustrx HPC software by [T-Platforms](https://en.wikipedia.org/wiki/T-Platforms)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Endgame tablebase from Wikipedia - Background](https://en.wikipedia.org/wiki/Endgame_tablebase#Background)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [7-man TB](https://plus.google.com/100454521496393505718/posts) - [Google+](https://en.wikipedia.org/wiki/Google%2B)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Lomonosov Endgame Tablebases](http://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Vladimir Putin from Wikipedia](https://en.wikipedia.org/wiki/Vladimir_Putin)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Viktor Sadovnichiy from Wikipedia](https://en.wikipedia.org/wiki/Viktor_Sadovnichiy)
 
 **[Up one Level](Hardware "Hardware")**
 

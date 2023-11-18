@@ -79,14 +79,14 @@ Soon after the challenge was announced, several members of the game AI-research 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: MTD is a big win](https://www.stmintz.com/ccc/index.php?id=61157) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), July 20, 1999
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Finger Occam](http://www6.chessclub.com/finger/occam) at [Internet Chess Club](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: MTD is a big win](https://www.stmintz.com/ccc/index.php?id=61218) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), July 20, 1999
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: undo move vs. Position Cloning](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=291570&t=29770) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), September 16, 2009
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: MTD is a big win](https://www.stmintz.com/ccc/index.php?id=61243) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), July 21, 1999
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: MTD is a big win](https://www.stmintz.com/ccc/index.php?id=61151) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), July 20, 1999
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Arimaa Challenge 2004](http://arimaa.com/arimaa/challenge/2004/icgaNews2.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Omar Syed](Omar_Syed "Omar Syed") (**2015**). *The Arimaa Challenge: From Inception to Completion*. [ICGA Journal, Vol. 38, No. 1](ICGA_Journal#38_1 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: MTD is a big win](https://www.stmintz.com/ccc/index.php?id=61157) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), July 20, 1999
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Finger Occam](http://www6.chessclub.com/finger/occam) at [Internet Chess Club](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: MTD is a big win](https://www.stmintz.com/ccc/index.php?id=61218) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), July 20, 1999
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: undo move vs. Position Cloning](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=291570&t=29770) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), September 16, 2009
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: MTD is a big win](https://www.stmintz.com/ccc/index.php?id=61243) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), July 21, 1999
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: MTD is a big win](https://www.stmintz.com/ccc/index.php?id=61151) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), July 20, 1999
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Arimaa Challenge 2004](http://arimaa.com/arimaa/challenge/2004/icgaNews2.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Omar Syed](Omar_Syed "Omar Syed") (**2015**). *The Arimaa Challenge: From Inception to Completion*. [ICGA Journal, Vol. 38, No. 1](ICGA_Journal#38_1 "ICGA Journal")
 
 **[Up one Level](Engines "Engines")**
 

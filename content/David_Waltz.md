@@ -53,11 +53,11 @@ where he worked from 1984 to 1993, he was involved in the [StarTech](StarTech "S
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Waltz's Home Page](http://www.cs.columbia.edu/~waltz/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> David Waltz (**1972**). *[Generating Semantic Description from Drawings of Scenes with Shadows](http://dspace.mit.edu/handle/1721.1/41205)*. Ph.D. thesis, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Craig Stanfill](https://www.linkedin.com/in/craig-stanfill-9a01b910/), David Waltz (**1986**). *Toward Memory-Based Reasoning*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 29, No. 12, [pdf](http://www1.cs.columbia.edu/~waltz/Papers/Torward%20Memory-Based%20Reasoning-ACM%201986.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. Thesis, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf), pp. 146, Acknowledgements
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: David L. Waltz](https://dblp.uni-trier.de/pers/hd/w/Waltz:David_L=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Waltz's Home Page](http://www.cs.columbia.edu/~waltz/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> David Waltz (**1972**). *[Generating Semantic Description from Drawings of Scenes with Shadows](http://dspace.mit.edu/handle/1721.1/41205)*. Ph.D. thesis, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Craig Stanfill](https://www.linkedin.com/in/craig-stanfill-9a01b910/), David Waltz (**1986**). *Toward Memory-Based Reasoning*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 29, No. 12, [pdf](http://www1.cs.columbia.edu/~waltz/Papers/Torward%20Memory-Based%20Reasoning-ACM%201986.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. Thesis, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf), pp. 146, Acknowledgements
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: David L. Waltz](https://dblp.uni-trier.de/pers/hd/w/Waltz:David_L=.html)
 
 **[Up one level](People "People")**
 

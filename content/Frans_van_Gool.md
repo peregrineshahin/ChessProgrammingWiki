@@ -38,13 +38,13 @@ as co-author of the chess program [Ares](Ares "Ares"). Frans van Gool is further
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Frans van Gool | LinkedIn](https://www.linkedin.com/in/frans-van-gool-5655a68/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> not to confused with the Dutch architect [Frans van Gool](https://nl.wikipedia.org/wiki/Frans_van_Gool)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fransiscus van Gool - The Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=51006)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Frans van Gool's MasterMind applet](http://jmastermind.sourceforge.net/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Frans van Gool's MasterMind algorithm](http://jmastermind.sourceforge.net/algorithm.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Czech Digital Mathematics Library - Author: van Gool, Frans](https://dml.cz/browse-author-items?id=6971)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Lattice from Wikipedia](https://en.wikipedia.org/wiki/Lattice_%28order%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Frans van Gool | LinkedIn](https://www.linkedin.com/in/frans-van-gool-5655a68/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> not to confused with the Dutch architect [Frans van Gool](https://nl.wikipedia.org/wiki/Frans_van_Gool)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fransiscus van Gool - The Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=51006)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Frans van Gool's MasterMind applet](http://jmastermind.sourceforge.net/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Frans van Gool's MasterMind algorithm](http://jmastermind.sourceforge.net/algorithm.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Czech Digital Mathematics Library - Author: van Gool, Frans](https://dml.cz/browse-author-items?id=6971)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Lattice from Wikipedia](https://en.wikipedia.org/wiki/Lattice_%28order%29)
 
 **[Up one level](People "People")**
 

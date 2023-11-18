@@ -22,8 +22,8 @@ As computer chess programmer, he is author of the chess engines [Tamerlane](Tame
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Luigi Marco Ripamonti - Senior software engineer | LinkedIn](https://it.linkedin.com/in/luigi-marco-ripamonti-30007389)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Shield - About Me](https://sites.google.com/site/shieldchessengine/about-me)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Luigi Marco Ripamonti - Senior software engineer | LinkedIn](https://it.linkedin.com/in/luigi-marco-ripamonti-30007389)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shield - About Me](https://sites.google.com/site/shieldchessengine/about-me)
 
 **[Up one level](People "People")**
 

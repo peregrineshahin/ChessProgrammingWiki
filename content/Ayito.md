@@ -48,8 +48,8 @@ Rcd7 34.Qf2 exf4 35.Qxf4 Kg7 36.Rg3 Kf7 37.Rd1 Re8 38.Rf1 Rf8 39.e5 Ke8
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ayito: A new Winboard engine. But this one is unique....](https://www.stmintz.com/ccc/index.php?id=363931) by [Jaime Benito de Valle Ruiz](Jaime_Benito_de_Valle_Ruiz "Jaime Benito de Valle Ruiz"), [CCC](CCC "CCC"), May 07, 2004
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=5), [CSVN](CSVN "CSVN")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ayito: A new Winboard engine. But this one is unique....](https://www.stmintz.com/ccc/index.php?id=363931) by [Jaime Benito de Valle Ruiz](Jaime_Benito_de_Valle_Ruiz "Jaime Benito de Valle Ruiz"), [CCC](CCC "CCC"), May 07, 2004
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=5), [CSVN](CSVN "CSVN")
 
 **[Up one level](Engines "Engines")**
 

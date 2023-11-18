@@ -142,26 +142,26 @@ Gambiet order form by [Microtrend](Microtrend "Microtrend"), U.S.A., [InfoWorld]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Gambiet 80 cover from [Computerschaak](http://www.necoma.nl/chess.html) by [Peter van Grijfland](http://www.necoma.nl/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eerste Nederlands Kampioenschappen Computerschaken](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GAMBIET - Reviews & Brand Information - Microtrend International B.V. Amsterdam , Serial Number: 73334547](http://www.trademarkia.com/gambiet-73334547.html) by [Trademarkia](https://en.wikipedia.org/wiki/Trademarkia)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *[The third European Microcomputer Chess tournament](http://www.atarimagazines.com/creative/v9n1/123_The_third_European_Microc.php)*. [Creative Computing](Creative_Computing "Creative Computing"), Vol. 9, No. 1
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Gambiet '82, de nieuwe Nederlandse computerschaak kampioen! - Nieuwe pagina 1](http://www.csvnsupplementsite.nl/CSVNPAGINA1.html), [CSVN](CSVN "CSVN") supplement site
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Philips](https://en.wikipedia.org/wiki/Philips), [Videopac C 7010](Videopac_C_7010 "Videopac C 7010"), French Manual, [pdf](http://www.6502man.com/tempo/VIDEOPAC%20CHESS%20%20C7010.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Gambiet 80 cover from [Computerschaak](http://www.necoma.nl/chess.html) by [Peter van Grijfland](http://www.necoma.nl/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eerste Nederlands Kampioenschappen Computerschaken](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GAMBIET - Reviews & Brand Information - Microtrend International B.V. Amsterdam , Serial Number: 73334547](http://www.trademarkia.com/gambiet-73334547.html) by [Trademarkia](https://en.wikipedia.org/wiki/Trademarkia)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *[The third European Microcomputer Chess tournament](http://www.atarimagazines.com/creative/v9n1/123_The_third_European_Microc.php)*. [Creative Computing](Creative_Computing "Creative Computing"), Vol. 9, No. 1
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Gambiet '82, de nieuwe Nederlandse computerschaak kampioen! - Nieuwe pagina 1](http://www.csvnsupplementsite.nl/CSVNPAGINA1.html), [CSVN](CSVN "CSVN") supplement site
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Philips](https://en.wikipedia.org/wiki/Philips), [Videopac C 7010](Videopac_C_7010 "Videopac C 7010"), French Manual, [pdf](http://www.6502man.com/tempo/VIDEOPAC%20CHESS%20%20C7010.pdf)
 
 © 1982 [N.V. Philips Gloeilampenfabrieken](https://en.wikipedia.org/wiki/Philips#History) - Holland
 
 © 1982 [Wim Rens](Wim_Rens "Wim Rens"), [Microtrend International](Microtrend "Microtrend") - Holland
-7\. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [National Semiconductor NSC800](http://www.cpu-world.com/CPUs/NSC800/index.html) from [CPU-World: Microprocessor news, benchmarks, information and pictures](http://www.cpu-world.com/index.html)
-8\. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Wim Rens](Wim_Rens "Wim Rens") (**1981**). *Grondslagen van computerschaak*. [Databus](http://home.kpn.nl/a.dikker1/museum/databus.html) 06-81, pp. 13-15, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1981,%20Databus,%20Wim%20Rens,%20Grondslagen%20van%20computerschaak.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-9\. <a id="cite-ref-9" href="#cite-note-9">[9]</a> same flags as [8080](8080 "8080"), and even [8086](8086 "8086"), [x86](X86 "X86") and [x86-64](X86-64 "X86-64") with [parity](https://en.wikipedia.org/wiki/Parity_flag) for the least significant byte
-10\. <a id="cite-ref-10" href="#cite-note-10">[10]</a> Free translation from Dutch, excerpt from: [Wim Rens](Wim_Rens "Wim Rens") (**1981**). *Grondslagen van computerschaak*. [Databus](http://home.kpn.nl/a.dikker1/museum/databus.html) 06-81, pp. 13-15, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1981,%20Databus,%20Wim%20Rens,%20Grondslagen%20van%20computerschaak.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
-11\. <a id="cite-ref-11" href="#cite-note-11">[11]</a> first milestone was winning a match from [IGM](IGM "IGM") in early 1980
-12\. <a id="cite-ref-12" href="#cite-note-12">[12]</a> Gabmol was Gambiet's initial name
-13\. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [GAMBIET - Reviews & Brand Information - Microtrend International B.V. Amsterdam , Serial Number: 73334547](http://www.trademarkia.com/gambiet-73334547.html)
-14\. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Gambiet order form](http://books.google.com/books?id=Cz4EAAAAMBAJ&pg=PA11&lpg=PA11&source=bl&ots=NNPeGit1RW&sig=OJkQ8pLSOju5EpW1DBOGPrfQXlI&hl=en&sa=X&ei=X9B0T-WTJofesgacma29DQ&sqi=2&redir_esc=y#v=onepage&q&f=false), [InfoWorld](https://en.wikipedia.org/wiki/InfoWorld), Vol. 3, No. 9, May 11, 1981, from [Google Books](https://en.wikipedia.org/wiki/Google_Books)
-15\. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [London 1980 - Chess - Round 3 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=13&round=3&id=4)
-16\. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=30)
+7\. <a id="cite-ref-7" href="#cite-note-7">↑</a> [National Semiconductor NSC800](http://www.cpu-world.com/CPUs/NSC800/index.html) from [CPU-World: Microprocessor news, benchmarks, information and pictures](http://www.cpu-world.com/index.html)
+8\. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Wim Rens](Wim_Rens "Wim Rens") (**1981**). *Grondslagen van computerschaak*. [Databus](http://home.kpn.nl/a.dikker1/museum/databus.html) 06-81, pp. 13-15, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1981,%20Databus,%20Wim%20Rens,%20Grondslagen%20van%20computerschaak.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+9\. <a id="cite-ref-9" href="#cite-note-9">↑</a> same flags as [8080](8080 "8080"), and even [8086](8086 "8086"), [x86](X86 "X86") and [x86-64](X86-64 "X86-64") with [parity](https://en.wikipedia.org/wiki/Parity_flag) for the least significant byte
+10\. <a id="cite-ref-10" href="#cite-note-10">↑</a> Free translation from Dutch, excerpt from: [Wim Rens](Wim_Rens "Wim Rens") (**1981**). *Grondslagen van computerschaak*. [Databus](http://home.kpn.nl/a.dikker1/museum/databus.html) 06-81, pp. 13-15, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/06-1981,%20Databus,%20Wim%20Rens,%20Grondslagen%20van%20computerschaak.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
+11\. <a id="cite-ref-11" href="#cite-note-11">↑</a> first milestone was winning a match from [IGM](IGM "IGM") in early 1980
+12\. <a id="cite-ref-12" href="#cite-note-12">↑</a> Gabmol was Gambiet's initial name
+13\. <a id="cite-ref-13" href="#cite-note-13">↑</a> [GAMBIET - Reviews & Brand Information - Microtrend International B.V. Amsterdam , Serial Number: 73334547](http://www.trademarkia.com/gambiet-73334547.html)
+14\. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Gambiet order form](http://books.google.com/books?id=Cz4EAAAAMBAJ&pg=PA11&lpg=PA11&source=bl&ots=NNPeGit1RW&sig=OJkQ8pLSOju5EpW1DBOGPrfQXlI&hl=en&sa=X&ei=X9B0T-WTJofesgacma29DQ&sqi=2&redir_esc=y#v=onepage&q&f=false), [InfoWorld](https://en.wikipedia.org/wiki/InfoWorld), Vol. 3, No. 9, May 11, 1981, from [Google Books](https://en.wikipedia.org/wiki/Google_Books)
+15\. <a id="cite-ref-15" href="#cite-note-15">↑</a> [London 1980 - Chess - Round 3 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=13&round=3&id=4)
+16\. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=30)
 
 **[Up one level](Engines "Engines")**
 

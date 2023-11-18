@@ -79,9 +79,9 @@ Bg5 44.f5 Kh8 45.Qb7 Rf7 46.Qxf7 h5 47.Qh7# 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Homer](https://en.wikipedia.org/wiki/Homer) as depicted in the 1493 [Nuremberg Chronicle](https://en.wikipedia.org/wiki/Nuremberg_Chronicle), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PHR (Peak History Reduction) idea](https://www.stmintz.com/ccc/index.php?id=490779) by [Daniel Mehrmann](Daniel_Mehrmann "Daniel Mehrmann"), [CCC](CCC "CCC"), March 01, 2006
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Homer (Computer) vs Buzz (Computer) (2007)](http://www.chessgames.com/perl/chessgame?gid=1464423) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Homer](https://en.wikipedia.org/wiki/Homer) as depicted in the 1493 [Nuremberg Chronicle](https://en.wikipedia.org/wiki/Nuremberg_Chronicle), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PHR (Peak History Reduction) idea](https://www.stmintz.com/ccc/index.php?id=490779) by [Daniel Mehrmann](Daniel_Mehrmann "Daniel Mehrmann"), [CCC](CCC "CCC"), March 01, 2006
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Homer (Computer) vs Buzz (Computer) (2007)](http://www.chessgames.com/perl/chessgame?gid=1464423) from [chessgames.com](http://www.chessgames.com/index.html)
 
 **[Up one level](Engines "Engines")**
 

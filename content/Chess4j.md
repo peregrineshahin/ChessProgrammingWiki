@@ -84,9 +84,9 @@ Since version 3.2 released in March 2017, chess4j became a [bitboard](Bitboards 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [chess4j 1.0 is released!](http://www.jamesswafford.com/2012/09/15/chess4j-1-0-is-released/) by [James Swafford](James_Swafford "James Swafford"), September 15, 2012
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [chess4j 3.2 is released (and it's magic)](http://www.talkchess.com/forum/viewtopic.php?t=63412) by [James Swafford](James_Swafford "James Swafford"), [CCC](CCC "CCC"), March 11, 2017
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: chess4j 3.2 is released (and it's magic)](http://www.talkchess.com/forum/viewtopic.php?t=63412&start=4) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), November 16, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [chess4j 1.0 is released!](http://www.jamesswafford.com/2012/09/15/chess4j-1-0-is-released/) by [James Swafford](James_Swafford "James Swafford"), September 15, 2012
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [chess4j 3.2 is released (and it's magic)](http://www.talkchess.com/forum/viewtopic.php?t=63412) by [James Swafford](James_Swafford "James Swafford"), [CCC](CCC "CCC"), March 11, 2017
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: chess4j 3.2 is released (and it's magic)](http://www.talkchess.com/forum/viewtopic.php?t=63412&start=4) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), November 16, 2017
 
 **[Up one level](Engines "Engines")**
 

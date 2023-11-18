@@ -43,12 +43,12 @@ an American mathematician, computer scientist and professor at [University of Wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Solomon's Home Page](http://pages.cs.wisc.edu/~solomon/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Marvin Solomon (**1977**). *[Theoretical issues in the implementation of programming languages](http://portal.acm.org/citation.cfm?id=908549)*. Ph.D. thesis, [Cornell University](https://en.wikipedia.org/wiki/Cornell_University)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Mathematics Genealogy Project - Marvin Solomon](http://genealogy.math.ndsu.nodak.edu/id.php?id=82283)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Solomon's Home Page](http://pages.cs.wisc.edu/~solomon/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Mathematics Genealogy Project - Igor Steinberg](http://genealogy.math.ndsu.nodak.edu/id.php?id=82285)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Marvin H. Solomon](https://dblp.uni-trier.de/pers/hd/s/Solomon:Marvin_H=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Solomon's Home Page](http://pages.cs.wisc.edu/~solomon/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Marvin Solomon (**1977**). *[Theoretical issues in the implementation of programming languages](http://portal.acm.org/citation.cfm?id=908549)*. Ph.D. thesis, [Cornell University](https://en.wikipedia.org/wiki/Cornell_University)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Mathematics Genealogy Project - Marvin Solomon](http://genealogy.math.ndsu.nodak.edu/id.php?id=82283)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Solomon's Home Page](http://pages.cs.wisc.edu/~solomon/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Mathematics Genealogy Project - Igor Steinberg](http://genealogy.math.ndsu.nodak.edu/id.php?id=82285)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Marvin H. Solomon](https://dblp.uni-trier.de/pers/hd/s/Solomon:Marvin_H=)
 
 **[Up one level](People "People")**
 

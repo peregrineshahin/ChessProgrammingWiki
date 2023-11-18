@@ -9,9 +9,9 @@ a Russian chess programmer, and author of the [PC](IBM_PC "IBM PC") chess progra
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pokrovsky from Wikipedia](https://en.wikipedia.org/wiki/Pokrovsky)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev") (**1989**). *Report on the 1st International Chess-Computer Tournament in the USSR*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pokrovsky from Wikipedia](https://en.wikipedia.org/wiki/Pokrovsky)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev") (**1989**). *Report on the 1st International Chess-Computer Tournament in the USSR*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
 
 **[Up one level](People "People")**
 

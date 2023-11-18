@@ -49,7 +49,7 @@ title: Graph History Interaction
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Aquarium IDEA, repetitions, and minimax over cycles](http://www.open-chess.org/viewtopic.php?f=5&t=2093#p17469) by [syzygy](Ronald_de_Man "Ronald de Man"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), September 22, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Aquarium IDEA, repetitions, and minimax over cycles](http://www.open-chess.org/viewtopic.php?f=5&t=2093#p17469) by [syzygy](Ronald_de_Man "Ronald de Man"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), September 22, 2012
 
 **[Up one Level](Search "Search")**
 

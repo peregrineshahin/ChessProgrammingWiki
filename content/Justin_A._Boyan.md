@@ -50,14 +50,14 @@ an American computer scientist and product manager at [Google](index.php?title=G
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Justin Boyan | LinkedIn](https://www.linkedin.com/in/boyan/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Justin A. Boyan (**1992**). *Modular Neural Networks for Learning Context-Dependent Game Strategies*. Master's thesis, [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge), [pdf](http://www.cs.cmu.edu/~jab/cv/pubs/boyan.backgammon-thesis.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Justin Boyan - The Mathematics Genealogy Project](http://www.genealogy.ams.org/id.php?id=50253)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Justin A. Boyan (**1998**). *Learning Evaluation Functions for Global Optimization*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), advisors [Scott Fahlman](Mathematician#SFahlman "Mathematician") and [Andrew W. Moore](Mathematician#AWMoore "Mathematician")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Curriculum Vitae - Justin Andrew Boyan](http://www.cs.cmu.edu/~jab/cv/cv100.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Justin A. Boyan](http://dblp.uni-trier.de/pers/hd/b/Boyan:Justin_A=)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Curriculum Vitae - Justin Andrew Boyan](http://www.cs.cmu.edu/~jab/cv/cv100.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICML-99 Best Paper Award](http://www.cs.cmu.edu/~jab/cv/copy.award.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Justin Boyan | LinkedIn](https://www.linkedin.com/in/boyan/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Justin A. Boyan (**1992**). *Modular Neural Networks for Learning Context-Dependent Game Strategies*. Master's thesis, [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge), [pdf](http://www.cs.cmu.edu/~jab/cv/pubs/boyan.backgammon-thesis.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Justin Boyan - The Mathematics Genealogy Project](http://www.genealogy.ams.org/id.php?id=50253)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Justin A. Boyan (**1998**). *Learning Evaluation Functions for Global Optimization*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), advisors [Scott Fahlman](Mathematician#SFahlman "Mathematician") and [Andrew W. Moore](Mathematician#AWMoore "Mathematician")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Curriculum Vitae - Justin Andrew Boyan](http://www.cs.cmu.edu/~jab/cv/cv100.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Justin A. Boyan](http://dblp.uni-trier.de/pers/hd/b/Boyan:Justin_A=)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Curriculum Vitae - Justin Andrew Boyan](http://www.cs.cmu.edu/~jab/cv/cv100.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICML-99 Best Paper Award](http://www.cs.cmu.edu/~jab/cv/copy.award.html)
 
 **[Up one level](People "People")**
 

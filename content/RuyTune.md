@@ -40,12 +40,12 @@ an open source framework for tuning [evaluation function](Evaluation "Evaluation
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [tanh(0.43s) , s=-10 to 10](http://www.wolframalpha.com/input/?i=tanh(0.43s)+,+s%3D-10+to+10) pawnunit plot by [Wolfram Alpha](https://en.wikipedia.org/wiki/Wolfram_Alpha)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [alonamaloh / ruy\_tune — Bitbucket](https://web.archive.org/web/20180820050927/https://bitbucket.org/alonamaloh/ruy_tune) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [C++ code for tuning evaluation function parameters](http://www.talkchess.com/forum/viewtopic.php?t=62056) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), November 10, 2016
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [libLBFGS: L-BFGS library written in C](http://www.chokkan.org/software/liblbfgs/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [A database for learning evaluation functions](http://www.talkchess.com/forum/viewtopic.php?t=61861) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), October 28, 2016
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Texel tuning method question](http://www.talkchess.com/forum/viewtopic.php?t=64189&start=36) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), June 07, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [tanh(0.43s) , s=-10 to 10](http://www.wolframalpha.com/input/?i=tanh(0.43s)+,+s%3D-10+to+10) pawnunit plot by [Wolfram Alpha](https://en.wikipedia.org/wiki/Wolfram_Alpha)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [alonamaloh / ruy\_tune — Bitbucket](https://web.archive.org/web/20180820050927/https://bitbucket.org/alonamaloh/ruy_tune) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [C++ code for tuning evaluation function parameters](http://www.talkchess.com/forum/viewtopic.php?t=62056) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), November 10, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [libLBFGS: L-BFGS library written in C](http://www.chokkan.org/software/liblbfgs/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [A database for learning evaluation functions](http://www.talkchess.com/forum/viewtopic.php?t=61861) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), October 28, 2016
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Texel tuning method question](http://www.talkchess.com/forum/viewtopic.php?t=64189&start=36) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), June 07, 2017
 
 **[Up one Level](Automated_Tuning "Automated Tuning")**
 

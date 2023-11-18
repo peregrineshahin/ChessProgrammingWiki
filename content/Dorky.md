@@ -141,12 +141,12 @@ Kd5 57.Ke7 Ke4 58.Ke6 Ke3 59.g4 Kf3 60.f5 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Image](<https://commons.wikimedia.org/wiki/File:Dork_(4385707475).jpg>) by [Quinn Dombrowski](https://www.flickr.com/people/53326337@N00) from [Berkeley](https://en.wikipedia.org/wiki/Berkeley,_California), USA, February 24, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dorky](https://web.archive.org/web/20120513030524/http://wbec-ridderkerk.nl/html/details1/Dorky.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dorky 4.0 released](http://www.talkchess.com/forum/viewtopic.php?t=39116) by [Matt McKnight](Matt_McKnight "Matt McKnight"), [CCC](CCC "CCC"), May 19, 2011
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dorky Chess Download](http://home.insightbb.com/~mmcknight/), Dorky4.3-win-x86.zip / Dorky Chess 4.3 pdf
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CCT2 - PGN download](http://www.vrichey.de/cct2/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CCT6 - PGN download](http://www.vrichey.de/cct6/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](<https://commons.wikimedia.org/wiki/File:Dork_(4385707475).jpg>) by [Quinn Dombrowski](https://www.flickr.com/people/53326337@N00) from [Berkeley](https://en.wikipedia.org/wiki/Berkeley,_California), USA, February 24, 2010, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dorky](https://web.archive.org/web/20120513030524/http://wbec-ridderkerk.nl/html/details1/Dorky.html) from [WBEC Ridderkerk](WBEC "WBEC") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dorky 4.0 released](http://www.talkchess.com/forum/viewtopic.php?t=39116) by [Matt McKnight](Matt_McKnight "Matt McKnight"), [CCC](CCC "CCC"), May 19, 2011
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dorky Chess Download](http://home.insightbb.com/~mmcknight/), Dorky4.3-win-x86.zip / Dorky Chess 4.3 pdf
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CCT2 - PGN download](http://www.vrichey.de/cct2/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CCT6 - PGN download](http://www.vrichey.de/cct6/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
 
 **[Up one level](Engines "Engines")**
 

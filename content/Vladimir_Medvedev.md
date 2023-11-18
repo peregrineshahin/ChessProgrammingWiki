@@ -50,14 +50,14 @@ Vladimir further published [machine learning](Learning "Learning") related artic
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GreKo chess engine](https://groups.google.com/d/msg/rec.games.chess.computer/yHBbFa1GcSo/nkiYjGAo30sJ) by Vladimir R. Medvedev, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 01, 2002
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [hashing function](https://groups.google.com/d/msg/rec.games.chess.computer/5w73imoX8iU/oZhBonZLQUIJ) by Vladimir R. Medvedev, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 17, 2000
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: GreKo 12.0 2002-2014 12 years development, Congrats!](http://www.talkchess.com/forum/viewtopic.php?t=51837&start=5) by Vladimir Medvedev, [CCC](CCC "CCC"), April 03, 2014
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GreKo - Download](http://sites.google.com/site/grekochess/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [M-20 Computer](http://www.computer-museum.ru/english/m20.htm) from [Russian Virtual Computer Museum](Russian_Virtual_Computer_Museum "Russian Virtual Computer Museum")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Определяем веса шахматных фигур регрессионным анализом / Хабрахабр](https://habrahabr.ru/post/254753/) by Vladimir Medvedev, [Habrahabr](https://en.wikipedia.org/wiki/Habrahabr), April 27, 2015( Russian) » [Point Value by Regression Analysis](Point_Value_by_Regression_Analysis "Point Value by Regression Analysis")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Самообучение шахматной программы / Хабрахабр](https://habrahabr.ru/post/305604/) by Vladimir Medvedev, [Habrahabr](https://en.wikipedia.org/wiki/Habrahabr), July 21, 2016 (Russian) » [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [New site for GreKo](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=53335) by Vladimir Medvedev, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 14, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GreKo chess engine](https://groups.google.com/d/msg/rec.games.chess.computer/yHBbFa1GcSo/nkiYjGAo30sJ) by Vladimir R. Medvedev, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 01, 2002
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [hashing function](https://groups.google.com/d/msg/rec.games.chess.computer/5w73imoX8iU/oZhBonZLQUIJ) by Vladimir R. Medvedev, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 17, 2000
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: GreKo 12.0 2002-2014 12 years development, Congrats!](http://www.talkchess.com/forum/viewtopic.php?t=51837&start=5) by Vladimir Medvedev, [CCC](CCC "CCC"), April 03, 2014
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GreKo - Download](http://sites.google.com/site/grekochess/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [M-20 Computer](http://www.computer-museum.ru/english/m20.htm) from [Russian Virtual Computer Museum](Russian_Virtual_Computer_Museum "Russian Virtual Computer Museum")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Определяем веса шахматных фигур регрессионным анализом / Хабрахабр](https://habrahabr.ru/post/254753/) by Vladimir Medvedev, [Habrahabr](https://en.wikipedia.org/wiki/Habrahabr), April 27, 2015( Russian) » [Point Value by Regression Analysis](Point_Value_by_Regression_Analysis "Point Value by Regression Analysis")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Самообучение шахматной программы / Хабрахабр](https://habrahabr.ru/post/305604/) by Vladimir Medvedev, [Habrahabr](https://en.wikipedia.org/wiki/Habrahabr), July 21, 2016 (Russian) » [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [New site for GreKo](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=53335) by Vladimir Medvedev, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 14, 2015
 
 **[Up one level](People "People")**
 

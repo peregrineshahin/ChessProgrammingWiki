@@ -21,10 +21,10 @@ a Hungarian software developer and computer chess programmer. He started chess p
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [MASPV 2009](http://titanic.nyme.hu/%7Ewyx/maspv2009/images/index.html) hosted by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai") 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Not to confused with the Hungarian chess grandmaster [Péter Horváth](https://hu.wikipedia.org/wiki/Horv%C3%A1th_P%C3%A9ter_(sakkoz%C3%B3))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MASPV 2001](http://titanic.nyme.hu/~wyx/maspv2001/indexeng.htm) hosted by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MASPV 2007](http://titanic.nyme.hu/~wyx/maspv2007/) hosted by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [MASPV 2009](http://titanic.nyme.hu/%7Ewyx/maspv2009/images/index.html) hosted by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai") 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Not to confused with the Hungarian chess grandmaster [Péter Horváth](https://hu.wikipedia.org/wiki/Horv%C3%A1th_P%C3%A9ter_(sakkoz%C3%B3))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MASPV 2001](http://titanic.nyme.hu/~wyx/maspv2001/indexeng.htm) hosted by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MASPV 2007](http://titanic.nyme.hu/~wyx/maspv2007/) hosted by [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai")
 
 **[Up one level](People "People")**
 

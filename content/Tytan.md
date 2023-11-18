@@ -64,9 +64,9 @@ Tytan played most [Polish Computer Chess Championships](Polish_Computer_Chess_Ch
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rhea](https://en.wikipedia.org/wiki/Rhea_%28mythology%29), a Titan daughter of the earth goddess [Gaia](https://en.wikipedia.org/wiki/Gaia_%28mythology%29), was both sister and wife to [Cronus'](https://en.wikipedia.org/wiki/Cronus). This image comes from the 4th edition of [Meyers Konversationslexikon](https://en.wikipedia.org/wiki/Meyers_Konversations-Lexikon) (1885–90), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Titan (mythology) from Wikipedia](https://en.wikipedia.org/wiki/Titan_%28mythology%29) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tytan Chess](http://tytanchess.republika.pl) (expired link)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [II Mistrzostwa Polski Programów Szachowych](http://mpps.maciej.szmit.info/mpps-2/)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rhea](https://en.wikipedia.org/wiki/Rhea_%28mythology%29), a Titan daughter of the earth goddess [Gaia](https://en.wikipedia.org/wiki/Gaia_%28mythology%29), was both sister and wife to [Cronus'](https://en.wikipedia.org/wiki/Cronus). This image comes from the 4th edition of [Meyers Konversationslexikon](https://en.wikipedia.org/wiki/Meyers_Konversations-Lexikon) (1885–90), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Titan (mythology) from Wikipedia](https://en.wikipedia.org/wiki/Titan_%28mythology%29) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tytan Chess](http://tytanchess.republika.pl) (expired link)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [II Mistrzostwa Polski Programów Szachowych](http://mpps.maciej.szmit.info/mpps-2/)
 
 **[Up one Level](Engines "Engines")**
 

@@ -26,8 +26,8 @@ a commercial chess program developed by [Chris Whittington](Chris_Whittington "C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Atari ST Falcon Chess Simulator](http://www.atarimania.com/game-atari-st-chess-simulator_8912.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Oldie-Artikel 4](http://thorstenczub.de/oldie4.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Atari ST Falcon Chess Simulator](http://www.atarimania.com/game-atari-st-chess-simulator_8912.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Oldie-Artikel 4](http://thorstenczub.de/oldie4.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
 
 **[Up one Level](Engines "Engines")**
 

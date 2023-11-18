@@ -124,7 +124,7 @@ Using aspiration windows together with the [principal variation search](Principa
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gerhard Hoehme](Category:Gerhard_Hoehme "Category:Gerhard Hoehme") - The Non-Euclidean Window (1964), mixed technique / wood on canvas, [Art Museum](Category:Art_Museum_Bochum "Category:Art Museum Bochum"), [Bochum](https://en.wikipedia.org/wiki/Bochum), [North Rhine-Westphalia](https://en.wikipedia.org/wiki/North_Rhine-Westphalia), [Germany](https://en.wikipedia.org/wiki/Germany), Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), October 30, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gerhard Hoehme](Category:Gerhard_Hoehme "Category:Gerhard Hoehme") - The Non-Euclidean Window (1964), mixed technique / wood on canvas, [Art Museum](Category:Art_Museum_Bochum "Category:Art Museum Bochum"), [Bochum](https://en.wikipedia.org/wiki/Bochum), [North Rhine-Westphalia](https://en.wikipedia.org/wiki/North_Rhine-Westphalia), [Germany](https://en.wikipedia.org/wiki/Germany), Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), October 30, 2016
 
 **[Up one level](Alpha-Beta "Alpha-Beta")**
 

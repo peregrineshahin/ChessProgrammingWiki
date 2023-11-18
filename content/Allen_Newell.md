@@ -83,16 +83,16 @@ Chess programs catch some of the human chess playing abilities but rely on the l
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Allen Newell Collection](http://diva.library.cmu.edu/Newell/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Allen Newell (**1955**). *The Chess Machine: An Example of Dealing with a Complex Task by Adaptation*. Proceedings Western Joint Computer Conference, pp. 101-108.
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Allen Newell, [Cliff Shaw](Cliff_Shaw "Cliff Shaw"), [Herbert Simon](Herbert_Simon "Herbert Simon") (**1958**). *Chess Playing Programs and the Problem of Complexity*. IBM Journal of Research and Development, Vol. 4, No. 2, pp. 320-335. Reprinted (1963) in [Computers and Thought](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=6685) (eds. [Edward A. Feigenbaum](Edward_Feigenbaum "Edward Feigenbaum") and [Julian Feldman](Mathematician#JulianFeldman "Mathematician")), pp. 39-70. McGraw-Hill, New York, N.Y., [pdf](http://www.research.ibm.com/journal/rd/024/ibmrd0204I.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [John McCarthy Human-Level AI is harder than it seemed in 1955](http://www-formal.stanford.edu/jmc/slides/wrong/wrong-sli/wrong-sli.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Aritificial Intelligence pioneers Allen Newell (right) and Herbert Simon 1958](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a07cf7a1) Courtesy of [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Allen Newell](http://www.informatik.uni-trier.de/~ley/pers/hy/n/Newell:Allen.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [General Problem Solver from Wikipedia](https://en.wikipedia.org/wiki/General_Problem_Solver)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Information Processing Language - Wikipedia](https://en.wikipedia.org/wiki/Information_Processing_Language)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Physical symbol system from Wikipedia](https://en.wikipedia.org/wiki/Physical_symbol_system)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Allen Newell Collection](http://diva.library.cmu.edu/Newell/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Allen Newell (**1955**). *The Chess Machine: An Example of Dealing with a Complex Task by Adaptation*. Proceedings Western Joint Computer Conference, pp. 101-108.
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Allen Newell, [Cliff Shaw](Cliff_Shaw "Cliff Shaw"), [Herbert Simon](Herbert_Simon "Herbert Simon") (**1958**). *Chess Playing Programs and the Problem of Complexity*. IBM Journal of Research and Development, Vol. 4, No. 2, pp. 320-335. Reprinted (1963) in [Computers and Thought](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=6685) (eds. [Edward A. Feigenbaum](Edward_Feigenbaum "Edward Feigenbaum") and [Julian Feldman](Mathematician#JulianFeldman "Mathematician")), pp. 39-70. McGraw-Hill, New York, N.Y., [pdf](http://www.research.ibm.com/journal/rd/024/ibmrd0204I.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [John McCarthy Human-Level AI is harder than it seemed in 1955](http://www-formal.stanford.edu/jmc/slides/wrong/wrong-sli/wrong-sli.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Aritificial Intelligence pioneers Allen Newell (right) and Herbert Simon 1958](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a07cf7a1) Courtesy of [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Allen Newell](http://www.informatik.uni-trier.de/~ley/pers/hy/n/Newell:Allen.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [General Problem Solver from Wikipedia](https://en.wikipedia.org/wiki/General_Problem_Solver)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Information Processing Language - Wikipedia](https://en.wikipedia.org/wiki/Information_Processing_Language)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Physical symbol system from Wikipedia](https://en.wikipedia.org/wiki/Physical_symbol_system)
 
 **[Up one level](People "People")**
 

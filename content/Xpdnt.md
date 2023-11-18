@@ -114,9 +114,9 @@ the last recent update appeared in October 2009 <a id="cite-note-2" href="#cite-
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Beta Testers needed](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4664&p=24174) by [David B. Weller](David_B._Weller "David B. Weller"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 16, 2006
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Gaviota Saga](http://www.talkchess.com/forum/viewtopic.php?t=30539) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), November 09, 2009
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> based on the sources
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Beta Testers needed](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4664&p=24174) by [David B. Weller](David_B._Weller "David B. Weller"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 16, 2006
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Gaviota Saga](http://www.talkchess.com/forum/viewtopic.php?t=30539) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), November 09, 2009
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> based on the sources
 
 **[Up one Level](Engines "Engines")**
 

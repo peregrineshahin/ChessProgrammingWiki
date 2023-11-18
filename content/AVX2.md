@@ -253,8 +253,8 @@ int getPiece (__m256i qbb, U64 sq) {
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> \_m256i [\_mm256_permute4x64_epi64](https://software.intel.com/en-us/node/683670)(\_m256i val, const int control)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [sse-popcount/popcnt-avx512-harley-seal.cpp at master · WojciechMula/sse-popcount · GitHub](https://github.com/WojciechMula/sse-popcount/blob/master/popcnt-avx512-harley-seal.cpp)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> \_m256i [\_mm256_permute4x64_epi64](https://software.intel.com/en-us/node/683670)(\_m256i val, const int control)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [sse-popcount/popcnt-avx512-harley-seal.cpp at master · WojciechMula/sse-popcount · GitHub](https://github.com/WojciechMula/sse-popcount/blob/master/popcnt-avx512-harley-seal.cpp)
 
 **[Up one Level](X86 "X86")**
 

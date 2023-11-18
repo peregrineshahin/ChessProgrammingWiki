@@ -68,11 +68,11 @@ an [UCI](UCI "UCI") compliant chess engine by [Folkert van Heusden](Folkert_van_
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ask und Embla](https://en.wikipedia.org/wiki/Ask_and_Embla) - The First Human Beings, [Odin](https://en.wikipedia.org/wiki/Odin) in the background, [Stamp FO 430](https://commons.wikimedia.org/wiki/Anker_Eli_Petersen#2003) by [Postverk Føroya](https://en.wikipedia.org/wiki/Posta_%28company%29) after a motiv of [Anker Eli Petersen](https://en.wikipedia.org/wiki/Anker_Eli_Petersen), 2003. [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Ask und Embla - Wikipedia.de](https://de.wikipedia.org/wiki/Ask_und_Embla) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Embla](http://www.talkchess.com/forum/viewtopic.php?t=57391) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), August 26, 2015
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [chess computer board](http://www.talkchess.com/forum/viewtopic.php?t=59977) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), April 27, 2016
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Image courtesy [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), June 01, 2017
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess programs :: Source available, but not today?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75904) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), November 23, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ask und Embla](https://en.wikipedia.org/wiki/Ask_and_Embla) - The First Human Beings, [Odin](https://en.wikipedia.org/wiki/Odin) in the background, [Stamp FO 430](https://commons.wikimedia.org/wiki/Anker_Eli_Petersen#2003) by [Postverk Føroya](https://en.wikipedia.org/wiki/Posta_%28company%29) after a motiv of [Anker Eli Petersen](https://en.wikipedia.org/wiki/Anker_Eli_Petersen), 2003. [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Ask und Embla - Wikipedia.de](https://de.wikipedia.org/wiki/Ask_und_Embla) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Embla](http://www.talkchess.com/forum/viewtopic.php?t=57391) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), August 26, 2015
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [chess computer board](http://www.talkchess.com/forum/viewtopic.php?t=59977) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), April 27, 2016
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Image courtesy [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), June 01, 2017
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess programs :: Source available, but not today?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75904) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), November 23, 2020
 
 **[Up one Level](Engines "Engines")**
 

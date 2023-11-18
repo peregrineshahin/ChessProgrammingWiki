@@ -39,10 +39,10 @@ He created a [physical module](https://en.wikipedia.org/wiki/Physics_engine) bas
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [François Karr | LinkedIn](https://www.linkedin.com/in/fran%C3%A7ois-karr-b612612/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Babylon Software](https://www.mobygames.com/company/babylon-software) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [François Karr](https://www.mobygames.com/developer/sheet/view/developerId,168128/) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [RPM Tuning from Wikipedia](https://en.wikipedia.org/wiki/RPM_Tuning)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [François Karr | LinkedIn](https://www.linkedin.com/in/fran%C3%A7ois-karr-b612612/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Babylon Software](https://www.mobygames.com/company/babylon-software) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [François Karr](https://www.mobygames.com/developer/sheet/view/developerId,168128/) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [RPM Tuning from Wikipedia](https://en.wikipedia.org/wiki/RPM_Tuning)
 
 **[Up one level](People "People")**
 

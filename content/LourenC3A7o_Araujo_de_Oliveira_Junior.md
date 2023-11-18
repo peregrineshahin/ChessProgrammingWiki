@@ -34,8 +34,8 @@ As a computer chess programmer, Lourenço is author of [Capivara](Capivara "Capi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lourenco A Oliveira Jr - LinkedIn](https://www.linkedin.com/in/lourenco-a-oliveira-jr-11097535)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jaguatirica Chess Cluster - Phase I - 7 Nodes - 30 Photos](http://www.talkchess.com/forum/viewtopic.php?t=51927) by Lourenço Araujo de Oliveira Junior, [CCC](CCC "CCC"), April 10, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lourenco A Oliveira Jr - LinkedIn](https://www.linkedin.com/in/lourenco-a-oliveira-jr-11097535)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaguatirica Chess Cluster - Phase I - 7 Nodes - 30 Photos](http://www.talkchess.com/forum/viewtopic.php?t=51927) by Lourenço Araujo de Oliveira Junior, [CCC](CCC "CCC"), April 10, 2014
 
 **[Up one level](People "People")**
 

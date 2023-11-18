@@ -141,12 +141,12 @@ The original version of the lyrics played by [Konstantin Sokolsky](https://en.wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Силуэт сидящей кошки Мурки, [Sitting cat Murka’s silhouette](http://commons.wikimedia.org/wiki/File:Cat_Murka_silhouette.svg) by [AVRS](http://commons.wikimedia.org/wiki/User:AVRS), January 2007
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Мурка / Murka by [Wildcat](Igor_Korshunov "Igor Korshunov"), [immortalchess](Computer_Chess_Forums "Computer Chess Forums"), May 31, 2010 (Russian, no longer available)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Murka 3.0 released](http://www.talkchess.com/forum/viewtopic.php?t=48673) by Günther Höhne, [CCC](CCC "CCC"), July 17, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Re: Мурка / Murka # 852 by [Wildcat](Igor_Korshunov "Igor Korshunov"), [immortalchess](Computer_Chess_Forums "Computer Chess Forums"), December 11, 2011 (Russian, no longer available)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Description based on Murka\_3.rar/Murka\_3/description\_eng.txt
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Мурка (значения, disambiguation) — Википедия](http://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%BA%D0%B0_%28%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%29) (Russian)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Силуэт сидящей кошки Мурки, [Sitting cat Murka’s silhouette](http://commons.wikimedia.org/wiki/File:Cat_Murka_silhouette.svg) by [AVRS](http://commons.wikimedia.org/wiki/User:AVRS), January 2007
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Мурка / Murka by [Wildcat](Igor_Korshunov "Igor Korshunov"), [immortalchess](Computer_Chess_Forums "Computer Chess Forums"), May 31, 2010 (Russian, no longer available)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Murka 3.0 released](http://www.talkchess.com/forum/viewtopic.php?t=48673) by Günther Höhne, [CCC](CCC "CCC"), July 17, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Re: Мурка / Murka # 852 by [Wildcat](Igor_Korshunov "Igor Korshunov"), [immortalchess](Computer_Chess_Forums "Computer Chess Forums"), December 11, 2011 (Russian, no longer available)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Description based on Murka\_3.rar/Murka\_3/description\_eng.txt
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Мурка (значения, disambiguation) — Википедия](http://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%BA%D0%B0_%28%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%29) (Russian)
 
 **[Up one Level](Engines "Engines")**
 

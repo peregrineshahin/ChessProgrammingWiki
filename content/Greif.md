@@ -36,11 +36,11 @@ Greif was recognized as a [clone](Category:Clone "Category:Clone") of [Chrilly D
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Martin Schongauer](https://de.wikipedia.org/wiki/Martin_Schongauer) - [The Griffin](<https://commons.wikimedia.org/wiki/File:Martin_Schongauer,_The_griffin_(15th_century).jpg>) (15th century), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Rybka - How much Fruit is inside ?](https://www.stmintz.com/ccc/index.php?id=469166) by [Daniel Mehrmann](Daniel_Mehrmann "Daniel Mehrmann"), [CCC](CCC "CCC"), December 11, 2005
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Greif's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=210)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Clone Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:clone_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [3-Hirn History: Winning a lost position against another computer](https://groups.google.com/g/rec.games.chess.computer/c/SScOfE-tKSk/m/TWGpymfjGeQJ) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 20, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Martin Schongauer](https://de.wikipedia.org/wiki/Martin_Schongauer) - [The Griffin](<https://commons.wikimedia.org/wiki/File:Martin_Schongauer,_The_griffin_(15th_century).jpg>) (15th century), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Rybka - How much Fruit is inside ?](https://www.stmintz.com/ccc/index.php?id=469166) by [Daniel Mehrmann](Daniel_Mehrmann "Daniel Mehrmann"), [CCC](CCC "CCC"), December 11, 2005
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Greif's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=210)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Clone Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:clone_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [3-Hirn History: Winning a lost position against another computer](https://groups.google.com/g/rec.games.chess.computer/c/SScOfE-tKSk/m/TWGpymfjGeQJ) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 20, 1997
 
 **[Up one level](Engines "Engines")**
 

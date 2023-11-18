@@ -84,9 +84,9 @@ b3 63.Rf3 Rc2+ 64.Kg3 b2 65.Rb3 Bb7 66.Bf5 Rg2+ 67.Kh3 Bd5 68.Rb5 Rf2 69.Bb1 Kc6
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lampyris noctiluca](https://en.wikipedia.org/wiki/Lampyris_noctiluca), female, June 2005, Germany, [Lampyris noctiluca - Wikimedia Commons](https://commons.wikimedia.org/wiki/Lampyris_noctiluca)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [32-bit Magic experiments](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50616&p=192200) by [Andrew Fan](Andrew_Fan "Andrew Fan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 03, 2009
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [TCEC - Archive Mode - Season 5 - Stage 1 - Round 5.15](https://www.tcec-chess.com/archive.html?season=5&stage=1&game=76)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lampyris noctiluca](https://en.wikipedia.org/wiki/Lampyris_noctiluca), female, June 2005, Germany, [Lampyris noctiluca - Wikimedia Commons](https://commons.wikimedia.org/wiki/Lampyris_noctiluca)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [32-bit Magic experiments](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50616&p=192200) by [Andrew Fan](Andrew_Fan "Andrew Fan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 03, 2009
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [TCEC - Archive Mode - Season 5 - Stage 1 - Round 5.15](https://www.tcec-chess.com/archive.html?season=5&stage=1&game=76)
 
 **[Up one Level](Engines "Engines")**
 

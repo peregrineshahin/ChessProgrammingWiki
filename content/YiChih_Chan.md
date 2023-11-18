@@ -30,8 +30,8 @@ a Taiwanese computer scientist at Department of Computer Science and [Informatio
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin"), [Ping-Hung Lin](Ping-Hung_Lin "Ping-Hung Lin"), [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), Yi-Chih Chan, [Bo-Ting Chen](index.php?title=Bo-Ting_Chen&action=edit&redlink=1 "Bo-Ting Chen (page does not exist)") (**2010**). *[Job-Level Proof-Number Search for Connect6](http://link.springer.com/chapter/10.1007/978-3-642-17928-0_2)*. [CG 2010](CG_2010 "CG 2010")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Yi-Chih Chan](http://www.informatik.uni-trier.de/~ley/pers/hd/c/Chan:Yi=Chih)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin"), [Ping-Hung Lin](Ping-Hung_Lin "Ping-Hung Lin"), [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), Yi-Chih Chan, [Bo-Ting Chen](index.php?title=Bo-Ting_Chen&action=edit&redlink=1 "Bo-Ting Chen (page does not exist)") (**2010**). *[Job-Level Proof-Number Search for Connect6](http://link.springer.com/chapter/10.1007/978-3-642-17928-0_2)*. [CG 2010](CG_2010 "CG 2010")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Yi-Chih Chan](http://www.informatik.uni-trier.de/~ley/pers/hd/c/Chan:Yi=Chih)
 
 **[Up one Level](People "People")**
 

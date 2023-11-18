@@ -182,13 +182,13 @@ title: XBoard
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Isa Genzken](Category:Isa_Genzken "Category:Isa Genzken") - X (1994), [Arnulfstraße](https://en.wikipedia.org/wiki/Arnulfstra%C3%9Fe), [Munich](https://en.wikipedia.org/wiki/Munich), Photo by [Rufus46](https://commons.wikimedia.org/wiki/User:Rufus46), December 19, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [xboard v1.2](http://groups.google.com/group/gnu.chess/browse_frm/thread/28d5826a078d091d) by [Dan Sears](index.php?title=Dan_Sears&action=edit&redlink=1 "Dan Sears (page does not exist)"), [gnu.chess](GNU_Chess#NewsGroup "GNU Chess"), June 14, 1991
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Engine Communication Protocol - 4. How it got this way](http://home.hccnet.nl/h.g.muller/engine-intf.html#4)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [XBoard Project History](http://tim-mann.org/history.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [OSX Xboard 4.7.2 .app](http://www.talkchess.com/forum/viewtopic.php?t=49729) by [Joshua Pettus](index.php?title=Joshua_Pettus&action=edit&redlink=1 "Joshua Pettus (page does not exist)"), [CCC](CCC "CCC"), October 16, 2013
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [XBoard native Mac App](http://hiarcs.net/forums/viewtopic.php?t=6492) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 18, 2013
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [[1]](https://www.gnu.org/software/xboard/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Isa Genzken](Category:Isa_Genzken "Category:Isa Genzken") - X (1994), [Arnulfstraße](https://en.wikipedia.org/wiki/Arnulfstra%C3%9Fe), [Munich](https://en.wikipedia.org/wiki/Munich), Photo by [Rufus46](https://commons.wikimedia.org/wiki/User:Rufus46), December 19, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [xboard v1.2](http://groups.google.com/group/gnu.chess/browse_frm/thread/28d5826a078d091d) by [Dan Sears](index.php?title=Dan_Sears&action=edit&redlink=1 "Dan Sears (page does not exist)"), [gnu.chess](GNU_Chess#NewsGroup "GNU Chess"), June 14, 1991
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Engine Communication Protocol - 4. How it got this way](http://home.hccnet.nl/h.g.muller/engine-intf.html#4)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [XBoard Project History](http://tim-mann.org/history.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [OSX Xboard 4.7.2 .app](http://www.talkchess.com/forum/viewtopic.php?t=49729) by [Joshua Pettus](index.php?title=Joshua_Pettus&action=edit&redlink=1 "Joshua Pettus (page does not exist)"), [CCC](CCC "CCC"), October 16, 2013
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [XBoard native Mac App](http://hiarcs.net/forums/viewtopic.php?t=6492) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 18, 2013
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [[1]](https://www.gnu.org/software/xboard/)
 
 **[Up one Level](GUI "GUI")**
 

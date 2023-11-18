@@ -90,9 +90,9 @@ Nb3 45.Bb6 Nd2 46.Bxc6 h4 47.Kg2 Nc4 48.Bf2 Ne5 49.Be4 h3+ 50.Kg3 Nc4 51.Bd4 Nd6
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [VMFAT-501](https://en.wikipedia.org/wiki/VMFAT-501) (Known as the "Warlords") unit insignia [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Home of the Warlord](http://www.vrichey.de/warlord/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CCT4 - PGN download](http://www.vrichey.de/cct4/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [VMFAT-501](https://en.wikipedia.org/wiki/VMFAT-501) (Known as the "Warlords") unit insignia [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Home of the Warlord](http://www.vrichey.de/warlord/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CCT4 - PGN download](http://www.vrichey.de/cct4/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
 
 **[Up one Level](Engines "Engines")**
 

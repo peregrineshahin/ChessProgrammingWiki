@@ -57,11 +57,11 @@ Jazz supports both, the [Universal Chess Interface](UCI "UCI") and [Chess Engine
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jazz (word) from Wikipedia](https://en.wikipedia.org/wiki/Jazz_%28word%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess engine Jazz now available](http://www.talkchess.com/forum/viewtopic.php?t=38176) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), February 22, 2011
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess (Jazz & Sjaak) design](http://www.eglebbk.dds.nl/program/chess-design.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess (Jazz & Sjaak) search](http://www.eglebbk.dds.nl/program/chess-search.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Implementation of multithreaded search in Jazz](http://www.talkchess.com/forum/viewtopic.php?t=47820) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), April 20, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jazz (word) from Wikipedia](https://en.wikipedia.org/wiki/Jazz_%28word%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess engine Jazz now available](http://www.talkchess.com/forum/viewtopic.php?t=38176) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), February 22, 2011
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess (Jazz & Sjaak) design](http://www.eglebbk.dds.nl/program/chess-design.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess (Jazz & Sjaak) search](http://www.eglebbk.dds.nl/program/chess-search.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Implementation of multithreaded search in Jazz](http://www.talkchess.com/forum/viewtopic.php?t=47820) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), April 20, 2013
 
 **[Up one Level](Engines "Engines")**
 

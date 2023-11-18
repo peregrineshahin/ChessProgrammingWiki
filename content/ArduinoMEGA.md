@@ -163,32 +163,32 @@ CHESSuino = Chess + Arduino, [YouTube](https://en.wikipedia.org/wiki/YouTube) Vi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image by [David Mellis](http://www.flickr.com/people/36749491@N00), July 12, 2010, hosted at [Flickr](https://en.wikipedia.org/wiki/Flickr), [Arduino from Wikipedia](https://en.wikipedia.org/wiki/Arduino)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Arduino from Wikipedia](https://en.wikipedia.org/wiki/Arduino)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Arduino - Getting Started](http://arduino.cc/en/Guide/HomePage)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Arduino - Products](http://arduino.cc/en/Main/Products)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Arduino from Wikipedia](https://en.wikipedia.org/wiki/Arduino)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Atmel - ATmega1280](http://www.atmel.com/devices/atmega1280.aspx)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Arduino Mega 2560 Rev3](https://store.arduino.cc/arduino-mega-2560-rev3)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ATmega2560 - 8-bit AVR Microcontrollers](http://www.microchip.com/wwwproducts/en/atmega2560)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Arduino - Reference](http://arduino.cc/en/Reference/HomePage)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Arduino - FAQ](http://arduino.cc/en/Main/FAQ)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Arduino & Raspberry PI Chess Computer](http://www.chess.fortherapy.co.uk/)  running [Stockfish](Stockfish "Stockfish") on [Raspberry Pi](Raspberry_Pi "Raspberry Pi"), by [Max Dobres](index.php?title=Max_Dobres&action=edit&redlink=1 "Max Dobres (page does not exist)")
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Self-made Chess Computer SHAH](http://www.andreadrian.de/schach/#Selbstbau_Schachcomputer_SHAH) based on an [Atmel](https://en.wikipedia.org/wiki/Atmel)-[ATmega88](https://en.wikipedia.org/wiki/ATmega88) [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller) and Micro-Max-port by [Andre Adrian](Andre_Adrian "Andre Adrian") (German)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [ATM18 Mini Chess Computer](http://www.elektor.com/magazines/2009/september/atm18-mini-chess-computer.1041342.lynkx) from [ELEKTOR.com – Platform for electronics and microcontrollers](http://www.elektor.com/elektor-uk.35.lynkx)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Nanochess auf avr](http://www.mikrocontroller.net/topic/208206) by Sam, [Mikrocontroller.net GCC Forum](http://www.mikrocontroller.net/forum/gcc), February 11, 2011 (German)
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [ELECTRONIC ASSEMBLY : LCD DOG series, flexibe, flat and colorful](http://www.lcd-module.com/products/dog.html)
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [little_rook_chess · olikraus/u8glib Wiki · GitHub](https://github.com/olikraus/u8glib/wiki/little_rook_chess)
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [u8glib/license.txt at master · olikraus/u8glib · GitHub](https://github.com/olikraus/u8glib/blob/master/license.txt)
-1. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Obsolescence Guaranteed Home](http://obsolescence.wix.com/obsolescence)
-1. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [6502 Microchess on an Arduino](http://obsolescenceguaranteed.blogspot.ch/2014/06/6502-microchess-on-arduino.html)
-1. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [KIM Uno](http://obsolescence.wix.com/obsolescence#!kim-uno-summary/chcm)
-1. <a id="cite-ref-21" href="#cite-note-21">[21]</a> [Myopic, a new Creative Commons chess program](http://www.talkchess.com/forum/viewtopic.php?t=34445) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), May 22, 2010
-1. <a id="cite-ref-22" href="#cite-note-22">[22]</a> [Arduino Blog » Square Off is a chess board with a high-tech twist](https://blog.arduino.cc/2016/10/17/square-off-is-a-chess-board-with-a-high-tech-twist/), October 17, 2016
-1. <a id="cite-ref-23" href="#cite-note-23">[23]</a> [Electronic Chess Board: Arduino Source-Code](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76561) by [Dominik Klein](Dominik_Klein "Dominik Klein"), [CCC](CCC "CCC"), February 12, 2021
-1. <a id="cite-ref-24" href="#cite-note-24">[24]</a> [GitHub - asdfjkl/ArdEBoard: Arduino Leonardo / Pro-Micro (ATmega32U4) based electronic chess board with Reed switches](https://github.com/asdfjkl/ArdEBoard) by [Dominik Klein](Dominik_Klein "Dominik Klein")
-1. <a id="cite-ref-25" href="#cite-note-25">[25]</a> [Arduino - AnalogRead](http://arduino.cc/en/Reference/AnalogRead)
-1. <a id="cite-ref-26" href="#cite-note-26">[26]</a> [Chess Mate](https://hackaday.io/project/8705-chess-mate) • [Hackaday.io](https://en.wikipedia.org/wiki/Hackaday#Hackaday.io)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image by [David Mellis](http://www.flickr.com/people/36749491@N00), July 12, 2010, hosted at [Flickr](https://en.wikipedia.org/wiki/Flickr), [Arduino from Wikipedia](https://en.wikipedia.org/wiki/Arduino)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Arduino from Wikipedia](https://en.wikipedia.org/wiki/Arduino)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Arduino - Getting Started](http://arduino.cc/en/Guide/HomePage)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Arduino - Products](http://arduino.cc/en/Main/Products)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Arduino from Wikipedia](https://en.wikipedia.org/wiki/Arduino)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Atmel - ATmega1280](http://www.atmel.com/devices/atmega1280.aspx)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Arduino Mega 2560 Rev3](https://store.arduino.cc/arduino-mega-2560-rev3)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ATmega2560 - 8-bit AVR Microcontrollers](http://www.microchip.com/wwwproducts/en/atmega2560)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Arduino - Reference](http://arduino.cc/en/Reference/HomePage)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Arduino - FAQ](http://arduino.cc/en/Main/FAQ)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Arduino & Raspberry PI Chess Computer](http://www.chess.fortherapy.co.uk/)  running [Stockfish](Stockfish "Stockfish") on [Raspberry Pi](Raspberry_Pi "Raspberry Pi"), by [Max Dobres](index.php?title=Max_Dobres&action=edit&redlink=1 "Max Dobres (page does not exist)")
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Self-made Chess Computer SHAH](http://www.andreadrian.de/schach/#Selbstbau_Schachcomputer_SHAH) based on an [Atmel](https://en.wikipedia.org/wiki/Atmel)-[ATmega88](https://en.wikipedia.org/wiki/ATmega88) [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller) and Micro-Max-port by [Andre Adrian](Andre_Adrian "Andre Adrian") (German)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [ATM18 Mini Chess Computer](http://www.elektor.com/magazines/2009/september/atm18-mini-chess-computer.1041342.lynkx) from [ELEKTOR.com – Platform for electronics and microcontrollers](http://www.elektor.com/elektor-uk.35.lynkx)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Nanochess auf avr](http://www.mikrocontroller.net/topic/208206) by Sam, [Mikrocontroller.net GCC Forum](http://www.mikrocontroller.net/forum/gcc), February 11, 2011 (German)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [ELECTRONIC ASSEMBLY : LCD DOG series, flexibe, flat and colorful](http://www.lcd-module.com/products/dog.html)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [little_rook_chess · olikraus/u8glib Wiki · GitHub](https://github.com/olikraus/u8glib/wiki/little_rook_chess)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [u8glib/license.txt at master · olikraus/u8glib · GitHub](https://github.com/olikraus/u8glib/blob/master/license.txt)
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Obsolescence Guaranteed Home](http://obsolescence.wix.com/obsolescence)
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [6502 Microchess on an Arduino](http://obsolescenceguaranteed.blogspot.ch/2014/06/6502-microchess-on-arduino.html)
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [KIM Uno](http://obsolescence.wix.com/obsolescence#!kim-uno-summary/chcm)
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Myopic, a new Creative Commons chess program](http://www.talkchess.com/forum/viewtopic.php?t=34445) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), May 22, 2010
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Arduino Blog » Square Off is a chess board with a high-tech twist](https://blog.arduino.cc/2016/10/17/square-off-is-a-chess-board-with-a-high-tech-twist/), October 17, 2016
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Electronic Chess Board: Arduino Source-Code](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76561) by [Dominik Klein](Dominik_Klein "Dominik Klein"), [CCC](CCC "CCC"), February 12, 2021
+1. <a id="cite-ref-24" href="#cite-note-24">↑</a> [GitHub - asdfjkl/ArdEBoard: Arduino Leonardo / Pro-Micro (ATmega32U4) based electronic chess board with Reed switches](https://github.com/asdfjkl/ArdEBoard) by [Dominik Klein](Dominik_Klein "Dominik Klein")
+1. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Arduino - AnalogRead](http://arduino.cc/en/Reference/AnalogRead)
+1. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Chess Mate](https://hackaday.io/project/8705-chess-mate) • [Hackaday.io](https://en.wikipedia.org/wiki/Hackaday#Hackaday.io)
 
 **[Up one Level](Hardware "Hardware")**
 

@@ -37,8 +37,8 @@ with the **B5500**, B6500, B-5700, B6700, B7700, B6800, **B7800**, and finally t
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [B5500 Emulation Project](http://retro-b5500.blogspot.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Burroughs large systems from Wikipedia](https://en.wikipedia.org/wiki/Burroughs_large_systems)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [B5500 Emulation Project](http://retro-b5500.blogspot.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Burroughs large systems from Wikipedia](https://en.wikipedia.org/wiki/Burroughs_large_systems)
 
 **[Up one Level](Hardware "Hardware")**
 

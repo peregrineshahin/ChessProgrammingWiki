@@ -65,13 +65,13 @@ Jester played various [French Computer Chess Championships](French_Computer_Ches
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Netherlandish (possibly [Jacob Cornelisz van Oostsanen](https://en.wikipedia.org/wiki/Jacob_Cornelisz_van_Oostsanen)) Laughing Fool ca. 1500 Oil on panel, [[Davis Museum at Wellesley College](https://en.wikipedia.org/wiki/Davis_Museum_at_Wellesley_College), [Jester from Wikipedia](https://en.wikipedia.org/wiki/Jester)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [LudoChess - helpware](http://www.ludochess.com/helpware/helpware.php3)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Internet chess server - ICS protocol - Wikipedia](https://en.wikipedia.org/wiki/Internet_chess_server#Protocol_and_access)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: To Stephane N B Nguyen (Jester)](https://www.stmintz.com/ccc/index.php?id=256885) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen"), [CCC](CCC "CCC"), October 07, 2002
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Fixing Jester](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=51193) by [Olivier Deville](Olivier_Deville "Olivier Deville"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 19, 2010
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Jester Chess Pages](http://web.archive.org/web/20030204061953/http://www.eiganic.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Netherlandish (possibly [Jacob Cornelisz van Oostsanen](https://en.wikipedia.org/wiki/Jacob_Cornelisz_van_Oostsanen)) Laughing Fool ca. 1500 Oil on panel, [[Davis Museum at Wellesley College](https://en.wikipedia.org/wiki/Davis_Museum_at_Wellesley_College), [Jester from Wikipedia](https://en.wikipedia.org/wiki/Jester)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [LudoChess - helpware](http://www.ludochess.com/helpware/helpware.php3)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Internet chess server - ICS protocol - Wikipedia](https://en.wikipedia.org/wiki/Internet_chess_server#Protocol_and_access)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: To Stephane N B Nguyen (Jester)](https://www.stmintz.com/ccc/index.php?id=256885) by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen"), [CCC](CCC "CCC"), October 07, 2002
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Massy, France - 5 & 6 Oct 2002 - 9ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2002/tournoi.php3)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fixing Jester](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=51193) by [Olivier Deville](Olivier_Deville "Olivier Deville"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 19, 2010
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Jester Chess Pages](http://web.archive.org/web/20030204061953/http://www.eiganic.com/)
 
 **[Up one Level](Engines "Engines")**
 

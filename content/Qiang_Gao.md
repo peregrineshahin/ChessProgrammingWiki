@@ -28,8 +28,8 @@ In particular, he researched on the computational complexity of n x n [Chinese C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from Qiang Gao, [Xinhe Xu](Xinhe_Xu "Xinhe Xu") (**2014**). *[Research on Time Complexity and Space Complexity](http://tis.hrbeu.edu.cn/oa/DArticle.aspx?type=view&id=20140502)*. CAAI Transactions on Intelligent Systems, Vol. 9, No. 5, 过刊查询 - 《智能系统学报》编辑部 (Chinese with English abstract)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Qiang Gao, [Xinhe Xu](Xinhe_Xu "Xinhe Xu") (**2015**). *Research on the Computational Complexity of n x n Chinese Chess*. [ICGA Journal, Vol. 38, No. 1](ICGA_Journal#38_1 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from Qiang Gao, [Xinhe Xu](Xinhe_Xu "Xinhe Xu") (**2014**). *[Research on Time Complexity and Space Complexity](http://tis.hrbeu.edu.cn/oa/DArticle.aspx?type=view&id=20140502)*. CAAI Transactions on Intelligent Systems, Vol. 9, No. 5, 过刊查询 - 《智能系统学报》编辑部 (Chinese with English abstract)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Qiang Gao, [Xinhe Xu](Xinhe_Xu "Xinhe Xu") (**2015**). *Research on the Computational Complexity of n x n Chinese Chess*. [ICGA Journal, Vol. 38, No. 1](ICGA_Journal#38_1 "ICGA Journal")
 
 **[Up one level](People "People")**
 

@@ -73,11 +73,11 @@ Jaime Carbonell invented multiple well-known algorithms and methods, including [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jaime Carbonell from Wikipedia](https://en.wikipedia.org/wiki/Jaime_Carbonell)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Franz Inc Customer Applications: Wisdom Technologies, Inc.](https://franz.com/success/customer_apps/optimization/wisdom.lhtml)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jaime G. Carbonell - Curriculum Vita](http://www.cs.cmu.edu/~jgc/CVs/Carbonell%20CV%202013-March.pdf) (pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jaime/Publications](http://www.cs.cmu.edu/~jgc/publications.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Jaime G. Carbonell](https://dblp.uni-trier.de/pers/hd/c/Carbonell:Jaime_G=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jaime Carbonell from Wikipedia](https://en.wikipedia.org/wiki/Jaime_Carbonell)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Franz Inc Customer Applications: Wisdom Technologies, Inc.](https://franz.com/success/customer_apps/optimization/wisdom.lhtml)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jaime G. Carbonell - Curriculum Vita](http://www.cs.cmu.edu/~jgc/CVs/Carbonell%20CV%202013-March.pdf) (pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jaime/Publications](http://www.cs.cmu.edu/~jgc/publications.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Jaime G. Carbonell](https://dblp.uni-trier.de/pers/hd/c/Carbonell:Jaime_G=)
 
 **[Up one level](People "People")**
 

@@ -60,12 +60,12 @@ In 2005, Tom was a bit tired of bitboards and learned towards some type of [0x88
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: AMD's Ryzen launches March 2, outperforming Intel's Core](http://www.talkchess.com/forum/viewtopic.php?t=63246&start=20) by Tom Likens, [CCC](CCC "CCC"), February 28, 2017
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Slate](David_Slate "David Slate"), [Larry Atkin](Larry_Atkin "Larry Atkin") (**1977**). *Chess 4.5 - The Northwestern University Chess Program.* [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine"), reprinted (1988) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Open Sourcing your Engine](http://www.open-aurec.com/wbforum/viewtopic.php?t=3624) by Tom Likens, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 05, 2005
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Question:1.hashtable 2.board 3.C](https://www.stmintz.com/ccc/index.php?id=114377) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), June 13, 2000
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [0x88 is not so smart](https://www.stmintz.com/ccc/index.php?id=114438) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), June 13, 2000
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1999**). *Rotated Bitmaps, a New Twist on an Old Idea*. [ICCA Journal, Vol. 22, No. 4](ICGA_Journal#22_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: AMD's Ryzen launches March 2, outperforming Intel's Core](http://www.talkchess.com/forum/viewtopic.php?t=63246&start=20) by Tom Likens, [CCC](CCC "CCC"), February 28, 2017
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Slate](David_Slate "David Slate"), [Larry Atkin](Larry_Atkin "Larry Atkin") (**1977**). *Chess 4.5 - The Northwestern University Chess Program.* [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine"), reprinted (1988) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Open Sourcing your Engine](http://www.open-aurec.com/wbforum/viewtopic.php?t=3624) by Tom Likens, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 05, 2005
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Question:1.hashtable 2.board 3.C](https://www.stmintz.com/ccc/index.php?id=114377) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), June 13, 2000
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [0x88 is not so smart](https://www.stmintz.com/ccc/index.php?id=114438) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), June 13, 2000
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1999**). *Rotated Bitmaps, a New Twist on an Old Idea*. [ICCA Journal, Vol. 22, No. 4](ICGA_Journal#22_4 "ICGA Journal")
 
 **[Up one Level](People "People")**
 

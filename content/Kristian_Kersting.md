@@ -74,11 +74,11 @@ His main research interests are in [statistical relational learning](https://en.
 
 
 1. ↑ [1.0](#cite-ref-kersting-1-0) [1.1](#cite-ref-kersting-1-1) [Kristian Kersting](https://ml-research.github.io/people/kkersting/index.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Crazyhouse Chess: CrazyAra plays JannLee for Christmas](https://zhchess.blogspot.com/2018/12/crazyara-plays-jannlee-for-christmas.html), December 26, 2018
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Schachmatt durch CrazyAra: Künstliche Intelligenz schlägt mehrfachen Weltmeister im Einsetzschach](https://nachrichten.idw-online.de/2019/02/19/schachmatt-durch-crazyara-kuenstliche-intelligenz-schlaegt-mehrfachen-weltmeister-im-einsetzschach/) by Kristian Kersting, [Informationsdienst Wissenschaft](https://en.wikipedia.org/wiki/Informationsdienst_Wissenschaft), February 19, 2019 (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Johannes Czech](Johannes_Czech "Johannes Czech"), [Patrick Korus](Patrick_Korus "Patrick Korus"), Kristian Kersting (**2020**). *Monte-Carlo Graph Search for AlphaZero*. [arXiv:2012.11045](https://arxiv.org/abs/2012.11045)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Kristian Kersting](https://dblp.org/pid/40/3793.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Kristian Kersting - Publication](https://ml-research.github.io/people/kkersting/index.html#publications)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Crazyhouse Chess: CrazyAra plays JannLee for Christmas](https://zhchess.blogspot.com/2018/12/crazyara-plays-jannlee-for-christmas.html), December 26, 2018
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Schachmatt durch CrazyAra: Künstliche Intelligenz schlägt mehrfachen Weltmeister im Einsetzschach](https://nachrichten.idw-online.de/2019/02/19/schachmatt-durch-crazyara-kuenstliche-intelligenz-schlaegt-mehrfachen-weltmeister-im-einsetzschach/) by Kristian Kersting, [Informationsdienst Wissenschaft](https://en.wikipedia.org/wiki/Informationsdienst_Wissenschaft), February 19, 2019 (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Johannes Czech](Johannes_Czech "Johannes Czech"), [Patrick Korus](Patrick_Korus "Patrick Korus"), Kristian Kersting (**2020**). *Monte-Carlo Graph Search for AlphaZero*. [arXiv:2012.11045](https://arxiv.org/abs/2012.11045)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Kristian Kersting](https://dblp.org/pid/40/3793.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Kristian Kersting - Publication](https://ml-research.github.io/people/kkersting/index.html#publications)
 
 **[Up one level](People "People")**
 

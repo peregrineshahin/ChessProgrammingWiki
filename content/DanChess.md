@@ -33,13 +33,13 @@ During [forum](Computer_Chess_Forums "Computer Chess Forums") discussions about 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dan chess accusation solved!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=46332) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 24, 2004
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About DanChess in cct7](https://www.stmintz.com/ccc/index.php?id=410092) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), February 07, 2005
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Gauntlet Scorpio v1.1 - games - replaced DanChess](https://www.stmintz.com/ccc/index.php?id=429465) by [Karl-Heinz Söntges](index.php?title=Karl-Heinz_S%C3%B6ntges&action=edit&redlink=1 "Karl-Heinz Söntges (page does not exist)"), [CCC](CCC "CCC"), June 02, 2005
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [crafty clone?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=45342) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 28, 2003
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: definition of clones: Danchess an Crafty](https://www.stmintz.com/ccc/index.php?id=349253) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), February 15, 2004
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: WBEC Ridderkerk new results](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=46486&p=176048#p176025) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 15, 2004
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [DanChess with source code](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=46673) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 01, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dan chess accusation solved!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=46332) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 24, 2004
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About DanChess in cct7](https://www.stmintz.com/ccc/index.php?id=410092) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), February 07, 2005
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gauntlet Scorpio v1.1 - games - replaced DanChess](https://www.stmintz.com/ccc/index.php?id=429465) by [Karl-Heinz Söntges](index.php?title=Karl-Heinz_S%C3%B6ntges&action=edit&redlink=1 "Karl-Heinz Söntges (page does not exist)"), [CCC](CCC "CCC"), June 02, 2005
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [crafty clone?](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=45342) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 28, 2003
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: definition of clones: Danchess an Crafty](https://www.stmintz.com/ccc/index.php?id=349253) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), February 15, 2004
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: WBEC Ridderkerk new results](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=46486&p=176048#p176025) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 15, 2004
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [DanChess with source code](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=46673) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 01, 2004
 
 **[Up one level](Engines "Engines")**
 

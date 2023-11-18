@@ -34,8 +34,8 @@ Only White to move [positions](Chess_Position "Chess Position") along with its [
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CTG specification](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=2319) by [Sesse](Steinar_H._Gunderson "Steinar H. Gunderson"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), September 30, 2007
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CTG to polyglot format](http://www.open-aurec.com/wbforum/viewtopic.php?f=19&t=52972) by matematiko, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 23, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CTG specification](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=2319) by [Sesse](Steinar_H._Gunderson "Steinar H. Gunderson"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), September 30, 2007
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CTG to polyglot format](http://www.open-aurec.com/wbforum/viewtopic.php?f=19&t=52972) by matematiko, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 23, 2013
 
 **[Up one Level](Opening_Book "Opening Book")**
 

@@ -59,13 +59,13 @@ Qf6 45.Qxf6 gxf6 46.Bd6 Nd7 47.Kg1 Ne5 48.Be7 Kf7 49.Bc5 Nc4 50.Kf2 a3 51.Kf3 a2
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Statue of [Confucius](https://en.wikipedia.org/wiki/Confucius), [Confucius Temple of Shanghai](https://en.wikipedia.org/wiki/Confucian_Temple_of_Shanghai), Image by [kanegen](https://www.flickr.com/photos/kanegen/), October 24, 2008, [Category:Shanghai Confucian Temple](https://commons.wikimedia.org/wiki/Category:Shanghai_Confucian_Temple), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [In memoriam Eberhard "Kim" Büker](https://www.hsk1830.de/pages/nachrufe/bueker/e_bueker.htm) by [Christian Zickelbein](https://de.wikipedia.org/wiki/Christian_Zickelbein), [Hamburger SK](https://de.wikipedia.org/wiki/Hamburger_SK), March 2016
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz") (**1997**). *The 6th International Paderborn Computer-Chess Championship*. [ICCA Journal, Vol. 20, No. 1](ICGA_Journal#20_1 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> personal communication by [Hinrich Büker](index.php?title=Hinrich_B%C3%BCker&action=edit&redlink=1 "Hinrich Büker (page does not exist)"), May 02, 2020
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo courtesy [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [Tom Kerrigan's Home Page - Paderborn 1997](http://www.tckerrigan.com/Chess/Stobor/Paderborn/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Paderborn-Tournament so far](https://groups.google.com/d/msg/rec.games.chess.computer/Vc4ghn6rsqM/jCijF0IJj2wJ) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 22, 1997
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a>  [IPCCC 6th, Paderborn GER, 1997](https://www.csvn.nl/index.php/download/partijen/ipccc/106-ipccc-6th-paderborn-ger-1997), hosted by [CSVN](CSVN "CSVN")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Statue of [Confucius](https://en.wikipedia.org/wiki/Confucius), [Confucius Temple of Shanghai](https://en.wikipedia.org/wiki/Confucian_Temple_of_Shanghai), Image by [kanegen](https://www.flickr.com/photos/kanegen/), October 24, 2008, [Category:Shanghai Confucian Temple](https://commons.wikimedia.org/wiki/Category:Shanghai_Confucian_Temple), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [In memoriam Eberhard "Kim" Büker](https://www.hsk1830.de/pages/nachrufe/bueker/e_bueker.htm) by [Christian Zickelbein](https://de.wikipedia.org/wiki/Christian_Zickelbein), [Hamburger SK](https://de.wikipedia.org/wiki/Hamburger_SK), March 2016
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz") (**1997**). *The 6th International Paderborn Computer-Chess Championship*. [ICCA Journal, Vol. 20, No. 1](ICGA_Journal#20_1 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> personal communication by [Hinrich Büker](index.php?title=Hinrich_B%C3%BCker&action=edit&redlink=1 "Hinrich Büker (page does not exist)"), May 02, 2020
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo courtesy [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [Tom Kerrigan's Home Page - Paderborn 1997](http://www.tckerrigan.com/Chess/Stobor/Paderborn/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Paderborn-Tournament so far](https://groups.google.com/d/msg/rec.games.chess.computer/Vc4ghn6rsqM/jCijF0IJj2wJ) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 22, 1997
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a>  [IPCCC 6th, Paderborn GER, 1997](https://www.csvn.nl/index.php/download/partijen/ipccc/106-ipccc-6th-paderborn-ger-1997), hosted by [CSVN](CSVN "CSVN")
 
 **[Up one level](Engines "Engines")**
 

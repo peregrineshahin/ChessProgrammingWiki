@@ -24,8 +24,8 @@ a Canadian comedy and TV writer, computer games programmer and author of various
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [François Dominic Laramée | Twitter](https://twitter.com/fdlaramee)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Programming Part I: Getting Started](http://archive.gamedev.net/archive/reference/articles/article1014.html) by François-Dominic Laramée, [gamedev.net](https://en.wikipedia.org/wiki/GameDev.net), May 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [François Dominic Laramée | Twitter](https://twitter.com/fdlaramee)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Programming Part I: Getting Started](http://archive.gamedev.net/archive/reference/articles/article1014.html) by François-Dominic Laramée, [gamedev.net](https://en.wikipedia.org/wiki/GameDev.net), May 2000
 
 **[Up one level](People "People")**
 

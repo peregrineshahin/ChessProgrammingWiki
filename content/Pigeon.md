@@ -59,9 +59,9 @@ has an [iterative search](Iterative_Search "Iterative Search"), and used [automa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Soviet postage stamp](https://en.wikipedia.org/wiki/Postage_stamps_of_the_Soviet_Union) from 1981 depicting [Picasso](Category:Pablo_Picasso "Category:Pablo Picasso") and his 1949 painting [La Colombe](https://www.moma.org/collection/works/60633), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [pigeon/bits.h at master · StuartRiffle/pigeon · GitHub](https://github.com/StuartRiffle/pigeon/blob/master/src/bits.h)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [pigeon/position.h at master · StuartRiffle/pigeon · GitHub](https://github.com/StuartRiffle/pigeon/blob/master/src/position.h)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Soviet postage stamp](https://en.wikipedia.org/wiki/Postage_stamps_of_the_Soviet_Union) from 1981 depicting [Picasso](Category:Pablo_Picasso "Category:Pablo Picasso") and his 1949 painting [La Colombe](https://www.moma.org/collection/works/60633), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [pigeon/bits.h at master · StuartRiffle/pigeon · GitHub](https://github.com/StuartRiffle/pigeon/blob/master/src/bits.h)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [pigeon/position.h at master · StuartRiffle/pigeon · GitHub](https://github.com/StuartRiffle/pigeon/blob/master/src/position.h)
 
 **[Up one level](Engines "Engines")**
 

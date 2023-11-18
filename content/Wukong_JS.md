@@ -101,10 +101,10 @@ based on [RofChade](RofChade "RofChade") and [PeSTO](PeSTO "PeSTO") by [Ronald F
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A 19th-century illustration of the character [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King), or "[the Wanderer Sun](https://en.wikipedia.org/wiki/Monkey_King#Names_and_titles)". [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WukongJS](https://maksimkorzh.github.io/wukongJS/wukong.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [wukongJS/wukong.js at main · maksimKorzh/wukongJS · GitHub | Evaluate](https://github.com/maksimKorzh/wukongJS/blob/main/wukong.js#L898)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: New uci engine: Rofchade](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68311&start=19) by [Ronald Friederich](Ronald_Friederich "Ronald Friederich"), [CCC](CCC "CCC"), August 28, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A 19th-century illustration of the character [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King), or "[the Wanderer Sun](https://en.wikipedia.org/wiki/Monkey_King#Names_and_titles)". [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WukongJS](https://maksimkorzh.github.io/wukongJS/wukong.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [wukongJS/wukong.js at main · maksimKorzh/wukongJS · GitHub | Evaluate](https://github.com/maksimKorzh/wukongJS/blob/main/wukong.js#L898)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: New uci engine: Rofchade](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68311&start=19) by [Ronald Friederich](Ronald_Friederich "Ronald Friederich"), [CCC](CCC "CCC"), August 28, 2018
 
 **[Up one Level](Engines "Engines")**
 

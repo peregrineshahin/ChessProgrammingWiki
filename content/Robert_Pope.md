@@ -80,8 +80,8 @@ an American computer chess programmer, and author of the [WinBoard](WinBoard "Wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BeachesChess](https://sites.google.com/site/beacheschess/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Abbess 2016](http://www.talkchess.com/forum/viewtopic.php?t=62528) by Robert Pope, [CCC](CCC "CCC"), December 19, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BeachesChess](https://sites.google.com/site/beacheschess/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Abbess 2016](http://www.talkchess.com/forum/viewtopic.php?t=62528) by Robert Pope, [CCC](CCC "CCC"), December 19, 2016
 
 **[Up one Level](People "People")**
 

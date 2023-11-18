@@ -60,11 +60,11 @@ His research interests covers [algorithm](Algorithms "Algorithms") theory, [algo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [KIT – ITI Algorithmics II – Members - Peter Sanders](http://algo2.iti.kit.edu/english/sanders.php)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Peter Sanders - Publications](http://algo2.iti.kit.edu/sanders/papers/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Peter Sanders](https://dblp.uni-trier.de/pers/hd/s/Sanders_0001:Peter)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Richard Karp](Richard_Karp "Richard Karp"), [Yanjun Zhang](Yanjun_Zhang "Yanjun Zhang") (**1988**). *[A randomized parallel branch-and-bound procedure](https://dl.acm.org/doi/10.1145/62212.62240)*. [STOC '88](https://dblp.uni-trier.de/db/conf/stoc/stoc88.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Max-flow min-cut theorem from Wikipedia](https://en.wikipedia.org/wiki/Max-flow_min-cut_theorem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [KIT – ITI Algorithmics II – Members - Peter Sanders](http://algo2.iti.kit.edu/english/sanders.php)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Peter Sanders - Publications](http://algo2.iti.kit.edu/sanders/papers/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Peter Sanders](https://dblp.uni-trier.de/pers/hd/s/Sanders_0001:Peter)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Richard Karp](Richard_Karp "Richard Karp"), [Yanjun Zhang](Yanjun_Zhang "Yanjun Zhang") (**1988**). *[A randomized parallel branch-and-bound procedure](https://dl.acm.org/doi/10.1145/62212.62240)*. [STOC '88](https://dblp.uni-trier.de/db/conf/stoc/stoc88.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Max-flow min-cut theorem from Wikipedia](https://en.wikipedia.org/wiki/Max-flow_min-cut_theorem)
 
 **[Up one level](People "People")**
 

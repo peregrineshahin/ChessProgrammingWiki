@@ -51,8 +51,8 @@ the even smaller **pikoSzachy Extreme Edition** has only 6.5 KiB and it's playin
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Buckminsterfullerene C60](https://en.wikipedia.org/wiki/Buckminsterfullerene) as major subject of research falling under the nanotechnology umbrella, [Nanotechnology from Wikipedia](https://en.wikipedia.org/wiki/Nanotechnology)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [nanoSzachy and pikoSzachy - Home and Download](http://www.kalisz.mm.pl/~pic/nanochess/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Buckminsterfullerene C60](https://en.wikipedia.org/wiki/Buckminsterfullerene) as major subject of research falling under the nanotechnology umbrella, [Nanotechnology from Wikipedia](https://en.wikipedia.org/wiki/Nanotechnology)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [nanoSzachy and pikoSzachy - Home and Download](http://www.kalisz.mm.pl/~pic/nanochess/)
 
 **[Up one Level](Engines "Engines")**
 

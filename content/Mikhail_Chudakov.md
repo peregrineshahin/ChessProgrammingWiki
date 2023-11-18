@@ -35,12 +35,12 @@ and further, along with [Vadim Mirniy](Vadim_Mirniy "Vadim Mirniy") and [Boris S
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [По стопам ПИОНЕРа - Chronology](http://atimopheyev.narod.ru/AfterPIONEER/inPIONEERsFootsteps/Chronology_of_Model.HTM) (In the footsteps of Pioneer - Chronology)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alexander Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy"), Mikhail Chudakov (**1990**). *Pioneer: a Chess Program Modelling a Chess Master's Mind*. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal") as Chudakoff
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), [References](http://atimopheyev.narod.ru/LG01pdf_in_HTML/Ref/lit_en.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [По стопам ПИОНЕРа - Chronology](http://atimopheyev.narod.ru/AfterPIONEER/inPIONEERsFootsteps/Chronology_of_Model.HTM) (In the footsteps of Pioneer - Chronology)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alexander Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy"), Mikhail Chudakov (**1990**). *Pioneer: a Chess Program Modelling a Chess Master's Mind*. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal") as Chudakoff
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), [References](http://atimopheyev.narod.ru/LG01pdf_in_HTML/Ref/lit_en.htm)
 
 **[Up one level](People "People")**
 

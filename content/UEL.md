@@ -24,7 +24,7 @@ title: UEL
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bayesian Elo Rating](http://remi.coulom.free.fr/Bayesian-Elo/) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bayesian Elo Rating](http://remi.coulom.free.fr/Bayesian-Elo/) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom")
 
 **[Up one Level](Engine_Rating_Lists "Engine Rating Lists")**
 

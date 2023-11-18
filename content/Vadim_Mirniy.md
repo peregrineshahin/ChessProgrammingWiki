@@ -31,9 +31,9 @@ where he along with [Mikhail Chudakov](Mikhail_Chudakov "Mikhail Chudakov") and 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [По стопам ПИОНЕРа - Chronology](http://atimopheyev.narod.ru/AfterPIONEER/inPIONEERsFootsteps/Chronology_of_Model.HTM) (In the footsteps of Pioneer - Chronology)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), [References](http://atimopheyev.narod.ru/LG01pdf_in_HTML/Ref/lit_en.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [По стопам ПИОНЕРа - Chronology](http://atimopheyev.narod.ru/AfterPIONEER/inPIONEERsFootsteps/Chronology_of_Model.HTM) (In the footsteps of Pioneer - Chronology)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), [References](http://atimopheyev.narod.ru/LG01pdf_in_HTML/Ref/lit_en.htm)
 
 **[Up one level](People "People")**
 

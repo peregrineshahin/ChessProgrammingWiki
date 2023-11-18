@@ -30,8 +30,8 @@ In a terminology of [Hans Kmoch](Hans_Kmoch "Hans Kmoch") <a id="cite-note-2" hr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A stop sign ironically [defaced](https://en.wikipedia.org/wiki/Defacement_%28vandalism%29) with a [beseechment](https://en.wiktionary.org/wiki/beseechment) not to deface stop signs, [Irony from Wikipedia](https://en.wikipedia.org/wiki/Irony)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hans Kmoch](Hans_Kmoch "Hans Kmoch") (**1959, 1990**). *Pawn Power in Chess*. New York: Dover, 1990. Previous ed.: New York: McKay, 1959. ISBN 0-486-26486-6
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A stop sign ironically [defaced](https://en.wikipedia.org/wiki/Defacement_%28vandalism%29) with a [beseechment](https://en.wiktionary.org/wiki/beseechment) not to deface stop signs, [Irony from Wikipedia](https://en.wikipedia.org/wiki/Irony)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hans Kmoch](Hans_Kmoch "Hans Kmoch") (**1959, 1990**). *Pawn Power in Chess*. New York: Dover, 1990. Previous ed.: New York: McKay, 1959. ISBN 0-486-26486-6
 
 **[Up one Level](Squares "Squares")**
 

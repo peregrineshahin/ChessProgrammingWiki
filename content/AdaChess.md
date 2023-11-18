@@ -83,13 +83,13 @@ So far, AdaChess played the [IGT 2014](IGT_2014 "IGT 2014"), [IGT 2015](IGT_2015
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ada Lovelace](Mathematician#Lovelace "Mathematician") by [Margaret Sarah Carpenter](index.php?title=Category:Margaret_Sarah_Carpenter&action=edit&redlink=1 "Category:Margaret Sarah Carpenter (page does not exist)"), 1836, oil on canvas, [Government Art Collection](https://en.wikipedia.org/wiki/Government_Art_Collection), [Ada Lovelace from Wikipedia](https://en.wikipedia.org/wiki/Ada_Lovelace), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> The programming language [Ada](index.php?title=Ada&action=edit&redlink=1 "Ada (page does not exist)") was named after [Ada Lovelace](Mathematician#Lovelace "Mathematician"), who has been credited as the first computer programmer, [Ada (programming language) from Wikipedia](<https://en.wikipedia.org/wiki/Ada_(programming_language)>)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> The announced [AdaChess](http://joselauro.tripod.com/prechess-en.html) by [PreChess](index.php?title=PreChess&action=edit&redlink=1 "PreChess (page does not exist)") author [José Lauro Strapasson](index.php?title=Jos%C3%A9_Lauro_Strapasson&action=edit&redlink=1 "José Lauro Strapasson (page does not exist)") is confirmed defunct
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [AdaChess al Csvn](http://www.g-sei.org/adachess-al-csvn/), [G 6](G_6 "G 6")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Interview on g-sei](http://www.adachess.com/other/interview-on-g-sei.html), December 12, 2018
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Features based on [AdaChess download](http://www.adachess.com/download), AdaChess-v3.1.zip\\src\\
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: fast(er) movegen](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69216&start=6) by [Alessandro Iavicoli](Alessandro_Iavicoli "Alessandro Iavicoli"), [CCC](CCC "CCC"), December 10, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ada Lovelace](Mathematician#Lovelace "Mathematician") by [Margaret Sarah Carpenter](index.php?title=Category:Margaret_Sarah_Carpenter&action=edit&redlink=1 "Category:Margaret Sarah Carpenter (page does not exist)"), 1836, oil on canvas, [Government Art Collection](https://en.wikipedia.org/wiki/Government_Art_Collection), [Ada Lovelace from Wikipedia](https://en.wikipedia.org/wiki/Ada_Lovelace), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> The programming language [Ada](index.php?title=Ada&action=edit&redlink=1 "Ada (page does not exist)") was named after [Ada Lovelace](Mathematician#Lovelace "Mathematician"), who has been credited as the first computer programmer, [Ada (programming language) from Wikipedia](<https://en.wikipedia.org/wiki/Ada_(programming_language)>)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> The announced [AdaChess](http://joselauro.tripod.com/prechess-en.html) by [PreChess](index.php?title=PreChess&action=edit&redlink=1 "PreChess (page does not exist)") author [José Lauro Strapasson](index.php?title=Jos%C3%A9_Lauro_Strapasson&action=edit&redlink=1 "José Lauro Strapasson (page does not exist)") is confirmed defunct
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [AdaChess al Csvn](http://www.g-sei.org/adachess-al-csvn/), [G 6](G_6 "G 6")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Interview on g-sei](http://www.adachess.com/other/interview-on-g-sei.html), December 12, 2018
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Features based on [AdaChess download](http://www.adachess.com/download), AdaChess-v3.1.zip\\src\\
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: fast(er) movegen](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69216&start=6) by [Alessandro Iavicoli](Alessandro_Iavicoli "Alessandro Iavicoli"), [CCC](CCC "CCC"), December 10, 2018
 
 **[Up one Level](Engines "Engines")**
 

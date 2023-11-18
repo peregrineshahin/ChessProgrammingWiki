@@ -118,8 +118,8 @@ He is further author of the [FSTM](index.php?title=FSTM&action=edit&redlink=1 "F
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rodin chess engine & other tools](https://sites.google.com/site/clonfsp/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [FSTM v1.0.8 (beta) - Rodin chess engine & other tools](https://sites.google.com/site/clonfsp/fstm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rodin chess engine & other tools](https://sites.google.com/site/clonfsp/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [FSTM v1.0.8 (beta) - Rodin chess engine & other tools](https://sites.google.com/site/clonfsp/fstm)
 
 **[Up one level](People "People")**
 

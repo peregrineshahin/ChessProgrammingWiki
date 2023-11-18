@@ -47,7 +47,7 @@ The **Australasian National Computer Chess Championships** (NC3) were being held
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [NC3 Index Page](http://users.cecs.anu.edu.au/%7Eshaun/chess/) by [Shaun Press](Shaun_Press "Shaun Press")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [NC3 Index Page](http://users.cecs.anu.edu.au/%7Eshaun/chess/) by [Shaun Press](Shaun_Press "Shaun Press")
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

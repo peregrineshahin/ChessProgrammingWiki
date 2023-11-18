@@ -75,14 +75,14 @@ provides insights in [congruent](https://en.wikipedia.org/wiki/Congruence_relati
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mark Levene's Home Page](http://www.dcs.bbk.ac.uk/%7Emark/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Mark Levene, [Judit Bar-Ilan](Judit_Bar-Ilan "Judit Bar-Ilan") (**2005**). *[Comparing Move Choices of Chess Search Engines](https://www.researchgate.net/publication/220174440_Comparing_Move_Choices_of_Chess_Search_Engines)*. [ICGA Journal, Vol. 28, No. 2](ICGA_Journal#28_2 "ICGA Journal"), [pdf](http://www.dcs.bbk.ac.uk/~mark/download/fritz_junior_icga.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Mark Levene, [Judit Bar-Ilan](Judit_Bar-Ilan "Judit Bar-Ilan") (**2006**). *Comparing Typical Opening Move Choices Made by Humans and Chess Engines*. [arXiv:cs/0610060](https://arxiv.org/abs/cs/0610060)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Trevor Fenner](Trevor_Fenner "Trevor Fenner"), Mark Levene (**2008**). *Move Generation with Perfect Hashing Functions.* [ICGA Journal, Vol. 31, No. 1](ICGA_Journal#31_1 "ICGA Journal"), [pdf](http://www.dcs.bbk.ac.uk/~mark/download/bitboard_sliding_icga_final.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Nice Math - Strange Conclusions](http://www.talkchess.com/forum/viewtopic.php?t=20913) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), April 29, 2008
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Mark Levene - Online papers](http://www.dcs.bbk.ac.uk/~mark/papers.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Mark Levene](https://dblp.uni-trier.de/pers/hd/l/Levene:Mark)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mark Levene's Home Page](http://www.dcs.bbk.ac.uk/%7Emark/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Mark Levene, [Judit Bar-Ilan](Judit_Bar-Ilan "Judit Bar-Ilan") (**2005**). *[Comparing Move Choices of Chess Search Engines](https://www.researchgate.net/publication/220174440_Comparing_Move_Choices_of_Chess_Search_Engines)*. [ICGA Journal, Vol. 28, No. 2](ICGA_Journal#28_2 "ICGA Journal"), [pdf](http://www.dcs.bbk.ac.uk/~mark/download/fritz_junior_icga.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Mark Levene, [Judit Bar-Ilan](Judit_Bar-Ilan "Judit Bar-Ilan") (**2006**). *Comparing Typical Opening Move Choices Made by Humans and Chess Engines*. [arXiv:cs/0610060](https://arxiv.org/abs/cs/0610060)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Trevor Fenner](Trevor_Fenner "Trevor Fenner"), Mark Levene (**2008**). *Move Generation with Perfect Hashing Functions.* [ICGA Journal, Vol. 31, No. 1](ICGA_Journal#31_1 "ICGA Journal"), [pdf](http://www.dcs.bbk.ac.uk/~mark/download/bitboard_sliding_icga_final.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Nice Math - Strange Conclusions](http://www.talkchess.com/forum/viewtopic.php?t=20913) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), April 29, 2008
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Mark Levene - Online papers](http://www.dcs.bbk.ac.uk/~mark/papers.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Mark Levene](https://dblp.uni-trier.de/pers/hd/l/Levene:Mark)
 
 **[Up one level](People "People")**
 

@@ -36,11 +36,11 @@ In 1972, he became a Doctor of [economic sciences](https://en.wikipedia.org/wiki
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Vitaly Vygodsky Internet Archive](https://www.marxists.org/archive/vygodsky/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Vitaly Vygodsky Internet Archive](https://www.marxists.org/archive/vygodsky/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a>  [Vitaly Vygodsky - Surplus Value](https://www.marxists.org/archive/vygodsky/unknown/surplus_value.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), [Evgeniĭ Dmitrievich Cherevik](Evgeni%C4%AD_Dmitrievich_Cherevik "Evgeniĭ Dmitrievich Cherevik"), [Vasily Vladimirov](Vasily_Vladimirov "Vasily Vladimirov"), Vitaly Vygodsky (**1994**). *Solving Shannon's Problem: Ways and Means*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Historian](https://en.wikipedia.org/wiki/Historian) Valeria Kunina mentioned in [Johann Most - Notes - Wikipedia](https://en.wikipedia.org/wiki/Johann_Most#Notes)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Vitaly Vygodsky Internet Archive](https://www.marxists.org/archive/vygodsky/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Vitaly Vygodsky Internet Archive](https://www.marxists.org/archive/vygodsky/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Vitaly Vygodsky - Surplus Value](https://www.marxists.org/archive/vygodsky/unknown/surplus_value.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), [Evgeniĭ Dmitrievich Cherevik](Evgeni%C4%AD_Dmitrievich_Cherevik "Evgeniĭ Dmitrievich Cherevik"), [Vasily Vladimirov](Vasily_Vladimirov "Vasily Vladimirov"), Vitaly Vygodsky (**1994**). *Solving Shannon's Problem: Ways and Means*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Historian](https://en.wikipedia.org/wiki/Historian) Valeria Kunina mentioned in [Johann Most - Notes - Wikipedia](https://en.wikipedia.org/wiki/Johann_Most#Notes)
 
 **[Up one level](People "People")**
 

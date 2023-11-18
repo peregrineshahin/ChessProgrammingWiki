@@ -97,20 +97,20 @@ Winners of the [Novag](Novag#NovagAward "Novag") [Best-Publication Award](Templa
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Novag](http://www.schach-computer.info/wiki/index.php/Novag_En) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Novag Chess Champion MK I](http://www.schach-computer.info/wiki/index.php/Novag_Chess_Champion_MK_I) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CompuChess](http://www.schach-computer.info/wiki/index.php/CompuChess) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess Champion Mk 1](http://www.xs4all.nl/%7Etluif/chescom/EngNovCCM1.html) by [Tom Luif](Tom_Luif "Tom Luif")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Karpov Accepts - Popular Science March 1979 - Google Books](http://books.google.de/books?id=fgEAAAAAMBAJ&pg=PA21&lpg=PA21&source=bl&ots=eaMgfAOx-j&sig=RtU-YrzsPWpN_-C_YkWrcIv3vy4&hl=en&ei=nhgeTZy5EsjEswalyIj7DQ&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDMQ6AEwAw#v=onepage&q&f=false)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [DATA CASH Systems, Inc. v. JS&A Group, Inc., et al.](http://www2.newpaltz.edu/%7Ezuckerpr/cases/data-chs.htm)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Data Cash Systems v. JS&A Group - The IT Law Wiki](http://itlaw.wikia.com/wiki/Data_Cash_Systems_v._JS%26A_Group)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Data Cash Systems, Inc. v. JS&A GROUP, INC., 480 F. Supp. 1063 - Dist. Court, ND Illinois 1979 - Google Scholar](http://scholar.google.com/scholar_case?case=2740925334562415320)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Data Cash Systems, Inc. v. JS&A GROUP, INC., 628 F. 2d 1038 - Court of Appeals, 7th Circuit 1980 - Google Scholar](http://scholar.google.com/scholar_case?case=6047525544656937218)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [David Kittinger - Interview](http://kittinger.yolasite.com/) by [Bryan Whitby](index.php?title=Bryan_Whitby&action=edit&redlink=1 "Bryan Whitby (page does not exist)")
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Novag](http://www.schach-computer.info/wiki/index.php/Novag_En) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Novag Chess Champion MK I](http://www.schach-computer.info/wiki/index.php/Novag_Chess_Champion_MK_I) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CompuChess](http://www.schach-computer.info/wiki/index.php/CompuChess) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess Champion Mk 1](http://www.xs4all.nl/%7Etluif/chescom/EngNovCCM1.html) by [Tom Luif](Tom_Luif "Tom Luif")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Karpov Accepts - Popular Science March 1979 - Google Books](http://books.google.de/books?id=fgEAAAAAMBAJ&pg=PA21&lpg=PA21&source=bl&ots=eaMgfAOx-j&sig=RtU-YrzsPWpN_-C_YkWrcIv3vy4&hl=en&ei=nhgeTZy5EsjEswalyIj7DQ&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDMQ6AEwAw#v=onepage&q&f=false)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [DATA CASH Systems, Inc. v. JS&A Group, Inc., et al.](http://www2.newpaltz.edu/%7Ezuckerpr/cases/data-chs.htm)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Data Cash Systems v. JS&A Group - The IT Law Wiki](http://itlaw.wikia.com/wiki/Data_Cash_Systems_v._JS%26A_Group)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Data Cash Systems, Inc. v. JS&A GROUP, INC., 480 F. Supp. 1063 - Dist. Court, ND Illinois 1979 - Google Scholar](http://scholar.google.com/scholar_case?case=2740925334562415320)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Data Cash Systems, Inc. v. JS&A GROUP, INC., 628 F. 2d 1038 - Court of Appeals, 7th Circuit 1980 - Google Scholar](http://scholar.google.com/scholar_case?case=6047525544656937218)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [David Kittinger - Interview](http://kittinger.yolasite.com/) by [Bryan Whitby](index.php?title=Bryan_Whitby&action=edit&redlink=1 "Bryan Whitby (page does not exist)")
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Scisys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -43,7 +43,7 @@ A stack of four registers (ST1-ST4) is used to call subroutines by the CAL instr
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hitachi HD44801](https://cdn.datasheetspdf.com/pdf-down/H/D/4/HD44801_Hitachi.pdf) (pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hitachi HD44801](https://cdn.datasheetspdf.com/pdf-down/H/D/4/HD44801_Hitachi.pdf) (pdf)
 
 **[Up one Level](Hardware "Hardware")**
 

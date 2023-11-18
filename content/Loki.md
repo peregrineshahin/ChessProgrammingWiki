@@ -123,12 +123,12 @@ The author reports progress on Loki in an own [CCC](CCC "CCC") forum thread [[3]
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Loki with a fishing net](https://commons.wikimedia.org/wiki/File:Processed_SAM_loki.jpg), A [Norse mythology](https://en.wikipedia.org/wiki/Norse_mythology) image from the [18th century](https://en.wikipedia.org/wiki/18th_century) [Icelandic manuscript SÁM 66](https://en.wikipedia.org/wiki/Icelandic_Manuscript,_S%C3%81M_66), now in the care of the [Árni Magnússon Institute for Icelandic Studies](https://en.wikipedia.org/wiki/%C3%81rni_Magn%C3%BAsson_Institute_for_Icelandic_Studies), [Loki from Wikipedia](https://en.wikipedia.org/wiki/Loki), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: New engine releases & news 2021](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76209&start=91) (Loki 1.0.2) by [Niels Abildskov](Niels_Abildskov "Niels Abildskov"), [CCC](CCC "CCC"), February 21, 2021
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Loki with a fishing net](https://commons.wikimedia.org/wiki/File:Processed_SAM_loki.jpg), A [Norse mythology](https://en.wikipedia.org/wiki/Norse_mythology) image from the [18th century](https://en.wikipedia.org/wiki/18th_century) [Icelandic manuscript SÁM 66](https://en.wikipedia.org/wiki/Icelandic_Manuscript,_S%C3%81M_66), now in the care of the [Árni Magnússon Institute for Icelandic Studies](https://en.wikipedia.org/wiki/%C3%81rni_Magn%C3%BAsson_Institute_for_Icelandic_Studies), [Loki from Wikipedia](https://en.wikipedia.org/wiki/Loki), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: New engine releases & news 2021](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76209&start=91) (Loki 1.0.2) by [Niels Abildskov](Niels_Abildskov "Niels Abildskov"), [CCC](CCC "CCC"), February 21, 2021
 3. ↑ [3.0](#cite-ref-progess-3-0) [3.1](#cite-ref-progess-3-1) [Progress on Loki](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77105) by [Niels Abildskov](Niels_Abildskov "Niels Abildskov"), [CCC](CCC "CCC"), April 16, 2021
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [BimmerBass/Loki - C++17 chess engine | Why the name?](https://github.com/BimmerBass/Loki#why-the-name)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Loki from Wikipedia](https://en.wikipedia.org/wiki/Loki)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [GitHub - BimmerBass/Loki - C++17 chess engine](https://github.com/BimmerBass/Loki)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [BimmerBass/Loki - C++17 chess engine | Why the name?](https://github.com/BimmerBass/Loki#why-the-name)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Loki from Wikipedia](https://en.wikipedia.org/wiki/Loki)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GitHub - BimmerBass/Loki - C++17 chess engine](https://github.com/BimmerBass/Loki)
 
 **[Up one level](Engines "Engines")**
 

@@ -41,9 +41,9 @@ a French mathematician and computer scientist at [University of the Mediterranea
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Joël Rivat homepage](http://iml.univ-mrs.fr/~rivat/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Joël Rivat - publications](http://iml.univ-mrs.fr/~rivat/publications.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Guru's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=11)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Joël Rivat homepage](http://iml.univ-mrs.fr/~rivat/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Joël Rivat - publications](http://iml.univ-mrs.fr/~rivat/publications.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Guru's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=11)
 
 **[Up one level](People "People")**
 

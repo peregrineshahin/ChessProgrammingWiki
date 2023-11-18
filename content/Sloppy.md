@@ -129,12 +129,12 @@ Sloppy **0.2.0**, released in February 2008, supports [Daniel Shawul's](Daniel_S
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image made by Dcstrosh to show the sloppy reading of a sentence, [Sloppy identity from Wikipedia](https://en.wikipedia.org/wiki/Sloppy_identity), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sloppy : Home](http://ilaripih.mbnet.fi/sloppy/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [sloppy/CHANGES at master · cutechess/sloppy · GitHub](https://github.com/cutechess/sloppy/blob/master/CHANGES)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [sloppy/magicmoves.c at master · cutechess/sloppy · GitHub](https://github.com/cutechess/sloppy/blob/master/src/magicmoves.c)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Sloppy 0.2.0 released](http://www.talkchess.com/forum/viewtopic.php?t=19432) by [Ilari Pihlajisto](Ilari_Pihlajisto "Ilari Pihlajisto"), [CCC](CCC "CCC"), February 06, 2008
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Features based on [sloppy/src at master · cutechess/sloppy · GitHub](https://github.com/cutechess/sloppy/tree/master/src)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image made by Dcstrosh to show the sloppy reading of a sentence, [Sloppy identity from Wikipedia](https://en.wikipedia.org/wiki/Sloppy_identity), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sloppy : Home](http://ilaripih.mbnet.fi/sloppy/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [sloppy/CHANGES at master · cutechess/sloppy · GitHub](https://github.com/cutechess/sloppy/blob/master/CHANGES)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [sloppy/magicmoves.c at master · cutechess/sloppy · GitHub](https://github.com/cutechess/sloppy/blob/master/src/magicmoves.c)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Sloppy 0.2.0 released](http://www.talkchess.com/forum/viewtopic.php?t=19432) by [Ilari Pihlajisto](Ilari_Pihlajisto "Ilari Pihlajisto"), [CCC](CCC "CCC"), February 06, 2008
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Features based on [sloppy/src at master · cutechess/sloppy · GitHub](https://github.com/cutechess/sloppy/tree/master/src)
 
 **[Up one level](Engines "Engines")**
 

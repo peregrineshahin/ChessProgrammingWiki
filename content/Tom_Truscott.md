@@ -51,20 +51,20 @@ Truscott and [Wright](Bruce_Wright "Bruce Wright") continued to participate in t
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Die Geschichte des Internet](http://www.heimo.de/jpool/articles/Geschichte.html) by [Heimo Ponnath](http://www.heimo.de/jpool/index.html) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tom Truscott from Wikipedia](https://en.wikipedia.org/wiki/Tom_Truscott)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Steven M. Bellovin - Bio](https://www.cs.columbia.edu/~smb/informal-bio.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Lewiston Daily Sun - Google News Archive](http://news.google.com/newspapers?nid=1928&dat=19770512&id=hr4gAAAAIBAJ&sjid=xmkFAAAAIBAJ&pg=4778,1673986), May 12, 1977
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [A brief history of computer checkers](http://www.fierz.ch/history.htm) by [Martin Fierz](Martin_Fierz "Martin Fierz")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Samuel's and The Duke Checkers Programs](http://checkersbackground.com/samuel-s-and-the.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Tom Truscott's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=435)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [SAS | Business Analytics and Business Intelligence Software](http://www.sas.com/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Interview with Tom Truscott](http://www.giganews.com/usenet-history/truscott.html) from [giganews.com](http://www.giganews.com/) April 18, 2007
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Chaos vs. Duchess](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe2be7f) at the [10th ACM North American Computer Chess Championship](ACM_1979 "ACM 1979"), 1979 Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Chess pioneers in Sacher Hotel Vienna, Austria](http://www.computerhistory.org/collections/accession/102665753), Gift of [Benjamin Mittman](Ben_Mittman "Ben Mittman"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Chapter 10 - On the early days of Usenet: The Roots of the cooperative Online Culture](http://www.columbia.edu/~rh120/ch106.x10) a draft chapter from [Michael Hauben](https://en.wikipedia.org/wiki/Michael_Hauben), Ronda Hauben (**1997**). *[Netizens: On the History and Impact of Usenet and the Internet](http://www.columbia.edu/~hauben/project_book.html).* [Wiley-IEEE Computer Society Press](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0818677066.html), ISBN: 978-0-8186-7706-9
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Chapter 10 - On the early days of Usenet: The Roots of the cooperative Online Culture](http://www.columbia.edu/~rh120/ch106.x10) a draft chapter
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Re: Hashing function for board positions](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/a0a82ffbb59b7ced) post 4 by [Jim Gillogly](James_Gillogly "James Gillogly"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 12, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Die Geschichte des Internet](http://www.heimo.de/jpool/articles/Geschichte.html) by [Heimo Ponnath](http://www.heimo.de/jpool/index.html) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tom Truscott from Wikipedia](https://en.wikipedia.org/wiki/Tom_Truscott)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Steven M. Bellovin - Bio](https://www.cs.columbia.edu/~smb/informal-bio.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Lewiston Daily Sun - Google News Archive](http://news.google.com/newspapers?nid=1928&dat=19770512&id=hr4gAAAAIBAJ&sjid=xmkFAAAAIBAJ&pg=4778,1673986), May 12, 1977
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [A brief history of computer checkers](http://www.fierz.ch/history.htm) by [Martin Fierz](Martin_Fierz "Martin Fierz")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Samuel's and The Duke Checkers Programs](http://checkersbackground.com/samuel-s-and-the.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Tom Truscott's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=435)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [SAS | Business Analytics and Business Intelligence Software](http://www.sas.com/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Interview with Tom Truscott](http://www.giganews.com/usenet-history/truscott.html) from [giganews.com](http://www.giganews.com/) April 18, 2007
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Chaos vs. Duchess](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe2be7f) at the [10th ACM North American Computer Chess Championship](ACM_1979 "ACM 1979"), 1979 Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Chess pioneers in Sacher Hotel Vienna, Austria](http://www.computerhistory.org/collections/accession/102665753), Gift of [Benjamin Mittman](Ben_Mittman "Ben Mittman"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Chapter 10 - On the early days of Usenet: The Roots of the cooperative Online Culture](http://www.columbia.edu/~rh120/ch106.x10) a draft chapter from [Michael Hauben](https://en.wikipedia.org/wiki/Michael_Hauben), Ronda Hauben (**1997**). *[Netizens: On the History and Impact of Usenet and the Internet](http://www.columbia.edu/~hauben/project_book.html).* [Wiley-IEEE Computer Society Press](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0818677066.html), ISBN: 978-0-8186-7706-9
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Chapter 10 - On the early days of Usenet: The Roots of the cooperative Online Culture](http://www.columbia.edu/~rh120/ch106.x10) a draft chapter
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Re: Hashing function for board positions](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/a0a82ffbb59b7ced) post 4 by [Jim Gillogly](James_Gillogly "James Gillogly"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 12, 1997
 
 **[Up one level](People "People")**
 

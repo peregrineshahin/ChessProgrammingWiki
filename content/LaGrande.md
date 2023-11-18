@@ -38,10 +38,10 @@ when he initially assumed Voyager an experimental private chess program by Gabri
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [La Petite 1.0 (download)](https://www.stmintz.com/ccc/index.php?id=74534) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), October 22, 1999
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [crafty copyright problem](https://groups.google.com/g/rec.games.chess.computer/c/zIUg9A3GkZg/m/D7OvJBESxiMJ) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 17, 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Ruffian is here - Make your move Bob Hyatt!](https://www.stmintz.com/ccc/index.php?id=253595) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), September 23, 2002
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [La Petite 1.0 (download)](https://www.stmintz.com/ccc/index.php?id=74534) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), October 22, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [La Petite 1.0 (download)](https://www.stmintz.com/ccc/index.php?id=74534) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), October 22, 1999
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [crafty copyright problem](https://groups.google.com/g/rec.games.chess.computer/c/zIUg9A3GkZg/m/D7OvJBESxiMJ) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 17, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Ruffian is here - Make your move Bob Hyatt!](https://www.stmintz.com/ccc/index.php?id=253595) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), September 23, 2002
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [La Petite 1.0 (download)](https://www.stmintz.com/ccc/index.php?id=74534) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), October 22, 1999
 
 **[Up one level](Engines "Engines")**
 

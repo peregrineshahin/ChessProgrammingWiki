@@ -54,8 +54,8 @@ Instead of using [piece-square tables](Piece-Square_Tables "Piece-Square Tables"
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Description based on GiuChess-1.0beta2, [GiuChess Xboard-compatible chess engine | Free Games software downloads at SourceForge.net](http://sourceforge.net/projects/giuchess/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [13′ Campionato italiano « G 6](http://www.g-sei.org/13-campionato-italiano/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Description based on GiuChess-1.0beta2, [GiuChess Xboard-compatible chess engine | Free Games software downloads at SourceForge.net](http://sourceforge.net/projects/giuchess/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [13′ Campionato italiano « G 6](http://www.g-sei.org/13-campionato-italiano/)
 
 **[Up one Level](Engines "Engines")**
 

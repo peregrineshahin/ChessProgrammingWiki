@@ -59,11 +59,11 @@ Cuckoo's Eggs <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Fan-tailed Cuckoo](https://en.wikipedia.org/wiki/Fan-tailed_cuckoo) (Cacomantis flabelliformis), [Bruny Island](https://en.wikipedia.org/wiki/Bruny_Island), [Tasmania](https://en.wikipedia.org/wiki/Tasmania), [Australia](https://en.wikipedia.org/wiki/Australia), [Common Cuckoo from Wikipedia](https://en.wikipedia.org/wiki/Common_Cuckoo)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [DroidFish - Strong chess program for the Android platform](http://hem.bredband.net/petero2b/droidfish/index.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CuckooChess 1.12 - A Java Chess Program](http://hem.bredband.net/petero2b/javachess/index.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: PHOENIX=CuckooChess with learning function in Falcon style](http://www.talkchess.com/forum/viewtopic.php?t=55476&start=4) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), March 20, 2016
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Images from [Kuckuck - 7.2 Eiablage Wikipedia.de](http://de.wikipedia.org/wiki/Kuckuck#Eiablage) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Fan-tailed Cuckoo](https://en.wikipedia.org/wiki/Fan-tailed_cuckoo) (Cacomantis flabelliformis), [Bruny Island](https://en.wikipedia.org/wiki/Bruny_Island), [Tasmania](https://en.wikipedia.org/wiki/Tasmania), [Australia](https://en.wikipedia.org/wiki/Australia), [Common Cuckoo from Wikipedia](https://en.wikipedia.org/wiki/Common_Cuckoo)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [DroidFish - Strong chess program for the Android platform](http://hem.bredband.net/petero2b/droidfish/index.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CuckooChess 1.12 - A Java Chess Program](http://hem.bredband.net/petero2b/javachess/index.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: PHOENIX=CuckooChess with learning function in Falcon style](http://www.talkchess.com/forum/viewtopic.php?t=55476&start=4) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), March 20, 2016
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Images from [Kuckuck - 7.2 Eiablage Wikipedia.de](http://de.wikipedia.org/wiki/Kuckuck#Eiablage) (German)
 
 **[Up one Level](Engines "Engines")**
 

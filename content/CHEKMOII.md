@@ -50,13 +50,13 @@ If either the white side or the black side becomes significantly more powerful t
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image clipped from the [video](https://www.youtube.com/watch?time_continue=7&v=Rp4HIC1crS0) from [Norbert's Emulators | The Atari PDP-8 Emulator | b) Chess program CHEKMO-II](http://members.aon.at/nkehrer/pdp8.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [File CHEKMO.PA (PAL assembler source file)](http://www.pdp8.net/pdp8cgi/os8_html/CHEKMO.PA?act=file;fn=images/misc_dectapes/chekmo_misc.tu56;blk=121,252,0;to=auto)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DECUS Program Library PDP-8 Catalog 1978](http://www.bitsavers.org/pdf/dec/decus/programCatalogs/DECUS_Catalog_PDP-8_Aug78.pdf) (pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [PDP-8 Chess (CHEKMO-II) Instructions](http://www.pdp8.net/games/chess.shtml)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [PDP-8 Chess (CHEKMO-II) Instructions](http://www.pdp8.net/games/chess.shtml)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CHEKMO-II German manual](http://www.technikum29.de/de/lernprojekte/schach/Chekmo%20II%20%28deutsch,%20ungekuerzt%29.pdf) (pdf)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image clipped from the [video](https://www.youtube.com/watch?time_continue=7&v=Rp4HIC1crS0) from [Norbert's Emulators | The Atari PDP-8 Emulator | b) Chess program CHEKMO-II](http://members.aon.at/nkehrer/pdp8.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [File CHEKMO.PA (PAL assembler source file)](http://www.pdp8.net/pdp8cgi/os8_html/CHEKMO.PA?act=file;fn=images/misc_dectapes/chekmo_misc.tu56;blk=121,252,0;to=auto)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DECUS Program Library PDP-8 Catalog 1978](http://www.bitsavers.org/pdf/dec/decus/programCatalogs/DECUS_Catalog_PDP-8_Aug78.pdf) (pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [PDP-8 Chess (CHEKMO-II) Instructions](http://www.pdp8.net/games/chess.shtml)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [PDP-8 Chess (CHEKMO-II) Instructions](http://www.pdp8.net/games/chess.shtml)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CHEKMO-II German manual](http://www.technikum29.de/de/lernprojekte/schach/Chekmo%20II%20%28deutsch,%20ungekuerzt%29.pdf) (pdf)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
 
 **[Up one level](Engines "Engines")**
 

@@ -33,8 +33,8 @@ In 1990, after the cooperation with Saitek declined, Heuristic Software started 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: list of our chess computers, let's share it](http://hiarcs.net/forums/viewtopic.php?t=204&start=34) by [Craig Barnes](Craig_Barnes "Craig Barnes"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 17, 2010
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SciSys Sensor Chess](http://www.schach-computer.info/wiki/index.php/Scisys_Sensor_Chess) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: list of our chess computers, let's share it](http://hiarcs.net/forums/viewtopic.php?t=204&start=34) by [Craig Barnes](Craig_Barnes "Craig Barnes"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 17, 2010
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SciSys Sensor Chess](http://www.schach-computer.info/wiki/index.php/Scisys_Sensor_Chess) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
 
 **[Up one Level](Organizations "Organizations")**
 

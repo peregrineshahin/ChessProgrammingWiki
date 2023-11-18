@@ -28,8 +28,8 @@ His paper had major impact on chess programming in Poland, containing a good nat
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Adam Kujawski, [European Rapid Chess Championship](http://www.archiwum.poloniachess.pl/amplico2013/index6f1f.html?lang=en), [Warsaw](https://en.wikipedia.org/wiki/Warsaw) 2013, [Adam Kujawski (szachista) – Wikipedia.pl](<https://pl.wikipedia.org/wiki/Adam_Kujawski_(szachista)>) (Polish)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Adam Kujawski (**1994**). *Programowanie gry w szachy*. Masters thesis, [University of Warsaw](University_of_Warsaw "University of Warsaw")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Adam Kujawski, [European Rapid Chess Championship](http://www.archiwum.poloniachess.pl/amplico2013/index6f1f.html?lang=en), [Warsaw](https://en.wikipedia.org/wiki/Warsaw) 2013, [Adam Kujawski (szachista) – Wikipedia.pl](<https://pl.wikipedia.org/wiki/Adam_Kujawski_(szachista)>) (Polish)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Adam Kujawski (**1994**). *Programowanie gry w szachy*. Masters thesis, [University of Warsaw](University_of_Warsaw "University of Warsaw")
 
 **[Up one Level](People "People")**
 

@@ -151,13 +151,13 @@ Chess programming is dominated by the [C](C "C") and [C++](Cpp "Cpp") languages.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1996**). *CHE: A Graphical Language for Expressing Chess Knowledge*. [ICCA Journal](ICGA_Journal "ICGA Journal"), [Vol. 19, No. 4](http://people.csail.mit.edu/heinz/iccaj_db/node20.html), pp. 234-241
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Michael George](index.php?title=Michael_George&action=edit&redlink=1 "Michael George (page does not exist)") (**1988**). *MACH: A Master Advisor for CHess*. M.Sc. thesis, [University of Alberta](University_of_Alberta "University of Alberta")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Considered harmful from Wikipedia](https://en.wikipedia.org/wiki/Considered_harmful)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Coding Horror: I'd Consider That Harmful, Too](http://www.codinghorror.com/blog/2007/10/id-consider-that-harmful-too.html) by [Jeff Atwood](https://en.wikipedia.org/wiki/Jeff_Atwood), October 25, 2007
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ML (programming language) from Wikipedia](https://en.wikipedia.org/wiki/ML_(programming_language))
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Casanova Language - Home](http://casanova.codeplex.com/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Source lines of code from Wikipedia](https://en.wikipedia.org/wiki/Source_lines_of_code)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1996**). *CHE: A Graphical Language for Expressing Chess Knowledge*. [ICCA Journal](ICGA_Journal "ICGA Journal"), [Vol. 19, No. 4](http://people.csail.mit.edu/heinz/iccaj_db/node20.html), pp. 234-241
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Michael George](index.php?title=Michael_George&action=edit&redlink=1 "Michael George (page does not exist)") (**1988**). *MACH: A Master Advisor for CHess*. M.Sc. thesis, [University of Alberta](University_of_Alberta "University of Alberta")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Considered harmful from Wikipedia](https://en.wikipedia.org/wiki/Considered_harmful)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Coding Horror: I'd Consider That Harmful, Too](http://www.codinghorror.com/blog/2007/10/id-consider-that-harmful-too.html) by [Jeff Atwood](https://en.wikipedia.org/wiki/Jeff_Atwood), October 25, 2007
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ML (programming language) from Wikipedia](https://en.wikipedia.org/wiki/ML_(programming_language))
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Casanova Language - Home](http://casanova.codeplex.com/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Source lines of code from Wikipedia](https://en.wikipedia.org/wiki/Source_lines_of_code)
 
 **[Up one Level](Programming "Programming")**
 

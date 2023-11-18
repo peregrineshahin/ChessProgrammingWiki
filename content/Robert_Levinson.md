@@ -98,16 +98,16 @@ an American computer scientist, [AI](Artificial_Intelligence "Artificial Intelli
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from old *Levinson - Faculty - People - Baskin School of Engineering, UCSC site*
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [the Morph project](http://satirist.org/learn-game/projects/morph.html) by [Jay Scott](Jay_Scott "Jay Scott")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Robert Levinson](http://dblp.uni-trier.de/pers/hd/l/Levinson:Robert)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [12. IJCAI 1991](Conferences#IJCAI1991 "Conferences") and [Deep Thought](Deep_Thought "Deep Thought") vs. [Darryl Johansen](https://en.wikipedia.org/wiki/Darryl_Johansen) 1-1, [Sydney](https://en.wikipedia.org/wiki/Sydney), August 28, 1991
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Deep Thought vs. Darryl K. Johansen](http://www.chessgames.com/perl/chess.pl?pid=13728&pid2=47022) from [chessgames.co](http://www.chessgames.com/index.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> reprinted in [The 23rd ACM International Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cc6e9) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1993_23rd_ACM_ICCC/1993%20ICCC.062303066.sm.pdf)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Mathematician - Charles Sanders Peirce](Mathematician#CSPeirce "Mathematician")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> ["Deep Blue" inspires deep thinking about artificial intelligence by computer scientist](https://www.sciencedaily.com/releases/1997/05/970501194114.htm) by [Robert Irion](https://scicom.ucsc.edu/faculty/), [University of California, Santa Cruz](University_of_California,_Santa_Cruz "University of California, Santa Cruz"), May 5, 1997
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> Robert Levinson, [Jeff Wilkinson](index.php?title=Jeff_Wilkinson&action=edit&redlink=1 "Jeff Wilkinson (page does not exist)") (**1997**). *[Deep Blue is Still an Infant](https://www.semanticscholar.org/paper/Deep-Blue-is-Still-an-Infant-Levinson-Wilkinson/3ce74263ef7b5d04fdf709b2dd3a519d780ae47f)*. [AAAI](AAAI "AAAI"), Technical Report WS-97-04
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from old *Levinson - Faculty - People - Baskin School of Engineering, UCSC site*
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [the Morph project](http://satirist.org/learn-game/projects/morph.html) by [Jay Scott](Jay_Scott "Jay Scott")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Robert Levinson](http://dblp.uni-trier.de/pers/hd/l/Levinson:Robert)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [12. IJCAI 1991](Conferences#IJCAI1991 "Conferences") and [Deep Thought](Deep_Thought "Deep Thought") vs. [Darryl Johansen](https://en.wikipedia.org/wiki/Darryl_Johansen) 1-1, [Sydney](https://en.wikipedia.org/wiki/Sydney), August 28, 1991
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Deep Thought vs. Darryl K. Johansen](http://www.chessgames.com/perl/chess.pl?pid=13728&pid2=47022) from [chessgames.co](http://www.chessgames.com/index.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> reprinted in [The 23rd ACM International Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cc6e9) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1993_23rd_ACM_ICCC/1993%20ICCC.062303066.sm.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Mathematician - Charles Sanders Peirce](Mathematician#CSPeirce "Mathematician")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> ["Deep Blue" inspires deep thinking about artificial intelligence by computer scientist](https://www.sciencedaily.com/releases/1997/05/970501194114.htm) by [Robert Irion](https://scicom.ucsc.edu/faculty/), [University of California, Santa Cruz](University_of_California,_Santa_Cruz "University of California, Santa Cruz"), May 5, 1997
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> Robert Levinson, [Jeff Wilkinson](index.php?title=Jeff_Wilkinson&action=edit&redlink=1 "Jeff Wilkinson (page does not exist)") (**1997**). *[Deep Blue is Still an Infant](https://www.semanticscholar.org/paper/Deep-Blue-is-Still-an-Infant-Levinson-Wilkinson/3ce74263ef7b5d04fdf709b2dd3a519d780ae47f)*. [AAAI](AAAI "AAAI"), Technical Report WS-97-04
 
 **[Up one level](People "People")**
 

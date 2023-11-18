@@ -95,12 +95,12 @@ The [bluetooth](https://en.wikipedia.org/wiki/Bluetooth) feature <a id="cite-not
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ChessGenius Exclusive](http://www.millennium2000.de/en/chessgenius-exclusive)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Millennium Chess Genius is here](http://www.talkchess.com/forum/viewtopic.php?t=57897) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [CCC](CCC "CCC"), October 09, 2015
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Genius Pro](http://www.hiarcs.net/forums/viewtopic.php?t=7997) by [Hans van Mierlo](index.php?title=Hans_van_Mierlo&action=edit&redlink=1 "Hans van Mierlo (page does not exist)"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), August 12, 2016
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Bluetooth Module ChessGenius Exclusive](http://www.millennium2000.de/en/new-bluetooth-module-chessgenius-exclusive)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Chess for Android v5.6](http://www.talkchess.com/forum/viewtopic.php?t=66692&start=3) by [Aart Bik](Aart_Bik "Aart Bik"), [CCC](CCC "CCC"), February 28, 2018
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Connecting Chess for Android with the Millennium](http://www.aartbik.com/android_millennium.php) by [Aart Bik](Aart_Bik "Aart Bik") » [Chess for Android](Chess_for_Android "Chess for Android")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ChessGenius Exclusive](http://www.millennium2000.de/en/chessgenius-exclusive)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Millennium Chess Genius is here](http://www.talkchess.com/forum/viewtopic.php?t=57897) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [CCC](CCC "CCC"), October 09, 2015
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Genius Pro](http://www.hiarcs.net/forums/viewtopic.php?t=7997) by [Hans van Mierlo](index.php?title=Hans_van_Mierlo&action=edit&redlink=1 "Hans van Mierlo (page does not exist)"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), August 12, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Bluetooth Module ChessGenius Exclusive](http://www.millennium2000.de/en/new-bluetooth-module-chessgenius-exclusive)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Chess for Android v5.6](http://www.talkchess.com/forum/viewtopic.php?t=66692&start=3) by [Aart Bik](Aart_Bik "Aart Bik"), [CCC](CCC "CCC"), February 28, 2018
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Connecting Chess for Android with the Millennium](http://www.aartbik.com/android_millennium.php) by [Aart Bik](Aart_Bik "Aart Bik") » [Chess for Android](Chess_for_Android "Chess for Android")
 
 **[Up one Level](Chess_Genius "Chess Genius")**
 

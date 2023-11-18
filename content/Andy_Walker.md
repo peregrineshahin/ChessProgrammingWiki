@@ -32,14 +32,14 @@ a British mathematician and computer scientist, affiliated with the School of Ma
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr A. N. Walker's Home Page](http://web.archive.org/web/20070123032705/http://www.maths.nottingham.ac.uk/personal/anw/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [History - The University of Nottingham](https://www.nottingham.ac.uk/ComputerScience/About/History.aspx)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Nottinghamshire Chess Association - Home](https://www.nottschess.org/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Andrew N. Walker (**1984**). *Uniqueness in Game Trees*. [ICCA Journal, Vol. 7, No. 4](ICGA_Journal#7_4 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Andrew N. Walker (**1996**). *Hybrid Heuristic Search*. [ICCA Journal, Vol. 19, No. 1](ICGA_Journal#19_1 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Don Beal](Don_Beal "Don Beal") (**1993**). *Report on the [QMW 1993 Uniform-Platform Computer Chess Championship](UPCCC_1993 "UPCCC 1993")*. [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [QMW computer chess](https://groups.google.com/d/msg/rec.games.chess/USZ-JlNvqRI/Yn68mNr08xAJ) by [Don Beal](Don_Beal "Don Beal"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr A. N. Walker's Home Page](http://web.archive.org/web/20070123032705/http://www.maths.nottingham.ac.uk/personal/anw/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [History - The University of Nottingham](https://www.nottingham.ac.uk/ComputerScience/About/History.aspx)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Nottinghamshire Chess Association - Home](https://www.nottschess.org/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Andrew N. Walker (**1984**). *Uniqueness in Game Trees*. [ICCA Journal, Vol. 7, No. 4](ICGA_Journal#7_4 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Andrew N. Walker (**1996**). *Hybrid Heuristic Search*. [ICCA Journal, Vol. 19, No. 1](ICGA_Journal#19_1 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Don Beal](Don_Beal "Don Beal") (**1993**). *Report on the [QMW 1993 Uniform-Platform Computer Chess Championship](UPCCC_1993 "UPCCC 1993")*. [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [QMW computer chess](https://groups.google.com/d/msg/rec.games.chess/USZ-JlNvqRI/Yn68mNr08xAJ) by [Don Beal](Don_Beal "Don Beal"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

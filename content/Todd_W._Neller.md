@@ -49,13 +49,13 @@ As a game enthusiast he enjoyed pursuing game [AI](Artificial_Intelligence "Arti
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from [Todd W. Neller](http://cs.gettysburg.edu/~tneller/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Todd W. Neller](http://cs.gettysburg.edu/~tneller/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Todd W. Neller](https://dblp.uni-trier.de/pers/hd/n/Neller:Todd_W=)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Todd Neller's Publications](http://cs.gettysburg.edu/~tneller/papers/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Homicidal chauffeur problem - Wikipedia](https://en.wikipedia.org/wiki/Homicidal_chauffeur_problem)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [[Rook Jumping Maze / Number Maze](http://cs.gettysburg.edu/~tneller/rjmaze/index.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Poker Squares (a.k.a. Poker Solitaire, Poker Square, Poker Patience)](http://cs.gettysburg.edu/~tneller/games/pokersquares/eaai/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from [Todd W. Neller](http://cs.gettysburg.edu/~tneller/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Todd W. Neller](http://cs.gettysburg.edu/~tneller/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Todd W. Neller](https://dblp.uni-trier.de/pers/hd/n/Neller:Todd_W=)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Todd Neller's Publications](http://cs.gettysburg.edu/~tneller/papers/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Homicidal chauffeur problem - Wikipedia](https://en.wikipedia.org/wiki/Homicidal_chauffeur_problem)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [[Rook Jumping Maze / Number Maze](http://cs.gettysburg.edu/~tneller/rjmaze/index.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Poker Squares (a.k.a. Poker Solitaire, Poker Square, Poker Patience)](http://cs.gettysburg.edu/~tneller/games/pokersquares/eaai/)
 
 **[Up one level](People "People")**
 

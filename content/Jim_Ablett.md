@@ -20,8 +20,8 @@ a British IT engineer and [Intel-C](https://en.wikipedia.org/wiki/Intel_C%2B%2B_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Goodbye & farewell. It was fun for a while. Not anymore. Now back to the real world. Jim Ablett. [08-08-13].
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Jim Abblet, Goodbay ...( Only Chess Computers)](http://www.talkchess.com/forum/viewtopic.php?t=48884&start=6) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), August 08, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Goodbye & farewell. It was fun for a while. Not anymore. Now back to the real world. Jim Ablett. [08-08-13].
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Jim Abblet, Goodbay ...( Only Chess Computers)](http://www.talkchess.com/forum/viewtopic.php?t=48884&start=6) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), August 08, 2013
 
 **[Up one Level](People "People")**
 

@@ -109,11 +109,11 @@ While used as [scripting language](https://en.wikipedia.org/wiki/Scripting_langu
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Python Standard Library — Python 3.7.4 documentation](https://docs.python.org/3.7/library/index.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Python (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aggressive LMR at predicted CUT nodes but not at predicted ALL nodes in Python](http://hardy.uhasselt.be/Toga/random_LMR_at_CUT_nodes.py)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Connect 4 AlphaZero implemented using Python...](http://www.talkchess.com/forum/viewtopic.php?t=66443) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), January 29, 2018
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [chess.py.txt](http://www.sdragons.org/Software/Python/chess.py.txt)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Python Standard Library — Python 3.7.4 documentation](https://docs.python.org/3.7/library/index.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Python (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aggressive LMR at predicted CUT nodes but not at predicted ALL nodes in Python](http://hardy.uhasselt.be/Toga/random_LMR_at_CUT_nodes.py)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Connect 4 AlphaZero implemented using Python...](http://www.talkchess.com/forum/viewtopic.php?t=66443) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), January 29, 2018
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [chess.py.txt](http://www.sdragons.org/Software/Python/chess.py.txt)
 
 **[Up one Level](Languages "Languages")**
 

@@ -115,12 +115,12 @@ Kc8 41.Qe5 Qd8 42.Rc4+ Kd7 43.g3 Qb8 44.Qg7+ Kd6 45.Rb4 Qf8 46.Qxf8+ Rxf8
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Nightmare from Wikipedia](https://en.wikipedia.org/wiki/The_Nightmare)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Nightmare games from WCRCC 2013](http://www.talkchess.com/forum/viewtopic.php?t=48707&start=10) by [Joost Buijs](Joost_Buijs "Joost Buijs"), [CCC](CCC "CCC"), July 22, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Joost Buijs](Joost_Buijs "Joost Buijs") (**1995**). *[Aegons' Nightmare](Aegon_1995 "Aegon 1995")*. [Computer Chess Reports Vol. 5 No. 2](Computer_Chess_Reports "Computer Chess Reports") pp. 5
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=25)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Test Position: Rook Sac from WCRCC 2013](http://www.talkchess.com/forum/viewtopic.php?t=48708) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), July 21, 2013
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Epistemology from Wikipedia](https://en.wikipedia.org/wiki/Epistemology)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Nightmare from Wikipedia](https://en.wikipedia.org/wiki/The_Nightmare)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Nightmare games from WCRCC 2013](http://www.talkchess.com/forum/viewtopic.php?t=48707&start=10) by [Joost Buijs](Joost_Buijs "Joost Buijs"), [CCC](CCC "CCC"), July 22, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Joost Buijs](Joost_Buijs "Joost Buijs") (**1995**). *[Aegons' Nightmare](Aegon_1995 "Aegon 1995")*. [Computer Chess Reports Vol. 5 No. 2](Computer_Chess_Reports "Computer Chess Reports") pp. 5
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=25)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Test Position: Rook Sac from WCRCC 2013](http://www.talkchess.com/forum/viewtopic.php?t=48708) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), July 21, 2013
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Epistemology from Wikipedia](https://en.wikipedia.org/wiki/Epistemology)
 
 **[Up one level](Engines "Engines")**
 

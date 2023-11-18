@@ -85,9 +85,9 @@ Rf4 72.Kg3 Ra4 73.h5 Rd5 74.h6 Rh5 75.Nh2 Rg5+ 76.Kh3 Rh5+ 77.Kg3 Rg5+ 78.Kh3 Rh
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Russet Burbank potato from Wikipedia](https://en.wikipedia.org/wiki/Russet_Burbank_potato)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [smallpotato/COPYING at master · alito/smallpotato · GitHub](https://github.com/alito/smallpotato/blob/master/COPYING)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [NC3 - 2003 Australian National Computer Chess Championship](https://web.archive.org/web/20180713121916/http://home.pacific.net.au/~tommyinoz/nc3.html) by [Thomas McBurney](Thomas_McBurney "Thomas McBurney") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Russet Burbank potato from Wikipedia](https://en.wikipedia.org/wiki/Russet_Burbank_potato)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [smallpotato/COPYING at master · alito/smallpotato · GitHub](https://github.com/alito/smallpotato/blob/master/COPYING)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [NC3 - 2003 Australian National Computer Chess Championship](https://web.archive.org/web/20180713121916/http://home.pacific.net.au/~tommyinoz/nc3.html) by [Thomas McBurney](Thomas_McBurney "Thomas McBurney") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](Engines "Engines")**
 

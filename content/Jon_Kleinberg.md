@@ -71,26 +71,26 @@ and the roles they play in large-scale social and information systems. He defend
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Jon Kleinberg, [ICM, Madrid 2006](http://www.icm2006.org/), [Mathematical Research Institute of Oberwolfach](https://en.wikipedia.org/wiki/Mathematical_Research_Institute_of_Oberwolfach), [Photo](https://commons.wikimedia.org/wiki/File:Jon_Kleinberg.jpg) by [Gert-Martin Greuel](https://de.wikipedia.org/wiki/Gert-Martin_Greuel), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jon Kleinberg (**1996**). *[Approximation Algorithms for Disjoint Paths Problems](https://dl.acm.org/doi/book/10.5555/923845)*. Ph.D. thesis, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), advisor [Michel Goemans](Mathematician#MXGoemans "Mathematician")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Jon Kleinberg (**1999**). *[Hubs, Authorities, and Communities](http://cs.brown.edu/memex/ACM_HypertextTestbed/papers/10.html)*. [ACM Computing Surveys](ACM#Surveys "ACM"), Vol. 31, No. 4
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Maia Chess](https://maiachess.com/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Jon Kleinberg‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=VX7d5EQAAAAJ&hl=en)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Jon M. Kleinberg](https://dblp.org/pid/k/JonMKleinberg.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Voronoi diagram from Wikipedia](https://en.wikipedia.org/wiki/Voronoi_diagram)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Hausdorff distance from Wikipedia](https://en.wikipedia.org/wiki/Hausdorff_distance)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Rigid transformation from Wikipedia](https://en.wikipedia.org/wiki/Rigid_transformation)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Davenport–Schinzel sequence from Wikipedia](https://en.wikipedia.org/wiki/Davenport%E2%80%93Schinzel_sequence)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Nearest neighbor search from Wikipedia](https://en.wikipedia.org/wiki/Nearest_neighbor_search)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Lovász number from Wikipedia](https://en.wikipedia.org/wiki/Lov%C3%A1sz_number)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [HITS algorithm from Wikipedia](https://en.wikipedia.org/wiki/HITS_algorithm)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Small-world network from Wikipedia](https://en.wikipedia.org/wiki/Small-world_network)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Small-world experiment from Wikipedia](https://en.wikipedia.org/wiki/Small-world_experiment)
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Routing from Wikipedia](https://en.wikipedia.org/wiki/Routing)
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Load balancing (computing) from Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing))
-18. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Kronecker product from Wikipedia](https://en.wikipedia.org/wiki/Kronecker_product)
-19. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [Kronecker graph from Wikipedia](https://en.wikipedia.org/wiki/Kronecker_graph)
-20. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [Stack Overflow from Wikipedia](https://en.wikipedia.org/wiki/Stack_Overflow)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Jon Kleinberg, [ICM, Madrid 2006](http://www.icm2006.org/), [Mathematical Research Institute of Oberwolfach](https://en.wikipedia.org/wiki/Mathematical_Research_Institute_of_Oberwolfach), [Photo](https://commons.wikimedia.org/wiki/File:Jon_Kleinberg.jpg) by [Gert-Martin Greuel](https://de.wikipedia.org/wiki/Gert-Martin_Greuel), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jon Kleinberg (**1996**). *[Approximation Algorithms for Disjoint Paths Problems](https://dl.acm.org/doi/book/10.5555/923845)*. Ph.D. thesis, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), advisor [Michel Goemans](Mathematician#MXGoemans "Mathematician")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Jon Kleinberg (**1999**). *[Hubs, Authorities, and Communities](http://cs.brown.edu/memex/ACM_HypertextTestbed/papers/10.html)*. [ACM Computing Surveys](ACM#Surveys "ACM"), Vol. 31, No. 4
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Maia Chess](https://maiachess.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jon Kleinberg‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=VX7d5EQAAAAJ&hl=en)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Jon M. Kleinberg](https://dblp.org/pid/k/JonMKleinberg.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Voronoi diagram from Wikipedia](https://en.wikipedia.org/wiki/Voronoi_diagram)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Hausdorff distance from Wikipedia](https://en.wikipedia.org/wiki/Hausdorff_distance)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Rigid transformation from Wikipedia](https://en.wikipedia.org/wiki/Rigid_transformation)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Davenport–Schinzel sequence from Wikipedia](https://en.wikipedia.org/wiki/Davenport%E2%80%93Schinzel_sequence)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Nearest neighbor search from Wikipedia](https://en.wikipedia.org/wiki/Nearest_neighbor_search)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Lovász number from Wikipedia](https://en.wikipedia.org/wiki/Lov%C3%A1sz_number)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [HITS algorithm from Wikipedia](https://en.wikipedia.org/wiki/HITS_algorithm)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Small-world network from Wikipedia](https://en.wikipedia.org/wiki/Small-world_network)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Small-world experiment from Wikipedia](https://en.wikipedia.org/wiki/Small-world_experiment)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Routing from Wikipedia](https://en.wikipedia.org/wiki/Routing)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Load balancing (computing) from Wikipedia](https://en.wikipedia.org/wiki/Load_balancing_(computing))
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Kronecker product from Wikipedia](https://en.wikipedia.org/wiki/Kronecker_product)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Kronecker graph from Wikipedia](https://en.wikipedia.org/wiki/Kronecker_graph)
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Stack Overflow from Wikipedia](https://en.wikipedia.org/wiki/Stack_Overflow)
 
 **[Up one level](People "People")**
 

@@ -40,12 +40,12 @@ He was member of [Hiroyuki Iida's](Hiroyuki_Iida "Hiroyuki Iida") *games laborat
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Junichi Hashimoto | LinkedIn](https://www.linkedin.com/in/junichihashimoto)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Research Unit for Computers and Games - 2011 News](http://www.jaist.ac.jp/rccg/menu/new/2011news.htm#20110201)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Junichi Hashimoto (**2011**). *A Study on Game-Independent Heuristics in Game-Tree Search*. Ph.D. thesis, [JAIST](JAIST "JAIST")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Research Center for Computers and Games - Members](http://www.jaist.ac.jp/rccg/menu/member.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Shogi](https://www.game-ai-forum.org/icga-tournaments/game.php?id=17) at the [Computer Olympiad](Computer_Olympiad "Computer Olympiad")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Junichi Hashimoto](https://dblp.org/pers/hd/h/Hashimoto:Junichi)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Junichi Hashimoto | LinkedIn](https://www.linkedin.com/in/junichihashimoto)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Research Unit for Computers and Games - 2011 News](http://www.jaist.ac.jp/rccg/menu/new/2011news.htm#20110201)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Junichi Hashimoto (**2011**). *A Study on Game-Independent Heuristics in Game-Tree Search*. Ph.D. thesis, [JAIST](JAIST "JAIST")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Research Center for Computers and Games - Members](http://www.jaist.ac.jp/rccg/menu/member.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Shogi](https://www.game-ai-forum.org/icga-tournaments/game.php?id=17) at the [Computer Olympiad](Computer_Olympiad "Computer Olympiad")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Junichi Hashimoto](https://dblp.org/pers/hd/h/Hashimoto:Junichi)
 
 **[Up one level](People "People")**
 

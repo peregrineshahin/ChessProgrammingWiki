@@ -55,10 +55,10 @@ Techno Chess played the the [WMCCC 1997](WMCCC_1997 "WMCCC 1997") in [Paris](htt
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Laurent Garnier](https://commons.wikimedia.org/wiki/File:Laurentgarnier.jpg), March 10, 2007, by [Scott Sandars](https://www.flickr.com/people/79925938@N00), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [KnightX 1.92 aka Techno Chess engine for Winboard - readme.txt](http://technochess.free.fr/readme.txt)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Techno Chess Home Page](http://technochess.free.fr/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Paris 1997 - Chess - Round 4 - Game 15 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=4&id=15)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Laurent Garnier](https://commons.wikimedia.org/wiki/File:Laurentgarnier.jpg), March 10, 2007, by [Scott Sandars](https://www.flickr.com/people/79925938@N00), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [KnightX 1.92 aka Techno Chess engine for Winboard - readme.txt](http://technochess.free.fr/readme.txt)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Techno Chess Home Page](http://technochess.free.fr/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Paris 1997 - Chess - Round 4 - Game 15 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=5&round=4&id=15)
 
 **[Up one level](Engines "Engines")**
 

@@ -91,9 +91,9 @@ Nf8 37.Rxg7 h6 38.g4+ Ke6 39.Kf2 f5 40.gxf5+ Kf6 41.Ra7 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Levy](David_Levy "David Levy") (**1989**). *The Netherlands versus the Computer World*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Deep Thought](Deep_Thought "Deep Thought") was undergoing major surgery at the time of the match and so its father played in its place
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> The Editorial Board (**1989**). *Twelve Chessters against twelve Dutchies*. [ICCA Journal, Vol. 12, No. 3](ICGA_Journal#12_3 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Levy](David_Levy "David Levy") (**1989**). *The Netherlands versus the Computer World*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Deep Thought](Deep_Thought "Deep Thought") was undergoing major surgery at the time of the match and so its father played in its place
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> The Editorial Board (**1989**). *Twelve Chessters against twelve Dutchies*. [ICCA Journal, Vol. 12, No. 3](ICGA_Journal#12_3 "ICGA Journal")
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

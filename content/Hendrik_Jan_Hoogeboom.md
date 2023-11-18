@@ -66,15 +66,15 @@ His research interests in [theoretical computer science](https://en.wikipedia.or
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [H.J. Hoogeboom - homepage](http://liacs.leidenuniv.nl/~hoogeboomhj/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [H.J. Hoogeboom - homepage](http://liacs.leidenuniv.nl/~hoogeboomhj/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tetris is Hard: An Introduction to P vs NP](https://www.cs.jhu.edu/~susan/600.363/tetris.pdf) (pdf) slides based on [Erik D. Demaine](Erik_D._Demaine "Erik D. Demaine"), [Susan Hohenberger](Mathematician#SHohenberger "Mathematician"), [David Liben-Nowell](Mathematician#DLibenNowell "Mathematician") (**2002**). *Tetris is Hard, Even to Approximate*. [arXiv:cs/0210020](https://arxiv.org/abs/cs/0210020)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [How to Construct Tetris Conﬁgurations](https://liacs.leidenuniv.nl/~kosterswa/tetris/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Hendrik Jan Hoogeboom](https://dblp.org/pid/h/HendrikJanHoogeboom.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Monadic second-order logic from Wikipedia](https://en.wikipedia.org/wiki/Monadic_second-order_logic)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Ciliate from Wikipedia](https://en.wikipedia.org/wiki/Ciliate)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Matroid from Wikipedia](https://en.wikipedia.org/wiki/Matroid)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Schur complement from Wikipedia](https://en.wikipedia.org/wiki/Schur_complement), [Issai Schur](Mathematician#Schur "Mathematician")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [H.J. Hoogeboom - homepage](http://liacs.leidenuniv.nl/~hoogeboomhj/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [H.J. Hoogeboom - homepage](http://liacs.leidenuniv.nl/~hoogeboomhj/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tetris is Hard: An Introduction to P vs NP](https://www.cs.jhu.edu/~susan/600.363/tetris.pdf) (pdf) slides based on [Erik D. Demaine](Erik_D._Demaine "Erik D. Demaine"), [Susan Hohenberger](Mathematician#SHohenberger "Mathematician"), [David Liben-Nowell](Mathematician#DLibenNowell "Mathematician") (**2002**). *Tetris is Hard, Even to Approximate*. [arXiv:cs/0210020](https://arxiv.org/abs/cs/0210020)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [How to Construct Tetris Conﬁgurations](https://liacs.leidenuniv.nl/~kosterswa/tetris/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Hendrik Jan Hoogeboom](https://dblp.org/pid/h/HendrikJanHoogeboom.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Monadic second-order logic from Wikipedia](https://en.wikipedia.org/wiki/Monadic_second-order_logic)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Ciliate from Wikipedia](https://en.wikipedia.org/wiki/Ciliate)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Matroid from Wikipedia](https://en.wikipedia.org/wiki/Matroid)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Schur complement from Wikipedia](https://en.wikipedia.org/wiki/Schur_complement), [Issai Schur](Mathematician#Schur "Mathematician")
 
 **[Up one level](People "People")**
 

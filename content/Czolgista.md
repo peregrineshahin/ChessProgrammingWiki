@@ -42,9 +42,9 @@ Qa3 18.Rc3 1/2-1/2
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Why your program can't find this move?!](https://www.stmintz.com/ccc/index.php?id=306813) by [Grzegorz Sidorowicz](Grzegorz_Sidorowicz "Grzegorz Sidorowicz"), [CCC](CCC "CCC"), July 17, 2003
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CCT5 - PGN Donwload](http://www.vrichey.de/cct5/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Why your program can't find this move?!](https://www.stmintz.com/ccc/index.php?id=306813) by [Grzegorz Sidorowicz](Grzegorz_Sidorowicz "Grzegorz Sidorowicz"), [CCC](CCC "CCC"), July 17, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CCT5 - PGN Donwload](http://www.vrichey.de/cct5/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
 
 **[Up one Level](Engines "Engines")**
 

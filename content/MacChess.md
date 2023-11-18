@@ -34,9 +34,9 @@ MacChess competed the [DOCCC 1995](DOCCC_1995 "DOCCC 1995"), the [DOCCC 1996](DO
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Download MacChess - Macintosh Garden](http://macintoshgarden.org/games/macchess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Open Dutch Computer Chess Championships 1995](https://groups.google.com/g/rec.games.chess.computer/c/uvJZAmppbbQ/m/qy2ap6dOUUUJ) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 09, 1995
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MacChess 5.0 PPC now at AOL](https://groups.google.com/g/rec.games.chess.computer/c/1uxrZf0neRU/m/dsZHR1xr5qMJ) by Richard A. Fowell, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 14, 1998
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Download MacChess - Macintosh Garden](http://macintoshgarden.org/games/macchess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Open Dutch Computer Chess Championships 1995](https://groups.google.com/g/rec.games.chess.computer/c/uvJZAmppbbQ/m/qy2ap6dOUUUJ) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 09, 1995
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MacChess 5.0 PPC now at AOL](https://groups.google.com/g/rec.games.chess.computer/c/1uxrZf0neRU/m/dsZHR1xr5qMJ) by Richard A. Fowell, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 14, 1998
 
 **[Up one Level](Engines "Engines")**
 

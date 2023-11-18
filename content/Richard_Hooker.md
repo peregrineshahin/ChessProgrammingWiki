@@ -19,7 +19,7 @@ a British computer scientist and games programmer. Along with [Tony Guilfoyle](T
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Scrabble - source code](http://www.gtoal.com/scrabble/scrabble.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Scrabble - source code](http://www.gtoal.com/scrabble/scrabble.html)
 
 **[Up one level](People "People")**
 

@@ -39,16 +39,16 @@ and provided a translation of [Yu Nasu's](Yu_Nasu "Yu Nasu") 2018 paper introduc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> likely not to confused with the former German handball player [Dominik Klein](https://en.wikipedia.org/wiki/Dominik_Klein), or the philosopher and logician [Dominik Klein](http://dominikklein.dk/about.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Johan van Benthem](<https://en.wikipedia.org/wiki/Johan_van_Benthem_(logician)>), [Dominik Klein](http://dominikklein.dk/about.html) (**2019**). *[Logics for Analyzing Games](https://plato.stanford.edu/entries/logics-for-games/)*. [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Building Jerry – A chess GUI](https://buildingjerry.wordpress.com/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - asdfjkl/ArdEBoard: Arduino Leonardo / Pro-Micro (ATmega32U4) based electronic chess board with Reed switches](https://github.com/asdfjkl/ArdEBoard)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - asdfjkl/kanjicanvas: Online Kanji (Japanese Character) Recognition in Javascript](https://github.com/asdfjkl/kanjicanvas)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Yu Nasu](Yu_Nasu "Yu Nasu") (**2018**). *ƎUИИ Efficiently Updatable Neural-Network based Evaluation Functions for Computer Shogi*. Ziosoft Computer Shogi Club, [pdf](https://github.com/ynasu87/nnue/blob/master/docs/nnue.pdf), [pdf](https://www.apply.computer-shogi.org/wcsc28/appeal/the_end_of_genesis_T.N.K.evolution_turbo_type_D/nnue.pdf) (Japanese with English abstract) [GitHub - asdfjkl/nnue translation](https://github.com/asdfjkl/nnue)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Translation of Yu Nasu's NNUE paper](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76250) by Dominik Klein, [CCC](CCC "CCC"), January 07, 2021
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Dominik Klein (**2021**). *[Neural Networks For Chess](https://github.com/asdfjkl/neural_network_chess)*. [Release Version 1.1 · GitHub](https://github.com/asdfjkl/neural_network_chess/releases/tag/v1.1)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Book about Neural Networks for Chess](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78283) by dkl, [CCC](CCC "CCC"), September 29, 2021
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [JSON from Wikipedia](https://en.wikipedia.org/wiki/JSON)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> likely not to confused with the former German handball player [Dominik Klein](https://en.wikipedia.org/wiki/Dominik_Klein), or the philosopher and logician [Dominik Klein](http://dominikklein.dk/about.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Johan van Benthem](<https://en.wikipedia.org/wiki/Johan_van_Benthem_(logician)>), [Dominik Klein](http://dominikklein.dk/about.html) (**2019**). *[Logics for Analyzing Games](https://plato.stanford.edu/entries/logics-for-games/)*. [Stanford Encyclopedia of Philosophy](https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Building Jerry – A chess GUI](https://buildingjerry.wordpress.com/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - asdfjkl/ArdEBoard: Arduino Leonardo / Pro-Micro (ATmega32U4) based electronic chess board with Reed switches](https://github.com/asdfjkl/ArdEBoard)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - asdfjkl/kanjicanvas: Online Kanji (Japanese Character) Recognition in Javascript](https://github.com/asdfjkl/kanjicanvas)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Yu Nasu](Yu_Nasu "Yu Nasu") (**2018**). *ƎUИИ Efficiently Updatable Neural-Network based Evaluation Functions for Computer Shogi*. Ziosoft Computer Shogi Club, [pdf](https://github.com/ynasu87/nnue/blob/master/docs/nnue.pdf), [pdf](https://www.apply.computer-shogi.org/wcsc28/appeal/the_end_of_genesis_T.N.K.evolution_turbo_type_D/nnue.pdf) (Japanese with English abstract) [GitHub - asdfjkl/nnue translation](https://github.com/asdfjkl/nnue)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Translation of Yu Nasu's NNUE paper](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76250) by Dominik Klein, [CCC](CCC "CCC"), January 07, 2021
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> Dominik Klein (**2021**). *[Neural Networks For Chess](https://github.com/asdfjkl/neural_network_chess)*. [Release Version 1.1 · GitHub](https://github.com/asdfjkl/neural_network_chess/releases/tag/v1.1)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Book about Neural Networks for Chess](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78283) by dkl, [CCC](CCC "CCC"), September 29, 2021
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [JSON from Wikipedia](https://en.wikipedia.org/wiki/JSON)
 
 **[Up one Level](People "People")**
 

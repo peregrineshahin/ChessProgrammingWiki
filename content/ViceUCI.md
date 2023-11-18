@@ -142,10 +142,10 @@ Vice [represents the board](Board_Representation "Board Representation") with a 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> "Tree of Vices" from [Speculum Virginum](https://en.wikipedia.org/wiki/Speculum_Virginum), [Walters Art Museum](https://en.wikipedia.org/wiki/Walters_Art_Museum), [Ms. W.72, fol. 25v](http://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W72/description.html), Early [13th century](https://en.wikipedia.org/wiki/13th_century) manuscript from the [Cistercian](https://en.wikipedia.org/wiki/Cistercians) [abbey of Himmerode](https://en.wikipedia.org/wiki/Himmerod_Abbey), [Tree of virtues and tree of vices from Wikipedia](https://en.wikipedia.org/wiki/Tree_of_virtues_and_tree_of_vices)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Programming A Chess Engine in C](http://www.youtube.com/watch?v=bGAfaepBco4&feature=share&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg), [YouTube](https://en.wikipedia.org/wiki/YouTube) Videos by [BlueFeverSoft](BlueFeverSoft "BlueFeverSoft")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Vice ReadMe File and Download](http://bluefever.net/Downloads/ViceReadMe.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Vice CCRL rating](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77205) by [Amanj Sherwany](Amanj_Sherwany "Amanj Sherwany"), [CCC](CCC "CCC"), April 29, 2021 » [CCRL](CCRL "CCRL")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> "Tree of Vices" from [Speculum Virginum](https://en.wikipedia.org/wiki/Speculum_Virginum), [Walters Art Museum](https://en.wikipedia.org/wiki/Walters_Art_Museum), [Ms. W.72, fol. 25v](http://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W72/description.html), Early [13th century](https://en.wikipedia.org/wiki/13th_century) manuscript from the [Cistercian](https://en.wikipedia.org/wiki/Cistercians) [abbey of Himmerode](https://en.wikipedia.org/wiki/Himmerod_Abbey), [Tree of virtues and tree of vices from Wikipedia](https://en.wikipedia.org/wiki/Tree_of_virtues_and_tree_of_vices)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Programming A Chess Engine in C](http://www.youtube.com/watch?v=bGAfaepBco4&feature=share&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg), [YouTube](https://en.wikipedia.org/wiki/YouTube) Videos by [BlueFeverSoft](BlueFeverSoft "BlueFeverSoft")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Vice ReadMe File and Download](http://bluefever.net/Downloads/ViceReadMe.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Vice CCRL rating](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77205) by [Amanj Sherwany](Amanj_Sherwany "Amanj Sherwany"), [CCC](CCC "CCC"), April 29, 2021 » [CCRL](CCRL "CCRL")
 
 **[Up one Level](Engines "Engines")**
 

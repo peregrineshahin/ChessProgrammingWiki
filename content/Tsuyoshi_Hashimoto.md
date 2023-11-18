@@ -59,11 +59,11 @@ a Japanese computer scientist and lecturer at [Japan Advanced Institute of Scien
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Tsuyoshi Hashimoto just received the Gold medal for [Tacos](index.php?title=Tacos&action=edit&redlink=1 "Tacos (page does not exist)") at the [10th Computer Olympiad, 2005](10th_Computer_Olympiad#Shogi "10th Computer Olympiad"), clipped from [ICGA](ICGA "ICGA") [image IMG\_0227](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2005/fotos/) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Research Center for Computers and Games - Tacos Won Shogi Tournament at the 10th Computer Olympiad](http://www.jaist.ac.jp/rccg/menu/topic.htm), September 18, 2005
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Research Center for Computers and Games - Member](http://www.jaist.ac.jp/rccg/menu/member.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Shogi](https://www.game-ai-forum.org/icga-tournaments/game.php?id=17) at the [Computer Olympiad](Computer_Olympiad "Computer Olympiad")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Tsuyoshi Hashimoto just received the Gold medal for [Tacos](index.php?title=Tacos&action=edit&redlink=1 "Tacos (page does not exist)") at the [10th Computer Olympiad, 2005](10th_Computer_Olympiad#Shogi "10th Computer Olympiad"), clipped from [ICGA](ICGA "ICGA") [image IMG\_0227](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2005/fotos/) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Research Center for Computers and Games - Tacos Won Shogi Tournament at the 10th Computer Olympiad](http://www.jaist.ac.jp/rccg/menu/topic.htm), September 18, 2005
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Research Center for Computers and Games - Member](http://www.jaist.ac.jp/rccg/menu/member.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Shogi](https://www.game-ai-forum.org/icga-tournaments/game.php?id=17) at the [Computer Olympiad](Computer_Olympiad "Computer Olympiad")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

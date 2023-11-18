@@ -52,10 +52,10 @@ Kf5 34.Re1 Rc1 35.Kf2 Qd4+ 36.Kf3 Qd3+ 37.Kf2 Qd4+ 38.Kf3 Qd3+ 39.Kf2 Qd4+ 1/2-1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Endless Love](https://www.flickr.com/photos/mar1lyn84/2722712047) by [Sabrina Campagna](https://www.flickr.com/photos/mar1lyn84), August 02, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [inactive Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list#inactive_private_engine_list) from [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home) by [Ron Murawski](Ron_Murawski "Ron Murawski")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: to Peter Kappler - re:Grok](https://www.stmintz.com/ccc/index.php?id=327351) by [Peter Kappler](Peter_Kappler "Peter Kappler"), [CCC](CCC "CCC"), November 13, 2003
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Grok - Wikiquote](https://en.wikiquote.org/wiki/Grok)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Endless Love](https://www.flickr.com/photos/mar1lyn84/2722712047) by [Sabrina Campagna](https://www.flickr.com/photos/mar1lyn84), August 02, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [inactive Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list#inactive_private_engine_list) from [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home) by [Ron Murawski](Ron_Murawski "Ron Murawski")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: to Peter Kappler - re:Grok](https://www.stmintz.com/ccc/index.php?id=327351) by [Peter Kappler](Peter_Kappler "Peter Kappler"), [CCC](CCC "CCC"), November 13, 2003
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Grok - Wikiquote](https://en.wikiquote.org/wiki/Grok)
 
 **[Up one Level](Engines "Engines")**
 

@@ -72,9 +72,9 @@ Takenobu Takizawa is chair of the [Computer Shogi Association](CSA "CSA") (CSA),
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [TAKIZAWA Takenobu, Professor – Faculty of Political Science and Economics, Waseda University](https://www.waseda.jp/fpse/faculty-en/2019/08/15/617/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Shogi Association Web Site](http://www2.computer-shogi.org/index_e.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Takenobu Takizawa](https://dblp.uni-trier.de/pers/t/Takizawa:Takenobu.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [TAKIZAWA Takenobu, Professor – Faculty of Political Science and Economics, Waseda University](https://www.waseda.jp/fpse/faculty-en/2019/08/15/617/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Shogi Association Web Site](http://www2.computer-shogi.org/index_e.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Takenobu Takizawa](https://dblp.uni-trier.de/pers/t/Takizawa:Takenobu.html)
 
 **[Up one level](People "People")**
 

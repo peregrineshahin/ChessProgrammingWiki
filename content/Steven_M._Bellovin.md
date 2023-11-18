@@ -92,18 +92,18 @@ Later, as graduate student, Steven Bellovin helped create the [Usenet](https://e
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo Credit: Computer Science department, [Columbia University](Columbia_University "Columbia University"), [Steven Bellovin - WikiCU, the Columbia University wiki encyclopedia](http://www.wikicu.com/Steven_Bellovin)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computing at Columbia Timeline - Aug 3-5, 1971](http://www.columbia.edu/cu/computinghistory/index.html#cccp)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Recollections of CUCC 1968-70 -The CCCP Chess Program](http://www.columbia.edu/cu/computinghistory/elliott-frank.html#cccp)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Andrew Koenig](Andrew_Koenig "Andrew Koenig") (**1978**). *Light-Pen used in game*. [Personal Computing, Vol. 2, No. 5](Personal_Computing#2_5 "Personal Computing"), pp. 112
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Steven M. Bellovin - Informal Bio](https://www.cs.columbia.edu/~smb/informal-bio.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [USENIX Awards](http://static.usenix.org/directory/awards.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> John C. Devlin (**1970**). *[Chess Computer Loses Game in a King‐Size Blunder](https://www.nytimes.com/1970/09/02/archives/chess-computer-loses-game-in-a-kingsize-blunder.html)*. [New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), September 02, 1970, Thanks to [Monty Newborn](Monroe_Newborn "Monroe Newborn") for recognizing people
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Steven M. Bellovin - Publications](https://www.cs.columbia.edu/~smb/papers/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [DBLP: Steven M. Bellovin](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bellovin:Steven_M=.html)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Kerberos (protocol) from Wikipedia](https://en.wikipedia.org/wiki/Kerberos_%28protocol%29)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Markus Hess from Wikipedia](https://en.wikipedia.org/wiki/Markus_Hess)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Net neutrality in the United States - Wikipedia](https://en.wikipedia.org/wiki/Net_neutrality_in_the_United_States)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo Credit: Computer Science department, [Columbia University](Columbia_University "Columbia University"), [Steven Bellovin - WikiCU, the Columbia University wiki encyclopedia](http://www.wikicu.com/Steven_Bellovin)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computing at Columbia Timeline - Aug 3-5, 1971](http://www.columbia.edu/cu/computinghistory/index.html#cccp)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Recollections of CUCC 1968-70 -The CCCP Chess Program](http://www.columbia.edu/cu/computinghistory/elliott-frank.html#cccp)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Andrew Koenig](Andrew_Koenig "Andrew Koenig") (**1978**). *Light-Pen used in game*. [Personal Computing, Vol. 2, No. 5](Personal_Computing#2_5 "Personal Computing"), pp. 112
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Steven M. Bellovin - Informal Bio](https://www.cs.columbia.edu/~smb/informal-bio.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [USENIX Awards](http://static.usenix.org/directory/awards.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> John C. Devlin (**1970**). *[Chess Computer Loses Game in a King‐Size Blunder](https://www.nytimes.com/1970/09/02/archives/chess-computer-loses-game-in-a-kingsize-blunder.html)*. [New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), September 02, 1970, Thanks to [Monty Newborn](Monroe_Newborn "Monroe Newborn") for recognizing people
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Steven M. Bellovin - Publications](https://www.cs.columbia.edu/~smb/papers/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [DBLP: Steven M. Bellovin](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/b/Bellovin:Steven_M=.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Kerberos (protocol) from Wikipedia](https://en.wikipedia.org/wiki/Kerberos_%28protocol%29)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Markus Hess from Wikipedia](https://en.wikipedia.org/wiki/Markus_Hess)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Net neutrality in the United States - Wikipedia](https://en.wikipedia.org/wiki/Net_neutrality_in_the_United_States)
 
 **[Up one level](People "People")**
 

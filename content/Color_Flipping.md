@@ -130,9 +130,9 @@ Rather than flipping the board after each make, [Reinhard Scharnagl](Reinhard_Sc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Peter Jennings](Peter_Jennings "Peter Jennings") (**1976**). *[MicroChess, a Chess playing program for the 6502 Microcomputer](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d8478)*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/4-1.MicroChess_%20Manual_for_6502.Micro-Ware/MicroChessManual.PETER_JENNINGS.062303071.sm.pdf), Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [color-flipped perft](http://www.talkchess.com/forum/viewtopic.php?t=17589) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), November 04, 2007
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computerschach mit monochromen Methoden ?](http://www.open-chess.org/viewtopic.php?f=39&t=1039) by [Reinhard Scharnagl](Reinhard_Scharnagl "Reinhard Scharnagl"), [OpenChess - Deutsches Forum](Computer_Chess_Forums "Computer Chess Forums"), January 27, 2011 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Peter Jennings](Peter_Jennings "Peter Jennings") (**1976**). *[MicroChess, a Chess playing program for the 6502 Microcomputer](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d8478)*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/4-1.MicroChess_%20Manual_for_6502.Micro-Ware/MicroChessManual.PETER_JENNINGS.062303071.sm.pdf), Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [color-flipped perft](http://www.talkchess.com/forum/viewtopic.php?t=17589) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), November 04, 2007
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computerschach mit monochromen Methoden ?](http://www.open-chess.org/viewtopic.php?f=39&t=1039) by [Reinhard Scharnagl](Reinhard_Scharnagl "Reinhard Scharnagl"), [OpenChess - Deutsches Forum](Computer_Chess_Forums "Computer Chess Forums"), January 27, 2011 (German)
 
 **[Up one Level](Chess_Position "Chess Position")**
 

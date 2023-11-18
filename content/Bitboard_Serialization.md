@@ -257,14 +257,14 @@ The less populated move-target subsets are, the less efficient this hashing tech
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Picture gallery "Back in Holland 1941 - 1954"](http://www.mcescher.com/Gallery/gallery-back.htm) from [The Official M.C. Escher Website](http://www.mcescher.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CPW bitscan with reset could someone explain this line?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70202) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), March 14, 2019
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Alternatives to History Heuristics](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=289344&t=29611&sid=74848128f12e45f8883a87c3e6729f75) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 02, 2009
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [LiveWorkSpace(IDE online): C++-3.2 (clang++): 41EaZl](http://liveworkspace.org/code/41EaZl$203)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: C vs ASM](http://www.talkchess.com/forum/viewtopic.php?t=47414&start=4) by [Rein Halbersma](Rein_Halbersma "Rein Halbersma"), [CCC](CCC "CCC"), March 05, 2013
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [GCC Explorer](http://gcc.godbolt.org/) with g++ 4.7 compiler, options -std=c++11 -O3 -march=k8-sse3 -fverbose-asm
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Subject: sliding move generation idea with bitboards](https://www.stmintz.com/ccc/index.php?id=487844) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), February 19, 2006
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Magic Knight- and King-Move Generation](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6099) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), Januar 11, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Picture gallery "Back in Holland 1941 - 1954"](http://www.mcescher.com/Gallery/gallery-back.htm) from [The Official M.C. Escher Website](http://www.mcescher.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CPW bitscan with reset could someone explain this line?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70202) by [Mahmoud Uthman](index.php?title=Mahmoud_Uthman&action=edit&redlink=1 "Mahmoud Uthman (page does not exist)"), [CCC](CCC "CCC"), March 14, 2019
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Alternatives to History Heuristics](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=289344&t=29611&sid=74848128f12e45f8883a87c3e6729f75) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 02, 2009
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [LiveWorkSpace(IDE online): C++-3.2 (clang++): 41EaZl](http://liveworkspace.org/code/41EaZl$203)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: C vs ASM](http://www.talkchess.com/forum/viewtopic.php?t=47414&start=4) by [Rein Halbersma](Rein_Halbersma "Rein Halbersma"), [CCC](CCC "CCC"), March 05, 2013
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GCC Explorer](http://gcc.godbolt.org/) with g++ 4.7 compiler, options -std=c++11 -O3 -march=k8-sse3 -fverbose-asm
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Subject: sliding move generation idea with bitboards](https://www.stmintz.com/ccc/index.php?id=487844) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), February 19, 2006
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Magic Knight- and King-Move Generation](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6099) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), Januar 11, 2007
 
 **[Up one Level](Bitboards "Bitboards")**
 

@@ -56,9 +56,9 @@ After the acquisition of Fidelity Electronics by [Hegener & Glaser](Hegener_%26_
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [1.The Ultra Rare Collection: Flickr](https://www.flickr.com/photos/10261668@N05/sets/72157600923814103/with/859053238/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Phantom Chesster Eyeball](https://www.stmintz.com/ccc/index.php?id=395538) by [Steve B](Steve_Blincoe "Steve Blincoe"), [CCC](CCC "CCC"), November 11, 2004
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fidelity Phantom](https://www.schach-computer.info/wiki/index.php/Fidelity_Phantom) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [1.The Ultra Rare Collection: Flickr](https://www.flickr.com/photos/10261668@N05/sets/72157600923814103/with/859053238/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Phantom Chesster Eyeball](https://www.stmintz.com/ccc/index.php?id=395538) by [Steve B](Steve_Blincoe "Steve Blincoe"), [CCC](CCC "CCC"), November 11, 2004
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fidelity Phantom](https://www.schach-computer.info/wiki/index.php/Fidelity_Phantom) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
 
 **[Up one level](Engines "Engines")**
 

@@ -22,7 +22,7 @@ The development of Bobcat started in the second half of 2008 <a id="cite-note-1"
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: CCT 13: Bobcat by Gunnar Harms/Denis Mendoza has entered](http://www.talkchess.com/forum3/viewtopic.php?t=37795&start=5) by Gunnar Harms, [CCC](CCC "CCC"), January 26, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: CCT 13: Bobcat by Gunnar Harms/Denis Mendoza has entered](http://www.talkchess.com/forum3/viewtopic.php?t=37795&start=5) by Gunnar Harms, [CCC](CCC "CCC"), January 26, 2011
 
 **[Up one level](People "People")**
 

@@ -66,10 +66,10 @@ a [chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") [modul
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sparc 4MB OSA Module](https://www.flickr.com/photos/10261668@N05/858185187/in/set-72157600922172552) from [Scisys/Saitek | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922172552/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: CSS Article Translation](https://groups.google.com/d/msg/rec.games.chess.computer/1TETxhdJwXA/MFUDs8SUIN0J) by [mclane](Thorsten_Czub "Thorsten Czub"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 16, 1997
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Gardner Hendrie](http://www.computerhistory.org/trustee/gardner-hendrie) (**2005**). *Oral History of Kathe and Dan Spracklen*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/oral-history/spacklen.oral_history.2005.102630821/spracklen.oral_history_transcript.2005.102630821.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Madrid 1992, Chess, Round 5, Game 7](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=58&round=5&id=7) from the [ICGA](ICGA "ICGA") [Tournament Database](https://www.game-ai-forum.org/icga-tournaments/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sparc 4MB OSA Module](https://www.flickr.com/photos/10261668@N05/858185187/in/set-72157600922172552) from [Scisys/Saitek | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922172552/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: CSS Article Translation](https://groups.google.com/d/msg/rec.games.chess.computer/1TETxhdJwXA/MFUDs8SUIN0J) by [mclane](Thorsten_Czub "Thorsten Czub"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 16, 1997
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gardner Hendrie](http://www.computerhistory.org/trustee/gardner-hendrie) (**2005**). *Oral History of Kathe and Dan Spracklen*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/oral-history/spacklen.oral_history.2005.102630821/spracklen.oral_history_transcript.2005.102630821.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Madrid 1992, Chess, Round 5, Game 7](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=58&round=5&id=7) from the [ICGA](ICGA "ICGA") [Tournament Database](https://www.game-ai-forum.org/icga-tournaments/)
 
 **[Up one level](Engines "Engines")**
 

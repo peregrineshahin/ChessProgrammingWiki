@@ -32,9 +32,9 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [4.Novag: Flickr](http://www.flickr.com/photos/10261668@N05/sets/72157600922171918/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Novag - Chess Champion Chess Partner 2000](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1980%20%5BA-2410%5D%20Novag%20-%20Chess%20Champion%20Chess%20Partner%202000.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch and German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Partner 2000](http://www.chesscomputeruk.com/html/chess_partner_2000.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [4.Novag: Flickr](http://www.flickr.com/photos/10261668@N05/sets/72157600922171918/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Novag - Chess Champion Chess Partner 2000](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1980%20%5BA-2410%5D%20Novag%20-%20Chess%20Champion%20Chess%20Partner%202000.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch and German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Partner 2000](http://www.chesscomputeruk.com/html/chess_partner_2000.html) by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one level](Engines "Engines")**
 

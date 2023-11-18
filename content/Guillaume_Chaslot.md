@@ -56,13 +56,13 @@ He holds a Ph.D. in 2010 from [Maastricht University](Maastricht_University "Maa
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Guillaume Chaslot | LinkedIn](https://www.linkedin.com/pub/guillaume-chaslot/82/4b9/677)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AlgoTransparency](https://algotransparency.org/en/demarche.html?candidat=Jean%20Luc%20Melenchon&file=ytrecos-presidentielle-2017-06-10)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bayes Impact | Data for good](https://www.bayesimpact.org/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Guillaume Chaslot (**2010**). *Monte-Carlo Tree Search*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](https://project.dke.maastrichtuniversity.nl/games/files/phd/Chaslot_thesis.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [MoGo: a software for the Game of Go](http://www.lri.fr/~teytaud/mogo.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Guillaume Chaslot](https://dblp.uni-trier.de/pers/hd/c/Chaslot:Guillaume)\]
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The Settlers of Catan from Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_of_Catan)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Guillaume Chaslot | LinkedIn](https://www.linkedin.com/pub/guillaume-chaslot/82/4b9/677)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AlgoTransparency](https://algotransparency.org/en/demarche.html?candidat=Jean%20Luc%20Melenchon&file=ytrecos-presidentielle-2017-06-10)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bayes Impact | Data for good](https://www.bayesimpact.org/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Guillaume Chaslot (**2010**). *Monte-Carlo Tree Search*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](https://project.dke.maastrichtuniversity.nl/games/files/phd/Chaslot_thesis.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [MoGo: a software for the Game of Go](http://www.lri.fr/~teytaud/mogo.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Guillaume Chaslot](https://dblp.uni-trier.de/pers/hd/c/Chaslot:Guillaume)\]
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Settlers of Catan from Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_of_Catan)
 
 **[Up one level](People "People")**
 

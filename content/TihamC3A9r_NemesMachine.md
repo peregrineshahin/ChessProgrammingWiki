@@ -63,9 +63,9 @@ Block chart of Mate-in-two solver <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nemes Tihamér a Wikipédiából](https://hu.wikipedia.org/wiki/Nemes_Tiham%C3%A9r) (Hungarian)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> A design of a theoretical chess-machine to solve chess exercises in two steps, from [The Hungarian Ljapunov: Dr. Tihamér NEMES (1895-1960)](http://conf.nsc.ru/files/conferences/Lyap-100/presentation/69963/89062/Kovach_prez.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> A theoretical chess-machine to solve chess exercises in two steps. Block-chart, from [The Hungarian Ljapunov: Dr. Tihamér NEMES (1895-1960)](http://conf.nsc.ru/files/conferences/Lyap-100/presentation/69963/89062/Kovach_prez.pdf) (pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nemes Tihamér a Wikipédiából](https://hu.wikipedia.org/wiki/Nemes_Tiham%C3%A9r) (Hungarian)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> A design of a theoretical chess-machine to solve chess exercises in two steps, from [The Hungarian Ljapunov: Dr. Tihamér NEMES (1895-1960)](http://conf.nsc.ru/files/conferences/Lyap-100/presentation/69963/89062/Kovach_prez.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> A theoretical chess-machine to solve chess exercises in two steps. Block-chart, from [The Hungarian Ljapunov: Dr. Tihamér NEMES (1895-1960)](http://conf.nsc.ru/files/conferences/Lyap-100/presentation/69963/89062/Kovach_prez.pdf) (pdf)
 
 **[Up one level](People "People")**
 

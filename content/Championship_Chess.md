@@ -21,8 +21,8 @@ Championship Chess was likely based on the [Artic Computing](Artic_Computing "Ar
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Championship Chess: Software for the Timex Sinclair 1500, Timex Sinclair 1000 and Zx-81 Computers: Thornton, Chris: Amazon.com](https://www.amazon.com/Championship-Chess-Software-Sinclair-Computers/dp/0835907384)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Reston Publishing Company – Timex/Sinclair Computers](https://www.timexsinclair.com/company/reston-publishing-company/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Championship Chess: Software for the Timex Sinclair 1500, Timex Sinclair 1000 and Zx-81 Computers: Thornton, Chris: Amazon.com](https://www.amazon.com/Championship-Chess-Software-Sinclair-Computers/dp/0835907384)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Reston Publishing Company – Timex/Sinclair Computers](https://www.timexsinclair.com/company/reston-publishing-company/)
 
 **[Up one Level](Engines "Engines")**
 

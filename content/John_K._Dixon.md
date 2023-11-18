@@ -47,8 +47,8 @@ He received his MS in physics in 1966 and a Ph.D. in computer science in 1970 at
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John Kent Dixon (born September 1, 1934), American computer scientist | Prabook](https://prabook.com/web/john_kent.dixon/360857)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: John K. Dixon](https://dblp.uni-trier.de/pers/hd/d/Dixon:John_K=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John Kent Dixon (born September 1, 1934), American computer scientist | Prabook](https://prabook.com/web/john_kent.dixon/360857)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: John K. Dixon](https://dblp.uni-trier.de/pers/hd/d/Dixon:John_K=.html)
 
 **[Up one level](Engines "Engines")**
 

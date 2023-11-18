@@ -35,8 +35,8 @@ Along with [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz") he developed of the chess progr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [dblp: Valentin Rottmann](https://dblp.uni-trier.de/pers/hd/r/Rottmann:Valentin)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [dblp: Valentin Rottmann](https://dblp.uni-trier.de/pers/hd/r/Rottmann:Valentin)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

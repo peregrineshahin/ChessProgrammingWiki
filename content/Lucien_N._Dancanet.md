@@ -21,8 +21,8 @@ Along with [Denis Dancanet](Denis_Dancanet "Denis Dancanet"), Lucien N. Dancanet
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lucien Dancanet - Temp Security Consultant @ Morrison & Foerster LLP | ZoomInfo.com](https://www.zoominfo.com/p/Lucien-Dancanet/-1212572090)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [5th World Microcomputer Chess Championship (Amateur) - Amsterdam 1985 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=156)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lucien Dancanet - Temp Security Consultant @ Morrison & Foerster LLP | ZoomInfo.com](https://www.zoominfo.com/p/Lucien-Dancanet/-1212572090)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [5th World Microcomputer Chess Championship (Amateur) - Amsterdam 1985 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=156)
 
 **[Up one Level](People "People")**
 

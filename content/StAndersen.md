@@ -31,7 +31,7 @@ a [WinBoard](WinBoard "WinBoard") compliant chess engine by [Erik Robertsson](Er
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [New winboard program !!!! StAndersen !!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=32537) by Alexandre Côme, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 19, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [New winboard program !!!! StAndersen !!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=32537) by Alexandre Côme, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 19, 2000
 
 **[Up one Level](Engines "Engines")**
 

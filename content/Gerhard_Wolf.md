@@ -19,8 +19,8 @@ He is author of the chess program [David](David "David") which played the [ACM 1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Frantz' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=47)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SCHACH (Graz) : "Grazer nehmen an Computer - SCHACH - WM in Stockholm teil": Wahrheit v. 3.8.1974, S. 7, Kataloge der Universitäten Graz, Linz, Bratislava und Innsbruck](http://webapp.uibk.ac.at/alo_cat/card.jsp?id=12537152&pos=43)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Frantz' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=47)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SCHACH (Graz) : "Grazer nehmen an Computer - SCHACH - WM in Stockholm teil": Wahrheit v. 3.8.1974, S. 7, Kataloge der Universitäten Graz, Linz, Bratislava und Innsbruck](http://webapp.uibk.ac.at/alo_cat/card.jsp?id=12537152&pos=43)
 
 **[Up one Level](People "People")**
 

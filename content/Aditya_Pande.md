@@ -20,9 +20,9 @@ an Indian software engineer affiliated with [Google](index.php?title=Google&acti
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aditya Pande | LinkedIn](https://www.linkedin.com/in/adityapande1/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Aditya Pande | LinkedIn](https://www.linkedin.com/in/adityapande1/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - pandeaditya/Conqueror](https://github.com/pandeaditya/Conqueror)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aditya Pande | LinkedIn](https://www.linkedin.com/in/adityapande1/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Aditya Pande | LinkedIn](https://www.linkedin.com/in/adityapande1/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - pandeaditya/Conqueror](https://github.com/pandeaditya/Conqueror)
 
 **[Up one level](People "People")**
 

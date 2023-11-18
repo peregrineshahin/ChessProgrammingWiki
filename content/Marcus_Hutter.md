@@ -61,15 +61,15 @@ a German physicist and computer scientist, professor in the *Research School of 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [HomePage of Marcus Hutter](http://www.hutter1.net/index.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Marcus Hutter (**2005**). *[Universal Artificial Intelligence](http://www.hutter1.net/ai/uaibook.htm)*. Sequential Decisions based on Algorithmic Probability, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Algorithmic information theory - Scholarpedia](http://www.scholarpedia.org/article/Algorithmic_information_theory)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The AIXI Model in One Line](http://www.hutter1.net/ai/uaibook.htm#oneline)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Publications of Marcus Hutter](http://www.hutter1.net/official/publ.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Marcus Hutter:](http://www.informatik.uni-trier.de/~ley/pers/hd/h/Hutter:Marcus.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [No free lunch in search and optimization - Wikipedia](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Occam's razor from Wikipedia](https://en.wikipedia.org/wiki/Occam%27s_razor)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Markov decision process from Wikipedia](https://en.wikipedia.org/wiki/Markov_decision_process)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [HomePage of Marcus Hutter](http://www.hutter1.net/index.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Marcus Hutter (**2005**). *[Universal Artificial Intelligence](http://www.hutter1.net/ai/uaibook.htm)*. Sequential Decisions based on Algorithmic Probability, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Algorithmic information theory - Scholarpedia](http://www.scholarpedia.org/article/Algorithmic_information_theory)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The AIXI Model in One Line](http://www.hutter1.net/ai/uaibook.htm#oneline)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Publications of Marcus Hutter](http://www.hutter1.net/official/publ.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Marcus Hutter:](http://www.informatik.uni-trier.de/~ley/pers/hd/h/Hutter:Marcus.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [No free lunch in search and optimization - Wikipedia](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Occam's razor from Wikipedia](https://en.wikipedia.org/wiki/Occam%27s_razor)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Markov decision process from Wikipedia](https://en.wikipedia.org/wiki/Markov_decision_process)
 
 **[Up one level](People "People")**
 

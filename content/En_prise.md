@@ -26,8 +26,8 @@ With [pins](Pin "Pin"), [overloading](Overloading "Overloading"), and other tact
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Earliest Occurrences of Chess Terms](http://www.chesshistory.com/winter/extra/earliest.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> The ambiguous term [hanging pawns](Hanging_Pawns "Hanging Pawns") refers a [duo](</Duo_Trio_Quart_(Bitboards)> "Duo Trio Quart (Bitboards)") of [open](</Open_Pawns_(Bitboards)> "Open Pawns (Bitboards)") and [half-isolated](</Isolated_Pawns_(Bitboards)#IsolanisSetWise> "Isolated Pawns (Bitboards)") pawns
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Earliest Occurrences of Chess Terms](http://www.chesshistory.com/winter/extra/earliest.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> The ambiguous term [hanging pawns](Hanging_Pawns "Hanging Pawns") refers a [duo](</Duo_Trio_Quart_(Bitboards)> "Duo Trio Quart (Bitboards)") of [open](</Open_Pawns_(Bitboards)> "Open Pawns (Bitboards)") and [half-isolated](</Isolated_Pawns_(Bitboards)#IsolanisSetWise> "Isolated Pawns (Bitboards)") pawns
 
 **[Up one Level](Tactics "Tactics")**
 

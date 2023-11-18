@@ -44,8 +44,8 @@ The Constellation applied the [attack map / offset map](Vector_Attacks "Vector A
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Novag Constellation](http://www.xs4all.nl/%7Etluif/chescom/EngNovConst.html) by [Tom Luif](Tom_Luif "Tom Luif")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Kittinger](David_Kittinger "David Kittinger"), [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports"), pp. 15-33
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Novag Constellation](http://www.xs4all.nl/%7Etluif/chescom/EngNovConst.html) by [Tom Luif](Tom_Luif "Tom Luif")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Kittinger](David_Kittinger "David Kittinger"), [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports"), pp. 15-33
 
 **[Up one level](Engines "Engines")**
 

@@ -36,10 +36,10 @@ Caddell Chess consists of a *Raspberry Pi 3 Model B+* <a id="cite-note-2" href="
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Caddell Chess Computer](https://caddellchess.github.io/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Buy a Raspberry Pi 3 Model B+ – Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Home - Nextion](https://nextion.tech/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - caddellchess/caddell-chess](https://github.com/caddellchess/caddell-chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Caddell Chess Computer](https://caddellchess.github.io/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Buy a Raspberry Pi 3 Model B+ – Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Home - Nextion](https://nextion.tech/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - caddellchess/caddell-chess](https://github.com/caddellchess/caddell-chess)
 
 **[Up one level](Dedicated_Chess_Computers "Dedicated Chess Computers")**
 

@@ -50,14 +50,14 @@ A 5×5 board is the smallest board on which one can set up all types of chess pi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Frederic Prost homepage - Page personnelle de Frederic Prost](http://membres-lig.imag.fr/prost/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Twilight Chess](http://membres-lig.imag.fr/prost/Twilight_Chess/index.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mini Chess Resolution](http://membres-lig.imag.fr/prost/MiniChessResolution/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Gardner Chess Engine](http://membres-lig.imag.fr/prost/MiniChessResolution/Gardner/index.html) based on [Stockfish](Stockfish "Stockfish")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Mehdi Mhalla](index.php?title=Mehdi_Mhalla&action=edit&redlink=1 "Mehdi Mhalla (page does not exist)"), Frédéric Prost (**2013**). *[Gardner’s Minichess Variant is Solved](http://arxiv-web3.library.cornell.edu/abs/1307.7118)*. [ICGA Journal, Vol. 36, No. 4](ICGA_Journal#36_4 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gardner's minichess solved](http://www.open-chess.org/viewtopic.php?f=5&t=2414) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), August 29, 2013
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Frédéric Prost - Bibliographie personnelle](http://membres-lig.imag.fr/prost/publications.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Frédéric Prost](https://dblp.uni-trier.de/pers/hd/p/Prost:Fr=eacute=d=eacute=ric)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Frederic Prost homepage - Page personnelle de Frederic Prost](http://membres-lig.imag.fr/prost/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Twilight Chess](http://membres-lig.imag.fr/prost/Twilight_Chess/index.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mini Chess Resolution](http://membres-lig.imag.fr/prost/MiniChessResolution/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Gardner Chess Engine](http://membres-lig.imag.fr/prost/MiniChessResolution/Gardner/index.html) based on [Stockfish](Stockfish "Stockfish")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mehdi Mhalla](index.php?title=Mehdi_Mhalla&action=edit&redlink=1 "Mehdi Mhalla (page does not exist)"), Frédéric Prost (**2013**). *[Gardner’s Minichess Variant is Solved](http://arxiv-web3.library.cornell.edu/abs/1307.7118)*. [ICGA Journal, Vol. 36, No. 4](ICGA_Journal#36_4 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gardner's minichess solved](http://www.open-chess.org/viewtopic.php?f=5&t=2414) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), August 29, 2013
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Frédéric Prost - Bibliographie personnelle](http://membres-lig.imag.fr/prost/publications.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Frédéric Prost](https://dblp.uni-trier.de/pers/hd/p/Prost:Fr=eacute=d=eacute=ric)
 
 **[Up one level](People "People")**
 

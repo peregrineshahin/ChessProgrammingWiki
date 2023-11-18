@@ -82,14 +82,14 @@ are compact endgame tablebases with game theoretical values of one or two bits p
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1999**). *Knowledgeable Encoding and Querying of Endgame Databases.* [ICCA Journal, Vol. 22, No. 2](ICGA_Journal#22_2 "ICGA Journal"), [ps](http://people.csail.mit.edu/heinz/ps/know_edb.ps.gz)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> \[Gaviota TBs [0.1.6.1](http://www.talkchess.com/forum/viewtopic.php?t=32835), bitbase-like interface\] by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), February 22, 2010
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Generating egtbs ICGAJ](https://www.stmintz.com/ccc/index.php?id=200335) by [Tony Werten](Tony_van_Roon-Werten "Tony van Roon-Werten"), [CCC](CCC "CCC"), December 04, 2001, with reference to [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by [Urban Koistinen](Urban_Koistinen "Urban Koistinen")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by [Urban Koistinen](Urban_Koistinen "Urban Koistinen")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ren Wu](Ren_Wu "Ren Wu"), [Don Beal](Don_Beal "Don Beal") (**2001**). *Fast, Memory-efficient Retrograde Algorithms*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [kervinck/pfkpk · GitHub](https://github.com/kervinck/pfkpk)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Scorpio 6men EGBB Now available](http://www.talkchess.com/forum/viewtopic.php?t=50894) by [Joshua Shriver](index.php?title=Joshua_Shriver&action=edit&redlink=1 "Joshua Shriver (page does not exist)"), [CCC](CCC "CCC"), January 14, 2014
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a>  [Yet another KPK endgame table generator: pfkpk](http://www.talkchess.com/forum/viewtopic.php?t=57517) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [CCC](CCC "CCC"), September 05, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1999**). *Knowledgeable Encoding and Querying of Endgame Databases.* [ICCA Journal, Vol. 22, No. 2](ICGA_Journal#22_2 "ICGA Journal"), [ps](http://people.csail.mit.edu/heinz/ps/know_edb.ps.gz)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> \[Gaviota TBs [0.1.6.1](http://www.talkchess.com/forum/viewtopic.php?t=32835), bitbase-like interface\] by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), February 22, 2010
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Generating egtbs ICGAJ](https://www.stmintz.com/ccc/index.php?id=200335) by [Tony Werten](Tony_van_Roon-Werten "Tony van Roon-Werten"), [CCC](CCC "CCC"), December 04, 2001, with reference to [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by [Urban Koistinen](Urban_Koistinen "Urban Koistinen")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by [Urban Koistinen](Urban_Koistinen "Urban Koistinen")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ren Wu](Ren_Wu "Ren Wu"), [Don Beal](Don_Beal "Don Beal") (**2001**). *Fast, Memory-efficient Retrograde Algorithms*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [kervinck/pfkpk · GitHub](https://github.com/kervinck/pfkpk)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Scorpio 6men EGBB Now available](http://www.talkchess.com/forum/viewtopic.php?t=50894) by [Joshua Shriver](index.php?title=Joshua_Shriver&action=edit&redlink=1 "Joshua Shriver (page does not exist)"), [CCC](CCC "CCC"), January 14, 2014
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a>  [Yet another KPK endgame table generator: pfkpk](http://www.talkchess.com/forum/viewtopic.php?t=57517) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [CCC](CCC "CCC"), September 05, 2015
 
 **[Up one level](Endgame_Tablebases "Endgame Tablebases")**
 

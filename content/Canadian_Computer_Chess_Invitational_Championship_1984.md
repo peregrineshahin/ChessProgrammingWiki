@@ -75,7 +75,7 @@ The **Canadian Computer Chess Invitational Championship 1984**, July 27-29, [198
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Danny Kopec](Danny_Kopec "Danny Kopec") (**1984**). *The Canadian Computer Chess Invitational Championship (CCCIC) 1984*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 7, No. 3
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Danny Kopec](Danny_Kopec "Danny Kopec") (**1984**). *The Canadian Computer Chess Invitational Championship (CCCIC) 1984*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 7, No. 3
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

@@ -40,10 +40,10 @@ Viktor participated at the [First World Microcomputer Chess Championship](WMCCC_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [37th Chess Olympiad](https://en.wikipedia.org/wiki/37th_Chess_Olympiad), [WCCC 2006](WCCC_2006 "WCCC 2006"), [Turin](https://en.wikipedia.org/wiki/Turin), May 25, 2006
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Schach dem Computer | HNF Blog](https://blog.hnf.de/schach-dem-computer/) with comment by Herbert Bruderer, August 24, 2018 (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [London 1980 - Chess - Round 2 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=13&round=2&id=4)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [37th Chess Olympiad](https://en.wikipedia.org/wiki/37th_Chess_Olympiad), [WCCC 2006](WCCC_2006 "WCCC 2006"), [Turin](https://en.wikipedia.org/wiki/Turin), May 25, 2006
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Schach dem Computer | HNF Blog](https://blog.hnf.de/schach-dem-computer/) with comment by Herbert Bruderer, August 24, 2018 (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [London 1980 - Chess - Round 2 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=13&round=2&id=4)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html)
 
 **[Up one level](Engines "Engines")**
 

@@ -102,11 +102,11 @@ The TLCV client is written in [Visual Basic](Basic#VB "Basic") with an own [GUI]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WinBoard - Load and Save Options](http://hgm.nubati.net/xboard/winboard/help/html/15.htm), see /debug and /engineDebugOutput number
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tom's Live Chess Viewer](https://web.archive.org/web/20180308210601/http://home.pacific.net.au/~tommyinoz/tlcv.html) by [Thomas McBurney](Thomas_McBurney "Thomas McBurney") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [FireFly's Home page including WBROG and REGO](https://web.archive.org/web/20171016195126/http://fireflychess.dyndns.pro/JQuery/FF_JQ_UI.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2017)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - kmar/livius: livius - a Qt-based TLCV-compatible live chess viewer](https://github.com/kmar/livius)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [livius/tlcvclient.cpp at master · kmar/livius · GitHub](https://github.com/kmar/livius/blob/master/livius/tlcvclient.cpp)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WinBoard - Load and Save Options](http://hgm.nubati.net/xboard/winboard/help/html/15.htm), see /debug and /engineDebugOutput number
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tom's Live Chess Viewer](https://web.archive.org/web/20180308210601/http://home.pacific.net.au/~tommyinoz/tlcv.html) by [Thomas McBurney](Thomas_McBurney "Thomas McBurney") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [FireFly's Home page including WBROG and REGO](https://web.archive.org/web/20171016195126/http://fireflychess.dyndns.pro/JQuery/FF_JQ_UI.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), 2017)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - kmar/livius: livius - a Qt-based TLCV-compatible live chess viewer](https://github.com/kmar/livius)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [livius/tlcvclient.cpp at master · kmar/livius · GitHub](https://github.com/kmar/livius/blob/master/livius/tlcvclient.cpp)
 
 **[Up one Level](Web_Broadcast "Web Broadcast")**
 

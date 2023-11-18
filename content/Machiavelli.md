@@ -47,13 +47,13 @@ In their 1961 article *Machines that play games* <a id="cite-note-3" href="#cite
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Prince from Wikipedia](https://en.wikipedia.org/wiki/The_Prince)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chronology of Computing](http://www.fbi.fh-darmstadt.de/fileadmin/vmi/chronologie/index.htm) compiled by [David Singmaster](Mathematician#DSingmaster "Mathematician")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [John Maynard Smith](John_Maynard_Smith "John Maynard Smith"), [Donald Michie](Donald_Michie "Donald Michie") (**1961**). *Machines that play games*. [New Scientist](https://en.wikipedia.org/wiki/New_Scientist), 12, 367-9. [google books](http://books.google.com/books?id=lo7r0zX_T0sC&lpg=PA369&dq=Machines%20that%20play%20games.%201961%2C%20New%20Scientist%2C%2012&pg=PA367#v=onepage&q&f=false)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Donald Michie](Donald_Michie "Donald Michie") (**1966**). *Game Playing and Game Learning Automata.* Advances in Programming and Non-Numerical Computation, [Leslie Fox](https://en.wikipedia.org/wiki/Leslie_Fox) (ed.), pp 183-200. Oxford, Pergamon. » Includes Appendix: *Rules of SOMAC* by [John Maynard Smith](John_Maynard_Smith "John Maynard Smith")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Leslie Fox](https://en.wikipedia.org/wiki/Leslie_Fox) (**1966**). *Advances in programming and non-numerical computation*. Pergamon
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Donald Michie](Donald_Michie "Donald Michie") (**1974**). *On Machine Intelligence*. Edinburgh: University Press, ISBN 10: 085224262X, ISBN 13: 9780852242629, [abebooks.com](http://www.abebooks.com/servlet/SearchResults?isbn=085224262X), [alibris.com](http://www.alibris.com/search/books/qwork/4836304/used/On%20machine%20intelligence), [biblio.com](http://www.biblio.com/isbn/9780852242629.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> see [Swap-off](Helmut_Richter#Swapoff "Helmut Richter") by [Helmut Richter](Helmut_Richter "Helmut Richter")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Prince from Wikipedia](https://en.wikipedia.org/wiki/The_Prince)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chronology of Computing](http://www.fbi.fh-darmstadt.de/fileadmin/vmi/chronologie/index.htm) compiled by [David Singmaster](Mathematician#DSingmaster "Mathematician")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [John Maynard Smith](John_Maynard_Smith "John Maynard Smith"), [Donald Michie](Donald_Michie "Donald Michie") (**1961**). *Machines that play games*. [New Scientist](https://en.wikipedia.org/wiki/New_Scientist), 12, 367-9. [google books](http://books.google.com/books?id=lo7r0zX_T0sC&lpg=PA369&dq=Machines%20that%20play%20games.%201961%2C%20New%20Scientist%2C%2012&pg=PA367#v=onepage&q&f=false)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Donald Michie](Donald_Michie "Donald Michie") (**1966**). *Game Playing and Game Learning Automata.* Advances in Programming and Non-Numerical Computation, [Leslie Fox](https://en.wikipedia.org/wiki/Leslie_Fox) (ed.), pp 183-200. Oxford, Pergamon. » Includes Appendix: *Rules of SOMAC* by [John Maynard Smith](John_Maynard_Smith "John Maynard Smith")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Leslie Fox](https://en.wikipedia.org/wiki/Leslie_Fox) (**1966**). *Advances in programming and non-numerical computation*. Pergamon
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Donald Michie](Donald_Michie "Donald Michie") (**1974**). *On Machine Intelligence*. Edinburgh: University Press, ISBN 10: 085224262X, ISBN 13: 9780852242629, [abebooks.com](http://www.abebooks.com/servlet/SearchResults?isbn=085224262X), [alibris.com](http://www.alibris.com/search/books/qwork/4836304/used/On%20machine%20intelligence), [biblio.com](http://www.biblio.com/isbn/9780852242629.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> see [Swap-off](Helmut_Richter#Swapoff "Helmut Richter") by [Helmut Richter](Helmut_Richter "Helmut Richter")
 
 **[Up one Level](Engines "Engines")**
 

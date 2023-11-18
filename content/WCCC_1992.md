@@ -311,25 +311,25 @@ The last day of the tournament saw the workshop under the title *The Impact of C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Technical University of Madrid from Wikipedia](https://en.wikipedia.org/wiki/Technical_University_of_Madrid)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1992**). *The 7th World Computer-Chess Championship. Report on the Tournament*. [ICCA Journal, Vol. 15, No. 4](ICGA_Journal#15_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ChessMachine from Wikipedia](https://en.wikipedia.org/wiki/ChessMachine)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Zugzwang's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=54)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [7th World Computer Chess Championship](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=58) [ICGA](ICGA "ICGA") tournament site
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [World Computer Chess Championship - 7th WCCC - 1992 Madrid](http://www.mark-weeks.com/chess/92wc$tix.htm) by [Mark Weeks](Mark_Weeks "Mark Weeks")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1992**). *The 7th World Computer-Chess Championship. Report on the Tournament*. [ICCA Journal, Vol. 15, No. 4](ICGA_Journal#15_4 "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Madrid 1992 - Chess - Round 2 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=58&round=2&id=7)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> Photo WCCC 1992 from [Ed Schröder's](Ed_Schroder "Ed Schroder") [Historic Picture Site](http://members.home.nl/matador/chess820.htm)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Chessmachine Schroder twenty years later](http://www.talkchess.com/forum/viewtopic.php?t=45872) by Javier Ros, [CCC](CCC "CCC"), November 06, 2012
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Madrid 1992, Chess, Round 4, Game 11](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=58&round=4&id=11)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [7. WCCC Madrid 1992](http://www.schach-computer.info/wiki/index.php/7._WCCC_Madrid_1992) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> Image from [ChessMachine](http://rebel13.nl/dedicated/chessmachine.html) from [Rebel Pure Nostalgica](http://rebel13.nl/index.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Madrid 1992, Chess, Round 5, Game 7](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=58&round=5&id=7) from the [ICGA](ICGA "ICGA") [Tournament Database](https://www.game-ai-forum.org/icga-tournaments/)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Computerschaak pagina 1](http://www.csvnsupplementsite.nl/CSVNPAGINA1.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1992**). *Chess and AI: Workshop Report.* [ICCA Journal, Vol. 15, No. 4](ICGA_Journal#15_4 "ICGA Journal")
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"): "[Wedgitude](https://en.wiktionary.org/wiki/wedgitude) is not an accepted English word. It is a bit of [hacker](https://en.wikipedia.org/wiki/Hacker_%28term%29) jargon, coined, I believe, by the famous hacker [Bill Gosper](Bill_Gosper "Bill Gosper"). We say a system is [wedged](https://en.wiktionary.org/wiki/wedge) if there exists a binding, a clashing deep within its bowels, that prevents progress you would otherwise expect. Wedgitude, then, by a well-known English transformation, is the state of being wedged".
-18. <a id="cite-ref-18" href="#cite-note-18">[18]</a> Revised version of the paper *Comparison and Testing of Six Commercial Computer Chess Programs*, presented at the workshop by [Tony Marsland](Tony_Marsland "Tony Marsland")
-19. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [Marion Tinsley vs. Chinook - Wikipedia](https://en.wikipedia.org/wiki/Marion_Tinsley#Vs._Chinook)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Technical University of Madrid from Wikipedia](https://en.wikipedia.org/wiki/Technical_University_of_Madrid)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1992**). *The 7th World Computer-Chess Championship. Report on the Tournament*. [ICCA Journal, Vol. 15, No. 4](ICGA_Journal#15_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ChessMachine from Wikipedia](https://en.wikipedia.org/wiki/ChessMachine)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Zugzwang's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=54)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [7th World Computer Chess Championship](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=58) [ICGA](ICGA "ICGA") tournament site
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [World Computer Chess Championship - 7th WCCC - 1992 Madrid](http://www.mark-weeks.com/chess/92wc$tix.htm) by [Mark Weeks](Mark_Weeks "Mark Weeks")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1992**). *The 7th World Computer-Chess Championship. Report on the Tournament*. [ICCA Journal, Vol. 15, No. 4](ICGA_Journal#15_4 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Madrid 1992 - Chess - Round 2 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=58&round=2&id=7)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> Photo WCCC 1992 from [Ed Schröder's](Ed_Schroder "Ed Schroder") [Historic Picture Site](http://members.home.nl/matador/chess820.htm)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Chessmachine Schroder twenty years later](http://www.talkchess.com/forum/viewtopic.php?t=45872) by Javier Ros, [CCC](CCC "CCC"), November 06, 2012
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Madrid 1992, Chess, Round 4, Game 11](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=58&round=4&id=11)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [7. WCCC Madrid 1992](http://www.schach-computer.info/wiki/index.php/7._WCCC_Madrid_1992) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> Image from [ChessMachine](http://rebel13.nl/dedicated/chessmachine.html) from [Rebel Pure Nostalgica](http://rebel13.nl/index.html) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Madrid 1992, Chess, Round 5, Game 7](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=58&round=5&id=7) from the [ICGA](ICGA "ICGA") [Tournament Database](https://www.game-ai-forum.org/icga-tournaments/)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Computerschaak pagina 1](http://www.csvnsupplementsite.nl/CSVNPAGINA1.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1992**). *Chess and AI: Workshop Report.* [ICCA Journal, Vol. 15, No. 4](ICGA_Journal#15_4 "ICGA Journal")
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"): "[Wedgitude](https://en.wiktionary.org/wiki/wedgitude) is not an accepted English word. It is a bit of [hacker](https://en.wikipedia.org/wiki/Hacker_%28term%29) jargon, coined, I believe, by the famous hacker [Bill Gosper](Bill_Gosper "Bill Gosper"). We say a system is [wedged](https://en.wiktionary.org/wiki/wedge) if there exists a binding, a clashing deep within its bowels, that prevents progress you would otherwise expect. Wedgitude, then, by a well-known English transformation, is the state of being wedged".
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> Revised version of the paper *Comparison and Testing of Six Commercial Computer Chess Programs*, presented at the workshop by [Tony Marsland](Tony_Marsland "Tony Marsland")
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Marion Tinsley vs. Chinook - Wikipedia](https://en.wikipedia.org/wiki/Marion_Tinsley#Vs._Chinook)
 
 **[Up one Level](World_Computer_Chess_Championship "World Computer Chess Championship")**
 

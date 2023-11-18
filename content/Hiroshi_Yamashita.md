@@ -32,10 +32,10 @@ a Japanese computer scientist, computer games programmer, and associated enginee
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image captured from [10th Day Image 5](http://www.geocities.jp/hideki_katoh/13days/10th_day/slides/DSCF3185.html), [2008 Gallery](http://www.geocities.jp/hideki_katoh/13days/index.html) by [Hideki Kato](Hideki_Kato "Hideki Kato"), [13th Computer Olympiad](13th_Computer_Olympiad "13th Computer Olympiad")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AI Shogi - PlayStation Portable - GameSpy](http://psp.gamespy.com/playstation-portable/ai-series-shougo/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer Olympiad in Torino, Italy](http://www.yss-aya.com/photo/20060525torino/index06.html), Photo gallery by Hiroshi Yamashita
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Go Program "Katsunari"](http://homepage1.nifty.com/Ike/katsunari/index_e.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image captured from [10th Day Image 5](http://www.geocities.jp/hideki_katoh/13days/10th_day/slides/DSCF3185.html), [2008 Gallery](http://www.geocities.jp/hideki_katoh/13days/index.html) by [Hideki Kato](Hideki_Kato "Hideki Kato"), [13th Computer Olympiad](13th_Computer_Olympiad "13th Computer Olympiad")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AI Shogi - PlayStation Portable - GameSpy](http://psp.gamespy.com/playstation-portable/ai-series-shougo/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer Olympiad in Torino, Italy](http://www.yss-aya.com/photo/20060525torino/index06.html), Photo gallery by Hiroshi Yamashita
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Go Program "Katsunari"](http://homepage1.nifty.com/Ike/katsunari/index_e.html)
 
 **[Up one level](People "People")**
 

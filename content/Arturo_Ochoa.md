@@ -36,14 +36,14 @@ a Venezuelan computer chess expert, early [WinBoard](WinBoard "WinBoard") promot
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [DAS SCHACHPORTAL - Schachsoftware](http://www.schackportalen.nu/Deutsch/dmjukvara.htm) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Green Light Chess (v3.00)](http://www.7sun.com/chess/oldversions/218/index.php)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CCT6](http://www.vrichey.de/cct6/) by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Information: Diep and the Opening Book](https://www.stmintz.com/ccc/index.php?id=382406) by Arturo Ochoa, [CCC](CCC "CCC"), August 14, 2004
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Dutch Open: the story of the game Fruit - Diep](https://www.stmintz.com/ccc/index.php?id=462881) by Arturo Ochoa, [CCC](CCC "CCC"), November 19, 2005
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Zappa Chess Engine](http://www.acoz.net/zappa/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Komodo - Rybka in Danger?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=31894&start=24) by Arturo Ochoa, [CCC](CCC "CCC"), January 21, 2010
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [About – Chiron Chess Engine](https://www.chironchess.com/about/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [DAS SCHACHPORTAL - Schachsoftware](http://www.schackportalen.nu/Deutsch/dmjukvara.htm) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Green Light Chess (v3.00)](http://www.7sun.com/chess/oldversions/218/index.php)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CCT6](http://www.vrichey.de/cct6/) by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Information: Diep and the Opening Book](https://www.stmintz.com/ccc/index.php?id=382406) by Arturo Ochoa, [CCC](CCC "CCC"), August 14, 2004
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Dutch Open: the story of the game Fruit - Diep](https://www.stmintz.com/ccc/index.php?id=462881) by Arturo Ochoa, [CCC](CCC "CCC"), November 19, 2005
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Zappa Chess Engine](http://www.acoz.net/zappa/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Komodo - Rybka in Danger?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=31894&start=24) by Arturo Ochoa, [CCC](CCC "CCC"), January 21, 2010
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [About – Chiron Chess Engine](https://www.chironchess.com/about/)
 
 **[Up one level](People "People")**
 

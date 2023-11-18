@@ -202,9 +202,9 @@ SWAR average z = (x+y)/2 based on x + y = (x^y) + 2*(x&y)
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković") (**2008**). *The Compact Chessboard Representation*. [ICGA Journal, Vol. 31, No. 3](ICGA_Journal#31_3 "ICGA Journal")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković") (**2012**). *An Alternative Efficient Chessboard Representation based on 4-Bit Piece Coding*. [Yugoslav Journal of Operations Research, Vol. 22, No. 1](http://www.doiserbia.nb.rs/issue.aspx?issueid=1761), [pdf](http://www.doiserbia.nb.rs/img/doi/0354-0243/2012/0354-02431200011V.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CCR board representation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69046) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), November 25, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković") (**2008**). *The Compact Chessboard Representation*. [ICGA Journal, Vol. 31, No. 3](ICGA_Journal#31_3 "ICGA Journal")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković") (**2012**). *An Alternative Efficient Chessboard Representation based on 4-Bit Piece Coding*. [Yugoslav Journal of Operations Research, Vol. 22, No. 1](http://www.doiserbia.nb.rs/issue.aspx?issueid=1761), [pdf](http://www.doiserbia.nb.rs/img/doi/0354-0243/2012/0354-02431200011V.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CCR board representation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69046) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), November 25, 2018
 
 **[Up one Level](Data "Data")**
 

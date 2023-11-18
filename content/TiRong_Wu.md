@@ -28,11 +28,11 @@ a Taiwanese computer scientist affiliated with the Computer Games and Intelligen
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from "[The winners of the Go 19x19](19th_Computer_Olympiad#Go "19th Computer Olympiad")", Photo 16 by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Events 2016: Day 6 | ICGA](https://icga.org/?page_id=1908)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Members - lab-aigames](http://www.aigames.nctu.edu.tw/members)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: UEC cup 1st day result](https://groups.google.com/d/msg/computer-go-archive/-GcbtddZDmw/ASnrdx6IDgAJ) by Ti-Rong Wu, [Computer Go Archive](https://groups.google.com/forum/#!forum/computer-go-archive), March 19, 2016
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Introduction to Go Programs Developed at CGI Lab](http://aigames.nctu.edu.tw/~icwu/aigames/CGI.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Ti-Rong Wu](http://dblp.uni-trier.de/pers/hd/w/Wu:Ti=Rong)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from "[The winners of the Go 19x19](19th_Computer_Olympiad#Go "19th Computer Olympiad")", Photo 16 by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Events 2016: Day 6 | ICGA](https://icga.org/?page_id=1908)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Members - lab-aigames](http://www.aigames.nctu.edu.tw/members)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: UEC cup 1st day result](https://groups.google.com/d/msg/computer-go-archive/-GcbtddZDmw/ASnrdx6IDgAJ) by Ti-Rong Wu, [Computer Go Archive](https://groups.google.com/forum/#!forum/computer-go-archive), March 19, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Introduction to Go Programs Developed at CGI Lab](http://aigames.nctu.edu.tw/~icwu/aigames/CGI.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Ti-Rong Wu](http://dblp.uni-trier.de/pers/hd/w/Wu:Ti=Rong)
 
 **[Up one level](People "People")**
 

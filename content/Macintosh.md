@@ -89,10 +89,10 @@ a series of personal computers (PCs) designed, developed, and marketed by [Apple
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A [Macintosh 128K](https://en.wikipedia.org/wiki/Macintosh_128K) (that has apparently been upgraded to 512K, see window) running [Finder 5.2](https://en.wikipedia.org/wiki/Finder_%28software%29), [Macintosh from Wikipedia](https://en.wikipedia.org/wiki/Macintosh)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Timeline of Macintosh models from Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Macintosh_models)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Macintosh Programmer's Workshop from Wikipedia](https://en.wikipedia.org/wiki/Macintosh_Programmer%27s_Workshop)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Apple M1 from Wikipedia](https://en.wikipedia.org/wiki/Apple_M1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A [Macintosh 128K](https://en.wikipedia.org/wiki/Macintosh_128K) (that has apparently been upgraded to 512K, see window) running [Finder 5.2](https://en.wikipedia.org/wiki/Finder_%28software%29), [Macintosh from Wikipedia](https://en.wikipedia.org/wiki/Macintosh)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Timeline of Macintosh models from Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Macintosh_models)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Macintosh Programmer's Workshop from Wikipedia](https://en.wikipedia.org/wiki/Macintosh_Programmer%27s_Workshop)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Apple M1 from Wikipedia](https://en.wikipedia.org/wiki/Apple_M1)
 
 **[Up one Level](Hardware "Hardware")**
 

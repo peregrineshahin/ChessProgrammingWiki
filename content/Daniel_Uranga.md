@@ -26,10 +26,10 @@ and helped [Albert Silver](Albert_Silver "Albert Silver") with his efforts leadi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [RataAeroespacial 0.2.1 in CCRL 40/15](http://ccrl.chessdom.com/ccrl/4040/cgi/engine_details.cgi?print=Details&each_game=1&eng=RataAeroespacial%200.2.1)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [RataAeroespacial](https://sites.google.com/site/rataaeroespacial/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Standing on the shoulders of giants](https://en.chessbase.com/post/standing-on-the-shoulders-of-giants) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), September 18, 2019
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - DanielUranga/lc0 at uci-wdl-reporting](https://github.com/DanielUranga/lc0/tree/uci-wdl-reporting)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [RataAeroespacial 0.2.1 in CCRL 40/15](http://ccrl.chessdom.com/ccrl/4040/cgi/engine_details.cgi?print=Details&each_game=1&eng=RataAeroespacial%200.2.1)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [RataAeroespacial](https://sites.google.com/site/rataaeroespacial/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Standing on the shoulders of giants](https://en.chessbase.com/post/standing-on-the-shoulders-of-giants) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), September 18, 2019
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - DanielUranga/lc0 at uci-wdl-reporting](https://github.com/DanielUranga/lc0/tree/uci-wdl-reporting)
 
 **[Up one level](People "People")**
 

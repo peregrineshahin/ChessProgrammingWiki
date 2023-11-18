@@ -123,15 +123,15 @@ Chess programs catch some of the human chess playing abilities but rely on the l
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image captured from [Alex Bernstein: juega al ajedrez con un IBM 704 (Thinking Machines) YouTube Video](#video) at 0:13
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=31) by Elizabeth Rand, [CCC](CCC "CCC"), July 18, 2020
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> As confirmed by Alex Bernstein's daughter, Elizabeth Rand, in a [CCC](CCC "CCC") forum thread initiated by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"):
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image captured from [Alex Bernstein: juega al ajedrez con un IBM 704 (Thinking Machines) YouTube Video](#video) at 0:13
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=31) by Elizabeth Rand, [CCC](CCC "CCC"), July 18, 2020
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> As confirmed by Alex Bernstein's daughter, Elizabeth Rand, in a [CCC](CCC "CCC") forum thread initiated by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"):
 
 [The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), June 06, 2019
 
 [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=31) by Elizabeth Rand, [CCC](CCC "CCC"), July 18, 2020
-4\. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=28) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), July 18, 2020
-5\. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Quote from [Laurent Mazliak](Mathematician#LMazliak "Mathematician"), Thomas Perfettini (**2019**). *[Under the protection of alien wings. Mathematicians in the Russian emigration in inter war France](https://hal.sorbonne-universite.fr/hal-02280296v1)*. hal-02280296v2:
+4\. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=28) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), July 18, 2020
+5\. <a id="cite-ref-5" href="#cite-note-5">↑</a> Quote from [Laurent Mazliak](Mathematician#LMazliak "Mathematician"), Thomas Perfettini (**2019**). *[Under the protection of alien wings. Mathematicians in the Russian emigration in inter war France](https://hal.sorbonne-universite.fr/hal-02280296v1)*. hal-02280296v2:
 
 Finally, the trajectory of [Vladimir Bernstein](Mathematician#VBernstein "Mathematician") (1900 - 1936) constitutes another singular case,
 described in detail in [Finzi](https://en.wikipedia.org/wiki/Bruno_Finzi) (1936).
@@ -141,13 +141,13 @@ Arrived in France in the mid-1920s after a stay in [London](https://en.wikipedia
 The lectures that Vladimir Bernstein presented at the [Collège de France](https://en.wikipedia.org/wiki/Coll%C3%A8ge_de_France) that same year on Dirichlet series were published in 1933 in the [Borel](Mathematician#Borel "Mathematician") series of monographs on the theory of functions as Bernstein (1933).
 The book was introduced by a very laudatory preface by [Hadamard](Mathematician#JSHadamard "Mathematician"). It was in Italy, however, that Bernstein decided to settle down (he had already published several papers in Italian journals).
 He obtained Italian citizenship in 1931 and was responsible for teaching superior [analysis](https://en.wikipedia.org/wiki/Mathematical_analysis) in [Milan](https://en.wikipedia.org/wiki/Milan) and [analytical geometry](https://en.wikipedia.org/wiki/Analytic_geometry) in [Pavia](https://en.wikipedia.org/wiki/University_of_Pavia).
-6\. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Quote John McCarthy](#mccarthy)
-7\. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=17) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), June 09, 2019
-8\. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Quotes from [Pamela McCorduck](https://en.wikipedia.org/wiki/Pamela_McCorduck) (**2004**). *[Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence](Artificial_Intelligence#MachinesWhoThink "Artificial Intelligence")*. [A. K. Peters](https://en.wikipedia.org/wiki/A_K_Peters) (25th anniversary edition)
-9\. <a id="cite-ref-9" href="#cite-note-9">[9]</a> Hal Judd of [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") is mentioned in [William Orchard-Hays](https://de.wikipedia.org/wiki/William_Orchard-Hays) (**1956**). *Evolution of Computer Codes for Linear Programming*. [RAND Corporation](https://de.wikipedia.org/wiki/RAND_Corporation), [pdf](https://apps.dtic.mil/dtic/tr/fulltext/u2/224381.pdf)
-10\. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Charles DeCarlo, 83, President Who Overhauled Sarah Lawrence, Dies](https://www.nytimes.com/2004/11/26/nyregion/charles-decarlo-83-president-who-overhauled-sarah-lawrence-dies.html) by [Jennifer Bayot](https://www.nytimes.com/search?query=Bayot%252C+Jennifer), [The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), November 26, 2004
-11\. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [The Dartmouth Workshop--as planned and as it happened](http://www-formal.stanford.edu/jmc/slides/dartmouth/dartmouth/node1.html)
-12\. <a id="cite-ref-12" href="#cite-note-12">[12]</a> Bernstein papers hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+6\. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Quote John McCarthy](#mccarthy)
+7\. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: The mystery of Alex Bernstein](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70939&start=17) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), June 09, 2019
+8\. <a id="cite-ref-8" href="#cite-note-8">↑</a> Quotes from [Pamela McCorduck](https://en.wikipedia.org/wiki/Pamela_McCorduck) (**2004**). *[Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence](Artificial_Intelligence#MachinesWhoThink "Artificial Intelligence")*. [A. K. Peters](https://en.wikipedia.org/wiki/A_K_Peters) (25th anniversary edition)
+9\. <a id="cite-ref-9" href="#cite-note-9">↑</a> Hal Judd of [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") is mentioned in [William Orchard-Hays](https://de.wikipedia.org/wiki/William_Orchard-Hays) (**1956**). *Evolution of Computer Codes for Linear Programming*. [RAND Corporation](https://de.wikipedia.org/wiki/RAND_Corporation), [pdf](https://apps.dtic.mil/dtic/tr/fulltext/u2/224381.pdf)
+10\. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Charles DeCarlo, 83, President Who Overhauled Sarah Lawrence, Dies](https://www.nytimes.com/2004/11/26/nyregion/charles-decarlo-83-president-who-overhauled-sarah-lawrence-dies.html) by [Jennifer Bayot](https://www.nytimes.com/search?query=Bayot%252C+Jennifer), [The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), November 26, 2004
+11\. <a id="cite-ref-11" href="#cite-note-11">↑</a> [The Dartmouth Workshop--as planned and as it happened](http://www-formal.stanford.edu/jmc/slides/dartmouth/dartmouth/node1.html)
+12\. <a id="cite-ref-12" href="#cite-note-12">↑</a> Bernstein papers hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](People "People")**
 

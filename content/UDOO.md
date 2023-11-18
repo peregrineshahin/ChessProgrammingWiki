@@ -33,11 +33,11 @@ an [open source hardware](https://en.wikipedia.org/wiki/Open_source_hardware) [s
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [UDOO Products](https://shop.udoo.org/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Freescale - i.MX 6 Series Processors](http://www.freescale.com/webapp/sps/site/taxonomy.jsp?code=IMX6X_SERIES)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [UDOO from Wikipedia](https://en.wikipedia.org/wiki/UDOO)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Features | UDOO | Mini PC Linux & Android | Open Source Single Board Computer](http://www.udoo.org/features/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: CSVN 1st Open Internet Tournament: Results and games](http://www.talkchess.com/forum/viewtopic.php?t=52280&start=11) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), May 12, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [UDOO Products](https://shop.udoo.org/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Freescale - i.MX 6 Series Processors](http://www.freescale.com/webapp/sps/site/taxonomy.jsp?code=IMX6X_SERIES)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [UDOO from Wikipedia](https://en.wikipedia.org/wiki/UDOO)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Features | UDOO | Mini PC Linux & Android | Open Source Single Board Computer](http://www.udoo.org/features/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: CSVN 1st Open Internet Tournament: Results and games](http://www.talkchess.com/forum/viewtopic.php?t=52280&start=11) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), May 12, 2014
 
 **[Up one Level](Hardware "Hardware")**
 

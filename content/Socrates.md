@@ -103,14 +103,14 @@ Rxh3 36.Ke2 Rc5 37.b3 Rc3 38.Rd2 h5 39.Re6 h4 40.Re4 Rh5 41.a5 h3 42.Rd1 Rxc2+
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Category:Socrates in art - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Socrates_in_art)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Harvard Cup 1992](http://www.csvn.nl/index.php?option=com_content&view=article&id=127%3Aharvard-cup-1992&catid=26%3Amens-computer&Itemid=50&lang=en), [CSVN](CSVN "CSVN") site
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1993**). *PC Software*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1993, Vol. 4, No. 1, pp. 9
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1992**). *New PC-Software*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1991-92, Vol. 2, No. 3, pp 2-3
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1992**). *The 1992 Harvard Cup*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1992, Vol. 3, No. 2
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Downloads | Man-Computer | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=42&Itemid=26&lang=en&limitstart=10), [CSVN](CSVN "CSVN") site
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Socratic method from Wikipedia](https://en.wikipedia.org/wiki/Socratic_method)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Category:Socrates in art - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Socrates_in_art)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Harvard Cup 1992](http://www.csvn.nl/index.php?option=com_content&view=article&id=127%3Aharvard-cup-1992&catid=26%3Amens-computer&Itemid=50&lang=en), [CSVN](CSVN "CSVN") site
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1993**). *PC Software*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1993, Vol. 4, No. 1, pp. 9
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1992**). *New PC-Software*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1991-92, Vol. 2, No. 3, pp 2-3
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1992**). *The 1992 Harvard Cup*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1992, Vol. 3, No. 2
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Downloads | Man-Computer | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=42&Itemid=26&lang=en&limitstart=10), [CSVN](CSVN "CSVN") site
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Socratic method from Wikipedia](https://en.wikipedia.org/wiki/Socratic_method)
 
 **[Up one Level](Engines "Engines")**
 

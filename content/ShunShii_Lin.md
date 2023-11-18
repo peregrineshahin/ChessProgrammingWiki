@@ -69,11 +69,11 @@ a Taiwanese computer scientist, and professor and director of the Graduate Insti
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Shan-Tai Chen](Shan-Tai_Chen "Shan-Tai Chen"), Shun-Shii Lin (**2004**) *Optimal Algorithms for 2 × n AB Games – A Graph-Partition Approach*. [Journal of Information Science and Engineering, Vol. 20](http://www.informatik.uni-trier.de/~ley/db/journals/jise/jise20.html#ChenL04), No. 1, [pdf](http://www.rosenbaum-games.de/3m/p1/Mastermind/2003shantai02.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Shun-Shii Lin's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=101)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Shun-Shii Lin](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lin:Shun=Shii.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Binary decision diagram from Wikipedia](https://en.wikipedia.org/wiki/Binary_decision_diagram)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> ["Exact-Win Strategy for Overcoming AlphaZero" · Issue #799 · LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/issues/799)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Shan-Tai Chen](Shan-Tai_Chen "Shan-Tai Chen"), Shun-Shii Lin (**2004**) *Optimal Algorithms for 2 × n AB Games – A Graph-Partition Approach*. [Journal of Information Science and Engineering, Vol. 20](http://www.informatik.uni-trier.de/~ley/db/journals/jise/jise20.html#ChenL04), No. 1, [pdf](http://www.rosenbaum-games.de/3m/p1/Mastermind/2003shantai02.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shun-Shii Lin's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=101)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Shun-Shii Lin](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lin:Shun=Shii.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Binary decision diagram from Wikipedia](https://en.wikipedia.org/wiki/Binary_decision_diagram)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> ["Exact-Win Strategy for Overcoming AlphaZero" · Issue #799 · LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/issues/799)
 
 **[Up one level](People "People")**
 

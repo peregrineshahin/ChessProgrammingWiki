@@ -85,11 +85,11 @@ Kg6 27.b3 a5 28.Kh2 Rab8 29.Kg3 Rg8 30.Bc3 a4 31.b4 a3 32.Rad1 Kh5+
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Viorel Darie creatorul primului program de sah pe calculator din Romania Amintiri despre robotul de sah LABIRINT 64](http://www.marketwatch.ro/articol/4372/Viorel_Darie_creatorul_primului_program_de_sah_pe_calculator_din_Romania_Amintiri_despre_robotul_de_sah_LABIRINT_64/), [Market Watch, Arhiva Revistei](http://www.marketwatch.ro/), February 26, 2009 (Romanian)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Thanks to Ruxy Sylwyka for the Recherche, [Labirint 64 + Atom 64](http://www.talkchess.com/forum/viewtopic.php?t=46377) by Ruxy Sylwyka, [CCC](CCC "CCC"), December 11, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1984**). *Move from the East*. Report of the WMCCC 1983, [Personal Computer World](Personal_Computer_World "Personal Computer World"), January 1984
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Budapest 1983 - Chess - Round 6 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=6&id=5)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Budapest 1983 - Chess - Round 7 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=7&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Viorel Darie creatorul primului program de sah pe calculator din Romania Amintiri despre robotul de sah LABIRINT 64](http://www.marketwatch.ro/articol/4372/Viorel_Darie_creatorul_primului_program_de_sah_pe_calculator_din_Romania_Amintiri_despre_robotul_de_sah_LABIRINT_64/), [Market Watch, Arhiva Revistei](http://www.marketwatch.ro/), February 26, 2009 (Romanian)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Thanks to Ruxy Sylwyka for the Recherche, [Labirint 64 + Atom 64](http://www.talkchess.com/forum/viewtopic.php?t=46377) by Ruxy Sylwyka, [CCC](CCC "CCC"), December 11, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1984**). *Move from the East*. Report of the WMCCC 1983, [Personal Computer World](Personal_Computer_World "Personal Computer World"), January 1984
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Budapest 1983 - Chess - Round 6 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=6&id=5)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Budapest 1983 - Chess - Round 7 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=7&id=5)
 
 **[Up one level](Engines "Engines")**
 

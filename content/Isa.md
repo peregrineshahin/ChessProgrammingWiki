@@ -141,11 +141,11 @@ Since November 2018, Isa 2.0.64 is available as [Open Source](Category:Open_Sour
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Isa Genzken](Category:Isa_Genzken "Category:Isa Genzken") - Window (Fenster, 1993), [Middelheim Open Air Sculpture Museum](https://en.wikipedia.org/wiki/Middelheim_Open_Air_Sculpture_Museum), Photo by Funkyxian, August 9, 2016, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Isa version 1.9.8 release](http://www.talkchess.com/forum/viewtopic.php?t=61891&start=4) by [Gabor Szots](Gabor_Szots "Gabor Szots"), [CCC](CCC "CCC"), December 10, 2016
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Isa version 1.9.8 release](http://www.talkchess.com/forum/viewtopic.php?t=61891) by [Daniel Anulliero](Daniel_Anulliero "Daniel Anulliero"), [CCC](CCC "CCC"), October 30, 2016
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - Dany1962/Isa: a winboard chess engine in C](https://github.com/Dany1962/Isa)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Features based on isa\_2\_0\_64.zip\isa 2\_0\_64\ read me.odt
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Isa Genzken](Category:Isa_Genzken "Category:Isa Genzken") - Window (Fenster, 1993), [Middelheim Open Air Sculpture Museum](https://en.wikipedia.org/wiki/Middelheim_Open_Air_Sculpture_Museum), Photo by Funkyxian, August 9, 2016, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Isa version 1.9.8 release](http://www.talkchess.com/forum/viewtopic.php?t=61891&start=4) by [Gabor Szots](Gabor_Szots "Gabor Szots"), [CCC](CCC "CCC"), December 10, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Isa version 1.9.8 release](http://www.talkchess.com/forum/viewtopic.php?t=61891) by [Daniel Anulliero](Daniel_Anulliero "Daniel Anulliero"), [CCC](CCC "CCC"), October 30, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - Dany1962/Isa: a winboard chess engine in C](https://github.com/Dany1962/Isa)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Features based on isa\_2\_0\_64.zip\isa 2\_0\_64\ read me.odt
 
 **[Up one level](Engines "Engines")**
 

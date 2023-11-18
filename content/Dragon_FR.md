@@ -71,10 +71,10 @@ Dragon 4.0 is based on [bitboard](Bitboards "Bitboards").  It has the same [eval
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ruggiero](https://en.wikipedia.org/wiki/Ruggiero_%28character%29) Rescuing [Angelica](https://en.wikipedia.org/wiki/Angelica_%28character%29), an illustration for [Ludovico Ariosto's](https://en.wikipedia.org/wiki/Ludovico_Ariosto) [Orlando Furioso](https://en.wikipedia.org/wiki/Orlando_Furioso) by [Gustave Doré](Category:Gustave_Dor%C3%A9 "Category:Gustave Doré"), [Princess and dragon from Wikipedia](https://en.wikipedia.org/wiki/Princess_and_dragon)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dragon's (Chess, fr) ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=10)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Arena Chess GUI 3.0 - Dragon](http://www.playwitharena.com/?Partner_Chess_Engines:Dragon%26nbsp%3B)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Dragon x3, Nightmare x2, Jester x2 ...](https://www.stmintz.com/ccc/index.php?id=256952) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), October 07, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ruggiero](https://en.wikipedia.org/wiki/Ruggiero_%28character%29) Rescuing [Angelica](https://en.wikipedia.org/wiki/Angelica_%28character%29), an illustration for [Ludovico Ariosto's](https://en.wikipedia.org/wiki/Ludovico_Ariosto) [Orlando Furioso](https://en.wikipedia.org/wiki/Orlando_Furioso) by [Gustave Doré](Category:Gustave_Dor%C3%A9 "Category:Gustave Doré"), [Princess and dragon from Wikipedia](https://en.wikipedia.org/wiki/Princess_and_dragon)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dragon's (Chess, fr) ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=10)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Arena Chess GUI 3.0 - Dragon](http://www.playwitharena.com/?Partner_Chess_Engines:Dragon%26nbsp%3B)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Dragon x3, Nightmare x2, Jester x2 ...](https://www.stmintz.com/ccc/index.php?id=256952) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), October 07, 2002
 
 **[Up one Level](Engines "Engines")**
 

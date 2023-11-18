@@ -130,23 +130,23 @@ In May 2017, [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") rescued Ruffia
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [What is Ruffian?](https://www.stmintz.com/ccc/index.php?id=242402) by [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [CCC](CCC "CCC"), July 24, 2002
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ruffian, the replacement to ABBA](http://www.top-5000.nl/int/ruffian.htm), Interview with [Perola Valfridsson](Perola_Valfridsson "Perola Valfridsson") by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") et al., October, 2002, hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ruffian 2.0: 3 Euro](http://www.schachversand.de/e/detail/software/464.html) - [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ruffian's Secret?](https://www.stmintz.com/ccc/index.php?id=329957) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), November 23, 2003
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Photos](http://old.csvn.nl/ict4tour.html) from the old [CSVN](CSVN "CSVN") site
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Participants 23rd Open Dutch Computer-Chess Championship 18, 19, 25, 26 Oct. 2003; Leiden, Netherlands](http://old.csvn.nl/partic03.html) old [CSVN](CSVN "CSVN") site
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Dutch Open Leiden final ranking - Ruffian Champion](https://www.stmintz.com/ccc/index.php?id=323778) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CCC](CCC "CCC"), October 26, 2003
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [iSMDS-03 (unofficial) Swedish Championship 2003](http://www.albert.nu/SMDS/) by [Albert Bertilsson](Albert_Bertilsson "Albert Bertilsson")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Download Winboard and UCI engines](http://www.top-5000.nl/wbuci.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [ChessAssistance.com A talk with Victor Zakharov, head of Convekta development, part b](http://chessok.com/files/bobpawlak/Articles/Victor_Zakharov_b.html) by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), February 14, 2003
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Arena 1.0 / Ruffian 2.0 ... information!](https://www.stmintz.com/ccc/index.php?id=329068) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), November 21, 2003
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Good news for Ruffian Lovers from outside europe](https://www.stmintz.com/ccc/index.php?id=350465) by [Johan Havegheer](Johan_Havegheer "Johan Havegheer"), [CCC](CCC "CCC"), February 21, 2004
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Kasparov Chessmate review](https://www.stmintz.com/ccc/index.php?id=306057) by Alastair Scott, [CCC](CCC "CCC"), July 12, 2003
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Perola Valfridsson](http://www.mobygames.com/developer/sheet/view/by_genre/developerId,281982/) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Re: CSVN Leiden (Ruffian and Sjeng missing)](https://www.stmintz.com/ccc/index.php?id=429271) by [Johan Havegheer](Johan_Havegheer "Johan Havegheer"), [CCC](CCC "CCC"), June 01, 2005
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Ruffian 2.0: 3 Euro](http://www.schachversand.de/e/detail/software/464.html) - [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Ruffian support ...](http://www.talkchess.com/forum/viewtopic.php?t=63995) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), May 16, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [What is Ruffian?](https://www.stmintz.com/ccc/index.php?id=242402) by [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [CCC](CCC "CCC"), July 24, 2002
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ruffian, the replacement to ABBA](http://www.top-5000.nl/int/ruffian.htm), Interview with [Perola Valfridsson](Perola_Valfridsson "Perola Valfridsson") by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") et al., October, 2002, hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ruffian 2.0: 3 Euro](http://www.schachversand.de/e/detail/software/464.html) - [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ruffian's Secret?](https://www.stmintz.com/ccc/index.php?id=329957) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), November 23, 2003
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Photos](http://old.csvn.nl/ict4tour.html) from the old [CSVN](CSVN "CSVN") site
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Participants 23rd Open Dutch Computer-Chess Championship 18, 19, 25, 26 Oct. 2003; Leiden, Netherlands](http://old.csvn.nl/partic03.html) old [CSVN](CSVN "CSVN") site
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Dutch Open Leiden final ranking - Ruffian Champion](https://www.stmintz.com/ccc/index.php?id=323778) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CCC](CCC "CCC"), October 26, 2003
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [iSMDS-03 (unofficial) Swedish Championship 2003](http://www.albert.nu/SMDS/) by [Albert Bertilsson](Albert_Bertilsson "Albert Bertilsson")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Download Winboard and UCI engines](http://www.top-5000.nl/wbuci.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ChessAssistance.com A talk with Victor Zakharov, head of Convekta development, part b](http://chessok.com/files/bobpawlak/Articles/Victor_Zakharov_b.html) by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), February 14, 2003
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Arena 1.0 / Ruffian 2.0 ... information!](https://www.stmintz.com/ccc/index.php?id=329068) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), November 21, 2003
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Good news for Ruffian Lovers from outside europe](https://www.stmintz.com/ccc/index.php?id=350465) by [Johan Havegheer](Johan_Havegheer "Johan Havegheer"), [CCC](CCC "CCC"), February 21, 2004
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Kasparov Chessmate review](https://www.stmintz.com/ccc/index.php?id=306057) by Alastair Scott, [CCC](CCC "CCC"), July 12, 2003
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Perola Valfridsson](http://www.mobygames.com/developer/sheet/view/by_genre/developerId,281982/) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Re: CSVN Leiden (Ruffian and Sjeng missing)](https://www.stmintz.com/ccc/index.php?id=429271) by [Johan Havegheer](Johan_Havegheer "Johan Havegheer"), [CCC](CCC "CCC"), June 01, 2005
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Ruffian 2.0: 3 Euro](http://www.schachversand.de/e/detail/software/464.html) - [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Ruffian support ...](http://www.talkchess.com/forum/viewtopic.php?t=63995) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), May 16, 2017
 
 **[Up one Level](Engines "Engines")**
 

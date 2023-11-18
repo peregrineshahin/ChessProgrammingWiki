@@ -66,10 +66,10 @@ a British computer scientist and emeritus professor of Information Technology at
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from former "Staff - University of Portsmouth - Professor Max Bramer" site, as of 2018 no longer available
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Max Bramer](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Bramer:Max.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Don Beal](Don_Beal "Don Beal") (**1999**) [The Nature of MINIMAX Search](http://www.cs.unimaas.nl/%7Euiterwyk/BealPhD.htm) Ph.D. thesis ISBN 90-62-16-6348; References pp. 126
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from former "Staff - University of Portsmouth - Professor Max Bramer" site, as of 2018 no longer available
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Max Bramer](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Bramer:Max.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Don Beal](Don_Beal "Don Beal") (**1999**) [The Nature of MINIMAX Search](http://www.cs.unimaas.nl/%7Euiterwyk/BealPhD.htm) Ph.D. thesis ISBN 90-62-16-6348; References pp. 126
 
 **[Up one level](People "People")**
 

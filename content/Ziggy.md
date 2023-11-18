@@ -85,9 +85,9 @@ b6 26.Qc3 bxa5 27.Bxa5 Qa4 28.Re7 Re8 29.Rxe8+ Rxe8 30.f4 Qd1+ 31.Kf2 Re2+ 32.Kg
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Bowie](Category:David_Bowie "Category:David Bowie") in the early 1970s, by Rik Walton, [Ziggy Stardust (character) from Wikipedia](https://en.wikipedia.org/wiki/Ziggy_Stardust_(character))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1985**). *The Dutch Computer-Chess Championship 1985 - Nona Prima Donna*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Zevende Nederlands Kampioenschap Computerschaak, Leiden 10, 11, 17 en 18 Oktober 1987.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1987,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201987.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Bowie](Category:David_Bowie "Category:David Bowie") in the early 1970s, by Rik Walton, [Ziggy Stardust (character) from Wikipedia](https://en.wikipedia.org/wiki/Ziggy_Stardust_(character))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1985**). *The Dutch Computer-Chess Championship 1985 - Nona Prima Donna*. [ICCA Journal, Vol. 8, No. 4](ICGA_Journal#8_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Zevende Nederlands Kampioenschap Computerschaak, Leiden 10, 11, 17 en 18 Oktober 1987.pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1987,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201987.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
 
 **[Up one level](Engines "Engines")**
 

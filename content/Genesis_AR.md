@@ -47,8 +47,8 @@ Genesis participated at the [SCCC 1998](SCCC_1998 "SCCC 1998") and [SCCC 1999](S
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hartmann Schedel](https://en.wikipedia.org/wiki/Hartmann_Schedel), [First Day of Creation](https://en.wikipedia.org/wiki/File:Nuremberg_chronicles_-_f_2v.png), 1493, [Nuremberg Chronicle](https://en.wikipedia.org/wiki/Nuremberg_Chronicle)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Chess Programs from South America](https://www.stmintz.com/ccc/index.php?id=38360) by [Claudio Bollini](Claudio_Bollini "Claudio Bollini"), [CCC](CCC "CCC"), January 05, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hartmann Schedel](https://en.wikipedia.org/wiki/Hartmann_Schedel), [First Day of Creation](https://en.wikipedia.org/wiki/File:Nuremberg_chronicles_-_f_2v.png), 1493, [Nuremberg Chronicle](https://en.wikipedia.org/wiki/Nuremberg_Chronicle)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Chess Programs from South America](https://www.stmintz.com/ccc/index.php?id=38360) by [Claudio Bollini](Claudio_Bollini "Claudio Bollini"), [CCC](CCC "CCC"), January 05, 1999
 
 **[Up one Level](Engines "Engines")**
 

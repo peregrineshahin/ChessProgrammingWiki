@@ -53,10 +53,10 @@ It is based on [TSCP](TSCP "TSCP") and uses the [SAN](Algebraic_Chess_Notation#S
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The cover of the April 23, 1884 issue of [Puck Magazine](https://en.wikipedia.org/wiki/Puck_%28magazine%29). The "jester" is [Roscoe Conkling](https://en.wikipedia.org/wiki/Roscoe_Conkling) arguing the [Jesse Hoyt](https://en.wikipedia.org/wiki/Jesse_Hoyt) will case, [Jester from Wikipedia](https://en.wikipedia.org/wiki/Jester), [Source jpg](http://www.senate.gov/artandhistory/art/resources/graphic/xlarge/38_00349.jpg)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New chess engine Jester (not the Java one with the same name)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=36032) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 06, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SAN Kit: Implemented Standards for Chess Move Notation](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/games/chess/san/) by [Steven Edwards](Steven_Edwards "Steven Edwards")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jester chess engine](http://web.archive.org/web/20050210004415/www.eiganic.com/jester.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The cover of the April 23, 1884 issue of [Puck Magazine](https://en.wikipedia.org/wiki/Puck_%28magazine%29). The "jester" is [Roscoe Conkling](https://en.wikipedia.org/wiki/Roscoe_Conkling) arguing the [Jesse Hoyt](https://en.wikipedia.org/wiki/Jesse_Hoyt) will case, [Jester from Wikipedia](https://en.wikipedia.org/wiki/Jester), [Source jpg](http://www.senate.gov/artandhistory/art/resources/graphic/xlarge/38_00349.jpg)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New chess engine Jester (not the Java one with the same name)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=36032) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 06, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SAN Kit: Implemented Standards for Chess Move Notation](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/games/chess/san/) by [Steven Edwards](Steven_Edwards "Steven Edwards")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jester chess engine](http://web.archive.org/web/20050210004415/www.eiganic.com/jester.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](Engines "Engines")**
 

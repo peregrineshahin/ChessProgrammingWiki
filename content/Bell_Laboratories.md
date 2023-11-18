@@ -50,11 +50,11 @@ also formerly known as [AT&T](https://en.wikipedia.org/wiki/American_Telephone_%
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Afternoon [analemma](https://en.wikipedia.org/wiki/Analemma) photo taken in 1998–99 by [Jack Fishburn](John_Philip_Fishburn "John Philip Fishburn") in [Murray Hill, New Jersey](https://en.wikipedia.org/wiki/Murray_Hill,_New_Jersey), USA. The [Bell Laboratories](https://en.wikipedia.org/wiki/Bell_Labs) building is in the foreground, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bell Laboratories from Wikipedia](https://en.wikipedia.org/wiki/Bell_Labs)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Rob Pike - Google+ - I just heard that, after a long illness, Dennis Ritchie died ...](https://plus.google.com/u/2/101960720994009339267/posts/ENuEDDYfvKP?hl=en)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dennis Ritchie, 1941-2011: Computer scientist, Unix co-creator, C programming language designer](http://boingboing.net/2011/10/12/dennis-ritchie-1941-2011-computer-scientist-unix-co-creator-c-co-inventor.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Dennis M Ritchie, RIP](http://www.talkchess.com/forum/viewtopic.php?t=40739) by [Ron Murawski](Ron_Murawski "Ron Murawski"), [CCC](CCC "CCC"), October 13, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Afternoon [analemma](https://en.wikipedia.org/wiki/Analemma) photo taken in 1998–99 by [Jack Fishburn](John_Philip_Fishburn "John Philip Fishburn") in [Murray Hill, New Jersey](https://en.wikipedia.org/wiki/Murray_Hill,_New_Jersey), USA. The [Bell Laboratories](https://en.wikipedia.org/wiki/Bell_Labs) building is in the foreground, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bell Laboratories from Wikipedia](https://en.wikipedia.org/wiki/Bell_Labs)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rob Pike - Google+ - I just heard that, after a long illness, Dennis Ritchie died ...](https://plus.google.com/u/2/101960720994009339267/posts/ENuEDDYfvKP?hl=en)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dennis Ritchie, 1941-2011: Computer scientist, Unix co-creator, C programming language designer](http://boingboing.net/2011/10/12/dennis-ritchie-1941-2011-computer-scientist-unix-co-creator-c-co-inventor.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dennis M Ritchie, RIP](http://www.talkchess.com/forum/viewtopic.php?t=40739) by [Ron Murawski](Ron_Murawski "Ron Murawski"), [CCC](CCC "CCC"), October 13, 2011
 
 **[Up one Level](Organizations "Organizations")**
 

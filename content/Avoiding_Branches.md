@@ -200,12 +200,12 @@ lineup: [Joe Bowie](Category:Joseph_Bowie "Category:Joseph Bowie"), [Ronny Drayt
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [abs, labs, llabs, \_abs64](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/abs-labs-llabs-abs64?view=vs-2017) Visual C++ Developer Center - Run-Time Library Reference
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [\_max](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/max?view=vs-2017) Visual C++ Developer Center - Run-Time Library Reference
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [\_min](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/min?view=vs-2017) Visual C++ Developer Center - Run-Time Library Reference
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Software Optimization Guide for AMD Family 10h and 12h Processors](https://support.amd.com/techdocs/40546.pdf) (pdf) see pp. 102 on Conditional Write
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Write-combining from Wikipedia](https://en.wikipedia.org/wiki/Write-combining)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Function pointers hurt performance?](http://www.talkchess.com/forum/viewtopic.php?p=425259#425259) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 22, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [abs, labs, llabs, \_abs64](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/abs-labs-llabs-abs64?view=vs-2017) Visual C++ Developer Center - Run-Time Library Reference
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [\_max](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/max?view=vs-2017) Visual C++ Developer Center - Run-Time Library Reference
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [\_min](https://docs.microsoft.com/en-us/cpp/c-runtime-library/reference/min?view=vs-2017) Visual C++ Developer Center - Run-Time Library Reference
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Software Optimization Guide for AMD Family 10h and 12h Processors](https://support.amd.com/techdocs/40546.pdf) (pdf) see pp. 102 on Conditional Write
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Write-combining from Wikipedia](https://en.wikipedia.org/wiki/Write-combining)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Function pointers hurt performance?](http://www.talkchess.com/forum/viewtopic.php?p=425259#425259) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 22, 2011
 
 **[Up one Level](Optimization "Optimization")**
 

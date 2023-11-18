@@ -53,10 +53,10 @@ a Dutch software developer, computer chess aficionado, tester, and computer ches
 
 ## [Polyglot 1.4w](http://www.geenvis.net/pg.html) [Setting up autoplayer for chessbase](http://www.geenvis.net/autoplayer/autoplayer.html) [Chesspartner stuff](http://www.geenvis.net/cplay.html) » [ChessPartner](ChessPartner "ChessPartner") References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Fonzy Bluemers at [DOCCC 2006](DOCCC_2006 "DOCCC 2006"), operating [Fruit](Fruit "Fruit"), [Fotogalerij 5](http://www.csvn.nl/index.php?option=com_content&view=article&id=428%3Afotogalerij-5&catid=54%3Afotogalerij&Itemid=61&lang=en), [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> ["Dirty " TLCV Tournaments](http://www.geenvis.net/tlcv.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dirty Chess Engine: - Developers](http://www.dirtychess.com/developers.php)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICT Round 6](https://www.csvn.nl/index.php/nieuws/51-toernooien/588-ict-round-6), CSVN site, Photos by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Fonzy Bluemers at [DOCCC 2006](DOCCC_2006 "DOCCC 2006"), operating [Fruit](Fruit "Fruit"), [Fotogalerij 5](http://www.csvn.nl/index.php?option=com_content&view=article&id=428%3Afotogalerij-5&catid=54%3Afotogalerij&Itemid=61&lang=en), [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> ["Dirty " TLCV Tournaments](http://www.geenvis.net/tlcv.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dirty Chess Engine: - Developers](http://www.dirtychess.com/developers.php)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICT Round 6](https://www.csvn.nl/index.php/nieuws/51-toernooien/588-ict-round-6), CSVN site, Photos by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
 
 **[Up one Level](People "People")**
 

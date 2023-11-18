@@ -42,14 +42,14 @@ According to [Chris Whittington](Chris_Whittington "Chris Whittington") the ches
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Psion Chess screenshots](http://www.mobygames.com/game/psion-chess/screenshots) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Richard Lang - Question & Answer Interview given to a German magazine in 2003](http://www.chesscomputeruk.com/Richard_Lang_Q_A.pdf), pdf hosted by [Mike Watters](Mike_Watters "Mike Watters"), [Chess Computer UK](http://www.chesscomputeruk.com/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sinclair QL Computer Wiki - Psion Chess](http://www.rwapadventures.com/ql_wiki/index.php?title=Psion%20Chess)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Psion](http://www.schach-computer.info/wiki/index.php/Psion) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") (**1987**). *[The 7th World Microcomputer Chess Championship](WMCCC_1987 "WMCCC 1987"), Rome, Italy, September 14-20, 1987*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 10, No. 3
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Chess software for psion](http://groups.google.com/group/comp.sys.psion/browse_frm/thread/ed72cc49dab891f6) post 5 by [Chris Whittington](Chris_Whittington "Chris Whittington"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 18, 1996
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [free Chess for Psion 3 palmtop](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/64419b7476bf4b11) by [Johan Van Barel](index.php?title=Johan_Van_Barel&action=edit&redlink=1 "Johan Van Barel (page does not exist)"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 14, 1997
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Psion Chess](http://www.vanbarel.com/psiox/chess.html) by [Johan Van Barel](index.php?title=Johan_Van_Barel&action=edit&redlink=1 "Johan Van Barel (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Psion Chess screenshots](http://www.mobygames.com/game/psion-chess/screenshots) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Richard Lang - Question & Answer Interview given to a German magazine in 2003](http://www.chesscomputeruk.com/Richard_Lang_Q_A.pdf), pdf hosted by [Mike Watters](Mike_Watters "Mike Watters"), [Chess Computer UK](http://www.chesscomputeruk.com/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sinclair QL Computer Wiki - Psion Chess](http://www.rwapadventures.com/ql_wiki/index.php?title=Psion%20Chess)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Psion](http://www.schach-computer.info/wiki/index.php/Psion) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") (**1987**). *[The 7th World Microcomputer Chess Championship](WMCCC_1987 "WMCCC 1987"), Rome, Italy, September 14-20, 1987*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 10, No. 3
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Chess software for psion](http://groups.google.com/group/comp.sys.psion/browse_frm/thread/ed72cc49dab891f6) post 5 by [Chris Whittington](Chris_Whittington "Chris Whittington"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 18, 1996
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [free Chess for Psion 3 palmtop](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/64419b7476bf4b11) by [Johan Van Barel](index.php?title=Johan_Van_Barel&action=edit&redlink=1 "Johan Van Barel (page does not exist)"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 14, 1997
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Psion Chess](http://www.vanbarel.com/psiox/chess.html) by [Johan Van Barel](index.php?title=Johan_Van_Barel&action=edit&redlink=1 "Johan Van Barel (page does not exist)")
 
 **[Up one level](Engines "Engines")**
 

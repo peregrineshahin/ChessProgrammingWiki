@@ -44,13 +44,13 @@ a Finnish software engineer with a Master's degree in physics from [University o
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Joona Kiiski | LinkedIn](https://www.linkedin.com/in/joona-kiiski-54425a31/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Joona Kiiski | LinkedIn](https://www.linkedin.com/in/joona-kiiski-54425a31/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Smaug: a new chess engine based on glaurung](http://www.talkchess.com/forum/viewtopic.php?t=26971) by Joona Kiiski, [CCC](CCC "CCC"), March 12, 2009
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Trusted testers wanted](http://www.talkchess.com/forum/viewtopic.php?t=27758) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), May 05, 2009
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Stockfish - Glaurung](http://wbec-ridderkerk.forumotion.com/wbec-ridderkerk-news-info-f1/stockfish-glaurung-t402.htm) from [WBEC-Ridderkerk forum](http://wbec-ridderkerk.forumotion.com/forum.htm), September, 2009
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Stockfish's tuning method](http://www.talkchess.com/forum/viewtopic.php?t=40662) by Joona Kiiski, [CCC](CCC "CCC"), October 07, 2011
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [SPSA Algorithm](http://www.jhuapl.edu/spsa/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Joona Kiiski | LinkedIn](https://www.linkedin.com/in/joona-kiiski-54425a31/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Joona Kiiski | LinkedIn](https://www.linkedin.com/in/joona-kiiski-54425a31/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Smaug: a new chess engine based on glaurung](http://www.talkchess.com/forum/viewtopic.php?t=26971) by Joona Kiiski, [CCC](CCC "CCC"), March 12, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Trusted testers wanted](http://www.talkchess.com/forum/viewtopic.php?t=27758) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), May 05, 2009
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Stockfish - Glaurung](http://wbec-ridderkerk.forumotion.com/wbec-ridderkerk-news-info-f1/stockfish-glaurung-t402.htm) from [WBEC-Ridderkerk forum](http://wbec-ridderkerk.forumotion.com/forum.htm), September, 2009
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Stockfish's tuning method](http://www.talkchess.com/forum/viewtopic.php?t=40662) by Joona Kiiski, [CCC](CCC "CCC"), October 07, 2011
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [SPSA Algorithm](http://www.jhuapl.edu/spsa/)
 
 **[Up one level](People "People")**
 

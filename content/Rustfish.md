@@ -30,7 +30,7 @@ a [port](Stockfish#ports "Stockfish") of Stockfish written in [Rust](Rust "Rust"
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Fish Market](https://en.wikipedia.org/wiki/Fish_Market_(Joachim_Beuckelaer)) by [Joachim Beuckelaer](Category:Joachim_Beuckelaer "Category:Joachim Beuckelaer"), 1568, [Metropolitan Museum of Art](https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art), [New York City](https://en.wikipedia.org/wiki/New_York_City), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Cod from Wikipedia](https://en.wikipedia.org/wiki/Cod)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Fish Market](https://en.wikipedia.org/wiki/Fish_Market_(Joachim_Beuckelaer)) by [Joachim Beuckelaer](Category:Joachim_Beuckelaer "Category:Joachim Beuckelaer"), 1568, [Metropolitan Museum of Art](https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art), [New York City](https://en.wikipedia.org/wiki/New_York_City), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Cod from Wikipedia](https://en.wikipedia.org/wiki/Cod)
 
 **[Up one Level](Stockfish "Stockfish")**
 

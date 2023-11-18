@@ -79,10 +79,10 @@ a6 20.Bc5 Qg5 21.Be3 Qe5 22.Re2 Qc7 23.Rae1 a5 24.c5 Rad8 25.Bg5 f6
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hartmann Schedel](https://en.wikipedia.org/wiki/Hartmann_Schedel), [Fifth day](https://en.wikipedia.org/wiki/File:Nuremberg_chronicles_-_f_4v.png), 1493, [Nuremberg Chronicle](https://en.wikipedia.org/wiki/Nuremberg_Chronicle)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1993**). *Report on the 13th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [London 1992 - Chess - Round 5 - Game 1 (ICGA Tournaments)](http://www.grappa.univ-lille3.fr/icga/round.php?tournament=119&round=5&id=1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hartmann Schedel](https://en.wikipedia.org/wiki/Hartmann_Schedel), [Fifth day](https://en.wikipedia.org/wiki/File:Nuremberg_chronicles_-_f_4v.png), 1493, [Nuremberg Chronicle](https://en.wikipedia.org/wiki/Nuremberg_Chronicle)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1993**). *Report on the 13th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [London 1992 - Chess - Round 5 - Game 1 (ICGA Tournaments)](http://www.grappa.univ-lille3.fr/icga/round.php?tournament=119&round=5&id=1)
 
 **[Up one Level](Engines "Engines")**
 

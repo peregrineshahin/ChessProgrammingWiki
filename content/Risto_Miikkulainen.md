@@ -70,9 +70,9 @@ i.e. evolving [neural networks](Neural_Networks "Neural Networks") with [genetic
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [NNRG People - Risto Miikkulainen](http://nn.cs.utexas.edu/?risto)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Risto Miikkulainen](https://dblp.uni-trier.de/pers/m/Miikkulainen:Risto.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Risto Miikkulainen‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=2SmbjHAAAAAJ&hl=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [NNRG People - Risto Miikkulainen](http://nn.cs.utexas.edu/?risto)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Risto Miikkulainen](https://dblp.uni-trier.de/pers/m/Miikkulainen:Risto.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Risto Miikkulainen‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=2SmbjHAAAAAJ&hl=en)
 
 **[Up one Level](People "People")**
 

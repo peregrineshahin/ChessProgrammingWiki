@@ -40,8 +40,8 @@ title: BarIlan University
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gonda Brain Research Center](https://en.wikipedia.org/wiki/Bar-Ilan_University#Leslie_and_Susan_Gonda_Multidisciplinary_Brain_Research_Center) at Bar-Ilan University, Image by [Mikepe](https://he.wikipedia.org/wiki/Mikepe), 2003, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Bar-Ilan University from Wikipedia](https://en.wikipedia.org/wiki/Bar-Ilan_University)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kaissa & Botvinik](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/e9f5b809a7ac0952) by [Shay Bushinsky](Shay_Bushinsky "Shay Bushinsky"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 16, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gonda Brain Research Center](https://en.wikipedia.org/wiki/Bar-Ilan_University#Leslie_and_Susan_Gonda_Multidisciplinary_Brain_Research_Center) at Bar-Ilan University, Image by [Mikepe](https://he.wikipedia.org/wiki/Mikepe), 2003, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Bar-Ilan University from Wikipedia](https://en.wikipedia.org/wiki/Bar-Ilan_University)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kaissa & Botvinik](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/e9f5b809a7ac0952) by [Shay Bushinsky](Shay_Bushinsky "Shay Bushinsky"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 16, 1997
 
 **[Up one Level](Organizations "Organizations")**
 

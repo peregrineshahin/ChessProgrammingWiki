@@ -86,7 +86,7 @@ Chess960 can use all chess notations with some caring about ambiguities:
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The birth of Fischer Random Chess](http://www.chessvariants.org/diffsetup.dir/fischerh.html) by [Eric van Reem](Eric_van_Reem "Eric van Reem")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The birth of Fischer Random Chess](http://www.chessvariants.org/diffsetup.dir/fischerh.html) by [Eric van Reem](Eric_van_Reem "Eric van Reem")
 
 **[Up one Level](Games "Games")**
 

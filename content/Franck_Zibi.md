@@ -35,10 +35,10 @@ As computer chess programmer, he is author of the chess programs [HpChess](HpChe
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Franck Zibi | LinkedIn](https://www.linkedin.com/in/franck-zibi-7631b16/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Franck Zibi | LinkedIn](https://www.linkedin.com/in/franck-zibi-7631b16/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Massy 2002 - Final standings & pictures & pgn at ...](https://www.stmintz.com/ccc/index.php?id=232663) by Franck Zibi, [CCC](CCC "CCC"), May 29, 2002
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Massy, from the horse's mouth](https://www.stmintz.com/ccc/index.php?id=232907) by [Ernest Bonnem](index.php?title=Ernest_Bonnem&action=edit&redlink=1 "Ernest Bonnem (page does not exist)"), [CCC](CCC "CCC"), May 30, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Franck Zibi | LinkedIn](https://www.linkedin.com/in/franck-zibi-7631b16/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Franck Zibi | LinkedIn](https://www.linkedin.com/in/franck-zibi-7631b16/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Massy 2002 - Final standings & pictures & pgn at ...](https://www.stmintz.com/ccc/index.php?id=232663) by Franck Zibi, [CCC](CCC "CCC"), May 29, 2002
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Massy, from the horse's mouth](https://www.stmintz.com/ccc/index.php?id=232907) by [Ernest Bonnem](index.php?title=Ernest_Bonnem&action=edit&redlink=1 "Ernest Bonnem (page does not exist)"), [CCC](CCC "CCC"), May 30, 2002
 
 **[Up one level](People "People")**
 

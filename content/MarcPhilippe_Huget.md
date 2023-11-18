@@ -66,14 +66,14 @@ As a former computer chess programmer, Marc-Philippe Huget is author of the [Win
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [mphuget (Marc-Philippe Huget) · GitHub](https://github.com/mphuget)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Marc-Philippe Huget (**2001**). *Une ingénierie des protocoles d'interaction pour les systèmes multi-agents*. Ph.D. thesis, [University of Paris 9 Dauphine](University_of_Paris "University of Paris")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Web site updated and new program Book Builder](https://www.stmintz.com/ccc/index.php?id=44407) by Marc-Philippe Huget, [CCC](CCC "CCC"), February 24, 1999
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Book Bilder of La Dame Blanche](http://www.quarkchess.de/ladameblanche/) by Marc-Philippe Huget, hosted by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Marc-Philippe Huget](https://dblp.uni-trier.de/pers/hd/h/Huget:Marc=Philippe.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Class diagram from Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [UML 2.x from Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#UML_2.x)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Open Platform Communications from Wikipedia](https://en.wikipedia.org/wiki/Open_Platform_Communications)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [mphuget (Marc-Philippe Huget) · GitHub](https://github.com/mphuget)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Marc-Philippe Huget (**2001**). *Une ingénierie des protocoles d'interaction pour les systèmes multi-agents*. Ph.D. thesis, [University of Paris 9 Dauphine](University_of_Paris "University of Paris")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Web site updated and new program Book Builder](https://www.stmintz.com/ccc/index.php?id=44407) by Marc-Philippe Huget, [CCC](CCC "CCC"), February 24, 1999
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Book Bilder of La Dame Blanche](http://www.quarkchess.de/ladameblanche/) by Marc-Philippe Huget, hosted by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Marc-Philippe Huget](https://dblp.uni-trier.de/pers/hd/h/Huget:Marc=Philippe.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Class diagram from Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [UML 2.x from Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#UML_2.x)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Open Platform Communications from Wikipedia](https://en.wikipedia.org/wiki/Open_Platform_Communications)
 
 **[Up one level](People "People")**
 

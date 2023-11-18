@@ -37,10 +37,10 @@ a Taiwanese computer scientist affiliated with the [National Chiao Tung Universi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Members - lab-aigames](http://www.aigames.nctu.edu.tw/members)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [DarkKnight](http://java.csie.nctu.edu.tw/~icwu/aigames/DarkKnight.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [18th Computer Olympiad - Day 4 Photos](https://icga.org/?page_id=1389) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Chu-Hsuan Hsueh](https://dblp.uni-trier.de/pid/170/5288.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Members - lab-aigames](http://www.aigames.nctu.edu.tw/members)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [DarkKnight](http://java.csie.nctu.edu.tw/~icwu/aigames/DarkKnight.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [18th Computer Olympiad - Day 4 Photos](https://icga.org/?page_id=1389) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Chu-Hsuan Hsueh](https://dblp.uni-trier.de/pid/170/5288.html)
 
 **[Up one Level](People "People")**
 

@@ -31,9 +31,9 @@ It was never released, effectively superseded by the [Superstar 28K](Superstar "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [SciSys - President Chess (prototype)](http://www.schaakcomputers.nl/hein_veldhuis/database/files/07-1982%20%5BJ-0701%5D%20SciSys%20-%20President%20Chess%20%28prototype%29.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *[The third European Microcomputer Chess tournament](https://www.atarimagazines.com/creative/v9n1/123_The_third_European_Microc.php)*. [Creative Computing](Creative_Computing "Creative Computing"), Vol. 9, No. 1
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [President Chess](http://www.chesscomputeruk.com/html/president_chess.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [SciSys - President Chess (prototype)](http://www.schaakcomputers.nl/hein_veldhuis/database/files/07-1982%20%5BJ-0701%5D%20SciSys%20-%20President%20Chess%20%28prototype%29.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *[The third European Microcomputer Chess tournament](https://www.atarimagazines.com/creative/v9n1/123_The_third_European_Microc.php)*. [Creative Computing](Creative_Computing "Creative Computing"), Vol. 9, No. 1
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [President Chess](http://www.chesscomputeruk.com/html/president_chess.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one level](Engines "Engines")**
 

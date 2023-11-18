@@ -94,8 +94,8 @@ END FUNCTION EVALUATE
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Punched card from Wikipedia](https://en.wikipedia.org/wiki/Punched_card)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [chessf90.zip, Source and 64 bit Windows executable of A Fortran 90 chess program](http://cap.connx.com/chess-engines/new-approach/chessf90.zip) from [cap.connx.com](http://cap.connx.com/) by [Dann Corbit](Dann_Corbit "Dann Corbit")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Punched card from Wikipedia](https://en.wikipedia.org/wiki/Punched_card)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [chessf90.zip, Source and 64 bit Windows executable of A Fortran 90 chess program](http://cap.connx.com/chess-engines/new-approach/chessf90.zip) from [cap.connx.com](http://cap.connx.com/) by [Dann Corbit](Dann_Corbit "Dann Corbit")
 
 **[Up one Level](Languages "Languages")**
 

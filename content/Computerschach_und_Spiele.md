@@ -66,11 +66,11 @@ a German computer chess periodical. From 1983 until 2005 it was a paper magazine
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computerschach und Spiele, Impressum](http://www.computerschach.com/index.php?option=com_akolegal&Itemid=45) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Steinwender EDV-Beratung GbR](http://www.steinwender.de/cms/front_content.php?idcat=39)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Schachclub Leinzell - Chronik des Computerschachs](http://scleinzell.schachvereine.de/p_themen/chronik.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), December 2005 (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chronik des Computerschachs - DVD-box, 2005](http://www.schachversand.de/e/detail/buecher/8028.html), [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Ständige Mitarbeiter CSS Issue 2 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computerschach und Spiele, Impressum](http://www.computerschach.com/index.php?option=com_akolegal&Itemid=45) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Steinwender EDV-Beratung GbR](http://www.steinwender.de/cms/front_content.php?idcat=39)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Schachclub Leinzell - Chronik des Computerschachs](http://scleinzell.schachvereine.de/p_themen/chronik.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), December 2005 (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chronik des Computerschachs - DVD-box, 2005](http://www.schachversand.de/e/detail/buecher/8028.html), [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Ständige Mitarbeiter CSS Issue 2 1997
 
 **[Up one Level](Periodical "Periodical")**
 

@@ -54,10 +54,10 @@ A0lite applies [upper confidence bounds](UCT "UCT") to [Monte-Carlo trees](Monte
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [New engine: a0lite](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73495) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), March 28, 2020
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Leela Lite: A toolkit for experimenting with leela nets in python](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68789) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), October 31, 2018
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [a0lite/README.md at master · dkappe/a0lite · GitHub](https://github.com/dkappe/a0lite/blob/master/README.md)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Your motivation for writing a chess engine?](http://talkchess.com/forum3/viewtopic.php?f=2&t=76787) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), Mar 06, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [New engine: a0lite](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73495) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), March 28, 2020
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Leela Lite: A toolkit for experimenting with leela nets in python](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68789) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), October 31, 2018
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [a0lite/README.md at master · dkappe/a0lite · GitHub](https://github.com/dkappe/a0lite/blob/master/README.md)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Your motivation for writing a chess engine?](http://talkchess.com/forum3/viewtopic.php?f=2&t=76787) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), Mar 06, 2021
 
 **[Up one Level](Engines "Engines")**
 

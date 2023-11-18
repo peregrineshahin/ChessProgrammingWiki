@@ -35,9 +35,9 @@ The engine applies [negamax](Negamax "Negamax") [alpha-beta](Alpha-Beta "Alpha-B
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Caricature "Between Berlin and Rome" by [Wilhelm Scholz](https://de.wikipedia.org/wiki/Wilhelm_Scholz_%28Karikaturist%29), [Kladderadatsch](https://en.wikipedia.org/wiki/Kladderadatsch), May 16, 1875. The caption reads: ([Pope](https://en.wikipedia.org/wiki/Pope_Pius_IX):) "The last move was certainly very unpleasant for me; but that doesn't yet mean the game is lost. I have one more very fine move up my sleeve!" ([Bismarck](https://en.wikipedia.org/wiki/Otto_von_Bismarck):) "It will also be the last, and then you are mated in a few moves - at least for Germany." Note the caricaturist's error in orienting the chessboard by placing white squares on players' left. [Kulturkampf from Wikipedia](https://en.wikipedia.org/wiki/Kulturkampf), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [jackalsh / Bismark — Bitbucket](https://bitbucket.org/jackalsh/bismark/src/master/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Description based on the sources of Bismark 1.3
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Caricature "Between Berlin and Rome" by [Wilhelm Scholz](https://de.wikipedia.org/wiki/Wilhelm_Scholz_%28Karikaturist%29), [Kladderadatsch](https://en.wikipedia.org/wiki/Kladderadatsch), May 16, 1875. The caption reads: ([Pope](https://en.wikipedia.org/wiki/Pope_Pius_IX):) "The last move was certainly very unpleasant for me; but that doesn't yet mean the game is lost. I have one more very fine move up my sleeve!" ([Bismarck](https://en.wikipedia.org/wiki/Otto_von_Bismarck):) "It will also be the last, and then you are mated in a few moves - at least for Germany." Note the caricaturist's error in orienting the chessboard by placing white squares on players' left. [Kulturkampf from Wikipedia](https://en.wikipedia.org/wiki/Kulturkampf), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [jackalsh / Bismark — Bitbucket](https://bitbucket.org/jackalsh/bismark/src/master/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Description based on the sources of Bismark 1.3
 
 **[Up one Level](Engines "Engines")**
 

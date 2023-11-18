@@ -35,10 +35,10 @@ a French computer scientist and chess programmer. Along with [Raphael Grundrich]
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [FCCC 2003](FCCC_2003 "FCCC 2003"), image snipped from a photo by [Sylvain Renard](Sylvain_Renard "Sylvain Renard"), hosted by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen"), [Massy, France - 4 & 5 Oct 2003 - 10ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2003/tournoi.php3) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cassandre - Chess Engine](http://cassandre.sourceforge.net/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Source | Source/SVN | Assembla - ChessPad](https://www.assembla.com/code/chesspad/subversion/nodes)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [New opensource GUI on android for UCI engines](http://www.talkchess.com/forum/viewtopic.php?t=39118) by Jean-Francois Romang, [CCC](CCC "CCC"), May 19, 2011
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [FCCC 2003](FCCC_2003 "FCCC 2003"), image snipped from a photo by [Sylvain Renard](Sylvain_Renard "Sylvain Renard"), hosted by [Stéphane Nguyen](St%C3%A9phane_Nguyen "Stéphane Nguyen"), [Massy, France - 4 & 5 Oct 2003 - 10ème Championnat Français de Programmes d'Echecs](http://www.ludochess.com/fccc2003/tournoi.php3) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cassandre - Chess Engine](http://cassandre.sourceforge.net/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Source | Source/SVN | Assembla - ChessPad](https://www.assembla.com/code/chesspad/subversion/nodes)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [New opensource GUI on android for UCI engines](http://www.talkchess.com/forum/viewtopic.php?t=39118) by Jean-Francois Romang, [CCC](CCC "CCC"), May 19, 2011
 
 **[Up one level](People "People")**
 

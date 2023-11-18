@@ -37,11 +37,11 @@ and gained experience in [numerical](https://en.wikipedia.org/wiki/Numerical_ana
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr. Shirish Chinchalkar | Moody's Analytics](https://www.moodysanalytics.com/about-us/subject-matter-experts/shirish-chinchalkar)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Shirish Chinchalkar | LinkedIn](https://www.linkedin.com/in/shirish-chinchalkar-1323a0a/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dr. Shirish Chinchalkar | Moody's Analytics](https://www.moodysanalytics.com/about-us/subject-matter-experts/shirish-chinchalkar)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Shirish Chinchalkar (**1996**). *An Upper Bound for the Number of Reachable Positions*. [ICCA Journal, Vol. 19, No. 3](ICGA_Journal#19_3 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Shirish Chinchalkar](https://dblp.uni-trier.de/pers/hd/c/Chinchalkar:Shirish.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr. Shirish Chinchalkar | Moody's Analytics](https://www.moodysanalytics.com/about-us/subject-matter-experts/shirish-chinchalkar)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shirish Chinchalkar | LinkedIn](https://www.linkedin.com/in/shirish-chinchalkar-1323a0a/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dr. Shirish Chinchalkar | Moody's Analytics](https://www.moodysanalytics.com/about-us/subject-matter-experts/shirish-chinchalkar)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Shirish Chinchalkar (**1996**). *An Upper Bound for the Number of Reachable Positions*. [ICCA Journal, Vol. 19, No. 3](ICGA_Journal#19_3 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Shirish Chinchalkar](https://dblp.uni-trier.de/pers/hd/c/Chinchalkar:Shirish.html)
 
 **[Up one level](People "People")**
 

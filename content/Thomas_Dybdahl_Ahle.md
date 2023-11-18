@@ -65,17 +65,17 @@ and a M.Sc. and Ph.D. in [algorithms](Algorithms "Algorithms") and [theoretical 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [thomasahle (Thomas Dybdahl Ahle) · GitHub](https://github.com/thomasahle)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [BARC – University of Copenhagen](https://barc.ku.dk/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Thomas Dybdahl Ahle | LinkedIn](https://dk.linkedin.com/in/thomasahle)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jonni Bidwell](https://www.techradar.com/author/jonni-bidwell) (**2016**). *Python: Sunfish chess engine*. [Linux Format](https://en.wikipedia.org/wiki/Linux_Format), [pdf](http://www.itu.dk/people/thdy/papers/sunfish.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Thomas D. Ahle](https://dblp.uni-trier.de/pers/hd/a/Ahle:Thomas_D=)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Thomas D. Ahle - Google Scholar Citations](https://scholar.google.dk/citations?user=aRiVoYgAAAAJ)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Thomas Dybdahl Ahle](http://www.itu.dk/people/thdy/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Locality-sensitive hashing from Wikipedia](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [MinHash from Wikipedia](https://en.wikipedia.org/wiki/MinHash)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Mersenne prime from Wikipedia](https://en.wikipedia.org/wiki/Mersenne_prime)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [skopt API documentation](https://scikit-optimize.github.io/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [thomasahle (Thomas Dybdahl Ahle) · GitHub](https://github.com/thomasahle)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [BARC – University of Copenhagen](https://barc.ku.dk/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Thomas Dybdahl Ahle | LinkedIn](https://dk.linkedin.com/in/thomasahle)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jonni Bidwell](https://www.techradar.com/author/jonni-bidwell) (**2016**). *Python: Sunfish chess engine*. [Linux Format](https://en.wikipedia.org/wiki/Linux_Format), [pdf](http://www.itu.dk/people/thdy/papers/sunfish.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Thomas D. Ahle](https://dblp.uni-trier.de/pers/hd/a/Ahle:Thomas_D=)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Thomas D. Ahle - Google Scholar Citations](https://scholar.google.dk/citations?user=aRiVoYgAAAAJ)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Thomas Dybdahl Ahle](http://www.itu.dk/people/thdy/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Locality-sensitive hashing from Wikipedia](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [MinHash from Wikipedia](https://en.wikipedia.org/wiki/MinHash)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Mersenne prime from Wikipedia](https://en.wikipedia.org/wiki/Mersenne_prime)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [skopt API documentation](https://scikit-optimize.github.io/)
 
 **[Up one level](People "People")**
 

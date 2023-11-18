@@ -51,10 +51,10 @@ Along with his twin brother [Munjong](Munjong_Kolss "Munjong Kolss"), Muntsin is
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Lars Bremer](Lars_Bremer "Lars Bremer") (**2006**). *Paderborn, Tag 2: Weggezappt*. [CSS online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](http://computerschach.de/Files/2006/Paderborn,%20Tag%202:%20Weggezappt.pdf) » [IPCCC 2005 b](IPCCC_2005_b "IPCCC 2005 b")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WCCC 2006](WCCC_2006 "WCCC 2006") Turin, Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Muntsin Kolss](https://dblp.org/pers/hd/k/Kolss:Muntsin)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2008 Summer Olympics from Wikipedia](https://en.wikipedia.org/wiki/2008_Summer_Olympics)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Lars Bremer](Lars_Bremer "Lars Bremer") (**2006**). *Paderborn, Tag 2: Weggezappt*. [CSS online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](http://computerschach.de/Files/2006/Paderborn,%20Tag%202:%20Weggezappt.pdf) » [IPCCC 2005 b](IPCCC_2005_b "IPCCC 2005 b")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WCCC 2006](WCCC_2006 "WCCC 2006") Turin, Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Muntsin Kolss](https://dblp.org/pers/hd/k/Kolss:Muntsin)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2008 Summer Olympics from Wikipedia](https://en.wikipedia.org/wiki/2008_Summer_Olympics)
 
 **[Up one level](People "People")**
 

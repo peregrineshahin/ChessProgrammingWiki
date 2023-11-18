@@ -42,10 +42,10 @@ a Dutch software developer, and as computer chess programmer, author of the [Che
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Bas Hamstra, [Martin Giepmans](Martin_Giepmans "Martin Giepmans") and arbiter [Rienk Doetjes](index.php?title=Rienk_Doetjes&action=edit&redlink=1 "Rienk Doetjes (page does not exist)"), Photos from [1st CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About Tao 5.2](https://www.stmintz.com/ccc/index.php?id=242621) by Bas Hamstra, [CCC](CCC "CCC"), July 25, 2002
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [24th Open Dutch Computer-Chess Championship 2004 Photo Gallery](http://old.csvn.nl/gallery21.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Search Degredation w/ C++](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/5fba0f94be869f35) by Chris Jason Richards, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 12, 1997, post 4 and 6 by [Amir Ban](Amir_Ban "Amir Ban")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Bas Hamstra, [Martin Giepmans](Martin_Giepmans "Martin Giepmans") and arbiter [Rienk Doetjes](index.php?title=Rienk_Doetjes&action=edit&redlink=1 "Rienk Doetjes (page does not exist)"), Photos from [1st CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About Tao 5.2](https://www.stmintz.com/ccc/index.php?id=242621) by Bas Hamstra, [CCC](CCC "CCC"), July 25, 2002
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [24th Open Dutch Computer-Chess Championship 2004 Photo Gallery](http://old.csvn.nl/gallery21.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Search Degredation w/ C++](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/5fba0f94be869f35) by Chris Jason Richards, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 12, 1997, post 4 and 6 by [Amir Ban](Amir_Ban "Amir Ban")
 
 **[Up one level](People "People")**
 

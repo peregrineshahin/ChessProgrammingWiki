@@ -62,10 +62,10 @@ an American mathemantician and computer scientist, since the 50s affiliated with
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [James Kister](James_Kister "James Kister"), [Paul Stein](Paul_Stein "Paul Stein"), [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam"), [William Walden](William_Walden "William Walden"), Mark Wells (**1957**). *[Experiments in Chess](http://dl.acm.org/citation.cfm?id=320868.320877&coll=DL&dl=GUIDE&CFID=628969023&CFTOKEN=30690604)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 4, No. 2
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Herbert L. Anderson](https://en.wikipedia.org/wiki/Herbert_L._Anderson) (**1986**). *Metropolis, Monte Carlo, and the MANIAC*. [Los Alamos Science](http://la-science.lanl.gov/), [pdf](http://www.fas.org/sgp/othergov/doe/lanl/pubs/00326886.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mark Brimhall Wells - ACM author profile page](http://dl.acm.org/author_page.cfm?id=81339535819&coll=DL&dl=GUIDE&CFID=628969023&CFTOKEN=30690604)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Mark B. Wells](http://dblp.uni-trier.de/pers/hd/w/Wells:Mark_B=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [James Kister](James_Kister "James Kister"), [Paul Stein](Paul_Stein "Paul Stein"), [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam"), [William Walden](William_Walden "William Walden"), Mark Wells (**1957**). *[Experiments in Chess](http://dl.acm.org/citation.cfm?id=320868.320877&coll=DL&dl=GUIDE&CFID=628969023&CFTOKEN=30690604)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 4, No. 2
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Herbert L. Anderson](https://en.wikipedia.org/wiki/Herbert_L._Anderson) (**1986**). *Metropolis, Monte Carlo, and the MANIAC*. [Los Alamos Science](http://la-science.lanl.gov/), [pdf](http://www.fas.org/sgp/othergov/doe/lanl/pubs/00326886.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mark Brimhall Wells - ACM author profile page](http://dl.acm.org/author_page.cfm?id=81339535819&coll=DL&dl=GUIDE&CFID=628969023&CFTOKEN=30690604)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Mark B. Wells](http://dblp.uni-trier.de/pers/hd/w/Wells:Mark_B=)
 
 **[Up one level](People "People")**
 

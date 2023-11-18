@@ -44,9 +44,9 @@ Petir had its tournament debut at [CCT7](CCT7 "CCT7") in 2005 (3/8), and further
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Petir di atas kota Piracibaba, Brasil, Phsoto by [Gburiola](https://commons.wikimedia.org/wiki/User:Gburiola), May 12, 2005, [Petir Wikipedia.id](https://id.wikipedia.org/wiki/Petir) (Indonesian), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Petir 1.0 is now available](https://www.stmintz.com/ccc/index.php?id=388211) by [Peter Alloysius](Peter_Aloysius_Harjanto "Peter Aloysius Harjanto"), [CCC](CCC "CCC"), September 19, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Petir source code | Looking from another side](https://codepeter.wordpress.com/2013/11/13/petir_source_code/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Petir di atas kota Piracibaba, Brasil, Phsoto by [Gburiola](https://commons.wikimedia.org/wiki/User:Gburiola), May 12, 2005, [Petir Wikipedia.id](https://id.wikipedia.org/wiki/Petir) (Indonesian), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Petir 1.0 is now available](https://www.stmintz.com/ccc/index.php?id=388211) by [Peter Alloysius](Peter_Aloysius_Harjanto "Peter Aloysius Harjanto"), [CCC](CCC "CCC"), September 19, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Petir source code | Looking from another side](https://codepeter.wordpress.com/2013/11/13/petir_source_code/)
 
 **[Up one Level](Engines "Engines")**
 

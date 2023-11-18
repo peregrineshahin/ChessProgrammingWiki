@@ -64,16 +64,16 @@ Krakauer maintaines a blog with interesting stories about chess, Mac Hack IV, th
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Home page: Lawrence J. Krakauer](http://ljkrakauer.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Biography of Lawrence J. Krakauer](http://ljkrakauer.com/LJK.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Coming to Kronos](http://ljkrakauer.com/LJK/80s90s/tokronos.htm) by Lawrence J. Krakauer
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computer chess via ham radio](http://ljkrakauer.com/LJK/60s/hamchess.htm) by Lawrence J. Krakauer
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [July 1, 2010 letter from Dr. Gerald Tripard](http://ljkrakauer.com/LJK/60s/tripardltr.htm), hosted by Lawrence J. Krakauer
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Larry's memoirs and musings](http://ljkrakauer.com/LJK/index.htm)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [I resign](http://ljkrakauer.com/LJK/60s/resign.htm) by Lawrence J. Krakauer
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chess stories](http://ljkrakauer.com/LJK/60s/chess1.htm) by Lawrence J. Krakauer
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> This report reproduces a thesis of the same title submitted to the Department of Electrical Engineering, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Toxicodendron radicans from Wikipedia](https://en.wikipedia.org/wiki/Toxicodendron_radicans)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Home page: Lawrence J. Krakauer](http://ljkrakauer.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Biography of Lawrence J. Krakauer](http://ljkrakauer.com/LJK.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Coming to Kronos](http://ljkrakauer.com/LJK/80s90s/tokronos.htm) by Lawrence J. Krakauer
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computer chess via ham radio](http://ljkrakauer.com/LJK/60s/hamchess.htm) by Lawrence J. Krakauer
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [July 1, 2010 letter from Dr. Gerald Tripard](http://ljkrakauer.com/LJK/60s/tripardltr.htm), hosted by Lawrence J. Krakauer
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Larry's memoirs and musings](http://ljkrakauer.com/LJK/index.htm)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [I resign](http://ljkrakauer.com/LJK/60s/resign.htm) by Lawrence J. Krakauer
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chess stories](http://ljkrakauer.com/LJK/60s/chess1.htm) by Lawrence J. Krakauer
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> This report reproduces a thesis of the same title submitted to the Department of Electrical Engineering, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Toxicodendron radicans from Wikipedia](https://en.wikipedia.org/wiki/Toxicodendron_radicans)
 
 **[Up one level](People "People")**
 

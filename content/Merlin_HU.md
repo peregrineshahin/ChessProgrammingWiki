@@ -60,8 +60,8 @@ Since version 2.0, Merlin applies [TDLeaf(λ)](Temporal_Difference_Learning#TDLe
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Naumann](https://en.wikipedia.org/wiki/Johann_Friedrich_Naumann) (**1905**). *[Naturgeschichte der Vögel Mitteleuropas](http://www1.biologie.uni-hamburg.de/b-online/birds/naumann.htm)*. 3. Auflage G. Berg et al., Herausgeber [Carl R. Hennicke](https://de.wikipedia.org/wiki/Carl_Richard_Hennicke), [Gera-Untermhaus](https://de.wikipedia.org/wiki/Untermhaus), F. E. Köhler, (Natural history of the birds of central Europe)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New Hungarian Chess Program Champion!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47721) by [Gábor Szõts](Gabor_Szots "Gabor Szots"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 31, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Naumann](https://en.wikipedia.org/wiki/Johann_Friedrich_Naumann) (**1905**). *[Naturgeschichte der Vögel Mitteleuropas](http://www1.biologie.uni-hamburg.de/b-online/birds/naumann.htm)*. 3. Auflage G. Berg et al., Herausgeber [Carl R. Hennicke](https://de.wikipedia.org/wiki/Carl_Richard_Hennicke), [Gera-Untermhaus](https://de.wikipedia.org/wiki/Untermhaus), F. E. Köhler, (Natural history of the birds of central Europe)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New Hungarian Chess Program Champion!](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47721) by [Gábor Szõts](Gabor_Szots "Gabor Szots"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 31, 2004
 
 **[Up one level](Engines "Engines")**
 

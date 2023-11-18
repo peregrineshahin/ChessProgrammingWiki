@@ -126,24 +126,24 @@ The same day [Zach Wegner](Zach_Wegner "Zach Wegner") published a technical summ
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hippolyte from Wikipedia](https://en.wikipedia.org/wiki/Hippolyta), image from *Promptuarii iconum insigniorum* by [Guillaume Rouillé](https://en.wikipedia.org/wiki/Guillaume_Rouill%C3%A9) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> private communication with [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Double: A Petersburg Poem](https://en.wikipedia.org/wiki/The_Double:_A_Petersburg_Poem) a novella written by [Fyodor Dostoyevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Vladimir Lenin from Wikipedia](https://en.wikipedia.org/wiki/Vladimir_Lenin)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Abdul Abulbul Amir from Wikipedia](https://en.wikipedia.org/wiki/Abdul_Abulbul_Amir)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [IPPOLIT from Wikipedia](https://en.wikipedia.org/wiki/IPPOLIT)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Decembrist revolt from Wikipedia](https://en.wikipedia.org/wiki/Decembrist_revolt)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ChessLogik - RobboLito](http://users.telenet.be/chesslogik//robbolito.htm) hosted by [Norman Schmidt](Norman_Schmidt "Norman Schmidt") has a list of [RobboLito](RobboLito "RobboLito") comrades and Decembrists
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [ChessLogik - RobboLito](http://users.telenet.be/chesslogik//robbolito.htm) hosted by [Norman Schmidt](Norman_Schmidt "Norman Schmidt") has a list of RobboLito comrades and Decembrists
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [New engine: Ippolit](http://www.talkchess.com/forum/viewtopic.php?t=30192) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [CCC](CCC "CCC"), October 18, 2009
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Official statement on [Deleted](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=12995)?] by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), October 21, 2009
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [My recent correspondence with Vasik Rajlich](http://www.talkchess.com/forum/viewtopic.php?t=34908) by [Sven Schüle](Sven_Sch%C3%BCle "Sven Schüle"), [CCC](CCC "CCC"), June 13, 2010
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [A comparison of Rybka and IPPOLIT](http://www.open-chess.org/download/file.php?id=13) (pdf)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [BB's Rybka/Ippolit comparison](http://www.open-chess.org/viewtopic.php?f=3&t=119) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), June 13, 2010
-15. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [ChessLogik - RobboLito](http://users.telenet.be/chesslogik//robbolito.htm) hosted by [Norman Schmidt](Norman_Schmidt "Norman Schmidt")
-16. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Firebird programmers no longer anonymous?](http://www.rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=15405) by oudheusa, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), February 07, 2010
-17. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Re: Is Houdini 2 Legally Copyrighted?](http://www.open-chess.org/viewtopic.php?f=3&t=1733#p15264) by [Jeremy Bernstein](Jeremy_Bernstein "Jeremy Bernstein"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 10, 2011
-18. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Re: WCCC 2011 - Junior is the 2011 World Champion](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=434569&t=41183) by [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic"), [CCC](CCC "CCC"), November 25, 2011
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hippolyte from Wikipedia](https://en.wikipedia.org/wiki/Hippolyta), image from *Promptuarii iconum insigniorum* by [Guillaume Rouillé](https://en.wikipedia.org/wiki/Guillaume_Rouill%C3%A9) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> private communication with [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Double: A Petersburg Poem](https://en.wikipedia.org/wiki/The_Double:_A_Petersburg_Poem) a novella written by [Fyodor Dostoyevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Vladimir Lenin from Wikipedia](https://en.wikipedia.org/wiki/Vladimir_Lenin)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Abdul Abulbul Amir from Wikipedia](https://en.wikipedia.org/wiki/Abdul_Abulbul_Amir)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [IPPOLIT from Wikipedia](https://en.wikipedia.org/wiki/IPPOLIT)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Decembrist revolt from Wikipedia](https://en.wikipedia.org/wiki/Decembrist_revolt)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ChessLogik - RobboLito](http://users.telenet.be/chesslogik//robbolito.htm) hosted by [Norman Schmidt](Norman_Schmidt "Norman Schmidt") has a list of [RobboLito](RobboLito "RobboLito") comrades and Decembrists
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ChessLogik - RobboLito](http://users.telenet.be/chesslogik//robbolito.htm) hosted by [Norman Schmidt](Norman_Schmidt "Norman Schmidt") has a list of RobboLito comrades and Decembrists
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [New engine: Ippolit](http://www.talkchess.com/forum/viewtopic.php?t=30192) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [CCC](CCC "CCC"), October 18, 2009
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Official statement on [Deleted](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=12995)?] by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), October 21, 2009
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [My recent correspondence with Vasik Rajlich](http://www.talkchess.com/forum/viewtopic.php?t=34908) by [Sven Schüle](Sven_Sch%C3%BCle "Sven Schüle"), [CCC](CCC "CCC"), June 13, 2010
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [A comparison of Rybka and IPPOLIT](http://www.open-chess.org/download/file.php?id=13) (pdf)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [BB's Rybka/Ippolit comparison](http://www.open-chess.org/viewtopic.php?f=3&t=119) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), June 13, 2010
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [ChessLogik - RobboLito](http://users.telenet.be/chesslogik//robbolito.htm) hosted by [Norman Schmidt](Norman_Schmidt "Norman Schmidt")
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Firebird programmers no longer anonymous?](http://www.rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=15405) by oudheusa, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), February 07, 2010
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Re: Is Houdini 2 Legally Copyrighted?](http://www.open-chess.org/viewtopic.php?f=3&t=1733#p15264) by [Jeremy Bernstein](Jeremy_Bernstein "Jeremy Bernstein"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 10, 2011
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Re: WCCC 2011 - Junior is the 2011 World Champion](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=434569&t=41183) by [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic"), [CCC](CCC "CCC"), November 25, 2011
 
 **[Up one Level](Engines "Engines")**
 

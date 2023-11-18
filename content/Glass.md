@@ -91,15 +91,15 @@ an [UCI](UCI "UCI") compliant chess engine, written by the authors of the [CPW-E
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marcel Duchamp](Category:Marcel_Duchamp "Category:Marcel Duchamp") 1918 *A regarder d'un oeil, de près, pendant presque une heure, To Be Looked at (from the Other Side of the Glass) with One Eye, Close to, for Almost an Hour*. Photograph by [Man Ray](Category:Man_Ray "Category:Man Ray"), published in [391](https://en.wikipedia.org/wiki/391_%28magazine%29), July 1920, [Museum of Modern Art](https://en.wikipedia.org/wiki/Museum_of_Modern_Art), [Marcel Duchamp from Wikipedia](https://en.wikipedia.org/wiki/Marcel_Duchamp)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Introducing Glass chess engine](http://www.talkchess.com/forum/viewtopic.php?t=25413) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), December 13, 2008
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Glass 1.6 - New with Personalities!!](http://www.talkchess.com/forum/viewtopic.php?t=35414) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), July 13, 2010
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Glass Opening Book Manager 1.0 - Released!](http://www.talkchess.com/forum/viewtopic.php?t=27732) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), May 03, 2009
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Glass news](http://www.talkchess.com/forum/viewtopic.php?t=47328) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), February 25, 2013
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Glass Homepage](http://www.pkoziol.cal24.pl/glass/index.htm)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Introducing Glass chess engine](http://www.talkchess.com/forum/viewtopic.php?t=25413) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), December 13, 2008
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Glass Homepage - Details](http://www.pkoziol.cal24.pl/glass/details.htm)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Glass Homepage - History](http://www.pkoziol.cal24.pl/glass/history.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marcel Duchamp](Category:Marcel_Duchamp "Category:Marcel Duchamp") 1918 *A regarder d'un oeil, de près, pendant presque une heure, To Be Looked at (from the Other Side of the Glass) with One Eye, Close to, for Almost an Hour*. Photograph by [Man Ray](Category:Man_Ray "Category:Man Ray"), published in [391](https://en.wikipedia.org/wiki/391_%28magazine%29), July 1920, [Museum of Modern Art](https://en.wikipedia.org/wiki/Museum_of_Modern_Art), [Marcel Duchamp from Wikipedia](https://en.wikipedia.org/wiki/Marcel_Duchamp)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Introducing Glass chess engine](http://www.talkchess.com/forum/viewtopic.php?t=25413) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), December 13, 2008
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Glass 1.6 - New with Personalities!!](http://www.talkchess.com/forum/viewtopic.php?t=35414) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), July 13, 2010
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Glass Opening Book Manager 1.0 - Released!](http://www.talkchess.com/forum/viewtopic.php?t=27732) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), May 03, 2009
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Glass news](http://www.talkchess.com/forum/viewtopic.php?t=47328) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), February 25, 2013
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Glass Homepage](http://www.pkoziol.cal24.pl/glass/index.htm)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Introducing Glass chess engine](http://www.talkchess.com/forum/viewtopic.php?t=25413) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), December 13, 2008
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Glass Homepage - Details](http://www.pkoziol.cal24.pl/glass/details.htm)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Glass Homepage - History](http://www.pkoziol.cal24.pl/glass/history.htm)
 
 **[Up one Level](Engines "Engines")**
 

@@ -39,9 +39,9 @@ In the early 70s at [Columbia University](Columbia_University "Columbia Universi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr. George W. Arnold, Eng. Sc.D. – Smart Grid Center](http://smartgridcenter.tamu.edu/sgctamu/index.php/dr-george-w-arnold-eng-sc-d/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ostrich chess program under development at Columbia University Computer Lab](https://www.computerhistory.org/chess/stl-430b9bbe4451b/), George Arnold, Photographer [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), 1972, [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: George W. Arnold:](https://dblp.uni-trier.de/pers/hd/a/Arnold:George_W=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr. George W. Arnold, Eng. Sc.D. – Smart Grid Center](http://smartgridcenter.tamu.edu/sgctamu/index.php/dr-george-w-arnold-eng-sc-d/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ostrich chess program under development at Columbia University Computer Lab](https://www.computerhistory.org/chess/stl-430b9bbe4451b/), George Arnold, Photographer [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), 1972, [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: George W. Arnold:](https://dblp.uni-trier.de/pers/hd/a/Arnold:George_W=.html)
 
 **[Up one level](People "People")**
 

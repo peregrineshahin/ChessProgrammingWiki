@@ -33,9 +33,9 @@ title: C389cume
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Sea in the storm, Near [[1]](https://en.wikipedia.org/wiki/Quiberon%7CQuiberon), [Morbihan](https://en.wikipedia.org/wiki/Morbihan), [Brittany](<https://en.wikipedia.org/wiki/Brittany_(administrative_region)>), France - Image by [Lamiot](https://commons.wikimedia.org/wiki/User:Lamiot), [Écume - Wikipedia.fr](https://fr.wikipedia.org/wiki/%C3%89cume)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A Short Story of JCW's Computer Chess Program](http://recherche.enac.fr/~weill/chess.html) by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [A Short Story of JCW's Computer Chess Program](http://recherche.enac.fr/~weill/chess.html) by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Sea in the storm, Near [[1]](https://en.wikipedia.org/wiki/Quiberon%7CQuiberon), [Morbihan](https://en.wikipedia.org/wiki/Morbihan), [Brittany](<https://en.wikipedia.org/wiki/Brittany_(administrative_region)>), France - Image by [Lamiot](https://commons.wikimedia.org/wiki/User:Lamiot), [Écume - Wikipedia.fr](https://fr.wikipedia.org/wiki/%C3%89cume)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A Short Story of JCW's Computer Chess Program](http://recherche.enac.fr/~weill/chess.html) by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [A Short Story of JCW's Computer Chess Program](http://recherche.enac.fr/~weill/chess.html) by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill")
 
 **[Up one Level](Engines "Engines")**
 

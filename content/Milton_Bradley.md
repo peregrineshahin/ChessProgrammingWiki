@@ -41,11 +41,11 @@ Still in the 80's, [Fidelity Electronics](Fidelity_Electronics "Fidelity Electro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Milton Bradley Company from Wikipedia](https://en.wikipedia.org/wiki/Milton_Bradley_Company)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Phantom Moves*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [July 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html), [pdf](http://www.chesscomputeruk.com/PCW_July_1983.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Milton Bradley Company from Wikipedia](https://en.wikipedia.org/wiki/Milton_Bradley_Company)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ismenio's chess computer collection - MB Phantom Chess Computer](http://www.ismenio.com/chess_mb_phantom.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Fidelity Phantom](https://www.schach-computer.info/wiki/index.php/Fidelity_Phantom) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Milton Bradley Company from Wikipedia](https://en.wikipedia.org/wiki/Milton_Bradley_Company)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Phantom Moves*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [July 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html), [pdf](http://www.chesscomputeruk.com/PCW_July_1983.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Milton Bradley Company from Wikipedia](https://en.wikipedia.org/wiki/Milton_Bradley_Company)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ismenio's chess computer collection - MB Phantom Chess Computer](http://www.ismenio.com/chess_mb_phantom.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fidelity Phantom](https://www.schach-computer.info/wiki/index.php/Fidelity_Phantom) from [Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
 
 **[Up one Level](Organizations "Organizations")**
 

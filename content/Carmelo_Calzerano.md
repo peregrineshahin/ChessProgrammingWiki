@@ -15,8 +15,8 @@ As computer chess programmer and founding member of the [Gruppo Scacchi e Inform
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Carmelo Calzerano | LinkedIn](https://www.linkedin.com/in/carmelo-calzerano-80656b3/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Leila](http://www.g-sei.org/leila/#squelch-taas-tab-content-0-0) « [G 6](G_6 "G 6")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Carmelo Calzerano | LinkedIn](https://www.linkedin.com/in/carmelo-calzerano-80656b3/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Leila](http://www.g-sei.org/leila/#squelch-taas-tab-content-0-0) « [G 6](G_6 "G 6")
 
 **[Up one level](People "People")**
 

@@ -68,15 +68,15 @@ Since then, the [Dutch-Flemish](https://en.wikipedia.org/wiki/Flemish) ARVES, th
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> John Roycroft in the [Elbe Sandstone Mountains](https://en.wikipedia.org/wiki/Elbe_Sandstone_Mountains) ([Saxony](https://en.wikipedia.org/wiki/Saxony)), during a trip of the participants of a chess course held 1988 in [Dresden](https://en.wikipedia.org/wiki/Dresden). Photo by [Rainer Staudte](Rainer_Staudte "Rainer Staudte"), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [EG issues 1-152](http://www.gadycosteff.com/eg/eg.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alexander Rueb Vereniging voor SchaakEindspelStudie - Dutch-Flemish Association for Endgame Study](http://www.arves.org/English/index.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [EG (magazine) from Wikipedia](https://en.wikipedia.org/wiki/EG_%28magazine%29)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a>  John Roycroft (**1984**). *The GBR code*. [ICCA Journal, Vol. 7, No. 1](ICGA_Journal#7_1 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [John Roycroft from Wikipedia](https://en.wikipedia.org/wiki/John_Roycroft)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1986**). *Roycroft's 5-Man Chess Endgame Series*. [ICCA Journal, Vol. 9, No. 3](ICGA_Journal#9_3 "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [GBR code from Wikipedia](https://en.wikipedia.org/wiki/GBR_code)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> John Roycroft in the [Elbe Sandstone Mountains](https://en.wikipedia.org/wiki/Elbe_Sandstone_Mountains) ([Saxony](https://en.wikipedia.org/wiki/Saxony)), during a trip of the participants of a chess course held 1988 in [Dresden](https://en.wikipedia.org/wiki/Dresden). Photo by [Rainer Staudte](Rainer_Staudte "Rainer Staudte"), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [EG issues 1-152](http://www.gadycosteff.com/eg/eg.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alexander Rueb Vereniging voor SchaakEindspelStudie - Dutch-Flemish Association for Endgame Study](http://www.arves.org/English/index.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [EG (magazine) from Wikipedia](https://en.wikipedia.org/wiki/EG_%28magazine%29)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a>  John Roycroft (**1984**). *The GBR code*. [ICCA Journal, Vol. 7, No. 1](ICGA_Journal#7_1 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [John Roycroft from Wikipedia](https://en.wikipedia.org/wiki/John_Roycroft)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1986**). *Roycroft's 5-Man Chess Endgame Series*. [ICCA Journal, Vol. 9, No. 3](ICGA_Journal#9_3 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [GBR code from Wikipedia](https://en.wikipedia.org/wiki/GBR_code)
 
 **[Up one level](People "People")**
 

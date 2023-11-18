@@ -68,8 +68,8 @@ a [public](https://en.wikipedia.org/wiki/Public_university) [research university
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mike & Ophelia Lazaridis Quantum-Nano Centre](https://en.wikipedia.org/wiki/Mike_%26_Ophelia_Lazaridis_Quantum-Nano_Centre) at the University of Waterloo, [Image](https://commons.wikimedia.org/wiki/File:Mike-and-Ophelia-Lazaridis-Quantum-Nano-Centre.png) by Shipandreceive, August 13, 2012, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [University of Waterloo from Wikipedia](https://en.wikipedia.org/wiki/University_of_Waterloo)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mike & Ophelia Lazaridis Quantum-Nano Centre](https://en.wikipedia.org/wiki/Mike_%26_Ophelia_Lazaridis_Quantum-Nano_Centre) at the University of Waterloo, [Image](https://commons.wikimedia.org/wiki/File:Mike-and-Ophelia-Lazaridis-Quantum-Nano-Centre.png) by Shipandreceive, August 13, 2012, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [University of Waterloo from Wikipedia](https://en.wikipedia.org/wiki/University_of_Waterloo)
 
 **[Up one Level](Organizations "Organizations")**
 

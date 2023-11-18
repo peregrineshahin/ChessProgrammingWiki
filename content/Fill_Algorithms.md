@@ -59,9 +59,9 @@ Albeit intended as direction-wise attack generators, a surrounding loop may dete
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Picture gallery "Recognition and Success 1955 - 1972"](http://www.mcescher.com/Gallery/gallery-recogn.htm)  from [The Official M.C. Escher Website](http://www.mcescher.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *Linguistic Geometry - From Search to Construction (Operations Research/Computer Science Interfaces Series)*. [amazon.com](http://www.amazon.com/Linguistic-Geometry-Construction-Operations-Interfaces/dp/0792377389/ref=sr_1_1?ie=UTF8&s=books&qid=1257674191&sr=1-1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Picture gallery "Recognition and Success 1955 - 1972"](http://www.mcescher.com/Gallery/gallery-recogn.htm)  from [The Official M.C. Escher Website](http://www.mcescher.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *Linguistic Geometry - From Search to Construction (Operations Research/Computer Science Interfaces Series)*. [amazon.com](http://www.amazon.com/Linguistic-Geometry-Construction-Operations-Interfaces/dp/0792377389/ref=sr_1_1?ie=UTF8&s=books&qid=1257674191&sr=1-1)
 
 **[Up one Level](Bitboards "Bitboards")**
 

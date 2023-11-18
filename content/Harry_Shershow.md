@@ -45,9 +45,9 @@ was an American journalist and science writer. From January 1979 until February 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Harry Shershow | April 5, 2005 Obituary | NewspaperArchive®](https://newspaperarchive.com/harry-shershow-obituary-23017658/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> About the [1899 game](http://www.chessgames.com/perl/chessgame?gid=1109053) of [John Finan Barry](https://pl.wikipedia.org/wiki/John_Finan_Barry) vs [Harry Nelson Pillsbury](https://en.wikipedia.org/wiki/Harry_Nelson_Pillsbury) November 27, 1899 at [Boylston Chess Club](http://boylston-chess-club.blogspot.com/), [Boston](https://en.wikipedia.org/wiki/Boston), [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts), where Barry announced mate in 13 after 31...h6, 5rk1/4R1p1/pqpp3p/2bp1b1Q/5P2/2P4P/P2B2PK/4R3 w - - 0 32
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Review of [Kenneth Colby](https://en.wikipedia.org/wiki/Kenneth_Colby) (**1979**). *Secrets of a Grandpatzer: How to Beat Most People and Computers at Chess*. Malibu Chess Press, [amazon](https://www.amazon.com/Secrets-Grandpatzer-People-Computers-Chess/dp/B000UC87OO)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Harry Shershow | April 5, 2005 Obituary | NewspaperArchive®](https://newspaperarchive.com/harry-shershow-obituary-23017658/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> About the [1899 game](http://www.chessgames.com/perl/chessgame?gid=1109053) of [John Finan Barry](https://pl.wikipedia.org/wiki/John_Finan_Barry) vs [Harry Nelson Pillsbury](https://en.wikipedia.org/wiki/Harry_Nelson_Pillsbury) November 27, 1899 at [Boylston Chess Club](http://boylston-chess-club.blogspot.com/), [Boston](https://en.wikipedia.org/wiki/Boston), [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts), where Barry announced mate in 13 after 31...h6, 5rk1/4R1p1/pqpp3p/2bp1b1Q/5P2/2P4P/P2B2PK/4R3 w - - 0 32
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Review of [Kenneth Colby](https://en.wikipedia.org/wiki/Kenneth_Colby) (**1979**). *Secrets of a Grandpatzer: How to Beat Most People and Computers at Chess*. Malibu Chess Press, [amazon](https://www.amazon.com/Secrets-Grandpatzer-People-Computers-Chess/dp/B000UC87OO)
 
 **[Up one level](People "People")**
 

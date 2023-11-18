@@ -486,7 +486,7 @@ ceased production in 1970, retitled in [Transactions on Systems, Man, and Cybern
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Institute of Electrical and Electronics Engineers from Wikipedia](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Institute of Electrical and Electronics Engineers from Wikipedia](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
 
 **[Up one level](Organizations "Organizations")**
 

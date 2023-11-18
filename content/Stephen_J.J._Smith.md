@@ -45,13 +45,13 @@ He holds a Ph.D. in 1997 from [University of Maryland, College Park](https://en.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from Stephen J.J. Smith, [Dana S. Nau](Dana_S._Nau "Dana S. Nau"), [Thomas A. Throop](Thomas_A._Throop "Thomas A. Throop") (**1998**). *Computer Bridge: A Big Win for AI Planning*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 19, No. 2, [pdf](http://www.cs.umd.edu/~nau/papers/smith1998computer.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Great Game Products - About Us](http://www.greatgameproducts.com/about_us)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bridge Baron - The 1997 world champion of computer bridge uses AI planning techniques to plan its declarer play](http://www.cs.umd.edu/%7Enau/bridge/bridge.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Stephen J.J. Smith (**1997**). *Task-Network Planning using Total-Order Forward Search, and Applications to Bridge and to Microwave Module Manufacture*. Ph.D. thesis, [University of Maryland, College Park](https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park), advisor [Dana S. Nau](Dana_S._Nau "Dana S. Nau")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Stephen J.J. Smith, [Dana S. Nau](Dana_S._Nau "Dana S. Nau") (**1994**). *An Analysis of Forward Pruning*. [AAAI 1994](Conferences#AAAI-94 "Conferences"), [pdf](http://www.aaai.org/Papers/AAAI/1994/AAAI94-213.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Stephen J. J. Smith](https://dblp.uni-trier.de/pers/hy/s/Smith:Stephen_J=_J=.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from Stephen J.J. Smith, [Dana S. Nau](Dana_S._Nau "Dana S. Nau"), [Thomas A. Throop](Thomas_A._Throop "Thomas A. Throop") (**1998**). *Computer Bridge: A Big Win for AI Planning*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 19, No. 2, [pdf](http://www.cs.umd.edu/~nau/papers/smith1998computer.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Great Game Products - About Us](http://www.greatgameproducts.com/about_us)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bridge Baron - The 1997 world champion of computer bridge uses AI planning techniques to plan its declarer play](http://www.cs.umd.edu/%7Enau/bridge/bridge.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Stephen J.J. Smith (**1997**). *Task-Network Planning using Total-Order Forward Search, and Applications to Bridge and to Microwave Module Manufacture*. Ph.D. thesis, [University of Maryland, College Park](https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park), advisor [Dana S. Nau](Dana_S._Nau "Dana S. Nau")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Stephen J.J. Smith, [Dana S. Nau](Dana_S._Nau "Dana S. Nau") (**1994**). *An Analysis of Forward Pruning*. [AAAI 1994](Conferences#AAAI-94 "Conferences"), [pdf](http://www.aaai.org/Papers/AAAI/1994/AAAI94-213.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Stephen J. J. Smith](https://dblp.uni-trier.de/pers/hy/s/Smith:Stephen_J=_J=.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

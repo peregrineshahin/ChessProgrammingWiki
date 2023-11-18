@@ -23,9 +23,9 @@ Copper, his first chess engine trial was heavily influenced by [Vice](Vice "Vice
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BimmerBass (Niels Abildskov) · GitHub](https://github.com/BimmerBass)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - BimmerBass/CopperChess](https://github.com/BimmerBass/CopperChess)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Progress on Loki](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77105) by Niels Abildskov, [CCC](CCC "CCC"), April 16, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BimmerBass (Niels Abildskov) · GitHub](https://github.com/BimmerBass)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - BimmerBass/CopperChess](https://github.com/BimmerBass/CopperChess)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Progress on Loki](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77105) by Niels Abildskov, [CCC](CCC "CCC"), April 16, 2021
 
 **[Up one level](People "People")**
 

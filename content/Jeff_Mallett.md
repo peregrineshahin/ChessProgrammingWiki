@@ -65,11 +65,11 @@ In *Mallett Chess* two white knight play against two black bishops <a id="cite-n
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Artist Detail: Jeff Mallett](http://www.artsopolis.com/profile/detail/493) (dead link) from [Artsopolis](http://www.artsopolis.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Who Are We?](http://www.zillions-of-games.com/whoarewe.html) - About the founders [Mark Lefler](Mark_Lefler "Mark Lefler") and Jeff Mallett & others working for Zillions Development Corporation
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Zillions of Games from Wikipedia](https://en.wikipedia.org/wiki/Zillions_of_Games)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Zillions Development Corporation](http://www.zillions-of-games.com/zildev.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Mallett Chess – 6x6 – Green Chess](https://greenchess.net/rules.php?v=mallett)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Artist Detail: Jeff Mallett](http://www.artsopolis.com/profile/detail/493) (dead link) from [Artsopolis](http://www.artsopolis.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Who Are We?](http://www.zillions-of-games.com/whoarewe.html) - About the founders [Mark Lefler](Mark_Lefler "Mark Lefler") and Jeff Mallett & others working for Zillions Development Corporation
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Zillions of Games from Wikipedia](https://en.wikipedia.org/wiki/Zillions_of_Games)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Zillions Development Corporation](http://www.zillions-of-games.com/zildev.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mallett Chess – 6x6 – Green Chess](https://greenchess.net/rules.php?v=mallett)
 
 **[Up one level](People "People")**
 

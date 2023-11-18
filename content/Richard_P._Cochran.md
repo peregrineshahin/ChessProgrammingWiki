@@ -37,11 +37,11 @@ an American computer scientist and software engineer, involved in the [Real-Time
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Richard Cochran | LinkedIn](https://www.linkedin.com/pub/richard-cochran/62/721/556)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Linux PTP Project](http://linuxptp.sourceforge.net/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Paul E. Utgoff](Paul_E._Utgoff "Paul E. Utgoff"), Richard P. Cochran (**2000**). *[A Least-Certainty Heuristic for Selective Search](http://link.springer.com/chapter/10.1007/3-540-45579-5_1)*. [CG 2000](CG_2000 "CG 2000"), [pdf](http://people.cs.umass.edu/~utgoff/papers/springer-lcf.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Richard P. Cochran](http://dblp.uni-trier.de/pers/hd/c/Cochran:Richard_P=)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Richard Cochran | LinkedIn](https://www.linkedin.com/pub/richard-cochran/62/721/556)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Richard Cochran | LinkedIn](https://www.linkedin.com/pub/richard-cochran/62/721/556)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Linux PTP Project](http://linuxptp.sourceforge.net/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Paul E. Utgoff](Paul_E._Utgoff "Paul E. Utgoff"), Richard P. Cochran (**2000**). *[A Least-Certainty Heuristic for Selective Search](http://link.springer.com/chapter/10.1007/3-540-45579-5_1)*. [CG 2000](CG_2000 "CG 2000"), [pdf](http://people.cs.umass.edu/~utgoff/papers/springer-lcf.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Richard P. Cochran](http://dblp.uni-trier.de/pers/hd/c/Cochran:Richard_P=)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Richard Cochran | LinkedIn](https://www.linkedin.com/pub/richard-cochran/62/721/556)
 
 **[Up one level](People "People")**
 

@@ -59,16 +59,16 @@ Günther Schrüfer, [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas"
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") capture at 11:33, interview by [Albrecht Fölsing](https://en.wikipedia.org/wiki/Albrecht_F%C3%B6lsing) during the round 4, [Bobby](Bobby "Bobby") - [Mephisto X](Mephisto "Mephisto") game
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Schruefer, Guenther, Dr. FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=4608631)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Günther Schrüfer (**1983**). Ein Modell für den Spielbaum beim Schach : Implementierung und Vergleich mit anderen Modellen. Braunschweig : TU
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Günther Schrüfer (**1988**). *Minimax-Suchen : Kosten, Qualität und Algorithmen*. [TU Braunschweig](https://en.wikipedia.org/wiki/Technical_University_of_Braunschweig) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1988**). *Root Evaluation Errors: How they Arise and Propagate*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Cologne 1986 - Chess - Round 4 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=4)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Ein Modell für den Spielbaum beim Schach : Implementierung und Vergleich mit anderen Modellen](http://www.worldcat.org/oclc/66233252&referer=brief_results) from [WorldCat.org](http://www.worldcat.org/)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). *R. Bartel, H.J. Kraas and G. Schrüfer: Das grosse Computerschach-Buch*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal") (Review)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Minimax-Suchen : Kosten, Qualität und Algorithmen](http://www.worldcat.org/oclc/246856479&referer=brief_results) from [WorldCat.org](http://www.worldcat.org/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") capture at 11:33, interview by [Albrecht Fölsing](https://en.wikipedia.org/wiki/Albrecht_F%C3%B6lsing) during the round 4, [Bobby](Bobby "Bobby") - [Mephisto X](Mephisto "Mephisto") game
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Schruefer, Guenther, Dr. FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=4608631)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Günther Schrüfer (**1983**). Ein Modell für den Spielbaum beim Schach : Implementierung und Vergleich mit anderen Modellen. Braunschweig : TU
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Günther Schrüfer (**1988**). *Minimax-Suchen : Kosten, Qualität und Algorithmen*. [TU Braunschweig](https://en.wikipedia.org/wiki/Technical_University_of_Braunschweig) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1988**). *Root Evaluation Errors: How they Arise and Propagate*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Cologne 1986 - Chess - Round 4 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=4)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Ein Modell für den Spielbaum beim Schach : Implementierung und Vergleich mit anderen Modellen](http://www.worldcat.org/oclc/66233252&referer=brief_results) from [WorldCat.org](http://www.worldcat.org/)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). *R. Bartel, H.J. Kraas and G. Schrüfer: Das grosse Computerschach-Buch*. [ICCA Journal, Vol. 10, No. 2](ICGA_Journal#10_2 "ICGA Journal") (Review)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Minimax-Suchen : Kosten, Qualität und Algorithmen](http://www.worldcat.org/oclc/246856479&referer=brief_results) from [WorldCat.org](http://www.worldcat.org/)
 
 **[Up one level](People "People")**
 

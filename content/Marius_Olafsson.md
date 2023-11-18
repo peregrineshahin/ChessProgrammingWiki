@@ -32,12 +32,12 @@ He was mentioned as co-author of [Sun Phoenix](Phoenix "Phoenix") at [ACM 1988](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Maríus Ólafsson - Head of Department | Háskóli Íslands](https://www.hi.is/en/simaskra/1106)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [IP-samskiptareglur - Wikipedia, frjálsa alfræðiritið](http://is.wikipedia.org/wiki/IP-samskiptareglur)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [IANA — .is Domain Delegation Data](http://www.iana.org/domains/root/db/is.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Danny Kopec](Danny_Kopec "Danny Kopec"), [Mike Valvo](Michael_Valvo "Michael Valvo") (**1988**). *Report on The ACM 19th North American Computer-Chess Championship*. [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal") » [ACM 1988](ACM_1988 "ACM 1988")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Marius Olafsson](https://dblp.org/pers/hd/o/Olafsson:Marius)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Maríus Ólafsson - Head of Department | Háskóli Íslands](https://www.hi.is/en/simaskra/1106)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [IP-samskiptareglur - Wikipedia, frjálsa alfræðiritið](http://is.wikipedia.org/wiki/IP-samskiptareglur)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [IANA — .is Domain Delegation Data](http://www.iana.org/domains/root/db/is.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Danny Kopec](Danny_Kopec "Danny Kopec"), [Mike Valvo](Michael_Valvo "Michael Valvo") (**1988**). *Report on The ACM 19th North American Computer-Chess Championship*. [ICCA Journal, Vol. 11, No. 4](ICGA_Journal#11_4 "ICGA Journal") » [ACM 1988](ACM_1988 "ACM 1988")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Marius Olafsson](https://dblp.org/pers/hd/o/Olafsson:Marius)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

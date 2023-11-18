@@ -55,9 +55,9 @@ title: Lomonosov Tablebases
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Endgame tablebase from Wikipedia - Background](https://en.wikipedia.org/wiki/Endgame_tablebase#Background)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lomonosov Endgame Tablebases](http://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [tablebase compression / academic integrity](http://www.talkchess.com/forum/viewtopic.php?t=60222) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), May 19, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Endgame tablebase from Wikipedia - Background](https://en.wikipedia.org/wiki/Endgame_tablebase#Background)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lomonosov Endgame Tablebases](http://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [tablebase compression / academic integrity](http://www.talkchess.com/forum/viewtopic.php?t=60222) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), May 19, 2016
 
 **[Up one level](Endgame_Tablebases "Endgame Tablebases")**
 

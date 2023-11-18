@@ -56,7 +56,7 @@ for (sq = 0; sq < 32; ++sq) {
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A [front aerial](https://en.wikipedia.org/wiki/Front_aerial) performed as part of an [acro dance](https://en.wikipedia.org/wiki/Acro_dance) routine, image by [User: Lambtron](https://en.wikipedia.org/wiki/User:Lambtron), April 29, 2008, [Flip (acrobatic) from Wikipedia](https://en.wikipedia.org/wiki/Flip_%28acrobatic%29) 
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A [front aerial](https://en.wikipedia.org/wiki/Front_aerial) performed as part of an [acro dance](https://en.wikipedia.org/wiki/Acro_dance) routine, image by [User: Lambtron](https://en.wikipedia.org/wiki/User:Lambtron), April 29, 2008, [Flip (acrobatic) from Wikipedia](https://en.wikipedia.org/wiki/Flip_%28acrobatic%29) 
 
 **[Up one Level](Chess_Position "Chess Position")**
 

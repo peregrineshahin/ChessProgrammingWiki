@@ -16,7 +16,7 @@ a female German chess programmer. Along with [Reinhold Gellner](Reinhold_Gellner
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nightmare's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=18)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nightmare's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=18)
 
 **[Up one level](People "People")**
 

@@ -35,10 +35,10 @@ an American computer scientist at [Human Language Technology Center of Excellenc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ken Church's Publications](http://www.cs.jhu.edu/~kchurch/wwwfiles/publications.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kenneth Church HomePage](https://jshare.johnshopkins.edu/kchurch4/public_html/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Kenneth W. Church (**1979**). *[Co-ordinate Squares: A Solution to Many Chess Pawn Endgames](http://dl.acm.org/citation.cfm?id=67030)*. abbreviated version of B.S. Thesis, [IJCAI-79](Conferences#IJCAI1979 "Conferences"), Tokyo, Japan
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ken Church's Publications](http://www.cs.jhu.edu/~kchurch/wwwfiles/publications.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ken Church's Publications](http://www.cs.jhu.edu/~kchurch/wwwfiles/publications.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kenneth Church HomePage](https://jshare.johnshopkins.edu/kchurch4/public_html/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Kenneth W. Church (**1979**). *[Co-ordinate Squares: A Solution to Many Chess Pawn Endgames](http://dl.acm.org/citation.cfm?id=67030)*. abbreviated version of B.S. Thesis, [IJCAI-79](Conferences#IJCAI1979 "Conferences"), Tokyo, Japan
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ken Church's Publications](http://www.cs.jhu.edu/~kchurch/wwwfiles/publications.html)
 
 **[Up one level](People "People")**
 

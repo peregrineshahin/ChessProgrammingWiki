@@ -76,12 +76,12 @@ Cyrus 68K was commercially available as the [Sphinx](CXG_Sphinx "CXG Sphinx"), a
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Illustration from "[Illustrerad verldshistoria](http://sv.wikisource.org/wiki/Illustrerad_Verldshistoria) utgifven av [Ernst Wallis](http://sv.wikisource.org/wiki/F%C3%B6rfattare:Ernst_Wallis). Volume I": Relief of Cyrus, 1875. [Cyrus the Great from Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great), not to confused with his grandfather [Cyrus I](https://en.wikipedia.org/wiki/Cyrus_I)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Cologne 1986 - Chess - Round 5 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=5&id=7)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 12, No. 1, pp. 10-21.
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CXG Electronic Chess Computers](http://www.spacious-mind.com/html/cxg.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CXG](http://www.schach-computer.info/wiki/index.php/CXG) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Illustration from "[Illustrerad verldshistoria](http://sv.wikisource.org/wiki/Illustrerad_Verldshistoria) utgifven av [Ernst Wallis](http://sv.wikisource.org/wiki/F%C3%B6rfattare:Ernst_Wallis). Volume I": Relief of Cyrus, 1875. [Cyrus the Great from Wikipedia](https://en.wikipedia.org/wiki/Cyrus_the_Great), not to confused with his grandfather [Cyrus I](https://en.wikipedia.org/wiki/Cyrus_I)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Cologne 1986 - Chess - Round 5 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=5&id=7)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 12, No. 1, pp. 10-21.
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CXG Electronic Chess Computers](http://www.spacious-mind.com/html/cxg.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CXG](http://www.schach-computer.info/wiki/index.php/CXG) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
 
 **[Up one level](Engines "Engines")**
 

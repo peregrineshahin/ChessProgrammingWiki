@@ -37,9 +37,9 @@ title: University of Alabama at Birmingham
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A view of Birmingham, especially UAB, from Vulcan Park, Photo by [Jaymay](https://en.wikipedia.org/wiki/User:Jaymay), August 11, 2013 [University of Alabama at Birmingham from Wikipedia](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The 2008 Third Annual ACCA Americas' Computer Chess Chamionships Site Pics](http://aigames.net/ACCA/ACCAChampionships/ACCA2008Championships/SitePics.html) » [ACCA 2008](ACCA_2008 "ACCA 2008")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [UAB Blazers from Wikipedia](https://en.wikipedia.org/wiki/UAB_Blazers)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A view of Birmingham, especially UAB, from Vulcan Park, Photo by [Jaymay](https://en.wikipedia.org/wiki/User:Jaymay), August 11, 2013 [University of Alabama at Birmingham from Wikipedia](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The 2008 Third Annual ACCA Americas' Computer Chess Chamionships Site Pics](http://aigames.net/ACCA/ACCAChampionships/ACCA2008Championships/SitePics.html) » [ACCA 2008](ACCA_2008 "ACCA 2008")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [UAB Blazers from Wikipedia](https://en.wikipedia.org/wiki/UAB_Blazers)
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -35,10 +35,10 @@ and as co-author of [Experimental](Experimental "Experimental") <a id="cite-note
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wolfgang Delmare | LinkedIn](https://www.linkedin.com/in/wolfgang-delmare-44b2758b/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [DSS Impressum](https://www.dss.de/impressum/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Wolfgang Delmare | LinkedIn](https://www.linkedin.com/in/wolfgang-delmare-44b2758b/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Wolfgang Delmare's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=415)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wolfgang Delmare | LinkedIn](https://www.linkedin.com/in/wolfgang-delmare-44b2758b/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [DSS Impressum](https://www.dss.de/impressum/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Wolfgang Delmare | LinkedIn](https://www.linkedin.com/in/wolfgang-delmare-44b2758b/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Wolfgang Delmare's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=415)
 
 **[Up one level](People "People")**
 

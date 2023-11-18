@@ -41,10 +41,10 @@ The university was founded in 1927 as the *Roman Catholic University of Commerce
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo by Ron Maijen, May 22, 2011, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tilburg city guide by In Your Pocket](http://www.inyourpocket.com/Netherlands/Tilburg)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2008**) *From Maastricht to Tilburg*. [ICGA Journal Vol. 31, No. 2 - June 2008](http://ticc.uvt.nl/icga/journal/contents/content31-2.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") during [WCCC 2011](WCCC_2011 "WCCC 2011"), [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") just leaves the builing
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo by Ron Maijen, May 22, 2011, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tilburg city guide by In Your Pocket](http://www.inyourpocket.com/Netherlands/Tilburg)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2008**) *From Maastricht to Tilburg*. [ICGA Journal Vol. 31, No. 2 - June 2008](http://ticc.uvt.nl/icga/journal/contents/content31-2.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") during [WCCC 2011](WCCC_2011 "WCCC 2011"), [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") just leaves the builing
 
 **[Up one Level](Organizations "Organizations")**
 

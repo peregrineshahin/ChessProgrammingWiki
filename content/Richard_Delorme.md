@@ -38,13 +38,13 @@ Richard Delorme is furthre author of the [UCI](UCI "UCI") compliant chess engine
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Richard Delorme | LinkedIn](https://www.linkedin.com/in/richard-delorme-5b9231100)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Richard Delorme | LinkedIn](https://www.linkedin.com/in/richard-delorme-5b9231100)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - abulmo/edax-reversi](https://github.com/abulmo/edax-reversi)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cassio - Play Othello on Macintosh](http://cassio.free.fr/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Paweł Liskowski](Pawe%C5%82_Liskowski "Paweł Liskowski"), [Wojciech Jaśkowski](Wojciech_Ja%C5%9Bkowski "Wojciech Jaśkowski"), [Krzysztof Krawiec](Krzysztof_Krawiec "Krzysztof Krawiec") (**2017**). *Learning to Play Othello with Deep Neural Networks*. [arXiv:1711.06583](https://arxiv.org/abs/1711.06583)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [GitHub - abulmo/amoeba: an UCI chess engine in d language](https://github.com/abulmo/amoeba)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Dumb 1.0 UCI by Richard Delorme](http://www.talkchess.com/forum/viewtopic.php?t=65305&start=2) by Richard Delorme, [CCC](CCC "CCC"), September 27, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Richard Delorme | LinkedIn](https://www.linkedin.com/in/richard-delorme-5b9231100)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Richard Delorme | LinkedIn](https://www.linkedin.com/in/richard-delorme-5b9231100)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - abulmo/edax-reversi](https://github.com/abulmo/edax-reversi)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cassio - Play Othello on Macintosh](http://cassio.free.fr/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Paweł Liskowski](Pawe%C5%82_Liskowski "Paweł Liskowski"), [Wojciech Jaśkowski](Wojciech_Ja%C5%9Bkowski "Wojciech Jaśkowski"), [Krzysztof Krawiec](Krzysztof_Krawiec "Krzysztof Krawiec") (**2017**). *Learning to Play Othello with Deep Neural Networks*. [arXiv:1711.06583](https://arxiv.org/abs/1711.06583)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GitHub - abulmo/amoeba: an UCI chess engine in d language](https://github.com/abulmo/amoeba)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Dumb 1.0 UCI by Richard Delorme](http://www.talkchess.com/forum/viewtopic.php?t=65305&start=2) by Richard Delorme, [CCC](CCC "CCC"), September 27, 2017
 
 **[Up one Level](People "People")**
 

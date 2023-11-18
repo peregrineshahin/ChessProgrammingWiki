@@ -154,28 +154,28 @@ In the late 70s and early 80s, Friedel featured computer chess in the German tel
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Frederic Friedel, Image by [David Monniaux](https://commons.wikimedia.org/wiki/User:David.Monniaux), June 25, 2012, [Frederic Friedel from Wikipedia.de](https://de.wikipedia.org/wiki/Frederic_Friedel)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Christmas dinner on a train – meet the ChessBase team](http://www.chessbase.com/newsdetail.asp?newsid=1376) from [ChessBase News](ChessBase "ChessBase") December 23, 2003
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ZDF: IM David Levy 1979 gegen Chess 4.8](http://www.schach-computer.info/wiki/index.php/Levy,_David#ZDF:_IM_David_Levy_1979_gegen_Chess_4.8) from [schach-computer wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Bobby sei Dank](http://www.spiegel.de/spiegel/print/d-13515845.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 47/1985, November 18, 1985, (German) [pdf](http://wissen.spiegel.de/wissen/image/show.html?did=13515845&aref=image036/2006/06/13/cq-sp198504702210227.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Militärischer Wert](http://www.spiegel.de/spiegel/print/d-14342470.html) [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 24/1982, [pdf](http://magazin.spiegel.de/EpubDelivery/spiegel/pdf/14342470) (German)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-432a034fb7102) by [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbddbaf1) [Thompson](Ken_Thompson "Ken Thompson"), Friedel, [Condon](Joe_Condon "Joe Condon"), [Slate](David_Slate "David Slate"), and [Blanchard](William_Blanchard "William Blanchard") at the [4th World Computer Chess Championship](WCCC_1983 "WCCC 1983") in New York City, New York 1983 - Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CSVN supplement site 3](http://www.csvnsupplementsite.nl/csvnp3.html)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Ars Electronica 1980](http://90.146.8.18/de/archives/festival_archive/festival_catalogs/festival_catalog.asp?iProjectID=9398)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Publication Archive 1984](http://www.chesscomputeruk.com/html/publication_archive_1984.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Saitek Renaissance](http://www.schach-computer.info/wiki/index.php/Saitek_Renaissance) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [CeBIT](https://en.wikipedia.org/wiki/CeBIT), [Hannover 1991 - 365Chess.com Tournaments](http://www.365chess.com/tournaments/Hannover_1991/18664)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [ACC '99: Scientific Program](http://wwwcs.uni-paderborn.de/~acc99/program.html)
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Cheating in chess from Wikipedia](https://en.wikipedia.org/wiki/Cheating_in_chess)
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Helmut Pfleger](https://en.wikipedia.org/wiki/Helmut_Pfleger), Frederic Friedel (**2001**). *Cheating in Chess*. [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9")
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Original Excelsior problem](https://www.stmintz.com/ccc/index.php?id=144445) by Frederic Friedel, [CCC](CCC "CCC"), December 11, 2000
-1. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Excelsior (chess problem) from Wikipedia](https://en.wikipedia.org/wiki/Excelsior_%28chess_problem%29)
-1. <a id="cite-ref-19" href="#cite-note-19">[19]</a> [How fast was the Cray?](http://www.talkchess.com/forum/viewtopic.php?t=61504) by Sean Evans, [CCC](CCC "CCC"), September 23, 2016
-1. <a id="cite-ref-20" href="#cite-note-20">[20]</a> [Anjelina Belakovskaia from Wikipedia](https://en.wikipedia.org/wiki/Anjelina_Belakovskaia)
-1. <a id="cite-ref-21" href="#cite-note-21">[21]</a> [Schach (Zeitschrift) - Wikipedia.de](<https://de.wikipedia.org/wiki/Schach_(Zeitschrift)>) (German)
-1. <a id="cite-ref-22" href="#cite-note-22">[22]</a> [World Chess Championship 2013 - Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2013)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Frederic Friedel, Image by [David Monniaux](https://commons.wikimedia.org/wiki/User:David.Monniaux), June 25, 2012, [Frederic Friedel from Wikipedia.de](https://de.wikipedia.org/wiki/Frederic_Friedel)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Christmas dinner on a train – meet the ChessBase team](http://www.chessbase.com/newsdetail.asp?newsid=1376) from [ChessBase News](ChessBase "ChessBase") December 23, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ZDF: IM David Levy 1979 gegen Chess 4.8](http://www.schach-computer.info/wiki/index.php/Levy,_David#ZDF:_IM_David_Levy_1979_gegen_Chess_4.8) from [schach-computer wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Bobby sei Dank](http://www.spiegel.de/spiegel/print/d-13515845.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 47/1985, November 18, 1985, (German) [pdf](http://wissen.spiegel.de/wissen/image/show.html?did=13515845&aref=image036/2006/06/13/cq-sp198504702210227.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Militärischer Wert](http://www.spiegel.de/spiegel/print/d-14342470.html) [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 24/1982, [pdf](http://magazin.spiegel.de/EpubDelivery/spiegel/pdf/14342470) (German)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-432a034fb7102) by [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbddbaf1) [Thompson](Ken_Thompson "Ken Thompson"), Friedel, [Condon](Joe_Condon "Joe Condon"), [Slate](David_Slate "David Slate"), and [Blanchard](William_Blanchard "William Blanchard") at the [4th World Computer Chess Championship](WCCC_1983 "WCCC 1983") in New York City, New York 1983 - Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CSVN supplement site 3](http://www.csvnsupplementsite.nl/csvnp3.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Ars Electronica 1980](http://90.146.8.18/de/archives/festival_archive/festival_catalogs/festival_catalog.asp?iProjectID=9398)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Publication Archive 1984](http://www.chesscomputeruk.com/html/publication_archive_1984.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Saitek Renaissance](http://www.schach-computer.info/wiki/index.php/Saitek_Renaissance) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [CeBIT](https://en.wikipedia.org/wiki/CeBIT), [Hannover 1991 - 365Chess.com Tournaments](http://www.365chess.com/tournaments/Hannover_1991/18664)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [ACC '99: Scientific Program](http://wwwcs.uni-paderborn.de/~acc99/program.html)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Cheating in chess from Wikipedia](https://en.wikipedia.org/wiki/Cheating_in_chess)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Helmut Pfleger](https://en.wikipedia.org/wiki/Helmut_Pfleger), Frederic Friedel (**2001**). *Cheating in Chess*. [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9")
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Original Excelsior problem](https://www.stmintz.com/ccc/index.php?id=144445) by Frederic Friedel, [CCC](CCC "CCC"), December 11, 2000
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Excelsior (chess problem) from Wikipedia](https://en.wikipedia.org/wiki/Excelsior_%28chess_problem%29)
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [How fast was the Cray?](http://www.talkchess.com/forum/viewtopic.php?t=61504) by Sean Evans, [CCC](CCC "CCC"), September 23, 2016
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Anjelina Belakovskaia from Wikipedia](https://en.wikipedia.org/wiki/Anjelina_Belakovskaia)
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Schach (Zeitschrift) - Wikipedia.de](<https://de.wikipedia.org/wiki/Schach_(Zeitschrift)>) (German)
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [World Chess Championship 2013 - Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2013)
 
 **[Up one level](People "People")**
 

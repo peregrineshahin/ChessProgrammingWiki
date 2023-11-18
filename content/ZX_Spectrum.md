@@ -56,14 +56,14 @@ notably the programs [SuperChess 3](SuperChess "SuperChess") by [Chris Whittingt
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Sinclair 48K ZX Spectrum computer (1982), [Image](https://commons.wikimedia.org/wiki/File:ZXSpectrum48k.jpg) by [Bill Bertram](https://commons.wikimedia.org/wiki/User:Pixel8), May 29, 2005, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [ZX Spectrum from Wikipedia](https://en.wikipedia.org/wiki/ZX_Spectrum)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Timex Sinclair 2068 - Old Home Computers Collection](http://www.spacious-mind.com/html/timex_sinclair_2068.html), [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ZX Spectrum from Wikipedia](https://en.wikipedia.org/wiki/ZX_Spectrum)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> The ZX Spectrum Vega TV Game Console, made by _Retro Computers_, Image by [MarcoTangerino](https://commons.wikimedia.org/wiki/User:MarcoTangerino), February 4, 2018, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Spectrum ZX Vega from Wikipedia](https://en.wikipedia.org/wiki/ZX_Spectrum_Vega)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Home » ZX Vega+ Backers Daily Updated News](http://www.zxvega.co.uk/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Specwars: Accusations fly as the world of retro ZX Spectrum gaming gets ugly](https://www.theinquirer.net/inquirer/news/2467530/specwars-accusations-fly-as-the-world-of-retro-zx-spectrum-gaming-gets-ugly) by [Chris Merriman](https://www.theinquirer.net/author/profile/2960/chris-merriman), [TheINQUIRER](https://en.wikipedia.org/wiki/The_Inquirer), August 10, 2016
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [RETRO COMPUTERS LIMITED - Officers (free information from Companies House)](https://beta.companieshouse.gov.uk/company/08831435/officers)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [World of Spectrum - ZX Spectrum Chess Programs](http://tinyurl.com/qjz7fm6)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Sinclair 48K ZX Spectrum computer (1982), [Image](https://commons.wikimedia.org/wiki/File:ZXSpectrum48k.jpg) by [Bill Bertram](https://commons.wikimedia.org/wiki/User:Pixel8), May 29, 2005, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [ZX Spectrum from Wikipedia](https://en.wikipedia.org/wiki/ZX_Spectrum)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Timex Sinclair 2068 - Old Home Computers Collection](http://www.spacious-mind.com/html/timex_sinclair_2068.html), [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ZX Spectrum from Wikipedia](https://en.wikipedia.org/wiki/ZX_Spectrum)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> The ZX Spectrum Vega TV Game Console, made by _Retro Computers_, Image by [MarcoTangerino](https://commons.wikimedia.org/wiki/User:MarcoTangerino), February 4, 2018, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Spectrum ZX Vega from Wikipedia](https://en.wikipedia.org/wiki/ZX_Spectrum_Vega)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Home » ZX Vega+ Backers Daily Updated News](http://www.zxvega.co.uk/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Specwars: Accusations fly as the world of retro ZX Spectrum gaming gets ugly](https://www.theinquirer.net/inquirer/news/2467530/specwars-accusations-fly-as-the-world-of-retro-zx-spectrum-gaming-gets-ugly) by [Chris Merriman](https://www.theinquirer.net/author/profile/2960/chris-merriman), [TheINQUIRER](https://en.wikipedia.org/wiki/The_Inquirer), August 10, 2016
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [RETRO COMPUTERS LIMITED - Officers (free information from Companies House)](https://beta.companieshouse.gov.uk/company/08831435/officers)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [World of Spectrum - ZX Spectrum Chess Programs](http://tinyurl.com/qjz7fm6)
 
 **[Up one Level](Hardware "Hardware")**
 

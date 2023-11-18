@@ -56,17 +56,17 @@ Professional programmers associated with [SciSys and Saitek](Saitek "Saitek") co
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Eric Winkler - Founder and Chairman of the Board, Ryder Industries](https://web.archive.org/web/20180220061817/http://www.ryderems.com/pages_83.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eric Winkler - Founder and Chairman of the Board, Ryder Industries](https://www.ryderems.com/about-us/our-team/eric-winkler/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SciSys – Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/SciSys_En)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hegener & Glaser (Mephisto)](http://www.ismenio.com/mephisto.html) from [ChessComputers.org](http://www.ismenio.com/chess_computers.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Der große Mantelaktien-Report](https://coldipo.com/Undervalued-Shares-MAR-D-200712.pdf) (pdf) Sonderreport, December 2007 (German), pp 103. [Stella Entertainment AG i. L](https://de.wikipedia.org/wiki/Stella_AG) (ehem. Hegener + Glaser AG), from [Undervalued-Shares.com](https://www.undervalued-shares.com/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Mad Catz buys Saitek - News at GameSpot](http://www.gamespot.com/news/6182902.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [SciSys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Sensory games - Google Patents](http://www.google.de/patents/about?id=PRcdAAAAEBAJ)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Other Patents](http://www.chesscomputeruk.com/html/other_patents.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [espacenet - Configurable computer input device](http://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=0816989)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> List of computers from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) contains various manufacturer
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Eric Winkler - Founder and Chairman of the Board, Ryder Industries](https://web.archive.org/web/20180220061817/http://www.ryderems.com/pages_83.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eric Winkler - Founder and Chairman of the Board, Ryder Industries](https://www.ryderems.com/about-us/our-team/eric-winkler/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SciSys – Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/SciSys_En)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hegener & Glaser (Mephisto)](http://www.ismenio.com/mephisto.html) from [ChessComputers.org](http://www.ismenio.com/chess_computers.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Der große Mantelaktien-Report](https://coldipo.com/Undervalued-Shares-MAR-D-200712.pdf) (pdf) Sonderreport, December 2007 (German), pp 103. [Stella Entertainment AG i. L](https://de.wikipedia.org/wiki/Stella_AG) (ehem. Hegener + Glaser AG), from [Undervalued-Shares.com](https://www.undervalued-shares.com/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mad Catz buys Saitek - News at GameSpot](http://www.gamespot.com/news/6182902.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [SciSys and Novag : The Early Years](http://www.chesscomputeruk.com/html/scisys_and_novag___the_early_y.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Sensory games - Google Patents](http://www.google.de/patents/about?id=PRcdAAAAEBAJ)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Other Patents](http://www.chesscomputeruk.com/html/other_patents.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [espacenet - Configurable computer input device](http://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=0816989)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> List of computers from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) contains various manufacturer
 
 **[Up one level](People "People")**
 

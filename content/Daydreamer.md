@@ -121,17 +121,17 @@ Kxb6 43.Be3+ Kc6 44.Ra6+ Kd7 45.Bc5 e3 46.Bxe7 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [A daydreaming gentleman](https://commons.wikimedia.org/wiki/File:Daydreaming_Gentleman.jpg); from an original 1912 postcard published in Germany, [Daydream from Wikipedia](https://en.wikipedia.org/wiki/Daydream), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [daydreamer/README.md at release · AaronBecker/daydreamer · GitHub](https://github.com/AaronBecker/daydreamer/blob/release/README.md)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Announcing Daydreamer 1.0](http://www.talkchess.com/forum/viewtopic.php?t=29417) by [Aaron Becker](Aaron_Becker "Aaron Becker"), [CCC](CCC "CCC"), August 16, 2009
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [daydreamer/position.h at release · AaronBecker/daydreamer · GitHub](https://github.com/AaronBecker/daydreamer/blob/release/position.h)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [daydreamer/move_generation.c at release · AaronBecker/daydreamer · GitHub](https://github.com/AaronBecker/daydreamer/blob/release/move_generation.c)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Daydreamer 2.0?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68647&start=2) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), October 14, 2018
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Bison by Иван Бонькин (Ivan Bonkin), Russia!](http://www.sdchess.ru/Bison.html) from [sdchess.ru](http://www.sdchess.ru/) - searcher.h
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [GitHub - AaronBecker/daydreamer: A chess engine, focused on search, written in C - Changes from 1.6 to 1.7](https://github.com/AaronBecker/daydreamer#changes-from-16-to-17)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [daydreamer/book_ctg.c at release · AaronBecker/daydreamer · GitHub](https://github.com/AaronBecker/daydreamer/blob/release/book_ctg.c)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [daydreamer/scorpio_bb.c at release · AaronBecker/daydreamer · GitHub](https://github.com/AaronBecker/daydreamer/blob/release/scorpio_bb.c)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [The 2010 Fifth Annual ACCA Americas' Computer Chess Championships -- Results](http://compchess.org/ACCAChampionships/ACCA2010Championships/2010ACCCResults.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [A daydreaming gentleman](https://commons.wikimedia.org/wiki/File:Daydreaming_Gentleman.jpg); from an original 1912 postcard published in Germany, [Daydream from Wikipedia](https://en.wikipedia.org/wiki/Daydream), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [daydreamer/README.md at release · AaronBecker/daydreamer · GitHub](https://github.com/AaronBecker/daydreamer/blob/release/README.md)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Announcing Daydreamer 1.0](http://www.talkchess.com/forum/viewtopic.php?t=29417) by [Aaron Becker](Aaron_Becker "Aaron Becker"), [CCC](CCC "CCC"), August 16, 2009
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [daydreamer/position.h at release · AaronBecker/daydreamer · GitHub](https://github.com/AaronBecker/daydreamer/blob/release/position.h)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [daydreamer/move_generation.c at release · AaronBecker/daydreamer · GitHub](https://github.com/AaronBecker/daydreamer/blob/release/move_generation.c)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Daydreamer 2.0?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68647&start=2) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), October 14, 2018
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Bison by Иван Бонькин (Ivan Bonkin), Russia!](http://www.sdchess.ru/Bison.html) from [sdchess.ru](http://www.sdchess.ru/) - searcher.h
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [GitHub - AaronBecker/daydreamer: A chess engine, focused on search, written in C - Changes from 1.6 to 1.7](https://github.com/AaronBecker/daydreamer#changes-from-16-to-17)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [daydreamer/book_ctg.c at release · AaronBecker/daydreamer · GitHub](https://github.com/AaronBecker/daydreamer/blob/release/book_ctg.c)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [daydreamer/scorpio_bb.c at release · AaronBecker/daydreamer · GitHub](https://github.com/AaronBecker/daydreamer/blob/release/scorpio_bb.c)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [The 2010 Fifth Annual ACCA Americas' Computer Chess Championships -- Results](http://compchess.org/ACCAChampionships/ACCA2010Championships/2010ACCCResults.html)
 
 **[Up one level](Engines "Engines")**
 

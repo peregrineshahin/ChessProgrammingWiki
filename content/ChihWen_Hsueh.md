@@ -28,10 +28,10 @@ His research centers around [real-time computing](https://en.wikipedia.org/wiki/
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chih-Wen Hsueh Homepage](https://www.csie.ntu.edu.tw/~cwhsueh/MyInfo.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Academic Hub | Chih-Wen Hsueh | National Taiwan University](http://ah.ntu.edu.tw/web/Teacher!one.action?tid=2136)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Chih-Wen Hsueh](https://dblp.uni-trier.de/pers/hd/h/Hsueh:Chih=Wen)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Xen from Wikipedia](https://en.wikipedia.org/wiki/Xen)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chih-Wen Hsueh Homepage](https://www.csie.ntu.edu.tw/~cwhsueh/MyInfo.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Academic Hub | Chih-Wen Hsueh | National Taiwan University](http://ah.ntu.edu.tw/web/Teacher!one.action?tid=2136)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Chih-Wen Hsueh](https://dblp.uni-trier.de/pers/hd/h/Hsueh:Chih=Wen)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Xen from Wikipedia](https://en.wikipedia.org/wiki/Xen)
 
 **[Up one level](People "People")**
 

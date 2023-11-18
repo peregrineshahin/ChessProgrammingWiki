@@ -47,10 +47,10 @@ Neurone played the [IOCSC 2010](IOCSC_2010 "IOCSC 2010"), [IOCSC 2011](IOCSC_201
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Neuron in a scanning [electron microscope](https://en.wikipedia.org/wiki/Electron_microscope), [Image](https://commons.wikimedia.org/wiki/File:Neuron-SEM.png) by [Nicolas P. Rougier](http://www.loria.fr/~rougier/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Neurone](http://www.g-sei.org/neurone/) - [G 6](G_6 "G 6") (Italian)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Luca Lissandrello](Luca_Lissandrello "Luca Lissandrello"): *Penso sia uno dei chess engines più deboli in assoluto… per ora*. [Lissandrello Luca « G 6](http://www.g-sei.org/author/lissandrello-luca/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Neurolearning](http://www.g-sei.org/neurolearning/) « [G 6](G_6 "G 6") (Italian)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Neuron in a scanning [electron microscope](https://en.wikipedia.org/wiki/Electron_microscope), [Image](https://commons.wikimedia.org/wiki/File:Neuron-SEM.png) by [Nicolas P. Rougier](http://www.loria.fr/~rougier/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Neurone](http://www.g-sei.org/neurone/) - [G 6](G_6 "G 6") (Italian)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Luca Lissandrello](Luca_Lissandrello "Luca Lissandrello"): *Penso sia uno dei chess engines più deboli in assoluto… per ora*. [Lissandrello Luca « G 6](http://www.g-sei.org/author/lissandrello-luca/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Neurolearning](http://www.g-sei.org/neurolearning/) « [G 6](G_6 "G 6") (Italian)
 
 **[Up one Level](Engines "Engines")**
 

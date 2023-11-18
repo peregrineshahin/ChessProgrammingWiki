@@ -95,19 +95,19 @@ During [World War II](https://en.wikipedia.org/wiki/World_War_II), Bellman worke
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Bellman Equation, Richard Bellman, The Movie](http://www.bellmanequation.com/pages/about.html) by [Gabriel Leif Bellman](http://www.zennyrun.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Richard E. Bellman (**1953**). *[An Introduction to the Theory of Dynamic Programming](http://www.rand.org/pubs/reports/R245.html)*. R-245, [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Algorithms that use dynamic programming from Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Richard E. Bellman (**1958**). *[Dynamic Programming and Stochastic Control Processes](http://www.sciencedirect.com/science/article/pii/S0019995858800030)*. [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation), [Santa Monica, CA](https://en.wikipedia.org/wiki/Santa_Monica,_California), [Information and Control 1](http://www.sciencedirect.com/science/journal/00199958/1/3), pp. 228–239
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Bellman Equation, Richard Bellman, The Movie](http://www.bellmanequation.com/pages/about.html) by [Gabriel Leif Bellman](http://www.zennyrun.com/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [McCarthyism from Wikipedia](https://en.wikipedia.org/wiki/McCarthyism)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Richard E. Bellman (**1965**). *[On the Application of Dynamic Programming to the Determination of Optimal Play in Chess and Checkers](http://www.rand.org/pubs/papers/P3013/).* Proceedings of the National Academy of Sciences of the United States of America
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Richard E. Bellman (**1954**). *On a new Iterative Algorithm for Finding the Solutions of Games and Linear Programming Problems*. Technical Report P-473, [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation), U. S. Air Force Project RAND, [Santa Monica, CA](https://en.wikipedia.org/wiki/Santa_Monica,_California)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> Richard E. Bellman (**1957**). *The Theory of Games*. Technical Report P-1062, [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation), [Santa Monica, CA](https://en.wikipedia.org/wiki/Santa_Monica,_California)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Lewis Stiller](Lewis_Stiller "Lewis Stiller") (**1996**). *Multilinear Algebra and Chess Endgames*. [Games of No Chance](http://library.msri.org/books/Book29/index.html) edited by [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski"), [pdf](http://www.msri.org/publications/books/Book29/files/stiller.pdf)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [List of Publications: Richard Bellman](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=01102791)
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [DBLP: Richard Bellman](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Bellman:Richard.html)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Fuzzy set from Wikipedia](https://en.wikipedia.org/wiki/Fuzzy_set)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Bellman Equation, Richard Bellman, The Movie](http://www.bellmanequation.com/pages/about.html) by [Gabriel Leif Bellman](http://www.zennyrun.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Richard E. Bellman (**1953**). *[An Introduction to the Theory of Dynamic Programming](http://www.rand.org/pubs/reports/R245.html)*. R-245, [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Algorithms that use dynamic programming from Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Richard E. Bellman (**1958**). *[Dynamic Programming and Stochastic Control Processes](http://www.sciencedirect.com/science/article/pii/S0019995858800030)*. [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation), [Santa Monica, CA](https://en.wikipedia.org/wiki/Santa_Monica,_California), [Information and Control 1](http://www.sciencedirect.com/science/journal/00199958/1/3), pp. 228–239
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Bellman Equation, Richard Bellman, The Movie](http://www.bellmanequation.com/pages/about.html) by [Gabriel Leif Bellman](http://www.zennyrun.com/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [McCarthyism from Wikipedia](https://en.wikipedia.org/wiki/McCarthyism)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Richard E. Bellman (**1965**). *[On the Application of Dynamic Programming to the Determination of Optimal Play in Chess and Checkers](http://www.rand.org/pubs/papers/P3013/).* Proceedings of the National Academy of Sciences of the United States of America
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Richard E. Bellman (**1954**). *On a new Iterative Algorithm for Finding the Solutions of Games and Linear Programming Problems*. Technical Report P-473, [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation), U. S. Air Force Project RAND, [Santa Monica, CA](https://en.wikipedia.org/wiki/Santa_Monica,_California)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> Richard E. Bellman (**1957**). *The Theory of Games*. Technical Report P-1062, [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation), [Santa Monica, CA](https://en.wikipedia.org/wiki/Santa_Monica,_California)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Lewis Stiller](Lewis_Stiller "Lewis Stiller") (**1996**). *Multilinear Algebra and Chess Endgames*. [Games of No Chance](http://library.msri.org/books/Book29/index.html) edited by [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski"), [pdf](http://www.msri.org/publications/books/Book29/files/stiller.pdf)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [List of Publications: Richard Bellman](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=01102791)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [DBLP: Richard Bellman](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Bellman:Richard.html)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Fuzzy set from Wikipedia](https://en.wikipedia.org/wiki/Fuzzy_set)
 
 **[Up one level](People "People")**
 

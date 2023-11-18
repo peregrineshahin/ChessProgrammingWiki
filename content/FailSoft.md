@@ -89,10 +89,10 @@ Lineup: [Ian Carr](Category:Ian_Carr "Category:Ian Carr"), [Brian Smith](https:/
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Window of Perception (Jump Start Century 21 and move on)](https://commons.wikimedia.org/wiki/File:Modern_Tropical_Art-Window_of_Perception.jpg) by Dominic01, May 19, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1983**). *[Another optimization of alpha-beta search](http://portal.acm.org/citation.cfm?id=1056623.1056628&coll=DL&dl=GUIDE&CFID=26266656&CFTOKEN=86225814)*. [SIGART Bulletin](ACM#SIG "ACM"), Issue 84, [pdf](https://drive.google.com/file/d/0B2pvWWlf39g-cjJpZkc1cDhfbkk/view)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") (**1991**). *Experiments With the NegaC\* Search - An Alternative for Othello Endgame Search.* [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1993**). *Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Window of Perception (Jump Start Century 21 and move on)](https://commons.wikimedia.org/wiki/File:Modern_Tropical_Art-Window_of_Perception.jpg) by Dominic01, May 19, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1983**). *[Another optimization of alpha-beta search](http://portal.acm.org/citation.cfm?id=1056623.1056628&coll=DL&dl=GUIDE&CFID=26266656&CFTOKEN=86225814)*. [SIGART Bulletin](ACM#SIG "ACM"), Issue 84, [pdf](https://drive.google.com/file/d/0B2pvWWlf39g-cjJpZkc1cDhfbkk/view)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") (**1991**). *Experiments With the NegaC\* Search - An Alternative for Othello Endgame Search.* [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1993**). *Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
 
 **[Up one Level](Alpha-Beta "Alpha-Beta")**
 

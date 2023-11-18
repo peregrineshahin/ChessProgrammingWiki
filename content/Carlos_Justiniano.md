@@ -37,11 +37,11 @@ Inspired by the [SETI@home](https://en.wikipedia.org/wiki/SETI@home) project in 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Carlos Justiniano - | crunchbase](https://www.crunchbase.com/person/carlos-justiniano)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CM5000 We welcome input!](https://groups.google.com/d/msg/rec.games.chess/ON92sLwtjfc/8MvFoE28N2IJ) by Carlos Justiniano, [rgc](Computer_Chess_Forums "Computer Chess Forums"), December 29, 1994
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ChessBrain the world largest chess computer](http://www.chessbrain.net/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Carlos Justiniano](http://dblp.uni-trier.de/pers/hd/j/Justiniano:Carlos)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ChessBrain Documentation](http://chessbrain.net/documentation.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Carlos Justiniano - | crunchbase](https://www.crunchbase.com/person/carlos-justiniano)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CM5000 We welcome input!](https://groups.google.com/d/msg/rec.games.chess/ON92sLwtjfc/8MvFoE28N2IJ) by Carlos Justiniano, [rgc](Computer_Chess_Forums "Computer Chess Forums"), December 29, 1994
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ChessBrain the world largest chess computer](http://www.chessbrain.net/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Carlos Justiniano](http://dblp.uni-trier.de/pers/hd/j/Justiniano:Carlos)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ChessBrain Documentation](http://chessbrain.net/documentation.html)
 
 **[Up one level](People "People")**
 

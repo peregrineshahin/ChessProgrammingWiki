@@ -30,8 +30,8 @@ experimental or not yet commercially available [dedicated chess computers](Dedic
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Kittinger](David_Kittinger "David Kittinger"), [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 15-33
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Novag's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=354)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Kittinger](David_Kittinger "David Kittinger"), [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 15-33
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Novag's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=354)
 
 **[Up one level](Engines "Engines")**
 

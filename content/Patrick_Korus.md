@@ -35,9 +35,9 @@ and is optionally applied in the [deep learning](Deep_Learning "Deep Learning") 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [TU Darmstadt | Johannes Czech | Supervised Theses](https://www.ml.informatik.tu-darmstadt.de/people/jczech/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Johannes Czech](Johannes_Czech "Johannes Czech"), Patrick Korus, [Kristian Kersting](Kristian_Kersting "Kristian Kersting") (**2020**). *Monte-Carlo Graph Search for AlphaZero*. [arXiv:2012.11045](https://arxiv.org/abs/2012.11045)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Patrick Korus](https://dblp.org/pid/281/8255.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [TU Darmstadt | Johannes Czech | Supervised Theses](https://www.ml.informatik.tu-darmstadt.de/people/jczech/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Johannes Czech](Johannes_Czech "Johannes Czech"), Patrick Korus, [Kristian Kersting](Kristian_Kersting "Kristian Kersting") (**2020**). *Monte-Carlo Graph Search for AlphaZero*. [arXiv:2012.11045](https://arxiv.org/abs/2012.11045)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Patrick Korus](https://dblp.org/pid/281/8255.html)
 
 **[Up one level](People "People")**
 

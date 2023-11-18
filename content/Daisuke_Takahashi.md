@@ -38,10 +38,10 @@ a Japanese mathematician, computer scientist and associate professor at Center f
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Daisuke Takahashi's Home Page](http://www.hpcs.cs.tsukuba.ac.jp/~daisuke/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Daisuke Takahashi (disambiguation) from Wikipedia](<https://en.wikipedia.org/wiki/Daisuke_Takahashi_(disambiguation)>)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [D. Takahashi's Publication](http://www.hpcs.cs.tsukuba.ac.jp/~daisuke/pub.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Daisuke Takahashi](https://dblp.uni-trier.de/pers/hd/t/Takahashi:Daisuke.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Daisuke Takahashi's Home Page](http://www.hpcs.cs.tsukuba.ac.jp/~daisuke/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Daisuke Takahashi (disambiguation) from Wikipedia](<https://en.wikipedia.org/wiki/Daisuke_Takahashi_(disambiguation)>)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [D. Takahashi's Publication](http://www.hpcs.cs.tsukuba.ac.jp/~daisuke/pub.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Daisuke Takahashi](https://dblp.uni-trier.de/pers/hd/t/Takahashi:Daisuke.html)
 
 **[Up one level](People "People")**
 

@@ -111,10 +111,10 @@ Computer Chess was played five times so far as discipline of the Olympiad, howev
 
 ## [Chinese Chess](https://www.game-ai-forum.org/icga-tournaments/game.php?id=13) [Shogi](https://www.game-ai-forum.org/icga-tournaments/game.php?id=17) [Go](https://www.game-ai-forum.org/icga-tournaments/game.php?id=12) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ICGA Computer Olympiad 2018 in Taiwan](http://www.talkchess.com/forum/viewtopic.php?t=66045) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), December 17, 2017
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  June [2011](Timeline#2011 "Timeline"), [Rybka](Rybka "Rybka") was [disqualified](World_Computer_Chess_Championship#RybkaDisqualification "World Computer Chess Championship")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Yokohama 2013 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/event.php?id=44)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Olympiad 2013: Yokohama, Aug 12-18!](http://www.talkchess.com/forum/viewtopic.php?t=46518) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), December 21, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ICGA Computer Olympiad 2018 in Taiwan](http://www.talkchess.com/forum/viewtopic.php?t=66045) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), December 17, 2017
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a>  June [2011](Timeline#2011 "Timeline"), [Rybka](Rybka "Rybka") was [disqualified](World_Computer_Chess_Championship#RybkaDisqualification "World Computer Chess Championship")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Yokohama 2013 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/event.php?id=44)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Olympiad 2013: Yokohama, Aug 12-18!](http://www.talkchess.com/forum/viewtopic.php?t=46518) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), December 21, 2012
 
 **[Up one level](Tournaments_and_Matches "Tournaments and Matches")**
 

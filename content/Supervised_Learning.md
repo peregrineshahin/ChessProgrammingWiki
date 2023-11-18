@@ -123,11 +123,11 @@ to calculate a [mean squared error](https://en.wikipedia.org/wiki/Mean_squared_e
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Supervised learning from Wikipedia](https://en.wikipedia.org/wiki/Supervised_learning)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> A data flow diagram shows the machine learning process in summary, by [EpochFail](https://en.wikipedia.org/wiki/User:EpochFail), November 15, 2015, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1985**). *Evaluation-Function Factors*. [ICCA Journal, Vol. 8, No. 2](ICGA_Journal#8_2 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/evaluation.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [No free lunch in search and optimization - Wikipedia](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Occam's razor from Wikipedia](https://en.wikipedia.org/wiki/Occam%27s_razor)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Supervised learning from Wikipedia](https://en.wikipedia.org/wiki/Supervised_learning)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> A data flow diagram shows the machine learning process in summary, by [EpochFail](https://en.wikipedia.org/wiki/User:EpochFail), November 15, 2015, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1985**). *Evaluation-Function Factors*. [ICCA Journal, Vol. 8, No. 2](ICGA_Journal#8_2 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/evaluation.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [No free lunch in search and optimization - Wikipedia](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Occam's razor from Wikipedia](https://en.wikipedia.org/wiki/Occam%27s_razor)
 
 **[Up one Level](Learning "Learning")**
 

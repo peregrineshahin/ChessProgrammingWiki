@@ -29,11 +29,11 @@ To allow the player to watch something else on the TV while the system is busy, 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Capture from the [Fairchild Channel F SABA cart 20: Schach (Chess)](https://www.youtube.com/watch?v=Q-MevezDTCE), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SABA Videoplay - Debüt für die Steckmodule](https://www.videospielgeschichten.de/debuet-fuer-die-steckmodule/) by [Torsten Othmer](https://www.videospielgeschichten.de/author/torsten-othmer/), October 2009 (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Videocart Nr. 20: Schach, Game Info as given by [Torsten Othmer](https://www.videospielgeschichten.de/author/torsten-othmer/), translated from German "By far the most elaborate game for the Videoplay. This module is an exclusive in-house development of SABA and was officially sold only in Germany!"
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Disassembly: SABA Videoplay 20 - veswiki](http://channelf.se/veswiki/index.php?title=Disassembly:SABA_Videoplay_20) playable in [MESS](https://en.wikipedia.org/wiki/Multi_Emulator_Super_System) under [Channel F](https://en.wikipedia.org/wiki/Fairchild_Channel_F)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Videocart-20: Schach for Channel F (1979)](https://www.mobygames.com/game/videocart-20-schach) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Capture from the [Fairchild Channel F SABA cart 20: Schach (Chess)](https://www.youtube.com/watch?v=Q-MevezDTCE), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SABA Videoplay - Debüt für die Steckmodule](https://www.videospielgeschichten.de/debuet-fuer-die-steckmodule/) by [Torsten Othmer](https://www.videospielgeschichten.de/author/torsten-othmer/), October 2009 (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Videocart Nr. 20: Schach, Game Info as given by [Torsten Othmer](https://www.videospielgeschichten.de/author/torsten-othmer/), translated from German "By far the most elaborate game for the Videoplay. This module is an exclusive in-house development of SABA and was officially sold only in Germany!"
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Disassembly: SABA Videoplay 20 - veswiki](http://channelf.se/veswiki/index.php?title=Disassembly:SABA_Videoplay_20) playable in [MESS](https://en.wikipedia.org/wiki/Multi_Emulator_Super_System) under [Channel F](https://en.wikipedia.org/wiki/Fairchild_Channel_F)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Videocart-20: Schach for Channel F (1979)](https://www.mobygames.com/game/videocart-20-schach) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
 
 **[Up one level](Engines "Engines")**
 

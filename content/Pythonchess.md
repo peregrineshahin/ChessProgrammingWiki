@@ -88,10 +88,10 @@ a chess software [library](https://en.wikipedia.org/wiki/Library_(computing)) cr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [python-chess/README.rst at master · niklasf/python-chess · GitHub](https://github.com/niklasf/python-chess/blob/master/README.rst)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [python-chess · PyPI](https://pypi.org/project/python-chess/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [python-chess/README.rst at master · niklasf/python-chess · GitHub](https://github.com/niklasf/python-chess/blob/master/README.rst)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [pcattori/deep-blue-talks · GitHub](https://github.com/pcattori/deep-blue-talks)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [python-chess/README.rst at master · niklasf/python-chess · GitHub](https://github.com/niklasf/python-chess/blob/master/README.rst)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [python-chess · PyPI](https://pypi.org/project/python-chess/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [python-chess/README.rst at master · niklasf/python-chess · GitHub](https://github.com/niklasf/python-chess/blob/master/README.rst)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [pcattori/deep-blue-talks · GitHub](https://github.com/pcattori/deep-blue-talks)
 
 **[Up one Level](Utilities "Utilities")**
 

@@ -76,10 +76,10 @@ In November 2019, [Robert Hyatt](Robert_Hyatt "Robert Hyatt") published the [OCR
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Intercloud lightnings over [Toulouse](https://en.wikipedia.org/wiki/Toulouse) (France), August 12, 2006, original data by Sebastien D'Arco, Animation by [Koba-chan](https://commons.wikimedia.org/wiki/User:Koba-chan), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), [Wikimedia Commons](https://de.wikipedia.org/wiki/Wikimedia_Commons), [Blitz wikipedia.de](http://de.wikipedia.org/wiki/Blitz) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Square-of-the-pawn](http://www.stmintz.com/ccc/index.php?id=14031) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 13, 1998
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [File:Blitz69.zip](File:Blitz69.zip "File:Blitz69.zip"), courtesy of [Robert Hyatt](Robert_Hyatt "Robert Hyatt") contains 66 [Fortran](Fortran "Fortran") files, likely with [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) errors
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [oldie but goody](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72255) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), November 05, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Intercloud lightnings over [Toulouse](https://en.wikipedia.org/wiki/Toulouse) (France), August 12, 2006, original data by Sebastien D'Arco, Animation by [Koba-chan](https://commons.wikimedia.org/wiki/User:Koba-chan), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), [Wikimedia Commons](https://de.wikipedia.org/wiki/Wikimedia_Commons), [Blitz wikipedia.de](http://de.wikipedia.org/wiki/Blitz) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Square-of-the-pawn](http://www.stmintz.com/ccc/index.php?id=14031) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 13, 1998
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [File:Blitz69.zip](File:Blitz69.zip "File:Blitz69.zip"), courtesy of [Robert Hyatt](Robert_Hyatt "Robert Hyatt") contains 66 [Fortran](Fortran "Fortran") files, likely with [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) errors
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [oldie but goody](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72255) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), November 05, 2019
 
 **[Up one Level](Engines "Engines")**
 

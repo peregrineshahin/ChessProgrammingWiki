@@ -41,8 +41,8 @@ Although FCP started with a nearly identical [evaluation function](Evaluation_Fu
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [TSCP enhancements (Re: Short chess programs)](https://www.stmintz.com/ccc/index.php?id=252881) by [Ian Osgood](Ian_Osgood "Ian Osgood"), [CCC](CCC "CCC"), September 19, 2002
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [brainless | Free Games software downloads at SourceForge.net](http://sourceforge.net/projects/forth-brainless/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [TSCP enhancements (Re: Short chess programs)](https://www.stmintz.com/ccc/index.php?id=252881) by [Ian Osgood](Ian_Osgood "Ian Osgood"), [CCC](CCC "CCC"), September 19, 2002
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [brainless | Free Games software downloads at SourceForge.net](http://sourceforge.net/projects/forth-brainless/)
 
 **[Up one Level](Engines "Engines")**
 

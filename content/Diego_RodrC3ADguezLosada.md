@@ -40,14 +40,14 @@ He published along with [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Diego Rodriguez-Losada HomePage](https://sites.google.com/site/diegorlosada/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [JFrog - Universal Artifact Management for DevOps Acceleration](https://jfrog.com/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Diego (@diegorlosada) | Twitter](https://twitter.com/diegorlosada?lang=en)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [JFrog Acquires Conan, Bringing DevOps to C/C++ | JFrog](https://jfrog.com/about/jfrog-acquires-conan-bringing-devops-c-c/), November 17, 2016
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo"), [Ramón Galán](Ram%C3%B3n_Gal%C3%A1n "Ramón Galán"), [Fernando Matía](Fernando_Mat%C3%ADa "Fernando Matía"), Diego Rodríguez-Losada, [Agustín Jiménez](Agust%C3%ADn_Jim%C3%A9nez "Agustín Jiménez") (**2006**). *[Efficient Search Using Bitboard Models](https://ieeexplore.ieee.org/document/4031890)*. [ICTAI 2006](https://dblp.uni-trier.de/db/conf/ictai/ictai2006.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo"), Diego Rodríguez-Losada, [Fernando Matía](Fernando_Mat%C3%ADa "Fernando Matía"), [Ramón Galán](Ram%C3%B3n_Gal%C3%A1n "Ramón Galán") (**2010**). *[Fast exact feature based data correspondence search with an efficient bit-parallel MCP solver](https://dl.acm.org/citation.cfm?id=1824946&dl)*. [Applied Intelligence Vol. 32 No. 3](https://dblp.uni-trier.de/db/journals/apin/apin32.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Diego Rodríguez-Losada](https://dblp.uni-trier.de/pers/hd/r/Rodr=iacute=guez=Losada:Diego)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Clique problem from Wikipedia](https://en.wikipedia.org/wiki/Clique_problem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Diego Rodriguez-Losada HomePage](https://sites.google.com/site/diegorlosada/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [JFrog - Universal Artifact Management for DevOps Acceleration](https://jfrog.com/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Diego (@diegorlosada) | Twitter](https://twitter.com/diegorlosada?lang=en)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [JFrog Acquires Conan, Bringing DevOps to C/C++ | JFrog](https://jfrog.com/about/jfrog-acquires-conan-bringing-devops-c-c/), November 17, 2016
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo"), [Ramón Galán](Ram%C3%B3n_Gal%C3%A1n "Ramón Galán"), [Fernando Matía](Fernando_Mat%C3%ADa "Fernando Matía"), Diego Rodríguez-Losada, [Agustín Jiménez](Agust%C3%ADn_Jim%C3%A9nez "Agustín Jiménez") (**2006**). *[Efficient Search Using Bitboard Models](https://ieeexplore.ieee.org/document/4031890)*. [ICTAI 2006](https://dblp.uni-trier.de/db/conf/ictai/ictai2006.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pablo San Segundo](Pablo_San_Segundo "Pablo San Segundo"), Diego Rodríguez-Losada, [Fernando Matía](Fernando_Mat%C3%ADa "Fernando Matía"), [Ramón Galán](Ram%C3%B3n_Gal%C3%A1n "Ramón Galán") (**2010**). *[Fast exact feature based data correspondence search with an efficient bit-parallel MCP solver](https://dl.acm.org/citation.cfm?id=1824946&dl)*. [Applied Intelligence Vol. 32 No. 3](https://dblp.uni-trier.de/db/journals/apin/apin32.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Diego Rodríguez-Losada](https://dblp.uni-trier.de/pers/hd/r/Rodr=iacute=guez=Losada:Diego)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Clique problem from Wikipedia](https://en.wikipedia.org/wiki/Clique_problem)
 
 **[Up one Level](People "People")**
 

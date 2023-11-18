@@ -37,19 +37,19 @@ Team [Patzer](Patzer "Patzer"), Frank Quisinsky and [Roland Pfister](Roland_Pfis
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Thanks](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=30267) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 28, 1999
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Frank's Chess Page](https://www.amateurschach.de/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [First FCT1 rating list now available ...](http://www.talkchess.com/forum/viewtopic.php?t=52292) by Frank Quisinsky, [CCC](CCC "CCC"), May 12, 2014
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Schachwelt-Blog - Schachwelt - der Blog für Schachspieler](http://www.schach-welt.de/index.php) (German)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Arena 3.0 Chess GUI](http://www.playwitharena.com/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Ruffian 2.1.0 ...](https://www.stmintz.com/ccc/index.php?id=348116) by Frank Quisinsky, [CCC](CCC "CCC"), February 09, 2004
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [After Ruffian now the second project clear for take off (Patriot) ...](https://www.stmintz.com/ccc/index.php?id=356900) by Frank Quisinsky, [CCC](CCC "CCC"), March 27, 2004
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Ktulu 5.0 by Rahman Paidar (Iran) available in Gladiator-Shop tomorrow!](https://www.stmintz.com/ccc/index.php?id=362816) by Frank Quisinsky, [CCC](CCC "CCC"), May 01, 2004
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Patriot 2.0 Revealed as a Clone!](https://www.stmintz.com/ccc/index.php?id=424288) by Nog, [CCC](CCC "CCC"), May 04, 2005
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Re: Sorry Vladimir but this is what I see...](https://www.stmintz.com/ccc/index.php?id=425107) by [Christopher Conkie](index.php?title=Christopher_Conkie&action=edit&redlink=1 "Christopher Conkie (page does not exist)"), [CCC](CCC "CCC"), May 09, 2005
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Ein Besuch in Paderborn 1998](http://www.thorstenczub.de/Paderborn.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [1st International CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [ICT 2001](ICT_2001 "ICT 2001")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Thanks](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=30267) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 28, 1999
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Frank's Chess Page](https://www.amateurschach.de/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [First FCT1 rating list now available ...](http://www.talkchess.com/forum/viewtopic.php?t=52292) by Frank Quisinsky, [CCC](CCC "CCC"), May 12, 2014
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Schachwelt-Blog - Schachwelt - der Blog für Schachspieler](http://www.schach-welt.de/index.php) (German)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Arena 3.0 Chess GUI](http://www.playwitharena.com/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Ruffian 2.1.0 ...](https://www.stmintz.com/ccc/index.php?id=348116) by Frank Quisinsky, [CCC](CCC "CCC"), February 09, 2004
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [After Ruffian now the second project clear for take off (Patriot) ...](https://www.stmintz.com/ccc/index.php?id=356900) by Frank Quisinsky, [CCC](CCC "CCC"), March 27, 2004
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Ktulu 5.0 by Rahman Paidar (Iran) available in Gladiator-Shop tomorrow!](https://www.stmintz.com/ccc/index.php?id=362816) by Frank Quisinsky, [CCC](CCC "CCC"), May 01, 2004
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Patriot 2.0 Revealed as a Clone!](https://www.stmintz.com/ccc/index.php?id=424288) by Nog, [CCC](CCC "CCC"), May 04, 2005
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: Sorry Vladimir but this is what I see...](https://www.stmintz.com/ccc/index.php?id=425107) by [Christopher Conkie](index.php?title=Christopher_Conkie&action=edit&redlink=1 "Christopher Conkie (page does not exist)"), [CCC](CCC "CCC"), May 09, 2005
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Ein Besuch in Paderborn 1998](http://www.thorstenczub.de/Paderborn.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [1st International CSVN-Tournament 2001](http://www.quarkchess.de/csvn2001/body_index.html) by [Thomas Mayer](Thomas_Mayer "Thomas Mayer"), [ICT 2001](ICT_2001 "ICT 2001")
 
 **[Up one level](People "People")**
 

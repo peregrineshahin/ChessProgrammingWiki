@@ -125,20 +125,20 @@ The M & N procedure is an improvement to the mini-max backing-up procedure widel
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jet](https://en.wikipedia.org/wiki/Jet_%28magazine%29), [January 22, 1970](http://books.google.com/books/about/Jet.html?id=JjkDAAAAMBAJ), pp 21
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Personal page for Marvin Minsky](http://web.media.mit.edu/~minsky/people.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Mathematics Genealogy Project - James Robert Slagle](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=41537)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SAINT (Inventions) - what-when-how](http://what-when-how.com/inventions/saint-inventions/) (states James R. Slagle died in 1994)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Education: Their Best](http://www.time.com/time/magazine/article/0,9171,811144,00.html), [Time](https://en.wikipedia.org/wiki/Time_%28magazine%29), June 01, 1959
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Terasem Journal of Personal Cyberconsciousness - Marvin Lee Minsky discussing his book, The Emotion Machine](http://www.terasemjournals.org/PCJournal/PC0303/mm1.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Marvin Minsky's Home Page](http://web.media.mit.edu/~minsky/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> James R. Slagle, [Philip Bursky](Philip_Bursky "Philip Bursky") (**1968**). *[Experiments With a Multipurpose, Theorem-Proving Heuristic Program](https://dl.acm.org/citation.cfm?id=321444)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 15, No. 1
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> James R. Slagle, [John K. Dixon](John_K._Dixon "John K. Dixon") (**1970**). *[Experiments with the M & N Tree-Searching Program](http://portal.acm.org/citation.cfm?id=362052.362054)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 13, No. 3
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [JACM Authors - James R. Slagle](http://projects.csail.mit.edu/jacm/Authors/slaglejamesr.html)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [dblp: James R. Slagle](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Slagle:James_R=)
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Bibliography for Artificial Intelligence: A Modern Approach](http://www.cs.berkeley.edu/~russell/aima1e/aima-bib.html)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [David C. Cooper](https://www.projecteuclid.org/euclid.jsl/1183735759) (**1970**). *[Review: James R. Slagle, Philip Bursky, Experiments with a Multipurpose, Theorem-Proving Heuristic Program](https://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.jsl/1183737432)*. [Journal of Symbolic Logic](https://en.wikipedia.org/wiki/Journal_of_Symbolic_Logic), Vol. 35, No. 4
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jet](https://en.wikipedia.org/wiki/Jet_%28magazine%29), [January 22, 1970](http://books.google.com/books/about/Jet.html?id=JjkDAAAAMBAJ), pp 21
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Personal page for Marvin Minsky](http://web.media.mit.edu/~minsky/people.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Mathematics Genealogy Project - James Robert Slagle](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=41537)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SAINT (Inventions) - what-when-how](http://what-when-how.com/inventions/saint-inventions/) (states James R. Slagle died in 1994)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Education: Their Best](http://www.time.com/time/magazine/article/0,9171,811144,00.html), [Time](https://en.wikipedia.org/wiki/Time_%28magazine%29), June 01, 1959
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Terasem Journal of Personal Cyberconsciousness - Marvin Lee Minsky discussing his book, The Emotion Machine](http://www.terasemjournals.org/PCJournal/PC0303/mm1.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Marvin Minsky's Home Page](http://web.media.mit.edu/~minsky/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> James R. Slagle, [Philip Bursky](Philip_Bursky "Philip Bursky") (**1968**). *[Experiments With a Multipurpose, Theorem-Proving Heuristic Program](https://dl.acm.org/citation.cfm?id=321444)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 15, No. 1
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> James R. Slagle, [John K. Dixon](John_K._Dixon "John K. Dixon") (**1970**). *[Experiments with the M & N Tree-Searching Program](http://portal.acm.org/citation.cfm?id=362052.362054)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 13, No. 3
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [JACM Authors - James R. Slagle](http://projects.csail.mit.edu/jacm/Authors/slaglejamesr.html)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [dblp: James R. Slagle](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Slagle:James_R=)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Bibliography for Artificial Intelligence: A Modern Approach](http://www.cs.berkeley.edu/~russell/aima1e/aima-bib.html)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [David C. Cooper](https://www.projecteuclid.org/euclid.jsl/1183735759) (**1970**). *[Review: James R. Slagle, Philip Bursky, Experiments with a Multipurpose, Theorem-Proving Heuristic Program](https://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.jsl/1183737432)*. [Journal of Symbolic Logic](https://en.wikipedia.org/wiki/Journal_of_Symbolic_Logic), Vol. 35, No. 4
 
 **[Up one level](Engines "Engines")**
 

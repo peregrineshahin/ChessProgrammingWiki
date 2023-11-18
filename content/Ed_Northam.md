@@ -28,11 +28,11 @@ Ed Northam was an avid chess player, competing in tournaments in the 1950s and 1
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [In Memory of Edward S. Northam 1927-2010](http://www.edwardnortham.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The United States Chess Federation - Edward S. Northam](http://main.uschess.org/content/view/10358/512/) by Phillip R Smith, April 28, 2010
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hans Berliner](Hans_Berliner "Hans Berliner"), [Danny Kopec](Danny_Kopec "Danny Kopec"), Ed Northam (**1990**). *A taxonomy of concepts for evaluating chess strength: examples from two difficult categories*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6"), [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_20_C.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Ed Northam](https://dblp.uni-trier.de/pers/hd/n/Northam:Ed.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [In Memory of Edward S. Northam 1927-2010](http://www.edwardnortham.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The United States Chess Federation - Edward S. Northam](http://main.uschess.org/content/view/10358/512/) by Phillip R Smith, April 28, 2010
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner"), [Danny Kopec](Danny_Kopec "Danny Kopec"), Ed Northam (**1990**). *A taxonomy of concepts for evaluating chess strength: examples from two difficult categories*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6"), [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_20_C.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Ed Northam](https://dblp.uni-trier.de/pers/hd/n/Northam:Ed.html)
 
 **[Up one level](People "People")**
 

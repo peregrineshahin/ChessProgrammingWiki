@@ -126,15 +126,15 @@ Aske Plaat is creator of the [MTD(f)](</MTD(f)> "MTD(f)") <a id="cite-note-2" hr
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [plaat.nl](http://plaat.nl/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [- A Minimax Algorithm faster than NegaScout](https://people.csail.mit.edu/plaat/mtdf.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aske Plaat's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=425)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Aske Plaat](https://dblp.uni-trier.de/pers/hd/p/Plaat:Aske)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: scorpio can run on 8192 cores](http://www.talkchess.com/forum/viewtopic.php?t=57343&start=5) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), August 29, 2015
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Transposition-driven scheduling - Wikipedia](https://en.wikipedia.org/wiki/Transposition-driven_scheduling)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2014**). *A Statue of unremitting Devotion. Revised Selected papers CG 2013*. (Review) [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [plaat.nl](http://plaat.nl/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [- A Minimax Algorithm faster than NegaScout](https://people.csail.mit.edu/plaat/mtdf.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aske Plaat's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=425)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Aske Plaat](https://dblp.uni-trier.de/pers/hd/p/Plaat:Aske)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: scorpio can run on 8192 cores](http://www.talkchess.com/forum/viewtopic.php?t=57343&start=5) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), August 29, 2015
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Transposition-driven scheduling - Wikipedia](https://en.wikipedia.org/wiki/Transposition-driven_scheduling)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2014**). *A Statue of unremitting Devotion. Revised Selected papers CG 2013*. (Review) [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal")
 
 **[Up one level](People "People")**
 

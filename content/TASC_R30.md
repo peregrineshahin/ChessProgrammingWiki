@@ -51,9 +51,9 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Flickr: Fotostream - 6.Tasc](http://www.flickr.com/photos/10261668@N05/sets/72157600922173034/with/858166273/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ismenio's archive of the Tasc Chess System - SmartBoard](http://www.ismenio.com/tasc/sb.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tasc R30](http://www.schach-computer.info/wiki/index.php/Tasc_R30) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Flickr: Fotostream - 6.Tasc](http://www.flickr.com/photos/10261668@N05/sets/72157600922173034/with/858166273/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ismenio's archive of the Tasc Chess System - SmartBoard](http://www.ismenio.com/tasc/sb.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tasc R30](http://www.schach-computer.info/wiki/index.php/Tasc_R30) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
 
 **[Up one level](Engines "Engines")**
 

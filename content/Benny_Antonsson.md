@@ -37,8 +37,8 @@ a Swedish programmer, who started to write a program that managed to solve [mate
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alarm - History](http://web.archive.org/web/20020701112457fw_/http://www.codenet.se:80/Alarm/history.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Swedish programs](https://www.stmintz.com/ccc/index.php?id=200414) by Benny Antonsson, [CCC](CCC "CCC"), December 04, 2001
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alarm - History](http://web.archive.org/web/20020701112457fw_/http://www.codenet.se:80/Alarm/history.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Swedish programs](https://www.stmintz.com/ccc/index.php?id=200414) by Benny Antonsson, [CCC](CCC "CCC"), December 04, 2001
 
 **[Up one level](People "People")**
 

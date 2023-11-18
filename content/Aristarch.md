@@ -56,10 +56,10 @@ He calculated the [sizes of the Sun and Moon](https://en.wikipedia.org/wiki/On_t
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aristarchos](https://en.wikipedia.org/wiki/Aristarchus_of_Samos) of [Samos](https://en.wikipedia.org/wiki/Samos), monument at [Aristotle University of Thessaloniki](https://en.wikipedia.org/wiki/Aristotle_University_of_Thessaloniki), Photo by [Dr. Manuel](https://de.wikipedia.org/wiki/Benutzer:Dr._Manuel), [Aristarchos von Samos from Wikipedia](https://en.wikipedia.org/wiki/Aristarchus_of_Samos)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About Aristarch](https://zipproth.com/chess/aristarch/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Inside Aristarch](https://zipproth.com/chess/inside-aristarch/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The name "Aristarch"](https://zipproth.com/chess/further-reading/#_the_name_aristarch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aristarchos](https://en.wikipedia.org/wiki/Aristarchus_of_Samos) of [Samos](https://en.wikipedia.org/wiki/Samos), monument at [Aristotle University of Thessaloniki](https://en.wikipedia.org/wiki/Aristotle_University_of_Thessaloniki), Photo by [Dr. Manuel](https://de.wikipedia.org/wiki/Benutzer:Dr._Manuel), [Aristarchos von Samos from Wikipedia](https://en.wikipedia.org/wiki/Aristarchus_of_Samos)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About Aristarch](https://zipproth.com/chess/aristarch/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Inside Aristarch](https://zipproth.com/chess/inside-aristarch/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The name "Aristarch"](https://zipproth.com/chess/further-reading/#_the_name_aristarch)
 
 **[Up one Level](Engines "Engines")**
 

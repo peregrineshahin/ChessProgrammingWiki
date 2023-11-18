@@ -33,13 +33,13 @@ Starting with a rough approximation of the root derived from the [Pell's equatio
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jacques Dutka (Open Library)](https://openlibrary.org/authors/OL122090A/Jacques_Dutka)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Jacques Dutka (**1943**). *Transversality in Higher Space*. Ph.D. thesis, [Columbia University](Columbia_University "Columbia University")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Jacques Dutka (**1971**). *The Square Root of 2 to 1,000,000 Decimals*. [Mathematics of Computation](https://en.wikipedia.org/wiki/Mathematics_of_Computation), Vol 25, No. 116
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Special Events for Association for Computing Machinery, 25th National Conference](http://archive.computerhistory.org/projects/chess/related_materials/text/3-0%20and%203-1%20and%203-2%20and%203-3%20and%205-2.1970_ACM_70/1970_ACM.062303010.pdf) (pdf), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> John C. Devlin (**1970**). *[Chess Computer Loses Game in a King‐Size Blunder](https://www.nytimes.com/1970/09/02/archives/chess-computer-loses-game-in-a-kingsize-blunder.html)*. [New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), September 02, 1970, Thanks to [Monty Newborn](Monroe_Newborn "Monroe Newborn") for recognizing people
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Transversality in higher space (Open Library)](https://openlibrary.org/works/OL1208533W/Transversality_in_higher_space)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [St. Petersburg paradox from Wikipedia](https://en.wikipedia.org/wiki/St._Petersburg_paradox)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jacques Dutka (Open Library)](https://openlibrary.org/authors/OL122090A/Jacques_Dutka)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jacques Dutka (**1943**). *Transversality in Higher Space*. Ph.D. thesis, [Columbia University](Columbia_University "Columbia University")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Jacques Dutka (**1971**). *The Square Root of 2 to 1,000,000 Decimals*. [Mathematics of Computation](https://en.wikipedia.org/wiki/Mathematics_of_Computation), Vol 25, No. 116
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Special Events for Association for Computing Machinery, 25th National Conference](http://archive.computerhistory.org/projects/chess/related_materials/text/3-0%20and%203-1%20and%203-2%20and%203-3%20and%205-2.1970_ACM_70/1970_ACM.062303010.pdf) (pdf), hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> John C. Devlin (**1970**). *[Chess Computer Loses Game in a King‐Size Blunder](https://www.nytimes.com/1970/09/02/archives/chess-computer-loses-game-in-a-kingsize-blunder.html)*. [New York Times](https://en.wikipedia.org/wiki/The_New_York_Times), September 02, 1970, Thanks to [Monty Newborn](Monroe_Newborn "Monroe Newborn") for recognizing people
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Transversality in higher space (Open Library)](https://openlibrary.org/works/OL1208533W/Transversality_in_higher_space)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [St. Petersburg paradox from Wikipedia](https://en.wikipedia.org/wiki/St._Petersburg_paradox)
 
 **[Up one level](People "People")**
 

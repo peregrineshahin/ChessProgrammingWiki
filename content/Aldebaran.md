@@ -60,8 +60,8 @@ Nd5 15.Be1 Nf4 16.g3 Nxe2+ 17.Ndxe2 Bd7 18.h4 O-O-O 19.Nc3 Bc6 20.Rh3 Ng4
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The position of Aldebaran in the [Taurus constellation](https://en.wikipedia.org/wiki/Taurus_%28constellation%29), [Aldebaran from Wikipedia](https://en.wikipedia.org/wiki/Aldebaran)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Golem's Page - G6](http://www.oocities.org/gmasciulli/indexOld.html#G6)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The position of Aldebaran in the [Taurus constellation](https://en.wikipedia.org/wiki/Taurus_%28constellation%29), [Aldebaran from Wikipedia](https://en.wikipedia.org/wiki/Aldebaran)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Golem's Page - G6](http://www.oocities.org/gmasciulli/indexOld.html#G6)
 
 **[Up one level](Engines "Engines")**
 

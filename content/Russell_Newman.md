@@ -23,8 +23,8 @@ a British software engineer, and along with [Chris Moreton](Chris_Moreton "Chris
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Play Chess on RedHotPawn.com](https://www.redhotpawn.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rival Chess Engine - About](http://web.archive.org/web/20160313201136/http://www.rivalchess.com/about) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Play Chess on RedHotPawn.com](https://www.redhotpawn.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rival Chess Engine - About](http://web.archive.org/web/20160313201136/http://www.rivalchess.com/about) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

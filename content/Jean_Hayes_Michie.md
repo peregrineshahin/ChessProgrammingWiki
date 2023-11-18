@@ -38,14 +38,14 @@ was a British AI scientist, research associate at [University of Edinburgh](Univ
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Machine Intelligence series](http://www.doc.ic.ac.uk/~shm/MI/mi.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Turing Digital Archive](http://www.turingarchive.org/trust/) Historical Note by [Donald Michie](Donald_Michie "Donald Michie")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Obituary: Donald Michie | Science](https://www.theguardian.com/science/2007/jul/10/uk.obituaries1) by [Stephen Muggleton](Stephen_Muggleton "Stephen Muggleton"), [The Guardian](https://en.wikipedia.org/wiki/The_Guardian), July 10, 2007
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Jean Hayes Michie](https://dblp.uni-trier.de/pers/hd/m/Michie:Jean_Hayes)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Jean Hayes Michie - Semantic Scholar](https://www.semanticscholar.org/author/Jean-Hayes-Michie/2445979)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chris J. Thornton](Chris_J._Thornton "Chris J. Thornton") (**2000**). *[Truth from Trash: How Learning Makes Sense](https://www.goodreads.com/book/show/1097454.Truth_from_Trash)*. [Bradford Books](https://en.wikipedia.org/wiki/MIT_Press)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Machine Intelligence series](http://www.doc.ic.ac.uk/~shm/MI/mi.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Turing Digital Archive](http://www.turingarchive.org/trust/) Historical Note by [Donald Michie](Donald_Michie "Donald Michie")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Obituary: Donald Michie | Science](https://www.theguardian.com/science/2007/jul/10/uk.obituaries1) by [Stephen Muggleton](Stephen_Muggleton "Stephen Muggleton"), [The Guardian](https://en.wikipedia.org/wiki/The_Guardian), July 10, 2007
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Jean Hayes Michie](https://dblp.uni-trier.de/pers/hd/m/Michie:Jean_Hayes)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Jean Hayes Michie - Semantic Scholar](https://www.semanticscholar.org/author/Jean-Hayes-Michie/2445979)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chris J. Thornton](Chris_J._Thornton "Chris J. Thornton") (**2000**). *[Truth from Trash: How Learning Makes Sense](https://www.goodreads.com/book/show/1097454.Truth_from_Trash)*. [Bradford Books](https://en.wikipedia.org/wiki/MIT_Press)
 
 **[Up one level](People "People")**
 

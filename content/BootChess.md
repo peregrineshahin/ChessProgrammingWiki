@@ -33,9 +33,9 @@ who took the BootChess challenge with 481 bytes and a 3-ply search <a id="cite-n
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> 468 bytes without rank/file indicators of the board display
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [BootChess by Red Sector Inc. :: pouët.net](http://www.pouet.net/prod.php?which=64962)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: BootChess (minimal chess engine)](http://www.talkchess.com/forum/viewtopic.php?t=55125&start=9) by [Óscar Toledo Gutiérrez](%C3%93scar_Toledo_Guti%C3%A9rrez "Óscar Toledo Gutiérrez"), [CCC](CCC "CCC"), January 31, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> 468 bytes without rank/file indicators of the board display
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [BootChess by Red Sector Inc. :: pouët.net](http://www.pouet.net/prod.php?which=64962)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: BootChess (minimal chess engine)](http://www.talkchess.com/forum/viewtopic.php?t=55125&start=9) by [Óscar Toledo Gutiérrez](%C3%93scar_Toledo_Guti%C3%A9rrez "Óscar Toledo Gutiérrez"), [CCC](CCC "CCC"), January 31, 2015
 
 **[Up one Level](Engines "Engines")**
 

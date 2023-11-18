@@ -65,14 +65,14 @@ His research interests include [algebraic geometry](https://en.wikipedia.org/wik
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Michael A. Tsfasman](http://iml.univ-mrs.fr/ati/page_web_Tsfasman/Michael%20TSFASMAN.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Roland Dobrushin](Mathematician#RDobrushin "Mathematician")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Vladimir Steklov](Mathematician#VSteklov "Mathematician")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Curriculum Vitae Michael A. Tsfasman](http://iml.univ-mrs.fr/ati/page_web_Tsfasman/Homepagecvm.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Michael A. Tsfasman](https://dblp.uni-trier.de/pers/hd/t/Tsfasman:Michael_A=.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Brauer–Siegel theorem from Wikipedia](https://en.wikipedia.org/wiki/Brauer%E2%80%93Siegel_theorem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Michael A. Tsfasman](http://iml.univ-mrs.fr/ati/page_web_Tsfasman/Michael%20TSFASMAN.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Roland Dobrushin](Mathematician#RDobrushin "Mathematician")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Vladimir Steklov](Mathematician#VSteklov "Mathematician")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Curriculum Vitae Michael A. Tsfasman](http://iml.univ-mrs.fr/ati/page_web_Tsfasman/Homepagecvm.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Michael A. Tsfasman](https://dblp.uni-trier.de/pers/hd/t/Tsfasman:Michael_A=.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Brauer–Siegel theorem from Wikipedia](https://en.wikipedia.org/wiki/Brauer%E2%80%93Siegel_theorem)
 
 **[Up one level](People "People")**
 

@@ -29,7 +29,7 @@ title: Chess Champion MK II
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [MK II](https://www.flickr.com/photos/10261668@N05/858171037/in/album-72157600922171918/) from [Novag | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171918/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [MK II](https://www.flickr.com/photos/10261668@N05/858171037/in/album-72157600922171918/) from [Novag | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171918/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
 
 **[Up one level](Engines "Engines")**
 

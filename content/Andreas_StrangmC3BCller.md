@@ -56,11 +56,11 @@ a German [correspondence chess](https://en.wikipedia.org/wiki/Correspondence_che
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BdF-Newsletter April 2007](http://www.bdf-fernschachbund.de/newsletter/ausgaben/april2007.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [IECG Homepage](http://www.iecg.org/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [IECG/LSS World Championship Page](http://www.iecg.org/iecgwcinfo.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [WC-2004-F-00001](http://www.iecg.org/results/WC-2004-F-00001.htm)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [FastGMs Rating Lists (FGRL)](http://www.fastgm.de/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BdF-Newsletter April 2007](http://www.bdf-fernschachbund.de/newsletter/ausgaben/april2007.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [IECG Homepage](http://www.iecg.org/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [IECG/LSS World Championship Page](http://www.iecg.org/iecgwcinfo.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [WC-2004-F-00001](http://www.iecg.org/results/WC-2004-F-00001.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [FastGMs Rating Lists (FGRL)](http://www.fastgm.de/)
 
 **[Up one level](People "People")**
 

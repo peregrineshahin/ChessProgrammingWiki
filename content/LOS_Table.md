@@ -29,8 +29,8 @@ After a tournament between two engines is over one can deduct the [likelihood of
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Likelihood of superiority](http://www.talkchess.com/forum/viewtopic.php?t=30624) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), November 15, 2009
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Type I and type II errors from Wikipedia](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Likelihood of superiority](http://www.talkchess.com/forum/viewtopic.php?t=30624) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), November 15, 2009
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Type I and type II errors from Wikipedia](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
 
 **[Up one level](Match_Statistics "Match Statistics")**
 

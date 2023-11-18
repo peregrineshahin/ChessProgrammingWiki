@@ -19,8 +19,8 @@ As chess programmer in the early 80s, he is author of the program [Chessnut](Che
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BEC Navigation Limited](http://www.becnav.co.uk/Contact.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [BEC Navigation Limited](http://www.becnav.co.uk/Contact.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BEC Navigation Limited](http://www.becnav.co.uk/Contact.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [BEC Navigation Limited](http://www.becnav.co.uk/Contact.htm)
 
 **[Up one level](People "People")**
 

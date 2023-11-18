@@ -37,8 +37,8 @@ PCW tournaments were to provide [Levy](David_Levy "David Levy") and [O’Connell
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Levy](David_Levy "David Levy") (**1978**). *The PCW Microcomputer Chess Championships*, [Personal Computer World](Personal_Computer_World "Personal Computer World") 11/78, [pdf](http://www.chesscomputeruk.com/PCW-MCC_1978.pdf) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Levy](David_Levy "David Levy") (**1978**). *The PCW Microcomputer Chess Championships*, [Personal Computer World](Personal_Computer_World "Personal Computer World") 11/78, [pdf](http://www.chesscomputeruk.com/PCW-MCC_1978.pdf) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one level](Tournaments_and_Matches "Tournaments and Matches")**
 

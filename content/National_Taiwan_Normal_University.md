@@ -57,7 +57,7 @@ title: National Taiwan Normal University
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [National Taiwan Normal University - Auditorium](https://commons.wikimedia.org/wiki/File:Taiwan.ntnu.auditorium.altonthompson.jpg) by [Alton Thompson](https://en.wikipedia.org/wiki/User:Alton.arts), September 27, 2005, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [National Taiwan Normal University - Auditorium](https://commons.wikimedia.org/wiki/File:Taiwan.ntnu.auditorium.altonthompson.jpg) by [Alton Thompson](https://en.wikipedia.org/wiki/User:Alton.arts), September 27, 2005, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one Level](Organizations "Organizations")**
 

@@ -54,10 +54,10 @@ She is especially interested in the learning problems that face a decision-maker
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Doina Precup's Home Page](https://www.cs.mcgill.ca/~dprecup/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Mathematics Genealogy Project - Doina Precup](https://www.mathgenealogy.org/id.php?id=122264)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [JOT: Journal of Object Technology - Improving Rule Set Based Software Quality Prediction: A Genetic Algorithm-based Approach](http://www.jot.fm/issues/issue_2004_04/article13/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Doina Precup](https://dblp.uni-trier.de/pid/p/DoinaPrecup.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Doina Precup's Home Page](https://www.cs.mcgill.ca/~dprecup/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Mathematics Genealogy Project - Doina Precup](https://www.mathgenealogy.org/id.php?id=122264)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [JOT: Journal of Object Technology - Improving Rule Set Based Software Quality Prediction: A Genetic Algorithm-based Approach](http://www.jot.fm/issues/issue_2004_04/article13/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Doina Precup](https://dblp.uni-trier.de/pid/p/DoinaPrecup.html)
 
 **[Up one level](People "People")**
 

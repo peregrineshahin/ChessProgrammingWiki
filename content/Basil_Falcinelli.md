@@ -32,11 +32,11 @@ which subsequently evolved to [LazyGull](Gull#LazyGull "Gull") <a id="cite-note-
 
 ## [GitHub - basil00/Gull: Gull chess (Linux/Mac port) - The LazyGull Chess Engine](https://github.com/basil00/Gull) [GitHub - basil00/Fathom: Syzygy TB probe tool](https://github.com/basil00/Fathom) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [basil00 · GitHub](https://github.com/basil00/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ReQrypt](https://reqrypt.org/home.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Gull 3 (Linux port) released](http://www.talkchess.com/forum/viewtopic.php?t=58071) by Basil Falcinelli, [CCC](CCC "CCC"), October 28, 2015
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - basil00/Gull: Gull chess (Linux/Mac port) - The LazyGull Chess Engine](https://github.com/basil00/Gull)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - basil00/Fathom: Syzygy TB probe tool](https://github.com/basil00/Fathom)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [basil00 · GitHub](https://github.com/basil00/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ReQrypt](https://reqrypt.org/home.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gull 3 (Linux port) released](http://www.talkchess.com/forum/viewtopic.php?t=58071) by Basil Falcinelli, [CCC](CCC "CCC"), October 28, 2015
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - basil00/Gull: Gull chess (Linux/Mac port) - The LazyGull Chess Engine](https://github.com/basil00/Gull)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - basil00/Fathom: Syzygy TB probe tool](https://github.com/basil00/Fathom)
 
 **[Up one level](People "People")**
 

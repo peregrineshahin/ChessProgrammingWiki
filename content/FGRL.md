@@ -23,7 +23,7 @@ a rating list maintained and hosted by [Andreas Strangmüller](Andreas_Strangm%C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [New Rating Lists (FGRL)](http://www.talkchess.com/forum/viewtopic.php?t=49097) by [Andreas Strangmüller](Andreas_Strangm%C3%BCller "Andreas Strangmüller"), [CCC](CCC "CCC"), August 25, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [New Rating Lists (FGRL)](http://www.talkchess.com/forum/viewtopic.php?t=49097) by [Andreas Strangmüller](Andreas_Strangm%C3%BCller "Andreas Strangmüller"), [CCC](CCC "CCC"), August 25, 2013
 
 **[Up one Level](Engine_Rating_Lists "Engine Rating Lists")**
 

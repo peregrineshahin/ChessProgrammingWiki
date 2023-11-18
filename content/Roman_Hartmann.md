@@ -51,9 +51,9 @@ In 2004, Roman Hartmann wrote his [Matura](https://en.wikipedia.org/wiki/Matura#
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Clipped from the image of [Roman Hartmann](http://www.rocechess.ch/me.html) (about me) photographed by Manfred Rüdiger 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Regarding perft/divide](http://www.rocechess.ch/perft.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Roman Hartmann (**2004**). *Die Programmierung eines Computers für das Schachspiel*. [Matura](https://en.wikipedia.org/wiki/Matura#In_Switzerland) thesis, [pdf](http://www.rocechess.ch/maturaarbeit/matura.pdf) (German)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Clipped from the image of [Roman Hartmann](http://www.rocechess.ch/me.html) (about me) photographed by Manfred Rüdiger 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Regarding perft/divide](http://www.rocechess.ch/perft.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Roman Hartmann (**2004**). *Die Programmierung eines Computers für das Schachspiel*. [Matura](https://en.wikipedia.org/wiki/Matura#In_Switzerland) thesis, [pdf](http://www.rocechess.ch/maturaarbeit/matura.pdf) (German)
 
 **[Up one level](People "People")**
 

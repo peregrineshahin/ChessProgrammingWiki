@@ -17,9 +17,9 @@ Along with [Zacharias Georgiou](Zacharias_Georgiou "Zacharias Georgiou"), [Yaros
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Zacharias Georgiou](Zacharias_Georgiou "Zacharias Georgiou"), Evangelos Karountzos, [Yaroslav Shkarupa](Yaroslav_Shkarupa "Yaroslav Shkarupa"), [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli") (**2016**). *A Reinforcement Learning Approach for Solving KRK Chess Endgames*. [pdf](<https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames/blob/master/project_papers/final_paper/reinforcement-learning-approach(2).pdf>)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Evangelos Karountzos](https://dblp.org/pid/287/0605.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames: Machine Learning - Reinforcement Learning](https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Zacharias Georgiou](Zacharias_Georgiou "Zacharias Georgiou"), Evangelos Karountzos, [Yaroslav Shkarupa](Yaroslav_Shkarupa "Yaroslav Shkarupa"), [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli") (**2016**). *A Reinforcement Learning Approach for Solving KRK Chess Endgames*. [pdf](<https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames/blob/master/project_papers/final_paper/reinforcement-learning-approach(2).pdf>)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Evangelos Karountzos](https://dblp.org/pid/287/0605.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames: Machine Learning - Reinforcement Learning](https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames)
 
 **[Up one Level](People "People")**
 

@@ -58,9 +58,9 @@ is a public [research university](https://en.wikipedia.org/wiki/Research_univers
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A view of the [Beckman Institute](https://en.wikipedia.org/wiki/Beckman_Institute_for_Advanced_Science_and_Technology) from the south. It is the northern-most building on the [Beckman Quadrangle](https://en.wikipedia.org/wiki/Engineering_Campus_(University_of_Illinois_at_Urbana-Champaign)#Beckman_Quadrangle) at the University of Illinois, Image by SPDvinny, September 23, 2011, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CM-5/512 | TOP500 Supercomputer Sites](https://www.top500.org/system/167057)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [1993 ACM International Computer Chess Championship (with corrections)](https://groups.google.com/d/msg/rec.games.chess/RWmbgKk_3kE/nwNmBpTq98MJ) by [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), February 19, 1993
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A view of the [Beckman Institute](https://en.wikipedia.org/wiki/Beckman_Institute_for_Advanced_Science_and_Technology) from the south. It is the northern-most building on the [Beckman Quadrangle](https://en.wikipedia.org/wiki/Engineering_Campus_(University_of_Illinois_at_Urbana-Champaign)#Beckman_Quadrangle) at the University of Illinois, Image by SPDvinny, September 23, 2011, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CM-5/512 | TOP500 Supercomputer Sites](https://www.top500.org/system/167057)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [1993 ACM International Computer Chess Championship (with corrections)](https://groups.google.com/d/msg/rec.games.chess/RWmbgKk_3kE/nwNmBpTq98MJ) by [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), February 19, 1993
 
 **[Up one Level](Organizations "Organizations")**
 

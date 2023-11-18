@@ -61,10 +61,10 @@ ETH was founded on February 7, 1854 by the Swiss Confederation and began giving 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ETH Zurich from Wikipedia](https://en.wikipedia.org/wiki/ETH_Zurich)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ETH Zurich from Wikipedia](https://en.wikipedia.org/wiki/ETH_Zurich)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computer chess via ham radio](http://ljkrakauer.com/LJK/60s/hamchess.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tripard letter of 2010](http://ljkrakauer.com/LJK/60s/tripardltr.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ETH Zurich from Wikipedia](https://en.wikipedia.org/wiki/ETH_Zurich)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ETH Zurich from Wikipedia](https://en.wikipedia.org/wiki/ETH_Zurich)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computer chess via ham radio](http://ljkrakauer.com/LJK/60s/hamchess.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tripard letter of 2010](http://ljkrakauer.com/LJK/60s/tripardltr.htm)
 
 **[Up one Level](Organizations "Organizations")**
 

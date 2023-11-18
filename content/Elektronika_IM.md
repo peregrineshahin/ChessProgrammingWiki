@@ -34,13 +34,13 @@ At the [First International Chess-Computer Tournament in the USSR 1989](First_In
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Elektronika IM - 01](http://www.chesscomputeruk.com/html/elektronika_im_-_01.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Confirmed by [Sergei Frolov](https://www.facebook.com/sergei.frolov)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Saint Petersburg Encyclopaedia - Svetlana Factory](http://www.encspb.ru/object/2804001437?lc=en)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Elektronika IM - 01](http://www.chesscomputeruk.com/html/elektronika_im_-_01.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev") (**1989**). *Report on the 1st International Chess-Computer Tournament in the USSR*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Elektronika IM - 01](http://www.chesscomputeruk.com/html/elektronika_im_-_01.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Confirmed by [Sergei Frolov](https://www.facebook.com/sergei.frolov)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Saint Petersburg Encyclopaedia - Svetlana Factory](http://www.encspb.ru/object/2804001437?lc=en)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Elektronika IM - 01](http://www.chesscomputeruk.com/html/elektronika_im_-_01.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1988**). *Report on the 1st Soviet Computer-Chess Championship or re-awakening a sleeping giant*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev") (**1989**). *Report on the 1st International Chess-Computer Tournament in the USSR*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

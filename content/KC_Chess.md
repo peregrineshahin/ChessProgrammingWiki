@@ -63,11 +63,11 @@ Another deficiency is with the search tree algorithm itself. Since it only searc
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [KC Chess: Kevin & Craig's Chess Program](https://web.archive.org/web/20120411173812/http://www.csbruce.com/~csbruce/chess/) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [KC-Chess Report - 4.5. SEARCH-TREE PRUNING](https://web.archive.org/web/20120414114219/http://www.csbruce.com/~csbruce/chess/report.html) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [readme.txt](https://web.archive.org/web/20120414114214/http://www.csbruce.com/~csbruce/chess/readme.txt) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Joseph D Horton](http://www.cs.unb.ca/~jdh/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [KC-Chess Report - 6. PROGRAM LIMITATIONS](https://web.archive.org/web/20120414114219/http://www.csbruce.com/~csbruce/chess/report.html) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [KC Chess: Kevin & Craig's Chess Program](https://web.archive.org/web/20120411173812/http://www.csbruce.com/~csbruce/chess/) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [KC-Chess Report - 4.5. SEARCH-TREE PRUNING](https://web.archive.org/web/20120414114219/http://www.csbruce.com/~csbruce/chess/report.html) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [readme.txt](https://web.archive.org/web/20120414114214/http://www.csbruce.com/~csbruce/chess/readme.txt) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Joseph D Horton](http://www.cs.unb.ca/~jdh/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [KC-Chess Report - 6. PROGRAM LIMITATIONS](https://web.archive.org/web/20120414114219/http://www.csbruce.com/~csbruce/chess/report.html) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
 
 **[Up one level](Engines "Engines")**
 

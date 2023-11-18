@@ -43,10 +43,10 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [5.Scisys/Saitek | Flickr - Fotosharing](http://www.flickr.com/photos/10261668@N05/sets/72157600922172552/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SciSys - Intelligent Chess](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1980%20%5BG-0101%5D%20SciSys%20-%20Intelligent%20Chess.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Levy interview](http://www.schach-computer.info/wiki/index.php/Levy,_David) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [5.Scisys/Saitek | Flickr - Fotosharing](http://www.flickr.com/photos/10261668@N05/sets/72157600922172552/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SciSys - Intelligent Chess](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1980%20%5BG-0101%5D%20SciSys%20-%20Intelligent%20Chess.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Levy interview](http://www.schach-computer.info/wiki/index.php/Levy,_David) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
 
 **[Up one level](Engines "Engines")**
 

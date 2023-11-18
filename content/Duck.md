@@ -55,9 +55,9 @@ from [Mark Uniacke's](Mark_Uniacke "Mark Uniacke") report on the [4th Computer O
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Duck](http://www.dennisbreuker.nl/duck/index.html) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker") (Dutch)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [Victor Allis](Victor_Allis "Victor Allis"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1994**). *How to Mate: Applying Proof-Number Search*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), reprint as [Mate in 38: Applying Proof-Number Search](http://www.top-5000.nl/ps/Mate%20in%2038-%20applying%20proof%20number%20search%20to%20chess.pdf) from [Ed Schroder's](Ed_Schroder "Ed Schroder") [Programmer's Stuff site](http://www.top-5000.nl/prostuff.htm) » [Proof-Number Search](Proof-Number_Search "Proof-Number Search")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Duck](http://www.dennisbreuker.nl/duck/index.html) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker") (Dutch)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [Victor Allis](Victor_Allis "Victor Allis"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1994**). *How to Mate: Applying Proof-Number Search*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), reprint as [Mate in 38: Applying Proof-Number Search](http://www.top-5000.nl/ps/Mate%20in%2038-%20applying%20proof%20number%20search%20to%20chess.pdf) from [Ed Schroder's](Ed_Schroder "Ed Schroder") [Programmer's Stuff site](http://www.top-5000.nl/prostuff.htm) » [Proof-Number Search](Proof-Number_Search "Proof-Number Search")
 
 **[Up one Level](Engines "Engines")**
 

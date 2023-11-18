@@ -81,12 +81,12 @@ However, with the advent of brute-force [alpha-beta](Alpha-Beta "Alpha-Beta"), a
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Brute Force (1947 film) from Wikipedia](https://en.wikipedia.org/wiki/Brute_Force_%281947_film%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Claude Shannon](Claude_Shannon "Claude Shannon") (**1949**). *[Programming a Computer for Playing Chess](http://www.pi.infn.it/%7Ecarosi/chess/shannon.txt)*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon.062303002.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Paper is mentioned by [Richard Korf](Richard_Korf#JudeaPearl "Richard Korf") at [Judea Pearl Symposium](Judea_Pearl#Symposium "Judea Pearl"), 2010
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Quoted by [Hans Berliner](Hans_Berliner "Hans Berliner"), [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch") (**1985**). *A Study of Search Methods : The Effect of Constraint Satisfaction and Adventurousness*, [pdf](http://dli.iiit.ac.in/ijcai/IJCAI-85-VOL2/PDF/083.pdf), [pdf](http://dli.iiit.ac.in/ijcai/IJCAI-85-VOL2/PDF/083.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [University of Helsinki - Department of Computer Science - Annual Report 1999](http://www.cs.helsinki.fi/research/hallinto/TOIMINTARAPORTIT/1999/CS_Annual_Report_1999.pdf) (pdf)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chess In The Cinema - Chess scenes from the movie Brute Force (Burt Lancaster)](http://www.chess-in-the-cinema.de/showfilm.php?filmfile=4708.txt&pfad=4049)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Brute Force (1947 film) from Wikipedia](https://en.wikipedia.org/wiki/Brute_Force_%281947_film%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Claude Shannon](Claude_Shannon "Claude Shannon") (**1949**). *[Programming a Computer for Playing Chess](http://www.pi.infn.it/%7Ecarosi/chess/shannon.txt)*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon.062303002.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Paper is mentioned by [Richard Korf](Richard_Korf#JudeaPearl "Richard Korf") at [Judea Pearl Symposium](Judea_Pearl#Symposium "Judea Pearl"), 2010
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Quoted by [Hans Berliner](Hans_Berliner "Hans Berliner"), [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch") (**1985**). *A Study of Search Methods : The Effect of Constraint Satisfaction and Adventurousness*, [pdf](http://dli.iiit.ac.in/ijcai/IJCAI-85-VOL2/PDF/083.pdf), [pdf](http://dli.iiit.ac.in/ijcai/IJCAI-85-VOL2/PDF/083.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [University of Helsinki - Department of Computer Science - Annual Report 1999](http://www.cs.helsinki.fi/research/hallinto/TOIMINTARAPORTIT/1999/CS_Annual_Report_1999.pdf) (pdf)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chess In The Cinema - Chess scenes from the movie Brute Force (Burt Lancaster)](http://www.chess-in-the-cinema.de/showfilm.php?filmfile=4708.txt&pfad=4049)
 
 **[Up one Level](Search "Search")**
 

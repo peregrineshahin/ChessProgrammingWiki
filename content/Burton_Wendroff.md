@@ -44,12 +44,12 @@ an American mathematician and Adjunct Professor at the Department of Mathematics
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Burton Wendroff | Los Alamos National Laboratory, NM | LANL | Theoretical Division | ResearchGate](https://www.researchgate.net/profile/Burton_Wendroff)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Burton Wendroff's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=354)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Burton Wendroff](https://dblp.org/pers/hd/w/Wendroff:Burton)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Lax–Wendroff method from Wikipedia](https://en.wikipedia.org/wiki/Lax%E2%80%93Wendroff_method)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Lax–Wendroff theorem from Wikipedia](https://en.wikipedia.org/wiki/Lax%E2%80%93Wendroff_theorem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Burton Wendroff | Los Alamos National Laboratory, NM | LANL | Theoretical Division | ResearchGate](https://www.researchgate.net/profile/Burton_Wendroff)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Burton Wendroff's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=354)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Burton Wendroff](https://dblp.org/pers/hd/w/Wendroff:Burton)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Lax–Wendroff method from Wikipedia](https://en.wikipedia.org/wiki/Lax%E2%80%93Wendroff_method)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Lax–Wendroff theorem from Wikipedia](https://en.wikipedia.org/wiki/Lax%E2%80%93Wendroff_theorem)
 
 **[Up one level](People "People")**
 

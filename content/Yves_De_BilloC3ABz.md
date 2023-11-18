@@ -42,9 +42,9 @@ As avocational computer chess programmer, Yves De Billoëz is author of the [ope
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yves De Billoëz | LinkedIn](https://www.linkedin.com/in/yvesdebilloez/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Who are we – eSureCoin](http://www.esurecoin.com/about/management-team/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Yves De Billoëz | LinkedIn](https://www.linkedin.com/in/yvesdebilloez/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yves De Billoëz | LinkedIn](https://www.linkedin.com/in/yvesdebilloez/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Who are we – eSureCoin](http://www.esurecoin.com/about/management-team/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Yves De Billoëz | LinkedIn](https://www.linkedin.com/in/yvesdebilloez/)
 
 **[Up one level](People "People")**
 

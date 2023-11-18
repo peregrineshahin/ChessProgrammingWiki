@@ -84,15 +84,15 @@ Floyd provides a [Python](Python "Python") [API](https://en.wikipedia.org/wiki/A
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Hurricane Floyd near peak intensity on September 14, 1999 at 2030 UTC. This image was produced from data from [NOAA-14](https://en.wikipedia.org/wiki/Television_Infrared_Observation_Satellite#Advanced_TIROS-N), provided by [NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Hurricane Floyd from Wikipedia](https://en.wikipedia.org/wiki/Hurricane_Floyd)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Floyd 0.5 released](http://www.talkchess.com/forum/viewtopic.php?t=57913) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [CCC](CCC "CCC"), October 11, 2015
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [floyd/LICENSE at master · kervinck/floyd · GitHub](https://github.com/kervinck/floyd/blob/master/LICENSE)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [floyd/geometry.h at master · kervinck/floyd · GitHub](https://github.com/kervinck/floyd/blob/master/Source/geometry.h)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [floyd/drawModel.txt at master · kervinck/floyd · GitHub](https://github.com/kervinck/floyd/blob/master/Docs/drawModel.txt)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [floyd/README.md at master · kervinck/floyd · GitHub](https://github.com/kervinck/floyd/blob/master/README.md)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [floyd/tune.py at master · kervinck/floyd · GitHub](https://github.com/kervinck/floyd/blob/master/Tools/tune.py)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Yet another KPK endgame table generator: pfkpk](http://www.talkchess.com/forum/viewtopic.php?t=57517) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [CCC](CCC "CCC"), September 05, 2015
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [kervinck/pfkpk · GitHub](https://github.com/kervinck/pfkpk)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Hurricane Floyd near peak intensity on September 14, 1999 at 2030 UTC. This image was produced from data from [NOAA-14](https://en.wikipedia.org/wiki/Television_Infrared_Observation_Satellite#Advanced_TIROS-N), provided by [NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Hurricane Floyd from Wikipedia](https://en.wikipedia.org/wiki/Hurricane_Floyd)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Floyd 0.5 released](http://www.talkchess.com/forum/viewtopic.php?t=57913) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [CCC](CCC "CCC"), October 11, 2015
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [floyd/LICENSE at master · kervinck/floyd · GitHub](https://github.com/kervinck/floyd/blob/master/LICENSE)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [floyd/geometry.h at master · kervinck/floyd · GitHub](https://github.com/kervinck/floyd/blob/master/Source/geometry.h)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [floyd/drawModel.txt at master · kervinck/floyd · GitHub](https://github.com/kervinck/floyd/blob/master/Docs/drawModel.txt)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [floyd/README.md at master · kervinck/floyd · GitHub](https://github.com/kervinck/floyd/blob/master/README.md)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [floyd/tune.py at master · kervinck/floyd · GitHub](https://github.com/kervinck/floyd/blob/master/Tools/tune.py)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Yet another KPK endgame table generator: pfkpk](http://www.talkchess.com/forum/viewtopic.php?t=57517) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [CCC](CCC "CCC"), September 05, 2015
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [kervinck/pfkpk · GitHub](https://github.com/kervinck/pfkpk)
 
 **[Up one Level](Engines "Engines")**
 

@@ -37,8 +37,8 @@ LL Chess represents the board as plain [8x8 mailbox](8x8_Board "8x8 Board"). The
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [LL Chess Game - End of the World Production, LLC.](http://www.theparticle.com/chess.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Introduction](http://www.theparticle.com/chess000.html) by [Leonid Liberman](Leonid_Liberman "Leonid Liberman")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [LL Chess Game - End of the World Production, LLC.](http://www.theparticle.com/chess.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Introduction](http://www.theparticle.com/chess000.html) by [Leonid Liberman](Leonid_Liberman "Leonid Liberman")
 
 **[Up one Level](Engines "Engines")**
 

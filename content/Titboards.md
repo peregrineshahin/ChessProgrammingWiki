@@ -26,8 +26,8 @@ Titboards are not typically used (there is no known engine that implements them)
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Yet another new bitboard move generation method](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5623&p=27838) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 22, 2006
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: multi-dimensional piece/square tables](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=52861&start=8) by Tony P., [CCC](CCC "CCC"), January 28, 2020 » [Piece-Square Tables](Piece-Square_Tables "Piece-Square Tables")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Yet another new bitboard move generation method](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5623&p=27838) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 22, 2006
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: multi-dimensional piece/square tables](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=52861&start=8) by Tony P., [CCC](CCC "CCC"), January 28, 2020 » [Piece-Square Tables](Piece-Square_Tables "Piece-Square Tables")
 
 **[Up one level](Sliding_Piece_Attacks "Sliding Piece Attacks")**
 

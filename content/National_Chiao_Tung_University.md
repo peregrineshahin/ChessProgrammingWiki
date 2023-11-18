@@ -61,9 +61,9 @@ one of Taiwan's leading public research universities located in [Hsinchu](https:
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> NCTU Computer Science Campus, [Image](https://en.wikipedia.org/wiki/File:Yes_NCTU_computer_science_2.JPG) by [Bamboo Lak](https://en.wikipedia.org/wiki/User:Bamboo_Lake), August 2007
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [I-Chen Wu, Ph.D.](http://aigames.nctu.edu.tw/~icwu/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Introduction to Go Programs Developed at CGI Lab](http://aigames.nctu.edu.tw/~icwu/aigames/CGI.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> NCTU Computer Science Campus, [Image](https://en.wikipedia.org/wiki/File:Yes_NCTU_computer_science_2.JPG) by [Bamboo Lak](https://en.wikipedia.org/wiki/User:Bamboo_Lake), August 2007
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [I-Chen Wu, Ph.D.](http://aigames.nctu.edu.tw/~icwu/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Introduction to Go Programs Developed at CGI Lab](http://aigames.nctu.edu.tw/~icwu/aigames/CGI.html)
 
 **[Up one Level](Organizations "Organizations")**
 

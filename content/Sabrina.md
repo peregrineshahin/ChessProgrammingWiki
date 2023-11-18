@@ -50,10 +50,10 @@ and was active at the [IGT 2017](IGT_2017 "IGT 2017") <a id="cite-note-4" href="
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Daphnella sabrina](https://en.wikipedia.org/wiki/Daphnella_sabrina) Melvill, 1906, family [Raphitomidae](https://en.wikipedia.org/wiki/Raphitomidae), [Gulf of Oman](https://en.wikipedia.org/wiki/Gulf_of_Oman), from [J. Cosmo Melvill](https://en.wikipedia.org/wiki/James_Cosmo_Melvill_(naturalist)) (**1906**). *New Mollusca from the Persian Gulf, etc.* in [Proceedings of the Malacological Society of London. Volume: 7 (1906-1907) pl. VIII pg. 122](https://www.biodiversitylibrary.org/page/15797513#page/122/mode/1up), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> ["New" chess engine: Sabrina](http://talkchess.com/forum3/viewtopic.php?f=2&t=64167) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), June 03, 2017
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [L'Informatica di Gemma Stefano - Download Satana](http://www.linformatica.com/page_8.php)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Sabrina 3.0.23 has been released - IGT 2017 release](http://talkchess.com/forum3/viewtopic.php?f=2&t=65295) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), September 26, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Daphnella sabrina](https://en.wikipedia.org/wiki/Daphnella_sabrina) Melvill, 1906, family [Raphitomidae](https://en.wikipedia.org/wiki/Raphitomidae), [Gulf of Oman](https://en.wikipedia.org/wiki/Gulf_of_Oman), from [J. Cosmo Melvill](https://en.wikipedia.org/wiki/James_Cosmo_Melvill_(naturalist)) (**1906**). *New Mollusca from the Persian Gulf, etc.* in [Proceedings of the Malacological Society of London. Volume: 7 (1906-1907) pl. VIII pg. 122](https://www.biodiversitylibrary.org/page/15797513#page/122/mode/1up), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> ["New" chess engine: Sabrina](http://talkchess.com/forum3/viewtopic.php?f=2&t=64167) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), June 03, 2017
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [L'Informatica di Gemma Stefano - Download Satana](http://www.linformatica.com/page_8.php)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Sabrina 3.0.23 has been released - IGT 2017 release](http://talkchess.com/forum3/viewtopic.php?f=2&t=65295) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), September 26, 2017
 
 **[Up one Level](Engines "Engines")**
 

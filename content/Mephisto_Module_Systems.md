@@ -52,8 +52,8 @@ by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), first released as 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lyon 68020](https://www.flickr.com/photos/10261668@N05/859028734/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mephisto Bavaria – Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php?title=Mephisto_Bavaria) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lyon 68020](https://www.flickr.com/photos/10261668@N05/859028734/in/album-72157600922171154/) from [Mephisto | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171154/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mephisto Bavaria – Schachcomputer.info Wiki](https://www.schach-computer.info/wiki/index.php?title=Mephisto_Bavaria) (German)
 
 **[Up one level](Module "Module")**
 

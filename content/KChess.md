@@ -60,12 +60,12 @@ KChess has its own [GUI](GUI "GUI") to run under [Windows](Windows "Windows"), *
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [KChess Elite](http://www.arkangles.com/kchess/elite.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ARK ANGLES Great Australian Software](http://www.arkangles.com/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [KChess review](http://www.arkangles.com/kchess/review1.html) by [Fernando Villegas](Fernando_Villegas "Fernando Villegas")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [KChess Advance](http://www.arkangles.com/kchess/advance.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [KChess Elite](http://www.arkangles.com/kchess/elite.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chess for the Blind](http://www.arkangles.com/kchess/blind.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [KChess Elite](http://www.arkangles.com/kchess/elite.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ARK ANGLES Great Australian Software](http://www.arkangles.com/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [KChess review](http://www.arkangles.com/kchess/review1.html) by [Fernando Villegas](Fernando_Villegas "Fernando Villegas")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [KChess Advance](http://www.arkangles.com/kchess/advance.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [KChess Elite](http://www.arkangles.com/kchess/elite.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chess for the Blind](http://www.arkangles.com/kchess/blind.html)
 
 **[Up one level](Engines "Engines")**
 

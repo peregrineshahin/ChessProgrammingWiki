@@ -38,13 +38,13 @@ a Taiwanese electrical engineer, computer scientiest and professor and former pr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [R. C. T. Lee from Wikipedia](https://en.wikipedia.org/wiki/R._C._T._Lee)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [National Chi Nan University from Wikipedia](https://en.wikipedia.org/wiki/National_Chi_Nan_University)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Peach Foundation - Who We Are](http://www.peachfoundationusa.org/servlet/PEACHServlet?action=display&page=/english/about_peach/who_we_are)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Who Concerns about Poverty?](http://erdos.csie.ncnu.edu.tw/~rctlee/Poverty/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [R. C. T. Lee Introduction](http://erdos.csie.ncnu.edu.tw/%7Erctlee/Eng_profiles.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [R .C. T. Lee's Publications](http://erdos.csie.ncnu.edu.tw/%7Erctlee/Eng_publication.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [DBLP: Richard C. T. Lee](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lee:Richard_C=_T=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [R. C. T. Lee from Wikipedia](https://en.wikipedia.org/wiki/R._C._T._Lee)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [National Chi Nan University from Wikipedia](https://en.wikipedia.org/wiki/National_Chi_Nan_University)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Peach Foundation - Who We Are](http://www.peachfoundationusa.org/servlet/PEACHServlet?action=display&page=/english/about_peach/who_we_are)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Who Concerns about Poverty?](http://erdos.csie.ncnu.edu.tw/~rctlee/Poverty/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [R. C. T. Lee Introduction](http://erdos.csie.ncnu.edu.tw/%7Erctlee/Eng_profiles.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [R .C. T. Lee's Publications](http://erdos.csie.ncnu.edu.tw/%7Erctlee/Eng_publication.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [DBLP: Richard C. T. Lee](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lee:Richard_C=_T=.html)
 
 **[Up one level](People "People")**
 

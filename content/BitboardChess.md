@@ -56,11 +56,11 @@ iterating over [ray directions](Direction#RayDirections "Direction") and pre-cal
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [GitHub - billjordanchess/Bitboard-Chess: Simple C++ chess playing program which uses bitboards](https://github.com/billjordanchess/Bitboard-Chess)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bill Jordan](Bill_Jordan "Bill Jordan") (**2020**). *[How to Write a Bitboard Chess Engine](https://amzn.eu/7p0J2S1)*. [amazon](https://www.amazon.com/How-Write-Bitboard-Chess-Engine-ebook/dp/B0842GRJ6L/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bitboard-Chess/bitboard.cpp at master · billjordanchess/Bitboard-Chess · GitHub](https://github.com/billjordanchess/Bitboard-Chess/blob/master/bitboard.cpp#L362)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Bitboard-Chess/gen.cpp at master · billjordanchess/Bitboard-Chess · GitHub](https://github.com/billjordanchess/Bitboard-Chess/blob/master/gen.cpp#L94)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Bitboard-Chess/README.md at master · billjordanchess/Bitboard-Chess · GitHub](https://github.com/billjordanchess/Bitboard-Chess/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [GitHub - billjordanchess/Bitboard-Chess: Simple C++ chess playing program which uses bitboards](https://github.com/billjordanchess/Bitboard-Chess)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bill Jordan](Bill_Jordan "Bill Jordan") (**2020**). *[How to Write a Bitboard Chess Engine](https://amzn.eu/7p0J2S1)*. [amazon](https://www.amazon.com/How-Write-Bitboard-Chess-Engine-ebook/dp/B0842GRJ6L/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bitboard-Chess/bitboard.cpp at master · billjordanchess/Bitboard-Chess · GitHub](https://github.com/billjordanchess/Bitboard-Chess/blob/master/bitboard.cpp#L362)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Bitboard-Chess/gen.cpp at master · billjordanchess/Bitboard-Chess · GitHub](https://github.com/billjordanchess/Bitboard-Chess/blob/master/gen.cpp#L94)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Bitboard-Chess/README.md at master · billjordanchess/Bitboard-Chess · GitHub](https://github.com/billjordanchess/Bitboard-Chess/blob/master/README.md)
 
 **[Up one Level](Engines "Engines")**
 

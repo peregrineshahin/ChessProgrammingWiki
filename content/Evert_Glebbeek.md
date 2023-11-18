@@ -100,12 +100,12 @@ Sjaak and Leonidas are able to play various chess variants <a id="cite-note-3" h
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Evert Glebbeek at [Niagra Falls](https://en.wikipedia.org/wiki/Niagara_Falls), [Sterrenkunde RU Nijmegen - Evert Glebbeek](https://astro.ru.nl/wiki/nl/general/people/evert_glebbeek)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Evert Glebbeek | LinkedIn](https://www.linkedin.com/in/evert-glebbeek-b7b922a/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess (Jazz & Sjaak) home](http://www.eglebbk.dds.nl/program/chess-index.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: New Spartan-Chess engine: Sjaak](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=37713&start=2) by [Vladimir Xern](index.php?title=Vladimir_Xern&action=edit&redlink=1 "Vladimir Xern (page does not exist)"), [CCC](CCC "CCC"), January 21, 2011
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Evert Glebbeek](https://dblp.uni-trier.de/pers/hd/g/Glebbeek:Evert)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Search E. Glebbeek arXiv e-print repository](https://arxiv.org/search/astro-ph?searchtype=author&query=Glebbeek%2C+E)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Evert Glebbeek at [Niagra Falls](https://en.wikipedia.org/wiki/Niagara_Falls), [Sterrenkunde RU Nijmegen - Evert Glebbeek](https://astro.ru.nl/wiki/nl/general/people/evert_glebbeek)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Evert Glebbeek | LinkedIn](https://www.linkedin.com/in/evert-glebbeek-b7b922a/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess (Jazz & Sjaak) home](http://www.eglebbk.dds.nl/program/chess-index.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: New Spartan-Chess engine: Sjaak](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=37713&start=2) by [Vladimir Xern](index.php?title=Vladimir_Xern&action=edit&redlink=1 "Vladimir Xern (page does not exist)"), [CCC](CCC "CCC"), January 21, 2011
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Evert Glebbeek](https://dblp.uni-trier.de/pers/hd/g/Glebbeek:Evert)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Search E. Glebbeek arXiv e-print repository](https://arxiv.org/search/astro-ph?searchtype=author&query=Glebbeek%2C+E)
 
 **[Up one level](Engines "Engines")**
 

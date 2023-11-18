@@ -40,12 +40,12 @@ a Japanese evolutionary biologist and professor at [Shizuoka University](https:/
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jin Yoshimura](http://www.sys.eng.shizuoka.ac.jp/~jin/profile.html) (Japanese)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Graduate School of Science and Technology, Shizuoka University | Description of Departments](http://gsst.shizuoka.ac.jp/en/kyoiku/senkokankyo)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Jin Yoshimura](https://dblp.uni-trier.de/pers/hd/y/Yoshimura:Jin.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jin Yoshimura - Labome.Org](http://www.labome.org/expert/japan/shizuoka/yoshimura/jin-yoshimura-1365702.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Tsumego from Wikipedia](https://en.wikipedia.org/wiki/Tsumego)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Cicada from Wikipedia](https://en.wikipedia.org/wiki/Cicada)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jin Yoshimura](http://www.sys.eng.shizuoka.ac.jp/~jin/profile.html) (Japanese)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Graduate School of Science and Technology, Shizuoka University | Description of Departments](http://gsst.shizuoka.ac.jp/en/kyoiku/senkokankyo)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Jin Yoshimura](https://dblp.uni-trier.de/pers/hd/y/Yoshimura:Jin.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jin Yoshimura - Labome.Org](http://www.labome.org/expert/japan/shizuoka/yoshimura/jin-yoshimura-1365702.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tsumego from Wikipedia](https://en.wikipedia.org/wiki/Tsumego)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Cicada from Wikipedia](https://en.wikipedia.org/wiki/Cicada)
 
 **[Up one level](People "People")**
 

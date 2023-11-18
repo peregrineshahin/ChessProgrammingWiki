@@ -37,10 +37,10 @@ a commercial chess program for the [Acorn Archimedes](Acorn_Archimedes "Acorn Ar
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Box art of Cyber Chess for the Acorn Archimedes, Self-made by Harriet Bazley. (Original copyright holder: [The Fourth Dimension](<https://en.wikipedia.org/wiki/The_Fourth_Dimension_(company)>)), [Cyber Chess from Wikipedia](https://en.wikipedia.org/wiki/Cyber_Chess)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cyber Chess from Wikipedia](https://en.wikipedia.org/wiki/Cyber_Chess)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [William Tunstall-Pedoe Resumé (Resume, Curriculum Vitae, CV)](https://web.archive.org/web/20111114223548/http://www.williamtp.com/cv.html) ([Wayback Machine, November 2011](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ArcEm - The Acorn Archimedes Emulator](http://arcem.sourceforge.net/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Box art of Cyber Chess for the Acorn Archimedes, Self-made by Harriet Bazley. (Original copyright holder: [The Fourth Dimension](<https://en.wikipedia.org/wiki/The_Fourth_Dimension_(company)>)), [Cyber Chess from Wikipedia](https://en.wikipedia.org/wiki/Cyber_Chess)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cyber Chess from Wikipedia](https://en.wikipedia.org/wiki/Cyber_Chess)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [William Tunstall-Pedoe Resumé (Resume, Curriculum Vitae, CV)](https://web.archive.org/web/20111114223548/http://www.williamtp.com/cv.html) ([Wayback Machine, November 2011](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ArcEm - The Acorn Archimedes Emulator](http://arcem.sourceforge.net/)
 
 **[Up one Level](Engines "Engines")**
 

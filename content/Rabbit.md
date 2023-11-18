@@ -75,16 +75,16 @@ Rabbit Chess <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Original artwork (1865) by [John Tenniel](Category:John_Tenniel "Category:John Tenniel"), the novel by [Lewis Carroll](Category:Lewis_Carroll "Category:Lewis Carroll"), [Alice in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rabbit available for download](https://www.stmintz.com/ccc/index.php?id=33136) by [Roberto Waldteufel](Roberto_Waldteufel "Roberto Waldteufel"), [CCC](CCC "CCC"), November 16, 1998
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Tablebase Access Code](https://www.stmintz.com/ccc/index.php?id=108009) by [Roberto Waldteufel](Roberto_Waldteufel "Roberto Waldteufel"), [CCC](CCC "CCC"), April 26, 2000
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Chess in BASIC?](https://www.stmintz.com/ccc/index.php?id=25740) by [Roberto Waldteufel](Roberto_Waldteufel "Roberto Waldteufel"), [CCC](CCC "CCC"), August 31, 1998
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Extracting information from rotated Bitboards](https://www.stmintz.com/ccc/index.php?id=31456) by [Roberto Waldteufel](Roberto_Waldteufel "Roberto Waldteufel"), [CCC](CCC "CCC"), November 02, 1998
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Summer98-Tournament: Description](http://chess.fsv.de/Summer98/descript.htm#Roberto%20Waldteufel) by [Torsten Schoop](index.php?title=Torsten_Schoop&action=edit&redlink=1 "Torsten Schoop (page does not exist)")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Two of the [Paps of Jura](https://en.wikipedia.org/wiki/Paps_of_Jura) taken from above [Caol lla](https://en.wikipedia.org/wiki/Caol_Ila_distillery) on [Islay](https://en.wikipedia.org/wiki/Islay), by John Shaw, October 2002, [Jura, Scotland - Wikipedia](https://en.wikipedia.org/wiki/Jura,_Scotland)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Isle of Jura History and Information](http://www.scottishaccommodationindex.com/jurapics.htm)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [What the Dormouse Said - Wikipedia](https://en.wikipedia.org/wiki/What_the_Dormouse_Said)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Original artwork (1865) by [John Tenniel](Category:John_Tenniel "Category:John Tenniel"), the novel by [Lewis Carroll](Category:Lewis_Carroll "Category:Lewis Carroll"), [Alice in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rabbit available for download](https://www.stmintz.com/ccc/index.php?id=33136) by [Roberto Waldteufel](Roberto_Waldteufel "Roberto Waldteufel"), [CCC](CCC "CCC"), November 16, 1998
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Tablebase Access Code](https://www.stmintz.com/ccc/index.php?id=108009) by [Roberto Waldteufel](Roberto_Waldteufel "Roberto Waldteufel"), [CCC](CCC "CCC"), April 26, 2000
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Chess in BASIC?](https://www.stmintz.com/ccc/index.php?id=25740) by [Roberto Waldteufel](Roberto_Waldteufel "Roberto Waldteufel"), [CCC](CCC "CCC"), August 31, 1998
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Extracting information from rotated Bitboards](https://www.stmintz.com/ccc/index.php?id=31456) by [Roberto Waldteufel](Roberto_Waldteufel "Roberto Waldteufel"), [CCC](CCC "CCC"), November 02, 1998
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Summer98-Tournament: Description](http://chess.fsv.de/Summer98/descript.htm#Roberto%20Waldteufel) by [Torsten Schoop](index.php?title=Torsten_Schoop&action=edit&redlink=1 "Torsten Schoop (page does not exist)")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Two of the [Paps of Jura](https://en.wikipedia.org/wiki/Paps_of_Jura) taken from above [Caol lla](https://en.wikipedia.org/wiki/Caol_Ila_distillery) on [Islay](https://en.wikipedia.org/wiki/Islay), by John Shaw, October 2002, [Jura, Scotland - Wikipedia](https://en.wikipedia.org/wiki/Jura,_Scotland)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Isle of Jura History and Information](http://www.scottishaccommodationindex.com/jurapics.htm)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [What the Dormouse Said - Wikipedia](https://en.wikipedia.org/wiki/What_the_Dormouse_Said)
 
 **[Up one Level](Engines "Engines")**
 

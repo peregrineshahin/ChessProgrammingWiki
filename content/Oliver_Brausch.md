@@ -58,12 +58,12 @@ Oliver's stance to mobility was likely due to his background in [statistical phy
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Radaris: Oliver Brausch](http://radaris.de/p/Oliver/Brausch/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Oliver Brausch (**2001**). *Rayleigh-Bénard Konvektion in verschiedenen isotropen und anisotropen Systemen*. Ph.D. thesis, Institute of Physics, [University of Bayreuth](https://en.wikipedia.org/wiki/University_of_Bayreuth), advisor [Werner Pesch](http://www.pesch.physik.uni-bayreuth.de/de/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Oliver Brausch Homepage | Chess Downloads](http://brausch.org/home/chess/index.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dissertationen und Habilitationen | Fakultät für Mathematik, Physik, Informatik | Universität Bayreuth](http://www.fakultaet1.uni-bayreuth.de/de/research/01_dissertationen_und_habilitationen/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Oliver Brausch Homepage](http://brausch.org/home/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Rayleigh–Bénard convection from Wikipedia](https://en.wikipedia.org/wiki/Rayleigh%E2%80%93B%C3%A9nard_convection)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Radaris: Oliver Brausch](http://radaris.de/p/Oliver/Brausch/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Oliver Brausch (**2001**). *Rayleigh-Bénard Konvektion in verschiedenen isotropen und anisotropen Systemen*. Ph.D. thesis, Institute of Physics, [University of Bayreuth](https://en.wikipedia.org/wiki/University_of_Bayreuth), advisor [Werner Pesch](http://www.pesch.physik.uni-bayreuth.de/de/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Oliver Brausch Homepage | Chess Downloads](http://brausch.org/home/chess/index.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dissertationen und Habilitationen | Fakultät für Mathematik, Physik, Informatik | Universität Bayreuth](http://www.fakultaet1.uni-bayreuth.de/de/research/01_dissertationen_und_habilitationen/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Oliver Brausch Homepage](http://brausch.org/home/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Rayleigh–Bénard convection from Wikipedia](https://en.wikipedia.org/wiki/Rayleigh%E2%80%93B%C3%A9nard_convection)
 
 **[Up one level](People "People")**
 

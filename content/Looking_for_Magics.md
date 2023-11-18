@@ -256,9 +256,9 @@ Another application is Looking for overlapping Magics for a [fixed shift approac
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Disproving the existence of some magics](http://www.talkchess.com/forum/viewtopic.php?t=65187) by [Niklas Fiekas](Niklas_Fiekas "Niklas Fiekas"), [CCC](CCC "CCC"), September 16, 2017
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Magic Move Generation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=175834&t=19699) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), February 20, 2008
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fixed shift magics with 800KB lookup table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=51162) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September, 05, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Disproving the existence of some magics](http://www.talkchess.com/forum/viewtopic.php?t=65187) by [Niklas Fiekas](Niklas_Fiekas "Niklas Fiekas"), [CCC](CCC "CCC"), September 16, 2017
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Magic Move Generation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=175834&t=19699) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), February 20, 2008
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fixed shift magics with 800KB lookup table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=51162) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September, 05, 2010
 
 **[Up one level](Magic_Bitboards "Magic Bitboards")**
 

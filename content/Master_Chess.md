@@ -34,8 +34,8 @@ A program with the same name was further published in 1987 by [Mastertronic](htt
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [masterchess © amsoft (1984) | CPC Power](http://www.cpc-power.com/index.php?page=detail&num=1368)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Master Chess for Amstrad CPC (1987) - MobyGames](http://www.mobygames.com/game/master-chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [masterchess © amsoft (1984) | CPC Power](http://www.cpc-power.com/index.php?page=detail&num=1368)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Master Chess for Amstrad CPC (1987) - MobyGames](http://www.mobygames.com/game/master-chess)
 
 **[Up one level](Engines "Engines")**
 

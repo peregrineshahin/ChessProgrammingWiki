@@ -45,14 +45,14 @@ Tripard said there are about two generations of people who are "[zealots](https:
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer chess via ham radio](http://ljkrakauer.com/LJK/60s/hamchess.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The first inter-computer chess game via ham radio](http://ljkrakauer.com/LJK/60s/game1list.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [October 30, 1968 letter from Richard Greenblatt to G. Tripard](http://ljkrakauer.com/LJK/60s/greenblattltr.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Games 2 and 3](http://ljkrakauer.com/LJK/60s/games23list.htm)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [July 1, 2010 letter from Dr. Gerald Tripard](http://ljkrakauer.com/LJK/60s/tripardltr.htm), hosted by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Computer chess via ham radio](http://ljkrakauer.com/LJK/60s/hamchess.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [College nuclear reactor hits 50th anniversary](https://www.standard.net/topics/business/2011/03/09/college-nuclear-reactor-hits-50th-anniversary/) by [Kelsey Husky](http://www.standard.net/authors/kelsey-husky), [Moscow-Pullman Daily News](https://en.wikipedia.org/wiki/Moscow-Pullman_Daily_News), March 09, 2011
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> The [Fukushima Daiichi nuclear disaster](https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster) happened from March 11, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer chess via ham radio](http://ljkrakauer.com/LJK/60s/hamchess.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The first inter-computer chess game via ham radio](http://ljkrakauer.com/LJK/60s/game1list.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [October 30, 1968 letter from Richard Greenblatt to G. Tripard](http://ljkrakauer.com/LJK/60s/greenblattltr.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Games 2 and 3](http://ljkrakauer.com/LJK/60s/games23list.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [July 1, 2010 letter from Dr. Gerald Tripard](http://ljkrakauer.com/LJK/60s/tripardltr.htm), hosted by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Computer chess via ham radio](http://ljkrakauer.com/LJK/60s/hamchess.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [College nuclear reactor hits 50th anniversary](https://www.standard.net/topics/business/2011/03/09/college-nuclear-reactor-hits-50th-anniversary/) by [Kelsey Husky](http://www.standard.net/authors/kelsey-husky), [Moscow-Pullman Daily News](https://en.wikipedia.org/wiki/Moscow-Pullman_Daily_News), March 09, 2011
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> The [Fukushima Daiichi nuclear disaster](https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster) happened from March 11, 2011
 
 **[Up one level](People "People")**
 

@@ -74,14 +74,14 @@ PocketGrandmaster features an own [GUI](GUI "GUI") with [UCI](UCI "UCI") like pr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Welcome to PocketGrandmaster !](http://www.pocketgrandmaster.com/english/pgm.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Is Gromit 3.9.5 is out?](https://www.stmintz.com/ccc/index.php?id=240495) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), July 14, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [18th World Microcomputer Chess Championship - Maastricht 2001 (ICGA Tournaments)](http://www.grappa.univ-lille3.fr/icga/tournament.php?id=30)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Register PocketGrandmaster](http://www.pocketgrandmaster.com/english/reg.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [PocketGrandmaster 1.1 released](https://www.stmintz.com/ccc/index.php?id=202624) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), December 19, 2001
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Fruit 2.1 available for PocketGrandmaster](https://www.stmintz.com/ccc/index.php?id=439433) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), July 31, 2005
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [PocketGrandmaster Downloads](http://www.pocketgrandmaster.com/english/dload.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> not recommended, due to [memory leak](https://en.wikipedia.org/wiki/Memory_leak), see [Other downloads](http://www.pocketgrandmaster.com/english/odload.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Welcome to PocketGrandmaster !](http://www.pocketgrandmaster.com/english/pgm.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Is Gromit 3.9.5 is out?](https://www.stmintz.com/ccc/index.php?id=240495) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), July 14, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [18th World Microcomputer Chess Championship - Maastricht 2001 (ICGA Tournaments)](http://www.grappa.univ-lille3.fr/icga/tournament.php?id=30)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Register PocketGrandmaster](http://www.pocketgrandmaster.com/english/reg.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [PocketGrandmaster 1.1 released](https://www.stmintz.com/ccc/index.php?id=202624) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), December 19, 2001
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Fruit 2.1 available for PocketGrandmaster](https://www.stmintz.com/ccc/index.php?id=439433) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), July 31, 2005
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [PocketGrandmaster Downloads](http://www.pocketgrandmaster.com/english/dload.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> not recommended, due to [memory leak](https://en.wikipedia.org/wiki/Memory_leak), see [Other downloads](http://www.pocketgrandmaster.com/english/odload.html)
 
 **[Up one Level](Engines "Engines")**
 

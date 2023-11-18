@@ -193,13 +193,13 @@ In computer chess, iterative algorithms are used for instance directly or indire
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Iterationen](http://www.natur-struktur.ch/populationen/iterationen.html) from [Strukturen in der Biologie](http://www.natur-struktur.ch/) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Recursion - Tail-recursive functions from Wikipedia,](https://en.wikipedia.org/wiki/Recursion_%28computer_science%29#Tail-recursive_functions)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Replace Recursion with Iteration](http://www.refactoring.com/catalog/replaceRecursionWithIteration.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Donald Knuth](Donald_Knuth "Donald Knuth"), [Ronald W. Moore](http://dblp.uni-trier.de/pers/hd/m/Moore:Ronald_W=) (**1975**). *[An analysis of alpha-beta pruning](http://www.scribd.com/doc/28194932/An-Analysis-of-Alpha-Beta-Pruning).* Artificial Intelligence, 6:293–326
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Considered harmful from Wikipedia](https://en.wikipedia.org/wiki/Considered_harmful)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Brian J. Shelburne](Mathematician#BJShelburne "Mathematician") (**1999**). *[Zuse's Z3 Square Root Algorithm](https://studylib.net/doc/7921512/zuse-s-z3-square-root-algorithm)*. » [Konrad Zuse](Konrad_Zuse "Konrad Zuse")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [RKISS copyright?](http://www.talkchess.com/forum/viewtopic.php?t=38313) by Giorgio Medeot, [CCC](CCC "CCC"), March 07, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Iterationen](http://www.natur-struktur.ch/populationen/iterationen.html) from [Strukturen in der Biologie](http://www.natur-struktur.ch/) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Recursion - Tail-recursive functions from Wikipedia,](https://en.wikipedia.org/wiki/Recursion_%28computer_science%29#Tail-recursive_functions)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Replace Recursion with Iteration](http://www.refactoring.com/catalog/replaceRecursionWithIteration.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Donald Knuth](Donald_Knuth "Donald Knuth"), [Ronald W. Moore](http://dblp.uni-trier.de/pers/hd/m/Moore:Ronald_W=) (**1975**). *[An analysis of alpha-beta pruning](http://www.scribd.com/doc/28194932/An-Analysis-of-Alpha-Beta-Pruning).* Artificial Intelligence, 6:293–326
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Considered harmful from Wikipedia](https://en.wikipedia.org/wiki/Considered_harmful)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Brian J. Shelburne](Mathematician#BJShelburne "Mathematician") (**1999**). *[Zuse's Z3 Square Root Algorithm](https://studylib.net/doc/7921512/zuse-s-z3-square-root-algorithm)*. » [Konrad Zuse](Konrad_Zuse "Konrad Zuse")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [RKISS copyright?](http://www.talkchess.com/forum/viewtopic.php?t=38313) by Giorgio Medeot, [CCC](CCC "CCC"), March 07, 2011
 
 **[Up one Level](Algorithms "Algorithms")**
 

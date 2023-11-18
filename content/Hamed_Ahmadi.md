@@ -45,15 +45,15 @@ His [Alquerque](https://en.wikipedia.org/wiki/Alquerque) entry **Beta** became t
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hamed Ahmadi‬ - ‪Google Scholar‬](https://scholar.google.com.sg/citations?user=lEcMAWwAAAAJ&hl=en)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About me – Hamed Ahmadi](https://ahmadihamed.wordpress.com/about-me/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Back to Chess Programming after 20 years](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76583) by Hamed Ahmadi, [CCC](CCC "CCC"), February 14, 2021
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CodeCup 2003 - Competition](https://archive.codecup.nl/2003/competition%3Fcomp%3D4.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CodeCup 2003 - Rules of Caissa](https://archive.codecup.nl/2003/rules_caissa.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [MindSports - Caïssa](https://www.mindsports.nl/index.php/side-dishes/more-games-by-cf?start=3)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [CodeCup 2008 - Competition](https://archive.codecup.nl/2008/35/competition_qcomp_e53.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Hamed Ahmadi - Publications](http://hamedahmadi.com/publications.html)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Hamed Ahmadi](https://dblp.org/pid/10/35.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hamed Ahmadi‬ - ‪Google Scholar‬](https://scholar.google.com.sg/citations?user=lEcMAWwAAAAJ&hl=en)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About me – Hamed Ahmadi](https://ahmadihamed.wordpress.com/about-me/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Back to Chess Programming after 20 years](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76583) by Hamed Ahmadi, [CCC](CCC "CCC"), February 14, 2021
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CodeCup 2003 - Competition](https://archive.codecup.nl/2003/competition%3Fcomp%3D4.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CodeCup 2003 - Rules of Caissa](https://archive.codecup.nl/2003/rules_caissa.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [MindSports - Caïssa](https://www.mindsports.nl/index.php/side-dishes/more-games-by-cf?start=3)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [CodeCup 2008 - Competition](https://archive.codecup.nl/2008/35/competition_qcomp_e53.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Hamed Ahmadi - Publications](http://hamedahmadi.com/publications.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Hamed Ahmadi](https://dblp.org/pid/10/35.html)
 
 **[Up one level](People "People")**
 

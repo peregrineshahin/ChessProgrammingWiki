@@ -53,11 +53,11 @@ He is co-author of various papers on [Parallel](Parallel_Search "Parallel Search
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from [Image Havannah](https://get.google.com/albumarchive/117053534374902710729/album/AF1QipM5Wr00KdHRue7XOO67QRA3-B2ClTHDqlzlAjMj/AF1QipPApyR0GYUsebcIOt40O2vawnGvdvPnww3p_d6P) from [Album archive](https://get.google.com/albumarchive/117053534374902710729/album/AF1QipM5Wr00KdHRue7XOO67QRA3-B2ClTHDqlzlAjMj) by [Hideki Kato](Hideki_Kato "Hideki Kato"), [14th Computer Olympiad, Havannah](14th_Computer_Olympiad#Havannah "14th Computer Olympiad"), [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz") and Fabien Teytaud surrounded by the TDs [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") and [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [TikiWiki | People](https://tao.lri.fr/tiki-index.php?page=People)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fabien Teytaud‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=_FtUoygAAAAJ&hl=en)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Fabien Teytaud](https://dblp.org/pid/15/2788.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [7 Wonders (board game) from WIkipedia](https://en.wikipedia.org/wiki/7_Wonders_%28board_game%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from [Image Havannah](https://get.google.com/albumarchive/117053534374902710729/album/AF1QipM5Wr00KdHRue7XOO67QRA3-B2ClTHDqlzlAjMj/AF1QipPApyR0GYUsebcIOt40O2vawnGvdvPnww3p_d6P) from [Album archive](https://get.google.com/albumarchive/117053534374902710729/album/AF1QipM5Wr00KdHRue7XOO67QRA3-B2ClTHDqlzlAjMj) by [Hideki Kato](Hideki_Kato "Hideki Kato"), [14th Computer Olympiad, Havannah](14th_Computer_Olympiad#Havannah "14th Computer Olympiad"), [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz") and Fabien Teytaud surrounded by the TDs [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") and [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TikiWiki | People](https://tao.lri.fr/tiki-index.php?page=People)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fabien Teytaud‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=_FtUoygAAAAJ&hl=en)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Fabien Teytaud](https://dblp.org/pid/15/2788.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [7 Wonders (board game) from WIkipedia](https://en.wikipedia.org/wiki/7_Wonders_%28board_game%29)
 
 **[Up one level](People "People")**
 

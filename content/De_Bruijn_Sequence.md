@@ -396,16 +396,16 @@ So called De Bruijn Networks with the topology of De Bruijn Graphs have interest
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [De Bruijn sequence from Wikipedia](https://en.wikipedia.org/wiki/De_Bruijn_sequence)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson"), [Harald Prokop](Harald_Prokop "Harald Prokop"), [Keith H. Randall](Keith_H._Randall "Keith H. Randall") (**1998**). *Using de Bruijn Sequences to Index a 1 in a Computer Word*. [pdf](http://supertech.csail.mit.edu/papers/debruijn.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Nicolaas de Bruijn](Nicolaas_de_Bruijn "Nicolaas de Bruijn") (**1975**). *Acknowledgement of priority to C. Flye Sainte-Marie on the counting of circular arrangements of 2n zeros and ones that show each n-letter word exactly once*. Technical Report, Technische Hogeschool Eindhoven, [pdf](http://alexandria.tue.nl/repository/books/252901.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Nicolaas de Bruijn](Nicolaas_de_Bruijn "Nicolaas de Bruijn") (**1985**). *In Memoriam T. van Ardenne-Ehrenfest*. [pdf](http://alexandria.tue.nl/repository/freearticles/597575.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [De Bruijn graph from Wikipedia](https://en.wikipedia.org/wiki/De_Bruijn_graph)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Burkhard Monien](Burkhard_Monien "Burkhard Monien") (**1991**). *A Fully Distributed Chess Program*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6"), [pdf](http://www.top-5000.nl/ps/A%20fully%20distribuited%20chess%20program.pdf)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1993**). *Game Tree Search on Massively Parallel Systems* Phd-Thesis, [pdf](http://wwwcs.uni-paderborn.de/fachbereich/AG/monien/PUBLICATIONS/POSTSCRIPTS/feldmann_phd.pdf)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Recurring decimal from Wikipedia](https://en.wikipedia.org/wiki/Recurring_decimal)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [LFSR from Wikipedia](https://en.wikipedia.org/wiki/Linear-feedback_shift_register)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Zech's logarithm from Wikipedia](https://en.wikipedia.org/wiki/Zech%27s_logarithm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [De Bruijn sequence from Wikipedia](https://en.wikipedia.org/wiki/De_Bruijn_sequence)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson"), [Harald Prokop](Harald_Prokop "Harald Prokop"), [Keith H. Randall](Keith_H._Randall "Keith H. Randall") (**1998**). *Using de Bruijn Sequences to Index a 1 in a Computer Word*. [pdf](http://supertech.csail.mit.edu/papers/debruijn.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Nicolaas de Bruijn](Nicolaas_de_Bruijn "Nicolaas de Bruijn") (**1975**). *Acknowledgement of priority to C. Flye Sainte-Marie on the counting of circular arrangements of 2n zeros and ones that show each n-letter word exactly once*. Technical Report, Technische Hogeschool Eindhoven, [pdf](http://alexandria.tue.nl/repository/books/252901.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nicolaas de Bruijn](Nicolaas_de_Bruijn "Nicolaas de Bruijn") (**1985**). *In Memoriam T. van Ardenne-Ehrenfest*. [pdf](http://alexandria.tue.nl/repository/freearticles/597575.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [De Bruijn graph from Wikipedia](https://en.wikipedia.org/wiki/De_Bruijn_graph)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Burkhard Monien](Burkhard_Monien "Burkhard Monien") (**1991**). *A Fully Distributed Chess Program*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6"), [pdf](http://www.top-5000.nl/ps/A%20fully%20distribuited%20chess%20program.pdf)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1993**). *Game Tree Search on Massively Parallel Systems* Phd-Thesis, [pdf](http://wwwcs.uni-paderborn.de/fachbereich/AG/monien/PUBLICATIONS/POSTSCRIPTS/feldmann_phd.pdf)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Recurring decimal from Wikipedia](https://en.wikipedia.org/wiki/Recurring_decimal)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [LFSR from Wikipedia](https://en.wikipedia.org/wiki/Linear-feedback_shift_register)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Zech's logarithm from Wikipedia](https://en.wikipedia.org/wiki/Zech%27s_logarithm)
 
 **[Up one Level](Data "Data")**
 

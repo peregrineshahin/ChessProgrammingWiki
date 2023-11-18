@@ -37,11 +37,11 @@ While FSSS-Minimax is guaranteed to never expand more leaves than alpha-beta, th
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Ari Weinstein, [Michael L. Littman](Michael_L._Littman "Michael L. Littman"), [Sergiu Goschin](index.php?title=Sergiu_Goschin&action=edit&redlink=1 "Sergiu Goschin (page does not exist)") (**2013**). *[Rollout-based Game-tree Search Outprunes Traditional Alpha-beta](http://proceedings.mlr.press/v24/weinstein12a.html)*. [PMLR](http://proceedings.mlr.press/), Vol. 24
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Thomas J. Walsh](index.php?title=Thomas_J._Walsh&action=edit&redlink=1 "Thomas J. Walsh (page does not exist)"), [Sergiu Goschin](index.php?title=Sergiu_Goschin&action=edit&redlink=1 "Sergiu Goschin (page does not exist)"), [Michael L. Littman](Michael_L._Littman "Michael L. Littman") (**2010**). *Integrating sample-based planning and model-based reinforcement learning.* [AAAI-2010](Conferences#AAAI-2010 "Conferences"), [pdf](https://pdfs.semanticscholar.org/bdc9/bfb6ecc6fb5afb684df03d7220c46ebdbf4e.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine") (**2010**). *Score Bounded Monte-Carlo Tree Search*. [CG 2010](CG_2010 "CG 2010"), [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/mcsolver.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Ari Weinstein](http://dblp.uni-trier.de/pers/hd/w/Weinstein:Ari)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Doctoral Dissertations Advised by Michael Littman](http://cs.brown.edu/~mlittman/theses/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Ari Weinstein, [Michael L. Littman](Michael_L._Littman "Michael L. Littman"), [Sergiu Goschin](index.php?title=Sergiu_Goschin&action=edit&redlink=1 "Sergiu Goschin (page does not exist)") (**2013**). *[Rollout-based Game-tree Search Outprunes Traditional Alpha-beta](http://proceedings.mlr.press/v24/weinstein12a.html)*. [PMLR](http://proceedings.mlr.press/), Vol. 24
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Thomas J. Walsh](index.php?title=Thomas_J._Walsh&action=edit&redlink=1 "Thomas J. Walsh (page does not exist)"), [Sergiu Goschin](index.php?title=Sergiu_Goschin&action=edit&redlink=1 "Sergiu Goschin (page does not exist)"), [Michael L. Littman](Michael_L._Littman "Michael L. Littman") (**2010**). *Integrating sample-based planning and model-based reinforcement learning.* [AAAI-2010](Conferences#AAAI-2010 "Conferences"), [pdf](https://pdfs.semanticscholar.org/bdc9/bfb6ecc6fb5afb684df03d7220c46ebdbf4e.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine") (**2010**). *Score Bounded Monte-Carlo Tree Search*. [CG 2010](CG_2010 "CG 2010"), [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/mcsolver.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Ari Weinstein](http://dblp.uni-trier.de/pers/hd/w/Weinstein:Ari)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Doctoral Dissertations Advised by Michael Littman](http://cs.brown.edu/~mlittman/theses/)
 
 **[Up one Level](People "People")**
 

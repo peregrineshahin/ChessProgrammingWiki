@@ -55,20 +55,20 @@ an American computer scientist, [Correspondence Chess](https://en.wikipedia.org/
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ryan Benitez - Informations (Chess statistics)](http://www.ficgs.com/player_132.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Some shuffle chess results for RTG](https://www.stmintz.com/ccc/index.php?id=420770) by Ryan B., [CCC](CCC "CCC"), April 13, 2005
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: RTG vs Shredder 9 shuffle chess 40/40 tc](https://www.stmintz.com/ccc/index.php?id=420983) by Ryan B., [CCC](CCC "CCC"), April 15, 2005
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fruit - Author/History](http://www.fruitchess.com/about.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: When will come a new Toga Engine?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=260688&t=27385) by Ryan Benitez, [CCC](CCC "CCC"), April 10, 2009
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Congratulations to Anthony !](http://www.talkchess.com/forum/viewtopic.php?t=16738&start=13) by Ryan Benitez, [CCC](CCC "CCC"), September 27, 2007
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: How many "official" Toga projects there is now](http://www.talkchess.com/forum/viewtopic.php?t=19164&start=1) by Ryan Benitez, [CCC](CCC "CCC"), January 24, 2008
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Re: Has Fruit finaly surpassed Rybka!?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=179471&t=20106) by Ryan Benitez, [CCC](CCC "CCC"), March 11, 2008
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: Fruit vs. Toga poll](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=256307&t=26965) by Ryan Benitez, [CCC](CCC "CCC"), March 19, 2009
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Senpai 1.0 (new engine)](http://www.talkchess.com/forum/viewtopic.php?t=51637) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), March 17, 2014
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Fruit 1.0 anniversary](http://www.talkchess.com/forum/viewtopic.php?t=51638) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), March 17, 2014
-12. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Fruit Reloaded - Computer Chess Programming](http://www.chessprogramming.net/fruit-reloaded/) hosted by [Steve Maughan](Steve_Maughan "Steve Maughan")
-13. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Akusari/Fruit-reloaded-public · GitHub](https://github.com/Akusari/Fruit-reloaded-public)
-14. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Programmer Corner - How Rebel Plays Chess - Reductions](http://www.top-5000.nl/authors/rebel/chess840.htm#REDUCTIONS) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [pdf reprint](http://members.home.nl/matador/Inside%20Rebel.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ryan Benitez - Informations (Chess statistics)](http://www.ficgs.com/player_132.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Some shuffle chess results for RTG](https://www.stmintz.com/ccc/index.php?id=420770) by Ryan B., [CCC](CCC "CCC"), April 13, 2005
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: RTG vs Shredder 9 shuffle chess 40/40 tc](https://www.stmintz.com/ccc/index.php?id=420983) by Ryan B., [CCC](CCC "CCC"), April 15, 2005
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fruit - Author/History](http://www.fruitchess.com/about.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: When will come a new Toga Engine?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=260688&t=27385) by Ryan Benitez, [CCC](CCC "CCC"), April 10, 2009
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Congratulations to Anthony !](http://www.talkchess.com/forum/viewtopic.php?t=16738&start=13) by Ryan Benitez, [CCC](CCC "CCC"), September 27, 2007
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: How many "official" Toga projects there is now](http://www.talkchess.com/forum/viewtopic.php?t=19164&start=1) by Ryan Benitez, [CCC](CCC "CCC"), January 24, 2008
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Has Fruit finaly surpassed Rybka!?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=179471&t=20106) by Ryan Benitez, [CCC](CCC "CCC"), March 11, 2008
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: Fruit vs. Toga poll](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=256307&t=26965) by Ryan Benitez, [CCC](CCC "CCC"), March 19, 2009
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Senpai 1.0 (new engine)](http://www.talkchess.com/forum/viewtopic.php?t=51637) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), March 17, 2014
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Fruit 1.0 anniversary](http://www.talkchess.com/forum/viewtopic.php?t=51638) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), March 17, 2014
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Fruit Reloaded - Computer Chess Programming](http://www.chessprogramming.net/fruit-reloaded/) hosted by [Steve Maughan](Steve_Maughan "Steve Maughan")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Akusari/Fruit-reloaded-public · GitHub](https://github.com/Akusari/Fruit-reloaded-public)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Programmer Corner - How Rebel Plays Chess - Reductions](http://www.top-5000.nl/authors/rebel/chess840.htm#REDUCTIONS) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [pdf reprint](http://members.home.nl/matador/Inside%20Rebel.pdf)
 
 **[Up one level](People "People")**
 

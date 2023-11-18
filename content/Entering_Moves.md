@@ -93,16 +93,16 @@ While [parsing](https://en.wikipedia.org/wiki/Parsing) move notations, especiall
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [IBM programmer Alex Bernstein](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f6482e6) 1958 Courtesy of [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") Archives from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> see [CPW-Engine_algebraic](CPW-Engine_algebraic "CPW-Engine algebraic")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aart's Android Page](http://www.aartbik.com/MISC/android.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Eingabehilfe "Heumas" bei ChessBase 7.0](http://www.scleinzell.schachvereine.de/p_wm_tipps/tipps0006.shtml#2) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German), [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Support - ChessBase: August 16th, 1998](http://www.chessbase.com/support/support.asp?pid=8)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Elektor](https://en.wikipedia.org/wiki/Elektor) Chess Computer from [Computer Schach](http://www.andreadrian.de/schach/) by [Andre Adrian](Andre_Adrian "Andre Adrian") (German)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [HGM's Chess Pages](http://home.hccnet.nl/h.g.muller/chess.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") (**1990**). *A Matchbox Chess Computer*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 13, No. 4
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Chua Huiyan](http://de.scientificcommons.org/huiyan_chua), Le Vinh, [Wong Lai Kuan](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/k/Kuan:Wong_Lai.html) (**2007**). *Chess Vision*. [School of Computing](https://en.wikipedia.org/wiki/NUS_School_of_Computing), [National University of Singapore](https://en.wikipedia.org/wiki/National_University_of_Singapore), [slides as pdf](http://www.comp.nus.edu.sg/~cs4243/showcase/chess_vision/Chess-Vision-Presentation.pdf)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Standard: Portable Game Notation Specification and Implementation Guide](http://www.thechessdrum.net/PGN_Reference.txt) by [Steven Edwards](Steven_Edwards "Steven Edwards") - 8.2.3: Movetext SAN (Standard Algebraic Notation)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [IBM programmer Alex Bernstein](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f6482e6) 1958 Courtesy of [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") Archives from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> see [CPW-Engine_algebraic](CPW-Engine_algebraic "CPW-Engine algebraic")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aart's Android Page](http://www.aartbik.com/MISC/android.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Eingabehilfe "Heumas" bei ChessBase 7.0](http://www.scleinzell.schachvereine.de/p_wm_tipps/tipps0006.shtml#2) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German), [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Support - ChessBase: August 16th, 1998](http://www.chessbase.com/support/support.asp?pid=8)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Elektor](https://en.wikipedia.org/wiki/Elektor) Chess Computer from [Computer Schach](http://www.andreadrian.de/schach/) by [Andre Adrian](Andre_Adrian "Andre Adrian") (German)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [HGM's Chess Pages](http://home.hccnet.nl/h.g.muller/chess.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") (**1990**). *A Matchbox Chess Computer*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 13, No. 4
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chua Huiyan](http://de.scientificcommons.org/huiyan_chua), Le Vinh, [Wong Lai Kuan](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/k/Kuan:Wong_Lai.html) (**2007**). *Chess Vision*. [School of Computing](https://en.wikipedia.org/wiki/NUS_School_of_Computing), [National University of Singapore](https://en.wikipedia.org/wiki/National_University_of_Singapore), [slides as pdf](http://www.comp.nus.edu.sg/~cs4243/showcase/chess_vision/Chess-Vision-Presentation.pdf)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Standard: Portable Game Notation Specification and Implementation Guide](http://www.thechessdrum.net/PGN_Reference.txt) by [Steven Edwards](Steven_Edwards "Steven Edwards") - 8.2.3: Movetext SAN (Standard Algebraic Notation)
 
 **[Up one Level](User_Interface "User Interface")**
 

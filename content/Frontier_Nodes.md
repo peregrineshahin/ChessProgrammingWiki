@@ -16,8 +16,8 @@ title: Frontier Nodes
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1998**). *[Extended futility pruning](http://people.csail.mit.edu/heinz/dt/node18.html)*. [ICCA Journal, Vol. 21, No. 2](ICGA_Journal#21_2 "ICGA Journal"), [ps](http://people.csail.mit.edu/heinz/ps/ext_fut.ps.gz)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: simple node definitions question](https://www.stmintz.com/ccc/index.php?id=387518) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 13, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1998**). *[Extended futility pruning](http://people.csail.mit.edu/heinz/dt/node18.html)*. [ICCA Journal, Vol. 21, No. 2](ICGA_Journal#21_2 "ICGA Journal"), [ps](http://people.csail.mit.edu/heinz/ps/ext_fut.ps.gz)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: simple node definitions question](https://www.stmintz.com/ccc/index.php?id=387518) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 13, 2004
 
 **[Up one Level](Node "Node")**
 

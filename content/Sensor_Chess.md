@@ -31,7 +31,7 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [SciSys - Strong Play (Sensor Chess module)](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1981%20%5BE-4301%5D%20SciSys%20-%20Strong%20Play%20%28Sensor%20Chess%20module%29.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [SciSys - Strong Play (Sensor Chess module)](http://www.schaakcomputers.nl/hein_veldhuis/database/files/10-1981%20%5BE-4301%5D%20SciSys%20-%20Strong%20Play%20%28Sensor%20Chess%20module%29.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
 
 **[Up one level](Engines "Engines")**
 

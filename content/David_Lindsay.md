@@ -35,12 +35,12 @@ Boris Diplomat character's <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Applied Concepts - Boris Diplomat](http://www.schaakcomputers.nl/hein_veldhuis/database/files/04-1979%20%5BC-7926%5D%20Applied%20Concepts%20-%20Boris%20Diplomat%20%28I%29%20%28bleu%20housing%29.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chafitz Boris Diplomat](http://www.schach-computer.info/wiki/index.php/Chafitz_Boris_Diplomat) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chafitz Boris Master](http://www.schach-computer.info/wiki/index.php/Chafitz_Boris_Master) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Collectors Corner. Chafitz Chess Computers..The Early Years](http://www.hiarcs.net/forums/viewtopic.php?t=1122) by [Steve B](Steve_Blincoe "Steve Blincoe"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), March 30, 2008
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Professional Profiles for Innovators of D255247, Lindsay, David including employment histories, technology specializations, innovator rankings/ratings, residence addresses, co-workers, Chess piece font](http://www.patentbuddy.com/Patent/Profile/7650390/4804112) from [PatentBuddy](http://www.patentbuddy.com/home.jsf)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Boris Diplomat character's](http://www.borischesscomputer.com/Carateres%20speciaux%20Diplomat.jpg) from [Boris is King](http://www.borischesscomputer.com/homepage.htm) by Daniel Collin
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Applied Concepts - Boris Diplomat](http://www.schaakcomputers.nl/hein_veldhuis/database/files/04-1979%20%5BC-7926%5D%20Applied%20Concepts%20-%20Boris%20Diplomat%20%28I%29%20%28bleu%20housing%29.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chafitz Boris Diplomat](http://www.schach-computer.info/wiki/index.php/Chafitz_Boris_Diplomat) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chafitz Boris Master](http://www.schach-computer.info/wiki/index.php/Chafitz_Boris_Master) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Collectors Corner. Chafitz Chess Computers..The Early Years](http://www.hiarcs.net/forums/viewtopic.php?t=1122) by [Steve B](Steve_Blincoe "Steve Blincoe"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), March 30, 2008
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Professional Profiles for Innovators of D255247, Lindsay, David including employment histories, technology specializations, innovator rankings/ratings, residence addresses, co-workers, Chess piece font](http://www.patentbuddy.com/Patent/Profile/7650390/4804112) from [PatentBuddy](http://www.patentbuddy.com/home.jsf)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Boris Diplomat character's](http://www.borischesscomputer.com/Carateres%20speciaux%20Diplomat.jpg) from [Boris is King](http://www.borischesscomputer.com/homepage.htm) by Daniel Collin
 
 **[Up one level](People "People")**
 

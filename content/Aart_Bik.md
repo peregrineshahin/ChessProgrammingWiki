@@ -93,17 +93,17 @@ Aart J.C. Bik holds a PhD in computer science and is a Principal Engineer at Int
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Capture from the [Chess for Android - Video](Chess_for_Android#Video "Chess for Android")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Aart Bik (**1996**). *[Compiler Support for Sparse Matrix Computations](http://www.aartbik.com/MT1/sparse.html)*. Ph.D. thesis, [Leiden University](Leiden_University "Leiden University"), advisor [Harry A. G. Wijshoff](Mathematician#Wijshoff "Mathematician")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aart's Computer Chess Page](http://www.aartbik.com/MISC/chess.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [UCI and XBoard Protocols for Android](http://www.aartbik.com/MISC/uchess.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chess for Glass](http://www.talkchess.com/forum/viewtopic.php?t=53225) by Aart Bik, [CCC](CCC "CCC"), August 08, 2014
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Aart Bik's Home Page](http://www.aartbik.com/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Intel Compilers: Vectorization for Multimedia Extensions](http://www.aartbik.com/SSE/index.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Aart Bik (**2004**). *[The Software Vectorization Handbook](http://www.intel.com/intelpress/sum_vmmx.htm)*. Applying Multimedia Extensions for Maximum Performance. ISBN 0-9743649-2-4, [Intel Press](http://www.intel.com/intelpress/)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Richard Gerber](http://www.intel.com/intelpress/sum_soc.htm), Aart Bik, [Kevin B. Smith](http://kevinsmi.blogspot.com/) and [Xinmin Tian](http://www.intel.com/technology/itj/2007/v11i4/1-inside/12-authors.htm) (**2006**). *[The Software Optimization Cookbook, Second Edition](http://www.intel.com/intelpress/sum_swcb2.htm)*. [Intel Press](http://www.intel.com/intelpress/)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Publications of Aart Bik](http://www.aartbik.com/pub.html)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Papers published by A. J. C. Bik from BibNetWiki](http://bibnetwiki.org/wiki/Category:A._J._C._Bik_Paper)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Capture from the [Chess for Android - Video](Chess_for_Android#Video "Chess for Android")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Aart Bik (**1996**). *[Compiler Support for Sparse Matrix Computations](http://www.aartbik.com/MT1/sparse.html)*. Ph.D. thesis, [Leiden University](Leiden_University "Leiden University"), advisor [Harry A. G. Wijshoff](Mathematician#Wijshoff "Mathematician")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aart's Computer Chess Page](http://www.aartbik.com/MISC/chess.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [UCI and XBoard Protocols for Android](http://www.aartbik.com/MISC/uchess.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess for Glass](http://www.talkchess.com/forum/viewtopic.php?t=53225) by Aart Bik, [CCC](CCC "CCC"), August 08, 2014
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Aart Bik's Home Page](http://www.aartbik.com/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Intel Compilers: Vectorization for Multimedia Extensions](http://www.aartbik.com/SSE/index.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> Aart Bik (**2004**). *[The Software Vectorization Handbook](http://www.intel.com/intelpress/sum_vmmx.htm)*. Applying Multimedia Extensions for Maximum Performance. ISBN 0-9743649-2-4, [Intel Press](http://www.intel.com/intelpress/)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Richard Gerber](http://www.intel.com/intelpress/sum_soc.htm), Aart Bik, [Kevin B. Smith](http://kevinsmi.blogspot.com/) and [Xinmin Tian](http://www.intel.com/technology/itj/2007/v11i4/1-inside/12-authors.htm) (**2006**). *[The Software Optimization Cookbook, Second Edition](http://www.intel.com/intelpress/sum_swcb2.htm)*. [Intel Press](http://www.intel.com/intelpress/)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Publications of Aart Bik](http://www.aartbik.com/pub.html)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Papers published by A. J. C. Bik from BibNetWiki](http://bibnetwiki.org/wiki/Category:A._J._C._Bik_Paper)
 
 **[Up one level](People "People")**
 

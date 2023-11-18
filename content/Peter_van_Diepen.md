@@ -72,12 +72,12 @@ Along with [Barend Swets](Barend_Swets "Barend Swets") and Peter van Diepen, I w
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Peter van Diepen | LinkedIn](https://www.linkedin.com/in/pvdiepen)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dutch Computer Chess Championships - Complete History of Rankings and Games](http://old.csvn.nl/dcc_hist.html) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). Peter van Diepen and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"): *Schaken voor Computers*. (Review), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Max Euwe Centrum - Nieuwsbrief nummer 74](http://www.maxeuwe.nl/nieuwsbrief/nummer74.pdf) (pdf) (Dutch)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Peter van Diepen | LinkedIn](https://www.linkedin.com/in/pvdiepen)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dutch Computer Chess Championships - Complete History of Rankings and Games](http://old.csvn.nl/dcc_hist.html) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). Peter van Diepen and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"): *Schaken voor Computers*. (Review), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Max Euwe Centrum - Nieuwsbrief nummer 74](http://www.maxeuwe.nl/nieuwsbrief/nummer74.pdf) (pdf) (Dutch)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

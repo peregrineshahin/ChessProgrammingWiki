@@ -125,10 +125,10 @@ bool presearchFilter( new_depth, depth, tt_depth, tt_iteration, presearch ) {
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Photo Gallery: Friends and Peers](http://webdocs.cs.ualberta.ca/~darse/Photos/Friends/) by [Darse Billings](Darse_Billings "Darse Billings")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Markian Hlynka, [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**2004**). *Pre-Searching*. [ICGA Journal, Vol. 27, No. 4](ICGA_Journal#27_4 "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CO 10 and ACG 11](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/e1.htm), Pictures 09/04/2005
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Markian Hlynka](https://dblp.org/pers/h/Hlynka:Markian.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Photo Gallery: Friends and Peers](http://webdocs.cs.ualberta.ca/~darse/Photos/Friends/) by [Darse Billings](Darse_Billings "Darse Billings")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Markian Hlynka, [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**2004**). *Pre-Searching*. [ICGA Journal, Vol. 27, No. 4](ICGA_Journal#27_4 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CO 10 and ACG 11](http://www.iis.sinica.edu.tw/Conference/ICGA2005/icga/e1.htm), Pictures 09/04/2005
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Markian Hlynka](https://dblp.org/pers/h/Hlynka:Markian.html)
 
 **[Up one level](People "People")**
 

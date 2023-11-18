@@ -80,11 +80,11 @@ title: Laveen KanalUncertainty AI 1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Laveen Kanal](https://www.cs.umd.edu/users/kanal/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Laveen Kanal | LinkedIn](https://www.linkedin.com/in/kanal)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Laveen Kanal](http://www.cs.umd.edu/~kanal/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Laveen N. Kanal](https://dblp.uni-trier.de/pers/hd/k/Kanal:Laveen_N=.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Pulse from Wikipedia](https://en.wikipedia.org/wiki/Pulse)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Laveen Kanal](https://www.cs.umd.edu/users/kanal/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Laveen Kanal | LinkedIn](https://www.linkedin.com/in/kanal)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Laveen Kanal](http://www.cs.umd.edu/~kanal/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Laveen N. Kanal](https://dblp.uni-trier.de/pers/hd/k/Kanal:Laveen_N=.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Pulse from Wikipedia](https://en.wikipedia.org/wiki/Pulse)
 
 **[Up one level](People "People")**
 

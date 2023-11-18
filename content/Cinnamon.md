@@ -101,9 +101,9 @@ In Cinnamon **2.3** the occupancy index may be computed by the [PEXT](BMI2#PEXT 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Cinnamon: sticks ([ceylon cinnamon](https://en.wikipedia.org/wiki/Cinnamomum_verum) from [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka)), powder, and flowers. Created from 31 images stacked with [CombineZP](https://en.wikipedia.org/wiki/CombineZ), by [Simon A. Eugster](https://commons.wikimedia.org/wiki/User:LivingShadow), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Cinnamomum from Wikipedia](https://en.wikipedia.org/wiki/Cinnamomum)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cinnamon](http://www.g-sei.org/cinnamon/) « [G 6](G_6 "G 6")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - gekomad/Cinnamon: C++ UCI chess engine](https://github.com/gekomad/Cinnamon)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Cinnamon: sticks ([ceylon cinnamon](https://en.wikipedia.org/wiki/Cinnamomum_verum) from [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka)), powder, and flowers. Created from 31 images stacked with [CombineZP](https://en.wikipedia.org/wiki/CombineZ), by [Simon A. Eugster](https://commons.wikimedia.org/wiki/User:LivingShadow), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Cinnamomum from Wikipedia](https://en.wikipedia.org/wiki/Cinnamomum)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cinnamon](http://www.g-sei.org/cinnamon/) « [G 6](G_6 "G 6")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - gekomad/Cinnamon: C++ UCI chess engine](https://github.com/gekomad/Cinnamon)
 
 **[Up one Level](Engines "Engines")**
 

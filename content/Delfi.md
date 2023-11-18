@@ -170,13 +170,13 @@ b1=Q+ 72.Kh2 Qxg6 73.Qe8 Qf6 74.Qg8+ Rxg8 75.fxg8=Q+ Kxg8 76.d8=Q+ Qxd8 77.Rxd8+
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Delfi Winboard - UCI Engine](http://www.msbsoftware.it/delfi/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Delfi Winboard - UCI Engine](http://www.msbsoftware.it/delfi/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Delfi - Winboard chess engine - source](http://www.msbsoftware.it/delfi/source.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2° CIPS - le foto](http://www.gsei.org/ita/tornei/cips2foto.html) (dead link)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [WCCC 2006](WCCC_2006 "WCCC 2006") Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Turin 2006 - Chess - Round 4 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=4&id=6)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Turin 2006 - Chess - Round 6 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=6&id=6)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Delfi Winboard - UCI Engine](http://www.msbsoftware.it/delfi/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Delfi Winboard - UCI Engine](http://www.msbsoftware.it/delfi/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Delfi - Winboard chess engine - source](http://www.msbsoftware.it/delfi/source.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2° CIPS - le foto](http://www.gsei.org/ita/tornei/cips2foto.html) (dead link)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [WCCC 2006](WCCC_2006 "WCCC 2006") Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Turin 2006 - Chess - Round 4 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=4&id=6)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Turin 2006 - Chess - Round 6 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=6&id=6)
 
 **[Up one Level](Engines "Engines")**
 

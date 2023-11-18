@@ -96,11 +96,11 @@ The name Gavon is the text reverse of [Novag](Novag "Novag"), in honor to the fa
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tontec's](http://www.itontec.com/) 320x480 [TFT display](https://en.wikipedia.org/wiki/Thin-film-transistor_liquid-crystal_display) attached to [Raspberri Pi 2](Raspberry_Pi "Raspberry Pi") and [Mephisto Modular](Mephisto_Module_Systems "Mephisto Module Systems")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Adafruit RGB Positive 16x2 LCD+Keypad Kit for Raspberry Pi](https://www.adafruit.com/products/1109)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DGT USB e-Board](http://www.dgtprojects.com/site/index.php/products/electronic-boards/usb)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Magnetic USB Chessboard (SolusChess) - Berger's Projects - DIY](https://sites.google.com/site/bergersprojects/reedcb)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [SolusChess connected to Gavon by Josu Bergara](https://sites.google.com/site/bergersprojects/reedcb/gavon)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tontec's](http://www.itontec.com/) 320x480 [TFT display](https://en.wikipedia.org/wiki/Thin-film-transistor_liquid-crystal_display) attached to [Raspberri Pi 2](Raspberry_Pi "Raspberry Pi") and [Mephisto Modular](Mephisto_Module_Systems "Mephisto Module Systems")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Adafruit RGB Positive 16x2 LCD+Keypad Kit for Raspberry Pi](https://www.adafruit.com/products/1109)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DGT USB e-Board](http://www.dgtprojects.com/site/index.php/products/electronic-boards/usb)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Magnetic USB Chessboard (SolusChess) - Berger's Projects - DIY](https://sites.google.com/site/bergersprojects/reedcb)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [SolusChess connected to Gavon by Josu Bergara](https://sites.google.com/site/bergersprojects/reedcb/gavon)
 
 **[Up one level](Dedicated_Chess_Computers "Dedicated Chess Computers")**
 

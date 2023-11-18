@@ -56,9 +56,9 @@ The quality of chess programs is based on [tree searching](Search "Search") ; t
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gerard Zieliński - Monoskop](http://monoskop.org/Gerard_Zieli%C5%84ski)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  Gerard Zieliński (**1976**). *[Arrays for Programming Chess](https://www.emerald.com/insight/content/doi/10.1108/eb005412/full/html)*. [Kybernetes](https://www.emerald.com/insight/publication/issn/0368-492X), Vol. 5, No. 2
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Gerard Zieliński (**1976**). *[Simple Evaluation Function](https://www.emerald.com/insight/content/doi/10.1108/eb005425/full/html)*. [Kybernetes](https://www.emerald.com/insight/publication/issn/0368-492X), Vol. 5, No. 3
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gerard Zieliński - Monoskop](http://monoskop.org/Gerard_Zieli%C5%84ski)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a>  Gerard Zieliński (**1976**). *[Arrays for Programming Chess](https://www.emerald.com/insight/content/doi/10.1108/eb005412/full/html)*. [Kybernetes](https://www.emerald.com/insight/publication/issn/0368-492X), Vol. 5, No. 2
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Gerard Zieliński (**1976**). *[Simple Evaluation Function](https://www.emerald.com/insight/content/doi/10.1108/eb005425/full/html)*. [Kybernetes](https://www.emerald.com/insight/publication/issn/0368-492X), Vol. 5, No. 3
 
 **[Up one Level](People "People")**
 

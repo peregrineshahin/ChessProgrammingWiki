@@ -32,7 +32,7 @@ In a wider sense, [tactical](Tactics "Tactics") moves are also [quiet](Quiet_Mov
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Theory, Glossary P](http://www.chess-theory.com/enva04p_glossary_chess_theory.php) © [Chess-Theory.com](http://www.chess-theory.com/) 2004-2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Theory, Glossary P](http://www.chess-theory.com/enva04p_glossary_chess_theory.php) © [Chess-Theory.com](http://www.chess-theory.com/) 2004-2009
 
 **[Up one Level](Moves "Moves")**
 

@@ -149,15 +149,15 @@ In a materialistic world, in the materialistic world of computer chess, Chess Sy
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess System Tal 2 (PC) bei spieletipps](http://www.spieletipps.de/pc/chess-system-tal-2/) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AI Factory Chess Tal](http://www.aifactory.co.uk/AIF_Games_Chess_Tal.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [AI Factory World Championships and Competitions - Chess](http://www.aifactory.co.uk/AIF_Competitions.htm#chess)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: For those interested in: A) Chess Tal B) New engines](https://www.stmintz.com/ccc/index.php?id=429044) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), May 30, 2005
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [AEGON Tournaments Computer Results Summary Latest 3 Tournaments](http://www.csvn.nl/index.php?option=com_content&task=view&id=124&Itemid=50), [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Amazon.com: Attack with Mikhail Tal (9781857440430): Mikhail Tal, Iakov Damsky, Ken Neat](http://www.amazon.com/Attack-Mikhail-Tal/dp/1857440439)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Paderborn 1995 - Chess - Round 4 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=56&round=4&id=4)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Chess System Tal's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=31)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess System Tal 2 (PC) bei spieletipps](http://www.spieletipps.de/pc/chess-system-tal-2/) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AI Factory Chess Tal](http://www.aifactory.co.uk/AIF_Games_Chess_Tal.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [AI Factory World Championships and Competitions - Chess](http://www.aifactory.co.uk/AIF_Competitions.htm#chess)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: For those interested in: A) Chess Tal B) New engines](https://www.stmintz.com/ccc/index.php?id=429044) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), May 30, 2005
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [AEGON Tournaments Computer Results Summary Latest 3 Tournaments](http://www.csvn.nl/index.php?option=com_content&task=view&id=124&Itemid=50), [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Aegon 1996-97](http://www.thorstenczub.de/aegon.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Amazon.com: Attack with Mikhail Tal (9781857440430): Mikhail Tal, Iakov Damsky, Ken Neat](http://www.amazon.com/Attack-Mikhail-Tal/dp/1857440439)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Paderborn 1995 - Chess - Round 4 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=56&round=4&id=4)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chess System Tal's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=31)
 
 **[Up one Level](Engines "Engines")**
 

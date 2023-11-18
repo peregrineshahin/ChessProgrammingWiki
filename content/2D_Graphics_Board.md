@@ -267,17 +267,17 @@ An alternative technique for [drawing pieces](Pieces#Unicode "Pieces") is the us
 
 ## [X11.app (XQuartz) from Wikipedia](https://en.wikipedia.org/wiki/X11.app) » [OS X](Mac_OS "Mac OS") References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [I resign](http://ljkrakauer.com/LJK/60s/resign.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess stories](http://ljkrakauer.com/LJK/60s/chess1.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> see also [63-chess.mp4](http://projects.csail.mit.edu/video/history/aifilms/63-chess.mp4) hosted by [MIT CSAIL](https://www.csail.mit.edu/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [XBoard from Wikipedia](https://en.wikipedia.org/wiki/XBoard)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Studie: Schachspielen mit ein 286er 12 MHz Laptop - Schachcomputer.info Community](http://www.schachcomputer.info/forum/showthread.php?t=3531) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), May 22, 2010 (German)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CDC Class - Device Context](http://msdn.microsoft.com/de-de/library/fxhhde73%28v=VS.100%29.aspx), [Microsoft Foundation Class Library](https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library), [MSDN](https://en.wikipedia.org/wiki/Microsoft_Developer_Network)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Code by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), written in about 2000
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [File:Chess bdl40.png - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Chess_bdl40.png)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Unicode values for chessmen](http://www.talkchess.com/forum/viewtopic.php?t=38318) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 07, 2011
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Alpha compositing from Wikipedia](https://en.wikipedia.org/wiki/Alpha_compositing)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [MinGW from Wikipedia](https://en.wikipedia.org/wiki/MinGW)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [I resign](http://ljkrakauer.com/LJK/60s/resign.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess stories](http://ljkrakauer.com/LJK/60s/chess1.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> see also [63-chess.mp4](http://projects.csail.mit.edu/video/history/aifilms/63-chess.mp4) hosted by [MIT CSAIL](https://www.csail.mit.edu/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [XBoard from Wikipedia](https://en.wikipedia.org/wiki/XBoard)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Studie: Schachspielen mit ein 286er 12 MHz Laptop - Schachcomputer.info Community](http://www.schachcomputer.info/forum/showthread.php?t=3531) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), May 22, 2010 (German)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CDC Class - Device Context](http://msdn.microsoft.com/de-de/library/fxhhde73%28v=VS.100%29.aspx), [Microsoft Foundation Class Library](https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library), [MSDN](https://en.wikipedia.org/wiki/Microsoft_Developer_Network)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> Code by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), written in about 2000
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [File:Chess bdl40.png - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Chess_bdl40.png)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Unicode values for chessmen](http://www.talkchess.com/forum/viewtopic.php?t=38318) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 07, 2011
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Alpha compositing from Wikipedia](https://en.wikipedia.org/wiki/Alpha_compositing)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [MinGW from Wikipedia](https://en.wikipedia.org/wiki/MinGW)
 
 **[Up one Level](Graphics_Programming "Graphics Programming")**
 

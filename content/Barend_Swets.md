@@ -64,15 +64,15 @@ Along with Barend Swets and [Peter van Diepen](Peter_van_Diepen "Peter van Diepe
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from Barend Swets (**1977**). *Computers in de opmars*. Schakend Nederland 09-1977 (Dutch), [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1977,%20Schakend%20Nederland,%20Ir.%20Barend%20Swets,%20Computers%20in%20de%20opmars.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eerste Nederlands Kampioenschappen Computerschaken - BS'66'76, het eerste schaakprogramma](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dutch Computer Chess Championships - Complete History of Rankings and Games](http://old.csvn.nl/dcc_hist.html) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Does ICCA publish dissenting views?](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/3a074c70a369937f#), post #18 by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), January 22, 1997, [rgcc](Computer_Chess_Forums "Computer Chess Forums")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *THE BELL CAPTAIN*, [ICGA Journal](ICGA_Journal "ICGA Journal"), [Vol. 24, No. 2](http://ticc.uvt.nl/icga/journal/contents/content24-2.htm)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2007**). Editorial of [ICGA Journal Vol. 30, No. 1 - March 2007](http://ticc.uvt.nl/icga/journal/contents/content30-1.htm)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Max Euwe Centrum - Nieuwsbrief nummer 74](http://www.maxeuwe.nl/nieuwsbrief/nummer74.pdf) (pdf) (Dutch)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Swets, B. (WorldCat Identities)](http://www.worldcat.org/identities/np-swets,%20b/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from Barend Swets (**1977**). *Computers in de opmars*. Schakend Nederland 09-1977 (Dutch), [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1977,%20Schakend%20Nederland,%20Ir.%20Barend%20Swets,%20Computers%20in%20de%20opmars.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eerste Nederlands Kampioenschappen Computerschaken - BS'66'76, het eerste schaakprogramma](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dutch Computer Chess Championships - Complete History of Rankings and Games](http://old.csvn.nl/dcc_hist.html) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Does ICCA publish dissenting views?](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/3a074c70a369937f#), post #18 by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), January 22, 1997, [rgcc](Computer_Chess_Forums "Computer Chess Forums")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *THE BELL CAPTAIN*, [ICGA Journal](ICGA_Journal "ICGA Journal"), [Vol. 24, No. 2](http://ticc.uvt.nl/icga/journal/contents/content24-2.htm)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2007**). Editorial of [ICGA Journal Vol. 30, No. 1 - March 2007](http://ticc.uvt.nl/icga/journal/contents/content30-1.htm)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Max Euwe Centrum - Nieuwsbrief nummer 74](http://www.maxeuwe.nl/nieuwsbrief/nummer74.pdf) (pdf) (Dutch)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Swets, B. (WorldCat Identities)](http://www.worldcat.org/identities/np-swets,%20b/)
 
 **[Up one level](People "People")**
 

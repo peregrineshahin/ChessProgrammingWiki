@@ -40,11 +40,11 @@ Like Chess 4.x, Nuchess was a [brute-force](Brute-Force "Brute-Force") chess pro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Fourth World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6c8af8) (labeled 22nd ACM), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1983_WCCC/1983-%20WCCC.062303061.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_36_C.pdf) from [Danny Kopec](Danny_Kopec "Danny Kopec")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ars Electronica - Die Teilnehmer an der 3. Computerschach-Weltmeisterschaft](http://90.146.8.18/de/archives/festival_archive/festival_catalogs/festival_artikel.asp?iProjectID=9497) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New York 1983 - Chess - Round 3 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=65&round=3&id=1)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Slate](David_Slate "David Slate") (**1984**). *Interior-node Score Bounds in a Brute-force Chess Program.* [ICCA Journal, Vol. 7, No. 4](ICGA_Journal#7_4 "ICGA Journal"), pp. 184-192
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Viktor Korchnoi from Wikipedia](https://en.wikipedia.org/wiki/Viktor_Korchnoi)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Fourth World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6c8af8) (labeled 22nd ACM), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1983_WCCC/1983-%20WCCC.062303061.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_36_C.pdf) from [Danny Kopec](Danny_Kopec "Danny Kopec")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ars Electronica - Die Teilnehmer an der 3. Computerschach-Weltmeisterschaft](http://90.146.8.18/de/archives/festival_archive/festival_catalogs/festival_artikel.asp?iProjectID=9497) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New York 1983 - Chess - Round 3 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=65&round=3&id=1)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Slate](David_Slate "David Slate") (**1984**). *Interior-node Score Bounds in a Brute-force Chess Program.* [ICCA Journal, Vol. 7, No. 4](ICGA_Journal#7_4 "ICGA Journal"), pp. 184-192
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Viktor Korchnoi from Wikipedia](https://en.wikipedia.org/wiki/Viktor_Korchnoi)
 
 **[Up one level](Engines "Engines")**
 

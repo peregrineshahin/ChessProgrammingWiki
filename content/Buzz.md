@@ -84,12 +84,12 @@ Excerpt from [At Land](https://en.wikipedia.org/wiki/At_Land) (1944) directed by
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Buzz](https://en.wikipedia.org/wiki/Buzz_%28mascot%29), a stylized [yellowjacket](https://en.wikipedia.org/wiki/Yellow_jacket) as official mascot of the [Georgia Institute of Technology](Georgia_Institute_of_Technology "Georgia Institute of Technology")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Buzz - A Winboard Chess Engine](http://www.pradu.us/old/Nov27_2008/Buzz/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Speedup with bitboards on 64-bit CPUs](http://www.talkchess.com/forum/viewtopic.php?t=13426&start=5) by [Pradu Kannan](Pradu_Kannan "Pradu Kannan"), [CCC](CCC "CCC"), April 27, 2007
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Slight enhancement to PVS](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6558) by [Pradu Kannan](Pradu_Kannan "Pradu Kannan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 10, 2007
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The 2008 Third Annual ACCA Americas' Computer Chess Chamionships](http://aigames.net/ACCA/ACCAChampionships/ACCA2008Championships/SitePics.html) Site Pics from [UAB](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham") » [ACCA Americas' Computer Chess Championship](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship"), [ACCA 2008](ACCA_2008 "ACCA 2008")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [The 2008 Third Annual ACCA Americas' Computer Chess Championships - Results](http://aigames.net/ACCA/ACCAChampionships/ACCA2008Championships/2008ACCCResults.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Buzz](https://en.wikipedia.org/wiki/Buzz_%28mascot%29), a stylized [yellowjacket](https://en.wikipedia.org/wiki/Yellow_jacket) as official mascot of the [Georgia Institute of Technology](Georgia_Institute_of_Technology "Georgia Institute of Technology")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Buzz - A Winboard Chess Engine](http://www.pradu.us/old/Nov27_2008/Buzz/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Speedup with bitboards on 64-bit CPUs](http://www.talkchess.com/forum/viewtopic.php?t=13426&start=5) by [Pradu Kannan](Pradu_Kannan "Pradu Kannan"), [CCC](CCC "CCC"), April 27, 2007
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Slight enhancement to PVS](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6558) by [Pradu Kannan](Pradu_Kannan "Pradu Kannan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 10, 2007
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The 2008 Third Annual ACCA Americas' Computer Chess Chamionships](http://aigames.net/ACCA/ACCAChampionships/ACCA2008Championships/SitePics.html) Site Pics from [UAB](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham") » [ACCA Americas' Computer Chess Championship](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship"), [ACCA 2008](ACCA_2008 "ACCA 2008")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The 2008 Third Annual ACCA Americas' Computer Chess Championships - Results](http://aigames.net/ACCA/ACCAChampionships/ACCA2008Championships/2008ACCCResults.html)
 
 **[Up one level](Engines "Engines")**
 

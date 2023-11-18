@@ -38,8 +38,8 @@ As an advocate of [Visual Studio](https://en.wikipedia.org/wiki/Microsoft_Visual
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [MadChess – My UCI Chess Engine + My Writings as an Amateur Chess Player](http://www.madchess.net/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MadChess 1.0 Released (C# .NET Engine)](http://www.talkchess.com/forum/viewtopic.php?t=45723) by Erik Madsen, [CCC](CCC "CCC"), October 25, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [MadChess – My UCI Chess Engine + My Writings as an Amateur Chess Player](http://www.madchess.net/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MadChess 1.0 Released (C# .NET Engine)](http://www.talkchess.com/forum/viewtopic.php?t=45723) by Erik Madsen, [CCC](CCC "CCC"), October 25, 2012
 
 **[Up one Level](People "People")**
 

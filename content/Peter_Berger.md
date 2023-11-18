@@ -113,8 +113,8 @@ Nc4 51.Kb4 Ne3 52.Kb5 Nxg2 53.c6 Nxh4 54.c7 Nf5 55.Ka6 Ne7 56.Kb7 Kd6 57.Ne4+ Ke
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) Photos [BELCT 2001](BELCT_2001 "BELCT 2001") by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WCCC 2005](WCCC_2005 "WCCC 2005") Reykjavik and [WCCC 2006](WCCC_2006 "WCCC 2006") Turin, Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [BELCT 2001 Berlin is worth a trip!](http://www.quarkchess.de/belct/) Photos [BELCT 2001](BELCT_2001 "BELCT 2001") by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WCCC 2005](WCCC_2005 "WCCC 2005") Reykjavik and [WCCC 2006](WCCC_2006 "WCCC 2006") Turin, Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
 
 **[Up one level](People "People")**
 

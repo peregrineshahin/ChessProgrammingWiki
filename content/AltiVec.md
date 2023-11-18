@@ -46,8 +46,8 @@ AltiVec instructions are very well suited for [bitboard](Bitboards "Bitboards") 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tom Thompson](https://www.linkedin.com/in/tom-thompson-500bb7b) (**1999**). *[AltiVec Revealed](http://www.mactech.com/articles/mactech/Vol.15/15.07/AltiVecRevealed/index.html)*. [MacTech](http://www.mactech.com/), Vol. 15, No. 7
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AltiVec from Wikipedia](https://en.wikipedia.org/wiki/AltiVec)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tom Thompson](https://www.linkedin.com/in/tom-thompson-500bb7b) (**1999**). *[AltiVec Revealed](http://www.mactech.com/articles/mactech/Vol.15/15.07/AltiVecRevealed/index.html)*. [MacTech](http://www.mactech.com/), Vol. 15, No. 7
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AltiVec from Wikipedia](https://en.wikipedia.org/wiki/AltiVec)
 
 **[Up one Level](PowerPC "PowerPC")**
 

@@ -55,9 +55,9 @@ The next step forward came when [Novag's](Novag "Novag") [Dave Kittinger](David_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Interview with Don Dailey](https://www.schach-welt.de/schach/computerschach/interviews/don-dailey) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), December 18-20, 2009
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rexchess 2.30](http://www.multiweb.cz/max.rubin/rex230.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1990**). *The Rexchess Story*. [Computer Chess Reports Quarterly](Computer_Chess_Reports "Computer Chess Reports"). Vol. 1, No. 1, pp. 8, [Chess Computer UK](http://www.chesscomputeruk.com/html/computer_chess_reports.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Interview with Don Dailey](https://www.schach-welt.de/schach/computerschach/interviews/don-dailey) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), December 18-20, 2009
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rexchess 2.30](http://www.multiweb.cz/max.rubin/rex230.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1990**). *The Rexchess Story*. [Computer Chess Reports Quarterly](Computer_Chess_Reports "Computer Chess Reports"). Vol. 1, No. 1, pp. 8, [Chess Computer UK](http://www.chesscomputeruk.com/html/computer_chess_reports.html) by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one Level](Engines "Engines")**
 

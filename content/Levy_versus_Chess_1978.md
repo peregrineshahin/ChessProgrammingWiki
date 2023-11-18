@@ -198,15 +198,15 @@ Ka3 50.h4 Ra6 51.g5 Ra8 52.h5 Re8+ 53.Kf4 Ra8 54.Ke5 Ra6 55.g6 hxg6 56.hxg6 Ra8
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David Levy ponders next move against Chess 4.7](http://www.computerhistory.org/chess/full_record.php?iid=stl-42fa88358c200), running on a [CDC Cyber 176](CDC_Cyber "CDC Cyber") supercomputer  
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David Levy ponders next move against Chess 4.7](http://www.computerhistory.org/chess/full_record.php?iid=stl-42fa88358c200), running on a [CDC Cyber 176](CDC_Cyber "CDC Cyber") supercomputer  
 in Toronto. Credit Line: Gift of David Levy © 2005, [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ZDF: IM David Levy 1979 gegen Chess 4.8](http://www.schach-computer.info/wiki/index.php/Levy,_David#ZDF:_IM_David_Levy_1979_gegen_Chess_4.8) from [schach-computer wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Das Genie mit dem eisernen Arm](http://www.zeit.de/1979/08/das-genie-mit-dem-eisernen-arm) by [Wolfram Runkel](http://www.zeit.de/autoren/R/Wolfram_Runkel/index.xml), [Die Zeit](https://en.wikipedia.org/wiki/Die_Zeit), Nr. 08, February 08, 1979 (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Schach-Computer: Jahrtausende pro Partie](http://www.spiegel.de/spiegel/print/d-40351462.html) and [Mit dem 9. Zug schien der Schotte verloren](http://www.spiegel.de/spiegel/print/d-40351463.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 7/1979, February 12, 1979 (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Remembering Werner Harenberg (1)](http://en.chessbase.com/post/remembering-werner-harenberg-1) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), March 04, 2014
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Computer chess history – knowledge vs brute force](http://en.chessbase.com/post/computer-chess-history-knowledge-vs-brute-force) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), March 21, 2017
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Capture from the [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") at 4:45
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ZDF: IM David Levy 1979 gegen Chess 4.8](http://www.schach-computer.info/wiki/index.php/Levy,_David#ZDF:_IM_David_Levy_1979_gegen_Chess_4.8) from [schach-computer wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Das Genie mit dem eisernen Arm](http://www.zeit.de/1979/08/das-genie-mit-dem-eisernen-arm) by [Wolfram Runkel](http://www.zeit.de/autoren/R/Wolfram_Runkel/index.xml), [Die Zeit](https://en.wikipedia.org/wiki/Die_Zeit), Nr. 08, February 08, 1979 (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Schach-Computer: Jahrtausende pro Partie](http://www.spiegel.de/spiegel/print/d-40351462.html) and [Mit dem 9. Zug schien der Schotte verloren](http://www.spiegel.de/spiegel/print/d-40351463.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 7/1979, February 12, 1979 (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Remembering Werner Harenberg (1)](http://en.chessbase.com/post/remembering-werner-harenberg-1) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), March 04, 2014
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Computer chess history – knowledge vs brute force](http://en.chessbase.com/post/computer-chess-history-knowledge-vs-brute-force) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), March 21, 2017
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Capture from the [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") at 4:45
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

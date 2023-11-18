@@ -54,9 +54,9 @@ Rcd2 71.Ra3+ Ke4 72.Rf1 Rb2+ 73.Ka1 Rb6 1/2-1/2
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Zappa web update & a few other things](https://www.stmintz.com/ccc/index.php?id=445901) by [Peter Berger](Peter_Berger "Peter Berger"), [CCC](CCC "CCC"), August 28, 2005
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Reykjavík 2005 - Chess - Round 4 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=21&round=4&id=6)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [FUTE-Zappa](https://www.stmintz.com/ccc/index.php?id=442363) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie"), [CCC](CCC "CCC"), August 15, 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Zappa web update & a few other things](https://www.stmintz.com/ccc/index.php?id=445901) by [Peter Berger](Peter_Berger "Peter Berger"), [CCC](CCC "CCC"), August 28, 2005
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Reykjavík 2005 - Chess - Round 4 - Game 6 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=21&round=4&id=6)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [FUTE-Zappa](https://www.stmintz.com/ccc/index.php?id=442363) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie"), [CCC](CCC "CCC"), August 15, 2005
 
 **[Up one level](Engines "Engines")**
 

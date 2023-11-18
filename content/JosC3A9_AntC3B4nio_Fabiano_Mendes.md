@@ -61,13 +61,13 @@ and is mentioned on various sites related to puzzles <a id="cite-note-3" href="#
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tim Krabbé's](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9) [Chess records](http://timkr.home.xs4all.nl/records/recordstxt.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Chess Seesaw](http://www.chesshistory.com/winter/extra/seesaw.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The 70\*70 Square Puzzle](http://home.datacomm.ch/t_wolf/tw/misc/squares.html) by [Thomas Wolf](http://home.datacomm.ch/t_wolf/) » [Backtracking](Backtracking "Backtracking")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") (**1993**). *Three Positions*. [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Maelzel's Chess Player from Wikipedia](https://en.wikipedia.org/wiki/Maelzel%27s_Chess_Player)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Techmate](http://www.forbes.com/asap/1999/0222/071.html) by [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov), February 22, 1999, [Forbes.com](https://en.wikipedia.org/wiki/Forbes)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Strategic Intensity - A Conversation with World Chess Champion Garry Kasparov](http://hbr.org/2005/04/strategic-intensity/ar/1) by [Diane L. Coutu](http://www.linkedin.com/pub/diane-coutu/9/111/67a), [Harvard Business Review](https://en.wikipedia.org/wiki/Harvard_Business_Review), April 2005
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tim Krabbé's](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9) [Chess records](http://timkr.home.xs4all.nl/records/recordstxt.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Chess Seesaw](http://www.chesshistory.com/winter/extra/seesaw.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The 70\*70 Square Puzzle](http://home.datacomm.ch/t_wolf/tw/misc/squares.html) by [Thomas Wolf](http://home.datacomm.ch/t_wolf/) » [Backtracking](Backtracking "Backtracking")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") (**1993**). *Three Positions*. [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Maelzel's Chess Player from Wikipedia](https://en.wikipedia.org/wiki/Maelzel%27s_Chess_Player)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Techmate](http://www.forbes.com/asap/1999/0222/071.html) by [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov), February 22, 1999, [Forbes.com](https://en.wikipedia.org/wiki/Forbes)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Strategic Intensity - A Conversation with World Chess Champion Garry Kasparov](http://hbr.org/2005/04/strategic-intensity/ar/1) by [Diane L. Coutu](http://www.linkedin.com/pub/diane-coutu/9/111/67a), [Harvard Business Review](https://en.wikipedia.org/wiki/Harvard_Business_Review), April 2005
 
 **[Up one level](People "People")**
 

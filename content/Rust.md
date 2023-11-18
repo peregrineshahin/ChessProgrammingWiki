@@ -56,8 +56,8 @@ a [multi-paradigm](https://en.wikipedia.org/wiki/Programming_paradigm#Support_fo
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rust Programming Language](https://www.rust-lang.org/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rust (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rust Programming Language](https://www.rust-lang.org/), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rust (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 **[Up one Level](Languages "Languages")**
 

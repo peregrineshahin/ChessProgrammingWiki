@@ -56,8 +56,8 @@ Belofte **2.0.6**, released in October 2020, was a rewrite from scratch in C++ <
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gulden Belofte](https://www.naupar.com/ships/gulden-belofte/) near [Volendam](https://en.wikipedia.org/wiki/Volendam), [Photo](https://www.flickr.com/photos/archer10/11995459616/) by [Dennis Jarvis](https://www.flickr.com/photos/archer10/), [Halifax](https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia), Canada, September 21, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New engine releases 2020](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=456) by [Yves De Billoëz](Yves_De_Billo%C3%ABz "Yves De Billoëz"), [CCC](CCC "CCC"), October 27, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gulden Belofte](https://www.naupar.com/ships/gulden-belofte/) near [Volendam](https://en.wikipedia.org/wiki/Volendam), [Photo](https://www.flickr.com/photos/archer10/11995459616/) by [Dennis Jarvis](https://www.flickr.com/photos/archer10/), [Halifax](https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia), Canada, September 21, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New engine releases 2020](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=456) by [Yves De Billoëz](Yves_De_Billo%C3%ABz "Yves De Billoëz"), [CCC](CCC "CCC"), October 27, 2020
 
 **[Up one level](Engines "Engines")**
 

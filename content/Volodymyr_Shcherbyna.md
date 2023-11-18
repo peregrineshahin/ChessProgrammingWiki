@@ -20,8 +20,8 @@ He is author of the [UCI](UCI "UCI") compliant [open source chess engine](Catego
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Introducing Igel chess engine](http://www.talkchess.com/forum3/viewtopic.php?t=67890) by Volodymyr Shcherbyna, [CCC](CCC "CCC"), July 03, 2018
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Training on a system with no GPU · Issue #87 · glinscott/nnue-pytorch · GitHub](https://github.com/glinscott/nnue-pytorch/issues/87) by Volodymyr Shcherbyna, April 03, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Introducing Igel chess engine](http://www.talkchess.com/forum3/viewtopic.php?t=67890) by Volodymyr Shcherbyna, [CCC](CCC "CCC"), July 03, 2018
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Training on a system with no GPU · Issue #87 · glinscott/nnue-pytorch · GitHub](https://github.com/glinscott/nnue-pytorch/issues/87) by Volodymyr Shcherbyna, April 03, 2021
 
 **[Up one level](People "People")**
 

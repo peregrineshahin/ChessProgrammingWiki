@@ -37,25 +37,25 @@ Chess computers were designed in Hong Kong, manufactured in China, and then mark
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> "White and Allcock was meant to be a joke name for the partnership, the ‘all cock’ being [Ken Cohen](Ken_Cohen "Ken Cohen"). It became a source of amusement to White and Cohen that their Chinese colleagues never realised". Quote from [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [De firma Krypton en Timoride in vogelvlucht](http://www.schaakcomputers.nl/hein_veldhuis/database/files/Krypton%20information.pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis"), Dutch and German pdf
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cassia - Chess Mate](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1979%20%5BA-3976%5D%20Cassia%20-%20Chess%20Mate.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=122) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 24, 2015
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [CXG Sensor Computachess](http://www.schach-computer.info/wiki/index.php/CXG_Sensor_Computachess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [CXG Electronic Chess Computers](http://www.spacious-mind.com/html/cxg.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [CXG](http://www.schach-computer.info/wiki/index.php/CXG) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Krypton](http://www.spacious-mind.com/html/krypton.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Krypton](http://www.schach-computer.info/wiki/index.php/Krypton) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Schneider](http://www.schach-computer.info/wiki/index.php/Schneider) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Schneider Electronic Chess Computers](http://www.spacious-mind.com/html/schneider.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Tiger Electronic Chess Computers](http://www.spacious-mind.com/html/tiger.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Tiger Voice Master](http://www.xs4all.nl/%7Etluif/chescom/EngTigVM.html) from [Tom's English Homepage](http://www.xs4all.nl/~tluif/EngStart.html) by [Tom Luif](Tom_Luif "Tom Luif")
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [De firma Millennium 2000 GmbH Hegener & Weiner in vogelvlucht](http://www.schaakcomputers.nl/hein_veldhuis/database/files/Millennium%20information.pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis"), Dutch and German pdf
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [Sunplus MCU](http://mcu.sunplusmcu.com/applications/Treadmill.asp)
-1. <a id="cite-ref-18" href="#cite-note-18">[18]</a> [Generalplus homepage](http://www.generalplus.com/)
-1. <a id="cite-ref-19" href="#cite-note-19">[19]</a> List of computers from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) contains various manufacturer
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> "White and Allcock was meant to be a joke name for the partnership, the ‘all cock’ being [Ken Cohen](Ken_Cohen "Ken Cohen"). It became a source of amusement to White and Cohen that their Chinese colleagues never realised". Quote from [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [De firma Krypton en Timoride in vogelvlucht](http://www.schaakcomputers.nl/hein_veldhuis/database/files/Krypton%20information.pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis"), Dutch and German pdf
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cassia - Chess Mate](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1979%20%5BA-3976%5D%20Cassia%20-%20Chess%20Mate.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Ron Nelson](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=122) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 24, 2015
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CXG Sensor Computachess](http://www.schach-computer.info/wiki/index.php/CXG_Sensor_Computachess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [CXG Electronic Chess Computers](http://www.spacious-mind.com/html/cxg.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [CXG](http://www.schach-computer.info/wiki/index.php/CXG) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Krypton](http://www.spacious-mind.com/html/krypton.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Krypton](http://www.schach-computer.info/wiki/index.php/Krypton) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Schneider](http://www.schach-computer.info/wiki/index.php/Schneider) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Schneider Electronic Chess Computers](http://www.spacious-mind.com/html/schneider.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Tiger Electronic Chess Computers](http://www.spacious-mind.com/html/tiger.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Tiger Voice Master](http://www.xs4all.nl/%7Etluif/chescom/EngTigVM.html) from [Tom's English Homepage](http://www.xs4all.nl/~tluif/EngStart.html) by [Tom Luif](Tom_Luif "Tom Luif")
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [De firma Millennium 2000 GmbH Hegener & Weiner in vogelvlucht](http://www.schaakcomputers.nl/hein_veldhuis/database/files/Millennium%20information.pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis"), Dutch and German pdf
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Sunplus MCU](http://mcu.sunplusmcu.com/applications/Treadmill.asp)
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Generalplus homepage](http://www.generalplus.com/)
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> List of computers from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) contains various manufacturer
 
 **[Up one level](People "People")**
 

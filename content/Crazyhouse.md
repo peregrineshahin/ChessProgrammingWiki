@@ -84,16 +84,16 @@ Crazyhouse could be played with [Zillions of Games](Zillions_of_Games "Zillions 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Crazyhouse from Wikipedia](https://en.wikipedia.org/wiki/Crazyhouse)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WinBoard 4.7](http://hgm.nubati.net/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New crazyhouse engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=53808) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 31, 2016
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - ddugovic/Stockfish: Multi-variant fork of popular UCI chess engine](https://github.com/ddugovic/Stockfish)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Home · ddugovic/Stockfish Wiki · GitHub](https://github.com/ddugovic/Stockfish/wiki)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Stockfish is learning | Blog • lichess.org](https://lichess.org/blog/V7BNKCcAACQA3UmP/stockfish-is-learning)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Awesome lichess :-)](http://www.talkchess.com/forum/viewtopic.php?t=61126) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), August 14, 2016
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Multi-Variant Stockfish Testing Framework](http://35.161.250.236:6543/regression)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [1st CCC World Computer Crazyhouse Championships](http://www.talkchess.com/forum/viewtopic.php?t=61306) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), September 02, 2016
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Crazyhouse Chess Variant Association](https://sites.google.com/site/zhassociation/) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Crazyhouse from Wikipedia](https://en.wikipedia.org/wiki/Crazyhouse)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WinBoard 4.7](http://hgm.nubati.net/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New crazyhouse engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=53808) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 31, 2016
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - ddugovic/Stockfish: Multi-variant fork of popular UCI chess engine](https://github.com/ddugovic/Stockfish)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Home · ddugovic/Stockfish Wiki · GitHub](https://github.com/ddugovic/Stockfish/wiki)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Stockfish is learning | Blog • lichess.org](https://lichess.org/blog/V7BNKCcAACQA3UmP/stockfish-is-learning)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Awesome lichess :-)](http://www.talkchess.com/forum/viewtopic.php?t=61126) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), August 14, 2016
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Multi-Variant Stockfish Testing Framework](http://35.161.250.236:6543/regression)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [1st CCC World Computer Crazyhouse Championships](http://www.talkchess.com/forum/viewtopic.php?t=61306) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), September 02, 2016
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Crazyhouse Chess Variant Association](https://sites.google.com/site/zhassociation/) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca")
 
 **[Up one Level](Games "Games")**
 

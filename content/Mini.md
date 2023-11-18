@@ -46,9 +46,9 @@ The WCCC entry was a quick modification in order to get it working on [Unix](Uni
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jean Fouquet](https://en.wikipedia.org/wiki/Jean_Fouquet), self portrait (1450). The earliest [portrait miniature](https://en.wikipedia.org/wiki/Portrait_miniature), and possibly the earliest formal [self-portrait](https://en.wikipedia.org/wiki/Self-portrait), [Portrait miniature from Wikipedia](https://en.wikipedia.org/wiki/Portrait_miniature)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1993**). *PC Software*. Computer Chess Reports, Vol. 3, No. 1, pp. 8
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Image from the no longer available original tournament site <http://wwwcs.uni-paderborn.de/~wccc99/>
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jean Fouquet](https://en.wikipedia.org/wiki/Jean_Fouquet), self portrait (1450). The earliest [portrait miniature](https://en.wikipedia.org/wiki/Portrait_miniature), and possibly the earliest formal [self-portrait](https://en.wikipedia.org/wiki/Self-portrait), [Portrait miniature from Wikipedia](https://en.wikipedia.org/wiki/Portrait_miniature)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1993**). *PC Software*. Computer Chess Reports, Vol. 3, No. 1, pp. 8
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Image from the no longer available original tournament site <http://wwwcs.uni-paderborn.de/~wccc99/>
 
 **[Up one Level](Engines "Engines")**
 

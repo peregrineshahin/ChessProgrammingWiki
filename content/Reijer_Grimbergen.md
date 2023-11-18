@@ -77,12 +77,12 @@ a Dutch computer scientist, Ph.D. in [cognitive science](Cognition "Cognition").
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Homepage of Reijer Grimbergen - My Background](http://www2.teu.ac.jp/gamelab/RESEARCH/background.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Reijer Grimbergen's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=221)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [AI Factory - Founders and Contributing Engineers](http://www.aifactory.co.uk/AIF_Us.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [World Computer Shogi Championship 2006 - AI Factory newsletter article Spring 2006](http://www.aifactory.co.uk/newsletter/2006_01_shogichampionship_2006.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Tsumeshogi from Wikipedia](https://en.wikipedia.org/wiki/Tsumeshogi)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Homepage of Reijer Grimbergen - My Background](http://www2.teu.ac.jp/gamelab/RESEARCH/background.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Reijer Grimbergen's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=221)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [AI Factory - Founders and Contributing Engineers](http://www.aifactory.co.uk/AIF_Us.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [World Computer Shogi Championship 2006 - AI Factory newsletter article Spring 2006](http://www.aifactory.co.uk/newsletter/2006_01_shogichampionship_2006.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Tsumeshogi from Wikipedia](https://en.wikipedia.org/wiki/Tsumeshogi)
 
 **[Up one level](People "People")**
 

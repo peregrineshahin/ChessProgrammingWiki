@@ -79,13 +79,13 @@ namespace Alice
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jessie Willcox Smith's](https://en.wikipedia.org/wiki/Jessie_Willcox_Smith) illustration of Alice surrounded by the characters of Wonderland. (1923), [Alice's Adventures in Wonderland from Wikipedia](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Gestatten: Alice](https://www.stmintz.com/ccc/index.php?id=237379) by [Sven Reichard](Sven_Reichard "Sven Reichard"), [CCC](CCC "CCC"), June 25, 2002
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Index of /chess/engines/Jim Ablett/ALICE](http://kirr.homeunix.org/chess/engines/Jim%20Ablett/ALICE/) by [Jim Ablett](Jim_Ablett "Jim Ablett"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Index of /chess/engines/Jim Ablett/ALICE](http://kirr.homeunix.org/chess/engines/Jim%20Ablett/ALICE/) by [Jim Ablett](Jim_Ablett "Jim Ablett"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov"), Src/include/Bitboard.h
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Lewis Carroll's](https://en.wikipedia.org/wiki/Lewis_Carroll) diagram of the story as a chess game, [Through the Looking-Glass - Chess](https://en.wikipedia.org/wiki/Through_the_Looking-Glass#Chess)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Glen Robert Downey](https://en.wikipedia.org/wiki/Glen_Downey_%28writer%29) (**1998**). *The Truth About Pawn Promotion: The Development of the Chess Motif in Victorian Fiction*. Ph.D. thesis, [University of Victoria](https://en.wikipedia.org/wiki/University_of_Victoria) [pdf](http://www.nlc-bnc.ca/obj/s4/f2/dsk2/tape15/PQDD_0006/NQ34258.pdf) » [Promotions](Promotions "Promotions")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Lewis Carroll's chess problem | ChessVibes](http://www.chessvibes.com/?q=columns/lewis-carrolls-chess-problem), July 14, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jessie Willcox Smith's](https://en.wikipedia.org/wiki/Jessie_Willcox_Smith) illustration of Alice surrounded by the characters of Wonderland. (1923), [Alice's Adventures in Wonderland from Wikipedia](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Gestatten: Alice](https://www.stmintz.com/ccc/index.php?id=237379) by [Sven Reichard](Sven_Reichard "Sven Reichard"), [CCC](CCC "CCC"), June 25, 2002
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Index of /chess/engines/Jim Ablett/ALICE](http://kirr.homeunix.org/chess/engines/Jim%20Ablett/ALICE/) by [Jim Ablett](Jim_Ablett "Jim Ablett"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Index of /chess/engines/Jim Ablett/ALICE](http://kirr.homeunix.org/chess/engines/Jim%20Ablett/ALICE/) by [Jim Ablett](Jim_Ablett "Jim Ablett"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov"), Src/include/Bitboard.h
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Lewis Carroll's](https://en.wikipedia.org/wiki/Lewis_Carroll) diagram of the story as a chess game, [Through the Looking-Glass - Chess](https://en.wikipedia.org/wiki/Through_the_Looking-Glass#Chess)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Glen Robert Downey](https://en.wikipedia.org/wiki/Glen_Downey_%28writer%29) (**1998**). *The Truth About Pawn Promotion: The Development of the Chess Motif in Victorian Fiction*. Ph.D. thesis, [University of Victoria](https://en.wikipedia.org/wiki/University_of_Victoria) [pdf](http://www.nlc-bnc.ca/obj/s4/f2/dsk2/tape15/PQDD_0006/NQ34258.pdf) » [Promotions](Promotions "Promotions")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Lewis Carroll's chess problem | ChessVibes](http://www.chessvibes.com/?q=columns/lewis-carrolls-chess-problem), July 14, 2008
 
 **[Up one Level](Engines "Engines")**
 

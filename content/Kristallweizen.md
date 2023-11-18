@@ -45,17 +45,17 @@ Kristallweizen may also used with *Dolphin*, also based on YaneuraOu's (version 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A [photograph](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg) of two varieties of [wheat beer](https://en.wikipedia.org/wiki/Wheat_beer): Kristallweizen (left) and Hefeweizen (right), filtered and unfiltered [German wheat beers](https://en.wikipedia.org/wiki/Beer_in_Germany)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Erdinger from Wikipedia](https://en.wikipedia.org/wiki/Erdinger)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Beer Bar Barrel house - Facebook](https://www.facebook.com/Beer-Bar-Barrel-house-304149502997804/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The 29th World Computer Shogi Championship Applicant List](https://groups.google.com/d/msg/shogi-l/qL5i9rYFXyw/TqDOnZZSDAAJ) by [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen") on behalf of [Takenobu Takizawa](Takenobu_Takizawa "Takenobu Takizawa"), [SHOGI-L](Computer_Chess_Forums "Computer Chess Forums"), February 03, 2019
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [第29回世界コンピュータ将棋選手権 - 29th World Computer Shogi Championship](http://www2.computer-shogi.org/wcsc29/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [GitHub - TadaoYamaoka/python-dlshogi](https://github.com/TadaoYamaoka/python-dlshogi)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [GitHub - gunyarakun/python-shogi: A pure Python shogi library with move generation and validation and handling of common formats.](https://github.com/gunyarakun/python-shogi)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [人造棋士１８号 - django-\/\/ i K | Android Go Player No.18](https://www.qhapaq.org/shogi/shogiwiki/softs/jk18/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: Strongest free shogi engine?](https://www.reddit.com/r/shogi/comments/ew3nic/strongest_free_shogi_engine/?sort=confidence) by [km0010](https://www.reddit.com/user/km0010/), [Reddit](https://en.wikipedia.org/wiki/Reddit)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [使用ソフト | shogi-engines](https://www.uuunuuun.com/blank-2)
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [第28回世界コンピュータ将棋選手権 - 28th World Computer Shogi Championship](http://www2.computer-shogi.org/wcsc28/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A [photograph](https://commons.wikimedia.org/wiki/File:Hefeweizen_and_kristallweizen.jpg) of two varieties of [wheat beer](https://en.wikipedia.org/wiki/Wheat_beer): Kristallweizen (left) and Hefeweizen (right), filtered and unfiltered [German wheat beers](https://en.wikipedia.org/wiki/Beer_in_Germany)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Erdinger from Wikipedia](https://en.wikipedia.org/wiki/Erdinger)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Beer Bar Barrel house - Facebook](https://www.facebook.com/Beer-Bar-Barrel-house-304149502997804/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The 29th World Computer Shogi Championship Applicant List](https://groups.google.com/d/msg/shogi-l/qL5i9rYFXyw/TqDOnZZSDAAJ) by [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen") on behalf of [Takenobu Takizawa](Takenobu_Takizawa "Takenobu Takizawa"), [SHOGI-L](Computer_Chess_Forums "Computer Chess Forums"), February 03, 2019
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [第29回世界コンピュータ将棋選手権 - 29th World Computer Shogi Championship](http://www2.computer-shogi.org/wcsc29/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GitHub - TadaoYamaoka/python-dlshogi](https://github.com/TadaoYamaoka/python-dlshogi)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [GitHub - gunyarakun/python-shogi: A pure Python shogi library with move generation and validation and handling of common formats.](https://github.com/gunyarakun/python-shogi)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [人造棋士１８号 - django-\/\/ i K | Android Go Player No.18](https://www.qhapaq.org/shogi/shogiwiki/softs/jk18/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: Strongest free shogi engine?](https://www.reddit.com/r/shogi/comments/ew3nic/strongest_free_shogi_engine/?sort=confidence) by [km0010](https://www.reddit.com/user/km0010/), [Reddit](https://en.wikipedia.org/wiki/Reddit)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [使用ソフト | shogi-engines](https://www.uuunuuun.com/blank-2)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [第28回世界コンピュータ将棋選手権 - 28th World Computer Shogi Championship](http://www2.computer-shogi.org/wcsc28/)
 
 **[Up one Level](Engines "Engines")**
 

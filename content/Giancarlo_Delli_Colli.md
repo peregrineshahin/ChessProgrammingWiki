@@ -31,14 +31,14 @@ Team [Equinox](Equinox "Equinox") celebrating [IOCSC 2012](IOCSC_2012 "IOCSC 201
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chessdom - WGM Sedina and GM Efimov battling against Equinox](http://software.chessdom.com/equinox-sedina-efimov), [Festival della Scienza](http://festival2009.festivalscienza.it/site/Home.html), [Genoa](https://en.wikipedia.org/wiki/Genoa), 2009
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2006**). *The Interpretation of Rules*. Editorial, [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal"), [pdf](https://ilk.uvt.nl/icga/journal/pdf/toc29-2.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [G6 - Live GSEI events: 7. CIPS 2007 & 2. CCC Bologna](http://e4e6.altervista.org/cips7.php)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Welcomes Lion programmer back to the fold](https://www.game-ai-forum.org/icga-tournaments/phpBB3/viewtopic.php?f=15&t=83&sid=29f8eba894c6840bf10da3e34d3ce75f) by [David Levy](David_Levy "David Levy"), [ICGA-Forum](Computer_Chess_Forums "Computer Chess Forums"), May 16, 2009 (dead link)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Equinox' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=590)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Italian Open Chess Software Cup 2012 « G 6](https://www.g-sei.org/italian-open-chess-software-cup-2012/)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Announcement](https://m.facebook.com/story.php?story_fbid=1075433592600108&id=100004004336068) by [Giuseppe Sgrò](index.php?title=Giuseppe_Sgr%C3%B2&action=edit&redlink=1 "Giuseppe Sgrò (page does not exist)"), [Facebook](https://en.wikipedia.org/wiki/Facebook), June 2017
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Italian Open Chess Software Cup - Photos | Facebook](https://www.facebook.com/pg/Italian-Open-Chess-Software-Cup-356448134432104/photos/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chessdom - WGM Sedina and GM Efimov battling against Equinox](http://software.chessdom.com/equinox-sedina-efimov), [Festival della Scienza](http://festival2009.festivalscienza.it/site/Home.html), [Genoa](https://en.wikipedia.org/wiki/Genoa), 2009
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2006**). *The Interpretation of Rules*. Editorial, [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal"), [pdf](https://ilk.uvt.nl/icga/journal/pdf/toc29-2.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [G6 - Live GSEI events: 7. CIPS 2007 & 2. CCC Bologna](http://e4e6.altervista.org/cips7.php)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Welcomes Lion programmer back to the fold](https://www.game-ai-forum.org/icga-tournaments/phpBB3/viewtopic.php?f=15&t=83&sid=29f8eba894c6840bf10da3e34d3ce75f) by [David Levy](David_Levy "David Levy"), [ICGA-Forum](Computer_Chess_Forums "Computer Chess Forums"), May 16, 2009 (dead link)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Equinox' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=590)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Italian Open Chess Software Cup 2012 « G 6](https://www.g-sei.org/italian-open-chess-software-cup-2012/)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Announcement](https://m.facebook.com/story.php?story_fbid=1075433592600108&id=100004004336068) by [Giuseppe Sgrò](index.php?title=Giuseppe_Sgr%C3%B2&action=edit&redlink=1 "Giuseppe Sgrò (page does not exist)"), [Facebook](https://en.wikipedia.org/wiki/Facebook), June 2017
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Italian Open Chess Software Cup - Photos | Facebook](https://www.facebook.com/pg/Italian-Open-Chess-Software-Cup-356448134432104/photos/)
 
 **[Up one level](People "People")**
 

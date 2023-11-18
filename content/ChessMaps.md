@@ -42,10 +42,10 @@ The Chessmaps program is still only a prototype program and is missing modules o
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kieran Greer](Kieran_Greer "Kieran Greer"), [Piyush Ojha](index.php?title=Piyush_Ojha&action=edit&redlink=1 "Piyush Ojha (page does not exist)"), [David A. Bell](index.php?title=David_A._Bell&action=edit&redlink=1 "David A. Bell (page does not exist)") (**1999**). *A Pattern-Oriented Approach to Move Ordering: the Chessmaps Heuristic*. [ICCA Journal, Vol. 22, No. 1](ICGA_Journal#22_1 "ICGA Journal")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kieran Greer](Kieran_Greer "Kieran Greer") (**2000**). *[Computer chess move-ordering schemes using move influence](https://www.sciencedirect.com/science/article/pii/S0004370200000266)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 120, No. 2
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Distributed Computing Systems - Research](https://www.distributedcomputingsystems.co.uk/research.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kieran Greer](Kieran_Greer "Kieran Greer") (**2012**). *[Tree Pruning for New Search Techniques in Computer Games](https://www.hindawi.com/journals/aai/2013/357068/)*. Advances in Artificial Intelligence, Vol. 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kieran Greer](Kieran_Greer "Kieran Greer"), [Piyush Ojha](index.php?title=Piyush_Ojha&action=edit&redlink=1 "Piyush Ojha (page does not exist)"), [David A. Bell](index.php?title=David_A._Bell&action=edit&redlink=1 "David A. Bell (page does not exist)") (**1999**). *A Pattern-Oriented Approach to Move Ordering: the Chessmaps Heuristic*. [ICCA Journal, Vol. 22, No. 1](ICGA_Journal#22_1 "ICGA Journal")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kieran Greer](Kieran_Greer "Kieran Greer") (**2000**). *[Computer chess move-ordering schemes using move influence](https://www.sciencedirect.com/science/article/pii/S0004370200000266)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 120, No. 2
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Distributed Computing Systems - Research](https://www.distributedcomputingsystems.co.uk/research.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kieran Greer](Kieran_Greer "Kieran Greer") (**2012**). *[Tree Pruning for New Search Techniques in Computer Games](https://www.hindawi.com/journals/aai/2013/357068/)*. Advances in Artificial Intelligence, Vol. 2013
 
 **[Up one level](Engines "Engines")**
 

@@ -33,7 +33,7 @@ A typical [depth-first](Depth-First "Depth-First") non-uniform depth search deco
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Plying from Wikipedia](https://en.wikipedia.org/wiki/Plying)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Plying from Wikipedia](https://en.wikipedia.org/wiki/Plying)
 
 **[Up one Level](Dictionary "Dictionary")**
 

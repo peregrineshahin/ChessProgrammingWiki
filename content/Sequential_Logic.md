@@ -78,7 +78,7 @@ As an further example, a sequential logic may perform the same task as mentioned
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sequential Logic](http://web.mit.edu/6.111/www/f2005/tutprobs/sequential.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sequential Logic](http://web.mit.edu/6.111/www/f2005/tutprobs/sequential.html)
 
 **[Up one Level](Hardware "Hardware")**
 

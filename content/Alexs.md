@@ -87,11 +87,11 @@ Rxg6 30.Be6 Nxe6 31.dxe6 Rxe6 32.Rxe6 Qxe6 33.h3 Rd8 34.Qf1+ Ke8 35.Qb5+ Rd7
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alex van Tiggelen](Alex_van_Tiggelen "Alex van Tiggelen"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1991**). *ALEXS: An Optimization Approach for the Endgame KNNKP(h)*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alex van Tiggelen](Alex_van_Tiggelen "Alex van Tiggelen") (**1991**). *Neural Networks as a Guide to Optimization - The Chess Middle Game Explored*. [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Review of ALEXS by Larry Kaufman](https://www.stmintz.com/ccc/index.php?id=43505) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), February 17, 1999
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=318017&t=31545) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), January 11, 2010
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Review of ALEXS by Larry Kaufman](https://www.stmintz.com/ccc/index.php?id=43056) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), February 12, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alex van Tiggelen](Alex_van_Tiggelen "Alex van Tiggelen"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1991**). *ALEXS: An Optimization Approach for the Endgame KNNKP(h)*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alex van Tiggelen](Alex_van_Tiggelen "Alex van Tiggelen") (**1991**). *Neural Networks as a Guide to Optimization - The Chess Middle Game Explored*. [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Review of ALEXS by Larry Kaufman](https://www.stmintz.com/ccc/index.php?id=43505) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), February 17, 1999
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=318017&t=31545) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), January 11, 2010
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Review of ALEXS by Larry Kaufman](https://www.stmintz.com/ccc/index.php?id=43056) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), February 12, 1999
 
 **[Up one Level](Engines "Engines")**
 

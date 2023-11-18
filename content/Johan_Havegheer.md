@@ -28,12 +28,12 @@ a Belgian computer scientist <a id="cite-note-1" href="#cite-ref-1">[1]</a>, com
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Johan 'Jootje' Havegheer](https://www.facebook.com/johan.havegheer) at [Facebook](https://en.wikipedia.org/wiki/Facebook)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Some news about H. Secelle (author of Bionic)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=30320) by Johan Havegheer, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 08, 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Participants 23rd Open Dutch Computer-Chess Championship 18, 19, 25, 26 Oct. 2003; Leiden, Netherlands](http://old.csvn.nl/partic03.html) old [CSVN](CSVN "CSVN") site
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Inhoud Computerschaak vanaf 1996](http://old.csvn.nl/inhoud.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CEGT Testers](http://www.husvankempen.de/nunn/testers/testers.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Photos](http://old.csvn.nl/ict4tour.html) from the old [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Johan 'Jootje' Havegheer](https://www.facebook.com/johan.havegheer) at [Facebook](https://en.wikipedia.org/wiki/Facebook)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Some news about H. Secelle (author of Bionic)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=30320) by Johan Havegheer, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 08, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Participants 23rd Open Dutch Computer-Chess Championship 18, 19, 25, 26 Oct. 2003; Leiden, Netherlands](http://old.csvn.nl/partic03.html) old [CSVN](CSVN "CSVN") site
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Inhoud Computerschaak vanaf 1996](http://old.csvn.nl/inhoud.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CEGT Testers](http://www.husvankempen.de/nunn/testers/testers.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Photos](http://old.csvn.nl/ict4tour.html) from the old [CSVN](CSVN "CSVN") site
 
 **[Up one level](People "People")**
 

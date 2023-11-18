@@ -84,10 +84,10 @@ Martin Sedlák is further author of the [TLCV](TLCS-TLCV "TLCS-TLCV") client **l
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Cheng chess engine](http://www.vlasak.biz/cheng/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [livius sources (a TLCV-compatible client)](http://www.talkchess.com/forum/viewtopic.php?t=52133) by Martin Sedlak, [CCC](CCC "CCC"), April 26, 2014
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [kmar · GitHub](https://github.com/kmar)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Source lines of code from Wikipedia](https://en.wikipedia.org/wiki/Source_lines_of_code)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Cheng chess engine](http://www.vlasak.biz/cheng/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [livius sources (a TLCV-compatible client)](http://www.talkchess.com/forum/viewtopic.php?t=52133) by Martin Sedlak, [CCC](CCC "CCC"), April 26, 2014
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [kmar · GitHub](https://github.com/kmar)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Source lines of code from Wikipedia](https://en.wikipedia.org/wiki/Source_lines_of_code)
 
 **[Up one level](People "People")**
 

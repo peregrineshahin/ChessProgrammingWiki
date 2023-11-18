@@ -35,12 +35,12 @@ an Italian computer scientist, chess player and computer chess programmer. He ho
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Edoardo Manino | Electronics and Computer Science | University of Southampton](https://www.ecs.soton.ac.uk/people/em4e15)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Edoardo Manino | Electronics and Computer Science | University of Southampton](https://www.ecs.soton.ac.uk/people/em4e15)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ProChess102AD.zip | readme.txt](http://www.g-sei.org/wp-content/uploads/2012/03/ProChess102AD.zip)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Edoardo Manino](https://dblp.org/pers/hd/m/Manino:Edoardo)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Edoardo Manino - Google Scholar Citations](https://scholar.google.co.uk/citations?user=pzCa2LQAAAAJ&hl=en)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Bayesian inference from Wikipedia](https://en.wikipedia.org/wiki/Bayesian_inference)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Edoardo Manino | Electronics and Computer Science | University of Southampton](https://www.ecs.soton.ac.uk/people/em4e15)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Edoardo Manino | Electronics and Computer Science | University of Southampton](https://www.ecs.soton.ac.uk/people/em4e15)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ProChess102AD.zip | readme.txt](http://www.g-sei.org/wp-content/uploads/2012/03/ProChess102AD.zip)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Edoardo Manino](https://dblp.org/pers/hd/m/Manino:Edoardo)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Edoardo Manino - Google Scholar Citations](https://scholar.google.co.uk/citations?user=pzCa2LQAAAAJ&hl=en)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Bayesian inference from Wikipedia](https://en.wikipedia.org/wiki/Bayesian_inference)
 
 **[Up one level](People "People")**
 

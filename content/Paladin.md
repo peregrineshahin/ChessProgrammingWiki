@@ -68,14 +68,14 @@ Paladin's rudimentary [evaluation](Evaluation "Evaluation") is based on the [sim
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Roland](https://en.wikipedia.org/wiki/Roland) receives the sword [Durendal](https://en.wikipedia.org/wiki/Durendal) from [Holy Roman Emperor](https://en.wikipedia.org/wiki/Holy_Roman_Emperor) [Charlemagne](https://en.wikipedia.org/wiki/Charlemagne). From a manuscript of a [chanson de geste](https://en.wikipedia.org/wiki/Chanson_de_geste). [Paladin from Wikipedia](https://en.wikipedia.org/wiki/Paladin), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [chess\_cpu/switches.h at master · ankan-ban/chess\_cpu · GitHub](https://github.com/ankan-ban/chess_cpu/blob/master/switches.h)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: New engine?](http://www.talkchess.com/forum/viewtopic.php?t=60328&start=10) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), July 11, 2016
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [chess\_cpu/chess.h at master · ankan-ban/chess\_cpu · GitHub](https://github.com/ankan-ban/chess_cpu/blob/master/chess.h)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [chess\_cpu/main.cpp at master · ankan-ban/chess\_cpu · GitHub](https://github.com/ankan-ban/chess_cpu/blob/master/main.cpp)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [chess\_cpu/search.cpp at master · ankan-ban/chess\_cpu · GitHub](https://github.com/ankan-ban/chess_cpu/blob/master/search.cpp)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The Evaluation of Material Imbalances](http://www.danheisman.com/evaluation-of-material-imbalances.html) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [chess\_cpu/eval.cpp at master · ankan-ban/chess\_cpu · GitHub](https://github.com/ankan-ban/chess_cpu/blob/master/eval.cpp)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Roland](https://en.wikipedia.org/wiki/Roland) receives the sword [Durendal](https://en.wikipedia.org/wiki/Durendal) from [Holy Roman Emperor](https://en.wikipedia.org/wiki/Holy_Roman_Emperor) [Charlemagne](https://en.wikipedia.org/wiki/Charlemagne). From a manuscript of a [chanson de geste](https://en.wikipedia.org/wiki/Chanson_de_geste). [Paladin from Wikipedia](https://en.wikipedia.org/wiki/Paladin), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [chess\_cpu/switches.h at master · ankan-ban/chess\_cpu · GitHub](https://github.com/ankan-ban/chess_cpu/blob/master/switches.h)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: New engine?](http://www.talkchess.com/forum/viewtopic.php?t=60328&start=10) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), July 11, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [chess\_cpu/chess.h at master · ankan-ban/chess\_cpu · GitHub](https://github.com/ankan-ban/chess_cpu/blob/master/chess.h)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [chess\_cpu/main.cpp at master · ankan-ban/chess\_cpu · GitHub](https://github.com/ankan-ban/chess_cpu/blob/master/main.cpp)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [chess\_cpu/search.cpp at master · ankan-ban/chess\_cpu · GitHub](https://github.com/ankan-ban/chess_cpu/blob/master/search.cpp)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Evaluation of Material Imbalances](http://www.danheisman.com/evaluation-of-material-imbalances.html) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [chess\_cpu/eval.cpp at master · ankan-ban/chess\_cpu · GitHub](https://github.com/ankan-ban/chess_cpu/blob/master/eval.cpp)
 
 **[Up one Level](Engines "Engines")**
 

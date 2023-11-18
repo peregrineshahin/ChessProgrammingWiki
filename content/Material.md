@@ -219,15 +219,15 @@ To save speed in the material evaluation, programs using rules often [hash](Hash
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Royal Game, Woodcuts Art](http://www.elke-rehder.de/Chess_Woodcuts.htm) by [Elke Rehder](Arts#Rehder "Arts"), [Stefan Zweig](https://en.wikipedia.org/wiki/Stefan_Zweig) [The Royal Game](https://en.wikipedia.org/wiki/The_Royal_Game) IV
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Evaluation of material imbalance (a Rybka secret?)](http://www.talkchess.com/forum/viewtopic.php?t=18240) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti") from [CCC](CCC "CCC"), December 06, 2007
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [trading pieces and pawns based on material balance](http://www.talkchess.com/forum/viewtopic.php?t=64110) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), May 28, 2017
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Quark 2.35 draw claim bug](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=2112) by [Igor Korshunov](Igor_Korshunov "Igor Korshunov"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 28, 2005 » [Quark](Quark "Quark"), [Draw](Draw "Draw")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Looking for Mark Sturman](https://groups.google.com/d/msg/rec.games.chess/xFCRAQIqvjw/OVFg2ezWYTYJ) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), July 02, 1995
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [The joys of chess – and the value of the pieces](http://www.chessbase.com/newsdetail.asp?newsid=7775), [ChessBase News](ChessBase "ChessBase"), December 21, 2011
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Определяем веса шахматных фигур регрессионным анализом / Хабрахабр](http://habrahabr.ru/post/254753/) by [WinPooh](Vladimir_Medvedev "Vladimir Medvedev"), April 27, 2015 (Russian)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Christian Hesse](Christian_Hesse "Christian Hesse") (**2011**). *[The Joys of Chess - Heroes, Battles & Brilliancies](http://www.newinchess.com/The_Joys_of_Chess-p-953.html)*. ISBN: 978-90-5691-355-7, [New In Chess](https://en.wikipedia.org/wiki/New_In_Chess)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Interesting article about the value of the pieces](http://www.talkchess.com/forum/viewtopic.php?t=41556) by Aloisio Ponti, [CCC](CCC "CCC"), December 22, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Royal Game, Woodcuts Art](http://www.elke-rehder.de/Chess_Woodcuts.htm) by [Elke Rehder](Arts#Rehder "Arts"), [Stefan Zweig](https://en.wikipedia.org/wiki/Stefan_Zweig) [The Royal Game](https://en.wikipedia.org/wiki/The_Royal_Game) IV
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Evaluation of material imbalance (a Rybka secret?)](http://www.talkchess.com/forum/viewtopic.php?t=18240) by [Alessandro Scotti](Alessandro_Scotti "Alessandro Scotti") from [CCC](CCC "CCC"), December 06, 2007
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [trading pieces and pawns based on material balance](http://www.talkchess.com/forum/viewtopic.php?t=64110) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), May 28, 2017
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Quark 2.35 draw claim bug](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=2112) by [Igor Korshunov](Igor_Korshunov "Igor Korshunov"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 28, 2005 » [Quark](Quark "Quark"), [Draw](Draw "Draw")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Looking for Mark Sturman](https://groups.google.com/d/msg/rec.games.chess/xFCRAQIqvjw/OVFg2ezWYTYJ) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), July 02, 1995
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The joys of chess – and the value of the pieces](http://www.chessbase.com/newsdetail.asp?newsid=7775), [ChessBase News](ChessBase "ChessBase"), December 21, 2011
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Определяем веса шахматных фигур регрессионным анализом / Хабрахабр](http://habrahabr.ru/post/254753/) by [WinPooh](Vladimir_Medvedev "Vladimir Medvedev"), April 27, 2015 (Russian)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Christian Hesse](Christian_Hesse "Christian Hesse") (**2011**). *[The Joys of Chess - Heroes, Battles & Brilliancies](http://www.newinchess.com/The_Joys_of_Chess-p-953.html)*. ISBN: 978-90-5691-355-7, [New In Chess](https://en.wikipedia.org/wiki/New_In_Chess)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Interesting article about the value of the pieces](http://www.talkchess.com/forum/viewtopic.php?t=41556) by Aloisio Ponti, [CCC](CCC "CCC"), December 22, 2011
 
 **[Up one level](Evaluation "Evaluation")**
 

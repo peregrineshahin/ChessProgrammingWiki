@@ -34,12 +34,12 @@ Andreas Keil with [Charlie](Charlie "Charlie") in 1974 <a id="cite-note-6" href=
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wer ist Murmel?](http://www.murmel.ch/joomla/index.php?option=com_content&view=category&layout=blog&id=75&Itemid=41) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Murmel Spielwerkstatt und Verlag AG | Board Game Publisher | BoardGameGeek](https://boardgamegeek.com/boardgamepublisher/2097/murmel-spielwerkstatt-und-verlag-ag)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jugend forscht, 1973: Sprachlehrprogramm für den Computerdialog zum Bestimmen und Übersetzen lateinischer Verbformen](https://www.jugend-forscht.de/projektdatenbank/sprachlehrprogramm-fuer-den-computerdialog-zum-bestimmen-und-uebersetzen-lateinischer-verbformen.html) (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jugend forscht, 1975: Entwurf einer gesamteuropäischen Sprache](https://www.jugend-forscht.de/projektdatenbank/entwurf-einer-gesamteuropaeischen-sprache.html) (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](https://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123), [Computerwoche](Computerworld#Woche "Computerworld"), 42/1975 (German)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jugend forscht, 1974: Computerprogramm zum Schachspiel in Lidia/Assembler](https://www.jugend-forscht.de/projektdatenbank/computerprogramm-zum-schachspiel-in-lidiaassembler.html) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wer ist Murmel?](http://www.murmel.ch/joomla/index.php?option=com_content&view=category&layout=blog&id=75&Itemid=41) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Murmel Spielwerkstatt und Verlag AG | Board Game Publisher | BoardGameGeek](https://boardgamegeek.com/boardgamepublisher/2097/murmel-spielwerkstatt-und-verlag-ag)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jugend forscht, 1973: Sprachlehrprogramm für den Computerdialog zum Bestimmen und Übersetzen lateinischer Verbformen](https://www.jugend-forscht.de/projektdatenbank/sprachlehrprogramm-fuer-den-computerdialog-zum-bestimmen-und-uebersetzen-lateinischer-verbformen.html) (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jugend forscht, 1975: Entwurf einer gesamteuropäischen Sprache](https://www.jugend-forscht.de/projektdatenbank/entwurf-einer-gesamteuropaeischen-sprache.html) (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](https://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123), [Computerwoche](Computerworld#Woche "Computerworld"), 42/1975 (German)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jugend forscht, 1974: Computerprogramm zum Schachspiel in Lidia/Assembler](https://www.jugend-forscht.de/projektdatenbank/computerprogramm-zum-schachspiel-in-lidiaassembler.html) (German)
 
 **[Up one level](People "People")**
 

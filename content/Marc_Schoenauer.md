@@ -67,15 +67,15 @@ Schoenauer has been working in the field of [evolutionary computation](Genetic_P
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Home page of Marc Schoenauer, head of TAO team](https://www.lri.fr/~marc/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [TikiWiki | People](https://tao.lri.fr/tiki-index.php?page=People)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Short CV of Marc Schoenauer, Nov. 2008](http://www.lri.fr/%7Emarc/bio_short.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Marc Schoenauer - Selected Publications](https://www.lri.fr/~marc/selectedBib.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Marc Schoenauer](https://dblp.uni-trier.de/pers/hd/s/Schoenauer:Marc)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Marc Schoenauer - Google Scholar Citations](https://scholar.google.com/citations?user=GrCk6WoAAAAJ&hl=en)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Multi-objective optimization from Wikipedia](https://en.wikipedia.org/wiki/Multi-objective_optimization)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Adaptive coordinate descent from Wikipedia](https://en.wikipedia.org/wiki/Adaptive_coordinate_descent)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CMA-ES from Wikipedia](https://en.wikipedia.org/wiki/CMA-ES)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Home page of Marc Schoenauer, head of TAO team](https://www.lri.fr/~marc/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TikiWiki | People](https://tao.lri.fr/tiki-index.php?page=People)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Short CV of Marc Schoenauer, Nov. 2008](http://www.lri.fr/%7Emarc/bio_short.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Marc Schoenauer - Selected Publications](https://www.lri.fr/~marc/selectedBib.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Marc Schoenauer](https://dblp.uni-trier.de/pers/hd/s/Schoenauer:Marc)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Marc Schoenauer - Google Scholar Citations](https://scholar.google.com/citations?user=GrCk6WoAAAAJ&hl=en)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Multi-objective optimization from Wikipedia](https://en.wikipedia.org/wiki/Multi-objective_optimization)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Adaptive coordinate descent from Wikipedia](https://en.wikipedia.org/wiki/Adaptive_coordinate_descent)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CMA-ES from Wikipedia](https://en.wikipedia.org/wiki/CMA-ES)
 
 **[Up one level](People "People")**
 

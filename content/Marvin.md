@@ -172,11 +172,11 @@ After ten years "out of business", Martin Danielsson restarted the development i
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marvin the robot](https://en.wikipedia.org/wiki/Marvin_the_Paranoid_Android), [Animated Gif](https://commons.wikimedia.org/wiki/File:Marvin_the_robot_is_disappointed.gif) by [Penyulap](https://commons.wikimedia.org/wiki/User:Penyulap), August 23, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Marvin - new Winboard engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47529&p=179735) by [Martin Danielsson](Martin_Danielsson "Martin Danielsson"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 09, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Marvin 1.3.0](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=1212&p=5492) by [Martin Danielsson](Martin_Danielsson "Martin Danielsson"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 01, 2005
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Marvin 2.0.0 released](http://www.talkchess.com/forum/viewtopic.php?t=63518) by [Martin Danielsson](Martin_Danielsson "Martin Danielsson"), [CCC](CCC "CCC"), March 21, 2017
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [GitHub - bmdanielsson/marvin-chess: Marvin - An UCI/XBoard compatible chess engine](https://github.com/bmdanielsson/marvin-chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marvin the robot](https://en.wikipedia.org/wiki/Marvin_the_Paranoid_Android), [Animated Gif](https://commons.wikimedia.org/wiki/File:Marvin_the_robot_is_disappointed.gif) by [Penyulap](https://commons.wikimedia.org/wiki/User:Penyulap), August 23, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Marvin - new Winboard engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47529&p=179735) by [Martin Danielsson](Martin_Danielsson "Martin Danielsson"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 09, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Marvin 1.3.0](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=1212&p=5492) by [Martin Danielsson](Martin_Danielsson "Martin Danielsson"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 01, 2005
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Marvin 2.0.0 released](http://www.talkchess.com/forum/viewtopic.php?t=63518) by [Martin Danielsson](Martin_Danielsson "Martin Danielsson"), [CCC](CCC "CCC"), March 21, 2017
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - bmdanielsson/marvin-chess: Marvin - An UCI/XBoard compatible chess engine](https://github.com/bmdanielsson/marvin-chess)
 
 **[Up one Level](Engines "Engines")**
 

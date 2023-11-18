@@ -32,8 +32,8 @@ an Italian computer scientist affiliated with the [University of Pisa](https://e
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image (cropped) from [Due giorni da protagonisti « G 6](http://www.g-sei.org/due-giorni-da-protagonisti/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - crybot/Napoleon: Re-designed Chess engine and converted in C++](https://github.com/crybot/Napoleon)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image (cropped) from [Due giorni da protagonisti « G 6](http://www.g-sei.org/due-giorni-da-protagonisti/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - crybot/Napoleon: Re-designed Chess engine and converted in C++](https://github.com/crybot/Napoleon)
 
 **[Up one level](People "People")**
 

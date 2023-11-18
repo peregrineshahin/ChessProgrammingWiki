@@ -65,10 +65,10 @@ Superpawn is an excellent example of the “objects gone wild” style of progra
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Superpawn logo](http://web.archive.org/web/20180307002550/http://chess.johnbyrd.org/) designed by Angela M. Eads, ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Greetings, and a new engine](http://www.open-chess.org/viewtopic.php?f=5&t=2766) by [John Byrd](index.php?title=John_Byrd&action=edit&redlink=1 "John Byrd (page does not exist)"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 25, 2015
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [superpawn/Chess.cpp at master · johnwbyrd/superpawn · GitHub](https://github.com/johnwbyrd/superpawn/blob/master/Chess.cpp)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Superpawn](http://web.archive.org/web/20180307002550/http://chess.johnbyrd.org/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Superpawn logo](http://web.archive.org/web/20180307002550/http://chess.johnbyrd.org/) designed by Angela M. Eads, ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Greetings, and a new engine](http://www.open-chess.org/viewtopic.php?f=5&t=2766) by [John Byrd](index.php?title=John_Byrd&action=edit&redlink=1 "John Byrd (page does not exist)"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 25, 2015
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [superpawn/Chess.cpp at master · johnwbyrd/superpawn · GitHub](https://github.com/johnwbyrd/superpawn/blob/master/Chess.cpp)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Superpawn](http://web.archive.org/web/20180307002550/http://chess.johnbyrd.org/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](Engines "Engines")**
 

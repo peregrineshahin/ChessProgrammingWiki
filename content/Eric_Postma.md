@@ -44,13 +44,13 @@ Along with [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Experts - Tilburg University - Eric O. Postma](http://www.tilburguniversity.edu/webwijs/show/?uid=e.o.postma)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tilburg Centre for Creative Computing (TiCC)](https://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/csai/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2008**). *[From Maastricht to Tilburg](ICGA_Journal#FromMaastrichttoTilburg "ICGA Journal")*. [ICGA Journal, Vol. 31, No. 2](ICGA_Journal#31_2 "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), Eric Postma, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *[The Neural MoveMap Heuristic in Chess](http://link.springer.com/chapter/10.1007/978-3-540-40031-8_11)*. [CG 2002](CG_2002 "CG 2002")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Eric O. Postma](https://dblp.uni-trier.de/pers/hd/p/Postma:Eric_O=.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Wilma Latuny](https://dblp.uni-trier.de/pers/hd/l/Latuny:Wilma) (**2017**). *The Power of Facial Expressions*. Ph.D. thesis, [Tilburg University](Tilburg_University "Tilburg University"), advisors Eric Postma, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [pdf](https://pure.uvt.nl/ws/portalfiles/portal/18236048/Latuny_The_power_29_09_2017.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Experts - Tilburg University - Eric O. Postma](http://www.tilburguniversity.edu/webwijs/show/?uid=e.o.postma)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tilburg Centre for Creative Computing (TiCC)](https://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/csai/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2008**). *[From Maastricht to Tilburg](ICGA_Journal#FromMaastrichttoTilburg "ICGA Journal")*. [ICGA Journal, Vol. 31, No. 2](ICGA_Journal#31_2 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), Eric Postma, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *[The Neural MoveMap Heuristic in Chess](http://link.springer.com/chapter/10.1007/978-3-540-40031-8_11)*. [CG 2002](CG_2002 "CG 2002")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Eric O. Postma](https://dblp.uni-trier.de/pers/hd/p/Postma:Eric_O=.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Wilma Latuny](https://dblp.uni-trier.de/pers/hd/l/Latuny:Wilma) (**2017**). *The Power of Facial Expressions*. Ph.D. thesis, [Tilburg University](Tilburg_University "Tilburg University"), advisors Eric Postma, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [pdf](https://pure.uvt.nl/ws/portalfiles/portal/18236048/Latuny_The_power_29_09_2017.pdf)
 
 **[Up one level](People "People")**
 

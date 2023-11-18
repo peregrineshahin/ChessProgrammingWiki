@@ -24,12 +24,12 @@ He is author of the [Java](Java "Java") chess engine [Carballo](Carballo "Carbal
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [albertoruibal (Alberto Alonso Ruibal) · GitHub](https://github.com/albertoruibal)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alberto Alonso Ruibal | LinkedIn](https://www.linkedin.com/in/albertoruibal)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mobialia - Mobile & HTML5 app developers](http://www.mobialia.com/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Converting Carballo to Kotlin](https://www.alonsoruibal.com/converting-carballo-kotlin/) by Alberto Alonso Ruibal, April 02, 2017
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Mobialia Chess - Mobialia](http://www.mobialia.com/apps/chess/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Google Chrome from Wikipedia](https://en.wikipedia.org/wiki/Google_Chrome)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [albertoruibal (Alberto Alonso Ruibal) · GitHub](https://github.com/albertoruibal)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alberto Alonso Ruibal | LinkedIn](https://www.linkedin.com/in/albertoruibal)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mobialia - Mobile & HTML5 app developers](http://www.mobialia.com/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Converting Carballo to Kotlin](https://www.alonsoruibal.com/converting-carballo-kotlin/) by Alberto Alonso Ruibal, April 02, 2017
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mobialia Chess - Mobialia](http://www.mobialia.com/apps/chess/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Google Chrome from Wikipedia](https://en.wikipedia.org/wiki/Google_Chrome)
 
 **[Up one level](People "People")**
 

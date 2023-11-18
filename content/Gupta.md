@@ -37,8 +37,8 @@ Gupta comes with its own open source [GUI](GUI "GUI") based on [Qt](https://en.w
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Subodh Gupta's](Category:Subodh_Gupta "Category:Subodh Gupta") Line of Control in [Altermodern](https://en.wikipedia.org/wiki/Altermodern) at the [Tate Britain](https://en.wikipedia.org/wiki/Tate_Britain), April 10, 2009, [Photo](https://commons.wikimedia.org/wiki/File:Subodh_Gupta_-_Line_of_Control.jpg) by Paul Joseph, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Gambit](http://gambitchess.sourceforge.net/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Subodh Gupta's](Category:Subodh_Gupta "Category:Subodh Gupta") Line of Control in [Altermodern](https://en.wikipedia.org/wiki/Altermodern) at the [Tate Britain](https://en.wikipedia.org/wiki/Tate_Britain), April 10, 2009, [Photo](https://commons.wikimedia.org/wiki/File:Subodh_Gupta_-_Line_of_Control.jpg) by Paul Joseph, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Gambit](http://gambitchess.sourceforge.net/)
 
 **[Up one Level](Engines "Engines")**
 

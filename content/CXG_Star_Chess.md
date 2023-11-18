@@ -55,19 +55,19 @@ In his 1996 [ICCA Journal](ICGA_Journal#19_4 "ICGA Journal") paper on [CHE](inde
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CXG-CGL Collection](http://www.flickr.com/photos/10261668@N05/sets/72157600923816793/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CXG Enterprise S Electronic Chess Computer](http://www.spacious-mind.com/html/enterprise_s.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mephisto Merlin 4K](http://www.schach-computer.info/wiki/index.php/Mephisto_Merlin_4K) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Lexibook Electronic Chess Computers](http://www.spacious-mind.com/html/lexibook.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Danielsen, Kaare](http://www.schach-computer.info/wiki/index.php/Danielsen,_Kaare) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Lexibook Travel Chess Explorer Electronic Chess Computer](http://www.spacious-mind.com/html/travel_chess_explorer.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Lexibook ChessMan Pro Electronic Chess Computer](http://www.spacious-mind.com/html/chessman_pro.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [CXG-CGL Collection](http://www.flickr.com/photos/10261668@N05/sets/72157600923816793/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CXG Super Enterprise](http://www.schach-computer.info/wiki/index.php/CXG_Super_Enterprise) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [CXG Super Crown](http://www.schach-computer.info/wiki/index.php/CXG_Super_Crown) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Mephisto Merlin 16K](http://www.schach-computer.info/wiki/index.php/Mephisto_Merlin_16K) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> "[This approach](Oracle#Donninger "Oracle") seems to have been invented by [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") for his program [CXG Advanced Star Chess](CXG_Star_Chess#Advanced "CXG Star Chess")" from [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1996**). *CHE: A Graphical Language for Expressing Chess Knowledge*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [David Kittinger](David_Kittinger "David Kittinger") and [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 15-33
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CXG-CGL Collection](http://www.flickr.com/photos/10261668@N05/sets/72157600923816793/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CXG Enterprise S Electronic Chess Computer](http://www.spacious-mind.com/html/enterprise_s.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mephisto Merlin 4K](http://www.schach-computer.info/wiki/index.php/Mephisto_Merlin_4K) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Lexibook Electronic Chess Computers](http://www.spacious-mind.com/html/lexibook.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Danielsen, Kaare](http://www.schach-computer.info/wiki/index.php/Danielsen,_Kaare) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Lexibook Travel Chess Explorer Electronic Chess Computer](http://www.spacious-mind.com/html/travel_chess_explorer.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Lexibook ChessMan Pro Electronic Chess Computer](http://www.spacious-mind.com/html/chessman_pro.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [CXG-CGL Collection](http://www.flickr.com/photos/10261668@N05/sets/72157600923816793/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CXG Super Enterprise](http://www.schach-computer.info/wiki/index.php/CXG_Super_Enterprise) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [CXG Super Crown](http://www.schach-computer.info/wiki/index.php/CXG_Super_Crown) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Mephisto Merlin 16K](http://www.schach-computer.info/wiki/index.php/Mephisto_Merlin_16K) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> "[This approach](Oracle#Donninger "Oracle") seems to have been invented by [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") for his program [CXG Advanced Star Chess](CXG_Star_Chess#Advanced "CXG Star Chess")" from [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1996**). *CHE: A Graphical Language for Expressing Chess Knowledge*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [David Kittinger](David_Kittinger "David Kittinger") and [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 15-33
 
 **[Up one Level](Engines "Engines")**
 

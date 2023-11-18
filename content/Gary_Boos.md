@@ -28,10 +28,10 @@ Iron Fish played the [ACM 1975](ACM_1975 "ACM 1975"). Gary Boos' [Go](Go "Go")-p
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gary Boos | LinkedIn](https://www.linkedin.com/in/gary-boos-69751b45/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [James R. Slagle](James_R._Slagle "James R. Slagle"), [Philip Bursky](Philip_Bursky "Philip Bursky") (**1968**). *Experiments With a Multipurpose, Theorem-Proving Heuristic Program*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 15, No. 1
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ben Mittman](Ben_Mittman "Ben Mittman") (**1971**). *[Computer Chess Programs (Panel)](https://www.computerhistory.org/chess/doc-431614f6d1ee8/)*. hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The North American Computer Go Championships](http://www.smart-games.com/uscompgo.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gary Boos | LinkedIn](https://www.linkedin.com/in/gary-boos-69751b45/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [James R. Slagle](James_R._Slagle "James R. Slagle"), [Philip Bursky](Philip_Bursky "Philip Bursky") (**1968**). *Experiments With a Multipurpose, Theorem-Proving Heuristic Program*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 15, No. 1
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ben Mittman](Ben_Mittman "Ben Mittman") (**1971**). *[Computer Chess Programs (Panel)](https://www.computerhistory.org/chess/doc-431614f6d1ee8/)*. hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The North American Computer Go Championships](http://www.smart-games.com/uscompgo.html)
 
 **[Up one level](Engines "Engines")**
 

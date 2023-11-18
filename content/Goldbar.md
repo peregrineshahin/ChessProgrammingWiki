@@ -55,12 +55,12 @@ Kc6 64.Nd3 Kb5 65.Bc3 Be7 1/2-1/2
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The world's largest gold bar at the [Toi gold mine](https://en.wikipedia.org/wiki/Toi_gold_mine), [Gold bar from Wikipedia](https://en.wikipedia.org/wiki/Gold_bar)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Communication by [Joost Buijs](Joost_Buijs "Joost Buijs"), July 13, 2015
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Goldbar games ACCA 2012](http://www.talkchess.com/forum/viewtopic.php?t=44459) by [Bart Goldhoorn](Bart_Goldhoorn "Bart Goldhoorn"), [CCC](CCC "CCC"), July 16, 2012
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Goldbar winnaar 1e CSVN Internettoernooi](https://www.csvn.nl/index.php/nieuws/51-toernooien/638-goldbar-winnaar-1e-csvn-internettoernooi), [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [2014 Eighth Annual ACCA World Computer Rapid Chess Championships - Results](http://aigames.net/ACCA/ACCAWCRCC/2014ACCAWCRCC/WCRCCResults.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICT11 Round 7](http://www.csvn.nl/index.php?option=com_content&view=article&id=508%3Aict11-round-7&catid=51%3Atoernooien&Itemid=28&lang=en), [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The world's largest gold bar at the [Toi gold mine](https://en.wikipedia.org/wiki/Toi_gold_mine), [Gold bar from Wikipedia](https://en.wikipedia.org/wiki/Gold_bar)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Communication by [Joost Buijs](Joost_Buijs "Joost Buijs"), July 13, 2015
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Goldbar games ACCA 2012](http://www.talkchess.com/forum/viewtopic.php?t=44459) by [Bart Goldhoorn](Bart_Goldhoorn "Bart Goldhoorn"), [CCC](CCC "CCC"), July 16, 2012
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Goldbar winnaar 1e CSVN Internettoernooi](https://www.csvn.nl/index.php/nieuws/51-toernooien/638-goldbar-winnaar-1e-csvn-internettoernooi), [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [2014 Eighth Annual ACCA World Computer Rapid Chess Championships - Results](http://aigames.net/ACCA/ACCAWCRCC/2014ACCAWCRCC/WCRCCResults.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICT11 Round 7](http://www.csvn.nl/index.php?option=com_content&view=article&id=508%3Aict11-round-7&catid=51%3Atoernooien&Itemid=28&lang=en), [CSVN](CSVN "CSVN") site
 
 **[Up one Level](Engines "Engines")**
 

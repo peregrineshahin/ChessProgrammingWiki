@@ -52,15 +52,15 @@ In the late 70s, as one of [Montreal's](https://en.wikipedia.org/wiki/Montreal) 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chronomaitre Design](http://www.chronomaitre.org/index.html) par Ilan Vardi (French)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Eleventh ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cdeeb), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1980_11th_ACM_NACCC/The_Eleventh_ACMs_North_American_Computer_Chess_Championship.1980.062303015.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ilan's home page](http://www.lix.polytechnique.fr/Labo/Ilan.Vardi/index.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ilan Vardi](http://www.chronomaitre.org/ilan.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ilan Vardi vs Kevin Spraggett (1975)](http://www.chessgames.com/perl/chessgame?gid=1131035) from [chessgames.com](http://www.chessgames.com/index.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Ilan's home page - Publications](http://www.lix.polytechnique.fr/Labo/Ilan.Vardi/publications.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Ilan Vardi](https://dblp.uni-trier.de/pers/hd/v/Vardi:Ilan.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Hafner–Sarnak–McCurley constant from Wikipedia](https://en.wikipedia.org/wiki/Hafner%E2%80%93Sarnak%E2%80%93McCurley_constant)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The Sand Reckoner from Wikipedia](https://en.wikipedia.org/wiki/The_Sand_Reckoner)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chronomaitre Design](http://www.chronomaitre.org/index.html) par Ilan Vardi (French)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Eleventh ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cdeeb), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1980_11th_ACM_NACCC/The_Eleventh_ACMs_North_American_Computer_Chess_Championship.1980.062303015.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ilan's home page](http://www.lix.polytechnique.fr/Labo/Ilan.Vardi/index.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ilan Vardi](http://www.chronomaitre.org/ilan.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ilan Vardi vs Kevin Spraggett (1975)](http://www.chessgames.com/perl/chessgame?gid=1131035) from [chessgames.com](http://www.chessgames.com/index.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Ilan's home page - Publications](http://www.lix.polytechnique.fr/Labo/Ilan.Vardi/publications.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Ilan Vardi](https://dblp.uni-trier.de/pers/hd/v/Vardi:Ilan.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Hafner–Sarnak–McCurley constant from Wikipedia](https://en.wikipedia.org/wiki/Hafner%E2%80%93Sarnak%E2%80%93McCurley_constant)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The Sand Reckoner from Wikipedia](https://en.wikipedia.org/wiki/The_Sand_Reckoner)
 
 **[Up one level](People "People")**
 

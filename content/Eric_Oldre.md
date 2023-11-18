@@ -60,12 +60,12 @@ released in 2014 as [NoraGrace](NoraGrace "NoraGrace"), dedicated to *Nora Grace
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ericoldre · GitHub](https://github.com/ericoldre)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eric Oldre | LinkedIn](https://www.linkedin.com/in/eric-oldre/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [advantages to board pointers](https://www.stmintz.com/ccc/index.php?id=369794) by Eric Oldre, [CCC](CCC "CCC"), June 10, 2004
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: new/updated engines: 2008/11/28-29](http://www.open-aurec.com/wbforum/viewtopic.php?p=187799&start=1#p187822) by Eric Oldre, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 01, 2008
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [trunk/Sinobyl | SVN | Assembla](https://www.assembla.com/code/sinobyl/subversion/nodes/129/trunk/Sinobyl)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [New open source engine in C# - NoraGrace](http://www.talkchess.com/forum/viewtopic.php?t=52700) by Eric Oldre, [CCC](CCC "CCC"), June 20, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ericoldre · GitHub](https://github.com/ericoldre)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eric Oldre | LinkedIn](https://www.linkedin.com/in/eric-oldre/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [advantages to board pointers](https://www.stmintz.com/ccc/index.php?id=369794) by Eric Oldre, [CCC](CCC "CCC"), June 10, 2004
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: new/updated engines: 2008/11/28-29](http://www.open-aurec.com/wbforum/viewtopic.php?p=187799&start=1#p187822) by Eric Oldre, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 01, 2008
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [trunk/Sinobyl | SVN | Assembla](https://www.assembla.com/code/sinobyl/subversion/nodes/129/trunk/Sinobyl)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [New open source engine in C# - NoraGrace](http://www.talkchess.com/forum/viewtopic.php?t=52700) by Eric Oldre, [CCC](CCC "CCC"), June 20, 2014
 
 **[Up one Level](People "People")**
 

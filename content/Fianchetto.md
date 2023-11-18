@@ -38,7 +38,7 @@ The regular fianchetto pattern considers the knight pawn on the third rank defen
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hypermodernism (chess) from Wikipedia](https://en.wikipedia.org/wiki/Hypermodernism_%28chess%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hypermodernism (chess) from Wikipedia](https://en.wikipedia.org/wiki/Hypermodernism_%28chess%29)
 
 **[Up one level](Evaluation_Patterns "Evaluation Patterns")**
 

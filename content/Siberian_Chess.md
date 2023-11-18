@@ -56,8 +56,8 @@ It was distributed by [Gambit-Soft](index.php?title=Gambit-Soft&action=edit&redl
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Microsoft Chess program](https://www.stmintz.com/ccc/index.php?id=38542) by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [CCC](CCC "CCC"), January 06, 1999
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Microsoft Chess program](https://www.stmintz.com/ccc/index.php?id=38542) by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [CCC](CCC "CCC"), January 06, 1999
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
 
 **[Up one Level](Engines "Engines")**
 

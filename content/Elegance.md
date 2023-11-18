@@ -38,8 +38,8 @@ Along with his "team" members [Elite](Elite "Elite") and [Private Line](Private_
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Elegance Chess Challenger](https://www.flickr.com/photos/10261668@N05/12265830263/in/album-72157600922170604/) from [Fidelity | Flickr](https://www.flickr.com/photos/10261668@N05/albums/72157600922170604) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Elegance's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=484)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Elegance Chess Challenger](https://www.flickr.com/photos/10261668@N05/12265830263/in/album-72157600922170604/) from [Fidelity | Flickr](https://www.flickr.com/photos/10261668@N05/albums/72157600922170604) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Elegance's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=484)
 
 **[Up one level](Engines "Engines")**
 

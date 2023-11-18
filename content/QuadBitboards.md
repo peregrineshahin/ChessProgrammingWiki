@@ -216,7 +216,7 @@ Now we can fill this quad-bitboard left and right wise (and for the other direct
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Quad-bitboards](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5859#p28389) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 12, 2006
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Quad-bitboards](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5859#p28389) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 12, 2006
 
 **[Up one Level](Bitboards "Bitboards")**
 

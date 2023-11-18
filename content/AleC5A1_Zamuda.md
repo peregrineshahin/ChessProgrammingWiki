@@ -43,13 +43,13 @@ As computer games programmer, Aleš is author of the [open source chess engine](
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aleš Zamuda - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/Ale%c5%a1_Zamuda)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/General_Information)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [International invention fair SIIF 2012 - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/International_invention_fair_SIIF_2012)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Aleš Zamuda (**2012**). *Differential Evolution for Parameterized Procedural Woody Plant Models Reconstruction*. Ph.D. thesis. Faculty of Electrical Engineering and Computer Science, [University of Maribor](University_of_Maribor "University of Maribor")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [QuTeChess | Free Science & Engineering software downloads at SourceForge.net](https://sourceforge.net/projects/qutechess/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Aleš Zamuda - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/Ale%c5%a1_Zamuda)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [DBLP: Ales Zamuda](https://dblp.uni-trier.de/pers/hd/z/Zamuda:Ales.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aleš Zamuda - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/Ale%c5%a1_Zamuda)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/General_Information)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [International invention fair SIIF 2012 - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/International_invention_fair_SIIF_2012)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Aleš Zamuda (**2012**). *Differential Evolution for Parameterized Procedural Woody Plant Models Reconstruction*. Ph.D. thesis. Faculty of Electrical Engineering and Computer Science, [University of Maribor](University_of_Maribor "University of Maribor")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [QuTeChess | Free Science & Engineering software downloads at SourceForge.net](https://sourceforge.net/projects/qutechess/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Aleš Zamuda - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/Ale%c5%a1_Zamuda)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [DBLP: Ales Zamuda](https://dblp.uni-trier.de/pers/hd/z/Zamuda:Ales.html)
 
 **[Up one level](People "People")**
 

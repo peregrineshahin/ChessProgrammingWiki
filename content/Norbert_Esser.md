@@ -24,10 +24,10 @@ a German chess player <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and former
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Clipped from [2e prijs: Ralf Dörr en Norbert Esser auteurs van Nexus](https://old.csvn.nl/pics2004/nexus02.jpg), [24th Open Dutch Computer Chess Championship 2004 - Photo Gallery](http://old.csvn.nl/gallery21.html), [DOCCC 2004](DOCCC_2004 "DOCCC 2004")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Esser, Norbert FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=4656326)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Schachgemeinschaft Hochneukirch 1955](https://schach.in/schachgemeinschaft-hochneukirch-1955/) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hochneukirch - Wikipedia.de](https://de.wikipedia.org/wiki/Hochneukirch) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Clipped from [2e prijs: Ralf Dörr en Norbert Esser auteurs van Nexus](https://old.csvn.nl/pics2004/nexus02.jpg), [24th Open Dutch Computer Chess Championship 2004 - Photo Gallery](http://old.csvn.nl/gallery21.html), [DOCCC 2004](DOCCC_2004 "DOCCC 2004")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Esser, Norbert FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=4656326)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Schachgemeinschaft Hochneukirch 1955](https://schach.in/schachgemeinschaft-hochneukirch-1955/) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hochneukirch - Wikipedia.de](https://de.wikipedia.org/wiki/Hochneukirch) (German)
 
 **[Up one level](People "People")**
 

@@ -31,11 +31,11 @@ and started chess programming at age 8. His program [Neptune](Neptune "Neptune")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Matt Craighead - LinkedIn](https://www.linkedin.com/in/mattcraighead/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Matt Craighead - LinkedIn](https://www.linkedin.com/in/mattcraighead/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Don Beal](Don_Beal "Don Beal") (**1993**). *[Report on the QMW 1993 Uniform-Platform Computer-Chess Championship](UPCCC_1993 "UPCCC 1993").* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [QMW computer chess](https://groups.google.com/g/rec.games.chess/c/USZ-JlNvqRI/m/Yn68mNr08xAJ) by [Don Beal](Don_Beal "Don Beal"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [quiescence search problems](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/a027ac0e2fb5892e) by Matt Craighead, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 01, 1995
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Matt Craighead - LinkedIn](https://www.linkedin.com/in/mattcraighead/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Matt Craighead - LinkedIn](https://www.linkedin.com/in/mattcraighead/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Don Beal](Don_Beal "Don Beal") (**1993**). *[Report on the QMW 1993 Uniform-Platform Computer-Chess Championship](UPCCC_1993 "UPCCC 1993").* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [QMW computer chess](https://groups.google.com/g/rec.games.chess/c/USZ-JlNvqRI/m/Yn68mNr08xAJ) by [Don Beal](Don_Beal "Don Beal"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [quiescence search problems](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/a027ac0e2fb5892e) by Matt Craighead, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 01, 1995
 
 **[Up one level](People "People")**
 

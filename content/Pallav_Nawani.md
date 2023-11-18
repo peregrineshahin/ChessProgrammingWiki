@@ -25,9 +25,9 @@ He is author of the [Chess Engine Communication Protocol](Chess_Engine_Communica
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pallav Nawani | LinkedIn](https://www.linkedin.com/in/pallavnawani/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ironcode Gaming Pvt. Ltd| LinkedIn](https://www.linkedin.com/company/ironcode-gaming-pvt-ltd/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pallav's Domain - Natwarlal](http://www.oocities.org/pallavnawani/chess-natwarlal.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pallav Nawani | LinkedIn](https://www.linkedin.com/in/pallavnawani/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ironcode Gaming Pvt. Ltd| LinkedIn](https://www.linkedin.com/company/ironcode-gaming-pvt-ltd/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pallav's Domain - Natwarlal](http://www.oocities.org/pallavnawani/chess-natwarlal.html)
 
 **[Up one level](People "People")**
 

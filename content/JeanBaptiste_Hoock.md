@@ -66,9 +66,9 @@ title: JeanBaptiste Hoock
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang"), [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), Jean-Baptiste Hoock, [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Shang-Rong Tsai](index.php?title=Shang-Rong_Tsai&action=edit&redlink=1 "Shang-Rong Tsai (page does not exist)"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [Tzung-Pei Hong](index.php?title=Tzung-Pei_Hong&action=edit&redlink=1 "Tzung-Pei Hong (page does not exist)") (**2009**). *[The Computational Intelligence of MoGo Revealed in Taiwan's Computer Go Tournaments](http://hal.inria.fr/inria-00369786/)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), [pdf](http://hal.inria.fr/docs/00/36/97/86/PDF/TCIAIG-2008-0010_Accepted_.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MoGo: a software for the Game of Go](http://www.lri.fr/~teytaud/mogo.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Jean-Baptiste Hoock](https://dblp.uni-trier.de/pers/hd/h/Hoock:Jean=Baptiste.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang"), [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), Jean-Baptiste Hoock, [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Shang-Rong Tsai](index.php?title=Shang-Rong_Tsai&action=edit&redlink=1 "Shang-Rong Tsai (page does not exist)"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [Tzung-Pei Hong](index.php?title=Tzung-Pei_Hong&action=edit&redlink=1 "Tzung-Pei Hong (page does not exist)") (**2009**). *[The Computational Intelligence of MoGo Revealed in Taiwan's Computer Go Tournaments](http://hal.inria.fr/inria-00369786/)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), [pdf](http://hal.inria.fr/docs/00/36/97/86/PDF/TCIAIG-2008-0010_Accepted_.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MoGo: a software for the Game of Go](http://www.lri.fr/~teytaud/mogo.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Jean-Baptiste Hoock](https://dblp.uni-trier.de/pers/hd/h/Hoock:Jean=Baptiste.html)
 
 **[Up one level](People "People")**
 

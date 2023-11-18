@@ -64,14 +64,14 @@ an Italian computer scientist and professor at department of computer science, [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nicolò Cesa-Bianchi - Google Scholar Citations](https://scholar.google.com/citations?user=BWADJUkAAAAJ&hl=en)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Nicolò Cesa-Bianchi, [Gábor Lugosi](G%C3%A1bor_Lugosi "Gábor Lugosi") (**2006**). *[Prediction, Learning, and Games](http://homes.di.unimi.it/cesa-bianchi/predbook/)*. [Cambridge University Press](https://en.wikipedia.org/wiki/Cambridge_University_Press)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nicolò Cesa-Bianchi - Google Scholar Citations](https://scholar.google.com/citations?user=BWADJUkAAAAJ&hl=en)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Nicolò Cesa-Bianchi, [Gábor Lugosi](G%C3%A1bor_Lugosi "Gábor Lugosi") (**2006**). *[Prediction, Learning, and Games](http://homes.di.unimi.it/cesa-bianchi/predbook/)*. [Cambridge University Press](https://en.wikipedia.org/wiki/Cambridge_University_Press)
 "...beware of mathematicians, and all those who make empty prophecies. The danger already exists that the mathematicians have made a covenant with the devil to darken the spirit and to confine man in the bonds of Hell". [St. Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo), [De Genesi ad Litteram libri duodecim. Liber Secundus, 17, 37.](http://www.augustinus.it/latino/genesi_lettera/genesi_lettera_02.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Multi-armed bandit from Wikipedia](https://en.wikipedia.org/wiki/Multi-armed_bandit)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Peter Auer](Peter_Auer "Peter Auer"), Nicolò Cesa-Bianchi, [Paul Fischer](Paul_Fischer "Paul Fischer") (**2002**). *[Finite-time Analysis of the Multiarmed Bandit Problem](http://link.springer.com/article/10.1023%2FA%3A1013689704352)*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_%28journal%29), Vol. 47, No. 2, [pdf](http://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2006**). *[Bandit based Monte-Carlo Planning](http://www.computer-go.info/resources/bandit.html)* ECML-06, LNCS/LNAI 4212, [pdf](http://www.sztaki.hu/%7Eszcsaba/papers/ecml06.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Nicolò Cesa-Bianchi](http://dblp.uni-trier.de/pers/hd/c/Cesa=Bianchi:Nicol=ograve=)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Nicolò Cesa-Bianchi - Selected papers:](http://homes.di.unimi.it/cesa-bianchi/papers.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Multi-armed bandit from Wikipedia](https://en.wikipedia.org/wiki/Multi-armed_bandit)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Peter Auer](Peter_Auer "Peter Auer"), Nicolò Cesa-Bianchi, [Paul Fischer](Paul_Fischer "Paul Fischer") (**2002**). *[Finite-time Analysis of the Multiarmed Bandit Problem](http://link.springer.com/article/10.1023%2FA%3A1013689704352)*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_%28journal%29), Vol. 47, No. 2, [pdf](http://homes.di.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Csaba Szepesvári](Csaba_Szepesv%C3%A1ri "Csaba Szepesvári") (**2006**). *[Bandit based Monte-Carlo Planning](http://www.computer-go.info/resources/bandit.html)* ECML-06, LNCS/LNAI 4212, [pdf](http://www.sztaki.hu/%7Eszcsaba/papers/ecml06.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Nicolò Cesa-Bianchi](http://dblp.uni-trier.de/pers/hd/c/Cesa=Bianchi:Nicol=ograve=)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Nicolò Cesa-Bianchi - Selected papers:](http://homes.di.unimi.it/cesa-bianchi/papers.html)
 
 **[Up one Level](People "People")**
 

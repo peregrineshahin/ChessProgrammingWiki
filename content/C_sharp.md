@@ -67,8 +67,8 @@ C# Chief Architect is [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_He
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Behind the Code with [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg), by Barbara Fox, © 2005 [Microsoft](Microsoft "Microsoft"), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Behind the scenes of the C# yield keyword](http://startbigthinksmall.wordpress.com/2008/06/09/behind-the-scenes-of-the-c-yield-keyword/) by [Lars Corneliussen](http://startbigthinksmall.wordpress.com/author/larscorneliussen/), June 9, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Behind the Code with [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg), by Barbara Fox, © 2005 [Microsoft](Microsoft "Microsoft"), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Behind the scenes of the C# yield keyword](http://startbigthinksmall.wordpress.com/2008/06/09/behind-the-scenes-of-the-c-yield-keyword/) by [Lars Corneliussen](http://startbigthinksmall.wordpress.com/author/larscorneliussen/), June 9, 2008
 
 **[Up one Level](Languages "Languages")**
 

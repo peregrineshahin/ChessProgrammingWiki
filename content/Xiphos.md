@@ -128,14 +128,14 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Graphic of [Bronze Age swords](https://en.wikipedia.org/wiki/Bronze_Age_sword), [Xiphos](https://en.wikipedia.org/wiki/Xiphos) (fig. 1-3 left) and [Makhaira](https://en.wikipedia.org/wiki/Makhaira) (fig. 4), Image from the 4th edition of [Meyers Konversationslexikon](https://en.wikipedia.org/wiki/Meyers_Konversations-Lexikon) (1885–90), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [xiphos/game.h at master · milostatarevic/xiphos · GitHub](https://github.com/milostatarevic/xiphos/blob/master/src/game.h)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New engine: Xiphos](http://www.talkchess.com/forum/viewtopic.php?t=66709) by [Milos Tatarevic](Milos_Tatarevic "Milos Tatarevic"), [CCC](CCC "CCC"), February 28, 2018
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [“Deep Thinking” | Kasparov](http://www.kasparov.com/deep-thinking-ai/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Garry Kasparov](Garry_Kasparov "Garry Kasparov") (**2017**). *Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins*. with contributions by [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)"), [amazon.com](https://www.amazon.com/Deep-Thinking-Machine-Intelligence-Creativity/dp/161039786X/ref=sr_1_3?ie=UTF8&qid=1487863915&sr=8-3&keywords=kasparov)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [xiphos/README.md at master · milostatarevic/xiphos · GitHub](https://github.com/milostatarevic/xiphos/blob/master/README.md)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [xiphos/search.c at master · milostatarevic/xiphos · GitHub](https://github.com/milostatarevic/xiphos/blob/master/src/search.c)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [xiphos/eval.c at master · milostatarevic/xiphos · GitHub](https://github.com/milostatarevic/xiphos/blob/master/src/eval.c)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Graphic of [Bronze Age swords](https://en.wikipedia.org/wiki/Bronze_Age_sword), [Xiphos](https://en.wikipedia.org/wiki/Xiphos) (fig. 1-3 left) and [Makhaira](https://en.wikipedia.org/wiki/Makhaira) (fig. 4), Image from the 4th edition of [Meyers Konversationslexikon](https://en.wikipedia.org/wiki/Meyers_Konversations-Lexikon) (1885–90), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [xiphos/game.h at master · milostatarevic/xiphos · GitHub](https://github.com/milostatarevic/xiphos/blob/master/src/game.h)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New engine: Xiphos](http://www.talkchess.com/forum/viewtopic.php?t=66709) by [Milos Tatarevic](Milos_Tatarevic "Milos Tatarevic"), [CCC](CCC "CCC"), February 28, 2018
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [“Deep Thinking” | Kasparov](http://www.kasparov.com/deep-thinking-ai/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Garry Kasparov](Garry_Kasparov "Garry Kasparov") (**2017**). *Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins*. with contributions by [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)"), [amazon.com](https://www.amazon.com/Deep-Thinking-Machine-Intelligence-Creativity/dp/161039786X/ref=sr_1_3?ie=UTF8&qid=1487863915&sr=8-3&keywords=kasparov)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [xiphos/README.md at master · milostatarevic/xiphos · GitHub](https://github.com/milostatarevic/xiphos/blob/master/README.md)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [xiphos/search.c at master · milostatarevic/xiphos · GitHub](https://github.com/milostatarevic/xiphos/blob/master/src/search.c)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [xiphos/eval.c at master · milostatarevic/xiphos · GitHub](https://github.com/milostatarevic/xiphos/blob/master/src/eval.c)
 
 **[Up one Level](Engines "Engines")**
 

@@ -55,14 +55,14 @@ He was affiliated with [BioWare](https://en.wikipedia.org/wiki/BioWare) developi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mark Brockington | LinkedIn](https://www.linkedin.com/in/mark-brockington-679299105/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mark Brockington - Poker Player Profile](http://www.pokerpages.com/players/profiles/114736/mark-brockington.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Mark Brockington (**1998**). *Asynchronous Parallel Game-Tree Search*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [APHID Parallel Game-Tree Search Library](http://webdocs.cs.ualberta.ca/~games/aphid/index.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Mark Brockington](http://www.mobygames.com/developer/sheet/view/developerId,6538/) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Mark Brockington | LinkedIn](https://www.linkedin.com/in/mark-brockington-679299105/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Mark G. Brockington](https://dblp.uni-trier.de/pers/hd/b/Brockington:Mark_G=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mark Brockington | LinkedIn](https://www.linkedin.com/in/mark-brockington-679299105/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mark Brockington - Poker Player Profile](http://www.pokerpages.com/players/profiles/114736/mark-brockington.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Mark Brockington (**1998**). *Asynchronous Parallel Game-Tree Search*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [APHID Parallel Game-Tree Search Library](http://webdocs.cs.ualberta.ca/~games/aphid/index.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mark Brockington](http://www.mobygames.com/developer/sheet/view/developerId,6538/) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mark Brockington | LinkedIn](https://www.linkedin.com/in/mark-brockington-679299105/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Mark G. Brockington](https://dblp.uni-trier.de/pers/hd/b/Brockington:Mark_G=)
 
 **[Up one level](People "People")**
 

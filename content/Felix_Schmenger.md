@@ -16,8 +16,8 @@ a German chess player <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and as com
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Schmenger, Felix FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=4627270)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Schmenger, Felix FIDE Chess Profile](https://ratings.fide.com/card.phtml?event=4627270)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Private Engine List](http://computer-chess.org/doku.php?id=computer_chess:wiki:lists:private_engine_list) from [Ron Murawski's](Ron_Murawski "Ron Murawski") [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home)
 
 **[Up one level](People "People")**
 

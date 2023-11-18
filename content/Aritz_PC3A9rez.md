@@ -45,15 +45,15 @@ concerning how using stronger chess programs, searching more [deeply](Depth "Dep
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [Aritz Pérez - Home Page](http://www.sc.ehu.es/ccwbayes/members/aritz/aritz_semiold.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Aritz Pérez - Home Page](http://www.sc.ehu.es/ccwbayes/members/aritz/aritz_semiold.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Matej Guid](Matej_Guid "Matej Guid"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2006**). *Computer Analysis of World Chess Champions*. [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computers choose: who was the strongest player?](https://en.chessbase.com/post/computers-choose-who-was-the-strongest-player-), [ChessBase News](ChessBase "ChessBase"), October 30, 2006
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Computer analysis of world champions](https://en.chessbase.com/post/computer-analysis-of-world-champions) by [Søren Riis](S%C3%B8ren_Riis "Søren Riis"), [ChessBase News](ChessBase "ChessBase"), November 02, 2006
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Jean-Marc Alliot - Who is the Master?](Jean-Marc_Alliot#WhoistheMaster "Jean-Marc Alliot")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Matej Guid](Matej_Guid "Matej Guid"), Aritz Pérez, [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2008**). *How trustworthy is Crafty's analysis of world chess champions*? [ICGA Journal, Vol. 31, No. 3](ICGA_Journal#31_3 "ICGA Journal")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Aritz Pérez Martínez](https://dblp.uni-trier.de/pid/p/AritzPerezMartinez.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [Aritz Pérez - Home Page](http://www.sc.ehu.es/ccwbayes/members/aritz/aritz_semiold.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Aritz Pérez - Home Page](http://www.sc.ehu.es/ccwbayes/members/aritz/aritz_semiold.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Matej Guid](Matej_Guid "Matej Guid"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2006**). *Computer Analysis of World Chess Champions*. [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computers choose: who was the strongest player?](https://en.chessbase.com/post/computers-choose-who-was-the-strongest-player-), [ChessBase News](ChessBase "ChessBase"), October 30, 2006
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Computer analysis of world champions](https://en.chessbase.com/post/computer-analysis-of-world-champions) by [Søren Riis](S%C3%B8ren_Riis "Søren Riis"), [ChessBase News](ChessBase "ChessBase"), November 02, 2006
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Jean-Marc Alliot - Who is the Master?](Jean-Marc_Alliot#WhoistheMaster "Jean-Marc Alliot")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Matej Guid](Matej_Guid "Matej Guid"), Aritz Pérez, [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2008**). *How trustworthy is Crafty's analysis of world chess champions*? [ICGA Journal, Vol. 31, No. 3](ICGA_Journal#31_3 "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Aritz Pérez Martínez](https://dblp.uni-trier.de/pid/p/AritzPerezMartinez.html)
 
 **[Up one level](People "People")**
 

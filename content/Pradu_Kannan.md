@@ -73,15 +73,15 @@ title: Pradu Kannan
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pradu's Home Page](http://pradu.us/home/), [Niagra Falls](https://en.wikipedia.org/wiki/Niagara_Falls), [Maid of the Mist](https://en.wikipedia.org/wiki/Maid_of_the_Mist)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Buzz - A Winboard Chess Playing Program by Pradu Kannan](http://www.pradu.us/old/Nov27_2008/Buzz/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Witz Homepage](http://witz.sf.net/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dirty Chess Engine](http://www.dirtychess.com/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Fast(er) bitboard move generator](http://www.open-aurec.com/wbforum/viewtopic.php?t=5015) by [Lasse Hansen](Lasse_Hansen "Lasse Hansen"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 14, 2006
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Fastest Magic Move Bitboard Generator ready to use](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5452) by Pradu Kannan, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 25, 2006
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> Pradyumna Kannan (**2007**). *Magic Move-Bitboard Generation in Computer Chess*. [pdf](http://www.pradu.us/old/Nov27_2008/Buzz/research/magic/Bitboards.pdf)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Bob implementing Magics? No, that already happened in 2006, [Re: Fastest Magic Move Bitboard Generator ready to use](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5452&start=56) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 09, 2006
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [The 2008 Third Annual ACCA Americas' Computer Chess Chamionships Site Pics](http://aigames.net/ACCA/ACCAChampionships/ACCA2008Championships/SitePics.html) from [UAB](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pradu's Home Page](http://pradu.us/home/), [Niagra Falls](https://en.wikipedia.org/wiki/Niagara_Falls), [Maid of the Mist](https://en.wikipedia.org/wiki/Maid_of_the_Mist)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Buzz - A Winboard Chess Playing Program by Pradu Kannan](http://www.pradu.us/old/Nov27_2008/Buzz/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Witz Homepage](http://witz.sf.net/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dirty Chess Engine](http://www.dirtychess.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fast(er) bitboard move generator](http://www.open-aurec.com/wbforum/viewtopic.php?t=5015) by [Lasse Hansen](Lasse_Hansen "Lasse Hansen"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 14, 2006
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fastest Magic Move Bitboard Generator ready to use](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5452) by Pradu Kannan, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 25, 2006
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Pradyumna Kannan (**2007**). *Magic Move-Bitboard Generation in Computer Chess*. [pdf](http://www.pradu.us/old/Nov27_2008/Buzz/research/magic/Bitboards.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Bob implementing Magics? No, that already happened in 2006, [Re: Fastest Magic Move Bitboard Generator ready to use](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5452&start=56) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 09, 2006
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The 2008 Third Annual ACCA Americas' Computer Chess Chamionships Site Pics](http://aigames.net/ACCA/ACCAChampionships/ACCA2008Championships/SitePics.html) from [UAB](University_of_Alabama_at_Birmingham "University of Alabama at Birmingham")
 
 **[Up one level](People "People")**
 

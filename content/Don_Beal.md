@@ -122,21 +122,21 @@ and the [Lines of Action](Lines_of_Action "Lines of Action") program:
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [School of Electronic Engineering and Computer Science - Honorary, Retired and Visiting Staff](http://www.eecs.qmul.ac.uk/staff/people2.php?t=emeritus)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Don Beal (**1999**). *The Nature of MINIMAX Search*. Ph.D. thesis
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2000**). *[From Cognition to Perception](http://ilk.uvt.nl/icga/journal/contents/content23-4.htm#FROM%20COGNITION)*. [ICGA Journal, Vol. 23, No. 4](ICGA_Journal#23_4 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [QMW "Uniform Platform" Computer-Chess Tournament](http://old.csvn.nl/uni_hist.html) from the old [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Image by [Tony Harrington](Tony_Harrington "Tony Harrington"), from: [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Alphabetical Chess*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [June 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html), [pdf](http://www.chesscomputeruk.com/PCW_June_1983.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe3f6f0) Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Don Beal's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=35)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Donald F. Beal](https://dblp.uni-trier.de/pers/hd/b/Beal:Donald_F=.html)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Don Beal's Publications](http://www.dcs.qmul.ac.uk/staff/publist.php?d=don)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [QMW computer chess](http://groups.google.com/group/rec.games.chess/browse_frm/thread/51267e26536fa912) by Don Beal, [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Generating egtbs ICGAJ](https://www.stmintz.com/ccc/index.php?id=200335) by [Tony Werten](Tony_van_Roon-Werten "Tony van Roon-Werten"), [CCC](CCC "CCC"), December 04, 2001, with reference to [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by [Urban Koistinen](Urban_Koistinen "Urban Koistinen")
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Wu / Beal retrograde analisys algorithm](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6302&p=29956) by [Alvaro Jose Povoa Cardoso](Alvaro_Cardoso "Alvaro Cardoso"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 10, 2007
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> courtesy of Don Beal and [Carey Bloodworth](Carey_Bloodworth "Carey Bloodworth"), [Re: Antique chess programs](http://www.talkchess.com/forum/viewtopic.php?t=58603&start=13) by [Carey](Carey_Bloodworth "Carey Bloodworth"), [CCC](CCC "CCC"), December 16, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [School of Electronic Engineering and Computer Science - Honorary, Retired and Visiting Staff](http://www.eecs.qmul.ac.uk/staff/people2.php?t=emeritus)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Don Beal (**1999**). *The Nature of MINIMAX Search*. Ph.D. thesis
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2000**). *[From Cognition to Perception](http://ilk.uvt.nl/icga/journal/contents/content23-4.htm#FROM%20COGNITION)*. [ICGA Journal, Vol. 23, No. 4](ICGA_Journal#23_4 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [QMW "Uniform Platform" Computer-Chess Tournament](http://old.csvn.nl/uni_hist.html) from the old [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Image by [Tony Harrington](Tony_Harrington "Tony Harrington"), from: [Tony Harrington](Tony_Harrington "Tony Harrington") (**1983**). *Alphabetical Chess*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), [June 1983](http://www.chesscomputeruk.com/html/publication_archive_1983.html), [pdf](http://www.chesscomputeruk.com/PCW_June_1983.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Photo](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe3f6f0) Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Don Beal's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=35)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Donald F. Beal](https://dblp.uni-trier.de/pers/hd/b/Beal:Donald_F=.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Don Beal's Publications](http://www.dcs.qmul.ac.uk/staff/publist.php?d=don)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [QMW computer chess](http://groups.google.com/group/rec.games.chess/browse_frm/thread/51267e26536fa912) by Don Beal, [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), August 19, 1993
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Generating egtbs ICGAJ](https://www.stmintz.com/ccc/index.php?id=200335) by [Tony Werten](Tony_van_Roon-Werten "Tony van Roon-Werten"), [CCC](CCC "CCC"), December 04, 2001, with reference to [Computing endgames with few men](http://www.abc.se/~m10051/eg.txt) by [Urban Koistinen](Urban_Koistinen "Urban Koistinen")
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Wu / Beal retrograde analisys algorithm](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6302&p=29956) by [Alvaro Jose Povoa Cardoso](Alvaro_Cardoso "Alvaro Cardoso"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 10, 2007
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> courtesy of Don Beal and [Carey Bloodworth](Carey_Bloodworth "Carey Bloodworth"), [Re: Antique chess programs](http://www.talkchess.com/forum/viewtopic.php?t=58603&start=13) by [Carey](Carey_Bloodworth "Carey Bloodworth"), [CCC](CCC "CCC"), December 16, 2015
 
 **[Up one level](People "People")**
 

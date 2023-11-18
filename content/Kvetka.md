@@ -32,9 +32,9 @@ Kvetka is bundled with [Stockfish](Stockfish "Stockfish") as default engine.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Free Chess Program "Kvetka" | Home](http://kvetka.org/en/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [D\_Badziahin - USyd Maths & Stats](https://www.maths.usyd.edu.au/ut/people?who=D_Badziahin&sms=y)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Kvetka 1.0 beta...](http://www.talkchess.com/forum/viewtopic.php?t=20257) by [Dr.Wael Deeb](index.php?title=Dr.Wael_Deeb&action=edit&redlink=1 "Dr.Wael Deeb (page does not exist)"), [CCC](CCC "CCC"), March 20, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Free Chess Program "Kvetka" | Home](http://kvetka.org/en/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [D\_Badziahin - USyd Maths & Stats](https://www.maths.usyd.edu.au/ut/people?who=D_Badziahin&sms=y)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kvetka 1.0 beta...](http://www.talkchess.com/forum/viewtopic.php?t=20257) by [Dr.Wael Deeb](index.php?title=Dr.Wael_Deeb&action=edit&redlink=1 "Dr.Wael Deeb (page does not exist)"), [CCC](CCC "CCC"), March 20, 2008
 
 **[Up one Level](Utilities "Utilities")**
 

@@ -53,10 +53,10 @@ and of *chessNet* to connect chess engines to an UCI compatible [GUI](GUI "GUI")
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [nionita (Nicu Ionita) · GitHub](https://github.com/nionita)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Abulafia, chess, Haskell and some (new?) ideas](http://www.talkchess.com/forum/viewtopic.php?t=43384) by Nicu Ionita, [CCC](CCC "CCC"), April 20, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Barbarossa 0.1.0](http://www.talkchess.com/forum/viewtopic.php?t=50213) by Nicu Ionita, [CCC](CCC "CCC"), November 24, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [nionita/chessNet · GitHub](https://github.com/nionita/chessNet)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [nionita (Nicu Ionita) · GitHub](https://github.com/nionita)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Abulafia, chess, Haskell and some (new?) ideas](http://www.talkchess.com/forum/viewtopic.php?t=43384) by Nicu Ionita, [CCC](CCC "CCC"), April 20, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Barbarossa 0.1.0](http://www.talkchess.com/forum/viewtopic.php?t=50213) by Nicu Ionita, [CCC](CCC "CCC"), November 24, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [nionita/chessNet · GitHub](https://github.com/nionita/chessNet)
 
 **[Up one level](People "People")**
 

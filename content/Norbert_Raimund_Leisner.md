@@ -58,7 +58,7 @@ and is frequent poster in [Computer Chess Forums](Computer_Chess_Forums "Compute
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer-Chess Wiki Forum - Update Information: November 15, 2016](http://computer-chess.org/forum/index.php?mode=thread&id=3162)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer-Chess Wiki Forum - Update Information: November 15, 2016](http://computer-chess.org/forum/index.php?mode=thread&id=3162)
 
 **[Up one level](People "People")**
 

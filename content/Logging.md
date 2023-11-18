@@ -86,11 +86,11 @@ the recording of events taking place in the execution of a system or [program](i
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Timo Haupt](Timo_Haupt "Timo Haupt") watches [GridGinkgo's](GridGinkgo "GridGinkgo") colored logging screen at the [WCCC 2016](WCCC_2016 "WCCC 2016") versus [Komodo](Komodo "Komodo") in Round 6
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Logfile from Wikipedia](https://en.wikipedia.org/wiki/Logfile)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Symbolic: I/O handling and sample logfile](http://www.talkchess.com/forum/viewtopic.php?t=48959) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), August 14, 2013
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [add (smart) logging facility · eb28a68 · mcostalba/Stockfish · GitHub](https://github.com/mcostalba/Stockfish/commit/eb28a683bd5a15be4a59c1e14b45b2c80cf7bf2c)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Apache Software Foundation from Wikipedia](https://en.wikipedia.org/wiki/Apache_Software_Foundation)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Timo Haupt](Timo_Haupt "Timo Haupt") watches [GridGinkgo's](GridGinkgo "GridGinkgo") colored logging screen at the [WCCC 2016](WCCC_2016 "WCCC 2016") versus [Komodo](Komodo "Komodo") in Round 6
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Logfile from Wikipedia](https://en.wikipedia.org/wiki/Logfile)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Symbolic: I/O handling and sample logfile](http://www.talkchess.com/forum/viewtopic.php?t=48959) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), August 14, 2013
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [add (smart) logging facility · eb28a68 · mcostalba/Stockfish · GitHub](https://github.com/mcostalba/Stockfish/commit/eb28a683bd5a15be4a59c1e14b45b2c80cf7bf2c)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Apache Software Foundation from Wikipedia](https://en.wikipedia.org/wiki/Apache_Software_Foundation)
 
 **[Up one Level](Programming "Programming")**
 

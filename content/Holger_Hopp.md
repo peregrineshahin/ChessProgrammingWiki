@@ -23,9 +23,9 @@ a German computer scientist who defended his diploma thesis in 1995 under [Peter
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Peter Sanders - Publications](http://algo2.iti.kit.edu/sanders/papers/index.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [KIT - IPD Tichy -Mitarbeiter - Vorhersagen des Cache-Verhaltens für optimierende Übersetzer](https://ps.ipd.kit.edu/176_775.php)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Holger Hopp](https://dblp.uni-trier.de/pers/hd/h/Hopp:Holger.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Peter Sanders - Publications](http://algo2.iti.kit.edu/sanders/papers/index.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [KIT - IPD Tichy -Mitarbeiter - Vorhersagen des Cache-Verhaltens für optimierende Übersetzer](https://ps.ipd.kit.edu/176_775.php)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Holger Hopp](https://dblp.uni-trier.de/pers/hd/h/Hopp:Holger.html)
 
 **[Up one level](People "People")**
 

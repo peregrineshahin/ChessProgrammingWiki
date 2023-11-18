@@ -43,16 +43,16 @@ Artem Petakov holds a Bachelor of Art from [Princeton University](https://en.wik
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Artem Petakov | LinkedIn](https://www.linkedin.com/pub/artem-petakov/b/a62/745)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About | Noom Inc.](https://us.noom.com/about/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Artem Petakov, CTO of WorkSmart Labs drops by the studio to demo his app, Cardio Trainer](https://www.youtube.com/watch?v=TfE_hBVlEFM), with [Ashley Esqueda](https://plus.google.com/+AshleyEsqueda/about), May 2010, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Noom](https://www.crunchbase.com/organization/noom) | [CrunchBase](https://en.wikipedia.org/wiki/TechCrunch#CrunchBase)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Artem Petakov | LinkedIn](https://www.linkedin.com/pub/artem-petakov/b/a62/745)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Artem Petakov | LinkedIn](https://www.linkedin.com/pub/artem-petakov/b/a62/745)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Finger golch](http://www6.chessclub.com/finger/golch) at [Internet Chess Club](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Artificial Intelligence in Computer Chess](https://www.stmintz.com/ccc/index.php?id=357095) by Artem Pyatakov, [CCC](CCC "CCC"), March 28, 2004
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Princeton - Independent Project Presentation Schedule](http://www.cs.princeton.edu/~rywang/03fIND/iw_sched.html)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [dblp: Artem Pyatakov](https://dblp.uni-trier.de/pers/hd/p/Pyatakov:Artem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Artem Petakov | LinkedIn](https://www.linkedin.com/pub/artem-petakov/b/a62/745)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About | Noom Inc.](https://us.noom.com/about/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Artem Petakov, CTO of WorkSmart Labs drops by the studio to demo his app, Cardio Trainer](https://www.youtube.com/watch?v=TfE_hBVlEFM), with [Ashley Esqueda](https://plus.google.com/+AshleyEsqueda/about), May 2010, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Noom](https://www.crunchbase.com/organization/noom) | [CrunchBase](https://en.wikipedia.org/wiki/TechCrunch#CrunchBase)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Artem Petakov | LinkedIn](https://www.linkedin.com/pub/artem-petakov/b/a62/745)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Artem Petakov | LinkedIn](https://www.linkedin.com/pub/artem-petakov/b/a62/745)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Finger golch](http://www6.chessclub.com/finger/golch) at [Internet Chess Club](index.php?title=Internet_Chess_Club&action=edit&redlink=1 "Internet Chess Club (page does not exist)")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Artificial Intelligence in Computer Chess](https://www.stmintz.com/ccc/index.php?id=357095) by Artem Pyatakov, [CCC](CCC "CCC"), March 28, 2004
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Princeton - Independent Project Presentation Schedule](http://www.cs.princeton.edu/~rywang/03fIND/iw_sched.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Artem Pyatakov](https://dblp.uni-trier.de/pers/hd/p/Pyatakov:Artem)
 
 **[Up one Level](People "People")**
 

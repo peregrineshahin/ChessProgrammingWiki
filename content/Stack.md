@@ -224,12 +224,12 @@ In computer game programming, a stack of [nodes](Node "Node") is also the approp
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stapelspeicher - Wikipedia.de](https://de.wikipedia.org/wiki/Stapelspeicher) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [x86 calling conventions from Wikipedia](https://en.wikipedia.org/wiki/X86_calling_conventions)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Calling conventions for different C++ compilers and operating systems](http://www.agner.org/optimize/calling_conventions.pdf) (pdf) by [Agner Fog](http://www.agner.org/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [x86 Disassembly/Functions and Stack Frames from Wikibooks](http://en.wikibooks.org/wiki/X86_Disassembly/Functions_and_Stack_Frames)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Arthur W. Burks](Mathematician#Burks "Mathematician"), Don W. Warren, Jesse B. Wright (**1954**) *[An Analysis of a Logical Machine Using Parenthesis-Free Notation](http://www.jstor.org/pss/2001990)*.
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Klaus Samelson](Mathematician#Samelson "Mathematician"), [Friedrich L. Bauer](Mathematician#Bauer "Mathematician") (**1960**). *[Sequential Formula Translation](http://portal.acm.org/citation.cfm?id=366968)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 3 No. 2, pp. 76-83
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stapelspeicher - Wikipedia.de](https://de.wikipedia.org/wiki/Stapelspeicher) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [x86 calling conventions from Wikipedia](https://en.wikipedia.org/wiki/X86_calling_conventions)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Calling conventions for different C++ compilers and operating systems](http://www.agner.org/optimize/calling_conventions.pdf) (pdf) by [Agner Fog](http://www.agner.org/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [x86 Disassembly/Functions and Stack Frames from Wikibooks](http://en.wikibooks.org/wiki/X86_Disassembly/Functions_and_Stack_Frames)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Arthur W. Burks](Mathematician#Burks "Mathematician"), Don W. Warren, Jesse B. Wright (**1954**) *[An Analysis of a Logical Machine Using Parenthesis-Free Notation](http://www.jstor.org/pss/2001990)*.
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Klaus Samelson](Mathematician#Samelson "Mathematician"), [Friedrich L. Bauer](Mathematician#Bauer "Mathematician") (**1960**). *[Sequential Formula Translation](http://portal.acm.org/citation.cfm?id=366968)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 3 No. 2, pp. 76-83
 
 **[Up one Level](Data "Data")**
 

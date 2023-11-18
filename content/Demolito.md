@@ -95,11 +95,11 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [High Reach Demolition Excavator](https://en.wikipedia.org/wiki/Long_reach_excavator) - Hydraulic demolition scissors on chassis CAT 365B L. Arm is 30 m long, [Image](https://commons.wikimedia.org/wiki/File:Hydraulicke_demolicni_nuzky_na_podvozku_CAT_330.jpg) by [Michal Maňas](https://commons.wikimedia.org/wiki/User:Snek01), June 21, 2006, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New UCI Engine: Demolito](http://www.open-chess.org/viewtopic.php?f=7&t=3069) by lucasart, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 14, 2017
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New DiscoCheck is cooking](http://www.talkchess.com/forum/viewtopic.php?t=64173) by Lucas Braesch, [CCC](CCC "CCC"), June 04, 2017
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Demolito/types.h at master · lucasart/Demolito · GitHub](https://github.com/lucasart/Demolito/blob/master/src/types.h)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Demolito/recurse.h at master · lucasart/Demolito · GitHub](https://github.com/lucasart/Demolito/blob/master/src/recurse.h)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [High Reach Demolition Excavator](https://en.wikipedia.org/wiki/Long_reach_excavator) - Hydraulic demolition scissors on chassis CAT 365B L. Arm is 30 m long, [Image](https://commons.wikimedia.org/wiki/File:Hydraulicke_demolicni_nuzky_na_podvozku_CAT_330.jpg) by [Michal Maňas](https://commons.wikimedia.org/wiki/User:Snek01), June 21, 2006, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New UCI Engine: Demolito](http://www.open-chess.org/viewtopic.php?f=7&t=3069) by lucasart, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 14, 2017
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New DiscoCheck is cooking](http://www.talkchess.com/forum/viewtopic.php?t=64173) by Lucas Braesch, [CCC](CCC "CCC"), June 04, 2017
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Demolito/types.h at master · lucasart/Demolito · GitHub](https://github.com/lucasart/Demolito/blob/master/src/types.h)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Demolito/recurse.h at master · lucasart/Demolito · GitHub](https://github.com/lucasart/Demolito/blob/master/src/recurse.h)
 
 **[Up one Level](Engines "Engines")**
 

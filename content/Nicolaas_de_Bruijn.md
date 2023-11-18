@@ -48,12 +48,12 @@ According to De Bruijn himself <a id="cite-note-5" href="#cite-ref-5">[5]</a>, t
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Nicolaas Govert de Bruijn - biography](http://turnbull.mcs.st-and.ac.uk/%7Ehistory/Biographies/De_Bruijn.html) © July 2008 by [J J O'Connor](http://www-maths.mcs.st-andrews.ac.uk/pictdisplay/JOC.html) and [E F Robertson](http://www-history.mcs.st-and.ac.uk/%7Eedmund/) School of Mathematics and Statistics, [University of St Andrews](https://en.wikipedia.org/wiki/University_of_St_Andrews), Scotland
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Process Algebra Diary: Nicolaas Govert de Bruijn (1918-2012)](http://processalgebra.blogspot.de/2012/02/nicolaas-govert-de-bruijn-1918-2012.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [De Bruijn sequence from Wikipedia](https://en.wikipedia.org/wiki/De_Bruijn_sequence)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson"), [Harald Prokop](Harald_Prokop "Harald Prokop"), [Keith H. Randall](Keith_H._Randall "Keith H. Randall") (**1998**). *Using de Bruijn Sequences to Index a 1 in a Computer Word*. [pdf](http://supertech.csail.mit.edu/papers/debruijn.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Nicolaas de Bruijn (**1975**). *Acknowledgement of priority to C. Flye Sainte-Marie on the counting of circular arrangements of 2n zeros and ones that show each n-letter word exactly once*. Technical Report, Technische Hogeschool Eindhoven, [pdf](http://alexandria.tue.nl/repository/books/252901.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Nicolaas de Bruijn (**1985**). *In Memoriam T. van Ardenne-Ehrenfest*. [pdf](http://alexandria.tue.nl/repository/freearticles/597575.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nicolaas Govert de Bruijn - biography](http://turnbull.mcs.st-and.ac.uk/%7Ehistory/Biographies/De_Bruijn.html) © July 2008 by [J J O'Connor](http://www-maths.mcs.st-andrews.ac.uk/pictdisplay/JOC.html) and [E F Robertson](http://www-history.mcs.st-and.ac.uk/%7Eedmund/) School of Mathematics and Statistics, [University of St Andrews](https://en.wikipedia.org/wiki/University_of_St_Andrews), Scotland
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Process Algebra Diary: Nicolaas Govert de Bruijn (1918-2012)](http://processalgebra.blogspot.de/2012/02/nicolaas-govert-de-bruijn-1918-2012.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [De Bruijn sequence from Wikipedia](https://en.wikipedia.org/wiki/De_Bruijn_sequence)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson"), [Harald Prokop](Harald_Prokop "Harald Prokop"), [Keith H. Randall](Keith_H._Randall "Keith H. Randall") (**1998**). *Using de Bruijn Sequences to Index a 1 in a Computer Word*. [pdf](http://supertech.csail.mit.edu/papers/debruijn.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Nicolaas de Bruijn (**1975**). *Acknowledgement of priority to C. Flye Sainte-Marie on the counting of circular arrangements of 2n zeros and ones that show each n-letter word exactly once*. Technical Report, Technische Hogeschool Eindhoven, [pdf](http://alexandria.tue.nl/repository/books/252901.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Nicolaas de Bruijn (**1985**). *In Memoriam T. van Ardenne-Ehrenfest*. [pdf](http://alexandria.tue.nl/repository/freearticles/597575.pdf)
 
 **[Up one level](People "People")**
 

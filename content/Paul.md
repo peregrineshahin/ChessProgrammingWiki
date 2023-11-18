@@ -75,12 +75,12 @@ The [evaluation](Evaluation "Evaluation") was a little bit ad hoc and not that w
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paul Morphy from Wikipedia](https://en.wikipedia.org/wiki/Paul_Morphy)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Thomas Mally](Thomas_Mally "Thomas Mally") (**1989**). *Mikro-WM in Portorose (Portorož)*. [Modul](Modul "Modul") 3/89, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1989,%20Modul,%20Thomas%20Mally,%20Mikro-WM%201989%20in%20Portorose.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Rainer Bartel](http://www.rainerbartel.de/), [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas"), [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer") (**1985**). *[Das große Computerschachbuch](http://www.c64-wiki.de/index.php/Das_grosse_Computerschachbuch)*. [Data Becker](https://en.wikipedia.org/wiki/Data_Becker) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Lars Bremer](Lars_Bremer "Lars Bremer") (**2005**). *Interview: GM Christopher Lutz*. [CSS Online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](http://computerschach.de/Files/2005/Interview:%20GM%20Christopher%20Lutz.pdf) (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Board of ICCA](ICCA "ICCA") (**1989**). *The Mephisto "Young Programmers" Scholarship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal"), pp. 220
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Portorož 1989 - Chess - Round 5 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=75&round=5&id=3)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul Morphy from Wikipedia](https://en.wikipedia.org/wiki/Paul_Morphy)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Thomas Mally](Thomas_Mally "Thomas Mally") (**1989**). *Mikro-WM in Portorose (Portorož)*. [Modul](Modul "Modul") 3/89, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1989,%20Modul,%20Thomas%20Mally,%20Mikro-WM%201989%20in%20Portorose.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rainer Bartel](http://www.rainerbartel.de/), [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas"), [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer") (**1985**). *[Das große Computerschachbuch](http://www.c64-wiki.de/index.php/Das_grosse_Computerschachbuch)*. [Data Becker](https://en.wikipedia.org/wiki/Data_Becker) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Lars Bremer](Lars_Bremer "Lars Bremer") (**2005**). *Interview: GM Christopher Lutz*. [CSS Online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](http://computerschach.de/Files/2005/Interview:%20GM%20Christopher%20Lutz.pdf) (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Board of ICCA](ICCA "ICCA") (**1989**). *The Mephisto "Young Programmers" Scholarship*. [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal"), pp. 220
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Portorož 1989 - Chess - Round 5 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=75&round=5&id=3)
 
 **[Up one level](Engines "Engines")**
 

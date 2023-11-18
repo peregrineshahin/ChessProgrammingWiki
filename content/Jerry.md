@@ -45,9 +45,9 @@ Jerry features strength adjustment, and is able to load and save games in [Porta
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jerry - Cross Platform Chess GUI](http://www.talkchess.com/forum/viewtopic.php?t=55520) by [Dominik Klein](Dominik_Klein "Dominik Klein"), [CCC](CCC "CCC"), March 01, 2015
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Building Jerry – A chess GUI](https://buildingjerry.wordpress.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Screenshot from [GitHub - asdfjkl/jerry: Jerry - Chess Program](https://github.com/asdfjkl/jerry)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jerry - Cross Platform Chess GUI](http://www.talkchess.com/forum/viewtopic.php?t=55520) by [Dominik Klein](Dominik_Klein "Dominik Klein"), [CCC](CCC "CCC"), March 01, 2015
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Building Jerry – A chess GUI](https://buildingjerry.wordpress.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Screenshot from [GitHub - asdfjkl/jerry: Jerry - Chess Program](https://github.com/asdfjkl/jerry)
 
 **[Up one Level](GUI "GUI")**
 

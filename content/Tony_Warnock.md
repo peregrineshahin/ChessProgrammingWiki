@@ -45,10 +45,10 @@ an American mathematician and Research Fellow at the [Information Sciences Group
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tony Warnock's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=419)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Tony Warnock](https://dblp.org/pers/hd/w/Warnock:Tony)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Art B. Owen](http://www-stat.stanford.edu/people/faculty/owen/index.html) (**2005**). *On the Warnock-Halton quasi-standard error*. [Stanford University](https://en.wikipedia.org/wiki/Stanford_University), [pdf](http://www-stat.stanford.edu/~owen/reports/qse.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tony Warnock's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=419)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Tony Warnock](https://dblp.org/pers/hd/w/Warnock:Tony)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Art B. Owen](http://www-stat.stanford.edu/people/faculty/owen/index.html) (**2005**). *On the Warnock-Halton quasi-standard error*. [Stanford University](https://en.wikipedia.org/wiki/Stanford_University), [pdf](http://www-stat.stanford.edu/~owen/reports/qse.pdf)
 
 **[Up one level](People "People")**
 

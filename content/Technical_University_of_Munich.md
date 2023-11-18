@@ -49,8 +49,8 @@ title: Technical University of Munich
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image by Rufus46, July 29, 2006, [Technical University of Munich from Wikipedia](https://en.wikipedia.org/wiki/Technical_University_of_Munich)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [COGBOTLAB: Cognitive Robotics AT TUM](http://www.idsia.ch/~juergen/cogbotlab.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image by Rufus46, July 29, 2006, [Technical University of Munich from Wikipedia](https://en.wikipedia.org/wiki/Technical_University_of_Munich)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [COGBOTLAB: Cognitive Robotics AT TUM](http://www.idsia.ch/~juergen/cogbotlab.html)
 
 **[Up one Level](Organizations "Organizations")**
 

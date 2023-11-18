@@ -40,7 +40,7 @@ a chess program written in [Turbo Pascal](Pascal#TurboPascal "Pascal") by [Mario
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Josep Parés](Natalia_Par%C3%A9s "Natalia Parés"), [Teresa Canela](Teresa_Canela "Teresa Canela") (**1993**). *Report on the 1st Spanish Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Josep Parés](Natalia_Par%C3%A9s "Natalia Parés"), [Teresa Canela](Teresa_Canela "Teresa Canela") (**1993**). *Report on the 1st Spanish Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

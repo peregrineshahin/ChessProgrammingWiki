@@ -182,9 +182,9 @@ title: Tournaments and MatchesOnline Computer Chess Tournaments
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CCCC on Wikipedia](https://en.wikipedia.org/wiki/Chess.com#Chess.com_Computer_Chess_Championship)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess.com - CCCC](https://www.chess.com/computer-chess-championship)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Man vs. Machine – The Endless Fascination](https://en.chessbase.com/post/man-vs-machine-the-endle-fascination) by Ram Prasad, [ChessBase News](ChessBase "ChessBase"), November 09, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CCCC on Wikipedia](https://en.wikipedia.org/wiki/Chess.com#Chess.com_Computer_Chess_Championship)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess.com - CCCC](https://www.chess.com/computer-chess-championship)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Man vs. Machine – The Endless Fascination](https://en.chessbase.com/post/man-vs-machine-the-endle-fascination) by Ram Prasad, [ChessBase News](ChessBase "ChessBase"), November 09, 2003
 
 **[Up one level](Home "Home")**
 

@@ -60,12 +60,12 @@ As avocational chess programmer Edmund Moshammer has been involved in the develo
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Edmund Moshammer | LinkedIn](https://www.linkedin.com/pub/edmund-moshammer/91/937/b21)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Glass 1.2 released](http://www.talkchess.com/forum/viewtopic.php?t=27731) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), May 03, 2009
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Glass Opening Book Manager 1.0 - Released!](http://www.talkchess.com/forum/viewtopic.php?t=27732) by Edmund Moshammer, [CCC](CCC "CCC"), May 03, 2009
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [JSUCI 1.0 - connect javascript chess engines to UCI](http://www.talkchess.com/forum/viewtopic.php?t=51763) by Edmund Moshammer, [CCC](CCC "CCC"), March 28, 2014
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Javascript Universal Chess Interface | Free software downloads at SourceForge.net](http://sourceforge.net/projects/jsuci/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [3D XPoint from Wikipedia](https://en.wikipedia.org/wiki/3D_XPoint)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Edmund Moshammer | LinkedIn](https://www.linkedin.com/pub/edmund-moshammer/91/937/b21)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Glass 1.2 released](http://www.talkchess.com/forum/viewtopic.php?t=27731) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), May 03, 2009
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Glass Opening Book Manager 1.0 - Released!](http://www.talkchess.com/forum/viewtopic.php?t=27732) by Edmund Moshammer, [CCC](CCC "CCC"), May 03, 2009
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [JSUCI 1.0 - connect javascript chess engines to UCI](http://www.talkchess.com/forum/viewtopic.php?t=51763) by Edmund Moshammer, [CCC](CCC "CCC"), March 28, 2014
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Javascript Universal Chess Interface | Free software downloads at SourceForge.net](http://sourceforge.net/projects/jsuci/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [3D XPoint from Wikipedia](https://en.wikipedia.org/wiki/3D_XPoint)
 
 **[Up one Level](People "People")**
 

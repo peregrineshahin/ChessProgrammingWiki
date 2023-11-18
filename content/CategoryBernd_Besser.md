@@ -18,7 +18,7 @@ a German chess collector, graphic designer, and artist devoted to chess.
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Schachbilderwelten](http://schachbilderwelten.tenners.de/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Schachbilderwelten](http://schachbilderwelten.tenners.de/)
 
 ## Pages in category "Bernd Besser"
 

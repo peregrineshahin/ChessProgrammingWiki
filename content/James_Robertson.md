@@ -47,9 +47,9 @@ an American computer chess programmer and author of the chess program [Insomniac
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [QBasic from Wikipedia](https://en.wikipedia.org/wiki/QBasic)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> "Deep Blue whacked computer chess over the head" Interview with James Robertson (Insomniac) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), no longer available [ChessBase](ChessBase "ChessBase") site
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [QBasic from Wikipedia](https://en.wikipedia.org/wiki/QBasic)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> "Deep Blue whacked computer chess over the head" Interview with James Robertson (Insomniac) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), no longer available [ChessBase](ChessBase "ChessBase") site
 
 **[Up one level](People "People")**
 

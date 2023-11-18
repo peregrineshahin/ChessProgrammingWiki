@@ -64,14 +64,14 @@ In 1961/62, [Steve Russell](https://en.wikipedia.org/wiki/Steve_Russell) develop
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [PDP-1 Type 30 point-mode CRT display](https://en.wikipedia.org/wiki/PDP-1#Graphics_display), a vector display system, and console [typewriter](https://en.wikipedia.org/wiki/Typewriter), with processor frame in background, [PDP-1 from Wikipedia](https://en.wikipedia.org/wiki/PDP-1)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PDP-1](http://pdp-1.computerhistory.org/pdp-1/index.php?f=showitem&id=21.2) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Digital Computing timeline 1960 - PDP-11](http://vt100.net/timeline/1960-3.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Dec System Building Blocks 1103 hex-inverter card (both sides), [DEC - Digital modules from Wikipedia](https://en.wikipedia.org/wiki/System_Building_Blocks#Digital_modules)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Edward Fredkin - Career, from Wikipedia](https://en.wikipedia.org/wiki/Edward_Fredkin#Career)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Ed Fredkin working on PDP-1](http://www.computerhistory.org/collections/accession/102631244) (1960 ca.), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [The Mouse That Roared: PDP-1 Celebration Event Lecture at 1:05:24](PDP-1#Video "PDP-1")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Spacewar! from Wikipedia](https://en.wikipedia.org/wiki/Spacewar!)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [PDP-1 Type 30 point-mode CRT display](https://en.wikipedia.org/wiki/PDP-1#Graphics_display), a vector display system, and console [typewriter](https://en.wikipedia.org/wiki/Typewriter), with processor frame in background, [PDP-1 from Wikipedia](https://en.wikipedia.org/wiki/PDP-1)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PDP-1](http://pdp-1.computerhistory.org/pdp-1/index.php?f=showitem&id=21.2) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Digital Computing timeline 1960 - PDP-11](http://vt100.net/timeline/1960-3.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Dec System Building Blocks 1103 hex-inverter card (both sides), [DEC - Digital modules from Wikipedia](https://en.wikipedia.org/wiki/System_Building_Blocks#Digital_modules)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Edward Fredkin - Career, from Wikipedia](https://en.wikipedia.org/wiki/Edward_Fredkin#Career)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Ed Fredkin working on PDP-1](http://www.computerhistory.org/collections/accession/102631244) (1960 ca.), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Mouse That Roared: PDP-1 Celebration Event Lecture at 1:05:24](PDP-1#Video "PDP-1")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Spacewar! from Wikipedia](https://en.wikipedia.org/wiki/Spacewar!)
 
 **[Up one Level](Hardware "Hardware")**
 

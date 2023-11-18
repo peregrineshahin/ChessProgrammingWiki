@@ -40,10 +40,10 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [14.Unique Computers: Flickr](http://www.flickr.com/photos/10261668@N05/sets/72157600922175252/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Mephisto Nigel Short on British ebay](http://www.hiarcs.net/forums/viewtopic.php?t=4378&postdays=0&postorder=asc&start=59) by [Mike Watters](Mike_Watters "Mike Watters"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), September 28, 2011
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Glasgow 1984 - Chess - Round 1 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=64&round=1&id=5)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [14.Unique Computers: Flickr](http://www.flickr.com/photos/10261668@N05/sets/72157600922175252/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Mephisto Nigel Short on British ebay](http://www.hiarcs.net/forums/viewtopic.php?t=4378&postdays=0&postorder=asc&start=59) by [Mike Watters](Mike_Watters "Mike Watters"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), September 28, 2011
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Glasgow 1984 - Chess - Round 1 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=64&round=1&id=5)
 
 **[Up one Level](Engines "Engines")**
 

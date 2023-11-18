@@ -216,12 +216,12 @@ Some programs consider some tactical features in [evaluation](Evaluation "Evalua
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mikhail Tal from Wikipedia](https://en.wikipedia.org/wiki/Mikhail_Tal), Photo by [Gerhard Hund](Gerhard_Hund "Gerhard Hund"), [European Championship 1961](https://de.wikipedia.org/wiki/Europa-Mannschaftsmeisterschaft_im_Schach_1961) at [Oberhausen](https://en.wikipedia.org/wiki/Oberhausen) ]
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess - Wikiquote](http://en.wikiquote.org/wiki/Chess)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Corner - Chess Quotes](http://www.chesscorner.com/quotes/chess_quotes.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Is chess still 99% tactics?](http://www.talkchess.com/forum/viewtopic.php?t=66302) by [Alvaro Cardoso](Alvaro_Cardoso "Alvaro Cardoso"), [CCC](CCC "CCC"), January 11, 2018
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Copying](http://www.chesshistory.com/winter/extra/copying.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_(chess_historian))
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [David Levy](David_Levy "David Levy"), [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), Chapter 3, Position Evaluation pp. 112: Perhaps non-linear evaluation functions will become popular at some future date, in which case some of Good's ideas will come into their own.
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mikhail Tal from Wikipedia](https://en.wikipedia.org/wiki/Mikhail_Tal), Photo by [Gerhard Hund](Gerhard_Hund "Gerhard Hund"), [European Championship 1961](https://de.wikipedia.org/wiki/Europa-Mannschaftsmeisterschaft_im_Schach_1961) at [Oberhausen](https://en.wikipedia.org/wiki/Oberhausen) ]
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess - Wikiquote](http://en.wikiquote.org/wiki/Chess)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Corner - Chess Quotes](http://www.chesscorner.com/quotes/chess_quotes.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Is chess still 99% tactics?](http://www.talkchess.com/forum/viewtopic.php?t=66302) by [Alvaro Cardoso](Alvaro_Cardoso "Alvaro Cardoso"), [CCC](CCC "CCC"), January 11, 2018
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Copying](http://www.chesshistory.com/winter/extra/copying.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_(chess_historian))
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [David Levy](David_Levy "David Levy"), [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), Chapter 3, Position Evaluation pp. 112: Perhaps non-linear evaluation functions will become popular at some future date, in which case some of Good's ideas will come into their own.
 
 **[Up one Level](Chess "Chess")**
 

@@ -29,8 +29,8 @@ Tony Guilfoyle was involved in the development of multiple [Bridge](index.php?ti
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Scrabble - source code](http://www.gtoal.com/scrabble/scrabble.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Micro Bridge Companion - Programs by Tom Throop and Tony Guilfoyle](https://www.amazon.com/BRIDGE-COMPANION-DISKETTE-PROGRAMS-GUILFOYLE/dp/B000KX4VPC) from [Amazon.com](https://en.wikipedia.org/wiki/Amazon.com)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Scrabble - source code](http://www.gtoal.com/scrabble/scrabble.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Micro Bridge Companion - Programs by Tom Throop and Tony Guilfoyle](https://www.amazon.com/BRIDGE-COMPANION-DISKETTE-PROGRAMS-GUILFOYLE/dp/B000KX4VPC) from [Amazon.com](https://en.wikipedia.org/wiki/Amazon.com)
 
 **[Up one level](People "People")**
 

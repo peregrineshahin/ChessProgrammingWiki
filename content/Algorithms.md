@@ -272,10 +272,10 @@ in mathematics and computer science, methods for solving a problem expressed as 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> A stamp issued September 6, 1983 in the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union)\], commemorating [Al-Khwārizmī's](Mathematician#Algoritmi "Mathematician") (approximate) 1200th birthday
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Kurt Mehlhorn](Mathematician#KMehlhorn "Mathematician"), [Peter Sanders](Peter_Sanders "Peter Sanders") (**2008**). *[Data Structures and Algorithms: The Basic Toolbox](http://www.mpi-inf.mpg.de/%7Emehlhorn/Toolbox.html)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), [Appetizer: Integer Arithmetics](http://www.mpi-inf.mpg.de/%7Emehlhorn/ftp/Toolbox/Appetizer.pdf) (pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Art of Computer Programming from Wikipedia](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Ordinal optimization from Wikipedia](https://en.wikipedia.org/wiki/Ordinal_optimization)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A stamp issued September 6, 1983 in the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union)\], commemorating [Al-Khwārizmī's](Mathematician#Algoritmi "Mathematician") (approximate) 1200th birthday
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Kurt Mehlhorn](Mathematician#KMehlhorn "Mathematician"), [Peter Sanders](Peter_Sanders "Peter Sanders") (**2008**). *[Data Structures and Algorithms: The Basic Toolbox](http://www.mpi-inf.mpg.de/%7Emehlhorn/Toolbox.html)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), [Appetizer: Integer Arithmetics](http://www.mpi-inf.mpg.de/%7Emehlhorn/ftp/Toolbox/Appetizer.pdf) (pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Art of Computer Programming from Wikipedia](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ordinal optimization from Wikipedia](https://en.wikipedia.org/wiki/Ordinal_optimization)
 
 **[Up one Level](Programming "Programming")**
 

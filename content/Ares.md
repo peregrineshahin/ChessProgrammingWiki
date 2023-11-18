@@ -27,9 +27,9 @@ as well in the C-Language Division of [Don Beal's](Don_Beal "Don Beal") [Uniform
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Helmeted young warrior, so-called Ares. Roman copy from a Greek original—this is a plaster replica, the original is now stored in the Museum of the Villa Canope at the [Villa Adriana](https://en.wikipedia.org/wiki/Hadrian%27s_Villa) in [Tivoli](https://en.wikipedia.org/wiki/Tivoli,_Lazio), [Ares from Wikipedia](https://en.wikipedia.org/wiki/Ares)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Deelnemers NK Computerschaak 1992](http://www.xs4all.nl/%7Ebreukerd/duck/deelnemers_nk1992.html) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ares 1.0 in honor of the NASA Ares I-X Space Rocket](http://www.talkchess.com/forum/viewtopic.php?t=30424) by [Charles Roberson](Charles_Roberson "Charles Roberson"), [CCC](CCC "CCC"), October 31, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Helmeted young warrior, so-called Ares. Roman copy from a Greek original—this is a plaster replica, the original is now stored in the Museum of the Villa Canope at the [Villa Adriana](https://en.wikipedia.org/wiki/Hadrian%27s_Villa) in [Tivoli](https://en.wikipedia.org/wiki/Tivoli,_Lazio), [Ares from Wikipedia](https://en.wikipedia.org/wiki/Ares)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Deelnemers NK Computerschaak 1992](http://www.xs4all.nl/%7Ebreukerd/duck/deelnemers_nk1992.html) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ares 1.0 in honor of the NASA Ares I-X Space Rocket](http://www.talkchess.com/forum/viewtopic.php?t=30424) by [Charles Roberson](Charles_Roberson "Charles Roberson"), [CCC](CCC "CCC"), October 31, 2009
 
 **[Up one Level](Engines "Engines")**
 

@@ -94,12 +94,12 @@ Unshackled from the constraints of minimalism and simplicity, Leorik is the succ
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Devlog of Leorik](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79049&start=120) by [Thomas Jahn](Thomas_Jahn "Thomas Jahn"), [CCC](CCC "CCC"), March 19, 2022
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Devlog of Leorik](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79049) by [Thomas Jahn](Thomas_Jahn "Thomas Jahn"), [CCC](CCC "CCC"), January 04, 2022
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Leorik/README.md at master · lithander/Leorik · GitHub](https://github.com/lithander/Leorik/blob/master/README.md)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Leorik/Bitboard.cs at master · lithander/Leorik · GitHub](https://github.com/lithander/Leorik/blob/master/Leorik.Core/Bitboard.cs)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Devlog of Leorik](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79049&start=2) by [Thomas Jahn](Thomas_Jahn "Thomas Jahn"), [CCC](CCC "CCC"), January 04, 2022
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Leorik/README.md at master · lithander/Leorik · GitHub](https://github.com/lithander/Leorik/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Devlog of Leorik](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79049&start=120) by [Thomas Jahn](Thomas_Jahn "Thomas Jahn"), [CCC](CCC "CCC"), March 19, 2022
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Devlog of Leorik](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79049) by [Thomas Jahn](Thomas_Jahn "Thomas Jahn"), [CCC](CCC "CCC"), January 04, 2022
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Leorik/README.md at master · lithander/Leorik · GitHub](https://github.com/lithander/Leorik/blob/master/README.md)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Leorik/Bitboard.cs at master · lithander/Leorik · GitHub](https://github.com/lithander/Leorik/blob/master/Leorik.Core/Bitboard.cs)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Devlog of Leorik](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79049&start=2) by [Thomas Jahn](Thomas_Jahn "Thomas Jahn"), [CCC](CCC "CCC"), January 04, 2022
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Leorik/README.md at master · lithander/Leorik · GitHub](https://github.com/lithander/Leorik/blob/master/README.md)
 
 **[Up one level](Engines "Engines")**
 

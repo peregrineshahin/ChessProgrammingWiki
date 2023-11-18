@@ -45,11 +45,11 @@ feat. [John Lee](Category:John_Lee "Category:John Lee"), [Gerry Brown](Category:
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kāneʻohe Bay's](https://en.wikipedia.org/wiki/K%C4%81ne%CA%BBohe_Bay) Fighters Unlimited Boxing Team member Matthew Miller takes a hard hit from [Palolo](https://en.wikipedia.org/wiki/Palolo,_Hawaii) Boxing Club's Aaron Floyd. Miller was K-Bay's champion fighter Saturday during the boxing tournament held at Kahuna's Ballroom, by Megan L. Stiner, November 05, 2004, [Striking combination from Wikipedia](https://en.wikipedia.org/wiki/Striking_combination)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Harry Golombek](https://en.wikipedia.org/wiki/Harry_Golombek) (**1977**). *Golombek's Encyclopedia of Chess*. Crown Publishing, ISBN 0-517-53146-1, [amazon.com](http://www.amazon.com/Golombeks-Encyclopedia-Chess-Harry-Golombek/dp/0517531461)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Glossary - chess-poster.com](http://www.chess-poster.com/english/glossary.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chess Theory, Glossary P](http://www.chess-theory.com/enva04p_glossary_chess_theory.php) © [Chess-Theory.com](http://www.chess-theory.com/) 2004-2009
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Copying](http://www.chesshistory.com/winter/extra/copying.html) by [Edward Winter](<https://en.wikipedia.org/wiki/Edward_Winter_(chess_historian)>)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kāneʻohe Bay's](https://en.wikipedia.org/wiki/K%C4%81ne%CA%BBohe_Bay) Fighters Unlimited Boxing Team member Matthew Miller takes a hard hit from [Palolo](https://en.wikipedia.org/wiki/Palolo,_Hawaii) Boxing Club's Aaron Floyd. Miller was K-Bay's champion fighter Saturday during the boxing tournament held at Kahuna's Ballroom, by Megan L. Stiner, November 05, 2004, [Striking combination from Wikipedia](https://en.wikipedia.org/wiki/Striking_combination)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Harry Golombek](https://en.wikipedia.org/wiki/Harry_Golombek) (**1977**). *Golombek's Encyclopedia of Chess*. Crown Publishing, ISBN 0-517-53146-1, [amazon.com](http://www.amazon.com/Golombeks-Encyclopedia-Chess-Harry-Golombek/dp/0517531461)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Glossary - chess-poster.com](http://www.chess-poster.com/english/glossary.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Theory, Glossary P](http://www.chess-theory.com/enva04p_glossary_chess_theory.php) © [Chess-Theory.com](http://www.chess-theory.com/) 2004-2009
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Copying](http://www.chesshistory.com/winter/extra/copying.html) by [Edward Winter](<https://en.wikipedia.org/wiki/Edward_Winter_(chess_historian)>)
 
 **[Up one Level](Tactics "Tactics")**
 

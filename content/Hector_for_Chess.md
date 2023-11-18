@@ -90,12 +90,12 @@ Kf6 48.g4 h5 49.Kd4 hxg4 50.hxg4 b5 51.Kc3 Ke6 52.Kd4 b4 53.Kc4 b3 54.Kxb3 Kd5 5
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hector](https://en.wikipedia.org/wiki/Hector) (Ἕκτωρ), or Hektōr, is a [Trojan](https://en.wikipedia.org/wiki/Troy) prince and the greatest fighter for Troy in the [Trojan War](https://en.wikipedia.org/wiki/Trojan_War), Image in [Guillaume Rouillé](https://en.wikipedia.org/wiki/Guillaume_Rouill%C3%A9) (**1553**). *[Promptuarium Iconum Insigniorum](https://en.wikipedia.org/wiki/Promptuarium_Iconum_Insigniorum)*. [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MASPV 2007](http://titanic.nyme.hu/~wyx/maspv2007/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hector for Chess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=610)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MASPV 2002](http://titanic.nyme.hu/~wyx/maspv2002/indexeng.htm)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [2007 World Computer Rapid Chess Championships | Results | PGN Download](http://aigames.net/ACCA/2007PresResults.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Kanazawa 2010 - Chess - Round 9 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=209&round=9&id=2)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hector](https://en.wikipedia.org/wiki/Hector) (Ἕκτωρ), or Hektōr, is a [Trojan](https://en.wikipedia.org/wiki/Troy) prince and the greatest fighter for Troy in the [Trojan War](https://en.wikipedia.org/wiki/Trojan_War), Image in [Guillaume Rouillé](https://en.wikipedia.org/wiki/Guillaume_Rouill%C3%A9) (**1553**). *[Promptuarium Iconum Insigniorum](https://en.wikipedia.org/wiki/Promptuarium_Iconum_Insigniorum)*. [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MASPV 2007](http://titanic.nyme.hu/~wyx/maspv2007/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hector for Chess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=610)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MASPV 2002](http://titanic.nyme.hu/~wyx/maspv2002/indexeng.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [2007 World Computer Rapid Chess Championships | Results | PGN Download](http://aigames.net/ACCA/2007PresResults.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Kanazawa 2010 - Chess - Round 9 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=209&round=9&id=2)
 
 **[Up one level](Engines "Engines")**
 

@@ -20,8 +20,8 @@ a British journalist, [Correspondence Chess](https://en.wikipedia.org/wiki/Corre
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WCSC 2013](WCSC_2013 "WCSC 2013") Gold for [HIARCS](HIARCS "HIARCS") represented by Harvey Williamson, from [Photos 2013 Events: day 7](https://icga.org/?page_id=883), [ICGA](ICGA "ICGA"), Image by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SIM Williamson, Harvey D - Player Details](http://www.iccf-webchess.com/PlayerDetails.aspx?id=211655) from [International Correspondence Chess Federation](http://www.iccf.com/content/index.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WCSC 2013](WCSC_2013 "WCSC 2013") Gold for [HIARCS](HIARCS "HIARCS") represented by Harvey Williamson, from [Photos 2013 Events: day 7](https://icga.org/?page_id=883), [ICGA](ICGA "ICGA"), Image by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [SIM Williamson, Harvey D - Player Details](http://www.iccf-webchess.com/PlayerDetails.aspx?id=211655) from [International Correspondence Chess Federation](http://www.iccf.com/content/index.php)
 
 **[Up one level](People "People")**
 

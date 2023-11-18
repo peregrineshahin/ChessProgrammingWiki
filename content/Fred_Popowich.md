@@ -46,10 +46,10 @@ Fred Popowich further focused on [natural language processing](https://en.wikipe
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dr. Fred Popowich](http://www.sfu.ca/~popowich/public/Home.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> The original name for [Belle](Belle "Belle") was T.Belle (the [US Chess Federation](https://en.wikipedia.org/wiki/United_States_Chess_Federation) required an initial). TinkerBelle was the "invention" of [Tony Marsland](Tony_Marsland "Tony Marsland"), and nothing [Ken Thompson](Ken_Thompson "Ken Thompson") knew about or approved
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tinker Bell from Wikipedia](https://en.wikipedia.org/wiki/Tinker_Bell) a fictional character from [J. M. Barrie's](https://en.wikipedia.org/wiki/J._M._Barrie) 1904 play and 1911 novel [Peter and Wendy](https://en.wikipedia.org/wiki/Peter_and_Wendy)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Fred Popowich](https://dblp.uni-trier.de/pers/hd/p/Popowich:Fred.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dr. Fred Popowich](http://www.sfu.ca/~popowich/public/Home.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> The original name for [Belle](Belle "Belle") was T.Belle (the [US Chess Federation](https://en.wikipedia.org/wiki/United_States_Chess_Federation) required an initial). TinkerBelle was the "invention" of [Tony Marsland](Tony_Marsland "Tony Marsland"), and nothing [Ken Thompson](Ken_Thompson "Ken Thompson") knew about or approved
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tinker Bell from Wikipedia](https://en.wikipedia.org/wiki/Tinker_Bell) a fictional character from [J. M. Barrie's](https://en.wikipedia.org/wiki/J._M._Barrie) 1904 play and 1911 novel [Peter and Wendy](https://en.wikipedia.org/wiki/Peter_and_Wendy)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Fred Popowich](https://dblp.uni-trier.de/pers/hd/p/Popowich:Fred.html)
 
 **[Up one level](People "People")**
 

@@ -130,12 +130,12 @@ a2 49.Ra4 Ke6 50.Ra8 Rb1+ 51.Kf2 a1=Q 52.Rxa1 Rxa1 53.Kf3 g4+ 54.Kxg4 b5
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> This is not what your Computer is supposed to look like from the inside. Dust has accumulated inside over a period of 4-8 years and done some damage in the process. If you look closely, you can see that the graphics card cooler fan has become so hot that it has completely melted off from itself. [Image](https://commons.wikimedia.org/wiki/File:Dusty-dirty_PC.jpg) by Arvutistuudio, January 09, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> ["Dirty " TLCV Tournaments](http://www.geenvis.net/tlcv.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dirty Chess Engine - readme.txt](http://www.dirtychess.com/readme.txt)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Dirty 10APR2015 Released](http://www.talkchess.com/forum/viewtopic.php?t=56034) by [Andres Valverde](Andres_Valverde "Andres Valverde"), [CCC](CCC "CCC"), April 17, 2015
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Dirty_CUCUMBER.zip\\readme.txt
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICT Round 6](https://www.csvn.nl/index.php/nieuws/51-toernooien/588-ict-round-6), CSVN site, Photos by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> This is not what your Computer is supposed to look like from the inside. Dust has accumulated inside over a period of 4-8 years and done some damage in the process. If you look closely, you can see that the graphics card cooler fan has become so hot that it has completely melted off from itself. [Image](https://commons.wikimedia.org/wiki/File:Dusty-dirty_PC.jpg) by Arvutistuudio, January 09, 2012, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> ["Dirty " TLCV Tournaments](http://www.geenvis.net/tlcv.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dirty Chess Engine - readme.txt](http://www.dirtychess.com/readme.txt)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dirty 10APR2015 Released](http://www.talkchess.com/forum/viewtopic.php?t=56034) by [Andres Valverde](Andres_Valverde "Andres Valverde"), [CCC](CCC "CCC"), April 17, 2015
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Dirty_CUCUMBER.zip\\readme.txt
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICT Round 6](https://www.csvn.nl/index.php/nieuws/51-toernooien/588-ict-round-6), CSVN site, Photos by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
 
 **[Up one level](Engines "Engines")**
 

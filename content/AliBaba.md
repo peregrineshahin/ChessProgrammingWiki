@@ -36,10 +36,10 @@ lineup: [Hellmut Hattler](Category:Hellmut_Hattler "Category:Hellmut Hattler"), 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Ali Baba by [Maxfield Parrish](https://en.wikipedia.org/wiki/Maxfield_Parrish), 1909, [One Thousand and One Nights](https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights), [Ali Baba from Wikipedia](https://en.wikipedia.org/wiki/Ali_Baba)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dennis Breuker](Dennis_Breuker "Dennis Breuker") (**1998**). *Memory versus Search in Games*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), pdf via [Dennis Breuker's page](http://www.dennisbreuker.nl/thesis/index.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alibaba test bed (by Dennis Breuker)](https://www.stmintz.com/ccc/index.php?id=103729) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), March 28, 2000
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alibaba (Dennis Breuker - 1995) with winboard support](http://www.talkchess.com/forum/viewtopic.php?t=25734) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), December 31, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Ali Baba by [Maxfield Parrish](https://en.wikipedia.org/wiki/Maxfield_Parrish), 1909, [One Thousand and One Nights](https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights), [Ali Baba from Wikipedia](https://en.wikipedia.org/wiki/Ali_Baba)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dennis Breuker](Dennis_Breuker "Dennis Breuker") (**1998**). *Memory versus Search in Games*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), pdf via [Dennis Breuker's page](http://www.dennisbreuker.nl/thesis/index.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alibaba test bed (by Dennis Breuker)](https://www.stmintz.com/ccc/index.php?id=103729) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), March 28, 2000
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alibaba (Dennis Breuker - 1995) with winboard support](http://www.talkchess.com/forum/viewtopic.php?t=25734) by [Jim Ablett](Jim_Ablett "Jim Ablett"), [CCC](CCC "CCC"), December 31, 2008
 
 **[Up one Level](Engines "Engines")**
 

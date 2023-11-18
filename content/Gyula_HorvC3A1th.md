@@ -36,12 +36,12 @@ Gyula Horvath started writing chess programs in 1985. His program won the Amateu
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WCSC 2013](WCSC_2013 "WCSC 2013") Silver and [WCCC 2013](WCCC_2013 "WCCC 2013") Bronze for [Pandix](Pandix "Pandix"), [Photos 2013 Events: day 7](https://icga.leidenuniv.nl/?page_id=883), [ICGA](ICGA "ICGA")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Studie: Schachspielen mit ein 286er 12 MHz Laptop - Schachcomputer.info Community](http://www.schachcomputer.info/forum/showthread.php?t=3531) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), May 22, 2010 (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Horvath,Gyula](http://www.schach-computer.info/wiki/index.php/Gyula_Horvath) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Pandix' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=190)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [New Fritz author?](http://www.talkchess.com/forum/viewtopic.php?t=50149) by John Hartmann, [CCC](CCC "CCC"), November 19, 2013
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Pandix' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=190)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WCSC 2013](WCSC_2013 "WCSC 2013") Silver and [WCCC 2013](WCCC_2013 "WCCC 2013") Bronze for [Pandix](Pandix "Pandix"), [Photos 2013 Events: day 7](https://icga.leidenuniv.nl/?page_id=883), [ICGA](ICGA "ICGA")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Studie: Schachspielen mit ein 286er 12 MHz Laptop - Schachcomputer.info Community](http://www.schachcomputer.info/forum/showthread.php?t=3531) by [Spacious Mind](The_Spacious_Mind "The Spacious Mind"), May 22, 2010 (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Horvath,Gyula](http://www.schach-computer.info/wiki/index.php/Gyula_Horvath) from [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Pandix' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=190)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [New Fritz author?](http://www.talkchess.com/forum/viewtopic.php?t=50149) by John Hartmann, [CCC](CCC "CCC"), November 19, 2013
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pandix' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=190)
 
 **[Up one level](People "People")**
 

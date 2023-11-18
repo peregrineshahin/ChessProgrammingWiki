@@ -39,9 +39,9 @@ Doing computer chess since 1971, Brian Richardson is author of the private [Ches
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Brian Richardson | LinkedIn](https://www.linkedin.com/in/brianprichardson/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Brian Richardson | LinkedIn](http://www.linkedin.com/in/brianprichardson?trk=pub-pbmap)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Chess reinforcement learning by AlphaGo Zero methods](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=66728&start=4) by Brian Richardson, [CCC](CCC "CCC"), March 09, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Brian Richardson | LinkedIn](https://www.linkedin.com/in/brianprichardson/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Brian Richardson | LinkedIn](http://www.linkedin.com/in/brianprichardson?trk=pub-pbmap)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Chess reinforcement learning by AlphaGo Zero methods](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=66728&start=4) by Brian Richardson, [CCC](CCC "CCC"), March 09, 2018
 
 **[Up one level](People "People")**
 

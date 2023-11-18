@@ -73,14 +73,14 @@ an American computer scientist and [AI](Artificial_Intelligence "Artificial Inte
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Richard Sutton, October 27, 2016, Image source [Deep Thinkers on Deep Learning](https://www.flickr.com/photos/jurvetson/29973061793/), Author [Jurvetson](https://www.flickr.com/people/44124348109@N01Steve), [Menlo Park](https://en.wikipedia.org/wiki/Menlo_Park,_California), USA
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Home | Department of Computing Science](http://www.cs.ualberta.ca/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Reinforcement Learning and Artificial Intelligence (RLAI)](http://rlai.cs.ualberta.ca/RLAI/ualberta.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Richard Sutton (**1988**). *Learning to Predict by the Methods of Temporal Differences*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_(journal)), Vol. 3, No. 1
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html) ebook by Richard Sutton and [Andrew Barto](Andrew_Barto "Andrew Barto")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Brief Biography for Richard Sutton](http://incompleteideas.net/BriefBio.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [dblp: Richard S. Sutton](http://dblp.uni-trier.de/pers/hd/s/Sutton:Richard_S=)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Richard Sutton, October 27, 2016, Image source [Deep Thinkers on Deep Learning](https://www.flickr.com/photos/jurvetson/29973061793/), Author [Jurvetson](https://www.flickr.com/people/44124348109@N01Steve), [Menlo Park](https://en.wikipedia.org/wiki/Menlo_Park,_California), USA
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Home | Department of Computing Science](http://www.cs.ualberta.ca/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Reinforcement Learning and Artificial Intelligence (RLAI)](http://rlai.cs.ualberta.ca/RLAI/ualberta.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Richard Sutton (**1988**). *Learning to Predict by the Methods of Temporal Differences*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_(journal)), Vol. 3, No. 1
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html) ebook by Richard Sutton and [Andrew Barto](Andrew_Barto "Andrew Barto")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Brief Biography for Richard Sutton](http://incompleteideas.net/BriefBio.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Richard S. Sutton](http://dblp.uni-trier.de/pers/hd/s/Sutton:Richard_S=)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

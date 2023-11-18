@@ -81,16 +81,16 @@ John Coltrane Quartet with [McCoy Tyner](Category:McCoy_Tyner "Category:McCoy Ty
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> When the [planet](https://en.wikipedia.org/wiki/Planet) [Saturn](https://en.wikipedia.org/wiki/Saturn) is at [equinox](https://en.wikipedia.org/wiki/Equinox), its [rings](https://en.wikipedia.org/wiki/Rings_of_Saturn) pick up almost no light, as seen in this image by [Cassini](https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens), August 12, 2009, source [NASA CICLOPS](http://ciclops.org/view/5773/The_Rite_of_Spring?js=1), [Equinox from Wikipedia](https://en.wikipedia.org/wiki/Equinox)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Equinox 3.20 (free to all)](http://www.talkchess.com/forum/viewtopic.php?t=53884) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), September 30, 2014
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Message from the Equinox author](http://www.talkchess.com/forum/viewtopic.php?t=47411) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC") Engine Origins (requires registration), March 05, 2013
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Strongest chess event ever - TODAY](http://www.talkchess.com/forum/viewtopic.php?t=27881) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), May 13, 2009
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Festival della Scienza 2009](http://festival2009.festivalscienza.it/site/Home.html)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [WGM Sedina and GM Efimov battling against Equinox](http://software.chessdom.com/equinox-sedina-efimov), November 4, 2009
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Sedina/Equinox - Efimov/Equinox](http://www.talkchess.com/forum/viewtopic.php?t=30463) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), November 03, 2009
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Italian Open Chess Software Cup 2012 « G 6](http://www.g-sei.org/italian-open-chess-software-cup-2012/) (Italian)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Italian Open Chess Software Cup - Photos | Facebook](https://www.facebook.com/pg/Italian-Open-Chess-Software-Cup-356448134432104/photos/)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Festival della Scienza 2009](http://festival2009.festivalscienza.it/site/Home.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> When the [planet](https://en.wikipedia.org/wiki/Planet) [Saturn](https://en.wikipedia.org/wiki/Saturn) is at [equinox](https://en.wikipedia.org/wiki/Equinox), its [rings](https://en.wikipedia.org/wiki/Rings_of_Saturn) pick up almost no light, as seen in this image by [Cassini](https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens), August 12, 2009, source [NASA CICLOPS](http://ciclops.org/view/5773/The_Rite_of_Spring?js=1), [Equinox from Wikipedia](https://en.wikipedia.org/wiki/Equinox)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Equinox 3.20 (free to all)](http://www.talkchess.com/forum/viewtopic.php?t=53884) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), September 30, 2014
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Message from the Equinox author](http://www.talkchess.com/forum/viewtopic.php?t=47411) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC") Engine Origins (requires registration), March 05, 2013
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Strongest chess event ever - TODAY](http://www.talkchess.com/forum/viewtopic.php?t=27881) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), May 13, 2009
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Festival della Scienza 2009](http://festival2009.festivalscienza.it/site/Home.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [WGM Sedina and GM Efimov battling against Equinox](http://software.chessdom.com/equinox-sedina-efimov), November 4, 2009
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Sedina/Equinox - Efimov/Equinox](http://www.talkchess.com/forum/viewtopic.php?t=30463) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), November 03, 2009
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Italian Open Chess Software Cup 2012 « G 6](http://www.g-sei.org/italian-open-chess-software-cup-2012/) (Italian)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Italian Open Chess Software Cup - Photos | Facebook](https://www.facebook.com/pg/Italian-Open-Chess-Software-Cup-356448134432104/photos/)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Festival della Scienza 2009](http://festival2009.festivalscienza.it/site/Home.html)
 
 **[Up one level](Engines "Engines")**
 

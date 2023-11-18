@@ -88,13 +88,13 @@ Aquarium features an **I**nteractive **De**ep **A**nalysis dubbed **IDeA**, usin
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aquarium from Wikipedia](https://en.wikipedia.org/wiki/Aquarium)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lomonosov Endgame Tablebases - History Note](http://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Final Review: The Lowdown on Office 2007](http://www.computerworld.com/s/article/9003994/Final_Review_The_Lowdown_on_Office_2007) by Richard Ericson, [Computerworld](Computerworld "Computerworld"), October 11, 2006
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Excel 2007's Ribbon Hurts Productivity, Survey Shows](http://www.exceluser.com/explore/surveys/ribbon/ribbon-survey-results.htm) by [Charley Kyd](http://www.exceluser.com/contact/kyd.htm), [Excel User--Reports, analyses, charts, & formulas for business](http://www.exceluser.com/index.htm), May, 2009
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ChessOK.com: Chess shop from the developers of Rybka 4 Aquarium](http://chessok.com/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ChessOK, Chess Shop from the Developers of Rybka 3 Aquarium](http://chessok.com/shop/index.php?Home=product_info&cPath=7_1&products_id=440)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [IDeA : ChessOK Aquarium Tiki](http://aquariumchess.com/tiki/tiki-index.php?page=IDeA)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aquarium from Wikipedia](https://en.wikipedia.org/wiki/Aquarium)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lomonosov Endgame Tablebases - History Note](http://chessok.com/?page_id=27966) - [ChessOK](ChessOK "ChessOK")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Final Review: The Lowdown on Office 2007](http://www.computerworld.com/s/article/9003994/Final_Review_The_Lowdown_on_Office_2007) by Richard Ericson, [Computerworld](Computerworld "Computerworld"), October 11, 2006
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Excel 2007's Ribbon Hurts Productivity, Survey Shows](http://www.exceluser.com/explore/surveys/ribbon/ribbon-survey-results.htm) by [Charley Kyd](http://www.exceluser.com/contact/kyd.htm), [Excel User--Reports, analyses, charts, & formulas for business](http://www.exceluser.com/index.htm), May, 2009
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ChessOK.com: Chess shop from the developers of Rybka 4 Aquarium](http://chessok.com/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ChessOK, Chess Shop from the Developers of Rybka 3 Aquarium](http://chessok.com/shop/index.php?Home=product_info&cPath=7_1&products_id=440)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [IDeA : ChessOK Aquarium Tiki](http://aquariumchess.com/tiki/tiki-index.php?page=IDeA)
 
 **[Up one Level](GUI "GUI")**
 

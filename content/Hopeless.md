@@ -86,10 +86,10 @@ Hopeless played the [PCCC 2006](PCCC_2006 "PCCC 2006"). In 2020 Hopeless and Cle
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Antonio Rotta](index.php?title=Category:Antonio_Rotta&action=edit&redlink=1 "Category:Antonio Rotta (page does not exist)") - [The Hopeless Case](https://commons.wikimedia.org/wiki/File:Antonio_Rotta_-_The_Hopeless_Case_-_Walters_37182.jpg) (1871), A young girl wearing a typical Venetian shawl listens stoically as the shoemaker reports upon the hopeless condition of her boot, [Walters Art Museum](https://en.wikipedia.org/wiki/Walters_Art_Museum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [hopeless chess / clericus release](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=14880) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), July 05, 2007
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Clericus/Hopeless ported to Lazarus](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74648) by [Roland Chastain](Roland_Chastain "Roland Chastain"), [CCC](CCC "CCC"), August 01, 2020
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Clericus Chess - Evaluation Function](http://pkoziol.cal24.pl/clericus/eval.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Antonio Rotta](index.php?title=Category:Antonio_Rotta&action=edit&redlink=1 "Category:Antonio Rotta (page does not exist)") - [The Hopeless Case](https://commons.wikimedia.org/wiki/File:Antonio_Rotta_-_The_Hopeless_Case_-_Walters_37182.jpg) (1871), A young girl wearing a typical Venetian shawl listens stoically as the shoemaker reports upon the hopeless condition of her boot, [Walters Art Museum](https://en.wikipedia.org/wiki/Walters_Art_Museum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [hopeless chess / clericus release](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=14880) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), July 05, 2007
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Clericus/Hopeless ported to Lazarus](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74648) by [Roland Chastain](Roland_Chastain "Roland Chastain"), [CCC](CCC "CCC"), August 01, 2020
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Clericus Chess - Evaluation Function](http://pkoziol.cal24.pl/clericus/eval.htm)
 
 **[Up one level](Engines "Engines")**
 

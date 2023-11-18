@@ -25,7 +25,7 @@ and was along with [Juha Kasanen](Juha_Kasanen "Juha Kasanen") and [Timo Saari](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Composers: April 5th](http://chesscomposers.blogspot.de/2012/04/april-5th.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Composers: April 5th](http://chesscomposers.blogspot.de/2012/04/april-5th.html)
 
 **[Up one level](People "People")**
 

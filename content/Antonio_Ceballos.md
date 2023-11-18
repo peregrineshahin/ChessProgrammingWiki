@@ -42,8 +42,8 @@ He is co-maintainer of [GNU Chess](GNU_Chess "GNU Chess") since version 6 was re
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Antonio Ceballos | LinkedIn](https://www.linkedin.com/in/antonio-ceballos-a90a8b)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: gnuchess 5.07.173b](http://www.talkchess.com/forum/viewtopic.php?t=40465&start=6) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh"), [CCC](CCC "CCC"), September 20, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Antonio Ceballos | LinkedIn](https://www.linkedin.com/in/antonio-ceballos-a90a8b)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: gnuchess 5.07.173b](http://www.talkchess.com/forum/viewtopic.php?t=40465&start=6) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh"), [CCC](CCC "CCC"), September 20, 2011
 
 **[Up one level](People "People")**
 

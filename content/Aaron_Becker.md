@@ -56,17 +56,17 @@ Starting in 2009, he developed the chess engine [Daydreamer](Daydreamer "Daydrea
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aaron Becker | LinkedIn](https://www.linkedin.com/in/aaron-becker-86093745/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Aaron Becker | LinkedIn](https://www.linkedin.com/in/aaron-becker-86093745/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Parallel Programming Laboratory - Aaron Becker](http://charm.cs.uiuc.edu/people/aaronbecker)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Parallel Programming Laboratory - Aaron Becker](http://charm.cs.uiuc.edu/people/aaronbecker)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Aaron Becker](https://dblp.uni-trier.de/pers/hd/b/Becker:Aaron) (mixed up with [Aaron T. Becker](https://sites.google.com/site/aabecker/home), 2012 Ph.D. in Electrical and Computer Engineering, also from [University of Illinois at Urbana-Champaign](University_of_Illinois_at_Urbana-Champaign "University of Illinois at Urbana-Champaign"))
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Partitioned global address space - Wikipedia](https://en.wikipedia.org/wiki/Partitioned_global_address_space)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Git (software) from Wikipedia](https://en.wikipedia.org/wiki/Git_%28software%29)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Cutechess-cli](Cutechess-cli "Cutechess-cli") by [Ilari Pihlajisto](Ilari_Pihlajisto "Ilari Pihlajisto") and [Arto Jonsson](index.php?title=Arto_Jonsson&action=edit&redlink=1 "Arto Jonsson (page does not exist)")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [BayesElo](http://remi.coulom.free.fr/Bayesian-Elo/) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [pgn-extract: Portable Game Notation (PGN) Manipulator for Chess Games](http://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/) by [David J. Barnes](David_J._Barnes "David J. Barnes")
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Project Euler from Wikipedia](https://en.wikipedia.org/wiki/Project_Euler)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aaron Becker | LinkedIn](https://www.linkedin.com/in/aaron-becker-86093745/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Aaron Becker | LinkedIn](https://www.linkedin.com/in/aaron-becker-86093745/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Parallel Programming Laboratory - Aaron Becker](http://charm.cs.uiuc.edu/people/aaronbecker)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Parallel Programming Laboratory - Aaron Becker](http://charm.cs.uiuc.edu/people/aaronbecker)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Aaron Becker](https://dblp.uni-trier.de/pers/hd/b/Becker:Aaron) (mixed up with [Aaron T. Becker](https://sites.google.com/site/aabecker/home), 2012 Ph.D. in Electrical and Computer Engineering, also from [University of Illinois at Urbana-Champaign](University_of_Illinois_at_Urbana-Champaign "University of Illinois at Urbana-Champaign"))
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Partitioned global address space - Wikipedia](https://en.wikipedia.org/wiki/Partitioned_global_address_space)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Git (software) from Wikipedia](https://en.wikipedia.org/wiki/Git_%28software%29)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Cutechess-cli](Cutechess-cli "Cutechess-cli") by [Ilari Pihlajisto](Ilari_Pihlajisto "Ilari Pihlajisto") and [Arto Jonsson](index.php?title=Arto_Jonsson&action=edit&redlink=1 "Arto Jonsson (page does not exist)")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [BayesElo](http://remi.coulom.free.fr/Bayesian-Elo/) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [pgn-extract: Portable Game Notation (PGN) Manipulator for Chess Games](http://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/) by [David J. Barnes](David_J._Barnes "David J. Barnes")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Project Euler from Wikipedia](https://en.wikipedia.org/wiki/Project_Euler)
 
 **[Up one level](People "People")**
 

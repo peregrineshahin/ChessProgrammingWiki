@@ -46,11 +46,11 @@ Walter Ravenek started in the early 90s in developing his chess program [Arthur]
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [wravenek (Walter Ravenek) · GitHub](https://github.com/wravenek)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICT8 Ronde 1](https://www.csvn.nl/index.php/nieuws/18-vereniging/292-ronde-1), Photo Gallery no longer available
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Walter Ravenek's research works | Vrije Universiteit Amsterdam, Amsterdam (VU) and other places](https://www.researchgate.net/scientific-contributions/84254315_Walter_Ravenek)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hartree–Fock method from Wikipedia](https://en.wikipedia.org/wiki/Hartree%E2%80%93Fock_method)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Linear combination of atomic orbitals - Wikipedia](https://en.wikipedia.org/wiki/Linear_combination_of_atomic_orbitals)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [wravenek (Walter Ravenek) · GitHub](https://github.com/wravenek)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICT8 Ronde 1](https://www.csvn.nl/index.php/nieuws/18-vereniging/292-ronde-1), Photo Gallery no longer available
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Walter Ravenek's research works | Vrije Universiteit Amsterdam, Amsterdam (VU) and other places](https://www.researchgate.net/scientific-contributions/84254315_Walter_Ravenek)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hartree–Fock method from Wikipedia](https://en.wikipedia.org/wiki/Hartree%E2%80%93Fock_method)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Linear combination of atomic orbitals - Wikipedia](https://en.wikipedia.org/wiki/Linear_combination_of_atomic_orbitals)
 
 **[Up one level](People "People")**
 

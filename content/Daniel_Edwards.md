@@ -41,11 +41,11 @@ Many people participated in the initial development of [LISP](index.php?title=LI
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Daniel Edwards, [Jeffrey R. Yost](https://mitpress.mit.edu/authors/jeffrey-r-yost) (**2013**). *[Oral history interview with Daniel J. Edwards](https://conservancy.umn.edu/handle/11299/162379)*. [Charles Babbage Institute](https://en.wikipedia.org/wiki/Charles_Babbage_Institute)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [James P. Anderson](http://ieeexplore.ieee.org/document/4446691/) (**1972**). *Computer Security Planning Study*. ESD-TR-73-51, Vol. II, [pdf](http://seclab.cs.ucdavis.edu/projects/history/papers/ande72.pdf), Trojan Horse, pp. 62
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Daniel Edwards, [Timothy Hart](Timothy_Hart "Timothy Hart") (**1961**). *[The Alpha-Beta Heuristic](https://dspace.mit.edu/handle/1721.1/6098)*. AIM-030
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [John McCarthy](John_McCarthy "John McCarthy") (**1979**). *[History of Lisp](http://jmc.stanford.edu/articles/lisp.html)*. Chapter 4, From LISP 1 to LISP 1.5
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [McCarthy et al. LISP 1.5 Programmer's Manual.](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") Software Preservation Group
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Daniel Edwards, [Jeffrey R. Yost](https://mitpress.mit.edu/authors/jeffrey-r-yost) (**2013**). *[Oral history interview with Daniel J. Edwards](https://conservancy.umn.edu/handle/11299/162379)*. [Charles Babbage Institute](https://en.wikipedia.org/wiki/Charles_Babbage_Institute)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [James P. Anderson](http://ieeexplore.ieee.org/document/4446691/) (**1972**). *Computer Security Planning Study*. ESD-TR-73-51, Vol. II, [pdf](http://seclab.cs.ucdavis.edu/projects/history/papers/ande72.pdf), Trojan Horse, pp. 62
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Daniel Edwards, [Timothy Hart](Timothy_Hart "Timothy Hart") (**1961**). *[The Alpha-Beta Heuristic](https://dspace.mit.edu/handle/1721.1/6098)*. AIM-030
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [John McCarthy](John_McCarthy "John McCarthy") (**1979**). *[History of Lisp](http://jmc.stanford.edu/articles/lisp.html)*. Chapter 4, From LISP 1 to LISP 1.5
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [McCarthy et al. LISP 1.5 Programmer's Manual.](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") Software Preservation Group
 
 **[Up one level](People "People")**
 

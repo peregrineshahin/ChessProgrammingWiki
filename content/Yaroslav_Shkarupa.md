@@ -23,10 +23,10 @@ As exchange student at the [University of Groningen](https://en.wikipedia.org/wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [YAR0N (Yaroslav Shkarupa) · GitHub](https://github.com/YAR0N)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Yaroslav Shkarupa | LinkedIn](https://www.linkedin.com/in/yaroslav-shkarupa-b853a850/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Zacharias Georgiou](Zacharias_Georgiou "Zacharias Georgiou"), [Evangelos Karountzos](Evangelos_Karountzos "Evangelos Karountzos"), Yaroslav Shkarupa, [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli") (**2016**). *A Reinforcement Learning Approach for Solving KRK Chess Endgames*. [pdf](https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames/blob/master/project_papers/final_paper/reinforcement-learning-approach(2).pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames: Machine Learning - Reinforcement Learning](https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [YAR0N (Yaroslav Shkarupa) · GitHub](https://github.com/YAR0N)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Yaroslav Shkarupa | LinkedIn](https://www.linkedin.com/in/yaroslav-shkarupa-b853a850/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Zacharias Georgiou](Zacharias_Georgiou "Zacharias Georgiou"), [Evangelos Karountzos](Evangelos_Karountzos "Evangelos Karountzos"), Yaroslav Shkarupa, [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli") (**2016**). *A Reinforcement Learning Approach for Solving KRK Chess Endgames*. [pdf](https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames/blob/master/project_papers/final_paper/reinforcement-learning-approach(2).pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames: Machine Learning - Reinforcement Learning](https://github.com/paintception/A-Reinforcement-Learning-Approach-for-Solving-Chess-Endgames)
 
 **[Up one Level](People "People")**
 

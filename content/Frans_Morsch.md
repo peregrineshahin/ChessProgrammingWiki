@@ -60,16 +60,16 @@ Frans Morsch ([Fritz](Fritz "Fritz")) with the biggest cup at [ICT 2002](ICT_200
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Frans Morsch](http://www.schach-computer.info/wiki/index.php/Frans_Morsch) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mephisto Mondial](http://www.schach-computer.info/wiki/index.php/Mephisto_Mondial) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: New Fritz author?](http://www.talkchess.com/forum/viewtopic.php?t=50149&start=25) by [Albert Silver](Albert_Silver "Albert Silver"), [CCC](CCC "CCC"), November 20, 2013
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [New Fritz author?](http://www.talkchess.com/forum/viewtopic.php?t=50149) by John Hartmann, [CCC](CCC "CCC"), November 19, 2013
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Fritz 15 engine - questions and answers](http://en.chessbase.com/post/fritz-15-engine-questions-and-answers) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), January 04, 2016
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Computerschaak pagina 3](http://www.csvnsupplementsite.nl/CSVNPAGINA3.html) (Dutch)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Image by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [ICCA Journal, Vol. 18, No. 2](ICGA_Journal#18_2 "ICGA Journal"), pp. 81
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Shatin 1995 - Chess - Round 6 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=29&round=6&id=1)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [2nd CSVN-Tournament 2002 Gallery](http://old.csvn.nl/gallery16.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Frans Morsch](http://www.schach-computer.info/wiki/index.php/Frans_Morsch) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mephisto Mondial](http://www.schach-computer.info/wiki/index.php/Mephisto_Mondial) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: New Fritz author?](http://www.talkchess.com/forum/viewtopic.php?t=50149&start=25) by [Albert Silver](Albert_Silver "Albert Silver"), [CCC](CCC "CCC"), November 20, 2013
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [New Fritz author?](http://www.talkchess.com/forum/viewtopic.php?t=50149) by John Hartmann, [CCC](CCC "CCC"), November 19, 2013
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fritz 15 engine - questions and answers](http://en.chessbase.com/post/fritz-15-engine-questions-and-answers) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), January 04, 2016
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Computerschaak pagina 3](http://www.csvnsupplementsite.nl/CSVNPAGINA3.html) (Dutch)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> Image by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [ICCA Journal, Vol. 18, No. 2](ICGA_Journal#18_2 "ICGA Journal"), pp. 81
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Shatin 1995 - Chess - Round 6 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=29&round=6&id=1)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [2nd CSVN-Tournament 2002 Gallery](http://old.csvn.nl/gallery16.html)
 
 **[Up one level](People "People")**
 

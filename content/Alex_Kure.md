@@ -28,8 +28,8 @@ He is further opening book author of the commercial chess program [Fritz](Fritz 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image clipped from [President's Computer Challenge: Junior leads Fritz 3:1](https://en.chessbase.com/post/president-s-computer-challenge-junior-leads-fritz-3-1), [ChessBase News](ChessBase "ChessBase"), June 10, 2007 » [Deep Fritz versus Deep Junior 2007](Deep_Fritz_versus_Deep_Junior_2007 "Deep Fritz versus Deep Junior 2007")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hydra 97](Hydra_97 "Hydra 97"), playing the [WMCCC 1997](WMCCC_1997 "WMCCC 1997"), not the [FPGA](FPGA "FPGA") project
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image clipped from [President's Computer Challenge: Junior leads Fritz 3:1](https://en.chessbase.com/post/president-s-computer-challenge-junior-leads-fritz-3-1), [ChessBase News](ChessBase "ChessBase"), June 10, 2007 » [Deep Fritz versus Deep Junior 2007](Deep_Fritz_versus_Deep_Junior_2007 "Deep Fritz versus Deep Junior 2007")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hydra 97](Hydra_97 "Hydra 97"), playing the [WMCCC 1997](WMCCC_1997 "WMCCC 1997"), not the [FPGA](FPGA "FPGA") project
 
 **[Up one level](People "People")**
 

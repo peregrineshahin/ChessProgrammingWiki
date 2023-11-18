@@ -92,12 +92,12 @@ In the fall of 1960 the chess group, without [Mr. Berlekamp](Elwyn_Berlekamp "El
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Arthur Norberg](http://www.cbi.umn.edu/about/norberg.html) (**2007**). *[Paul W. Abrahams Interview](http://portal.acm.org/citation.cfm?id=1380529)*.
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alan Kotok](Alan_Kotok "Alan Kotok") (**1962**). *[Artificial Intelligence Project - MIT Computation Center: Memo 41 - A Chess Playing Program](http://www.kotok.org/AI_Memo_41.html)*. [pdf](ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-041.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alan Kotok](Alan_Kotok "Alan Kotok") (**1962**). *A Chess Playing Program for the IBM 7090*. B.S. Thesis, MIT, AI Project Memo 41, Computation Center, Cambridge MA. [pdf](http://www.kotok.org/AK-Thesis-1962.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Paul W. Abrahams](https://dblp.uni-trier.de/pers/hd/a/Abrahams:Paul_W=.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [McCarthy et al. LISP 1.5 Programmer's Manual.](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") Software Preservation Group
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [TeX from Wikipedia](https://en.wikipedia.org/wiki/TeX)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Arthur Norberg](http://www.cbi.umn.edu/about/norberg.html) (**2007**). *[Paul W. Abrahams Interview](http://portal.acm.org/citation.cfm?id=1380529)*.
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alan Kotok](Alan_Kotok "Alan Kotok") (**1962**). *[Artificial Intelligence Project - MIT Computation Center: Memo 41 - A Chess Playing Program](http://www.kotok.org/AI_Memo_41.html)*. [pdf](ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-041.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alan Kotok](Alan_Kotok "Alan Kotok") (**1962**). *A Chess Playing Program for the IBM 7090*. B.S. Thesis, MIT, AI Project Memo 41, Computation Center, Cambridge MA. [pdf](http://www.kotok.org/AK-Thesis-1962.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Paul W. Abrahams](https://dblp.uni-trier.de/pers/hd/a/Abrahams:Paul_W=.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [McCarthy et al. LISP 1.5 Programmer's Manual.](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") Software Preservation Group
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [TeX from Wikipedia](https://en.wikipedia.org/wiki/TeX)
 
 **[Up one level](People "People")**
 

@@ -82,11 +82,11 @@ Kxh4 66.Nxh7 Kg3 67.Nf6 f2 68.Nd5 1/2-1/2
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Fidelity Sensory Challenger 9 Electronic Chess Computer](http://www.spacious-mind.com/html/sensory_challenger_9.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sensory Chess Challenger 9](https://www.flickr.com/photos/10261668@N05/858217385/in/album-72157600923819227/) [Fidelity ..The Golden Years | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600923819227/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Kittinger](David_Kittinger "David Kittinger") (**1984**). *Report from Budapest*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 34
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1984**). *Move from the East*. Report of the WMCCC 1983, [Personal Computer World](Personal_Computer_World "Personal Computer World"), January 1984
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Budapest 1983 - Chess - Round 1 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=1&id=4)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Fidelity Sensory Challenger 9 Electronic Chess Computer](http://www.spacious-mind.com/html/sensory_challenger_9.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sensory Chess Challenger 9](https://www.flickr.com/photos/10261668@N05/858217385/in/album-72157600923819227/) [Fidelity ..The Golden Years | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600923819227/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Kittinger](David_Kittinger "David Kittinger") (**1984**). *Report from Budapest*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 34
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1984**). *Move from the East*. Report of the WMCCC 1983, [Personal Computer World](Personal_Computer_World "Personal Computer World"), January 1984
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Budapest 1983 - Chess - Round 1 - Game 4 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=1&id=4)
 
 **[Up one level](Chess_Challenger "Chess Challenger")**
 

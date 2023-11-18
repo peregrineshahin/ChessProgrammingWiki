@@ -37,9 +37,9 @@ During the 80s, he was affiliated with the [University of Alberta](University_of
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [timbreitkreutz (Tim Breitkreutz) · GitHub](https://github.com/timbreitkreutz)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tim Breitkreutz | LinkedIn](https://www.linkedin.com/in/timbreitkreutz)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: T. Breitkreutz](http://dblp.uni-trier.de/pers/hd/b/Breitkreutz:T=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [timbreitkreutz (Tim Breitkreutz) · GitHub](https://github.com/timbreitkreutz)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tim Breitkreutz | LinkedIn](https://www.linkedin.com/in/timbreitkreutz)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: T. Breitkreutz](http://dblp.uni-trier.de/pers/hd/b/Breitkreutz:T=)
 
 **[Up one level](People "People")**
 

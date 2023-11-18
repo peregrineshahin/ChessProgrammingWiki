@@ -44,10 +44,10 @@ His research interests include [programming languages](Languages "Languages"), [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sašo Greiner – Laboratorij za računalniške arhitekture in jezike](https://labraj.feri.um.si/Sa%C5%A1o_Greiner)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/General_Information)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Saso Greiner](https://dblp.uni-trier.de/pers/hd/g/Greiner:Saso)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Programming language Zero - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/index.php/Programming_language_Zero)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sašo Greiner – Laboratorij za računalniške arhitekture in jezike](https://labraj.feri.um.si/Sa%C5%A1o_Greiner)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/General_Information)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Saso Greiner](https://dblp.uni-trier.de/pers/hd/g/Greiner:Saso)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Programming language Zero - Computer Architecture and Languages Laboratory](https://labraj.feri.um.si/en/index.php/Programming_language_Zero)
 
 **[Up one level](People "People")**
 

@@ -94,15 +94,15 @@ In 2015, the [Millennium ChessGenius](Millennium_ChessGenius "Millennium ChessGe
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Impressum - Computerchess](https://computerchess.com/impressum/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MILLENNIUM 2000 GmbH - Story](http://www.millennium2000.de/story.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Millennium 2000 GmbH Hegener & Weiner, Aschheim - Geschäftsstelle | CompanyHouse](https://www.companyhouse.de/Millennium-2000-GmbH-Hegener-Weiner-Aschheim) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MCHESS PRO](https://groups.google.com/g/rec.games.chess.computer/c/VkDSuYr15fo/m/yJlAa234Fj8J) by [Marty Hirsch](Marty_Hirsch "Marty Hirsch"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 24, 1997
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Chess Genius 6.5](https://groups.google.com/g/rec.games.chess.computer/c/ie_jsMcfQbM/m/cXUNHOmWEL8J) by pc...@delthis.co.uk, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 24, 1999
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Millennium (WM-Pacet 2001)](https://www.stmintz.com/ccc/index.php?id=154964) by Michael P. Nance Sr., [CCC](CCC "CCC"), February 17, 2001
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Schachclub Leinzell - Schach + PC - Nimzo 2000, Teil 1](http://scleinzell.schachvereine.de/p_spielprogramme/nimzo2000.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (**2008**). *[De firma Millennium 2000 GmbH Hegener & Weiner in vogelvlucht](http://www.schaakcomputers.nl/hein_veldhuis/database/files/Millennium%20information.pdf)*. (pdf with collected informations in Dutch and German)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (**2008**). *[De firma Millennium 2000 GmbH Hegener & Weiner in vogelvlucht](http://www.schaakcomputers.nl/hein_veldhuis/database/files/Millennium%20information.pdf)*. (pdf with collected informations in Dutch and German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Impressum - Computerchess](https://computerchess.com/impressum/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MILLENNIUM 2000 GmbH - Story](http://www.millennium2000.de/story.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Millennium 2000 GmbH Hegener & Weiner, Aschheim - Geschäftsstelle | CompanyHouse](https://www.companyhouse.de/Millennium-2000-GmbH-Hegener-Weiner-Aschheim) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MCHESS PRO](https://groups.google.com/g/rec.games.chess.computer/c/VkDSuYr15fo/m/yJlAa234Fj8J) by [Marty Hirsch](Marty_Hirsch "Marty Hirsch"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 24, 1997
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Chess Genius 6.5](https://groups.google.com/g/rec.games.chess.computer/c/ie_jsMcfQbM/m/cXUNHOmWEL8J) by pc...@delthis.co.uk, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 24, 1999
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Millennium (WM-Pacet 2001)](https://www.stmintz.com/ccc/index.php?id=154964) by Michael P. Nance Sr., [CCC](CCC "CCC"), February 17, 2001
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Schachclub Leinzell - Schach + PC - Nimzo 2000, Teil 1](http://scleinzell.schachvereine.de/p_spielprogramme/nimzo2000.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (German)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (**2008**). *[De firma Millennium 2000 GmbH Hegener & Weiner in vogelvlucht](http://www.schaakcomputers.nl/hein_veldhuis/database/files/Millennium%20information.pdf)*. (pdf with collected informations in Dutch and German)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (**2008**). *[De firma Millennium 2000 GmbH Hegener & Weiner in vogelvlucht](http://www.schaakcomputers.nl/hein_veldhuis/database/files/Millennium%20information.pdf)*. (pdf with collected informations in Dutch and German)
 
 **[Up one Level](Organizations "Organizations")**
 

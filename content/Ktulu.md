@@ -187,10 +187,10 @@ Rg8 57.Bh7 Bxg7 58.Bxg8 Bc3 59.Bf7 a3 60.Be8+ Kc5 61.Be3+ Kd6 62.Bxb5 a2 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> An artist's [visual representation](https://commons.wikimedia.org/wiki/File:Cthulhu_and_R%27lyeh.jpg) of the Elder God [Cthulhu](https://en.wikipedia.org/wiki/Cthulhu), by [BenduKiwi](https://commons.wikimedia.org/wiki/User:BenduKiwi), July 30, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ktulu](https://www.lokasoft.nl/ktulu.aspx) from [Lokasoft](Lokasoft "Lokasoft") (as of July 2020, no longer available)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ktulu 6.2 will be released soon](https://web.archive.org/web/20110611144445/http://www.playwitharena.com/?Newsticker:Archive_6), Interview with [Rahman Paidar](Rahman_Paidar "Rahman Paidar") by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Arena News-Ticker](Arena "Arena") 80, March 15, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Klaus Wlotzka](index.php?title=Klaus_Wlotzka&action=edit&redlink=1 "Klaus Wlotzka (page does not exist)") (**2006**). *Ktulu 8 - Interview mit Rahman Paidar*. [CSS Online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](https://computerschach.de/Files/2006/CSS-Rangliste%20-%20Der%20Weltmeister%20im%20Blickpunkt.pdf) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> An artist's [visual representation](https://commons.wikimedia.org/wiki/File:Cthulhu_and_R%27lyeh.jpg) of the Elder God [Cthulhu](https://en.wikipedia.org/wiki/Cthulhu), by [BenduKiwi](https://commons.wikimedia.org/wiki/User:BenduKiwi), July 30, 2006, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ktulu](https://www.lokasoft.nl/ktulu.aspx) from [Lokasoft](Lokasoft "Lokasoft") (as of July 2020, no longer available)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ktulu 6.2 will be released soon](https://web.archive.org/web/20110611144445/http://www.playwitharena.com/?Newsticker:Archive_6), Interview with [Rahman Paidar](Rahman_Paidar "Rahman Paidar") by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Arena News-Ticker](Arena "Arena") 80, March 15, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Klaus Wlotzka](index.php?title=Klaus_Wlotzka&action=edit&redlink=1 "Klaus Wlotzka (page does not exist)") (**2006**). *Ktulu 8 - Interview mit Rahman Paidar*. [CSS Online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](https://computerschach.de/Files/2006/CSS-Rangliste%20-%20Der%20Weltmeister%20im%20Blickpunkt.pdf) (German)
 
 **[Up one level](Engines "Engines")**
 

@@ -25,9 +25,9 @@ In the 1950s, he collaborated with the [Carnegie Mellon University](Carnegie_Mel
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [November 7, 1960 - RAND's JOSS Operating System Begins](http://www.computerhistory.org/tdih/November/7/) from [This Day in History](http://www.computerhistory.org/tdih/) of [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cliff Shaw from Wikipedia](https://en.wikipedia.org/wiki/Cliff_Shaw)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [General Problem Solver from Wikipedia](https://en.wikipedia.org/wiki/General_Problem_Solver)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [November 7, 1960 - RAND's JOSS Operating System Begins](http://www.computerhistory.org/tdih/November/7/) from [This Day in History](http://www.computerhistory.org/tdih/) of [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cliff Shaw from Wikipedia](https://en.wikipedia.org/wiki/Cliff_Shaw)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [General Problem Solver from Wikipedia](https://en.wikipedia.org/wiki/General_Problem_Solver)
 
 **[Up one level](People "People")**
 

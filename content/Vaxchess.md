@@ -81,12 +81,12 @@ Rd8 24.Rxd8+ Qxd8 25.Rg6 Qh4 26.cxb6 cxb6 27.Qd5 Qxh3 28.Rg3 Qh4 29.Qa8+ Kh7
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Die shot of DEC [MicroVAX 78032-GD](https://en.wikipedia.org/wiki/MicroVAX_78032) microprocessor from [VAXstation2000](https://en.wikipedia.org/wiki/VAXstation#VAXstation_2000) with chip number DC333R and part number 21-20887-05 on heatsink. Image by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), August 23, 2013,
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [VAX Macro from Wikipedia](https://en.wikipedia.org/wiki/VAX_Macro)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The ACM's Seventeenth North American Computer Chess Championship and The Sixth World Microcomputer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6ca4a7) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cologne 1986 - Chess - Round 3 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=3&id=8)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Helmut Horacek](Helmut_Horacek "Helmut Horacek") (**1986**). *The Fifth World Computer Chess Championship Cologne, 1986*. Research Unit for Information Science and Artificial Intelligence, [University of Hamburg](University_of_Hamburg "University of Hamburg"), from [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](https://www.computerhistory.org/chess/doc-434fea055cbb3/) p 21, hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Cologne 1986 - Chess - Round 5 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=5&id=8)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Die shot of DEC [MicroVAX 78032-GD](https://en.wikipedia.org/wiki/MicroVAX_78032) microprocessor from [VAXstation2000](https://en.wikipedia.org/wiki/VAXstation#VAXstation_2000) with chip number DC333R and part number 21-20887-05 on heatsink. Image by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), August 23, 2013,
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [VAX Macro from Wikipedia](https://en.wikipedia.org/wiki/VAX_Macro)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The ACM's Seventeenth North American Computer Chess Championship and The Sixth World Microcomputer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6ca4a7) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cologne 1986 - Chess - Round 3 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=3&id=8)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Helmut Horacek](Helmut_Horacek "Helmut Horacek") (**1986**). *The Fifth World Computer Chess Championship Cologne, 1986*. Research Unit for Information Science and Artificial Intelligence, [University of Hamburg](University_of_Hamburg "University of Hamburg"), from [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](https://www.computerhistory.org/chess/doc-434fea055cbb3/) p 21, hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Cologne 1986 - Chess - Round 5 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=5&id=8)
 
 **[Up one level](Engines "Engines")**
 

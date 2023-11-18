@@ -224,15 +224,15 @@ int popCount (U64 x) {
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Flynn's taxonomy from Wikipedia](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Aggregate: SWAR, SIMD Within A Register](http://www.aggregate.org/SWAR/) by [Hank Dietz](Hank_Dietz "Hank Dietz")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SSE5 from Wikipedia](https://en.wikipedia.org/wiki/SSE5)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SVE from Wikipedia](https://en.wikipedia.org/wiki/AArch64#Scalable_Vector_Extension_(SVE))
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [SVE2 from Wikipedia](https://en.wikipedia.org/wiki/SVE)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [VIS from Wikipedia](https://en.wikipedia.org/wiki/Visual_Instruction_Set)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [RISC-V vector-set from Wikipedia](https://en.wikipedia.org/wiki/RISC-V#Vector_set)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Georg Hager's Blog | Random thoughts on High Performance Computing](https://blogs.fau.de/hager/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> On December 7, 2015, [NXP Semiconductors](https://en.wikipedia.org/wiki/NXP_Semiconductors) completed its acquisition of Freescale, [Freescale from Wikipedia](https://en.wikipedia.org/wiki/Freescale_Semiconductor)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Flynn's taxonomy from Wikipedia](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Aggregate: SWAR, SIMD Within A Register](http://www.aggregate.org/SWAR/) by [Hank Dietz](Hank_Dietz "Hank Dietz")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SSE5 from Wikipedia](https://en.wikipedia.org/wiki/SSE5)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SVE from Wikipedia](https://en.wikipedia.org/wiki/AArch64#Scalable_Vector_Extension_(SVE))
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [SVE2 from Wikipedia](https://en.wikipedia.org/wiki/SVE)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [VIS from Wikipedia](https://en.wikipedia.org/wiki/Visual_Instruction_Set)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [RISC-V vector-set from Wikipedia](https://en.wikipedia.org/wiki/RISC-V#Vector_set)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Georg Hager's Blog | Random thoughts on High Performance Computing](https://blogs.fau.de/hager/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> On December 7, 2015, [NXP Semiconductors](https://en.wikipedia.org/wiki/NXP_Semiconductors) completed its acquisition of Freescale, [Freescale from Wikipedia](https://en.wikipedia.org/wiki/Freescale_Semiconductor)
 
 **[Up one Level](Programming "Programming")**
 

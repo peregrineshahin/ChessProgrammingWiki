@@ -53,9 +53,9 @@ h5 26.Qf5 bxc3 27.Bxd5 Qd7 28.Qxh5 Kg7 29.Qg5+ Kf8 30.Bxf7 Kxf7 31.Rf1+ 1-0
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [KI – Machinelearning – Delmare.de](https://www.delmare.de/ki-deeplearning/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Lyon 1990 - Chess - Round 7 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=60&round=7&id=2)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [KI – Machinelearning – Delmare.de](https://www.delmare.de/ki-deeplearning/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lyon 1990 - Chess - Round 7 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=60&round=7&id=2)
 
 **[Up one Level](Engines "Engines")**
 

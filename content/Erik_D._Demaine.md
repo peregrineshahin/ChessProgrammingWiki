@@ -53,13 +53,13 @@ Mathematical origami artwork by Erik and his father [Martin L. Demaine](index.ph
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Erik Demaine (left) with [Martin Demaine](index.php?title=Martin_L._Demaine&action=edit&redlink=1 "Martin L. Demaine (page does not exist)") (center) and [Bill Spight](index.php?title=Bill_Spight&action=edit&redlink=1 "Bill Spight (page does not exist)") (background) watch [John Conway](John_H._Conway "John H. Conway") (foreground) do a [card trick](https://en.wikipedia.org/wiki/Card_manipulation) at Workshop on [Combinatorial Game Theory](https://en.wikipedia.org/wiki/Combinatorial_game_theory) at [Banff International Research Station](https://en.wikipedia.org/wiki/Banff_International_Research_Station), June, 2005, Photo by [Thane Plambeck](https://www.flickr.com/photos/thane), June 21 2005, [Erik Demaine from Wikipedia](https://en.wikipedia.org/wiki/Erik_Demaine)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computational Origami (2008): Curved-Crease Sculpture by Erik and Martin Demaine](http://erikdemaine.org/curved/MoMA/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Erik Demaine's Papers](http://erikdemaine.org/papers/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Erik D. Demaine](https://dblp.uni-trier.de/pers/hd/d/Demaine:Erik_D=)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Buddy memory allocation from Wikipedia](https://en.wikipedia.org/wiki/Buddy_memory_allocation)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Phutball from Wikipedia](https://en.wikipedia.org/wiki/Phutball)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Tango tree from Wikipedia](https://en.wikipedia.org/wiki/Tango_tree)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Erik Demaine (left) with [Martin Demaine](index.php?title=Martin_L._Demaine&action=edit&redlink=1 "Martin L. Demaine (page does not exist)") (center) and [Bill Spight](index.php?title=Bill_Spight&action=edit&redlink=1 "Bill Spight (page does not exist)") (background) watch [John Conway](John_H._Conway "John H. Conway") (foreground) do a [card trick](https://en.wikipedia.org/wiki/Card_manipulation) at Workshop on [Combinatorial Game Theory](https://en.wikipedia.org/wiki/Combinatorial_game_theory) at [Banff International Research Station](https://en.wikipedia.org/wiki/Banff_International_Research_Station), June, 2005, Photo by [Thane Plambeck](https://www.flickr.com/photos/thane), June 21 2005, [Erik Demaine from Wikipedia](https://en.wikipedia.org/wiki/Erik_Demaine)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computational Origami (2008): Curved-Crease Sculpture by Erik and Martin Demaine](http://erikdemaine.org/curved/MoMA/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Erik Demaine's Papers](http://erikdemaine.org/papers/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Erik D. Demaine](https://dblp.uni-trier.de/pers/hd/d/Demaine:Erik_D=)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Buddy memory allocation from Wikipedia](https://en.wikipedia.org/wiki/Buddy_memory_allocation)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Phutball from Wikipedia](https://en.wikipedia.org/wiki/Phutball)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Tango tree from Wikipedia](https://en.wikipedia.org/wiki/Tango_tree)
 
 **[Up one level](People "People")**
 

@@ -87,11 +87,11 @@ an American software developer, software architect, and independent [IT consulta
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jon Dart - LinkedIn](http://www.linkedin.com/pub/jon-dart/3/382/b7)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jon Dart | LinkedIn](http://www.linkedin.com/pub/jon-dart/3/382/b7)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Arasan chess](http://www.arasanchess.org/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko") (**2014**). *[Large-Scale Optimization for Evaluation Functions with Minimax Search](https://www.jair.org/papers/paper4217.html)*. [JAIR Vol. 49](https://www.jair.org/vol/vol49.html), [pdf](https://www.jair.org/media/4217/live-4217-7792-jair.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Arasan test suite additions](http://www.talkchess.com/forum/viewtopic.php?t=46500) by Jon Dart, [CCC](CCC "CCC"), December 20, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jon Dart - LinkedIn](http://www.linkedin.com/pub/jon-dart/3/382/b7)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jon Dart | LinkedIn](http://www.linkedin.com/pub/jon-dart/3/382/b7)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Arasan chess](http://www.arasanchess.org/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko") (**2014**). *[Large-Scale Optimization for Evaluation Functions with Minimax Search](https://www.jair.org/papers/paper4217.html)*. [JAIR Vol. 49](https://www.jair.org/vol/vol49.html), [pdf](https://www.jair.org/media/4217/live-4217-7792-jair.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Arasan test suite additions](http://www.talkchess.com/forum/viewtopic.php?t=46500) by Jon Dart, [CCC](CCC "CCC"), December 20, 2012
 
 **[Up one level](People "People")**
 

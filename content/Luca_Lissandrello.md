@@ -50,10 +50,10 @@ He is active member of the [G 6](G_6 "G 6") or GSei, the **G**ruppo **S**cacchi 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Luca Lissandrello during [IGT 2013](IGT_2013 "IGT 2013"), [International Gsei Tournament 2013](http://www.g-sei.org/i-g-t-2013/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lissandrello, Luca FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=886769)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Engine update: Neurone I](http://www.talkchess.com/forum/viewtopic.php?t=33074) by [Alex Brunetti](Alex_Brunetti "Alex Brunetti"), [CCC](CCC "CCC"), March 04, 2010
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [International Gsei Tournament 2013](http://www.g-sei.org/i-g-t-2013/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Luca Lissandrello during [IGT 2013](IGT_2013 "IGT 2013"), [International Gsei Tournament 2013](http://www.g-sei.org/i-g-t-2013/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lissandrello, Luca FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=886769)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Engine update: Neurone I](http://www.talkchess.com/forum/viewtopic.php?t=33074) by [Alex Brunetti](Alex_Brunetti "Alex Brunetti"), [CCC](CCC "CCC"), March 04, 2010
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [International Gsei Tournament 2013](http://www.g-sei.org/i-g-t-2013/)
 
 **[Up one level](People "People")**
 

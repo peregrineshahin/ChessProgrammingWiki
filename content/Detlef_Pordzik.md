@@ -30,10 +30,10 @@ Elvis wrote computer chess related articles in the German chess newspaper [Rocha
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [elvis](https://muraya.beepworld.de/elvis.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [elvis](https://muraya.beepworld.de/elvis.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Der Weltmeister - Shredder 4 - Teil 3](http://scleinzell.schachvereine.de/p_spielprogramme/shredder4_c.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml), December 1999 (German)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (**2008**). *[De firma Millennium 2000 GmbH Hegener & Weiner in vogelvlucht](http://www.schaakcomputers.nl/hein_veldhuis/database/files/Millennium%20information.pdf)*. (pdf with collected informations in Dutch and German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [elvis](https://muraya.beepworld.de/elvis.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [elvis](https://muraya.beepworld.de/elvis.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Der Weltmeister - Shredder 4 - Teil 3](http://scleinzell.schachvereine.de/p_spielprogramme/shredder4_c.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml), December 1999 (German)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (**2008**). *[De firma Millennium 2000 GmbH Hegener & Weiner in vogelvlucht](http://www.schaakcomputers.nl/hein_veldhuis/database/files/Millennium%20information.pdf)*. (pdf with collected informations in Dutch and German)
 
 **[Up one level](People "People")**
 

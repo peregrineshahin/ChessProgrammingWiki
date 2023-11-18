@@ -42,10 +42,10 @@ an American computer scientist, [AI](Artificial_Intelligence "Artificial Intelli
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [User:Andrew G. Barto - Scholarpedia](http://www.scholarpedia.org/article/User:Andrew_G._Barto)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Barto biosketch](http://www-all.cs.umass.edu/%7Ebarto/biosketch.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Andrew G. Barto](https://dblp.uni-trier.de/pers/hd/b/Barto:Andrew_G=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [User:Andrew G. Barto - Scholarpedia](http://www.scholarpedia.org/article/User:Andrew_G._Barto)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Barto biosketch](http://www-all.cs.umass.edu/%7Ebarto/biosketch.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Andrew G. Barto](https://dblp.uni-trier.de/pers/hd/b/Barto:Andrew_G=)
 
 **[Up one level](People "People")**
 

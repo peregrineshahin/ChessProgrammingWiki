@@ -30,10 +30,10 @@ Unfortunately, a damage to the machine during shipment from California forced it
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé") (**2002**). *An FPGA Move Generator for the Game of Chess*. Masters thesis, [McGill University](McGill_University "McGill University"), Supervisor: [Zeljko Zilic](Zeljko_Zilic "Zeljko Zilic"), Co-Supervisor: [Monty Newborn](Monroe_Newborn "Monroe Newborn")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The 21st Annual ACM North American Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6cbb95/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Quick moves claim computer-chess title - Free Online Library](http://www.thefreelibrary.com/Quick+moves+claim+computer-chess+title.-a09145976), November 24, 1990
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Monty Newborn](Monroe_Newborn "Monroe Newborn"), [Danny Kopec](Danny_Kopec "Danny Kopec") (**1991**). *[The 21st ACM North American Computer Chess Championship](http://dl.acm.org/citation.cfm?id=125497)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 34, No. 11
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marc Boulé](Marc_Boul%C3%A9 "Marc Boulé") (**2002**). *An FPGA Move Generator for the Game of Chess*. Masters thesis, [McGill University](McGill_University "McGill University"), Supervisor: [Zeljko Zilic](Zeljko_Zilic "Zeljko Zilic"), Co-Supervisor: [Monty Newborn](Monroe_Newborn "Monroe Newborn")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The 21st Annual ACM North American Computer Chess Championship](https://www.computerhistory.org/chess/doc-431614f6cbb95/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Quick moves claim computer-chess title - Free Online Library](http://www.thefreelibrary.com/Quick+moves+claim+computer-chess+title.-a09145976), November 24, 1990
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Monty Newborn](Monroe_Newborn "Monroe Newborn"), [Danny Kopec](Danny_Kopec "Danny Kopec") (**1991**). *[The 21st ACM North American Computer Chess Championship](http://dl.acm.org/citation.cfm?id=125497)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 34, No. 11
 
 **[Up one level](People "People")**
 

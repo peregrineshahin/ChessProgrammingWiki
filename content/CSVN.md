@@ -87,10 +87,10 @@ Non board functions:
 
 ## [Alle pagina's Computerschaken, Schaken](http://www.csvnsupplementsite.nl/webpagesall.html) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Frans Morsch](Frans_Morsch "Frans Morsch") and [Van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn"), [DOCCC 1986](DOCCC_1986 "DOCCC 1986"), [Computerschaak pagina 3](http://www.csvnsupplementsite.nl/CSVNPAGINA3.html) (Dutch)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computerschaak pagina 1](http://www.csvnsupplementsite.nl/CSVNPAGINA1.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CSVNP2.html - Eerste Nederlands Kampioenschappen Computerschaken. De CSVN periode van oprichtingsdatum (18 oktober 1980) tot eind 1981. Het begin. Nederlandse kampioenschappen vanaf 1982](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Rybka and the ICGA](http://www.computerschaak.nl/index.php?option=com_content&view=article&id=514%3Arybka-en-de-icga&catid=18%3Avereniging&Itemid=28&lang=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Frans Morsch](Frans_Morsch "Frans Morsch") and [Van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn"), [DOCCC 1986](DOCCC_1986 "DOCCC 1986"), [Computerschaak pagina 3](http://www.csvnsupplementsite.nl/CSVNPAGINA3.html) (Dutch)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computerschaak pagina 1](http://www.csvnsupplementsite.nl/CSVNPAGINA1.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CSVNP2.html - Eerste Nederlands Kampioenschappen Computerschaken. De CSVN periode van oprichtingsdatum (18 oktober 1980) tot eind 1981. Het begin. Nederlandse kampioenschappen vanaf 1982](http://www.csvnsupplementsite.nl/csvnp2.html) (Dutch)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rybka and the ICGA](http://www.computerschaak.nl/index.php?option=com_content&view=article&id=514%3Arybka-en-de-icga&catid=18%3Avereniging&Itemid=28&lang=en)
 
 **[Up one level](Organizations "Organizations")**
 

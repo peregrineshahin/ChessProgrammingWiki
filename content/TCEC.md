@@ -96,16 +96,16 @@ the Top Chess Engines Competition, prior to [season 8](TCEC_Season_8 "TCEC Seaso
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [TCEC - Archive Mode](http://tcec.chessdom.com/archive.php) has the Official TCEC Ratings calculated using [Ordo](index.php?title=Ordo&action=edit&redlink=1 "Ordo (page does not exist)") by [Miguel Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), bottom-right
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: What Happened to TCEC Season 8? Where is Martin?](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=55915&hilit=Mihailov&start=17) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), April 08, 2015
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [TCEC - Live Computer Chess Broadcast](http://www.tcec-chess.net/live.php)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Houdini – Rybka LIVE! | Chessdom](http://www.chessdom.com/news-2011/houdini-rybka-computer-chess-live)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [TCEC announcement: End of project](http://www.talkchess.com/forum/viewtopic.php?t=39217) by [Martin Thoresen](Martin_Thoresen "Martin Thoresen"), [CCC](CCC "CCC"), May 28, 2011
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Official (re)launch of TCEC - website is up!](http://www.talkchess.com/forum/viewtopic.php?t=46861) by [Martin Thoresen](Martin_Thoresen "Martin Thoresen"), [CCC](CCC "CCC"), January 12, 2013
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [TCEC computer chess championship New Season starts August 26th | Chessdom](http://www.chessdom.com/tcec-computer-chess-championship-starts-august-26th/), August 15, 2013
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Chessdom Chess Arena - Play Online Chess](https://arena.chessdom.com/)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [TCEC announcement: End of project](http://www.talkchess.com/forum/viewtopic.php?t=39217) by [Martin Thoresen](Martin_Thoresen "Martin Thoresen"), [CCC](CCC "CCC"), May 28, 2011
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TCEC - Archive Mode](http://tcec.chessdom.com/archive.php) has the Official TCEC Ratings calculated using [Ordo](index.php?title=Ordo&action=edit&redlink=1 "Ordo (page does not exist)") by [Miguel Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), bottom-right
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: What Happened to TCEC Season 8? Where is Martin?](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=55915&hilit=Mihailov&start=17) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), April 08, 2015
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [TCEC - Live Computer Chess Broadcast](http://www.tcec-chess.net/live.php)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Houdini – Rybka LIVE! | Chessdom](http://www.chessdom.com/news-2011/houdini-rybka-computer-chess-live)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [TCEC announcement: End of project](http://www.talkchess.com/forum/viewtopic.php?t=39217) by [Martin Thoresen](Martin_Thoresen "Martin Thoresen"), [CCC](CCC "CCC"), May 28, 2011
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Official (re)launch of TCEC - website is up!](http://www.talkchess.com/forum/viewtopic.php?t=46861) by [Martin Thoresen](Martin_Thoresen "Martin Thoresen"), [CCC](CCC "CCC"), January 12, 2013
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [TCEC computer chess championship New Season starts August 26th | Chessdom](http://www.chessdom.com/tcec-computer-chess-championship-starts-august-26th/), August 15, 2013
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chessdom Chess Arena - Play Online Chess](https://arena.chessdom.com/)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [TCEC announcement: End of project](http://www.talkchess.com/forum/viewtopic.php?t=39217) by [Martin Thoresen](Martin_Thoresen "Martin Thoresen"), [CCC](CCC "CCC"), May 28, 2011
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

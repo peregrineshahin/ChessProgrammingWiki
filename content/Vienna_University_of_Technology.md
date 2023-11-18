@@ -35,7 +35,7 @@ title: Vienna University of Technology
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> TU Wien, Main Building, view from [Karlsplatz](https://en.wikipedia.org/wiki/Karlsplatz), Image by [Peter Haas](https://commons.wikimedia.org/wiki/User:P_e_z_i),June 24, 2012, [Technische Universität Wien - Wikipedia.de](https://de.wikipedia.org/wiki/Technische_Universit%C3%A4t_Wien)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> TU Wien, Main Building, view from [Karlsplatz](https://en.wikipedia.org/wiki/Karlsplatz), Image by [Peter Haas](https://commons.wikimedia.org/wiki/User:P_e_z_i),June 24, 2012, [Technische Universität Wien - Wikipedia.de](https://de.wikipedia.org/wiki/Technische_Universit%C3%A4t_Wien)
 
 **[Up one Level](Organizations "Organizations")**
 

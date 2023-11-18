@@ -46,12 +46,12 @@ a [chess playing robot](Robots#Turk "Robots") developed and build by [Joey Meyer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Raspberry Turk - Table](http://www.raspberryturk.com/details/table.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Raspberry Turk - Chess Engine](http://www.raspberryturk.com/details/ai.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - joeymeyer/raspberryturk: The Raspberry Turk is a robot that can play chess](https://github.com/joeymeyer/raspberryturk)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Camera Module - Raspberry Pi](https://www.raspberrypi.org/products/camera-module/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Raspberry Turk - Vision](http://www.raspberryturk.com/details/vision.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Raspberry Turk - The Arm](http://www.raspberryturk.com/details/arm.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Raspberry Turk - Table](http://www.raspberryturk.com/details/table.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Raspberry Turk - Chess Engine](http://www.raspberryturk.com/details/ai.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - joeymeyer/raspberryturk: The Raspberry Turk is a robot that can play chess](https://github.com/joeymeyer/raspberryturk)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Camera Module - Raspberry Pi](https://www.raspberrypi.org/products/camera-module/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Raspberry Turk - Vision](http://www.raspberryturk.com/details/vision.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Raspberry Turk - The Arm](http://www.raspberryturk.com/details/arm.html)
 
 **[Up one level](Dedicated_Chess_Computers "Dedicated Chess Computers")**
 

@@ -107,12 +107,12 @@ an American project manager and programmer in the games industry. He was a progr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John Merlino | LinkedIn](http://www.linkedin.com/pub/john-merlino/0/124/370)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chessmaster 6000 1.0.2 Patch now available](https://www.stmintz.com/ccc/index.php?id=37196) by John Merlino, [CCC](CCC "CCC"), December 22, 1998
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chessmaster 9000 Beta Report](https://www.stmintz.com/ccc/index.php?id=228545) by John Merlino, [CCC](CCC "CCC"), May 07, 2002
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Software Toolworks to Ubi Soft (OT)](https://www.stmintz.com/ccc/index.php?id=159490) by John Merlino, [CCC](CCC "CCC"), March 20, 2001
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Disney's Aladdin Chess Adventures (2004) Windows credits - MobyGames](http://www.mobygames.com/game/windows/disneys-aladdin-chess-adventures/credits)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Myrddin](http://computer-chess.org/doku.php?id=computer_chess:engines:myrddin:index) by John Merlino, [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home) by [Ron Murawski](Ron_Murawski "Ron Murawski")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John Merlino | LinkedIn](http://www.linkedin.com/pub/john-merlino/0/124/370)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chessmaster 6000 1.0.2 Patch now available](https://www.stmintz.com/ccc/index.php?id=37196) by John Merlino, [CCC](CCC "CCC"), December 22, 1998
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chessmaster 9000 Beta Report](https://www.stmintz.com/ccc/index.php?id=228545) by John Merlino, [CCC](CCC "CCC"), May 07, 2002
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Software Toolworks to Ubi Soft (OT)](https://www.stmintz.com/ccc/index.php?id=159490) by John Merlino, [CCC](CCC "CCC"), March 20, 2001
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Disney's Aladdin Chess Adventures (2004) Windows credits - MobyGames](http://www.mobygames.com/game/windows/disneys-aladdin-chess-adventures/credits)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Myrddin](http://computer-chess.org/doku.php?id=computer_chess:engines:myrddin:index) by John Merlino, [Computer-Chess Wiki](http://computer-chess.org/doku.php?id=home) by [Ron Murawski](Ron_Murawski "Ron Murawski")
 
 **[Up one Level](People "People")**
 

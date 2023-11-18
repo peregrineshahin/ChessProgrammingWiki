@@ -43,11 +43,11 @@ Jun Nagashima received his Ph.D. *Towards master-level play of Shogi* from JAIST
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Research Center for Computers and Games - Members](http://www.jaist.ac.jp/rccg/menu/member.htm)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA: Lines of Action](http://icga.leidenuniv.nl/icga/games/Loa/) by [Mark Winands](Mark_Winands "Mark Winands")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Jun Nagashima (**2007**). *Towards master-level play of Shogi*. Ph.D. thesis, Supervisor [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [JAIST](JAIST "JAIST"), [pdf](https://dspace.jaist.ac.jp/dspace/bitstream/10119/3565/3/034paper.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Jun Nagashima](https://dblp.uni-trier.de/pers/hd/n/Nagashima:Jun)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Research Center for Computers and Games - Members](http://www.jaist.ac.jp/rccg/menu/member.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA: Lines of Action](http://icga.leidenuniv.nl/icga/games/Loa/) by [Mark Winands](Mark_Winands "Mark Winands")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Jun Nagashima (**2007**). *Towards master-level play of Shogi*. Ph.D. thesis, Supervisor [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [JAIST](JAIST "JAIST"), [pdf](https://dspace.jaist.ac.jp/dspace/bitstream/10119/3565/3/034paper.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Jun Nagashima](https://dblp.uni-trier.de/pers/hd/n/Nagashima:Jun)
 
 **[Up one level](People "People")**
 

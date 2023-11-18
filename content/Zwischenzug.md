@@ -24,7 +24,7 @@ Chess programs may consider some kinds of Zwischenzug early, after a recapture d
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Earliest Occurrences of Chess Terms](http://www.chesshistory.com/winter/extra/earliest.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Earliest Occurrences of Chess Terms](http://www.chesshistory.com/winter/extra/earliest.html) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
 
 **[Up one Level](Tactics "Tactics")**
 

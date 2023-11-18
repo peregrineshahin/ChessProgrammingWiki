@@ -20,9 +20,9 @@ born in Kurdistan/Iraq, he is a computer scientist <a id="cite-note-2" href="#ci
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [· Personal Website](https://amanj.me)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Amanj Sherwany | LinkedIn](https://www.linkedin.com/in/amanjpro)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> * [Zahak, a GoLang based chess engine](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=12771) by Amanj Sherwany, [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), March 13, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [· Personal Website](https://amanj.me)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Amanj Sherwany | LinkedIn](https://www.linkedin.com/in/amanjpro)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> * [Zahak, a GoLang based chess engine](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=12771) by Amanj Sherwany, [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), March 13, 2021
 
 **[Up one Level](People "People")**
 

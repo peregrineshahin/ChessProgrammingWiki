@@ -14,7 +14,7 @@ As a computer chess programmer, Ivan Bonkin is author of the [UCI](UCI "UCI") co
 
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bison by Иван Бонькин, Russia](http://www.sdchess.ru/Bison.html) from [sdchess.ru](http://www.sdchess.ru/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bison by Иван Бонькин, Russia](http://www.sdchess.ru/Bison.html) from [sdchess.ru](http://www.sdchess.ru/)
 
 **[Up one level](People "People")**
 

@@ -65,12 +65,12 @@ Nc4 21.Nxc4 bxc4 22.Qd1 Qf5 23.Bd2 Rxe1+ 24.Bxe1 Rxa1 25.Qxa1 Kh7
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Centre Ceramique, [Maastricht](https://en.wikipedia.org/wiki/Maastricht) (city library and exposition center), [Image](https://commons.wikimedia.org/wiki/File:Centre_Ceramique.jpg) by [Cumulus](https://nl.wikipedia.org/wiki/Gebruiker:Cumulus), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Evgeny Bareev from Wikipedia](https://en.wikipedia.org/wiki/Evgeny_Bareev)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Events Maastricht](http://web.inter.nl.net/hcc/rekius/cem.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Eric Hallsworth](Eric_Hallsworth "Eric Hallsworth") (**2003**). *HIARCS 8X v Evgeny Bareev*. [Selective Search](Selective_Search "Selective Search") 104, pp. 20, [pdf](http://www.chesscomputeruk.com/SS_104.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Image by [Eric van Reem](Eric_van_Reem "Eric van Reem") from [Man vs machine – but not Kasparov](https://en.chessbase.com/post/man-vs-machine-but-not-kasparov) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessBase News](ChessBase "ChessBase"), January 30, 2003
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [HIARCS vs Evgeny Bareev (2003)](http://www.chessgames.com/perl/chessgame?gid=1260056) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Centre Ceramique, [Maastricht](https://en.wikipedia.org/wiki/Maastricht) (city library and exposition center), [Image](https://commons.wikimedia.org/wiki/File:Centre_Ceramique.jpg) by [Cumulus](https://nl.wikipedia.org/wiki/Gebruiker:Cumulus), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Evgeny Bareev from Wikipedia](https://en.wikipedia.org/wiki/Evgeny_Bareev)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Events Maastricht](http://web.inter.nl.net/hcc/rekius/cem.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Eric Hallsworth](Eric_Hallsworth "Eric Hallsworth") (**2003**). *HIARCS 8X v Evgeny Bareev*. [Selective Search](Selective_Search "Selective Search") 104, pp. 20, [pdf](http://www.chesscomputeruk.com/SS_104.pdf) hosted by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Image by [Eric van Reem](Eric_van_Reem "Eric van Reem") from [Man vs machine – but not Kasparov](https://en.chessbase.com/post/man-vs-machine-but-not-kasparov) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessBase News](ChessBase "ChessBase"), January 30, 2003
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [HIARCS vs Evgeny Bareev (2003)](http://www.chessgames.com/perl/chessgame?gid=1260056) from [chessgames.com](http://www.chessgames.com/index.html)
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

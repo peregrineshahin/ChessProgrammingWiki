@@ -36,9 +36,9 @@ the [University of Southern California](University_of_Southern_California "Unive
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Trojan Shrine, also known as Tommy Trojan at the [University of Southern California](University_of_Southern_California "University of Southern California"), [image](https://commons.wikimedia.org/wiki/File:Trojan_shrine.jpg) by [Rg998](https://en.wikipedia.org/wiki/User:Rg998), June 16, 2006, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Tommy Trojan from Wikipedia](https://en.wikipedia.org/wiki/Tommy_Trojan) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1975**). *Computer Chess*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), New York, N.Y., Chapter VII. The Third United States Computer Chess Championship
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Albert L. Zobrist](Albert_Zobrist "Albert Zobrist"), [Fredric R. Carlson](Frederic_Roy_Carlson "Frederic Roy Carlson") (**1973**). *[The USC chess program](http://portal.acm.org/citation.cfm?id=805705)*. Proceedings of the [ACM](ACM "ACM") annual conference, Atlanta, Georgia, United States, August 27-29, 1973
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Trojan Shrine, also known as Tommy Trojan at the [University of Southern California](University_of_Southern_California "University of Southern California"), [image](https://commons.wikimedia.org/wiki/File:Trojan_shrine.jpg) by [Rg998](https://en.wikipedia.org/wiki/User:Rg998), June 16, 2006, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Tommy Trojan from Wikipedia](https://en.wikipedia.org/wiki/Tommy_Trojan) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1975**). *Computer Chess*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), New York, N.Y., Chapter VII. The Third United States Computer Chess Championship
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Albert L. Zobrist](Albert_Zobrist "Albert Zobrist"), [Fredric R. Carlson](Frederic_Roy_Carlson "Frederic Roy Carlson") (**1973**). *[The USC chess program](http://portal.acm.org/citation.cfm?id=805705)*. Proceedings of the [ACM](ACM "ACM") annual conference, Atlanta, Georgia, United States, August 27-29, 1973
 
 **[Up one level](Engines "Engines")**
 

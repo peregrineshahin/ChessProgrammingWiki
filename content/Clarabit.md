@@ -68,10 +68,10 @@ Clarabit's [evaluation](Evaluation "Evaluation") is based on:
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Clarabit Chess Engine](http://sites.google.com/site/sapabe/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Clarabit first release](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=19514) by [Salvador Pallares Bejarano](Salvador_Pallares_Bejarano "Salvador Pallares Bejarano"), [CCC](CCC "CCC"), February 09, 2008
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Clarabit Chess Engine - downloads](http://sites.google.com/site/sapabe/downloads)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Clarabit Chess Engine - Technical Info](http://sites.google.com/site/sapabe/technicalinfo)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Clarabit Chess Engine](http://sites.google.com/site/sapabe/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Clarabit first release](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=19514) by [Salvador Pallares Bejarano](Salvador_Pallares_Bejarano "Salvador Pallares Bejarano"), [CCC](CCC "CCC"), February 09, 2008
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Clarabit Chess Engine - downloads](http://sites.google.com/site/sapabe/downloads)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Clarabit Chess Engine - Technical Info](http://sites.google.com/site/sapabe/technicalinfo)
 
 **[Up one Level](Engines "Engines")**
 

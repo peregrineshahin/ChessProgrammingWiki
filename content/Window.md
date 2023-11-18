@@ -53,9 +53,9 @@ Only values inside this interval, that is excluding Alpha and Beta, are [exact s
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Arched Window of a [wall painting showing](https://commons.wikimedia.org/wiki/File:Fenster-Dal%C3%AD.JPG) [Salvador Dalí](Category:Salvador_Dal%C3%AD "Category:Salvador Dalí"), [Lima](https://en.wikipedia.org/wiki/Lima), [Peru](https://en.wikipedia.org/wiki/Peru), 2005 by Tabea Huth, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Re: New(?) search idea](https://www.stmintz.com/ccc/index.php?id=14539) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 22, 1998
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re. Fail low after fail high](http://www.talkchess.com/forum/viewtopic.php?t=55889&start=8) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [CCC](CCC "CCC"), April 05, 2015 » [Fail-Low](Fail-Low "Fail-Low") , [Fail-High](Fail-High "Fail-High")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Arched Window of a [wall painting showing](https://commons.wikimedia.org/wiki/File:Fenster-Dal%C3%AD.JPG) [Salvador Dalí](Category:Salvador_Dal%C3%AD "Category:Salvador Dalí"), [Lima](https://en.wikipedia.org/wiki/Lima), [Peru](https://en.wikipedia.org/wiki/Peru), 2005 by Tabea Huth, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Re: New(?) search idea](https://www.stmintz.com/ccc/index.php?id=14539) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 22, 1998
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re. Fail low after fail high](http://www.talkchess.com/forum/viewtopic.php?t=55889&start=8) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [CCC](CCC "CCC"), April 05, 2015 » [Fail-Low](Fail-Low "Fail-Low") , [Fail-High](Fail-High "Fail-High")
 
 **[Up one level](Alpha-Beta "Alpha-Beta")**
 

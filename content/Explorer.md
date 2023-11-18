@@ -47,10 +47,10 @@ Despite losing, Explorer's first official game at the [DOCCC 1991](DOCCC_1991 "D
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Explorer 14](https://en.wikipedia.org/wiki/Explorer_14) satellite, [Image](https://commons.wikimedia.org/wiki/File:Explorer_14.jpg) by [GSFC](https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center), [NASA](https://en.wikipedia.org/wiki/NASA), [Category: Explorer 14](https://commons.wikimedia.org/wiki/Explorer_14), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1993**). *Report on the 13th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm") (**1993**). *The King wint Nederlandse titel terug*. [Computerschaak](Computerschaak "Computerschaak"), No. 6, December 1993 (Dutch)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1991**). *Report on the CSVN 11th Dutch Computer Chess Championship*. [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Explorer 14](https://en.wikipedia.org/wiki/Explorer_14) satellite, [Image](https://commons.wikimedia.org/wiki/File:Explorer_14.jpg) by [GSFC](https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center), [NASA](https://en.wikipedia.org/wiki/NASA), [Category: Explorer 14](https://commons.wikimedia.org/wiki/Explorer_14), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1993**). *Report on the 13th Dutch Computer-Chess Championship*. [ICCA Journal, Vol. 16, No. 4](ICGA_Journal#16_4 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm") (**1993**). *The King wint Nederlandse titel terug*. [Computerschaak](Computerschaak "Computerschaak"), No. 6, December 1993 (Dutch)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1991**). *Report on the CSVN 11th Dutch Computer Chess Championship*. [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

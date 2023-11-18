@@ -28,10 +28,10 @@ a chess program written by [Lincoln Shannon](index.php?title=Lincoln_Shannon&act
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Becomes Mechanized](https://www.newspapers.com/newspage/1711384/), [Hays Daily News](https://en.wikipedia.org/wiki/Hays_Daily_News), October 31, 1976, pp. 12
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Levy](David_Levy "David Levy") (**1977**). *1976 US Computer Chess Championship*. Computer Science Press, Woodland Hills, CA
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Important games - The North American Championship](http://www.top-5000.nl/pgn.htm) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Houston, we have a problem from Wikipedia](https://en.wikipedia.org/wiki/Houston,_we_have_a_problem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Becomes Mechanized](https://www.newspapers.com/newspage/1711384/), [Hays Daily News](https://en.wikipedia.org/wiki/Hays_Daily_News), October 31, 1976, pp. 12
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Levy](David_Levy "David Levy") (**1977**). *1976 US Computer Chess Championship*. Computer Science Press, Woodland Hills, CA
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Important games - The North American Championship](http://www.top-5000.nl/pgn.htm) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Houston, we have a problem from Wikipedia](https://en.wikipedia.org/wiki/Houston,_we_have_a_problem)
 
 **[Up one level](Engines "Engines")**
 

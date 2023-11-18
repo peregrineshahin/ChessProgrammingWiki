@@ -17,7 +17,7 @@ As former computer chess programmer, Erik Leenders is author of the chess progra
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Erik Leenders | LinkedIn](https://www.linkedin.com/in/erik-leenders-87125a10/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Erik Leenders | LinkedIn](https://www.linkedin.com/in/erik-leenders-87125a10/)
 
 **[Up one level](People "People")**
 

@@ -54,9 +54,9 @@ During the 90s Moritz Berger was computer chess aficionado, tester and expert po
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Moritz Berger | LinkedIn](https://www.linkedin.com/in/moritzberger/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [a new place to discuss computer chess topics](https://groups.google.com/d/msg/rec.games.chess.computer/NbXD2PVvVlI/zcQx0y8QdToJ) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 07, 1997
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [computer-chess club](https://groups.google.com/d/msg/rec.games.chess.computer/fFtH0aJ6Qt8/6uytN_251S8J) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 10, 1997
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Moritz Berger | LinkedIn](https://www.linkedin.com/in/moritzberger/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [a new place to discuss computer chess topics](https://groups.google.com/d/msg/rec.games.chess.computer/NbXD2PVvVlI/zcQx0y8QdToJ) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 07, 1997
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [computer-chess club](https://groups.google.com/d/msg/rec.games.chess.computer/fFtH0aJ6Qt8/6uytN_251S8J) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 10, 1997
 
 **[Up one level](People "People")**
 

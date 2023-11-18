@@ -79,11 +79,11 @@ Bit-Genie **9**, released in August 2021, features [NNUE](NNUE "NNUE") [Evaluati
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Climber on their way to the cave floor at [Majlis al Jinn](https://en.wikipedia.org/wiki/Majlis_al_Jinn), [Image](https://commons.wikimedia.org/wiki/File:Descending_into_cave.jpg) by Michaelmcandrew, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New open-source engine, Bit-Genie](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=76913) by [Aryan Parekh](index.php?title=Aryan_Parekh&action=edit&redlink=1 "Aryan Parekh (page does not exist)"), [CCC](CCC "CCC"), March 21, 2021
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Release v9 · Aryan1508/Bit-Genie · GitHub](https://github.com/Aryan1508/Bit-Genie/releases/tag/v9)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Releases · Aryan1508/Bit-Genie · GitHub](https://github.com/Aryan1508/Bit-Genie/releases)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Bit-Genie/magicmoves.cpp at master · Aryan1508/Bit-Genie · GitHub](https://github.com/Aryan1508/Bit-Genie/blob/master/src/magicmoves.cpp)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Climber on their way to the cave floor at [Majlis al Jinn](https://en.wikipedia.org/wiki/Majlis_al_Jinn), [Image](https://commons.wikimedia.org/wiki/File:Descending_into_cave.jpg) by Michaelmcandrew, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New open-source engine, Bit-Genie](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=76913) by [Aryan Parekh](index.php?title=Aryan_Parekh&action=edit&redlink=1 "Aryan Parekh (page does not exist)"), [CCC](CCC "CCC"), March 21, 2021
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Release v9 · Aryan1508/Bit-Genie · GitHub](https://github.com/Aryan1508/Bit-Genie/releases/tag/v9)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Releases · Aryan1508/Bit-Genie · GitHub](https://github.com/Aryan1508/Bit-Genie/releases)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Bit-Genie/magicmoves.cpp at master · Aryan1508/Bit-Genie · GitHub](https://github.com/Aryan1508/Bit-Genie/blob/master/src/magicmoves.cpp)
 
 **[Up one level](Engines "Engines")**
 

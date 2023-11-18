@@ -32,7 +32,7 @@ where execution speed becomes less important then code clarity and expressive po
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [shatranj/README.md at master · stannous/shatranj · GitHub](https://github.com/stannous/shatranj/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [shatranj/README.md at master · stannous/shatranj · GitHub](https://github.com/stannous/shatranj/blob/master/README.md)
 
 **[Up one level](Utilities "Utilities")**
 

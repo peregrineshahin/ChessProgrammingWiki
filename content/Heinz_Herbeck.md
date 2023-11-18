@@ -29,9 +29,9 @@ Heinz Herbeck implemented [B\*](B* "B*") applied to a rule based method for endg
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dipl.-Ing. Dr.techn. Heinz Herbeck](https://web.archive.org/web/20130625003222/https://www.ads.tuwien.ac.at/people/Herbeck.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Computer Chess site (Barth, Herbeck)](https://web.archive.org/web/20130612090002/https://www.ads.tuwien.ac.at/research/Chess.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dipl.-Ing. Dr.techn. Heinz Herbeck](https://web.archive.org/web/20130625003222/https://www.ads.tuwien.ac.at/people/Herbeck.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Computer Chess site (Barth, Herbeck)](https://web.archive.org/web/20130612090002/https://www.ads.tuwien.ac.at/research/Chess.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

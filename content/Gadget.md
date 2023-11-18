@@ -23,8 +23,8 @@ Occasionally it participates in the [CSVN Programmers Tournament](CSVN_Programme
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Participants DOCC 2001](http://old.csvn.nl/partic01.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Does anyone know why Gadget wasn't crushed in every game?](https://www.stmintz.com/ccc/index.php?id=195565) by [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [CCC](CCC "CCC"), November 04, 2001
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Participants DOCC 2001](http://old.csvn.nl/partic01.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Does anyone know why Gadget wasn't crushed in every game?](https://www.stmintz.com/ccc/index.php?id=195565) by [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [CCC](CCC "CCC"), November 04, 2001
 
 **[Up one Level](Engines "Engines")**
 

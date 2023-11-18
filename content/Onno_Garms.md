@@ -62,12 +62,12 @@ As former youth chess player and autodidact programmer, he developed the chess e
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Onno Garms - Fraunhofer SCAI](https://www.scai.fraunhofer.de/de/ueber-uns/mitarbeiter/garms.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Verleihung des Joseph-von-Fraunhofer-Preises 2002](https://www.innovations-report.de/html/berichte/foerderungen-preise/bericht-62246.html) (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Optimization - Fraunhofer SCAI](https://www.scai.fraunhofer.de/en/business-research-areas/optimization.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Welcome to onnochess.com!](http://www.onnochess.com/index.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Development of Onno ends](http://www.talkchess.com/forum/viewtopic.php?t=38403) by Onno Garms, [CCC](CCC "CCC"), March 13, 2011
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Fraunhofer-Publica List: Garms, O.](http://publica.fraunhofer.de/authors/Garms,%20O.)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Onno Garms - Fraunhofer SCAI](https://www.scai.fraunhofer.de/de/ueber-uns/mitarbeiter/garms.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Verleihung des Joseph-von-Fraunhofer-Preises 2002](https://www.innovations-report.de/html/berichte/foerderungen-preise/bericht-62246.html) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Optimization - Fraunhofer SCAI](https://www.scai.fraunhofer.de/en/business-research-areas/optimization.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Welcome to onnochess.com!](http://www.onnochess.com/index.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Development of Onno ends](http://www.talkchess.com/forum/viewtopic.php?t=38403) by Onno Garms, [CCC](CCC "CCC"), March 13, 2011
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fraunhofer-Publica List: Garms, O.](http://publica.fraunhofer.de/authors/Garms,%20O.)
 
 **[Up one level](People "People")**
 

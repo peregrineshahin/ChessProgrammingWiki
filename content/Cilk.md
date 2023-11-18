@@ -144,15 +144,15 @@ In July 2009 [Intel Corporation](Intel "Intel") acquired *Cilk Arts* <a id="cite
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Intel® Cilk™ Plus Specification - Intel® Software Network](http://software.intel.com/en-us/articles/intel-cilk-plus-specification/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [cilk-5.4.6.tar.gz](http://supertech.csail.mit.edu/cilk/cilk-5.4.6.tar.gz)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Don Dailey](Don_Dailey "Don Dailey"), [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson") (**2001**). *Using Cilk to Write Multiprocessor Chess Programs*, [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9"), [pdf](http://supertech.csail.mit.edu/papers/icca99.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DIEP parallel in Paderborn - technical and detailed story](https://www.stmintz.com/ccc/index.php?id=58505) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), June 28, 1999
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Intel Acquires Cilk++ Technology](http://www.ddj.com/cpp/218900367), [Dr. Dobb's](http://www.ddj.com/), August 01, 2009
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Intel Cilk Plus from Wikipedia](https://en.wikipedia.org/wiki/Intel_Cilk_Plus)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Cilk from Wikipedia](https://en.wikipedia.org/wiki/Cilk)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Work stealing from Wikipedia](https://en.wikipedia.org/wiki/Work_stealing)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Intel® Cilk™ Plus Specification - Intel® Software Network](http://software.intel.com/en-us/articles/intel-cilk-plus-specification/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [cilk-5.4.6.tar.gz](http://supertech.csail.mit.edu/cilk/cilk-5.4.6.tar.gz)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Don Dailey](Don_Dailey "Don Dailey"), [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson") (**2001**). *Using Cilk to Write Multiprocessor Chess Programs*, [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9"), [pdf](http://supertech.csail.mit.edu/papers/icca99.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DIEP parallel in Paderborn - technical and detailed story](https://www.stmintz.com/ccc/index.php?id=58505) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), June 28, 1999
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Intel Acquires Cilk++ Technology](http://www.ddj.com/cpp/218900367), [Dr. Dobb's](http://www.ddj.com/), August 01, 2009
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Intel Cilk Plus from Wikipedia](https://en.wikipedia.org/wiki/Intel_Cilk_Plus)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Cilk from Wikipedia](https://en.wikipedia.org/wiki/Cilk)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [SuperTech Paper Listing](http://supertech.csail.mit.edu/papers.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Work stealing from Wikipedia](https://en.wikipedia.org/wiki/Work_stealing)
 
 **[Up one Level](Languages "Languages")**
 

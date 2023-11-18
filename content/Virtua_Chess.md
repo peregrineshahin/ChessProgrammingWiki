@@ -83,12 +83,12 @@ Rc2 58.Kf3 a3 59.Rb6+ Kg5 60.Nhg7 Be1 61.Ne6+ Bxe6 62.Rb2 axb2 63.Nd4 Rf2# 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Virtua Chess and E. Bacrot at Megeve Grand Prix](https://groups.google.com/d/msg/rec.games.chess/VLdAfz4A3Is/DoFkRhpab8kJ) by [Marc-François Baudot](Marc-Fran%C3%A7ois_Baudot "Marc-François Baudot"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), July 11, 1995
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Virtua Chess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=13) together with [Virtual Chess](Virtual_Chess "Virtual Chess")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Titus Software](https://en.wikipedia.org/wiki/Titus_Software)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a>  [More about VirtuaChess](https://groups.google.com/d/msg/rec.games.chess/sI4wSb2iBqA/fi1jAgyWUZ0J) by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), May 10, 1995
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Étienne Bacrot from Wikipedia](https://en.wikipedia.org/wiki/%C3%89tienne_Bacrot)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Virtua Chess and E. Bacrot at Megeve Grand Prix](https://groups.google.com/d/msg/rec.games.chess/VLdAfz4A3Is/DoFkRhpab8kJ) by [Marc-François Baudot](Marc-Fran%C3%A7ois_Baudot "Marc-François Baudot"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), July 11, 1995
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Virtua Chess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=13) together with [Virtual Chess](Virtual_Chess "Virtual Chess")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Titus Software](https://en.wikipedia.org/wiki/Titus_Software)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a>  [More about VirtuaChess](https://groups.google.com/d/msg/rec.games.chess/sI4wSb2iBqA/fi1jAgyWUZ0J) by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), May 10, 1995
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Étienne Bacrot from Wikipedia](https://en.wikipedia.org/wiki/%C3%89tienne_Bacrot)
 
 **[Up one Level](Engines "Engines")**
 

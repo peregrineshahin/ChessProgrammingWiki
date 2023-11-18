@@ -22,8 +22,8 @@ a Taiwanese computer scientist affiliated with the Department of Computer Scienc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Chao-Chin Liang](Chao-Chin_Liang "Chao-Chin Liang"), Bing-Tsung Chiang, [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee") (**2015**). *Job-Level Algorithms for Connect6 Opening Book Construction*. [ICGA Journal, Vol. 38, No. 3](ICGA_Journal#38_3 "ICGA Journal")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Publications - lab-aigames](http://www.aigames.nctu.edu.tw/publications)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Chao-Chin Liang](Chao-Chin_Liang "Chao-Chin Liang"), Bing-Tsung Chiang, [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee") (**2015**). *Job-Level Algorithms for Connect6 Opening Book Construction*. [ICGA Journal, Vol. 38, No. 3](ICGA_Journal#38_3 "ICGA Journal")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Publications - lab-aigames](http://www.aigames.nctu.edu.tw/publications)
 
 **[Up one Level](People "People")**
 

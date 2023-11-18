@@ -54,16 +54,16 @@ It is important for a learning program to have a reliable method of deciding whe
 
 ## [Logic Programming and Learning](http://www.cse.iitd.ernet.in/~ashwin/courses/lpl/index.html) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ashwin Srinivasan at IBM](http://www.cse.iitd.ernet.in/~ashwin/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ashwin Srinivasan - Google Scholar Citations](https://scholar.google.com.au/citations?user=zpNTeogAAAAJ&hl=en)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ashwin Srinivasan - Curriculum Vitae](http://www.cse.iitd.ernet.in/~ashwin/work/resume.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [IBM Research – India](http://www-07.ibm.com/in/research/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Ashwin Srinivasan (**2001, 2007**). *[The aleph manual](https://www.cs.ox.ac.uk/activities/programinduction/Aleph/aleph.html)*.
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [PROGOL (OxUni)](http://www-ai.ijs.si/~ilpnet/systems/progol.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Applications and Datasets](http://www.cse.iitd.ernet.in/~ashwin/work/machlearn/ilp/applications.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Ashwin Srinivasan, [Stephen Muggleton](Stephen_Muggleton "Stephen Muggleton"), [Michael Bain](Michael_Bain "Michael Bain") (**1992**). *Distinguishing exceptions from noise in non-monotonic Learning*. [ILP92](http://www.cs.york.ac.uk/ILP-events/ILP-1992/)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Ashwin Srinivasan](https://dblp.uni-trier.de/pers/hd/s/Srinivasan:Ashwin)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Operational semantics from Wikipedia](https://en.wikipedia.org/wiki/Operational_semantics)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ashwin Srinivasan at IBM](http://www.cse.iitd.ernet.in/~ashwin/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ashwin Srinivasan - Google Scholar Citations](https://scholar.google.com.au/citations?user=zpNTeogAAAAJ&hl=en)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ashwin Srinivasan - Curriculum Vitae](http://www.cse.iitd.ernet.in/~ashwin/work/resume.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [IBM Research – India](http://www-07.ibm.com/in/research/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Ashwin Srinivasan (**2001, 2007**). *[The aleph manual](https://www.cs.ox.ac.uk/activities/programinduction/Aleph/aleph.html)*.
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [PROGOL (OxUni)](http://www-ai.ijs.si/~ilpnet/systems/progol.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Applications and Datasets](http://www.cse.iitd.ernet.in/~ashwin/work/machlearn/ilp/applications.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> Ashwin Srinivasan, [Stephen Muggleton](Stephen_Muggleton "Stephen Muggleton"), [Michael Bain](Michael_Bain "Michael Bain") (**1992**). *Distinguishing exceptions from noise in non-monotonic Learning*. [ILP92](http://www.cs.york.ac.uk/ILP-events/ILP-1992/)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Ashwin Srinivasan](https://dblp.uni-trier.de/pers/hd/s/Srinivasan:Ashwin)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Operational semantics from Wikipedia](https://en.wikipedia.org/wiki/Operational_semantics)
 
 **[Up one level](Engines "Engines")**
 

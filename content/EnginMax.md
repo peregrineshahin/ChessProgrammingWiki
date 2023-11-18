@@ -52,7 +52,7 @@ Bxg3 34.hxg3 Qxg3+ 35.Kh1 Rg6 36.Qxg6 fxg6 37.Bf3 Nf6 38.Rd8+ Kh7 39.Rd2 Rf5 40.
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Round 7 | CCT Events](http://www.cctchess.com/previous-events/cct-13/results/round-7/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Round 7 | CCT Events](http://www.cctchess.com/previous-events/cct-13/results/round-7/)
 
 **[Up one Level](Engines "Engines")**
 

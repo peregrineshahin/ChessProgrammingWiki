@@ -15,9 +15,9 @@ Christian became interested in computer chess in about 2004, and soon started to
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The JAIST 20th Anniversary Events with the ICGA - Computer Chess Championship - Photo Gallery](http://www.jaist.ac.jp/ICGA-events-2010/english/photo/13_2.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Christian Sommerfeld: Erfurt & Weimar](https://www.stayfriends.de/Personen/Erfurt/Christian-Sommerfeld-P-94LJV-P)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fridolin's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=609)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The JAIST 20th Anniversary Events with the ICGA - Computer Chess Championship - Photo Gallery](http://www.jaist.ac.jp/ICGA-events-2010/english/photo/13_2.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Christian Sommerfeld: Erfurt & Weimar](https://www.stayfriends.de/Personen/Erfurt/Christian-Sommerfeld-P-94LJV-P)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fridolin's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=609)
 
 **[Up one level](People "People")**
 

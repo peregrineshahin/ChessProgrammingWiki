@@ -41,9 +41,9 @@ First published in 2003 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, one year
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Luigino Viscione Chess Page](http://lesgames.altervista.org/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dimitri engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=45029) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 07, 2003
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [DimitriWBE 3.11 (WB) and ECE X3 (UCI)](http://www.talkchess.com/forum/viewtopic.php?t=64257) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), June 11, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Luigino Viscione Chess Page](http://lesgames.altervista.org/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dimitri engine](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=45029) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 07, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [DimitriWBE 3.11 (WB) and ECE X3 (UCI)](http://www.talkchess.com/forum/viewtopic.php?t=64257) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), June 11, 2017
 
 **[Up one Level](Engines "Engines")**
 

@@ -93,13 +93,13 @@ SPARC [Unix](Unix "Unix") workstations were popular systems to run computer ches
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Die shot of Sun SuperSPARC II](https://commons.wikimedia.org/wiki/File:Sun_SuperSPARC_II_die.JPG) (STP1021APGA-75) microprocessor by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), October 28, 2013, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Oracle’s SPARC T7 and SPARC M7 Server Architecture](http://www.oracle.com/technetwork/server-storage/sun-sparc-enterprise/documentation/sparc-t7-m7-server-architecture-2702877.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SPARC M7 Chip - 32 cores - Mind Blowing performance (Angelo's Soapbox)](https://blogs.oracle.com/rajadurai/entry/sparc_m7_chip_32_cores)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Sketch of SPARC Subroutines](https://people.cs.clemson.edu/~mark/subroutines/sparc.html) by [Mark Smotherman](https://people.cs.clemson.edu/~mark/homepage.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [SPARC from Wikipedia](https://en.wikipedia.org/wiki/SPARC)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gardner Hendrie](http://www.computerhistory.org/trustee/gardner-hendrie) (**2005**). *Oral History of Kathe and Dan Spracklen*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/oral-history/spacklen.oral_history.2005.102630821/spracklen.oral_history_transcript.2005.102630821.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [CM-5/512 | TOP500 Supercomputer Sites](https://www.top500.org/system/167057)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Die shot of Sun SuperSPARC II](https://commons.wikimedia.org/wiki/File:Sun_SuperSPARC_II_die.JPG) (STP1021APGA-75) microprocessor by [Pauli Rautakorpi](https://commons.wikimedia.org/wiki/User:Birdman86), October 28, 2013, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Oracle’s SPARC T7 and SPARC M7 Server Architecture](http://www.oracle.com/technetwork/server-storage/sun-sparc-enterprise/documentation/sparc-t7-m7-server-architecture-2702877.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SPARC M7 Chip - 32 cores - Mind Blowing performance (Angelo's Soapbox)](https://blogs.oracle.com/rajadurai/entry/sparc_m7_chip_32_cores)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Sketch of SPARC Subroutines](https://people.cs.clemson.edu/~mark/subroutines/sparc.html) by [Mark Smotherman](https://people.cs.clemson.edu/~mark/homepage.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [SPARC from Wikipedia](https://en.wikipedia.org/wiki/SPARC)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gardner Hendrie](http://www.computerhistory.org/trustee/gardner-hendrie) (**2005**). *Oral History of Kathe and Dan Spracklen*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/oral-history/spacklen.oral_history.2005.102630821/spracklen.oral_history_transcript.2005.102630821.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [CM-5/512 | TOP500 Supercomputer Sites](https://www.top500.org/system/167057)
 
 **[Up one Level](Hardware "Hardware")**
 

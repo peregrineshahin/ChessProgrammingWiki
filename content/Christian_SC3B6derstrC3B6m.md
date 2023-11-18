@@ -23,7 +23,7 @@ In 2001, it seems, Christian freed in time from the insidious habit of computer 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mint leaves CCT3 - riots erupt on the streets of Stockholm](https://www.stmintz.com/ccc/index.php?id=171228) by Christian Söderström, [CCC](CCC "CCC"), May 23, 2001
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mint leaves CCT3 - riots erupt on the streets of Stockholm](https://www.stmintz.com/ccc/index.php?id=171228) by Christian Söderström, [CCC](CCC "CCC"), May 23, 2001
 
 **[Up one Level](People "People")**
 

@@ -62,12 +62,12 @@ His interests apart from chess include [mathematical games](https://en.wikipedia
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Karsten Müller at the 6th German companies team chess championship, October 05, 2006, Berlin, Photo by [Frank Hoppe](https://de.wikipedia.org/wiki/Benutzer:Frank_Hoppe), [Karsten Müller from Wikipedia](https://en.wikipedia.org/wiki/Karsten_M%C3%BCller)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Karsten Müller from Wikipedia](https://en.wikipedia.org/wiki/Karsten_M%C3%BCller)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Photo by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [Workshop Jena 2008: Analysis, Design, and Programming of Games](http://www.althofer.de/workshop-2008.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Müller, Karsten - Books](https://www.schachversand.de/de/mueller,_karsten-buch-englisch.html), [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Karsten Müller 0006](https://dblp.uni-trier.de/pers/hd/m/M=uuml=ller_0006:Karsten)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [World Chess Championship 2018 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2018)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Karsten Müller at the 6th German companies team chess championship, October 05, 2006, Berlin, Photo by [Frank Hoppe](https://de.wikipedia.org/wiki/Benutzer:Frank_Hoppe), [Karsten Müller from Wikipedia](https://en.wikipedia.org/wiki/Karsten_M%C3%BCller)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Karsten Müller from Wikipedia](https://en.wikipedia.org/wiki/Karsten_M%C3%BCller)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Photo by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [Workshop Jena 2008: Analysis, Design, and Programming of Games](http://www.althofer.de/workshop-2008.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Müller, Karsten - Books](https://www.schachversand.de/de/mueller,_karsten-buch-englisch.html), [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Karsten Müller 0006](https://dblp.uni-trier.de/pers/hd/m/M=uuml=ller_0006:Karsten)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [World Chess Championship 2018 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2018)
 
 **[Up one Level](People "People")**
 

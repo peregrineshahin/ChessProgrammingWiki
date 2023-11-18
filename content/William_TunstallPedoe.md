@@ -49,15 +49,15 @@ and since 1996 ,*Crossword Maestro* <a id="cite-note-8" href="#cite-ref-8">[8]</
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [William Tunstall-Pedoe | LinkedIn](https://www.linkedin.com/in/williamtp/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Evi - an Amazon Company](https://www.evi.com/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [The Real Story of How Amazon Built the Echo](https://www.bloomberg.com/features/2016-amazon-echo/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Evi (software) from Wikipedia](https://en.wikipedia.org/wiki/Evi_(software))
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> William Tunstall-Pedoe (**1991**). *Genetic Algorithms Optimizing Evaluation Functions*. [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [William Tunstall-Pedoe Resumé (Resume, Curriculum Vitae, CV)](https://web.archive.org/web/20111114223548/http://www.williamtp.com/cv.html) ([Wayback Machine, November 2011](https://en.wikipedia.org/wiki/Wayback_Machine))
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Anagram Genius - fun anagrams and anagram software](https://www.anagramgenius.com/)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Home — Crossword Genius](https://www.crosswordgenius.com/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [William Tunstall-Pedoe | LinkedIn](https://www.linkedin.com/in/williamtp/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Evi - an Amazon Company](https://www.evi.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The Real Story of How Amazon Built the Echo](https://www.bloomberg.com/features/2016-amazon-echo/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Evi (software) from Wikipedia](https://en.wikipedia.org/wiki/Evi_(software))
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> William Tunstall-Pedoe (**1991**). *Genetic Algorithms Optimizing Evaluation Functions*. [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [William Tunstall-Pedoe Resumé (Resume, Curriculum Vitae, CV)](https://web.archive.org/web/20111114223548/http://www.williamtp.com/cv.html) ([Wayback Machine, November 2011](https://en.wikipedia.org/wiki/Wayback_Machine))
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Anagram Genius - fun anagrams and anagram software](https://www.anagramgenius.com/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Home — Crossword Genius](https://www.crosswordgenius.com/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

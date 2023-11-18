@@ -31,7 +31,7 @@ In its [evaluation](Evaluation "Evaluation"), BreakThrough considers rather comp
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Werner Koch's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=180)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Werner Koch's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=180)
 
 **[Up one Level](Engines "Engines")**
 

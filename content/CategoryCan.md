@@ -12,7 +12,7 @@ was a German experimental rock band formed in [Cologne](https://en.wikipedia.org
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Can 1971, [Image](https://www.spoonrecords.com/media/1968.php) © [Spoon Records](https://www.spoonrecords.com/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Can 1971, [Image](https://www.spoonrecords.com/media/1968.php) © [Spoon Records](https://www.spoonrecords.com/)
 
 ## Pages in category "Can"
 

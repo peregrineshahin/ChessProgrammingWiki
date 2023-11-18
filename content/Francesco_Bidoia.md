@@ -30,9 +30,9 @@ Along with [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli"), [Valeriu 
 ## References
 
 1. ↑ [1.0](#cite-ref-linkedin-1-0) [1.1](#cite-ref-linkedin-1-1) [Francesco Bidoia | LinkedIn](https://www.linkedin.com/in/francesco-bidoia-23084b121/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ascent.ai](https://ascent.ai/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli"), Francesco Bidoia, [Valeriu Codreanu](Valeriu_Codreanu "Valeriu Codreanu"), [Marco Wiering](Marco_Wiering "Marco Wiering") (**2018**). *Learning to Evaluate Chess Positions with Deep Neural Networks and Limited Lookahead*. [ICPRAM 2018](http://www.icpram.org/?y=2018), [pdf](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CHESS_DNN_2018.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Francesco Bidoia](https://dblp.org/pid/195/1212.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ascent.ai](https://ascent.ai/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Matthia Sabatelli](Matthia_Sabatelli "Matthia Sabatelli"), Francesco Bidoia, [Valeriu Codreanu](Valeriu_Codreanu "Valeriu Codreanu"), [Marco Wiering](Marco_Wiering "Marco Wiering") (**2018**). *Learning to Evaluate Chess Positions with Deep Neural Networks and Limited Lookahead*. [ICPRAM 2018](http://www.icpram.org/?y=2018), [pdf](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CHESS_DNN_2018.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Francesco Bidoia](https://dblp.org/pid/195/1212.html)
 
 **[Up one Level](People "People")**
 

@@ -13,8 +13,8 @@ an American computer chess programmer and author of the chess program [Waxman](W
 
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [WAXMAN | WinBoard Chess Engine](http://www.waxman2008.com/waxman.html) by Ivan Bacigal
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WAXMAN | WinBoard Chess Engine by Ivan Bacigal - What's New?](http://www.waxman2008.com/whatsnew.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WAXMAN | WinBoard Chess Engine](http://www.waxman2008.com/waxman.html) by Ivan Bacigal
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WAXMAN | WinBoard Chess Engine by Ivan Bacigal - What's New?](http://www.waxman2008.com/whatsnew.html)
 
 **[Up one level](People "People")**
 

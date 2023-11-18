@@ -35,8 +35,8 @@ a Norwegian pocess engineer and computer chess programmer. Lasse had the initial
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Lasse Hansen's [Initial idea](http://www.open-aurec.com/wbforum/viewtopic.php?t=5015), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 14, [2006](Timeline#2006 "Timeline")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Lasse Hansen's [postmask trick](http://www.open-aurec.com/wbforum/viewtopic.php?topic_view=threads&p=185506&t=5441), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 09, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Lasse Hansen's [Initial idea](http://www.open-aurec.com/wbforum/viewtopic.php?t=5015), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 14, [2006](Timeline#2006 "Timeline")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Lasse Hansen's [postmask trick](http://www.open-aurec.com/wbforum/viewtopic.php?topic_view=threads&p=185506&t=5441), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 09, 2008
 
 **[Up one level](People "People")**
 

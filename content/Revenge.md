@@ -51,10 +51,10 @@ Revenge is available for [Windows](Windows "Windows") [x86-64](X86-64 "X86-64"),
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Engraving](https://commons.wikimedia.org/wiki/File:DVinfernoMegaeraTisifphoneAlecto_m.jpg) by [Gustave Doré](Category:Gustave_Dor%C3%A9 "Category:Gustave Doré") illustrating the [Erinyes](https://en.wikipedia.org/wiki/Erinyes), [chthonic](https://en.wikipedia.org/wiki/Chthonic) deities of vengeance and death, [Revenge from Wikipedia](https://en.wikipedia.org/wiki/Revenge), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New commercial engine Revenge 1.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77684) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), July 09, 2021
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Revenge chess engine](https://www.revengechess.com/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Quechuan languages - Cognates from Wikipedia - 'ten'](https://en.wikipedia.org/wiki/Quechuan_languages#Cognates)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Engraving](https://commons.wikimedia.org/wiki/File:DVinfernoMegaeraTisifphoneAlecto_m.jpg) by [Gustave Doré](Category:Gustave_Dor%C3%A9 "Category:Gustave Doré") illustrating the [Erinyes](https://en.wikipedia.org/wiki/Erinyes), [chthonic](https://en.wikipedia.org/wiki/Chthonic) deities of vengeance and death, [Revenge from Wikipedia](https://en.wikipedia.org/wiki/Revenge), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New commercial engine Revenge 1.0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77684) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), July 09, 2021
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Revenge chess engine](https://www.revengechess.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Quechuan languages - Cognates from Wikipedia - 'ten'](https://en.wikipedia.org/wiki/Quechuan_languages#Cognates)
 
 **[Up one Level](Engines "Engines")**
 

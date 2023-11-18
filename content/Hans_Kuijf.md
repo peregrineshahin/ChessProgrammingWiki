@@ -24,11 +24,11 @@ Already during the 80s, along with [Nico Kuijf](index.php?title=Nico_Kuijf&actio
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Hans Kuijf at the [11th Computer Olympiad 2006](11th_Computer_Olympiad#Clobber "11th Computer Olympiad"), [Turin](https://en.wikipedia.org/wiki/Turin), clipped from [Photo gallery](http://www.yss-aya.com/photo/20060525torino/index05.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Bridge: Jack - Computer Bridge World Champion of the Millennium](http://www.jackbridge.com/eindex.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hans Kuijf - Developer BIO](https://www.mobygames.com/developer/sheet/view/developerId,22774/) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mark Winands](Mark_Winands "Mark Winands") (**2006**). *Pan wins Clobber tournament*. [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal") » [11th Computer Olympiad](11th_Computer_Olympiad#Clobber "11th Computer Olympiad")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Editor (**2012**). *Thanks to Michael Buro, Ken Chen, and Hans Kuijf*. [ICGA Journal, Vol. 35, No. 4](ICGA_Journal#35_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Hans Kuijf at the [11th Computer Olympiad 2006](11th_Computer_Olympiad#Clobber "11th Computer Olympiad"), [Turin](https://en.wikipedia.org/wiki/Turin), clipped from [Photo gallery](http://www.yss-aya.com/photo/20060525torino/index05.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Bridge: Jack - Computer Bridge World Champion of the Millennium](http://www.jackbridge.com/eindex.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hans Kuijf - Developer BIO](https://www.mobygames.com/developer/sheet/view/developerId,22774/) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mark Winands](Mark_Winands "Mark Winands") (**2006**). *Pan wins Clobber tournament*. [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal") » [11th Computer Olympiad](11th_Computer_Olympiad#Clobber "11th Computer Olympiad")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Editor (**2012**). *Thanks to Michael Buro, Ken Chen, and Hans Kuijf*. [ICGA Journal, Vol. 35, No. 4](ICGA_Journal#35_4 "ICGA Journal")
 
 **[Up one level](People "People")**
 

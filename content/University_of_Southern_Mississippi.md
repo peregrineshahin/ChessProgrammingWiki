@@ -36,8 +36,8 @@ a public research university located in [Hattiesburg](https://en.wikipedia.org/w
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The [Aubrey K. Lucas Administration Building](https://en.wikipedia.org/wiki/Aubrey_K._Lucas_Administration_Building) on the campus of the University of Southern Mississippi. The building is part of the University of Southern Mississippi Historic District, listed on the [National Register of Historic Places](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places). [Photo](https://commons.wikimedia.org/wiki/File:Aubrey_K_Lucas_Administration_Building.jpg) by [Dudemanfellabra](https://commons.wikimedia.org/wiki/User:Dudemanfellabra), April 28 2011, [Category:University of Southern Mississippi - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:University_of_Southern_Mississippi)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [University of Southern Mississippi from Wikipedia](https://en.wikipedia.org/wiki/University_of_Southern_Mississippi)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The [Aubrey K. Lucas Administration Building](https://en.wikipedia.org/wiki/Aubrey_K._Lucas_Administration_Building) on the campus of the University of Southern Mississippi. The building is part of the University of Southern Mississippi Historic District, listed on the [National Register of Historic Places](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places). [Photo](https://commons.wikimedia.org/wiki/File:Aubrey_K_Lucas_Administration_Building.jpg) by [Dudemanfellabra](https://commons.wikimedia.org/wiki/User:Dudemanfellabra), April 28 2011, [Category:University of Southern Mississippi - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:University_of_Southern_Mississippi)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [University of Southern Mississippi from Wikipedia](https://en.wikipedia.org/wiki/University_of_Southern_Mississippi)
 
 **[Up one Level](Organizations "Organizations")**
 

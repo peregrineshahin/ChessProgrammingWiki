@@ -93,10 +93,10 @@ Its development and testing was supported on the [OpenBench](OpenBench "OpenBenc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Packing of [silsesquixane](https://en.wikipedia.org/wiki/Silsesquioxane) molecules in [crystal lattice](https://en.wikipedia.org/wiki/Bravais_lattice) including Br···O [halogen bonds](https://en.wikipedia.org/wiki/Halogen_bond), [Image](https://commons.wikimedia.org/wiki/File:Silsesquixane_halogen_bond.tif) by Wisznu101, May 21,2018, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Release Halogen 2.3 · KierenP/Halogen · GitHub](https://github.com/KierenP/Halogen/releases/tag/v2.3)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Halogen/README.md at master · KierenP/Halogen · GitHub](https://github.com/KierenP/Halogen/blob/master/README.md)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Features based on [Release Halogen 8 · KierenP/Halogen · GitHub](https://github.com/KierenP/Halogen/releases/tag/v8)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Packing of [silsesquixane](https://en.wikipedia.org/wiki/Silsesquioxane) molecules in [crystal lattice](https://en.wikipedia.org/wiki/Bravais_lattice) including Br···O [halogen bonds](https://en.wikipedia.org/wiki/Halogen_bond), [Image](https://commons.wikimedia.org/wiki/File:Silsesquixane_halogen_bond.tif) by Wisznu101, May 21,2018, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Release Halogen 2.3 · KierenP/Halogen · GitHub](https://github.com/KierenP/Halogen/releases/tag/v2.3)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Halogen/README.md at master · KierenP/Halogen · GitHub](https://github.com/KierenP/Halogen/blob/master/README.md)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Features based on [Release Halogen 8 · KierenP/Halogen · GitHub](https://github.com/KierenP/Halogen/releases/tag/v8)
 
 **[Up one level](Engines "Engines")**
 

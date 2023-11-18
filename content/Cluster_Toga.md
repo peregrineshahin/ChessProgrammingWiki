@@ -128,15 +128,15 @@ Rcf8 26.Bf2 Rfd8 27.Ka1 Kg7 28.Be4 Rde8 29.h5 Qc4 30.Qxa6 Bxg5 31.Rhg1 Kf6 32.Ba
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Costumes of All Nations](http://www.kendallredburn.com/Plates3.html) (1882) by [Albert Kretschmer](https://en.wikipedia.org/wiki/Albert_Kretschmer), painters and costumer to the [Royal Court Theatre, Berlin](https://en.wikipedia.org/wiki/Konzerthaus_Berlin), and Dr. Carl Rohrbach, photographed by [Kendall Redburn](http://www.kendallredburn.com/), [Category:Costumes of All Nations (1882)](<https://commons.wikimedia.org/wiki/Category:Costumes_of_All_Nations_(1882)>) [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kai Himstedt](Kai_Himstedt "Kai Himstedt") (**2012**). *GridChess: Combining Optimistic Pondering with the Young Brothers Wait Concept*. [ICGA Journal, Vol. 35, No. 2](ICGA_Journal#35_2 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Cluster Toga's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=568)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Image by [Sebastian Böhme](Sebastian_B%C3%B6hme "Sebastian Böhme"), from his no longer available homepage /sebi/Paderborn2007 (as of July 13, 2019)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [International Paderborn Computer Chess Championships (IPCCC)](http://old.csvn.nl/pad_hist.html), [CSVN-tournament site](http://old.csvn.nl/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Image by [Sebastian Böhme](Sebastian_B%C3%B6hme "Sebastian Böhme"), from his no longer available homepage /sebi/WCCC-Beijing-2008 (as of July 13, 2019)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Beijing 2008 - Chess - Round 1 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=178&round=1&id=3)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Cluster Toga's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=568)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Download - Cluster Toga 1.4b5c based on Fruit 2.1 UCI](https://www.informatik.uni-hamburg.de/TIS/file-download/email-file.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Costumes of All Nations](http://www.kendallredburn.com/Plates3.html) (1882) by [Albert Kretschmer](https://en.wikipedia.org/wiki/Albert_Kretschmer), painters and costumer to the [Royal Court Theatre, Berlin](https://en.wikipedia.org/wiki/Konzerthaus_Berlin), and Dr. Carl Rohrbach, photographed by [Kendall Redburn](http://www.kendallredburn.com/), [Category:Costumes of All Nations (1882)](<https://commons.wikimedia.org/wiki/Category:Costumes_of_All_Nations_(1882)>) [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kai Himstedt](Kai_Himstedt "Kai Himstedt") (**2012**). *GridChess: Combining Optimistic Pondering with the Young Brothers Wait Concept*. [ICGA Journal, Vol. 35, No. 2](ICGA_Journal#35_2 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Cluster Toga's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=568)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Image by [Sebastian Böhme](Sebastian_B%C3%B6hme "Sebastian Böhme"), from his no longer available homepage /sebi/Paderborn2007 (as of July 13, 2019)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [International Paderborn Computer Chess Championships (IPCCC)](http://old.csvn.nl/pad_hist.html), [CSVN-tournament site](http://old.csvn.nl/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Image by [Sebastian Böhme](Sebastian_B%C3%B6hme "Sebastian Böhme"), from his no longer available homepage /sebi/WCCC-Beijing-2008 (as of July 13, 2019)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Beijing 2008 - Chess - Round 1 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=178&round=1&id=3)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Cluster Toga's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=568)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Download - Cluster Toga 1.4b5c based on Fruit 2.1 UCI](https://www.informatik.uni-hamburg.de/TIS/file-download/email-file.php)
 
 **[Up one level](Engines "Engines")**
 

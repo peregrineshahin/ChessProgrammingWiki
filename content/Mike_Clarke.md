@@ -52,15 +52,15 @@ was a British statistician and computer scientist at [University of London Insti
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [University of London Institute of Computer Science (ICS)](https://en.wikipedia.org/wiki/Institute_of_Computer_Science)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jack Good](Jack_Good "Jack Good") (**1978**). *[Review of "Advances in Computer Chess, Volume 1. by M.R.B. Clarke"; University Press, 1977](http://dl.acm.org/citation.cfm?id=1045416.1045430)*. ACM SIGART Bulletin, Issue 66
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [M. R. B. Clarke | LibraryThing](http://www.librarything.com/author/clarkemrb)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MRB. Clarke chess games - 365Chess.com](http://www.365chess.com/players/MRB._Clarke)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [EG111-supplement May 1994](http://www.gadycosteff.com/eg/eg111-supplement.pdf) (pdf) by [Gady Costeff](Gady_Costeff "Gady Costeff")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [DBLP: M. R. B. Clarke](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Clarke:M=_R=_B=.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Givens rotation from Wikipedia](https://en.wikipedia.org/wiki/Givens_rotation)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Gauss–Jordan elimination from Wikipedia](https://en.wikipedia.org/wiki/Gauss%E2%80%93Jordan_elimination)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [University of London Institute of Computer Science (ICS)](https://en.wikipedia.org/wiki/Institute_of_Computer_Science)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jack Good](Jack_Good "Jack Good") (**1978**). *[Review of "Advances in Computer Chess, Volume 1. by M.R.B. Clarke"; University Press, 1977](http://dl.acm.org/citation.cfm?id=1045416.1045430)*. ACM SIGART Bulletin, Issue 66
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [M. R. B. Clarke | LibraryThing](http://www.librarything.com/author/clarkemrb)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MRB. Clarke chess games - 365Chess.com](http://www.365chess.com/players/MRB._Clarke)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [EG111-supplement May 1994](http://www.gadycosteff.com/eg/eg111-supplement.pdf) (pdf) by [Gady Costeff](Gady_Costeff "Gady Costeff")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [DBLP: M. R. B. Clarke](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Clarke:M=_R=_B=.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Givens rotation from Wikipedia](https://en.wikipedia.org/wiki/Givens_rotation)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Gauss–Jordan elimination from Wikipedia](https://en.wikipedia.org/wiki/Gauss%E2%80%93Jordan_elimination)
 
 **[Up one level](People "People")**
 

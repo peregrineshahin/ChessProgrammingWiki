@@ -159,7 +159,7 @@ a popular version of [Banqi](https://en.wikipedia.org/wiki/Banqi), a variation o
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Photos 2013 Events: day 5](https://icga.org/?page_id=849), [ICGA](ICGA "ICGA")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Photos 2013 Events: day 5](https://icga.org/?page_id=849), [ICGA](ICGA "ICGA")
 
 **[Up one Level](Games "Games")**
 

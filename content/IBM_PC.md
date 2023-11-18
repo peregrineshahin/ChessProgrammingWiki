@@ -138,10 +138,10 @@ In July 1980, [William C. Lowe](http://www-03.ibm.com/ibm/history/exhibits/build
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> IBM Personal Computer model 5150 with [IBM 5151](https://en.wikipedia.org/wiki/IBM_5151) [monochrome monitor](https://en.wikipedia.org/wiki/Monochrome_monitor) and [IBM PC keyboard](index.php?title=IBM_PC_keyboard&action=edit&redlink=1 "IBM PC keyboard (page does not exist)"), Image by Ruben de Rijcke, February 24, 2010, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [IBM Personal Computer from Wikipedia](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [IBM Personal Computer from Wikipedia](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [IBM Personal Computer from Wikipedia](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Chronology of IBM Personal Computers](http://pctimeline.info/ibmpc/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> IBM Personal Computer model 5150 with [IBM 5151](https://en.wikipedia.org/wiki/IBM_5151) [monochrome monitor](https://en.wikipedia.org/wiki/Monochrome_monitor) and [IBM PC keyboard](index.php?title=IBM_PC_keyboard&action=edit&redlink=1 "IBM PC keyboard (page does not exist)"), Image by Ruben de Rijcke, February 24, 2010, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [IBM Personal Computer from Wikipedia](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [IBM Personal Computer from Wikipedia](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [IBM Personal Computer from Wikipedia](https://en.wikipedia.org/wiki/IBM_Personal_Computer)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chronology of IBM Personal Computers](http://pctimeline.info/ibmpc/)
 
 **[Up one Level](Hardware "Hardware")**
 

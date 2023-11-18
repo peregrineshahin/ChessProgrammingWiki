@@ -66,11 +66,11 @@ It supports [UCI](UCI "UCI") through the [Java Chess Protocol Interface](index.p
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Hashmask 12501 of 16384 named Flux, an example of [hashmask image](https://www.thehashmasks.com/) that accompanies a [Non-Fungible Token (NFT)](https://en.wikipedia.org/wiki/Non-fungible_token).
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Hashmask 12501 of 16384 named Flux, an example of [hashmask image](https://www.thehashmasks.com/) that accompanies a [Non-Fungible Token (NFT)](https://en.wikipedia.org/wiki/Non-fungible_token).
    The NFT was issued on the [Ethereum](https://en.wikipedia.org/wiki/Ethereum) [blockchain](https://en.wikipedia.org/wiki/Blockchain) by the artist to accompany this artwork.
    [The image](https://commons.wikimedia.org/wiki/File:Hashmask_12501_of_16384_named_Flux.png) is from a set of 16,384 unique Hashmasks, each with unique attributes, Author Crunchycat13, February 03, 2021, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - fluxroot/jcpi: A Java Chess Protocol Interface](https://github.com/fluxroot/jcpi)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Flux Engine - Flux Chess Project](https://web.archive.org/web/20160424120659/http://www.fluxchess.com:80/flux/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - fluxroot/jcpi: A Java Chess Protocol Interface](https://github.com/fluxroot/jcpi)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Flux Engine - Flux Chess Project](https://web.archive.org/web/20160424120659/http://www.fluxchess.com:80/flux/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](Engines "Engines")**
 

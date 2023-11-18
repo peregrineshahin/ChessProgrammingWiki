@@ -38,11 +38,11 @@ Finn Eggers also has a [YouTube](https://en.wikipedia.org/wiki/YouTube) channel 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Finn Laurence Eggers | LinkedIn](https://www.linkedin.com/in/finn-laurence-eggers-b7ba4919a/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - Luecx/Koivisto: UCI Chess engine](https://github.com/Luecx/Koivisto)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - Luecx/Chess: Small chess engine with visual interface](https://github.com/Luecx/Chess)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [NN - Fully Connected Tutorial - YouTube](https://www.youtube.com/playlist?list=PLgomWLYGNl1dL1Qsmgumhcg4HOcWZMd3k)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [AI - Genetic Algorithms - YouTube](https://www.youtube.com/playlist?list=PLgomWLYGNl1fT1GCpbJLCJA1s6M1x7nmT)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Finn Laurence Eggers | LinkedIn](https://www.linkedin.com/in/finn-laurence-eggers-b7ba4919a/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - Luecx/Koivisto: UCI Chess engine](https://github.com/Luecx/Koivisto)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - Luecx/Chess: Small chess engine with visual interface](https://github.com/Luecx/Chess)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [NN - Fully Connected Tutorial - YouTube](https://www.youtube.com/playlist?list=PLgomWLYGNl1dL1Qsmgumhcg4HOcWZMd3k)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [AI - Genetic Algorithms - YouTube](https://www.youtube.com/playlist?list=PLgomWLYGNl1fT1GCpbJLCJA1s6M1x7nmT)
 
 **[Up one level](People "People")**
 

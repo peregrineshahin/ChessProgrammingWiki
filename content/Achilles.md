@@ -38,9 +38,9 @@ a [parallel](Parallel_Search "Parallel Search") chess system by [Vladan Vučkovi
 
 ## [Achilles' heel](https://en.wikipedia.org/wiki/Achilles%27_heel) [Achilles tendon](https://en.wikipedia.org/wiki/Achilles_tendon) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Eugène Delacroix](Category:Eug%C3%A8ne_Delacroix "Category:Eugène Delacroix") - The Education of Achilles, circa 1862, [Getty Center](https://en.wikipedia.org/wiki/Getty_Center), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Achilles Home](http://chess.elfak.ni.ac.rs/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GM Igor Miladinovic (elo 2606) vs Achilles live](http://www.talkchess.com/forum/viewtopic.php?t=14888) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), July 05, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Eugène Delacroix](Category:Eug%C3%A8ne_Delacroix "Category:Eugène Delacroix") - The Education of Achilles, circa 1862, [Getty Center](https://en.wikipedia.org/wiki/Getty_Center), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Achilles Home](http://chess.elfak.ni.ac.rs/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GM Igor Miladinovic (elo 2606) vs Achilles live](http://www.talkchess.com/forum/viewtopic.php?t=14888) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), July 05, 2007
 
 **[Up one level](Engines "Engines")**
 

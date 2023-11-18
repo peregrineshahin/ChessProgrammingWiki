@@ -68,7 +68,7 @@ Computer Chess Reports published quarterly by [ICD Corporation](index.php?title=
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [rec.games.chess.compute FAQ (1/3)](http://www.faqs.org/faqs/games/chess/computer/part1/) covers IDC's Computer Chess Reports
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [rec.games.chess.compute FAQ (1/3)](http://www.faqs.org/faqs/games/chess/computer/part1/) covers IDC's Computer Chess Reports
 
 **[Up one Level](Periodical "Periodical")**
 

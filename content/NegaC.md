@@ -45,9 +45,9 @@ an idea to turn a [Depth-First](Depth-First "Depth-First") to a [Best-First](Bes
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bisected Half Skull - Bronce](http://www.microbotic.org/skull5.htm) from [The Sculpture](http://www.microbotic.org/portfolio.htm) of [Christopher Conte](Category:Christopher_Conte "Category:Christopher Conte")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kevin Coplan](Kevin_Coplan "Kevin Coplan") (**1982**). *A special-purpose machine for an improved search algorithm for deep chess combinations.* [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") (**1991**). *Experiments With the NegaC\* Search - An Alternative for Othello Endgame Search.* [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad"), [zipped postscript](http://www.recherche.enac.fr/%7Eweill/publications/negac.ps.gz) and [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.3189&rep=rep1&type=pdf) from [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.3189)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bisected Half Skull - Bronce](http://www.microbotic.org/skull5.htm) from [The Sculpture](http://www.microbotic.org/portfolio.htm) of [Christopher Conte](Category:Christopher_Conte "Category:Christopher Conte")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kevin Coplan](Kevin_Coplan "Kevin Coplan") (**1982**). *A special-purpose machine for an improved search algorithm for deep chess combinations.* [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") (**1991**). *Experiments With the NegaC\* Search - An Alternative for Othello Endgame Search.* [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad"), [zipped postscript](http://www.recherche.enac.fr/%7Eweill/publications/negac.ps.gz) and [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.3189&rep=rep1&type=pdf) from [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.3189)
 
 **[Up one level](Search "Search")**
 

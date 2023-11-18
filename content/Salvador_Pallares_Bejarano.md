@@ -33,11 +33,11 @@ and programmer, he started chess programming in 2001, developing his first priva
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Salvador Pallarés B. (@salvapallares) / Twitter](https://twitter.com/salvapallares?lang=en)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Salvador Pallares Bejarano | LinkedIn](https://www.linkedin.com/in/spallares/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pallares Bejarano, Salvador FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=2285720)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Clarabit Chess Engine](http://sites.google.com/site/sapabe/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Clarabit first release](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=19514) by Salvador Pallares Bejarano, [CCC](CCC "CCC"), February 09, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Salvador Pallarés B. (@salvapallares) / Twitter](https://twitter.com/salvapallares?lang=en)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Salvador Pallares Bejarano | LinkedIn](https://www.linkedin.com/in/spallares/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pallares Bejarano, Salvador FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=2285720)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Clarabit Chess Engine](http://sites.google.com/site/sapabe/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Clarabit first release](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=19514) by Salvador Pallares Bejarano, [CCC](CCC "CCC"), February 09, 2008
 
 **[Up one Level](People "People")**
 

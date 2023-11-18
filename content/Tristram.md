@@ -120,14 +120,14 @@ Kf6 37.Kd2 Bd7 38.Nb4 Be6 39.Rh4 Kg7 40.Nd3 Rb6 41.Rd4 h6 42.Rf4 Kg6 43.Ra4 Rd6
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [John William Waterhouse](Category:John_William_Waterhouse "Category:John William Waterhouse") - [Tristan and Isolde with the Potion](https://commons.wikimedia.org/wiki/File:John_william_waterhouse_tristan_and_isolde_with_the_potion.jpg)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Galahad](https://www.stmintz.com/ccc/index.php?id=58697) by [James Swafford](James_Swafford "James Swafford"), [CCC](CCC "CCC"), June 29, 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Variant spellings of the hero's and heroine's names include Tristan, Tristran, Tristram, Tristrem, Isolde, Iseult, Isolt, Isot, Yseult, and Ysolt - from [Tristan and Isolde](http://www.pitt.edu/~dash/tristan.html) retold by [D. L. Ashliman](http://www.pitt.edu/~dash/ashliman.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Tristan and Isolde](http://www.pitt.edu/~dash/tristan.html) retold by [D. L. Ashliman](http://www.pitt.edu/~dash/ashliman.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CCT3 games](http://www.vrichey.de/cct3/cct3games.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Gottfried von Strassburg from Wikipedia](https://en.wikipedia.org/wiki/Gottfried_von_Strassburg)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Stavenhagen from Wikipedia](https://en.wikipedia.org/wiki/Stavenhagen)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Tristan (Gottfried von Straßburg) from Wikipedia.de](http://de.wikipedia.org/wiki/Tristan_%28Gottfried_von_Stra%C3%9Fburg%29) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [John William Waterhouse](Category:John_William_Waterhouse "Category:John William Waterhouse") - [Tristan and Isolde with the Potion](https://commons.wikimedia.org/wiki/File:John_william_waterhouse_tristan_and_isolde_with_the_potion.jpg)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Galahad](https://www.stmintz.com/ccc/index.php?id=58697) by [James Swafford](James_Swafford "James Swafford"), [CCC](CCC "CCC"), June 29, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Variant spellings of the hero's and heroine's names include Tristan, Tristran, Tristram, Tristrem, Isolde, Iseult, Isolt, Isot, Yseult, and Ysolt - from [Tristan and Isolde](http://www.pitt.edu/~dash/tristan.html) retold by [D. L. Ashliman](http://www.pitt.edu/~dash/ashliman.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tristan and Isolde](http://www.pitt.edu/~dash/tristan.html) retold by [D. L. Ashliman](http://www.pitt.edu/~dash/ashliman.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CCT3 games](http://www.vrichey.de/cct3/cct3games.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gottfried von Strassburg from Wikipedia](https://en.wikipedia.org/wiki/Gottfried_von_Strassburg)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Stavenhagen from Wikipedia](https://en.wikipedia.org/wiki/Stavenhagen)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Tristan (Gottfried von Straßburg) from Wikipedia.de](http://de.wikipedia.org/wiki/Tristan_%28Gottfried_von_Stra%C3%9Fburg%29) (German)
 
 **[Up one Level](Engines "Engines")**
 

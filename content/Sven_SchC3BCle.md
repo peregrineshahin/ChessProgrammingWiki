@@ -62,13 +62,13 @@ a German computer scientist, freelance software developer and computer chess pro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Homepage von Sven Schüle](http://www.schuelebln.de/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Surprise - A WinBoard Chess Engine](http://www.schuelebln.de/chess/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New engine: KnockOut 0.7](http://www.talkchess.com/forum/viewtopic.php?t=34713) by Sven Schüle, [CCC](CCC "CCC"), June 04, 2010
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [New engine release: Jumbo](http://www.talkchess.com/forum/viewtopic.php?t=61473) by Sven Schüle, [CCC](CCC "CCC"), September 19, 2016
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Nemo 1.0 Beta](http://www.talkchess.com/forum/viewtopic.php?t=41947) by [Michael Hoffmann](Michael_Hoffmann "Michael Hoffmann"), [CCC](CCC "CCC"), January 12, 2012
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Crafty accused of copying Fruit PST](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=419368) by Sven Schüle, [CCC](CCC "CCC"), August 15, 2011
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Lyapko George's WinBoard related page](http://www.reocities.com/lyapko/winboard.htm) (outdated) by [George Lyapko](George_Lyapko "George Lyapko")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Homepage von Sven Schüle](http://www.schuelebln.de/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Surprise - A WinBoard Chess Engine](http://www.schuelebln.de/chess/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New engine: KnockOut 0.7](http://www.talkchess.com/forum/viewtopic.php?t=34713) by Sven Schüle, [CCC](CCC "CCC"), June 04, 2010
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [New engine release: Jumbo](http://www.talkchess.com/forum/viewtopic.php?t=61473) by Sven Schüle, [CCC](CCC "CCC"), September 19, 2016
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Nemo 1.0 Beta](http://www.talkchess.com/forum/viewtopic.php?t=41947) by [Michael Hoffmann](Michael_Hoffmann "Michael Hoffmann"), [CCC](CCC "CCC"), January 12, 2012
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Crafty accused of copying Fruit PST](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=419368) by Sven Schüle, [CCC](CCC "CCC"), August 15, 2011
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Lyapko George's WinBoard related page](http://www.reocities.com/lyapko/winboard.htm) (outdated) by [George Lyapko](George_Lyapko "George Lyapko")
 
 **[Up one Level](People "People")**
 

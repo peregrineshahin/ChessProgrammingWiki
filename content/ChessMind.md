@@ -37,8 +37,8 @@ an [UCI](UCI "UCI") compliant chess engine by [Luca Hemmerich](Luca_Hemmerich "L
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> La mente dello scacchista from, [Immagini legate agli scacchi](http://www.partecipiamo.it/cultura/carlo_bolmida/scacchi_immagini.htm) by [Carlo Bolmida](index.php?title=Category:Carlo_Bolmida&action=edit&redlink=1 "Category:Carlo Bolmida (page does not exist)")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ChessMind 0.82](http://talkchess.com/forum/viewtopic.php?t=34711) by [Luca Hemmerich](Luca_Hemmerich "Luca Hemmerich"), [CCC](CCC "CCC"), June 04, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> La mente dello scacchista from, [Immagini legate agli scacchi](http://www.partecipiamo.it/cultura/carlo_bolmida/scacchi_immagini.htm) by [Carlo Bolmida](index.php?title=Category:Carlo_Bolmida&action=edit&redlink=1 "Category:Carlo Bolmida (page does not exist)")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ChessMind 0.82](http://talkchess.com/forum/viewtopic.php?t=34711) by [Luca Hemmerich](Luca_Hemmerich "Luca Hemmerich"), [CCC](CCC "CCC"), June 04, 2010
 
 **[Up one Level](Engines "Engines")**
 

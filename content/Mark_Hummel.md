@@ -27,11 +27,11 @@ and was also an early entry in the [ANU Carbon-Silicon Tournaments](ANU_Carbon-S
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [About Mark Hummel](http://mhummel.users.sourceforge.net/bio.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Franz Josef Glacier from Wikipedia](https://en.wikipedia.org/wiki/Franz_Josef_Glacier)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Merchant of Venice | Free Science & Engineering software downloads at SourceForge.net](http://sourceforge.net/projects/mov/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Mark Hummel - LinkedIn](https://www.linkedin.com/in/mark-hummel-56059753/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [NC3 2005 - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC32005_-_List_of_Entries.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [About Mark Hummel](http://mhummel.users.sourceforge.net/bio.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Franz Josef Glacier from Wikipedia](https://en.wikipedia.org/wiki/Franz_Josef_Glacier)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Merchant of Venice | Free Science & Engineering software downloads at SourceForge.net](http://sourceforge.net/projects/mov/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mark Hummel - LinkedIn](https://www.linkedin.com/in/mark-hummel-56059753/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [NC3 2005 - List of Entries](http://users.cecs.anu.edu.au/%7Eshaun/chess/NC32005_-_List_of_Entries.html)
 
 **[Up one level](People "People")**
 

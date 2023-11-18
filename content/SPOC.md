@@ -117,13 +117,13 @@ Rf2 34.Rg1 Rf7 35.Kc2 b5 36.b3 b4 37.Bxb4 Bb5 38.a4 Rd4 39.axb5 cxb5 40.Bc3 Rd6 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [SPOC the Chess Master Screenshots for DOS](https://www.mobygames.com/game/dos/spoc-the-chess-master/screenshots/gameShotId,869375/) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Dave Whitehouse](index.php?title=Dave_Whitehouse&action=edit&redlink=1 "Dave Whitehouse (page does not exist)") (**1983**). *Biding Your Time With Computerized Chess*. [PC Magazine](PC_Magazine "PC Magazine"), September 1983, pp. 449-458
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SDL Cypress Software](https://archive.org/details/SDL_Cypress_Software) hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Sixteenth ACM North American Computer Chess Championship, Denver Colorado, October 13-15, 1985](https://www.computerhistory.org/chess/doc-431614f6cef27/) hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ACM Computer Chess Championship](http://www.megalextoria.com/usenet-archive/news034f1/b54/mod/ai/00000003.html) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [Usenet](https://en.wikipedia.org/wiki/Usenet), November 2, 1985
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN"), Spoc referred as [Spock](https://en.wikipedia.org/wiki/Spock)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [OCaml from Wikipedia](https://en.wikipedia.org/wiki/OCaml)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [SPOC the Chess Master Screenshots for DOS](https://www.mobygames.com/game/dos/spoc-the-chess-master/screenshots/gameShotId,869375/) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Dave Whitehouse](index.php?title=Dave_Whitehouse&action=edit&redlink=1 "Dave Whitehouse (page does not exist)") (**1983**). *Biding Your Time With Computerized Chess*. [PC Magazine](PC_Magazine "PC Magazine"), September 1983, pp. 449-458
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SDL Cypress Software](https://archive.org/details/SDL_Cypress_Software) hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Sixteenth ACM North American Computer Chess Championship, Denver Colorado, October 13-15, 1985](https://www.computerhistory.org/chess/doc-431614f6cef27/) hosted by [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ACM Computer Chess Championship](http://www.megalextoria.com/usenet-archive/news034f1/b54/mod/ai/00000003.html) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [Usenet](https://en.wikipedia.org/wiki/Usenet), November 2, 1985
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [PGN Download NACCC](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=60&Itemid=26&lang=en) hosted by [CSVN](CSVN "CSVN"), Spoc referred as [Spock](https://en.wikipedia.org/wiki/Spock)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [OCaml from Wikipedia](https://en.wikipedia.org/wiki/OCaml)
 
 **[Up one Level](Engines "Engines")**
 

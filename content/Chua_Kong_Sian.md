@@ -53,9 +53,9 @@ and author of the [C++](Cpp "Cpp") [UCI](UCI "UCI") [bitboard-based](Bitboards "
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Killer moves](https://groups.google.com/d/msg/gnu.chess/-2LP9t6hvwk/GmEAGdAd4msJ) by Chua Kong Sian, [gnu.chess](GNU_Chess#NewsGroup "GNU Chess"), March 21, 1995
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GNU Chess 5](https://groups.google.com/d/msg/gnu.chess/UGpLeswpTSU/5UtPTsLqhB8J) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [gnu.chess](GNU_Chess#NewsGroup "GNU Chess"), October 10, 1999
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Melee Chess Engine | Download Melee Chess Engine software for free at SourceForge.net](https://sourceforge.net/projects/melee64/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Killer moves](https://groups.google.com/d/msg/gnu.chess/-2LP9t6hvwk/GmEAGdAd4msJ) by Chua Kong Sian, [gnu.chess](GNU_Chess#NewsGroup "GNU Chess"), March 21, 1995
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GNU Chess 5](https://groups.google.com/d/msg/gnu.chess/UGpLeswpTSU/5UtPTsLqhB8J) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [gnu.chess](GNU_Chess#NewsGroup "GNU Chess"), October 10, 1999
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Melee Chess Engine | Download Melee Chess Engine software for free at SourceForge.net](https://sourceforge.net/projects/melee64/)
 
 **[Up one level](People "People")**
 

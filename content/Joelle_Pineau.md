@@ -58,10 +58,10 @@ She received her Ph.D. on *Tractable Planning Under Uncertainty* in 2004 at [Car
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Joelle Pineau's Home](https://www.cs.mcgill.ca/~jpineau/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Facebook opens AI lab in Montréal](https://www.montrealinternational.com/en/news/facebook-opens-ai-lab-in-montreal/), [Montréal International](https://en.wikipedia.org/wiki/Montr%C3%A9al_International), September 18, 2017
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Joelle Pineau (**2004**). *Tractable Planning Under Uncertainty: Exploiting Structure*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [pdf](https://www.cs.mcgill.ca/~jpineau/files/jpineau-thesis.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Joelle Pineau](https://dblp.uni-trier.de/pid/p/JoellePineau.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Joelle Pineau's Home](https://www.cs.mcgill.ca/~jpineau/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Facebook opens AI lab in Montréal](https://www.montrealinternational.com/en/news/facebook-opens-ai-lab-in-montreal/), [Montréal International](https://en.wikipedia.org/wiki/Montr%C3%A9al_International), September 18, 2017
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Joelle Pineau (**2004**). *Tractable Planning Under Uncertainty: Exploiting Structure*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [pdf](https://www.cs.mcgill.ca/~jpineau/files/jpineau-thesis.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Joelle Pineau](https://dblp.uni-trier.de/pid/p/JoellePineau.html)
 
 **[Up one level](People "People")**
 

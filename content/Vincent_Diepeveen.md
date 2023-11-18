@@ -140,17 +140,17 @@ With Vincent, you have to take the whole package. He has firmly held opinions, a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") during [WCCC 2005](WCCC_2005 "WCCC 2005") excursion, [Golden Circle](https://en.wikipedia.org/wiki/Golden_Circle_(Iceland)), [Iceland](https://en.wikipedia.org/wiki/Iceland) August 17, 2005
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eric van Reem](Eric_van_Reem "Eric van Reem") (**2004**). *Drei Gewinner in Leiden - Die Geschichte von Diep*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), 6/2004 (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [On Beowulf - long post](https://www.stmintz.com/ccc/index.php?id=173418) by Vincent Diepeveen, [CCC](CCC "CCC"), June 05, 2001
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Differences between 0x88 ,10x12 and Bitboards!?](https://www.stmintz.com/ccc/index.php?id=266030) by Vincent Diepeveen, [CCC](CCC "CCC"), November 19, 2002
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [24th Open Dutch Computer Chess Championship 2004 - Photo Gallery](http://old.csvn.nl/gallery21.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") during [WCCC 2005](WCCC_2005 "WCCC 2005") excursion, [Golden Circle](https://en.wikipedia.org/wiki/Golden_Circle_(Iceland)), [Iceland](https://en.wikipedia.org/wiki/Iceland) August 17, 2005
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Unsubstantiated claim in the Diep homepage](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/11e70ee3cec6c75f) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 17, 1997
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Let's stop wasting time on Vincent Diepeveen](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/a20a25fbec56fd82) by [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 23, 1997
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1997**). *DIEP, Deep Trouble*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 20, No. 3, pp. 200-203
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [DIEP parallel in Paderborn - technical and detailed story](https://www.stmintz.com/ccc/index.php?id=58505) by Vincent Diepeveen, [CCC](CCC "CCC"), June 28, 1999
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Re: DIEP in WMCCC2000 London - long story](https://www.stmintz.com/ccc/index.php?id=127350) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), August 29, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") during [WCCC 2005](WCCC_2005 "WCCC 2005") excursion, [Golden Circle](https://en.wikipedia.org/wiki/Golden_Circle_(Iceland)), [Iceland](https://en.wikipedia.org/wiki/Iceland) August 17, 2005
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eric van Reem](Eric_van_Reem "Eric van Reem") (**2004**). *Drei Gewinner in Leiden - Die Geschichte von Diep*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), 6/2004 (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [On Beowulf - long post](https://www.stmintz.com/ccc/index.php?id=173418) by Vincent Diepeveen, [CCC](CCC "CCC"), June 05, 2001
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Differences between 0x88 ,10x12 and Bitboards!?](https://www.stmintz.com/ccc/index.php?id=266030) by Vincent Diepeveen, [CCC](CCC "CCC"), November 19, 2002
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [24th Open Dutch Computer Chess Championship 2004 - Photo Gallery](http://old.csvn.nl/gallery21.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") during [WCCC 2005](WCCC_2005 "WCCC 2005") excursion, [Golden Circle](https://en.wikipedia.org/wiki/Golden_Circle_(Iceland)), [Iceland](https://en.wikipedia.org/wiki/Iceland) August 17, 2005
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Unsubstantiated claim in the Diep homepage](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/11e70ee3cec6c75f) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 17, 1997
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Let's stop wasting time on Vincent Diepeveen](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/a20a25fbec56fd82) by [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 23, 1997
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Peter Kouwenhoven](Peter_Kouwenhoven "Peter Kouwenhoven") (**1997**). *DIEP, Deep Trouble*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 20, No. 3, pp. 200-203
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [DIEP parallel in Paderborn - technical and detailed story](https://www.stmintz.com/ccc/index.php?id=58505) by Vincent Diepeveen, [CCC](CCC "CCC"), June 28, 1999
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: DIEP in WMCCC2000 London - long story](https://www.stmintz.com/ccc/index.php?id=127350) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), August 29, 2000
 
 **[Up one level](People "People")**
 

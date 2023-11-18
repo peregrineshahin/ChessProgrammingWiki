@@ -316,12 +316,12 @@ from [Wikipedia](https://en.wikipedia.org/wiki/Home)
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Any opinion about this book?: "All the Right Moves"](http://www.talkchess.com/forum/viewtopic.php?t=41743) by E Diaz, [CCC](CCC "CCC"), January 02, 2012
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Moore's law from Wikipedia](https://en.wikipedia.org/wiki/Moore's_law)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [After Moore's law | Technology Quarterly](http://www.economist.com/technology-quarterly/2016-03-12/after-moores-law) | [The Economist](https://en.wikipedia.org/wiki/The_Economist), March 12, 2016
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Moore's Law](http://www.talkchess.com/forum/viewtopic.php?t=59530) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), March 16, 2016
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [8-bit color computer from TTL](https://hackaday.io/project/20781-8-bit-color-computer-from-ttl) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [Hackaday.io](https://en.wikipedia.org/wiki/Hackaday), 2017
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [About – Gigatron](https://gigatron.io/?page_id=17)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Any opinion about this book?: "All the Right Moves"](http://www.talkchess.com/forum/viewtopic.php?t=41743) by E Diaz, [CCC](CCC "CCC"), January 02, 2012
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Moore's law from Wikipedia](https://en.wikipedia.org/wiki/Moore's_law)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [After Moore's law | Technology Quarterly](http://www.economist.com/technology-quarterly/2016-03-12/after-moores-law) | [The Economist](https://en.wikipedia.org/wiki/The_Economist), March 12, 2016
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Moore's Law](http://www.talkchess.com/forum/viewtopic.php?t=59530) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), March 16, 2016
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [8-bit color computer from TTL](https://hackaday.io/project/20781-8-bit-color-computer-from-ttl) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [Hackaday.io](https://en.wikipedia.org/wiki/Hackaday), 2017
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [About – Gigatron](https://gigatron.io/?page_id=17)
 
 **[Up one Level](Home "Home")**
 

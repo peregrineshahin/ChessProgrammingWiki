@@ -83,7 +83,7 @@ Bg6 16.Bh5 Qd7 17.Bxg6 hxg6 18.Qxg6+ Kh8 19.Qh6+ Qh7 20.Qxf8+ Qg8 21.Rxg8+
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) (**1904**). *[Kunstformen der Natur](https://en.wikipedia.org/wiki/Kunstformen_der_Natur)*. (Artforms of nature) plate 86: from [Decapoda from Wikipedia](https://en.wikipedia.org/wiki/Decapoda), [Kunstformen der Natur - Wikimedia Commons](http://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel) (**1904**). *[Kunstformen der Natur](https://en.wikipedia.org/wiki/Kunstformen_der_Natur)*. (Artforms of nature) plate 86: from [Decapoda from Wikipedia](https://en.wikipedia.org/wiki/Decapoda), [Kunstformen der Natur - Wikimedia Commons](http://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
 
 	1. [Parthenope horrida](https://en.wikipedia.org/wiki/Parthenopidae) ([Fabricius](https://en.wikipedia.org/wiki/Johan_Christian_Fabricius)) = [Daldorfia horrida](http://eol.org/pages/1021872/overview) ([Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus), 1758)
 	2. [Podophthalmus](https://en.wikipedia.org/wiki/Portunidae) vigil ([Leach](https://en.wikipedia.org/wiki/William_Elford_Leach)) = Podophthalmus vigil (Fabricius, 1798)
@@ -97,11 +97,11 @@ Bg6 16.Bh5 Qd7 17.Bxg6 hxg6 18.Qxg6+ Kh8 19.Qh6+ Qh7 20.Qxf8+ Qg8 21.Rxg8+
 	10. [Birgus latro](https://en.wikipedia.org/wiki/Coconut_crab) ([Herbst](https://en.wikipedia.org/wiki/Johann_Friedrich_Wilhelm_Herbst)) = Birgus latro (Linnaeus, 1767)
 
 
-- <a id="cite-ref-2" href="#cite-note-2">[2]</a> [SEE - the chess engine](http://home.netspeed.com.au/lattimore/)
+- <a id="cite-ref-2" href="#cite-note-2">↑</a> [SEE - the chess engine](http://home.netspeed.com.au/lattimore/)
 
-- <a id="cite-ref-3" href="#cite-note-3">[3]</a> [MTD Drivers](https://www.stmintz.com/ccc/index.php?id=381595) by [Tor Lattimore](Tor_Lattimore "Tor Lattimore"), [CCC](CCC "CCC"), August 10, 2004
+- <a id="cite-ref-3" href="#cite-note-3">↑</a> [MTD Drivers](https://www.stmintz.com/ccc/index.php?id=381595) by [Tor Lattimore](Tor_Lattimore "Tor Lattimore"), [CCC](CCC "CCC"), August 10, 2004
 
-- <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Rookie still under active development](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=6209&start=5) by Tony Thomas, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 15, 2007
+- <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Rookie still under active development](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=6209&start=5) by Tony Thomas, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 15, 2007
 
 
 **[Up one Level](Engines "Engines")**

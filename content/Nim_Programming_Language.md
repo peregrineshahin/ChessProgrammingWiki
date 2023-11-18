@@ -42,8 +42,8 @@ and [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> The logo for the Nim programming language, , provided in [GitHub - nim-lang/assets](https://github.com/nim-lang/assets), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nim (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Nim_(programming_language))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The logo for the Nim programming language, , provided in [GitHub - nim-lang/assets](https://github.com/nim-lang/assets), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nim (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Nim_(programming_language))
 
 **[Up one Level](Languages "Languages")**
 

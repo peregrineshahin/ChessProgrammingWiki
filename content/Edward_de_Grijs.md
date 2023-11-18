@@ -40,13 +40,13 @@ He was also member of the *POWERDOT* team, winning the 2013 *Heritage Health Pri
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image captured from the [Video](#video)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [FirstGo](https://www.game-ai-forum.org/icga-tournaments/program.php?id=514)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [igosoft - Info&Tournament for Go Playing Software - F1,FU,FG,GN,GP,GA](http://igosoft.com/pageID_5295708.html)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Edward de Grijs | LinkedIn](https://www.linkedin.com/in/edwarddegrijs/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [How the Netflix Prize Was Won](https://www.wired.com/2009/09/how-the-netflix-prize-was-won/) by [Eliot Van Buskirk](https://www.wired.com/author/eliot-van-buskirk/), [Wired](<https://en.wikipedia.org/wiki/Wired_(magazine)>), September 22, 2009
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Lester Mackey](http://web.stanford.edu/~lmackey/research.html) (**2011**). *The Story of the Netflix Prize: An Ensembler’s Tale*. [National Academies'](https://en.wikipedia.org/wiki/National_Academies_of_Sciences,_Engineering,_and_Medicine) Seminar, [Washington, DC](https://en.wikipedia.org/wiki/Washington,_D.C.), [slides as pdf](http://web.stanford.edu/~lmackey/papers/netflix_story-nas11-slides.pdf)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Heritage Health 500K Prize awarded; HHP Prize 2 will be $3M “masters” competition with real, not anonymized data](https://www.kdnuggets.com/2013/06/heritage-health-500k-prize-goes-to-powerdot-hhp-2-announced.html), June, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image captured from the [Video](#video)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [FirstGo](https://www.game-ai-forum.org/icga-tournaments/program.php?id=514)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [igosoft - Info&Tournament for Go Playing Software - F1,FU,FG,GN,GP,GA](http://igosoft.com/pageID_5295708.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Edward de Grijs | LinkedIn](https://www.linkedin.com/in/edwarddegrijs/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [How the Netflix Prize Was Won](https://www.wired.com/2009/09/how-the-netflix-prize-was-won/) by [Eliot Van Buskirk](https://www.wired.com/author/eliot-van-buskirk/), [Wired](<https://en.wikipedia.org/wiki/Wired_(magazine)>), September 22, 2009
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Lester Mackey](http://web.stanford.edu/~lmackey/research.html) (**2011**). *The Story of the Netflix Prize: An Ensembler’s Tale*. [National Academies'](https://en.wikipedia.org/wiki/National_Academies_of_Sciences,_Engineering,_and_Medicine) Seminar, [Washington, DC](https://en.wikipedia.org/wiki/Washington,_D.C.), [slides as pdf](http://web.stanford.edu/~lmackey/papers/netflix_story-nas11-slides.pdf)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Heritage Health 500K Prize awarded; HHP Prize 2 will be $3M “masters” competition with real, not anonymized data](https://www.kdnuggets.com/2013/06/heritage-health-500k-prize-goes-to-powerdot-hhp-2-announced.html), June, 2013
 
 **[Up one level](People "People")**
 

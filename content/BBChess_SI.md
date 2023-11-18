@@ -63,9 +63,9 @@ With the proposed tuning approach, we tuned the chess evaluation function of BBC
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Computer Architecture and Languages Laboratory](http://labraj.uni-mb.si/en/General_Information)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Borko Bošković](Borko_Bo%C5%A1kovi%C4%87 "Borko Bošković") (**2010**). *[Differential Evolution for the Tuning of a Chess Evaluation Function](http://labraj.uni-mb.si/en/PhD_Thesis_Defence_%28Borko_Bo%C5%A1kovi%C4%87%29)*. Ph.D. thesis, [University of Maribor](University_of_Maribor "University of Maribor")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Borko Bošković](Borko_Bo%C5%A1kovi%C4%87 "Borko Bošković"), [Janez Brest](Janez_Brest "Janez Brest") (**2011**). *[Tuning Chess Evaluation Function Parameters using Differential Evolution](http://www.informatica.si/index.php/informatica/article/view/353)*. Informatica, Vol. 35, No. 2
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer Architecture and Languages Laboratory](http://labraj.uni-mb.si/en/General_Information)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Borko Bošković](Borko_Bo%C5%A1kovi%C4%87 "Borko Bošković") (**2010**). *[Differential Evolution for the Tuning of a Chess Evaluation Function](http://labraj.uni-mb.si/en/PhD_Thesis_Defence_%28Borko_Bo%C5%A1kovi%C4%87%29)*. Ph.D. thesis, [University of Maribor](University_of_Maribor "University of Maribor")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Borko Bošković](Borko_Bo%C5%A1kovi%C4%87 "Borko Bošković"), [Janez Brest](Janez_Brest "Janez Brest") (**2011**). *[Tuning Chess Evaluation Function Parameters using Differential Evolution](http://www.informatica.si/index.php/informatica/article/view/353)*. Informatica, Vol. 35, No. 2
 
 **[Up one Level](Engines "Engines")**
 

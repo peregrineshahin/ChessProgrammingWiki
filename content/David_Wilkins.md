@@ -48,14 +48,14 @@ Besides AI work aimed at tournament play, particular aspects of the game have il
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [David E. Wilkins homepage](http://www.ai.sri.com/%7Ewilkins/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> David Wilkins (**1979**). *Using Patterns and Plans to Solve Problems and Control Search*. Ph.D. thesis, Computer Science Dept, [Stanford University](Stanford_University "Stanford University"), AI Lab Memo AIM-329
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SIPE-2: System for Interactive Planning and Execution](http://www.ai.sri.com/%7Esipe/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [John McCarthy](John_McCarthy "John McCarthy") (**1997**). *[AI as Sport](http://science.sciencemag.org/content/276/5318/1518)*. [Science](index.php?title=Science&action=edit&redlink=1 "Science (page does not exist)"), Vol. 276
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [AI as Sport](http://www-formal.stanford.edu/jmc/newborn/newborn.html) by [John McCarthy](John_McCarthy "John McCarthy")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Papers on Chess by David E. Wilkins](http://www.ai.sri.com/%7Ewilkins/bib-chess.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: David E. Wilkins](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wilkins:David_E=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [David E. Wilkins homepage](http://www.ai.sri.com/%7Ewilkins/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> David Wilkins (**1979**). *Using Patterns and Plans to Solve Problems and Control Search*. Ph.D. thesis, Computer Science Dept, [Stanford University](Stanford_University "Stanford University"), AI Lab Memo AIM-329
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SIPE-2: System for Interactive Planning and Execution](http://www.ai.sri.com/%7Esipe/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [John McCarthy](John_McCarthy "John McCarthy") (**1997**). *[AI as Sport](http://science.sciencemag.org/content/276/5318/1518)*. [Science](index.php?title=Science&action=edit&redlink=1 "Science (page does not exist)"), Vol. 276
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [AI as Sport](http://www-formal.stanford.edu/jmc/newborn/newborn.html) by [John McCarthy](John_McCarthy "John McCarthy")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Papers on Chess by David E. Wilkins](http://www.ai.sri.com/%7Ewilkins/bib-chess.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: David E. Wilkins](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wilkins:David_E=.html)
 
 **[Up one level](People "People")**
 

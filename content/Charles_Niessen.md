@@ -27,11 +27,11 @@ So there were a total of five people. There was the initial four were, besides m
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Site: Lincoln Laboratory](http://www.wtec.org/loyola/satcom2/e_09.htm), March 20-21, 1997
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MIT Reports to the President 2004–2005](http://web.mit.edu/annualreports/pres05/05.00.pdf) (pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alan Kotok](Alan_Kotok "Alan Kotok") (**1962**). *[Artificial Intelligence Project - MIT Computation Center: Memo 41 - A Chess Playing Program](http://www.kotok.org/AI_Memo_41.html)*.
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Highlights of Alan Kotok Oral History](https://www.computerhistory.org/chess/orl-433444ecc827d/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), November 15, 2004
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [IEEE Xplore - C. W. Niessen](https://ieeexplore.ieee.org/author/37430323100)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Site: Lincoln Laboratory](http://www.wtec.org/loyola/satcom2/e_09.htm), March 20-21, 1997
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MIT Reports to the President 2004–2005](http://web.mit.edu/annualreports/pres05/05.00.pdf) (pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alan Kotok](Alan_Kotok "Alan Kotok") (**1962**). *[Artificial Intelligence Project - MIT Computation Center: Memo 41 - A Chess Playing Program](http://www.kotok.org/AI_Memo_41.html)*.
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Highlights of Alan Kotok Oral History](https://www.computerhistory.org/chess/orl-433444ecc827d/) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), November 15, 2004
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [IEEE Xplore - C. W. Niessen](https://ieeexplore.ieee.org/author/37430323100)
 
 **[Up one level](People "People")**
 

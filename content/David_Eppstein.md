@@ -106,17 +106,17 @@ a traditional board game from [Madagascar](https://en.wikipedia.org/wiki/Madagas
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> David Eppstein in [Limerick, Ireland](https://en.wikipedia.org/wiki/Limerick), for the 13th [International Symposium on Graph Drawing](https://en.wikipedia.org/wiki/International_Symposium_on_Graph_Drawing), September 15, 2005, Image by Elena Mumford, [David Eppstein from Wikipedia](https://en.wikipedia.org/wiki/David_Eppstein), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fanorona](https://www.ics.uci.edu/%7Eeppstein/180a/projects/fanorona/) by David Eppstein
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David Eppstein - Publication](https://www.ics.uci.edu/~eppstein/pubs/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: David Eppstein](https://dblp.uni-trier.de/pers/hd/e/Eppstein:David)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [David Eppstein - Google Scholar Citations](https://scholar.google.com/citations?user=QSY7ufMAAAAJ&hl=en)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Mesh generation from Wikipedia](https://en.wikipedia.org/wiki/Mesh_generation)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Phutball from Wikipedia](https://en.wikipedia.org/wiki/Phutball)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Peg solitaire from Wikipedia](https://en.wikipedia.org/wiki/Peg_solitaire)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Bellman–Ford algorithm from Wikipedia](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Cuckoo filter from Wikipedia](https://en.wikipedia.org/wiki/Cuckoo_filter)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [NC (complexity) from Wikipedia](<https://en.wikipedia.org/wiki/NC_(complexity)>)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> David Eppstein in [Limerick, Ireland](https://en.wikipedia.org/wiki/Limerick), for the 13th [International Symposium on Graph Drawing](https://en.wikipedia.org/wiki/International_Symposium_on_Graph_Drawing), September 15, 2005, Image by Elena Mumford, [David Eppstein from Wikipedia](https://en.wikipedia.org/wiki/David_Eppstein), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fanorona](https://www.ics.uci.edu/%7Eeppstein/180a/projects/fanorona/) by David Eppstein
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Eppstein - Publication](https://www.ics.uci.edu/~eppstein/pubs/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: David Eppstein](https://dblp.uni-trier.de/pers/hd/e/Eppstein:David)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [David Eppstein - Google Scholar Citations](https://scholar.google.com/citations?user=QSY7ufMAAAAJ&hl=en)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mesh generation from Wikipedia](https://en.wikipedia.org/wiki/Mesh_generation)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Phutball from Wikipedia](https://en.wikipedia.org/wiki/Phutball)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Peg solitaire from Wikipedia](https://en.wikipedia.org/wiki/Peg_solitaire)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Bellman–Ford algorithm from Wikipedia](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Cuckoo filter from Wikipedia](https://en.wikipedia.org/wiki/Cuckoo_filter)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [NC (complexity) from Wikipedia](<https://en.wikipedia.org/wiki/NC_(complexity)>)
 
 **[Up one level](People "People")**
 

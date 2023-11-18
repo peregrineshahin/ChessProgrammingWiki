@@ -42,11 +42,11 @@ He further worked on [field service](https://en.wikipedia.org/wiki/Field_service
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Uzi Zahavi | LinkedIn](https://www.linkedin.com/in/uzi-zahavi-8a54a32/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Uzi Zahavi (**2009**). *Duality and Inconsistency in Search Spaces*. Ph.D. thesis, [Bar-Ilan University](Bar-Ilan_University "Bar-Ilan University")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Ariel Felner - Teaching](http://www.ise.bgu.ac.il/faculty/felner/newsite/Pages/Teaching.htm)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Uzi Zahavi](https://dblp.uni-trier.de/pers/hd/z/Zahavi:Uzi)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Iterative deepening A\* from Wikipedia](https://en.wikipedia.org/wiki/Iterative_deepening_A*)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Uzi Zahavi | LinkedIn](https://www.linkedin.com/in/uzi-zahavi-8a54a32/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Uzi Zahavi (**2009**). *Duality and Inconsistency in Search Spaces*. Ph.D. thesis, [Bar-Ilan University](Bar-Ilan_University "Bar-Ilan University")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ariel Felner - Teaching](http://www.ise.bgu.ac.il/faculty/felner/newsite/Pages/Teaching.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Uzi Zahavi](https://dblp.uni-trier.de/pers/hd/z/Zahavi:Uzi)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Iterative deepening A\* from Wikipedia](https://en.wikipedia.org/wiki/Iterative_deepening_A*)
 
 **[Up one level](People "People")**
 

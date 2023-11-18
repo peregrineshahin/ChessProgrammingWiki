@@ -35,10 +35,10 @@ a Swiss American computer scientist and Ph.D. from [ETH Zurich](ETH_Zurich "ETH 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Thomas Lincke (**2002**). *Exploring the Computational Limits of Large Exhaustive Search Problems*. Ph.D. thesis, [ETH Zurich](ETH_Zurich "ETH Zurich")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Nievergelt > Former Group Members](http://www.jn.inf.ethz.ch/former_members.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Thomas R. Lincke](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lincke:Thomas_R=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Thomas Lincke (**2002**). *Exploring the Computational Limits of Large Exhaustive Search Problems*. Ph.D. thesis, [ETH Zurich](ETH_Zurich "ETH Zurich")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Nievergelt > Former Group Members](http://www.jn.inf.ethz.ch/former_members.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Thomas R. Lincke](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lincke:Thomas_R=.html)
 
 **[Up one level](People "People")**
 

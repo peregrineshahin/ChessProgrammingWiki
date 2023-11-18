@@ -48,12 +48,12 @@ His Bayesian implementation of a sequential model-based optimization, dubbed **B
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [kiudee (Karlson Pfannschmidt) · GitHub](https://github.com/kiudee)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - kiudee/chess-tuning-tools: A collection of scripts aimed at efficiently tuning chess engine parameters](https://github.com/kiudee/chess-tuning-tools)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - kiudee/bayes-skopt: A fully Bayesian implementation of sequential model-based optimization](https://github.com/kiudee/bayes-skopt)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fat Fritz 1.1 update and a small gift](https://en.chessbase.com/post/fat-fritz-update-and-fat-fritz-jr) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), March 05, 2020
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Karlson Pfannschmidt - Kontakt (Universität Paderborn)](https://www.uni-paderborn.de/person/13472/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Feline infectious peritonitis from Wikipedia](https://en.wikipedia.org/wiki/Feline_infectious_peritonitis)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [kiudee (Karlson Pfannschmidt) · GitHub](https://github.com/kiudee)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - kiudee/chess-tuning-tools: A collection of scripts aimed at efficiently tuning chess engine parameters](https://github.com/kiudee/chess-tuning-tools)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - kiudee/bayes-skopt: A fully Bayesian implementation of sequential model-based optimization](https://github.com/kiudee/bayes-skopt)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fat Fritz 1.1 update and a small gift](https://en.chessbase.com/post/fat-fritz-update-and-fat-fritz-jr) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), March 05, 2020
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Karlson Pfannschmidt - Kontakt (Universität Paderborn)](https://www.uni-paderborn.de/person/13472/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Feline infectious peritonitis from Wikipedia](https://en.wikipedia.org/wiki/Feline_infectious_peritonitis)
 
 **[Up one level](People "People")**
 

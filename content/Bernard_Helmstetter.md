@@ -26,11 +26,11 @@ a French computer scientist, game researcher and programmer at [Paris 8 Universi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Helmstetter Bernard](http://www.ai.univ-paris8.fr/~bh/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sensei's Library: Bernard Helmstetter](http://senseis.xmp.net/?BernardHelmstetter)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2007**). *[Monte-Carlo Tree Search in Crazy Stone](http://remi.coulom.free.fr/Hakone2007/)*. [slides as pdf](http://remi.coulom.free.fr/Hakone2007/Hakone.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy"), Bernard Helmstetter (**2003**). *Monte Carlo Go Developments*. [Advances in Computer Games 10](Advances_in_Computer_Games_10 "Advances in Computer Games 10"), [pdf](http://www.ai.univ-paris8.fr/~bh/articles/acg10-mcgo.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [DBLP: Bernard Helmstetter](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Helmstetter:Bernard.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Helmstetter Bernard](http://www.ai.univ-paris8.fr/~bh/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sensei's Library: Bernard Helmstetter](http://senseis.xmp.net/?BernardHelmstetter)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2007**). *[Monte-Carlo Tree Search in Crazy Stone](http://remi.coulom.free.fr/Hakone2007/)*. [slides as pdf](http://remi.coulom.free.fr/Hakone2007/Hakone.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy"), Bernard Helmstetter (**2003**). *Monte Carlo Go Developments*. [Advances in Computer Games 10](Advances_in_Computer_Games_10 "Advances in Computer Games 10"), [pdf](http://www.ai.univ-paris8.fr/~bh/articles/acg10-mcgo.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [DBLP: Bernard Helmstetter](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Helmstetter:Bernard.html)
 
 **[Up one level](People "People")**
 

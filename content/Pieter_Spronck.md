@@ -78,12 +78,12 @@ a Dutch computer scientist and associate professor at [Tilburg Centre for Creati
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Invited Talks Presented at the Second Annual Artificial Intelligence and Interactive Digital Entertainment Conference (AIIDE-06)](http://www.aaai.org/Conferences/AIIDE/2006/aiide06speakers.php)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Pieter Spronck (**2005**). *Adaptive Game AI*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](http://ticc.uvt.nl/~pspronck/pubs/ThesisSpronck.pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pieter Spronck's Curriculum Vitae](http://ticc.uvt.nl/~pspronck/cv.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Pieter Spronck](https://dblp.org/pers/hd/s/Spronck:Pieter)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Real-time strategy from Wikipedia](https://en.wikipedia.org/wiki/Real-time_strategy)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [The Settlers of Catan from Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_of_Catan)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Invited Talks Presented at the Second Annual Artificial Intelligence and Interactive Digital Entertainment Conference (AIIDE-06)](http://www.aaai.org/Conferences/AIIDE/2006/aiide06speakers.php)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Pieter Spronck (**2005**). *Adaptive Game AI*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](http://ticc.uvt.nl/~pspronck/pubs/ThesisSpronck.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pieter Spronck's Curriculum Vitae](http://ticc.uvt.nl/~pspronck/cv.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Pieter Spronck](https://dblp.org/pers/hd/s/Spronck:Pieter)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Real-time strategy from Wikipedia](https://en.wikipedia.org/wiki/Real-time_strategy)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The Settlers of Catan from Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_of_Catan)
 
 **[Up one level](People "People")**
 

@@ -96,7 +96,7 @@ As proposed by [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell") and used in 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Woodcuts with a Chess Theme](http://www.irvingamen.com/woodcutChess.htm) by [Irving Amen](Category:Irving_Amen "Category:Irving Amen")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Woodcuts with a Chess Theme](http://www.irvingamen.com/woodcutChess.htm) by [Irving Amen](Category:Irving_Amen "Category:Irving Amen")
 
 **[Up one Level](Board_Representation "Board Representation")**
 

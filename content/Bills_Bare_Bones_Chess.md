@@ -55,9 +55,9 @@ The simple [evaluation](Evaluation "Evaluation") relies on [material](Material "
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Awesome Chess Program, Chess Tuition (2016)](http://web.archive.org/web/20161012202911/http://chess-tuition.com/awesome.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - billjordanchess/Basic-Chess: A simple chess program for teaching purposes](https://github.com/billjordanchess/Basic-Chess)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Bill Jordan](Bill_Jordan "Bill Jordan") (**2019**). *How to Write a Chess Program*. [amazon](https://www.amazon.com/gp/product/B07SVX1V73/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Awesome Chess Program, Chess Tuition (2016)](http://web.archive.org/web/20161012202911/http://chess-tuition.com/awesome.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - billjordanchess/Basic-Chess: A simple chess program for teaching purposes](https://github.com/billjordanchess/Basic-Chess)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Bill Jordan](Bill_Jordan "Bill Jordan") (**2019**). *How to Write a Chess Program*. [amazon](https://www.amazon.com/gp/product/B07SVX1V73/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
 
 **[Up one Level](Engines "Engines")**
 

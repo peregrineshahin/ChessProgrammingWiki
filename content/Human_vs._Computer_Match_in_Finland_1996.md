@@ -137,9 +137,9 @@ with results and games given by [Jouni Uski](Jouni_Uski "Jouni Uski") <a id="cit
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Helsinki Chess Circuit](http://www.shakki.net/turnaukset/hki0201.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Eric Hallsworth](Eric_Hallsworth "Eric Hallsworth") (**1996**). *Human vs. Computer Match in Finland*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 7
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Jouni Uski](Jouni_Uski "Jouni Uski") (**1996**). *Human vs. Computer Acttion Chess Match - Finland*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 8
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Helsinki Chess Circuit](http://www.shakki.net/turnaukset/hki0201.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Eric Hallsworth](Eric_Hallsworth "Eric Hallsworth") (**1996**). *Human vs. Computer Match in Finland*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 7
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jouni Uski](Jouni_Uski "Jouni Uski") (**1996**). *Human vs. Computer Acttion Chess Match - Finland*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 8
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

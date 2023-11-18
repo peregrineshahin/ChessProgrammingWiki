@@ -61,12 +61,12 @@ Akihiro Kishimoto was a member of the GAMES group <a id="cite-note-2" href="#cit
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Welcome to Akihiro Kishimoto's Page](http://www.is.titech.ac.jp/~kishi/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The University of Alberta GAMES Group](https://webdocs.cs.ualberta.ca/~games/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chinook - Thank You](http://webdocs.cs.ualberta.ca/~chinook/thankyou/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Akihiro Kishimoto](https://dblp.org/pers/hd/k/Kishimoto:Akihiro)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Welcome to Akihiro Kishimoto's Page](http://www.is.titech.ac.jp/~kishi/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The University of Alberta GAMES Group](https://webdocs.cs.ualberta.ca/~games/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chinook - Thank You](http://webdocs.cs.ualberta.ca/~chinook/thankyou/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Akihiro Kishimoto](https://dblp.org/pers/hd/k/Kishimoto:Akihiro)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
 
 **[Up one level](People "People")**
 

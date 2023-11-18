@@ -138,9 +138,9 @@ Using the [transposition table](Transposition_Table "Transposition Table") is es
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Paintings](http://www.elke-rehder.de/Chess_Paintings.htm) by [Elke Rehder](Arts#Rehder "Arts")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Quote by [Ed Schröder](Ed_Schroder "Ed Schroder") from his [Programmer Corner](Rebel#ProgrammerCorner "Rebel"): The Search is extended with 3 plies when the search transits to a pawn-ending. An extra window check of 3 pawns is done on I\_SCORE before the extension is rewarded
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Steven Edwards](Steven_Edwards "Steven Edwards") (**1995**). *Comments on Barth’s Article “Combining Knowledge and Search to Yield Infallible Endgame Programs.”* [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Paintings](http://www.elke-rehder.de/Chess_Paintings.htm) by [Elke Rehder](Arts#Rehder "Arts")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Quote by [Ed Schröder](Ed_Schroder "Ed Schroder") from his [Programmer Corner](Rebel#ProgrammerCorner "Rebel"): The Search is extended with 3 plies when the search transits to a pawn-ending. An extra window check of 3 pawns is done on I\_SCORE before the extension is rewarded
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Steven Edwards](Steven_Edwards "Steven Edwards") (**1995**). *Comments on Barth’s Article “Combining Knowledge and Search to Yield Infallible Endgame Programs.”* [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal")
 
 **[Up one Level](Endgame "Endgame")**
 

@@ -34,9 +34,9 @@ As computer chess programmer, Enrique Sánchez Acosta is author of the chess eng
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Enrique Sánchez Acosta - Google Scholar Citations](https://scholar.google.es/citations?user=6CPdp4IAAAAJ&hl=en)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Enrique Sánchez Acosta | LinkedIn](https://www.linkedin.com/in/esacosta)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Enrique Sánchez Acosta](https://dblp.uni-trier.de/pers/hd/a/Acosta:Enrique_S=aacute=nchez)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Enrique Sánchez Acosta - Google Scholar Citations](https://scholar.google.es/citations?user=6CPdp4IAAAAJ&hl=en)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Enrique Sánchez Acosta | LinkedIn](https://www.linkedin.com/in/esacosta)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Enrique Sánchez Acosta](https://dblp.uni-trier.de/pers/hd/a/Acosta:Enrique_S=aacute=nchez)
 
 **[Up one level](People "People")**
 

@@ -53,12 +53,12 @@ Ke5 72.Rd7 Ra2+ 73.Ke1 g4 74.fxg4 Ke4 75.Ra7 Rc2 76.Nd6+ Kf3 77.Rf7+ Kxg3 78.Nf5
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Participants](http://wbec-ridderkerk.nl/html/part.htm) [WBEC Ridderkerk](WBEC "WBEC")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Is this a correct fail-soft?](https://www.stmintz.com/ccc/index.php?id=316955) by [Mikael Bäckman](Mikael_B%C3%A4ckman "Mikael Bäckman"), [CCC](CCC "CCC"), September 21, 2003
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: pmess at cct](https://www.stmintz.com/ccc/index.php?id=490381) by [Mikael Bäckman](Mikael_B%C3%A4ckman "Mikael Bäckman"), [CCC](CCC "CCC"), February 28, 2006
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Before I completely forget about this... Thanks to Scott Farrell](https://www.stmintz.com/ccc/index.php?id=355224) by [Mikael Bäckman](Mikael_B%C3%A4ckman "Mikael Bäckman"), [CCC](CCC "CCC"), March 17, 2004
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [CCT6 - PGN download](http://www.vrichey.de/cct6/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [pmess at cct](https://www.stmintz.com/ccc/index.php?id=490035) by [Mridul Muralidharan](Mridul_Muralidharan "Mridul Muralidharan"), [CCC](CCC "CCC"), February 27, 2006
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Participants](http://wbec-ridderkerk.nl/html/part.htm) [WBEC Ridderkerk](WBEC "WBEC")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Is this a correct fail-soft?](https://www.stmintz.com/ccc/index.php?id=316955) by [Mikael Bäckman](Mikael_B%C3%A4ckman "Mikael Bäckman"), [CCC](CCC "CCC"), September 21, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: pmess at cct](https://www.stmintz.com/ccc/index.php?id=490381) by [Mikael Bäckman](Mikael_B%C3%A4ckman "Mikael Bäckman"), [CCC](CCC "CCC"), February 28, 2006
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Before I completely forget about this... Thanks to Scott Farrell](https://www.stmintz.com/ccc/index.php?id=355224) by [Mikael Bäckman](Mikael_B%C3%A4ckman "Mikael Bäckman"), [CCC](CCC "CCC"), March 17, 2004
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CCT6 - PGN download](http://www.vrichey.de/cct6/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [pmess at cct](https://www.stmintz.com/ccc/index.php?id=490035) by [Mridul Muralidharan](Mridul_Muralidharan "Mridul Muralidharan"), [CCC](CCC "CCC"), February 27, 2006
 
 **[Up one level](Engines "Engines")**
 

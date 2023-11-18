@@ -34,10 +34,10 @@ and sixth [US Correspondence Chess Champion](https://en.wikipedia.org/wiki/ICCF_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image from [SCCF Obituaries - Dr. Robert Reynolds, 1950 – 2013](http://www.scchess.com/obits.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The chess games of Prof. Robert I Reynolds](https://www.chessgames.com/perl/chessplayer?pid=90136) from [chessgames.com](https://www.chessgames.com/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Reynolds, Robert FIDE Chess Profile](https://ratings.fide.com/profile/2001519)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICCF-U.S. - 6th USCCC Final](http://www.iccfus.com/crosstables/usccc_finals/uscccf06.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [SCCF Obituaries - Dr. Robert Reynolds, 1950 – 2013](http://www.scchess.com/obits.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The chess games of Prof. Robert I Reynolds](https://www.chessgames.com/perl/chessplayer?pid=90136) from [chessgames.com](https://www.chessgames.com/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Reynolds, Robert FIDE Chess Profile](https://ratings.fide.com/profile/2001519)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICCF-U.S. - 6th USCCC Final](http://www.iccfus.com/crosstables/usccc_finals/uscccf06.htm)
 
 **[Up one level](People "People")**
 

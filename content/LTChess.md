@@ -33,8 +33,8 @@ LTChess 2, released in December 2016, changed to [NegaMax](Negamax "Negamax"), a
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [LTChess - Home](https://ltchess.weebly.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [LTchess 2](http://www.talkchess.com/forum/viewtopic.php?t=62365) by [Laurie Tunnicliffe](Laurie_Tunnicliffe "Laurie Tunnicliffe"), [CCC](CCC "CCC"), December 03, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [LTChess - Home](https://ltchess.weebly.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [LTchess 2](http://www.talkchess.com/forum/viewtopic.php?t=62365) by [Laurie Tunnicliffe](Laurie_Tunnicliffe "Laurie Tunnicliffe"), [CCC](CCC "CCC"), December 03, 2016
 
 **[Up one level](Engines "Engines")**
 

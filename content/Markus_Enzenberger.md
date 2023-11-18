@@ -54,11 +54,11 @@ He is author of [NeuroGo](https://www.game-ai-forum.org/icga-tournaments/program
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Enzenberger, Markus](http://www.computer-go.info/db/operson.php?a=Enzenberger%2C+Markus) from [computer-go.info](http://www.computer-go.info/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fuego from sourceforge](http://fuego.sourceforge.net/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GoGui Documentation](https://www.kayufu.com/gogui/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Markus Enzenberger](https://dblp.org/pers/hd/e/Enzenberger:Markus)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Enzenberger, Markus](http://www.computer-go.info/db/operson.php?a=Enzenberger%2C+Markus) from [computer-go.info](http://www.computer-go.info/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fuego from sourceforge](http://fuego.sourceforge.net/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GoGui Documentation](https://www.kayufu.com/gogui/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Markus Enzenberger](https://dblp.org/pers/hd/e/Enzenberger:Markus)
 
 **[Up one level](People "People")**
 

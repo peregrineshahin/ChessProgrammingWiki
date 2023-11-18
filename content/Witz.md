@@ -105,8 +105,8 @@ With was soon superseded by Pradu's second engine, [Buzz](Buzz "Buzz").
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Allegorical representation of the joke (German [Witz](https://de.wikipedia.org/wiki/Witz)) at the [Stadttheater Gießen](https://en.wikipedia.org/wiki/Theater_Gie%C3%9Fen), [Image](https://commons.wikimedia.org/wiki/File:Gie%C3%9Fen_-_Theater_-_Witz.jpg) by [Oliver Abels](https://commons.wikimedia.org/wiki/User:SBT), August 13, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> based on [Witz Chess Engine](http://witz.sourceforge.net/) - Current Features
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Allegorical representation of the joke (German [Witz](https://de.wikipedia.org/wiki/Witz)) at the [Stadttheater Gießen](https://en.wikipedia.org/wiki/Theater_Gie%C3%9Fen), [Image](https://commons.wikimedia.org/wiki/File:Gie%C3%9Fen_-_Theater_-_Witz.jpg) by [Oliver Abels](https://commons.wikimedia.org/wiki/User:SBT), August 13, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> based on [Witz Chess Engine](http://witz.sourceforge.net/) - Current Features
 
 **[Up one level](Engines "Engines")**
 

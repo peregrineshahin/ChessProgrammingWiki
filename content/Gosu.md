@@ -57,9 +57,9 @@ Gosu further performed at the [CCT7](CCT7 "CCT7") with 4½/8.
 
 ## [Gosu (programming language) from Wikipedia](https://en.wikipedia.org/wiki/Gosu_%28programming_language%29) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Pansori gosu from Wikipedia](https://en.wikipedia.org/wiki/Pansori_gosu)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Arkadiusz Paterek](Arkadiusz_Paterek "Arkadiusz Paterek") (**2004**). *Modelowanie funkcji oceniającej w grach*. [University of Warsaw](University_of_Warsaw "University of Warsaw"), [zipped ps](https://www.mimuw.edu.pl/~paterek/mfog.ps.gz) (Polish, Modeling of an evaluation function in games)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Michael Buro](Michael_Buro "Michael Buro") (**1998**). *[From Simple Features to Sophisticated Evaluation Functions](http://link.springer.com/chapter/10.1007/3-540-48957-6_8)*. [CG 1998](CG_1998 "CG 1998"), [pdf](https://skatgame.net/mburo/ps/glem.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Pansori gosu from Wikipedia](https://en.wikipedia.org/wiki/Pansori_gosu)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Arkadiusz Paterek](Arkadiusz_Paterek "Arkadiusz Paterek") (**2004**). *Modelowanie funkcji oceniającej w grach*. [University of Warsaw](University_of_Warsaw "University of Warsaw"), [zipped ps](https://www.mimuw.edu.pl/~paterek/mfog.ps.gz) (Polish, Modeling of an evaluation function in games)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Michael Buro](Michael_Buro "Michael Buro") (**1998**). *[From Simple Features to Sophisticated Evaluation Functions](http://link.springer.com/chapter/10.1007/3-540-48957-6_8)*. [CG 1998](CG_1998 "CG 1998"), [pdf](https://skatgame.net/mburo/ps/glem.pdf)
 
 **[Up one Level](Engines "Engines")**
 

@@ -128,10 +128,10 @@ Ng3+ 49.Ke1 Nfe4 50.Qf3 Ra1+ 51.Qd1 Rxd1+ 52.Kxd1 0-1
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Superstar 36K](http://www.chesscomputeruk.com/html/superstar_36k.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Change in Saitek Programming](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/f09918d6e1aa0ee6) by Jerome Tarshis, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 14, 1996
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Budapest 1983 - Chess - Round 1 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=1&id=7)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Budapest 1983 - Chess - Round 3 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=3&id=8)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Superstar 36K](http://www.chesscomputeruk.com/html/superstar_36k.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Change in Saitek Programming](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/f09918d6e1aa0ee6) by Jerome Tarshis, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 14, 1996
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Budapest 1983 - Chess - Round 1 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=1&id=7)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Budapest 1983 - Chess - Round 3 - Game 8 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=66&round=3&id=8)
 
 **[Up one level](Engines "Engines")**
 

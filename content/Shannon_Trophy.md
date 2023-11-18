@@ -119,15 +119,15 @@ In Memoriam
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ban on Deep Junior](http://gilkalai.wordpress.com/2008/06/25/amir-ban-on-deep-junior/%7CAmir) from [Combinatorics and more - Gil Kalai’s blog](http://gilkalai.wordpress.com)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Photo from [A History of Computer Chess](http://www.computerhistory.org/chess/index.php) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Computerschaak pagina 1](http://www.csvnsupplementsite.nl/CSVNPAGINA1.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Junior is wereldkampioen!](http://old.csvn.nl/wk2002.html) from the old [CSVN](CSVN "CSVN")-Site
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computer Chess World Championship 2008 Hiarcs wins!](http://hiarcs.net/forums/viewtopic.php?t=1677&postdays=0&postorder=asc&start=180) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 16, 2011
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Photos 2013 Events: day 7](http://icga.uvt.nl/?page_id=883), [ICGA](ICGA "ICGA")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [WCCC 2015](WCCC_2015 "WCCC 2015") [photos](https://icga.leidenuniv.nl/?page_id=1497) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [ICGA Events 2016: Photos Day 7](https://icga.leidenuniv.nl/?page_id=1930) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 07, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ban on Deep Junior](http://gilkalai.wordpress.com/2008/06/25/amir-ban-on-deep-junior/%7CAmir) from [Combinatorics and more - Gil Kalai’s blog](http://gilkalai.wordpress.com)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Photo from [A History of Computer Chess](http://www.computerhistory.org/chess/index.php) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computerschaak pagina 1](http://www.csvnsupplementsite.nl/CSVNPAGINA1.html) (Dutch) Redactie: J. ten Have and Drs. S. Kooi
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Junior is wereldkampioen!](http://old.csvn.nl/wk2002.html) from the old [CSVN](CSVN "CSVN")-Site
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computer Chess World Championship 2008 Hiarcs wins!](http://hiarcs.net/forums/viewtopic.php?t=1677&postdays=0&postorder=asc&start=180) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), December 16, 2011
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Photos 2013 Events: day 7](http://icga.uvt.nl/?page_id=883), [ICGA](ICGA "ICGA")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [WCCC 2015](WCCC_2015 "WCCC 2015") [photos](https://icga.leidenuniv.nl/?page_id=1497) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICGA Events 2016: Photos Day 7](https://icga.leidenuniv.nl/?page_id=1930) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 07, 2017
 
 **[Up one Level](Dictionary "Dictionary")**
 

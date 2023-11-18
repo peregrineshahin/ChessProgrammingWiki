@@ -41,14 +41,14 @@ While Ph.D. student at [University of Dortmund](University_of_Dortmund "Universi
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hagen Huwig | Alumni der Informatik Dortmund e.V. (1977)](https://alumni-informatik-dortmund.de/content/hagen-huwig), Photo by [Oliver Vornberger](Oliver_Vornberger "Oliver Vornberger"), [Bildgalerien | Alumni der Informatik Dortmund e.V.](https://alumni.cs.uni-dortmund.de/image)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Hagen Huwig (**1975**). *[Bericht über eine Projektgruppe mit dem Thema Schachprogrammierung](http://www.worldcat.org/title/bericht-uber-eine-projektgruppe-mit-dem-thema-schachprogrammierung/oclc/632360799)*. Bericht Nr. 9, [University of Dortmund](University_of_Dortmund "University of Dortmund") (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Hans Decker](http://www.linkedin.com/pub/hans-decker/10/37a/b48) (**1998**). *EinBlick - Ursprünge der Dortmunder Informatik*. [pdf](http://www.cs.tu-dortmund.de/nps/de/Home/ueber_uns/Historie_der_Dortmunder_Informatik.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](http://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Reinhard Zumkeller](Mathematician#Zumkeller "Mathematician") (**1975**). *Erstes GI Computer-Schach-Turnier, Dortmund 1975*, Bulletin, including a paper by [Konrad Zuse](Konrad_Zuse "Konrad Zuse")
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Hagen Huwig](https://dblp.uni-trier.de/pers/hd/h/Huwig:Hagen)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Archives of the Caml mailing list > Message from Martin Berger](http://caml.inria.fr/pub/ml-archives/caml-list/2003/11/e83c4157c43ac28d050e4afb28346c25.en.html)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Bildgalerien | Alumni der Informatik Dortmund e.V.](http://alumni.cs.uni-dortmund.de/image)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hagen Huwig | Alumni der Informatik Dortmund e.V. (1977)](https://alumni-informatik-dortmund.de/content/hagen-huwig), Photo by [Oliver Vornberger](Oliver_Vornberger "Oliver Vornberger"), [Bildgalerien | Alumni der Informatik Dortmund e.V.](https://alumni.cs.uni-dortmund.de/image)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Hagen Huwig (**1975**). *[Bericht über eine Projektgruppe mit dem Thema Schachprogrammierung](http://www.worldcat.org/title/bericht-uber-eine-projektgruppe-mit-dem-thema-schachprogrammierung/oclc/632360799)*. Bericht Nr. 9, [University of Dortmund](University_of_Dortmund "University of Dortmund") (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hans Decker](http://www.linkedin.com/pub/hans-decker/10/37a/b48) (**1998**). *EinBlick - Ursprünge der Dortmunder Informatik*. [pdf](http://www.cs.tu-dortmund.de/nps/de/Home/ueber_uns/Historie_der_Dortmunder_Informatik.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](http://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Reinhard Zumkeller](Mathematician#Zumkeller "Mathematician") (**1975**). *Erstes GI Computer-Schach-Turnier, Dortmund 1975*, Bulletin, including a paper by [Konrad Zuse](Konrad_Zuse "Konrad Zuse")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Hagen Huwig](https://dblp.uni-trier.de/pers/hd/h/Huwig:Hagen)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Archives of the Caml mailing list > Message from Martin Berger](http://caml.inria.fr/pub/ml-archives/caml-list/2003/11/e83c4157c43ac28d050e4afb28346c25.en.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Bildgalerien | Alumni der Informatik Dortmund e.V.](http://alumni.cs.uni-dortmund.de/image)
 
 **[Up one Level](People "People")**
 

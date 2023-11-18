@@ -28,10 +28,10 @@ the [parallel](Parallel_Search "Parallel Search") version of [Rudolf Huber's](Ru
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Parallel algorithms in chess programming](https://www.stmintz.com/ccc/index.php?id=163888) by [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner"), [CCC](CCC "CCC"), April 16, 2001
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Parallel algorithms in chess programming](https://www.stmintz.com/ccc/index.php?id=163895) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), April 16, 2001
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Brutus auf WM-Kurs?](http://www.chessbase.de/nachrichten.asp?newsid=2635) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), Images by [Matthias Wüllenweber](Matthias_W%C3%BCllenweber "Matthias Wüllenweber"), [ChessBase News](ChessBase "ChessBase"), November 24, 2003 (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [WCCC (4) ParSOS vs Hossa (1-0) PGN](https://www.stmintz.com/ccc/index.php?id=330155) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), November 24, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Parallel algorithms in chess programming](https://www.stmintz.com/ccc/index.php?id=163888) by [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner"), [CCC](CCC "CCC"), April 16, 2001
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Parallel algorithms in chess programming](https://www.stmintz.com/ccc/index.php?id=163895) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), April 16, 2001
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Brutus auf WM-Kurs?](http://www.chessbase.de/nachrichten.asp?newsid=2635) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), Images by [Matthias Wüllenweber](Matthias_W%C3%BCllenweber "Matthias Wüllenweber"), [ChessBase News](ChessBase "ChessBase"), November 24, 2003 (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [WCCC (4) ParSOS vs Hossa (1-0) PGN](https://www.stmintz.com/ccc/index.php?id=330155) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), November 24, 2003
 
 **[Up one level](Engines "Engines")**
 

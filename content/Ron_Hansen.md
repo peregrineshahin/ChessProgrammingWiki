@@ -25,11 +25,11 @@ an American computer scientist and early computer chess programmer when he was u
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Waterloo@50](https://cs.uwaterloo.ca/40th/Chronology/ChronologyGlossary.pdf) (pdf) 2007
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a>  [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1977**). *[Summary of the ACM Sixth U.S. Computer Chess Championship](http://www.atariarchives.org/bcc2/showpage.php?page=22)*. [The Best of Creative Computing Volume 2](Creative_Computing#Best2 "Creative Computing"), edited by [David Ahl](https://en.wikipedia.org/wiki/David_H._Ahl), hosted by [AtariArchives.org](http://www.atariarchives.org/) » [ACM 1975](ACM_1975 "ACM 1975")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [An Introduction to Computer Chess](https://cs.uwaterloo.ca/~alopez-o/divulge/chimp.html) by [Alejandro López-Ortiz](index.php?title=Alejandro_L%C3%B3pez-Ortiz&action=edit&redlink=1 "Alejandro López-Ortiz (page does not exist)"), 1993
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 7
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1979**). *A bibliography of computer chess*. [Machine Intelligence 9](http://www.doc.ic.ac.uk/%7Eshm/MI/mi9.html), [pdf](http://aitopics.org/sites/default/files/classic/Machine_Intelligence_9/MI9-Ch19-Marsland.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Waterloo@50](https://cs.uwaterloo.ca/40th/Chronology/ChronologyGlossary.pdf) (pdf) 2007
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1977**). *[Summary of the ACM Sixth U.S. Computer Chess Championship](http://www.atariarchives.org/bcc2/showpage.php?page=22)*. [The Best of Creative Computing Volume 2](Creative_Computing#Best2 "Creative Computing"), edited by [David Ahl](https://en.wikipedia.org/wiki/David_H._Ahl), hosted by [AtariArchives.org](http://www.atariarchives.org/) » [ACM 1975](ACM_1975 "ACM 1975")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [An Introduction to Computer Chess](https://cs.uwaterloo.ca/~alopez-o/divulge/chimp.html) by [Alejandro López-Ortiz](index.php?title=Alejandro_L%C3%B3pez-Ortiz&action=edit&redlink=1 "Alejandro López-Ortiz (page does not exist)"), 1993
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 7
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1979**). *A bibliography of computer chess*. [Machine Intelligence 9](http://www.doc.ic.ac.uk/%7Eshm/MI/mi9.html), [pdf](http://aitopics.org/sites/default/files/classic/Machine_Intelligence_9/MI9-Ch19-Marsland.pdf)
 
 **[Up one level](People "People")**
 

@@ -68,9 +68,9 @@ a chess program developed in 1989 by [John Hamlen](John_Hamlen "John Hamlen") as
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Woodpusher's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=33)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Seven Year Itch (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Seven_Year_Itch_%28disambiguation%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Woodpusher's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=33)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Photos by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Seven Year Itch (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Seven_Year_Itch_%28disambiguation%29)
 
 **[Up one Level](Engines "Engines")**
 

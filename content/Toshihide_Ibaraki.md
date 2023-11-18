@@ -65,10 +65,10 @@ His research spans [operations research](https://en.wikipedia.org/wiki/Operation
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [professors | The Kyoto College of Graduate Studies for Informatics](https://global.kcg.edu/faculty/professors)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Toshihide Ibaraki](https://dblp.uni-trier.de/pers/hd/i/Ibaraki:Toshihide)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Core (game theory) from Wikipedia](https://en.wikipedia.org/wiki/Core_(game_theory))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [professors | The Kyoto College of Graduate Studies for Informatics](https://global.kcg.edu/faculty/professors)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Toshihide Ibaraki](https://dblp.uni-trier.de/pers/hd/i/Ibaraki:Toshihide)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Core (game theory) from Wikipedia](https://en.wikipedia.org/wiki/Core_(game_theory))
 
 **[Up one level](People "People")**
 

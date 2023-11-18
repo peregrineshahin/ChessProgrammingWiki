@@ -92,13 +92,13 @@ An alternative would use a mix of copied and static data structures.
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Creator [Nick Park](https://en.wikipedia.org/wiki/Nick_Park) with his characters in 2005 promoting [Wallace & Gromit: The Curse of the Were-Rabbit](https://en.wikipedia.org/wiki/Wallace_%26_Gromit:_The_Curse_of_the_Were-Rabbit), [Photo](https://commons.wikimedia.org/wiki/File:Wallace,_Gromit,_and_creator_Nick_Park.jpg) by [Sam Felder](https://www.flickr.com/photos/43671133974@N01), September 19, 2005, originally posted on [Flickr](https://en.wikipedia.org/wiki/Flickr), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PocketGrandmaster About](http://www.pocketgrandmaster.com/english/about.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Anyone using the Gromit engine?](https://www.stmintz.com/ccc/index.php?id=207034) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), January 13, 2002
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [PocketGrandmaster 1.1 released](https://www.stmintz.com/ccc/index.php?id=202624) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), December 19, 2001
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: Is Gromit 3.9.5 is out?](https://www.stmintz.com/ccc/index.php?id=240495) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), July 14, 2002
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [GromitChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=89)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Re: Unmake move v copy the board](https://www.stmintz.com/ccc/index.php?id=40716) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), January 24, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Creator [Nick Park](https://en.wikipedia.org/wiki/Nick_Park) with his characters in 2005 promoting [Wallace & Gromit: The Curse of the Were-Rabbit](https://en.wikipedia.org/wiki/Wallace_%26_Gromit:_The_Curse_of_the_Were-Rabbit), [Photo](https://commons.wikimedia.org/wiki/File:Wallace,_Gromit,_and_creator_Nick_Park.jpg) by [Sam Felder](https://www.flickr.com/photos/43671133974@N01), September 19, 2005, originally posted on [Flickr](https://en.wikipedia.org/wiki/Flickr), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PocketGrandmaster About](http://www.pocketgrandmaster.com/english/about.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Anyone using the Gromit engine?](https://www.stmintz.com/ccc/index.php?id=207034) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), January 13, 2002
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [PocketGrandmaster 1.1 released](https://www.stmintz.com/ccc/index.php?id=202624) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), December 19, 2001
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Is Gromit 3.9.5 is out?](https://www.stmintz.com/ccc/index.php?id=240495) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), July 14, 2002
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GromitChess' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=89)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Unmake move v copy the board](https://www.stmintz.com/ccc/index.php?id=40716) by [Frank Schneider](Frank_Schneider "Frank Schneider"), [CCC](CCC "CCC"), January 24, 1999
 
 **[Up one level](Engines "Engines")**
 

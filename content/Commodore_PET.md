@@ -29,8 +29,8 @@ Subsequent improved systems where the PET 3000 and PET 4000, in Europe shipped a
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Commodore PET 2001](https://en.wikipedia.org/wiki/Commodore_PET), Photograph by [Rama](https://commons.wikimedia.org/wiki/User:Rama) at [Musée Bolo](https://www.museebolo.ch/), [EPFL](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne), [Lausanne](https://en.wikipedia.org/wiki/Lausanne), October 26, 2011, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Commodore PET from Wikipedia](https://en.wikipedia.org/wiki/Commodore_PET)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Commodore PET 2001](https://en.wikipedia.org/wiki/Commodore_PET), Photograph by [Rama](https://commons.wikimedia.org/wiki/User:Rama) at [Musée Bolo](https://www.museebolo.ch/), [EPFL](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne), [Lausanne](https://en.wikipedia.org/wiki/Lausanne), October 26, 2011, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Commodore PET from Wikipedia](https://en.wikipedia.org/wiki/Commodore_PET)
 
 **[Up one Level](Hardware "Hardware")**
 

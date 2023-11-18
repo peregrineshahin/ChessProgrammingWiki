@@ -62,10 +62,10 @@ Qxe7 26.Qxa5 Rg8 27.e5 Nh5 28.Rd1 Rf8 29.f3 Rg8 30.Rde1 Rf8 31.Rd1 Rg8
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Dutch Computer Chess Championships - Complete History of Rankings and Games](http://old.csvn.nl/dcc_hist.html) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MC6802 Max Board - OLD Micros](https://sites.google.com/site/gogleoops/6802-max-board)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1982**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1981 - Tabel 3. Deelnemers*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/03-1982,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201981.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dutch Computer Chess Championships - Complete History of Rankings and Games](http://old.csvn.nl/dcc_hist.html) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MC6802 Max Board - OLD Micros](https://sites.google.com/site/gogleoops/6802-max-board)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (ed.) (**1982**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1981 - Tabel 3. Deelnemers*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/03-1982,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201981.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Prehistorie van het Nederlandse Computerschaak](http://old.csvn.nl/pre_hist.html) (Dutch)
 
 **[Up one level](Engines "Engines")**
 

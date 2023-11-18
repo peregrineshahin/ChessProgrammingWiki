@@ -83,14 +83,14 @@ Sunsetter's evaluation in [centipawn](Centipawns "Centipawns") resolution consid
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [François Boucher](Category:Fran%C3%A7ois_Boucher "Category:François Boucher") - [The Setting of the Sun](https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Boucher_028.jpg), 1752, [Wallace Collection](https://en.wikipedia.org/wiki/Wallace_Collection), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sunsetter/COPYING at master · georgvonzimmermann/Sunsetter · GitHub](https://github.com/georgvonzimmermann/Sunsetter/blob/master/COPYING)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Sunsetter/README.txt at master · georgvonzimmermann/Sunsetter · GitHub](https://github.com/georgvonzimmermann/Sunsetter/blob/master/README.txt)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Sunsetter/interface.cpp at master · georgvonzimmermann/Sunsetter · GitHub](https://github.com/georgvonzimmermann/Sunsetter/blob/master/interface.cpp)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> based on [GitHub - georgvonzimmermann/Sunsetter: A crazyhouse chess playing program](https://github.com/georgvonzimmermann/Sunsetter)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Sunsetter/bitboard.cpp at master · georgvonzimmermann/Sunsetter · GitHub](https://github.com/georgvonzimmermann/Sunsetter/blob/master/bitboard.cpp)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Sunsetter/search.cpp at master · georgvonzimmermann/Sunsetter · GitHub](https://github.com/georgvonzimmermann/Sunsetter/blob/master/search.cpp)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Sunsetter/evaluate.cpp at master · georgvonzimmermann/Sunsetter · GitHub](https://github.com/georgvonzimmermann/Sunsetter/blob/master/evaluate.cpp)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [François Boucher](Category:Fran%C3%A7ois_Boucher "Category:François Boucher") - [The Setting of the Sun](https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Boucher_028.jpg), 1752, [Wallace Collection](https://en.wikipedia.org/wiki/Wallace_Collection), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sunsetter/COPYING at master · georgvonzimmermann/Sunsetter · GitHub](https://github.com/georgvonzimmermann/Sunsetter/blob/master/COPYING)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Sunsetter/README.txt at master · georgvonzimmermann/Sunsetter · GitHub](https://github.com/georgvonzimmermann/Sunsetter/blob/master/README.txt)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Sunsetter/interface.cpp at master · georgvonzimmermann/Sunsetter · GitHub](https://github.com/georgvonzimmermann/Sunsetter/blob/master/interface.cpp)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> based on [GitHub - georgvonzimmermann/Sunsetter: A crazyhouse chess playing program](https://github.com/georgvonzimmermann/Sunsetter)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Sunsetter/bitboard.cpp at master · georgvonzimmermann/Sunsetter · GitHub](https://github.com/georgvonzimmermann/Sunsetter/blob/master/bitboard.cpp)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Sunsetter/search.cpp at master · georgvonzimmermann/Sunsetter · GitHub](https://github.com/georgvonzimmermann/Sunsetter/blob/master/search.cpp)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Sunsetter/evaluate.cpp at master · georgvonzimmermann/Sunsetter · GitHub](https://github.com/georgvonzimmermann/Sunsetter/blob/master/evaluate.cpp)
 
 **[Up one level](Engines "Engines")**
 

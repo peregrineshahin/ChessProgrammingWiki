@@ -87,10 +87,10 @@ Horizon played the [WCRCC 2007](WCRCC_2007 "WCRCC 2007") and [WCRCC 2008](WCRCC_
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sky View 2](http://commons.wikimedia.org/wiki/File:SkyView2.PNG) by gierszewski, 2005, Sunrise at [Calgary](https://en.wikipedia.org/wiki/Calgary), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Horizon Chess - Main - Acknowledgements](http://www.horizonchess.com/pmwiki.php?n=Main.HomePage)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Features from [Horizon Chess - Main - Engine Technical Description](http://www.horizonchess.com/pmwiki.php?n=Main.EngineTechnicalDescription)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [2008 Second Annual ACCA World Computer Chess Championships - Results - PGN-Download](http://compchess.org/ACCAWCRCC/2008ACCAWCRCC/2008WCRCCResults.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sky View 2](http://commons.wikimedia.org/wiki/File:SkyView2.PNG) by gierszewski, 2005, Sunrise at [Calgary](https://en.wikipedia.org/wiki/Calgary), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Horizon Chess - Main - Acknowledgements](http://www.horizonchess.com/pmwiki.php?n=Main.HomePage)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Features from [Horizon Chess - Main - Engine Technical Description](http://www.horizonchess.com/pmwiki.php?n=Main.EngineTechnicalDescription)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2008 Second Annual ACCA World Computer Chess Championships - Results - PGN-Download](http://compchess.org/ACCAWCRCC/2008ACCAWCRCC/2008WCRCCResults.html)
 
 **[Up one Level](Engines "Engines")**
 

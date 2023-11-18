@@ -100,10 +100,10 @@ Now instead of a 769th feature for [side to move](Side_to_move "Side to move"), 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [mantissa/mantissa\_logo\_minimal.png at master · jtheardw/mantissa · GitHub](https://github.com/jtheardw/mantissa/blob/master/logos/mantissa_logo_minimal.png)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [NaN from Wikipedia](https://en.wikipedia.org/wiki/NaN)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New Engine: Mantissa](https://kirill-kryukov.com/chess/discussion-board/viewtopic.php?t=13339) by [Jeremy Wright](index.php?title=Jeremy_Wright&action=edit&redlink=1 "Jeremy Wright (page does not exist)"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), September 19, 2021
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [mantissa/README.md at master · jtheardw/mantissa · GitHub](https://github.com/jtheardw/mantissa/blob/master/README.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [mantissa/mantissa\_logo\_minimal.png at master · jtheardw/mantissa · GitHub](https://github.com/jtheardw/mantissa/blob/master/logos/mantissa_logo_minimal.png)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [NaN from Wikipedia](https://en.wikipedia.org/wiki/NaN)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New Engine: Mantissa](https://kirill-kryukov.com/chess/discussion-board/viewtopic.php?t=13339) by [Jeremy Wright](index.php?title=Jeremy_Wright&action=edit&redlink=1 "Jeremy Wright (page does not exist)"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), September 19, 2021
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [mantissa/README.md at master · jtheardw/mantissa · GitHub](https://github.com/jtheardw/mantissa/blob/master/README.md)
 
 **[Up one level](Engines "Engines")**
 

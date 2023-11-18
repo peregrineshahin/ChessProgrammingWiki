@@ -25,13 +25,13 @@ Along with [Rolf C. Smith](Rolf_C._Smith "Rolf C. Smith"), Franklin D. Ceruti wr
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Welcome to "The Ceruti Site" - Frank](http://www.ceruti.net/id16.htm)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [FranCer Enterprises](http://www.ceruti.net/id36.htm)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Biography based on [Welcome to "The Ceruti Site" - Frank](http://www.ceruti.net/id16.htm)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [The Official Website of Omega Psi Phi Fraternity](http://oppf.org/home.asp)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Official Website of Omega Psi Phi - Scholarship Commission](http://oppf.org/scholarship/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Franklin Ceruti: Officer, Director, Manager, Member or Company Partner Information](http://www.bizapedia.com/people/FRANKLIN-CERUTI.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Ben Mittman](Ben_Mittman "Ben Mittman"), [Rolf C. Smith](Rolf_C._Smith "Rolf C. Smith") et al. (**1971**) *[Computer Chess Programs (Panel)](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d1ee8)*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-3.computer_chess_panel.mittman/3-1%20and%203-3.computer_chess_panel.mittman_etc.1971.ACM.062303021.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Welcome to "The Ceruti Site" - Frank](http://www.ceruti.net/id16.htm)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [FranCer Enterprises](http://www.ceruti.net/id36.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Biography based on [Welcome to "The Ceruti Site" - Frank](http://www.ceruti.net/id16.htm)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Official Website of Omega Psi Phi Fraternity](http://oppf.org/home.asp)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Official Website of Omega Psi Phi - Scholarship Commission](http://oppf.org/scholarship/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Franklin Ceruti: Officer, Director, Manager, Member or Company Partner Information](http://www.bizapedia.com/people/FRANKLIN-CERUTI.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Ben Mittman](Ben_Mittman "Ben Mittman"), [Rolf C. Smith](Rolf_C._Smith "Rolf C. Smith") et al. (**1971**) *[Computer Chess Programs (Panel)](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d1ee8)*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-3.computer_chess_panel.mittman/3-1%20and%203-3.computer_chess_panel.mittman_etc.1971.ACM.062303021.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](People "People")**
 

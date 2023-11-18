@@ -41,9 +41,9 @@ utilizing publicly available datasets <a id="cite-note-3" href="#cite-ref-3">[3]
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Photo](<https://commons.wikimedia.org/wiki/File:Parus_major_(39246719220).jpg>) of a [Great Tit](https://en.wikipedia.org/wiki/Great_Tit) by [xulescu_g](https://www.flickr.com/people/59161444@N05), March 24, 2018, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [GitHub - glinscott/nnue-pytorch: Stockfish NNUE (Chess evaluation) trainer in Pytorch](https://github.com/glinscott/nnue-pytorch)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [GitHub - Sopel97/FatTitz: A chess engine based on cfish](https://github.com/Sopel97/FatTitz)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Photo](<https://commons.wikimedia.org/wiki/File:Parus_major_(39246719220).jpg>) of a [Great Tit](https://en.wikipedia.org/wiki/Great_Tit) by [xulescu_g](https://www.flickr.com/people/59161444@N05), March 24, 2018, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - glinscott/nnue-pytorch: Stockfish NNUE (Chess evaluation) trainer in Pytorch](https://github.com/glinscott/nnue-pytorch)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GitHub - Sopel97/FatTitz: A chess engine based on cfish](https://github.com/Sopel97/FatTitz)
 
 **[Up one Level](CFish "CFish")**
 

@@ -163,8 +163,8 @@ U64 betweenSliderAndTarget(U64 sliders, U64 empty, U64 targets, int dir8) {
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jack O’Keefe](Jack_O%E2%80%99Keefe "Jack O’Keefe") in [Chess Note 4245. X-ray attack](http://www.chesshistory.com/winter/winter20.html#4245._X-ray_attack_C.N._4231) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Question about SEE (Static exchange evaluation)](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=166649&t=18750) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), December 18, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jack O’Keefe](Jack_O%E2%80%99Keefe "Jack O’Keefe") in [Chess Note 4245. X-ray attack](http://www.chesshistory.com/winter/winter20.html#4245._X-ray_attack_C.N._4231) by [Edward Winter](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Question about SEE (Static exchange evaluation)](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=166649&t=18750) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch"), [CCC](CCC "CCC"), December 18, 2007
 
 **[Up one Level](Bitboards "Bitboards")**
 

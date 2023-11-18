@@ -43,9 +43,9 @@ In his 1985 paper along with [Agata Muszycka-Jones](Agata_Muszycka-Jones "Agata 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1987**). *A Quantitative Analysis of Minimal Window Search.* [IJCAI-87](Conferences#IJCAI1987 "Conferences"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/ijcai87.pdf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Rajjan Shinghal](https://dblp.uni-trier.de/pers/hd/s/Shinghal:Rajjan)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1987**). *A Quantitative Analysis of Minimal Window Search.* [IJCAI-87](Conferences#IJCAI1987 "Conferences"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/ijcai87.pdf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Rajjan Shinghal](https://dblp.uni-trier.de/pers/hd/s/Shinghal:Rajjan)
 
 **[Up one level](People "People")**
 

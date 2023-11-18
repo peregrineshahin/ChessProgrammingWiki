@@ -55,10 +55,10 @@ a Japanese chemist, computer scientist, and since 2010 Assistant Professor at th
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [保木 邦仁 / Kunihito Hoki – TEDxKids@Chiyoda 2012](http://tedxkidschiyoda.com/speakers/243)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [dblp: Kunihito Hoki](http://www.informatik.uni-trier.de/~ley/pers/hd/h/Hoki:Kunihito.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MMTO for evaluation learning](http://www.talkchess.com/forum/viewtopic.php?t=55084) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), January 25, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [保木 邦仁 / Kunihito Hoki – TEDxKids@Chiyoda 2012](http://tedxkidschiyoda.com/speakers/243)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: Kunihito Hoki](http://www.informatik.uni-trier.de/~ley/pers/hd/h/Hoki:Kunihito.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MMTO for evaluation learning](http://www.talkchess.com/forum/viewtopic.php?t=55084) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), January 25, 2015
 
 **[Up one level](People "People")**
 

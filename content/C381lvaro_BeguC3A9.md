@@ -70,18 +70,18 @@ Bc4 58.Kg1 Bd5 59.Rc1 Qd6 60.Qe3 Bb7 61.Rf1 Qd5 62.Qf2 b4 0-1
 
 ## [alonamaloh / RuyDos — Bitbucket](https://bitbucket.org/alonamaloh/ruydos) References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Spanish Checkers | Board Game | BoardGameGeek](https://boardgamegeek.com/boardgame/36250/spanish-checkers)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ruy Lopez' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=96)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Antonio de Torquemada from Wikipedia](https://en.wikipedia.org/wiki/Antonio_de_Torquemada)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computer-go.info - Details of Program: Dimwit](http://www.computer-go.info/db/oprog.php?a=Dimwit)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Suggestions for a sparring partner](http://www.talkchess.com/forum/viewtopic.php?t=47268) by Álvaro Begué, [CCC](CCC "CCC"), February 19, 2013
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [C++ code for tuning evaluation function parameters](http://www.talkchess.com/forum/viewtopic.php?t=62056) by Álvaro Begué, [CCC](CCC "CCC"), November 10, 2016
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [alonamaloh / ruy_tune — Bitbucket](https://bitbucket.org/alonamaloh/ruy_tune)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a>  [RuyDos publicly available](http://www.talkchess.com/forum/viewtopic.php?t=64138) by Álvaro Begué, [CCC](CCC "CCC"), June 01, 2017
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [alonamaloh / RuyDos / source / LICENSE — Bitbucket](https://bitbucket.org/alonamaloh/ruydos/src/88d7ffc1026339c334ee75d234a8df9e6af2ca34/LICENSE?at=default)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> Álvaro Begué (left) and [José Manuel Morán](Jos%C3%A9_Manuel_Mor%C3%A1n "José Manuel Morán") at [WCCC 2003](WCCC_2003 "WCCC 2003"), from [Chess in a cave – live from Graz](https://en.chessbase.com/post/che-in-a-cave-live-from-graz), [ChessBase News](ChessBase "ChessBase"), November, 23, 2003
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Graz 2003 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=1&id=2)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Eric B. Baum](Eric_B._Baum "Eric B. Baum"), [Warren D. Smith](Warren_D._Smith "Warren D. Smith") (**1999**). *[Propagating Distributions Up Directed Acyclic Graphs](https://www.mitpressjournals.org/doi/abs/10.1162/089976699300016881?journalCode=neco)*. [Neural Computation](https://en.wikipedia.org/wiki/Neural_Computation_%28journal%29), Vol. 11, No. 1
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Spanish Checkers | Board Game | BoardGameGeek](https://boardgamegeek.com/boardgame/36250/spanish-checkers)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ruy Lopez' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=96)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Antonio de Torquemada from Wikipedia](https://en.wikipedia.org/wiki/Antonio_de_Torquemada)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computer-go.info - Details of Program: Dimwit](http://www.computer-go.info/db/oprog.php?a=Dimwit)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Suggestions for a sparring partner](http://www.talkchess.com/forum/viewtopic.php?t=47268) by Álvaro Begué, [CCC](CCC "CCC"), February 19, 2013
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [C++ code for tuning evaluation function parameters](http://www.talkchess.com/forum/viewtopic.php?t=62056) by Álvaro Begué, [CCC](CCC "CCC"), November 10, 2016
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [alonamaloh / ruy_tune — Bitbucket](https://bitbucket.org/alonamaloh/ruy_tune)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a>  [RuyDos publicly available](http://www.talkchess.com/forum/viewtopic.php?t=64138) by Álvaro Begué, [CCC](CCC "CCC"), June 01, 2017
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [alonamaloh / RuyDos / source / LICENSE — Bitbucket](https://bitbucket.org/alonamaloh/ruydos/src/88d7ffc1026339c334ee75d234a8df9e6af2ca34/LICENSE?at=default)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> Álvaro Begué (left) and [José Manuel Morán](Jos%C3%A9_Manuel_Mor%C3%A1n "José Manuel Morán") at [WCCC 2003](WCCC_2003 "WCCC 2003"), from [Chess in a cave – live from Graz](https://en.chessbase.com/post/che-in-a-cave-live-from-graz), [ChessBase News](ChessBase "ChessBase"), November, 23, 2003
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Graz 2003 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=2&round=1&id=2)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Eric B. Baum](Eric_B._Baum "Eric B. Baum"), [Warren D. Smith](Warren_D._Smith "Warren D. Smith") (**1999**). *[Propagating Distributions Up Directed Acyclic Graphs](https://www.mitpressjournals.org/doi/abs/10.1162/089976699300016881?journalCode=neco)*. [Neural Computation](https://en.wikipedia.org/wiki/Neural_Computation_%28journal%29), Vol. 11, No. 1
 
 **[Up one level](People "People")**
 

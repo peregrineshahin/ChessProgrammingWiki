@@ -26,7 +26,7 @@ title: Decoying
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Decoy receptors](https://en.wikipedia.org/wiki/Decoy_receptors) / bind to [ligands](https://en.wikipedia.org/wiki/Ligand) and inhibit signaling through actual [receptors](<https://en.wikipedia.org/wiki/Receptor_(biochemistry)>), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Decoy receptors](https://en.wikipedia.org/wiki/Decoy_receptors) / bind to [ligands](https://en.wikipedia.org/wiki/Ligand) and inhibit signaling through actual [receptors](<https://en.wikipedia.org/wiki/Receptor_(biochemistry)>), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one Level](Tactics "Tactics")**
 

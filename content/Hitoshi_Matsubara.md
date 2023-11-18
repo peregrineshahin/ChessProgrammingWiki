@@ -41,8 +41,8 @@ a Japanese computer scientist, professor at and vice chairman of [Future Univers
 
 ## [Official Appointment of Professor Hitoshi Matsubara of Future University Hakodate and Professor Fujio Tomiumi of Tokyo University as Technical Advisors](https://aitokyolab.com/en/news/362.html), October 02, 2017 References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [World of Artificial Intelligence Shogi showed us | No Maps](https://no-maps.jp/2017/en/event/ai_shogi.html)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [DBLP: Hitoshi Matsubara](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Matsubara:Hitoshi.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [World of Artificial Intelligence Shogi showed us | No Maps](https://no-maps.jp/2017/en/event/ai_shogi.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [DBLP: Hitoshi Matsubara](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Matsubara:Hitoshi.html)
 
 **[Up one level](People "People")**
 

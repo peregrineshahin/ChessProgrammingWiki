@@ -36,10 +36,10 @@ and is also long time participant of *Dedicated User Tournaments* such as the *C
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ruud Martin | Arlande, managers van resultaat](https://www.arlande.nl/over-arlande/wie-werken-er-bij-arlande/ruud-martin)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Phoenix Chess Systems - Mission](http://www.phoenixcs.nl/index.php/en/mission-mainmenu-43)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CSVN - Ruud Martin](http://www.csvn.nl/index.php/vereniging/bestuur/13-ruud-martin)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [7th International CSVN Tournament 2007 - Photo Gallery](http://www.csvn.nl/index.php?option=com_content&view=article&id=424%3Afotogalerij-1&catid=54%3Afotogalerij&Itemid=61&lang=en)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ruud Martin | Arlande, managers van resultaat](https://www.arlande.nl/over-arlande/wie-werken-er-bij-arlande/ruud-martin)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Phoenix Chess Systems - Mission](http://www.phoenixcs.nl/index.php/en/mission-mainmenu-43)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CSVN - Ruud Martin](http://www.csvn.nl/index.php/vereniging/bestuur/13-ruud-martin)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [7th International CSVN Tournament 2007 - Photo Gallery](http://www.csvn.nl/index.php?option=com_content&view=article&id=424%3Afotogalerij-1&catid=54%3Afotogalerij&Itemid=61&lang=en)
 
 **[Up one level](People "People")**
 

@@ -30,9 +30,9 @@ and played the [DOCCC 1999](DOCCC_1999 "DOCCC 1999") and the [DOCCC 2000](DOCCC_
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [iMac DV, G3 from Wikipedia](https://en.wikipedia.org/wiki/IMac_G3)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [iMac at Dutch Computer Championship - McTobber](https://www.stmintz.com/ccc/index.php?id=76618) by Richard A. Fowell, [CCC](CCC "CCC"), November 06, 1999
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: iMac at Dutch Computer Championship - McTobber](https://www.stmintz.com/ccc/index.php?id=76743) by Hans Havermann, [CCC](CCC "CCC"), November 08, 1999
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [iMac DV, G3 from Wikipedia](https://en.wikipedia.org/wiki/IMac_G3)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [iMac at Dutch Computer Championship - McTobber](https://www.stmintz.com/ccc/index.php?id=76618) by Richard A. Fowell, [CCC](CCC "CCC"), November 06, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: iMac at Dutch Computer Championship - McTobber](https://www.stmintz.com/ccc/index.php?id=76743) by Hans Havermann, [CCC](CCC "CCC"), November 08, 1999
 
 **[Up one Level](Engines "Engines")**
 

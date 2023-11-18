@@ -105,18 +105,18 @@ Apparently the successor of the *Chess Game Analyzer* is **Chess Artist**, relea
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CDrill Chess](https://sites.google.com/view/cdrill)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Downloads - Deuterium Chess Engine](https://sites.google.com/site/deuteriumengine/files)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Spartan chess](http://www.talkchess.com/forum/viewtopic.php?t=41034) by Ferdinand Mosca, [CCC](CCC "CCC"), November 09, 2011
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Bihasa v3.0 is released](http://www.talkchess.com/forum/viewtopic.php?t=42106) by Ferdinand Mosca, [CCC](CCC "CCC"), November 19, 2011
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Siyam, a shogi 9x9 engine](http://www.talkchess.com/forum/viewtopic.php?t=58381) by Ferdinand Mosca, [CCC](CCC "CCC"), November 26, 2015
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Shokidoki wins UEC Cup!](http://www.talkchess.com/forum/viewtopic.php?t=58329) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), November 22, 2015
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [第９回UEC杯５五将棋大会 - 5五将棋 portal](http://minerva.cs.uec.ac.jp/~uec55shogi/wiki.cgi?page=%C2%E8%A3%B9%B2%F3UEC%C7%D5%A3%B5%B8%DE%BE%AD%B4%FD%C2%E7%B2%F1)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chess Game Analyzer](http://www.talkchess.com/forum/viewtopic.php?t=57770) by Ferdinand Mosca, [CCC](CCC "CCC"), September 27, 2015
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Chess Game Analyzer GUI](http://www.talkchess.com/forum/viewtopic.php?t=62500) by Ferdinand Mosca, [CCC](CCC "CCC"), December 16, 2016
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Chess Artist](http://www.talkchess.com/forum/viewtopic.php?t=61723) by Ferdinand Mosca, [CCC](CCC "CCC"), October 15, 2016
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [GitHub - fsmosca/chess-artist: A python script that can annotate chess games in pgn file ...](https://github.com/fsmosca/chess-artist)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [aiBloodshed live broadcaster released](http://www.talkchess.com/forum/viewtopic.php?t=64741) by Ferdinand Mosca, [CCC](CCC "CCC"), July 27, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CDrill Chess](https://sites.google.com/view/cdrill)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Downloads - Deuterium Chess Engine](https://sites.google.com/site/deuteriumengine/files)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Spartan chess](http://www.talkchess.com/forum/viewtopic.php?t=41034) by Ferdinand Mosca, [CCC](CCC "CCC"), November 09, 2011
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Bihasa v3.0 is released](http://www.talkchess.com/forum/viewtopic.php?t=42106) by Ferdinand Mosca, [CCC](CCC "CCC"), November 19, 2011
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Siyam, a shogi 9x9 engine](http://www.talkchess.com/forum/viewtopic.php?t=58381) by Ferdinand Mosca, [CCC](CCC "CCC"), November 26, 2015
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Shokidoki wins UEC Cup!](http://www.talkchess.com/forum/viewtopic.php?t=58329) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), November 22, 2015
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [第９回UEC杯５五将棋大会 - 5五将棋 portal](http://minerva.cs.uec.ac.jp/~uec55shogi/wiki.cgi?page=%C2%E8%A3%B9%B2%F3UEC%C7%D5%A3%B5%B8%DE%BE%AD%B4%FD%C2%E7%B2%F1)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chess Game Analyzer](http://www.talkchess.com/forum/viewtopic.php?t=57770) by Ferdinand Mosca, [CCC](CCC "CCC"), September 27, 2015
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chess Game Analyzer GUI](http://www.talkchess.com/forum/viewtopic.php?t=62500) by Ferdinand Mosca, [CCC](CCC "CCC"), December 16, 2016
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Chess Artist](http://www.talkchess.com/forum/viewtopic.php?t=61723) by Ferdinand Mosca, [CCC](CCC "CCC"), October 15, 2016
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [GitHub - fsmosca/chess-artist: A python script that can annotate chess games in pgn file ...](https://github.com/fsmosca/chess-artist)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [aiBloodshed live broadcaster released](http://www.talkchess.com/forum/viewtopic.php?t=64741) by Ferdinand Mosca, [CCC](CCC "CCC"), July 27, 2017
 
 **[Up one Level](People "People")**
 

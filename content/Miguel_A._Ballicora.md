@@ -82,16 +82,16 @@ Miguel is [FIDE Master](https://en.wikipedia.org/wiki/FIDE_titles#FIDE_Master_.2
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo from [Miguel A. Ballicora - Assistant Chair - Department of Chemistry and Biochemistry - Loyola University Chicago](http://www.luc.edu/chemistry/facultystaff/ballicoramiguel.shtml), cropped
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Miguel A. Ballicora - Assistant Chair - Department of Chemistry and Biochemistry - Loyola University Chicago](http://www.luc.edu/chemistry/facultystaff/ballicoramiguel.shtml)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Miguel Ballicora chess games - 365Chess.com](http://www.365chess.com/players/Miguel_Ballicora)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Endgame Tablebases - gaviota chess engine](http://sites.google.com/site/gaviotachessengine/Home/endgame-tablebases-1)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ordo](https://sites.google.com/site/gaviotachessengine/ordo) by Miguel A. Ballicora
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> Miguel A. Ballicora (**2014**). *ORDO v0.9.6 Ratings for chess and other games*. September 2014, [pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnYXZpb3RhY2hlc3NlbmdpbmV8Z3g6NmQ0NmNhNGM4YjA3YTc5ZQ)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1992**). *Computer Chess and Search.* Encyclopedia of Artificial Intelligence (2nd ed.) (ed. S.C. Shapiro) pp. 224-241. John Wiley & Sons, Inc., New York, NY. ISBN 0-471-50305-3. [pdf](http://webdocs.cs.ualberta.ca/~tony/RecentPapers/encyc.mac-1991.pdf)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=555522&t=50823) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 31, 2014 » [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [TCEC computer chess LIVE!](http://www.chessdom.com/tcec-computer-chess-live/)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [TCEC - Thoresen Chess Engines Competition | Facebook](https://www.facebook.com/tcec.chess)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo from [Miguel A. Ballicora - Assistant Chair - Department of Chemistry and Biochemistry - Loyola University Chicago](http://www.luc.edu/chemistry/facultystaff/ballicoramiguel.shtml), cropped
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Miguel A. Ballicora - Assistant Chair - Department of Chemistry and Biochemistry - Loyola University Chicago](http://www.luc.edu/chemistry/facultystaff/ballicoramiguel.shtml)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Miguel Ballicora chess games - 365Chess.com](http://www.365chess.com/players/Miguel_Ballicora)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Endgame Tablebases - gaviota chess engine](http://sites.google.com/site/gaviotachessengine/Home/endgame-tablebases-1)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ordo](https://sites.google.com/site/gaviotachessengine/ordo) by Miguel A. Ballicora
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Miguel A. Ballicora (**2014**). *ORDO v0.9.6 Ratings for chess and other games*. September 2014, [pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnYXZpb3RhY2hlc3NlbmdpbmV8Z3g6NmQ0NmNhNGM4YjA3YTc5ZQ)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1992**). *Computer Chess and Search.* Encyclopedia of Artificial Intelligence (2nd ed.) (ed. S.C. Shapiro) pp. 224-241. John Wiley & Sons, Inc., New York, NY. ISBN 0-471-50305-3. [pdf](http://webdocs.cs.ualberta.ca/~tony/RecentPapers/encyc.mac-1991.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=555522&t=50823) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 31, 2014 » [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [TCEC computer chess LIVE!](http://www.chessdom.com/tcec-computer-chess-live/)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [TCEC - Thoresen Chess Engines Competition | Facebook](https://www.facebook.com/tcec.chess)
 
 **[Up one level](People "People")**
 

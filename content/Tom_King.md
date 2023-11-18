@@ -83,11 +83,11 @@ Tom is author of the [Chess Engine Communication Protocol](Chess_Engine_Communic
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Tom King - LinkedIn](https://uk.linkedin.com/in/kingtom)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Tom King - LinkedIn](https://uk.linkedin.com/in/kingtom)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Silentshark - Tom King's personal website](http://www.silentshark.co.uk/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Francesca 0.78 by Tom King is available !](https://www.stmintz.com/ccc/index.php?id=101076) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), March 09, 2000
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Francesca's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=32)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tom King - LinkedIn](https://uk.linkedin.com/in/kingtom)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Tom King - LinkedIn](https://uk.linkedin.com/in/kingtom)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Silentshark - Tom King's personal website](http://www.silentshark.co.uk/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Francesca 0.78 by Tom King is available !](https://www.stmintz.com/ccc/index.php?id=101076) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), March 09, 2000
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Francesca's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=32)
 
 **[Up one level](People "People")**
 

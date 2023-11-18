@@ -24,8 +24,8 @@ an [Engine](Engines "Engines") tournament site, hosted and administrated by [Oli
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The end of ChessWar](http://www.talkchess.com/forum/viewtopic.php?t=45032) by [Olivier Deville](Olivier_Deville "Olivier Deville"), [CCC](CCC "CCC"), September 07, 2012
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ChessWar Archive](http://www.open-aurec.com/chesswar/archive.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The end of ChessWar](http://www.talkchess.com/forum/viewtopic.php?t=45032) by [Olivier Deville](Olivier_Deville "Olivier Deville"), [CCC](CCC "CCC"), September 07, 2012
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ChessWar Archive](http://www.open-aurec.com/chesswar/archive.html)
 
 **[Up one Level](Engine_Rating_Lists "Engine Rating Lists")**
 

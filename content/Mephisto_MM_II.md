@@ -30,9 +30,9 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Module MM II](http://www.spacious-mind.com/html/module_mm_ii.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Module MM II](http://www.spacious-mind.com/html/module_mm_ii.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mephisto B&P](http://www.schach-computer.info/wiki/index.php/Mephisto_B%26P) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Module MM II](http://www.spacious-mind.com/html/module_mm_ii.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Module MM II](http://www.spacious-mind.com/html/module_mm_ii.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mephisto B&P](http://www.schach-computer.info/wiki/index.php/Mephisto_B%26P) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
 
 **[Up one level](Mephisto "Mephisto")**
 

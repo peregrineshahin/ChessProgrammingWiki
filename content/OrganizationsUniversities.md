@@ -241,8 +241,8 @@ A lot of [universities](https://en.wikipedia.org/wiki/University) are associated
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ICCA BECOMES ICGA](http://ticc.uvt.nl/icga/journal/contents/content25-3.htm#ICCA%20BECOMES%20ICGA) by [David Levy](David_Levy "David Levy"), President of the ICGA, [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal"), September 2002
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AAAI Name Change](http://www.aaai.org/Organization/name-change.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ICCA BECOMES ICGA](http://ticc.uvt.nl/icga/journal/contents/content25-3.htm#ICCA%20BECOMES%20ICGA) by [David Levy](David_Levy "David Levy"), President of the ICGA, [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal"), September 2002
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AAAI Name Change](http://www.aaai.org/Organization/name-change.php)
 
 **[Up one Level](Home "Home")**
 

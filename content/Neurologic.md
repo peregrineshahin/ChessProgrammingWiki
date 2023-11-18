@@ -42,10 +42,10 @@ a chess program by [Jochen Peussner](Jochen_Peussner "Jochen Peussner"), which p
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Cerebral aqueduct from Wikipedia](https://en.wikipedia.org/wiki/Cerebral_aqueduct)
- 2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [List of images in Gray's Anatomy: IX. Neurology](https://en.wikipedia.org/wiki/List_of_images_in_Gray%27s_Anatomy:_IX._Neurology) 
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Neurologie Wikipedia.de](http://de.wikipedia.org/wiki/Neurologie) (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: 7.IPCCC, Neurologic](https://www.stmintz.com/ccc/index.php?id=15105) by [Jay Scott](Jay_Scott "Jay Scott"), [CCC](CCC "CCC"), February 16, 1998
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Cerebral aqueduct from Wikipedia](https://en.wikipedia.org/wiki/Cerebral_aqueduct)
+ 2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [List of images in Gray's Anatomy: IX. Neurology](https://en.wikipedia.org/wiki/List_of_images_in_Gray%27s_Anatomy:_IX._Neurology) 
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Neurologie Wikipedia.de](http://de.wikipedia.org/wiki/Neurologie) (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: 7.IPCCC, Neurologic](https://www.stmintz.com/ccc/index.php?id=15105) by [Jay Scott](Jay_Scott "Jay Scott"), [CCC](CCC "CCC"), February 16, 1998
 
 **[Up one level](Engines "Engines")**
 

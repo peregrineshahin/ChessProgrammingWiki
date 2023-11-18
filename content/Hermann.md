@@ -100,15 +100,15 @@ In Germany, Arminius was rechristened *Hermann* (Heer Mann - army man) by [Marti
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Hermann Heights Monument](https://commons.wikimedia.org/wiki/File:Hermann_statue_closeup.jpeg), [New Ulm, Minnesota](https://en.wikipedia.org/wiki/New_Ulm,_Minnesota), [Category:Hermann Heights Monument - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Hermann_Heights_Monument)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fixed shift magics with 800KB lookup table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=51162) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 05, 2010
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=316926&t=31545) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), January 08, 2010
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Is there place for neural networks in chess engines?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=436342&t=41300) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), December 04, 2011
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Timing with a Neural Networks](http://web.archive.org/web/20050328050743/http://www.playwitharena.com:80/) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [Arena](Arena "Arena") News-Ticker, Page 6, 86, FQ, March 23, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Pandix wins Dutch Open](http://www.csvn.nl/index.php?option=com_content&view=article&id=517%3Apandix-wint-open-nk&catid=51%3Atoernooien&Itemid=28&lang=en), [CSVN](CSVN "CSVN") site, October 22, 2011
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Arminius from Wikipedia](https://en.wikipedia.org/wiki/Arminius)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [6th International CSVN Tournament 2006 - Photo Gallery](http://old.csvn.nl/gallery24.html)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Downloads | CSVN International Computerchess Tournament | Games | ICT Leiden 2006](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=39&Itemid=26&lang=en&limitstart=5), [CSVN](CSVN "CSVN") site
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hermann Heights Monument](https://commons.wikimedia.org/wiki/File:Hermann_statue_closeup.jpeg), [New Ulm, Minnesota](https://en.wikipedia.org/wiki/New_Ulm,_Minnesota), [Category:Hermann Heights Monument - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Hermann_Heights_Monument)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fixed shift magics with 800KB lookup table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=51162) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 05, 2010
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Chess program with Artificial Neural Networks (ANN)?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=316926&t=31545) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), January 08, 2010
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Is there place for neural networks in chess engines?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=436342&t=41300) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), December 04, 2011
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Timing with a Neural Networks](http://web.archive.org/web/20050328050743/http://www.playwitharena.com:80/) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [Arena](Arena "Arena") News-Ticker, Page 6, 86, FQ, March 23, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pandix wins Dutch Open](http://www.csvn.nl/index.php?option=com_content&view=article&id=517%3Apandix-wint-open-nk&catid=51%3Atoernooien&Itemid=28&lang=en), [CSVN](CSVN "CSVN") site, October 22, 2011
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Arminius from Wikipedia](https://en.wikipedia.org/wiki/Arminius)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [6th International CSVN Tournament 2006 - Photo Gallery](http://old.csvn.nl/gallery24.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Downloads | CSVN International Computerchess Tournament | Games | ICT Leiden 2006](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=39&Itemid=26&lang=en&limitstart=5), [CSVN](CSVN "CSVN") site
 
 **[Up one Level](Engines "Engines")**
 

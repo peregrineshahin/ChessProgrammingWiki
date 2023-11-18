@@ -143,8 +143,8 @@ The **CCT2** was organized by [Will Singleton](Will_Singleton "Will Singleton"),
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Welcome to the Internet Chess Club](http://www.chessclub.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CCT-2 2000 Standing](http://www.vrichey.de/cct2/cct2gamestab.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Welcome to the Internet Chess Club](http://www.chessclub.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CCT-2 2000 Standing](http://www.vrichey.de/cct2/cct2gamestab.htm)
 
 **[Up one Level](CCT_Tournaments "CCT Tournaments")**
 

@@ -75,15 +75,15 @@ r3k2r/pp2n1pp/2p5/3pB3/P3P3/2P5/2P3PP/R4RK1 b kq - 1 19
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Novag Micro Chess](http://www.flickr.com/photos/10261668@N05/858170843/in/set-72157600922171918) from [Novag | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171918/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mostek 3870 (MK3870) microcontroller family from CPU world](http://www.cpu-world.com/CPUs/3870/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Fairchild F8 (3850) microcontroller family from CPU world](http://www.cpu-world.com/CPUs/3850/index.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fairchild F8 datasheet and application note, data sheet, circuit, pdf, cross reference | Datasheet Archive](http://www.datasheetarchive.com/Fairchild%20F8-datasheet.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> David Edwards (**1976**). *The Mostek F8*. [Electronics Australia](https://en.wikipedia.org/wiki/Electronics_Australia), December, 1976, [pdf](http://messui.the-chronicles.org/comp/fairchild.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Novag Micro Chess](http://www.schaakcomputers.nl/hein_veldhuis/database/files/08-1981%20%5BM-0101%5D%20Novag%20-%20Micro%20Chess.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1981**). *MicroChess - Paris Tournament*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), August 1981
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Novag Micro Chess](http://www.schaakcomputers.nl/hein_veldhuis/database/files/08-1981%20%5BM-0101%5D%20Novag%20-%20Micro%20Chess.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Novag Micro Chess](http://www.flickr.com/photos/10261668@N05/858170843/in/set-72157600922171918) from [Novag | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600922171918/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mostek 3870 (MK3870) microcontroller family from CPU world](http://www.cpu-world.com/CPUs/3870/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fairchild F8 (3850) microcontroller family from CPU world](http://www.cpu-world.com/CPUs/3850/index.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fairchild F8 datasheet and application note, data sheet, circuit, pdf, cross reference | Datasheet Archive](http://www.datasheetarchive.com/Fairchild%20F8-datasheet.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> David Edwards (**1976**). *The Mostek F8*. [Electronics Australia](https://en.wikipedia.org/wiki/Electronics_Australia), December, 1976, [pdf](http://messui.the-chronicles.org/comp/fairchild.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Novag Micro Chess](http://www.schaakcomputers.nl/hein_veldhuis/database/files/08-1981%20%5BM-0101%5D%20Novag%20-%20Micro%20Chess.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1981**). *MicroChess - Paris Tournament*. [Personal Computer World](Personal_Computer_World "Personal Computer World"), August 1981
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Publication Archive](http://www.chesscomputeruk.com/html/publication_archive.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Novag Micro Chess](http://www.schaakcomputers.nl/hein_veldhuis/database/files/08-1981%20%5BM-0101%5D%20Novag%20-%20Micro%20Chess.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
 
 **[Up one Level](Engines "Engines")**
 

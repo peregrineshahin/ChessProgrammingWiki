@@ -63,9 +63,9 @@ The **Chess Query Language** (CQL) is a structured [query language](https://en.w
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CQL Introduction](http://www.gadycosteff.com/cql/) by [Gady Costeff](Gady_Costeff "Gady Costeff")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Sample CQL files](https://web.archive.org/web/20140130143815/http://www.rbnn.com/cql/examples.html) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [An html version of rookrectangle.cql](https://web.archive.org/web/20140130143815/http://www.rbnn.com/cql/rookrectangle.html) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CQL Introduction](http://www.gadycosteff.com/cql/) by [Gady Costeff](Gady_Costeff "Gady Costeff")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Sample CQL files](https://web.archive.org/web/20140130143815/http://www.rbnn.com/cql/examples.html) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [An html version of rookrectangle.cql](https://web.archive.org/web/20140130143815/http://www.rbnn.com/cql/rookrectangle.html) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
 
 **[Up one Level](Chess "Chess")**
 

@@ -130,10 +130,10 @@ Weini is an acronym for **W**is**E**ness **I**s **N**ot **I**nside <a id="cite-n
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Looking for advices](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=65936) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), December 08, 2017
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [A complete 2000 lines of code engine](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68701) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), October 20, 2018
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Weini questions](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68161&start=3) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), August 08, 2018
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> based on [Weini/README.md at master · tryingsomestuff/Weini · GitHub](https://github.com/tryingsomestuff/Weini/blob/master/README.md) and sources of Weini-0.0.24
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Looking for advices](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=65936) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), December 08, 2017
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A complete 2000 lines of code engine](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68701) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), October 20, 2018
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Weini questions](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68161&start=3) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), August 08, 2018
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> based on [Weini/README.md at master · tryingsomestuff/Weini · GitHub](https://github.com/tryingsomestuff/Weini/blob/master/README.md) and sources of Weini-0.0.24
 
 **[Up one level](Engines "Engines")**
 

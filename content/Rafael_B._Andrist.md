@@ -34,12 +34,12 @@ a Swiss computer scientist and mathematician affiliated with the [University of 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Bergische Universität Wuppertal - Dr. Rafael Benedikt Andrist](http://www.kana.uni-wuppertal.de/mitarbeiter/dr-r-andrist.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [chess program "Wilhelm" released](https://www.stmintz.com/ccc/index.php?id=184365) by Rafael B. Andrist, [CCC](CCC "CCC"), August 19, 2001
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Fine 70 same 7 engines (more)](https://www.stmintz.com/ccc/index.php?id=188484) by Rafael B. Andrist, [CCC](CCC "CCC"), September 11, 2001
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Paper statistics - Rafael B. Andrist](http://paperstatistics.appspot.com/Rafael-B.-Andrist)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Stein manifold from Wikipedia](https://en.wikipedia.org/wiki/Stein_manifold)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Riemann surface from Wikipedia](https://en.wikipedia.org/wiki/Riemann_surface)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Bergische Universität Wuppertal - Dr. Rafael Benedikt Andrist](http://www.kana.uni-wuppertal.de/mitarbeiter/dr-r-andrist.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [chess program "Wilhelm" released](https://www.stmintz.com/ccc/index.php?id=184365) by Rafael B. Andrist, [CCC](CCC "CCC"), August 19, 2001
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Fine 70 same 7 engines (more)](https://www.stmintz.com/ccc/index.php?id=188484) by Rafael B. Andrist, [CCC](CCC "CCC"), September 11, 2001
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Paper statistics - Rafael B. Andrist](http://paperstatistics.appspot.com/Rafael-B.-Andrist)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Stein manifold from Wikipedia](https://en.wikipedia.org/wiki/Stein_manifold)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Riemann surface from Wikipedia](https://en.wikipedia.org/wiki/Riemann_surface)
 
 **[Up one level](People "People")**
 

@@ -55,18 +55,18 @@ a chess program for the [Sinclair ZX81](Sinclair_ZX81 "Sinclair ZX81"), written 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ZX81 Cassette Tape Information for 1K ZX Chess](http://www.zx81stuff.org.uk/zx81/generated/tapeinfo/0/1KZXChess%28Artic%29.html) (Artic)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Horne](David_Horne "David Horne") (**1983**). *[Full ZX-81 Chess in 1K](http://users.ox.ac.uk/~uzdm0006/scans/1kchess/)*. [Your Computer](Your_Computer "Your Computer"), February 1983
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Magazine Page Scan from World of Spectrum, June 1982](http://zx81stuff.org.uk/zx81/showmag.php?mag=SinclairUser/Issue003/Pages/SinclairUser00300061.jpg)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Magazine Page Scan from World of Spectrum, July 1982](http://www.zx81stuff.org.uk/zx81/showmag.php?mag=SinclairUser/Issue004/Pages/SinclairUser00400044.jpg)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [ZX81 Cassette Tape Information for 1K ZX Chess](http://www.zx81stuff.org.uk/zx81/generated/tapeinfo/0/1KZXChess%28Artic%29.html) (Artic)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Artic Software from Wikipedia](https://en.wikipedia.org/wiki/Artic_Software)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Chris A. Thornton - World of Spectrum](http://www.worldofspectrum.org/infoseekpub.cgi?regexp=%5EChris+A.+Thornton$&loadpics=1)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Turbo Chess - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0005457)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [ZX81 Cassette Tape Information for 1K ZX Chess](http://www.zx81stuff.org.uk/zx81/generated/tapeinfo/0/1KZXChess.html)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Retrogaming Times Monthly - Issue #56 - January 2009](http://my.stratos.net/~hewston95/RTM56/RTM56.html#ZX81)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [ZX81 Cassette Tape Information for 1K ZX Chess](http://www.zx81stuff.org.uk/zx81/generated/tapeinfo/0/1KZXChess.html)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ZX81 Cassette Tape Information for 1K ZX Chess](http://www.zx81stuff.org.uk/zx81/generated/tapeinfo/0/1KZXChess%28Artic%29.html) (Artic)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Horne](David_Horne "David Horne") (**1983**). *[Full ZX-81 Chess in 1K](http://users.ox.ac.uk/~uzdm0006/scans/1kchess/)*. [Your Computer](Your_Computer "Your Computer"), February 1983
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Magazine Page Scan from World of Spectrum, June 1982](http://zx81stuff.org.uk/zx81/showmag.php?mag=SinclairUser/Issue003/Pages/SinclairUser00300061.jpg)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Magazine Page Scan from World of Spectrum, July 1982](http://www.zx81stuff.org.uk/zx81/showmag.php?mag=SinclairUser/Issue004/Pages/SinclairUser00400044.jpg)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ZX81 Cassette Tape Information for 1K ZX Chess](http://www.zx81stuff.org.uk/zx81/generated/tapeinfo/0/1KZXChess%28Artic%29.html) (Artic)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Artic Software from Wikipedia](https://en.wikipedia.org/wiki/Artic_Software)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chris A. Thornton - World of Spectrum](http://www.worldofspectrum.org/infoseekpub.cgi?regexp=%5EChris+A.+Thornton$&loadpics=1)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Turbo Chess - World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0005457)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ZX81 Cassette Tape Information for 1K ZX Chess](http://www.zx81stuff.org.uk/zx81/generated/tapeinfo/0/1KZXChess.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Retrogaming Times Monthly - Issue #56 - January 2009](http://my.stratos.net/~hewston95/RTM56/RTM56.html#ZX81)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [ZX81 Cassette Tape Information for 1K ZX Chess](http://www.zx81stuff.org.uk/zx81/generated/tapeinfo/0/1KZXChess.html)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
 
 **[Up one Level](Engines "Engines")**
 

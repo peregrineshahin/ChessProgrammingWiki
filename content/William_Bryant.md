@@ -48,11 +48,11 @@ soon superseded by his own engine for the Macintosh chess program [Screamer](Scr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Index of /~wbryant](https://web.archive.org/web/20010429014459/http://pweb.netcom.com/~wbryant/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), April 29, 2001)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Netcom (United States) from Wikipedia](https://en.wikipedia.org/wiki/Netcom_(United_States))
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [EarthLink from Wikipedia](https://en.wikipedia.org/wiki/EarthLink)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [MacTSCP (beta) now available](https://groups.google.com/g/rec.games.chess.computer/c/GfX_b5-EADw/m/AD2FJZqJ7iIJ) by William Bryant, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 04, 1998
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Screamer Readme File](https://macfreebees.tripod.com/readme2/screamerchess.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Index of /~wbryant](https://web.archive.org/web/20010429014459/http://pweb.netcom.com/~wbryant/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine), April 29, 2001)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Netcom (United States) from Wikipedia](https://en.wikipedia.org/wiki/Netcom_(United_States))
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [EarthLink from Wikipedia](https://en.wikipedia.org/wiki/EarthLink)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [MacTSCP (beta) now available](https://groups.google.com/g/rec.games.chess.computer/c/GfX_b5-EADw/m/AD2FJZqJ7iIJ) by William Bryant, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 04, 1998
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Screamer Readme File](https://macfreebees.tripod.com/readme2/screamerchess.html)
 
 **[Up one Level](People "People")**
 

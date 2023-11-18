@@ -93,10 +93,10 @@ supporting [WinBoard](WinBoard "WinBoard"), and written in [C](C "C"). Atlas **2
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Sculpture of [Atlas](https://en.wikipedia.org/wiki/Atlas_%28mythology%29), Praza do Toural, [Santiago de Compostela](https://en.wikipedia.org/wiki/Santiago_de_Compostela), Photo by [Luis Miguel Bugallo Sánchez](https://commons.wikimedia.org/wiki/User:Lmbuga), October 18, 2005, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Atlas (mythology) from Wikipedia](https://en.wikipedia.org/wiki/Atlas_%28mythology%29)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Progreso - Atlas](https://sites.google.com/view/atlaschess/home/progreso)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Features of Atlas 3.80 based on [Atlas - Home](https://sites.google.com/view/atlaschess/) and [Atlas 3.80 release](http://www.talkchess.com/forum/viewtopic.php?t=55234) by [Andrés Manzanares](Andr%C3%A9s_Manzanares_Campillo "Andrés Manzanares Campillo"), [CCC](CCC "CCC"), February 06, 2015
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Atlas - Home - Agradecimientos](https://sites.google.com/view/atlaschess/home)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Sculpture of [Atlas](https://en.wikipedia.org/wiki/Atlas_%28mythology%29), Praza do Toural, [Santiago de Compostela](https://en.wikipedia.org/wiki/Santiago_de_Compostela), Photo by [Luis Miguel Bugallo Sánchez](https://commons.wikimedia.org/wiki/User:Lmbuga), October 18, 2005, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Atlas (mythology) from Wikipedia](https://en.wikipedia.org/wiki/Atlas_%28mythology%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Progreso - Atlas](https://sites.google.com/view/atlaschess/home/progreso)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Features of Atlas 3.80 based on [Atlas - Home](https://sites.google.com/view/atlaschess/) and [Atlas 3.80 release](http://www.talkchess.com/forum/viewtopic.php?t=55234) by [Andrés Manzanares](Andr%C3%A9s_Manzanares_Campillo "Andrés Manzanares Campillo"), [CCC](CCC "CCC"), February 06, 2015
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Atlas - Home - Agradecimientos](https://sites.google.com/view/atlaschess/home)
 
 **[Up one Level](Engines "Engines")**
 

@@ -52,7 +52,7 @@ Special Thanks to
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image by [ludger1961](https://commons.wikimedia.org/wiki/User:Ludger1961), [Paderborn from Wikipedia](https://en.wikipedia.org/wiki/Paderborn)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image by [ludger1961](https://commons.wikimedia.org/wiki/User:Ludger1961), [Paderborn from Wikipedia](https://en.wikipedia.org/wiki/Paderborn)
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

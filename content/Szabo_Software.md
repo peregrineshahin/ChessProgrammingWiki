@@ -32,7 +32,7 @@ primary business was developing and distribution of chess software, notably thei
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Gregg Pearlman](https://www.linkedin.com/in/greggpearlman) (**1986**). *[ST New Products](https://www.atarimagazines.com/v5n8/STNewProducts.html)*. [Antic Vol. 5, No. 8](https://www.atarimagazines.com/index/?issue=v5n8)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Gregg Pearlman](https://www.linkedin.com/in/greggpearlman) (**1986**). *[ST New Products](https://www.atarimagazines.com/v5n8/STNewProducts.html)*. [Antic Vol. 5, No. 8](https://www.atarimagazines.com/index/?issue=v5n8)
 
 **[Up one Level](Organizations "Organizations")**
 

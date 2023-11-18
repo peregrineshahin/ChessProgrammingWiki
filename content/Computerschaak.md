@@ -62,7 +62,7 @@ a Dutch computer chess magazine and for more than 30 years official organ of the
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image Computerschaak 5/2005 with [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") of [DOCCC 2004](DOCCC_2004 "DOCCC 2004") winner [Diep](Diep "Diep") from [Computerschaakbladen vanaf oktober 2004](http://www.csvnsupplementsite.nl/Computerschaakblad.html) (Dutch)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image Computerschaak 5/2005 with [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") of [DOCCC 2004](DOCCC_2004 "DOCCC 2004") winner [Diep](Diep "Diep") from [Computerschaakbladen vanaf oktober 2004](http://www.csvnsupplementsite.nl/Computerschaakblad.html) (Dutch)
 
 **[Up one Level](Periodical "Periodical")**
 

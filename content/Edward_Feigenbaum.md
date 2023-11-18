@@ -77,12 +77,12 @@ In 2006, a group of scientists, colleagues, and friends gathered at Stanford Uni
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Dr. Edward A. Feigenbaum, 27th Chief Scientist of the USAF, 1994-1997, Source: [United States Air Force](https://en.wikipedia.org/wiki/United_States_Air_Force), [Edward Feigenbaum from Wikipedia](https://en.wikipedia.org/wiki/Edward_Feigenbaum)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Robert K. Lindsay](http://dl.acm.org/author_page.cfm?id=81100191503&coll=DL&dl=GUIDE&CFID=111335796&CFTOKEN=62851440), [Bruce Buchanan](Mathematician#BGBuchanan "Mathematician"), Edward Feigenbaum, [Joshua Lederberg](https://en.wikipedia.org/wiki/Joshua_Lederberg) (**1980**). *[Applications of Artificial Intelligence for Organic Chemistry: The DENDRAL Project](http://profiles.nlm.nih.gov/BB/A/L/A/F/)*. [McGraw-Hill](https://en.wikipedia.org/wiki/McGraw-Hill), New York, N.Y.
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [AI's Hall of Fame](http://www.computer.org/cms/Computer.org/ComputingNow/homepage/2011/0811/rW_IS_AIsHallofFame.pdf) (pdf), July/August 2011, Published by the [IEEE](IEEE "IEEE") Computer Society
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Stanford University Libraries](http://library.stanford.edu/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Edward Albert Feigenbaum - ACM author profile page](https://dl.acm.org/author_page.cfm?id=81100346299)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Edward A. Feigenbaum](https://dblp.uni-trier.de/pers/hd/f/Feigenbaum:Edward_A=.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Dr. Edward A. Feigenbaum, 27th Chief Scientist of the USAF, 1994-1997, Source: [United States Air Force](https://en.wikipedia.org/wiki/United_States_Air_Force), [Edward Feigenbaum from Wikipedia](https://en.wikipedia.org/wiki/Edward_Feigenbaum)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Robert K. Lindsay](http://dl.acm.org/author_page.cfm?id=81100191503&coll=DL&dl=GUIDE&CFID=111335796&CFTOKEN=62851440), [Bruce Buchanan](Mathematician#BGBuchanan "Mathematician"), Edward Feigenbaum, [Joshua Lederberg](https://en.wikipedia.org/wiki/Joshua_Lederberg) (**1980**). *[Applications of Artificial Intelligence for Organic Chemistry: The DENDRAL Project](http://profiles.nlm.nih.gov/BB/A/L/A/F/)*. [McGraw-Hill](https://en.wikipedia.org/wiki/McGraw-Hill), New York, N.Y.
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [AI's Hall of Fame](http://www.computer.org/cms/Computer.org/ComputingNow/homepage/2011/0811/rW_IS_AIsHallofFame.pdf) (pdf), July/August 2011, Published by the [IEEE](IEEE "IEEE") Computer Society
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Stanford University Libraries](http://library.stanford.edu/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Edward Albert Feigenbaum - ACM author profile page](https://dl.acm.org/author_page.cfm?id=81100346299)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Edward A. Feigenbaum](https://dblp.uni-trier.de/pers/hd/f/Feigenbaum:Edward_A=.html)
 
 **[Up one level](People "People")**
 

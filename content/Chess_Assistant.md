@@ -77,9 +77,9 @@ Chess Assistant is compatible with most modern chess engines. It supports a vari
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Assistant 17 with Houdini 5: ChessOK](http://chessok.com/?page_id=27628)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About - ChessOK.com](http://chessok.com/?page_id=262)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chess Assistant 14 Released! - ChessOK.com](http://chessok.com/shop/index.php?Home=product_info&cPath=7_54&products_id=723)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Assistant 17 with Houdini 5: ChessOK](http://chessok.com/?page_id=27628)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About - ChessOK.com](http://chessok.com/?page_id=262)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess Assistant 14 Released! - ChessOK.com](http://chessok.com/shop/index.php?Home=product_info&cPath=7_54&products_id=723)
 
 **[Up one Level](GUI "GUI")**
 

@@ -39,8 +39,8 @@ a British computer chess programmer and [microcomputer](https://en.wikipedia.org
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Advance's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=404)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Advance's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=404)
 
 **[Up one level](People "People")**
 

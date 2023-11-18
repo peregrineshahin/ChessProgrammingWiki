@@ -58,11 +58,11 @@ CyberPagno **2.2** and subsequent versions improved due to more effective [trans
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sony Center](https://en.wikipedia.org/wiki/Sony_Center) [Berlin](https://en.wikipedia.org/wiki/Berlin) displays a "[cyberpunk corporate](https://en.wikipedia.org/wiki/Cyberpunk) urban (futuristic)" aesthetic, image by [Andreas Tille](https://commons.wikimedia.org/wiki/User:Tillea), February 11, 2004, [Cyberpunk - Wikipedia.it](https://it.wikipedia.org/wiki/Cyberpunk), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [1st Campionato Italiano per Programmi Scacchistici](http://www.g-sei.org/partite-8/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CyberPagno 2.2](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=53297) by [Marco Pagnoncelli](Marco_Pagnoncelli "Marco Pagnoncelli"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 19, 2014
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CyberPagno History](http://cyberpagno.altervista.org/cyberpagno.htm)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [2° CIPS - le foto](http://www.gsei.org/ita/tornei/cips2foto.html) (dead link)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sony Center](https://en.wikipedia.org/wiki/Sony_Center) [Berlin](https://en.wikipedia.org/wiki/Berlin) displays a "[cyberpunk corporate](https://en.wikipedia.org/wiki/Cyberpunk) urban (futuristic)" aesthetic, image by [Andreas Tille](https://commons.wikimedia.org/wiki/User:Tillea), February 11, 2004, [Cyberpunk - Wikipedia.it](https://it.wikipedia.org/wiki/Cyberpunk), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [1st Campionato Italiano per Programmi Scacchistici](http://www.g-sei.org/partite-8/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CyberPagno 2.2](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=53297) by [Marco Pagnoncelli](Marco_Pagnoncelli "Marco Pagnoncelli"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 19, 2014
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CyberPagno History](http://cyberpagno.altervista.org/cyberpagno.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [2° CIPS - le foto](http://www.gsei.org/ita/tornei/cips2foto.html) (dead link)
 
 **[Up one level](Engines "Engines")**
 

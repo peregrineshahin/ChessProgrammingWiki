@@ -74,11 +74,11 @@ At the time of the publication, the open question remained whether tuning design
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Structure of the [ACPP protein](https://www.uniprot.org/uniprot/P0A6A8). Based on [PyMOL](https://en.wikipedia.org/wiki/PyMOL) rendering of PDB [1cvi](https://www.rcsb.org/structure/1cvi), image created by [Emw](https://commons.wikimedia.org/wiki/User:Emw), December 15, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [William Tunstall-Pedoe](William_Tunstall-Pedoe "William Tunstall-Pedoe") (**1991**). *Genetic Algorithms Optimizing Evaluation Functions*. [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [David E. Goldberg](David_E._Goldberg "David E. Goldberg") (**1989**). *Genetic Algorithms in Search, Optimization and Machine Learning*. [Addison-Wesley](https://en.wikipedia.org/wiki/Addison-Wesley), pp. 76-80
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Fitness Scaling - MATLAB & Simulink](https://www.mathworks.com/help/gads/fitness-scaling.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [William Tunstall-Pedoe](William_Tunstall-Pedoe "William Tunstall-Pedoe") (**1991**). *Genetic Algorithms Optimizing Evaluation Functions*. [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal"), image pp. 124
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Structure of the [ACPP protein](https://www.uniprot.org/uniprot/P0A6A8). Based on [PyMOL](https://en.wikipedia.org/wiki/PyMOL) rendering of PDB [1cvi](https://www.rcsb.org/structure/1cvi), image created by [Emw](https://commons.wikimedia.org/wiki/User:Emw), December 15, 2009, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [William Tunstall-Pedoe](William_Tunstall-Pedoe "William Tunstall-Pedoe") (**1991**). *Genetic Algorithms Optimizing Evaluation Functions*. [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David E. Goldberg](David_E._Goldberg "David E. Goldberg") (**1989**). *Genetic Algorithms in Search, Optimization and Machine Learning*. [Addison-Wesley](https://en.wikipedia.org/wiki/Addison-Wesley), pp. 76-80
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fitness Scaling - MATLAB & Simulink](https://www.mathworks.com/help/gads/fitness-scaling.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [William Tunstall-Pedoe](William_Tunstall-Pedoe "William Tunstall-Pedoe") (**1991**). *Genetic Algorithms Optimizing Evaluation Functions*. [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal"), image pp. 124
 
 **[Up one Level](Engines "Engines")**
 

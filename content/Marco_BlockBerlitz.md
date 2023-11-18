@@ -54,13 +54,13 @@ Marco Block worked on [reinforcement learning](Reinforcement_Learning "Reinforce
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marco Block-Berlitz | HTW Dresden - Academia.edu](https://htw-dresden.academia.edu/MarcoBlockBerlitz)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Artificial Intelligence Group](http://www.mi.fu-berlin.de/inf/groups/ag-ki/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Archaeocopter and Archaeonautic - HTW Dresden, FU Berlin](http://www.archaeocopter.de/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Das Karpov-Simultan in Briesen am 15. Mai 2005](http://www.fvschach.de/2004_05/karpov-simultan.htm)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [FU Math/CompSci: Marco Block-Berlitz](http://page.mi.fu-berlin.de/block/schach.htm)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Marco Block-Berlitz - Publications](http://page.mi.fu-berlin.de/block/publications.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Marco Block-Berlitz | CHNT | Vienna](https://www.chnt.at/marco-block-berlitz/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marco Block-Berlitz | HTW Dresden - Academia.edu](https://htw-dresden.academia.edu/MarcoBlockBerlitz)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Artificial Intelligence Group](http://www.mi.fu-berlin.de/inf/groups/ag-ki/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Archaeocopter and Archaeonautic - HTW Dresden, FU Berlin](http://www.archaeocopter.de/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Das Karpov-Simultan in Briesen am 15. Mai 2005](http://www.fvschach.de/2004_05/karpov-simultan.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [FU Math/CompSci: Marco Block-Berlitz](http://page.mi.fu-berlin.de/block/schach.htm)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Marco Block-Berlitz - Publications](http://page.mi.fu-berlin.de/block/publications.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Marco Block-Berlitz | CHNT | Vienna](https://www.chnt.at/marco-block-berlitz/)
 
 **[Up one level](People "People")**
 

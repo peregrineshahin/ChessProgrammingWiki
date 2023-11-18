@@ -28,8 +28,8 @@ Jean-Louis is explaining the 'plan of attack' in [Futé](Fut%C3%A9 "Futé") to [
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Zappa web update & a few other things](https://www.stmintz.com/ccc/index.php?id=445901) by [Peter Berger](Peter_Berger "Peter Berger"), [CCC](CCC "CCC"), August 28, 2005
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [WCCC 2005 Photojournal](https://netfiles.uiuc.edu/acozzie2/www/photos/wccc_iceland_2005/) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") (dead link)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Zappa web update & a few other things](https://www.stmintz.com/ccc/index.php?id=445901) by [Peter Berger](Peter_Berger "Peter Berger"), [CCC](CCC "CCC"), August 28, 2005
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WCCC 2005 Photojournal](https://netfiles.uiuc.edu/acozzie2/www/photos/wccc_iceland_2005/) by [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") (dead link)
 
 **[Up one level](People "People")**
 

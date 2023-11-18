@@ -53,9 +53,9 @@ Scidb features multiple chess variants, such as [Chess960](Chess960 "Chess960"),
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Scidb - Screenshots](http://scidb.sourceforge.net/screenshots.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Testing](https://www.mail-archive.com/scid-users@lists.sourceforge.net/msg06020.html) by [Gregor Cramer](index.php?title=Gregor_Cramer&action=edit&redlink=1 "Gregor Cramer (page does not exist)"), [scid-users](https://www.mail-archive.com/scid-users@lists.sourceforge.net/), January 04, 2013
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Welcome to Scidb](http://scidb.sourceforge.net/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Scidb - Screenshots](http://scidb.sourceforge.net/screenshots.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Testing](https://www.mail-archive.com/scid-users@lists.sourceforge.net/msg06020.html) by [Gregor Cramer](index.php?title=Gregor_Cramer&action=edit&redlink=1 "Gregor Cramer (page does not exist)"), [scid-users](https://www.mail-archive.com/scid-users@lists.sourceforge.net/), January 04, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Welcome to Scidb](http://scidb.sourceforge.net/index.html)
 
 **[Up one Level](Databases "Databases")**
 

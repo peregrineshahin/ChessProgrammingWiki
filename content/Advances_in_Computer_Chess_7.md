@@ -44,9 +44,9 @@ The **7th Advances in Computer Chess Conference** was held at the [University of
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Building Gouvernement, former residence of the Gouvernor of [Limburg](https://en.wikipedia.org/wiki/Limburg_%28Netherlands%29). Now a part of the University. Build around 1935 and designed by [G.C. Bremer](http://en.nai.nl/museum/exhibitions/online/item/_rp_kolom2-1_elementId/1_169764), Image by [Brbbl](https://commons.wikimedia.org/wiki/User:Brbbl), June 14, 2009, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Maastricht University from Wikipedia](https://en.wikipedia.org/wiki/Maastricht_University)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Books at sale at ICGA](http://ticc.uvt.nl/icga/organisation/books/)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> reprinted as [Mate in 38: Applying Proof-Number Search](http://www.top-5000.nl/ps/Mate%20in%2038-%20applying%20proof%20number%20search%20to%20chess.pdf) from [Ed Schröder's](Ed_Schroder "Ed Schroder") [Programmer's Stuff site](http://www.top-5000.nl/prostuff.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Building Gouvernement, former residence of the Gouvernor of [Limburg](https://en.wikipedia.org/wiki/Limburg_%28Netherlands%29). Now a part of the University. Build around 1935 and designed by [G.C. Bremer](http://en.nai.nl/museum/exhibitions/online/item/_rp_kolom2-1_elementId/1_169764), Image by [Brbbl](https://commons.wikimedia.org/wiki/User:Brbbl), June 14, 2009, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Maastricht University from Wikipedia](https://en.wikipedia.org/wiki/Maastricht_University)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Books at sale at ICGA](http://ticc.uvt.nl/icga/organisation/books/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> reprinted as [Mate in 38: Applying Proof-Number Search](http://www.top-5000.nl/ps/Mate%20in%2038-%20applying%20proof%20number%20search%20to%20chess.pdf) from [Ed Schröder's](Ed_Schroder "Ed Schroder") [Programmer's Stuff site](http://www.top-5000.nl/prostuff.htm)
 
 **[Up one Level](Conferences "Conferences")**
 

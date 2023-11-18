@@ -31,9 +31,9 @@ a commercial, [Kasparov](Garry_Kasparov "Garry Kasparov") licensees <a id="cite-
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Virtual Kasparov from Wikipedia](https://en.wikipedia.org/wiki/Virtual_Kasparov)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kasparov licensees](https://www.mobygames.com/game-group/kasparov-licensees) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Virtual Kasparov](https://www.mobygames.com/game/virtual-kasparov) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Virtual Kasparov from Wikipedia](https://en.wikipedia.org/wiki/Virtual_Kasparov)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kasparov licensees](https://www.mobygames.com/game-group/kasparov-licensees) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Virtual Kasparov](https://www.mobygames.com/game/virtual-kasparov) from [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
 
 **[Up one Level](Engines "Engines")**
 

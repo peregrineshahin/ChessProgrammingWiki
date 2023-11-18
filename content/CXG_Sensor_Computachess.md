@@ -51,16 +51,16 @@ The **CXG Computachess III**, released in 1984, had a [6800](6800 "6800") instru
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [CXG-CGL Collection](http://www.flickr.com/photos/10261668@N05/sets/72157600923816793/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> The very first one was the [Cassia Chess Mate](Cassia_Chess_Mate "Cassia Chess Mate") aka CXG Computachess I, a [clone](Category:Clone "Category:Clone") of [Ron Nelson's](Ron_Nelson "Ron Nelson") [Chess Challenger 10](Chess_Challenger "Chess Challenger")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Cassia - Chess Mate](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1979%20%5BA-3976%5D%20Cassia%20-%20Chess%20Mate.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Ron Nelson Chess Challenger 10](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=205) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 24, 2016
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Schneider Sensor Chesspartner MK3](http://www.schach-computer.info/wiki/index.php/Schneider_Sensor_Chesspartner_MK3) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Satranç, Dama, Tavla Elektronik Satranç Satılık HANIMEX HCG 1500 COMPUTACHESS](http://www.ikincielim.com/iel/satranc-dama-tavla-elektronik-satranc-satilik-hanimex-hcg-1500-computachess_ilan_155345)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [CXG Sensor Computachess](http://www.schach-computer.info/wiki/index.php/CXG_Sensor_Computachess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Systema Computachess Electronic Chess Computer](http://www.spacious-mind.com/html/computachess.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [CXG Advanced Portachess](http://www.schach-computer.info/wiki/index.php/CXG_Advanced_Portachess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [CXG-CGL Collection](http://www.flickr.com/photos/10261668@N05/sets/72157600923816793/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> The very first one was the [Cassia Chess Mate](Cassia_Chess_Mate "Cassia Chess Mate") aka CXG Computachess I, a [clone](Category:Clone "Category:Clone") of [Ron Nelson's](Ron_Nelson "Ron Nelson") [Chess Challenger 10](Chess_Challenger "Chess Challenger")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Cassia - Chess Mate](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1979%20%5BA-3976%5D%20Cassia%20-%20Chess%20Mate.pdf), pdf hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") (Dutch)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Ron Nelson Chess Challenger 10](http://www.hiarcs.net/forums/viewtopic.php?t=6768&start=205) by [ChessChallenger](Ron_Nelson "Ron Nelson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), January 24, 2016
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Schneider Sensor Chesspartner MK3](http://www.schach-computer.info/wiki/index.php/Schneider_Sensor_Chesspartner_MK3) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Satranç, Dama, Tavla Elektronik Satranç Satılık HANIMEX HCG 1500 COMPUTACHESS](http://www.ikincielim.com/iel/satranc-dama-tavla-elektronik-satranc-satilik-hanimex-hcg-1500-computachess_ilan_155345)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [CXG Sensor Computachess](http://www.schach-computer.info/wiki/index.php/CXG_Sensor_Computachess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Systema Computachess Electronic Chess Computer](http://www.spacious-mind.com/html/computachess.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CXG Advanced Portachess](http://www.schach-computer.info/wiki/index.php/CXG_Advanced_Portachess) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
 
 **[Up one Level](Engines "Engines")**
 

@@ -27,8 +27,8 @@ a chess program by [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter") based on
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: TDchess discussion](https://www.stmintz.com/ccc/index.php?id=42099) by [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [CCC](CCC "CCC"), February 03, 1999
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: Australian-ch, questions !](https://www.stmintz.com/ccc/index.php?id=87251) by [David Blackman](David_Blackman "David Blackman"), [CCC](CCC "CCC"), January 09, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: TDchess discussion](https://www.stmintz.com/ccc/index.php?id=42099) by [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [CCC](CCC "CCC"), February 03, 1999
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Australian-ch, questions !](https://www.stmintz.com/ccc/index.php?id=87251) by [David Blackman](David_Blackman "David Blackman"), [CCC](CCC "CCC"), January 09, 2000
 
 **[Up one Level](Engines "Engines")**
 

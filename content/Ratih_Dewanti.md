@@ -27,9 +27,9 @@ During the [WMCCC 1996](WMCCC_1996 "WMCCC 1996") at the Gunadarma University Cam
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rinah Deci Mangerti: STRUKTUR ORGANISASI PROGRAM DIPLOMA TIGA MANAJEMEN INFORMATIKA](http://rinahdecimangerti.blogspot.com/2015/06/struktur-organisasi-program-diploma.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Official Site of Ratih Dewanti - Gunadarma University](http://staffsite.gunadarma.ac.id/ratih/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Ratih Dewanti (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rinah Deci Mangerti: STRUKTUR ORGANISASI PROGRAM DIPLOMA TIGA MANAJEMEN INFORMATIKA](http://rinahdecimangerti.blogspot.com/2015/06/struktur-organisasi-program-diploma.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Official Site of Ratih Dewanti - Gunadarma University](http://staffsite.gunadarma.ac.id/ratih/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Ratih Dewanti (**1996**). *Report on the 14th World Microcomputer Chess Championship*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
 
 **[Up one level](People "People")**
 

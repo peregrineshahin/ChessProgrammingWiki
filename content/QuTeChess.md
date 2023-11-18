@@ -28,8 +28,8 @@ It reflects the author's dealings with Qt to implement UCI and [CLI](CLI "CLI") 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [QuTeChess | Free Science & Engineering software downloads at SourceForge.net](https://sourceforge.net/projects/qutechess/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> \* [Borko Bošković](Borko_Bo%C5%A1kovi%C4%87 "Borko Bošković"), [Sašo Greiner](Sa%C5%A1o_Greiner "Sašo Greiner"), [Janez Brest](Janez_Brest "Janez Brest"), [Aleš Zamuda](Ale%C5%A1_Zamuda "Aleš Zamuda"), [Viljem Žumer](Viljem_%C5%BDumer "Viljem Žumer") (**2008**). *[An Adaptive Differential Evolution Algorithm with Opposition-Based Mechanisms, Applied to the Tuning of a Chess Program](https://link.springer.com/chapter/10.1007%2F978-3-540-68830-3_12)*. [Advances in Differential Evolution](https://link.springer.com/book/10.1007/978-3-540-68830-3), [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [QuTeChess | Free Science & Engineering software downloads at SourceForge.net](https://sourceforge.net/projects/qutechess/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> \* [Borko Bošković](Borko_Bo%C5%A1kovi%C4%87 "Borko Bošković"), [Sašo Greiner](Sa%C5%A1o_Greiner "Sašo Greiner"), [Janez Brest](Janez_Brest "Janez Brest"), [Aleš Zamuda](Ale%C5%A1_Zamuda "Aleš Zamuda"), [Viljem Žumer](Viljem_%C5%BDumer "Viljem Žumer") (**2008**). *[An Adaptive Differential Evolution Algorithm with Opposition-Based Mechanisms, Applied to the Tuning of a Chess Program](https://link.springer.com/chapter/10.1007%2F978-3-540-68830-3_12)*. [Advances in Differential Evolution](https://link.springer.com/book/10.1007/978-3-540-68830-3), [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
 
 **[Up one Level](Engines "Engines")**
 

@@ -141,10 +141,10 @@ Igel 2.6-dev-3 x64 vs. [Booot 6.4 x64](Booot "Booot"), July 2020 by [TCEC](TCEC 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [European hedgehog](https://en.wikipedia.org/wiki/European_hedgehog)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Night Nurse is Bad Gyal in disguise](http://talkchess.com/forum3/viewtopic.php?t=74619) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), July 30, 2020
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Night Nurse 0.2](http://talkchess.com/forum3/viewtopic.php?f=2&t=74837) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), August 19, 2020
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Introducing Igel chess engine - Igel and NNUE](http://talkchess.com/forum3/viewtopic.php?f=2&t=67890&start=17) by [Volodymyr Shcherbyna](Volodymyr_Shcherbyna "Volodymyr Shcherbyna"), [CCC](CCC "CCC"), August 19, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [European hedgehog](https://en.wikipedia.org/wiki/European_hedgehog)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Night Nurse is Bad Gyal in disguise](http://talkchess.com/forum3/viewtopic.php?t=74619) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), July 30, 2020
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Night Nurse 0.2](http://talkchess.com/forum3/viewtopic.php?f=2&t=74837) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), August 19, 2020
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Introducing Igel chess engine - Igel and NNUE](http://talkchess.com/forum3/viewtopic.php?f=2&t=67890&start=17) by [Volodymyr Shcherbyna](Volodymyr_Shcherbyna "Volodymyr Shcherbyna"), [CCC](CCC "CCC"), August 19, 2020
 
 **[Up one Level](Engines "Engines")**
 

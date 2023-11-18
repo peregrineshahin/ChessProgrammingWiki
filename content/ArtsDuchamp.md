@@ -122,8 +122,8 @@ title: ArtsDuchamp
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Donald E. Knuth](Donald_Knuth "Donald Knuth") (**1968 ...**). *[The Art of Computer Programming (TAOCP)](http://www-cs-faculty.stanford.edu/~knuth/taocp.html)*
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Hoogeveen from Wikipedia](https://en.wikipedia.org/wiki/Hoogeveen)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Donald E. Knuth](Donald_Knuth "Donald Knuth") (**1968 ...**). *[The Art of Computer Programming (TAOCP)](http://www-cs-faculty.stanford.edu/~knuth/taocp.html)*
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hoogeveen from Wikipedia](https://en.wikipedia.org/wiki/Hoogeveen)
 
 **[Home](Home "Home")**
 

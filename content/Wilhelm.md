@@ -63,13 +63,13 @@ a chess program by [Rafael B. Andrist](Rafael_B._Andrist "Rafael B. Andrist") wi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Wilhelm Steinitz](https://en.wikipedia.org/wiki/Wilhelm_Steinitz), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Wilhelm](http://immortalchess.net/forum/showthread.php?t=14614) by silversurfer, [Immortal Chess Forum](Computer_Chess_Forums "Computer Chess Forums"), March 20, 2012
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Fine 70 same 7 engines (more)](https://www.stmintz.com/ccc/index.php?id=188245) by [Rafael B. Andrist](Rafael_B._Andrist "Rafael B. Andrist"), [CCC](CCC "CCC"), September 10, 2001
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Wilhelm update](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=785) by [Rafael B. Andrist](Rafael_B._Andrist "Rafael B. Andrist"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), August 23, 2006
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a>  [Guy Haworth](Guy_Haworth "Guy Haworth") (**2003**). *[Reference Fallible Endgame Play](http://centaur.reading.ac.uk/4550/)*. [ICGA Journal, Vol. 26, No. 2](ICGA_Journal#26_2 "ICGA Journal")
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), [Rafael B. Andrist](Rafael_B._Andrist "Rafael B. Andrist") (**2003**). *[Model Endgame Analysis](http://centaur.reading.ac.uk/4548/)*. [Advances in Computer Games 10](Advances_in_Computer_Games_10 "Advances in Computer Games 10")
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Wilhelm 1.50 in action](http://www.talkchess.com/forum/viewtopic.php?t=42946) by [Ruxy Sylwyka](http://www.talkchess.com/forum/profile.php?mode=viewprofile&u=881), [CCC](CCC "CCC"), March 20, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wilhelm Steinitz](https://en.wikipedia.org/wiki/Wilhelm_Steinitz), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Wilhelm](http://immortalchess.net/forum/showthread.php?t=14614) by silversurfer, [Immortal Chess Forum](Computer_Chess_Forums "Computer Chess Forums"), March 20, 2012
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Fine 70 same 7 engines (more)](https://www.stmintz.com/ccc/index.php?id=188245) by [Rafael B. Andrist](Rafael_B._Andrist "Rafael B. Andrist"), [CCC](CCC "CCC"), September 10, 2001
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Wilhelm update](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=785) by [Rafael B. Andrist](Rafael_B._Andrist "Rafael B. Andrist"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), August 23, 2006
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a>  [Guy Haworth](Guy_Haworth "Guy Haworth") (**2003**). *[Reference Fallible Endgame Play](http://centaur.reading.ac.uk/4550/)*. [ICGA Journal, Vol. 26, No. 2](ICGA_Journal#26_2 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), [Rafael B. Andrist](Rafael_B._Andrist "Rafael B. Andrist") (**2003**). *[Model Endgame Analysis](http://centaur.reading.ac.uk/4548/)*. [Advances in Computer Games 10](Advances_in_Computer_Games_10 "Advances in Computer Games 10")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Wilhelm 1.50 in action](http://www.talkchess.com/forum/viewtopic.php?t=42946) by [Ruxy Sylwyka](http://www.talkchess.com/forum/profile.php?mode=viewprofile&u=881), [CCC](CCC "CCC"), March 20, 2012
 
 **[Up one level](Engines "Engines")**
 

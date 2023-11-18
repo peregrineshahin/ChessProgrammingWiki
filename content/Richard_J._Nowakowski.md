@@ -52,12 +52,12 @@ a Canadian mathematician, [combinatorial game theorist](https://en.wikipedia.org
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [It’s all fun and games to mathematician Richard Nowakowski - Free public lecture at UPEI kicks off the Canadian Mathematical Society’s Meeting](https://cms.math.ca/MediaReleases/2015/PubicLecture-summer15.html), [Canadian Mathematical Society](https://en.wikipedia.org/wiki/Canadian_Mathematical_Society), Media Release, May 29, 2015
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Richard J. Nowakowski - CV](https://www.mathstat.dal.ca/~rjn/CV.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Clobber research](http://homepages.gac.edu/~wolfe/games/clobber/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Richard J. Nowakowski](http://www.informatik.uni-trier.de/~ley/pers/hd/n/Nowakowski:Richard_J=)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Richard J. Nowakowski | The Online Books Page](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Nowakowski%2C%20Richard%20J.)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Zarankiewicz problem from Wikipedia](https://en.wikipedia.org/wiki/Zarankiewicz_problem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [It’s all fun and games to mathematician Richard Nowakowski - Free public lecture at UPEI kicks off the Canadian Mathematical Society’s Meeting](https://cms.math.ca/MediaReleases/2015/PubicLecture-summer15.html), [Canadian Mathematical Society](https://en.wikipedia.org/wiki/Canadian_Mathematical_Society), Media Release, May 29, 2015
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Richard J. Nowakowski - CV](https://www.mathstat.dal.ca/~rjn/CV.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Clobber research](http://homepages.gac.edu/~wolfe/games/clobber/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Richard J. Nowakowski](http://www.informatik.uni-trier.de/~ley/pers/hd/n/Nowakowski:Richard_J=)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Richard J. Nowakowski | The Online Books Page](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Nowakowski%2C%20Richard%20J.)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Zarankiewicz problem from Wikipedia](https://en.wikipedia.org/wiki/Zarankiewicz_problem)
 
 **[Up one level](People "People")**
 

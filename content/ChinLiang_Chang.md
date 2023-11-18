@@ -39,15 +39,15 @@ Chin-Liang Chang further worked for [IBM Almaden Research Center](https://en.wik
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chin-Liang Chang and Tim Walker | Flickr - Fotosharing!](http://www.flickr.com/photos/weblogsky/1426021556/in/set-72157602121396968), [One Web Day Austin](http://effaustin.org/2009/09/one-web-day-austin-september-22/), September 22, 2007, Photo by [Jon Lebkowsky](https://en.wikipedia.org/wiki/Jon_Lebkowsky)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ph.D. Dissertations | EECS at UC Berkeley](http://www.eecs.berkeley.edu/Pubs/Dissertations/Faculty/zadeh.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [James R. Slagle](James_R._Slagle "James R. Slagle") (**1967**). *Automatic Theorem Proving With Renamable and Semantic Resolution*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 14, No. 4
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [James R. Slagle](James_R._Slagle "James R. Slagle"), Chin-Liang Chang, [Richard C. T. Lee](Richard_C._T._Lee "Richard C. T. Lee") (**1969**). *Completeness Theorems for Semantic Resolution in Consequence-Finding*. [IJCAI-69](Conferences#IJCAI "Conferences"), [pdf](http://ijcai.org/Past%20Proceedings/IJCAI-69/PDF/028.pdf)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Symbolic Logic and Mechanical Theorem Proving - Elsevier](http://www.elsevier.com/wps/find/bookdescription.cws_home/679092/description#description)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Fuzzy-Logic-Based Programming](http://www.worldscibooks.com/compsci/3413.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [RISE Sessions: Chin Chang](https://www.riseglobal.org/sessions/host/112)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [DBLP: Chin-Liang Chang](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/c/Chang:Chin=Liang.html)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Researchr - Publications by 'Chin-Liang Chang'](http://researchr.org/alias/chin-liang-chang)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chin-Liang Chang and Tim Walker | Flickr - Fotosharing!](http://www.flickr.com/photos/weblogsky/1426021556/in/set-72157602121396968), [One Web Day Austin](http://effaustin.org/2009/09/one-web-day-austin-september-22/), September 22, 2007, Photo by [Jon Lebkowsky](https://en.wikipedia.org/wiki/Jon_Lebkowsky)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ph.D. Dissertations | EECS at UC Berkeley](http://www.eecs.berkeley.edu/Pubs/Dissertations/Faculty/zadeh.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [James R. Slagle](James_R._Slagle "James R. Slagle") (**1967**). *Automatic Theorem Proving With Renamable and Semantic Resolution*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 14, No. 4
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [James R. Slagle](James_R._Slagle "James R. Slagle"), Chin-Liang Chang, [Richard C. T. Lee](Richard_C._T._Lee "Richard C. T. Lee") (**1969**). *Completeness Theorems for Semantic Resolution in Consequence-Finding*. [IJCAI-69](Conferences#IJCAI "Conferences"), [pdf](http://ijcai.org/Past%20Proceedings/IJCAI-69/PDF/028.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Symbolic Logic and Mechanical Theorem Proving - Elsevier](http://www.elsevier.com/wps/find/bookdescription.cws_home/679092/description#description)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fuzzy-Logic-Based Programming](http://www.worldscibooks.com/compsci/3413.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [RISE Sessions: Chin Chang](https://www.riseglobal.org/sessions/host/112)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [DBLP: Chin-Liang Chang](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/c/Chang:Chin=Liang.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Researchr - Publications by 'Chin-Liang Chang'](http://researchr.org/alias/chin-liang-chang)
 
 **[Up one level](Engines "Engines")**
 

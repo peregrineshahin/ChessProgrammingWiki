@@ -39,9 +39,9 @@ Further, Pacque Expert played the [Massy 1999](index.php?title=Massy_1999&action
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Re: Report on Massy'2004 : Soft Jacqueline Bras ???](https://www.stmintz.com/ccc/index.php?id=377858) by [Tony Werten](Tony_van_Roon-Werten "Tony van Roon-Werten"), [CCC](CCC "CCC"), July 19, 2004
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [London 2000 - Chess - Round 8 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=31&round=8&id=5)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Pacque expert lost against Junior](https://www.stmintz.com/ccc/index.php?id=126256) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), August 25, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Re: Report on Massy'2004 : Soft Jacqueline Bras ???](https://www.stmintz.com/ccc/index.php?id=377858) by [Tony Werten](Tony_van_Roon-Werten "Tony van Roon-Werten"), [CCC](CCC "CCC"), July 19, 2004
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [London 2000 - Chess - Round 8 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=31&round=8&id=5)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Pacque expert lost against Junior](https://www.stmintz.com/ccc/index.php?id=126256) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), August 25, 2000
 
 **[Up one Level](Engines "Engines")**
 

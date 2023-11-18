@@ -13,7 +13,7 @@ a Russian computer chess programmer and author of the chess program [Zeus](Zeus_
 
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Зевс Вадима Быкова, Россия](http://sdchess.narod.ru/Zeus.htm) from [sdchess.ru](http://sdchess.narod.ru/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Зевс Вадима Быкова, Россия](http://sdchess.narod.ru/Zeus.htm) from [sdchess.ru](http://sdchess.narod.ru/)
 
 **[Up one level](People "People")**
 

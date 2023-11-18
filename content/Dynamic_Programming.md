@@ -91,10 +91,10 @@ In computer chess, dynamic programming is applied in [depth-first](Depth-First "
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Richard E. Bellman](Richard_E._Bellman "Richard E. Bellman") (**1953**). *[An Introduction to the Theory of Dynamic Programming](http://www.rand.org/pubs/reports/R245.html)*. R-245, [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Richard E. Bellman](Richard_E._Bellman "Richard E. Bellman") (**1965**). *[On the Application of Dynamic Programming to the Determination of Optimal Play in Chess and Checkers](http://www.rand.org/pubs/papers/P3013/).* [PNAS](https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Markov chain from Wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [David Blackwell and Dynamic Programming](http://users.stat.umn.edu/~sudde001/personal_page/DBDP.pdf) (pdf) by [William Sudderth](Mathematician#WSudderth "Mathematician")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Richard E. Bellman](Richard_E._Bellman "Richard E. Bellman") (**1953**). *[An Introduction to the Theory of Dynamic Programming](http://www.rand.org/pubs/reports/R245.html)*. R-245, [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Richard E. Bellman](Richard_E._Bellman "Richard E. Bellman") (**1965**). *[On the Application of Dynamic Programming to the Determination of Optimal Play in Chess and Checkers](http://www.rand.org/pubs/papers/P3013/).* [PNAS](https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Markov chain from Wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Blackwell and Dynamic Programming](http://users.stat.umn.edu/~sudde001/personal_page/DBDP.pdf) (pdf) by [William Sudderth](Mathematician#WSudderth "Mathematician")
 
 **[Up one Level](Algorithms "Algorithms")**
 

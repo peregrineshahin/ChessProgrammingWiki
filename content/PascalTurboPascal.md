@@ -199,17 +199,17 @@ A sample of a [recursive](Recursion "Recursion") [Search](Search "Search") routi
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Blaise Pascal from Wikipedia](https://en.wikipedia.org/wiki/Blaise_Pascal)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Innovation Happens Elsewhere](http://www.dreamsongs.com/IHE/IHE-12.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Embarcadero Developer Network - Museum](http://edn.embarcadero.com/museum/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Blaise Pascal from Wikipedia](https://en.wikipedia.org/wiki/Blaise_Pascal)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Innovation Happens Elsewhere](http://www.dreamsongs.com/IHE/IHE-12.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Embarcadero Developer Network - Museum](http://edn.embarcadero.com/museum/)
 [Antique Software: Turbo Pascal v1.0](http://edn.embarcadero.com/article/20693)
 [Antique Software: Turbo Pascal v3.02](http://edn.embarcadero.com/article/20792)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Turbo Pascal - Assembly language](https://en.wikipedia.org/wiki/Turbo_Pascal#Assembly_language)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Turbo GameWorks (Open Library)](http://openlibrary.org/b/OL2753290M/Turbo_GameWorks)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [KC Chess: Kevin & Craig's Chess Program](https://web.archive.org/web/20120411173812/http://www.csbruce.com/~csbruce/chess/) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chess 0.5, Release 1 - 2005-05-30](http://www.moorecad.com/standardpascal/ByteChess.txt)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Byte Chess 0.5 source code](http://www.moorecad.com/standardpascal/Chess05.pas)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Turbo Pascal - Assembly language](https://en.wikipedia.org/wiki/Turbo_Pascal#Assembly_language)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Turbo GameWorks (Open Library)](http://openlibrary.org/b/OL2753290M/Turbo_GameWorks)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Resume for Kaare Danielsen](http://www.danielsen.com/resume.shtml)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [KC Chess: Kevin & Craig's Chess Program](https://web.archive.org/web/20120411173812/http://www.csbruce.com/~csbruce/chess/) ([Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chess 0.5, Release 1 - 2005-05-30](http://www.moorecad.com/standardpascal/ByteChess.txt)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Byte Chess 0.5 source code](http://www.moorecad.com/standardpascal/Chess05.pas)
 
 **[Up one Level](Languages "Languages")**
 

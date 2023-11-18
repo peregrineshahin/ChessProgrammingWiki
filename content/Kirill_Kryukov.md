@@ -70,16 +70,16 @@ He has written various tools and scripts for DNA data and [FASTA format](https:/
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Kirr's homepage](http://kirill-kryukov.com/kirr/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Kirr's homepage](http://kirill-kryukov.com/kirr/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [3x3 Chess](http://kirr.homeunix.org/chess/3x3-chess/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [3x4 Chess](http://kirr.homeunix.org/chess/3x4-chess/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [KCEC - Kirr's Chess Engine Comparison](http://kirill-kryukov.com/chess/kcec/about.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp Kirill Kryukov](https://dblp.uni-trier.de/pers/hd/k/Kryukov:Kirill)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Kirill Kryukov's research works | Tokai University, Hiratsuka and other places - Researchgate](https://www.researchgate.net/scientific-contributions/2115185275_Kirill_Kryukov)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [MISHIMA: Multiple Sequence Alignment](http://kirill-kryukov.com/study/mishima/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Jōmon people from Wikipedia](https://en.wikipedia.org/wiki/J%C5%8Dmon_people)
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [NULP (Number of Unique Legal Positions) in chess endgames](http://kirill-kryukov.com/chess/nulp/) by Kirill Kryukov
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kirr's homepage](http://kirill-kryukov.com/kirr/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Kirr's homepage](http://kirill-kryukov.com/kirr/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [3x3 Chess](http://kirr.homeunix.org/chess/3x3-chess/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [3x4 Chess](http://kirr.homeunix.org/chess/3x4-chess/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [KCEC - Kirr's Chess Engine Comparison](http://kirill-kryukov.com/chess/kcec/about.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp Kirill Kryukov](https://dblp.uni-trier.de/pers/hd/k/Kryukov:Kirill)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Kirill Kryukov's research works | Tokai University, Hiratsuka and other places - Researchgate](https://www.researchgate.net/scientific-contributions/2115185275_Kirill_Kryukov)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [MISHIMA: Multiple Sequence Alignment](http://kirill-kryukov.com/study/mishima/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Jōmon people from Wikipedia](https://en.wikipedia.org/wiki/J%C5%8Dmon_people)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [NULP (Number of Unique Legal Positions) in chess endgames](http://kirill-kryukov.com/chess/nulp/) by Kirill Kryukov
 
 **[Up one level](People "People")**
 

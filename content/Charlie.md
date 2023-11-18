@@ -32,11 +32,11 @@ Charlie was written in over 6000 lines of [assembly language](Assembly "Assembly
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jugend forscht, 1974: Computerprogramm zum Schachspiel in Lidia/Assembler](https://www.jugend-forscht.de/projektdatenbank/computerprogramm-zum-schachspiel-in-lidiaassembler.html) (German)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jugend forscht, 1974: Computerprogramm zum Schachspiel in Lidia/Assembler](https://www.jugend-forscht.de/projektdatenbank/computerprogramm-zum-schachspiel-in-lidiaassembler.html) (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [LIDIA - Lernen Im DIAlog (Computer Language)](http://hopl.info/showlanguage.prx?exp=3102)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](https://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123), [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Computermuseum München, Siemens](http://www.computermuseum-muenchen.de/computer/siemens/index.html) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jugend forscht, 1974: Computerprogramm zum Schachspiel in Lidia/Assembler](https://www.jugend-forscht.de/projektdatenbank/computerprogramm-zum-schachspiel-in-lidiaassembler.html) (German)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jugend forscht, 1974: Computerprogramm zum Schachspiel in Lidia/Assembler](https://www.jugend-forscht.de/projektdatenbank/computerprogramm-zum-schachspiel-in-lidiaassembler.html) (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [LIDIA - Lernen Im DIAlog (Computer Language)](http://hopl.info/showlanguage.prx?exp=3102)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](https://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123), [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Computermuseum München, Siemens](http://www.computermuseum-muenchen.de/computer/siemens/index.html) (German)
 
 **[Up one Level](Engines "Engines")**
 

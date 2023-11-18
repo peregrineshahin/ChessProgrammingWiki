@@ -54,8 +54,8 @@ title: The Spacious Mind
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Where is Nick?](http://www.hiarcs.net/forums/viewtopic.php?t=8120) by dedicate computers, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), November 12, 2016
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Spacious Mind](https://www.spacious-mind.com/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Where is Nick?](http://www.hiarcs.net/forums/viewtopic.php?t=8120) by dedicate computers, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), November 12, 2016
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Spacious Mind](https://www.spacious-mind.com/index.html)
 
 **[Up one level](People "People")**
 

@@ -59,14 +59,14 @@ In a 1982 usenet post, [Tom Truscott](Tom_Truscott "Tom Truscott") mentions Wagn
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Robert Wagner's Home Page](https://users.cs.duke.edu/~raw/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Robert Wagner's Home Page](https://users.cs.duke.edu/~raw/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Alan Kotok](Alan_Kotok "Alan Kotok") (**1962**). *[Artificial Intelligence Project - MIT Computation Center: Memo 41 - A Chess Playing Program](http://www.kotok.org/AI_Memo_41.html)*.
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: sri-unix.426: compact representation of a position](http://quux.org:70/Archives/usenet-a-news/NET.chess/82.01.05_duke.1553_net.chess.txt) by [Tom Truscott](Tom_Truscott "Tom Truscott"), [net.chess](http://quux.org:70/Archives/usenet-a-news/NET.chess), January 5, 1982
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Re: sri-unix.444: compact representation of chess positions](http://quux.org:70/Archives/usenet-a-news/NET.chess/82.01.07_duke.1593_net.chess.txt) by [Tom Truscott](Tom_Truscott "Tom Truscott"), [net.chess](http://quux.org:70/Archives/usenet-a-news/NET.chess), January 7, 1982
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Robert A. Wagner](https://dblp.uni-trier.de/pers/w/Wagner:Robert_A=.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Steiner tree problem from Wikipedia](https://en.wikipedia.org/wiki/Steiner_tree_problem)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [String-to-string correction problem from Wikipedia](https://en.wikipedia.org/wiki/String-to-string_correction_problem)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Robert Wagner's Home Page](https://users.cs.duke.edu/~raw/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Robert Wagner's Home Page](https://users.cs.duke.edu/~raw/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alan Kotok](Alan_Kotok "Alan Kotok") (**1962**). *[Artificial Intelligence Project - MIT Computation Center: Memo 41 - A Chess Playing Program](http://www.kotok.org/AI_Memo_41.html)*.
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: sri-unix.426: compact representation of a position](http://quux.org:70/Archives/usenet-a-news/NET.chess/82.01.05_duke.1553_net.chess.txt) by [Tom Truscott](Tom_Truscott "Tom Truscott"), [net.chess](http://quux.org:70/Archives/usenet-a-news/NET.chess), January 5, 1982
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: sri-unix.444: compact representation of chess positions](http://quux.org:70/Archives/usenet-a-news/NET.chess/82.01.07_duke.1593_net.chess.txt) by [Tom Truscott](Tom_Truscott "Tom Truscott"), [net.chess](http://quux.org:70/Archives/usenet-a-news/NET.chess), January 7, 1982
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Robert A. Wagner](https://dblp.uni-trier.de/pers/w/Wagner:Robert_A=.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Steiner tree problem from Wikipedia](https://en.wikipedia.org/wiki/Steiner_tree_problem)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [String-to-string correction problem from Wikipedia](https://en.wikipedia.org/wiki/String-to-string_correction_problem)
 
 **[Up one level](People "People")**
 

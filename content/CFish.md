@@ -74,12 +74,12 @@ further utilizing [SIMD instructions](SIMD_and_SWAR_Techniques "SIMD and SWAR Te
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Fish Market](https://commons.wikimedia.org/wiki/File:Joachim_Beuckelaer_-_Vismarkt..JPG) by [Joachim Beuckelaer](Category:Joachim_Beuckelaer "Category:Joachim Beuckelaer"), 16th century, [Bonnefantenmuseum](https://en.wikipedia.org/wiki/Bonnefantenmuseum), [Maastricht](https://en.wikipedia.org/wiki/Maastricht), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Cod from Wikipedia](https://en.wikipedia.org/wiki/Cod)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: CFish](http://www.talkchess.com/forum/viewtopic.php?t=61280&start=9) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), September 01, 2016
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Cfish/avx2-bitboard.h at master · syzygy1/Cfish · GitHub](https://github.com/syzygy1/Cfish/blob/master/src/avx2-bitboard.h)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [\_mm256_lzcnt_epi64](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#text=_mm256_lzcnt_epi64&expand=5560,5471,3497)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [\_mm256_ternarylogic_epi64](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#text=_mm256_ternarylogic_epi64&expand=5560,5471,3497,5873)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Cfish/nnue.c at master · syzygy1/Cfish · GitHub](https://github.com/syzygy1/Cfish/blob/master/src/nnue.c)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Fish Market](https://commons.wikimedia.org/wiki/File:Joachim_Beuckelaer_-_Vismarkt..JPG) by [Joachim Beuckelaer](Category:Joachim_Beuckelaer "Category:Joachim Beuckelaer"), 16th century, [Bonnefantenmuseum](https://en.wikipedia.org/wiki/Bonnefantenmuseum), [Maastricht](https://en.wikipedia.org/wiki/Maastricht), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Cod from Wikipedia](https://en.wikipedia.org/wiki/Cod)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: CFish](http://www.talkchess.com/forum/viewtopic.php?t=61280&start=9) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), September 01, 2016
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Cfish/avx2-bitboard.h at master · syzygy1/Cfish · GitHub](https://github.com/syzygy1/Cfish/blob/master/src/avx2-bitboard.h)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [\_mm256_lzcnt_epi64](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#text=_mm256_lzcnt_epi64&expand=5560,5471,3497)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [\_mm256_ternarylogic_epi64](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#text=_mm256_ternarylogic_epi64&expand=5560,5471,3497,5873)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Cfish/nnue.c at master · syzygy1/Cfish · GitHub](https://github.com/syzygy1/Cfish/blob/master/src/nnue.c)
 
 **[Up one Level](Stockfish "Stockfish")**
 

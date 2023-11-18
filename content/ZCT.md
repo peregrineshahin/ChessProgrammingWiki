@@ -102,8 +102,8 @@ ZCT played [CCT10](CCT10 "CCT10") and [CCT11](CCT11 "CCT11") tournaments, the [A
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ZCT's home page](http://zct.sourceforge.net)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ZCT 0.3.2500 released](http://www.talkchess.com/forum/viewtopic.php?t=28212) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [CCC](CCC "CCC"), June 02, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ZCT's home page](http://zct.sourceforge.net)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ZCT 0.3.2500 released](http://www.talkchess.com/forum/viewtopic.php?t=28212) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [CCC](CCC "CCC"), June 02, 2009
 
 **[Up one level](Engines "Engines")**
 

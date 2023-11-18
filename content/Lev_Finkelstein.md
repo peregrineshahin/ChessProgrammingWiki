@@ -38,12 +38,12 @@ His research interests include [machine learning](Learning "Learning"), [artific
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image cropped from [Lev Finkelstein | LinkedIn](https://www.linkedin.com/in/lev-finkelstein-2836b3/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lev Finkelstein | LinkedIn](https://www.linkedin.com/in/lev-finkelstein-2836b3/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Lev Finkelstein (**2005**). *[Offline Scheduling of Anytime Algorithms](http://www.graduate.technion.ac.il/Theses/Abstracts.asp?Id=10988)*. Ph.D thesis, [Technion - Israel Institute of Technology](https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology), advisor [Shaul Markovitch](Shaul_Markovitch "Shaul Markovitch")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Man versus Machine: the Experiment](https://web.archive.org/web/20040901055908/http://www.cri.haifa.ac.il/events/2002/kasparov/finkelstein_abstract.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)), October 15-16, 2002, [University of Haifa](https://en.wikipedia.org/wiki/University_of_Haifa)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Lev Finkelstein](https://dblp.uni-trier.de/pers/hd/f/Finkelstein:Lev)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Publications of Shaul Markovitch Coauthored with](http://www.cs.technion.ac.il/%7Eshaulm/papers/coauthor/Lev-Finkelstein.html) Lev Finkelstein
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image cropped from [Lev Finkelstein | LinkedIn](https://www.linkedin.com/in/lev-finkelstein-2836b3/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lev Finkelstein | LinkedIn](https://www.linkedin.com/in/lev-finkelstein-2836b3/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Lev Finkelstein (**2005**). *[Offline Scheduling of Anytime Algorithms](http://www.graduate.technion.ac.il/Theses/Abstracts.asp?Id=10988)*. Ph.D thesis, [Technion - Israel Institute of Technology](https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology), advisor [Shaul Markovitch](Shaul_Markovitch "Shaul Markovitch")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Man versus Machine: the Experiment](https://web.archive.org/web/20040901055908/http://www.cri.haifa.ac.il/events/2002/kasparov/finkelstein_abstract.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)), October 15-16, 2002, [University of Haifa](https://en.wikipedia.org/wiki/University_of_Haifa)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Lev Finkelstein](https://dblp.uni-trier.de/pers/hd/f/Finkelstein:Lev)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Publications of Shaul Markovitch Coauthored with](http://www.cs.technion.ac.il/%7Eshaulm/papers/coauthor/Lev-Finkelstein.html) Lev Finkelstein
 
 **[Up one level](People "People")**
 

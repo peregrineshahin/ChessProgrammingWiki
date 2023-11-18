@@ -23,8 +23,8 @@ a chess program developed by [Charles Sullivan](index.php?title=Charles_Sullivan
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Red wolf from Wikipedia](https://en.wikipedia.org/wiki/Red_wolf)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Ben Mittman](Ben_Mittman "Ben Mittman"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1980**). *Computer chess at ACM 79: the tournament and the man vs. man and machine match*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 23, Issue 1, [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.Computer_chess_at_ACM_79/3-1%20and%203-2%20and%203-3.Computer_chess_at_ACM_79.062303018.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Red wolf from Wikipedia](https://en.wikipedia.org/wiki/Red_wolf)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ben Mittman](Ben_Mittman "Ben Mittman"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1980**). *Computer chess at ACM 79: the tournament and the man vs. man and machine match*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 23, Issue 1, [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.Computer_chess_at_ACM_79/3-1%20and%203-2%20and%203-3.Computer_chess_at_ACM_79.062303018.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](Engines "Engines")**
 

@@ -91,13 +91,13 @@ The Cray design used [pipeline parallelism](https://en.wikipedia.org/wiki/Pipeli
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Supercomputer designer Seymour Cray in front of his Cray-1 computer - CHM Revolution](http://www.computerhistory.org/revolution/supercomputers/10/7/3) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), 1976 ca., Courtesy of [Cray Research, Inc.](http://www.cray.com/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Cray-1 Supercomputer - CHM Revolution](http://www.computerhistory.org/revolution/supercomputers/10/7) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Cray-1 from Wikipedia](https://en.wikipedia.org/wiki/Cray-1)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Homebrew Cray-1A](http://www.chrisfenton.com/homebrew-cray-1a/) by [Chris Fenton](http://www.chrisfenton.com/)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Vector processor from Wikipedia](https://en.wikipedia.org/wiki/Vector_processor)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Homebrew Cray-1A](http://www.talkchess.com/forum/viewtopic.php?t=35947) by Max May, [CCC](CCC "CCC"), September 01, 2010
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [How fast was the Cray?](http://www.talkchess.com/forum/viewtopic.php?t=61504) by Sean Evans, [CCC](CCC "CCC"), September 23, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Supercomputer designer Seymour Cray in front of his Cray-1 computer - CHM Revolution](http://www.computerhistory.org/revolution/supercomputers/10/7/3) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), 1976 ca., Courtesy of [Cray Research, Inc.](http://www.cray.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Cray-1 Supercomputer - CHM Revolution](http://www.computerhistory.org/revolution/supercomputers/10/7) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Cray-1 from Wikipedia](https://en.wikipedia.org/wiki/Cray-1)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Homebrew Cray-1A](http://www.chrisfenton.com/homebrew-cray-1a/) by [Chris Fenton](http://www.chrisfenton.com/)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Vector processor from Wikipedia](https://en.wikipedia.org/wiki/Vector_processor)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Homebrew Cray-1A](http://www.talkchess.com/forum/viewtopic.php?t=35947) by Max May, [CCC](CCC "CCC"), September 01, 2010
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [How fast was the Cray?](http://www.talkchess.com/forum/viewtopic.php?t=61504) by Sean Evans, [CCC](CCC "CCC"), September 23, 2016
 
 **[Up one Level](Hardware "Hardware")**
 

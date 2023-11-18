@@ -98,10 +98,10 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Example](https://commons.wikimedia.org/wiki/File:Asymptote02_vectorial.svg) of a curve with its asymptote shows that the curve may intersect the asymptote, in this case an infinite amount of times, by Guillaume Jacquenot, March 20, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [asymptote/search.rs at master · malu/asymptote · GitHub](https://github.com/malu/asymptote/blob/master/src/search.rs)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Asymptote 0.5 (with SMP)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70387) by [Maximilian Lupke](Maximilian_Lupke "Maximilian Lupke"), [CCC](CCC "CCC"), April 02, 2019
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [asymptote/eval.rs at master · malu/asymptote · GitHub](https://github.com/malu/asymptote/blob/master/src/eval.rs)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Example](https://commons.wikimedia.org/wiki/File:Asymptote02_vectorial.svg) of a curve with its asymptote shows that the curve may intersect the asymptote, in this case an infinite amount of times, by Guillaume Jacquenot, March 20, 2013, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [asymptote/search.rs at master · malu/asymptote · GitHub](https://github.com/malu/asymptote/blob/master/src/search.rs)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Asymptote 0.5 (with SMP)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70387) by [Maximilian Lupke](Maximilian_Lupke "Maximilian Lupke"), [CCC](CCC "CCC"), April 02, 2019
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [asymptote/eval.rs at master · malu/asymptote · GitHub](https://github.com/malu/asymptote/blob/master/src/eval.rs)
 
 **[Up one level](Engines "Engines")**
 

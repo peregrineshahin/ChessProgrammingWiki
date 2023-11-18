@@ -44,15 +44,15 @@ an American computer scientist, programmer, consultant and author of books on [A
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mark Watson: Java, Clojure, and Ruby Consultant and Author](http://www.markwatson.com/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Mark Watson's Blog](http://radio-weblogs.com/0115954/2003/03/27.html), March 27, 2003
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [why doesn’t iTunes support Ogg sound files ‘out of the box’? | Mark Watson's Blog](http://blog.markwatson.com/2010/09/why-doesnt-itunes-support-ogg-sound-files-out-of-the-box/), September 9, 2010
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Larry Wagner](Larry_Wagner "Larry Wagner") (**1978**). *Results of First Microcomputer Chess Tournament*. [Silicon Gulch Gazette](http://www.computerhistory.org/collections/accession/102686281), Vol. 2, No. 4, May 10, 1978, pg. 9
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Mark Watson (**2008**). *Practical Artificial Intelligence Programming With Java*. Third Edition, [pdf](http://www.markwatson.com/opencontent_data/JavaAI3rd.pdf)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Java-AI-Book-Code/src at master · mark-watson/Java-AI-Book-Code · GitHub](https://github.com/mark-watson/Java-AI-Book-Code/tree/master/src)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Java-AI-Book-Code/src/search/game at master · mark-watson/Java-AI-Book-Code · GitHub](https://github.com/mark-watson/Java-AI-Book-Code/tree/master/src/search/game)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Java-AI-Book-Code/licenses-for-book-code at master · mark-watson/Java-AI-Book-Code · GitHub](https://github.com/mark-watson/Java-AI-Book-Code/tree/master/licenses-for-book-code)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Mark Watson's books on Java, Artificial Intelligence, Text Mining, Ruby, Common Lisp, Clojure, and C++](http://www.markwatson.com/books/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mark Watson: Java, Clojure, and Ruby Consultant and Author](http://www.markwatson.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mark Watson's Blog](http://radio-weblogs.com/0115954/2003/03/27.html), March 27, 2003
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [why doesn’t iTunes support Ogg sound files ‘out of the box’? | Mark Watson's Blog](http://blog.markwatson.com/2010/09/why-doesnt-itunes-support-ogg-sound-files-out-of-the-box/), September 9, 2010
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Larry Wagner](Larry_Wagner "Larry Wagner") (**1978**). *Results of First Microcomputer Chess Tournament*. [Silicon Gulch Gazette](http://www.computerhistory.org/collections/accession/102686281), Vol. 2, No. 4, May 10, 1978, pg. 9
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Mark Watson (**2008**). *Practical Artificial Intelligence Programming With Java*. Third Edition, [pdf](http://www.markwatson.com/opencontent_data/JavaAI3rd.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Java-AI-Book-Code/src at master · mark-watson/Java-AI-Book-Code · GitHub](https://github.com/mark-watson/Java-AI-Book-Code/tree/master/src)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Java-AI-Book-Code/src/search/game at master · mark-watson/Java-AI-Book-Code · GitHub](https://github.com/mark-watson/Java-AI-Book-Code/tree/master/src/search/game)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Java-AI-Book-Code/licenses-for-book-code at master · mark-watson/Java-AI-Book-Code · GitHub](https://github.com/mark-watson/Java-AI-Book-Code/tree/master/licenses-for-book-code)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Mark Watson's books on Java, Artificial Intelligence, Text Mining, Ruby, Common Lisp, Clojure, and C++](http://www.markwatson.com/books/)
 
 **[Up one level](People "People")**
 

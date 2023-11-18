@@ -49,9 +49,9 @@ Kg7 43.Re7 h2 44.Rfxf7+ Kg6 45.Rg7+ Kf5 46.Rgf7+ Kg6 47.Rg7+ Kf5 48.Rgf7+ Kg6
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Anne Marie Burton, [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1991**). *Report on the 1st International Paderborn Computer Chess Championship*. [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lars Bremer](Lars_Bremer "Lars Bremer") (**2005**). *Interview: GM Christopher Lutz*. [CSS Online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](http://computerschach.de/Files/2005/Interview:%20GM%20Christopher%20Lutz.pdf) (German)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Selected Games from Anne Marie Burton, [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1991**). *Report on the 1st International Paderborn Computer Chess Championship*. [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Anne Marie Burton, [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1991**). *Report on the 1st International Paderborn Computer Chess Championship*. [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lars Bremer](Lars_Bremer "Lars Bremer") (**2005**). *Interview: GM Christopher Lutz*. [CSS Online](Computerschach_und_Spiele "Computerschach und Spiele"), [pdf](http://computerschach.de/Files/2005/Interview:%20GM%20Christopher%20Lutz.pdf) (German)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Selected Games from Anne Marie Burton, [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1991**). *Report on the 1st International Paderborn Computer Chess Championship*. [ICCA Journal, Vol. 14, No. 4](ICGA_Journal#14_4 "ICGA Journal")
 
 **[Up one level](Engines "Engines")**
 

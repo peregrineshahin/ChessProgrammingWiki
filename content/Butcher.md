@@ -41,11 +41,11 @@ Butcher further played multiple [CCT Tournaments](CCT_Tournaments "CCT Tournamen
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Butcher's [Tacuinum Sanitatis](https://en.wikipedia.org/wiki/Tacuinum_Sanitatis) [Casanatensis](https://en.wikipedia.org/wiki/Biblioteca_Casanatense), This picture is showing a 14th century butcher doing his trade in a traditional manner - unknown master, [Butcher from Wikipedia](https://en.wikipedia.org/wiki/Butcher)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Rzeźnictwo from Wikipedia.pl](http://pl.wikipedia.org/wiki/Rze%C5%BAnictwo) (Polish)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [New Butcher](https://www.stmintz.com/ccc/index.php?id=190209) by [Grzegorz Sidorowicz](Grzegorz_Sidorowicz "Grzegorz Sidorowicz"), [CCC](CCC "CCC"), September 24, 2001
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Butcher's Homepage](http://markol4.republika.pl/) (expired link)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Maciej Szmit](Maciej_Szmit "Maciej Szmit") (**2006**). *The 5th Polish Computer-Chess Championship: The Second Comeback of Butcher*. [ICGA Journal, Vol. 29, No. 4](ICGA_Journal#29_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Butcher's [Tacuinum Sanitatis](https://en.wikipedia.org/wiki/Tacuinum_Sanitatis) [Casanatensis](https://en.wikipedia.org/wiki/Biblioteca_Casanatense), This picture is showing a 14th century butcher doing his trade in a traditional manner - unknown master, [Butcher from Wikipedia](https://en.wikipedia.org/wiki/Butcher)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Rzeźnictwo from Wikipedia.pl](http://pl.wikipedia.org/wiki/Rze%C5%BAnictwo) (Polish)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [New Butcher](https://www.stmintz.com/ccc/index.php?id=190209) by [Grzegorz Sidorowicz](Grzegorz_Sidorowicz "Grzegorz Sidorowicz"), [CCC](CCC "CCC"), September 24, 2001
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Butcher's Homepage](http://markol4.republika.pl/) (expired link)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Maciej Szmit](Maciej_Szmit "Maciej Szmit") (**2006**). *The 5th Polish Computer-Chess Championship: The Second Comeback of Butcher*. [ICGA Journal, Vol. 29, No. 4](ICGA_Journal#29_4 "ICGA Journal")
 
 **[Up one Level](Engines "Engines")**
 

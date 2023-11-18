@@ -117,11 +117,11 @@ A [Trébuchet](https://en.wikipedia.org/wiki/Zugzwang#Tr.C3.A9buchet) is an extr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [List of All Known Mutual Zugzwangs](http://chess.jaet.org/cgi-bin/mzugs)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Noam D. Elkies](Noam_Elkies "Noam Elkies") (**1999**). *On numbers and endgames: Combinatorial game theory in chess endgames*. [pdf](http://arxiv.org/PS_cache/math/pdf/9905/9905198v1.pdf), differs only in trivial stylistic details from the (**1996**) version published in [Games of No Chance](http://library.msri.org/books/Book29/index.html) edited by [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski"), [MSRI Publications Volume 29](http://www.msri.org/publications/books/Book29/index.html)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Zugzwang Test Suite ZPTS by Robert Allgeuer](http://www.talkchess.com/forum/viewtopic.php?t=51249) by Paul Henri, [CCC](CCC "CCC"), February 12, 2014
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Zugzwang Test Suite ZPTS - updated version and results of Fruit](https://www.stmintz.com/ccc/index.php?id=392369) by [Robert Allgeuer](index.php?title=Robert_Allgeuer&action=edit&redlink=1 "Robert Allgeuer (page does not exist)"), [CCC](CCC "CCC"), October 19, 2004
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [List of All Known Mutual Zugzwangs](http://chess.jaet.org/cgi-bin/mzugs)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Noam D. Elkies](Noam_Elkies "Noam Elkies") (**1999**). *On numbers and endgames: Combinatorial game theory in chess endgames*. [pdf](http://arxiv.org/PS_cache/math/pdf/9905/9905198v1.pdf), differs only in trivial stylistic details from the (**1996**) version published in [Games of No Chance](http://library.msri.org/books/Book29/index.html) edited by [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski"), [MSRI Publications Volume 29](http://www.msri.org/publications/books/Book29/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Zugzwang Test Suite ZPTS by Robert Allgeuer](http://www.talkchess.com/forum/viewtopic.php?t=51249) by Paul Henri, [CCC](CCC "CCC"), February 12, 2014
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Zugzwang Test Suite ZPTS - updated version and results of Fruit](https://www.stmintz.com/ccc/index.php?id=392369) by [Robert Allgeuer](index.php?title=Robert_Allgeuer&action=edit&redlink=1 "Robert Allgeuer (page does not exist)"), [CCC](CCC "CCC"), October 19, 2004
 
 **[Up one Level](Tactics "Tactics")**
 

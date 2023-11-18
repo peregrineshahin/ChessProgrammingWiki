@@ -44,15 +44,15 @@ A superior performance was achieved with an incremental approach, where the [mat
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Alan Blair's Home Page](http://www.cse.unsw.edu.au/~blair/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Alan Blair (**1994**). *Path Integrals on Ultrametric Spaces*. Ph.D. thesis, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), advisor [Gian-Carlo Rota](Mathematician#GCRota "Mathematician")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [UNSW - School of Computer Science and Engineering](http://www.cse.unsw.edu.au/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [computer-go.info - Details of Program: thcGo](http://www.computer-go.info/db/oprog.php?a=thcGo)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [24th KGS Computer Go Tournament](http://www.weddslist.com/kgs/past/24/)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Duchess™ make your own](http://www.cse.unsw.edu.au/~blair/duchess/make.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Welcome to the Duchess™ page!](http://www.cse.unsw.edu.au/~blair/duchess/)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Diogo Real](https://dblp.uni-trier.de/pers/hd/r/Real:Diogo), Alan Blair (**2016**). *[Learning a multi-player chess game with TreeStrap](https://ieeexplore.ieee.org/document/7743850/)*. [CEC 2016](https://dblp.uni-trier.de/db/conf/cec/cec2016.html)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [dblp: Alan Blair](https://dblp.uni-trier.de/pers/hd/b/Blair:Alan)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alan Blair's Home Page](http://www.cse.unsw.edu.au/~blair/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Alan Blair (**1994**). *Path Integrals on Ultrametric Spaces*. Ph.D. thesis, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), advisor [Gian-Carlo Rota](Mathematician#GCRota "Mathematician")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [UNSW - School of Computer Science and Engineering](http://www.cse.unsw.edu.au/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [computer-go.info - Details of Program: thcGo](http://www.computer-go.info/db/oprog.php?a=thcGo)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [24th KGS Computer Go Tournament](http://www.weddslist.com/kgs/past/24/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Duchess™ make your own](http://www.cse.unsw.edu.au/~blair/duchess/make.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Welcome to the Duchess™ page!](http://www.cse.unsw.edu.au/~blair/duchess/)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Diogo Real](https://dblp.uni-trier.de/pers/hd/r/Real:Diogo), Alan Blair (**2016**). *[Learning a multi-player chess game with TreeStrap](https://ieeexplore.ieee.org/document/7743850/)*. [CEC 2016](https://dblp.uni-trier.de/db/conf/cec/cec2016.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [dblp: Alan Blair](https://dblp.uni-trier.de/pers/hd/b/Blair:Alan)
 
 **[Up one level](People "People")**
 

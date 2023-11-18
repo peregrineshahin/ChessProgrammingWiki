@@ -129,14 +129,14 @@ Ulf Lorenz, [IPCCC 2000](IPCCC_2000 "IPCCC 2000") <a id="cite-note-5" href="#cit
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Prof. Dr. Ulf Lorenz | Betriebswirtschaftslehre - Uni Siegen](http://www.wiwi.uni-siegen.de/technologiemanagement/hp/lorenz/lorenz.html) (German)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Lehrstuhlteam | Betriebswirtschaftslehre (Prof. Dr. Ulf Lorenz)](http://www.wiwi.uni-siegen.de/technologiemanagement/lehrstuhlteam/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Ulf Lorenz (**2000**). *[Controlled Conspiracy Number Search](http://digital.ub.uni-paderborn.de/hs/content/titleinfo/2460)*. [Paderborn University](Paderborn_University "Paderborn University"), Dissertation, advisor [Burkhard Monien](Burkhard_Monien "Burkhard Monien") (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Thorsten Ederer](index.php?title=Thorsten_Ederer&action=edit&redlink=1 "Thorsten Ederer (page does not exist)"), Ulf Lorenz, [Thomas Opfer](index.php?title=Thomas_Opfer&action=edit&redlink=1 "Thomas Opfer (page does not exist)"), [Jan Wolf](index.php?title=Jan_Wolf&action=edit&redlink=1 "Jan Wolf (page does not exist)") (**2011**). *[Modeling Games with the Help of Quantified Integer Linear Programs](http://link.springer.com/chapter/10.1007/978-3-642-31866-5_23)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Photo from the former IPCCC 2000 Homepage
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Die Internationalen Paderborner Computerschachmeisterschaften](http://de.chessbase.com/post/die-internationalen-paderborner-computerschachmeisterschaften) by [Mathias Feist](Mathias_Feist "Mathias Feist"), [ChessBase Nachrichten](ChessBase "ChessBase"), February 17, 2004 (German)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [dblp: Ulf Lorenz](http://www.informatik.uni-trier.de/~ley/pers/hd/l/Lorenz:Ulf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Prof. Dr. Ulf Lorenz | Betriebswirtschaftslehre - Uni Siegen](http://www.wiwi.uni-siegen.de/technologiemanagement/hp/lorenz/lorenz.html) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lehrstuhlteam | Betriebswirtschaftslehre (Prof. Dr. Ulf Lorenz)](http://www.wiwi.uni-siegen.de/technologiemanagement/lehrstuhlteam/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Ulf Lorenz (**2000**). *[Controlled Conspiracy Number Search](http://digital.ub.uni-paderborn.de/hs/content/titleinfo/2460)*. [Paderborn University](Paderborn_University "Paderborn University"), Dissertation, advisor [Burkhard Monien](Burkhard_Monien "Burkhard Monien") (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Thorsten Ederer](index.php?title=Thorsten_Ederer&action=edit&redlink=1 "Thorsten Ederer (page does not exist)"), Ulf Lorenz, [Thomas Opfer](index.php?title=Thomas_Opfer&action=edit&redlink=1 "Thomas Opfer (page does not exist)"), [Jan Wolf](index.php?title=Jan_Wolf&action=edit&redlink=1 "Jan Wolf (page does not exist)") (**2011**). *[Modeling Games with the Help of Quantified Integer Linear Programs](http://link.springer.com/chapter/10.1007/978-3-642-31866-5_23)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo from the former IPCCC 2000 Homepage
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Die Internationalen Paderborner Computerschachmeisterschaften](http://de.chessbase.com/post/die-internationalen-paderborner-computerschachmeisterschaften) by [Mathias Feist](Mathias_Feist "Mathias Feist"), [ChessBase Nachrichten](ChessBase "ChessBase"), February 17, 2004 (German)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [dblp: Ulf Lorenz](http://www.informatik.uni-trier.de/~ley/pers/hd/l/Lorenz:Ulf)
 
 **[Up one level](People "People")**
 

@@ -77,10 +77,10 @@ Integer to Double conversion can be used as base 2 logarithm of a power of two v
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Calling conventions for different C++ compilers and operating systems](http://www.agner.org/optimize/calling_conventions.pdf) (pdf) by [Agner Fog](http://www.agner.org/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AMD64 ArchitectureProgrammer’s Manual Volume 5: 64-Bit Media and x87 Floating-Point Instructions](http://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/26569.pdf)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [AMD64 Architecture, Programmer’s Manual, Volume 4: 128-Bit and 256-Bit Media Instructions](https://support.amd.com/TechDocs/26568.pdf) (pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Floating-Point Intrinsics Using Streaming SIMD Extensions 2 Instructions](http://msdn.microsoft.com/en-us/library/9b07190d%28v=VS.100%29.aspx)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Calling conventions for different C++ compilers and operating systems](http://www.agner.org/optimize/calling_conventions.pdf) (pdf) by [Agner Fog](http://www.agner.org/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AMD64 ArchitectureProgrammer’s Manual Volume 5: 64-Bit Media and x87 Floating-Point Instructions](http://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/26569.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [AMD64 Architecture, Programmer’s Manual, Volume 4: 128-Bit and 256-Bit Media Instructions](https://support.amd.com/TechDocs/26568.pdf) (pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Floating-Point Intrinsics Using Streaming SIMD Extensions 2 Instructions](http://msdn.microsoft.com/en-us/library/9b07190d%28v=VS.100%29.aspx)
 
 **[Up one Level](Data "Data")**
 

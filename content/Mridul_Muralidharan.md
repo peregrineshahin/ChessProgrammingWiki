@@ -42,10 +42,10 @@ He holds a [Bachelor of Technology](https://en.wikipedia.org/wiki/Bachelor_of_Te
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mridul Muralidharan - LinkedIn](https://www.linkedin.com/in/mridulm/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [MessChess](http://www.geocities.ws/mridulm80/messchess.htm)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Subject: Most brilliant novelty from cct7 Witchess-Arasan](https://www.stmintz.com/ccc/index.php?id=411398) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), February 14, 2005
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Mridul Muralidharan](https://dblp.org/pers/hd/m/Muralidharan:Mridul)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mridul Muralidharan - LinkedIn](https://www.linkedin.com/in/mridulm/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [MessChess](http://www.geocities.ws/mridulm80/messchess.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Subject: Most brilliant novelty from cct7 Witchess-Arasan](https://www.stmintz.com/ccc/index.php?id=411398) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), February 14, 2005
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Mridul Muralidharan](https://dblp.org/pers/hd/m/Muralidharan:Mridul)
 
 **[Up one level](People "People")**
 

@@ -32,8 +32,8 @@ After he retired from occupation, he has developed the native computer chess pro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Home of the Warlord](http://www.vrichey.de/warlord/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [O88 chess](http://www.talkchess.com/forum/viewtopic.php?t=22316) by William H. Rogers, [CCC](CCC "CCC"), July 12, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Home of the Warlord](http://www.vrichey.de/warlord/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [O88 chess](http://www.talkchess.com/forum/viewtopic.php?t=22316) by William H. Rogers, [CCC](CCC "CCC"), July 12, 2008
 
 **[Up one level](People "People")**
 

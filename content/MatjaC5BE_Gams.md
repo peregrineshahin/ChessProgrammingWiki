@@ -63,14 +63,14 @@ a Slovenian computer scientist and researcher in [artificial intelligence](Artif
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Matjaz Gams - Home Page](https://dis.ijs.si/Mezi/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Department of Intelligent systems](https://dis.ijs.si/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Matjaz Gams - Home Page - positions](https://dis.ijs.si/Mezi/MG3positions.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Matjaz Gams](https://dblp.uni-trier.de/pers/hd/g/Gams:Matjaz)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Weak AI from Wikipedia](https://en.wikipedia.org/wiki/Weak_AI)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Charles E. M. Dunlop](https://www.biblio.com/dunlop-charles-e-m/author/1216693) (**2000**). *Book Review 'Mind Versus Computer'* . [Minds and Machines](https://link.springer.com/journal/11023), Vol. 10, No. 2
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> Matjaž Gams (**2002**). *[The Turing machine may not be the universal machine](https://link.springer.com/article/10.1023%2FA%3A1013746105950)*. [Minds and Machines](https://link.springer.com/journal/11023), Vol. 12, No. 1
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Matjaz Gams - Home Page](https://dis.ijs.si/Mezi/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Department of Intelligent systems](https://dis.ijs.si/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Matjaz Gams - Home Page - positions](https://dis.ijs.si/Mezi/MG3positions.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Matjaz Gams](https://dblp.uni-trier.de/pers/hd/g/Gams:Matjaz)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Weak AI from Wikipedia](https://en.wikipedia.org/wiki/Weak_AI)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Charles E. M. Dunlop](https://www.biblio.com/dunlop-charles-e-m/author/1216693) (**2000**). *Book Review 'Mind Versus Computer'* . [Minds and Machines](https://link.springer.com/journal/11023), Vol. 10, No. 2
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Matjaž Gams (**2002**). *[The Turing machine may not be the universal machine](https://link.springer.com/article/10.1023%2FA%3A1013746105950)*. [Minds and Machines](https://link.springer.com/journal/11023), Vol. 12, No. 1
 
 **[Up one level](People "People")**
 

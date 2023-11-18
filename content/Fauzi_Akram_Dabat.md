@@ -33,10 +33,10 @@ In August 2015, [Stockfish 6](Stockfish "Stockfish") by [Marco Costalba](Marco_C
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Fauzi, Akram FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=8102651)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fauzi's Opening Books](http://www.g-sei.org/wp-content/Users/Fauzi/fauzi.html) by Fauzi Akram Dabat
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [THE SSDF RATING LIST 2015-08-13](http://www.talkchess.com/forum/viewtopic.php?t=57260) by [Lars Sandin](index.php?title=Lars_Sandin&action=edit&redlink=1 "Lars Sandin (page does not exist)"), [CCC](CCC "CCC"), August 13, 2015
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Comments to the Swedish Rating List 2/2015](http://ssdf.bosjo.net/comment.htm) by [Lars Sandin](index.php?title=Lars_Sandin&action=edit&redlink=1 "Lars Sandin (page does not exist)"), [SSDF](SSDF "SSDF"), August 13, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Fauzi, Akram FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=8102651)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fauzi's Opening Books](http://www.g-sei.org/wp-content/Users/Fauzi/fauzi.html) by Fauzi Akram Dabat
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [THE SSDF RATING LIST 2015-08-13](http://www.talkchess.com/forum/viewtopic.php?t=57260) by [Lars Sandin](index.php?title=Lars_Sandin&action=edit&redlink=1 "Lars Sandin (page does not exist)"), [CCC](CCC "CCC"), August 13, 2015
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Comments to the Swedish Rating List 2/2015](http://ssdf.bosjo.net/comment.htm) by [Lars Sandin](index.php?title=Lars_Sandin&action=edit&redlink=1 "Lars Sandin (page does not exist)"), [SSDF](SSDF "SSDF"), August 13, 2015
 
 **[Up one level](People "People")**
 

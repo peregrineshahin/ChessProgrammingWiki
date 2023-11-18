@@ -60,12 +60,12 @@ a Polish computer scientist, mathematician, and full professor at Faculty of Mat
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Prof. Jacek Mańdziuk](http://www.mini.pw.edu.pl/~mandziuk/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Prof. Jacek Mańdziuk | Biography](http://www.mini.pw.edu.pl/~mandziuk/#page_content-02_biography)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Prof. Jacek Mańdziuk | Publications](http://www.mini.pw.edu.pl/~mandziuk/#page_content-05_publications)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [DBLP: Jacek Mandziuk](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Mandziuk:Jacek.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Hopfield network from Wikipedia](https://en.wikipedia.org/wiki/Hopfield_network)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Giveaway Checkers Rules](http://www.boardgamecentral.com/rules/checkers-rules-giveaway.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Prof. Jacek Mańdziuk](http://www.mini.pw.edu.pl/~mandziuk/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Prof. Jacek Mańdziuk | Biography](http://www.mini.pw.edu.pl/~mandziuk/#page_content-02_biography)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Prof. Jacek Mańdziuk | Publications](http://www.mini.pw.edu.pl/~mandziuk/#page_content-05_publications)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [DBLP: Jacek Mandziuk](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Mandziuk:Jacek.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Hopfield network from Wikipedia](https://en.wikipedia.org/wiki/Hopfield_network)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Giveaway Checkers Rules](http://www.boardgamecentral.com/rules/checkers-rules-giveaway.html)
 
 **[Up one level](People "People")**
 

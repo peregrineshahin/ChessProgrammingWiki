@@ -48,12 +48,12 @@ such as [evolutionary computation](Genetic_Programming#EvolutionaryComputation "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Paweł Liskowski - Google Scholar Citations](https://scholar.google.com/citations?user=qmcgLRoAAAAJ&hl=en)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Paweł Liskowski | Institute of Computing Science](http://www.cs.put.poznan.pl/pliskowski/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Paweł Liskowski (**2012**). *Co-evolution versus Evolution with Random Sampling for Acquiring Othello Position Evaluation*. master's thesis, [Poznań University of Technology](https://en.wikipedia.org/wiki/Pozna%C5%84_University_of_Technology), supervisor [Wojciech Jaśkowski](Wojciech_Ja%C5%9Bkowski "Wojciech Jaśkowski"), [pdf](http://www.cs.put.poznan.pl/wjaskowski/pub/var/pliskowski_msc.pdf)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [dblp: Pawel Liskowski](https://dblp.uni-trier.de/pers/hd/l/Liskowski:Pawel.html)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Paweł Liskowski | Publications](http://www.cs.put.poznan.pl/pliskowski/publications/)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Edax](https://en.wikipedia.org/wiki/Edax_(computing)) by [Richard Delorme](Richard_Delorme "Richard Delorme")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paweł Liskowski - Google Scholar Citations](https://scholar.google.com/citations?user=qmcgLRoAAAAJ&hl=en)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Paweł Liskowski | Institute of Computing Science](http://www.cs.put.poznan.pl/pliskowski/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Paweł Liskowski (**2012**). *Co-evolution versus Evolution with Random Sampling for Acquiring Othello Position Evaluation*. master's thesis, [Poznań University of Technology](https://en.wikipedia.org/wiki/Pozna%C5%84_University_of_Technology), supervisor [Wojciech Jaśkowski](Wojciech_Ja%C5%9Bkowski "Wojciech Jaśkowski"), [pdf](http://www.cs.put.poznan.pl/wjaskowski/pub/var/pliskowski_msc.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [dblp: Pawel Liskowski](https://dblp.uni-trier.de/pers/hd/l/Liskowski:Pawel.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Paweł Liskowski | Publications](http://www.cs.put.poznan.pl/pliskowski/publications/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Edax](https://en.wikipedia.org/wiki/Edax_(computing)) by [Richard Delorme](Richard_Delorme "Richard Delorme")
 
 **[Up one level](People "People")**
 

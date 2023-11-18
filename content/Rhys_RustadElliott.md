@@ -28,8 +28,8 @@ On his blog, Rhys Rustad-Elliott gave an excellent description of [Magic Bitboar
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Rhys Rustad-Elliott - About](https://rhysre.net/pages/about.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Fast Chess Move Generation With Magic Bitboards](https://rhysre.net/fast-chess-move-generation-with-magic-bitboards.html) by Rhys Rustad-Elliott, January 15, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rhys Rustad-Elliott - About](https://rhysre.net/pages/about.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fast Chess Move Generation With Magic Bitboards](https://rhysre.net/fast-chess-move-generation-with-magic-bitboards.html) by Rhys Rustad-Elliott, January 15, 2019
 
 **[Up one level](People "People")**
 

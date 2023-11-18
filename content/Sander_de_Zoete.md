@@ -28,9 +28,9 @@ a Dutch industrial manager and engineer, holding a M.Sc. from [University of Twe
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Photo from [2nd CSVN-Tournament 2002 Gallery](http://old.csvn.nl/gallery16.html), [ICT 2002](ICT_2002 "ICT 2002")
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Samuel (Sander) de Zoete | LinkedIn](https://www.linkedin.com/in/sanderdezoete/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Reverse Bitboards](https://www.stmintz.com/ccc/index.php?id=276884) by Sander de Zoete, [CCC](CCC "CCC"), January 13, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo from [2nd CSVN-Tournament 2002 Gallery](http://old.csvn.nl/gallery16.html), [ICT 2002](ICT_2002 "ICT 2002")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Samuel (Sander) de Zoete | LinkedIn](https://www.linkedin.com/in/sanderdezoete/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Reverse Bitboards](https://www.stmintz.com/ccc/index.php?id=276884) by Sander de Zoete, [CCC](CCC "CCC"), January 13, 2003
 
 **[Up one level](People "People")**
 

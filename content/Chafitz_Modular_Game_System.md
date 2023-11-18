@@ -57,11 +57,11 @@ The Chafitz Modular Game System with the Sargon 2.5 program incorporated, partic
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Flickr - Fotosharing | MGS With Sargon 2.5 Module5](http://www.flickr.com/photos/10261668@N05/858171243/in/set-72157600923816639/) hosted by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Harry Shershow](Harry_Shershow "Harry Shershow") (**1981**). *Two New Units In Action*. [Personal Computing, Vol. 5, No. 2](Personal_Computing#5_2 "Personal Computing"), pp. 91 » [John Aker](John_Aker "John Aker"), [MCC 1980](MCC_1980 "MCC 1980")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Applied Concepts - Borchek (championship checkers module)](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1980%20%5BK-1001%5D%20Applied%20Concepts%20-%20Borchek%20%28championship%20checkers%20module%29.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Chafitz/Applied Concepts/Destiny | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600923816639/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Flickr - Fotosharing | MGS With Sargon 2.5 Module5](http://www.flickr.com/photos/10261668@N05/858171243/in/set-72157600923816639/) hosted by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Harry Shershow](Harry_Shershow "Harry Shershow") (**1981**). *Two New Units In Action*. [Personal Computing, Vol. 5, No. 2](Personal_Computing#5_2 "Personal Computing"), pp. 91 » [John Aker](John_Aker "John Aker"), [MCC 1980](MCC_1980 "MCC 1980")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Applied Concepts - Borchek (championship checkers module)](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1980%20%5BK-1001%5D%20Applied%20Concepts%20-%20Borchek%20%28championship%20checkers%20module%29.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") (**1980**). *World Microcomputer Chess Championship*. [Personal Computer World](https://en.wikipedia.org/wiki/Personal_Computer_World), [November 1980](http://www.chesscomputeruk.com/html/publication_archive.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chafitz/Applied Concepts/Destiny | Photo collection](http://www.flickr.com/photos/10261668@N05/sets/72157600923816639/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
 
 **[Up one level](Module "Module")**
 

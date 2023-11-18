@@ -54,9 +54,9 @@ Huberman's program is the only one which can perform this mating sequence for an
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Countermove Heuristic*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 15, No. 1, pp. 8, The killer heuristic
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Alex Bell](Alex_Bell "Alex Bell") (**1972**). *[Games Playing with Computers](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/overview.htm)*. [Allen & Unwin](https://en.wikipedia.org/wiki/Allen_%26_Unwin), ISBN-13: 978-0080212227, [Chess programs: Huberman](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/p005.htm#index19)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [John McCarthy](John_McCarthy "John McCarthy") (**1997**). *Chess as the Drosophila of AI*. Computer Science Department, [Stanford University](Stanford_University "Stanford University"), condensed version of the 1990 paper, [pdf](http://innovation.it.uts.edu.au/projectjmc/articles/drosophila/drosophila.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Countermove Heuristic*. [ICCA Journal](ICGA_Journal "ICGA Journal"), Vol. 15, No. 1, pp. 8, The killer heuristic
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Alex Bell](Alex_Bell "Alex Bell") (**1972**). *[Games Playing with Computers](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/overview.htm)*. [Allen & Unwin](https://en.wikipedia.org/wiki/Allen_%26_Unwin), ISBN-13: 978-0080212227, [Chess programs: Huberman](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/p005.htm#index19)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [John McCarthy](John_McCarthy "John McCarthy") (**1997**). *Chess as the Drosophila of AI*. Computer Science Department, [Stanford University](Stanford_University "Stanford University"), condensed version of the 1990 paper, [pdf](http://innovation.it.uts.edu.au/projectjmc/articles/drosophila/drosophila.pdf)
 
 **[Up one Level](Engines "Engines")**
 

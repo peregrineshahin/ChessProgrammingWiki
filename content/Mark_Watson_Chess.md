@@ -13,9 +13,9 @@ an early chess program written in 1977/78 by [Mark Watson](Mark_Watson "Mark Wat
 
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mark Watson's Blog](http://radio-weblogs.com/0115954/2003/03/27.html), March 27, 2003
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [why doesn’t iTunes support Ogg sound files ‘out of the box’? | Mark Watson's Blog](http://blog.markwatson.com/2010/09/why-doesnt-itunes-support-ogg-sound-files-out-of-the-box/), September 9, 2010
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Larry Wagner](Larry_Wagner "Larry Wagner") (**1978**). *Results of First Microcomputer Chess Tournament*. [Silicon Gulch Gazette](http://www.computerhistory.org/collections/accession/102686281), Vol. 2, No. 4, May 10, 1978, pg. 9
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mark Watson's Blog](http://radio-weblogs.com/0115954/2003/03/27.html), March 27, 2003
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [why doesn’t iTunes support Ogg sound files ‘out of the box’? | Mark Watson's Blog](http://blog.markwatson.com/2010/09/why-doesnt-itunes-support-ogg-sound-files-out-of-the-box/), September 9, 2010
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Larry Wagner](Larry_Wagner "Larry Wagner") (**1978**). *Results of First Microcomputer Chess Tournament*. [Silicon Gulch Gazette](http://www.computerhistory.org/collections/accession/102686281), Vol. 2, No. 4, May 10, 1978, pg. 9
 
 **[Up one Level](Engines "Engines")**
 

@@ -80,12 +80,12 @@ Phalanx is my hobby project. It started in March 1997. It's developed under [Lin
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> An [EDSITEment-reconstructed](http://edsitement.neh.gov/edsitements-persian-wars-resource-pages#node-20463) Greek phalanx based on sources from [The Perseus Project](https://en.wikipedia.org/wiki/Perseus_Project), [Phalanx formation from Wikipedia](https://en.wikipedia.org/wiki/Phalanx_formation)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Phalanx is dead?](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/a56fb4fa7b0d427b) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 27, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Phalanx XXII - Reborn](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/3819371b750533f1#) by [José de Paula Rodrigues](index.php?title=Jos%C3%A9_de_Paula_Rodrigues&action=edit&redlink=1 "José de Paula Rodrigues (page does not exist)"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 19, 2006
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [José de Paula](http://sourceforge.net/users/espinafre/) from [SourceForge.net](http://sourceforge.net/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Phalanx XXIII](http://www.talkchess.com/forum/viewtopic.php?t=54098) by [Dušan Dobeš](Du%C5%A1an_Dobe%C5%A1 "Dušan Dobeš"), [CCC](CCC "CCC"), October 20, 2014
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Phalanx ?](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/7ab1751bddacb97a#) by [Dušan Dobeš](Du%C5%A1an_Dobe%C5%A1 "Dušan Dobeš"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), July 16, 1998
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> An [EDSITEment-reconstructed](http://edsitement.neh.gov/edsitements-persian-wars-resource-pages#node-20463) Greek phalanx based on sources from [The Perseus Project](https://en.wikipedia.org/wiki/Perseus_Project), [Phalanx formation from Wikipedia](https://en.wikipedia.org/wiki/Phalanx_formation)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Phalanx is dead?](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/a56fb4fa7b0d427b) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 27, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Phalanx XXII - Reborn](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/3819371b750533f1#) by [José de Paula Rodrigues](index.php?title=Jos%C3%A9_de_Paula_Rodrigues&action=edit&redlink=1 "José de Paula Rodrigues (page does not exist)"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 19, 2006
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [José de Paula](http://sourceforge.net/users/espinafre/) from [SourceForge.net](http://sourceforge.net/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Phalanx XXIII](http://www.talkchess.com/forum/viewtopic.php?t=54098) by [Dušan Dobeš](Du%C5%A1an_Dobe%C5%A1 "Dušan Dobeš"), [CCC](CCC "CCC"), October 20, 2014
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Phalanx ?](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/7ab1751bddacb97a#) by [Dušan Dobeš](Du%C5%A1an_Dobe%C5%A1 "Dušan Dobeš"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), July 16, 1998
 
 **[Up one Level](Engines "Engines")**
 

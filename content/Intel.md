@@ -179,12 +179,12 @@ an American global technology company and the world's largest [semiconductor](ht
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Intel headquarters at 2200 Mission College Boulevard in [Santa Clara, California](https://en.wikipedia.org/wiki/Santa_Clara,_California). The objects on the roof are wind microturbines installed in May 2015 as part of a green energy project. Photographed by [user Coolcaesar](https://commons.wikimedia.org/wiki/User:Coolcaesar) on April 29, 2017, [Intel Corporation from Wikipedia](https://en.wikipedia.org/wiki/Intel_Corporation), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Intel Corporation from Wikipedia](https://en.wikipedia.org/wiki/Intel_Corporation)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [50 years ago - Intel 4004](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78667) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), November 15, 2021
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Bar-Ilan University - World Computer Chess Championship 2004](http://www.cs.biu.ac.il/games/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [List of Intel CPU microarchitectures from Wikipedia](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Advanced Matrix Extension (AMX) - x86 - WikiChip](https://en.wikichip.org/wiki/x86/amx)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Intel headquarters at 2200 Mission College Boulevard in [Santa Clara, California](https://en.wikipedia.org/wiki/Santa_Clara,_California). The objects on the roof are wind microturbines installed in May 2015 as part of a green energy project. Photographed by [user Coolcaesar](https://commons.wikimedia.org/wiki/User:Coolcaesar) on April 29, 2017, [Intel Corporation from Wikipedia](https://en.wikipedia.org/wiki/Intel_Corporation), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Intel Corporation from Wikipedia](https://en.wikipedia.org/wiki/Intel_Corporation)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [50 years ago - Intel 4004](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78667) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), November 15, 2021
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Bar-Ilan University - World Computer Chess Championship 2004](http://www.cs.biu.ac.il/games/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [List of Intel CPU microarchitectures from Wikipedia](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Advanced Matrix Extension (AMX) - x86 - WikiChip](https://en.wikichip.org/wiki/x86/amx)
 
 **[Up one Level](Organizations "Organizations")**
 

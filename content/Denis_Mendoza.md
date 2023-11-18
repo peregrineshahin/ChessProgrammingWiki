@@ -42,10 +42,10 @@ Denis also served as [book author](Category:Opening_Book_Author "Category:Openin
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chris Wirth's endgame tablebases](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=2923) by Denis P. Mendoza, [CCRL Endgame Tablebases](Computer_Chess_Forums "Computer Chess Forums"), December 13, 2007 » [Chessterfield](Chessterfield "Chessterfield")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [About Me - Denis Mendoza's Computer Chess Projects](https://web.archive.org/web/20120921072218/http://computerchessengines.webs.com/aboutme.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Other Chess engines - Denis Mendoza's Computer Chess Projects](https://web.archive.org/web/20120921024643/http://computerchessengines.webs.com/otherchessengines.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Toga chess engine - Denis Mendoza's Computer Chess Projects](https://web.archive.org/web/20120921003044/http://computerchessengines.webs.com/togachessengine.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chris Wirth's endgame tablebases](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=6&t=2923) by Denis P. Mendoza, [CCRL Endgame Tablebases](Computer_Chess_Forums "Computer Chess Forums"), December 13, 2007 » [Chessterfield](Chessterfield "Chessterfield")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [About Me - Denis Mendoza's Computer Chess Projects](https://web.archive.org/web/20120921072218/http://computerchessengines.webs.com/aboutme.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Other Chess engines - Denis Mendoza's Computer Chess Projects](https://web.archive.org/web/20120921024643/http://computerchessengines.webs.com/otherchessengines.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Toga chess engine - Denis Mendoza's Computer Chess Projects](https://web.archive.org/web/20120921003044/http://computerchessengines.webs.com/togachessengine.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](People "People")**
 

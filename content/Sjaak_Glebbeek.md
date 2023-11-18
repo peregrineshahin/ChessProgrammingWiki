@@ -150,14 +150,14 @@ Sjaak's static [evaluation](Evaluation "Evaluation") takes [material balance](Ma
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Sjaak](https://en.wikipedia.org/wiki/Sjaak) - Dutch [given name](Category:Given_Name "Category:Given Name") derived from [Jacob](https://en.wikipedia.org/wiki/Jacob_%28name%29), pronunciation similar to [Schaak](http://nl.wikipedia.org/wiki/Schaak)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Re: New Spartan-Chess engine: Sjaak](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=389447&t=37713) by [Vladimir Xern](index.php?title=Vladimir_Xern&action=edit&redlink=1 "Vladimir Xern (page does not exist)"), [CCC](CCC "CCC"), January 21, 2011
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [SjaakII 1.0.0](http://www.talkchess.com/forum/viewtopic.php?t=55705) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), March 18, 2015
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Shogi](http://www.talkchess.com/forum/viewtopic.php?t=54092) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), October 20, 2014
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [\_\_int128 - Using the GNU Compiler Collection (GCC)](https://gcc.gnu.org/onlinedocs/gcc-4.7.3/gcc/_005f_005fint128.html#g_t_005f_005fint128)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Chess (Jazz & Sjaak) design](http://www.eglebbk.dds.nl/program/chess-design.html)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Chess (Jazz & Sjaak) search](http://www.eglebbk.dds.nl/program/chess-search.html)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chess (Jazz & Sjaak) evaluation](http://www.eglebbk.dds.nl/program/chess-eval.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Sjaak](https://en.wikipedia.org/wiki/Sjaak) - Dutch [given name](Category:Given_Name "Category:Given Name") derived from [Jacob](https://en.wikipedia.org/wiki/Jacob_%28name%29), pronunciation similar to [Schaak](http://nl.wikipedia.org/wiki/Schaak)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: New Spartan-Chess engine: Sjaak](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=389447&t=37713) by [Vladimir Xern](index.php?title=Vladimir_Xern&action=edit&redlink=1 "Vladimir Xern (page does not exist)"), [CCC](CCC "CCC"), January 21, 2011
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [SjaakII 1.0.0](http://www.talkchess.com/forum/viewtopic.php?t=55705) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), March 18, 2015
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Shogi](http://www.talkchess.com/forum/viewtopic.php?t=54092) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), October 20, 2014
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [\_\_int128 - Using the GNU Compiler Collection (GCC)](https://gcc.gnu.org/onlinedocs/gcc-4.7.3/gcc/_005f_005fint128.html#g_t_005f_005fint128)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Chess (Jazz & Sjaak) design](http://www.eglebbk.dds.nl/program/chess-design.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chess (Jazz & Sjaak) search](http://www.eglebbk.dds.nl/program/chess-search.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chess (Jazz & Sjaak) evaluation](http://www.eglebbk.dds.nl/program/chess-eval.html)
 
 **[Up one level](Engines "Engines")**
 

@@ -29,7 +29,7 @@ an American computer magazine published by [Ziff Davis](https://en.wikipedia.org
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [PC Magazine from Wikipedia](https://en.wikipedia.org/wiki/PC_Magazine)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [PC Magazine from Wikipedia](https://en.wikipedia.org/wiki/PC_Magazine)
 
 **[Up one Level](Periodical "Periodical")**
 

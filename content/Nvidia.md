@@ -83,7 +83,7 @@ supported by their [CUDA](https://en.wikipedia.org/wiki/CUDA) (Compute Unified D
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Nvidia headquarters in Santa Clara, California. Photographed by [Coolcaesar](https://commons.wikimedia.org/wiki/User:Coolcaesar), August 4, 2018, [Nvidia from Wikipedia](https://en.wikipedia.org/wiki/Nvidia)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Nvidia headquarters in Santa Clara, California. Photographed by [Coolcaesar](https://commons.wikimedia.org/wiki/User:Coolcaesar), August 4, 2018, [Nvidia from Wikipedia](https://en.wikipedia.org/wiki/Nvidia)
 
 **[Up one Level](Organizations "Organizations")**
 

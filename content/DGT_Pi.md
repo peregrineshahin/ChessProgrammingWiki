@@ -49,13 +49,13 @@ a dedicated chess computer expansion hardware by [Digital Game Technology](index
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Image captured and clipped from the [topschach](https://www.topschach.de/index.php?language=en&osCsid=ff3jqqnmhsha0ipibs22u21h06) [video](DGT_Pi#Video "DGT Pi")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [DGT Pi - Chess Computer for DGT e-Boards - Digital Game Technology](http://www.digitalgametechnology.com/index.php/products/revelation-ii/533-dgt-pi-chess-computer-for-dgt-e-boards)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Can I use DGT Pi without a DGT e-Board? - Digital Game Technology](http://www.digitalgametechnology.com/index.php/support1/frequently-asked-questions/385-chess-computers-faq/dgt-pi/537-can-i-use-dgt-pi-without-a-dgt-e-board)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [user-manual-english.pdf](http://www.digitalgametechnology.com/index.php/support1/manuals/chess-computer-manuals/dgt-pi/382-dgt-pi-user-manual-english/file) - Thanks to the contributors, pp. 19
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Free Software — PicoChess 0.24 documentation](http://docs.picochess.org/en/latest/source.html#project-licence-and-philosophy)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> The [manual](http://www.digitalgametechnology.com/index.php/support1/manuals/chess-computer-manuals/dgt-pi/382-dgt-pi-user-manual-english/file) is based on the DGT Pi [PicoChess](PicoChess "PicoChess") software version 0.75. Free upgrades of implemented features and supported engines will be made available from time to time and such future software versions and new features may not be covered by this manual
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Wasp 3.60 available (for DGT Pi too, for chess computer lovers)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70444) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), April 07, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image captured and clipped from the [topschach](https://www.topschach.de/index.php?language=en&osCsid=ff3jqqnmhsha0ipibs22u21h06) [video](DGT_Pi#Video "DGT Pi")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [DGT Pi - Chess Computer for DGT e-Boards - Digital Game Technology](http://www.digitalgametechnology.com/index.php/products/revelation-ii/533-dgt-pi-chess-computer-for-dgt-e-boards)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Can I use DGT Pi without a DGT e-Board? - Digital Game Technology](http://www.digitalgametechnology.com/index.php/support1/frequently-asked-questions/385-chess-computers-faq/dgt-pi/537-can-i-use-dgt-pi-without-a-dgt-e-board)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [user-manual-english.pdf](http://www.digitalgametechnology.com/index.php/support1/manuals/chess-computer-manuals/dgt-pi/382-dgt-pi-user-manual-english/file) - Thanks to the contributors, pp. 19
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Free Software — PicoChess 0.24 documentation](http://docs.picochess.org/en/latest/source.html#project-licence-and-philosophy)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> The [manual](http://www.digitalgametechnology.com/index.php/support1/manuals/chess-computer-manuals/dgt-pi/382-dgt-pi-user-manual-english/file) is based on the DGT Pi [PicoChess](PicoChess "PicoChess") software version 0.75. Free upgrades of implemented features and supported engines will be made available from time to time and such future software versions and new features may not be covered by this manual
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Wasp 3.60 available (for DGT Pi too, for chess computer lovers)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70444) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), April 07, 2019
 
 **[Up one level](Dedicated_Chess_Computers "Dedicated Chess Computers")**
 

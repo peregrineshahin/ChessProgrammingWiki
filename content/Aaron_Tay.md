@@ -24,9 +24,9 @@ He wrote computer chess articles on various topics <a id="cite-note-2" href="#ci
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Aaron Tay's Page - Library 2.0](https://www.library20.com/profiles/profile/show?id=AaronTay&xg_source=activity)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Chess engines articles by Aaron Tay](http://www.horizonchess.com/FAQ/Winboard/article.html), hosted by [Ron Murawski](Ron_Murawski "Ron Murawski")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [FAQ on Winboard and Chess Engines](http://www.horizonchess.com/FAQ/Winboard/index.html) is by [Ron Murawski](Ron_Murawski "Ron Murawski")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Aaron Tay's Page - Library 2.0](https://www.library20.com/profiles/profile/show?id=AaronTay&xg_source=activity)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess engines articles by Aaron Tay](http://www.horizonchess.com/FAQ/Winboard/article.html), hosted by [Ron Murawski](Ron_Murawski "Ron Murawski")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [FAQ on Winboard and Chess Engines](http://www.horizonchess.com/FAQ/Winboard/index.html) is by [Ron Murawski](Ron_Murawski "Ron Murawski")
 
 **[Up one level](People "People")**
 

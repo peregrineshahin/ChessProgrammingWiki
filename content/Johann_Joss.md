@@ -35,12 +35,12 @@ a Swiss mathematician and Ph.D in mathematics from the [ETH Zurich](ETH_Zurich "
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Johanns Blog](http://info.uptrend.ch/uptrend/page/display/johanns-blog?v=29)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](http://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Tells Geschoß: Schachmatt](http://www.computerwoche.de/a/tells-geschoss-schachmatt,1205122), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Computerschach: Mini besiegt Maxi](http://www.computerwoche.de/heftarchiv/1975/42/1205115/), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Robert Axelrod](Mathematician#RAxelrod "Mathematician") (**1984**). *[The Evolution of Cooperation](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation), [pdf](http://www-personal.umich.edu/%7Eaxe/Axelrod_Evol_of_Coop_excerpts.pdf), pp. 32*
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Ronald S. Burt](https://en.wikipedia.org/wiki/Ronald_Stuart_Burt) (**1999**). *[Private Games are too Dangerous](http://www.springerlink.com/content/ut87478ut6402647/)*. [pdf](http://faculty.chicagobooth.edu/ronald.burt/research/PGAD.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Johanns Blog](http://info.uptrend.ch/uptrend/page/display/johanns-blog?v=29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Erstes Computer-Schachturnier der Gesellschaft für Informatik](http://www.computerwoche.de/a/computer-logik-im-koeniglichen-spiel,1205123) October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Tells Geschoß: Schachmatt](http://www.computerwoche.de/a/tells-geschoss-schachmatt,1205122), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Computerschach: Mini besiegt Maxi](http://www.computerwoche.de/heftarchiv/1975/42/1205115/), October 17, 1975, [Computerwoche](Computerworld#Woche "Computerworld") 42/1975 (German)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Robert Axelrod](Mathematician#RAxelrod "Mathematician") (**1984**). *[The Evolution of Cooperation](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation), [pdf](http://www-personal.umich.edu/%7Eaxe/Axelrod_Evol_of_Coop_excerpts.pdf), pp. 32*
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Ronald S. Burt](https://en.wikipedia.org/wiki/Ronald_Stuart_Burt) (**1999**). *[Private Games are too Dangerous](http://www.springerlink.com/content/ut87478ut6402647/)*. [pdf](http://faculty.chicagobooth.edu/ronald.burt/research/PGAD.pdf)
 
 **[Up one level](People "People")**
 

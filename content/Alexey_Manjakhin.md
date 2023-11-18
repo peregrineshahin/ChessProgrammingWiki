@@ -22,9 +22,9 @@ Along with [Victor Vikhrev](Victor_Vikhrev "Victor Vikhrev"), Alexey is co-autho
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [ChessAssistance.com All you ever wanted to know about Convekta](http://chessok.com/files/bobpawlak/Articles/045_Convekta_Trip.html) by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), September 12, 2004
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Centaur's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=57)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Заставить работать машину клиента! Конференция](http://forum.ixbt.com/topic.cgi?id=26:39751-20#308) by [Vladimir Rybinkin](Vladimir_Rybinkin "Vladimir Rybinkin"), [Конференция iXBT.com](http://forum.ixbt.com/), September 01, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ChessAssistance.com All you ever wanted to know about Convekta](http://chessok.com/files/bobpawlak/Articles/045_Convekta_Trip.html) by [Robert Pawlak](Robert_Pawlak "Robert Pawlak"), September 12, 2004
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Centaur's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=57)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Заставить работать машину клиента! Конференция](http://forum.ixbt.com/topic.cgi?id=26:39751-20#308) by [Vladimir Rybinkin](Vladimir_Rybinkin "Vladimir Rybinkin"), [Конференция iXBT.com](http://forum.ixbt.com/), September 01, 2009
 
 **[Up one level](People "People")**
 

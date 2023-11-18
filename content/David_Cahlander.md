@@ -32,11 +32,11 @@ Cahlander and [Levy](David_Levy "David Levy") <a id="cite-note-4" href="#cite-re
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Cahlandar](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdb49fc) at [9th ACM North American Computer Chess Championship](ACM_1978 "ACM 1978") in Washington, D.C. 1978 Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [David Cahlander's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=434)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Chaos vs. Duchess](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe2be7f) at the [10th ACM North American Computer Chess Championship](ACM_1979 "ACM 1979") in Detroit, Michigan, 1979 Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Cahlandar and Levy](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe35ab2) at the [10th ACM North American Computer Chess Championship](ACM_1979 "ACM 1979") in Detroit, from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Grandmaster Ludek Pachman dies at 78](https://en.chessbase.com/post/grandmaster-ludek-pachman-dies-at-78) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), March 12, 2003
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Cahlandar](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdb49fc) at [9th ACM North American Computer Chess Championship](ACM_1978 "ACM 1978") in Washington, D.C. 1978 Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Cahlander's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=434)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chaos vs. Duchess](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe2be7f) at the [10th ACM North American Computer Chess Championship](ACM_1979 "ACM 1979") in Detroit, Michigan, 1979 Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cahlandar and Levy](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe35ab2) at the [10th ACM North American Computer Chess Championship](ACM_1979 "ACM 1979") in Detroit, from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Grandmaster Ludek Pachman dies at 78](https://en.chessbase.com/post/grandmaster-ludek-pachman-dies-at-78) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), March 12, 2003
 
 **[Up one level](People "People")**
 

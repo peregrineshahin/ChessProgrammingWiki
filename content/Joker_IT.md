@@ -102,11 +102,11 @@ under the terms of the [MIT license](Massachusetts_Institute_of_Technology#Licen
 ## References
 
 
- 1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [The Jolly Rosso](https://commons.wikimedia.org/wiki/File:The_Jolly_Rosso.jpg), image by [Trocche100](https://it.wikipedia.org/wiki/Utente:Trocche100), November 30, 2014, [Joker (playing card) from Wikipedia](https://en.wikipedia.org/wiki/Joker_%28playing_card%29), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [joker/README.md at master · morinim/joker · GitHub](https://github.com/morinim/joker/blob/master/README.md)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [joker/history at master · morinim/joker · GitHub](https://github.com/morinim/joker/blob/master/doc/history)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [joker/giocatore.cc at master · morinim/joker · GitHub](https://github.com/morinim/joker/blob/master/src/giocatore.cc), see Ricerca\_radice (root search)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> Code snippets from [joker/situazione.cc at master · morinim/joker · GitHub](https://github.com/morinim/joker/blob/master/src/situazione.cc), slightly formatted concerning white spaces and brackets
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Jolly Rosso](https://commons.wikimedia.org/wiki/File:The_Jolly_Rosso.jpg), image by [Trocche100](https://it.wikipedia.org/wiki/Utente:Trocche100), November 30, 2014, [Joker (playing card) from Wikipedia](https://en.wikipedia.org/wiki/Joker_%28playing_card%29), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons) 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [joker/README.md at master · morinim/joker · GitHub](https://github.com/morinim/joker/blob/master/README.md)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [joker/history at master · morinim/joker · GitHub](https://github.com/morinim/joker/blob/master/doc/history)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [joker/giocatore.cc at master · morinim/joker · GitHub](https://github.com/morinim/joker/blob/master/src/giocatore.cc), see Ricerca\_radice (root search)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Code snippets from [joker/situazione.cc at master · morinim/joker · GitHub](https://github.com/morinim/joker/blob/master/src/situazione.cc), slightly formatted concerning white spaces and brackets
 
 **[Up one Level](Engines "Engines")**
 

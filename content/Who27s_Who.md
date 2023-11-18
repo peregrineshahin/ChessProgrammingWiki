@@ -84,11 +84,11 @@ as of June 28, 2011 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Who's Who (UK) from Wikipedia](https://en.wikipedia.org/wiki/Who%27s_Who_(UK))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Panel members are registered members of the [ICGA Investigations Wiki](http://icga.wikispaces.com/), agreeing to abide by [The Charter](http://icga.wikispaces.com/The+Charter), were not necessarily involved in active investigation or discussions
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Rybka disqualified and banned from World Computer Chess](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=411947&t=39520) by [Albert Silver](Albert_Silver "Albert Silver"), [CCC](CCC "CCC"), June 29, 2011
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Re: Rybka disqualified and banned from World Computer Chess](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=411947&t=39520) by [Albert Silver](Albert_Silver "Albert Silver"), [CCC](CCC "CCC"), June 29, 2011
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [The Board of the ICGA](http://ilk.uvt.nl/icga/organisation/board.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Who's Who (UK) from Wikipedia](https://en.wikipedia.org/wiki/Who%27s_Who_(UK))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Panel members are registered members of the [ICGA Investigations Wiki](http://icga.wikispaces.com/), agreeing to abide by [The Charter](http://icga.wikispaces.com/The+Charter), were not necessarily involved in active investigation or discussions
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Rybka disqualified and banned from World Computer Chess](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=411947&t=39520) by [Albert Silver](Albert_Silver "Albert Silver"), [CCC](CCC "CCC"), June 29, 2011
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Rybka disqualified and banned from World Computer Chess](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=411947&t=39520) by [Albert Silver](Albert_Silver "Albert Silver"), [CCC](CCC "CCC"), June 29, 2011
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The Board of the ICGA](http://ilk.uvt.nl/icga/organisation/board.php)
 
 **[Up one level](ICGA_Investigations "ICGA Investigations")**
 

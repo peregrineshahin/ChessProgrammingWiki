@@ -29,9 +29,9 @@ was a Dutch computer chess programmer, and author of the chess engines [SpiderCh
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Martin Giepmans, [ICT 2002](ICT_2002 "ICT 2002"), Photo from [2nd CSVN-Tournament 2002 Gallery](http://old.csvn.nl/gallery16.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Martin Giepmans (Anatoli, SpiderChess) passed away](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=50486) by [Olivier Deville](Olivier_Deville "Olivier Deville"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 15, 2009
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Martin Giepmans (Anatoli, SpiderChess) passed away](http://www.talkchess.com/forum/viewtopic.php?t=30160) by [Andres Valverde](Andres_Valverde "Andres Valverde"), [CCC](CCC "CCC"), October 15, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Martin Giepmans, [ICT 2002](ICT_2002 "ICT 2002"), Photo from [2nd CSVN-Tournament 2002 Gallery](http://old.csvn.nl/gallery16.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Martin Giepmans (Anatoli, SpiderChess) passed away](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=50486) by [Olivier Deville](Olivier_Deville "Olivier Deville"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 15, 2009
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Martin Giepmans (Anatoli, SpiderChess) passed away](http://www.talkchess.com/forum/viewtopic.php?t=30160) by [Andres Valverde](Andres_Valverde "Andres Valverde"), [CCC](CCC "CCC"), October 15, 2009
 
 **[Up one level](People "People")**
 

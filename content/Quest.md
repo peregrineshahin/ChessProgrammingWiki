@@ -89,17 +89,17 @@ Qa8 58.Qb6 Kh7 59.Kf3 Kg8 60.Qb8+ 1-0
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Quest from Wikipedia](https://en.wikipedia.org/wiki/Quest)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Bold Knight, the Apples of Youth, and the Water of Life - from Wikipedia](https://en.wikipedia.org/wiki/The_Bold_Knight,_the_Apples_of_Youth,_and_the_Water_of_Life)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CXG Sphinx Dominator](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_Dominator) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [CXG Sphinx Galaxy](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_Galaxy) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Aegon 1996](http://www.csvn.nl/index.php?option=com_content&task=view&id=122&Itemid=50), [CSVN](CSVN "CSVN") site
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Niederländische Computerschach Meisterschaft 2001 Leiden - Erster Teil](http://www.chessbase.de/events/events.asp?pid=114) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessBase.de Events](ChessBase "ChessBase") (German) (Fritz 7)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Niederländische Computerschach Meisterschaft 2001 Leiden - Zweiter Teil](http://www.chessbase.de/events/events.asp?pid=116) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessBase.de Events](ChessBase "ChessBase") (German) (Quest)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1994**). *Die Kunst des Nichtstuns*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele") 2/94, [pdf](http://www.mustrum.de/chrilly/nullmove.pdf) (German)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Re: SOMA](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=288321&t=28775) by [Ed Schroder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 26, 2009
-10. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"). (**1993**). *Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs.* [ICCA Journal](ICGA_Journal "ICGA Journal"), [Vol. 16, No. 3](http://people.csail.mit.edu/heinz/iccaj_db/node4.html), pp. 137-143
-11. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=20)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Quest from Wikipedia](https://en.wikipedia.org/wiki/Quest)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Bold Knight, the Apples of Youth, and the Water of Life - from Wikipedia](https://en.wikipedia.org/wiki/The_Bold_Knight,_the_Apples_of_Youth,_and_the_Water_of_Life)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CXG Sphinx Dominator](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_Dominator) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CXG Sphinx Galaxy](http://www.schach-computer.info/wiki/index.php/CXG_Sphinx_Galaxy) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Aegon 1996](http://www.csvn.nl/index.php?option=com_content&task=view&id=122&Itemid=50), [CSVN](CSVN "CSVN") site
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Niederländische Computerschach Meisterschaft 2001 Leiden - Erster Teil](http://www.chessbase.de/events/events.asp?pid=114) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessBase.de Events](ChessBase "ChessBase") (German) (Fritz 7)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Niederländische Computerschach Meisterschaft 2001 Leiden - Zweiter Teil](http://www.chessbase.de/events/events.asp?pid=116) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessBase.de Events](ChessBase "ChessBase") (German) (Quest)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1994**). *Die Kunst des Nichtstuns*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele") 2/94, [pdf](http://www.mustrum.de/chrilly/nullmove.pdf) (German)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: SOMA](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=288321&t=28775) by [Ed Schroder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 26, 2009
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"). (**1993**). *Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs.* [ICCA Journal](ICGA_Journal "ICGA Journal"), [Vol. 16, No. 3](http://people.csail.mit.edu/heinz/iccaj_db/node4.html), pp. 137-143
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Downloads | Open Dutch Computer Chess Championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=37&Itemid=26&lang=en&limitstart=20)
 
 **[Up one level](Engines "Engines")**
 

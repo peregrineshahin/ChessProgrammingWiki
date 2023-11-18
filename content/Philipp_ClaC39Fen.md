@@ -23,7 +23,7 @@ a German computer scientist graduated from [University of Passau](https://en.wik
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ghost](http://www.ghostchess.de/) by Philipp Claßen
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ghost](http://www.ghostchess.de/) by Philipp Claßen
 
 **[Up one Level](People "People")**
 

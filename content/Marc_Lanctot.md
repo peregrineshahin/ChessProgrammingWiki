@@ -64,13 +64,13 @@ a Canadian computer scientist at [Google](index.php?title=Google&action=edit&red
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marc Lanctot's Web Page](http://mlanctot.info/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Games and AI Group](https://project.dke.maastrichtuniversity.nl/games/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Marc Lanctot (**2005**). *Adaptive Virtual Environments in Multi-player Computer Games*. MSc. Thesis, [McGill University](McGill_University "McGill University")
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> Marc Lanctot (**2013**). *Monte Carlo Sampling and Regret Minimization for Equilibrium Computation and Decision-Making in Large Extensive Form Games*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta"), advisor [Michael Bowling](Michael_Bowling "Michael Bowling")
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Marc Lanctot](http://www.informatik.uni-trier.de/~ley/pers/hd/l/Lanctot:Marc.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/) by [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser") and [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), December 03, 2018
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [open\_spiel/contributing.md at master · deepmind/open\_spiel · GitHub](https://github.com/deepmind/open_spiel/blob/master/docs/contributing.md)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marc Lanctot's Web Page](http://mlanctot.info/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Games and AI Group](https://project.dke.maastrichtuniversity.nl/games/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Marc Lanctot (**2005**). *Adaptive Virtual Environments in Multi-player Computer Games*. MSc. Thesis, [McGill University](McGill_University "McGill University")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> Marc Lanctot (**2013**). *Monte Carlo Sampling and Regret Minimization for Equilibrium Computation and Decision-Making in Large Extensive Form Games*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta"), advisor [Michael Bowling](Michael_Bowling "Michael Bowling")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Marc Lanctot](http://www.informatik.uni-trier.de/~ley/pers/hd/l/Lanctot:Marc.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [AlphaZero: Shedding new light on the grand games of chess, shogi and Go](https://deepmind.com/blog/alphazero-shedding-new-light-grand-games-chess-shogi-and-go/) by [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser") and [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [DeepMind](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)"), December 03, 2018
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [open\_spiel/contributing.md at master · deepmind/open\_spiel · GitHub](https://github.com/deepmind/open_spiel/blob/master/docs/contributing.md)
 
 **[Up one level](People "People")**
 

@@ -68,13 +68,13 @@ One of his lectures deals with game playing, [Minimax](Minimax "Minimax"), [Nega
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chris Thornton](http://users.sussex.ac.uk/~christ/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Chris J. Thornton, [Benedict Du Boulay](https://scholar.google.com/citations?user=QBJBsuMAAAAJ) (**1992**). *[Artificial Intelligence Through Search](https://www.springer.com/gp/book/9780792318682)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Spring term 2011 : Previous COGS seminars : ... : Centre for Cognitive Science (COGS) : University of Sussex](http://www.sussex.ac.uk/cogs/seminars/previous/spring2011)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [KR-IST - Lecture 5a Game playing with Minimax and Pruning](http://users.sussex.ac.uk/~christ/crs/kr-ist/lec05a.html)
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Chris Thornton](https://dblp.org/pid/06/2633.html), includes [Chris Thornton](https://dl.acm.org/profile/99659668015), [University of British Columbia](https://en.wikipedia.org/wiki/University_of_British_Columbia)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Information content from Wikipedia](https://en.wikipedia.org/wiki/Information_content)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Jean Hayes Michie](Jean_Hayes_Michie "Jean Hayes Michie") (**2001**). *[Machine Learning and Light Relief: A Review of Truth from Trash](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1599/0)*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 22 No. 4, [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/download/1599/1498)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chris Thornton](http://users.sussex.ac.uk/~christ/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Chris J. Thornton, [Benedict Du Boulay](https://scholar.google.com/citations?user=QBJBsuMAAAAJ) (**1992**). *[Artificial Intelligence Through Search](https://www.springer.com/gp/book/9780792318682)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Spring term 2011 : Previous COGS seminars : ... : Centre for Cognitive Science (COGS) : University of Sussex](http://www.sussex.ac.uk/cogs/seminars/previous/spring2011)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [KR-IST - Lecture 5a Game playing with Minimax and Pruning](http://users.sussex.ac.uk/~christ/crs/kr-ist/lec05a.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Chris Thornton](https://dblp.org/pid/06/2633.html), includes [Chris Thornton](https://dl.acm.org/profile/99659668015), [University of British Columbia](https://en.wikipedia.org/wiki/University_of_British_Columbia)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Information content from Wikipedia](https://en.wikipedia.org/wiki/Information_content)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Jean Hayes Michie](Jean_Hayes_Michie "Jean Hayes Michie") (**2001**). *[Machine Learning and Light Relief: A Review of Truth from Trash](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1599/0)*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 22 No. 4, [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/download/1599/1498)
 
 **[Up one level](People "People")**
 

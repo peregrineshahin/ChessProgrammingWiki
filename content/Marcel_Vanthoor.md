@@ -51,9 +51,9 @@ and started a chess programming comeback in 2020 with his didactic chess engine 
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Stockfish 10 x64 Level ELO's (WIP)](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=71288) by Marcel Vanthoor, [CCC](CCC "CCC"), July 15, 2019
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [New chess engine: Rustic](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73164) by Marcel Vanthoor, [CCC](CCC "CCC"), February 23, 2020
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Progress on Rustic](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75129) by Marcel Vanthoor, [CCC](CCC "CCC"), September 16, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Stockfish 10 x64 Level ELO's (WIP)](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=71288) by Marcel Vanthoor, [CCC](CCC "CCC"), July 15, 2019
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New chess engine: Rustic](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73164) by Marcel Vanthoor, [CCC](CCC "CCC"), February 23, 2020
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Progress on Rustic](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75129) by Marcel Vanthoor, [CCC](CCC "CCC"), September 16, 2020
 
 **[Up one Level](People "People")**
 

@@ -67,14 +67,14 @@ Along with [José Roberto Mercado Vega](Jos%C3%A9_Roberto_Mercado_Vega "José Ro
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mordejai Zvi Retchkiman Konigsberg](https://www.cic.ipn.mx/index.php/es/mordejai-zvi-retchkiman-konigsberg)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Aleksandr Lyapunov](Mathematician#ALyapunov "Mathematician")
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Zvi Retchkiman Königsberg (**2007**). *A Combinatorial Game Mathematical Strategy Planning Procedure for a Class of Chess Endgames*. [International Mathematical Forum, Vol. 2, No. 68](http://www.m-hikari.com/imf-password2007/65-68-2007/index.html)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [José Roberto Mercado Vega](Jos%C3%A9_Roberto_Mercado_Vega "José Roberto Mercado Vega"), Zvi Retchkiman Königsberg (**2009**). *[Modeling the Game of Arimaa with Linguistic Geometry](https://dl.acm.org/doi/10.5555/1719293.1719355)*. [CIG'09](https://dl.acm.org/doi/proceedings/10.5555/1719293), [pdf](http://arimaa.com/arimaa/papers/JoseVega/index.pdf)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: Zvi Retchkiman Königsberg](https://dblp.org/pid/10/8180.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Lyapunov stability from Wikipedia](https://en.wikipedia.org/wiki/Lyapunov_stability)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Max-plus algebra - Wikipedia](https://en.wikipedia.org/wiki/Max-plus_algebra)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Petri net from Wikipedia](https://en.wikipedia.org/wiki/Petri_net)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mordejai Zvi Retchkiman Konigsberg](https://www.cic.ipn.mx/index.php/es/mordejai-zvi-retchkiman-konigsberg)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Aleksandr Lyapunov](Mathematician#ALyapunov "Mathematician")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Zvi Retchkiman Königsberg (**2007**). *A Combinatorial Game Mathematical Strategy Planning Procedure for a Class of Chess Endgames*. [International Mathematical Forum, Vol. 2, No. 68](http://www.m-hikari.com/imf-password2007/65-68-2007/index.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [José Roberto Mercado Vega](Jos%C3%A9_Roberto_Mercado_Vega "José Roberto Mercado Vega"), Zvi Retchkiman Königsberg (**2009**). *[Modeling the Game of Arimaa with Linguistic Geometry](https://dl.acm.org/doi/10.5555/1719293.1719355)*. [CIG'09](https://dl.acm.org/doi/proceedings/10.5555/1719293), [pdf](http://arimaa.com/arimaa/papers/JoseVega/index.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: Zvi Retchkiman Königsberg](https://dblp.org/pid/10/8180.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Lyapunov stability from Wikipedia](https://en.wikipedia.org/wiki/Lyapunov_stability)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Max-plus algebra - Wikipedia](https://en.wikipedia.org/wiki/Max-plus_algebra)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Petri net from Wikipedia](https://en.wikipedia.org/wiki/Petri_net)
 
 **[Up one level](People "People")**
 

@@ -32,15 +32,15 @@ In 2002 Lokasoft took over the activities of [Schröder BV](Ed_Schroder "Ed Schr
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lokasoft - Wikipedia.nl](https://nl.wikipedia.org/wiki/Lokasoft) (Dutch)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Company Information](http://www.rebel.nl/lokasoft.htm), by [Ed Schröder](Ed_Schroder "Ed Schroder") and [Lex Loep](Lex_Loep "Lex Loep"), September 1, 2002
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Home - Lokasoft - Home of ChessPartner](https://www.lokasoft.nl/home.aspx)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [ChessPartner 6](https://www.lokasoft.nl/chesspartner.aspx)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [SmarThink 1.20](https://www.lokasoft.nl/smarthink_120.aspx) (as of July 2020, no longer available)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Ktulu](https://www.lokasoft.nl/ktulu.aspx) (as of July 2020, no longer available)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Chess Tiger 2007](https://www.lokasoft.nl/chess_tiger_2007.aspx) (as of July 2020, no longer available)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Rebel 12](https://www.lokasoft.nl/rebel12.aspx) (as of July 2020, no longer available)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Gandalf 6](https://www.lokasoft.nl/gandalf6.aspx)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lokasoft - Wikipedia.nl](https://nl.wikipedia.org/wiki/Lokasoft) (Dutch)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Company Information](http://www.rebel.nl/lokasoft.htm), by [Ed Schröder](Ed_Schroder "Ed Schroder") and [Lex Loep](Lex_Loep "Lex Loep"), September 1, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Home - Lokasoft - Home of ChessPartner](https://www.lokasoft.nl/home.aspx)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ChessPartner 6](https://www.lokasoft.nl/chesspartner.aspx)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [SmarThink 1.20](https://www.lokasoft.nl/smarthink_120.aspx) (as of July 2020, no longer available)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Ktulu](https://www.lokasoft.nl/ktulu.aspx) (as of July 2020, no longer available)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chess Tiger 2007](https://www.lokasoft.nl/chess_tiger_2007.aspx) (as of July 2020, no longer available)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Rebel 12](https://www.lokasoft.nl/rebel12.aspx) (as of July 2020, no longer available)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Gandalf 6](https://www.lokasoft.nl/gandalf6.aspx)
 
 **[Up one Level](Organizations "Organizations")**
 

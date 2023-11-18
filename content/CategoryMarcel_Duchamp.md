@@ -27,8 +27,8 @@ was a [French American](https://en.wikipedia.org/wiki/French_Americans) artist, 
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> This image is available from the United States [Library of Congress'](https://en.wikipedia.org/wiki/Library_of_Congress) [Prints and Photographs division](https://www.loc.gov/rr/print/) under the digital ID [cph.3b10889](http://www.loc.gov/pictures/item/2005685099/)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Reunion](https://worldchesshof.org/exhibit/reunion) | [World Chess Hall of Fame](https://en.wikipedia.org/wiki/World_Chess_Hall_of_Fame)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> This image is available from the United States [Library of Congress'](https://en.wikipedia.org/wiki/Library_of_Congress) [Prints and Photographs division](https://www.loc.gov/rr/print/) under the digital ID [cph.3b10889](http://www.loc.gov/pictures/item/2005685099/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Reunion](https://worldchesshof.org/exhibit/reunion) | [World Chess Hall of Fame](https://en.wikipedia.org/wiki/World_Chess_Hall_of_Fame)
 
 ## Subcategories
 

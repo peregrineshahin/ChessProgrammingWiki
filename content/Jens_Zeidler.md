@@ -38,8 +38,8 @@ a German computer scientist, alumnus of the [Chemnitz University of Technology](
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Jens Zeidler | Facebook](https://www.facebook.com/jens.zeidler.54)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jens Zeidler | Facebook](https://www.facebook.com/jens.zeidler.54)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](People "People")**
 

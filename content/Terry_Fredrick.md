@@ -20,8 +20,8 @@ While affiliated with [Applied Concepts](Applied_Concepts "Applied Concepts") in
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> terryfrederick.com/resume.htm as of 2018 dead link
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The Twelfth ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6ce737), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1981_ACM_NACCC/1981_ACM_NACCC.sm.062303017.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> terryfrederick.com/resume.htm as of 2018 dead link
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Twelfth ACM's North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6ce737), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3.1981_ACM_NACCC/1981_ACM_NACCC.sm.062303017.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
 **[Up one level](People "People")**
 

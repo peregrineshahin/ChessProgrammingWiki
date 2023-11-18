@@ -76,12 +76,12 @@ To play a [game of chess](Chess_Game "Chess Game") or to analyze a [position](Ch
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a>  [Lozza - a Javascript web based UCI engine - update v1.10](http://www.talkchess.com/forum/viewtopic.php?t=54082) by [Colin Jenkins](Colin_Jenkins "Colin Jenkins"), [CCC](CCC "CCC"), October 18, 2014
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Using Lozza in a standard chess UI - @op12no2](http://op12no2.me/posts/1818)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Stockfish in Lozza UIs](http://www.talkchess.com/forum/viewtopic.php?t=54891) by [Colin Jenkins](Colin_Jenkins "Colin Jenkins"), [CCC](CCC "CCC"), January 07, 2015
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [exoticorn/stockfish-js · GitHub](https://github.com/exoticorn/stockfish-js)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Javascript chess engine using simplified eval](http://www.talkchess.com/forum/viewtopic.php?t=53684) by [Colin Jenkins](Colin_Jenkins "Colin Jenkins"), [CCC](CCC "CCC"), September 13, 2014
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Re: Some pages discussing practical move generation?](http://www.talkchess.com/forum/viewtopic.php?start=0&t=52998&start=2) by [Colin Jenkins](Colin_Jenkins "Colin Jenkins"), [CCC](CCC "CCC"), July 18, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Lozza - a Javascript web based UCI engine - update v1.10](http://www.talkchess.com/forum/viewtopic.php?t=54082) by [Colin Jenkins](Colin_Jenkins "Colin Jenkins"), [CCC](CCC "CCC"), October 18, 2014
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Using Lozza in a standard chess UI - @op12no2](http://op12no2.me/posts/1818)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Stockfish in Lozza UIs](http://www.talkchess.com/forum/viewtopic.php?t=54891) by [Colin Jenkins](Colin_Jenkins "Colin Jenkins"), [CCC](CCC "CCC"), January 07, 2015
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [exoticorn/stockfish-js · GitHub](https://github.com/exoticorn/stockfish-js)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Javascript chess engine using simplified eval](http://www.talkchess.com/forum/viewtopic.php?t=53684) by [Colin Jenkins](Colin_Jenkins "Colin Jenkins"), [CCC](CCC "CCC"), September 13, 2014
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Some pages discussing practical move generation?](http://www.talkchess.com/forum/viewtopic.php?start=0&t=52998&start=2) by [Colin Jenkins](Colin_Jenkins "Colin Jenkins"), [CCC](CCC "CCC"), July 18, 2014
 
 **[Up one level](Engines "Engines")**
 

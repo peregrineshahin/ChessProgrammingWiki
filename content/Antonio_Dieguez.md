@@ -21,7 +21,7 @@ a Chilean software developer, games and chess programmer. He is author of the [W
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Amyan \<- Antonio Diéguez](http://www.pincha.cl/amyan/amyane.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Amyan \<- Antonio Diéguez](http://www.pincha.cl/amyan/amyane.html)
 
 **[Up one level](People "People")**
 

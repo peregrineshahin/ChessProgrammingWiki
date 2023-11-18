@@ -59,11 +59,11 @@ and member of the principal professional staff at the JHU applied physics labora
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [James C. Spall](http://www.ams.jhu.edu/~spall/Personal/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [CV of James C. Spall](http://www.ams.jhu.edu/~spall/Personal/Spall_CV.pdf) (pdf)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [James C. Spall](http://www.ams.jhu.edu/~spall/Personal/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [SPSA Algorithm](http://www.jhuapl.edu/spsa/) by James C. Spall
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [dblp: James C. Spall](https://dblp.uni-trier.de/pers/hd/s/Spall:James_C=)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [James C. Spall](http://www.ams.jhu.edu/~spall/Personal/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [CV of James C. Spall](http://www.ams.jhu.edu/~spall/Personal/Spall_CV.pdf) (pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [James C. Spall](http://www.ams.jhu.edu/~spall/Personal/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [SPSA Algorithm](http://www.jhuapl.edu/spsa/) by James C. Spall
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [dblp: James C. Spall](https://dblp.uni-trier.de/pers/hd/s/Spall:James_C=)
 
 **[Up one level](People "People")**
 

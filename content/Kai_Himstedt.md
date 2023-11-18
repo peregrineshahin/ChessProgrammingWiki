@@ -45,15 +45,15 @@ a German computer scientist and Ph.D. from the [University of Hamburg](Universit
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Mit "Jonny" muss gerechnet werden](http://www.schachclub-forchheim.de/aktuelles/archives/605-Mit-Jonny-muss-gerechnet-werden.html) June 19, 2007, [Schachclub Forchheim](http://www.schachclub-forchheim.de/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [PhD Project of Kai Himstedt (Dipl.-Inform.)](http://www.informatik.uni-hamburg.de/TIS/index.php/de/projekte/phd-projects/79/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Kai Himstedt (**2012**). *[Optimistische verteilte Spielbaumsuche am Beispiel des Computerschachs](http://www.shaker.de/de/content/catalogue/index.asp?ID=8&ISBN=978-3-8440-0803-6)*. Dissertation (German)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kai Himstedt's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=512)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Jugend forscht 1980 | Mathematik/Informatik | Die Entwicklung eines Schachprogramms als Beispiel für eine spezielle Form der künstlichen Intelligenz](https://www.jugend-forscht.de/projektdatenbank/die-entwicklung-eines-schachprogramms-als-beispiel-fuer-eine-spezielle-form-der-kuenstlichen-intelligenz.html)
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Jugend forscht 1980 | Mathematik/Informatik | Die Entwicklung eines Schachprogramms als Beispiel für eine spezielle Form der künstlichen Intelligenz](https://www.jugend-forscht.de/projektdatenbank/die-entwicklung-eines-schachprogramms-als-beispiel-fuer-eine-spezielle-form-der-kuenstlichen-intelligenz.html) (German), translated with the help of [Google Translate](https://en.wikipedia.org/wiki/Google_Translate)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [DBLP: Kai Himstedt](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Himstedt:Kai.html)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2013**). *Optimistically Parallelizing Parallel Search Processes*. [ICGA Journal, Vol. 36, No. 2](ICGA_Journal#36_2 "ICGA Journal"), Review
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Mit "Jonny" muss gerechnet werden](http://www.schachclub-forchheim.de/aktuelles/archives/605-Mit-Jonny-muss-gerechnet-werden.html) June 19, 2007, [Schachclub Forchheim](http://www.schachclub-forchheim.de/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PhD Project of Kai Himstedt (Dipl.-Inform.)](http://www.informatik.uni-hamburg.de/TIS/index.php/de/projekte/phd-projects/79/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Kai Himstedt (**2012**). *[Optimistische verteilte Spielbaumsuche am Beispiel des Computerschachs](http://www.shaker.de/de/content/catalogue/index.asp?ID=8&ISBN=978-3-8440-0803-6)*. Dissertation (German)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kai Himstedt's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=512)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jugend forscht 1980 | Mathematik/Informatik | Die Entwicklung eines Schachprogramms als Beispiel für eine spezielle Form der künstlichen Intelligenz](https://www.jugend-forscht.de/projektdatenbank/die-entwicklung-eines-schachprogramms-als-beispiel-fuer-eine-spezielle-form-der-kuenstlichen-intelligenz.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jugend forscht 1980 | Mathematik/Informatik | Die Entwicklung eines Schachprogramms als Beispiel für eine spezielle Form der künstlichen Intelligenz](https://www.jugend-forscht.de/projektdatenbank/die-entwicklung-eines-schachprogramms-als-beispiel-fuer-eine-spezielle-form-der-kuenstlichen-intelligenz.html) (German), translated with the help of [Google Translate](https://en.wikipedia.org/wiki/Google_Translate)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [DBLP: Kai Himstedt](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Himstedt:Kai.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2013**). *Optimistically Parallelizing Parallel Search Processes*. [ICGA Journal, Vol. 36, No. 2](ICGA_Journal#36_2 "ICGA Journal"), Review
 
 **[Up one level](People "People")**
 

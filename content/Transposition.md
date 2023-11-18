@@ -96,7 +96,7 @@ In analyzing book lines, [Retrograde Analysis](Retrograde_Analysis "Retrograde A
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Transpo Tricks in Chess: Finesse Your Chess Moves and Win - by GM Andrew Soltis - Batsford, 2007 - Review](http://www.chessvideos.tv/article-Book-Review-Transpo-Tricks-in-Chess--by-Andrew-Soltis-10.php)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Transpo Tricks in Chess: Finesse Your Chess Moves and Win - by GM Andrew Soltis - Batsford, 2007 - Review](http://www.chessvideos.tv/article-Book-Review-Transpo-Tricks-in-Chess--by-Andrew-Soltis-10.php)
 
 **[Up one Level](Chess "Chess")**
 

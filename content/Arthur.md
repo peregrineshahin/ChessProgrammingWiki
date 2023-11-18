@@ -80,10 +80,10 @@ feat.: [Ticão Freitas](https://www.facebook.com/Tic%C3%A3o-Freitas-230174837178
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Statue of King Arthur, designed by [Albrecht Dürer](https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer) and cast by [Peter Vischer the Elder](https://en.wikipedia.org/wiki/Peter_Vischer_the_Elder), early 16th century, [Arthur from Wikipedia](https://en.wikipedia.org/wiki/Arthur)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Arthur's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=25)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Re: Computer Judgment](https://groups.google.com/d/msg/rec.games.chess.computer/DIrf0yWFh-c/hwz26K3gqHAJ) by [Walter Ravenek](Walter_Ravenek "Walter Ravenek"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 25, 1995
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Walter Ravenek](Walter_Ravenek "Walter Ravenek") (**1995**). *Computer Judgment*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4, pp. 124
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Statue of King Arthur, designed by [Albrecht Dürer](https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer) and cast by [Peter Vischer the Elder](https://en.wikipedia.org/wiki/Peter_Vischer_the_Elder), early 16th century, [Arthur from Wikipedia](https://en.wikipedia.org/wiki/Arthur)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Arthur's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=25)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Computer Judgment](https://groups.google.com/d/msg/rec.games.chess.computer/DIrf0yWFh-c/hwz26K3gqHAJ) by [Walter Ravenek](Walter_Ravenek "Walter Ravenek"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 25, 1995
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Walter Ravenek](Walter_Ravenek "Walter Ravenek") (**1995**). *Computer Judgment*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4, pp. 124
 
 **[Up one level](Engines "Engines")**
 

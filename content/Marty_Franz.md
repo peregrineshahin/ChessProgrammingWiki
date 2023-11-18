@@ -28,8 +28,8 @@ As a chess player and computer chess programmer, Marty Franz is author of the [W
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Marty's Inner Sphere - About Me](http://web.archive.org/web/20050210004808/http://www.eiganic.com/profile.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Jester Chess Pages](http://web.archive.org/web/20030204061953/http://www.eiganic.com/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Marty's Inner Sphere - About Me](http://web.archive.org/web/20050210004808/http://www.eiganic.com/profile.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jester Chess Pages](http://web.archive.org/web/20030204061953/http://www.eiganic.com/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one level](People "People")**
 

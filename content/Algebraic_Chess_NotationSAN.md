@@ -203,23 +203,23 @@ In an attempt of [Computer vision](https://en.wikipedia.org/wiki/Computer_vision
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Chess Engine Communication Protocol: 8. Commands from xboard to the engine](http://home.hccnet.nl/h.g.muller/engine-intf.html#8)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [The UCI Specification](http://www.shredderchess.com/chess-info/features/uci-universal-chess-interface.html)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> *Processor Technology 8080 CHESS User's Manual*. [pdf](http://www.sol20.org/manuals/chess.pdf), [pdf](http://www.imsai.net/support/processor_tech/chess.pdf)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Kempelen Chess from Sierra Online](http://www.spacious-mind.com/html/c64_emu_-_kempelen.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Smith notation](https://web.archive.org/web/20160117212352/https://www.chessclub.com/chessviewer/smith.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Aart's Android Page](http://www.aartbik.com/MISC/android.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [FIDE handbook, Laws of Chess - Appendix C. Algebraic notation](http://www.fide.com/component/handbook/?id=171&view=article)
-1. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Standard: Portable Game Notation Specification and Implementation Guide](http://www.thechessdrum.net/PGN_Reference.txt) by [Steven Edwards](Steven_Edwards "Steven Edwards") - 8.2.3: Movetext SAN (Standard Algebraic Notation)
-1. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [SAN Kit: Implemented Standards for Chess Move Notation](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/games/chess/san/) by [Steven Edwards](Steven_Edwards "Steven Edwards")
-1. <a id="cite-ref-10" href="#cite-note-10">[10]</a> [Aart's Android Page](http://www.aartbik.com/MISC/android.html)
-1. <a id="cite-ref-11" href="#cite-note-11">[11]</a> [FIDE handbook, Laws of Chess - Appendix C. Algebraic notation, C-9](http://www.fide.com/component/handbook/?id=171&view=article)
-1. <a id="cite-ref-12" href="#cite-note-12">[12]</a> [FIDE handbook, Laws of Chess - Appendix C. Algebraic notation - C.13 Abbreviations](http://www.fide.com/component/handbook/?id=171&view=article)
-1. <a id="cite-ref-13" href="#cite-note-13">[13]</a> [Chess Engine Communication Protocol: 9. Commands from the engine to xboard](http://home.hccnet.nl/h.g.muller/engine-intf.html#9)
-1. <a id="cite-ref-14" href="#cite-note-14">[14]</a> [Unicode values for chessmen](http://www.talkchess.com/forum/viewtopic.php?t=38318) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 07, 2011
-1. <a id="cite-ref-15" href="#cite-note-15">[15]</a> [Michel Goossens](http://goossens.web.cern.ch/goossens/), [Frank Mittelbach](http://www.informit.com/authors/bio.aspx?a=A2624A62-C2B4-40F9-B8ED-E99563F89A27), [Sebastian Rahtz](http://users.ox.ac.uk/%7Erahtz/), [Denis Roegel](http://www.loria.fr/%7Eroegel/), [Herbert Voß](http://www.uit.co.uk/Authors/HerbVoss) (**2007**). *[The LATEXGraphics Companion](http://xml.web.cern.ch/XML/lgc2/)*. Second Edition, Addison-Wesley, ISBN-13: 978-0-321-50892-8, [sample pdf](http://ptgmedia.pearsoncmg.com/images/9780321508928/samplepages/0321508920_Sample.pdf), 10.1 Chess, 10.2 Xiangqi—Chinese Chess
-1. <a id="cite-ref-16" href="#cite-note-16">[16]</a> [Henry S. Baird](Mathematician#HSBaird "Mathematician"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1990**). *[Reading Chess](http://doc.cat-v.org/bell_labs/reading_chess/)*. [IEEE Transactions on Pattern Analysis and Machine Intelligence](IEEE#TPAMI "IEEE"), Vol. 12, No. 6, [pdf](http://doc.cat-v.org/bell_labs/reading_chess/reading_chess.pdf)
-1. <a id="cite-ref-17" href="#cite-note-17">[17]</a> [LaTeX from Wikipedia](https://en.wikipedia.org/wiki/LaTeX)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess Engine Communication Protocol: 8. Commands from xboard to the engine](http://home.hccnet.nl/h.g.muller/engine-intf.html#8)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The UCI Specification](http://www.shredderchess.com/chess-info/features/uci-universal-chess-interface.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> *Processor Technology 8080 CHESS User's Manual*. [pdf](http://www.sol20.org/manuals/chess.pdf), [pdf](http://www.imsai.net/support/processor_tech/chess.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kempelen Chess from Sierra Online](http://www.spacious-mind.com/html/c64_emu_-_kempelen.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Smith notation](https://web.archive.org/web/20160117212352/https://www.chessclub.com/chessviewer/smith.html) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Aart's Android Page](http://www.aartbik.com/MISC/android.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [FIDE handbook, Laws of Chess - Appendix C. Algebraic notation](http://www.fide.com/component/handbook/?id=171&view=article)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Standard: Portable Game Notation Specification and Implementation Guide](http://www.thechessdrum.net/PGN_Reference.txt) by [Steven Edwards](Steven_Edwards "Steven Edwards") - 8.2.3: Movetext SAN (Standard Algebraic Notation)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [SAN Kit: Implemented Standards for Chess Move Notation](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/games/chess/san/) by [Steven Edwards](Steven_Edwards "Steven Edwards")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Aart's Android Page](http://www.aartbik.com/MISC/android.html)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [FIDE handbook, Laws of Chess - Appendix C. Algebraic notation, C-9](http://www.fide.com/component/handbook/?id=171&view=article)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [FIDE handbook, Laws of Chess - Appendix C. Algebraic notation - C.13 Abbreviations](http://www.fide.com/component/handbook/?id=171&view=article)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Chess Engine Communication Protocol: 9. Commands from the engine to xboard](http://home.hccnet.nl/h.g.muller/engine-intf.html#9)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Unicode values for chessmen](http://www.talkchess.com/forum/viewtopic.php?t=38318) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), March 07, 2011
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Michel Goossens](http://goossens.web.cern.ch/goossens/), [Frank Mittelbach](http://www.informit.com/authors/bio.aspx?a=A2624A62-C2B4-40F9-B8ED-E99563F89A27), [Sebastian Rahtz](http://users.ox.ac.uk/%7Erahtz/), [Denis Roegel](http://www.loria.fr/%7Eroegel/), [Herbert Voß](http://www.uit.co.uk/Authors/HerbVoss) (**2007**). *[The LATEXGraphics Companion](http://xml.web.cern.ch/XML/lgc2/)*. Second Edition, Addison-Wesley, ISBN-13: 978-0-321-50892-8, [sample pdf](http://ptgmedia.pearsoncmg.com/images/9780321508928/samplepages/0321508920_Sample.pdf), 10.1 Chess, 10.2 Xiangqi—Chinese Chess
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Henry S. Baird](Mathematician#HSBaird "Mathematician"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1990**). *[Reading Chess](http://doc.cat-v.org/bell_labs/reading_chess/)*. [IEEE Transactions on Pattern Analysis and Machine Intelligence](IEEE#TPAMI "IEEE"), Vol. 12, No. 6, [pdf](http://doc.cat-v.org/bell_labs/reading_chess/reading_chess.pdf)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [LaTeX from Wikipedia](https://en.wikipedia.org/wiki/LaTeX)
 
 **[Up one Level](Game_Notation "Game Notation")**
 

@@ -80,15 +80,15 @@ In March 2013, Steve started a [blog](https://en.wikipedia.org/wiki/Blog) on the
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Monarch Chess Home Page](http://www.monarchchess.com/index.html)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Cozmix - Steve Maughan - Sales Force Optimization, Sizing & Territory Design](https://www.cozmix.com/steve-maughan/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Monarch UCI Chess Engine | Steve Maughan](http://www.stevemaughan.com/chess-reversi/monarch-chess/)
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Edge Reversi Game | Steve Maughan](http://www.stevemaughan.com/chess-reversi/edge-reversi/)
-5. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [\*NEW\* - ChessProgramming.net Blog...](http://www.talkchess.com/forum/viewtopic.php?t=47402) by Steve Maughan, [CCC](CCC "CCC"), March 04, 2013
-6. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [Computer Chess Programming - Everything to do with Computer Chess Programming](http://www.chessprogramming.net/)
-7. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Computer Chess](https://plus.google.com/u/0/communities/101137718910567184008) - [Google+](https://en.wikipedia.org/wiki/Google%2B)
-8. <a id="cite-ref-8" href="#cite-note-8">[8]</a> [Computer Chess Programming - Everything to do with Computer Chess Programming](http://www.chessprogramming.net/)
-9. <a id="cite-ref-9" href="#cite-note-9">[9]</a> [A Computer Chess Google+ Community...](http://www.talkchess.com/forum/viewtopic.php?t=46584) by Steve Maughan, [CCC](CCC "CCC"), December 26, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Monarch Chess Home Page](http://www.monarchchess.com/index.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cozmix - Steve Maughan - Sales Force Optimization, Sizing & Territory Design](https://www.cozmix.com/steve-maughan/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Monarch UCI Chess Engine | Steve Maughan](http://www.stevemaughan.com/chess-reversi/monarch-chess/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Edge Reversi Game | Steve Maughan](http://www.stevemaughan.com/chess-reversi/edge-reversi/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [\*NEW\* - ChessProgramming.net Blog...](http://www.talkchess.com/forum/viewtopic.php?t=47402) by Steve Maughan, [CCC](CCC "CCC"), March 04, 2013
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Computer Chess Programming - Everything to do with Computer Chess Programming](http://www.chessprogramming.net/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Computer Chess](https://plus.google.com/u/0/communities/101137718910567184008) - [Google+](https://en.wikipedia.org/wiki/Google%2B)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Computer Chess Programming - Everything to do with Computer Chess Programming](http://www.chessprogramming.net/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [A Computer Chess Google+ Community...](http://www.talkchess.com/forum/viewtopic.php?t=46584) by Steve Maughan, [CCC](CCC "CCC"), December 26, 2012
 
 **[Up one level](People "People")**
 

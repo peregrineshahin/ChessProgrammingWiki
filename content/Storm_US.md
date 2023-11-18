@@ -57,9 +57,9 @@ Storm played the first two [CCT Tournaments](CCT_Tournaments "CCT Tournaments"),
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Albert Bierstadt](index.php?title=Category:Albert_Bierstadt&action=edit&redlink=1 "Category:Albert Bierstadt (page does not exist)") - [A Storm in the Rocky Mountains, Mt. Rosalie](https://en.wikipedia.org/wiki/A_Storm_in_the_Rocky_Mountains,_Mt._Rosalie) (1866), [Brooklyn Museum](https://en.wikipedia.org/wiki/Brooklyn_Museum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Storm to PVS](https://www.stmintz.com/ccc/index.php?id=380442) by [Sean Empey](Sean_Empey "Sean Empey"), [CCC](CCC "CCC"), August 02, 2004
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [CCT2](http://www.vrichey.de/cct2/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Albert Bierstadt](index.php?title=Category:Albert_Bierstadt&action=edit&redlink=1 "Category:Albert Bierstadt (page does not exist)") - [A Storm in the Rocky Mountains, Mt. Rosalie](https://en.wikipedia.org/wiki/A_Storm_in_the_Rocky_Mountains,_Mt._Rosalie) (1866), [Brooklyn Museum](https://en.wikipedia.org/wiki/Brooklyn_Museum), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Storm to PVS](https://www.stmintz.com/ccc/index.php?id=380442) by [Sean Empey](Sean_Empey "Sean Empey"), [CCC](CCC "CCC"), August 02, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [CCT2](http://www.vrichey.de/cct2/) hosted by [Volker Richey](index.php?title=Volker_Richey&action=edit&redlink=1 "Volker Richey (page does not exist)")
 
 **[Up one level](Engines "Engines")**
 

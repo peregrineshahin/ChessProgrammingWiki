@@ -101,9 +101,9 @@ a family of personal computers marketed by [Commodore International](https://en.
 
 ## [Starring the Computer - The Rachel Papers (1989)](http://starringthecomputer.com/feature.html?f=61) » [Battle Chess](Battle_Chess "Battle Chess") References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Commodore [Amiga 1000](https://en.wikipedia.org/wiki/Amiga_1000) personal computer with 1081 RGB monitor. (1985). [Original photo](https://de.wikipedia.org/wiki/Datei:Amiga_1000_PAL.jpg) by [Kaiiv](https://de.wikipedia.org/wiki/Benutzer:Kaiiv), September 17, 2008, Editing by [Pixel8](https://commons.wikimedia.org/wiki/User:Pixel8), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Amiga from Wikipedia](https://en.wikipedia.org/wiki/Amiga)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [AmigaOS 4 from Wikipedia](https://en.wikipedia.org/wiki/AmigaOS#AmigaOS_4.0,_4.1)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [AmigaOS 3.2 from Wikipedia](https://en.wikipedia.org/wiki/AmigaOS#AmigaOS_3.1.4,_3.2)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Commodore [Amiga 1000](https://en.wikipedia.org/wiki/Amiga_1000) personal computer with 1081 RGB monitor. (1985). [Original photo](https://de.wikipedia.org/wiki/Datei:Amiga_1000_PAL.jpg) by [Kaiiv](https://de.wikipedia.org/wiki/Benutzer:Kaiiv), September 17, 2008, Editing by [Pixel8](https://commons.wikimedia.org/wiki/User:Pixel8), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Amiga from Wikipedia](https://en.wikipedia.org/wiki/Amiga)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [AmigaOS 4 from Wikipedia](https://en.wikipedia.org/wiki/AmigaOS#AmigaOS_4.0,_4.1)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [AmigaOS 3.2 from Wikipedia](https://en.wikipedia.org/wiki/AmigaOS#AmigaOS_3.1.4,_3.2)
 
 **[Up one Level](Hardware "Hardware")**
 

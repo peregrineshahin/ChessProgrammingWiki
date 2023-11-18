@@ -35,7 +35,7 @@ since November 2007 the [Technical University of Dortmund](https://en.wikipedia.
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [TU Math tower](https://commons.wikimedia.org/wiki/File:TU_Math_tower_full_view.jpg), full view, March 6, 2013, by [Rasulnrasul](https://en.wikipedia.org/wiki/User:Rasulnrasul), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [TU Math tower](https://commons.wikimedia.org/wiki/File:TU_Math_tower_full_view.jpg), full view, March 6, 2013, by [Rasulnrasul](https://en.wikipedia.org/wiki/User:Rasulnrasul), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
 
 **[Up one Level](Organizations "Organizations")**
 

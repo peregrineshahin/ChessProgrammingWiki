@@ -83,10 +83,10 @@ h2 47.Bd8 Nc2 48.Bxc7 Nd4+ 49.Kb7 Bxc7 50.Kxc7 Nxb3 51.Rxh2 Kf5 52.Kd6 g5 53.Kd5
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> Editor (**1978**). *[Come to the Third Jerusalem Conference on Information Technology August 6-9, 1978](https://dl.acm.org/citation.cfm?id=1301213)*. [Computer](IEEE#Computer "IEEE"), Vol. 11, No. 3
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Editor (**1978**). *Chess Chatter*. [Personal Computing, Vol. 2, No. 12](Personal_Computing#2_12 "Personal Computing"), pp. 67
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> Editor (**1979**). *From Jerusalem*. [Personal Computing, Vol. 3, No. 1](Personal_Computing#3_1 "Personal Computing"), pp. 71
-4. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Alan Biermann](Alan_Biermann "Alan Biermann") (**1979**). *When a Duchess Reigned in Jerusalem*. [Personal Computing, Vol. 3, No. 2](Personal_Computing#3_1 "Personal Computing"), pp. 71
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Editor (**1978**). *[Come to the Third Jerusalem Conference on Information Technology August 6-9, 1978](https://dl.acm.org/citation.cfm?id=1301213)*. [Computer](IEEE#Computer "IEEE"), Vol. 11, No. 3
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Editor (**1978**). *Chess Chatter*. [Personal Computing, Vol. 2, No. 12](Personal_Computing#2_12 "Personal Computing"), pp. 67
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Editor (**1979**). *From Jerusalem*. [Personal Computing, Vol. 3, No. 1](Personal_Computing#3_1 "Personal Computing"), pp. 71
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Alan Biermann](Alan_Biermann "Alan Biermann") (**1979**). *When a Duchess Reigned in Jerusalem*. [Personal Computing, Vol. 3, No. 2](Personal_Computing#3_1 "Personal Computing"), pp. 71
 
 **[Up one level](Tournaments_and_Matches "Tournaments and Matches")**
 

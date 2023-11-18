@@ -45,9 +45,9 @@ an Australian computer scientist, since 2004 manager at the [Australian Governme
 ## References
 
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Lex Weaver | LinkedIn](https://www.linkedin.com/in/lex-weaver-6554bba9/)
-2. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [Welcome to the KnightCap home page](http://samba.org/KnightCap/)
-3. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [dblp: Lex Weaver](https://dblp.uni-trier.de/pers/hd/w/Weaver:Lex)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Lex Weaver | LinkedIn](https://www.linkedin.com/in/lex-weaver-6554bba9/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Welcome to the KnightCap home page](http://samba.org/KnightCap/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [dblp: Lex Weaver](https://dblp.uni-trier.de/pers/hd/w/Weaver:Lex)
 
 **[Up one level](People "People")**
 

@@ -78,13 +78,13 @@ Along with [Omid David](Eli_David "Eli David") and [Nathan S. Netanyahu](Nathan_
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [Ariel Felner Home](https://felner.wixsite.com/home)
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> Ariel Felner (**2002**). *Improving Search Techniques and using them in Different Environments*. Ph.D. thesis, advisor: [Sarit Kraus](index.php?title=Sarit_Kraus&action=edit&redlink=1 "Sarit Kraus (page does not exist)") and [Richard E. Korf](Richard_Korf "Richard Korf")
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [Mapf.info](http://mapf.info/)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [Omid David](Eli_David "Eli David"), Ariel Felner, [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2004**). *Blockage Detection in Pawn Endgames*. [ICGA Journal, Vol. 27, No. 3](ICGA_Journal#27_3 "ICGA Journal")
-1. <a id="cite-ref-5" href="#cite-note-5">[5]</a> [Ariel Felner - Publications](https://felner.wixsite.com/home/copy-of-publications-2)
-1. <a id="cite-ref-6" href="#cite-note-6">[6]</a> [dblp: Ariel Felner](https://dblp.uni-trier.de/pers/f/Felner:Ariel.html)
-1. <a id="cite-ref-7" href="#cite-note-7">[7]</a> [Iterative deepening A\* from Wikipedia](https://en.wikipedia.org/wiki/Iterative_deepening_A*)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Ariel Felner Home](https://felner.wixsite.com/home)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> Ariel Felner (**2002**). *Improving Search Techniques and using them in Different Environments*. Ph.D. thesis, advisor: [Sarit Kraus](index.php?title=Sarit_Kraus&action=edit&redlink=1 "Sarit Kraus (page does not exist)") and [Richard E. Korf](Richard_Korf "Richard Korf")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mapf.info](http://mapf.info/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Omid David](Eli_David "Eli David"), Ariel Felner, [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2004**). *Blockage Detection in Pawn Endgames*. [ICGA Journal, Vol. 27, No. 3](ICGA_Journal#27_3 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ariel Felner - Publications](https://felner.wixsite.com/home/copy-of-publications-2)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [dblp: Ariel Felner](https://dblp.uni-trier.de/pers/f/Felner:Ariel.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Iterative deepening A\* from Wikipedia](https://en.wikipedia.org/wiki/Iterative_deepening_A*)
 
 **[Up one level](People "People")**
 

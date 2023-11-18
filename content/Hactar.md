@@ -79,10 +79,10 @@ Flexible and imaginative, Hactar was the first computer whose individual compone
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">[1]</a> [A new chess engine: hactar](http://talkchess.com/forum3/viewtopic.php?t=66314) by [Jost Triller](Jost_Triller "Jost Triller"), [CCC](CCC "CCC"), January 13, 2018
-1. <a id="cite-ref-2" href="#cite-note-2">[2]</a> [hactar/chess_data.rs at master · tsoj/hactar · GitHub](https://github.com/tsoj/hactar/blob/master/src/chess_data.rs#L101)
-1. <a id="cite-ref-3" href="#cite-note-3">[3]</a> [List of The Hitchhiker's Guide to the Galaxy characters - Wikipedia](https://en.wikipedia.org/wiki/List_of_The_Hitchhiker%27s_Guide_to_the_Galaxy_characters#Hactar)
-1. <a id="cite-ref-4" href="#cite-note-4">[4]</a> [GitHub - tsoj/hactar: hactar is a simple chessengine written in rust](https://github.com/tsoj/hactar#readme)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [A new chess engine: hactar](http://talkchess.com/forum3/viewtopic.php?t=66314) by [Jost Triller](Jost_Triller "Jost Triller"), [CCC](CCC "CCC"), January 13, 2018
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [hactar/chess_data.rs at master · tsoj/hactar · GitHub](https://github.com/tsoj/hactar/blob/master/src/chess_data.rs#L101)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [List of The Hitchhiker's Guide to the Galaxy characters - Wikipedia](https://en.wikipedia.org/wiki/List_of_The_Hitchhiker%27s_Guide_to_the_Galaxy_characters#Hactar)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [GitHub - tsoj/hactar: hactar is a simple chessengine written in rust](https://github.com/tsoj/hactar#readme)
 
 **[Up one Level](Engines "Engines")**
 
