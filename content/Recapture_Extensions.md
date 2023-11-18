@@ -5,9 +5,9 @@ Recapture Extensions are a subset of [Capture Extensions](Capture_Extensions), r
 
 ## See also
 
-   [Capture Extensions](Capture_Extensions)
-   [Check Extensions](Check_Extensions)
-   [Zwischenzug](Zwischenzug)
+**  [Capture Extensions](Capture_Extensions)
+**  [Check Extensions](Check_Extensions)
+**  [Zwischenzug](Zwischenzug)
 
 ## Forum Posts
 
