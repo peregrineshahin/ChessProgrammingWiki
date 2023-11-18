@@ -25,24 +25,40 @@ Less common conditions on moves not to reduce:
 * [Tactically](Tactics "Tactics") threatening moves
 * Moves with good past [relative history](Relative_History_Heuristic "Relative History Heuristic") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 * Any [Pawn Moves](Pawn_Push "Pawn Push")
-* Allowing reductions of "bad" [captures](Captures "Captures") ([SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") < 0)
+* Reductions of "good" [captures](Captures "Captures") ([SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") >= 0)
 * Moves of a [threatened piece](Null_Move_Pruning#ThreatDetection "Null Move Pruning") to safety (often detected via a [Null Move search](Null_Move_Pruning "Null Move Pruning"))
 
 
 ## Reduction Depth
 
 
-Classical implementation reduces by one [ply](Ply "Ply") only. Yet modern programs, most notably [Stockfish](Stockfish "Stockfish"), allow reductions of more than one ply and increase them for later moves. Reduction depth changes according to expected [node type](Node_Types "Node Types") (being typically smaller in pv nodes), [depth](Depth "Depth") and move number. Here some sample formulas can be viewed:
+Classical implementation reduces by one [ply](Ply "Ply") only. Yet modern programs, most notably [Stockfish](Stockfish "Stockfish"), allow reductions of more than one ply and increase them for later moves. Base reduction depth changes according to [depth](Depth "Depth") and move number, with further adjustments being made depending on certain conditions. Here are some sample base formulas can be viewed:
 
 
+* [Weiss](Weiss "Weiss") reduces by `0.20 + ln(depth) * ln(move number) / 3.35` for captures and promotions and `1.35 + ln(depth) * ln(move number) / 2.75` for quiet moves.
+* [Ethereal](Ethereal "Ethereal") reduces by `0.7844 + ln(depth) * ln(moves played) / 2.4696` for quiet moves and `3` (or `2` if the move gave check) for captures and promotions
 
-* [Senpai](Senpai "Senpai") reduces by one ply for the first 6 moves and by depth / 3 for remaining moves.
-* [Fruit Reloaded](Fruit_Reloaded "Fruit Reloaded") uses formula: uint8( sqrt(double(depth-1)) + sqrt(double(moves-1))); for non-PV nodes. In PV-nodes it reduces by 2/3 of this value.
+### LMR adjustments
 
+
+After determining a base value, several adjustments can be made to the reduction depending on certain conditions.
+
+Some common conditions to reduce less:
+
+* Move gives check
+* Move is a [killer move](Killer_Heuristic "Killer Heuristic") or a [countermove](Countermove_Heuristic "Countermove Heuristic")
+* We are on a [PV-node](Node_Types#PV "Node Types")
+* Move has a good [history](History_Heuristic "History Heuristic") score
+* Move has a good [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") score
+
+Some common conditions to reduce more:
+* We are on an expected [cut-node](Node_Types#CUT "Node Types")
+* Move has a bad [history](History_Heuristic "History Heuristic") score
+* Our score is not improving (ie our current evaluation is less than or equal to the evaluation from two [plies](Ply "Ply") ago)
 
 ## Re-searches
 
-Classical implementation assumes a re-search at full depth if the reduced depth search returns a score above alpha.
+Classical implementation assumes a re-search at full depth if the reduced depth search returns a score above alpha. However, modern implementations have a triple-search system for [PV-nodes](Node_Types#PV "Node Types") and a double search system for non PV-nodes.
 
 
 

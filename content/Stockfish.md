@@ -91,7 +91,7 @@ On July 19, 2014, Stockfish 5 played a four game match versus [Daniel Naroditsky
 	+ [Shared Hash Table](Shared_Hash_Table "Shared Hash Table")
 	+ 10 [Bytes](Byte "Byte") per [Entry](Transposition_Table#Entry "Transposition Table"), 3 Entries per [Cluster](Transposition_Table#Bucket "Transposition Table")
 	+ [Depth-preferred Replacement Strategy](Transposition_Table#ReplacementStrategies "Transposition Table")
-	+ No [PV-Node](Node_Types#PV "Node Types") probing
+	+ No [PV-Node](Node_Types#PV "Node Types") cutoffs
 	+ [Prefetch](Memory#Cache "Memory")
 * [Move Ordering](Move_Ordering "Move Ordering")
 	+ [Countermove Heuristic](Countermove_Heuristic "Countermove Heuristic")
@@ -103,7 +103,7 @@ On July 19, 2014, Stockfish 5 played a four game match versus [Daniel Naroditsky
 	+ [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation")
 * [Selectivity](Selectivity "Selectivity")
 	+ [Extensions](Extensions "Extensions")
-		- [Check Extensions](Check_Extensions "Check Extensions") if [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") >= 0
+		- [Check Extensions](Check_Extensions "Check Extensions")
 		- [Restricted Singular Extensions](Singular_Extensions#RestrictedSE "Singular Extensions")
 	+ [Pruning](Pruning "Pruning")
 		- [Futility Pruning](Futility_Pruning "Futility Pruning")

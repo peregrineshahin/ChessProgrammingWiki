@@ -19,19 +19,19 @@ Chaly's impact in the realm of chess engines lies in his dedication to refining 
 
 ### Stockfish development
 Michael Chaly main contributions to [Stockfish](Stockfish.md):
-* 3rd futility pruning
+* 3rd futility pruning in [Quiescence search](Quiescence_search)
 * [History pruning](History_Leaf_Pruning.md)
 * Quiet evasions movecount pruning
 * [Qsearch](Quiescence_Search.md) pruning techniques
-* Excluding double pawn protected squares from king ring (giving extra bonus as a defender for having f2 and h2 pawns in place)
+* Excluding double pawn protected squares from king ring for handcrafted evaluation (giving extra bonus as a defender for having f2 and h2 pawns in place)
 * Boosting up fianchetto defences etc
-* [IIR](Internal Iterative Deepening) for [cutnodes](Node_Types#cut-nodes)
-* Allow captures in Late [Late Move Reductions](Late_Move_Reductions)
-* Blending histories in parent node futility pruning
+* [IIR](Internal_Iterative_Reductions "Internal Iterative Reductions") for expected [cutnodes](Node_Types#cut-nodes)
+* Allow captures in [Late Move Reductions](Late_Move_Reductions)
+* Blending histories in [Reverse Futility Pruning](Reverse_futility_pruning "Reverse futility pruning")
 * Adjusting full depth search after [Late Move Reductions](Late_Move_Reductions)
-* negative extensions after singular search
-* post-lmr deeper searches
-* First hyperscaling tunings
+* Negative Extensions after singular search
+* Post-LMR deeper searches
+* Pioneer of hyperscaling tunings (ie tuning values at extremely long time controls, with results ranging from -10 elo at 10s + 0.1s increment to 10 elo at 180 + 1.8s increment)
 
 ## External Links
 * [GitHub - https://github.com/Vizvezdenec](https://github.com/Vizvezdenec)

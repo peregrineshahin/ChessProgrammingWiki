@@ -5,7 +5,7 @@ title: Rust
 
 
 
-[ Rust Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+<a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Rust**,  
 
 a [multi-paradigm](https://en.wikipedia.org/wiki/Programming_paradigm#Support_for_multiple_paradigms) [system programming language](https://en.wikipedia.org/wiki/System_programming_language) featuring safe [memory](Memory "Memory") handling and [concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science)), syntactically similar to [C](C "C") or [C++](Cpp "Cpp") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
