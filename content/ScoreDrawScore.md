@@ -177,7 +177,7 @@ While todays processors like [x86-64](X86-64 "X86-64") provide fast [SIMD](SIMD_
 ## Score Types
 
 
-In [alpha-beta](Alpha-Beta "Alpha-Beta"), the vast majority of the nodes hold either [upper](Upper_Bound "Upper Bound") ([All-nodes](Node_Types#All-Nodes "Node Types")) or [lower bounds](Lower_Bound "Lower Bound") ([Cut-nodes](Node_Types#Cut-Nodes "Node Types")) rather than an [exact scores](Exact_Score "Exact Score") of confirmed [PV-nodes](Node_Types#PV-Node "Node Types"). Rather than associate some bound-bits with a score, [Don Beal](Don_Beal "Don Beal") proposed [integrated bounds and values](Integrated_Bounds_and_Values "Integrated Bounds and Values") integers [[10]](#cite_note-10) .
+In [alpha-beta](Alpha-Beta "Alpha-Beta"), the vast majority of the nodes hold either [upper](Upper_Bound "Upper Bound") ([All-nodes](Node_Types#all-nodes "Node Types")) or [lower bounds](Lower_Bound "Lower Bound") ([Cut-nodes](Node_Types#cut-nodes "Node Types")) rather than an [exact scores](Exact_Score "Exact Score") of confirmed [PV-nodes](Node_Types#PV-Node "Node Types"). Rather than associate some bound-bits with a score, [Don Beal](Don_Beal "Don Beal") proposed [integrated bounds and values](Integrated_Bounds_and_Values "Integrated Bounds and Values") integers [[10]](#cite_note-10) .
 
 
 

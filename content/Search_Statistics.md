@@ -11,7 +11,7 @@ title: Search Statistics
 ### Cutoffs
 
 
-Inside [Alpha-beta](Alpha-Beta "Alpha-Beta")- or [PV-search](Principal_Variation_Search "Principal Variation Search") it is of particular interest to count how often a node [failes high](Fail-High "Fail-High") or not, in relation to its [node types](Node_Types "Node Types"), that is expected [cut-Nodes](Node_Types#Cut-Nodes "Node Types") or expected [All-nodes](Node_Types#All-Nodes "Node Types"). If a fail-high occurs, it is illuminative to know whether the fail-high move it was tried first, early or late and what [move ordering](Move_Ordering "Move Ordering") classification like move from the [transposition table](Transposition_Table "Transposition Table"), [winning captures](Captures "Captures"), [killer moves](Killer_Move "Killer Move"), etc. was applied.
+Inside [Alpha-beta](Alpha-Beta "Alpha-Beta")- or [PV-search](Principal_Variation_Search "Principal Variation Search") it is of particular interest to count how often a node [failes high](Fail-High "Fail-High") or not, in relation to its [node types](Node_Types "Node Types"), that is expected [cut-Nodes](Node_Types#cut-nodes "Node Types") or expected [All-nodes](Node_Types#all-nodes "Node Types"). If a fail-high occurs, it is illuminative to know whether the fail-high move it was tried first, early or late and what [move ordering](Move_Ordering "Move Ordering") classification like move from the [transposition table](Transposition_Table "Transposition Table"), [winning captures](Captures "Captures"), [killer moves](Killer_Move "Killer Move"), etc. was applied.
 
 
 

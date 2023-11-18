@@ -21,11 +21,11 @@ If using a [triangular PV-table](Triangular_PV-Table "Triangular PV-Table") to [
 
 ## Cut-Node
 
-At [Cut-nodes](Node_Types#Cut-Nodes "Node Types"), if a move [fails high](Fail-High "Fail-High"), it is not necessarily the best move, but a [refutation move](Refutation_Move "Refutation Move"), good enough to refute opponents previous move. Since it is the best move found so far, in the context of transposition table, it is often flippant mentioned as best move as well.
+At [Cut-nodes](Node_Types#cut-nodes "Node Types"), if a move [fails high](Fail-High "Fail-High"), it is not necessarily the best move, but a [refutation move](Refutation_Move "Refutation Move"), good enough to refute opponents previous move. Since it is the best move found so far, in the context of transposition table, it is often flippant mentioned as best move as well.
 
 ## All-Node
 
-At [All-nodes](Node_Types#All-Nodes "Node Types") there is no best move found at all, despite all childs were considered if not pruned. While there is a maximum score in the arithmetical sense, all scores below or equal to [alpha](Alpha "Alpha") are [upper bounds](Upper_Bound "Upper Bound") and not comparable to determine a best move.
+At [All-nodes](Node_Types#all-nodes "Node Types") there is no best move found at all, despite all childs were considered if not pruned. While there is a maximum score in the arithmetical sense, all scores below or equal to [alpha](Alpha "Alpha") are [upper bounds](Upper_Bound "Upper Bound") and not comparable to determine a best move.
 
 ## See also
 

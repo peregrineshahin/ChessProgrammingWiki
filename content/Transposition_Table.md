@@ -158,8 +158,8 @@ Typically, the following information is stored as determined by the [search](Sea
 
 
  [PV-Node](Node_Types#PV-Node "Node Types"), Score is [Exact](Exact_Score "Exact Score")
- [All-Node](Node_Types#All-Nodes "Node Types"), Score is [Upper Bound](Upper_Bound "Upper Bound")
- [Cut-Node](Node_Types#Cut-Nodes "Node Types"), Score is [Lower Bound](Lower_Bound "Lower Bound")
+ [All-Node](Node_Types#all-nodes "Node Types"), Score is [Upper Bound](Upper_Bound "Upper Bound")
+ [Cut-Node](Node_Types#cut-nodes "Node Types"), Score is [Lower Bound](Lower_Bound "Lower Bound")
 * [Age](Transposition_Table#Aging "Transposition Table") is used to determine when to overwrite entries from searching previous positions during the [game of chess](Chess_Game "Chess Game")
 
 

@@ -16,7 +16,7 @@ Please enter the words in an alphabetical order.
 - [ABK](ABK "ABK") - [Arena's](Arena "Arena") [opening book](Opening_Book "Opening Book") format
 - [ACCA](ACCA "ACCA") - Americas' Computer Chess Association
 - [ACM](ACM "ACM") - Association for Computing Machinery
-- [All-Nodes](Node_Types#All-Nodes "Node Types")
+- [All-Nodes](Node_Types#all-nodes "Node Types")
 - [Alpha](Alpha "Alpha")
 - [Alpha-Beta](Alpha-Beta "Alpha-Beta")
 - [ANN](Neural_Networks "Neural Networks") - Artificial Neural Network
@@ -66,7 +66,7 @@ Please enter the words in an alphabetical order.
 - [CSA](CSA "CSA") - Computer Shogi Association
 - [CSVN](CSVN "CSVN") - Computerschaak Vereniging Nederland
 - [CTG](CTG "CTG") - [ChessBase](ChessBase "ChessBase") [opening book](Opening_Book "Opening Book") format
-- [Cut-Nodes](Node_Types#Cut-Nodes "Node Types")
+- [Cut-Nodes](Node_Types#cut-nodes "Node Types")
 - [Cutoff](Beta-Cutoff "Beta-Cutoff") = Beta-Cutoff
 
 ## D
@@ -109,9 +109,9 @@ Please enter the words in an alphabetical order.
 
 - [Fail-Hard](Fail-Hard "Fail-Hard")
 - [Fail-High](Fail-High "Fail-High")
-- [Fail-High Nodes](Node_Types#Cut-Nodes "Node Types") = Cut-Nodes
+- [Fail-High Nodes](Node_Types#cut-nodes "Node Types") = Cut-Nodes
 - [Fail-Low](Fail-Low "Fail-Low")
-- [Fail-Low Nodes](Node_Types#All-Nodes "Node Types") = All-Nodes
+- [Fail-Low Nodes](Node_Types#all-nodes "Node Types") = All-Nodes
 - [Fail-Soft](Fail-Soft "Fail-Soft")
 - [Faker](Faker "Faker")
 - [FAN](Algebraic_Chess_Notation#FAN "Algebraic Chess Notation") - Figurine Algebraic Notation

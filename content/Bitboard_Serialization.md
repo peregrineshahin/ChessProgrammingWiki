@@ -218,7 +218,7 @@ For instance for a king on a1 (number of moves: vector of moves):
 
 Kings on edges have 5 potential target squares, thus there are 32 possible move-lists. All other kings have 8 all the 8 neighbors with up to 256 move-lists. Similar move-list enumeration is possible with knights and others. All possible move-target subsets of kings and knights for all 64 from-squares are [perfectly minimal hashable](Hash_Table#MinimalPerfectHashing "Hash Table") with a magic factor of four one-bits set. 10016 possible king-move-lists and 5520 knight-move-lists. To reduce memory one may offset the sets to a "normalized" source square per king, knight and sliding piece line, implying some vector arithmetic in the board centric world considering the offset.
 
-The less populated move-target subsets are, the less efficient this hashing technique. This might become a problem since bitboard move-generation is essentially about subsets of moves with certain properties, like most importantly fast winning captures at [Cut-nodes](Node_Types#Cut-Nodes "Node Types").
+The less populated move-target subsets are, the less efficient this hashing technique. This might become a problem since bitboard move-generation is essentially about subsets of moves with certain properties, like most importantly fast winning captures at [Cut-nodes](Node_Types#cut-nodes "Node Types").
 
 ## See also
 

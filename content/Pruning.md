@@ -15,20 +15,20 @@ a name for every heuristic that removes completely certain branches of the [sear
 ## Forward pruning techniques
 
 
-Forward pruning techniques are either applied at expected [Cut-Nodes](Node_Types#Cut-Nodes "Node Types") or [All-Nodes](Node_Types#All-Nodes "Node Types") and return either beta as [lower bound](Lower_Bound "Lower Bound") or alpha as [upper bound](Upper_Bound "Upper Bound"). The none [recursive](Recursion "Recursion") [ProbCut](ProbCut "ProbCut") is applied at both types of none [PV-nodes](Node_Types#PV-Node "Node Types"). Rather than immediately returning alpha at strong expected [All-Nodes](Node_Types#All-Nodes "Node Types") after a reduced or [quiescence search](Quiescence_Search "Quiescence Search"), pruning techniques near the horizon skip moves, which are very unlikely to exceed alpha, or in case of the quiescence search itself, all (most) [quiet moves](Quiet_Moves "Quiet Moves") as well as losing [captures](Captures "Captures").
+Forward pruning techniques are either applied at expected [Cut-Nodes](Node_Types#cut-nodes "Node Types") or [All-Nodes](Node_Types#all-nodes "Node Types") and return either beta as [lower bound](Lower_Bound "Lower Bound") or alpha as [upper bound](Upper_Bound "Upper Bound"). The none [recursive](Recursion "Recursion") [ProbCut](ProbCut "ProbCut") is applied at both types of none [PV-nodes](Node_Types#PV-Node "Node Types"). Rather than immediately returning alpha at strong expected [All-Nodes](Node_Types#all-nodes "Node Types") after a reduced or [quiescence search](Quiescence_Search "Quiescence Search"), pruning techniques near the horizon skip moves, which are very unlikely to exceed alpha, or in case of the quiescence search itself, all (most) [quiet moves](Quiet_Moves "Quiet Moves") as well as losing [captures](Captures "Captures").
 
 
 
 ### Returning Beta
 
 
-at expected [Cut-Nodes](Node_Types#Cut-Nodes "Node Types"):
+at expected [Cut-Nodes](Node_Types#cut-nodes "Node Types"):
 
 
 
 * [Null Move Pruning](Null_Move_Pruning "Null Move Pruning") - if reduced nullmove search fails high, return beta
 * [Multi-Cut](Multi-Cut "Multi-Cut") - if a reduced, specialized search has C cut-offs from N tried moves, return beta
-* [Enhanced Forward Pruning](Enhanced_Forward_Pruning "Enhanced Forward Pruning"), also applicable at expected [All-Nodes](Node_Types#All-Nodes "Node Types")
+* [Enhanced Forward Pruning](Enhanced_Forward_Pruning "Enhanced Forward Pruning"), also applicable at expected [All-Nodes](Node_Types#all-nodes "Node Types")
 * [ProbCut](ProbCut "ProbCut")
 * [Reverse Futility Pruning](Reverse_Futility_Pruning "Reverse Futility Pruning")
 * [Standing Pat in Quiescence Search](Quiescence_Search#StandPat "Quiescence Search")
@@ -37,7 +37,7 @@ at expected [Cut-Nodes](Node_Types#Cut-Nodes "Node Types"):
 ### Returning Alpha
 
 
-or below at expected [All-Nodes](Node_Types#All-Nodes "Node Types") or expected [Cut-Nodes](Node_Types#Cut-Nodes "Node Types") which turn out to become All-Nodes:
+or below at expected [All-Nodes](Node_Types#all-nodes "Node Types") or expected [Cut-Nodes](Node_Types#cut-nodes "Node Types") which turn out to become All-Nodes:
 
 
 
@@ -50,7 +50,7 @@ or below at expected [All-Nodes](Node_Types#All-Nodes "Node Types") or expected 
 ### Skipping Moves
 
 
-likely at [All-Nodes](Node_Types#All-Nodes "Node Types"):
+likely at [All-Nodes](Node_Types#all-nodes "Node Types"):
 
 
 

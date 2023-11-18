@@ -36,7 +36,7 @@ an [UCI](UCI "UCI") compliant chess engine by [Folkert van Heusden](Folkert_van_
 ## 2017
 
 - [embla](http://www.talkchess.com/forum/viewtopic.php?t=64952) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), August 21, 2017
-- [cut nodes](http://www.talkchess.com/forum/viewtopic.php?t=65477) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), October 18, 2017 » [Cut-Nodes](Node_Types#Cut-Nodes "Node Types")
+- [cut nodes](http://www.talkchess.com/forum/viewtopic.php?t=65477) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), October 18, 2017 » [Cut-Nodes](Node_Types#cut-nodes "Node Types")
 - [PVS & Embla](http://www.talkchess.com/forum/viewtopic.php?t=65490) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), October 19, 2017 » [Principal Variation Search](Principal_Variation_Search "Principal Variation Search")
 - [Embla 1.0.1](http://www.talkchess.com/forum/viewtopic.php?t=65879) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), December 01, 2017
 

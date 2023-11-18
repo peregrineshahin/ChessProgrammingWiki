@@ -394,7 +394,7 @@ Most of the time, null move is refuted by a [capture](Captures "Captures"). Ther
 
 
 
-* [NMP on ALL nodes](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6392) by [Onno Garms](Onno_Garms "Onno Garms"), [Winboard Programming Forum](Computer_Chess_Forums "Computer Chess Forums"), April 15, 2007 » [All Nodes](Node_Types#All-Nodes "Node Types")
+* [NMP on ALL nodes](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6392) by [Onno Garms](Onno_Garms "Onno Garms"), [Winboard Programming Forum](Computer_Chess_Forums "Computer Chess Forums"), April 15, 2007 » [All Nodes](Node_Types#all-nodes "Node Types")
 * [Re: Search or Evaluation?](http://www.hiarcs.net/forums/viewtopic.php?p=2944) by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 14, 2007
 * [Null Move](http://www.talkchess.com/forum/viewtopic.php?p=160677) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), November 23, 2007
 * [fractal null move](http://www.talkchess.com/forum/viewtopic.php?t=18081) by [Pawel Koziol](Pawel_Koziol "Pawel Koziol"), [CCC](CCC "CCC"), November 28, 2007

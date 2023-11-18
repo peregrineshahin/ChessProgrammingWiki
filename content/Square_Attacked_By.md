@@ -81,7 +81,7 @@ bool CBoard::attacked(U64 occupied, enumSquare square, enumColor bySide) {
 ## Legality Test
 
 
-One application inside a chess program, is to test whether a certain move is [psuedo-legal](Pseudo-Legal_Move "Pseudo-Legal Move"). This could be a [hash move](Hash_Move "Hash Move") probed from the [transposition table](Transposition_Table "Transposition Table"), or a [killer move](Killer_Move "Killer Move") supplied by the [killer heuristic](Killer_Heuristic "Killer Heuristic"). In [cut-nodes](Node_Types#Cut-Nodes "Node Types") one may save the complete move-generation by one legality test.
+One application inside a chess program, is to test whether a certain move is [psuedo-legal](Pseudo-Legal_Move "Pseudo-Legal Move"). This could be a [hash move](Hash_Move "Hash Move") probed from the [transposition table](Transposition_Table "Transposition Table"), or a [killer move](Killer_Move "Killer Move") supplied by the [killer heuristic](Killer_Heuristic "Killer Heuristic"). In [cut-nodes](Node_Types#cut-nodes "Node Types") one may save the complete move-generation by one legality test.
 
 
 

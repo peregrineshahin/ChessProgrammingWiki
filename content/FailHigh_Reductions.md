@@ -9,7 +9,7 @@ as proposed and examined by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann")
 
 ## Implementation
 
-FHR is applied at expected [Fail-high or Cut-Nodes](Node_Types#Cut-Nodes "Node Types") [recursively](Recursion "Recursion") inside a [NegaScout](NegaScout "NegaScout")-framework. Feldmann's implementation did no re-search with the original depth, if the shallow search didn't confirm the fail high. While NMH relies on a dynamic search, but cuts the whole subtree - FHR uses a static threat detection. FHR is not as vulnerable as NMH in situations, where the NMO fails - namely in [zugzwang](Zugzwang "Zugzwang").
+FHR is applied at expected [Fail-high or Cut-Nodes](Node_Types#cut-nodes "Node Types") [recursively](Recursion "Recursion") inside a [NegaScout](NegaScout "NegaScout")-framework. Feldmann's implementation did no re-search with the original depth, if the shallow search didn't confirm the fail high. While NMH relies on a dynamic search, but cuts the whole subtree - FHR uses a static threat detection. FHR is not as vulnerable as NMH in situations, where the NMO fails - namely in [zugzwang](Zugzwang "Zugzwang").
 
 ```C++
 

@@ -224,7 +224,7 @@ Assuming a constant [branching factor](Branching_Factor "Branching Factor") of 4
 ## Quotes
 
 
-[Robert Hyatt](Robert_Hyatt "Robert Hyatt") on the distinction between [ALL-](Node_Types#All-Nodes "Node Types") and [CUT-nodes](Node_Types#Cut-Nodes "Node Types") <a id="cite-note-9" href="#cite-ref-9">[9]</a>:
+[Robert Hyatt](Robert_Hyatt "Robert Hyatt") on the distinction between [ALL-](Node_Types#all-nodes "Node Types") and [CUT-nodes](Node_Types#cut-nodes "Node Types") <a id="cite-note-9" href="#cite-ref-9">[9]</a>:
 
 
 

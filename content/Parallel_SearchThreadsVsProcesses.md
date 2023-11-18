@@ -129,9 +129,9 @@ Overview and taxonomy of parallel algorithms based on [alpha-beta](Alpha-Beta "A
  |  Mandatory Work First
  | [Selim Akl](Selim_Akl "Selim Akl") et al.
  |  Static/Centralized
- | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types")+
+ | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types")+
 Leftmost child of 3 
- |  Bad [Type-2](Node_Types#Cut-Nodes "Node Types") |
+ |  Bad [Type-2](Node_Types#cut-nodes "Node Types") |
 |  1980
  |  Tree Splitting
  | [Raphael Finkel](Raphael_Finkel "Raphael Finkel"),[John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") |  Static/Centralized
@@ -144,8 +144,8 @@ Leftmost child of 3
 |  1983
  |  Key Node
  | [Gary Lindstrom](Gary_Lindstrom "Gary Lindstrom") |  Static/Centralized
- | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types")+Leftmost child of 3
- |  Bad [Type-2](Node_Types#Cut-Nodes "Node Types") |
+ | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types")+Leftmost child of 3
+ |  Bad [Type-2](Node_Types#cut-nodes "Node Types") |
 |  1986
  |  UIDPABS [[18]](#cite_note-18) | [Monroe Newborn](Monroe_Newborn "Monroe Newborn") |  Static/Centralized
  | [Root](Root "Root") |  None
@@ -153,24 +153,24 @@ Leftmost child of 3
 |  1987
  |  DPVS
  | [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") |  Dynamic/Centralized
- | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types")+[2](Node_Types#Cut-Nodes "Node Types") | [Type 1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types")+Bad [2](Node_Types#Cut-Nodes "Node Types") |
+ | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types")+[2](Node_Types#cut-nodes "Node Types") | [Type 1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") |
 |  EPVS
  | [Robert Hyatt](Robert_Hyatt "Robert Hyatt"),[Bruce W. Suter](Bruce_W._Suter "Bruce W. Suter"),[Harry Nelson](Harry_Nelson "Harry Nelson") |  Dynamic/Centralized
- | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types") |
+ | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types") |
 | [Waycool](Waycool "Waycool") | [Ed Felten](Ed_Felten "Ed Felten"),[Steve Otto](Steve_Otto "Steve Otto") |  Dynamic/Distributed
- |  All, except [Type-2](Node_Types#Cut-Nodes "Node Types")with no [TT-Entry](Transposition_Table "Transposition Table") |  Nodes with TT & no [cutoff](Beta-Cutoff "Beta-Cutoff") |
+ |  All, except [Type-2](Node_Types#cut-nodes "Node Types")with no [TT-Entry](Transposition_Table "Transposition Table") |  Nodes with TT & no [cutoff](Beta-Cutoff "Beta-Cutoff") |
 | [YBWC](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") | [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") |  Dynamic/Distributed
- | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types")+Bad [2](Node_Types#Cut-Nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+Bad [2](Node_Types#Cut-Nodes "Node Types") |
+ | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") |
 |  1988
  | [Dynamic Tree Splitting](Dynamic_Tree_Splitting "Dynamic Tree Splitting") | [Robert Hyatt](Robert_Hyatt "Robert Hyatt") |  Dynamic/Distributed
- | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types")+Bad [2](Node_Types#Cut-Nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+Bad [2](Node_Types#Cut-Nodes "Node Types") |
+ | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") |
 |  Bound-and-Branch
  | [Chris Ferguson](index.php?title=Chris_Ferguson&action=edit&redlink=1 "Chris Ferguson (page does not exist)"), [Richard Korf](Richard_Korf "Richard Korf") |  Dynamic/Distributed
- | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types")+Bad [2](Node_Types#Cut-Nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+Bad [2](Node_Types#Cut-Nodes "Node Types") |
+ | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") |
 |  1990
  |  Delayed Branch Tree Expansion
  | [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") |  Static/Centralized
- | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types") |  Bad [Type-2](Node_Types#Cut-Nodes "Node Types") |
+ | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types") |  Bad [Type-2](Node_Types#cut-nodes "Node Types") |
 |  1993
  |  Frontier Splitting
  | [Paul Lu](Paul_Lu "Paul Lu") |  Dynamic/Distributed
@@ -178,15 +178,15 @@ Leftmost child of 3
  | [Root](Root "Root") |
 |  αβ\*
  | [Vincent David](Vincent_David "Vincent David") |  Dynamic/Distributed
- | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types")+Bad [2](Node_Types#Cut-Nodes "Node Types") |
+ | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") |
 |  1994
  |  CABP [[19]](#cite_note-19) | [Van-Dat Cung](index.php?title=Van-Dat_Cung&action=edit&redlink=1 "Van-Dat Cung (page does not exist)") |  Static/Centralized
- | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types") |  Bad [Type-2](Node_Types#Cut-Nodes "Node Types") |
+ | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types") |  Bad [Type-2](Node_Types#cut-nodes "Node Types") |
 | [Jamboree](Jamboree "Jamboree") | [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") |  Dynamic/Distributed
- | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types")+Bad [2](Node_Types#Cut-Nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+Bad [2](Node_Types#Cut-Nodes "Node Types") |
+ | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") |
 |  1995
  | [ABDADA](ABDADA "ABDADA") | [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") |  Dynamic/Distributed
- | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#All-Nodes "Node Types")+Bad [2](Node_Types#Cut-Nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+Bad [2](Node_Types#Cut-Nodes "Node Types") |
+ | [Type-1](Node_Types#PV-Node "Node Types")+[3](Node_Types#all-nodes "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") | [Type-1](Node_Types#PV-Node "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") |
 |  Dynamic Multiple PV-Split
  | [Tony Marsland](Tony_Marsland "Tony Marsland"), [Yaoqing Gao](index.php?title=Yaoqing_Gao&action=edit&redlink=1 "Yaoqing Gao (page does not exist)") |  Dynamic/Distributed
  |  Nodes within PV set

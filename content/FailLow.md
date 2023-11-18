@@ -8,7 +8,7 @@ There are two related semantics, if talking of a **Fail-Low** - inside the [sear
 
 ## Inside the Tree
 
-A **Fail-low** appears at so called [All-Nodes](Node_Types#All-Nodes "Node Types") inside the [alpha-beta algorithm](Alpha-Beta "Alpha-Beta"), also called Fail-Low nodes. The score returned is a [upper bound](Upper_Bound "Upper Bound") on the [exact score](Exact_Score "Exact Score") of the [node](Node "Node").
+A **Fail-low** appears at so called [All-Nodes](Node_Types#all-nodes "Node Types") inside the [alpha-beta algorithm](Alpha-Beta "Alpha-Beta"), also called Fail-Low nodes. The score returned is a [upper bound](Upper_Bound "Upper Bound") on the [exact score](Exact_Score "Exact Score") of the [node](Node "Node").
 
 Quote by [Bruce Moreland](Bruce_Moreland "Bruce Moreland") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 

@@ -25,7 +25,7 @@ Michael Chaly main contributions to [Stockfish](Stockfish.md):
 * [Qsearch](Quiescence_Search.md) pruning techniques
 * Excluding double pawn protected squares from king ring for handcrafted evaluation (giving extra bonus as a defender for having f2 and h2 pawns in place)
 * Boosting up fianchetto defences etc
-* [IIR](Internal_Iterative_Reductions "Internal Iterative Reductions") for expected [cutnodes](Node_Types#Cut-Nodes-nodes)
+* [IIR](Internal_Iterative_Reductions "Internal Iterative Reductions") for expected [cutnodes](Node_Types#cut-nodes-nodes)
 * Allow captures in [Late Move Reductions](Late_Move_Reductions)
 * Blending histories in [Reverse Futility Pruning](Reverse_futility_pruning "Reverse futility pruning")
 * Adjusting full depth search after [Late Move Reductions](Late_Move_Reductions)

@@ -6,7 +6,7 @@ title: Move Ordering
 
 
 [ [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - Four Parts [[1]](#cite_note-1)
-For the [alpha-beta](Alpha-Beta "Alpha-Beta") algorithm to perform well, the [best moves](Best_Move "Best Move") need to be searched first. This is especially true for [PV-nodes](Node_Types#PV-Node "Node Types") and expected [Cut-nodes](Node_Types#Cut-Nodes "Node Types"). The goal is to become close to the minimal tree. On the other hand - at Cut-nodes - the best move is not always the cheapest refutation, see for instance [enhanced transposition cutoff](Enhanced_Transposition_Cutoff "Enhanced Transposition Cutoff"). **Most** important inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework is to try the [principal variation](Principal_Variation "Principal Variation") of the previous [iteration](Iteration "Iteration") as the leftmost path for the next iteration, which might be applied by an explicit [triangular PV-table](Triangular_PV-Table "Triangular PV-Table") or implicit by the [transposition table](Transposition_Table "Transposition Table").
+For the [alpha-beta](Alpha-Beta "Alpha-Beta") algorithm to perform well, the [best moves](Best_Move "Best Move") need to be searched first. This is especially true for [PV-nodes](Node_Types#PV-Node "Node Types") and expected [Cut-nodes](Node_Types#cut-nodes "Node Types"). The goal is to become close to the minimal tree. On the other hand - at Cut-nodes - the best move is not always the cheapest refutation, see for instance [enhanced transposition cutoff](Enhanced_Transposition_Cutoff "Enhanced Transposition Cutoff"). **Most** important inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework is to try the [principal variation](Principal_Variation "Principal Variation") of the previous [iteration](Iteration "Iteration") as the leftmost path for the next iteration, which might be applied by an explicit [triangular PV-table](Triangular_PV-Table "Triangular PV-Table") or implicit by the [transposition table](Transposition_Table "Transposition Table").
 
 
 
@@ -65,7 +65,7 @@ Move ordering (as well as [Time Management](Time_Management "Time Management")) 
 ## Typical move ordering
 
 
-After [move generation](Move_Generation "Move Generation") with assigned move-scores, chess programs usually don't sort the whole [move list](Move_List "Move List"), but perform a [selection sort](https://en.wikipedia.org/wiki/Selection_sort) each time a move is fetched. Exceptions are the [Root](Root "Root") and further [PV-Nodes](Node_Types#PV-Node "Node Types") with some distance to the horizon, where one may apply additional effort to score and sort moves. For performance reasons, a lot of programs try to save the [move generation](Move_Generation "Move Generation") of captures or non-captures at expected [Cut-Nodes](Node_Types#Cut-Nodes "Node Types"), but try the hash-move or killer first, if they are proved legal in this position.
+After [move generation](Move_Generation "Move Generation") with assigned move-scores, chess programs usually don't sort the whole [move list](Move_List "Move List"), but perform a [selection sort](https://en.wikipedia.org/wiki/Selection_sort) each time a move is fetched. Exceptions are the [Root](Root "Root") and further [PV-Nodes](Node_Types#PV-Node "Node Types") with some distance to the horizon, where one may apply additional effort to score and sort moves. For performance reasons, a lot of programs try to save the [move generation](Move_Generation "Move Generation") of captures or non-captures at expected [Cut-Nodes](Node_Types#cut-nodes "Node Types"), but try the hash-move or killer first, if they are proved legal in this position.
 
 
 A typical move ordering consists as follows:
@@ -101,14 +101,14 @@ At [PV-nodes](Node_Types#PV-Node "Node Types") move ordering is very important, 
 ### Cut-nodes
 
 
-Move ordering is crucial at expected and confirmed [Cut-nodes](Node_Types#Cut-Nodes "Node Types"), since it is important to [fail-high](Fail-High "Fail-High") as early as possible, as best with the first move, as in greater than 90% of all [fail-high nodes](Node_Types#Cut-Nodes "Node Types"). However, in situations where multiple moves may cut, e.g. with huge [material](Material "Material") advantage, we like it as cheap as possible, but not necessarily a huge subtree with f.i. due to [check extensions](Check_Extensions "Check Extensions"). 
+Move ordering is crucial at expected and confirmed [Cut-nodes](Node_Types#cut-nodes "Node Types"), since it is important to [fail-high](Fail-High "Fail-High") as early as possible, as best with the first move, as in greater than 90% of all [fail-high nodes](Node_Types#cut-nodes "Node Types"). However, in situations where multiple moves may cut, e.g. with huge [material](Material "Material") advantage, we like it as cheap as possible, but not necessarily a huge subtree with f.i. due to [check extensions](Check_Extensions "Check Extensions"). 
 
 
 
 ### All-nodes
 
 
-At confirmed [ALL-nodes](Node_Types#All-Nodes "Node Types") with [null windows](Null_Window "Null Window"), move ordering didn't care that much. Since we don't know in advance (otherwise we wouldn't search at all), and expected All-nodes may become Cut-nodes, move ordering is an issue as well, but usually with less effort for late moves. 
+At confirmed [ALL-nodes](Node_Types#all-nodes "Node Types") with [null windows](Null_Window "Null Window"), move ordering didn't care that much. Since we don't know in advance (otherwise we wouldn't search at all), and expected All-nodes may become Cut-nodes, move ordering is an issue as well, but usually with less effort for late moves. 
 
 
 

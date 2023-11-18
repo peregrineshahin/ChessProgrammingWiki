@@ -9,7 +9,7 @@ There are two semantics inside an [Alpha-Beta](Alpha-Beta "Alpha-Beta") like sea
 
 
 * [Alpha](Alpha "Alpha") is an **Lower Bound** of a [score](Score "Score") for this [node](Node "Node").
-* A **Lower Bound** is returned from an [Alpha-Beta](Alpha-Beta "Alpha-Beta") like search, if it [fails high](Fail-High "Fail-High"). The [node](Node "Node") searched was a confirmed [Cut-Node](Node_Types#Cut-Nodes "Node Types").
+* A **Lower Bound** is returned from an [Alpha-Beta](Alpha-Beta "Alpha-Beta") like search, if it [fails high](Fail-High "Fail-High"). The [node](Node "Node") searched was a confirmed [Cut-Node](Node_Types#cut-nodes "Node Types").
 
 
 
