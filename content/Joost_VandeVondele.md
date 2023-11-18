@@ -61,7 +61,11 @@ focusing on [sparse matrix](https://en.wikipedia.org/wiki/Sparse_matrix) [multip
 </details>
 
 <details>
-<summary><h3>Postings</h3></summary>
+<summary>
+{{%/* markdown */%}}
+### Postings
+{{%/* markdown */%}}
+</summary>
 
 
 #### 2019
