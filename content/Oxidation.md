@@ -1,4 +1,4 @@
-Oxidation is a [UCI](UCI) compliant variant engine written in [Rust](Rust) and licensed under the [GPL](GPL). The variants are configured through optional parameters added to the end of the FEN. These variants can be played using the [Liberty Chess GUI](https://github.com/Mathmagician8191/Liberty-Chess), although the GUI currently only supports the Oxidation engine.
+Oxidation is a [UCI](UCI) compliant variant engine written in [Rust](Rust) and licensed under the [GPL](GPL). The variants are configured through optional parameters added to the end of the FEN. The engine and a GUI for playing the variants can be found in the [Liberty Chess](https://github.com/Mathmagician8191/Liberty-Chess) repository, although the GUI currently only supports an embedded Oxidation engine.
 
 ## Variant features supported:
  - Arbitrary board sizes
