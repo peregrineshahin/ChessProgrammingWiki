@@ -9,13 +9,12 @@ title: Stockfish
  [](https://stockfishchess.org/) Stockfish 12 logo [[2]](#cite_note-2) 
 **Stockfish**,  
 
-an [UCI](UCI "UCI") compatible [open source](Category:Open_Source "Category:Open Source") chess engine developed by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Marco Costalba](Marco_Costalba "Marco Costalba"), [Joona Kiiski](Joona_Kiiski "Joona Kiiski") and [Gary Linscott](Gary_Linscott "Gary Linscott") [[3]](#cite_note-3), licensed under the [GPL v3.0](Free_Software_Foundation#GPL "Free Software Foundation"). Marco forked the project from version 2.1 of Tord's engine [Glaurung](Glaurung "Glaurung"), first announced by Marco in November 8, 2008 [[4]](#cite_note-4), and in early 2009 Joona's [Smaug](Smaug "Smaug"), a further Glaurung 2.2 derivative, was incorporated [[5]](#cite_note-5) . Starting out among the top twenty engines, Stockfish has quickly climbed in [strength](Playing_Strength "Playing Strength") to become the world strongest chess entity as of 2018 - at least concerning the [AlphaZero](AlphaZero "AlphaZero") hype [[6]](#cite_note-6), public available chess entity. The name "Stockfish" reflects the ancestry of the engine. Tord is Norwegian and Marco Italian, and there is a long history of [stockfish](https://en.wikipedia.org/wiki/Stockfish) trade from Norway to Italy (to Marco's home town of [Vicenza](https://en.wikipedia.org/wiki/Vicenza), in fact). Stockfish also referred another famous "little fish", the then strongest chess engine [Rybka](Rybka "Rybka"). In 2011, Marco Costalba and Joona Kiiski stepped down as Stockfish maintainers [[7]](#cite_note-7). From that, the project is being developed and maintained by the [Stockfish community](Category:Stockfish_Contributor "Category:Stockfish Contributor"). 
+an [UCI](UCI "UCI") compatible [open source](Category:Open_Source "Category:Open Source") chess engine developed by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Marco Costalba](Marco_Costalba "Marco Costalba"), [Joona Kiiski](Joona_Kiiski "Joona Kiiski") and [Gary Linscott](Gary_Linscott "Gary Linscott") [[3]](#cite_note-3), licensed under the [GPL v3.0](Free_Software_Foundation#GPL "Free Software Foundation"). Marco forked the project from version 2.1 of Tord's engine [Glaurung](Glaurung "Glaurung"), first announced by Marco in November 8, 2008 [[4]](#cite_note-4), and in early 2009 Joona's [Smaug](Smaug "Smaug"), a further Glaurung 2.2 derivative, was incorporated [[5]](#cite_note-5) . Starting out among the top twenty engines, Stockfish has quickly climbed in [strength](Playing_Strength "Playing Strength") to become the world strongest chess entity as of 2018 - at least concerning the [AlphaZero](AlphaZero "AlphaZero") hype [[6]](#cite_note-6), public available chess entity. The name "Stockfish" reflects the ancestry of the engine. Tord is Norwegian and Marco Italian, and there is a long history of [stockfish](https://en.wikipedia.org/wiki/Stockfish) trade from Norway to Italy (to Marco's home town of [Vicenza](https://en.wikipedia.org/wiki/Vicenza), in fact). Stockfish also referred another famous "little fish", the then strongest chess engine [Rybka](Rybka "Rybka"). In 2011, Marco Costalba and Joona Kiiski stepped down as Stockfish maintainers [[7]](#cite_note-7). From then, the project is being developed by the [Stockfish community](Category:Stockfish_Contributor "Category:Stockfish Contributor"), and maintained by [Joost VandeVondele](Joost_VandeVondele) and [Stephane Nicolet](Stephane_Nicolet).
 
 
 A synergy effect with the [Shogi](Shogi "Shogi") community led to the promising branch of [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE"), courtesy of [Nodchip](Hisayori_Noda "Hisayori Noda"), who introduced [NNUE](NNUE "NNUE") to Stockfish in 2019 [[8]](#cite_note-8). On September 02, 2020, **Stockfish 12** was released with a huge jump in [playing strength](Playing_Strength "Playing Strength") due to NNUE and further [tuning](Automated_Tuning "Automated Tuning") of the engine [[9]](#cite_note-9). The release of **Stockfish 13** on February 19, 2021, has been triggered by the start of sales of the [Fat Fritz 2](Fat_Fritz#Fat_Fritz_2 "Fat Fritz") engine by [ChessBase](ChessBase "ChessBase"), based on a recent development version of Stockfish with minor modifications [[10]](#cite_note-10). **Stockfish 14**, released on July 02, 2021, further improved due to efforts by [Tomasz Sobczyk](Tomasz_Sobczyk "Tomasz Sobczyk") and [Gary Linscott](Gary_Linscott "Gary Linscott") in designing a new [NNUE architecture](Stockfish_NNUE#HalfKA "Stockfish NNUE") in conjunction with a [GPU](GPU "GPU") accelerated trainer written in [PyTorch](https://en.wikipedia.org/wiki/PyTorch). Further, the collaboration with the [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") team payed off, in providing billions of positions to train the new NNUE [[11]](#cite_note-11).
 
-
-**Stockfish 16**, released June 30, 2023, removes the classical [evaluation](Evaluation "Evaluation") from the engine and focuses on [NNUE](NNUE "NNUE") neural networks.[[12]](#cite_note-12)
+Classical [evaluation](Evaluation "Evaluation") has been removed from Stockfish 17 development versions and focuses on [NNUE](NNUE "NNUE") neural networks.[[12]](#cite_note-12)
 
 
 
@@ -94,38 +93,50 @@ On July 19, 2014, Stockfish 5 played a four game match versus [Daniel Naroditsky
 	+ No [PV-Node](Node_Types#pv-node "Node Types") cutoffs
 	+ [Prefetch](Memory#Cache "Memory")
 * [Move Ordering](Move_Ordering "Move Ordering")
-	+ [Countermove Heuristic](Countermove_Heuristic "Countermove Heuristic")
-	+ [Counter Moves History](History_Heuristic#CMHist "History Heuristic") since Stockfish 7, January 2016 [[33]](#cite_note-33)
-	+ [History Heuristic](History_Heuristic "History Heuristic")
-	+ [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening")
-	+ [Killer Heuristic](Killer_Heuristic "Killer Heuristic")
+	+ [Hash Move](Hash_Move "Hash Move")
+	+ [Promotions](Promotions "Promotions")
+	+ [Static Exchange Evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation")
 	+ [MVV/LVA](MVV-LVA "MVV-LVA")
-	+ [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation")
+	+ [Killer Heuristic](Killer_Heuristic "Killer Heuristic")
+	+ [Countermove Heuristic](Countermove_Heuristic "Countermove Heuristic")
+	+ [History Heuristic](History_Heuristic "History Heuristic")
+	+ [Continuation History](History_Heuristic#continuation-history)
 * [Selectivity](Selectivity "Selectivity")
 	+ [Extensions](Extensions "Extensions")
 		- [Check Extensions](Check_Extensions "Check Extensions")
-		- [Restricted Singular Extensions](Singular_Extensions#RestrictedSE "Singular Extensions")
+		- [Recapture Extensions](Recapture_Extensions "Recapture Extensions")
+		- [Singular Extensions](Singular_Extensions#modern-singular-extensions "Singular Extensions")
 	+ [Pruning](Pruning "Pruning")
-		- [Futility Pruning](Futility_Pruning "Futility Pruning")
+		- [Futility Pruning for child node](Reverse_Futility_Pruning "Reverse Futility Pruning")
+		- [Futility Pruning for parent node](Futility_Pruning "Futility Pruning")
 		- [Move Count Based Pruning](Futility_Pruning#MoveCountBasedPruning "Futility Pruning")
 		- [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
 			* [Dynamic Depth Reduction](Depth_Reduction_R "Depth Reduction R") based on [depth](Depth "Depth") and [value](Score "Score")
-			* [Static Null Move Pruning](Reverse_Futility_Pruning "Reverse Futility Pruning")
 			* [Verification search](Null_Move_Pruning#ZugzwangVerification "Null Move Pruning") at high depths
 		- [ProbCut](ProbCut "ProbCut")
+		- [Multi Cut Pruning](Multi_Cut#modern-usage)
 		- [SEE Pruning](Static_Exchange_Evaluation "Static Exchange Evaluation")
 	+ [Reductions](Reductions "Reductions")
 		- [Late Move Reductions](Late_Move_Reductions "Late Move Reductions")
+		- [Internal Iterative Reductions](Internal_Iterative_Reductions)
 		- [Razoring](Razoring "Razoring")
 	+ [Quiescence Search](Quiescence_Search "Quiescence Search")
+		- [Delta Pruning](Delta_Pruning)
 
 
 ### [Evaluation](Evaluation "Evaluation")
 
 
 * [NNUE](NNUE "NNUE")
-	+ [HalfKP](Stockfish_NNUE#HalfKP "Stockfish NNUE") (Stockfish 12)
-	+ [HalfKAv2](Stockfish_NNUE#HalfKA "Stockfish NNUE") (Stockfish 14)
+	+ [SFNNv1](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md#sfnnv1-architecture) (Introduced 2020-08-06)
+	+ [SFNNv2](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md#sfnnv2-architecture) (Introduced 2021-05-18)
+	+ [SFNNv3](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md#sfnnv3-architecture) (Introduced 2021-08-15)
+	+ [SFNNv4](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md#sfnnv4-architecture) (Introduced 2022-02-10)
+	+ [SFNNv5](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md#sfnnv5-architecture) (Introduced 2022-05-14)
+	+ [SFNNv6](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md#sfnnv6-architecture) (Introduced 2023-05-31)
+	+ [SFNNv7](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md#sfnnv7-architecture) (Introduced 2023-07-01)
+	+ [SFNNv8](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md#sfnnv8-architecture) (Introduced 2023-09-22)
+	
 
 
  *See also* [Evaluation Philosophy](Evaluation_Philosophy "Evaluation Philosophy") [[34]](#cite_note-34) [[35]](#cite_note-35)
@@ -167,7 +178,7 @@ On July 19, 2014, Stockfish 5 played a four game match versus [Daniel Naroditsky
 * [Stockfish's Tuning Method](Stockfish%27s_Tuning_Method "Stockfish's Tuning Method")
 
 
- [SPSA](SPSA "SPSA")
+* [SPSA](SPSA "SPSA")
 * [Syzygy Bases](Syzygy_Bases "Syzygy Bases")
 
 

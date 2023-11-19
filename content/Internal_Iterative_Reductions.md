@@ -2,6 +2,8 @@
 title: Internal Iterative Reductions
 ---
 
+**[Home](Home "Home") \* [Search](Search "Search") \* [Selectivity](Selectivity "Selectivity") \* [Reductions](Reductions "Reductions") \* Internal Iterative Reductions**
+
 used in [nodes](Node "Node") of the [search tree](Search_Tree "Search Tree") in a [iterative deepening](Iterative_Deepening "Iterative Deepening") [depth-first](Depth-First "Depth-First") [alpha-beta](Alpha-Beta "Alpha-Beta") framework, where a node has no [best move](Best_Move "Best Move") available from a previous search [PV](Principal_Variation "Principal Variation") or from the [transposition table](Transposition_Table "Transposition Table"). IIR reduces the search depth for such nodes as they are less promising, while having a worse move ordering. However, if a [hash move](Hash_Move "Hash Move") is found and the node is visited a second time, it is worth to search it the full depth. In the early implementations, IIR was only used on [PV-nodes](Node_Types#pv-node "Node Types"), or on every node without a [hash move](Hash_Move "Hash Move"). IIR was introduced by [Ed Schroder](Ed_Schroder "Ed Schroder") in 2020 into his engine [Rebel](Rebel "Rebel") and further improved by [Michael Chaly](Michael_Chaly "Michael Chaly") in 2021 into [Stockfish](Stockfish "Stockfish") by also having depth decrements on expected [cut-nodes](Node_Types#cut-nodes "Node Types").
 
 ## Conditions

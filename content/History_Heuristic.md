@@ -30,7 +30,10 @@ This is how the history [array](Array "Array") may be updated, if a [beta-cutoff
 ## Counter Moves History
 
 A combination of the History Heuristic in conjunction with the [Countermove Heuristic](Countermove_Heuristic "Countermove Heuristic"), proposed by [Bill Henry](index.php?title=Bill_Henry&action=edit&redlink=1 "Bill Henry (page does not exist)") in March 2015 <a id="cite-note-6" href="#cite-ref-6">[6]</a> , as already used by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué") in his [Checkers](Checkers "Checkers") program 20 years before <a id="cite-note-7" href="#cite-ref-7">[7]</a> , was implemented by [Stockfish](Stockfish "Stockfish") contributor [Stefan Geschwentner](Stefan_Geschwentner "Stefan Geschwentner") <a id="cite-note-8" href="#cite-ref-8">[8]</a>, further tuned and improved by the Stockfish community, and released in [Stockfish 7](Stockfish "Stockfish") in January 2016, dubbed **Counter Moves History** and mentioned to gain some Elo points <a id="cite-note-9" href="#cite-ref-9">[9]</a>. Stockfish's History and Countermove arrays are piece type and [to-square](Target_Square "Target Square") based, not butterfly based. Each entry indexed by a previous move, is a complete history table with counters indexed by the move refuting that previous move.
-Pushing the idea further, Stockfish applies **Follow Up History** (FUH) tables, indexed by two consecutive moves of the same side <a id="cite-note-10" href="#cite-ref-10">[10]</a>.
+Pushing the idea further, Stockfish applies **Follow Up History** (FUH) tables, indexed by two consecutive moves of the same side <a id="cite-note-10" href="#cite-ref-10">[10]</a>. 
+
+## Continuation History
+In recent times engines also have history tables for 4 plies before and even 6 plies before (in the case of [Stockfish](Stockfish) and [Berserk](Berserk)), as an extension to counter moves history and follow up history.
 
 ## See also
 

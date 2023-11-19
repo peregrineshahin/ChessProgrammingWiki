@@ -53,6 +53,10 @@ int zwSearch( int beta, int depth, bool cut) {
 }
 ```
 
+## Modern usage
+
+In recent times, Multi Cut has been successfully integrated into [Restricted Singular Extensions](Singular_Extensions#restricted-se), in the form of Multi Cut Pruning. If the singular search fails high, and the bounds at which they were searched at is greater than or equal to beta, we can predict that multiple moves fail high in the current node, and return a score early.
+
 ## See also
 
 *   [Enhanced Forward Pruning](Enhanced_Forward_Pruning "Enhanced Forward Pruning")

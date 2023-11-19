@@ -54,6 +54,12 @@ Clearly the reverse engineering of Rybka is indeed "the highest form of flattery
 
 ```
 
+## Modern singular extensions
+
+
+In recent times we have a more relaxed form of [restricted SE](Singular_Extensions#RestrictedSE), by also allowing singular search on [TT](Transposition_table) entries with an [exact score](Exact_score).
+
+
 ## See also
 
 
