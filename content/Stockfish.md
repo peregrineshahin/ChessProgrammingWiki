@@ -326,18 +326,12 @@ On July 19, 2014, Stockfish 5 played a four game match versus [Daniel Naroditsky
 
 ### All other authors of the code
 
-
-There are 196 authors, counted to version 15.1.
-
-
-
-* [Contributors](Category:Stockfish_Contributor "Category:Stockfish Contributor")
-
+There are 216 authors, counted to version 16.
+* [Contributors](https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS)
 
 ## Elo Progress
 
-
-of Stockfish in first 10 years <a id="cite-note-37" href="#cite-ref-37">[37]</a>
+Stockfish Elo gain is measured by Fishtest [Regression tests](https://github.com/official-stockfish/Stockfish/wiki/Regression-Tests).
 
 
 
@@ -852,11 +846,3 @@ of Stockfish in first 10 years <a id="cite-note-37" href="#cite-ref-37">[37]</a>
 46. <a id="cite-ref-46" href="#cite-note-46">↑</a> [An info](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74560) by Sylwy, [CCC](CCC "CCC"), July 25, 2020
 
 **[Up one Level](Engines "Engines")**
-
-
-
-
-
-
-
- 
