@@ -3,9 +3,8 @@ title: Evaluation
 ---
 **[Home](Home "Home") * Evaluation**
 
-[](https://www.pinterest.de/pin/58476495131654514/) [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - Schach-Theorie, 1937 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
-**Evaluation**,
 
+**Evaluation**,  
 a [heuristic function](<https://en.wikipedia.org/wiki/Heuristic_(computer_science)>) to determine the [relative value](Score "Score") of a [position](Chess_Position "Chess Position"), i.e. the chances of winning. If we could see to the end of the game in every line, the evaluation would only have values of -1 (loss), 0 (draw), and 1 (win), and the chess engine should search to depth 1 only to get the best move. In practice, however, we do not know the exact value of a position, so we must make an approximation with the main purpose is to compare positions, and the chess engine now must search deeply and find the highest score position within a given period.
 
 Recently, there are two main ways to build an evaluation: traditional **hand-crafted evaluation** (HCE) and multi-layer [neural networks](Neural_Networks "Neural Networks"). This page focuses on the traditional way considering explicit features of a [chess position](Chess_Position "Chess Position").

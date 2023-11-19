@@ -3,12 +3,7 @@ title: Search
 ---
 **[Home](Home "Home") \* Search**
 
-
-
- [](http://schachbilderwelten.tenners.de/html/auf_der_suche.html) [Bernd Besser](Category:Bernd_Besser "Category:Bernd Besser"), Auf der Suche <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
-Because finding or guessing a [good move](Best_Move "Best Move") in a [chess position](Chess_Position "Chess Position") is hard to achieve statically, [chess programs](Engines "Engines") rely on some type of **Search** in order to play reasonably. Searching involves looking ahead at different [move](Moves "Moves") sequences and evaluating the positions after [making the moves](Make_Move "Make Move"). Formally, searching a two-player [zero-sum](https://en.wikipedia.org/wiki/Zero-sum_%28game_theory%29) board game with [perfect information](https://en.wikipedia.org/wiki/Perfect_information) implies [traversing](https://en.wikipedia.org/wiki/Tree_traversal) and min-maxing a [tree-like data-structure](https://en.wikipedia.org/wiki/Tree_%28data_structure%29) by various [search algorithms](https://en.wikipedia.org/wiki/Search_algorithm). 
-
-
+Because finding or guessing a [good move](Best_Move "Best Move") in a [chess position](Chess_Position "Chess Position") is hard to achieve statically, [chess programs](Engines "Engines") rely on some type of **Search** in order to play reasonably. Searching involves looking ahead at different [move](Moves "Moves") sequences and evaluating the positions after [making the moves](Make_Move "Make Move"). Formally, searching a two-player [zero-sum](https://en.wikipedia.org/wiki/Zero-sum_%28game_theory%29) board game with [perfect information](https://en.wikipedia.org/wiki/Perfect_information) implies [traversing](https://en.wikipedia.org/wiki/Tree_traversal) and min-maxing a [tree-like data-structure](https://en.wikipedia.org/wiki/Tree_%28data_structure%29) by various [search algorithms](https://en.wikipedia.org/wiki/Search_algorithm).
 
 ## The Search Tree
 
