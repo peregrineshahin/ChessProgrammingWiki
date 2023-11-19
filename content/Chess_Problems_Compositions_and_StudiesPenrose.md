@@ -40,7 +40,7 @@ A **Chess Problem** or **Composition**, set by a [composer](Category:Chess_Compo
 ## 1970 ...
 
 - [Martin Gardner](Martin_Gardner "Martin Gardner") (**1979**). *Chess Problems on a Higher Plane, Including Mirror Images, Rotations and the Superqueen*. [Scientific American](Scientific_American "Scientific American"), Vol. 270
-- [Donald Michie](Donald_Michie "Donald Michie") (**1979**). *The Computer Attacks Moravec Problem*. [Personal Computing, Vol. 3, No. 10](Personal_Computing#3_10 "Personal Computing"), pp. 73 [[1]](#cite_note-1)
+- [Donald Michie](Donald_Michie "Donald Michie") (**1979**). *The Computer Attacks Moravec Problem*. [Personal Computing, Vol. 3, No. 10](Personal_Computing#3_10 "Personal Computing"), pp. 73 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 - Editor (**1979**). *Chess Ratings from Problem Solving*. [Personal Computing, Vol. 3, No. 12](Personal_Computing#3_12 "Personal Computing"), pp. 77 » [CAPS II](CAPS "CAPS"), [Playing Strength](Playing_Strength "Playing Strength")
 
 ## 1980 ...
@@ -82,9 +82,9 @@ A **Chess Problem** or **Composition**, set by a [composer](Category:Chess_Compo
 - [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden") (**2001**). *[Endgame Tables and Endgame Study Composition](http://ilk.uvt.nl/icga/journal/contents/content24-2.htm#ENDGAME%20TABLES)*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
 - [Noam Elkies](Noam_Elkies "Noam Elkies") (**2001**). *Endgame Tables and Chess Composition*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
 - [Michael Schlosser](Michael_Schlosser "Michael Schlosser"), [Rainer Staudte](Rainer_Staudte "Rainer Staudte"), [Manfred Zucker](http://de.wikipedia.org/wiki/Manfred_Zucker) (**2002**). *90 Jahre Schachkomposition in Chemnitz*, (German) [pdf](http://chemchess.de/Home/Geschichte/150_Problemschach.pdf)
-- [Noam Elkies](Noam_Elkies "Noam Elkies") (**2005**). *New directions in enumerative chess problems*. [Electronic Journal of Combinatorics](https://en.wikipedia.org/wiki/Electronic_Journal_of_Combinatorics), Vol. 11, No. 2, [arXiv:math/0508645](https://arxiv.org/abs/math/0508645) [[2]](#cite_note-2)
+- [Noam Elkies](Noam_Elkies "Noam Elkies") (**2005**). *New directions in enumerative chess problems*. [Electronic Journal of Combinatorics](https://en.wikipedia.org/wiki/Electronic_Journal_of_Combinatorics), Vol. 11, No. 2, [arXiv:math/0508645](https://arxiv.org/abs/math/0508645) <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 - [Azlan Iqbal](Azlan_Iqbal "Azlan Iqbal"), [Mashkuri Yaacob](index.php?title=Mashkuri_Yaacob&action=edit&redlink=1 "Mashkuri Yaacob (page does not exist)") (**2006**). *A Systematic and Discrete View of Aesthetics in Chess*. Journal of Comparative Literature and Aesthetics, Vol. XXIX, Nos. 1-2
-- [Fridel Fainshtein](Fridel_Fainshtein "Fridel Fainshtein") (**2006**). *An Orthodox k-Move Problem-Composer for Chess Directmates*. M.Sc. thesis, [Bar-Ilan University](Bar-Ilan_University "Bar-Ilan University"), [pdf](http://www.problemschach.de/KMOVEComposer.pdf) [[3]](#cite_note-3)
+- [Fridel Fainshtein](Fridel_Fainshtein "Fridel Fainshtein") (**2006**). *An Orthodox k-Move Problem-Composer for Chess Directmates*. M.Sc. thesis, [Bar-Ilan University](Bar-Ilan_University "Bar-Ilan University"), [pdf](http://www.problemschach.de/KMOVEComposer.pdf) <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 - [Fridel Fainshtein](Fridel_Fainshtein "Fridel Fainshtein"), [Yaakov HaCohen-Kerner](Yaakov_HaCohen-Kerner "Yaakov HaCohen-Kerner") (**2006**). *A Chess Composer of Two-Move Mate Problems*. [ICGA Journal, Vol. 29, No. 1](ICGA_Journal#29_1 "ICGA Journal"), [pdf](http://homedir.jct.ac.il/%7Ekerner/pdf_docs/ICGA_computer_composer.pdf)
 - [Yaakov HaCohen-Kerner](Yaakov_HaCohen-Kerner "Yaakov HaCohen-Kerner"), [Fridel Fainshtein](Fridel_Fainshtein "Fridel Fainshtein") (**2006**). *A Deep Improver of Two-move Chess Mate Problems*. [Cybernetics and Systems](https://en.wikipedia.org/wiki/Cybernetics_and_Systems), Vol. 37, No. 5
 - [Gady Costeff](Gady_Costeff "Gady Costeff") (**2006**). *How I Became A Great Composer*. [EG](https://en.wikipedia.org/wiki/EG_%28magazine%29), Vol. 11, 159-163, [ARVES](http://www.arves.org/English/index.htm), [pdf](http://gadycosteff.com/how_i_became_a_great_composer.pdf)
@@ -94,15 +94,15 @@ A **Chess Problem** or **Composition**, set by a [composer](Category:Chess_Compo
 
 ## 2010 ...
 
-- [Matej Guid](Matej_Guid "Matej Guid") (**2010**). *Search and Knowledge for Human and Machine Problem Solving*. Ph.D. thesis, [University of Ljubljana](University_of_Ljubljana "University of Ljubljana"), [pdf](http://eprints.fri.uni-lj.si/1113/1/Matej__Guid.disertacija.pdf) [[4]](#cite_note-4)
-- [Azlan Iqbal](Azlan_Iqbal "Azlan Iqbal"), [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden"), [Matej Guid](Matej_Guid "Matej Guid") (**2010**). *Research Grant to Investigate Multi-Dimensional Aesthetic Perception using Endgame Studies*. [EG](https://en.wikipedia.org/wiki/EG_%28magazine%29), [Alexander Rueb](https://en.wikipedia.org/wiki/Alexander_Rueb) Vereniging voor Schaakeindspelstudie ([ARVES](http://www.arves.org/English/index.htm)), No. 180, Vol. XVI [[5]](#cite_note-5)
+- [Matej Guid](Matej_Guid "Matej Guid") (**2010**). *Search and Knowledge for Human and Machine Problem Solving*. Ph.D. thesis, [University of Ljubljana](University_of_Ljubljana "University of Ljubljana"), [pdf](http://eprints.fri.uni-lj.si/1113/1/Matej__Guid.disertacija.pdf) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
+- [Azlan Iqbal](Azlan_Iqbal "Azlan Iqbal"), [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden"), [Matej Guid](Matej_Guid "Matej Guid") (**2010**). *Research Grant to Investigate Multi-Dimensional Aesthetic Perception using Endgame Studies*. [EG](https://en.wikipedia.org/wiki/EG_%28magazine%29), [Alexander Rueb](https://en.wikipedia.org/wiki/Alexander_Rueb) Vereniging voor Schaakeindspelstudie ([ARVES](http://www.arves.org/English/index.htm)), No. 180, Vol. XVI <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 - [Azlan Iqbal](Azlan_Iqbal "Azlan Iqbal") (**2010**). *Aesthetics in Mate-In-3 Combinations*, Part I Combinatorics and Weights, [ICGA Journal, Vol. 33, No. 3](ICGA_Journal#33_3 "ICGA Journal")
 - [Azlan Iqbal](Azlan_Iqbal "Azlan Iqbal") (**2010**). *Aesthetics in Mate-In-3 Combinations*, Part II Normality, [ICGA Journal, Vol. 33, No. 4](ICGA_Journal#33_4 "ICGA Journal")
 - [Azlan Iqbal](Azlan_Iqbal "Azlan Iqbal") (**2011**). *Increasing Efficiency and Quality in the Automatic Composition of Three-Move Mate Problems*. [Entertainment Computing - ICEC 2011, Lecture Notes in Computer Science, Vol. 6972](http://www.springer.com/computer/hci/book/978-3-642-24499-5), Springer. ISBN 978-3-642-24499-5
 - [Guy Haworth](Guy_Haworth "Guy Haworth"), [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher"), [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden") (**2011**). *[Uniqueness in Chess Studies](http://centaur.reading.ac.uk/19484/)*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal")
 - [Guy Haworth](Guy_Haworth "Guy Haworth"), [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden"), [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher") (**2011**). *Zugzwangs in Chess Studies*. [ICGA Journal, Vol. 34, No. 2](ICGA_Journal#34_2 "ICGA Journal")
 - [Guy McCrossan Haworth](Guy_Haworth "Guy Haworth"), [Árpád Rusz](%C3%81rp%C3%A1d_Rusz "Árpád Rusz") (**2011**). *Position Criticality in Chess Endgames*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13"), [pdf](https://www.conftool.net/acg13/index.php/Haworth-Position_Criticality_in_Chess_Endgames-140.pdf?page=downloadPaper&filename=Haworth-Position_Criticality_in_Chess_Endgames-140.pdf&form_id=140&form_version=final)
-- [Azlan Iqbal](Azlan_Iqbal "Azlan Iqbal"), [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden"), [Matej Guid](Matej_Guid "Matej Guid"), [Ali Makhmali](index.php?title=Ali_Makhmali&action=edit&redlink=1 "Ali Makhmali (page does not exist)") (**2012**). *[Evaluating the Aesthetics of Endgame Studies: A Computational Model of Human Aesthetic Perception](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6177652)*. [IEEE Transactions on Computational Intelligence and AI in Games, Vol. 4, No. 3](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6299011) [[6]](#cite_note-6)
+- [Azlan Iqbal](Azlan_Iqbal "Azlan Iqbal"), [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden"), [Matej Guid](Matej_Guid "Matej Guid"), [Ali Makhmali](index.php?title=Ali_Makhmali&action=edit&redlink=1 "Ali Makhmali (page does not exist)") (**2012**). *[Evaluating the Aesthetics of Endgame Studies: A Computational Model of Human Aesthetic Perception](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6177652)*. [IEEE Transactions on Computational Intelligence and AI in Games, Vol. 4, No. 3](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6299011) <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 - [Guy Haworth](Guy_Haworth "Guy Haworth"), [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher"), [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden") (**2013**). *The data-mining of Studies Database HHdbIV*. [EG](<https://en.wikipedia.org/wiki/EG_(magazine)>), Vol. 19, pp. 27-30
 - [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden"), [Guy Haworth](Guy_Haworth "Guy Haworth") (**2015**). *Chess Study #16206*. [Die Schwalbe](#Schwalbe), 32.271
 
@@ -184,9 +184,9 @@ A **Chess Problem** or **Composition**, set by a [composer](Category:Chess_Compo
 
 ## Penrose Puzzle
 
-» [Roger Penrose](Mathematician#RPenrose "Mathematician"), [Penrose institute puzzle #1 • lichess.org](https://en.lichess.org/study/DPCsTD9J) [[7]](#cite_note-7)
+» [Roger Penrose](Mathematician#RPenrose "Mathematician"), [Penrose institute puzzle #1 • lichess.org](https://en.lichess.org/study/DPCsTD9J) <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
-- [Can you solve the chess problem which holds key to human consciousness?](http://www.telegraph.co.uk/science/2017/03/14/can-solve-chess-problem-holds-key-human-consciousness/) by [Sarah Knapton](http://www.telegraph.co.uk/authors/sarah-knapton/), [The Telegraph](https://en.wikipedia.org/wiki/The_Daily_Telegraph), March 14, 2017 [[8]](#cite_note-8)
+- [Can you solve the chess problem which holds key to human consciousness?](http://www.telegraph.co.uk/science/2017/03/14/can-solve-chess-problem-holds-key-human-consciousness/) by [Sarah Knapton](http://www.telegraph.co.uk/authors/sarah-knapton/), [The Telegraph](https://en.wikipedia.org/wiki/The_Daily_Telegraph), March 14, 2017 <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 - [Humans Can Solve This Chess Puzzle, But A Supercomputer Can't](http://www.iflscience.com/brain/humans-can-solve-this-chess-puzzle-but-a-supercomputer-cant/) by [Tom Hale](http://www.iflscience.com/team/tom-hale/), [IFLScience](http://www.iflscience.com/), March 14, 2017
 - [Sure you're not a robot? Solve this chess puzzle and prove it](http://mashable.com/2017/03/14/solve-this-chess-puzzle/#TV38M_XGSiq0) by [Lance Ulanoff](http://mashable.com/author/lance-ulanoff/), [Mashable](https://en.wikipedia.org/wiki/Mashable), March 14, 2017
 - [Will This Position Help Understand Human Consciousness?](https://www.chess.com/news/view/will-this-position-help-to-understand-human-consciousness-4298) by [Peter Doggers](Peter_Doggers "Peter Doggers"), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), March 15, 2017
@@ -195,14 +195,14 @@ A **Chess Problem** or **Composition**, set by a [composer](Category:Chess_Compo
 
 ## References
 
-1. [↑](#cite_ref-1) [www.arves.org - Moravec, Josef 1882-1969](http://www.arves.org/arves/index.php/en/endgamestudies/studies-by-composer/589-moravec-josef-1882-1969)
-1. [↑](#cite_ref-2) This article is based on a presentation given at the banquet in honor of [Richard Stanley's](Mathematician#RPStanley "Mathematician") 60th birthday, and is dedicated to Stanley on this occasion
-1. [↑](#cite_ref-3) [MatPlus.Net - General => Computers & chess problems ?](http://milanvel.net/mp/snapshot/rescbody.php?px=1244212403&fid=gen&tid=319)
-1. [↑](#cite_ref-4) [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2010**). *How can Humans learn from Computers?* Review on [Matej Guid's](Matej_Guid "Matej Guid") [Ph.D. thesis](Matej_Guid#PHDthesis "Matej Guid"), [ICGA Journal, Vol. 33, No. 5](ICGA_Journal#33_4 "ICGA Journal")
-1. [↑](#cite_ref-5) [Dr. Mohammed Azlan Bin Mohamed Iqbal (Publications and Research Grants)](http://metalab.uniten.edu.my/~azlan/Research/)
-1. [↑](#cite_ref-6) [A computer program to identify beauty in problems and studies](http://en.chessbase.com/home/TabId/211/PostId/4008602), [ChessBase News](ChessBase "ChessBase"), December 15, 2012
-1. [↑](#cite_ref-7) [The Penrose Institute | Human and Artificial Intelligence](http://penroseinstitute.com/research/#human-intelligence)
-1. [↑](#cite_ref-8) [Penrose Puzzle](http://www.talkchess.com/forum/viewtopic.php?t=63438) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), March 14, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [www.arves.org - Moravec, Josef 1882-1969](http://www.arves.org/arves/index.php/en/endgamestudies/studies-by-composer/589-moravec-josef-1882-1969)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> This article is based on a presentation given at the banquet in honor of [Richard Stanley's](Mathematician#RPStanley "Mathematician") 60th birthday, and is dedicated to Stanley on this occasion
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MatPlus.Net - General => Computers & chess problems ?](http://milanvel.net/mp/snapshot/rescbody.php?px=1244212403&fid=gen&tid=319)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2010**). *How can Humans learn from Computers?* Review on [Matej Guid's](Matej_Guid "Matej Guid") [Ph.D. thesis](Matej_Guid#PHDthesis "Matej Guid"), [ICGA Journal, Vol. 33, No. 5](ICGA_Journal#33_4 "ICGA Journal")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dr. Mohammed Azlan Bin Mohamed Iqbal (Publications and Research Grants)](http://metalab.uniten.edu.my/~azlan/Research/)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [A computer program to identify beauty in problems and studies](http://en.chessbase.com/home/TabId/211/PostId/4008602), [ChessBase News](ChessBase "ChessBase"), December 15, 2012
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Penrose Institute | Human and Artificial Intelligence](http://penroseinstitute.com/research/#human-intelligence)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Penrose Puzzle](http://www.talkchess.com/forum/viewtopic.php?t=63438) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), March 14, 2017
 
 **[Up one Level](Chess "Chess")**
 

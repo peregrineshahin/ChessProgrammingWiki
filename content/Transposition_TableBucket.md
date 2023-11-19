@@ -8,7 +8,7 @@ title: Transposition TableBucket
  [](https://en.wikipedia.org/wiki/The_Persistence_of_Memory) [Salvador Dalí](Category:Salvador_Dal%C3%AD "Category:Salvador Dalí"), [The Persistence of Memory](https://en.wikipedia.org/wiki/The_Persistence_of_Memory) 1931 
 A **Transposition Table**,  
 
-first used in [Greenblatt's](Richard_Greenblatt "Richard Greenblatt") program [Mac Hack VI](Mac_Hack#HashTable "Mac Hack") [[1]](#cite_note-1) [[2]](#cite_note-2) [[3]](#cite_note-3) , is a database that stores results of previously performed searches. It is a way to greatly reduce the search space of a [chess tree](Search_Tree "Search Tree") with little negative impact. Chess programs, during their [brute-force](Brute-Force "Brute-Force") search, encounter the same [positions](Chess_Position "Chess Position") again and again, but from different sequences of [moves](Moves "Moves"), which is called a [transposition](Transposition "Transposition"). Transposition (and [refutation](Refutation_Table "Refutation Table")) tables are techniques derived from [dynamic programming](Dynamic_Programming "Dynamic Programming") [[4]](#cite_note-4) , a term coined by [Richard E. Bellman](Richard_E._Bellman "Richard E. Bellman") in the 1950s, when programming meant planning, and dynamic programming was conceived to optimally plan multistage processes [[5]](#cite_note-5) . 
+first used in [Greenblatt's](Richard_Greenblatt "Richard Greenblatt") program [Mac Hack VI](Mac_Hack#HashTable "Mac Hack") <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> , is a database that stores results of previously performed searches. It is a way to greatly reduce the search space of a [chess tree](Search_Tree "Search Tree") with little negative impact. Chess programs, during their [brute-force](Brute-Force "Brute-Force") search, encounter the same [positions](Chess_Position "Chess Position") again and again, but from different sequences of [moves](Moves "Moves"), which is called a [transposition](Transposition "Transposition"). Transposition (and [refutation](Refutation_Table "Refutation Table")) tables are techniques derived from [dynamic programming](Dynamic_Programming "Dynamic Programming") <a id="cite-note-4" href="#cite-ref-4">[4]</a> , a term coined by [Richard E. Bellman](Richard_E._Bellman "Richard E. Bellman") in the 1950s, when programming meant planning, and dynamic programming was conceived to optimally plan multistage processes <a id="cite-note-5" href="#cite-ref-5">[5]</a> . 
 
 
 
@@ -55,7 +55,7 @@ The typical cardinalities of positions and signatures inside the search, reflect
  |  #
  |
 | --- | --- |
-|  Upper bound for the number of reachable [chess positions](Chess_Position "Chess Position") [[6]](#cite_note-6) |  1e46
+|  Upper bound for the number of reachable [chess positions](Chess_Position "Chess Position") <a id="cite-note-6" href="#cite-ref-6">[6]</a> |  1e46
  |
 |  Different [64 bit](Quad_Word "Quad Word") keys
  |  1.84e19
@@ -78,7 +78,7 @@ The typical cardinalities of positions and signatures inside the search, reflect
 ### Index Collisions
 
 
-Index collisions or type-2 errors [[7]](#cite_note-7) [[8]](#cite_note-8) , where different hash keys index same entries, happen regularly. They require detection, realized by storing the signature as part of the hash entry, to check whether a stored entry matches the position while probing. Specially with power of two entry tables, many programmers choose to trade-off space for accuracy and only store that part of the hash key not already considered as index, or even less.
+Index collisions or type-2 errors <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> , where different hash keys index same entries, happen regularly. They require detection, realized by storing the signature as part of the hash entry, to check whether a stored entry matches the position while probing. Specially with power of two entry tables, many programmers choose to trade-off space for accuracy and only store that part of the hash key not already considered as index, or even less.
 
 
 
@@ -86,7 +86,7 @@ Index collisions or type-2 errors [[7]](#cite_note-7) [[8]](#cite_note-8) , wher
 ### Key Collisions
 
 
-Key collisions or type-1 errors are inherent in using signatures with far less bits than required to encode all reachable chess positions. A key collision occurs when two different positions map the same hash key or signature [[9]](#cite_note-9) [[10]](#cite_note-10) . When storing only a partial key, the chance of a collision greatly increases. To accept only hits where [stored moves](Hash_Move "Hash Move") are [pseudo-legal](Pseudo-Legal_Move "Pseudo-Legal Move") decreases the chance of type-1 errors. On his computer chess page [[11]](#cite_note-11), [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan") broached on chess engine bugs, anomalies and hash collisions, and mentions a [Shredder 9.1](Shredder "Shredder") game where a key collision might have caused a strange move [[12]](#cite_note-12) [[13]](#cite_note-13) .
+Key collisions or type-1 errors are inherent in using signatures with far less bits than required to encode all reachable chess positions. A key collision occurs when two different positions map the same hash key or signature <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> . When storing only a partial key, the chance of a collision greatly increases. To accept only hits where [stored moves](Hash_Move "Hash Move") are [pseudo-legal](Pseudo-Legal_Move "Pseudo-Legal Move") decreases the chance of type-1 errors. On his computer chess page <a id="cite-note-11" href="#cite-ref-11">[11]</a>, [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan") broached on chess engine bugs, anomalies and hash collisions, and mentions a [Shredder 9.1](Shredder "Shredder") game where a key collision might have caused a strange move <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a> .
 
 
 
@@ -94,7 +94,7 @@ Key collisions or type-1 errors are inherent in using signatures with far less b
 ### Bits Required
 
 
-During the [WCCC 1989](WCCC_1989 "WCCC 1989") Workshop [New Directions in Game-Tree Search](WCCC_1989#Workshop "WCCC 1989"), [James Gillogly](James_Gillogly "James Gillogly"), author of [Tech](Tech "Tech"), discussed transposition table collisions [[14]](#cite_note-14) . He produced the following table using the [Birthday Paradox](https://en.wikipedia.org/wiki/Birthday_problem), where the columns are the number of positions stored and the rows are the probability of collision. The entries are the number of bits of combined address and check hash required to reduce the probability of collision to the desired amount.
+During the [WCCC 1989](WCCC_1989 "WCCC 1989") Workshop [New Directions in Game-Tree Search](WCCC_1989#Workshop "WCCC 1989"), [James Gillogly](James_Gillogly "James Gillogly"), author of [Tech](Tech "Tech"), discussed transposition table collisions <a id="cite-note-14" href="#cite-ref-14">[14]</a> . He produced the following table using the [Birthday Paradox](https://en.wikipedia.org/wiki/Birthday_problem), where the columns are the number of positions stored and the rows are the probability of collision. The entries are the number of bits of combined address and check hash required to reduce the probability of collision to the desired amount.
 
 
 
@@ -138,7 +138,7 @@ During the [WCCC 1989](WCCC_1989 "WCCC 1989") Workshop [New Directions in Game-T
  |
 
 
-During the discussion, [David Slate](David_Slate "David Slate") and [Ken Thompson](Ken_Thompson "Ken Thompson") pointed out that the Birthday Paradox is not applicable to most programs, since the hash table will fill up and not all previous positions will be in the table; thus these figures must be regarded as an upper bound on the number of bits required for safety [[15]](#cite_note-15). The dangers of transposition table collisions were further studied by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") and [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") as published in their 2005 paper *Hash Collisions Effect* [[16]](#cite_note-16). They gave an surprising answer to the question “Is it really worth all the effort to absolutely minimize signature collisions?”, and concluded that 64 bit signatures are more than sufficient.
+During the discussion, [David Slate](David_Slate "David Slate") and [Ken Thompson](Ken_Thompson "Ken Thompson") pointed out that the Birthday Paradox is not applicable to most programs, since the hash table will fill up and not all previous positions will be in the table; thus these figures must be regarded as an upper bound on the number of bits required for safety <a id="cite-note-15" href="#cite-ref-15">[15]</a>. The dangers of transposition table collisions were further studied by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") and [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") as published in their 2005 paper *Hash Collisions Effect* <a id="cite-note-16" href="#cite-ref-16">[16]</a>. They gave an surprising answer to the question “Is it really worth all the effort to absolutely minimize signature collisions?”, and concluded that 64 bit signatures are more than sufficient.
 
 
 
@@ -146,7 +146,7 @@ During the discussion, [David Slate](David_Slate "David Slate") and [Ken Thompso
 ## What Information is Stored
 
 
-Typically, the following information is stored as determined by the [search](Search "Search") [[17]](#cite_note-17) :
+Typically, the following information is stored as determined by the [search](Search "Search") <a id="cite-note-17" href="#cite-ref-17">[17]</a> :
 
 
 
@@ -154,7 +154,7 @@ Typically, the following information is stored as determined by the [search](Sea
 * [Best-](Best_Move "Best Move") or [Refutation move](Refutation_Move "Refutation Move")
 * [Depth](Depth "Depth") (draft)
 * [Score](Score "Score"), *either with* [Integrated Bound and Value](Integrated_Bounds_and_Values "Integrated Bounds and Values") *or otherwise with*
-* [Type of Node](Node_Types "Node Types") [[18]](#cite_note-18)
+* [Type of Node](Node_Types "Node Types") <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 
  [PV-Node](Node_Types#pv-node "Node Types"), Score is [Exact](Exact_Score "Exact Score")
@@ -174,7 +174,7 @@ In an [alpha-beta search](Alpha-Beta "Alpha-Beta"), we usually do not find the e
 ## Replacement Strategies
 
 
-Because there are a limited number of entries in a transposition table, and because in modern chess programs they can fill up very quickly, it is necessary to have a scheme by which the program can decide which entries would be most valuable to keep, i.e. a replacement scheme [[19]](#cite_note-19) . Replacement schemes are used to solve an index collision, when a program attempts to store a position in a table slot that already has a different entry in it. There are two opposing considerations to replacement schemes:
+Because there are a limited number of entries in a transposition table, and because in modern chess programs they can fill up very quickly, it is necessary to have a scheme by which the program can decide which entries would be most valuable to keep, i.e. a replacement scheme <a id="cite-note-19" href="#cite-ref-19">[19]</a> . Replacement schemes are used to solve an index collision, when a program attempts to store a position in a table slot that already has a different entry in it. There are two opposing considerations to replacement schemes:
 
 
 
@@ -190,7 +190,7 @@ Because there are a limited number of entries in a transposition table, and beca
 ### Always Replace
 
 
-This replacement strategy is very simple, placing all emphasis on the second consideration. Any old entries are replaced immediately when a new entry is stored [[20]](#cite_note-20) .
+This replacement strategy is very simple, placing all emphasis on the second consideration. Any old entries are replaced immediately when a new entry is stored <a id="cite-note-20" href="#cite-ref-20">[20]</a> .
 
 
 
@@ -220,7 +220,7 @@ This replacement strategy puts all emphasis on the first consideration. The only
 ### Two-tier System
 
 
-This strategy, devised by [Ken Thompson](Ken_Thompson "Ken Thompson") and [Joe Condon](Joe_Condon "Joe Condon") [[21]](#cite_note-21) , uses two tables, side by side. For each table slot, there is a depth-preferred and an always-replace entry [[22]](#cite_note-22) .
+This strategy, devised by [Ken Thompson](Ken_Thompson "Ken Thompson") and [Joe Condon](Joe_Condon "Joe Condon") <a id="cite-note-21" href="#cite-ref-21">[21]</a> , uses two tables, side by side. For each table slot, there is a depth-preferred and an always-replace entry <a id="cite-note-22" href="#cite-ref-22">[22]</a> .
 
 
 
@@ -228,7 +228,7 @@ This strategy, devised by [Ken Thompson](Ken_Thompson "Ken Thompson") and [Joe C
 ### Bucket Systems
 
 
-This family of strategies is similar to the two-tier system, but any number of tiers (known as "buckets") can be used (typically the number is based on the size of a cacheline). The difference is that the buckets are not specific to one consideration, but rather the new entry overwrites the entry in the bucket with the lowest depth [[23]](#cite_note-23) .
+This family of strategies is similar to the two-tier system, but any number of tiers (known as "buckets") can be used (typically the number is based on the size of a cacheline). The difference is that the buckets are not specific to one consideration, but rather the new entry overwrites the entry in the bucket with the lowest depth <a id="cite-note-23" href="#cite-ref-23">[23]</a> .
 
 
 
@@ -236,14 +236,14 @@ This family of strategies is similar to the two-tier system, but any number of t
 ### Aging
 
 
-Aging considers searches of different chess positions during game play. While early implementations and programs relying on [root pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables") to guide search and [evaluation](Evaluation "Evaluation") were obligated to clear the hash table between root positions, most todays programs do not, to profit from entries of previous searches. Nevertheless, to avoid persistence of old entries which may no longer occur from the current root, aging is used to likely replace those entries by new ones, even if their draft and flags would otherwise protect them. To implement aging, one often stores and compares the current [halfmove clock](Halfmove_Clock "Halfmove Clock") as age, likely modulo some power two constant, depending on how many bits are used to store it inside an entry [[24]](#cite_note-24) [[25]](#cite_note-25).
+Aging considers searches of different chess positions during game play. While early implementations and programs relying on [root pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables") to guide search and [evaluation](Evaluation "Evaluation") were obligated to clear the hash table between root positions, most todays programs do not, to profit from entries of previous searches. Nevertheless, to avoid persistence of old entries which may no longer occur from the current root, aging is used to likely replace those entries by new ones, even if their draft and flags would otherwise protect them. To implement aging, one often stores and compares the current [halfmove clock](Halfmove_Clock "Halfmove Clock") as age, likely modulo some power two constant, depending on how many bits are used to store it inside an entry <a id="cite-note-24" href="#cite-ref-24">[24]</a> <a id="cite-note-25" href="#cite-ref-25">[25]</a>.
 
 
 
 ## TT and Parallel Search
 
 
-A [global transposition table](Shared_Hash_Table "Shared Hash Table"), shared by multiple [threads](Thread "Thread") or [processes](Process "Process") is essential for effective [parallel search](Parallel_Search "Parallel Search") algorithms on modern multi core cpus, and might be accessed [lock-less](Shared_Hash_Table#Lockless "Shared Hash Table"), as proposed by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") and [Tim Mann](Tim_Mann "Tim Mann") [[26]](#cite_note-26) .
+A [global transposition table](Shared_Hash_Table "Shared Hash Table"), shared by multiple [threads](Thread "Thread") or [processes](Process "Process") is essential for effective [parallel search](Parallel_Search "Parallel Search") algorithms on modern multi core cpus, and might be accessed [lock-less](Shared_Hash_Table#Lockless "Shared Hash Table"), as proposed by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") and [Tim Mann](Tim_Mann "Tim Mann") <a id="cite-note-26" href="#cite-ref-26">[26]</a> .
 
 
 
@@ -273,7 +273,7 @@ Besides storing the best move and scores of the search trees, further [hash tabl
 * [CPW-Engine\_transposition](CPW-Engine_transposition "CPW-Engine transposition")
 * [Fifty-move Rule](Fifty-move_Rule "Fifty-move Rule")
 * [Graph History Interaction](Graph_History_Interaction "Graph History Interaction")
-* [Hamming Distance](Population_Count#HammingDistance "Population Count") [[27]](#cite_note-27)
+* [Hamming Distance](Population_Count#HammingDistance "Population Count") <a id="cite-note-27" href="#cite-ref-27">[27]</a>
 * [Hash Move](Hash_Move "Hash Move")
 * [Hash Table](Hash_Table "Hash Table")
 * [Huge Pages](Memory#HugePages "Memory")
@@ -329,7 +329,7 @@ Besides storing the best move and scores of the search trees, further [hash tabl
 ### 2000 ...
 
 
-* [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2002**). *A Performance Analysis of Transposition-Table-Driven Scheduling in Distributed Search*. IEEE Transactions on Parallel and Distributed Systems, Vol. 13, No. 5, pp. 447–459. [pdf](http://www.cs.vu.nl/~bal/Papers/tds.pdf) » [Parallel Search](Parallel_Search "Parallel Search") [[28]](#cite_note-28) [[29]](#cite_note-29)
+* [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2002**). *A Performance Analysis of Transposition-Table-Driven Scheduling in Distributed Search*. IEEE Transactions on Parallel and Distributed Systems, Vol. 13, No. 5, pp. 447–459. [pdf](http://www.cs.vu.nl/~bal/Papers/tds.pdf) » [Parallel Search](Parallel_Search "Parallel Search") <a id="cite-note-28" href="#cite-ref-28">[28]</a> <a id="cite-note-29" href="#cite-ref-29">[29]</a>
 * [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Tim Mann](Tim_Mann "Tim Mann") (**2002**). *[A lock-less transposition table implementation for parallel search chess engines](http://www.craftychess.com/hyatt/hashing.html)*. [ICGA Journal, Vol. 25, No. 1](ICGA_Journal#25_1 "ICGA Journal")
 * [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") (**2005**). *[The Effect of Hash Signature Collisions in a Chess Program](http://www.craftychess.com/hyatt/collisions.html)*. [ICGA Journal, Vol. 28, No. 3](ICGA_Journal#28_3 "ICGA Journal")
 * [Borko Bošković](Borko_Bo%C5%A1kovi%C4%87 "Borko Bošković"), [Sašo Greiner](Sa%C5%A1o_Greiner "Sašo Greiner"), [Janez Brest](Janez_Brest "Janez Brest"), [Viljem Žumer](Viljem_%C5%BDumer "Viljem Žumer") (**2005**). *[The Representation of Chess Game](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1491153)*. Proceedings of the 27th International Conference on Information Technology Interfaces
@@ -366,7 +366,7 @@ Besides storing the best move and scores of the search trees, further [hash tabl
 
 * [Transposition table](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/34826d5ec57f0923) by Matthew Bengtson, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 25, 1996
 * [Collision probability](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/b9de346eb1e8300/) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 15, 1996
-* [Alpha-Beta window in transposition tables?](https://groups.google.com/d/msg/rec.games.chess.computer/p8GbiiLjp0o/81vZ3czsthIJ) by Marty Bochane, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 25, 1996 [[30]](#cite_note-30)
+* [Alpha-Beta window in transposition tables?](https://groups.google.com/d/msg/rec.games.chess.computer/p8GbiiLjp0o/81vZ3czsthIJ) by Marty Bochane, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 25, 1996 <a id="cite-note-30" href="#cite-ref-30">[30]</a>
 * [Re: Berliner vs. Botvinnik Some interesting points](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/259fbfd2b39b8ee4/80c64ba0f632fc31), post 8 by [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 06, 1996 » Transposition Table in [Mac Hack](Mac_Hack "Mac Hack")
 * [hash table fail high/fail low problem](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/77ec7b3a94555fb4/d8019f5c3716cd1a) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 26, 1996
 
@@ -558,7 +558,7 @@ Besides storing the best move and scores of the search trees, further [hash tabl
 
 
 * [Transposition table usage in quiescent search?](http://www.talkchess.com/forum/viewtopic.php?t=47373) by [Jerry Donald](index.php?title=Jerry_Donald&action=edit&redlink=1 "Jerry Donald (page does not exist)"), [CCC](CCC "CCC"), March 01, 2013 » [Quiescence Search](Quiescence_Search "Quiescence Search")
-* [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013 [[31]](#cite_note-31)
+* [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013 <a id="cite-note-31" href="#cite-ref-31">[31]</a>
 * [The effect of larger hash size](http://www.talkchess.com/forum/viewtopic.php?t=47773) by [Jacob Børs Lind](index.php?title=Jacob_B%C3%B8rs_Lind&action=edit&redlink=1 "Jacob Børs Lind (page does not exist)"), [CCC](CCC "CCC"), April 13, 2013
 * [Effect of the Hash Table size](http://www.talkchess.com/forum/viewtopic.php?t=47872) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), April 28, 2013
 * [Hash cutoffs and analysis](http://www.talkchess.com/forum/viewtopic.php?t=48315) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), June 17, 2013
@@ -631,7 +631,7 @@ Besides storing the best move and scores of the search trees, further [hash tabl
 * [Question about TT](https://groups.google.com/forum/#!topic/fishcooking/Mh8SzJhxmHQ) by stefano.c, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), August 21, 2016
 * [transposition table pseudocode](http://www.talkchess.com/forum/viewtopic.php?t=61193) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), August 22, 2016
 * [transposition tables and three-fold repetition](http://www.talkchess.com/forum/viewtopic.php?t=61384) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), September 10, 2016 » [Repetitions](Repetitions "Repetitions")
-* [Transposition tables in Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?t=61543) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), September 26, 2016 [[32]](#cite_note-32) » [Cray Blitz](Cray_Blitz "Cray Blitz")
+* [Transposition tables in Cray Blitz](http://www.talkchess.com/forum/viewtopic.php?t=61543) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), September 26, 2016 <a id="cite-note-32" href="#cite-ref-32">[32]</a> » [Cray Blitz](Cray_Blitz "Cray Blitz")
 * [Hash table transformation](http://www.talkchess.com/forum/viewtopic.php?t=61614) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), October 05, 2016
 * [Modify hash probing code to pvs](http://www.talkchess.com/forum/viewtopic.php?t=62391) by Fernando Tenorio, [CCC](CCC "CCC"), December 05, 2016
 
@@ -739,38 +739,38 @@ Besides storing the best move and scores of the search trees, further [hash tabl
 ## References
 
 
-1. [↑](#cite_ref-1) [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"), [Donald Eastlake](Donald_Eastlake "Donald Eastlake"), [Stephen D. Crocker](Stephen_D._Crocker "Stephen D. Crocker") (**1967**). *The Greenblatt Chess Program*. Proceedings of the AfiPs Fall Joint Computer Conference, Vol. 31, pp. 801-810. Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/2-4.Greenblatt_Chess_Program/The_Greenblatt_Chess_Program.Greenblatt_Eastlake_Crocker.1967.Fall_Joint_Computer_Conference.062303060.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") or as [pdf or ps](http://dspace.mit.edu/handle/1721.1/6176) from [DSpace](http://libraries.mit.edu/dspace-mit/) at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
-2. [↑](#cite_ref-2) [Albert Zobrist](Albert_Zobrist "Albert Zobrist") (**1970**). *A New Hashing Method with Application for Game Playing*. Technical Report #88, Computer Science Department, The University of Wisconsin, Madison, WI, USA. Reprinted (**1990**) in [ICCA Journal, Vol. 13, No. 2](ICGA_Journal#13_2 "ICGA Journal"), [pdf](http://www.cs.wisc.edu/techreports/1970/TR88.pdf)
-3. [↑](#cite_ref-3) [Re: Berliner vs. Botvinnik Some interesting points](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/259fbfd2b39b8ee4/80c64ba0f632fc31), post 8 by [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 06, 1996 » Transposition Table in [Mac Hack](Mac_Hack "Mac Hack")
-4. [↑](#cite_ref-4) [Algorithms that use dynamic programming from Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming)
-5. [↑](#cite_ref-5) [Sanjoy Dasgupta](Mathematician#SDasgupta "Mathematician"), [Christos H. Papadimitriou](Mathematician#CHPapadimitriou "Mathematician"), [Umesh Vazirani](Mathematician#UVVazirani "Mathematician") (**2006**). *[Algorithms](http://www.cs.berkeley.edu/%7Evazirani/algorithms.html)*. [McGraw-Hill](https://en.wikipedia.org/wiki/McGraw-Hill), ISBN: 978-0073523408, [amazon](http://www.amazon.com/gp/product/0073523402?ie=UTF8&tag=ebookdire-20&link_code=as3&camp=211189&creative=373489&creativeASIN=0073523402), Chapter 6, Dynamic programming
-6. [↑](#cite_ref-6) [Shirish Chinchalkar](Shirish_Chinchalkar "Shirish Chinchalkar") (**1996**). *An Upper Bound for the Number of Reachable Positions*. [ICCA Journal, Vol. 19, No. 3](ICGA_Journal#19_3 "ICGA Journal")
-7. [↑](#cite_ref-7) [Albert Zobrist](Albert_Zobrist "Albert Zobrist") (**1970**). *A New Hashing Method with Application for Game Playing*. Technical Report #88, Computer Science Department, The University of Wisconsin, Madison, WI, USA. Reprinted (1990) in [ICCA Journal, Vol. 13, No. 2](ICGA_Journal#13_2 "ICGA Journal"), [pdf](http://www.cs.wisc.edu/techreports/1970/TR88.pdf)
-8. [↑](#cite_ref-8) [Collision probability](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/b9de346eb1e8300/) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 15, 1996
-9. [↑](#cite_ref-9) [TT Key Collisions, Workarounds?](http://www.talkchess.com/forum/viewtopic.php?t=40062) by [Clemens Pruell](index.php?title=Clemens_Pruell&action=edit&redlink=1 "Clemens Pruell (page does not exist)"), [CCC](CCC "CCC"), August 16, 2011
-10. [↑](#cite_ref-10) [how to measure frequency of hash collisions](http://www.talkchess.com/forum/viewtopic.php?t=44082) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), June 16, 2012
-11. [↑](#cite_ref-11) [Computer Chess - Hash Collisions in Chess Engines, and What They May Mean...](http://www.cse.buffalo.edu/~regan/chess/computer/) by [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan")
-12. [↑](#cite_ref-12) [Pablo Lafuente vs Shredder (Computer) (2005)](http://www.chessgames.com/perl/chessgame?gid=1352348) from [chessgames.com](http://www.chessgames.com/index.html)
-13. [↑](#cite_ref-13) [Current tournaments – Sanjin, Biel, Argentina, Israel](http://www.chessbase.com/newsdetail.asp?newsid=2525), [ChessBase News](ChessBase "ChessBase"), July 21, 2005
-14. [↑](#cite_ref-14) [James Gillogly](James_Gillogly "James Gillogly") (**1989**). *Transposition Table Collisions*. [Workshop on New Directions in Game-Tree Search](WCCC_1989#Workshop "WCCC 1989")
-15. [↑](#cite_ref-15) [James Gillogly](James_Gillogly "James Gillogly") (**1989**). *New Directions in Game-Tree Search - First Workshop Session*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
-16. [↑](#cite_ref-16) [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") (**2005**). *[The Effect of Hash Signature Collisions in a Chess Program](http://www.craftychess.com/hyatt/collisions.html)*. [ICGA Journal, Vol. 28, No. 3](ICGA_Journal#28_3 "ICGA Journal")
-17. [↑](#cite_ref-17) [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1997**). *Information in Transposition Tables*. [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
-18. [↑](#cite_ref-18) [MTD(f)](MTD(f) "MTD(f)")- and some [PVS](Principal_Variation_Search "Principal Variation Search")-implementations store distinct [upper](Upper_Bound "Upper Bound") and [lower bound](Upper_Bound "Upper Bound") scores, rather than one score with flags
-19. [↑](#cite_ref-19) [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1994**). *Replacement Schemes for Transposition Tables*. [ICCA Journal, Vol. 17, No. 4](ICGA_Journal#17_4 "ICGA Journal")
-20. [↑](#cite_ref-20) [Re: Transposition table usage in quiescent search?](http://www.talkchess.com/forum/viewtopic.php?t=47373&start=28) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), March 06, 2013
-21. [↑](#cite_ref-21) [Joe Condon](Joe_Condon "Joe Condon"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1983**). *BELLE Chess Hardware*. [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3")
-22. [↑](#cite_ref-22) [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1996**). *Replacement Schemes and Two-Level Tables*. [ICCA Journal, Vol. 19, No. 3](ICGA_Journal#19_3 "ICGA Journal")
-23. [↑](#cite_ref-23) [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1996**). *Multiple Probes of Transposition Tables*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
-24. [↑](#cite_ref-24) [Transposition Age Tutorial](http://www.talkchess.com/forum/viewtopic.php?t=59047) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), January 25, 2016
-25. [↑](#cite_ref-25) [Hashtable aging](http://www.talkchess.com/forum/viewtopic.php?t=59960) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), April 25, 2016
-26. [↑](#cite_ref-26) [Robert Hyatt](Robert_Hyatt "Robert Hyatt") and [Tim Mann](Tim_Mann "Tim Mann") (**2002**). *[A lock-less transposition table implementation for parallel search chess engines](http://www.craftychess.com/hyatt/hashing.html)*. [ICGA Journal, Vol. 25, No. 1](ICGA_Journal#25_1 "ICGA Journal")
-27. [↑](#cite_ref-27) [Re: About random numbers and hashing](https://www.stmintz.com/ccc/index.php?id=200622) by [Sven Reichard](Sven_Reichard "Sven Reichard"), [CCC](CCC "CCC"), December 05, 2001
-28. [↑](#cite_ref-28) [Transposition-driven scheduling - Wikipedia](https://en.wikipedia.org/wiki/Transposition-driven_scheduling)
-29. [↑](#cite_ref-29) [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013
-30. [↑](#cite_ref-30) [Re. Fail low after fail high](http://www.talkchess.com/forum/viewtopic.php?t=55889&start=8) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [CCC](CCC "CCC"), April 05, 2015 » [Fail-Low](Fail-Low "Fail-Low") , [Fail-High](Fail-High "Fail-High")
-31. [↑](#cite_ref-31) [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2002**). *A Performance Analysis of Transposition-Table-Driven Scheduling in Distributed Search*. IEEE Transactions on Parallel and Distributed Systems, Vol. 13, No. 5, pp. 447–459. [pdf](http://www.cs.vu.nl/~bal/Papers/tds.pdf)
-32. [↑](#cite_ref-32) [David E. Welsh](David_E._Welsh "David E. Welsh"), [Boris Baczynskyj](Boris_Baczynskyj "Boris Baczynskyj") (**1985**). *[Computer Chess II](http://www.amazon.com/Computer-Chess-II-David-Welsh/dp/0697099113)*. William C Brown Publications, ISBN-13: 978-0697099112
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"), [Donald Eastlake](Donald_Eastlake "Donald Eastlake"), [Stephen D. Crocker](Stephen_D._Crocker "Stephen D. Crocker") (**1967**). *The Greenblatt Chess Program*. Proceedings of the AfiPs Fall Joint Computer Conference, Vol. 31, pp. 801-810. Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/2-4.Greenblatt_Chess_Program/The_Greenblatt_Chess_Program.Greenblatt_Eastlake_Crocker.1967.Fall_Joint_Computer_Conference.062303060.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") or as [pdf or ps](http://dspace.mit.edu/handle/1721.1/6176) from [DSpace](http://libraries.mit.edu/dspace-mit/) at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Albert Zobrist](Albert_Zobrist "Albert Zobrist") (**1970**). *A New Hashing Method with Application for Game Playing*. Technical Report #88, Computer Science Department, The University of Wisconsin, Madison, WI, USA. Reprinted (**1990**) in [ICCA Journal, Vol. 13, No. 2](ICGA_Journal#13_2 "ICGA Journal"), [pdf](http://www.cs.wisc.edu/techreports/1970/TR88.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Berliner vs. Botvinnik Some interesting points](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/259fbfd2b39b8ee4/80c64ba0f632fc31), post 8 by [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 06, 1996 » Transposition Table in [Mac Hack](Mac_Hack "Mac Hack")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Algorithms that use dynamic programming from Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Sanjoy Dasgupta](Mathematician#SDasgupta "Mathematician"), [Christos H. Papadimitriou](Mathematician#CHPapadimitriou "Mathematician"), [Umesh Vazirani](Mathematician#UVVazirani "Mathematician") (**2006**). *[Algorithms](http://www.cs.berkeley.edu/%7Evazirani/algorithms.html)*. [McGraw-Hill](https://en.wikipedia.org/wiki/McGraw-Hill), ISBN: 978-0073523408, [amazon](http://www.amazon.com/gp/product/0073523402?ie=UTF8&tag=ebookdire-20&link_code=as3&camp=211189&creative=373489&creativeASIN=0073523402), Chapter 6, Dynamic programming
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Shirish Chinchalkar](Shirish_Chinchalkar "Shirish Chinchalkar") (**1996**). *An Upper Bound for the Number of Reachable Positions*. [ICCA Journal, Vol. 19, No. 3](ICGA_Journal#19_3 "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Albert Zobrist](Albert_Zobrist "Albert Zobrist") (**1970**). *A New Hashing Method with Application for Game Playing*. Technical Report #88, Computer Science Department, The University of Wisconsin, Madison, WI, USA. Reprinted (1990) in [ICCA Journal, Vol. 13, No. 2](ICGA_Journal#13_2 "ICGA Journal"), [pdf](http://www.cs.wisc.edu/techreports/1970/TR88.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Collision probability](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/b9de346eb1e8300/) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 15, 1996
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [TT Key Collisions, Workarounds?](http://www.talkchess.com/forum/viewtopic.php?t=40062) by [Clemens Pruell](index.php?title=Clemens_Pruell&action=edit&redlink=1 "Clemens Pruell (page does not exist)"), [CCC](CCC "CCC"), August 16, 2011
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [how to measure frequency of hash collisions](http://www.talkchess.com/forum/viewtopic.php?t=44082) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), June 16, 2012
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Computer Chess - Hash Collisions in Chess Engines, and What They May Mean...](http://www.cse.buffalo.edu/~regan/chess/computer/) by [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Pablo Lafuente vs Shredder (Computer) (2005)](http://www.chessgames.com/perl/chessgame?gid=1352348) from [chessgames.com](http://www.chessgames.com/index.html)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Current tournaments – Sanjin, Biel, Argentina, Israel](http://www.chessbase.com/newsdetail.asp?newsid=2525), [ChessBase News](ChessBase "ChessBase"), July 21, 2005
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [James Gillogly](James_Gillogly "James Gillogly") (**1989**). *Transposition Table Collisions*. [Workshop on New Directions in Game-Tree Search](WCCC_1989#Workshop "WCCC 1989")
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [James Gillogly](James_Gillogly "James Gillogly") (**1989**). *New Directions in Game-Tree Search - First Workshop Session*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") (**2005**). *[The Effect of Hash Signature Collisions in a Chess Program](http://www.craftychess.com/hyatt/collisions.html)*. [ICGA Journal, Vol. 28, No. 3](ICGA_Journal#28_3 "ICGA Journal")
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1997**). *Information in Transposition Tables*. [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [MTD(f)](MTD(f) "MTD(f)")- and some [PVS](Principal_Variation_Search "Principal Variation Search")-implementations store distinct [upper](Upper_Bound "Upper Bound") and [lower bound](Upper_Bound "Upper Bound") scores, rather than one score with flags
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1994**). *Replacement Schemes for Transposition Tables*. [ICCA Journal, Vol. 17, No. 4](ICGA_Journal#17_4 "ICGA Journal")
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Re: Transposition table usage in quiescent search?](http://www.talkchess.com/forum/viewtopic.php?t=47373&start=28) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), March 06, 2013
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Joe Condon](Joe_Condon "Joe Condon"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1983**). *BELLE Chess Hardware*. [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3")
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1996**). *Replacement Schemes and Two-Level Tables*. [ICCA Journal, Vol. 19, No. 3](ICGA_Journal#19_3 "ICGA Journal")
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1996**). *Multiple Probes of Transposition Tables*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Transposition Age Tutorial](http://www.talkchess.com/forum/viewtopic.php?t=59047) by [Dennis Sceviour](Dennis_Sceviour "Dennis Sceviour"), [CCC](CCC "CCC"), January 25, 2016
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Hashtable aging](http://www.talkchess.com/forum/viewtopic.php?t=59960) by [Martin Fierz](Martin_Fierz "Martin Fierz"), [CCC](CCC "CCC"), April 25, 2016
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") and [Tim Mann](Tim_Mann "Tim Mann") (**2002**). *[A lock-less transposition table implementation for parallel search chess engines](http://www.craftychess.com/hyatt/hashing.html)*. [ICGA Journal, Vol. 25, No. 1](ICGA_Journal#25_1 "ICGA Journal")
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [Re: About random numbers and hashing](https://www.stmintz.com/ccc/index.php?id=200622) by [Sven Reichard](Sven_Reichard "Sven Reichard"), [CCC](CCC "CCC"), December 05, 2001
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Transposition-driven scheduling - Wikipedia](https://en.wikipedia.org/wiki/Transposition-driven_scheduling)
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013
+30. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Re. Fail low after fail high](http://www.talkchess.com/forum/viewtopic.php?t=55889&start=8) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [CCC](CCC "CCC"), April 05, 2015 » [Fail-Low](Fail-Low "Fail-Low") , [Fail-High](Fail-High "Fail-High")
+31. <a id="cite-ref-31" href="#cite-note-31">↑</a> [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2002**). *A Performance Analysis of Transposition-Table-Driven Scheduling in Distributed Search*. IEEE Transactions on Parallel and Distributed Systems, Vol. 13, No. 5, pp. 447–459. [pdf](http://www.cs.vu.nl/~bal/Papers/tds.pdf)
+32. <a id="cite-ref-32" href="#cite-note-32">↑</a> [David E. Welsh](David_E._Welsh "David E. Welsh"), [Boris Baczynskyj](Boris_Baczynskyj "Boris Baczynskyj") (**1985**). *[Computer Chess II](http://www.amazon.com/Computer-Chess-II-David-Welsh/dp/0697099113)*. William C Brown Publications, ISBN-13: 978-0697099112
 
 **[Up one Level](Search "Search")**
 

@@ -3,19 +3,19 @@ title: Chinese Chess
 ---
 **[Home](Home "Home") * [Games](Games "Games") * Chinese Chess**
 
-\[ Xiangqi board, with pieces in their starting positions [[1]](#cite_note-1)
-**Chinese Chess**, or **Xiangqi** 象棋 [[2]](#cite_note-2),\
-is a chess variant which is very popular in East Asia, especially in China and Vietnam. The Chinese Chess set includes a board and 32 pieces for two players. The board has ten horizontal lines called [ranks](Ranks "Ranks") and nine vertical lines called [files](Files "Files"). Pieces are located not in the cells but intersectional points of ranks and files which are 90 in total. In the middle of the board the central seven files are interrupted by a horizontal space called the “River”, which splits the board into two parts. Each side of the board has a “Palace” a 3x3 area in the central base. The two sides are usually distinguished by colors, traditional names are red or black [[3]](#cite_note-3) but now they can be called white and black as chess. Sometimes the Xiangqi board could be considered as the presentation of the war between two countries when the standard chess presents for a battle only.
+\[ Xiangqi board, with pieces in their starting positions <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+**Chinese Chess**, or **Xiangqi** 象棋 <a id="cite-note-2" href="#cite-ref-2">[2]</a>,\
+is a chess variant which is very popular in East Asia, especially in China and Vietnam. The Chinese Chess set includes a board and 32 pieces for two players. The board has ten horizontal lines called [ranks](Ranks "Ranks") and nine vertical lines called [files](Files "Files"). Pieces are located not in the cells but intersectional points of ranks and files which are 90 in total. In the middle of the board the central seven files are interrupted by a horizontal space called the “River”, which splits the board into two parts. Each side of the board has a “Palace” a 3x3 area in the central base. The two sides are usually distinguished by colors, traditional names are red or black <a id="cite-note-3" href="#cite-ref-3">[3]</a> but now they can be called white and black as chess. Sometimes the Xiangqi board could be considered as the presentation of the war between two countries when the standard chess presents for a battle only.
 
 ## Pieces
 
-There are 7 types: King, Advisor, Elephant, Rook, Cannon, Horse, and Pawn. Typically those pieces are made from small, simple wood pieces which some symbols (new way) or Chinese characters (traditional way) written on them. As the Chinese characters, pieces on the white side may use different characters than their counterparts on the black side. They are the same pieces, but names on the White side are subtly more noble than those on the Black side [[4]](#cite_note-4).
+There are 7 types: King, Advisor, Elephant, Rook, Cannon, Horse, and Pawn. Typically those pieces are made from small, simple wood pieces which some symbols (new way) or Chinese characters (traditional way) written on them. As the Chinese characters, pieces on the white side may use different characters than their counterparts on the black side. They are the same pieces, but names on the White side are subtly more noble than those on the Black side <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
 Cannon is the most interesting piece in Chinese chess.
 
 |  Images
 |  Name
-|  Notation [[5]](#cite_note-5) |  Value [[6]](#cite_note-6) |  Movement
+|  Notation <a id="cite-note-5" href="#cite-ref-5">[5]</a> |  Value <a id="cite-note-6" href="#cite-ref-6">[6]</a> |  Movement
 |  Restriction
 |
 | --- | --- | --- | --- | --- | --- |
@@ -142,14 +142,14 @@ e) Rules 3-fork repetitions are hard to implement and maybe so slow
 ## Photos
 
 [](http://www.yss-aya.com/photo/graz2003/1126/Htmls/PICT1282.html)
-Xiangqi winners in [Graz 2003](8th_Computer_Olympiad#ChineseChess "8th Computer Olympiad"), [Pascal Tang](Pascal_Tang "Pascal Tang"), [Zhi-Jian Tu](index.php?title=Zhi-Jian_Tu&action=edit&redlink=1 "Zhi-Jian Tu (page does not exist)") and [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu") [[7]](#cite_note-7)
+Xiangqi winners in [Graz 2003](8th_Computer_Olympiad#ChineseChess "8th Computer Olympiad"), [Pascal Tang](Pascal_Tang "Pascal Tang"), [Zhi-Jian Tu](index.php?title=Zhi-Jian_Tu&action=edit&redlink=1 "Zhi-Jian Tu (page does not exist)") and [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 [](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2005/fotos/IMG_0232.JPG)
 Xiangqi winners [Taipei 2005](10th_Computer_Olympiad#ChineseChess "10th Computer Olympiad") with TD [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") and representative of the sponsor [Acer Inc.](https://en.wikipedia.org/wiki/Acer_Inc.),\
-[Mingyang Zhao](index.php?title=Mingyang_Zhao&action=edit&redlink=1 "Mingyang Zhao (page does not exist)") (Gold), [Ming-Cheng Cheng](index.php?title=Ming-Cheng_Cheng&action=edit&redlink=1 "Ming-Cheng Cheng (page does not exist)") (Silver) and [Jiao Wang](Jiao_Wang "Jiao Wang") (Bronze) [[8]](#cite_note-8)
+[Mingyang Zhao](index.php?title=Mingyang_Zhao&action=edit&redlink=1 "Mingyang Zhao (page does not exist)") (Gold), [Ming-Cheng Cheng](index.php?title=Ming-Cheng_Cheng&action=edit&redlink=1 "Ming-Cheng Cheng (page does not exist)") (Silver) and [Jiao Wang](Jiao_Wang "Jiao Wang") (Bronze) <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 [](http://icga.org//?page_id=800&wppa-album=3&wppa-cover=0&wppa-occur=1&wppa-photo=45)
-[Yokohama 2013](17th_Computer_Olympiad "17th Computer Olympiad"), [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") [[9]](#cite_note-9)
+[Yokohama 2013](17th_Computer_Olympiad "17th Computer Olympiad"), [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ## Publications
 
@@ -341,15 +341,15 @@ Xiangqi winners [Taipei 2005](10th_Computer_Olympiad#ChineseChess "10th Computer
 
 ## References
 
-1. [↑](#cite_ref-1) [Xiangqi from Wikipedia](https://en.wikipedia.org/wiki/Xiangqi)
-1. [↑](#cite_ref-2) [Xiang Qi Is Not The Elephant Game](https://groups.google.com/d/msg/rec.games.chinese-chess/gcreEzzU3yQ/HvWOlP7yaYkJ) by Stephen Leary, [rec.games.chinese-chess](Computer_Chess_Forums "Computer Chess Forums"), November 18, 1994
-1. [↑](#cite_ref-3) [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [Tai-Ning Yang](index.php?title=Tai-Ning_Yang&action=edit&redlink=1 "Tai-Ning Yang (page does not exist)"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu") (**2004**) *[Computer Chinese Chess](https://www.researchgate.net/publication/220174553_Computer_Chinese_Chess)*. [ICGA Journal, Vol. 27, No. 1](ICGA_Journal#27_1 "ICGA Journal"), [pdf](https://pdfs.semanticscholar.org/223d/ef59c884503f18610bba314034157f55aacd.pdf)
-1. [↑](#cite_ref-4) [How to Play Xiangqi - Chinese Chess](http://ancientchess.com/page/play-xiangqi.htm)
-1. [↑](#cite_ref-5) [WXF Notation](http://wxf.ca/xq/computer/wxf_notation.html)
-1. [↑](#cite_ref-6) [Xiangqi - Approximate relative values of the pieces - Wikipedia](https://en.wikipedia.org/wiki/Xiangqi#Approximate_relative_values_of_the_pieces)
-1. [↑](#cite_ref-7) [Computer Olympiad 2003 in Graz, Austria, November 26](http://www.yss-aya.com/photo/graz2003/1126/index01.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
-1. [↑](#cite_ref-8) Clipped from [Image](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2005/fotos/IMG_0232.JPG) by [Joke Hellemons](Johanna_Hellemons "Johanna Hellemons")
-1. [↑](#cite_ref-9) [Photos 2013 Events: day 3](http://icga.org//?page_id=800), [ICGA](ICGA "ICGA")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Xiangqi from Wikipedia](https://en.wikipedia.org/wiki/Xiangqi)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Xiang Qi Is Not The Elephant Game](https://groups.google.com/d/msg/rec.games.chinese-chess/gcreEzzU3yQ/HvWOlP7yaYkJ) by Stephen Leary, [rec.games.chinese-chess](Computer_Chess_Forums "Computer Chess Forums"), November 18, 1994
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [Tai-Ning Yang](index.php?title=Tai-Ning_Yang&action=edit&redlink=1 "Tai-Ning Yang (page does not exist)"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu") (**2004**) *[Computer Chinese Chess](https://www.researchgate.net/publication/220174553_Computer_Chinese_Chess)*. [ICGA Journal, Vol. 27, No. 1](ICGA_Journal#27_1 "ICGA Journal"), [pdf](https://pdfs.semanticscholar.org/223d/ef59c884503f18610bba314034157f55aacd.pdf)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [How to Play Xiangqi - Chinese Chess](http://ancientchess.com/page/play-xiangqi.htm)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [WXF Notation](http://wxf.ca/xq/computer/wxf_notation.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Xiangqi - Approximate relative values of the pieces - Wikipedia](https://en.wikipedia.org/wiki/Xiangqi#Approximate_relative_values_of_the_pieces)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Computer Olympiad 2003 in Graz, Austria, November 26](http://www.yss-aya.com/photo/graz2003/1126/index01.html) by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> Clipped from [Image](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2005/fotos/IMG_0232.JPG) by [Joke Hellemons](Johanna_Hellemons "Johanna Hellemons")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Photos 2013 Events: day 3](http://icga.org//?page_id=800), [ICGA](ICGA "ICGA")
 
 **[Up one Level](Games "Games")**
 

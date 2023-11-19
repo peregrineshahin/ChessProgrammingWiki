@@ -5,7 +5,7 @@ title: Quiescence Search
 
 
 
- [](http://www.yogachicago.com/jan06/art.shtml) [Karen Schuman](index.php?title=Category:Karen_Schuman&action=edit&redlink=1 "Category:Karen Schuman (page does not exist)") - Quiescence [[1]](#cite_note-1) 
+ [](http://www.yogachicago.com/jan06/art.shtml) [Karen Schuman](index.php?title=Category:Karen_Schuman&action=edit&redlink=1 "Category:Karen Schuman (page does not exist)") - Quiescence <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 Most chess programs, at the end of the main search perform a more limited **quiescence** search, containing fewer moves. The purpose of this search is to only [evaluate](Evaluation "Evaluation") "quiet" [positions](Chess_Position "Chess Position"), or positions where there are no winning [tactical moves](Tactical_Moves "Tactical Moves") to be made. This search is needed to avoid the [horizon effect](Horizon_Effect "Horizon Effect"). Simply stopping your search when you reach the desired [depth](Depth "Depth") and then evaluate, is very dangerous. Consider the situation where the last move you consider is QxP. If you stop there and evaluate, you might think that you have won a pawn. But what if you were to search one move deeper and find that the next move is PxQ? You didn't win a pawn, you actually lost a queen. Hence the need to make sure that you are evaluating only quiescent (quiet) positions. 
 
 
@@ -101,7 +101,7 @@ int Quiesce( int alpha, int beta ) {
 
 
 * [Don Beal](Don_Beal "Don Beal") (**1990**). *A Generalized Quiescence Search Algorithm*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1, pp. 85-98. ISSN 0004-3702
-* [Sören Walter Perrey](index.php?title=S%C3%B6ren_Walter_Perrey&action=edit&redlink=1 "Sören Walter Perrey (page does not exist)") (**1991**). *Mathematische Methoden der Künstlichen Intelligenz: Zur Quiescence-Suche in Spielbäumen*. Diplom thesis, Sonderforschungsbereich 343, [E91-006](http://www.mathematik.uni-bielefeld.de/sfb343/preprints/index91.html), [University of Bielefeld](https://en.wikipedia.org/wiki/Bielefeld_University) (German) [[2]](#cite_note-2)
+* [Sören Walter Perrey](index.php?title=S%C3%B6ren_Walter_Perrey&action=edit&redlink=1 "Sören Walter Perrey (page does not exist)") (**1991**). *Mathematische Methoden der Künstlichen Intelligenz: Zur Quiescence-Suche in Spielbäumen*. Diplom thesis, Sonderforschungsbereich 343, [E91-006](http://www.mathematik.uni-bielefeld.de/sfb343/preprints/index91.html), [University of Bielefeld](https://en.wikipedia.org/wiki/Bielefeld_University) (German) <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 * [Michael Gherrity](Michael_Gherrity "Michael Gherrity"), [Paul Kube](Mathematician#PKube "Mathematician") (**1993**). *Quiescent Search is Beneficial.* Technical Report CS93-289, [University of California, San Diego](http://de.wikipedia.org/wiki/University_of_California,_San_Diego)
 * [Don Beal](Don_Beal "Don Beal") (**1999**). *The Nature of MINIMAX Search*. Ph.D. thesis, IKAT, ISBN 90-62-16-6348
 
@@ -109,9 +109,9 @@ int Quiesce( int alpha, int beta ) {
 ### 2000 ...
 
 
-* [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2000**). *SUPER-SOMA - Solving Tactical Exchanges in Shogi without Tree Searching*. [Lecture Notes In Computer Science](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science), Vol. 2063, [CG 2000](CG_2000 "CG 2000"), [Word preprint](http://www.aifactory.co.uk/downloads/SUPER-SOMA.doc) [[3]](#cite_note-3)
+* [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2000**). *SUPER-SOMA - Solving Tactical Exchanges in Shogi without Tree Searching*. [Lecture Notes In Computer Science](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science), Vol. 2063, [CG 2000](CG_2000 "CG 2000"), [Word preprint](http://www.aifactory.co.uk/downloads/SUPER-SOMA.doc) <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 * [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2006**). *[Looking for Alternatives to Quiescence Search](http://www.aifactory.co.uk/newsletter/2006_03_quiescence_alts.htm)*. [AI Factory](AI_Factory "AI Factory"), Autumn 2006
-* [Don Beal](Don_Beal "Don Beal") (**2006**). *Review of a nullmove-quiescence search mechanism from 1986*. [File:Alg1986review.txt](File:Alg1986review.txt "File:Alg1986review.txt") (Draft) [[4]](#cite_note-4)
+* [Don Beal](Don_Beal "Don Beal") (**2006**). *Review of a nullmove-quiescence search mechanism from 1986*. [File:Alg1986review.txt](File:Alg1986review.txt "File:Alg1986review.txt") (Draft) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 * [Maarten Schadd](index.php?title=Maarten_Schadd&action=edit&redlink=1 "Maarten Schadd (page does not exist)"), [Mark Winands](Mark_Winands "Mark Winands") (**2009**). *Quiescence Search for Stratego*. In BNAIC 2009, [pdf](http://www.personeel.unimaas.nl/Maarten-Schadd/Papers/2009StrategoBNAIC1.pdf)
 
 
@@ -305,10 +305,10 @@ int Quiesce( int alpha, int beta ) {
 ## References
 
 
-1. [↑](#cite_ref-1) Quiescence by [Karen Schuman](index.php?title=Category:Karen_Schuman&action=edit&redlink=1 "Category:Karen Schuman (page does not exist)") from [Artist Karen Schuman’s Personal Mythology](http://www.yogachicago.com/jan06/art.shtml) Reviewed by [Anna Poplawska](http://www.chicagoartcriticsassociation.org/B/poplawska.html)
-2. [↑](#cite_ref-2) [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1991**). *Mathematische Methoden der Künstlichen Intelligenz: Zur Quiescence-Suche in Spielbäumen*. Review, [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
-3. [↑](#cite_ref-3) [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2006**). *[Looking for Alternatives to Quiescence Search](http://www.aifactory.co.uk/newsletter/2006_03_quiescence_alts.htm)*. [AI Factory](AI_Factory "AI Factory"), Autumn 2006
-4. [↑](#cite_ref-4) courtesy of [Don Beal](Don_Beal "Don Beal") and [Carey Bloodworth](Carey_Bloodworth "Carey Bloodworth"), [Re: Antique chess programs](http://www.talkchess.com/forum/viewtopic.php?t=58603&start=13) by [Carey](Carey_Bloodworth "Carey Bloodworth"), [CCC](CCC "CCC"), December 16, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Quiescence by [Karen Schuman](index.php?title=Category:Karen_Schuman&action=edit&redlink=1 "Category:Karen Schuman (page does not exist)") from [Artist Karen Schuman’s Personal Mythology](http://www.yogachicago.com/jan06/art.shtml) Reviewed by [Anna Poplawska](http://www.chicagoartcriticsassociation.org/B/poplawska.html)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1991**). *Mathematische Methoden der Künstlichen Intelligenz: Zur Quiescence-Suche in Spielbäumen*. Review, [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2006**). *[Looking for Alternatives to Quiescence Search](http://www.aifactory.co.uk/newsletter/2006_03_quiescence_alts.htm)*. [AI Factory](AI_Factory "AI Factory"), Autumn 2006
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> courtesy of [Don Beal](Don_Beal "Don Beal") and [Carey Bloodworth](Carey_Bloodworth "Carey Bloodworth"), [Re: Antique chess programs](http://www.talkchess.com/forum/viewtopic.php?t=58603&start=13) by [Carey](Carey_Bloodworth "Carey Bloodworth"), [CCC](CCC "CCC"), December 16, 2015
 
 **[Up one level](Search "Search")**
 

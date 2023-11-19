@@ -7,7 +7,7 @@ title: TCEC Season 18Superfinal
 
 
 
- [](https://tcec-chess.com/) TCEC Logo [[1]](#cite_note-1) 
+ [](https://tcec-chess.com/) TCEC Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **TCEC Season 18**,  
 
 the Top Chess Engine Championship (TCEC) Season 18 from May 03 until July 02, 2020. 
@@ -36,7 +36,7 @@ the Top Chess Engine Championship (TCEC) Season 18 from May 03 until July 02, 20
 
 **[< Prev](TCEC_Season_17#Third "TCEC Season 17") [Next >](TCEC_Season_19#Fourth "TCEC Season 19")**  
 
-Qualification League, May 03 - May 07, 2020, timecontrol 30' + 5'' [[2]](#cite_note-2).
+Qualification League, May 03 - May 07, 2020, timecontrol 30' + 5'' <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
 
 
@@ -187,7 +187,7 @@ Qualification League, May 03 - May 07, 2020, timecontrol 30' + 5'' [[2]](#cite_n
 
 **[< Prev](TCEC_Season_17#Third "TCEC Season 17") [Next >](TCEC_Season_19#Third "TCEC Season 19")**  
 
-League 3, May 07 - May 11, 2020, timecontrol 30' + 5'' [[3]](#cite_note-3)
+League 3, May 07 - May 11, 2020, timecontrol 30' + 5'' <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 
 
@@ -338,7 +338,7 @@ League 3, May 07 - May 11, 2020, timecontrol 30' + 5'' [[3]](#cite_note-3)
 
 **[< Prev](TCEC_Season_17#Second "TCEC Season 17") [Next >](TCEC_Season_19#Second "TCEC Season 19")**  
 
-League 2, May 12 - May 16, 2020, timecontrol 30' + 5'' [[4]](#cite_note-4)
+League 2, May 12 - May 16, 2020, timecontrol 30' + 5'' <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 
 
@@ -489,7 +489,7 @@ League 2, May 12 - May 16, 2020, timecontrol 30' + 5'' [[4]](#cite_note-4)
 
 **[< Prev](TCEC_Season_17#First "TCEC Season 17") [Next >](TCEC_Season_19#First "TCEC Season 19")**  
 
-League 1, May 18 - May 24, 2020, timecontrol 45' + 5'' [[5]](#cite_note-5)
+League 1, May 18 - May 24, 2020, timecontrol 45' + 5'' <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 
 
@@ -640,7 +640,7 @@ League 1, May 18 - May 24, 2020, timecontrol 45' + 5'' [[5]](#cite_note-5)
 
 **[< Prev](TCEC_Season_17#Premier "TCEC Season 17") [Next >](TCEC_Season_19#Premier "TCEC Season 19")**  
 
-May 25 - June 14, 2020, timecontrol 90' + 10'' [[6]](#cite_note-6)
+May 25 - June 14, 2020, timecontrol 90' + 10'' <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 
 
@@ -752,7 +752,7 @@ May 25 - June 14, 2020, timecontrol 90' + 10'' [[6]](#cite_note-6)
 June 19 - July 02, 2020, timecontrol 90' + 10''
 
 
- [Stockfish 202006170741](Stockfish "Stockfish") - [LCZero v0.25.1-svjio-t60-3972-mlh](Leela_Chess_Zero "Leela Chess Zero") +23 =61 -16, **53½-46½** [[7]](#cite_note-7)
+ [Stockfish 202006170741](Stockfish "Stockfish") - [LCZero v0.25.1-svjio-t60-3972-mlh](Leela_Chess_Zero "Leela Chess Zero") +23 =61 -16, **53½-46½** <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 
 
@@ -1365,13 +1365,13 @@ June 19 - July 02, 2020, timecontrol 90' + 10''
 ## References
 
 
-1. [↑](#cite_ref-1) Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. [↑](#cite_ref-2) [S18 - Qualification League | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=ql&game=1)
-3. [↑](#cite_ref-3) [S18 - League 3 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=l3&game=1)
-4. [↑](#cite_ref-4) [S18 - League 2 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=l2&game=1)
-5. [↑](#cite_ref-5) [S18 - League 1 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=l1&game=1)
-6. [↑](#cite_ref-6) [S18 - Division P | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=p&game=1)
-7. [↑](#cite_ref-7) [LCZero v0.25.1-svjio-t60-3972-mlh vs. Stockfish 202006170741 - TCEC - Live Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=sf&game=1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [S18 - Qualification League | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=ql&game=1)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [S18 - League 3 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=l3&game=1)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [S18 - League 2 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=l2&game=1)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [S18 - League 1 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=l1&game=1)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [S18 - Division P | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=p&game=1)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [LCZero v0.25.1-svjio-t60-3972-mlh vs. Stockfish 202006170741 - TCEC - Live Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=18&div=sf&game=1)
 
 **[Up one level](TCEC "TCEC")**
 

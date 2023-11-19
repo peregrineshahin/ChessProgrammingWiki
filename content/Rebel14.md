@@ -5,7 +5,7 @@ title: Rebel14
 
 
 
- [](File:Rebel14.jpg) Rebel 14 [[1]](#cite_note-1) 
+ [](File:Rebel14.jpg) Rebel 14 <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Rebel**,  
 
 a chess program developed by [Ed Schröder](Ed_Schroder "Ed Schroder"). After Ed's retirement from competitive computer chess in 2003, his latest commercial version, Rebel 12, supports the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and is market by [Lokasoft](Lokasoft "Lokasoft"), including their [ChessPartner](ChessPartner "ChessPartner") [graphical user interface](GUI "GUI") running under [Windows](Windows "Windows"). In 2004, Ed Schröder released the free [ProDeo](ProDeo "ProDeo") based on Rebel. The free Rebel - The Next Generation in March 2014, turned out to be an early [April fool](https://en.wikipedia.org/wiki/April_Fools%27_Day), a [Stockfish](Stockfish "Stockfish") version was running in the background passing information to ProDeo. 
@@ -17,7 +17,7 @@ a chess program developed by [Ed Schröder](Ed_Schroder "Ed Schroder"). After Ed
 
 
  [](https://web.archive.org/web/20051223094505/http://www.lokasoft.nl/images/r12/rebel-wb.gif) 
-Rebel 12 [[6]](#cite_note-6)
+Rebel 12 <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 
 
@@ -28,8 +28,8 @@ Rebel 12 [[6]](#cite_note-6)
 
 
  [](http://members.home.nl/matador/chess820.htm) 
-[WCCC 1986](WCCC_1986 "WCCC 1986") showdown: [Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Nelson](Harry_Nelson "Harry Nelson") (shirt with drawing), [Berliner](Hans_Berliner "Hans Berliner"), [Ebeling](Carl_Ebeling "Carl Ebeling"), [Schröder](Ed_Schroder "Ed Schroder") [[7]](#cite_note-7)  
-Round 5, Rebel - [Bebe](Bebe "Bebe") [[8]](#cite_note-8)
+[WCCC 1986](WCCC_1986 "WCCC 1986") showdown: [Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Nelson](Harry_Nelson "Harry Nelson") (shirt with drawing), [Berliner](Hans_Berliner "Hans Berliner"), [Ebeling](Carl_Ebeling "Carl Ebeling"), [Schröder](Ed_Schroder "Ed Schroder") <a id="cite-note-7" href="#cite-ref-7">[7]</a>  
+Round 5, Rebel - [Bebe](Bebe "Bebe") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 
 
@@ -62,8 +62,8 @@ Kxd2 63.Rc8 Bd4 64.Rb8 Re6 65.Rb7 Kc2 66.b4 c4 67.b5 c3 68.Rd7 Kd3 69.b6 c2
 
 
  [](http://members.home.nl/matador/chess820.htm) 
-[WCCC 1992](WCCC_1992 "WCCC 1992"): [Richard Lang](Richard_Lang "Richard Lang"), [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), [Jan Louwman](Jan_Louwman "Jan Louwman"), [Ed Schröder](Ed_Schroder "Ed Schroder"), [Rob Kemper](index.php?title=Rob_Kemper&action=edit&redlink=1 "Rob Kemper (page does not exist)") [[9]](#cite_note-9)   
-Round 4, [Chess Genius](Chess_Genius "Chess Genius") - [ChessMachine](ChessMachine "ChessMachine") [WK](Gideon "Gideon") [[10]](#cite_note-10)
+[WCCC 1992](WCCC_1992 "WCCC 1992"): [Richard Lang](Richard_Lang "Richard Lang"), [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), [Jan Louwman](Jan_Louwman "Jan Louwman"), [Ed Schröder](Ed_Schroder "Ed Schroder"), [Rob Kemper](index.php?title=Rob_Kemper&action=edit&redlink=1 "Rob Kemper (page does not exist)") <a id="cite-note-9" href="#cite-ref-9">[9]</a>   
+Round 4, [Chess Genius](Chess_Genius "Chess Genius") - [ChessMachine](ChessMachine "ChessMachine") [WK](Gideon "Gideon") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 
 
@@ -101,7 +101,7 @@ Kg7 50.Rb8 Ra1+ 51.Kf2 Rc1 52.Nxf3 Rc2+ 53.Kg3 Bd5 54.Rb6 h6 55.h4 Re2 56.Ne5 h5
 
 
  [](File:Anand1.jpg) 
-Rebel vs [Viswanathan Anand](https://en.wikipedia.org/wiki/Viswanathan_Anand), [Ischia](https://en.wikipedia.org/wiki/Ischia), July 1998 [[11]](#cite_note-11)
+Rebel vs [Viswanathan Anand](https://en.wikipedia.org/wiki/Viswanathan_Anand), [Ischia](https://en.wikipedia.org/wiki/Ischia), July 1998 <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 
 
@@ -120,10 +120,10 @@ Rebel vs [Viswanathan Anand](https://en.wikipedia.org/wiki/Viswanathan_Anand), [
 ## History
 
 
-Rebel's development started in 1980 as a program written in [Basic](Basic "Basic") and running on a [TRS-80](TRS-80 "TRS-80") with a 1.77 MHz [Z80](Z80 "Z80") Processor, and was later rewritten in [6502](6502 "6502") [assembly](Assembly "Assembly") to run on [Apple II](Apple_II "Apple II") home-computers. Rebel's first tournament in 1982 was already a big success, becoming third at the [2nd Dutch Computer Championship](DOCCC_1982 "DOCCC 1982"), which was noticed by [Jan Louwman](Jan_Louwman "Jan Louwman"), the pioneer of Dutch computer chess with commercial relations to [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") and other manufacturers of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"). With Jan's support, Rebel was commercially brought to market as [Mephisto Rebell](Mephisto_Rebell "Mephisto Rebell") and about 20 subsequent dedicated models, sold in the period from 1985 until 1995 by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), [Saitek](Saitek "Saitek") and [TASC](TASC "TASC") [[12]](#cite_note-12) . At the dramatic [Cologne](https://en.wikipedia.org/wiki/Cologne) [WCCC 1986](WCCC_1986 "WCCC 1986") showdown, Rebel, running on an [Apple II](Apple_II "Apple II"), nearly became champion when it was almost winning from [Bebe](Bebe "Bebe"), but finally underestimated a dangerous [passer](Passed_Pawn "Passed Pawn") and lost. Rebel on 6502 further played the [ACM 1986](ACM_1986 "ACM 1986") (Rebel Recom), the [ACM 1989](ACM_1989 "ACM 1989") and [WCCC 1989](WCCC_1989 "WCCC 1989"), and won the [First Computer Olympiad 1989](1st_Computer_Olympiad#Chess "1st Computer Olympiad").
+Rebel's development started in 1980 as a program written in [Basic](Basic "Basic") and running on a [TRS-80](TRS-80 "TRS-80") with a 1.77 MHz [Z80](Z80 "Z80") Processor, and was later rewritten in [6502](6502 "6502") [assembly](Assembly "Assembly") to run on [Apple II](Apple_II "Apple II") home-computers. Rebel's first tournament in 1982 was already a big success, becoming third at the [2nd Dutch Computer Championship](DOCCC_1982 "DOCCC 1982"), which was noticed by [Jan Louwman](Jan_Louwman "Jan Louwman"), the pioneer of Dutch computer chess with commercial relations to [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser") and other manufacturers of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"). With Jan's support, Rebel was commercially brought to market as [Mephisto Rebell](Mephisto_Rebell "Mephisto Rebell") and about 20 subsequent dedicated models, sold in the period from 1985 until 1995 by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), [Saitek](Saitek "Saitek") and [TASC](TASC "TASC") <a id="cite-note-12" href="#cite-ref-12">[12]</a> . At the dramatic [Cologne](https://en.wikipedia.org/wiki/Cologne) [WCCC 1986](WCCC_1986 "WCCC 1986") showdown, Rebel, running on an [Apple II](Apple_II "Apple II"), nearly became champion when it was almost winning from [Bebe](Bebe "Bebe"), but finally underestimated a dangerous [passer](Passed_Pawn "Passed Pawn") and lost. Rebel on 6502 further played the [ACM 1986](ACM_1986 "ACM 1986") (Rebel Recom), the [ACM 1989](ACM_1989 "ACM 1989") and [WCCC 1989](WCCC_1989 "WCCC 1989"), and won the [First Computer Olympiad 1989](1st_Computer_Olympiad#Chess "1st Computer Olympiad").
 
 
-The [ARM2](ARM2 "ARM2") [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computing) version of Rebel, developed in the early 90s, running on a [TASC](TASC "TASC") [ISA card](https://en.wikipedia.org/wiki/ISA_bus) for an [IBM PC](IBM_PC "IBM PC"), and called [ChessMachine](ChessMachine "ChessMachine") [Gideon](Gideon "Gideon"), won the [WMCCC 1991](WMCCC_1991 "WMCCC 1991") in [Vancouver](https://en.wikipedia.org/wiki/Vancouver) and the [WCCC 1992](WCCC_1992 "WCCC 1992") in [Madrid](https://en.wikipedia.org/wiki/Madrid) [[13]](#cite_note-13) . Subsequent [x86](X86 "X86") PC-versions of Rebel run under [MS-DOS](MS-DOS "MS-DOS") with its own proprietary but sophisticated [graphical user interface](GUI "GUI") developed by [Rob Kemper](index.php?title=Rob_Kemper&action=edit&redlink=1 "Rob Kemper (page does not exist)"), while [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen") was responsible for the [opening book](Opening_Book "Opening Book") [[14]](#cite_note-14) .
+The [ARM2](ARM2 "ARM2") [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computing) version of Rebel, developed in the early 90s, running on a [TASC](TASC "TASC") [ISA card](https://en.wikipedia.org/wiki/ISA_bus) for an [IBM PC](IBM_PC "IBM PC"), and called [ChessMachine](ChessMachine "ChessMachine") [Gideon](Gideon "Gideon"), won the [WMCCC 1991](WMCCC_1991 "WMCCC 1991") in [Vancouver](https://en.wikipedia.org/wiki/Vancouver) and the [WCCC 1992](WCCC_1992 "WCCC 1992") in [Madrid](https://en.wikipedia.org/wiki/Madrid) <a id="cite-note-13" href="#cite-ref-13">[13]</a> . Subsequent [x86](X86 "X86") PC-versions of Rebel run under [MS-DOS](MS-DOS "MS-DOS") with its own proprietary but sophisticated [graphical user interface](GUI "GUI") developed by [Rob Kemper](index.php?title=Rob_Kemper&action=edit&redlink=1 "Rob Kemper (page does not exist)"), while [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen") was responsible for the [opening book](Opening_Book "Opening Book") <a id="cite-note-14" href="#cite-ref-14">[14]</a> .
 
 
 
@@ -131,7 +131,7 @@ The [ARM2](ARM2 "ARM2") [RISC](https://en.wikipedia.org/wiki/Reduced_instruction
 ## How Rebel plays Chess
 
 
-When [Ed Schröder](Ed_Schroder "Ed Schroder") retired from competition in 2003, he made almost all his knowledge about the internals of Rebel public in his *Programmer Corner* summarized in *How Rebel Plays Chess* [[15]](#cite_note-15), elaborating on:
+When [Ed Schröder](Ed_Schroder "Ed Schroder") retired from competition in 2003, he made almost all his knowledge about the internals of Rebel public in his *Programmer Corner* summarized in *How Rebel Plays Chess* <a id="cite-note-15" href="#cite-ref-15">[15]</a>, elaborating on:
 
 
 
@@ -156,7 +156,7 @@ When [Ed Schröder](Ed_Schroder "Ed Schroder") retired from competition in 2003,
 ### 1989
 
 
-from the [WCCC 1989](WCCC_1989 "WCCC 1989") booklet [[16]](#cite_note-16) :
+from the [WCCC 1989](WCCC_1989 "WCCC 1989") booklet <a id="cite-note-16" href="#cite-ref-16">[16]</a> :
 
 
 
@@ -169,7 +169,7 @@ The Mephisto Rebel has to be defined in between a [Shannon A](Type_A_Strategy "T
 ### 1999
 
 
-given from the [ICGA](ICGA "ICGA")-site [[17]](#cite_note-17) :
+given from the [ICGA](ICGA "ICGA")-site <a id="cite-note-17" href="#cite-ref-17">[17]</a> :
 
 
 
@@ -360,23 +360,23 @@ What is Rebel?
 ## References
 
 
-1. [↑](#cite_ref-1) [Rebel 14 | Home of the Dutch Rebel](https://rebel13.nl/windows/rebel-14.html), [Rebel Cartoon](Cartoons#Cartoons "Cartoons") by [José Diaz](http://www.diazcartoons.nl/)
-2. [↑](#cite_ref-2) [Benjamin | Home of the Dutch Rebel](https://rebel13.nl/home/benjamin.html)
-3. [↑](#cite_ref-3) [Rebel 14 | Home of the Dutch Rebel](https://rebel13.nl/windows/rebel-14.html)
-4. [↑](#cite_ref-4) [Rebel 14](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=79107) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), January 12, 2022
-5. [↑](#cite_ref-5) [GitHub - ChrisWhittington/Rebel-14.1.02-Chess-System-TAL: UCI Chess Engine with NNUE](https://github.com/ChrisWhittington/Rebel-14.1.02-Chess-System-TAL)
-6. [↑](#cite_ref-6) [Rebel 12 - More Screenshots 1](https://web.archive.org/web/20060113051953/http://www.lokasoft.nl/rebel12.htm) from [Lokasoft](Lokasoft "Lokasoft") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-7. [↑](#cite_ref-7) Photo [WCCC 1986](WCCC_1986 "WCCC 1986") from [Ed Schröder's](Ed_Schroder "Ed Schroder") [Historic Picture Site](http://members.home.nl/matador/chess820.htm)
-8. [↑](#cite_ref-8) [Cologne 1986, Chess, Round 5, Game 2](https://www.game-ai-forum.org/icga-tournaments/program.php?id=61round.php?tournament=62&round=5&id=2)
-9. [↑](#cite_ref-9) Photo [WCCC 1992](WCCC_1992 "WCCC 1992") from [Ed Schröder's](Ed_Schroder "Ed Schroder") [Historic Picture Site](http://members.home.nl/matador/chess820.htm)
-10. [↑](#cite_ref-10) [Madrid 1992, Chess, Round 4, Game 11](https://www.game-ai-forum.org/icga-tournaments/program.php?id=61round.php?tournament=58&round=4&id=11)
-11. [↑](#cite_ref-11) [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [Ed Schröder](Ed_Schroder "Ed Schroder") (**1998**). *Anand versus Rebel 10 exp.* [ICCA Journal, Vol. 21, No. 3](ICGA_Journal#21_3 "ICGA Journal")
-12. [↑](#cite_ref-12) [REBEL's Early Days (1980-1990)](http://members.home.nl/matador/chess_1.htm)
-13. [↑](#cite_ref-13) [World Champion (1991-1995)](http://members.home.nl/matador/chess_2.htm)
-14. [↑](#cite_ref-14) [REBEL on the PC (1993-2001)](http://members.home.nl/matador/chess_3.htm)
-15. [↑](#cite_ref-15) [Ed Schröder](Ed_Schroder "Ed Schroder") (**2004**). *How Rebel Plays Chess*. [pdf](http://members.home.nl/matador/Inside%20Rebel.pdf)
-16. [↑](#cite_ref-16) [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf)
-17. [↑](#cite_ref-17) [Rebel's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=61program.php?id=61)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Rebel 14 | Home of the Dutch Rebel](https://rebel13.nl/windows/rebel-14.html), [Rebel Cartoon](Cartoons#Cartoons "Cartoons") by [José Diaz](http://www.diazcartoons.nl/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Benjamin | Home of the Dutch Rebel](https://rebel13.nl/home/benjamin.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Rebel 14 | Home of the Dutch Rebel](https://rebel13.nl/windows/rebel-14.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Rebel 14](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=79107) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), January 12, 2022
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - ChrisWhittington/Rebel-14.1.02-Chess-System-TAL: UCI Chess Engine with NNUE](https://github.com/ChrisWhittington/Rebel-14.1.02-Chess-System-TAL)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Rebel 12 - More Screenshots 1](https://web.archive.org/web/20060113051953/http://www.lokasoft.nl/rebel12.htm) from [Lokasoft](Lokasoft "Lokasoft") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Photo [WCCC 1986](WCCC_1986 "WCCC 1986") from [Ed Schröder's](Ed_Schroder "Ed Schroder") [Historic Picture Site](http://members.home.nl/matador/chess820.htm)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Cologne 1986, Chess, Round 5, Game 2](https://www.game-ai-forum.org/icga-tournaments/program.php?id=61round.php?tournament=62&round=5&id=2)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> Photo [WCCC 1992](WCCC_1992 "WCCC 1992") from [Ed Schröder's](Ed_Schroder "Ed Schroder") [Historic Picture Site](http://members.home.nl/matador/chess820.htm)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Madrid 1992, Chess, Round 4, Game 11](https://www.game-ai-forum.org/icga-tournaments/program.php?id=61round.php?tournament=58&round=4&id=11)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [Ed Schröder](Ed_Schroder "Ed Schroder") (**1998**). *Anand versus Rebel 10 exp.* [ICCA Journal, Vol. 21, No. 3](ICGA_Journal#21_3 "ICGA Journal")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [REBEL's Early Days (1980-1990)](http://members.home.nl/matador/chess_1.htm)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [World Champion (1991-1995)](http://members.home.nl/matador/chess_2.htm)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [REBEL on the PC (1993-2001)](http://members.home.nl/matador/chess_3.htm)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Ed Schröder](Ed_Schroder "Ed Schroder") (**2004**). *How Rebel Plays Chess*. [pdf](http://members.home.nl/matador/Inside%20Rebel.pdf)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Rebel's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=61program.php?id=61)
 
 **[Up one level](Engines "Engines")**
 

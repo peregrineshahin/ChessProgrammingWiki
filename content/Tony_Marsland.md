@@ -5,10 +5,10 @@ title: Tony Marsland
 
 
 
- [](WMCCC_1985#Video "WMCCC 1985#Video") Tony Marsland at the [WMCCC 1985](WMCCC_1985 "WMCCC 1985") [[1]](#cite_note-1) 
+ [](WMCCC_1985#Video "WMCCC 1985#Video") Tony Marsland at the [WMCCC 1985](WMCCC_1985 "WMCCC 1985") <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Thomas Anthony (Tony) Marsland**,  
 
-a Canadian computer scientist and game researcher. He is co-creator and eponym of the [Principal Variation Search](Principal_Variation_Search "Principal Variation Search"). Until about 1986 he worked extensively on the selective search computer chess programs Marsland CP (aka Wita) and [Awit/Wita](Awit "Awit") [[2]](#cite_note-2) [[3]](#cite_note-3), written in [AlgolW](Algol "Algol"), and participated with it in many [North American](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") and [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship") [[4]](#cite_note-4) . Along with [Fred Popowich](Fred_Popowich "Fred Popowich"), Tony is further co-author of the experimental parallel chess program [Parabelle](Parabelle "Parabelle"), and with [Chun Ye](Chun_Ye "Chun Ye") co-author of the [Chinese Chess](Chinese_Chess "Chinese Chess") program and shared gold medal winner at the [3rd Computer Olympiad](3rd_Computer_Olympiad#ChineseChess "3rd Computer Olympiad"), [Abyss](Abyss "Abyss"). From 1992 until 1999, Tony Marsland served as President of the [ICCA](ICCA "ICCA"). He is now [Professor Emeritus](https://en.wikipedia.org/wiki/Professor_Emeritus) at the [University of Alberta](University_of_Alberta "University of Alberta"), [Edmonton](https://en.wikipedia.org/wiki/Edmonton), Alberta, Canada. 
+a Canadian computer scientist and game researcher. He is co-creator and eponym of the [Principal Variation Search](Principal_Variation_Search "Principal Variation Search"). Until about 1986 he worked extensively on the selective search computer chess programs Marsland CP (aka Wita) and [Awit/Wita](Awit "Awit") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, written in [AlgolW](Algol "Algol"), and participated with it in many [North American](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") and [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship") <a id="cite-note-4" href="#cite-ref-4">[4]</a> . Along with [Fred Popowich](Fred_Popowich "Fred Popowich"), Tony is further co-author of the experimental parallel chess program [Parabelle](Parabelle "Parabelle"), and with [Chun Ye](Chun_Ye "Chun Ye") co-author of the [Chinese Chess](Chinese_Chess "Chinese Chess") program and shared gold medal winner at the [3rd Computer Olympiad](3rd_Computer_Olympiad#ChineseChess "3rd Computer Olympiad"), [Abyss](Abyss "Abyss"). From 1992 until 1999, Tony Marsland served as President of the [ICCA](ICCA "ICCA"). He is now [Professor Emeritus](https://en.wikipedia.org/wiki/Professor_Emeritus) at the [University of Alberta](University_of_Alberta "University of Alberta"), [Edmonton](https://en.wikipedia.org/wiki/Edmonton), Alberta, Canada. 
 
 
   
@@ -19,7 +19,7 @@ a Canadian computer scientist and game researcher. He is co-creator and eponym o
 ## About Tony Marsland
 
 
-Quote from Tony Marsland's biography [[7]](#cite_note-7) :
+Quote from Tony Marsland's biography <a id="cite-note-7" href="#cite-ref-7">[7]</a> :
 
 
 
@@ -50,7 +50,7 @@ After many years as a Professional Engineer (member of APEGGA) he has a continui
 ## Selected Publications
 
 
-[[8]](#cite_note-8) [[9]](#cite_note-9) [[10]](#cite_note-10) [[11]](#cite_note-11)
+<a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 
 
@@ -145,7 +145,7 @@ After many years as a Professional Engineer (member of APEGGA) he has a continui
 * [Robert Levinson](Robert_Levinson "Robert Levinson"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), Tony Marsland, [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [David Wilkins](David_Wilkins "David Wilkins") (**1991**). *The Role of Chess in Artificial Intelligence Research*. [IJCAI 1991](Conferences#IJCAI1991 "Conferences"), [pdf](http://dli.iiit.ac.in/ijcai/IJCAI-91-VOL1/PDF/084.pdf), also in [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal"), [pdf](http://www.ai.sri.com/%7Ewilkins/papers/chess-panel.pdf)
 * [Chun Ye](Chun_Ye "Chun Ye"), Tony Marsland (**1992**). *Experiments in Forward Pruning with Limited Extensions.* [ICCA Journal, Vol. 15, No. 2](ICGA_Journal#15_2 "ICGA Journal")
 * Tony Marsland (**1992**). *Chess and AI: Workshop Report.* [ICCA Journal, Vol. 15, No. 4](ICGA_Journal#15_4 "ICGA Journal")
-* Tony Marsland (**1992**). *Computer Chess and Search*. Encyclopedia of Artificial Intelligence (2nd ed.) John Wiley & Sons, Inc. [pdf preprint](http://webdocs.cs.ualberta.ca/~tony/RecentPapers/Marsland-CCandSearch-1991.pdf) [[12]](#cite_note-12) [[13]](#cite_note-13)
+* Tony Marsland (**1992**). *Computer Chess and Search*. Encyclopedia of Artificial Intelligence (2nd ed.) John Wiley & Sons, Inc. [pdf preprint](http://webdocs.cs.ualberta.ca/~tony/RecentPapers/Marsland-CCandSearch-1991.pdf) <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 * [Chun Ye](Chun_Ye "Chun Ye"), Tony Marsland (**1992**). *Selective Extensions in Game-Tree Search.* [Heuristic Programming in AI 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad"), [pdf](https://webdocs.cs.ualberta.ca/~tony/RecentPapers/SelectiveExten-YeMars.pdf)
 * Tony Marsland (**1992**). *Game-Tree and Single-Agent Search*. [Encyclopedia of Computer Science and Technology, Vol 27, No. 12](http://www.amazon.com/Encyclopedia-Computer-Science-Technology-Intelligence/dp/0824722809)
 * [Zhonghua Yang](index.php?title=Zhonghua_Yang&action=edit&redlink=1 "Zhonghua Yang (page does not exist)"), Tony Marsland (**1992**). *Global Snapshots for Distributed Debugging*. [ICCI 1992](http://www.informatik.uni-trier.de/~ley/db/conf/icci/icci1992.html#YangM92)
@@ -218,19 +218,19 @@ After many years as a Professional Engineer (member of APEGGA) he has a continui
 ## References
 
 
-1. [↑](#cite_ref-1) Image captured from the [WMCCC 1985 Video](WMCCC_1985#Video "WMCCC 1985") @ 0:15
-2. [↑](#cite_ref-2) [Awit-Wita Computer Chess Archive](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/)
-3. [↑](#cite_ref-3) [Box and File Descriptions for the Records of Dr. Marsland](https://webdocs.cs.ualberta.ca/~tony/T.A.Marsland.2004-58.pdf) (pdf)
-4. [↑](#cite_ref-4) [Tony Marsland's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=31)
-5. [↑](#cite_ref-5) [Chess pioneers in Sacher Hotel Vienna, Austria](http://www.computerhistory.org/collections/accession/102665753), Gift of [Benjamin Mittman](Ben_Mittman "Ben Mittman"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-6. [↑](#cite_ref-6) Photo by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [10e WK Computerschaak](http://old.csvn.nl/wk2002.html) old [CSVN](CSVN "CSVN") Site
-7. [↑](#cite_ref-7) [About Tony Marsland](https://webdocs.cs.ualberta.ca/~tony/biotony.html)
-8. [↑](#cite_ref-8) [Research Papers](https://webdocs.cs.ualberta.ca/~tony/RecentPapers/research.html)
-9. [↑](#cite_ref-9) [T.A(Tony) Marsland - Selected out-of-print research papers](http://webdocs.cs.ualberta.ca/~tony/OldPapers/research.html)
-10. [↑](#cite_ref-10) [DBLP: T. Anthony Marsland](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Marsland:T=_Anthony.html)
-11. [↑](#cite_ref-11) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-12. [↑](#cite_ref-12) [Excellent Computer-Chess Overview Paper Found!](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/7df61a100528f201) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 6, 1997
-13. [↑](#cite_ref-13) [Great article for people who wants to write a chess engine](https://www.stmintz.com/ccc/index.php?id=221364) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), April 03, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image captured from the [WMCCC 1985 Video](WMCCC_1985#Video "WMCCC 1985") @ 0:15
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Awit-Wita Computer Chess Archive](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Box and File Descriptions for the Records of Dr. Marsland](https://webdocs.cs.ualberta.ca/~tony/T.A.Marsland.2004-58.pdf) (pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tony Marsland's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=31)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess pioneers in Sacher Hotel Vienna, Austria](http://www.computerhistory.org/collections/accession/102665753), Gift of [Benjamin Mittman](Ben_Mittman "Ben Mittman"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photo by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [10e WK Computerschaak](http://old.csvn.nl/wk2002.html) old [CSVN](CSVN "CSVN") Site
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [About Tony Marsland](https://webdocs.cs.ualberta.ca/~tony/biotony.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Research Papers](https://webdocs.cs.ualberta.ca/~tony/RecentPapers/research.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [T.A(Tony) Marsland - Selected out-of-print research papers](http://webdocs.cs.ualberta.ca/~tony/OldPapers/research.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [DBLP: T. Anthony Marsland](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Marsland:T=_Anthony.html)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Excellent Computer-Chess Overview Paper Found!](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/7df61a100528f201) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 6, 1997
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Great article for people who wants to write a chess engine](https://www.stmintz.com/ccc/index.php?id=221364) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), April 03, 2002
 
 **[Up one level](People "People")**
 

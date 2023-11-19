@@ -5,20 +5,20 @@ title: Pseudorandom Number Generator
 
 
 
-[ Dice players [[1]](#cite_note-1)
+[ Dice players <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Pseudorandom Number Generator** (PRNG),  
 
-an algorithmic [gambling](https://en.wikipedia.org/wiki/Gambling) device for generating [pseudorandom](https://en.wikipedia.org/wiki/Pseudorandomness) [numbers](https://en.wikipedia.org/wiki/Pseudorandom_number_generator), a [deterministic](https://en.wikipedia.org/wiki/Deterministic_system) sequence of numbers which appear to be [random](https://en.wikipedia.org/wiki/Randomness) with the property of reproducibility. They are useful in [simulation](https://en.wikipedia.org/wiki/Simulation), [sampling](https://en.wikipedia.org/wiki/Sampling), [computer programming](https://en.wikipedia.org/wiki/Computer_programming), [decision making](https://en.wikipedia.org/wiki/Decision-making), [cryptography](https://en.wikipedia.org/wiki/Cryptography), [aesthetics](https://en.wikipedia.org/wiki/Aesthetics) and [recreation](https://en.wikipedia.org/wiki/Recreation) [[2]](#cite_note-2) - in computer chess, beside randomization of game playing, primarily used to generate keys for [Zobrist hashing](Zobrist_Hashing "Zobrist Hashing"). 
+an algorithmic [gambling](https://en.wikipedia.org/wiki/Gambling) device for generating [pseudorandom](https://en.wikipedia.org/wiki/Pseudorandomness) [numbers](https://en.wikipedia.org/wiki/Pseudorandom_number_generator), a [deterministic](https://en.wikipedia.org/wiki/Deterministic_system) sequence of numbers which appear to be [random](https://en.wikipedia.org/wiki/Randomness) with the property of reproducibility. They are useful in [simulation](https://en.wikipedia.org/wiki/Simulation), [sampling](https://en.wikipedia.org/wiki/Sampling), [computer programming](https://en.wikipedia.org/wiki/Computer_programming), [decision making](https://en.wikipedia.org/wiki/Decision-making), [cryptography](https://en.wikipedia.org/wiki/Cryptography), [aesthetics](https://en.wikipedia.org/wiki/Aesthetics) and [recreation](https://en.wikipedia.org/wiki/Recreation) <a id="cite-note-2" href="#cite-ref-2">[2]</a> - in computer chess, beside randomization of game playing, primarily used to generate keys for [Zobrist hashing](Zobrist_Hashing "Zobrist Hashing"). 
 
 
-Games of chance, such as [Backgammon](Backgammon "Backgammon") and [EinStein würfelt nicht!](EinStein_w%C3%BCrfelt_nicht! "EinStein würfelt nicht!") require PRNGs for rolling a [dice](https://en.wikipedia.org/wiki/Dice). Chess and game playing programs use PRNGs to randomly choose one of several possible moves of a position from an [opening book](Opening_Book "Opening Book"), or use random fluctuations in [learning](Learning "Learning") and [automated tuning](Automated_Tuning "Automated Tuning") tasks. Game playing programs performing a [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"), use random playouts in their simulation phase. [Don Beal](Don_Beal "Don Beal") and [Martin C. Smith](Martin_C._Smith "Martin C. Smith") demonstrated that deeper [search with random leaf values](Search_with_Random_Leaf_Values "Search with Random Leaf Values") in chess yields to better play, with some interesting insights in [minimax search](Minimax "Minimax") and implications for designing and testing [evaluation](Evaluation "Evaluation") terms [[3]](#cite_note-3). 
+Games of chance, such as [Backgammon](Backgammon "Backgammon") and [EinStein würfelt nicht!](EinStein_w%C3%BCrfelt_nicht! "EinStein würfelt nicht!") require PRNGs for rolling a [dice](https://en.wikipedia.org/wiki/Dice). Chess and game playing programs use PRNGs to randomly choose one of several possible moves of a position from an [opening book](Opening_Book "Opening Book"), or use random fluctuations in [learning](Learning "Learning") and [automated tuning](Automated_Tuning "Automated Tuning") tasks. Game playing programs performing a [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"), use random playouts in their simulation phase. [Don Beal](Don_Beal "Don Beal") and [Martin C. Smith](Martin_C._Smith "Martin C. Smith") demonstrated that deeper [search with random leaf values](Search_with_Random_Leaf_Values "Search with Random Leaf Values") in chess yields to better play, with some interesting insights in [minimax search](Minimax "Minimax") and implications for designing and testing [evaluation](Evaluation "Evaluation") terms <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
 
 
 
 ### LCG
 
 
-A common method used in many library functions, such as [C](C "C")/[C++](Cpp "Cpp") rand() is the [linear congruential generator](https://en.wikipedia.org/wiki/Linear_congruential_generator) (LCG) based on multiply, add, [modulo](https://en.wikipedia.org/wiki/Modulo_operation) with integers, where some past implementations had serious shortcomings in the randomness, distribution and period of the sequence [[4]](#cite_note-4). Due to such issues in rand() implementations, where lower bits are less random than higher bits, it is recommended not to use [modulo](https://en.wikipedia.org/wiki/Modulo_operation) X to reduce the integer range from RAND\_MAX to X, but division by (RAND\_MAX div X) [[5]](#cite_note-5) - or to use C++11's random number generation facilities to replace rand [[6]](#cite_note-6).
+A common method used in many library functions, such as [C](C "C")/[C++](Cpp "Cpp") rand() is the [linear congruential generator](https://en.wikipedia.org/wiki/Linear_congruential_generator) (LCG) based on multiply, add, [modulo](https://en.wikipedia.org/wiki/Modulo_operation) with integers, where some past implementations had serious shortcomings in the randomness, distribution and period of the sequence <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Due to such issues in rand() implementations, where lower bits are less random than higher bits, it is recommended not to use [modulo](https://en.wikipedia.org/wiki/Modulo_operation) X to reduce the integer range from RAND\_MAX to X, but division by (RAND\_MAX div X) <a id="cite-note-5" href="#cite-ref-5">[5]</a> - or to use C++11's random number generation facilities to replace rand <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
 
 
@@ -32,7 +32,7 @@ A common method used in many library functions, such as [C](C "C")/[C++](Cpp "Cp
 ### RANROT B3
 
 
-[Amy](Amy "Amy") by [Thorsten Greiner](Thorsten_Greiner "Thorsten Greiner") [[7]](#cite_note-7) uses an implementation of Agner Fog's RANROT B3 [[8]](#cite_note-8), also recommended by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") as used in [Shredder](Shredder "Shredder") [[9]](#cite_note-9). 
+[Amy](Amy "Amy") by [Thorsten Greiner](Thorsten_Greiner "Thorsten Greiner") <a id="cite-note-7" href="#cite-ref-7">[7]</a> uses an implementation of Agner Fog's RANROT B3 <a id="cite-note-8" href="#cite-ref-8">[8]</a>, also recommended by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") as used in [Shredder](Shredder "Shredder") <a id="cite-note-9" href="#cite-ref-9">[9]</a>. 
 
 
 
@@ -40,14 +40,14 @@ MT
 --
 
 
-[Arasan](Arasan "Arasan") 20.x switched to C++11 random number support using [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_twister) std::mt19937\_64 [[10]](#cite_note-10) [[11]](#cite_note-11).
+[Arasan](Arasan "Arasan") 20.x switched to C++11 random number support using [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_twister) std::mt19937\_64 <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>.
 
 
 
 ### ChaCha
 
 
-The [Rust](Rust "Rust") engine [Asymptote](Asymptote "Asymptote") uses the [ChaCha](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant) [stream cipher](https://en.wikipedia.org/wiki/Stream_cipher) developed by [Daniel J. Bernstein](Mathematician#DJBernstein "Mathematician"), built on a [pseudorandom function](https://en.wikipedia.org/wiki/Pseudorandom_function_family) based on [add-rotate-xor (ARX)](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant) operations [[12]](#cite_note-12).
+The [Rust](Rust "Rust") engine [Asymptote](Asymptote "Asymptote") uses the [ChaCha](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant) [stream cipher](https://en.wikipedia.org/wiki/Stream_cipher) developed by [Daniel J. Bernstein](Mathematician#DJBernstein "Mathematician"), built on a [pseudorandom function](https://en.wikipedia.org/wiki/Pseudorandom_function_family) based on [add-rotate-xor (ARX)](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant) operations <a id="cite-note-12" href="#cite-ref-12">[12]</a>.
 
 
 
@@ -133,7 +133,7 @@ The [Rust](Rust "Rust") engine [Asymptote](Asymptote "Asymptote") uses the [ChaC
 * [Julio César Hernández-Castro](Julio_C%C3%A9sar_Hern%C3%A1ndez-Castro "Julio César Hernández-Castro"), [André Seznec](https://en.wikipedia.org/wiki/Andr%C3%A9_Seznec), [Pedro Isasi](https://scholar.google.com/citations?user=BHf4l7wAAAAJ&hl=en) (**2004**). *On the design of state-of-the-art pseudorandom number generators by means of genetic programming*. [CEC 2004](https://dblp.org/db/conf/cec/cec2004.html#HernandezSI04), [pdf](https://core.ac.uk/download/pdf/29399623.pdf)
 * [Donald Eastlake](Donald_Eastlake "Donald Eastlake"), [Stephen D. Crocker](Stephen_D._Crocker "Stephen D. Crocker"), [Jeffrey I. Schiller](https://jis.qyv.name/) (**2005**). *Randomness Requirements for Security*. [RFC 4086](https://tools.ietf.org/html/rfc4086)
 * [William H. Press](Mathematician#WHPress "Mathematician"), [Saul A. Teukolsky](Mathematician#SATeukolsky "Mathematician"), [William T. Vetterling](https://de.wikipedia.org/wiki/William_T._Vetterling), [Brian P. Flannery](https://en.wikipedia.org/wiki/Brian_P._Flannery) (**2007**). *[Numerical Recipes. The Art of Scientific Computing](https://en.wikipedia.org/wiki/Numerical_Recipes), 3rd edition*. (C++ code)
-* [Daniel J. Bernstein](Mathematician#DJBernstein "Mathematician") (**2007**). *The Salsa20 family of stream ciphers*. [University of Illinois at Chicago](https://en.wikipedia.org/wiki/University_of_Illinois_at_Chicago), [pdf](https://cr.yp.to/snuffle/salsafamily-20071225.pdf) [[13]](#cite_note-13)
+* [Daniel J. Bernstein](Mathematician#DJBernstein "Mathematician") (**2007**). *The Salsa20 family of stream ciphers*. [University of Illinois at Chicago](https://en.wikipedia.org/wiki/University_of_Illinois_at_Chicago), [pdf](https://cr.yp.to/snuffle/salsafamily-20071225.pdf) <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 * [Daniel J. Bernstein](Mathematician#DJBernstein "Mathematician") (**2008**). *ChaCha, a variant of Salsa20*. [University of Illinois at Chicago](https://en.wikipedia.org/wiki/University_of_Illinois_at_Chicago), [pdf](http://cr.yp.to/chacha/chacha-20080128.pdf)
 
 
@@ -215,7 +215,7 @@ The [Rust](Rust "Rust") engine [Asymptote](Asymptote "Asymptote") uses the [ChaC
 * [RKISS](http://www.talkchess.com/forum/viewtopic.php?t=37406) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), January 01, 2011
 * [RKISS copyright?](http://www.talkchess.com/forum/viewtopic.php?t=38313) by Giorgio Medeot, [CCC](CCC "CCC"), March 07, 2011
 * [Stockfish random generator (rkiss.h)](http://www.talkchess.com/forum/viewtopic.php?t=38760) by [Martin Sedlak](Martin_Sedlak "Martin Sedlak"), [CCC](CCC "CCC"), April 15, 2011 » [Stockfish](Stockfish "Stockfish"), [Bob Jenkins](Bob_Jenkins "Bob Jenkins")
-* [MT or KISS ?](http://www.talkchess.com/forum/viewtopic.php?t=43910) by [Dan Honeycutt](Dan_Honeycutt "Dan Honeycutt"), [CCC](CCC "CCC"), June 02, 2012 [[14]](#cite_note-14)
+* [MT or KISS ?](http://www.talkchess.com/forum/viewtopic.php?t=43910) by [Dan Honeycutt](Dan_Honeycutt "Dan Honeycutt"), [CCC](CCC "CCC"), June 02, 2012 <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 * [rkiss and other dependencies in syzygy](http://www.talkchess.com/forum/viewtopic.php?t=49807) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), October 23, 2013
 
 
@@ -393,20 +393,20 @@ The [Rust](Rust "Rust") engine [Asymptote](Asymptote "Asymptote") uses the [ChaC
 ## References
 
 
-1. [↑](#cite_ref-1) [Dice players](https://commons.wikimedia.org/wiki/File:Pompeii_-_Osteria_della_Via_di_Mercurio_-_Dice_Players.jpg) - [Roman](https://en.wikipedia.org/wiki/Ancient_Rome) [fresco](https://en.wikipedia.org/wiki/Fresco) from the [Osteria della Via di Mercurio](http://www.pompeiiinpictures.com/pompeiiinpictures/r6/6%2010%2001.htm) ([VI 10,1.19, room b](http://www.pompeiiinpictures.com/pompeiiinpictures/r6/6%2010%2001%20p2.htm)) in [Pompeii](https://en.wikipedia.org/wiki/Pompeii), Source: [Filippo Coarelli](https://en.wikipedia.org/wiki/Filippo_Coarelli) (ed.) (**2002**). *[Pompeji](https://www.zvab.com/buch-suchen/titel/pompeji/autor/coarelli/)*. [Hirmer Verlag](https://en.wikipedia.org/wiki/Hirmer_Verlag), [Munich](https://en.wikipedia.org/wiki/Munich), ISBN: 3-7774-9530-1, p. 146, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [History of randomness from Wikipedia](https://en.wikipedia.org/wiki/History_of_randomness)
-2. [↑](#cite_ref-2) [Donald Knuth](Donald_Knuth "Donald Knuth") (**1997**). *[The Art of Computer Programming (TAOCP)](http://www-cs-faculty.stanford.edu/~knuth/taocp.html) - [Volume 2 - Seminumerical Algorithms](http://www.informit.com/store/art-of-computer-programming-volume-2-seminumerical-9780201896848)*. [Chapter 3 – Random numbers](http://www.informit.com/articles/article.aspx?p=2221790)
-3. [↑](#cite_ref-3) [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1994**). *Random Evaluations in Chess*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
-4. [↑](#cite_ref-4) "In the past, some implementations of rand() have had serious shortcomings in the randomness, distribution and period of the sequence produced (in one well-known example, the low-order bit simply alternated between 1 and 0 between calls) rand() is not recommended for serious random-number generation needs, like cryptography. It is recommended to use C++11's random number generation facilities to replace rand()." [rand - cppreference.com](http://en.cppreference.com/w/cpp/numeric/random/rand)
-5. [↑](#cite_ref-5) [Re: random book moves/ random generator](https://www.stmintz.com/ccc/index.php?id=88293) by [Thorsten Greiner](Thorsten_Greiner "Thorsten Greiner"), [CCC](CCC "CCC"), January 13, 2000
-6. [↑](#cite_ref-6) [Pseudo-random number generation - cppreference.com](http://en.cppreference.com/w/cpp/numeric/random)
-7. [↑](#cite_ref-7) amy-0.8.7.tar.gz /src/random.c
-8. [↑](#cite_ref-8) [Agner Fog](http://www.agner.org/) (**2001**). *Chaotic Random Number Generators with Random Cycle Lengths*. [pdf](http://www.agner.org/random/theory/chaosran.pdf)
-9. [↑](#cite_ref-9) [Re: random book moves/ random generator](https://www.stmintz.com/ccc/index.php?id=88309) by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), [CCC](CCC "CCC"), January 13, 2000
-10. [↑](#cite_ref-10) [arasan-chess/movegen.h at master · jdart1/arasan-chess · GitHub](https://github.com/jdart1/arasan-chess/blob/master/src/movegen.h)
-11. [↑](#cite_ref-11) [mt19937\_64 - C++ Reference](http://www.cplusplus.com/reference/random/mt19937_64/)
-12. [↑](#cite_ref-12) [rand::chacha::ChaChaRng - Rust](https://doc.rust-lang.org/1.0.0/rand/chacha/struct.ChaChaRng.html)
-13. [↑](#cite_ref-13) [Salsa20 from Wikipedia](https://en.wikipedia.org/wiki/Salsa20)
-14. [↑](#cite_ref-14) [Mersenne twister from Wikipedia](https://en.wikipedia.org/wiki/Mersenne_twister)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Dice players](https://commons.wikimedia.org/wiki/File:Pompeii_-_Osteria_della_Via_di_Mercurio_-_Dice_Players.jpg) - [Roman](https://en.wikipedia.org/wiki/Ancient_Rome) [fresco](https://en.wikipedia.org/wiki/Fresco) from the [Osteria della Via di Mercurio](http://www.pompeiiinpictures.com/pompeiiinpictures/r6/6%2010%2001.htm) ([VI 10,1.19, room b](http://www.pompeiiinpictures.com/pompeiiinpictures/r6/6%2010%2001%20p2.htm)) in [Pompeii](https://en.wikipedia.org/wiki/Pompeii), Source: [Filippo Coarelli](https://en.wikipedia.org/wiki/Filippo_Coarelli) (ed.) (**2002**). *[Pompeji](https://www.zvab.com/buch-suchen/titel/pompeji/autor/coarelli/)*. [Hirmer Verlag](https://en.wikipedia.org/wiki/Hirmer_Verlag), [Munich](https://en.wikipedia.org/wiki/Munich), ISBN: 3-7774-9530-1, p. 146, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [History of randomness from Wikipedia](https://en.wikipedia.org/wiki/History_of_randomness)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Donald Knuth](Donald_Knuth "Donald Knuth") (**1997**). *[The Art of Computer Programming (TAOCP)](http://www-cs-faculty.stanford.edu/~knuth/taocp.html) - [Volume 2 - Seminumerical Algorithms](http://www.informit.com/store/art-of-computer-programming-volume-2-seminumerical-9780201896848)*. [Chapter 3 – Random numbers](http://www.informit.com/articles/article.aspx?p=2221790)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1994**). *Random Evaluations in Chess*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> "In the past, some implementations of rand() have had serious shortcomings in the randomness, distribution and period of the sequence produced (in one well-known example, the low-order bit simply alternated between 1 and 0 between calls) rand() is not recommended for serious random-number generation needs, like cryptography. It is recommended to use C++11's random number generation facilities to replace rand()." [rand - cppreference.com](http://en.cppreference.com/w/cpp/numeric/random/rand)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: random book moves/ random generator](https://www.stmintz.com/ccc/index.php?id=88293) by [Thorsten Greiner](Thorsten_Greiner "Thorsten Greiner"), [CCC](CCC "CCC"), January 13, 2000
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pseudo-random number generation - cppreference.com](http://en.cppreference.com/w/cpp/numeric/random)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> amy-0.8.7.tar.gz /src/random.c
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Agner Fog](http://www.agner.org/) (**2001**). *Chaotic Random Number Generators with Random Cycle Lengths*. [pdf](http://www.agner.org/random/theory/chaosran.pdf)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: random book moves/ random generator](https://www.stmintz.com/ccc/index.php?id=88309) by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), [CCC](CCC "CCC"), January 13, 2000
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [arasan-chess/movegen.h at master · jdart1/arasan-chess · GitHub](https://github.com/jdart1/arasan-chess/blob/master/src/movegen.h)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [mt19937\_64 - C++ Reference](http://www.cplusplus.com/reference/random/mt19937_64/)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [rand::chacha::ChaChaRng - Rust](https://doc.rust-lang.org/1.0.0/rand/chacha/struct.ChaChaRng.html)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Salsa20 from Wikipedia](https://en.wikipedia.org/wiki/Salsa20)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Mersenne twister from Wikipedia](https://en.wikipedia.org/wiki/Mersenne_twister)
 
 **[Up one Level](Algorithms "Algorithms")**
 

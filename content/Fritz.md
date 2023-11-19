@@ -3,24 +3,24 @@ title: Fritz
 ---
 **[Home](Home "Home") * [Engines](Engines "Engines") * Fritz**
 
-[](https://commons.wikimedia.org/wiki/File:Herne_-_Kulturpark_Unser_Fritz_-_2-3_03_ies.jpg) Unser Fritz 2/3, protego sundial and machine hall [[1]](#cite_note-1)
+[](https://commons.wikimedia.org/wiki/File:Herne_-_Kulturpark_Unser_Fritz_-_2-3_03_ies.jpg) Unser Fritz 2/3, protego sundial and machine hall <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Fritz** (early versions called **Knightstalker** in the USA),
 
 a series of chess programs published by [ChessBase](ChessBase "ChessBase"), until Fritz **13** the engine developed by primary author [Frans Morsch](Frans_Morsch "Frans Morsch") and [Mathias Feist](Mathias_Feist "Mathias Feist"),
-Deep Fritz **14** released in November 2013 by [Gyula Horváth](Gyula_Horv%C3%A1th "Gyula Horváth") [[2]](#cite_note-2),
-Fritz **15** and **16** in November 2015 and 2017 by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich") [[3]](#cite_note-3), and Fritz **17** and **18** in November 2019 and 2021 by [Frank Schneider](Frank_Schneider "Frank Schneider"), in March 2022 Fritz **18 Neuronal** as free update featuring [NNUE](NNUE "NNUE") [evaluation](Evaluation "Evaluation") [[4]](#cite_note-4).
+Deep Fritz **14** released in November 2013 by [Gyula Horváth](Gyula_Horv%C3%A1th "Gyula Horváth") <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
+Fritz **15** and **16** in November 2015 and 2017 by [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and Fritz **17** and **18** in November 2019 and 2021 by [Frank Schneider](Frank_Schneider "Frank Schneider"), in March 2022 Fritz **18 Neuronal** as free update featuring [NNUE](NNUE "NNUE") [evaluation](Evaluation "Evaluation") <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
-Fritz 1-13 were based on Frans Morsch's program [Quest](Quest "Quest"), and was first marketed by ChessBase in 1991 as [MS-DOS](MS-DOS "MS-DOS") program with its own [Graphical User Interface](GUI "GUI") [[5]](#cite_note-5) . Since version 4, released in 1996, Fritz ran on [Windows](Windows "Windows"), and is until today one the world’s most popular and successful chess programs. At the [WCCC 1995](WCCC_1995 "WCCC 1995"), Fritz became World Computer Chess Champion, winning a [notable game](#DBlueFritz) versus [Deep Blue](Deep_Blue "Deep Blue") [prototype](https://www.game-ai-forum.org/icga-tournaments/program.php?id=349) [[6]](#cite_note-6) and the [playoff](#Playoff) [[7]](#cite_note-7) against [Star Socrates](Star_Socrates "Star Socrates").
+Fritz 1-13 were based on Frans Morsch's program [Quest](Quest "Quest"), and was first marketed by ChessBase in 1991 as [MS-DOS](MS-DOS "MS-DOS") program with its own [Graphical User Interface](GUI "GUI") <a id="cite-note-5" href="#cite-ref-5">[5]</a> . Since version 4, released in 1996, Fritz ran on [Windows](Windows "Windows"), and is until today one the world’s most popular and successful chess programs. At the [WCCC 1995](WCCC_1995 "WCCC 1995"), Fritz became World Computer Chess Champion, winning a [notable game](#DBlueFritz) versus [Deep Blue](Deep_Blue "Deep Blue") [prototype](https://www.game-ai-forum.org/icga-tournaments/program.php?id=349) <a id="cite-note-6" href="#cite-ref-6">[6]</a> and the [playoff](#Playoff) <a id="cite-note-7" href="#cite-ref-7">[7]</a> against [Star Socrates](Star_Socrates "Star Socrates").
 
 ## Etymology
 
-The given name Fritz originated as a German nickname for [Friedrich](https://en.wikipedia.org/wiki/Friedrich_%28given_name%29), or [Frederick](https://en.wikipedia.org/wiki/Frederick_%28given_name%29) (der "Alte Fritz" was a nickname for [King Frederick II of Prussia](https://en.wikipedia.org/wiki/Frederick_II_of_Prussia), and of [Frederick III, German Emperor](https://en.wikipedia.org/wiki/Frederick_III,_German_Emperor) [[8]](#cite_note-8)), as well as for similar names including [Fridolin](Fridolin "Fridolin"). Fritz was also a name given to German troops by the British and others in the [first](https://en.wikipedia.org/wiki/World_War_I) and [second world wars](https://en.wikipedia.org/wiki/World_War_II), equivalent to [Tommy](https://en.wikipedia.org/wiki/Tommy_Atkins), as the British troops were called by German and other troops [[9]](#cite_note-9) . Creative ChessBase partner Olaf Oldigs [[10]](#cite_note-10) had suggested the name Fritz for the chess program [[11]](#cite_note-11) .
+The given name Fritz originated as a German nickname for [Friedrich](https://en.wikipedia.org/wiki/Friedrich_%28given_name%29), or [Frederick](https://en.wikipedia.org/wiki/Frederick_%28given_name%29) (der "Alte Fritz" was a nickname for [King Frederick II of Prussia](https://en.wikipedia.org/wiki/Frederick_II_of_Prussia), and of [Frederick III, German Emperor](https://en.wikipedia.org/wiki/Frederick_III,_German_Emperor) <a id="cite-note-8" href="#cite-ref-8">[8]</a>), as well as for similar names including [Fridolin](Fridolin "Fridolin"). Fritz was also a name given to German troops by the British and others in the [first](https://en.wikipedia.org/wiki/World_War_I) and [second world wars](https://en.wikipedia.org/wiki/World_War_II), equivalent to [Tommy](https://en.wikipedia.org/wiki/Tommy_Atkins), as the British troops were called by German and other troops <a id="cite-note-9" href="#cite-ref-9">[9]</a> . Creative ChessBase partner Olaf Oldigs <a id="cite-note-10" href="#cite-ref-10">[10]</a> had suggested the name Fritz for the chess program <a id="cite-note-11" href="#cite-ref-11">[11]</a> .
 
 ## Selected Games
 
 ## Deep Blue Prototype
 
-[WCCC 1995](WCCC_1995 "WCCC 1995"), round 5, [Deep Blue Prototype](Deep_Blue "Deep Blue") - Fritz [[12]](#cite_note-12)
+[WCCC 1995](WCCC_1995 "WCCC 1995"), round 5, [Deep Blue Prototype](Deep_Blue "Deep Blue") - Fritz <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 ```
 
@@ -46,7 +46,7 @@ Be7 36.a4 f4 37.gxf4 Qxf4 38.Rg1 Nxa4 39.b4 Qxb4 0-1
 ## Star Socrates
 
 [](File:WCCC1995Playoff.jpg)
-[WCCC 1995](WCCC_1995 "WCCC 1995") Playoff, [Star Socrates](Star_Socrates "Star Socrates") - Fritz, [Chris Joerg](Chris_Joerg "Chris Joerg"), [Don Dailey](Don_Dailey "Don Dailey"), [Frans Morsch](Frans_Morsch "Frans Morsch"), and [Mathias Feist](Mathias_Feist "Mathias Feist") @ 26... Nd5 [[13]](#cite_note-13) [[14]](#cite_note-14)
+[WCCC 1995](WCCC_1995 "WCCC 1995") Playoff, [Star Socrates](Star_Socrates "Star Socrates") - Fritz, [Chris Joerg](Chris_Joerg "Chris Joerg"), [Don Dailey](Don_Dailey "Don Dailey"), [Frans Morsch](Frans_Morsch "Frans Morsch"), and [Mathias Feist](Mathias_Feist "Mathias Feist") @ 26... Nd5 <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 ```
 
@@ -74,11 +74,11 @@ Nxc4+ 59.Bxc4 f5 60.a5 Kd6 61.Kc3 h5 62.a6 Kc7 63.Be6 Rf2 64.a7 Kb7 65.Kd3 h4
 
 ## [Game on Lichess.org](https://en.lichess.org/MAFG0PKl) Null Move
 
-Frans Morsch, as well as other Dutch computer chess programmers like [Bart Weststrate](Bart_Weststrate "Bart Weststrate") and [Dap Hartmann](Dap_Hartmann "Dap Hartmann") [[15]](#cite_note-15) , did early experiments with [recursive](Recursion "Recursion") [null move pruning](Null_Move_Pruning "Null Move Pruning") in the late 80s, likely after it was discussed at the panel workshop during the [WCCC 1986](WCCC_1986 "WCCC 1986") after [Don Beal's](Don_Beal "Don Beal") talk covering null move [[16]](#cite_note-16) [[17]](#cite_note-17) . Frans Morsch told [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") about recursive null move, who popularized it by his *Null Move and Deep Search* paper in the [ICCA Journal](ICGA_Journal "ICGA Journal") 1993 [[18]](#cite_note-18) .
+Frans Morsch, as well as other Dutch computer chess programmers like [Bart Weststrate](Bart_Weststrate "Bart Weststrate") and [Dap Hartmann](Dap_Hartmann "Dap Hartmann") <a id="cite-note-15" href="#cite-ref-15">[15]</a> , did early experiments with [recursive](Recursion "Recursion") [null move pruning](Null_Move_Pruning "Null Move Pruning") in the late 80s, likely after it was discussed at the panel workshop during the [WCCC 1986](WCCC_1986 "WCCC 1986") after [Don Beal's](Don_Beal "Don Beal") talk covering null move <a id="cite-note-16" href="#cite-ref-16">[16]</a> <a id="cite-note-17" href="#cite-ref-17">[17]</a> . Frans Morsch told [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") about recursive null move, who popularized it by his *Null Move and Deep Search* paper in the [ICCA Journal](ICGA_Journal "ICGA Journal") 1993 <a id="cite-note-18" href="#cite-ref-18">[18]</a> .
 
 ## Descriptions
 
-from the [ICGA](ICGA "ICGA") tournament page [[19]](#cite_note-19) :
+from the [ICGA](ICGA "ICGA") tournament page <a id="cite-note-19" href="#cite-ref-19">[19]</a> :
 
 ## 1995
 
@@ -107,30 +107,30 @@ Deep Fritz is the engine designed for [multiprocessing](https://en.wikipedia.org
 
 ## Fritz SSS
 
-A Fritz version called SSS [[20]](#cite_note-20) or even SSS\* [[21]](#cite_note-21) that played the [Dutch Chess Championship](https://en.wikipedia.org/wiki/Dutch_Chess_Championship) 2000 in [Rotterdam](https://en.wikipedia.org/wiki/Rotterdam), becoming third with 7/11 behind [Loek van Wely](https://en.wikipedia.org/wiki/Loek_van_Wely), and [Jeroen Piket](https://en.wikipedia.org/wiki/Jeroen_Piket), shared with [Sergei Tiviakov](https://en.wikipedia.org/wiki/Sergei_Tiviakov) and [Paul van der Sterren](https://en.wikipedia.org/wiki/Paul_van_der_Sterren) [[22]](#cite_note-22), was not related to the [SSS\*](SSS*_and_Dual* "SSS* and Dual*") search algorithm, but to the three primary sponsors of the event [[23]](#cite_note-23) [[24]](#cite_note-24).
+A Fritz version called SSS <a id="cite-note-20" href="#cite-ref-20">[20]</a> or even SSS\* <a id="cite-note-21" href="#cite-ref-21">[21]</a> that played the [Dutch Chess Championship](https://en.wikipedia.org/wiki/Dutch_Chess_Championship) 2000 in [Rotterdam](https://en.wikipedia.org/wiki/Rotterdam), becoming third with 7/11 behind [Loek van Wely](https://en.wikipedia.org/wiki/Loek_van_Wely), and [Jeroen Piket](https://en.wikipedia.org/wiki/Jeroen_Piket), shared with [Sergei Tiviakov](https://en.wikipedia.org/wiki/Sergei_Tiviakov) and [Paul van der Sterren](https://en.wikipedia.org/wiki/Paul_van_der_Sterren) <a id="cite-note-22" href="#cite-ref-22">[22]</a>, was not related to the [SSS\*](SSS*_and_Dual* "SSS* and Dual*") search algorithm, but to the three primary sponsors of the event <a id="cite-note-23" href="#cite-ref-23">[23]</a> <a id="cite-note-24" href="#cite-ref-24">[24]</a>.
 
 ## Pocket Fritz
 
-Pocket Fritz is a chess program for [PocketPC](https://en.wikipedia.org/wiki/PocketPC) [Personal digital assistants](https://en.wikipedia.org/wiki/Personal_digital_assistant) (PDAs). Pocket Fritz 4 is based on [HIARCS](HIARCS "HIARCS") by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), Pocket Fritz 2 used a port of [Shredder](Shredder "Shredder") by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") [[25]](#cite_note-25) .
+Pocket Fritz is a chess program for [PocketPC](https://en.wikipedia.org/wiki/PocketPC) [Personal digital assistants](https://en.wikipedia.org/wiki/Personal_digital_assistant) (PDAs). Pocket Fritz 4 is based on [HIARCS](HIARCS "HIARCS") by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), Pocket Fritz 2 used a port of [Shredder](Shredder "Shredder") by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") <a id="cite-note-25" href="#cite-ref-25">[25]</a> .
 
 ## Fritz User Interface
 
 ## Fritz 1
 
 [](http://www.septober.de/chess/pics/9104.gif)
-The original Fritz [MS-DOS](MS-DOS "MS-DOS") [Graphical User Interface](GUI "GUI") from 1991 [[26]](#cite_note-26)
+The original Fritz [MS-DOS](MS-DOS "MS-DOS") [Graphical User Interface](GUI "GUI") from 1991 <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 
 ## Fritz 5
 
 [](http://www.septober.de/chess/pics/fritz5.GIF)
-Fritz 5 [Windows](Windows "Windows") [Graphical User Interface](GUI "GUI") [[27]](#cite_note-27)
+Fritz 5 [Windows](Windows "Windows") [Graphical User Interface](GUI "GUI") <a id="cite-note-27" href="#cite-ref-27">[27]</a>
 
 ## Deep Fritz 14
 
 Deep Fritz [GUI](GUI "GUI") is suited to run other [ChessBase](ChessBase "ChessBase") or [UCI engines](Category:UCI "Category:UCI") with either using its own proprietary protocol, as well as the [UCI](UCI "UCI") protocol.
 
 [](http://shop.chessbase.com/en/products/deep_fritz_14_english)
-Deep Fritz 14 GUI [[28]](#cite_note-28)
+Deep Fritz 14 GUI <a id="cite-note-28" href="#cite-ref-28">[28]</a>
 
 ## Authors
 
@@ -252,14 +252,14 @@ Deep Fritz 14 GUI [[28]](#cite_note-28)
 - [Fritz 4 and the SSDF](https://groups.google.com/d/msg/rec.games.chess.computer/Q0RNJrjhj4M/KTaY6xW-OvkJ) by [Moritz Berger](Moritz_Berger "Moritz Berger"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 27, 1996 » [SSDF](SSDF "SSDF")
 - [LCT II results of Reb9, F5, and H6 on K6/233](https://www.stmintz.com/ccc/index.php?id=13605) by [Albert Silver](Albert_Silver "Albert Silver"), [CCC](CCC "CCC"), January 03, 1998 » [LCT II](LCT_II "LCT II"), [Rebel](Rebel "Rebel"), [HIARCS](HIARCS "HIARCS")
 - [Fritz 5](https://www.stmintz.com/ccc/index.php?id=14908) by [Didzis Cirulis](index.php?title=Didzis_Cirulis&action=edit&redlink=1 "Didzis Cirulis (page does not exist)"), [CCC](CCC "CCC"), February 06, 1998
-- [Multi-Fritz with Boss versus IM R. Vasquez](https://www.stmintz.com/ccc/index.php?id=45498) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CCC](CCC "CCC"), March 09, 1999 [[29]](#cite_note-29)
+- [Multi-Fritz with Boss versus IM R. Vasquez](https://www.stmintz.com/ccc/index.php?id=45498) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CCC](CCC "CCC"), March 09, 1999 <a id="cite-note-29" href="#cite-ref-29">[29]</a>
 - [Tactical monsters: Fritz5.32 and Goliath 2.05](https://www.stmintz.com/ccc/index.php?id=63261) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), August 03, 1999
 
 ## 2000 ...
 
 - [How make Fritz execute brute force search?](https://www.stmintz.com/ccc/index.php?id=121789) by [Leonid](Leonid_Liberman "Leonid Liberman"), [CCC](CCC "CCC"), July 26, 2000
 - [Junior chess program. Just version of Fritz 5?](https://www.stmintz.com/ccc/index.php?id=122370) by [Leonid](Leonid_Liberman "Leonid Liberman"), [CCC](CCC "CCC"), July 29, 2000  » [Junior](Junior "Junior")
-- [Deep Fritz won the Cadaques tournament](https://www.stmintz.com/ccc/index.php?id=153658) by [Enrique Irazoqui](Enrique_Irazoqui "Enrique Irazoqui"), [CCC](CCC "CCC"), February 06, 2001 [[30]](#cite_note-30)
+- [Deep Fritz won the Cadaques tournament](https://www.stmintz.com/ccc/index.php?id=153658) by [Enrique Irazoqui](Enrique_Irazoqui "Enrique Irazoqui"), [CCC](CCC "CCC"), February 06, 2001 <a id="cite-note-30" href="#cite-ref-30">[30]</a>
 - [Fritz7 o-o-o bug](https://www.stmintz.com/ccc/index.php?id=203330) by [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [CCC](CCC "CCC"), December 24, 2001
 - [Re: Fritz protocol](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=36819&p=139614#p139734) by [Odd Gunnar Malin](Odd_Gunnar_Malin "Odd Gunnar Malin"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 14, 2002 » [Wb2UCI](Wb2UCI "Wb2UCI")
 - [Re: Something new about Fritz? English](https://www.stmintz.com/ccc/index.php?id=237094) by [Sven Reichard](Sven_Reichard "Sven Reichard"), [CCC](CCC "CCC"), June 23, 2002
@@ -376,36 +376,36 @@ Deep Fritz 14 GUI [[28]](#cite_note-28)
 
 ## References
 
-1. [↑](#cite_ref-1) Former [coal mine](https://en.wikipedia.org/wiki/Coal_mining) [Unser Fritz 2/3](https://de.wikipedia.org/wiki/Zeche_Unser_Fritz) in [Herne, North Rhine-Westphalia](https://en.wikipedia.org/wiki/Herne,_North_Rhine-Westphalia), Germany, now artist-studio, exhibition and event space, and part of [The Industrial Heritage Trail](Category:Industrial_Heritage_Trail "Category:Industrial Heritage Trail") of the [Ruhr area](https://en.wikipedia.org/wiki/Ruhr) - Image of [protegohaube](https://de.wikipedia.org/wiki/Protegohaube) ([flame arrester](https://en.wikipedia.org/wiki/Flame_arrester)) as [gnomon](https://en.wikipedia.org/wiki/Gnomon) of a [sundial](https://en.wikipedia.org/wiki/Sundial) and machine halls behind by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [bike](https://en.wikipedia.org/wiki/Pedelec) tour, September 16, 2016. [Unser Fritz/Crange](https://de.wikipedia.org/wiki/Unser_Fritz/Crange) is further district of Herne (Wanne), famous for its funfair [Cranger Kirmes](https://en.wikipedia.org/wiki/Cranger_Kirmes), and [SV Unser Fritz](http://www.sv-unser-fritz.de/) the local chess club - eponym of the coal mine was [Frederick III, German Emperor](https://en.wikipedia.org/wiki/Frederick_III,_German_Emperor), see also [Künstlerzeche Unser Fritz 2/3 - Chronik](http://www.kuenstlerzeche.de/zeche/zeche_chronik_fs.html) (German) and [2011 Image](https://commons.wikimedia.org/wiki/File:Herne_-_Kulturpark_Unser_Fritz_-_2-3_03_ies.jpg) by [Frank Vincentz](https://commons.wikimedia.org/wiki/User:Ies/L_Herne)
-1. [↑](#cite_ref-2) [New Fritz author?](http://www.talkchess.com/forum/viewtopic.php?t=50149) by John Hartmann, [CCC](CCC "CCC"), November 19, 2013
-1. [↑](#cite_ref-3) [Fritz 15 - English Version](https://shop.chessbase.com/en/products/fritz_15_english), [ChessBase Shop](ChessBase "ChessBase")
-1. [↑](#cite_ref-4) [Free Fritz update: AI engine "Fritz 18 Neuronal"](https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine), [ChessBase News](ChessBase "ChessBase"), March 30, 2022
-1. [↑](#cite_ref-5) [Christmas dinner on a train – meet the ChessBase team](https://en.chessbase.com/post/christmas-dinner-on-a-train-meet-the-chebase-team) from [ChessBase News](ChessBase "ChessBase"), December 23, 2003
-1. [↑](#cite_ref-6) [Fabian Mäser](Fabian_M%C3%A4ser "Fabian Mäser") (**1995**). *Fritz vs. [Deep Blue](Deep_Blue "Deep Blue"): Opening Book vs, Opening Book*. [Computer Chess Reports Vol. 5 No. 2](Computer_Chess_Reports "Computer Chess Reports") pp. 22, [WCCC 1995](WCCC_1995 "WCCC 1995")
-1. [↑](#cite_ref-7) [Shatin 1995, Chess, Round 6, Game 1](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=29&round=6&id=1)
-1. [↑](#cite_ref-8) [Der alte Fritz (1928) Wikipedia.de](<https://de.wikipedia.org/wiki/Der_alte_Fritz_(1928)>) (German)
-1. [↑](#cite_ref-9) [Fritz from Wikipedia](https://en.wikipedia.org/wiki/Fritz)
-1. [↑](#cite_ref-10) [Olaf Oldigs - Google+](https://plus.google.com/112441411820050102952/about)
-1. [↑](#cite_ref-11) [The ChessBase Christmas Party – part 1](https://en.chessbase.com/post/the-chebase-christmas-party-part-1), [ChessBase News](ChessBase "ChessBase"), December 28, 2010
-1. [↑](#cite_ref-12) [Shatin 1995, Chess, Round 5, Game 4](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=29&round=5&id=4)
-1. [↑](#cite_ref-13) Image by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [ICCA Journal, Vol. 18, No. 2](ICGA_Journal#18_2 "ICGA Journal"), pp. 81
-1. [↑](#cite_ref-14) [Shatin 1995 - Chess - Round 6 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=29&round=6&id=1)
-1. [↑](#cite_ref-15) [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1994**). *Die Kunst des Nichtstuns*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele") 2/94, [pdf](http://www.mustrum.de/chrilly/nullmove.pdf) (German)
-1. [↑](#cite_ref-16) [Re: SOMA](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=288321&t=28775) by [Ed Schroder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 26, 2009
-1. [↑](#cite_ref-17) [Re: Search or Evaluation?](http://www.hiarcs.net/forums/viewtopic.php?p=2944) by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 14, 2007
-1. [↑](#cite_ref-18) [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"). (**1993**). *Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs.* [ICCA Journal](ICGA_Journal "ICGA Journal"), [Vol. 16, No. 3](http://people.csail.mit.edu/heinz/iccaj_db/node4.html), pp. 137-143
-1. [↑](#cite_ref-19) [Fritz' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=27)
-1. [↑](#cite_ref-20) [Comp Fritz SSS chess games - 365Chess.com](http://www.365chess.com/players/Comp_Fritz_SSS)
-1. [↑](#cite_ref-21) [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2000**). *De toekomst van het schaaken*. Schaakmagazine, 5/2000, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-2000,%20Schaakmagazine,%20Jaap%20van%20den%20Herik,%20De%20toekomst%20van%20het%20schaken.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-1. [↑](#cite_ref-22) [NED-ch 2000 - 365Chess.com Tournaments](http://www.365chess.com/tournaments/NED-ch_2000/5890)
-1. [↑](#cite_ref-23) [Fritz SSS uses \*SSS?](https://www.stmintz.com/ccc/index.php?id=110850) by [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [CCC](CCC "CCC"), May 15, 2000
-1. [↑](#cite_ref-24) [Re: Fritz SSS uses \*SSS?](https://www.stmintz.com/ccc/index.php?id=110856) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), May 15, 2000
-1. [↑](#cite_ref-25) [Chess Programs for Pocket PC and Palm devices](http://www.grailmaster.com/misc/chess/comp/chessrev/chessreview.html) by [Dr. Axel Schumacher](index.php?title=Dr._Axel_Schumacher&action=edit&redlink=1 "Dr. Axel Schumacher (page does not exist)")
-1. [↑](#cite_ref-26) [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-1. [↑](#cite_ref-27) [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-1. [↑](#cite_ref-28) [Deep Fritz 14](http://shop.chessbase.com/en/products/deep_fritz_14_english) from [ChessBase](ChessBase "ChessBase")
-1. [↑](#cite_ref-29) [Rodrigo Vásquez Schroder - Wikipedia](https://en.wikipedia.org/wiki/Rodrigo_V%C3%A1squez_Schroder)
-1. [↑](#cite_ref-30) [Enrique Irazoqui – Cadaqués Tournament 2001](https://web.archive.org/web/20010127115000/http://www.computerschach.de/tourn/cad2001/cad2001.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Former [coal mine](https://en.wikipedia.org/wiki/Coal_mining) [Unser Fritz 2/3](https://de.wikipedia.org/wiki/Zeche_Unser_Fritz) in [Herne, North Rhine-Westphalia](https://en.wikipedia.org/wiki/Herne,_North_Rhine-Westphalia), Germany, now artist-studio, exhibition and event space, and part of [The Industrial Heritage Trail](Category:Industrial_Heritage_Trail "Category:Industrial Heritage Trail") of the [Ruhr area](https://en.wikipedia.org/wiki/Ruhr) - Image of [protegohaube](https://de.wikipedia.org/wiki/Protegohaube) ([flame arrester](https://en.wikipedia.org/wiki/Flame_arrester)) as [gnomon](https://en.wikipedia.org/wiki/Gnomon) of a [sundial](https://en.wikipedia.org/wiki/Sundial) and machine halls behind by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [bike](https://en.wikipedia.org/wiki/Pedelec) tour, September 16, 2016. [Unser Fritz/Crange](https://de.wikipedia.org/wiki/Unser_Fritz/Crange) is further district of Herne (Wanne), famous for its funfair [Cranger Kirmes](https://en.wikipedia.org/wiki/Cranger_Kirmes), and [SV Unser Fritz](http://www.sv-unser-fritz.de/) the local chess club - eponym of the coal mine was [Frederick III, German Emperor](https://en.wikipedia.org/wiki/Frederick_III,_German_Emperor), see also [Künstlerzeche Unser Fritz 2/3 - Chronik](http://www.kuenstlerzeche.de/zeche/zeche_chronik_fs.html) (German) and [2011 Image](https://commons.wikimedia.org/wiki/File:Herne_-_Kulturpark_Unser_Fritz_-_2-3_03_ies.jpg) by [Frank Vincentz](https://commons.wikimedia.org/wiki/User:Ies/L_Herne)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [New Fritz author?](http://www.talkchess.com/forum/viewtopic.php?t=50149) by John Hartmann, [CCC](CCC "CCC"), November 19, 2013
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fritz 15 - English Version](https://shop.chessbase.com/en/products/fritz_15_english), [ChessBase Shop](ChessBase "ChessBase")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Free Fritz update: AI engine "Fritz 18 Neuronal"](https://en.chessbase.com/post/free-fritz18-update-fritz18neuronal-engine), [ChessBase News](ChessBase "ChessBase"), March 30, 2022
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Christmas dinner on a train – meet the ChessBase team](https://en.chessbase.com/post/christmas-dinner-on-a-train-meet-the-chebase-team) from [ChessBase News](ChessBase "ChessBase"), December 23, 2003
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fabian Mäser](Fabian_M%C3%A4ser "Fabian Mäser") (**1995**). *Fritz vs. [Deep Blue](Deep_Blue "Deep Blue"): Opening Book vs, Opening Book*. [Computer Chess Reports Vol. 5 No. 2](Computer_Chess_Reports "Computer Chess Reports") pp. 22, [WCCC 1995](WCCC_1995 "WCCC 1995")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Shatin 1995, Chess, Round 6, Game 1](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=29&round=6&id=1)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Der alte Fritz (1928) Wikipedia.de](<https://de.wikipedia.org/wiki/Der_alte_Fritz_(1928)>) (German)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Fritz from Wikipedia](https://en.wikipedia.org/wiki/Fritz)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Olaf Oldigs - Google+](https://plus.google.com/112441411820050102952/about)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [The ChessBase Christmas Party – part 1](https://en.chessbase.com/post/the-chebase-christmas-party-part-1), [ChessBase News](ChessBase "ChessBase"), December 28, 2010
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Shatin 1995, Chess, Round 5, Game 4](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=29&round=5&id=4)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> Image by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [ICCA Journal, Vol. 18, No. 2](ICGA_Journal#18_2 "ICGA Journal"), pp. 81
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Shatin 1995 - Chess - Round 6 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=29&round=6&id=1)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1994**). *Die Kunst des Nichtstuns*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele") 2/94, [pdf](http://www.mustrum.de/chrilly/nullmove.pdf) (German)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Re: SOMA](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=288321&t=28775) by [Ed Schroder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 26, 2009
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Re: Search or Evaluation?](http://www.hiarcs.net/forums/viewtopic.php?p=2944) by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 14, 2007
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"). (**1993**). *Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs.* [ICCA Journal](ICGA_Journal "ICGA Journal"), [Vol. 16, No. 3](http://people.csail.mit.edu/heinz/iccaj_db/node4.html), pp. 137-143
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Fritz' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=27)
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Comp Fritz SSS chess games - 365Chess.com](http://www.365chess.com/players/Comp_Fritz_SSS)
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2000**). *De toekomst van het schaaken*. Schaakmagazine, 5/2000, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-2000,%20Schaakmagazine,%20Jaap%20van%20den%20Herik,%20De%20toekomst%20van%20het%20schaken.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [NED-ch 2000 - 365Chess.com Tournaments](http://www.365chess.com/tournaments/NED-ch_2000/5890)
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Fritz SSS uses \*SSS?](https://www.stmintz.com/ccc/index.php?id=110850) by [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [CCC](CCC "CCC"), May 15, 2000
+1. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Re: Fritz SSS uses \*SSS?](https://www.stmintz.com/ccc/index.php?id=110856) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), May 15, 2000
+1. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Chess Programs for Pocket PC and Palm devices](http://www.grailmaster.com/misc/chess/comp/chessrev/chessreview.html) by [Dr. Axel Schumacher](index.php?title=Dr._Axel_Schumacher&action=edit&redlink=1 "Dr. Axel Schumacher (page does not exist)")
+1. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+1. <a id="cite-ref-27" href="#cite-note-27">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+1. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Deep Fritz 14](http://shop.chessbase.com/en/products/deep_fritz_14_english) from [ChessBase](ChessBase "ChessBase")
+1. <a id="cite-ref-29" href="#cite-note-29">↑</a> [Rodrigo Vásquez Schroder - Wikipedia](https://en.wikipedia.org/wiki/Rodrigo_V%C3%A1squez_Schroder)
+1. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Enrique Irazoqui – Cadaqués Tournament 2001](https://web.archive.org/web/20010127115000/http://www.computerschach.de/tourn/cad2001/cad2001.htm) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 **[Up one Level](Engines "Engines")**
 

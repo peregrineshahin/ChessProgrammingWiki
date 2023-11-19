@@ -5,17 +5,17 @@ title: Mark Winands
 
 
 
- [](https://project.dke.maastrichtuniversity.nl/games/member_mark.htm) Mark Winands [[1]](#cite_note-1) 
+ [](https://project.dke.maastrichtuniversity.nl/games/member_mark.htm) Mark Winands <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Mark Henricus Maria Winands**,  
 
-a Dutch computer scientist, [games](Games "Games") researcher and associate professor at [Maastricht University](Maastricht_University "Maastricht University"). Along with [I-Chen Wu](I-Chen_Wu "I-Chen Wu") and [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), Mark is [Editor-in-Chief](ICGA_Journal#board "ICGA Journal") of the [ICGA Journal](ICGA_Journal "ICGA Journal"), and an associate editor of [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE") [[2]](#cite_note-2). He is author of various game playing programs, most notably his [Lines of Action](Lines_of_Action "Lines of Action") program [MIA](https://www.game-ai-forum.org/icga-tournaments/program.php?id=116) [[3]](#cite_note-3) [[4]](#cite_note-4), successfully competing at [ICGA](ICGA "ICGA") tournaments [[5]](#cite_note-5). Mark researched on [Proof-Number Search](Proof-Number_Search "Proof-Number Search"), and introduced [Enhanced Forward Pruning](Enhanced_Forward_Pruning "Enhanced Forward Pruning") [[6]](#cite_note-6), which applies [Forward Pruning](Pruning "Pruning") Techniques, like [Null Move Pruning](Null_Move_Pruning "Null Move Pruning") and [Multi-Cut](Multi-Cut "Multi-Cut"), not only at expected [Cut-Nodes](Node_Types#cut-nodes "Node Types"), but also at expected [All-Nodes](Node_Types#all-nodes "Node Types") with slight modifications on a [Principal Variation Search](Principal_Variation_Search "Principal Variation Search") framework, and the [Relative History Heuristic](Relative_History_Heuristic "Relative History Heuristic") [[7]](#cite_note-7) in 2004 at the [Computers and Games 2004 Conference](CG_2004 "CG 2004") in Ramat-Gan, an improvement of [Schaeffer's](Jonathan_Schaeffer "Jonathan Schaeffer") [History Heuristic](History_Heuristic "History Heuristic") considering [Dap Hartmann's](Dap_Hartmann "Dap Hartmann") [Butterfly Heuristic](Butterfly_Heuristic "Butterfly Heuristic"). 
+a Dutch computer scientist, [games](Games "Games") researcher and associate professor at [Maastricht University](Maastricht_University "Maastricht University"). Along with [I-Chen Wu](I-Chen_Wu "I-Chen Wu") and [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), Mark is [Editor-in-Chief](ICGA_Journal#board "ICGA Journal") of the [ICGA Journal](ICGA_Journal "ICGA Journal"), and an associate editor of [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He is author of various game playing programs, most notably his [Lines of Action](Lines_of_Action "Lines of Action") program [MIA](https://www.game-ai-forum.org/icga-tournaments/program.php?id=116) <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>, successfully competing at [ICGA](ICGA "ICGA") tournaments <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Mark researched on [Proof-Number Search](Proof-Number_Search "Proof-Number Search"), and introduced [Enhanced Forward Pruning](Enhanced_Forward_Pruning "Enhanced Forward Pruning") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, which applies [Forward Pruning](Pruning "Pruning") Techniques, like [Null Move Pruning](Null_Move_Pruning "Null Move Pruning") and [Multi-Cut](Multi-Cut "Multi-Cut"), not only at expected [Cut-Nodes](Node_Types#cut-nodes "Node Types"), but also at expected [All-Nodes](Node_Types#all-nodes "Node Types") with slight modifications on a [Principal Variation Search](Principal_Variation_Search "Principal Variation Search") framework, and the [Relative History Heuristic](Relative_History_Heuristic "Relative History Heuristic") <a id="cite-note-7" href="#cite-ref-7">[7]</a> in 2004 at the [Computers and Games 2004 Conference](CG_2004 "CG 2004") in Ramat-Gan, an improvement of [Schaeffer's](Jonathan_Schaeffer "Jonathan Schaeffer") [History Heuristic](History_Heuristic "History Heuristic") considering [Dap Hartmann's](Dap_Hartmann "Dap Hartmann") [Butterfly Heuristic](Butterfly_Heuristic "Butterfly Heuristic"). 
 
 
 
 ## Selected Publications
 
 
-[[9]](#cite_note-9) [[10]](#cite_note-10) [[11]](#cite_note-11)
+<a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 
 
@@ -42,7 +42,7 @@ a Dutch computer scientist, [games](Games "Games") researcher and associate prof
 
 * Mark Winands (**2002**). *The Seventh Computer Olympiad*. IKAT, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/The_7th_Computer_Olympiad.pdf) » [7th Computer Olympiad](7th_Computer_Olympiad "7th Computer Olympiad")
 * [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), Mark Winands (**2002**). *YL wins Lines of Action tournament*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal") » [7th Computer Olympiad](7th_Computer_Olympiad#LOA "7th Computer Olympiad")
-* Mark Winands, [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Learning in Lines of Action*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad") [[12]](#cite_note-12)
+* Mark Winands, [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Learning in Lines of Action*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad") <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 * Mark Winands, [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Temporal difference learning and the Neural MoveMap heuristic in the game of Lines of Action*. GAME-ON 2002
 * Mark Winands, [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *[PDS-PN: A New Proof-Number Search Algorithm: Application to Lines of Action](http://link.springer.com/chapter/10.1007/978-3-540-40031-8_5)*. [CG 2002](CG_2002 "CG 2002")
 
@@ -127,7 +127,7 @@ a Dutch computer scientist, [games](Games "Games") researcher and associate prof
 
 
  Mark Winands (**2009**). *Many Faces of Go wins 9x9 and 19x19 Go tournaments*. [ICGA Journal, Vol. 32, No. 1](ICGA_Journal#32_1 "ICGA Journal") » [13th Computer Olympiad](13th_Computer_Olympiad#Go "13th Computer Olympiad")
-* Mark Winands, [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") (**2009**). *Evaluation Function Based Monte-Carlo LOA*. [pdf](http://www.ru.is/faculty/yngvi/pdf/WinandsB09.pdf) [[13]](#cite_note-13)
+* Mark Winands, [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") (**2009**). *Evaluation Function Based Monte-Carlo LOA*. [pdf](http://www.ru.is/faculty/yngvi/pdf/WinandsB09.pdf) <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 * [Jahn-Takeshi Saito](Jahn-Takeshi_Saito "Jahn-Takeshi Saito"), Mark Winands, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2009**). *Randomized Parallel Proof-Number Search*. [Advances in Computer Games 12](Advances_in_Computer_Games_12 "Advances in Computer Games 12"), [pdf](http://wwwis.win.tue.nl/bnaic2009/papers/bnaic2009_paper_23.pdf)
 * [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), Mark Winands (**2009**). *Solving Go for Rectangular Boards*. [ICGA Journal, Vol. 32, No. 2](ICGA_Journal#32_2 "ICGA Journal")
 * Mark Winands (**2009**). *MIA wins Lines of Action tournament*. [ICGA Journal, Vol. 32, No. 2](ICGA_Journal#32_2 "ICGA Journal") » [14th Computer Olympiad](14th_Computer_Olympiad#LOA "14th Computer Olympiad")
@@ -225,19 +225,19 @@ a Dutch computer scientist, [games](Games "Games") researcher and associate prof
 ## References
 
 
-1. [↑](#cite_ref-1) [Games and AI Group - Mark Winands](https://project.dke.maastrichtuniversity.nl/games/member_mark.htm)
-2. [↑](#cite_ref-2) [Mark Winands Homepage](https://dke.maastrichtuniversity.nl/m.winands/)
-3. [↑](#cite_ref-3) [Mark's LOA Homepage](http://www.personeel.unimaas.nl/m-winands/loa/)
-4. [↑](#cite_ref-4) [ICGA: Lines of Action](http://ilk.uvt.nl/icga/games/Loa/) by Mark Winands
-5. [↑](#cite_ref-5) [Mark Winands' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=42)
-6. [↑](#cite_ref-6) Mark Winands, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf") (**2003**). *[Enhanced forward pruning](https://research.tilburguniversity.edu/en/publications/enhanced-forward-pruning)*. JCIS 2003
-7. [↑](#cite_ref-7) Mark Winands, [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2004**). *[The Relative History Heuristic](http://link.springer.com/chapter/10.1007/11674399_18)*. [CG 2004](CG_2004 "CG 2004"), [pdf](http://erikvanderwerf.tengen.nl/pubdown/relhis.pdf)
-8. [↑](#cite_ref-8) [Mark's LOA Homepage](http://www.personeel.unimaas.nl/m-winands/loa/)
-9. [↑](#cite_ref-9) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-10. [↑](#cite_ref-10) [dblp: Mark H. M. Winands](http://www.informatik.uni-trier.de/~ley/pers/hd/w/Winands:Mark_H=_M=)
-11. [↑](#cite_ref-11) [Mark Winands - Publications](https://dke.maastrichtuniversity.nl/m.winands/)
-12. [↑](#cite_ref-12) [Publications - Maastricht University](https://dke.maastrichtuniversity.nl/m.winands/publications.html)
-13. [↑](#cite_ref-13) [Monte Carlo in LOA](http://www.open-chess.org/viewtopic.php?f=5&t=886) by BB+, [Open Chess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 30, 2010
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Games and AI Group - Mark Winands](https://project.dke.maastrichtuniversity.nl/games/member_mark.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mark Winands Homepage](https://dke.maastrichtuniversity.nl/m.winands/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Mark's LOA Homepage](http://www.personeel.unimaas.nl/m-winands/loa/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICGA: Lines of Action](http://ilk.uvt.nl/icga/games/Loa/) by Mark Winands
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Mark Winands' ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=42)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Mark Winands, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf") (**2003**). *[Enhanced forward pruning](https://research.tilburguniversity.edu/en/publications/enhanced-forward-pruning)*. JCIS 2003
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Mark Winands, [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2004**). *[The Relative History Heuristic](http://link.springer.com/chapter/10.1007/11674399_18)*. [CG 2004](CG_2004 "CG 2004"), [pdf](http://erikvanderwerf.tengen.nl/pubdown/relhis.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Mark's LOA Homepage](http://www.personeel.unimaas.nl/m-winands/loa/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Mark H. M. Winands](http://www.informatik.uni-trier.de/~ley/pers/hd/w/Winands:Mark_H=_M=)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Mark Winands - Publications](https://dke.maastrichtuniversity.nl/m.winands/)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Publications - Maastricht University](https://dke.maastrichtuniversity.nl/m.winands/publications.html)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Monte Carlo in LOA](http://www.open-chess.org/viewtopic.php?f=5&t=886) by BB+, [Open Chess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 30, 2010
 
 **[Up one level](People "People")**
 

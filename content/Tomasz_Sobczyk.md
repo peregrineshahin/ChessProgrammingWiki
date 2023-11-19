@@ -32,26 +32,26 @@ a Polish computer scientist involved in recent [Stockfish](Stockfish "Stockfish"
 
 ## References
 
-1.  [↑](#cite_ref-1) [NNUE Guide (nnue-pytorch/nnue.md at master · glinscott/nnue-pytorch · GitHub)](https://github.com/glinscott/nnue-pytorch/blob/master/docs/nnue.md) hosted by [Gary Linscott](/Gary_Linscott "Gary Linscott")
-2.  [↑](#cite_ref-2) [Update default net to nn-8a08400ed089.nnue by Sopel97 · Pull Request #3474 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3474)
-3.  [↑](#cite_ref-3) [nnue-pytorch/nnue.md at master · glinscott/nnue-pytorch · GitHub - HalfKAv2 feature set](https://github.com/glinscott/nnue-pytorch/blob/master/docs/nnue.md#halfkav2-feature-set)
-4.  [↑](#cite_ref-4) [New NNUE architecture and net by Sopel97 · Pull Request #3646 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3646)
-5.  [↑](#cite_ref-5) [nnue-pytorch/nnue.md at master · glinscott/nnue-pytorch · GitHub - HalfKAv2 feature set](https://github.com/glinscott/nnue-pytorch/blob/master/docs/nnue.md#halfkav2_hm-feature-set)
-6.  [↑](#cite_ref-6) [Optimization of the affine transformations. by Sopel97 · Pull Request #3203 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3203)
-7.  [↑](#cite_ref-7) [AVX-512 optimizations. by Sopel97 · Pull Request #3218 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3218)
-8.  [↑](#cite_ref-8) [Optimize and tidy up affine transform code. by Sopel97 · Pull Request #3663 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3663)
-9.  [↑](#cite_ref-9) [Defer data preparation to native code. Use sparse input tensors. · Pull Request #1 · glinscott/nnue-pytorch · GitHub](https://github.com/glinscott/nnue-pytorch/pull/1)
-10.  [↑](#cite_ref-10) [A custom kernel for the feature transformer. · Pull Request #96 · glinscott/nnue-pytorch · GitHub](https://github.com/glinscott/nnue-pytorch/pull/96)
-11.  [↑](#cite_ref-11) [Re: will Tcec allow Stockfish with a Leela net to play?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77503&start=55) by [Connor McMonigle](/Connor_McMonigle "Connor McMonigle"), [CCC](/CCC "CCC"), June 17, 2021
-12.  [↑](#cite_ref-12) [Pull Requests by Sopel97 · nodchip/Stockfish · GitHub](https://github.com/nodchip/Stockfish/pulls?q=is%3Apr+author%3ASopel97)
-13.  [↑](#cite_ref-13) [official-stockfish tools branch · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/tree/tools)
-14.  [↑](#cite_ref-14) [Sopel97/nnue\_data\_compress · GitHub](https://github.com/Sopel97/nnue_data_compress)
-15.  [↑](#cite_ref-15) [Introduce sfen\_format option for gensfen. Experimental support for binpack format in gensfen and learn. · Pull Request #129 · nodchip/Stockfish · GitHub](https://github.com/nodchip/Stockfish/pull/129)
-16.  [↑](#cite_ref-16) [Pull Requests by Sopel97 · nodchip/Stockfish · GitHub](https://github.com/nodchip/Stockfish/pulls?q=is%3Apr+author%3ASopel97)
-17.  [↑](#cite_ref-17) [Pull Requests by Sopel97 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pulls?q=is%3Apr+author%3ASopel97)
-18.  [↑](#cite_ref-18) [Pull Requests by Sopel97 · glinscott/nnue-pytorch · GitHub](https://github.com/glinscott/nnue-pytorch/pulls?q=is%3Apr+author%3ASopel97)
-19.  [↑](#cite_ref-19) [Sopel97/FatTitz · GitHub](https://github.com/Sopel97/FatTitz)
-20.  [↑](#cite_ref-20) [Fat Titz 1.0 released by](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=78026) Sopel[,](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=78026) [CCC](/CCC "CCC"), Aug 26, 2021
+1.  <a id="cite-ref-1" href="#cite-note-1">↑</a> [NNUE Guide (nnue-pytorch/nnue.md at master · glinscott/nnue-pytorch · GitHub)](https://github.com/glinscott/nnue-pytorch/blob/master/docs/nnue.md) hosted by [Gary Linscott](/Gary_Linscott "Gary Linscott")
+2.  <a id="cite-ref-2" href="#cite-note-2">↑</a> [Update default net to nn-8a08400ed089.nnue by Sopel97 · Pull Request #3474 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3474)
+3.  <a id="cite-ref-3" href="#cite-note-3">↑</a> [nnue-pytorch/nnue.md at master · glinscott/nnue-pytorch · GitHub - HalfKAv2 feature set](https://github.com/glinscott/nnue-pytorch/blob/master/docs/nnue.md#halfkav2-feature-set)
+4.  <a id="cite-ref-4" href="#cite-note-4">↑</a> [New NNUE architecture and net by Sopel97 · Pull Request #3646 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3646)
+5.  <a id="cite-ref-5" href="#cite-note-5">↑</a> [nnue-pytorch/nnue.md at master · glinscott/nnue-pytorch · GitHub - HalfKAv2 feature set](https://github.com/glinscott/nnue-pytorch/blob/master/docs/nnue.md#halfkav2_hm-feature-set)
+6.  <a id="cite-ref-6" href="#cite-note-6">↑</a> [Optimization of the affine transformations. by Sopel97 · Pull Request #3203 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3203)
+7.  <a id="cite-ref-7" href="#cite-note-7">↑</a> [AVX-512 optimizations. by Sopel97 · Pull Request #3218 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3218)
+8.  <a id="cite-ref-8" href="#cite-note-8">↑</a> [Optimize and tidy up affine transform code. by Sopel97 · Pull Request #3663 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3663)
+9.  <a id="cite-ref-9" href="#cite-note-9">↑</a> [Defer data preparation to native code. Use sparse input tensors. · Pull Request #1 · glinscott/nnue-pytorch · GitHub](https://github.com/glinscott/nnue-pytorch/pull/1)
+10.  <a id="cite-ref-10" href="#cite-note-10">↑</a> [A custom kernel for the feature transformer. · Pull Request #96 · glinscott/nnue-pytorch · GitHub](https://github.com/glinscott/nnue-pytorch/pull/96)
+11.  <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: will Tcec allow Stockfish with a Leela net to play?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77503&start=55) by [Connor McMonigle](/Connor_McMonigle "Connor McMonigle"), [CCC](/CCC "CCC"), June 17, 2021
+12.  <a id="cite-ref-12" href="#cite-note-12">↑</a> [Pull Requests by Sopel97 · nodchip/Stockfish · GitHub](https://github.com/nodchip/Stockfish/pulls?q=is%3Apr+author%3ASopel97)
+13.  <a id="cite-ref-13" href="#cite-note-13">↑</a> [official-stockfish tools branch · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/tree/tools)
+14.  <a id="cite-ref-14" href="#cite-note-14">↑</a> [Sopel97/nnue\_data\_compress · GitHub](https://github.com/Sopel97/nnue_data_compress)
+15.  <a id="cite-ref-15" href="#cite-note-15">↑</a> [Introduce sfen\_format option for gensfen. Experimental support for binpack format in gensfen and learn. · Pull Request #129 · nodchip/Stockfish · GitHub](https://github.com/nodchip/Stockfish/pull/129)
+16.  <a id="cite-ref-16" href="#cite-note-16">↑</a> [Pull Requests by Sopel97 · nodchip/Stockfish · GitHub](https://github.com/nodchip/Stockfish/pulls?q=is%3Apr+author%3ASopel97)
+17.  <a id="cite-ref-17" href="#cite-note-17">↑</a> [Pull Requests by Sopel97 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pulls?q=is%3Apr+author%3ASopel97)
+18.  <a id="cite-ref-18" href="#cite-note-18">↑</a> [Pull Requests by Sopel97 · glinscott/nnue-pytorch · GitHub](https://github.com/glinscott/nnue-pytorch/pulls?q=is%3Apr+author%3ASopel97)
+19.  <a id="cite-ref-19" href="#cite-note-19">↑</a> [Sopel97/FatTitz · GitHub](https://github.com/Sopel97/FatTitz)
+20.  <a id="cite-ref-20" href="#cite-note-20">↑</a> [Fat Titz 1.0 released by](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=78026) Sopel[,](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=78026) [CCC](/CCC "CCC"), Aug 26, 2021
 
 **[Up one level](People "People")**
 

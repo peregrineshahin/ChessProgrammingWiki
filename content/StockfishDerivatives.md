@@ -5,24 +5,24 @@ title: StockfishDerivatives
 
 
 
- [](File:Stockfish-logo.png) Stockfish logo [[1]](#cite_note-1) 
- [](https://stockfishchess.org/) Stockfish 12 logo [[2]](#cite_note-2) 
+ [](File:Stockfish-logo.png) Stockfish logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
+ [](https://stockfishchess.org/) Stockfish 12 logo <a id="cite-note-2" href="#cite-ref-2">[2]</a> 
 **Stockfish**,  
 
-an [UCI](UCI "UCI") compatible [open source](Category:Open_Source "Category:Open Source") chess engine developed by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Marco Costalba](Marco_Costalba "Marco Costalba"), [Joona Kiiski](Joona_Kiiski "Joona Kiiski") and [Gary Linscott](Gary_Linscott "Gary Linscott") [[3]](#cite_note-3), licensed under the [GPL v3.0](Free_Software_Foundation#GPL "Free Software Foundation"). Marco forked the project from version 2.1 of Tord's engine [Glaurung](Glaurung "Glaurung"), first announced by Marco in November 8, 2008 [[4]](#cite_note-4), and in early 2009 Joona's [Smaug](Smaug "Smaug"), a further Glaurung 2.2 derivative, was incorporated [[5]](#cite_note-5) . Starting out among the top twenty engines, Stockfish has quickly climbed in [strength](Playing_Strength "Playing Strength") to become the world strongest chess entity as of 2018 - at least concerning the [AlphaZero](AlphaZero "AlphaZero") hype [[6]](#cite_note-6), public available chess entity. The name "Stockfish" reflects the ancestry of the engine. Tord is Norwegian and Marco Italian, and there is a long history of [stockfish](https://en.wikipedia.org/wiki/Stockfish) trade from Norway to Italy (to Marco's home town of [Vicenza](https://en.wikipedia.org/wiki/Vicenza), in fact). Stockfish also referred another famous "little fish", the then strongest chess engine [Rybka](Rybka "Rybka"). In 2011, Marco Costalba and Joona Kiiski stepped down as Stockfish maintainers [[7]](#cite_note-7). From that, the project is being developed and maintained by the [Stockfish community](Category:Stockfish_Contributor "Category:Stockfish Contributor"). 
+an [UCI](UCI "UCI") compatible [open source](Category:Open_Source "Category:Open Source") chess engine developed by [Tord Romstad](Tord_Romstad "Tord Romstad"), [Marco Costalba](Marco_Costalba "Marco Costalba"), [Joona Kiiski](Joona_Kiiski "Joona Kiiski") and [Gary Linscott](Gary_Linscott "Gary Linscott") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, licensed under the [GPL v3.0](Free_Software_Foundation#GPL "Free Software Foundation"). Marco forked the project from version 2.1 of Tord's engine [Glaurung](Glaurung "Glaurung"), first announced by Marco in November 8, 2008 <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and in early 2009 Joona's [Smaug](Smaug "Smaug"), a further Glaurung 2.2 derivative, was incorporated <a id="cite-note-5" href="#cite-ref-5">[5]</a> . Starting out among the top twenty engines, Stockfish has quickly climbed in [strength](Playing_Strength "Playing Strength") to become the world strongest chess entity as of 2018 - at least concerning the [AlphaZero](AlphaZero "AlphaZero") hype <a id="cite-note-6" href="#cite-ref-6">[6]</a>, public available chess entity. The name "Stockfish" reflects the ancestry of the engine. Tord is Norwegian and Marco Italian, and there is a long history of [stockfish](https://en.wikipedia.org/wiki/Stockfish) trade from Norway to Italy (to Marco's home town of [Vicenza](https://en.wikipedia.org/wiki/Vicenza), in fact). Stockfish also referred another famous "little fish", the then strongest chess engine [Rybka](Rybka "Rybka"). In 2011, Marco Costalba and Joona Kiiski stepped down as Stockfish maintainers <a id="cite-note-7" href="#cite-ref-7">[7]</a>. From that, the project is being developed and maintained by the [Stockfish community](Category:Stockfish_Contributor "Category:Stockfish Contributor"). 
 
 
-A synergy effect with the [Shogi](Shogi "Shogi") community led to the promising branch of [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE"), courtesy of [Nodchip](Hisayori_Noda "Hisayori Noda"), who introduced [NNUE](NNUE "NNUE") to Stockfish in 2019 [[8]](#cite_note-8). On September 02, 2020, **Stockfish 12** was released with a huge jump in [playing strength](Playing_Strength "Playing Strength") due to NNUE and further [tuning](Automated_Tuning "Automated Tuning") of the engine [[9]](#cite_note-9). The release of **Stockfish 13** on February 19, 2021, has been triggered by the start of sales of the [Fat Fritz 2](Fat_Fritz#Fat_Fritz_2 "Fat Fritz") engine by [ChessBase](ChessBase "ChessBase"), based on a recent development version of Stockfish with minor modifications [[10]](#cite_note-10). **Stockfish 14**, released on July 02, 2021, further improved due to efforts by [Tomasz Sobczyk](Tomasz_Sobczyk "Tomasz Sobczyk") and [Gary Linscott](Gary_Linscott "Gary Linscott") in designing a new [NNUE architecture](Stockfish_NNUE#HalfKA "Stockfish NNUE") in conjunction with a [GPU](GPU "GPU") accelerated trainer written in [PyTorch](https://en.wikipedia.org/wiki/PyTorch). Further, the collaboration with the [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") team payed off, in providing billions of positions to train the new NNUE [[11]](#cite_note-11).
+A synergy effect with the [Shogi](Shogi "Shogi") community led to the promising branch of [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE"), courtesy of [Nodchip](Hisayori_Noda "Hisayori Noda"), who introduced [NNUE](NNUE "NNUE") to Stockfish in 2019 <a id="cite-note-8" href="#cite-ref-8">[8]</a>. On September 02, 2020, **Stockfish 12** was released with a huge jump in [playing strength](Playing_Strength "Playing Strength") due to NNUE and further [tuning](Automated_Tuning "Automated Tuning") of the engine <a id="cite-note-9" href="#cite-ref-9">[9]</a>. The release of **Stockfish 13** on February 19, 2021, has been triggered by the start of sales of the [Fat Fritz 2](Fat_Fritz#Fat_Fritz_2 "Fat Fritz") engine by [ChessBase](ChessBase "ChessBase"), based on a recent development version of Stockfish with minor modifications <a id="cite-note-10" href="#cite-ref-10">[10]</a>. **Stockfish 14**, released on July 02, 2021, further improved due to efforts by [Tomasz Sobczyk](Tomasz_Sobczyk "Tomasz Sobczyk") and [Gary Linscott](Gary_Linscott "Gary Linscott") in designing a new [NNUE architecture](Stockfish_NNUE#HalfKA "Stockfish NNUE") in conjunction with a [GPU](GPU "GPU") accelerated trainer written in [PyTorch](https://en.wikipedia.org/wiki/PyTorch). Further, the collaboration with the [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") team payed off, in providing billions of positions to train the new NNUE <a id="cite-note-11" href="#cite-ref-11">[11]</a>.
 
 
-**Stockfish 16**, released June 30, 2023, removes the classical [evaluation](Evaluation "Evaluation") from the engine and focuses on [NNUE](NNUE "NNUE") neural networks.[[12]](#cite_note-12)
+**Stockfish 16**, released June 30, 2023, removes the classical [evaluation](Evaluation "Evaluation") from the engine and focuses on [NNUE](NNUE "NNUE") neural networks.<a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 
 
 ## Platforms
 
 
-Since Stockfish is written in [C++](Cpp "Cpp"), it may be compiled and build for various processors and operating systems such as [Android](Android "Android"), [iOS](index.php?title=IOS&action=edit&redlink=1 "IOS (page does not exist)"), [Linux](Linux "Linux"), [macOS](Mac_OS "Mac OS"), and [Windows](Windows "Windows"). Stockfish for [macOS](Mac_OS "Mac OS") was built by [Daylen Yang](Daylen_Yang "Daylen Yang"), who is also responsible for the Stockfish website. Stockfish for [iOS](index.php?title=IOS&action=edit&redlink=1 "IOS (page does not exist)") was built by Tord Romstad [[13]](#cite_note-13).
+Since Stockfish is written in [C++](Cpp "Cpp"), it may be compiled and build for various processors and operating systems such as [Android](Android "Android"), [iOS](index.php?title=IOS&action=edit&redlink=1 "IOS (page does not exist)"), [Linux](Linux "Linux"), [macOS](Mac_OS "Mac OS"), and [Windows](Windows "Windows"). Stockfish for [macOS](Mac_OS "Mac OS") was built by [Daylen Yang](Daylen_Yang "Daylen Yang"), who is also responsible for the Stockfish website. Stockfish for [iOS](index.php?title=IOS&action=edit&redlink=1 "IOS (page does not exist)") was built by Tord Romstad <a id="cite-note-13" href="#cite-ref-13">[13]</a>.
 
 
 
@@ -30,8 +30,8 @@ Since Stockfish is written in [C++](Cpp "Cpp"), it may be compiled and build for
 ## Fishtest
 
 
-The Stockfish Testing Framework dubbed **Fishtest** [[14]](#cite_note-14) is a [web application](https://en.wikipedia.org/wiki/Web_application) written by [Gary Linscott](Gary_Linscott "Gary Linscott") [[15]](#cite_note-15) [[16]](#cite_note-16), based on a [SETI@home](https://en.wikipedia.org/wiki/SETI@home) kind of [volunteer computing](https://en.wikipedia.org/wiki/Volunteer_computing).
-Fishtest is mainly written in [Python](Python "Python") under the *Pyramid Application Development Framework* [[17]](#cite_note-17), and distributes games across different machines to reduce the test latency and increment throughput. Started in early 2013 with Stockfish 3.0, Fishtest has hundreds of contributors, as of June 2018, 1130 testers and 162 developers [[18]](#cite_note-18) active in testing ideas and tweaks [[19]](#cite_note-19), to make Stockfish the strongest chess entity of the world [[20]](#cite_note-20).
+The Stockfish Testing Framework dubbed **Fishtest** <a id="cite-note-14" href="#cite-ref-14">[14]</a> is a [web application](https://en.wikipedia.org/wiki/Web_application) written by [Gary Linscott](Gary_Linscott "Gary Linscott") <a id="cite-note-15" href="#cite-ref-15">[15]</a> <a id="cite-note-16" href="#cite-ref-16">[16]</a>, based on a [SETI@home](https://en.wikipedia.org/wiki/SETI@home) kind of [volunteer computing](https://en.wikipedia.org/wiki/Volunteer_computing).
+Fishtest is mainly written in [Python](Python "Python") under the *Pyramid Application Development Framework* <a id="cite-note-17" href="#cite-ref-17">[17]</a>, and distributes games across different machines to reduce the test latency and increment throughput. Started in early 2013 with Stockfish 3.0, Fishtest has hundreds of contributors, as of June 2018, 1130 testers and 162 developers <a id="cite-note-18" href="#cite-ref-18">[18]</a> active in testing ideas and tweaks <a id="cite-note-19" href="#cite-ref-19">[19]</a>, to make Stockfish the strongest chess entity of the world <a id="cite-note-20" href="#cite-ref-20">[20]</a>.
 
 
 
@@ -39,7 +39,7 @@ Fishtest is mainly written in [Python](Python "Python") under the *Pyramid Appli
 ## Evaluation Guide
 
 
-Since April 2017 the interactive **Stockfish Evaluation Guide** is available to explore Stockfish's [evaluation](Evaluation "Evaluation") with a [JavaScript](JavaScript "JavaScript") implementation running in a [browser](https://en.wikipedia.org/wiki/Web_browser) [[21]](#cite_note-21) . One may enter a [FEN](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") string of a [position](Chess_Position "Chess Position"), to get the resulting [score](Score "Score") of the main evaluation term considering the [game phases](Game_Phases "Game Phases") within its [tapered evaluation](Tapered_Eval "Tapered Eval"), and may navigate through the tree of subterms and features with its particular characteristics for the given position [[22]](#cite_note-22), also supporting [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE") nets [[23]](#cite_note-23).
+Since April 2017 the interactive **Stockfish Evaluation Guide** is available to explore Stockfish's [evaluation](Evaluation "Evaluation") with a [JavaScript](JavaScript "JavaScript") implementation running in a [browser](https://en.wikipedia.org/wiki/Web_browser) <a id="cite-note-21" href="#cite-ref-21">[21]</a> . One may enter a [FEN](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") string of a [position](Chess_Position "Chess Position"), to get the resulting [score](Score "Score") of the main evaluation term considering the [game phases](Game_Phases "Game Phases") within its [tapered evaluation](Tapered_Eval "Tapered Eval"), and may navigate through the tree of subterms and features with its particular characteristics for the given position <a id="cite-note-22" href="#cite-ref-22">[22]</a>, also supporting [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE") nets <a id="cite-note-23" href="#cite-ref-23">[23]</a>.
 
 
 
@@ -55,14 +55,14 @@ Since [season 14](TCEC_Season_14#Superfinal "TCEC Season 14") in early 2019, Sto
 ## GM+Rybka vs. Stockfish
 
 
-On July 19, 2014, Stockfish 5 played a four game match versus [Daniel Naroditsky](https://en.wikipedia.org/wiki/Daniel_Naroditsky) plus [Rybka 3](Rybka "Rybka") (2008), 45 minutes plus 30-second increment. Stockfish won 3½ - ½ [[24]](#cite_note-24) [[25]](#cite_note-25) . A few weeks later the experiment continued with [Hikaru Nakamura](https://en.wikipedia.org/wiki/Hikaru_Nakamura) in [Burlingame, California](https://en.wikipedia.org/wiki/Burlingame,_California) [[26]](#cite_note-26) . Supported two games by Rybka 3, Nakamura lost ½ - 1½, two games with pawn odds (Stockfish both Black without h- and b-pawn) ended ½ - 1½ in favour to Stockfish 5 as well. It played the latest development build compiled for [OS X](Mac_OS "Mac OS") running on a 3 GHz 8-Core [Mac Pro](Macintosh "Macintosh") [[27]](#cite_note-27) .
+On July 19, 2014, Stockfish 5 played a four game match versus [Daniel Naroditsky](https://en.wikipedia.org/wiki/Daniel_Naroditsky) plus [Rybka 3](Rybka "Rybka") (2008), 45 minutes plus 30-second increment. Stockfish won 3½ - ½ <a id="cite-note-24" href="#cite-ref-24">[24]</a> <a id="cite-note-25" href="#cite-ref-25">[25]</a> . A few weeks later the experiment continued with [Hikaru Nakamura](https://en.wikipedia.org/wiki/Hikaru_Nakamura) in [Burlingame, California](https://en.wikipedia.org/wiki/Burlingame,_California) <a id="cite-note-26" href="#cite-ref-26">[26]</a> . Supported two games by Rybka 3, Nakamura lost ½ - 1½, two games with pawn odds (Stockfish both Black without h- and b-pawn) ended ½ - 1½ in favour to Stockfish 5 as well. It played the latest development build compiled for [OS X](Mac_OS "Mac OS") running on a 3 GHz 8-Core [Mac Pro](Macintosh "Macintosh") <a id="cite-note-27" href="#cite-ref-27">[27]</a> .
 
 
 
 ## Selected Features
 
 
-[[28]](#cite_note-28)
+<a id="cite-note-28" href="#cite-ref-28">[28]</a>
 
 
 
@@ -74,8 +74,8 @@ On July 19, 2014, Stockfish 5 played a four game match versus [Daniel Naroditsky
 * [Magic Bitboards](Magic_Bitboards "Magic Bitboards")
 
 
- [BMI2 - PEXT Bitboards](BMI2#PEXTBitboards "BMI2") (not recommend for [AMD](AMD "AMD") [Ryzen](https://en.wikipedia.org/wiki/Ryzen) [[29]](#cite_note-29) prior to [Zen 3](https://en.wikipedia.org/wiki/Zen_3))
-* [Piece-Lists](Piece-Lists "Piece-Lists") until Stockfish 12 [[30]](#cite_note-30) [[31]](#cite_note-31) [[32]](#cite_note-32)
+ [BMI2 - PEXT Bitboards](BMI2#PEXTBitboards "BMI2") (not recommend for [AMD](AMD "AMD") [Ryzen](https://en.wikipedia.org/wiki/Ryzen) <a id="cite-note-29" href="#cite-ref-29">[29]</a> prior to [Zen 3](https://en.wikipedia.org/wiki/Zen_3))
+* [Piece-Lists](Piece-Lists "Piece-Lists") until Stockfish 12 <a id="cite-note-30" href="#cite-ref-30">[30]</a> <a id="cite-note-31" href="#cite-ref-31">[31]</a> <a id="cite-note-32" href="#cite-ref-32">[32]</a>
 
 
 ### [Search](Search "Search")
@@ -95,7 +95,7 @@ On July 19, 2014, Stockfish 5 played a four game match versus [Daniel Naroditsky
 	+ [Prefetch](Memory#Cache "Memory")
 * [Move Ordering](Move_Ordering "Move Ordering")
 	+ [Countermove Heuristic](Countermove_Heuristic "Countermove Heuristic")
-	+ [Counter Moves History](History_Heuristic#CMHist "History Heuristic") since Stockfish 7, January 2016 [[33]](#cite_note-33)
+	+ [Counter Moves History](History_Heuristic#CMHist "History Heuristic") since Stockfish 7, January 2016 <a id="cite-note-33" href="#cite-ref-33">[33]</a>
 	+ [History Heuristic](History_Heuristic "History Heuristic")
 	+ [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening")
 	+ [Killer Heuristic](Killer_Heuristic "Killer Heuristic")
@@ -128,7 +128,7 @@ On July 19, 2014, Stockfish 5 played a four game match versus [Daniel Naroditsky
 	+ [HalfKAv2](Stockfish_NNUE#HalfKA "Stockfish NNUE") (Stockfish 14)
 
 
- *See also* [Evaluation Philosophy](Evaluation_Philosophy "Evaluation Philosophy") [[34]](#cite_note-34) [[35]](#cite_note-35)
+ *See also* [Evaluation Philosophy](Evaluation_Philosophy "Evaluation Philosophy") <a id="cite-note-34" href="#cite-ref-34">[34]</a> <a id="cite-note-35" href="#cite-ref-35">[35]</a>
 * [Tapered Eval](Tapered_Eval "Tapered Eval")
 * [Score Grain](Score#Grain "Score"): ~1/256 of a [pawn unit](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo")
 * [Material](Material "Material")
@@ -274,7 +274,7 @@ On July 19, 2014, Stockfish 5 played a four game match versus [Daniel Naroditsky
 * [Fat Titz](Fat_Titz "Fat Titz")
 * [Portfish](Portfish "Portfish")
 * [Rustfish](Rustfish "Rustfish")
-* [Stockfish-js](Stockfish-js "Stockfish-js") [[36]](#cite_note-36)
+* [Stockfish-js](Stockfish-js "Stockfish-js") <a id="cite-note-36" href="#cite-ref-36">[36]</a>
 
 
 
@@ -329,7 +329,7 @@ There are 196 authors, counted to version 15.1.
 ## Elo Progress
 
 
-of Stockfish in first 10 years [[37]](#cite_note-37)
+of Stockfish in first 10 years <a id="cite-note-37" href="#cite-ref-37">[37]</a>
 
 
 
@@ -350,12 +350,12 @@ of Stockfish in first 10 years [[37]](#cite_note-37)
 ## Publications
 
 
-* [Arno Nickel](Arno_Nickel "Arno Nickel") (**2012**). *[Die schöne neue Welt der Schachengines](http://www.edition-marco-shop.de/epages/64079634.sf/de_DE/?ObjectPath=/Shops/64079634/Categories/Schachgeschehen/Computerschach)*. [SCHACH](http://www.zeitschriftschach.de/) 2,3,5,6 2012, [pdf](http://www.edition-marco-shop.de/WebRoot/Store14/Shops/64079634/5177/F0A3/C389/D0DD/3A71/C0A8/2935/25F6/Die_schoene_neue_Welt_der_Schachengines.pdf) (German) [[38]](#cite_note-38)
+* [Arno Nickel](Arno_Nickel "Arno Nickel") (**2012**). *[Die schöne neue Welt der Schachengines](http://www.edition-marco-shop.de/epages/64079634.sf/de_DE/?ObjectPath=/Shops/64079634/Categories/Schachgeschehen/Computerschach)*. [SCHACH](http://www.zeitschriftschach.de/) 2,3,5,6 2012, [pdf](http://www.edition-marco-shop.de/WebRoot/Store14/Shops/64079634/5177/F0A3/C389/D0DD/3A71/C0A8/2935/25F6/Die_schoene_neue_Welt_der_Schachengines.pdf) (German) <a id="cite-note-38" href="#cite-ref-38">[38]</a>
 * [Oleg Arenz](index.php?title=Oleg_Arenz&action=edit&redlink=1 "Oleg Arenz (page does not exist)") (**2012**). *Monte Carlo Chess*. B.Sc. thesis, [Darmstadt University of Technology](Darmstadt_University_of_Technology "Darmstadt University of Technology"), advisor [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz"), [pdf](http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2012/Arenz_Oleg.pdf) » [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search")
 * [Tamal T. Biswas](Tamal_T._Biswas "Tamal T. Biswas"), [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan") (**2015**). *Quantifying Depth and Complexity of Thinking and Knowledge*. [ICAART 2015](http://www.icaart.org/EuropeanProjectSpace.aspx?y=2015), [pdf](http://www.cse.buffalo.edu/~regan/papers/pdf/BiReICAART15CR.pdf)
 * [Tamal T. Biswas](Tamal_T._Biswas "Tamal T. Biswas"), [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan") (**2015**). *Measuring Level-K Reasoning, Satisficing, and Human Error in Game-Play Data*. [IEEE](IEEE "IEEE") [ICMLA 2015](http://www.icmla-conference.org/icmla15/), [pdf preprint](http://www.cse.buffalo.edu/~regan/papers/pdf/BiRe15_ICMLA2015.pdf)
 * [Shu Yokoyama](Shu_Yokoyama "Shu Yokoyama"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Tetsuro Tanaka](Tetsuro_Tanaka "Tetsuro Tanaka") (**2015**). *Parameter-Free Tree Style Pipeline in Asynchronous Parallel Game-Tree Search*. [Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances in Computer Games 14") , [pdf](http://www.graco.c.u-tokyo.ac.jp/~kaneko/papers/acg2015-yokoyama.pdf) » [P-GPP](Shu_Yokoyama#PGPP "Shu Yokoyama")
-* [Jean-Marc Alliot](Jean-Marc_Alliot "Jean-Marc Alliot") (**2017**). *Who is the Master*? [ICGA Journal, Vol. 39, No. 1](ICGA_Journal#39_1 "ICGA Journal"), [draft as pdf](http://www.alliot.fr/CHESS/draft-icga-39-1.pdf) [[39]](#cite_note-39)
+* [Jean-Marc Alliot](Jean-Marc_Alliot "Jean-Marc Alliot") (**2017**). *Who is the Master*? [ICGA Journal, Vol. 39, No. 1](ICGA_Journal#39_1 "ICGA Journal"), [draft as pdf](http://www.alliot.fr/CHESS/draft-icga-39-1.pdf) <a id="cite-note-39" href="#cite-ref-39">[39]</a>
 * [Bill Jordan](Bill_Jordan "Bill Jordan") (**2020**). *Calculation versus Intuition: Stockfish versus Leela*. [amazon](https://www.amazon.com/Calculation-versus-Intuition-Stockfish-Leela-ebook/dp/B08LYBQDMB/) » [TCEC](TCEC "TCEC"), [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
 
 
@@ -499,7 +499,7 @@ of Stockfish in first 10 years [[37]](#cite_note-37)
 ### 2015 ...
 
 
-* [Stockfish in Lozza UIs](http://www.talkchess.com/forum/viewtopic.php?t=54891) by [Colin Jenkins](Colin_Jenkins "Colin Jenkins"), [CCC](CCC "CCC"), January 07, 2015 » [Lozza](Lozza "Lozza"), [Stockfish-js](Stockfish-js "Stockfish-js") [[40]](#cite_note-40)
+* [Stockfish in Lozza UIs](http://www.talkchess.com/forum/viewtopic.php?t=54891) by [Colin Jenkins](Colin_Jenkins "Colin Jenkins"), [CCC](CCC "CCC"), January 07, 2015 » [Lozza](Lozza "Lozza"), [Stockfish-js](Stockfish-js "Stockfish-js") <a id="cite-note-40" href="#cite-ref-40">[40]</a>
 * [SF6 has been released](http://www.talkchess.com/forum/viewtopic.php?t=55122) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski"), [CCC](CCC "CCC"), January 27, 2015
 * [Stockfish 6 is impressive in Behting study](http://www.talkchess.com/forum/viewtopic.php?t=55167) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), January 31, 2015 » [Behting Study](Behting_Study "Behting Study")
 * [Stockfish with 16 threads - big news?](http://www.talkchess.com/forum/viewtopic.php?t=55352) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), February 15, 2015 » [Thread](Thread "Thread")
@@ -541,7 +541,7 @@ of Stockfish in first 10 years [[37]](#cite_note-37)
 * [Natural TB](http://www.talkchess.com/forum/viewtopic.php?t=60312) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), May 29, 2016 » [Syzygy Bases](Syzygy_Bases "Syzygy Bases")
 * [Stockfish eval output](http://www.talkchess.com/forum/viewtopic.php?t=61250) by [Erin Dame](Erin_Dame "Erin Dame"), [CCC](CCC "CCC"), August 27, 2016 » [Wrong Color Bishop and Rook Pawn](Wrong_Color_Bishop_and_Rook_Pawn "Wrong Color Bishop and Rook Pawn")
 * [Re: Beginner's guide to graphical profiling](http://www.talkchess.com/forum/viewtopic.php?t=61373&start=2) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), September 10, 2016 » [Profiling](index.php?title=Profiling&action=edit&redlink=1 "Profiling (page does not exist)")
-* [ELO inflation ha ha ha](http://www.talkchess.com/forum/viewtopic.php?t=61444) by [Henk van den Belt](index.php?title=Henk_van_den_Belt&action=edit&redlink=1 "Henk van den Belt (page does not exist)"), [CCC](CCC "CCC"), September 16, 2016 » [Delphil](Delphil "Delphil"), [Match Statistics](Match_Statistics "Match Statistics"), [Playing Strength](Playing_Strength "Playing Strength"), [TCEC Season 9](TCEC_Season_9 "TCEC Season 9") [[41]](#cite_note-41)
+* [ELO inflation ha ha ha](http://www.talkchess.com/forum/viewtopic.php?t=61444) by [Henk van den Belt](index.php?title=Henk_van_den_Belt&action=edit&redlink=1 "Henk van den Belt (page does not exist)"), [CCC](CCC "CCC"), September 16, 2016 » [Delphil](Delphil "Delphil"), [Match Statistics](Match_Statistics "Match Statistics"), [Playing Strength](Playing_Strength "Playing Strength"), [TCEC Season 9](TCEC_Season_9 "TCEC Season 9") <a id="cite-note-41" href="#cite-ref-41">[41]</a>
 * [pin-aware see](https://groups.google.com/d/msg/fishcooking/S_4E_Xs5HaE/mS3VTnuEFgAJ) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), September 14, 2016 » [SEE - The Swap Algorithm](SEE_-_The_Swap_Algorithm "SEE - The Swap Algorithm"), [Pin](Pin "Pin")
 * [Illegal moves in SEE](https://groups.google.com/d/msg/fishcooking/9mcmjnyqbAQ/S6mDA0QsAAAJ) by [Stephane Nicolet](Stephane_Nicolet "Stephane Nicolet"), [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), September 22, 2016 » [SEE - The Swap Algorithm](SEE_-_The_Swap_Algorithm "SEE - The Swap Algorithm")
 * [Stockfish underpromotes much more often than Komodo](http://www.talkchess.com/forum/viewtopic.php?t=61601) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), October 05, 2016 » [Komodo](Komodo "Komodo"), [Match Statistics](Match_Statistics "Match Statistics"), [Promotions](Promotions "Promotions")
@@ -620,7 +620,7 @@ of Stockfish in first 10 years [[37]](#cite_note-37)
 
 
  [Re: Stockfish Reverts 5 Recent Patches](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72962&start=6) by [Michel Van den Bergh](Michel_Van_den_Bergh "Michel Van den Bergh"), [CCC](CCC "CCC"), February 02, 2020 » [SPRT](Match_Statistics#SPRT "Match Statistics")
-* [Stockfish and latest +6 ELO patch!](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73273) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), March 05, 2020 » [Distance](Distance "Distance"), [Space-Time Tradeoff](Space-Time_Tradeoff "Space-Time Tradeoff") [[42]](#cite_note-42)
+* [Stockfish and latest +6 ELO patch!](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73273) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), March 05, 2020 » [Distance](Distance "Distance"), [Space-Time Tradeoff](Space-Time_Tradeoff "Space-Time Tradeoff") <a id="cite-note-42" href="#cite-ref-42">[42]</a>
 * [Null move](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73753) by [Robert Pope](Robert_Pope "Robert Pope"), [CCC](CCC "CCC"), April 24, 2020 » [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
 * [Stockfish\_dev is probably stronger than Sargon 1978 v1.00](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74037) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), May 29, 2020 » [Sargon](Sargon "Sargon")
 * [Stockfish NN release (NNUE)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74059) by [Henk Drost](index.php?title=Henk_Drost&action=edit&redlink=1 "Henk Drost (page does not exist)"), [CCC](CCC "CCC"), May 31, 2020 » [NNUE](NNUE "NNUE"), [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE")
@@ -645,7 +645,7 @@ of Stockfish in first 10 years [[37]](#cite_note-37)
 * [Stockfish 13 merged on github](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76639) by [Joshua Shriver](index.php?title=Joshua_Shriver&action=edit&redlink=1 "Joshua Shriver (page does not exist)"), [CCC](CCC "CCC"), February 19, 2021
 * [Setting up Stockfish on a server](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76977) by Jon12345, [CCC](CCC "CCC"), March 29, 2021 » [Chess Server](Chess_Server "Chess Server")
 * [Joking FTW, Seriously](https://lczero.org/blog/2021/04/joking-ftw-seriously/) by borg, [LCZero blog](Leela_Chess_Zero "Leela Chess Zero"), April 25, 2021
-* [Stockfish with new NNUE architecture and bigger net released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77344) by [Stefan Pohl](index.php?title=Stefan_Pohl&action=edit&redlink=1 "Stefan Pohl (page does not exist)"), [CCC](CCC "CCC"), May 19, 2021 [[43]](#cite_note-43) [[44]](#cite_note-44)
+* [Stockfish with new NNUE architecture and bigger net released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77344) by [Stefan Pohl](index.php?title=Stefan_Pohl&action=edit&redlink=1 "Stefan Pohl (page does not exist)"), [CCC](CCC "CCC"), May 19, 2021 <a id="cite-note-43" href="#cite-ref-43">[43]</a> <a id="cite-note-44" href="#cite-ref-44">[44]</a>
 * [The importance of open data](https://lczero.org/blog/2021/06/the-importance-of-open-data/) by borg , [LCZero blog](Leela_Chess_Zero "Leela Chess Zero"), June 15, 2021
 * [will Tcec allow Stockfish with a Leela net to play?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77503) by Wilson, [CCC](CCC "CCC"), June 17, 2021 » [TCEC Season 21](TCEC_Season_21 "TCEC Season 21")
 
@@ -686,7 +686,7 @@ of Stockfish in first 10 years [[37]](#cite_note-37)
 
 
 * [And then there were two](http://en.chessbase.com/post/john-hartmann-and-then-there-were-two) by [John Hartmann](http://en.chessbase.com/author/john-hartmann), [ChessBase News](ChessBase "ChessBase"), June 09, 2015 » [Komodo](Komodo "Komodo"), Stockfish
-* [Depth of Satisficing](https://rjlipton.wordpress.com/2015/10/06/depth-of-satisficing/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), October 06, 2015 » [Depth](Depth "Depth"), [Match Statistics](Match_Statistics "Match Statistics"), [Pawn Advantage, Win Percentage, and Elo](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo"), Stockfish, [Komodo](Komodo "Komodo") [[45]](#cite_note-45)
+* [Depth of Satisficing](https://rjlipton.wordpress.com/2015/10/06/depth-of-satisficing/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), October 06, 2015 » [Depth](Depth "Depth"), [Match Statistics](Match_Statistics "Match Statistics"), [Pawn Advantage, Win Percentage, and Elo](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo"), Stockfish, [Komodo](Komodo "Komodo") <a id="cite-note-45" href="#cite-ref-45">[45]</a>
 * [A Chess Firewall at Zero?](https://rjlipton.wordpress.com/2016/01/21/a-chess-firewall-at-zero/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), January 21, 2016
 * [Stockfish 8](https://stockfishchess.org/blog/2016/stockfish-8/), November 01, 2016
 * [Stockfish 9](https://stockfishchess.org/blog/2018/stockfish-9/), February 09, 2018
@@ -724,7 +724,7 @@ of Stockfish in first 10 years [[37]](#cite_note-37)
 
 
 * [Issues · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/issues)
-* [NNUE merge · Issue #2823 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/issues/2823) by [Joost VandeVondele](Joost_VandeVondele "Joost VandeVondele"), July 25, 2020 [[46]](#cite_note-46)
+* [NNUE merge · Issue #2823 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/issues/2823) by [Joost VandeVondele](Joost_VandeVondele "Joost VandeVondele"), July 25, 2020 <a id="cite-note-46" href="#cite-ref-46">[46]</a>
 * [NNUE ideas and discussion (post-merge) Issue #2915 official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/issues/2915) by [Joost VandeVondele](Joost_VandeVondele "Joost VandeVondele"), August 06, 2020
 * [NNUE eval rotate vs mirror · Issue #3021 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/issues/3021) by [Terje Kirstihagen](index.php?title=Terje_Kirstihagen&action=edit&redlink=1 "Terje Kirstihagen (page does not exist)"), August 18, 2020
 
@@ -796,52 +796,52 @@ of Stockfish in first 10 years [[37]](#cite_note-37)
 ## References
 
 
-1. [↑](#cite_ref-1) The Stockfish icon was designed by [Klein Maetschke](http://iamkle.in/), [About - Stockfish](https://stockfishchess.org/about/)
-2. [↑](#cite_ref-2) [Stockfish - Open Source Chess Engine](https://stockfishchess.org/), The Stockfish 12 icon was designed by [Klein Maetschke](http://iamkle.in/), [About - Stockfish](https://stockfishchess.org/about/)
-3. [↑](#cite_ref-3) [Stockfish 7](http://www.talkchess.com/forum/viewtopic.php?t=58779) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski"), [CCC](CCC "CCC"), January 02, 2016
-4. [↑](#cite_ref-4) [Stockfish 1.0](http://www.talkchess.com/forum/viewtopic.php?t=24675) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), November 02, 2008
-5. [↑](#cite_ref-5) [Re: Smaug: a new chess engine based on glaurung](http://www.talkchess.com/forum/viewtopic.php?t=26971&start=1) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), March 12, 2009
-6. [↑](#cite_ref-6) [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Matthew Lai](Matthew_Lai "Matthew Lai"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2017**). *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm*. [arXiv:1712.01815](https://arxiv.org/abs/1712.01815)
-7. [↑](#cite_ref-7) [Stockfish on github](http://www.talkchess.com/forum/viewtopic.php?t=40610) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), October 02, 2011
-8. [↑](#cite_ref-8) [Stockfish NN release (NNUE)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74059) by [Henk Drost](index.php?title=Henk_Drost&action=edit&redlink=1 "Henk Drost (page does not exist)"), [CCC](CCC "CCC"), May 31, 2020
-9. [↑](#cite_ref-9) [Stockfish 12](https://stockfishchess.org/blog/2020/stockfish-12/), The Stockfish Team, [Stockfish Blog](https://blog.stockfishchess.org/), September 02, 2020
-10. [↑](#cite_ref-10) [Stockfish 13](https://stockfishchess.org/blog/2021/stockfish-13/), The Stockfish Team, February 19, 2021
-11. [↑](#cite_ref-11) [Stockfish 14](https://stockfishchess.org/blog/2021/stockfish-14/), The Stockfish Team, July 02, 2021
-12. [↑](#cite_ref-12) [GitHub - Stockfish commit, Remove classical evaluation](https://github.com/official-stockfish/Stockfish/commit/af110e02ec96cdb46cf84c68252a1da15a902395)
-13. [↑](#cite_ref-13) [About - Stockfish](https://stockfishchess.org/about/)
-14. [↑](#cite_ref-14) [glinscott/fishtest · GitHub](https://github.com/glinscott/fishtest)
-15. [↑](#cite_ref-15) [Get Involved - Stockfish - Powerful Open Source Chess Engine](http://stockfishchess.org/get-involved/)
-16. [↑](#cite_ref-16) [Fishtest Distributed Testing Framework](http://www.talkchess.com/forum/viewtopic.php?t=47885) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), May 01, 2013
-17. [↑](#cite_ref-17) [The Pyramid Web Framework — The Pyramid Web Framework v1.5](http://docs.pylonsproject.org/projects/pyramid/en/latest/)
-18. [↑](#cite_ref-18) [Stockfish Testing Framework - Users](http://tests.stockfishchess.org/users)
-19. [↑](#cite_ref-19) [Stockfish Testing Framework](http://tests.stockfishchess.org/tests)
-20. [↑](#cite_ref-20) [Adam's Computer Chess Pages: Stockfish Progression](http://adamsccpages.blogspot.com/p/sf-framework-history.html) by [Adam Hair](Adam_Hair "Adam Hair")
-21. [↑](#cite_ref-21) [Re: How far away are we from deep learning Stockfish, Komodo](http://www.talkchess.com/forum/viewtopic.php?t=64025&start=27) by [Gary](Gary_Linscott "Gary Linscott"), [CCC](CCC "CCC"), May 21, 2017
-22. [↑](#cite_ref-22) [Stockfish Evaluation Guide](https://hxim.github.io/Stockfish-Evaluation-Guide/)
-23. [↑](#cite_ref-23) [Stockfish Evaluation Guide - NNUE](https://hxim.github.io/Stockfish-Evaluation-Guide/?p=nnue)
-24. [↑](#cite_ref-24) [Can a GM and Rybka beat Stockfish?](http://www.chess.com/article/view/how-rybka-and-i-tried-to-beat-the-strongest-chess-computer-in-the-world) by GM [Daniel Naroditsky](https://en.wikipedia.org/wiki/Daniel_Naroditsky), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), August 08, 2014
-25. [↑](#cite_ref-25) [GM and Rybka vs. Stockfish](http://www.talkchess.com/forum/viewtopic.php?t=53228) by Robert Maddox, [CCC](CCC "CCC"), August 09, 2014
-26. [↑](#cite_ref-26) [Nakamura vs Stockfish, public match 8/23](http://www.talkchess.com/forum/viewtopic.php?t=53315) by Jesse L, [CCC](CCC "CCC"), August 17, 2014
-27. [↑](#cite_ref-27) [Stockfish Outlasts "Rybkamura"](http://www.chess.com/news/stockfish-outlasts-nakamura-3634) by [FM Mike Klein](http://www.chess.com/article/view/chesscom-player-profiles-fm-mikeklein), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), August 24, 2014
-28. [↑](#cite_ref-28) if not mentioned otherwise, based on the sources of Stockfish 6
-29. [↑](#cite_ref-29) [Ryzen and BMI2: Strange behavior and high latencies](https://www.reddit.com/r/Amd/comments/60i6er/ryzen_and_bmi2_strange_behavior_and_high_latencies/) by DonnieTinyHands, [Reddit](https://en.wikipedia.org/wiki/Reddit), March 20, 2017
-30. [↑](#cite_ref-30) [Stockfish/position.h at sf\_12 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/blob/sf_12/src/position.h#L193)
-31. [↑](#cite_ref-31) [Remove piece lists by syzygy1 · Pull Request #3247 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3247)
-32. [↑](#cite_ref-32) [Re: piece lists advantage with bit-boards?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69364&start=12) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), December 26, 2018
-33. [↑](#cite_ref-33) [Re: Stockfish 7 progress](http://www.talkchess.com/forum/viewtopic.php?t=58935&start=2) by Lucas Braesch, [CCC](CCC "CCC"), January 17, 2016
-34. [↑](#cite_ref-34) [The Art of Evaluation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=135133&t=15504) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), August 2, 2007
-35. [↑](#cite_ref-35) [Stockfish Evaluation Guide](https://hxim.github.io/Stockfish-Evaluation-Guide/)
-36. [↑](#cite_ref-36) [exoticorn/stockfish-js · GitHub](https://github.com/exoticorn/stockfish-js)
-37. [↑](#cite_ref-37) [Cscuile's Sheets](https://docs.google.com/spreadsheets/d/1ZAIuHR6n-5JTxKQc0XUSx1jyUrgVEcj8DNLKA7-urBw/edit#gid=201239930)
-38. [↑](#cite_ref-38) Part 1 covers [Houdini](Houdini "Houdini"), [Rybka](Rybka "Rybka"), [Komodo](Komodo "Komodo"), Stockfish, [Critter](Critter "Critter"), [Naum](Naum "Naum"), [Chiron](Chiron "Chiron") and [Spike](Spike "Spike")
-39. [↑](#cite_ref-39) [Who is the Master?](http://www.alliot.fr/CHESS/ficga.html.en) from [Jean-Marc Alliot's](Jean-Marc_Alliot "Jean-Marc Alliot") [professional website](http://www.alliot.fr/fpro.html.en)
-40. [↑](#cite_ref-40) [exoticorn/stockfish-js · GitHub](https://github.com/exoticorn/stockfish-js)
-41. [↑](#cite_ref-41) [Delphil 3.3b2 (2334) - Stockfish 030916 (3228), TCEC Season 9 - Rapid, Round 11](http://tcec.chessdom.com/archive.php?se=9&rapid&ga=163), September 16, 2016
-42. [↑](#cite_ref-42) [Use equations for PushAway and PushClose · official-stockfish/Stockfish@5a7b45e · GitHub](https://github.com/official-stockfish/Stockfish/commit/5a7b45eac9dedbf7ebc61d9deb4dd934058d1ca1#diff-4cd6bcdb505b124d7bdc612c4789dc26L57-R59)
-43. [↑](#cite_ref-43) [Update default net to nn-8a08400ed089.nnue by Sopel97 · Pull Request #3474 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3474) by [Tomasz Sobczyk](Tomasz_Sobczyk "Tomasz Sobczyk")
-44. [↑](#cite_ref-44) [Sopel97 (Tomasz Sobczyk) · GitHub](https://github.com/Sopel97)
-45. [↑](#cite_ref-45) [Regan's latest: Depth of Satisficing](http://www.talkchess.com/forum/viewtopic.php?t=57890) by Carl Lumma, [CCC](CCC "CCC"), October 09, 2015
-46. [↑](#cite_ref-46) [An info](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74560) by Sylwy, [CCC](CCC "CCC"), July 25, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> The Stockfish icon was designed by [Klein Maetschke](http://iamkle.in/), [About - Stockfish](https://stockfishchess.org/about/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Stockfish - Open Source Chess Engine](https://stockfishchess.org/), The Stockfish 12 icon was designed by [Klein Maetschke](http://iamkle.in/), [About - Stockfish](https://stockfishchess.org/about/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Stockfish 7](http://www.talkchess.com/forum/viewtopic.php?t=58779) by [Joona Kiiski](Joona_Kiiski "Joona Kiiski"), [CCC](CCC "CCC"), January 02, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Stockfish 1.0](http://www.talkchess.com/forum/viewtopic.php?t=24675) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), November 02, 2008
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Smaug: a new chess engine based on glaurung](http://www.talkchess.com/forum/viewtopic.php?t=26971&start=1) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), March 12, 2009
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Matthew Lai](Matthew_Lai "Matthew Lai"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2017**). *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm*. [arXiv:1712.01815](https://arxiv.org/abs/1712.01815)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Stockfish on github](http://www.talkchess.com/forum/viewtopic.php?t=40610) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), October 02, 2011
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Stockfish NN release (NNUE)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74059) by [Henk Drost](index.php?title=Henk_Drost&action=edit&redlink=1 "Henk Drost (page does not exist)"), [CCC](CCC "CCC"), May 31, 2020
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Stockfish 12](https://stockfishchess.org/blog/2020/stockfish-12/), The Stockfish Team, [Stockfish Blog](https://blog.stockfishchess.org/), September 02, 2020
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Stockfish 13](https://stockfishchess.org/blog/2021/stockfish-13/), The Stockfish Team, February 19, 2021
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Stockfish 14](https://stockfishchess.org/blog/2021/stockfish-14/), The Stockfish Team, July 02, 2021
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [GitHub - Stockfish commit, Remove classical evaluation](https://github.com/official-stockfish/Stockfish/commit/af110e02ec96cdb46cf84c68252a1da15a902395)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [About - Stockfish](https://stockfishchess.org/about/)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [glinscott/fishtest · GitHub](https://github.com/glinscott/fishtest)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Get Involved - Stockfish - Powerful Open Source Chess Engine](http://stockfishchess.org/get-involved/)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Fishtest Distributed Testing Framework](http://www.talkchess.com/forum/viewtopic.php?t=47885) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), May 01, 2013
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [The Pyramid Web Framework — The Pyramid Web Framework v1.5](http://docs.pylonsproject.org/projects/pyramid/en/latest/)
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Stockfish Testing Framework - Users](http://tests.stockfishchess.org/users)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Stockfish Testing Framework](http://tests.stockfishchess.org/tests)
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Adam's Computer Chess Pages: Stockfish Progression](http://adamsccpages.blogspot.com/p/sf-framework-history.html) by [Adam Hair](Adam_Hair "Adam Hair")
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Re: How far away are we from deep learning Stockfish, Komodo](http://www.talkchess.com/forum/viewtopic.php?t=64025&start=27) by [Gary](Gary_Linscott "Gary Linscott"), [CCC](CCC "CCC"), May 21, 2017
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Stockfish Evaluation Guide](https://hxim.github.io/Stockfish-Evaluation-Guide/)
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Stockfish Evaluation Guide - NNUE](https://hxim.github.io/Stockfish-Evaluation-Guide/?p=nnue)
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Can a GM and Rybka beat Stockfish?](http://www.chess.com/article/view/how-rybka-and-i-tried-to-beat-the-strongest-chess-computer-in-the-world) by GM [Daniel Naroditsky](https://en.wikipedia.org/wiki/Daniel_Naroditsky), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), August 08, 2014
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [GM and Rybka vs. Stockfish](http://www.talkchess.com/forum/viewtopic.php?t=53228) by Robert Maddox, [CCC](CCC "CCC"), August 09, 2014
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Nakamura vs Stockfish, public match 8/23](http://www.talkchess.com/forum/viewtopic.php?t=53315) by Jesse L, [CCC](CCC "CCC"), August 17, 2014
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [Stockfish Outlasts "Rybkamura"](http://www.chess.com/news/stockfish-outlasts-nakamura-3634) by [FM Mike Klein](http://www.chess.com/article/view/chesscom-player-profiles-fm-mikeklein), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), August 24, 2014
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> if not mentioned otherwise, based on the sources of Stockfish 6
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [Ryzen and BMI2: Strange behavior and high latencies](https://www.reddit.com/r/Amd/comments/60i6er/ryzen_and_bmi2_strange_behavior_and_high_latencies/) by DonnieTinyHands, [Reddit](https://en.wikipedia.org/wiki/Reddit), March 20, 2017
+30. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Stockfish/position.h at sf\_12 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/blob/sf_12/src/position.h#L193)
+31. <a id="cite-ref-31" href="#cite-note-31">↑</a> [Remove piece lists by syzygy1 · Pull Request #3247 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3247)
+32. <a id="cite-ref-32" href="#cite-note-32">↑</a> [Re: piece lists advantage with bit-boards?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69364&start=12) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), December 26, 2018
+33. <a id="cite-ref-33" href="#cite-note-33">↑</a> [Re: Stockfish 7 progress](http://www.talkchess.com/forum/viewtopic.php?t=58935&start=2) by Lucas Braesch, [CCC](CCC "CCC"), January 17, 2016
+34. <a id="cite-ref-34" href="#cite-note-34">↑</a> [The Art of Evaluation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=135133&t=15504) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), August 2, 2007
+35. <a id="cite-ref-35" href="#cite-note-35">↑</a> [Stockfish Evaluation Guide](https://hxim.github.io/Stockfish-Evaluation-Guide/)
+36. <a id="cite-ref-36" href="#cite-note-36">↑</a> [exoticorn/stockfish-js · GitHub](https://github.com/exoticorn/stockfish-js)
+37. <a id="cite-ref-37" href="#cite-note-37">↑</a> [Cscuile's Sheets](https://docs.google.com/spreadsheets/d/1ZAIuHR6n-5JTxKQc0XUSx1jyUrgVEcj8DNLKA7-urBw/edit#gid=201239930)
+38. <a id="cite-ref-38" href="#cite-note-38">↑</a> Part 1 covers [Houdini](Houdini "Houdini"), [Rybka](Rybka "Rybka"), [Komodo](Komodo "Komodo"), Stockfish, [Critter](Critter "Critter"), [Naum](Naum "Naum"), [Chiron](Chiron "Chiron") and [Spike](Spike "Spike")
+39. <a id="cite-ref-39" href="#cite-note-39">↑</a> [Who is the Master?](http://www.alliot.fr/CHESS/ficga.html.en) from [Jean-Marc Alliot's](Jean-Marc_Alliot "Jean-Marc Alliot") [professional website](http://www.alliot.fr/fpro.html.en)
+40. <a id="cite-ref-40" href="#cite-note-40">↑</a> [exoticorn/stockfish-js · GitHub](https://github.com/exoticorn/stockfish-js)
+41. <a id="cite-ref-41" href="#cite-note-41">↑</a> [Delphil 3.3b2 (2334) - Stockfish 030916 (3228), TCEC Season 9 - Rapid, Round 11](http://tcec.chessdom.com/archive.php?se=9&rapid&ga=163), September 16, 2016
+42. <a id="cite-ref-42" href="#cite-note-42">↑</a> [Use equations for PushAway and PushClose · official-stockfish/Stockfish@5a7b45e · GitHub](https://github.com/official-stockfish/Stockfish/commit/5a7b45eac9dedbf7ebc61d9deb4dd934058d1ca1#diff-4cd6bcdb505b124d7bdc612c4789dc26L57-R59)
+43. <a id="cite-ref-43" href="#cite-note-43">↑</a> [Update default net to nn-8a08400ed089.nnue by Sopel97 · Pull Request #3474 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3474) by [Tomasz Sobczyk](Tomasz_Sobczyk "Tomasz Sobczyk")
+44. <a id="cite-ref-44" href="#cite-note-44">↑</a> [Sopel97 (Tomasz Sobczyk) · GitHub](https://github.com/Sopel97)
+45. <a id="cite-ref-45" href="#cite-note-45">↑</a> [Regan's latest: Depth of Satisficing](http://www.talkchess.com/forum/viewtopic.php?t=57890) by Carl Lumma, [CCC](CCC "CCC"), October 09, 2015
+46. <a id="cite-ref-46" href="#cite-note-46">↑</a> [An info](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74560) by Sylwy, [CCC](CCC "CCC"), July 25, 2020
 
 **[Up one Level](Engines "Engines")**
 

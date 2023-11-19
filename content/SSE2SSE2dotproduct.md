@@ -4,7 +4,7 @@ title: SSE2SSE2dotproduct
 **[Home](Home "Home") \* [Hardware](Hardware "Hardware") \* [x86](X86 "X86") \* SSE2**
 
 
-**SSE2** (Streaming SIMD Extensions 2) and further [x86](X86 "X86")- or [x86-64](X86-64 "X86-64") streaming [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") extensions, like [SSE3](SSE3 "SSE3"), [SSSE3](SSSE3 "SSSE3"), [SSE4](SSE4 "SSE4") and AMD's announced [SSE5](SSE5 "SSE5"), as major enhancement to [SSE](SSE "SSE"), provide an instruction set on 128-bit registers, namely on [vectors](Array "Array") of four [floats](Float "Float") or two [doubles](Double "Double"), as well since SSE2 as vectors of 16 [bytes](Byte "Byte"), eight [words](Word "Word"), four [double words](Double_Word "Double Word") or two [quad words](Quad_Word "Quad Word") [[1]](#cite_note-1). In 64-bit mode there are 16 xmm registers available, xmm0..xmm15, in 32-bit mode only eight, xmm0..xmm7. SSE is explicitly available through [C](C "C")-Compiler intrinsics [[2]](#cite_note-2) or (inline) [assembly](Assembly "Assembly"). Some compiler implicitly use SSE-float and double instructions for floating point data types, others even provide automatic SSE2 vectorization, while processing [arrays](Array "Array") of various integer types. SSE- and SSE2-intrinsic functions are available in [Visual C](https://en.wikipedia.org/wiki/Visual_C%2B%2B) [[3]](#cite_note-3) or [Intel-C](https://en.wikipedia.org/wiki/Intel_C%2B%2B_Compiler) [[4]](#cite_note-4).
+**SSE2** (Streaming SIMD Extensions 2) and further [x86](X86 "X86")- or [x86-64](X86-64 "X86-64") streaming [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") extensions, like [SSE3](SSE3 "SSE3"), [SSSE3](SSSE3 "SSSE3"), [SSE4](SSE4 "SSE4") and AMD's announced [SSE5](SSE5 "SSE5"), as major enhancement to [SSE](SSE "SSE"), provide an instruction set on 128-bit registers, namely on [vectors](Array "Array") of four [floats](Float "Float") or two [doubles](Double "Double"), as well since SSE2 as vectors of 16 [bytes](Byte "Byte"), eight [words](Word "Word"), four [double words](Double_Word "Double Word") or two [quad words](Quad_Word "Quad Word") <a id="cite-note-1" href="#cite-ref-1">[1]</a>. In 64-bit mode there are 16 xmm registers available, xmm0..xmm15, in 32-bit mode only eight, xmm0..xmm7. SSE is explicitly available through [C](C "C")-Compiler intrinsics <a id="cite-note-2" href="#cite-ref-2">[2]</a> or (inline) [assembly](Assembly "Assembly"). Some compiler implicitly use SSE-float and double instructions for floating point data types, others even provide automatic SSE2 vectorization, while processing [arrays](Array "Array") of various integer types. SSE- and SSE2-intrinsic functions are available in [Visual C](https://en.wikipedia.org/wiki/Visual_C%2B%2B) <a id="cite-note-3" href="#cite-ref-3">[3]</a> or [Intel-C](https://en.wikipedia.org/wiki/Intel_C%2B%2B_Compiler) <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
 
 
@@ -165,7 +165,7 @@ __m128i eastAttacks (__m128i occ, __m128i rooks) {
 ### SSE2 dot product
 
 
-The [dot product](https://en.wikipedia.org/wiki/Dot_product) [[5]](#cite_note-5) of a vector of [bits](Bit "Bit") by a weight vector of [bytes](Byte "Byte") might be used in determining [mobility](Mobility "Mobility") for [evaluation](Evaluation "Evaluation") purposes. The vector of bits is a bitboard of all squares attacked by one (or multiple) piece(s), while the the weight vector considers the "importance" of [squares](Squares "Squares"), like center control, or even [square controls](King_Safety#SquareControl "King Safety") near the opponent [king](King "King"), e.g. by providing 64 weight vectors for each king square.
+The [dot product](https://en.wikipedia.org/wiki/Dot_product) <a id="cite-note-5" href="#cite-ref-5">[5]</a> of a vector of [bits](Bit "Bit") by a weight vector of [bytes](Byte "Byte") might be used in determining [mobility](Mobility "Mobility") for [evaluation](Evaluation "Evaluation") purposes. The vector of bits is a bitboard of all squares attacked by one (or multiple) piece(s), while the the weight vector considers the "importance" of [squares](Squares "Squares"), like center control, or even [square controls](King_Safety#SquareControl "King Safety") near the opponent [king](King "King"), e.g. by providing 64 weight vectors for each king square.
 
 
 
@@ -257,7 +257,7 @@ int dotProduct64(U64 bb, BYTE weights[] /* XMM_ALIGN */)
 ### Rotated Dot Product
 
 
-A little bit cheaper is to expand the bitboard to a vector of 90 degree rotated {0,255} bytes, which requires a rotated weight vector as well [[6]](#cite_note-6).
+A little bit cheaper is to expand the bitboard to a vector of 90 degree rotated {0,255} bytes, which requires a rotated weight vector as well <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
 
 
@@ -310,7 +310,7 @@ int dotProduct64(U64 bb, BYTE weightsRot90[] /* XMM_ALIGN */)
 ### SSE2 Population Count
 
 
-Following proposal of a [SWAR-Popcount](Population_Count#SWARPopcount "Population Count") combined with a dot product might be quite competitive on recent [x86-64](X86-64 "X86-64") processors with a throughput of up to three simd-instructions per cycle [[7]](#cite_note-7) [[8]](#cite_note-8) . It determines the cardinalities of eight bitboards, multiplies them with a corresponding weight, a signed 16-bit [word](Word "Word"), to finally add all together as integer. However, [Wojciech Muła's](Wojciech_Mu%C5%82a "Wojciech Muła") [SSSE3 PopCnt](SSSE3#PopCount "SSSE3") would save some more cycles, even more with doubled or fourfold register widths using [AVX2](AVX2 "AVX2") or [AVX-512](AVX-512 "AVX-512").
+Following proposal of a [SWAR-Popcount](Population_Count#SWARPopcount "Population Count") combined with a dot product might be quite competitive on recent [x86-64](X86-64 "X86-64") processors with a throughput of up to three simd-instructions per cycle <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> . It determines the cardinalities of eight bitboards, multiplies them with a corresponding weight, a signed 16-bit [word](Word "Word"), to finally add all together as integer. However, [Wojciech Muła's](Wojciech_Mu%C5%82a "Wojciech Muła") [SSSE3 PopCnt](SSSE3#PopCount "SSSE3") would save some more cycles, even more with doubled or fourfold register widths using [AVX2](AVX2 "AVX2") or [AVX-512](AVX-512 "AVX-512").
 
 
 
@@ -510,7 +510,7 @@ class GPR : public DBB
 * [SSEPlus Project Documentation](http://sseplus.sourceforge.net/index.html)
 * [Intel Intrinsics Guide](http://software.intel.com/sites/landingpage/IntrinsicsGuide/)
 * [The Software Vectorization HandBook](http://www.aartbik.com/simd.php) by [Aart Bik](Aart_Bik "Aart Bik")
-* [Kraan](Category:Kraan "Category:Kraan") - Vollgas Ahoi [[9]](#cite_note-9), [Rätschenmühle](https://www.swp.de/suedwesten/staedte/geislingen/raetsche-geislingen-aus-der-raetschenmuehle-live-in-die-wohnzimmer-44964276.html), [Geislingen](https://en.wikipedia.org/wiki/Geislingen_an_der_Steige), April 25, 2009, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+* [Kraan](Category:Kraan "Category:Kraan") - Vollgas Ahoi <a id="cite-note-9" href="#cite-ref-9">[9]</a>, [Rätschenmühle](https://www.swp.de/suedwesten/staedte/geislingen/raetsche-geislingen-aus-der-raetschenmuehle-live-in-die-wohnzimmer-44964276.html), [Geislingen](https://en.wikipedia.org/wiki/Geislingen_an_der_Steige), April 25, 2009, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
 
 
  lineup: [Hellmut Hattler](Category:Hellmut_Hattler "Category:Hellmut Hattler"), [Peter Wolbrandt](https://en.wikipedia.org/wiki/Peter_Wolbrandt), [Jan Fride Wolbrandt](https://www.discogs.com/artist/345783-Jan-Fride-Wolbrandt)
@@ -518,15 +518,15 @@ class GPR : public DBB
 ## References
 
 
-1. [↑](#cite_ref-1) [AMD64 Architecture Programmer’s Manual Volume 4: 128-Bit and 256-Bit Media Instructions](https://support.amd.com/TechDocs/26568.pdf) (pdf), has detailed explanations on all SSE2 128-Bit Media Instructions
-2. [↑](#cite_ref-2) [Integer Intrinsics Using Streaming SIMD Extensions 2](http://msdn.microsoft.com/en-us/library/84t4h8ys%28v=VS.100%29.aspx) Visual C++ Developer Center - Run-Time Library Reference
-3. [↑](#cite_ref-3) [Instruction Reference](http://msdn.microsoft.com/en-us/library/x8zs5twb%28v=VS.100%29.aspx) Visual C++ Developer Center - Run-Time Library Reference
-4. [↑](#cite_ref-4) [Intel Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
-5. [↑](#cite_ref-5) [Dot Product - from Wolfram MathWorld](http://mathworld.wolfram.com/DotProduct.html)
-6. [↑](#cite_ref-6) [SSE2 bit[64] \* byte[64] dot product](https://www.stmintz.com/ccc/index.php?id=377546) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), July 17, 2004
-7. [↑](#cite_ref-7) [Intel 64 and IA32 Architectures Optimization Reference Manual](http://www.intel.com/design/processor/manuals/248966.pdf) (pdf) Appendix C Instruction Latencies
-8. [↑](#cite_ref-8) [Software Optimization Guide for AMD Family 10h and 12h Processors](https://www.amd.com/system/files/TechDocs/40546.pdf) (pdf) Appendix C Instruction Latencies
-9. [↑](#cite_ref-9) [Vollgas - Wiktionary](https://en.wiktionary.org/wiki/Vollgas), [ahoi - Wiktionary](https://en.wiktionary.org/wiki/ahoi)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [AMD64 Architecture Programmer’s Manual Volume 4: 128-Bit and 256-Bit Media Instructions](https://support.amd.com/TechDocs/26568.pdf) (pdf), has detailed explanations on all SSE2 128-Bit Media Instructions
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Integer Intrinsics Using Streaming SIMD Extensions 2](http://msdn.microsoft.com/en-us/library/84t4h8ys%28v=VS.100%29.aspx) Visual C++ Developer Center - Run-Time Library Reference
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Instruction Reference](http://msdn.microsoft.com/en-us/library/x8zs5twb%28v=VS.100%29.aspx) Visual C++ Developer Center - Run-Time Library Reference
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Intel Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dot Product - from Wolfram MathWorld](http://mathworld.wolfram.com/DotProduct.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [SSE2 bit[64] \* byte[64] dot product](https://www.stmintz.com/ccc/index.php?id=377546) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), July 17, 2004
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Intel 64 and IA32 Architectures Optimization Reference Manual](http://www.intel.com/design/processor/manuals/248966.pdf) (pdf) Appendix C Instruction Latencies
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Software Optimization Guide for AMD Family 10h and 12h Processors](https://www.amd.com/system/files/TechDocs/40546.pdf) (pdf) Appendix C Instruction Latencies
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Vollgas - Wiktionary](https://en.wiktionary.org/wiki/Vollgas), [ahoi - Wiktionary](https://en.wiktionary.org/wiki/ahoi)
 
 **[Up one Level](X86 "X86")**
 

@@ -5,14 +5,14 @@ title: 4th Computer OlympiadChess
 
 **[\< Prev](3rd_Computer_Olympiad "3rd Computer Olympiad") [Next >](5th_Computer_Olympiad "5th Computer Olympiad")**
 
-\[ Park Lane Hotel [[1]](#cite_note-1)
-The **Fourth Computer Olympiad** was held from August 5 to 11, [1992](Timeline#1992 "Timeline"), in the Ballroom of the [Park Lane Hotel](https://en.wikipedia.org/wiki/Park_Lane_Hotel), [London](https://en.wikipedia.org/wiki/London), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom). [David Levy](David_Levy "David Levy") was the organizer. The event was sponsored by [AST](https://en.wikipedia.org/wiki/AST_Research), [Walter Bannerman](Walter_Bannerman "Walter Bannerman") was supported by [Unicible S.A.](http://fr.wikipedia.org/wiki/Unicible), [Lausanne](https://en.wikipedia.org/wiki/Lausanne) and [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)"), Lausanne [[2]](#cite_note-2) . A few days later at the same place, [Marion Tinsley](https://en.wikipedia.org/wiki/Marion_Tinsley) won the [Checkers](Checkers "Checkers") Man vs. Machine World Championship by virtue of a 4-2 score (with 33 draws) over [Chinook](https://en.wikipedia.org/wiki/Chinook_%28draughts_player%29) [[3]](#cite_note-3) [[4]](#cite_note-4). The [Heuristic Programming in Artificial Intelligence](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") conference was again held during the 4th Computer Olympiad, but proceedings were not published.
+\[ Park Lane Hotel <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+The **Fourth Computer Olympiad** was held from August 5 to 11, [1992](Timeline#1992 "Timeline"), in the Ballroom of the [Park Lane Hotel](https://en.wikipedia.org/wiki/Park_Lane_Hotel), [London](https://en.wikipedia.org/wiki/London), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom). [David Levy](David_Levy "David Levy") was the organizer. The event was sponsored by [AST](https://en.wikipedia.org/wiki/AST_Research), [Walter Bannerman](Walter_Bannerman "Walter Bannerman") was supported by [Unicible S.A.](http://fr.wikipedia.org/wiki/Unicible), [Lausanne](https://en.wikipedia.org/wiki/Lausanne) and [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)"), Lausanne <a id="cite-note-2" href="#cite-ref-2">[2]</a> . A few days later at the same place, [Marion Tinsley](https://en.wikipedia.org/wiki/Marion_Tinsley) won the [Checkers](Checkers "Checkers") Man vs. Machine World Championship by virtue of a 4-2 score (with 33 draws) over [Chinook](https://en.wikipedia.org/wiki/Chinook_%28draughts_player%29) <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. The [Heuristic Programming in Artificial Intelligence](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") conference was again held during the 4th Computer Olympiad, but proceedings were not published.
 
 ## Results
 
 ## [Awari](Awari "Awari")
 
-**[\< Prev](3rd_Computer_Olympiad#Awari "3rd Computer Olympiad") [Next >](5th_Computer_Olympiad#Awari "5th Computer Olympiad")** [[5]](#cite_note-5)
+**[\< Prev](3rd_Computer_Olympiad#Awari "3rd Computer Olympiad") [Next >](5th_Computer_Olympiad#Awari "5th Computer Olympiad")** <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 |  #
 |  Program
@@ -38,7 +38,7 @@ The **Fourth Computer Olympiad** was held from August 5 to 11, [1992](Timeline#1
 
 ## [Backgammon](Backgammon "Backgammon")
 
-**[\< Prev](2nd_Computer_Olympiad#Backgammon "2nd Computer Olympiad") [Next >](7th_Computer_Olympiad#Backgammon "7th Computer Olympiad")** [[6]](#cite_note-6)
+**[\< Prev](2nd_Computer_Olympiad#Backgammon "2nd Computer Olympiad") [Next >](7th_Computer_Olympiad#Backgammon "7th Computer Olympiad")** <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 |  #
 |  Program
@@ -64,7 +64,7 @@ The **Fourth Computer Olympiad** was held from August 5 to 11, [1992](Timeline#1
 
 ## [Bridge](index.php?title=Bridge&action=edit&redlink=1 "Bridge (page does not exist)")
 
-**[\< Prev](3rd_Computer_Olympiad#Bridge "3rd Computer Olympiad") [Next >](7th_Computer_Olympiad#Bridge "7th Computer Olympiad")** [[7]](#cite_note-7)
+**[\< Prev](3rd_Computer_Olympiad#Bridge "3rd Computer Olympiad") [Next >](7th_Computer_Olympiad#Bridge "7th Computer Olympiad")** <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 |  #
 |  Program
@@ -90,7 +90,7 @@ The **Fourth Computer Olympiad** was held from August 5 to 11, [1992](Timeline#1
 
 ## Chess
 
-**[\< Prev](3rd_Computer_Olympiad#Chess "3rd Computer Olympiad") [Next >](14th_Computer_Olympiad#Chess "14th Computer Olympiad")** [[8]](#cite_note-8)
+**[\< Prev](3rd_Computer_Olympiad#Chess "3rd Computer Olympiad") [Next >](14th_Computer_Olympiad#Chess "14th Computer Olympiad")** <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ### Final Standing
 
@@ -203,7 +203,7 @@ The **Fourth Computer Olympiad** was held from August 5 to 11, [1992](Timeline#1
 
 ### Participants
 
-[[9]](#cite_note-9)
+<a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 |  Program
 |  CC
@@ -239,11 +239,11 @@ The **Fourth Computer Olympiad** was held from August 5 to 11, [1992](Timeline#1
 
 ### Promotion Bug
 
-In the round 3 game [Chess 2175X](Chess_Player_2150 "Chess Player 2150") vs. [Genesis](Genesis_NL "Genesis NL"), [Chris Whittington's](Chris_Whittington "Chris Whittington") program had a [promotion](Promotions "Promotions") [bug](Engine_Testing#bugs "Engine Testing"), and only accepted a minor rook promotion after Genesis promoted to a queen. Arbiter [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") did not allow on the fly fixing of the bug during the game, since it was not I/O but search code, and judged to continue playing, allowing Whittington to correct the position, if Genesis played a diagonal "Rook move". However, Chess 2175X later played a move attacking the pseudo rook diagonally with its undefended queen and Whittington soon resigned. Next round, he withdrew from the tournament, which unfortunately left an odd number of participants [[10]](#cite_note-10) .
+In the round 3 game [Chess 2175X](Chess_Player_2150 "Chess Player 2150") vs. [Genesis](Genesis_NL "Genesis NL"), [Chris Whittington's](Chris_Whittington "Chris Whittington") program had a [promotion](Promotions "Promotions") [bug](Engine_Testing#bugs "Engine Testing"), and only accepted a minor rook promotion after Genesis promoted to a queen. Arbiter [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") did not allow on the fly fixing of the bug during the game, since it was not I/O but search code, and judged to continue playing, allowing Whittington to correct the position, if Genesis played a diagonal "Rook move". However, Chess 2175X later played a move attacking the pseudo rook diagonally with its undefended queen and Whittington soon resigned. Next round, he withdrew from the tournament, which unfortunately left an odd number of participants <a id="cite-note-10" href="#cite-ref-10">[10]</a> .
 
 ## [Chinese Chess](Chinese_Chess "Chinese Chess")
 
-**[\< Prev](3rd_Computer_Olympiad#ChineseChess "3rd Computer Olympiad") [Next >](6th_Computer_Olympiad#ChineseChess "6th Computer Olympiad")** [[11]](#cite_note-11)
+**[\< Prev](3rd_Computer_Olympiad#ChineseChess "3rd Computer Olympiad") [Next >](6th_Computer_Olympiad#ChineseChess "6th Computer Olympiad")** <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 |  #
 |  Program
@@ -271,7 +271,7 @@ In the round 3 game [Chess 2175X](Chess_Player_2150 "Chess Player 2150") vs. [Ge
 
 ## [Draughts](Draughts "Draughts")
 
-**[\< Prev](3rd_Computer_Olympiad#Draughts "3rd Computer Olympiad") [Next >](7th_Computer_Olympiad#Draughts "7th Computer Olympiad")** [[12]](#cite_note-12)
+**[\< Prev](3rd_Computer_Olympiad#Draughts "3rd Computer Olympiad") [Next >](7th_Computer_Olympiad#Draughts "7th Computer Olympiad")** <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 |  #
 |  Program
@@ -293,7 +293,7 @@ In the round 3 game [Chess 2175X](Chess_Player_2150 "Chess Player 2150") vs. [Ge
 
 ## [Gin rummy](index.php?title=Gin_rummy&action=edit&redlink=1 "Gin rummy (page does not exist)")
 
-[[13]](#cite_note-13) [[14]](#cite_note-14)
+<a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 |  #
 |  Program
@@ -318,7 +318,7 @@ In the round 3 game [Chess 2175X](Chess_Player_2150 "Chess Player 2150") vs. [Ge
 
 ### 19x19
 
-[[15]](#cite_note-15)
+<a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 |  #
 |  Program
@@ -348,7 +348,7 @@ In the round 3 game [Chess 2175X](Chess_Player_2150 "Chess Player 2150") vs. [Ge
 
 ### 9x9
 
-[[16]](#cite_note-16)
+<a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 |  #
 |  Program
@@ -377,7 +377,7 @@ In the round 3 game [Chess 2175X](Chess_Player_2150 "Chess Player 2150") vs. [Ge
 
 ## [Gomoku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)")
 
-**[\< Prev](3rd_Computer_Olympiad#Gomoku "3rd Computer Olympiad")** [[17]](#cite_note-17)
+**[\< Prev](3rd_Computer_Olympiad#Gomoku "3rd Computer Olympiad")** <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 
 |  #
 |  Program
@@ -414,7 +414,7 @@ In the round 3 game [Chess 2175X](Chess_Player_2150 "Chess Player 2150") vs. [Ge
 
 ## [Othello](Othello "Othello")
 
-**[\< Prev](3rd_Computer_Olympiad#Othello "3rd Computer Olympiad") [Next >](20th_Computer_Olympiad#Othello "20th Computer Olympiad")** [[18]](#cite_note-18)
+**[\< Prev](3rd_Computer_Olympiad#Othello "3rd Computer Olympiad") [Next >](20th_Computer_Olympiad#Othello "20th Computer Olympiad")** <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 |  #
 |  Program
@@ -452,7 +452,7 @@ In the round 3 game [Chess 2175X](Chess_Player_2150 "Chess Player 2150") vs. [Ge
 
 ## [Renju](index.php?title=Renju&action=edit&redlink=1 "Renju (page does not exist)")
 
-**[\< Prev](3rd_Computer_Olympiad#Renju "3rd Computer Olympiad")** [[19]](#cite_note-19)
+**[\< Prev](3rd_Computer_Olympiad#Renju "3rd Computer Olympiad")** <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 
 |  #
 |  Program
@@ -478,7 +478,7 @@ In the round 3 game [Chess 2175X](Chess_Player_2150 "Chess Player 2150") vs. [Ge
 
 ## [Scrabble](index.php?title=Scrabble&action=edit&redlink=1 "Scrabble (page does not exist)")
 
-**[\< Prev](3rd_Computer_Olympiad#Scrabble "3rd Computer Olympiad")** [[20]](#cite_note-20)
+**[\< Prev](3rd_Computer_Olympiad#Scrabble "3rd Computer Olympiad")** <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 
 |  #
 |  Program
@@ -512,23 +512,23 @@ In the round 3 game [Chess 2175X](Chess_Player_2150 "Chess Player 2150") vs. [Ge
 
 ## Conference on Computer Games
 
-The *Heuristic Programming in AI* conference was again held during the 4th Computer Olympiad, dubbed *The AST 4th Conference on Computer Games*, as reported in detail by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") in [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal") [[21]](#cite_note-21), with lectures given below, but proceedings were not published. Instead, some revised papers appeared elsewhere, as indicated by references.
+The *Heuristic Programming in AI* conference was again held during the 4th Computer Olympiad, dubbed *The AST 4th Conference on Computer Games*, as reported in detail by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") in [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal") <a id="cite-note-21" href="#cite-ref-21">[21]</a>, with lectures given below, but proceedings were not published. Instead, some revised papers appeared elsewhere, as indicated by references.
 
-1. [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [Jeng-Chi Yan](index.php?title=Jeng-Chi_Yan&action=edit&redlink=1 "Jeng-Chi Yan (page does not exist)") (**1992**). *Design and Implementation of a Computer Go Program ARCHIMAGE 1.1*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") [[22]](#cite_note-22)
-1. [Thomas Wolf](index.php?title=Thomas_Wolf&action=edit&redlink=1 "Thomas Wolf (page does not exist)") (**1992**). *Generating tsume go problems with GoTools*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") [[23]](#cite_note-23)
+1. [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [Jeng-Chi Yan](index.php?title=Jeng-Chi_Yan&action=edit&redlink=1 "Jeng-Chi Yan (page does not exist)") (**1992**). *Design and Implementation of a Computer Go Program ARCHIMAGE 1.1*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") <a id="cite-note-22" href="#cite-ref-22">[22]</a>
+1. [Thomas Wolf](index.php?title=Thomas_Wolf&action=edit&redlink=1 "Thomas Wolf (page does not exist)") (**1992**). *Generating tsume go problems with GoTools*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 1. [Michael Reiss](index.php?title=Michael_Reiss&action=edit&redlink=1 "Michael Reiss (page does not exist)") (**1992**). *The Algorithms used in Go 4.3, a Go-playing Program*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad")
-1. [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Ralph Gasser](Ralph_Gasser "Ralph Gasser") (**1992**). *Experiments in Computer Go Endgames*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") [[24]](#cite_note-24)
+1. [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Ralph Gasser](Ralph_Gasser "Ralph Gasser") (**1992**). *Experiments in Computer Go Endgames*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 1. [Alexander Lopatin](index.php?title=Alexander_Lopatin&action=edit&redlink=1 "Alexander Lopatin (page does not exist)") (**1992**). *Two Combinatorial Problems in the Game of Bridge*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad")
 1. [Nick Straguzzi](index.php?title=Nick_Straguzzi&action=edit&redlink=1 "Nick Straguzzi (page does not exist)") (**1992**). *Developing the Architecture for a General Bridge-Bidding System*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad")
 1. [Patrick Schoo](index.php?title=Patrick_Schoo&action=edit&redlink=1 "Patrick Schoo (page does not exist)") (**1992**). *Percentage Plays in a Bridge Suit*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad")
-1. [Jacco Gnodde](index.php?title=Jacco_Gnodde&action=edit&redlink=1 "Jacco Gnodde (page does not exist)") (**1992**). *New Search Techniques Applied to Othello*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") [[25]](#cite_note-25)
+1. [Jacco Gnodde](index.php?title=Jacco_Gnodde&action=edit&redlink=1 "Jacco Gnodde (page does not exist)") (**1992**). *New Search Techniques Applied to Othello*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 1. [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Promising-Moves Heuristic and Selective Extensions in Go-Moku*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad")
 1. [Daniel E. Loeb](index.php?title=Daniel_E._Loeb&action=edit&redlink=1 "Daniel E. Loeb (page does not exist)"), [Constantin Staykov](index.php?title=Constantin_Staykov&action=edit&redlink=1 "Constantin Staykov (page does not exist)") (**1992**). *Diplomacy Programming Project*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad")
-1. [Ken Chen](Keh-Hsun_Chen "Keh-Hsun Chen"), [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao") (**1992**). *End Game Theory in Go*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") [[26]](#cite_note-26)
+1. [Ken Chen](Keh-Hsun_Chen "Keh-Hsun Chen"), [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao") (**1992**). *End Game Theory in Go*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 1. [Fred Hallebeek](index.php?title=Fred_Hallebeek&action=edit&redlink=1 "Fred Hallebeek (page does not exist)") (**1992**). *Shogi - A New Challenge in Computer Game Playing*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad")
 1. [Barney Pell](Barney_Pell "Barney Pell") (**1992**). *Metagame Realized: The Player to Beat*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad")
-1. [Victor Allis](Victor_Allis "Victor Allis"), [Matty Huntjens](index.php?title=Matty_Huntjens&action=edit&redlink=1 "Matty Huntjens (page does not exist)") (**1992**). *Go-Moku Goes Home*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") [[27]](#cite_note-27)
-1. [Luis Antunes](index.php?title=Luis_Antunes&action=edit&redlink=1 "Luis Antunes (page does not exist)"), [Luis Moniz](index.php?title=Luis_Moniz&action=edit&redlink=1 "Luis Moniz (page does not exist)"), [Carlos Azevedo](index.php?title=Carlos_Azevedo&action=edit&redlink=1 "Carlos Azevedo (page does not exist)") (**1992**). *Dynamically Estimating the Opponent's Strength*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") [[28]](#cite_note-28)
+1. [Victor Allis](Victor_Allis "Victor Allis"), [Matty Huntjens](index.php?title=Matty_Huntjens&action=edit&redlink=1 "Matty Huntjens (page does not exist)") (**1992**). *Go-Moku Goes Home*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") <a id="cite-note-27" href="#cite-ref-27">[27]</a>
+1. [Luis Antunes](index.php?title=Luis_Antunes&action=edit&redlink=1 "Luis Antunes (page does not exist)"), [Luis Moniz](index.php?title=Luis_Moniz&action=edit&redlink=1 "Luis Moniz (page does not exist)"), [Carlos Azevedo](index.php?title=Carlos_Azevedo&action=edit&redlink=1 "Carlos Azevedo (page does not exist)") (**1992**). *Dynamically Estimating the Opponent's Strength*. [Proceedings of Heuristic Programming in AI 4](4th_Computer_Olympiad#Workshop "4th Computer Olympiad") <a id="cite-note-28" href="#cite-ref-28">[28]</a>
 
 ## Forum Posts
 
@@ -546,34 +546,34 @@ The *Heuristic Programming in AI* conference was again held during the 4th Compu
 
 ## References
 
-1. [↑](#cite_ref-1) [Park Lane Hotel from Wikipedia](https://en.wikipedia.org/wiki/Park_Lane_Hotel)
-1. [↑](#cite_ref-2) [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
-1. [↑](#cite_ref-3) [Chinook - World Man-Machine Checkers Champion](http://webdocs.cs.ualberta.ca/~chinook/matches/1992/London/)
-1. [↑](#cite_ref-4) [Chinook: Twenty Years Later](http://jonathanschaeffer.blogspot.de/2012/08/chinook-twenty-years-later.html) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), August 22, 2012
-1. [↑](#cite_ref-5) [4th Computer Olympiad, Awari - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=92)
-1. [↑](#cite_ref-6) [4th Computer Olympiad, Backgammon - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=95)
-1. [↑](#cite_ref-7) [4th Computer Olympiad, Bridge - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=96)
-1. [↑](#cite_ref-8) [4th Computer Olympiad, Chess - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=119)
-1. [↑](#cite_ref-9) [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
-1. [↑](#cite_ref-10) [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
-1. [↑](#cite_ref-11) [4th Computer Olympiad, Chinese Chess - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=97)
-1. [↑](#cite_ref-12) [4th Computer Olympiad, Draughts - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=102)
-1. [↑](#cite_ref-13) [4th Computer Olympiad, Ginrummy - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=105)
-1. [↑](#cite_ref-14) [Gin rummy from Wikipedia](https://en.wikipedia.org/wiki/Gin_rummy)
-1. [↑](#cite_ref-15) [4th Computer Olympiad, Go - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=52)
-1. [↑](#cite_ref-16) [4th Computer Olympiad, Go (9x9) - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=53)
-1. [↑](#cite_ref-17) [4th Computer Olympiad, Go-Moku - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=118)
-1. [↑](#cite_ref-18) [4th Computer Olympiad, Othello - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=106)
-1. [↑](#cite_ref-19) [4th Computer Olympiad, Renju - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=116)
-1. [↑](#cite_ref-20) [4th Computer Olympiad, Scrabble - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=113)
-1. [↑](#cite_ref-21) [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The AST 4th Conference on Computer Games*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
-1. [↑](#cite_ref-22) [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [Jeng-Chi Yan](index.php?title=Jeng-Chi_Yan&action=edit&redlink=1 "Jeng-Chi Yan (page does not exist)"), [Hongsen Chang](index.php?title=Hongsen_Chang&action=edit&redlink=1 "Hongsen Chang (page does not exist)") (**1994**). *Design and Implementation of a Computer Go Program ARCHIMAGE 1.1.* Journal of Information Sciences and Engineering, Vol. 10
-1. [↑](#cite_ref-23) [GoTools - TsumeGo Solving Software](http://lie.ac.brocku.ca/gotools/index.php?content=papers)
-1. [↑](#cite_ref-24) [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Ralph Gasser](Ralph_Gasser "Ralph Gasser") (**1996**). *Experiments in Computer Go Endgames*. [Games of No Chance](http://library.msri.org/books/Book29/index.html) edited by [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski")
-1. [↑](#cite_ref-25) [Jacco Gnodde](index.php?title=Jacco_Gnodde&action=edit&redlink=1 "Jacco Gnodde (page does not exist)") (**1993**). *AIDA, New Search Techniques Applied to Othello*. [master thesis](http://www.socsci.ru.nl/idak/teaching/leidenmastertheses.html), supervised by [Ida Sprinkhuizen-Kuyper](Ida_Sprinkhuizen-Kuyper "Ida Sprinkhuizen-Kuyper"), [Leiden University](Leiden_University "Leiden University")
-1. [↑](#cite_ref-26)  [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao") (**1993**). *End Game Theory*. M.Sc. thesis, [University of North Carolina at Charlotte](https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Charlotte)
-1. [↑](#cite_ref-27)  [Victor Allis](Victor_Allis "Victor Allis"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Matty Huntjens](index.php?title=Matty_Huntjens&action=edit&redlink=1 "Matty Huntjens (page does not exist)") (**1993**). *Go-Moku Solved by New Search Techniques*. [AAAI](AAAI "AAAI") Technical Report FS-93-02, [pdf](http://www.aaai.org/Papers/Symposia/Fall/1993/FS-93-02/FS93-02-001.pdf)
-1. [↑](#cite_ref-28) [Luis Antunes](index.php?title=Luis_Antunes&action=edit&redlink=1 "Luis Antunes (page does not exist)"), [Luis Moniz](index.php?title=Luis_Moniz&action=edit&redlink=1 "Luis Moniz (page does not exist)"), [Carlos Azevedo](index.php?title=Carlos_Azevedo&action=edit&redlink=1 "Carlos Azevedo (page does not exist)") (**1993**). *[Rb+: the Dynamic Estimation of the Opponent's Strength](https://www.semanticscholar.org/paper/Rb-the-Dynamic-Estimation-of-the-Opponent-s-Antunes-Moniz/4844e9d1694f61d4052a87de94c4aeb2510c2404)*. [INESC-ID](https://en.wikipedia.org/wiki/INESC-ID), [Lisbon](https://en.wikipedia.org/wiki/Lisbon), [Portugal](https://en.wikipedia.org/wiki/Portugal) » [RB](Opponent_Model_Search#RB "Opponent Model Search")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Park Lane Hotel from Wikipedia](https://en.wikipedia.org/wiki/Park_Lane_Hotel)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chinook - World Man-Machine Checkers Champion](http://webdocs.cs.ualberta.ca/~chinook/matches/1992/London/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chinook: Twenty Years Later](http://jonathanschaeffer.blogspot.de/2012/08/chinook-twenty-years-later.html) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), August 22, 2012
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [4th Computer Olympiad, Awari - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=92)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [4th Computer Olympiad, Backgammon - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=95)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [4th Computer Olympiad, Bridge - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=96)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [4th Computer Olympiad, Chess - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=119)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1992**). *The Chess Tournament of the AST 4th Computer Olympiad*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [4th Computer Olympiad, Chinese Chess - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=97)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [4th Computer Olympiad, Draughts - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=102)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [4th Computer Olympiad, Ginrummy - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=105)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Gin rummy from Wikipedia](https://en.wikipedia.org/wiki/Gin_rummy)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [4th Computer Olympiad, Go - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=52)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [4th Computer Olympiad, Go (9x9) - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=53)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [4th Computer Olympiad, Go-Moku - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=118)
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [4th Computer Olympiad, Othello - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=106)
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [4th Computer Olympiad, Renju - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=116)
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [4th Computer Olympiad, Scrabble - London 1992 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=113)
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The AST 4th Conference on Computer Games*. [ICCA Journal, Vol. 15, No. 3](ICGA_Journal#15_3 "ICGA Journal")
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [Jeng-Chi Yan](index.php?title=Jeng-Chi_Yan&action=edit&redlink=1 "Jeng-Chi Yan (page does not exist)"), [Hongsen Chang](index.php?title=Hongsen_Chang&action=edit&redlink=1 "Hongsen Chang (page does not exist)") (**1994**). *Design and Implementation of a Computer Go Program ARCHIMAGE 1.1.* Journal of Information Sciences and Engineering, Vol. 10
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [GoTools - TsumeGo Solving Software](http://lie.ac.brocku.ca/gotools/index.php?content=papers)
+1. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Ralph Gasser](Ralph_Gasser "Ralph Gasser") (**1996**). *Experiments in Computer Go Endgames*. [Games of No Chance](http://library.msri.org/books/Book29/index.html) edited by [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski")
+1. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Jacco Gnodde](index.php?title=Jacco_Gnodde&action=edit&redlink=1 "Jacco Gnodde (page does not exist)") (**1993**). *AIDA, New Search Techniques Applied to Othello*. [master thesis](http://www.socsci.ru.nl/idak/teaching/leidenmastertheses.html), supervised by [Ida Sprinkhuizen-Kuyper](Ida_Sprinkhuizen-Kuyper "Ida Sprinkhuizen-Kuyper"), [Leiden University](Leiden_University "Leiden University")
+1. <a id="cite-ref-26" href="#cite-note-26">↑</a>  [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao") (**1993**). *End Game Theory*. M.Sc. thesis, [University of North Carolina at Charlotte](https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Charlotte)
+1. <a id="cite-ref-27" href="#cite-note-27">↑</a>  [Victor Allis](Victor_Allis "Victor Allis"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Matty Huntjens](index.php?title=Matty_Huntjens&action=edit&redlink=1 "Matty Huntjens (page does not exist)") (**1993**). *Go-Moku Solved by New Search Techniques*. [AAAI](AAAI "AAAI") Technical Report FS-93-02, [pdf](http://www.aaai.org/Papers/Symposia/Fall/1993/FS-93-02/FS93-02-001.pdf)
+1. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Luis Antunes](index.php?title=Luis_Antunes&action=edit&redlink=1 "Luis Antunes (page does not exist)"), [Luis Moniz](index.php?title=Luis_Moniz&action=edit&redlink=1 "Luis Moniz (page does not exist)"), [Carlos Azevedo](index.php?title=Carlos_Azevedo&action=edit&redlink=1 "Carlos Azevedo (page does not exist)") (**1993**). *[Rb+: the Dynamic Estimation of the Opponent's Strength](https://www.semanticscholar.org/paper/Rb-the-Dynamic-Estimation-of-the-Opponent-s-Antunes-Moniz/4844e9d1694f61d4052a87de94c4aeb2510c2404)*. [INESC-ID](https://en.wikipedia.org/wiki/INESC-ID), [Lisbon](https://en.wikipedia.org/wiki/Lisbon), [Portugal](https://en.wikipedia.org/wiki/Portugal) » [RB](Opponent_Model_Search#RB "Opponent Model Search")
 
 **[Up one level](Computer_Olympiad "Computer Olympiad")**
 

@@ -5,7 +5,7 @@ title: Komodo7
 
 
 
- [](https://komodochess.com/Komodo14.htm) Komodo logo [[1]](#cite_note-1) 
+ [](https://komodochess.com/Komodo14.htm) Komodo logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Komodo**,  
 
 a chess engine by primary author [Don Dailey](Don_Dailey "Don Dailey") (died at the age of 57 on November 22, 2013) and since October 2013, by [Mark Lefler](Mark_Lefler "Mark Lefler"), supported by chess advisor and evaluation expert and Don's long time collaborator [Larry Kaufman](Larry_Kaufman "Larry Kaufman"). Since 2015, [opening book expert](Category:Opening_Book_Author "Category:Opening Book Author") [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes") is responsible for Komodo's [book moves](Opening_Book "Opening Book").
@@ -17,14 +17,14 @@ Komodo appeared in January 2010 derived from Don's former engine [Doch](Doch "Do
 Komodo is a standalone chess engine supporting the [UCI](UCI "UCI") protocol and is available for multiple platforms and [operating systems](https://en.wikipedia.org/wiki/Operating_system), and is therefore compatible with free and commercial UCI compliant chess [graphical user interfaces](GUI "GUI") and [database](Databases "Databases") front ends.
 
 
-As of December 2011, Komodo became commercial with version **4** [[2]](#cite_note-2), earlier versions running under [Windows](Windows "Windows"), [Linux](Linux "Linux"), [Mac OS](Mac_OS "Mac OS") and [Android](Android "Android") are available from the Komodo download site, free for non-commercial use [[3]](#cite_note-3) [[4]](#cite_note-4). Next release date was May 2013, with [CCT15](CCT15 "CCT15") winner Komodo **CCT** [[5]](#cite_note-5).
+As of December 2011, Komodo became commercial with version **4** <a id="cite-note-2" href="#cite-ref-2">[2]</a>, earlier versions running under [Windows](Windows "Windows"), [Linux](Linux "Linux"), [Mac OS](Mac_OS "Mac OS") and [Android](Android "Android") are available from the Komodo download site, free for non-commercial use <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Next release date was May 2013, with [CCT15](CCT15 "CCT15") winner Komodo **CCT** <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 
 
 ### Komodo 5
 
 
-Komodo **5.1 MP**, released in June 2013, was a major rewrite in [C++11](Cpp#11 "Cpp"), able to perform a [parallel search](Parallel_Search "Parallel Search") to run on multiple processors [[6]](#cite_note-6) . 
+Komodo **5.1 MP**, released in June 2013, was a major rewrite in [C++11](Cpp#11 "Cpp"), able to perform a [parallel search](Parallel_Search "Parallel Search") to run on multiple processors <a id="cite-note-6" href="#cite-ref-6">[6]</a> . 
 
 
 
@@ -32,7 +32,7 @@ Komodo **5.1 MP**, released in June 2013, was a major rewrite in [C++11](Cpp#11 
 ### Komodo 6
 
 
-In October 2013, Don Dailey announced the release of Komodo **6** and also bad news concerning the future status of Komodo due to his fatal illness of a acute form of [Leukemia](https://en.wikipedia.org/wiki/Leukemia) [[7]](#cite_note-7) . He introduced [Mark Lefler](Mark_Lefler "Mark Lefler") as new member of the Komodo team [[8]](#cite_note-8) [[9]](#cite_note-9) . Don Dailey died November 22, 2013 at age 57, just about the same time that Komodo pulled ahead of [Stockfish](Stockfish "Stockfish") by winning game 2 in the [TCEC Season 5 final](TCEC_Season_5#Superfinal "TCEC Season 5") [[10]](#cite_note-10) [[11]](#cite_note-11) . 
+In October 2013, Don Dailey announced the release of Komodo **6** and also bad news concerning the future status of Komodo due to his fatal illness of a acute form of [Leukemia](https://en.wikipedia.org/wiki/Leukemia) <a id="cite-note-7" href="#cite-ref-7">[7]</a> . He introduced [Mark Lefler](Mark_Lefler "Mark Lefler") as new member of the Komodo team <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a> . Don Dailey died November 22, 2013 at age 57, just about the same time that Komodo pulled ahead of [Stockfish](Stockfish "Stockfish") by winning game 2 in the [TCEC Season 5 final](TCEC_Season_5#Superfinal "TCEC Season 5") <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a> . 
 
 
 
@@ -40,7 +40,7 @@ In October 2013, Don Dailey announced the release of Komodo **6** and also bad n
 ### Komodo TCEC and 7
 
 
-As winner of the TCEC 5 final, Komodo **TCEC** was released on December 04, 2013 [[12]](#cite_note-12), the further improved Komodo **7** on May 21, 2014, now supporting [Syzygy Bases](Syzygy_Bases "Syzygy Bases") [[13]](#cite_note-13), probing code interface implementation by [Jeremy Bernstein](Jeremy_Bernstein "Jeremy Bernstein") [[14]](#cite_note-14).
+As winner of the TCEC 5 final, Komodo **TCEC** was released on December 04, 2013 <a id="cite-note-12" href="#cite-ref-12">[12]</a>, the further improved Komodo **7** on May 21, 2014, now supporting [Syzygy Bases](Syzygy_Bases "Syzygy Bases") <a id="cite-note-13" href="#cite-ref-13">[13]</a>, probing code interface implementation by [Jeremy Bernstein](Jeremy_Bernstein "Jeremy Bernstein") <a id="cite-note-14" href="#cite-ref-14">[14]</a>.
 
 
 
@@ -48,7 +48,7 @@ As winner of the TCEC 5 final, Komodo **TCEC** was released on December 04, 2013
 ### Komodo 8
 
 
-Komodo **8**, released on September 05, 2014, was a substantial improvement over Komodo 7a, which was already rated among the top three chess engines on almost all rating lists [[15]](#cite_note-15). Komodo 8 supports [Syzygy Bases](Syzygy_Bases "Syzygy Bases") and is available for [Windows](Windows "Windows"), [Linux](Linux "Linux"), [Mac OS](Mac_OS "Mac OS") and [Android](Android "Android"), the latter immediately available for import in [Chess for Android](Chess_for_Android "Chess for Android") and in [Chess for Glass](Chess_for_Glass "Chess for Glass") [[16]](#cite_note-16). Since mid September 2014, Komodo 8 for Windows is available as [ChessBase](ChessBase "ChessBase") engine, bundled with the [Deep Fritz interface](Fritz#DeepFritz14 "Fritz"), Syzygy bases not included [[17]](#cite_note-17).
+Komodo **8**, released on September 05, 2014, was a substantial improvement over Komodo 7a, which was already rated among the top three chess engines on almost all rating lists <a id="cite-note-15" href="#cite-ref-15">[15]</a>. Komodo 8 supports [Syzygy Bases](Syzygy_Bases "Syzygy Bases") and is available for [Windows](Windows "Windows"), [Linux](Linux "Linux"), [Mac OS](Mac_OS "Mac OS") and [Android](Android "Android"), the latter immediately available for import in [Chess for Android](Chess_for_Android "Chess for Android") and in [Chess for Glass](Chess_for_Glass "Chess for Glass") <a id="cite-note-16" href="#cite-ref-16">[16]</a>. Since mid September 2014, Komodo 8 for Windows is available as [ChessBase](ChessBase "ChessBase") engine, bundled with the [Deep Fritz interface](Fritz#DeepFritz14 "Fritz"), Syzygy bases not included <a id="cite-note-17" href="#cite-ref-17">[17]</a>.
 
 
 
@@ -56,7 +56,7 @@ Komodo **8**, released on September 05, 2014, was a substantial improvement over
 ### Komodo 9
 
 
-Komodo **9**, released on April 28, 2015, continued the progress with approximately +50 Elo over Komodo 8 due to improved [search](Search "Search"), [evaluation](Evaluation "Evaluation"), and [time management](Time_Management "Time Management"), as well as more efficient use of multiprocessing [[18]](#cite_note-18). Most noticeable is the increase in [search depth](Depth "Depth") reached in a given amount of time, which is due to better [extension](Extensions "Extensions"), [reduction](Reductions "Reductions"), and [pruning](Pruning "Pruning") rules [[19]](#cite_note-19). Further, Komodo 9 now features [Chess960](Chess960 "Chess960") and a [persistant hash](Persistent_Hash_Table "Persistent Hash Table") to save and restore analysis.
+Komodo **9**, released on April 28, 2015, continued the progress with approximately +50 Elo over Komodo 8 due to improved [search](Search "Search"), [evaluation](Evaluation "Evaluation"), and [time management](Time_Management "Time Management"), as well as more efficient use of multiprocessing <a id="cite-note-18" href="#cite-ref-18">[18]</a>. Most noticeable is the increase in [search depth](Depth "Depth") reached in a given amount of time, which is due to better [extension](Extensions "Extensions"), [reduction](Reductions "Reductions"), and [pruning](Pruning "Pruning") rules <a id="cite-note-19" href="#cite-ref-19">[19]</a>. Further, Komodo 9 now features [Chess960](Chess960 "Chess960") and a [persistant hash](Persistent_Hash_Table "Persistent Hash Table") to save and restore analysis.
 
 
 
@@ -64,7 +64,7 @@ Komodo **9**, released on April 28, 2015, continued the progress with approximat
 ### Komodo 10
 
 
-On May 23, 2016, Komodo **10** came with revised and improved [king safety](King_Safety "King Safety"), [pawn storm](King_Safety#PawnStorm "King Safety") and [passed pawn](Passed_Pawn "Passed Pawn") [evaluation](Evaluation "Evaluation"), as well with revised [LMR](Late_Move_Reductions "Late Move Reductions"), [NMP](Null_Move_Pruning "Null Move Pruning"), [IID](Internal_Iterative_Deepening "Internal Iterative Deepening") and [history heuristic](History_Heuristic "History Heuristic") concerning [search](Search "Search"), and is about 60 Elo stronger than Komodo 9 [[20]](#cite_note-20). In [July 2016](#WCCC2016), **Komodo 10.x** won the [Shannon Trophy](Shannon_Trophy "Shannon Trophy"). 
+On May 23, 2016, Komodo **10** came with revised and improved [king safety](King_Safety "King Safety"), [pawn storm](King_Safety#PawnStorm "King Safety") and [passed pawn](Passed_Pawn "Passed Pawn") [evaluation](Evaluation "Evaluation"), as well with revised [LMR](Late_Move_Reductions "Late Move Reductions"), [NMP](Null_Move_Pruning "Null Move Pruning"), [IID](Internal_Iterative_Deepening "Internal Iterative Deepening") and [history heuristic](History_Heuristic "History Heuristic") concerning [search](Search "Search"), and is about 60 Elo stronger than Komodo 9 <a id="cite-note-20" href="#cite-ref-20">[20]</a>. In [July 2016](#WCCC2016), **Komodo 10.x** won the [Shannon Trophy](Shannon_Trophy "Shannon Trophy"). 
 
 
 
@@ -72,7 +72,7 @@ On May 23, 2016, Komodo **10** came with revised and improved [king safety](King
 ### Komodo 11
 
 
-On May 23, 2017, Komodo **11.01** was released, which corrected some minor issues of Komodo 11, which was already released by [ChessBase](ChessBase "ChessBase") a few days before. It is estimated about 55 Elo stronger than Komodo 10 at intermediate time controls, gains related to [evaluation](Evaluation "Evaluation") [[21]](#cite_note-21), revised [quiescence search](Quiescence_Search "Quiescence Search"), [singular extensions](Singular_Extensions "Singular Extensions"), [LMR](Late_Move_Reductions "Late Move Reductions") , and [parallel search](Parallel_Search "Parallel Search") [[22]](#cite_note-22) . Komodo **11.2**, released on July 17, 2017, was the version which won the [WCCC 2017](WCCC_2017 "WCCC 2017") [[23]](#cite_note-23). Komodo **11.3** was released on March 04, 2018 with subsequent improvements [[24]](#cite_note-24). It also comes with a [BMI2](BMI2 "BMI2") compile for compatible [x86-64](X86-64 "X86-64") processors - so far not recommend for [AMD](AMD "AMD") [Ryzen](https://en.wikipedia.org/wiki/Ryzen) due to its slow [PEXT](BMI2#PEXT "BMI2") implementation [[25]](#cite_note-25). 
+On May 23, 2017, Komodo **11.01** was released, which corrected some minor issues of Komodo 11, which was already released by [ChessBase](ChessBase "ChessBase") a few days before. It is estimated about 55 Elo stronger than Komodo 10 at intermediate time controls, gains related to [evaluation](Evaluation "Evaluation") <a id="cite-note-21" href="#cite-ref-21">[21]</a>, revised [quiescence search](Quiescence_Search "Quiescence Search"), [singular extensions](Singular_Extensions "Singular Extensions"), [LMR](Late_Move_Reductions "Late Move Reductions") , and [parallel search](Parallel_Search "Parallel Search") <a id="cite-note-22" href="#cite-ref-22">[22]</a> . Komodo **11.2**, released on July 17, 2017, was the version which won the [WCCC 2017](WCCC_2017 "WCCC 2017") <a id="cite-note-23" href="#cite-ref-23">[23]</a>. Komodo **11.3** was released on March 04, 2018 with subsequent improvements <a id="cite-note-24" href="#cite-ref-24">[24]</a>. It also comes with a [BMI2](BMI2 "BMI2") compile for compatible [x86-64](X86-64 "X86-64") processors - so far not recommend for [AMD](AMD "AMD") [Ryzen](https://en.wikipedia.org/wiki/Ryzen) due to its slow [PEXT](BMI2#PEXT "BMI2") implementation <a id="cite-note-25" href="#cite-ref-25">[25]</a>. 
 
 
 
@@ -81,7 +81,7 @@ On May 23, 2017, Komodo **11.01** was released, which corrected some minor issue
 
 
 Komodo **12** was released in May 2018. Beside the classical, slightly improved engine, Komodo 12 features an optional [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") (MCTS), the release likely influenced by the [AlphaZero](AlphaZero "AlphaZero") hype. 
-However, as confirmed by [Mark Lefler](Mark_Lefler "Mark Lefler") [[26]](#cite_note-26)
+However, as confirmed by [Mark Lefler](Mark_Lefler "Mark Lefler") <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 implementing MCTS was already an old idea of the Komodo team - also due to [Don Dailey's](Don_Dailey "Don Dailey") computer [Go](Go "Go") experience building an [UCT](UCT "UCT") player.
 
 
@@ -91,7 +91,7 @@ implementing MCTS was already an old idea of the Komodo team - also due to [Don 
 
 
 In Komodo's [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") mode the [search tree](Search_Tree "Search Tree") is expanded in [best-first](Best-First "Best-First") manner based on [winning probabilities](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo") 
-determined neither by random playouts nor by a [neural network](Neural_Networks "Neural Networks"), but a tiny [alpha-beta search](Alpha-Beta "Alpha-Beta") plus [quiescence](Quiescence_Search "Quiescence Search") and [static evaluation](Evaluation "Evaluation"), also similar to [UCT](UCT "UCT"), dealing with the crucial trade-off between [exploration and exploitation](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search#Exploration_and_exploitation). While [playing strength](Playing_Strength "Playing Strength") is lower with MCTS, positional play and judgement may well be better in many positions [[27]](#cite_note-27), not to mention a more risky and entertaining playing style.
+determined neither by random playouts nor by a [neural network](Neural_Networks "Neural Networks"), but a tiny [alpha-beta search](Alpha-Beta "Alpha-Beta") plus [quiescence](Quiescence_Search "Quiescence Search") and [static evaluation](Evaluation "Evaluation"), also similar to [UCT](UCT "UCT"), dealing with the crucial trade-off between [exploration and exploitation](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search#Exploration_and_exploitation). While [playing strength](Playing_Strength "Playing Strength") is lower with MCTS, positional play and judgement may well be better in many positions <a id="cite-note-27" href="#cite-ref-27">[27]</a>, not to mention a more risky and entertaining playing style.
 
 
 
@@ -100,7 +100,7 @@ determined neither by random playouts nor by a [neural network](Neural_Networks 
 
 
 In May 2019, Komodo **13** was released with substantial improvements in [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") mode. 
-Quote by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") [[28]](#cite_note-28):
+Quote by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") <a id="cite-note-28" href="#cite-ref-28">[28]</a>:
 
 
 
@@ -117,7 +117,7 @@ The changes from Komodo 12 to 13 in MCTS mode (which is where most of the change
 ### Komodo 14
 
 
-Komodo **14**, released in May 2020 with following improvements announced by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") [[29]](#cite_note-29): 
+Komodo **14**, released in May 2020 with following improvements announced by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") <a id="cite-note-29" href="#cite-ref-29">[29]</a>: 
 
 
 
@@ -134,7 +134,7 @@ The improvements cover a wide range of issues, including [extensions](Extensions
 ### Dragon
 
 
-Along with the release of Komodo **14.1** on November 02, 2020, [Larry Kaufman](Larry_Kaufman "Larry Kaufman") announced **Dragon**, featuring [NNUE](NNUE "NNUE") technology due to support of [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe") and [Dmitry Pervov](Dmitry_Pervov "Dmitry Pervov"), applied and trained with Komodo games and evaluation [[30]](#cite_note-30). Improvements for both standard and MCTS mode are expected in the 150 to 200 Elo range. [Dragon by Komodo Chess](Dragon_by_Komodo_Chess "Dragon by Komodo Chess") was released on November 10, 2020 [[31]](#cite_note-31).
+Along with the release of Komodo **14.1** on November 02, 2020, [Larry Kaufman](Larry_Kaufman "Larry Kaufman") announced **Dragon**, featuring [NNUE](NNUE "NNUE") technology due to support of [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe") and [Dmitry Pervov](Dmitry_Pervov "Dmitry Pervov"), applied and trained with Komodo games and evaluation <a id="cite-note-30" href="#cite-ref-30">[30]</a>. Improvements for both standard and MCTS mode are expected in the 150 to 200 Elo range. [Dragon by Komodo Chess](Dragon_by_Komodo_Chess "Dragon by Komodo Chess") was released on November 10, 2020 <a id="cite-note-31" href="#cite-ref-31">[31]</a>.
 
 
 
@@ -161,13 +161,13 @@ Komodo won the [TCEC Season 5](TCEC_Season_5 "TCEC Season 5"), [TCEC Season 7](T
 
 
 At the [WCCC 2015](WCCC_2015 "WCCC 2015") in [Leiden](https://en.wikipedia.org/wiki/Leiden), Komodo 9.x won the Blitz tournament, and became runner-up behind and losing from the massively parallel and distributed [Jonny](Jonny "Jonny") which played on a cluster of 100x24 cores. 
-After the revenge winning against Jonny at the equal hardware [WCSC 2015](WCSC_2015 "WCSC 2015") a few days later, Komodo was unlucky and made too many draws against apparently weaker opponents [[32]](#cite_note-32), to became third behind [Shredder](Shredder "Shredder") and [Ginkgo](Ginkgo "Ginkgo"). 
+After the revenge winning against Jonny at the equal hardware [WCSC 2015](WCSC_2015 "WCSC 2015") a few days later, Komodo was unlucky and made too many draws against apparently weaker opponents <a id="cite-note-32" href="#cite-ref-32">[32]</a>, to became third behind [Shredder](Shredder "Shredder") and [Ginkgo](Ginkgo "Ginkgo"). 
 Two weeks later, Komodo won the [WCRCC 2015](WCRCC_2015 "WCRCC 2015") convincingly with 9/9!
 
 
 
  [](WCCC_2015 "WCCC 2015") 
-Komodo team [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes") and [Mark Lefler](Mark_Lefler "Mark Lefler") during the [WCCC 2015](WCCC_2015 "WCCC 2015") in [Leiden](https://en.wikipedia.org/wiki/Leiden) [[33]](#cite_note-33)
+Komodo team [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes") and [Mark Lefler](Mark_Lefler "Mark Lefler") during the [WCCC 2015](WCCC_2015 "WCCC 2015") in [Leiden](https://en.wikipedia.org/wiki/Leiden) <a id="cite-note-33" href="#cite-ref-33">[33]</a>
 
 
 
@@ -181,7 +181,7 @@ Two weeks later Komodo defended its [ACCA](ACCA "ACCA") title in rapid chess at 
 
 
  [](https://icga.leidenuniv.nl/?page_id=1930) 
-[WCCC 2016](WCCC_2016 "WCCC 2016"), Komodo team [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes") and [Mark Lefler](Mark_Lefler "Mark Lefler") with [Shannon Trophy](Shannon_Trophy "Shannon Trophy") [[34]](#cite_note-34)
+[WCCC 2016](WCCC_2016 "WCCC 2016"), Komodo team [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes") and [Mark Lefler](Mark_Lefler "Mark Lefler") with [Shannon Trophy](Shannon_Trophy "Shannon Trophy") <a id="cite-note-34" href="#cite-ref-34">[34]</a>
 
 
 
@@ -194,7 +194,7 @@ In [2017](Timeline#2017 "Timeline"), Komodo could defend it titles at the [WCRCC
 
 
  [](File:WCCC2017_Erdo_ShannonTrophy.JPG) 
-[WCCC 2017](WCCC_2017 "WCCC 2017"), Komodo opening book author and operator [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes") with the [Shannon Trophy](Shannon_Trophy "Shannon Trophy") [[35]](#cite_note-35)
+[WCCC 2017](WCCC_2017 "WCCC 2017"), Komodo opening book author and operator [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes") with the [Shannon Trophy](Shannon_Trophy "Shannon Trophy") <a id="cite-note-35" href="#cite-ref-35">[35]</a>
 
 
 
@@ -209,7 +209,7 @@ In [2018](Timeline#2018 "Timeline") [Komodo 12](#12) continued its success by wi
 ### 2019
 
 
-[Komodo 13.1](Komodo#13 "Komodo") [[36]](#cite_note-36) was able to defend both titles at the [ICGA](ICGA "ICGA") [WCCC 2019](WCCC_2019 "WCCC 2019") and [WCSC 2019](WCSC_2019 "WCSC 2019") in [Macau](https://en.wikipedia.org/wiki/Macau), the WCCC on a 128 cores.
+[Komodo 13.1](Komodo#13 "Komodo") <a id="cite-note-36" href="#cite-ref-36">[36]</a> was able to defend both titles at the [ICGA](ICGA "ICGA") [WCCC 2019](WCCC_2019 "WCCC 2019") and [WCSC 2019](WCSC_2019 "WCSC 2019") in [Macau](https://en.wikipedia.org/wiki/Macau), the WCCC on a 128 cores.
 
 
 
@@ -219,7 +219,7 @@ In [2018](Timeline#2018 "Timeline") [Komodo 12](#12) continued its success by wi
 ### Promotions
 
 
-[Don Dailey](Don_Dailey "Don Dailey") on [Minor Promotions](Promotions "Promotions") [[37]](#cite_note-37) :
+[Don Dailey](Don_Dailey "Don Dailey") on [Minor Promotions](Promotions "Promotions") <a id="cite-note-37" href="#cite-ref-37">[37]</a> :
 
 
 
@@ -235,7 +235,7 @@ Komodo never looks at rook or bishop under promotions and only looks at knight u
 ### Centered Point Values
 
 
-In 2012, [Don Dailey](Don_Dailey "Don Dailey") gave following [point values](Point_Value "Point Value") in a kind of [millipawn scale](Millipawns "Millipawns"), [tapered](Tapered_Eval "Tapered Eval") between [opening](Opening "Opening") and [endgame](Endgame "Endgame") phase with [knight](Knight "Knight") and [bishop](Bishop "Bishop") values constant - positional scores from [mobility](Mobility "Mobility") and [piece square tables](Piece-Square_Tables "Piece-Square Tables") centered around zero [[38]](#cite_note-38) :
+In 2012, [Don Dailey](Don_Dailey "Don Dailey") gave following [point values](Point_Value "Point Value") in a kind of [millipawn scale](Millipawns "Millipawns"), [tapered](Tapered_Eval "Tapered Eval") between [opening](Opening "Opening") and [endgame](Endgame "Endgame") phase with [knight](Knight "Knight") and [bishop](Bishop "Bishop") values constant - positional scores from [mobility](Mobility "Mobility") and [piece square tables](Piece-Square_Tables "Piece-Square Tables") centered around zero <a id="cite-note-38" href="#cite-ref-38">[38]</a> :
 
 
 
@@ -267,7 +267,7 @@ In 2012, [Don Dailey](Don_Dailey "Don Dailey") gave following [point values](Poi
 ### Quality of Knowledge
 
 
-[Don Dailey](Don_Dailey "Don Dailey") in a reply to [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") [[39]](#cite_note-39) :
+[Don Dailey](Don_Dailey "Don Dailey") in a reply to [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") <a id="cite-note-39" href="#cite-ref-39">[39]</a> :
 
 
 
@@ -288,7 +288,7 @@ Total amount of [knowledge](Knowledge "Knowledge") is not what is important, it'
 ### Lazy Evaluation
 
 
-[Don Dailey](Don_Dailey "Don Dailey") on [Selectivity](Selectivity "Selectivity") and [Lazy Evaluation](Lazy_Evaluation "Lazy Evaluation") [[40]](#cite_note-40) :
+[Don Dailey](Don_Dailey "Don Dailey") on [Selectivity](Selectivity "Selectivity") and [Lazy Evaluation](Lazy_Evaluation "Lazy Evaluation") <a id="cite-note-40" href="#cite-ref-40">[40]</a> :
 
 
 
@@ -301,7 +301,7 @@ Komodo pushes the selectivity pretty hard and we DO get a decent [nodes per seco
 ### Node Counting
 
 
-[Don Dailey](Don_Dailey "Don Dailey") on counting [nodes](Node "Node") in Komodo 4 [[41]](#cite_note-41) :
+[Don Dailey](Don_Dailey "Don Dailey") on counting [nodes](Node "Node") in Komodo 4 <a id="cite-note-41" href="#cite-ref-41">[41]</a> :
 
 
 
@@ -326,7 +326,7 @@ I have several things in mind for getting serious speedups in future versions of
 ### Parallel Search
 
 
-[Don Dailey](Don_Dailey "Don Dailey") about aspects of [parallel search](Parallel_Search "Parallel Search") in Komodo 5.1 MP [[42]](#cite_note-42)
+[Don Dailey](Don_Dailey "Don Dailey") about aspects of [parallel search](Parallel_Search "Parallel Search") in Komodo 5.1 MP <a id="cite-note-42" href="#cite-ref-42">[42]</a>
 
 
 
@@ -366,7 +366,7 @@ So if you are getting very little benefit out of additional processors you need 
 
 ```
 
-[Larry Kaufman](Larry_Kaufman "Larry Kaufman") in October 2018 [[43]](#cite_note-43):
+[Larry Kaufman](Larry_Kaufman "Larry Kaufman") in October 2018 <a id="cite-note-43" href="#cite-ref-43">[43]</a>:
 
 
 
@@ -388,7 +388,7 @@ Komodo (regular, not MCTS) has had a problem for many years now when running on 
 ## Publications
 
 
-* [Arno Nickel](Arno_Nickel "Arno Nickel") (**2012**). *[Die schöne neue Welt der Schachengines](http://www.edition-marco-shop.de/epages/64079634.sf/de_DE/?ObjectPath=/Shops/64079634/Categories/Schachgeschehen/Computerschach)*. [SCHACH](http://www.zeitschriftschach.de/) 2,3,5,6 2012, [pdf](http://www.edition-marco-shop.de/WebRoot/Store14/Shops/64079634/5177/F0A3/C389/D0DD/3A71/C0A8/2935/25F6/Die_schoene_neue_Welt_der_Schachengines.pdf) (German) [[44]](#cite_note-44)
+* [Arno Nickel](Arno_Nickel "Arno Nickel") (**2012**). *[Die schöne neue Welt der Schachengines](http://www.edition-marco-shop.de/epages/64079634.sf/de_DE/?ObjectPath=/Shops/64079634/Categories/Schachgeschehen/Computerschach)*. [SCHACH](http://www.zeitschriftschach.de/) 2,3,5,6 2012, [pdf](http://www.edition-marco-shop.de/WebRoot/Store14/Shops/64079634/5177/F0A3/C389/D0DD/3A71/C0A8/2935/25F6/Die_schoene_neue_Welt_der_Schachengines.pdf) (German) <a id="cite-note-44" href="#cite-ref-44">[44]</a>
 * [Tamal T. Biswas](Tamal_T._Biswas "Tamal T. Biswas"), [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan") (**2015**). *Measuring Level-K Reasoning, Satisficing, and Human Error in Game-Play Data*. [IEEE](IEEE "IEEE") [ICMLA 2015](http://www.icmla-conference.org/icmla15/), [pdf preprint](http://www.cse.buffalo.edu/~regan/papers/pdf/BiRe15_ICMLA2015.pdf)
 
 
@@ -632,7 +632,7 @@ Komodo (regular, not MCTS) has had a problem for many years now when running on 
 ### Matches
 
 
-* [Komodo knight odd match vs FM Victor Bolzoni : report](http://www.talkchess.com/forum/viewtopic.php?t=57114) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), July 29, 2015 [[45]](#cite_note-45)
+* [Komodo knight odd match vs FM Victor Bolzoni : report](http://www.talkchess.com/forum/viewtopic.php?t=57114) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), July 29, 2015 <a id="cite-note-45" href="#cite-ref-45">[45]</a>
 
 
  [What will the match score be for Komodo against FM Bolzoni?](http://www.talkchess.com/forum/viewtopic.php?t=57053) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), July 22, 2015
@@ -647,8 +647,8 @@ Komodo (regular, not MCTS) has had a problem for many years now when running on 
 * [Komodo vs GM handicap matches](http://www.talkchess.com/forum/viewtopic.php?t=58455) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), December 03, 2015
 * [Komodo vs GM Williams match](http://www.talkchess.com/forum/viewtopic.php?t=58577) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), December 12, 2015
 * [Komodo vs Humanity: Nakamura Will Give It A Go](https://www.chess.com/news/view/komodo-vs-humanity-nakamura-will-give-it-a-go-6514) by [Peter Doggers](Peter_Doggers "Peter Doggers"), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), December 28, 2015
-* [Mikhalevski vs Komodo match](http://www.talkchess.com/forum/viewtopic.php?t=58767) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), January 01, 2016 [[46]](#cite_note-46)
-* [Nakamura vs. Komodo](http://www.talkchess.com/forum/viewtopic.php?t=58799) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), January 04, 2016 [[47]](#cite_note-47)
+* [Mikhalevski vs Komodo match](http://www.talkchess.com/forum/viewtopic.php?t=58767) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), January 01, 2016 <a id="cite-note-46" href="#cite-ref-46">[46]</a>
+* [Nakamura vs. Komodo](http://www.talkchess.com/forum/viewtopic.php?t=58799) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), January 04, 2016 <a id="cite-note-47" href="#cite-ref-47">[47]</a>
 * [TODAY: Nakamura To Play Komodo In Odds Match](https://www.chess.com/article/view/nakamura-to-play-komodo-in-odds-match) by [Peter Doggers](Peter_Doggers "Peter Doggers"), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), January 7, 2016
 * [Komodo Beats Nakamura In Final Battle](https://www.chess.com/news/komodo-beats-nakamura-in-final-battle-1331) by [Sam Copeland](https://schach.chess.com/coach/sam-copeland), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), January 08, 2016
 * [Komodo Coasts To Victory Over Benjamin](https://www.chess.com/news/komodo-coasts-to-victory-over-benjamin-9464) by [Sam Copeland](https://schach.chess.com/coach/sam-copeland), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), March 31, 2016
@@ -667,7 +667,7 @@ Komodo (regular, not MCTS) has had a problem for many years now when running on 
 * [Komodo's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=793)
 * [Komodo (chess) from Wikipedia](https://en.wikipedia.org/wiki/Komodo_%28chess%29)
 * [The chess games of Komodo](http://www.chessgames.com/perl/chessplayer?pid=125290) from [chessgames.com](http://www.chessgames.com/index.html)
-* [Depth of Satisficing](https://rjlipton.wordpress.com/2015/10/06/depth-of-satisficing/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), October 06, 2015  » [Depth](Depth "Depth"), [Match Statistics](Match_Statistics "Match Statistics"), [Pawn Advantage, Win Percentage, and Elo](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo"), [Stockfish](Stockfish "Stockfish"), Komodo [[48]](#cite_note-48)
+* [Depth of Satisficing](https://rjlipton.wordpress.com/2015/10/06/depth-of-satisficing/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), October 06, 2015  » [Depth](Depth "Depth"), [Match Statistics](Match_Statistics "Match Statistics"), [Pawn Advantage, Win Percentage, and Elo](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo"), [Stockfish](Stockfish "Stockfish"), Komodo <a id="cite-note-48" href="#cite-ref-48">[48]</a>
 * [A Chess Firewall at Zero?](https://rjlipton.wordpress.com/2016/01/21/a-chess-firewall-at-zero/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), January 21, 2016
 * [Komodo - Chess Engines](https://www.chess.com/terms/komodo-chess-engine) - [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)")
 
@@ -695,7 +695,7 @@ Komodo (regular, not MCTS) has had a problem for many years now when running on 
 
 * [Thoresen Chess Engine Competition | Denton Chess Club Blog](http://dentonchessclub.co.uk/wp/?p=287) by [Ivan Urwin](index.php?title=Ivan_Urwin&action=edit&redlink=1 "Ivan Urwin (page does not exist)"), October 5, 2013
 * [Komodo wins the Thoresen Chess Engines Competition | Denton Chess Club Blog](http://dentonchessclub.co.uk/wp/?p=531) by [Ivan Urwin](index.php?title=Ivan_Urwin&action=edit&redlink=1 "Ivan Urwin (page does not exist)"), December 01, 2013 » [TCEC Season 5](TCEC_Season_5 "TCEC Season 5")
-* [Roanoke Programmer Dies Days Before Efforts Win World Chess Championship](http://theroanokestar.com/2013/12/06/roanoke-programmer-dies-days-before-efforts-win-world-chess-championship/), [The RoanokeStar.com](http://theroanokestar.com/), December 06, 2013 [[49]](#cite_note-49)
+* [Roanoke Programmer Dies Days Before Efforts Win World Chess Championship](http://theroanokestar.com/2013/12/06/roanoke-programmer-dies-days-before-efforts-win-world-chess-championship/), [The RoanokeStar.com](http://theroanokestar.com/), December 06, 2013 <a id="cite-note-49" href="#cite-ref-49">[49]</a>
 * [One chess champion per laptop](https://thetech.com/2014/01/15/chess-v133-n62) by [Roberto Perez-Franco](http://www.mit.edu/~roberto/), [MIT's](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") [The Tech](https://en.wikipedia.org/wiki/The_Tech_%28newspaper%29), January 15, 2014 » [TCEC Season 5](TCEC_Season_5 "TCEC Season 5")
 
 
@@ -708,7 +708,7 @@ Komodo (regular, not MCTS) has had a problem for many years now when running on 
 * [Komodo 8: about the authors](https://en.chessbase.com/post/komodo-8-about-the-authors), [ChessBase News](ChessBase "ChessBase"), September 19, 2014
 * [Analyzing games with Komodo (Part one)](https://en.chessbase.com/post/analyzing-games-with-komodo-part-one) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), November 12, 2014
 * [Analyzing games with Komodo (Part two)](https://en.chessbase.com/post/analyzing-games-with-komodo-part-two) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), November 13, 2014
-* [Komodo 8: Deep Blue revisited (part one)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-one) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), December 26, 2014 » [Deep Blue](Deep_Blue "Deep Blue"), [Kasparov versus Deep Blue 1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997") [[50]](#cite_note-50)
+* [Komodo 8: Deep Blue revisited (part one)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-one) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), December 26, 2014 » [Deep Blue](Deep_Blue "Deep Blue"), [Kasparov versus Deep Blue 1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997") <a id="cite-note-50" href="#cite-ref-50">[50]</a>
 * [The New Chess World Champion](https://rjlipton.wordpress.com/2014/12/28/the-new-chess-world-champion/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](http://rjlipton.wordpress.com/), December 28, 2014 » [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [TCEC Season 7](TCEC_Season_7 "TCEC Season 7")
 * [The Best Chess Of 2014](https://www.chess.com/article/view/the-best-chess-of-2014) - Chess Engine of the Year, [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), December 29, 2014
 * [Komodo 8: Deep Blue revisited (part two)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-two) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), December 31, 2014
@@ -726,7 +726,7 @@ Komodo (regular, not MCTS) has had a problem for many years now when running on 
 * [Komodo 8 Chess Engine - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.komodochess.komodo)
 * [Komodo 8 for Android](http://aartbik.blogspot.de/2014/09/komodo-8-for-android.html) by [Aart Bik](Aart_Bik "Aart Bik"), September 6, 2014
 * [More on Komodo 8](http://aartbik.blogspot.de/2014/09/more-on-komodo-8.html) by [Aart Bik](Aart_Bik "Aart Bik"), September 9, 2014
-* [Komodo 8: the smartphone vs desktop challenge](https://en.chessbase.com/post/komodo-8-the-smartphone-vs-desktop-challenge) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), September 24, 2014 [[51]](#cite_note-51)
+* [Komodo 8: the smartphone vs desktop challenge](https://en.chessbase.com/post/komodo-8-the-smartphone-vs-desktop-challenge) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), September 24, 2014 <a id="cite-note-51" href="#cite-ref-51">[51]</a>
 
 
 **Komodo 9**
@@ -796,57 +796,57 @@ Komodo (regular, not MCTS) has had a problem for many years now when running on 
 ## References
 
 
-1. [↑](#cite_ref-1) [Komodo 14 Chess Engine - Official Site](https://komodochess.com/Komodo14.htm)
-2. [↑](#cite_ref-2) [Komodo 4 UCI chess engine download](http://komodochess.com/komodo4sp-28a)
-3. [↑](#cite_ref-3) [Available Versions of Komodo](https://komodochess.com/downloads.htm)
-4. [↑](#cite_ref-4) [Komodo chess engine by Don Dailey and Larry Kaufman - Downloads](http://komodochess.com/downloads.php)
-5. [↑](#cite_ref-5) [Komodo CCT release](http://www.talkchess.com/forum/viewtopic.php?t=47906) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), May 03, 2013
-6. [↑](#cite_ref-6) [Komodo 5.1 MP has been released](http://www.talkchess.com/forum/viewtopic.php?t=48316) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), June 17, 2013
-7. [↑](#cite_ref-7) [Komodo release](http://www.talkchess.com/forum/viewtopic.php?t=49535) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), October 01, 2013
-8. [↑](#cite_ref-8) [Re: Who is Don/Larry's new partner!?](http://www.talkchess.com/forum/viewtopic.php?t=49623&start=23) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), October 08, 2013
-9. [↑](#cite_ref-9) [Official announcement - New Komodo Author](http://www.talkchess.com/forum/viewtopic.php?t=49710) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), October 14, 2013
-10. [↑](#cite_ref-10) [Komodo chess engine - Don Daily (1956 - 2013)](http://komodochess.com/store/pages.php?cmsid=10)
-11. [↑](#cite_ref-11) [Don Dailey, 1956-2013](http://www.talkchess.com/forum/viewtopic.php?t=50189) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 23, 2013
-12. [↑](#cite_ref-12) [Komodo TCEC released](http://www.talkchess.com/forum/viewtopic.php?t=50324) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), December 04, 2013
-13. [↑](#cite_ref-13) [Komodo chess engine - Komodo 7](http://komodochess.com/Komodo7-38a.htm)
-14. [↑](#cite_ref-14) [Re: Komodo Syzygy evals](http://www.talkchess.com/forum/viewtopic.php?t=52391&start=7) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 21, 2014
-15. [↑](#cite_ref-15) [Komodo chess engine - Komodo 8](http://komodochess.com/Komodo8-40a.htm)
-16. [↑](#cite_ref-16) [More on Komodo 8](http://aartbik.blogspot.de/2014/09/more-on-komodo-8.html) by [Aart Bik](Aart_Bik "Aart Bik"), September 9, 2014
-17. [↑](#cite_ref-17) [Komodo 8](http://shop.chessbase.com/en/products/komodo_chess_8) - [ChessBase Shop](ChessBase "ChessBase"), September 10, 2014
-18. [↑](#cite_ref-18) [Komodo chess engine - Komodo 9](http://komodochess.com/Komodo9-43a.htm)
-19. [↑](#cite_ref-19) [Komodo 9 Announcement](http://www.talkchess.com/forum/viewtopic.php?t=56092) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), April 22, 2015
-20. [↑](#cite_ref-20) [Komodo chess engine - Komodo 10](https://komodochess.com/Komodo10-50a.htm)
-21. [↑](#cite_ref-21) [Komodo 11.01](http://www.talkchess.com/forum/viewtopic.php?t=64050) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 23, 2017
-22. [↑](#cite_ref-22) [Komodo 11 - Change Log](https://komodochess.com/Komodo11.htm)
-23. [↑](#cite_ref-23) [Komodo 11.2](http://www.talkchess.com/forum/viewtopic.php?t=64638) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), July 17, 2017
-24. [↑](#cite_ref-24) [Komodo 11.3 released](http://www.talkchess.com/forum/viewtopic.php?t=66736) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), March 04, 2018
-25. [↑](#cite_ref-25) [Re: Komodo 11.3](http://www.talkchess.com/forum/viewtopic.php?t=66737&start=4) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), March 04, 2018 » [AMD](AMD "AMD"), [BMI2 PEXT](BMI2#PEXT "BMI2")
-26. [↑](#cite_ref-26) [Re: Komodo 12 and MCTS](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67441&start=25) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), May 14, 2018
-27. [↑](#cite_ref-27) [Komodo 12 and MCTS](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67441) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 14, 2018
-28. [↑](#cite_ref-28) [Re: Komodo 13 released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70681&start=77) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 18, 2019
-29. [↑](#cite_ref-29) [Komodo 14 released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73916) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 12, 2020
-30. [↑](#cite_ref-30) [Komodo 14.1 Release and Dragon Announcement](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75651) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 02, 2020
-31. [↑](#cite_ref-31) [Dragon by Komodo Chess](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75748) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 10, 2020
-32. [↑](#cite_ref-32) [THE upset of the WC: Maverick-Komodo drawn!](http://www.talkchess.com/forum/viewtopic.php?t=56874) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), July 05, 2015
-33. [↑](#cite_ref-33) Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-34. [↑](#cite_ref-34) [ICGA Events 2016: Photos Day 7](https://icga.leidenuniv.nl/?page_id=1930) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
-35. [↑](#cite_ref-35) Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 07, 2017
-36. [↑](#cite_ref-36) [Komodo 13.1 released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71606) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), August 19, 2019
-37. [↑](#cite_ref-37) [Re: Botvinnik Markov revisited](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=358597&t=35124) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), June 27, 2010
-38. [↑](#cite_ref-38) [Re: What is the correct value of the pieces?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=487043&t=45512) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), October 10, 2012
-39. [↑](#cite_ref-39) [Re: How effective is move ordering from TT?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=478054&t=44745) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), August 10, 2012
-40. [↑](#cite_ref-40) [Re: Lazy eval](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=435935&t=41236) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), December 02, 2011
-41. [↑](#cite_ref-41) [Re: Don- Don't understand Komodo 4?? A bug??](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=439445&t=41603) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), December 26, 2011
-42. [↑](#cite_ref-42) [Re: Peculiarity of Komodo 5.1MP](http://www.talkchess.com/forum/viewtopic.php?t=48339&start=24) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), June 19, 2013
-43. [↑](#cite_ref-43) [Re: Komodo MCTS and Komodo (Standard?) in CCCC current Blitz battle](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68626&start=3) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), October 16, 2018
-44. [↑](#cite_ref-44) Part 1 covers [Houdini](Houdini "Houdini"), [Rybka](Rybka "Rybka"), Komodo, [Stockfish](Stockfish "Stockfish"), [Critter](Critter "Critter"), [Naum](Naum "Naum"), [Chiron](Chiron "Chiron") and [Spike](Spike "Spike")
-45. [↑](#cite_ref-45) [Victor Angel Bolzoni - Wikipedia.br](https://br.wikipedia.org/wiki/Victor_Angel_Bolzoni) ([Breton](https://en.wikipedia.org/wiki/Breton_language))
-46. [↑](#cite_ref-46) [Victor Mikhalevski from Wikipedia](https://en.wikipedia.org/wiki/Victor_Mikhalevski)
-47. [↑](#cite_ref-47) [Hikaru Nakamura from Wikipedia](https://en.wikipedia.org/wiki/Hikaru_Nakamura)
-48. [↑](#cite_ref-48) [Regan's latest: Depth of Satisficing](http://www.talkchess.com/forum/viewtopic.php?t=57890) by Carl Lumma, [CCC](CCC "CCC"), October 09, 2015
-49. [↑](#cite_ref-49) [Roanoke Star from Wikipedia](https://en.wikipedia.org/wiki/Roanoke_Star)
-50. [↑](#cite_ref-50) [Komodo 8: Deep Blue revisited (1/2)](http://www.talkchess.com/forum/viewtopic.php?t=54759) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 27, 2014
-51. [↑](#cite_ref-51) [Komodo Android Experiment](http://www.talkchess.com/forum/viewtopic.php?t=53813) by [Ted Summers](Ted_Summers "Ted Summers"), [CCC](CCC "CCC"), September 24, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Komodo 14 Chess Engine - Official Site](https://komodochess.com/Komodo14.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Komodo 4 UCI chess engine download](http://komodochess.com/komodo4sp-28a)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Available Versions of Komodo](https://komodochess.com/downloads.htm)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Komodo chess engine by Don Dailey and Larry Kaufman - Downloads](http://komodochess.com/downloads.php)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Komodo CCT release](http://www.talkchess.com/forum/viewtopic.php?t=47906) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), May 03, 2013
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Komodo 5.1 MP has been released](http://www.talkchess.com/forum/viewtopic.php?t=48316) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), June 17, 2013
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Komodo release](http://www.talkchess.com/forum/viewtopic.php?t=49535) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), October 01, 2013
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Who is Don/Larry's new partner!?](http://www.talkchess.com/forum/viewtopic.php?t=49623&start=23) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), October 08, 2013
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Official announcement - New Komodo Author](http://www.talkchess.com/forum/viewtopic.php?t=49710) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), October 14, 2013
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Komodo chess engine - Don Daily (1956 - 2013)](http://komodochess.com/store/pages.php?cmsid=10)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Don Dailey, 1956-2013](http://www.talkchess.com/forum/viewtopic.php?t=50189) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 23, 2013
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Komodo TCEC released](http://www.talkchess.com/forum/viewtopic.php?t=50324) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), December 04, 2013
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Komodo chess engine - Komodo 7](http://komodochess.com/Komodo7-38a.htm)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Re: Komodo Syzygy evals](http://www.talkchess.com/forum/viewtopic.php?t=52391&start=7) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 21, 2014
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Komodo chess engine - Komodo 8](http://komodochess.com/Komodo8-40a.htm)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [More on Komodo 8](http://aartbik.blogspot.de/2014/09/more-on-komodo-8.html) by [Aart Bik](Aart_Bik "Aart Bik"), September 9, 2014
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Komodo 8](http://shop.chessbase.com/en/products/komodo_chess_8) - [ChessBase Shop](ChessBase "ChessBase"), September 10, 2014
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Komodo chess engine - Komodo 9](http://komodochess.com/Komodo9-43a.htm)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Komodo 9 Announcement](http://www.talkchess.com/forum/viewtopic.php?t=56092) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), April 22, 2015
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Komodo chess engine - Komodo 10](https://komodochess.com/Komodo10-50a.htm)
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Komodo 11.01](http://www.talkchess.com/forum/viewtopic.php?t=64050) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 23, 2017
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Komodo 11 - Change Log](https://komodochess.com/Komodo11.htm)
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Komodo 11.2](http://www.talkchess.com/forum/viewtopic.php?t=64638) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), July 17, 2017
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Komodo 11.3 released](http://www.talkchess.com/forum/viewtopic.php?t=66736) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), March 04, 2018
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Re: Komodo 11.3](http://www.talkchess.com/forum/viewtopic.php?t=66737&start=4) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), March 04, 2018 » [AMD](AMD "AMD"), [BMI2 PEXT](BMI2#PEXT "BMI2")
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Re: Komodo 12 and MCTS](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67441&start=25) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), May 14, 2018
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [Komodo 12 and MCTS](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67441) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 14, 2018
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Re: Komodo 13 released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70681&start=77) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 18, 2019
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [Komodo 14 released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=73916) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 12, 2020
+30. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Komodo 14.1 Release and Dragon Announcement](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75651) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 02, 2020
+31. <a id="cite-ref-31" href="#cite-note-31">↑</a> [Dragon by Komodo Chess](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75748) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 10, 2020
+32. <a id="cite-ref-32" href="#cite-note-32">↑</a> [THE upset of the WC: Maverick-Komodo drawn!](http://www.talkchess.com/forum/viewtopic.php?t=56874) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), July 05, 2015
+33. <a id="cite-ref-33" href="#cite-note-33">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+34. <a id="cite-ref-34" href="#cite-note-34">↑</a> [ICGA Events 2016: Photos Day 7](https://icga.leidenuniv.nl/?page_id=1930) by [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos")
+35. <a id="cite-ref-35" href="#cite-note-35">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), July 07, 2017
+36. <a id="cite-ref-36" href="#cite-note-36">↑</a> [Komodo 13.1 released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71606) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), August 19, 2019
+37. <a id="cite-ref-37" href="#cite-note-37">↑</a> [Re: Botvinnik Markov revisited](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=358597&t=35124) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), June 27, 2010
+38. <a id="cite-ref-38" href="#cite-note-38">↑</a> [Re: What is the correct value of the pieces?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=487043&t=45512) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), October 10, 2012
+39. <a id="cite-ref-39" href="#cite-note-39">↑</a> [Re: How effective is move ordering from TT?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=478054&t=44745) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), August 10, 2012
+40. <a id="cite-ref-40" href="#cite-note-40">↑</a> [Re: Lazy eval](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=435935&t=41236) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), December 02, 2011
+41. <a id="cite-ref-41" href="#cite-note-41">↑</a> [Re: Don- Don't understand Komodo 4?? A bug??](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=439445&t=41603) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), December 26, 2011
+42. <a id="cite-ref-42" href="#cite-note-42">↑</a> [Re: Peculiarity of Komodo 5.1MP](http://www.talkchess.com/forum/viewtopic.php?t=48339&start=24) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), June 19, 2013
+43. <a id="cite-ref-43" href="#cite-note-43">↑</a> [Re: Komodo MCTS and Komodo (Standard?) in CCCC current Blitz battle](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68626&start=3) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), October 16, 2018
+44. <a id="cite-ref-44" href="#cite-note-44">↑</a> Part 1 covers [Houdini](Houdini "Houdini"), [Rybka](Rybka "Rybka"), Komodo, [Stockfish](Stockfish "Stockfish"), [Critter](Critter "Critter"), [Naum](Naum "Naum"), [Chiron](Chiron "Chiron") and [Spike](Spike "Spike")
+45. <a id="cite-ref-45" href="#cite-note-45">↑</a> [Victor Angel Bolzoni - Wikipedia.br](https://br.wikipedia.org/wiki/Victor_Angel_Bolzoni) ([Breton](https://en.wikipedia.org/wiki/Breton_language))
+46. <a id="cite-ref-46" href="#cite-note-46">↑</a> [Victor Mikhalevski from Wikipedia](https://en.wikipedia.org/wiki/Victor_Mikhalevski)
+47. <a id="cite-ref-47" href="#cite-note-47">↑</a> [Hikaru Nakamura from Wikipedia](https://en.wikipedia.org/wiki/Hikaru_Nakamura)
+48. <a id="cite-ref-48" href="#cite-note-48">↑</a> [Regan's latest: Depth of Satisficing](http://www.talkchess.com/forum/viewtopic.php?t=57890) by Carl Lumma, [CCC](CCC "CCC"), October 09, 2015
+49. <a id="cite-ref-49" href="#cite-note-49">↑</a> [Roanoke Star from Wikipedia](https://en.wikipedia.org/wiki/Roanoke_Star)
+50. <a id="cite-ref-50" href="#cite-note-50">↑</a> [Komodo 8: Deep Blue revisited (1/2)](http://www.talkchess.com/forum/viewtopic.php?t=54759) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 27, 2014
+51. <a id="cite-ref-51" href="#cite-note-51">↑</a> [Komodo Android Experiment](http://www.talkchess.com/forum/viewtopic.php?t=53813) by [Ted Summers](Ted_Summers "Ted Summers"), [CCC](CCC "CCC"), September 24, 2014
 
 **[Up one Level](Engines "Engines")**
 

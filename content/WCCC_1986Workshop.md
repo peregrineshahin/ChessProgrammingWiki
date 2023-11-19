@@ -8,18 +8,18 @@ title: WCCC 1986Workshop
 
 
 
-[.jpg) Cologne skyline [[1]](#cite_note-1)
+[.jpg) Cologne skyline <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Fifth World Computer Chess Championship** took place from June 11 to 15, [1986](Timeline#1986 "Timeline"), within the scope of [Cologne Trade Fair](https://en.wikipedia.org/wiki/Cologne_Trade_Fair), [Cologne](https://en.wikipedia.org/wiki/Cologne), [West Germany](https://en.wikipedia.org/wiki/West_Germany). It was a tough and controversial tournament. Four programs finished with four out of five, and the winner was determined by sum of opponent scores. That is why the tournament was also decided by games from the bottom half.
 
 
-The program [Rebel](Rebel "Rebel") on a [6502 TurboKit TK20](6502#TK20 "6502") @ 10 MHz [[2]](#cite_note-2) was close to become the champion against the mainframe programs, but didn't manage to win a "won game" in the last round against [Bebe](Bebe "Bebe"). The later winner, [Cray Blitz](Cray_Blitz "Cray Blitz") lost the second round against [Bobby](Bobby "Bobby"), but managed to win the last round against [HiTech](HiTech "HiTech"), which had a perfect score so far. A protest by [Hans Berliner](Hans_Berliner "Hans Berliner"), suspicious by a move of Cray Blitz was declined by the arbiter after inspecting Blitz's log-files. Lucky for Cray Blitz was the [adjudicated](#Adjudication) win against [Schach 2.7](Schach "Schach") [[3]](#cite_note-3) . Years later, [Rex](Rex "Rex") co-author [Sam Sloan](Sam_Sloan "Sam Sloan") started a campaign and claimed cheating by various sides [[4]](#cite_note-4) . 
+The program [Rebel](Rebel "Rebel") on a [6502 TurboKit TK20](6502#TK20 "6502") @ 10 MHz <a id="cite-note-2" href="#cite-ref-2">[2]</a> was close to become the champion against the mainframe programs, but didn't manage to win a "won game" in the last round against [Bebe](Bebe "Bebe"). The later winner, [Cray Blitz](Cray_Blitz "Cray Blitz") lost the second round against [Bobby](Bobby "Bobby"), but managed to win the last round against [HiTech](HiTech "HiTech"), which had a perfect score so far. A protest by [Hans Berliner](Hans_Berliner "Hans Berliner"), suspicious by a move of Cray Blitz was declined by the arbiter after inspecting Blitz's log-files. Lucky for Cray Blitz was the [adjudicated](#Adjudication) win against [Schach 2.7](Schach "Schach") <a id="cite-note-3" href="#cite-ref-3">[3]</a> . Years later, [Rex](Rex "Rex") co-author [Sam Sloan](Sam_Sloan "Sam Sloan") started a campaign and claimed cheating by various sides <a id="cite-note-4" href="#cite-ref-4">[4]</a> . 
 
 
 
 ## Participants
 
 
-5th World Computer Chess Championship 1986, Cologne FRG [[7]](#cite_note-7)
+5th World Computer Chess Championship 1986, Cologne FRG <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 
 
@@ -127,7 +127,7 @@ The program [Rebel](Rebel "Rebel") on a [6502 TurboKit TK20](6502#TK20 "6502") @
 |  |  |
 | --- | --- |
 | [WCCC86R4.JPG](WCCC_1986#Video "WCCC 1986#Video") | [AwitRexSheet.jpg](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/Awit-Rex-14June1986-A.png) |
-| [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen"), [Tony Marsland](Tony_Marsland "Tony Marsland"), [Don Dailey](Don_Dailey "Don Dailey"), ..., [Sam Sloan](Sam_Sloan "Sam Sloan") [[8]](#cite_note-8) | [Awit](Awit "Awit") - [Rex](Rex "Rex") [Score sheet](Game_Notation#Scoresheet "Game Notation") [[9]](#cite_note-9) [[10]](#cite_note-10) [[11]](#cite_note-11) [[12]](#cite_note-12) |
+| [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen"), [Tony Marsland](Tony_Marsland "Tony Marsland"), [Don Dailey](Don_Dailey "Don Dailey"), ..., [Sam Sloan](Sam_Sloan "Sam Sloan") <a id="cite-note-8" href="#cite-ref-8">[8]</a> | [Awit](Awit "Awit") - [Rex](Rex "Rex") [Score sheet](Game_Notation#Scoresheet "Game Notation") <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a> |
 
 
 
@@ -159,10 +159,10 @@ Game and short analyze on Lichess.org : [[1]](https://en.lichess.org/JuJnVlf5)
 
 
  [](File:SchrueferKraasWeinerLang1986.JPG) 
-[Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer"), [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas"), [Ossi Weiner](Ossi_Weiner "Ossi Weiner") and [Richard Lang](Richard_Lang "Richard Lang") [[13]](#cite_note-13)
+[Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer"), [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas"), [Ossi Weiner](Ossi_Weiner "Ossi Weiner") and [Richard Lang](Richard_Lang "Richard Lang") <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 
 
-Round 4, [Bobby](Bobby "Bobby") - [Mephisto X](Mephisto "Mephisto") [[14]](#cite_note-14)
+Round 4, [Bobby](Bobby "Bobby") - [Mephisto X](Mephisto "Mephisto") <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 
 
@@ -194,7 +194,7 @@ Game and short analyze on Lichess.org : [[2]](https://en.lichess.org/R10oewMw)
 ### Adjudication
 
 
-Round 4, [Schach 2.7](Schach "Schach") - [Cray Blitz](Cray_Blitz "Cray Blitz"), [Adjudication](https://en.wikipedia.org/wiki/Adjudication) by [Michael Valvo](Michael_Valvo "Michael Valvo") with help of [Vlastimil Hort](https://en.wikipedia.org/wiki/Vlastimil_Hort) after seven hours of play [[15]](#cite_note-15) [[16]](#cite_note-16) .
+Round 4, [Schach 2.7](Schach "Schach") - [Cray Blitz](Cray_Blitz "Cray Blitz"), [Adjudication](https://en.wikipedia.org/wiki/Adjudication) by [Michael Valvo](Michael_Valvo "Michael Valvo") with help of [Vlastimil Hort](https://en.wikipedia.org/wiki/Vlastimil_Hort) after seven hours of play <a id="cite-note-15" href="#cite-ref-15">[15]</a> <a id="cite-note-16" href="#cite-ref-16">[16]</a> .
 
 
 
@@ -259,7 +259,7 @@ Vaxchess operator (?)
  |
 
 
-Total view [[17]](#cite_note-17)
+Total view <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 
 
 
@@ -282,7 +282,7 @@ part of [Richard Lang](Richard_Lang "Richard Lang"), [Ossi Weiner](Ossi_Weiner "
  |
 
 
-Other perspective [[18]](#cite_note-18)
+Other perspective <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 
 
@@ -296,7 +296,7 @@ Other perspective [[18]](#cite_note-18)
 | [TaylorOConnellLevy1986.JPG](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) | [Wccc-1986-david-levy.jpg](http://home.scarlet.be/vincentlejeune/wccc-1986-david-levy.jpg) |
 
 
-[Nona](Nona "Nona") - [Cyrus 68K](Cyrus_68K "Cyrus 68K"), just before 14... Ke8, [Mark Taylor](Mark_Taylor "Mark Taylor"), [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") and [David Levy](David_Levy "David Levy") [[19]](#cite_note-19) [[20]](#cite_note-20)
+[Nona](Nona "Nona") - [Cyrus 68K](Cyrus_68K "Cyrus 68K"), just before 14... Ke8, [Mark Taylor](Mark_Taylor "Mark Taylor"), [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") and [David Levy](David_Levy "David Levy") <a id="cite-note-19" href="#cite-ref-19">[19]</a> <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 
 
 
@@ -321,7 +321,7 @@ Kxe7 26.Re1 Ke6 27.c4 Raf8 28.cxd5+ Bxd5 29.Nxd5 Kxd5 30.e6 Be7 31.Rxf7 Rxf7 32.
 
  [](http://home.scarlet.be/vincentlejeune/jeux-et-strategie-040-1986-08-09-page007.jpg) 
 Few moves later: [Vlastimil Hort](https://en.wikipedia.org/wiki/Vlastimil_Hort), [Frans Morsch](Frans_Morsch "Frans Morsch"), [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"),  
-[Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas") far right in [Bobby](Bobby "Bobby") vs [Sun Phoenix](Phoenix "Phoenix") [[21]](#cite_note-21)
+[Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas") far right in [Bobby](Bobby "Bobby") vs [Sun Phoenix](Phoenix "Phoenix") <a id="cite-note-21" href="#cite-ref-21">[21]</a>
 
 
 Game and short analyze on Lichess.org : [[4]](https://en.lichess.org/mnAkUmDn)
@@ -360,7 +360,7 @@ Game and short analyze on Lichess.org : [[5]](https://en.lichess.org/HidtIfmD)
 
  [](http://home.scarlet.be/vincentlejeune/wccc-1986-crayblitz-hitech.jpg) 
  [](http://members.home.nl/matador/chess820.htm) 
-[Cray Blitz](Cray_Blitz "Cray Blitz") - [HiTech](HiTech "HiTech"), recognized people: [Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Nelson](Harry_Nelson "Harry Nelson"), [Berliner](Hans_Berliner "Hans Berliner"), [Ebeling](Carl_Ebeling "Carl Ebeling"), [Schröder](Ed_Schroder "Ed Schroder") [[22]](#cite_note-22)
+[Cray Blitz](Cray_Blitz "Cray Blitz") - [HiTech](HiTech "HiTech"), recognized people: [Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Nelson](Harry_Nelson "Harry Nelson"), [Berliner](Hans_Berliner "Hans Berliner"), [Ebeling](Carl_Ebeling "Carl Ebeling"), [Schröder](Ed_Schroder "Ed Schroder") <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 
 
 
@@ -388,7 +388,7 @@ Kg7 58.Qf6+ Kh6 59.Qxf7 Qc8 60.Rd6 1-0
 ```
 
  [](http://home.scarlet.be/vincentlejeune/jeux-et-strategie-040-1986-08-09-page006.jpg) 
-[Vlastimil Hort](https://en.wikipedia.org/wiki/Vlastimil_Hort), [Harry Nelson](Harry_Nelson "Harry Nelson") and [Hans Berliner](Hans_Berliner "Hans Berliner") [[23]](#cite_note-23)
+[Vlastimil Hort](https://en.wikipedia.org/wiki/Vlastimil_Hort), [Harry Nelson](Harry_Nelson "Harry Nelson") and [Hans Berliner](Hans_Berliner "Hans Berliner") <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 
 
 Game and short analyze on Lichess.org : [[6]](https://en.lichess.org/Be5OMzpy)
@@ -440,7 +440,7 @@ A workshop under the title "[Selective Search](Selectivity "Selectivity") versus
 
 
  [](File:WCCC1986Conference.jpg) 
-Workshop panel: [Helmut Horacek](Helmut_Horacek "Helmut Horacek"), [Thomas Nitsche](Thomas_Nitsche "Thomas Nitsche"), [David Levy](David_Levy "David Levy"), [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") and [Don Beal](Don_Beal "Don Beal") [[24]](#cite_note-24)
+Workshop panel: [Helmut Horacek](Helmut_Horacek "Helmut Horacek"), [Thomas Nitsche](Thomas_Nitsche "Thomas Nitsche"), [David Levy](David_Levy "David Levy"), [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") and [Don Beal](Don_Beal "Don Beal") <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 
 
 
@@ -459,7 +459,7 @@ Workshop panel: [Helmut Horacek](Helmut_Horacek "Helmut Horacek"), [Thomas Nitsc
 * [Helmut Horacek](Helmut_Horacek "Helmut Horacek") (**1986, 1989**). *The Fifth World Computer Chess Championship Cologne, 1986*. Research Unit for Information Science and Artificial Intelligence, [University of Hamburg](University_of_Hamburg "University of Hamburg") from [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) pg 21, [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") (Abridged from ICGA Journal, Vol. 9, No. 2)
 * [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *5th World Computer Chess Championship*. [Computer Chess Reports 1986 Fall/Winter Edition](Computer_Chess_Reports "Computer Chess Reports") pp. 33
 * [Jaap van Oosterwijk Bruyn](Jaap_van_Oosterwijk_Bruyn "Jaap van Oosterwijk Bruyn") (**1986**). *[Het wereldkampioenschap computerschaak 1986 te Keulen](http://www.csvnsupplementsite.nl/CSVNPAGINA3.html)*. [Computerschaak](Computerschaak "Computerschaak"), pagina 3 (Dutch)
-* [Pierre Nolot](Pierre_Nolot "Pierre Nolot") (**1986**). *Echecs: Les Progès des Programmes*. [Jeux et Stratégie](http://fr.wikipedia.org/wiki/Jeux_et_Strat%C3%A9gie), [jpg1](http://home.scarlet.be/vincentlejeune/jeux-et-strategie-040-1986-08-09-page006.jpg), [jpg2](http://home.scarlet.be/vincentlejeune/jeux-et-strategie-040-1986-08-09-page007.jpg) (French) [[25]](#cite_note-25)
+* [Pierre Nolot](Pierre_Nolot "Pierre Nolot") (**1986**). *Echecs: Les Progès des Programmes*. [Jeux et Stratégie](http://fr.wikipedia.org/wiki/Jeux_et_Strat%C3%A9gie), [jpg1](http://home.scarlet.be/vincentlejeune/jeux-et-strategie-040-1986-08-09-page006.jpg), [jpg2](http://home.scarlet.be/vincentlejeune/jeux-et-strategie-040-1986-08-09-page007.jpg) (French) <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 
 
 ## Forum Posts
@@ -487,9 +487,9 @@ Workshop panel: [Helmut Horacek](Helmut_Horacek "Helmut Horacek"), [Thomas Nitsc
 * The World Computer Chess Championship in Cologne 1986, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
 
 
- [NDR broadcast](https://en.wikipedia.org/wiki/Norddeutscher_Rundfunk) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder"), posted by [Julien Marcel](Julien_Marcel "Julien Marcel") [[26]](#cite_note-26) [[27]](#cite_note-27) (German) [[28]](#cite_note-28) 
+ [NDR broadcast](https://en.wikipedia.org/wiki/Norddeutscher_Rundfunk) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder"), posted by [Julien Marcel](Julien_Marcel "Julien Marcel") <a id="cite-note-26" href="#cite-ref-26">[26]</a> <a id="cite-note-27" href="#cite-ref-27">[27]</a> (German) <a id="cite-note-28" href="#cite-ref-28">[28]</a> 
  Excerpt from [Schach dem Roboter](http://de.wikipedia.org/wiki/Schach_dem_Roboter_%28Film%29) ([Les Robots pensants](https://fr.wikipedia.org/wiki/Les_Robots_pensants)), 2:27
- Excerpt from [Levy versus Chess 4.8](Levy_versus_Chess_1978#1979 "Levy versus Chess 1978"), [Hamburg](https://en.wikipedia.org/wiki/Hamburg), [ZDF](https://en.wikipedia.org/wiki/ZDF) broadcast, February 07, 1979, 3:53 [[29]](#cite_note-29) [[30]](#cite_note-30) [[31]](#cite_note-31) 
+ Excerpt from [Levy versus Chess 4.8](Levy_versus_Chess_1978#1979 "Levy versus Chess 1978"), [Hamburg](https://en.wikipedia.org/wiki/Hamburg), [ZDF](https://en.wikipedia.org/wiki/ZDF) broadcast, February 07, 1979, 3:53 <a id="cite-note-29" href="#cite-ref-29">[29]</a> <a id="cite-note-30" href="#cite-ref-30">[30]</a> <a id="cite-note-31" href="#cite-ref-31">[31]</a> 
  Interviews by [Albrecht Fölsing](https://en.wikipedia.org/wiki/Albrecht_F%C3%B6lsing) with [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") 9:44, [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer") 11:00, [Ossi Weiner](Ossi_Weiner "Ossi Weiner") 11:40,
  [Ephraim Kishon](Ephraim_Kishon "Ephraim Kishon") 14:10, [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") 22:20, [Hans Berliner](Hans_Berliner "Hans Berliner") 24:14
  [Cognitive experiments](Cognition "Cognition") by [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender") and [Frederic Friedel](Frederic_Friedel "Frederic Friedel") with [András Adorján](https://en.wikipedia.org/wiki/Andr%C3%A1s_Adorj%C3%A1n) et al. 16:58
@@ -497,37 +497,37 @@ Workshop panel: [Helmut Horacek](Helmut_Horacek "Helmut Horacek"), [Thomas Nitsc
 ## References
 
 
-1. [↑](#cite_ref-1) [Cologne from Wikipedia](https://en.wikipedia.org/wiki/Cologne)
-2. [↑](#cite_ref-2) *Schaetzle+Bsteh High Speed Processor System TK20 TurboKit MTK20 Multi TurboKit*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/04-1987,%20Schaetzle+Bsteh,%20TK20%20TurboKit%20und%20MTK20%20Multi%20TurboKit-1.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-3. [↑](#cite_ref-3) [Helmut Horacek](Helmut_Horacek "Helmut Horacek") (**1986**). *The Fifth World Computer Chess Championship Cologne, 1986*, Research Unit for Information Science and Artificial Intelligence, [University of Hamburg](University_of_Hamburg "University of Hamburg"), from [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) pg 21, [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. [↑](#cite_ref-4) [Cheating in the World Computer Chess Championship](http://groups.google.com/group/rec.games.chess.misc/browse_frm/thread/5f9e4a3c23197920#%7CCheating) by [Sam Sloan](Sam_Sloan "Sam Sloan"), [rec.games.chess.misc](Computer_Chess_Forums "Computer Chess Forums"), March 11, 1999
-5. [↑](#cite_ref-5) [5th World Computer Chess Championship](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=62) [ICGA](ICGA "ICGA") tournament site
-6. [↑](#cite_ref-6) [World Computer Chess Championship - 5th WCCC - 1986 Cologne](http://www.mark-weeks.com/chess/86wc$tix.htm) by [Mark Weeks](Mark_Weeks "Mark Weeks") has 16, 17 swapped
-7. [↑](#cite_ref-7) *Participants of the fifth World Computer-Chess Championship*. [ICCA Journal](ICGA "ICGA"), Vol. 9, No. 2, p. 94
-8. [↑](#cite_ref-8) [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 9:16
-9. [↑](#cite_ref-9) [Index of /~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/)
-10. [↑](#cite_ref-10) [r4-awit-rex.txt](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/r4-awit-rex.txt) by [Tony Marsland](Tony_Marsland "Tony Marsland")
-11. [↑](#cite_ref-11) [Cheating in the World Computer Chess Championship](http://groups.google.com/group/rec.games.chess.misc/browse_frm/thread/5f9e4a3c23197920) by [Sam Sloan](Sam_Sloan "Sam Sloan"), [rec.games.chess.misc](Computer_Chess_Forums "Computer Chess Forums"), March 11, 1999
-12. [↑](#cite_ref-12) [Cologne 1986 - Chess - Round 4 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=1)
-13. [↑](#cite_ref-13) [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
-14. [↑](#cite_ref-14) [Cologne 1986, Chess, Round 4, Game 4](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=4)
-15. [↑](#cite_ref-15) [Cologne 1986 - Chess - Round 4 - Game 10 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=10)
-16. [↑](#cite_ref-16) [Schach 2.7 vs Cray Blitz [1986 World Computer Chess Championship](http://www.stmintz.com/ccc/index.php?id=134782)] by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), October 24, 2000
-17. [↑](#cite_ref-17) [Historic Pictures](http://members.home.nl/matador/chess820.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-18. [↑](#cite_ref-18) [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 1:15
-19. [↑](#cite_ref-19) [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-20. [↑](#cite_ref-20) [Cologne 1986 - Chess - Round 5 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=5&id=7)
-21. [↑](#cite_ref-21) Image from [Pierre Nolot](Pierre_Nolot "Pierre Nolot") (**1986**). *Echecs: Les Progès des Programmes*. [Jeux et Stratégie](http://fr.wikipedia.org/wiki/Jeux_et_Strat%C3%A9gie)
-22. [↑](#cite_ref-22) [Historic Pictures](http://members.home.nl/matador/chess820.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
-23. [↑](#cite_ref-23) Image from [Pierre Nolot](Pierre_Nolot "Pierre Nolot") (**1986**). *Echecs: Les Progès des Programmes*. [Jeux et Stratégie](http://fr.wikipedia.org/wiki/Jeux_et_Strat%C3%A9gie)
-24. [↑](#cite_ref-24) Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 9, No. 2](ICGA_Journal#9_2 "ICGA Journal"), pp. 80
-25. [↑](#cite_ref-25) [5th WCCC 1986, article in french + pictures](http://www.talkchess.com/forum/viewtopic.php?t=45977) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), November 12, 2012
-26. [↑](#cite_ref-26) [Historic video's](http://www.top-5000.nl/video.html) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-27. [↑](#cite_ref-27) [A couple of new historic video's](http://www.talkchess.com/forum/viewtopic.php?t=47530) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), Mar 17, 2013
-28. [↑](#cite_ref-28) [Re: 5th WCCC 1986, video on youtube](http://www.talkchess.com/forum/viewtopic.php?t=47544&start=3) by [Harald Lüßen](Harald_L%C3%BC%C3%9Fen "Harald Lüßen"), [CCC](CCC "CCC"), March 20, 2013 (English summary)
-29. [↑](#cite_ref-29) [Das Genie mit dem eisernen Arm](http://www.zeit.de/1979/08/das-genie-mit-dem-eisernen-arm) by [Wolfram Runkel](http://www.zeit.de/autoren/R/Wolfram_Runkel/index.xml), [Die Zeit](https://en.wikipedia.org/wiki/Die_Zeit), Nr. 08, February 08, 1979 (German)
-30. [↑](#cite_ref-30) [Schach-Computer: Jahrtausende pro Partie](http://www.spiegel.de/spiegel/print/d-40351462.html) and [Mit dem 9. Zug schien der Schotte verloren](http://www.spiegel.de/spiegel/print/d-40351463.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 7/1979, February 12, 1979 (German)
-31. [↑](#cite_ref-31) [Remembering Werner Harenberg (1)](http://en.chessbase.com/post/remembering-werner-harenberg-1) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), March 04, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Cologne from Wikipedia](https://en.wikipedia.org/wiki/Cologne)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> *Schaetzle+Bsteh High Speed Processor System TK20 TurboKit MTK20 Multi TurboKit*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/04-1987,%20Schaetzle+Bsteh,%20TK20%20TurboKit%20und%20MTK20%20Multi%20TurboKit-1.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Helmut Horacek](Helmut_Horacek "Helmut Horacek") (**1986**). *The Fifth World Computer Chess Championship Cologne, 1986*, Research Unit for Information Science and Artificial Intelligence, [University of Hamburg](University_of_Hamburg "University of Hamburg"), from [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) pg 21, [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Cheating in the World Computer Chess Championship](http://groups.google.com/group/rec.games.chess.misc/browse_frm/thread/5f9e4a3c23197920#%7CCheating) by [Sam Sloan](Sam_Sloan "Sam Sloan"), [rec.games.chess.misc](Computer_Chess_Forums "Computer Chess Forums"), March 11, 1999
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [5th World Computer Chess Championship](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=62) [ICGA](ICGA "ICGA") tournament site
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [World Computer Chess Championship - 5th WCCC - 1986 Cologne](http://www.mark-weeks.com/chess/86wc$tix.htm) by [Mark Weeks](Mark_Weeks "Mark Weeks") has 16, 17 swapped
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> *Participants of the fifth World Computer-Chess Championship*. [ICCA Journal](ICGA "ICGA"), Vol. 9, No. 2, p. 94
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 9:16
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Index of /~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [r4-awit-rex.txt](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/r4-awit-rex.txt) by [Tony Marsland](Tony_Marsland "Tony Marsland")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Cheating in the World Computer Chess Championship](http://groups.google.com/group/rec.games.chess.misc/browse_frm/thread/5f9e4a3c23197920) by [Sam Sloan](Sam_Sloan "Sam Sloan"), [rec.games.chess.misc](Computer_Chess_Forums "Computer Chess Forums"), March 11, 1999
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Cologne 1986 - Chess - Round 4 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=1)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), A SZÁMÍTÓGÉPES SAKK KÉPEKBEN című melléklete - The pictures of the Beginning of Chess Computers
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Cologne 1986, Chess, Round 4, Game 4](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=4)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Cologne 1986 - Chess - Round 4 - Game 10 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=4&id=10)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Schach 2.7 vs Cray Blitz [1986 World Computer Chess Championship](http://www.stmintz.com/ccc/index.php?id=134782)] by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), October 24, 2000
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Historic Pictures](http://members.home.nl/matador/chess820.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [WCCC 1986 Video](WCCC_1986#Video "WCCC 1986") 1:15
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Chess Computers - The UK Story](http://www.chesscomputeruk.com/html/chess_computers_-_the_uk_story.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Cologne 1986 - Chess - Round 5 - Game 7 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=62&round=5&id=7)
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> Image from [Pierre Nolot](Pierre_Nolot "Pierre Nolot") (**1986**). *Echecs: Les Progès des Programmes*. [Jeux et Stratégie](http://fr.wikipedia.org/wiki/Jeux_et_Strat%C3%A9gie)
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Historic Pictures](http://members.home.nl/matador/chess820.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> Image from [Pierre Nolot](Pierre_Nolot "Pierre Nolot") (**1986**). *Echecs: Les Progès des Programmes*. [Jeux et Stratégie](http://fr.wikipedia.org/wiki/Jeux_et_Strat%C3%A9gie)
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> Photo by [László Lindner](L%C3%A1szl%C3%B3_Lindner "László Lindner"), [ICCA Journal, Vol. 9, No. 2](ICGA_Journal#9_2 "ICGA Journal"), pp. 80
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [5th WCCC 1986, article in french + pictures](http://www.talkchess.com/forum/viewtopic.php?t=45977) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), November 12, 2012
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Historic video's](http://www.top-5000.nl/video.html) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [A couple of new historic video's](http://www.talkchess.com/forum/viewtopic.php?t=47530) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), Mar 17, 2013
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Re: 5th WCCC 1986, video on youtube](http://www.talkchess.com/forum/viewtopic.php?t=47544&start=3) by [Harald Lüßen](Harald_L%C3%BC%C3%9Fen "Harald Lüßen"), [CCC](CCC "CCC"), March 20, 2013 (English summary)
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [Das Genie mit dem eisernen Arm](http://www.zeit.de/1979/08/das-genie-mit-dem-eisernen-arm) by [Wolfram Runkel](http://www.zeit.de/autoren/R/Wolfram_Runkel/index.xml), [Die Zeit](https://en.wikipedia.org/wiki/Die_Zeit), Nr. 08, February 08, 1979 (German)
+30. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Schach-Computer: Jahrtausende pro Partie](http://www.spiegel.de/spiegel/print/d-40351462.html) and [Mit dem 9. Zug schien der Schotte verloren](http://www.spiegel.de/spiegel/print/d-40351463.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 7/1979, February 12, 1979 (German)
+31. <a id="cite-ref-31" href="#cite-note-31">↑</a> [Remembering Werner Harenberg (1)](http://en.chessbase.com/post/remembering-werner-harenberg-1) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), March 04, 2014
 
 **[Up one level](World_Computer_Chess_Championship "World Computer Chess Championship")**
 

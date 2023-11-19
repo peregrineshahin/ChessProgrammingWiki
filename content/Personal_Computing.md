@@ -5,16 +5,16 @@ title: Personal Computing
 
 
 
- [](https://archive.org/details/PersonalComputing197903) Personal Computing [[1]](#cite_note-1) 
+ [](https://archive.org/details/PersonalComputing197903) Personal Computing <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Personal Computing**,  
 
-was a monthly [microcomputer](https://en.wikipedia.org/wiki/Microcomputer) periodical founded by [David Bunnell](https://en.wikipedia.org/wiki/David_Bunnell) in 1977 [[2]](#cite_note-2), launched by *Benwill Publishing*, [Boston](https://en.wikipedia.org/wiki/Boston) [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts), and since December 1980 by *Hayden Publishing Co. Inc.* [Rochelle Park, New Jersey](https://en.wikipedia.org/wiki/Rochelle_Park,_New_Jersey), [imprint](https://en.wikipedia.org/wiki/Imprint_(trade_name)) of [Macmillan Publishers](https://en.wikipedia.org/wiki/Macmillan_Publishers_(United_States)), defunct in 1999.
+was a monthly [microcomputer](https://en.wikipedia.org/wiki/Microcomputer) periodical founded by [David Bunnell](https://en.wikipedia.org/wiki/David_Bunnell) in 1977 <a id="cite-note-2" href="#cite-ref-2">[2]</a>, launched by *Benwill Publishing*, [Boston](https://en.wikipedia.org/wiki/Boston) [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts), and since December 1980 by *Hayden Publishing Co. Inc.* [Rochelle Park, New Jersey](https://en.wikipedia.org/wiki/Rochelle_Park,_New_Jersey), [imprint](https://en.wikipedia.org/wiki/Imprint_(trade_name)) of [Macmillan Publishers](https://en.wikipedia.org/wiki/Macmillan_Publishers_(United_States)), defunct in 1999.
 
 
-In April 1978, Computer Chess became a monthly department in Personal Computing, initially a continuation of [Douglas Penrod's](Douglas_Penrod "Douglas Penrod") [Computer Chess Newsletters](Douglas_Penrod#Newsletters "Douglas Penrod"), from January 1979 until March 1981 edited by [Harry Shershow](Harry_Shershow "Harry Shershow") supported by [Morris Miller](index.php?title=Morris_Miller&action=edit&redlink=1 "Morris Miller (page does not exist)"). The magazine also covered computer games like [Checkers](Checkers "Checkers"), [Othello](Othello "Othello"), [Gomoku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)"), and [Go](Go "Go") - [Thomas A. Throop](Thomas_A._Throop "Thomas A. Throop") had a computer [Bridge](index.php?title=Bridge&action=edit&redlink=1 "Bridge (page does not exist)") column. [Kathe Spracklen's](Kathe_Spracklen "Kathe Spracklen") announcement in April 1981 to continue the editorship of the computer chess column [[3]](#cite_note-3), apparently put an end to it.
+In April 1978, Computer Chess became a monthly department in Personal Computing, initially a continuation of [Douglas Penrod's](Douglas_Penrod "Douglas Penrod") [Computer Chess Newsletters](Douglas_Penrod#Newsletters "Douglas Penrod"), from January 1979 until March 1981 edited by [Harry Shershow](Harry_Shershow "Harry Shershow") supported by [Morris Miller](index.php?title=Morris_Miller&action=edit&redlink=1 "Morris Miller (page does not exist)"). The magazine also covered computer games like [Checkers](Checkers "Checkers"), [Othello](Othello "Othello"), [Gomoku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)"), and [Go](Go "Go") - [Thomas A. Throop](Thomas_A._Throop "Thomas A. Throop") had a computer [Bridge](index.php?title=Bridge&action=edit&redlink=1 "Bridge (page does not exist)") column. [Kathe Spracklen's](Kathe_Spracklen "Kathe Spracklen") announcement in April 1981 to continue the editorship of the computer chess column <a id="cite-note-3" href="#cite-ref-3">[3]</a>, apparently put an end to it.
 
 
-Most Personal Computing Magazines from 1977 until 1984 are available from the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) [[4]](#cite_note-4). 
+Most Personal Computing Magazines from 1977 until 1984 are available from the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
 
 
 
@@ -239,14 +239,14 @@ Most Personal Computing Magazines from 1977 until 1984 are available from the [I
 
 * [Harry Shershow](Harry_Shershow "Harry Shershow") (**1979**). *Chafitz' Big Move in Computer Chess*. [Personal Computing, Vol. 3, No. 9](Personal_Computing#3_9 "Personal Computing"), pp. 59 » [Boris](Boris "Boris"), [Sargon](Sargon "Sargon")
 * Charles Sullivan Jr. (**1979**). *A Chess Program for the Apple*. [Personal Computing, Vol. 3, No. 9](Personal_Computing#3_9 "Personal Computing"), pp. 60 » [Sargon](Sargon "Sargon")
-* [Gary L. Ratliff](index.php?title=Gary_L._Ratliff&action=edit&redlink=1 "Gary L. Ratliff (page does not exist)") (**1979**). *Practical Rating Program*. [Personal Computing, Vol. 3, No. 9](Personal_Computing#3_9 "Personal Computing"), pp. 62 [[5]](#cite_note-5)
+* [Gary L. Ratliff](index.php?title=Gary_L._Ratliff&action=edit&redlink=1 "Gary L. Ratliff (page does not exist)") (**1979**). *Practical Rating Program*. [Personal Computing, Vol. 3, No. 9](Personal_Computing#3_9 "Personal Computing"), pp. 62 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 * Editor (**1979**). *A Russian View of Chess Computers*. [Personal Computing, Vol. 3, No. 9](Personal_Computing#3_9 "Personal Computing"), pp. 64 » [Pioneer](Pioneer "Pioneer")
 
 
 ### [Vol. 3, No. 10, October 1979](https://archive.org/details/PersonalComputing197910)
 
 
-* [Donald Michie](Donald_Michie "Donald Michie") (**1979**). *The Computer Attacks Moravec Problem*. [Personal Computing, Vol. 3, No. 10](Personal_Computing#3_10 "Personal Computing"), pp. 73 [[6]](#cite_note-6)
+* [Donald Michie](Donald_Michie "Donald Michie") (**1979**). *The Computer Attacks Moravec Problem*. [Personal Computing, Vol. 3, No. 10](Personal_Computing#3_10 "Personal Computing"), pp. 73 <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 * [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1979**). *Ostrich IV meets the Black Knight*. [Personal Computing, Vol. 3, No. 10](Personal_Computing#3_10 "Personal Computing"), pp. 74 » [ACM 1978](ACM_1978 "ACM 1978"), [Ostrich](Ostrich "Ostrich"), [Black Knight](Black_Knight "Black Knight")
 * [Ephraim Kishon](Ephraim_Kishon "Ephraim Kishon") (**1979**). *Compushvili*. [Personal Computing, Vol. 3, No. 10](Personal_Computing#3_10 "Personal Computing"), pp. 76
 * Editor (**1979**). *The Gomoku Tournament*. [Personal Computing, Vol. 3, No. 10](Personal_Computing#3_10 "Personal Computing"), pp. 81 » [Gomoku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)")
@@ -278,7 +278,7 @@ Most Personal Computing Magazines from 1977 until 1984 are available from the [I
 ### [Vol. 4, No. 5, May 1980](https://archive.org/details/PersonalComputing198005)
 
 
-* [Harry Shershow](Harry_Shershow "Harry Shershow") (**1980**). *The Best of Chess*. [Personal Computing, Vol. 4, No. 5](Personal_Computing#4_5 "Personal Computing"), pp. 74 [[7]](#cite_note-7)
+* [Harry Shershow](Harry_Shershow "Harry Shershow") (**1980**). *The Best of Chess*. [Personal Computing, Vol. 4, No. 5](Personal_Computing#4_5 "Personal Computing"), pp. 74 <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 * [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (**1980**). *From Russia with Games*. [Personal Computing, Vol. 4, No. 5](Personal_Computing#4_5 "Personal Computing"), pp. 77 » [Kaissa](Kaissa "Kaissa")
 * [Evan Katz](index.php?title=Evan_Katz&action=edit&redlink=1 "Evan Katz (page does not exist)") (**1980**). *Chess Challenger's Voice comes out of Both Sides of its Mouth*. [Personal Computing, Vol. 4, No. 5](Personal_Computing#4_5 "Personal Computing"), pp. 80 » [Chess Challenger Voice](Chess_Challenger "Chess Challenger")
 * Editor (**1980**). *A Checkers Debate*. [Personal Computing, Vol. 4, No. 5](Personal_Computing#4_5 "Personal Computing"), pp. 83 » [Checkers](Checkers "Checkers"), [Martin Gardner](Martin_Gardner "Martin Gardner")
@@ -323,7 +323,7 @@ Most Personal Computing Magazines from 1977 until 1984 are available from the [I
 ### [Vol. 4, No. 10, October 1980](https://archive.org/details/PersonalComputing198010)
 
 
-* [Harry Shershow](Harry_Shershow "Harry Shershow") (**1980**). *The Nerve of a Chess Player*. [Personal Computing, Vol. 4, No. 10](Personal_Computing#4_10 "Personal Computing"), pp. 77 [[8]](#cite_note-8)
+* [Harry Shershow](Harry_Shershow "Harry Shershow") (**1980**). *The Nerve of a Chess Player*. [Personal Computing, Vol. 4, No. 10](Personal_Computing#4_10 "Personal Computing"), pp. 77 <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 * [David E. Welsh](David_E._Welsh "David E. Welsh") (**1980**). *Rating Boris 2.5*. [Personal Computing, Vol. 4, No. 10](Personal_Computing#4_10 "Personal Computing"), pp. 78 » [Boris 2.5](Boris#2.5 "Boris")
 * W. W. Foster (**1980**). *Six Test Problems for Chess Playing Machines*. [Personal Computing, Vol. 4, No. 10](Personal_Computing#4_10 "Personal Computing"), pp. 81
 * [Norman Whaland](Norman_Whaland "Norman Whaland") (**1980**). *What Chess Programs Don't Do (Part I)*. [Personal Computing, Vol. 4, No. 10](Personal_Computing#4_10 "Personal Computing"), pp. 82
@@ -361,7 +361,7 @@ Most Personal Computing Magazines from 1977 until 1984 are available from the [I
 ### [Vol. 5, No. 2, February 1981](https://archive.org/details/PersonalComputing198102)
 
 
-* [Evan Katz](index.php?title=Evan_Katz&action=edit&redlink=1 "Evan Katz (page does not exist)") (**1981**). *The Eleventh North American Computer Chess Championship*. [Personal Computing, Vol. 5, No. 2](Personal_Computing#5_2 "Personal Computing"), pp. 87 » [ACM 1980](ACM_1980 "ACM 1980") [[9]](#cite_note-9)
+* [Evan Katz](index.php?title=Evan_Katz&action=edit&redlink=1 "Evan Katz (page does not exist)") (**1981**). *The Eleventh North American Computer Chess Championship*. [Personal Computing, Vol. 5, No. 2](Personal_Computing#5_2 "Personal Computing"), pp. 87 » [ACM 1980](ACM_1980 "ACM 1980") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 * [Harry Shershow](Harry_Shershow "Harry Shershow") (**1981**). *Two New Units In Action*. [Personal Computing, Vol. 5, No. 2](Personal_Computing#5_2 "Personal Computing"), pp. 91 » [MCC 1980](MCC_1980 "MCC 1980"), [John Aker](John_Aker "John Aker"), [Morphy](Morphy "Morphy")
 * [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1981**). *The Cray-1 Plays Chess (Part 2)*. [Personal Computing, Vol. 5, No. 2](Personal_Computing#5_2 "Personal Computing"), pp. 95 » [Cray Blitz](Cray_Blitz "Cray Blitz"), [Cray-1](Cray-1 "Cray-1")
 
@@ -408,15 +408,15 @@ Most Personal Computing Magazines from 1977 until 1984 are available from the [I
 ## References
 
 
-1. [↑](#cite_ref-1) Cover of [Personal Computing, Vol. 3, No. 3](Personal_Computing#3_3 "Personal Computing") on [ACM 1978](ACM_1978 "ACM 1978")
-2. [↑](#cite_ref-2) [David Bunnell, publisher of tech magazines PC World and Macworld, dies at 69](https://www.washingtonpost.com/local/obituaries/david-bunnell-publisher-of-tech-magazines-pc-world-and-macworld-dies-at-69/2016/10/21/e8d080b2-97b1-11e6-bb29-bf2701dbe0a3_story.html?utm_term=.2d89c3cc4a3e) by [Matt Schudel](https://www.washingtonpost.com/people/matt-schudel/?utm_term=.63b058ea1adc), [The Washington Post](https://en.wikipedia.org/wiki/The_Washington_Post), October 21, 2016
-3. [↑](#cite_ref-3) [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1981**). *The Past, Present, and Future*. [Personal Computing, Vol. 5, No. 4](Personal_Computing#5_4 "Personal Computing"), pp. 67
-4. [↑](#cite_ref-4) [Personal Computing magazine issues 1977-1984 : Free Texts : Download & Streaming : Internet Archive](https://archive.org/details/personalcomputingmagazine?&sort=-date)
-5. [↑](#cite_ref-5) [F. Donald Bloss](http://what-when-how.com/earth-scientists/bloss-f-donald-earth-scientist/) (**1973**). *[Rate your own Chess](https://www.amazon.de/Rate-Your-Chess-F-Donald-Bloss/dp/0442008295)*. Van Nostrand Reinhold Inc.
-6. [↑](#cite_ref-6) [www.arves.org - Moravec, Josef 1882-1969](http://www.arves.org/arves/index.php/en/endgamestudies/studies-by-composer/589-moravec-josef-1882-1969)
-7. [↑](#cite_ref-7) About the [1899 game](http://www.chessgames.com/perl/chessgame?gid=1109053) of [John Finan Barry](https://pl.wikipedia.org/wiki/John_Finan_Barry) vs [Harry Nelson Pillsbury](https://en.wikipedia.org/wiki/Harry_Nelson_Pillsbury) November 27, 1899 at [Boylston Chess Club](http://boylston-chess-club.blogspot.com/), [Boston](https://en.wikipedia.org/wiki/Boston), [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts), where Barry announced mate in 13 after 31...h6, 5rk1/4R1p1/pqpp3p/2bp1b1Q/5P2/2P4P/P2B2PK/4R3 w - - 0 32
-8. [↑](#cite_ref-8) Review of [Kenneth Colby](https://en.wikipedia.org/wiki/Kenneth_Colby) (**1979**). *Secrets of a Grandpatzer: How to Beat Most People and Computers at Chess*. Malibu Chess Press, [amazon](https://www.amazon.com/Secrets-Grandpatzer-People-Computers-Chess/dp/B000UC87OO)
-9. [↑](#cite_ref-9) [Applied Concepts - Morphy Edition Master Chess (module)](http://www.schaakcomputers.nl/hein_veldhuis/database/files/01-1981%20%5BE-4701%5D%20Applied%20Concepts%20-%20Morphy%20Edition%20Master%20Chess%20%28module%29.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Cover of [Personal Computing, Vol. 3, No. 3](Personal_Computing#3_3 "Personal Computing") on [ACM 1978](ACM_1978 "ACM 1978")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Bunnell, publisher of tech magazines PC World and Macworld, dies at 69](https://www.washingtonpost.com/local/obituaries/david-bunnell-publisher-of-tech-magazines-pc-world-and-macworld-dies-at-69/2016/10/21/e8d080b2-97b1-11e6-bb29-bf2701dbe0a3_story.html?utm_term=.2d89c3cc4a3e) by [Matt Schudel](https://www.washingtonpost.com/people/matt-schudel/?utm_term=.63b058ea1adc), [The Washington Post](https://en.wikipedia.org/wiki/The_Washington_Post), October 21, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1981**). *The Past, Present, and Future*. [Personal Computing, Vol. 5, No. 4](Personal_Computing#5_4 "Personal Computing"), pp. 67
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Personal Computing magazine issues 1977-1984 : Free Texts : Download & Streaming : Internet Archive](https://archive.org/details/personalcomputingmagazine?&sort=-date)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [F. Donald Bloss](http://what-when-how.com/earth-scientists/bloss-f-donald-earth-scientist/) (**1973**). *[Rate your own Chess](https://www.amazon.de/Rate-Your-Chess-F-Donald-Bloss/dp/0442008295)*. Van Nostrand Reinhold Inc.
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [www.arves.org - Moravec, Josef 1882-1969](http://www.arves.org/arves/index.php/en/endgamestudies/studies-by-composer/589-moravec-josef-1882-1969)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> About the [1899 game](http://www.chessgames.com/perl/chessgame?gid=1109053) of [John Finan Barry](https://pl.wikipedia.org/wiki/John_Finan_Barry) vs [Harry Nelson Pillsbury](https://en.wikipedia.org/wiki/Harry_Nelson_Pillsbury) November 27, 1899 at [Boylston Chess Club](http://boylston-chess-club.blogspot.com/), [Boston](https://en.wikipedia.org/wiki/Boston), [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts), where Barry announced mate in 13 after 31...h6, 5rk1/4R1p1/pqpp3p/2bp1b1Q/5P2/2P4P/P2B2PK/4R3 w - - 0 32
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Review of [Kenneth Colby](https://en.wikipedia.org/wiki/Kenneth_Colby) (**1979**). *Secrets of a Grandpatzer: How to Beat Most People and Computers at Chess*. Malibu Chess Press, [amazon](https://www.amazon.com/Secrets-Grandpatzer-People-Computers-Chess/dp/B000UC87OO)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Applied Concepts - Morphy Edition Master Chess (module)](http://www.schaakcomputers.nl/hein_veldhuis/database/files/01-1981%20%5BE-4701%5D%20Applied%20Concepts%20-%20Morphy%20Edition%20Master%20Chess%20%28module%29.pdf) (pdf) by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
 
 **[Up one Level](Periodical "Periodical")**
 

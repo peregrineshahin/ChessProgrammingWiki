@@ -5,14 +5,14 @@ title: Leela Chess Zero
 
 
 
- [](https://twitter.com/leelachesszero) Lc0 logo [[1]](#cite_note-1) 
+ [](https://twitter.com/leelachesszero) Lc0 logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Leela Chess Zero**, (LCZero, lc0)  
 
-an adaption of [Gian-Carlo Pascutto's](Gian-Carlo_Pascutto "Gian-Carlo Pascutto") [Leela Zero](index.php?title=Leela_Zero&action=edit&redlink=1 "Leela Zero (page does not exist)") [Go](Go "Go") project [[2]](#cite_note-2) to [Chess](Chess "Chess"), initiated and announced by [Stockfish](Stockfish "Stockfish") co-author [Gary Linscott](Gary_Linscott "Gary Linscott"), who was already responsible for the Stockfish [Testing Framework](Stockfish#TestingFramework "Stockfish") called *Fishtest*. Leela Chess is [open source](Category:Open_Source "Category:Open Source"), released under the terms of [GPL version 3](Free_Software_Foundation#GPL "Free Software Foundation") or later, and supports [UCI](UCI "UCI"). 
+an adaption of [Gian-Carlo Pascutto's](Gian-Carlo_Pascutto "Gian-Carlo Pascutto") [Leela Zero](index.php?title=Leela_Zero&action=edit&redlink=1 "Leela Zero (page does not exist)") [Go](Go "Go") project <a id="cite-note-2" href="#cite-ref-2">[2]</a> to [Chess](Chess "Chess"), initiated and announced by [Stockfish](Stockfish "Stockfish") co-author [Gary Linscott](Gary_Linscott "Gary Linscott"), who was already responsible for the Stockfish [Testing Framework](Stockfish#TestingFramework "Stockfish") called *Fishtest*. Leela Chess is [open source](Category:Open_Source "Category:Open Source"), released under the terms of [GPL version 3](Free_Software_Foundation#GPL "Free Software Foundation") or later, and supports [UCI](UCI "UCI"). 
 The goal is to build a strong chess playing entity following the same type of [deep learning](Deep_Learning "Deep Learning") along with [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") (MCTS) techniques of [AlphaZero](AlphaZero "AlphaZero") as described in [DeepMind's](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)") 2017 and 2018 papers 
-[[3]](#cite_note-3)
-[[4]](#cite_note-4)
-[[5]](#cite_note-5), 
+<a id="cite-note-3" href="#cite-ref-3">[3]</a>
+<a id="cite-note-4" href="#cite-ref-4">[4]</a>
+<a id="cite-note-5" href="#cite-ref-5">[5]</a>, 
 but using distributed training for the weights of the [deep](Neural_Networks#Deep "Neural Networks") [convolutional neural network](Neural_Networks#Convolutional "Neural Networks") (CNN, DNN, DCNN). 
 
 
@@ -30,7 +30,7 @@ and using the value in conjunction with a fast rollout policy to evaluate positi
 ### [Board Representation](Board_Representation "Board Representation")
 
 
-Lc0's color agnostic board is represented by five [bitboards](Bitboards "Bitboards") (own pieces, opponent pieces, orthogonal sliding pieces, diagonal sliding pieces, and pawns including [en passant](En_passant "En passant") target information coded as pawns on rank 1 and 8), two king squares, [castling rights](Castling_Rights "Castling Rights"), and a flag whether the board is [color flipped](Color_Flipping "Color Flipping"). Getting individual piece bitboards requires some [setwise operations](General_Setwise_Operations "General Setwise Operations") such as [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") and [set theoretic difference](General_Setwise_Operations#RelativeComplement "General Setwise Operations") [[10]](#cite_note-10).
+Lc0's color agnostic board is represented by five [bitboards](Bitboards "Bitboards") (own pieces, opponent pieces, orthogonal sliding pieces, diagonal sliding pieces, and pawns including [en passant](En_passant "En passant") target information coded as pawns on rank 1 and 8), two king squares, [castling rights](Castling_Rights "Castling Rights"), and a flag whether the board is [color flipped](Color_Flipping "Color Flipping"). Getting individual piece bitboards requires some [setwise operations](General_Setwise_Operations "General Setwise Operations") such as [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") and [set theoretic difference](General_Setwise_Operations#RelativeComplement "General Setwise Operations") <a id="cite-note-10" href="#cite-ref-10">[10]</a>.
 
 
 
@@ -41,7 +41,7 @@ While [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page doe
 
 
 Concerning [nodes per second](Nodes_per_Second "Nodes per Second") of the MCTS, smaller models are faster to calculate than larger models. They are faster to train and will earlier recognize progress, but they will also saturate earlier so that at some point more training will no longer improve the engine. Larger and deeper network models will improve the receptivity, the amount of knowledge and pattern to extract from the training samples, with potential for a [stronger](Playing_Strength "Playing Strength") engine. 
-As a further improvement, Leele Chess Zero applies the *Squeeze and Excite* (SE) extension to the residual block architecture [[11]](#cite_note-11) [[12]](#cite_note-12). The body is connected to both the policy "head" for the move probability distribution, and the value "head" for the evaluation score aka [winning probability](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo") of the current position and up to seven predecessor positions on the input planes.
+As a further improvement, Leele Chess Zero applies the *Squeeze and Excite* (SE) extension to the residual block architecture <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>. The body is connected to both the policy "head" for the move probability distribution, and the value "head" for the evaluation score aka [winning probability](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo") of the current position and up to seven predecessor positions on the input planes.
 
 
 
@@ -49,10 +49,10 @@ As a further improvement, Leele Chess Zero applies the *Squeeze and Excite* (SE)
 
 
 Like in [AlphaZero](AlphaZero "AlphaZero"), the **Zero** suffix implies no other initial knowledge than the rules of the game, to build a superhuman player, starting with truly random self-play games to apply [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") based on the outcome of that games. However, there are derived approaches, such as [Albert Silver's](Albert_Silver "Albert Silver") [Deus X](Deus_X "Deus X"), trying to take a short-cut by initially using [supervised learning](Supervised_Learning "Supervised Learning") techniques, such as feeding in high quality games played by other strong chess playing entities, or huge records of positions with a given preferred move.
-The unsupervised training of the NN is about to minimize the [L2-norm](https://en.wikipedia.org/wiki/Norm_(mathematics)#Euclidean_norm) of the [mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error) loss of the value output and the policy loss. Further there are experiments to train the value head against not the game outcome, but against the accumulated value for a position after exploring some number of nodes with [UCT](UCT "UCT") [[13]](#cite_note-13).
+The unsupervised training of the NN is about to minimize the [L2-norm](https://en.wikipedia.org/wiki/Norm_(mathematics)#Euclidean_norm) of the [mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error) loss of the value output and the policy loss. Further there are experiments to train the value head against not the game outcome, but against the accumulated value for a position after exploring some number of nodes with [UCT](UCT "UCT") <a id="cite-note-13" href="#cite-ref-13">[13]</a>.
 
 
-The distributed training is realized with an sophisticated [client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model). The client, written entirely in the [Go programming language](Go_(Programming_Language) "Go (Programming Language)"), incorporates Lc0 to produce self-play games.Controlled by the server, the client may download the latest network, will start self-playing, and uploading games to the server, who on the other hand will regularly produce and distribute new neural network weights after a certain amount of games available from contributors. The training software consists of [Python](Python "Python") code, the pipeline requires [NumPy](https://en.wikipedia.org/wiki/NumPy) and [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow) running on [Linux](Linux "Linux") [[14]](#cite_note-14). 
+The distributed training is realized with an sophisticated [client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model). The client, written entirely in the [Go programming language](Go_(Programming_Language) "Go (Programming Language)"), incorporates Lc0 to produce self-play games.Controlled by the server, the client may download the latest network, will start self-playing, and uploading games to the server, who on the other hand will regularly produce and distribute new neural network weights after a certain amount of games available from contributors. The training software consists of [Python](Python "Python") code, the pipeline requires [NumPy](https://en.wikipedia.org/wiki/NumPy) and [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow) running on [Linux](Linux "Linux") <a id="cite-note-14" href="#cite-ref-14">[14]</a>. 
 The server is written in [Go](Go_(Programming_Language) "Go (Programming Language)") along with [Python](Python "Python") and [shell scripts](https://en.wikipedia.org/wiki/Shell_script).
 
 
@@ -65,12 +65,12 @@ Related to [TCEC](TCEC "TCEC") clone discussions concerning [Deus X](Deus_X "Deu
 
 [Alexander Lyashuk](Alexander_Lyashuk "Alexander Lyashuk") published diagrams with all components of the affected engines,  
 
-The above shows the common legend, and the structure of all Leela Chess Zero's components based on current Lc0 engine [[15]](#cite_note-15)
+The above shows the common legend, and the structure of all Leela Chess Zero's components based on current Lc0 engine <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 
 
  [](File:Lczero.png) 
-Same diagram, but initial LCZero engine, which played [TCEC Season 12](TCEC_Season_12 "TCEC Season 12") [[16]](#cite_note-16)
+Same diagram, but initial LCZero engine, which played [TCEC Season 12](TCEC_Season_12 "TCEC Season 12") <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 
 
@@ -91,9 +91,9 @@ in [Stockholm](https://en.wikipedia.org/wiki/Stockholm), July 2018. It won the [
 [TCEC Season 14](TCEC_Season_14 "TCEC Season 14") from November 2018 until February 2019 became a breakthrough, Lc0 winning the [third](TCEC_Season_14#Third "TCEC Season 14"), [second](TCEC_Season_14#Second "TCEC Season 14") and [first](TCEC_Season_14#First "TCEC Season 14") division, 
 to even [qualify](TCEC_Season_14#Premier "TCEC Season 14") for the [superfinal](TCEC_Season_14#Superfinal "TCEC Season 14"), losing by the narrow margin of +10 =81 -9, **50½ - 49½** versus [Stockfish](Stockfish "Stockfish").
 Again runner-up at the [TCEC Season 15 premier division](TCEC_Season_15#Premier "TCEC Season 15") in April 2019,
-Lc0 aka **LCZero v0.21.1-nT40.T8.610** won the [superfinal](TCEC_Season_15#Superfinal "TCEC Season 15") in May 2019 versus Stockfish with +14 =79 -7, **53½-46½** [[17]](#cite_note-17).
+Lc0 aka **LCZero v0.21.1-nT40.T8.610** won the [superfinal](TCEC_Season_15#Superfinal "TCEC Season 15") in May 2019 versus Stockfish with +14 =79 -7, **53½-46½** <a id="cite-note-17" href="#cite-ref-17">[17]</a>.
 At the [TCEC Season 16 premier division](TCEC_Season_16#Premier "TCEC Season 16") in September 2019, Lc0 became in third behind Stockfish and the [supervised](Supervised_Learning "Supervised Learning") trained [AllieStein](Allie#AllieStein "Allie"),
-but Lc0 took revenge by winning the [TCEC Season 17 premier division](TCEC_Season_17#Premier "TCEC Season 17") in spring 2020, as **LCZero v0.24-sv-t60-3010** fighting down Stockfish in a thrilling [superfinal](TCEC_Season_17#Superfinal "TCEC Season 17") in April 2020 with +17 =71 -12, **52½-47½** [[18]](#cite_note-18), but tables turned again in [TCEC Season 18](TCEC_Season_18#Premier "TCEC Season 18"), when Stockfish won the [superfinal](TCEC_Season_18#Superfinal "TCEC Season 18").
+but Lc0 took revenge by winning the [TCEC Season 17 premier division](TCEC_Season_17#Premier "TCEC Season 17") in spring 2020, as **LCZero v0.24-sv-t60-3010** fighting down Stockfish in a thrilling [superfinal](TCEC_Season_17#Superfinal "TCEC Season 17") in April 2020 with +17 =71 -12, **52½-47½** <a id="cite-note-18" href="#cite-ref-18">[18]</a>, but tables turned again in [TCEC Season 18](TCEC_Season_18#Premier "TCEC Season 18"), when Stockfish won the [superfinal](TCEC_Season_18#Superfinal "TCEC Season 18").
 
 
 
@@ -187,7 +187,7 @@ but Lc0 took revenge by winning the [TCEC Season 17 premier division](TCEC_Seaso
 
 
 * [Bill Jordan](Bill_Jordan "Bill Jordan") (**2020**). *Calculation versus Intuition: Stockfish versus Leela*. [amazon](https://www.amazon.com/Calculation-versus-Intuition-Stockfish-Leela-ebook/dp/B08LYBQDMB/) » [TCEC](TCEC "TCEC"), [Stockfish](Stockfish "Stockfish")
-* [Dominik Klein](Dominik_Klein "Dominik Klein") (**2021**). *[Neural Networks For Chess](https://github.com/asdfjkl/neural_network_chess)*. [Release Version 1.1 · GitHub](https://github.com/asdfjkl/neural_network_chess/releases/tag/v1.1) [[19]](#cite_note-19)
+* [Dominik Klein](Dominik_Klein "Dominik Klein") (**2021**). *[Neural Networks For Chess](https://github.com/asdfjkl/neural_network_chess)*. [Release Version 1.1 · GitHub](https://github.com/asdfjkl/neural_network_chess/releases/tag/v1.1) <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 * [Rejwana Haque](index.php?title=Rejwana_Haque&action=edit&redlink=1 "Rejwana Haque (page does not exist)"), [Ting Han Wei](index.php?title=Ting_Han_Wei&action=edit&redlink=1 "Ting Han Wei (page does not exist)"), [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2021**). *On the Road to Perfection? Evaluating Leela Chess Zero Against Endgame Tablebases*. [Advances in Computer Games 17](Advances_in_Computer_Games_17 "Advances in Computer Games 17")
 
 
@@ -235,15 +235,15 @@ but Lc0 took revenge by winning the [TCEC Season 17 premier division](TCEC_Seaso
 
  [Re: Has Silver written any code for "his" ZeusX?](https://groups.google.com/d/msg/lczero/vGdNYW-Ou58/-icwb0pjDAAJ) by [Alexander Lyashuk](Alexander_Lyashuk "Alexander Lyashuk"), [LCZero Forum](Computer_Chess_Forums "Computer Chess Forums"), August 02, 2018 
 * [Some properties of Lc0 playing](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68441) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), September 14, 2018
-* [How good is the RTX 2080 Ti for Leela?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68448) by Hai, September 15, 2018 [[20]](#cite_note-20)
+* [How good is the RTX 2080 Ti for Leela?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68448) by Hai, September 15, 2018 <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 
 
  [Re: How good is the RTX 2080 Ti for Leela?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68448&start=2) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), September 16, 2018
- [Re: How good is the RTX 2080 Ti for Leela?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68448&start=9) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), September 17, 2018 [[21]](#cite_note-21)
+ [Re: How good is the RTX 2080 Ti for Leela?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68448&start=9) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), September 17, 2018 <a id="cite-note-21" href="#cite-ref-21">[21]</a>
  [Re: How good is the RTX 2080 Ti for Leela?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68448&start=37) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), October 28, 2018
  [Re: How good is the RTX 2080 Ti for Leela?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68448&start=44) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), November 15, 2018
 * [LC0 0.18rc1 released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68511) by [Günther Simon](G%C3%BCnther_Simon "Günther Simon"), [CCC](CCC "CCC"), September 25, 2018
-* [My non-OC RTX 2070 is very fast with Lc0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68973) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), November 19, 2018 [[22]](#cite_note-22)
+* [My non-OC RTX 2070 is very fast with Lc0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68973) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), November 19, 2018 <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 * [2900 Elo points progress, 10 million games, 330 nets](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=69045) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), November 25, 2018
 
 
@@ -296,7 +296,7 @@ but Lc0 took revenge by winning the [TCEC Season 17 premier division](TCEC_Seaso
 * [LC0 vs. NNUE - some tech details...](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74607) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), July 29, 2020 » [NNUE](NNUE "NNUE")
 * [The next step for LC0?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74915) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), August 28, 2020
 * [Checking the backends with the new lc0 binary](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75262) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), October 01, 2020
-* [ZZ-tune conclusively better than the Kiudee default for Lc0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75950) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), December 01, 2020 [[23]](#cite_note-23)
+* [ZZ-tune conclusively better than the Kiudee default for Lc0](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75950) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), December 01, 2020 <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 
 
 ### 2021
@@ -367,8 +367,8 @@ but Lc0 took revenge by winning the [TCEC Season 17 premier division](TCEC_Seaso
 ### Tuning
 
 
-* [GitHub - kiudee/bayes-skopt: A fully Bayesian implementation of sequential model-based optimization](https://github.com/kiudee/bayes-skopt) by [Karlson Pfannschmidt](Karlson_Pfannschmidt "Karlson Pfannschmidt") » [Fat Fritz](Fat_Fritz "Fat Fritz") [[24]](#cite_note-24)
-* [GitHub - kiudee/chess-tuning-tools](https://github.com/kiudee/chess-tuning-tools) by [Karlson Pfannschmidt](Karlson_Pfannschmidt "Karlson Pfannschmidt") [[25]](#cite_note-25)
+* [GitHub - kiudee/bayes-skopt: A fully Bayesian implementation of sequential model-based optimization](https://github.com/kiudee/bayes-skopt) by [Karlson Pfannschmidt](Karlson_Pfannschmidt "Karlson Pfannschmidt") » [Fat Fritz](Fat_Fritz "Fat Fritz") <a id="cite-note-24" href="#cite-ref-24">[24]</a>
+* [GitHub - kiudee/chess-tuning-tools](https://github.com/kiudee/chess-tuning-tools) by [Karlson Pfannschmidt](Karlson_Pfannschmidt "Karlson Pfannschmidt") <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 
 
 ### Misc
@@ -387,31 +387,31 @@ but Lc0 took revenge by winning the [TCEC Season 17 premier division](TCEC_Seaso
 ## References
 
 
-1. [↑](#cite_ref-1) [Leela Chess Zero (@LeelaChessZero) | Twitter](https://twitter.com/leelachesszero)
-2. [↑](#cite_ref-2) [GitHub - gcp/leela-zero: Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper](https://github.com/gcp/leela-zero)
-3. [↑](#cite_ref-3) [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Matthew Lai](Matthew_Lai "Matthew Lai"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2017**). *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm*. [arXiv:1712.01815](https://arxiv.org/abs/1712.01815)
-4. [↑](#cite_ref-4) [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Matthew Lai](Matthew_Lai "Matthew Lai"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2018**). *[A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](http://science.sciencemag.org/content/362/6419/1140)*. [Science](https://en.wikipedia.org/wiki/Science_(journal)), Vol. 362, No. 6419
-5. [↑](#cite_ref-5) [AlphaZero paper, and Lc0 v0.19.1](http://blog.lczero.org/2018/12/alphazero-paper-and-lc0-v0191.html) by [crem](Alexander_Lyashuk "Alexander Lyashuk"), LCZero blog, December 07, 2018
-6. [↑](#cite_ref-6) [lc0 transition · LeelaChessZero/lc0 Wiki · GitHub](https://github.com/LeelaChessZero/lc0/wiki/lc0-transition)
-7. [↑](#cite_ref-7) [Re: TCEC season 13, 2 NN engines will be participating, Leela and Deus X](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68094&start=91) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), August 03, 2018
-8. [↑](#cite_ref-8) [NVIDIA cuDNN | NVIDIA Developer](https://developer.nvidia.com/cudnn)
-9. [↑](#cite_ref-9) [Re: My failed attempt to change TCEC NN clone rules](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71822&start=48) by [Adam Treat](Adam_Treat "Adam Treat"), [CCC](CCC "CCC"), September 19, 2019
-10. [↑](#cite_ref-10) [lc0/board.h at master · LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/blob/master/src/chess/board.h)
-11. [↑](#cite_ref-11) [Technical Explanation of Leela Chess Zero · LeelaChessZero/lc0 Wiki · GitHub](https://github.com/LeelaChessZero/lc0/wiki/Technical-Explanation-of-Leela-Chess-Zero)
-12. [↑](#cite_ref-12) [Squeeze-and-Excitation Networks – Towards Data Science](https://towardsdatascience.com/squeeze-and-excitation-networks-9ef5e71eacd7) by [Paul-Louis Pröve](http://plpp.de/), October 17, 2017
-13. [↑](#cite_ref-13) [Lessons From AlphaZero (part 4): Improving the Training Target](https://medium.com/oracledevs/lessons-from-alphazero-part-4-improving-the-training-target-6efba2e71628) by [Vish Abrams](https://blogs.oracle.com/author/vish-abrams), [Oracle Blog](https://blogs.oracle.com/), June 27, 2018
-14. [↑](#cite_ref-14) [GitHub - LeelaChessZero/lczero-training: For code etc relating to the network training process.](https://github.com/LeelaChessZero/lczero-training)
-15. [↑](#cite_ref-15) [My failed attempt to change TCEC NN clone rules](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71822) by [Alexander Lyashuk](Alexander_Lyashuk "Alexander Lyashuk"), [CCC](CCC "CCC"), September 14, 2019 » [TCEC](TCEC "TCEC")
-16. [↑](#cite_ref-16) [My failed attempt to change TCEC NN clone rules](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71822) by [Alexander Lyashuk](Alexander_Lyashuk "Alexander Lyashuk"), [CCC](CCC "CCC"), September 14, 2019 » [TCEC](TCEC "TCEC")
-17. [↑](#cite_ref-17) [Lc0 won TCEC 15](https://blog.lczero.org/2019/05/lc0-won-tcec-15.html) by [crem](Alexander_Lyashuk "Alexander Lyashuk"), LCZero blog, May 28, 2019
-18. [↑](#cite_ref-18) [TCEC S17 SUper FInal report](https://lczero.org/blog/2020/04/tcec-s17-super-final-report/) by @glbchess64, LCZero blog, April 21, 2020
-19. [↑](#cite_ref-19) [Book about Neural Networks for Chess](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78283) by dkl, [CCC](CCC "CCC"), September 29, 2021
-20. [↑](#cite_ref-20) [GeForce 20 series from Wikipedia](https://en.wikipedia.org/wiki/GeForce_20_series)
-21. [↑](#cite_ref-21) [Multiply–accumulate operation - Wikipedia](https://en.wikipedia.org/wiki/Multiply%E2%80%93accumulate_operation)
-22. [↑](#cite_ref-22) [GeForce RTX 2070 Graphics Card | NVIDIA](https://www.nvidia.com/en-us/geforce/graphics-cards/rtx-2070/)
-23. [↑](#cite_ref-23) [GitHub - kiudee/chess-tuning-tools](https://github.com/kiudee/chess-tuning-tools) by [Karlson Pfannschmidt](Karlson_Pfannschmidt "Karlson Pfannschmidt")
-24. [↑](#cite_ref-24) [Fat Fritz 1.1 update and a small gift](https://en.chessbase.com/post/fat-fritz-update-and-fat-fritz-jr) by [Albert Silver](Albert_Silver "Albert Silver"). [ChessBase News](ChessBase "ChessBase"), March 05, 2020
-25. [↑](#cite_ref-25) [Welcome to Chess Tuning Tools’s documentation!](https://chess-tuning-tools.readthedocs.io/en/latest/)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Leela Chess Zero (@LeelaChessZero) | Twitter](https://twitter.com/leelachesszero)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [GitHub - gcp/leela-zero: Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper](https://github.com/gcp/leela-zero)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Matthew Lai](Matthew_Lai "Matthew Lai"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2017**). *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm*. [arXiv:1712.01815](https://arxiv.org/abs/1712.01815)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Matthew Lai](Matthew_Lai "Matthew Lai"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2018**). *[A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](http://science.sciencemag.org/content/362/6419/1140)*. [Science](https://en.wikipedia.org/wiki/Science_(journal)), Vol. 362, No. 6419
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [AlphaZero paper, and Lc0 v0.19.1](http://blog.lczero.org/2018/12/alphazero-paper-and-lc0-v0191.html) by [crem](Alexander_Lyashuk "Alexander Lyashuk"), LCZero blog, December 07, 2018
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [lc0 transition · LeelaChessZero/lc0 Wiki · GitHub](https://github.com/LeelaChessZero/lc0/wiki/lc0-transition)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: TCEC season 13, 2 NN engines will be participating, Leela and Deus X](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68094&start=91) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), August 03, 2018
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [NVIDIA cuDNN | NVIDIA Developer](https://developer.nvidia.com/cudnn)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: My failed attempt to change TCEC NN clone rules](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71822&start=48) by [Adam Treat](Adam_Treat "Adam Treat"), [CCC](CCC "CCC"), September 19, 2019
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [lc0/board.h at master · LeelaChessZero/lc0 · GitHub](https://github.com/LeelaChessZero/lc0/blob/master/src/chess/board.h)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Technical Explanation of Leela Chess Zero · LeelaChessZero/lc0 Wiki · GitHub](https://github.com/LeelaChessZero/lc0/wiki/Technical-Explanation-of-Leela-Chess-Zero)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Squeeze-and-Excitation Networks – Towards Data Science](https://towardsdatascience.com/squeeze-and-excitation-networks-9ef5e71eacd7) by [Paul-Louis Pröve](http://plpp.de/), October 17, 2017
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Lessons From AlphaZero (part 4): Improving the Training Target](https://medium.com/oracledevs/lessons-from-alphazero-part-4-improving-the-training-target-6efba2e71628) by [Vish Abrams](https://blogs.oracle.com/author/vish-abrams), [Oracle Blog](https://blogs.oracle.com/), June 27, 2018
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [GitHub - LeelaChessZero/lczero-training: For code etc relating to the network training process.](https://github.com/LeelaChessZero/lczero-training)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [My failed attempt to change TCEC NN clone rules](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71822) by [Alexander Lyashuk](Alexander_Lyashuk "Alexander Lyashuk"), [CCC](CCC "CCC"), September 14, 2019 » [TCEC](TCEC "TCEC")
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [My failed attempt to change TCEC NN clone rules](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71822) by [Alexander Lyashuk](Alexander_Lyashuk "Alexander Lyashuk"), [CCC](CCC "CCC"), September 14, 2019 » [TCEC](TCEC "TCEC")
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Lc0 won TCEC 15](https://blog.lczero.org/2019/05/lc0-won-tcec-15.html) by [crem](Alexander_Lyashuk "Alexander Lyashuk"), LCZero blog, May 28, 2019
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [TCEC S17 SUper FInal report](https://lczero.org/blog/2020/04/tcec-s17-super-final-report/) by @glbchess64, LCZero blog, April 21, 2020
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Book about Neural Networks for Chess](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78283) by dkl, [CCC](CCC "CCC"), September 29, 2021
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [GeForce 20 series from Wikipedia](https://en.wikipedia.org/wiki/GeForce_20_series)
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Multiply–accumulate operation - Wikipedia](https://en.wikipedia.org/wiki/Multiply%E2%80%93accumulate_operation)
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [GeForce RTX 2070 Graphics Card | NVIDIA](https://www.nvidia.com/en-us/geforce/graphics-cards/rtx-2070/)
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [GitHub - kiudee/chess-tuning-tools](https://github.com/kiudee/chess-tuning-tools) by [Karlson Pfannschmidt](Karlson_Pfannschmidt "Karlson Pfannschmidt")
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Fat Fritz 1.1 update and a small gift](https://en.chessbase.com/post/fat-fritz-update-and-fat-fritz-jr) by [Albert Silver](Albert_Silver "Albert Silver"). [ChessBase News](ChessBase "ChessBase"), March 05, 2020
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Welcome to Chess Tuning Tools’s documentation!](https://chess-tuning-tools.readthedocs.io/en/latest/)
 
 **[Up one level](Engines "Engines")**
 

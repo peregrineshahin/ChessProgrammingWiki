@@ -6,14 +6,14 @@ title: Kasparov Simul vs 32 Micros Hamburg 1985
 
 **Kasparov Simul vs 32 Micros Hamburg 1985**,  
 
-a [simultaneous exhibition](https://en.wikipedia.org/wiki/Simultaneous_exhibition) of [Garry Kasparov](Garry_Kasparov "Garry Kasparov") playing 32 chess computers in [Hamburg](https://en.wikipedia.org/wiki/Hamburg), June 06, [1985](Timeline#1985 "Timeline"), organized by the German weekly magazine [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel), [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") and [ChessBase](ChessBase "ChessBase") [[1]](#cite_note-1) . He won with a perfect 32-0 score. The computers were [dedicated units](Dedicated_Chess_Computers "Dedicated Chess Computers"), except two experimental [Mephisto](Mephisto "Mephisto") entries, [Genius 68000](Chess_Genius "Chess Genius") and [Rebell Experimental](Mephisto_Rebell "Mephisto Rebell") which ran on general purpose computers operated by their authors [Richard Lang](Richard_Lang "Richard Lang") and [Ed Schröder](Ed_Schroder "Ed Schroder"). There were eight entries each by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics"), [Novag](Novag "Novag") and [SciSys](Saitek "Saitek") with programs by [Ulf Rathsman](Ulf_Rathsman "Ulf Rathsman"), Lang and Schröder, [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"), [David Kittinger](David_Kittinger "David Kittinger"), and [Julio Kaplan](Julio_Kaplan "Julio Kaplan") and [Craig Barnes](Craig_Barnes "Craig Barnes").
+a [simultaneous exhibition](https://en.wikipedia.org/wiki/Simultaneous_exhibition) of [Garry Kasparov](Garry_Kasparov "Garry Kasparov") playing 32 chess computers in [Hamburg](https://en.wikipedia.org/wiki/Hamburg), June 06, [1985](Timeline#1985 "Timeline"), organized by the German weekly magazine [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel), [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") and [ChessBase](ChessBase "ChessBase") <a id="cite-note-1" href="#cite-ref-1">[1]</a> . He won with a perfect 32-0 score. The computers were [dedicated units](Dedicated_Chess_Computers "Dedicated Chess Computers"), except two experimental [Mephisto](Mephisto "Mephisto") entries, [Genius 68000](Chess_Genius "Chess Genius") and [Rebell Experimental](Mephisto_Rebell "Mephisto Rebell") which ran on general purpose computers operated by their authors [Richard Lang](Richard_Lang "Richard Lang") and [Ed Schröder](Ed_Schroder "Ed Schroder"). There were eight entries each by [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics"), [Novag](Novag "Novag") and [SciSys](Saitek "Saitek") with programs by [Ulf Rathsman](Ulf_Rathsman "Ulf Rathsman"), Lang and Schröder, [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"), [David Kittinger](David_Kittinger "David Kittinger"), and [Julio Kaplan](Julio_Kaplan "Julio Kaplan") and [Craig Barnes](Craig_Barnes "Craig Barnes").
 
 
 
 ## Quotes
 
 
-According to Kasparov, one [Turbostar 432](Turbostar "Turbostar") might have [missed the win](#missed37Qa4) with 37...Qa4 instead of Qb3 [[3]](#cite_note-3) . Kasparov's quote in *Chess Metaphors: Artificial Intelligence and the Human Mind* by [Diego Rasskin-Gutman](index.php?title=Diego_Rasskin-Gutman&action=edit&redlink=1 "Diego Rasskin-Gutman (page does not exist)") on that game [[4]](#cite_note-4) [[5]](#cite_note-5) :
+According to Kasparov, one [Turbostar 432](Turbostar "Turbostar") might have [missed the win](#missed37Qa4) with 37...Qa4 instead of Qb3 <a id="cite-note-3" href="#cite-ref-3">[3]</a> . Kasparov's quote in *Chess Metaphors: Artificial Intelligence and the Human Mind* by [Diego Rasskin-Gutman](index.php?title=Diego_Rasskin-Gutman&action=edit&redlink=1 "Diego Rasskin-Gutman (page does not exist)") on that game <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
 
 
@@ -26,7 +26,7 @@ At one point I realized that I was drifting into trouble in a game against one o
 ## Games
 
 
-[[6]](#cite_note-6)
+<a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 
 
@@ -708,7 +708,7 @@ Qg7 52.Qxg7+ Kxg7 53.Bxb7 Bb8 54.Bxa6 1-0
 ## Reports
 
 
-* [31 Partien zugleich: 10 Sekunden pro Zug](http://www.spiegel.de/spiegel/print/d-13514177.html) [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 24/1985, June 10, 1985 (German) by [Susanne, Barbara, Isabel, and Dorothee Hund](Gerhard_Hund "Gerhard Hund") [[7]](#cite_note-7)
+* [31 Partien zugleich: 10 Sekunden pro Zug](http://www.spiegel.de/spiegel/print/d-13514177.html) [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 24/1985, June 10, 1985 (German) by [Susanne, Barbara, Isabel, and Dorothee Hund](Gerhard_Hund "Gerhard Hund") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 * [Gute Taktiker, schlechte Strategen](http://www.spiegel.de/spiegel/print/d-13514808.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 25/1985, June 17, 1985 (German)
 * [Fast sicheren Sieg verschenkt](http://www.spiegel.de/spiegel/print/d-13514816.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 25/1985, June 17, 1985 (German)
 
@@ -723,7 +723,7 @@ Qg7 52.Qxg7+ Kxg7 53.Bxb7 Bb8 54.Bxa6 1-0
 ## External Links
 
 
-* [The Chess Master and the Computer - Garry Kasparov](http://www.nybooks.com/articles/archives/2010/feb/11/the-chess-master-and-the-computer/) | [The New York Review of Books](https://en.wikipedia.org/wiki/The_New_York_Review_of_Books), February 11, 2010 [[8]](#cite_note-8)
+* [The Chess Master and the Computer - Garry Kasparov](http://www.nybooks.com/articles/archives/2010/feb/11/the-chess-master-and-the-computer/) | [The New York Review of Books](https://en.wikipedia.org/wiki/The_New_York_Review_of_Books), February 11, 2010 <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 * [Chess Metaphors – Artificial Intelligence and the Human Mind](http://en.chessbase.com/post/che-metaphors-artificial-intelligence-and-the-human-mind) by [Diego Rasskin-Gutman](index.php?title=Diego_Rasskin-Gutman&action=edit&redlink=1 "Diego Rasskin-Gutman (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), January 28, 2010
 * [Kasparov and thirty years of computer chess](http://en.chessbase.com/post/kasparov-and-thirty-years-of-computer-chess) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), June 06, 2015
 
@@ -731,14 +731,14 @@ Qg7 52.Qxg7+ Kxg7 53.Bxb7 Bb8 54.Bxa6 1-0
 ## References
 
 
-1. [↑](#cite_ref-1) [Fast sicheren Sieg verschenkt](http://www.spiegel.de/spiegel/print/d-13514816.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 25/1985, June 17, 1985 (German)
-2. [↑](#cite_ref-2) Photos Hamburg 1985, Garry Kasparov simultaneous exhibition versus chess computers 32-0, from [Chess Metaphors – Artificial Intelligence and the Human Mind](https://en.chessbase.com/post/che-metaphors-artificial-intelligence-and-the-human-mind) by [Diego Rasskin-Gutman](index.php?title=Diego_Rasskin-Gutman&action=edit&redlink=1 "Diego Rasskin-Gutman (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), January 28, 2010
-3. [↑](#cite_ref-3) [Garry Kasparov vs Turbostar (Computer) (1985)](http://www.chessgames.com/perl/chessgame?gid=1070151) from [chessgames.com](http://www.chessgames.com/index.html)
-4. [↑](#cite_ref-4) [The Chess Master and the Computer - Garry Kasparov](http://www.nybooks.com/articles/archives/2010/feb/11/the-chess-master-and-the-computer/) | [The New York Review of Books](https://en.wikipedia.org/wiki/The_New_York_Review_of_Books), February 11, 2010
-5. [↑](#cite_ref-5) [Chess Metaphors – Artificial Intelligence and the Human Mind](http://en.chessbase.com/post/che-metaphors-artificial-intelligence-and-the-human-mind) by [Diego Rasskin-Gutman](index.php?title=Diego_Rasskin-Gutman&action=edit&redlink=1 "Diego Rasskin-Gutman (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), January 28, 2010
-6. [↑](#cite_ref-6) [Kasparov Games 1985](http://www.chessgames.com/perl/chess.pl?yearcomp=exactly&year=1985&playercomp=either&pid=&player=Kasparov&pid2=&player2=&movescomp=exactly&moves=&opening=&eco=&result=1st) from [chessgames.com](http://www.chessgames.com/index.html)
-7. [↑](#cite_ref-7) [Category:Photographs](http://commons.wikimedia.org/wiki/Category:Photographs_by_Gerhard_Hund,_Hamburg) by [Gerhard Hund](Gerhard_Hund "Gerhard Hund"), Hamburg - [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-8. [↑](#cite_ref-8) [Diego Rasskin-Gutman](index.php?title=Diego_Rasskin-Gutman&action=edit&redlink=1 "Diego Rasskin-Gutman (page does not exist)") (**2009**). *[Chess Metaphors - Artificial Intelligence and the Human Mind](https://mitpress.mit.edu/books/chess-metaphors)*. translated by [Deborah Klosky](http://cognet.mit.edu/contributor/deborah-klosky), [MIT Press](https://en.wikipedia.org/wiki/MIT_Press)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Fast sicheren Sieg verschenkt](http://www.spiegel.de/spiegel/print/d-13514816.html), [Der Spiegel](https://en.wikipedia.org/wiki/Der_Spiegel) 25/1985, June 17, 1985 (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Photos Hamburg 1985, Garry Kasparov simultaneous exhibition versus chess computers 32-0, from [Chess Metaphors – Artificial Intelligence and the Human Mind](https://en.chessbase.com/post/che-metaphors-artificial-intelligence-and-the-human-mind) by [Diego Rasskin-Gutman](index.php?title=Diego_Rasskin-Gutman&action=edit&redlink=1 "Diego Rasskin-Gutman (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), January 28, 2010
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Garry Kasparov vs Turbostar (Computer) (1985)](http://www.chessgames.com/perl/chessgame?gid=1070151) from [chessgames.com](http://www.chessgames.com/index.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Chess Master and the Computer - Garry Kasparov](http://www.nybooks.com/articles/archives/2010/feb/11/the-chess-master-and-the-computer/) | [The New York Review of Books](https://en.wikipedia.org/wiki/The_New_York_Review_of_Books), February 11, 2010
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess Metaphors – Artificial Intelligence and the Human Mind](http://en.chessbase.com/post/che-metaphors-artificial-intelligence-and-the-human-mind) by [Diego Rasskin-Gutman](index.php?title=Diego_Rasskin-Gutman&action=edit&redlink=1 "Diego Rasskin-Gutman (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), January 28, 2010
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Kasparov Games 1985](http://www.chessgames.com/perl/chess.pl?yearcomp=exactly&year=1985&playercomp=either&pid=&player=Kasparov&pid2=&player2=&movescomp=exactly&moves=&opening=&eco=&result=1st) from [chessgames.com](http://www.chessgames.com/index.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Category:Photographs](http://commons.wikimedia.org/wiki/Category:Photographs_by_Gerhard_Hund,_Hamburg) by [Gerhard Hund](Gerhard_Hund "Gerhard Hund"), Hamburg - [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Diego Rasskin-Gutman](index.php?title=Diego_Rasskin-Gutman&action=edit&redlink=1 "Diego Rasskin-Gutman (page does not exist)") (**2009**). *[Chess Metaphors - Artificial Intelligence and the Human Mind](https://mitpress.mit.edu/books/chess-metaphors)*. translated by [Deborah Klosky](http://cognet.mit.edu/contributor/deborah-klosky), [MIT Press](https://en.wikipedia.org/wiki/MIT_Press)
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

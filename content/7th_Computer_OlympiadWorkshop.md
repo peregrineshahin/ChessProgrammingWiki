@@ -5,14 +5,14 @@ title: 7th Computer OlympiadWorkshop
 
 **[\< Prev](6th_Computer_Olympiad "6th Computer Olympiad") [Next >](8th_Computer_Olympiad "8th Computer Olympiad")**
 
-\[ [Maastricht University](Maastricht_University "Maastricht University") [[1]](#cite_note-1)
+\[ [Maastricht University](Maastricht_University "Maastricht University") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Seventh Computer Olympiad** took place from July 5 to 11, [2002](Timeline#2002 "Timeline"), at [Maastricht University](Maastricht_University "Maastricht University"), [Maastricht](https://en.wikipedia.org/wiki/Maastricht), [The Netherlands](https://en.wikipedia.org/wiki/Netherlands), in conjunction with the [Tenth World Computer Chess Championship](WCCC_2002 "WCCC 2002"). The Olympiad as well the WCCC were held in the former residence of the Gouvernor of [Limburg](https://en.wikipedia.org/wiki/Limburg_%28Netherlands%29) in the historic center of Maastricht, Bouillonstraat 1-3, which now belongs to the [Maastricht University](Maastricht_University "Maastricht University"). During the 7th Computer Olympiad the [workshop on computer games](7th_Computer_Olympiad#Workshop "7th Computer Olympiad") was held, again organized by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk").
 
 ## Results
 
 ## [Amazons](Amazons "Amazons")
 
-**[\< Prev](6th_Computer_Olympiad#Amazons "6th Computer Olympiad") [Next >](8th_Computer_Olympiad#Amazons "8th Computer Olympiad")** [[2]](#cite_note-2)
+**[\< Prev](6th_Computer_Olympiad#Amazons "6th Computer Olympiad") [Next >](8th_Computer_Olympiad#Amazons "8th Computer Olympiad")** <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 |  #
 |  Program
@@ -53,11 +53,11 @@ The **Seventh Computer Olympiad** took place from July 5 to 11, [2002](Timeline#
 - [CC Country Codes](https://en.wikipedia.org/wiki/ISO_3166-1)
 
 [](https://ilk.uvt.nl/icga/games/amazons/OlympiadMedalWinners%28LorentzLieberumDeKoning%29.JPG)
-Amazons Winners: [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz"), [Jens Lieberum](Jens_Lieberum "Jens Lieberum"), [Johan de Koning](Johan_de_Koning "Johan de Koning") [[3]](#cite_note-3)
+Amazons Winners: [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz"), [Jens Lieberum](Jens_Lieberum "Jens Lieberum"), [Johan de Koning](Johan_de_Koning "Johan de Koning") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ## [Backgammon](Backgammon "Backgammon")
 
-**[\< Prev](4th_Computer_Olympiad#Backgammon "4th Computer Olympiad") [Next >](8th_Computer_Olympiad#Backgammon "8th Computer Olympiad")** [[4]](#cite_note-4)
+**[\< Prev](4th_Computer_Olympiad#Backgammon "4th Computer Olympiad") [Next >](8th_Computer_Olympiad#Backgammon "8th Computer Olympiad")** <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 |  #
 |  Program
@@ -81,11 +81,11 @@ Amazons Winners: [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz"), 
 - [CC Country Codes](https://en.wikipedia.org/wiki/ISO_3166-1)
 
 [](http://www.bgblitz.com/olympiad/Achim_Frank_1.jpg)
-Backgammon players: [Achim Müller](index.php?title=Achim_M%C3%BCller&action=edit&redlink=1 "Achim Müller (page does not exist)") and [Frank Berger](index.php?title=Frank_Berger&action=edit&redlink=1 "Frank Berger (page does not exist)") [[5]](#cite_note-5)
+Backgammon players: [Achim Müller](index.php?title=Achim_M%C3%BCller&action=edit&redlink=1 "Achim Müller (page does not exist)") and [Frank Berger](index.php?title=Frank_Berger&action=edit&redlink=1 "Frank Berger (page does not exist)") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ## [Bridge](index.php?title=Bridge&action=edit&redlink=1 "Bridge (page does not exist)")
 
-**[\< Prev](4th_Computer_Olympiad#Bridge "4th Computer Olympiad")** [[6]](#cite_note-6)
+**[\< Prev](4th_Computer_Olympiad#Bridge "4th Computer Olympiad")** <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 |  #
 |  Program
@@ -110,7 +110,7 @@ Backgammon players: [Achim Müller](index.php?title=Achim_M%C3%BCller&action=edi
 
 ## [Chinese Chess](Chinese_Chess "Chinese Chess")
 
-**[\< Prev](6th_Computer_Olympiad#ChineseChess "6th Computer Olympiad") [Next >](8th_Computer_Olympiad#ChineseChess "8th Computer Olympiad")** [[7]](#cite_note-7)
+**[\< Prev](6th_Computer_Olympiad#ChineseChess "6th Computer Olympiad") [Next >](8th_Computer_Olympiad#ChineseChess "8th Computer Olympiad")** <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 |  #
 |  Program
@@ -143,7 +143,7 @@ Backgammon players: [Achim Müller](index.php?title=Achim_M%C3%BCller&action=edi
 
 ## [Dots and Boxes](index.php?title=Dots_and_Boxes&action=edit&redlink=1 "Dots and Boxes (page does not exist)")
 
-[[8]](#cite_note-8) [[9]](#cite_note-9)
+<a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 |  #
 |  Program
@@ -167,7 +167,7 @@ Backgammon players: [Achim Müller](index.php?title=Achim_M%C3%BCller&action=edi
 
 ## [Draughts](Draughts "Draughts")
 
-**[\< Prev](4th_Computer_Olympiad#Draughts "4th Computer Olympiad") [Next >](8th_Computer_Olympiad#Draughts "8th Computer Olympiad")** [[10]](#cite_note-10)
+**[\< Prev](4th_Computer_Olympiad#Draughts "4th Computer Olympiad") [Next >](8th_Computer_Olympiad#Draughts "8th Computer Olympiad")** <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 |  #
 |  Program
@@ -221,7 +221,7 @@ Backgammon players: [Achim Müller](index.php?title=Achim_M%C3%BCller&action=edi
 - [CC Country Codes](https://en.wikipedia.org/wiki/ISO_3166-1)
 
 [](http://www.bgblitz.com/olympiad/Participients_2.jpg)
-Playing Hall with Draughts Tournament, [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") interested [[11]](#cite_note-11)
+Playing Hall with Draughts Tournament, [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") interested <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ## [Go](Go "Go")
 
@@ -229,7 +229,7 @@ Playing Hall with Draughts Tournament, [Vincent Diepeveen](Vincent_Diepeveen "Vi
 
 ### 19x19
 
-[[12]](#cite_note-12)
+<a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 |  #
 |  Program
@@ -252,7 +252,7 @@ Playing Hall with Draughts Tournament, [Vincent Diepeveen](Vincent_Diepeveen "Vi
 |
 |  3
 | [GNU Go](index.php?title=GNU_Go&action=edit&redlink=1 "GNU Go (page does not exist)") |  \*
-| [Arend Bayer](index.php?title=Arend_Bayer&action=edit&redlink=1 "Arend Bayer (page does not exist)"), [Daniel Bump](index.php?title=Daniel_Bump&action=edit&redlink=1 "Daniel Bump (page does not exist)"),[Gunnar Farnebäck](Gunnar_Farneb%C3%A4ck "Gunnar Farnebäck"), [Heikki Levanto](index.php?title=Heikki_Levanto&action=edit&redlink=1 "Heikki Levanto (page does not exist)"),[Paul Pogonyshev](index.php?title=Paul_Pogonyshev&action=edit&redlink=1 "Paul Pogonyshev (page does not exist)"), [Inge Wallin](index.php?title=Inge_Wallin&action=edit&redlink=1 "Inge Wallin (page does not exist)") et al. [[13]](#cite_note-13) |  5
+| [Arend Bayer](index.php?title=Arend_Bayer&action=edit&redlink=1 "Arend Bayer (page does not exist)"), [Daniel Bump](index.php?title=Daniel_Bump&action=edit&redlink=1 "Daniel Bump (page does not exist)"),[Gunnar Farnebäck](Gunnar_Farneb%C3%A4ck "Gunnar Farnebäck"), [Heikki Levanto](index.php?title=Heikki_Levanto&action=edit&redlink=1 "Heikki Levanto (page does not exist)"),[Paul Pogonyshev](index.php?title=Paul_Pogonyshev&action=edit&redlink=1 "Paul Pogonyshev (page does not exist)"), [Inge Wallin](index.php?title=Inge_Wallin&action=edit&redlink=1 "Inge Wallin (page does not exist)") et al. <a id="cite-note-13" href="#cite-ref-13">[13]</a> |  5
 |  0
 |  Bronze
 |
@@ -269,7 +269,7 @@ Playing Hall with Draughts Tournament, [Vincent Diepeveen](Vincent_Diepeveen "Vi
 
 ### 9x9
 
-[[14]](#cite_note-14)
+<a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 |  #
 |  Program
@@ -307,11 +307,11 @@ Playing Hall with Draughts Tournament, [Vincent Diepeveen](Vincent_Diepeveen "Vi
 - [CC Country Codes](https://en.wikipedia.org/wiki/ISO_3166-1)
 
 [](http://erikvanderwerf.tengen.nl/magog.html)
-The [Magog](https://www.game-ai-forum.org/icga-tournaments/program.php?id=137) team at the [7th Computer Olympiad 2002](7th_Computer_Olympiad#Go9x9 "7th Computer Olympiad"). [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf") [[15]](#cite_note-15)
+The [Magog](https://www.game-ai-forum.org/icga-tournaments/program.php?id=137) team at the [7th Computer Olympiad 2002](7th_Computer_Olympiad#Go9x9 "7th Computer Olympiad"). [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf") <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 ## [Lines of Action](Lines_of_Action "Lines of Action")
 
-**[\< Prev](6th_Computer_Olympiad#LOA "6th Computer Olympiad") [Next >](8th_Computer_Olympiad#LOA "8th Computer Olympiad")** [[16]](#cite_note-16)
+**[\< Prev](6th_Computer_Olympiad#LOA "6th Computer Olympiad") [Next >](8th_Computer_Olympiad#LOA "8th Computer Olympiad")** <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 |  #
 |  Program
@@ -344,7 +344,7 @@ The [Magog](https://www.game-ai-forum.org/icga-tournaments/program.php?id=137) t
 
 ## [Shogi](Shogi "Shogi")
 
-**[\< Prev](6th_Computer_Olympiad#Shogi "6th Computer Olympiad") [Next >](8th_Computer_Olympiad#Shogi "8th Computer Olympiad")** [[17]](#cite_note-17) [[18]](#cite_note-18)
+**[\< Prev](6th_Computer_Olympiad#Shogi "6th Computer Olympiad") [Next >](8th_Computer_Olympiad#Shogi "8th Computer Olympiad")** <a id="cite-note-17" href="#cite-ref-17">[17]</a> <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 |  #
 |  Program
@@ -386,7 +386,7 @@ The [Magog](https://www.game-ai-forum.org/icga-tournaments/program.php?id=137) t
 - [CC Country Codes](https://en.wikipedia.org/wiki/ISO_3166-1)
 
 [](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2002/album/p7060173.html)
-[Yasushi Tanase](index.php?title=Yasushi_Tanase&action=edit&redlink=1 "Yasushi Tanase (page does not exist)") and [Jeff Rollason](Jeff_Rollason "Jeff Rollason") in [ISshogi](https://www.game-ai-forum.org/icga-tournaments/program.php?id=255) vs. [Shotest](https://www.game-ai-forum.org/icga-tournaments/program.php?id=223) [[19]](#cite_note-19)
+[Yasushi Tanase](index.php?title=Yasushi_Tanase&action=edit&redlink=1 "Yasushi Tanase (page does not exist)") and [Jeff Rollason](Jeff_Rollason "Jeff Rollason") in [ISshogi](https://www.game-ai-forum.org/icga-tournaments/program.php?id=255) vs. [Shotest](https://www.game-ai-forum.org/icga-tournaments/program.php?id=223) <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 
 ## See also
 
@@ -414,7 +414,7 @@ The [Magog](https://www.game-ai-forum.org/icga-tournaments/program.php?id=137) t
 
 ## Workshop
 
-During the 7th Computer Olympiad a workshop on computer games was held, on the evenings of July 6, 7 and 8, again organized by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") from IKAT at [Maastricht University](Maastricht_University "Maastricht University") [[20]](#cite_note-20) [[21]](#cite_note-21) [[22]](#cite_note-22)
+During the 7th Computer Olympiad a workshop on computer games was held, on the evenings of July 6, 7 and 8, again organized by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") from IKAT at [Maastricht University](Maastricht_University "Maastricht University") <a id="cite-note-20" href="#cite-ref-20">[20]</a> <a id="cite-note-21" href="#cite-ref-21">[21]</a> <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 
 ## Lectures
 
@@ -422,14 +422,14 @@ During the 7th Computer Olympiad a workshop on computer games was held, on the e
 
 1. [Brian Sheppard](Brian_Sheppard "Brian Sheppard") (**2002**). *An Overview of Computer Play of Scrabble*. Invited Lecture, [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad")
 1. [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida") (**2002**). *Dynamic-Information Games*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad")
-1. [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Learning in Lines of Action*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad") [[23]](#cite_note-23) [[24]](#cite_note-24)
+1. [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Learning in Lines of Action*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad") <a id="cite-note-23" href="#cite-ref-23">[23]</a> <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 1. [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2002**). *Treemaps for Search-Tree Visualization*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad"), [pdf](https://www.remi-coulom.fr/Publications/CGOlympiad2002.pdf)
 1. [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**2002**). *Solving the Games People Play*. Invited Lecture, [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad")
 1. [Jeroen Donkers](Jeroen_Donkers "Jeroen Donkers"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2002**). *Programming Bao*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad"), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.6870&rep=rep1&type=pdf)
 1. [Jun Nagashima](Jun_Nagashima "Jun Nagashima") (**2002**). *Realization-Probability Search: Its application to Shogi and LOA*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad")
 1. [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz") (**2002**). *Finding Territory in Amazons*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad")
 1. [Eugène Nalimov](Eugene_Nalimov "Eugene Nalimov") (**2002**). *Chess Endgame Tablebases*. Invited Lecture, [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad")
-1. [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf") (**2002**). *Solving Ponnuki-Go on Small Boards*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad") [[25]](#cite_note-25)
+1. [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf") (**2002**). *Solving Ponnuki-Go on Small Boards*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad") <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 1. [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**2002**). *Inventing Game Variants with Computer Help*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad")
 1. [Guy Haworth](Guy_Haworth "Guy Haworth") (**2002**). *[Self-play: Statistical Significance](http://centaur.reading.ac.uk/5952/)*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad")
 1. [Guy Haworth](Guy_Haworth "Guy Haworth") (**2002**). *Reference Fallible Endgame Play*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad"), [pdf](http://centaur.reading.ac.uk/4579/1/2002c_CoW7_H_Reference_Fallible_Endgame_Play.pdf)
@@ -437,7 +437,7 @@ During the 7th Computer Olympiad a workshop on computer games was held, on the e
 
 ## Photos
 
-[Eugène Nalimov](Eugene_Nalimov "Eugene Nalimov"), winner of the [ChessBase Best-Publication Award](ChessBase#BestPublicationAward "ChessBase") and Guest of Honor at Workshop, during his invited Lecture, July 8, 2002 [[26]](#cite_note-26)
+[Eugène Nalimov](Eugene_Nalimov "Eugene Nalimov"), winner of the [ChessBase Best-Publication Award](ChessBase#BestPublicationAward "ChessBase") and Guest of Honor at Workshop, during his invited Lecture, July 8, 2002 <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 
 |  |  |
 | --- | --- |
@@ -463,32 +463,32 @@ During the 7th Computer Olympiad a workshop on computer games was held, on the e
 
 ## References
 
-1. [↑](#cite_ref-1) Building Gouvernement, former residence of the Gouvernor of [Limburg](https://en.wikipedia.org/wiki/Limburg_%28Netherlands%29). Now a part of the University. Build around 1935 and designed by [G.C. Bremer](http://en.nai.nl/museum/exhibitions/online/item/_rp_kolom2-1_elementId/1_169764), Image by [Brbbl](https://commons.wikimedia.org/wiki/User:Brbbl), June 14, 2009, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Maastricht University from Wikipedia](https://en.wikipedia.org/wiki/Maastricht_University)
-1. [↑](#cite_ref-2) [7th Computer Olympiad, Amazons - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=77)
-1. [↑](#cite_ref-3) [ICGA: Amazons](https://ilk.uvt.nl/icga/games/amazons/) by [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz")
-1. [↑](#cite_ref-4) [7th Computer Olympiad, Backgammon - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=89)
-1. [↑](#cite_ref-5) [BGBlitz at Maastricht 2002 - Computer Olympiad - Maastricht 2002](http://www.bgblitz.com/olympiad_2002.html) by [Frank Berger](index.php?title=Frank_Berger&action=edit&redlink=1 "Frank Berger (page does not exist)")
-1. [↑](#cite_ref-6) [7th Computer Olympiad, Bridge - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=90)
-1. [↑](#cite_ref-7) [7th Computer Olympiad, Chinese Chess - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=88)
-1. [↑](#cite_ref-8) [7th Computer Olympiad, Dots and Boxes - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=93)
-1. [↑](#cite_ref-9) [Dots and Boxes from Wikipedia](https://en.wikipedia.org/wiki/Dots_and_Boxes)
-1. [↑](#cite_ref-10) [7th Computer Olympiad, Draughts - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=94)
-1. [↑](#cite_ref-11) [BGBlitz at Maastricht 2002 - Computer Olympiad - Maastricht 2002](http://www.bgblitz.com/olympiad_2002.html) by [Frank Berger](index.php?title=Frank_Berger&action=edit&redlink=1 "Frank Berger (page does not exist)")
-1. [↑](#cite_ref-12) [7th Computer Olympiad, Go - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=43)
-1. [↑](#cite_ref-13) [GNU Go - GNU Project - Free Software Foundation (FSF)](http://www.gnu.org/software/gnugo/devel.html)
-1. [↑](#cite_ref-14) [7th Computer Olympiad, Go (9x9) - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=44)
-1. [↑](#cite_ref-15) [MAGOG](http://erikvanderwerf.tengen.nl/magog.html)
-1. [↑](#cite_ref-16) [7th Computer Olympiad, Lines of Action - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=79)
-1. [↑](#cite_ref-17) [7th Computer Olympiad, Shogi - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=87)
-1. [↑](#cite_ref-18) [Yasushi Tanase](index.php?title=Yasushi_Tanase&action=edit&redlink=1 "Yasushi Tanase (page does not exist)") (**2002**). *ISshogi wins Shogi tournament*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
-1. [↑](#cite_ref-19) [Image](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2002/album/p7060173.html) from [7th Computer Olympiad](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2002/album/)
-1. [↑](#cite_ref-20) [7th Computer Olympiad - Workshop](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2002/workshop.html)
-1. [↑](#cite_ref-21) [Mark Winands](Mark_Winands "Mark Winands") (**2002**). *The Seventh Computer Olympiad*. IKAT, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/The_7th_Computer_Olympiad.pdf)
-1. [↑](#cite_ref-22) [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2002**). *The 7th Computer Olympiad - Report on the Computer-Games Workshop*. [ICGA Journal, Vol. 25, No. 4](ICGA_Journal#25_4 "ICGA Journal")
-1. [↑](#cite_ref-23) [Publications - Maastricht University](https://dke.maastrichtuniversity.nl/m.winands/publications.html)
-1. [↑](#cite_ref-24) [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Temporal difference learning and the Neural MoveMap heuristic in the game of Lines of Action*. GAME-ON 2002, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.9038&rep=rep1&type=pdf)
-1. [↑](#cite_ref-25)  [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Solving Ponnuki-Go on Small Boards*. BNAIC’02, [pdf](http://erikvanderwerf.tengen.nl/pubdown/Solving_Ponnuki-Go_BNAIC2002.pdf)
-1. [↑](#cite_ref-26) [Eugene Nalimov: Winner of the ChessBase Award and Guest of Honor in Maastricht](http://archive.today/HFYs) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessBase Events](ChessBase "ChessBase"), July 9, 2002 (archived)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Building Gouvernement, former residence of the Gouvernor of [Limburg](https://en.wikipedia.org/wiki/Limburg_%28Netherlands%29). Now a part of the University. Build around 1935 and designed by [G.C. Bremer](http://en.nai.nl/museum/exhibitions/online/item/_rp_kolom2-1_elementId/1_169764), Image by [Brbbl](https://commons.wikimedia.org/wiki/User:Brbbl), June 14, 2009, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Maastricht University from Wikipedia](https://en.wikipedia.org/wiki/Maastricht_University)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [7th Computer Olympiad, Amazons - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=77)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA: Amazons](https://ilk.uvt.nl/icga/games/amazons/) by [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [7th Computer Olympiad, Backgammon - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=89)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [BGBlitz at Maastricht 2002 - Computer Olympiad - Maastricht 2002](http://www.bgblitz.com/olympiad_2002.html) by [Frank Berger](index.php?title=Frank_Berger&action=edit&redlink=1 "Frank Berger (page does not exist)")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [7th Computer Olympiad, Bridge - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=90)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [7th Computer Olympiad, Chinese Chess - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=88)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [7th Computer Olympiad, Dots and Boxes - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=93)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Dots and Boxes from Wikipedia](https://en.wikipedia.org/wiki/Dots_and_Boxes)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [7th Computer Olympiad, Draughts - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=94)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [BGBlitz at Maastricht 2002 - Computer Olympiad - Maastricht 2002](http://www.bgblitz.com/olympiad_2002.html) by [Frank Berger](index.php?title=Frank_Berger&action=edit&redlink=1 "Frank Berger (page does not exist)")
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [7th Computer Olympiad, Go - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=43)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [GNU Go - GNU Project - Free Software Foundation (FSF)](http://www.gnu.org/software/gnugo/devel.html)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [7th Computer Olympiad, Go (9x9) - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=44)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [MAGOG](http://erikvanderwerf.tengen.nl/magog.html)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [7th Computer Olympiad, Lines of Action - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=79)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [7th Computer Olympiad, Shogi - Maastricht 2002 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=87)
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Yasushi Tanase](index.php?title=Yasushi_Tanase&action=edit&redlink=1 "Yasushi Tanase (page does not exist)") (**2002**). *ISshogi wins Shogi tournament*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Image](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2002/album/p7060173.html) from [7th Computer Olympiad](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2002/album/)
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [7th Computer Olympiad - Workshop](http://icga.leidenuniv.nl/icga/news/Olympiad/Olympiad2002/workshop.html)
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Mark Winands](Mark_Winands "Mark Winands") (**2002**). *The Seventh Computer Olympiad*. IKAT, [Maastricht University](Maastricht_University "Maastricht University"), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/The_7th_Computer_Olympiad.pdf)
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2002**). *The 7th Computer Olympiad - Report on the Computer-Games Workshop*. [ICGA Journal, Vol. 25, No. 4](ICGA_Journal#25_4 "ICGA Journal")
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Publications - Maastricht University](https://dke.maastrichtuniversity.nl/m.winands/publications.html)
+1. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Temporal difference learning and the Neural MoveMap heuristic in the game of Lines of Action*. GAME-ON 2002, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.9038&rep=rep1&type=pdf)
+1. <a id="cite-ref-25" href="#cite-note-25">↑</a>  [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Solving Ponnuki-Go on Small Boards*. BNAIC’02, [pdf](http://erikvanderwerf.tengen.nl/pubdown/Solving_Ponnuki-Go_BNAIC2002.pdf)
+1. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Eugene Nalimov: Winner of the ChessBase Award and Guest of Honor in Maastricht](http://archive.today/HFYs) by [Eric van Reem](Eric_van_Reem "Eric van Reem"), [ChessBase Events](ChessBase "ChessBase"), July 9, 2002 (archived)
 
 **[Up one level](Computer_Olympiad "Computer Olympiad")**
 

@@ -5,31 +5,31 @@ title: Pioneer
 
 
 
-[ [Frederick McCubbin](index.php?title=Category:Frederick_McCubbin&action=edit&redlink=1 "Category:Frederick McCubbin (page does not exist)") - The pioneer, 1904 [[1]](#cite_note-1)
+[ [Frederick McCubbin](index.php?title=Category:Frederick_McCubbin&action=edit&redlink=1 "Category:Frederick McCubbin (page does not exist)") - The pioneer, 1904 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Pioneer**, (Russian: Пионер)  
 
-was a Soviet [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence") project headed by [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") with the aim to develop a chess program to model a Chess Master's Mind, also used as general purpose planning tool to solve [economical](https://en.wikipedia.org/wiki/Economic_system) problems in the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union). Based on a hierarchical mathematical model consisting of [square control](Square_Control "Square Control"), [trajectories](Trajectory "Trajectory"), sheaves of trajectories, and counter trajectories of attacking and defending pieces, piece chains, and zones, and the intermediate goal to win [material](Material "Material") within a given horizon, its purpose was a [minimax](Minimax "Minimax") [best-first search](Best-First "Best-First") of extremely narrow but deep game trees. The name Pioneer was chosen in 1977, when the program was invited to play the [WCCC 1977](WCCC_1977 "WCCC 1977") in Toronto. However, Pioneer was never completed in a way that it could play a [game of chess](Chess_Game "Chess Game") in public under tournament conditions [[2]](#cite_note-2). 
+was a Soviet [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence") project headed by [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") with the aim to develop a chess program to model a Chess Master's Mind, also used as general purpose planning tool to solve [economical](https://en.wikipedia.org/wiki/Economic_system) problems in the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union). Based on a hierarchical mathematical model consisting of [square control](Square_Control "Square Control"), [trajectories](Trajectory "Trajectory"), sheaves of trajectories, and counter trajectories of attacking and defending pieces, piece chains, and zones, and the intermediate goal to win [material](Material "Material") within a given horizon, its purpose was a [minimax](Minimax "Minimax") [best-first search](Best-First "Best-First") of extremely narrow but deep game trees. The name Pioneer was chosen in 1977, when the program was invited to play the [WCCC 1977](WCCC_1977 "WCCC 1977") in Toronto. However, Pioneer was never completed in a way that it could play a [game of chess](Chess_Game "Chess Game") in public under tournament conditions <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 
 
 
 
 ## Mathematical Projection
 
 
-In Botvinnik's hierarchical Mathematical Projection (**MP**) of chess as a complex system, trajectories build the lowest level of the hierarchy. The concepts of zones as intermediate level of the MP consists of a network of main trajectories conform to attacking or defending plans determined elsewhere, negation trajectories, that is opponent's counter trajectories which may block or combat the primary trajectory in time, and own supporting counter-counter trajectories. The MP controls the growth of a [search tree](Search_Tree "Search Tree") inside a [best-first search](Best-First "Best-First"), and [prunes](Pruning "Pruning") all branches forward which could not reach a goal in time. After Botvinnik introduced the concept of Zones in 1970, Butenko refused further cooperation and began to write his own program, dubbed [Eureka](index.php?title=Eureka&action=edit&redlink=1 "Eureka (page does not exist)") [[6]](#cite_note-6) .
+In Botvinnik's hierarchical Mathematical Projection (**MP**) of chess as a complex system, trajectories build the lowest level of the hierarchy. The concepts of zones as intermediate level of the MP consists of a network of main trajectories conform to attacking or defending plans determined elsewhere, negation trajectories, that is opponent's counter trajectories which may block or combat the primary trajectory in time, and own supporting counter-counter trajectories. The MP controls the growth of a [search tree](Search_Tree "Search Tree") inside a [best-first search](Best-First "Best-First"), and [prunes](Pruning "Pruning") all branches forward which could not reach a goal in time. After Botvinnik introduced the concept of Zones in 1970, Butenko refused further cooperation and began to write his own program, dubbed [Eureka](index.php?title=Eureka&action=edit&redlink=1 "Eureka (page does not exist)") <a id="cite-note-6" href="#cite-ref-6">[6]</a> .
 
 
 
 ## Further Research
 
 
-In the 70s and 80s, a team around [Boris Stilman](Boris_Stilman "Boris Stilman"), [Alexander Yudin](Alexander_Yudin "Alexander Yudin"), [Alexander Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy"), [Michael Tsfasman](Michael_Tsfasman "Michael Tsfasman"), [Vadim Mirniy](Vadim_Mirniy "Vadim Mirniy") and [Mikhail Chudakov](Mikhail_Chudakov "Mikhail Chudakov") worked on Pioneer at the *State Committee for Science and Technology*, [Moscow](https://en.wikipedia.org/wiki/Moscow), [USSR](https://en.wikipedia.org/wiki/Soviet_Union), the *National Research Institute for Electrical Engineering*, Moscow, USSR and the [USSR Academy of Sciences](https://en.wikipedia.org/wiki/Russian_Academy_of_Sciences), Moscow, USSR. Botvinnik and his team proposed a [attack map](Attack_and_Defend_Maps "Attack and Defend Maps") and offset map [move generating](Move_Generation "Move Generation") strategy [[7]](#cite_note-7) based on [Vector Attacks](Vector_Attacks "Vector Attacks") [[8]](#cite_note-8) , and a hierarchical geometrical model based on trajectories, sheaves of trajectories and chains - a set of pieces, each with their trajectories, enjoying the property of aiding or hindering the attack of a piece against a target. Based on this research, Boris Stilman later coined the term [Linguistic Geometry](index.php?title=Linguistic_Geometry&action=edit&redlink=1 "Linguistic Geometry (page does not exist)") [[9]](#cite_note-9) , a new type of game theory [[10]](#cite_note-10). Alexander Reznitskiy and Mikhail Chudakov presented the current state of a long development originated by Botvinnik in an [1990 ICCA Journal](ICGA_Journal#13_4 "ICGA Journal") article [[11]](#cite_note-11).
+In the 70s and 80s, a team around [Boris Stilman](Boris_Stilman "Boris Stilman"), [Alexander Yudin](Alexander_Yudin "Alexander Yudin"), [Alexander Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy"), [Michael Tsfasman](Michael_Tsfasman "Michael Tsfasman"), [Vadim Mirniy](Vadim_Mirniy "Vadim Mirniy") and [Mikhail Chudakov](Mikhail_Chudakov "Mikhail Chudakov") worked on Pioneer at the *State Committee for Science and Technology*, [Moscow](https://en.wikipedia.org/wiki/Moscow), [USSR](https://en.wikipedia.org/wiki/Soviet_Union), the *National Research Institute for Electrical Engineering*, Moscow, USSR and the [USSR Academy of Sciences](https://en.wikipedia.org/wiki/Russian_Academy_of_Sciences), Moscow, USSR. Botvinnik and his team proposed a [attack map](Attack_and_Defend_Maps "Attack and Defend Maps") and offset map [move generating](Move_Generation "Move Generation") strategy <a id="cite-note-7" href="#cite-ref-7">[7]</a> based on [Vector Attacks](Vector_Attacks "Vector Attacks") <a id="cite-note-8" href="#cite-ref-8">[8]</a> , and a hierarchical geometrical model based on trajectories, sheaves of trajectories and chains - a set of pieces, each with their trajectories, enjoying the property of aiding or hindering the attack of a piece against a target. Based on this research, Boris Stilman later coined the term [Linguistic Geometry](index.php?title=Linguistic_Geometry&action=edit&redlink=1 "Linguistic Geometry (page does not exist)") <a id="cite-note-9" href="#cite-ref-9">[9]</a> , a new type of game theory <a id="cite-note-10" href="#cite-ref-10">[10]</a>. Alexander Reznitskiy and Mikhail Chudakov presented the current state of a long development originated by Botvinnik in an [1990 ICCA Journal](ICGA_Journal#13_4 "ICGA Journal") article <a id="cite-note-11" href="#cite-ref-11">[11]</a>.
 
 
 
 ## Controversy
 
 
-Botvinnik published abilities of Pioneer and its successor [CC Sapiens](CC_Sapiens "CC Sapiens") on selected positions, but they never played a complete game of chess in public. For his publication *Three Positions* [[12]](#cite_note-12) , Botvinnik was heavily criticized by [Hans Berliner](Hans_Berliner "Hans Berliner") [[13]](#cite_note-13) [[14]](#cite_note-14) [[15]](#cite_note-15) [[16]](#cite_note-16) , and his old chess rival [David Bronstein](David_Bronstein "David Bronstein") [[17]](#cite_note-17) .
+Botvinnik published abilities of Pioneer and its successor [CC Sapiens](CC_Sapiens "CC Sapiens") on selected positions, but they never played a complete game of chess in public. For his publication *Three Positions* <a id="cite-note-12" href="#cite-ref-12">[12]</a> , Botvinnik was heavily criticized by [Hans Berliner](Hans_Berliner "Hans Berliner") <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a> <a id="cite-note-15" href="#cite-ref-15">[15]</a> <a id="cite-note-16" href="#cite-ref-16">[16]</a> , and his old chess rival [David Bronstein](David_Bronstein "David Bronstein") <a id="cite-note-17" href="#cite-ref-17">[17]</a> .
 
 
 
@@ -40,7 +40,7 @@ Botvinnik published abilities of Pioneer and its successor [CC Sapiens](CC_Sapie
 
 
  [](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/) 
-Botvinnik's Lecture on Pioneer at [McGill University](McGill_University "McGill University") 1977 - any questions? [Monty Newborn](Monroe_Newborn "Monroe Newborn") left [[18]](#cite_note-18)
+Botvinnik's Lecture on Pioneer at [McGill University](McGill_University "McGill University") 1977 - any questions? [Monty Newborn](Monroe_Newborn "Monroe Newborn") left <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 
 
@@ -48,14 +48,14 @@ Botvinnik's Lecture on Pioneer at [McGill University](McGill_University "McGill 
 
 
  [](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/3-3.Resnitsky_Stilman_Donskoy_Botvinnik_Newborn.Moscow.1980.102645342.NEWBORN.jpg) 
-[A. Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy"), [B. Stilman](Boris_Stilman "Boris Stilman"), [M. Donskoy](Mikhail_Donskoy "Mikhail Donskoy") ([Kaissa](Kaissa "Kaissa")), [M. Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), [Monty & Amy Newborn](Monroe_Newborn "Monroe Newborn") [[19]](#cite_note-19) [[20]](#cite_note-20) [[21]](#cite_note-21) [[22]](#cite_note-22)
+[A. Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy"), [B. Stilman](Boris_Stilman "Boris Stilman"), [M. Donskoy](Mikhail_Donskoy "Mikhail Donskoy") ([Kaissa](Kaissa "Kaissa")), [M. Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), [Monty & Amy Newborn](Monroe_Newborn "Monroe Newborn") <a id="cite-note-19" href="#cite-ref-19">[19]</a> <a id="cite-note-20" href="#cite-ref-20">[20]</a> <a id="cite-note-21" href="#cite-ref-21">[21]</a> <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 
 
 
 ## Timeline
 
 
-[[23]](#cite_note-23)
+<a id="cite-note-23" href="#cite-ref-23">[23]</a>
 
 
 
@@ -111,7 +111,7 @@ Botvinnik's Lecture on Pioneer at [McGill University](McGill_University "McGill 
 |  1978
  |  Grants for computer time:
  |
-|  |  At [University of Mannheim](https://en.wikipedia.org/wiki/University_of_Mannheim) ([Hans Meuer](https://en.wikipedia.org/wiki/Hans_Meuer)) for the improvement and completion of the PIONEER project (For 0.5 year), Germany [[24]](#cite_note-24).
+|  |  At [University of Mannheim](https://en.wikipedia.org/wiki/University_of_Mannheim) ([Hans Meuer](https://en.wikipedia.org/wiki/Hans_Meuer)) for the improvement and completion of the PIONEER project (For 0.5 year), Germany <a id="cite-note-24" href="#cite-ref-24">[24]</a>.
  |
 |  |  At [University of Dortmund](University_of_Dortmund "University of Dortmund") ([Hans-Jürgen Appelrath](Hans-J%C3%BCrgen_Appelrath "Hans-Jürgen Appelrath")) for the development of AI theory of complex systems and its application to the PIONEER project (for 0.5 year), Germany.
  |
@@ -152,7 +152,7 @@ Botvinnik's Lecture on Pioneer at [McGill University](McGill_University "McGill 
 ### Rushton and Marsland
 
 
-[Paul Rushton](Paul_Rushton "Paul Rushton") and [Tony Marsland](Tony_Marsland "Tony Marsland"), 1973, in *Current Chess Programs* [[25]](#cite_note-25) :
+[Paul Rushton](Paul_Rushton "Paul Rushton") and [Tony Marsland](Tony_Marsland "Tony Marsland"), 1973, in *Current Chess Programs* <a id="cite-note-25" href="#cite-ref-25">[25]</a> :
 
 
 
@@ -165,7 +165,7 @@ A novel idea has been proposed by Botvinnik. He believes it is important to know
 ### David Kittinger
 
 
-[David Kittinger](David_Kittinger "David Kittinger") and [Scott McDonald](Scott_McDonald "Scott McDonald") in [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") on [Novag](Novag "Novag") [Constellation](Constellation "Constellation") [[26]](#cite_note-26) :
+[David Kittinger](David_Kittinger "David Kittinger") and [Scott McDonald](Scott_McDonald "Scott McDonald") in [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") on [Novag](Novag "Novag") [Constellation](Constellation "Constellation") <a id="cite-note-26" href="#cite-ref-26">[26]</a> :
 
 
 
@@ -178,7 +178,7 @@ The Novag Constellation programs represent a significant evolutionary step in th
 ### Reznitskiy and Chudakov
 
 
-[Alexander Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy") and [Mikhail Chudakov](Mikhail_Chudakov "Mikhail Chudakov") in [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal") [[27]](#cite_note-27):
+[Alexander Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy") and [Mikhail Chudakov](Mikhail_Chudakov "Mikhail Chudakov") in [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal") <a id="cite-note-27" href="#cite-ref-27">[27]</a>:
 
 
 
@@ -203,7 +203,7 @@ Nevertheless, fortunately in mosts cases PIONEER manages to find the strongest m
 ### Boris Stilman
 
 
-[Boris Stilman](Boris_Stilman "Boris Stilman") in *Linguistic Geometry*. Acknowledgments [[28]](#cite_note-28) :
+[Boris Stilman](Boris_Stilman "Boris Stilman") in *Linguistic Geometry*. Acknowledgments <a id="cite-note-28" href="#cite-ref-28">[28]</a> :
 
 
 
@@ -234,7 +234,7 @@ Scientific exchange with researchers from around the world allowed our team to o
 ## Selected Publications
 
 
-[[29]](#cite_note-29) [[30]](#cite_note-30)
+<a id="cite-note-29" href="#cite-ref-29">[29]</a> <a id="cite-note-30" href="#cite-ref-30">[30]</a>
 
 
 
@@ -247,7 +247,7 @@ Scientific exchange with researchers from around the world allowed our team to o
 ### 1970 ...
 
 
-* [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") (**1970**). *[Computers, Chess and Long-Range Planning](https://link.springer.com/book/10.1007/978-1-4684-6245-6)*. [Springer](https://de.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), [reviews from goodreads](https://www.goodreads.com/book/show/1000006.Computers_Chess_and_Long_Range_Planning) [[31]](#cite_note-31) [[32]](#cite_note-32) [[33]](#cite_note-33)
+* [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") (**1970**). *[Computers, Chess and Long-Range Planning](https://link.springer.com/book/10.1007/978-1-4684-6245-6)*. [Springer](https://de.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), [reviews from goodreads](https://www.goodreads.com/book/show/1000006.Computers_Chess_and_Long_Range_Planning) <a id="cite-note-31" href="#cite-ref-31">[31]</a> <a id="cite-note-32" href="#cite-ref-32">[32]</a> <a id="cite-note-33" href="#cite-ref-33">[33]</a>
 * [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") (**1975**). *O Kiberneticheskoi Celi Igri*. (On the Cybernetic Goal of Games), Soviet Radio, Moscow
 
 
@@ -347,7 +347,7 @@ Scientific exchange with researchers from around the world allowed our team to o
 * [Über Stand und Entwicklung seines Computer-Schachprogramms "Pionier" referierte Prof. Michael Botwinnik (67), UdSSR, auf einer einwöchigen Vortragsreise durch die Bundesrepublik](https://www.computerwoche.de/a/ueber-stand-und-entwicklung-seines-computer-schachprogramms-pionier-referierte-prof-michael-botwinnik-67-udssr-auf-einer-einwoechigen-vortragsreise-durch-die-bundesrepublik-der-ehemalige-schachweltmeister-1948-57-1958-60-1961-63-arbeitet-derze,1195495), April 04, 1978, [Computerwoche](Computerworld#Woche "Computerworld") 15/1978 (German)
 * ["Pionier" rüstet sich zum Wettkampf](http://www.computerwoche.de/a/pionier-ruestet-sich-zum-wettkampf,1196402), July 21, 1978, [Computerwoche](Computerworld#Woche "Computerworld") (German)
 * ["Pionier" rüstet sich zum Wettkampf (Fortsetzung)](http://www.computerwoche.de/a/pionier-ruestet-sich-zum-wenkampf-fortsetzung-aus-cw-nr-30,1196451), July 28, 1978, [Computerwoche](Computerworld#Woche "Computerworld") (German)
-* [Martin Meuer: "I Wanted to Do Something Different in Conjunction with Computers"](http://chess-news.ru/en/node/8210) | [chess-news.ru](http://chess-news.ru/), June 28, 2012 [[34]](#cite_note-34)
+* [Martin Meuer: "I Wanted to Do Something Different in Conjunction with Computers"](http://chess-news.ru/en/node/8210) | [chess-news.ru](http://chess-news.ru/), June 28, 2012 <a id="cite-note-34" href="#cite-ref-34">[34]</a>
 * [The Adventure of Chess Programming (Part 2)](https://en.chessbase.com/post/the-adventure-of-chess-programming-part-2) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), February 12, 2019
 
 
@@ -373,40 +373,40 @@ Scientific exchange with researchers from around the world allowed our team to o
 ## References
 
 
-1. [↑](#cite_ref-1) [Frederick McCubbin](index.php?title=Category:Frederick_McCubbin&action=edit&redlink=1 "Category:Frederick McCubbin (page does not exist)") - The pioneer, 1904, oil on canvas, [National Gallery of Victoria](https://en.wikipedia.org/wiki/National_Gallery_of_Victoria), [Melbourne](https://en.wikipedia.org/wiki/Melbourne), [The Pioneer (painting) from Wikipedia](https://en.wikipedia.org/wiki/The_Pioneer_%28painting%29)
-2. [↑](#cite_ref-2) [Re: KAISSA for PC, I'm the proud owner](https://www.stmintz.com/ccc/index.php?id=211423) by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [CCC](CCC "CCC"), February 01, 2002
-3. [↑](#cite_ref-3) [The last day of the “Botvinnik Memorial”](http://en.chessbase.com/home/TabId/211/PostId/4007513) by [Anna Burtasova](http://de.wikipedia.org/wiki/Anna_Denissowna_Burtassowa), [ChessBase News](ChessBase "ChessBase"), September 07, 2011
-4. [↑](#cite_ref-4) [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf)
-5. [↑](#cite_ref-5) [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf)
-6. [↑](#cite_ref-6) [Лингвистическая Геометрия](http://atimopheyev.narod.ru/Frame/index.html) Бориса Штильмана (Linguistic Geometry [Boris Stilman](Boris_Stilman "Boris Stilman")) by [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev"), [По стопам ПИОНЕРа](http://atimopheyev.narod.ru/AfterPIONEER/index.html)
-7. [↑](#cite_ref-7) [David Kittinger](David_Kittinger "David Kittinger"), [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 15-33
-8. [↑](#cite_ref-8) [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf)
-9. [↑](#cite_ref-9) [The Home Page of Linguistic Geometry](http://www.stilman-strategies.com/bstilman/lgmain.html)
-10. [↑](#cite_ref-10) [José Roberto Mercado Vega](Jos%C3%A9_Roberto_Mercado_Vega "José Roberto Mercado Vega"), [Zvi Retchkiman Königsberg](Zvi_Retchkiman_K%C3%B6nigsberg "Zvi Retchkiman Königsberg") (**2009**). *[Modeling the Game of Arimaa with Linguistic Geometry](http://portal.acm.org/citation.cfm?id=1719355&dl=GUIDE&coll=GUIDE&CFID=77083768&CFTOKEN=17475304)*. [CIG'09](http://www.informatik.uni-trier.de/~ley/db/conf/cig/cig2009.html#VegaK09) » [Arimaa](Arimaa "Arimaa")
-11. [↑](#cite_ref-11) [Alexander Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy"), [Mikhail Chudakov](Mikhail_Chudakov "Mikhail Chudakov") (**1990**). *Pioneer: a Chess Program Modelling a Chess Master's Mind*. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal")
-12. [↑](#cite_ref-12) [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") (**1993**). *Three Positions*. [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal")
-13. [↑](#cite_ref-13) [Hans Berliner](Hans_Berliner "Hans Berliner") (**1993**). *Playing Computer Chess in the Human Style*. [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
-14. [↑](#cite_ref-14) [Kasparov missed Beautiful win; Botvinnik's Program muffs analysis](http://groups.google.com/group/rec.games.chess/browse_frm/thread/c6c81bbb1a2b399f#) by [Hans Berliner](Hans_Berliner "Hans Berliner"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), July 9, 1993
-15. [↑](#cite_ref-15) [Botvinnik article](https://groups.google.com/d/msg/rec.games.chess.computer/ZWQ5ZwvXx_s/EgXPrz6jZFYJ) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 23, 1996
-16. [↑](#cite_ref-16) [Hans Berliner against Mikhail Botvinnik](http://atimopheyev.narod.ru/AfterPIONEER/info/PIONEER/2-Berliner.htm) by [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev")
-17. [↑](#cite_ref-17) [David Bronstein](David_Bronstein "David Bronstein") (**1993**). *Mimicking Human Oversight*. [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
- 18. [↑](#cite_ref-18) Photo Courtesy [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [archive.computerhistory.org - /resources/still-image/Chess\_temporary/still-image/](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/) 
-19. [↑](#cite_ref-19) [Tony Marsland](Tony_Marsland "Tony Marsland"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1981**). *A brighter future for Soviet computer chess?* [ICCA Newsletter, Vol. 4, No. 1](ICGA_Journal#4_1 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Marsland-Newborn-1981.pdf)
-20. [↑](#cite_ref-20) [Monroe Newborn and Soviet computer chess developers in Moscow](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd70434), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), 1980
-21. [↑](#cite_ref-21) [Computer chess pioneer Mikhail Donskoy passes on](http://en.chessbase.com/post/computer-che-pioneer-mikhail-donskoy-paes-on) from [ChessBase News](ChessBase "ChessBase"), January 16, 2009
-22. [↑](#cite_ref-22) [Kaissa & Botvinik](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/e9f5b809a7ac0952) by [Shay Bushinsky](Shay_Bushinsky "Shay Bushinsky"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 16, 1997
-23. [↑](#cite_ref-23) based on [По стопам ПИОНЕРа](http://atimopheyev.narod.ru/AfterPIONEER/index.html), [Chronology](http://atimopheyev.narod.ru/AfterPIONEER/inPIONEERsFootsteps/Chronology_of_Model.HTM)
-24. [↑](#cite_ref-24) [Martin Meuer: "I Wanted to Do Something Different in Conjunction with Computers"](http://chess-news.ru/en/node/8210) | [chess-news.ru](http://chess-news.ru/), June 28, 2012
-25. [↑](#cite_ref-25) [Paul Rushton](Paul_Rushton "Paul Rushton"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1973**). *Current Chess Programs: A Summary of their Potential and Limitations*. INFOR Journal of the Canadian Information Processing Society Vol. 11, No. 1, [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Rushton-Marsland-Feb73.pdf)
-26. [↑](#cite_ref-26) [David Kittinger](David_Kittinger "David Kittinger"), [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 15-33
-27. [↑](#cite_ref-27) [Alexander Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy"), [Mikhail Chudakov](Mikhail_Chudakov "Mikhail Chudakov") (**1990**). *Pioneer: a Chess Program Modelling a Chess Master's Mind*. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal")
-28. [↑](#cite_ref-28) [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series. Springer US, ISBN: 978-0-7923-7738-2, [Acknowledgments](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML#ACKNOWLEDGMENTS)
-29. [↑](#cite_ref-29) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-30. [↑](#cite_ref-30) [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), [References](http://atimopheyev.narod.ru/LG01pdf_in_HTML/Ref/lit_en.htm)
-31. [↑](#cite_ref-31) [Paul Rushton](Paul_Rushton "Paul Rushton"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1973**). *Current Chess Programs: A Summary of their Potential and Limitations*. INFOR Journal of the Canadian Information Processing Society Vol. 11, No. 1, [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Rushton-Marsland-Feb73.pdf)
-32. [↑](#cite_ref-32) [Computers, Chess and Long-range Planning by Botvinnik](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id128.html) by [John L. Jerz](John_L._Jerz "John L. Jerz")
-33. [↑](#cite_ref-33) [Computers, Chess and Long-Range Planning, by Michail M. Botvinnik](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76958) by [Mike Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), March 26, 2021
-34. [↑](#cite_ref-34) Martin Meuer, son of [Hans Meuer](https://en.wikipedia.org/wiki/Hans_Meuer) who worked with Botvinnik
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Frederick McCubbin](index.php?title=Category:Frederick_McCubbin&action=edit&redlink=1 "Category:Frederick McCubbin (page does not exist)") - The pioneer, 1904, oil on canvas, [National Gallery of Victoria](https://en.wikipedia.org/wiki/National_Gallery_of_Victoria), [Melbourne](https://en.wikipedia.org/wiki/Melbourne), [The Pioneer (painting) from Wikipedia](https://en.wikipedia.org/wiki/The_Pioneer_%28painting%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: KAISSA for PC, I'm the proud owner](https://www.stmintz.com/ccc/index.php?id=211423) by [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [CCC](CCC "CCC"), February 01, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [The last day of the “Botvinnik Memorial”](http://en.chessbase.com/home/TabId/211/PostId/4007513) by [Anna Burtasova](http://de.wikipedia.org/wiki/Anna_Denissowna_Burtassowa), [ChessBase News](ChessBase "ChessBase"), September 07, 2011
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Лингвистическая Геометрия](http://atimopheyev.narod.ru/Frame/index.html) Бориса Штильмана (Linguistic Geometry [Boris Stilman](Boris_Stilman "Boris Stilman")) by [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev"), [По стопам ПИОНЕРа](http://atimopheyev.narod.ru/AfterPIONEER/index.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [David Kittinger](David_Kittinger "David Kittinger"), [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 15-33
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The Home Page of Linguistic Geometry](http://www.stilman-strategies.com/bstilman/lgmain.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [José Roberto Mercado Vega](Jos%C3%A9_Roberto_Mercado_Vega "José Roberto Mercado Vega"), [Zvi Retchkiman Königsberg](Zvi_Retchkiman_K%C3%B6nigsberg "Zvi Retchkiman Königsberg") (**2009**). *[Modeling the Game of Arimaa with Linguistic Geometry](http://portal.acm.org/citation.cfm?id=1719355&dl=GUIDE&coll=GUIDE&CFID=77083768&CFTOKEN=17475304)*. [CIG'09](http://www.informatik.uni-trier.de/~ley/db/conf/cig/cig2009.html#VegaK09) » [Arimaa](Arimaa "Arimaa")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Alexander Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy"), [Mikhail Chudakov](Mikhail_Chudakov "Mikhail Chudakov") (**1990**). *Pioneer: a Chess Program Modelling a Chess Master's Mind*. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") (**1993**). *Three Positions*. [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1993**). *Playing Computer Chess in the Human Style*. [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Kasparov missed Beautiful win; Botvinnik's Program muffs analysis](http://groups.google.com/group/rec.games.chess/browse_frm/thread/c6c81bbb1a2b399f#) by [Hans Berliner](Hans_Berliner "Hans Berliner"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), July 9, 1993
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Botvinnik article](https://groups.google.com/d/msg/rec.games.chess.computer/ZWQ5ZwvXx_s/EgXPrz6jZFYJ) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 23, 1996
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Hans Berliner against Mikhail Botvinnik](http://atimopheyev.narod.ru/AfterPIONEER/info/PIONEER/2-Berliner.htm) by [Alexander Timofeev](Alexander_Timofeev "Alexander Timofeev")
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [David Bronstein](David_Bronstein "David Bronstein") (**1993**). *Mimicking Human Oversight*. [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+ 18. <a id="cite-ref-18" href="#cite-note-18">↑</a> Photo Courtesy [Monroe Newborn](Monroe_Newborn "Monroe Newborn") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [archive.computerhistory.org - /resources/still-image/Chess\_temporary/still-image/](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/) 
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1981**). *A brighter future for Soviet computer chess?* [ICCA Newsletter, Vol. 4, No. 1](ICGA_Journal#4_1 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Marsland-Newborn-1981.pdf)
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Monroe Newborn and Soviet computer chess developers in Moscow](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd70434), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), 1980
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Computer chess pioneer Mikhail Donskoy passes on](http://en.chessbase.com/post/computer-che-pioneer-mikhail-donskoy-paes-on) from [ChessBase News](ChessBase "ChessBase"), January 16, 2009
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Kaissa & Botvinik](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/e9f5b809a7ac0952) by [Shay Bushinsky](Shay_Bushinsky "Shay Bushinsky"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 16, 1997
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> based on [По стопам ПИОНЕРа](http://atimopheyev.narod.ru/AfterPIONEER/index.html), [Chronology](http://atimopheyev.narod.ru/AfterPIONEER/inPIONEERsFootsteps/Chronology_of_Model.HTM)
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Martin Meuer: "I Wanted to Do Something Different in Conjunction with Computers"](http://chess-news.ru/en/node/8210) | [chess-news.ru](http://chess-news.ru/), June 28, 2012
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Paul Rushton](Paul_Rushton "Paul Rushton"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1973**). *Current Chess Programs: A Summary of their Potential and Limitations*. INFOR Journal of the Canadian Information Processing Society Vol. 11, No. 1, [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Rushton-Marsland-Feb73.pdf)
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [David Kittinger](David_Kittinger "David Kittinger"), [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 15-33
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [Alexander Reznitskiy](Alexander_Reznitskiy "Alexander Reznitskiy"), [Mikhail Chudakov](Mikhail_Chudakov "Mikhail Chudakov") (**1990**). *Pioneer: a Chess Program Modelling a Chess Master's Mind*. [ICCA Journal, Vol. 13, No. 4](ICGA_Journal#13_4 "ICGA Journal")
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series. Springer US, ISBN: 978-0-7923-7738-2, [Acknowledgments](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML#ACKNOWLEDGMENTS)
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+30. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**2000**). *[Linguistic Geometry - From Search to Construction](http://atimopheyev.narod.ru/LG01pdf_in_HTML/LG01_eng.HTML)*. Operations Research/Computer Science Interfaces Series, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), [References](http://atimopheyev.narod.ru/LG01pdf_in_HTML/Ref/lit_en.htm)
+31. <a id="cite-ref-31" href="#cite-note-31">↑</a> [Paul Rushton](Paul_Rushton "Paul Rushton"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1973**). *Current Chess Programs: A Summary of their Potential and Limitations*. INFOR Journal of the Canadian Information Processing Society Vol. 11, No. 1, [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Rushton-Marsland-Feb73.pdf)
+32. <a id="cite-ref-32" href="#cite-note-32">↑</a> [Computers, Chess and Long-range Planning by Botvinnik](http://www.johnljerz.com/superduper/tlxdownloadsiteMAIN/id128.html) by [John L. Jerz](John_L._Jerz "John L. Jerz")
+33. <a id="cite-ref-33" href="#cite-note-33">↑</a> [Computers, Chess and Long-Range Planning, by Michail M. Botvinnik](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76958) by [Mike Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), March 26, 2021
+34. <a id="cite-ref-34" href="#cite-note-34">↑</a> Martin Meuer, son of [Hans Meuer](https://en.wikipedia.org/wiki/Hans_Meuer) who worked with Botvinnik
 
 **[Up one Level](Engines "Engines")**
 

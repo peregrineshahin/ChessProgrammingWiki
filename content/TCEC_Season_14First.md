@@ -7,7 +7,7 @@ title: TCEC Season 14First
 
 
 
- [](https://tcec-chess.com/) TCEC Logo [[1]](#cite_note-1) 
+ [](https://tcec-chess.com/) TCEC Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **TCEC Season 14**,  
 
 the Top Chess Engine Championship (TCEC) Season 14 from November 17, 2018 until February 23, 2019 
@@ -213,7 +213,7 @@ November 17 - November 30, 2018, timecontrol 30' + 10''
  |  11
  |
 |  12
- | [ScorpioNN 2.8.9](Scorpio#ScorpioNN "Scorpio") [[6]](#cite_note-6) |  0000
+ | [ScorpioNN 2.8.9](Scorpio#ScorpioNN "Scorpio") <a id="cite-note-6" href="#cite-ref-6">[6]</a> |  0000
  |  0000
  |  0000
  |  0000
@@ -1419,12 +1419,12 @@ February 04 - February 23, 2019, timecontrol 120' + 15''
 ## References
 
 
-1. [↑](#cite_ref-1) Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. [↑](#cite_ref-2) [Guy Haworth](Guy_Haworth "Guy Haworth"), [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2019**). *TCEC14: the 14th Top Chess EngineChampionship*. [pdf](http://www.chessdom.com/wp-content/uploads/2019/03/TCEC-14-for-TCEC.pdf)
-3. [↑](#cite_ref-3) [Komodo](Komodo "Komodo") 3rd after [disqualification](#disqualificationKomodoMCTS) of [Komodo MCTS](Komodo#MCTS "Komodo")
-4. [↑](#cite_ref-4) [Disqualification](#disqualificationKomodoMCTS) after three disconnects
-5. [↑](#cite_ref-5) [LCZero](Leela_Chess_Zero "Leela Chess Zero") 2nd after [disqualification](#disqualificationKomodoMCTS) of [Komodo MCTS](Komodo#MCTS "Komodo")
-6. [↑](#cite_ref-6) [Re: what happened to scorpio NN in TCEC?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68956&start=4) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), November 17, 2018
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2019**). *TCEC14: the 14th Top Chess EngineChampionship*. [pdf](http://www.chessdom.com/wp-content/uploads/2019/03/TCEC-14-for-TCEC.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Komodo](Komodo "Komodo") 3rd after [disqualification](#disqualificationKomodoMCTS) of [Komodo MCTS](Komodo#MCTS "Komodo")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Disqualification](#disqualificationKomodoMCTS) after three disconnects
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [LCZero](Leela_Chess_Zero "Leela Chess Zero") 2nd after [disqualification](#disqualificationKomodoMCTS) of [Komodo MCTS](Komodo#MCTS "Komodo")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: what happened to scorpio NN in TCEC?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68956&start=4) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), November 17, 2018
 
 **[Up one level](TCEC "TCEC")**
 

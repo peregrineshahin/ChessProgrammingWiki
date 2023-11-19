@@ -7,10 +7,10 @@ title: TCEC Season 8
 
 
 
- [](https://tcec-chess.com/) TCEC Logo [[1]](#cite_note-1) 
+ [](https://tcec-chess.com/) TCEC Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **TCEC Season 8**,  
 
-directed and organized by [Anton Mihailov](Anton_Mihailov "Anton Mihailov"), CEO of [Chessdom Arena](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)") [[2]](#cite_note-2), started on August 21, [2015](Timeline#2015 "Timeline"). 
+directed and organized by [Anton Mihailov](Anton_Mihailov "Anton Mihailov"), CEO of [Chessdom Arena](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, started on August 21, [2015](Timeline#2015 "Timeline"). 
 There are 3 Stages plus the Superfinal. **Stage 1**, a single-round robin consisting of two seeded sub-divisions of 12 engines each, is played without [book openings](Opening_Book "Opening Book"). In **Stage 2** the top six surviving engines from each of the two divisions in Stage 1 compete in double round-robin, using a two-move book designed by [Adam Hair](Adam_Hair "Adam Hair") and checked by [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (alias Cato the Younger) for statistical and evaluative play-balance. **Stage 3** and the **Superfinal** used an opening book of 8 moves. 
 [Komodo 9.3x](Komodo "Komodo") won the [Superfinal](#Superfinal) versus [Stockfish 021115](Stockfish "Stockfish") with **53½-46½**.
 
@@ -443,7 +443,7 @@ Season 8, Stage 1, August 21, 2015 - September 10, 2015 The top 6 from each of S
 * SB: [Sonneborn-Berger score](https://en.wikipedia.org/wiki/Sonneborn-Berger_score)
 
 
-Due to the severe problems with crashes, three engines will not be allowed in further stages. [Junior](Junior "Junior"), [Pedone](Pedone "Pedone"), and [Equinox](Equinox "Equinox") will not move on even if top 6, as the frequent crashes create both extra work for [Martin Thoresen](Martin_Thoresen "Martin Thoresen") and discontent in the audience [[4]](#cite_note-4) .
+Due to the severe problems with crashes, three engines will not be allowed in further stages. [Junior](Junior "Junior"), [Pedone](Pedone "Pedone"), and [Equinox](Equinox "Equinox") will not move on even if top 6, as the frequent crashes create both extra work for [Martin Thoresen](Martin_Thoresen "Martin Thoresen") and discontent in the audience <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
 
 
@@ -698,7 +698,7 @@ Season 8, Stage 3, October 08, 2015 - October 28, 2015. The format for Stage 3 i
  |  275¼
  |
 |  2
- | [Stockfish 070915](Stockfish "Stockfish") [[5]](#cite_note-5) |  ½½½½½½
+ | [Stockfish 070915](Stockfish "Stockfish") <a id="cite-note-5" href="#cite-ref-5">[5]</a> |  ½½½½½½
  |  ······
  |  0½½½1½
  |  111½1½
@@ -830,7 +830,7 @@ Season 8, Stage 3, October 08, 2015 - October 28, 2015. The format for Stage 3 i
 
 **[< Prev](TCEC_Season_7#Superfinal "TCEC Season 7") [Next >](TCEC_Season_9#Superfinal "TCEC Season 9")**  
 
-The Season 8 Superfinal between [Stockfish 021115](Stockfish "Stockfish") and [Komodo 9.3x](Komodo "Komodo") was played from November 06 until November 30, 2015 with 50 different 8 move openings selected by IM [Erik Kislik](https://en.wikipedia.org/wiki/Erik_Kislik), of which 33 are his own and the remaining 17 are made by [Cato](Nelson_Hernandez "Nelson Hernandez"). Each engine played both the black and white side of the same position. **Komodo** dominated the match and secured the **title** five games before the end of the hundred games marathon [[6]](#cite_note-6) .
+The Season 8 Superfinal between [Stockfish 021115](Stockfish "Stockfish") and [Komodo 9.3x](Komodo "Komodo") was played from November 06 until November 30, 2015 with 50 different 8 move openings selected by IM [Erik Kislik](https://en.wikipedia.org/wiki/Erik_Kislik), of which 33 are his own and the remaining 17 are made by [Cato](Nelson_Hernandez "Nelson Hernandez"). Each engine played both the black and white side of the same position. **Komodo** dominated the match and secured the **title** five games before the end of the hundred games marathon <a id="cite-note-6" href="#cite-ref-6">[6]</a> .
 
 
 
@@ -1536,7 +1536,7 @@ The Season 8 Superfinal between [Stockfish 021115](Stockfish "Stockfish") and [K
 ### Stage 1b
 
 
-[Houdini 4](Houdini "Houdini") - [Stockfish 300815](Stockfish "Stockfish") » [Lomonosov Tablebases](Lomonosov_Tablebases "Lomonosov Tablebases"), [Rook Endgame](Rook_Endgame "Rook Endgame") [[7]](#cite_note-7) [[8]](#cite_note-8)
+[Houdini 4](Houdini "Houdini") - [Stockfish 300815](Stockfish "Stockfish") » [Lomonosov Tablebases](Lomonosov_Tablebases "Lomonosov Tablebases"), [Rook Endgame](Rook_Endgame "Rook Endgame") <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 
 
@@ -1572,7 +1572,7 @@ Ke5 99.Rg7 Ke6 100.Ka2 Rf3 101.Rb7 0-1
 ### Superfinal
 
 
-[Stockfish 021115](Stockfish "Stockfish") - [Komodo 9.3x](Komodo "Komodo"), Round 22, 64.Kg4 [[9]](#cite_note-9) [[10]](#cite_note-10) [[11]](#cite_note-11) [[12]](#cite_note-12)
+[Stockfish 021115](Stockfish "Stockfish") - [Komodo 9.3x](Komodo "Komodo"), Round 22, 64.Kg4 <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 
 
@@ -1611,10 +1611,10 @@ hxg4+ 62.Bxg4 Qd6 63.Bf5 Qf6 64.Kg4 Rg2+ 65.Kf3 Rb2 66.Kg4 Rg2+ 67.Kf3 Rb2
 * [TCEC Season 8 – complete information](http://www.talkchess.com/forum/viewtopic.php?t=57317) by Sean Evans, [CCC](CCC "CCC"), August 20, 2015
 * [Gaviota upsets Protector in TCEC](http://www.talkchess.com/forum/viewtopic.php?t=57344) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), August 22, 2015
 * [7 men Rook endgames H4 vs SF in recent TCEC stage 1b](http://www.talkchess.com/forum/viewtopic.php?t=57539) by Nay Lin Tun, [CCC](CCC "CCC"), September 07, 2015 » [Lomonosov Tablebases](Lomonosov_Tablebases "Lomonosov Tablebases"), [Rook Endgame](Rook_Endgame "Rook Endgame")
-* [Martin on the SF loss on time](http://www.talkchess.com/forum/viewtopic.php?t=57899) by Rob Nicholas, [CCC](CCC "CCC"), October 09, 2015 [[13]](#cite_note-13)
+* [Martin on the SF loss on time](http://www.talkchess.com/forum/viewtopic.php?t=57899) by Rob Nicholas, [CCC](CCC "CCC"), October 09, 2015 <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 * [Test Position: TCEC 8 - Stage 3](http://www.talkchess.com/forum/viewtopic.php?t=57923) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), October 12, 2015
 * [New Stockfish with Lazy\_SMP, but what about the TC bug ?](http://www.talkchess.com/forum/viewtopic.php?t=58056) by [Ernest Bonnem](index.php?title=Ernest_Bonnem&action=edit&redlink=1 "Ernest Bonnem (page does not exist)"), [CCC](CCC "CCC"), October 26, 2015 » [Stockfish](Stockfish "Stockfish"), [Parallel Search](Parallel_Search "Parallel Search")
-* [SF binaries for TCEC superfinal](http://www.talkchess.com/forum/viewtopic.php?t=58103) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), October 31, 2015 » [Stockfish](Stockfish "Stockfish") [[14]](#cite_note-14)
+* [SF binaries for TCEC superfinal](http://www.talkchess.com/forum/viewtopic.php?t=58103) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), October 31, 2015 » [Stockfish](Stockfish "Stockfish") <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 * [Komodo strikes first at the TCEC Superfinal](http://www.talkchess.com/forum/viewtopic.php?t=58173) by Sean Evans, [CCC](CCC "CCC"), November 07, 2015
 * [TCEC superfinal game 1](http://www.talkchess.com/forum/viewtopic.php?t=58214) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), November 10, 2015
 * [From +26.13 to 0.00 in two moves](https://goo.gl/FMvepa) by juha.n..., [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), November 11, 2015
@@ -1628,30 +1628,30 @@ hxg4+ 62.Bxg4 Qd6 63.Bf5 Qf6 64.Kg4 Rg2+ 65.Kf3 Rb2 66.Kg4 Rg2+ 67.Kf3 Rb2
 
 * [Live Computer Chess Broadcast](https://tcec-chess.com/)
 * [TCEC Season 8 – complete information](http://www.chessdom.com/tcec-season-8-complete-information/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), August 18, 2015
-* [Press release regarding the Stockfish case in TCEC Stage 3](http://www.chessdom.com/press-release-regarding-the-stockfish-case-in-tcec-stage-3/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), October 11, 2015 [[15]](#cite_note-15)
-* [Thanks for Additivity](https://rjlipton.wordpress.com/2015/11/27/thanks-for-additivity/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), November 27, 2015 [[16]](#cite_note-16)
+* [Press release regarding the Stockfish case in TCEC Stage 3](http://www.chessdom.com/press-release-regarding-the-stockfish-case-in-tcec-stage-3/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), October 11, 2015 <a id="cite-note-15" href="#cite-ref-15">[15]</a>
+* [Thanks for Additivity](https://rjlipton.wordpress.com/2015/11/27/thanks-for-additivity/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), November 27, 2015 <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 * [Komodo is triple champion, wins the Top Chess Engine Championship 2015!](http://www.chessdom.com/komodo-is-triple-champion-wins-the-top-chess-engine-championship-2015/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), November 29, 2015
 
 
 ## References
 
 
-1. [↑](#cite_ref-1) Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. [↑](#cite_ref-2) [Re: What Happened to TCEC Season 8? Where is Martin?](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=55915&hilit=Mihailov&start=17) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), April 08, 2015
-3. [↑](#cite_ref-3) [Alfil leaves TCEC Stage 1b due to “Own book” | Chessdom](http://www.chessdom.com/alfil-leaves-tcec-stage-1b-due-to-own-book/)
-4. [↑](#cite_ref-4) [TCEC - Thoresen Chess Engines Competition | Facebook](https://www.facebook.com/tcec.chess?fref=nf), September 09, 2015
-5. [↑](#cite_ref-5) Game 1 to 15 Stockfish 071015, then reverted to former version, see [Press release regarding the Stockfish case in TCEC Stage 3](http://www.chessdom.com/press-release-regarding-the-stockfish-case-in-tcec-stage-3/), October 11, 2015
-6. [↑](#cite_ref-6) [Komodo is triple champion, wins the Top Chess Engine Championship 2015!](http://www.chessdom.com/komodo-is-triple-champion-wins-the-top-chess-engine-championship-2015/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), November 29, 2015
-7. [↑](#cite_ref-7) [TCEC - Top Chess Engine Championship - Archive Mode | Houdini 4 - Stockfish 300815](http://tcec.chessdom.com/archive.php?se=8&st=1b&ga=43)
-8. [↑](#cite_ref-8) [7 men Rook endgames H4 vs SF in recent TCEC stage 1b](http://www.talkchess.com/forum/viewtopic.php?t=57539) by Nay Lin Tun, [CCC](CCC "CCC"), September 07, 2015
-9. [↑](#cite_ref-9) [TCEC - Top Chess Engine Championship - Archive Mode | TCEC Season 8 - Superfinal, Stockfish 021115 - Komodo 9.3x, Round 22](http://tcec.chessdom.com/archive.php?se=8&sf&ga=22)
-10. [↑](#cite_ref-10) [From +26.13 to 0.00 in two moves](https://goo.gl/FMvepa) by juha.n..., [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), November 11, 2015
-11. [↑](#cite_ref-11) [Re: Komodo strikes first at the TCEC Superfinal](http://www.talkchess.com/forum/viewtopic.php?t=58173&start=45) by Neel Basant, [CCC](CCC "CCC"), November 11, 2015
-12. [↑](#cite_ref-12) [A position that needs a physician](http://www.talkchess.com/forum/viewtopic.php?t=58246) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), November 14, 2015
-13. [↑](#cite_ref-13) [Press release regarding the Stockfish case in TCEC Stage 3](http://www.chessdom.com/press-release-regarding-the-stockfish-case-in-tcec-stage-3/), October 11, 2015
-14. [↑](#cite_ref-14) [Binary for TCEC superfinal](https://goo.gl/QLcPAF) by Kiran Panditrao, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), October 30, 2015
-15. [↑](#cite_ref-15) [Martin on the SF loss on time](http://www.talkchess.com/forum/viewtopic.php?t=57899) by Rob Nicholas, [CCC](CCC "CCC"), October 09, 2015
-16. [↑](#cite_ref-16) [Is the current Komodo that close to perfection?](http://www.talkchess.com/forum/viewtopic.php?t=58400) by Bajusz Tamás, [CCC](CCC "CCC"), November 28, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: What Happened to TCEC Season 8? Where is Martin?](http://www.talkchess.com/forum3/viewtopic.php?f=6&t=55915&hilit=Mihailov&start=17) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), April 08, 2015
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Alfil leaves TCEC Stage 1b due to “Own book” | Chessdom](http://www.chessdom.com/alfil-leaves-tcec-stage-1b-due-to-own-book/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [TCEC - Thoresen Chess Engines Competition | Facebook](https://www.facebook.com/tcec.chess?fref=nf), September 09, 2015
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Game 1 to 15 Stockfish 071015, then reverted to former version, see [Press release regarding the Stockfish case in TCEC Stage 3](http://www.chessdom.com/press-release-regarding-the-stockfish-case-in-tcec-stage-3/), October 11, 2015
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Komodo is triple champion, wins the Top Chess Engine Championship 2015!](http://www.chessdom.com/komodo-is-triple-champion-wins-the-top-chess-engine-championship-2015/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), November 29, 2015
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [TCEC - Top Chess Engine Championship - Archive Mode | Houdini 4 - Stockfish 300815](http://tcec.chessdom.com/archive.php?se=8&st=1b&ga=43)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [7 men Rook endgames H4 vs SF in recent TCEC stage 1b](http://www.talkchess.com/forum/viewtopic.php?t=57539) by Nay Lin Tun, [CCC](CCC "CCC"), September 07, 2015
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [TCEC - Top Chess Engine Championship - Archive Mode | TCEC Season 8 - Superfinal, Stockfish 021115 - Komodo 9.3x, Round 22](http://tcec.chessdom.com/archive.php?se=8&sf&ga=22)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [From +26.13 to 0.00 in two moves](https://goo.gl/FMvepa) by juha.n..., [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), November 11, 2015
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: Komodo strikes first at the TCEC Superfinal](http://www.talkchess.com/forum/viewtopic.php?t=58173&start=45) by Neel Basant, [CCC](CCC "CCC"), November 11, 2015
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [A position that needs a physician](http://www.talkchess.com/forum/viewtopic.php?t=58246) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), November 14, 2015
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Press release regarding the Stockfish case in TCEC Stage 3](http://www.chessdom.com/press-release-regarding-the-stockfish-case-in-tcec-stage-3/), October 11, 2015
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Binary for TCEC superfinal](https://goo.gl/QLcPAF) by Kiran Panditrao, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), October 30, 2015
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Martin on the SF loss on time](http://www.talkchess.com/forum/viewtopic.php?t=57899) by Rob Nicholas, [CCC](CCC "CCC"), October 09, 2015
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Is the current Komodo that close to perfection?](http://www.talkchess.com/forum/viewtopic.php?t=58400) by Bajusz Tamás, [CCC](CCC "CCC"), November 28, 2015
 
 **[Up one level](TCEC "TCEC")**
 

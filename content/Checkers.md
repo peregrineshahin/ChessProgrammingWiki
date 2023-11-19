@@ -3,14 +3,14 @@ title: Checkers
 ---
 **[Home](Home "Home") * [Games](Games "Games") * Checkers**
 
-\[ Checkers board [[1]](#cite_note-1)
+\[ Checkers board <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Checkers**,
 
 also American Checkers or [English draughts](https://en.wikipedia.org/wiki/English_draughts), is a variant of [Draughts](Draughts "Draughts") played on an eight by eight board using 32 either dark or light [squares](Squares "Squares"). Like [Chess](Chess "Chess"), Checkers is a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [zero-sum](https://en.wikipedia.org/wiki/Zero-sum_%28game_theory%29) and [perfect information](https://en.wikipedia.org/wiki/Perfect_information) [abstract strategy](https://en.wikipedia.org/wiki/Abstract_strategy) [board game](https://en.wikipedia.org/wiki/Board_game).
 
 ## Rules
 
-Each side starts with twelve checkers, placed on the three back-ranks. Black moves first, alternating with White - there is no passing move. Checkers move one step diagonally forward, kings diagonally forward and backward. When a checker reaches the last rank, it promotes to a king. Checkers and king capture men by jumping over them to an empty square behind (checkers only forward). Captures are compulsory, one must play a capture if at least one is available, and is required to continue jumping and capturing as part of the same turn. However, a checker reaching the last row must stop to be crowned and can move no further on that turn [[2]](#cite_note-2). The side run out of moves loses.
+Each side starts with twelve checkers, placed on the three back-ranks. Black moves first, alternating with White - there is no passing move. Checkers move one step diagonally forward, kings diagonally forward and backward. When a checker reaches the last rank, it promotes to a king. Checkers and king capture men by jumping over them to an empty square behind (checkers only forward). Captures are compulsory, one must play a capture if at least one is available, and is required to continue jumping and capturing as part of the same turn. However, a checker reaching the last row must stop to be crowned and can move no further on that turn <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The side run out of moves loses.
 
 ## [Computer Olympiads](Computer_Olympiad "Computer Olympiad")
 
@@ -19,11 +19,11 @@ Each side starts with twelve checkers, placed on the three back-ranks. Black mov
 
 ## Solving Checkers
 
-In 2007, the [Chinook](https://en.wikipedia.org/wiki/Chinook_%28draughts_player%29) team around [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") declared Checkers [solved](https://en.wikipedia.org/wiki/Solved_game) [[3]](#cite_note-3) [[4]](#cite_note-4) [[5]](#cite_note-5).
+In 2007, the [Chinook](https://en.wikipedia.org/wiki/Chinook_%28draughts_player%29) team around [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") declared Checkers [solved](https://en.wikipedia.org/wiki/Solved_game) <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 ## Programs
 
-The first Checkers program was written by [Christopher Strachey](Christopher_Strachey "Christopher Strachey"), [National Research Development Corporation](https://en.wikipedia.org/wiki/National_Research_Development_Corporation), [London](https://en.wikipedia.org/wiki/London), in the early 1950s to run on a [Pilot ACE](https://en.wikipedia.org/wiki/Pilot_ACE) at the [National Physical Laboratory](https://en.wikipedia.org/wiki/National_Physical_Laboratory,_UK), exhausting its memory [[6]](#cite_note-6), and soon ported to the [Ferranti Mark 1](Ferranti_Mark_1 "Ferranti Mark 1") [[7]](#cite_note-7) [[8]](#cite_note-8). His checkers program from 1966 [[9]](#cite_note-9) written in [CPL](https://en.wikipedia.org/wiki/CPL_%28programming_language%29) is available on-line, in a corrected version with courtesy of [Peter Norvig](Peter_Norvig "Peter Norvig") [[10]](#cite_note-10) [[11]](#cite_note-11). The second program was written in 1956 by [Arthur Samuel](Arthur_Samuel "Arthur Samuel") [[12]](#cite_note-12):
+The first Checkers program was written by [Christopher Strachey](Christopher_Strachey "Christopher Strachey"), [National Research Development Corporation](https://en.wikipedia.org/wiki/National_Research_Development_Corporation), [London](https://en.wikipedia.org/wiki/London), in the early 1950s to run on a [Pilot ACE](https://en.wikipedia.org/wiki/Pilot_ACE) at the [National Physical Laboratory](https://en.wikipedia.org/wiki/National_Physical_Laboratory,_UK), exhausting its memory <a id="cite-note-6" href="#cite-ref-6">[6]</a>, and soon ported to the [Ferranti Mark 1](Ferranti_Mark_1 "Ferranti Mark 1") <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>. His checkers program from 1966 <a id="cite-note-9" href="#cite-ref-9">[9]</a> written in [CPL](https://en.wikipedia.org/wiki/CPL_%28programming_language%29) is available on-line, in a corrected version with courtesy of [Peter Norvig](Peter_Norvig "Peter Norvig") <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>. The second program was written in 1956 by [Arthur Samuel](Arthur_Samuel "Arthur Samuel") <a id="cite-note-12" href="#cite-ref-12">[12]</a>:
 
 ## American checkers
 
@@ -32,10 +32,10 @@ The first Checkers program was written by [Christopher Strachey](Christopher_Str
 - [Checker Hustler](https://www.game-ai-forum.org/icga-tournaments/program.php?id=341) by [Derek Oldbury](Derek_Oldbury "Derek Oldbury")
 - [Checkermate](https://www.game-ai-forum.org/icga-tournaments/program.php?id=390) by [Derek Oldbury](Derek_Oldbury "Derek Oldbury") and [Adrian Millett](Adrian_Millett "Adrian Millett")
 - [Checkers](http://www.aifactory.co.uk/AIF_Games_Checkers.htm) from [AI Factory](AI_Factory "AI Factory")
-- [Chinook](https://en.wikipedia.org/wiki/Chinook_%28draughts_player%29) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") et al. [[13]](#cite_note-13)
+- [Chinook](https://en.wikipedia.org/wiki/Chinook_%28draughts_player%29) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") et al. <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 - [Colossus Draughts](https://www.game-ai-forum.org/icga-tournaments/program.php?id=389) by [Martin Bryant](Martin_Bryant "Martin Bryant")
 - [The Duke program](http://checkersbackground.com/samuel-s-and-the.html) by [Eric Jensen](Eric_Jensen "Eric Jensen"), [Tom Truscott](Tom_Truscott "Tom Truscott") and [Alan Biermann](Alan_Biermann "Alan Biermann")
-- [GuiNN Checkers 2.0](http://www.3dkingdoms.com/checkers.htm) by [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer") [[14]](#cite_note-14)
+- [GuiNN Checkers 2.0](http://www.3dkingdoms.com/checkers.htm) by [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer") <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 - [KingsRow](http://edgilbert.org/Checkers/KingsRow.htm) by [Ed Gilbert](index.php?title=Ed_Gilbert&action=edit&redlink=1 "Ed Gilbert (page does not exist)")
 - [Nemesis](http://www.nemesis.info/index.html) by [Murray Cash](index.php?title=Murray_Cash&action=edit&redlink=1 "Murray Cash (page does not exist)")
 - [Sage Draughts](https://www.game-ai-forum.org/icga-tournaments/program.php?id=340) by [Adrian Millett](Adrian_Millett "Adrian Millett")
@@ -56,7 +56,7 @@ The first Checkers program was written by [Christopher Strachey](Christopher_Str
 ## 1952 ...
 
 - [Christopher Strachey](Christopher_Strachey "Christopher Strachey") (**1952**). *[Logical or non-mathematical Programs](http://dl.acm.org/citation.cfm?id=808992)*. Proceedings of the [ACM](ACM "ACM") Conference, Toronto, reprinted in [David Levy](David_Levy "David Levy") (ed.) (**1988**). *[Computer Games I](http://link.springer.com/book/10.1007/978-1-4613-8716-9)*.
-- [Arthur Samuel](Arthur_Samuel "Arthur Samuel") (**1959**). *[Some Studies in Machine Learning Using the Game of Checkers](http://domino.watson.ibm.com/tchjr/journalindex.nsf/600cc5649e2871db852568150060213c/39a870213169f45685256bfa00683d74!OpenDocument)*. IBM Journal July 1959, reprinted in [David Levy](David_Levy "David Levy") (ed.) (**1988**). *[Computer Games I](http://link.springer.com/book/10.1007/978-1-4613-8716-9)*. [[15]](#cite_note-15)
+- [Arthur Samuel](Arthur_Samuel "Arthur Samuel") (**1959**). *[Some Studies in Machine Learning Using the Game of Checkers](http://domino.watson.ibm.com/tchjr/journalindex.nsf/600cc5649e2871db852568150060213c/39a870213169f45685256bfa00683d74!OpenDocument)*. IBM Journal July 1959, reprinted in [David Levy](David_Levy "David Levy") (ed.) (**1988**). *[Computer Games I](http://link.springer.com/book/10.1007/978-1-4613-8716-9)*. <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 ## 1960 ...
 
@@ -83,7 +83,7 @@ The first Checkers program was written by [Christopher Strachey](Christopher_Str
 - [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1991**). *Checkers, a Preview of what will Happen in Chess?* [ICCA Journal, Vol. 14, No. 2](ICGA_Journal#14_2 "ICGA Journal")
 - [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Joe Culberson](Joe_Culberson "Joe Culberson"), [Norman Treloar](index.php?title=Norman_Treloar&action=edit&redlink=1 "Norman Treloar (page does not exist)"), [Brent Knight](index.php?title=Brent_Knight&action=edit&redlink=1 "Brent Knight (page does not exist)"), [Paul Lu](Paul_Lu "Paul Lu"), [Duane Szafron](Duane_Szafron "Duane Szafron") (**1991**). *Checkers Program to Challenge for World Championship*. SIGART Bulletin, Vol. 2, No. 2
 - [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Joe Culberson](Joe_Culberson "Joe Culberson"), [Norman Treloar](index.php?title=Norman_Treloar&action=edit&redlink=1 "Norman Treloar (page does not exist)"), [Brent Knight](index.php?title=Brent_Knight&action=edit&redlink=1 "Brent Knight (page does not exist)"), [Paul Lu](Paul_Lu "Paul Lu"), [Duane Szafron](Duane_Szafron "Duane Szafron") (**1991**). *Reviving the Game of Checkers*. [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
-- [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Norman Treloar](index.php?title=Norman_Treloar&action=edit&redlink=1 "Norman Treloar (page does not exist)"), [Paul Lu](Paul_Lu "Paul Lu"), [Rob Lake](index.php?title=Rob_Lake&action=edit&redlink=1 "Rob Lake (page does not exist)") (**1993**). *[Man Versus Machine for the World Checkers Championship](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1040)*. [AI Magazine](http://www.aaai.org/Magazine/magazine.php), Vol. 14, No. 2 » [WCCC 1992 - Workshop](WCCC_1992#Workshop "WCCC 1992") [[16]](#cite_note-16)
+- [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Norman Treloar](index.php?title=Norman_Treloar&action=edit&redlink=1 "Norman Treloar (page does not exist)"), [Paul Lu](Paul_Lu "Paul Lu"), [Rob Lake](index.php?title=Rob_Lake&action=edit&redlink=1 "Rob Lake (page does not exist)") (**1993**). *[Man Versus Machine for the World Checkers Championship](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1040)*. [AI Magazine](http://www.aaai.org/Magazine/magazine.php), Vol. 14, No. 2 » [WCCC 1992 - Workshop](WCCC_1992#Workshop "WCCC 1992") <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 ## [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Norman Treloar](index.php?title=Norman_Treloar&action=edit&redlink=1 "Norman Treloar (page does not exist)"), [Paul Lu](Paul_Lu "Paul Lu"), [Rob Lake](index.php?title=Rob_Lake&action=edit&redlink=1 "Rob Lake (page does not exist)") (**1993**). *Man Versus Machine for the World Checkers Championship*. [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal") 1995 ...
 
@@ -95,7 +95,7 @@ The first Checkers program was written by [Christopher Strachey](Christopher_Str
 
 - [Kumar Chellapilla](index.php?title=Kumar_Chellapilla&action=edit&redlink=1 "Kumar Chellapilla (page does not exist)"), [David B. Fogel](David_B._Fogel "David B. Fogel") (**2001**). *[Evolving an Expert Checkers Playing Program without Using Human Expertise](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=942536)*. IEEE Transactions on Evolutionary Computation, Vol. 5, No. 4, pp.422-428
 - [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**2001**). *[Technology Transfer from One High-Performance Search Engine to Another](http://ilk.uvt.nl/icga/journal/contents/content24-3.htm#TECHNOLOGY%20TRANSFER)*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
-- [David B. Fogel](David_B._Fogel "David B. Fogel") (**2002**). *Blondie24: Playing at the Edge of AI*. Morgan Kaufmann Publishers, Inc., San Francisco, CA. ISBN 1-55860-783-8, [amazon.com](http://www.amazon.com/Blondie24-Playing-Kaufmann-Artificial-Intelligence/dp/1558607838) [[17]](#cite_note-17)
+- [David B. Fogel](David_B._Fogel "David B. Fogel") (**2002**). *Blondie24: Playing at the Edge of AI*. Morgan Kaufmann Publishers, Inc., San Francisco, CA. ISBN 1-55860-783-8, [amazon.com](http://www.amazon.com/Blondie24-Playing-Kaufmann-Artificial-Intelligence/dp/1558607838) <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 - [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Neil Burch](index.php?title=Neil_Burch&action=edit&redlink=1 "Neil Burch (page does not exist)"), [Rob Lake](index.php?title=Rob_Lake&action=edit&redlink=1 "Rob Lake (page does not exist)"), [Paul Lu](Paul_Lu "Paul Lu"), [Steve Sutphen](index.php?title=Steve_Sutphen&action=edit&redlink=1 "Steve Sutphen (page does not exist)") (**2003**). *Building the Checkers 10-Piece Endgame Databases.* [Advances in Computer Games 10](Advances_in_Computer_Games_10 "Advances in Computer Games 10"). [pdf](http://webdocs.cs.ualberta.ca/%7Ejonathan/Grad/Papers/databases10.pdf) » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases")
 - [Ed Trice](index.php?title=Ed_Trice&action=edit&redlink=1 "Ed Trice (page does not exist)"), [Gil Dodgen](index.php?title=Gil_Dodgen&action=edit&redlink=1 "Gil Dodgen (page does not exist)") (**2003**). *[The Perfect 7-Piece Checkers Database](http://ilk.uvt.nl/icga/journal/contents/content26-4.htm#7%20piece)*. [ICGA Journal, Vol. 26, No. 4](ICGA_Journal#26_4 "ICGA Journal") » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases")
 
@@ -124,7 +124,7 @@ The first Checkers program was written by [Christopher Strachey](Christopher_Str
 
 ## 2020 ...
 
-- [Bill Jordan](Bill_Jordan "Bill Jordan") (**2021**). *How to Write a Checkers Program*. [amazon](https://www.amazon.com/dp/B0968R3TW4/) [[18]](#cite_note-18)
+- [Bill Jordan](Bill_Jordan "Bill Jordan") (**2021**). *How to Write a Checkers Program*. [amazon](https://www.amazon.com/dp/B0968R3TW4/) <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 ## Forum Posts
 
@@ -174,31 +174,31 @@ The first Checkers program was written by [Christopher Strachey](Christopher_Str
 - [Checker Bitboards Tutorial](http://www.3dkingdoms.com/checkers/bitboards.htm) by [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer")
 - [Gui Checkers 1.05](http://www.3dkingdoms.com/checkers.htm) by [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer")
 - [Perft for Checkers](http://checker-board.blogspot.com/2009/02/perft-for-checkers.html) by [Martin Fierz](Martin_Fierz "Martin Fierz")
-- [Deep Perft for Checkers](http://www.aartbik.com/strategy.php) by [Aart Bik](Aart_Bik "Aart Bik") » [Perft](Perft "Perft") [[19]](#cite_note-19)
+- [Deep Perft for Checkers](http://www.aartbik.com/strategy.php) by [Aart Bik](Aart_Bik "Aart Bik") » [Perft](Perft "Perft") <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 - [Welcome to the checkers programs page](http://alemanni.pagesperso-orange.fr/index.html) by [Jean-Bernard Alemanni](index.php?title=Jean-Bernard_Alemanni&action=edit&redlink=1 "Jean-Bernard Alemanni (page does not exist)")
 - [How Checkers Was Solved](https://www.theatlantic.com/technology/archive/2017/07/marion-tinsley-checkers/534111/) by [Alexis C. Madrigal](https://www.theatlantic.com/author/alexis-madrigal/), [The Atlantic - World Edition](https://en.wikipedia.org/wiki/The_Atlantic), July 19, 2017
 
 ## References
 
-1. [↑](#cite_ref-1) [Checkers (English draughts) from Wikipedia](https://en.wikipedia.org/wiki/Checkers)
-1. [↑](#cite_ref-2) [Mr. Fred Investments | CheckerMaven / RulesOfCheckers](http://www.bobnewell.net/pmwiki/index.php?n=CheckerMaven.RulesOfCheckers)
-1. [↑](#cite_ref-3) [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Neil Burch](index.php?title=Neil_Burch&action=edit&redlink=1 "Neil Burch (page does not exist)"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Rob Lake](index.php?title=Rob_Lake&action=edit&redlink=1 "Rob Lake (page does not exist)"), [Paul Lu](Paul_Lu "Paul Lu"), [Steve Sutphen](index.php?title=Steve_Sutphen&action=edit&redlink=1 "Steve Sutphen (page does not exist)") (**2007**). *Checkers is Solved*. [Science](https://en.wikipedia.org/wiki/Science_%28magazine%29), Vol. 317 (5844). Work named by Science Magazine as one of the 10 most important scientific achievements of 2007
-1. [↑](#cite_ref-4) [Checkers Is Solved](http://www.sciencemag.org/content/317/5844/1518.abstract?keytype=ref&siteid=sci&ijkey=jVmVcXy2%2FNTnY)
-1. [↑](#cite_ref-5) [Chinook - Solving Checkers](http://webdocs.cs.ualberta.ca/~chinook/publications/solving_checkers.html)
-1. [↑](#cite_ref-6) [Christopher Strachey from Wikipedia](https://en.wikipedia.org/wiki/Christopher_Strachey)
-1. [↑](#cite_ref-7) [artificial intelligence (AI) :: Early milestones in AI](http://www.britannica.com/EBchecked/topic/37146/artificial-intelligence-AI/219091/Early-milestones-in-AI?anchor=ref739464) from [Britannica Online Encyclopedia](https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica)
-1. [↑](#cite_ref-8) [Christopher Strachey](Christopher_Strachey "Christopher Strachey") (**1952**). *[Logical or non-mathematical programmes](http://portal.acm.org/citation.cfm?id=800259.808992)*. Proceedings of the 1952 ACM national meeting
-1. [↑](#cite_ref-9) [Christopher Strachey](Christopher_Strachey "Christopher Strachey") (**1966**). *[System Analysis and Programming](http://www.scientificamerican.com/article.cfm?id=system-analysis-and-programming-christopher-strachey)*. [Scientific American](Scientific_American "Scientific American"), September 1966, republished August 23, 2011
-1. [↑](#cite_ref-10) [Complete Annotated Strachey Checkers Program](http://norvig.com/sciam/checkers-complete.html) by [Peter Norvig](Peter_Norvig "Peter Norvig")
-1. [↑](#cite_ref-11) [Prescient but Not Perfect: A Look Back at a 1966 Scientific American Article on Systems Analysis](http://blogs.scientificamerican.com/at-scientific-american/2011/08/23/systems-analysis-look-back-1966-scientific-american-article/) by [Peter Norvig](Peter_Norvig "Peter Norvig"), August 23, 2011
-1. [↑](#cite_ref-12) [English draughts - Computer players from Wikipedia](https://en.wikipedia.org/wiki/English_draughts#Computer_players)
-1. [↑](#cite_ref-13) [Chinook - Solving Checkers](http://webdocs.cs.ualberta.ca/~chinook/publications/solving_checkers.html)
-1. [↑](#cite_ref-14) [Re: First success with neural nets](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75190&start=21) by [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer"), [CCC](CCC "CCC"), November 11, 2020 » [Neural Networks](Neural_Networks "Neural Networks")
-1. [↑](#cite_ref-15) [Some studies in machine learning using the game of checkers by Arthur Lee Samuel from Jeremy Norman's Historyofscience.com - Used Book - Paperback - First Edition](http://www.abaa.org/books/245839575.html)
-1. [↑](#cite_ref-16) [Marion Tinsley vs. Chinook - Wikipedia](https://en.wikipedia.org/wiki/Marion_Tinsley#Vs._Chinook)
-1. [↑](#cite_ref-17) [Blondie24 by David B. Fogel](http://www.jimloy.com/checkers/blondie.htm), Book Review, © Copyright 2003, [Jim Loy](http://www.jimloy.com/)
-1. [↑](#cite_ref-18) [GitHub - billjordanchess/Checkers-King](https://github.com/billjordanchess/Checkers-King)
-1. [↑](#cite_ref-19) [perft for 8x8 checkers](http://www.talkchess.com/forum/viewtopic.php?t=27814) by [Aart Bik](Aart_Bik "Aart Bik"), [CCC](CCC "CCC"), May 08, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Checkers (English draughts) from Wikipedia](https://en.wikipedia.org/wiki/Checkers)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Mr. Fred Investments | CheckerMaven / RulesOfCheckers](http://www.bobnewell.net/pmwiki/index.php?n=CheckerMaven.RulesOfCheckers)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Neil Burch](index.php?title=Neil_Burch&action=edit&redlink=1 "Neil Burch (page does not exist)"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Rob Lake](index.php?title=Rob_Lake&action=edit&redlink=1 "Rob Lake (page does not exist)"), [Paul Lu](Paul_Lu "Paul Lu"), [Steve Sutphen](index.php?title=Steve_Sutphen&action=edit&redlink=1 "Steve Sutphen (page does not exist)") (**2007**). *Checkers is Solved*. [Science](https://en.wikipedia.org/wiki/Science_%28magazine%29), Vol. 317 (5844). Work named by Science Magazine as one of the 10 most important scientific achievements of 2007
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Checkers Is Solved](http://www.sciencemag.org/content/317/5844/1518.abstract?keytype=ref&siteid=sci&ijkey=jVmVcXy2%2FNTnY)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chinook - Solving Checkers](http://webdocs.cs.ualberta.ca/~chinook/publications/solving_checkers.html)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Christopher Strachey from Wikipedia](https://en.wikipedia.org/wiki/Christopher_Strachey)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [artificial intelligence (AI) :: Early milestones in AI](http://www.britannica.com/EBchecked/topic/37146/artificial-intelligence-AI/219091/Early-milestones-in-AI?anchor=ref739464) from [Britannica Online Encyclopedia](https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Christopher Strachey](Christopher_Strachey "Christopher Strachey") (**1952**). *[Logical or non-mathematical programmes](http://portal.acm.org/citation.cfm?id=800259.808992)*. Proceedings of the 1952 ACM national meeting
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Christopher Strachey](Christopher_Strachey "Christopher Strachey") (**1966**). *[System Analysis and Programming](http://www.scientificamerican.com/article.cfm?id=system-analysis-and-programming-christopher-strachey)*. [Scientific American](Scientific_American "Scientific American"), September 1966, republished August 23, 2011
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Complete Annotated Strachey Checkers Program](http://norvig.com/sciam/checkers-complete.html) by [Peter Norvig](Peter_Norvig "Peter Norvig")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Prescient but Not Perfect: A Look Back at a 1966 Scientific American Article on Systems Analysis](http://blogs.scientificamerican.com/at-scientific-american/2011/08/23/systems-analysis-look-back-1966-scientific-american-article/) by [Peter Norvig](Peter_Norvig "Peter Norvig"), August 23, 2011
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [English draughts - Computer players from Wikipedia](https://en.wikipedia.org/wiki/English_draughts#Computer_players)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Chinook - Solving Checkers](http://webdocs.cs.ualberta.ca/~chinook/publications/solving_checkers.html)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Re: First success with neural nets](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75190&start=21) by [Jonathan Kreuzer](Jonathan_Kreuzer "Jonathan Kreuzer"), [CCC](CCC "CCC"), November 11, 2020 » [Neural Networks](Neural_Networks "Neural Networks")
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Some studies in machine learning using the game of checkers by Arthur Lee Samuel from Jeremy Norman's Historyofscience.com - Used Book - Paperback - First Edition](http://www.abaa.org/books/245839575.html)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Marion Tinsley vs. Chinook - Wikipedia](https://en.wikipedia.org/wiki/Marion_Tinsley#Vs._Chinook)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Blondie24 by David B. Fogel](http://www.jimloy.com/checkers/blondie.htm), Book Review, © Copyright 2003, [Jim Loy](http://www.jimloy.com/)
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [GitHub - billjordanchess/Checkers-King](https://github.com/billjordanchess/Checkers-King)
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [perft for 8x8 checkers](http://www.talkchess.com/forum/viewtopic.php?t=27814) by [Aart Bik](Aart_Bik "Aart Bik"), [CCC](CCC "CCC"), May 08, 2009
 
 **[Up one Level](Games "Games")**
 

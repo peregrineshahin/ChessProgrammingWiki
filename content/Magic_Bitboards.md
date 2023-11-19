@@ -5,10 +5,10 @@ title: Magic Bitboards
 
 
 
-[ [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Magic Garden, 1926 [[1]](#cite_note-1)
+[ [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Magic Garden, 1926 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Magic Bitboards**,  
 
-a multiply-right-shift [perfect hashing](Hash_Table#PerfectHashing "Hash Table") algorithm to index an attack bitboard database - which leaves both line-attacks of bishop or rook in one run. Thanks to the fast 64-bit [multiplication](General_Setwise_Operations#Multiplication "General Setwise Operations") and fast and huge [caches](https://en.wikipedia.org/wiki/Cache) of recent processors, Magic Bitboards has become a [de facto standard](https://en.wikipedia.org/wiki/De_facto_standard) of modern bitboard engines, as used for instance in [Crafty](Crafty "Crafty"), [Arasan](Arasan "Arasan"), [Stockfish](Stockfish "Stockfish") and [Houdini](Houdini "Houdini"). While [Robert Hyatt](Robert_Hyatt "Robert Hyatt") reported no immediate speed gain over [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards") in Crafty [[2]](#cite_note-2) , [Jon Dart](Jon_Dart "Jon Dart") mentioned a 20-25% speedup [[3]](#cite_note-3) in Arasan over rotated. 
+a multiply-right-shift [perfect hashing](Hash_Table#PerfectHashing "Hash Table") algorithm to index an attack bitboard database - which leaves both line-attacks of bishop or rook in one run. Thanks to the fast 64-bit [multiplication](General_Setwise_Operations#Multiplication "General Setwise Operations") and fast and huge [caches](https://en.wikipedia.org/wiki/Cache) of recent processors, Magic Bitboards has become a [de facto standard](https://en.wikipedia.org/wiki/De_facto_standard) of modern bitboard engines, as used for instance in [Crafty](Crafty "Crafty"), [Arasan](Arasan "Arasan"), [Stockfish](Stockfish "Stockfish") and [Houdini](Houdini "Houdini"). While [Robert Hyatt](Robert_Hyatt "Robert Hyatt") reported no immediate speed gain over [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards") in Crafty <a id="cite-note-2" href="#cite-ref-2">[2]</a> , [Jon Dart](Jon_Dart "Jon Dart") mentioned a 20-25% speedup <a id="cite-note-3" href="#cite-ref-3">[3]</a> in Arasan over rotated. 
 
 
 
@@ -223,7 +223,7 @@ The **ratio** of both cardinalities, that is all **relevant occupancies** versus
  |
 
 
-The idea to implement minimal perfect hashing by an additional 16-bit indirection turned out to be slower (see conditional compiles in Pradu Kannan's source [[9]](#cite_note-9) ).
+The idea to implement minimal perfect hashing by an additional 16-bit indirection turned out to be slower (see conditional compiles in Pradu Kannan's source <a id="cite-note-9" href="#cite-ref-9">[9]</a> ).
 
 
 Recent table sizes were about 38 KiB for the bishop attacks, but still about 800 KiB for rook attacks (Fancy). That sounds huge, considering L1 and L2 (L3) cache-sizes and number of cachelines and pages needed - we likely fetch distinct cachelines for each different square or occupancy. On the other hand caches and pages become larger in future processors. And occupancy and squares of the lookups don't change that randomly inside a search that we can still expect a lot of L1-hits. Unfortunately changes in occupancy outside the blockers and therefor not affecting the attack-set will introduce some more cache misses.
@@ -275,7 +275,7 @@ But the idea seems like a wishing dream. Can we find ONE of the **magic group** 
 ## Implementations
 
 
-Despite its huge table size, register usage and code size are important issues as well - and here Magic Bitboards are unbeatable. There are enough variations of [space-time tradeoff](Space-Time_Tradeoff "Space-Time Tradeoff") and implementation details of that theme for all who like to play the optimization game. [C](C "C")-source code with various precompiler options is available from [Pradu Kannan's](Pradu_Kannan "Pradu Kannan") site. MINIMIZE\_MAGIC is about Plain versus Fancy [[10]](#cite_note-10) , while PERFECT\_MAGIC\_HASH enables an additional indirection via 16-bit indices. As always, with space-time tradeoffs - it depends on the individual cache- and [memory footprint](https://en.wikipedia.org/wiki/Memory_footprint) inside a particular chess program and the hardware architecture, which solution is preferable.
+Despite its huge table size, register usage and code size are important issues as well - and here Magic Bitboards are unbeatable. There are enough variations of [space-time tradeoff](Space-Time_Tradeoff "Space-Time Tradeoff") and implementation details of that theme for all who like to play the optimization game. [C](C "C")-source code with various precompiler options is available from [Pradu Kannan's](Pradu_Kannan "Pradu Kannan") site. MINIMIZE\_MAGIC is about Plain versus Fancy <a id="cite-note-10" href="#cite-ref-10">[10]</a> , while PERFECT\_MAGIC\_HASH enables an additional indirection via 16-bit indices. As always, with space-time tradeoffs - it depends on the individual cache- and [memory footprint](https://en.wikipedia.org/wiki/Memory_footprint) inside a particular chess program and the hardware architecture, which solution is preferable.
 
 
 
@@ -361,7 +361,7 @@ U64 bishopAttacks(U64 occ, enumSquare sq) {
 ### Fixed shift Fancy
 
 
-A fancy fixed shift variation was introduced by [Onno Garms](Onno_Garms "Onno Garms"), looking for magics producing factors with appropriate reduced value ranges. That is, leave 12 bit rook indices for all squares, but with upper bit(s) clear for all possible occupancies for all the squares with less than 12 relevant bits, so that it efficiently becomes a less 12 bit index. Onno believes that it is possible to find magic factors with that property for most of those squares, to come close to the fancy table size with the advantage of a fixed shift [[11]](#cite_note-11) . Even an "overlapping" of square arrays is feasible, if they contain accordant unused slot gaps on both ends. [Volker Annuss](Volker_Annuss "Volker Annuss") came up with a fixed shift solution of only 800 KiB and below [[12]](#cite_note-12) [[13]](#cite_note-13), and more recently even innovated with [Black Magic Bitboards](#BlackMagics). 
+A fancy fixed shift variation was introduced by [Onno Garms](Onno_Garms "Onno Garms"), looking for magics producing factors with appropriate reduced value ranges. That is, leave 12 bit rook indices for all squares, but with upper bit(s) clear for all possible occupancies for all the squares with less than 12 relevant bits, so that it efficiently becomes a less 12 bit index. Onno believes that it is possible to find magic factors with that property for most of those squares, to come close to the fancy table size with the advantage of a fixed shift <a id="cite-note-11" href="#cite-ref-11">[11]</a> . Even an "overlapping" of square arrays is feasible, if they contain accordant unused slot gaps on both ends. [Volker Annuss](Volker_Annuss "Volker Annuss") came up with a fixed shift solution of only 800 KiB and below <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>, and more recently even innovated with [Black Magic Bitboards](#BlackMagics). 
 
 
 
@@ -396,7 +396,7 @@ U64 rookAttacks(U64 occ, enumSquare sq) {
 ### Black Magic Bitboards
 
 
-[Volker Annuss'](Volker_Annuss "Volker Annuss") most recent innovation and further improvement of his already dense 700 KiB [fixed shift fancy](#FixedShiftFancy) reference implementation is called **Black Magic Bitboards**, introduced in [CCC](CCC "CCC") in August 2017 [[14]](#cite_note-14). Instead of [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") with a mask to clear the not relevant occupancy bits, he used the [union](General_Setwise_Operations#Union "General Setwise Operations") with the [complement](General_Setwise_Operations#ComplementSet "General Setwise Operations") of mask to set all not relevant occupancy bits. 
+[Volker Annuss'](Volker_Annuss "Volker Annuss") most recent innovation and further improvement of his already dense 700 KiB [fixed shift fancy](#FixedShiftFancy) reference implementation is called **Black Magic Bitboards**, introduced in [CCC](CCC "CCC") in August 2017 <a id="cite-note-14" href="#cite-ref-14">[14]</a>. Instead of [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") with a mask to clear the not relevant occupancy bits, he used the [union](General_Setwise_Operations#Union "General Setwise Operations") with the [complement](General_Setwise_Operations#ComplementSet "General Setwise Operations") of mask to set all not relevant occupancy bits. 
 
 
 
@@ -415,7 +415,7 @@ U64 rookAttacks(U64 occ, enumSquare sq) {
 
 ```
 
-This trick, which basically adds a huge constant to the occupancy factor, enables to find **Black Magics** yielding in even smaller array sizes per square, determined by maximum and minimum index - the latter no longer zero for the empty occupancy! Unfortunately so far, the individual savings with denser square arrays don't completely advance to the size of the combined overlapping table, since overlapping became harder due to smaller gaps [[15]](#cite_note-15) . However, 692 KiB for the complete rook and bishop attack table is the new fixed shift reference. Black Magic Bitboards are now used in Volker's engine [Arminius](Arminius "Arminius") [[16]](#cite_note-16) [[17]](#cite_note-17):
+This trick, which basically adds a huge constant to the occupancy factor, enables to find **Black Magics** yielding in even smaller array sizes per square, determined by maximum and minimum index - the latter no longer zero for the empty occupancy! Unfortunately so far, the individual savings with denser square arrays don't completely advance to the size of the combined overlapping table, since overlapping became harder due to smaller gaps <a id="cite-note-15" href="#cite-ref-15">[15]</a> . However, 692 KiB for the complete rook and bishop attack table is the new fixed shift reference. Black Magic Bitboards are now used in Volker's engine [Arminius](Arminius "Arminius") <a id="cite-note-16" href="#cite-ref-16">[16]</a> <a id="cite-note-17" href="#cite-ref-17">[17]</a>:
 
 
 
@@ -450,7 +450,7 @@ U64 rookAttacks(U64 occ, enumSquare sq) {
 ### Byte Lookup
 
 
-Since there are only up to 144 different attack sets per square, [Robert Houdart](Robert_Houdart "Robert Houdart") proposed to lookup [bytes](Byte "Byte") by square and hashed occupancy for a minimal perfect hashing with an additional indirection via an offset per square, which is successfully used in his engine [Houdini](Houdini "Houdini") [[18]](#cite_note-18) . Following sample code uses the Plain fixed shift method, while it may also applied for the dense Fancy one.
+Since there are only up to 144 different attack sets per square, [Robert Houdart](Robert_Houdart "Robert Houdart") proposed to lookup [bytes](Byte "Byte") by square and hashed occupancy for a minimal perfect hashing with an additional indirection via an offset per square, which is successfully used in his engine [Houdini](Houdini "Houdini") <a id="cite-note-18" href="#cite-ref-18">[18]</a> . Following sample code uses the Plain fixed shift method, while it may also applied for the dense Fancy one.
 
 
 
@@ -488,7 +488,7 @@ U64 bishopAttacks(U64 occ, enumSquare sq) {
 ### 32-bit Magics
 
 
-Optimizations are possible for 32-bit systems, as proposed by [Grant Osborne](Grant_Osborne "Grant Osborne") [[19]](#cite_note-19) . Instead of letting the compiler split up a 64-bit multiply, two 32-bit multiplications can be manually implemented. Multiply the low bits of the magic with the low bits of the key and add it with the product of the high bits of the magic and the high bits of the key and use the upper bits of the sum to index the move database. For the bishops one may try only one 32-bit multiplication after xoring the masked high and low half.
+Optimizations are possible for 32-bit systems, as proposed by [Grant Osborne](Grant_Osborne "Grant Osborne") <a id="cite-note-19" href="#cite-ref-19">[19]</a> . Instead of letting the compiler split up a 64-bit multiply, two 32-bit multiplications can be manually implemented. Multiply the low bits of the magic with the low bits of the key and add it with the product of the high bits of the magic and the high bits of the key and use the upper bits of the sum to index the move database. For the bishops one may try only one 32-bit multiplication after xoring the masked high and low half.
 
 
 
@@ -524,7 +524,7 @@ U64 rookAttacks(U64 occ, enumSquare sq) {
 ### Sharing Attacks
 
 
-The development has not finished. [Lasse Hansen](Lasse_Hansen "Lasse Hansen") came up with another stunning idea [[20]](#cite_note-20) , to use a final [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") by [attacks on an empty board](On_an_empty_Board "On an empty Board"), to share tables by two (rooks) or even four (bishops) squares. Bishop sharing is simple to understand, since there are light and dark colored bishops with disjoint attacks-sets, able to share the pre-calculated union of two square-attacks.
+The development has not finished. [Lasse Hansen](Lasse_Hansen "Lasse Hansen") came up with another stunning idea <a id="cite-note-20" href="#cite-ref-20">[20]</a> , to use a final [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") by [attacks on an empty board](On_an_empty_Board "On an empty Board"), to share tables by two (rooks) or even four (bishops) squares. Bishop sharing is simple to understand, since there are light and dark colored bishops with disjoint attacks-sets, able to share the pre-calculated union of two square-attacks.
 
 
 The trick is to share even equal colored bishops and rooks where both attack-sets are not disjoint - but all members of the intersection are always set, since they are direct neighbors of both sliders. This is how rooks and bishops may share union-attack-sets by two resp. four squares:
@@ -621,7 +621,7 @@ U64 rookAttacks(U64 occ, enumSquare sq) {
 ### Incorporating the Shift
 
 
-Another possible improvement was introduced by [Grant Osborne](Grant_Osborne "Grant Osborne") [[21]](#cite_note-21) - to don't store the variable right shift inside an own array or structure element, but to use the almost redundant upper six bit of the magic factor instead - incorporating the shift into the magic number. While using a structure for pre-, postmask, magic and pointer, it's size is 4\*8 = 32-byte or - if properly aligned - the half of one cache line. The additional effort for the right shift 58 to extract the variable shift is likely hidden by the latency of the independent multiplication, improving ipc.
+Another possible improvement was introduced by [Grant Osborne](Grant_Osborne "Grant Osborne") <a id="cite-note-21" href="#cite-ref-21">[21]</a> - to don't store the variable right shift inside an own array or structure element, but to use the almost redundant upper six bit of the magic factor instead - incorporating the shift into the magic number. While using a structure for pre-, postmask, magic and pointer, it's size is 4\*8 = 32-byte or - if properly aligned - the half of one cache line. The additional effort for the right shift 58 to extract the variable shift is likely hidden by the latency of the independent multiplication, improving ipc.
 
 
 
@@ -665,7 +665,7 @@ U64 rookAttacks(U64 occ, enumSquare sq) {
 ### Incorporating Offset
 
 
-A similar idea as in [Incorporating the Shift](#IncorporatingtheShift) in the domain [fixed shift magics](#FixedShiftFancy) was proposed by [Eugene Kotlov](index.php?title=Eugene_Kotlov&action=edit&redlink=1 "Eugene Kotlov (page does not exist)") concerning the indirection to the stored attack array, using the 16 lower bits of the magic factor as offset [[22]](#cite_note-22), later even combined with incorporating the shift in the domain of Fancy [[23]](#cite_note-23).
+A similar idea as in [Incorporating the Shift](#IncorporatingtheShift) in the domain [fixed shift magics](#FixedShiftFancy) was proposed by [Eugene Kotlov](index.php?title=Eugene_Kotlov&action=edit&redlink=1 "Eugene Kotlov (page does not exist)") concerning the indirection to the stored attack array, using the 16 lower bits of the magic factor as offset <a id="cite-note-22" href="#cite-ref-22">[22]</a>, later even combined with incorporating the shift in the domain of Fancy <a id="cite-note-23" href="#cite-ref-23">[23]</a>.
 
 
 
@@ -725,7 +725,7 @@ You may try to find your own magics - to possibly contribute to the record table
 
 * [SEE with magic bitboards](http://www.open-aurec.com/wbforum/viewtopic.php?t=6104) by [Pradu Kannan](Pradu_Kannan "Pradu Kannan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), January 24, 2007 » [Static Exchange Evaluation](Static_Exchange_Evaluation "Static Exchange Evaluation")
 * [Magic bitboards, Java](http://www.talkchess.com/forum/viewtopic.php?t=15896) by Sargon, [CCC](CCC "CCC"), August 19, 2007 » [Java](Java "Java")
-* [BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?t=16002) by [Brian Richardson](Brian_Richardson "Brian Richardson"), [CCC](CCC "CCC"), August 24, 2007 [[24]](#cite_note-24)
+* [BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?t=16002) by [Brian Richardson](Brian_Richardson "Brian Richardson"), [CCC](CCC "CCC"), August 24, 2007 <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 * [Magic and precomputation](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6823) by [Onno Garms](Onno_Garms "Onno Garms"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 23, 2007
 
 
@@ -771,7 +771,7 @@ You may try to find your own magics - to possibly contribute to the record table
 
 
 
-* [M42 - A C++ library for Bitboard attack mask generation](http://www.talkchess.com/forum/viewtopic.php?t=60007) by [Syed Fahad](Syed_Fahad "Syed Fahad"), [CCC](CCC "CCC"), April 30, 2016 [[25]](#cite_note-25)
+* [M42 - A C++ library for Bitboard attack mask generation](http://www.talkchess.com/forum/viewtopic.php?t=60007) by [Syed Fahad](Syed_Fahad "Syed Fahad"), [CCC](CCC "CCC"), April 30, 2016 <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 * [understanding fixed shift fancy magic bitboard generation](http://www.talkchess.com/forum/viewtopic.php?t=60065) by [Kalyankumar Ramaseshan](index.php?title=Kalyankumar_Ramaseshan&action=edit&redlink=1 "Kalyankumar Ramaseshan (page does not exist)"), [CCC](CCC "CCC"), May 05, 2016
 
 
@@ -808,7 +808,7 @@ You may try to find your own magics - to possibly contribute to the record table
 ### 2020 ...
 
 
-* [Hashtable packing (e.g. to optimize magic bitboards) is strongly NP-complete](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73071) by [Niklas Fiekas](Niklas_Fiekas "Niklas Fiekas"), [CCC](CCC "CCC"), February 13, 2020 [[26]](#cite_note-26)
+* [Hashtable packing (e.g. to optimize magic bitboards) is strongly NP-complete](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73071) by [Niklas Fiekas](Niklas_Fiekas "Niklas Fiekas"), [CCC](CCC "CCC"), February 13, 2020 <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 * [Looking for Magics, with ternary field types](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73593) by [Fabian von der Warth](index.php?title=Fabian_von_der_Warth&action=edit&redlink=1 "Fabian von der Warth (page does not exist)"), [CCC](CCC "CCC"), April 07, 2020 » [Hive](https://en.wikipedia.org/wiki/Hive_(game))
 * [magic bitboard perft](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73625) by [Richard Delorme](Richard_Delorme "Richard Delorme"), [CCC](CCC "CCC"), April 11, 2020 » [Perft](Perft "Perft")
 * [What is the point of magic hashing over simply using masked occupancy as index ?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77648) by Gautier Blandin, [CCC](CCC "CCC"), July 06, 2021 » [Hashing Dictionaries](Hashing_Dictionaries "Hashing Dictionaries")
@@ -822,7 +822,7 @@ You may try to find your own magics - to possibly contribute to the record table
 * [Understanding magic bitboards in chess programming](http://web.archive.org/web/20160314001240/http://www.afewmorelines.com/understanding-magic-bitboards-in-chess-programming/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)) by [Chris Moreton](Chris_Moreton "Chris Moreton") in his programming blog, August 07, 2013
 * [Chess Programming | Generating Magic Multipliers](http://www.chessprogramming.net/generating-magic-multipliers/) by [Steve Maughan](Steve_Maughan "Steve Maughan") » [Looking for Magics](Looking_for_Magics "Looking for Magics")
 * [chess - Sliding move generation using magic bitboard](http://stackoverflow.com/questions/16925204/sliding-move-generation-using-magic-bitboard) - [Stack Overflow](https://en.wikipedia.org/wiki/Stack_Overflow), June 4, 2013
-* [M42](https://sites.google.com/site/sydfhd/projects/m42) by [Syed Fahad](Syed_Fahad "Syed Fahad") [[27]](#cite_note-27)
+* [M42](https://sites.google.com/site/sydfhd/projects/m42) by [Syed Fahad](Syed_Fahad "Syed Fahad") <a id="cite-note-27" href="#cite-ref-27">[27]</a>
 * [GitHub - goutham/magic-bits: Magic-bitboards for Chess](https://github.com/goutham/magic-bits) by [Goutham Bhat](index.php?title=Goutham_Bhat&action=edit&redlink=1 "Goutham Bhat (page does not exist)")
 * [Fast Chess Move Generation With Magic Bitboards](https://rhysre.net/fast-chess-move-generation-with-magic-bitboards.html) by [Rhys Rustad-Elliott](Rhys_Rustad-Elliott "Rhys Rustad-Elliott"), January 15, 2019
 
@@ -851,33 +851,33 @@ You may try to find your own magics - to possibly contribute to the record table
 ## References
 
 
-1. [↑](#cite_ref-1) [Paul Klee - Magic Garden, 1926](https://commons.wikimedia.org/wiki/File:GUGG_Magic_Garden.jpg), [Solomon R. Guggenheim Museum](https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum)
-2. [↑](#cite_ref-2) [Re: BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=140141&t=16002) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), August 25, 2007
-3. [↑](#cite_ref-3) [Arasan Blog - Aug 26, 2008](http://www.arasanchess.org/blogs/aug08.html) by [Jon Dart](Jon_Dart "Jon Dart")
-4. [↑](#cite_ref-4) [rotated bitboards obsolete?](https://www.stmintz.com/ccc/index.php?id=489834) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), February 26, 2006
-5. [↑](#cite_ref-5) [Fast(er) bitboard move generator](http://www.open-aurec.com/wbforum/viewtopic.php?t=5015) by [Lasse Hansen](Lasse_Hansen "Lasse Hansen"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 14, [2006](Timeline#2006 "Timeline"), Initial idea
-6. [↑](#cite_ref-6) [Pradu Kannan](Pradu_Kannan "Pradu Kannan") (**2007**). *Magic Move-Bitboard Generation in Computer Chess*, as [pdf](http://www.pradu.us/old/Nov27_2008/Buzz/research/magic/Bitboards.pdf)
-7. [↑](#cite_ref-7) [List of magics for bitboard move generation](http://www.open-aurec.com/wbforum/viewtopic.php?t=5441) by [Pradu Kannan](Pradu_Kannan "Pradu Kannan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 23, [2006](Timeline#2006 "Timeline")
-8. [↑](#cite_ref-8) [Plain and fancy magic on modern hardware](http://www.talkchess.com/forum/viewtopic.php?t=35858) by [Robert Purves](index.php?title=Robert_Purves&action=edit&redlink=1 "Robert Purves (page does not exist)"), [CCC](CCC "CCC"), August 22, 2010
-9. [↑](#cite_ref-9) [Buzz - A Winboard Chess Playing Program by Pradu Kannan](http://www.pradu.us/old/Nov27_2008/Buzz/) - Source of [Pradu Kannan's](Pradu_Kannan "Pradu Kannan") magic Move Generator, PERFECT\_MAGIC\_HASH
-10. [↑](#cite_ref-10) [Buzz - A Winboard Chess Playing Program by Pradu Kannan](http://www.pradu.us/old/Nov27_2008/Buzz/) - Source of [Pradu Kannan's](Pradu_Kannan "Pradu Kannan") magic Move Generator, MINIMIZE\_MAGIC
-11. [↑](#cite_ref-11) [Magic with fixed shift](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50043) by [Onno Garms](Onno_Garms "Onno Garms"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 18, 2009
-12. [↑](#cite_ref-12) [Fixed shift magics with 800KB lookup table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=51162) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September, 05, 2010
-13. [↑](#cite_ref-13) [Re: understanding fixed shift fancy magic bitboard generation](http://www.talkchess.com/forum/viewtopic.php?t=60065&start=14) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), May 06, 2016
-14. [↑](#cite_ref-14) [Black magic bitboards](http://www.talkchess.com/forum/viewtopic.php?t=64790) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), August 03, 2017
-15. [↑](#cite_ref-15) [Re: Black magic bitboards](http://www.talkchess.com/forum/viewtopic.php?t=64790&start=11) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), August 04, 2017
-16. [↑](#cite_ref-16) [Re: Black magic bitboards](http://www.talkchess.com/forum/viewtopic.php?t=64790&start=14) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), August 04, 2017
-17. [↑](#cite_ref-17) source code according to the [fixed shift fancy](#FixedShiftFancy) sample - array size from Volker's posting, also containing black magics and arrayoffsets, see [Black magic bitboards](http://www.talkchess.com/forum/viewtopic.php?t=64790) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), August 03, 2017
-18. [↑](#cite_ref-18) [Re: Plain and fancy magic on modern hardware](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=368026&t=35858) by [Robert Houdart](Robert_Houdart "Robert Houdart"), [CCC](CCC "CCC"), August 26, 2010
-19. [↑](#cite_ref-19) [A Faster Magic Move Bitboard Generator?](http://www.open-aurec.com/wbforum/viewtopic.php?t=5997) by [Grant Osborne](Grant_Osborne "Grant Osborne"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 15, 2006
-20. [↑](#cite_ref-20) [Lasse Hansen's](Lasse_Hansen "Lasse Hansen") [postmask trick](http://www.open-aurec.com/wbforum/viewtopic.php?topic_view=threads&p=185506&t=5441), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 09, 2008
-21. [↑](#cite_ref-21) [Incorporating the shift into the magic number](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=196157&t=21329) by [Grant Osborne](Grant_Osborne "Grant Osborne"), [CCC](CCC "CCC"), June 18, 2008
-22. [↑](#cite_ref-22) [magic number comprising offset](http://www.talkchess.com/forum/viewtopic.php?t=66538) by [Eugene Kotlov](index.php?title=Eugene_Kotlov&action=edit&redlink=1 "Eugene Kotlov (page does not exist)"), [CCC](CCC "CCC"), February 07, 2018
-23. [↑](#cite_ref-23) [Shift and Address included into Magic number](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69947) by [Eugene Kotlov](index.php?title=Eugene_Kotlov&action=edit&redlink=1 "Eugene Kotlov (page does not exist)"), [CCC](CCC "CCC"), February 18, 2019
-24. [↑](#cite_ref-24) [Movegen Re: Bitmap Type Re: Tinker 81 secs Re: Testing speed](https://www.stmintz.com/ccc/index.php?id=107485) by [Brian Richardson](Brian_Richardson "Brian Richardson"), [CCC](CCC "CCC"), April 24, 2000
-25. [↑](#cite_ref-25) [M42](https://sites.google.com/site/sydfhd/projects/m42) by [Syed Fahad](Syed_Fahad "Syed Fahad")
-26. [↑](#cite_ref-26) [Strong NP-completeness from Wikipedia](https://en.wikipedia.org/wiki/Strong_NP-completeness)
-27. [↑](#cite_ref-27) [M42 - A C++ library for Bitboard attack mask generation](http://www.talkchess.com/forum/viewtopic.php?t=60007) by [Syed Fahad](Syed_Fahad "Syed Fahad"), [CCC](CCC "CCC"), April 30, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul Klee - Magic Garden, 1926](https://commons.wikimedia.org/wiki/File:GUGG_Magic_Garden.jpg), [Solomon R. Guggenheim Museum](https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=140141&t=16002) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), August 25, 2007
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Arasan Blog - Aug 26, 2008](http://www.arasanchess.org/blogs/aug08.html) by [Jon Dart](Jon_Dart "Jon Dart")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [rotated bitboards obsolete?](https://www.stmintz.com/ccc/index.php?id=489834) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), February 26, 2006
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Fast(er) bitboard move generator](http://www.open-aurec.com/wbforum/viewtopic.php?t=5015) by [Lasse Hansen](Lasse_Hansen "Lasse Hansen"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 14, [2006](Timeline#2006 "Timeline"), Initial idea
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Pradu Kannan](Pradu_Kannan "Pradu Kannan") (**2007**). *Magic Move-Bitboard Generation in Computer Chess*, as [pdf](http://www.pradu.us/old/Nov27_2008/Buzz/research/magic/Bitboards.pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [List of magics for bitboard move generation](http://www.open-aurec.com/wbforum/viewtopic.php?t=5441) by [Pradu Kannan](Pradu_Kannan "Pradu Kannan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 23, [2006](Timeline#2006 "Timeline")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Plain and fancy magic on modern hardware](http://www.talkchess.com/forum/viewtopic.php?t=35858) by [Robert Purves](index.php?title=Robert_Purves&action=edit&redlink=1 "Robert Purves (page does not exist)"), [CCC](CCC "CCC"), August 22, 2010
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Buzz - A Winboard Chess Playing Program by Pradu Kannan](http://www.pradu.us/old/Nov27_2008/Buzz/) - Source of [Pradu Kannan's](Pradu_Kannan "Pradu Kannan") magic Move Generator, PERFECT\_MAGIC\_HASH
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Buzz - A Winboard Chess Playing Program by Pradu Kannan](http://www.pradu.us/old/Nov27_2008/Buzz/) - Source of [Pradu Kannan's](Pradu_Kannan "Pradu Kannan") magic Move Generator, MINIMIZE\_MAGIC
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Magic with fixed shift](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50043) by [Onno Garms](Onno_Garms "Onno Garms"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 18, 2009
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Fixed shift magics with 800KB lookup table](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=51162) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September, 05, 2010
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Re: understanding fixed shift fancy magic bitboard generation](http://www.talkchess.com/forum/viewtopic.php?t=60065&start=14) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), May 06, 2016
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Black magic bitboards](http://www.talkchess.com/forum/viewtopic.php?t=64790) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), August 03, 2017
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Re: Black magic bitboards](http://www.talkchess.com/forum/viewtopic.php?t=64790&start=11) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), August 04, 2017
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Re: Black magic bitboards](http://www.talkchess.com/forum/viewtopic.php?t=64790&start=14) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), August 04, 2017
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> source code according to the [fixed shift fancy](#FixedShiftFancy) sample - array size from Volker's posting, also containing black magics and arrayoffsets, see [Black magic bitboards](http://www.talkchess.com/forum/viewtopic.php?t=64790) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), August 03, 2017
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Re: Plain and fancy magic on modern hardware](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=368026&t=35858) by [Robert Houdart](Robert_Houdart "Robert Houdart"), [CCC](CCC "CCC"), August 26, 2010
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [A Faster Magic Move Bitboard Generator?](http://www.open-aurec.com/wbforum/viewtopic.php?t=5997) by [Grant Osborne](Grant_Osborne "Grant Osborne"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 15, 2006
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Lasse Hansen's](Lasse_Hansen "Lasse Hansen") [postmask trick](http://www.open-aurec.com/wbforum/viewtopic.php?topic_view=threads&p=185506&t=5441), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 09, 2008
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Incorporating the shift into the magic number](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=196157&t=21329) by [Grant Osborne](Grant_Osborne "Grant Osborne"), [CCC](CCC "CCC"), June 18, 2008
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [magic number comprising offset](http://www.talkchess.com/forum/viewtopic.php?t=66538) by [Eugene Kotlov](index.php?title=Eugene_Kotlov&action=edit&redlink=1 "Eugene Kotlov (page does not exist)"), [CCC](CCC "CCC"), February 07, 2018
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Shift and Address included into Magic number](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69947) by [Eugene Kotlov](index.php?title=Eugene_Kotlov&action=edit&redlink=1 "Eugene Kotlov (page does not exist)"), [CCC](CCC "CCC"), February 18, 2019
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Movegen Re: Bitmap Type Re: Tinker 81 secs Re: Testing speed](https://www.stmintz.com/ccc/index.php?id=107485) by [Brian Richardson](Brian_Richardson "Brian Richardson"), [CCC](CCC "CCC"), April 24, 2000
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [M42](https://sites.google.com/site/sydfhd/projects/m42) by [Syed Fahad](Syed_Fahad "Syed Fahad")
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Strong NP-completeness from Wikipedia](https://en.wikipedia.org/wiki/Strong_NP-completeness)
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [M42 - A C++ library for Bitboard attack mask generation](http://www.talkchess.com/forum/viewtopic.php?t=60007) by [Syed Fahad](Syed_Fahad "Syed Fahad"), [CCC](CCC "CCC"), April 30, 2016
 
 **[Up one Level](Sliding_Piece_Attacks "Sliding Piece Attacks")**
 

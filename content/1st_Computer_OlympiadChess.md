@@ -5,14 +5,14 @@ title: 1st Computer OlympiadChess
 
 **[Next >](2nd_Computer_Olympiad "2nd Computer Olympiad")**
 
-\[ Park Lane Hotel [[1]](#cite_note-1)
-The **First Computer Olympiad** was held from August 9 to 15, [1989](Timeline#1989 "Timeline"), in the Ballroom of the [Park Lane Hotel](https://en.wikipedia.org/wiki/Park_Lane_Hotel), [London](https://en.wikipedia.org/wiki/London), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom), where already the first part of the [World Chess Championship 1986](https://en.wikipedia.org/wiki/World_Chess_Championship_1986) between [Anatoly Karpov](https://en.wikipedia.org/wiki/Anatoly_Karpov) and [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) took place [[2]](#cite_note-2) . [Claude Shannon](Claude_Shannon "Claude Shannon") served in the award ceremony, handing the [Gold](https://en.wikipedia.org/wiki/Gold_medal), [Silver](https://en.wikipedia.org/wiki/Silver_medal) and [Bronze](https://en.wikipedia.org/wiki/Bronze_medal) [medals](https://en.wikipedia.org/wiki/Medal) to the deserving [[3]](#cite_note-3). The First Computer Olympiad was associated by the [Heuristic Programming in Artificial Intelligence](1st_Computer_Olympiad#Workshop "1st Computer Olympiad") workshop, with proceedings edited by [David Levy](David_Levy "David Levy") and [Don Beal](Don_Beal "Don Beal"), published by Ellis Horwood [[4]](#cite_note-4).
+\[ Park Lane Hotel <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+The **First Computer Olympiad** was held from August 9 to 15, [1989](Timeline#1989 "Timeline"), in the Ballroom of the [Park Lane Hotel](https://en.wikipedia.org/wiki/Park_Lane_Hotel), [London](https://en.wikipedia.org/wiki/London), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom), where already the first part of the [World Chess Championship 1986](https://en.wikipedia.org/wiki/World_Chess_Championship_1986) between [Anatoly Karpov](https://en.wikipedia.org/wiki/Anatoly_Karpov) and [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) took place <a id="cite-note-2" href="#cite-ref-2">[2]</a> . [Claude Shannon](Claude_Shannon "Claude Shannon") served in the award ceremony, handing the [Gold](https://en.wikipedia.org/wiki/Gold_medal), [Silver](https://en.wikipedia.org/wiki/Silver_medal) and [Bronze](https://en.wikipedia.org/wiki/Bronze_medal) [medals](https://en.wikipedia.org/wiki/Medal) to the deserving <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The First Computer Olympiad was associated by the [Heuristic Programming in Artificial Intelligence](1st_Computer_Olympiad#Workshop "1st Computer Olympiad") workshop, with proceedings edited by [David Levy](David_Levy "David Levy") and [Don Beal](Don_Beal "Don Beal"), published by Ellis Horwood <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
 ## Results
 
 ## [Awari](Awari "Awari")
 
-**[Next >](2nd_Computer_Olympiad#Awari "2nd Computer Olympiad")** [[5]](#cite_note-5)
+**[Next >](2nd_Computer_Olympiad#Awari "2nd Computer Olympiad")** <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 |  #
 |  Program
@@ -45,7 +45,7 @@ The **First Computer Olympiad** was held from August 9 to 15, [1989](Timeline#19
 
 ## [Backgammon](Backgammon "Backgammon")
 
-**[Next >](2nd_Computer_Olympiad#Backgammon "2nd Computer Olympiad")** [[6]](#cite_note-6)
+**[Next >](2nd_Computer_Olympiad#Backgammon "2nd Computer Olympiad")** <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 |  #
 |  Program
@@ -71,7 +71,7 @@ Operators
 |  Bronze
 |
 |  4
-| [Mephisto Backgammon](https://www.game-ai-forum.org/icga-tournaments/program.php?id=317) [[7]](#cite_note-7) |  GB
+| [Mephisto Backgammon](https://www.game-ai-forum.org/icga-tournaments/program.php?id=317) <a id="cite-note-7" href="#cite-ref-7">[7]</a> |  GB
 | [Richard Lang](Richard_Lang "Richard Lang"), [Ossi Weiner](Ossi_Weiner "Ossi Weiner") |  2
 |  |
 |  5
@@ -87,7 +87,7 @@ Operators
 
 ## [Bridge](index.php?title=Bridge&action=edit&redlink=1 "Bridge (page does not exist)")
 
-**[Next >](2nd_Computer_Olympiad#Bridge "2nd Computer Olympiad")** [[8]](#cite_note-8)
+**[Next >](2nd_Computer_Olympiad#Bridge "2nd Computer Olympiad")** <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 |  #
 |  Program
@@ -121,7 +121,7 @@ Operators
 
 ## [Checkers](Checkers "Checkers")
 
-**[Next >](2nd_Computer_Olympiad#Checkers "2nd Computer Olympiad")** [[9]](#cite_note-9)
+**[Next >](2nd_Computer_Olympiad#Checkers "2nd Computer Olympiad")** <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 |  #
 |  Program
@@ -162,7 +162,7 @@ Operators
 
 ## Chess
 
-**[Next >](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad")** [[10]](#cite_note-10)
+**[Next >](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad")** <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ### Final Standing
 
@@ -324,7 +324,7 @@ Operators
 
 ### Selected Games
 
-[Rebel](Rebel "Rebel") - [Fidelity X](Fidelity "Fidelity") [[11]](#cite_note-11)
+[Rebel](Rebel "Rebel") - [Fidelity X](Fidelity "Fidelity") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
 
@@ -351,7 +351,7 @@ Operators
 
 ## [Chinese Chess](Chinese_Chess "Chinese Chess")
 
-**[Next >](2nd_Computer_Olympiad#ChineseChess "2nd Computer Olympiad")** [[12]](#cite_note-12)
+**[Next >](2nd_Computer_Olympiad#ChineseChess "2nd Computer Olympiad")** <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 |  #
 |  Program
@@ -388,7 +388,7 @@ Operators
 
 ## [Connect Four](Connect_Four "Connect Four")
 
-[[13]](#cite_note-13)
+<a id="cite-note-13" href="#cite-ref-13">[13]</a>
 
 |  #
 |  Program
@@ -421,7 +421,7 @@ Operators
 
 ## [Dominoes](index.php?title=Dominoes&action=edit&redlink=1 "Dominoes (page does not exist)")
 
-[[14]](#cite_note-14)
+<a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 |  #
 |  Program
@@ -450,7 +450,7 @@ Operators
 
 ## [Draughts](Draughts "Draughts")
 
-**[Next >](3rd_Computer_Olympiad#Draughts "3rd Computer Olympiad")** [[15]](#cite_note-15)
+**[Next >](3rd_Computer_Olympiad#Draughts "3rd Computer Olympiad")** <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 |  #
 |  Program
@@ -495,7 +495,7 @@ Operators
 
 ### 19x19
 
-[[16]](#cite_note-16)
+<a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 |  #
 |  Program
@@ -552,7 +552,7 @@ Operators
 
 ### 9x9
 
-[[17]](#cite_note-17)
+<a id="cite-note-17" href="#cite-ref-17">[17]</a>
 
 |  #
 |  Program
@@ -609,7 +609,7 @@ Operators
 
 ## [Gomoku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)")
 
-**[Next >](2nd_Computer_Olympiad#Gomoku "2nd Computer Olympiad")** [[18]](#cite_note-18)
+**[Next >](2nd_Computer_Olympiad#Gomoku "2nd Computer Olympiad")** <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 |  #
 |  Program
@@ -642,7 +642,7 @@ Operators
 
 ## [Othello](Othello "Othello")
 
-**[Next >](2nd_Computer_Olympiad#Othello "2nd Computer Olympiad")** [[19]](#cite_note-19)
+**[Next >](2nd_Computer_Olympiad#Othello "2nd Computer Olympiad")** <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 
 |  #
 |  Program
@@ -719,7 +719,7 @@ Operators
 
 ## [Renju](index.php?title=Renju&action=edit&redlink=1 "Renju (page does not exist)")
 
-**[Next >](2nd_Computer_Olympiad#Renju "2nd Computer Olympiad")** [[20]](#cite_note-20) [[21]](#cite_note-21)
+**[Next >](2nd_Computer_Olympiad#Renju "2nd Computer Olympiad")** <a id="cite-note-20" href="#cite-ref-20">[20]</a> <a id="cite-note-21" href="#cite-ref-21">[21]</a>
 
 |  #
 |  Program
@@ -743,7 +743,7 @@ Operators
 
 ## [Scrabble](index.php?title=Scrabble&action=edit&redlink=1 "Scrabble (page does not exist)")
 
-**[Next >](2nd_Computer_Olympiad#Scrabble "2nd Computer Olympiad")** [[22]](#cite_note-22)
+**[Next >](2nd_Computer_Olympiad#Scrabble "2nd Computer Olympiad")** <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 
 |  #
 |  Program
@@ -786,7 +786,7 @@ Operators
 
 ## Heuristic Programming in AI
 
-- [David Levy](David_Levy "David Levy"), [Don Beal](Don_Beal "Don Beal") (Eds.) (**1989**). *Heuristic Programming in Artificial Intelligence - The First Computer Olympiad*. Ellis Horwood, [ICGA](https://ilk.uvt.nl/icga/organisation/books/HPinAI1.php) [[23]](#cite_note-23)
+- [David Levy](David_Levy "David Levy"), [Don Beal](Don_Beal "Don Beal") (Eds.) (**1989**). *Heuristic Programming in Artificial Intelligence - The First Computer Olympiad*. Ellis Horwood, [ICGA](https://ilk.uvt.nl/icga/organisation/books/HPinAI1.php) <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 
   [](https://ilk.uvt.nl/icga/organisation/books/HPinAI1.php)
 
@@ -830,29 +830,29 @@ Operators
 
 ## References
 
-1. [↑](#cite_ref-1) [Park Lane Hotel from Wikipedia](https://en.wikipedia.org/wiki/Park_Lane_Hotel)
-1. [↑](#cite_ref-2) [List of chess world championship matches from Wikipedia](https://en.wikipedia.org/wiki/List_of_chess_world_championship_matches)
-1. [↑](#cite_ref-3) [Ard van Bergen](Ard_van_Bergen "Ard van Bergen") (**1989**). *The 1st Computer Olympiad, August 9-15, 1989*. [ICCA Journal, Vol. 12, No. 3](ICGA_Journal#12_3 "ICGA Journal")
-1. [↑](#cite_ref-4)  [David Levy](David_Levy "David Levy"), [Don Beal](Don_Beal "Don Beal") (Eds.) (**1989**). *Heuristic Programming in Artificial Intelligence - The First Computer Olympiad*. Ellis Horwood
-1. [↑](#cite_ref-5) [1st Computer Olympiad, Awari - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=120)
-1. [↑](#cite_ref-6) [1st Computer Olympiad, Backgammon - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=45)
-1. [↑](#cite_ref-7) [Mephisto](https://www.schachversand.de/d/listen/hersteller/sV73.html) - [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
-1. [↑](#cite_ref-8) [1st Computer Olympiad, Bridge - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=121)
-1. [↑](#cite_ref-9) [1st Computer Olympiad, Checkers - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=126)
-1. [↑](#cite_ref-10) [1st Computer Olympiad, Chess - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=122)
-1. [↑](#cite_ref-11) [London 1989 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=122&round=1&id=2)
-1. [↑](#cite_ref-12) [1st Computer Olympiad, Chinese Chess - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=123)
-1. [↑](#cite_ref-13) [1st Computer Olympiad, Connect-Four - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=124)
-1. [↑](#cite_ref-14) [1st Computer Olympiad, Dominoes - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=125)
-1. [↑](#cite_ref-15) [1st Computer Olympiad, Draughts - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=127)
-1. [↑](#cite_ref-16) [1st Computer Olympiad, Go - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=46)
-1. [↑](#cite_ref-17) [1st Computer Olympiad, Go (9x9) - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=47)
-1. [↑](#cite_ref-18) [1st Computer Olympiad, Go-Moku - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=128)
-1. [↑](#cite_ref-19) [1st Computer Olympiad, Othello - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=130)
-1. [↑](#cite_ref-20) [1st Computer Olympiad, Renju - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=129)
-1. [↑](#cite_ref-21) [Renju from Wikipedia](https://en.wikipedia.org/wiki/Renju)
-1. [↑](#cite_ref-22) [1st Computer Olympiad, Scrabble - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=131)
-1. [↑](#cite_ref-23) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Park Lane Hotel from Wikipedia](https://en.wikipedia.org/wiki/Park_Lane_Hotel)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [List of chess world championship matches from Wikipedia](https://en.wikipedia.org/wiki/List_of_chess_world_championship_matches)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ard van Bergen](Ard_van_Bergen "Ard van Bergen") (**1989**). *The 1st Computer Olympiad, August 9-15, 1989*. [ICCA Journal, Vol. 12, No. 3](ICGA_Journal#12_3 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a>  [David Levy](David_Levy "David Levy"), [Don Beal](Don_Beal "Don Beal") (Eds.) (**1989**). *Heuristic Programming in Artificial Intelligence - The First Computer Olympiad*. Ellis Horwood
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [1st Computer Olympiad, Awari - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=120)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [1st Computer Olympiad, Backgammon - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=45)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Mephisto](https://www.schachversand.de/d/listen/hersteller/sV73.html) - [Schachversand Niggemann](Schachversand_Niggemann "Schachversand Niggemann")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [1st Computer Olympiad, Bridge - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=121)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [1st Computer Olympiad, Checkers - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=126)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [1st Computer Olympiad, Chess - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=122)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [London 1989 - Chess - Round 1 - Game 2 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=122&round=1&id=2)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [1st Computer Olympiad, Chinese Chess - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=123)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [1st Computer Olympiad, Connect-Four - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=124)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [1st Computer Olympiad, Dominoes - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=125)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [1st Computer Olympiad, Draughts - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=127)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [1st Computer Olympiad, Go - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=46)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [1st Computer Olympiad, Go (9x9) - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=47)
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [1st Computer Olympiad, Go-Moku - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=128)
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [1st Computer Olympiad, Othello - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=130)
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [1st Computer Olympiad, Renju - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=129)
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Renju from Wikipedia](https://en.wikipedia.org/wiki/Renju)
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [1st Computer Olympiad, Scrabble - London 1989 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=131)
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
 
 **[Up one level](Computer_Olympiad "Computer Olympiad")**
 

@@ -5,7 +5,7 @@ title: Move Generation
 
 
 
- [](https://commons.wikimedia.org/wiki/File:Zeche_Zollern_Kompressormotor.jpg?uselang=en) Blast Generation [[1]](#cite_note-1) 
+ [](https://commons.wikimedia.org/wiki/File:Zeche_Zollern_Kompressormotor.jpg?uselang=en) Blast Generation <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Generation** of [moves](Moves "Moves") is a basic part of a chess engine with many variations concerning a [generator](https://en.wikipedia.org/wiki/Generator_%28computer_programming%29) or an [iterator](https://en.wikipedia.org/wiki/Iterator_pattern) to loop over moves inside the [search](Search "Search") routine. The implementation heavily depends on the [board representation](Board_Representation "Board Representation"), and it can be generalized into two types, pseudo-legal and legal move generation. 
 
 
@@ -46,7 +46,7 @@ With [move ordering](Move_Ordering "Move Ordering") in mind, chess programs, whi
 ## Staged Move Generation
 
 
-Some programs do not generate all moves at once, but do it in several stages (i.e. [hash move](Hash_Move "Hash Move") first, then [captures](Captures "Captures"), then [killer moves](Killer_Move "Killer Move"), then all the rest in a chunk) on the premise that if one of the early moves causes a cutoff, then we may save on the effort of generating the rest of the moves [[2]](#cite_note-2).
+Some programs do not generate all moves at once, but do it in several stages (i.e. [hash move](Hash_Move "Hash Move") first, then [captures](Captures "Captures"), then [killer moves](Killer_Move "Killer Move"), then all the rest in a chunk) on the premise that if one of the early moves causes a cutoff, then we may save on the effort of generating the rest of the moves <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
 
 
@@ -151,7 +151,7 @@ It is important to ensure that the move generator works properly. Although this 
 
 
 * [Joe Condon](Joe_Condon "Joe Condon"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1982**). *Belle Chess Hardware*, [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3"), Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-* [Greg Bakker](index.php?title=Greg_Bakker&action=edit&redlink=1 "Greg Bakker (page does not exist)"), [Jim Jonkman](index.php?title=Jim_Jonkman&action=edit&redlink=1 "Jim Jonkman (page does not exist)"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Tom Schultz](index.php?title=Tom_Schultz&action=edit&redlink=1 "Tom Schultz (page does not exist)") (**1982**). *VLSI Implementation of a Chess Legal Move Generator*. EE755S-1, [University of Waterloo](University_of_Waterloo "University of Waterloo") [[3]](#cite_note-3)
+* [Greg Bakker](index.php?title=Greg_Bakker&action=edit&redlink=1 "Greg Bakker (page does not exist)"), [Jim Jonkman](index.php?title=Jim_Jonkman&action=edit&redlink=1 "Jim Jonkman (page does not exist)"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Tom Schultz](index.php?title=Tom_Schultz&action=edit&redlink=1 "Tom Schultz (page does not exist)") (**1982**). *VLSI Implementation of a Chess Legal Move Generator*. EE755S-1, [University of Waterloo](University_of_Waterloo "University of Waterloo") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 * [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Patrick A.D. Powell](index.php?title=Patrick_A.D._Powell&action=edit&redlink=1 "Patrick A.D. Powell (page does not exist)"), [Jim Jonkman](index.php?title=Jim_Jonkman&action=edit&redlink=1 "Jim Jonkman (page does not exist)") (**1983**). *[A VLSI legal move generator for the game of chess](https://link.springer.com/chapter/10.1007/978-3-642-95432-0_19)*. in [Randal E. Bryant](Mathematician#REBryant "Mathematician") (eds.) [Third Caltech Conference on Very Large Scale Integration](https://link.springer.com/book/10.1007%2F978-3-642-95432-0)
 * [Carl Ebeling](Carl_Ebeling "Carl Ebeling"), [Andrew James Palay](Andrew_James_Palay "Andrew James Palay") (**1984**). *The Design and Implementation of a VLSI Chess Move Generator*. Proceedings of the 11th Annual International Symposium on Computer Architecture. [IEEE](IEEE "IEEE") and [ACM](ACM "ACM").
 * [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft") (**1984**). *Bitmap move generation in Chess*. [ICCA Journal, Vol. 7, No. 3](ICGA_Journal#7_3 "ICGA Journal")
@@ -230,7 +230,7 @@ It is important to ensure that the move generator works properly. Although this 
 * [Yet another new bitboard move generation method](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5623) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 22, 2006 » [Titboards](Titboards "Titboards")
 
 
- [Re: Yet another new bitboard move generation method](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5623&start=6) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 01, 2006 [[4]](#cite_note-4)
+ [Re: Yet another new bitboard move generation method](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5623&start=6) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 01, 2006 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 * [Is it time for another new move generator?](http://www.talkchess.com/forum/viewtopic.php?t=17790) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), November 11, 2007
 * [Did someone mention the GNUChess move Generator?](http://www.talkchess.com/forum/viewtopic.php?t=17820) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), November 12, 2007 » [GNU Chess](GNU_Chess "GNU Chess")
 * [compact bitboard move generator](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=19837) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), February 25, 2008 » [Bitboard Serialization](Bitboard_Serialization "Bitboard Serialization")
@@ -254,7 +254,7 @@ It is important to ensure that the move generator works properly. Although this 
 * [Is there such a thing as branchless move generation?](http://www.talkchess.com/forum/viewtopic.php?t=43971) by [John Hamlen](John_Hamlen "John Hamlen"), [CCC](CCC "CCC"), June 07, 2012 » [DirGolem](DirGolem "DirGolem"), [GPU](GPU "GPU")
 * [hyper threading and move generation](http://www.talkchess.com/forum/viewtopic.php?t=44658) by [Gabor Buella](Gabor_Buella "Gabor Buella"), [CCC](CCC "CCC"), August 01, 2012
 * [What's the fastest move generator?](http://www.talkchess.com/forum/viewtopic.php?t=44939) by Marcel Fournier, [CCC](CCC "CCC"), August 29, 2012
-* [Re: Question About CPP-C#, Performance, and Square Representation](http://talkchess.com/forum/viewtopic.php?p=485936#485936) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), October 03, 2012 » [MadChess](MadChess "MadChess") [[5]](#cite_note-5) [[6]](#cite_note-6)
+* [Re: Question About CPP-C#, Performance, and Square Representation](http://talkchess.com/forum/viewtopic.php?p=485936#485936) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), October 03, 2012 » [MadChess](MadChess "MadChess") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 * [Plausible move generator](http://www.talkchess.com/forum/viewtopic.php?t=45926) by Jorge Garcia, [CCC](CCC "CCC"), November 09, 2012
 * [Diepeveen's move generator](http://www.talkchess.com/forum/viewtopic.php?t=46056) by Hrvoje Horvatic, [CCC](CCC "CCC"), November 18, 2012 » [Table-driven Move Generation](Table-driven_Move_Generation "Table-driven Move Generation")
 
@@ -353,12 +353,12 @@ It is important to ensure that the move generator works properly. Although this 
 ## References
 
 
-1. [↑](#cite_ref-1) [electric driven air compressor](https://commons.wikimedia.org/wiki/File:Zeche_Zollern_Kompressormotor.jpg?uselang=en) in the [machine hall](https://commons.wikimedia.org/wiki/File:Zeche_Zollern_Dortmund_-_Maschinenhalle.jpg?uselang=en) of [Zollern II/IV Colliery](Category:Zollern "Category:Zollern"), [Dortmund](https://en.wikipedia.org/wiki/Dortmund) [Bövinghausen](https://de.wikipedia.org/wiki/B%C3%B6vinghausen_(Dortmund)), Germany - part of [The Industrial Heritage Trail](Category:Industrial_Heritage_Trail "Category:Industrial Heritage Trail"), Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), September 18, 2016
-2. [↑](#cite_ref-2) [Move generation: staged vs all-at-once](http://www.talkchess.com/forum/viewtopic.php?t=27657) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), April 30, 2009
-3. [↑](#cite_ref-3) [1983 | Waking up to change](https://uwaterloo.ca/water-under-the-bridge/1983) in [Chris Redmond and Simon the Troll](https://uwaterloo.ca/water-under-the-bridge/about-authors) (**1998**). *[Water Under the Bridge](https://uwaterloo.ca/water-under-the-bridge/)*. [University of Waterloo](University_of_Waterloo "University of Waterloo") » [VLSI Move Generation](#Waterloo1982)
-4. [↑](#cite_ref-4) [Re: multi-dimensional piece/square tables](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=52861&start=8) by Tony P., [CCC](CCC "CCC"), January 28, 2020
-5. [↑](#cite_ref-5) [yield - MSDN C# Reference](http://msdn.microsoft.com/en-us/library/9k7k7cf0.aspx)
-6. [↑](#cite_ref-6) [Behind the scenes of the C# yield keyword | Struggles](http://startbigthinksmall.wordpress.com/2008/06/09/behind-the-scenes-of-the-c-yield-keyword/) by [Lars Corneliussen](http://startbigthinksmall.wordpress.com/), June 9, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [electric driven air compressor](https://commons.wikimedia.org/wiki/File:Zeche_Zollern_Kompressormotor.jpg?uselang=en) in the [machine hall](https://commons.wikimedia.org/wiki/File:Zeche_Zollern_Dortmund_-_Maschinenhalle.jpg?uselang=en) of [Zollern II/IV Colliery](Category:Zollern "Category:Zollern"), [Dortmund](https://en.wikipedia.org/wiki/Dortmund) [Bövinghausen](https://de.wikipedia.org/wiki/B%C3%B6vinghausen_(Dortmund)), Germany - part of [The Industrial Heritage Trail](Category:Industrial_Heritage_Trail "Category:Industrial Heritage Trail"), Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), September 18, 2016
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Move generation: staged vs all-at-once](http://www.talkchess.com/forum/viewtopic.php?t=27657) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), April 30, 2009
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [1983 | Waking up to change](https://uwaterloo.ca/water-under-the-bridge/1983) in [Chris Redmond and Simon the Troll](https://uwaterloo.ca/water-under-the-bridge/about-authors) (**1998**). *[Water Under the Bridge](https://uwaterloo.ca/water-under-the-bridge/)*. [University of Waterloo](University_of_Waterloo "University of Waterloo") » [VLSI Move Generation](#Waterloo1982)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: multi-dimensional piece/square tables](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=52861&start=8) by Tony P., [CCC](CCC "CCC"), January 28, 2020
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [yield - MSDN C# Reference](http://msdn.microsoft.com/en-us/library/9k7k7cf0.aspx)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Behind the scenes of the C# yield keyword | Struggles](http://startbigthinksmall.wordpress.com/2008/06/09/behind-the-scenes-of-the-c-yield-keyword/) by [Lars Corneliussen](http://startbigthinksmall.wordpress.com/), June 9, 2008
 
 **[Up one level](Board_Representation "Board Representation")**
 

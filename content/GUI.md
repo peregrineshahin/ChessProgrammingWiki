@@ -3,7 +3,7 @@ title: GUI
 ---
 **[Home](Home "Home") * [User Interface](User_Interface "User Interface") * Graphical User Interface**
 
-[](File:Machackdisplay02.jpg) Mac Hack [display](Lawrence_J._Krakauer#DEC340 "Lawrence J. Krakauer") [[1]](#cite_note-1) [[2]](#cite_note-2) [[3]](#cite_note-3)
+[](File:Machackdisplay02.jpg) Mac Hack [display](Lawrence_J._Krakauer#DEC340 "Lawrence J. Krakauer") <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 **Graphical User Interface** (GUI),
 
 a user interface where [interaction](https://en.wikipedia.org/wiki/Interaction) between user and a (chess) program takes place. Opposed to the sequential nature of a pure text based [command-line interface](CLI "CLI"), where a program prints its output and prompts for input, a [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) allows a more sophisticated, graphical presentation of the programs output, as well within its [event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture) a more flexible user interaction not only by typing text commands, but using a [pointingdevice](https://en.wikipedia.org/wiki/Pointing_device), a [mouse](https://en.wikipedia.org/wiki/Mouse_%28computing%29) or a pen or finger pointing on and touching a [graphics tablet](https://en.wikipedia.org/wiki/Graphics_tablet) with its [touchscreen](https://en.wikipedia.org/wiki/Touchscreen), for random and [direct manipulation](https://en.wikipedia.org/wiki/Direct_manipulation) of graphical elements. A GUI dedicated to play chess typically has a graphical [board](Chessboard "Chessboard") and [game](Chess_Game "Chess Game") representation, where the user may [enter moves](Entering_Moves "Entering Moves") by [clicking](https://en.wikipedia.org/wiki/Point-and-click) and [dragging](https://en.wikipedia.org/wiki/Drag-and-drop) a piece, quite similar to moving a piece on a "real" chess board.
@@ -11,7 +11,7 @@ a user interface where [interaction](https://en.wikipedia.org/wiki/Interaction) 
 ## Historical Chess GUI
 
 [](http://www.flickr.com/photos/10261668@N05/sets/72157600922175252/)
-[Chris Daly](Chris_Daly "Chris Daly") interacting with [Daly CP](Daly_CP "Daly CP"), 1970 [[4]](#cite_note-4) [[5]](#cite_note-5) on an [IDIIOM](Kenneth_L._King#IDIIOM "Kenneth L. King") [[6]](#cite_note-6)
+[Chris Daly](Chris_Daly "Chris Daly") interacting with [Daly CP](Daly_CP "Daly CP"), 1970 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> on an [IDIIOM](Kenneth_L._King#IDIIOM "Kenneth L. King") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ## Playing Chess
 
@@ -23,7 +23,7 @@ The chess program and its [user interface](User_Interface "User Interface") can 
 
 ## Chess GUI Issues
 
-Today, most programmers rely on external event driven GUI applications using [standard streams](https://en.wikipedia.org/wiki/Standard_streams) or [pipelines](https://en.wikipedia.org/wiki/Pipeline_%28Unix%29) to communicate with the GUI via [protocols](Protocols "Protocols") such as the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") or the [Universal Chess Interface](UCI "UCI"). The external GUI application constitutes the [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) view and controller, and more or less even parts of a (redundant) game model (or even multi-game model), to make the GUI aware of its own game states to even make decisions on behalf of the engine, such as move selection from opening books and [endgame tablebases](Endgame_Tablebases "Endgame Tablebases"), draw claims and offers and to finally declare the game over. These game interacting features of the external GUI application in conjunction with certain protocols such as UCI by far exceeds what a pure chess user interface was initially designed for - controller and view only, enter legal moves and render the state of the game. Sharing code of external GUIs, with potential game decisive move selection, time allocation and draw claiming, by multiple engines in official [tournaments](Tournaments_and_Matches "Tournaments and Matches") is a heavily discussed topic [[7]](#cite_note-7) .
+Today, most programmers rely on external event driven GUI applications using [standard streams](https://en.wikipedia.org/wiki/Standard_streams) or [pipelines](https://en.wikipedia.org/wiki/Pipeline_%28Unix%29) to communicate with the GUI via [protocols](Protocols "Protocols") such as the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") or the [Universal Chess Interface](UCI "UCI"). The external GUI application constitutes the [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) view and controller, and more or less even parts of a (redundant) game model (or even multi-game model), to make the GUI aware of its own game states to even make decisions on behalf of the engine, such as move selection from opening books and [endgame tablebases](Endgame_Tablebases "Endgame Tablebases"), draw claims and offers and to finally declare the game over. These game interacting features of the external GUI application in conjunction with certain protocols such as UCI by far exceeds what a pure chess user interface was initially designed for - controller and view only, enter legal moves and render the state of the game. Sharing code of external GUIs, with potential game decisive move selection, time allocation and draw claiming, by multiple engines in official [tournaments](Tournaments_and_Matches "Tournaments and Matches") is a heavily discussed topic <a id="cite-note-7" href="#cite-ref-7">[7]</a> .
 
 ## Front End
 
@@ -81,11 +81,11 @@ Beside a pure user versus engine game playing interface, modern general purpose 
 |  |  |
 | --- | --- |
 | [Arena320.jpg](http://www.playwitharena.com/) | [CPsshot2.png](http://sjeng.org/deepsjeng.html) |
-| [Arena](Arena "Arena") under [Windows](Windows "Windows") [[8]](#cite_note-8) | [ChessPartner](ChessPartner "ChessPartner") under [Windows](Windows "Windows") running [Deep Sjeng](Deep_Sjeng "Deep Sjeng") [[9]](#cite_note-9) |
+| [Arena](Arena "Arena") under [Windows](Windows "Windows") <a id="cite-note-8" href="#cite-ref-8">[8]</a> | [ChessPartner](ChessPartner "ChessPartner") under [Windows](Windows "Windows") running [Deep Sjeng](Deep_Sjeng "Deep Sjeng") <a id="cite-note-9" href="#cite-ref-9">[9]</a> |
 
 ## GUI Elements
 
-A GUI consists of multiple [elements](https://en.wikipedia.org/wiki/Graphical_user_interface_elements) or [widgets](https://en.wikipedia.org/wiki/GUI_widget), based on a visual rectangular area called [window](https://en.wikipedia.org/wiki/Window_%28computing%29). Windows have [recursive](Recursion "Recursion") hierarchical relationships, that is a window may contain several child windows, which are usually restricted and clipped to the area of the parent window. The [desktop metaphor](https://en.wikipedia.org/wiki/Desktop_metaphor) as root, and all child and grand child windows of one or more applications can be interpreted as a tree structure, traversed in a [depth-first](Depth-First "Depth-First") manner if looking up graphical coordinates or visible areas, as already mentioned by [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") at the [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9") conference in 1999 [[10]](#cite_note-10) .
+A GUI consists of multiple [elements](https://en.wikipedia.org/wiki/Graphical_user_interface_elements) or [widgets](https://en.wikipedia.org/wiki/GUI_widget), based on a visual rectangular area called [window](https://en.wikipedia.org/wiki/Window_%28computing%29). Windows have [recursive](Recursion "Recursion") hierarchical relationships, that is a window may contain several child windows, which are usually restricted and clipped to the area of the parent window. The [desktop metaphor](https://en.wikipedia.org/wiki/Desktop_metaphor) as root, and all child and grand child windows of one or more applications can be interpreted as a tree structure, traversed in a [depth-first](Depth-First "Depth-First") manner if looking up graphical coordinates or visible areas, as already mentioned by [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") at the [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9") conference in 1999 <a id="cite-note-10" href="#cite-ref-10">[10]</a> .
 
 A GUI application usually has one main- or frame-window, often sizable and movable, and child of the desktop. The main window further contains various standard child windows at its top and bottom areas, a caption bar, often configurable and dockable [menu](https://en.wikipedia.org/wiki/Menu_bar)-, and/or [toolbars](https://en.wikipedia.org/wiki/Toolbar), and [status bar](https://en.wikipedia.org/wiki/Status_bar). The [look and feel](https://en.wikipedia.org/wiki/Look_and_feel) depends on the [operating system](https://en.wikipedia.org/wiki/Operating_system) and its [window manager](https://en.wikipedia.org/wiki/Window_manager), there are quite common techniques and standardizations, also encouraged by cross platform [widget toolkits](https://en.wikipedia.org/wiki/Widget_toolkit).
 
@@ -138,7 +138,7 @@ Information windows are associated with an engine actually playing or analyzing 
 
 ## Quotes
 
-[Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") wrote on a [Talkchess](Talkchess "Talkchess") thread [[11]](#cite_note-11)
+[Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") wrote on a [Talkchess](Talkchess "Talkchess") thread <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```C++
 Beware that writing a GUI is between 10 and 100 times more work than writing an engine.
@@ -244,7 +244,7 @@ Beware that writing a GUI is between 10 and 100 times more work than writing an 
 
 ## Tutorial
 
-- [Web based GUI for UCI chess engine](https://www.youtube.com/watch?v=_0uKZbHWVKM&list=PLmN0neTso3Jz-6--Mj51Hc3jiLhkQm0DB) [YouTube](https://en.wikipedia.org/wiki/YouTube) Videos by [Maksim Korzh](Maksim_Korzh "Maksim Korzh") » [BBC GUI](BBC#GUI "BBC") [[12]](#cite_note-12)
+- [Web based GUI for UCI chess engine](https://www.youtube.com/watch?v=_0uKZbHWVKM&list=PLmN0neTso3Jz-6--Mj51Hc3jiLhkQm0DB) [YouTube](https://en.wikipedia.org/wiki/YouTube) Videos by [Maksim Korzh](Maksim_Korzh "Maksim Korzh") » [BBC GUI](BBC#GUI "BBC") <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 ## Toolkits, Libraries and API
 
@@ -295,18 +295,18 @@ Beware that writing a GUI is between 10 and 100 times more work than writing an 
 
 ## [X11.app (XQuartz) from Wikipedia](https://en.wikipedia.org/wiki/X11.app) » [OS X](Mac_OS "Mac OS") References
 
-1. [↑](#cite_ref-1) [I resign](http://ljkrakauer.com/LJK/60s/resign.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-1. [↑](#cite_ref-2) [Chess stories](http://ljkrakauer.com/LJK/60s/chess1.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-1. [↑](#cite_ref-3) see also [63-chess.mp4](http://projects.csail.mit.edu/video/history/aifilms/63-chess.mp4) hosted by [MIT CSAIL](https://www.csail.mit.edu/)
-1. [↑](#cite_ref-4) Picture dated November 14, 1970, [Chess in Space - NASA 1970 First Chess Experiments](https://sites.google.com/site/caroluschess/modern-history/chess-in-space) from [Carolus Chess](https://sites.google.com/site/caroluschess/home)
-1. [↑](#cite_ref-5) [14.Unique Computers: Flickr](http://www.flickr.com/photos/10261668@N05/sets/72157600922175252/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. [↑](#cite_ref-6) [Don Bissell](http://dl.acm.org/author_page.cfm?id=81100488426&coll=DL&dl=ACM&trk=0&cfid=94733554&cftoken=96327999) (**1998**). *[Was the IDIIOM the First Stand-Alone CAD Platform?](http://www.computer.org/portal/web/csdl/doi/10.1109/85.667292)* [IEEE Annals of the History of Computing](https://en.wikipedia.org/wiki/IEEE_Annals_of_the_History_of_Computing), Vol. 20, No. 2
-1. [↑](#cite_ref-7) [What's the role of the GUI?](http://www.talkchess.com/forum/viewtopic.php?t=21168) by Zlatnik, [CCC](CCC "CCC"), May 15, 2008
-1. [↑](#cite_ref-8) [Free chess graphical user interface (GUI) Arena for chess engines](http://www.playwitharena.com/)
-1. [↑](#cite_ref-9) [Sjeng - chess, audio and misc. software](http://sjeng.org/deepsjeng.html)
-1. [↑](#cite_ref-10) [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (**2001**). *How the Computer-Chess Methods Help to Build Better User Interfaces.* [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9")
-1. [↑](#cite_ref-11) [Re: Object model for chess GUI?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=58687&hilit=winboard#p653469) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), December 26, 2015 » [Protocols](Protocols "Protocols")
-1. [↑](#cite_ref-12) [Web based GUI for UCI chess engine: YouTube series](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75352) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), October 10, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [I resign](http://ljkrakauer.com/LJK/60s/resign.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chess stories](http://ljkrakauer.com/LJK/60s/chess1.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> see also [63-chess.mp4](http://projects.csail.mit.edu/video/history/aifilms/63-chess.mp4) hosted by [MIT CSAIL](https://www.csail.mit.edu/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> Picture dated November 14, 1970, [Chess in Space - NASA 1970 First Chess Experiments](https://sites.google.com/site/caroluschess/modern-history/chess-in-space) from [Carolus Chess](https://sites.google.com/site/caroluschess/home)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [14.Unique Computers: Flickr](http://www.flickr.com/photos/10261668@N05/sets/72157600922175252/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Don Bissell](http://dl.acm.org/author_page.cfm?id=81100488426&coll=DL&dl=ACM&trk=0&cfid=94733554&cftoken=96327999) (**1998**). *[Was the IDIIOM the First Stand-Alone CAD Platform?](http://www.computer.org/portal/web/csdl/doi/10.1109/85.667292)* [IEEE Annals of the History of Computing](https://en.wikipedia.org/wiki/IEEE_Annals_of_the_History_of_Computing), Vol. 20, No. 2
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [What's the role of the GUI?](http://www.talkchess.com/forum/viewtopic.php?t=21168) by Zlatnik, [CCC](CCC "CCC"), May 15, 2008
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Free chess graphical user interface (GUI) Arena for chess engines](http://www.playwitharena.com/)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Sjeng - chess, audio and misc. software](http://sjeng.org/deepsjeng.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (**2001**). *How the Computer-Chess Methods Help to Build Better User Interfaces.* [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: Object model for chess GUI?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=58687&hilit=winboard#p653469) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), December 26, 2015 » [Protocols](Protocols "Protocols")
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Web based GUI for UCI chess engine: YouTube series](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75352) by [Maksim Korzh](Maksim_Korzh "Maksim Korzh"), [CCC](CCC "CCC"), October 10, 2020
 
 **[Up one Level](User_Interface "User Interface")**
 

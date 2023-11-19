@@ -7,7 +7,7 @@ title: TCEC Season 21
 
 
 
- [](https://tcec-chess.com/) TCEC Logo [[1]](#cite_note-1) 
+ [](https://tcec-chess.com/) TCEC Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **TCEC Season 21**,  
 
 the Top Chess Engine Championship (TCEC) Season 21 from May 10 until August 07, 2021. [Stockfish 14\_202107131735](Stockfish "Stockfish") won the [Superfinal](#Superfinal) versus [LCZero 0.28-dev+\_69626](Leela_Chess_Zero "Leela Chess Zero"). 
@@ -36,7 +36,7 @@ the Top Chess Engine Championship (TCEC) Season 21 from May 10 until August 07, 
 
 **[< Prev](TCEC_Season_20#Qual "TCEC Season 20") [Next >](TCEC_Season_22#Qual "TCEC Season 22")**  
 
-Qualification League, May 10 - May 19, 2021, timecontrol 30' + 5'' [[4]](#cite_note-4)
+Qualification League, May 10 - May 19, 2021, timecontrol 30' + 5'' <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 
 
@@ -296,7 +296,7 @@ Qualification League, May 10 - May 19, 2021, timecontrol 30' + 5'' [[4]](#cite_n
 **[< Prev](TCEC_Season_20#Fourth "TCEC Season 20") [Next >](TCEC_Season_22#Fourth "TCEC Season 22")**  
 
 League 4, May 19 - May 25, 2021, timecontrol 30' + 5''
-[[5]](#cite_note-5).
+<a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 
 
@@ -498,7 +498,7 @@ League 4, May 19 - May 25, 2021, timecontrol 30' + 5''
 **[< Prev](TCEC_Season_20#Third "TCEC Season 20") [Next >](TCEC_Season_22#Third "TCEC Season 22")**  
 
 Season 21, League 3, May 25 - May 30, 2021, timecontrol 30' + 5''
-[[6]](#cite_note-6).
+<a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
 
 
@@ -700,7 +700,7 @@ Season 21, League 3, May 25 - May 30, 2021, timecontrol 30' + 5''
 **[< Prev](TCEC_Season_20#Second "TCEC Season 20") [Next >](TCEC_Season_22#Second "TCEC Season 22")**  
 
 Season 21, League 2, June 05 - June 11, 2021, timecontrol 30' + 5'' 
-[[7]](#cite_note-7).
+<a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
 
 
@@ -901,7 +901,7 @@ Season 21, League 2, June 05 - June 11, 2021, timecontrol 30' + 5''
 
 **[< Prev](TCEC_Season_20#First "TCEC Season 20") [Next >](TCEC_Season_22#First "TCEC Season 22")**  
 
-Season 21, League 1, June 11 - June 19, 2021, timecontrol 45' + 5'' [[8]](#cite_note-8)
+Season 21, League 1, June 11 - June 19, 2021, timecontrol 45' + 5'' <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 
 
@@ -1010,7 +1010,7 @@ Season 21, League 1, June 11 - June 19, 2021, timecontrol 45' + 5'' [[8]](#cite_
 
 **[< Prev](TCEC_Season_20#Premier "TCEC Season 20") [Next >](TCEC_Season_22#Premier "TCEC Season 22")**  
 
-Season 21, Premier Division, June 21 - July 11, 2021, timecontrol 60' + 7'' [[9]](#cite_note-9)
+Season 21, Premier Division, June 21 - July 11, 2021, timecontrol 60' + 7'' <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 
@@ -1126,7 +1126,7 @@ Season 21, Premier Division, June 21 - July 11, 2021, timecontrol 60' + 7'' [[9]
 
 **[Next >](TCEC_Season_22#Infra "TCEC Season 22")**  
  
-A 50 games head to head contest between the 3rd and 4th place of the [Premier Division](#Premier) to determine the 3rd finishing engine of the TCEC Season 21, from July 12 to July 18, 2021. Timecontrol 90' + 9 *[[10]](#cite_note-10).*
+A 50 games head to head contest between the 3rd and 4th place of the [Premier Division](#Premier) to determine the 3rd finishing engine of the TCEC Season 21, from July 12 to July 18, 2021. Timecontrol 90' + 9 *<a id="cite-note-10" href="#cite-ref-10">[10]</a>.*
 
 
 
@@ -1162,7 +1162,7 @@ A 50 games head to head contest between the 3rd and 4th place of the [Premier Di
 
 **[< Prev](TCEC_Season_20#Sufi "TCEC Season 20") [Next >](TCEC_Season_22#Sufi "TCEC Season 22")**  
  
-July 20 - August 07, 2021, timecontrol 120'+10" [[11]](#cite_note-11)  
+July 20 - August 07, 2021, timecontrol 120'+10" <a id="cite-note-11" href="#cite-ref-11">[11]</a>  
 
 
 
@@ -1226,17 +1226,17 @@ After round 91 on August 05, 2021, [Stockfish 14\_202107131735](Stockfish "Stock
 ## References
 
 
-1. [↑](#cite_ref-1) Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. [↑](#cite_ref-2) [TCEC Leagues Season 21 Engines - TCEC wiki](https://wiki.chessdom.org/TCEC_Leagues_Season_21_Engines)
-3. [↑](#cite_ref-3) [Engines and authors - TCEC wiki](https://wiki.chessdom.org/Engines_and_authors)
-4. [↑](#cite_ref-4) [S21 - Qualification League | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=ql&game=1&season=21)
-5. [↑](#cite_ref-5) [S21 - League 4 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=l4&game=1&season=21)
-6. [↑](#cite_ref-6) [S21 - League 3 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=l3&game=1&season=21)
-7. [↑](#cite_ref-7) [S21 - League 2 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=l2&game=1&season=21)
-8. [↑](#cite_ref-8) [S21 - League 1 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=l1&game=1&season=21)
-9. [↑](#cite_ref-9) [S21 - Premier Division | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=21&div=p&game=1)
-10. [↑](#cite_ref-10) [S21 - Infrafinal | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=if&game=1&season=21)
-11. [↑](#cite_ref-11) [S21 - Superfinal | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=sf&game=1&season=21)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TCEC Leagues Season 21 Engines - TCEC wiki](https://wiki.chessdom.org/TCEC_Leagues_Season_21_Engines)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Engines and authors - TCEC wiki](https://wiki.chessdom.org/Engines_and_authors)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [S21 - Qualification League | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=ql&game=1&season=21)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [S21 - League 4 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=l4&game=1&season=21)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [S21 - League 3 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=l3&game=1&season=21)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [S21 - League 2 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=l2&game=1&season=21)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [S21 - League 1 | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=l1&game=1&season=21)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [S21 - Premier Division | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=21&div=p&game=1)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [S21 - Infrafinal | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=if&game=1&season=21)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [S21 - Superfinal | TCEC - Computer Chess Broadcast](https://tcec-chess.com/#div=sf&game=1&season=21)
 
 **[Up one level](TCEC "TCEC")**
 

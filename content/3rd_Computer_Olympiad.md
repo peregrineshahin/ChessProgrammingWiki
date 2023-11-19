@@ -5,14 +5,14 @@ title: 3rd Computer Olympiad
 
 **[\< Prev](2nd_Computer_Olympiad "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad "4th Computer Olympiad")**
 
-\[ [Maastricht University](Maastricht_University "Maastricht University") [[1]](#cite_note-1)
-The **Third Computer Olympiad** was held from August 22 to 28, [1991](Timeline#1991 "Timeline"), [Maastricht](https://en.wikipedia.org/wiki/Maastricht), [The Netherlands](https://en.wikipedia.org/wiki/Netherlands). The chess tournament was dominated by the two [Chessmachines](ChessMachine "ChessMachine") with [ARM2](ARM2 "ARM2") processors, where [Ed Schröder's](Ed_Schroder "Ed Schroder") [Gideon](Gideon "Gideon") gained the upper hand over [The King](The_King "The King") version by [Johan de Koning](Johan_de_Koning "Johan de Koning"), and consequently won the Gold medal. The third Computer Olympiad was again associated by the [Heuristic Programming in Artificial Intelligence](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad") conference, proceedings edited by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") and [Victor Allis](Victor_Allis "Victor Allis"), published in 1992 [[2]](#cite_note-2).
+\[ [Maastricht University](Maastricht_University "Maastricht University") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+The **Third Computer Olympiad** was held from August 22 to 28, [1991](Timeline#1991 "Timeline"), [Maastricht](https://en.wikipedia.org/wiki/Maastricht), [The Netherlands](https://en.wikipedia.org/wiki/Netherlands). The chess tournament was dominated by the two [Chessmachines](ChessMachine "ChessMachine") with [ARM2](ARM2 "ARM2") processors, where [Ed Schröder's](Ed_Schroder "Ed Schroder") [Gideon](Gideon "Gideon") gained the upper hand over [The King](The_King "The King") version by [Johan de Koning](Johan_de_Koning "Johan de Koning"), and consequently won the Gold medal. The third Computer Olympiad was again associated by the [Heuristic Programming in Artificial Intelligence](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad") conference, proceedings edited by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") and [Victor Allis](Victor_Allis "Victor Allis"), published in 1992 <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
 ## Results
 
 ## [Awari](Awari "Awari")
 
-**[\< Prev](2nd_Computer_Olympiad#Awari "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Awari "4th Computer Olympiad")** [[3]](#cite_note-3)
+**[\< Prev](2nd_Computer_Olympiad#Awari "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Awari "4th Computer Olympiad")** <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 |  #
 |  Program
@@ -36,7 +36,7 @@ The **Third Computer Olympiad** was held from August 22 to 28, [1991](Timeline#1
 
 ## [Bridge](index.php?title=Bridge&action=edit&redlink=1 "Bridge (page does not exist)")
 
-**[\< Prev](2nd_Computer_Olympiad#Bridge "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Bridge "4th Computer Olympiad")** [[4]](#cite_note-4)
+**[\< Prev](2nd_Computer_Olympiad#Bridge "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Bridge "4th Computer Olympiad")** <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 |  #
 |  Program
@@ -65,7 +65,7 @@ The **Third Computer Olympiad** was held from August 22 to 28, [1991](Timeline#1
 
 ## Chess
 
-**[\< Prev](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Chess "4th Computer Olympiad")** [[5]](#cite_note-5)
+**[\< Prev](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Chess "4th Computer Olympiad")** <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ### Final Standing
 
@@ -202,7 +202,7 @@ The **Third Computer Olympiad** was held from August 22 to 28, [1991](Timeline#1
 
 ### Selected Games
 
-Round 4, [Chessmachine](ChessMachine "ChessMachine") [King](The_King "The King") - [Chessmachine](ChessMachine "ChessMachine") [WK](Gideon "Gideon") [[6]](#cite_note-6)
+Round 4, [Chessmachine](ChessMachine "ChessMachine") [King](The_King "The King") - [Chessmachine](ChessMachine "ChessMachine") [WK](Gideon "Gideon") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
 
@@ -227,7 +227,7 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 
 ## [Chinese Chess](Chinese_Chess "Chinese Chess")
 
-**[\< Prev](2nd_Computer_Olympiad#ChineseChess "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#ChineseChess "4th Computer Olympiad")** [[7]](#cite_note-7)
+**[\< Prev](2nd_Computer_Olympiad#ChineseChess "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#ChineseChess "4th Computer Olympiad")** <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 |  #
 |  Program
@@ -251,7 +251,7 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 
 ## [Draughts](Draughts "Draughts")
 
-**[\< Prev](1st_Computer_Olympiad#Draughts "1st Computer Olympiad") [Next >](4th_Computer_Olympiad#Draughts "4th Computer Olympiad")** [[8]](#cite_note-8)
+**[\< Prev](1st_Computer_Olympiad#Draughts "1st Computer Olympiad") [Next >](4th_Computer_Olympiad#Draughts "4th Computer Olympiad")** <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 |  #
 |  Program
@@ -320,7 +320,7 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 
 ### 19x19
 
-[[9]](#cite_note-9)
+<a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 |  #
 |  Program
@@ -353,7 +353,7 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 
 ### 9x9
 
-[[10]](#cite_note-10)
+<a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 |  #
 |  Program
@@ -386,7 +386,7 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 
 ## [Gomoku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)")
 
-**[\< Prev](2nd_Computer_Olympiad#Gomoku "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Gomoku "4th Computer Olympiad")** [[11]](#cite_note-11)
+**[\< Prev](2nd_Computer_Olympiad#Gomoku "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Gomoku "4th Computer Olympiad")** <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 |  #
 |  Program
@@ -431,7 +431,7 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 
 ## [Nine Men’s Morris](Nine_Men%E2%80%99s_Morris "Nine Men’s Morris")
 
-[[12]](#cite_note-12)
+<a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 |  #
 |  Program
@@ -455,7 +455,7 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 
 ## [Othello](Othello "Othello")
 
-**[\< Prev](2nd_Computer_Olympiad#Othello "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Othello "4th Computer Olympiad")** [[13]](#cite_note-13)
+**[\< Prev](2nd_Computer_Olympiad#Othello "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Othello "4th Computer Olympiad")** <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 
 |  #
 |  Program
@@ -516,7 +516,7 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 
 ## [Qubic](index.php?title=Qubic&action=edit&redlink=1 "Qubic (page does not exist)")
 
-[[14]](#cite_note-14)
+<a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 |  #
 |  Program
@@ -540,7 +540,7 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 
 ## [Renju](index.php?title=Renju&action=edit&redlink=1 "Renju (page does not exist)")
 
-**[\< Prev](2nd_Computer_Olympiad#Renju "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Renju "4th Computer Olympiad")** [[15]](#cite_note-15) [[16]](#cite_note-16)
+**[\< Prev](2nd_Computer_Olympiad#Renju "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Renju "4th Computer Olympiad")** <a id="cite-note-15" href="#cite-ref-15">[15]</a> <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 |  #
 |  Program
@@ -571,7 +571,7 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 
 ## [Scrabble](index.php?title=Scrabble&action=edit&redlink=1 "Scrabble (page does not exist)")
 
-**[\< Prev](2nd_Computer_Olympiad#Scrabble "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Scrabble "4th Computer Olympiad")** [[17]](#cite_note-17)
+**[\< Prev](2nd_Computer_Olympiad#Scrabble "2nd Computer Olympiad") [Next >](4th_Computer_Olympiad#Scrabble "4th Computer Olympiad")** <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 
 |  #
 |  Program
@@ -602,7 +602,7 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 
 ## Heuristic Programming in AI
 
-- [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Victor Allis](Victor_Allis "Victor Allis") (Eds.) (**1992**). *[Heuristic Programming in Artificial Intelligence 3 - The Third Computer Olympiad](http://dl.acm.org/citation.cfm?id=149641)*. Ellis Horwood [[18]](#cite_note-18)
+- [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Victor Allis](Victor_Allis "Victor Allis") (Eds.) (**1992**). *[Heuristic Programming in Artificial Intelligence 3 - The Third Computer Olympiad](http://dl.acm.org/citation.cfm?id=149641)*. Ellis Horwood <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 1. [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Burkhard Monien](Burkhard_Monien "Burkhard Monien") (**1992**). *Experiments with a Fully Distributed Chess Program*. [Heuristic Programming in AI 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad")
 1. [Christian Posthoff](Christian_Posthoff "Christian Posthoff") (**1992**). *Fuzzy Logics - New Concepts for Computer Chess*? [Heuristic Programming in AI 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad")
@@ -618,7 +618,7 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 1. [Frank Thuijsman](index.php?title=Frank_Thuijsman&action=edit&redlink=1 "Frank Thuijsman (page does not exist)") (**1992**). *An Introduction to the Theory of Games*. [Heuristic Programming in AI 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad")
 1. [Alan Frank](index.php?title=Alan_Frank&action=edit&redlink=1 "Alan Frank (page does not exist)") (**1992**). *Can't Stop*. [Heuristic Programming in AI 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad")
 1. B. Zivas, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"). (**1992**). *WLOTO - A New Game with Words*. [Heuristic Programming in AI 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad")
-1. [Ekkehard Künzell](index.php?title=Ekkehard_K%C3%BCnzell&action=edit&redlink=1 "Ekkehard Künzell (page does not exist)") (**1992**). *Games with Pentacubes*. [Heuristic Programming in AI 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad") [[19]](#cite_note-19)
+1. [Ekkehard Künzell](index.php?title=Ekkehard_K%C3%BCnzell&action=edit&redlink=1 "Ekkehard Künzell (page does not exist)") (**1992**). *Games with Pentacubes*. [Heuristic Programming in AI 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad") <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 1. [Barney Pell](Barney_Pell "Barney Pell") (**1992**). *Metagame: A New Challenge for Games and Learning*. [Heuristic Programming in AI 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad")
 1. [Barney Pell](Barney_Pell "Barney Pell") (**1992**). *Metagame in Symmetric, Chess-Like Games*. [Heuristic Programming in AI 3](3rd_Computer_Olympiad#Workshop "3rd Computer Olympiad")
 
@@ -637,25 +637,25 @@ Nxd4 54.Nxd4 c5 55.Qc1 Qc7 0-1
 
 ## References
 
-1. [↑](#cite_ref-1) Former Jesuit monastery, now Faculty of Business and Economics, [Maastricht University from Wikipedia](https://en.wikipedia.org/wiki/Maastricht_University)
-1. [↑](#cite_ref-2) [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Victor Allis](Victor_Allis "Victor Allis") (Eds.) (**1992**). *[Heuristic Programming in Artificial Intelligence 3 - The Third Computer Olympiad](http://dl.acm.org/citation.cfm?id=149641)*. Ellis Horwood
-1. [↑](#cite_ref-3) [3rd Computer Olympiad, Awari - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=143)
-1. [↑](#cite_ref-4) [3rd Computer Olympiad, Bridge - Maastricht 1991 (ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=144)
-1. [↑](#cite_ref-5) [3rd Computer Olympiad, Chess - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=145)
-1. [↑](#cite_ref-6) [Maastricht 1991 - Chess - Round 4 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=145&round=4&id=1)
-1. [↑](#cite_ref-7) [3rd Computer Olympiad, Chinese Chess - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=146)
-1. [↑](#cite_ref-8) [3rd Computer Olympiad, Draughts - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=147)
-1. [↑](#cite_ref-9) [3rd Computer Olympiad, Go - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=50)
-1. [↑](#cite_ref-10) [3rd Computer Olympiad, Go (9x9) - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=51)
-1. [↑](#cite_ref-11) [3rd Computer Olympiad, Go-Moku - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=148)
-1. [↑](#cite_ref-12) [3rd Computer Olympiad, Nine Men’s Morris - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=149)
-1. [↑](#cite_ref-13) [3rd Computer Olympiad, Othello - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=150)
-1. [↑](#cite_ref-14) [3rd Computer Olympiad, Qubic - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=151)
-1. [↑](#cite_ref-15) [3rd Computer Olympiad, Renju - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=152)
-1. [↑](#cite_ref-16) [Renju from Wikipedia](https://en.wikipedia.org/wiki/Renju)
-1. [↑](#cite_ref-17) [3rd Computer Olympiad, Scrabble - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=153)
-1. [↑](#cite_ref-18) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. [↑](#cite_ref-19) [Games with pentacubes - Ekkehard Künzell](http://www.pentakuben.de/index_e.htm)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Former Jesuit monastery, now Faculty of Business and Economics, [Maastricht University from Wikipedia](https://en.wikipedia.org/wiki/Maastricht_University)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Victor Allis](Victor_Allis "Victor Allis") (Eds.) (**1992**). *[Heuristic Programming in Artificial Intelligence 3 - The Third Computer Olympiad](http://dl.acm.org/citation.cfm?id=149641)*. Ellis Horwood
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [3rd Computer Olympiad, Awari - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=143)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [3rd Computer Olympiad, Bridge - Maastricht 1991 (ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=144)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [3rd Computer Olympiad, Chess - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=145)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Maastricht 1991 - Chess - Round 4 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=145&round=4&id=1)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [3rd Computer Olympiad, Chinese Chess - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=146)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [3rd Computer Olympiad, Draughts - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=147)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [3rd Computer Olympiad, Go - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=50)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [3rd Computer Olympiad, Go (9x9) - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=51)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [3rd Computer Olympiad, Go-Moku - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=148)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [3rd Computer Olympiad, Nine Men’s Morris - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=149)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [3rd Computer Olympiad, Othello - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=150)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [3rd Computer Olympiad, Qubic - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=151)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [3rd Computer Olympiad, Renju - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=152)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Renju from Wikipedia](https://en.wikipedia.org/wiki/Renju)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [3rd Computer Olympiad, Scrabble - Maastricht 1991 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=153)
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Games with pentacubes - Ekkehard Künzell](http://www.pentakuben.de/index_e.htm)
 
 **[Up one level](Computer_Olympiad "Computer Olympiad")**
 

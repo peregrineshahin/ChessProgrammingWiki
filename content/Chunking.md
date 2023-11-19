@@ -50,7 +50,7 @@ In chess, the Chunking Hypothesis was researched in various cognitive experiment
 ## 1920 ...
 
 - I.N. Djakov (**1926**). *Psihologia Shakhmatnoi Igry*. (Chess psychology) edited by N.B. Petrovskij and P.A. Rudik, Moscow: Avtorov
-- I.N. Djakov (**1927**). *[Psychologie des Schachspiels](http://www.buchhandel.de/detailansicht.aspx?isbn=9783111262604)*. [Walter de Gruyter](https://en.wikipedia.org/wiki/Walter_de_Gruyter), [Berlin](https://en.wikipedia.org/wiki/Berlin) & [Leipzig](https://en.wikipedia.org/wiki/Leipzig), reprinted 2001 Bigli-Press, [amazon](http://www.amazon.de/Psychologie-Schachspiels-psychotechnischer-Experimente-Schachturniers/dp/B004SG3X9C) [[1]](#cite_note-1)
+- I.N. Djakov (**1927**). *[Psychologie des Schachspiels](http://www.buchhandel.de/detailansicht.aspx?isbn=9783111262604)*. [Walter de Gruyter](https://en.wikipedia.org/wiki/Walter_de_Gruyter), [Berlin](https://en.wikipedia.org/wiki/Berlin) & [Leipzig](https://en.wikipedia.org/wiki/Leipzig), reprinted 2001 Bigli-Press, [amazon](http://www.amazon.de/Psychologie-Schachspiels-psychotechnischer-Experimente-Schachturniers/dp/B004SG3X9C) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 
 ## 1940 ...
 
@@ -73,7 +73,7 @@ In chess, the Chunking Hypothesis was researched in various cognitive experiment
 - [Albert Zobrist](Albert_Zobrist "Albert Zobrist") (**1970**). *A Pattern Recognition Program which uses a Geometry-Preserving Representation of Features*. Technical Report #85, [pdf](http://www.cs.wisc.edu/techreports/1970/TR85.pdf)
 - [James R. Slagle](James_R._Slagle "James R. Slagle"), [Richard C. T. Lee](Richard_C._T._Lee "Richard C. T. Lee") (**1971**). *[Application of game tree searching techniques to sequential pattern recognition](http://portal.acm.org/citation.cfm?id=362515.362562)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 14, No. 2
 - [William Chase](William_Chase "William Chase"), [Herbert Simon](Herbert_Simon "Herbert Simon") (**1973**). *[The Mind’s Eye in Chess](http://psycnet.apa.org/psycinfo/1974-08328-004)*. Visual Information Processing: Proceedings of the Eighth Annual Carnegie Psychology Symposium (ed. W. G. Chase), pp. 215-281. Academic Press, New York. Reprinted (**1988**) in Readings in Cognitive Science (ed. A.M. Collins). Morgan Kaufmann, San Mateo, CA.
-- [William Chase](William_Chase "William Chase"), [Herbert Simon](Herbert_Simon "Herbert Simon") (**1973**). *[Perception in chess](http://www.sciencedirect.com/science/article/pii/0010028573900042)*. [Cognitive Psychology](http://www.journals.elsevier.com/cognitive-psychology/), Vol. 4, No. 1, [pdf](http://matt.colorado.edu/teaching/highcog/fall8/cs73.pdf) [[2]](#cite_note-2)
+- [William Chase](William_Chase "William Chase"), [Herbert Simon](Herbert_Simon "Herbert Simon") (**1973**). *[Perception in chess](http://www.sciencedirect.com/science/article/pii/0010028573900042)*. [Cognitive Psychology](http://www.journals.elsevier.com/cognitive-psychology/), Vol. 4, No. 1, [pdf](http://matt.colorado.edu/teaching/highcog/fall8/cs73.pdf) <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 - [Herbert Simon](Herbert_Simon "Herbert Simon"), [Kevin J. Gilmartin](Kevin_J._Gilmartin "Kevin J. Gilmartin") (**1973**). *A Simulation of Memory for Chess Positions*. [Cognitive Psychology](http://www.journals.elsevier.com/cognitive-psychology/), Vol. 5 » [MAPP](MAPP "MAPP")
 - [Herbert Simon](Herbert_Simon "Herbert Simon"), [William Chase](William_Chase "William Chase") (**1973**). *Skill in Chess*. [American Scientist](https://en.wikipedia.org/wiki/American_Scientist), Vol. 61, No. 4, reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
 - [Albert Zobrist](Albert_Zobrist "Albert Zobrist"), [Frederic Roy Carlson](Frederic_Roy_Carlson "Frederic Roy Carlson") (**1973**). *An Advice-Taking Chess Computer*. [Scientific American](https://en.wikipedia.org/wiki/Scientific_American), Vol. 228, No. 6
@@ -167,8 +167,8 @@ feat. [Oscar Castro Neves](https://en.wikipedia.org/wiki/Oscar_Castro-Neves), [O
 
 ## References
 
-1. [↑](#cite_ref-1) [Moscow 1925 chess tournament from Wikipedia](https://en.wikipedia.org/wiki/Moscow_1925_chess_tournament)
-1. [↑](#cite_ref-2) [The Human Intuition Project: Chase and Simon (1973) Perception in chess, Cognitive Psychology 4:55-81. A scientific blunder](http://www.capyblanca.com/2007/10/chase-and-simon-1973-perception-in.html) by [Alexandre Linhares](index.php?title=Alexandre_Linhares&action=edit&redlink=1 "Alexandre Linhares (page does not exist)"), October 01, 2007
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Moscow 1925 chess tournament from Wikipedia](https://en.wikipedia.org/wiki/Moscow_1925_chess_tournament)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Human Intuition Project: Chase and Simon (1973) Perception in chess, Cognitive Psychology 4:55-81. A scientific blunder](http://www.capyblanca.com/2007/10/chase-and-simon-1973-perception-in.html) by [Alexandre Linhares](index.php?title=Alexandre_Linhares&action=edit&redlink=1 "Alexandre Linhares (page does not exist)"), October 01, 2007
 
 **[Up one Level](Knowledge "Knowledge")**
 

@@ -5,13 +5,13 @@ title: Population CountTooSlow
 
 
 
-[ Visualization of [Hamming distance](Population_Count#HammingDistance "Population Count") [[1]](#cite_note-1)
+[ Visualization of [Hamming distance](Population_Count#HammingDistance "Population Count") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Population count**,  
 
-an operation to determine the [cardinality](https://en.wikipedia.org/wiki/Cardinality) of a bitboard, also called [Hamming weight](https://en.wikipedia.org/wiki/Hamming_weight) or sideways sum [[2]](#cite_note-2). How many one bits exists in a 64-bit computer word? In computer chess, population count is used to [evaluate](Evaluation "Evaluation") the [mobility](Mobility "Mobility") of pieces from their [attack sets](Attacks "Attacks"), as [already applied](CDC_Cyber#Mobility "CDC Cyber") in [Chess 4.6](Chess_(Program) "Chess (Program)") on the [CDC 6600](CDC_6600 "CDC 6600") and [CDC Cyber](CDC_Cyber "CDC Cyber").
+an operation to determine the [cardinality](https://en.wikipedia.org/wiki/Cardinality) of a bitboard, also called [Hamming weight](https://en.wikipedia.org/wiki/Hamming_weight) or sideways sum <a id="cite-note-2" href="#cite-ref-2">[2]</a>. How many one bits exists in a 64-bit computer word? In computer chess, population count is used to [evaluate](Evaluation "Evaluation") the [mobility](Mobility "Mobility") of pieces from their [attack sets](Attacks "Attacks"), as [already applied](CDC_Cyber#Mobility "CDC Cyber") in [Chess 4.6](Chess_(Program) "Chess (Program)") on the [CDC 6600](CDC_6600 "CDC 6600") and [CDC Cyber](CDC_Cyber "CDC Cyber").
 
 
-Recent [x86-64](X86-64 "X86-64") processors (since [AMD](AMD "AMD") [K10](https://en.wikipedia.org/wiki/AMD_K10) with [SSE4a](SSE4#SSE4a "SSE4"), [Intel](Intel "Intel") [Nehalem](https://en.wikipedia.org/wiki/Nehalem_%28microarchitecture%29) with [SSE4.2](SSE4#SSE4.2 "SSE4")) provide a [64-bit popcount instruction](X86-64#gpinstructions "X86-64") [[3]](#cite_note-3), available via [C++](Cpp "Cpp") compiler intrinsic [[4]](#cite_note-4) [[5]](#cite_note-5) or [inline assembly](Assembly#InlineAssembly "Assembly") [[6]](#cite_note-6). Despite different Intrinsic prototypes (\_mm\_popcnt\_u64 vs. popcnt64), Intel and AMD popcnt instructions are binary compatible, have same encoding (F3 [REX] 0F B8 /r), and both require bit 23 set in RCX of the [CPUID](https://en.wikipedia.org/wiki/CPUID) function 0000\_0001h. Code samples are in [C](C "C") / [C++](Cpp "Cpp"), *see [Defining Bitboards](Bitboards#DefiningBitboards "Bitboards")*
+Recent [x86-64](X86-64 "X86-64") processors (since [AMD](AMD "AMD") [K10](https://en.wikipedia.org/wiki/AMD_K10) with [SSE4a](SSE4#SSE4a "SSE4"), [Intel](Intel "Intel") [Nehalem](https://en.wikipedia.org/wiki/Nehalem_%28microarchitecture%29) with [SSE4.2](SSE4#SSE4.2 "SSE4")) provide a [64-bit popcount instruction](X86-64#gpinstructions "X86-64") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, available via [C++](Cpp "Cpp") compiler intrinsic <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> or [inline assembly](Assembly#InlineAssembly "Assembly") <a id="cite-note-6" href="#cite-ref-6">[6]</a>. Despite different Intrinsic prototypes (\_mm\_popcnt\_u64 vs. popcnt64), Intel and AMD popcnt instructions are binary compatible, have same encoding (F3 [REX] 0F B8 /r), and both require bit 23 set in RCX of the [CPUID](https://en.wikipedia.org/wiki/CPUID) function 0000\_0001h. Code samples are in [C](C "C") / [C++](Cpp "Cpp"), *see [Defining Bitboards](Bitboards#DefiningBitboards "Bitboards")*
 
 
 
@@ -92,7 +92,7 @@ if ( x & (x-1) ) -> population count is greater than one
 
 ```
 
-An alternative approach to determine single populated sets, aka power of two values is based on [Inclusive LS1B separation](General_Setwise_Operations#LS1BSeparation "General Setwise Operations") divided by two equals the ones' decrement [[7]](#cite_note-7):
+An alternative approach to determine single populated sets, aka power of two values is based on [Inclusive LS1B separation](General_Setwise_Operations#LS1BSeparation "General Setwise Operations") divided by two equals the ones' decrement <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
 
 
 
@@ -139,7 +139,7 @@ Of course, this is a slow algorithm, which might be improved by testing x not em
 ### Brian Kernighan's way
 
 
-Consecutively [reset LS1B](General_Setwise_Operations#LS1BReset "General Setwise Operations") in a loop body and counting loop cycles until the bitset becomes empty. [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) [[8]](#cite_note-8) mentioned the trick in his and [Ritchie's](https://en.wikipedia.org/wiki/Dennis_Ritchie) book [The C Programming\_Language](https://en.wikipedia.org/wiki/The_C_Programming_Language_%28book%29), 2nd Edition 1988, exercise 2-9. However, the method was first published in 1960 by [Peter Wegner](Mathematician#PWegner "Mathematician") [[9]](#cite_note-9), discovered independently by [Derrick Henry Lehmer](Mathematician#DHLehmer "Mathematician"), published in 1964 [[10]](#cite_note-10):
+Consecutively [reset LS1B](General_Setwise_Operations#LS1BReset "General Setwise Operations") in a loop body and counting loop cycles until the bitset becomes empty. [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) <a id="cite-note-8" href="#cite-ref-8">[8]</a> mentioned the trick in his and [Ritchie's](https://en.wikipedia.org/wiki/Dennis_Ritchie) book [The C Programming\_Language](https://en.wikipedia.org/wiki/The_C_Programming_Language_%28book%29), 2nd Edition 1988, exercise 2-9. However, the method was first published in 1960 by [Peter Wegner](Mathematician#PWegner "Mathematician") <a id="cite-note-9" href="#cite-ref-9">[9]</a>, discovered independently by [Derrick Henry Lehmer](Mathematician#DHLehmer "Mathematician"), published in 1964 <a id="cite-note-10" href="#cite-ref-10">[10]</a>:
 
 
 
@@ -224,7 +224,7 @@ int popCount (U64 x) {
 ## SWAR-Popcount
 
 
-The [divide and conquer](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm) [SWAR-approach](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") deals with counting bits of duos, to aggregate the duo-counts to [nibbles](Nibble "Nibble") and [bytes](Byte "Byte") inside one 64-bit register in parallel, to finally sum all bytes together. According to [Donald Knuth](Donald_Knuth "Donald Knuth") [[11]](#cite_note-11), a parallel population count routine was already introduced in 1957 due to [Donald B. Gillies](Mathematician#DBGillies "Mathematician") and [Jeffrey C. P. Miller](https://en.wikipedia.org/wiki/J._C._P._Miller) in the first textbook on programming, second edition: *The Preparation of Programs for an Electronic Digital Computer*, by [Maurice Wilkes](Mathematician#MVWilkes "Mathematician"), [David Wheeler](Mathematician#DJWheeler "Mathematician") and [Stanley Gill](https://en.wikipedia.org/wiki/Stanley_Gill), pages 191–193 [[12]](#cite_note-12) [[13]](#cite_note-13). 
+The [divide and conquer](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm) [SWAR-approach](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") deals with counting bits of duos, to aggregate the duo-counts to [nibbles](Nibble "Nibble") and [bytes](Byte "Byte") inside one 64-bit register in parallel, to finally sum all bytes together. According to [Donald Knuth](Donald_Knuth "Donald Knuth") <a id="cite-note-11" href="#cite-ref-11">[11]</a>, a parallel population count routine was already introduced in 1957 due to [Donald B. Gillies](Mathematician#DBGillies "Mathematician") and [Jeffrey C. P. Miller](https://en.wikipedia.org/wiki/J._C._P._Miller) in the first textbook on programming, second edition: *The Preparation of Programs for an Electronic Digital Computer*, by [Maurice Wilkes](Mathematician#MVWilkes "Mathematician"), [David Wheeler](Mathematician#DJWheeler "Mathematician") and [Stanley Gill](https://en.wikipedia.org/wiki/Stanley_Gill), pages 191–193 <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>. 
 
 
 
@@ -392,7 +392,7 @@ x = (x * 0x0101010101010101) >> 56;
 ### Casting out
 
 
-Interestingly, there is another approach to add the bytes together. As demonstrated with decimal digits (base 10) and [Casting out nines](https://en.wikipedia.org/wiki/Casting_out_nines) [[14]](#cite_note-14), casting out by [modulo](General_Setwise_Operations#Modulo "General Setwise Operations") base minus one is equivalent to taking the [digit sum](https://en.wikipedia.org/wiki/Digit_sum), which might be applied here with low range 0..8 "base 256" digits:
+Interestingly, there is another approach to add the bytes together. As demonstrated with decimal digits (base 10) and [Casting out nines](https://en.wikipedia.org/wiki/Casting_out_nines) <a id="cite-note-14" href="#cite-ref-14">[14]</a>, casting out by [modulo](General_Setwise_Operations#Modulo "General Setwise Operations") base minus one is equivalent to taking the [digit sum](https://en.wikipedia.org/wiki/Digit_sum), which might be applied here with low range 0..8 "base 256" digits:
 
 
 
@@ -413,7 +413,7 @@ However, since division and modulo are usually slow instructions and modulo by c
 ### The Constants
 
 
-Putting all together, the various SWAR-Masks and factors as defined by [Donald Knuth](Donald_Knuth "Donald Knuth") as 2-[adic](https://en.wikipedia.org/wiki/P-adic_number) fractions [[15]](#cite_note-15):
+Putting all together, the various SWAR-Masks and factors as defined by [Donald Knuth](Donald_Knuth "Donald Knuth") as 2-[adic](https://en.wikipedia.org/wiki/P-adic_number) fractions <a id="cite-note-15" href="#cite-ref-15">[15]</a>:
 
 
 
@@ -479,7 +479,7 @@ int popCount (U64 x) {
 ### HAKMEM 169
 
 
-A similar technique was proposed by [Bill Gosper](Bill_Gosper "Bill Gosper") et al. from [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), as published 1972 in [Memo 239 (HAKMEM)](https://en.wikipedia.org/wiki/HAKMEM) [[16]](#cite_note-16) [[17]](#cite_note-17), to add bit-trio- rather than duo populations consecutively, and the 32 bit version relies on casting out 63. Note that the constants in the code below have [octal](https://en.wikipedia.org/wiki/Octal) (base-8) digits, originally written in [Assembly](Assembly#HAKMEM169 "Assembly") for the [PDP-6](PDP-6 "PDP-6") [[18]](#cite_note-18). An expanded 64-bit version, casting out 511 or 4095, is slightly less efficient than the binary SWAR version above.
+A similar technique was proposed by [Bill Gosper](Bill_Gosper "Bill Gosper") et al. from [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), as published 1972 in [Memo 239 (HAKMEM)](https://en.wikipedia.org/wiki/HAKMEM) <a id="cite-note-16" href="#cite-ref-16">[16]</a> <a id="cite-note-17" href="#cite-ref-17">[17]</a>, to add bit-trio- rather than duo populations consecutively, and the 32 bit version relies on casting out 63. Note that the constants in the code below have [octal](https://en.wikipedia.org/wiki/Octal) (base-8) digits, originally written in [Assembly](Assembly#HAKMEM169 "Assembly") for the [PDP-6](PDP-6 "PDP-6") <a id="cite-note-18" href="#cite-ref-18">[18]</a>. An expanded 64-bit version, casting out 511 or 4095, is slightly less efficient than the binary SWAR version above.
 
 
 
@@ -693,7 +693,7 @@ int hammingDistance (U64 a, U64 b) {return popcnt( a ^ b);}
 Hamming distance greater than one or two is an important property of codes to detect or even correct one-bit errors.
 
 
-The minimum and average hamming distance over all [Zobrist keys](Zobrist_Hashing "Zobrist Hashing") was considered as "quality"-measure of the keys. However, as long the minimum hamming distance is greater zero, [linear independence](https://en.wikipedia.org/wiki/Linear_independence) (that is a small subset of all keys doesn't xor to zero), is much more important than hamming distance [[19]](#cite_note-19). Maximizing the minimal hamming distance leads to very poor Zobrist keys [[20]](#cite_note-20).
+The minimum and average hamming distance over all [Zobrist keys](Zobrist_Hashing "Zobrist Hashing") was considered as "quality"-measure of the keys. However, as long the minimum hamming distance is greater zero, [linear independence](https://en.wikipedia.org/wiki/Linear_independence) (that is a small subset of all keys doesn't xor to zero), is much more important than hamming distance <a id="cite-note-19" href="#cite-ref-19">[19]</a>. Maximizing the minimal hamming distance leads to very poor Zobrist keys <a id="cite-note-20" href="#cite-ref-20">[20]</a>.
 
 
 
@@ -707,14 +707,14 @@ For a [SIMD-wise](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") kind of w
 ### Pre-calculated Mobility
 
 
-Similar to [Attacks by Occupancy Lookup](Sliding_Piece_Attacks#AttacksbyOccupancyLookup "Sliding Piece Attacks") to determine attack sets of sliding pieces, we may use pre-calculated population count or even center-weighted population count as a rough estimate on piece [mobility](Mobility "Mobility") [[21]](#cite_note-21). It may not consider subsets of let say safe target squares.
+Similar to [Attacks by Occupancy Lookup](Sliding_Piece_Attacks#AttacksbyOccupancyLookup "Sliding Piece Attacks") to determine attack sets of sliding pieces, we may use pre-calculated population count or even center-weighted population count as a rough estimate on piece [mobility](Mobility "Mobility") <a id="cite-note-21" href="#cite-ref-21">[21]</a>. It may not consider subsets of let say safe target squares.
 
 
 
 ### Piece Attacks Count
 
 
-As pointed out by [Marco Costalba](Marco_Costalba "Marco Costalba") [[22]](#cite_note-22) [[23]](#cite_note-23), specialized routines to count the population ([Mobility](Mobility "Mobility")) of attack sets of [king](King "King"), [knight](Knight "Knight") and line-wise sub-sets of sliding pieces can be done more efficiently than the general [SWAR-Popcount](Population_Count#SWARPopcount "Population Count"). This is similar to [Flipping Mirroring and Rotating](Flipping_Mirroring_and_Rotating "Flipping Mirroring and Rotating") the whole bitboard versus [Rank, File and Diagonal](Flipping_Mirroring_and_Rotating#RankFileAndDiagonal "Flipping Mirroring and Rotating"), and is based on mapping the up to eight scattered occupied bits to one byte, to perform a single [byte lookup](Population_Count#Lookup "Population Count"). For various mapping techniques, see:
+As pointed out by [Marco Costalba](Marco_Costalba "Marco Costalba") <a id="cite-note-22" href="#cite-ref-22">[22]</a> <a id="cite-note-23" href="#cite-ref-23">[23]</a>, specialized routines to count the population ([Mobility](Mobility "Mobility")) of attack sets of [king](King "King"), [knight](Knight "Knight") and line-wise sub-sets of sliding pieces can be done more efficiently than the general [SWAR-Popcount](Population_Count#SWARPopcount "Population Count"). This is similar to [Flipping Mirroring and Rotating](Flipping_Mirroring_and_Rotating "Flipping Mirroring and Rotating") the whole bitboard versus [Rank, File and Diagonal](Flipping_Mirroring_and_Rotating#RankFileAndDiagonal "Flipping Mirroring and Rotating"), and is based on mapping the up to eight scattered occupied bits to one byte, to perform a single [byte lookup](Population_Count#Lookup "Population Count"). For various mapping techniques, see:
 
 
 
@@ -757,7 +757,7 @@ As pointed out by [Marco Costalba](Marco_Costalba "Marco Costalba") [[22]](#cite
 * [Maurice Wilkes](Mathematician#MVWilkes "Mathematician"), [David Wheeler](Mathematician#DJWheeler "Mathematician"), [Stanley Gill](https://en.wikipedia.org/wiki/Stanley_Gill) (**1957**). *The Preparation of Programs for an Electronic Digital Computer*. Addison-Wesley Press; 2nd edition, [amazon.com](http://www.amazon.com/preparation-programs-electronic-Addison-Wesley-mathematics/dp/B0006AV1QQ), [Donald B. Gillies](Mathematician#DBGillies "Mathematician") and [Jeffrey C. P. Miller](https://en.wikipedia.org/wiki/J._C._P._Miller) on [SWAR-Popcount](Population_Count#SWARPopcount "Population Count"), pages 191–193
 * [Peter Wegner](Mathematician#PWegner "Mathematician") (**1960**). *A technique for counting ones in a binary computer*. [Communications of the ACM](ACM#Communications "ACM"), [Volume 3, 1960](http://www.informatik.uni-trier.de/~ley/db/journals/cacm/cacm3.html#Wegner60)
 * Michael Beeler, [Bill Gosper](Bill_Gosper "Bill Gosper"), [Rich Schroeppel](https://en.wikipedia.org/wiki/Richard_Schroeppel) (**1972**). *[HAKMEM](https://dspace.mit.edu/handle/1721.1/6086)*, Memo 239, Artificial Intelligence Laboratory, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
-* [David A. Wagner](Mathematician#DAWagner "Mathematician"), [Steven M. Bellovin](Steven_M._Bellovin "Steven M. Bellovin") (**1994**). *[A Programmable Plaintext Recognizer](http://academiccommons.columbia.edu/catalog/ac:127097)*. [[24]](#cite_note-24)
+* [David A. Wagner](Mathematician#DAWagner "Mathematician"), [Steven M. Bellovin](Steven_M._Bellovin "Steven M. Bellovin") (**1994**). *[A Programmable Plaintext Recognizer](http://academiccommons.columbia.edu/catalog/ac:127097)*. <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 
 
 ### 2000 ...
@@ -776,7 +776,7 @@ As pointed out by [Marco Costalba](Marco_Costalba "Marco Costalba") [[22]](#cite
 
 * [Henry S. Warren, Jr.](Henry_S._Warren,_Jr. "Henry S. Warren, Jr.") (**2012**). *[Hacker's Delight, 2nd Edition](http://www.informit.com/store/hackers-delight-9780321842688)*. [Addison-Wesley Professional](https://en.wikipedia.org/wiki/Addison%E2%80%93Wesley), More coverage of population count and counting leading zeros, Array population count
 * [Andreas Stiller](http://de.linkedin.com/pub/andreas-stiller/a/381/aa9) (**2013**). *[Spezialkommando - Intrinsic \_\_popcnt() zählt die Einsen](http://www.heise.de/artikel-archiv/ct/2013/05/180_Spezialkommando)*. [c't Magazin für Computertechnik](http://www.heise.de/ct/) 5/2013, p. 180 (German)
-* [Wojciech Muła](Wojciech_Mu%C5%82a "Wojciech Muła"), [Nathan Kurz](http://dblp.uni-trier.de/pers/hd/k/Kurz:Nathan), [Daniel Lemire](https://github.com/lemire) (**2016**). *Faster Population Counts Using AVX2 Instructions*. [arXiv:1611.07612](https://arxiv.org/abs/1611.07612) [[25]](#cite_note-25) » [AVX2](AVX2 "AVX2"), [AVX-512](AVX-512 "AVX-512")
+* [Wojciech Muła](Wojciech_Mu%C5%82a "Wojciech Muła"), [Nathan Kurz](http://dblp.uni-trier.de/pers/hd/k/Kurz:Nathan), [Daniel Lemire](https://github.com/lemire) (**2016**). *Faster Population Counts Using AVX2 Instructions*. [arXiv:1611.07612](https://arxiv.org/abs/1611.07612) <a id="cite-note-25" href="#cite-ref-25">[25]</a> » [AVX2](AVX2 "AVX2"), [AVX-512](AVX-512 "AVX-512")
 
 
 ## Postings
@@ -788,7 +788,7 @@ As pointed out by [Marco Costalba](Marco_Costalba "Marco Costalba") [[22]](#cite
 * [Bean counters Part1](https://www.stmintz.com/ccc/index.php?id=25091) by [Peter Fendrich](Peter_Fendrich "Peter Fendrich"), [CCC](CCC "CCC"), August 19, 1998
 * [Bean counters Part2](https://www.stmintz.com/ccc/index.php?id=25095) by [Peter Fendrich](Peter_Fendrich "Peter Fendrich"), [CCC](CCC "CCC"), August 19, 1998
 * [Countbits() Function](https://www.stmintz.com/ccc/index.php?id=38188) by [Roberto Waldteufel](Roberto_Waldteufel "Roberto Waldteufel"), [CCC](CCC "CCC"), January 03, 1999
-* [Sideways Add / Population Count](http://cryptome.org/jya/sadd.htm) by [Jitze Couperus](http://www.couperus.org/), [Steve Bellovin](Steven_M._Bellovin "Steven M. Bellovin") and [Axel H. Horns](http://de.linkedin.com/in/horns), [cryptography@c2.net](https://en.wikipedia.org/wiki/C2Net), January 28, 1999 » [CDC 6600](CDC_6600 "CDC 6600") [[26]](#cite_note-26)
+* [Sideways Add / Population Count](http://cryptome.org/jya/sadd.htm) by [Jitze Couperus](http://www.couperus.org/), [Steve Bellovin](Steven_M._Bellovin "Steven M. Bellovin") and [Axel H. Horns](http://de.linkedin.com/in/horns), [cryptography@c2.net](https://en.wikipedia.org/wiki/C2Net), January 28, 1999 » [CDC 6600](CDC_6600 "CDC 6600") <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 
 
 ### 2000 ...
@@ -798,7 +798,7 @@ As pointed out by [Marco Costalba](Marco_Costalba "Marco Costalba") [[22]](#cite
 * [Bit counting revisited](https://www.stmintz.com/ccc/index.php?id=106791) by Flemming Rodler, [CCC](CCC "CCC"), April 19, 2000
 * [PowerPC BitCounting Functions Speed](https://www.stmintz.com/ccc/index.php?id=106960) by [William Bryant](William_Bryant "William Bryant"), [CCC](CCC "CCC"), April 20, 2000 » [PowerPC](PowerPC "PowerPC")
 * [Counting the number of bits in a 32-bit word](http://groups.google.com/group/comp.lang.c/browse_frm/thread/56af26ce0b48cbcd) by [George Marsaglia](Mathematician#GMarsaglia "Mathematician"), [comp.lang.c](http://groups.google.com/group/comp.lang.c/topics), December 7, 2000
-* [Re: Chezzz 1.0.1 - problem solved - for David Rasmussen](https://www.stmintz.com/ccc/index.php?id=281989) by [David Rasmussen](David_Rasmussen "David Rasmussen"), [CCC](CCC "CCC"), February 05, 2003 [[27]](#cite_note-27)
+* [Re: Chezzz 1.0.1 - problem solved - for David Rasmussen](https://www.stmintz.com/ccc/index.php?id=281989) by [David Rasmussen](David_Rasmussen "David Rasmussen"), [CCC](CCC "CCC"), February 05, 2003 <a id="cite-note-27" href="#cite-ref-27">[27]</a>
 * [Counting bits](https://www.stmintz.com/ccc/index.php?id=293853) by [Andreas Herrmann](Andreas_Herrmann "Andreas Herrmann"), [CCC](CCC "CCC"), April 17, 2003
 * [Hamming distance and lower hash table indexing](https://www.stmintz.com/ccc/index.php?id=313807) by [Tom Likens](Tom_Likens "Tom Likens"), [CCC](CCC "CCC"), September 02, 2003
 * [PopCount optimization](https://www.stmintz.com/ccc/index.php?id=353997) by [milix](Anastasios_Milikas "Anastasios Milikas"), [CCC](CCC "CCC"), March 11, 2004
@@ -844,7 +844,7 @@ As pointed out by [Marco Costalba](Marco_Costalba "Marco Costalba") [[22]](#cite
 
 * [Hamming weight from Wikipedia](https://en.wikipedia.org/wiki/Hamming_weight)
 * [Population count (POPCNT) - CompArch](http://semipublic.comp-arch.net/wiki/Population_count_%28POPCNT%29)
-* [Crazy On Tap - Secret Opcodes](http://www.crazyontap.com/topic.php?TopicId=43382) [[28]](#cite_note-28)
+* [Crazy On Tap - Secret Opcodes](http://www.crazyontap.com/topic.php?TopicId=43382) <a id="cite-note-28" href="#cite-ref-28">[28]</a>
 * [Blender: POPCNT for counting bits](http://kent-vandervelden.blogspot.com/2009/10/counting-bits-population-count-and.html)
 * [HAKMEMC -- HAKMEM Programming hacks in C](http://www.cl.cam.ac.uk/~am21/hakmemc.html) by [Alan Mycroft](http://www.cl.cam.ac.uk/~am21/)
 * [popcount](http://www.hackersdelight.org/hdcodetxt/pop.c.txt) [C](C "C") samples from [Henry S. Warren, Jr.](Henry_S._Warren,_Jr. "Henry S. Warren, Jr.") (**2002, 2012**). *[Hacker's Delight](Henry_S._Warren,_Jr.#HackersDeligh "Henry S. Warren, Jr.")*. [Addison-Wesley](https://en.wikipedia.org/wiki/Addison%E2%80%93Wesley)
@@ -859,7 +859,7 @@ As pointed out by [Marco Costalba](Marco_Costalba "Marco Costalba") [[22]](#cite
 * [GitHub - WojciechMula/sse-popcount: SIMD (SSE) population count](https://github.com/WojciechMula/sse-popcount) by [Wojciech Muła](Wojciech_Mu%C5%82a "Wojciech Muła")
 * [GitHub - kimwalisch/libpopcnt: Fast C/C++ bit population count library](https://github.com/kimwalisch/libpopcnt) » [libpopcnt](Kim_Walisch#PopCount "Kim Walisch") by [Kim Walisch](Kim_Walisch "Kim Walisch")
 * [Census from Wikipedia](https://en.wikipedia.org/wiki/Census)
-* [John Abercrombie](Category:John_Abercrombie "Category:John Abercrombie") 4tet - One, one, one + Spring song, [Subway](https://de.wikipedia.org/wiki/Subway_(Musikclub)), [Cologne](https://en.wikipedia.org/wiki/Cologne), April 12, 1999, [3sat](https://en.wikipedia.org/wiki/3sat) broadcast [[29]](#cite_note-29), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+* [John Abercrombie](Category:John_Abercrombie "Category:John Abercrombie") 4tet - One, one, one + Spring song, [Subway](https://de.wikipedia.org/wiki/Subway_(Musikclub)), [Cologne](https://en.wikipedia.org/wiki/Cologne), April 12, 1999, [3sat](https://en.wikipedia.org/wiki/3sat) broadcast <a id="cite-note-29" href="#cite-ref-29">[29]</a>, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
 
 
  [John Abercrombie](Category:John_Abercrombie "Category:John Abercrombie"), [Bobo Stenson](https://en.wikipedia.org/wiki/Bobo_Stenson), [Lars Danielsson](Category:Lars_Danielsson "Category:Lars Danielsson"), [Jon Christensen](Category:Jon_Christensen "Category:Jon Christensen") 
@@ -867,35 +867,35 @@ As pointed out by [Marco Costalba](Marco_Costalba "Marco Costalba") [[22]](#cite
 ## References
 
 
-1. [↑](#cite_ref-1) Color of each pixel is [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) between the binary representations of its x and y coordinates, modulo 16, in the 16-color system, by Josiedraus, June 8, 2007, [Richard Hamming from Wikipedia](https://en.wikipedia.org/wiki/Richard_Hamming)
-2. [↑](#cite_ref-2) [Cryptography](https://en.wikipedia.org/wiki/Cryptography) is also a significant application of the /R function symbol, which counts the number of one bits in a word; Turing refers to this as the "sideways adder" in his quick-reference summary. from [Alan Turing](Alan_Turing "Alan Turing") (**1949**). *[Alan Turing's Manual for the Ferranti Mk. I](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f45472f)*. transcribed in 2000 by [Robert Thau](http://www.panix.com/~rst/), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/2-1.Ferranti_Mark_1_manual.Turing-Alan/2-1.Ferranti_Mark_1_manual.Turing-Alan.1951.UNIVERSITY_OF_MANCHESTER.062303005.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), 9.4 The position of the most significant digit  » [Ferranti Mark 1](Ferranti_Mark_1 "Ferranti Mark 1")
-3. [↑](#cite_ref-3) [Extending the World’s Most Popular Processor Architecture](http://software.intel.com/en-us/articles/extending-the-worlds-most-popular-processor-architecture) by R.M. Ramanathan, [Intel](Intel "Intel"), covers SSE4 and popcnt
-4. [↑](#cite_ref-4) [\_mm\_popcnt\_u64](https://msdn.microsoft.com/en-us/library/bb531475(v=vs.120).aspx)
-5. [↑](#cite_ref-5) [\_\_builtin\_popcountll](https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html) [GCC](Free_Software_Foundation#GCC "Free Software Foundation") Intrinsic
-6. [↑](#cite_ref-6) [Stockfish POPCNT support with gcc](http://www.talkchess.com/forum/viewtopic.php?t=32227) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), January 31, 2010
-7. [↑](#cite_ref-7) [Matters Computational - ideas, algorithms, source code](http://www.jjj.de/fxt/fxtbook.pdf) (pdf) Ideas and Source Code by [Jörg Arndt](Mathematician#Arndt "Mathematician"), 1.7 Functions related to the base-2 logarithm, function one\_bit\_q(), pp 18
-8. [↑](#cite_ref-8) [Counting bits set, Brian Kernighan's way](http://www-graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan) from [Bit Twiddling Hacks](http://graphics.stanford.edu/%7Eseander/bithacks.html) by [Sean Eron Anderson](http://graphics.stanford.edu/%7Eseander/)
-9. [↑](#cite_ref-9) [Peter Wegner](Mathematician#PWegner "Mathematician") (**1960**). *A technique for counting ones in a binary computer*. [Communications of the ACM](ACM#Communications "ACM"), [Volume 3, 1960](http://www.informatik.uni-trier.de/~ley/db/journals/cacm/cacm3.html#Wegner60)
-10. [↑](#cite_ref-10) [Edwin Ford Beckenbach](Mathematician#EFBeckenbach "Mathematician") (editor) (**1964**). *[Applied combinatorial mathematics](http://onlinelibrary.wiley.com/doi/10.1002/bimj.19660080310/abstract)*, [John Wiley](https://en.wikipedia.org/wiki/John_Wiley_%26_Sons)
-11. [↑](#cite_ref-11) [Donald Knuth](Donald_Knuth "Donald Knuth") (**2009**). *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, as [Pre-Fascicle 1a postscript](http://www-cs-faculty.stanford.edu/%7Eknuth/fasc1a.ps.gz), Sideways addition, p 11
-12. [↑](#cite_ref-12) [Maurice Wilkes](Mathematician#MVWilkes "Mathematician"), [David Wheeler](Mathematician#DJWheeler "Mathematician"), [Stanley Gill](https://en.wikipedia.org/wiki/Stanley_Gill) (**1951**). *The Preparation of Programs for an Electronic Digital Computer*. Addison-Wesley Press; 1st edition, [amazon.com](http://www.amazon.com/preparation-programs-electronic-digital-computer/dp/B0007DWTT0); 2nd edition 1957, [amazon.com](http://www.amazon.com/preparation-programs-electronic-Addison-Wesley-mathematics/dp/B0006AV1QQ)
-13. [↑](#cite_ref-13) [Electronic Delay Storage Automatic Calculator from Wikipedia](https://en.wikipedia.org/wiki/Electronic_Delay_Storage_Automatic_Calculator)
-14. [↑](#cite_ref-14) [Casting Out Nines](http://www.billthelizard.com/2009/06/casting-out-nines.html) by [Bill the Lizard](http://www.billthelizard.com/), June 13, 2009
-15. [↑](#cite_ref-15) [Donald Knuth](Donald_Knuth "Donald Knuth") (**2009**). *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, as [Pre-Fascicle 1a postscript](http://www-cs-faculty.stanford.edu/%7Eknuth/fasc1a.ps.gz), p 9
-16. [↑](#cite_ref-16) HAKMEM - ITEM 169 To count the ones in a PDP-6/10 word (in order of one-ups-manship: [Gosper](Bill_Gosper "Bill Gosper"), Mann, Lenard, [Root and Mann])
-17. [↑](#cite_ref-17) [HAKMEMC -- HAKMEM Programming hacks in C](http://www.cl.cam.ac.uk/~am21/hakmemc.html) by [Alan Mycroft](http://www.cl.cam.ac.uk/~am21/)
-18. [↑](#cite_ref-18) [HAKMEM 169](Bill_Gosper#HAKMEM169 "Bill Gosper") for [PDP-6](PDP-6 "PDP-6")/[PDP-10](PDP-10 "PDP-10") 36-bit words
-19. [↑](#cite_ref-19) [Re: About random numbers and hashing](https://www.stmintz.com/ccc/index.php?id=200622) by [Sven Reichard](Sven_Reichard "Sven Reichard"), [CCC](CCC "CCC"), December 05, 2001
-20. [↑](#cite_ref-20) [Zobrist key random numbers](http://www.talkchess.com/forum/viewtopic.php?t=26152) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") from [CCC](CCC "CCC"), January 21, 2009
-21. [↑](#cite_ref-21) [Magic and precomputation](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6823) by [Onno Garms](Onno_Garms "Onno Garms") from [Winboard Programming Forum](Computer_Chess_Forums "Computer Chess Forums"), September 23, 2007
-22. [↑](#cite_ref-22) [fast mobility count through hashing](http://www.talkchess.com/forum/viewtopic.php?t=27820) by [Marco Costalba](Marco_Costalba "Marco Costalba") from [CCC](CCC "CCC"), May 09, 2009
-23. [↑](#cite_ref-23) [Piece attacks count](http://www.talkchess.com/forum/viewtopic.php?t=27965) by [Marco Costalba](Marco_Costalba "Marco Costalba") from [CCC](CCC "CCC"), May 18, 2009
-24. [↑](#cite_ref-24) [Sideways Add / Population Count](http://cryptome.org/jya/sadd.htm) by [Jitze Couperus](http://www.couperus.org/) and [Steve Bellovin](Steven_M._Bellovin "Steven M. Bellovin") et al., [cryptography@c2.net](https://en.wikipedia.org/wiki/C2Net), January 28, 1999
-25. [↑](#cite_ref-25) [sse-popcount/popcnt-avx512-harley-seal.cpp at master · WojciechMula/sse-popcount · GitHub](https://github.com/WojciechMula/sse-popcount/blob/master/popcnt-avx512-harley-seal.cpp)
-26. [↑](#cite_ref-26) [David A. Wagner](Mathematician#DAWagner "Mathematician"), [Steven M. Bellovin](Steven_M._Bellovin "Steven M. Bellovin") (**1994**). *[A Programmable Plaintext Recognizer](http://academiccommons.columbia.edu/catalog/ac:127097)*.
-27. [↑](#cite_ref-27) [AMD Athlon Processor x86 Code Optimization Guide](http://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/22007.pdf) (pdf) Efficient 64-Bit Population Count Using MMX™ Instructions Page 184
-28. [↑](#cite_ref-28) [National Security Agency from Wikipedia](https://en.wikipedia.org/wiki/National_Security_Agency)
-29. [↑](#cite_ref-29) [Ali Haurand from Wikipedia.de](https://de.wikipedia.org/wiki/Ali_Haurand) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Color of each pixel is [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) between the binary representations of its x and y coordinates, modulo 16, in the 16-color system, by Josiedraus, June 8, 2007, [Richard Hamming from Wikipedia](https://en.wikipedia.org/wiki/Richard_Hamming)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Cryptography](https://en.wikipedia.org/wiki/Cryptography) is also a significant application of the /R function symbol, which counts the number of one bits in a word; Turing refers to this as the "sideways adder" in his quick-reference summary. from [Alan Turing](Alan_Turing "Alan Turing") (**1949**). *[Alan Turing's Manual for the Ferranti Mk. I](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f45472f)*. transcribed in 2000 by [Robert Thau](http://www.panix.com/~rst/), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/2-1.Ferranti_Mark_1_manual.Turing-Alan/2-1.Ferranti_Mark_1_manual.Turing-Alan.1951.UNIVERSITY_OF_MANCHESTER.062303005.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), 9.4 The position of the most significant digit  » [Ferranti Mark 1](Ferranti_Mark_1 "Ferranti Mark 1")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Extending the World’s Most Popular Processor Architecture](http://software.intel.com/en-us/articles/extending-the-worlds-most-popular-processor-architecture) by R.M. Ramanathan, [Intel](Intel "Intel"), covers SSE4 and popcnt
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [\_mm\_popcnt\_u64](https://msdn.microsoft.com/en-us/library/bb531475(v=vs.120).aspx)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [\_\_builtin\_popcountll](https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html) [GCC](Free_Software_Foundation#GCC "Free Software Foundation") Intrinsic
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Stockfish POPCNT support with gcc](http://www.talkchess.com/forum/viewtopic.php?t=32227) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), January 31, 2010
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Matters Computational - ideas, algorithms, source code](http://www.jjj.de/fxt/fxtbook.pdf) (pdf) Ideas and Source Code by [Jörg Arndt](Mathematician#Arndt "Mathematician"), 1.7 Functions related to the base-2 logarithm, function one\_bit\_q(), pp 18
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Counting bits set, Brian Kernighan's way](http://www-graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan) from [Bit Twiddling Hacks](http://graphics.stanford.edu/%7Eseander/bithacks.html) by [Sean Eron Anderson](http://graphics.stanford.edu/%7Eseander/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Peter Wegner](Mathematician#PWegner "Mathematician") (**1960**). *A technique for counting ones in a binary computer*. [Communications of the ACM](ACM#Communications "ACM"), [Volume 3, 1960](http://www.informatik.uni-trier.de/~ley/db/journals/cacm/cacm3.html#Wegner60)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Edwin Ford Beckenbach](Mathematician#EFBeckenbach "Mathematician") (editor) (**1964**). *[Applied combinatorial mathematics](http://onlinelibrary.wiley.com/doi/10.1002/bimj.19660080310/abstract)*, [John Wiley](https://en.wikipedia.org/wiki/John_Wiley_%26_Sons)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Donald Knuth](Donald_Knuth "Donald Knuth") (**2009**). *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, as [Pre-Fascicle 1a postscript](http://www-cs-faculty.stanford.edu/%7Eknuth/fasc1a.ps.gz), Sideways addition, p 11
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Maurice Wilkes](Mathematician#MVWilkes "Mathematician"), [David Wheeler](Mathematician#DJWheeler "Mathematician"), [Stanley Gill](https://en.wikipedia.org/wiki/Stanley_Gill) (**1951**). *The Preparation of Programs for an Electronic Digital Computer*. Addison-Wesley Press; 1st edition, [amazon.com](http://www.amazon.com/preparation-programs-electronic-digital-computer/dp/B0007DWTT0); 2nd edition 1957, [amazon.com](http://www.amazon.com/preparation-programs-electronic-Addison-Wesley-mathematics/dp/B0006AV1QQ)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Electronic Delay Storage Automatic Calculator from Wikipedia](https://en.wikipedia.org/wiki/Electronic_Delay_Storage_Automatic_Calculator)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Casting Out Nines](http://www.billthelizard.com/2009/06/casting-out-nines.html) by [Bill the Lizard](http://www.billthelizard.com/), June 13, 2009
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Donald Knuth](Donald_Knuth "Donald Knuth") (**2009**). *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, as [Pre-Fascicle 1a postscript](http://www-cs-faculty.stanford.edu/%7Eknuth/fasc1a.ps.gz), p 9
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> HAKMEM - ITEM 169 To count the ones in a PDP-6/10 word (in order of one-ups-manship: [Gosper](Bill_Gosper "Bill Gosper"), Mann, Lenard, [Root and Mann])
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [HAKMEMC -- HAKMEM Programming hacks in C](http://www.cl.cam.ac.uk/~am21/hakmemc.html) by [Alan Mycroft](http://www.cl.cam.ac.uk/~am21/)
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [HAKMEM 169](Bill_Gosper#HAKMEM169 "Bill Gosper") for [PDP-6](PDP-6 "PDP-6")/[PDP-10](PDP-10 "PDP-10") 36-bit words
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Re: About random numbers and hashing](https://www.stmintz.com/ccc/index.php?id=200622) by [Sven Reichard](Sven_Reichard "Sven Reichard"), [CCC](CCC "CCC"), December 05, 2001
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Zobrist key random numbers](http://www.talkchess.com/forum/viewtopic.php?t=26152) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") from [CCC](CCC "CCC"), January 21, 2009
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Magic and precomputation](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=6823) by [Onno Garms](Onno_Garms "Onno Garms") from [Winboard Programming Forum](Computer_Chess_Forums "Computer Chess Forums"), September 23, 2007
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [fast mobility count through hashing](http://www.talkchess.com/forum/viewtopic.php?t=27820) by [Marco Costalba](Marco_Costalba "Marco Costalba") from [CCC](CCC "CCC"), May 09, 2009
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Piece attacks count](http://www.talkchess.com/forum/viewtopic.php?t=27965) by [Marco Costalba](Marco_Costalba "Marco Costalba") from [CCC](CCC "CCC"), May 18, 2009
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Sideways Add / Population Count](http://cryptome.org/jya/sadd.htm) by [Jitze Couperus](http://www.couperus.org/) and [Steve Bellovin](Steven_M._Bellovin "Steven M. Bellovin") et al., [cryptography@c2.net](https://en.wikipedia.org/wiki/C2Net), January 28, 1999
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [sse-popcount/popcnt-avx512-harley-seal.cpp at master · WojciechMula/sse-popcount · GitHub](https://github.com/WojciechMula/sse-popcount/blob/master/popcnt-avx512-harley-seal.cpp)
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [David A. Wagner](Mathematician#DAWagner "Mathematician"), [Steven M. Bellovin](Steven_M._Bellovin "Steven M. Bellovin") (**1994**). *[A Programmable Plaintext Recognizer](http://academiccommons.columbia.edu/catalog/ac:127097)*.
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [AMD Athlon Processor x86 Code Optimization Guide](http://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/22007.pdf) (pdf) Efficient 64-Bit Population Count Using MMX™ Instructions Page 184
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [National Security Agency from Wikipedia](https://en.wikipedia.org/wiki/National_Security_Agency)
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [Ali Haurand from Wikipedia.de](https://de.wikipedia.org/wiki/Ali_Haurand) (German)
 
 **[Up one Level](Bitboards "Bitboards")**
 

@@ -7,7 +7,7 @@ title: TCEC Season 19
 
 
 
- [](https://tcec-chess.com/) TCEC Logo [[1]](#cite_note-1) 
+ [](https://tcec-chess.com/) TCEC Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **TCEC Season 19**,  
 
 the Top Chess Engine Championship (TCEC) Season 19 from August 06 until October 16, 2020. 
@@ -38,7 +38,7 @@ In total Stockfish won 18 and lost 9 games, 8 game pairs with both White wins, 1
 
 **[< Prev](TCEC_Season_18#Fourth "TCEC Season 18") [Next Q](TCEC_Season_20#Qual "TCEC Season 20") [Next 4 >](TCEC_Season_20#Fourth "TCEC Season 20")**  
 
-Qualification League, August 06 - August 12, 2020, timecontrol 30' + 5'' [[3]](#cite_note-3).
+Qualification League, August 06 - August 12, 2020, timecontrol 30' + 5'' <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 
 
@@ -239,7 +239,7 @@ Qualification League, August 06 - August 12, 2020, timecontrol 30' + 5'' [[3]](#
 
 **[< Prev](TCEC_Season_18#Third "TCEC Season 18") [Next >](TCEC_Season_20#Third "TCEC Season 20")**  
 
-League 3, August 12 - August 16, 2020, timecontrol 30' + 5'' [[4]](#cite_note-4).
+League 3, August 12 - August 16, 2020, timecontrol 30' + 5'' <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
 
 
@@ -390,7 +390,7 @@ League 3, August 12 - August 16, 2020, timecontrol 30' + 5'' [[4]](#cite_note-4)
 
 **[< Prev](TCEC_Season_18#Second "TCEC Season 18") [Next >](TCEC_Season_20#Second "TCEC Season 20")**  
 
-League 2, August 19 - August 23, 2020, timecontrol 30' + 5'' [[5]](#cite_note-5).
+League 2, August 19 - August 23, 2020, timecontrol 30' + 5'' <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 
 
@@ -435,7 +435,7 @@ League 2, August 19 - August 23, 2020, timecontrol 30' + 5'' [[5]](#cite_note-5)
  |  13
  |
 |  3
- | [RubiChess 1.8](RubiChess "RubiChess") [[6]](#cite_note-6) |  0 1
+ | [RubiChess 1.8](RubiChess "RubiChess") <a id="cite-note-6" href="#cite-ref-6">[6]</a> |  0 1
  |  ½ ½
  | **x** |  0 1
  |  ½ ½
@@ -541,7 +541,7 @@ League 2, August 19 - August 23, 2020, timecontrol 30' + 5'' [[5]](#cite_note-5)
 
 **[< Prev](TCEC_Season_18#First "TCEC Season 18") [Next >](TCEC_Season_20#First "TCEC Season 20")**  
 
-League 1, August 23 - August 28, 2020, timecontrol 45' + 5'' [[7]](#cite_note-7).
+League 1, August 23 - August 28, 2020, timecontrol 45' + 5'' <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
 
 
@@ -692,7 +692,7 @@ League 1, August 23 - August 28, 2020, timecontrol 45' + 5'' [[7]](#cite_note-7)
 
 **[< Prev](TCEC_Season_18#Premier "TCEC Season 18") [Next >](TCEC_Season_20#Premier "TCEC Season 20")**  
 
-August 30 - September 26, 2020, timecontrol 90' + 10'' [[8]](#cite_note-8), quad double [round robin](https://en.wikipedia.org/wiki/Round-robin_tournament), in total 224 games [[9]](#cite_note-9).
+August 30 - September 26, 2020, timecontrol 90' + 10'' <a id="cite-note-8" href="#cite-ref-8">[8]</a>, quad double [round robin](https://en.wikipedia.org/wiki/Round-robin_tournament), in total 224 games <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
 
 
 
@@ -803,7 +803,7 @@ August 30 - September 26, 2020, timecontrol 90' + 10'' [[8]](#cite_note-8), quad
 
 September 30 - October 16, 2020, timecontrol 120'+10"  
 
-[Stockfish 202009282242\_nn-baeb9ef2d183](Stockfish "Stockfish") - [LCZero v0.26.3-rc1\_T60.SV.JH.92-190](Leela_Chess_Zero "Leela Chess Zero") +18 =73 -9, **54½-45½** [[10]](#cite_note-10)
+[Stockfish 202009282242\_nn-baeb9ef2d183](Stockfish "Stockfish") - [LCZero v0.26.3-rc1\_T60.SV.JH.92-190](Leela_Chess_Zero "Leela Chess Zero") +18 =73 -9, **54½-45½** <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 
 
@@ -1414,16 +1414,16 @@ September 30 - October 16, 2020, timecontrol 120'+10"
 ## References
 
 
-1. [↑](#cite_ref-1) Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. [↑](#cite_ref-2) [Booot](Booot "Booot") not playing [L1](#First) due to missing crash fix, therefor [RubiChess](RubiChess "RubiChess") promoted
-3. [↑](#cite_ref-3) [S19 - Qualification League | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=19&div=ql&game=1)
-4. [↑](#cite_ref-4) [S19 - League 3 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=19&div=l3&game=1)
-5. [↑](#cite_ref-5) [S19 - League 2 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=19&div=l2&game=1)
-6. [↑](#cite_ref-6) Promotion due to missing crash fix of [Booot](Booot "Booot")
-7. [↑](#cite_ref-7) [S19 - League 1 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=19&div=l1&game=1)
-8. [↑](#cite_ref-8) [S19 - Premier Division | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=19&div=p&game=1)
-9. [↑](#cite_ref-9) News in [TCEC - Live Mode](https://tcec-chess.com/) Chat by Nightbot, Spetember 03, 2020: Some (19 out of 28) openings in the first DRR were not meant for Div P. Solution: 1. This DRR will be played with the current openings, as there is no major drama 2. From the new DRR the correct openings will be in play 3. To reduce SSS an extra 4th DRR will be added. Total number of games 224 (instead of 168)
-10. [↑](#cite_ref-10) [Opening selection TCEC 19 superfinal](http://blogchess2016.blogspot.com/2020/09/opening-selection-tcec-19-superfinal.html) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), September 19, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Booot](Booot "Booot") not playing [L1](#First) due to missing crash fix, therefor [RubiChess](RubiChess "RubiChess") promoted
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [S19 - Qualification League | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=19&div=ql&game=1)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [S19 - League 3 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=19&div=l3&game=1)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [S19 - League 2 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=19&div=l2&game=1)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Promotion due to missing crash fix of [Booot](Booot "Booot")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [S19 - League 1 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=19&div=l1&game=1)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [S19 - Premier Division | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=19&div=p&game=1)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> News in [TCEC - Live Mode](https://tcec-chess.com/) Chat by Nightbot, Spetember 03, 2020: Some (19 out of 28) openings in the first DRR were not meant for Div P. Solution: 1. This DRR will be played with the current openings, as there is no major drama 2. From the new DRR the correct openings will be in play 3. To reduce SSS an extra 4th DRR will be added. Total number of games 224 (instead of 168)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Opening selection TCEC 19 superfinal](http://blogchess2016.blogspot.com/2020/09/opening-selection-tcec-19-superfinal.html) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), September 19, 2020
 
 **[Up one level](TCEC "TCEC")**
 

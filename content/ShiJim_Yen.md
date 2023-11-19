@@ -5,10 +5,10 @@ title: ShiJim Yen
 
 
 
- [](http://web.csie.ndhu.edu.tw/sjyen/) Shi-Jim Yen [[1]](#cite_note-1) 
+ [](http://web.csie.ndhu.edu.tw/sjyen/) Shi-Jim Yen <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Shi-Jim Yen**,  
 
-a Taiwanese 6-dan [Go](Go "Go") player, computer scientist, professor at Department of Computer Science and Information Engineering, [National Dong Hwa University](https://en.wikipedia.org/wiki/National_Dong_Hwa_University), [Hualien](https://en.wikipedia.org/wiki/Hualien_County), and standing director of the [Taiwanese Computer Game Association](index.php?title=TCGA&action=edit&redlink=1 "TCGA (page does not exist)") (TCGA), and director of the [Taiwanese Association for Artificial Intelligence](index.php?title=TAAI&action=edit&redlink=1 "TAAI (page does not exist)") (TAAI) [[2]](#cite_note-2). He received his Ph.D. degree in CS and [information engineering](https://en.wikipedia.org/wiki/Information_engineering) from [National Taiwan University](National_Taiwan_University "National Taiwan University") in 1999. His research interests include [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") and [computer games](Games "Games") with focus on [Go](Go "Go"), [Chinese Chess](Chinese_Chess "Chinese Chess"), [Connect6](Connect6 "Connect6") and [Othello](Othello "Othello"). In 2012, he invented [Outer-Open Gomoku](index.php?title=Outer-Open_Gomoku&action=edit&redlink=1 "Outer-Open Gomoku (page does not exist)"), which has the same rules as free-style [Gomoku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)") [[3]](#cite_note-3), but restricts Black to play at the two outer rows or columns of the board for the first move [[4]](#cite_note-4). 
+a Taiwanese 6-dan [Go](Go "Go") player, computer scientist, professor at Department of Computer Science and Information Engineering, [National Dong Hwa University](https://en.wikipedia.org/wiki/National_Dong_Hwa_University), [Hualien](https://en.wikipedia.org/wiki/Hualien_County), and standing director of the [Taiwanese Computer Game Association](index.php?title=TCGA&action=edit&redlink=1 "TCGA (page does not exist)") (TCGA), and director of the [Taiwanese Association for Artificial Intelligence](index.php?title=TAAI&action=edit&redlink=1 "TAAI (page does not exist)") (TAAI) <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He received his Ph.D. degree in CS and [information engineering](https://en.wikipedia.org/wiki/Information_engineering) from [National Taiwan University](National_Taiwan_University "National Taiwan University") in 1999. His research interests include [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") and [computer games](Games "Games") with focus on [Go](Go "Go"), [Chinese Chess](Chinese_Chess "Chinese Chess"), [Connect6](Connect6 "Connect6") and [Othello](Othello "Othello"). In 2012, he invented [Outer-Open Gomoku](index.php?title=Outer-Open_Gomoku&action=edit&redlink=1 "Outer-Open Gomoku (page does not exist)"), which has the same rules as free-style [Gomoku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, but restricts Black to play at the two outer rows or columns of the board for the first move <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
 
 
 
@@ -16,14 +16,14 @@ a Taiwanese 6-dan [Go](Go "Go") player, computer scientist, professor at Departm
 
 
  [](File:Turin2006ChinesChess.JPG) 
-[11th Computer Olympiad 2006](11th_Computer_Olympiad#ChineseChess "11th Computer Olympiad"), [Chinese Chess](Chinese_Chess "Chinese Chess") , Shi-Jim Yen, [Pascal Tang](Pascal_Tang "Pascal Tang") and [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang") [[6]](#cite_note-6)
+[11th Computer Olympiad 2006](11th_Computer_Olympiad#ChineseChess "11th Computer Olympiad"), [Chinese Chess](Chinese_Chess "Chinese Chess") , Shi-Jim Yen, [Pascal Tang](Pascal_Tang "Pascal Tang") and [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 
 
 ## Selected Publications
 
 
-[[7]](#cite_note-7)
+<a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 
 
@@ -58,19 +58,19 @@ a Taiwanese 6-dan [Go](Go "Go") player, computer scientist, professor at Departm
 * [Hsin-Hung Chou](index.php?title=Hsin-Hung_Chou&action=edit&redlink=1 "Hsin-Hung Chou (page does not exist)"), [Shi-Yuan Chiu](index.php?title=Shi-Yuan_Chiu&action=edit&redlink=1 "Shi-Yuan Chiu (page does not exist)"), Shi-Jim Yen (**2010**). *Cpuzzler wins Light Up Tournament*. [ICGA Journal, Vol. 33, No. 4](ICGA_Journal#33_4 "ICGA Journal") » [15th Computer Olympiad](15th_Computer_Olympiad#LightUp "15th Computer Olympiad")
 * [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), Shi-Jim Yen (**2010**). *HappyNuri wins Nurikabe Tournament*. [ICGA Journal, Vol. 33, No. 4](ICGA_Journal#33_4 "ICGA Journal") » [15th Computer Olympiad](15th_Computer_Olympiad#Nurikabe "15th Computer Olympiad")
 * [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), Shi-Jim Yen, [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang"), [Shang-Rong Tsai](index.php?title=Shang-Rong_Tsai&action=edit&redlink=1 "Shang-Rong Tsai (page does not exist)") (**2010**). *Current Frontiers in Computer Go*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2
-* Shi-Jim Yen, [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)") (**2010**). *Solving Fillomino With Efficient Algorithm*. [GPW 2010](Conferences#GPW15 "Conferences") [[8]](#cite_note-8)
+* Shi-Jim Yen, [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)") (**2010**). *Solving Fillomino With Efficient Algorithm*. [GPW 2010](Conferences#GPW15 "Conferences") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 * Shi-Jim Yen, [Jung-Kuei Yang](Jung-Kuei_Yang "Jung-Kuei Yang") (**2010**). *[Searching for Stage Proof Number in Connect6](https://www.semanticscholar.org/paper/Searching-for-Stage-Proof-Number-in-Connect6-Yen-Yang/2de70372893e8773b12391f75d2b964ea7fb6df2)*. [TAAI 2010](index.php?title=TAAI_2010&action=edit&redlink=1 "TAAI 2010 (page does not exist)")
-* Shi-Jim Yen, [Shih-Yuan Chiu](index.php?title=Shih-Yuan_Chiu&action=edit&redlink=1 "Shih-Yuan Chiu (page does not exist)"), [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)") (**2010**). *Hashi Solver*. [GPW 2010](Conferences#GPW15 "Conferences"), [pdf](http://www1.rdoffice.ndhu.edu.tw/exchange/abroad/abroad99/31_paper.pdf) [[9]](#cite_note-9)
+* Shi-Jim Yen, [Shih-Yuan Chiu](index.php?title=Shih-Yuan_Chiu&action=edit&redlink=1 "Shih-Yuan Chiu (page does not exist)"), [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)") (**2010**). *Hashi Solver*. [GPW 2010](Conferences#GPW15 "Conferences"), [pdf](http://www1.rdoffice.ndhu.edu.tw/exchange/abroad/abroad99/31_paper.pdf) <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 **2011**
 
 
 
-* [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin"), [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), Shi-Jim Yen (**2011**). *The 2010 TAAI Computer Game Tournaments*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal") [[10]](#cite_note-10)
+* [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin"), [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), Shi-Jim Yen (**2011**). *The 2010 TAAI Computer Game Tournaments*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 * Shi-Jim Yen, [Shi-Yuan Chiu](index.php?title=Shi-Yuan_Chiu&action=edit&redlink=1 "Shi-Yuan Chiu (page does not exist)"), [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen") (**2011**). *Cpuzzler wins Nonogram Tournament*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal") » [15th Computer Olympiad](15th_Computer_Olympiad#Nonogram "15th Computer Olympiad")
 * Shi-Jim Yen, [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu") (**2011**). *Shiga wins Chinese Chess Tournament*. [ICGA Journal, Vol. 34, No. 2](ICGA_Journal#34_2 "ICGA Journal") » [15th Computer Olympiad](15th_Computer_Olympiad#ChineseChess "15th Computer Olympiad")
-* [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), Shi-Jim Yen (**2011**). *Revisiting Monte-Carlo Tree Search on a Normal Form Game: NoGo*. [EvoApplications 2011](http://www.informatik.uni-trier.de/~ley/db/conf/evoW/evoappl2011-1.html#ChouTY11) [[11]](#cite_note-11)
+* [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), Shi-Jim Yen (**2011**). *Revisiting Monte-Carlo Tree Search on a Normal Form Game: NoGo*. [EvoApplications 2011](http://www.informatik.uni-trier.de/~ley/db/conf/evoW/evoappl2011-1.html#ChouTY11) <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 * Shi-Jim Yen, [Jung-Kuei Yang](Jung-Kuei_Yang "Jung-Kuei Yang") (**2011**). *Two-Stage Monte Carlo Tree Search for Connect6*. [IEEE Transactions on Computational Intelligence and AI in Games, Vol. 3](http://www.informatik.uni-trier.de/~ley/db/journals/tciaig/tciaig3.html#YenY11)
 * [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), [Ping-Chiang Chou](index.php?title=Ping-Chiang_Chou&action=edit&redlink=1 "Ping-Chiang Chou (page does not exist)"), [Hassen Doghmen](index.php?title=Hassen_Doghmen&action=edit&redlink=1 "Hassen Doghmen (page does not exist)"), [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)"), [Fabien Teytaud](Fabien_Teytaud "Fabien Teytaud"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Hui-Ming Wang](index.php?title=Hui-Ming_Wang&action=edit&redlink=1 "Hui-Ming Wang (page does not exist)"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang"), [Li-Wen Wu](index.php?title=Li-Wen_Wu&action=edit&redlink=1 "Li-Wen Wu (page does not exist)"), Shi-Jim Yen (**2011**). *[Towards a Solution of 7x7 Go with Meta-MCTS](http://link.springer.com/chapter/10.1007/978-3-642-31866-5_8)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
 
@@ -102,7 +102,7 @@ a Taiwanese 6-dan [Go](Go "Go") player, computer scientist, professor at Departm
 * [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), Shi-Jim Yen (**2013**). *MOBILE 6 Wins Connect6 Tournament*. [ICGA Journal, Vol. 36, No. 3](ICGA_Journal#36_3 "ICGA Journal") » [17th Computer Olympiad](17th_Computer_Olympiad#Connect6 "17th Computer Olympiad")
 * [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [Li-Kai Chuang](Li-Kai_Chuang "Li-Kai Chuang"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), Shi-Jim Yen (**2013**). *LONGCAT Wins Mahjong Tournament*. [ICGA Journal, Vol. 36, No. 3](ICGA_Journal#36_3 "ICGA Journal") » [17th Computer Olympiad](17th_Computer_Olympiad#Mahjong "17th Computer Olympiad")
 * [Chih-Hung Chen](Chih-Hung_Chen "Chih-Hung Chen"), [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin") (**2013**). *Effective Integration Frameworks for Combining Computer Gaming programs with the Grid Computing System*. [JSAI 2013](http://2013.conf.ai-gakkai.or.jp/english-info)
-* [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang"), [Yu-Jen Chen](index.php?title=Yu-Jen_Chen&action=edit&redlink=1 "Yu-Jen Chen (page does not exist)"), Shi-Jim Yen (**2013**). *Apply Fuzzy Markup Language to Knowledge Representation for Game of Computer Go*. in [Giovanni Acampora](https://dblp.uni-trier.de/pers/hd/a/Acampora:Giovanni), [Vincenzo Loia](https://dblp.uni-trier.de/pers/hd/l/Loia:Vincenzo), [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang") (eds.) (**2013**). *[On the Power of Fuzzy Markup Language](https://link.springer.com/book/10.1007%2F978-3-642-35488-5)*. [Studies in Fuzziness and Soft Computing](https://link.springer.com/bookseries/2941), Vol. 296, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media) [[12]](#cite_note-12)
+* [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang"), [Yu-Jen Chen](index.php?title=Yu-Jen_Chen&action=edit&redlink=1 "Yu-Jen Chen (page does not exist)"), Shi-Jim Yen (**2013**). *Apply Fuzzy Markup Language to Knowledge Representation for Game of Computer Go*. in [Giovanni Acampora](https://dblp.uni-trier.de/pers/hd/a/Acampora:Giovanni), [Vincenzo Loia](https://dblp.uni-trier.de/pers/hd/l/Loia:Vincenzo), [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang") (eds.) (**2013**). *[On the Power of Fuzzy Markup Language](https://link.springer.com/book/10.1007%2F978-3-642-35488-5)*. [Studies in Fuzziness and Soft Computing](https://link.springer.com/bookseries/2941), Vol. 296, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media) <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 * [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), Shi-Jim Yen, [Yi-Chang Shan](Yi-Chang_Shan "Yi-Chang Shan") (**2013**). *[Incentive Learning in Monte Carlo Tree Search](https://ieeexplore.ieee.org/document/6468079)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 5, No. 4
 
 
@@ -153,18 +153,18 @@ a Taiwanese 6-dan [Go](Go "Go") player, computer scientist, professor at Departm
 ## References
 
 
-1. [↑](#cite_ref-1) [Shi-Jim Yen - Bio](http://web.csie.ndhu.edu.tw/sjyen/)
-2. [↑](#cite_ref-2) [Shi-Jim Yen - Bio](http://web.csie.ndhu.edu.tw/sjyen/)
-3. [↑](#cite_ref-3) [Gomoku from Wikipedia](https://en.wikipedia.org/wiki/Gomoku)
-4. [↑](#cite_ref-4) [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Chih-Hung Chen](Chih-Hung_Chen "Chih-Hung Chen"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), Shi-Jim Yen, [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen") (**2014**). *TCGA 2014 Computer Game Tournament*. [ICGA Journal, Vol. 37, No. 4](ICGA_Journal#37_4 "ICGA Journal")
-5. [↑](#cite_ref-5) [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)"), Shi-Jim Yen (**2014**). *TAAI 2013 Computer Game Tournaments*. [ICGA Journal, Vol. 37, No. 1](ICGA_Journal#37_1 "ICGA Journal")
-6. [↑](#cite_ref-6) Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [WCCC 2006](WCCC_2006 "WCCC 2006")
-7. [↑](#cite_ref-7) [dblp: Shi-Jim Yen](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/y/Yen:Shi=Jim.html)
-8. [↑](#cite_ref-8) [Fillomino from Wikipedia](https://en.wikipedia.org/wiki/Fillomino)
-9. [↑](#cite_ref-9) [Hashiwokakero from Wikipedia](https://en.wikipedia.org/wiki/Hashiwokakero)
-10. [↑](#cite_ref-10) [TAAI Computer Game Tournaments](http://aigames.nctu.edu.tw/TAAI2011/eng/)
-11. [↑](#cite_ref-11) [NoGo (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/game.php?id=47)
-12. [↑](#cite_ref-12) [Fuzzy markup language (FML) from Wikipedia](https://en.wikipedia.org/wiki/Fuzzy_markup_language)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Shi-Jim Yen - Bio](http://web.csie.ndhu.edu.tw/sjyen/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shi-Jim Yen - Bio](http://web.csie.ndhu.edu.tw/sjyen/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gomoku from Wikipedia](https://en.wikipedia.org/wiki/Gomoku)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Chih-Hung Chen](Chih-Hung_Chen "Chih-Hung Chen"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), Shi-Jim Yen, [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen") (**2014**). *TCGA 2014 Computer Game Tournament*. [ICGA Journal, Vol. 37, No. 4](ICGA_Journal#37_4 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)"), Shi-Jim Yen (**2014**). *TAAI 2013 Computer Game Tournaments*. [ICGA Journal, Vol. 37, No. 1](ICGA_Journal#37_1 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [WCCC 2006](WCCC_2006 "WCCC 2006")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [dblp: Shi-Jim Yen](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/y/Yen:Shi=Jim.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Fillomino from Wikipedia](https://en.wikipedia.org/wiki/Fillomino)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Hashiwokakero from Wikipedia](https://en.wikipedia.org/wiki/Hashiwokakero)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [TAAI Computer Game Tournaments](http://aigames.nctu.edu.tw/TAAI2011/eng/)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [NoGo (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/game.php?id=47)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Fuzzy markup language (FML) from Wikipedia](https://en.wikipedia.org/wiki/Fuzzy_markup_language)
 
 **[Up one Level](People "People")**
 

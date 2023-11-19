@@ -7,7 +7,7 @@ title: TCEC Season 10
 
 
 
- [](https://tcec-chess.com/) TCEC Logo [[1]](#cite_note-1) 
+ [](https://tcec-chess.com/) TCEC Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **TCEC Season 10**,  
 
 the Top Chess Engine Championship (TCEC) Season 10 started on October 14, [2017](Timeline#2017 "Timeline"). 
@@ -855,7 +855,7 @@ Season 10, Stage 2, November 06 - 20, 2017. The top two, [Houdini](Houdini "Houd
 **[< Prev](TCEC_Season_9#Superfinal "TCEC Season 9") [Next >](TCEC_Season_11#Superfinal "TCEC Season 11")**  
 
 The Season 10 Superfinal between [Houdini 6.03](Houdini "Houdini") and [Komodo 1970.00](Komodo "Komodo") was played from November 20 until December 08, 2017. 
-100 games with 50 different openings selected by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen") [[3]](#cite_note-3) . 
+100 games with 50 different openings selected by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen") <a id="cite-note-3" href="#cite-ref-3">[3]</a> . 
 
 
 
@@ -2977,7 +2977,7 @@ Season 10 was completed from December 25 until December 30, 2017 by a [Blitz](ht
 
  
 * [TCEC: Superfinal Houdini vs Komodo](https://en.chessbase.com/post/tcec-superfinal-houdini-vs-komodo) by [Stephan Oliver Platz](index.php?title=Stephan_Oliver_Platz&action=edit&redlink=1 "Stephan Oliver Platz (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), November 23, 2017
-* [Houdini with a six point lead near the halfway point of TCEC](http://www.chessdom.com/houdini-with-a-six-point-lead-near-the-halfway-point-of-tcec/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), November 28, 2017 [[4]](#cite_note-4)
+* [Houdini with a six point lead near the halfway point of TCEC](http://www.chessdom.com/houdini-with-a-six-point-lead-near-the-halfway-point-of-tcec/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), November 28, 2017 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 * [Houdini is TCEC Season 10 champion!](http://www.chessdom.com/houdini-is-tcec-season-10-champion/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), December 07, 2017
 * [Interview with Robert Houdart, author of the champion engine Houdini](http://www.chessdom.com/interview-with-robert-houdart-author-of-the-champion-engine-houdini/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), December 08, 2017
 * [Houdini wins TCEC Superfinal](https://en.chessbase.com/post/houdini-wins-the-tcec-superfinal) by [Stephan Oliver Platz](index.php?title=Stephan_Oliver_Platz&action=edit&redlink=1 "Stephan Oliver Platz (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), December 13, 2017 » [Houdini](Houdini "Houdini")
@@ -2986,10 +2986,10 @@ Season 10 was completed from December 25 until December 30, 2017 by a [Blitz](ht
 ## References
 
 
-1. [↑](#cite_ref-1) Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. [↑](#cite_ref-2) [TCEC Season 10 starts this Saturday at 14:00 CEST](http://www.chessdom.com/tcec-season-10-starts-this-saturday-at-1400-cest/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), October 12, 2017
-3. [↑](#cite_ref-3) [Opening selection for the TCEC 10 superfinal](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=32364) by [Venator](Jeroen_Noomen "Jeroen Noomen"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), November 18, 2017
-4. [↑](#cite_ref-4) [Houdini with a six point lead near the halfway point of TCEC](http://www.talkchess.com/forum/viewtopic.php?t=65839) by [Ted Summers](http://www.talkchess.com/forum/profile.php?mode=viewprofile&u=608), [CCC](CCC "CCC"), November 28, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TCEC Season 10 starts this Saturday at 14:00 CEST](http://www.chessdom.com/tcec-season-10-starts-this-saturday-at-1400-cest/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), October 12, 2017
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Opening selection for the TCEC 10 superfinal](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=32364) by [Venator](Jeroen_Noomen "Jeroen Noomen"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), November 18, 2017
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Houdini with a six point lead near the halfway point of TCEC](http://www.talkchess.com/forum/viewtopic.php?t=65839) by [Ted Summers](http://www.talkchess.com/forum/profile.php?mode=viewprofile&u=608), [CCC](CCC "CCC"), November 28, 2017
 
 **[Up one level](TCEC "TCEC")**
 

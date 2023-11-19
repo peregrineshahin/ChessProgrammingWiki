@@ -3,17 +3,17 @@ title: Hash TablePerfectHashing
 ---
 **[Home](Home "Home") * [Programming](Programming "Programming") * [Data](Data "Data") * Hash Table**
 
-\[ A small phone book as a hash table [[1]](#cite_note-1)
+\[ A small phone book as a hash table <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 A **Hash Table**, or a Hash Map, is a data structure that associates identifiers or keys (names, chess positions) with values (i. e. phone number, score of a position). A [hash function](https://en.wikipedia.org/wiki/Hash_function) is used for turning the key into a relatively small integer, the hash, that serves as an index into an [array](Array "Array").
 
 In a well-dimensioned hash table, the average cost for each lookup is independent of the number of elements stored in the table. In general programming as well in computer chess, hash tables often serve as [cache](https://en.wikipedia.org/wiki/Cache) for once calculated values, to save relative expensive computations over and over again.
 
 ## Perfect Hashing
 
-\[ A perfect hash function [[2]](#cite_note-2)
+\[ A perfect hash function <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 If all of the keys are known at compile or initialization time and their cardinality is reasonable small, a perfect hash table can be created, in which there will be no collisions, since each key has an unique index. Opposed to Minimal Perfect Hashing, the lookup [array](Array "Array") contains either gaps or multiple entries.
 
-Applications in computer chess are hashing of masked [occupied bitboards](Occupancy "Occupancy"), to map for instance [attack sets of sliding pieces](Sliding_Piece_Attacks "Sliding Piece Attacks") ([rooks](Rook "Rook"), [bishops](Bishop "Bishop")) on a particular [square](Squares "Squares"), or [pawn shield](King_Safety#PawnShield "King Safety") stuff. [Another application](Material_Tables "Material Tables"), despite a reversible hash function, is a precomputed table indexed by some [material](Material "Material") key, likely an [incremental updated](Incremental_Updates "Incremental Updates") [dot-product](https://en.wikipedia.org/wiki/Dot_product) of all piece-type counts in some fixed order, by a vector of cumulated maximum count products of pieces ordered below, usually ignoring unusual material configurations due to [promotions](Promotions "Promotions") [[3]](#cite_note-3) . Persistent, or on the fly generated [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") and [Bitbases](Endgame_Bitbases "Endgame Bitbases") containing [perfect knowledge](Knowledge#PerfectKnowledge "Knowledge") by [retrograde analyses](Retrograde_Analysis "Retrograde Analysis") of certain [material](Material "Material") constellations with a few pieces in late endings might be considered as a kind of perfect hashing as well.
+Applications in computer chess are hashing of masked [occupied bitboards](Occupancy "Occupancy"), to map for instance [attack sets of sliding pieces](Sliding_Piece_Attacks "Sliding Piece Attacks") ([rooks](Rook "Rook"), [bishops](Bishop "Bishop")) on a particular [square](Squares "Squares"), or [pawn shield](King_Safety#PawnShield "King Safety") stuff. [Another application](Material_Tables "Material Tables"), despite a reversible hash function, is a precomputed table indexed by some [material](Material "Material") key, likely an [incremental updated](Incremental_Updates "Incremental Updates") [dot-product](https://en.wikipedia.org/wiki/Dot_product) of all piece-type counts in some fixed order, by a vector of cumulated maximum count products of pieces ordered below, usually ignoring unusual material configurations due to [promotions](Promotions "Promotions") <a id="cite-note-3" href="#cite-ref-3">[3]</a> . Persistent, or on the fly generated [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") and [Bitbases](Endgame_Bitbases "Endgame Bitbases") containing [perfect knowledge](Knowledge#PerfectKnowledge "Knowledge") by [retrograde analyses](Retrograde_Analysis "Retrograde Analysis") of certain [material](Material "Material") constellations with a few pieces in late endings might be considered as a kind of perfect hashing as well.
 
 - [Walter Faxon's Magic BitScan](BitScan#WalterFaxonsmagicBitscan "BitScan")
 - [BitScan by Modulo](BitScan#BitscanByModulo "BitScan")
@@ -27,7 +27,7 @@ Applications in computer chess are hashing of masked [occupied bitboards](Occupa
 
 ## Minimal Perfect Hashing
 
-\[ Minimal perfect hash function [[4]](#cite_note-4)
+\[ Minimal perfect hash function <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 If the hash [array](Array "Array") has no gaps and unique, distinct values, so called Minimal Perfect Hashing is applied, like in following [bitboard](Bitboards "Bitboards") hashing for [bitscan](BitScan "BitScan") purpose or determining pre-calculated [move lists](Move_List "Move List") by [move target](Target_Square "Target Square") sets of [knights](Knight "Knight") and [king](King "King").
 
 - [De Bruijn Multiplication](BitScan#DeBruijnMultiplation "BitScan")
@@ -65,7 +65,7 @@ The classical hash table implementation in computer chess are the [transposition
 ## 1970 ...
 
 - [Albert Zobrist](Albert_Zobrist "Albert Zobrist") (**1970**). *A New Hashing Method with Application for Game Playing*. Technical Report #88, Computer Science Department, The University of Wisconsin, Madison, WI, USA. Reprinted (**1990**) in [ICCA Journal, Vol. 13, No. 2](ICGA_Journal#13_3 "ICGA Journal"), [pdf](http://www.cs.wisc.edu/techreports/1970/TR88.pdf)
-- [Burton H. Bloom](https://en.wikipedia.org/wiki/Bloom_filter) (**1970**). *[Space/time trade-offs in hash coding with allowable errors](http://portal.acm.org/citation.cfm?id=362692)*. Comm. of the ACM, Vol. 13, No. 7, [pdf](http://www.lsi.upc.edu/%7Ediaz/p422-bloom.pdf) [[5]](#cite_note-5)
+- [Burton H. Bloom](https://en.wikipedia.org/wiki/Bloom_filter) (**1970**). *[Space/time trade-offs in hash coding with allowable errors](http://portal.acm.org/citation.cfm?id=362692)*. Comm. of the ACM, Vol. 13, No. 7, [pdf](http://www.lsi.upc.edu/%7Ediaz/p422-bloom.pdf) <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 - [F R A Hopgood](http://www.bahfrah.org.uk/bio/index.htm), [J. Davenport](http://people.bath.ac.uk/masjhd/) (**1972**). *[The quadratic hash method when the table size is a power of 2](http://www.chilton-computing.org.uk/acl/literature/reports/p012.htm)*. [Literature: Reports](http://www.chilton-computing.org.uk/acl/literature/reports/overview.htm) hosted by [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
 - [F R A Hopgood](http://www.bahfrah.org.uk/bio/index.htm) (**1974**). *[Computer Animation used as a Tool in Teaching Computer Science](http://www.chilton-computing.org.uk/acl/literature/reports/p007.htm)*. [Literature: Reports](http://www.chilton-computing.org.uk/acl/literature/reports/overview.htm) hosted by [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
 - [Ole Amble](http://www.informatik.uni-trier.de/~ley/pers/hd/a/Amble:Ole.html), [Donald Knuth](Donald_Knuth "Donald Knuth") (**1974**). *Ordered Hash Tables*. [The Computer Journal](https://en.wikipedia.org/wiki/The_Computer_Journal), Vol. 17
@@ -77,7 +77,7 @@ The classical hash table implementation in computer chess are the [transposition
 - [Harry Nelson](Harry_Nelson "Harry Nelson") (**1985**). *Hash Tables in Cray Blitz*. [ICCA Journal, Vol. 8, No. 1](ICGA_Journal#8_1 "ICGA Journal") » [Cray Blitz](Cray_Blitz "Cray Blitz")
 - [Tony Warnock](Tony_Warnock "Tony Warnock"), [Burton Wendroff](Burton_Wendroff "Burton Wendroff") (**1988**). *Search Tables in Computer Chess*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
 - [Ivan Damgård](Mathematician#IDamgard "Mathematician") (**1989**). *A Design Principle for Hash Functions*. [CRYPTO '89](http://www.informatik.uni-trier.de/~ley/db/conf/crypto/crypto89.html)
-- [Ralph C. Merkle](Mathematician#RMerkle "Mathematician") (**1989**). *One Way Hash Functions and DES*. [CRYPTO '89](http://www.informatik.uni-trier.de/~ley/db/conf/crypto/crypto89.html) [[6]](#cite_note-6)
+- [Ralph C. Merkle](Mathematician#RMerkle "Mathematician") (**1989**). *One Way Hash Functions and DES*. [CRYPTO '89](http://www.informatik.uni-trier.de/~ley/db/conf/crypto/crypto89.html) <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ## 1990 ...
 
@@ -85,7 +85,7 @@ The classical hash table implementation in computer chess are the [transposition
 - [Warren D. Smith](Warren_D._Smith "Warren D. Smith") (**1992**). *Hash functions for Binary and Ternary Words*. [NEC Research Institute](https://en.wikipedia.org/wiki/NEC_Corporation_of_America), [ps](http://scorevoting.net/WarrenSmithPages/homepage/gohash.ps)
 - [Martin Dietzfelbinger](Mathematician#MDietzfelbinger "Mathematician"), [Anna Karlin](https://en.wikipedia.org/wiki/Anna_Karlin), [Kurt Mehlhorn](Mathematician#KMehlhorn "Mathematician"), [Friedhelm Meyer auf der Heide](Mathematician#FMeyerAdH "Mathematician"), [Hans Rohnert](https://plus.google.com/105803273623353288634/posts), [Robert E. Tarjan](Mathematician#RETarjan "Mathematician") (**1994**). *[Dynamic Perfect Hashing: Upper and Lower Bounds](http://epubs.siam.org/doi/abs/10.1137/S0097539791194094)*. [SIAM Journal on Computing](https://en.wikipedia.org/wiki/SIAM_Journal_on_Computing), Vol. 23, Nr. 4
 - [Zbigniew J. Czech](http://sun.aei.polsl.pl/~zjc/), [George Havas](http://itee.uq.edu.au/~havas/), [Bohdan S. Majewski](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Majewski:Bohdan_S=.html) (**1997**). *Perfect Hashing*. Theoretical Computer Science, Vol. 182, Nos. 1-2, pp. 1-143
-- [Bob Jenkins](Bob_Jenkins "Bob Jenkins") (**1997**). *Hash functions*. [Dr. Dobb's Journal](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal), September 1997 [[7]](#cite_note-7)
+- [Bob Jenkins](Bob_Jenkins "Bob Jenkins") (**1997**). *Hash functions*. [Dr. Dobb's Journal](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal), September 1997 <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 - [Donald E. Knuth](Donald_Knuth "Donald Knuth") (**1998**). *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~knuth/taocp.html)*. Volume 3 - Sorting and Searching, 6.4 about universal hashing, (second edition), [amazom](http://www.amazon.com/Art-Computer-Programming-Sorting-Searching/dp/0201896850)
 - [Dennis Breuker](Dennis_Breuker "Dennis Breuker") (**1998**). *[Memory versus Search in Games](http://www.dennisbreuker.nl/thesis/)*. Ph.D. Thesis, [Universiteit Maastricht](Maastricht_University "Maastricht University"), The Netherlands. ISBN 90-9012006-8.
 - [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson"), [Harald Prokop](Harald_Prokop "Harald Prokop"), [Keith H. Randall](Keith_H._Randall "Keith H. Randall") (**1998**). *Using de Bruijn Sequences to Index a 1 in a Computer Word*, [pdf](http://supertech.csail.mit.edu/papers/debruijn.pdf) » [BitScan](BitScan "BitScan")
@@ -105,18 +105,18 @@ The classical hash table implementation in computer chess are the [transposition
 - [Jiao Wang](Jiao_Wang "Jiao Wang"), [Si-Zhong Li](index.php?title=Si-Zhong_Li&action=edit&redlink=1 "Si-Zhong Li (page does not exist)"), [Xin-He Xu](Xinhe_Xu "Xinhe Xu") (**2010**). *A Minors Hash Table in Chinese-Chess Programs*. [ICGA Journal, Vol. 33, No. 1](ICGA_Journal#33_1 "ICGA Journal")
 - [Mihai Pătrașcu](Mathematician#MPatrascu "Mathematician"), [Mikkel Thorup](Mathematician#MThorup "Mathematician") (**2011**). *The Power of Simple Tabulation Hashing*. [arXiv:1011.5200v2](http://arxiv.org/abs/1011.5200)
 - [Dan Anthony Feliciano Alcantara](index.php?title=Dan_Anthony_Feliciano_Alcantara&action=edit&redlink=1 "Dan Anthony Feliciano Alcantara (page does not exist)") (**2011**). *Effcient Hash Tables on the GPU*. Ph.D. thesis, [University of California, Davis](https://en.wikipedia.org/wiki/University_of_California,_Davis), [pdf](http://idav.ucdavis.edu/~dfalcant//downloads/dissertation.pdf) » [GPU](GPU "GPU")
-- [John Tromp](John_Tromp "John Tromp") (**2014**). *[Cuckoo Cycle: a memory-hard proof-of-work system](https://github.com/tromp/cuckoo/blob/master/cuckoo.pdf)*. [IACR Cryptology ePrint Archive](http://www.informatik.uni-trier.de/~ley/db/journals/iacr/iacr2014.html#Tromp14) [[8]](#cite_note-8) [[9]](#cite_note-9)
+- [John Tromp](John_Tromp "John Tromp") (**2014**). *[Cuckoo Cycle: a memory-hard proof-of-work system](https://github.com/tromp/cuckoo/blob/master/cuckoo.pdf)*. [IACR Cryptology ePrint Archive](http://www.informatik.uni-trier.de/~ley/db/journals/iacr/iacr2014.html#Tromp14) <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 - [David Eppstein](David_Eppstein "David Eppstein"), [Michael T. Goodrich](Mathematician#MTGoodrich "Mathematician"), [Michael Mitzenmacher](Mathematician#MMitzenmacher "Mathematician"), [Paweł Pszona](https://dblp.uni-trier.de/pers/hd/p/Pszona:Pawel) (**2014**). *Wear Minimization for Cuckoo Hashing: How Not to Throw a Lot of Eggs into One Basket*. [arXiv:1404.0286](https://arxiv.org/abs/1404.0286)
-- [Thomas Dybdahl Ahle](Thomas_Dybdahl_Ahle "Thomas Dybdahl Ahle"), [Martin Aumüller](Mathematician#MAumueller "Mathematician"), [Rasmus Pagh](Mathematician#RPagh "Mathematician") (**2016**). *Parameter-free Locality Sensitive Hashing for Spherical Range Reporting*. [arXiv:1605.02673](https://arxiv.org/abs/1605.02673) [[10]](#cite_note-10)
+- [Thomas Dybdahl Ahle](Thomas_Dybdahl_Ahle "Thomas Dybdahl Ahle"), [Martin Aumüller](Mathematician#MAumueller "Mathematician"), [Rasmus Pagh](Mathematician#RPagh "Mathematician") (**2016**). *Parameter-free Locality Sensitive Hashing for Spherical Range Reporting*. [arXiv:1605.02673](https://arxiv.org/abs/1605.02673) <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 - [Tobias Maier](https://dblp.uni-trier.de/pers/hd/m/Maier:Tobias), [Peter Sanders](Peter_Sanders "Peter Sanders"), [Roman Dementiev](https://dblp.uni-trier.de/pers/hd/d/Dementiev:Roman) (**2016**). *Concurrent Hash Tables: Fast and General?(!)*. [arXiv:1601.04017](https://arxiv.org/abs/1601.04017)
-- [Thomas Dybdahl Ahle](Thomas_Dybdahl_Ahle "Thomas Dybdahl Ahle") (**2017**). *Optimal Set Similarity Data-structures Without False Negatives*. Master thesis, [University of Copenhagen](https://en.wikipedia.org/wiki/University_of_Copenhagen), [pdf](http://www.itu.dk/people/thdy/papers/minhash.pdf) [[11]](#cite_note-11)
+- [Thomas Dybdahl Ahle](Thomas_Dybdahl_Ahle "Thomas Dybdahl Ahle") (**2017**). *Optimal Set Similarity Data-structures Without False Negatives*. Master thesis, [University of Copenhagen](https://en.wikipedia.org/wiki/University_of_Copenhagen), [pdf](http://www.itu.dk/people/thdy/papers/minhash.pdf) <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 - [Tobias Maier](https://dblp.uni-trier.de/pers/hd/m/Maier:Tobias), [Peter Sanders](Peter_Sanders "Peter Sanders") (**2017**). *Dynamic Space Efficient Hashing*. [arXiv:1705.00997](https://arxiv.org/abs/1705.00997)
 - [Peter Sanders](Peter_Sanders "Peter Sanders") (**2018**). *Hashing with Linear Probing and Referential Integrity*. [arXiv:1808.04602](https://arxiv.org/abs/1808.04602)
 
 ## 2020 ...
 
 - [Niklas Fiekas](Niklas_Fiekas "Niklas Fiekas") (**2020**). *[The Hashtable Packing Problem](https://backscattering.de/chess/hashtable-packing/)*. (Draft)
-- [Thomas Dybdahl Ahle](Thomas_Dybdahl_Ahle "Thomas Dybdahl Ahle"), [Jakob Tejs Bæk Knudsen](https://dblp.uni-trier.de/pid/236/4491.html), [Mikkel Thorup](Mathematician#MThorup "Mathematician") (**2020**). *The Power of Hashing with Mersenne Primes*. [arXiv:2008.08654](https://arxiv.org/abs/2008.08654) [[12]](#cite_note-12)
+- [Thomas Dybdahl Ahle](Thomas_Dybdahl_Ahle "Thomas Dybdahl Ahle"), [Jakob Tejs Bæk Knudsen](https://dblp.uni-trier.de/pid/236/4491.html), [Mikkel Thorup](Mathematician#MThorup "Mathematician") (**2020**). *The Power of Hashing with Mersenne Primes*. [arXiv:2008.08654](https://arxiv.org/abs/2008.08654) <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 ## Forum Posts
 
@@ -157,7 +157,7 @@ The classical hash table implementation in computer chess are the [transposition
 
 - [hash collisions](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72932) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), January 28, 2020 » [Key Collisions](Transposition_Table#KeyCollisions "Transposition Table")
 - [Dense board representation as hash code](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72964) by koedem, [CCC](CCC "CCC"), February 01, 2020
-- [Hashtable packing (e.g. to optimize magic bitboards) is strongly NP-complete](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73071) by [Niklas Fiekas](Niklas_Fiekas "Niklas Fiekas"), [CCC](CCC "CCC"), February 13, 2020 » [Magic Bitboards](Magic_Bitboards "Magic Bitboards") [[13]](#cite_note-13)
+- [Hashtable packing (e.g. to optimize magic bitboards) is strongly NP-complete](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73071) by [Niklas Fiekas](Niklas_Fiekas "Niklas Fiekas"), [CCC](CCC "CCC"), February 13, 2020 » [Magic Bitboards](Magic_Bitboards "Magic Bitboards") <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 - [Zobrist key independence](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73110) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), February 17, 2020 » [Zobrist Hashing](Zobrist_Hashing "Zobrist Hashing")
 
 ## External Links
@@ -180,7 +180,7 @@ The classical hash table implementation in computer chess are the [transposition
 [Koorde](https://en.wikipedia.org/wiki/Koorde) based on [Chord](https://en.wikipedia.org/wiki/Chord_%28peer-to-peer%29) and [De Bruijn Sequence](De_Bruijn_Sequence "De Bruijn Sequence")
 
 - [Transposition-driven scheduling - Wikipedia](https://en.wikipedia.org/wiki/Transposition-driven_scheduling)
-- [Hashlife from Wikipedia](https://en.wikipedia.org/wiki/Hashlife) by [Bill Gosper](Bill_Gosper "Bill Gosper") [[14]](#cite_note-14)
+- [Hashlife from Wikipedia](https://en.wikipedia.org/wiki/Hashlife) by [Bill Gosper](Bill_Gosper "Bill Gosper") <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 - [Integer Hash Function](http://www.concentric.net/~Ttwang/tech/inthash.htm) by [Thomas Wang](http://www.concentric.net/~ttwang/index.html)
 - [Hash functions](http://www.azillionmonkeys.com/qed/hash.html) by [Paul Hsieh](Paul_Hsieh "Paul Hsieh")
 - [Hash Functions and Block Ciphers](http://burtleburtle.net/bob/hash/index.html) by [Bob Jenkins](Bob_Jenkins "Bob Jenkins")
@@ -197,20 +197,20 @@ The classical hash table implementation in computer chess are the [transposition
 
 ## References
 
-1. [↑](#cite_ref-1) [Hash function from Wikipedia](https://en.wikipedia.org/wiki/Hash_function)
-1. [↑](#cite_ref-2) [Hash function from Wikipedia](https://en.wikipedia.org/wiki/Hash_function)
-1. [↑](#cite_ref-3) [Cache-friendier material index](http://www.talkchess.com/forum/viewtopic.php?t=33561) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), March 31, 2010
-1. [↑](#cite_ref-4) [Hash function from Wikipedia](https://en.wikipedia.org/wiki/Hash_function)
-1. [↑](#cite_ref-5) [Bloom filter from Wikipedia](https://en.wikipedia.org/wiki/Bloom_filter)
-1. [↑](#cite_ref-6) [Merkle–Damgård construction from Wikipedia](https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction)
-1. [↑](#cite_ref-7) [A Hash Function for Hash Table Lookup](http://burtleburtle.net/bob/hash/doobs.html) by [Bob Jenkins](Bob_Jenkins "Bob Jenkins"), updated [Dr. Dobb's](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal) article
-1. [↑](#cite_ref-8) [Cuckoo Cycle: a new memory-hard proof-of-work system](https://bitcointalk.org/index.php?topic=405483.0) by [John Tromp](John_Tromp "John Tromp"), [Bitcoin Forum](https://bitcointalk.org/index.php), January 08, 2014
-1. [↑](#cite_ref-9) [Cuckoo hashing from Wikipedia](https://en.wikipedia.org/wiki/Cuckoo_hashing)
-1. [↑](#cite_ref-10) [Locality-sensitive hashing from Wikipedia](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
-1. [↑](#cite_ref-11) [MinHash from Wikipedia](https://en.wikipedia.org/wiki/MinHash)
-1. [↑](#cite_ref-12) [Mersenne prime from Wikipedia](https://en.wikipedia.org/wiki/Mersenne_prime)
-1. [↑](#cite_ref-13) [Strong NP-completeness from Wikipedia](https://en.wikipedia.org/wiki/Strong_NP-completeness)
-1. [↑](#cite_ref-14) [Gosper's Algorithm (Hashlife) explained](http://www-users.cs.york.ac.uk/~jowen/hashlife.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hash function from Wikipedia](https://en.wikipedia.org/wiki/Hash_function)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hash function from Wikipedia](https://en.wikipedia.org/wiki/Hash_function)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Cache-friendier material index](http://www.talkchess.com/forum/viewtopic.php?t=33561) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), March 31, 2010
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Hash function from Wikipedia](https://en.wikipedia.org/wiki/Hash_function)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Bloom filter from Wikipedia](https://en.wikipedia.org/wiki/Bloom_filter)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Merkle–Damgård construction from Wikipedia](https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [A Hash Function for Hash Table Lookup](http://burtleburtle.net/bob/hash/doobs.html) by [Bob Jenkins](Bob_Jenkins "Bob Jenkins"), updated [Dr. Dobb's](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal) article
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Cuckoo Cycle: a new memory-hard proof-of-work system](https://bitcointalk.org/index.php?topic=405483.0) by [John Tromp](John_Tromp "John Tromp"), [Bitcoin Forum](https://bitcointalk.org/index.php), January 08, 2014
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Cuckoo hashing from Wikipedia](https://en.wikipedia.org/wiki/Cuckoo_hashing)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Locality-sensitive hashing from Wikipedia](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [MinHash from Wikipedia](https://en.wikipedia.org/wiki/MinHash)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Mersenne prime from Wikipedia](https://en.wikipedia.org/wiki/Mersenne_prime)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Strong NP-completeness from Wikipedia](https://en.wikipedia.org/wiki/Strong_NP-completeness)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Gosper's Algorithm (Hashlife) explained](http://www-users.cs.york.ac.uk/~jowen/hashlife.html)
 
 **[Up one Level](Data "Data")**
 

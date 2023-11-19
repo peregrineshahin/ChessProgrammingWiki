@@ -3,7 +3,7 @@ title: ConferencesIJCAI1995
 ---
 **[Home](Home "Home") * Conferences**
 
-[](File:CG2006.jpg) [Computer and Games 2006](CG_2006 "CG 2006"), [University of Turin](https://en.wikipedia.org/wiki/University_of_Turin) [[1]](#cite_note-1)
+[](File:CG2006.jpg) [Computer and Games 2006](CG_2006 "CG 2006"), [University of Turin](https://en.wikipedia.org/wiki/University_of_Turin) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Conferences** are composed of [presentations](https://en.wikipedia.org/wiki/Presentation), usually followed by a discussion. The work may be bundled in written form as [academic papers](https://en.wikipedia.org/wiki/Academic_publishing), [published](https://en.wikipedia.org/wiki/Publishing) as the [conference proceedings](https://en.wikipedia.org/wiki/Proceedings).
 
 ## Advances
@@ -141,7 +141,7 @@ Computer Game Workshops at the [European Conference on Artificial Intelligence](
 
 ## IFIP Congress
 
-[IFIP](IFIP "IFIP") World Computer Congress [[2]](#cite_note-2)
+[IFIP](IFIP "IFIP") World Computer Congress <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 |  Edition
 |  Year
@@ -221,7 +221,7 @@ Computer Game Workshops at the [European Conference on Artificial Intelligence](
 
 ## IJCAI
 
-[International Joint Conferences on Artificial Intelligence](http://www.ijcai.org/) [[3]](#cite_note-3) :
+[International Joint Conferences on Artificial Intelligence](http://www.ijcai.org/) <a id="cite-note-3" href="#cite-ref-3">[3]</a> :
 
 - [1. IJCAI 1969](http://dblp.uni-trier.de/db/conf/ijcai/ijcai69.html), [Washington, D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.), [USA](https://en.wikipedia.org/wiki/USA)
 - [2. IJCAI 1971](http://dblp.uni-trier.de/db/conf/ijcai/ijcai71.html), [London](https://en.wikipedia.org/wiki/London), [UK](https://en.wikipedia.org/wiki/United_Kingdom)
@@ -353,9 +353,9 @@ Proceedings edited by [Laveen Kanal](Laveen_Kanal "Laveen Kanal") et al.
 
 ## References
 
-1. [↑](#cite_ref-1) [Computer and Games 2006](CG_2006 "CG 2006") in Aula Magna, the Conference Hall of the [University of Turin](https://en.wikipedia.org/wiki/University_of_Turin), [Turin](https://en.wikipedia.org/wiki/Turin), [Italy](https://en.wikipedia.org/wiki/Italy), May 29-31, [2006](Timeline#2006 "Timeline"), [Computer Olympiad in Torino, Italy](http://www.yss-aya.com/photo/20060525torino/index06.html), Photo gallery by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
-1. [↑](#cite_ref-2) [dblp: IFIP Congress](http://www.informatik.uni-trier.de/~ley/db/conf/ifip/index.html)
-1. [↑](#cite_ref-3) [International Joint Conference on Artificial Intelligence (IJCAI)](http://dblp.uni-trier.de/db/conf/ijcai/index.html) from [The DBLP Computer Science Bibliography](http://dblp.uni-trier.de/db/index.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Computer and Games 2006](CG_2006 "CG 2006") in Aula Magna, the Conference Hall of the [University of Turin](https://en.wikipedia.org/wiki/University_of_Turin), [Turin](https://en.wikipedia.org/wiki/Turin), [Italy](https://en.wikipedia.org/wiki/Italy), May 29-31, [2006](Timeline#2006 "Timeline"), [Computer Olympiad in Torino, Italy](http://www.yss-aya.com/photo/20060525torino/index06.html), Photo gallery by [Hiroshi Yamashita](Hiroshi_Yamashita "Hiroshi Yamashita")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [dblp: IFIP Congress](http://www.informatik.uni-trier.de/~ley/db/conf/ifip/index.html)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [International Joint Conference on Artificial Intelligence (IJCAI)](http://dblp.uni-trier.de/db/conf/ijcai/index.html) from [The DBLP Computer Science Bibliography](http://dblp.uni-trier.de/db/index.html)
 
 **[Up one Level](Home "Home")**
 

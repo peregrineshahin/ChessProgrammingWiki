@@ -5,10 +5,10 @@ title: IChen Wu
 
 
 
- [](https://plus.google.com/109127125721500350580/posts) I-Chen Wu [[1]](#cite_note-1) 
+ [](https://plus.google.com/109127125721500350580/posts) I-Chen Wu <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **I-Chen Wu**,  
 
-a Taiwanese computer scientist and professor at Department of Computer Science and [Information Engineering](https://en.wikipedia.org/wiki/Information_engineering), [National Chiao Tung University](National_Chiao_Tung_University "National Chiao Tung University"), [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu), and head of its Computer Games and Intelligence (CGI) laboratory. He holds a B.S. in Electronic Engineering (1982) and a M.Sc. in CS (1984) from [National Taiwan University](National_Taiwan_University "National Taiwan University"), and a Ph.D. in CS from [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") (1993) [[2]](#cite_note-2) . His research interests include computer games, [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing), [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) for gaming, and [mobile gaming](https://en.wikipedia.org/wiki/Mobile_game) [[3]](#cite_note-3). Since Fall 2013, I-Chen Wu is section editor of the [ICGA Journal](ICGA_Journal "ICGA Journal"), since 2017, along with [Mark Winands](Mark_Winands "Mark Winands") and [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Editor-in-Chief](ICGA_Journal#board "ICGA Journal").
+a Taiwanese computer scientist and professor at Department of Computer Science and [Information Engineering](https://en.wikipedia.org/wiki/Information_engineering), [National Chiao Tung University](National_Chiao_Tung_University "National Chiao Tung University"), [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu), and head of its Computer Games and Intelligence (CGI) laboratory. He holds a B.S. in Electronic Engineering (1982) and a M.Sc. in CS (1984) from [National Taiwan University](National_Taiwan_University "National Taiwan University"), and a Ph.D. in CS from [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") (1993) <a id="cite-note-2" href="#cite-ref-2">[2]</a> . His research interests include computer games, [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing), [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) for gaming, and [mobile gaming](https://en.wikipedia.org/wiki/Mobile_game) <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Since Fall 2013, I-Chen Wu is section editor of the [ICGA Journal](ICGA_Journal "ICGA Journal"), since 2017, along with [Mark Winands](Mark_Winands "Mark Winands") and [Tristan Cazenave](Tristan_Cazenave "Tristan Cazenave"), [Editor-in-Chief](ICGA_Journal#board "ICGA Journal").
 
 
 
@@ -21,7 +21,7 @@ a Taiwanese computer scientist and professor at Department of Computer Science a
 ## Selected Publications
 
 
-[[8]](#cite_note-8) [[9]](#cite_note-9)
+<a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 
@@ -50,18 +50,18 @@ a Taiwanese computer scientist and professor at Department of Computer Science a
 * I-Chen Wu, [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin"), [Ping-Hung Lin](Ping-Hung_Lin "Ping-Hung Lin"), [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), [Yi-Chih Chan](Yi-Chih_Chan "Yi-Chih Chan"), [Bo-Ting Chen](index.php?title=Bo-Ting_Chen&action=edit&redlink=1 "Bo-Ting Chen (page does not exist)") (**2010**). *[Job-Level Proof-Number Search for Connect6](http://link.springer.com/chapter/10.1007/978-3-642-17928-0_2)*. [CG 2010](CG_2010 "CG 2010")
 * I-Chen Wu, [Ping-Hung Lin](Ping-Hung_Lin "Ping-Hung Lin") (**2010**). *Relevance-Zone-Oriented Proof Search for Connect6*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE") (SCI), Vol. 2, No. 3
 * [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Shih-Yuan Chiu](index.php?title=Shih-Yuan_Chiu&action=edit&redlink=1 "Shih-Yuan Chiu (page does not exist)"), I-Chen Wu (**2010**). *Modark wins Chinese Dark Chess Tournament*. [ICGA Journal, Vol. 33, No. 4](ICGA_Journal#33_4 "ICGA Journal") » [15th Computer Olympiad](15th_Computer_Olympiad#ChineseDarkChess "15th Computer Olympiad")
-* I-Chen Wu, [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2010**). *HappyNuri wins Nurikabe Tournament*. [ICGA Journal, Vol. 33, No. 4](ICGA_Journal#33_4 "ICGA Journal") » [15th Computer Olympiad](15th_Computer_Olympiad#Nurikabe "15th Computer Olympiad") [[10]](#cite_note-10)
+* I-Chen Wu, [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2010**). *HappyNuri wins Nurikabe Tournament*. [ICGA Journal, Vol. 33, No. 4](ICGA_Journal#33_4 "ICGA Journal") » [15th Computer Olympiad](15th_Computer_Olympiad#Nurikabe "15th Computer Olympiad") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 
 **2011**
 
 
 
-* [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin"), [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), I-Chen Wu, [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2011**). *The 2010 TAAI Computer Game Tournaments*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal") [[11]](#cite_note-11)
+* [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin"), [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), I-Chen Wu, [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2011**). *The 2010 TAAI Computer Game Tournaments*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 * [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)"), I-Chen Wu (**2011**). *Shiga wins Chinese Chess Tournament*. [ICGA Journal, Vol. 34, No. 2](ICGA_Journal#34_2 "ICGA Journal") » [15th Computer Olympiad](15th_Computer_Olympiad#ChineseChess "15th Computer Olympiad")
 * [Sheng-Hao Chiang](index.php?title=Sheng-Hao_Chiang&action=edit&redlink=1 "Sheng-Hao Chiang (page does not exist)"), I-Chen Wu, [Ping-Hung Lin](Ping-Hung_Lin "Ping-Hung Lin") (**2011**). *[Drawn K-In-A-Row Games](http://dl.acm.org/citation.cfm?id=2010786)*. [Theoretical Computer Science, Volume 412](http://www.informatik.uni-trier.de/~ley/db/journals/tcs/tcs412.html#ChiangWL11)
 * I-Chen Wu, [Hsin-Ti Tsai](index.php?title=Hsin-Ti_Tsai&action=edit&redlink=1 "Hsin-Ti Tsai (page does not exist)"), [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin"), [Yi-Shan Lin](index.php?title=Yi-Shan_Lin&action=edit&redlink=1 "Yi-Shan Lin (page does not exist)"), [Chieh-Min Chang](index.php?title=Chieh-Min_Chang&action=edit&redlink=1 "Chieh-Min Chang (page does not exist)"), [Ping-Hung Lin](Ping-Hung_Lin "Ping-Hung Lin") (**2011**). *[Temporal Difference Learning for Connect6](https://www.conftool.net/acg13/index.php?page=browseSessions&form_session=5)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
-* [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin"), I-Chen Wu (**2011**). *An Efficient Approach to Solving the Minimum Sudoku Problem*. [ICGA Journal, Vol. 34, No. 4](ICGA_Journal#34_4 "ICGA Journal") [[12]](#cite_note-12)
+* [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin"), I-Chen Wu (**2011**). *An Efficient Approach to Solving the Minimum Sudoku Problem*. [ICGA Journal, Vol. 34, No. 4](ICGA_Journal#34_4 "ICGA Journal") <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 
 **2012**
@@ -71,7 +71,7 @@ a Taiwanese computer scientist and professor at Department of Computer Science a
 * [Yi-Chang Shan](Yi-Chang_Shan "Yi-Chang Shan"), I-Chen Wu, [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin"), [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao") (**2012**). *Solving Nine Layer Triangular Nim*. [Journal of Information Science and Engineering, Vol. 28](http://www.informatik.uni-trier.de/~ley/db/journals/jise/jise28.html#ShanWLK12), [pdf](http://www.iis.sinica.edu.tw/page/jise/2012/201201_07.pdf)
 * [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), [Kuang-che Wu](Kuang-che_Wu "Kuang-che Wu"), I-Chen Wu, [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao") (**2012**). *Nonogram Tournaments in TAAI 2011*. [ICGA Journal, Vol. 35, No. 2](ICGA_Journal#35_2 "ICGA Journal") » [Nonogram](Nonogram "Nonogram"), [TAAI 2011](index.php?title=TAAI_2011&action=edit&redlink=1 "TAAI 2011 (page does not exist)")
 * [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao"), I-Chen Wu, [Yi-Chang Shan](Yi-Chang_Shan "Yi-Chang Shan") (**2012**). *XT Domineering: A New Combinatorial Game*. [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems/) (SCI), Vol. 34, pp. 55-63, October 2012
-* [Tung-Ying Liu](index.php?title=Tung-Ying_Liu&action=edit&redlink=1 "Tung-Ying Liu (page does not exist)"), I-Chen Wu, [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun") (**2012**). *Solving the Slitherlink Problem*. [TAAI 2012](index.php?title=TAAI_2012&action=edit&redlink=1 "TAAI 2012 (page does not exist)") [[13]](#cite_note-13)
+* [Tung-Ying Liu](index.php?title=Tung-Ying_Liu&action=edit&redlink=1 "Tung-Ying Liu (page does not exist)"), I-Chen Wu, [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun") (**2012**). *Solving the Slitherlink Problem*. [TAAI 2012](index.php?title=TAAI_2012&action=edit&redlink=1 "TAAI 2012 (page does not exist)") <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 * [Hao-Yun Liu](index.php?title=Hao-Yun_Liu&action=edit&redlink=1 "Hao-Yun Liu (page does not exist)"), I-Chen Wu, [Ting-Fu Liao](Ting-Fu_Liao "Ting-Fu Liao"), [Hao-Hua Kang](index.php?title=Hao-Hua_Kang&action=edit&redlink=1 "Hao-Hua Kang (page does not exist)"), [Lung-Pin Chen](index.php?title=Lung-Pin_Chen&action=edit&redlink=1 "Lung-Pin Chen (page does not exist)") (**2012**). *Software Framework for Generic Game Development in CGDG*. [ICS 2012](http://ics2012.ndhu.edu.tw/), [Hualien](https://en.wikipedia.org/wiki/Hualien_City), [Taiwan](https://en.wikipedia.org/wiki/Taiwan), December 2012
 * [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Cheng-Wei Chou](Cheng-Wei_Chou "Cheng-Wei Chou"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), I-Chen Wu, [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao") (**2012**). *The Art of the Chinese Dark Chess Program DIABLE*. [ICS 2012](http://ics2012.ndhu.edu.tw/), [Hualien](https://en.wikipedia.org/wiki/Hualien_City), [Taiwan](https://en.wikipedia.org/wiki/Taiwan), December 2012
 * [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao"), I-Chen Wu, [Yi-Chang Shan](Yi-Chang_Shan "Yi-Chang Shan"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen") (**2012**). *Selection Search for Mean and Temperature of Multi-branch Combinatorial Games*. [ICGA Journal, Vol. 35, No. 3](ICGA_Journal#35_3 "ICGA Journal")
@@ -97,8 +97,8 @@ a Taiwanese computer scientist and professor at Department of Computer Science a
 
 * [Tsan-Cheng Su](index.php?title=Tsan-Cheng_Su&action=edit&redlink=1 "Tsan-Cheng Su (page does not exist)"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), I-Chen Wu (**2014**). *TAAI 2012 Computer Game Tournaments*. [ICGA Journal, Vol 37, No. 1](ICGA_Journal#37_1 "ICGA Journal") » [TAAI 2012](index.php?title=TAAI_2012&action=edit&redlink=1 "TAAI 2012 (page does not exist)")
 * [Yi-Chang Shan](Yi-Chang_Shan "Yi-Chang Shan"), [Ching-Hsuan Wei](index.php?title=Ching-Hsuan_Wei&action=edit&redlink=1 "Ching-Hsuan Wei (page does not exist)"), [Cheng-Hung Lin](index.php?title=Cheng-Hung_Lin&action=edit&redlink=1 "Cheng-Hung Lin (page does not exist)"), I-Chen Wu, [Li-Kai Chuang](Li-Kai_Chuang "Li-Kai Chuang"), [Shi-Jie Tang](Shi-Jie_Tang "Shi-Jie Tang") (**2014**). *A Framework for Computer Mahjong Competitions*. [ICGA Journal, Vol 37, No. 1](ICGA_Journal#37_1 "ICGA Journal")
-* I-Chen Wu, [Kun-Hao Yeh](Kun-Hao_Yeh "Kun-Hao Yeh"), [Chao-Chin Liang](Chao-Chin_Liang "Chao-Chin Liang"), [Chia-Chuan Chang](index.php?title=Chia-Chuan_Chang&action=edit&redlink=1 "Chia-Chuan Chang (page does not exist)"), [Han Chiang](index.php?title=Han_Chiang&action=edit&redlink=1 "Han Chiang (page does not exist)") (**2014**). *Multi-Stage Temporal Difference Learning for 2048*. [TAAI 2014](index.php?title=TAAI_2014&action=edit&redlink=1 "TAAI 2014 (page does not exist)"), best paper award [[14]](#cite_note-14)
-* [Kun-Hao Yeh](Kun-Hao_Yeh "Kun-Hao Yeh"), [Chao-Chin Liang](Chao-Chin_Liang "Chao-Chin Liang"), [Kuang-che Wu](Kuang-che_Wu "Kuang-che Wu"), I-Chen Wu (**2014**). *2048-Bot Tournament in Taiwan*. [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal") [[15]](#cite_note-15)
+* I-Chen Wu, [Kun-Hao Yeh](Kun-Hao_Yeh "Kun-Hao Yeh"), [Chao-Chin Liang](Chao-Chin_Liang "Chao-Chin Liang"), [Chia-Chuan Chang](index.php?title=Chia-Chuan_Chang&action=edit&redlink=1 "Chia-Chuan Chang (page does not exist)"), [Han Chiang](index.php?title=Han_Chiang&action=edit&redlink=1 "Han Chiang (page does not exist)") (**2014**). *Multi-Stage Temporal Difference Learning for 2048*. [TAAI 2014](index.php?title=TAAI_2014&action=edit&redlink=1 "TAAI 2014 (page does not exist)"), best paper award <a id="cite-note-14" href="#cite-ref-14">[14]</a>
+* [Kun-Hao Yeh](Kun-Hao_Yeh "Kun-Hao Yeh"), [Chao-Chin Liang](Chao-Chin_Liang "Chao-Chin Liang"), [Kuang-che Wu](Kuang-che_Wu "Kuang-che Wu"), I-Chen Wu (**2014**). *2048-Bot Tournament in Taiwan*. [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal") <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 * [Ting-Fu Liao](Ting-Fu_Liao "Ting-Fu Liao"), I-Chen Wu, [Guan-Wun Chen](Guan-Wun_Chen "Guan-Wun Chen"), [Chung-Chin Shih](index.php?title=Chung-Chin_Shih&action=edit&redlink=1 "Chung-Chin Shih (page does not exist)"), [Po-Ya Kang](index.php?title=Po-Ya_Kang&action=edit&redlink=1 "Po-Ya Kang (page does not exist)"), [Bing-Tsung Chiang](Bing-Tsung_Chiang "Bing-Tsung Chiang"), [Ting-Chu Ho](index.php?title=Ting-Chu_Ho&action=edit&redlink=1 "Ting-Chu Ho (page does not exist)"), [Ti-Rong Wu](Ti-Rong_Wu "Ti-Rong Wu") (**2014**). *A Study of Software Framework for Parallel Monte Carlo Tree Search*. [GPW-2014](Conferences#GPW19 "Conferences")
 * [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), I-Chen Wu, [Chao-Chin Liang](Chao-Chin_Liang "Chao-Chin Liang"), [Bing-Tsung Chiang](Bing-Tsung_Chiang "Bing-Tsung Chiang"), [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee") (**2014**). *Job-Level Algorithms for Connect6 Opening Position Analysis*. [ECAI CGW 2014](index.php?title=ECAI_CGW_2014&action=edit&redlink=1 "ECAI CGW 2014 (page does not exist)")
 * [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Chih-Hung Chen](Chih-Hung_Chen "Chih-Hung Chen"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), I-Chen Wu, [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen") (**2014**). *TCGA 2014 Computer Game Tournament*. [ICGA Journal, Vol. 37, No. 4](ICGA_Journal#37_4 "ICGA Journal") » [TCGA 2014](index.php?title=TCGA_2014&action=edit&redlink=1 "TCGA 2014 (page does not exist)")
@@ -183,21 +183,21 @@ a Taiwanese computer scientist and professor at Department of Computer Science a
 ## References
 
 
-1. [↑](#cite_ref-1) [I-Chen Wu - Google+](https://plus.google.com/109127125721500350580/posts)
-2. [↑](#cite_ref-2) I-Chen Wu (**1993**). *Multilist Scheduling: A New Parallel Programming Model*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-3. [↑](#cite_ref-3) [Research of I-Chen Wu](http://java.csie.nctu.edu.tw/~icwu/research.html)
-4. [↑](#cite_ref-4) [Connect6 from Wikipedia](https://en.wikipedia.org/wiki/Connect6)
-5. [↑](#cite_ref-5) I-Chen Wu, [Dei-Yen Huang](Dei-Yen_Huang "Dei-Yen Huang") (**2005**). *[A New Family of k -in-a-Row Games](http://link.springer.com/chapter/10.1007/11922155_14)*. [Advances in Computer Games 11](Advances_in_Computer_Games_11 "Advances in Computer Games 11"), [pdf](http://www.connect6.org/k-in-a-row.pdf)
-6. [↑](#cite_ref-6) [CGI-2048](http://2048.aigames.nctu.edu.tw/)
-7. [↑](#cite_ref-7) [Introduction to Go Programs Developed at CGI Lab](http://aigames.nctu.edu.tw/~icwu/aigames/CGI.html)
-8. [↑](#cite_ref-8) [Publications of I-Chen Wu](http://java.csie.nctu.edu.tw/~icwu/publications.html)
-9. [↑](#cite_ref-9) [DBLP: I-Chen Wu](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wu:I=Chen.html)
-10. [↑](#cite_ref-10) [Nurikabe from Wikipedia](https://en.wikipedia.org/wiki/Nurikabe)
-11. [↑](#cite_ref-11) [TAAI Computer Game Tournaments](http://aigames.nctu.edu.tw/TAAI2011/eng/)
-12. [↑](#cite_ref-12) [Mathematics of Sudoku from Wikipedia](https://en.wikipedia.org/wiki/Mathematics_of_Sudoku)
-13. [↑](#cite_ref-13) [Slitherlink from Wikipedia](https://en.wikipedia.org/wiki/Slitherlink)
-14. [↑](#cite_ref-14) [Best Paper Awards | TAAI 2014](http://taai2014.ntust.edu.tw/best-paper-award/)
-15. [↑](#cite_ref-15) [2048 (video game) from Wikipedia](https://en.wikipedia.org/wiki/2048_%28video_game%29)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [I-Chen Wu - Google+](https://plus.google.com/109127125721500350580/posts)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> I-Chen Wu (**1993**). *Multilist Scheduling: A New Parallel Programming Model*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Research of I-Chen Wu](http://java.csie.nctu.edu.tw/~icwu/research.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Connect6 from Wikipedia](https://en.wikipedia.org/wiki/Connect6)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> I-Chen Wu, [Dei-Yen Huang](Dei-Yen_Huang "Dei-Yen Huang") (**2005**). *[A New Family of k -in-a-Row Games](http://link.springer.com/chapter/10.1007/11922155_14)*. [Advances in Computer Games 11](Advances_in_Computer_Games_11 "Advances in Computer Games 11"), [pdf](http://www.connect6.org/k-in-a-row.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CGI-2048](http://2048.aigames.nctu.edu.tw/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Introduction to Go Programs Developed at CGI Lab](http://aigames.nctu.edu.tw/~icwu/aigames/CGI.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Publications of I-Chen Wu](http://java.csie.nctu.edu.tw/~icwu/publications.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [DBLP: I-Chen Wu](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Wu:I=Chen.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Nurikabe from Wikipedia](https://en.wikipedia.org/wiki/Nurikabe)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [TAAI Computer Game Tournaments](http://aigames.nctu.edu.tw/TAAI2011/eng/)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Mathematics of Sudoku from Wikipedia](https://en.wikipedia.org/wiki/Mathematics_of_Sudoku)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Slitherlink from Wikipedia](https://en.wikipedia.org/wiki/Slitherlink)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Best Paper Awards | TAAI 2014](http://taai2014.ntust.edu.tw/best-paper-award/)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [2048 (video game) from Wikipedia](https://en.wikipedia.org/wiki/2048_%28video_game%29)
 
 **[Up one Level](People "People")**
 

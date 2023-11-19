@@ -33,16 +33,16 @@ There are several classical and new developed test-position suites available as
 
 
 * [Amundsen chess program | Testsuites](http://www.bergbomconsulting.se/chess/testsuites.html) collected by [John Bergbom](index.php?title=John_Bergbom&action=edit&redlink=1 "John Bergbom (page does not exist)") » [Amundsen](Amundsen "Amundsen")
-* [Arasan Test Suite](http://www.arasanchess.org/testsuite.shtml) by [Jon Dart](Jon_Dart "Jon Dart") » [Arasan](Arasan "Arasan") [[1]](#cite_note-1)
+* [Arasan Test Suite](http://www.arasanchess.org/testsuite.shtml) by [Jon Dart](Jon_Dart "Jon Dart") » [Arasan](Arasan "Arasan") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 * [Big Book Of Combinations (long post)](https://www.stmintz.com/ccc/index.php?id=189107) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), September 17, 2001
 * [CCC-I test set](https://www.stmintz.com/ccc/index.php?id=10361) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), October 04, 1997
 * [CCC-II test set](https://www.stmintz.com/ccc/index.php?id=10362) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), October 04, 1997
 * [CCC-III (positional test)](https://www.stmintz.com/ccc/index.php?id=10391) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), October 06, 1997
 * [Colditz test suite](http://www.talkchess.com/forum/viewtopic.php?t=62659) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), December 30, 2016
-* [CSS WM-Test](http://www.jakob.at/steffen/hossa/testsuites/css-wm.html) hosted by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob"), [css-wm.epd](http://www.jakob.at/steffen/hossa/testsuites/css-wm.epd) [[2]](#cite_note-2) [[3]](#cite_note-3) [[4]](#cite_note-4)
-* [ECM.epd](http://www.st.ewi.tudelft.nl/~renze/doc/TestSuites/ECM.epd) from [Renze Steenhuisen's](Jan_Renze_Steenhuisen "Jan Renze Steenhuisen") [projects](http://www.st.ewi.tudelft.nl/~renze/projects.php) [[5]](#cite_note-5) [[6]](#cite_note-6)
+* [CSS WM-Test](http://www.jakob.at/steffen/hossa/testsuites/css-wm.html) hosted by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob"), [css-wm.epd](http://www.jakob.at/steffen/hossa/testsuites/css-wm.epd) <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
+* [ECM.epd](http://www.st.ewi.tudelft.nl/~renze/doc/TestSuites/ECM.epd) from [Renze Steenhuisen's](Jan_Renze_Steenhuisen "Jan Renze Steenhuisen") [projects](http://www.st.ewi.tudelft.nl/~renze/projects.php) <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 * [Endgame testsuite - final version + pgn with comments](https://www.stmintz.com/ccc/index.php?id=476109) by [Sune Larsson](index.php?title=Sune_Larsson&action=edit&redlink=1 "Sune Larsson (page does not exist)"), [CCC](CCC "CCC"), January 01, 2006
-* [My Positional Test Suite](http://privat.bahnhof.se/wb432434/fentest.htm) by [Tony Hedlund](Tony_Hedlund "Tony Hedlund") [[7]](#cite_note-7)
+* [My Positional Test Suite](http://privat.bahnhof.se/wb432434/fentest.htm) by [Tony Hedlund](Tony_Hedlund "Tony Hedlund") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 * [New Zugzwang Testsuite](https://www.stmintz.com/ccc/index.php?id=391553) by [Robert Allgeuer](index.php?title=Robert_Allgeuer&action=edit&redlink=1 "Robert Allgeuer (page does not exist)"), [CCC](CCC "CCC"), October 14, 2004 » [Zugzwang](Zugzwang "Zugzwang")
 * [Passed Pawn Suite](https://www.stmintz.com/ccc/index.php?id=98943) by [Howard Exner](index.php?title=Howard_Exner&action=edit&redlink=1 "Howard Exner (page does not exist)"), [CCC](CCC "CCC"), February 24, 2000 » [Passed Pawn](Passed_Pawn "Passed Pawn")
 * [Quicktest](http://members.aon.at/computerschach/quick/quicke.htm) by [Michael Scheidl](index.php?title=Michael_Scheidl&action=edit&redlink=1 "Michael Scheidl (page does not exist)")
@@ -50,7 +50,7 @@ There are several classical and new developed test-position suites available as
 * [Test suites for chess software](http://www.volny.cz/evcomp/elotesty.htm) by [Emil Vlasák](index.php?title=Emil_Vlas%C3%A1k&action=edit&redlink=1 "Emil Vlasák (page does not exist)")
 * [Test Suites from Hossa - A Chess Program](http://www.jakob.at/steffen/hossa/index.html) by [Steffen A. Jakob](Steffen_A._Jakob "Steffen A. Jakob")
 * [Tests](http://www.blitzchess.fr/fr/tests/index.html) by [Pierre Nolot](Pierre_Nolot "Pierre Nolot") from [blitzchess.fr](http://www.blitzchess.fr/) (French)
-* [Zugzwang Test Suite ZPTS - updated version and results of Fruit](https://www.stmintz.com/ccc/index.php?id=392369) by [Robert Allgeuer](index.php?title=Robert_Allgeuer&action=edit&redlink=1 "Robert Allgeuer (page does not exist)"), [CCC](CCC "CCC"), October 19, 2004 [[8]](#cite_note-8) » [Zugzwang](Zugzwang "Zugzwang")
+* [Zugzwang Test Suite ZPTS - updated version and results of Fruit](https://www.stmintz.com/ccc/index.php?id=392369) by [Robert Allgeuer](index.php?title=Robert_Allgeuer&action=edit&redlink=1 "Robert Allgeuer (page does not exist)"), [CCC](CCC "CCC"), October 19, 2004 <a id="cite-note-8" href="#cite-ref-8">[8]</a> » [Zugzwang](Zugzwang "Zugzwang")
 
 
 
@@ -70,7 +70,7 @@ There are several classical and new developed test-position suites available as
 
 
 * [Crafty/openings at master · MichaelB7/Crafty · GitHub](https://github.com/MichaelB7/Crafty/tree/master/openings)
-* [Hyatt 4000 openings 7z](http://ccrl.chessdom.com/public/Hyatt%204,000%20openings.7z) [[9]](#cite_note-9)
+* [Hyatt 4000 openings 7z](http://ccrl.chessdom.com/public/Hyatt%204,000%20openings.7z) <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 ### [Lacrosse](index.php?title=Marc_Lacrosse&action=edit&redlink=1 "Marc Lacrosse (page does not exist)")
@@ -88,7 +88,7 @@ There are several classical and new developed test-position suites available as
 ### [Noomen](Jeroen_Noomen "Jeroen Noomen")
 
 
-* [Noomen Testsuites, Noomen Testsuite](http://www.rybkachess.com/index.php?auswahl=Downloads) from [Rybka - Free downloads](Rybka "Rybka") by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen") [[10]](#cite_note-10) [[11]](#cite_note-11) [[12]](#cite_note-12)
+* [Noomen Testsuites, Noomen Testsuite](http://www.rybkachess.com/index.php?auswahl=Downloads) from [Rybka - Free downloads](Rybka "Rybka") by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen") <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 * [New testsuite: UltraShort Lines](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=32149) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), June 03, 2017
 * [New testsuite: King's Indian Mar del Plata](http://www.talkchess.com/forum/viewtopic.php?t=64372) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), June 22, 2017
 * [Updated Mar del Plata testsuite, NEW Ruy Lopez testsuite](http://www.talkchess.com/forum/viewtopic.php?t=64513) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), July 04, 2017
@@ -100,7 +100,7 @@ There are several classical and new developed test-position suites available as
 ### [Nunn](John_Nunn "John Nunn")
 
 
-* [Nunn openings](https://www.stmintz.com/ccc/index.php?id=460363) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), November 07, 2005 [[13]](#cite_note-13)
+* [Nunn openings](https://www.stmintz.com/ccc/index.php?id=460363) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), November 07, 2005 <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 * [Nunn2 openings](https://www.stmintz.com/ccc/index.php?id=460364) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), November 07, 2005
 
 
@@ -161,7 +161,7 @@ There are several classical and new developed test-position suites available as
 
 
 * [Tony Marsland](Tony_Marsland "Tony Marsland") (**1990**). *The Bratko-Kopec Test Revisited.* [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
-* [Kevin J. Lang](index.php?title=Kevin_J._Lang&action=edit&redlink=1 "Kevin J. Lang (page does not exist)"), [Warren D. Smith](Warren_D._Smith "Warren D. Smith") (**1993**). *A Test Suite for Chess Programs*. [ps](http://scorevoting.net/WarrenSmithPages/homepage/testpos.ps), [ChessTest2.tar.Z](http://scorevoting.net/WarrenSmithPages/homepage/ChessTest2.tar.Z) [[14]](#cite_note-14)
+* [Kevin J. Lang](index.php?title=Kevin_J._Lang&action=edit&redlink=1 "Kevin J. Lang (page does not exist)"), [Warren D. Smith](Warren_D._Smith "Warren D. Smith") (**1993**). *A Test Suite for Chess Programs*. [ps](http://scorevoting.net/WarrenSmithPages/homepage/testpos.ps), [ChessTest2.tar.Z](http://scorevoting.net/WarrenSmithPages/homepage/ChessTest2.tar.Z) <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 * [Shawn Benn](Shawn_Benn "Shawn Benn"), [Danny Kopec](Danny_Kopec "Danny Kopec") (**1993**). *The Bratko-Kopec Test Recalibrated.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal"), [pdf](http://www.sci.brooklyn.cuny.edu/%7Ekopec/Publications/Publications/O_11_C.pdf)
 * [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1994**). *The One-Hour CCR Test*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 4, No. 2, pp. 25-30
 * [Kevin J. Lang](index.php?title=Kevin_J._Lang&action=edit&redlink=1 "Kevin J. Lang (page does not exist)"), [Warren D. Smith](Warren_D._Smith "Warren D. Smith") (**1995**). *A Test Suite for Chess Programs*. [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
@@ -194,7 +194,7 @@ There are several classical and new developed test-position suites available as
 ### 2005 ...
 
 
-* [Trying to improve MES endgame suite](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=3589) by [George Lyapko](George_Lyapko "George Lyapko"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 30, 2005 [[15]](#cite_note-15)
+* [Trying to improve MES endgame suite](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=3589) by [George Lyapko](George_Lyapko "George Lyapko"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 30, 2005 <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 * [Problem suite testing - how to extract a useful number](http://www.talkchess.com/forum/viewtopic.php?t=21348) by [Don Dailey](Don_Dailey "Don Dailey") from [CCC](CCC "CCC"), May 25, 2008
 
 
@@ -219,7 +219,7 @@ There are several classical and new developed test-position suites available as
 
  [Re: Static evaluation test posistions](http://www.talkchess.com/forum/viewtopic.php?t=58359&start=2) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca"), [CCC](CCC "CCC"), November 26, 2015 » [Python](Python "Python")
 * [Test suites](http://www.talkchess.com/forum/viewtopic.php?t=58475) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), December 04, 2015
-* [Larsen EPD Test Suite](http://www.talkchess.com/forum/viewtopic.php?t=58717) by Marc Moisan, [CCC](CCC "CCC"), December 29, 2015 [[16]](#cite_note-16)
+* [Larsen EPD Test Suite](http://www.talkchess.com/forum/viewtopic.php?t=58717) by Marc Moisan, [CCC](CCC "CCC"), December 29, 2015 <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 
 **2016**
@@ -246,7 +246,7 @@ There are several classical and new developed test-position suites available as
 
 
 * [Bob Hyatt's opening set of positions](http://www.talkchess.com/forum/viewtopic.php?t=63491) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), March 19, 2017
-* [Tony's positional test suite](http://www.talkchess.com/forum/viewtopic.php?t=64306) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), June 16, 2017 [[17]](#cite_note-17)
+* [Tony's positional test suite](http://www.talkchess.com/forum/viewtopic.php?t=64306) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), June 16, 2017 <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 * [Opening testing suites efficiency](http://www.talkchess.com/forum/viewtopic.php?t=64358) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), June 21, 2017 » [Engine Testing](Engine_Testing "Engine Testing"), [Opening](Opening "Opening"), [Match Statistics](Match_Statistics "Match Statistics")
 * ["IQ test" for engines](http://www.talkchess.com/forum/viewtopic.php?t=64838) by [Marek Kwiatkowski](index.php?title=Marek_Kwiatkowski&action=edit&redlink=1 "Marek Kwiatkowski (page does not exist)"), [CCC](CCC "CCC"), August 08, 2017
 * ["IQ test" for engines (2)](http://www.talkchess.com/forum/viewtopic.php?t=65505) by [Marek Kwiatkowski](index.php?title=Marek_Kwiatkowski&action=edit&redlink=1 "Marek Kwiatkowski (page does not exist)"), [CCC](CCC "CCC"), October 21, 2017
@@ -406,23 +406,23 @@ There are several classical and new developed test-position suites available as
 ## References
 
 
-1. [↑](#cite_ref-1)  [Arasan test suite](http://www.talkchess.com/forum/viewtopic.php?t=61186) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), August 22, 2016
-2. [↑](#cite_ref-2) [WM test bugs](https://www.stmintz.com/ccc/index.php?id=237643) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), June 27, 2002
-3. [↑](#cite_ref-3) [WM Test Position 1 - another solution found (GERMAN)](https://www.stmintz.com/ccc/index.php?id=369557) by Franz Hagra, [CCC](CCC "CCC"), June 09, 2004
-4. [↑](#cite_ref-4) [CSS WM TEST - a technical view](https://www.stmintz.com/ccc/index.php?id=370457) by Franz Hagra, [CCC](CCC "CCC"), June 15, 2004
-5. [↑](#cite_ref-5) [Nikolai Krogius](https://en.wikipedia.org/wiki/Nikolai_Krogius), [A. Livsic](http://www.goodreads.com/author/show/4451033.A_Livsic), [Bruno Parma](https://en.wikipedia.org/wiki/Bruno_Parma), [Mark Taimanov](https://en.wikipedia.org/wiki/Mark_Taimanov) (**1980**). *[Encyclopedia of Chess Middlegames](http://www.amazon.com/Encyclopedia-Chess-Middlegames-Nikolai-Krogius/dp/B000UNPDTA)*. [Chess Informant](https://en.wikipedia.org/wiki/Chess_Informant)
-6. [↑](#cite_ref-6) [And here is corrected ECM testsuite (15 wrong positions removed)](https://www.stmintz.com/ccc/index.php?id=29329) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), October 11, 1998
-7. [↑](#cite_ref-7) [Tony's positional test suite](http://www.talkchess.com/forum/viewtopic.php?t=64306) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), June 16, 2017
-8. [↑](#cite_ref-8) [Zugzwang Test Suite ZPTS by Robert Allgeuer](http://www.talkchess.com/forum/viewtopic.php?t=51249) by Paul Henri, [CCC](CCC "CCC"), February 12, 2014
-9. [↑](#cite_ref-9) [Hyatt 4000 openings](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72866) by [Mathieu Pagé](Mathieu_Pag%C3%A9 "Mathieu Pagé"), [CCC](CCC "CCC"), January 21, 2020
-10. [↑](#cite_ref-10) [A new testsuite](http://www.talkchess.com/forum/viewtopic.php?t=52706) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), June 21, 2014
-11. [↑](#cite_ref-11) [New testsuite available](http://www.talkchess.com/forum/viewtopic.php?t=54328) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), November 13, 2014
-12. [↑](#cite_ref-12) [Noomen selected openings for eng-eng matches](http://www.talkchess.com/forum/viewtopic.php?t=56546) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), May 31, 2015
-13. [↑](#cite_ref-13)  [Interesting statement from Ossi Weiner about Nunn test](https://www.stmintz.com/ccc/index.php?id=26903) by [Moritz Berger](Moritz_Berger "Moritz Berger"), [CCC](CCC "CCC"), September 17, 1998 » [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), [Nunn openings](Test-Positions#Nunn "Test-Positions")
-14. [↑](#cite_ref-14) [Online list of Warren D. Smith's works](http://scorevoting.net/WarrenSmithPages/homepage/works.html)
-15. [↑](#cite_ref-15) [1234 Modern End Game Studies - Free eBooks Download](http://www.ebook3000.com/1234-Modern-End-Game-Studies_118820.html)
-16. [↑](#cite_ref-16) [Larsen's Selected Games](http://www.chessgames.com/perl/chesscollection?cid=1006129) by [Bent Larsen](https://en.wikipedia.org/wiki/Bent_Larsen)
-17. [↑](#cite_ref-17) [My Positional Test Suite](http://privat.bahnhof.se/wb432434/fentest.htm) by [Tony Hedlund](Tony_Hedlund "Tony Hedlund")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a>  [Arasan test suite](http://www.talkchess.com/forum/viewtopic.php?t=61186) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), August 22, 2016
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [WM test bugs](https://www.stmintz.com/ccc/index.php?id=237643) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), June 27, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [WM Test Position 1 - another solution found (GERMAN)](https://www.stmintz.com/ccc/index.php?id=369557) by Franz Hagra, [CCC](CCC "CCC"), June 09, 2004
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [CSS WM TEST - a technical view](https://www.stmintz.com/ccc/index.php?id=370457) by Franz Hagra, [CCC](CCC "CCC"), June 15, 2004
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Nikolai Krogius](https://en.wikipedia.org/wiki/Nikolai_Krogius), [A. Livsic](http://www.goodreads.com/author/show/4451033.A_Livsic), [Bruno Parma](https://en.wikipedia.org/wiki/Bruno_Parma), [Mark Taimanov](https://en.wikipedia.org/wiki/Mark_Taimanov) (**1980**). *[Encyclopedia of Chess Middlegames](http://www.amazon.com/Encyclopedia-Chess-Middlegames-Nikolai-Krogius/dp/B000UNPDTA)*. [Chess Informant](https://en.wikipedia.org/wiki/Chess_Informant)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [And here is corrected ECM testsuite (15 wrong positions removed)](https://www.stmintz.com/ccc/index.php?id=29329) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), October 11, 1998
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Tony's positional test suite](http://www.talkchess.com/forum/viewtopic.php?t=64306) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), June 16, 2017
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Zugzwang Test Suite ZPTS by Robert Allgeuer](http://www.talkchess.com/forum/viewtopic.php?t=51249) by Paul Henri, [CCC](CCC "CCC"), February 12, 2014
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Hyatt 4000 openings](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72866) by [Mathieu Pagé](Mathieu_Pag%C3%A9 "Mathieu Pagé"), [CCC](CCC "CCC"), January 21, 2020
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [A new testsuite](http://www.talkchess.com/forum/viewtopic.php?t=52706) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), June 21, 2014
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [New testsuite available](http://www.talkchess.com/forum/viewtopic.php?t=54328) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), November 13, 2014
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Noomen selected openings for eng-eng matches](http://www.talkchess.com/forum/viewtopic.php?t=56546) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), May 31, 2015
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a>  [Interesting statement from Ossi Weiner about Nunn test](https://www.stmintz.com/ccc/index.php?id=26903) by [Moritz Berger](Moritz_Berger "Moritz Berger"), [CCC](CCC "CCC"), September 17, 1998 » [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), [Nunn openings](Test-Positions#Nunn "Test-Positions")
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Online list of Warren D. Smith's works](http://scorevoting.net/WarrenSmithPages/homepage/works.html)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [1234 Modern End Game Studies - Free eBooks Download](http://www.ebook3000.com/1234-Modern-End-Game-Studies_118820.html)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Larsen's Selected Games](http://www.chessgames.com/perl/chesscollection?cid=1006129) by [Bent Larsen](https://en.wikipedia.org/wiki/Bent_Larsen)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [My Positional Test Suite](http://privat.bahnhof.se/wb432434/fentest.htm) by [Tony Hedlund](Tony_Hedlund "Tony Hedlund")
 
 **[Up one Level](Engine_Testing "Engine Testing")**
 

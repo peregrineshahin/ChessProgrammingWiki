@@ -5,11 +5,11 @@ title: Robots
 
 
 
- [](http://franz.cgsociety.org/art/3ds-max-personal-robot-04-499121) Personal Robot 04 by [Franz Steiner](http://franz.cgsociety.org/) [[1]](#cite_note-1) 
-An interesting field related to Artificial Intelligence, which still arouse public media interest, are autonomous chess playing **Robots**, as recently designed by [Konstantin Kosteniuk](index.php?title=Konstantin_Kosteniuk&action=edit&redlink=1 "Konstantin Kosteniuk (page does not exist)") in [Russia](https://en.wikipedia.org/wiki/Russia). The robot will represent Russia at the first ever *International Robot Blitz Chess Championship* announced to take place in 2011 [[2]](#cite_note-2) [[3]](#cite_note-3).
+ [](http://franz.cgsociety.org/art/3ds-max-personal-robot-04-499121) Personal Robot 04 by [Franz Steiner](http://franz.cgsociety.org/) <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
+An interesting field related to Artificial Intelligence, which still arouse public media interest, are autonomous chess playing **Robots**, as recently designed by [Konstantin Kosteniuk](index.php?title=Konstantin_Kosteniuk&action=edit&redlink=1 "Konstantin Kosteniuk (page does not exist)") in [Russia](https://en.wikipedia.org/wiki/Russia). The robot will represent Russia at the first ever *International Robot Blitz Chess Championship* announced to take place in 2011 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 
- Robots are mechanical [intelligent agents](https://en.wikipedia.org/wiki/Intelligent_agent), and may interact like an human chess player, [recognizing](Piece_Recognition "Piece Recognition") the moves either by incorporating a [sensory board](Sensory_Board "Sensory Board"), or more sophisticated by [computer vision](https://en.wikipedia.org/wiki/Computer_vision) [[4]](#cite_note-4) and [real-time](https://en.wikipedia.org/wiki/Real-time) video [image processing](https://en.wikipedia.org/wiki/Image_processing), and moving [pieces](Pieces "Pieces") with a [mechatronical](https://en.wikipedia.org/wiki/Mechatronics) [actuator](https://en.wikipedia.org/wiki/Actuator) and [end effector](https://en.wikipedia.org/wiki/Robot_end_effector). 
+ Robots are mechanical [intelligent agents](https://en.wikipedia.org/wiki/Intelligent_agent), and may interact like an human chess player, [recognizing](Piece_Recognition "Piece Recognition") the moves either by incorporating a [sensory board](Sensory_Board "Sensory Board"), or more sophisticated by [computer vision](https://en.wikipedia.org/wiki/Computer_vision) <a id="cite-note-4" href="#cite-ref-4">[4]</a> and [real-time](https://en.wikipedia.org/wiki/Real-time) video [image processing](https://en.wikipedia.org/wiki/Image_processing), and moving [pieces](Pieces "Pieces") with a [mechatronical](https://en.wikipedia.org/wiki/Mechatronics) [actuator](https://en.wikipedia.org/wiki/Actuator) and [end effector](https://en.wikipedia.org/wiki/Robot_end_effector). 
 
 
 
@@ -65,7 +65,7 @@ An interesting field related to Artificial Intelligence, which still arouse publ
 ### 2005 ...
 
 
-* [Stewart Gracie](http://uk.linkedin.com/in/stewartgracie), [Jonathan Matthey](http://uk.linkedin.com/pub/jonathan-matthey/10/361/669), [David Rankin](http://www.gla.ac.uk/stafflist/?action=person&id=4cdde6e3879f203c98f3), [Konstantinos Topoglidis](http://www.dcs.gla.ac.uk/%7Erod/legolab/index.htm) (**2005**). *Lego Chess Robot*. [University of Glasgow](https://en.wikipedia.org/wiki/University_of_Glasgow), [pdf](http://www.dcs.gla.ac.uk/%7Erod/legolab/ESEteamReport04-05.pdf) [[6]](#cite_note-6) [[7]](#cite_note-7) [[8]](#cite_note-8)
+* [Stewart Gracie](http://uk.linkedin.com/in/stewartgracie), [Jonathan Matthey](http://uk.linkedin.com/pub/jonathan-matthey/10/361/669), [David Rankin](http://www.gla.ac.uk/stafflist/?action=person&id=4cdde6e3879f203c98f3), [Konstantinos Topoglidis](http://www.dcs.gla.ac.uk/%7Erod/legolab/index.htm) (**2005**). *Lego Chess Robot*. [University of Glasgow](https://en.wikipedia.org/wiki/University_of_Glasgow), [pdf](http://www.dcs.gla.ac.uk/%7Erod/legolab/ESEteamReport04-05.pdf) <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 * [David Levy](David_Levy "David Levy") (**2005**). [Robots Unlimited: Life in a Virtual Age](http://www.akpeters.com/robotsunlimited/) AK Peters ISBN: 978-1-56881-239-7
 * [David Levy](David_Levy "David Levy") (**2007**). *Love and Sex With Robots: The Evolution of Human-Robot Relationships* Harper Collins ISBN: 978-0-06156-212-9, at [amazon.com](http://www.amazon.com/Love-Sex-Robots-Human-Robot-Relationships/dp/0061359750)
 * [Chua Huiyan](http://de.scientificcommons.org/huiyan_chua), Le Vinh, [Wong Lai Kuan](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/k/Kuan:Wong_Lai.html) (**2007**). *Chess Vision*. [School of Computing](https://en.wikipedia.org/wiki/NUS_School_of_Computing), [National University of Singapore](https://en.wikipedia.org/wiki/National_University_of_Singapore), [slides as pdf](http://www.comp.nus.edu.sg/~cs4243/showcase/chess_vision/Chess-Vision-Presentation.pdf)
@@ -76,7 +76,7 @@ An interesting field related to Artificial Intelligence, which still arouse publ
 
 
 * [Neil Dantam](http://www.cc.gatech.edu/grads/n/ndantam3/), [Pushkar Kolhe](http://www.ic.gatech.edu/people/pushkar-kolhe), [Mike Stilman](http://www.cc.gatech.edu/%7Emstilman/) (**2011**). *The Motion Grammar for Physical Human-Robot Games*. IEEE International Conference on Robotics and Automation, May 2010, [pdf](http://www.cc.gatech.edu/grads/n/ndantam3/dantam2011motion.pdf)
-* [Cynthia Matuszek](http://www.cs.washington.edu/homes/cynthia/), [Brian Mayton](http://bdm.cc/), [Roberto Aimi](http://web.media.mit.edu/~roberto/), [Marc Peter Deisenroth](http://www.ias.informatik.tu-darmstadt.de/Team/MarcDeisenroth), [Liefeng Bo](http://www.cs.washington.edu/homes/lfb/), [Robert Chu](http://www.linkedin.com/pub/robert-chu/2a/6bb/714), [Mike Kung](http://www.linkedin.com/pub/mike-kung/14/2a5/89a), [Louis LeGrand](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/LeGrand:Louis.html), [Joshua R. Smith](http://web.media.mit.edu/~jrs/), [Dieter Fox](http://www.cs.washington.edu/homes/fox/) (**2011**). *[Gambit: A Robust Chess-Playing Robotic System](http://www.cs.washington.edu/ai/Mobile_Robotics//projects/gambit/abstracts/chess-icra-11.abstract.html)*. Proc. of [ICRA 2011](http://www.icra2011.org/), [pdf](http://www.cs.washington.edu/ai/Mobile_Robotics/postscripts/chess-icra-11.pdf) [[9]](#cite_note-9) [[10]](#cite_note-10) [[11]](#cite_note-11)
+* [Cynthia Matuszek](http://www.cs.washington.edu/homes/cynthia/), [Brian Mayton](http://bdm.cc/), [Roberto Aimi](http://web.media.mit.edu/~roberto/), [Marc Peter Deisenroth](http://www.ias.informatik.tu-darmstadt.de/Team/MarcDeisenroth), [Liefeng Bo](http://www.cs.washington.edu/homes/lfb/), [Robert Chu](http://www.linkedin.com/pub/robert-chu/2a/6bb/714), [Mike Kung](http://www.linkedin.com/pub/mike-kung/14/2a5/89a), [Louis LeGrand](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/LeGrand:Louis.html), [Joshua R. Smith](http://web.media.mit.edu/~jrs/), [Dieter Fox](http://www.cs.washington.edu/homes/fox/) (**2011**). *[Gambit: A Robust Chess-Playing Robotic System](http://www.cs.washington.edu/ai/Mobile_Robotics//projects/gambit/abstracts/chess-icra-11.abstract.html)*. Proc. of [ICRA 2011](http://www.icra2011.org/), [pdf](http://www.cs.washington.edu/ai/Mobile_Robotics/postscripts/chess-icra-11.pdf) <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 * [Guofeng Tong](index.php?title=Guofeng_Tong&action=edit&redlink=1 "Guofeng Tong (page does not exist)"), [Ran Liu](http://www.informatik.uni-trier.de/~ley/pers/hd/l/Liu:Ran.html), [Jindong Tan](http://www.informatik.uni-trier.de/~ley/pers/hd/t/Tan:Jindong.html) (**2011**). *[3D Information retrieval in Mobile Robot Vision based on spherical compound eye](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6181567&contentType=Conference+Publications)*. [ROBIO 2011](http://www.informatik.uni-trier.de/~ley/db/conf/robio/robio2011.html#TongLT11)
 * [Larry Greenemeier](http://www.scientificamerican.com/author.cfm?id=1324) (**2011**). *[Robots Arrive at Fukushima Nuclear Site with Unclear Mission](http://www.scientificamerican.com/article.cfm?id=robots-arrive-fukushima-nuclear)*. [Scientific American](Scientific_American "Scientific American"), March 24, 2011
 * [Nandan Banerjee](https://scholar.google.com/citations?user=c9eehXcAAAAJ&hl=en), [Debal Saha](https://www.linkedin.com/in/debalsaha/?ppe=1), [Atikant Singh](https://scholar.google.co.in/citations?user=vyadjhgAAAAJ&hl=en), [Gautam Sanyal](https://scholar.google.co.in/citations?user=W4uu_30AAAAJ&hl=en) (**2011**). *A Simple Autonomous Robotic Manipulator for Playing Chess Against any Opponent in Real Time*. [pdf](http://nandanbanerjee.com/files/ICCVR-08AUG12-011%20paper.pdf)
@@ -186,21 +186,21 @@ An interesting field related to Artificial Intelligence, which still arouse publ
 * [Chess grand masters outsmart robot](http://english.ruvr.ru/2010/06/10/9528919.html) from [The Voice of Russia](https://en.wikipedia.org/wiki/Voice_of_Russia), June 10, 2010
 * [Voice controlled chess robot](http://hackaday.com/2013/05/09/voice-controlled-chess-robot/) by [Mike Szczys](http://hackaday.com/author/mikehackaday/), [Hackaday](https://en.wikipedia.org/wiki/Hackaday), May 09, 2013
 * [Lonely? Build Yourself a Chess Robot!](http://hackaday.com/2015/03/15/lonely-build-yourself-a-chess-robot/) by [Will Sweatman](http://hackaday.com/author/willsweatman/), [Hackaday](https://en.wikipedia.org/wiki/Hackaday), March 15, 2015
-* [1-st game Robot World Chess Match](http://www.chessblog.com/search?q=chesska) "[Kuka](index.php?title=KUKA&action=edit&redlink=1 "KUKA (page does not exist)") - [Chesska](index.php?title=ChessKA&action=edit&redlink=1 "ChessKA (page does not exist)")" by [Eugene Potemkin](http://www.youtube.com/user/EugenePotemkin?feature=watch), May 19, 2012, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video [[12]](#cite_note-12)
+* [1-st game Robot World Chess Match](http://www.chessblog.com/search?q=chesska) "[Kuka](index.php?title=KUKA&action=edit&redlink=1 "KUKA (page does not exist)") - [Chesska](index.php?title=ChessKA&action=edit&redlink=1 "ChessKA (page does not exist)")" by [Eugene Potemkin](http://www.youtube.com/user/EugenePotemkin?feature=watch), May 19, 2012, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 
  
 * [Nona, the Chess-Playing Lego Robot | Flickr - Fotosharing!](http://www.flickr.com/photos/minkowsky/sets/72157640295428245/with/12210984744/) by [Linus Andersson](index.php?title=Linus_Andersson&action=edit&redlink=1 "Linus Andersson (page does not exist)")
 
 
- using [Peter Österlund's](Peter_%C3%96sterlund "Peter Österlund") chess engine [CuckooChess](CuckooChess "CuckooChess") and [Bartosz Firyn's](index.php?title=Bartosz_Firyn&action=edit&redlink=1 "Bartosz Firyn (page does not exist)") webcam capture code for motion detection and image grabbing [[13]](#cite_note-13) 
+ using [Peter Österlund's](Peter_%C3%96sterlund "Peter Österlund") chess engine [CuckooChess](CuckooChess "CuckooChess") and [Bartosz Firyn's](index.php?title=Bartosz_Firyn&action=edit&redlink=1 "Bartosz Firyn (page does not exist)") webcam capture code for motion detection and image grabbing <a id="cite-note-13" href="#cite-ref-13">[13]</a> 
  Nona, the Chess-Playing Lego Robot, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
  
-* [Деревянный робот, который умеет играть в шахматы - ChessBot - wooden chess-playing robot](https://geektimes.ru/post/273102/) by [Alexandrov Yegor](index.php?title=Alexandrov_Yegor&action=edit&redlink=1 "Alexandrov Yegor (page does not exist)"), April 6, 2016, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video [[14]](#cite_note-14)
+* [Деревянный робот, который умеет играть в шахматы - ChessBot - wooden chess-playing robot](https://geektimes.ru/post/273102/) by [Alexandrov Yegor](index.php?title=Alexandrov_Yegor&action=edit&redlink=1 "Alexandrov Yegor (page does not exist)"), April 6, 2016, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 
  
-* [Square Off - World’s Smartest Chess Board | Indiegogo](https://www.indiegogo.com/projects/square-off-world-s-smartest-chess-board--2#/) [[15]](#cite_note-15) [[16]](#cite_note-16) » [Square Off](index.php?title=Square_Off&action=edit&redlink=1 "Square Off (page does not exist)")
+* [Square Off - World’s Smartest Chess Board | Indiegogo](https://www.indiegogo.com/projects/square-off-world-s-smartest-chess-board--2#/) <a id="cite-note-15" href="#cite-ref-15">[15]</a> <a id="cite-note-16" href="#cite-ref-16">[16]</a> » [Square Off](index.php?title=Square_Off&action=edit&redlink=1 "Square Off (page does not exist)")
 
 
  [World's smartest chess board is here!](http://en.chessbase.com/post/world-s-smartest-chess-board-is-here) by [Sagar Shah](http://en.chessbase.com/author/sagar-shah), [ChessBase News](ChessBase "ChessBase"), October 13, 2016
@@ -208,7 +208,7 @@ An interesting field related to Artificial Intelligence, which still arouse publ
 
 
  
-* [Arduino Due Chess Robot](https://forum.arduino.cc/index.php?topic=490965.0) by [Chris Quayle](index.php?title=Chris_Quayle&action=edit&redlink=1 "Chris Quayle (page does not exist)") [[17]](#cite_note-17) » [Arduino](Arduino "Arduino"), [Micro-Max](Micro-Max "Micro-Max")
+* [Arduino Due Chess Robot](https://forum.arduino.cc/index.php?topic=490965.0) by [Chris Quayle](index.php?title=Chris_Quayle&action=edit&redlink=1 "Chris Quayle (page does not exist)") <a id="cite-note-17" href="#cite-ref-17">[17]</a> » [Arduino](Arduino "Arduino"), [Micro-Max](Micro-Max "Micro-Max")
 
 
  [Chess Robot Full Video](https://youtu.be/svEf53gvRgc), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
@@ -216,23 +216,23 @@ An interesting field related to Artificial Intelligence, which still arouse publ
 ## References
 
 
-1. [↑](#cite_ref-1) [Personal Robot 04](http://franz.cgsociety.org/art/3ds-max-personal-robot-04-499121) by [Franz Steiner | CGSocietyr](http://franz.cgsociety.org/)
-2. [↑](#cite_ref-2) [Russian presidential aide to play chess with robot](http://en.rian.ru/sports/20100608/159349837.html), Sports, [RIA Novosti](https://en.wikipedia.org/wiki/RIA_Novosti), June 08, 2010
-3. [↑](#cite_ref-3) [Chess grand masters outsmart robot](http://english.ruvr.ru/2010/06/10/9528919.html) from [The Voice of Russia](https://en.wikipedia.org/wiki/Voice_of_Russia), June 10, 2010
-4. [↑](#cite_ref-4) [Chua Huiyan](http://de.scientificcommons.org/huiyan_chua), Le Vinh, [Wong Lai Kuan](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/k/Kuan:Wong_Lai.html) (**2007**). *Chess Vision*. [School of Computing](https://en.wikipedia.org/wiki/NUS_School_of_Computing), [National University of Singapore](https://en.wikipedia.org/wiki/National_University_of_Singapore), [slides as pdf](http://www.comp.nus.edu.sg/~cs4243/showcase/chess_vision/Chess-Vision-Presentation.pdf)
-5. [↑](#cite_ref-5) [Schachcomputer | elpeon.com - Alle Schachroboter](http://www.elpeon.com/index.php?mod=rb) (German)
-6. [↑](#cite_ref-6) [LegoLab](http://www.dcs.gla.ac.uk/%7Erod/legolab/index.htm)
-7. [↑](#cite_ref-7) [Lego from Wikipedia](https://en.wikipedia.org/wiki/Lego)
-8. [↑](#cite_ref-8) [Lego Mindstorms from Wikipedia](https://en.wikipedia.org/wiki/Lego_Mindstorms)
-9. [↑](#cite_ref-9) [The Gambit Manipulator at UW RSE-lab](http://www.cs.washington.edu/ai/Mobile_Robotics//projects/gambit/)
-10. [↑](#cite_ref-10) [Personal Robotics at Intel Labs Seattle](http://www.seattle.intel-research.net/robotics/)
-11. [↑](#cite_ref-11) [Chess Playing Robot](http://www.chessplayingrobot.com/)
-12. [↑](#cite_ref-12) [Robot Blitz Chess! CHESSka vs. KUKA Monster - Game One](http://blog.chessking.com/robot-blitz-chess-chesska-vs-kuka-monstr-game-one/) by [Steve Lopez](index.php?title=Steve_Lopez&action=edit&redlink=1 "Steve Lopez (page does not exist)"), [Chess King](index.php?title=Chess_King&action=edit&redlink=1 "Chess King (page does not exist)"), May 25, 2012
-13. [↑](#cite_ref-13) [sarxos/webcam-capture · GitHub](https://github.com/sarxos/webcam-capture)
-14. [↑](#cite_ref-14) [Re: My chess robot project using Micromax chess on Arduino](http://www.talkchess.com/forum/viewtopic.php?t=64823&start=6) by Sergey Meus, [CCC](CCC "CCC"), August 07, 2017
-15. [↑](#cite_ref-15) [A new Robot?](http://www.hiarcs.net/forums/viewtopic.php?t=8074) by dedicate computers, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 13, 2016
-16. [↑](#cite_ref-16) [Re: A new Robot?](http://www.hiarcs.net/forums/viewtopic.php?t=8074&start=26) by Scally, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), August 01, 2017
-17. [↑](#cite_ref-17) [My chess robot project using Micromax chess on Arduino](http://www.talkchess.com/forum/viewtopic.php?t=64823) by [Chris Quayle](index.php?title=Chris_Quayle&action=edit&redlink=1 "Chris Quayle (page does not exist)"), [CCC](CCC "CCC"), August 06, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Personal Robot 04](http://franz.cgsociety.org/art/3ds-max-personal-robot-04-499121) by [Franz Steiner | CGSocietyr](http://franz.cgsociety.org/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Russian presidential aide to play chess with robot](http://en.rian.ru/sports/20100608/159349837.html), Sports, [RIA Novosti](https://en.wikipedia.org/wiki/RIA_Novosti), June 08, 2010
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chess grand masters outsmart robot](http://english.ruvr.ru/2010/06/10/9528919.html) from [The Voice of Russia](https://en.wikipedia.org/wiki/Voice_of_Russia), June 10, 2010
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chua Huiyan](http://de.scientificcommons.org/huiyan_chua), Le Vinh, [Wong Lai Kuan](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/k/Kuan:Wong_Lai.html) (**2007**). *Chess Vision*. [School of Computing](https://en.wikipedia.org/wiki/NUS_School_of_Computing), [National University of Singapore](https://en.wikipedia.org/wiki/National_University_of_Singapore), [slides as pdf](http://www.comp.nus.edu.sg/~cs4243/showcase/chess_vision/Chess-Vision-Presentation.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Schachcomputer | elpeon.com - Alle Schachroboter](http://www.elpeon.com/index.php?mod=rb) (German)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [LegoLab](http://www.dcs.gla.ac.uk/%7Erod/legolab/index.htm)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Lego from Wikipedia](https://en.wikipedia.org/wiki/Lego)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Lego Mindstorms from Wikipedia](https://en.wikipedia.org/wiki/Lego_Mindstorms)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The Gambit Manipulator at UW RSE-lab](http://www.cs.washington.edu/ai/Mobile_Robotics//projects/gambit/)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Personal Robotics at Intel Labs Seattle](http://www.seattle.intel-research.net/robotics/)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Chess Playing Robot](http://www.chessplayingrobot.com/)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Robot Blitz Chess! CHESSka vs. KUKA Monster - Game One](http://blog.chessking.com/robot-blitz-chess-chesska-vs-kuka-monstr-game-one/) by [Steve Lopez](index.php?title=Steve_Lopez&action=edit&redlink=1 "Steve Lopez (page does not exist)"), [Chess King](index.php?title=Chess_King&action=edit&redlink=1 "Chess King (page does not exist)"), May 25, 2012
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [sarxos/webcam-capture · GitHub](https://github.com/sarxos/webcam-capture)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Re: My chess robot project using Micromax chess on Arduino](http://www.talkchess.com/forum/viewtopic.php?t=64823&start=6) by Sergey Meus, [CCC](CCC "CCC"), August 07, 2017
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [A new Robot?](http://www.hiarcs.net/forums/viewtopic.php?t=8074) by dedicate computers, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), October 13, 2016
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Re: A new Robot?](http://www.hiarcs.net/forums/viewtopic.php?t=8074&start=26) by Scally, [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), August 01, 2017
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [My chess robot project using Micromax chess on Arduino](http://www.talkchess.com/forum/viewtopic.php?t=64823) by [Chris Quayle](index.php?title=Chris_Quayle&action=edit&redlink=1 "Chris Quayle (page does not exist)"), [CCC](CCC "CCC"), August 06, 2017
 
 **[Up one Level](Artificial_Intelligence "Artificial Intelligence")**
 

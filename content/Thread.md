@@ -5,7 +5,7 @@ title: Thread
 
 
 
-[ Two threads on a single processor [[1]](#cite_note-1)
+[ Two threads on a single processor <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 A **Thread** is the smallest unit of processing that can be [scheduled](https://en.wikipedia.org/wiki/Scheduling_algorithm) by an [operating system](https://en.wikipedia.org/wiki/Operating_system). One or multiple threads can exist within the same [process](Process "Process") to share its resources such as [memory](Memory "Memory"). Modern operating systems support both [time-sliced](https://en.wikipedia.org/wiki/Time-division_multiplexing) and multiprocessor threading within a process scheduler. Some operating systems such as [Windows](Windows "Windows") distinguish worker threads from GUI-threads, which incorporate a [message loop](https://en.wikipedia.org/wiki/Event_loop), able to receive messages from worker threads. Threads share [global data](https://en.wikipedia.org/wiki/Global_variable) of the process, but use disjoint [stacks](Stack "Stack") for [local variables](https://en.wikipedia.org/wiki/Local_variable).
 
 
@@ -39,9 +39,9 @@ Chess programs using threads for a [parallel search](Parallel_Search "Parallel S
 ### 2010 ...
 
 
-* [Subhash Saini](https://en.wikipedia.org/wiki/Subhash_Saini), [Haoqiang Jin](http://people.nas.nasa.gov/~hjin/home.html), [Robert Hood](https://www.linkedin.com/in/robert-hood-250756), [David Barker](https://www.linkedin.com/in/david-barker-31484240), [Piyush Mehrotra](https://www.linkedin.com/in/pimehrotra), [Rupak Biswas](https://www.linkedin.com/in/rupak-biswas-5229805) (**2011**). *The Impact of Hyper-Threading on Processor Resource Utilization in Production Applications*. [NASA Advanced Supercomputing Division](https://en.wikipedia.org/wiki/NASA_Advanced_Supercomputing_Division), [pdf](https://www.nas.nasa.gov/assets/pdf/papers/saini_s_impact_hyper_threading_2011.pdf), [pdf](http://www.nas.nasa.gov/assets/pdf/papers/Saini_etAl_IEEE_HiPC_2011.pdf) [[2]](#cite_note-2)
-* [Anthony Williams](http://stackoverflow.com/users/5597/anthony-williams) (**2012**). *[C++ Concurrency in Action: Practical Multithreading](http://www.cplusplusconcurrencyinaction.com/)*. [[3]](#cite_note-3)
-* [Georg Hager](https://www.rrze.fau.de/wir-ueber-uns/organigramm/mitarbeiter/index.shtml/georg-hager.shtml) [[4]](#cite_note-4), [Jan Treibig](http://dblp.uni-trier.de/pers/hd/t/Treibig:Jan), [Gerhard Wellein](http://dblp.uni-trier.de/pers/hd/w/Wellein:Gerhard) (**2013**). *The Practitioner's Cookbook for Good Parallel Performance on Multi- and Many-Core Systems*. [RRZE](https://de.wikipedia.org/wiki/Regionales_Rechenzentrum_Erlangen), [SC13](http://sc13.supercomputing.org/), [slides as pdf](https://blogs.fau.de/hager/files/2013/11/sc13_tutorial_134.pdf)
+* [Subhash Saini](https://en.wikipedia.org/wiki/Subhash_Saini), [Haoqiang Jin](http://people.nas.nasa.gov/~hjin/home.html), [Robert Hood](https://www.linkedin.com/in/robert-hood-250756), [David Barker](https://www.linkedin.com/in/david-barker-31484240), [Piyush Mehrotra](https://www.linkedin.com/in/pimehrotra), [Rupak Biswas](https://www.linkedin.com/in/rupak-biswas-5229805) (**2011**). *The Impact of Hyper-Threading on Processor Resource Utilization in Production Applications*. [NASA Advanced Supercomputing Division](https://en.wikipedia.org/wiki/NASA_Advanced_Supercomputing_Division), [pdf](https://www.nas.nasa.gov/assets/pdf/papers/saini_s_impact_hyper_threading_2011.pdf), [pdf](http://www.nas.nasa.gov/assets/pdf/papers/Saini_etAl_IEEE_HiPC_2011.pdf) <a id="cite-note-2" href="#cite-ref-2">[2]</a>
+* [Anthony Williams](http://stackoverflow.com/users/5597/anthony-williams) (**2012**). *[C++ Concurrency in Action: Practical Multithreading](http://www.cplusplusconcurrencyinaction.com/)*. <a id="cite-note-3" href="#cite-ref-3">[3]</a>
+* [Georg Hager](https://www.rrze.fau.de/wir-ueber-uns/organigramm/mitarbeiter/index.shtml/georg-hager.shtml) <a id="cite-note-4" href="#cite-ref-4">[4]</a>, [Jan Treibig](http://dblp.uni-trier.de/pers/hd/t/Treibig:Jan), [Gerhard Wellein](http://dblp.uni-trier.de/pers/hd/w/Wellein:Gerhard) (**2013**). *The Practitioner's Cookbook for Good Parallel Performance on Multi- and Many-Core Systems*. [RRZE](https://de.wikipedia.org/wiki/Regionales_Rechenzentrum_Erlangen), [SC13](http://sc13.supercomputing.org/), [slides as pdf](https://blogs.fau.de/hager/files/2013/11/sc13_tutorial_134.pdf)
 
 
 ## Forum Posts
@@ -124,7 +124,7 @@ Chess programs using threads for a [parallel search](Parallel_Search "Parallel S
 * [Threads-Test](http://www.talkchess.com/forum/viewtopic.php?t=51655) by [Andreas Strangmüller](Andreas_Strangm%C3%BCller "Andreas Strangmüller"), [CCC](CCC "CCC"), March 18, 2014 » [Parallel Search](Parallel_Search "Parallel Search"), [Stockfish](Stockfish "Stockfish")
 * [Threads-Test - SF, Zappa, Komodo - 1 vs. 2, 4, 8, 16 Threads](http://www.talkchess.com/forum/viewtopic.php?t=52219) by [Andreas Strangmüller](Andreas_Strangm%C3%BCller "Andreas Strangmüller"), [CCC](CCC "CCC"), May 04, 2014 » [Stockfish](Stockfish "Stockfish"), [Zappa](Zappa "Zappa"), [Komodo](Komodo "Komodo")
 * [Threads factor: Komodo, Houdini, Stockfish and Zappa](http://www.talkchess.com/forum/viewtopic.php?p=570955) by [Andreas Strangmüller](Andreas_Strangm%C3%BCller "Andreas Strangmüller"), [CCC](CCC "CCC"), May 17, 2014 » [Komodo](Komodo "Komodo"), [Houdini](Houdini "Houdini"), [Stockfish](Stockfish "Stockfish"), [Zappa](Zappa "Zappa")
-* [TinyThread++](http://www.talkchess.com/forum/viewtopic.php?t=53063) by [Alberto Sanjuan](Alberto_Sanjuan "Alberto Sanjuan"), [CCC](CCC "CCC"), July 24, 2014 [[5]](#cite_note-5)
+* [TinyThread++](http://www.talkchess.com/forum/viewtopic.php?t=53063) by [Alberto Sanjuan](Alberto_Sanjuan "Alberto Sanjuan"), [CCC](CCC "CCC"), July 24, 2014 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 * [Best way to handle input thread](http://www.talkchess.com/forum/viewtopic.php?t=53230) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), August 09, 2014
 * [(Why) Is hyperthreading bad for chess engines?](http://www.talkchess.com/forum/viewtopic.php?t=53806) by [Syed Fahad](Syed_Fahad "Syed Fahad"), [CCC](CCC "CCC"), September 23, 2014
 * [Threads test incl. Stockfish 5 and Komodo 8](http://www.talkchess.com/forum/viewtopic.php?t=53995) by [Andreas Strangmüller](Andreas_Strangm%C3%BCller "Andreas Strangmüller"), [CCC](CCC "CCC"), October 09, 2014
@@ -158,7 +158,7 @@ Chess programs using threads for a [parallel search](Parallel_Search "Parallel S
 * [Threads test incl. Stockfish 7](http://www.talkchess.com/forum/viewtopic.php?t=58887) by [Andreas Strangmüller](Andreas_Strangm%C3%BCller "Andreas Strangmüller"), [CCC](CCC "CCC"), January 11, 2016 » [Parallel Search](Parallel_Search "Parallel Search"), [Stockfish](Stockfish "Stockfish")
 * [Threads test incl. Komodo 9.3](http://www.talkchess.com/forum/viewtopic.php?t=58950) by [Andreas Strangmüller](Andreas_Strangm%C3%BCller "Andreas Strangmüller"), [CCC](CCC "CCC"), January 17, 2016 » [Komodo](Komodo "Komodo")
 * [threading](http://www.talkchess.com/forum/viewtopic.php?t=59423) by [Folkert van Heusden](Folkert_van_Heusden "Folkert van Heusden"), [CCC](CCC "CCC"), March 03, 2016
-* [lazy smp using ms vs2015 c++11 std::async](http://www.talkchess.com/forum/viewtopic.php?t=60979) by [Edward Yu](index.php?title=Edward_Yu&action=edit&redlink=1 "Edward Yu (page does not exist)"), [CCC](CCC "CCC"), July 29, 2016 » [Lazy SMP](Lazy_SMP "Lazy SMP") [[6]](#cite_note-6)
+* [lazy smp using ms vs2015 c++11 std::async](http://www.talkchess.com/forum/viewtopic.php?t=60979) by [Edward Yu](index.php?title=Edward_Yu&action=edit&redlink=1 "Edward Yu (page does not exist)"), [CCC](CCC "CCC"), July 29, 2016 » [Lazy SMP](Lazy_SMP "Lazy SMP") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 * [Baffling multithreading scaling behavior](http://www.talkchess.com/forum/viewtopic.php?t=61349) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [CCC](CCC "CCC"), September 06, 2016
 
 
@@ -265,7 +265,7 @@ Chess programs using threads for a [parallel search](Parallel_Search "Parallel S
 * [LinuxThreads from Wikipedia](https://en.wikipedia.org/wiki/LinuxThreads)
 * [FSU Pthread from Wikipedia](https://en.wikipedia.org/wiki/FSU_Pthreads)
 * [POSIX threads explained](http://www.ibm.com/developerworks/library/l-posix1/index.html) by [Daniel Robbins](http://www.ibm.com/developerworks/library/l-posix1/index.html#author1), [IBM developerWorks](http://www.ibm.com/developerworks/)
-* [POSIX Threads (pthreads) for Win32](http://sourceware.org/pthreads-win32/) (win64 [[7]](#cite_note-7))
+* [POSIX Threads (pthreads) for Win32](http://sourceware.org/pthreads-win32/) (win64 <a id="cite-note-7" href="#cite-ref-7">[7]</a>)
 
 
 ### [Windows](Windows "Windows")
@@ -291,7 +291,7 @@ Chess programs using threads for a [parallel search](Parallel_Search "Parallel S
 * [Chapter 24. Thread - Boost 1.47.0](http://www.boost.org/doc/libs/1_47_0/doc/html/thread.html) by [Anthony Williams](http://stackoverflow.com/users/5597/anthony-williams)
 * [Qt 4.7: Thread Support in Qt](http://doc.qt.nokia.com/latest/threads.html)
 * [Input thread, code](http://alaric.fendrich.se/Downloads.html#Topic7) from [Alaric](Alaric "Alaric") Downloads by [Peter Fendrich](Peter_Fendrich "Peter Fendrich")
-* [TinyThread++ - Portable thread library for C++](http://tinythreadpp.bitsnbites.eu/) [[8]](#cite_note-8)
+* [TinyThread++ - Portable thread library for C++](http://tinythreadpp.bitsnbites.eu/) <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 
 ### [Java](Java "Java")
@@ -310,14 +310,14 @@ Chess programs using threads for a [parallel search](Parallel_Search "Parallel S
 ## References
 
 
-1. [↑](#cite_ref-1) [Thread (computing) from Wikipedia](https://en.wikipedia.org/wiki/Thread_%28computing%29)
-2. [↑](#cite_ref-2) [Re: lazy smp using ms vs2015 c++11 std::async](http://www.talkchess.com/forum/viewtopic.php?t=60979&start=4) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), July 31, 2016
-3. [↑](#cite_ref-3) [Information on the C++11 Memory Model](http://scottmeyers.blogspot.co.uk/2012/04/information-on-c11-memory-model.html) by [Scott Meyers](https://en.wikipedia.org/wiki/Scott_Meyers), April 24, 2012
-4. [↑](#cite_ref-4) [Georg Hager's Blog | Random thoughts on High Performance Computing](https://blogs.fau.de/hager/)
-5. [↑](#cite_ref-5) [TinyThread++ - Portable thread library for C++](http://tinythreadpp.bitsnbites.eu/)
-6. [↑](#cite_ref-6) [std::async - cppreference.com](http://en.cppreference.com/w/cpp/thread/async)
-7. [↑](#cite_ref-7) [pthread-win32\_x64.zip - libusb-winusb-wip](https://code.google.com/p/libusb-winusb-wip/downloads/detail?name=pthread-win32_x64.zip&can=2&q=)
-8. [↑](#cite_ref-8) [TinyThread++](http://www.talkchess.com/forum/viewtopic.php?t=53063) by [Alberto Sanjuan](Alberto_Sanjuan "Alberto Sanjuan"), [CCC](CCC "CCC"), July 24, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Thread (computing) from Wikipedia](https://en.wikipedia.org/wiki/Thread_%28computing%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: lazy smp using ms vs2015 c++11 std::async](http://www.talkchess.com/forum/viewtopic.php?t=60979&start=4) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), July 31, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Information on the C++11 Memory Model](http://scottmeyers.blogspot.co.uk/2012/04/information-on-c11-memory-model.html) by [Scott Meyers](https://en.wikipedia.org/wiki/Scott_Meyers), April 24, 2012
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Georg Hager's Blog | Random thoughts on High Performance Computing](https://blogs.fau.de/hager/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [TinyThread++ - Portable thread library for C++](http://tinythreadpp.bitsnbites.eu/)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [std::async - cppreference.com](http://en.cppreference.com/w/cpp/thread/async)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [pthread-win32\_x64.zip - libusb-winusb-wip](https://code.google.com/p/libusb-winusb-wip/downloads/detail?name=pthread-win32_x64.zip&can=2&q=)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [TinyThread++](http://www.talkchess.com/forum/viewtopic.php?t=53063) by [Alberto Sanjuan](Alberto_Sanjuan "Alberto Sanjuan"), [CCC](CCC "CCC"), July 24, 2014
 
 **[Up one Level](Programming "Programming")**
 

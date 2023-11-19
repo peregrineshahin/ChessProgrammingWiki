@@ -8,7 +8,7 @@ title: WMCCC 1995
 
 
 
-[ Library of the [Paderborn University](Paderborn_University "Paderborn University") [[1]](#cite_note-1)
+[ Library of the [Paderborn University](Paderborn_University "Paderborn University") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 The **Thirteenth World Microcomputer Chess Championship** took place from October 10-15, [1995](Timeline#1995 "Timeline"), in the [Library](https://de.wikipedia.org/wiki/Universit%C3%A4tsbibliothek_Paderborn) of the [Paderborn University](Paderborn_University "Paderborn University"), [Paderborn](https://en.wikipedia.org/wiki/Paderborn), [Germany](https://en.wikipedia.org/wiki/Germany).
 
 
@@ -19,7 +19,7 @@ Two Computer World Championships in one year. After the [8th World Computer Ches
 ## Participants
 
 
-13th World Microcomputer Chess Championship, Oct. 1995, Paderborn GER [[4]](#cite_note-4)
+13th World Microcomputer Chess Championship, Oct. 1995, Paderborn GER <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 
 
@@ -148,7 +148,7 @@ Two Computer World Championships in one year. After the [8th World Computer Ches
 
 
 [](File:WMCCC95R7MChessQuest.jpg)
-Round 7, [MChess Pro 5.0](MChess "MChess") operated by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (right) vs. [Quest](Quest "Quest") by [Frans Morsch](Frans_Morsch "Frans Morsch") [[5]](#cite_note-5) [[6]](#cite_note-6)
+Round 7, [MChess Pro 5.0](MChess "MChess") operated by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") (right) vs. [Quest](Quest "Quest") by [Frans Morsch](Frans_Morsch "Frans Morsch") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 
 
@@ -175,7 +175,7 @@ Round 7, [MChess Pro 5.0](MChess "MChess") operated by [Peter Schreiner](Peter_S
 
 [](File:WMCCC1995Winners.jpg)
 A Tropism towards Trophies, The professional trophy awarded to [Chess Genius](Chess_Genius "Chess Genius") by [Richard Lang](Richard_Lang "Richard Lang"),  
-the absolute World Champion, [MChess Pro 5.0](MChess "MChess") represented by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") [[7]](#cite_note-7)
+the absolute World Champion, [MChess Pro 5.0](MChess "MChess") represented by [Peter Schreiner](Peter_Schreiner "Peter Schreiner") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 
 
@@ -194,7 +194,7 @@ the absolute World Champion, [MChess Pro 5.0](MChess "MChess") represented by [P
 ## The Tournament
 
 
-The host was represented by two programs, [Cheiron](Cheiron "Cheiron") and [Alpha I](Alpha_I "Alpha I"), a single processor version of [Zugzwang](Zugzwang_(Program) "Zugzwang (Program)"). Reigning World Microcomputer Champion [HIARCS](HIARCS "HIARCS") wasn't represented by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), but a local operator, who unfortunately lost some time between moves up and then [[8]](#cite_note-8) [[9]](#cite_note-9) [[10]](#cite_note-10) . [MChess](MChess "MChess") on the other hand was operated by an encouraged [Peter Schreiner](Peter_Schreiner "Peter Schreiner") with great care. [Richard Lang](Richard_Lang "Richard Lang") was abort on behalf of [Chess Genius](Chess_Genius "Chess Genius"), [Johan de Koning](Johan_de_Koning "Johan de Koning") with [The King](The_King "The King"). From the United States [Bruce Moreland](Bruce_Moreland "Bruce Moreland") was present, while [Junior](Junior "Junior") was operated by local university staff. [Fritz](Fritz "Fritz"), who just won the [Shannon Trophy](Shannon_Trophy "Shannon Trophy") a [few months before](WCCC_1995 "WCCC 1995") did not participate in person, but his twin brother [Quest](Quest "Quest") by [Frans Morsch](Frans_Morsch "Frans Morsch").
+The host was represented by two programs, [Cheiron](Cheiron "Cheiron") and [Alpha I](Alpha_I "Alpha I"), a single processor version of [Zugzwang](Zugzwang_(Program) "Zugzwang (Program)"). Reigning World Microcomputer Champion [HIARCS](HIARCS "HIARCS") wasn't represented by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), but a local operator, who unfortunately lost some time between moves up and then <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> . [MChess](MChess "MChess") on the other hand was operated by an encouraged [Peter Schreiner](Peter_Schreiner "Peter Schreiner") with great care. [Richard Lang](Richard_Lang "Richard Lang") was abort on behalf of [Chess Genius](Chess_Genius "Chess Genius"), [Johan de Koning](Johan_de_Koning "Johan de Koning") with [The King](The_King "The King"). From the United States [Bruce Moreland](Bruce_Moreland "Bruce Moreland") was present, while [Junior](Junior "Junior") was operated by local university staff. [Fritz](Fritz "Fritz"), who just won the [Shannon Trophy](Shannon_Trophy "Shannon Trophy") a [few months before](WCCC_1995 "WCCC 1995") did not participate in person, but his twin brother [Quest](Quest "Quest") by [Frans Morsch](Frans_Morsch "Frans Morsch").
 
 
 
@@ -209,14 +209,14 @@ After a lot of tough and thrilling matches, the title of the Professional Microc
 ### System Tal vs XXXX
 
 
-A small anecdote appeared in the last round between [Chess System Tal](Chess_System_Tal "Chess System Tal") by [Chris Whittington](Chris_Whittington "Chris Whittington") versus [Martin Zentner's](Martin_Zentner "Martin Zentner") [XXXX](XXXX "XXXX") (FourX). Instead of a [queen-promotion](Promotions "Promotions") with a fast mate, the graphical System Tal board indicated a minor promotion to a knight! System Tal operator [Thorsten Czub](Thorsten_Czub "Thorsten Czub") played the move over the board and had to resign on behalf of Chess System Tal, while Chris, already celebrating the safe point in the cafeteria, was not amused when he arrived back on the board. A bug in a graphics drawing routine indexed the wrong piece and caused some rule discussions in the news groups [[11]](#cite_note-11) [[12]](#cite_note-12) [[13]](#cite_note-13) . Chris on place argued the PVs, as stored inside a log-file, indicated the mate score and the correct moves. Nevertheless, Tournament Director [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") was unpersuadable.
+A small anecdote appeared in the last round between [Chess System Tal](Chess_System_Tal "Chess System Tal") by [Chris Whittington](Chris_Whittington "Chris Whittington") versus [Martin Zentner's](Martin_Zentner "Martin Zentner") [XXXX](XXXX "XXXX") (FourX). Instead of a [queen-promotion](Promotions "Promotions") with a fast mate, the graphical System Tal board indicated a minor promotion to a knight! System Tal operator [Thorsten Czub](Thorsten_Czub "Thorsten Czub") played the move over the board and had to resign on behalf of Chess System Tal, while Chris, already celebrating the safe point in the cafeteria, was not amused when he arrived back on the board. A bug in a graphics drawing routine indexed the wrong piece and caused some rule discussions in the news groups <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a> . Chris on place argued the PVs, as stored inside a log-file, indicated the mate score and the correct moves. Nevertheless, Tournament Director [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") was unpersuadable.
 
 
 
 ## Winner's Curse
 
 
-With hindsight MChess' title of the "absolute" Microcomputer Chess Champion wasn't the expected commercial breakthrough of the [MS-DOS](MS-DOS "MS-DOS") program. [Windows 95](Windows "Windows") was already dominating the [PC](IBM_PC "IBM PC")-market, and the trials by his European Distributor [Martin Stamer](Martin_Stamer "Martin Stamer") to place a DOS program in the mass market was not that successful. Due to some formal advertisement faults by Stamer and some questionable and euphoric statements in his *Chess Computer Catalogue 1996* [[14]](#cite_note-14) , problems arose, with monetary consequences for the programmers under contract, [Marty Hirsch](Marty_Hirsch "Marty Hirsch") [[15]](#cite_note-15) and [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"). Mutual preliminary injunction initiated by Stamer's business rival [Ossi Weiner](Ossi_Weiner "Ossi Weiner") and continuous court cases over years [[16]](#cite_note-16) was the consequence. In February 1997 Marty made a public accusation against his former distributor in a newsgroup [[17]](#cite_note-17) , while he was already about to collaborate with Weiner. The German Magazine [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") broached that issue [[18]](#cite_note-18) , where Stamer made a counterstatement.
+With hindsight MChess' title of the "absolute" Microcomputer Chess Champion wasn't the expected commercial breakthrough of the [MS-DOS](MS-DOS "MS-DOS") program. [Windows 95](Windows "Windows") was already dominating the [PC](IBM_PC "IBM PC")-market, and the trials by his European Distributor [Martin Stamer](Martin_Stamer "Martin Stamer") to place a DOS program in the mass market was not that successful. Due to some formal advertisement faults by Stamer and some questionable and euphoric statements in his *Chess Computer Catalogue 1996* <a id="cite-note-14" href="#cite-ref-14">[14]</a> , problems arose, with monetary consequences for the programmers under contract, [Marty Hirsch](Marty_Hirsch "Marty Hirsch") <a id="cite-note-15" href="#cite-ref-15">[15]</a> and [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"). Mutual preliminary injunction initiated by Stamer's business rival [Ossi Weiner](Ossi_Weiner "Ossi Weiner") and continuous court cases over years <a id="cite-note-16" href="#cite-ref-16">[16]</a> was the consequence. In February 1997 Marty made a public accusation against his former distributor in a newsgroup <a id="cite-note-17" href="#cite-ref-17">[17]</a> , while he was already about to collaborate with Weiner. The German Magazine [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") broached that issue <a id="cite-note-18" href="#cite-ref-18">[18]</a> , where Stamer made a counterstatement.
 
 
 
@@ -252,24 +252,24 @@ With hindsight MChess' title of the "absolute" Microcomputer Chess Champion wasn
 ## References
 
 
-1. [↑](#cite_ref-1) Library of the Paderborn University, Image by [Sören Brandes](https://commons.wikimedia.org/wiki/User:Tolanor), July 17, 2006, [Universitätsbibliothek Paderborn – Wikipedia.de](https://de.wikipedia.org/wiki/Universit%C3%A4tsbibliothek_Paderborn) (German)
-2. [↑](#cite_ref-2) [13th World Microcomputer Chess Championship](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=56) [ICGA](ICGA "ICGA") tournament site
-3. [↑](#cite_ref-3) [13th World Microcomputer Chess Championship, Oct. 1995, Paderborn GER](http://www.csvn.nl/index.php?option=com_content&task=view&id=77&Itemid=48) from the [CSVN](CSVN "CSVN") [tournament site](http://www.csvn.nl/index.php?option=com_content&view=category&id=19&Itemid=48&lang=en)
-4. [↑](#cite_ref-4) [13th World Microcomputer Chess Championship - Paderborn 1995 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=56)
-5. [↑](#cite_ref-5) Photo by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"). [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal"), pp. 255
-6. [↑](#cite_ref-6) [Paderborn 1995 - Chess - Round 7 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=56&round=7&id=3)
-7. [↑](#cite_ref-7) Photo by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal"), pp. 231
-8. [↑](#cite_ref-8) [ICCA rules](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/dffcd4f0daf909e6) by [Martin Zentner](Martin_Zentner "Martin Zentner"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 31, 1995
-9. [↑](#cite_ref-9) [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1995**). *Computers & Operators*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 65
-10. [↑](#cite_ref-10) [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1995**). *Autoplayers*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 66
-11. [↑](#cite_ref-11) [TOP 10 REASONS WHY YOU SHOULD STOP PROGRAMMING CHESS](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/1318e6ca7a630206) by [Martin Zentner](Martin_Zentner "Martin Zentner"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 20, 1995
-12. [↑](#cite_ref-12) [TOP 10 REASONS WHY YOU SHOULD STOP PROGRAMMING](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/9c7412af417a2e9f) by [Thomas Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 24, 1995
-13. [↑](#cite_ref-13) [ICCA rules, was TOP 10 REASONS...](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/124be7af6fd3fcd3) by [Thomas Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 29, 1995
-14. [↑](#cite_ref-14) Der Schachcomputer-Katalog 1996, Redaktion: [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), Editorial by [Martin Stamer](Martin_Stamer "Martin Stamer"), challenging [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) to play [MChess](MChess "MChess")
-15. [↑](#cite_ref-15) [Marty Hirsch](https://groups.google.com/d/msg/rec.games.chess.computer/CE8lF2uw1YY/7tWxUgLgFBoJ) by [Andreas Mader](Andreas_Mader "Andreas Mader"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 6, 1997
-16. [↑](#cite_ref-16) [Bundesgerichtshof, Urteil vom 13. 2. 2003 (German)](http://lexetius.com/2003,1403)
-17. [↑](#cite_ref-17) [Re: KK's Gold Metal list](https://groups.google.com/d/msg/rec.games.chess.computer/VkDSuYr15fo/yJlAa234Fj8J) by [Marty Hirsch](Marty_Hirsch "Marty Hirsch"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 24, 1997
-18. [↑](#cite_ref-18) [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender") (**1997**). *MChess vor dem Ruin*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") 2/97 pp 42
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Library of the Paderborn University, Image by [Sören Brandes](https://commons.wikimedia.org/wiki/User:Tolanor), July 17, 2006, [Universitätsbibliothek Paderborn – Wikipedia.de](https://de.wikipedia.org/wiki/Universit%C3%A4tsbibliothek_Paderborn) (German)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [13th World Microcomputer Chess Championship](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=56) [ICGA](ICGA "ICGA") tournament site
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [13th World Microcomputer Chess Championship, Oct. 1995, Paderborn GER](http://www.csvn.nl/index.php?option=com_content&task=view&id=77&Itemid=48) from the [CSVN](CSVN "CSVN") [tournament site](http://www.csvn.nl/index.php?option=com_content&view=category&id=19&Itemid=48&lang=en)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [13th World Microcomputer Chess Championship - Paderborn 1995 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=56)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Photo by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"). [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal"), pp. 255
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Paderborn 1995 - Chess - Round 7 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=56&round=7&id=3)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Photo by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [ICCA Journal, Vol. 18, No. 4](ICGA_Journal#18_4 "ICGA Journal"), pp. 231
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [ICCA rules](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/dffcd4f0daf909e6) by [Martin Zentner](Martin_Zentner "Martin Zentner"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 31, 1995
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1995**). *Computers & Operators*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 65
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Mark Uniacke](Mark_Uniacke "Mark Uniacke") (**1995**). *Autoplayers*. [Computer Chess Reports Vol. 5 No. 3+4](Computer_Chess_Reports "Computer Chess Reports") pp. 66
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [TOP 10 REASONS WHY YOU SHOULD STOP PROGRAMMING CHESS](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/1318e6ca7a630206) by [Martin Zentner](Martin_Zentner "Martin Zentner"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 20, 1995
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [TOP 10 REASONS WHY YOU SHOULD STOP PROGRAMMING](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/9c7412af417a2e9f) by [Thomas Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 24, 1995
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [ICCA rules, was TOP 10 REASONS...](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/124be7af6fd3fcd3) by [Thomas Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 29, 1995
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> Der Schachcomputer-Katalog 1996, Redaktion: [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), Editorial by [Martin Stamer](Martin_Stamer "Martin Stamer"), challenging [Garry Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) to play [MChess](MChess "MChess")
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Marty Hirsch](https://groups.google.com/d/msg/rec.games.chess.computer/CE8lF2uw1YY/7tWxUgLgFBoJ) by [Andreas Mader](Andreas_Mader "Andreas Mader"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 6, 1997
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Bundesgerichtshof, Urteil vom 13. 2. 2003 (German)](http://lexetius.com/2003,1403)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Re: KK's Gold Metal list](https://groups.google.com/d/msg/rec.games.chess.computer/VkDSuYr15fo/yJlAa234Fj8J) by [Marty Hirsch](Marty_Hirsch "Marty Hirsch"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 24, 1997
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender") (**1997**). *MChess vor dem Ruin*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") 2/97 pp 42
 
 **[Up one level](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship")**
 

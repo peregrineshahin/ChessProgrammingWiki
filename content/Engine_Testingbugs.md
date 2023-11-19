@@ -3,7 +3,7 @@ title: Engine Testingbugs
 ---
 **[Home](Home "Home") * Engine Testing**
 
-[](http://sanseverything.wordpress.com/2008/01/16/hope-springs-eternal/) The ever-optimistic [Wile E. Coyote](https://en.wikipedia.org/wiki/Wile_E._Coyote_and_Road_Runner) [[1]](#cite_note-1)
+[](http://sanseverything.wordpress.com/2008/01/16/hope-springs-eternal/) The ever-optimistic [Wile E. Coyote](https://en.wikipedia.org/wiki/Wile_E._Coyote_and_Road_Runner) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Engine Testing**,
 
 the process either to eliminate [bugs](https://en.wikipedia.org/wiki/Software_bug) and to measure [performance](Playing_Strength "Playing Strength") of a chess engine. New implementations of [move generation](Move_Generation "Move Generation") are tested with [Perft](Perft "Perft"), while new features and [tuning](Automated_Tuning "Automated Tuning") of [search](Search "Search") and [evaluation](Evaluation "Evaluation") are verified by [test-positions](Test-Positions "Test-Positions") and by playing [matches](Match_Statistics "Match Statistics") against other engines.
@@ -55,7 +55,7 @@ During testing the engines should ideally play the same style of openings they w
 
 ## Chess Server
 
-One can also test an engine's performance by comparing it to other programs on the various internet platforms [[2]](#cite_note-2) . In this case the different hardware and features like different [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") or [Opening Books](Opening_Book "Opening Book") have to be considered.
+One can also test an engine's performance by comparing it to other programs on the various internet platforms <a id="cite-note-2" href="#cite-ref-2">[2]</a> . In this case the different hardware and features like different [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") or [Opening Books](Opening_Book "Opening Book") have to be considered.
 
 - [Chess Server](Chess_Server "Chess Server")
 - [Tournaments](Tournaments_and_Matches "Tournaments and Matches")
@@ -87,7 +87,7 @@ The question whether certain results actually indicates a [strength](Playing_Str
 - [Novag Micro Chess - Castling bug](Novag_Micro_Chess#CastlingBug "Novag Micro Chess"), [CPWTIPC 1981](CPWTIPC_1981 "CPWTIPC 1981")
 - [Proscha](Proscha#bugs "Proscha") capturing its own king versus [Daja](Daja "Daja"), [First GI Computer Chess Tournament 1975](First_GI_Computer_Chess_Tournament "First GI Computer Chess Tournament")
 - [System Tal vs. XXXX](WMCCC_1995#TalXXXX "WMCCC 1995"), [Promotion](Promotions "Promotions") bug, [WMCCC 1995](WMCCC_1995 "WMCCC 1995")
-- [Xinix - Mate in One](XiniX "XiniX"), [DOCCC 2000](DOCCC_2000 "DOCCC 2000") [[3]](#cite_note-3)
+- [Xinix - Mate in One](XiniX "XiniX"), [DOCCC 2000](DOCCC_2000 "DOCCC 2000") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ## Publications
 
@@ -157,7 +157,7 @@ The question whether certain results actually indicates a [strength](Playing_Str
 **2011**
 
 - [testing question](http://www.talkchess.com/forum/viewtopic.php?t=39255) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), June 01, 2011
-- [Debugging regression tests](http://www.talkchess.com/forum/viewtopic.php?t=39390) by [Onno Garms](Onno_Garms "Onno Garms"), [CCC](CCC "CCC"), June 16, 2011 [[4]](#cite_note-4)
+- [Debugging regression tests](http://www.talkchess.com/forum/viewtopic.php?t=39390) by [Onno Garms](Onno_Garms "Onno Garms"), [CCC](CCC "CCC"), June 16, 2011 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 **2012**
 
@@ -169,7 +169,7 @@ The question whether certain results actually indicates a [strength](Playing_Str
 
 **2013**
 
-- [A poor man's testing environment](http://www.talkchess.com/forum/viewtopic.php?t=46759) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), January 04, 2013 [[5]](#cite_note-5) » [Match Statistics](Match_Statistics "Match Statistics")
+- [A poor man's testing environment](http://www.talkchess.com/forum/viewtopic.php?t=46759) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), January 04, 2013 <a id="cite-note-5" href="#cite-ref-5">[5]</a> » [Match Statistics](Match_Statistics "Match Statistics")
 - [engine-engine testing isues](http://www.talkchess.com/forum/viewtopic.php?t=46948) by [Jens Bæk Nielsen](Jens_B%C3%A6k_Nielsen "Jens Bæk Nielsen"), [CCC](CCC "CCC"), January 20, 2013
 - [Beta for Stockfish distributed testing](http://www.talkchess.com/forum/viewtopic.php?t=47407) by [Gary](Gary_Linscott "Gary Linscott"), [CCC](CCC "CCC"), March 05, 2013 » [Fishtest](Stockfish#TestingFramework "Stockfish")
 - [Fishtest Distributed Testing Framework](http://www.talkchess.com/forum/viewtopic.php?t=47885) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), May 01, 2013  » [Fishtest](Stockfish#TestingFramework "Stockfish")
@@ -254,11 +254,11 @@ The question whether certain results actually indicates a [strength](Playing_Str
 
 ## References
 
-1. [↑](#cite_ref-1) [Hope Springs Eternal](http://sanseverything.wordpress.com/2008/01/16/hope-springs-eternal/)
-1. [↑](#cite_ref-2) [Internet chess servers from Wikipedia](https://en.wikipedia.org/wiki/Category:Internet_chess_servers)
-1. [↑](#cite_ref-3) [Defending Humanity's Honor](http://www.xs4all.nl/~timkr/chess2/honor.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9)
-1. [↑](#cite_ref-4) [Regression testing from Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
-1. [↑](#cite_ref-5) [Testing a chess engine from the ground up](http://www.top-5000.nl/tuning.htm) from [Home of the Dutch Rebel](http://www.top-5000.nl/) by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hope Springs Eternal](http://sanseverything.wordpress.com/2008/01/16/hope-springs-eternal/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Internet chess servers from Wikipedia](https://en.wikipedia.org/wiki/Category:Internet_chess_servers)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Defending Humanity's Honor](http://www.xs4all.nl/~timkr/chess2/honor.htm) by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Regression testing from Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Testing a chess engine from the ground up](http://www.top-5000.nl/tuning.htm) from [Home of the Dutch Rebel](http://www.top-5000.nl/) by [Ed Schröder](Ed_Schroder "Ed Schroder")
 
 **[Up one Level](Home "Home")**
 

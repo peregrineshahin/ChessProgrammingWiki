@@ -5,11 +5,11 @@ title: General Game Playing
 
 **General Game Playing**, (GGP)
 
-an approach of Artificial Intelligence programs to be able to play more than one game successfully. For games like [chess](Chess "Chess"), computers are programmed to play these games using a specially designed algorithm - a chess playing program cannot play [checkers](Checkers "Checkers"). A General Game Playing system, if well designed, would be able to help in other areas, such as in providing intelligence for search and rescue missions [[1]](#cite_note-1). One well known commercial General Game program is [Zillions of Games](Zillions_of_Games "Zillions of Games") by [Jeff Mallett](Jeff_Mallett "Jeff Mallett") and [Mark Lefler](Mark_Lefler "Mark Lefler") [[2]](#cite_note-2) .
+an approach of Artificial Intelligence programs to be able to play more than one game successfully. For games like [chess](Chess "Chess"), computers are programmed to play these games using a specially designed algorithm - a chess playing program cannot play [checkers](Checkers "Checkers"). A General Game Playing system, if well designed, would be able to help in other areas, such as in providing intelligence for search and rescue missions <a id="cite-note-1" href="#cite-ref-1">[1]</a>. One well known commercial General Game program is [Zillions of Games](Zillions_of_Games "Zillions of Games") by [Jeff Mallett](Jeff_Mallett "Jeff Mallett") and [Mark Lefler](Mark_Lefler "Mark Lefler") <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
 ## GVGP
 
-General video game playing (GVGP) is the concept of GGP adjusted to the purpose of playing [video games](https://en.wikipedia.org/wiki/Video_game) [[3]](#cite_note-3), and to apply [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") and [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") to master video and [Atari](Atari_8-bit "Atari 8-bit") games of skill and strategy.
+General video game playing (GVGP) is the concept of GGP adjusted to the purpose of playing [video games](https://en.wikipedia.org/wiki/Video_game) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and to apply [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") and [Monte-Carlo tree search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") to master video and [Atari](Atari_8-bit "Atari 8-bit") games of skill and strategy.
 
 ## Selected Publications
 
@@ -83,8 +83,8 @@ General video game playing (GVGP) is the concept of GGP adjusted to the purpose 
 **2013**
 
 - [Michael Genesereth](Michael_Genesereth "Michael Genesereth"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") (**2013**). *[The International  General Game Playing Competition](https://aaai.org/ojs/index.php/aimagazine/article/view/2475).* [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 34, No. 2
-- [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Stephan Schiffel](Stephan_Schiffel "Stephan Schiffel") (**2013**). *[Comparison of GDL Reasoners](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=jRcb4G4AAAAJ&citation_for_view=jRcb4G4AAAAJ:7PzlFSSx8tAC)*. [IJCAI 2013](Conferences#IJCAI2013 "Conferences") [[4]](#cite_note-4)
-- [Volodymyr Mnih](Volodymyr_Mnih "Volodymyr Mnih"), [Koray Kavukcuoglu](Koray_Kavukcuoglu "Koray Kavukcuoglu"), [David Silver](David_Silver "David Silver"), [Alex Graves](index.php?title=Alex_Graves&action=edit&redlink=1 "Alex Graves (page does not exist)"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Daan Wierstra](index.php?title=Daan_Wierstra&action=edit&redlink=1 "Daan Wierstra (page does not exist)"), [Martin Riedmiller](index.php?title=Martin_Riedmiller&action=edit&redlink=1 "Martin Riedmiller (page does not exist)") (**2013**). *Playing Atari with Deep Reinforcement Learning*. [arXiv:1312.5602](http://arxiv.org/abs/1312.5602) [[5]](#cite_note-5)
+- [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Stephan Schiffel](Stephan_Schiffel "Stephan Schiffel") (**2013**). *[Comparison of GDL Reasoners](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=jRcb4G4AAAAJ&citation_for_view=jRcb4G4AAAAJ:7PzlFSSx8tAC)*. [IJCAI 2013](Conferences#IJCAI2013 "Conferences") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
+- [Volodymyr Mnih](Volodymyr_Mnih "Volodymyr Mnih"), [Koray Kavukcuoglu](Koray_Kavukcuoglu "Koray Kavukcuoglu"), [David Silver](David_Silver "David Silver"), [Alex Graves](index.php?title=Alex_Graves&action=edit&redlink=1 "Alex Graves (page does not exist)"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Daan Wierstra](index.php?title=Daan_Wierstra&action=edit&redlink=1 "Daan Wierstra (page does not exist)"), [Martin Riedmiller](index.php?title=Martin_Riedmiller&action=edit&redlink=1 "Martin Riedmiller (page does not exist)") (**2013**). *Playing Atari with Deep Reinforcement Learning*. [arXiv:1312.5602](http://arxiv.org/abs/1312.5602) <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 - [John Levine](index.php?title=John_Levine&action=edit&redlink=1 "John Levine (page does not exist)"), [Clare Bates Congdon](index.php?title=Clare_Bates_Congdon&action=edit&redlink=1 "Clare Bates Congdon (page does not exist)"), [Marc Ebner](index.php?title=Marc_Ebner&action=edit&redlink=1 "Marc Ebner (page does not exist)"), [Graham Kendall](Graham_Kendall "Graham Kendall"), [Simon Lucas](Simon_Lucas "Simon Lucas"), [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen"), [Tom Schaul](index.php?title=Tom_Schaul&action=edit&redlink=1 "Tom Schaul (page does not exist)"), [Tommy Thompson](index.php?title=Tommy_Thompson&action=edit&redlink=1 "Tommy Thompson (page does not exist)") (**2013**). *[General Video Game Playing](https://drops.dagstuhl.de/opus/volltexte/2013/4337/)*. [Artificial and Computational Intelligence in Games 2013](https://dblp.uni-trier.de/db/conf/dagstuhl/dfu6.html)
 - [Marc Ebner](index.php?title=Marc_Ebner&action=edit&redlink=1 "Marc Ebner (page does not exist)"), [John Levine](index.php?title=John_Levine&action=edit&redlink=1 "John Levine (page does not exist)"), [Simon Lucas](Simon_Lucas "Simon Lucas"), [Tom Schaul](index.php?title=Tom_Schaul&action=edit&redlink=1 "Tom Schaul (page does not exist)"), [Tommy Thompson](index.php?title=Tommy_Thompson&action=edit&redlink=1 "Tommy Thompson (page does not exist)"), [Julian Togelius](index.php?title=Julian_Togelius&action=edit&redlink=1 "Julian Togelius (page does not exist)") (**2013**). *[Towards a Video Game Description Language](https://drops.dagstuhl.de/opus/volltexte/2013/4338/)*. [Artificial and Computational Intelligence in Games 2013](https://dblp.uni-trier.de/db/conf/dagstuhl/dfu6.html)
 
@@ -148,11 +148,11 @@ General video game playing (GVGP) is the concept of GGP adjusted to the purpose 
 
 ## References
 
-1. [↑](#cite_ref-1) [General Game Playing - Home](http://www.general-game-playing.de/)
-1. [↑](#cite_ref-2) [Zillions of Games from Wikipedia](https://en.wikipedia.org/wiki/Zillions_of_Games)
-1. [↑](#cite_ref-3) [General video game playing from Wikipedia](https://en.wikipedia.org/wiki/General_video_game_playing)
-1. [↑](#cite_ref-4) [Game Description Language from Wikipedia](https://en.wikipedia.org/wiki/Game_Description_Language)
-1. [↑](#cite_ref-5) [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by [Tambet Matiisen](http://www.nervanasys.com/author/tambet/), [Nervana](http://www.nervanasys.com/), December 21, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [General Game Playing - Home](http://www.general-game-playing.de/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zillions of Games from Wikipedia](https://en.wikipedia.org/wiki/Zillions_of_Games)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [General video game playing from Wikipedia](https://en.wikipedia.org/wiki/General_video_game_playing)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Game Description Language from Wikipedia](https://en.wikipedia.org/wiki/Game_Description_Language)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by [Tambet Matiisen](http://www.nervanasys.com/author/tambet/), [Nervana](http://www.nervanasys.com/), December 21, 2015
 
 **[Up one Level](Games "Games")**
 

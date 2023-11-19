@@ -5,10 +5,10 @@ title: Kasparov versus Deep Blue 1997TheMachine
 
 
 
- [](File:DeepBlueKasparov1997Game2.jpg) [Garry Kasparov](Garry_Kasparov "Garry Kasparov") and [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") [[1]](#cite_note-1) 
+ [](File:DeepBlueKasparov1997Game2.jpg) [Garry Kasparov](Garry_Kasparov "Garry Kasparov") and [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Kasparov versus Deep Blue 1997**,  
 
-the rematch between [Garry Kasparov](Garry_Kasparov "Garry Kasparov") and [Deep Blue](Deep_Blue "Deep Blue"), agreed after the [Kasparov versus Deep Blue 1996](Kasparov_versus_Deep_Blue_1996 "Kasparov versus Deep Blue 1996") match won by Kasparov with 4–2. The rematch took place in [New York City](https://en.wikipedia.org/wiki/New_York_City), [New York](https://en.wikipedia.org/wiki/New_York), May 3-11, [1997](Timeline#1997 "Timeline"), and to a big surprise for most spectators Deep Blue won the rematch by 3½-2½ [[2]](#cite_note-2). Despite Kasparov's win of game 1 in a great style, he did not recover after the shock by Deep Blues' play in game 2, when Kasparov resigned a possibly drawn position after Deep Blue's 45. Ra6 [[3]](#cite_note-3) [[4]](#cite_note-4). In the final decisive game 6, Kasparov played 7...h6 in the [Caro-Kann](https://en.wikipedia.org/wiki/Caro-Kann_Defence) knowing that it could provoke white to sacrifice a piece, which is very strong, but expected 7... Ne4, assuming h6 was not in Deep Blue's [opening book](Opening_Book "Opening Book") [[5]](#cite_note-5). With hindsight the match was a huge advertisement and media hype for [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") rather than a "scientific" prove of machines supremacy versus humans in chess. Kasparov accused IBM of cheating and demanded a rematch [[6]](#cite_note-6), but IBM declined and retired Deep Blue. 
+the rematch between [Garry Kasparov](Garry_Kasparov "Garry Kasparov") and [Deep Blue](Deep_Blue "Deep Blue"), agreed after the [Kasparov versus Deep Blue 1996](Kasparov_versus_Deep_Blue_1996 "Kasparov versus Deep Blue 1996") match won by Kasparov with 4–2. The rematch took place in [New York City](https://en.wikipedia.org/wiki/New_York_City), [New York](https://en.wikipedia.org/wiki/New_York), May 3-11, [1997](Timeline#1997 "Timeline"), and to a big surprise for most spectators Deep Blue won the rematch by 3½-2½ <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Despite Kasparov's win of game 1 in a great style, he did not recover after the shock by Deep Blues' play in game 2, when Kasparov resigned a possibly drawn position after Deep Blue's 45. Ra6 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. In the final decisive game 6, Kasparov played 7...h6 in the [Caro-Kann](https://en.wikipedia.org/wiki/Caro-Kann_Defence) knowing that it could provoke white to sacrifice a piece, which is very strong, but expected 7... Ne4, assuming h6 was not in Deep Blue's [opening book](Opening_Book "Opening Book") <a id="cite-note-5" href="#cite-ref-5">[5]</a>. With hindsight the match was a huge advertisement and media hype for [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") rather than a "scientific" prove of machines supremacy versus humans in chess. Kasparov accused IBM of cheating and demanded a rematch <a id="cite-note-6" href="#cite-ref-6">[6]</a>, but IBM declined and retired Deep Blue. 
 It never competed again.
 
 
@@ -195,7 +195,7 @@ It never competed again.
 ### AAAI Workshop
 
 
-* [Robert Morris](index.php?title=Robert_Morris&action=edit&redlink=1 "Robert Morris (page does not exist)") (ed.) (**1997**). *[Deep Blue Versus Kasparov: The Significance for Artificial Intelligence](https://aaai.org/Library/Workshops/ws97-04.php)*. Technical Report WS-97-04, [AAAI Press](AAAI#Press "AAAI") [[17]](#cite_note-17) [[18]](#cite_note-18)
+* [Robert Morris](index.php?title=Robert_Morris&action=edit&redlink=1 "Robert Morris (page does not exist)") (ed.) (**1997**). *[Deep Blue Versus Kasparov: The Significance for Artificial Intelligence](https://aaai.org/Library/Workshops/ws97-04.php)*. Technical Report WS-97-04, [AAAI Press](AAAI#Press "AAAI") <a id="cite-note-17" href="#cite-ref-17">[17]</a> <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 
 1. [Richard Korf](Richard_Korf "Richard Korf") (**1997**). *Does Deep Blue use AI?* [Deep Blue versus Kasparov, AAAI Workshop](#AAAI_Workshop), [pdf](http://www.aaai.org/Papers/Workshops/1997/WS-97-04/WS97-04-001.pdf)
@@ -231,9 +231,9 @@ It never competed again.
 ### 2010 ...
 
 
-* [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**2011**). *[Beyond Deep Blue: Chess in the Stratosphere](http://www.springer.com/computer/general+issues/book/978-0-85729-340-4)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media) [[19]](#cite_note-19)
+* [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**2011**). *[Beyond Deep Blue: Chess in the Stratosphere](http://www.springer.com/computer/general+issues/book/978-0-85729-340-4)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media) <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 * [Martina Heßler](https://de.wikipedia.org/wiki/Martina_He%C3%9Fler) (**2017**). *[Der Erfolg der „Dummheit“](https://link.springer.com/article/10.1007/s00048-017-0167-6)*. [NTM Zeitschrift für Geschichte der Wissenschaften, Technik und Medizin](https://www.springer.com/journal/48), Vol. 25 (German with English abstract: *The Triumph of “Stupidity”*)
-* [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)") (**2017**). *[Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://www.goodreads.com/book/show/31934455-deep-thinking)*. [PublicAffairs](https://en.wikipedia.org/wiki/PublicAffairs) or [John Murray](https://en.wikipedia.org/wiki/John_Murray_(publisher)) [[20]](#cite_note-20) [[21]](#cite_note-21) [[22]](#cite_note-22)
+* [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)") (**2017**). *[Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://www.goodreads.com/book/show/31934455-deep-thinking)*. [PublicAffairs](https://en.wikipedia.org/wiki/PublicAffairs) or [John Murray](https://en.wikipedia.org/wiki/John_Murray_(publisher)) <a id="cite-note-20" href="#cite-ref-20">[20]</a> <a id="cite-note-21" href="#cite-ref-21">[21]</a> <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 
 
 ## Forum Posts
@@ -262,11 +262,11 @@ It never competed again.
 ### 2000 ...
 
 
-* ["Techmate" by Garry Kasparov](https://www.stmintz.com/ccc/index.php?id=108799) by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), May 02, 2000 [[23]](#cite_note-23)
+* ["Techmate" by Garry Kasparov](https://www.stmintz.com/ccc/index.php?id=108799) by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), May 02, 2000 <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 * [Wanted: Deep Blue vs. today's top programs recap](https://www.stmintz.com/ccc/index.php?id=185561) by [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)"), [CCC](CCC "CCC"), August 25, 2001
 * [Deep Blue game log - game #2](https://www.stmintz.com/ccc/index.php?id=300260) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), June 10, 2003
 * [Deep Blue vs. Kasparov, Match II/1997, Game 6 8. Nxe6](https://www.stmintz.com/ccc/index.php?id=389986) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), October 02, 2004
-* [Kasparov [HBR interview] : 'IBM committed a crime against science.'](https://www.stmintz.com/ccc/index.php?id=422970) by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), April 26, 2005 [[24]](#cite_note-24)
+* [Kasparov [HBR interview] : 'IBM committed a crime against science.'](https://www.stmintz.com/ccc/index.php?id=422970) by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), April 26, 2005 <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 * [Game 2, IBM Kasparov vs. Deep Blue, move 36.axb5](https://www.stmintz.com/ccc/index.php?id=491169) by Lar Mader, [CCC](CCC "CCC"), March 03, 2006
 
 
@@ -274,8 +274,8 @@ It never competed again.
 
 
 * [Performancerating of Kasparov and Deep Blue in their matches](http://www.talkchess.com/forum/viewtopic.php?t=45538) by [Jens Bæk Nielsen](Jens_B%C3%A6k_Nielsen "Jens Bæk Nielsen"), [CCC](CCC "CCC"), October 11, 2012
-* [New Pictures from Kasparov vs. Deep Blue](http://www.talkchess.com/forum/viewtopic.php?t=59211) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), February 10, 2016 [[25]](#cite_note-25)
-* [Scientific American article on Computer Chess](http://www.talkchess.com/forum/viewtopic.php?t=64158) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), June 03, 2017 [[26]](#cite_note-26) » [Murray Campbell](Murray_Campbell "Murray Campbell"), [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence")
+* [New Pictures from Kasparov vs. Deep Blue](http://www.talkchess.com/forum/viewtopic.php?t=59211) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), February 10, 2016 <a id="cite-note-25" href="#cite-ref-25">[25]</a>
+* [Scientific American article on Computer Chess](http://www.talkchess.com/forum/viewtopic.php?t=64158) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), June 03, 2017 <a id="cite-note-26" href="#cite-ref-26">[26]</a> » [Murray Campbell](Murray_Campbell "Murray Campbell"), [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence")
 * [Kasparov-Deep Thought 1997 (second game)](http://www.talkchess.com/forum/viewtopic.php?t=64627) by Franco Kanizsa, [CCC](CCC "CCC"), July 16, 2017
 
 
@@ -289,23 +289,23 @@ It never competed again.
 
 
  [Deep Blue versus Kasparov, 1997, Game 6 - Wikipedia](https://en.wikipedia.org/wiki/Deep_Blue_versus_Kasparov,_1997,_Game_6)
-* [Techmate](https://www.forbes.com/asap/1999/0222/071.html) by [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), February 22, 1999, [Forbes.com](https://en.wikipedia.org/wiki/Forbes) [[27]](#cite_note-27)
+* [Techmate](https://www.forbes.com/asap/1999/0222/071.html) by [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), February 22, 1999, [Forbes.com](https://en.wikipedia.org/wiki/Forbes) <a id="cite-note-27" href="#cite-ref-27">[27]</a>
 * [The Week in Chess Magazine: Open Letter](http://theweekinchess.com/html/twic270.html) from [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), January 10, 2000
 * [ChessBase: Behind Deep Blue](https://en.chessbase.com/post/behind-deep-blue) (review) by James E. DuBois, [ChessBase News](ChessBase "ChessBase"), October 13, 2002
 * [Von Kemplen's "The Turk" and IBM's "Deep Blue"](http://www.conceptlab.com/uci/2005fall/krapp/turk-kasparov/), Conspiracies of a Hidden Human by [Garnet Hertz](https://en.wikipedia.org/wiki/Garnet_Hertz), November 9, 2005
 * [A Decade After Kasparov's Defeat, Deep Blue Coder Relives Victory](https://www.wired.com/2007/05/a-decade-after-kasparovs-defeat-deep-blue-coder-relives-victory/), Interview with [Murray Campbell](Murray_Campbell "Murray Campbell") by [Robert Andrews](https://www.wired.com/author/robert-andrews/), [Wired News](https://en.wikipedia.org/wiki/Wired_(magazine)#Website), November 05, 2007
 * [The Man vs. The Machine documentary](https://en.chessbase.com/post/the-man-vs-the-machine-documentary) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), October 26, 2014
-* [Komodo 8: Deep Blue revisited (part one)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-one) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), December 26, 2014 » [Komodo](Komodo "Komodo") [[28]](#cite_note-28)
+* [Komodo 8: Deep Blue revisited (part one)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-one) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), December 26, 2014 » [Komodo](Komodo "Komodo") <a id="cite-note-28" href="#cite-ref-28">[28]</a>
 * [Komodo 8: Deep Blue revisited (part two)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-two) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), December 31, 2014
 * [Komodo 8: Deep Blue revisited (part three)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-three) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), January 09, 2015
 * [Deep Blue's cheating move](https://en.chessbase.com/post/deep-blue-s-cheating-move) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), February 19, 2015
 * [20 years ago, a computer first beat a chess world champion - 1996-1997 The Kasparov-Deep Blue chess matches](https://mashable.com/2016/02/10/kasparov-deep-blue/) by [Alex Q. Arbuckle](http://www.alexqarbuckle.com/bio), February 10, 2016
-* [Garry Kasparov: Don't fear intelligent machines. Work with them](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them) | [TED Talk](https://en.wikipedia.org/wiki/TED_(conference)), April 2017 [[29]](#cite_note-29)
+* [Garry Kasparov: Don't fear intelligent machines. Work with them](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them) | [TED Talk](https://en.wikipedia.org/wiki/TED_(conference)), April 2017 <a id="cite-note-29" href="#cite-ref-29">[29]</a>
 * [Twenty years on from Deep Blue vs Kasparov: how a chess match started the big data revolution](http://theconversation.com/twenty-years-on-from-deep-blue-vs-kasparov-how-a-chess-match-started-the-big-data-revolution-76882) by [Mark Robert Anderson](https://theconversation.com/profiles/mark-robert-anderson-273683), [The Conversation](https://en.wikipedia.org/wiki/The_Conversation_(website)), May 11, 2017
-* [20 Years after Deep Blue: How AI Has Advanced Since Conquering Chess](https://www.scientificamerican.com/article/20-years-after-deep-blue-how-ai-has-advanced-since-conquering-chess/) by [Larry Greenemeier](https://www.crunchbase.com/person/larry-greenemeier), [Scientific American](Scientific_American "Scientific American"), June 2, 2017 [[30]](#cite_note-30) » [Murray Campbell](Murray_Campbell "Murray Campbell")
+* [20 Years after Deep Blue: How AI Has Advanced Since Conquering Chess](https://www.scientificamerican.com/article/20-years-after-deep-blue-how-ai-has-advanced-since-conquering-chess/) by [Larry Greenemeier](https://www.crunchbase.com/person/larry-greenemeier), [Scientific American](Scientific_American "Scientific American"), June 2, 2017 <a id="cite-note-30" href="#cite-ref-30">[30]</a> » [Murray Campbell](Murray_Campbell "Murray Campbell")
 * [Kasparov on Deep Learning in chess](https://en.chessbase.com/post/kasparov-on-deep-learning-in-chess) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), December 13, 2017
 * [What is Garry up to?](https://en.chessbase.com/post/what-is-garry-up-to) by [Macauley Peterson](https://en.chessbase.com/author/macauley-peterson), [ChessBase News](ChessBase "ChessBase"), January 24, 2018
-* [Anjelina on Kasparov vs Deep Blue](https://en.chessbase.com/post/anjelina-on-kasparov-vs-deep-blue) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), May 17, 2019 [[31]](#cite_note-31)
+* [Anjelina on Kasparov vs Deep Blue](https://en.chessbase.com/post/anjelina-on-kasparov-vs-deep-blue) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), May 17, 2019 <a id="cite-note-31" href="#cite-ref-31">[31]</a>
 
 
 ## Videos
@@ -315,7 +315,7 @@ It never competed again.
 
 
  
-* [Game Over: Kasparov and the Machine (trailer)](https://en.wikipedia.org/wiki/Game_Over:_Kasparov_and_the_Machine), 2003 documentary film by [Vikram Jayanti](https://en.wikipedia.org/wiki/Vikram_Jayanti), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video [[32]](#cite_note-32)
+* [Game Over: Kasparov and the Machine (trailer)](https://en.wikipedia.org/wiki/Game_Over:_Kasparov_and_the_Machine), 2003 documentary film by [Vikram Jayanti](https://en.wikipedia.org/wiki/Vikram_Jayanti), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video <a id="cite-note-32" href="#cite-ref-32">[32]</a>
 
 
  
@@ -326,39 +326,39 @@ It never competed again.
 ## References
 
 
-1. [↑](#cite_ref-1) [Garry Kasparov](Garry_Kasparov "Garry Kasparov") just resigned Game 2, Capture from the [Endgame: Challenging the Master](Kasparov_versus_Deep_Blue_1997#Endgame "Kasparov versus Deep Blue 1997") Video @ 0:43, © 2005 [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-2. [↑](#cite_ref-2) [IBM Research | Kasparov vs. Deep Blue: The Rematch - IBM](https://researcher.watson.ibm.com/researcher/view_group.php?id=2942)
-3. [↑](#cite_ref-3) [Komodo 8: Deep Blue revisited (part one)](http://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-one) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), December 26, 2014
-4. [↑](#cite_ref-4) [Kasparov-Deep Thought 1997 (second game)](http://www.talkchess.com/forum/viewtopic.php?t=64627) by Franco Kanizsa, [CCC](CCC "CCC"), July 16, 2017
-5. [↑](#cite_ref-5) Kasparov says he played 7...h6 knowing that it could "provoke white to sacrifice a piece, which is very strong..., But machines don't sacrifice a piece for a pawn without having a concrete outcome in sight, so I expected that the computer would go back on e4 because this move was not in the special database prepared by a grandmaster team that worked with Deep Blue. And to my horror Deep Blue immediately took on e6, which means that the move was already put in."  
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Garry Kasparov](Garry_Kasparov "Garry Kasparov") just resigned Game 2, Capture from the [Endgame: Challenging the Master](Kasparov_versus_Deep_Blue_1997#Endgame "Kasparov versus Deep Blue 1997") Video @ 0:43, © 2005 [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [IBM Research | Kasparov vs. Deep Blue: The Rematch - IBM](https://researcher.watson.ibm.com/researcher/view_group.php?id=2942)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Komodo 8: Deep Blue revisited (part one)](http://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-one) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), December 26, 2014
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kasparov-Deep Thought 1997 (second game)](http://www.talkchess.com/forum/viewtopic.php?t=64627) by Franco Kanizsa, [CCC](CCC "CCC"), July 16, 2017
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Kasparov says he played 7...h6 knowing that it could "provoke white to sacrifice a piece, which is very strong..., But machines don't sacrifice a piece for a pawn without having a concrete outcome in sight, so I expected that the computer would go back on e4 because this move was not in the special database prepared by a grandmaster team that worked with Deep Blue. And to my horror Deep Blue immediately took on e6, which means that the move was already put in."  
 [What is Garry up to?](https://en.chessbase.com/post/what-is-garry-up-to) by [Macauley Peterson](https://en.chessbase.com/author/macauley-peterson), [ChessBase News](ChessBase "ChessBase"), January 24, 2018
-6. [↑](#cite_ref-6) [The Week in Chess Magazine: Open Letter](http://theweekinchess.com/html/twic270.html) from [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), January 10, 2000
-7. [↑](#cite_ref-7) [The Machine Starring Hadley Fraser and Francesca AnnisWritten by Matt Charman, directed by Josie Rourke](http://www.mif.co.uk/event/the-machine)
-8. [↑](#cite_ref-8) [The Machine : Program & Events : Park Avenue Armory](http://www.armoryonpark.org/programs_events/detail/the_machine)
-9. [↑](#cite_ref-9) [Manchester International Festival 2013 | Q&A Matt Charman](http://www.guardian.co.uk/culture/2013/may/24/matt-charman-the-machine) | [The Guardian](https://en.wikipedia.org/wiki/The_Guardian), May 24, 2013
-10. [↑](#cite_ref-10) [The Machine](http://hiarcs.net/forums/viewtopic.php?t=5953) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), May 11, 2013
-11. [↑](#cite_ref-11) [Kenneth Lee from Arkansas Repertory Theatre](http://www.therep.org/attend/productions/actor/default.aspx?id=79)
-12. [↑](#cite_ref-12) Photo by [Helen Maybanks](http://www.helenmaybanks.com/), [The Machine - New York - Donmar Warehouse](http://www.donmarwarehouse.com/whats-on/the-machine)
-13. [↑](#cite_ref-13) Photo by [Helen Maybanks](http://www.helenmaybanks.com/), [The Machine - New York - Donmar Warehouse](http://www.donmarwarehouse.com/whats-on/the-machine)
-14. [↑](#cite_ref-14) [Re: The Machine](http://hiarcs.net/forums/viewtopic.php?p=59722#59722) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), July 22, 2013
-15. [↑](#cite_ref-15) [The Machine - New York - Donmar Warehouse](http://www.donmarwarehouse.com/whats-on/the-machine)
-16. [↑](#cite_ref-16) [The Machine](http://www.northernsoul.me.uk/the-machine/)
-17. [↑](#cite_ref-17) [AAAI Workshop: Deep Blue Versus Kasparov: The Significance for Artificial Intelligence 1997](https://www.dblp.org/db/conf/aaai/aaai1997w6.html)
-18. [↑](#cite_ref-18) ["Deep Blue" inspires deep thinking about artificial intelligence by computer scientist](http://www1.ucsc.edu/oncampus/currents/97-05-05/chess.htm) by [Robert Irion](http://scicom.ucsc.edu/faculty/), May 5, 1997
-19. [↑](#cite_ref-19) [New CC book: Beyond Deep Blue](http://www.talkchess.com/forum/viewtopic.php?t=41053) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), November 11, 2011
-20. [↑](#cite_ref-20) [Garry Kasparov: Don't fear intelligent machines. Work with them](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them) | [TED Talk](https://en.wikipedia.org/wiki/TED_(conference)), April 2017
-21. [↑](#cite_ref-21) [The Day the Machines Took Over](https://medium.com/@AdamThierer/the-day-the-machines-took-over-51076ba8e4f4) by [Adam Thierer](https://www.mercatus.org/adam-thierer), [Medium](https://en.wikipedia.org/wiki/Medium_(website)), May 11, 2017
-22. [↑](#cite_ref-22) [Kasparov on Deep Learning in chess](https://en.chessbase.com/post/kasparov-on-deep-learning-in-chess) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), December 13, 2017
-23. [↑](#cite_ref-23) [Techmate](http://www.forbes.com/asap/1999/0222/071.html) by [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), February 22, 1999, [Forbes.com](https://en.wikipedia.org/wiki/Forbes)
-24. [↑](#cite_ref-24) [Strategic Intensity - A Conversation with World Chess Champion Garry Kasparov](http://hbr.org/2005/04/strategic-intensity/ar/1) by [Diane L. Coutu](http://www.linkedin.com/pub/diane-coutu/9/111/67a), [Harvard Business Review](https://en.wikipedia.org/wiki/Harvard_Business_Review), April 2005
-25. [↑](#cite_ref-25) [20 years ago, a computer first beat a chess world champion - 1996-1997 The Kasparov-Deep Blue chess matches](http://mashable.com/2016/02/10/kasparov-deep-blue/) by [Alex Q. Arbuckle](http://www.alexqarbuckle.com/bio), February 10, 2016
-26. [↑](#cite_ref-26) [20 Years after Deep Blue: How AI Has Advanced Since Conquering Chess](https://www.scientificamerican.com/article/20-years-after-deep-blue-how-ai-has-advanced-since-conquering-chess/) by [Larry Greenemeier](https://www.crunchbase.com/person/larry-greenemeier), [Scientific American](Scientific_American "Scientific American"), June 2, 2017
-27. [↑](#cite_ref-27) ["Techmate" by Garry Kasparov](https://www.stmintz.com/ccc/index.php?id=108799) by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), May 02, 2000
-28. [↑](#cite_ref-28) [Komodo 8: Deep Blue revisited (1/2)](http://www.talkchess.com/forum/viewtopic.php?t=54759) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 27, 2014
-29. [↑](#cite_ref-29) [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)") (**2017**). *[Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://www.goodreads.com/book/show/31934455-deep-thinking)*. [PublicAffairs](https://en.wikipedia.org/wiki/PublicAffairs) or [John Murray](https://en.wikipedia.org/wiki/John_Murray_(publisher))
-30. [↑](#cite_ref-30) [Scientific American article on Computer Chess](http://www.talkchess.com/forum/viewtopic.php?t=64158) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), June 03, 2017
-31. [↑](#cite_ref-31) [Anjelina Belakovskaia from Wikipedia](https://en.wikipedia.org/wiki/Anjelina_Belakovskaia)
-32. [↑](#cite_ref-32) [Game Over - Kasparov and the machine : ADCHESS : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/youtube-FBzI7y8VNCA)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The Week in Chess Magazine: Open Letter](http://theweekinchess.com/html/twic270.html) from [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), January 10, 2000
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Machine Starring Hadley Fraser and Francesca AnnisWritten by Matt Charman, directed by Josie Rourke](http://www.mif.co.uk/event/the-machine)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [The Machine : Program & Events : Park Avenue Armory](http://www.armoryonpark.org/programs_events/detail/the_machine)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Manchester International Festival 2013 | Q&A Matt Charman](http://www.guardian.co.uk/culture/2013/may/24/matt-charman-the-machine) | [The Guardian](https://en.wikipedia.org/wiki/The_Guardian), May 24, 2013
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [The Machine](http://hiarcs.net/forums/viewtopic.php?t=5953) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), May 11, 2013
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Kenneth Lee from Arkansas Repertory Theatre](http://www.therep.org/attend/productions/actor/default.aspx?id=79)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> Photo by [Helen Maybanks](http://www.helenmaybanks.com/), [The Machine - New York - Donmar Warehouse](http://www.donmarwarehouse.com/whats-on/the-machine)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> Photo by [Helen Maybanks](http://www.helenmaybanks.com/), [The Machine - New York - Donmar Warehouse](http://www.donmarwarehouse.com/whats-on/the-machine)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Re: The Machine](http://hiarcs.net/forums/viewtopic.php?p=59722#59722) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [Hiarcs Forum](Computer_Chess_Forums "Computer Chess Forums"), July 22, 2013
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [The Machine - New York - Donmar Warehouse](http://www.donmarwarehouse.com/whats-on/the-machine)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [The Machine](http://www.northernsoul.me.uk/the-machine/)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [AAAI Workshop: Deep Blue Versus Kasparov: The Significance for Artificial Intelligence 1997](https://www.dblp.org/db/conf/aaai/aaai1997w6.html)
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> ["Deep Blue" inspires deep thinking about artificial intelligence by computer scientist](http://www1.ucsc.edu/oncampus/currents/97-05-05/chess.htm) by [Robert Irion](http://scicom.ucsc.edu/faculty/), May 5, 1997
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [New CC book: Beyond Deep Blue](http://www.talkchess.com/forum/viewtopic.php?t=41053) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), November 11, 2011
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Garry Kasparov: Don't fear intelligent machines. Work with them](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them) | [TED Talk](https://en.wikipedia.org/wiki/TED_(conference)), April 2017
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [The Day the Machines Took Over](https://medium.com/@AdamThierer/the-day-the-machines-took-over-51076ba8e4f4) by [Adam Thierer](https://www.mercatus.org/adam-thierer), [Medium](https://en.wikipedia.org/wiki/Medium_(website)), May 11, 2017
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Kasparov on Deep Learning in chess](https://en.chessbase.com/post/kasparov-on-deep-learning-in-chess) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), December 13, 2017
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Techmate](http://www.forbes.com/asap/1999/0222/071.html) by [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), February 22, 1999, [Forbes.com](https://en.wikipedia.org/wiki/Forbes)
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Strategic Intensity - A Conversation with World Chess Champion Garry Kasparov](http://hbr.org/2005/04/strategic-intensity/ar/1) by [Diane L. Coutu](http://www.linkedin.com/pub/diane-coutu/9/111/67a), [Harvard Business Review](https://en.wikipedia.org/wiki/Harvard_Business_Review), April 2005
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [20 years ago, a computer first beat a chess world champion - 1996-1997 The Kasparov-Deep Blue chess matches](http://mashable.com/2016/02/10/kasparov-deep-blue/) by [Alex Q. Arbuckle](http://www.alexqarbuckle.com/bio), February 10, 2016
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [20 Years after Deep Blue: How AI Has Advanced Since Conquering Chess](https://www.scientificamerican.com/article/20-years-after-deep-blue-how-ai-has-advanced-since-conquering-chess/) by [Larry Greenemeier](https://www.crunchbase.com/person/larry-greenemeier), [Scientific American](Scientific_American "Scientific American"), June 2, 2017
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> ["Techmate" by Garry Kasparov](https://www.stmintz.com/ccc/index.php?id=108799) by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), May 02, 2000
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Komodo 8: Deep Blue revisited (1/2)](http://www.talkchess.com/forum/viewtopic.php?t=54759) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 27, 2014
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)") (**2017**). *[Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://www.goodreads.com/book/show/31934455-deep-thinking)*. [PublicAffairs](https://en.wikipedia.org/wiki/PublicAffairs) or [John Murray](https://en.wikipedia.org/wiki/John_Murray_(publisher))
+30. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Scientific American article on Computer Chess](http://www.talkchess.com/forum/viewtopic.php?t=64158) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), June 03, 2017
+31. <a id="cite-ref-31" href="#cite-note-31">↑</a> [Anjelina Belakovskaia from Wikipedia](https://en.wikipedia.org/wiki/Anjelina_Belakovskaia)
+32. <a id="cite-ref-32" href="#cite-note-32">↑</a> [Game Over - Kasparov and the machine : ADCHESS : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/youtube-FBzI7y8VNCA)
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

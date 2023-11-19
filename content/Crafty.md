@@ -3,14 +3,14 @@ title: Crafty
 ---
 **[Home](Home "Home") * [Engines](Engines "Engines") * Crafty**
 
-[](http://twogirlsbeingcrafty.blogspot.de/2011/04/owl-pin-cushion.html) Crafty Owl [[1]](#cite_note-1)
-**Crafty**, [[2]](#cite_note-2)
+[](http://twogirlsbeingcrafty.blogspot.de/2011/04/owl-pin-cushion.html) Crafty Owl <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+**Crafty**, <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
-a portable [open source engine](Category:Open_Source "Category:Open Source") supporting the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") written by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") in [ANSI C](C "C") starting in the early 90s, loosely derived from [Cray Blitz](Cray_Blitz "Cray Blitz"), winner of the [1983](WCCC_1983 "WCCC 1983") and [1986](WCCC_1986 "WCCC 1986") World Computer Chess Championships [[3]](#cite_note-3). Crafty pioneered in using [Rotated bitboards](Rotated_Bitboards "Rotated Bitboards") , [parallel search](Parallel_Search "Parallel Search") and probing [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases"). It performs a [principal variation search](Principal_Variation_Search "Principal Variation Search"), [null move pruning](Null_Move_Pruning "Null Move Pruning"), [LMR](Late_Move_Reductions "Late Move Reductions") as well as a [SEE swap algorithm](SEE_-_The_Swap_Algorithm "SEE - The Swap Algorithm") for [move ordering](Move_Ordering "Move Ordering") and to [prune](Pruning "Pruning") "bad" [captures](Captures "Captures") in [quiescence search](Quiescence_Search "Quiescence Search"). In 2006/2007, Crafty switched from rotated to [Magic bitboards](Magic_Bitboards "Magic Bitboards") [[4]](#cite_note-4), according to Robert Hyatt because it was not faster but simpler [[5]](#cite_note-5). Crafty **25.1**, released in October 2016, not only includes an increase in playing strength [[6]](#cite_note-6) but support for [Syzygy bases](Syzygy_Bases "Syzygy Bases") by [Ronald de Man](Ronald_de_Man "Ronald de Man") aided by the coding [contributions](Syzygy_Bases#Fathom "Syzygy Bases") of [Basil Falcinelli](Basil_Falcinelli "Basil Falcinelli") [[7]](#cite_note-7). Crafty **25.3** features [playing strength](Playing_Strength "Playing Strength") adjustment between 800 and 2600 Elo [[8]](#cite_note-8).
+a portable [open source engine](Category:Open_Source "Category:Open Source") supporting the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") written by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") in [ANSI C](C "C") starting in the early 90s, loosely derived from [Cray Blitz](Cray_Blitz "Cray Blitz"), winner of the [1983](WCCC_1983 "WCCC 1983") and [1986](WCCC_1986 "WCCC 1986") World Computer Chess Championships <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Crafty pioneered in using [Rotated bitboards](Rotated_Bitboards "Rotated Bitboards") , [parallel search](Parallel_Search "Parallel Search") and probing [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases"). It performs a [principal variation search](Principal_Variation_Search "Principal Variation Search"), [null move pruning](Null_Move_Pruning "Null Move Pruning"), [LMR](Late_Move_Reductions "Late Move Reductions") as well as a [SEE swap algorithm](SEE_-_The_Swap_Algorithm "SEE - The Swap Algorithm") for [move ordering](Move_Ordering "Move Ordering") and to [prune](Pruning "Pruning") "bad" [captures](Captures "Captures") in [quiescence search](Quiescence_Search "Quiescence Search"). In 2006/2007, Crafty switched from rotated to [Magic bitboards](Magic_Bitboards "Magic Bitboards") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, according to Robert Hyatt because it was not faster but simpler <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Crafty **25.1**, released in October 2016, not only includes an increase in playing strength <a id="cite-note-6" href="#cite-ref-6">[6]</a> but support for [Syzygy bases](Syzygy_Bases "Syzygy Bases") by [Ronald de Man](Ronald_de_Man "Ronald de Man") aided by the coding [contributions](Syzygy_Bases#Fathom "Syzygy Bases") of [Basil Falcinelli](Basil_Falcinelli "Basil Falcinelli") <a id="cite-note-7" href="#cite-ref-7">[7]</a>. Crafty **25.3** features [playing strength](Playing_Strength "Playing Strength") adjustment between 800 and 2600 Elo <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 
 ## Team Members
 
-as mentioned at [WCRCC 2010](WCRCC_2010 "WCRCC 2010") [[9]](#cite_note-9) and [CCT15](CCT15 "CCT15"), 2013 [[10]](#cite_note-10)
+as mentioned at [WCRCC 2010](WCRCC_2010 "WCRCC 2010") <a id="cite-note-9" href="#cite-ref-9">[9]</a> and [CCT15](CCT15 "CCT15"), 2013 <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 - [Peter Berger](Peter_Berger "Peter Berger"), Crafty's [book author](Category:Opening_Book_Author "Category:Opening Book Author") at [WCCC 2004](WCCC_2004 "WCCC 2004"), [WCCC 2005](WCCC_2005 "WCCC 2005") and [WCCC 2006](WCCC_2006 "WCCC 2006")
 - [Michael Byrne](Michael_Byrne "Michael Byrne")
@@ -20,13 +20,13 @@ as mentioned at [WCRCC 2010](WCRCC_2010 "WCRCC 2010") [[9]](#cite_note-9) and [C
 
 ## Tournaments
 
-Crafty participated at four [World Microcomputer Chess Championships](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship"), the [WMCCC 1996](WMCCC_1996 "WMCCC 1996"), [WMCCC 1997](WMCCC_1997 "WMCCC 1997"), [WMCCC 2000](WMCCC_2000 "WMCCC 2000"), and [WMCCC 2001](WMCCC_2001 "WMCCC 2001"), three [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship"), the [WCCC 2004](WCCC_2004 "WCCC 2004"), [WCCC 2005](WCCC_2005 "WCCC 2005") and [WCCC 2006](WCCC_2006 "WCCC 2006"), the [ACCA Americas' Computer Chess Championships](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship"), the [ACCA World Computer Rapid Chess Championships](ACCA_World_Computer_Rapid_Chess_Championship "ACCA World Computer Rapid Chess Championship"), [CCT](CCT_Tournaments "CCT Tournaments") and various other [tournaments](index.php?title=Tournaments&action=edit&redlink=1 "Tournaments (page does not exist)"). Crafty won the [CCT1](CCT1 "CCT1") in 2000, [CCT5](CCT5 "CCT5") in 2003 and [CCT6](CCT6 "CCT6") in 2004. At the [Fifth Annual ACCA Americas' Computer Chess Championships](ACCA_2010 "ACCA 2010") in 2010 Crafty was runner-up behind [Thinker](Thinker "Thinker") [[11]](#cite_note-11) .
+Crafty participated at four [World Microcomputer Chess Championships](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship"), the [WMCCC 1996](WMCCC_1996 "WMCCC 1996"), [WMCCC 1997](WMCCC_1997 "WMCCC 1997"), [WMCCC 2000](WMCCC_2000 "WMCCC 2000"), and [WMCCC 2001](WMCCC_2001 "WMCCC 2001"), three [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship"), the [WCCC 2004](WCCC_2004 "WCCC 2004"), [WCCC 2005](WCCC_2005 "WCCC 2005") and [WCCC 2006](WCCC_2006 "WCCC 2006"), the [ACCA Americas' Computer Chess Championships](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship"), the [ACCA World Computer Rapid Chess Championships](ACCA_World_Computer_Rapid_Chess_Championship "ACCA World Computer Rapid Chess Championship"), [CCT](CCT_Tournaments "CCT Tournaments") and various other [tournaments](index.php?title=Tournaments&action=edit&redlink=1 "Tournaments (page does not exist)"). Crafty won the [CCT1](CCT1 "CCT1") in 2000, [CCT5](CCT5 "CCT5") in 2003 and [CCT6](CCT6 "CCT6") in 2004. At the [Fifth Annual ACCA Americas' Computer Chess Championships](ACCA_2010 "ACCA 2010") in 2010 Crafty was runner-up behind [Thinker](Thinker "Thinker") <a id="cite-note-11" href="#cite-ref-11">[11]</a> .
 
 ## Descriptions
 
 ## 1997
 
-from the [ICGA](ICGA "ICGA") page [[12]](#cite_note-12) :
+from the [ICGA](ICGA "ICGA") page <a id="cite-note-12" href="#cite-ref-12">[12]</a> :
 
 ```C++
 Crafty is a "bitmapper" using 64 bit words to represent the chess board, along the lines of the famous [Chess 4.x](Chess_(Program) "Chess (Program)") program from [Northwestern University](Northwestern_University "Northwestern University"). It uses a traditional [alpha/beta search](Alpha-Beta "Alpha-Beta") with the [PVS](Principal_Variation_Search "Principal Variation Search") ([null-window](Null_Window "Null Window")) enhancement, along with [null-moves](Null_Move_Pruning "Null Move Pruning") ([R](Depth_Reduction_R "Depth Reduction R")=2) and lots of search [extensions](Extensions "Extensions") including "[fractional ply extensions](Extensions#FractionalExtensions "Extensions")" to drive the search deeper along interesting lines. It has a very simple [quiescence search](Quiescence_Search "Quiescence Search") that only considers [capture moves](Captures "Captures") and is fairly selective about which captures are included. It does a full endpoint [evaluation](Evaluation "Evaluation"), with no root [pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables") nor [incrementally updated](Incremental_Updates "Incremental Updates") scoring terms. It is currently about 37,000 lines of ANSI C with about 3,000 lines of that being evaluation.
@@ -40,7 +40,7 @@ Since Crafty uses [bitmaps](Bitboards "Bitboards"), much of the [evaluation](Eva
 
 ## 2008
 
-from a [CCC](CCC "CCC") post [[13]](#cite_note-13) :
+from a [CCC](CCC "CCC") post <a id="cite-note-13" href="#cite-ref-13">[13]</a> :
 
 ```C++
 Crafty's basic search is pretty simple. Just [PVS](Principal_Variation_Search "Principal Variation Search") + [null-move](Null_Move_Pruning "Null Move Pruning") + [LMR](Late_Move_Reductions "Late Move Reductions") + [check extension](Check_Extensions "Check Extensions") (all others have been removed after testing showed they hurt performance rather than helped), + simple q-search checks (I am playing with this as I write this however and it might change) + simple q-search. I've used [killers](Killer_Heuristic "Killer Heuristic") and [hashing](Transposition_Table "Transposition Table") since middle 70's so those are not new. [Bitboards](Bitboards "Bitboards") were around in the middle 70's so that's not new. I don't think there is anything remarkable in my evaluation, certainly nothing we were not doing 15 years ago or longer, other than tuning adjustments.
@@ -59,7 +59,7 @@ I have even run without the check extension, the only one that is left. Many thi
 
 ## Generation II
 
-Crafty **25.0**, Generation II, December 2015 [[14]](#cite_note-14)
+Crafty **25.0**, Generation II, December 2015 <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 - This version contains a major rewrite of the [parallel search](Parallel_Search "Parallel Search") code, now referred to as **Generation II**. It has a more lightweight split algorithm, that costs the parent MUCH less effort to split the search. The key is that now the individual "helper" [threads](Thread "Thread") do all the work, allocating a split block, copying the data from the parent, etc., rather than the parent doing it all. Gen II based on the [DTS](Dynamic_Tree_Splitting "Dynamic Tree Splitting") "late-join" idea so that a thread will try to join existing split points before it goes to the idle wait loop waiting for some other thread to split with it. In fact, this is now the basis for the new split method where the parent simply creates a split point by allocating a split block for itself, and then continuing the search, after the parent split block is marked as "joinable". Now any idle threads just "jump in" without the parent doing anything else, which means that currently idle threads will "join" this split block if they are in the "wait-for-work" spin loop, and threads that become idle also join in exactly the same way. This is MUCH more efficient, and also significantly reduces the number of split blocks needed during the search. We also now pre-split the search when we are reasonably close to the root of the tree, which is called a "gratuitous split. This leaves joinable split points laying around so that whenever a thread becomes idle, it can join in at these pre-existing split points immediately. We now use a much more conservative approach when dealing with [fail highs](Fail-High "Fail-High") at the [root](Root "Root"). Since [LMR](Late_Move_Reductions "Late Move Reductions") and such have introduced greater levels of [search instability](Search_Instability "Search Instability"), we no longer trust a fail-high at the root if it fails low on the research. We maintain the last [score](Score "Score") returned for every root move, along with the [PV](index.php?title=Principal_variation&action=edit&redlink=1 "Principal variation (page does not exist)") . Either an [exact score](Exact_Score "Exact Score") or the [bound](Bound "Bound") score that was returned. At the end of the iteration, we sort the root move list using the backed-up score as the sort key, and we play the move with the best score. This solves a particularly ugly issue where we get a score for the first move, then another move fails high, but then fails low and the re-search produces a score that is actually WORSE than the original [best move](Best_Move "Best Move"). We still see that, but we always play the best move now. One other efficiency trick is that when the above happens, the search would tend to be less efficient since the best score for that fail-high/fail-low move is actually worse than the best move/score found so far. If this happens, the score is restored to the original best move score (in Search()) so that we continue searching with a good [lower bound](Lower_Bound "Lower Bound") , not having to deal with moves that would fail high with this worse value, but not with the original best move's value.
 - We also added a new method to automatically tune the new SMP parameters. The command is autotune and "help autotune" will explain how to run it.
@@ -78,7 +78,7 @@ Crafty had always mapped square-index 0 to square 'a1', 7 to 'h1', and 63 to 'h8
 
 ### LSB
 
-[Trailing zero count](BitScan#TrailingZeroCount "BitScan") aka bitscan forward for non empty sets as used in [bitboard serialization](Bitboard_Serialization "Bitboard Serialization") for [move generation](Move_Generation "Move Generation") and [evaluation](Evaluation "Evaluation") purposes, is implemented with [x86-64](X86-64 "X86-64") [bsf instruction](BitScan#bsfbsr "BitScan") via intrinsic or [inline assembly](Assembly#InlineAssembly "Assembly") if available (there are also 32-bit [x86](X86 "X86") bsf versions), and a conditional 16-bit [byte](Byte "Byte") lookup approach otherwise - [Windows 64](Windows "Windows"), [Linux 64](Linux "Linux") and lookup versions with preprocessor instructions for conditional compiles omitted [[15]](#cite_note-15):
+[Trailing zero count](BitScan#TrailingZeroCount "BitScan") aka bitscan forward for non empty sets as used in [bitboard serialization](Bitboard_Serialization "Bitboard Serialization") for [move generation](Move_Generation "Move Generation") and [evaluation](Evaluation "Evaluation") purposes, is implemented with [x86-64](X86-64 "X86-64") [bsf instruction](BitScan#bsfbsr "BitScan") via intrinsic or [inline assembly](Assembly#InlineAssembly "Assembly") if available (there are also 32-bit [x86](X86 "X86") bsf versions), and a conditional 16-bit [byte](Byte "Byte") lookup approach otherwise - [Windows 64](Windows "Windows"), [Linux 64](Linux "Linux") and lookup versions with preprocessor instructions for conditional compiles omitted <a id="cite-note-15" href="#cite-ref-15">[15]</a>:
 
 ```C++
 
@@ -117,7 +117,7 @@ int LSB(BITBOARD arg1) {
 
 ### Last One
 
-Earlier Crafty versions prior to 20.6 had a [leading zero count](BitScan#LeadingZeroCount "BitScan") compliant, [big-endian](Big-endian "Big-endian") rank-file mapping. Left-bottom square (from White's point of view) 'a1' with square-index 0 was mapped to the leftmost, arithmetical most significant bit of an unsigned 64-bit integer with bit-index 63, while square 'h8' with square-index 63, was mapped to the rightmost, arithmetical least significant bit with bit-index 0. Bitscan forward and found index [reversal](Flipping_Mirroring_and_Rotating#Rotationby180degrees "Flipping Mirroring and Rotating") was used in LastOne, to retrieve squares in **h8-a1** order [[16]](#cite_note-16):
+Earlier Crafty versions prior to 20.6 had a [leading zero count](BitScan#LeadingZeroCount "BitScan") compliant, [big-endian](Big-endian "Big-endian") rank-file mapping. Left-bottom square (from White's point of view) 'a1' with square-index 0 was mapped to the leftmost, arithmetical most significant bit of an unsigned 64-bit integer with bit-index 63, while square 'h8' with square-index 63, was mapped to the rightmost, arithmetical least significant bit with bit-index 0. Bitscan forward and found index [reversal](Flipping_Mirroring_and_Rotating#Rotationby180degrees "Flipping Mirroring and Rotating") was used in LastOne, to retrieve squares in **h8-a1** order <a id="cite-note-16" href="#cite-ref-16">[16]</a>:
 
 ```C++
 
@@ -132,7 +132,7 @@ int LastOne(BITBOARD arg1)
 
 ```
 
-This one was found in 15.17 with [Mac OS](Mac_OS "Mac OS") support [[17]](#cite_note-17)
+This one was found in 15.17 with [Mac OS](Mac_OS "Mac OS") support <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 
 ```C++
 
@@ -152,7 +152,7 @@ int LastOne(register BITBOARD a)
 
 ## WCCC 2004
 
-[WCCC 2004](WCCC_2004 "WCCC 2004"), round 9, [Falcon](Falcon "Falcon") - Crafty [[18]](#cite_note-18)
+[WCCC 2004](WCCC_2004 "WCCC 2004"), round 9, [Falcon](Falcon "Falcon") - Crafty <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 ```
 
@@ -178,7 +178,7 @@ Ra7 48.Rb8+ Kc6 49.Rc8+ Kd5 50.e6 dxe6 51.Rd8+ Kc5 52.Rc8+ Kb6 53.Re8 a3
 
 ## WCCC 2006
 
-[WCCC 2006](WCCC_2006 "WCCC 2006"), round 8, [Diep](Diep "Diep") - Crafty [[19]](#cite_note-19)
+[WCCC 2006](WCCC_2006 "WCCC 2006"), round 8, [Diep](Diep "Diep") - Crafty <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 
 ```
 
@@ -203,7 +203,7 @@ Kh8 30.Nd3 b2 31.Rd8+ Rxd8 32.Qxd8+ Be8 33.Bxe8 Qc2+ 34.Ke3 Nd5+ 35.Kd4 Qc3+
 
 ## Copyright
 
-Many programmers did not grasp Crafty's [Copyright](https://en.wikipedia.org/wiki/Copyright) statement, but apparently took remarks by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") like in his reply to [Ren Wu](Ren_Wu "Ren Wu"), January 26, 1999, concerning [code reuse](https://en.wikipedia.org/wiki/Code_reuse) and not [reinventing the wheel](https://en.wikipedia.org/wiki/Reinventing_the_wheel) as alibi for their chess programming [[20]](#cite_note-20) :
+Many programmers did not grasp Crafty's [Copyright](https://en.wikipedia.org/wiki/Copyright) statement, but apparently took remarks by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") like in his reply to [Ren Wu](Ren_Wu "Ren Wu"), January 26, 1999, concerning [code reuse](https://en.wikipedia.org/wiki/Code_reuse) and not [reinventing the wheel](https://en.wikipedia.org/wiki/Reinventing_the_wheel) as alibi for their chess programming <a id="cite-note-20" href="#cite-ref-20">[20]</a> :
 
 ```C++
 This is a basic tenet of software engineering called 'code reuse'. Why should I pay you to write something from scratch and take a year, if you can take something that exists and modify it to do the same thing in a month? And then I don't have as much trouble debugging and testing, since it is mostly already done...
@@ -215,7 +215,7 @@ that's not a bad side to this... Of course occasionally starting over is a good 
 
 ```
 
-[Robert Hyatt](Robert_Hyatt "Robert Hyatt") further on the copyright problem [[21]](#cite_note-21) :
+[Robert Hyatt](Robert_Hyatt "Robert Hyatt") further on the copyright problem <a id="cite-note-21" href="#cite-ref-21">[21]</a> :
 
 ```C++
 My primary requirement is that if something is done to crafty to make it 'better', then that 'something' must be as public as the original code was. Because many have contributed bits and pieces... Eugene, George, Steffen, Mark, SJE, and many others that are to numerous to mention. Seems unfair that they modify what I did, then they make their stuff public, and then someone else takes _all_ of this and purports it to be 'original'.
@@ -260,7 +260,7 @@ I suppose it has to do with 'national morals' or whatever, ie the software pirac
 - [Albert Xin Jiang](Albert_Xin_Jiang "Albert Xin Jiang") (**2003**). *Implementation of Multi-ProbCut in Chess*. CPSC 449 Thesis, [pdf](http://www.cs.ubc.ca/%7Ejiang/papers/thesis.pdf)
 - [Jan Renze Steenhuisen](Jan_Renze_Steenhuisen "Jan Renze Steenhuisen") (**2005**). *New Results in Deep-Search Behaviour*. [ICGA Journal, Vol. 28, No. 4](ICGA_Journal#28_4 "ICGA Journal"), [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.104.9527)
 - [Yew Jin Lim](Yew_Jin_Lim "Yew Jin Lim"), [Wee Sun Lee](Wee_Sun_Lee "Wee Sun Lee") (**2006**). *RankCut - A Domain Independent Forward Pruning Method for Games*. [AAAI 2006](Conferences#AAAI-2006 "Conferences"), [pdf](http://www.yewjin.com/storage/papers/rankcut.pdf)  » [RankCut](RankCut "RankCut")
-- [Matej Guid](Matej_Guid "Matej Guid"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2006**). *Computer Analysis of World Chess Champions*. [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal"), [pdf](https://ailab.si/matej/doc/Computer_Analysis_of_World_Chess_Champions.pdf) [[22]](#cite_note-22) [[23]](#cite_note-23)
+- [Matej Guid](Matej_Guid "Matej Guid"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2006**). *Computer Analysis of World Chess Champions*. [ICGA Journal, Vol. 29, No. 2](ICGA_Journal#29_2 "ICGA Journal"), [pdf](https://ailab.si/matej/doc/Computer_Analysis_of_World_Chess_Champions.pdf) <a id="cite-note-22" href="#cite-ref-22">[22]</a> <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 - [Matej Guid](Matej_Guid "Matej Guid"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2006**). *[Computer Analysis of Chess Champions](https://link.springer.com/chapter/10.1007/978-3-540-75538-8_1)*. [CG 2006](CG_2006 "CG 2006")
 - [Yew Jin Lim](Yew_Jin_Lim "Yew Jin Lim") (**2007**). *On Forward Pruning in Game-Tree Search*. Ph.D. thesis, [National University of Singapore](https://en.wikipedia.org/wiki/National_University_of_Singapore), [pdf](http://www.yewjin.com/storage/papers/PhDThesisLimYewJin.pdf)
 - [Matej Guid](Matej_Guid "Matej Guid"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2007**). *Factors affecting diminishing returns for searching deeper*. [CGW 2007](CGW_2007 "CGW 2007") » Crafty, [Rybka](Rybka "Rybka"), [Shredder](Shredder "Shredder"), [Diminishing Returns](Depth#DiminishingReturns "Depth")
@@ -270,7 +270,7 @@ I suppose it has to do with 'national morals' or whatever, ie the software pirac
 
 ## 2010 ...
 
-- [Eric Stock](index.php?title=Eric_Stock&action=edit&redlink=1 "Eric Stock (page does not exist)"), [David J. King](index.php?title=David_J._King&action=edit&redlink=1 "David J. King (page does not exist)") (**2010**). *[A new enhancement to MTD(f)](https://rke.abertay.ac.uk/en/publications/a-new-enhancement-to-mtdf)*. Games and Arts, [Abertay University](https://en.wikipedia.org/wiki/Abertay_University), [ResearchGate](https://www.researchgate.net/publication/304307495_A_New_Enhancement_to_MTDf) » [MTD(f)](</MTD(f)> "MTD(f)") [[24]](#cite_note-24)
+- [Eric Stock](index.php?title=Eric_Stock&action=edit&redlink=1 "Eric Stock (page does not exist)"), [David J. King](index.php?title=David_J._King&action=edit&redlink=1 "David J. King (page does not exist)") (**2010**). *[A new enhancement to MTD(f)](https://rke.abertay.ac.uk/en/publications/a-new-enhancement-to-mtdf)*. Games and Arts, [Abertay University](https://en.wikipedia.org/wiki/Abertay_University), [ResearchGate](https://www.researchgate.net/publication/304307495_A_New_Enhancement_to_MTDf) » [MTD(f)](</MTD(f)> "MTD(f)") <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 - [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**2014**). *A Solution to Short PVs Caused by Exact Hash Matches*. [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal") » [Transposition Table](Transposition_Table "Transposition Table"), [Separate TT for the PV](Principal_Variation#SeparateTT "Principal Variation")
 - [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**2014**). *Computer Chess Endgame Play with Pawns: Then and Now*. [ICGA Journal, Vol. 37, No. 4](ICGA_Journal#37_4 "ICGA Journal") » [Peasant](Peasant "Peasant"), [Pawn Endgame](Pawn_Endgame "Pawn Endgame")
 - [Guy Haworth](Guy_Haworth "Guy Haworth") (**2015**). *Chess Endgame News*. [ICGA Journal, Vol. 38, No. 1](ICGA_Journal#38_1 "ICGA Journal") » [FinalGen](FinalGen "FinalGen")
@@ -320,7 +320,7 @@ I suppose it has to do with 'national morals' or whatever, ie the software pirac
 - [Crafty questions](http://www.talkchess.com/forum/viewtopic.php?t=21194) by [Pablo Vazquez](Pablo_Vazquez "Pablo Vazquez"), [CCC](CCC "CCC"), May 16, 2008
 - [Re: Lemming Poll](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=220004&t=23894) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), September 22, 2008 » [Tapered Eval](Tapered_Eval "Tapered Eval"), [LearningLemming](LearningLemming "LearningLemming")
 - [Crafty - no analysis output near mate?](http://www.talkchess.com/forum/viewtopic.php?t=25224) by [cyberfish](Matthew_Lai "Matthew Lai"), December 03, 2008
-- [MTD(f) experiments with Crafty](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=31130) by [Eric Stock](index.php?title=Eric_Stock&action=edit&redlink=1 "Eric Stock (page does not exist)"), [CCC](CCC "CCC"), December 18, 2009 » [MTD(f)](</MTD(f)> "MTD(f)") [[25]](#cite_note-25)
+- [MTD(f) experiments with Crafty](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=31130) by [Eric Stock](index.php?title=Eric_Stock&action=edit&redlink=1 "Eric Stock (page does not exist)"), [CCC](CCC "CCC"), December 18, 2009 » [MTD(f)](</MTD(f)> "MTD(f)") <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 
 ## 2010 ...
 
@@ -390,7 +390,7 @@ I suppose it has to do with 'national morals' or whatever, ie the software pirac
 
 - [Crafty 25.6](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72970) by [Michael B](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), February 01, 2020
 - [Crafty 25.6 search stability](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=73738) by [jhaglund2](index.php?title=Joshua_Haglund&action=edit&redlink=1 "Joshua Haglund (page does not exist)"), [CCC](CCC "CCC"), April 23, 2020
-- [Crafty NNUE Chess Engine?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77200) by supersharp77, [CCC](CCC "CCC"), April 29, 2021 » [NNUE](NNUE "NNUE"), [Vafra](index.php?title=Vafra&action=edit&redlink=1 "Vafra (page does not exist)") [[26]](#cite_note-26)
+- [Crafty NNUE Chess Engine?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77200) by supersharp77, [CCC](CCC "CCC"), April 29, 2021 » [NNUE](NNUE "NNUE"), [Vafra](index.php?title=Vafra&action=edit&redlink=1 "Vafra (page does not exist)") <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 
 ## External Links
 
@@ -420,32 +420,32 @@ I suppose it has to do with 'national morals' or whatever, ie the software pirac
 
 ## References
 
-1. [↑](#cite_ref-1) [Two Girls Being Crafty: Owl Pin Cushion](http://twogirlsbeingcrafty.blogspot.de/2011/04/owl-pin-cushion.html)
-1. [↑](#cite_ref-2) [Re: Robert - How did you came up with the name Crafty](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=410448&t=39381) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), June 16, 2011
-1. [↑](#cite_ref-3) [Crafty from Wikipedia](https://en.wikipedia.org/wiki/Crafty)
-1. [↑](#cite_ref-4) [Re: Fastest Magic Move Bitboard Generator ready to use](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5452&start=56) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 09, 2006
-1. [↑](#cite_ref-5) [Re: BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=140141&t=16002) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), August 25, 2007
-1. [↑](#cite_ref-6) [Crafty Chess](http://www.craftychess.com/) managed by [Tracy Riegle](index.php?title=Tracy_Riegle&action=edit&redlink=1 "Tracy Riegle (page does not exist)")
-1. [↑](#cite_ref-7) [Crafty 25.1 Release](http://www.talkchess.com/forum/viewtopic.php?t=61594) by [Michael B](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), October 04, 2016
-1. [↑](#cite_ref-8)  [Crafty Play By Elo ( Crafty v25.3)](http://www.talkchess.com/forum/viewtopic.php?t=62907) by [Michael B](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), January 23, 2017
-1. [↑](#cite_ref-9) [2010 Fourth Annual ACCA World Computer Rapid Chess Championships - Participants](http://aigames.net/ACCA/ACCAWCRCC/2010ACCAWCRCC/WCRCCPart.html)
-1. [↑](#cite_ref-10) [CCT 15 Participants | CCT Events](https://www.cctchess.com/previous-events/cct-15/participants/)
-1. [↑](#cite_ref-11) [The 2010 Fifth Annual ACCA Americas' Computer Chess Championships - Results](http://compchess.org/ACCAChampionships/ACCA2010Championships/2010ACCCResults.html)
-1. [↑](#cite_ref-12) [Crafty's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=34)
-1. [↑](#cite_ref-13) [Re: Hardware vs Software - test result](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=235340&t=25215) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), December 03, 2008
-1. [↑](#cite_ref-14) [Crafty 25.0 Release](http://www.talkchess.com/forum/viewtopic.php?t=58688) by Michael B, [CCC](CCC "CCC"), December 25, 2015
-1. [↑](#cite_ref-15) [Index of /downloads/source](http://www.craftychess.com/downloads/source/) crafty-23.5.zip, inline64.h, boolean.c
-1. [↑](#cite_ref-16) [Index of /downloads/source](http://www.craftychess.com/downloads/source/), crafty-20.5.zip, boolean.c
-1. [↑](#cite_ref-17) [Index of /downloads/source](http://www.craftychess.com/downloads/source/), crafty-15.17.zip, boolean.c
-1. [↑](#cite_ref-18) [Ramat-Gan 2004 - Chess - Round 9 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=24&round=9&id=3)
-1. [↑](#cite_ref-19) [Turin 2006 - Chess - Round 8 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=8&id=5)
-1. [↑](#cite_ref-20) [Re: Bionic v Crafty - a possible solution](https://www.stmintz.com/ccc/index.php?id=40922) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 26, 1999
-1. [↑](#cite_ref-21) [Re: crafty copyright problem](http://groups.google.com/group/rec.games.chess.computer/msg/db825bdc948464b6) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 17, 1999
-1. [↑](#cite_ref-22) [Computers choose: who was the strongest player?](https://en.chessbase.com/post/computers-choose-who-was-the-strongest-player-), [ChessBase News](ChessBase "ChessBase"), October 30, 2006
-1. [↑](#cite_ref-23) [Computer analysis of world champions](https://en.chessbase.com/post/computer-analysis-of-world-champions) by [Søren Riis](S%C3%B8ren_Riis "Søren Riis"), [ChessBase News](ChessBase "ChessBase"), November 02, 2006
-1. [↑](#cite_ref-24) [MTD(f) experiments with Crafty](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=31130) by [Eric Stock](index.php?title=Eric_Stock&action=edit&redlink=1 "Eric Stock (page does not exist)"), [CCC](CCC "CCC"), December 18, 2009 » [MTD(f)](</MTD(f)> "MTD(f)")
-1. [↑](#cite_ref-25) [Eric Stock](index.php?title=Eric_Stock&action=edit&redlink=1 "Eric Stock (page does not exist)"), [David J. King](index.php?title=David_J._King&action=edit&redlink=1 "David J. King (page does not exist)") (**2010**). *[A new enhancement to MTD(f)](https://rke.abertay.ac.uk/en/publications/a-new-enhancement-to-mtdf)*. Games and Arts, [Abertay University](https://en.wikipedia.org/wiki/Abertay_University)
-1. [↑](#cite_ref-26) [Vafra](http://www.jurjevic.org.uk/chess/vafra/index.html) by [Robert Jurjević](index.php?title=Robert_Jurjevi%C4%87&action=edit&redlink=1 "Robert Jurjević (page does not exist)")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Two Girls Being Crafty: Owl Pin Cushion](http://twogirlsbeingcrafty.blogspot.de/2011/04/owl-pin-cushion.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Robert - How did you came up with the name Crafty](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=410448&t=39381) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), June 16, 2011
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Crafty from Wikipedia](https://en.wikipedia.org/wiki/Crafty)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Fastest Magic Move Bitboard Generator ready to use](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5452&start=56) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 09, 2006
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: BitBoard Tests Magic v Non-Rotated 32 Bits v 64 Bits](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=140141&t=16002) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), August 25, 2007
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Crafty Chess](http://www.craftychess.com/) managed by [Tracy Riegle](index.php?title=Tracy_Riegle&action=edit&redlink=1 "Tracy Riegle (page does not exist)")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Crafty 25.1 Release](http://www.talkchess.com/forum/viewtopic.php?t=61594) by [Michael B](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), October 04, 2016
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a>  [Crafty Play By Elo ( Crafty v25.3)](http://www.talkchess.com/forum/viewtopic.php?t=62907) by [Michael B](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), January 23, 2017
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [2010 Fourth Annual ACCA World Computer Rapid Chess Championships - Participants](http://aigames.net/ACCA/ACCAWCRCC/2010ACCAWCRCC/WCRCCPart.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [CCT 15 Participants | CCT Events](https://www.cctchess.com/previous-events/cct-15/participants/)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [The 2010 Fifth Annual ACCA Americas' Computer Chess Championships - Results](http://compchess.org/ACCAChampionships/ACCA2010Championships/2010ACCCResults.html)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Crafty's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=34)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Re: Hardware vs Software - test result](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=235340&t=25215) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), December 03, 2008
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Crafty 25.0 Release](http://www.talkchess.com/forum/viewtopic.php?t=58688) by Michael B, [CCC](CCC "CCC"), December 25, 2015
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Index of /downloads/source](http://www.craftychess.com/downloads/source/) crafty-23.5.zip, inline64.h, boolean.c
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Index of /downloads/source](http://www.craftychess.com/downloads/source/), crafty-20.5.zip, boolean.c
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Index of /downloads/source](http://www.craftychess.com/downloads/source/), crafty-15.17.zip, boolean.c
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Ramat-Gan 2004 - Chess - Round 9 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=24&round=9&id=3)
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Turin 2006 - Chess - Round 8 - Game 5 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=16&round=8&id=5)
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Re: Bionic v Crafty - a possible solution](https://www.stmintz.com/ccc/index.php?id=40922) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), January 26, 1999
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Re: crafty copyright problem](http://groups.google.com/group/rec.games.chess.computer/msg/db825bdc948464b6) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 17, 1999
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Computers choose: who was the strongest player?](https://en.chessbase.com/post/computers-choose-who-was-the-strongest-player-), [ChessBase News](ChessBase "ChessBase"), October 30, 2006
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Computer analysis of world champions](https://en.chessbase.com/post/computer-analysis-of-world-champions) by [Søren Riis](S%C3%B8ren_Riis "Søren Riis"), [ChessBase News](ChessBase "ChessBase"), November 02, 2006
+1. <a id="cite-ref-24" href="#cite-note-24">↑</a> [MTD(f) experiments with Crafty](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=31130) by [Eric Stock](index.php?title=Eric_Stock&action=edit&redlink=1 "Eric Stock (page does not exist)"), [CCC](CCC "CCC"), December 18, 2009 » [MTD(f)](</MTD(f)> "MTD(f)")
+1. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Eric Stock](index.php?title=Eric_Stock&action=edit&redlink=1 "Eric Stock (page does not exist)"), [David J. King](index.php?title=David_J._King&action=edit&redlink=1 "David J. King (page does not exist)") (**2010**). *[A new enhancement to MTD(f)](https://rke.abertay.ac.uk/en/publications/a-new-enhancement-to-mtdf)*. Games and Arts, [Abertay University](https://en.wikipedia.org/wiki/Abertay_University)
+1. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Vafra](http://www.jurjevic.org.uk/chess/vafra/index.html) by [Robert Jurjević](index.php?title=Robert_Jurjevi%C4%87&action=edit&redlink=1 "Robert Jurjević (page does not exist)")
 
 **[Up one level](Engines "Engines")**
 

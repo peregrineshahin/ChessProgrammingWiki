@@ -5,7 +5,7 @@ title: Principal Variation SearchHistory
 
 
 
- [](https://en.wikipedia.org/wiki/File:Cage-variations-iii-14-small.jpg) [John Cage](Category:John_Cage "Category:John Cage") - Variations III, No. 14 [[1]](#cite_note-1) 
+ [](https://en.wikipedia.org/wiki/File:Cage-variations-iii-14-small.jpg) [John Cage](Category:John_Cage "Category:John Cage") - Variations III, No. 14 <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Principal Variation Search (PVS)**,  
 
 an enhancement to [Alpha-Beta](Alpha-Beta "Alpha-Beta"), based on [null- or zero window](Null_Window "Null Window") searches of none [PV-nodes](Node_Types#pv-node "Node Types"), to prove a move is worse or not than an already safe score from the [principal variation](Principal_Variation "Principal Variation"). 
@@ -15,7 +15,7 @@ an enhancement to [Alpha-Beta](Alpha-Beta "Alpha-Beta"), based on [null- or zero
 ## History
 
 
-PVS was introduced by [Tony Marsland](Tony_Marsland "Tony Marsland") and [Murray Campbell](Murray_Campbell "Murray Campbell") in 1982 [[4]](#cite_note-4) as nomination of [Finkel's](Raphael_Finkel "Raphael Finkel") and [Fishburn's](John_Philip_Fishburn "John Philip Fishburn") routine **Palphabeta** [[5]](#cite_note-5) [[6]](#cite_note-6) , in Fishburn's [1981](Timeline#1981 "Timeline") thesis [[7]](#cite_note-7) called **Calphabeta**, which in turn is similar to [Judea Pearl's](Judea_Pearl "Judea Pearl") [Scout](Scout "Scout") [[8]](#cite_note-8) [[9]](#cite_note-9) :
+PVS was introduced by [Tony Marsland](Tony_Marsland "Tony Marsland") and [Murray Campbell](Murray_Campbell "Murray Campbell") in 1982 <a id="cite-note-4" href="#cite-ref-4">[4]</a> as nomination of [Finkel's](Raphael_Finkel "Raphael Finkel") and [Fishburn's](John_Philip_Fishburn "John Philip Fishburn") routine **Palphabeta** <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> , in Fishburn's [1981](Timeline#1981 "Timeline") thesis <a id="cite-note-7" href="#cite-ref-7">[7]</a> called **Calphabeta**, which in turn is similar to [Judea Pearl's](Judea_Pearl "Judea Pearl") [Scout](Scout "Scout") <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a> :
 
 
 
@@ -25,7 +25,7 @@ An interesting implementation of the alpha-beta algorithm treats the first varia
 
 ```
 
-Despite the publications, PVS was already used in 1978, as mentioned by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") [[10]](#cite_note-10) :
+Despite the publications, PVS was already used in 1978, as mentioned by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") <a id="cite-note-10" href="#cite-ref-10">[10]</a> :
 
 
 
@@ -41,7 +41,7 @@ I first used PVS in 1978, quite by accident. Murray Campbell and I were discussi
 
 
 ```C++
-I was thinking about what goes wrong if you start the entire search with a too-narrow window. If the beta value is too low, then one of the children of the [root](Root "Root") might [fail high](Fail-High "Fail-High"), and you wouldn't know the proper windows to give to the subsequent children of the root. Wait a minute... what if there aren't any subsequent children, i.e. what if the child that failed high was the last child of the root? Then you don't care about the subsequent windows, and in fact you've just proved that the last child is the best move. So when you're on the last child of the root, go all the way by bringing beta down to alpha+1. I was trying to get this published starting in Aug. 1979, and it finally appeared as "An optimization of alpha-beta search" in [SIGART](ACM#SIG "ACM") bulletin Issue 72 (July 1980) [[11]](#cite_note-11) . After that came various generalizations where the null window is used generally in the search, also the [fail-soft](Fail-Soft "Fail-Soft") algorithm. I was somewhat disappointed in the speedup (or lack thereof) that I measured on [checkers](Checkers "Checkers") lookahead trees. However when I went to work at [Bell Labs](Bell_Laboratories "Bell Laboratories") in 1981, [Ken Thompson](Ken_Thompson "Ken Thompson") told me that he had read the SIGART paper, and had sped up [Belle](Belle "Belle") by 1.5x with [null windows](Null_Window "Null Window"). 
+I was thinking about what goes wrong if you start the entire search with a too-narrow window. If the beta value is too low, then one of the children of the [root](Root "Root") might [fail high](Fail-High "Fail-High"), and you wouldn't know the proper windows to give to the subsequent children of the root. Wait a minute... what if there aren't any subsequent children, i.e. what if the child that failed high was the last child of the root? Then you don't care about the subsequent windows, and in fact you've just proved that the last child is the best move. So when you're on the last child of the root, go all the way by bringing beta down to alpha+1. I was trying to get this published starting in Aug. 1979, and it finally appeared as "An optimization of alpha-beta search" in [SIGART](ACM#SIG "ACM") bulletin Issue 72 (July 1980) <a id="cite-note-11" href="#cite-ref-11">[11]</a> . After that came various generalizations where the null window is used generally in the search, also the [fail-soft](Fail-Soft "Fail-Soft") algorithm. I was somewhat disappointed in the speedup (or lack thereof) that I measured on [checkers](Checkers "Checkers") lookahead trees. However when I went to work at [Bell Labs](Bell_Laboratories "Bell Laboratories") in 1981, [Ken Thompson](Ken_Thompson "Ken Thompson") told me that he had read the SIGART paper, and had sped up [Belle](Belle "Belle") by 1.5x with [null windows](Null_Window "Null Window"). 
 
 ```
 
@@ -58,17 +58,17 @@ The PVS algorithm in Belle did not do a second search at the root until a **seco
 ## PVS and NegaScout
 
 
-Most PVS implementations are similar to [Reinefeld's](Alexander_Reinefeld "Alexander Reinefeld") [NegaScout](NegaScout "NegaScout") [[12]](#cite_note-12) [[13]](#cite_note-13) , and are used by most todays chess programs. It is based on the accuracy of the [move ordering](Move_Ordering "Move Ordering"). Typically, modern chess programs find [fail-highs](Fail-High "Fail-High") on the first move around 90% of the time. This observation can be used to narrow the window on searches of moves after the first, because there is a high probability that they will be lower than the score of the first move.
+Most PVS implementations are similar to [Reinefeld's](Alexander_Reinefeld "Alexander Reinefeld") [NegaScout](NegaScout "NegaScout") <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a> , and are used by most todays chess programs. It is based on the accuracy of the [move ordering](Move_Ordering "Move Ordering"). Typically, modern chess programs find [fail-highs](Fail-High "Fail-High") on the first move around 90% of the time. This observation can be used to narrow the window on searches of moves after the first, because there is a high probability that they will be lower than the score of the first move.
 
 
-Reinefeld's original implementation introduces one additional variable on the [stack](Stack "Stack") (only b, since after a = alpha, alpha is not needed any longer), for a slightly simpler control structure than PVS. It has therefor set a new null window at the end of the loop (b = a + 1), but has to consider the move count for the re-search condition though. His implementation trusts the null-window score, even if the re-search doesn't confirm the alpha increase, eventually due to [search instability](Search_Instability "Search Instability"). While re-searching, it uses the narrow window of {score, beta}, while other implementations dealing with search instability, re-search with {alpha, beta}. Practically, due to [Quiescence Search](Quiescence_Search "Quiescence Search"), and [fail-soft](Fail-Soft "Fail-Soft") implementations of PVS, the two algorithms are essentially equivalent to each other - they expand the same [search tree](Search_Tree "Search Tree") [[14]](#cite_note-14) [[15]](#cite_note-15) .
+Reinefeld's original implementation introduces one additional variable on the [stack](Stack "Stack") (only b, since after a = alpha, alpha is not needed any longer), for a slightly simpler control structure than PVS. It has therefor set a new null window at the end of the loop (b = a + 1), but has to consider the move count for the re-search condition though. His implementation trusts the null-window score, even if the re-search doesn't confirm the alpha increase, eventually due to [search instability](Search_Instability "Search Instability"). While re-searching, it uses the narrow window of {score, beta}, while other implementations dealing with search instability, re-search with {alpha, beta}. Practically, due to [Quiescence Search](Quiescence_Search "Quiescence Search"), and [fail-soft](Fail-Soft "Fail-Soft") implementations of PVS, the two algorithms are essentially equivalent to each other - they expand the same [search tree](Search_Tree "Search Tree") <a id="cite-note-14" href="#cite-ref-14">[14]</a> <a id="cite-note-15" href="#cite-ref-15">[15]</a> .
 
 
 
 ### Guido Schimmels
 
 
-[Guido Schimmels](Guido_Schimmels "Guido Schimmels") in a [CCC](CCC "CCC") post on the difference of PVS vs. NegaScout [[16]](#cite_note-16) :
+[Guido Schimmels](Guido_Schimmels "Guido Schimmels") in a [CCC](CCC "CCC") post on the difference of PVS vs. NegaScout <a id="cite-note-16" href="#cite-ref-16">[16]</a> :
 
 
 
@@ -110,7 +110,7 @@ if(value > alpha && value < beta && depth > 1) {
 ### Yngvi Björnsson
 
 
-Quote by [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") from [CCC](CCC "CCC"), January 05, 2000 [[17]](#cite_note-17) :
+Quote by [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") from [CCC](CCC "CCC"), January 05, 2000 <a id="cite-note-17" href="#cite-ref-17">[17]</a> :
 
 
 
@@ -123,7 +123,7 @@ Search-wise PVS and Negascout are identical (except the deep-cutoffs on the PV y
 ### Dennis Breuker
 
 
-Quote by [Dennis Breuker](Dennis_Breuker "Dennis Breuker") from [CCC](CCC "CCC"), July 28, 2004 [[18]](#cite_note-18) :
+Quote by [Dennis Breuker](Dennis_Breuker "Dennis Breuker") from [CCC](CCC "CCC"), July 28, 2004 <a id="cite-note-18" href="#cite-ref-18">[18]</a> :
 
 
 
@@ -135,7 +135,7 @@ Q: What's the different between negascout and PVS ? They look like the same alg
 
 
 ```C++
-They are identical, see note 15 on page 22 of my thesis [[19]](#cite_note-19) :We note that the version of principal-variation search as mentioned by Marsland (1986) [[20]](#cite_note-20) is identical to the version of negascout as mentioned by Reinefeld (1989) [[21]](#cite_note-21) . We use the 1989 reference instead of 1983 [[22]](#cite_note-22) , which was the first source of this algorithm, since the algorithm described in Reinefeld (1983) contains minor errors.Dennis 
+They are identical, see note 15 on page 22 of my thesis <a id="cite-note-19" href="#cite-ref-19">[19]</a> :We note that the version of principal-variation search as mentioned by Marsland (1986) <a id="cite-note-20" href="#cite-ref-20">[20]</a> is identical to the version of negascout as mentioned by Reinefeld (1989) <a id="cite-note-21" href="#cite-ref-21">[21]</a> . We use the 1989 reference instead of 1983 <a id="cite-note-22" href="#cite-ref-22">[22]</a> , which was the first source of this algorithm, since the algorithm described in Reinefeld (1983) contains minor errors.Dennis 
 
 ```
 
@@ -248,7 +248,7 @@ When implementing PVS together with the [aspiration window](Aspiration_Windows "
 * [PVS and Aspiration](PVS_and_Aspiration "PVS and Aspiration")
 
 
-A state of the art [fail-soft](Fail-Soft "Fail-Soft") PVS implementation, called without aspiration, was posted by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") inside the mentioned [CCC](CCC "CCC") thread [[23]](#cite_note-23) :
+A state of the art [fail-soft](Fail-Soft "Fail-Soft") PVS implementation, called without aspiration, was posted by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") inside the mentioned [CCC](CCC "CCC") thread <a id="cite-note-23" href="#cite-ref-23">[23]</a> :
 
 
 
@@ -430,29 +430,29 @@ int PVS(alfa,beta,depthleft) {
 ## References
 
 
-1. [↑](#cite_ref-1) [Variations III, No. 14](https://en.wikipedia.org/wiki/File:Cage-variations-iii-14-small.jpg), a 1992 print by [John Cage](Category:John_Cage "Category:John Cage") from a series of 57, [John Cage from Wikipedia](https://en.wikipedia.org/wiki/John_Cage) [Fair use](https://en.wikipedia.org/wiki/Fair_use)
-2. [↑](#cite_ref-2) [Principal Variation Search](http://web.archive.org/web/20040427015506/brucemo.com/compchess/programming/pvs.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
-3. [↑](#cite_ref-3) [PVS](http://www.talkchess.com/forum/viewtopic.php?t=26974) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), March 12, 2009
-4. [↑](#cite_ref-4) [Tony Marsland](Tony_Marsland "Tony Marsland"), [Murray Campbell](Murray_Campbell "Murray Campbell") (**1982**). *Parallel Search of Strongly Ordered Game Trees.* [ACM Computing Surveys](ACM#Surveys "ACM"), Vol. 14, No. 4, [pdf reprint](http://www.cs.ualberta.ca/%7Etony/OldPapers/strong.pdf)
-5. [↑](#cite_ref-5) [Raphael Finkel](Raphael_Finkel "Raphael Finkel"), [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1980**). *Parallel Alpha-Beta Search on Arachne.* [IEEE](IEEE "IEEE") International Conference on Parallel Processing, pp. 235-243.
-6. [↑](#cite_ref-6) [Re: Fruit - Question for Fabien](https://www.stmintz.com/ccc/index.php?id=354016) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), March 11, 2004
-7. [↑](#cite_ref-7) [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1981**). *Analysis of Speedup in Distributed Algorithms*. Ph.D. Thesis, [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin-Madison), [pdf](http://www.cs.wisc.edu/techreports/1981/TR431.pdf), *Calphabeta* at page 167
-8. [↑](#cite_ref-8) [Judea Pearl](Judea_Pearl "Judea Pearl") (**1980**). *Asymptotic Properties of Minimax Trees and Game-Searching Procedures.* [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 14, No. 2
-9. [↑](#cite_ref-9) [Judea Pearl](Judea_Pearl "Judea Pearl") (**1980**). *Scout: A Simple Game-Searching Algorithm with Proven Optimal Properties*. Proceedings of the First Annual National Conference on Artificial Intelligence. Stanford. [pdf](http://ftp.cs.ucla.edu/pub/stat_ser/scout.pdf)
-10. [↑](#cite_ref-10) [Re: PVS](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=254906&t=26974) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") from [CCC](CCC "CCC"), March 12, 2009
-11. [↑](#cite_ref-11) [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1980**). *An optimization of alpha-beta search*, SIGART Bulletin, Issue 72
-12. [↑](#cite_ref-12) [NegaScout - A Minimax Algorithm faster than AlphaBeta](http://sc.hlrn.de/reinefeld/Research/nsc.html)
-13. [↑](#cite_ref-13) [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**1983**). *An Improvement to the Scout Tree-Search Algorithm.* [ICCA Journal, Vol. 6, No. 4](ICGA_Journal#6_4 "ICGA Journal"), [pdf](http://www.top-5000.nl/ps/An%20improvement%20to%20the%20scout%20tree%20search%20algorithm.pdf)
-14. [↑](#cite_ref-14) [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") (**2002**). *Selective Depth-First Game-Tree Search.* **Ph.D. thesis**, [University of Alberta](University_of_Alberta "University of Alberta")
-15. [↑](#cite_ref-15) [Mark Winands](Mark_Winands "Mark Winands"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf") (**2003**). *Enhanced forward pruning.* Accepted for publication. [pdf](http://www.personeel.unimaas.nl/m-winands/documents/Enhanced%20forward%20pruning.pdf)
-16. [↑](#cite_ref-16) [Re: Zero-width Window Null Move Search](https://www.stmintz.com/ccc/index.php?id=20868) by [Guido Schimmels](Guido_Schimmels "Guido Schimmels"), [CCC](CCC "CCC"), June 18, 1998
-17. [↑](#cite_ref-17) [Re: PVS and NegaScout](https://www.stmintz.com/ccc/index.php?id=86134) by [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [CCC](CCC "CCC"), January 05, 2000
-18. [↑](#cite_ref-18) [Negascout == PVS (with references)](https://www.stmintz.com/ccc/index.php?id=379441) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [CCC](CCC "CCC"), July 28, 2004
-19. [↑](#cite_ref-19) [Dennis M. Breuker](Dennis_Breuker "Dennis Breuker") (**1998**). *[Ph.D. thesis: Memory versus Search in Games](http://www.dennisbreuker.nl/thesis/index.html)*
-20. [↑](#cite_ref-20) [Tony Marsland](Tony_Marsland "Tony Marsland") (**1986**). *A Review of Game-Tree Pruning.* [ICCA Journal, Vol. 9, No. 1](ICGA_Journal#9_1 "ICGA Journal"), [pdf](http://www.cs.ualberta.ca/%7Etony/OldPapers/1986review.pdf)
-21. [↑](#cite_ref-21) [NegaScout - A Minimax Algorithm faster than AlphaBeta](http://sc.hlrn.de/reinefeld/Research/nsc.html)
-22. [↑](#cite_ref-22) [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**1983**). *An Improvement to the Scout Tree-Search Algorithm.* [ICCA Journal, Vol. 6, No. 4](ICGA_Journal#6_4 "ICGA Journal"), [pdf](http://www.top-5000.nl/ps/An%20improvement%20to%20the%20scout%20tree%20search%20algorithm.pdf)
-23. [↑](#cite_ref-23) [Re: PVS](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=255191&t=26974) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), March 14, 2009
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Variations III, No. 14](https://en.wikipedia.org/wiki/File:Cage-variations-iii-14-small.jpg), a 1992 print by [John Cage](Category:John_Cage "Category:John Cage") from a series of 57, [John Cage from Wikipedia](https://en.wikipedia.org/wiki/John_Cage) [Fair use](https://en.wikipedia.org/wiki/Fair_use)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Principal Variation Search](http://web.archive.org/web/20040427015506/brucemo.com/compchess/programming/pvs.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [PVS](http://www.talkchess.com/forum/viewtopic.php?t=26974) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), March 12, 2009
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland"), [Murray Campbell](Murray_Campbell "Murray Campbell") (**1982**). *Parallel Search of Strongly Ordered Game Trees.* [ACM Computing Surveys](ACM#Surveys "ACM"), Vol. 14, No. 4, [pdf reprint](http://www.cs.ualberta.ca/%7Etony/OldPapers/strong.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Raphael Finkel](Raphael_Finkel "Raphael Finkel"), [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1980**). *Parallel Alpha-Beta Search on Arachne.* [IEEE](IEEE "IEEE") International Conference on Parallel Processing, pp. 235-243.
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Fruit - Question for Fabien](https://www.stmintz.com/ccc/index.php?id=354016) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), March 11, 2004
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1981**). *Analysis of Speedup in Distributed Algorithms*. Ph.D. Thesis, [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin-Madison), [pdf](http://www.cs.wisc.edu/techreports/1981/TR431.pdf), *Calphabeta* at page 167
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Judea Pearl](Judea_Pearl "Judea Pearl") (**1980**). *Asymptotic Properties of Minimax Trees and Game-Searching Procedures.* [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 14, No. 2
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Judea Pearl](Judea_Pearl "Judea Pearl") (**1980**). *Scout: A Simple Game-Searching Algorithm with Proven Optimal Properties*. Proceedings of the First Annual National Conference on Artificial Intelligence. Stanford. [pdf](http://ftp.cs.ucla.edu/pub/stat_ser/scout.pdf)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: PVS](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=254906&t=26974) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") from [CCC](CCC "CCC"), March 12, 2009
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1980**). *An optimization of alpha-beta search*, SIGART Bulletin, Issue 72
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [NegaScout - A Minimax Algorithm faster than AlphaBeta](http://sc.hlrn.de/reinefeld/Research/nsc.html)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**1983**). *An Improvement to the Scout Tree-Search Algorithm.* [ICCA Journal, Vol. 6, No. 4](ICGA_Journal#6_4 "ICGA Journal"), [pdf](http://www.top-5000.nl/ps/An%20improvement%20to%20the%20scout%20tree%20search%20algorithm.pdf)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") (**2002**). *Selective Depth-First Game-Tree Search.* **Ph.D. thesis**, [University of Alberta](University_of_Alberta "University of Alberta")
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Mark Winands](Mark_Winands "Mark Winands"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf") (**2003**). *Enhanced forward pruning.* Accepted for publication. [pdf](http://www.personeel.unimaas.nl/m-winands/documents/Enhanced%20forward%20pruning.pdf)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Re: Zero-width Window Null Move Search](https://www.stmintz.com/ccc/index.php?id=20868) by [Guido Schimmels](Guido_Schimmels "Guido Schimmels"), [CCC](CCC "CCC"), June 18, 1998
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Re: PVS and NegaScout](https://www.stmintz.com/ccc/index.php?id=86134) by [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [CCC](CCC "CCC"), January 05, 2000
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Negascout == PVS (with references)](https://www.stmintz.com/ccc/index.php?id=379441) by [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [CCC](CCC "CCC"), July 28, 2004
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Dennis M. Breuker](Dennis_Breuker "Dennis Breuker") (**1998**). *[Ph.D. thesis: Memory versus Search in Games](http://www.dennisbreuker.nl/thesis/index.html)*
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1986**). *A Review of Game-Tree Pruning.* [ICCA Journal, Vol. 9, No. 1](ICGA_Journal#9_1 "ICGA Journal"), [pdf](http://www.cs.ualberta.ca/%7Etony/OldPapers/1986review.pdf)
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [NegaScout - A Minimax Algorithm faster than AlphaBeta](http://sc.hlrn.de/reinefeld/Research/nsc.html)
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") (**1983**). *An Improvement to the Scout Tree-Search Algorithm.* [ICCA Journal, Vol. 6, No. 4](ICGA_Journal#6_4 "ICGA Journal"), [pdf](http://www.top-5000.nl/ps/An%20improvement%20to%20the%20scout%20tree%20search%20algorithm.pdf)
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Re: PVS](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=255191&t=26974) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), March 14, 2009
 
 **[Up one level](Search "Search")**
 

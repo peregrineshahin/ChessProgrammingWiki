@@ -5,14 +5,14 @@ title: ChessBase Database
 
 **[Home](Home "Home") * [Software](Software "Software") * [Databases](Databases "Databases") * ChessBase**
 
-[](http://en.chessbase.com/post/chebase-is-25-everything-25-off-in-our-shop) ChessBase 1.0 on [Atari ST](Atari_ST "Atari ST") in 1987 [[1]](#cite_note-1)
+[](http://en.chessbase.com/post/chebase-is-25-everything-25-off-in-our-shop) ChessBase 1.0 on [Atari ST](Atari_ST "Atari ST") in 1987 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **ChessBase**,
 
-a chess [database](https://en.wikipedia.org/wiki/Database) [front and back end](https://en.wikipedia.org/wiki/Front_and_back_ends) developed by [Matthias Wüllenweber](Matthias_W%C3%BCllenweber "Matthias Wüllenweber") for the [Atari ST](Atari_ST "Atari ST") which led to the foundation of the [ChessBase](ChessBase "ChessBase") company in 1986 [[2]](#cite_note-2) along with [Frederic Friedel](Frederic_Friedel "Frederic Friedel") - the product name eponym of the company. ChessBase **1.0** was first released in January 1987 for the Atari ST running under [GEM](https://en.wikipedia.org/wiki/Graphical_Environment_Manager). [Mathias Feist](Mathias_Feist "Mathias Feist") joined ChessBase in the late 80s, and was responsible to port the database and interface from Atari ST into the [x86](X86 "X86") [DOS](MS-DOS "MS-DOS")/[Windows](Windows "Windows") world, and further integrated first chess engines into the ChessBase interface, turning this into [Fritz](Fritz "Fritz") in 1991. Subsequent ChessBase versions evolved to a sophisticated multiple purpose [GUI](GUI "GUI") for database management, database queries and [mining](https://en.wikipedia.org/wiki/Data_mining), [interactive](https://en.wikipedia.org/wiki/Interactivity) [multimedia](https://en.wikipedia.org/wiki/Multimedia) and [video](https://en.wikipedia.org/wiki/Video) [tutorials](https://en.wikipedia.org/wiki/Tutorial), analyzing or playing [games](Chess_Game "Chess Game") and automatic engine tournaments with various native, [UCI](UCI "UCI") or [WinBoard](WinBoard "WinBoard") compliant engines on a single computer, inside a [network](https://en.wikipedia.org/wiki/Computer_network) or [cloud](https://en.wikipedia.org/wiki/Cloud_computing), online play via the [Playchess](index.php?title=Playchess&action=edit&redlink=1 "Playchess (page does not exist)") [chess server](Chess_Server "Chess Server"), and [Web-](https://en.wikipedia.org/wiki/Electronic_publishing) and [desktop publishing](https://en.wikipedia.org/wiki/Desktop_publishing) of chess related documents.
+a chess [database](https://en.wikipedia.org/wiki/Database) [front and back end](https://en.wikipedia.org/wiki/Front_and_back_ends) developed by [Matthias Wüllenweber](Matthias_W%C3%BCllenweber "Matthias Wüllenweber") for the [Atari ST](Atari_ST "Atari ST") which led to the foundation of the [ChessBase](ChessBase "ChessBase") company in 1986 <a id="cite-note-2" href="#cite-ref-2">[2]</a> along with [Frederic Friedel](Frederic_Friedel "Frederic Friedel") - the product name eponym of the company. ChessBase **1.0** was first released in January 1987 for the Atari ST running under [GEM](https://en.wikipedia.org/wiki/Graphical_Environment_Manager). [Mathias Feist](Mathias_Feist "Mathias Feist") joined ChessBase in the late 80s, and was responsible to port the database and interface from Atari ST into the [x86](X86 "X86") [DOS](MS-DOS "MS-DOS")/[Windows](Windows "Windows") world, and further integrated first chess engines into the ChessBase interface, turning this into [Fritz](Fritz "Fritz") in 1991. Subsequent ChessBase versions evolved to a sophisticated multiple purpose [GUI](GUI "GUI") for database management, database queries and [mining](https://en.wikipedia.org/wiki/Data_mining), [interactive](https://en.wikipedia.org/wiki/Interactivity) [multimedia](https://en.wikipedia.org/wiki/Multimedia) and [video](https://en.wikipedia.org/wiki/Video) [tutorials](https://en.wikipedia.org/wiki/Tutorial), analyzing or playing [games](Chess_Game "Chess Game") and automatic engine tournaments with various native, [UCI](UCI "UCI") or [WinBoard](WinBoard "WinBoard") compliant engines on a single computer, inside a [network](https://en.wikipedia.org/wiki/Computer_network) or [cloud](https://en.wikipedia.org/wiki/Cloud_computing), online play via the [Playchess](index.php?title=Playchess&action=edit&redlink=1 "Playchess (page does not exist)") [chess server](Chess_Server "Chess Server"), and [Web-](https://en.wikipedia.org/wiki/Electronic_publishing) and [desktop publishing](https://en.wikipedia.org/wiki/Desktop_publishing) of chess related documents.
 
 ## GUI
 
-The ChessBase **12** [GUI](GUI "GUI") is based on the fluent design as introduced by [Microsoft](Microsoft "Microsoft") [Office 2007](https://en.wikipedia.org/wiki/Microsoft_Office_2007), featuring a [ribbon](https://en.wikipedia.org/wiki/Ribbon_%28computing%29) [[3]](#cite_note-3), which is a set of [toolbars](https://en.wikipedia.org/wiki/Toolbar) placed on [tabs](https://en.wikipedia.org/wiki/Tab_%28GUI%29). Beside the ribbon, the main window features various workspace layouts, either tiled by a navigation folder window, a database list view and database game-list and preview window, or game-lists for query results and game windows with board- and tabbed windows for [game notation](Game_Notation "Game Notation"), annotations, references, score sheet, [opening book](Opening_Book "Opening Book") tree, etc., to play, replay or analyze a game.
+The ChessBase **12** [GUI](GUI "GUI") is based on the fluent design as introduced by [Microsoft](Microsoft "Microsoft") [Office 2007](https://en.wikipedia.org/wiki/Microsoft_Office_2007), featuring a [ribbon](https://en.wikipedia.org/wiki/Ribbon_%28computing%29) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, which is a set of [toolbars](https://en.wikipedia.org/wiki/Toolbar) placed on [tabs](https://en.wikipedia.org/wiki/Tab_%28GUI%29). Beside the ribbon, the main window features various workspace layouts, either tiled by a navigation folder window, a database list view and database game-list and preview window, or game-lists for query results and game windows with board- and tabbed windows for [game notation](Game_Notation "Game Notation"), annotations, references, score sheet, [opening book](Opening_Book "Opening Book") tree, etc., to play, replay or analyze a game.
 
 ## Database
 
@@ -20,11 +20,11 @@ A chess database is an organized collection of hundreds, thousands, or nowadays 
 
 ## Formats
 
-The ChessBase 3 database format (**CBF**) used two kind of files, data (\*.cbf) and indices (\*.cbi). The move encoding was based on a deterministic [move generator](Move_Generation "Move Generation"), storing the generation number of a move. Along with ChessBase **6** in 1996, a new format was established, dubbed **CBH**, which was able to handle nested variations with annotations, multimedia files, and more sophisticated indices. One CBH database consists of more than ten files with various extensions [[4]](#cite_note-4), which can be archived inside a single file (\*.cbv) format [[5]](#cite_note-5). Apparently, the CBH file format was [reverse engineered](https://en.wikipedia.org/wiki/Reverse_engineering) for interoperability purposes like import into other databases [[6]](#cite_note-6).
+The ChessBase 3 database format (**CBF**) used two kind of files, data (\*.cbf) and indices (\*.cbi). The move encoding was based on a deterministic [move generator](Move_Generation "Move Generation"), storing the generation number of a move. Along with ChessBase **6** in 1996, a new format was established, dubbed **CBH**, which was able to handle nested variations with annotations, multimedia files, and more sophisticated indices. One CBH database consists of more than ten files with various extensions <a id="cite-note-4" href="#cite-ref-4">[4]</a>, which can be archived inside a single file (\*.cbv) format <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Apparently, the CBH file format was [reverse engineered](https://en.wikipedia.org/wiki/Reverse_engineering) for interoperability purposes like import into other databases <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
 ## File Extensions
 
-[[7]](#cite_note-7)
+<a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 - cbh - Game Data (Header)
 - cbg - Game Moves and Variations (Game)
@@ -51,13 +51,13 @@ The ChessBase 3 database format (**CBF**) used two kind of files, data (\*.cbf) 
 ## Version History
 
 - ChessBase 1, January 1987, [Atari ST](Atari_ST "Atari ST") - [GEM](https://en.wikipedia.org/wiki/Graphical_Environment_Manager)
-- ChessBase 2, July 1988, [PC](IBM_PC "IBM PC") - [DOS](MS-DOS "MS-DOS") [[8]](#cite_note-8), Atari ST - GEM
-- ChessBase 3, 1991, PC - DOS, Atari ST - GEM [[9]](#cite_note-9)
+- ChessBase 2, July 1988, [PC](IBM_PC "IBM PC") - [DOS](MS-DOS "MS-DOS") <a id="cite-note-8" href="#cite-ref-8">[8]</a>, Atari ST - GEM
+- ChessBase 3, 1991, PC - DOS, Atari ST - GEM <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 - ChessBase 4, 1993, PC - DOS, Atari ST - GEM
 - ChessBase for Windows, 1994, PC - [Windows 3.x](Windows "Windows")
 - ChessBase 6.0, 1996, PC - [Windows 95](Windows "Windows")
-- ChessBase 7.0, August 1998, PC - [Windows 95, 98, NT](Windows "Windows") [[10]](#cite_note-10)
-- ChessBase 8.0, September 2000, PC - [Windows 2000](Windows "Windows") [[11]](#cite_note-11)
+- ChessBase 7.0, August 1998, PC - [Windows 95, 98, NT](Windows "Windows") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
+- ChessBase 8.0, September 2000, PC - [Windows 2000](Windows "Windows") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 - ChessBase 9, October 2004, PC - [Windows XP](Windows "Windows")
 - ChessBase 10, October 2008, PC - [Windows Vista](Windows "Windows")
 - ChessBase 11, October 2010, PC - [Windows 7](Windows "Windows")
@@ -308,17 +308,17 @@ ChessBase and [Fritz GUI](Fritz#FritzGUI "Fritz") compatible native [chess engin
 
 ## References
 
-1. [↑](#cite_ref-1) [ChessBase is 25 – everything 25% off in our shop](http://en.chessbase.com/post/chebase-is-25-everything-25-off-in-our-shop), [ChessBase News](ChessBase "ChessBase"), May 19, 2011
-1. [↑](#cite_ref-2) [Christmas dinner on a train – meet the ChessBase team](http://www.chessbase.com/newsdetail.asp?newsid=1376) from [ChessBase News](ChessBase "ChessBase"), December 23, 2003
-1. [↑](#cite_ref-3) [MSDN - Ribbon Designer (MFC)](http://msdn.microsoft.com/en-us/library/ee354408.aspx)
-1. [↑](#cite_ref-4) [Schachclub Leinzell - ChessBase 8.0 + Fritz 6 - Das CBH-Format](http://scleinzell.schachvereine.de/p_cbtipps/cb8_f6_02.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml), March 2001 (German)
-1. [↑](#cite_ref-5) [Re: Need help with little .cbh database - Fritz experts?](https://www.stmintz.com/ccc/index.php?id=302034) by [Ulrich Türke](Ulrich_T%C3%BCrke "Ulrich Türke"), [CCC](CCC "CCC"), June 20, 2003
-1. [↑](#cite_ref-6) [CBH file format](http://www.talkchess.com/forum/viewtopic.php?t=29468) by Yarin, [CCC](CCC "CCC"), August 19, 2009
-1. [↑](#cite_ref-7) [Re: Chessbase File Extensions](https://www.stmintz.com/ccc/index.php?id=347423) by Jeroen van Dorp, [CCC](CCC "CCC"), February 05, 2004
-1. [↑](#cite_ref-8) "Kasparov proudly presents the latest ChessBase running on a PC – in 1988", [ChessBase is 25 – everything 25% off in our shop](http://en.chessbase.com/post/chebase-is-25-everything-25-off-in-our-shop), [ChessBase News](ChessBase "ChessBase"), May 19, 2011
-1. [↑](#cite_ref-9) [Gambitchess - Museum of Chess Software](http://www.gambitchess.com/pub/progr.htm)
-1. [↑](#cite_ref-10) [ChessBase 7.0](http://www.schachversand.de/seiten/chessbase/indx_cb7.htm)
-1. [↑](#cite_ref-11) [ChessBase 8.0 experiences](https://www.stmintz.com/ccc/index.php?id=130839) by Jürgen Hartmann, [CCC](CCC "CCC"), September 28, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ChessBase is 25 – everything 25% off in our shop](http://en.chessbase.com/post/chebase-is-25-everything-25-off-in-our-shop), [ChessBase News](ChessBase "ChessBase"), May 19, 2011
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Christmas dinner on a train – meet the ChessBase team](http://www.chessbase.com/newsdetail.asp?newsid=1376) from [ChessBase News](ChessBase "ChessBase"), December 23, 2003
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MSDN - Ribbon Designer (MFC)](http://msdn.microsoft.com/en-us/library/ee354408.aspx)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Schachclub Leinzell - ChessBase 8.0 + Fritz 6 - Das CBH-Format](http://scleinzell.schachvereine.de/p_cbtipps/cb8_f6_02.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), [Schachclub Leinzell](http://scleinzell.schachvereine.de/home/news.shtml), March 2001 (German)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Need help with little .cbh database - Fritz experts?](https://www.stmintz.com/ccc/index.php?id=302034) by [Ulrich Türke](Ulrich_T%C3%BCrke "Ulrich Türke"), [CCC](CCC "CCC"), June 20, 2003
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CBH file format](http://www.talkchess.com/forum/viewtopic.php?t=29468) by Yarin, [CCC](CCC "CCC"), August 19, 2009
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Chessbase File Extensions](https://www.stmintz.com/ccc/index.php?id=347423) by Jeroen van Dorp, [CCC](CCC "CCC"), February 05, 2004
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> "Kasparov proudly presents the latest ChessBase running on a PC – in 1988", [ChessBase is 25 – everything 25% off in our shop](http://en.chessbase.com/post/chebase-is-25-everything-25-off-in-our-shop), [ChessBase News](ChessBase "ChessBase"), May 19, 2011
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Gambitchess - Museum of Chess Software](http://www.gambitchess.com/pub/progr.htm)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ChessBase 7.0](http://www.schachversand.de/seiten/chessbase/indx_cb7.htm)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [ChessBase 8.0 experiences](https://www.stmintz.com/ccc/index.php?id=130839) by Jürgen Hartmann, [CCC](CCC "CCC"), September 28, 2000
 
 **[Up one Level](Databases "Databases")**
 

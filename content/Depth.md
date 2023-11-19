@@ -3,7 +3,7 @@ title: Depth
 ---
 **[Home](Home "Home") * [Search](Search "Search") * Depth**
 
-[](http://www.mcescher.com/Gallery/recogn-bmp/LW403.jpg) [M. C. Escher](Category:M._C._Escher "Category:M. C. Escher"), Depth, 1955 [[1]](#cite_note-1)
+[](http://www.mcescher.com/Gallery/recogn-bmp/LW403.jpg) [M. C. Escher](Category:M._C._Escher "Category:M. C. Escher"), Depth, 1955 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Depth** is the height or *nominal* depth in [plies](Ply "Ply") between the [root](Root "Root") and so called [horizon nodes](Horizon_Node "Horizon Node") (depth 0), where a heuristic value is assigned to. Thus, depth is the number of half moves the search *nominally* looks ahead.
 
 Despite [quiescence search](Quiescence_Search "Quiescence Search"), where usually winning captures and even some checks are tried at or behind the search horizon, until positions become sufficiently quite, [selectivity](Selectivity "Selectivity") of modern chess programs, caused by [extensions](Extensions "Extensions"), [pruning](Pruning "Pruning") and [reductions](Reductions "Reductions"), notably [check extensions](Check_Extensions "Check Extensions"), [NMP](Null_Move_Pruning "Null Move Pruning") and [LMR](Late_Move_Reductions "Late Move Reductions"), leads to bushy, non-uniform [trees](Search_Tree "Search Tree") where some branches are searched deeper than nominal, but others shallower. A [depth reduction R](Depth_Reduction_R "Depth Reduction R") of multiple plies is often performed in forward pruning techniques like [null move pruning](Null_Move_Pruning "Null Move Pruning") and [multi-cut](Multi-Cut "Multi-Cut").
@@ -18,13 +18,13 @@ draft ::= depth at the root - ply index
 
 ```
 
-However, there are various reasons to decouple the depth to horizon from the ply-index or depth from root, which are often passed as independent parameters to a recursive search routine (see code below). While the ply-index is incremented by one each time, the draft may be independently altered by various [extension](Extensions "Extensions")- or [reduction](Reductions "Reductions")-schemes and may also consider [fractional extensions](Extensions#FractionalExtensions "Extensions") [[2]](#cite_note-2) [[3]](#cite_note-3) .
+However, there are various reasons to decouple the depth to horizon from the ply-index or depth from root, which are often passed as independent parameters to a recursive search routine (see code below). While the ply-index is incremented by one each time, the draft may be independently altered by various [extension](Extensions "Extensions")- or [reduction](Reductions "Reductions")-schemes and may also consider [fractional extensions](Extensions#FractionalExtensions "Extensions") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
 ## Fractional Plies
 
 Some programs extend or reduce in fractions of one ply. Fractional plies with integers, where one corresponds to 1/N, require a depth resolution of N. Inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework, the search depth is incremented, usually by one ply, N - or by a fraction of one ply, for instance 1/2 ply.
 
-[Amir Ban](Amir_Ban "Amir Ban") on [Junior](Junior "Junior") in [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 1998 [[4]](#cite_note-4) :
+[Amir Ban](Amir_Ban "Amir Ban") on [Junior](Junior "Junior") in [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 1998 <a id="cite-note-4" href="#cite-ref-4">[4]</a> :
 
 ```C++
 The [brute-force](Brute-Force "Brute-Force") [ply](Ply "Ply") depth is indeed half the publicized depth. All the rest are [extensions](Extensions "Extensions") (in conventional terminology, I don't think of them this way). If you set Junior to depth 12, e.g., then you should be able to find a 7-ply combination where it fails. If I am doing a good job, then you should have a hard time finding one.
@@ -84,7 +84,7 @@ The Maximum Search Depth of a [depth-first search](Depth-First "Depth-First") is
 
 ## Diminishing Returns
 
-Despite the existence of [pathology](Search_Pathology "Search Pathology") in searching some trees, where a deeper [minimax](Minimax "Minimax") search results in worse play, it is quite consensus in Chess that deeper search yields in stronger play. [Strength](Playing_Strength "Playing Strength") improvement from depth d to depth d+1 was first systematically examined by [Ken Thompson](Ken_Thompson "Ken Thompson") with [Belle](Belle "Belle") in *Computer Chess Strength*, as introduced at the [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3") conference in 1981 [[5]](#cite_note-5) . Thompson found Belle (n+1) scored about 80% versus Belle (n), which roughly translates to a 200 [Elo](https://en.wikipedia.org/wiki/Elo_rating_system) improvement playing one ply deeper, while the improvement seemed constant independent from the used depths from 3 to 8, while a second experiment [[6]](#cite_note-6) indicated a falloff beyond depth 7.
+Despite the existence of [pathology](Search_Pathology "Search Pathology") in searching some trees, where a deeper [minimax](Minimax "Minimax") search results in worse play, it is quite consensus in Chess that deeper search yields in stronger play. [Strength](Playing_Strength "Playing Strength") improvement from depth d to depth d+1 was first systematically examined by [Ken Thompson](Ken_Thompson "Ken Thompson") with [Belle](Belle "Belle") in *Computer Chess Strength*, as introduced at the [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3") conference in 1981 <a id="cite-note-5" href="#cite-ref-5">[5]</a> . Thompson found Belle (n+1) scored about 80% versus Belle (n), which roughly translates to a 200 [Elo](https://en.wikipedia.org/wiki/Elo_rating_system) improvement playing one ply deeper, while the improvement seemed constant independent from the used depths from 3 to 8, while a second experiment <a id="cite-note-6" href="#cite-ref-6">[6]</a> indicated a falloff beyond depth 7.
 
 |  |  P4
 |  P5
@@ -151,15 +151,15 @@ Despite the existence of [pathology](Search_Pathology "Search Pathology") in sea
 |  120
 |
 
-Also, in other board games such as [Othello](Othello "Othello") and [Checkers](Checkers "Checkers"), additional plies of search translated into decreasing benefits, giving rise to [Diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) for deeper searching. In their 1997 paper *Diminishing Returns for Additional Search in Chess* [[7]](#cite_note-7) , [Junghanns](Andreas_Junghanns "Andreas Junghanns"), [Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Brockington](Mark_Brockington "Mark Brockington"), [Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") and [Marsland](Tony_Marsland "Tony Marsland") conclude the existence of Diminishing returns in Chess as well, somehow hidden by the high percentage of errors made by chess programs for lower search depth.
+Also, in other board games such as [Othello](Othello "Othello") and [Checkers](Checkers "Checkers"), additional plies of search translated into decreasing benefits, giving rise to [Diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) for deeper searching. In their 1997 paper *Diminishing Returns for Additional Search in Chess* <a id="cite-note-7" href="#cite-ref-7">[7]</a> , [Junghanns](Andreas_Junghanns "Andreas Junghanns"), [Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Brockington](Mark_Brockington "Mark Brockington"), [Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") and [Marsland](Tony_Marsland "Tony Marsland") conclude the existence of Diminishing returns in Chess as well, somehow hidden by the high percentage of errors made by chess programs for lower search depth.
 
-In self-play experiments with [Crafty](Crafty "Crafty"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") [[8]](#cite_note-8) and later [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") with [DarkThought](DarkThought "DarkThought") [[9]](#cite_note-9) steadily discovered new best moves while searching deeper. In further experiments [[10]](#cite_note-10) , Heinz found indications of decreasing returns from increasing search in chess. In his 2001 [ICGA Journal](ICGA_Journal "ICGA Journal") paper *Self-Play, Deep Search and Diminishing Returns* [[11]](#cite_note-11) he gave following match results (3,000 games each) [[12]](#cite_note-12) :
+In self-play experiments with [Crafty](Crafty "Crafty"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") <a id="cite-note-8" href="#cite-ref-8">[8]</a> and later [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") with [DarkThought](DarkThought "DarkThought") <a id="cite-note-9" href="#cite-ref-9">[9]</a> steadily discovered new best moves while searching deeper. In further experiments <a id="cite-note-10" href="#cite-ref-10">[10]</a> , Heinz found indications of decreasing returns from increasing search in chess. In his 2001 [ICGA Journal](ICGA_Journal "ICGA Journal") paper *Self-Play, Deep Search and Diminishing Returns* <a id="cite-note-11" href="#cite-ref-11">[11]</a> he gave following match results (3,000 games each) <a id="cite-note-12" href="#cite-ref-12">[12]</a> :
 
 - 12-ply was 84 Elo points better than 11 ply
 - 11-ply was 92 Elo points better than 10 ply
 - 10-ply was 115 Elo points better than 9 ply
 
-[Tony van Roon-Werten](Tony_van_Roon-Werten "Tony van Roon-Werten") made following statement on *Diminishing Returns* [[13]](#cite_note-13) :
+[Tony van Roon-Werten](Tony_van_Roon-Werten "Tony van Roon-Werten") made following statement on *Diminishing Returns* <a id="cite-note-13" href="#cite-ref-13">[13]</a> :
 
 ```C++
 If two programs play with 5 vs 6 ply search, the second engine has a 20% depth advantage. With 10 vs 11 it's only 10%. So of course the difference in wins is smaller. ...
@@ -171,7 +171,7 @@ Diminishing returns are only proven (IMO) if 6 vs 5 wins more games than 12 vs 1
 
 ```
 
-[Ed Schröder](Ed_Schroder "Ed Schroder") conducted self-play experiments with [ProDeo 1.74](ProDeo "ProDeo") playing different depths. Schröder also suggests that ProDeo has a [branching-factor](Branching_Factor "Branching Factor") of roughly 2, in other words an additional ply corresponds to a [doubling of time](Match_Statistics#DoublingTC "Match Statistics"). In the following table the values indicate the Elo advantage of ProDeo playing with depth A against itself with depth B. The exact tournament conditions can be studied on his webpage [[14]](#cite_note-14) .
+[Ed Schröder](Ed_Schroder "Ed Schroder") conducted self-play experiments with [ProDeo 1.74](ProDeo "ProDeo") playing different depths. Schröder also suggests that ProDeo has a [branching-factor](Branching_Factor "Branching Factor") of roughly 2, in other words an additional ply corresponds to a [doubling of time](Match_Statistics#DoublingTC "Match Statistics"). In the following table the values indicate the Elo advantage of ProDeo playing with depth A against itself with depth B. The exact tournament conditions can be studied on his webpage <a id="cite-note-14" href="#cite-ref-14">[14]</a> .
 
 |  depth A vs B
 |  7
@@ -262,7 +262,7 @@ Diminishing returns are only proven (IMO) if 6 vs 5 wins more games than 12 vs 1
 
 ## 2010 ...
 
-- [Diogo R. Ferreira](Diogo_R._Ferreira "Diogo R. Ferreira") (**2013**). *The Impact of the Search Depth on Chess Playing Strength*. [ICGA Journal, Vol. 36, No. 2](ICGA_Journal#36_2 "ICGA Journal") » [Diminishing Returns](#DiminishingReturns), [Match Statistics](Match_Statistics "Match Statistics"), [Playing Strength](Playing_Strength "Playing Strength"), [Houdini](Houdini "Houdini") [[15]](#cite_note-15)
+- [Diogo R. Ferreira](Diogo_R._Ferreira "Diogo R. Ferreira") (**2013**). *The Impact of the Search Depth on Chess Playing Strength*. [ICGA Journal, Vol. 36, No. 2](ICGA_Journal#36_2 "ICGA Journal") » [Diminishing Returns](#DiminishingReturns), [Match Statistics](Match_Statistics "Match Statistics"), [Playing Strength](Playing_Strength "Playing Strength"), [Houdini](Houdini "Houdini") <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 - [Tamal T. Biswas](Tamal_T._Biswas "Tamal T. Biswas"), [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan") (**2015**). *Quantifying Depth and Complexity of Thinking and Knowledge*. [ICAART 2015](http://www.icaart.org/EuropeanProjectSpace.aspx?y=2015), [pdf](http://www.cse.buffalo.edu/~regan/papers/pdf/BiReICAART15CR.pdf)
 - [Tamal T. Biswas](Tamal_T._Biswas "Tamal T. Biswas"), [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan") (**2015**). *Measuring Level-K Reasoning, Satisficing, and Human Error in Game-Play Data*. [IEEE](IEEE "IEEE") [ICMLA 2015](http://www.icmla-conference.org/icmla15/), [pdf preprint](http://www.cse.buffalo.edu/~regan/papers/pdf/BiRe15_ICMLA2015.pdf)
 - [Matej Guid](Matej_Guid "Matej Guid"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko") (**2017**). *Influence of Search Depth on Position Evaluation*. [Advances in Computer Games 15](Advances_in_Computer_Games_15 "Advances in Computer Games 15")
@@ -286,12 +286,12 @@ Diminishing returns are only proven (IMO) if 6 vs 5 wins more games than 12 vs 1
 - [diminishing returns w/ increased search depth?](https://www.stmintz.com/ccc/index.php?id=92700) by [Peter Kappler](Peter_Kappler "Peter Kappler"), [CCC](CCC "CCC"), January 27, 2000
 - [A New Self-Play Experiment - Diminishing Returns Shown with 95% Conf.](https://www.stmintz.com/ccc/index.php?id=112359) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [CCC](CCC "CCC"), May 24, 2000 » [Diminishing Returns](Depth#DiminishingReturns "Depth")
 - [Faster, deeper and more of such...](https://www.stmintz.com/ccc/index.php?id=129504) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), September 14, 2000 » [Search Statistics](Search_Statistics "Search Statistics")
-- [ICGA_J (June) self-play information](https://www.stmintz.com/ccc/index.php?id=187276) by [Guy Haworth](Guy_Haworth "Guy Haworth"), [CCC](CCC "CCC"), September 05, 2001 [[16]](#cite_note-16)
+- [ICGA_J (June) self-play information](https://www.stmintz.com/ccc/index.php?id=187276) by [Guy Haworth](Guy_Haworth "Guy Haworth"), [CCC](CCC "CCC"), September 05, 2001 <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 - [About diminishing returns (Uri)](https://www.stmintz.com/ccc/index.php?id=198429) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), November 22, 2001
 - [The probability to find better move is simply irrelevant for diminishing returns](https://www.stmintz.com/ccc/index.php?id=212683) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), February 09, 2002
 - [The law of diminishing returns](https://www.stmintz.com/ccc/index.php?id=240056) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), July 12, 2002
 - [Regarding Qsearch with Fractional ply extensions](https://www.stmintz.com/ccc/index.php?id=310897) by [Federico Corigliano](Federico_Andr%C3%A9s_Corigliano "Federico Andrés Corigliano"), [CCC](CCC "CCC"), August 11, 2003 » [Quiescence Search](Quiescence_Search "Quiescence Search")
-- [In chess we will reach diminishing returns just like in Checkers 1994](https://www.stmintz.com/ccc/index.php?id=324345) by Jorge Pichard, [CCC](CCC "CCC"), October 29, 2003 [[17]](#cite_note-17)
+- [In chess we will reach diminishing returns just like in Checkers 1994](https://www.stmintz.com/ccc/index.php?id=324345) by Jorge Pichard, [CCC](CCC "CCC"), October 29, 2003 <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 - [diminishing returns](https://www.stmintz.com/ccc/index.php?id=345836) by Duncan Roberts, [CCC](CCC "CCC"), January 30, 2004
 - [Shredder 8 secret: search depth?](https://www.stmintz.com/ccc/index.php?id=356109) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), March 23, 2004
 
@@ -337,29 +337,29 @@ Diminishing returns are only proven (IMO) if 6 vs 5 wins more games than 12 vs 1
 - [Depth-limited search from Wikipedia](https://en.wikipedia.org/wiki/Depth-limited_search)
 - [Diminishing returns from Wikipedia](https://en.wikipedia.org/wiki/Diminishing_returns)
 - [Draft (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Draft)
-- [Depth of Satisficing](https://rjlipton.wordpress.com/2015/10/06/depth-of-satisficing/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), October 06, 2015 » Depth, [Match Statistics](Match_Statistics "Match Statistics"), [Pawn Advantage, Win Percentage, and Elo](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo"), [Stockfish](Stockfish "Stockfish"), [Komodo](Komodo "Komodo") [[18]](#cite_note-18)
+- [Depth of Satisficing](https://rjlipton.wordpress.com/2015/10/06/depth-of-satisficing/) by [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com/), October 06, 2015 » Depth, [Match Statistics](Match_Statistics "Match Statistics"), [Pawn Advantage, Win Percentage, and Elo](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo"), [Stockfish](Stockfish "Stockfish"), [Komodo](Komodo "Komodo") <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 - [Roy Hargrove Quintet](Category:Roy_Hargrove "Category:Roy Hargrove") - Depth, [Newport Jazz Festival](https://en.wikipedia.org/wiki/Newport_Jazz_Festival), [August 11, 2001](https://www.setlist.fm/festival/2001/newport-jazz-festival-2001-73d69e8d.html), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
 
 ## References
 
-1. [↑](#cite_ref-1) [Picture gallery "Recognition and Success 1955 - 1972"](http://www.mcescher.com/Gallery/gallery-recogn.htm) from [The Official M.C. Escher Website](http://www.mcescher.com/)
-1. [↑](#cite_ref-2) [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
-1. [↑](#cite_ref-3) [David Levy](David_Levy "David Levy") (**2002**). *[SOME COMMENTS ON REALIZATION PROBABILITIES AND THE SEX ALGORITHM](http://ticc.uvt.nl/icga/journal/contents/content25-3.htm#SOME%20COMMENTS%20ON%20REALIZATION%20PROBABILITIES)*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
-1. [↑](#cite_ref-4) [Funny Junior Engine in CBLight / Junior Engine ply depth](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/2163f0fa2f0715f1) by Wolfgang Krietsch, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 27, 1998, post 7 and 16 by [Amir Ban](Amir_Ban "Amir Ban")
-1. [↑](#cite_ref-5) [Ken Thompson](Ken_Thompson "Ken Thompson") (**1982**). *Computer Chess Strength*. [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3")
-1. [↑](#cite_ref-6) [Joe Condon](Joe_Condon "Joe Condon"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1983**). *BELLE*. [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine")
-1. [↑](#cite_ref-7) [Andreas Junghanns](Andreas_Junghanns "Andreas Junghanns"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Mark Brockington](Mark_Brockington "Mark Brockington"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1997**). *Diminishing Returns for Additional Search in Chess*. [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8"), [pdf](http://www.ru.is/faculty/yngvi/pdf/JunghannsSBBM97.pdf)
-1. [↑](#cite_ref-8) [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1997**). *CRAFTY Goes Deep*. [ICCA Journal, Vol. 20, No. 2](ICGA_Journal#20_2 "ICGA Journal")
-1. [↑](#cite_ref-9) [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1998**). *[DarkThought Goes Deep](http://people.csail.mit.edu/heinz/dt/node46.html).* [ICCA Journal, Vol. 21, No. 4](ICGA_Journal#21_4 "ICGA Journal")
-1. [↑](#cite_ref-10) [A New Self-Play Experiment - Diminishing Returns Shown with 95% Conf.](https://www.stmintz.com/ccc/index.php?id=112359) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [CCC](CCC "CCC"), May 24, 2000
-1. [↑](#cite_ref-11) [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**2001**). *Self-Play, Deep Search and Diminishing Returns.* [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
-1. [↑](#cite_ref-12) [ICGA_J (June) self-play information](https://www.stmintz.com/ccc/index.php?id=187276) by [Guy Haworth](Guy_Haworth "Guy Haworth"), [CCC](CCC "CCC"), September 05, 2001
-1. [↑](#cite_ref-13) [Re: In chess we will reach diminishing returns just like in Checkers 1994](https://www.stmintz.com/ccc/index.php?id=324592) by [Tony Werten](Tony_van_Roon-Werten "Tony van Roon-Werten"), [CCC](CCC "CCC"), October 30, 2003
-1. [↑](#cite_ref-14) [Experiments in computer chess: The value of depth and diminishing return effects](http://www.top-5000.nl/ply.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder"), June 2012
-1. [↑](#cite_ref-15) [Ply versus ELO](https://www.hiarcs.net/forums/viewtopic.php?t=10004) by Greg, [HIARCS Forum](Computer_Chess_Forums "Computer Chess Forums"), May 30, 2020 » [Diogo R. Ferreira - Impact of the Search Depth ...](Diogo_R._Ferreira#Impact "Diogo R. Ferreira")
-1. [↑](#cite_ref-16) [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**2001**). *Self-Play, Deep Search and Diminishing Returns.* [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
-1. [↑](#cite_ref-17) [Perfection in checkers](http://www.chessbase.com/newsdetail.asp?newsid=1270), [ChessBase News](ChessBase "ChessBase"), October 29, 2003
-1. [↑](#cite_ref-18) [Regan's latest: Depth of Satisficing](http://www.talkchess.com/forum/viewtopic.php?t=57890) by Carl Lumma, [CCC](CCC "CCC"), October 09, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Picture gallery "Recognition and Success 1955 - 1972"](http://www.mcescher.com/Gallery/gallery-recogn.htm) from [The Official M.C. Escher Website](http://www.mcescher.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Levy](David_Levy "David Levy"), [David Broughton](David_Broughton "David Broughton"), [Mark Taylor](Mark_Taylor "Mark Taylor") (**1989**). *The SEX Algorithm in Computer Chess*. [ICCA Journal, Vol. 12, No. 1](ICGA_Journal#12_1 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Levy](David_Levy "David Levy") (**2002**). *[SOME COMMENTS ON REALIZATION PROBABILITIES AND THE SEX ALGORITHM](http://ticc.uvt.nl/icga/journal/contents/content25-3.htm#SOME%20COMMENTS%20ON%20REALIZATION%20PROBABILITIES)*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Funny Junior Engine in CBLight / Junior Engine ply depth](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/2163f0fa2f0715f1) by Wolfgang Krietsch, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 27, 1998, post 7 and 16 by [Amir Ban](Amir_Ban "Amir Ban")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ken Thompson](Ken_Thompson "Ken Thompson") (**1982**). *Computer Chess Strength*. [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Joe Condon](Joe_Condon "Joe Condon"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1983**). *BELLE*. [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Andreas Junghanns](Andreas_Junghanns "Andreas Junghanns"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Mark Brockington](Mark_Brockington "Mark Brockington"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1997**). *Diminishing Returns for Additional Search in Chess*. [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8"), [pdf](http://www.ru.is/faculty/yngvi/pdf/JunghannsSBBM97.pdf)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1997**). *CRAFTY Goes Deep*. [ICCA Journal, Vol. 20, No. 2](ICGA_Journal#20_2 "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1998**). *[DarkThought Goes Deep](http://people.csail.mit.edu/heinz/dt/node46.html).* [ICCA Journal, Vol. 21, No. 4](ICGA_Journal#21_4 "ICGA Journal")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [A New Self-Play Experiment - Diminishing Returns Shown with 95% Conf.](https://www.stmintz.com/ccc/index.php?id=112359) by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), [CCC](CCC "CCC"), May 24, 2000
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**2001**). *Self-Play, Deep Search and Diminishing Returns.* [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [ICGA_J (June) self-play information](https://www.stmintz.com/ccc/index.php?id=187276) by [Guy Haworth](Guy_Haworth "Guy Haworth"), [CCC](CCC "CCC"), September 05, 2001
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Re: In chess we will reach diminishing returns just like in Checkers 1994](https://www.stmintz.com/ccc/index.php?id=324592) by [Tony Werten](Tony_van_Roon-Werten "Tony van Roon-Werten"), [CCC](CCC "CCC"), October 30, 2003
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Experiments in computer chess: The value of depth and diminishing return effects](http://www.top-5000.nl/ply.htm) by [Ed Schröder](Ed_Schroder "Ed Schroder"), June 2012
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Ply versus ELO](https://www.hiarcs.net/forums/viewtopic.php?t=10004) by Greg, [HIARCS Forum](Computer_Chess_Forums "Computer Chess Forums"), May 30, 2020 » [Diogo R. Ferreira - Impact of the Search Depth ...](Diogo_R._Ferreira#Impact "Diogo R. Ferreira")
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**2001**). *Self-Play, Deep Search and Diminishing Returns.* [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Perfection in checkers](http://www.chessbase.com/newsdetail.asp?newsid=1270), [ChessBase News](ChessBase "ChessBase"), October 29, 2003
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Regan's latest: Depth of Satisficing](http://www.talkchess.com/forum/viewtopic.php?t=57890) by Carl Lumma, [CCC](CCC "CCC"), October 09, 2015
 
 **[Up one Level](Search "Search")**
 

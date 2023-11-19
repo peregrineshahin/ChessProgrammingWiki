@@ -6,7 +6,7 @@ title: UCI
 
 **UCI**, (Universal Chess Interface)  
 
-an open [communication protocol](https://en.wikipedia.org/wiki/Communication_protocol) for chess engines to play [games](Games "Games") automatically, that is to communicate with other programs including [Graphical User Interfaces](GUI "GUI"). UCI was designed and developed by [Rudolf Huber](Rudolf_Huber "Rudolf Huber") and [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") [[1]](#cite_note-1), and released in November 2000 [[2]](#cite_note-2) . It has, by-in-large, replaced the older [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") ([WinBoard](WinBoard "WinBoard")/[XBoard](XBoard "XBoard")).
+an open [communication protocol](https://en.wikipedia.org/wiki/Communication_protocol) for chess engines to play [games](Games "Games") automatically, that is to communicate with other programs including [Graphical User Interfaces](GUI "GUI"). UCI was designed and developed by [Rudolf Huber](Rudolf_Huber "Rudolf Huber") and [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, and released in November 2000 <a id="cite-note-2" href="#cite-ref-2">[2]</a> . It has, by-in-large, replaced the older [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") ([WinBoard](WinBoard "WinBoard")/[XBoard](XBoard "XBoard")).
 
 
 
@@ -25,7 +25,7 @@ While the UCI design makes it simple for engine programmers to integrate a "stat
 * Missing some useful commands/info: inform chess engines the results, no information about after movestogo GUIs will reset clock or not
 
 
-Excerpt concerning UCI from a [Robert Hyatt](Robert_Hyatt "Robert Hyatt") interview by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") in 2002 [[3]](#cite_note-3) :
+Excerpt concerning UCI from a [Robert Hyatt](Robert_Hyatt "Robert Hyatt") interview by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") in 2002 <a id="cite-note-3" href="#cite-ref-3">[3]</a> :
 
 
 
@@ -41,7 +41,7 @@ It removes several critical engine-decisions that are best made by the engine, n
 
 ```
 
-[Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") wrote on a [Talkchess](Talkchess "Talkchess") thread [[4]](#cite_note-4)
+[Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") wrote on a [Talkchess](Talkchess "Talkchess") thread <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 
 
@@ -63,7 +63,7 @@ IMO statelessness w.r.t. the game state (including clocks) in UCI was a very bad
 * Almost all chess GUIs support
 
 
-[Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey") emphasize the ease of implementation in a [Quisinsky](Frank_Quisinsky "Frank Quisinsky") interview, April 05, 2005 [[5]](#cite_note-5) :
+[Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey") emphasize the ease of implementation in a [Quisinsky](Frank_Quisinsky "Frank Quisinsky") interview, April 05, 2005 <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
 
 
@@ -77,7 +77,7 @@ The choice of UCI is based on software-design principles that are not easy to ex
 Fabien wrote a protocol translation program, [PolyGlot](PolyGlot "PolyGlot") to allow use of the new protocol on [Linux](Linux "Linux"), though this is now supported natively by the powerful [Scid vs. PC](Scid_vs._PC "Scid vs. PC") toolkit. Scid vs. PC itself includes Polyglot code to enable support for Polyglot opening books.
 
 
-[Marco Costalba](Marco_Costalba "Marco Costalba") replied [Robert Hyatt](Robert_Hyatt "Robert Hyatt") on a [Talkchess](Talkchess "Talkchess") thread [[6]](#cite_note-6)
+[Marco Costalba](Marco_Costalba "Marco Costalba") replied [Robert Hyatt](Robert_Hyatt "Robert Hyatt") on a [Talkchess](Talkchess "Talkchess") thread <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 
 
@@ -91,7 +91,7 @@ The aim of the UCI protocol is to make the code simple, that's why I think it wa
 
 ```
 
-[Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen") replied [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") on a [Talkchess](Talkchess "Talkchess") thread [[7]](#cite_note-7)
+[Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen") replied [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") on a [Talkchess](Talkchess "Talkchess") thread <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 
 
@@ -250,13 +250,13 @@ I have written engines with both protocols (UCI, WB) and now support them all in
 
 
 
-* [JSUCI 1.0 - connect javascript chess engines to UCI](http://www.talkchess.com/forum/viewtopic.php?t=51763) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), March 28, 2014 » [JavaScript](JavaScript "JavaScript") [[8]](#cite_note-8)
+* [JSUCI 1.0 - connect javascript chess engines to UCI](http://www.talkchess.com/forum/viewtopic.php?t=51763) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), March 28, 2014 » [JavaScript](JavaScript "JavaScript") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 * [MadChess UCI\_LimitStrength Algorithm](http://www.talkchess.com/forum/viewtopic.php?t=51973) by [Erik Madsen](Erik_Madsen "Erik Madsen"), [CCC](CCC "CCC"), April 12, 2014 » [MadChess](MadChess "MadChess"), [Playing Strength](Playing_Strength "Playing Strength")
 * [UCI, ownbooks, and a potential problem](http://www.talkchess.com/forum/viewtopic.php?t=52661) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), June 16, 2014 » [Opening Book](Opening_Book "Opening Book")
 * [UCI exclude move](http://www.talkchess.com/forum/viewtopic.php?t=53123) by [Steven Atkinson](Steven_Atkinson "Steven Atkinson"), [CCC](CCC "CCC"), July 30, 2014
 * [UCI Protocol](http://www.talkchess.com/forum/viewtopic.php?t=53504) by jay dee, [CCC](CCC "CCC"), August 31, 2014
 * [PV after stop/readyok](http://www.talkchess.com/forum/viewtopic.php?t=54093) by [Steven Atkinson](Steven_Atkinson "Steven Atkinson"), [CCC](CCC "CCC"), October 20, 2014
-* [UCCI2WB](http://www.talkchess.com/forum/viewtopic.php?t=54162) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), October 27, 2014 » [Chinese Chess](Chinese_Chess "Chinese Chess") [[9]](#cite_note-9)
+* [UCCI2WB](http://www.talkchess.com/forum/viewtopic.php?t=54162) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), October 27, 2014 » [Chinese Chess](Chinese_Chess "Chinese Chess") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 * [UCI protocol for chess variants](http://www.talkchess.com/forum/viewtopic.php?t=54167) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), October 28, 2014
 * [How does input console for UCI work ?](http://www.talkchess.com/forum/viewtopic.php?t=54703) by [Piotr Lopusiewicz](index.php?title=Piotr_Lopusiewicz&action=edit&redlink=1 "Piotr Lopusiewicz (page does not exist)"), [CCC](CCC "CCC"), December 20, 2014
 
@@ -357,7 +357,7 @@ I have written engines with both protocols (UCI, WB) and now support them all in
 ### Interviews
 
 
-* [Arena, Interviews mit Prof. Dr. Robert Hyatt, Tim Mann und Martin Blume](http://web.archive.org/web/20020925204655fw_/http://www.playwitharena.com/directory/interviews/interviews.htm) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") for [ChessBits](ChessBits "ChessBits"), No. 18, May 2002 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)) » [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Tim Mann](Tim_Mann "Tim Mann"), [Martin Blume](Martin_Blume "Martin Blume") [[10]](#cite_note-10)
+* [Arena, Interviews mit Prof. Dr. Robert Hyatt, Tim Mann und Martin Blume](http://web.archive.org/web/20020925204655fw_/http://www.playwitharena.com/directory/interviews/interviews.htm) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") for [ChessBits](ChessBits "ChessBits"), No. 18, May 2002 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)) » [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Tim Mann](Tim_Mann "Tim Mann"), [Martin Blume](Martin_Blume "Martin Blume") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 * [Interview with SOS programmer Rudolf Huber in German language!](https://web.archive.org/web/20120106031235/http://www.playwitharena.com/?Newsticker:Archive_9) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Arena Chess GUI 3.0](Arena "Arena") - Archive 9, 132, May 10, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 
 
@@ -375,7 +375,7 @@ I have written engines with both protocols (UCI, WB) and now support them all in
 
 
 * [Javascript Universal Chess Interface | Free software downloads at SourceForge.net](http://sourceforge.net/projects/jsuci/) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer")
-* [GitHub - ebemunk/node-uci: UCI Protocol for node.js - talk to chess engines painlessly](https://github.com/ebemunk/node-uci) by [Buğra Fırat](index.php?title=Bu%C4%9Fra_F%C4%B1rat&action=edit&redlink=1 "Buğra Fırat (page does not exist)") [[11]](#cite_note-11)
+* [GitHub - ebemunk/node-uci: UCI Protocol for node.js - talk to chess engines painlessly](https://github.com/ebemunk/node-uci) by [Buğra Fırat](index.php?title=Bu%C4%9Fra_F%C4%B1rat&action=edit&redlink=1 "Buğra Fırat (page does not exist)") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 
  [node-uci Documentation](https://ebemunk.com/node-uci/)
@@ -396,17 +396,17 @@ I have written engines with both protocols (UCI, WB) and now support them all in
 ## References
 
 
-1. [↑](#cite_ref-1) [Interview with SOS programmer Rudolf Huber in German language!](https://web.archive.org/web/20120106031235/http://www.playwitharena.com/?Newsticker:Archive_9) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Arena Chess GUI 3.0](Arena "Arena") - Archive 9, 132, May 10, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
-2. [↑](#cite_ref-2) [Universal Chess Interface From Wikipedia](https://en.wikipedia.org/wiki/Universal_Chess_Interface)
-3. [↑](#cite_ref-3) [Arena, Interviews mit Prof. Dr. Robert Hyatt, Tim Mann und Martin Blume](http://web.archive.org/web/20020925204655fw_/http://www.playwitharena.com/directory/interviews/interviews.htm) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") for [ChessBits](ChessBits "ChessBits"), No. 18, May 2002 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-4. [↑](#cite_ref-4) [Re: PGN standard, its improvement and standardization](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72019&start=36) by [Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen"), [CCC](CCC "CCC"), October 14, 2019 » from [Portable Game Notation](Portable_Game_Notation "Portable Game Notation") to [Protocols](Protocols "Protocols")
-5. [↑](#cite_ref-5) [The alternative to Crafty, Interview with Fabien Letouzey](http://www.playwitharena.com/?Newsticker:Archive_7) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Arena Chess GUI 3.0](Arena "Arena") - Archive , Page 7, 96, April 05, 2005
-6. [↑](#cite_ref-6) [Re: Ugly UCI](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=58392&hilit=winboard&start=20#p650169) by [Kempelen](Kempelen "Kempelen"), [CCC](CCC "CCC"), November 29, 2015 » [Protocols](Protocols "Protocols")
-7. [↑](#cite_ref-7) [Re: PGN standard, its improvement and standardization](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72019&start=36) by [Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen"), [CCC](CCC "CCC"), October 14, 2019 » from [Portable Game Notation](Portable_Game_Notation "Portable Game Notation") to [Protocols](Protocols "Protocols")
-8. [↑](#cite_ref-8) [Javascript Universal Chess Interface | Free software downloads at SourceForge.net](http://sourceforge.net/projects/jsuci/) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer")
-9. [↑](#cite_ref-9) [中国象棋电脑应用规范(五)：中国象棋通用引擎协议](http://www.xqbase.com/protocol/cchess_ucci.htm) Universal Chinese Chess Protocol (UCCI)
-10. [↑](#cite_ref-10) [3 interviews about engine protocols with T. Mann, R. Hyatt and M. Blume](https://www.stmintz.com/ccc/index.php?id=245615) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 15, 2002
-11. [↑](#cite_ref-11) [Node.js from Wikipedia](https://en.wikipedia.org/wiki/Node.js)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Interview with SOS programmer Rudolf Huber in German language!](https://web.archive.org/web/20120106031235/http://www.playwitharena.com/?Newsticker:Archive_9) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Arena Chess GUI 3.0](Arena "Arena") - Archive 9, 132, May 10, 2005 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Universal Chess Interface From Wikipedia](https://en.wikipedia.org/wiki/Universal_Chess_Interface)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Arena, Interviews mit Prof. Dr. Robert Hyatt, Tim Mann und Martin Blume](http://web.archive.org/web/20020925204655fw_/http://www.playwitharena.com/directory/interviews/interviews.htm) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") for [ChessBits](ChessBits "ChessBits"), No. 18, May 2002 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: PGN standard, its improvement and standardization](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72019&start=36) by [Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen"), [CCC](CCC "CCC"), October 14, 2019 » from [Portable Game Notation](Portable_Game_Notation "Portable Game Notation") to [Protocols](Protocols "Protocols")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The alternative to Crafty, Interview with Fabien Letouzey](http://www.playwitharena.com/?Newsticker:Archive_7) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Arena Chess GUI 3.0](Arena "Arena") - Archive , Page 7, 96, April 05, 2005
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Ugly UCI](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=58392&hilit=winboard&start=20#p650169) by [Kempelen](Kempelen "Kempelen"), [CCC](CCC "CCC"), November 29, 2015 » [Protocols](Protocols "Protocols")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: PGN standard, its improvement and standardization](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=72019&start=36) by [Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen"), [CCC](CCC "CCC"), October 14, 2019 » from [Portable Game Notation](Portable_Game_Notation "Portable Game Notation") to [Protocols](Protocols "Protocols")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Javascript Universal Chess Interface | Free software downloads at SourceForge.net](http://sourceforge.net/projects/jsuci/) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [中国象棋电脑应用规范(五)：中国象棋通用引擎协议](http://www.xqbase.com/protocol/cchess_ucci.htm) Universal Chinese Chess Protocol (UCCI)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [3 interviews about engine protocols with T. Mann, R. Hyatt and M. Blume](https://www.stmintz.com/ccc/index.php?id=245615) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), August 15, 2002
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Node.js from Wikipedia](https://en.wikipedia.org/wiki/Node.js)
 
 **[Up one Level](Protocols "Protocols")**
 

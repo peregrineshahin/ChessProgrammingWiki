@@ -5,7 +5,7 @@ title: ShredderGUI
 
 
 
- [](http://www.shredderchess.com/images/stories/screenshots/shredderclassic5/e1.png) Deep Shredder 13 default design and window layout [[1]](#cite_note-1) 
+ [](http://www.shredderchess.com/images/stories/screenshots/shredderclassic5/e1.png) Deep Shredder 13 default design and window layout <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Shredder**,  
 
 a chess engine by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") (SMK). Shredder won an astonished number of tournaments and titles, beside various [World Computer Chess Championships](World_Computer_Chess_Championship "World Computer Chess Championship"), [World Microcomputer Chess Championships](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship") and [World Chess Software Championships](World_Chess_Software_Championship "World Chess Software Championship"), the [IPCCC](IPCCC "IPCCC"), the [International CSVN Tournament](International_CSVN_Tournament "International CSVN Tournament"), the [CSVN Programmers Tournament](CSVN_Programmers_Tournament "CSVN Programmers Tournament"), and more. Shredder had its debut at the [WMCCC 1995](WMCCC_1995 "WMCCC 1995") in [Paderborn](https://en.wikipedia.org/wiki/Paderborn), and soon after winning the first title at the [WMCCC 1996](WMCCC_1996 "WMCCC 1996") in [Jakarta](https://en.wikipedia.org/wiki/Jakarta), Shredder went commercial, distributed by [Millennium 2000 GmbH](Millennium_2000_GmbH "Millennium 2000 GmbH") - since Shredder **3** along with the [Millennium Chess System](Millennium_Chess_System "Millennium Chess System") (MCS), since Shredder **5** also developed by SMK supporting the [UCI](UCI "UCI") protocol, which was co-designed and implemented by the same author. Therefore Shredder may use any UCI-compatible [graphical user interface](GUI "GUI"), in particular its own [Shredder Classic GUI](Shredder#GUI "Shredder"). The long-awaited Shredder **13** and its [multiprocessor](https://en.wikipedia.org/wiki/Multiprocessing) counterpart **Deep Shredder 13** were released on October 30, 2016. 
@@ -16,7 +16,7 @@ a chess engine by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen
 
 
  [](WCCC_1999 "WCCC 1999") 
-[WCCC 1999](WCCC_1999 "WCCC 1999"), round 6: [Ferret](Ferret "Ferret") - Shredder, [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") and [Bruce Moreland](Bruce_Moreland "Bruce Moreland") [[2]](#cite_note-2) [[3]](#cite_note-3)
+[WCCC 1999](WCCC_1999 "WCCC 1999"), round 6: [Ferret](Ferret "Ferret") - Shredder, [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") and [Bruce Moreland](Bruce_Moreland "Bruce Moreland") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 
 
@@ -81,7 +81,7 @@ Rf2+ 83.Rxf2 exf2 84.Kxf2 c2 85.Bxc2 Rxc2+ 86.Re2 Rxe2+ 87.Kxe2 Bg4+ 88.Kd3 Kd5 
 ## Achievements
 
 
-Quote from *Shredder Chess* [[4]](#cite_note-4) :
+Quote from *Shredder Chess* <a id="cite-note-4" href="#cite-ref-4">[4]</a> :
 The Shredder chess programs by Stefan Meyer-Kahlen provide a game playing and analysis tool for everybody and are accepted as one of the best chess programs of the world. Since 1996 Shredder has won twenty titles.
 
 
@@ -111,7 +111,7 @@ The Shredder chess programs by Stefan Meyer-Kahlen provide a game playing and an
 ## Description
 
 
-Description given in 1999 from the [ICCA](ICCA "ICCA") tournament site [[5]](#cite_note-5) :
+Description given in 1999 from the [ICCA](ICCA "ICCA") tournament site <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
 
 
@@ -124,7 +124,7 @@ Shredder has started in 1995 as a project at university. Good tournament and tes
 ## Portability
 
 
-Since Shredder is written in [C](C "C"), it is available for various hardware platforms, such as [PC](IBM_PC "IBM PC"), [Macintosh](Macintosh "Macintosh"), and [PDAs](https://en.wikipedia.org/wiki/Personal_digital_assistant), and various operating systems like [Windows](Windows "Windows"), [Linux](Linux "Linux") [[6]](#cite_note-6) and [Mac OS](Mac_OS "Mac OS") [[7]](#cite_note-7) .
+Since Shredder is written in [C](C "C"), it is available for various hardware platforms, such as [PC](IBM_PC "IBM PC"), [Macintosh](Macintosh "Macintosh"), and [PDAs](https://en.wikipedia.org/wiki/Personal_digital_assistant), and various operating systems like [Windows](Windows "Windows"), [Linux](Linux "Linux") <a id="cite-note-6" href="#cite-ref-6">[6]</a> and [Mac OS](Mac_OS "Mac OS") <a id="cite-note-7" href="#cite-ref-7">[7]</a> .
 
 
 
@@ -139,7 +139,7 @@ Since Shredder is written in [C](C "C"), it is available for various hardware pl
 ## Deep Shredder
 
 
-**Deep Shredder**, first released in 2001 based on **Shredder 5** [[8]](#cite_note-8), is the [multiprocessor](https://en.wikipedia.org/wiki/Multiprocessing) version of Shredder. The most recent version, **Deep Shredder 13** [[9]](#cite_note-9) released on October 30, 2016 [[10]](#cite_note-10), is the further developed [2015 World Computer Chess Software Champion](WCSC_2015 "WCSC 2015"), which was a complete rewrite based on [bitboards](Bitboards "Bitboards"). Deep Shredder 13 has improved more than 300 Elo over Shredder 12 [[11]](#cite_note-11).
+**Deep Shredder**, first released in 2001 based on **Shredder 5** <a id="cite-note-8" href="#cite-ref-8">[8]</a>, is the [multiprocessor](https://en.wikipedia.org/wiki/Multiprocessing) version of Shredder. The most recent version, **Deep Shredder 13** <a id="cite-note-9" href="#cite-ref-9">[9]</a> released on October 30, 2016 <a id="cite-note-10" href="#cite-ref-10">[10]</a>, is the further developed [2015 World Computer Chess Software Champion](WCSC_2015 "WCSC 2015"), which was a complete rewrite based on [bitboards](Bitboards "Bitboards"). Deep Shredder 13 has improved more than 300 Elo over Shredder 12 <a id="cite-note-11" href="#cite-ref-11">[11]</a>.
 
 
 
@@ -147,7 +147,7 @@ Since Shredder is written in [C](C "C"), it is available for various hardware pl
 ## Shredder Classic GUI
 
 
-Shredder and Deep Shredder come with a clear and reliable [graphical user interface](GUI "GUI") which evolved from the [Millennium Chess System](Millennium_Chess_System "Millennium Chess System") - supporting the [universal chess interface](UCI "UCI") [[12]](#cite_note-12), also compatible with other [UCI engines](Category:UCI "Category:UCI") running under [Windows](Windows "Windows"), [Linux](Linux "Linux") or [Mac OS](Mac_OS "Mac OS"). The Shredder GUI is favoured by many programmers playing over the board tournaments with their engines, for instance [Johannes Zwanzger](Johannes_Zwanzger "Johannes Zwanzger") and his [WCCC 1995](WCCC_1995 "WCCC 1995") winner [Jonny](Jonny "Jonny").
+Shredder and Deep Shredder come with a clear and reliable [graphical user interface](GUI "GUI") which evolved from the [Millennium Chess System](Millennium_Chess_System "Millennium Chess System") - supporting the [universal chess interface](UCI "UCI") <a id="cite-note-12" href="#cite-ref-12">[12]</a>, also compatible with other [UCI engines](Category:UCI "Category:UCI") running under [Windows](Windows "Windows"), [Linux](Linux "Linux") or [Mac OS](Mac_OS "Mac OS"). The Shredder GUI is favoured by many programmers playing over the board tournaments with their engines, for instance [Johannes Zwanzger](Johannes_Zwanzger "Johannes Zwanzger") and his [WCCC 1995](WCCC_1995 "WCCC 1995") winner [Jonny](Jonny "Jonny").
 
 
 
@@ -160,7 +160,7 @@ Shredder and Deep Shredder come with a clear and reliable [graphical user interf
 ## Pocket Shredder
 
 
-Pocket Shredder is a version for [Windows](Windows "Windows") [PDAs](https://en.wikipedia.org/wiki/Personal_digital_assistant), such as [iPAQ](https://en.wikipedia.org/wiki/IPAQ) [[13]](#cite_note-13) .
+Pocket Shredder is a version for [Windows](Windows "Windows") [PDAs](https://en.wikipedia.org/wiki/Personal_digital_assistant), such as [iPAQ](https://en.wikipedia.org/wiki/IPAQ) <a id="cite-note-13" href="#cite-ref-13">[13]</a> .
 
 
 
@@ -168,7 +168,7 @@ Pocket Shredder is a version for [Windows](Windows "Windows") [PDAs](https://en.
 ## Shredder Mobile
 
 
-Shredder Mobile runs on most mobile phones with [Java](Java "Java") [[14]](#cite_note-14) .
+Shredder Mobile runs on most mobile phones with [Java](Java "Java") <a id="cite-note-14" href="#cite-ref-14">[14]</a> .
 
 
 
@@ -177,7 +177,7 @@ Shredder Mobile runs on most mobile phones with [Java](Java "Java") [[14]](#cite
 
 
  [](http://www.shredderchess.com/chess-program/shredder-android.html) Shredder for Android 
-Shredder for [Android](Android "Android") runs on all phones and tablets with at least [Android 4](https://en.wikipedia.org/wiki/Android_version_history#Android_4.0_Ice_Cream_Sandwich_(API_14)) as well as on all [Kindle Fire](https://en.wikipedia.org/wiki/Kindle_Fire) phones and tables since the [2nd generation](https://en.wikipedia.org/wiki/Kindle_Fire#Generations) [[15]](#cite_note-15). 
+Shredder for [Android](Android "Android") runs on all phones and tablets with at least [Android 4](https://en.wikipedia.org/wiki/Android_version_history#Android_4.0_Ice_Cream_Sandwich_(API_14)) as well as on all [Kindle Fire](https://en.wikipedia.org/wiki/Kindle_Fire) phones and tables since the [2nd generation](https://en.wikipedia.org/wiki/Kindle_Fire#Generations) <a id="cite-note-15" href="#cite-ref-15">[15]</a>. 
 
 
 
@@ -185,7 +185,7 @@ Shredder for [Android](Android "Android") runs on all phones and tablets with at
 ## Shredderbases
 
 
-Shredderbases are compact, proprietary [endgame bitbases](Endgame_Bitbases "Endgame Bitbases") for up to 5 men with [WDL](Endgame_Tablebases#Bitbases "Endgame Tablebases") information, suited to use inside the [search](Search "Search") [[16]](#cite_note-16).
+Shredderbases are compact, proprietary [endgame bitbases](Endgame_Bitbases "Endgame Bitbases") for up to 5 men with [WDL](Endgame_Tablebases#Bitbases "Endgame Tablebases") information, suited to use inside the [search](Search "Search") <a id="cite-note-16" href="#cite-ref-16">[16]</a>.
 
 
 
@@ -311,7 +311,7 @@ Shredderbases are compact, proprietary [endgame bitbases](Endgame_Bitbases "Endg
  [Shredder Computer Chess | News](https://www.shredderchess.com/chess-news.html)
 * [Shredder from Wikipedia](https://en.wikipedia.org/wiki/Shredder_%28chess%29)
 * [Shredder 5.0 - das Weltmeister-Programm!](http://scleinzell.schachvereine.de/p_spielprogramme/shredder5.shtml) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), [Schachclub Leinzell Informationen zu aktueller Schachsoftware](http://scleinzell.schachvereine.de/home/pitters.shtml), Dezember 2000 (German)
-* [Shredder 9 on top of the world - A short introduction to Shredder 9](https://en.chessbase.com/post/shredder-9-on-top-of-the-world) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), [ChessBase News](ChessBase "ChessBase"), March 01, 2005 [[17]](#cite_note-17)
+* [Shredder 9 on top of the world - A short introduction to Shredder 9](https://en.chessbase.com/post/shredder-9-on-top-of-the-world) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), [ChessBase News](ChessBase "ChessBase"), March 01, 2005 <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 * [Programs and essentials](https://en.chessbase.com/post/programs-and-eentials/3) by [Steve Lopez](index.php?title=Steve_Lopez&action=edit&redlink=1 "Steve Lopez (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), March 13, 2005 » [Junior 9](Junior "Junior"), Shredder 9
 * [Shredder 10 now available - Interview with Shredder author Stefan Meyer-Kahlen](https://en.chessbase.com/post/shredder-10-now-available), [ChessBase News](ChessBase "ChessBase"), May 26, 2006
 * [ChessBase DeepShredder 12](http://www.nk-qy.info/bericht-chessbase-deep-shredder-12.htm) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [Schachwelt - Computerschach](http://www.schach-welt.de/spezial/computerschach-.html), January 30, 2010 (German)
@@ -337,23 +337,23 @@ Shredderbases are compact, proprietary [endgame bitbases](Endgame_Bitbases "Endg
 ## References
 
 
-1. [↑](#cite_ref-1) [Shredder 13 Windows Screenshots](http://www.shredderchess.com/chess-info/screenshots/shredder-13-windows-screenshots.html) from [Shredder Chess](http://www.shredderchess.com/)
-2. [↑](#cite_ref-2) Image captured from [Paderborn 1999 1.mp4](http://www.top-5000.nl/Paderborn_1999_1.mp4) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-3. [↑](#cite_ref-3) [Paderborn 1999 - Chess - Round 6 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=6&id=3)
-4. [↑](#cite_ref-4) [Shredder Computer Chess](http://www.shredderchess.com/), 19th title added by editor
-5. [↑](#cite_ref-5) [Shredder's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=20)
-6. [↑](#cite_ref-6) [Shredder Computer Chess Download - Linux](http://www.shredderchess.com/chess-software/linux.html)
-7. [↑](#cite_ref-7) [Shredder Computer Chess Download - Macintosh](http://www.shredderchess.com/chess-software/macintosh.html)
-8. [↑](#cite_ref-8)  [Shredder 5.0 - das Weltmeister-Programm! - Deep Shredder verfügbar! - April 2001](http://scleinzell.schachvereine.de/p_spielprogramme/shredder5_d.shtml#4) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), [Schachclub Leinzell Informationen zu aktueller Schachsoftware](http://scleinzell.schachvereine.de/home/pitters.shtml), Dezember 2000 (German)
-9. [↑](#cite_ref-9) [Shredder Computer Chess Download - Deep Shredder 13](http://www.shredderchess.com/chess-software/deep-shredder13.html)
-10. [↑](#cite_ref-10) [Deep Shredder 13 Windows out](http://www.talkchess.com/forum/viewtopic.php?t=61895) by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), [CCC](CCC "CCC"), October 30, 2016
-11. [↑](#cite_ref-11) [Re: Deep Shredder 13 Windows out](http://www.talkchess.com/forum/viewtopic.php?t=61895&start=5) by [Ingo Bauer](Ingo_Bauer "Ingo Bauer"), [CCC](CCC "CCC"), October 30, 2016
-12. [↑](#cite_ref-12) [Shredder Classic 3 user interface](http://www.shredderchess.com/chess-program/shredder-classic-3-windows.html)
-13. [↑](#cite_ref-13) [Pocket Shredder: Chess for Windows Mobile](http://www.shredderchess.com/chess-news/shredder-news/pocket-shredder-chess-windows-mobile.html)
-14. [↑](#cite_ref-14) [Shredder Mobile](http://www.shredderchess.com/chess-program/shredder-mobile.html)
-15. [↑](#cite_ref-15) [hredder Computer Chess Download - Shredder for Android](https://www.shredderchess.com/chess-program/shredder-android.html)
-16. [↑](#cite_ref-16) [Shredderbases](http://www.shredderchess.com/chess-info/features/shredderbases.html)
-17. [↑](#cite_ref-17) [Ten years of Computer Chess revisited](http://www.talkchess.com/forum/viewtopic.php?t=55650) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), March 13, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Shredder 13 Windows Screenshots](http://www.shredderchess.com/chess-info/screenshots/shredder-13-windows-screenshots.html) from [Shredder Chess](http://www.shredderchess.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Image captured from [Paderborn 1999 1.mp4](http://www.top-5000.nl/Paderborn_1999_1.mp4) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub") hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Paderborn 1999 - Chess - Round 6 - Game 3 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=8&round=6&id=3)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Shredder Computer Chess](http://www.shredderchess.com/), 19th title added by editor
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Shredder's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/program.php?id=20)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Shredder Computer Chess Download - Linux](http://www.shredderchess.com/chess-software/linux.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Shredder Computer Chess Download - Macintosh](http://www.shredderchess.com/chess-software/macintosh.html)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a>  [Shredder 5.0 - das Weltmeister-Programm! - Deep Shredder verfügbar! - April 2001](http://scleinzell.schachvereine.de/p_spielprogramme/shredder5_d.shtml#4) by [Peter Schreiner](Peter_Schreiner "Peter Schreiner"), [Schachclub Leinzell Informationen zu aktueller Schachsoftware](http://scleinzell.schachvereine.de/home/pitters.shtml), Dezember 2000 (German)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Shredder Computer Chess Download - Deep Shredder 13](http://www.shredderchess.com/chess-software/deep-shredder13.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Deep Shredder 13 Windows out](http://www.talkchess.com/forum/viewtopic.php?t=61895) by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), [CCC](CCC "CCC"), October 30, 2016
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: Deep Shredder 13 Windows out](http://www.talkchess.com/forum/viewtopic.php?t=61895&start=5) by [Ingo Bauer](Ingo_Bauer "Ingo Bauer"), [CCC](CCC "CCC"), October 30, 2016
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Shredder Classic 3 user interface](http://www.shredderchess.com/chess-program/shredder-classic-3-windows.html)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Pocket Shredder: Chess for Windows Mobile](http://www.shredderchess.com/chess-news/shredder-news/pocket-shredder-chess-windows-mobile.html)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Shredder Mobile](http://www.shredderchess.com/chess-program/shredder-mobile.html)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [hredder Computer Chess Download - Shredder for Android](https://www.shredderchess.com/chess-program/shredder-android.html)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Shredderbases](http://www.shredderchess.com/chess-info/features/shredderbases.html)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Ten years of Computer Chess revisited](http://www.talkchess.com/forum/viewtopic.php?t=55650) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), March 13, 2015
 
 **[Up one Level](Engines "Engines")**
 

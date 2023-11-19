@@ -8,7 +8,7 @@ title: Point Value by Regression Analysis
  [](http://habrahabr.ru/post/254753/) 
 **Point Value by Regression Analysis**,  
 
-an article by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev") on determining [point values](Point_Value "Point Value") by [logistic regression](Automated_Tuning#LogisticRegression "Automated Tuning"), posted as "Определяем веса шахматных фигур регрессионным анализом" on April 30, 2015 in [Habrahabr](https://en.wikipedia.org/wiki/Habrahabr), a popular Russian IT portal [[1]](#cite_note-1) [[2]](#cite_note-2), translated with the help of [Google Translate](https://en.wikipedia.org/wiki/Google_Translate), slightly edited, and published here with the permission of Vladimir Medvedev.
+an article by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev") on determining [point values](Point_Value "Point Value") by [logistic regression](Automated_Tuning#LogisticRegression "Automated Tuning"), posted as "Определяем веса шахматных фигур регрессионным анализом" on April 30, 2015 in [Habrahabr](https://en.wikipedia.org/wiki/Habrahabr), a popular Russian IT portal <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>, translated with the help of [Google Translate](https://en.wikipedia.org/wiki/Google_Translate), slightly edited, and published here with the permission of Vladimir Medvedev.
 
 
 
@@ -20,7 +20,7 @@ an article by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev") on dete
 Hello Habr!  
 
 
-This article deals with a programmer's study on [machine learning](Learning "Learning"), inspired by an online course *Machine Learning* by [Andrew Ng](index.php?title=Andrew_Ng&action=edit&redlink=1 "Andrew Ng (page does not exist)") at [Stanford University](Stanford_University "Stanford University") and [Coursera](https://en.wikipedia.org/wiki/Coursera) [[3]](#cite_note-3) [[4]](#cite_note-4) [[5]](#cite_note-5). After becoming familar with some methods discussed in the lectures, such as [regression analysis](https://en.wikipedia.org/wiki/Regression_analysis), the author was keen to apply them to real problems - in the domain of chess engine optimization.
+This article deals with a programmer's study on [machine learning](Learning "Learning"), inspired by an online course *Machine Learning* by [Andrew Ng](index.php?title=Andrew_Ng&action=edit&redlink=1 "Andrew Ng (page does not exist)") at [Stanford University](Stanford_University "Stanford University") and [Coursera](https://en.wikipedia.org/wiki/Coursera) <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. After becoming familar with some methods discussed in the lectures, such as [regression analysis](https://en.wikipedia.org/wiki/Regression_analysis), the author was keen to apply them to real problems - in the domain of chess engine optimization.
 
 
 
@@ -30,7 +30,7 @@ This article deals with a programmer's study on [machine learning](Learning "Lea
 Calculating the static evaluation [score](Score "Score") is usually implemented by a [linear combination](https://en.wikipedia.org/wiki/Linear_combination) of various position features scaled by some weights - most importantly the number of pieces and pawns of both sides, further the position of these pieces, [centralization](Center_Control "Center Control"), and [mobility](Mobility "Mobility"). Assuming a state of the art search, only considering [material](Material "Material") and [piece-square tables](Piece-Square_Tables "Piece-Square Tables") is already sufficient to build a 2000-2200 Elo engine nowadays.
 
 
-Further refinements of the assessment may include more and more subtle terms of a chess position: the presence and advancement of [passed pawns](Passed_Pawn "Passed Pawn"), the [proximity](Distance "Distance") of the [king to attacking pieces](King_Safety#KingTropism "King Safety"), its [pawn shield](King_Safety#PawnShield "King Safety") and more. The legendary chess program [Kaissa](Kaissa "Kaissa"), first [world champion among programs in 1974](WCCC_1974 "WCCC 1974"), had several dozens of evaluation terms, as descibed in *The machine plays chess* by [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Alexander Bitman](Alexander_Bitman "Alexander Bitman") and [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") in 1983 [[6]](#cite_note-6) .
+Further refinements of the assessment may include more and more subtle terms of a chess position: the presence and advancement of [passed pawns](Passed_Pawn "Passed Pawn"), the [proximity](Distance "Distance") of the [king to attacking pieces](King_Safety#KingTropism "King Safety"), its [pawn shield](King_Safety#PawnShield "King Safety") and more. The legendary chess program [Kaissa](Kaissa "Kaissa"), first [world champion among programs in 1974](WCCC_1974 "WCCC 1974"), had several dozens of evaluation terms, as descibed in *The machine plays chess* by [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Alexander Bitman](Alexander_Bitman "Alexander Bitman") and [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") in 1983 <a id="cite-note-6" href="#cite-ref-6">[6]</a> .
 
 
 Lacking such resources as the creators of [Deep Blue](Deep_Blue "Deep Blue"), the task here is limited, and considers only the most significant term - the [balance of material](Material#Balance "Material") on the board. 
@@ -75,7 +75,7 @@ The King is sometimes attributed to a final score, certainly greater than the su
 
 
  [](http://habrahabr.ru/post/254753/) 
-Here is how the third world champion, [José Raúl Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca), describes the evaluation of different material combinations in his classic textbook *Chess fundamentals* [[7]](#cite_note-7)
+Here is how the third world champion, [José Raúl Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca), describes the evaluation of different material combinations in his classic textbook *Chess fundamentals* <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 
 For all general theoretical purposes the Bishop and the Knight have to be considered as of the same value, though it is my opinion that the Bishop will prove the more valuable piece in most cases; and it is well known that two Bishops are almost always better than two Knights.
@@ -236,7 +236,7 @@ Finding the optimal point values ​​of the weight vector θ,
 
 ```
 
-requires [minimizing](https://en.wikipedia.org/wiki/Cross_entropy#Cross-entropy_minimization) the [cross-entropy](https://en.wikipedia.org/wiki/Cross_entropy) [cost function](https://en.wikipedia.org/wiki/Cross_entropy#Cross-entropy_error_function_and_logistic_regression) for the [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression) [[8]](#cite_note-8):
+requires [minimizing](https://en.wikipedia.org/wiki/Cross_entropy#Cross-entropy_minimization) the [cross-entropy](https://en.wikipedia.org/wiki/Cross_entropy) [cost function](https://en.wikipedia.org/wiki/Cross_entropy#Cross-entropy_error_function_and_logistic_regression) for the [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression) <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
 
 
@@ -254,7 +254,7 @@ The introduction of [regularization](https://en.wikipedia.org/wiki/Regularizatio
 The coefficients of regularization is chosen small, in this case λ = 10-6.
 
 
-To solve the problem of [minimization](https://en.wikipedia.org/wiki/Maxima_and_minima), a simple [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) with a constant slope is applied [[9]](#cite_note-9):
+To solve the problem of [minimization](https://en.wikipedia.org/wiki/Maxima_and_minima), a simple [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) with a constant slope is applied <a id="cite-note-9" href="#cite-ref-9">[9]</a>:
 
 
 
@@ -272,7 +272,7 @@ Since we are looking for a symmetric solution in material equality which gives t
 ## Program and Results
 
 
-Since the first part of the problem, the analysis of [PGN-Files](Portable_Game_Notation "Portable Game Notation") and the allocation for each item set of features, has practically been implemented in the chess engine [GreKo](GreKo "GreKo"), it was decided to use [C++](Cpp "Cpp") for the pgn learning stuff as well. Source code and PGN samples are available at [GitHub](https://en.wikipedia.org/wiki/GitHub) [[10]](#cite_note-10) . The program can be compiled and run under [Windows](Windows "Windows") ( [MSVC](https://en.wikipedia.org/wiki/Visual_C%2B%2B)) or [Linux](Linux "Linux") ([GCC](Free_Software_Foundation#GCC "Free Software Foundation")).
+Since the first part of the problem, the analysis of [PGN-Files](Portable_Game_Notation "Portable Game Notation") and the allocation for each item set of features, has practically been implemented in the chess engine [GreKo](GreKo "GreKo"), it was decided to use [C++](Cpp "Cpp") for the pgn learning stuff as well. Source code and PGN samples are available at [GitHub](https://en.wikipedia.org/wiki/GitHub) <a id="cite-note-10" href="#cite-ref-10">[10]</a> . The program can be compiled and run under [Windows](Windows "Windows") ( [MSVC](https://en.wikipedia.org/wiki/Visual_C%2B%2B)) or [Linux](Linux "Linux") ([GCC](Free_Software_Foundation#GCC "Free Software Foundation")).
 
 
 The ability to use further [specialized tools](https://en.wikipedia.org/wiki/List_of_numerical_analysis_software) like [GNU Octave](https://en.wikipedia.org/wiki/GNU_Octave), [MATLAB](https://en.wikipedia.org/wiki/MATLAB), [R](https://en.wikipedia.org/wiki/R_%28programming_language%29), etc. is also provided, the program generates an intermediate text file with a set of features and outcome of the game, which can easily be imported into these environments. The file contains the text representation of a set of vectors x j - matrix of dimension mx (n + 1) in the first 5 columns that contain components of the material balance (from the pawn to a queen), and in the 6th - the result of the game.
@@ -402,7 +402,7 @@ Let's try to expand the experiment, considering not only computers, but also hum
 |  |  |  |  |
 | --- | --- | --- | --- |
 |  | [VishyAnand09.jpg](File:VishyAnand09.jpg) | [Carlsen Magnus (30238051906).jpg](File:Carlsen_Magnus_(30238051906).jpg) | [And00278.png](File:And00278.png) |
-|  |  Anand [[11]](#cite_note-11) |  Carlsen [[12]](#cite_note-12) |  Andersen [[13]](#cite_note-13) |
+|  |  Anand <a id="cite-note-11" href="#cite-ref-11">[11]</a> |  Carlsen <a id="cite-note-12" href="#cite-ref-12">[12]</a> |  Andersen <a id="cite-note-13" href="#cite-ref-13">[13]</a> |
 |  Pawn
  |  100
  |  100
@@ -520,19 +520,19 @@ No chess pieces were harmed during investigation.
 ## References
 
 
-1. [↑](#cite_ref-1) [Определяем веса шахматных фигур регрессионным анализом / Хабрахабр](https://habrahabr.ru/post/254753/) by [WinPooh](Vladimir_Medvedev "Vladimir Medvedev"), April 27, 2015 (Russian)
-2. [↑](#cite_ref-2) [Piece weights with regression analysis (in Russian)](http://www.talkchess.com/forum/viewtopic.php?t=56168) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [CCC](CCC "CCC"), April 30, 2015
-3. [↑](#cite_ref-3) [Machine Learning - Stanford University | Coursera](https://www.coursera.org/learn/machine-learning)
-4. [↑](#cite_ref-4) [Lecture Collection | Machine Learning - YouTube](https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599) by [Andrew Ng](index.php?title=Andrew_Ng&action=edit&redlink=1 "Andrew Ng (page does not exist)"), [Stanford University](Stanford_University "Stanford University")
-5. [↑](#cite_ref-5) [CS 229: Machine Learning (Course handouts)](http://cs229.stanford.edu/materials.html)
-6. [↑](#cite_ref-6) [Г.М. Адельсон-Вельский](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [В.Л. Арлазаров](Vladimir_Arlazarov "Vladimir Arlazarov"), [А.Р. Битман](Alexander_Bitman "Alexander Bitman"), [М.В. Донской](Mikhail_Donskoy "Mikhail Donskoy") (**1983**). *Машина играет в шахматы*. [pdf](http://genes1s.net/files/kaissa.pdf) (book with detailed explanations of Kaissa algorithms, Russian)
-7. [↑](#cite_ref-7) [José Raúl Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca) (**1921**). *[Chess fundamentals](https://openlibrary.org/books/OL23286033M/Chess_fundamentals)*. *[5. Relative Values of the Pieces, pp. 24-25](https://archive.org/stream/cu31924014756724#page/n41/mode/2up)*.
-8. [↑](#cite_ref-8) "Using [cross-entropy error function](https://en.wikipedia.org/wiki/Cross_entropy#Cross-entropy_error_function_and_logistic_regression) instead of [sum of squares](https://en.wikipedia.org/wiki/Mean_squared_error) leads to faster training and improved generalization", from [Sargur Srihari](https://en.wikipedia.org/wiki/Sargur_Srihari), [Neural Network Training](http://www.cedar.buffalo.edu/~srihari/CSE574/Chap5/Chap5.2-Training.pdf) (pdf)
-9. [↑](#cite_ref-9) [Nabla operator or Del from Wikipedia](https://en.wikipedia.org/wiki/Del)
-10. [↑](#cite_ref-10) [WinPooh/pgnlearn · GitHub](https://github.com/WinPooh/pgnlearn)
-11. [↑](#cite_ref-11) [Viswanathan Anand](https://en.wikipedia.org/wiki/Viswanathan_Anand), world chess champion, Photo by Stefan64, January 2013, [World Chess Championship 2014 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2014), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-12. [↑](#cite_ref-12) [Magnus Carlsen](https://en.wikipedia.org/wiki/Magnus_Carlsen), chess grandmaster from Norway, Photo by Stefan64, January 2013, [World Chess Championship 2014 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2014), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-13. [↑](#cite_ref-13) [Adolf Andersen from Wikipedia](https://en.wikipedia.org/wiki/Adolf_Anderssen)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Определяем веса шахматных фигур регрессионным анализом / Хабрахабр](https://habrahabr.ru/post/254753/) by [WinPooh](Vladimir_Medvedev "Vladimir Medvedev"), April 27, 2015 (Russian)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Piece weights with regression analysis (in Russian)](http://www.talkchess.com/forum/viewtopic.php?t=56168) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [CCC](CCC "CCC"), April 30, 2015
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Machine Learning - Stanford University | Coursera](https://www.coursera.org/learn/machine-learning)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Lecture Collection | Machine Learning - YouTube](https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599) by [Andrew Ng](index.php?title=Andrew_Ng&action=edit&redlink=1 "Andrew Ng (page does not exist)"), [Stanford University](Stanford_University "Stanford University")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [CS 229: Machine Learning (Course handouts)](http://cs229.stanford.edu/materials.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Г.М. Адельсон-Вельский](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [В.Л. Арлазаров](Vladimir_Arlazarov "Vladimir Arlazarov"), [А.Р. Битман](Alexander_Bitman "Alexander Bitman"), [М.В. Донской](Mikhail_Donskoy "Mikhail Donskoy") (**1983**). *Машина играет в шахматы*. [pdf](http://genes1s.net/files/kaissa.pdf) (book with detailed explanations of Kaissa algorithms, Russian)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [José Raúl Capablanca](https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca) (**1921**). *[Chess fundamentals](https://openlibrary.org/books/OL23286033M/Chess_fundamentals)*. *[5. Relative Values of the Pieces, pp. 24-25](https://archive.org/stream/cu31924014756724#page/n41/mode/2up)*.
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> "Using [cross-entropy error function](https://en.wikipedia.org/wiki/Cross_entropy#Cross-entropy_error_function_and_logistic_regression) instead of [sum of squares](https://en.wikipedia.org/wiki/Mean_squared_error) leads to faster training and improved generalization", from [Sargur Srihari](https://en.wikipedia.org/wiki/Sargur_Srihari), [Neural Network Training](http://www.cedar.buffalo.edu/~srihari/CSE574/Chap5/Chap5.2-Training.pdf) (pdf)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Nabla operator or Del from Wikipedia](https://en.wikipedia.org/wiki/Del)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [WinPooh/pgnlearn · GitHub](https://github.com/WinPooh/pgnlearn)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Viswanathan Anand](https://en.wikipedia.org/wiki/Viswanathan_Anand), world chess champion, Photo by Stefan64, January 2013, [World Chess Championship 2014 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2014), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Magnus Carlsen](https://en.wikipedia.org/wiki/Magnus_Carlsen), chess grandmaster from Norway, Photo by Stefan64, January 2013, [World Chess Championship 2014 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2014), [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Adolf Andersen from Wikipedia](https://en.wikipedia.org/wiki/Adolf_Anderssen)
 
 **[Up one Level](Automated_Tuning "Automated Tuning")**
 

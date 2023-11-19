@@ -3,16 +3,16 @@ title: General Setwise OperationsTheTwosComplement
 ---
 **[Home](Home "Home") * [Board Representation](Board_Representation "Board Representation") * [Bitboards](Bitboards "Bitboards") * General Setwise Operations**
 
-\[ [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - Upward, 1929 [[1]](#cite_note-1)
+\[ [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - Upward, 1929 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **General Setwise Operations**,
 
-[binary](https://en.wikipedia.org/wiki/Binary_operation) and [unary operations](https://en.wikipedia.org/wiki/Unary_operation), essential in testing and manipulating bitboards within a chess program. [Relational operators](General_Setwise_Operations#Relational "General Setwise Operations") on bitboards test for equality, [bitwise boolean operators](General_Setwise_Operations#Bitwisebooleanoperations "General Setwise Operations") perform the intrinsic setwise operations [[2]](#cite_note-2) [[3]](#cite_note-3), such as [intersection](General_Setwise_Operations#Intersection "General Setwise Operations"), [union](General_Setwise_Operations#Union "General Setwise Operations") and [complement](General_Setwise_Operations#ComplementSet "General Setwise Operations"). [Shifting bitboards](General_Setwise_Operations#ShiftingBitboards "General Setwise Operations") simulates piece movement, while finally [arithmetical operations](General_Setwise_Operations#ArithmeticalOperations "General Setwise Operations") are used in [bit-twiddling](Bit-Twiddling "Bit-Twiddling") applications and to calculate various hash-indicies.
+[binary](https://en.wikipedia.org/wiki/Binary_operation) and [unary operations](https://en.wikipedia.org/wiki/Unary_operation), essential in testing and manipulating bitboards within a chess program. [Relational operators](General_Setwise_Operations#Relational "General Setwise Operations") on bitboards test for equality, [bitwise boolean operators](General_Setwise_Operations#Bitwisebooleanoperations "General Setwise Operations") perform the intrinsic setwise operations <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>, such as [intersection](General_Setwise_Operations#Intersection "General Setwise Operations"), [union](General_Setwise_Operations#Union "General Setwise Operations") and [complement](General_Setwise_Operations#ComplementSet "General Setwise Operations"). [Shifting bitboards](General_Setwise_Operations#ShiftingBitboards "General Setwise Operations") simulates piece movement, while finally [arithmetical operations](General_Setwise_Operations#ArithmeticalOperations "General Setwise Operations") are used in [bit-twiddling](Bit-Twiddling "Bit-Twiddling") applications and to calculate various hash-indicies.
 
-[Operators](https://en.wikipedia.org/wiki/Operator_%28mathematics%29) are denoted with focus on the [C](C "C"), [C++](Cpp "Cpp"), [Java](Java "Java") and [Pascal](Pascal "Pascal") programming languages, as well as the [mnemonics](https://en.wikipedia.org/wiki/Mnemonic#Assembly_mnemonics) of [x86](X86 "X86") or [x86-64](X86-64 "X86-64") [Assembly](Assembly "Assembly") language instructions including [bit-manipulation](Bit-Twiddling#BitManipulation "Bit-Twiddling") ([BMI1](BMI1 "BMI1"), [BMI2](BMI2 "BMI2"), [TBM](TBM "TBM")) and [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") expansions ([MMX](MMX "MMX"), [SSE2](SSE2 "SSE2"), [AVX](AVX "AVX"), [AVX2](AVX2 "AVX2"), [AVX-512](AVX-512 "AVX-512"), [XOP](XOP "XOP")), [Mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols), some [Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) [[4]](#cite_note-4), [Truth tables](https://en.wikipedia.org/wiki/Truth_table), and bitboard diagrams where appropriate.
+[Operators](https://en.wikipedia.org/wiki/Operator_%28mathematics%29) are denoted with focus on the [C](C "C"), [C++](Cpp "Cpp"), [Java](Java "Java") and [Pascal](Pascal "Pascal") programming languages, as well as the [mnemonics](https://en.wikipedia.org/wiki/Mnemonic#Assembly_mnemonics) of [x86](X86 "X86") or [x86-64](X86-64 "X86-64") [Assembly](Assembly "Assembly") language instructions including [bit-manipulation](Bit-Twiddling#BitManipulation "Bit-Twiddling") ([BMI1](BMI1 "BMI1"), [BMI2](BMI2 "BMI2"), [TBM](TBM "TBM")) and [SIMD](SIMD_and_SWAR_Techniques "SIMD and SWAR Techniques") expansions ([MMX](MMX "MMX"), [SSE2](SSE2 "SSE2"), [AVX](AVX "AVX"), [AVX2](AVX2 "AVX2"), [AVX-512](AVX-512 "AVX-512"), [XOP](XOP "XOP")), [Mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols), some [Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) <a id="cite-note-4" href="#cite-ref-4">[4]</a>, [Truth tables](https://en.wikipedia.org/wiki/Truth_table), and bitboard diagrams where appropriate.
 
 ## Relational
 
-[Relational operators](https://en.wikipedia.org/wiki/Relational_operator) on bitboards are the test for [equality](https://en.wikipedia.org/wiki/Relational_operator#Equality) whether they are the same or not. Greater or less in the arithmetical sense is usually not relevant with bitboards [[5]](#cite_note-5) - instead we often compare [bit](Bit "Bit") for bit of two bitboards by certain [bitwise boolean operations](General_Setwise_Operations#Bitwisebooleanoperations "General Setwise Operations") to retrieve bitwise greater, less or equal results.
+[Relational operators](https://en.wikipedia.org/wiki/Relational_operator) on bitboards are the test for [equality](https://en.wikipedia.org/wiki/Relational_operator#Equality) whether they are the same or not. Greater or less in the arithmetical sense is usually not relevant with bitboards <a id="cite-note-5" href="#cite-ref-5">[5]</a> - instead we often compare [bit](Bit "Bit") for bit of two bitboards by certain [bitwise boolean operations](General_Setwise_Operations#Bitwisebooleanoperations "General Setwise Operations") to retrieve bitwise greater, less or equal results.
 
 ## Equality
 
@@ -107,7 +107,7 @@ if (a + 1 == 0)    -> universal set
 
 ## Bitwise Boolean
 
-[Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) is an algebraic structure [[6]](#cite_note-6) [[7]](#cite_note-7) that captures essential properties of both [set operations](https://en.wikipedia.org/wiki/Set_theory#Basic_concepts) and [logical operations](https://en.wikipedia.org/wiki/Logical_connective). The properties of [associativity](https://en.wikipedia.org/wiki/Associativity), [commutativity](https://en.wikipedia.org/wiki/Commutativity), and [absorption](https://en.wikipedia.org/wiki/Absorption_laws), which define an [ordered lattice](https://en.wikipedia.org/wiki/Lattice_%28order%29), in conjunction with [distributive](https://en.wikipedia.org/wiki/Distributivity) and [complement laws](https://en.wikipedia.org/wiki/Complement_%28set_theory%29) define the [Algebra of sets](https://en.wikipedia.org/wiki/Algebra_of_sets) is in fact a [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra_%28structure%29).
+[Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) is an algebraic structure <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> that captures essential properties of both [set operations](https://en.wikipedia.org/wiki/Set_theory#Basic_concepts) and [logical operations](https://en.wikipedia.org/wiki/Logical_connective). The properties of [associativity](https://en.wikipedia.org/wiki/Associativity), [commutativity](https://en.wikipedia.org/wiki/Commutativity), and [absorption](https://en.wikipedia.org/wiki/Absorption_laws), which define an [ordered lattice](https://en.wikipedia.org/wiki/Lattice_%28order%29), in conjunction with [distributive](https://en.wikipedia.org/wiki/Distributivity) and [complement laws](https://en.wikipedia.org/wiki/Complement_%28set_theory%29) define the [Algebra of sets](https://en.wikipedia.org/wiki/Algebra_of_sets) is in fact a [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra_%28structure%29).
 
 Specifically, Boolean algebra deals with the set operations of [intersection](https://en.wikipedia.org/wiki/Intersection_%28set_theory%29), [union](https://en.wikipedia.org/wiki/Union_%28set_theory%29) and [complement](https://en.wikipedia.org/wiki/Complement_%28set_theory%29), their equivalents of [conjunction](https://en.wikipedia.org/wiki/Logical_conjunction), [disjunction](https://en.wikipedia.org/wiki/Logical_disjunction) and [negation](https://en.wikipedia.org/wiki/Negation) and their bitwise boolean operations of [AND](https://en.wikipedia.org/wiki/Bitwise_operation#AND), [OR](https://en.wikipedia.org/wiki/Bitwise_operation#OR) and [NOT](https://en.wikipedia.org/wiki/Bitwise_operation#NOT) to implement [combinatorial logic](Combinatorial_Logic "Combinatorial Logic") in [software](Software "Software"). Bitwise boolean operations on 64-bit words are in fact 64 parallel operations on each [bit](Bit "Bit") performing one setwise operation without any "side-effects". Square mapping don't cares as long all sets use the same.
 
@@ -471,7 +471,7 @@ a  & ~a ==  0
 
 **De Morgan's laws**
 
-- Complement of [union](General_Setwise_Operations#Union "General Setwise Operations") ([NOR](https://en.wikipedia.org/wiki/NOR_gate) ) is the [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") of the complements [[8]](#cite_note-8).
+- Complement of [union](General_Setwise_Operations#Union "General Setwise Operations") ([NOR](https://en.wikipedia.org/wiki/NOR_gate) ) is the [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") of the complements <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 - Complement of [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") ([NAND](https://en.wikipedia.org/wiki/NAND_logic) or [Sheffer stroke](https://en.wikipedia.org/wiki/Sheffer_stroke) ) is the [union](General_Setwise_Operations#Union "General Setwise Operations") of the complements.
 
 ```C++
@@ -916,7 +916,7 @@ This takes one instruction less, than the [union](General_Setwise_Operations#Uni
 - [o^(o-2r)](Subtracting_a_Rook_from_a_Blocking_Piece "Subtracting a Rook from a Blocking Piece").
 - [Robert Hyatt's](Robert_Hyatt "Robert Hyatt") approach of a [lockless transposition table](Shared_Hash_Table#Lockless "Shared Hash Table")
 - [Swapping Bits](General_Setwise_Operations#SwappingBits "General Setwise Operations").
-- [The XOR affair](https://en.wikipedia.org/wiki/Perceptrons_%28book%29#The_XOR_affair) from [Perceptrons](https://en.wikipedia.org/wiki/Perceptrons_%28book%29) by [Marvin Minsky](Marvin_Minsky "Marvin Minsky") and [Seymour Papert](Mathematician#SPapert "Mathematician") [[9]](#cite_note-9)
+- [The XOR affair](https://en.wikipedia.org/wiki/Perceptrons_%28book%29#The_XOR_affair) from [Perceptrons](https://en.wikipedia.org/wiki/Perceptrons_%28book%29) by [Marvin Minsky](Marvin_Minsky "Marvin Minsky") and [Seymour Papert](Mathematician#SPapert "Mathematician") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ## Equivalence
 
@@ -1155,7 +1155,7 @@ In the 8\*8 board centric world with one scalar square-coordinate 0..63, each of
 In the setwise world of bitboards, where a square as member of a set is determined by an appropriate one-bit 2^square, the operation to apply such movements is [shifting](https://en.wikipedia.org/wiki/Bitwise_operation#Bit_shifts) . Unfortunately most architectures don't support a "generalized" shift by signed values but only shift left or shift right. That makes bitboard code less general as one has usually separate code for each direction or at least for the positive and negative directions.
 
 - Shift left (\<\<) is arithmetically a multiplication by power of two.
-- Shift right (>> or >>> in [Java](Java "Java") [[10]](#cite_note-10)) is arithmetically a division by power of two.
+- Shift right (>> or >>> in [Java](Java "Java") <a id="cite-note-10" href="#cite-ref-10">[10]</a>) is arithmetically a division by power of two.
 
 Since the square-index is encoded as power of two exponent inside a bitboard, the power of two multiplication or division is adding or subtracting the square-index.
 
@@ -1440,7 +1440,7 @@ U64 singleBitset = C64(1) << square; // or lookup[square]
 
 **Shift versus Lookup**
 
-While 1 \<\< square sounds cheap, it is rather expensive in 32-bit mode - and therefor often precalculated in a small lookup-table of 64-single bit bitboards. Also, on [x86-64](X86-64 "X86-64")-processors a variable shift is restricted to the byte-register cl. Thus, two or more variable shifts are constrained by sequential execution [[11]](#cite_note-11).
+While 1 \<\< square sounds cheap, it is rather expensive in 32-bit mode - and therefor often precalculated in a small lookup-table of 64-single bit bitboards. Also, on [x86-64](X86-64 "X86-64")-processors a variable shift is restricted to the byte-register cl. Thus, two or more variable shifts are constrained by sequential execution <a id="cite-note-11" href="#cite-ref-11">[11]</a>.
 
 **Test**
 
@@ -1503,7 +1503,7 @@ If singleBitset needs to preserved, an extra register is needed for the compleme
 
 **x86-Instructions**
 
-[x86](X86 "X86") processor provides a bit-test instruction family (bt, bts, btr, btc) with 32- and 64-bit operands. They may be used implicitly by compiler optimization or explicitly by inline assembler or compiler intrinsics. Take care that they are applied on local variables likely registers rather than memory references [[12]](#cite_note-12):
+[x86](X86 "X86") processor provides a bit-test instruction family (bt, bts, btr, btc) with 32- and 64-bit operands. They may be used implicitly by compiler optimization or explicitly by inline assembler or compiler intrinsics. Take care that they are applied on local variables likely registers rather than memory references <a id="cite-note-12" href="#cite-ref-12">[12]</a>:
 
 - [\_bittest64](X86-64#gpinstructions "X86-64")
 - [\_bittestandset64](X86-64#gpinstructions "X86-64")
@@ -1698,7 +1698,7 @@ To apply the swapping of the swapNBits sample above, we call deltaSwap with delt
 
 ```
 
-Applications of delta swaps are [flipping, mirroring and rotating](Flipping_Mirroring_and_Rotating "Flipping Mirroring and Rotating"). In [Knuth's](Donald_Knuth "Donald Knuth") *[The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), Vol 4, page 13, bit permutation in general* [[13]](#cite_note-13), he mentions 2^k delta swaps with k = {0,1,2,3,4,5,4,3,2,1,0} to obtain any arbitrary permutation. Special cases might be cheaper.
+Applications of delta swaps are [flipping, mirroring and rotating](Flipping_Mirroring_and_Rotating "Flipping Mirroring and Rotating"). In [Knuth's](Donald_Knuth "Donald Knuth") *[The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), Vol 4, page 13, bit permutation in general* <a id="cite-note-13" href="#cite-ref-13">[13]</a>, he mentions 2^k delta swaps with k = {0,1,2,3,4,5,4,3,2,1,0} to obtain any arbitrary permutation. Special cases might be cheaper.
 
 ## Arithmetic Operations
 
@@ -1954,7 +1954,7 @@ blsic rax, rbx ; TBM:  rax = ~rbx | (rbx - 1);
 
 ### Reset
 
-The [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") of a none empty bitboard with it's ones' decrement resets the LS1B [[14]](#cite_note-14):
+The [intersection](General_Setwise_Operations#Intersection "General Setwise Operations") of a none empty bitboard with it's ones' decrement resets the LS1B <a id="cite-note-14" href="#cite-ref-14">[14]</a>:
 
 ```C++
 
@@ -2236,7 +2236,7 @@ See [generalized flipping, mirroring and reversion](Flipping_Mirroring_and_Rotat
 
 ## Modulo
 
-[Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic) with 64-bit [modulo](https://en.wikipedia.org/wiki/Modulo_operation) by a constant, has applications in [Cryptography](https://en.wikipedia.org/wiki/Cryptography) [[15]](#cite_note-15), [Hashing](Hash_Table "Hash Table"), and with Bitboards in [Bit Scanning](BitScan#BitscanByModulo "BitScan"), [Population Count](Population_Count#Castingout "Population Count") and [Congruent Modulo Bitboards](Congruent_Modulo_Bitboards "Congruent Modulo Bitboards") for [Sliding Piece Attacks](Sliding_Piece_Attacks "Sliding Piece Attacks").
+[Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic) with 64-bit [modulo](https://en.wikipedia.org/wiki/Modulo_operation) by a constant, has applications in [Cryptography](https://en.wikipedia.org/wiki/Cryptography) <a id="cite-note-15" href="#cite-ref-15">[15]</a>, [Hashing](Hash_Table "Hash Table"), and with Bitboards in [Bit Scanning](BitScan#BitscanByModulo "BitScan"), [Population Count](Population_Count#Castingout "Population Count") and [Congruent Modulo Bitboards](Congruent_Modulo_Bitboards "Congruent Modulo Bitboards") for [Sliding Piece Attacks](Sliding_Piece_Attacks "Sliding Piece Attacks").
 
 ### Casting out 255
 
@@ -2411,21 +2411,21 @@ a % 2n == a & (2n - 1)
 
 ## References
 
-1. [↑](#cite_ref-1) [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - Upward, 1929, [Peggy Guggenheim Collection](https://en.wikipedia.org/wiki/Peggy_Guggenheim_Collection), [Wikimedia COmmons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. [↑](#cite_ref-2) [Andrey Ershov](Mathematician#Ershov "Mathematician"), [Mikhail R. Shura-Bura](Mikhail_R._Shura-Bura "Mikhail R. Shura-Bura") (**1980**). *[The Early Development of Programming in the USSR](http://ershov.iis.nsk.su/archive/eaindex.asp?lang=2&gid=910)*. in [Nicholas C. Metropolis](https://en.wikipedia.org/wiki/Nicholas_C._Metropolis) (ed.) *[A History of Computing in the Twentieth Century](http://dl.acm.org/citation.cfm?id=578384)*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), [preprint pp. 43](http://ershov.iis.nsk.su/archive/eaimage.asp?did=28792&fileid=173670)
-1. [↑](#cite_ref-3) [Lazar A. Lyusternik](https://en.wikipedia.org/wiki/Lazar_Lyusternik), [Aleksandr A. Abramov](http://www.mathnet.ru/php/person.phtml?personid=30351&option_lang=eng), [Victor I. Shestakov](https://en.wikipedia.org/wiki/Victor_Shestakov), [Mikhail R. Shura-Bura](Mikhail_R._Shura-Bura "Mikhail R. Shura-Bura") (**1952**). *Programming for High-Speed Electronic Computers*. (Программирование для электронных счетных машин)
-1. [↑](#cite_ref-4) [John Venn](Mathematician#Venn "Mathematician") (**1880**). *[On the Diagrammatic and Mechanical Representation of Propositions and Reasonings](http://www.tandfonline.com/doi/abs/10.1080/14786448008626877#.U3kRnHYfwgI)*. [Philosophical Magazine](https://en.wikipedia.org/wiki/Philosophical_Magazine), Vol. 9, No. 59
-1. [↑](#cite_ref-5) Greater or less in the arithmetical sense is usually not relevant with bitboards, but see greater condition in [Thor's Hammer's move generation](Thor%27s_Hammer#MoveGeneration "Thor's Hammer")
-1. [↑](#cite_ref-6) [George Boole](Mathematician#Boole "Mathematician") (**1847**). *[The Mathematical Analysis of Logic, Being an Essay towards a Calculus of Deductive Reasoning](https://archive.org/stream/mathematicalanal00booluoft/mathematicalanal00booluoft_djvu.txt)*. Macmillan, Barclay & Macmillan
-1. [↑](#cite_ref-7) [Charles S. Peirce](Mathematician#CSPeirce "Mathematician") (**1880**). *[On the Algebra of Logic](https://archive.org/details/jstor-2369442)*. [American Journal of Mathematics](https://en.wikipedia.org/wiki/American_Journal_of_Mathematics), Vol. 3
-1. [↑](#cite_ref-8) [Augustus De Morgan](Mathematician#ADeMorgan "Mathematician") (**1860**). *[Syllabus of a Proposed System of Logic](http://books.google.com/books?id=Od3jgF5rZtgC)*. Walton & Malbery
-1. [↑](#cite_ref-9) [Marvin Minsky](Marvin_Minsky "Marvin Minsky"), [Seymour Papert](Mathematician#SPapert "Mathematician") (1969, **1972**). *[Perceptrons: An Introduction to Computational Geometry](https://en.wikipedia.org/wiki/Perceptrons_%28book%29)*. [The MIT Press](https://en.wikipedia.org/wiki/MIT_Press), ISBN 0-262-63022-2
-1. [↑](#cite_ref-10) [Re: Java chess program?](https://groups.google.com/d/msg/rec.games.chess.computer/o3AMPvhmY3o/1yZhMk3_VlIJ) by [Moritz Berger](Moritz_Berger "Moritz Berger"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 29, 1997 » [Shifting Bitboards](General_Setwise_Operations#ShiftingBitboards "General Setwise Operations"), [Java](Java "Java")
-1. [↑](#cite_ref-11) [To shift or not to shift](http://www.open-chess.org/viewtopic.php?f=5&t=2878) by thevinenator, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), September 09, 2015
-1. [↑](#cite_ref-12) [On the speed of SquareBB array](https://groups.google.com/forum/#!topic/fishcooking/TplkvO62I9U) by protonspring, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), March 22, 2019
-1. [↑](#cite_ref-13) [Donald Knuth](Donald_Knuth "Donald Knuth") (**2009**). *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, as [Pre-Fascicle 1a postscript](http://www-cs-faculty.stanford.edu/%7Eknuth/fasc1a.ps.gz)
-1. [↑](#cite_ref-14)  [Peter Wegner](Mathematician#PWegner "Mathematician") (**1960**). *A technique for counting ones in a binary computer*. [Communications of the ACM](https://en.wikipedia.org/wiki/Communications_of_the_ACM), [Volume 3, 1960](http://www.informatik.uni-trier.de/~ley/db/journals/cacm/cacm3.html#Wegner60)
-1. [↑](#cite_ref-15) [Modular exponentiation from Wikipedia](https://en.wikipedia.org/wiki/Modular_exponentiation)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - Upward, 1929, [Peggy Guggenheim Collection](https://en.wikipedia.org/wiki/Peggy_Guggenheim_Collection), [Wikimedia COmmons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Andrey Ershov](Mathematician#Ershov "Mathematician"), [Mikhail R. Shura-Bura](Mikhail_R._Shura-Bura "Mikhail R. Shura-Bura") (**1980**). *[The Early Development of Programming in the USSR](http://ershov.iis.nsk.su/archive/eaindex.asp?lang=2&gid=910)*. in [Nicholas C. Metropolis](https://en.wikipedia.org/wiki/Nicholas_C._Metropolis) (ed.) *[A History of Computing in the Twentieth Century](http://dl.acm.org/citation.cfm?id=578384)*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), [preprint pp. 43](http://ershov.iis.nsk.su/archive/eaimage.asp?did=28792&fileid=173670)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lazar A. Lyusternik](https://en.wikipedia.org/wiki/Lazar_Lyusternik), [Aleksandr A. Abramov](http://www.mathnet.ru/php/person.phtml?personid=30351&option_lang=eng), [Victor I. Shestakov](https://en.wikipedia.org/wiki/Victor_Shestakov), [Mikhail R. Shura-Bura](Mikhail_R._Shura-Bura "Mikhail R. Shura-Bura") (**1952**). *Programming for High-Speed Electronic Computers*. (Программирование для электронных счетных машин)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [John Venn](Mathematician#Venn "Mathematician") (**1880**). *[On the Diagrammatic and Mechanical Representation of Propositions and Reasonings](http://www.tandfonline.com/doi/abs/10.1080/14786448008626877#.U3kRnHYfwgI)*. [Philosophical Magazine](https://en.wikipedia.org/wiki/Philosophical_Magazine), Vol. 9, No. 59
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> Greater or less in the arithmetical sense is usually not relevant with bitboards, but see greater condition in [Thor's Hammer's move generation](Thor%27s_Hammer#MoveGeneration "Thor's Hammer")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [George Boole](Mathematician#Boole "Mathematician") (**1847**). *[The Mathematical Analysis of Logic, Being an Essay towards a Calculus of Deductive Reasoning](https://archive.org/stream/mathematicalanal00booluoft/mathematicalanal00booluoft_djvu.txt)*. Macmillan, Barclay & Macmillan
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Charles S. Peirce](Mathematician#CSPeirce "Mathematician") (**1880**). *[On the Algebra of Logic](https://archive.org/details/jstor-2369442)*. [American Journal of Mathematics](https://en.wikipedia.org/wiki/American_Journal_of_Mathematics), Vol. 3
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Augustus De Morgan](Mathematician#ADeMorgan "Mathematician") (**1860**). *[Syllabus of a Proposed System of Logic](http://books.google.com/books?id=Od3jgF5rZtgC)*. Walton & Malbery
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Marvin Minsky](Marvin_Minsky "Marvin Minsky"), [Seymour Papert](Mathematician#SPapert "Mathematician") (1969, **1972**). *[Perceptrons: An Introduction to Computational Geometry](https://en.wikipedia.org/wiki/Perceptrons_%28book%29)*. [The MIT Press](https://en.wikipedia.org/wiki/MIT_Press), ISBN 0-262-63022-2
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: Java chess program?](https://groups.google.com/d/msg/rec.games.chess.computer/o3AMPvhmY3o/1yZhMk3_VlIJ) by [Moritz Berger](Moritz_Berger "Moritz Berger"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 29, 1997 » [Shifting Bitboards](General_Setwise_Operations#ShiftingBitboards "General Setwise Operations"), [Java](Java "Java")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [To shift or not to shift](http://www.open-chess.org/viewtopic.php?f=5&t=2878) by thevinenator, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), September 09, 2015
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [On the speed of SquareBB array](https://groups.google.com/forum/#!topic/fishcooking/TplkvO62I9U) by protonspring, [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), March 22, 2019
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Donald Knuth](Donald_Knuth "Donald Knuth") (**2009**). *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, as [Pre-Fascicle 1a postscript](http://www-cs-faculty.stanford.edu/%7Eknuth/fasc1a.ps.gz)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a>  [Peter Wegner](Mathematician#PWegner "Mathematician") (**1960**). *A technique for counting ones in a binary computer*. [Communications of the ACM](https://en.wikipedia.org/wiki/Communications_of_the_ACM), [Volume 3, 1960](http://www.informatik.uni-trier.de/~ley/db/journals/cacm/cacm3.html#Wegner60)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Modular exponentiation from Wikipedia](https://en.wikipedia.org/wiki/Modular_exponentiation)
 
 **[Up one Level](Bitboards "Bitboards")**
 

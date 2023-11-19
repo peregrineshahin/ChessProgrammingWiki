@@ -136,19 +136,19 @@ Other purposes:
 ## History
 
 
-Supposably, perft was first implemented within the [Cobol](index.php?title=Cobol&action=edit&redlink=1 "Cobol (page does not exist)") program [RSCE-1](index.php?title=RSCE-1&action=edit&redlink=1 "RSCE-1 (page does not exist)") by [R.C. Smith](Rolf_C._Smith#RCSmith "Rolf C. Smith"), submitted to the [USCF](https://en.wikipedia.org/wiki/United_States_Chess_Federation) for evaluation, and subject of an [1978](Timeline#1978 "Timeline") [Computerworld](Computerworld "Computerworld") article [[1]](#cite_note-1) . RSCE-1's purpose was not to play chess games, but position analysis, to find forced [mates](Checkmate "Checkmate"), and to perform a move path enumeration of up to three [plies](Ply "Ply"), with the [perft(3) result](Perft_Results "Perft Results") of 8,902 from the [initial position](Initial_Position "Initial Position") already mentioned [[2]](#cite_note-2). [Ken Thompson](Ken_Thompson "Ken Thompson") may have calculated perft(3) and perft(4) earlier than this date with [Belle](Belle "Belle"). [Steven Edwards](Steven_Edwards "Steven Edwards") suggested the move path enumeration in 1995 as implemented in [Spector](Spector "Spector") [[3]](#cite_note-3) and has since been actively involved in Perft computations, while the term "Perft" was likely coined by a [Crafty](Crafty "Crafty") command, despite its initial implementation was not conform to the above definition [[4]](#cite_note-4).
+Supposably, perft was first implemented within the [Cobol](index.php?title=Cobol&action=edit&redlink=1 "Cobol (page does not exist)") program [RSCE-1](index.php?title=RSCE-1&action=edit&redlink=1 "RSCE-1 (page does not exist)") by [R.C. Smith](Rolf_C._Smith#RCSmith "Rolf C. Smith"), submitted to the [USCF](https://en.wikipedia.org/wiki/United_States_Chess_Federation) for evaluation, and subject of an [1978](Timeline#1978 "Timeline") [Computerworld](Computerworld "Computerworld") article <a id="cite-note-1" href="#cite-ref-1">[1]</a> . RSCE-1's purpose was not to play chess games, but position analysis, to find forced [mates](Checkmate "Checkmate"), and to perform a move path enumeration of up to three [plies](Ply "Ply"), with the [perft(3) result](Perft_Results "Perft Results") of 8,902 from the [initial position](Initial_Position "Initial Position") already mentioned <a id="cite-note-2" href="#cite-ref-2">[2]</a>. [Ken Thompson](Ken_Thompson "Ken Thompson") may have calculated perft(3) and perft(4) earlier than this date with [Belle](Belle "Belle"). [Steven Edwards](Steven_Edwards "Steven Edwards") suggested the move path enumeration in 1995 as implemented in [Spector](Spector "Spector") <a id="cite-note-3" href="#cite-ref-3">[3]</a> and has since been actively involved in Perft computations, while the term "Perft" was likely coined by a [Crafty](Crafty "Crafty") command, despite its initial implementation was not conform to the above definition <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
 
-In **December 2003**, [Albert Bertilsson](Albert_Bertilsson "Albert Bertilsson") started a distributed project [[5]](#cite_note-5) to calculate perft(11) of the [initial position](Initial_Position "Initial Position"), taking over a week to calculate [[6]](#cite_note-6) . Exact Perft numbers have been computed and verified up to a depth of 13 by Edwards and are now available in the [On-Line Encyclopedia of Integer Sequences](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences) [[7]](#cite_note-7) , and are given under [Initial Position Summary](Initial_Position_Summary "Initial Position Summary"). A so far unverified claim for perft(**14**) of 61,885,021,521,585,529,237 was given by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund") in **April 2013** [[8]](#cite_note-8), while [Daniel Shawul](Daniel_Shawul "Daniel Shawul") proposed Perft estimation applying [Monte carlo methods](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") [[9]](#cite_note-9) [[10]](#cite_note-10). 
+In **December 2003**, [Albert Bertilsson](Albert_Bertilsson "Albert Bertilsson") started a distributed project <a id="cite-note-5" href="#cite-ref-5">[5]</a> to calculate perft(11) of the [initial position](Initial_Position "Initial Position"), taking over a week to calculate <a id="cite-note-6" href="#cite-ref-6">[6]</a> . Exact Perft numbers have been computed and verified up to a depth of 13 by Edwards and are now available in the [On-Line Encyclopedia of Integer Sequences](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences) <a id="cite-note-7" href="#cite-ref-7">[7]</a> , and are given under [Initial Position Summary](Initial_Position_Summary "Initial Position Summary"). A so far unverified claim for perft(**14**) of 61,885,021,521,585,529,237 was given by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund") in **April 2013** <a id="cite-note-8" href="#cite-ref-8">[8]</a>, while [Daniel Shawul](Daniel_Shawul "Daniel Shawul") proposed Perft estimation applying [Monte carlo methods](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>. 
 
-In **August 2017**, [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), who already confirmed Peter Österlund's perft(**14**) in September 2016 [[11]](#cite_note-11), computed perft(**15**) of 2,015,099,950,053,364,471,960 with his [GPU](GPU "GPU") perft program [[12]](#cite_note-12), running it several days two times with different [zobrist keys](Zobrist_Hashing "Zobrist Hashing") on a cluster of [Nvidia DGX-1](https://en.wikipedia.org/wiki/Nvidia_DGX-1) server systems [[13]](#cite_note-13). His program starts exploring the tree in [depth first](Depth-First "Depth-First") manner on CPU. When a certain depth is reached a GPU function (kernel) is launched to compute perft of the subtree in [breadth first](Best-First "Best-First") manner [[14]](#cite_note-14). Ankan Banerjee dedicated his computations in honor to [Steven Edwards](Steven_Edwards "Steven Edwards") - whose tireless efforts for verifying perft(14) encouraged him to verify perft(14) and take up the challenge to compute perft(15) [[15]](#cite_note-15).
+In **August 2017**, [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), who already confirmed Peter Österlund's perft(**14**) in September 2016 <a id="cite-note-11" href="#cite-ref-11">[11]</a>, computed perft(**15**) of 2,015,099,950,053,364,471,960 with his [GPU](GPU "GPU") perft program <a id="cite-note-12" href="#cite-ref-12">[12]</a>, running it several days two times with different [zobrist keys](Zobrist_Hashing "Zobrist Hashing") on a cluster of [Nvidia DGX-1](https://en.wikipedia.org/wiki/Nvidia_DGX-1) server systems <a id="cite-note-13" href="#cite-ref-13">[13]</a>. His program starts exploring the tree in [depth first](Depth-First "Depth-First") manner on CPU. When a certain depth is reached a GPU function (kernel) is launched to compute perft of the subtree in [breadth first](Best-First "Best-First") manner <a id="cite-note-14" href="#cite-ref-14">[14]</a>. Ankan Banerjee dedicated his computations in honor to [Steven Edwards](Steven_Edwards "Steven Edwards") - whose tireless efforts for verifying perft(14) encouraged him to verify perft(14) and take up the challenge to compute perft(15) <a id="cite-note-15" href="#cite-ref-15">[15]</a>.
 
 
 
 ## Quotes
 
 
-by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") in a forum post, June 12, 2020 [[16]](#cite_note-16) :
+by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") in a forum post, June 12, 2020 <a id="cite-note-16" href="#cite-ref-16">[16]</a> :
 
 
 
@@ -172,7 +172,7 @@ Speed here is not so important. I doubt anyone's move generator takes more than 
 
 
 * [Aart Bik](Aart_Bik "Aart Bik") (**2012**). *Computing Deep Perft and Divide Numbers for Checkers*. [ICGA Journal, Vol. 35, No. 4](ICGA_Journal#35_4 "ICGA Journal") » [Checkers](Checkers "Checkers")
-* [Daniel S. Abdi](Daniel_Shawul "Daniel Shawul") (**2013**). *Monte carlo methods for estimating game tree size*. [[17]](#cite_note-17) » [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search")
+* [Daniel S. Abdi](Daniel_Shawul "Daniel Shawul") (**2013**). *Monte carlo methods for estimating game tree size*. <a id="cite-note-17" href="#cite-ref-17">[17]</a> » [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search")
 
 
 ## Forum Posts
@@ -232,7 +232,7 @@ Speed here is not so important. I doubt anyone's move generator takes more than 
 * [Perft(12) count confirmed](http://www.talkchess.com/forum/viewtopic.php?t=38862) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), April 25, 2011
 * [Perft(13) betting pool](http://www.talkchess.com/forum/viewtopic.php?t=39678) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), July 10, 2011
 * [Fastest perft](http://www.talkchess.com/forum/viewtopic.php?t=40108) by ethan ara, [CCC](CCC "CCC"), August 19, 2011
-* [Perft(3) from 1978, with a twist!](http://www.talkchess.com/forum/viewtopic.php?t=41373) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), December 08, 2011 [[18]](#cite_note-18)
+* [Perft(3) from 1978, with a twist!](http://www.talkchess.com/forum/viewtopic.php?t=41373) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), December 08, 2011 <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 
 **2012**
@@ -261,7 +261,7 @@ Speed here is not so important. I doubt anyone's move generator takes more than 
  [Re: MC methods](http://www.talkchess.com/forum/viewtopic.php?t=47740&topic_view=flat&start=11) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 13, 2013
 * [Is Perft Speed Important?](http://www.chessprogramming.net/computerchess/is-perft-speed-important/) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [Computer Chess Programming](http://www.chessprogramming.net/), April 19, 2013
 * [Perft search speed bottleneck](http://www.talkchess.com/forum/viewtopic.php?t=48217) by Jim Jarvis, [CCC](CCC "CCC"), June 07, 2013
-* [Fast perft on GPU (upto 20 Billion nps w/o hashing)](http://www.talkchess.com/forum/viewtopic.php?t=48387) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), June 22, 2013 » [GPU](GPU "GPU"), [Kogge-Stone Algorithm](Kogge-Stone_Algorithm "Kogge-Stone Algorithm") [[19]](#cite_note-19)
+* [Fast perft on GPU (upto 20 Billion nps w/o hashing)](http://www.talkchess.com/forum/viewtopic.php?t=48387) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), June 22, 2013 » [GPU](GPU "GPU"), [Kogge-Stone Algorithm](Kogge-Stone_Algorithm "Kogge-Stone Algorithm") <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 * [A perft() benchmark](http://www.talkchess.com/forum/viewtopic.php?t=48423) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), June 26, 2013
 * [gperft](http://www.talkchess.com/forum/viewtopic.php?t=48491) by [Paul Byrne](index.php?title=Paul_Byrne&action=edit&redlink=1 "Paul Byrne (page does not exist)"), [CCC](CCC "CCC"), July 01, 2013
 * [perft/divide bug in roce38 and Sharper? [SOLVED](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=52965)] by thedrunkard, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 16, 2013 » [ROCE](ROCE "ROCE"), [Sharper](Sharper "Sharper")
@@ -294,7 +294,7 @@ Speed here is not so important. I doubt anyone's move generator takes more than 
 * [100 easy perft(7) test positions](http://www.talkchess.com/forum/viewtopic.php?t=56998) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), July 17, 2015
 * [Perft using nullmove](http://www.talkchess.com/forum/viewtopic.php?t=57417) by [Lasse Hansen](Lasse_Hansen "Lasse Hansen"), [CCC](CCC "CCC"), August 29, 2015
 * [Perft and hash with legal move generator](http://www.open-chess.org/viewtopic.php?f=5&t=2913) by [Peterpan](index.php?title=Izak_Pretorius&action=edit&redlink=1 "Izak Pretorius (page does not exist)"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), November 12, 2015 » [Transposition Table](Transposition_Table "Transposition Table")
-* [Auriga - distributed and collaborative Perft](http://www.talkchess.com/forum/viewtopic.php?t=58406) by [Giuseppe Cannella](Giuseppe_Cannella "Giuseppe Cannella"), [CCC](CCC "CCC"), November 28, 2015 [[20]](#cite_note-20)
+* [Auriga - distributed and collaborative Perft](http://www.talkchess.com/forum/viewtopic.php?t=58406) by [Giuseppe Cannella](Giuseppe_Cannella "Giuseppe Cannella"), [CCC](CCC "CCC"), November 28, 2015 <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 * [Perft(14) Weekly Status Reports for 2016](http://www.talkchess.com/forum/viewtopic.php?t=58726) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), December 29, 2015
 
 
@@ -374,8 +374,8 @@ Speed here is not so important. I doubt anyone's move generator takes more than 
 
 
 * [µ-Max Dowload Page - qperft](https://home.hccnet.nl/h.g.muller/dwnldpage.html) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") » [Micro-Max](Micro-Max "Micro-Max")
-* [ankan-ban/perft\_gpu · GitHub](https://github.com/ankan-ban/perft_gpu) [[21]](#cite_note-21)
-* [Auriga](http://cinnamonchess.altervista.org/auriga) by [Giuseppe Cannella](Giuseppe_Cannella "Giuseppe Cannella") [[22]](#cite_note-22)
+* [ankan-ban/perft\_gpu · GitHub](https://github.com/ankan-ban/perft_gpu) <a id="cite-note-21" href="#cite-ref-21">[21]</a>
+* [Auriga](http://cinnamonchess.altervista.org/auriga) by [Giuseppe Cannella](Giuseppe_Cannella "Giuseppe Cannella") <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 * [BBPerft: A fast, bitboard based chess perft result generator](https://github.com/Mk-Chan/BBPerft) by [Manik Charan](Manik_Charan "Manik Charan") derived from [WyldChess](WyldChess "WyldChess")
 * [Chess Engine OliThink - New Move Generator OliPerft (Pre OliThink 5)](http://brausch.org/home/chess/index.html) by [Oliver Brausch](Oliver_Brausch "Oliver Brausch") » [OliThink](OliThink "OliThink")
 * [Crafty Command Documentation](http://www.craftychess.com/documentation/craftydoc.html) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), see perft » [Crafty](Crafty "Crafty")
@@ -403,28 +403,28 @@ Speed here is not so important. I doubt anyone's move generator takes more than 
 ## References
 
 
-1. [↑](#cite_ref-1) [Written in Cobol - Program Written as Chess Buff's Research Aid](http://news.google.com/newspapers?nid=849&dat=19780417&id=h8lOAAAAIBAJ&sjid=DEoDAAAAIBAJ&pg=6180,1080528) by Brad Schultz, [Computerworld](Computerworld "Computerworld"), April 17, 1978, Page 37
-2. [↑](#cite_ref-2) [Perft(3) from 1978, with a twist!](http://www.talkchess.com/forum/viewtopic.php?t=41373) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), December 08, 2011
-3. [↑](#cite_ref-3) [Re: Speed of Move Generator](https://groups.google.com/d/msg/rec.games.chess.computer/M8V1AzkfOok/YV9lcfOlfgIJ) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 16, 1995
-4. [↑](#cite_ref-4) [Re: complete opening tree stats](https://groups.google.com/d/msg/rec.games.chess.computer/2nqtCdHC-r0/ENqomE2u51kJ) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 05, 1998
-5. [↑](#cite_ref-5) [Distributed perft project](https://www.stmintz.com/ccc/index.php?id=335026) by [Albert Bertilsson](Albert_Bertilsson "Albert Bertilsson"), [CCC](CCC "CCC"), December 09, 2003
-6. [↑](#cite_ref-6) [Distributed Perft Project](https://web.archive.org/web/20061014115710/http://www.albert.nu/programs/dperft/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
-7. [↑](#cite_ref-7) [A048987](http://oeis.org/A048987) from [On-Line Encyclopedia of Integer Sequences](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences) (OEIS)
-8. [↑](#cite_ref-8) [Re: Perft(14) estimates thread](http://talkchess.com/forum/viewtopic.php?topic_view=threads&p=513308&t=47335) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), April 02, 2013
-9. [↑](#cite_ref-9) [MC methods](http://www.talkchess.com/forum/viewtopic.php?t=47740&start=2) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 11, 2013
-10. [↑](#cite_ref-10) [Daniel S. Abdi](Daniel_Shawul "Daniel Shawul") (**2013**). *Monte carlo methods for estimating game tree size*. [pdf](https://dl.dropboxusercontent.com/u/55295461/perft/perft.pdf)
-11. [↑](#cite_ref-11) [Re: yet another attempt on Perft(14)](http://www.talkchess.com/forum/viewtopic.php?t=61119&start=30) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), September 09, 2016
-12. [↑](#cite_ref-12) [ankan-ban/perft\_gpu · GitHub](https://github.com/ankan-ban/perft_gpu)
-13. [↑](#cite_ref-13) [DGX-1 for AI Research | NVIDIA](https://www.nvidia.com/en-us/data-center/dgx-1/)
-14. [↑](#cite_ref-14) [Re: Perft(15): comparison of estimates with Ankan's result](http://www.talkchess.com/forum/viewtopic.php?t=64983&start=9) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), August 26, 2017
-15. [↑](#cite_ref-15) [Re: perft(15)](http://www.talkchess.com/forum/viewtopic.php?t=64983&start=4) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), August 25, 2017
-16. [↑](#cite_ref-16) [Re: Perft speed and depth questions](http://talkchess.com/forum3/viewtopic.php?f=7&t=74153) by [Mark Buisseret](index.php?title=Mark_Buisseret&action=edit&redlink=1 "Mark Buisseret (page does not exist)"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), June 12, 2020
-17. [↑](#cite_ref-17) [Re: MC methods](http://www.talkchess.com/forum/viewtopic.php?t=47740&topic_view=flat&start=11) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 13, 2013
-18. [↑](#cite_ref-18) [Written in Cobol - Program Written as Chess Buff's Research Aid](http://news.google.com/newspapers?nid=849&dat=19780417&id=h8lOAAAAIBAJ&sjid=DEoDAAAAIBAJ&pg=6180,1080528) by Brad Schultz, [Computerworld](Computerworld "Computerworld"), April 17, 1978, Page 37
-19. [↑](#cite_ref-19) [ankan-ban/perft\_gpu · GitHub](https://github.com/ankan-ban/perft_gpu)
-20. [↑](#cite_ref-20) [Auriga](http://cinnamonchess.altervista.org/auriga) by [Giuseppe Cannella](Giuseppe_Cannella "Giuseppe Cannella")
-21. [↑](#cite_ref-21) [Fast perft on GPU (upto 20 Billion nps w/o hashing)](http://www.talkchess.com/forum/viewtopic.php?t=48387) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), June 22, 2013
-22. [↑](#cite_ref-22) [Auriga - distributed and collaborative Perft](http://www.talkchess.com/forum/viewtopic.php?t=58406) by [Giuseppe Cannella](Giuseppe_Cannella "Giuseppe Cannella"), [CCC](CCC "CCC"), November 28, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Written in Cobol - Program Written as Chess Buff's Research Aid](http://news.google.com/newspapers?nid=849&dat=19780417&id=h8lOAAAAIBAJ&sjid=DEoDAAAAIBAJ&pg=6180,1080528) by Brad Schultz, [Computerworld](Computerworld "Computerworld"), April 17, 1978, Page 37
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Perft(3) from 1978, with a twist!](http://www.talkchess.com/forum/viewtopic.php?t=41373) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), December 08, 2011
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Speed of Move Generator](https://groups.google.com/d/msg/rec.games.chess.computer/M8V1AzkfOok/YV9lcfOlfgIJ) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), August 16, 1995
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: complete opening tree stats](https://groups.google.com/d/msg/rec.games.chess.computer/2nqtCdHC-r0/ENqomE2u51kJ) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 05, 1998
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Distributed perft project](https://www.stmintz.com/ccc/index.php?id=335026) by [Albert Bertilsson](Albert_Bertilsson "Albert Bertilsson"), [CCC](CCC "CCC"), December 09, 2003
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Distributed Perft Project](https://web.archive.org/web/20061014115710/http://www.albert.nu/programs/dperft/) ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [A048987](http://oeis.org/A048987) from [On-Line Encyclopedia of Integer Sequences](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences) (OEIS)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Perft(14) estimates thread](http://talkchess.com/forum/viewtopic.php?topic_view=threads&p=513308&t=47335) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), April 02, 2013
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [MC methods](http://www.talkchess.com/forum/viewtopic.php?t=47740&start=2) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 11, 2013
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Daniel S. Abdi](Daniel_Shawul "Daniel Shawul") (**2013**). *Monte carlo methods for estimating game tree size*. [pdf](https://dl.dropboxusercontent.com/u/55295461/perft/perft.pdf)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: yet another attempt on Perft(14)](http://www.talkchess.com/forum/viewtopic.php?t=61119&start=30) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), September 09, 2016
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [ankan-ban/perft\_gpu · GitHub](https://github.com/ankan-ban/perft_gpu)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [DGX-1 for AI Research | NVIDIA](https://www.nvidia.com/en-us/data-center/dgx-1/)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Re: Perft(15): comparison of estimates with Ankan's result](http://www.talkchess.com/forum/viewtopic.php?t=64983&start=9) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), August 26, 2017
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Re: perft(15)](http://www.talkchess.com/forum/viewtopic.php?t=64983&start=4) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), August 25, 2017
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Re: Perft speed and depth questions](http://talkchess.com/forum3/viewtopic.php?f=7&t=74153) by [Mark Buisseret](index.php?title=Mark_Buisseret&action=edit&redlink=1 "Mark Buisseret (page does not exist)"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), June 12, 2020
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Re: MC methods](http://www.talkchess.com/forum/viewtopic.php?t=47740&topic_view=flat&start=11) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 13, 2013
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Written in Cobol - Program Written as Chess Buff's Research Aid](http://news.google.com/newspapers?nid=849&dat=19780417&id=h8lOAAAAIBAJ&sjid=DEoDAAAAIBAJ&pg=6180,1080528) by Brad Schultz, [Computerworld](Computerworld "Computerworld"), April 17, 1978, Page 37
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [ankan-ban/perft\_gpu · GitHub](https://github.com/ankan-ban/perft_gpu)
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Auriga](http://cinnamonchess.altervista.org/auriga) by [Giuseppe Cannella](Giuseppe_Cannella "Giuseppe Cannella")
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Fast perft on GPU (upto 20 Billion nps w/o hashing)](http://www.talkchess.com/forum/viewtopic.php?t=48387) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), June 22, 2013
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Auriga - distributed and collaborative Perft](http://www.talkchess.com/forum/viewtopic.php?t=58406) by [Giuseppe Cannella](Giuseppe_Cannella "Giuseppe Cannella"), [CCC](CCC "CCC"), November 28, 2015
 
 **[Up one level](Move_Generation "Move Generation")**
 

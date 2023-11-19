@@ -5,11 +5,11 @@ title: Mathematician
 
 
 
-[ [Euclid](#Euclid) (holding calipers) [[1]](#cite_note-1)
+[ [Euclid](#Euclid) (holding calipers) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 ### Ancient Egyptian Scribes
 
 
-[[2]](#cite_note-2)
+<a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 
 
@@ -29,7 +29,7 @@ title: Mathematician
 ### Ancient Greek Mathematicians
 
 
-including some [Philosophers](https://en.wikipedia.org/wiki/Philosopher) and [Logicians](https://en.wikipedia.org/wiki/History_of_logic) [[3]](#cite_note-3) [[4]](#cite_note-4)
+including some [Philosophers](https://en.wikipedia.org/wiki/Philosopher) and [Logicians](https://en.wikipedia.org/wiki/History_of_logic) <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 
 
@@ -87,7 +87,7 @@ including some [Philosophers](https://en.wikipedia.org/wiki/Philosopher) and [Lo
 ### Ancient Chinese Mathematicians
 
 
-[[5]](#cite_note-5)
+<a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 
 
@@ -113,7 +113,7 @@ including some [Philosophers](https://en.wikipedia.org/wiki/Philosopher) and [Lo
 ### Classical Indian Mathematicians
 
 
-[[6]](#cite_note-6)
+<a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 
 
@@ -133,7 +133,7 @@ including some [Philosophers](https://en.wikipedia.org/wiki/Philosopher) and [Lo
 ### Mathematicians of medieval Islam
 
 
-[[7]](#cite_note-7)
+<a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 
 
@@ -190,7 +190,7 @@ including some [Philosophers](https://en.wikipedia.org/wiki/Philosopher) and [Lo
 ### Japanese Mathematicians Edo period
 
 
-[[8]](#cite_note-8) [[9]](#cite_note-9)
+<a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 
@@ -210,11 +210,11 @@ including some [Philosophers](https://en.wikipedia.org/wiki/Philosopher) and [Lo
 ### Korean Joseon Mathematicians
 
 
-[[10]](#cite_note-10)
+<a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 
 
-* [Seok-Jeong Choi (1645- 1715)](http://www.icm2014.org/en/about/mathematics) [[11]](#cite_note-11)
+* [Seok-Jeong Choi (1645- 1715)](http://www.icm2014.org/en/about/mathematics) <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 * [Dae-yong Hong (1731 - 1783)](https://en.wikipedia.org/wiki/Hong_Dae-yong)
 * [Byeong-Gil Nam (1820-1869)](http://www.icm2014.org/en/about/mathematics)
 
@@ -226,7 +226,7 @@ including some [Philosophers](https://en.wikipedia.org/wiki/Philosopher) and [Lo
 ## Math Connections
 
 
-A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wikipedia.org/wiki/Polytree), a united lineage of mathematicians mostly related to [game theory](https://en.wikipedia.org/wiki/Game_theory), [AI](Artificial_Intelligence "Artificial Intelligence") and computer chess - for some back to their roots in the [late middle ages](https://en.wikipedia.org/wiki/Late_Middle_Ages) or [renaissance](https://en.wikipedia.org/wiki/Renaissance) in Europe, when [academia](https://en.wikipedia.org/wiki/Academia) and [universities](Organizations#Universities "Organizations") were constituted with [scholars](https://en.wikipedia.org/wiki/Scholarly_method) in [humanities](https://en.wikipedia.org/wiki/Humanities), [social-](https://en.wikipedia.org/wiki/Social_science) and [natural sciences](https://en.wikipedia.org/wiki/Natural_science), and with the [age of enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment), [applied-](https://en.wikipedia.org/wiki/Applied_science) and [formal sciences](https://en.wikipedia.org/wiki/Formal_science), since the [19th century](https://en.wikipedia.org/wiki/19th_century)[pure mathematics](https://en.wikipedia.org/wiki/Pure_mathematics), and [computer science](https://en.wikipedia.org/wiki/Computer_science) in [contemporary history](https://en.wikipedia.org/wiki/Contemporary_history) - created with the help of the [Mathematics Genealogy Project](https://en.wikipedia.org/wiki/Mathematics_Genealogy_Project), the [MacTutor History of Mathematics archive](#MacTutor) [[12]](#cite_note-12) and [Wikipedia](https://en.wikipedia.org/wiki/Home):
+A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wikipedia.org/wiki/Polytree), a united lineage of mathematicians mostly related to [game theory](https://en.wikipedia.org/wiki/Game_theory), [AI](Artificial_Intelligence "Artificial Intelligence") and computer chess - for some back to their roots in the [late middle ages](https://en.wikipedia.org/wiki/Late_Middle_Ages) or [renaissance](https://en.wikipedia.org/wiki/Renaissance) in Europe, when [academia](https://en.wikipedia.org/wiki/Academia) and [universities](Organizations#Universities "Organizations") were constituted with [scholars](https://en.wikipedia.org/wiki/Scholarly_method) in [humanities](https://en.wikipedia.org/wiki/Humanities), [social-](https://en.wikipedia.org/wiki/Social_science) and [natural sciences](https://en.wikipedia.org/wiki/Natural_science), and with the [age of enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment), [applied-](https://en.wikipedia.org/wiki/Applied_science) and [formal sciences](https://en.wikipedia.org/wiki/Formal_science), since the [19th century](https://en.wikipedia.org/wiki/19th_century)[pure mathematics](https://en.wikipedia.org/wiki/Pure_mathematics), and [computer science](https://en.wikipedia.org/wiki/Computer_science) in [contemporary history](https://en.wikipedia.org/wiki/Contemporary_history) - created with the help of the [Mathematics Genealogy Project](https://en.wikipedia.org/wiki/Mathematics_Genealogy_Project), the [MacTutor History of Mathematics archive](#MacTutor) <a id="cite-note-12" href="#cite-ref-12">[12]</a> and [Wikipedia](https://en.wikipedia.org/wiki/Home):
 
 
 
@@ -392,8 +392,8 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 					- [Henricus Brucaeus (1530 - 1593)](http://de.wikipedia.org/wiki/Heinrich_Brucaeus) [¶](https://www.mathgenealogy.org/id.php?id=125373) [Collège de France](https://en.wikipedia.org/wiki/Coll%C3%A8ge_de_France), [University of Bologna](https://en.wikipedia.org/wiki/University_of_Bologna)
 						* [Pieter Pauw](#Pauw)
 					- [Johannes Heurnius](#Heurnius)
-					- [François Viète (1540 - 1603)](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Vi%C3%A8te) [Collège de France](https://en.wikipedia.org/wiki/Coll%C3%A8ge_de_France) [[13]](#cite_note-13)
-						* [Pierre de Fermat (1607 - 1665)](https://en.wikipedia.org/wiki/Pierre_de_Fermat) [[14]](#cite_note-14) [ Fermat
+					- [François Viète (1540 - 1603)](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Vi%C3%A8te) [Collège de France](https://en.wikipedia.org/wiki/Coll%C3%A8ge_de_France) <a id="cite-note-13" href="#cite-ref-13">[13]</a>
+						* [Pierre de Fermat (1607 - 1665)](https://en.wikipedia.org/wiki/Pierre_de_Fermat) <a id="cite-note-14" href="#cite-ref-14">[14]</a> [ Fermat
 					- [Theodor Zwinger](#Zwinger)
 
 
@@ -657,7 +657,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 
 
 * [Nicolas Malebranche (1638 - 1715)](https://en.wikipedia.org/wiki/Nicolas_Malebranche) [¶](https://www.mathgenealogy.org/id.php?id=143011) [University of Basel](https://en.wikipedia.org/wiki/University_of_Basel)
-	+ [Jacob Bernoulli (1654 - 1705)](https://en.wikipedia.org/wiki/Jacob_Bernoulli) [¶](https://www.mathgenealogy.org/id.php?id=54440) [University of Basel](https://en.wikipedia.org/wiki/University_of_Basel) [[15]](#cite_note-15)
+	+ [Jacob Bernoulli (1654 - 1705)](https://en.wikipedia.org/wiki/Jacob_Bernoulli) [¶](https://www.mathgenealogy.org/id.php?id=54440) [University of Basel](https://en.wikipedia.org/wiki/University_of_Basel) <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 		- [Johann Bernoulli (1667 - 1748)](https://en.wikipedia.org/wiki/Johann_Bernoulli) [¶](https://www.mathgenealogy.org/id.php?id=53410) [University of Basel](https://en.wikipedia.org/wiki/University_of_Basel) « [Nikolaus Eglinger](#Eglinger) [ Johann Bernoulli
 			* [Daniel Bernoulli (1700 - 1782)](https://en.wikipedia.org/wiki/Daniel_Bernoulli) [¶](https://www.mathgenealogy.org/id.php?id=108998) [University of Basel](https://en.wikipedia.org/wiki/University_of_Basel)
 			* [Leonhard Euler](#Euler)
@@ -685,7 +685,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 						* [Adolf Eugen Fick (1829 - 1901)](https://en.wikipedia.org/wiki/Adolf_Eugen_Fick) [¶](https://www.mathgenealogy.org/id.php?id=127308) [University of Marburg](https://en.wikipedia.org/wiki/University_of_Marburg)
 							+ [Johann Jakob Müller (1846 - 1875)](https://en.wikipedia.org/wiki/Johann_Jakob_M%C3%BCller) [¶](https://www.mathgenealogy.org/id.php?id=127315) [University of Zurich](https://en.wikipedia.org/wiki/University_of_Zurich)
 								- [Alfred Kleiner (1849 - 1916)](https://en.wikipedia.org/wiki/Alfred_Kleiner) [¶](https://www.mathgenealogy.org/id.php?id=22998) [University of Zurich](https://en.wikipedia.org/wiki/University_of_Zurich)
-									* [Albert Einstein (1879 - 1955)](https://en.wikipedia.org/wiki/Albert_Einstein) [¶](https://www.mathgenealogy.org/id.php?id=53269) [University of Zurich](https://en.wikipedia.org/wiki/University_of_Zurich) [[16]](#cite_note-16)
+									* [Albert Einstein (1879 - 1955)](https://en.wikipedia.org/wiki/Albert_Einstein) [¶](https://www.mathgenealogy.org/id.php?id=53269) [University of Zurich](https://en.wikipedia.org/wiki/University_of_Zurich) <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 										+ [Leó Szilárd](#LSzilard)
 										+ [Ernst Gabor Straus](#EGStraus)
 
@@ -764,7 +764,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 	+ [Martin Knutzen (1713 - 1751)](https://en.wikipedia.org/wiki/Martin_Knutzen) [¶](https://www.mathgenealogy.org/id.php?id=106922) [University of Königsberg](https://en.wikipedia.org/wiki/University_of_K%C3%B6nigsberg)
 		- [Immanuel Kant](#Kant)
 	+ [Johann Samuel König](#Koenig)
-	+ [Mikhail Lomonosov (1711 - 1765)](https://en.wikipedia.org/wiki/Mikhail_Lomonosov) [Saint Petersburg State University](https://en.wikipedia.org/wiki/Saint_Petersburg_State_University), [University of Marburg](https://en.wikipedia.org/wiki/University_of_Marburg) [[17]](#cite_note-17) [.jpg) Lomonosov
+	+ [Mikhail Lomonosov (1711 - 1765)](https://en.wikipedia.org/wiki/Mikhail_Lomonosov) [Saint Petersburg State University](https://en.wikipedia.org/wiki/Saint_Petersburg_State_University), [University of Marburg](https://en.wikipedia.org/wiki/University_of_Marburg) <a id="cite-note-17" href="#cite-ref-17">[17]</a> [.jpg) Lomonosov
 
 
 ### Mühlwenzel
@@ -873,7 +873,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 
 
 * [Thomas Bayes (1701 - 1761)](https://en.wikipedia.org/wiki/Thomas_Bayes) [¶](https://www.mathgenealogy.org/id.php?id=48331) [ Bayes
-	+ [Richard Price (1723 - 1791)](https://en.wikipedia.org/wiki/Richard_Price) [Literary executor](https://en.wikipedia.org/wiki/Literary_executor) of Bayes [[18]](#cite_note-18))
+	+ [Richard Price (1723 - 1791)](https://en.wikipedia.org/wiki/Richard_Price) [Literary executor](https://en.wikipedia.org/wiki/Literary_executor) of Bayes <a id="cite-note-18" href="#cite-ref-18">[18]</a>)
 
 
 ### Cramer
@@ -896,13 +896,13 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 * [Leonhard Euler (1707 - 1783)](https://en.wikipedia.org/wiki/Leonhard_Euler) [¶](https://www.mathgenealogy.org/id.php?id=38586) [University of Basel](https://en.wikipedia.org/wiki/University_of_Basel) [ Euler
 	+ [Johann Albrecht Euler (1734 - 1800)](https://en.wikipedia.org/wiki/Johann_Euler) [¶](https://www.mathgenealogy.org/id.php?id=122738)
 	+ [Nicolas Fuss (1755 - 1826)](https://en.wikipedia.org/wiki/Nicolas_Fuss) [¶](https://www.mathgenealogy.org/id.php?id=122708) [St. Petersburg Academy](http://eulerarchive.maa.org/historica/places/stpetersburg.html)
-	+ [Christian Goldbach (1690 - 1764)](https://en.wikipedia.org/wiki/Christian_Goldbach) [University of Königsberg](https://en.wikipedia.org/wiki/University_of_K%C3%B6nigsberg) [[19]](#cite_note-19)
+	+ [Christian Goldbach (1690 - 1764)](https://en.wikipedia.org/wiki/Christian_Goldbach) [University of Königsberg](https://en.wikipedia.org/wiki/University_of_K%C3%B6nigsberg) <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 	+ [Johann Friedrich Hennert (1733 - 1813)](https://en.wikipedia.org/wiki/Johann_Friedrich_Hennert) [¶](https://www.mathgenealogy.org/id.php?id=112812) [Utrecht University](https://en.wikipedia.org/wiki/Utrecht_University) « [Joseph-Nicolas Delisle](#Delisle)
 		- [Jan Hendrik van Swinden](#Swinden)
 	+ [Joseph-Louis Lagrange (1736 - 1813)](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) [¶](https://www.mathgenealogy.org/id.php?id=17864) [École Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique)
 		- [Joseph Fourier (1768 - 1830)](https://en.wikipedia.org/wiki/Joseph_Fourier) [¶](https://www.mathgenealogy.org/id.php?id=17981) [École Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) [ Fourier
 			* [Peter Gustav Lejeune Dirichlet](#Dirichlet)
-		- [Jean-Guillaume Garnier (1766-1840)](http://www.bestor.be/wiki_nl/index.php/Garnier,_Jean-Guillaume_%281766-1840%29) [¶](https://www.mathgenealogy.org/id.php?id=86763) [École Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University) [[20]](#cite_note-20)
+		- [Jean-Guillaume Garnier (1766-1840)](http://www.bestor.be/wiki_nl/index.php/Garnier,_Jean-Guillaume_%281766-1840%29) [¶](https://www.mathgenealogy.org/id.php?id=86763) [École Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique), [Ghent University](https://en.wikipedia.org/wiki/Ghent_University) <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 			* [Pierre-François Verhulst (1804 - 1849)](https://en.wikipedia.org/wiki/Pierre_Fran%C3%A7ois_Verhulst) [¶](https://www.mathgenealogy.org/id.php?id=101260) [Ghent University](https://en.wikipedia.org/wiki/Ghent_University)
 		- [Siméon Denis Poisson](#Poisson)
 
@@ -1295,8 +1295,8 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 
 * [Christian Ludwig Gerling (1788 - 1864)](https://en.wikipedia.org/wiki/Christian_Ludwig_Gerling) [¶](https://www.mathgenealogy.org/id.php?id=29642) [University of Göttingen](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen)
 	+ [Julius Plücker (1801 - 1868)](https://en.wikipedia.org/wiki/Julius_Pl%C3%BCcker) [¶](https://www.mathgenealogy.org/id.php?id=7402) [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn)
-		- [Felix Klein (1849 - 1925)](https://en.wikipedia.org/wiki/Felix_Klein) [¶](https://www.mathgenealogy.org/id.php?id=7401) [[21]](#cite_note-21) [University of Erlangen-Nuremberg](https://en.wikipedia.org/wiki/University_of_Erlangen-Nuremberg) « [Rudolf Lipschitz](#Lipschitz) [ Felix Klein
-			* [Ludwig Bieberbach (1886 - 1982)](https://en.wikipedia.org/wiki/Ludwig_Bieberbach) [¶](https://www.mathgenealogy.org/id.php?id=19524) [University of Göttingen](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen) [[22]](#cite_note-22)
+		- [Felix Klein (1849 - 1925)](https://en.wikipedia.org/wiki/Felix_Klein) [¶](https://www.mathgenealogy.org/id.php?id=7401) <a id="cite-note-21" href="#cite-ref-21">[21]</a> [University of Erlangen-Nuremberg](https://en.wikipedia.org/wiki/University_of_Erlangen-Nuremberg) « [Rudolf Lipschitz](#Lipschitz) [ Felix Klein
+			* [Ludwig Bieberbach (1886 - 1982)](https://en.wikipedia.org/wiki/Ludwig_Bieberbach) [¶](https://www.mathgenealogy.org/id.php?id=19524) [University of Göttingen](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen) <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 				+ [Werner Fenchel (1905 - 1988)](https://en.wikipedia.org/wiki/Werner_Fenchel) [¶](https://www.mathgenealogy.org/id.php?id=19720) [University of Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin)
 				+ [Heinz Hopf](#Hopf)
 				+ [Kurt Schröder (1909 - 1978)](http://de.wikipedia.org/wiki/Kurt_Schr%C3%B6der_%28Mathematiker%29) [¶](https://www.mathgenealogy.org/id.php?id=19725) [University of Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin)
@@ -1306,7 +1306,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 			* [Maxime Bôcher](#Bocher)
 			* [Oskar Bolza](#OBolza)
 			* [Frank Nelson Cole](#Cole)
-			* [Friedrich Engel](#Engel) [[23]](#cite_note-23)
+			* [Friedrich Engel](#Engel) <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 			* [Philipp Furtwängler](#Furtwaengler)
 			* [Edward Kasner](#EKasner)
 			* [Ferdinand von Lindemann](#Lindemann)
@@ -1395,7 +1395,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 * [William Hopkins (1793 - 1866)](https://en.wikipedia.org/wiki/William_Hopkins) [¶](https://www.mathgenealogy.org/id.php?id=42016) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
 	+ [Arthur Cayley (1821 - 1895)](https://en.wikipedia.org/wiki/Arthur_Cayley) [¶](https://www.mathgenealogy.org/id.php?id=7824) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) « [George Peacock](#Peacock) [ Cayley
 		- [Henry Frederick Baker (1866 - 1956)](https://en.wikipedia.org/wiki/H._F._Baker) [¶](https://www.mathgenealogy.org/id.php?id=13135) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
-			* [Harold Scott MacDonald Coxeter (1907 - 2003)](https://en.wikipedia.org/wiki/Harold_Scott_MacDonald_Coxeter) [¶](https://www.mathgenealogy.org/id.php?id=12555) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) » [Point Value](Point_Value "Point Value") [[24]](#cite_note-24)
+			* [Harold Scott MacDonald Coxeter (1907 - 2003)](https://en.wikipedia.org/wiki/Harold_Scott_MacDonald_Coxeter) [¶](https://www.mathgenealogy.org/id.php?id=12555) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) » [Point Value](Point_Value "Point Value") <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 			* [Louis Joel Mordell (1888 - 1972)](https://en.wikipedia.org/wiki/Louis_J._Mordell) [¶](https://www.mathgenealogy.org/id.php?id=44940) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
 			* [Geoffrey Timms (1903 - 1982)](http://www-history.mcs.st-andrews.ac.uk/Mathematicians/Timms.html) [¶](https://www.mathgenealogy.org/id.php?id=18502) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
 			* [John Arthur Todd (1908 - 1994)](https://en.wikipedia.org/wiki/J._A._Todd) [¶](https://www.mathgenealogy.org/id.php?id=18505) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
@@ -1592,7 +1592,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 
 * [Carl Gustav Jacob Jacobi (1804 - 1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi) [¶](https://www.mathgenealogy.org/id.php?id=15635) [University of Berlin](https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin)
 	+ [Paul Albert Gordan (1837 - 1912)](https://en.wikipedia.org/wiki/Paul_Gordan) [¶](https://www.mathgenealogy.org/id.php?id=15654) [University of Königsberg](https://en.wikipedia.org/wiki/University_of_K%C3%B6nigsberg)
-		- [Emmy Amalie Noether (1882 - 1935)](https://en.wikipedia.org/wiki/Emmy_Noether) [¶](https://www.mathgenealogy.org/id.php?id=6967) [University of Erlangen-Nuremberg](https://en.wikipedia.org/wiki/University_of_Erlangen-Nuremberg) [[25]](#cite_note-25) [[26]](#cite_note-26) [ Emmy Noether
+		- [Emmy Amalie Noether (1882 - 1935)](https://en.wikipedia.org/wiki/Emmy_Noether) [¶](https://www.mathgenealogy.org/id.php?id=6967) [University of Erlangen-Nuremberg](https://en.wikipedia.org/wiki/University_of_Erlangen-Nuremberg) <a id="cite-note-25" href="#cite-ref-25">[25]</a> <a id="cite-note-26" href="#cite-ref-26">[26]</a> [ Emmy Noether
 			* [Max Deuring (1907 - 1984)](https://en.wikipedia.org/wiki/Max_Deuring) [¶](https://www.mathgenealogy.org/id.php?id=21542) [University of Göttingen](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen)
 				+ [Rudolf Ahlswede](#Ahlswede)
 				+ [Max Koecher (1924 - 1990)](https://en.wikipedia.org/wiki/Max_Koecher) [¶](https://www.mathgenealogy.org/id.php?id=21575) [University of Göttingen](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen)
@@ -1664,7 +1664,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 					- [Archibald Hill (1886 - 1977)](https://en.wikipedia.org/wiki/Archibald_Hill) [¶](https://www.mathgenealogy.org/id.php?id=50423) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
 						* [Ralph H. Fowler](#RHFowler)
 			* [Charles Scott Sherrington (1857 - 1952)](https://en.wikipedia.org/wiki/Charles_Scott_Sherrington) [¶](https://www.mathgenealogy.org/id.php?id=104601) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
-				+ [Ragnar Granit (1900 - 1991)](https://en.wikipedia.org/wiki/Ragnar_Granit) [University of Helsinki](University_of_Helsinki "University of Helsinki"), Postdoc [University of Oxford](https://en.wikipedia.org/wiki/University_of_Oxford) [[27]](#cite_note-27))
+				+ [Ragnar Granit (1900 - 1991)](https://en.wikipedia.org/wiki/Ragnar_Granit) [University of Helsinki](University_of_Helsinki "University of Helsinki"), Postdoc [University of Oxford](https://en.wikipedia.org/wiki/University_of_Oxford) <a id="cite-note-27" href="#cite-ref-27">[27]</a>)
 					- [Christina Enroth-Cugell (1921 - 2016)](http://www.mccormick.northwestern.edu/news/articles/2016/06/christina-enroth-cugell-distinguished-vision-scientist-passes-away.html) [Karolinska Institute](https://en.wikipedia.org/wiki/Karolinska_Institute), [Northwestern University](Northwestern_University "Northwestern University") » sister of [Johan Enroth](Johan_Enroth "Johan Enroth")
 		- [H. G. Wells (1866 - 1946)](https://en.wikipedia.org/wiki/H._G._Wells) [Royal College of Science](https://en.wikipedia.org/wiki/Royal_College_of_Science)
 
@@ -1788,7 +1788,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 						* [Léon Rothkrantz](#LRothkrantz)
 						* [Ida Sprinkhuizen-Kuyper](Ida_Sprinkhuizen-Kuyper "Ida Sprinkhuizen-Kuyper") [¶](https://www.mathgenealogy.org/id.php?id=66022) [University of Amsterdam](https://en.wikipedia.org/wiki/University_of_Amsterdam)
 							+ [Daniel R. Tauritz](#DRTauritz)
-			* [Tatyana Pavlovna Ehrenfest (1905 - 1984)](https://en.wikipedia.org/wiki/Tatyana_Pavlovna_Ehrenfest) [¶](https://www.mathgenealogy.org/id.php?id=111213) [Leiden University](Leiden_University "Leiden University") [[28]](#cite_note-28) » [De Bruijn Sequence](De_Bruijn_Sequence "De Bruijn Sequence")
+			* [Tatyana Pavlovna Ehrenfest (1905 - 1984)](https://en.wikipedia.org/wiki/Tatyana_Pavlovna_Ehrenfest) [¶](https://www.mathgenealogy.org/id.php?id=111213) [Leiden University](Leiden_University "Leiden University") <a id="cite-note-28" href="#cite-ref-28">[28]</a> » [De Bruijn Sequence](De_Bruijn_Sequence "De Bruijn Sequence")
 			* [Nicolaas Kuiper (1920 - 1994)](https://en.wikipedia.org/wiki/Nicolaas_Kuiper) [¶](https://www.mathgenealogy.org/id.php?id=51483) [Leiden University](Leiden_University "Leiden University")
 				+ [Floris Takens (1940 - 2010)](https://en.wikipedia.org/wiki/Floris_Takens) [¶](https://www.mathgenealogy.org/id.php?id=44979) [University of Amsterdam](https://en.wikipedia.org/wiki/University_of_Amsterdam)
 					- [Hendrik Broer (1950)](https://de.wikipedia.org/wiki/Hendrik_Broer) [¶](https://www.mathgenealogy.org/id.php?id=49678) [University of Groningen](https://en.wikipedia.org/wiki/University_of_Groningen)
@@ -1974,7 +1974,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 					- [Albyn C. Jones](http://people.reed.edu/~jones/) [¶](https://www.mathgenealogy.org/id.php?id=35357) [Yale University](https://en.wikipedia.org/wiki/Yale_University)
 				+ [Thomas E. Kurtz (1928)](https://en.wikipedia.org/wiki/Thomas_E._Kurtz) [¶](https://www.mathgenealogy.org/id.php?id=35248)[Princeton University](https://en.wikipedia.org/wiki/Princeton_University) » [Basic](Basic "Basic")
 				+ [Frederick Mosteller](#Mosteller)
-			* [Robert John Walker](http://dl.acm.org/author_page.cfm?id=81100423922&coll=DL&dl=ACM&trk=0) [[29]](#cite_note-29) [¶](https://www.mathgenealogy.org/id.php?id=8580) [Princeton University](https://en.wikipedia.org/wiki/Princeton_University) » [Backtracking](Backtracking "Backtracking")
+			* [Robert John Walker](http://dl.acm.org/author_page.cfm?id=81100423922&coll=DL&dl=ACM&trk=0) <a id="cite-note-29" href="#cite-ref-29">[29]</a> [¶](https://www.mathgenealogy.org/id.php?id=8580) [Princeton University](https://en.wikipedia.org/wiki/Princeton_University) » [Backtracking](Backtracking "Backtracking")
 			* [Shaun Wylie](#SWylie)
 
 
@@ -2215,7 +2215,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 		- [John Stuart Foster (1890 - 1964)](https://en.wikipedia.org/wiki/John_Stuart_Foster) [¶](https://www.mathgenealogy.org/id.php?id=141208) [Yale University](https://en.wikipedia.org/wiki/Yale_University), [McGill University](McGill_University "McGill University")
 			* [Robert Lyster Thornton (1908 - 1985)](https://en.wikipedia.org/wiki/Robert_Lyster_Thornton) [¶](https://www.mathgenealogy.org/id.php?id=140934) [McGill University](McGill_University "McGill University"), [Washington University in St. Louis](https://en.wikipedia.org/wiki/Washington_University_in_St._Louis)
 				+ [Harry Wilks Fulbright (1918 - 2009)](http://www.rochester.edu/news/show.php?id=3393) [¶](https://www.mathgenealogy.org/id.php?id=140933) [Washington University in St. Louis](https://en.wikipedia.org/wiki/Washington_University_in_St._Louis), [Princeton University](https://en.wikipedia.org/wiki/Princeton_University)
-					- [Robert Bush (1920 - 1972)](http://www.psych.upenn.edu/history/bushtext.htm) [[30]](#cite_note-30) [¶](https://www.mathgenealogy.org/id.php?id=129288) [Princeton University](https://en.wikipedia.org/wiki/Princeton_University), [University of Pennsylvania](https://en.wikipedia.org/wiki/University_of_Pennsylvania)
+					- [Robert Bush (1920 - 1972)](http://www.psych.upenn.edu/history/bushtext.htm) <a id="cite-note-30" href="#cite-ref-30">[30]</a> [¶](https://www.mathgenealogy.org/id.php?id=129288) [Princeton University](https://en.wikipedia.org/wiki/Princeton_University), [University of Pennsylvania](https://en.wikipedia.org/wiki/University_of_Pennsylvania)
 						* [Laveen Kanal](Laveen_Kanal "Laveen Kanal") [¶](https://www.mathgenealogy.org/id.php?id=108468) [University of Pennsylvania](https://en.wikipedia.org/wiki/University_of_Pennsylvania), [University of Maryland, College Park](http://de.wikipedia.org/wiki/University_of_Maryland,_College_Park)
 							+ [Vipin Kumar](index.php?title=Vipin_Kumar&action=edit&redlink=1 "Vipin Kumar (page does not exist)") [¶](https://www.mathgenealogy.org/id.php?id=23912) [University of Maryland, College Park](http://de.wikipedia.org/wiki/University_of_Maryland,_College_Park)
 
@@ -2223,7 +2223,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 ### Peirce
 
 
-* [Charles Sanders Peirce (1839 - 1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) [¶](https://www.mathgenealogy.org/id.php?id=24099) [Johns Hopkins University](https://en.wikipedia.org/wiki/Johns_Hopkins_University), son of [Benjamin Peirce](#BPeirce) [[31]](#cite_note-31) [[32]](#cite_note-32) [[33]](#cite_note-33) [[34]](#cite_note-34) » [General Setwise Operations](General_Setwise_Operations "General Setwise Operations") [ Peirce
+* [Charles Sanders Peirce (1839 - 1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) [¶](https://www.mathgenealogy.org/id.php?id=24099) [Johns Hopkins University](https://en.wikipedia.org/wiki/Johns_Hopkins_University), son of [Benjamin Peirce](#BPeirce) <a id="cite-note-31" href="#cite-ref-31">[31]</a> <a id="cite-note-32" href="#cite-ref-32">[32]</a> <a id="cite-note-33" href="#cite-ref-33">[33]</a> <a id="cite-note-34" href="#cite-ref-34">[34]</a> » [General Setwise Operations](General_Setwise_Operations "General Setwise Operations") [ Peirce
 	+ [Christine Ladd-Franklin (1847 - 1930)](https://en.wikipedia.org/wiki/Christine_Ladd-Franklin) [¶](https://www.mathgenealogy.org/id.php?id=41944) [Johns Hopkins University](https://en.wikipedia.org/wiki/Johns_Hopkins_University)
 	+ [Allan Marquand (1853 - 1924)](https://en.wikipedia.org/wiki/Allan_Marquand) [Johns Hopkins University](https://en.wikipedia.org/wiki/Johns_Hopkins_University) » [Philodemus](#Philodemus)
 
@@ -2295,7 +2295,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 				+ [Ronald Ernest Aitchison (1921 - 1996)](https://en.wikipedia.org/wiki/Ronald_Ernest_Aitchison) [¶](https://www.mathgenealogy.org/id.php?id=101083) [University of Sydney](https://en.wikipedia.org/wiki/University_of_Sydney)
 					- [Peter Harold Cole (1936)](https://en.wikipedia.org/wiki/Peter_Harold_Cole) [¶](https://www.mathgenealogy.org/id.php?id=101082) [University of Sydney](https://en.wikipedia.org/wiki/University_of_Sydney)
 						* [Kamran Eshraghian (1945)](https://en.wikipedia.org/wiki/Kamran_Eshraghian) [¶](https://www.mathgenealogy.org/id.php?id=101081) [University of Adelaide](https://en.wikipedia.org/wiki/University_of_Adelaide)
-							+ [Derek Abbott (1960)](https://en.wikipedia.org/wiki/Derek_Abbott) [¶](https://www.mathgenealogy.org/id.php?id=101078) [University of Adelaide](https://en.wikipedia.org/wiki/University_of_Adelaide) [[35]](#cite_note-35)
+							+ [Derek Abbott (1960)](https://en.wikipedia.org/wiki/Derek_Abbott) [¶](https://www.mathgenealogy.org/id.php?id=101078) [University of Adelaide](https://en.wikipedia.org/wiki/University_of_Adelaide) <a id="cite-note-35" href="#cite-ref-35">[35]</a>
 								- [Mark D. McDonnell (1975)](https://en.wikipedia.org/wiki/Mark_D._McDonnell) [¶](https://www.mathgenealogy.org/id.php?id=101084) [University of Adelaide](https://en.wikipedia.org/wiki/University_of_Adelaide)
 
 
@@ -2471,7 +2471,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 ### Ball
 
 
-* [Walter William Rouse Ball (1850 - 1925)](https://en.wikipedia.org/wiki/W._W._Rouse_Ball) [¶](https://www.mathgenealogy.org/id.php?id=27230) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) [[36]](#cite_note-36) [ Rouse Ball
+* [Walter William Rouse Ball (1850 - 1925)](https://en.wikipedia.org/wiki/W._W._Rouse_Ball) [¶](https://www.mathgenealogy.org/id.php?id=27230) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) <a id="cite-note-36" href="#cite-ref-36">[36]</a> [ Rouse Ball
 	+ [Ernest William Barnes (1874 - 1953)](https://en.wikipedia.org/wiki/Ernest_William_Barnes) [¶](https://www.mathgenealogy.org/id.php?id=12099) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
 		- [John Edensor Littlewood (1885 - 1977)](https://en.wikipedia.org/wiki/John_Edensor_Littlewood) [¶](https://www.mathgenealogy.org/id.php?id=10463) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
 			* [Sarvadaman D. S. Chowla (1907 - 1995)](https://en.wikipedia.org/wiki/Sarvadaman_Chowla) [¶](https://www.mathgenealogy.org/id.php?id=12369) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
@@ -2484,7 +2484,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 			* [Harold Davenport (1907 - 1969)](https://en.wikipedia.org/wiki/Harold_Davenport) [¶](https://www.mathgenealogy.org/id.php?id=18241) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
 				+ [Alan Baker (1939)](https://en.wikipedia.org/wiki/Alan_Baker_%28mathematician%29) [¶](https://www.mathgenealogy.org/id.php?id=22765) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
 					- [John H. Coates (1945)](https://en.wikipedia.org/wiki/John_H._Coates) [¶](https://www.mathgenealogy.org/id.php?id=20324) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
-						* [Andrew Wiles (1953)](https://en.wikipedia.org/wiki/Andrew_Wiles) [¶](https://www.mathgenealogy.org/id.php?id=9696) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) [[37]](#cite_note-37) [[38]](#cite_note-38)
+						* [Andrew Wiles (1953)](https://en.wikipedia.org/wiki/Andrew_Wiles) [¶](https://www.mathgenealogy.org/id.php?id=9696) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) <a id="cite-note-37" href="#cite-ref-37">[37]</a> <a id="cite-note-38" href="#cite-ref-38">[38]</a>
 							+ [Richard Taylor (1962)](https://en.wikipedia.org/wiki/Richard_Taylor_%28mathematician%29) [¶](https://www.mathgenealogy.org/id.php?id=47177) [Princeton University](https://en.wikipedia.org/wiki/Princeton_University)
  + [John Horton Conway (1937 - 2020)](John_H._Conway "John H. Conway") [¶](https://www.mathgenealogy.org/id.php?id=18849) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) [](File:John_conway7.jpg) Conway 
 					- [Simon P. Norton (1952)](https://en.wikipedia.org/wiki/Simon_P._Norton) [¶](https://www.mathgenealogy.org/id.php?id=70421) [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge)
@@ -2566,8 +2566,8 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 
 
 * [Albert Abraham Michelson (1852 - 1931)](https://en.wikipedia.org/wiki/Albert_Abraham_Michelson) [¶](https://www.mathgenealogy.org/id.php?id=72170) [United States Naval Academy](https://en.wikipedia.org/wiki/United_States_Naval_Academy), [University of Berlin](https://en.wikipedia.org/wiki/University_of_Berlin) [ Michelson
-	+ [William Vermillion Houston (1900 - 1968)](https://en.wikipedia.org/wiki/William_Vermillion_Houston) [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago) (M.Sc.) [Ohio State University](https://en.wikipedia.org/wiki/Ohio_State_University) [[39]](#cite_note-39)
-		- [Jesse DuMond (1892 - 1976)](http://www.aip.org/history/acap/biographies/bio.jsp?dumondj) [¶](https://www.mathgenealogy.org/id.php?id=160285) [Caltech](https://en.wikipedia.org/wiki/California_Institute_of_Technology) [[40]](#cite_note-40)
+	+ [William Vermillion Houston (1900 - 1968)](https://en.wikipedia.org/wiki/William_Vermillion_Houston) [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago) (M.Sc.) [Ohio State University](https://en.wikipedia.org/wiki/Ohio_State_University) <a id="cite-note-39" href="#cite-ref-39">[39]</a>
+		- [Jesse DuMond (1892 - 1976)](http://www.aip.org/history/acap/biographies/bio.jsp?dumondj) [¶](https://www.mathgenealogy.org/id.php?id=160285) [Caltech](https://en.wikipedia.org/wiki/California_Institute_of_Technology) <a id="cite-note-40" href="#cite-ref-40">[40]</a>
 			* [David E. Muller (1924 - 2008)](https://en.wikipedia.org/wiki/David_E._Muller) [¶](https://www.mathgenealogy.org/id.php?id=807) [Caltech](https://en.wikipedia.org/wiki/California_Institute_of_Technology)
 				+ [Jürg Nievergelt](J%C3%BCrg_Nievergelt "Jürg Nievergelt") [¶](https://www.mathgenealogy.org/id.php?id=812) [University of Illinois at Urbana-Champaign](University_of_Illinois_at_Urbana-Champaign "University of Illinois at Urbana-Champaign"), [ETH Zurich](ETH_Zurich "ETH Zurich")
 					- [Ralph Gasser](Ralph_Gasser "Ralph Gasser") [ETH Zurich](ETH_Zurich "ETH Zurich") « [Jonathan Herbert Schaeffer](#Schaeffer) » [Nine Men’s Morris](Nine_Men%E2%80%99s_Morris "Nine Men’s Morris")
@@ -2653,9 +2653,9 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 
 * [Edward Leamington Nichols (1854 - 1937)](https://en.wikipedia.org/wiki/Edward_Leamington_Nichols) [¶](https://www.mathgenealogy.org/id.php?id=84010) [University of Göttingen](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen) [ E.L. Nichols
 	+ [Ernest Fox Nichols (1869 - 1924)](https://en.wikipedia.org/wiki/Ernest_Fox_Nichols) [¶](https://www.mathgenealogy.org/id.php?id=84012) [Cornell University](https://en.wikipedia.org/wiki/Cornell_University), [Dartmouth College](Dartmouth_College "Dartmouth College"), [Columbia University](Columbia_University "Columbia University")
-		- [Frederic Columbus Blake (1877 - 1956)](http://wireless.emt.inrs.ca/Bio.html) [[41]](#cite_note-41) [¶](https://www.mathgenealogy.org/id.php?id=84005) [Columbia University](Columbia_University "Columbia University")
+		- [Frederic Columbus Blake (1877 - 1956)](http://wireless.emt.inrs.ca/Bio.html) <a id="cite-note-41" href="#cite-ref-41">[41]</a> [¶](https://www.mathgenealogy.org/id.php?id=84005) [Columbia University](Columbia_University "Columbia University")
 			* [William Littell Everitt (1900 - 1986)](https://en.wikipedia.org/wiki/William_Littell_Everitt) [¶](https://www.mathgenealogy.org/id.php?id=83975) [Ohio State University](https://en.wikipedia.org/wiki/Ohio_State_University)
-				+ [Karl Ralph Spangenberg (1910 - 1964)](http://wireless.emt.inrs.ca/Bio.html) [[42]](#cite_note-42) [¶](https://www.mathgenealogy.org/id.php?id=76967) [Ohio State University](https://en.wikipedia.org/wiki/Ohio_State_University)
+				+ [Karl Ralph Spangenberg (1910 - 1964)](http://wireless.emt.inrs.ca/Bio.html) <a id="cite-note-42" href="#cite-ref-42">[42]</a> [¶](https://www.mathgenealogy.org/id.php?id=76967) [Ohio State University](https://en.wikipedia.org/wiki/Ohio_State_University)
 					- [Willis W. Harman (1918 - 1997)](https://en.wikipedia.org/wiki/Willis_Harman) [¶](https://www.mathgenealogy.org/id.php?id=74544) [Stanford University](Stanford_University "Stanford University")
 						* [Norman Abramson](#NAbramson)
 						* [Nils J. Nilsson (1933 - 2019)](https://en.wikipedia.org/wiki/Nils_John_Nilsson) [¶](https://www.mathgenealogy.org/id.php?id=70729) [Stanford University](Stanford_University "Stanford University") » [AAAI](AAAI "AAAI")
@@ -2862,7 +2862,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 				+ [Adrian E. Raftery (1955)](https://en.wikipedia.org/wiki/Adrian_Raftery) [¶](https://www.mathgenealogy.org/id.php?id=22289) [Pierre and Marie Curie University](University_of_Paris#6 "University of Paris")
 					- [David Poole](https://scholar.google.co.uk/citations?user=CeWswygAAAAJ&hl=en) [¶](https://www.mathgenealogy.org/id.php?id=49244) [University of Washington](https://en.wikipedia.org/wiki/University_of_Washington)
 		- [André Lichnérowicz (1915 - 1998)](https://en.wikipedia.org/wiki/Andr%C3%A9_Lichnerowicz) [¶](https://www.mathgenealogy.org/id.php?id=91104) [École Normale Supérieure Paris](https://en.wikipedia.org/wiki/%C3%89cole_Normale_Sup%C3%A9rieure)
- * [Claude Berge (1926 - 2002)](https://en.wikipedia.org/wiki/Claude_Berge) [¶](https://www.mathgenealogy.org/id.php?id=68780) [Pierre and Marie Curie University](University_of_Paris#6 "University of Paris") » [Hex](Hex "Hex") [[43]](#cite_note-43) [](File:ClaudeBerge.jpg) Berge 
+ * [Claude Berge (1926 - 2002)](https://en.wikipedia.org/wiki/Claude_Berge) [¶](https://www.mathgenealogy.org/id.php?id=68780) [Pierre and Marie Curie University](University_of_Paris#6 "University of Paris") » [Hex](Hex "Hex") <a id="cite-note-43" href="#cite-ref-43">[43]</a> [](File:ClaudeBerge.jpg) Berge 
 				+ [Michel Las Vergnas (1941 – 2013)](https://en.wikipedia.org/wiki/Michel_Las_Vergnas) [¶](https://www.mathgenealogy.org/id.php?id=51552) [Pierre and Marie Curie University](University_of_Paris#6 "University of Paris")
 				+ [Frédéric Maire](index.php?title=Fr%C3%A9d%C3%A9ric_Maire&action=edit&redlink=1 "Frédéric Maire (page does not exist)") [¶](https://www.mathgenealogy.org/id.php?id=168789) [Pierre and Marie Curie University](University_of_Paris#6 "University of Paris")
 					- [Cameron Browne](Cameron_Browne "Cameron Browne") [¶](https://www.mathgenealogy.org/id.php?id=168791) [Queensland University of Technology](https://en.wikipedia.org/wiki/Queensland_University_of_Technology)
@@ -2967,7 +2967,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 * [Arthur Edwin Kennelly (1861 - 1939)](https://en.wikipedia.org/wiki/Arthur_E._Kennelly) [¶](https://www.mathgenealogy.org/id.php?id=24154) [Thomas Edison's West Orange laboratory](https://en.wikipedia.org/wiki/Thomas_Edison#West_Orange_and_Fort_Myers_.281886.E2.80.931931.29)
 	+ [Vannevar Bush (1890 - 1974)](https://en.wikipedia.org/wiki/Vannevar_Bush) [¶](https://www.mathgenealogy.org/id.php?id=84507) [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") » [Claude Elwood Shannon](#Shannon) [ Vannevar Bush
 		- [Samuel H. Caldwell (1904 -1960)](https://en.wikipedia.org/wiki/Samuel_H._Caldwell) [¶](https://www.mathgenealogy.org/id.php?id=10802) [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
-			* [David A. Huffman (1925 - 1999)](https://en.wikipedia.org/wiki/David_A._Huffman) [¶](https://www.mathgenealogy.org/id.php?id=37262) [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") [[44]](#cite_note-44)
+			* [David A. Huffman (1925 - 1999)](https://en.wikipedia.org/wiki/David_A._Huffman) [¶](https://www.mathgenealogy.org/id.php?id=37262) [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") <a id="cite-note-44" href="#cite-ref-44">[44]</a>
 			* [Edward J. McCluskey (1929)](https://en.wikipedia.org/wiki/Edward_J._McCluskey) [¶](https://www.mathgenealogy.org/id.php?id=71057) [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology")
 				+ [Janusz Brzozowski (1935)](https://en.wikipedia.org/wiki/Janusz_Brzozowski_%28computer_scientist%29) [¶](https://www.mathgenealogy.org/id.php?id=66820) [Princeton University](https://en.wikipedia.org/wiki/Princeton_University)
 				+ [Samuel H. Fuller](Samuel_Fuller "Samuel Fuller") [¶](https://www.mathgenealogy.org/id.php?id=86615) [Stanford University](Stanford_University "Stanford University") » [Alpha-Beta](Alpha-Beta "Alpha-Beta")
@@ -3177,7 +3177,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 				+ [John Roderick Smart](https://projecteuclid.org/euclid.mmj/1028998973#author-euclidmmj1028998973SmartJohnRoderick) [¶](https://www.mathgenealogy.org/id.php?id=3156) [Michigan State University](Michigan_State_University "Michigan State University")
 					- [Bruce C. Berndt (1939)](https://en.wikipedia.org/wiki/Bruce_C._Berndt) [¶](https://www.mathgenealogy.org/id.php?id=8571) [University of Wisconsin–Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison)
 		- [Nazim Terzioglu (1912 - 1976)](https://en.wikipedia.org/wiki/Nazim_Terzioglu) [¶](https://www.mathgenealogy.org/id.php?id=148430) [University of Munich](https://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich)
- + [Dénes Konig (1884 - 1944)](https://en.wikipedia.org/wiki/D%C3%A9nes_K%C5%91nig) [¶](https://www.mathgenealogy.org/id.php?id=76334) [TU Budapest](https://en.wikipedia.org/wiki/Budapest_University_of_Technology_and_Economics), [University of Szeged](https://en.wikipedia.org/wiki/University_of_Szeged) [[45]](#cite_note-45) » [Retrograde Analysis](Retrograde_Analysis "Retrograde Analysis") [](File:Denes_Koenig.jpg) Konig 
+ + [Dénes Konig (1884 - 1944)](https://en.wikipedia.org/wiki/D%C3%A9nes_K%C5%91nig) [¶](https://www.mathgenealogy.org/id.php?id=76334) [TU Budapest](https://en.wikipedia.org/wiki/Budapest_University_of_Technology_and_Economics), [University of Szeged](https://en.wikipedia.org/wiki/University_of_Szeged) <a id="cite-note-45" href="#cite-ref-45">[45]</a> » [Retrograde Analysis](Retrograde_Analysis "Retrograde Analysis") [](File:Denes_Koenig.jpg) Konig 
 		- [Tibor Gallai (1912 - 1992)](https://en.wikipedia.org/wiki/Tibor_Gallai) [¶](https://www.mathgenealogy.org/id.php?id=76333) [TU Budapest](https://en.wikipedia.org/wiki/Budapest_University_of_Technology_and_Economics)
 			* [László Lovász (1948)](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Lov%C3%A1sz) [¶](https://www.mathgenealogy.org/id.php?id=15779) [Eötvös Loránd University](https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University)
 				+ [András Frank (1949)](https://en.wikipedia.org/wiki/Andr%C3%A1s_Frank) [¶](https://www.mathgenealogy.org/id.php?id=26596) [University of Szeged](https://en.wikipedia.org/wiki/University_of_Szeged)
@@ -3379,7 +3379,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 		- [Paul Scherrer (1890 - 1969)](https://en.wikipedia.org/wiki/Paul_Scherrer) [¶](https://www.mathgenealogy.org/id.php?id=63075) [University of Göttingen](https://en.wikipedia.org/wiki/University_of_G%C3%B6ttingen), [ETH Zurich](ETH_Zurich "ETH Zurich")
 			* [Jean-Pierre Blaser](http://einstein.stanford.edu/STEP/people/collaborators/data/jblaser.html) [¶](https://www.mathgenealogy.org/id.php?id=75243) [ETH Zurich](ETH_Zurich "ETH Zurich"), [Paul Scherrer Institute](https://en.wikipedia.org/wiki/Paul_Scherrer_Institute)
 				+ [Werner Joho](Werner_Joho "Werner Joho") [¶](https://www.mathgenealogy.org/id.php?id=121774) [ETH Zurich](ETH_Zurich "ETH Zurich"), [Paul Scherrer Institute](https://en.wikipedia.org/wiki/Paul_Scherrer_Institute) » [Charly](Charly "Charly")
-			* [Bernd T. Matthias (1918 - 1980)](https://en.wikipedia.org/wiki/Bernd_T._Matthias) [¶](https://www.mathgenealogy.org/id.php?id=102830) [ETH Zurich](ETH_Zurich "ETH Zurich"), [Bell Laboratories](Bell_Laboratories "Bell Laboratories"), [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego) [[46]](#cite_note-46)
+			* [Bernd T. Matthias (1918 - 1980)](https://en.wikipedia.org/wiki/Bernd_T._Matthias) [¶](https://www.mathgenealogy.org/id.php?id=102830) [ETH Zurich](ETH_Zurich "ETH Zurich"), [Bell Laboratories](Bell_Laboratories "Bell Laboratories"), [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego) <a id="cite-note-46" href="#cite-ref-46">[46]</a>
 	+ [Erwin Richard Fues](#ERFues)
 	+ [Ernst Adolph Guillemin](#Guillemin)
 	+ [Werner Heisenberg](#WHeisenberg)
@@ -3465,7 +3465,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 
 
 * [Andreas Smits (1870 - 1948)](http://cyclopediabritannica.net/index.php/Andreas_Smits) [¶](https://www.mathgenealogy.org/id.php?id=133310) [University of Giessen](https://en.wikipedia.org/wiki/University_of_Giessen), [University of Amsterdam](https://en.wikipedia.org/wiki/University_of_Amsterdam)
- + [Johannes Martin Bijvoet (1892 - 1980)](https://en.wikipedia.org/wiki/Johannes_Martin_Bijvoet) [¶](https://www.mathgenealogy.org/id.php?id=133423) [University of Amsterdam](https://en.wikipedia.org/wiki/University_of_Amsterdam) [[47]](#cite_note-47) [[48]](#cite_note-48) « [Wilhelmus Hendrikus Keesom](#WHKeesom) [](File:Bijvoet.jpg) Bijvoet 
+ + [Johannes Martin Bijvoet (1892 - 1980)](https://en.wikipedia.org/wiki/Johannes_Martin_Bijvoet) [¶](https://www.mathgenealogy.org/id.php?id=133423) [University of Amsterdam](https://en.wikipedia.org/wiki/University_of_Amsterdam) <a id="cite-note-47" href="#cite-ref-47">[47]</a> <a id="cite-note-48" href="#cite-ref-48">[48]</a> « [Wilhelmus Hendrikus Keesom](#WHKeesom) [](File:Bijvoet.jpg) Bijvoet 
 		- [Dirk Feil](https://academictree.org/chemistry/peopleinfo.php?pid=51336) [¶](https://www.mathgenealogy.org/id.php?id=133515) [Utrecht University](https://en.wikipedia.org/wiki/Utrecht_University)
 			* [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") [University of Twente](https://en.wikipedia.org/wiki/University_of_Twente), [Maastricht University](Maastricht_University "Maastricht University") » [Touch](Touch "Touch"), [Countermove Heuristic](Countermove_Heuristic "Countermove Heuristic")
 				+ [Dennis Breuker](#DBreuker)
@@ -3794,7 +3794,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 		- [Herbert Beckert (1920 - 2004 )](http://de.wikipedia.org/wiki/Herbert_Beckert) [¶](https://www.mathgenealogy.org/id.php?id=18604) [Leipzig University](https://en.wikipedia.org/wiki/Leipzig_University)
 			* [Gerd Laßner](http://www-irm.mathematik.hu-berlin.de/~pahlisch/Fr-ordentliche-Professoren-DDR.html) [¶](https://www.mathgenealogy.org/id.php?id=25086) [Leipzig University](https://en.wikipedia.org/wiki/Leipzig_University)
 				+ [Klaus-Detlef Kürsten](http://www.math.uni-leipzig.de/~kuersten/index-auto-en.shtml) [¶](https://www.mathgenealogy.org/id.php?id=96724) [Leipzig University](https://en.wikipedia.org/wiki/Leipzig_University)
-					- [Martin Läuter](https://plus.google.com/113952969329495667493/posts) [¶](https://www.mathgenealogy.org/id.php?id=96742) [Leipzig University](https://en.wikipedia.org/wiki/Leipzig_University) » [BitScan - De Bruijn Multiplication](BitScan#DeBruijnMultiplation "BitScan") [[49]](#cite_note-49)
+					- [Martin Läuter](https://plus.google.com/113952969329495667493/posts) [¶](https://www.mathgenealogy.org/id.php?id=96742) [Leipzig University](https://en.wikipedia.org/wiki/Leipzig_University) » [BitScan - De Bruijn Multiplication](BitScan#DeBruijnMultiplation "BitScan") <a id="cite-note-49" href="#cite-ref-49">[49]</a>
 
 
 ### Dehn
@@ -3809,7 +3809,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 		- [Joan Birman (1927)](https://en.wikipedia.org/wiki/Joan_Birman) [¶](https://www.mathgenealogy.org/id.php?id=24360) [New York University](https://en.wikipedia.org/wiki/New_York_University)
 			* [Józef H. Przytycki (1953)](https://en.wikipedia.org/wiki/J%C3%B3zef_H._Przytycki) [¶](https://www.mathgenealogy.org/id.php?id=24562) [Columbia University](Columbia_University "Columbia University")
 	+ [Ruth Moufang (1905 - 1977)](https://en.wikipedia.org/wiki/Ruth_Moufang) [¶](https://www.mathgenealogy.org/id.php?id=34257) [Goethe University Frankfurt](https://en.wikipedia.org/wiki/Goethe_University_Frankfurt)
-	+ [Dorothea Rockburne (1932)](https://en.wikipedia.org/wiki/Dorothea_Rockburne) [Black Mountain College](https://en.wikipedia.org/wiki/Black_Mountain_College) [[50]](#cite_note-50)
+	+ [Dorothea Rockburne (1932)](https://en.wikipedia.org/wiki/Dorothea_Rockburne) [Black Mountain College](https://en.wikipedia.org/wiki/Black_Mountain_College) <a id="cite-note-50" href="#cite-ref-50">[50]</a>
 
 
 ### Kasner
@@ -3839,7 +3839,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 
 
 * [Hans Hahn (1879 - 1934)](https://en.wikipedia.org/wiki/Hans_Hahn_%28mathematician%29) [¶](https://www.mathgenealogy.org/id.php?id=5852) [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna)
- + [Kurt Gödel (1906 - 1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) [¶](https://www.mathgenealogy.org/id.php?id=19539) [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna) [[51]](#cite_note-51) [](File:KurtGoedel.jpg) Gödel 
+ + [Kurt Gödel (1906 - 1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) [¶](https://www.mathgenealogy.org/id.php?id=19539) [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna) <a id="cite-note-51" href="#cite-ref-51">[51]</a> [](File:KurtGoedel.jpg) Gödel 
 	+ [Karl Menger (1902 - 1985)](https://en.wikipedia.org/wiki/Karl_Menger) [¶](https://www.mathgenealogy.org/id.php?id=19427) [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna) » [Taxicab-Distance](Manhattan-Distance "Manhattan-Distance")
 		- [Georg Nöbeling (1907 - 2008)](https://en.wikipedia.org/wiki/Georg_N%C3%B6beling) [¶](https://www.mathgenealogy.org/id.php?id=21683) [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna)
 			* [Gerhard Goos (1937)](http://de.wikipedia.org/wiki/Gerhard_Goos) [¶](https://www.mathgenealogy.org/id.php?id=21664) [University of Erlangen-Nuremberg](https://en.wikipedia.org/wiki/University_of_Erlangen-Nuremberg)
@@ -3881,7 +3881,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 
 
  * [Lipót Fejér (1880 - 1959)](https://en.wikipedia.org/wiki/Lip%C3%B3t_Fej%C3%A9r) [¶](https://www.mathgenealogy.org/id.php?id=7488) [Eötvös Loránd University](https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University) [](File:Leopold_Feyer.jpg) Fejér 
-	+ [Paul Erdős (1913 - 1996)](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) [¶](https://www.mathgenealogy.org/id.php?id=19470) [Eötvös Loránd University](https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University) [[52]](#cite_note-52) » [Mystery Tour Video](Raymond_Smullyan#Video "Raymond Smullyan")
+	+ [Paul Erdős (1913 - 1996)](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) [¶](https://www.mathgenealogy.org/id.php?id=19470) [Eötvös Loránd University](https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University) <a id="cite-note-52" href="#cite-ref-52">[52]</a> » [Mystery Tour Video](Raymond_Smullyan#Video "Raymond Smullyan")
 		- [Béla Bollobás](#Bollobas)
 		- [Joseph Bernard Kruskal](#JBKruskal)
 	+ [Michael Fekete (1886 - 1957)](https://en.wikipedia.org/wiki/Michael_Fekete) [¶](https://www.mathgenealogy.org/id.php?id=37083) [Eötvös Loránd University](https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University)
@@ -3910,7 +3910,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 
 
 * [Oskar Perron (1880 - 1975)](https://en.wikipedia.org/wiki/Oskar_Perron) [¶](https://www.mathgenealogy.org/id.php?id=46877) [University of Munich](https://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich)
-	+ [Josef Heinhold (1912 - 2000](http://www-hm.ma.tum.de/geschichte/) [[53]](#cite_note-53)) [¶](https://www.mathgenealogy.org/id.php?id=21559) [University of Munich](https://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich), [TU Munich](Technical_University_of_Munich "Technical University of Munich")
+	+ [Josef Heinhold (1912 - 2000](http://www-hm.ma.tum.de/geschichte/) <a id="cite-note-53" href="#cite-ref-53">[53]</a>) [¶](https://www.mathgenealogy.org/id.php?id=21559) [University of Munich](https://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich), [TU Munich](Technical_University_of_Munich "Technical University of Munich")
 		- [Ulrich W. Kulisch](http://www.math.kit.edu/ianm2/~kulisch/media/curricengl1.pdf) (pdf) [¶](https://www.mathgenealogy.org/id.php?id=21670) [TU Munich](Technical_University_of_Munich "Technical University of Munich")
 			* [Armin Cremers (1949)](http://de.wikipedia.org/wiki/Armin_B._Cremers) [¶](https://www.mathgenealogy.org/id.php?id=96841) [Karlsruhe Institute of Technology](https://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Technology)
 				+ [Hans-Jürgen Appelrath (1952 - 2016)](Hans-J%C3%BCrgen_Appelrath "Hans-Jürgen Appelrath") [¶](https://www.mathgenealogy.org/id.php?id=72829) [University of Dortmund](University_of_Dortmund "University of Dortmund"), [University of Oldenburg](https://en.wikipedia.org/wiki/University_of_Oldenburg) » [Proscha](Proscha "Proscha")
@@ -4040,7 +4040,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 	+ [Lasar Lyusternik (1899 - 1981)](https://en.wikipedia.org/wiki/Lazar_Lyusternik) [¶](https://www.mathgenealogy.org/id.php?id=59649) [Moscow State University](Moscow_State_University "Moscow State University")
 		- [Mark Vishik (1921 - 2012)](https://en.wikipedia.org/wiki/Mark_Vishik) [¶](https://www.mathgenealogy.org/id.php?id=62885) [Moscow State University](Moscow_State_University "Moscow State University")
 	+ [Alexey Andreevich Lyapunov (1911 - 1973)](https://en.wikipedia.org/wiki/Alexey_Lyapunov) [¶](https://www.mathgenealogy.org/id.php?id=55572) [Steklov Institute of Mathematics](https://en.wikipedia.org/wiki/Steklov_Institute_of_Mathematics), [Moscow State University](Moscow_State_University "Moscow State University") « [Pyotr Novikov](#PNovikov)
- - [Andrey Ershov (1931 - 1988)](https://en.wikipedia.org/wiki/Andrey_Ershov) [¶](https://www.mathgenealogy.org/id.php?id=56748) [Moscow State University](Moscow_State_University "Moscow State University") [[54]](#cite_note-54) [](File:Ershov.jpg) Ershov 
+ - [Andrey Ershov (1931 - 1988)](https://en.wikipedia.org/wiki/Andrey_Ershov) [¶](https://www.mathgenealogy.org/id.php?id=56748) [Moscow State University](Moscow_State_University "Moscow State University") <a id="cite-note-54" href="#cite-ref-54">[54]</a> [](File:Ershov.jpg) Ershov 
 		- [Oleg Lupanov (1932 - 2006)](https://en.wikipedia.org/wiki/Oleg_Lupanov) [¶](https://www.mathgenealogy.org/id.php?id=56752) [Moscow State University](Moscow_State_University "Moscow State University") « [Sergey Yablonsky](#SYablonsky)
 		- [Sergey Yablonsky](#SYablonsky)
 	+ [Pyotr Novikov (1901 - 1975)](https://en.wikipedia.org/wiki/Pyotr_Novikov) [¶](https://www.mathgenealogy.org/id.php?id=55513) [Moscow State University](Moscow_State_University "Moscow State University")
@@ -4530,7 +4530,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 			* [Gilad Bracha](https://en.wikipedia.org/wiki/Gilad_Bracha) [¶](https://www.mathgenealogy.org/id.php?id=85503) [University of Utah](https://en.wikipedia.org/wiki/University_of_Utah)
 		- [Zohar Manna](#Manna)
 		- [David Parnas (1941)](https://en.wikipedia.org/wiki/David_Parnas) [¶](https://www.mathgenealogy.org/id.php?id=86340) [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-			* [Richard J. (Dick) Lipton](https://en.wikipedia.org/wiki/Richard_J._Lipton) [¶](https://www.mathgenealogy.org/id.php?id=69524) [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [Georgia Institute of Technology](Georgia_Institute_of_Technology "Georgia Institute of Technology") [[55]](#cite_note-55)
+			* [Richard J. (Dick) Lipton](https://en.wikipedia.org/wiki/Richard_J._Lipton) [¶](https://www.mathgenealogy.org/id.php?id=69524) [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [Georgia Institute of Technology](Georgia_Institute_of_Technology "Georgia Institute of Technology") <a id="cite-note-55" href="#cite-ref-55">[55]</a>
 				+ [Avi Wigderson (1956)](https://en.wikipedia.org/wiki/Avi_Wigderson) [¶](https://www.mathgenealogy.org/id.php?id=82100) [Princeton University](https://en.wikipedia.org/wiki/Princeton_University)
 					- [Ran Raz](https://en.wikipedia.org/wiki/Ran_Raz) [¶](https://www.mathgenealogy.org/id.php?id=102217) [Hebrew University of Jerusalem](https://en.wikipedia.org/wiki/Hebrew_University_of_Jerusalem)
 						* [Amir Yehudayoff](https://scholar.google.com/citations?user=FUb-ZJIAAAAJ&hl=en) [¶](https://www.mathgenealogy.org/id.php?id=147611) [Weizmann Institute of Science](https://en.wikipedia.org/wiki/Weizmann_Institute_of_Science)
@@ -4725,7 +4725,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 	+ [Roland Dobrushin (1929 - 1995)](https://en.wikipedia.org/wiki/Roland_Dobrushin) [¶](https://www.mathgenealogy.org/id.php?id=17505) [Moscow State University](Moscow_State_University "Moscow State University")
 		- [Senya Shlosman](https://scholar.google.fr/citations?user=iBeE-XQAAAAJ&hl=en) [¶](https://www.mathgenealogy.org/id.php?id=95826) [Moscow State University](Moscow_State_University "Moscow State University")
 	+ [Israel Gelfand (1913 - 2009)](https://en.wikipedia.org/wiki/Israel_Gelfand) [¶](https://www.mathgenealogy.org/id.php?id=17512) [Moscow State University](Moscow_State_University "Moscow State University")
- - [Georgy Adelson-Velsky (1922 - 2014)](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") [¶](https://www.mathgenealogy.org/id.php?id=173871) [Moscow State University](Moscow_State_University "Moscow State University") [[56]](#cite_note-56) » [ITEP Chess Program](ITEP_Chess_Program "ITEP Chess Program"), [Kaissa](Kaissa "Kaissa") [](File:Adelson-Velsky-G.Moscow-1980.jpg) Adelson-Velsky 
+ - [Georgy Adelson-Velsky (1922 - 2014)](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") [¶](https://www.mathgenealogy.org/id.php?id=173871) [Moscow State University](Moscow_State_University "Moscow State University") <a id="cite-note-56" href="#cite-ref-56">[56]</a> » [ITEP Chess Program](ITEP_Chess_Program "ITEP Chess Program"), [Kaissa](Kaissa "Kaissa") [](File:Adelson-Velsky-G.Moscow-1980.jpg) Adelson-Velsky 
 			* [Mikhail Donskoy (1948 - 2009)](Mikhail_Donskoy "Mikhail Donskoy") [ITEP](Institute_of_Theoretical_and_Experimental_Physics "Institute of Theoretical and Experimental Physics")
 		- [Georgiy Shilov (1917 - 1975)](https://en.wikipedia.org/wiki/Georgiy_Shilov) [¶](https://www.mathgenealogy.org/id.php?id=22253) [Moscow State University](Moscow_State_University "Moscow State University")
 			* [Arkadi Nemirovski (1947)](https://en.wikipedia.org/wiki/Arkadi_Nemirovski) [¶](https://www.mathgenealogy.org/id.php?id=58609) [Moscow State University](Moscow_State_University "Moscow State University")
@@ -5074,7 +5074,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 			* [Karsten Borgwardt](https://scholar.google.com/citations?user=v3JsjMYAAAAJ&hl=en) [¶](https://www.mathgenealogy.org/id.php?id=122424) [University of Munich](https://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich)
 		- [Reinhard Posch (1951)](http://de.wikipedia.org/wiki/Reinhard_Posch) [¶](https://www.mathgenealogy.org/id.php?id=131239) [TU Graz](https://en.wikipedia.org/wiki/Graz_University_of_Technology)
 		- [Emmerich (Emo) Welzl (1958)](https://en.wikipedia.org/wiki/Emo_Welzl) [¶](https://www.mathgenealogy.org/id.php?id=54340) [TU Graz](https://en.wikipedia.org/wiki/Graz_University_of_Technology)
-			* [Michael Hoffmann](http://www.inf.ethz.ch/personal/hoffmann/) [[57]](#cite_note-57) [¶](https://www.mathgenealogy.org/id.php?id=95507) [ETH Zurich](ETH_Zurich "ETH Zurich") « [Erik D. Demaine](#EDemaine)
+			* [Michael Hoffmann](http://www.inf.ethz.ch/personal/hoffmann/) <a id="cite-note-57" href="#cite-ref-57">[57]</a> [¶](https://www.mathgenealogy.org/id.php?id=95507) [ETH Zurich](ETH_Zurich "ETH Zurich") « [Erik D. Demaine](#EDemaine)
 	+ [Wolfgang M. Schmidt (1933)](https://en.wikipedia.org/wiki/Wolfgang_M._Schmidt) [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna), [University of Colorado Boulder](https://en.wikipedia.org/wiki/University_of_Colorado_Boulder)
 	+ [Peter Zinterhof (1944)](https://de.wikipedia.org/wiki/Peter_Zinterhof) [¶](https://www.mathgenealogy.org/id.php?id=60080) [University of Vienna](https://en.wikipedia.org/wiki/University_of_Vienna)
 		- [Peter J. Hellekalek](https://www.uni-salzburg.at/index.php?id=25313) [¶](https://www.mathgenealogy.org/id.php?id=59796) [University of Salzburg](https://en.wikipedia.org/wiki/University_of_Salzburg) » [PRNG](Pseudorandom_Number_Generator "Pseudorandom Number Generator")
@@ -5187,7 +5187,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 * [Henk Lombaers (1920 - 2007)](http://nl.wikipedia.org/wiki/Henk_Lombaers) [¶](https://www.mathgenealogy.org/id.php?id=115778) [TU Delft](Delft_University_of_Technology "Delft University of Technology")
 	+ [Jack P. C. Kleijnen](http://www.tilburguniversity.edu/webwijs/show/?uid=kleijnen) [¶](https://www.mathgenealogy.org/id.php?id=116176) [Tilburg University](Tilburg_University "Tilburg University") « [Machgielis Euwe](#MEuwe)
 	+ [Jaap van den Herik (1947)](Jaap_van_den_Herik "Jaap van den Herik") [¶](https://www.mathgenealogy.org/id.php?id=140413) [TU Delft](Delft_University_of_Technology "Delft University of Technology"), [Leiden University](Leiden_University "Leiden University"), [Maastricht University](Maastricht_University "Maastricht University") « [Adriaan de Groot](#deGroot)
-		- [Donald Francis Beal](Don_Beal "Don Beal") [Queen Mary and Westfield College](Queen_Mary,_University_of_London "Queen Mary, University of London") » [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"), [BCP](BCP "BCP"), [CilkChess](CilkChess "CilkChess") [[58]](#cite_note-58)
+		- [Donald Francis Beal](Don_Beal "Don Beal") [Queen Mary and Westfield College](Queen_Mary,_University_of_London "Queen Mary, University of London") » [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"), [BCP](BCP "BCP"), [CilkChess](CilkChess "CilkChess") <a id="cite-note-58" href="#cite-ref-58">[58]</a>
 		- [Dennis Breuker](Dennis_Breuker "Dennis Breuker") [¶](https://www.mathgenealogy.org/id.php?id=140423) [Maastricht University](Maastricht_University "Maastricht University") « [Jos Uiterwijk](#JUiterwijk) » [Duck](Duck "Duck"), [Transposition Table](Transposition_Table "Transposition Table")
 		- [Jeroen Donkers](Jeroen_Donkers "Jeroen Donkers") [Maastricht University](Maastricht_University "Maastricht University") « [Jos Uiterwijk](#JUiterwijk) » [Opponent Model Search](Opponent_Model_Search "Opponent Model Search")
 		- [Levente Kocsis](Levente_Kocsis "Levente Kocsis") [Maastricht University](Maastricht_University "Maastricht University") « [Jos Uiterwijk](#JUiterwijk) » [UCT](UCT "UCT")
@@ -5299,7 +5299,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 
  * [Saburo Muroga (1925 - 2009)](http://museum.ipsj.or.jp/en/pioneer/muroga.html) [¶](https://www.mathgenealogy.org/id.php?id=42052) [University of Illinois at Urbana-Champaign](University_of_Illinois_at_Urbana-Champaign "University of Illinois at Urbana-Champaign") [](File:Muroga_saburo.jpg) Muroga 
 	+ [Toshihide Ibaraki](Toshihide_Ibaraki "Toshihide Ibaraki") [¶](https://www.mathgenealogy.org/id.php?id=191074) [Kyoto University](https://en.wikipedia.org/wiki/Kyoto_University)
-		- [Hiroshi Nagamochi](http://www-or.amp.i.kyoto-u.ac.jp/members/nag/index-e.html) [¶](https://www.mathgenealogy.org/id.php?id=121011) [Kyoto University](https://en.wikipedia.org/wiki/Kyoto_University) [[59]](#cite_note-59)
+		- [Hiroshi Nagamochi](http://www-or.amp.i.kyoto-u.ac.jp/members/nag/index-e.html) [¶](https://www.mathgenealogy.org/id.php?id=121011) [Kyoto University](https://en.wikipedia.org/wiki/Kyoto_University) <a id="cite-note-59" href="#cite-ref-59">[59]</a>
 			* [Dwi Retnani Poetranto](#Poetranto)
 
 
@@ -5313,9 +5313,9 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 ### R.H. Atkin
 
 
-* [Ronald Harry Atkin (1926)](Ron_Atkin "Ron Atkin") [¶](https://www.mathgenealogy.org/id.php?id=95604) [University of Essex](https://en.wikipedia.org/wiki/University_of_Essex), influenced by [Ludwig Wittgenstein](#LWittgenstein) [[60]](#cite_note-60)
+* [Ronald Harry Atkin (1926)](Ron_Atkin "Ron Atkin") [¶](https://www.mathgenealogy.org/id.php?id=95604) [University of Essex](https://en.wikipedia.org/wiki/University_of_Essex), influenced by [Ludwig Wittgenstein](#LWittgenstein) <a id="cite-note-60" href="#cite-ref-60">[60]</a>
 	+ [Jeffrey H. Johnson](https://open.academia.edu/JHJohnson) [¶](https://www.mathgenealogy.org/id.php?id=37158) [University of Essex](https://en.wikipedia.org/wiki/University_of_Essex), [Open University](https://en.wikipedia.org/wiki/Open_University)
-	+ [Ian H. Witten](Ian_H._Witten "Ian H. Witten") [¶](https://www.mathgenealogy.org/id.php?id=72506) [[61]](#cite_note-61) [University of Essex](https://en.wikipedia.org/wiki/University_of_Essex)
+	+ [Ian H. Witten](Ian_H._Witten "Ian H. Witten") [¶](https://www.mathgenealogy.org/id.php?id=72506) <a id="cite-note-61" href="#cite-ref-61">[61]</a> [University of Essex](https://en.wikipedia.org/wiki/University_of_Essex)
 		- [Craig Nevill-Manning](https://en.wikipedia.org/wiki/Craig_Nevill-Manning) [¶](https://www.mathgenealogy.org/id.php?id=91284) [University of Waikato](https://en.wikipedia.org/wiki/University_of_Waikato)
 
 
@@ -5535,7 +5535,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 ### C. A. R. Hoare
 
 
-* [Charles Antony Richard Hoare (1934)](https://en.wikipedia.org/wiki/Tony_Hoare) [¶](https://www.mathgenealogy.org/id.php?id=45760) [Moscow State University](Moscow_State_University "Moscow State University") [[62]](#cite_note-62), [University of Oxford](https://en.wikipedia.org/wiki/University_of_Oxford)
+* [Charles Antony Richard Hoare (1934)](https://en.wikipedia.org/wiki/Tony_Hoare) [¶](https://www.mathgenealogy.org/id.php?id=45760) [Moscow State University](Moscow_State_University "Moscow State University") <a id="cite-note-62" href="#cite-ref-62">[62]</a>, [University of Oxford](https://en.wikipedia.org/wiki/University_of_Oxford)
 	+ [Stephen D. Brookes](http://www.cs.cmu.edu/~brookes/) [¶](https://www.mathgenealogy.org/id.php?id=40702) [University of Oxford](https://en.wikipedia.org/wiki/University_of_Oxford), [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
 		- [Denis Razuan Dancanet](Denis_Dancanet "Denis Dancanet") [¶](https://www.mathgenealogy.org/id.php?id=40392) [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") » [Tumult](Tumult "Tumult")
 	+ [Cliff Jones (1944)](https://en.wikipedia.org/wiki/Cliff_Jones_%28computer_scientist%29) [¶](https://www.mathgenealogy.org/id.php?id=86794) [University of Oxford](https://en.wikipedia.org/wiki/University_of_Oxford)
@@ -5775,7 +5775,7 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 			* [Aaron Courville](https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en) [¶](https://www.mathgenealogy.org/id.php?id=252136) [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
 				+ [Ian Goodfellow](#IGoodfellow)
 			* [Dean Pomerleau](http://www.ri.cmu.edu/person.html?person_id=241) [¶](https://www.mathgenealogy.org/id.php?id=50387) [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-				+ [Shumeet Baluja](http://research.google.com/pubs/author35.html) [[63]](#cite_note-63) [¶](https://www.mathgenealogy.org/id.php?id=135072) [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") « [Tom Mitchell](#TomMitchell) » [PBIL](Genetic_Programming#PBIL "Genetic Programming")
+				+ [Shumeet Baluja](http://research.google.com/pubs/author35.html) <a id="cite-note-63" href="#cite-ref-63">[63]</a> [¶](https://www.mathgenealogy.org/id.php?id=135072) [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") « [Tom Mitchell](#TomMitchell) » [PBIL](Genetic_Programming#PBIL "Genetic Programming")
 	+ [Robert Aubrey Hearn](#RHearn)
 	+ [William Daniel Hillis (1956)](https://en.wikipedia.org/wiki/W._Daniel_Hillis) [¶](https://www.mathgenealogy.org/id.php?id=61064) [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") « [Marvin Lee Minsky](#Minsky), [Claude Elwood Shannon](#Shannon) » [Connection Machine](Connection_Machine "Connection Machine")
 	+ [Tom Knight](https://en.wikipedia.org/wiki/Tom_Knight_%28scientist%29) [¶](https://www.mathgenealogy.org/id.php?id=61045) [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") » [LISP](index.php?title=LISP&action=edit&redlink=1 "LISP (page does not exist)")
@@ -5974,69 +5974,69 @@ A [genealogy](https://en.wikipedia.org/wiki/Genealogy) [polytree](https://en.wik
 ## References
 
 
-1. [↑](#cite_ref-1) [Euclid](https://en.wikipedia.org/wiki/Euclid) (holding [calipers](https://en.wikipedia.org/wiki/Calipers), Greek mathematician, known as the "founder of [Geometry](https://en.wikipedia.org/wiki/Geometry)", detail from The [School of Athens](https://en.wikipedia.org/wiki/The_School_of_Athens) painting by [Raphael](Category:Raphael "Category:Raphael"). It is not proven that this is Euclid. [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. [↑](#cite_ref-2) [List of ancient Egyptian scribes - Wikipedia](https://en.wikipedia.org/wiki/List_of_ancient_Egyptian_scribes)
-3. [↑](#cite_ref-3) [Chronology of ancient Greek mathematicians - Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_ancient_Greek_mathematicians)
-4. [↑](#cite_ref-4) [Timeline of Ancient Greek mathematicians - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Ancient_Greek_mathematicians)
-5. [↑](#cite_ref-5) [List of Chinese mathematicians - Wikipedia](https://en.wikipedia.org/wiki/List_of_Chinese_mathematicians)
-6. [↑](#cite_ref-6) [List of Indian mathematicians - Wikipedia](https://en.wikipedia.org/wiki/List_of_Indian_mathematicians)
-7. [↑](#cite_ref-7) [Mathematics in medieval Islam - Wikipedia](https://en.wikipedia.org/wiki/Mathematics_in_medieval_Islam)
-8. [↑](#cite_ref-8) [Japanese mathematicians](https://en.wikipedia.org/wiki/Japanese_mathematics#Select_mathematicians)
-9. [↑](#cite_ref-9) [Edo period from Wikipedia](https://en.wikipedia.org/wiki/Edo_period)
-10. [↑](#cite_ref-10) [Joseon from Wikipedia](https://en.wikipedia.org/wiki/Joseon)
-11. [↑](#cite_ref-11) [Hexagonal tortoise problem - Wikipedia](https://en.wikipedia.org/wiki/Hexagonal_tortoise_problem)
-12. [↑](#cite_ref-12) [MacTutor History of Mathematics](http://www-history.mcs.st-andrews.ac.uk/index.html)
-13. [↑](#cite_ref-13) [François Viète from Wikipedia](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Vi%C3%A8te), Influences by [Petrus Ramus](#Ramus)
-14. [↑](#cite_ref-14) [Pierre de Fermat from Wikipedia](https://en.wikipedia.org/wiki/Pierre_de_Fermat), Influences by [François Viète](#Viete)
-15. [↑](#cite_ref-15) [Bernoulli family from Wikipedia](https://en.wikipedia.org/wiki/Bernoulli_family)
-16. [↑](#cite_ref-16) [EinStein würfelt nicht!](EinStein_w%C3%BCrfelt_nicht! "EinStein würfelt nicht!")
-17. [↑](#cite_ref-17) Lomonosov became one of [Wolff’s](#Wolff) personal students while at Marburg, [Mikhail Lomonosov - Education abroad - Wikipedia](https://en.wikipedia.org/wiki/Mikhail_Lomonosov#Education_abroad)
-18. [↑](#cite_ref-18) [An Essay towards solving a Problem in the Doctrine of Chances - Wikipedia](https://en.wikipedia.org/wiki/An_Essay_towards_solving_a_Problem_in_the_Doctrine_of_Chances)
-19. [↑](#cite_ref-19) [Christian Goldbach from Wikipedia](https://en.wikipedia.org/wiki/Christian_Goldbach), Influences by [Leonhard Euler](#Euler), et al.
-20. [↑](#cite_ref-20) Garnier was assistant of Lagrange, advisor unknown
-21. [↑](#cite_ref-21) [Klein bottle from Wikipedia](https://en.wikipedia.org/wiki/Klein_bottle)
-22. [↑](#cite_ref-22) [Mathematicians during the Third Reich and World War II](http://wwwzenger.informatik.tu-muenchen.de/~huckle/mathwar.html)
-23. [↑](#cite_ref-23) [Friedrich Engel (mathematician) from Wikipedia](https://en.wikipedia.org/wiki/Friedrich_Engel_%28mathematician%29), [Felix Klein](#Klein) is Doctoral advisor of [Friedrich Engel](#Engel)
-24. [↑](#cite_ref-24) [W. W. Rouse Ball](#WWRouseBall), [H. S. M. Coxeter](#Coxeter) (**1940, 2010**). *Mathematical Recreations and Essays*. [13th edition, 2010](http://www.amazon.com/Mathematical-Recreations-Essays-Dover-Recreational/dp/0486253570), [Dover Publications](https://en.wikipedia.org/wiki/Dover_Publications)
-25. [↑](#cite_ref-25) [Profiles of Women in Mathematics: The Emmy Noether Lectures](http://www.awm-math.org/noetherbrochure/TOC.html)
-26. [↑](#cite_ref-26) [Noether Lecture from Wikipedia](https://en.wikipedia.org/wiki/Noether_Lecture)
-27. [↑](#cite_ref-27) [Neurotree - Ragnar Granit](https://neurotree.org/beta/peopleinfo.php?pid=1006)
-28. [↑](#cite_ref-28) [Nicolaas de Bruijn](Nicolaas_de_Bruijn "Nicolaas de Bruijn") (**1985**). *In Memoriam T. van Ardenne-Ehrenfest*. [pdf](http://alexandria.tue.nl/repository/freearticles/597575.pdf)
-29. [↑](#cite_ref-29) [The Princeton Mathematics Community in the 1930s (PMC33)](http://www.princeton.edu/~mudd/finding_aids/mathoral/pmc33.htm)
-30. [↑](#cite_ref-30) [Frederick Mosteller](#Mosteller) (**1974**). *Robert R. Bush - Early Career*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), Vol. 11, No. 3 [pdf](http://www.psych.upenn.edu/history/RBush.pdf)
-31. [↑](#cite_ref-31) [Charles Sanders Peirce bibliography - Wikipedia](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce_bibliography)
-32. [↑](#cite_ref-32) [Arthur Walter Burks](#Burks) (**1941**) *The Logical Foundations of the Philosophy of Charles Sanders Peirce*. Ph.D. thesis, [University of Michigan](University_of_Michigan "University of Michigan"), advisor [Cooper Harold Langford](#CHLangford)
-33. [↑](#cite_ref-33) [Charles S. Peirce](#CSPeirce), [Carolyn Eisele](http://www.sciencedirect.com/science/article/pii/0315086082901264) (ed.) (**1976**). *The new elements of mathematics*. Humanities Press, [Atlantic Highlands](https://en.wikipedia.org/wiki/Atlantic_Highlands,_New_Jersey)
-34. [↑](#cite_ref-34) [Arthur Walter Burks](#Burks) (**1978**). *[Review: Charles S. Peirce, The new elements of mathematics](http://projecteuclid.org/DPubS?verb=Display&version=1.0&service=UI&handle=euclid.bams/1183541145&page=record)*. [Bulletin of the American Mathematical Society](https://en.wikipedia.org/wiki/Bulletin_of_the_American_Mathematical_Society), Vol. 84, No. 5
-35. [↑](#cite_ref-35) [Parrondo's paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
-36. [↑](#cite_ref-36) [W. W. Rouse Ball](#WWRouseBall) (**1892, 1905**). *Mathematical Recreations and Essays*. [4th edition 1905](http://www.gutenberg.org/ebooks/26839), [Macmillan](https://en.wikipedia.org/wiki/Macmillan_Publishers)
-37. [↑](#cite_ref-37) [Fermat's Last Theorem - Wikipedia](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
-38. [↑](#cite_ref-38) [Wiles' proof of Fermat's Last Theorem - Wikipedia](https://en.wikipedia.org/wiki/Wiles%27_proof_of_Fermat%27s_Last_Theorem)
-39. [↑](#cite_ref-39) "Houston entered the graduate school at the University of Chicago, where he obtained a master's degree, having taken courses with R.A. Millikan and A.A. Michelson... He returned to Ohio State for his Ph.D. degree, which he received in 1925 for work in spectroscopy under the direction of Professor A.D. Cole" in *[William Vermillion Houston (1900 - 1968)](http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/houston-william.pdf)* - [National Academy of Sciences](https://en.wikipedia.org/wiki/National_Academy_of_Sciences) A Biographical Memoir by [Kenneth S. Pitzer](https://en.wikipedia.org/wiki/Kenneth_Pitzer) and [Harold E. Rorschach, Jr.](http://www.physics.rice.edu/Content.aspx?id=86) (pdf) pp. 127-128
-40. [↑](#cite_ref-40) [Experimental and theoretical studies of the breadth and structure of the Compton shifted line - CaltechTHESIS](http://thesis.library.caltech.edu/904/)
-41. [↑](#cite_ref-41) [Sonia Aissa, Short Biography](http://wireless.emt.inrs.ca/Bio.html)
-42. [↑](#cite_ref-42) [Sonia Aissa, Short Biography](http://wireless.emt.inrs.ca/Bio.html)
-43. [↑](#cite_ref-43) [Claude Berge was not only a celebrated mathematician, but also sculptor, collector and expert on primitive art,founding member of the literary group Oulipo, and inveterate Hex and chess player](http://www.ecp6.jussieu.fr/GT04/Berge/Berge.html)
-44. [↑](#cite_ref-44) [Huffman coding from Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
-45. [↑](#cite_ref-45) [Dénes Konig](#DenesKoenig) (**1927**). *[Über eine Schlussweise aus dem Endlichen ins Unendliche](http://acta.fyx.hu/acta/showCustomerArticle.action?id=5131&dataObjectType=article&returnAction=showCustomerVolume&sessionDataSetId=2b29ea26fa2c9ba)*. [Acta Scientiarum Mathematicarum](http://acta.fyx.hu/acta/home.action?noDataSet=true) [University of Szeged](https://en.wikipedia.org/wiki/University_of_Szeged)
-46. [↑](#cite_ref-46) [Paul Stein](Paul_Stein "Paul Stein") (**1982**). *[Bernd Matthias - A Personal Memoir](http://la-science.lanl.gov/cat_history.shtml)*. [Los Alamos Science](http://la-science.lanl.gov/), No. 4
-47. [↑](#cite_ref-47) [Obituary Johannes Martin Bijvoet 23 January 1892 - 4 March 1980](http://journals.iucr.org/a/issues/1980/06/00/a18454/a18454.pdf) (pdf) by [Caroline H. Macgillavry](http://www.goodreads.com/author/show/2891393.Caroline_H_Macgillavry), A. F. Peerdeman
-48. [↑](#cite_ref-48) [Absolute configuration from Wikipedia](https://en.wikipedia.org/wiki/Absolute_configuration)
-49. [↑](#cite_ref-49) [Donald Knuth](Donald_Knuth "Donald Knuth") (**2009**). *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, as [Pre-Fascicle 1a postscript](http://www-cs-faculty.stanford.edu/%7Eknuth/fasc1a.ps.gz), p 10
-50. [↑](#cite_ref-50) [Dorothea Rockburne and Max Dehn at Black Mountain College (pdf)](https://www.ams.org/journals/notices/201711/rnoti-p1313.pdf)
-51. [↑](#cite_ref-51) [The Gödel Letter](http://rjlipton.wordpress.com/the-gdel-letter/), March 20, 1956, from [Gödel's Lost Letter and P=NP](http://rjlipton.wordpress.com/) by [Dick Lipton](#RJLipton) and [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan")
-52. [↑](#cite_ref-52) [Erdos number from Wikipedia](https://en.wikipedia.org/wiki/Erd%C5%91s_number)
-53. [↑](#cite_ref-53) [Deutsche Mathematiker-Vereinigung - Kurzbiographien - H (HAA - HEN)](https://dmv.mathematik.de/die-dmv/105-kurzbiographien/369-kurzbiographien-h-haa-hen.html)
-54. [↑](#cite_ref-54) [Academician Andrei Ershov's Archive](http://ershov.iis.nsk.su/english/index.html)
-55. [↑](#cite_ref-55) [Gödel's Lost Letter and P=NP](http://rjlipton.wordpress.com/) by [Dick Lipton](#RJLipton) and [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan")
-56. [↑](#cite_ref-56) [Interview with Georgy Adelson-Velsky](http://dynkincollection.library.cornell.edu/sites/default/files/Adelson-Velsky%28Eng%29%20-D.pdf) (pdf) by [Eugene Dynkin](#Dynkin), Moscow, September 1, 1990
-57. [↑](#cite_ref-57) Could it be he is a [chess programmer](Michael_Hoffmann "Michael Hoffmann")?
-58. [↑](#cite_ref-58) [Don Beal](Don_Beal "Don Beal") (**1999**). *The Nature of MINIMAX Search*. Ph.D. thesis, IKAT, ISBN 90-62-16-6348
-59. [↑](#cite_ref-59) [Hiroshi Nagamochi](#HNagamochi) (**1988**). *[Studies on Multicommodity Flows in Directed Networks](http://www-or.amp.i.kyoto-u.ac.jp/members/nag/paper/paper.html)*. Ph.D. thesis, [Kyoto University](https://en.wikipedia.org/wiki/Kyoto_University), supervisor [Toshiharu Hasegawa](http://en.kcg.edu/faculty/professors/t_hasegawa.html), guidance [Toshihide Ibaraki](Toshihide_Ibaraki "Toshihide Ibaraki")
-60. [↑](#cite_ref-60) [Mathematical Structure in the Human Sciences - March 29-30, 1977, The Pennsylvania State University](https://saltworks.stanford.edu/assets/mp024sp4265.pdf) (pdf) conference proposal by [Waldo R. Tobler](https://en.wikipedia.org/wiki/Waldo_R._Tobler), [University of Michigan](University_of_Michigan "University of Michigan"), October 04, 1976
-61. [↑](#cite_ref-61) [Ian H. Witten](http://www.cs.waikato.ac.nz/~ihw/index.html)
-62. [↑](#cite_ref-62) [Tony Hoare from Wikipedia](https://en.wikipedia.org/wiki/Tony_Hoare), Influences by [Andrey Kolmogorov](#Kolmogorov)
-63. [↑](#cite_ref-63) [Shumeet Baluja, Ph.D - Curriculum Vitae](http://www.esprockets.com/academic/cv.pdf) (pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Euclid](https://en.wikipedia.org/wiki/Euclid) (holding [calipers](https://en.wikipedia.org/wiki/Calipers), Greek mathematician, known as the "founder of [Geometry](https://en.wikipedia.org/wiki/Geometry)", detail from The [School of Athens](https://en.wikipedia.org/wiki/The_School_of_Athens) painting by [Raphael](Category:Raphael "Category:Raphael"). It is not proven that this is Euclid. [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [List of ancient Egyptian scribes - Wikipedia](https://en.wikipedia.org/wiki/List_of_ancient_Egyptian_scribes)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Chronology of ancient Greek mathematicians - Wikipedia](https://en.wikipedia.org/wiki/Chronology_of_ancient_Greek_mathematicians)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Timeline of Ancient Greek mathematicians - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Ancient_Greek_mathematicians)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [List of Chinese mathematicians - Wikipedia](https://en.wikipedia.org/wiki/List_of_Chinese_mathematicians)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [List of Indian mathematicians - Wikipedia](https://en.wikipedia.org/wiki/List_of_Indian_mathematicians)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Mathematics in medieval Islam - Wikipedia](https://en.wikipedia.org/wiki/Mathematics_in_medieval_Islam)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Japanese mathematicians](https://en.wikipedia.org/wiki/Japanese_mathematics#Select_mathematicians)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Edo period from Wikipedia](https://en.wikipedia.org/wiki/Edo_period)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Joseon from Wikipedia](https://en.wikipedia.org/wiki/Joseon)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Hexagonal tortoise problem - Wikipedia](https://en.wikipedia.org/wiki/Hexagonal_tortoise_problem)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [MacTutor History of Mathematics](http://www-history.mcs.st-andrews.ac.uk/index.html)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [François Viète from Wikipedia](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Vi%C3%A8te), Influences by [Petrus Ramus](#Ramus)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Pierre de Fermat from Wikipedia](https://en.wikipedia.org/wiki/Pierre_de_Fermat), Influences by [François Viète](#Viete)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Bernoulli family from Wikipedia](https://en.wikipedia.org/wiki/Bernoulli_family)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [EinStein würfelt nicht!](EinStein_w%C3%BCrfelt_nicht! "EinStein würfelt nicht!")
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> Lomonosov became one of [Wolff’s](#Wolff) personal students while at Marburg, [Mikhail Lomonosov - Education abroad - Wikipedia](https://en.wikipedia.org/wiki/Mikhail_Lomonosov#Education_abroad)
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [An Essay towards solving a Problem in the Doctrine of Chances - Wikipedia](https://en.wikipedia.org/wiki/An_Essay_towards_solving_a_Problem_in_the_Doctrine_of_Chances)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Christian Goldbach from Wikipedia](https://en.wikipedia.org/wiki/Christian_Goldbach), Influences by [Leonhard Euler](#Euler), et al.
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> Garnier was assistant of Lagrange, advisor unknown
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Klein bottle from Wikipedia](https://en.wikipedia.org/wiki/Klein_bottle)
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Mathematicians during the Third Reich and World War II](http://wwwzenger.informatik.tu-muenchen.de/~huckle/mathwar.html)
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Friedrich Engel (mathematician) from Wikipedia](https://en.wikipedia.org/wiki/Friedrich_Engel_%28mathematician%29), [Felix Klein](#Klein) is Doctoral advisor of [Friedrich Engel](#Engel)
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [W. W. Rouse Ball](#WWRouseBall), [H. S. M. Coxeter](#Coxeter) (**1940, 2010**). *Mathematical Recreations and Essays*. [13th edition, 2010](http://www.amazon.com/Mathematical-Recreations-Essays-Dover-Recreational/dp/0486253570), [Dover Publications](https://en.wikipedia.org/wiki/Dover_Publications)
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Profiles of Women in Mathematics: The Emmy Noether Lectures](http://www.awm-math.org/noetherbrochure/TOC.html)
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Noether Lecture from Wikipedia](https://en.wikipedia.org/wiki/Noether_Lecture)
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [Neurotree - Ragnar Granit](https://neurotree.org/beta/peopleinfo.php?pid=1006)
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Nicolaas de Bruijn](Nicolaas_de_Bruijn "Nicolaas de Bruijn") (**1985**). *In Memoriam T. van Ardenne-Ehrenfest*. [pdf](http://alexandria.tue.nl/repository/freearticles/597575.pdf)
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [The Princeton Mathematics Community in the 1930s (PMC33)](http://www.princeton.edu/~mudd/finding_aids/mathoral/pmc33.htm)
+30. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Frederick Mosteller](#Mosteller) (**1974**). *Robert R. Bush - Early Career*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), Vol. 11, No. 3 [pdf](http://www.psych.upenn.edu/history/RBush.pdf)
+31. <a id="cite-ref-31" href="#cite-note-31">↑</a> [Charles Sanders Peirce bibliography - Wikipedia](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce_bibliography)
+32. <a id="cite-ref-32" href="#cite-note-32">↑</a> [Arthur Walter Burks](#Burks) (**1941**) *The Logical Foundations of the Philosophy of Charles Sanders Peirce*. Ph.D. thesis, [University of Michigan](University_of_Michigan "University of Michigan"), advisor [Cooper Harold Langford](#CHLangford)
+33. <a id="cite-ref-33" href="#cite-note-33">↑</a> [Charles S. Peirce](#CSPeirce), [Carolyn Eisele](http://www.sciencedirect.com/science/article/pii/0315086082901264) (ed.) (**1976**). *The new elements of mathematics*. Humanities Press, [Atlantic Highlands](https://en.wikipedia.org/wiki/Atlantic_Highlands,_New_Jersey)
+34. <a id="cite-ref-34" href="#cite-note-34">↑</a> [Arthur Walter Burks](#Burks) (**1978**). *[Review: Charles S. Peirce, The new elements of mathematics](http://projecteuclid.org/DPubS?verb=Display&version=1.0&service=UI&handle=euclid.bams/1183541145&page=record)*. [Bulletin of the American Mathematical Society](https://en.wikipedia.org/wiki/Bulletin_of_the_American_Mathematical_Society), Vol. 84, No. 5
+35. <a id="cite-ref-35" href="#cite-note-35">↑</a> [Parrondo's paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
+36. <a id="cite-ref-36" href="#cite-note-36">↑</a> [W. W. Rouse Ball](#WWRouseBall) (**1892, 1905**). *Mathematical Recreations and Essays*. [4th edition 1905](http://www.gutenberg.org/ebooks/26839), [Macmillan](https://en.wikipedia.org/wiki/Macmillan_Publishers)
+37. <a id="cite-ref-37" href="#cite-note-37">↑</a> [Fermat's Last Theorem - Wikipedia](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
+38. <a id="cite-ref-38" href="#cite-note-38">↑</a> [Wiles' proof of Fermat's Last Theorem - Wikipedia](https://en.wikipedia.org/wiki/Wiles%27_proof_of_Fermat%27s_Last_Theorem)
+39. <a id="cite-ref-39" href="#cite-note-39">↑</a> "Houston entered the graduate school at the University of Chicago, where he obtained a master's degree, having taken courses with R.A. Millikan and A.A. Michelson... He returned to Ohio State for his Ph.D. degree, which he received in 1925 for work in spectroscopy under the direction of Professor A.D. Cole" in *[William Vermillion Houston (1900 - 1968)](http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/houston-william.pdf)* - [National Academy of Sciences](https://en.wikipedia.org/wiki/National_Academy_of_Sciences) A Biographical Memoir by [Kenneth S. Pitzer](https://en.wikipedia.org/wiki/Kenneth_Pitzer) and [Harold E. Rorschach, Jr.](http://www.physics.rice.edu/Content.aspx?id=86) (pdf) pp. 127-128
+40. <a id="cite-ref-40" href="#cite-note-40">↑</a> [Experimental and theoretical studies of the breadth and structure of the Compton shifted line - CaltechTHESIS](http://thesis.library.caltech.edu/904/)
+41. <a id="cite-ref-41" href="#cite-note-41">↑</a> [Sonia Aissa, Short Biography](http://wireless.emt.inrs.ca/Bio.html)
+42. <a id="cite-ref-42" href="#cite-note-42">↑</a> [Sonia Aissa, Short Biography](http://wireless.emt.inrs.ca/Bio.html)
+43. <a id="cite-ref-43" href="#cite-note-43">↑</a> [Claude Berge was not only a celebrated mathematician, but also sculptor, collector and expert on primitive art,founding member of the literary group Oulipo, and inveterate Hex and chess player](http://www.ecp6.jussieu.fr/GT04/Berge/Berge.html)
+44. <a id="cite-ref-44" href="#cite-note-44">↑</a> [Huffman coding from Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
+45. <a id="cite-ref-45" href="#cite-note-45">↑</a> [Dénes Konig](#DenesKoenig) (**1927**). *[Über eine Schlussweise aus dem Endlichen ins Unendliche](http://acta.fyx.hu/acta/showCustomerArticle.action?id=5131&dataObjectType=article&returnAction=showCustomerVolume&sessionDataSetId=2b29ea26fa2c9ba)*. [Acta Scientiarum Mathematicarum](http://acta.fyx.hu/acta/home.action?noDataSet=true) [University of Szeged](https://en.wikipedia.org/wiki/University_of_Szeged)
+46. <a id="cite-ref-46" href="#cite-note-46">↑</a> [Paul Stein](Paul_Stein "Paul Stein") (**1982**). *[Bernd Matthias - A Personal Memoir](http://la-science.lanl.gov/cat_history.shtml)*. [Los Alamos Science](http://la-science.lanl.gov/), No. 4
+47. <a id="cite-ref-47" href="#cite-note-47">↑</a> [Obituary Johannes Martin Bijvoet 23 January 1892 - 4 March 1980](http://journals.iucr.org/a/issues/1980/06/00/a18454/a18454.pdf) (pdf) by [Caroline H. Macgillavry](http://www.goodreads.com/author/show/2891393.Caroline_H_Macgillavry), A. F. Peerdeman
+48. <a id="cite-ref-48" href="#cite-note-48">↑</a> [Absolute configuration from Wikipedia](https://en.wikipedia.org/wiki/Absolute_configuration)
+49. <a id="cite-ref-49" href="#cite-note-49">↑</a> [Donald Knuth](Donald_Knuth "Donald Knuth") (**2009**). *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, as [Pre-Fascicle 1a postscript](http://www-cs-faculty.stanford.edu/%7Eknuth/fasc1a.ps.gz), p 10
+50. <a id="cite-ref-50" href="#cite-note-50">↑</a> [Dorothea Rockburne and Max Dehn at Black Mountain College (pdf)](https://www.ams.org/journals/notices/201711/rnoti-p1313.pdf)
+51. <a id="cite-ref-51" href="#cite-note-51">↑</a> [The Gödel Letter](http://rjlipton.wordpress.com/the-gdel-letter/), March 20, 1956, from [Gödel's Lost Letter and P=NP](http://rjlipton.wordpress.com/) by [Dick Lipton](#RJLipton) and [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan")
+52. <a id="cite-ref-52" href="#cite-note-52">↑</a> [Erdos number from Wikipedia](https://en.wikipedia.org/wiki/Erd%C5%91s_number)
+53. <a id="cite-ref-53" href="#cite-note-53">↑</a> [Deutsche Mathematiker-Vereinigung - Kurzbiographien - H (HAA - HEN)](https://dmv.mathematik.de/die-dmv/105-kurzbiographien/369-kurzbiographien-h-haa-hen.html)
+54. <a id="cite-ref-54" href="#cite-note-54">↑</a> [Academician Andrei Ershov's Archive](http://ershov.iis.nsk.su/english/index.html)
+55. <a id="cite-ref-55" href="#cite-note-55">↑</a> [Gödel's Lost Letter and P=NP](http://rjlipton.wordpress.com/) by [Dick Lipton](#RJLipton) and [Ken Regan](Kenneth_W._Regan "Kenneth W. Regan")
+56. <a id="cite-ref-56" href="#cite-note-56">↑</a> [Interview with Georgy Adelson-Velsky](http://dynkincollection.library.cornell.edu/sites/default/files/Adelson-Velsky%28Eng%29%20-D.pdf) (pdf) by [Eugene Dynkin](#Dynkin), Moscow, September 1, 1990
+57. <a id="cite-ref-57" href="#cite-note-57">↑</a> Could it be he is a [chess programmer](Michael_Hoffmann "Michael Hoffmann")?
+58. <a id="cite-ref-58" href="#cite-note-58">↑</a> [Don Beal](Don_Beal "Don Beal") (**1999**). *The Nature of MINIMAX Search*. Ph.D. thesis, IKAT, ISBN 90-62-16-6348
+59. <a id="cite-ref-59" href="#cite-note-59">↑</a> [Hiroshi Nagamochi](#HNagamochi) (**1988**). *[Studies on Multicommodity Flows in Directed Networks](http://www-or.amp.i.kyoto-u.ac.jp/members/nag/paper/paper.html)*. Ph.D. thesis, [Kyoto University](https://en.wikipedia.org/wiki/Kyoto_University), supervisor [Toshiharu Hasegawa](http://en.kcg.edu/faculty/professors/t_hasegawa.html), guidance [Toshihide Ibaraki](Toshihide_Ibaraki "Toshihide Ibaraki")
+60. <a id="cite-ref-60" href="#cite-note-60">↑</a> [Mathematical Structure in the Human Sciences - March 29-30, 1977, The Pennsylvania State University](https://saltworks.stanford.edu/assets/mp024sp4265.pdf) (pdf) conference proposal by [Waldo R. Tobler](https://en.wikipedia.org/wiki/Waldo_R._Tobler), [University of Michigan](University_of_Michigan "University of Michigan"), October 04, 1976
+61. <a id="cite-ref-61" href="#cite-note-61">↑</a> [Ian H. Witten](http://www.cs.waikato.ac.nz/~ihw/index.html)
+62. <a id="cite-ref-62" href="#cite-note-62">↑</a> [Tony Hoare from Wikipedia](https://en.wikipedia.org/wiki/Tony_Hoare), Influences by [Andrey Kolmogorov](#Kolmogorov)
+63. <a id="cite-ref-63" href="#cite-note-63">↑</a> [Shumeet Baluja, Ph.D - Curriculum Vitae](http://www.esprockets.com/academic/cv.pdf) (pdf)
 
 **[Up one level](People "People")**
 

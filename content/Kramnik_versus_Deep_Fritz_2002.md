@@ -5,25 +5,25 @@ title: Kramnik versus Deep Fritz 2002
 
 
 
- [](File:Vladimir_Kramnik_barein.jpg) Brains in Bahrain [[1]](#cite_note-1) 
+ [](File:Vladimir_Kramnik_barein.jpg) Brains in Bahrain <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Kramnik versus Deep Fritz**,  
 
-a match between [Classical World Chess Champion](https://en.wikipedia.org/wiki/Classical_World_Chess_Championship_2000) [Vladimir Kramnik](index.php?title=Vladimir_Kramnik&action=edit&redlink=1 "Vladimir Kramnik (page does not exist)") and one of the world's top rated chess programs at that time, [Deep Fritz 7](Fritz "Fritz") by [ChessBase](ChessBase "ChessBase") [[2]](#cite_note-2), held in [Manama](https://en.wikipedia.org/wiki/Manama), [Bahrain](https://en.wikipedia.org/wiki/Bahrain), October 4-19, [2002](Timeline#2002 "Timeline"). It was organized by the *General Organization of Youth and Sports in Bahrain*, held under the [patronage](https://en.wikipedia.org/wiki/Patronage) of the [King of Bahrain](https://en.wikipedia.org/wiki/King_of_Bahrain), [His Majesty](https://en.wikipedia.org/wiki/Majesty) [Sheikh](https://en.wikipedia.org/wiki/Sheikh) [Hamad bin Isa Al Khalifa](https://en.wikipedia.org/wiki/Hamad_bin_Isa_Al_Khalifa) [[3]](#cite_note-3). Dubbed as [Brains in Bahrain](https://en.wikipedia.org/wiki/Brains_in_Bahrain), the eight game match ended in a 4-4 tie with two wins each and four draws. It was not sanctioned by [ICGA](ICGA "ICGA") or [FIDE](FIDE "FIDE") as *Man vs. Machine World Championship* - opposed to the upcoming [Kasparov versus Deep Junior 2003](Kasparov_versus_Deep_Junior_2003 "Kasparov versus Deep Junior 2003") match.
-The Fritz team was represented by primary author [Frans Morsch](Frans_Morsch "Frans Morsch"), by co-author and operator [Mathias Feist](Mathias_Feist "Mathias Feist"), and by book author [Alex Kure](Alex_Kure "Alex Kure"). Kramnik was supported by his seconds [Christopher Lutz](Christopher_Lutz "Christopher Lutz") and Tigran Nalbandjan [[4]](#cite_note-4) [[5]](#cite_note-5). The hardware used by Fritz was an eight-processor [Compaq](https://en.wikipedia.org/wiki/Compaq) machine [[6]](#cite_note-6) at 900 MHz, able to run Fritz at a speed around 3.5 [Mn/sec](Nodes_per_Second "Nodes per Second") [[7]](#cite_note-7).
+a match between [Classical World Chess Champion](https://en.wikipedia.org/wiki/Classical_World_Chess_Championship_2000) [Vladimir Kramnik](index.php?title=Vladimir_Kramnik&action=edit&redlink=1 "Vladimir Kramnik (page does not exist)") and one of the world's top rated chess programs at that time, [Deep Fritz 7](Fritz "Fritz") by [ChessBase](ChessBase "ChessBase") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, held in [Manama](https://en.wikipedia.org/wiki/Manama), [Bahrain](https://en.wikipedia.org/wiki/Bahrain), October 4-19, [2002](Timeline#2002 "Timeline"). It was organized by the *General Organization of Youth and Sports in Bahrain*, held under the [patronage](https://en.wikipedia.org/wiki/Patronage) of the [King of Bahrain](https://en.wikipedia.org/wiki/King_of_Bahrain), [His Majesty](https://en.wikipedia.org/wiki/Majesty) [Sheikh](https://en.wikipedia.org/wiki/Sheikh) [Hamad bin Isa Al Khalifa](https://en.wikipedia.org/wiki/Hamad_bin_Isa_Al_Khalifa) <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Dubbed as [Brains in Bahrain](https://en.wikipedia.org/wiki/Brains_in_Bahrain), the eight game match ended in a 4-4 tie with two wins each and four draws. It was not sanctioned by [ICGA](ICGA "ICGA") or [FIDE](FIDE "FIDE") as *Man vs. Machine World Championship* - opposed to the upcoming [Kasparov versus Deep Junior 2003](Kasparov_versus_Deep_Junior_2003 "Kasparov versus Deep Junior 2003") match.
+The Fritz team was represented by primary author [Frans Morsch](Frans_Morsch "Frans Morsch"), by co-author and operator [Mathias Feist](Mathias_Feist "Mathias Feist"), and by book author [Alex Kure](Alex_Kure "Alex Kure"). Kramnik was supported by his seconds [Christopher Lutz](Christopher_Lutz "Christopher Lutz") and Tigran Nalbandjan <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>. The hardware used by Fritz was an eight-processor [Compaq](https://en.wikipedia.org/wiki/Compaq) machine <a id="cite-note-6" href="#cite-ref-6">[6]</a> at 900 MHz, able to run Fritz at a speed around 3.5 [Mn/sec](Nodes_per_Second "Nodes per Second") <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
 
 
 ## Prologue
 
 
-The match, initially scheduled for October 2001, but postponed due to the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks) [[12]](#cite_note-12), was promoted by *[Brain Games Network](https://en.wikipedia.org/wiki/Raymond_Keene#Brain_Games)*, who already organized the 2000 [Braingames World Chess Championships](https://en.wikipedia.org/wiki/Classical_World_Chess_Championship_2000) between [Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) and Kramnik. [Raymond Keene](https://en.wikipedia.org/wiki/Raymond_Keene) was appointed Match Director, [Enrique Irazoqui](Enrique_Irazoqui "Enrique Irazoqui") and [Eric Schiller](Eric_Schiller "Eric Schiller") disignated arbiters [[13]](#cite_note-13). In January 2002, the *Einstein Group PLC* took over the rights for the Man vs Machine event in Bahrain [[14]](#cite_note-14), they hired [Malcolm Pein](https://en.wikipedia.org/wiki/Malcolm_Pein) to take on the role previously occupied by Keene, with Schiller's participation vetoed by [ChessBase](ChessBase "ChessBase") [[15]](#cite_note-15).
+The match, initially scheduled for October 2001, but postponed due to the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks) <a id="cite-note-12" href="#cite-ref-12">[12]</a>, was promoted by *[Brain Games Network](https://en.wikipedia.org/wiki/Raymond_Keene#Brain_Games)*, who already organized the 2000 [Braingames World Chess Championships](https://en.wikipedia.org/wiki/Classical_World_Chess_Championship_2000) between [Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov) and Kramnik. [Raymond Keene](https://en.wikipedia.org/wiki/Raymond_Keene) was appointed Match Director, [Enrique Irazoqui](Enrique_Irazoqui "Enrique Irazoqui") and [Eric Schiller](Eric_Schiller "Eric Schiller") disignated arbiters <a id="cite-note-13" href="#cite-ref-13">[13]</a>. In January 2002, the *Einstein Group PLC* took over the rights for the Man vs Machine event in Bahrain <a id="cite-note-14" href="#cite-ref-14">[14]</a>, they hired [Malcolm Pein](https://en.wikipedia.org/wiki/Malcolm_Pein) to take on the role previously occupied by Keene, with Schiller's participation vetoed by [ChessBase](ChessBase "ChessBase") <a id="cite-note-15" href="#cite-ref-15">[15]</a>.
 
 
 
 ## Computer Qualifier
 
 
-When negotiations for a Kramnik versus computer match commenced in October 2000, the obvious computer opponent was [Shredder](Shredder "Shredder"), the reigning [World Computer Chess Champion](WCCC_1999 "WCCC 1999") [[16]](#cite_note-16). But *Brain Games Network* decided instead to hold a qualifying event to which many of the world's strongest programs were not invited, provoking outrage in computer chess forums on the internet [[17]](#cite_note-17). The qualifying event, held in [Cadaqués](https://en.wikipedia.org/wiki/Cadaqu%C3%A9s), Spain, was a 24-game match between Fritz and [Junior](Junior "Junior"). The qualifying match itself provoked surprise in the computer chess community, with doubts about how Junior's early 5-0 lead, which it sustained until after the 14th game completely eroded during the next 10 games, thereby causing a tied match and a play-off that was won by Fritz [[18]](#cite_note-18) [[19]](#cite_note-19).
+When negotiations for a Kramnik versus computer match commenced in October 2000, the obvious computer opponent was [Shredder](Shredder "Shredder"), the reigning [World Computer Chess Champion](WCCC_1999 "WCCC 1999") <a id="cite-note-16" href="#cite-ref-16">[16]</a>. But *Brain Games Network* decided instead to hold a qualifying event to which many of the world's strongest programs were not invited, provoking outrage in computer chess forums on the internet <a id="cite-note-17" href="#cite-ref-17">[17]</a>. The qualifying event, held in [Cadaqués](https://en.wikipedia.org/wiki/Cadaqu%C3%A9s), Spain, was a 24-game match between Fritz and [Junior](Junior "Junior"). The qualifying match itself provoked surprise in the computer chess community, with doubts about how Junior's early 5-0 lead, which it sustained until after the 14th game completely eroded during the next 10 games, thereby causing a tied match and a play-off that was won by Fritz <a id="cite-note-18" href="#cite-ref-18">[18]</a> <a id="cite-note-19" href="#cite-ref-19">[19]</a>.
 
 
 
@@ -38,7 +38,7 @@ After the [Kasparov versus Deep Blue 1997](Kasparov_versus_Deep_Blue_1997 "Kaspa
 ## Games
 
 
-[[20]](#cite_note-20)
+<a id="cite-note-20" href="#cite-ref-20">[20]</a>
 
 
 
@@ -414,7 +414,7 @@ Rae8 18.Re5 Bg6 19.a3 Qd8 20.Rxe8 Nxe8 21.Qd2 1/2-1/2
 * [Daily Telegraph - DF7 vs Kramnik](https://groups.google.com/g/rec.games.chess/c/9tBN58-ztL0/m/eeCVp9javYYJ) by Bruiser Moreland, [rgc](Computer_Chess_Forums "Computer Chess Forums"), August 03, 2001
 * [BrainsinBahrain website replies to Kasparovchess website questions](https://www.stmintz.com/ccc/index.php?id=188372) by Graham Laight, [CCC](CCC "CCC"), September 11, 2001
 * [Eric Schiller about the Cadaques Qualifier](https://www.stmintz.com/ccc/index.php?id=258559) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), October 11, 2002
-* [Kramnik insulted by ChessBase](https://www.stmintz.com/ccc/index.php?id=259590) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), October 16, 2002 [[21]](#cite_note-21)
+* [Kramnik insulted by ChessBase](https://www.stmintz.com/ccc/index.php?id=259590) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), October 16, 2002 <a id="cite-note-21" href="#cite-ref-21">[21]</a>
 * [Congratulations to the Fritz team!](https://www.stmintz.com/ccc/index.php?id=260399) by [Andrew Williams](Andrew_Williams "Andrew Williams"), [CCC](CCC "CCC"), October 19, 2002
 * [Which CPUs was used against Kramnik in 2002 ?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74460) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), July 13, 2020
 
@@ -492,27 +492,27 @@ by [Paul Hoffman](https://en.wikipedia.org/wiki/Paul_Hoffman_%28science_writer%2
 ## References
 
 
-1. [↑](#cite_ref-1) [Kramnik-Deep Fritz match ends in 4-4 draw!](http://www.thechessdrum.net/newsbriefs/2002/NB_BrainGames2.html), [The Chess Drum](http://www.thechessdrum.net/)
-2. [↑](#cite_ref-2) [Getestet und für sehr gut befunden: Deep Fritz 7.0](http://de.chessbase.com/post/getestet-und-fr-sehr-gut-befunden-deep-fritz-7-0), [ChessBase Nachrichten](ChessBase "ChessBase"), October 28, 2002
-3. [↑](#cite_ref-3) [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller") (**2002**). *The Clash of the Titans: Kramnik – Fritz Bahrain*. [ICGA Journal, Vol. 25, No. 4](ICGA_Journal#25_4 "ICGA Journal")
-4. [↑](#cite_ref-4) [Nalbandian, Tigran FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=13300245)
-5. [↑](#cite_ref-5) [Vor zehn Jahren: "Brains in Bahrain"](https://de.chessbase.com/post/vor-zehn-jahren-brains-in-bahrain-), [ChessBase Nachrichten](ChessBase "ChessBase"), October 16, 2012 (German)
-6. [↑](#cite_ref-6) [The Berlin Wall Holds. Short Draw in Game 1](http://en.chessbase.com/post/the-berlin-wall-holds-short-draw-in-game-1-), [ChessBase News](ChessBase "ChessBase"), October 04, 2002
-7. [↑](#cite_ref-7) [Re: Which CPUs was used against Kramnik in 2002 ?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74460&start=3) by Roman Zhukov, [CCC](CCC "CCC"), July 13, 2020
-8. [↑](#cite_ref-8) [Brains in Bahrain from Wikipedia](https://en.wikipedia.org/wiki/Brains_in_Bahrain)
-9. [↑](#cite_ref-9) [Qc4?](https://www.stmintz.com/ccc/index.php?id=258790) by Terje Vagle, [CCC](CCC "CCC"), October 13, 2002
-10. [↑](#cite_ref-10) [Kramnik's sacrifice - game 6](https://www.stmintz.com/ccc/index.php?id=259269) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), October 15, 2002
-11. [↑](#cite_ref-11) [Missed Draw by Kramnik](https://www.stmintz.com/ccc/index.php?id=259655) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CCC](CCC "CCC"), [CCC](CCC "CCC"), October 16, 2002
-12. [↑](#cite_ref-12) [Kramnik vs Deep Fritz schedule](http://en.chessbase.com/post/kramnik-vs-deep-fritz-schedule), [ChessBase News](ChessBase "ChessBase"), January 05, 2002
-13. [↑](#cite_ref-13) [The Week in Chess 7th May 2001 by Mark Crowther (archived) 4.) Brain Games Network announce million dollar computer contract](http://archive.is/92fx)
-14. [↑](#cite_ref-14) [Einstein takes over Brain Games and Kramnik](http://en.chessbase.com/post/einstein-takes-over-brain-games-and-kramnik), [ChessBase News](ChessBase "ChessBase"), January 25, 2002
-15. [↑](#cite_ref-15) [Eric Schiller about the Cadaques Qualifier](https://www.stmintz.com/ccc/index.php?id=258559) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), October 11, 2002
-16. [↑](#cite_ref-16) [Open letter from the ICCA](https://www.stmintz.com/ccc/index.php?id=165291) by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), [CCC](CCC "CCC"), April 22, 2001
-17. [↑](#cite_ref-17) [BrainGames Qualifier, about unfair competition](https://groups.google.com/d/msg/rec.games.chess.computer/CtiuBXSNCrM/9ZpBAcBcN0AJ) by [Ed Schroder](Ed_Schroder "Ed Schroder"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 29, 2001
-18. [↑](#cite_ref-18) [Will humans ever beat computers at chess again?](http://www.theguardian.com/technology/2002/oct/24/games.onlinesupplement2) by [David Levy](David_Levy "David Levy"), [The Guardian](https://en.wikipedia.org/wiki/The_Guardian), October 24, 2002
-19. [↑](#cite_ref-19) [A word from the 'Junior' Team - Cadaques](https://www.stmintz.com/ccc/index.php?id=167217) by [Shay Bushinsky](Shay_Bushinsky "Shay Bushinsky"), [CCC](CCC "CCC"), May 01, 2001
-20. [↑](#cite_ref-20) [Brains in Bahrain (2002)](http://www.chessgames.com/perl/chess.pl?tid=39416) from [chessgames.com](http://www.chessgames.com/index.html)
-21. [↑](#cite_ref-21) [Did Deep Fritz use Shakespeare to heckle the World Champion?](http://en.chessbase.com/post/did-deep-fritz-use-shakespeare-to-heckle-the-world-champion-) [ChessBase News](ChessBase "ChessBase"), October 16, 2002
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Kramnik-Deep Fritz match ends in 4-4 draw!](http://www.thechessdrum.net/newsbriefs/2002/NB_BrainGames2.html), [The Chess Drum](http://www.thechessdrum.net/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Getestet und für sehr gut befunden: Deep Fritz 7.0](http://de.chessbase.com/post/getestet-und-fr-sehr-gut-befunden-deep-fritz-7-0), [ChessBase Nachrichten](ChessBase "ChessBase"), October 28, 2002
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller") (**2002**). *The Clash of the Titans: Kramnik – Fritz Bahrain*. [ICGA Journal, Vol. 25, No. 4](ICGA_Journal#25_4 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nalbandian, Tigran FIDE Chess Profile](http://ratings.fide.com/card.phtml?event=13300245)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Vor zehn Jahren: "Brains in Bahrain"](https://de.chessbase.com/post/vor-zehn-jahren-brains-in-bahrain-), [ChessBase Nachrichten](ChessBase "ChessBase"), October 16, 2012 (German)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [The Berlin Wall Holds. Short Draw in Game 1](http://en.chessbase.com/post/the-berlin-wall-holds-short-draw-in-game-1-), [ChessBase News](ChessBase "ChessBase"), October 04, 2002
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Which CPUs was used against Kramnik in 2002 ?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74460&start=3) by Roman Zhukov, [CCC](CCC "CCC"), July 13, 2020
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Brains in Bahrain from Wikipedia](https://en.wikipedia.org/wiki/Brains_in_Bahrain)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Qc4?](https://www.stmintz.com/ccc/index.php?id=258790) by Terje Vagle, [CCC](CCC "CCC"), October 13, 2002
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Kramnik's sacrifice - game 6](https://www.stmintz.com/ccc/index.php?id=259269) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), October 15, 2002
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Missed Draw by Kramnik](https://www.stmintz.com/ccc/index.php?id=259655) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CCC](CCC "CCC"), [CCC](CCC "CCC"), October 16, 2002
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Kramnik vs Deep Fritz schedule](http://en.chessbase.com/post/kramnik-vs-deep-fritz-schedule), [ChessBase News](ChessBase "ChessBase"), January 05, 2002
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [The Week in Chess 7th May 2001 by Mark Crowther (archived) 4.) Brain Games Network announce million dollar computer contract](http://archive.is/92fx)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Einstein takes over Brain Games and Kramnik](http://en.chessbase.com/post/einstein-takes-over-brain-games-and-kramnik), [ChessBase News](ChessBase "ChessBase"), January 25, 2002
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Eric Schiller about the Cadaques Qualifier](https://www.stmintz.com/ccc/index.php?id=258559) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), October 11, 2002
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Open letter from the ICCA](https://www.stmintz.com/ccc/index.php?id=165291) by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), [CCC](CCC "CCC"), April 22, 2001
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [BrainGames Qualifier, about unfair competition](https://groups.google.com/d/msg/rec.games.chess.computer/CtiuBXSNCrM/9ZpBAcBcN0AJ) by [Ed Schroder](Ed_Schroder "Ed Schroder"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 29, 2001
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Will humans ever beat computers at chess again?](http://www.theguardian.com/technology/2002/oct/24/games.onlinesupplement2) by [David Levy](David_Levy "David Levy"), [The Guardian](https://en.wikipedia.org/wiki/The_Guardian), October 24, 2002
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [A word from the 'Junior' Team - Cadaques](https://www.stmintz.com/ccc/index.php?id=167217) by [Shay Bushinsky](Shay_Bushinsky "Shay Bushinsky"), [CCC](CCC "CCC"), May 01, 2001
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Brains in Bahrain (2002)](http://www.chessgames.com/perl/chess.pl?tid=39416) from [chessgames.com](http://www.chessgames.com/index.html)
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Did Deep Fritz use Shakespeare to heckle the World Champion?](http://en.chessbase.com/post/did-deep-fritz-use-shakespeare-to-heckle-the-world-champion-) [ChessBase News](ChessBase "ChessBase"), October 16, 2002
 
 **[Up one Level](Tournaments_and_Matches "Tournaments and Matches")**
 

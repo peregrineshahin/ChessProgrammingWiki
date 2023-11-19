@@ -5,20 +5,20 @@ title: Jonathan Schaeffer
 
 
 
-[ Jonathan Schaeffer [[1]](#cite_note-1)
+[ Jonathan Schaeffer <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Jonathan Herbert Schaeffer**,  
 
-a Canadian computer games researcher, professor in computing science and dean of science at [University of Alberta](University_of_Alberta "University of Alberta"), [Edmonton](https://en.wikipedia.org/wiki/Edmonton), Alberta, with a Ph.D. from [University of Waterloo](University_of_Waterloo "University of Waterloo") in 1986 [[2]](#cite_note-2). He is author of the chess programs [Planner](Planner "Planner"), [Prodigy](Prodigy "Prodigy") and [Phoenix](Phoenix "Phoenix"). In 1983, Schaeffer proposed the [History Heuristic](History_Heuristic "History Heuristic") [[3]](#cite_note-3). 
+a Canadian computer games researcher, professor in computing science and dean of science at [University of Alberta](University_of_Alberta "University of Alberta"), [Edmonton](https://en.wikipedia.org/wiki/Edmonton), Alberta, with a Ph.D. from [University of Waterloo](University_of_Waterloo "University of Waterloo") in 1986 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. He is author of the chess programs [Planner](Planner "Planner"), [Prodigy](Prodigy "Prodigy") and [Phoenix](Phoenix "Phoenix"). In 1983, Schaeffer proposed the [History Heuristic](History_Heuristic "History Heuristic") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
 
 
-Beside research on [games](Games "Games"), search algorithms and [parallel search](Parallel_Search "Parallel Search"), Jonathan Schaeffer is best known as primary author of the World Man-Machine [Checkers](Checkers "Checkers") Champion [Chinook](https://en.wikipedia.org/wiki/Chinook_%28draughts_player%29), solving Checkers in 2007 [[4]](#cite_note-4). Schaeffer further works on [poker-playing programs](https://en.wikipedia.org/wiki/Computer_poker_players), the [Texas hold 'em](https://en.wikipedia.org/wiki/Texas_hold_%27em) program [Polaris](https://en.wikipedia.org/wiki/Polaris_%28poker_bot%29) and the commercial *Poker Academy* [[5]](#cite_note-5). In August 2019, Jonathan Schaeffer superseded [David Levy](David_Levy "David Levy") as [president](ICGA#Board "ICGA") of the [ICGA](ICGA "ICGA") [[6]](#cite_note-6).
+Beside research on [games](Games "Games"), search algorithms and [parallel search](Parallel_Search "Parallel Search"), Jonathan Schaeffer is best known as primary author of the World Man-Machine [Checkers](Checkers "Checkers") Champion [Chinook](https://en.wikipedia.org/wiki/Chinook_%28draughts_player%29), solving Checkers in 2007 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. Schaeffer further works on [poker-playing programs](https://en.wikipedia.org/wiki/Computer_poker_players), the [Texas hold 'em](https://en.wikipedia.org/wiki/Texas_hold_%27em) program [Polaris](https://en.wikipedia.org/wiki/Polaris_%28poker_bot%29) and the commercial *Poker Academy* <a id="cite-note-5" href="#cite-ref-5">[5]</a>. In August 2019, Jonathan Schaeffer superseded [David Levy](David_Levy "David Levy") as [president](ICGA#Board "ICGA") of the [ICGA](ICGA "ICGA") <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
 
 
 ### [Planner](Planner "Planner")
 
 
-*[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*, pp. 7 [[7]](#cite_note-7):
+*[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*, pp. 7 <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
 
 
 
@@ -36,14 +36,14 @@ Everything I read about chess programs convinced me that they were ignorant; the
 
 
 ```C++
-I finished my master's thesis, titled *Long Range Planning in Computer Chess*, and graduated in 1980. [[8]](#cite_note-8) 
+I finished my master's thesis, titled *Long Range Planning in Computer Chess*, and graduated in 1980. <a id="cite-note-8" href="#cite-ref-8">[8]</a> 
 
 ```
 
 ### [Prodigy](Prodigy "Prodigy")
 
 
-*[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*, pp. 8 [[9]](#cite_note-9):
+*[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*, pp. 8 <a id="cite-note-9" href="#cite-ref-9">[9]</a>:
 
 
 
@@ -59,7 +59,7 @@ If I was going to create a world champion chess program I would need help. I adv
 ### [Waterloo](University_of_Waterloo "University of Waterloo")
 
 
-*[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*, pp. 8 [[10]](#cite_note-10):
+*[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*, pp. 8 <a id="cite-note-10" href="#cite-ref-10">[10]</a>:
 
 
 
@@ -72,13 +72,13 @@ My Ph.D. was not going well, so in the summer of 1982 I started looking for a di
 ### [Edmonton](University_of_Alberta "University of Alberta")
 
 
-*[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*, pp. 9 [[11]](#cite_note-11):
+*[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*, pp. 9 <a id="cite-note-11" href="#cite-ref-11">[11]</a>:
 
 
 
 
 ```C++
-At the invitation of [Tony Marsland](Tony_Marsland "Tony Marsland"), one of the major players on the computer chess scene, I moved to the [University of Alberta](University_of_Alberta "University of Alberta"), in Edmonton, to complete my degree. He arranged for me to teach as a lecturer at the university while I worked on my thesis part-time. By mid 1985 the thesis was done, although I didn't graduate until 1986. The thesis, *Experiments in Search and Knowledge* [[12]](#cite_note-12), became an important work in the area, and allowed me to get an assistant professorship at the University of Alberta starting in 1985. 
+At the invitation of [Tony Marsland](Tony_Marsland "Tony Marsland"), one of the major players on the computer chess scene, I moved to the [University of Alberta](University_of_Alberta "University of Alberta"), in Edmonton, to complete my degree. He arranged for me to teach as a lecturer at the university while I worked on my thesis part-time. By mid 1985 the thesis was done, although I didn't graduate until 1986. The thesis, *Experiments in Search and Knowledge* <a id="cite-note-12" href="#cite-ref-12">[12]</a>, became an important work in the area, and allowed me to get an assistant professorship at the University of Alberta starting in 1985. 
 
 ```
 
@@ -91,7 +91,7 @@ As a professor I was free to research what I wanted, as long as I produced scien
 ### [Zobrist Hashing](Zobrist_Hashing "Zobrist Hashing")
 
 
-Jonathan Schaeffer on [Zobrist Hashing](Zobrist_Hashing "Zobrist Hashing") [[13]](#cite_note-13) :
+Jonathan Schaeffer on [Zobrist Hashing](Zobrist_Hashing "Zobrist Hashing") <a id="cite-note-13" href="#cite-ref-13">[13]</a> :
 
 
 
@@ -104,7 +104,7 @@ Jonathan Schaeffer on [Zobrist Hashing](Zobrist_Hashing "Zobrist Hashing") [[13]
 ### [WCCC 1986](WCCC_1986 "WCCC 1986")
 
 
-*[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*, pp. 9 [[14]](#cite_note-14):
+*[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*, pp. 9 <a id="cite-note-14" href="#cite-ref-14">[14]</a>:
 
 
 
@@ -117,7 +117,7 @@ I worked hard on Phoenix in preparation of the triennial [World Computer Chess C
 ### Chess and AI
 
 
-Jonathan Schaeffer on *The Role of Chess in [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence")* [[15]](#cite_note-15):
+Jonathan Schaeffer on *The Role of Chess in [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence")* <a id="cite-note-15" href="#cite-ref-15">[15]</a>:
 
 
 
@@ -138,7 +138,7 @@ Sadly, most of the work currently being done on computer chess programs is engin
 ## Selected Publications
 
 
-[[16]](#cite_note-16) [[17]](#cite_note-17) [[18]](#cite_note-18) [[19]](#cite_note-19)
+<a id="cite-note-16" href="#cite-ref-16">[16]</a> <a id="cite-note-17" href="#cite-ref-17">[17]</a> <a id="cite-note-18" href="#cite-ref-18">[18]</a> <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 
 
 
@@ -146,7 +146,7 @@ Sadly, most of the work currently being done on computer chess programs is engin
 
 
 * Jonathan Schaeffer (**1980**). *Long-Range Planning in Computer Chess*. Master's thesis, Department of Computer Science, [University of Waterloo](University_of_Waterloo "University of Waterloo")
-* [Greg Bakker](index.php?title=Greg_Bakker&action=edit&redlink=1 "Greg Bakker (page does not exist)"), [Jim Jonkman](index.php?title=Jim_Jonkman&action=edit&redlink=1 "Jim Jonkman (page does not exist)"), Jonathan Schaeffer, [Tom Schultz](index.php?title=Tom_Schultz&action=edit&redlink=1 "Tom Schultz (page does not exist)") (**1982**). *VLSI Implementation of a Chess Legal Move Generator*. EE755S-1, [University of Waterloo](University_of_Waterloo "University of Waterloo") [[20]](#cite_note-20)
+* [Greg Bakker](index.php?title=Greg_Bakker&action=edit&redlink=1 "Greg Bakker (page does not exist)"), [Jim Jonkman](index.php?title=Jim_Jonkman&action=edit&redlink=1 "Jim Jonkman (page does not exist)"), Jonathan Schaeffer, [Tom Schultz](index.php?title=Tom_Schultz&action=edit&redlink=1 "Tom Schultz (page does not exist)") (**1982**). *VLSI Implementation of a Chess Legal Move Generator*. EE755S-1, [University of Waterloo](University_of_Waterloo "University of Waterloo") <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 * Jonathan Schaeffer, [Patrick A.D. Powell](index.php?title=Patrick_A.D._Powell&action=edit&redlink=1 "Patrick A.D. Powell (page does not exist)"), [Jim Jonkman](index.php?title=Jim_Jonkman&action=edit&redlink=1 "Jim Jonkman (page does not exist)") (**1983**). *[A VLSI legal move generator for the game of chess](https://link.springer.com/chapter/10.1007/978-3-642-95432-0_19)*. in [Randal E. Bryant](Mathematician#REBryant "Mathematician") (eds.) [Third Caltech Conference on Very Large Scale Integration](https://link.springer.com/book/10.1007%2F978-3-642-95432-0)
 * Jonathan Schaeffer (**1983**). *The History Heuristic*. [ICCA Journal, Vol. 6, No. 3](ICGA_Journal#6_3 "ICGA Journal")
 * Jonathan Schaeffer (**1983**). *Long-Range Planning in Computer Chess*. Proceedings of the Annual [ACM](ACM "ACM") Conference
@@ -165,7 +165,7 @@ Sadly, most of the work currently being done on computer chess programs is engin
 
 * Jonathan Schaeffer, [Tony Marsland](Tony_Marsland "Tony Marsland") (**1985**). *The Utility of Expert Knowledge*. [IJCAI 1985](Conferences#IJCAI1985 "Conferences")
 * [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld"), Jonathan Schaeffer, [Tony Marsland](Tony_Marsland "Tony Marsland") (**1985**). *Information Acquisition in Minimal Window Search.* [IJCAI 1985](Conferences#IJCAI1985 "Conferences")
-* Jonathan Schaeffer (**1985**). *[Lionel Moser](index.php?title=Lionel_Moser&action=edit&redlink=1 "Lionel Moser (page does not exist)"): An Experiment in Distributed Game Tree Searching.* [ICCA Journal, Vol. 8, No. 2](ICGA_Journal#8_2 "ICGA Journal"), review [[21]](#cite_note-21)
+* Jonathan Schaeffer (**1985**). *[Lionel Moser](index.php?title=Lionel_Moser&action=edit&redlink=1 "Lionel Moser (page does not exist)"): An Experiment in Distributed Game Tree Searching.* [ICCA Journal, Vol. 8, No. 2](ICGA_Journal#8_2 "ICGA Journal"), review <a id="cite-note-21" href="#cite-ref-21">[21]</a>
 * [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld"), [Tony Marsland](Tony_Marsland "Tony Marsland"), Jonathan Schaeffer (**1985**). *Is Best First Search Really Best?* TR 85-16, [University of Alberta](University_of_Alberta "University of Alberta").
 * [William Ward Armstrong](Mathematician#WWArmstrong "Mathematician"), [Tony Marsland](Tony_Marsland "Tony Marsland"), [Marius Olafsson](Marius_Olafsson "Marius Olafsson"), Jonathan Schaeffer (**1985**). *[Solving Equations of Motion on a Virtual Tree Machine](http://portal.acm.org/citation.cfm?id=669046)*. Second Conference on Parallel Processing for Scientific Computing
 
@@ -204,7 +204,7 @@ Sadly, most of the work currently being done on computer chess programs is engin
 
 * [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), Jonathan Schaeffer (**1989**). *Perspectives on Falling from Grace*. [Workshop on New Directions in Game-Tree Search](WCCC_1989#Workshop "WCCC 1989"), [pdf](http://webdocs.cs.ualberta.ca/~jonathan/publications/ai_publications/grace.pdf), revised version published (**1990**). in [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition")
 * Jonathan Schaeffer (**1989**). *Distributed Game-Tree Searching*. [Journal of Parallel and Distributed Computing](http://www.informatik.uni-trier.de/~%20ley/db/journals/jpdc/index.html), Vol. 6, No. 2
-* Jonathan Schaeffer (**1989**). *Comment on 'Distributed Game-Tree Search'.* [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal") [[22]](#cite_note-22)
+* Jonathan Schaeffer (**1989**). *Comment on 'Distributed Game-Tree Search'.* [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal") <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 * Jonathan Schaeffer (**1989**). *Conspiracy Numbers.* [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5"), also published (1990) in [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1
 * Jonathan Schaeffer (**1989**). *[The History Heuristic and Alpha-Beta Search Enhancements in Practice](https://ieeexplore.ieee.org/document/42858)*. [IEEE Transactions on Pattern Analysis and Machine Intelligence](IEEE#TPAMI "IEEE"), Vol. 11, No. 11
 
@@ -214,7 +214,7 @@ Sadly, most of the work currently being done on computer chess programs is engin
 
 * Jonathan Schaeffer (**1990**). *Conspiracy Numbers*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1
 * [Norbert Klingbeil](Norbert_Klingbeil "Norbert Klingbeil"), Jonathan Schaeffer (**1990**). *Empirical Results with Conspiracy Numbers.* [Computational Intelligence](https://en.wikipedia.org/wiki/Computational_Intelligence_(journal)), Vol. 6
-* Jonathan Schaeffer (**1990**). *A Rejoinder to a Comment on 'Distributed Game-Tree Search'.* [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal") [[23]](#cite_note-23)
+* Jonathan Schaeffer (**1990**). *A Rejoinder to a Comment on 'Distributed Game-Tree Search'.* [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal") <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 * [Tony Marsland](Tony_Marsland "Tony Marsland"), Jonathan Schaeffer (eds.) (**1990**). [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition")
 
 
@@ -247,7 +247,7 @@ Sadly, most of the work currently being done on computer chess programs is engin
 
 
 
-* Jonathan Schaeffer, [Norman Treloar](index.php?title=Norman_Treloar&action=edit&redlink=1 "Norman Treloar (page does not exist)"), [Paul Lu](Paul_Lu "Paul Lu"), [Rob Lake](index.php?title=Rob_Lake&action=edit&redlink=1 "Rob Lake (page does not exist)") (**1993**). *[Man Versus Machine for the World Checkers Championship](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1040)*. [AI Magazine](http://www.aaai.org/Magazine/magazine.php), Vol. 14, No. 2 » [WCCC 1992 - Workshop](WCCC_1992#Workshop "WCCC 1992") [[24]](#cite_note-24)
+* Jonathan Schaeffer, [Norman Treloar](index.php?title=Norman_Treloar&action=edit&redlink=1 "Norman Treloar (page does not exist)"), [Paul Lu](Paul_Lu "Paul Lu"), [Rob Lake](index.php?title=Rob_Lake&action=edit&redlink=1 "Rob Lake (page does not exist)") (**1993**). *[Man Versus Machine for the World Checkers Championship](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1040)*. [AI Magazine](http://www.aaai.org/Magazine/magazine.php), Vol. 14, No. 2 » [WCCC 1992 - Workshop](WCCC_1992#Workshop "WCCC 1992") <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 
 
  Jonathan Schaeffer, [Norman Treloar](index.php?title=Norman_Treloar&action=edit&redlink=1 "Norman Treloar (page does not exist)"), [Paul Lu](Paul_Lu "Paul Lu"), [Rob Lake](index.php?title=Rob_Lake&action=edit&redlink=1 "Rob Lake (page does not exist)") (**1993**). *Man Versus Machine for the World Checkers Championship*. [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal")
@@ -318,7 +318,7 @@ Sadly, most of the work currently being done on computer chess programs is engin
 
 
 * [Mark Brockington](Mark_Brockington "Mark Brockington"), Jonathan Schaeffer (**1999**). *APHID: Asynchronous Parallel Game-Tree Search*. [University of Alberta](University_of_Alberta "University of Alberta")
-* [John Romein](John_Romein "John Romein"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Henri Bal](Henri_Bal "Henri Bal"), Jonathan Schaeffer (**1999**). *Transposition Table Driven Work Scheduling in Distributed Search*. [AAAI-99](AAAI "AAAI"), [pdf](https://www.aaai.org/Papers/AAAI/1999/AAAI99-103.pdf) [[25]](#cite_note-25) [[26]](#cite_note-26)
+* [John Romein](John_Romein "John Romein"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Henri Bal](Henri_Bal "Henri Bal"), Jonathan Schaeffer (**1999**). *Transposition Table Driven Work Scheduling in Distributed Search*. [AAAI-99](AAAI "AAAI"), [pdf](https://www.aaai.org/Papers/AAAI/1999/AAAI99-103.pdf) <a id="cite-note-25" href="#cite-ref-25">[25]</a> <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 
 
 ### 2000 ...
@@ -327,7 +327,7 @@ Sadly, most of the work currently being done on computer chess programs is engin
 * [Mark Brockington](Mark_Brockington "Mark Brockington"), Jonathan Schaeffer (**2000**). *APHID: Asynchronous Parallel Game-Tree Search*. [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing), Vol. 60, No. 2
 * Jonathan Schaeffer (**2000**). *Search Ideas in Chinook.* Games in AI Research, [ps](http://webdocs.cs.ualberta.ca/%7Ejonathan/Papers/Papers/searchideas.ps)
 * [Andreas Junghanns](Andreas_Junghanns "Andreas Junghanns"), Jonathan Schaeffer (**2000**). *[Sokoban](index.php?title=Sokoban&action=edit&redlink=1 "Sokoban (page does not exist)"): A Challenging Single-Agent Search Problem.* Games in AI Research
-* Jonathan Schaeffer (**2000**). *The GAMES group at the University of Alberta*. [5th Computer Olympiad Workshop](5th_Computer_Olympiad#Workshop "5th Computer Olympiad") [[27]](#cite_note-27)
+* Jonathan Schaeffer (**2000**). *The GAMES group at the University of Alberta*. [5th Computer Olympiad Workshop](5th_Computer_Olympiad#Workshop "5th Computer Olympiad") <a id="cite-note-27" href="#cite-ref-27">[27]</a>
 * Jonathan Schaeffer (**2000**). *The Games Computers (and People) Play*. Advances in Computers 50, [Marvin Zelkowitz](http://www.cs.umd.edu/%7Emvz/) editor, Academic Press, [ps](http://webdocs.cs.ualberta.ca/%7Ejonathan/Papers/Papers/advances.ps)
 
 
@@ -348,7 +348,7 @@ Sadly, most of the work currently being done on computer chess programs is engin
 
 
 * [Darse Billings](Darse_Billings "Darse Billings"), [Aaron Davidson](index.php?title=Aaron_Davidson&action=edit&redlink=1 "Aaron Davidson (page does not exist)"), Jonathan Schaeffer, [Duane Szafron](Duane_Szafron "Duane Szafron") (**2002**). *The Challenge of Poker*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 134, No. 1-2, [pdf](https://www.cs.drexel.edu/~greenie/cs510/AIJ02.pdf)
-* [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), Jonathan Schaeffer, [Aske Plaat](Aske_Plaat "Aske Plaat") (**2002**). *A Performance Analysis of Transposition-Table-Driven Scheduling in Distributed Search*. [IEEE TPDS](IEEE#TPDS "IEEE"), Vol. 13, No. 5 [pdf](http://www.cs.vu.nl/~bal/Papers/tds.pdf) [[28]](#cite_note-28)
+* [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), Jonathan Schaeffer, [Aske Plaat](Aske_Plaat "Aske Plaat") (**2002**). *A Performance Analysis of Transposition-Table-Driven Scheduling in Distributed Search*. [IEEE TPDS](IEEE#TPDS "IEEE"), Vol. 13, No. 5 [pdf](http://www.cs.vu.nl/~bal/Papers/tds.pdf) <a id="cite-note-28" href="#cite-ref-28">[28]</a>
 * [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), Jonathan Schaeffer (**2002**). *Distributed Game-Tree Search Using Transposition Table Driven Work Scheduling*. 31st International Conference on Parallel Processing (ICPP'02), [IEEE Computer Society Press](IEEE#CSP "IEEE")
 * [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), Jonathan Schaeffer (**2002**). *Transposition Table Driven Work Scheduling in Distributed Game-Tree Search*. Fifteenth Canadian Conference on Artificial Intelligence (AI'2002), Vol. 2338 of Lecture Notes in Artificial Intelligence, [Springer](http://www.springerlink.com/content/47b3crn04egmmx8l/)
 * Jonathan Schaeffer (**2002**). *Solving the Games People Play*. Invited Lecture, [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad")
@@ -445,7 +445,7 @@ Sadly, most of the work currently being done on computer chess programs is engin
 
 
 
-* [Meir Goldenberg](Mathematician#MGoldenberg "Mathematician"), [Ariel Felner](Ariel_Felner "Ariel Felner"), [Roni Stern](Mathematician#RoniStern "Mathematician"), [Guni Sharon](index.php?title=Guni_Sharon&action=edit&redlink=1 "Guni Sharon (page does not exist)"), Jonathan Schaeffer (**2012**). *A\* Variants for Optimal Multi-Agent Pathfinding*. SOCS 2012, [pdf](http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/viewFile/5233/5640) [[29]](#cite_note-29)
+* [Meir Goldenberg](Mathematician#MGoldenberg "Mathematician"), [Ariel Felner](Ariel_Felner "Ariel Felner"), [Roni Stern](Mathematician#RoniStern "Mathematician"), [Guni Sharon](index.php?title=Guni_Sharon&action=edit&redlink=1 "Guni Sharon (page does not exist)"), Jonathan Schaeffer (**2012**). *A\* Variants for Optimal Multi-Agent Pathfinding*. SOCS 2012, [pdf](http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/viewFile/5233/5640) <a id="cite-note-29" href="#cite-ref-29">[29]</a>
 
 
 **2014**
@@ -460,7 +460,7 @@ Sadly, most of the work currently being done on computer chess programs is engin
 
 * [Meir Goldenberg](Mathematician#MGoldenberg "Mathematician"), [Ariel Felner](Ariel_Felner "Ariel Felner"), [Alon Palombo](index.php?title=Alon_Palombo&action=edit&redlink=1 "Alon Palombo (page does not exist)"), [Nathan Sturtevant](Nathan_Sturtevant "Nathan Sturtevant"), Jonathan Schaeffer (**2017**). *[The compressed differential heuristic](https://content.iospress.com/articles/ai-communications/aic743)*. [AI Communications](https://www.iospress.nl/journal/ai-communications/), Vol. 30, No. 6
 * [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller"), Jonathan Schaeffer (**2018**). *[Man vs. Machine: Challenging Human Supremacy at Chess](https://www.russell-enterprises.com/russell-enterprises/man-vs-machinebrchallenging-human-supremacy-at-chess)*. [Russell Enterprises](https://www.russell-enterprises.com/)
-* Jonathan Schaeffer (**2019**). *[Toward No Earthly Pole: Letters from John Franklin's Last Expedition](http://jonathanschaeffer.blogspot.com/2019/06/toward-no-earthly-pole-preface_18.html)*. [amazon](https://www.amazon.com/Toward-Earthly-Pole-Franklins-Expedition/dp/1999104005/ref=sr_1_1?keywords=toward+no+earthly+pole&qid=1564525871&s=gateway&sr=8-1) [[30]](#cite_note-30)
+* Jonathan Schaeffer (**2019**). *[Toward No Earthly Pole: Letters from John Franklin's Last Expedition](http://jonathanschaeffer.blogspot.com/2019/06/toward-no-earthly-pole-preface_18.html)*. [amazon](https://www.amazon.com/Toward-Earthly-Pole-Franklins-Expedition/dp/1999104005/ref=sr_1_1?keywords=toward+no+earthly+pole&qid=1564525871&s=gateway&sr=8-1) <a id="cite-note-30" href="#cite-ref-30">[30]</a>
 * Jonathan Schaeffer (**2019**). *An ICGA evaluation function*. [ICGA Journal, Vol. 41, No. 4](ICGA_Journal#41_4 "ICGA Journal")
 * Jonathan Schaeffer (**2019**). *Special Issue on Computer Chess Tournaments: The 50-Year Experiment*. Call for Papers, [ICGA Journal, Vol. 41, No. 4](ICGA_Journal#41_4 "ICGA Journal")
 
@@ -523,36 +523,36 @@ Sadly, most of the work currently being done on computer chess programs is engin
 ## References
 
 
-1. [↑](#cite_ref-1) Jonathan Schaeffer, Dean of Science, [University of Alberta](University_of_Alberta "University of Alberta"), announce funding for ultra HR [scanning tunnelling microscope](https://en.wikipedia.org/wiki/Scanning_tunneling_microscope), by [Scott Mair](https://www.flickr.com/people/smair/), June 20, 2014, [Jonathan Schaeffer from Wikipedia](https://en.wikipedia.org/wiki/Jonathan_Schaeffer)
-2. [↑](#cite_ref-2) Jonathan Schaeffer (**1986**). *Experiments in Search and Knowledge*. Ph.D. Thesis, [University of Waterloo](University_of_Waterloo "University of Waterloo"). Reprinted as TR 86-12, [University of Alberta](University_of_Alberta "University of Alberta")
-3. [↑](#cite_ref-3) Jonathan Schaeffer (**1983**). *The History Heuristic*. [ICCA Journal, Vol. 6, No. 3](ICGA_Journal#6_3 "ICGA Journal")
-4. [↑](#cite_ref-4) [Solving Checkers](http://www.cs.ualberta.ca/%7Echinook/publications/solving_checkers.html)
-5. [↑](#cite_ref-5) [Poker Academy Pro – The Ultimate Poker Software](http://www.poker-academy.com/poker-software/index.php)
-6. [↑](#cite_ref-6) [A NEW PRESIDENT - Announcement by David Levy](https://icga.org/?p=2672) by [Mark Lefler](Mark_Lefler "Mark Lefler"), December 11, 2018
-7. [↑](#cite_ref-7) Jonathan Schaeffer (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 7
-8. [↑](#cite_ref-8) Jonathan Schaeffer (**1980**). *Long-Range Planning in Computer Chess*. Master's thesis, Department of Computer Science, [University of Waterloo](University_of_Waterloo "University of Waterloo")
-9. [↑](#cite_ref-9) Jonathan Schaeffer (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 8
-10. [↑](#cite_ref-10) Jonathan Schaeffer (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 8
-11. [↑](#cite_ref-11) Jonathan Schaeffer (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 9
-12. [↑](#cite_ref-12) Jonathan Schaeffer (**1986**). *Experiments in Search and Knowledge*. Ph.D. Thesis, [University of Waterloo](University_of_Waterloo "University of Waterloo"). Reprinted as TR 86-12, [University of Alberta](University_of_Alberta "University of Alberta")
-13. [↑](#cite_ref-13) [Hash tables - Clash!!! What happens next?](http://groups.google.de/group/rec.games.chess/browse_thread/thread/87d436c2293f9138) by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), post 6 by Jonathan Schaeffer, March 17, 1994
-14. [↑](#cite_ref-14) Jonathan Schaeffer (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 9
-15. [↑](#cite_ref-15) [Robert Levinson](Robert_Levinson "Robert Levinson"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [Tony Marsland](Tony_Marsland "Tony Marsland"), Jonathan Schaeffer, [David Wilkins](David_Wilkins "David Wilkins") (**1991**). *The Role of Chess in Artificial Intelligence Research*. [IJCAI 1991](Conferences#IJCAI1991 "Conferences"), [pdf](http://dli.iiit.ac.in/ijcai/IJCAI-91-VOL1/PDF/084.pdf), also in [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal"), [pdf](http://www.ai.sri.com/%7Ewilkins/papers/chess-panel.pdf)
-16. [↑](#cite_ref-16) [dblp: Jonathan Schaeffer](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Schaeffer:Jonathan)
-17. [↑](#cite_ref-17) [Jonathan Schaeffer: Publications](http://webdocs.cs.ualberta.ca/~jonathan/publications/index.html)
-18. [↑](#cite_ref-18) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-19. [↑](#cite_ref-19) [Some Schaeffer papers](http://www.open-chess.org/viewtopic.php?f=5&t=414) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Programming and Technical Discussions](Computer_Chess_Forums "Computer Chess Forums"), July 08, 2010
-20. [↑](#cite_ref-20) [1983 | Waking up to change](https://uwaterloo.ca/water-under-the-bridge/1983) in [Chris Redmond and Simon the Troll](https://uwaterloo.ca/water-under-the-bridge/about-authors) (**1998**). *[Water Under the Bridge](https://uwaterloo.ca/water-under-the-bridge/)*. [University of Waterloo](University_of_Waterloo "University of Waterloo") » [VLSI Move Generation](Move_Generation#Waterloo1982 "Move Generation")
-21. [↑](#cite_ref-21) [Lionel Moser](index.php?title=Lionel_Moser&action=edit&redlink=1 "Lionel Moser (page does not exist)") (**1984**). *An Experiment in Distributed Game Tree Searching*, M.Sc. thesis, [University of Waterloo](University_of_Waterloo "University of Waterloo")
-22. [↑](#cite_ref-22) [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [Burkhard Monien](Burkhard_Monien "Burkhard Monien"), [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Oliver Vornberger](Oliver_Vornberger "Oliver Vornberger") (**1989**). *Distributed Game-Tree Search*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
-23. [↑](#cite_ref-23) [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [Burkhard Monien](Burkhard_Monien "Burkhard Monien"), [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Oliver Vornberger](Oliver_Vornberger "Oliver Vornberger") ('*1990**).*** **Response to a Comment on 'Distributed Game-Tree Search**. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
-24. [↑](#cite_ref-24) [Marion Tinsley vs. Chinook - Wikipedia](https://en.wikipedia.org/wiki/Marion_Tinsley#Vs._Chinook)
-25. [↑](#cite_ref-25) [Re: scorpio can run on 8192 cores](http://www.talkchess.com/forum/viewtopic.php?t=57343&start=5) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), August 29, 2015
-26. [↑](#cite_ref-26) [Transposition-driven scheduling - Wikipedia](https://en.wikipedia.org/wiki/Transposition-driven_scheduling)
-27. [↑](#cite_ref-27) [U of A GAMES Group Home Page](https://webdocs.cs.ualberta.ca/~games/)
-28. [↑](#cite_ref-28) [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013
-29. [↑](#cite_ref-29) [A\* search algorithm from Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm)
-30. [↑](#cite_ref-30) [Franklin's lost expedition from Wikipedia](https://en.wikipedia.org/wiki/Franklin%27s_lost_expedition)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Jonathan Schaeffer, Dean of Science, [University of Alberta](University_of_Alberta "University of Alberta"), announce funding for ultra HR [scanning tunnelling microscope](https://en.wikipedia.org/wiki/Scanning_tunneling_microscope), by [Scott Mair](https://www.flickr.com/people/smair/), June 20, 2014, [Jonathan Schaeffer from Wikipedia](https://en.wikipedia.org/wiki/Jonathan_Schaeffer)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jonathan Schaeffer (**1986**). *Experiments in Search and Knowledge*. Ph.D. Thesis, [University of Waterloo](University_of_Waterloo "University of Waterloo"). Reprinted as TR 86-12, [University of Alberta](University_of_Alberta "University of Alberta")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Jonathan Schaeffer (**1983**). *The History Heuristic*. [ICCA Journal, Vol. 6, No. 3](ICGA_Journal#6_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Solving Checkers](http://www.cs.ualberta.ca/%7Echinook/publications/solving_checkers.html)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Poker Academy Pro – The Ultimate Poker Software](http://www.poker-academy.com/poker-software/index.php)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [A NEW PRESIDENT - Announcement by David Levy](https://icga.org/?p=2672) by [Mark Lefler](Mark_Lefler "Mark Lefler"), December 11, 2018
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Jonathan Schaeffer (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 7
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Jonathan Schaeffer (**1980**). *Long-Range Planning in Computer Chess*. Master's thesis, Department of Computer Science, [University of Waterloo](University_of_Waterloo "University of Waterloo")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> Jonathan Schaeffer (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 8
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> Jonathan Schaeffer (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 8
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> Jonathan Schaeffer (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 9
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> Jonathan Schaeffer (**1986**). *Experiments in Search and Knowledge*. Ph.D. Thesis, [University of Waterloo](University_of_Waterloo "University of Waterloo"). Reprinted as TR 86-12, [University of Alberta](University_of_Alberta "University of Alberta")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Hash tables - Clash!!! What happens next?](http://groups.google.de/group/rec.games.chess/browse_thread/thread/87d436c2293f9138) by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), post 6 by Jonathan Schaeffer, March 17, 1994
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> Jonathan Schaeffer (**1997, 2009**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 1. This Was Going to Be Easy, pp. 9
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Robert Levinson](Robert_Levinson "Robert Levinson"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [Tony Marsland](Tony_Marsland "Tony Marsland"), Jonathan Schaeffer, [David Wilkins](David_Wilkins "David Wilkins") (**1991**). *The Role of Chess in Artificial Intelligence Research*. [IJCAI 1991](Conferences#IJCAI1991 "Conferences"), [pdf](http://dli.iiit.ac.in/ijcai/IJCAI-91-VOL1/PDF/084.pdf), also in [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal"), [pdf](http://www.ai.sri.com/%7Ewilkins/papers/chess-panel.pdf)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [dblp: Jonathan Schaeffer](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Schaeffer:Jonathan)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Jonathan Schaeffer: Publications](http://webdocs.cs.ualberta.ca/~jonathan/publications/index.html)
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Some Schaeffer papers](http://www.open-chess.org/viewtopic.php?f=5&t=414) by [BB+](Mark_Watkins "Mark Watkins"), [OpenChess Programming and Technical Discussions](Computer_Chess_Forums "Computer Chess Forums"), July 08, 2010
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [1983 | Waking up to change](https://uwaterloo.ca/water-under-the-bridge/1983) in [Chris Redmond and Simon the Troll](https://uwaterloo.ca/water-under-the-bridge/about-authors) (**1998**). *[Water Under the Bridge](https://uwaterloo.ca/water-under-the-bridge/)*. [University of Waterloo](University_of_Waterloo "University of Waterloo") » [VLSI Move Generation](Move_Generation#Waterloo1982 "Move Generation")
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Lionel Moser](index.php?title=Lionel_Moser&action=edit&redlink=1 "Lionel Moser (page does not exist)") (**1984**). *An Experiment in Distributed Game Tree Searching*, M.Sc. thesis, [University of Waterloo](University_of_Waterloo "University of Waterloo")
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [Burkhard Monien](Burkhard_Monien "Burkhard Monien"), [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Oliver Vornberger](Oliver_Vornberger "Oliver Vornberger") (**1989**). *Distributed Game-Tree Search*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [Burkhard Monien](Burkhard_Monien "Burkhard Monien"), [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Oliver Vornberger](Oliver_Vornberger "Oliver Vornberger") ('*1990**).*** **Response to a Comment on 'Distributed Game-Tree Search**. [ICCA Journal, Vol. 13, No. 1](ICGA_Journal#13_1 "ICGA Journal")
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Marion Tinsley vs. Chinook - Wikipedia](https://en.wikipedia.org/wiki/Marion_Tinsley#Vs._Chinook)
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Re: scorpio can run on 8192 cores](http://www.talkchess.com/forum/viewtopic.php?t=57343&start=5) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), August 29, 2015
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Transposition-driven scheduling - Wikipedia](https://en.wikipedia.org/wiki/Transposition-driven_scheduling)
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [U of A GAMES Group Home Page](https://webdocs.cs.ualberta.ca/~games/)
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [A\* search algorithm from Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm)
+30. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Franklin's lost expedition from Wikipedia](https://en.wikipedia.org/wiki/Franklin%27s_lost_expedition)
 
 **[Up one level](People "People")**
 

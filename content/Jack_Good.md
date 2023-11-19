@@ -5,17 +5,17 @@ title: Jack Good
 
 
 
- [](http://imagebase.lib.vt.edu/browse.php?folio_ID=/va/fac/good) I.J. Good [[1]](#cite_note-1) 
+ [](http://imagebase.lib.vt.edu/browse.php?folio_ID=/va/fac/good) I.J. Good <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Irving John (Jack) Good**, (December 9, 1916 - April 5, 2009)  
 
-a British statistician and computer pioneer. During [World War II](https://en.wikipedia.org/wiki/World_War_II), Good worked with [Alan Turing](Alan_Turing "Alan Turing") and [Conel Hugh O'Donel Alexander](https://en.wikipedia.org/wiki/Conel_Hugh_O%27Donel_Alexander) at [Bletchley Park](https://en.wikipedia.org/wiki/Bletchley_Park), with [Donald Michie](Donald_Michie "Donald Michie") and [Shaun Wylie](Shaun_Wylie "Shaun Wylie") et al. in the section [Newmanry](https://en.wikipedia.org/wiki/Newmanry) headed by [Max Newman](https://en.wikipedia.org/wiki/Max_Newman), contributing to crack the German [Lorenz cipher](https://en.wikipedia.org/wiki/Lorenz_SZ_40/42) [[2]](#cite_note-2) [[3]](#cite_note-3). After the war he worked at the [University of Manchester](University_of_Manchester "University of Manchester") and [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"), and had a variety of defense, consulting and academic positions, until he came to the United States in 1967, becoming a University Distinguished Professor at [Virginia Tech](https://en.wikipedia.org/wiki/Virginia_Polytechnic_Institute_and_State_University). In 1965 he originated the concept of an [intelligence explosion](https://en.wikipedia.org/wiki/Technological_singularity#Intelligence_explosion), now known as [technological singularity](https://en.wikipedia.org/wiki/Technological_singularity) [[4]](#cite_note-4), which anticipates the eventual advent of [superhuman intelligence](https://en.wikipedia.org/wiki/Superintelligence) [[5]](#cite_note-5). Jack Good died on April 5, 2009, aged 92 [[6]](#cite_note-6). 
+a British statistician and computer pioneer. During [World War II](https://en.wikipedia.org/wiki/World_War_II), Good worked with [Alan Turing](Alan_Turing "Alan Turing") and [Conel Hugh O'Donel Alexander](https://en.wikipedia.org/wiki/Conel_Hugh_O%27Donel_Alexander) at [Bletchley Park](https://en.wikipedia.org/wiki/Bletchley_Park), with [Donald Michie](Donald_Michie "Donald Michie") and [Shaun Wylie](Shaun_Wylie "Shaun Wylie") et al. in the section [Newmanry](https://en.wikipedia.org/wiki/Newmanry) headed by [Max Newman](https://en.wikipedia.org/wiki/Max_Newman), contributing to crack the German [Lorenz cipher](https://en.wikipedia.org/wiki/Lorenz_SZ_40/42) <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. After the war he worked at the [University of Manchester](University_of_Manchester "University of Manchester") and [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory"), and had a variety of defense, consulting and academic positions, until he came to the United States in 1967, becoming a University Distinguished Professor at [Virginia Tech](https://en.wikipedia.org/wiki/Virginia_Polytechnic_Institute_and_State_University). In 1965 he originated the concept of an [intelligence explosion](https://en.wikipedia.org/wiki/Technological_singularity#Intelligence_explosion), now known as [technological singularity](https://en.wikipedia.org/wiki/Technological_singularity) <a id="cite-note-4" href="#cite-ref-4">[4]</a>, which anticipates the eventual advent of [superhuman intelligence](https://en.wikipedia.org/wiki/Superintelligence) <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Jack Good died on April 5, 2009, aged 92 <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
 
 
 
 ## Five-Year Plan
 
 
-Jack Good was a strong chess player, and he published several papers related to computer chess in Michie's *Machine Intelligence* series [[8]](#cite_note-8), most notably his *Five-Year Plan for Automatic Chess* in 1968 [[9]](#cite_note-9), excerpts reprinted in [David Levy's](David_Levy "David Levy") [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), covering [Material](Material "Material"), [Quiescence](Quiescence_Search "Quiescence Search"), Turbulence, and Agitation [[10]](#cite_note-10).
+Jack Good was a strong chess player, and he published several papers related to computer chess in Michie's *Machine Intelligence* series <a id="cite-note-8" href="#cite-ref-8">[8]</a>, most notably his *Five-Year Plan for Automatic Chess* in 1968 <a id="cite-note-9" href="#cite-ref-9">[9]</a>, excerpts reprinted in [David Levy's](David_Levy "David Levy") [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), covering [Material](Material "Material"), [Quiescence](Quiescence_Search "Quiescence Search"), Turbulence, and Agitation <a id="cite-note-10" href="#cite-ref-10">[10]</a>.
 
 
 
@@ -23,13 +23,13 @@ Jack Good was a strong chess player, and he published several papers related to 
 ## Theorem-Proving
 
 
-Theorem-proving was mentioned in the *Five-Year Plan for Automatic Chess* [[11]](#cite_note-11):
+Theorem-proving was mentioned in the *Five-Year Plan for Automatic Chess* <a id="cite-note-11" href="#cite-ref-11">[11]</a>:
 
 
 
 
 ```C++
-Theorem-proving resembles chess Playing in that we have an objective and an analysis tree, or graph, but differs in that a superficial expected pay-off replaces the iterated [minimax](Minimax "Minimax"). The minimax idea can come in if we are trying to prove a theorem and we imagine that we have an opponent who wishes to disprove it. The value of our game is 1 if the theorem is true and — 1 if it is false. In the proof trees described in the paper by Dr D. C. Cooper [[12]](#cite_note-12) the 'and's correspond to moves of the opponent, since we must allow for both branches, whereas the `or's correspond to our own moves. The minimax (strictly maximin) value of the tree tells us whether the theorem is true, and, if we allow for superficial probabilities at the endpoints of the tree, the minimax value is the superficial probability of the theorem. 
+Theorem-proving resembles chess Playing in that we have an objective and an analysis tree, or graph, but differs in that a superficial expected pay-off replaces the iterated [minimax](Minimax "Minimax"). The minimax idea can come in if we are trying to prove a theorem and we imagine that we have an opponent who wishes to disprove it. The value of our game is 1 if the theorem is true and — 1 if it is false. In the proof trees described in the paper by Dr D. C. Cooper <a id="cite-note-12" href="#cite-ref-12">[12]</a> the 'and's correspond to moves of the opponent, since we must allow for both branches, whereas the `or's correspond to our own moves. The minimax (strictly maximin) value of the tree tells us whether the theorem is true, and, if we allow for superficial probabilities at the endpoints of the tree, the minimax value is the superficial probability of the theorem. 
 
 ```
 
@@ -39,7 +39,7 @@ Theorem-proving resembles chess Playing in that we have an objective and an anal
 ### Jack Good
 
 
-by Jack Good, 1998 [[13]](#cite_note-13):
+by Jack Good, 1998 <a id="cite-note-13" href="#cite-ref-13">[13]</a>:
 
 
 
@@ -58,7 +58,7 @@ In a letter to [F C Williams](https://en.wikipedia.org/wiki/Frederic_Calland_Wil
 ### David Levy
 
 
-[David Levy](David_Levy "David Levy") in *[Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")* [[14]](#cite_note-14):
+[David Levy](David_Levy "David Levy") in *[Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")* <a id="cite-note-14" href="#cite-ref-14">[14]</a>:
 
 
 
@@ -71,7 +71,7 @@ Perhaps non-linear evaluation functions will become popular at some future date,
 ### The Times
 
 
-Excerpt from the Obituary, [The Times](https://en.wikipedia.org/wiki/The_Times) [[15]](#cite_note-15)
+Excerpt from the Obituary, [The Times](https://en.wikipedia.org/wiki/The_Times) <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 
 
@@ -84,14 +84,14 @@ To statisticians, Good is one of the founding fathers of [Bayesian statistics](h
 ## HAL 9000
 
 
-[Marvin Minsky](Marvin_Minsky "Marvin Minsky") and Jack Good were adviser of the 1968 [Arthur C. Clarke](Category:Arthur_C._Clarke "Category:Arthur C. Clarke") and [Stanley Kubrick](https://en.wikipedia.org/wiki/Stanley_Kubrick) film [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28film%29), concerning [Self-replicating machine](https://en.wikipedia.org/wiki/Self-replicating_machine) and [HAL 9000](https://en.wikipedia.org/wiki/HAL_9000), the **H**euristically programmed **AL**gorithmic computer, and were referred to both in the movie and the book [[16]](#cite_note-16) [[17]](#cite_note-17).
+[Marvin Minsky](Marvin_Minsky "Marvin Minsky") and Jack Good were adviser of the 1968 [Arthur C. Clarke](Category:Arthur_C._Clarke "Category:Arthur C. Clarke") and [Stanley Kubrick](https://en.wikipedia.org/wiki/Stanley_Kubrick) film [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28film%29), concerning [Self-replicating machine](https://en.wikipedia.org/wiki/Self-replicating_machine) and [HAL 9000](https://en.wikipedia.org/wiki/HAL_9000), the **H**euristically programmed **AL**gorithmic computer, and were referred to both in the movie and the book <a id="cite-note-16" href="#cite-ref-16">[16]</a> <a id="cite-note-17" href="#cite-ref-17">[17]</a>.
 
 
 
 ## From Russia with Love
 
 
-In 1991, Jack Good analyzed the famous position shown in the film [From Russia with Love](https://en.wikipedia.org/wiki/From_Russia_with_Love_%28film%29), [Kronsteen](https://en.wikipedia.org/wiki/List_of_James_Bond_henchmen_in_From_Russia_with_Love#Kronsteen) vs. MacAdams [[18]](#cite_note-18), with the motive of the position was taken from [Spassky](https://en.wikipedia.org/wiki/Boris_Spassky) versus [Bronstein](David_Bronstein "David Bronstein") 1960 [[19]](#cite_note-19). The difference is that MacAdams had 22...Ne6. [[20]](#cite_note-20)[[21]](#cite_note-21)
+In 1991, Jack Good analyzed the famous position shown in the film [From Russia with Love](https://en.wikipedia.org/wiki/From_Russia_with_Love_%28film%29), [Kronsteen](https://en.wikipedia.org/wiki/List_of_James_Bond_henchmen_in_From_Russia_with_Love#Kronsteen) vs. MacAdams <a id="cite-note-18" href="#cite-ref-18">[18]</a>, with the motive of the position was taken from [Spassky](https://en.wikipedia.org/wiki/Boris_Spassky) versus [Bronstein](David_Bronstein "David Bronstein") 1960 <a id="cite-note-19" href="#cite-ref-19">[19]</a>. The difference is that MacAdams had 22...Ne6. <a id="cite-note-20" href="#cite-ref-20">[20]</a><a id="cite-note-21" href="#cite-ref-21">[21]</a>
 
 
 
@@ -150,7 +150,7 @@ In 1991, Jack Good analyzed the famous position shown in the film [From Russia w
 ## Selected Publications
 
 
-[[22]](#cite_note-22) [[23]](#cite_note-23)
+<a id="cite-note-22" href="#cite-ref-22">[22]</a> <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 
 
 
@@ -174,7 +174,7 @@ In 1991, Jack Good analyzed the famous position shown in the film [From Russia w
 
 * Jack Good (**1950**). *Probability and the Weighing of Evidence*. Griffin, London
 * Jack Good (**1952/55**). *Notes on Randomised Chess*. [Chess](https://en.wikipedia.org/wiki/Chess_magazine)
-* Jack Good (**1953**). *[The population frequencies of species and the estimation of population parameters](http://biomet.oxfordjournals.org/content/40/3-4/237)*. [Biometrika](https://en.wikipedia.org/wiki/Biometrika), Vol. 40, Nos. 3-4 [[24]](#cite_note-24)
+* Jack Good (**1953**). *[The population frequencies of species and the estimation of population parameters](http://biomet.oxfordjournals.org/content/40/3-4/237)*. [Biometrika](https://en.wikipedia.org/wiki/Biometrika), Vol. 40, Nos. 3-4 <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 * Jack Good (**1959**). *Could a machine make probability judgments?* [Computers and Automation](https://archive.org/details/bitsavers_computersAndAutomation), Vol. 8
 
 
@@ -194,7 +194,7 @@ In 1991, Jack Good analyzed the famous position shown in the film [From Russia w
 * Jack Good (**1966**). *The probability of war*. [Journal of the Royal Statistical Society](https://en.wikipedia.org/wiki/Journal_of_the_Royal_Statistical_Society), Series A, Vol. 129
 * Jack Good (**1967**). *Human and machine logic*. [British Journal for the Philosophy of Science](https://en.wikipedia.org/wiki/British_Journal_for_the_Philosophy_of_Science), Vol. 18
 * Jack Good, [R.F. Churchhouse](http://genealogy.math.ndsu.nodak.edu/id.php?id=42113) (**1968**). *A New Conjecture Related to the Riemann Hypothesis*. in [Some Research Applications of the Computer](http://www.worldcat.org/title/some-research-applications-of-the-computer/oclc/271050780), [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
-* Jack Good (**1968**). *A Five-Year Plan for Automatic Chess*. [Machine Intelligence Vol. 2](http://www.doc.ic.ac.uk/~shm/MI/mi2.html), [pdf](http://aitopics.org/sites/default/files/classic/Machine_Intelligence_2/MI2-Ch7-Good.pdf) [[25]](#cite_note-25)
+* Jack Good (**1968**). *A Five-Year Plan for Automatic Chess*. [Machine Intelligence Vol. 2](http://www.doc.ic.ac.uk/~shm/MI/mi2.html), [pdf](http://aitopics.org/sites/default/files/classic/Machine_Intelligence_2/MI2-Ch7-Good.pdf) <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 * Jack Good (**1969**). *Analysis of the machine chess game, J. Scott (White), ICL-1900 versus R.D. Greenblatt, PDP-10*. [Machine Intelligence Vol. 4](http://www.doc.ic.ac.uk/~shm/MI/mi4.html) pp. 267-270 » [John J. Scott](John_J._Scott "John J. Scott"), [ICL 1900](index.php?title=ICL_1900&action=edit&redlink=1 "ICL 1900 (page does not exist)"), [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"), [PDP-10](PDP-10 "PDP-10")
 
 
@@ -214,7 +214,7 @@ In 1991, Jack Good analyzed the famous position shown in the film [From Russia w
 
 
 * Jack Good (**1982**). *When will the rules of chess be changed?* British Chess Magazine 102, No. 7 (July 1982), 305-306.
-* Jack Good (**1988**). *Some Comments Concerning an Article by De Groot.* [ICCA Journal, Vol. 11, No. 2/3](ICGA_Journal#11_23 "ICGA Journal") [[26]](#cite_note-26)
+* Jack Good (**1988**). *Some Comments Concerning an Article by De Groot.* [ICCA Journal, Vol. 11, No. 2/3](ICGA_Journal#11_23 "ICGA Journal") <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 * Jack Good (**1988**). [The Interface Between Statistics and Philosophy of Science](http://www.jstor.org/pss/2245388). Statistical Science, Vol. 3, No. 4
 
 
@@ -228,7 +228,7 @@ In 1991, Jack Good analyzed the famous position shown in the film [From Russia w
 ### 2000 ...
 
 
-* Jack Good (**2000**). *[Turing’s anticipation of emprical Bayes in connection with the cryptanalysis of the naval enigma](http://www.tandfonline.com/doi/abs/10.1080/00949650008812016)*. [Journal of Statistical Computation and Simulation](https://en.wikipedia.org/wiki/Journal_of_Statistical_Computation_and_Simulation), Vol. 66, No. 2 [[27]](#cite_note-27) [[28]](#cite_note-28) [[29]](#cite_note-29)
+* Jack Good (**2000**). *[Turing’s anticipation of emprical Bayes in connection with the cryptanalysis of the naval enigma](http://www.tandfonline.com/doi/abs/10.1080/00949650008812016)*. [Journal of Statistical Computation and Simulation](https://en.wikipedia.org/wiki/Journal_of_Statistical_Computation_and_Simulation), Vol. 66, No. 2 <a id="cite-note-27" href="#cite-ref-27">[27]</a> <a id="cite-note-28" href="#cite-ref-28">[28]</a> <a id="cite-note-29" href="#cite-ref-29">[29]</a>
 * [Pamela McCorduck](https://en.wikipedia.org/wiki/Pamela_McCorduck) (**2004**). *[Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence](Artificial_Intelligence#MachinesWhoThink "Artificial Intelligence")*. [A. K. Peters](https://en.wikipedia.org/wiki/A_K_Peters) (25th anniversary edition)
 
 
@@ -250,35 +250,35 @@ In 1991, Jack Good analyzed the famous position shown in the film [From Russia w
 ## References
 
 
- 1. [↑](#cite_ref-1) [VT Image Base Photographs](http://imagebase.lib.vt.edu/browse.php?folio_ID=/va/fac/good) Creator: Pat Hill of [OMNI Magazine](https://en.wikipedia.org/wiki/Omni_%28magazine%29) 1979, January issue 
-2. [↑](#cite_ref-2) Jack Good, [Donald Michie](Donald_Michie "Donald Michie"), [Geoffrey Timms](Mathematician#GTimms "Mathematician") (**1945**). *[General Report on Tunny](http://www.alanturing.net/turing_archive/archive/index/tunnyreportindex.html)* from [The Turing Archive for the History of Computing](http://www.alanturing.net/turing_archive/index.html)
-3. [↑](#cite_ref-3) [From Codebreaking to Computing - Video](The_Computer_History_Museum#Codebreaking "The Computer History Museum") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-4. [↑](#cite_ref-4) [Singularity Institute for Artificial Intelligence from Wikipedia](https://en.wikipedia.org/wiki/Singularity_Institute_for_Artificial_Intelligence)
-5. [↑](#cite_ref-5) Jack Good (**1965**). *[Speculations Concerning the First Ultraintelligent Machine](http://www.acceleratingfuture.com/pages/ultraintelligentmachine.html)*. [Advances in Computers, Vol. 6](http://www.informatik.uni-trier.de/~ley/db/journals/ac/ac6.html), [pdf](http://www.stat.vt.edu/tech_reports/2005/GoodTechReport.pdf), [pdf](http://commonsenseatheism.com/wp-content/uploads/2011/02/Good-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf)
-6. [↑](#cite_ref-6) [In Memoriam: I. J. Good, University Distinguished Professor and pioneer of modern statistics](http://www.vtnews.vt.edu/story.php?relyear=2009&itemno=276), Obituary from [Virginia Tech](https://en.wikipedia.org/wiki/Virginia_Polytechnic_Institute_and_State_University)
- 7. [↑](#cite_ref-7) [VT Image Base Photographs](http://imagebase.lib.vt.edu/browse.php?folio_ID=/va/fac/good) Creator: Pat Hill of [OMNI Magazine](https://en.wikipedia.org/wiki/Omni_%28magazine%29) 1979, January issue 
-8. [↑](#cite_ref-8) [Machine Intelligence series](http://www.doc.ic.ac.uk/~shm/MI/mi.html)
-9. [↑](#cite_ref-9) Jack Good (**1968**). *A Five-Year Plan for Automatic Chess*. [Machine Intelligence Vol. 2](http://www.doc.ic.ac.uk/~shm/MI/mi2.html), [pdf](http://aitopics.org/sites/default/files/classic/Machine_Intelligence_2/MI2-Ch7-Good.pdf)
-10. [↑](#cite_ref-10) [David Levy](David_Levy "David Levy") (**1988**). *[Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium") - 3.2 A Five-Year Plan for Automatic Chess (excerpt)*.
-11. [↑](#cite_ref-11) Jack Good (**1968**). *A Five-Year Plan for Automatic Chess*. [Machine Intelligence Vol. 2](http://www.doc.ic.ac.uk/~shm/MI/mi2.html), pp. 93
-12. [↑](#cite_ref-12) David C. Cooper (**1966**). *Mathematical proofs about computer programs*. [Machine Intelligence, Vol. 1](http://www.doc.ic.ac.uk/~shm/MI/mi1.html)
-13. [↑](#cite_ref-13) [Excerpts from Acceptance Speech for the 1998 Computer Pioneers Award from the IEEE - Jack Good](http://www.chilton-computing.org.uk/acl/associates/permanent/good.htm) hosted by [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
-14. [↑](#cite_ref-14) [David Levy](David_Levy "David Levy") (**1988**). *[Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")*, 3 Position Evaluation pp. 112
-15. [↑](#cite_ref-15) [Obituary, The Times - Brilliant mathematician and Bletchley Park codebreaker who laid the foundations of modern statistics](http://www.chilton-computing.org.uk/acl/associates/permanent/good.htm) hosted by [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
-16. [↑](#cite_ref-16) [2001: A Space Odyssey | Science | Accuracy](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28film%29#Accuracy)
-17. [↑](#cite_ref-17) [Marvin Minsky from Wikipedia | Biography](https://en.wikipedia.org/wiki/Marvin_Minsky#Biography)
-18. [↑](#cite_ref-18) Jack Good (**1991**). *Analysis of the chess position shown in the film From Russia with Love, Kronsteen vs. MacAdams.* [Chess Monthly](https://en.wikipedia.org/wiki/Chess_magazine), Vol. 56, No. 5
-19. [↑](#cite_ref-19) [The Chess Game in the James Bond classic From Russia, With Love](http://hogranch.com/mayer/chess_frwl.html) from [Ernst's Home Page](http://hogranch.com/mayer/home.html)
-20. [↑](#cite_ref-20) [OPEN CHESS DIARY 241-260](http://www.xs4all.nl/%7Etimkr/chess2/diary_13.htm), 250. July 6, 2004: *You are requested to make a blunder* by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9)
-21. [↑](#cite_ref-21) [The name is Spassky – Boris Spassky](http://www.chessbase.com/newsdetail.asp?newsid=1882) from [ChessBase news](ChessBase "ChessBase"), September 2, 2004
-22. [↑](#cite_ref-22) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-23. [↑](#cite_ref-23) [I.J. Good's Shorter Publications List](http://www.web-e.stat.vt.edu/holtzman/IJGood/IJGoodsShorterPubList,Aug19,2003.pdf) (pdf) from [Virginia Tech](https://en.wikipedia.org/wiki/Virginia_Polytechnic_Institute_and_State_University)
-24. [↑](#cite_ref-24) [Good–Turing frequency estimation](https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation)
-25. [↑](#cite_ref-25) [Paul Rushton](Paul_Rushton "Paul Rushton"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1973**). *Current Chess Programs: A Summary of their Potential and Limitations*. INFOR Journal of the Canadian Information Processing Society Vol. 11, No. 1, [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Rushton-Marsland-Feb73.pdf)
-26. [↑](#cite_ref-26) [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") (**1988**). *A Rejoinder to I.J. Good's Comments.* [ICCA Journal, Vol. 11, No. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-27. [↑](#cite_ref-27) [Banburismus from Wikipedia](https://en.wikipedia.org/wiki/Banburismus)
-28. [↑](#cite_ref-28) [Good–Turing frequency estimation from Wikipedia](https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation)
-29. [↑](#cite_ref-29) [David McAllester](David_McAllester "David McAllester"), [Robert Schapire](Robert_Schapire "Robert Schapire") (**2000**). *On the Convergence Rate of Good-Turing Estimators*. [COLT 2000](http://dblp.uni-trier.de/db/conf/colt/colt2000.html#McAllesterS00), [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.340)
+ 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [VT Image Base Photographs](http://imagebase.lib.vt.edu/browse.php?folio_ID=/va/fac/good) Creator: Pat Hill of [OMNI Magazine](https://en.wikipedia.org/wiki/Omni_%28magazine%29) 1979, January issue 
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jack Good, [Donald Michie](Donald_Michie "Donald Michie"), [Geoffrey Timms](Mathematician#GTimms "Mathematician") (**1945**). *[General Report on Tunny](http://www.alanturing.net/turing_archive/archive/index/tunnyreportindex.html)* from [The Turing Archive for the History of Computing](http://www.alanturing.net/turing_archive/index.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [From Codebreaking to Computing - Video](The_Computer_History_Museum#Codebreaking "The Computer History Museum") from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Singularity Institute for Artificial Intelligence from Wikipedia](https://en.wikipedia.org/wiki/Singularity_Institute_for_Artificial_Intelligence)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Jack Good (**1965**). *[Speculations Concerning the First Ultraintelligent Machine](http://www.acceleratingfuture.com/pages/ultraintelligentmachine.html)*. [Advances in Computers, Vol. 6](http://www.informatik.uni-trier.de/~ley/db/journals/ac/ac6.html), [pdf](http://www.stat.vt.edu/tech_reports/2005/GoodTechReport.pdf), [pdf](http://commonsenseatheism.com/wp-content/uploads/2011/02/Good-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [In Memoriam: I. J. Good, University Distinguished Professor and pioneer of modern statistics](http://www.vtnews.vt.edu/story.php?relyear=2009&itemno=276), Obituary from [Virginia Tech](https://en.wikipedia.org/wiki/Virginia_Polytechnic_Institute_and_State_University)
+ 7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [VT Image Base Photographs](http://imagebase.lib.vt.edu/browse.php?folio_ID=/va/fac/good) Creator: Pat Hill of [OMNI Magazine](https://en.wikipedia.org/wiki/Omni_%28magazine%29) 1979, January issue 
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Machine Intelligence series](http://www.doc.ic.ac.uk/~shm/MI/mi.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> Jack Good (**1968**). *A Five-Year Plan for Automatic Chess*. [Machine Intelligence Vol. 2](http://www.doc.ic.ac.uk/~shm/MI/mi2.html), [pdf](http://aitopics.org/sites/default/files/classic/Machine_Intelligence_2/MI2-Ch7-Good.pdf)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [David Levy](David_Levy "David Levy") (**1988**). *[Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium") - 3.2 A Five-Year Plan for Automatic Chess (excerpt)*.
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> Jack Good (**1968**). *A Five-Year Plan for Automatic Chess*. [Machine Intelligence Vol. 2](http://www.doc.ic.ac.uk/~shm/MI/mi2.html), pp. 93
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> David C. Cooper (**1966**). *Mathematical proofs about computer programs*. [Machine Intelligence, Vol. 1](http://www.doc.ic.ac.uk/~shm/MI/mi1.html)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Excerpts from Acceptance Speech for the 1998 Computer Pioneers Award from the IEEE - Jack Good](http://www.chilton-computing.org.uk/acl/associates/permanent/good.htm) hosted by [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [David Levy](David_Levy "David Levy") (**1988**). *[Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")*, 3 Position Evaluation pp. 112
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Obituary, The Times - Brilliant mathematician and Bletchley Park codebreaker who laid the foundations of modern statistics](http://www.chilton-computing.org.uk/acl/associates/permanent/good.htm) hosted by [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory")
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [2001: A Space Odyssey | Science | Accuracy](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28film%29#Accuracy)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Marvin Minsky from Wikipedia | Biography](https://en.wikipedia.org/wiki/Marvin_Minsky#Biography)
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> Jack Good (**1991**). *Analysis of the chess position shown in the film From Russia with Love, Kronsteen vs. MacAdams.* [Chess Monthly](https://en.wikipedia.org/wiki/Chess_magazine), Vol. 56, No. 5
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [The Chess Game in the James Bond classic From Russia, With Love](http://hogranch.com/mayer/chess_frwl.html) from [Ernst's Home Page](http://hogranch.com/mayer/home.html)
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [OPEN CHESS DIARY 241-260](http://www.xs4all.nl/%7Etimkr/chess2/diary_13.htm), 250. July 6, 2004: *You are requested to make a blunder* by [Tim Krabbé](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9)
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [The name is Spassky – Boris Spassky](http://www.chessbase.com/newsdetail.asp?newsid=1882) from [ChessBase news](ChessBase "ChessBase"), September 2, 2004
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [I.J. Good's Shorter Publications List](http://www.web-e.stat.vt.edu/holtzman/IJGood/IJGoodsShorterPubList,Aug19,2003.pdf) (pdf) from [Virginia Tech](https://en.wikipedia.org/wiki/Virginia_Polytechnic_Institute_and_State_University)
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Good–Turing frequency estimation](https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation)
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Paul Rushton](Paul_Rushton "Paul Rushton"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1973**). *Current Chess Programs: A Summary of their Potential and Limitations*. INFOR Journal of the Canadian Information Processing Society Vol. 11, No. 1, [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Rushton-Marsland-Feb73.pdf)
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") (**1988**). *A Rejoinder to I.J. Good's Comments.* [ICCA Journal, Vol. 11, No. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [Banburismus from Wikipedia](https://en.wikipedia.org/wiki/Banburismus)
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Good–Turing frequency estimation from Wikipedia](https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation)
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [David McAllester](David_McAllester "David McAllester"), [Robert Schapire](Robert_Schapire "Robert Schapire") (**2000**). *On the Convergence Rate of Good-Turing Estimators*. [COLT 2000](http://dblp.uni-trier.de/db/conf/colt/colt2000.html#McAllesterS00), [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.340)
 
 **[Up one level](People "People")**
 

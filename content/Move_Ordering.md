@@ -5,7 +5,7 @@ title: Move Ordering
 
 
 
-[ [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - Four Parts [[1]](#cite_note-1)
+[ [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - Four Parts <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 For the [alpha-beta](Alpha-Beta "Alpha-Beta") algorithm to perform well, the [best moves](Best_Move "Best Move") need to be searched first. This is especially true for [PV-nodes](Node_Types#pv-node "Node Types") and expected [Cut-nodes](Node_Types#cut-nodes "Node Types"). The goal is to become close to the minimal tree. On the other hand - at Cut-nodes - the best move is not always the cheapest refutation, see for instance [enhanced transposition cutoff](Enhanced_Transposition_Cutoff "Enhanced Transposition Cutoff"). **Most** important inside an [iterative deepening](Iterative_Deepening "Iterative Deepening") framework is to try the [principal variation](Principal_Variation "Principal Variation") of the previous [iteration](Iteration "Iteration") as the leftmost path for the next iteration, which might be applied by an explicit [triangular PV-table](Triangular_PV-Table "Triangular PV-Table") or implicit by the [transposition table](Transposition_Table "Transposition Table").
 
 
@@ -28,10 +28,10 @@ For [captures](Captures "Captures") (if any), a simple, but quite efficient heur
 ### Non-Captures
 
 
-* [Killer Heuristic](Killer_Heuristic "Killer Heuristic") [[2]](#cite_note-2)
-* [History Heuristic](History_Heuristic "History Heuristic") [[3]](#cite_note-3)
-* [Relative History Heuristic](Relative_History_Heuristic "Relative History Heuristic") [[4]](#cite_note-4)
-* [Dedicated Piece-Square Tables](Piece-Square_Tables "Piece-Square Tables") only for move ordering [[5]](#cite_note-5)
+* [Killer Heuristic](Killer_Heuristic "Killer Heuristic") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
+* [History Heuristic](History_Heuristic "History Heuristic") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
+* [Relative History Heuristic](Relative_History_Heuristic "Relative History Heuristic") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
+* [Dedicated Piece-Square Tables](Piece-Square_Tables "Piece-Square Tables") only for move ordering <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 
 ### Less common techniques
@@ -42,10 +42,10 @@ These techniques are well known theoretically for non-captures, but not all prog
 
 
 * [Mate Killers](Mate_Killers "Mate Killers")
-* [Countermove Heuristic](Countermove_Heuristic "Countermove Heuristic") [[6]](#cite_note-6)
+* [Countermove Heuristic](Countermove_Heuristic "Countermove Heuristic") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 * [Guard Heuristic](Guard_Heuristic "Guard Heuristic")
 * [Last Best Reply](Last_Best_Reply "Last Best Reply")
-* [Butterfly Heuristic](Butterfly_Heuristic "Butterfly Heuristic") [[7]](#cite_note-7)
+* [Butterfly Heuristic](Butterfly_Heuristic "Butterfly Heuristic") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 * [Threat Move](Threat_Move "Threat Move") from [null move](Null_Move_Pruning "Null Move Pruning") refutations
 * [Enhanced Transposition Cutoff](Enhanced_Transposition_Cutoff "Enhanced Transposition Cutoff") (ETC)
 * [Refutation Table](Refutation_Table "Refutation Table")
@@ -59,7 +59,7 @@ Move ordering (as well as [Time Management](Time_Management "Time Management")) 
 
 
 * [Chessmaps Heuristic](Chessmaps_Heuristic "Chessmaps Heuristic")
-* [Neural MoveMap Heuristic](Neural_MoveMap_Heuristic "Neural MoveMap Heuristic") [[8]](#cite_note-8) [[9]](#cite_note-9)
+* [Neural MoveMap Heuristic](Neural_MoveMap_Heuristic "Neural MoveMap Heuristic") <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 ## Typical move ordering
@@ -123,7 +123,7 @@ Move ordering effort might be controlled by considering [draft](Depth "Depth") a
 ### Root Node Considerations
 
 
-Despite trying the best move and principal variation from previous iteration first, iterative deepening offers another ressource to order the remaining moves at the [root](Root "Root") - their subtree size which could be easily determined. As already mentioned by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") in an [1992 ICCA Journal](ICGA_Journal#15_1 "ICGA Journal") correspondence [[10]](#cite_note-10) inspired by [Jos Uiterwijk's](Jos_Uiterwijk "Jos Uiterwijk") [Countermove Heuristic](Countermove_Heuristic "Countermove Heuristic") article [[11]](#cite_note-11), based on the soundness of following rule of thumb,
+Despite trying the best move and principal variation from previous iteration first, iterative deepening offers another ressource to order the remaining moves at the [root](Root "Root") - their subtree size which could be easily determined. As already mentioned by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") in an [1992 ICCA Journal](ICGA_Journal#15_1 "ICGA Journal") correspondence <a id="cite-note-10" href="#cite-ref-10">[10]</a> inspired by [Jos Uiterwijk's](Jos_Uiterwijk "Jos Uiterwijk") [Countermove Heuristic](Countermove_Heuristic "Countermove Heuristic") article <a id="cite-note-11" href="#cite-ref-11">[11]</a>, based on the soundness of following rule of thumb,
 
 
 
@@ -137,7 +137,7 @@ Despite trying the best move and principal variation from previous iteration fir
 the old idea is to use the search time or subtree size of the depth-n iteration to reorder the direct successors of the root before the depth-(n+1) iteration. Some programs use the [evaluation](Evaluation "Evaluation") to initially score the moves, to adjust them by their subtree size in subsequent iterations.
 
 
-An [idea](Ronald_de_Man#ScoringRootMoves "Ronald de Man") to apply randomness and/or bonuses, i.e. developing bonus, or penalties to [move](Moves "Moves") [scores](Score "Score") at the [root](Root "Root") by an [oracle](Oracle "Oracle") approach, was proposed by [Ronald de Man](Ronald_de_Man "Ronald de Man") - without any changes in [alpha-beta search](Alpha-Beta "Alpha-Beta") or [leaf evaluation](Evaluation "Evaluation"), and without any problems with the [transposition table](Transposition_Table "Transposition Table") [[12]](#cite_note-12) [[13]](#cite_note-13).
+An [idea](Ronald_de_Man#ScoringRootMoves "Ronald de Man") to apply randomness and/or bonuses, i.e. developing bonus, or penalties to [move](Moves "Moves") [scores](Score "Score") at the [root](Root "Root") by an [oracle](Oracle "Oracle") approach, was proposed by [Ronald de Man](Ronald_de_Man "Ronald de Man") - without any changes in [alpha-beta search](Alpha-Beta "Alpha-Beta") or [leaf evaluation](Evaluation "Evaluation"), and without any problems with the [transposition table](Transposition_Table "Transposition Table") <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>.
 
 
 
@@ -203,8 +203,8 @@ In the [quiescence search](Quiescence_Search "Quiescence Search"), [captures](Ca
 * [Mark Winands](Mark_Winands "Mark Winands"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2006**). *The Relative History Heuristic*. [CG 2004](CG_2004 "CG 2004"), [pdf](http://www.personeel.unimaas.nl/m-winands/documents/relhis.pdf)
 * [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2006**). *[Driving search with Plausibility analysis: Looking at the right moves](http://www.aifactory.co.uk/newsletter/2005_04_plausibility_analysis.htm)*. [AI Factory](AI_Factory "AI Factory"), Winter 2006
 * [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2007**). *[Negative Plausibility](http://www.aifactory.co.uk/newsletter/2007_01_neg_plausibility.htm)*. [AI Factory](AI_Factory "AI Factory"), Spring 2007 » [Relative History Heuristic](Relative_History_Heuristic "Relative History Heuristic")
-* [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2007**). *[Computing Elo Ratings of Move Patterns in the Game of Go](http://remi.coulom.free.fr/Amsterdam2007/)*. [ICGA Journal, Vol. 30, No. 4](ICGA_Journal#30_4 "ICGA Journal"), [CGW 2007](CGW_2007 "CGW 2007"), [pdf](http://remi.coulom.free.fr/Amsterdam2007/icgaj.pdf) [[14]](#cite_note-14)
-* [Timothy Furtak](index.php?title=Timothy_Furtak&action=edit&redlink=1 "Timothy Furtak (page does not exist)"), [Michael Buro](Michael_Buro "Michael Buro") (**2009**). *Minimum Proof Graphs and Fastest-Cut-First Search Heuristics*. [IJCAI 2009](Conferences#IJCAI2009 "Conferences"), [pdf](http://ijcai.org/papers09/Papers/IJCAI09-089.pdf) [[15]](#cite_note-15)
+* [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom") (**2007**). *[Computing Elo Ratings of Move Patterns in the Game of Go](http://remi.coulom.free.fr/Amsterdam2007/)*. [ICGA Journal, Vol. 30, No. 4](ICGA_Journal#30_4 "ICGA Journal"), [CGW 2007](CGW_2007 "CGW 2007"), [pdf](http://remi.coulom.free.fr/Amsterdam2007/icgaj.pdf) <a id="cite-note-14" href="#cite-ref-14">[14]</a>
+* [Timothy Furtak](index.php?title=Timothy_Furtak&action=edit&redlink=1 "Timothy Furtak (page does not exist)"), [Michael Buro](Michael_Buro "Michael Buro") (**2009**). *Minimum Proof Graphs and Fastest-Cut-First Search Heuristics*. [IJCAI 2009](Conferences#IJCAI2009 "Conferences"), [pdf](http://ijcai.org/papers09/Papers/IJCAI09-089.pdf) <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 
 ### 2010 ...
@@ -217,7 +217,7 @@ In the [quiescence search](Quiescence_Search "Quiescence Search"), [captures](Ca
 ### 2020 ...
 
 
-* [Toni Helminen](Toni_Helminen "Toni Helminen") (**2022**). *[Lazy sorting algorithm](https://github.com/SamuraiDangyo/lazy-sorting-algorithm)*. [[16]](#cite_note-16)
+* [Toni Helminen](Toni_Helminen "Toni Helminen") (**2022**). *[Lazy sorting algorithm](https://github.com/SamuraiDangyo/lazy-sorting-algorithm)*. <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 
 ## Forum Posts
@@ -414,22 +414,22 @@ In the [quiescence search](Quiescence_Search "Quiescence Search"), [captures](Ca
 ## References
 
 
-1. [↑](#cite_ref-1) [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - [Four Parts](https://commons.wikimedia.org/wiki/File:Four_Parts_MET_sf1991.402.9.jpg?uselang=en), 1932, [Metropolitan Museum of Art](https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art)
-2. [↑](#cite_ref-2) [Selim Akl](Selim_Akl "Selim Akl"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1977**). *The Principal Continuation and the Killer Heuristic*.1977 ACM Annual Conference Proceedings
-3. [↑](#cite_ref-3) [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1983**). *The History Heuristic*. [ICCA Journal, Vol. 6, No. 3](ICGA_Journal#6_3 "ICGA Journal")
-4. [↑](#cite_ref-4) [Mark Winands](Mark_Winands "Mark Winands"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2006**). *The Relative History Heuristic*. [CG 2004](CG_2004 "CG 2004"), [pdf](http://www.personeel.unimaas.nl/m-winands/documents/relhis.pdf)
-5. [↑](#cite_ref-5)  [Move Ordering in Rebel](https://web.archive.org/web/20120413083131/http://www.top-5000.nl/authors/rebel/chess840.htm#MOVE%20ORDERING) by [Ed Schröder](Ed_Schroder "Ed Schroder") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)), also available as [pdf](http://members.home.nl/matador/Inside%20Rebel.pdf)
-6. [↑](#cite_ref-6) [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Countermove Heuristic*. [ICCA Journal, Vol. 15, No. 1](ICGA_Journal#15_1 "ICGA Journal")
-7. [↑](#cite_ref-7) [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Butterfly Boards*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
-8. [↑](#cite_ref-8) [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *Move Ordering using Neural Networks*. IEA/AIE 2001, [LNCS](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science) 2070
-9. [↑](#cite_ref-9) [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Eric Postma](Eric_Postma "Eric Postma"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *[The Neural MoveMap Heuristic in Chess](http://link.springer.com/chapter/10.1007/978-3-540-40031-8_11)*. [CG 2002](CG_2002 "CG 2002")
-10. [↑](#cite_ref-10) [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1992**). *Move Ordering by Time Ordering*. Correspondence, [ICCA Journal, Vol. 15, No. 2](ICGA_Journal#15_2 "ICGA Journal")
-11. [↑](#cite_ref-11) [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Countermove Heuristic*. [ICCA Journal, Vol. 15, No. 1](ICGA_Journal#15_1 "ICGA Journal")
-12. [↑](#cite_ref-12) [Re: random play](https://groups.google.com/d/msg/rec.games.chess.computer/AI3xadkLEIk/UUqnp9J3BaMJ) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 28, 1996
-13. [↑](#cite_ref-13) [Re: computer chess "oracle" ideas...](https://groups.google.com/d/msg/rec.games.chess.computer/me7GkjsEgds/iC_ZJm5UwswJ) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 7, 1997, see also [Re: mate threat extension/null move](https://www.stmintz.com/ccc/index.php?id=390268) by [Don Beal](Don_Beal "Don Beal"), [CCC](CCC "CCC"), October 04, 2004 » [Mate Threat Extensions](Mate_Threat_Extensions "Mate Threat Extensions"), [Null Move](Null_Move_Pruning "Null Move Pruning") and [WAC](Win_at_Chess "Win at Chess") booster
-14. [↑](#cite_ref-14) [Bradley–Terry model from Wikipedia](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model)
-15. [↑](#cite_ref-15) [Re: Move ordering for cheapest refutation](http://www.talkchess.com/forum/viewtopic.php?t=57228&start=6) by [Mikko Aarnos](Mikko_Aarnos "Mikko Aarnos"), [CCC](CCC "CCC"), August 10, 2015
-16. [↑](#cite_ref-16) [Lazy sorting algorithm - Sorting on steroids](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79279) by [JohnWoe](Toni_Helminen "Toni Helminen"), [CCC](CCC "CCC"), February 03, 2022
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - [Four Parts](https://commons.wikimedia.org/wiki/File:Four_Parts_MET_sf1991.402.9.jpg?uselang=en), 1932, [Metropolitan Museum of Art](https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Selim Akl](Selim_Akl "Selim Akl"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1977**). *The Principal Continuation and the Killer Heuristic*.1977 ACM Annual Conference Proceedings
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1983**). *The History Heuristic*. [ICCA Journal, Vol. 6, No. 3](ICGA_Journal#6_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mark Winands](Mark_Winands "Mark Winands"), [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**2006**). *The Relative History Heuristic*. [CG 2004](CG_2004 "CG 2004"), [pdf](http://www.personeel.unimaas.nl/m-winands/documents/relhis.pdf)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a>  [Move Ordering in Rebel](https://web.archive.org/web/20120413083131/http://www.top-5000.nl/authors/rebel/chess840.htm#MOVE%20ORDERING) by [Ed Schröder](Ed_Schroder "Ed Schroder") ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)), also available as [pdf](http://members.home.nl/matador/Inside%20Rebel.pdf)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Countermove Heuristic*. [ICCA Journal, Vol. 15, No. 1](ICGA_Journal#15_1 "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1988**). *Butterfly Boards*. [ICCA Journal, Vol. 11, Nos. 2/3](ICGA_Journal#11_23 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *Move Ordering using Neural Networks*. IEA/AIE 2001, [LNCS](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science) 2070
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Eric Postma](Eric_Postma "Eric Postma"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *[The Neural MoveMap Heuristic in Chess](http://link.springer.com/chapter/10.1007/978-3-540-40031-8_11)*. [CG 2002](CG_2002 "CG 2002")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1992**). *Move Ordering by Time Ordering*. Correspondence, [ICCA Journal, Vol. 15, No. 2](ICGA_Journal#15_2 "ICGA Journal")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1992**). *The Countermove Heuristic*. [ICCA Journal, Vol. 15, No. 1](ICGA_Journal#15_1 "ICGA Journal")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Re: random play](https://groups.google.com/d/msg/rec.games.chess.computer/AI3xadkLEIk/UUqnp9J3BaMJ) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), November 28, 1996
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Re: computer chess "oracle" ideas...](https://groups.google.com/d/msg/rec.games.chess.computer/me7GkjsEgds/iC_ZJm5UwswJ) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 7, 1997, see also [Re: mate threat extension/null move](https://www.stmintz.com/ccc/index.php?id=390268) by [Don Beal](Don_Beal "Don Beal"), [CCC](CCC "CCC"), October 04, 2004 » [Mate Threat Extensions](Mate_Threat_Extensions "Mate Threat Extensions"), [Null Move](Null_Move_Pruning "Null Move Pruning") and [WAC](Win_at_Chess "Win at Chess") booster
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Bradley–Terry model from Wikipedia](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Re: Move ordering for cheapest refutation](http://www.talkchess.com/forum/viewtopic.php?t=57228&start=6) by [Mikko Aarnos](Mikko_Aarnos "Mikko Aarnos"), [CCC](CCC "CCC"), August 10, 2015
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Lazy sorting algorithm - Sorting on steroids](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79279) by [JohnWoe](Toni_Helminen "Toni Helminen"), [CCC](CCC "CCC"), February 03, 2022
 
 **[Up one level](Search "Search")**
 

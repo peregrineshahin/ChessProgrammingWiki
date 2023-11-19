@@ -3,18 +3,18 @@ title: Hiroyuki Iida
 ---
 **[Home](Home "Home") * [People](People "People") * Hiroyuki Iida**
 
-[](http://www.jaist.ac.jp/profiles/info_e.php?profile_id=00429) Hiroyuki Iida [[1]](#cite_note-1)
+[](http://www.jaist.ac.jp/profiles/info_e.php?profile_id=00429) Hiroyuki Iida <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Hiroyuki Iida**,
 
-a Japanese computer scientist and computer [games](Games "Games") researcher with focus on Game-refinement theory, [Opponent Model Search](Opponent_Model_Search "Opponent Model Search"), and [Computer Shogi](Shogi "Shogi"). Hiroyuki Iida is Professor at [Japan Advanced Institute of Science and Technology (JAIST)](JAIST "JAIST"), and head of the *games laboratory* [[2]](#cite_note-2). Before, he was affiliated with the [Shizuoka University](https://en.wikipedia.org/wiki/Shizuoka_University), [Hamamatsu](https://en.wikipedia.org/wiki/Hamamatsu,_Shizuoka), and was postdoctoral researcher at [Maastricht University](Maastricht_University "Maastricht University"). He received his Ph.D. on *Heuristic Theories on Game-Tree Search* from [Tokyo University of Agriculture and Technology](https://en.wikipedia.org/wiki/Tokyo_University_of_Agriculture_and_Technology), [Tokyo](https://en.wikipedia.org/wiki/Tokyo) [[3]](#cite_note-3) .
+a Japanese computer scientist and computer [games](Games "Games") researcher with focus on Game-refinement theory, [Opponent Model Search](Opponent_Model_Search "Opponent Model Search"), and [Computer Shogi](Shogi "Shogi"). Hiroyuki Iida is Professor at [Japan Advanced Institute of Science and Technology (JAIST)](JAIST "JAIST"), and head of the *games laboratory* <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Before, he was affiliated with the [Shizuoka University](https://en.wikipedia.org/wiki/Shizuoka_University), [Hamamatsu](https://en.wikipedia.org/wiki/Hamamatsu,_Shizuoka), and was postdoctoral researcher at [Maastricht University](Maastricht_University "Maastricht University"). He received his Ph.D. on *Heuristic Theories on Game-Tree Search* from [Tokyo University of Agriculture and Technology](https://en.wikipedia.org/wiki/Tokyo_University_of_Agriculture_and_Technology), [Tokyo](https://en.wikipedia.org/wiki/Tokyo) <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
 ## Shogi
 
-Hiroyuki Iida is a professional [6-dan Shogi player](https://en.wikipedia.org/wiki/Shogi#Player_ranking_and_handicaps), and co-author of the Shogi program [Tacos](index.php?title=Tacos&action=edit&redlink=1 "Tacos (page does not exist)"), the four times Gold medal winner at [Computer Olympiads](Computer_Olympiad "Computer Olympiad") [[4]](#cite_note-4) . He is member of the Board of the [ICGA](ICGA "ICGA") as Secretary-Treasurer and Section Editor of the [ICGA Journal](ICGA_Journal "ICGA Journal").
+Hiroyuki Iida is a professional [6-dan Shogi player](https://en.wikipedia.org/wiki/Shogi#Player_ranking_and_handicaps), and co-author of the Shogi program [Tacos](index.php?title=Tacos&action=edit&redlink=1 "Tacos (page does not exist)"), the four times Gold medal winner at [Computer Olympiads](Computer_Olympiad "Computer Olympiad") <a id="cite-note-4" href="#cite-ref-4">[4]</a> . He is member of the Board of the [ICGA](ICGA "ICGA") as Secretary-Treasurer and Section Editor of the [ICGA Journal](ICGA_Journal "ICGA Journal").
 
 ## Selected Publications
 
-[[5]](#cite_note-5) [[6]](#cite_note-6)
+<a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ## 1990 ...
 
@@ -82,7 +82,7 @@ Hiroyuki Iida, [Jin Yoshimura](Jin_Yoshimura "Jin Yoshimura"), [Kazuro Morita](i
 - Hiroyuki Iida (**2002**). *Control Freak wins Dots-and-Boxes tournament*. [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal") » [7th Computer Olympiad](7th_Computer_Olympiad#DotsandBoxes "7th Computer Olympiad")
 - Hiroyuki Iida (**2002**). *Dynamic-Information Games*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad")
 - [Masahumi Taketoshi](Masahumi_Taketoshi "Masahumi Taketoshi"), [Tsuyoshi Hashimoto](Tsuyoshi_Hashimoto "Tsuyoshi Hashimoto"), [Yoichiro Kajihara](Yoichiro_Kajihara "Yoichiro Kajihara"), [Jun Nagashima](Jun_Nagashima "Jun Nagashima"), Hiroyuki Iida (**2002**). *[Realization-Probability Search in Computer Shogi](http://jglobal.jst.go.jp/en/public/200902131683288984)*. [7th Game Programming Workshop](Conferences#GPW7 "Conferences") (Japanese)
-- [Makoto Sakuta](Makoto_Sakuta "Makoto Sakuta"), [Tsuyoshi Hashimoto](Tsuyoshi_Hashimoto "Tsuyoshi Hashimoto"), [Jun Nagashima](Jun_Nagashima "Jun Nagashima"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), Hiroyuki Iida (**2002**). *Application of the killer-tree heuristic and the lambda-search method to lines of action*. [[7]](#cite_note-7)
+- [Makoto Sakuta](Makoto_Sakuta "Makoto Sakuta"), [Tsuyoshi Hashimoto](Tsuyoshi_Hashimoto "Tsuyoshi Hashimoto"), [Jun Nagashima](Jun_Nagashima "Jun Nagashima"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), Hiroyuki Iida (**2002**). *Application of the killer-tree heuristic and the lambda-search method to lines of action*. <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 - Hiroyuki Iida, [Nobuo Takeshita](index.php?title=Nobuo_Takeshita&action=edit&redlink=1 "Nobuo Takeshita (page does not exist)"), [Jin Yoshimura](Jin_Yoshimura "Jin Yoshimura") (**2002**). *A metric for entertainment of boardgames: its implication for evolution of chess variant*. [IWEC 2002: Makuhari, Japan](http://www.informatik.uni-trier.de/~ley/db/conf/iwec/iwec2002.html#IidaTY02)
 
 **2003 ...**
@@ -111,7 +111,7 @@ Hiroyuki Iida, [Jin Yoshimura](Jin_Yoshimura "Jin Yoshimura"), [Kazuro Morita](i
 - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Hiroyuki Iida, [Aske Plaat](Aske_Plaat "Aske Plaat"), [Johanna Hellemons](Johanna_Hellemons "Johanna Hellemons") (**2013**). *The Brain and Mind Sports Olympiad*. [ICGA Journal, Vol. 36, No. 3](ICGA_Journal#36_3 "ICGA Journal") » [17th Computer Olympiad](17th_Computer_Olympiad "17th Computer Olympiad")
 - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Hiroyuki Iida, [Aske Plaat](Aske_Plaat "Aske Plaat") (**2013**). *The 8th Computers and Games Conference (Part 2)*. [ICGA Journal, Vol. 36, No. 4](ICGA_Journal#36_4 "ICGA Journal") » [CG 2013](CG_2013 "CG 2013")
 - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Hiroyuki Iida, [Aske Plaat](Aske_Plaat "Aske Plaat"), [Johanna Hellemons](Johanna_Hellemons "Johanna Hellemons") (**2013**). *The Brain and Mind Sports Olympiad (Part 2)*. [ICGA Journal, Vol. 36, No. 4](ICGA_Journal#36_4 "ICGA Journal") » [17th Computer Olympiad](17th_Computer_Olympiad "17th Computer Olympiad")
-- [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Hiroyuki Iida, [Aske Plaat](Aske_Plaat "Aske Plaat") (eds.) (**2014**). *[Computers and Games: 8th International Conference, CG 2013, Yokohama, Japan, August 13-15, 2013, Revised Selected Papers](http://link.springer.com/book/10.1007/978-3-319-09165-5)*. [LNCS](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science) 8427, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), ISBN-13: 978-3-319-09164-8 » [CG 2013](CG_2013 "CG 2013") [[8]](#cite_note-8)
+- [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Hiroyuki Iida, [Aske Plaat](Aske_Plaat "Aske Plaat") (eds.) (**2014**). *[Computers and Games: 8th International Conference, CG 2013, Yokohama, Japan, August 13-15, 2013, Revised Selected Papers](http://link.springer.com/book/10.1007/978-3-319-09165-5)*. [LNCS](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science) 8427, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), ISBN-13: 978-3-319-09164-8 » [CG 2013](CG_2013 "CG 2013") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ## 2015 ...
 
@@ -135,14 +135,14 @@ Hiroyuki Iida, [Jin Yoshimura](Jin_Yoshimura "Jin Yoshimura"), [Kazuro Morita](i
 
 ## References
 
-1. [↑](#cite_ref-1) [Hiroyuki Iida Profile](http://www.jaist.ac.jp/profiles/info_e.php?profile_id=00429) from [JAIST](JAIST "JAIST")
-1. [↑](#cite_ref-2) [Research Center for Computers and Games - Members](http://www.jaist.ac.jp/rccg/menu/member.htm)
-1. [↑](#cite_ref-3) Hiroyuki Iida (**1994**). *Heuristic Theories on Game-Tree Search*. Ph.D. thesis, [Tokyo University of Agriculture and Technology](https://en.wikipedia.org/wiki/Tokyo_University_of_Agriculture_and_Technology), [Tokyo](https://en.wikipedia.org/wiki/Tokyo). ISBN 4-944082-02-9
-1. [↑](#cite_ref-4) [Shogi](https://www.game-ai-forum.org/icga-tournaments/game.php?id=17) at the [Computer Olympiad](Computer_Olympiad "Computer Olympiad")
-1. [↑](#cite_ref-5) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. [↑](#cite_ref-6) [Hiroyuki Iida Author profile](http://portal.acm.org/author_page.cfm?id=81100308089&coll=ACM&dl=ACM&trk=0) from [ACM Portal](http://portal.acm.org/portal.cfm)
-1. [↑](#cite_ref-7) [ScienceDirect - Information Sciences : Application of the killer-tree heuristic and the lambda-search method to lines of action](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V0C-47VH35R-3&_user=10&_coverDate=09%2F30%2F2003&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1552460904&_rerunOrigin=google&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=1d9bce14fd47b45fbf1ebabd9e791404&searchtype=a)
-1. [↑](#cite_ref-8) [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2014**). *A Statue of unremitting Devotion. Revised Selected papers CG 2013*. (Review) [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hiroyuki Iida Profile](http://www.jaist.ac.jp/profiles/info_e.php?profile_id=00429) from [JAIST](JAIST "JAIST")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Research Center for Computers and Games - Members](http://www.jaist.ac.jp/rccg/menu/member.htm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> Hiroyuki Iida (**1994**). *Heuristic Theories on Game-Tree Search*. Ph.D. thesis, [Tokyo University of Agriculture and Technology](https://en.wikipedia.org/wiki/Tokyo_University_of_Agriculture_and_Technology), [Tokyo](https://en.wikipedia.org/wiki/Tokyo). ISBN 4-944082-02-9
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Shogi](https://www.game-ai-forum.org/icga-tournaments/game.php?id=17) at the [Computer Olympiad](Computer_Olympiad "Computer Olympiad")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hiroyuki Iida Author profile](http://portal.acm.org/author_page.cfm?id=81100308089&coll=ACM&dl=ACM&trk=0) from [ACM Portal](http://portal.acm.org/portal.cfm)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [ScienceDirect - Information Sciences : Application of the killer-tree heuristic and the lambda-search method to lines of action](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V0C-47VH35R-3&_user=10&_coverDate=09%2F30%2F2003&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1552460904&_rerunOrigin=google&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=1d9bce14fd47b45fbf1ebabd9e791404&searchtype=a)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2014**). *A Statue of unremitting Devotion. Revised Selected papers CG 2013*. (Review) [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal")
 
 **[Up one level](People "People")**
 

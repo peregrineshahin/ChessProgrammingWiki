@@ -8,8 +8,8 @@ title: WMCCC 1993NimzoBug
 
 
 
-[ [Neuschwanstein](https://en.wikipedia.org/wiki/Neuschwanstein_Castle) Excursion, November 4th [[1]](#cite_note-1)
-The **Twelfth World Microcomputer Chess Championship** took place from October 31 to November 7, [1993](Timeline#1993 "Timeline"), at Weinfurtner's Garden-Hotel [[2]](#cite_note-2) , [Munich](https://en.wikipedia.org/wiki/Munich) [Schwabing](https://en.wikipedia.org/wiki/Schwabing), [Bavaria](https://en.wikipedia.org/wiki/Bavaria), [Germany](https://en.wikipedia.org/wiki/Germany). The WMCCC 1993 was organized by the [ICCA](ICCA "ICCA") and editors of the German computer chess magazine [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), which was also primary sponsor of the event [[3]](#cite_note-3).
+[ [Neuschwanstein](https://en.wikipedia.org/wiki/Neuschwanstein_Castle) Excursion, November 4th <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+The **Twelfth World Microcomputer Chess Championship** took place from October 31 to November 7, [1993](Timeline#1993 "Timeline"), at Weinfurtner's Garden-Hotel <a id="cite-note-2" href="#cite-ref-2">[2]</a> , [Munich](https://en.wikipedia.org/wiki/Munich) [Schwabing](https://en.wikipedia.org/wiki/Schwabing), [Bavaria](https://en.wikipedia.org/wiki/Bavaria), [Germany](https://en.wikipedia.org/wiki/Germany). The WMCCC 1993 was organized by the [ICCA](ICCA "ICCA") and editors of the German computer chess magazine [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), which was also primary sponsor of the event <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 
 Three [dedicated machines](Dedicated_Chess_Computers "Dedicated Chess Computers") played in the Manufacturers Group, each playing eight with each of the other two. The Software Group was well attended with 28 programs contesting a nine round [Swiss tournament](https://en.wikipedia.org/wiki/Swiss-system_tournament). 
@@ -19,7 +19,7 @@ Three [dedicated machines](Dedicated_Chess_Computers "Dedicated Chess Computers"
 ### Final Standing
 
 
-12th World Microcomputer Chess Championship, Oct. 1993, München GER [[5]](#cite_note-5) [[6]](#cite_note-6)
+12th World Microcomputer Chess Championship, Oct. 1993, München GER <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 
 
@@ -494,7 +494,7 @@ Three [dedicated machines](Dedicated_Chess_Computers "Dedicated Chess Computers"
  | [Victor Vikhrev](Victor_Vikhrev "Victor Vikhrev"), [Alexey Manjakhin](Alexey_Manjakhin "Alexey Manjakhin") | [486](X86 "X86") |  66
  |
 | [Chess Brain](Chess_Brain "Chess Brain") |  DE
- | [Karl-Heinz Milaster](Karl-Heinz_Milaster "Karl-Heinz Milaster") | [Pentium](X86 "X86") [[7]](#cite_note-7) [[8]](#cite_note-8) |  66
+ | [Karl-Heinz Milaster](Karl-Heinz_Milaster "Karl-Heinz Milaster") | [Pentium](X86 "X86") <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> |  66
  |
 | [Diogenes](Diogenes "Diogenes") |  DE
  | [Jörg Burwitz](J%C3%B6rg_Burwitz "Jörg Burwitz") | [486](X86 "X86") |  66
@@ -577,7 +577,7 @@ Three [dedicated machines](Dedicated_Chess_Computers "Dedicated Chess Computers"
 ## Manufacturers Group
 
 
-[[9]](#cite_note-9)
+<a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 
@@ -659,7 +659,7 @@ The playoff between the winner of the Manufacturers Group, [Mephisto Genius 2](C
 ## Photos
 
 
-[[10]](#cite_note-10)
+<a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 
 
@@ -690,7 +690,7 @@ Playoff [Wundermaschine](Mephisto "Mephisto") vs. [HIARCS](HIARCS "HIARCS"), [Ri
 ## Notable Games
 
 
-[[11]](#cite_note-11)
+<a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 
 
@@ -725,7 +725,7 @@ Nc5+ 59.Ka7 Ne6 60.b6 Nd8 61.b7 Nxb7 62.Kxb7 Kc5 63.Ne2 Kd5 64.Ng1 e4 65.Kb6 e3
 
 ```
 
-As reported by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") [[12]](#cite_note-12), Nimzo happily sacrificed the knight with 61... Nxb7, winning the game due to a [bug](Engine_Testing#bugs "Engine Testing"). A winning score was given, applying the [Rule of the Square](Rule_of_the_Square "Rule of the Square") for its black passer. Instead, as intended, with White having no pieces to make the e-pawn [unstoppable](Unstoppable_Passer "Unstoppable Passer"), the winning score was enabled by Black without pieces [[13]](#cite_note-13)! 
+As reported by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") <a id="cite-note-12" href="#cite-ref-12">[12]</a>, Nimzo happily sacrificed the knight with 61... Nxb7, winning the game due to a [bug](Engine_Testing#bugs "Engine Testing"). A winning score was given, applying the [Rule of the Square](Rule_of_the_Square "Rule of the Square") for its black passer. Instead, as intended, with White having no pieces to make the e-pawn [unstoppable](Unstoppable_Passer "Unstoppable Passer"), the winning score was enabled by Black without pieces <a id="cite-note-13" href="#cite-ref-13">[13]</a>! 
 
 
 
@@ -745,7 +745,7 @@ As reported by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") [[12]]
 ### Desperado
 
 
-Round 8, [The King](The_King "The King") - [Nimzo-Guernica](Nimzo "Nimzo") » [Desperado](Stalemate#Desperado "Stalemate") [[14]](#cite_note-14)
+Round 8, [The King](The_King "The King") - [Nimzo-Guernica](Nimzo "Nimzo") » [Desperado](Stalemate#Desperado "Stalemate") <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 
 
@@ -779,7 +779,7 @@ Round 8, [The King](The_King "The King") - [Nimzo-Guernica](Nimzo "Nimzo") » [
 ### Broken Interface
 
 
-In the last round, [Kasparov Sparc](Kasparov_Sparc "Kasparov Sparc"), operated by [Günter Niggemann](index.php?title=G%C3%BCnter_Niggemann&action=edit&redlink=1 "Günter Niggemann (page does not exist)") lost due to hardware problems and finally a broken interface cable and card in a better position from [MChess](MChess "MChess") operated by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"). See [Mclane's](Thorsten_Czub "Thorsten Czub") post in [rgcc](Computer_Chess_Forums "Computer Chess Forums") for the whole story [[15]](#cite_note-15):
+In the last round, [Kasparov Sparc](Kasparov_Sparc "Kasparov Sparc"), operated by [Günter Niggemann](index.php?title=G%C3%BCnter_Niggemann&action=edit&redlink=1 "Günter Niggemann (page does not exist)") lost due to hardware problems and finally a broken interface cable and card in a better position from [MChess](MChess "MChess") operated by [Thorsten Czub](Thorsten_Czub "Thorsten Czub"). See [Mclane's](Thorsten_Czub "Thorsten Czub") post in [rgcc](Computer_Chess_Forums "Computer Chess Forums") for the whole story <a id="cite-note-15" href="#cite-ref-15">[15]</a>:
 
 
 
@@ -815,7 +815,7 @@ In the last round, [Kasparov Sparc](Kasparov_Sparc "Kasparov Sparc"), operated b
 [](http://www.rebel.nl/diaz.htm)
 [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), [Frederic Friedel](Frederic_Friedel "Frederic Friedel") - [David Levy](David_Levy "David Levy"), [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), [Richard Lang](Richard_Lang "Richard Lang"), [Manfred Hegener](Manfred_Hegener "Manfred Hegener")  
 [Alexey Manjakhin](Alexey_Manjakhin "Alexey Manjakhin"), [Karl-Heinz Milaster](Karl-Heinz_Milaster "Karl-Heinz Milaster"), [Tony Marsland](Tony_Marsland "Tony Marsland"), [Mark Lefler](Mark_Lefler "Mark Lefler"), [Dieter Steinwender](Dieter_Steinwender "Dieter Steinwender") (Floppy)  
-[Bart Weststrate](Bart_Weststrate "Bart Weststrate"), [Ed Schröder](Ed_Schroder "Ed Schroder"), [Johan de Koning](Johan_de_Koning "Johan de Koning"), [Frans Morsch](Frans_Morsch "Frans Morsch") [[16]](#cite_note-16)
+[Bart Weststrate](Bart_Weststrate "Bart Weststrate"), [Ed Schröder](Ed_Schroder "Ed Schroder"), [Johan de Koning](Johan_de_Koning "Johan de Koning"), [Frans Morsch](Frans_Morsch "Frans Morsch") <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 
 
@@ -857,22 +857,22 @@ In the last round, [Kasparov Sparc](Kasparov_Sparc "Kasparov Sparc"), operated b
 ## References
 
 
-1. [↑](#cite_ref-1) Neuschwanstein Castle is a famous German castle in [Schwangau](https://en.wikipedia.org/wiki/Schwangau), [Bavaria](https://en.wikipedia.org/wiki/Bavaria), built by [King Ludwig II of Bavaria](https://en.wikipedia.org/wiki/Ludwig_II_of_Bavaria), Photo by [Cezary Piwowarski](https://commons.wikimedia.org/wiki/User:Cezary_p), June 2007, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Schloss Neuschwanstein - Wikimedia Commons](https://commons.wikimedia.org/wiki/Neuschwanstein_Castle), [Neuschwanstein Castle from Wikipedia](https://en.wikipedia.org/wiki/Neuschwanstein_Castle)
-2. [↑](#cite_ref-2) Now [Fleming’s Hotel Munich Schwabing](http://www.flemings-hotels.com/en/hotels/flemings-hotelmuenchen-schwabing/info.html)
-3. [↑](#cite_ref-3) [David Levy](David_Levy "David Levy") (**1993**). *The 12th World Microcomputer Chess Championship - Information for Participants*. [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
-4. [↑](#cite_ref-4) [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1994**). *1993 World Microcomputer Championship.* [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 4 No. 2
-5. [↑](#cite_ref-5) [WMCC 1993](http://www.csvn.nl/index.php?option=com_content&view=article&id=76%3Awmcc-1993&catid=19%3Acomputer-computer&Itemid=48&lang=en), [CSVN](CSVN "CSVN") tournament site
-6. [↑](#cite_ref-6) [12th World Microcomputer Chess Championship - Munich 1993 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=57)
-7. [↑](#cite_ref-7) Pentium PC plus Chess Co-Processor
-8. [↑](#cite_ref-8) [Karl-Heinz Milaster's schachserver](http://www.schachserver.de/index.html) (German)
-9. [↑](#cite_ref-9) [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1994**). *1993 World Microcomputer Championship.* [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 4 No. 2
-10. [↑](#cite_ref-10) [Hiarcs Fan Page](http://www.thorstenczub.de/hiarcs.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
-11. [↑](#cite_ref-11) [Downloads | World championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=41&Itemid=26&lang=en&limitstart=10), [CSVN](CSVN "CSVN") download site
-12. [↑](#cite_ref-12) [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1999**). *Computer machen keine Fehler*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele") 2/99, [pdf](http://www.mustrum.de/chrilly/keine_fehler.pdf) (German)
-13. [↑](#cite_ref-13) [Your best bug ?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=477389&t=44706&sid=8b10031146b44f86ac4c4a129debf451) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 06, 2012
-14. [↑](#cite_ref-14) [Re: Your best bug ?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=477493&t=44706) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 07, 2012
-15. [↑](#cite_ref-15) [Re: CSS Article Translation](https://groups.google.com/d/msg/rec.games.chess.computer/1TETxhdJwXA/MFUDs8SUIN0J) by [mclane](Thorsten_Czub "Thorsten Czub"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 16, 1997
-16. [↑](#cite_ref-16) [Diaz Cartoon](http://www.diazcartoons.nl/) from the WMCCC 1993 booklet from [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), via [More DIAZ Cartoons](http://www.rebel.nl/diaz.htm) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Neuschwanstein Castle is a famous German castle in [Schwangau](https://en.wikipedia.org/wiki/Schwangau), [Bavaria](https://en.wikipedia.org/wiki/Bavaria), built by [King Ludwig II of Bavaria](https://en.wikipedia.org/wiki/Ludwig_II_of_Bavaria), Photo by [Cezary Piwowarski](https://commons.wikimedia.org/wiki/User:Cezary_p), June 2007, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Schloss Neuschwanstein - Wikimedia Commons](https://commons.wikimedia.org/wiki/Neuschwanstein_Castle), [Neuschwanstein Castle from Wikipedia](https://en.wikipedia.org/wiki/Neuschwanstein_Castle)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Now [Fleming’s Hotel Munich Schwabing](http://www.flemings-hotels.com/en/hotels/flemings-hotelmuenchen-schwabing/info.html)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Levy](David_Levy "David Levy") (**1993**). *The 12th World Microcomputer Chess Championship - Information for Participants*. [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1994**). *1993 World Microcomputer Championship.* [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 4 No. 2
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [WMCC 1993](http://www.csvn.nl/index.php?option=com_content&view=article&id=76%3Awmcc-1993&catid=19%3Acomputer-computer&Itemid=48&lang=en), [CSVN](CSVN "CSVN") tournament site
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [12th World Microcomputer Chess Championship - Munich 1993 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=57)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Pentium PC plus Chess Co-Processor
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Karl-Heinz Milaster's schachserver](http://www.schachserver.de/index.html) (German)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1994**). *1993 World Microcomputer Championship.* [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 4 No. 2
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Hiarcs Fan Page](http://www.thorstenczub.de/hiarcs.html) by [Thorsten Czub](Thorsten_Czub "Thorsten Czub")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Downloads | World championships | Games](http://www.csvn.nl/index.php?option=com_docman&task=cat_view&gid=41&Itemid=26&lang=en&limitstart=10), [CSVN](CSVN "CSVN") download site
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1999**). *Computer machen keine Fehler*. [CSS](Computerschach_und_Spiele "Computerschach und Spiele") 2/99, [pdf](http://www.mustrum.de/chrilly/keine_fehler.pdf) (German)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Your best bug ?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=477389&t=44706&sid=8b10031146b44f86ac4c4a129debf451) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 06, 2012
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Re: Your best bug ?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=477493&t=44706) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 07, 2012
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Re: CSS Article Translation](https://groups.google.com/d/msg/rec.games.chess.computer/1TETxhdJwXA/MFUDs8SUIN0J) by [mclane](Thorsten_Czub "Thorsten Czub"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 16, 1997
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Diaz Cartoon](http://www.diazcartoons.nl/) from the WMCCC 1993 booklet from [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele"), via [More DIAZ Cartoons](http://www.rebel.nl/diaz.htm) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
 
 **[Up one level](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship")**
 

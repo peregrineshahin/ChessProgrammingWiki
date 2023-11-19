@@ -3,26 +3,26 @@ title: Fidelity Electronics
 ---
 **[Home](Home "Home") * [Organizations](Organizations "Organizations") * Fidelity Electronics**
 
-\[ Fidelity Logo [[1]](#cite_note-1)
+\[ Fidelity Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Fidelity Electronics** (**Fidelity International Inc.**),
 
-was an American [hearing-aid](https://en.wikipedia.org/wiki/Hearing_aid) manufacturing company, founded in 1959, and in March 1970 purchased by [Sidney](Sidney_Samole "Sidney Samole") and [Myron Samole](index.php?title=Myron_Samole&action=edit&redlink=1 "Myron Samole (page does not exist)") [[2]](#cite_note-2) . Among its other cutting-edge technology, Fidelity Electronics produced high-tech, bio-medical products, such as [myo-electric](https://en.wikipedia.org/wiki/Electromyography) hands, prostheses that could actually be controlled by the brain impulses of amputees. Since 1976, Fidelity Electronics developed and produced [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers").
+was an American [hearing-aid](https://en.wikipedia.org/wiki/Hearing_aid) manufacturing company, founded in 1959, and in March 1970 purchased by [Sidney](Sidney_Samole "Sidney Samole") and [Myron Samole](index.php?title=Myron_Samole&action=edit&redlink=1 "Myron Samole (page does not exist)") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Among its other cutting-edge technology, Fidelity Electronics produced high-tech, bio-medical products, such as [myo-electric](https://en.wikipedia.org/wiki/Electromyography) hands, prostheses that could actually be controlled by the brain impulses of amputees. Since 1976, Fidelity Electronics developed and produced [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers").
 
 ## Photos
 
-[[3]](#cite_note-3)
+<a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 [](http://www.flickr.com/photos/10261668@N05/859077348/sizes/z/in/photostream/)
 Director of Engineering: [Ron Nelson](Ron_Nelson "Ron Nelson")
 
 [](http://www.flickr.com/photos/10261668@N05/858218235/in/photostream)
-[Kathe](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen") [debugging](Debugging "Debugging") [Challenger](Chess_Challenger "Chess Challenger") with [Apple II](Apple_II "Apple II") [in-circuit emulator](https://en.wikipedia.org/wiki/In-circuit_emulator) [[4]](#cite_note-4)
+[Kathe](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen") [debugging](Debugging "Debugging") [Challenger](Chess_Challenger "Chess Challenger") with [Apple II](Apple_II "Apple II") [in-circuit emulator](https://en.wikipedia.org/wiki/In-circuit_emulator) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ## History
 
-Sidney Samole was the man who dreamed, patented and produced the first commercial chess computer. He closely cooperated with [Ron Nelson](Ron_Nelson "Ron Nelson") and later with [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"). He was credited with inventing the first commercial electronic chess game in the 1970s after watching a [Star Trek](https://en.wikipedia.org/wiki/Star_Trek) episode [[5]](#cite_note-5) . It seems that he actually had the idea but it was [Ron Nelson](Ron_Nelson "Ron Nelson") who really created the machine, called [Fidelity Chess Challenger 1](Chess_Challenger "Chess Challenger") [[6]](#cite_note-6) [[7]](#cite_note-7) . After building three working models and four non-working models, Sidney Samole decided to promote his new brainchild at [Chicago's](https://en.wikipedia.org/wiki/Chicago) [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) in [January 1977](https://en.wikipedia.org/wiki/1977) [[8]](#cite_note-8) . Fidelity prospered. In fact, it seems that the success of the *Fidelity Chess Challenger 7* computer [[9]](#cite_note-9) , which sold about 600,000 units was responsible for the move from [Chicago](https://en.wikipedia.org/wiki/Chicago), [Illinois](https://en.wikipedia.org/wiki/Illinois) to [Miami](https://en.wikipedia.org/wiki/Miami) [Florida](https://en.wikipedia.org/wiki/Florida) in January 1981. Fidelity also produced computerized [Bridge](https://en.wikipedia.org/wiki/Contract_bridge), [Checkers](Checkers "Checkers"), and [Othello](Othello "Othello") games. Fidelity manufactured all its games in the US.
+Sidney Samole was the man who dreamed, patented and produced the first commercial chess computer. He closely cooperated with [Ron Nelson](Ron_Nelson "Ron Nelson") and later with [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen"). He was credited with inventing the first commercial electronic chess game in the 1970s after watching a [Star Trek](https://en.wikipedia.org/wiki/Star_Trek) episode <a id="cite-note-5" href="#cite-ref-5">[5]</a> . It seems that he actually had the idea but it was [Ron Nelson](Ron_Nelson "Ron Nelson") who really created the machine, called [Fidelity Chess Challenger 1](Chess_Challenger "Chess Challenger") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> . After building three working models and four non-working models, Sidney Samole decided to promote his new brainchild at [Chicago's](https://en.wikipedia.org/wiki/Chicago) [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) in [January 1977](https://en.wikipedia.org/wiki/1977) <a id="cite-note-8" href="#cite-ref-8">[8]</a> . Fidelity prospered. In fact, it seems that the success of the *Fidelity Chess Challenger 7* computer <a id="cite-note-9" href="#cite-ref-9">[9]</a> , which sold about 600,000 units was responsible for the move from [Chicago](https://en.wikipedia.org/wiki/Chicago), [Illinois](https://en.wikipedia.org/wiki/Illinois) to [Miami](https://en.wikipedia.org/wiki/Miami) [Florida](https://en.wikipedia.org/wiki/Florida) in January 1981. Fidelity also produced computerized [Bridge](https://en.wikipedia.org/wiki/Contract_bridge), [Checkers](Checkers "Checkers"), and [Othello](Othello "Othello") games. Fidelity manufactured all its games in the US.
 
-By 1989, a recession was in the wind, and Sidney Samole was sensitive to its warning breezes. He sold Fidelity Electronics at the top of its value to [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"). Sidney's son, [Shane Samole](Shane_Samole "Shane Samole"), who already started Fidelity Canada in 1984 [[10]](#cite_note-10) took a loan from his father and started [Excalibur Electronics](Excalibur_Electronics "Excalibur Electronics") in 1992. Sidney Samole died on July 30, 2000 [[11]](#cite_note-11) .
+By 1989, a recession was in the wind, and Sidney Samole was sensitive to its warning breezes. He sold Fidelity Electronics at the top of its value to [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"). Sidney's son, [Shane Samole](Shane_Samole "Shane Samole"), who already started Fidelity Canada in 1984 <a id="cite-note-10" href="#cite-ref-10">[10]</a> took a loan from his father and started [Excalibur Electronics](Excalibur_Electronics "Excalibur Electronics") in 1992. Sidney Samole died on July 30, 2000 <a id="cite-note-11" href="#cite-ref-11">[11]</a> .
 
 ## Achievements
 
@@ -35,7 +35,7 @@ Fidelity chess computers won the first four [World Microcomputer Chess Champions
 [Ron Nelson](Ron_Nelson "Ron Nelson"), [Kathe](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen") were [Samole's](Sidney_Samole "Sidney Samole") protégés and "house" programmers. Nelson programs were all [Intel](Intel "Intel") [8080](8080 "8080") or [Zilog](https://en.wikipedia.org/wiki/Zilog) [Z80](Z80 "Z80") based, while the Spracklens relied on [MOS Technology](https://en.wikipedia.org/wiki/MOS_Technology) [6502](6502 "6502") and later on [Motorola](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page does not exist)") [68000](68000 "68000") and successors. Soon after Samole sold Fidelity to [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), some more programmers were associated with Fidelity chess computers.
 
 |  Author
-|  List of computers [[12]](#cite_note-12) |
+|  List of computers <a id="cite-note-12" href="#cite-ref-12">[12]</a> |
 | --- | --- |
 | [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") | [Danielsen, Kaare](http://www.schach-computer.info/wiki/index.php/Kaare_Danielsen) |
 | [Frank Duason](index.php?title=Frank_Duason&action=edit&redlink=1 "Frank Duason (page does not exist)") |  |
@@ -52,11 +52,11 @@ Fidelity chess computers won the first four [World Microcomputer Chess Champions
 
 - [Boris Baczynskyj](Boris_Baczynskyj "Boris Baczynskyj")
 - [Terry Everett](Terry_Everett "Terry Everett")
-- [Tom Fürstenberg](Tom_F%C3%BCrstenberg "Tom Fürstenberg") [[13]](#cite_note-13)
+- [Tom Fürstenberg](Tom_F%C3%BCrstenberg "Tom Fürstenberg") <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 - [Peter-Ingolf Gericke](index.php?title=Peter-Ingolf_Gericke&action=edit&redlink=1 "Peter-Ingolf Gericke (page does not exist)")
 - [Florian Glaser](index.php?title=Florian_Glaser&action=edit&redlink=1 "Florian Glaser (page does not exist)") since 1989
 - [Manfred Hegener](Manfred_Hegener "Manfred Hegener") since 1989
-- [David Levy](David_Levy "David Levy") [[14]](#cite_note-14)
+- [David Levy](David_Levy "David Levy") <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 - [Peter Reckwitz](Peter_Reckwitz "Peter Reckwitz")
 - [Myron Samole](index.php?title=Myron_Samole&action=edit&redlink=1 "Myron Samole (page does not exist)")
 - [Shane Samole](Shane_Samole "Shane Samole")
@@ -124,7 +124,7 @@ Fidelity had various brand names for their chess computers, most notably [Chess 
 ## Chess Computers
 
 |  Year
-|  Product Link(s) [[15]](#cite_note-15) [[16]](#cite_note-16) |  Author(s)
+|  Product Link(s) <a id="cite-note-15" href="#cite-ref-15">[15]</a> <a id="cite-note-16" href="#cite-ref-16">[16]</a> |  Author(s)
 |  Processor
 |  Tournaments
 |
@@ -218,7 +218,7 @@ Fidelity had various brand names for their chess computers, most notably [Chess 
 |  |
 | [Fidelity Designer 2100 Display](http://www.schach-computer.info/wiki/index.php/Fidelity_Designer_2100_Display) | [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") | [6502](6502 "6502"), 6 MHz
 |  |
-| [Chess Challenger X](Chess_Challenger#ChallengerX "Chess Challenger") [[17]](#cite_note-17) | [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen")[Ron Nelson](Ron_Nelson "Ron Nelson") | [68030](68030 "68030") | [ACM 1988](ACM_1988 "ACM 1988"), 2nd
+| [Chess Challenger X](Chess_Challenger#ChallengerX "Chess Challenger") <a id="cite-note-17" href="#cite-ref-17">[17]</a> | [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen")[Ron Nelson](Ron_Nelson "Ron Nelson") | [68030](68030 "68030") | [ACM 1988](ACM_1988 "ACM 1988"), 2nd
 |
 | [Fidelity Excel Mach III](http://www.schach-computer.info/wiki/index.php/Fidelity_Excel_Mach_III) | [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") | [68000](68000 "68000") |  |
 |  1989
@@ -230,14 +230,14 @@ Fidelity had various brand names for their chess computers, most notably [Chess 
 | [Aegon 1989](Aegon_1989 "Aegon 1989") |
 | [Fidelity Elite Avant Garde V9](http://www.schach-computer.info/wiki/index.php/Fidelity_Elite_V9) | [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") | [68030](68030 "68030"), 32 MHz
 |  |
-| [Fidelity X](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc194e20) [[18]](#cite_note-18) | [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") | [68030](68030 "68030") [[19]](#cite_note-19) | [WCCC 1989](WCCC_1989 "WCCC 1989"), 6th
+| [Fidelity X](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc194e20) <a id="cite-note-18" href="#cite-ref-18">[18]</a> | [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") | [68030](68030 "68030") <a id="cite-note-19" href="#cite-ref-19">[19]</a> | [WCCC 1989](WCCC_1989 "WCCC 1989"), 6th
 |
 | [Fidelity Chess Card](http://www.schach-computer.info/wiki/index.php/Fidelity_Chess_Card) | [David Levy](David_Levy "David Levy"), [Mark Taylor](Mark_Taylor "Mark Taylor") | [HMCS40](http://www.schach-computer.info/wiki/index.php/HMCS40), 0.5 MHz, 4 Bit
 |  |
 | [Fidelity Chess Pal](http://www.schach-computer.info/wiki/index.php/Fidelity_Chess_Pal) | [David Levy](David_Levy "David Levy"), [Mark Taylor](Mark_Taylor "Mark Taylor") | [HMCS40](http://www.schach-computer.info/wiki/index.php/HMCS40), 0.6 MHz, 4 Bit
 |  |
 |  1990
-| [Fidelity Elite Avant Garde V10](http://www.schach-computer.info/wiki/index.php/Fidelity_Elite_V10) [[20]](#cite_note-20) | [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") | [68040](index.php?title=68040&action=edit&redlink=1 "68040 (page does not exist)"), 25 MHz
+| [Fidelity Elite Avant Garde V10](http://www.schach-computer.info/wiki/index.php/Fidelity_Elite_V10) <a id="cite-note-20" href="#cite-ref-20">[20]</a> | [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") | [68040](index.php?title=68040&action=edit&redlink=1 "68040 (page does not exist)"), 25 MHz
 |  |
 | [Fidelity Chesster Challenger](index.php?title=Fidelity_Chesster_Challenger&action=edit&redlink=1 "Fidelity Chesster Challenger (page does not exist)"), [Kishon Chesster](index.php?title=Fidelity_Chesster_Challenger&action=edit&redlink=1 "Fidelity Chesster Challenger (page does not exist)")[Fidelity Chesster Phantom Eyeball](http://www.chesscomputeruk.com/html/fidelity_chesster_phantom_eyeb.html) | [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") | [6502](6502 "6502"), 5Mhz[65C02](6502 "6502"), 3.6 MHz
 |  |
@@ -269,26 +269,26 @@ Fidelity had various brand names for their chess computers, most notably [Chess 
 
 ## References
 
-1. [↑](#cite_ref-1) [Fidelity Electronics from Wikipedia](https://de.wikipedia.org/wiki/Fidelity_Electronics)
-1. [↑](#cite_ref-2) [The Fidelity Story](http://www.schach-computer.info/wiki/index.php/Datei:Fidelity_02.jpg), Image hosted by [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. [↑](#cite_ref-3) [16.Fidelity ..The Golden Years | Flickr - Fotosharing](http://www.flickr.com/photos/10261668@N05/sets/72157600923819227/with/858218235/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
-1. [↑](#cite_ref-4) [John D. Ferguson](http://www.biz-i.biz/) (**1983**). *In-Circuit Emulation for the Apple II Computer*. [Byte Magazine](Byte_Magazine "Byte Magazine"), September 1983, [pdf](http://www.classiccmp.org/cini/pdf/byte/Apple2ICE.pdf)
-1. [↑](#cite_ref-5) [Göran Grottling](G%C3%B6ran_Grottling "Göran Grottling") (**1988**). *Thank you Mister Spock! Ein Interview mit Sid Samole.* [Modul](Modul "Modul") 4/88, pp. 36-38 (German), [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1988,%20Modul,%20Interview%20mit%20Sid%20Samole.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-1. [↑](#cite_ref-6) [Fidelity Chess Challenger 1](http://www.ismenio.com/chess_cc1.html) from [chesscomputers.org](http://www.ismenio.com/chess_computers.html)
-1. [↑](#cite_ref-7) [Fidelity Chess Challenger (CC1)](http://www.chesscomputeruk.com/html/fidelity_chess_challenger__cc1.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. [↑](#cite_ref-8) [Lev Alburt](https://en.wikipedia.org/wiki/Lev_Alburt) and [Al Lawrence](https://en.wikipedia.org/wiki/Al_Lawrence) (**2000**). *"How About a Nice Game of Chess?" - Any Time. Sidney Samole (1935-2000)*. [Chess Café](http://www.chesscafe.com/), October 17, 2000, [pdf](http://www.chesscafe.com/text/leval06.pdf)
-1. [↑](#cite_ref-9) [Fidelity Chess Challenger 7](http://www.schach-computer.info/wiki/index.php/Fidelity_Chess_Challenger_7) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. [↑](#cite_ref-10) [Fidelity Electronics Inc. - About Us](http://www.fidelityelectronics.com/en/about/about7.asp)
-1. [↑](#cite_ref-11) The Editor (**2000**). *[SIDNEY SAMOLE (1935-2000)](http://ticc.uvt.nl/icga/journal/contents/content23-4.htm#SIDNEY%20SAMOLE)*. [ICGA Journal](ICGA_Journal "ICGA Journal") [Vol. 23, No. 4](http://ticc.uvt.nl/icga/journal/contents/content23-4.htm) - December 2000
-1. [↑](#cite_ref-12) [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. [↑](#cite_ref-13) [Furstenberg](http://users.skynet.be/fidelity/furstenberg.html) (Dutch)
-1. [↑](#cite_ref-14) [Levy, David](http://www.schach-computer.info/wiki/index.php/Levy,_David) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
-1. [↑](#cite_ref-15) [Fidelity](http://www.schach-computer.info/wiki/index.php/Fidelity) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-1. [↑](#cite_ref-16) [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-1. [↑](#cite_ref-17) [Monty Newborn](Monroe_Newborn "Monroe Newborn") and [Danny Kopec](Danny_Kopec "Danny Kopec") (**1989**). *Results of The Nineteenth ACM North American Computer Chess Championship*, in [The Twentieth ACM North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cb3a1) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_20th_NACCC/1989%20NACCC.062303064.sm.pdf)
-1. [↑](#cite_ref-18) [Fidelity X chess computer at the 6th World Chess Championship in Edmonton, Alberta](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc194e20), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. [↑](#cite_ref-19) [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf)
-1. [↑](#cite_ref-20) [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1990**). *[Elektronischer Sekundant ein Fidelity-Computer bei der Schach-WM in New-York](http://www.schachcomputer.at/fid10.htm)*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") 6/90 (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Fidelity Electronics from Wikipedia](https://de.wikipedia.org/wiki/Fidelity_Electronics)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The Fidelity Story](http://www.schach-computer.info/wiki/index.php/Datei:Fidelity_02.jpg), Image hosted by [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [16.Fidelity ..The Golden Years | Flickr - Fotosharing](http://www.flickr.com/photos/10261668@N05/sets/72157600923819227/with/858218235/) by [Chewbanta](Steve_Blincoe "Steve Blincoe")
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [John D. Ferguson](http://www.biz-i.biz/) (**1983**). *In-Circuit Emulation for the Apple II Computer*. [Byte Magazine](Byte_Magazine "Byte Magazine"), September 1983, [pdf](http://www.classiccmp.org/cini/pdf/byte/Apple2ICE.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Göran Grottling](G%C3%B6ran_Grottling "Göran Grottling") (**1988**). *Thank you Mister Spock! Ein Interview mit Sid Samole.* [Modul](Modul "Modul") 4/88, pp. 36-38 (German), [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/12-1988,%20Modul,%20Interview%20mit%20Sid%20Samole.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fidelity Chess Challenger 1](http://www.ismenio.com/chess_cc1.html) from [chesscomputers.org](http://www.ismenio.com/chess_computers.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Fidelity Chess Challenger (CC1)](http://www.chesscomputeruk.com/html/fidelity_chess_challenger__cc1.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Lev Alburt](https://en.wikipedia.org/wiki/Lev_Alburt) and [Al Lawrence](https://en.wikipedia.org/wiki/Al_Lawrence) (**2000**). *"How About a Nice Game of Chess?" - Any Time. Sidney Samole (1935-2000)*. [Chess Café](http://www.chesscafe.com/), October 17, 2000, [pdf](http://www.chesscafe.com/text/leval06.pdf)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Fidelity Chess Challenger 7](http://www.schach-computer.info/wiki/index.php/Fidelity_Chess_Challenger_7) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Fidelity Electronics Inc. - About Us](http://www.fidelityelectronics.com/en/about/about7.asp)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> The Editor (**2000**). *[SIDNEY SAMOLE (1935-2000)](http://ticc.uvt.nl/icga/journal/contents/content23-4.htm#SIDNEY%20SAMOLE)*. [ICGA Journal](ICGA_Journal "ICGA Journal") [Vol. 23, No. 4](http://ticc.uvt.nl/icga/journal/contents/content23-4.htm) - December 2000
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Furstenberg](http://users.skynet.be/fidelity/furstenberg.html) (Dutch)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Levy, David](http://www.schach-computer.info/wiki/index.php/Levy,_David) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Fidelity](http://www.schach-computer.info/wiki/index.php/Fidelity) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Monty Newborn](Monroe_Newborn "Monroe Newborn") and [Danny Kopec](Danny_Kopec "Danny Kopec") (**1989**). *Results of The Nineteenth ACM North American Computer Chess Championship*, in [The Twentieth ACM North American Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cb3a1) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_20th_NACCC/1989%20NACCC.062303064.sm.pdf)
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Fidelity X chess computer at the 6th World Chess Championship in Edmonton, Alberta](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc194e20), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Kings Move - Welcome to the 1989 AGT World Computer Chess Championship.](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3) Edmonton, Alberta, Canada, Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf)
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Frederic Friedel](Frederic_Friedel "Frederic Friedel") (**1990**). *[Elektronischer Sekundant ein Fidelity-Computer bei der Schach-WM in New-York](http://www.schachcomputer.at/fid10.htm)*. [Computerschach und Spiele](Computerschach_und_Spiele "Computerschach und Spiele") 6/90 (German)
 
 **[Up one Level](Organizations "Organizations")**
 

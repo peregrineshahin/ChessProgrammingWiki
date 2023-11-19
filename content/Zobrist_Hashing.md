@@ -5,10 +5,10 @@ title: Zobrist Hashing
 
 
 
-[.svg) [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) [[1]](#cite_note-1) [[2]](#cite_note-2)
+[.svg) [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 **Zobrist Hashing**,  
 
-a technique to transform a board [position](Chess_Position "Chess Position") of arbitrary size into a number of a set length, with an equal distribution over all possible numbers, invented by [Albert Zobrist](Albert_Zobrist "Albert Zobrist") [[3]](#cite_note-3). In an early Usenet post in 1982, [Tom Truscott](Tom_Truscott "Tom Truscott") mentioned [Jim Gillogly's](James_Gillogly "James Gillogly") n-bit hashing technique [[4]](#cite_note-4), who apparently read Zobrist's paper early, and credits Zobrist in a 1997 [rgcc](Computer_Chess_Forums "Computer Chess Forums") post [[5]](#cite_note-5). Zobrist Hashing is an instance of [tabulation hashing](https://en.wikipedia.org/wiki/Tabulation_hashing) [[6]](#cite_note-6), a method for constructing [universal families of hash functions](https://en.wikipedia.org/wiki/Universal_hashing) by combining [table lookup](https://en.wikipedia.org/wiki/Lookup_table) with [exclusive or](General_Setwise_Operations#ExclusiveOr "General Setwise Operations") operations. Zobrist Hashing was rediscovered by [J. Lawrence Carter](Mathematician#JLCarter "Mathematician") and [Mark N. Wegman](Mathematician#MNWegman "Mathematician") in 1977 [[7]](#cite_note-7) and studied in more detail by [Mihai Pătrașcu](Mathematician#MPatrascu "Mathematician") and [Mikkel Thorup](Mathematician#MThorup "Mathematician") in 2011 [[8]](#cite_note-8) [[9]](#cite_note-9).
+a technique to transform a board [position](Chess_Position "Chess Position") of arbitrary size into a number of a set length, with an equal distribution over all possible numbers, invented by [Albert Zobrist](Albert_Zobrist "Albert Zobrist") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In an early Usenet post in 1982, [Tom Truscott](Tom_Truscott "Tom Truscott") mentioned [Jim Gillogly's](James_Gillogly "James Gillogly") n-bit hashing technique <a id="cite-note-4" href="#cite-ref-4">[4]</a>, who apparently read Zobrist's paper early, and credits Zobrist in a 1997 [rgcc](Computer_Chess_Forums "Computer Chess Forums") post <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Zobrist Hashing is an instance of [tabulation hashing](https://en.wikipedia.org/wiki/Tabulation_hashing) <a id="cite-note-6" href="#cite-ref-6">[6]</a>, a method for constructing [universal families of hash functions](https://en.wikipedia.org/wiki/Universal_hashing) by combining [table lookup](https://en.wikipedia.org/wiki/Lookup_table) with [exclusive or](General_Setwise_Operations#ExclusiveOr "General Setwise Operations") operations. Zobrist Hashing was rediscovered by [J. Lawrence Carter](Mathematician#JLCarter "Mathematician") and [Mark N. Wegman](Mathematician#MNWegman "Mathematician") in 1977 <a id="cite-note-7" href="#cite-ref-7">[7]</a> and studied in more detail by [Mihai Pătrașcu](Mathematician#MPatrascu "Mathematician") and [Mikkel Thorup](Mathematician#MThorup "Mathematician") in 2011 <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
 
 
 The main purpose of Zobrist hash codes in chess programming is to get an almost unique index number for any chess position, with a very important requirement that two similar positions generate entirely different indices. These index numbers are used for faster and more space efficient [Hash tables](Hash_Table "Hash Table") or databases, e.g. [transposition tables](Transposition_Table "Transposition Table") and [opening books](Opening_Book "Opening Book"). 
@@ -18,7 +18,7 @@ The main purpose of Zobrist hash codes in chess programming is to get an almost 
 ## Initialization
 
 
-At program initialization, we generate an [array](Array "Array") of [pseudorandom numbers](Pseudorandom_Number_Generator "Pseudorandom Number Generator") [[11]](#cite_note-11) [[12]](#cite_note-12):
+At program initialization, we generate an [array](Array "Array") of [pseudorandom numbers](Pseudorandom_Number_Generator "Pseudorandom Number Generator") <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>:
 
 
 
@@ -28,7 +28,7 @@ At program initialization, we generate an [array](Array "Array") of [pseudorando
 * Eight numbers to indicate the [file](Files "Files") of a valid [En passant](En_passant "En passant") square, if any
 
 
-This leaves us with an array with 781 (12\*64 + 1 + 4 + 8) random numbers. Since pawns don't happen on first and eighth rank, one might be fine with 12\*64 though. There are even proposals and implementations to use overlapping keys from unaligned access up to an array of only 12 numbers for every piece and to rotate that number by square [[13]](#cite_note-13) [[14]](#cite_note-14) .
+This leaves us with an array with 781 (12\*64 + 1 + 4 + 8) random numbers. Since pawns don't happen on first and eighth rank, one might be fine with 12\*64 though. There are even proposals and implementations to use overlapping keys from unaligned access up to an array of only 12 numbers for every piece and to rotate that number by square <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a> .
 
 
 Programs usually implement their own [Pseudorandom number generator](Pseudorandom_Number_Generator "Pseudorandom Number Generator") (PRNG), both for better quality random numbers than standard library functions, and also for reproducibility. This means that whatever platform the program is run on, it will use the exact same set of Zobrist keys. This is also useful for things like opening books, where the positions in the book can be stored by hash key and be used portably across machines, considering [endianness](Endianness "Endianness").
@@ -74,7 +74,7 @@ The fact that xor-operation is [own inverse](https://en.wikipedia.org/wiki/Invol
 ### Theory
 
 
-An important issue is the question of what size the hash keys should have. Smaller hash keys are faster and more space efficient, while larger ones reduce the risk of a hash collision. A collision occurs if two positions map the same key [[15]](#cite_note-15) . The dangers of which were well assessed by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") and [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") in their paper *Hash Collisions Effect* [[16]](#cite_note-16). Usually 64bit are used as a standard size in modern chess programs.
+An important issue is the question of what size the hash keys should have. Smaller hash keys are faster and more space efficient, while larger ones reduce the risk of a hash collision. A collision occurs if two positions map the same key <a id="cite-note-15" href="#cite-ref-15">[15]</a> . The dangers of which were well assessed by [Robert Hyatt](Robert_Hyatt "Robert Hyatt") and [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") in their paper *Hash Collisions Effect* <a id="cite-note-16" href="#cite-ref-16">[16]</a>. Usually 64bit are used as a standard size in modern chess programs.
 
 
 Hash collisions demonstrate the [birthday "paradox"](https://en.wikipedia.org/wiki/Birthday_problem), which is to say the chance of collisions approaches certainty at around the **square root** of the number of possible keys, contrary to some people's expectations. You can expect to encounter a collision in a 32 bit hash when you have evaluated sqrt(2 ^ 32) == 2 ^ 16 or around 65 thousand positions. With a 64 bit hash, you can expect a collision after about 2 ^ 32 or 4 billion positions.
@@ -84,7 +84,7 @@ Hash collisions demonstrate the [birthday "paradox"](https://en.wikipedia.org/wi
 ### Praxis
 
 
-Post by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") [[17]](#cite_note-17) :
+Post by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") <a id="cite-note-17" href="#cite-ref-17">[17]</a> :
 
 
 
@@ -97,14 +97,14 @@ Post by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") [[17]](#ci
 ### Lack a True Integer Type
 
 
-Some languages (such as [JavaScript](JavaScript "JavaScript") and [Lua](https://en.wikipedia.org/wiki/Lua_%28programming_language%29)) only have a [64-bit floating point](Double "Double") "Number" type. In JavaScript, this type breaks down into a 32 bit integer when bitwise operators are used. One way to get a 64 bit hash is to use two 32 bit numbers in parallel, as [Garbochess-JS](Garbochess-JS "Garbochess-JS") [[18]](#cite_note-18) does. Another, which [p4wn](P4wn "P4wn") used at one stage, is to use 47 or 48 bit **additive** hashes. 64 bit floating point numbers are true integers up to 53 bits, so it is possible to sum at least 32 (and on average close to 64) random 48 bit numbers, which was enough for p4wn's purposes. For additive Zobrist hashing, you add the number when placing a piece and subtract it when removing it, rather than using xor both ways. There is no difference in accuracy or speed, and 48 bit hashes give you collisions at around the 2 ^ 24 or 16 million point.
+Some languages (such as [JavaScript](JavaScript "JavaScript") and [Lua](https://en.wikipedia.org/wiki/Lua_%28programming_language%29)) only have a [64-bit floating point](Double "Double") "Number" type. In JavaScript, this type breaks down into a 32 bit integer when bitwise operators are used. One way to get a 64 bit hash is to use two 32 bit numbers in parallel, as [Garbochess-JS](Garbochess-JS "Garbochess-JS") <a id="cite-note-18" href="#cite-ref-18">[18]</a> does. Another, which [p4wn](P4wn "P4wn") used at one stage, is to use 47 or 48 bit **additive** hashes. 64 bit floating point numbers are true integers up to 53 bits, so it is possible to sum at least 32 (and on average close to 64) random 48 bit numbers, which was enough for p4wn's purposes. For additive Zobrist hashing, you add the number when placing a piece and subtract it when removing it, rather than using xor both ways. There is no difference in accuracy or speed, and 48 bit hashes give you collisions at around the 2 ^ 24 or 16 million point.
 
 
 
 ### Linear Independence
 
 
-The minimum and average [Hamming Distance](Population_Count#HammingDistance "Population Count") over all Zobrist keys was often considered as "quality"-measure of the keys. However, maximizing the minimal hamming distance leads to very poor Zobrist keys. As long the minimum hamming distance is greater zero, [linear independence](https://en.wikipedia.org/wiki/Linear_independence) (that is a small subset of all keys doesn't xor to zero), is much more important than hamming distance as explained by [Sven Reichard](Sven_Reichard "Sven Reichard") [[19]](#cite_note-19) :
+The minimum and average [Hamming Distance](Population_Count#HammingDistance "Population Count") over all Zobrist keys was often considered as "quality"-measure of the keys. However, maximizing the minimal hamming distance leads to very poor Zobrist keys. As long the minimum hamming distance is greater zero, [linear independence](https://en.wikipedia.org/wiki/Linear_independence) (that is a small subset of all keys doesn't xor to zero), is much more important than hamming distance as explained by [Sven Reichard](Sven_Reichard "Sven Reichard") <a id="cite-note-19" href="#cite-ref-19">[19]</a> :
 
 
 Assume we associate a bitstring to every piece-square combination. That is what's usually done in chess programs; some codes are added for the side to move, castling rights, e.p. squares, etc. We obtain the code of a position by xor-ing the codes of all the pieces contained in it.
@@ -257,7 +257,7 @@ Summarizing I can say that I see no connection between the quality of hash codes
 * [TT Key Collisions, Workarounds?](http://www.talkchess.com/forum/viewtopic.php?t=40062) by [Clemens Pruell](index.php?title=Clemens_Pruell&action=edit&redlink=1 "Clemens Pruell (page does not exist)"), [CCC](CCC "CCC"), August 16, 2011
 * [Key collision handling](http://www.talkchess.com/forum/viewtopic.php?t=40849) by [Jonatan Pettersson](Jonatan_Pettersson "Jonatan Pettersson"), [CCC](CCC "CCC"), October 21, 2011
 * [Using a Transposition Table with Zobrist Keys](http://www.open-chess.org/viewtopic.php?f=5&t=1872) by Miyagi403, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), February 21, 2012
-* [MT or KISS ?](http://www.talkchess.com/forum/viewtopic.php?t=43910) by [Dan Honeycutt](Dan_Honeycutt "Dan Honeycutt"), [CCC](CCC "CCC"), June 02, 2012 [[20]](#cite_note-20) [[21]](#cite_note-21) [[22]](#cite_note-22)
+* [MT or KISS ?](http://www.talkchess.com/forum/viewtopic.php?t=43910) by [Dan Honeycutt](Dan_Honeycutt "Dan Honeycutt"), [CCC](CCC "CCC"), June 02, 2012 <a id="cite-note-20" href="#cite-ref-20">[20]</a> <a id="cite-note-21" href="#cite-ref-21">[21]</a> <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 * [Zobrist alternative?](http://www.talkchess.com/forum/viewtopic.php?t=44043) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), June 12, 2012
 * [Zobrist Number Statistics and WHat to Look For](http://www.talkchess.com/forum/viewtopic.php?t=45605) by Andrew Templeton, [CCC](CCC "CCC"), October 16, 2012
 * [Question about Zobrist code](http://www.open-chess.org/viewtopic.php?f=5&t=2178) by Hamfer, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 19, 2012
@@ -299,28 +299,28 @@ Summarizing I can say that I see no connection between the quality of hash codes
 ## References
 
 
-1. [↑](#cite_ref-1) [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence), [I Ching](https://en.wikipedia.org/wiki/I_Ching) [divination](https://en.wikipedia.org/wiki/I_Ching_divination) involves obtaining a [Hexagram](https://en.wikipedia.org/wiki/Hexagram_%28I_Ching%29) by random generation
-2. [↑](#cite_ref-2) All of [Cage's](Category:John_Cage "Category:John Cage") [music](https://en.wikipedia.org/wiki/Music_of_Changes) since 1951 was composed using [chance](https://en.wikipedia.org/wiki/John_Cage#Chance) procedures, most commonly using the [I Ching](https://en.wikipedia.org/wiki/I_Ching)
-3. [↑](#cite_ref-3) [Albert Zobrist](Albert_Zobrist "Albert Zobrist") (**1970**). *A New Hashing Method with Application for Game Playing*. Technical Report #88, Computer Science Department, The University of Wisconsin, Madison, WI, USA. Reprinted (1990) in [ICCA Journal, Vol. 13, No. 2](ICGA_Journal#13_2 "ICGA Journal"), [pdf](http://www.cs.wisc.edu/techreports/1970/TR88.pdf)
-4. [↑](#cite_ref-4) [compact representation of chess positions](http://quux.org:70/Archives/usenet-a-news/NET.chess/82.01.07_duke.1593_net.chess.txt) by [Tom Truscott](Tom_Truscott "Tom Truscott"), net.chess, January 7, 1982
-5. [↑](#cite_ref-5) [Re: Hashing function for board positions](https://groups.google.com/d/msg/rec.games.chess.computer/oKgv-7WbfO0/TH-p0KUIo2kJ)by [Jim Gillogly](James_Gillogly "James Gillogly"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 12, 1997
-6. [↑](#cite_ref-6) [Re: Zobrist keys - measure of quality?](http://www.talkchess.com/forum/viewtopic.php?t=55449&start=4) by [Rein Halbersma](Rein_Halbersma "Rein Halbersma"), [CCC](CCC "CCC"), February 24, 2015
-7. [↑](#cite_ref-7) [J. Lawrence Carter](Mathematician#JLCarter "Mathematician"), [Mark N. Wegman](Mathematician#MNWegman "Mathematician") (**1977**). *[Universal classes of hash functions](http://dl.acm.org/citation.cfm?id=803400)*. [STOC '77](http://dl.acm.org/citation.cfm?id=800105)
-8. [↑](#cite_ref-8) [Mihai Pătrașcu](Mathematician#MPatrascu "Mathematician"), [Mikkel Thorup](Mathematician#MThorup "Mathematician") (**2011**). *The Power of Simple Tabulation Hashing*. [arXiv:1011.5200v2](http://arxiv.org/abs/1011.5200)
-9. [↑](#cite_ref-9) [Tabulation hashing from Wikipedia](https://en.wikipedia.org/wiki/Tabulation_hashing)
-10. [↑](#cite_ref-10) [Picture gallery "Recognition and Success 1955 - 1972"](http://www.mcescher.com/Gallery/gallery-recogn.htm)  from [The Official M.C. Escher Website](http://www.mcescher.com/)
-11. [↑](#cite_ref-11) [RANDOM.ORG - Integer Generator](http://www.random.org/integers/?mode=advanced)
-12. [↑](#cite_ref-12) [The Marsaglia Random Number CDROM including the Diehard Battery of Tests](http://www.stat.fsu.edu/pub/diehard/) by [George Marsaglia](Mathematician#GMarsaglia "Mathematician")
-13. [↑](#cite_ref-13) [Re: Zobrist key random numbers](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=245932&t=26152) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [CCC](CCC "CCC"), January 22, 2009
-14. [↑](#cite_ref-14) [Overlapped Zobrist keys array](http://www.talkchess.com/forum/viewtopic.php?t=30008) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), October 06, 2009
-15. [↑](#cite_ref-15) [Hashkey collisions (typical numbers)](https://www.stmintz.com/ccc/index.php?id=358836) by [Renze Steenhuisen](Jan_Renze_Steenhuisen "Jan Renze Steenhuisen"), [CCC](CCC "CCC"), April 07, 2004
-16. [↑](#cite_ref-16) [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") (**2005**). *[The Effect of Hash Signature Collisions in a Chess Program](http://www.craftychess.com/hyatt/collisions.html)*. [ICGA Journal, Vol. 28, No. 3](ICGA_Journal#28_3 "ICGA Journal")
-17. [↑](#cite_ref-17) [Re: Hash tables - Clash!!! What happens next?](https://groups.google.com/d/msg/rec.games.chess/h9Q2wik_kTg/9zrP0flwuzAJ) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), March 17, 1994
-18. [↑](#cite_ref-18) [Garbochess-JS](http://forwardcoding.com/projects/ajaxchess/chess.html)
-19. [↑](#cite_ref-19) [Re: About random numbers and hashing](https://www.stmintz.com/ccc/index.php?id=200622) by [Sven Reichard](Sven_Reichard "Sven Reichard"), [CCC](CCC "CCC"), December 05, 2001
-20. [↑](#cite_ref-20) [Mersenne twister from Wikipedia](https://en.wikipedia.org/wiki/Mersenne_twister)
-21. [↑](#cite_ref-21) [64-bit KISS RNGs](http://compgroups.net/comp.lang.fortran/64-bit-kiss-rngs/601519) by [George Marsaglia](Mathematician#GMarsaglia "Mathematician"), [comp.lang.fortran | Computer Group](http://compgroups.net/comp.lang.fortran/), February 28, 2009
-22. [↑](#cite_ref-22) [RKISS](Bob_Jenkins#RKISS "Bob Jenkins") by [Bob Jenkins](Bob_Jenkins "Bob Jenkins")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence), [I Ching](https://en.wikipedia.org/wiki/I_Ching) [divination](https://en.wikipedia.org/wiki/I_Ching_divination) involves obtaining a [Hexagram](https://en.wikipedia.org/wiki/Hexagram_%28I_Ching%29) by random generation
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> All of [Cage's](Category:John_Cage "Category:John Cage") [music](https://en.wikipedia.org/wiki/Music_of_Changes) since 1951 was composed using [chance](https://en.wikipedia.org/wiki/John_Cage#Chance) procedures, most commonly using the [I Ching](https://en.wikipedia.org/wiki/I_Ching)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Albert Zobrist](Albert_Zobrist "Albert Zobrist") (**1970**). *A New Hashing Method with Application for Game Playing*. Technical Report #88, Computer Science Department, The University of Wisconsin, Madison, WI, USA. Reprinted (1990) in [ICCA Journal, Vol. 13, No. 2](ICGA_Journal#13_2 "ICGA Journal"), [pdf](http://www.cs.wisc.edu/techreports/1970/TR88.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [compact representation of chess positions](http://quux.org:70/Archives/usenet-a-news/NET.chess/82.01.07_duke.1593_net.chess.txt) by [Tom Truscott](Tom_Truscott "Tom Truscott"), net.chess, January 7, 1982
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Hashing function for board positions](https://groups.google.com/d/msg/rec.games.chess.computer/oKgv-7WbfO0/TH-p0KUIo2kJ)by [Jim Gillogly](James_Gillogly "James Gillogly"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 12, 1997
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Zobrist keys - measure of quality?](http://www.talkchess.com/forum/viewtopic.php?t=55449&start=4) by [Rein Halbersma](Rein_Halbersma "Rein Halbersma"), [CCC](CCC "CCC"), February 24, 2015
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [J. Lawrence Carter](Mathematician#JLCarter "Mathematician"), [Mark N. Wegman](Mathematician#MNWegman "Mathematician") (**1977**). *[Universal classes of hash functions](http://dl.acm.org/citation.cfm?id=803400)*. [STOC '77](http://dl.acm.org/citation.cfm?id=800105)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Mihai Pătrașcu](Mathematician#MPatrascu "Mathematician"), [Mikkel Thorup](Mathematician#MThorup "Mathematician") (**2011**). *The Power of Simple Tabulation Hashing*. [arXiv:1011.5200v2](http://arxiv.org/abs/1011.5200)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Tabulation hashing from Wikipedia](https://en.wikipedia.org/wiki/Tabulation_hashing)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Picture gallery "Recognition and Success 1955 - 1972"](http://www.mcescher.com/Gallery/gallery-recogn.htm)  from [The Official M.C. Escher Website](http://www.mcescher.com/)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [RANDOM.ORG - Integer Generator](http://www.random.org/integers/?mode=advanced)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [The Marsaglia Random Number CDROM including the Diehard Battery of Tests](http://www.stat.fsu.edu/pub/diehard/) by [George Marsaglia](Mathematician#GMarsaglia "Mathematician")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Re: Zobrist key random numbers](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=245932&t=26152) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [CCC](CCC "CCC"), January 22, 2009
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Overlapped Zobrist keys array](http://www.talkchess.com/forum/viewtopic.php?t=30008) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), October 06, 2009
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Hashkey collisions (typical numbers)](https://www.stmintz.com/ccc/index.php?id=358836) by [Renze Steenhuisen](Jan_Renze_Steenhuisen "Jan Renze Steenhuisen"), [CCC](CCC "CCC"), April 07, 2004
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") (**2005**). *[The Effect of Hash Signature Collisions in a Chess Program](http://www.craftychess.com/hyatt/collisions.html)*. [ICGA Journal, Vol. 28, No. 3](ICGA_Journal#28_3 "ICGA Journal")
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Re: Hash tables - Clash!!! What happens next?](https://groups.google.com/d/msg/rec.games.chess/h9Q2wik_kTg/9zrP0flwuzAJ) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), March 17, 1994
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Garbochess-JS](http://forwardcoding.com/projects/ajaxchess/chess.html)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Re: About random numbers and hashing](https://www.stmintz.com/ccc/index.php?id=200622) by [Sven Reichard](Sven_Reichard "Sven Reichard"), [CCC](CCC "CCC"), December 05, 2001
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Mersenne twister from Wikipedia](https://en.wikipedia.org/wiki/Mersenne_twister)
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [64-bit KISS RNGs](http://compgroups.net/comp.lang.fortran/64-bit-kiss-rngs/601519) by [George Marsaglia](Mathematician#GMarsaglia "Mathematician"), [comp.lang.fortran | Computer Group](http://compgroups.net/comp.lang.fortran/), February 28, 2009
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [RKISS](Bob_Jenkins#RKISS "Bob Jenkins") by [Bob Jenkins](Bob_Jenkins "Bob Jenkins")
 
 **[Up one Level](Transposition_Table "Transposition Table")**
 

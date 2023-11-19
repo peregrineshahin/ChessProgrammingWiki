@@ -3,7 +3,7 @@ title: Fat FritzFat Fritz 2
 ---
 **[Home](Home "Home") * [Engines](Engines "Engines") * Fat Fritz**
 
-\[ Unser Fritz [[1]](#cite_note-1)
+\[ Unser Fritz <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Fat Fritz**,
 
 a commercial chess entity by [ChessBase](ChessBase "ChessBase"), the first version released in November 2019 featuring a set of custom made [neural network](Neural_Networks "Neural Networks") weights that work in the open source project [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") within its [Lc0](Leela_Chess_Zero#Lc0 "Leela Chess Zero") executable,
@@ -11,26 +11,26 @@ while **Fat Fritz 2.0** released in February 2021 is based on [Stockfish 12](Sto
 
 ## Fat Fritz 1
 
-Initially introduced as a cloud project in summer 2019, inspired by [DeepMind's](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)") ground breaking [AlphaZero](AlphaZero "AlphaZero") approach combining [Deep learning](Deep_Learning "Deep Learning") with [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") (MCTS) [[2]](#cite_note-2),
+Initially introduced as a cloud project in summer 2019, inspired by [DeepMind's](index.php?title=DeepMind&action=edit&redlink=1 "DeepMind (page does not exist)") ground breaking [AlphaZero](AlphaZero "AlphaZero") approach combining [Deep learning](Deep_Learning "Deep Learning") with [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") (MCTS) <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 and [Albert Silver's](Albert_Silver "Albert Silver") [Deus X](Deus_X "Deus X") experience, relaxing Leela Chess' "Zero" paradigm of pure [reinforcement learning](Reinforcement_Learning "Reinforcement Learning") due to [supervised learning](Supervised_Learning "Supervised Learning"), Fat Fritz was released in November 2019 as part the [Fritz 17](Fritz "Fritz") package,
 best supported by a [GPU](GPU "GPU") card such as [Nvidia](Nvidia "Nvidia") [GeForce 20 series](https://en.wikipedia.org/wiki/GeForce_20_series).
-The project and its underlying techniques were emphasized by a talk of [AlphaZero](AlphaZero "AlphaZero") co-author [Thore Graepel](Thore_Graepel "Thore Graepel") at [ChessBase](ChessBase "ChessBase"), attended by German computer chess icon [Thomas Nitsche](Thomas_Nitsche "Thomas Nitsche") along with his sons and [Math42](https://de.wikipedia.org/wiki/Math42) authors Raphael Nitsche and Maxim Nitsche [[3]](#cite_note-3). Fat Fritz was further supported by [Daniel Uranga](Daniel_Uranga "Daniel Uranga") [[4]](#cite_note-4) [[5]](#cite_note-5).
+The project and its underlying techniques were emphasized by a talk of [AlphaZero](AlphaZero "AlphaZero") co-author [Thore Graepel](Thore_Graepel "Thore Graepel") at [ChessBase](ChessBase "ChessBase"), attended by German computer chess icon [Thomas Nitsche](Thomas_Nitsche "Thomas Nitsche") along with his sons and [Math42](https://de.wikipedia.org/wiki/Math42) authors Raphael Nitsche and Maxim Nitsche <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Fat Fritz was further supported by [Daniel Uranga](Daniel_Uranga "Daniel Uranga") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 [](File:Lc0diagram.png)
 [](File:Deusx.png)
-[Lc0](Leela_Chess_Zero#Lc0 "Leela Chess Zero") and [DeusX](Deus_X "Deus X") aka Fat Fritz components [[6]](#cite_note-6)
+[Lc0](Leela_Chess_Zero#Lc0 "Leela Chess Zero") and [DeusX](Deus_X "Deus X") aka Fat Fritz components <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ## Fat Fritz 2
 
 **Fat Fritz 2**, released on February 09, 2021, is based on [NNUE](NNUE "NNUE") technology and [Stockfish 12](Stockfish "Stockfish") with a double sized network,
 and thus, running on a CPU, not requiring expensive [GPU](GPU "GPU") graphic cards for game playing like its predecessor.
 The network was trained by [Albert Silver](Albert_Silver "Albert Silver") with the help of [Daniel Uranga](Daniel_Uranga "Daniel Uranga") and [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), who provided scripts and ideas.
-Further credits were given to the [Stockfish contributors](Category:Stockfish_Contributor "Category:Stockfish Contributor"), and in particular [Yu Nasu](Yu_Nasu "Yu Nasu") for his groundbreaking work on NNUE, and [Hisayori Noda](Hisayori_Noda "Hisayori Noda") for the initial [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE") implementation [[7]](#cite_note-7).
-Using the original Fat Fritz as initial supervisor to evaluate chess positions, the learning of Fat Fritz 2 was [reinforced](Reinforcement_Learning "Reinforcement Learning") by Stockfish's [alpha-beta](Alpha-Beta "Alpha-Beta") [search](Search "Search") [[8]](#cite_note-8).
+Further credits were given to the [Stockfish contributors](Category:Stockfish_Contributor "Category:Stockfish Contributor"), and in particular [Yu Nasu](Yu_Nasu "Yu Nasu") for his groundbreaking work on NNUE, and [Hisayori Noda](Hisayori_Noda "Hisayori Noda") for the initial [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE") implementation <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
+Using the original Fat Fritz as initial supervisor to evaluate chess positions, the learning of Fat Fritz 2 was [reinforced](Reinforcement_Learning "Reinforcement Learning") by Stockfish's [alpha-beta](Alpha-Beta "Alpha-Beta") [search](Search "Search") <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 The initial release had the 40 MiB NNUE file embedded inside the Fat Fritz 2 executable,
-and was soon separated after the intervention of the Stockfish community due to a possible [GPL license](Free_Software_Foundation#GPL "Free Software Foundation") violation [[9]](#cite_note-9).
-While the separated none GPL licensed NNUE file had a replacement on GitHub [[10]](#cite_note-10), it was not identical with the commercial purchased network, yielding in weaker play [[11]](#cite_note-11).
-The Stockfish community, denying Fat Fritz 2's originality as claimed by ChessBase, initially reacted with the release of [Stockfish 13](Stockfish "Stockfish") on February 19, 2021 [[12]](#cite_note-12). In summer 2021, the Stockfish team filed a [lawsuit](https://en.wikipedia.org/wiki/Lawsuit) against [ChessBase](ChessBase "ChessBase") to enforce the consequences of the license termination concerning Fat Fritz 2 and the allegedly Stockfish derivative [Houdini 6](Houdini#Stockfish "Houdini") sold by ChessBase [[13]](#cite_note-13). From November 2022, ChessBase has stopped selling both Fat Fritz 2 and [Houdini](Houdini#Stockfish "Houdini") as an agreement with the Stockfish team to end their legal dispute[[14]](#cite_note-14).
+and was soon separated after the intervention of the Stockfish community due to a possible [GPL license](Free_Software_Foundation#GPL "Free Software Foundation") violation <a id="cite-note-9" href="#cite-ref-9">[9]</a>.
+While the separated none GPL licensed NNUE file had a replacement on GitHub <a id="cite-note-10" href="#cite-ref-10">[10]</a>, it was not identical with the commercial purchased network, yielding in weaker play <a id="cite-note-11" href="#cite-ref-11">[11]</a>.
+The Stockfish community, denying Fat Fritz 2's originality as claimed by ChessBase, initially reacted with the release of [Stockfish 13](Stockfish "Stockfish") on February 19, 2021 <a id="cite-note-12" href="#cite-ref-12">[12]</a>. In summer 2021, the Stockfish team filed a [lawsuit](https://en.wikipedia.org/wiki/Lawsuit) against [ChessBase](ChessBase "ChessBase") to enforce the consequences of the license termination concerning Fat Fritz 2 and the allegedly Stockfish derivative [Houdini 6](Houdini#Stockfish "Houdini") sold by ChessBase <a id="cite-note-13" href="#cite-ref-13">[13]</a>. From November 2022, ChessBase has stopped selling both Fat Fritz 2 and [Houdini](Houdini#Stockfish "Houdini") as an agreement with the Stockfish team to end their legal dispute<a id="cite-note-14" href="#cite-ref-14">[14]</a>.
 
 ## See also
 
@@ -97,7 +97,7 @@ The Stockfish community, denying Fat Fritz 2's originality as claimed by ChessBa
 
 ## Blog Posts
 
-[[15]](#cite_note-15)
+<a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 - [Fat Fritz 2 - Ein unmoralisches Angebot](https://schach.computer/fat-fritz-2-ein-unmoralisches-angebot/) by [Topschach Benny](https://schach.computer/author/schachfreunde/), February 12, 2021 (German)
 - [Statement on Fat Fritz 2](https://blog.stockfishchess.org/post/643239805544792064/statement-on-fat-fritz-2) by [Joost VandeVondele](Joost_VandeVondele "Joost VandeVondele"), [Stockfish Blog](Computer_Chess_Forums "Computer Chess Forums"), February 15, 2021
@@ -159,7 +159,7 @@ The Stockfish community, denying Fat Fritz 2's originality as claimed by ChessBa
 
 - [How a neural network is made](https://en.chessbase.com/post/how-a-neural-network-is-made) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), February 21, 2021
 
-- [Discussing moves with a neural network](https://en.chessbase.com/post/discussing-moves-with-a-neural-network) by [Stephen Ham](index.php?title=Stephen_Ham&action=edit&redlink=1 "Stephen Ham (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), February 27, 2021 [[16]](#cite_note-16)
+- [Discussing moves with a neural network](https://en.chessbase.com/post/discussing-moves-with-a-neural-network) by [Stephen Ham](index.php?title=Stephen_Ham&action=edit&redlink=1 "Stephen Ham (page does not exist)"), [ChessBase News](ChessBase "ChessBase"), February 27, 2021 <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 - [Steamrolling the king](https://en.chessbase.com/post/steamrolling-the-king), [ChessBase News](ChessBase "ChessBase"), June 15, 2021
 
@@ -169,13 +169,13 @@ The Stockfish community, denying Fat Fritz 2's originality as claimed by ChessBa
 
 - [Introducing Fritz 17 with Fat Fritz and other goodies](https://en.chessbase.com/post/fritz-17-with-fat-fritz-and-goodies), [ChessBase News](ChessBase "ChessBase"), November 12, 2019
 - [Fat Fritz and Fritz 17: A Review (Part I)](https://new.uschess.org/news/fat-fritz-fritz-17-review-i/) by [John Hartmann](https://en.chessbase.com/author/john-hartmann), [US Chess](https://en.wikipedia.org/wiki/United_States_Chess_Federation), November 17, 2019
-- [Fat Fritz and Fritz 17: A Review (Part II)](https://new.uschess.org/news/fat-fritz-fritz-17-review-part-ii/) by [John Hartmann](https://en.chessbase.com/author/john-hartmann), [US Chess](https://en.wikipedia.org/wiki/United_States_Chess_Federation), November 19, 2019 [[17]](#cite_note-17)
+- [Fat Fritz and Fritz 17: A Review (Part II)](https://new.uschess.org/news/fat-fritz-fritz-17-review-part-ii/) by [John Hartmann](https://en.chessbase.com/author/john-hartmann), [US Chess](https://en.wikipedia.org/wiki/United_States_Chess_Federation), November 19, 2019 <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 
 ## Source Code
 
 - [GitHub - DanielUranga/lc0 at uci-wdl-reporting](https://github.com/DanielUranga/lc0/tree/uci-wdl-reporting) by [Daniel Uranga](Daniel_Uranga "Daniel Uranga")
 - [lc0 84 - AppVeyor](https://ci.appveyor.com/project/DanielUranga/lc0)
-- [GitHub - kiudee/bayes-skopt: A fully Bayesian implementation of sequential model-based optimization](https://github.com/kiudee/bayes-skopt) by [Karlson Pfannschmidt](Karlson_Pfannschmidt "Karlson Pfannschmidt") [[18]](#cite_note-18)
+- [GitHub - kiudee/bayes-skopt: A fully Bayesian implementation of sequential model-based optimization](https://github.com/kiudee/bayes-skopt) by [Karlson Pfannschmidt](Karlson_Pfannschmidt "Karlson Pfannschmidt") <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 - [GitHub - yaneurao/YaneuraOu: YaneuraOu is the World's Strongest Shogi engine(AI player), WCSC29 1st winner, educational and USI compliant engine](https://github.com/yaneurao/YaneuraOu) » [YaneuraOu](YaneuraOu "YaneuraOu")
 - [GitHub - DanielUranga/Stockfish at ff2](https://github.com/DanielUranga/Stockfish/tree/ff2) by [Daniel Uranga](Daniel_Uranga "Daniel Uranga")
 
@@ -186,24 +186,24 @@ The Stockfish community, denying Fat Fritz 2's originality as claimed by ChessBa
 
 ## References
 
-1. [↑](#cite_ref-1) [Malakov tower](https://de.wikipedia.org/wiki/Malakow-Turm) (build 1873) of Colliery [Unser Fritz](https://de.wikipedia.org/wiki/Zeche_Unser_Fritz), Shaft 1, in [Herne, North Rhine-Westphalia](https://en.wikipedia.org/wiki/Herne,_North_Rhine-Westphalia), part of [The Industrial Heritage Trail](Category:Industrial_Heritage_Trail "Category:Industrial Heritage Trail") of the [Ruhr area](https://en.wikipedia.org/wiki/Ruhr). Photo by GeorgeIvan, May 15, 2014, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Unser Fritz/Crange](https://de.wikipedia.org/wiki/Unser_Fritz/Crange) is further district of Herne (Wanne), famous for its funfair [Cranger Kirmes](https://en.wikipedia.org/wiki/Cranger_Kirmes), and [SV Unser Fritz](http://www.sv-unser-fritz.de/) the local chess club - eponym of the coal mine was [Frederick III, German Emperor](https://en.wikipedia.org/wiki/Frederick_III,_German_Emperor)
-1. [↑](#cite_ref-2) [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Matthew Lai](Matthew_Lai "Matthew Lai"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2017**). *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm*. [arXiv:1712.01815](https://arxiv.org/abs/1712.01815)
-1. [↑](#cite_ref-3) [Fat Fritz – What on Earth is that?](https://en.chessbase.com/post/fat-fritz-what-on-earth-is-that) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), August 13, 2019
-1. [↑](#cite_ref-4) [Standing on the shoulders of giants](https://en.chessbase.com/post/standing-on-the-shoulders-of-giants) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), September 18, 2019
-1. [↑](#cite_ref-5) [GitHub - DanielUranga/lc0 at uci-wdl-reporting](https://github.com/DanielUranga/lc0/tree/uci-wdl-reporting)
-1. [↑](#cite_ref-6) [My failed attempt to change TCEC NN clone rules](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71822) by [Alexander Lyashuk](Alexander_Lyashuk "Alexander Lyashuk"), [CCC](CCC "CCC"), September 14, 2019 » [TCEC](TCEC "TCEC")
-1. [↑](#cite_ref-7) [Fat Fritz 2: The Best of Both Worlds](https://en.chessbase.com/post/fat-fritz-2-best-of-both-worlds) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), February 10, 2021
-1. [↑](#cite_ref-8) [Fat Fritz 2.0 - The new number 1](https://en.chessbase.com/post/fat-fritz-2-0-the-new-number-1), [ChessBase News](ChessBase "ChessBase"), February 09, 2021
-1. [↑](#cite_ref-9) [Statement on Fat Fritz 2](https://blog.stockfishchess.org/post/643239805544792064/statement-on-fat-fritz-2) by [Joost VandeVondele](Joost_VandeVondele "Joost VandeVondele"), [Stockfish Blog](Computer_Chess_Forums "Computer Chess Forums"), February 15, 2021
-1. [↑](#cite_ref-10) [Stockfish/FatFritz2_v1.bin at ff2 · DanielUranga/Stockfish · GitHub](https://github.com/DanielUranga/Stockfish/blob/ff2/src/FatFritz2_v1.bin)
-1. [↑](#cite_ref-11) [Re: Fat Fritz 2](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76537&start=238) by [Stefan Pohl](index.php?title=Stefan_Pohl&action=edit&redlink=1 "Stefan Pohl (page does not exist)"), [CCC](CCC "CCC"), February 13, 2021
-1. [↑](#cite_ref-12) [Stockfish 13](https://blog.stockfishchess.org/post/643570707142492160/stockfish-13), The Stockfish Team, February 19, 2021
-1. [↑](#cite_ref-13) [Our lawsuit against ChessBase](https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/), [The Stockfish team](Stockfish "Stockfish"), [Stockfish Blog](Computer_Chess_Forums "Computer Chess Forums"), July 20, 2021
-1. [↑](#cite_ref-14) [ChessBase GmbH and the Stockfish team reach an agreement and end their legal dispute](https://stockfishchess.org/blog/2022/chessbase-stockfish-agreement/) by [The Stockfish team](Stockfish "Stockfish"), [Stockfish Blog](index.php?title=Stockfish_Blog&action=edit&redlink=1 "Stockfish Blog (page does not exist)"), November 18, 2022
-1. [↑](#cite_ref-15) [fatfritz.net](https://www.fatfritz.net/)
-1. [↑](#cite_ref-16) [An actual interesting computer chess read about FF2](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76730) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), February 27, 2021
-1. [↑](#cite_ref-17) [Nice review fo Fat Fritz](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72395) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), November 22, 2019
-1. [↑](#cite_ref-18) [Fat Fritz 1.1 update and a small gift](https://en.chessbase.com/post/fat-fritz-update-and-fat-fritz-jr) by [Albert Silver](Albert_Silver "Albert Silver"). [ChessBase News](ChessBase "ChessBase"), March 05, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Malakov tower](https://de.wikipedia.org/wiki/Malakow-Turm) (build 1873) of Colliery [Unser Fritz](https://de.wikipedia.org/wiki/Zeche_Unser_Fritz), Shaft 1, in [Herne, North Rhine-Westphalia](https://en.wikipedia.org/wiki/Herne,_North_Rhine-Westphalia), part of [The Industrial Heritage Trail](Category:Industrial_Heritage_Trail "Category:Industrial Heritage Trail") of the [Ruhr area](https://en.wikipedia.org/wiki/Ruhr). Photo by GeorgeIvan, May 15, 2014, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons), [Unser Fritz/Crange](https://de.wikipedia.org/wiki/Unser_Fritz/Crange) is further district of Herne (Wanne), famous for its funfair [Cranger Kirmes](https://en.wikipedia.org/wiki/Cranger_Kirmes), and [SV Unser Fritz](http://www.sv-unser-fritz.de/) the local chess club - eponym of the coal mine was [Frederick III, German Emperor](https://en.wikipedia.org/wiki/Frederick_III,_German_Emperor)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [David Silver](David_Silver "David Silver"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Matthew Lai](Matthew_Lai "Matthew Lai"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2017**). *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm*. [arXiv:1712.01815](https://arxiv.org/abs/1712.01815)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fat Fritz – What on Earth is that?](https://en.chessbase.com/post/fat-fritz-what-on-earth-is-that) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), August 13, 2019
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Standing on the shoulders of giants](https://en.chessbase.com/post/standing-on-the-shoulders-of-giants) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), September 18, 2019
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - DanielUranga/lc0 at uci-wdl-reporting](https://github.com/DanielUranga/lc0/tree/uci-wdl-reporting)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [My failed attempt to change TCEC NN clone rules](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71822) by [Alexander Lyashuk](Alexander_Lyashuk "Alexander Lyashuk"), [CCC](CCC "CCC"), September 14, 2019 » [TCEC](TCEC "TCEC")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Fat Fritz 2: The Best of Both Worlds](https://en.chessbase.com/post/fat-fritz-2-best-of-both-worlds) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), February 10, 2021
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Fat Fritz 2.0 - The new number 1](https://en.chessbase.com/post/fat-fritz-2-0-the-new-number-1), [ChessBase News](ChessBase "ChessBase"), February 09, 2021
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Statement on Fat Fritz 2](https://blog.stockfishchess.org/post/643239805544792064/statement-on-fat-fritz-2) by [Joost VandeVondele](Joost_VandeVondele "Joost VandeVondele"), [Stockfish Blog](Computer_Chess_Forums "Computer Chess Forums"), February 15, 2021
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Stockfish/FatFritz2_v1.bin at ff2 · DanielUranga/Stockfish · GitHub](https://github.com/DanielUranga/Stockfish/blob/ff2/src/FatFritz2_v1.bin)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: Fat Fritz 2](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76537&start=238) by [Stefan Pohl](index.php?title=Stefan_Pohl&action=edit&redlink=1 "Stefan Pohl (page does not exist)"), [CCC](CCC "CCC"), February 13, 2021
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Stockfish 13](https://blog.stockfishchess.org/post/643570707142492160/stockfish-13), The Stockfish Team, February 19, 2021
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Our lawsuit against ChessBase](https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/), [The Stockfish team](Stockfish "Stockfish"), [Stockfish Blog](Computer_Chess_Forums "Computer Chess Forums"), July 20, 2021
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [ChessBase GmbH and the Stockfish team reach an agreement and end their legal dispute](https://stockfishchess.org/blog/2022/chessbase-stockfish-agreement/) by [The Stockfish team](Stockfish "Stockfish"), [Stockfish Blog](index.php?title=Stockfish_Blog&action=edit&redlink=1 "Stockfish Blog (page does not exist)"), November 18, 2022
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [fatfritz.net](https://www.fatfritz.net/)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [An actual interesting computer chess read about FF2](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76730) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), February 27, 2021
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Nice review fo Fat Fritz](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72395) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), November 22, 2019
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Fat Fritz 1.1 update and a small gift](https://en.chessbase.com/post/fat-fritz-update-and-fat-fritz-jr) by [Albert Silver](Albert_Silver "Albert Silver"). [ChessBase News](ChessBase "ChessBase"), March 05, 2020
 
 **[Up one Level](Engines "Engines")**
 

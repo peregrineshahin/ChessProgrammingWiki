@@ -6,20 +6,20 @@ title: ArasanTuning
 |  |  |
 | --- | --- |
 | **Arasan**,
-an [open source engine](Category:Open_Source "Category:Open Source") written by [Jon Dart](Jon_Dart "Jon Dart") in [C++](Cpp "Cpp"). Arasan's development started in the early 90s, the first version, released in 1994 was a 16-bit program running under [Windows 3.1](Windows "Windows") using an [8x8 Board](8x8_Board "8x8 Board"), [incremental updated](Incremental_Updates "Incremental Updates") [attack tables](Attack_and_Defend_Maps "Attack and Defend Maps") and its own [GUI](GUI "GUI"), evolving to a portable 32-bit and later 64-bit program, utilizing [bitboards](Bitboards "Bitboards") to determine its [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") with [rotated bitboard lookups](Rotated_Bitboards "Rotated Bitboards"). In 2008, rotated were replaced by [Magic bitboards](Magic_Bitboards "Magic Bitboards"), which gave Arasan about a 20-25% speedup [[1]](#cite_note-1).
-Despite its own GUI, Arasan early supported the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and later [UCI](UCI "UCI") as well, to run under [Windows](Windows "Windows"), [Linux](Linux "Linux") and [Mac OS](Mac_OS "Mac OS") [[2]](#cite_note-2). The latest version of Arasan and all major versions, including Version 1.0 from March 1994, are available as source code from the Arasan.org site [[3]](#cite_note-3) . Jon's change logs, bug fix reports and tournament reports over the time are available from [forum archives](Computer_Chess_Forums "Computer Chess Forums"), as well the recent ones from the Arasan blog [[4]](#cite_note-4)
+an [open source engine](Category:Open_Source "Category:Open Source") written by [Jon Dart](Jon_Dart "Jon Dart") in [C++](Cpp "Cpp"). Arasan's development started in the early 90s, the first version, released in 1994 was a 16-bit program running under [Windows 3.1](Windows "Windows") using an [8x8 Board](8x8_Board "8x8 Board"), [incremental updated](Incremental_Updates "Incremental Updates") [attack tables](Attack_and_Defend_Maps "Attack and Defend Maps") and its own [GUI](GUI "GUI"), evolving to a portable 32-bit and later 64-bit program, utilizing [bitboards](Bitboards "Bitboards") to determine its [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") with [rotated bitboard lookups](Rotated_Bitboards "Rotated Bitboards"). In 2008, rotated were replaced by [Magic bitboards](Magic_Bitboards "Magic Bitboards"), which gave Arasan about a 20-25% speedup <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
+Despite its own GUI, Arasan early supported the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and later [UCI](UCI "UCI") as well, to run under [Windows](Windows "Windows"), [Linux](Linux "Linux") and [Mac OS](Mac_OS "Mac OS") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The latest version of Arasan and all major versions, including Version 1.0 from March 1994, are available as source code from the Arasan.org site <a id="cite-note-3" href="#cite-ref-3">[3]</a> . Jon's change logs, bug fix reports and tournament reports over the time are available from [forum archives](Computer_Chess_Forums "Computer Chess Forums"), as well the recent ones from the Arasan blog <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 | அரசன் |
-|  அரசன் [[5]](#cite_note-5) (Arasan) , King in [Tamil language](https://en.wikipedia.org/wiki/Tamil_language) [[6]](#cite_note-6) |
+|  அரசன் <a id="cite-note-5" href="#cite-ref-5">[5]</a> (Arasan) , King in [Tamil language](https://en.wikipedia.org/wiki/Tamil_language) <a id="cite-note-6" href="#cite-ref-6">[6]</a> |
 
 ## Selected Features
 
-[[7]](#cite_note-7)
+<a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ## [Board Representation](Board_Representation "Board Representation")
 
 ### Bitboard Trials
 
-[Jon Dart](Jon_Dart "Jon Dart"), May 1996 [[8]](#cite_note-8)
+[Jon Dart](Jon_Dart "Jon Dart"), May 1996 <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ```C++
  Lately I've been working on a new major release of Arasan. I have spent the last few months working on the search engine, trying to improve speed and performance. I tried some experiments with a [bitboard](Bitboards "Bitboards") move representation, but I have backed off on that for now.
@@ -38,7 +38,7 @@ However, currently the program relies pretty heavily on [incrementally generated
 
 ### [Magic Bitboards](Magic_Bitboards "Magic Bitboards")
 
-[Jon Dart](Jon_Dart "Jon Dart"), August 2008 [[9]](#cite_note-9) :
+[Jon Dart](Jon_Dart "Jon Dart"), August 2008 <a id="cite-note-9" href="#cite-ref-9">[9]</a> :
 
 ```C++
 The main change has been to re-work the code to use ["magic" bitboard logic](Magic_Bitboards "Magic Bitboards") instead of [rotated bitboards](Rotated_Bitboards "Rotated Bitboards"). This has given about a 20-25% speedup. I have also had to re-write the [evaluation function](Evaluation "Evaluation") to take advantage of bitboard attack functions for [king safety](King_Safety "King Safety") and [mobility](Mobility "Mobility"). 
@@ -47,7 +47,7 @@ The main change has been to re-work the code to use ["magic" bitboard logic](Mag
 
 ### [PEXT/PDEP Bitboards](BMI2#PDEPBitboards "BMI2")
 
-Arasan **20.3**, released in November 2017, performs [PEXT/PDEP Bitboards](BMI2#PDEPBitboards "BMI2") if compiled for the [BMI2](BMI2 "BMI2") instruction set [[10]](#cite_note-10) to replace [Fancy Magic Bitboards](Magic_Bitboards#Fancy "Magic Bitboards") in looking up [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") [[11]](#cite_note-11)
+Arasan **20.3**, released in November 2017, performs [PEXT/PDEP Bitboards](BMI2#PDEPBitboards "BMI2") if compiled for the [BMI2](BMI2 "BMI2") instruction set <a id="cite-note-10" href="#cite-ref-10">[10]</a> to replace [Fancy Magic Bitboards](Magic_Bitboards#Fancy "Magic Bitboards") in looking up [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ## [Search](Search "Search")
 
@@ -88,7 +88,7 @@ Arasan **20.3**, released in November 2017, performs [PEXT/PDEP Bitboards](BMI2#
 
 ### [NNUE](NNUE "NNUE")
 
-Arasan **23.0**, released in September 2021, uses a [Stockfish](Stockfish "Stockfish") 13 compatible [NNUE](NNUE "NNUE") - trained by selfplay positions - to [evaluate](Evaluation "Evaluation") its positions [[12]](#cite_note-12). The neural network file is external to the program and is loaded at runtime.
+Arasan **23.0**, released in September 2021, uses a [Stockfish](Stockfish "Stockfish") 13 compatible [NNUE](NNUE "NNUE") - trained by selfplay positions - to [evaluate](Evaluation "Evaluation") its positions <a id="cite-note-12" href="#cite-ref-12">[12]</a>. The neural network file is external to the program and is loaded at runtime.
 
 ### Traditional
 
@@ -116,20 +116,20 @@ Arasan **23.0**, released in September 2021, uses a [Stockfish](Stockfish "Stock
 
 ### [Automated Tuning](Automated_Tuning "Automated Tuning")
 
-Arasan **19.2**, released in November 2016, applies [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method") by default and supports the [Adam](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Adam) [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) algorithm [[13]](#cite_note-13) [[14]](#cite_note-14).
+Arasan **19.2**, released in November 2016, applies [Texel's Tuning Method](Texel%27s_Tuning_Method "Texel's Tuning Method") by default and supports the [Adam](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Adam) [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) algorithm <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a>.
 
 ## [Syzygy Bases](Syzygy_Bases "Syzygy Bases")
 
-Arasan uses a [Fathom](Syzygy_Bases#Fathom "Syzygy Bases") fork with some bug fixes and enhancements [[15]](#cite_note-15), also supporting [7-man](Syzygy_Bases#7-man "Syzygy Bases") [[16]](#cite_note-16).
+Arasan uses a [Fathom](Syzygy_Bases#Fathom "Syzygy Bases") fork with some bug fixes and enhancements <a id="cite-note-15" href="#cite-ref-15">[15]</a>, also supporting [7-man](Syzygy_Bases#7-man "Syzygy Bases") <a id="cite-note-16" href="#cite-ref-16">[16]</a>.
 
 ## Tournament Play
 
-Arasan went online in December, 1996 [[17]](#cite_note-17) , and played almost all major online computer chess tournaments, such as [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), [ACCA Americas' Computer Chess Championship](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship"), [ACCA World Computer Rapid Chess Championship](ACCA_World_Computer_Rapid_Chess_Championship "ACCA World Computer Rapid Chess Championship"), [TCEC](TCEC "TCEC"), and [International Gsei Web Tournaments](Italian_Computer_Chess_Championship#IGWT "Italian Computer Chess Championship"). Arasan 15.1 [[18]](#cite_note-18) won the [ACCA 2012](ACCA_2012 "ACCA 2012") [[19]](#cite_note-19) , Arasan 16.0 the [WCRCC 2013](WCRCC_2013 "WCRCC 2013") [[20]](#cite_note-20) . Over the board, Arasan was active at the [CSVN Programmers Tournaments](CSVN_Programmers_Tournament "CSVN Programmers Tournament") operated by [Tessa Pijl](Tessa_Pijl "Tessa Pijl"). Arasan was runner-up behind [The Baron](The_Baron "The Baron") in May 2014 at the [PT 46](PT_46 "PT 46") one point behind, as well in June 2015 at the [PT 48](PT_48 "PT 48") with the same score according to the tiebreak rules [[21]](#cite_note-21).
+Arasan went online in December, 1996 <a id="cite-note-17" href="#cite-ref-17">[17]</a> , and played almost all major online computer chess tournaments, such as [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), [ACCA Americas' Computer Chess Championship](ACCA_Americas%27_Computer_Chess_Championship "ACCA Americas' Computer Chess Championship"), [ACCA World Computer Rapid Chess Championship](ACCA_World_Computer_Rapid_Chess_Championship "ACCA World Computer Rapid Chess Championship"), [TCEC](TCEC "TCEC"), and [International Gsei Web Tournaments](Italian_Computer_Chess_Championship#IGWT "Italian Computer Chess Championship"). Arasan 15.1 <a id="cite-note-18" href="#cite-ref-18">[18]</a> won the [ACCA 2012](ACCA_2012 "ACCA 2012") <a id="cite-note-19" href="#cite-ref-19">[19]</a> , Arasan 16.0 the [WCRCC 2013](WCRCC_2013 "WCRCC 2013") <a id="cite-note-20" href="#cite-ref-20">[20]</a> . Over the board, Arasan was active at the [CSVN Programmers Tournaments](CSVN_Programmers_Tournament "CSVN Programmers Tournament") operated by [Tessa Pijl](Tessa_Pijl "Tessa Pijl"). Arasan was runner-up behind [The Baron](The_Baron "The Baron") in May 2014 at the [PT 46](PT_46 "PT 46") one point behind, as well in June 2015 at the [PT 48](PT_48 "PT 48") with the same score according to the tiebreak rules <a id="cite-note-21" href="#cite-ref-21">[21]</a>.
 
 ## Photos & Games
 
 [](http://www.computerschaak.nl/index.php/nieuws/51-toernooien/704-pt48-round-7)
-[PT 48](PT_48 "PT 48"), Two Kings fighting, [Johan de Koning](Johan_de_Koning "Johan de Koning") and [Tessa Pijl](Tessa_Pijl "Tessa Pijl") in Arasan vs. [The King](The_King "The King") [[22]](#cite_note-22)
+[PT 48](PT_48 "PT 48"), Two Kings fighting, [Johan de Koning](Johan_de_Koning "Johan de Koning") and [Tessa Pijl](Tessa_Pijl "Tessa Pijl") in Arasan vs. [The King](The_King "The King") <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 
 ```
 
@@ -230,7 +230,7 @@ Arasan went online in December, 1996 [[17]](#cite_note-17) , and played almost a
 - [Arasan 15.2](http://www.talkchess.com/forum/viewtopic.php?t=47333) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), February 26, 2013
 - [Arasan 15.4](http://www.talkchess.com/forum/viewtopic.php?t=47845) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), April 24, 2013
 - [Arasan 15.6](http://www.talkchess.com/forum/viewtopic.php?t=48070) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), May 21, 2013
-- [Arasan on github](http://www.talkchess.com/forum/viewtopic.php?t=48082) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), May 22, 2013 [[23]](#cite_note-23)
+- [Arasan on github](http://www.talkchess.com/forum/viewtopic.php?t=48082) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), May 22, 2013 <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 - [Arasan games from WCRCC](http://www.talkchess.com/forum/viewtopic.php?t=48703) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), July 21, 2013 » [WCRCC 2013](WCRCC_2013 "WCRCC 2013")
 - [Arasan 16.0](http://www.talkchess.com/forum/viewtopic.php?t=48748) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), July 24, 2013
 - [Arasan 16.1](http://www.talkchess.com/forum/viewtopic.php?t=49205) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), September 01, 2013
@@ -307,9 +307,9 @@ Arasan went online in December, 1996 [[17]](#cite_note-17) , and played almost a
 
 ## Chess Engine
 
-- [jdart1/arasan-chess · GitHub](https://github.com/jdart1/arasan-chess) [[24]](#cite_note-24)
+- [jdart1/arasan-chess · GitHub](https://github.com/jdart1/arasan-chess) <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 - [Arasan Chess](https://www.arasanchess.org/index.shtml) by [Jon Dart](Jon_Dart "Jon Dart")
-- [Arasan Programmer's Guide](https://www.arasanchess.org/programr.shtml) by [Jon Dart](Jon_Dart "Jon Dart") [[25]](#cite_note-25)
+- [Arasan Programmer's Guide](https://www.arasanchess.org/programr.shtml) by [Jon Dart](Jon_Dart "Jon Dart") <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 - [Arasan Test Suite](https://www.arasanchess.org/testsuite.shtml)
 - [Arasan 8.4 released, short interview with Jon Dart](https://web.archive.org/web/20120106012659/http://www.playwitharena.com/?Newsticker:Archive_5) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), March 01, 2005, [Arena Chess GUI](Arena "Arena"), Archive 5, 72 ([Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine))
 - [Arasan](http://www.computerchess.org.uk/ccrl/4040/cgi/compare_engines.cgi?family=Arasan&print=Rating+list&print=Results+table&print=LOS+table&print=Ponder+hit+table&print=Eval+difference+table&print=Comopp+gamenum+table&print=Overlap+table&print=Score+with+common+opponents) in [CCRL 40/15](CCRL "CCRL")
@@ -321,31 +321,31 @@ Arasan went online in December, 1996 [[17]](#cite_note-17) , and played almost a
 
 ## References
 
-1. [↑](#cite_ref-1) [Arasan Blog - Aug 26, 2008](https://www.arasanchess.org/blogs/aug08.html)
-1. [↑](#cite_ref-2) [Arasan chess](https://www.arasanchess.org/)
-1. [↑](#cite_ref-3) [Arasan Downloads](https://www.arasanchess.org/downld.shtml)
-1. [↑](#cite_ref-4) [Arasan Tech Blog](https://arasanchess.org/blog.shtml)
-1. [↑](#cite_ref-5) [Tamil script from Wikipedia](https://en.wikipedia.org/wiki/Tamil_script)
-1. [↑](#cite_ref-6) [அரசன் (சதுரங்கம்) - தமிழ் விக்கிப்பீடியா](<https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AE%A9%E0%AF%8D_(%E0%AE%9A%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D)>)
-1. [↑](#cite_ref-7) [Arasan Programmer's Guide](https://www.arasanchess.org/programr.shtml)
-1. [↑](#cite_ref-8) [Arasan progress report](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/d75cd258ea73a4a7) by [Jon Dart](Jon_Dart "Jon Dart"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 23, 1996
-1. [↑](#cite_ref-9) [Arasan Blog - Aug 26, 2008](https://www.arasanchess.org/blogs/aug08.html)
-1. [↑](#cite_ref-10) [Arasan 20.3](http://www.talkchess.com/forum/viewtopic.php?t=65636) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), November 05, 2017
-1. [↑](#cite_ref-11) arasan_source20.3.zip/src/attacks.h
-1. [↑](#cite_ref-12) [Re: Arasan 23.0](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78122&start=14) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), September 08, 2021
-1. [↑](#cite_ref-13) [Arasan 19.2](http://www.talkchess.com/forum/viewtopic.php?t=61948) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), November 03, 2016
-1. [↑](#cite_ref-14) [Diederik P. Kingma](https://scholar.google.nl/citations?user=yyIoQu4AAAAJ), [Jimmy Lei Ba](https://scholar.google.ca/citations?user=ymzxRhAAAAAJ&hl=en) (**2015**). *Adam: A Method for Stochastic Optimization*. [arXiv:1412.6980v8](https://arxiv.org/abs/1412.6980v8), [ICLR 2015](http://www.iclr.cc/doku.php?id=iclr2015:main)
-1. [↑](#cite_ref-15) [jdart1/Fathom · GitHub](https://github.com/jdart1/Fathom) by [Jon Dart](Jon_Dart "Jon Dart")
-1. [↑](#cite_ref-16) [7-man Syzygy support in Fathom](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70568) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), April 23, 2019
-1. [↑](#cite_ref-17) [Arasan goes online](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/4a4705301c3c3229) by [Jon Dart](Jon_Dart "Jon Dart"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 6, 1997
-1. [↑](#cite_ref-18) [Arasan 15.1](http://www.talkchess.com/forum/viewtopic.php?t=46077) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), November 19, 2012
-1. [↑](#cite_ref-19) [Seventh Annual ACCA Americas' Computer Chess Championships](http://www.talkchess.com/forum/viewtopic.php?t=46047) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), November 18, 2012
-1. [↑](#cite_ref-20) [Arasan games from WCRCC](http://www.talkchess.com/forum/viewtopic.php?t=48703) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), July 21, 2013
-1. [↑](#cite_ref-21) [Baron 1st, Arasan 2nd](http://www.talkchess.com/forum/viewtopic.php?t=56645&start=3) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), June 14, 2015
-1. [↑](#cite_ref-22) [PT48 Round 7](http://www.computerschaak.nl/index.php/nieuws/51-toernooien/704-pt48-round-7)
-1. [↑](#cite_ref-23) [jdart1/arasan-chess · GitHub](https://github.com/jdart1/arasan-chess)
-1. [↑](#cite_ref-24) [Arasan on github](http://www.talkchess.com/forum/viewtopic.php?t=48082) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), May 22, 2013
-1. [↑](#cite_ref-25) [Arasan Programmer's Guide](http://www.talkchess.com/forum/viewtopic.php?t=64364) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), June 21, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Arasan Blog - Aug 26, 2008](https://www.arasanchess.org/blogs/aug08.html)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Arasan chess](https://www.arasanchess.org/)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Arasan Downloads](https://www.arasanchess.org/downld.shtml)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Arasan Tech Blog](https://arasanchess.org/blog.shtml)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Tamil script from Wikipedia](https://en.wikipedia.org/wiki/Tamil_script)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [அரசன் (சதுரங்கம்) - தமிழ் விக்கிப்பீடியா](<https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AE%A9%E0%AF%8D_(%E0%AE%9A%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D)>)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Arasan Programmer's Guide](https://www.arasanchess.org/programr.shtml)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Arasan progress report](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/d75cd258ea73a4a7) by [Jon Dart](Jon_Dart "Jon Dart"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), May 23, 1996
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Arasan Blog - Aug 26, 2008](https://www.arasanchess.org/blogs/aug08.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Arasan 20.3](http://www.talkchess.com/forum/viewtopic.php?t=65636) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), November 05, 2017
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> arasan_source20.3.zip/src/attacks.h
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Re: Arasan 23.0](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78122&start=14) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), September 08, 2021
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Arasan 19.2](http://www.talkchess.com/forum/viewtopic.php?t=61948) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), November 03, 2016
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Diederik P. Kingma](https://scholar.google.nl/citations?user=yyIoQu4AAAAJ), [Jimmy Lei Ba](https://scholar.google.ca/citations?user=ymzxRhAAAAAJ&hl=en) (**2015**). *Adam: A Method for Stochastic Optimization*. [arXiv:1412.6980v8](https://arxiv.org/abs/1412.6980v8), [ICLR 2015](http://www.iclr.cc/doku.php?id=iclr2015:main)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [jdart1/Fathom · GitHub](https://github.com/jdart1/Fathom) by [Jon Dart](Jon_Dart "Jon Dart")
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [7-man Syzygy support in Fathom](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70568) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), April 23, 2019
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Arasan goes online](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/4a4705301c3c3229) by [Jon Dart](Jon_Dart "Jon Dart"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 6, 1997
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Arasan 15.1](http://www.talkchess.com/forum/viewtopic.php?t=46077) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), November 19, 2012
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Seventh Annual ACCA Americas' Computer Chess Championships](http://www.talkchess.com/forum/viewtopic.php?t=46047) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), November 18, 2012
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Arasan games from WCRCC](http://www.talkchess.com/forum/viewtopic.php?t=48703) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), July 21, 2013
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Baron 1st, Arasan 2nd](http://www.talkchess.com/forum/viewtopic.php?t=56645&start=3) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), June 14, 2015
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [PT48 Round 7](http://www.computerschaak.nl/index.php/nieuws/51-toernooien/704-pt48-round-7)
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [jdart1/arasan-chess · GitHub](https://github.com/jdart1/arasan-chess)
+1. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Arasan on github](http://www.talkchess.com/forum/viewtopic.php?t=48082) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), May 22, 2013
+1. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Arasan Programmer's Guide](http://www.talkchess.com/forum/viewtopic.php?t=64364) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), June 21, 2017
 
 **[Up one Level](Engines "Engines")**
 

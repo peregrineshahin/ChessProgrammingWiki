@@ -4,13 +4,13 @@ title: ICGA Journal8 1
 **[Home](Home "Home") \* [Periodical](Periodical "Periodical") \* ICGA Journal**
 
 [](File:ICGAJ.JPG) ICGA Journal Logo
-The **ICGA Journal**, formerly, until 1999, the ICCA Journal is the quarterly published magazine, received by all [ICGA](ICGA "ICGA") members [[1]](#cite_note-1). World-wide membership comprises individuals as well as niversity and industrial members.
+The **ICGA Journal**, formerly, until 1999, the ICCA Journal is the quarterly published magazine, received by all [ICGA](ICGA "ICGA") members <a id="cite-note-1" href="#cite-ref-1">[1]</a>. World-wide membership comprises individuals as well as niversity and industrial members.
 
 ## Photos
 
 [](WCCC_2015 "WCCC 2015")
 [WCCC 2015](WCCC_2015 "WCCC 2015") round 2, [Fridolin](Fridolin "Fridolin") vs. [Ginkgo](Ginkgo "Ginkgo") with some ICCA Journals, [Christian Sommerfeld](Christian_Sommerfeld "Christian Sommerfeld") and [Ingo Bauer](Ingo_Bauer "Ingo Bauer"),  
-[Richard Pijl](Richard_Pijl "Richard Pijl") on the right fighting the [Komodo](Komodo "Komodo") with his [Baron](The_Baron "The Baron") [[2]](#cite_note-2)
+[Richard Pijl](Richard_Pijl "Richard Pijl") on the right fighting the [Komodo](Komodo "Komodo") with his [Baron](The_Baron "The Baron") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ## Editors
 
@@ -90,7 +90,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 ### ICGA Journal, Vol. 43, No. 4
 
 - [Alejandro González Romero](Alejandro_Gonz%C3%A1lez_Romero "Alejandro González Romero"), [René Alquézar Mancho](index.php?title=Ren%C3%A9_Alqu%C3%A9zar&action=edit&redlink=1 "René Alquézar (page does not exist)"), [Arturo Ramírez Flores](index.php?title=Arturo_Ram%C3%ADrez&action=edit&redlink=1 "Arturo Ramírez (page does not exist)"), [Francisco González Acuña](index.php?title=Francisco_Gonz%C3%A1lez_Acu%C3%B1a&action=edit&redlink=1 "Francisco González Acuña (page does not exist)"), [Ian García Olmedo](index.php?title=Ian_Garc%C3%ADa_Olmedo&action=edit&redlink=1 "Ian García Olmedo (page does not exist)"), _Heuri: A scrabble© playing engine using a probability-based heuristic_.
-- [Connor Gregor](index.php?title=Connor_Gregor&action=edit&redlink=1 "Connor Gregor (page does not exist)"), [Daniel Ashlock](index.php?title=Daniel_Ashlock&action=edit&redlink=1 "Daniel Ashlock (page does not exist)"), [Allan R. Willms](index.php?title=Allan_R._Willms&action=edit&redlink=1 "Allan R. Willms (page does not exist)"), _The algebraic solvability of the novel lamplighter puzzle_. [[3]](#cite_note-3)
+- [Connor Gregor](index.php?title=Connor_Gregor&action=edit&redlink=1 "Connor Gregor (page does not exist)"), [Daniel Ashlock](index.php?title=Daniel_Ashlock&action=edit&redlink=1 "Daniel Ashlock (page does not exist)"), [Allan R. Willms](index.php?title=Allan_R._Willms&action=edit&redlink=1 "Allan R. Willms (page does not exist)"), _The algebraic solvability of the novel lamplighter puzzle_. <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 - [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), _The 2021 Computer Olympiad_. » [24th Computer Olympiad 2021](index.php?title=24th_Computer_Olympiad&action=edit&redlink=1 "24th Computer Olympiad (page does not exist)")
 - [Lars Sandin](index.php?title=Lars_Sandin&action=edit&redlink=1 "Lars Sandin (page does not exist)"), _The SSDF Chess Engine Rating List, 2022-01_. » [SSDF](SSDF "SSDF")
 
@@ -179,7 +179,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 
 ### ICGA Journal, Vol. 41, No. 4
 
-- [Vladimir Vargas-Calderón](index.php?title=Vladimir_Vargas-Calder%C3%B3n&action=edit&redlink=1 "Vladimir Vargas-Calderón (page does not exist)"), _Are Armageddon chess games implemented fairly?_ [[4]](#cite_note-4)
+- [Vladimir Vargas-Calderón](index.php?title=Vladimir_Vargas-Calder%C3%B3n&action=edit&redlink=1 "Vladimir Vargas-Calderón (page does not exist)"), _Are Armageddon chess games implemented fairly?_ <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 - [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller"), [Guy Haworth](Guy_Haworth "Guy Haworth"), _Stalemate and ‘DTS’ depth to stalemate endgame tables_.
 - [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), _An ICGA evaluation function_.
 - [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Guy Haworth](Guy_Haworth "Guy Haworth"), _WCCC 2019: The 25th World Computer Chess Championship_. » [WCCC 2019](WCCC_2019 "WCCC 2019")
@@ -268,7 +268,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 - [Yasuhiko Takenaga](index.php?title=Yasuhiko_Takenaga&action=edit&redlink=1 "Yasuhiko Takenaga (page does not exist)"), [Yo Shimada](index.php?title=Yo_Shimada&action=edit&redlink=1 "Yo Shimada (page does not exist)"), _Strategies for Single-Player PuyoPuyo_.
 - [Thomas Wolf](index.php?title=Thomas_Wolf&action=edit&redlink=1 "Thomas Wolf (page does not exist)"), _Seki with 2 Liberties per Chain in the Game of Go_. » [Go](Go "Go")
 - [Mark Watkins](Mark_Watkins "Mark Watkins"), _Losing Chess: 1. e3 Wins for White_. » [Losing Chess](Losing_Chess "Losing Chess")
-- [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), _Don’t Fear Intelligent Machines: Work with Them_. [[5]](#cite_note-5)
+- [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), _Don’t Fear Intelligent Machines: Work with Them_. <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 - [Jon Diamond](index.php?title=Jon_Diamond&action=edit&redlink=1 "Jon Diamond (page does not exist)"), _A History of Go-playing Programs_.
 - [Efstratios Grivas](index.php?title=Efstratios_Grivas&action=edit&redlink=1 "Efstratios Grivas (page does not exist)"), _The Modern Endgame Manual_.
 - [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller"), _Tablebases, Fermat, Knights and Knightmares_.
@@ -368,7 +368,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 
 ### ICGA Journal, Vol. 37, No. 3
 
-- [David W. King](index.php?title=David_W._King&action=edit&redlink=1 "David W. King (page does not exist)"), [Gilbert L. Peterson](index.php?title=Gilbert_L._Peterson&action=edit&redlink=1 "Gilbert L. Peterson (page does not exist)"), _Epaminondas: Exploring Combat Tactics_. [[6]](#cite_note-6)
+- [David W. King](index.php?title=David_W._King&action=edit&redlink=1 "David W. King (page does not exist)"), [Gilbert L. Peterson](index.php?title=Gilbert_L._Peterson&action=edit&redlink=1 "Gilbert L. Peterson (page does not exist)"), _Epaminondas: Exploring Combat Tactics_. <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 - [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), _The Impact of Safe Moves on Perfectly Solving Domineering Boards - Part 2: Analysis of and Experiments with Multi-Step Safe Moves_.
 - [Cameron Browne](Cameron_Browne "Cameron Browne"), _What Can Game AI Teach Us_?
 - [Guy Haworth](Guy_Haworth "Guy Haworth"), _Chess Endgame News_.  » [Syzygy Bases](Syzygy_Bases "Syzygy Bases"), [Fritz 14](Fritz "Fritz")
@@ -394,7 +394,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 - [The Board of ICGA](ICGA#Board "ICGA"), _The 18th Computer Olympiad_.
 - [Aske Plaat](Aske_Plaat "Aske Plaat"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Walter Kosters](Walter_Kosters "Walter Kosters"), _Call for Papers ACG2015 Conference_. » [Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances in Computer Games 14")
 - [The Board of ICGA](ICGA#Board "ICGA"), _ICGA Triennial meeting and by-laws_. » [ICGA](ICGA "ICGA")
-- [Simon Portegies Zwart](Simon_Portegies_Zwart "Simon Portegies Zwart"), [Ben Ruijl](index.php?title=Ben_Ruijl&action=edit&redlink=1 "Ben Ruijl (page does not exist)"), _Computer Diplomacy Announcement_. » [Diplomacy](index.php?title=Diplomacy&action=edit&redlink=1 "Diplomacy (page does not exist)") [[7]](#cite_note-7)
+- [Simon Portegies Zwart](Simon_Portegies_Zwart "Simon Portegies Zwart"), [Ben Ruijl](index.php?title=Ben_Ruijl&action=edit&redlink=1 "Ben Ruijl (page does not exist)"), _Computer Diplomacy Announcement_. » [Diplomacy](index.php?title=Diplomacy&action=edit&redlink=1 "Diplomacy (page does not exist)") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 - [David Levy](David_Levy "David Levy"), _The RYBKA Case – Progress and Verdict_. » [Rybka Controversy](Rybka_Controversy "Rybka Controversy")
 
 ## Volume 36, 2013
@@ -402,8 +402,8 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 ### ICGA Journal, Vol. 36, No. 1
 
 - [Pim Nijssen](index.php?title=Pim_Nijssen&action=edit&redlink=1 "Pim Nijssen (page does not exist)"), [Mark Winands](Mark_Winands "Mark Winands"), _Search Policies in Multi-Player Games_.
-- [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Takeshi Ito](Takeshi_Ito "Takeshi Ito"), _Parallel Dovetailing and its Application to Depth-First Proof-Number Search_. [[8]](#cite_note-8)
-- [Kevin O'Gorman](index.php?title=Kevin_O%27Gorman&action=edit&redlink=1 "Kevin O'Gorman (page does not exist)"), _Chomp Solver Software is Released_. [[9]](#cite_note-9)
+- [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Takeshi Ito](Takeshi_Ito "Takeshi Ito"), _Parallel Dovetailing and its Application to Depth-First Proof-Number Search_. <a id="cite-note-8" href="#cite-ref-8">[8]</a>
+- [Kevin O'Gorman](index.php?title=Kevin_O%27Gorman&action=edit&redlink=1 "Kevin O'Gorman (page does not exist)"), _Chomp Solver Software is Released_. <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 - [Guy McCrossan Haworth](Guy_Haworth "Guy Haworth"), _Chess Endgame News_.
 - [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _Ludo Ergo Sum: Does Game Playing Reveal Your Personality?_ Review on [Giel van Lankveld](index.php?title=Giel_van_Lankveld&action=edit&redlink=1 "Giel van Lankveld (page does not exist)") (**2013**). _Quantifying Individual Player Differences_. PhD thesis, [Tilburg University](Tilburg_University "Tilburg University")
 - [Guy McCrossan Haworth](Guy_Haworth "Guy Haworth"), _Turing, Kasparov and the Future_. » [Alan Turing](Alan_Turing "Alan Turing"), [Turochamp](Turochamp "Turochamp")
@@ -454,7 +454,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 - [Bo-Nian Chen](Bo-Nian_Chen "Bo-Nian Chen"), [Hung-Jui Chang](Hung-Jui_Chang "Hung-Jui Chang"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [Tsan-sheng Hsu](Tsan-sheng_Hsu "Tsan-sheng Hsu"), _Multilevel Inference in Chinese Chess Endgame Knowledge Bases_.
 - [Mehdi Mhalla](index.php?title=Mehdi_Mhalla&action=edit&redlink=1 "Mehdi Mhalla (page does not exist)"), [Frédéric Prost](Fr%C3%A9d%C3%A9ric_Prost "Frédéric Prost"), _Gardner’s Minichess Variant is Solved_.
 - [Wojciech Wieczorek](index.php?title=Wojciech_Wieczorek&action=edit&redlink=1 "Wojciech Wieczorek (page does not exist)"), [Rafał Skinderowicz](index.php?title=Rafa%C5%82_Skinderowicz&action=edit&redlink=1 "Rafał Skinderowicz (page does not exist)"), [Jan Kozak](index.php?title=Jan_Kozak&action=edit&redlink=1 "Jan Kozak (page does not exist)"), [Przemysław Juszczuk](index.php?title=Przemys%C5%82aw_Juszczuk&action=edit&redlink=1 "Przemysław Juszczuk (page does not exist)"), [Arkadiusz Nowakowski](index.php?title=Arkadiusz_Nowakowski&action=edit&redlink=1 "Arkadiusz Nowakowski (page does not exist)"), _Selected Algorithms from the 2013 Toads-and-Frogs Blitz Tournament_.
-- [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _From to αβ to ABCD and SMAB_. Review on [Abdallah Saffidine's](Abdallah_Saffidine "Abdallah Saffidine") Ph.D. thesis [[10]](#cite_note-10)
+- [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _From to αβ to ABCD and SMAB_. Review on [Abdallah Saffidine's](Abdallah_Saffidine "Abdallah Saffidine") Ph.D. thesis <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 - [Guy Haworth](Guy_Haworth "Guy Haworth"), _Chess Endgame News_.
 - [Guy Haworth](Guy_Haworth "Guy Haworth"), _Haworth’s Law_.
 - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [Aske Plaat](Aske_Plaat "Aske Plaat"), _The 8th Computers and Games Conference (Part 2)_. » [CG 2013](CG_2013 "CG 2013")
@@ -492,7 +492,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 - [Guy McCrossan Haworth](Guy_Haworth "Guy Haworth"), _Chess Endgame News_.
 - [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _Review: Of Triskaidekaphobia and Board-Filling Games with Random-Turn Order_. » [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
 - [Jan-Jaap van Horssen](Jan-Jaap_van_Horssen "Jan-Jaap van Horssen"), _Schwarzman vs. MAXIMUS: A Man-Machine Match in International Draughts_. [pdf](http://www.amersfoortsdamgenootschap.nl/archief/2012-2013/Schwarzman-Maximus%20versie%202.pdf)
-- [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), [Kuang-che Wu](Kuang-che_Wu "Kuang-che Wu"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao"), _Nonogram Tournaments in TAAI 2011_. [[11]](#cite_note-11) [[12]](#cite_note-12)
+- [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), [Kuang-che Wu](Kuang-che_Wu "Kuang-che Wu"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Kuo-Yuan Kao](Kuo-Yuan_Kao "Kuo-Yuan Kao"), _Nonogram Tournaments in TAAI 2011_. <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Johanna Hellemons](Johanna_Hellemons "Johanna Hellemons"), _The 16th Computer Olympiad (Part 2)_.
   - [Wesley Turner](index.php?title=Wesley_Turner&action=edit&redlink=1 "Wesley Turner (page does not exist)"), _Einstein Würfelt Nicht - An Analysis of Endgame Play - 16th Computer Olympiad_. » [16th Computer Olympiad](16th_Computer_Olympiad#EWN "16th Computer Olympiad")
   - [Ryan Hayward](Ryan_Hayward "Ryan Hayward"), _MoHex wins Hex Tournament_. » [16th Computer Olympiad](16th_Computer_Olympiad#Hex "16th Computer Olympiad")
@@ -508,19 +508,19 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 
 ### ICGA Journal, Vol. 35, No. 4
 
-- [Joost Batenburg](Joost_Batenburg "Joost Batenburg"), [Walter Kosters](Walter_Kosters "Walter Kosters"), _On the Difficulty of Nonograms_. [[13]](#cite_note-13)
+- [Joost Batenburg](Joost_Batenburg "Joost Batenburg"), [Walter Kosters](Walter_Kosters "Walter Kosters"), _On the Difficulty of Nonograms_. <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 - [Aart Bik](Aart_Bik "Aart Bik"), _Computing Deep Perft and Divide Numbers for Checkers_. » [Perft](Perft "Perft"), [Checkers](Checkers "Checkers")
 - [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), _Havannah – The Old Man and the C’s_. » [Havannah](Havannah "Havannah")
-- [David Levy](David_Levy "David Levy"), _From Computer Games to a Global Brain_. [[14]](#cite_note-14)
+- [David Levy](David_Levy "David Levy"), _From Computer Games to a Global Brain_. <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Johanna Hellemons](Johanna_Hellemons "Johanna Hellemons"), _The 16th Computer Olympiad (Part 3)_.
   - [Johan de Koning](Johan_de_Koning "Johan de Koning"), _Invader wins Amazons Tournament_. » [16th Computer Olympiad](16th_Computer_Olympiad#Amazons "16th Computer Olympiad")
   - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Johanna Hellemons](Johanna_Hellemons "Johanna Hellemons"), _Results of other Tournaments_.
 - [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee"), [Mei-Hui Wang](Mei-Hui_Wang "Mei-Hui Wang"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), _Human vs. Machine Go Competitions in IEEE WCCI 2012_. » [Go](Go "Go")
 - [Ching-Nung Lin](index.php?title=Ching-Nung_Lin&action=edit&redlink=1 "Ching-Nung Lin (page does not exist)"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), _The Computer Go Tournaments in TCGA 2012_.
-- [Tom Pepels](index.php?title=Tom_Pepels&action=edit&redlink=1 "Tom Pepels (page does not exist)"), _The CIG’12 MS Pac-Man vs. Ghosts Competition_. [[15]](#cite_note-15)
+- [Tom Pepels](index.php?title=Tom_Pepels&action=edit&redlink=1 "Tom Pepels (page does not exist)"), _The CIG’12 MS Pac-Man vs. Ghosts Competition_. <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 - [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Ton van der Valk](index.php?title=Ton_van_der_Valk&action=edit&redlink=1 "Ton van der Valk (page does not exist)"), _The Havannah Challenge_.
 - [Al Levy](index.php?title=Alvin_Levy&action=edit&redlink=1 "Alvin Levy (page does not exist)"), _The 16th Annual World Computer-Bridge Championship_.
-- [Cameron Browne](Cameron_Browne "Cameron Browne"), _LUDI wins 9th Annual “Humies” Award_. [[16]](#cite_note-16)
+- [Cameron Browne](Cameron_Browne "Cameron Browne"), _LUDI wins 9th Annual “Humies” Award_. <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 - The Editor, _Thanks to [Michael Buro](Michael_Buro "Michael Buro"), [Ken Chen](Keh-Hsun_Chen "Keh-Hsun Chen"), and [Hans Kuijf](Hans_Kuijf "Hans Kuijf")_.
 - The Editor, _Welcome to [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [Cameron Browne](Cameron_Browne "Cameron Browne"), and [Guy Haworth](Guy_Haworth "Guy Haworth")_.
 - [The Board of ICGA](ICGA#Board "ICGA"), _Announcement of the Yokohama Events_.
@@ -529,11 +529,11 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 
 ### ICGA Journal, Vol. 34, No. 1
 
-- [David Levy](David_Levy "David Levy"), _Attack of the Clones_. [[17]](#cite_note-17)
+- [David Levy](David_Levy "David Levy"), _Attack of the Clones_. <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 - [Jakub Pawlewicz](Jakub_Pawlewicz "Jakub Pawlewicz"), _Towards Optimal Play in Multi-Player Yahtzee_.
 - [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher"), [Guy Haworth](Guy_Haworth "Guy Haworth"), [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden"), _[Uniqueness in Chess Studies](http://centaur.reading.ac.uk/19484/)_.
 - [Cameron Browne](Cameron_Browne "Cameron Browne"), _The Dangers of Random Playouts_.
-- [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), _The 2011 Japan Prize Awarded to Unix Pioneers_. [[18]](#cite_note-18)
+- [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), _The 2011 Japan Prize Awarded to Unix Pioneers_. <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 - [Eric van Reem](Eric_van_Reem "Eric van Reem"), _Chess Classics Mainz - End of an Era_.
 - [Jan Eric Larsson](Jan_Eric_Larsson "Jan Eric Larsson") _Understanding the Turing Test_. on [Maarten van Emden](Maarten_van_Emden "Maarten van Emden"), [André Vellino](index.php?title=Andr%C3%A9_Vellino&action=edit&redlink=1 "André Vellino (page does not exist)") (**2010**). _From Chinese Room to Human Window_. [ICGA Journal, Vol. 33, No. 3](#33_3)
 - [Maarten van Emden](Maarten_van_Emden "Maarten van Emden"), [André Vellino](index.php?title=Andr%C3%A9_Vellino&action=edit&redlink=1 "André Vellino (page does not exist)") _Understanding the Human Window_. reaction on [Jan Eric Larsson](Jan_Eric_Larsson "Jan Eric Larsson") _Understanding the Turing Test_
@@ -544,7 +544,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
   - [Takeshi Ito](Takeshi_Ito "Takeshi Ito"), _Clair 1/128 wins 5x5 Shogi Tournament_.» [15th Computer Olympiad](15th_Computer_Olympiad#Shogi5x5 "15th Computer Olympiad")
   - [Mark Winands](Mark_Winands "Mark Winands"), _SIA wins Surakarta tournament_. » [15th Computer Olympiad](15th_Computer_Olympiad#Surakarta "15th Computer Olympiad")
 - [Hung-Hsuan Lin](Hung-Hsuan_Lin "Hung-Hsuan Lin"), [Der-Johng Sun](Der-Johng_Sun "Der-Johng Sun"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), _The 2010 TAAI Computer Game Tournaments_.
-- [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _Sander Bakkes: Rapid Adaptation of Video Game AI_. Review [[19]](#cite_note-19)
+- [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _Sander Bakkes: Rapid Adaptation of Video Game AI_. Review <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 
 ### ICGA Journal, Vol. 34, No. 2
 
@@ -567,8 +567,8 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 - [Petr Baudiš](index.php?title=Petr_Baudi%C5%A1&action=edit&redlink=1 "Petr Baudiš (page does not exist)"), _Balancing MCTS by Dynamically Adjusting the Komi Value_.
 - [Richard J. Lorentz](Richard_J._Lorentz "Richard J. Lorentz"), _Experiments with Monte-Carlo Tree Search in the Game of Havannah_.
 - [Wojciech Wieczorek](index.php?title=Wojciech_Wieczorek&action=edit&redlink=1 "Wojciech Wieczorek (page does not exist)"), [Rafał Skinderowicz](index.php?title=Rafa%C5%82_Skinderowicz&action=edit&redlink=1 "Rafał Skinderowicz (page does not exist)"), [Jan Kozak](index.php?title=Jan_Kozak&action=edit&redlink=1 "Jan Kozak (page does not exist)"), [Przemysław Juszczuk](index.php?title=Przemys%C5%82aw_Juszczuk&action=edit&redlink=1 "Przemysław Juszczuk (page does not exist)") _New Trends in Clobber Programming_.
-- [Raphaël Couturier](index.php?title=Rapha%C3%ABl_Couturier&action=edit&redlink=1 "Raphaël Couturier (page does not exist)"), _Computer Diaballik_. [[20]](#cite_note-20)
-- [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _Review: The Dark Side of the Board: Advances in Chess Kriegspiel_. [[21]](#cite_note-21)
+- [Raphaël Couturier](index.php?title=Rapha%C3%ABl_Couturier&action=edit&redlink=1 "Raphaël Couturier (page does not exist)"), _Computer Diaballik_. <a id="cite-note-20" href="#cite-ref-20">[20]</a>
+- [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _Review: The Dark Side of the Board: Advances in Chess Kriegspiel_. <a id="cite-note-21" href="#cite-ref-21">[21]</a>
 - [Guofeng Tong](index.php?title=Guofeng_Tong&action=edit&redlink=1 "Guofeng Tong (page does not exist)"), [Xinhe Xu](Xinhe_Xu "Xinhe Xu"), _Progress of Computer Games in China_.
 
 ### ICGA Journal, Vol. 34, No. 4
@@ -621,8 +621,8 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 - [Shih-Chieh Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), _Monte-Carlo Simulation Balancing applied to 9x9 Go_.
 - [Azlan Iqbal](Azlan_Iqbal "Azlan Iqbal"), _Aesthetics in Mate-In-3 Combinations_, Part II Normality
 - [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher"), [Guy Haworth](Guy_Haworth "Guy Haworth"), [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden"), _[Data-Mining Chess Databases](http://centaur.reading.ac.uk/17497/)_.
-- [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), _Automatic Generation and Evaluation of Recombination Games_. Doctoral Dissertation by [Cameron Browne](Cameron_Browne "Cameron Browne"), Review [[22]](#cite_note-22)
-- [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _How can Humans learn from Computers?_ Search and Knowledge for Human and Machine Problem Solving, [Matej Guid](Matej_Guid "Matej Guid"), Ph.D. thesis [[23]](#cite_note-23)
+- [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), _Automatic Generation and Evaluation of Recombination Games_. Doctoral Dissertation by [Cameron Browne](Cameron_Browne "Cameron Browne"), Review <a id="cite-note-22" href="#cite-ref-22">[22]</a>
+- [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _How can Humans learn from Computers?_ Search and Knowledge for Human and Machine Problem Solving, [Matej Guid](Matej_Guid "Matej Guid"), Ph.D. thesis <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 - [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), _The 1st World Computer-Software Championship]]_. » [WCSC 2010](WCSC_2010 "WCSC 2010")
 - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Johanna Hellemons](Johanna_Hellemons "Johanna Hellemons"), _The JAIST Computer Olympiad (Part 2)_.
   - [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Shih-Yuan Chiu](index.php?title=Shih-Yuan_Chiu&action=edit&redlink=1 "Shih-Yuan Chiu (page does not exist)"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), _Modark wins Chinese Dark Chess Tournament_. » [15th Computer Olympiad](15th_Computer_Olympiad#ChineseDarkChess "15th Computer Olympiad")
@@ -815,7 +815,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 ### ICGA Journal, Vol. 29, No. 4
 
 - [Ken Chen](Keh-Hsun_Chen "Keh-Hsun Chen"), [Peigang Zhang](index.php?title=Peigang_Zhang&action=edit&redlink=1 "Peigang Zhang (page does not exist)"), _A New Heuristic Search Algorithm for Capturing Problems in Go_.
-- [Darse Billings](Darse_Billings "Darse Billings"), _On the Importance of Embracing Risk in Tournaments_. [[24]](#cite_note-24)
+- [Darse Billings](Darse_Billings "Darse Billings"), _On the Importance of Embracing Risk in Tournaments_. <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 - [Aviezri Fraenkel](Aviezri_Fraenkel "Aviezri Fraenkel"), _Nim is Easy, Chess is Hard – But Why??_ [pdf](http://www.wisdom.weizmann.ac.il/~fraenkel/Papers/ICGA.pdf)
 - [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), _The Revolution of 2005 and the Rating Lists_.
 - [Eric van Reem](Eric_van_Reem "Eric van Reem"), _[Shredder](Shredder "Shredder") Wins [Second Chess960 Computer-Chess World Championship](Chess960CWC_2006 "Chess960CWC 2006")_.
@@ -886,7 +886,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 
 ### [ICGA Journal, Vol. 27, No. 2](http://ilk.uvt.nl/icga/journal/contents/content27-2.htm)
 
-- [Brian Sheppard](Brian_Sheppard "Brian Sheppard"), _Efficient Control of Selective Simulations_. [[25]](#cite_note-25)
+- [Brian Sheppard](Brian_Sheppard "Brian Sheppard"), _Efficient Control of Selective Simulations_. <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 - [Ed Trice](index.php?title=Ed_Trice&action=edit&redlink=1 "Ed Trice (page does not exist)"), _80 Square Chess_.
 - [Julio César Hernández-Castro](Julio_C%C3%A9sar_Hern%C3%A1ndez-Castro "Julio César Hernández-Castro"), [Ignacio Blasco-López](index.php?title=Ignacio_Blasco-L%C3%B3pez&action=edit&redlink=1 "Ignacio Blasco-López (page does not exist)"), [L.Javier Garcéa-Villalba](index.php?title=L.Javier_Garc%C3%A9a-Villalba&action=edit&redlink=1 "L.Javier Garcéa-Villalba (page does not exist)"), _Hiding Data in Games_.
 - [Jan van Reek](Jan_van_Reek "Jan van Reek"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), _The Complete-Chess Match Stellwagen vs. Baramidze_.
@@ -924,7 +924,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), _The World Chess Team Championship Man vs. Machine_. » [Man vs Machine Team Championship](Man_vs_Machine_Team_Championship "Man vs Machine Team Championship")
 - [Ed Trice](index.php?title=Ed_Trice&action=edit&redlink=1 "Ed Trice (page does not exist)"), _The 2004 Gothic Chess Computer World Championship_.
 - [Ken Thompson](Ken_Thompson "Ken Thompson"), _Obituary\*\* [Michael Joseph Valvo](Michael_Valvo "Michael Valvo") (1942-2004)_.
-- [John Hamlen](John_Hamlen "John Hamlen"), _Seven Year Itch_. [[26]](#cite_note-26)
+- [John Hamlen](John_Hamlen "John Hamlen"), _Seven Year Itch_. <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 
 ## Volume 26, 2003
 
@@ -954,10 +954,10 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 
 - [Brian Sheppard](Brian_Sheppard "Brian Sheppard"), _Endgame Play in Scrabble_.
 - [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), _Two Learning Algorithms for Forward Pruning_, [postscript](http://zaphod.aml.sztaki.hu/papers/kocsis-ICGA03.ps)
-- [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [Jens Lieberum](Jens_Lieberum "Jens Lieberum"), [Johan de Koning](Johan_de_Koning "Johan de Koning"), [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), [Thomas Rolle](index.php?title=Thomas_Rolle&action=edit&redlink=1 "Thomas Rolle (page does not exist)"), [Jörg Sameith](index.php?title=J%C3%B6rg_Sameith&action=edit&redlink=1 "Jörg Sameith (page does not exist)"), _Five visualizations of the k-best mode._ [[27]](#cite_note-27)
+- [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [Jens Lieberum](Jens_Lieberum "Jens Lieberum"), [Johan de Koning](Johan_de_Koning "Johan de Koning"), [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), [Thomas Rolle](index.php?title=Thomas_Rolle&action=edit&redlink=1 "Thomas Rolle (page does not exist)"), [Jörg Sameith](index.php?title=J%C3%B6rg_Sameith&action=edit&redlink=1 "Jörg Sameith (page does not exist)"), _Five visualizations of the k-best mode._ <a id="cite-note-27" href="#cite-ref-27">[27]</a>
 - [Mitja Luštrek](Mitja_Lu%C5%A1trek "Mitja Luštrek"), [Matjaž Gams](Matja%C5%BE_Gams "Matjaž Gams"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), _A Program for Playing Tarok_.
 - [Alvin Levy](index.php?title=Alvin_Levy&action=edit&redlink=1 "Alvin Levy (page does not exist)"), _[Report on the 7th ACBL's World Computer-Bridge Championship](http://ny-bridge.com/allevy/Montreal/ICGA.html)_.
-- [Nobusuke Sasaki](Nobusuke_Sasaki "Nobusuke Sasaki"), _The Gifu Challenge 2003 World Computer-Go Championship_. [[28]](#cite_note-28)
+- [Nobusuke Sasaki](Nobusuke_Sasaki "Nobusuke Sasaki"), _The Gifu Challenge 2003 World Computer-Go Championship_. <a id="cite-note-28" href="#cite-ref-28">[28]</a>
 - The Board of the [ICGA](ICGA "ICGA"), _Garry Kasparov vs. X3D Fritz_. » [Kasparov versus X3D Fritz 2003](Kasparov_versus_X3D_Fritz_2003 "Kasparov versus X3D Fritz 2003")
 
 ### [ICGA Journal, Vol. 26, No. 4](http://ilk.uvt.nl/icga/journal/contents/content26-4.htm)
@@ -1047,8 +1047,8 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 
 - [Mark Winands](Mark_Winands "Mark Winands"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), _The Quad heuristic in Lines of Action_, [pdf](http://www.personeel.unimaas.nl/m-winands/documents/The_Quad_Heuristic_in_Lines_of_Action.pdf)
 - [Kevin Coplan](Kevin_Coplan "Kevin Coplan"), _[Synthesis of Chess and Chess-like Endgames: A Proof of Correctness](http://ilk.uvt.nl/icga/journal/contents/content24-1.htm#SYNTHESIS%20OF%20CHESS)_.
-- [János Wágner](index.php?title=J%C3%A1nos_W%C3%A1gner&action=edit&redlink=1 "János Wágner (page does not exist)"), [István Virág](index.php?title=Istv%C3%A1n_Vir%C3%A1g&action=edit&redlink=1 "István Virág (page does not exist)"), _[Solving Renju](http://ilk.uvt.nl/icga/journal/contents/content24-1.htm#SOLVING%20RENJU)_. [[29]](#cite_note-29)
-- [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _Multigame - an Environment for Distributed Game Tree Research_. (Review) [[30]](#cite_note-30)
+- [János Wágner](index.php?title=J%C3%A1nos_W%C3%A1gner&action=edit&redlink=1 "János Wágner (page does not exist)"), [István Virág](index.php?title=Istv%C3%A1n_Vir%C3%A1g&action=edit&redlink=1 "István Virág (page does not exist)"), _[Solving Renju](http://ilk.uvt.nl/icga/journal/contents/content24-1.htm#SOLVING%20RENJU)_. <a id="cite-note-29" href="#cite-ref-29">[29]</a>
+- [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _Multigame - an Environment for Distributed Game Tree Research_. (Review) <a id="cite-note-30" href="#cite-ref-30">[30]</a>
 - [Jan van Reek](Jan_van_Reek "Jan van Reek"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), *The Match Van der Wiel vs. REBEL CENTURY 3.0.* » [Van der Wiel](https://en.wikipedia.org/wiki/John_van_der_Wiel), [Rebel](Rebel "Rebel")
 - [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), _The 10th International Paderborn Computer-Chess Championship_. » [IPCCC 2001](IPCCC_2001 "IPCCC 2001")
 - [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)"), [Martin Müller](Martin_M%C3%BCller "Martin Müller"), _The Second International Conference on Computers and Games_. » [CG 2000](CG_2000 "CG 2000")
@@ -1071,7 +1071,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 - [Noam Elkies](Noam_Elkies "Noam Elkies"), _Endgame Tables and Chess Composition_.
 - [John Beasley](index.php?title=John_Beasley&action=edit&redlink=1 "John Beasley (page does not exist)"), _Computer Discoveries in Losing Chess_.
 - [Václav Kotěšovec](V%C3%A1clav_Kot%C4%9B%C5%A1ovec "Václav Kotěšovec"), _[King and Two Generalised Knights against King](https://web.archive.org/web/20180713111144/https://ilk.uvt.nl/icga/journal/contents/content24-2.ht#KING)_.
-- [Ben Mittman](Ben_Mittman "Ben Mittman"), _[OBITUARY CLAUDE SHANNON (1916 – 2001): PERSONAL MEMORIES](https://web.archive.org/web/20180713111144/https://ilk.uvt.nl/icga/journal/contents/content24-2.ht#CLAUDE%20SHANNON)_. [[31]](#cite_note-31)
+- [Ben Mittman](Ben_Mittman "Ben Mittman"), _[OBITUARY CLAUDE SHANNON (1916 – 2001): PERSONAL MEMORIES](https://web.archive.org/web/20180713111144/https://ilk.uvt.nl/icga/journal/contents/content24-2.ht#CLAUDE%20SHANNON)_. <a id="cite-note-31" href="#cite-ref-31">[31]</a>
 
 ### [ICGA Journal, Vol. 24, No. 3](http://ilk.uvt.nl/icga/journal/contents/content24-3.htm)
 
@@ -1106,7 +1106,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 - [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), _AEL-Pruning_. [pdf](http://www.top-5000.nl/ps/AEL%20pruning.pdf)
 - [Guy Haworth](Guy_Haworth "Guy Haworth"), _[Strategies for Constrained Optimisation](http://centaur.reading.ac.uk/4566/)_.
 - [Darse Billings](Darse_Billings "Darse Billings"), _[Thoughts on RoShamBo](http://ilk.uvt.nl/icga/journal/contents/content23-1.htm#THOUGHTS%20ON%20ROSHAMBO)_.
-- [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _[The Importance of being Scalable](http://ilk.uvt.nl/icga/journal/contents/content23-1.htm#THE%20IMPORTANCE%20OF%20BEING%20SCALABLE)_. Review on [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), _Scalable Search in Computer Chess_ [[32]](#cite_note-32)
+- [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _[The Importance of being Scalable](http://ilk.uvt.nl/icga/journal/contents/content23-1.htm#THE%20IMPORTANCE%20OF%20BEING%20SCALABLE)_. Review on [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"), _Scalable Search in Computer Chess_ <a id="cite-note-32" href="#cite-ref-32">[32]</a>
 - [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), _A One-Sided Advanced Chess Match. Part 1: The Games._
 - [Eugenio Castillo Jiménez](Eugenio_Castillo_Jim%C3%A9nez "Eugenio Castillo Jiménez"), _Report on the 6th Open Spanish Computer-Chess Championship_. [SCCC 1999](SCCC_1999 "SCCC 1999")
 - [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [Martin Müller](Martin_M%C3%BCller "Martin Müller"), _Report on the Second Open Computer-Amazons Championship_.
@@ -1117,7 +1117,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 - [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), _Championship on the FRITZ_.
 - [Mark Brockington](Mark_Brockington "Mark Brockington"), _Computer Chess Meets Planning_.
 - [Guy Haworth](Guy_Haworth "Guy Haworth"), _[Deepest Chess Win Revisited](http://centaur.reading.ac.uk/4567/)_.
-- [Peter Karrer](Peter_Karrer "Peter Karrer"), _KQQKQP and KQPKQP≈_. [[33]](#cite_note-33)
+- [Peter Karrer](Peter_Karrer "Peter Karrer"), _KQQKQP and KQPKQP≈_. <a id="cite-note-33" href="#cite-ref-33">[33]</a>
 
 ### [ICGA Journal, Vol. 23, No. 3](http://ilk.uvt.nl/icga/journal/contents/content23-3.htm)
 
@@ -1230,7 +1230,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 - [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), _A Brief History of the Future ICCA_.
 - [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), _CRAFTY Goes Deep_. » [Crafty](Crafty "Crafty"), [Diminishing Returns](Depth#DiminishingReturns "Depth")
 - [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Aske Plaat](Aske_Plaat "Aske Plaat"), _Kasparov versus Deep Blue: The Rematch_. » [Kasparov versus Deep Blue 1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997")
-- [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah"), _Rajah: The Design of a Chess Program._ [[34]](#cite_note-34) » [Rajah](Rajah "Rajah")
+- [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah"), _Rajah: The Design of a Chess Program._ <a id="cite-note-34" href="#cite-ref-34">[34]</a> » [Rajah](Rajah "Rajah")
 
 ### [ICCA Journal, Vol. 20, No. 3](http://ilk.uvt.nl/icga/journal/contents/node24.html)
 
@@ -1246,7 +1246,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 
 - [Daniel C. Dennet](https://en.wikipedia.org/wiki/Daniel_Dennett), _Can Machines Think? Deep Blue and Beyond_.
 - [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman"), _Evaluation Tuning for Computer Chess: Linear Discriminant Methods_.
-- [Richard Korf](Richard_Korf "Richard Korf"), _Does DEEP BLUE use Artificial Intelligence?_ [[35]](#cite_note-35)
+- [Richard Korf](Richard_Korf "Richard Korf"), _Does DEEP BLUE use Artificial Intelligence?_ <a id="cite-note-35" href="#cite-ref-35">[35]</a>
 - [John Hamlen](John_Hamlen "John Hamlen"), [Mathias Feist](Mathias_Feist "Mathias Feist"), _Report on the 15th World Microcomputer Chess Championship_. » [WMCCC 1997](WMCCC_1997 "WMCCC 1997")
 - [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), _Report on the 17th Dutch Open Computer-Chess Championship_. » [DOCCC 1997](DOCCC_1997 "DOCCC 1997")
 - [Roberto Cifuentes](https://en.wikipedia.org/wiki/Roberto_Cifuentes), [Maarten De Zeeuw](http://www.newinchess.com/De_Zeeuw__Maarten-ip-185.html), [Jan van Reek](Jan_van_Reek "Jan van Reek"), _Secrets of Chess Endings_.
@@ -1268,7 +1268,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 
 ### [ICCA Journal, Vol. 19, No. 2](http://ilk.uvt.nl/icga/journal/contents/node18.html)
 
-[[36]](#cite_note-36)
+<a id="cite-note-36" href="#cite-ref-36">[36]</a>
 
 - [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), _Chess or Beyond?_
 - [Heinz Herbeck](Heinz_Herbeck "Heinz Herbeck"), [Wilhelm Barth](Wilhelm_Barth "Wilhelm Barth"), _An Explanation Tool for Chess Endgames Based on the Rule Method._
@@ -1530,7 +1530,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 
 ### ICCA Journal, Vol. 13, No. 2
 
-- [Albert Zobrist](Albert_Zobrist "Albert Zobrist"), _A New Hashing Method with Applications for Game Playing_. as [pdf](http://www.cs.wisc.edu/techreports/1970/TR88.pdf) [[37]](#cite_note-37)
+- [Albert Zobrist](Albert_Zobrist "Albert Zobrist"), _A New Hashing Method with Applications for Game Playing_. as [pdf](http://www.cs.wisc.edu/techreports/1970/TR88.pdf) <a id="cite-note-37" href="#cite-ref-37">[37]</a>
 - [Maarten van der Meulen](Maarten_van_der_Meulen "Maarten van der Meulen"), [Victor Allis](Victor_Allis "Victor Allis"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), _A Comment on `Conspiracy-Number Search'_.
 - [Konrad Zuse](Konrad_Zuse "Konrad Zuse"), _The Way from the Computers Z1, Z3 and Z4 to Plankalkül_.
 - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), _An Interview with [Konrad Zuse](Konrad_Zuse "Konrad Zuse")_.
@@ -1753,7 +1753,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 - [Burton Wendroff](Burton_Wendroff "Burton Wendroff"), _Attack Detection and Move Generation on the [X-MP/48](http://www.cisl.ucar.edu/computers/gallery/cray/xmp.jsp)_.
 - [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), _The Construction of an Omniscient Endgame Data Base_.
 - [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), _Calling All Mates_.
-- [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), _[Lionel Moser](index.php?title=Lionel_Moser&action=edit&redlink=1 "Lionel Moser (page does not exist)"): An Experiment in Distributed Game Tree Searching._ (Review) [[38]](#cite_note-38)
+- [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), _[Lionel Moser](index.php?title=Lionel_Moser&action=edit&redlink=1 "Lionel Moser (page does not exist)"): An Experiment in Distributed Game Tree Searching._ (Review) <a id="cite-note-38" href="#cite-ref-38">[38]</a>
 - [John Roycroft](John_Roycroft "John Roycroft"), _Chess-Endgame Data-Base`Oracles': Necessary and Desirable Features_.
 - [Göran Grottling](G%C3%B6ran_Grottling "Göran Grottling"), _Problem-Solving Ability Tested_.
 
@@ -1852,7 +1852,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 ### ICCA Newsletter, Vol. 5, No. 1
 
 - [William Fink](William_Fink "William Fink"), _An [Enhancement](Refutation_Table "Refutation Table") to the Iterative, [Alpha-Beta](Alpha-Beta "Alpha-Beta"), Minimax Search Procedure_.
-- [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), _Donnerwetter_. [[39]](#cite_note-39)
+- [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), _Donnerwetter_. <a id="cite-note-39" href="#cite-ref-39">[39]</a>
 - Editor, _Stockholm Micro-81 Computer Chess Tournament - Stockholm, Sweden_. » [Stockholm MCCT 1981](Stockholm_MCCT_1981 "Stockholm MCCT 1981")
 
 ### ICCA Newsletter, Vol. 5, No. 2
@@ -1926,7 +1926,7 @@ by [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") and [Heiner Marxen](Heiner_
 
 ## 1977
 
-In 1977 the **Computer Chess Newsletter**, Issue 1 [[40]](#cite_note-40) and 2 [[41]](#cite_note-41) were published by Editor [Douglas Penrod](Douglas_Penrod "Douglas Penrod").
+In 1977 the **Computer Chess Newsletter**, Issue 1 <a id="cite-note-40" href="#cite-ref-40">[40]</a> and 2 <a id="cite-note-41" href="#cite-ref-41">[41]</a> were published by Editor [Douglas Penrod](Douglas_Penrod "Douglas Penrod").
 
 ## 1978
 
@@ -1937,18 +1937,18 @@ In 1978 [Ben Mittman](Ben_Mittman "Ben Mittman") and [Barend Swets](Barend_Swets
 
 ## 1983
 
-From the ACM-83 [WCCC 1983](WCCC_1983 "WCCC 1983") booklet \_\_The ICCA\_\_:[[42]](#cite_note-42)
+From the ACM-83 [WCCC 1983](WCCC_1983 "WCCC 1983") booklet \_\_The ICCA\_\_:<a id="cite-note-42" href="#cite-ref-42">[42]</a>
 Established at the [Second World Computer Chess Championship](WCCC_1977 "WCCC 1977") in Toronto 1977, the International Computer Chess Association currently has several hundred members. [Ben Mittman](Ben_Mittman "Ben Mittman") serves as President and, until just recently, as Editor of the ICCA Newsletter which is published three or four times yearly. The ICCA Journal will appear in its place shortly with refereed papers. [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") has assumed the Editorship. [Monroe Newborn](Monroe_Newborn "Monroe Newborn") and [Ken Thompson](Ken_Thompson "Ken Thompson") serve as Vice President and Secretary/Treasurer, respectively. Dues are $10 (U.S.) for one year membership.
 Interested individuals should write to [Ken Thompson](Ken_Thompson "Ken Thompson"), [Bell Laboratories](Bell_Laboratories "Bell Laboratories"), Room 2C, 423 Murray Hill, New Jersey 07974, USA.
 
 ## 1984
 
-From the [ACM-84](ACM_1984 "ACM 1984") booklet \_\_The ICCA:\_\_[[43]](#cite_note-43)
+From the [ACM-84](ACM_1984 "ACM 1984") booklet \_\_The ICCA:\_\_<a id="cite-note-43" href="#cite-ref-43">[43]</a>
 Established at the [Second World Computer Chess Championship](WCCC_1977 "WCCC 1977") in Toronto 1977, the International Computer Chess Association currently has several hundred members. Monty Newborn serves as President; Jaap van den Herik serves as Editor of the \_\_ICCA Journal\_\_ which is published four times yearly. [Johann Enroth](index.php?title=Johann_Enroth&action=edit&redlink=1 "Johann Enroth (page does not exist)") and [William Blanchard](William_Blanchard "William Blanchard") serve as Vice-President and Secretary/Treasurer, respectively. Dues are $10 (U.S.) for a one year membership. Interested individuals should write to [William Blanchard](William_Blanchard "William Blanchard"), 360/253 Blackthorn Lane, Warrenville, Illinois 60555 USA.
 
 ## 1989
 
-From the [WCCC 1989](WCCC_1989 "WCCC 1989") booklet _The International Computer Chess Association_:[[44]](#cite_note-44):
+From the [WCCC 1989](WCCC_1989 "WCCC 1989") booklet _The International Computer Chess Association_:<a id="cite-note-44" href="#cite-ref-44">[44]</a>:
 Established at the [Second World Computer Chess Championship](WCCC_1977 "WCCC 1977") in Toronto 1977, this international association has about five hundred members from all over the world. It is published four times a year. The international Computer Chess Association ([ICCA](ICCA "ICCA")) is an international organization that represents the computer chess world, not only to the computer science community (such as [ACM](ACM "ACM"), [IEEE](IEEE "IEEE"), and [IFIP](IFIP "IFIP")), but also to the world chess federation ([FIDE](FIDE "FIDE")). The most visible benefit of membership is the quarterly ICCA Journal. Each issue contains roughly 60 pages outlining the latest in computer chess research, news, tournament results, book reviews, conferences, games, etc.: something for researchers, chess program hobbyists, and chess players.
 
 Cost: $25 per year.
@@ -1957,7 +1957,7 @@ Mail to: [Dr. Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") Depar
 ## 1995
 
 Same text as 1989, prices and persons changed.
-From the [WCCC 1995](WCCC_1995 "WCCC 1995") booklet _International Computer Chess Association_:[[45]](#cite_note-45):
+From the [WCCC 1995](WCCC_1995 "WCCC 1995") booklet _International Computer Chess Association_:<a id="cite-note-45" href="#cite-ref-45">[45]</a>:
 Cost: $36 US per year, 24 UK pounds or 60 Dutch florins
 
 Mail to (for UK and N.America) [Don Beal](Don_Beal "Don Beal"), Dept of Computer Science [Queen Mary & Westfield College](Queen_Mary,_University_of_London "Queen Mary, University of London"), Mile End Road, London E1 4NS, UK
@@ -1966,14 +1966,14 @@ Mail to (for UK and N.America) [Don Beal](Don_Beal "Don Beal"), Dept of Computer
 
 ## 2000
 
-With the first issue of the new millennium, the **ICCA Journal** was renamed into the **ICGA Journal** [[46]](#cite_note-46):
+With the first issue of the new millennium, the **ICCA Journal** was renamed into the **ICGA Journal** <a id="cite-note-46" href="#cite-ref-46">[46]</a>:
 For many years, the ICCA Journal occasionally included articles on games other than chess. This has included [Backgammon](Backgammon "Backgammon"), [Othello](Othello "Othello"), [Chinese Chess](Chinese_Chess "Chinese Chess"), [Shogi](Shogi "Shogi"), [Go](Go "Go"), and fundamental issues affecting the [programming](Programming "Programming") of all such [games](Games "Games"). To reflect this increasing interest in other games, the Journal changed its name to the ICGA Journal from Vol.23 No.1 (the first issue of 2000).
 
-However, it took further two and a half years, when the organization renamed from [ICCA](ICCA "ICCA") to [ICGA](ICGA "ICGA") as well, for a broader scope to reflect the more general way in which computer-game capability contributes to Artificial Intelligence and to the human experience of game-playing [[47]](#cite_note-47).
+However, it took further two and a half years, when the organization renamed from [ICCA](ICCA "ICCA") to [ICGA](ICGA "ICGA") as well, for a broader scope to reflect the more general way in which computer-game capability contributes to Artificial Intelligence and to the human experience of game-playing <a id="cite-note-47" href="#cite-ref-47">[47]</a>.
 
 ## 2004
 
-From the current Journal site: [[48]](#cite_note-48):
+From the current Journal site: <a id="cite-note-48" href="#cite-ref-48">[48]</a>:
 The ICGA Journal appears four times a year. In order to receive the Journals for 2004 you should subscribe as an ICGA member. The (renewal) fee for individual subscribers is US $ 50,-, UK £ 25,- or € 40,-.
 
 ## 2008 From Maastricht to Tilburg
@@ -2004,7 +2004,7 @@ The visiting address is: Leiden Institute of Advanced Computer Science (LIACS), 
 
 ## 2016 Break
 
-Due to the vacancy of the Editor-in-Chief after Jaap van den Herik's retirement end of 2015 [[49]](#cite_note-49), the ICGA Journal took a break in 2016. Publication is intended to continue with Volume 39 in 2017 by [IOS press](https://en.wikipedia.org/wiki/IOS_Press). Editor-in-Chief will be [I-Chen Wu](I-Chen_Wu "I-Chen Wu") - with the proposal of rotation every two years.
+Due to the vacancy of the Editor-in-Chief after Jaap van den Herik's retirement end of 2015 <a id="cite-note-49" href="#cite-ref-49">[49]</a>, the ICGA Journal took a break in 2016. Publication is intended to continue with Volume 39 in 2017 by [IOS press](https://en.wikipedia.org/wiki/IOS_Press). Editor-in-Chief will be [I-Chen Wu](I-Chen_Wu "I-Chen Wu") - with the proposal of rotation every two years.
 
 ## ICGA Journal Awards
 
@@ -2088,55 +2088,55 @@ In 1992, a novel [Award](Template:ICGA_Journal_Awards "Template:ICGA Journal Awa
 
 ## References
 
-1. [↑](#cite_ref-1) [The quarterly published ICGA Journal](http://ilk.uvt.nl/icga/journal/)
-2. [↑](#cite_ref-2) Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
-3. [↑](#cite_ref-3) [Lamplighter group From Wikipedia](https://en.wikipedia.org/wiki/Lamplighter_group)
-4. [↑](#cite_ref-4) [Armageddon chess from Wikipedia](https://en.wikipedia.org/wiki/Fast_chess#Armageddon)
-5. [↑](#cite_ref-5) [Transcript](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them/transcript) of [Kasparov’s TED talk](https://www.ted.com/speakers/garry_kasparov), May 2017
-6. [↑](#cite_ref-6) [Epaminondas (game) from Wikipedia](https://en.wikipedia.org/wiki/Epaminondas_%28game%29)
-7. [↑](#cite_ref-7) [Computer Diplomacy Challenge | ICGA](https://icga.leidenuniv.nl/?page_id=987)
-8. [↑](#cite_ref-8) [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
-9. [↑](#cite_ref-9) [Chomp from Wikipedia](https://en.wikipedia.org/wiki/Chomp)
-10. [↑](#cite_ref-10) [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine") (**2013**). _Solving Games and All That_. Ph.D. thesis, [Université Paris-Dauphine](University_of_Paris#9 "University of Paris")
-11. [↑](#cite_ref-11) [Nonogram from Wikipedia](https://en.wikipedia.org/wiki/Nonogram)
-12. [↑](#cite_ref-12) [TAAI 2011](http://taai2011.cse.yzu.edu.tw/)
-13. [↑](#cite_ref-13) [Nonogram from Wikipedia](https://en.wikipedia.org/wiki/Nonogram)
-14. [↑](#cite_ref-14) [Global brain from Wikipedia](https://en.wikipedia.org/wiki/Global_brain)
-15. [↑](#cite_ref-15) [Ms Pac-Man vs Ghosts Competition](http://www.pacman-vs-ghosts.net/)
-16. [↑](#cite_ref-16) [GECCO 2012](http://www.sigevo.org/gecco-2012/competitions.html)
-17. [↑](#cite_ref-17) [Attack of the clones | ChessVibes](http://www.chessvibes.com/?q=reports/attack-of-the-clones) by [David Levy](David_Levy "David Levy"), 19 February, 2011
-18. [↑](#cite_ref-18) [Ken Thompson, Dennis Ritchie win Japan 'Nobel' Prize](http://www.chessbase.com/newsdetail.asp?newsid=6970), [ChessBase News](ChessBase "ChessBase"), January 26, 2011
-19. [↑](#cite_ref-19) [Sander Bakkes](index.php?title=Sander_Bakkes&action=edit&redlink=1 "Sander Bakkes (page does not exist)") (**2010**). _Rapid Adaptation of Video Game AI_. Ph.D. thesis, [Tilburg University](Tilburg_University "Tilburg University"), [pdf](http://sander.landofsand.com/phdthesis/Sander_Bakkes_-_PhD_Thesis_Camera_Ready_Copy.pdf)
-20. [↑](#cite_ref-20) [Diaballik from Wikipedia](https://en.wikipedia.org/wiki/Diaballik)
-21. [↑](#cite_ref-21) [Gian Piero Favini](index.php?title=Gian_Piero_Favini&action=edit&redlink=1 "Gian Piero Favini (page does not exist)") (**2010**). _The Dark Side of the Board: Advances in Chess Kriegspiel_. Ph.D. thesis, [Department of Computer Science](http://www.cs.unibo.it/en/), [University of Bologna](https://en.wikipedia.org/wiki/University_of_Bologna), Technical Report UBLCS-2010-06 as [pdf](http://www.cs.unibo.it/pub/TR/UBLCS/2010/2010-06.pdf)
-22. [↑](#cite_ref-22) [Cameron Browne](Cameron_Browne "Cameron Browne") (**2008**). _Automatic Generation and Evaluation of Recombination Games_, Doctoral Dissertation, [Queensland University of Technology](https://en.wikipedia.org/wiki/Queensland_University_of_Technology), [pdf](http://eprints.qut.edu.au/17025/1/Cameron_Browne_Thesis.pdf)
-23. [↑](#cite_ref-23) [Matej Guid](Matej_Guid "Matej Guid") (**2010**). _Search and Knowledge for Human and Machine Problem Solving_, Ph.D. thesis, [University of Ljubljana](University_of_Ljubljana "University of Ljubljana"), [pdf](http://eprints.fri.uni-lj.si/1113/1/Matej__Guid.disertacija.pdf)
-24. [↑](#cite_ref-24) [Chess News - Embracing Risk in Tournaments](http://www.chessbase.com/newsdetail.asp?newsid=3528) by [Darse Billings](Darse_Billings "Darse Billings"), [ChessBase News](ChessBase "ChessBase"), December 14, 2006
-25. [↑](#cite_ref-25) slightly revised version of the [CG 2004](CG_2004 "CG 2004") paper [Brian Sheppard](Brian_Sheppard "Brian Sheppard") (**2004**). _[Efficient Control of Selective Simulations](http://dl.acm.org/citation.cfm?id=2179918)_.
-26. [↑](#cite_ref-26) [Seven Year Itch (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Seven_Year_Itch_%28disambiguation%29)
-27. [↑](#cite_ref-27) [K-Best Visualisations](http://www.althofer.de/k-best-visualisations.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
-28. [↑](#cite_ref-28) [Gifu Challenge 2003](http://www.reiss.demon.co.uk/webgo/gifu.htm) by [Michael Reiss](index.php?title=Michael_Reiss&action=edit&redlink=1 "Michael Reiss (page does not exist)")
-29. [↑](#cite_ref-29) [Renju from Wikipedia](https://en.wikipedia.org/wiki/Renju)
-30. [↑](#cite_ref-30) [John Romein](John_Romein "John Romein") (**2001**). _Multigame - An Environment for Distributed Game-Tree Search_. Ph.D. thesis
-31. [↑](#cite_ref-31) [Claude Shannon article written by Ben Mittman](http://archive.computerhistory.org/resources/still-image/Mittman-Benjamin/Claude_Shannon_article_written_by_Ben_Mittman.2001.102665761.lg.jpg)
-32. [↑](#cite_ref-32) [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1999**). _[Scalable Search in Computer Chess](http://people.csail.mit.edu/heinz/node1.html#scale-cchess)_.
-33. [↑](#cite_ref-33) [Kasparov versus the World from Wikipedia](https://en.wikipedia.org/wiki/Kasparov_versus_the_World)
-34. [↑](#cite_ref-34) [Misinformation about RAJAH in the ICCA](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/36325d4b7bb0eea4#) post by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah") in [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 5, 1997
-35. [↑](#cite_ref-35) [Re: ICCA Journal Sinks To A New Low](https://www.stmintz.com/ccc/index.php?id=14647) by [Amir Ban](Amir_Ban "Amir Ban"), [CCC](CCC "CCC"), January 25, 1998
-36. [↑](#cite_ref-36) [ICCAJ v.19 n.2 now in North America](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/1c08a4963480dbf9) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), July 03, 1996
-37. [↑](#cite_ref-37) [Albert Zobrist](Albert_Zobrist "Albert Zobrist") (**1970**). _A New Hashing Method with Application for Game Playing_. Technical Report #88, Computer Science Department, The University of Wisconsin, Madison, WI, USA. Reprinted (**1990**) in ICCA Journal, Vol. 13, No. 2, [pdf](http://www.cs.wisc.edu/techreports/1970/TR88.pdf)
-38. [↑](#cite_ref-38) [Lionel Moser](index.php?title=Lionel_Moser&action=edit&redlink=1 "Lionel Moser (page does not exist)") (**1984**). _An Experiment in Distributed Game Tree Searching_, M.Sc. thesis, [University of Waterloo](University_of_Waterloo "University of Waterloo")
-39. [↑](#cite_ref-39) [Jan Hein Donner from Wikipedia](https://en.wikipedia.org/wiki/Jan_Hein_Donner)
-40. [↑](#cite_ref-40) [Computer Chess Newsletter, Issue 1](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d632c) 1977 by [Douglas Penrod](Douglas_Penrod "Douglas Penrod"), Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings") [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/4-0.Issue_1_Computer_Chess_Newsletter/Issue_1.Computer_Chess_Newsletter.April-7-1977.062303030.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-41. [↑](#cite_ref-41) [Computer Chess Newsletter, Issue 2](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d6b8e) 1977 by [Douglas Penrod](Douglas_Penrod "Douglas Penrod"), Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/4-0.Issue_2_Computer_Chess_Newsletter/Issue_2_Computer_Chess_Newsletter.1977.062303031.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-42. [↑](#cite_ref-42) [The Fourth World Computer Chess Championship](WCCC_1983 "WCCC 1983") New York, New York October 22-25, 1983 A Special Event at ACM-83. _The ICCA_ pp 19. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1983_WCCC/1983-%20WCCC.062303061.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") (via the wrong labeled site [The 22nd ACM International Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6c8af8))
-43. [↑](#cite_ref-43) [The 15th ACM International Computer Chess Championship](ACM_1984 "ACM 1984") San Francisco, California October 7-9, 1984 A Special Event at ACM-84. _The ICCA_ pp 25. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1984_15th_NACCC/1984%20NACCC.062303012.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") (via the site [The 15th ACM International Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6c8af8))
-44. [↑](#cite_ref-44) King Moves, Welcome to the [1989 AGT World Computer Chess Championship](WCCC_1989 "WCCC 1989") Edmonton, Canada, May 28, 1989. _The International Computer Chess Association_ pp 26. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings") (via the site [The 6th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3))
-45. [↑](#cite_ref-45) [8th World Computer Chess Championship](WCCC_1995 "WCCC 1995") 25-30 May 1995 Hong Kong. _International Computer Chess Association_ pp 25. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1995_WCCC/1995%20WCCC.062303014.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") Courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (via the site [8th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cd6ed))
-46. [↑](#cite_ref-46) [ICCA Journal (Now ICGA Journal)](http://ilk.uvt.nl/icga/journal/)
-47. [↑](#cite_ref-47) [ICCA BECOMES ICGA](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm#ICCA%20BECOMES%20ICGA) by [David Levy](David_Levy "David Levy"), President of the ICGA, [ICGA Journal Vol. 25, No. 3 - September 2002](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm)
-48. [↑](#cite_ref-48) [ICGA Journal, Published Quarterly for ICGA Members](http://ilk.uvt.nl/icga/journal/) current Journal site
-49. [↑](#cite_ref-49) [Editor-in-Chief Wanted | ICGA](https://icga.leidenuniv.nl/?p=1951) by [David Levy](David_Levy "David Levy"), October 6, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The quarterly published ICGA Journal](http://ilk.uvt.nl/icga/journal/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Photo by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lamplighter group From Wikipedia](https://en.wikipedia.org/wiki/Lamplighter_group)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Armageddon chess from Wikipedia](https://en.wikipedia.org/wiki/Fast_chess#Armageddon)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Transcript](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them/transcript) of [Kasparov’s TED talk](https://www.ted.com/speakers/garry_kasparov), May 2017
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Epaminondas (game) from Wikipedia](https://en.wikipedia.org/wiki/Epaminondas_%28game%29)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Computer Diplomacy Challenge | ICGA](https://icga.leidenuniv.nl/?page_id=987)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chomp from Wikipedia](https://en.wikipedia.org/wiki/Chomp)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine") (**2013**). _Solving Games and All That_. Ph.D. thesis, [Université Paris-Dauphine](University_of_Paris#9 "University of Paris")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Nonogram from Wikipedia](https://en.wikipedia.org/wiki/Nonogram)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [TAAI 2011](http://taai2011.cse.yzu.edu.tw/)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Nonogram from Wikipedia](https://en.wikipedia.org/wiki/Nonogram)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Global brain from Wikipedia](https://en.wikipedia.org/wiki/Global_brain)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Ms Pac-Man vs Ghosts Competition](http://www.pacman-vs-ghosts.net/)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [GECCO 2012](http://www.sigevo.org/gecco-2012/competitions.html)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Attack of the clones | ChessVibes](http://www.chessvibes.com/?q=reports/attack-of-the-clones) by [David Levy](David_Levy "David Levy"), 19 February, 2011
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Ken Thompson, Dennis Ritchie win Japan 'Nobel' Prize](http://www.chessbase.com/newsdetail.asp?newsid=6970), [ChessBase News](ChessBase "ChessBase"), January 26, 2011
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Sander Bakkes](index.php?title=Sander_Bakkes&action=edit&redlink=1 "Sander Bakkes (page does not exist)") (**2010**). _Rapid Adaptation of Video Game AI_. Ph.D. thesis, [Tilburg University](Tilburg_University "Tilburg University"), [pdf](http://sander.landofsand.com/phdthesis/Sander_Bakkes_-_PhD_Thesis_Camera_Ready_Copy.pdf)
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Diaballik from Wikipedia](https://en.wikipedia.org/wiki/Diaballik)
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Gian Piero Favini](index.php?title=Gian_Piero_Favini&action=edit&redlink=1 "Gian Piero Favini (page does not exist)") (**2010**). _The Dark Side of the Board: Advances in Chess Kriegspiel_. Ph.D. thesis, [Department of Computer Science](http://www.cs.unibo.it/en/), [University of Bologna](https://en.wikipedia.org/wiki/University_of_Bologna), Technical Report UBLCS-2010-06 as [pdf](http://www.cs.unibo.it/pub/TR/UBLCS/2010/2010-06.pdf)
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Cameron Browne](Cameron_Browne "Cameron Browne") (**2008**). _Automatic Generation and Evaluation of Recombination Games_, Doctoral Dissertation, [Queensland University of Technology](https://en.wikipedia.org/wiki/Queensland_University_of_Technology), [pdf](http://eprints.qut.edu.au/17025/1/Cameron_Browne_Thesis.pdf)
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Matej Guid](Matej_Guid "Matej Guid") (**2010**). _Search and Knowledge for Human and Machine Problem Solving_, Ph.D. thesis, [University of Ljubljana](University_of_Ljubljana "University of Ljubljana"), [pdf](http://eprints.fri.uni-lj.si/1113/1/Matej__Guid.disertacija.pdf)
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Chess News - Embracing Risk in Tournaments](http://www.chessbase.com/newsdetail.asp?newsid=3528) by [Darse Billings](Darse_Billings "Darse Billings"), [ChessBase News](ChessBase "ChessBase"), December 14, 2006
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> slightly revised version of the [CG 2004](CG_2004 "CG 2004") paper [Brian Sheppard](Brian_Sheppard "Brian Sheppard") (**2004**). _[Efficient Control of Selective Simulations](http://dl.acm.org/citation.cfm?id=2179918)_.
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Seven Year Itch (disambiguation) from Wikipedia](https://en.wikipedia.org/wiki/Seven_Year_Itch_%28disambiguation%29)
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [K-Best Visualisations](http://www.althofer.de/k-best-visualisations.html) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer")
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Gifu Challenge 2003](http://www.reiss.demon.co.uk/webgo/gifu.htm) by [Michael Reiss](index.php?title=Michael_Reiss&action=edit&redlink=1 "Michael Reiss (page does not exist)")
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [Renju from Wikipedia](https://en.wikipedia.org/wiki/Renju)
+30. <a id="cite-ref-30" href="#cite-note-30">↑</a> [John Romein](John_Romein "John Romein") (**2001**). _Multigame - An Environment for Distributed Game-Tree Search_. Ph.D. thesis
+31. <a id="cite-ref-31" href="#cite-note-31">↑</a> [Claude Shannon article written by Ben Mittman](http://archive.computerhistory.org/resources/still-image/Mittman-Benjamin/Claude_Shannon_article_written_by_Ben_Mittman.2001.102665761.lg.jpg)
+32. <a id="cite-ref-32" href="#cite-note-32">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1999**). _[Scalable Search in Computer Chess](http://people.csail.mit.edu/heinz/node1.html#scale-cchess)_.
+33. <a id="cite-ref-33" href="#cite-note-33">↑</a> [Kasparov versus the World from Wikipedia](https://en.wikipedia.org/wiki/Kasparov_versus_the_World)
+34. <a id="cite-ref-34" href="#cite-note-34">↑</a> [Misinformation about RAJAH in the ICCA](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/36325d4b7bb0eea4#) post by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah") in [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 5, 1997
+35. <a id="cite-ref-35" href="#cite-note-35">↑</a> [Re: ICCA Journal Sinks To A New Low](https://www.stmintz.com/ccc/index.php?id=14647) by [Amir Ban](Amir_Ban "Amir Ban"), [CCC](CCC "CCC"), January 25, 1998
+36. <a id="cite-ref-36" href="#cite-note-36">↑</a> [ICCAJ v.19 n.2 now in North America](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/1c08a4963480dbf9) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), July 03, 1996
+37. <a id="cite-ref-37" href="#cite-note-37">↑</a> [Albert Zobrist](Albert_Zobrist "Albert Zobrist") (**1970**). _A New Hashing Method with Application for Game Playing_. Technical Report #88, Computer Science Department, The University of Wisconsin, Madison, WI, USA. Reprinted (**1990**) in ICCA Journal, Vol. 13, No. 2, [pdf](http://www.cs.wisc.edu/techreports/1970/TR88.pdf)
+38. <a id="cite-ref-38" href="#cite-note-38">↑</a> [Lionel Moser](index.php?title=Lionel_Moser&action=edit&redlink=1 "Lionel Moser (page does not exist)") (**1984**). _An Experiment in Distributed Game Tree Searching_, M.Sc. thesis, [University of Waterloo](University_of_Waterloo "University of Waterloo")
+39. <a id="cite-ref-39" href="#cite-note-39">↑</a> [Jan Hein Donner from Wikipedia](https://en.wikipedia.org/wiki/Jan_Hein_Donner)
+40. <a id="cite-ref-40" href="#cite-note-40">↑</a> [Computer Chess Newsletter, Issue 1](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d632c) 1977 by [Douglas Penrod](Douglas_Penrod "Douglas Penrod"), Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings") [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/4-0.Issue_1_Computer_Chess_Newsletter/Issue_1.Computer_Chess_Newsletter.April-7-1977.062303030.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+41. <a id="cite-ref-41" href="#cite-note-41">↑</a> [Computer Chess Newsletter, Issue 2](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d6b8e) 1977 by [Douglas Penrod](Douglas_Penrod "Douglas Penrod"), Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/4-0.Issue_2_Computer_Chess_Newsletter/Issue_2_Computer_Chess_Newsletter.1977.062303031.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+42. <a id="cite-ref-42" href="#cite-note-42">↑</a> [The Fourth World Computer Chess Championship](WCCC_1983 "WCCC 1983") New York, New York October 22-25, 1983 A Special Event at ACM-83. _The ICCA_ pp 19. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1983_WCCC/1983-%20WCCC.062303061.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") (via the wrong labeled site [The 22nd ACM International Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6c8af8))
+43. <a id="cite-ref-43" href="#cite-note-43">↑</a> [The 15th ACM International Computer Chess Championship](ACM_1984 "ACM 1984") San Francisco, California October 7-9, 1984 A Special Event at ACM-84. _The ICCA_ pp 25. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1984_15th_NACCC/1984%20NACCC.062303012.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") (via the site [The 15th ACM International Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6c8af8))
+44. <a id="cite-ref-44" href="#cite-note-44">↑</a> King Moves, Welcome to the [1989 AGT World Computer Chess Championship](WCCC_1989 "WCCC 1989") Edmonton, Canada, May 28, 1989. _The International Computer Chess Association_ pp 26. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1989_WCCC/1989%20WCCC.062302028.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings") (via the site [The 6th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-434fea055cbb3))
+45. <a id="cite-ref-45" href="#cite-note-45">↑</a> [8th World Computer Chess Championship](WCCC_1995 "WCCC 1995") 25-30 May 1995 Hong Kong. _International Computer Chess Association_ pp 25. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/3-1%20and%203-2%20and%203-3%20and%204-3.1995_WCCC/1995%20WCCC.062303014.sm.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") Courtesy of [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (via the site [8th World Computer Chess Championship](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6cd6ed))
+46. <a id="cite-ref-46" href="#cite-note-46">↑</a> [ICCA Journal (Now ICGA Journal)](http://ilk.uvt.nl/icga/journal/)
+47. <a id="cite-ref-47" href="#cite-note-47">↑</a> [ICCA BECOMES ICGA](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm#ICCA%20BECOMES%20ICGA) by [David Levy](David_Levy "David Levy"), President of the ICGA, [ICGA Journal Vol. 25, No. 3 - September 2002](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm)
+48. <a id="cite-ref-48" href="#cite-note-48">↑</a> [ICGA Journal, Published Quarterly for ICGA Members](http://ilk.uvt.nl/icga/journal/) current Journal site
+49. <a id="cite-ref-49" href="#cite-note-49">↑</a> [Editor-in-Chief Wanted | ICGA](https://icga.leidenuniv.nl/?p=1951) by [David Levy](David_Levy "David Levy"), October 6, 2016
 
 **[Up one Level](Periodical "Periodical")**
 

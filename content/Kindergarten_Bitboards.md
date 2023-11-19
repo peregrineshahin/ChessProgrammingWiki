@@ -5,10 +5,10 @@ title: Kindergarten Bitboards
 
 
 
- [](http://www.imj.org.il/imagine/collections/item.asp?itemNum=194576) [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Group of Masks, 1939 [[1]](#cite_note-1) 
-**Kindergarten** bitboards [[2]](#cite_note-2),   
+ [](http://www.imj.org.il/imagine/collections/item.asp?itemNum=194576) [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Group of Masks, 1939 <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
+**Kindergarten** bitboards <a id="cite-note-2" href="#cite-ref-2">[2]</a>,   
  
-was a kind of interactive forum development [[3]](#cite_note-3) with a lot of meanders [[4]](#cite_note-4) . There were two issues involved - first to calculate the [occupancy of any line](Occupancy_of_any_Line "Occupancy of any Line") from the [occupied bitboard](Occupancy "Occupancy") [[5]](#cite_note-5) - and second, compact and dense lookup tables. As a quintessence [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") came up with this nomination. It relies on fast 64-bit multiplication, but is otherwise quite resource friendly and a compromise between calculation and table-size. 
+was a kind of interactive forum development <a id="cite-note-3" href="#cite-ref-3">[3]</a> with a lot of meanders <a id="cite-note-4" href="#cite-ref-4">[4]</a> . There were two issues involved - first to calculate the [occupancy of any line](Occupancy_of_any_Line "Occupancy of any Line") from the [occupied bitboard](Occupancy "Occupancy") <a id="cite-note-5" href="#cite-ref-5">[5]</a> - and second, compact and dense lookup tables. As a quintessence [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") came up with this nomination. It relies on fast 64-bit multiplication, but is otherwise quite resource friendly and a compromise between calculation and table-size. 
 
 
 
@@ -113,10 +113,10 @@ U64 diagonalAttacks(U64 occ, enumSquare sq) {
 ## 32-bit Versions
 
 
-One other variation of the memory versus computation theme was encouraged by 32-bit mode. 64-bit multiplication is quite expensive in 32-bit mode - a call using three imuls. Thus, it is more efficient to use shift-or plus 32-bit multiplication, which might in fact be used in 64-bit mode as well. [Piotr Cichy](Piotr_Cichy "Piotr Cichy") proposed a multiplication less [parallel prefix shift](Parallel_Prefix_Algorithms "Parallel Prefix Algorithms") approach similar to [Occupancy of any Line](Occupancy_of_any_Line "Occupancy of any Line") [[6]](#cite_note-6) , which is a good alternative for processors with slow multiplication.
+One other variation of the memory versus computation theme was encouraged by 32-bit mode. 64-bit multiplication is quite expensive in 32-bit mode - a call using three imuls. Thus, it is more efficient to use shift-or plus 32-bit multiplication, which might in fact be used in 64-bit mode as well. [Piotr Cichy](Piotr_Cichy "Piotr Cichy") proposed a multiplication less [parallel prefix shift](Parallel_Prefix_Algorithms "Parallel Prefix Algorithms") approach similar to [Occupancy of any Line](Occupancy_of_any_Line "Occupancy of any Line") <a id="cite-note-6" href="#cite-ref-6">[6]</a> , which is a good alternative for processors with slow multiplication.
 
 
-An efficient and tricky file-approach was introduced by [Zach Wegner](Zach_Wegner "Zach Wegner") [[7]](#cite_note-7), using a 32KByte, [rotated like](Rotated_Bitboards "Rotated Bitboards") lookup-table:
+An efficient and tricky file-approach was introduced by [Zach Wegner](Zach_Wegner "Zach Wegner") <a id="cite-note-7" href="#cite-ref-7">[7]</a>, using a 32KByte, [rotated like](Rotated_Bitboards "Rotated Bitboards") lookup-table:
 It is quite strange, yes, but it is an out of order mapping. There are only 5 bits because each bit in the factor maps more than one bit. The trick here is the odd shift 29, so that the multiply does not overflow individual bits. I have since found that 25 and 27 will work with the same magic:
 
 
@@ -172,7 +172,7 @@ U64 diagonalAttacks(U64 occ, enumSquare sq) {
 
 ```
 
-A similar approach was proposed by [Andrew Fan](Andrew_Fan "Andrew Fan") in 2009, been active in his [own engine](FireFly "FireFly") for a few years (2006 earliest recorded file time) [[8]](#cite_note-8).
+A similar approach was proposed by [Andrew Fan](Andrew_Fan "Andrew Fan") in 2009, been active in his [own engine](FireFly "FireFly") for a few years (2006 earliest recorded file time) <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 
 
 
@@ -192,7 +192,7 @@ While kindergarten bitboards apply a minimal perfect mapping of scattered bits t
 [Grant Osborne](Grant_Osborne "Grant Osborne") came up with the idea, derived from [magic bitboards](Magic_Bitboards "Magic Bitboards") - to use different "magic" factors per square (rank), where multiplication may produce carries and enough so called constructive collisions to gain only five or even four bit indices and therefor denser tables. Since different squares may have different table sizes (16 or 32 entries), a Java-like [array](Array "Array") is used for the attacks, in C implemented as array of pointers to the arbitrary sized attack tables. The variable right shift by either 60 or 59 is encoded inside the otherwise redundant upper six bits of the magic factor, as mentioned in [incorporating the shift](Magic_Bitboards#IncorporatingtheShift "Magic Bitboards") of magic bitboards.
 
 
-Grant's proposal, so far with {5,4,4,5,5,4,4,5} bit ranges for the lookups per square for vertical rook attacks, results in a 1.5 KByte array instead the 4KByte of the initial Kindergarten file attack getter [[9]](#cite_note-9) . Whether the effort of the rank-indexed magic-factor plus additional pointer indirection pays off the memory saving is another question, and should be tried inside a concrete chess program with its individual cache- and memory footprint.
+Grant's proposal, so far with {5,4,4,5,5,4,4,5} bit ranges for the lookups per square for vertical rook attacks, results in a 1.5 KByte array instead the 4KByte of the initial Kindergarten file attack getter <a id="cite-note-9" href="#cite-ref-9">[9]</a> . Whether the effort of the rank-indexed magic-factor plus additional pointer indirection pays off the memory saving is another question, and should be tried inside a concrete chess program with its individual cache- and memory footprint.
 
 
 
@@ -540,15 +540,15 @@ no blocker
 ## References
 
 
-1. [↑](#cite_ref-1) [Paul Klee - Group of Masks](http://www.imj.org.il/en/collections/194576?itemNum=194576), from the [Israel Museum](https://en.wikipedia.org/wiki/Israel_Museum)
-2. [↑](#cite_ref-2) [Magic Bitboards Explained!](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5958) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin") and reply by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") to call it Kindergarten Bitboards, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 4, [2006](Timeline#2006 "Timeline")
-3. [↑](#cite_ref-3) [Compact Bitboard Attacks](http://www.open-aurec.com/wbforum/viewtopic.php?t=4523) by [Tom Likens](Tom_Likens "Tom Likens"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 14, [2006](Timeline#2006 "Timeline")
-4. [↑](#cite_ref-4) [rotated bitboards obsolete?](https://www.stmintz.com/ccc/index.php?id=489834) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), February 26, [2006](Timeline#2006 "Timeline")
-5. [↑](#cite_ref-5) [Re: Some thoughts on Dann Corbit's rotated alternative](https://www.stmintz.com/ccc/index.php?id=491079) by [Steffan Westcott](Steffan_Westcott "Steffan Westcott"), [CCC](CCC "CCC"), March 03, 2006
-6. [↑](#cite_ref-6) [Kindergarten bitboards without multiplying](http://www.talkchess.com/forum/viewtopic.php?t=29296) by [Piotr Cichy](Piotr_Cichy "Piotr Cichy"), [CCC](CCC "CCC"), August 07, 2009
-7. [↑](#cite_ref-7) [Zach's tricky 32-bit approach](http://www.open-aurec.com/wbforum/viewtopic.php?topic_view=threads&p=26851&t=4523) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 22, 2006
-8. [↑](#cite_ref-8) [32-bit Magic experiments](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50616&p=192200) by [Andrew Fan](Andrew_Fan "Andrew Fan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 03, 2009
-9. [↑](#cite_ref-9) [Re: How to reduce the "bits" used in a magic number](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=198660&t=21329) by [Grant Osborne](Grant_Osborne "Grant Osborne"), [CCC](CCC "CCC"), July 04, 2008
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Paul Klee - Group of Masks](http://www.imj.org.il/en/collections/194576?itemNum=194576), from the [Israel Museum](https://en.wikipedia.org/wiki/Israel_Museum)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Magic Bitboards Explained!](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=5958) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin") and reply by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") to call it Kindergarten Bitboards, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 4, [2006](Timeline#2006 "Timeline")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Compact Bitboard Attacks](http://www.open-aurec.com/wbforum/viewtopic.php?t=4523) by [Tom Likens](Tom_Likens "Tom Likens"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 14, [2006](Timeline#2006 "Timeline")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [rotated bitboards obsolete?](https://www.stmintz.com/ccc/index.php?id=489834) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), February 26, [2006](Timeline#2006 "Timeline")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Some thoughts on Dann Corbit's rotated alternative](https://www.stmintz.com/ccc/index.php?id=491079) by [Steffan Westcott](Steffan_Westcott "Steffan Westcott"), [CCC](CCC "CCC"), March 03, 2006
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Kindergarten bitboards without multiplying](http://www.talkchess.com/forum/viewtopic.php?t=29296) by [Piotr Cichy](Piotr_Cichy "Piotr Cichy"), [CCC](CCC "CCC"), August 07, 2009
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Zach's tricky 32-bit approach](http://www.open-aurec.com/wbforum/viewtopic.php?topic_view=threads&p=26851&t=4523) by [Zach Wegner](Zach_Wegner "Zach Wegner"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 22, 2006
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [32-bit Magic experiments](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=50616&p=192200) by [Andrew Fan](Andrew_Fan "Andrew Fan"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 03, 2009
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: How to reduce the "bits" used in a magic number](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=198660&t=21329) by [Grant Osborne](Grant_Osborne "Grant Osborne"), [CCC](CCC "CCC"), July 04, 2008
 
 **[Up one Level](Sliding_Piece_Attacks "Sliding Piece Attacks")**
 

@@ -5,7 +5,7 @@ title: Null Move PruningZugzwangVerification
 
 
 
- [](http://chgs.elevator.umn.edu/asset/viewAsset/57f3b6787d58ae5f74bf8ba9#57f3b6d77d58ae5574bf8bc5) [Samuel Bak](Category:Samuel_Bak "Category:Samuel Bak") - Signals [[1]](#cite_note-1) 
+ [](http://chgs.elevator.umn.edu/asset/viewAsset/57f3b6787d58ae5f74bf8ba9#57f3b6d77d58ae5574bf8bc5) [Samuel Bak](Category:Samuel_Bak "Category:Samuel Bak") - Signals <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Null Move Pruning**,  
 
 also called Null Move Heuristic (**NMH**), is a method based on the [Null Move Observation](Null_Move_Observation "Null Move Observation") to reduce the search space by trying a ["null" or "passing" move](Null_Move "Null Move"), then seeing if the score of the subtree search is still high enough to cause a beta cutoff. Nodes are saved by [reducing](Reductions "Reductions") the [depth](Depth "Depth") of the subtree under the null move. The value of this depth reduction is known as [R](Depth_Reduction_R "Depth Reduction R"). 
@@ -15,7 +15,7 @@ also called Null Move Heuristic (**NMH**), is a method based on the [Null Move O
 ### Mater II
 
 
-In computer chess, Null Move was already used in threatening [mate in one](Checkmate "Checkmate") detection, as elaborated by [George Baylor](George_Baylor "George Baylor") and [Herbert Simon](Herbert_Simon "Herbert Simon") in *A chess mating combinations program*, 1966, the description of [Mater II](Mater#MaterII "Mater") [[2]](#cite_note-2) .
+In computer chess, Null Move was already used in threatening [mate in one](Checkmate "Checkmate") detection, as elaborated by [George Baylor](George_Baylor "George Baylor") and [Herbert Simon](Herbert_Simon "Herbert Simon") in *A chess mating combinations program*, 1966, the description of [Mater II](Mater#MaterII "Mater") <a id="cite-note-2" href="#cite-ref-2">[2]</a> .
 
 
 
@@ -28,7 +28,7 @@ Routine G17 asks if a proposed move threatens mate in one move. It determines th
 ### Kaissa
 
 
-Null Move pruning was already used in [Kaissa](Kaissa "Kaissa"), as described by their authors **1975** in *Some Methods of Controlling the Tree Search in Chess Programs* [[3]](#cite_note-3) , at the end of chapter 2:
+Null Move pruning was already used in [Kaissa](Kaissa "Kaissa"), as described by their authors **1975** in *Some Methods of Controlling the Tree Search in Chess Programs* <a id="cite-note-3" href="#cite-ref-3">[3]</a> , at the end of chapter 2:
 
 
 
@@ -52,28 +52,28 @@ However, the standard of the program's play is still such that such errors do no
 ### Beal's NMQS
 
 
-Null move was further examined by [Don Beal](Don_Beal "Don Beal"), as already elaborated in his [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5") lecture. He proposed a so called **Null Move Quiescence Search** (NMQS) as a selective layer between a regular full width search and [quiescence search](Quiescence_Search "Quiescence Search"), later dubbed **Generalized Quiescence Search** [[4]](#cite_note-4). The full width search was called with two depth parameters, both considered inside the [transposition table](Transposition_Table "Transposition Table"), full-depth and q-depth. Full-depth was recursively decremented as usual, but instead of calling quiescence at the full-depth horizon, NMQS with q-depth was called - q-depth recursively decremented in this layer as well. As long as q-depth is greater than zero, the [hash move](Hash_Move "Hash Move"), if any, is searched first regularly. Next, NMQS calls quiescence for the other side to move, to check for a possible null move [beta-cutoff](Beta-Cutoff "Beta-Cutoff"), before proceeding the remaining moves in usual manner. As pointed out by [Chun Ye](Chun_Ye "Chun Ye") in his 1992 thesis [[5]](#cite_note-5), NMQS permits more flexible [iterative deepening](Iterative_Deepening "Iterative Deepening") concerning full-depth in an outer and q-depth in an inner loop. 
+Null move was further examined by [Don Beal](Don_Beal "Don Beal"), as already elaborated in his [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5") lecture. He proposed a so called **Null Move Quiescence Search** (NMQS) as a selective layer between a regular full width search and [quiescence search](Quiescence_Search "Quiescence Search"), later dubbed **Generalized Quiescence Search** <a id="cite-note-4" href="#cite-ref-4">[4]</a>. The full width search was called with two depth parameters, both considered inside the [transposition table](Transposition_Table "Transposition Table"), full-depth and q-depth. Full-depth was recursively decremented as usual, but instead of calling quiescence at the full-depth horizon, NMQS with q-depth was called - q-depth recursively decremented in this layer as well. As long as q-depth is greater than zero, the [hash move](Hash_Move "Hash Move"), if any, is searched first regularly. Next, NMQS calls quiescence for the other side to move, to check for a possible null move [beta-cutoff](Beta-Cutoff "Beta-Cutoff"), before proceeding the remaining moves in usual manner. As pointed out by [Chun Ye](Chun_Ye "Chun Ye") in his 1992 thesis <a id="cite-note-5" href="#cite-ref-5">[5]</a>, NMQS permits more flexible [iterative deepening](Iterative_Deepening "Iterative Deepening") concerning full-depth in an outer and q-depth in an inner loop. 
 
 
 
 ### Schaeffer
 
 
-In his 1987 [ICCA Journal](ICGA_Journal "ICGA Journal") paper *Speculative Computing*, [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") mentioned *The Null-Move Algorithm* or *Don Beal's null-move*, and used it non-[recursively](Recursion "Recursion") up to once per search path in his tactical [scout](Scout "Scout") solver *Minix* (Mini-Phoenix), which up and then gave the parallel running [Phoenix](Phoenix "Phoenix"), which was a less deep searcher than *Minix*, some tactical hints [[6]](#cite_note-6). 
+In his 1987 [ICCA Journal](ICGA_Journal "ICGA Journal") paper *Speculative Computing*, [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") mentioned *The Null-Move Algorithm* or *Don Beal's null-move*, and used it non-[recursively](Recursion "Recursion") up to once per search path in his tactical [scout](Scout "Scout") solver *Minix* (Mini-Phoenix), which up and then gave the parallel running [Phoenix](Phoenix "Phoenix"), which was a less deep searcher than *Minix*, some tactical hints <a id="cite-note-6" href="#cite-ref-6">[6]</a>. 
 
 
 
 ### Goetsch and Campbell
 
 
-[Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch") and [Murray Campbell](Murray_Campbell "Murray Campbell") published the results of some experiments with Null move pruning in 1988 and 1990 [[7]](#cite_note-7) [[8]](#cite_note-8), already considering [recursive](Recursion "Recursion") NMP with [depth reduction](Depth_Reduction_R "Depth Reduction R") of 1, also mentioned in [Chun Ye's](Chun_Ye "Chun Ye") 1992 thesis with source code as implemented inside the [Chinese Chess](Chinese_Chess "Chinese Chess") program [Abyss](Abyss "Abyss") [[9]](#cite_note-9) .
+[Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch") and [Murray Campbell](Murray_Campbell "Murray Campbell") published the results of some experiments with Null move pruning in 1988 and 1990 <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>, already considering [recursive](Recursion "Recursion") NMP with [depth reduction](Depth_Reduction_R "Depth Reduction R") of 1, also mentioned in [Chun Ye's](Chun_Ye "Chun Ye") 1992 thesis with source code as implemented inside the [Chinese Chess](Chinese_Chess "Chinese Chess") program [Abyss](Abyss "Abyss") <a id="cite-note-9" href="#cite-ref-9">[9]</a> .
 
 
 
 ### Morsch and Donninger
 
 
-Null move pruning was used [recursively](Recursion "Recursion") to possibly occur multiple times inside a path of the search by [Frans Morsch](Frans_Morsch "Frans Morsch") [[10]](#cite_note-10) inside his chess engines [Quest](Quest "Quest") and [Fritz](Fritz "Fritz"). Frans exchanged his ideas with [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), who popularized null move by his *Null Move and Deep Search* paper in the [ICCA Journal](ICGA_Journal "ICGA Journal") [1993](Timeline#1993 "Timeline") [[11]](#cite_note-11) .
+Null move pruning was used [recursively](Recursion "Recursion") to possibly occur multiple times inside a path of the search by [Frans Morsch](Frans_Morsch "Frans Morsch") <a id="cite-note-10" href="#cite-ref-10">[10]</a> inside his chess engines [Quest](Quest "Quest") and [Fritz](Fritz "Fritz"). Frans exchanged his ideas with [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), who popularized null move by his *Null Move and Deep Search* paper in the [ICCA Journal](ICGA_Journal "ICGA Journal") [1993](Timeline#1993 "Timeline") <a id="cite-note-11" href="#cite-ref-11">[11]</a> .
 
 
 
@@ -89,7 +89,7 @@ Most typical engines use [recursive](Recursion "Recursion") null move with an [R
 ### Adaptive Null Move Pruning
 
 
-[Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") proposed refinements with Adaptive Null Move Pruning [[12]](#cite_note-12) . Some programs vary R with [depth](Depth "Depth"), or based on [evaluation](Evaluation "Evaluation") features, such as being in or near the [endgame](Endgame "Endgame").
+[Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") proposed refinements with Adaptive Null Move Pruning <a id="cite-note-12" href="#cite-ref-12">[12]</a> . Some programs vary R with [depth](Depth "Depth"), or based on [evaluation](Evaluation "Evaluation") features, such as being in or near the [endgame](Endgame "Endgame").
 
 
 
@@ -110,7 +110,7 @@ Some other ways to combat the negative effect of the null move observation are l
 ### Zugzwang Verification
 
 
-Concerning null move failures in [zugzwang](Zugzwang "Zugzwang") [[13]](#cite_note-13) , there were proposals by [Stefan Plenkner](Stefan_Plenkner "Stefan Plenkner") 1995, [[14]](#cite_note-14) [[15]](#cite_note-15) and later the *Verified Null-Move Pruning* approach by [Eli David](Eli_David "Eli David") and [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") [[16]](#cite_note-16) . Recently [Robert Hyatt](Robert_Hyatt "Robert Hyatt") tested *Verified Null-Move Pruning* extensively with a lot of variations and depth reductions for the verified search, and concluded it does not help at all in [Crafty](Crafty "Crafty") [[17]](#cite_note-17) similar with [extended null-move reductions](Null_Move_Reductions "Null Move Reductions") [[18]](#cite_note-18) [[19]](#cite_note-19) . However, [Marco Costalba](Marco_Costalba "Marco Costalba") states that verification search has almost nothing to do with zugzwang [[20]](#cite_note-20) .
+Concerning null move failures in [zugzwang](Zugzwang "Zugzwang") <a id="cite-note-13" href="#cite-ref-13">[13]</a> , there were proposals by [Stefan Plenkner](Stefan_Plenkner "Stefan Plenkner") 1995, <a id="cite-note-14" href="#cite-ref-14">[14]</a> <a id="cite-note-15" href="#cite-ref-15">[15]</a> and later the *Verified Null-Move Pruning* approach by [Eli David](Eli_David "Eli David") and [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") <a id="cite-note-16" href="#cite-ref-16">[16]</a> . Recently [Robert Hyatt](Robert_Hyatt "Robert Hyatt") tested *Verified Null-Move Pruning* extensively with a lot of variations and depth reductions for the verified search, and concluded it does not help at all in [Crafty](Crafty "Crafty") <a id="cite-note-17" href="#cite-ref-17">[17]</a> similar with [extended null-move reductions](Null_Move_Reductions "Null Move Reductions") <a id="cite-note-18" href="#cite-ref-18">[18]</a> <a id="cite-note-19" href="#cite-ref-19">[19]</a> . However, [Marco Costalba](Marco_Costalba "Marco Costalba") states that verification search has almost nothing to do with zugzwang <a id="cite-note-20" href="#cite-ref-20">[20]</a> .
 
 
 
@@ -118,7 +118,7 @@ Concerning null move failures in [zugzwang](Zugzwang "Zugzwang") [[13]](#cite_no
 ### Double Null Move
 
 
-Widely discussed in [computer chess forums](Computer_Chess_Forums "Computer Chess Forums") was the [Double Null Move](Double_Null_Move "Double Null Move") idea by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") to perform two consecutive null moves to detect zugzwang [[21]](#cite_note-21) .
+Widely discussed in [computer chess forums](Computer_Chess_Forums "Computer Chess Forums") was the [Double Null Move](Double_Null_Move "Double Null Move") idea by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") to perform two consecutive null moves to detect zugzwang <a id="cite-note-21" href="#cite-ref-21">[21]</a> .
 
 
 
@@ -126,7 +126,7 @@ Widely discussed in [computer chess forums](Computer_Chess_Forums "Computer Ches
 ### Variable NM Bound
 
 
-The idea to permit a null move cutoff not only if the null move search returns a value greater than or equal to beta, but also if the value is slightly less - that is using a bound of beta minus some [tempo](Tempo "Tempo") bonus, was already proposed by [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch") and [Murray Campbell](Murray_Campbell "Murray Campbell") in 1988 as future research idea [[22]](#cite_note-22) . [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") and [Tony Marsland](Tony_Marsland "Tony Marsland") substantiated the idea as implemeted in [The Turk](The_Turk "The Turk"), where the number of potentially good alternative moves (numPGAM) per side in the path from the [root](Root "Root") to the current node as estimated by positive scores of generated moves from the [history heuristic](History_Heuristic "History Heuristic"), was used to determine a tempo bonus of 10 or 20 [centipawns](Centipawns "Centipawns") - the higher numPGAM, the lower the probability that an erroneous forward pruning decision will propagate up the tree [[23]](#cite_note-23) .
+The idea to permit a null move cutoff not only if the null move search returns a value greater than or equal to beta, but also if the value is slightly less - that is using a bound of beta minus some [tempo](Tempo "Tempo") bonus, was already proposed by [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch") and [Murray Campbell](Murray_Campbell "Murray Campbell") in 1988 as future research idea <a id="cite-note-22" href="#cite-ref-22">[22]</a> . [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") and [Tony Marsland](Tony_Marsland "Tony Marsland") substantiated the idea as implemeted in [The Turk](The_Turk "The Turk"), where the number of potentially good alternative moves (numPGAM) per side in the path from the [root](Root "Root") to the current node as estimated by positive scores of generated moves from the [history heuristic](History_Heuristic "History Heuristic"), was used to determine a tempo bonus of 10 or 20 [centipawns](Centipawns "Centipawns") - the higher numPGAM, the lower the probability that an erroneous forward pruning decision will propagate up the tree <a id="cite-note-23" href="#cite-ref-23">[23]</a> .
 
 
 
@@ -160,7 +160,7 @@ if ( nullMoveAllowed &&  ...) {
 ### Mate Threats
 
 
-As suggested in Donninger's paper, concerning the deep search, null move is not only about pruning, but also about detecting [threat moves](Threat_Move "Threat Move") by the opponent to improve further [move ordering](Move_Ordering "Move Ordering") and to possibly trigger [mate threat extensions](Mate_Threat_Extensions "Mate Threat Extensions") [[24]](#cite_note-24) [[25]](#cite_note-25) [[26]](#cite_note-26) [[27]](#cite_note-27) . However, some kind of [fail-soft](Fail-Soft "Fail-Soft") framework is necessary to recognize "I get mated, if I do nothing", otherwise the hard bound of a [null window](Null_Window "Null Window") null-move search around [beta](Beta "Beta") will limit the [upper bound](Upper_Bound "Upper Bound") to beta-1 [[28]](#cite_note-28) . Another, possibly too expensive solution with a [fail-hard](Fail-Hard "Fail-Hard") framework, is to play a bit with the search window, if the null move doesn't fail high:
+As suggested in Donninger's paper, concerning the deep search, null move is not only about pruning, but also about detecting [threat moves](Threat_Move "Threat Move") by the opponent to improve further [move ordering](Move_Ordering "Move Ordering") and to possibly trigger [mate threat extensions](Mate_Threat_Extensions "Mate Threat Extensions") <a id="cite-note-24" href="#cite-ref-24">[24]</a> <a id="cite-note-25" href="#cite-ref-25">[25]</a> <a id="cite-note-26" href="#cite-ref-26">[26]</a> <a id="cite-note-27" href="#cite-ref-27">[27]</a> . However, some kind of [fail-soft](Fail-Soft "Fail-Soft") framework is necessary to recognize "I get mated, if I do nothing", otherwise the hard bound of a [null window](Null_Window "Null Window") null-move search around [beta](Beta "Beta") will limit the [upper bound](Upper_Bound "Upper Bound") to beta-1 <a id="cite-note-28" href="#cite-ref-28">[28]</a> . Another, possibly too expensive solution with a [fail-hard](Fail-Hard "Fail-Hard") framework, is to play a bit with the search window, if the null move doesn't fail high:
 
 
 
@@ -186,7 +186,7 @@ if ( nullMoveAllowed && depth >= X && ...) {
 ### Botvinnik-Markoff Extension
 
 
-Null move is also the base of the [Botvinnik-Markoff Extension](Botvinnik-Markoff_Extension "Botvinnik-Markoff Extension"), as proposed by [Sergei Markoff](Sergei_Markoff "Sergei Markoff") - as a tribute to the computer chess pioneer and former [World Chess Champion](https://en.wikipedia.org/wiki/World_Chess_Championship) [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), who addressed related issues in his publications [[29]](#cite_note-29) .
+Null move is also the base of the [Botvinnik-Markoff Extension](Botvinnik-Markoff_Extension "Botvinnik-Markoff Extension"), as proposed by [Sergei Markoff](Sergei_Markoff "Sergei Markoff") - as a tribute to the computer chess pioneer and former [World Chess Champion](https://en.wikipedia.org/wiki/World_Chess_Championship) [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik"), who addressed related issues in his publications <a id="cite-note-29" href="#cite-ref-29">[29]</a> .
 
 
 
@@ -256,8 +256,8 @@ Most of the time, null move is refuted by a [capture](Captures "Captures"). Ther
 
 
 * [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**2000**). *Selective Depth-First Search Methods*. in [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida") (eds.) (**2000**). *Games in AI Research*. [Universiteit Maastricht](Maastricht_University "Maastricht University"), [pdf preprint](http://www.cs.ualberta.ca/%7Etony/RecentPapers/nec97w.pdf)
-* [Omid David](Eli_David "Eli David"), [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2002**). *Verified null-move pruning.* [ICGA Journal, Vol. 25 No. 3](ICGA_Journal#25_3 "ICGA Journal") [[30]](#cite_note-30) [[31]](#cite_note-31)
-* [Don Beal](Don_Beal "Don Beal") (**2006**). *Review of a nullmove-quiescence search mechanism from 1986*. [File:Alg1986review.txt](File:Alg1986review.txt "File:Alg1986review.txt") (Draft) [[32]](#cite_note-32)
+* [Omid David](Eli_David "Eli David"), [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2002**). *Verified null-move pruning.* [ICGA Journal, Vol. 25 No. 3](ICGA_Journal#25_3 "ICGA Journal") <a id="cite-note-30" href="#cite-ref-30">[30]</a> <a id="cite-note-31" href="#cite-ref-31">[31]</a>
+* [Don Beal](Don_Beal "Don Beal") (**2006**). *Review of a nullmove-quiescence search mechanism from 1986*. [File:Alg1986review.txt](File:Alg1986review.txt "File:Alg1986review.txt") (Draft) <a id="cite-note-32" href="#cite-ref-32">[32]</a>
 * [Omid David](Eli_David "Eli David"), [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2008**). *[Extended Null-Move Reductions](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_19)*. [CG 2008](CG_2008 "CG 2008"), [pdf](http://www.oedavid.com/pubs/nmr.pdf)
 
 
@@ -442,7 +442,7 @@ Most of the time, null move is refuted by a [capture](Captures "Captures"). Ther
 
 
 * [TT avoid nullmove flag](http://www.talkchess.com/forum/viewtopic.php?t=44666) by [Matthew R. Brades](Matthew_R._Brades "Matthew R. Brades"), [CCC](CCC "CCC"), August 02, 2012 » [Transposition Table](Transposition_Table "Transposition Table")
-* [Nullmove vs classic selective search](http://www.talkchess.com/forum/viewtopic.php?t=44686) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 04, 2012 [[33]](#cite_note-33)
+* [Nullmove vs classic selective search](http://www.talkchess.com/forum/viewtopic.php?t=44686) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 04, 2012 <a id="cite-note-33" href="#cite-ref-33">[33]</a>
 
 
 **2013**
@@ -527,7 +527,7 @@ Most of the time, null move is refuted by a [capture](Captures "Captures"). Ther
 ## External Links
 
 
-* Selective Search Techniques in REBEL (null-move) from [Programmer Corner](Rebel#ProgrammerCorner "Rebel") by [Ed Schröder](Ed_Schroder "Ed Schroder") [[34]](#cite_note-34) » [Rebel](Rebel "Rebel")
+* Selective Search Techniques in REBEL (null-move) from [Programmer Corner](Rebel#ProgrammerCorner "Rebel") by [Ed Schröder](Ed_Schroder "Ed Schroder") <a id="cite-note-34" href="#cite-ref-34">[34]</a> » [Rebel](Rebel "Rebel")
 * A presentation describing the power and flaws in null move pruning: [Null Move pruning](http://www.csse.uwa.edu.au/%7Elucas/files/411_null_move_heuristic_seminar.pdf) (pdf) Slides by [Lucas Bradstreet](http://www.csse.uwa.edu.au/%7Elucas/template.php?content=index)
 * [Null-move heuristic from Wikipedia](https://en.wikipedia.org/wiki/Null-move_heuristic)
 * [Larry Coryell](Category:Larry_Coryell "Category:Larry Coryell") & [The Eleventh House](Category:The_Eleventh_House "Category:The Eleventh House") - [Ain't It Is (Aspects)](https://en.wikipedia.org/wiki/Aspects_(The_Eleventh_House_album)), 1976, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
@@ -538,40 +538,40 @@ Most of the time, null move is refuted by a [capture](Captures "Captures"). Ther
 ## References
 
 
-1. [↑](#cite_ref-1) [Chess in the Art of Samuel Bak](http://chgs.elevator.umn.edu/asset/viewAsset/57f3b6787d58ae5f74bf8ba9#57f3b6d77d58ae5574bf8bc5), [Center for Holocaust & Genocide Studies](http://www.chgs.umn.edu/), [University of Minnesota](University_of_Minnesota "University of Minnesota")
-2. [↑](#cite_ref-2) [George W. Baylor](George_Baylor "George Baylor"), [Herbert A. Simon](Herbert_Simon "Herbert Simon") (**1966**). *[A chess mating combinations program](http://dl.acm.org/citation.cfm?id=1464182.1464233&coll=GUIDE&dl=GUIDE)*. [AFIPS](https://en.wikipedia.org/wiki/American_Federation_of_Information_Processing_Societies) [Joint Computer Conferences](https://en.wikipedia.org/wiki/Joint_Computer_Conference), reprinted 1988 in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-3. [↑](#cite_ref-3) [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (**1975**). *Some Methods of Controlling the Tree Search in Chess Programs*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 6, No. 4, pp. 361-371. ISSN 0004-3702. Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-4. [↑](#cite_ref-4) [Don Beal](Don_Beal "Don Beal") (**1989**). *Experiments with the Null Move*. [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5"), A revised version is published (**1990**) under the title *A Generalized Quiescence Search Algorithm*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1, pp. 85-98. ISSN 0004-3702.
-5. [↑](#cite_ref-5) [Chun Ye](Chun_Ye "Chun Ye") (**1992**). *Experiments in Selective Search Extensions*. M.Sc. thesis, Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta"), [pdf](https://era.library.ualberta.ca/public/datastream/get/uuid:e4fbf48d-7603-490f-85cc-5497bbecf5a8/DS1), pp. 57
-6. [↑](#cite_ref-6) [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1987**). *Speculative Computing*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
-7. [↑](#cite_ref-7) [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch"), [Murray Campbell](Murray_Campbell "Murray Campbell") (**1988**). *Experimenting with the Null Move Heuristic in Chess*. AAAI Spring Symposium Proceedings, pp. 14-18
-8. [↑](#cite_ref-8) [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch"), [Murray Campbell](Murray_Campbell "Murray Campbell") (**1990**). *[Experiments with the Null-Move Heuristic](https://link.springer.com/chapter/10.1007/978-1-4613-9080-0_9)*. [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition"), pp. 159-168
-9. [↑](#cite_ref-9) [Chun Ye](Chun_Ye "Chun Ye") (**1992**). *Experiments in Selective Search Extensions*. M.Sc. thesis, Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta"), [pdf](https://era.library.ualberta.ca/public/datastream/get/uuid:e4fbf48d-7603-490f-85cc-5497bbecf5a8/DS1), pp. 27-29
-10. [↑](#cite_ref-10) [Re: SOMA](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=288321&t=28775) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 26, 2009
-11. [↑](#cite_ref-11) [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1993**). *Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
-12. [↑](#cite_ref-12) [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"). (**1999**). *Adaptive null-move pruning*. [ICCA Journal, Vol. 22, No. 3](ICGA_Journal#22_3 "ICGA Journal"), [ps](http://people.csail.mit.edu/heinz/ps/adpt_null.ps.gz)
-13. [↑](#cite_ref-13) [Position from local chess club](https://www.stmintz.com/ccc/index.php?id=76352) by Bernhard Bauer, [CCC](CCC "CCC"), November 05, 1999
-14. [↑](#cite_ref-14) [Stefan Plenkner](Stefan_Plenkner "Stefan Plenkner") (**1995**). *A Null-Move Technique Impervious to Zugzwang.* [ICCA Journal, Vol. 18, No. 2](ICGA_Journal#18_2 "ICGA Journal")
-15. [↑](#cite_ref-15) [Null-move zugzwang avoidance, Jun '95 ICCAJ](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/0840bc8aabd0f6e5#) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland") in [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 6, 1996
-16. [↑](#cite_ref-16) [Omid David](Eli_David "Eli David"), [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2002**). *Verified null-move pruning.* [ICGA Journal, Vol. 25 No. 3](ICGA_Journal#25_3 "ICGA Journal")
-17. [↑](#cite_ref-17) [verified null move](http://www.talkchess.com/forum/viewtopic.php?t=28561) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), June 21, 2009
-18. [↑](#cite_ref-18) [Omid David](Eli_David "Eli David"), [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2008**). *[Extended Null-Move Reductions](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_19)*. [CG 2008](CG_2008 "CG 2008"), [pdf](http://www.oedavid.com/pubs/nmr.pdf)
-19. [↑](#cite_ref-19) [Re: Extended Null-Move Reductions](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=367273&t=35841) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), August 20, 2010
-20. [↑](#cite_ref-20) [Re: Extended Null-Move Reductions](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=367314&t=35841) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), August 20, 2010
-21. [↑](#cite_ref-21) [Re: Null move?](https://groups.google.com/d/msg/rec.games.chess.computer/PrN_AXwYV_4/UXU5x67UaoQJ) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 11, 1997
-22. [↑](#cite_ref-22) [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch"), [Murray Campbell](Murray_Campbell "Murray Campbell") (**1988**). *Experimenting with the Null Move Heuristic in Chess*. AAAI Spring Symposium Proceedings, pp. 14-18
-23. [↑](#cite_ref-23) [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**2000**). *Selective Depth-First Search Methods*. in [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida") (eds.) (**2000**). *Games in AI Research*. [Universiteit Maastricht](Maastricht_University "Maastricht University"), [pdf preprint](http://www.cs.ualberta.ca/%7Etony/RecentPapers/nec97w.pdf)
-24. [↑](#cite_ref-24) [Deep Search Extension](https://www.stmintz.com/ccc/index.php?id=14259) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), January 18, 1998
-25. [↑](#cite_ref-25) [Null move mate extension](https://www.stmintz.com/ccc/index.php?id=57953) by [James Robertson](James_Robertson "James Robertson"), [CCC](CCC "CCC"), June 25, 1999
-26. [↑](#cite_ref-26) [mate threat extension/null move](https://www.stmintz.com/ccc/index.php?id=389013) by [Rick Bischoff](index.php?title=Rick_Bischoff&action=edit&redlink=1 "Rick Bischoff (page does not exist)"), [CCC](CCC "CCC"), September 25, 2004
-27. [↑](#cite_ref-27) [Re: mate threat extension/null move](https://www.stmintz.com/ccc/index.php?id=390268) by [Don Beal](Don_Beal "Don Beal"), [CCC](CCC "CCC"), October 04, 2004 » [Mate Threat Extensions](Mate_Threat_Extensions "Mate Threat Extensions") and [WAC](Win_at_Chess "Win at Chess") booster
-28. [↑](#cite_ref-28) [null move threat extension](http://www.talkchess.com/forum/viewtopic.php?t=24543) by [Andrew Short](index.php?title=Andrew_Short&action=edit&redlink=1 "Andrew Short (page does not exist)"), [CCC](CCC "CCC"), October 23, 2008
-29. [↑](#cite_ref-29) [The "same threat extension" as effective way to resolve horizon problem](https://www.stmintz.com/ccc/index.php?id=318833) by [Sergei Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), October 01, 2003
-30. [↑](#cite_ref-30) [Verified Null-Move Pruning, ICGA 25(3)](https://www.stmintz.com/ccc/index.php?id=266356) by [Omid David](Eli_David "Eli David"), [CCC](CCC "CCC"), November 20, 2002
-31. [↑](#cite_ref-31) [Proving something is better](https://www.stmintz.com/ccc/index.php?id=271270) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), December 17, 2002
-32. [↑](#cite_ref-32) courtesy of [Don Beal](Don_Beal "Don Beal") and [Carey Bloodworth](Carey_Bloodworth "Carey Bloodworth"), [Re: Antique chess programs](http://www.talkchess.com/forum/viewtopic.php?t=58603&start=13) by [Carey](Carey_Bloodworth "Carey Bloodworth"), [CCC](CCC "CCC"), December 16, 2015
-33. [↑](#cite_ref-33) Selective Search Techniques in REBEL (introduction) from [Programmer Corner](Rebel#ProgrammerCorner "Rebel") by [Ed Schröder](Ed_Schroder "Ed Schroder")
-34. [↑](#cite_ref-34) [Nullmove vs classic selective search](http://www.talkchess.com/forum/viewtopic.php?t=44686) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 04, 2012
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Chess in the Art of Samuel Bak](http://chgs.elevator.umn.edu/asset/viewAsset/57f3b6787d58ae5f74bf8ba9#57f3b6d77d58ae5574bf8bc5), [Center for Holocaust & Genocide Studies](http://www.chgs.umn.edu/), [University of Minnesota](University_of_Minnesota "University of Minnesota")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [George W. Baylor](George_Baylor "George Baylor"), [Herbert A. Simon](Herbert_Simon "Herbert Simon") (**1966**). *[A chess mating combinations program](http://dl.acm.org/citation.cfm?id=1464182.1464233&coll=GUIDE&dl=GUIDE)*. [AFIPS](https://en.wikipedia.org/wiki/American_Federation_of_Information_Processing_Societies) [Joint Computer Conferences](https://en.wikipedia.org/wiki/Joint_Computer_Conference), reprinted 1988 in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (**1975**). *Some Methods of Controlling the Tree Search in Chess Programs*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 6, No. 4, pp. 361-371. ISSN 0004-3702. Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Don Beal](Don_Beal "Don Beal") (**1989**). *Experiments with the Null Move*. [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in Computer Chess 5"), A revised version is published (**1990**) under the title *A Generalized Quiescence Search Algorithm*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 43, No. 1, pp. 85-98. ISSN 0004-3702.
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chun Ye](Chun_Ye "Chun Ye") (**1992**). *Experiments in Selective Search Extensions*. M.Sc. thesis, Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta"), [pdf](https://era.library.ualberta.ca/public/datastream/get/uuid:e4fbf48d-7603-490f-85cc-5497bbecf5a8/DS1), pp. 57
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1987**). *Speculative Computing*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch"), [Murray Campbell](Murray_Campbell "Murray Campbell") (**1988**). *Experimenting with the Null Move Heuristic in Chess*. AAAI Spring Symposium Proceedings, pp. 14-18
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch"), [Murray Campbell](Murray_Campbell "Murray Campbell") (**1990**). *[Experiments with the Null-Move Heuristic](https://link.springer.com/chapter/10.1007/978-1-4613-9080-0_9)*. [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition"), pp. 159-168
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Chun Ye](Chun_Ye "Chun Ye") (**1992**). *Experiments in Selective Search Extensions*. M.Sc. thesis, Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta"), [pdf](https://era.library.ualberta.ca/public/datastream/get/uuid:e4fbf48d-7603-490f-85cc-5497bbecf5a8/DS1), pp. 27-29
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: SOMA](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=288321&t=28775) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 26, 2009
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1993**). *Null Move and Deep Search: Selective-Search Heuristics for Obtuse Chess Programs.* [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz"). (**1999**). *Adaptive null-move pruning*. [ICCA Journal, Vol. 22, No. 3](ICGA_Journal#22_3 "ICGA Journal"), [ps](http://people.csail.mit.edu/heinz/ps/adpt_null.ps.gz)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Position from local chess club](https://www.stmintz.com/ccc/index.php?id=76352) by Bernhard Bauer, [CCC](CCC "CCC"), November 05, 1999
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Stefan Plenkner](Stefan_Plenkner "Stefan Plenkner") (**1995**). *A Null-Move Technique Impervious to Zugzwang.* [ICCA Journal, Vol. 18, No. 2](ICGA_Journal#18_2 "ICGA Journal")
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Null-move zugzwang avoidance, Jun '95 ICCAJ](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/0840bc8aabd0f6e5#) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland") in [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 6, 1996
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Omid David](Eli_David "Eli David"), [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2002**). *Verified null-move pruning.* [ICGA Journal, Vol. 25 No. 3](ICGA_Journal#25_3 "ICGA Journal")
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [verified null move](http://www.talkchess.com/forum/viewtopic.php?t=28561) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), June 21, 2009
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Omid David](Eli_David "Eli David"), [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2008**). *[Extended Null-Move Reductions](http://link.springer.com/chapter/10.1007/978-3-540-87608-3_19)*. [CG 2008](CG_2008 "CG 2008"), [pdf](http://www.oedavid.com/pubs/nmr.pdf)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Re: Extended Null-Move Reductions](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=367273&t=35841) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), August 20, 2010
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Re: Extended Null-Move Reductions](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=367314&t=35841) by [Marco Costalba](Marco_Costalba "Marco Costalba"), [CCC](CCC "CCC"), August 20, 2010
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Re: Null move?](https://groups.google.com/d/msg/rec.games.chess.computer/PrN_AXwYV_4/UXU5x67UaoQJ) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 11, 1997
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Gordon Goetsch](Gordon_Goetsch "Gordon Goetsch"), [Murray Campbell](Murray_Campbell "Murray Campbell") (**1988**). *Experimenting with the Null Move Heuristic in Chess*. AAAI Spring Symposium Proceedings, pp. 14-18
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**2000**). *Selective Depth-First Search Methods*. in [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida") (eds.) (**2000**). *Games in AI Research*. [Universiteit Maastricht](Maastricht_University "Maastricht University"), [pdf preprint](http://www.cs.ualberta.ca/%7Etony/RecentPapers/nec97w.pdf)
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Deep Search Extension](https://www.stmintz.com/ccc/index.php?id=14259) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), January 18, 1998
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Null move mate extension](https://www.stmintz.com/ccc/index.php?id=57953) by [James Robertson](James_Robertson "James Robertson"), [CCC](CCC "CCC"), June 25, 1999
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [mate threat extension/null move](https://www.stmintz.com/ccc/index.php?id=389013) by [Rick Bischoff](index.php?title=Rick_Bischoff&action=edit&redlink=1 "Rick Bischoff (page does not exist)"), [CCC](CCC "CCC"), September 25, 2004
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [Re: mate threat extension/null move](https://www.stmintz.com/ccc/index.php?id=390268) by [Don Beal](Don_Beal "Don Beal"), [CCC](CCC "CCC"), October 04, 2004 » [Mate Threat Extensions](Mate_Threat_Extensions "Mate Threat Extensions") and [WAC](Win_at_Chess "Win at Chess") booster
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [null move threat extension](http://www.talkchess.com/forum/viewtopic.php?t=24543) by [Andrew Short](index.php?title=Andrew_Short&action=edit&redlink=1 "Andrew Short (page does not exist)"), [CCC](CCC "CCC"), October 23, 2008
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [The "same threat extension" as effective way to resolve horizon problem](https://www.stmintz.com/ccc/index.php?id=318833) by [Sergei Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), October 01, 2003
+30. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Verified Null-Move Pruning, ICGA 25(3)](https://www.stmintz.com/ccc/index.php?id=266356) by [Omid David](Eli_David "Eli David"), [CCC](CCC "CCC"), November 20, 2002
+31. <a id="cite-ref-31" href="#cite-note-31">↑</a> [Proving something is better](https://www.stmintz.com/ccc/index.php?id=271270) by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"), [CCC](CCC "CCC"), December 17, 2002
+32. <a id="cite-ref-32" href="#cite-note-32">↑</a> courtesy of [Don Beal](Don_Beal "Don Beal") and [Carey Bloodworth](Carey_Bloodworth "Carey Bloodworth"), [Re: Antique chess programs](http://www.talkchess.com/forum/viewtopic.php?t=58603&start=13) by [Carey](Carey_Bloodworth "Carey Bloodworth"), [CCC](CCC "CCC"), December 16, 2015
+33. <a id="cite-ref-33" href="#cite-note-33">↑</a> Selective Search Techniques in REBEL (introduction) from [Programmer Corner](Rebel#ProgrammerCorner "Rebel") by [Ed Schröder](Ed_Schroder "Ed Schroder")
+34. <a id="cite-ref-34" href="#cite-note-34">↑</a> [Nullmove vs classic selective search](http://www.talkchess.com/forum/viewtopic.php?t=44686) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), August 04, 2012
 
 **[Up one level](Pruning "Pruning")**
 

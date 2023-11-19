@@ -14,9 +14,9 @@ The **Score** is a value assigned to a [node](Node "Node") inside a search proce
 A [mate score](Checkmate#MateScore "Checkmate") is assigned to terminal mate [root](Root "Root") position, in White relative minimax either the maximum (black mated) or minimum (white mated) values of the whole value range, in [side to move](Side_to_move "Side to move") relative [negamax](Negamax "Negamax") metric always the minimum, i.e. VALUE\_MATED = -[SHRT\_MAX](Word#Ranges "Word")/2. Below the root the absolute values of mate scores are usually decremented by [ply](Ply "Ply") distance to the root, to encourage programs to prefer shorter mates if winning or longer mates if losing.
 
 
-Inside a negamax based search, most [[1]](#cite_note-1) programs assign *VALUE\_MATED + [ply](Ply "Ply") distance to the root* as worst case score if entering a [node](Node "Node"), which if propagated as mate score along the [principal variation](Principal_Variation "Principal Variation") to the root, translates in mate in odd plies (positive values), or getting mated in even plies.
+Inside a negamax based search, most <a id="cite-note-1" href="#cite-ref-1">[1]</a> programs assign *VALUE\_MATED + [ply](Ply "Ply") distance to the root* as worst case score if entering a [node](Node "Node"), which if propagated as mate score along the [principal variation](Principal_Variation "Principal Variation") to the root, translates in mate in odd plies (positive values), or getting mated in even plies.
 
-However, those scores need ply-adjustment if stored as [exact score](Exact_Score "Exact Score") inside the [transposition table](Transposition_Table "Transposition Table"), and re-adjustment if retrieving from TT. An alternative approach, not only related to mate scores was proposed by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), the **Delayed-loss bonus** as implemented in [Micro-Max](Micro-Max "Micro-Max") et al. [[2]](#cite_note-2) [[3]](#cite_note-3) [[4]](#cite_note-4) [[5]](#cite_note-5) [[6]](#cite_note-6).
+However, those scores need ply-adjustment if stored as [exact score](Exact_Score "Exact Score") inside the [transposition table](Transposition_Table "Transposition Table"), and re-adjustment if retrieving from TT. An alternative approach, not only related to mate scores was proposed by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), the **Delayed-loss bonus** as implemented in [Micro-Max](Micro-Max "Micro-Max") et al. <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
 
 
@@ -49,7 +49,7 @@ Some programs apply a [contempt factor](Contempt_Factor "Contempt Factor"), to a
 ### Around Zero
 
 
-[Cray Blitz](Cray_Blitz "Cray Blitz") applied a special draw heuristic, not uniformly using zero as draw score, but rather zero plus the [ply](Ply "Ply") distance to the [root](Root "Root") to prefer later draws rather than a draw now. Additionally, the draw score range is disjoint from [evaluation](Evaluation "Evaluation") scores, which then exclude values around zero by adding or subtracting appropriate offsets if either greater or equal, or less than zero [[7]](#cite_note-7).
+[Cray Blitz](Cray_Blitz "Cray Blitz") applied a special draw heuristic, not uniformly using zero as draw score, but rather zero plus the [ply](Ply "Ply") distance to the [root](Root "Root") to prefer later draws rather than a draw now. Additionally, the draw score range is disjoint from [evaluation](Evaluation "Evaluation") scores, which then exclude values around zero by adding or subtracting appropriate offsets if either greater or equal, or less than zero <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
 
 
@@ -116,7 +116,7 @@ Heuristic integer scores need to define a fixed point resolution. What is one in
 ### Grain
 
 
-On the other hand, some programmers perform a final [rounding](https://en.wikipedia.org/wiki/Rounding) of heuristic integer scores from evaluation for a coarser grain, i.e. divide by two or four, yielding in a reduced value range accordingly. The basic idea is to increase search efficiency in [alpha-beta](Alpha-Beta "Alpha-Beta") and that like, because move ordering becomes less sensitive from arbitrary or noisy centi- or millipawn improvements from later moves. Depending on the program, its search algorithm and evaluation, that may work to some extend. [Aske Plaat's](Aske_Plaat "Aske Plaat") [MTD(f)](MTD(f) "MTD(f)") *Implementation Tips* cover the grain of the evaluation [[8]](#cite_note-8) :
+On the other hand, some programmers perform a final [rounding](https://en.wikipedia.org/wiki/Rounding) of heuristic integer scores from evaluation for a coarser grain, i.e. divide by two or four, yielding in a reduced value range accordingly. The basic idea is to increase search efficiency in [alpha-beta](Alpha-Beta "Alpha-Beta") and that like, because move ordering becomes less sensitive from arbitrary or noisy centi- or millipawn improvements from later moves. Depending on the program, its search algorithm and evaluation, that may work to some extend. [Aske Plaat's](Aske_Plaat "Aske Plaat") [MTD(f)](MTD(f) "MTD(f)") *Implementation Tips* cover the grain of the evaluation <a id="cite-note-8" href="#cite-ref-8">[8]</a> :
 
 
 
@@ -140,7 +140,7 @@ For instance, with centipawn resolution a 15-bit signed integer type is appropri
 ### Sign Extension
 
 
-A shiftless sign extension of stored signed values with less bits required than available inside a register (16, 32, 64) might be done by [exclusive or](General_Setwise_Operations#ExclusiveOr "General Setwise Operations") and subtraction of the value of the sign bit from the zero extended (shift right and mask, or [x86-64](X86-64 "X86-64") [BMI1](BMI1 "BMI1") [BEXTR](BMI1#BEXTR "BMI1") instruction) value [[9]](#cite_note-9) :
+A shiftless sign extension of stored signed values with less bits required than available inside a register (16, 32, 64) might be done by [exclusive or](General_Setwise_Operations#ExclusiveOr "General Setwise Operations") and subtraction of the value of the sign bit from the zero extended (shift right and mask, or [x86-64](X86-64 "X86-64") [BMI1](BMI1 "BMI1") [BEXTR](BMI1#BEXTR "BMI1") instruction) value <a id="cite-note-9" href="#cite-ref-9">[9]</a> :
 
 
 
@@ -177,7 +177,7 @@ While todays processors like [x86-64](X86-64 "X86-64") provide fast [SIMD](SIMD_
 ## Score Types
 
 
-In [alpha-beta](Alpha-Beta "Alpha-Beta"), the vast majority of the nodes hold either [upper](Upper_Bound "Upper Bound") ([All-nodes](Node_Types#all-nodes "Node Types")) or [lower bounds](Lower_Bound "Lower Bound") ([Cut-nodes](Node_Types#cut-nodes "Node Types")) rather than an [exact scores](Exact_Score "Exact Score") of confirmed [PV-nodes](Node_Types#pv-node "Node Types"). Rather than associate some bound-bits with a score, [Don Beal](Don_Beal "Don Beal") proposed [integrated bounds and values](Integrated_Bounds_and_Values "Integrated Bounds and Values") integers [[10]](#cite_note-10) .
+In [alpha-beta](Alpha-Beta "Alpha-Beta"), the vast majority of the nodes hold either [upper](Upper_Bound "Upper Bound") ([All-nodes](Node_Types#all-nodes "Node Types")) or [lower bounds](Lower_Bound "Lower Bound") ([Cut-nodes](Node_Types#cut-nodes "Node Types")) rather than an [exact scores](Exact_Score "Exact Score") of confirmed [PV-nodes](Node_Types#pv-node "Node Types"). Rather than associate some bound-bits with a score, [Don Beal](Don_Beal "Don Beal") proposed [integrated bounds and values](Integrated_Bounds_and_Values "Integrated Bounds and Values") integers <a id="cite-note-10" href="#cite-ref-10">[10]</a> .
 
 
 
@@ -305,16 +305,16 @@ In [alpha-beta](Alpha-Beta "Alpha-Beta"), the vast majority of the nodes hold ei
 ## References
 
 
-1. [↑](#cite_ref-1) [The Code for the Rybka-Mate-Bug](https://www.stmintz.com/ccc/index.php?id=469728) by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), [CCC](CCC "CCC"), December 13, 2005
-2. [↑](#cite_ref-2) [Evaluation: Aging - The Delay Penalty](http://home.hccnet.nl/h.g.muller/delay.html) from [Micro-Max](Micro-Max "Micro-Max") by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
-3. [↑](#cite_ref-3) [Re: Transposition Tables](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=147295&t=15129) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), September 26, 2007
-4. [↑](#cite_ref-4) [Delayed-loss-bonus discussion goes here](http://www.talkchess.com/forum/viewtopic.php?t=16751) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), September 28, 2007
-5. [↑](#cite_ref-5) [Seeing a promotion, but not playing it...](http://www.talkchess.com/forum/viewtopic.php?t=31981) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 24, 2010
-6. [↑](#cite_ref-6) [Re: The cause of extreme piece shuffling](http://www.talkchess.com/forum/viewtopic.php?t=58881&start=1) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 11, 2016
-7. [↑](#cite_ref-7) [Harry Nelson](Harry_Nelson "Harry Nelson"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1988**). *The Draw Heuristic of Cray Blitz*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
-8. [↑](#cite_ref-8) [MTD(f) - A Minimax Algorithm faster than NegaScout](http://people.csail.mit.edu/plaat/mtdf.html) by [Aske Plaat](Aske_Plaat "Aske Plaat")
-9. [↑](#cite_ref-9) [Sign Extension](http://aggregate.org/MAGIC/#Sign%20Extension) from [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC) by [Hank Dietz](Hank_Dietz "Hank Dietz")
-10. [↑](#cite_ref-10) [Don Beal](Don_Beal "Don Beal") (**1995**). *An Integrated-Bounds-and-Values (IBV) Numeric Scale for Minimax Searches*. [ICCA Journal, Vol. 18, No. 2](ICGA_Journal#18_2 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [The Code for the Rybka-Mate-Bug](https://www.stmintz.com/ccc/index.php?id=469728) by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), [CCC](CCC "CCC"), December 13, 2005
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Evaluation: Aging - The Delay Penalty](http://home.hccnet.nl/h.g.muller/delay.html) from [Micro-Max](Micro-Max "Micro-Max") by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Transposition Tables](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=147295&t=15129) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), September 26, 2007
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Delayed-loss-bonus discussion goes here](http://www.talkchess.com/forum/viewtopic.php?t=16751) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), September 28, 2007
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Seeing a promotion, but not playing it...](http://www.talkchess.com/forum/viewtopic.php?t=31981) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 24, 2010
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: The cause of extreme piece shuffling](http://www.talkchess.com/forum/viewtopic.php?t=58881&start=1) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 11, 2016
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Harry Nelson](Harry_Nelson "Harry Nelson"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1988**). *The Draw Heuristic of Cray Blitz*. [ICCA Journal, Vol. 11, No. 1](ICGA_Journal#11_1 "ICGA Journal")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [MTD(f) - A Minimax Algorithm faster than NegaScout](http://people.csail.mit.edu/plaat/mtdf.html) by [Aske Plaat](Aske_Plaat "Aske Plaat")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Sign Extension](http://aggregate.org/MAGIC/#Sign%20Extension) from [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC) by [Hank Dietz](Hank_Dietz "Hank Dietz")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Don Beal](Don_Beal "Don Beal") (**1995**). *An Integrated-Bounds-and-Values (IBV) Numeric Scale for Minimax Searches*. [ICCA Journal, Vol. 18, No. 2](ICGA_Journal#18_2 "ICGA Journal")
 
 **[Up one Level](Search "Search")**
 

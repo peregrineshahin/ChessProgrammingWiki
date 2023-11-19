@@ -5,7 +5,7 @@ title: Planning
 
 
 
-[ Plan is law, fulfillment is duty, over-fulfillment is honor! [[1]](#cite_note-1)
+[ Plan is law, fulfillment is duty, over-fulfillment is honor! <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Planning**,  
 
 the process of applying knowledge, [thinking](https://en.wikipedia.org/wiki/Thought) and [prediction](https://en.wikipedia.org/wiki/Prediction) to create and maintain a [plan](https://en.wikipedia.org/wiki/Plan), a [temporal](https://en.wikipedia.org/wiki/Temporal_logic) set of intended actions to achieve a certain goal, in chess, to finally win the game. 
@@ -15,7 +15,7 @@ the process of applying knowledge, [thinking](https://en.wikipedia.org/wiki/Thou
 ## Long-range Planning
 
 
-Long-range planning by human chess players is usually made on the basis of [reasoning](https://en.wikipedia.org/wiki/Reason), [experience](https://en.wikipedia.org/wiki/Experience), and [intuition](https://en.wikipedia.org/wiki/Intuition_%28psychology%29), as investigated by [De Groot](Adriaan_de_Groot "Adriaan de Groot") in 1946 [[4]](#cite_note-4). 
+Long-range planning by human chess players is usually made on the basis of [reasoning](https://en.wikipedia.org/wiki/Reason), [experience](https://en.wikipedia.org/wiki/Experience), and [intuition](https://en.wikipedia.org/wiki/Intuition_%28psychology%29), as investigated by [De Groot](Adriaan_de_Groot "Adriaan de Groot") in 1946 <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
 
 
 
@@ -36,7 +36,7 @@ Conventional [depth-first](Depth-First "Depth-First") [alpha-beta searchers](Alp
 ## Chess Quotes
 
 
-[[5]](#cite_note-5)
+<a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 
 
@@ -87,7 +87,7 @@ Conventional [depth-first](Depth-First "Depth-First") [alpha-beta searchers](Alp
 ### 1950 ...
 
 
-* [Max Euwe](Max_Euwe "Max Euwe") (**1953**). *Judgment and Planning in Chess*. McKay Company, New York, N.Y. [[6]](#cite_note-6)
+* [Max Euwe](Max_Euwe "Max Euwe") (**1953**). *Judgment and Planning in Chess*. McKay Company, New York, N.Y. <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 
 ### 1960 ...
@@ -171,7 +171,7 @@ Conventional [depth-first](Depth-First "Depth-First") [alpha-beta searchers](Alp
 * [Adi Botea](Adi_Botea "Adi Botea"), [Martin Müller](Martin_M%C3%BCller "Martin Müller"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**2002**). *[Using Abstraction for Planning in Sokoban](http://link.springer.com/chapter/10.1007/978-3-540-40031-8_24)*. [CG 2002](CG_2002 "CG 2002")
 * [Joelle Pineau](Joelle_Pineau "Joelle Pineau") (**2004**). *Tractable Planning Under Uncertainty: Exploiting Structure*. Ph.D. thesis, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [pdf](http://www.cs.mcgill.ca/~jpineau/files/jpineau-thesis.pdf)
 * [Malik Ghallab](https://scholar.google.com/citations?user=A4v885AAAAAJ&hl=en), [Dana Nau](Dana_S._Nau "Dana S. Nau"), [Paolo Traverso](https://scholar.google.it/citations?user=ho38I-wAAAAJ&hl=en) (**2004**). *[Automated Planning: Theory and Practice](http://projects.laas.fr/planning/aptp/index.html)*. [Morgan Kaufmann Publishers](https://en.wikipedia.org/wiki/Morgan_Kaufmann_Publishers)
-* [Yan Radovilsky](Yan_Radovilsky "Yan Radovilsky"), [Solomon Eyal Shimony](Solomon_Eyal_Shimony "Solomon Eyal Shimony") (**2004**). *Generalized Model for Rational Game Tree Search*. [SMC 2004](https://dblp.uni-trier.de/db/conf/smc/smc2004-2.html), [pdf](https://www.cs.bgu.ac.il/~yanr/Publications/smc04.pdf) [[7]](#cite_note-7)
+* [Yan Radovilsky](Yan_Radovilsky "Yan Radovilsky"), [Solomon Eyal Shimony](Solomon_Eyal_Shimony "Solomon Eyal Shimony") (**2004**). *Generalized Model for Rational Game Tree Search*. [SMC 2004](https://dblp.uni-trier.de/db/conf/smc/smc2004-2.html), [pdf](https://www.cs.bgu.ac.il/~yanr/Publications/smc04.pdf) <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 
 ### 2005 ...
@@ -204,13 +204,13 @@ Conventional [depth-first](Depth-First "Depth-First") [alpha-beta searchers](Alp
 
 * [Arthur Guez](Arthur_Guez "Arthur Guez") (**2015**). *Sample-based Search Methods for Bayes-Adaptive Planning*. Ph.D. Thesis, Gatsby Computational Neuroscience Unit, [University College London](https://en.wikipedia.org/wiki/University_College_London), [pdf](http://www.gatsby.ucl.ac.uk/~aguez/files/guez_phdthesis2015.pdf)
 * [Malik Ghallab](https://scholar.google.com/citations?user=A4v885AAAAAJ&hl=en), [Dana Nau](Dana_S._Nau "Dana S. Nau"), [Paolo Traverso](https://scholar.google.it/citations?user=ho38I-wAAAAJ&hl=en) (**2016**). *[Automated Planning and Acting](https://www.cambridge.org/core/books/automated-planning-and-acting/E6DE5715A2190651352DFB0869916BC3#)*. [Cambridge University Press](https://en.wikipedia.org/wiki/Cambridge_University_Press)
-* [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Simon Schmitt](index.php?title=Simon_Schmitt&action=edit&redlink=1 "Simon Schmitt (page does not exist)"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Edward Lockhart](Edward_Lockhart "Edward Lockhart"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [David Silver](David_Silver "David Silver") (**2019**). *Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model*. [arXiv:1911.08265](https://arxiv.org/abs/1911.08265) [[8]](#cite_note-8)
+* [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Simon Schmitt](index.php?title=Simon_Schmitt&action=edit&redlink=1 "Simon Schmitt (page does not exist)"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Edward Lockhart](Edward_Lockhart "Edward Lockhart"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [David Silver](David_Silver "David Silver") (**2019**). *Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model*. [arXiv:1911.08265](https://arxiv.org/abs/1911.08265) <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 
 ### 2020 ...
 
 
-* [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Simon Schmitt](index.php?title=Simon_Schmitt&action=edit&redlink=1 "Simon Schmitt (page does not exist)"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Edward Lockhart](Edward_Lockhart "Edward Lockhart"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [David Silver](David_Silver "David Silver") (**2020**). *[Mastering Atari, Go, chess and shogi by planning with a learned model](https://www.nature.com/articles/s41586-020-03051-4)*. [Nature](https://en.wikipedia.org/wiki/Nature_%28journal%29), Vol. 588 [[9]](#cite_note-9)
+* [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Thomas Hubert](Thomas_Hubert "Thomas Hubert"), [Karen Simonyan](Karen_Simonyan "Karen Simonyan"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [Simon Schmitt](index.php?title=Simon_Schmitt&action=edit&redlink=1 "Simon Schmitt (page does not exist)"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Edward Lockhart](Edward_Lockhart "Edward Lockhart"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [David Silver](David_Silver "David Silver") (**2020**). *[Mastering Atari, Go, chess and shogi by planning with a learned model](https://www.nature.com/articles/s41586-020-03051-4)*. [Nature](https://en.wikipedia.org/wiki/Nature_%28journal%29), Vol. 588 <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 ## Forum Posts
@@ -243,15 +243,15 @@ Conventional [depth-first](Depth-First "Depth-First") [alpha-beta searchers](Alp
 ## References
 
 
-1. [↑](#cite_ref-1) Лозунг «План — закон, выполнение — долг, перевыполнение — честь!» в здании Ольховско-Батьковского торфяного предприятия в Кубринске, Переславский район - «Plan is law, fulfillment is duty, over-fulfillment is honor!» Building Olkhovskaya Batkovsky - peat enterprise [Kubrinsk](http://www.stad.com/index.php?city_id=540014), [Pereslavskiy district](https://en.wikipedia.org/wiki/Pereslavsky_District), Photo by Н. Частов (N. Part), November 1997, [Five-Year Plans for the National Economy of the Soviet Union - Wikipedia](https://en.wikipedia.org/wiki/Five-Year_Plans_for_the_National_Economy_of_the_Soviet_Union)
-2. [↑](#cite_ref-2) [Jan van Reek](Jan_van_Reek "Jan van Reek") (**1997**). *Strategy in Chess*. Schachfirma Fruth, Unterhaching, ISBN 3-9804896-9-8
-3. [↑](#cite_ref-3) [Jan van Reek](Jan_van_Reek "Jan van Reek"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1998**). *Planning a Strategy in Chess*. [ICCA Journal, Vol. 21, No. 3](ICGA_Journal#21_3 "ICGA Journal")
-4. [↑](#cite_ref-4) [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") (**1946**). *Het denken van den Schaker, een experimenteel-psychologische studie.* Ph.D. thesis, [University of Amsterdam](https://en.wikipedia.org/wiki/University_of_Amsterdam); N.V. Noord-Hollandse Uitgevers Maatschappij, [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam). Translated with the help of [George Baylor](George_Baylor "George Baylor"), with additions, (in **1965**) as *Thought and Choice in Chess*. Mouton Publishers, The Hague. ISBN 90-279-7914-6
-5. [↑](#cite_ref-5) [Chess Quotes - Strategy](http://www.chessquotes.com/topic-strategy)
-6. [↑](#cite_ref-6) [Judgment and Planning in Chess](http://www.chessgames.com/perl/chesscollection?cid=1006215), games from [Dr. Max Euwe's](Max_Euwe "Max Euwe") book *Judgment and Planning in Chess*. [chessgames.com](http://www.chessgames.com/index.html)
-7. [↑](#cite_ref-7) [Re: Interesting ideas](http://www.talkchess.com/forum/viewtopic.php?t=57560&start=14) by [Karlo Bala Jr.](Karlo_Balla "Karlo Balla"), [CCC](CCC "CCC"), September 09, 2015
-8. [↑](#cite_ref-8) [New DeepMind paper](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72381) by GregNeto, [CCC](CCC "CCC"), November 21, 2019
-9. [↑](#cite_ref-9) [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?fbclid=IwAR3mSwrn1YXDKr9uuGm2GlFKh76wBilex7f8QvBiQecwiVmAvD6Bkyjx-rE)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Лозунг «План — закон, выполнение — долг, перевыполнение — честь!» в здании Ольховско-Батьковского торфяного предприятия в Кубринске, Переславский район - «Plan is law, fulfillment is duty, over-fulfillment is honor!» Building Olkhovskaya Batkovsky - peat enterprise [Kubrinsk](http://www.stad.com/index.php?city_id=540014), [Pereslavskiy district](https://en.wikipedia.org/wiki/Pereslavsky_District), Photo by Н. Частов (N. Part), November 1997, [Five-Year Plans for the National Economy of the Soviet Union - Wikipedia](https://en.wikipedia.org/wiki/Five-Year_Plans_for_the_National_Economy_of_the_Soviet_Union)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Jan van Reek](Jan_van_Reek "Jan van Reek") (**1997**). *Strategy in Chess*. Schachfirma Fruth, Unterhaching, ISBN 3-9804896-9-8
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jan van Reek](Jan_van_Reek "Jan van Reek"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**1998**). *Planning a Strategy in Chess*. [ICCA Journal, Vol. 21, No. 3](ICGA_Journal#21_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") (**1946**). *Het denken van den Schaker, een experimenteel-psychologische studie.* Ph.D. thesis, [University of Amsterdam](https://en.wikipedia.org/wiki/University_of_Amsterdam); N.V. Noord-Hollandse Uitgevers Maatschappij, [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam). Translated with the help of [George Baylor](George_Baylor "George Baylor"), with additions, (in **1965**) as *Thought and Choice in Chess*. Mouton Publishers, The Hague. ISBN 90-279-7914-6
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chess Quotes - Strategy](http://www.chessquotes.com/topic-strategy)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Judgment and Planning in Chess](http://www.chessgames.com/perl/chesscollection?cid=1006215), games from [Dr. Max Euwe's](Max_Euwe "Max Euwe") book *Judgment and Planning in Chess*. [chessgames.com](http://www.chessgames.com/index.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Interesting ideas](http://www.talkchess.com/forum/viewtopic.php?t=57560&start=14) by [Karlo Bala Jr.](Karlo_Balla "Karlo Balla"), [CCC](CCC "CCC"), September 09, 2015
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [New DeepMind paper](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72381) by GregNeto, [CCC](CCC "CCC"), November 21, 2019
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?fbclid=IwAR3mSwrn1YXDKr9uuGm2GlFKh76wBilex7f8QvBiQecwiVmAvD6Bkyjx-rE)
 
 **[Up one Level](Knowledge "Knowledge")**
 

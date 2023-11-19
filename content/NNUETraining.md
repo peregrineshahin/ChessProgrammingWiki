@@ -5,11 +5,11 @@ title: NNUETraining
 
 
 
-[ [Toriyama Sekien](Category:Toriyama_Sekien "Category:Toriyama Sekien") - Nue (鵺) [[1]](#cite_note-1) [[2]](#cite_note-2)
+[ [Toriyama Sekien](Category:Toriyama_Sekien "Category:Toriyama Sekien") - Nue (鵺) <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 **NNUE**, (ƎUИИ Efficiently Updatable Neural Networks)  
  
-a Neural Network architecture intended to replace the [evaluation](Evaluation "Evaluation") of [Shogi](Shogi "Shogi"), [chess](Chess "Chess") and other board game playing [alpha-beta](Alpha-Beta "Alpha-Beta") searchers running on a CPU. Inspired by [Kunihito Hoki's](Kunihito_Hoki "Kunihito Hoki") approach of [piece-square tables](Piece-Square_Tables "Piece-Square Tables") indexed by king location, and further two-piece locations and side to move as applied in his Shogi engine [Bonanza](Bonanza "Bonanza") [[3]](#cite_note-3), **NNUE** was introduced in 2018 by [Yu Nasu](Yu_Nasu "Yu Nasu") [[4]](#cite_note-4), and was used in Shogi adaptations of [Stockfish](Stockfish "Stockfish") such as [YaneuraOu](YaneuraOu "YaneuraOu") [[5]](#cite_note-5),
-and [Kristallweizen](Kristallweizen "Kristallweizen") [[6]](#cite_note-6), apparently with [AlphaZero](AlphaZero "AlphaZero") strength [[7]](#cite_note-7). 
+a Neural Network architecture intended to replace the [evaluation](Evaluation "Evaluation") of [Shogi](Shogi "Shogi"), [chess](Chess "Chess") and other board game playing [alpha-beta](Alpha-Beta "Alpha-Beta") searchers running on a CPU. Inspired by [Kunihito Hoki's](Kunihito_Hoki "Kunihito Hoki") approach of [piece-square tables](Piece-Square_Tables "Piece-Square Tables") indexed by king location, and further two-piece locations and side to move as applied in his Shogi engine [Bonanza](Bonanza "Bonanza") <a id="cite-note-3" href="#cite-ref-3">[3]</a>, **NNUE** was introduced in 2018 by [Yu Nasu](Yu_Nasu "Yu Nasu") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, and was used in Shogi adaptations of [Stockfish](Stockfish "Stockfish") such as [YaneuraOu](YaneuraOu "YaneuraOu") <a id="cite-note-5" href="#cite-ref-5">[5]</a>,
+and [Kristallweizen](Kristallweizen "Kristallweizen") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, apparently with [AlphaZero](AlphaZero "AlphaZero") strength <a id="cite-note-7" href="#cite-ref-7">[7]</a>. 
 
 
 
@@ -19,7 +19,7 @@ and [Kristallweizen](Kristallweizen "Kristallweizen") [[6]](#cite_note-6), appar
 *see [Category:NNUE](Category:NNUE "Category:NNUE")*
 
 
-Being tempted by the success of [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE") and attracted by how easy the method and small the code is, many engine developers have started testing and applying NNUE. For quick trials and evaluating before going into serious development, some of them borrowed and/or rewrote NNUE code and use networks from Stockfish NNUE. Most of them reported positive results, such as [David Carteau](index.php?title=David_Carteau&action=edit&redlink=1 "David Carteau (page does not exist)") with [Orion](Orion "Orion") [[10]](#cite_note-10), [Ehsan Rashid](index.php?title=Ehsan_Rashid&action=edit&redlink=1 "Ehsan Rashid (page does not exist)") with [DON](DON "DON") [[11]](#cite_note-11), various [Stockfish derivatives](Stockfish#Derivatives "Stockfish") by [Michael Byrne](Michael_Byrne "Michael Byrne") [[12]](#cite_note-12), and [Volodymyr Shcherbyna](Volodymyr_Shcherbyna "Volodymyr Shcherbyna") with [Igel](Igel "Igel") [[13]](#cite_note-13) using the *Night Nurse* NNUE net by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe") [[14]](#cite_note-14). [Daniel Shawul](Daniel_Shawul "Daniel Shawul") added NNUE support à la [CFish](CFish "CFish") into his [egbbdll](Scorpio#Bitbases "Scorpio") probing library of [Scorpio](Scorpio "Scorpio") [[15]](#cite_note-15) [[16]](#cite_note-16), making it even easier to use NNUE. The promising engines [Halogen](Halogen "Halogen") 7 and 8 by [Kieren Pearson](Kieren_Pearson "Kieren Pearson"), and [Seer](Seer "Seer") by [Connor McMonigle](Connor_McMonigle "Connor McMonigle") came with their own, distinct NNUE implementations, and on November 10, 2020, the commercial [Dragon by Komodo Chess](Dragon_by_Komodo_Chess "Dragon by Komodo Chess") aka [Komodo](Komodo "Komodo") NNUE appeared [[17]](#cite_note-17), trying to close the gap to Stockfish NNUE. The commercial [Fat Fritz 2.0](Fat_Fritz#Fat_Fritz_2 "Fat Fritz"), based on a slightly modified Stockfish 12 using a customized, double sized network, was released by [ChessBase](ChessBase "ChessBase") in February 2021.
+Being tempted by the success of [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE") and attracted by how easy the method and small the code is, many engine developers have started testing and applying NNUE. For quick trials and evaluating before going into serious development, some of them borrowed and/or rewrote NNUE code and use networks from Stockfish NNUE. Most of them reported positive results, such as [David Carteau](index.php?title=David_Carteau&action=edit&redlink=1 "David Carteau (page does not exist)") with [Orion](Orion "Orion") <a id="cite-note-10" href="#cite-ref-10">[10]</a>, [Ehsan Rashid](index.php?title=Ehsan_Rashid&action=edit&redlink=1 "Ehsan Rashid (page does not exist)") with [DON](DON "DON") <a id="cite-note-11" href="#cite-ref-11">[11]</a>, various [Stockfish derivatives](Stockfish#Derivatives "Stockfish") by [Michael Byrne](Michael_Byrne "Michael Byrne") <a id="cite-note-12" href="#cite-ref-12">[12]</a>, and [Volodymyr Shcherbyna](Volodymyr_Shcherbyna "Volodymyr Shcherbyna") with [Igel](Igel "Igel") <a id="cite-note-13" href="#cite-ref-13">[13]</a> using the *Night Nurse* NNUE net by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe") <a id="cite-note-14" href="#cite-ref-14">[14]</a>. [Daniel Shawul](Daniel_Shawul "Daniel Shawul") added NNUE support à la [CFish](CFish "CFish") into his [egbbdll](Scorpio#Bitbases "Scorpio") probing library of [Scorpio](Scorpio "Scorpio") <a id="cite-note-15" href="#cite-ref-15">[15]</a> <a id="cite-note-16" href="#cite-ref-16">[16]</a>, making it even easier to use NNUE. The promising engines [Halogen](Halogen "Halogen") 7 and 8 by [Kieren Pearson](Kieren_Pearson "Kieren Pearson"), and [Seer](Seer "Seer") by [Connor McMonigle](Connor_McMonigle "Connor McMonigle") came with their own, distinct NNUE implementations, and on November 10, 2020, the commercial [Dragon by Komodo Chess](Dragon_by_Komodo_Chess "Dragon by Komodo Chess") aka [Komodo](Komodo "Komodo") NNUE appeared <a id="cite-note-17" href="#cite-ref-17">[17]</a>, trying to close the gap to Stockfish NNUE. The commercial [Fat Fritz 2.0](Fat_Fritz#Fat_Fritz_2 "Fat Fritz"), based on a slightly modified Stockfish 12 using a customized, double sized network, was released by [ChessBase](ChessBase "ChessBase") in February 2021.
 
 
 
@@ -33,7 +33,7 @@ where only a fraction of its neurons need to be recalculated. The remaining thre
 
 
  [](File:NNUE.jpg) 
-NNUE structure with [incremental update](Incremental_Updates "Incremental Updates") [[18]](#cite_note-18)
+NNUE structure with [incremental update](Incremental_Updates "Incremental Updates") <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 
 
@@ -48,8 +48,8 @@ NNUE structure with [incremental update](Incremental_Updates "Incremental Update
 ## Publications
 
 
-* [Yu Nasu](Yu_Nasu "Yu Nasu") (**2018**). *ƎUИИ Efficiently Updatable Neural-Network based Evaluation Functions for Computer Shogi*. Ziosoft Computer Shogi Club, [pdf](https://github.com/ynasu87/nnue/blob/master/docs/nnue.pdf), [pdf](https://www.apply.computer-shogi.org/wcsc28/appeal/the_end_of_genesis_T.N.K.evolution_turbo_type_D/nnue.pdf) (Japanese with English abstract) [GitHub - asdfjkl/nnue translation](https://github.com/asdfjkl/nnue) [[19]](#cite_note-19)
-* [Dominik Klein](Dominik_Klein "Dominik Klein") (**2021**). *[Neural Networks For Chess](https://github.com/asdfjkl/neural_network_chess)*. [Release Version 1.1 · GitHub](https://github.com/asdfjkl/neural_network_chess/releases/tag/v1.1) [[20]](#cite_note-20)
+* [Yu Nasu](Yu_Nasu "Yu Nasu") (**2018**). *ƎUИИ Efficiently Updatable Neural-Network based Evaluation Functions for Computer Shogi*. Ziosoft Computer Shogi Club, [pdf](https://github.com/ynasu87/nnue/blob/master/docs/nnue.pdf), [pdf](https://www.apply.computer-shogi.org/wcsc28/appeal/the_end_of_genesis_T.N.K.evolution_turbo_type_D/nnue.pdf) (Japanese with English abstract) [GitHub - asdfjkl/nnue translation](https://github.com/asdfjkl/nnue) <a id="cite-note-19" href="#cite-ref-19">[19]</a>
+* [Dominik Klein](Dominik_Klein "Dominik Klein") (**2021**). *[Neural Networks For Chess](https://github.com/asdfjkl/neural_network_chess)*. [Release Version 1.1 · GitHub](https://github.com/asdfjkl/neural_network_chess/releases/tag/v1.1) <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 
 
 ## Forum Posts
@@ -146,11 +146,11 @@ NNUE structure with [incremental update](Incremental_Updates "Incremental Update
 
 
 * [Komodo 14.1 Release and Dragon Announcement](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75651) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 02, 2020 » [Komodo](Komodo "Komodo")
-* [NNUE outer product vs tensor product](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75653) by Madeleine Birchfield, [CCC](CCC "CCC"), November 02, 2020 [[21]](#cite_note-21) [[22]](#cite_note-22)
-* [Pytorch NNUE training](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75724) by [Gary Linscott](Gary_Linscott "Gary Linscott"), [CCC](CCC "CCC"), November 08, 2020 [[23]](#cite_note-23)
+* [NNUE outer product vs tensor product](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75653) by Madeleine Birchfield, [CCC](CCC "CCC"), November 02, 2020 <a id="cite-note-21" href="#cite-ref-21">[21]</a> <a id="cite-note-22" href="#cite-ref-22">[22]</a>
+* [Pytorch NNUE training](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75724) by [Gary Linscott](Gary_Linscott "Gary Linscott"), [CCC](CCC "CCC"), November 08, 2020 <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 * [TucaNNo: neural network research](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75725) by [Alcides Schulz](Alcides_Schulz "Alcides Schulz"), [CCC](CCC "CCC"), November 08, 2020
 * [Dragon by Komodo Chess](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75748) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 10, 2020 » [Dragon by Komodo Chess](Dragon_by_Komodo_Chess "Dragon by Komodo Chess")
-* [Tensorflow NNUE training](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75751) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), November 10, 2020 [[24]](#cite_note-24)
+* [Tensorflow NNUE training](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75751) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), November 10, 2020 <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 * [Speculations about NNUE development (was New engine releases 2020)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75890) by Madeleine Birchfield, [CCC](CCC "CCC"), November 11, 2020
 
 
@@ -224,14 +224,14 @@ NNUE structure with [incremental update](Incremental_Updates "Incremental Update
 
 
 * [Rubichess NN questions](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77157) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), April 23, 2021 » [RubiChess](RubiChess "RubiChess")
-* [Crafty NNUE Chess Engine?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77200) by supersharp77, [CCC](CCC "CCC"), April 29, 2021 » [Crafty](Crafty "Crafty"), [Vafra](index.php?title=Vafra&action=edit&redlink=1 "Vafra (page does not exist)") [[25]](#cite_note-25)
+* [Crafty NNUE Chess Engine?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77200) by supersharp77, [CCC](CCC "CCC"), April 29, 2021 » [Crafty](Crafty "Crafty"), [Vafra](index.php?title=Vafra&action=edit&redlink=1 "Vafra (page does not exist)") <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 
 
 ### May
 
 
 * [Komodo Dragon 2 released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77244) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), May 04, 2021 » [Komodo Dragon](Dragon_by_Komodo_Chess "Dragon by Komodo Chess")
-* [Stockfish with new NNUE architecture and bigger net released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77344) by [Stefan Pohl](index.php?title=Stefan_Pohl&action=edit&redlink=1 "Stefan Pohl (page does not exist)"), [CCC](CCC "CCC"), May 19, 2021 » [Stockfish](Stockfish "Stockfish"), [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE") [[26]](#cite_note-26)
+* [Stockfish with new NNUE architecture and bigger net released](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77344) by [Stefan Pohl](index.php?title=Stefan_Pohl&action=edit&redlink=1 "Stefan Pohl (page does not exist)"), [CCC](CCC "CCC"), May 19, 2021 » [Stockfish](Stockfish "Stockfish"), [Stockfish NNUE](Stockfish_NNUE "Stockfish NNUE") <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 * [NNUE scoring (egbb lib)](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77348) by [Desperado](Michael_Hoffmann "Michael Hoffmann"), [CCC](CCC "CCC"), May 19, 2021 » [Scorpio NNUE](Scorpio#ScorpioNNUE "Scorpio")
 
 
@@ -333,7 +333,7 @@ Some developers disintegrate and rewrite the Stockfish NNUE code into independen
 * [GitHub - DanielUranga/TensorFlowNNUE](https://github.com/DanielUranga/TensorFlowNNUE) by [Daniel Uranga](Daniel_Uranga "Daniel Uranga")
 * [GitHub - glinscott/nnue-pytorch: NNUE (Chess evaluation) trainer in Pytorch](https://github.com/glinscott/nnue-pytorch) by [Gary Linscott](Gary_Linscott "Gary Linscott")
 * [GitHub - connormcmonigle/seer-nnue: UCI chess engine using neural networks for position evaluation](https://github.com/connormcmonigle/seer-nnue) by [Connor McMonigle](Connor_McMonigle "Connor McMonigle") » [Seer](Seer "Seer")
-* [GitHub - bmdanielsson/nnue-trainer: PyTorch trainer for NNUE style neural networks](https://github.com/bmdanielsson/nnue-trainer) by [Martin Danielsson](Martin_Danielsson "Martin Danielsson") » [Marvin](Marvin "Marvin") [[27]](#cite_note-27)
+* [GitHub - bmdanielsson/nnue-trainer: PyTorch trainer for NNUE style neural networks](https://github.com/bmdanielsson/nnue-trainer) by [Martin Danielsson](Martin_Danielsson "Martin Danielsson") » [Marvin](Marvin "Marvin") <a id="cite-note-27" href="#cite-ref-27">[27]</a>
 * [GitHub - fsmosca/Mabigat: NNUE parameter optimizer](https://github.com/fsmosca/Mabigat) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca") » [Automated Tuning](Automated_Tuning "Automated Tuning")
 
 
@@ -349,33 +349,33 @@ Some developers disintegrate and rewrite the Stockfish NNUE code into independen
 ## References
 
 
-1. [↑](#cite_ref-1) [Nue](https://en.wikipedia.org/wiki/Nue) (鵺) from the [Konjaku Gazu Zoku Hyakki](https://en.wikipedia.org/wiki/Konjaku_Gazu_Zoku_Hyakki) (今昔画図続百鬼) by [Toriyama Sekien](Category:Toriyama_Sekien "Category:Toriyama Sekien"), circa 1779, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-2. [↑](#cite_ref-2) [Re: What does NNUE actually mean](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74611&start=2) by [Henk Drost](index.php?title=Henk_Drost&action=edit&redlink=1 "Henk Drost (page does not exist)"), [CCC](CCC "CCC"), July 29, 2020
-3. [↑](#cite_ref-3) [機械学習エンジニアのための将棋AI開発入門その1 Introduction to Shogi AI development for machine learning engineers Part 1](http://yaneuraou.yaneu.com/2020/05/03/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%B0%86%E6%A3%8Bai%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80%E3%81%9D%E3%81%AE1/), May 03, 2020 (Japanese)
-4. [↑](#cite_ref-4) [Yu Nasu](Yu_Nasu "Yu Nasu") (**2018**). *ƎUИИ Efficiently Updatable Neural-Network based Evaluation Functions for Computer Shogi*. Ziosoft Computer Shogi Club, [pdf](https://github.com/ynasu87/nnue/blob/master/docs/nnue.pdf) (Japanese with English abstract)
-5. [↑](#cite_ref-5) [GitHub - yaneurao/YaneuraOu: YaneuraOu is the World's Strongest Shogi engine(AI player), WCSC29 1st winner, educational and USI compliant engine](https://github.com/yaneurao/YaneuraOu)
-6. [↑](#cite_ref-6) [GitHub - Tama4649/Kristallweizen: 第29回世界コンピュータ将棋選手権 準優勝のKristallweizenです。](https://github.com/Tama4649/Kristallweizen/)
-7. [↑](#cite_ref-7) [The Stockfish of shogi](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72754) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), January 07, 2020
-8. [↑](#cite_ref-8) [Stockfish NN release (NNUE)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74059) by [Henk Drost](index.php?title=Henk_Drost&action=edit&redlink=1 "Henk Drost (page does not exist)"), [CCC](CCC "CCC"), May 31, 2020
-9. [↑](#cite_ref-9) [Can the sardine! NNUE clobbers SF](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74484) by [Henk Drost](index.php?title=Henk_Drost&action=edit&redlink=1 "Henk Drost (page does not exist)"), [CCC](CCC "CCC"), July 16, 2020
-10. [↑](#cite_ref-10) [Orion 0.7 : NNUE experiment](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74828) by [David Carteau](index.php?title=David_Carteau&action=edit&redlink=1 "David Carteau (page does not exist)"), [CCC](CCC "CCC"), August 19, 2020
-11. [↑](#cite_ref-11) [Re: New engine releases 2020...Don NNUE 2020?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=320#p856640) by supersharp77, [CCC](CCC "CCC"), August 19, 2020
-12. [↑](#cite_ref-12) [... the last shall be first ...](http://talkchess.com/forum3/viewtopic.php?f=2&t=74825) by [MikeB](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), 19 Aug 2020
-13. [↑](#cite_ref-13) [Introducing Igel chess engine](http://talkchess.com/forum3/viewtopic.php?f=2&t=67890&start=10#p856742) by [Volodymyr Shcherbyna](Volodymyr_Shcherbyna "Volodymyr Shcherbyna"), [CCC](CCC "CCC"), 20 Aug 2020
-14. [↑](#cite_ref-14) [Night Nurse 0.2](http://talkchess.com/forum3/viewtopic.php?f=2&t=74837) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), August 19, 2020
-15. [↑](#cite_ref-15) [Re: Hacking around CFish NNUE](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75400&start=22) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), October 15, 2020
-16. [↑](#cite_ref-16) [Re: How to scale stockfish NNUE score?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75415&start=3) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), October 17, 2020
-17. [↑](#cite_ref-17) [Dragon by Komodo Chess](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75748) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 10, 2020
-18. [↑](#cite_ref-18) Image from [Yu Nasu](Yu_Nasu "Yu Nasu") (**2018**). *ƎUИИ Efficiently Updatable Neural-Network based Evaluation Functions for Computer Shogi*. Ziosoft Computer Shogi Club, [pdf](https://github.com/ynasu87/nnue/blob/master/docs/nnue.pdf) (Japanese with English abstract)
-19. [↑](#cite_ref-19) [Translation of Yu Nasu's NNUE paper](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76250) by [Dominik Klein](Dominik_Klein "Dominik Klein"), [CCC](CCC "CCC"), January 07, 2021
-20. [↑](#cite_ref-20) [Book about Neural Networks for Chess](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78283) by dkl, [CCC](CCC "CCC"), September 29, 2021
-21. [↑](#cite_ref-21) [Outer product from Wikipedia](https://en.wikipedia.org/wiki/Outer_product)
-22. [↑](#cite_ref-22) [Tensor product from Wikipedia](https://en.wikipedia.org/wiki/Tensor_product)
-23. [↑](#cite_ref-23) [PyTorch from Wikipedia](https://en.wikipedia.org/wiki/PyTorch)
-24. [↑](#cite_ref-24) [TensorFlow from Wikipedia](https://en.wikipedia.org/wiki/TensorFlow)
-25. [↑](#cite_ref-25) [Vafra](http://www.jurjevic.org.uk/chess/vafra/index.html) by [Robert Jurjević](index.php?title=Robert_Jurjevi%C4%87&action=edit&redlink=1 "Robert Jurjević (page does not exist)")
-26. [↑](#cite_ref-26) [Update default net to nn-8a08400ed089.nnue by Sopel97 · Pull Request #3474 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3474) by [Tomasz Sobczyk](Tomasz_Sobczyk "Tomasz Sobczyk")
-27. [↑](#cite_ref-27) [nnue-trainer](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76964) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), March 27, 2021
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Nue](https://en.wikipedia.org/wiki/Nue) (鵺) from the [Konjaku Gazu Zoku Hyakki](https://en.wikipedia.org/wiki/Konjaku_Gazu_Zoku_Hyakki) (今昔画図続百鬼) by [Toriyama Sekien](Category:Toriyama_Sekien "Category:Toriyama Sekien"), circa 1779, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: What does NNUE actually mean](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74611&start=2) by [Henk Drost](index.php?title=Henk_Drost&action=edit&redlink=1 "Henk Drost (page does not exist)"), [CCC](CCC "CCC"), July 29, 2020
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [機械学習エンジニアのための将棋AI開発入門その1 Introduction to Shogi AI development for machine learning engineers Part 1](http://yaneuraou.yaneu.com/2020/05/03/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%B0%86%E6%A3%8Bai%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80%E3%81%9D%E3%81%AE1/), May 03, 2020 (Japanese)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Yu Nasu](Yu_Nasu "Yu Nasu") (**2018**). *ƎUИИ Efficiently Updatable Neural-Network based Evaluation Functions for Computer Shogi*. Ziosoft Computer Shogi Club, [pdf](https://github.com/ynasu87/nnue/blob/master/docs/nnue.pdf) (Japanese with English abstract)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [GitHub - yaneurao/YaneuraOu: YaneuraOu is the World's Strongest Shogi engine(AI player), WCSC29 1st winner, educational and USI compliant engine](https://github.com/yaneurao/YaneuraOu)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [GitHub - Tama4649/Kristallweizen: 第29回世界コンピュータ将棋選手権 準優勝のKristallweizenです。](https://github.com/Tama4649/Kristallweizen/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [The Stockfish of shogi](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72754) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), January 07, 2020
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Stockfish NN release (NNUE)](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74059) by [Henk Drost](index.php?title=Henk_Drost&action=edit&redlink=1 "Henk Drost (page does not exist)"), [CCC](CCC "CCC"), May 31, 2020
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Can the sardine! NNUE clobbers SF](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74484) by [Henk Drost](index.php?title=Henk_Drost&action=edit&redlink=1 "Henk Drost (page does not exist)"), [CCC](CCC "CCC"), July 16, 2020
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Orion 0.7 : NNUE experiment](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74828) by [David Carteau](index.php?title=David_Carteau&action=edit&redlink=1 "David Carteau (page does not exist)"), [CCC](CCC "CCC"), August 19, 2020
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: New engine releases 2020...Don NNUE 2020?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=72613&start=320#p856640) by supersharp77, [CCC](CCC "CCC"), August 19, 2020
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [... the last shall be first ...](http://talkchess.com/forum3/viewtopic.php?f=2&t=74825) by [MikeB](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), 19 Aug 2020
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Introducing Igel chess engine](http://talkchess.com/forum3/viewtopic.php?f=2&t=67890&start=10#p856742) by [Volodymyr Shcherbyna](Volodymyr_Shcherbyna "Volodymyr Shcherbyna"), [CCC](CCC "CCC"), 20 Aug 2020
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Night Nurse 0.2](http://talkchess.com/forum3/viewtopic.php?f=2&t=74837) by [Dietrich Kappe](Dietrich_Kappe "Dietrich Kappe"), [CCC](CCC "CCC"), August 19, 2020
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Re: Hacking around CFish NNUE](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75400&start=22) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), October 15, 2020
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Re: How to scale stockfish NNUE score?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=75415&start=3) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), October 17, 2020
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Dragon by Komodo Chess](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75748) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), November 10, 2020
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> Image from [Yu Nasu](Yu_Nasu "Yu Nasu") (**2018**). *ƎUИИ Efficiently Updatable Neural-Network based Evaluation Functions for Computer Shogi*. Ziosoft Computer Shogi Club, [pdf](https://github.com/ynasu87/nnue/blob/master/docs/nnue.pdf) (Japanese with English abstract)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Translation of Yu Nasu's NNUE paper](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=76250) by [Dominik Klein](Dominik_Klein "Dominik Klein"), [CCC](CCC "CCC"), January 07, 2021
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Book about Neural Networks for Chess](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=78283) by dkl, [CCC](CCC "CCC"), September 29, 2021
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Outer product from Wikipedia](https://en.wikipedia.org/wiki/Outer_product)
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Tensor product from Wikipedia](https://en.wikipedia.org/wiki/Tensor_product)
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [PyTorch from Wikipedia](https://en.wikipedia.org/wiki/PyTorch)
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [TensorFlow from Wikipedia](https://en.wikipedia.org/wiki/TensorFlow)
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Vafra](http://www.jurjevic.org.uk/chess/vafra/index.html) by [Robert Jurjević](index.php?title=Robert_Jurjevi%C4%87&action=edit&redlink=1 "Robert Jurjević (page does not exist)")
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Update default net to nn-8a08400ed089.nnue by Sopel97 · Pull Request #3474 · official-stockfish/Stockfish · GitHub](https://github.com/official-stockfish/Stockfish/pull/3474) by [Tomasz Sobczyk](Tomasz_Sobczyk "Tomasz Sobczyk")
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [nnue-trainer](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76964) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), March 27, 2021
 
 **[Up one Level](Neural_Networks "Neural Networks")**
 

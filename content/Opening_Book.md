@@ -5,7 +5,7 @@ title: Opening Book
 
 
 
- [](https://en.wikipedia.org/wiki/File:Modern_Chess_Openings_Second_Edition.jpg) [Modern Chess Openings](https://en.wikipedia.org/wiki/Modern_Chess_Openings) [[1]](#cite_note-1) 
+ [](https://en.wikipedia.org/wiki/File:Modern_Chess_Openings_Second_Edition.jpg) [Modern Chess Openings](https://en.wikipedia.org/wiki/Modern_Chess_Openings) <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 Chess programs often look up the positions at the [beginning of the game](Opening "Opening") in an **Opening Book**. The opening database can then be used as long as the opponent plays a new move from the database, so usually more common opening lines will be stored to a much higher depth than the uncommon ones. As soon as the program is "out of book" it has to continue using the normal search routines. 
 
 
@@ -35,7 +35,7 @@ They are stored in typical ways for games and positions:
 
 
 
-* Special text formats: In 1999, [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget") published a **Book Builder** [[2]](#cite_note-2) in conjunction with his engine [La Dame Blanche](La_Dame_Blanche "La Dame Blanche"), a standalone open source program [[3]](#cite_note-3) to convert a [PGN file](Portable_Game_Notation "Portable Game Notation") into an opening book of the format proposed by [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") [[4]](#cite_note-4):
+* Special text formats: In 1999, [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget") published a **Book Builder** <a id="cite-note-2" href="#cite-ref-2">[2]</a> in conjunction with his engine [La Dame Blanche](La_Dame_Blanche "La Dame Blanche"), a standalone open source program <a id="cite-note-3" href="#cite-ref-3">[3]</a> to convert a [PGN file](Portable_Game_Notation "Portable Game Notation") into an opening book of the format proposed by [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
 
 
@@ -105,13 +105,13 @@ Chess [engines](Engines "Engines") can be used to evaluate positions in a book o
 ## Quotes
 
 
-[Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") in *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)* [[5]](#cite_note-5) :
+[Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") in *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)* <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
 
 
 
 ```C++
-To solve the opening problems of his chess machine, [Belle](Belle "Belle"), [Ken Thompson](Ken_Thompson "Ken Thompson") typed in opening lines from the *[Encyclopedia of Chess Openings](https://en.wikipedia.org/wiki/Encyclopaedia_of_Chess_Openings)* (in five thick volumes). Religiously, he dedicated one hour a day for almost three years (!) to the tedious pursuit of entering lines of play from the books and having his Belle computer verify them. The result was an opening library of roughly three-hundred thousand moves. The results were immediate and obvious: Belle became a much stronger chess program, and Ken probably aged prematurely. Later Ken developed a program to automatically read the *Encyclopedia*, allowing him to do in a few days what had taken him three years to do manually. [[6]](#cite_note-6) 
+To solve the opening problems of his chess machine, [Belle](Belle "Belle"), [Ken Thompson](Ken_Thompson "Ken Thompson") typed in opening lines from the *[Encyclopedia of Chess Openings](https://en.wikipedia.org/wiki/Encyclopaedia_of_Chess_Openings)* (in five thick volumes). Religiously, he dedicated one hour a day for almost three years (!) to the tedious pursuit of entering lines of play from the books and having his Belle computer verify them. The result was an opening library of roughly three-hundred thousand moves. The results were immediate and obvious: Belle became a much stronger chess program, and Ken probably aged prematurely. Later Ken developed a program to automatically read the *Encyclopedia*, allowing him to do in a few days what had taken him three years to do manually. <a id="cite-note-6" href="#cite-ref-6">[6]</a> 
 
 ```
 
@@ -209,7 +209,7 @@ To solve the opening problems of his chess machine, [Belle](Belle "Belle"), [Ken
 * [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2007**). *[Creating Book Knowledge](http://www.aifactory.co.uk/newsletter/2007_03_creating_book.htm)*. [AI Factory](AI_Factory "AI Factory"), Autumn 2007
 * [Pierre Audouard](http://gobase.org/information/players/?pp=Pierre%20Audouard), [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Jean-Baptiste Hoock](Jean-Baptiste_Hoock "Jean-Baptiste Hoock"), [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), [Julien Pérez](index.php?title=Julien_P%C3%A9rez&action=edit&redlink=1 "Julien Pérez (page does not exist)"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2009**). *Grid co-evolution for adaptive simulations; application to the building of opening books in the game of Go*. [pdf](http://www.lri.fr/~rimmel/publi/ouvertures.pdf)
 * [Guillaume Chaslot](Guillaume_Chaslot "Guillaume Chaslot"), [Jean-Baptiste Hoock](Jean-Baptiste_Hoock "Jean-Baptiste Hoock"), [Julien Pérez](index.php?title=Julien_P%C3%A9rez&action=edit&redlink=1 "Julien Pérez (page does not exist)"), [Arpad Rimmel](index.php?title=Arpad_Rimmel&action=edit&redlink=1 "Arpad Rimmel (page does not exist)"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), [Mark Winands](Mark_Winands "Mark Winands") (**2009**). *Meta Monte-Carlo Tree Search for Automatic Opening Book Generation*. [pdf](http://www.personeel.unimaas.nl/m-winands/documents/ouvertures9x9.pdf)
-* [Bernd Blasius](index.php?title=Bernd_Blasius&action=edit&redlink=1 "Bernd Blasius (page does not exist)"), [Ralf Tönjes](index.php?title=Ralf_T%C3%B6njes&action=edit&redlink=1 "Ralf Tönjes (page does not exist)") (**2009**). *[Zipf's Law in the Popularity Distribution of Chess Openings](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.103.218701)*. [Physical Review Letters](https://en.wikipedia.org/wiki/Physical_Review_Letters), 103, 218701, [pdf](http://www.icbm.de/fileadmin/user_upload/icbm/ag/mathmod/download/BlasiusToenjes2009.pdf) [[7]](#cite_note-7)
+* [Bernd Blasius](index.php?title=Bernd_Blasius&action=edit&redlink=1 "Bernd Blasius (page does not exist)"), [Ralf Tönjes](index.php?title=Ralf_T%C3%B6njes&action=edit&redlink=1 "Ralf Tönjes (page does not exist)") (**2009**). *[Zipf's Law in the Popularity Distribution of Chess Openings](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.103.218701)*. [Physical Review Letters](https://en.wikipedia.org/wiki/Physical_Review_Letters), 103, 218701, [pdf](http://www.icbm.de/fileadmin/user_upload/icbm/ag/mathmod/download/BlasiusToenjes2009.pdf) <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 
 ### 2010 ...
@@ -224,7 +224,7 @@ To solve the opening problems of his chess machine, [Belle](Belle "Belle"), [Ken
 
 
 * [Ting-Han Wei](Ting-Han_Wei "Ting-Han Wei"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Chao-Chin Liang](Chao-Chin_Liang "Chao-Chin Liang"), [Bing-Tsung Chiang](Bing-Tsung_Chiang "Bing-Tsung Chiang"), [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [Shi-Jim Yen](Shi-Jim_Yen "Shi-Jim Yen"), [Chang-Shing Lee](Chang-Shing_Lee "Chang-Shing Lee") (**2015**). *Job-Level Algorithms for Connect6 Opening Book Construction*. [ICGA Journal, Vol. 38, No. 3](ICGA_Journal#38_3 "ICGA Journal")
-* [John P. Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**2016**). *Search-Based Opening Book Construction*. [pdf](https://drive.google.com/file/d/0B2pvWWlf39g-NWN0OUpkRE0tem8/view) [[8]](#cite_note-8), [2017 edition](https://drive.google.com/file/d/0B2pvWWlf39g-Z2ZmbHhtWTUwZFE/view) [[9]](#cite_note-9)
+* [John P. Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**2016**). *Search-Based Opening Book Construction*. [pdf](https://drive.google.com/file/d/0B2pvWWlf39g-NWN0OUpkRE0tem8/view) <a id="cite-note-8" href="#cite-ref-8">[8]</a>, [2017 edition](https://drive.google.com/file/d/0B2pvWWlf39g-Z2ZmbHhtWTUwZFE/view) <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 * [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**2018**). *Search-based opening book construction*. [ICGA Journal, Vol. 40, No. 1](ICGA_Journal#40_1 "ICGA Journal")
 
 
@@ -338,7 +338,7 @@ To solve the opening problems of his chess machine, [Belle](Belle "Belle"), [Ken
 * [REBEL | ProDeo book available in Polyglot format](http://www.talkchess.com/forum/viewtopic.php?t=59435) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), March 05, 2016 » [Rebel](Rebel "Rebel"), [ProDeo](ProDeo "ProDeo"), [PolyGlot](PolyGlot "PolyGlot")
 * [How much benefit from opening book?](http://www.talkchess.com/forum/viewtopic.php?p=662580) by [John Fishburn](John_Philip_Fishburn "John Philip Fishburn"), [CCC](CCC "CCC"), March 06, 2016 » [Playing Strength](Playing_Strength "Playing Strength")
 * [reversed-color transpositions](http://www.talkchess.com/forum/viewtopic.php?p=663148) by [John Fishburn](John_Philip_Fishburn "John Philip Fishburn"), [CCC](CCC "CCC"), March 11, 2016 » [Color Flipping](Color_Flipping "Color Flipping")
-* [My new book is out: Noomen.ctg](http://www.talkchess.com/forum/viewtopic.php?t=60237) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), May 22, 2016 [[10]](#cite_note-10)
+* [My new book is out: Noomen.ctg](http://www.talkchess.com/forum/viewtopic.php?t=60237) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), May 22, 2016 <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 * [How to use openings books?](http://www.talkchess.com/forum/viewtopic.php?t=60939) by [Luis Babboni](index.php?title=Luis_Babboni&action=edit&redlink=1 "Luis Babboni (page does not exist)"), [CCC](CCC "CCC"), July 25, 2016
 * [CCRL - CEGT matches](http://www.talkchess.com/forum/viewtopic.php?t=60961) by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), [CCC](CCC "CCC"), July 28, 2016 » [CCRL](CCRL "CCRL"), [CEGT](CEGT "CEGT")
 * [Opening book from a statistical point of view](http://www.talkchess.com/forum/viewtopic.php?t=60980) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), July 29, 2016
@@ -416,18 +416,18 @@ To solve the opening problems of his chess machine, [Belle](Belle "Belle"), [Ken
 ### Engine Books
 
 
-* [HIARCS 13 – the Professional Openings Book](http://chessbase.com/newsdetail.asp?newsid=7069) by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), [ChessBase News](ChessBase "ChessBase"), March 10, 2011 » [HIARCS](HIARCS "HIARCS") [[11]](#cite_note-11)
+* [HIARCS 13 – the Professional Openings Book](http://chessbase.com/newsdetail.asp?newsid=7069) by [Mark Uniacke](Mark_Uniacke "Mark Uniacke"), [ChessBase News](ChessBase "ChessBase"), March 10, 2011 » [HIARCS](HIARCS "HIARCS") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 * [Polyglot book format](http://hardy.uhasselt.be/Toga/book_format.html)
 * [Arena Chess GUI - Opening Books](http://www.playwitharena.com/?User_Files%2C_Engines:Opening_Books_%2821%29%26nbsp%3B) » [Arena](Arena "Arena")
 * [Book Bilder of La Dame Blanche](http://www.quarkchess.de/ladameblanche/) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), hosted by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-* [Perfect 2014 book](http://www.sedatcanbaz.com/chess/?page_id=127) by [Sedat Canbaz](index.php?title=Sedat_Canbaz&action=edit&redlink=1 "Sedat Canbaz (page does not exist)") [[12]](#cite_note-12)
+* [Perfect 2014 book](http://www.sedatcanbaz.com/chess/?page_id=127) by [Sedat Canbaz](index.php?title=Sedat_Canbaz&action=edit&redlink=1 "Sedat Canbaz (page does not exist)") <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 * [Fauzi's Opening Books](http://www.g-sei.org/wp-content/Users/Fauzi/fauzi.html) by [Fauzi Akram Dabat](Fauzi_Akram_Dabat "Fauzi Akram Dabat"), [G 6](G_6 "G 6") site
 
 
 ### Online Opening Tree
 
 
-* [Chess Cloud Database Query Interface](https://www.chessdb.cn/queryc_en/) by [noobpwnftw](Bojun_Guo "Bojun Guo") [[13]](#cite_note-13)
+* [Chess Cloud Database Query Interface](https://www.chessdb.cn/queryc_en/) by [noobpwnftw](Bojun_Guo "Bojun Guo") <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 * [ChessDB Online Opening Book](https://fsmosca.github.io/ChessDB-Online-Book/) by [Ferdinand Mosca](Ferdinand_Mosca "Ferdinand Mosca")
 * [Chess database with eight million games. Openings, players, tournaments - Online](https://database.chessbase.com/?lang=en/) - [ChessBase](ChessBase_(Database) "ChessBase (Database)")
 * [Chess Opening Explorer](http://www.chessgames.com/perl/explorer) from [chessgames.com](http://www.chessgames.com/index.html)
@@ -447,19 +447,19 @@ To solve the opening problems of his chess machine, [Belle](Belle "Belle"), [Ken
 ## References
 
 
-1. [↑](#cite_ref-1) Worn copy of second edition of Modern Chess Openings (1913) by [Richard Clewin Griffith](https://en.wikipedia.org/wiki/Richard_Griffith_%28chess_player%29) (1872–1955) and [John Herbert White](https://en.wikipedia.org/wiki/John_Herbert_White) (1880–1920), with an introduction by [Henry Ernest Atkins](https://en.wikipedia.org/wiki/Henry_Ernest_Atkins) (1872–1955), [Modern Chess Openings from Wikipedia](https://en.wikipedia.org/wiki/Modern_Chess_Openings)
-2. [↑](#cite_ref-2) [Web site updated and new program Book Builder](https://www.stmintz.com/ccc/index.php?id=44407) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), [CCC](CCC "CCC"), February 24, 1999
-3. [↑](#cite_ref-3) [Book Bilder of La Dame Blanche](http://www.quarkchess.de/ladameblanche/) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), hosted by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
-4. [↑](#cite_ref-4) [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1983**). *Tutorial: Representation of an Opening Tree*. [ICCA Newsletter, Vol. 6, No. 1](ICGA_Journal#6_1 "ICGA Journal")
-5. [↑](#cite_ref-5) [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 11. I Feel Like a Teenager Again, pp. 184
-6. [↑](#cite_ref-6) [Henry S. Baird](Mathematician#HSBaird "Mathematician"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1990**). *[Reading Chess](http://doc.cat-v.org/bell_labs/reading_chess/)*. [IEEE Transactions on Pattern Analysis and Machine Intelligence](IEEE#TPAMI "IEEE"), Vol. 12, No. 6, [pdf](http://doc.cat-v.org/bell_labs/reading_chess/reading_chess.pdf)
-7. [↑](#cite_ref-7) [Zipf's law from WIkipedia](https://en.wikipedia.org/wiki/Zipf%27s_law)
-8. [↑](#cite_ref-8) [Search-Based Opening Book Construction](http://www.talkchess.com/forum/viewtopic.php?p=698871) by [John Fishburn](John_Philip_Fishburn "John Philip Fishburn"), [CCC](CCC "CCC"), December 14, 2016
-9. [↑](#cite_ref-9) [Search-Based Opening Book Construction](http://www.talkchess.com/forum/viewtopic.php?t=63862) by [John Fishburn](John_Philip_Fishburn "John Philip Fishburn"), [CCC](CCC "CCC"), April 29, 2017
-10. [↑](#cite_ref-10) [Books](http://rebel13.nl/download/books/) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
-11. [↑](#cite_ref-11) [Re: Opening Books Battle..](http://www.open-chess.org/viewtopic.php?f=3&t=1073#p11368) by BB+ ([Mark Watkins](Mark_Watkins "Mark Watkins")), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), March 12, 2011
-12. [↑](#cite_ref-12) [Perfect 2014 Final (Full Package)](http://www.talkchess.com/forum/viewtopic.php?t=53126) by [Sedat Canbaz](index.php?title=Sedat_Canbaz&action=edit&redlink=1 "Sedat Canbaz (page does not exist)"), [CCC](CCC "CCC"), July 30, 2014
-13. [↑](#cite_ref-13) [GitHub - noobpwnftw/chessdb: ChessDB](https://github.com/noobpwnftw/chessdb)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Worn copy of second edition of Modern Chess Openings (1913) by [Richard Clewin Griffith](https://en.wikipedia.org/wiki/Richard_Griffith_%28chess_player%29) (1872–1955) and [John Herbert White](https://en.wikipedia.org/wiki/John_Herbert_White) (1880–1920), with an introduction by [Henry Ernest Atkins](https://en.wikipedia.org/wiki/Henry_Ernest_Atkins) (1872–1955), [Modern Chess Openings from Wikipedia](https://en.wikipedia.org/wiki/Modern_Chess_Openings)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Web site updated and new program Book Builder](https://www.stmintz.com/ccc/index.php?id=44407) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), [CCC](CCC "CCC"), February 24, 1999
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Book Bilder of La Dame Blanche](http://www.quarkchess.de/ladameblanche/) by [Marc-Philippe Huget](Marc-Philippe_Huget "Marc-Philippe Huget"), hosted by [Thomas Mayer](Thomas_Mayer "Thomas Mayer")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") (**1983**). *Tutorial: Representation of an Opening Tree*. [ICCA Newsletter, Vol. 6, No. 1](ICGA_Journal#6_1 "ICGA Journal")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997**). *[One Jump Ahead](http://www.springer.com/computer/ai/book/978-0-387-76575-4)*. 11. I Feel Like a Teenager Again, pp. 184
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Henry S. Baird](Mathematician#HSBaird "Mathematician"), [Ken Thompson](Ken_Thompson "Ken Thompson") (**1990**). *[Reading Chess](http://doc.cat-v.org/bell_labs/reading_chess/)*. [IEEE Transactions on Pattern Analysis and Machine Intelligence](IEEE#TPAMI "IEEE"), Vol. 12, No. 6, [pdf](http://doc.cat-v.org/bell_labs/reading_chess/reading_chess.pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Zipf's law from WIkipedia](https://en.wikipedia.org/wiki/Zipf%27s_law)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Search-Based Opening Book Construction](http://www.talkchess.com/forum/viewtopic.php?p=698871) by [John Fishburn](John_Philip_Fishburn "John Philip Fishburn"), [CCC](CCC "CCC"), December 14, 2016
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Search-Based Opening Book Construction](http://www.talkchess.com/forum/viewtopic.php?t=63862) by [John Fishburn](John_Philip_Fishburn "John Philip Fishburn"), [CCC](CCC "CCC"), April 29, 2017
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Books](http://rebel13.nl/download/books/) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: Opening Books Battle..](http://www.open-chess.org/viewtopic.php?f=3&t=1073#p11368) by BB+ ([Mark Watkins](Mark_Watkins "Mark Watkins")), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), March 12, 2011
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Perfect 2014 Final (Full Package)](http://www.talkchess.com/forum/viewtopic.php?t=53126) by [Sedat Canbaz](index.php?title=Sedat_Canbaz&action=edit&redlink=1 "Sedat Canbaz (page does not exist)"), [CCC](CCC "CCC"), July 30, 2014
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [GitHub - noobpwnftw/chessdb: ChessDB](https://github.com/noobpwnftw/chessdb)
 
 **[Up one level](Knowledge "Knowledge")**
 

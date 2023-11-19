@@ -1450,7 +1450,7 @@ title: Engines
 - [Index of /chess/engines/Jim Ablett](http://kirr.homeunix.org/chess/engines/Jim%20Ablett/) compiled by [Jim Ablett](Jim_Ablett "Jim Ablett"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
 - [Norbert's collection](http://kirr.homeunix.org/chess/engines/Norbert%27s%20collection/) of old engines, compiled by [Norbert Raimund Leisner](Norbert_Raimund_Leisner "Norbert Raimund Leisner"), hosted by [Kirill Kryukov](Kirill_Kryukov "Kirill Kryukov")
 - [Downloads](http://www.sdchess.ru/download_engines.htm) from [sdchess.ru](http://www.sdchess.ru/sdchess.ru)
-- [Download Engines](http://rebel13.nl/download/download-engines.html) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder") [[2]](#cite_note-2)
+- [Download Engines](http://rebel13.nl/download/download-engines.html) hosted by [Ed Schröder](Ed_Schroder "Ed Schroder") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 - [Mac Chess Engines Repository](http://julien.marcel.free.fr/macchess/Chess_on_Mac/Engines.html) hosted by [Julien Marcel](Julien_Marcel "Julien Marcel") » [Macintosh](Macintosh "Macintosh")
 
 ## Misc
@@ -1461,8 +1461,8 @@ feat. [Tal Wilkenfeld](Category:Tal_Wilkenfeld "Category:Tal Wilkenfeld"), [Vinn
 
 ## References
 
-1. [↑](#cite_ref-1) Low resolution Image [Marcel Duchamp](Category:Marcel_Duchamp "Category:Marcel Duchamp") - [Portrait of Chess Players](http://www.artchive.com/web_gallery/M/Marcel-Duchamp/Portrait-of-Chess-Players.html) (1911) - cropped from [Mark Harden's Artchive](http://www.artchive.com/)
-1. [↑](#cite_ref-2) [Website engines](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74316) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), June 28, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Low resolution Image [Marcel Duchamp](Category:Marcel_Duchamp "Category:Marcel Duchamp") - [Portrait of Chess Players](http://www.artchive.com/web_gallery/M/Marcel-Duchamp/Portrait-of-Chess-Players.html) (1911) - cropped from [Mark Harden's Artchive](http://www.artchive.com/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Website engines](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74316) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), June 28, 2020
 
 **[Up one Level](Home "Home")**
 

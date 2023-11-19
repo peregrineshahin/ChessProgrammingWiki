@@ -3,14 +3,14 @@ title: Guy Haworth
 ---
 **[Home](Home "Home") * [People](People "People") * Guy Haworth**
 
-[](File:Guy_Haworth_photo.jpg) Guy Haworth [[1]](#cite_note-1)
-**Guy McCrossan Haworth**, (died on June 16, 2021 [[2]](#cite_note-2))
+[](File:Guy_Haworth_photo.jpg) Guy Haworth <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+**Guy McCrossan Haworth**, (died on June 16, 2021 <a id="cite-note-2" href="#cite-ref-2">[2]</a>)
 
-was a British computer scientist and lecturer from the School of Systems Engineering [[3]](#cite_note-3) , [University of Reading](https://en.wikipedia.org/wiki/University_of_Reading). Guy Haworth's research interests included the use of chess as a demonstration domain, and the [Retrograde Analysis](Retrograde_Analysis "Retrograde Analysis") creation of [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases"). He collaborated with [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [Christoph Wirth](Christoph_Wirth "Christoph Wirth"), [Peter Karrer](Peter_Karrer "Peter Karrer"), [John Tamplin](John_Tamplin "John Tamplin"), [Marc Bourzutschky](Marc_Bourzutschky "Marc Bourzutschky") and [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher") on Investigations of [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") with Depth to Mate (DTM), Depth to Conversion (DTC), DTZ and DTZ50 metrics.Data on percentage-wins, maximal-DTx figures and positions, and [mutual zugzwangs](Zugzwang "Zugzwang") have been filed and made available on the web, as have the DTM EGTs [[4]](#cite_note-4) . Since 2002, Guy has demonstrated 'Skilloscopy', i.e. methods of measuring the Skill of Fallible Decision Makers, by ranking chess players according to the quality of their moves in the full move-context of the positions in which those moves were played. He served as Vice-President of the [ICGA](ICGA "ICGA") from 2002 until 2005. Guy Haworth died on June 16, 2021 aged 74.
+was a British computer scientist and lecturer from the School of Systems Engineering <a id="cite-note-3" href="#cite-ref-3">[3]</a> , [University of Reading](https://en.wikipedia.org/wiki/University_of_Reading). Guy Haworth's research interests included the use of chess as a demonstration domain, and the [Retrograde Analysis](Retrograde_Analysis "Retrograde Analysis") creation of [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases"). He collaborated with [Eugene Nalimov](Eugene_Nalimov "Eugene Nalimov"), [Christoph Wirth](Christoph_Wirth "Christoph Wirth"), [Peter Karrer](Peter_Karrer "Peter Karrer"), [John Tamplin](John_Tamplin "John Tamplin"), [Marc Bourzutschky](Marc_Bourzutschky "Marc Bourzutschky") and [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher") on Investigations of [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") with Depth to Mate (DTM), Depth to Conversion (DTC), DTZ and DTZ50 metrics.Data on percentage-wins, maximal-DTx figures and positions, and [mutual zugzwangs](Zugzwang "Zugzwang") have been filed and made available on the web, as have the DTM EGTs <a id="cite-note-4" href="#cite-ref-4">[4]</a> . Since 2002, Guy has demonstrated 'Skilloscopy', i.e. methods of measuring the Skill of Fallible Decision Makers, by ranking chess players according to the quality of their moves in the full move-context of the positions in which those moves were played. He served as Vice-President of the [ICGA](ICGA "ICGA") from 2002 until 2005. Guy Haworth died on June 16, 2021 aged 74.
 
 ## Selected Publications
 
-[[5]](#cite_note-5) [[6]](#cite_note-6)
+<a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ## 1998 ...
 
@@ -33,8 +33,8 @@ was a British computer scientist and lecturer from the School of Systems Enginee
 
 - Guy Haworth (**2001**). *Four Notes on Chess Endgames*. [6th Computer Olympiad Workshop](6th_Computer_Olympiad#Workshop "6th Computer Olympiad"), [ppt](https://ilk.uvt.nl/icga/news/Olympiad/Olympiad/workshop/Haworth.ppt)
 
-Guy Haworth (**2001**). *Discarding Like Pieces*. [6th Computer Olympiad Workshop](6th_Computer_Olympiad#Workshop "6th Computer Olympiad") [[7]](#cite_note-7)
-Guy Haworth (**2001**). *Depth by The Rule*. [6th Computer Olympiad Workshop](6th_Computer_Olympiad#Workshop "6th Computer Olympiad") [[8]](#cite_note-8)
+Guy Haworth (**2001**). *Discarding Like Pieces*. [6th Computer Olympiad Workshop](6th_Computer_Olympiad#Workshop "6th Computer Olympiad") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
+Guy Haworth (**2001**). *Depth by The Rule*. [6th Computer Olympiad Workshop](6th_Computer_Olympiad#Workshop "6th Computer Olympiad") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 Guy Haworth (**2001**). *[3-5-Man Chess Data](http://centaur.reading.ac.uk/5949/)*. [6th Computer Olympiad Workshop](6th_Computer_Olympiad#Workshop "6th Computer Olympiad")
 Guy Haworth (**2001**). *[3-5-Man Mutual Zugzwangs in Chess](http://centaur.reading.ac.uk/5950/)*. [6th Computer Olympiad Workshop](6th_Computer_Olympiad#Workshop "6th Computer Olympiad")
 
@@ -78,7 +78,7 @@ Guy Haworth (**2001**). *[3-5-Man Mutual Zugzwangs in Chess](http://centaur.read
 
 **2009**
 
-- [Giuseppe Di Fatta](index.php?title=Giuseppe_Di_Fatta&action=edit&redlink=1 "Giuseppe Di Fatta (page does not exist)"), Guy Haworth, [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan") (**2009**). *Skill Rating by Bayesian Inference*. [CIDM 2009](http://www.informatik.uni-trier.de/~ley/db/conf/cidm/cidm2009.html), [pdf](http://www.cse.buffalo.edu/~regan/papers/pdf/DFHR09.pdf) [[9]](#cite_note-9)
+- [Giuseppe Di Fatta](index.php?title=Giuseppe_Di_Fatta&action=edit&redlink=1 "Giuseppe Di Fatta (page does not exist)"), Guy Haworth, [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan") (**2009**). *Skill Rating by Bayesian Inference*. [CIDM 2009](http://www.informatik.uni-trier.de/~ley/db/conf/cidm/cidm2009.html), [pdf](http://www.cse.buffalo.edu/~regan/papers/pdf/DFHR09.pdf) <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 - Guy Haworth (**2009**). *[Chess Endgame Update](http://centaur.reading.ac.uk/5763/)*. [ICGA Journal, Vol. 32, No. 4](ICGA_Journal#32_4 "ICGA Journal")
 
 ## 2010 ...
@@ -94,7 +94,7 @@ Guy Haworth (**2001**). *[3-5-Man Mutual Zugzwangs in Chess](http://centaur.read
 **2011**
 
 - Guy Haworth, [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher"), [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden") (**2011**). *[Uniqueness in Chess Studies](http://centaur.reading.ac.uk/19484/)*. [ICGA Journal, Vol. 34, No. 1](ICGA_Journal#34_1 "ICGA Journal")
-- [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan"), Guy Haworth (**2011**). *[Intrinsic Chess Ratings](http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3779)*. [AAAI 2011](http://www.informatik.uni-trier.de/~ley/db/conf/aaai/aaai2011.html#ReganH11), [pdf](http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3779/3962), [slides as pdf](http://www.cse.buffalo.edu/~regan/Talks/IntrinsicRatings.pdf) [[10]](#cite_note-10)
+- [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan"), Guy Haworth (**2011**). *[Intrinsic Chess Ratings](http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3779)*. [AAAI 2011](http://www.informatik.uni-trier.de/~ley/db/conf/aaai/aaai2011.html#ReganH11), [pdf](http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3779/3962), [slides as pdf](http://www.cse.buffalo.edu/~regan/Talks/IntrinsicRatings.pdf) <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 - Guy Haworth, [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden"), [Eiko Bleicher](Eiko_Bleicher "Eiko Bleicher") (**2011**). *Zugzwangs in Chess Studies*. [ICGA Journal, Vol. 34, No. 2](ICGA_Journal#34_2 "ICGA Journal")
 - Guy Haworth (**2011**). *Chess Endgame News*. [ICGA Journal, Vol. 34, No. 2](ICGA_Journal#34_2 "ICGA Journal")
 - [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan"), [Bartłomiej Macieja](index.php?title=Bart%C5%82omiej_Macieja&action=edit&redlink=1 "Bartłomiej Macieja (page does not exist)"), Guy McCrossan Haworth (**2011**). *[Understanding Distributions of Chess Performances](http://centaur.reading.ac.uk/23800/)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13"), [pdf](http://www.cse.buffalo.edu/~regan/papers/pdf/RMH11.pdf)
@@ -108,7 +108,7 @@ Guy Haworth (**2001**). *[3-5-Man Mutual Zugzwangs in Chess](http://centaur.read
 
 - Guy Haworth (**2013**). *Chess Endgame News*. [ICGA Journal, Vol. 36, No. 1](ICGA_Journal#36_1 "ICGA Journal")
 - Guy Haworth (**2013**). *Turing, Kasparov and the Future*. [ICGA Journal, Vol. 36, No. 1](ICGA_Journal#36_1 "ICGA Journal") » [Alan Turing](Alan_Turing "Alan Turing"), [Turochamp](Turochamp "Turochamp")
-- [Joe Leslie-Hurd](Joe_Leslie-Hurd "Joe Leslie-Hurd"), Guy Haworth (**2013**). *Computer Theorem Proving and HoTT*. [ICGA Journal, Vol. 36, No. 2](ICGA_Journal#36_2 "ICGA Journal") [[11]](#cite_note-11)
+- [Joe Leslie-Hurd](Joe_Leslie-Hurd "Joe Leslie-Hurd"), Guy Haworth (**2013**). *Computer Theorem Proving and HoTT*. [ICGA Journal, Vol. 36, No. 2](ICGA_Journal#36_2 "ICGA Journal") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 - Guy Haworth (**2013**). *Chess Endgame News*. [ICGA Journal, Vol. 36, No. 2](ICGA_Journal#36_2 "ICGA Journal")
 - Guy Haworth (**2013**). *Chess Endgame News*. [ICGA Journal, Vol. 36, No. 3](ICGA_Journal#36_3 "ICGA Journal")
 - [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), Guy Haworth, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2013**). *The 20th World Computer Chess Championship*. [ICGA Journal, Vol. 36, No. 3](ICGA_Journal#36_3 "ICGA Journal") » [WCCC 2013](WCCC_2013 "WCCC 2013")
@@ -130,7 +130,7 @@ Guy Haworth (**2001**). *[3-5-Man Mutual Zugzwangs in Chess](http://centaur.read
 
 - Guy Haworth, [Tamal T. Biswas](Tamal_T._Biswas "Tamal T. Biswas"), [Kenneth W. Regan](Kenneth_W._Regan "Kenneth W. Regan") (**2015**). *[A Comparative Review of Skill Assessment: Performance, Prediction and Profiling](http://centaur.reading.ac.uk/39431/)*. [Advances in Computer Games 14](Advances_in_Computer_Games_14 "Advances in Computer Games 14")
 - Guy Haworth (**2015**). *Chess Endgame News*. [ICGA Journal, Vol. 38, No. 1](ICGA_Journal#38_1 "ICGA Journal") » [Crafty](Crafty "Crafty"), [FinalGen](FinalGen "FinalGen")
-- [Galen Huntington](index.php?title=Galen_Huntington&action=edit&redlink=1 "Galen Huntington (page does not exist)"), Guy Haworth (**2015**). *Depth to Mate and the 50-Move Rule*. [ICGA Journal, Vol. 38, No. 2](ICGA_Journal#38_2 "ICGA Journal") » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") , [Fifty-Move Rule](Fifty-move_Rule "Fifty-move Rule") [[12]](#cite_note-12)
+- [Galen Huntington](index.php?title=Galen_Huntington&action=edit&redlink=1 "Galen Huntington (page does not exist)"), Guy Haworth (**2015**). *Depth to Mate and the 50-Move Rule*. [ICGA Journal, Vol. 38, No. 2](ICGA_Journal#38_2 "ICGA Journal") » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") , [Fifty-Move Rule](Fifty-move_Rule "Fifty-move Rule") <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 - [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Guy Haworth (**2015**). *WCCC 2015: The 21st World Computer Chess Championship*. [ICGA Journal, Vol. 38, No. 2](ICGA_Journal#38_2 "ICGA Journal") » [WCCC 2015](WCCC_2015 "WCCC 2015")
 - [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Guy Haworth (**2015**). *WCSC 2015: The 4th World Chess Software Championship*. [ICGA Journal, Vol. 38, No. 2](ICGA_Journal#38_2 "ICGA Journal") » [WCSC 2015](WCSC_2015 "WCSC 2015")
 - [Harold van der Heijden](Harold_van_der_Heijden "Harold van der Heijden"), Guy Haworth (**2015**). *Chess Study #16206*. [Die Schwalbe](Chess_Problems,_Compositions_and_Studies#Schwalbe "Chess Problems, Compositions and Studies"), 32.271
@@ -154,7 +154,7 @@ Guy Haworth (**2001**). *[3-5-Man Mutual Zugzwangs in Chess](http://centaur.read
 - [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Guy Haworth (**2018**). *WCSC 2018: The 8th World Chess Software Championship*. [ICGA Journal, Vol. 40, No. 3](ICGA_Journal#40_3 "ICGA Journal") » [WCSC 2018](WCSC_2018 "WCSC 2018")
 - [Jan Krabbenbos](Jan_Krabbenbos "Jan Krabbenbos"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Guy Haworth (**2018**). *WSCC 2018: The World Speed Computer Chess Championship*. [ICGA Journal, Vol. 40, No. 3](ICGA_Journal#40_3 "ICGA Journal")
 - Guy Haworth, [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2018**). *TCEC11: the 11th Top Chess Engine Championship*. [ICGA Journal, Vol. 40, No. 3](ICGA_Journal#40_3 "ICGA Journal") » [TCEC Season 11](TCEC_Season_11 "TCEC Season 11")
-- [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller"), Guy Haworth (**2018**). *Chess Endgame News: The World Chess Championship, 2018*. [ICGA Journal, Vol. 40, No. 4](ICGA_Journal#40_4 "ICGA Journal") [[13]](#cite_note-13)
+- [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller"), Guy Haworth (**2018**). *Chess Endgame News: The World Chess Championship, 2018*. [ICGA Journal, Vol. 40, No. 4](ICGA_Journal#40_4 "ICGA Journal") <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 - Guy Haworth (**2018**). *Chess Endgame News: 7-man ‘Syzygy’ DTZ50" EGTs*. [ICGA Journal, Vol. 40, No. 4](ICGA_Journal#40_4 "ICGA Journal") » [Syzygy Bases 7-man](Syzygy_Bases#7-man "Syzygy Bases")
 - Guy Haworth, [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2018**). *TCEC12: the 12th Top Chess Engine Championship*. [pdf](http://www.chessdom.com/wp-content/uploads/2019/01/TCEC-12-for-TCEC.pdf) » [TCEC Season 12](TCEC_Season_12 "TCEC Season 12")
 - Guy Haworth, [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2018**). *TCEC13: the 13th Top Chess EngineChampionship*. [pdf](http://www.chessdom.com/wp-content/uploads/2019/01/TCEC-13-for-TCEC.pdf) » [TCEC Season 13](TCEC_Season_13 "TCEC Season 13")
@@ -194,7 +194,7 @@ Guy Haworth (**2001**). *[3-5-Man Mutual Zugzwangs in Chess](http://centaur.read
 
 **2021**
 
-- Guy Haworth (**2021**). *Dvoretsky’s Endgame Manual, Edition 5: The bible evolves*. [ICGA Journal, Vol. 43, No. 1](ICGA_Journal#43_1 "ICGA Journal") [[14]](#cite_note-14)
+- Guy Haworth (**2021**). *Dvoretsky’s Endgame Manual, Edition 5: The bible evolves*. [ICGA Journal, Vol. 43, No. 1](ICGA_Journal#43_1 "ICGA Journal") <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 - Guy Haworth, [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2021**). *The 20th Top Chess Engine Championship, TCEC20*. [ICGA Journal, Vol. 43, No. 1](ICGA_Journal#43_1 "ICGA Journal"), [pdf](https://tcec-chess.com/articles/TCEC_20.pdf)
 - Guy Haworth, [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2021**). *TCEC Cup 8*. [ICGA Journal, Vol. 43, No. 1](ICGA_Journal#43_1 "ICGA Journal"), [pdf](https://tcec-chess.com/articles/TCEC_Cup_8.pdf)
 - [Lars Sandin](index.php?title=Lars_Sandin&action=edit&redlink=1 "Lars Sandin (page does not exist)"), Guy Haworth (**2021**). *The SSDF Chess Engine Rating List, 2020-12*. [ICGA Journal, Vol. 43, No. 1](ICGA_Journal#43_1 "ICGA Journal") » [SSDF](SSDF "SSDF")
@@ -220,20 +220,20 @@ Guy Haworth (**2001**). *[3-5-Man Mutual Zugzwangs in Chess](http://centaur.read
 
 ## References
 
-1. [↑](#cite_ref-1) Photo courtesy Guy Haworth
-1. [↑](#cite_ref-2) [Guy Haworth](https://icga.org/?p=3268) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [ICGA](ICGA "ICGA"), June 17, 2021
-1. [↑](#cite_ref-3) [School of Systems Engineering](http://www.reading.ac.uk/sse/)
-1. [↑](#cite_ref-4) [Chess Archives - Endgames (DTC, DTM, DTZ, DTZ-50)](http://chess.jaet.org/endings/) hosted by [John Tamplin](John_Tamplin "John Tamplin")
-1. [↑](#cite_ref-5) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. [↑](#cite_ref-6) [Author "Guy Haworth" - CentAUR](http://centaur.reading.ac.uk/view/creators/90000763.default.html)
-1. [↑](#cite_ref-7) Guy Haworth (**2001**). *[Discarding Like Pieces](http://centaur.reading.ac.uk/4594/)*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
-1. [↑](#cite_ref-8) Guy Haworth (**2001**). *[Depth by The Rule](http://centaur.reading.ac.uk/4593/)*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
-1. [↑](#cite_ref-9) [Bayesian inference from Wikipedia](https://en.wikipedia.org/wiki/Bayesian_inference)
-1. [↑](#cite_ref-10) ["Intrinsic Chess Ratings" by Regan, Haworth -- seq](http://www.talkchess.com/forum/viewtopic.php?t=65772) by Kai Middleton, [CCC](CCC "CCC"), November 19, 2017
-1. [↑](#cite_ref-11) [Homotopy Type Theory](http://homotopytypetheory.org/)
-1. [↑](#cite_ref-12) [Endgame tablebases with the fifty-move rule](http://galen.metapath.org/egtb50/) by [Galen Huntington](index.php?title=Galen_Huntington&action=edit&redlink=1 "Galen Huntington (page does not exist)")
-1. [↑](#cite_ref-13) [World Chess Championship 2018 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2018)
-1. [↑](#cite_ref-14) [Mark Dvoretsky](https://en.wikipedia.org/wiki/Mark_Dvoretsky) (**2020**). *[Dvoretsky's Endgame Manual 5th Edition](https://www.newinchess.com/dvoretsky-s-endgame-manual-6270)*. revised by [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller"), [Russell Enterprises](https://en.wikipedia.org/wiki/Hanon_Russell)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Photo courtesy Guy Haworth
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Guy Haworth](https://icga.org/?p=3268) by [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [ICGA](ICGA "ICGA"), June 17, 2021
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [School of Systems Engineering](http://www.reading.ac.uk/sse/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Chess Archives - Endgames (DTC, DTM, DTZ, DTZ-50)](http://chess.jaet.org/endings/) hosted by [John Tamplin](John_Tamplin "John Tamplin")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Author "Guy Haworth" - CentAUR](http://centaur.reading.ac.uk/view/creators/90000763.default.html)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> Guy Haworth (**2001**). *[Discarding Like Pieces](http://centaur.reading.ac.uk/4594/)*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> Guy Haworth (**2001**). *[Depth by The Rule](http://centaur.reading.ac.uk/4593/)*. [ICGA Journal, Vol. 24, No. 3](ICGA_Journal#24_3 "ICGA Journal")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Bayesian inference from Wikipedia](https://en.wikipedia.org/wiki/Bayesian_inference)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> ["Intrinsic Chess Ratings" by Regan, Haworth -- seq](http://www.talkchess.com/forum/viewtopic.php?t=65772) by Kai Middleton, [CCC](CCC "CCC"), November 19, 2017
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Homotopy Type Theory](http://homotopytypetheory.org/)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Endgame tablebases with the fifty-move rule](http://galen.metapath.org/egtb50/) by [Galen Huntington](index.php?title=Galen_Huntington&action=edit&redlink=1 "Galen Huntington (page does not exist)")
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [World Chess Championship 2018 from Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2018)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Mark Dvoretsky](https://en.wikipedia.org/wiki/Mark_Dvoretsky) (**2020**). *[Dvoretsky's Endgame Manual 5th Edition](https://www.newinchess.com/dvoretsky-s-endgame-manual-6270)*. revised by [Karsten Müller](Karsten_M%C3%BCller "Karsten Müller"), [Russell Enterprises](https://en.wikipedia.org/wiki/Hanon_Russell)
 
 **[Up one level](People "People")**
 

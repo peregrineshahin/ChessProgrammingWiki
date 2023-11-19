@@ -8,16 +8,16 @@ title: WCCC 1989Workshop
 
 
 
-[ Former Edmonton Convention Centre [[1]](#cite_note-1)
-The **Sixth World Computer Chess Championship** took place from May 28 to 31, [1989](Timeline#1989 "Timeline"), in the [Edmonton Convention Centre](https://en.wikipedia.org/wiki/Shaw_Conference_Centre), [Edmonton](https://en.wikipedia.org/wiki/Edmonton), [Alberta](https://en.wikipedia.org/wiki/Alberta), [Canada](https://en.wikipedia.org/wiki/Canada). It was held in conjunction with *Congress '89* [[2]](#cite_note-2) of the [Canadian Information Processing Society](https://en.wikipedia.org/wiki/Canadian_Information_Processing_Society) (CIPS), and was sponsored by [Alberta Government Telephones](https://en.wikipedia.org/wiki/Alberta_Government_Telephones) (AGT) [[3]](#cite_note-3).
-[Tony Marsland's](Tony_Marsland "Tony Marsland") hard work in obtaining funds and recruiting attendees was apparent in the impressive chess expertise available to comment on the event - he further organized the [New Directions in Game-Tree Search](#Workshop) two-day workshop during the tournament. 24 teams from 9 nations participated. [Canadian Chess Champion](https://en.wikipedia.org/wiki/Canadian_Chess_Championship) [Kevin Spraggett](https://en.wikipedia.org/wiki/Kevin_Spraggett) was present commentating on the games along with [David Levy](David_Levy "David Levy"), [Mike Valvo](Michael_Valvo "Michael Valvo"), [Danny Kopec](Danny_Kopec "Danny Kopec"), [Julio Kaplan](Julio_Kaplan "Julio Kaplan") and [David Slate](David_Slate "David Slate"). A large crowd of about 300 were on site during most of the games [[4]](#cite_note-4) . [Deep Thought](Deep_Thought "Deep Thought") won with a perfect score, winning all five games - runner up was [Bebe](Bebe "Bebe"). 
+[ Former Edmonton Convention Centre <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+The **Sixth World Computer Chess Championship** took place from May 28 to 31, [1989](Timeline#1989 "Timeline"), in the [Edmonton Convention Centre](https://en.wikipedia.org/wiki/Shaw_Conference_Centre), [Edmonton](https://en.wikipedia.org/wiki/Edmonton), [Alberta](https://en.wikipedia.org/wiki/Alberta), [Canada](https://en.wikipedia.org/wiki/Canada). It was held in conjunction with *Congress '89* <a id="cite-note-2" href="#cite-ref-2">[2]</a> of the [Canadian Information Processing Society](https://en.wikipedia.org/wiki/Canadian_Information_Processing_Society) (CIPS), and was sponsored by [Alberta Government Telephones](https://en.wikipedia.org/wiki/Alberta_Government_Telephones) (AGT) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
+[Tony Marsland's](Tony_Marsland "Tony Marsland") hard work in obtaining funds and recruiting attendees was apparent in the impressive chess expertise available to comment on the event - he further organized the [New Directions in Game-Tree Search](#Workshop) two-day workshop during the tournament. 24 teams from 9 nations participated. [Canadian Chess Champion](https://en.wikipedia.org/wiki/Canadian_Chess_Championship) [Kevin Spraggett](https://en.wikipedia.org/wiki/Kevin_Spraggett) was present commentating on the games along with [David Levy](David_Levy "David Levy"), [Mike Valvo](Michael_Valvo "Michael Valvo"), [Danny Kopec](Danny_Kopec "Danny Kopec"), [Julio Kaplan](Julio_Kaplan "Julio Kaplan") and [David Slate](David_Slate "David Slate"). A large crowd of about 300 were on site during most of the games <a id="cite-note-4" href="#cite-ref-4">[4]</a> . [Deep Thought](Deep_Thought "Deep Thought") won with a perfect score, winning all five games - runner up was [Bebe](Bebe "Bebe"). 
 
 
 
 ## Participants
 
 
-6th World Computer Chess Championship 1989, Edmonton CA [[7]](#cite_note-7)
+6th World Computer Chess Championship 1989, Edmonton CA <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 
 
@@ -109,27 +109,27 @@ The **Sixth World Computer Chess Championship** took place from May 28 to 31, [1
 
 
  [](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/) 
-[Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") [[8]](#cite_note-8)
+[Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 
 
  [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe1d416) 
-[Michie](Donald_Michie "Donald Michie") at the 6th WCCC [[9]](#cite_note-9)
+[Michie](Donald_Michie "Donald Michie") at the 6th WCCC <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 
  [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdd1eb1) 
-[Thompson](Ken_Thompson "Ken Thompson"), [Shannon](Claude_Shannon "Claude Shannon"), and [Slate](David_Slate "David Slate") at the 6th WCCC [[10]](#cite_note-10)
+[Thompson](Ken_Thompson "Ken Thompson"), [Shannon](Claude_Shannon "Claude Shannon"), and [Slate](David_Slate "David Slate") at the 6th WCCC <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 
 
  [](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/) 
-[David Levy](David_Levy "David Levy") and [Ken Thompson](Ken_Thompson "Ken Thompson") [[11]](#cite_note-11)
+[David Levy](David_Levy "David Levy") and [Ken Thompson](Ken_Thompson "Ken Thompson") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 
 
  [](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd35ab2) 
-[Claude Shannon](Claude_Shannon "Claude Shannon") awards [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), first prize for [Deep Thought](Deep_Thought "Deep Thought") [[12]](#cite_note-12)
+[Claude Shannon](Claude_Shannon "Claude Shannon") awards [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), first prize for [Deep Thought](Deep_Thought "Deep Thought") <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 
 
@@ -137,8 +137,8 @@ The **Sixth World Computer Chess Championship** took place from May 28 to 31, [1
 
 
  [](File:Hitech-DeepThought-Edmonton-1989.jpg) 
-The game [HiTech](HiTech "HiTech") vs [Deep Thought](Deep_Thought "Deep Thought") from the 5th (and last) round [[13]](#cite_note-13) [[14]](#cite_note-14)  
-[Hans Berliner](Hans_Berliner "Hans Berliner"), [Murray Campbell](Murray_Campbell "Murray Campbell"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") and [Peter Jansen](Peter_Jansen "Peter Jansen") [[15]](#cite_note-15)
+The game [HiTech](HiTech "HiTech") vs [Deep Thought](Deep_Thought "Deep Thought") from the 5th (and last) round <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a>  
+[Hans Berliner](Hans_Berliner "Hans Berliner"), [Murray Campbell](Murray_Campbell "Murray Campbell"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") and [Peter Jansen](Peter_Jansen "Peter Jansen") <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 
 
@@ -195,14 +195,14 @@ Game and short analyze on Lichess.org : [[1]](https://en.lichess.org/NnCgSyGX)
 ## Workshop
 
 
-The Workshop *New Directions in Game Tree Search* was organized by [Tony Marsland](Tony_Marsland "Tony Marsland") [[16]](#cite_note-16) and held in conjunction with the WCCC on May 29 and 30, 1989. Revised contributions of the workshop were published in [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition").
+The Workshop *New Directions in Game Tree Search* was organized by [Tony Marsland](Tony_Marsland "Tony Marsland") <a id="cite-note-16" href="#cite-ref-16">[16]</a> and held in conjunction with the WCCC on May 29 and 30, 1989. Revised contributions of the workshop were published in [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition").
 
 
 
 ### Session 1
 
 
-The first session was disclosed by [John McCarthy](John_McCarthy "John McCarthy") mentioning the often cited metaphor of computer chess as the [Drosophila](Artificial_Intelligence#McCarthy "Artificial Intelligence") of [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") research, and attributed it to [Alexander Kronrod](Alexander_Kronrod "Alexander Kronrod") [[17]](#cite_note-17) :
+The first session was disclosed by [John McCarthy](John_McCarthy "John McCarthy") mentioning the often cited metaphor of computer chess as the [Drosophila](Artificial_Intelligence#McCarthy "Artificial Intelligence") of [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") research, and attributed it to [Alexander Kronrod](Alexander_Kronrod "Alexander Kronrod") <a id="cite-note-17" href="#cite-ref-17">[17]</a> :
 
 
 
@@ -222,7 +222,7 @@ The first session was disclosed by [John McCarthy](John_McCarthy "John McCarthy"
 ### Session 2
 
 
-The second day began with opening remarks by [Claude Shannon](Claude_Shannon "Claude Shannon"), who recalled that in the 40s relays rather than transistors were the state of the art. He still feft that games were an excellent test bed for understanding intelligence, and predicted that within the next 25 years computers would outplay the best humans at chess [[18]](#cite_note-18) :
+The second day began with opening remarks by [Claude Shannon](Claude_Shannon "Claude Shannon"), who recalled that in the 40s relays rather than transistors were the state of the art. He still feft that games were an excellent test bed for understanding intelligence, and predicted that within the next 25 years computers would outplay the best humans at chess <a id="cite-note-18" href="#cite-ref-18">[18]</a> :
 
 
 
@@ -238,7 +238,7 @@ The second day began with opening remarks by [Claude Shannon](Claude_Shannon "Cl
 ## Congress '89
 
 
-[John McCarthy](John_McCarthy "John McCarthy") and [Donald Michie](Donald_Michie "Donald Michie") were invited speakers of the *Congress '89* conference of the [Canadian Information Processing Society](https://en.wikipedia.org/wiki/Canadian_Information_Processing_Society) on May 31, 1989 [[19]](#cite_note-19) . Their presentations were also published in [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition"):
+[John McCarthy](John_McCarthy "John McCarthy") and [Donald Michie](Donald_Michie "Donald Michie") were invited speakers of the *Congress '89* conference of the [Canadian Information Processing Society](https://en.wikipedia.org/wiki/Canadian_Information_Processing_Society) on May 31, 1989 <a id="cite-note-19" href="#cite-ref-19">[19]</a> . Their presentations were also published in [Computers, Chess, and Cognition](Computers,_Chess,_and_Cognition "Computers, Chess, and Cognition"):
 
 
 
@@ -249,7 +249,7 @@ The second day began with opening remarks by [Claude Shannon](Claude_Shannon "Cl
 ## Poll
 
 
-When will a Program beat the human Chess World Champion? A poll by [David Levy](David_Levy "David Levy") during the WCCC 1989 [[20]](#cite_note-20) .
+When will a Program beat the human Chess World Champion? A poll by [David Levy](David_Levy "David Levy") during the WCCC 1989 <a id="cite-note-20" href="#cite-ref-20">[20]</a> .
 
 
 
@@ -352,26 +352,26 @@ When will a Program beat the human Chess World Champion? A poll by [David Levy](
 ## References
 
 
-1. [↑](#cite_ref-1) Main Entrance of the [Shaw Conference Centre](http://en.wikipedia.org/wiki/Shaw_Conference_Centre) (since 1997), formerly the Edmonton Convention Centre, Photo taken [Downtown Edmonton](https://en.wikipedia.org/wiki/Downtown_Edmonton), [Alberta](https://en.wikipedia.org/wiki/Alberta), August 14, 2006, Myke Waddy
-2. [↑](#cite_ref-2) [Prospect for the 90's : CIPS Congress '89 : proceedings : Edmonton, Alberta, May 29-June 2, 1989](http://www.worldcat.org/title/prospect-for-the-90s-cips-congress-89-proceedings-edmonton-alberta-may-29-june-2-1989/oclc/21039544)
-3. [↑](#cite_ref-3) [Garth Courtois Jr.](Garth_Courtois_Jr. "Garth Courtois Jr.") (**1989**). *The Sixth World Computer-Chess Championship*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
-4. [↑](#cite_ref-4) [World Computer Chess Championship (the human side)](http://groups.google.com/group/rec.games.chess/browse_frm/thread/3d30a29100dc3fd2/afdb2d7f712f1be2) by [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), June 04, 1989
-5. [↑](#cite_ref-5) [6th World Computer Chess Championship](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=14) [ICGA](ICGA "ICGA") tournament site
-6. [↑](#cite_ref-6) [World Computer Chess Championship - 6th WCCC - 1989 Edmonton](http://www.mark-weeks.com/chess/89wc$tix.htm) by [Mark Weeks](Mark_Weeks "Mark Weeks")
-7. [↑](#cite_ref-7) [Garth Courtois Jr.](Garth_Courtois_Jr. "Garth Courtois Jr.") (**1989**). *The Sixth World Computer-Chess Championship*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
- 8. [↑](#cite_ref-8) [Chess temporary](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") 
-9. [↑](#cite_ref-9) [Michie at the 6th World Computer Chess Championship in Edmonton, Alberta](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe1d416), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-10. [↑](#cite_ref-10) [Thompson, Shannon, and Slate](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdd1eb1), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
- 11. [↑](#cite_ref-11) [Chess temporary](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") 
-12. [↑](#cite_ref-12) [Claude Shannon awards Feng-Hsiung Hsu](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd35ab2), Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-13. [↑](#cite_ref-13) [Edmonton 1989 - Chess - Round 5 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=14&round=5&id=1)
-14. [↑](#cite_ref-14) [Ray Keene](http://en.wikipedia.org/wiki/Raymond_Keene) (**1989**). *Deep Thoughts from Edmonton*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
-15. [↑](#cite_ref-15) Photo by [Pierre Nolot](Pierre_Nolot "Pierre Nolot")
-16. [↑](#cite_ref-16) [Tony Marsland](Tony_Marsland "Tony Marsland") (**1989**). *New Directions in Game-Tree Search*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
-17. [↑](#cite_ref-17) [James Gillogly](James_Gillogly "James Gillogly") (**1989**). *New Directions in Game-Tree Search - First Workshop Session*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
-18. [↑](#cite_ref-18) [Murray Campbell](Murray_Campbell "Murray Campbell") (**1989**). *New Directions in Game-Tree Search - Second Workshop Session*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
-19. [↑](#cite_ref-19) [David Slate](David_Slate "David Slate") (**1989**). *Invited Speakers: Donald Michie and John McCarthy*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
-20. [↑](#cite_ref-20) [Wann wird ein Computer den Weltmeister schlagen?](http://www.schach-computer.info/wiki/index.php/Levy,_David#Wann_wird_ein_Computer_den_Weltmeister_schlagen.3F), [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Main Entrance of the [Shaw Conference Centre](http://en.wikipedia.org/wiki/Shaw_Conference_Centre) (since 1997), formerly the Edmonton Convention Centre, Photo taken [Downtown Edmonton](https://en.wikipedia.org/wiki/Downtown_Edmonton), [Alberta](https://en.wikipedia.org/wiki/Alberta), August 14, 2006, Myke Waddy
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Prospect for the 90's : CIPS Congress '89 : proceedings : Edmonton, Alberta, May 29-June 2, 1989](http://www.worldcat.org/title/prospect-for-the-90s-cips-congress-89-proceedings-edmonton-alberta-may-29-june-2-1989/oclc/21039544)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Garth Courtois Jr.](Garth_Courtois_Jr. "Garth Courtois Jr.") (**1989**). *The Sixth World Computer-Chess Championship*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [World Computer Chess Championship (the human side)](http://groups.google.com/group/rec.games.chess/browse_frm/thread/3d30a29100dc3fd2/afdb2d7f712f1be2) by [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [rec.games.chess](Computer_Chess_Forums "Computer Chess Forums"), June 04, 1989
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [6th World Computer Chess Championship](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=14) [ICGA](ICGA "ICGA") tournament site
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [World Computer Chess Championship - 6th WCCC - 1989 Edmonton](http://www.mark-weeks.com/chess/89wc$tix.htm) by [Mark Weeks](Mark_Weeks "Mark Weeks")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Garth Courtois Jr.](Garth_Courtois_Jr. "Garth Courtois Jr.") (**1989**). *The Sixth World Computer-Chess Championship*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+ 8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chess temporary](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") 
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Michie at the 6th World Computer Chess Championship in Edmonton, Alberta](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbe1d416), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Thompson, Shannon, and Slate](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbdd1eb1), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+ 11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Chess temporary](http://archive.computerhistory.org/resources/still-image/Chess_temporary/still-image/), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") 
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Claude Shannon awards Feng-Hsiung Hsu](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd35ab2), Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Edmonton 1989 - Chess - Round 5 - Game 1 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=14&round=5&id=1)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Ray Keene](http://en.wikipedia.org/wiki/Raymond_Keene) (**1989**). *Deep Thoughts from Edmonton*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> Photo by [Pierre Nolot](Pierre_Nolot "Pierre Nolot")
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland") (**1989**). *New Directions in Game-Tree Search*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [James Gillogly](James_Gillogly "James Gillogly") (**1989**). *New Directions in Game-Tree Search - First Workshop Session*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Murray Campbell](Murray_Campbell "Murray Campbell") (**1989**). *New Directions in Game-Tree Search - Second Workshop Session*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [David Slate](David_Slate "David Slate") (**1989**). *Invited Speakers: Donald Michie and John McCarthy*. [ICCA Journal, Vol. 12, No. 2](ICGA_Journal#12_2 "ICGA Journal")
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Wann wird ein Computer den Weltmeister schlagen?](http://www.schach-computer.info/wiki/index.php/Levy,_David#Wann_wird_ein_Computer_den_Weltmeister_schlagen.3F), [Schachcomputer.info - Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
 
 **[Up one Level](World_Computer_Chess_Championship "World Computer Chess Championship")**
 

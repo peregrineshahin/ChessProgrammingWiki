@@ -3,7 +3,7 @@ title: GPU
 ---
 **[Home](Home "Home") * [Hardware](Hardware "Hardware") * GPU**
 
-\[ [Nvidia Tesla](https://en.wikipedia.org/wiki/Nvidia_Tesla) [[1]](#cite_note-1)
+\[ [Nvidia Tesla](https://en.wikipedia.org/wiki/Nvidia_Tesla) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **GPU** (Graphics Processing Unit),
 
 a specialized processor initially intended for fast [image processing](https://en.wikipedia.org/wiki/Image_processing). GPUs may have more raw computing power than general purpose [CPUs](https://en.wikipedia.org/wiki/Central_processing_unit) but need a specialized and parallelized way of programming. [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") has proven that a [Best-first](Best-First "Best-First") [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") (MCTS) with [deep learning](Deep_Learning "Deep Learning") methodology will work with GPU architectures.
@@ -107,14 +107,14 @@ Vendor Terminology
 
 ### Hardware Examples
 
-Nvidia GeForce GTX 580 ([Fermi](https://en.wikipedia.org/wiki/Fermi_%28microarchitecture%29)) [[2]](#cite_note-2)[[3]](#cite_note-3)
+Nvidia GeForce GTX 580 ([Fermi](https://en.wikipedia.org/wiki/Fermi_%28microarchitecture%29)) <a id="cite-note-2" href="#cite-ref-2">[2]</a><a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 - 512 CUDA cores @1.544GHz
 - 16 SMs - Streaming Multiprocessors
 - organized in 2x16 CUDA cores per SM
 - Warp size of 32 threads
 
-AMD Radeon HD 7970 ([GCN)](https://en.wikipedia.org/wiki/Graphics_Core_Next)[[4]](#cite_note-4)[[5]](#cite_note-5)
+AMD Radeon HD 7970 ([GCN)](https://en.wikipedia.org/wiki/Graphics_Core_Next)<a id="cite-note-4" href="#cite-ref-4">[4]</a><a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 - 2048 Stream cores @0.925GHz
 - 32 Compute Units
@@ -147,7 +147,7 @@ Terminology
 
 ## Thread Examples
 
-Nvidia GeForce GTX 580 (Fermi, CC2) [[6]](#cite_note-6)
+Nvidia GeForce GTX 580 (Fermi, CC2) <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 - Warp size: 32
 - Maximum number of threads per block: 1024
@@ -155,7 +155,7 @@ Nvidia GeForce GTX 580 (Fermi, CC2) [[6]](#cite_note-6)
 - Maximum number of resident warps per multiprocessor: 64
 - Maximum number of resident threads per multiprocessor: 2048
 
-AMD Radeon HD 7970 (GCN) [[7]](#cite_note-7)
+AMD Radeon HD 7970 (GCN) <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 - Wavefront size: 64
 - Maximum number of work-items per work-group: 1024
@@ -186,7 +186,7 @@ Terminology
 
 ### Memory Examples
 
-Nvidia GeForce GTX 580 ([Fermi)](https://en.wikipedia.org/wiki/Fermi_%28microarchitecture%29) [[8]](#cite_note-8)
+Nvidia GeForce GTX 580 ([Fermi)](https://en.wikipedia.org/wiki/Fermi_%28microarchitecture%29) <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 - 128 KiB private memory per compute unit
 - 48 KiB (16 KiB) local memory per compute unit (configurable)
@@ -196,7 +196,7 @@ Nvidia GeForce GTX 580 ([Fermi)](https://en.wikipedia.org/wiki/Fermi_%28microarc
 - 768 KiB L2 cache in total
 - 1.5 GiB to 3 GiB global memory
 
-AMD Radeon HD 7970 ([GCN](https://en.wikipedia.org/wiki/Graphics_Core_Next)) [[9]](#cite_note-9)
+AMD Radeon HD 7970 ([GCN](https://en.wikipedia.org/wiki/Graphics_Core_Next)) <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 - 256 KiB private memory per compute unit
 - 64 KiB local memory per compute unit
@@ -240,7 +240,7 @@ Consumer GPUs have in general a lower ratio (FP32:FP64) for double-precision (64
 
 ## Some GPGPU architectures offer half-precision (16-bit) floating-point operation throughput with an FP32:FP16 ratio of 1:2. Throughput Examples
 
-Nvidia GeForce GTX 580 (Fermi, CC 2.0) - 32-bit integer operations/clock cycle per compute unit [[10]](#cite_note-10)
+Nvidia GeForce GTX 580 (Fermi, CC 2.0) - 32-bit integer operations/clock cycle per compute unit <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ```C++
    MAD 16
@@ -253,7 +253,7 @@ Nvidia GeForce GTX 580 (Fermi, CC 2.0) - 32-bit integer operations/clock cycle p
 
 Max theoretic ADD operation throughput: 32 Ops x 16 CUs x 1544 MHz = 790.528 GigaOps/sec
 
-AMD Radeon HD 7970 (GCN 1.0) - 32-bit integer operations/clock cycle per processing element [[11]](#cite_note-11)
+AMD Radeon HD 7970 (GCN 1.0) - 32-bit integer operations/clock cycle per processing element <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```C++
    MAD 1/4
@@ -268,17 +268,17 @@ Max theoretic ADD operation throughput: 1 Op x 2048 PEs x 925 MHz = 1894.4 GigaO
 
 ## Tensors
 
-MMAC (matrix-multiply-accumulate) units are used in consumer brand GPUs for neural network based upsampling of video game resolutions, in professional brands for upsampling of images and videos, and in server brand GPUs for accelerating convolutional neural networks in general. Convolutions can be implemented as a series of matrix-multiplications via Winograd-transformations [[12]](#cite_note-12). Mobile SoCs usually have an dedicated neural network engine as MMAC unit.
+MMAC (matrix-multiply-accumulate) units are used in consumer brand GPUs for neural network based upsampling of video game resolutions, in professional brands for upsampling of images and videos, and in server brand GPUs for accelerating convolutional neural networks in general. Convolutions can be implemented as a series of matrix-multiplications via Winograd-transformations <a id="cite-note-12" href="#cite-ref-12">[12]</a>. Mobile SoCs usually have an dedicated neural network engine as MMAC unit.
 
 ## Nvidia TensorCores
 
-## With Nvidia [Volta](<https://en.wikipedia.org/wiki/Volta_(microarchitecture)>) series TensorCores were introduced. They offer FP16xFP16+FP32, matrix-multiplication-accumulate-units, used to accelerate neural networks.[[13]](#cite_note-13) Turing's 2nd gen TensorCores add FP16, INT8, INT4 optimized computation.[[14]](#cite_note-14) Amperes's 3rd gen adds support for BF16, TF32, FP64 and sparsity acceleration.[[15]](#cite_note-15)Ada Lovelaces's 4th gen adds support for FP8.[[16]](#cite_note-16) AMD Matrix Cores
+## With Nvidia [Volta](<https://en.wikipedia.org/wiki/Volta_(microarchitecture)>) series TensorCores were introduced. They offer FP16xFP16+FP32, matrix-multiplication-accumulate-units, used to accelerate neural networks.<a id="cite-note-13" href="#cite-ref-13">[13]</a> Turing's 2nd gen TensorCores add FP16, INT8, INT4 optimized computation.<a id="cite-note-14" href="#cite-ref-14">[14]</a> Amperes's 3rd gen adds support for BF16, TF32, FP64 and sparsity acceleration.<a id="cite-note-15" href="#cite-ref-15">[15]</a>Ada Lovelaces's 4th gen adds support for FP8.<a id="cite-note-16" href="#cite-ref-16">[16]</a> AMD Matrix Cores
 
 ## AMD released 2020 its server-class [CDNA](https://www.amd.com/system/files/documents/amd-cdna-whitepaper.pdf) architecture with Matrix Cores which support MFMA (matrix-fused-multiply-add) operations on various data types like INT8, FP16, BF16, FP32. AMD's CDNA 2 architecture adds FP64 optimized throughput for matrix operations. AMD's RDNA 3 architecture features dedicated AI tensor operation acceleration. Intel XMX Cores
 
 ## Intel added XMX, Xe Matrix eXtensions, cores to some of the [Intel Xe](https://en.wikipedia.org/wiki/Intel_Xe) GPU series, like [Arc Alchemist](https://en.wikipedia.org/wiki/Intel_Arc#Alchemist). Host-Device Latencies
 
-One reason GPUs are not used as accelerators for chess engines is the host-device latency, aka. kernel-launch-overhead. Nvidia and AMD have not published official numbers, but in practice there is a measurable latency for null-kernels of 5 microseconds [[17]](#cite_note-17) up to 100s of microseconds [[18]](#cite_note-18). One solution to overcome this limitation is to couple tasks to batches to be executed in one run [[19]](#cite_note-19).
+One reason GPUs are not used as accelerators for chess engines is the host-device latency, aka. kernel-launch-overhead. Nvidia and AMD have not published official numbers, but in practice there is a measurable latency for null-kernels of 5 microseconds <a id="cite-note-17" href="#cite-ref-17">[17]</a> up to 100s of microseconds <a id="cite-note-18" href="#cite-ref-18">[18]</a>. One solution to overcome this limitation is to couple tasks to batches to be executed in one run <a id="cite-note-19" href="#cite-ref-19">[19]</a>.
 
 ## Deep Learning
 
@@ -408,7 +408,7 @@ The [Hopper GPU Datacenter microarchitecture](<https://en.wikipedia.org/wiki/Hop
 
 ### Ampere Architecture
 
-The [Ampere microarchitecture](<https://en.wikipedia.org/wiki/Ampere_(microarchitecture)>) was announced on May 14, 2020 [[20]](#cite_note-20). The Nvidia A100 GPU based on the Ampere architecture delivers a generational leap in accelerated computing in conjunction with CUDA 11 [[21]](#cite_note-21).
+The [Ampere microarchitecture](<https://en.wikipedia.org/wiki/Ampere_(microarchitecture)>) was announced on May 14, 2020 <a id="cite-note-20" href="#cite-ref-20">[20]</a>. The Nvidia A100 GPU based on the Ampere architecture delivers a generational leap in accelerated computing in conjunction with CUDA 11 <a id="cite-note-21" href="#cite-ref-21">[21]</a>.
 
 - [Ampere GA100 Whitepaper](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/nvidia-ampere-architecture-whitepaper.pdf)
 - [Ampere GA102 Whitepaper](https://www.nvidia.com/content/PDF/nvidia-ampere-ga-102-gpu-architecture-whitepaper-v2.pdf)
@@ -496,11 +496,11 @@ Vivante licenses IP to third parties for embedded systems, the GC series offers 
 
 ## 2008 ...
 
-- [Vlad Stamate](Vlad_Stamate "Vlad Stamate") (**2008**). *Real Time Photon Mapping Approximation on the GPU*. in [ShaderX6 - Advanced Rendering Techniques](http://shaderx6.com/TOC.html) [[22]](#cite_note-22)
+- [Vlad Stamate](Vlad_Stamate "Vlad Stamate") (**2008**). *Real Time Photon Mapping Approximation on the GPU*. in [ShaderX6 - Advanced Rendering Techniques](http://shaderx6.com/TOC.html) <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 - [Ren Wu](Ren_Wu "Ren Wu"), [Bin Zhang](http://www.cedar.buffalo.edu/~binzhang/), [Meichun Hsu](http://www.hpl.hp.com/people/meichun_hsu/) (**2009**). *[Clustering billions of data points using GPUs](http://portal.acm.org/citation.cfm?id=1531668)*. [ACM International Conference on Computing Frontiers](http://www.computingfrontiers.org/2009/)
 - [Mark Govett](https://github.com/markgovett), [Craig Tierney](https://www.linkedin.com/in/craig-tierney-9568545), [Jacques Middlecoff](Jacques_Middlecoff "Jacques Middlecoff"), [Tom Henderson](https://www.researchgate.net/profile/Tom_Henderson4) (**2009**). *Using Graphical Processing Units (GPUs) for Next Generation Weather and Climate Prediction Models*. [CAS2K9 Workshop](http://www.cisl.ucar.edu/dir/CAS2K9/)
 - [Hank Dietz](Hank_Dietz "Hank Dietz"), [Bobby Dalton Young](https://dblp.uni-trier.de/pers/hd/y/Young:Bobby_Dalton) (**2009**). *[MIMD Interpretation on a GPU](https://link.springer.com/chapter/10.1007/978-3-642-13374-9_5)*. [LCPC 2009](https://dblp.uni-trier.de/db/conf/lcpc/lcpc2009.html), [pdf](http://aggregate.ee.engr.uky.edu/EXHIBITS/SC09/mogsimlcpc09final.pdf), [slides.pdf](http://aggregate.org/GPUMC/mogsimlcpc09slides.pdf)
-- [Sander van der Maar](https://dblp.uni-trier.de/pid/28/7183.html), [Joost Batenburg](Joost_Batenburg "Joost Batenburg"), [Jan Sijbers](https://scholar.google.com/citations?user=TtXZhj8AAAAJ&hl=en) (**2009**). *[Experiences with Cell-BE and GPU for Tomography](https://link.springer.com/chapter/10.1007/978-3-642-03138-0_33)*. [SAMOS 2009](https://dblp.uni-trier.de/db/conf/samos/samos2009.html#MaarBS09) [[23]](#cite_note-23)
+- [Sander van der Maar](https://dblp.uni-trier.de/pid/28/7183.html), [Joost Batenburg](Joost_Batenburg "Joost Batenburg"), [Jan Sijbers](https://scholar.google.com/citations?user=TtXZhj8AAAAJ&hl=en) (**2009**). *[Experiences with Cell-BE and GPU for Tomography](https://link.springer.com/chapter/10.1007/978-3-642-03138-0_33)*. [SAMOS 2009](https://dblp.uni-trier.de/db/conf/samos/samos2009.html#MaarBS09) <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 
 ## 2010...
 
@@ -543,12 +543,12 @@ Vivante licenses IP to third parties for embedded systems, the GC series offers 
 
 **2016**
 
-- [Sean Sheen](https://www.linkedin.com/in/sean-sheen-b99aba89) (**2016**). *[Astro - A Low-Cost, Low-Power Cluster for CPU-GPU Hybrid Computing using the Jetson TK1](https://digitalcommons.calpoly.edu/theses/1567/)*. Master's thesis, [California Polytechnic State University](https://en.wikipedia.org/wiki/California_Polytechnic_State_University), [pdf](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2723&context=theses) [[24]](#cite_note-24) [[25]](#cite_note-25)
+- [Sean Sheen](https://www.linkedin.com/in/sean-sheen-b99aba89) (**2016**). *[Astro - A Low-Cost, Low-Power Cluster for CPU-GPU Hybrid Computing using the Jetson TK1](https://digitalcommons.calpoly.edu/theses/1567/)*. Master's thesis, [California Polytechnic State University](https://en.wikipedia.org/wiki/California_Polytechnic_State_University), [pdf](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2723&context=theses) <a id="cite-note-24" href="#cite-ref-24">[24]</a> <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 - [Jingyue Wu](https://scholar.google.com/citations?user=YyD7mwcAAAAJ&hl=en), [Artem Belevich](https://scholar.google.com/citations?user=EJcIByYAAAAJ&hl=en), [Eli Bendersky](https://scholar.google.com/citations?user=X5WAGdEAAAAJ&hl=en), [Mark Heffernan](https://www.linkedin.com/in/mark-heffernan-873b663/), [Chris Leary](https://scholar.google.com/citations?user=Guehv9sAAAAJ&hl=en), [Jacques Pienaar](https://scholar.google.com/citations?user=fAmfZAYAAAAJ&hl=en), [Bjarke Roune](http://www.broune.com/), [Rob Springer](https://scholar.google.com/citations?user=Der7mNMAAAAJ&hl=en), [Xuetian Weng](https://scholar.google.com/citations?user=zvfOH0wAAAAJ&hl=en), [Robert Hundt](https://scholar.google.com/citations?user=s7VCtl8AAAAJ&hl=en) (**2016**). *[gpucc: an open-source GPGPU compiler](https://dl.acm.org/citation.cfm?id=2854041)*. [CGO 2016](https://cgo.org/cgo2016/)
 - [David Silver](David_Silver "David Silver"), [Aja Huang](Shih-Chieh_Huang "Shih-Chieh Huang"), [Chris J. Maddison](Chris_J._Maddison "Chris J. Maddison"), [Arthur Guez](Arthur_Guez "Arthur Guez"), [Laurent Sifre](Laurent_Sifre "Laurent Sifre"), [George van den Driessche](index.php?title=George_van_den_Driessche&action=edit&redlink=1 "George van den Driessche (page does not exist)"), [Julian Schrittwieser](Julian_Schrittwieser "Julian Schrittwieser"), [Ioannis Antonoglou](Ioannis_Antonoglou "Ioannis Antonoglou"), [Veda Panneershelvam](index.php?title=Veda_Panneershelvam&action=edit&redlink=1 "Veda Panneershelvam (page does not exist)"), [Marc Lanctot](Marc_Lanctot "Marc Lanctot"), [Sander Dieleman](index.php?title=Sander_Dieleman&action=edit&redlink=1 "Sander Dieleman (page does not exist)"), [Dominik Grewe](index.php?title=Dominik_Grewe&action=edit&redlink=1 "Dominik Grewe (page does not exist)"), [John Nham](index.php?title=John_Nham&action=edit&redlink=1 "John Nham (page does not exist)"), [Nal Kalchbrenner](index.php?title=Nal_Kalchbrenner&action=edit&redlink=1 "Nal Kalchbrenner (page does not exist)"), [Ilya Sutskever](Ilya_Sutskever "Ilya Sutskever"), [Timothy Lillicrap](Timothy_Lillicrap "Timothy Lillicrap"), [Madeleine Leach](index.php?title=Madeleine_Leach&action=edit&redlink=1 "Madeleine Leach (page does not exist)"), [Koray Kavukcuoglu](Koray_Kavukcuoglu "Koray Kavukcuoglu"), [Thore Graepel](Thore_Graepel "Thore Graepel"), [Demis Hassabis](Demis_Hassabis "Demis Hassabis") (**2016**). *[Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)*. [Nature](https://en.wikipedia.org/wiki/Nature_%28journal%29), Vol. 529 » [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)")
-- [Balázs Jákó](Bal%C3%A1zs_Jako "Balázs Jako") (**2016**). *[Hardware accelerated hybrid rendering on PowerVR GPUs](https://www.semanticscholar.org/paper/Hardware-accelerated-hybrid-rendering-on-PowerVR-J%C3%A1k%C3%B3/d9d7f5784263c5abdcd6c1bf93267e334468b9b2)*. [[26]](#cite_note-26) [IEEE](IEEE "IEEE") [20th Jubilee International Conference on Intelligent Engineering Systems](https://ieeexplore.ieee.org/xpl/conhome/7547434/proceeding)
+- [Balázs Jákó](Bal%C3%A1zs_Jako "Balázs Jako") (**2016**). *[Hardware accelerated hybrid rendering on PowerVR GPUs](https://www.semanticscholar.org/paper/Hardware-accelerated-hybrid-rendering-on-PowerVR-J%C3%A1k%C3%B3/d9d7f5784263c5abdcd6c1bf93267e334468b9b2)*. <a id="cite-note-26" href="#cite-ref-26">[26]</a> [IEEE](IEEE "IEEE") [20th Jubilee International Conference on Intelligent Engineering Systems](https://ieeexplore.ieee.org/xpl/conhome/7547434/proceeding)
 - [Diogo R. Ferreira](Diogo_R._Ferreira "Diogo R. Ferreira"), [Rui M. Santos](https://dblp.uni-trier.de/pers/hd/s/Santos:Rui_M=) (**2016**). *[Parallelization of Transition Counting for Process Mining on Multi-core CPUs and GPUs](https://github.com/diogoff/transition-counting-gpu)*. [BPM 2016](https://dblp.uni-trier.de/db/conf/bpm/bpmw2016.html)
-- [Ole Schütt](https://dblp.org/pers/hd/s/Sch=uuml=tt:Ole), [Peter Messmer](https://developer.nvidia.com/blog/author/peter-messmer/), [Jürg Hutter](https://scholar.google.ch/citations?user=ajbBWN0AAAAJ&hl=en), [Joost VandeVondele](Joost_VandeVondele "Joost VandeVondele") (**2016**). *[GPU Accelerated Sparse Matrix–Matrix Multiplication for Linear Scaling Density Functional Theory](https://onlinelibrary.wiley.com/doi/10.1002/9781118670712.ch8)*. [pdf](https://www.cp2k.org/_media/gpu_book_chapter_submitted.pdf) [[27]](#cite_note-27)
+- [Ole Schütt](https://dblp.org/pers/hd/s/Sch=uuml=tt:Ole), [Peter Messmer](https://developer.nvidia.com/blog/author/peter-messmer/), [Jürg Hutter](https://scholar.google.ch/citations?user=ajbBWN0AAAAJ&hl=en), [Joost VandeVondele](Joost_VandeVondele "Joost VandeVondele") (**2016**). *[GPU Accelerated Sparse Matrix–Matrix Multiplication for Linear Scaling Density Functional Theory](https://onlinelibrary.wiley.com/doi/10.1002/9781118670712.ch8)*. [pdf](https://www.cp2k.org/_media/gpu_book_chapter_submitted.pdf) <a id="cite-note-27" href="#cite-ref-27">[27]</a>
 
 Chapter 8 in [Ross C. Walker](https://scholar.google.com/citations?user=AV307ZUAAAAJ&hl=en), [Andreas W. Götz](https://scholar.google.com/citations?user=PJusscIAAAAJ&hl=en) (**2016**). *[Electronic Structure Calculations on Graphics Processing Units: From Quantum Chemistry to Condensed Matter Physics](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118670712)*. [John Wiley & Sons](<https://en.wikipedia.org/wiki/Wiley_(publisher)>)
 **2017**
@@ -584,17 +584,17 @@ Chapter 8 in [Ross C. Walker](https://scholar.google.com/citations?user=AV307ZUA
 
 **2012**
 
-- [Possible Search Algorithms for GPUs?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=442052&t=41853) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), January 07, 2012 [[28]](#cite_note-28) [[29]](#cite_note-29)
+- [Possible Search Algorithms for GPUs?](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=442052&t=41853) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), January 07, 2012 <a id="cite-note-28" href="#cite-ref-28">[28]</a> <a id="cite-note-29" href="#cite-ref-29">[29]</a>
 - [uct on gpu](http://www.talkchess.com/forum/viewtopic.php?t=42590) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), February 24, 2012 » [UCT](UCT "UCT")
 - [Is there such a thing as branchless move generation?](http://www.talkchess.com/forum/viewtopic.php?t=43971) by [John Hamlen](John_Hamlen "John Hamlen"), [CCC](CCC "CCC"), June 07, 2012 » [Move Generation](Move_Generation "Move Generation")
 - [Choosing a GPU platform: AMD and Nvidia](http://www.talkchess.com/forum/viewtopic.php?t=44014) by [John Hamlen](John_Hamlen "John Hamlen"), [CCC](CCC "CCC"), June 10, 2012
-- [Nvidias K20 with Recursion](http://www.talkchess.com/forum/viewtopic.php?t=46277) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), December 04, 2012 [[30]](#cite_note-30)
+- [Nvidias K20 with Recursion](http://www.talkchess.com/forum/viewtopic.php?t=46277) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), December 04, 2012 <a id="cite-note-30" href="#cite-ref-30">[30]</a>
 
 **2013**
 
-- [Kogge Stone, Vector Based](http://www.talkchess.com/forum/viewtopic.php?t=46974) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), January 22, 2013 » [Kogge-Stone Algorithm](Kogge-Stone_Algorithm "Kogge-Stone Algorithm") [[31]](#cite_note-31) [[32]](#cite_note-32)
+- [Kogge Stone, Vector Based](http://www.talkchess.com/forum/viewtopic.php?t=46974) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), January 22, 2013 » [Kogge-Stone Algorithm](Kogge-Stone_Algorithm "Kogge-Stone Algorithm") <a id="cite-note-31" href="#cite-ref-31">[31]</a> <a id="cite-note-32" href="#cite-ref-32">[32]</a>
 - [GPU chess engine](http://www.talkchess.com/forum/viewtopic.php?t=47344) by Samuel Siltanen, [CCC](CCC "CCC"), February 27, 2013
-- [Fast perft on GPU (upto 20 Billion nps w/o hashing)](http://www.talkchess.com/forum/viewtopic.php?t=48387) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), June 22, 2013 » [Perft](Perft "Perft"), [Kogge-Stone Algorithm](Kogge-Stone_Algorithm "Kogge-Stone Algorithm") [[33]](#cite_note-33)
+- [Fast perft on GPU (upto 20 Billion nps w/o hashing)](http://www.talkchess.com/forum/viewtopic.php?t=48387) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), June 22, 2013 » [Perft](Perft "Perft"), [Kogge-Stone Algorithm](Kogge-Stone_Algorithm "Kogge-Stone Algorithm") <a id="cite-note-33" href="#cite-ref-33">[33]</a>
 
 ## 2015 ...
 
@@ -607,14 +607,14 @@ Chapter 8 in [Ross C. Walker](https://scholar.google.com/citations?user=AV307ZUA
 - [Back to the basics, generating moves on gpu in parallel...](http://www.talkchess.com/forum/viewtopic.php?t=63346) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), March 05, 2017 » [Move Generation](Move_Generation "Move Generation")
 - [Re: Perft(15): comparison of estimates with Ankan's result](http://www.talkchess.com/forum/viewtopic.php?t=64983&start=9) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), August 26, 2017 » [Perft(15)](Perft#15 "Perft")
 - [Chess Engine and GPU](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=32317) by Fishpov , [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), October 09, 2017
-- [To TPU or not to TPU...](http://www.talkchess.com/forum/viewtopic.php?t=66025) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), December 16, 2017 » [Deep Learning](Deep_Learning "Deep Learning") [[34]](#cite_note-34)
+- [To TPU or not to TPU...](http://www.talkchess.com/forum/viewtopic.php?t=66025) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), December 16, 2017 » [Deep Learning](Deep_Learning "Deep Learning") <a id="cite-note-34" href="#cite-ref-34">[34]</a>
 
 **2018**
 
 - [Announcing lczero](http://www.talkchess.com/forum/viewtopic.php?t=66280) by [Gary](Gary_Linscott "Gary Linscott"), [CCC](CCC "CCC"), January 09, 2018 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
 - [GPU ANN, how to deal with host-device latencies?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=67347) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), May 06, 2018 » [Neural Networks](Neural_Networks "Neural Networks")
 - [GPU contention](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67357) by [Ian Kennedy](Ian_Kennedy "Ian Kennedy"), [CCC](CCC "CCC"), May 07, 2018 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
-- [How good is the RTX 2080 Ti for Leela?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68448) by Hai, September 15, 2018 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") [[35]](#cite_note-35)
+- [How good is the RTX 2080 Ti for Leela?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68448) by Hai, September 15, 2018 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero") <a id="cite-note-35" href="#cite-ref-35">[35]</a>
 
 [Re: How good is the RTX 2080 Ti for Leela?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68448&start=2) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), September 16, 2018
 
@@ -625,7 +625,7 @@ Chapter 8 in [Ross C. Walker](https://scholar.google.com/citations?user=AV307ZUA
 
 - [Generate EGTB with graphics cards?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69447) by [Nguyen Pham](Pham_Hong_Nguyen "Pham Hong Nguyen"), [CCC](CCC "CCC"), January 01, 2019 » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases")
 - [LCZero FAQ is missing one important fact](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=69478) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), January 01, 2019 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
-- [Michael Larabel benches lc0 on various GPUs](https://groups.google.com/d/msg/lczero/I0lTgR-fFFU/NGC3kJDzAwAJ) by [Warren D. Smith](Warren_D._Smith "Warren D. Smith"), [LCZero Forum](Computer_Chess_Forums "Computer Chess Forums"), January 14, 2019 » [Lc0](Leela_Chess_Zero#Lc0 "Leela Chess Zero") [[36]](#cite_note-36)
+- [Michael Larabel benches lc0 on various GPUs](https://groups.google.com/d/msg/lczero/I0lTgR-fFFU/NGC3kJDzAwAJ) by [Warren D. Smith](Warren_D._Smith "Warren D. Smith"), [LCZero Forum](Computer_Chess_Forums "Computer Chess Forums"), January 14, 2019 » [Lc0](Leela_Chess_Zero#Lc0 "Leela Chess Zero") <a id="cite-note-36" href="#cite-ref-36">[36]</a>
 - [Using LC0 with one or two GPUs - a guide](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70362) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), March 30, 2019 » [Lc0](Leela_Chess_Zero#Lc0 "Leela Chess Zero")
 - [Wouldn't it be nice if C++ GPU](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=70584) by [Chris Whittington](Chris_Whittington "Chris Whittington"), [CCC](CCC "CCC"), April 25, 2019 » [C++](Cpp "Cpp")
 - [Lazy-evaluation of futures for parallel work-efficient Alpha-Beta search](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=71058) by Percival Tiglao, [CCC](CCC "CCC"), June 06, 2019
@@ -634,7 +634,7 @@ Chapter 8 in [Ross C. Walker](https://scholar.google.com/citations?user=AV307ZUA
 
 ## 2020 ...
 
-- [AB search with NN on GPU...](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74771) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), August 13, 2020 » [Neural Networks](Neural_Networks "Neural Networks") [[37]](#cite_note-37)
+- [AB search with NN on GPU...](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74771) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), August 13, 2020 » [Neural Networks](Neural_Networks "Neural Networks") <a id="cite-note-37" href="#cite-ref-37">[37]</a>
 - [I stumbled upon this article on the new Nvidia RTX GPUs](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75073) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), September 10, 2020
 - [Will AMD RDNA2 based Radeon RX 6000 series kick butt with Lc0?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75639) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), November 01, 2020
 - [Zeta with NNUE on GPU?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76986) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), March 31, 2021 » [Zeta](Zeta "Zeta"), [NNUE](NNUE "NNUE")
@@ -666,7 +666,7 @@ Chapter 8 in [Ross C. Walker](https://scholar.google.com/citations?user=AV307ZUA
 - [CUDA Zone | NVIDIA Developer](https://developer.nvidia.com/cuda-zone)
 - [Nvidia CUDA Compiler (NVCC) from Wikipedia](https://en.wikipedia.org/wiki/NVIDIA_CUDA_Compiler)
 - [Compiling CUDA with clang](https://llvm.org/docs/CompileCudaWithLLVM.html) — [LLVM](https://en.wikipedia.org/wiki/LLVM) [Clang](https://en.wikipedia.org/wiki/Clang) documentation
-- [CppCon 2016](https://github.com/cppcon/cppcon2016): “Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler" by [Justin Lebar](https://github.com/jlebar), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video [[38]](#cite_note-38)
+- [CppCon 2016](https://github.com/cppcon/cppcon2016): “Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler" by [Justin Lebar](https://github.com/jlebar), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video <a id="cite-note-38" href="#cite-ref-38">[38]</a>
 
 ## : Deep Learning
 
@@ -690,52 +690,52 @@ Chapter 8 in [Ross C. Walker](https://scholar.google.com/citations?user=AV307ZUA
 
 - [Chess on a GPGPU](https://chessgpgpu.blogspot.com/)
 - [GPU Chess Blog](http://gpuchess.blogspot.com/)
-- [ankan-ban/perft_gpu · GitHub](https://github.com/ankan-ban/perft_gpu) » [Perft](Perft "Perft") [[39]](#cite_note-39)
+- [ankan-ban/perft_gpu · GitHub](https://github.com/ankan-ban/perft_gpu) » [Perft](Perft "Perft") <a id="cite-note-39" href="#cite-ref-39">[39]</a>
 - [LCZero · GitHub](https://github.com/LeelaChessZero) » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
 - [GitHub - StuartRiffle/Jaglavak: Corvid Chess Engine](https://github.com/StuartRiffle/Jaglavak) » [Jaglavak](Jaglavak "Jaglavak")
 - [Zeta OpenCL Chess](https://zeta-chess.app26.de/) » [Zeta](Zeta "Zeta")
 
 ## References
 
-1. [↑](#cite_ref-1) [Image](https://commons.wikimedia.org/wiki/File:NvidiaTesla.jpg) by Mahogny, February 09, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. [↑](#cite_ref-2) [Fermi white paper from Nvidia](https://www.nvidia.com/content/PDF/fermi_white_papers/NVIDIA_Fermi_Compute_Architecture_Whitepaper.pdf)
-1. [↑](#cite_ref-3) [GeForce 500 series on Wikipedia](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units#GeForce_500_series)
-1. [↑](#cite_ref-4) [Graphics Core Next on Wikipedia](https://en.wikipedia.org/wiki/Graphics_Core_Next)
-1. [↑](#cite_ref-5) [Radeon HD 7000 series on Wikipedia](https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units#Radeon_HD_7000_series)
-1. [↑](#cite_ref-6) [CUDA Technical_Specification on Wikipedia](https://en.wikipedia.org/wiki/CUDA#Technical_Specification)
-1. [↑](#cite_ref-7) [AMD GPU Hardware Basics](https://www.olcf.ornl.gov/wp-content/uploads/2019/10/ORNL_Application_Readiness_Workshop-AMD_GPU_Basics.pdf)
-1. [↑](#cite_ref-8) CUDA C Programming Guide v7.0, Appendix G.COMPUTE CAPABILITIES
-1. [↑](#cite_ref-9) AMD Accelerated Parallel Processing OpenCL Programming Guide rev2.7, Appendix D Device Parameters, Table D.1 Parameters for 7xxx Devices
-1. [↑](#cite_ref-10) CUDA C Programming Guide v7.0, Chapter 5.4.1. Arithmetic Instructions
-1. [↑](#cite_ref-11) AMD_OpenCL_Programming_Optimization_Guide.pdf 3.0beta, Chapter 2.7.1 Instruction Bandwidths
-1. [↑](#cite_ref-12) [Re: To TPU or not to TPU...](https://talkchess.com/forum3/viewtopic.php?f=7&t=66025&p=743355#p743355) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), December 16, 2017
-1. [↑](#cite_ref-13) [INSIDE VOLTA](https://on-demand.gputechconf.com/gtc/2017/presentation/s7798-luke-durant-inside-volta.pdf)
-1. [↑](#cite_ref-14) [AnandTech - Nvidia Turing Deep Dive page 6](https://www.anandtech.com/show/13282/nvidia-turing-architecture-deep-dive/6)
-1. [↑](#cite_ref-15) [Wikipedia - Ampere microarchitecture](<https://en.wikipedia.org/wiki/Ampere_(microarchitecture)#Details>)
-1. [↑](#cite_ref-16) [- Ada Lovelace microarchitecture](<https://en.wikipedia.org/wiki/Ada_Lovelace_(microarchitecture)>)
-1. [↑](#cite_ref-17) [host-device latencies?](https://devtalk.nvidia.com/default/topic/1047965/cuda-programming-and-performance/host-device-latencies-/post/5318041/#5318041) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), Nvidia CUDA ZONE, Feb 28, 2019
-1. [↑](#cite_ref-18) [host-device latencies?](https://community.amd.com/thread/237337#comment-2902071) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic") AMD Developer Community, Feb 28, 2019
-1. [↑](#cite_ref-19) [Re: GPU ANN, how to deal with host-device latencies?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=67347#p761239) by [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic"), [CCC](CCC "CCC"), May 06, 2018
-1. [↑](#cite_ref-20) [NVIDIA Ampere Architecture In-Depth | NVIDIA Developer Blog](https://devblogs.nvidia.com/nvidia-ampere-architecture-in-depth/) by [Ronny Krashinsky](https://people.csail.mit.edu/ronny/), [Olivier Giroux](https://cppcast.com/guest/ogiroux/), [Stephen Jones](https://blogs.nvidia.com/blog/author/stephenjones/), [Nick Stam](https://blogs.nvidia.com/blog/author/nick-stam/) and [Sridhar Ramaswamy](https://en.wikipedia.org/wiki/Sridhar_Ramaswamy), May 14, 2020
-1. [↑](#cite_ref-21) [CUDA 11 Features Revealed | NVIDIA Developer Blog](https://devblogs.nvidia.com/cuda-11-features-revealed/) by [Pramod Ramarao](https://devblogs.nvidia.com/author/pramarao/), May 14, 2020
-1. [↑](#cite_ref-22) [Photon mapping from Wikipedia](https://en.wikipedia.org/wiki/Photon_mapping)
-1. [↑](#cite_ref-23) [Cell (microprocessor) from Wikipedia](<https://en.wikipedia.org/wiki/Cell_(microprocessor)>)
-1. [↑](#cite_ref-24) [Jetson TK1 Embedded Development Kit | NVIDIA](http://www.nvidia.com/object/jetson-tk1-embedded-dev-kit.html)
-1. [↑](#cite_ref-25) [Jetson GPU architecture](http://www.talkchess.com/forum/viewtopic.php?t=61761) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), October 18, 2016
-1. [↑](#cite_ref-26) [PowerVR from Wikipedia](https://en.wikipedia.org/wiki/PowerVR)
-1. [↑](#cite_ref-27) [Density functional theory from Wikipedia](https://en.wikipedia.org/wiki/Density_functional_theory)
-1. [↑](#cite_ref-28) [Yaron Shoham](index.php?title=Yaron_Shoham&action=edit&redlink=1 "Yaron Shoham (page does not exist)"), [Sivan Toledo](index.php?title=Sivan_Toledo&action=edit&redlink=1 "Sivan Toledo (page does not exist)") (**2002**). *[Parallel Randomized Best-First Minimax Search](https://www.sciencedirect.com/science/article/pii/S0004370202001959)*. [Artificial Intelligence](<https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)>), Vol. 137, Nos. 1-2
-1. [↑](#cite_ref-29) [Alberto Maria Segre](Alberto_Maria_Segre "Alberto Maria Segre"), [Sean Forman](index.php?title=Sean_Forman&action=edit&redlink=1 "Sean Forman (page does not exist)"), [Giovanni Resta](index.php?title=Giovanni_Resta&action=edit&redlink=1 "Giovanni Resta (page does not exist)"), [Andrew Wildenberg](index.php?title=Andrew_Wildenberg&action=edit&redlink=1 "Andrew Wildenberg (page does not exist)") (**2002**). *[Nagging: A Scalable Fault-Tolerant Paradigm for Distributed Search](https://www.sciencedirect.com/science/article/pii/S000437020200228X)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 140, Nos. 1-2
-1. [↑](#cite_ref-30) [Tesla K20 GPU Compute Processor Specifications Released | techPowerUp](http://www.techpowerup.com/173846/Tesla-K20-GPU-Compute-Processor-Specifications-Released.html)
-1. [↑](#cite_ref-31) [Parallel Thread Execution from Wikipedia](https://en.wikipedia.org/wiki/Parallel_Thread_Execution)
-1. [↑](#cite_ref-32) NVIDIA Compute PTX: Parallel Thread Execution, ISA Version 1.4, March 31, 2009, [pdf](http://www.nvidia.com/content/CUDA-ptx_isa_1.4.pdf)
-1. [↑](#cite_ref-33) [ankan-ban/perft_gpu · GitHub](https://github.com/ankan-ban/perft_gpu)
-1. [↑](#cite_ref-34) [Tensor processing unit from Wikipedia](https://en.wikipedia.org/wiki/Tensor_processing_unit)
-1. [↑](#cite_ref-35) [GeForce 20 series from Wikipedia](https://en.wikipedia.org/wiki/GeForce_20_series)
-1. [↑](#cite_ref-36) [Phoronix Test Suite from Wikipedia](https://en.wikipedia.org/wiki/Phoronix_Test_Suite)
-1. [↑](#cite_ref-37) [kernel launch latency - CUDA / CUDA Programming and Performance - NVIDIA Developer Forums](https://forums.developer.nvidia.com/t/kernel-launch-latency/62455) by LukeCuda, June 18, 2018
-1. [↑](#cite_ref-38) [Re: Generate EGTB with graphics cards?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69447&start=1) by [Graham Jones](http://www.indriid.com/), [CCC](CCC "CCC"), January 01, 2019
-1. [↑](#cite_ref-39) [Fast perft on GPU (upto 20 Billion nps w/o hashing)](http://www.talkchess.com/forum/viewtopic.php?t=48387) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), June 22, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Image](https://commons.wikimedia.org/wiki/File:NvidiaTesla.jpg) by Mahogny, February 09, 2008, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fermi white paper from Nvidia](https://www.nvidia.com/content/PDF/fermi_white_papers/NVIDIA_Fermi_Compute_Architecture_Whitepaper.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [GeForce 500 series on Wikipedia](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units#GeForce_500_series)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Graphics Core Next on Wikipedia](https://en.wikipedia.org/wiki/Graphics_Core_Next)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Radeon HD 7000 series on Wikipedia](https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units#Radeon_HD_7000_series)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [CUDA Technical_Specification on Wikipedia](https://en.wikipedia.org/wiki/CUDA#Technical_Specification)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [AMD GPU Hardware Basics](https://www.olcf.ornl.gov/wp-content/uploads/2019/10/ORNL_Application_Readiness_Workshop-AMD_GPU_Basics.pdf)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> CUDA C Programming Guide v7.0, Appendix G.COMPUTE CAPABILITIES
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> AMD Accelerated Parallel Processing OpenCL Programming Guide rev2.7, Appendix D Device Parameters, Table D.1 Parameters for 7xxx Devices
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> CUDA C Programming Guide v7.0, Chapter 5.4.1. Arithmetic Instructions
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> AMD_OpenCL_Programming_Optimization_Guide.pdf 3.0beta, Chapter 2.7.1 Instruction Bandwidths
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Re: To TPU or not to TPU...](https://talkchess.com/forum3/viewtopic.php?f=7&t=66025&p=743355#p743355) by [Rémi Coulom](R%C3%A9mi_Coulom "Rémi Coulom"), [CCC](CCC "CCC"), December 16, 2017
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [INSIDE VOLTA](https://on-demand.gputechconf.com/gtc/2017/presentation/s7798-luke-durant-inside-volta.pdf)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [AnandTech - Nvidia Turing Deep Dive page 6](https://www.anandtech.com/show/13282/nvidia-turing-architecture-deep-dive/6)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Wikipedia - Ampere microarchitecture](<https://en.wikipedia.org/wiki/Ampere_(microarchitecture)#Details>)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [- Ada Lovelace microarchitecture](<https://en.wikipedia.org/wiki/Ada_Lovelace_(microarchitecture)>)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [host-device latencies?](https://devtalk.nvidia.com/default/topic/1047965/cuda-programming-and-performance/host-device-latencies-/post/5318041/#5318041) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), Nvidia CUDA ZONE, Feb 28, 2019
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [host-device latencies?](https://community.amd.com/thread/237337#comment-2902071) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic") AMD Developer Community, Feb 28, 2019
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Re: GPU ANN, how to deal with host-device latencies?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=67347#p761239) by [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic"), [CCC](CCC "CCC"), May 06, 2018
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [NVIDIA Ampere Architecture In-Depth | NVIDIA Developer Blog](https://devblogs.nvidia.com/nvidia-ampere-architecture-in-depth/) by [Ronny Krashinsky](https://people.csail.mit.edu/ronny/), [Olivier Giroux](https://cppcast.com/guest/ogiroux/), [Stephen Jones](https://blogs.nvidia.com/blog/author/stephenjones/), [Nick Stam](https://blogs.nvidia.com/blog/author/nick-stam/) and [Sridhar Ramaswamy](https://en.wikipedia.org/wiki/Sridhar_Ramaswamy), May 14, 2020
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [CUDA 11 Features Revealed | NVIDIA Developer Blog](https://devblogs.nvidia.com/cuda-11-features-revealed/) by [Pramod Ramarao](https://devblogs.nvidia.com/author/pramarao/), May 14, 2020
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Photon mapping from Wikipedia](https://en.wikipedia.org/wiki/Photon_mapping)
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Cell (microprocessor) from Wikipedia](<https://en.wikipedia.org/wiki/Cell_(microprocessor)>)
+1. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Jetson TK1 Embedded Development Kit | NVIDIA](http://www.nvidia.com/object/jetson-tk1-embedded-dev-kit.html)
+1. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Jetson GPU architecture](http://www.talkchess.com/forum/viewtopic.php?t=61761) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), October 18, 2016
+1. <a id="cite-ref-26" href="#cite-note-26">↑</a> [PowerVR from Wikipedia](https://en.wikipedia.org/wiki/PowerVR)
+1. <a id="cite-ref-27" href="#cite-note-27">↑</a> [Density functional theory from Wikipedia](https://en.wikipedia.org/wiki/Density_functional_theory)
+1. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Yaron Shoham](index.php?title=Yaron_Shoham&action=edit&redlink=1 "Yaron Shoham (page does not exist)"), [Sivan Toledo](index.php?title=Sivan_Toledo&action=edit&redlink=1 "Sivan Toledo (page does not exist)") (**2002**). *[Parallel Randomized Best-First Minimax Search](https://www.sciencedirect.com/science/article/pii/S0004370202001959)*. [Artificial Intelligence](<https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)>), Vol. 137, Nos. 1-2
+1. <a id="cite-ref-29" href="#cite-note-29">↑</a> [Alberto Maria Segre](Alberto_Maria_Segre "Alberto Maria Segre"), [Sean Forman](index.php?title=Sean_Forman&action=edit&redlink=1 "Sean Forman (page does not exist)"), [Giovanni Resta](index.php?title=Giovanni_Resta&action=edit&redlink=1 "Giovanni Resta (page does not exist)"), [Andrew Wildenberg](index.php?title=Andrew_Wildenberg&action=edit&redlink=1 "Andrew Wildenberg (page does not exist)") (**2002**). *[Nagging: A Scalable Fault-Tolerant Paradigm for Distributed Search](https://www.sciencedirect.com/science/article/pii/S000437020200228X)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 140, Nos. 1-2
+1. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Tesla K20 GPU Compute Processor Specifications Released | techPowerUp](http://www.techpowerup.com/173846/Tesla-K20-GPU-Compute-Processor-Specifications-Released.html)
+1. <a id="cite-ref-31" href="#cite-note-31">↑</a> [Parallel Thread Execution from Wikipedia](https://en.wikipedia.org/wiki/Parallel_Thread_Execution)
+1. <a id="cite-ref-32" href="#cite-note-32">↑</a> NVIDIA Compute PTX: Parallel Thread Execution, ISA Version 1.4, March 31, 2009, [pdf](http://www.nvidia.com/content/CUDA-ptx_isa_1.4.pdf)
+1. <a id="cite-ref-33" href="#cite-note-33">↑</a> [ankan-ban/perft_gpu · GitHub](https://github.com/ankan-ban/perft_gpu)
+1. <a id="cite-ref-34" href="#cite-note-34">↑</a> [Tensor processing unit from Wikipedia](https://en.wikipedia.org/wiki/Tensor_processing_unit)
+1. <a id="cite-ref-35" href="#cite-note-35">↑</a> [GeForce 20 series from Wikipedia](https://en.wikipedia.org/wiki/GeForce_20_series)
+1. <a id="cite-ref-36" href="#cite-note-36">↑</a> [Phoronix Test Suite from Wikipedia](https://en.wikipedia.org/wiki/Phoronix_Test_Suite)
+1. <a id="cite-ref-37" href="#cite-note-37">↑</a> [kernel launch latency - CUDA / CUDA Programming and Performance - NVIDIA Developer Forums](https://forums.developer.nvidia.com/t/kernel-launch-latency/62455) by LukeCuda, June 18, 2018
+1. <a id="cite-ref-38" href="#cite-note-38">↑</a> [Re: Generate EGTB with graphics cards?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69447&start=1) by [Graham Jones](http://www.indriid.com/), [CCC](CCC "CCC"), January 01, 2019
+1. <a id="cite-ref-39" href="#cite-note-39">↑</a> [Fast perft on GPU (upto 20 Billion nps w/o hashing)](http://www.talkchess.com/forum/viewtopic.php?t=48387) by [Ankan Banerjee](Ankan_Banerjee "Ankan Banerjee"), [CCC](CCC "CCC"), June 22, 2013
 
 **[Up one Level](Hardware "Hardware")**
 

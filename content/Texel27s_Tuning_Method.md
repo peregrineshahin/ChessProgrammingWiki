@@ -5,29 +5,29 @@ title: Texel27s Tuning Method
 
 
 
-[ Texel and Gaviotas stay tuned on [Ynys Echni](https://en.wikipedia.org/wiki/Flat_Holm) [[1]](#cite_note-1)
+[ Texel and Gaviotas stay tuned on [Ynys Echni](https://en.wikipedia.org/wiki/Flat_Holm) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Texel's Tuning Method**,  
 
-by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund") as applied to [Texel 1.03](Texel#1.03 "Texel") and following versions [[2]](#cite_note-2) is a concrete instance of a [logistic regression](Automated_Tuning#LogisticRegression "Automated Tuning") [[3]](#cite_note-3) . This page is a slightly edited reprint of a reply to [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué") [[4]](#cite_note-4) and subsequent postings in a [CCC](CCC "CCC") discussion about [automated tuning](Automated_Tuning "Automated Tuning") initiated by [Tom Likens](Tom_Likens "Tom Likens") in January 2014 [[5]](#cite_note-5) . As mentioned in a further reply [[6]](#cite_note-6) , a similar technique was already proposed by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora") in 2009, as applied to [Gaviota](Gaviota "Gaviota") [[7]](#cite_note-7) . 
+by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund") as applied to [Texel 1.03](Texel#1.03 "Texel") and following versions <a id="cite-note-2" href="#cite-ref-2">[2]</a> is a concrete instance of a [logistic regression](Automated_Tuning#LogisticRegression "Automated Tuning") <a id="cite-note-3" href="#cite-ref-3">[3]</a> . This page is a slightly edited reprint of a reply to [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué") <a id="cite-note-4" href="#cite-ref-4">[4]</a> and subsequent postings in a [CCC](CCC "CCC") discussion about [automated tuning](Automated_Tuning "Automated Tuning") initiated by [Tom Likens](Tom_Likens "Tom Likens") in January 2014 <a id="cite-note-5" href="#cite-ref-5">[5]</a> . As mentioned in a further reply <a id="cite-note-6" href="#cite-ref-6">[6]</a> , a similar technique was already proposed by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora") in 2009, as applied to [Gaviota](Gaviota "Gaviota") <a id="cite-note-7" href="#cite-ref-7">[7]</a> . 
 
 
 
 ## Advantages
 
 
-One big advantage of this method is that it can simultaneously optimize several hundreds of evaluation function parameters in a reasonable amount of time. The first step that collects a set of games does not take any extra time, because those games have already been played when previous changes to the engine were tested. The step that converts from [PGN](Portable_Game_Notation "Portable Game Notation") to FEN only takes a few minutes. The time consuming step is to compute the local minimum. In my engine M is currently around 400 and computing the gradient takes around 25 minutes on a 16-core Dell T620 computer [[16]](#cite_note-16) . A local minimum can usually be computed within 6 hours, faster if only small changes to the parameter values are needed.
+One big advantage of this method is that it can simultaneously optimize several hundreds of evaluation function parameters in a reasonable amount of time. The first step that collects a set of games does not take any extra time, because those games have already been played when previous changes to the engine were tested. The step that converts from [PGN](Portable_Game_Notation "Portable Game Notation") to FEN only takes a few minutes. The time consuming step is to compute the local minimum. In my engine M is currently around 400 and computing the gradient takes around 25 minutes on a 16-core Dell T620 computer <a id="cite-note-16" href="#cite-ref-16">[16]</a> . A local minimum can usually be computed within 6 hours, faster if only small changes to the parameter values are needed.
 
 
 While 6 hours may seem like a lot, consider how long it would take [CLOP](CLOP "CLOP") to simultaneously optimize 400 parameters (assuming you have enough memory to actually do that). I have not worked out the math but I guess it would take at least ten years to get reliable results.
 
 
-Another advantage is that no external source of [knowledge](Knowledge "Knowledge") is needed. You don't need to find a large set of games played by engines or humans that are stronger than the engine you want to improve. While this may not be a practical advantage for the current [strength](Playing_Strength "Playing Strength") of my engine, I still find this property theoretically pleasing, somewhat similar to the concept of self [calibration](https://en.wikipedia.org/wiki/Calibration) [[17]](#cite_note-17) .
+Another advantage is that no external source of [knowledge](Knowledge "Knowledge") is needed. You don't need to find a large set of games played by engines or humans that are stronger than the engine you want to improve. While this may not be a practical advantage for the current [strength](Playing_Strength "Playing Strength") of my engine, I still find this property theoretically pleasing, somewhat similar to the concept of self [calibration](https://en.wikipedia.org/wiki/Calibration) <a id="cite-note-17" href="#cite-ref-17">[17]</a> .
 
 
 A third advantage is that the need for different evaluation terms to be "[orthogonal](https://en.wikipedia.org/wiki/Orthogonality#Statistics.2C_econometrics.2C_and_economics)" disappears, since the optimization will automatically deal with dependencies between evaluation terms.
 
 
-A fourth advantage, compared to the method used by [Amir Ban](Amir_Ban "Amir Ban") to tune the [Junior](Junior "Junior") evaluation function [[18]](#cite_note-18) , is that my method does not need the implementation of a "drawishness" function in the chess engine.
+A fourth advantage, compared to the method used by [Amir Ban](Amir_Ban "Amir Ban") to tune the [Junior](Junior "Junior") evaluation function <a id="cite-note-18" href="#cite-ref-18">[18]</a> , is that my method does not need the implementation of a "drawishness" function in the chess engine.
 
 
 
@@ -104,7 +104,7 @@ Another interesting approach is to apply data mining techniques on the residuals
 ## Pseudo Code
 
 
-of a local optimization routine [[19]](#cite_note-19)
+of a local optimization routine <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 
 
 
@@ -187,7 +187,7 @@ vector<int> localOptimize(const vector<int>& initialGuess) {
 
 * [Optimization algorithm for the Texel/Gaviota tuning method](http://www.talkchess.com/forum/viewtopic.php?t=55265) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), February 09, 2015
 * [Experiments with eval tuning](http://www.talkchess.com/forum/viewtopic.php?t=55621) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), March 10, 2015 » [Arasan](Arasan "Arasan")
-* [txt: automated chess engine tuning](http://www.talkchess.com/forum/viewtopic.php?t=55696) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi"), [CCC](CCC "CCC"), March 18, 2015 [[20]](#cite_note-20)
+* [txt: automated chess engine tuning](http://www.talkchess.com/forum/viewtopic.php?t=55696) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi"), [CCC](CCC "CCC"), March 18, 2015 <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 
 
  [Re: txt: automated chess engine tuning](http://www.talkchess.com/forum/viewtopic.php?t=55696&start=108) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), February 15, 2016 » [SmarThink](SmarThink "SmarThink")
@@ -249,7 +249,7 @@ vector<int> localOptimize(const vector<int>& initialGuess) {
 
 
 * [Tool and data for Texel Tuning](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74221) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), June 18, 2020
-* [Question on Texel's Tuning Method](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74416) by Josh Odom, [CCC](CCC "CCC"), July 08, 2020 [[21]](#cite_note-21)
+* [Question on Texel's Tuning Method](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74416) by Josh Odom, [CCC](CCC "CCC"), July 08, 2020 <a id="cite-note-21" href="#cite-ref-21">[21]</a>
 * [Evaluation & Tuning in Chess Engines](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74877) by [Andrew Grant](Andrew_Grant "Andrew Grant"), [CCC](CCC "CCC"), August 24, 2020 » [Ethereal](Ethereal "Ethereal")
 
 
@@ -281,7 +281,7 @@ vector<int> localOptimize(const vector<int>& initialGuess) {
 * [Logistic regression from Wikipedia](https://en.wikipedia.org/wiki/Logistic_regression)
 * [The texel way of tuning](http://macechess.blogspot.de/2014/03/the-texel-way-of-tuning_10.html) by [Thomas Petzke](Thomas_Petzke "Thomas Petzke"), [mACE Chess](http://macechess.blogspot.de/), March 10, 2014 » [iCE](ICE "ICE")
 * [Some more tuning results](http://macechess.blogspot.de/2014/03/some-more-tuning-results.html) by [Thomas Petzke](Thomas_Petzke "Thomas Petzke"), [mACE Chess](http://macechess.blogspot.de/), March 22, 2014
-* [NEWUOA from Wikipedia](https://en.wikipedia.org/wiki/NEWUOA) [[22]](#cite_note-22)
+* [NEWUOA from Wikipedia](https://en.wikipedia.org/wiki/NEWUOA) <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 * [zurichess/txt — Bitbucket](https://bitbucket.org/zurichess/txt) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi")
 * [Самообучение шахматной программы / Хабрахабр](https://habrahabr.ru/post/305604/) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [Habrahabr](https://en.wikipedia.org/wiki/Habrahabr), July 21, 2016 (Russian) [translated](https://translate.google.com/translate?sl=ru&tl=en&js=y&prev=_t&hl=de&ie=UTF-8&u=https%3A%2F%2Fhabrahabr.ru%2Fpost%2F305604%2F&edit-text=) by [Google Translate](https://en.wikipedia.org/wiki/Google_Translate) » [GreKo](GreKo "GreKo")
 
@@ -289,28 +289,28 @@ vector<int> localOptimize(const vector<int>& initialGuess) {
 ## References
 
 
-1. [↑](#cite_ref-1) [Texel sheep](https://en.wikipedia.org/wiki/Texel_%28sheep%29) and [gulls](https://en.wikipedia.org/wiki/Gull), [Flat Holm Island](https://en.wikipedia.org/wiki/Flat_Holm), [Wales](https://en.wikipedia.org/wiki/Wales), Photo by [Sam Whitfield](http://www.flickr.com/people/8007352@N06), March 20, 2010, [Category:Texel (sheep) - Wikimedia Commons](http://commons.wikimedia.org/wiki/Category:Texel_%28sheep%29)
-2. [↑](#cite_ref-2) [The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=555522&t=50823) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 31, 2014 » [Automated Tuning](Automated_Tuning "Automated Tuning")
-3. [↑](#cite_ref-3) [Re: Piece weights with regression analysis (in Russian)](http://www.talkchess.com/forum/viewtopic.php?t=56168&start=36) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), May 04, 2015
-4. [↑](#cite_ref-4) [Re: How Do You Automatically Tune Your Evaluation Tables](http://www.talkchess.com/forum/viewtopic.php?t=50823&start=10) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), January 08, 2014
-5. [↑](#cite_ref-5) [How Do You Automatically Tune Your Evaluation Tables](http://www.talkchess.com/forum/viewtopic.php?t=50823) by [Tom Likens](Tom_Likens "Tom Likens"), [CCC](CCC "CCC"), January 07, 2014
-6. [↑](#cite_ref-6) [Re: The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?t=50823&start=28) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), January 31, 2014
-7. [↑](#cite_ref-7) [Re: Insanity... or Tal style?](http://www.talkchess.com/forum/viewtopic.php?t=27266&postdays=0&postorder=asc&topic_view=&start=11) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), April 02, 2009
-8. [↑](#cite_ref-8) [Partition of sums of squares - Wikipedia](https://en.wikipedia.org/wiki/Partition_of_sums_of_squares)
-9. [↑](#cite_ref-9) [Re: Why computing K that minimizes the sigmoid func. value?](http://www.talkchess.com/forum/viewtopic.php?t=58298&start=46) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), November 29, 2015
-10. [↑](#cite_ref-10) [Sigmoid function from Wikipedia](https://en.wikipedia.org/wiki/Sigmoid_function)
-11. [↑](#cite_ref-11) [Logistic function from Wikipedia](https://en.wikipedia.org/wiki/Logistic_function)
-12. [↑](#cite_ref-12) see also winning probability W in [Pawn Advantage, Win Percentage, and Elo](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo")
-13. [↑](#cite_ref-13) [log-linear 1 / (1 + 10^(-s/4)) , s=-10 to 10](http://wolfr.am/1al3d5B) plot by [Wolfram Alpha](https://en.wikipedia.org/wiki/Wolfram_Alpha)
-14. [↑](#cite_ref-14) [Re: Experiments with eval tuning](http://www.talkchess.com/forum/viewtopic.php?t=55621&start=4) by [Martin Sedlak](Martin_Sedlak "Martin Sedlak"), [CCC](CCC "CCC"), March 10, 2015
-15. [↑](#cite_ref-15) [Why computing K that minimizes the sigmoid func. value?...](http://www.talkchess.com/forum/viewtopic.php?t=58298) by [Michael Hoffmann](Michael_Hoffmann "Michael Hoffmann"), [CCC](CCC "CCC"), November 19, 2015
-16. [↑](#cite_ref-16) [Dell PowerEdge T620 review | ZDNet](http://www.zdnet.com/dell-poweredge-t620-review-7000003879/)
-17. [↑](#cite_ref-17) [What is Self-Calibration?](http://www.selfcalibration.com/)
-18. [↑](#cite_ref-18) [Amir Ban](Amir_Ban "Amir Ban") (**2012**). *[Automatic Learning of Evaluation, with Applications to Computer Chess](http://www.ratio.huji.ac.il/node/2362)*. Discussion Paper 613, [The Hebrew University of Jerusalem](https://en.wikipedia.org/wiki/Hebrew_University_of_Jerusalem) - Center for the Study of Rationality, [Givat Ram](https://en.wikipedia.org/wiki/Givat_Ram)
-19. [↑](#cite_ref-19) [Re: The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?t=50823&start=40) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), February 05, 2014
-20. [↑](#cite_ref-20) [brtzsnr / txt — Bitbucket](https://bitbucket.org/brtzsnr/txt) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi")
-21. [↑](#cite_ref-21) [Central limit theorem from Wikipedia](https://en.wikipedia.org/wiki/Central_limit_theorem)
-22. [↑](#cite_ref-22) [Re: The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?t=50823&start=94) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), March 12, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Texel sheep](https://en.wikipedia.org/wiki/Texel_%28sheep%29) and [gulls](https://en.wikipedia.org/wiki/Gull), [Flat Holm Island](https://en.wikipedia.org/wiki/Flat_Holm), [Wales](https://en.wikipedia.org/wiki/Wales), Photo by [Sam Whitfield](http://www.flickr.com/people/8007352@N06), March 20, 2010, [Category:Texel (sheep) - Wikimedia Commons](http://commons.wikimedia.org/wiki/Category:Texel_%28sheep%29)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=555522&t=50823) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), January 31, 2014 » [Automated Tuning](Automated_Tuning "Automated Tuning")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Piece weights with regression analysis (in Russian)](http://www.talkchess.com/forum/viewtopic.php?t=56168&start=36) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [CCC](CCC "CCC"), May 04, 2015
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: How Do You Automatically Tune Your Evaluation Tables](http://www.talkchess.com/forum/viewtopic.php?t=50823&start=10) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), January 08, 2014
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [How Do You Automatically Tune Your Evaluation Tables](http://www.talkchess.com/forum/viewtopic.php?t=50823) by [Tom Likens](Tom_Likens "Tom Likens"), [CCC](CCC "CCC"), January 07, 2014
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?t=50823&start=28) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), January 31, 2014
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Insanity... or Tal style?](http://www.talkchess.com/forum/viewtopic.php?t=27266&postdays=0&postorder=asc&topic_view=&start=11) by [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora"), [CCC](CCC "CCC"), April 02, 2009
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Partition of sums of squares - Wikipedia](https://en.wikipedia.org/wiki/Partition_of_sums_of_squares)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: Why computing K that minimizes the sigmoid func. value?](http://www.talkchess.com/forum/viewtopic.php?t=58298&start=46) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), November 29, 2015
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Sigmoid function from Wikipedia](https://en.wikipedia.org/wiki/Sigmoid_function)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Logistic function from Wikipedia](https://en.wikipedia.org/wiki/Logistic_function)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> see also winning probability W in [Pawn Advantage, Win Percentage, and Elo](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [log-linear 1 / (1 + 10^(-s/4)) , s=-10 to 10](http://wolfr.am/1al3d5B) plot by [Wolfram Alpha](https://en.wikipedia.org/wiki/Wolfram_Alpha)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Re: Experiments with eval tuning](http://www.talkchess.com/forum/viewtopic.php?t=55621&start=4) by [Martin Sedlak](Martin_Sedlak "Martin Sedlak"), [CCC](CCC "CCC"), March 10, 2015
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Why computing K that minimizes the sigmoid func. value?...](http://www.talkchess.com/forum/viewtopic.php?t=58298) by [Michael Hoffmann](Michael_Hoffmann "Michael Hoffmann"), [CCC](CCC "CCC"), November 19, 2015
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Dell PowerEdge T620 review | ZDNet](http://www.zdnet.com/dell-poweredge-t620-review-7000003879/)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [What is Self-Calibration?](http://www.selfcalibration.com/)
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Amir Ban](Amir_Ban "Amir Ban") (**2012**). *[Automatic Learning of Evaluation, with Applications to Computer Chess](http://www.ratio.huji.ac.il/node/2362)*. Discussion Paper 613, [The Hebrew University of Jerusalem](https://en.wikipedia.org/wiki/Hebrew_University_of_Jerusalem) - Center for the Study of Rationality, [Givat Ram](https://en.wikipedia.org/wiki/Givat_Ram)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Re: The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?t=50823&start=40) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), February 05, 2014
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [brtzsnr / txt — Bitbucket](https://bitbucket.org/brtzsnr/txt) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi")
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Central limit theorem from Wikipedia](https://en.wikipedia.org/wiki/Central_limit_theorem)
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Re: The texel evaluation function optimization algorithm](http://www.talkchess.com/forum/viewtopic.php?t=50823&start=94) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), March 12, 2014
 
 **[Up one Level](Automated_Tuning "Automated Tuning")**
 

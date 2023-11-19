@@ -3,16 +3,16 @@ title: Hex
 ---
 **[Home](Home "Home") * [Games](Games "Games") * Hex**
 
-\[ A rendering of a Hex game on a 19x19 board [[1]](#cite_note-1)
+\[ A rendering of a Hex game on a 19x19 board <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Hex**,
 
-a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [zero-sum](https://en.wikipedia.org/wiki/Zero-sum_%28game_theory%29) and [perfect information](https://en.wikipedia.org/wiki/Perfect_information) [abstract strategy](https://en.wikipedia.org/wiki/Abstract_strategy), [connection](https://en.wikipedia.org/wiki/Connection_game) [board game](https://en.wikipedia.org/wiki/Board_game) played on a [hexagonal grid](https://en.wikipedia.org/wiki/Hex_map) composed of [hexagons](https://en.wikipedia.org/wiki/Hexagon) [[2]](#cite_note-2) arranged in an n × n [orthodiagonal](https://en.wikipedia.org/wiki/Orthodiagonal_quadrilateral) [Quadrilateral](https://en.wikipedia.org/wiki/Quadrilateral), most common an 11x11, 13x13 or 19x19 [Rhombus](https://en.wikipedia.org/wiki/Rhombus). The goal is to connect the opposing sides of own colors with own stones - or to prevent the opponent from doing so, by alternately placing stones on a single cell.
+a [two-player](https://en.wikipedia.org/wiki/Two-player_game) [zero-sum](https://en.wikipedia.org/wiki/Zero-sum_%28game_theory%29) and [perfect information](https://en.wikipedia.org/wiki/Perfect_information) [abstract strategy](https://en.wikipedia.org/wiki/Abstract_strategy), [connection](https://en.wikipedia.org/wiki/Connection_game) [board game](https://en.wikipedia.org/wiki/Board_game) played on a [hexagonal grid](https://en.wikipedia.org/wiki/Hex_map) composed of [hexagons](https://en.wikipedia.org/wiki/Hexagon) <a id="cite-note-2" href="#cite-ref-2">[2]</a> arranged in an n × n [orthodiagonal](https://en.wikipedia.org/wiki/Orthodiagonal_quadrilateral) [Quadrilateral](https://en.wikipedia.org/wiki/Quadrilateral), most common an 11x11, 13x13 or 19x19 [Rhombus](https://en.wikipedia.org/wiki/Rhombus). The goal is to connect the opposing sides of own colors with own stones - or to prevent the opponent from doing so, by alternately placing stones on a single cell.
 
 ## History
 
-Hex was invented by the Danish mathematician [Piet Hein](https://en.wikipedia.org/wiki/Piet_Hein_%28Denmark%29) called Polygon, appeared in the Danish newspaper [Politiken](https://en.wikipedia.org/wiki/Politiken) on December 26, 1942, and independently by the American mathematician [John Nash](Mathematician#JFNash "Mathematician") in 1947, who, according to the biography [A Beautiful Mind](https://en.wikipedia.org/wiki/A_Beautiful_Mind_%28book%29), advocated 14x14 as the optimal size. In 1952 [Parker Brothers](https://en.wikipedia.org/wiki/Parker_Brothers) marketed a version called Hex and the name stuck [[3]](#cite_note-3) .
+Hex was invented by the Danish mathematician [Piet Hein](https://en.wikipedia.org/wiki/Piet_Hein_%28Denmark%29) called Polygon, appeared in the Danish newspaper [Politiken](https://en.wikipedia.org/wiki/Politiken) on December 26, 1942, and independently by the American mathematician [John Nash](Mathematician#JFNash "Mathematician") in 1947, who, according to the biography [A Beautiful Mind](https://en.wikipedia.org/wiki/A_Beautiful_Mind_%28book%29), advocated 14x14 as the optimal size. In 1952 [Parker Brothers](https://en.wikipedia.org/wiki/Parker_Brothers) marketed a version called Hex and the name stuck <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
-Since [2000](5th_Computer_Olympiad#Hex "5th Computer Olympiad"), Computer Hex is regularly played at the [Computer Olympiads](Computer_Olympiad "Computer Olympiad"). In 2003, 7x7 Hex was [solved](https://en.wikipedia.org/wiki/Solved_game) by [Ryan Hayward](Ryan_Hayward "Ryan Hayward"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Michael Johanson](index.php?title=Michael_Johanson&action=edit&redlink=1 "Michael Johanson (page does not exist)"), [Morgan Kan](index.php?title=Morgan_Kan&action=edit&redlink=1 "Morgan Kan (page does not exist)"), [Nathan Po](index.php?title=Nathan_Po&action=edit&redlink=1 "Nathan Po (page does not exist)"), [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)") [[4]](#cite_note-4) .
+Since [2000](5th_Computer_Olympiad#Hex "5th Computer Olympiad"), Computer Hex is regularly played at the [Computer Olympiads](Computer_Olympiad "Computer Olympiad"). In 2003, 7x7 Hex was [solved](https://en.wikipedia.org/wiki/Solved_game) by [Ryan Hayward](Ryan_Hayward "Ryan Hayward"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Michael Johanson](index.php?title=Michael_Johanson&action=edit&redlink=1 "Michael Johanson (page does not exist)"), [Morgan Kan](index.php?title=Morgan_Kan&action=edit&redlink=1 "Morgan Kan (page does not exist)"), [Nathan Po](index.php?title=Nathan_Po&action=edit&redlink=1 "Nathan Po (page does not exist)"), [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)") <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
 ## [Computer Olympiads](Computer_Olympiad "Computer Olympiad")
 
@@ -31,12 +31,12 @@ Since [2000](5th_Computer_Olympiad#Hex "5th Computer Olympiad"), Computer Hex is
 ## Photos
 
 [](File:WolveTeam2.JPG)
-Members of the [Wolve Team](https://www.game-ai-forum.org/icga-tournaments/program.php?id=135) at the [Computer Olympiad, Turin 2006](11th_Computer_Olympiad#Hex "11th Computer Olympiad") [[5]](#cite_note-5)\
+Members of the [Wolve Team](https://www.game-ai-forum.org/icga-tournaments/program.php?id=135) at the [Computer Olympiad, Turin 2006](11th_Computer_Olympiad#Hex "11th Computer Olympiad") <a id="cite-note-5" href="#cite-ref-5">[5]</a>\
 [Ryan Hayward](Ryan_Hayward "Ryan Hayward"), [Philip Henderson](index.php?title=Philip_Henderson&action=edit&redlink=1 "Philip Henderson (page does not exist)") and [Broderick Arneson](index.php?title=Broderick_Arneson&action=edit&redlink=1 "Broderick Arneson (page does not exist)") (operating [Hex Kriger](https://www.game-ai-forum.org/icga-tournaments/program.php?id=136))
 
 ## [](File:HexKrigerWolve.JPG) Hex Programs
 
-[[6]](#cite_note-6)
+<a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 |  Programs
 |  Authors
@@ -61,11 +61,11 @@ Members of the [Wolve Team](https://www.game-ai-forum.org/icga-tournaments/progr
 
 ## Publications
 
-[[7]](#cite_note-7) [[8]](#cite_note-8)
+<a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ## 1953
 
-- [Claude E. Shannon](Claude_Shannon "Claude Shannon") (**1953**). *[Computers and Automata](https://ieeexplore.ieee.org/document/4051186)*. [Proceedings of the Institute of Radio Engineers](https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers), Vol. 41, No. 10 [[9]](#cite_note-9) [[10]](#cite_note-10) [[11]](#cite_note-11)
+- [Claude E. Shannon](Claude_Shannon "Claude Shannon") (**1953**). *[Computers and Automata](https://ieeexplore.ieee.org/document/4051186)*. [Proceedings of the Institute of Radio Engineers](https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers), Vol. 41, No. 10 <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ## 1959
 
@@ -78,7 +78,7 @@ Members of the [Wolve Team](https://www.game-ai-forum.org/icga-tournaments/progr
 ## 1980 ...
 
 - [Claude Berge](Mathematician#CBerge "Mathematician") (**1981**). *Some remarks about the Hex problem*. in [David A. Klarner](http://www.plambeck.org/oldhtml/mathematics/klarner/) (ed): *The Mathematical Gardner*, pages 25-27. Wadsworth International, [amazon.com](http://www.amazon.com/Mathematical-Gardner-David-Klarner/dp/0534980155)
-- [Stefan Reisch](Mathematician#SReisch "Mathematician") (**1981**). *[Hex ist PSPACE-vollständig](http://www.springerlink.com/content/v6k3233j5725892p/)*. [Acta Informatica Vol. 15, No. 2](http://ftp.math.utah.edu/pub//tex/bib/toc/actainfo.html#15%282%29:December:1981) (German) [[12]](#cite_note-12) [[13]](#cite_note-13)
+- [Stefan Reisch](Mathematician#SReisch "Mathematician") (**1981**). *[Hex ist PSPACE-vollständig](http://www.springerlink.com/content/v6k3233j5725892p/)*. [Acta Informatica Vol. 15, No. 2](http://ftp.math.utah.edu/pub//tex/bib/toc/actainfo.html#15%282%29:December:1981) (German) <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 - [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (**1988**). *Algorithms for Games*. Springer-Verlag, New York, NY. ISBN 3-540-96629-3. [amazon.com](http://www.amazon.com/Algorithms-Games-Georgy-M-Adelson-Velsky/dp/0387966293)
 
 ## 2000 ...
@@ -86,7 +86,7 @@ Members of the [Wolve Team](https://www.game-ai-forum.org/icga-tournaments/progr
 - [Vadim Anshelevich](Vadim_Anshelevich "Vadim Anshelevich") (**2000**). *[The Game of Hex: The Hierarchical Approach](http://www.msri.org/workshops/104/schedules/12860)*. Combinatorial Game Theory Workshop, [MSRI, Berkeley](https://en.wikipedia.org/wiki/Mathematical_Sciences_Research_Institute), [pdf](http://library.msri.org/books/Book42/files/anshel.pdf)
 - [Cameron Browne](Cameron_Browne "Cameron Browne") (**2000**). *[Hex Strategy: Making the Right Connections](http://www.crcpress.com/product/isbn/9781568811178)*. [A K Peters](https://en.wikipedia.org/wiki/A_K_Peters,_Ltd.)
 - [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)") (**2000**). *Computer Hex: Are Bees better than Fruitflies?* M.Sc. Thesis, [University of Alberta](University_of_Alberta "University of Alberta"), [pdf](http://sites.google.com/site/javhar1/AreBeesBetterThanFruitfliesThesis.pdf)
-- [Vadim Anshelevich](Vadim_Anshelevich "Vadim Anshelevich") (**2000**). *[The Game of Hex: An Automatic Theorem Proving Approach to Game Programming](http://portal.acm.org/citation.cfm?id=721449)*. Proceedings of the Seventeenth National Conference on Artificial Intelligence, [pdf](http://home.earthlink.net/%7Evanshel/VAnshelevich-01.pdf) [[14]](#cite_note-14)
+- [Vadim Anshelevich](Vadim_Anshelevich "Vadim Anshelevich") (**2000**). *[The Game of Hex: An Automatic Theorem Proving Approach to Game Programming](http://portal.acm.org/citation.cfm?id=721449)*. Proceedings of the Seventeenth National Conference on Artificial Intelligence, [pdf](http://home.earthlink.net/%7Evanshel/VAnshelevich-01.pdf) <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 - [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)") (**2000**). *Partition Search in Hex*. [5th Computer Olympiad Workshop](5th_Computer_Olympiad#Workshop "5th Computer Olympiad")
 - [Vadim Anshelevich](Vadim_Anshelevich "Vadim Anshelevich") (**2000**). *The Game of Hex: The Hierarchical Approach and its Discovery*. [5th Computer Olympiad Workshop](5th_Computer_Olympiad#Workshop "5th Computer Olympiad")
 - [Vadim Anshelevich](Vadim_Anshelevich "Vadim Anshelevich") (**2000**). *Hexy wins Hex Tournament*. [ICGA Journal, Vol. 23, No. 3](ICGA_Journal#23_3 "ICGA Journal")
@@ -153,7 +153,7 @@ Members of the [Wolve Team](https://www.game-ai-forum.org/icga-tournaments/progr
 - [Broderick Arneson](index.php?title=Broderick_Arneson&action=edit&redlink=1 "Broderick Arneson (page does not exist)"), [Ryan Hayward](Ryan_Hayward "Ryan Hayward"), [Philip Henderson](index.php?title=Philip_Henderson&action=edit&redlink=1 "Philip Henderson (page does not exist)") (**2010**). *MoHex wins Hex Tournament*. [ICGA Journal, Vol. 33, No. 3](ICGA_Journal#33_3 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~hayward/papers/rptKanazawa.pdf) » [15th Computer Olympiad](15th_Computer_Olympiad#Hex "15th Computer Olympiad")
 - [Broderick Arneson](index.php?title=Broderick_Arneson&action=edit&redlink=1 "Broderick Arneson (page does not exist)"), [Ryan Hayward](Ryan_Hayward "Ryan Hayward"), [Philip Henderson](index.php?title=Philip_Henderson&action=edit&redlink=1 "Philip Henderson (page does not exist)") (**2010**). *Solving Hex: Beyond Humans*. [CG 2010](CG_2010 "CG 2010"), [pdf](http://webdocs.cs.ualberta.ca/%7Ehayward/papers/beyond.pdf)
 - [Broderick Arneson](index.php?title=Broderick_Arneson&action=edit&redlink=1 "Broderick Arneson (page does not exist)"), [Ryan Hayward](Ryan_Hayward "Ryan Hayward"), [Philip Henderson](index.php?title=Philip_Henderson&action=edit&redlink=1 "Philip Henderson (page does not exist)") (**2010**). *Monte Carlo Tree Search in Hex*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 2, No. 4, [pdf](http://webdocs.cs.ualberta.ca/%7Ehayward/papers/mcts-hex.pdf)
-- [Philip Henderson](index.php?title=Philip_Henderson&action=edit&redlink=1 "Philip Henderson (page does not exist)") (**2010**). *Playing and Solving the Game of Hex*. (Ph.D. thesis under committee review [[15]](#cite_note-15) ), [pdf](http://webdocs.cs.ualberta.ca/%7Eph/Henderson-Philip-Fall2010.pdf)
+- [Philip Henderson](index.php?title=Philip_Henderson&action=edit&redlink=1 "Philip Henderson (page does not exist)") (**2010**). *Playing and Solving the Game of Hex*. (Ph.D. thesis under committee review <a id="cite-note-15" href="#cite-ref-15">[15]</a> ), [pdf](http://webdocs.cs.ualberta.ca/%7Eph/Henderson-Philip-Fall2010.pdf)
 
 **2011**
 
@@ -231,21 +231,21 @@ Members of the [Wolve Team](https://www.game-ai-forum.org/icga-tournaments/progr
 
 ## References
 
-1. [↑](#cite_ref-1) [Hex (board game) from Wikipedia](https://en.wikipedia.org/wiki/Hex_%28board_game%29)
-1. [↑](#cite_ref-2) [Honeycomb from Wikipedia](https://en.wikipedia.org/wiki/Honeycomb)
-1. [↑](#cite_ref-3) [History of Hex - HexWiki](http://www.hexwiki.org/index.php?title=History_of_Hex)
-1. [↑](#cite_ref-4) [Ryan Hayward](Ryan_Hayward "Ryan Hayward"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Michael Johanson](index.php?title=Michael_Johanson&action=edit&redlink=1 "Michael Johanson (page does not exist)"), [Morgan Kan](index.php?title=Morgan_Kan&action=edit&redlink=1 "Morgan Kan (page does not exist)"), [Nathan Po](index.php?title=Nathan_Po&action=edit&redlink=1 "Nathan Po (page does not exist)"), [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)") (**2003**). *Solving 7x7 Hex: Virtual Connections and Game-state Reduction*. [Advances in Computer Games 10](Advances_in_Computer_Games_10 "Advances in Computer Games 10"), [pdf](http://www.ru.is/faculty/yngvi/pdf/HaywardBJKPR03.pdf)
-1. [↑](#cite_ref-5) [Ryan Hayward](Ryan_Hayward "Ryan Hayward") (**2006**). *Six Wins Hex Tournament*. [ICGA Journal, Vol. 29, No 3](ICGA_Journal#29_3 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~hayward/papers/rptTorino.pdf)
-1. [↑](#cite_ref-6) [Hex (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/game.php?id=7)
-1. [↑](#cite_ref-7) <https://sites.google.com/site/javhar1/hexbibliography> Hex bibliography\] by [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)")
-1. [↑](#cite_ref-8) [Javhar publications](https://sites.google.com/site/javhar1/javharpublications) by [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)")
-1. [↑](#cite_ref-9) In [Vadim Anshelevich](Vadim_Anshelevich "Vadim Anshelevich") (**2002**). *[A hierarchical approach to computer Hex](https://www.sciencedirect.com/science/article/pii/S0004370201001540)*. [Artificial Intelligence](<https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)>), Chips challenging champions: games, computers and Artificial Intelligence, [pdf](https://www.cs.auckland.ac.nz/courses/compsci767s2c/resources/VAnshelevich-ARTINT.pdf), [Vadim Anshelevich](Vadim_Anshelevich "Vadim Anshelevich") acknowledged [Claude Shannon](Claude_Shannon "Claude Shannon"), who build an analogue Hex-playing machine using electrical [resistor](https://en.wikipedia.org/wiki/Resistor) circuits, which was model in Anshelevich's program [Hexy](https://www.game-ai-forum.org/icga-tournaments/program.php?id=131)
-1. [↑](#cite_ref-10) Hex is a special case of the [Shannon Switching Game](https://en.wikipedia.org/wiki/Shannon_switching_game), from [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)") (**2003**). *Search and evaluation in Hex*. Technical report, [University of Alberta](University_of_Alberta "University of Alberta"), [pdf](http://home.fuse.net/swmeyers/y-hex.pdf)
-1. [↑](#cite_ref-11) [Thomas Fischer](http://www.althofer.de/3-hirn-grant--fischer.html) (**2009**). *Bridg-It – Beating Shannon’s Analog Heuristic*. [pdf](http://www.minet.uni-jena.de/Math-Net/reports/sources/2009/09-07report.pdf)
-1. [↑](#cite_ref-12) [PSPACE from Wikipedia](https://en.wikipedia.org/wiki/PSPACE)
-1. [↑](#cite_ref-13) [PSPACE-complete from Wikipedia](https://en.wikipedia.org/wiki/PSPACE-complete)
-1. [↑](#cite_ref-14) [AAAI-2000 Outstanding Paper Awards](http://www.aaai.org/Awards/paper.php)
-1. [↑](#cite_ref-15) [Philip Henderson's Research Page](http://webdocs.cs.ualberta.ca/~ph/research.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Hex (board game) from Wikipedia](https://en.wikipedia.org/wiki/Hex_%28board_game%29)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Honeycomb from Wikipedia](https://en.wikipedia.org/wiki/Honeycomb)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [History of Hex - HexWiki](http://www.hexwiki.org/index.php?title=History_of_Hex)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ryan Hayward](Ryan_Hayward "Ryan Hayward"), [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson"), [Michael Johanson](index.php?title=Michael_Johanson&action=edit&redlink=1 "Michael Johanson (page does not exist)"), [Morgan Kan](index.php?title=Morgan_Kan&action=edit&redlink=1 "Morgan Kan (page does not exist)"), [Nathan Po](index.php?title=Nathan_Po&action=edit&redlink=1 "Nathan Po (page does not exist)"), [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)") (**2003**). *Solving 7x7 Hex: Virtual Connections and Game-state Reduction*. [Advances in Computer Games 10](Advances_in_Computer_Games_10 "Advances in Computer Games 10"), [pdf](http://www.ru.is/faculty/yngvi/pdf/HaywardBJKPR03.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Ryan Hayward](Ryan_Hayward "Ryan Hayward") (**2006**). *Six Wins Hex Tournament*. [ICGA Journal, Vol. 29, No 3](ICGA_Journal#29_3 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~hayward/papers/rptTorino.pdf)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hex (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/game.php?id=7)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> <https://sites.google.com/site/javhar1/hexbibliography> Hex bibliography\] by [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Javhar publications](https://sites.google.com/site/javhar1/javharpublications) by [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)")
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> In [Vadim Anshelevich](Vadim_Anshelevich "Vadim Anshelevich") (**2002**). *[A hierarchical approach to computer Hex](https://www.sciencedirect.com/science/article/pii/S0004370201001540)*. [Artificial Intelligence](<https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)>), Chips challenging champions: games, computers and Artificial Intelligence, [pdf](https://www.cs.auckland.ac.nz/courses/compsci767s2c/resources/VAnshelevich-ARTINT.pdf), [Vadim Anshelevich](Vadim_Anshelevich "Vadim Anshelevich") acknowledged [Claude Shannon](Claude_Shannon "Claude Shannon"), who build an analogue Hex-playing machine using electrical [resistor](https://en.wikipedia.org/wiki/Resistor) circuits, which was model in Anshelevich's program [Hexy](https://www.game-ai-forum.org/icga-tournaments/program.php?id=131)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> Hex is a special case of the [Shannon Switching Game](https://en.wikipedia.org/wiki/Shannon_switching_game), from [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)") (**2003**). *Search and evaluation in Hex*. Technical report, [University of Alberta](University_of_Alberta "University of Alberta"), [pdf](http://home.fuse.net/swmeyers/y-hex.pdf)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Thomas Fischer](http://www.althofer.de/3-hirn-grant--fischer.html) (**2009**). *Bridg-It – Beating Shannon’s Analog Heuristic*. [pdf](http://www.minet.uni-jena.de/Math-Net/reports/sources/2009/09-07report.pdf)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [PSPACE from Wikipedia](https://en.wikipedia.org/wiki/PSPACE)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [PSPACE-complete from Wikipedia](https://en.wikipedia.org/wiki/PSPACE-complete)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [AAAI-2000 Outstanding Paper Awards](http://www.aaai.org/Awards/paper.php)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Philip Henderson's Research Page](http://webdocs.cs.ualberta.ca/~ph/research.html)
 
 **[Up one Level](Games "Games")**
 

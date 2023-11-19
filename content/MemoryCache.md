@@ -5,7 +5,7 @@ title: MemoryCache
 
 
 
-[ [RNA](https://en.wikipedia.org/wiki/RNA), biological [data storage](https://en.wikipedia.org/wiki/Data_storage_device) [[1]](#cite_note-1)
+[ [RNA](https://en.wikipedia.org/wiki/RNA), biological [data storage](https://en.wikipedia.org/wiki/Data_storage_device) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Memory** is the ability to [store](https://en.wikipedia.org/wiki/Store), retain, and [recall](https://en.wikipedia.org/wiki/Recall_%28memory%29) [information](https://en.wikipedia.org/wiki/Information) and [experiences](https://en.wikipedia.org/wiki/Experience) as researched in [cognitive science](Cognition "Cognition"). Computer memory refers to [physical devices](https://en.wikipedia.org/wiki/Peripheral) used to store [data](Data "Data") and sequences of instructions ([programs](index.php?title=Program&action=edit&redlink=1 "Program (page does not exist)")) on a temporary or permanent basis, typically distinguished as fast [random-access memory](https://en.wikipedia.org/wiki/Random_access_memory) and relatively slow [data storage](https://en.wikipedia.org/wiki/Computer_data_storage). 
 
 
@@ -73,7 +73,7 @@ N-Bit latches are [arrays](Array "Array") of one-bit latches or flip-flops typic
 
 
 [
-DRAM write at a 4 by 4 array [[7]](#cite_note-7)
+DRAM write at a 4 by 4 array <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 
 
@@ -81,12 +81,12 @@ DRAM write at a 4 by 4 array [[7]](#cite_note-7)
 ## ROM
 
 
-[Read-only memory](https://en.wikipedia.org/wiki/Read-only_memory) (ROM) is a class of storage programmed once and mainly used to distribute [firmware](https://en.wikipedia.org/wiki/Firmware). [EPROMs](https://en.wikipedia.org/wiki/EPROM) have a small quartz window which admits UV light for erasure [[8]](#cite_note-8) . ROM or EPROM were often embedded inside a [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) in conjunction with some RAM. They were often used in [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers").
+[Read-only memory](https://en.wikipedia.org/wiki/Read-only_memory) (ROM) is a class of storage programmed once and mainly used to distribute [firmware](https://en.wikipedia.org/wiki/Firmware). [EPROMs](https://en.wikipedia.org/wiki/EPROM) have a small quartz window which admits UV light for erasure <a id="cite-note-8" href="#cite-ref-8">[8]</a> . ROM or EPROM were often embedded inside a [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) in conjunction with some RAM. They were often used in [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers").
 
 
 
 [
-[National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor) [EPROMs 2764 and 2716](https://en.wikipedia.org/wiki/EPROM#EPROM_generations,_sizes_and_types) [[9]](#cite_note-9)
+[National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor) [EPROMs 2764 and 2716](https://en.wikipedia.org/wiki/EPROM#EPROM_generations,_sizes_and_types) <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 Since each data-bit stored in a ROM is a boolean function of its inputs or address, a ROM is also used to implement [combinatorial logic](Combinatorial_Logic "Combinatorial Logic").
@@ -113,7 +113,7 @@ Beside the computer's random access main memory, [auxiliary storage](https://en.
 
 
  [](http://www.chesscomputeruk.com/html/intelligent_chess.html) 
-[Compact Cassette](https://en.wikipedia.org/wiki/Compact_Cassette) as Auxiliary Storage in [Intelligent Chess](Intelligent_Chess "Intelligent Chess") [[10]](#cite_note-10)
+[Compact Cassette](https://en.wikipedia.org/wiki/Compact_Cassette) as Auxiliary Storage in [Intelligent Chess](Intelligent_Chess "Intelligent Chess") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 
 
@@ -140,7 +140,7 @@ Beside the computer's random access main memory, [auxiliary storage](https://en.
 * [Secure Digital (SD)](https://en.wikipedia.org/wiki/Secure_Digital)
 * [Serial ATA](https://en.wikipedia.org/wiki/Serial_ATA)
 * [Parallel ATA](https://en.wikipedia.org/wiki/Parallel_ATA)
-* [3D XPoint from Wikipedia](https://en.wikipedia.org/wiki/3D_XPoint) [[11]](#cite_note-11)
+* [3D XPoint from Wikipedia](https://en.wikipedia.org/wiki/3D_XPoint) <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 
 ## Historical Data Storage
@@ -206,7 +206,7 @@ Todays processors utilize all the above types of memory from small and fast to l
 |  |  |
 | --- | --- |
 | [Page table actions.svg](File:Page_table_actions.svg) | [Virtual address space and physical address space relationship.svg](File:Virtual_address_space_and_physical_address_space_relationship.svg) |
-| [Physical address](https://en.wikipedia.org/wiki/Physical_address) translation [[12]](#cite_note-12) |  Virtual and physical address space [[13]](#cite_note-13) |
+| [Physical address](https://en.wikipedia.org/wiki/Physical_address) translation <a id="cite-note-12" href="#cite-ref-12">[12]</a> |  Virtual and physical address space <a id="cite-note-13" href="#cite-ref-13">[13]</a> |
 
 
 * [Virtual memory from Wikipedia](https://en.wikipedia.org/wiki/Virtual_memory)
@@ -474,7 +474,7 @@ Beside their individual [memory footprint](https://en.wikipedia.org/wiki/Memory_
 ### 1970 ...
 
 
-* [Paul W. Purdom](Paul_W._Purdom "Paul W. Purdom"), [Stephen M. Stigler](Mathematician#SMStigler "Mathematician") (**1970**). *[Statistical Properties of the Buddy System](https://www.semanticscholar.org/paper/Statistical-Properties-of-the-Buddy-System-Purdom-Stigler/36ffdc1a3960dd9874d676176d1e4bd48c99b528)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 17, No. 4 [[14]](#cite_note-14)
+* [Paul W. Purdom](Paul_W._Purdom "Paul W. Purdom"), [Stephen M. Stigler](Mathematician#SMStigler "Mathematician") (**1970**). *[Statistical Properties of the Buddy System](https://www.semanticscholar.org/paper/Statistical-Properties-of-the-Buddy-System-Purdom-Stigler/36ffdc1a3960dd9874d676176d1e4bd48c99b528)*. [Journal of the ACM](ACM#Journal "ACM"), Vol. 17, No. 4 <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 * [Donald Eastlake](Donald_Eastlake "Donald Eastlake") (**1977**). *[Tertiary Memory Access and Performance in the Datacomputer](http://www.informatik.uni-trier.de/~ley/db/conf/vldb/Eastlake77.html)*. [VLDB 1977](http://www.informatik.uni-trier.de/~ley/db/conf/vldb/vldb77.html#Eastlake77)
 
 
@@ -496,8 +496,8 @@ Beside their individual [memory footprint](https://en.wikipedia.org/wiki/Memory_
 * [Hermann Kaindl](Hermann_Kaindl "Hermann Kaindl"), Gerhard Kainz, Angelika Leeb, Harald Smetana (**1995**). *How to use limited memory in heuristic search*. [IJCAI 1995](Conferences#IJCAI1995 "Conferences")
 * [Matteo Frigo](Matteo_Frigo "Matteo Frigo") (**1997**). *The weakest reasonable memory model.* Masters Thesis, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), Department of Electrical Engineering and Computer Science, [pdf](http://supertech.csail.mit.edu/papers/frigo-ms-thesis.pdf)
 * [Dennis Breuker](Dennis_Breuker "Dennis Breuker") (**1998**). *Memory versus Search in Games*. Ph.D. thesis, [Maastricht University](Maastricht_University "Maastricht University"), pdf available via [Dennis Breuker's page](http://www.dennisbreuker.nl/thesis/index.html)
-* [Harald Prokop](Harald_Prokop "Harald Prokop") (**1999**). *Cache-Oblivious Algorithms*. Masters thesis, Department of Electrical Engineering and Computer Science, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/Prokop99.pdf) [[15]](#cite_note-15)
-* [Erik D. Demaine](Erik_D._Demaine "Erik D. Demaine"), [J. Ian Munro](Mathematician#JIMunro "Mathematician") (**1999**). *[Fast Allocation and Deallocation with an Improved Buddy System](http://erikdemaine.org/papers/Buddy_FSTTCS99/)*. [FSTTCS 1999](https://dblp.uni-trier.de/db/conf/fsttcs/fsttcs99.html), [Lecture Notes in Computer Science](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science), Vol. 1738, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media) [[16]](#cite_note-16)
+* [Harald Prokop](Harald_Prokop "Harald Prokop") (**1999**). *Cache-Oblivious Algorithms*. Masters thesis, Department of Electrical Engineering and Computer Science, [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/Prokop99.pdf) <a id="cite-note-15" href="#cite-ref-15">[15]</a>
+* [Erik D. Demaine](Erik_D._Demaine "Erik D. Demaine"), [J. Ian Munro](Mathematician#JIMunro "Mathematician") (**1999**). *[Fast Allocation and Deallocation with an Improved Buddy System](http://erikdemaine.org/papers/Buddy_FSTTCS99/)*. [FSTTCS 1999](https://dblp.uni-trier.de/db/conf/fsttcs/fsttcs99.html), [Lecture Notes in Computer Science](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science), Vol. 1738, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media) <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 
 ### 2000 ...
@@ -522,12 +522,12 @@ Beside their individual [memory footprint](https://en.wikipedia.org/wiki/Memory_
 
 
 * [Aaron Becker](Aaron_Becker "Aaron Becker"), [Gengbin Zheng](http://charm.cs.uiuc.edu/people/gengbinzheng), [Laxmikant Kale](Mathematician#LaxKale "Mathematician") (**2011**). *Distributed Memory Load Balancing*. [Encyclopedia of Parallel Computing](http://www.springer.com/computer/swe/book/978-0-387-09765-7), [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
-* [George Church](https://en.wikipedia.org/wiki/George_Church), [Yuan Gao](http://www.bme.jhu.edu/people/primary.php?id=1045), [Sriram Kosuri](http://openwetware.org/wiki/Sriram_Kosuri) (**2012**). *[Next-Generation Digital Information Storage in DNA](http://www.sciencemag.org/content/early/2012/08/15/science.1226355)*. [Science](https://en.wikipedia.org/wiki/Science_%28journal%29) [[17]](#cite_note-17) [[18]](#cite_note-18)
+* [George Church](https://en.wikipedia.org/wiki/George_Church), [Yuan Gao](http://www.bme.jhu.edu/people/primary.php?id=1045), [Sriram Kosuri](http://openwetware.org/wiki/Sriram_Kosuri) (**2012**). *[Next-Generation Digital Information Storage in DNA](http://www.sciencemag.org/content/early/2012/08/15/science.1226355)*. [Science](https://en.wikipedia.org/wiki/Science_%28journal%29) <a id="cite-note-17" href="#cite-ref-17">[17]</a> <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 * [Matteo Frigo](Matteo_Frigo "Matteo Frigo"), [Charles Leiserson](Charles_Leiserson "Charles Leiserson"), [Harald Prokop](Harald_Prokop "Harald Prokop"), [Sridhar Ramachandran](https://dblp.uni-trier.de/pers/hd/r/Ramachandran:Sridhar) (**2012**). *Cache-Oblivious Algorithms*. [ACM Transactions on Algorithms](ACM#TALG "ACM"), Vol. 8, No. 1, [pdf](http://supertech.csail.mit.edu/papers/FrigoLePr12.pdf)
 * [Aravinthan Athmanathan](https://scholar.google.com/citations?user=1y6pRmEAAAAJ&hl=en), [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic"), [Junho Cheon](https://dblp.org/pers/hd/c/Cheon:Junho), [Seokjoon Kang](https://dblp.org/pers/hd/k/Kang:Seokjoon), [Changyong Ahn](https://dblp.org/pers/hd/a/Ahn:Changyong), [Junghyuk Yoon](https://dblp.org/pers/hd/y/Yoon:Junghyuk), [Min-Chul Shin](https://dblp.org/pers/hd/s/Shin:Min=Chul), [Taekseung Kim](https://dblp.org/pers/hd/k/Kim:Taekseung), [Nikolaos Papandreou](https://dblp.uni-trier.de/pers/hd/p/Papandreou:Nikolaos), [Haralampos Pozidis](https://scholar.google.co.uk/citations?user=FhioCGgAAAAJ&hl=en), [Evangelos Eleftheriou](https://en.wikipedia.org/wiki/Evangelos_S._Eleftheriou) (**2014**). *[A 6-bit drift-resilient readout scheme for multi-level Phase-Change Memory](https://www.semanticscholar.org/paper/A-6-bit-drift-resilient-readout-scheme-for-Memory-Athmanathan-Stanisavljevic/072d918e90ffc33c7d07b724a27964ce6062e874)*. [A-SSCC 2014](https://dblp.org/db/conf/asscc/asscc2014.html)
 * [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic"), [Aravinthan Athmanathan](https://scholar.google.com/citations?user=1y6pRmEAAAAJ&hl=en), [Nikolaos Papandreou](https://dblp.uni-trier.de/pers/hd/p/Papandreou:Nikolaos), [Haralampos Pozidis](https://scholar.google.co.uk/citations?user=FhioCGgAAAAJ&hl=en), [Evangelos Eleftheriou](https://en.wikipedia.org/wiki/Evangelos_S._Eleftheriou) (**2015**). *[Phase-change memory: Feasibility of reliable multilevel-cell storage and retention at elevated temperatures](https://www.semanticscholar.org/paper/Phase-change-memory%3A-Feasibility-of-reliable-and-at-Stanisavljevic-Athmanathan/96eef8ca0b005c467031fe66503cbb77e6e9df34)*. [IRPS 2015](https://dblp.org/db/conf/irps/irps2015.html)
 * [Aravinthan Athmanathan](https://scholar.google.com/citations?user=1y6pRmEAAAAJ&hl=en), [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic"), [Nikolaos Papandreou](https://dblp.uni-trier.de/pers/hd/p/Papandreou:Nikolaos), [Haralampos Pozidis](https://scholar.google.co.uk/citations?user=FhioCGgAAAAJ&hl=en), [Evangelos Eleftheriou](https://en.wikipedia.org/wiki/Evangelos_S._Eleftheriou) (**2016**). *[Multilevel-Cell Phase-Change Memory: A Viable Technology](https://ieeexplore.ieee.org/document/7428956)*. [IEEE Journal of Emerging and Selected Topics in Circuits and Systems, Vol. 6](https://dblp.org/db/journals/esticas/esticas6.html), No. 1
-* [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [Karol Kurach](https://ai.google/research/people/KarolKurach), [Marcin Michalski](http://dblp.uni-trier.de/pers/hd/m/Michalski:Marcin), [Xiaohua Zhai](https://sites.google.com/site/xzhai89/) (**2018**). *MemGEN: Memory is All You Need*. [arXiv:1803.11203](https://arxiv.org/abs/1803.11203) [[19]](#cite_note-19)
+* [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [Karol Kurach](https://ai.google/research/people/KarolKurach), [Marcin Michalski](http://dblp.uni-trier.de/pers/hd/m/Michalski:Marcin), [Xiaohua Zhai](https://sites.google.com/site/xzhai89/) (**2018**). *MemGEN: Memory is All You Need*. [arXiv:1803.11203](https://arxiv.org/abs/1803.11203) <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 * [Milos Stanisavljevic](Milos_Stanisavljevic "Milos Stanisavljevic"), [Thomas Mittelholzer](https://scholar.google.com/citations?user=a7g7yY8AAAAJ&hl=en), [Nikolaos Papandreou](https://dblp.uni-trier.de/pers/hd/p/Papandreou:Nikolaos), [Thomas P. Parnell](https://dblp.org/pers/hd/p/Parnell:Thomas_P=), [Haralampos Pozidis](https://scholar.google.co.uk/citations?user=FhioCGgAAAAJ&hl=en) (**2018**). *[Drift-Invariant Detection for Multilevel Phase-Change Memory](https://ieeexplore.ieee.org/document/8351740)*. [ISCAS 2018](https://dblp.org/db/conf/iscas/iscas2018.html#StanisavljevicM18)
 
 
@@ -555,7 +555,7 @@ Beside their individual [memory footprint](https://en.wikipedia.org/wiki/Memory_
 ### 1980 ...
 
 
-* [Marvin Minsky](Marvin_Minsky "Marvin Minsky") (**1980**). *K-Lines: A Theory of Memory*. Cognitive Science 4, 117-133, [pdf](http://csjarchive.cogsci.rpi.edu/1980v04/i02/p0117p0133/MAIN.PDF) [[20]](#cite_note-20)
+* [Marvin Minsky](Marvin_Minsky "Marvin Minsky") (**1980**). *K-Lines: A Theory of Memory*. Cognitive Science 4, 117-133, [pdf](http://csjarchive.cogsci.rpi.edu/1980v04/i02/p0117p0133/MAIN.PDF) <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 * [Dennis H. Holding](index.php?title=Dennis_H._Holding&action=edit&redlink=1 "Dennis H. Holding (page does not exist)"), [Robert I. Reynolds](Robert_I._Reynolds "Robert I. Reynolds") (**1982**). *[Recall or Evaluation of Chess Positions as Determinants of Chess Skill](https://link.springer.com/article/10.3758/BF03197635)*. [Memory & Cognition](https://www.springer.com/journal/13421), Vol. 10, No. 3
 * [A. Harry Klopf](A._Harry_Klopf "A. Harry Klopf") (**1982**). *The Hedonistic Neuron: A Theory of Memory, Learning, and Intelligence*. Hemisphere Publishing Corporation, [University of Michigan](University_of_Michigan "University of Michigan")
 
@@ -577,7 +577,7 @@ Beside their individual [memory footprint](https://en.wikipedia.org/wiki/Memory_
 ### 2000 ...
 
 
-* [Pertti Saariluoma](index.php?title=Pertti_Saariluoma&action=edit&redlink=1 "Pertti Saariluoma (page does not exist)"), [Tei Laine](index.php?title=Tei_Laine&action=edit&redlink=1 "Tei Laine (page does not exist)") (**2001**). *[Novice construction of chess memory](http://onlinelibrary.wiley.com/doi/10.1111/1467-9450.00223/abstract)*. [Scandinavian Journal of Psychology](http://psychology.wikia.com/wiki/Scandinavian_Journal_of_Psychology), Vol. 42, No. 2 [[21]](#cite_note-21)
+* [Pertti Saariluoma](index.php?title=Pertti_Saariluoma&action=edit&redlink=1 "Pertti Saariluoma (page does not exist)"), [Tei Laine](index.php?title=Tei_Laine&action=edit&redlink=1 "Tei Laine (page does not exist)") (**2001**). *[Novice construction of chess memory](http://onlinelibrary.wiley.com/doi/10.1111/1467-9450.00223/abstract)*. [Scandinavian Journal of Psychology](http://psychology.wikia.com/wiki/Scandinavian_Journal_of_Psychology), Vol. 42, No. 2 <a id="cite-note-21" href="#cite-ref-21">[21]</a>
 * [Dharshan Kumaran](Dharshan_Kumaran "Dharshan Kumaran"), [Eleanor A. Maguire](https://en.wikipedia.org/wiki/Eleanor_Maguire) (**2005**). *[The Human Hippocampus: Cognitive Maps or Relational Memory](http://www.jneurosci.org/content/25/31/7254.short)?* [Journal of Neuroscience](https://en.wikipedia.org/wiki/The_Journal_of_Neuroscience), Vol. 25, No. 31
 * [Guillermo Campitelli](index.php?title=Guillermo_Campitelli&action=edit&redlink=1 "Guillermo Campitelli (page does not exist)"), [Fernand Gobet](Fernand_Gobet "Fernand Gobet"), Amanda Parker (**2005**). *Structure and Stimulus Familiarity: A Study of Memory in Chess-Players with Functional Magnetic Resonance Imaging*. The Spanish Journal of Psychology Vol. 8, No. 2, 238-245. [pdf](http://www.estudiodepsicologia.com.ar/articles/4.pdf)
 * [Alan H. Bond](Alan_H._Bond "Alan H. Bond") (**2005**). *Representing episodic memory in a system-level model of the brain*. [Neurocomputing](http://www.elsevier.com/wps/find/journaldescription.cws_home/505628/description#description), vol 65-66, pp. 261-273, [pdf](http://www.exso.com/cns04/cns04b_pub.pdf)
@@ -630,7 +630,7 @@ Beside their individual [memory footprint](https://en.wikipedia.org/wiki/Memory_
 
 
 * [Memory question](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=43770) by [Fermin Serrano](Fermin_Serrano "Fermin Serrano"), [CCC](CCC "CCC"), May 19, 2012
-* [DNA data storage breaks records](http://www.talkchess.com/forum/viewtopic.php?t=44826) by Terry McCracken, [CCC](CCC "CCC"), August 18, 2012 [[22]](#cite_note-22)
+* [DNA data storage breaks records](http://www.talkchess.com/forum/viewtopic.php?t=44826) by Terry McCracken, [CCC](CCC "CCC"), August 18, 2012 <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 
 
 **2013**
@@ -639,7 +639,7 @@ Beside their individual [memory footprint](https://en.wikipedia.org/wiki/Memory_
 
 * [DrMemory: memory debugger tool for Windows (and Linux)](http://www.talkchess.com/forum/viewtopic.php?t=46968) by [Martin Sedlak](Martin_Sedlak "Martin Sedlak"), [CCC](CCC "CCC"), January 22, 2013 » [Debugging](Debugging "Debugging")
 * [Multi-threaded memory access](http://www.open-chess.org/viewtopic.php?f=5&t=2262) by [ThinkingALot](ThinkingALot "ThinkingALot"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), February 10, 2013 » [Thread](Thread "Thread"), [Shared Hash Table](Shared_Hash_Table "Shared Hash Table")
-* [Hybrid Memory Cube effect on computer chess](http://www.talkchess.com/forum/viewtopic.php?t=47706) by [Albert Silver](Albert_Silver "Albert Silver"), [CCC](CCC "CCC"), April 05, 2013 [[23]](#cite_note-23)
+* [Hybrid Memory Cube effect on computer chess](http://www.talkchess.com/forum/viewtopic.php?t=47706) by [Albert Silver](Albert_Silver "Albert Silver"), [CCC](CCC "CCC"), April 05, 2013 <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 * [MEM\_LARGE\_PAGES](http://www.talkchess.com/forum/viewtopic.php?t=49388) by [Alvaro Cardoso](Alvaro_Cardoso "Alvaro Cardoso"), [CCC](CCC "CCC"), September 18, 2013
 * [Multithreaded LRU](http://www.talkchess.com/forum/viewtopic.php?t=49592) by [Alvaro Cardoso](Alvaro_Cardoso "Alvaro Cardoso"), [CCC](CCC "CCC"), October 06, 2013 » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases")
 * [tablebase caching / mmap() / page cache](http://www.talkchess.com/forum/viewtopic.php?t=49702) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), October 13, 2013 » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases"), [Syzygy Bases](Syzygy_Bases "Syzygy Bases")
@@ -650,7 +650,7 @@ Beside their individual [memory footprint](https://en.wikipedia.org/wiki/Memory_
 
 
 
-* [Intel i3 L2 cache](http://www.talkchess.com/forum/viewtopic.php?t=51087) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 28, 2014 » [x86-64](X86-64 "X86-64") [[24]](#cite_note-24)
+* [Intel i3 L2 cache](http://www.talkchess.com/forum/viewtopic.php?t=51087) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 28, 2014 » [x86-64](X86-64 "X86-64") <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 * [c++11 std::atomic and memory\_order\_relaxed](http://www.talkchess.com/forum/viewtopic.php?t=51824) by Kevin Hearn, [CCC](CCC "CCC"), April 01, 2014 » [C++](Cpp "Cpp")
 * [Speculative prefetch](http://www.talkchess.com/forum/viewtopic.php?t=53849) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), September 27, 2014 » [Transposition Table](Transposition_Table "Transposition Table")
 * [Tablebase access using a Solid State Disk](http://www.talkchess.com/forum/viewtopic.php?t=54064) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), October 16, 2014 » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases")
@@ -663,7 +663,7 @@ Beside their individual [memory footprint](https://en.wikipedia.org/wiki/Memory_
 * [Low-RAM engine](http://www.talkchess.com/forum/viewtopic.php?t=55132) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 28, 2015
 * [The effect of dual channel RAM](http://www.talkchess.com/forum/viewtopic.php?t=55516) by [Volker Annuss](Volker_Annuss "Volker Annuss"), [CCC](CCC "CCC"), March 01, 2015 » [Arminius](Arminius "Arminius")
 * [One hundred thirty gigabytes](http://www.talkchess.com/forum/viewtopic.php?t=56856) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), July 03, 2015
-* [3D XPoint](http://www.talkchess.com/forum/viewtopic.php?t=57149) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), August 02, 2015 [[25]](#cite_note-25)
+* [3D XPoint](http://www.talkchess.com/forum/viewtopic.php?t=57149) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), August 02, 2015 <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 * [Hash cache](http://www.talkchess.com/forum/viewtopic.php?t=57924) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), October 12, 2015 » [Hash Table](Hash_Table "Hash Table"), [Transposition Table](Transposition_Table "Transposition Table")
 
 
@@ -774,31 +774,31 @@ from [Best Of](http://duartes.org/gustavo/blog/best-of) by [Gustavo Duarte](http
 ## References
 
 
-1. [↑](#cite_ref-1) [Data storage device from Wikipedia](https://en.wikipedia.org/wiki/Data_storage_device)
-2. [↑](#cite_ref-2) [Selbsthaltefunktion from Wikidepia.de](http://de.wikipedia.org/wiki/Selbsthaltefunktion) (German)
-3. [↑](#cite_ref-3) [Latch (electronics) from Wikipedia](https://en.wikipedia.org/wiki/Latch_%28electronics%29)
-4. [↑](#cite_ref-4) [Flip-flop (electronics) from Wikipedia](https://en.wikipedia.org/wiki/Flip-flop_%28electronics%29)
-5. [↑](#cite_ref-5) [Bits](http://ljkrakauer.com/LJK/essays/bits.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
-6. [↑](#cite_ref-6) [PDP-6 Circuit Instruction Manual, © 1966, Digital Equipment Corporation](http://bitsavers.trailing-edge.com/pdf/dec/pdp6/F-67_circuitInstr_May66.pdf) (pdf)
-7. [↑](#cite_ref-7) [Dynamic random access memory from Wikipedia](https://en.wikipedia.org/wiki/Dynamic_random_access_memory)
-8. [↑](#cite_ref-8) [How to program a 2716](http://www.6502.org/users/dallas/SYM/SYM%20Projects/2716-2532%20EPROM%20BURNER/2716-2532.htm)
-9. [↑](#cite_ref-9) [Category:EPROM 2716 - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:EPROM_2716)
-10. [↑](#cite_ref-10) [Intelligent Chess](http://www.chesscomputeruk.com/html/intelligent_chess.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
-11. [↑](#cite_ref-11) [3D XPoint](http://www.talkchess.com/forum/viewtopic.php?t=57149) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), August 02, 2015
-12. [↑](#cite_ref-12) [Page table from Wikipedia](https://en.wikipedia.org/wiki/Page_table)
-13. [↑](#cite_ref-13) [Virtual address from Wikipedia](https://en.wikipedia.org/wiki/Virtual_address)
-14. [↑](#cite_ref-14) [Buddy memory allocation from Wikipedia](https://en.wikipedia.org/wiki/Buddy_memory_allocation)
-15. [↑](#cite_ref-15) [Cache-oblivious algorithm from Wikipedia](https://en.wikipedia.org/wiki/Cache-oblivious_algorithm)
-16. [↑](#cite_ref-16) [Buddy memory allocation from Wikipedia](https://en.wikipedia.org/wiki/Buddy_memory_allocation)
-17. [↑](#cite_ref-17) [DNA data storage breaks records : Nature News & Comment](http://www.nature.com/news/dna-data-storage-breaks-records-1.11194) by [Monya Baker](http://www.nature.com/stemcells/about_editor.html), August 16, 2012
-18. [↑](#cite_ref-18) [DNA data storage breaks records](http://www.talkchess.com/forum/viewtopic.php?t=44826) by Terry McCracken, [CCC](CCC "CCC"), August 18, 2012
-19. [↑](#cite_ref-19) [April 01](https://en.wikipedia.org/wiki/April_Fools%27_Day), 2018
-20. [↑](#cite_ref-20) [K-line (artificial intelligence) from Wikipedia](https://en.wikipedia.org/wiki/K-line_%28artificial_intelligence%29)
-21. [↑](#cite_ref-21) [Fernand Gobet](Fernand_Gobet "Fernand Gobet") (**2007**). *Chunk hierarchies and retrieval structures: Comments on Saariluoma and Laine. Scandinavian Journal of Psychology, 42*. [pdf](http://dspace.brunel.ac.uk/bitstream/2438/806/1/Saariluoma_Laine_reply.pdf)
-22. [↑](#cite_ref-22) [George Church](https://en.wikipedia.org/wiki/George_Church), [Yuan Gao](http://www.bme.jhu.edu/people/primary.php?id=1045), [Sriram Kosuri](http://openwetware.org/wiki/Sriram_Kosuri) (**2012**). *[Next-Generation Digital Information Storage in DNA](http://www.sciencemag.org/content/early/2012/08/15/science.1226355)*. [Science](https://en.wikipedia.org/wiki/Science_%28journal%29)
-23. [↑](#cite_ref-23) [Hybrid Memory Cube from Wikipedia](https://en.wikipedia.org/wiki/Hybrid_Memory_Cube)
-24. [↑](#cite_ref-24) [Intel Nehalem Core i3](https://en.wikipedia.org/wiki/Intel_Core#Core_i3)
-25. [↑](#cite_ref-25) [3D XPoint from Wikipedia](https://en.wikipedia.org/wiki/3D_XPoint)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Data storage device from Wikipedia](https://en.wikipedia.org/wiki/Data_storage_device)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Selbsthaltefunktion from Wikidepia.de](http://de.wikipedia.org/wiki/Selbsthaltefunktion) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Latch (electronics) from Wikipedia](https://en.wikipedia.org/wiki/Latch_%28electronics%29)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Flip-flop (electronics) from Wikipedia](https://en.wikipedia.org/wiki/Flip-flop_%28electronics%29)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Bits](http://ljkrakauer.com/LJK/essays/bits.htm) by [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [PDP-6 Circuit Instruction Manual, © 1966, Digital Equipment Corporation](http://bitsavers.trailing-edge.com/pdf/dec/pdp6/F-67_circuitInstr_May66.pdf) (pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Dynamic random access memory from Wikipedia](https://en.wikipedia.org/wiki/Dynamic_random_access_memory)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [How to program a 2716](http://www.6502.org/users/dallas/SYM/SYM%20Projects/2716-2532%20EPROM%20BURNER/2716-2532.htm)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Category:EPROM 2716 - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:EPROM_2716)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Intelligent Chess](http://www.chesscomputeruk.com/html/intelligent_chess.html) from [Chess Computer UK](http://www.chesscomputeruk.com/index.html) by [Mike Watters](Mike_Watters "Mike Watters")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [3D XPoint](http://www.talkchess.com/forum/viewtopic.php?t=57149) by [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer"), [CCC](CCC "CCC"), August 02, 2015
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Page table from Wikipedia](https://en.wikipedia.org/wiki/Page_table)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Virtual address from Wikipedia](https://en.wikipedia.org/wiki/Virtual_address)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Buddy memory allocation from Wikipedia](https://en.wikipedia.org/wiki/Buddy_memory_allocation)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Cache-oblivious algorithm from Wikipedia](https://en.wikipedia.org/wiki/Cache-oblivious_algorithm)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Buddy memory allocation from Wikipedia](https://en.wikipedia.org/wiki/Buddy_memory_allocation)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [DNA data storage breaks records : Nature News & Comment](http://www.nature.com/news/dna-data-storage-breaks-records-1.11194) by [Monya Baker](http://www.nature.com/stemcells/about_editor.html), August 16, 2012
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [DNA data storage breaks records](http://www.talkchess.com/forum/viewtopic.php?t=44826) by Terry McCracken, [CCC](CCC "CCC"), August 18, 2012
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [April 01](https://en.wikipedia.org/wiki/April_Fools%27_Day), 2018
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [K-line (artificial intelligence) from Wikipedia](https://en.wikipedia.org/wiki/K-line_%28artificial_intelligence%29)
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Fernand Gobet](Fernand_Gobet "Fernand Gobet") (**2007**). *Chunk hierarchies and retrieval structures: Comments on Saariluoma and Laine. Scandinavian Journal of Psychology, 42*. [pdf](http://dspace.brunel.ac.uk/bitstream/2438/806/1/Saariluoma_Laine_reply.pdf)
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [George Church](https://en.wikipedia.org/wiki/George_Church), [Yuan Gao](http://www.bme.jhu.edu/people/primary.php?id=1045), [Sriram Kosuri](http://openwetware.org/wiki/Sriram_Kosuri) (**2012**). *[Next-Generation Digital Information Storage in DNA](http://www.sciencemag.org/content/early/2012/08/15/science.1226355)*. [Science](https://en.wikipedia.org/wiki/Science_%28journal%29)
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Hybrid Memory Cube from Wikipedia](https://en.wikipedia.org/wiki/Hybrid_Memory_Cube)
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Intel Nehalem Core i3](https://en.wikipedia.org/wiki/Intel_Core#Core_i3)
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [3D XPoint from Wikipedia](https://en.wikipedia.org/wiki/3D_XPoint)
 
 **[Up one Level](Hardware "Hardware")**
 

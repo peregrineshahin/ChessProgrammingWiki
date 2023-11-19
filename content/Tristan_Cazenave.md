@@ -5,17 +5,17 @@ title: Tristan Cazenave
 
 
 
- [](http://www.lamsade.dauphine.fr/%7Ecazenave/) Tristan Cazenave [[1]](#cite_note-1) 
+ [](http://www.lamsade.dauphine.fr/%7Ecazenave/) Tristan Cazenave <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Tristan Cazenave**,  
 
-a French computer scientist, games researcher, entrepreneur, and professor of Computer Science at [Lamsade](https://en.wikipedia.org/wiki/Lamsade), [Paris Dauphine University](University_of_Paris#9 "University of Paris"). In 1996, he received his Ph.D. from [Paris 6 University](University_of_Paris#6 "University of Paris") under advisor [Jacques Pitrat](Jacques_Pitrat "Jacques Pitrat") on a system, [learning](Learning "Learning") to play games by observing [[2]](#cite_note-2) . His research interests covers [search algorithms](Search "Search") and computer games. He has written programs for multiple board games and has authored more than one hundred scientific papers on [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") in [games](Games "Games"). Since 2017, along with [I-Chen Wu](I-Chen_Wu "I-Chen Wu") and [Mark Winands](Mark_Winands "Mark Winands"), Tristan Cazenave is [Editor-in-Chief](ICGA_Journal#board "ICGA Journal") of the [ICGA Journal](ICGA_Journal "ICGA Journal").
+a French computer scientist, games researcher, entrepreneur, and professor of Computer Science at [Lamsade](https://en.wikipedia.org/wiki/Lamsade), [Paris Dauphine University](University_of_Paris#9 "University of Paris"). In 1996, he received his Ph.D. from [Paris 6 University](University_of_Paris#6 "University of Paris") under advisor [Jacques Pitrat](Jacques_Pitrat "Jacques Pitrat") on a system, [learning](Learning "Learning") to play games by observing <a id="cite-note-2" href="#cite-ref-2">[2]</a> . His research interests covers [search algorithms](Search "Search") and computer games. He has written programs for multiple board games and has authored more than one hundred scientific papers on [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") in [games](Games "Games"). Since 2017, along with [I-Chen Wu](I-Chen_Wu "I-Chen Wu") and [Mark Winands](Mark_Winands "Mark Winands"), Tristan Cazenave is [Editor-in-Chief](ICGA_Journal#board "ICGA Journal") of the [ICGA Journal](ICGA_Journal "ICGA Journal").
 
 
 
 ## Selected Publications
 
 
-[[8]](#cite_note-8) [[9]](#cite_note-9)
+<a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 
@@ -101,7 +101,7 @@ a French computer scientist, games researcher, entrepreneur, and professor of Co
 
 * Tristan Cazenave (**2007**). *Playing the Right Atari*. [ICGA Journal, Vol. 30, No. 1](ICGA_Journal#30_1 "ICGA Journal"), [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/twoliberties.pdf)
 * Tristan Cazenave, [Nicolas Jouandeau](index.php?title=Nicolas_Jouandeau&action=edit&redlink=1 "Nicolas Jouandeau (page does not exist)") (**2007**). *On the Parallelization of UCT*. [CGW 2007](CGW_2007 "CGW 2007"), [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/parallelUCT.pdf)
-* Tristan Cazenave (**2007**). *Reflexive Monte-Carlo Search*. [CGW 2007](CGW_2007 "CGW 2007"), [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/reflexmc.pdf) [[10]](#cite_note-10)
+* Tristan Cazenave (**2007**). *Reflexive Monte-Carlo Search*. [CGW 2007](CGW_2007 "CGW 2007"), [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/reflexmc.pdf) <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 * [Michel Quenault](index.php?title=Michel_Quenault&action=edit&redlink=1 "Michel Quenault (page does not exist)"), Tristan Cazenave (**2007**). *Extended General Gaming Model*. [CGW 2007](CGW_2007 "CGW 2007"), [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/extendedggmodel.pdf)
 * Tristan Cazenave, [Clyde Kruskal](Clyde_Kruskal "Clyde Kruskal"), [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy") (**2007**). *Computer Games Workshop 2007*. [ICGA Journal, Vol. 30, No. 2](ICGA_Journal#30_2 "ICGA Journal") » [CGW 2007](CGW_2007 "CGW 2007")
 * Tristan Cazenave, [Joris Bosboom](index.php?title=Joris_Bosboom&action=edit&redlink=1 "Joris Bosboom (page does not exist)") (**2007**). *GoLois wins Phantom Go tournament*. [ICGA Journal, Vol. 30, No. 3](ICGA_Journal#30_3 "ICGA Journal"), [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/reportPhantomGo2007.pdf) » [12th Computer Olympiad#PhantomGo](12th_Computer_Olympiad#PhantomGo "12th Computer Olympiad")
@@ -193,7 +193,7 @@ a French computer scientist, games researcher, entrepreneur, and professor of Co
 * [Jialin Liu](index.php?title=Jialin_Liu&action=edit&redlink=1 "Jialin Liu (page does not exist)"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud"), Tristan Cazenave (**2016**). *Fast seed-learning algorithms for games*. [CG 2016](CG_2016 "CG 2016")
 * Tristan Cazenave, [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine"), [Michael Schofield](index.php?title=Michael_Schofield&action=edit&redlink=1 "Michael Schofield (page does not exist)"), [Michael Thielscher](Michael_Thielscher "Michael Thielscher") (**2016**). *Nested Monte Carlo Search for Two-Player Games*. [AAAI 2016](Conferences#AAAI-2016 "Conferences"), [pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12134/11652)
 * [Mark Winands](Mark_Winands "Mark Winands"), Tristan Cazenave (**2017**). *IJCAI Computer Games Workshop 2015*. [ICGA Journal, Vol. 39, No. 1](ICGA_Journal#39_1 "ICGA Journal") » [IJCAI 2015](Conferences#IJCAI2015 "Conferences")
-* Tristan Cazenave (**2017**). *[Residual Networks for Computer Go](http://ieeexplore.ieee.org/document/7875402/)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. PP, No. 99, [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/resnet.pdf) [[11]](#cite_note-11)
+* Tristan Cazenave (**2017**). *[Residual Networks for Computer Go](http://ieeexplore.ieee.org/document/7875402/)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. PP, No. 99, [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/resnet.pdf) <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 * Tristan Cazenave (**2017**). *Improved Policy Networks for Computer Go*. [Advances in Computer Games 15](Advances_in_Computer_Games_15 "Advances in Computer Games 15"), [pdf](http://www.lamsade.dauphine.fr/~cazenave/papers/gofairsbn.pdf)
 * Tristan Cazenave (**2017**). *[Nested Rollout Policy Adaptation with Selective Policies](https://link.springer.com/chapter/10.1007/978-3-319-57969-6_4)*. [Computer Games](https://link.springer.com/book/10.1007%2F978-3-319-57969-6)
 * Tristan Cazenave, [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine"), [Nathan Sturtevant](Nathan_Sturtevant "Nathan Sturtevant") (**2019**). *Computer Games Workshop at IJCAI 2018*. [ICGA Journal, Vol. 41, No. 2](ICGA_Journal#41_2 "ICGA Journal")
@@ -232,17 +232,17 @@ a French computer scientist, games researcher, entrepreneur, and professor of Co
 ## References
 
 
-1. [↑](#cite_ref-1) [Tristan Cazenave homepage](http://www.lamsade.dauphine.fr/%7Ecazenave/)
-2. [↑](#cite_ref-2) Tristan Cazenave (**1996**). *Systeme d'Apprentissage par Auto-Observation. Application au Jeu de Go*. Ph.D. thesis, [Universite Pierre et Marie Curie, Paris 6](University_of_Paris#6 "University of Paris"), advisor [Jacques Pitrat](Jacques_Pitrat "Jacques Pitrat"), [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/these.pdf)
-3. [↑](#cite_ref-3) [Gobble](http://www.cgl.ucsf.edu/home/pett/go/Programs/Gobble.html)
-4. [↑](#cite_ref-4) [Tristan Cazenave - Biography](http://www.lamsade.dauphine.fr/%7Ecazenave/)
-5. [↑](#cite_ref-5) [Go Variants - Phantom go](http://www.win.tue.nl/%7Eengels/go/variants.html#phantom)
-6. [↑](#cite_ref-6) [Jean Méhat](Jean_M%C3%A9hat "Jean Méhat"), Tristan Cazenave (**2008**). *Ary: A Program for General Game Playing*. [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/poster2008.pdf)
-7. [↑](#cite_ref-7) Tristan Cazenave (**2009**). *Nested Monte-Carlo Search*. [IJCAI 2009](http://www.informatik.uni-trier.de/%7Eley/db/conf/ijcai/ijcai2009.html#Cazenave09), [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/nested.pdf)
-8. [↑](#cite_ref-8) [Tristan Cazenave - Papers Sorted by Year](http://www.lamsade.dauphine.fr/%7Ecazenave/)
-9. [↑](#cite_ref-9) [DBLP: Tristan Cazenave](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/c/Cazenave:Tristan.html)
-10. [↑](#cite_ref-10) [Morpion solitaire from Wikipedia](https://en.wikipedia.org/wiki/Join_Five)
-11. [↑](#cite_ref-11) [Residual Networks for Computer Go](http://www.talkchess.com/forum/viewtopic.php?t=65923) by Brahim Hamadicharef, [CCC](CCC "CCC"), December 07, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Tristan Cazenave homepage](http://www.lamsade.dauphine.fr/%7Ecazenave/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Tristan Cazenave (**1996**). *Systeme d'Apprentissage par Auto-Observation. Application au Jeu de Go*. Ph.D. thesis, [Universite Pierre et Marie Curie, Paris 6](University_of_Paris#6 "University of Paris"), advisor [Jacques Pitrat](Jacques_Pitrat "Jacques Pitrat"), [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/these.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Gobble](http://www.cgl.ucsf.edu/home/pett/go/Programs/Gobble.html)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Tristan Cazenave - Biography](http://www.lamsade.dauphine.fr/%7Ecazenave/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Go Variants - Phantom go](http://www.win.tue.nl/%7Eengels/go/variants.html#phantom)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jean Méhat](Jean_M%C3%A9hat "Jean Méhat"), Tristan Cazenave (**2008**). *Ary: A Program for General Game Playing*. [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/poster2008.pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Tristan Cazenave (**2009**). *Nested Monte-Carlo Search*. [IJCAI 2009](http://www.informatik.uni-trier.de/%7Eley/db/conf/ijcai/ijcai2009.html#Cazenave09), [pdf](http://www.lamsade.dauphine.fr/%7Ecazenave/papers/nested.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Tristan Cazenave - Papers Sorted by Year](http://www.lamsade.dauphine.fr/%7Ecazenave/)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [DBLP: Tristan Cazenave](http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/c/Cazenave:Tristan.html)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Morpion solitaire from Wikipedia](https://en.wikipedia.org/wiki/Join_Five)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Residual Networks for Computer Go](http://www.talkchess.com/forum/viewtopic.php?t=65923) by Brahim Hamadicharef, [CCC](CCC "CCC"), December 07, 2017
 
 **[Up one level](People "People")**
 

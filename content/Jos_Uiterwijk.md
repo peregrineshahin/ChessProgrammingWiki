@@ -5,10 +5,10 @@ title: Jos Uiterwijk
 
 
 
- [](https://project.dke.maastrichtuniversity.nl/games/member_jos.htm) Jos Uiterwijk [[1]](#cite_note-1) 
+ [](https://project.dke.maastrichtuniversity.nl/games/member_jos.htm) Jos Uiterwijk <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Jos Uiterwijk**,  
 
-a Dutch chemist, computer [games](Games "Games") scientist, associate professor and coordinator of the computer games research group at [Maastricht University](Maastricht_University "Maastricht University") [[2]](#cite_note-2), chess player and chair of MSV-VSM chess-club in [Maastricht](https://en.wikipedia.org/wiki/Maastricht) [[3]](#cite_note-3). He holds a Ph.D. in [physical chemistry](https://en.wikipedia.org/wiki/Physical_chemistry) in 1985, and a M.Sc. in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") in 1988, both from [University of Twente](https://en.wikipedia.org/wiki/University_of_Twente). Jos is author of the chess program [Touch](Touch "Touch"), co-author of the [Connect Four](Connect_Four "Connect Four") program [Victor](https://www.game-ai-forum.org/icga-tournaments/program.php?id=329) and the [Gomoku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)") program [Polygon](https://www.game-ai-forum.org/icga-tournaments/program.php?id=306), all competing at [ICGA](ICGA "ICGA") Tournaments [[4]](#cite_note-4). In 1992, Jos introduced the [Countermove Heuristic](Countermove_Heuristic "Countermove Heuristic") [[5]](#cite_note-5) and published a huge number of scientific papers on [games](Games "Games") and [search](Search "Search") topics. 
+a Dutch chemist, computer [games](Games "Games") scientist, associate professor and coordinator of the computer games research group at [Maastricht University](Maastricht_University "Maastricht University") <a id="cite-note-2" href="#cite-ref-2">[2]</a>, chess player and chair of MSV-VSM chess-club in [Maastricht](https://en.wikipedia.org/wiki/Maastricht) <a id="cite-note-3" href="#cite-ref-3">[3]</a>. He holds a Ph.D. in [physical chemistry](https://en.wikipedia.org/wiki/Physical_chemistry) in 1985, and a M.Sc. in [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") in 1988, both from [University of Twente](https://en.wikipedia.org/wiki/University_of_Twente). Jos is author of the chess program [Touch](Touch "Touch"), co-author of the [Connect Four](Connect_Four "Connect Four") program [Victor](https://www.game-ai-forum.org/icga-tournaments/program.php?id=329) and the [Gomoku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)") program [Polygon](https://www.game-ai-forum.org/icga-tournaments/program.php?id=306), all competing at [ICGA](ICGA "ICGA") Tournaments <a id="cite-note-4" href="#cite-ref-4">[4]</a>. In 1992, Jos introduced the [Countermove Heuristic](Countermove_Heuristic "Countermove Heuristic") <a id="cite-note-5" href="#cite-ref-5">[5]</a> and published a huge number of scientific papers on [games](Games "Games") and [search](Search "Search") topics. 
 
 
 
@@ -18,7 +18,7 @@ a Dutch chemist, computer [games](Games "Games") scientist, associate professor 
 ## Selected Publications
 
 
-[[9]](#cite_note-9) [[10]](#cite_note-10)
+<a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 
 
@@ -80,7 +80,7 @@ a Dutch chemist, computer [games](Games "Games") scientist, associate professor 
 
 
  [Patrick Hensgens](index.php?title=Patrick_Hensgens&action=edit&redlink=1 "Patrick Hensgens (page does not exist)"), Jos Uiterwijk (**2000**). *A Knowledge-Based Approach of Amazons*. [5th Computer Olympiad Workshop](5th_Computer_Olympiad#Workshop "5th Computer Olympiad")
- [Geoffrey Irving](index.php?title=Geoffrey_Irving&action=edit&redlink=1 "Geoffrey Irving (page does not exist)"), [Jeroen Donkers](Jeroen_Donkers "Jeroen Donkers"), Jos Uiterwijk (**2000**). *Solving Kalah*. [5th Computer Olympiad Workshop](5th_Computer_Olympiad#Workshop "5th Computer Olympiad") » [Solving Kalah](Kalah#Solving "Kalah") [[11]](#cite_note-11)
+ [Geoffrey Irving](index.php?title=Geoffrey_Irving&action=edit&redlink=1 "Geoffrey Irving (page does not exist)"), [Jeroen Donkers](Jeroen_Donkers "Jeroen Donkers"), Jos Uiterwijk (**2000**). *Solving Kalah*. [5th Computer Olympiad Workshop](5th_Computer_Olympiad#Workshop "5th Computer Olympiad") » [Solving Kalah](Kalah#Solving "Kalah") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
  [Mark Winands](Mark_Winands "Mark Winands"), Jos Uiterwijk (**2000**). *Analysis and Implementation of Lines of Action*. [5th Computer Olympiad Workshop](5th_Computer_Olympiad#Workshop "5th Computer Olympiad"), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/workshop_2000.pdf)
 * Jos Uiterwijk, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2000**). *The advantage of the initiative*. Information Sciences, Vol. 122, No. 1
 * H. Watanabe, [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), Jos Uiterwijk (**2000**). *Automatic Composition of Shogi Mating Problems.* in [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida") (eds.) (**2000**). *Games in AI Research*.
@@ -107,7 +107,7 @@ a Dutch chemist, computer [games](Games "Games") scientist, associate professor 
 * Jos Uiterwijk (ed.) (**2001**). *The CMG Sixth Computer Olympiad: Computer-Games Workshop Proceedings*. IKAT, [Maastricht University](Maastricht_University "Maastricht University")
 
 
- [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Jos Uiterwijk (**2001**). *Learning Move Ordering in Chess*. [6th Computer Olympiad Workshop](6th_Computer_Olympiad#Workshop "6th Computer Olympiad") [[12]](#cite_note-12)
+ [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Jos Uiterwijk (**2001**). *Learning Move Ordering in Chess*. [6th Computer Olympiad Workshop](6th_Computer_Olympiad#Workshop "6th Computer Olympiad") <a id="cite-note-12" href="#cite-ref-12">[12]</a>
  [Mark Winands](Mark_Winands "Mark Winands"), Jos Uiterwijk (**2001**). *PN, PN2 and PN\* in Lines of Action*. [6th Computer Olympiad Workshop](6th_Computer_Olympiad#Workshop "6th Computer Olympiad"), [pdf](https://dke.maastrichtuniversity.nl/m.winands/documents/PN_PN2_AND_PNstar_%20IN_LOA.pdf)
 * [Jeroen Donkers](Jeroen_Donkers "Jeroen Donkers"), Jos Uiterwijk, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *Probabilistic Opponent-Model Search.* Information Science, Vol. 135, Nos. 3-4
 * [Dennis Breuker](Dennis_Breuker "Dennis Breuker"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Jos Uiterwijk, [Victor Allis](Victor_Allis "Victor Allis") (**2001**). *A Solution to the GHI Problem for Best-First Search*. [Theoretical Computer Science](https://en.wikipedia.org/wiki/Theoretical_Computer_Science_%28journal%29), Vol. 252, Nos. 1-2
@@ -129,14 +129,14 @@ a Dutch chemist, computer [games](Games "Games") scientist, associate professor 
 * Jos Uiterwijk (ed.) (**2002**). *The Seventh Computer Olympiad: Computer-Games Workshop Proceedings*. CS 02-03, IKAT, [Maastricht University](Maastricht_University "Maastricht University")
 
 
- [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Jos Uiterwijk, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Learning in Lines of Action*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad") [[13]](#cite_note-13) [[14]](#cite_note-14)
+ [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Jos Uiterwijk, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Learning in Lines of Action*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad") <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a>
  [Jeroen Donkers](Jeroen_Donkers "Jeroen Donkers"), Jos Uiterwijk (**2002**). *Programming Bao*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad"), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.6870&rep=rep1&type=pdf) » [Bao](Bao "Bao")
 * [Mark Winands](Mark_Winands "Mark Winands"), Jos Uiterwijk, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *[PDS-PN: A New Proof-Number Search Algorithm: Application to Lines of Action](http://link.springer.com/chapter/10.1007/978-3-540-40031-8_5)*. [CG 2002](CG_2002 "CG 2002")
 * [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Jos Uiterwijk, [Eric Postma](Eric_Postma "Eric Postma"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *[The Neural MoveMap Heuristic in Chess](http://link.springer.com/chapter/10.1007/978-3-540-40031-8_11)*. [CG 2002](CG_2002 "CG 2002")
 * [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), Jos Uiterwijk, [Eric Postma](Eric_Postma "Eric Postma"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *[Local Move Prediction in Go](http://link.springer.com/chapter/10.1007/978-3-540-40031-8_26)*. [CG 2002](CG_2002 "CG 2002")
 * [Jeroen Donkers](Jeroen_Donkers "Jeroen Donkers"), Jos Uiterwijk, [Alex de Voogt](Alex_de_Voogt "Alex de Voogt") (**2002**). *Mancala Games - Topics in Artificial Intelligence and Mathematics*. In [Jean Retschitzki](index.php?title=Jean_Retschitzki&action=edit&redlink=1 "Jean Retschitzki (page does not exist)"), [Rosita Haddad-Zubel](index.php?title=Rosita_Haddad-Zubel&action=edit&redlink=1 "Rosita Haddad-Zubel (page does not exist)") (eds.) (**2002**). *Step by step*. Proceedings of the 4th colloquium Board games in academia. Edition [Universitaires Fribourg Suisse](https://en.wikipedia.org/wiki/University_of_Fribourg)
 * [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), Jos Uiterwijk, [Jack van Rijswijck](index.php?title=Jack_van_Rijswijck&action=edit&redlink=1 "Jack van Rijswijck (page does not exist)") (**2002**). *Games Solved: Now and in the Future*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 134, Nos.1-2, [zipped ps](http://sites.google.com/site/javhar1/GamesSolved.zip)
-* [Makoto Sakuta](Makoto_Sakuta "Makoto Sakuta"), [Tsuyoshi Hashimoto](Tsuyoshi_Hashimoto "Tsuyoshi Hashimoto"), [Jun Nagashima](Jun_Nagashima "Jun Nagashima"), Jos Uiterwijk, [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida") (**2002**). *Application of the killer-tree heuristic and the lambda-search method to lines of action*. [[15]](#cite_note-15)
+* [Makoto Sakuta](Makoto_Sakuta "Makoto Sakuta"), [Tsuyoshi Hashimoto](Tsuyoshi_Hashimoto "Tsuyoshi Hashimoto"), [Jun Nagashima](Jun_Nagashima "Jun Nagashima"), Jos Uiterwijk, [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida") (**2002**). *Application of the killer-tree heuristic and the lambda-search method to lines of action*. <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 
 **2003**
@@ -217,7 +217,7 @@ a Dutch chemist, computer [games](Games "Games") scientist, associate professor 
 
 
 * [Jan Stankiewicz](index.php?title=Jan_Stankiewicz&action=edit&redlink=1 "Jan Stankiewicz (page does not exist)"), [Mark Winands](Mark_Winands "Mark Winands"), Jos Uiterwijk (**2011**). *[Monte-Carlo Tree Search Enhancements for Havannah](https://www.conftool.net/acg13/index.php?page=browseSessions&form_session=1)*. [Advances in Computer Games 13](Advances_in_Computer_Games_13 "Advances in Computer Games 13")
-* Jos Uiterwijk (**2013**). *Perfectly Solving Domineering Boards*. [Workshop on Computer Games - IJCAI 2013](http://www.informatik.uni-trier.de/~ley/db/conf/ijcai/cgw2013.html#Uiterwijk13) [[16]](#cite_note-16)
+* Jos Uiterwijk (**2013**). *Perfectly Solving Domineering Boards*. [Workshop on Computer Games - IJCAI 2013](http://www.informatik.uni-trier.de/~ley/db/conf/ijcai/cgw2013.html#Uiterwijk13) <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 * Jos Uiterwijk (**2014**). *The Impact of Safe Moves on Perfectly Solving Domineering Boards - Part 1: Analysis of and Experiments with 1-Step Safe Moves*. [ICGA Journal, Vol. 37, No. 2](ICGA_Journal#37_2 "ICGA Journal") » [Domineering](index.php?title=Domineering&action=edit&redlink=1 "Domineering (page does not exist)")
 * Jos Uiterwijk (**2014**). *The Impact of Safe Moves on Perfectly Solving Domineering Boards - Part 2: Analysis of and Experiments with Multi-Step Safe Moves*. [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal")
 * Jos Uiterwijk (**2014**). *The Impact of Safe Moves on Perfectly Solving Domineering Boards - Part 3: Theorems and Conjectures*. [ICGA Journal, Vol. 37, No. 4](ICGA_Journal#37_4 "ICGA Journal")
@@ -230,7 +230,7 @@ a Dutch chemist, computer [games](Games "Games") scientist, associate professor 
 * Jos Uiterwijk (**2016**). *11 x 11 Domineering is Solved: The first player wins*. [CG 2016](CG_2016 "CG 2016")
 * Jos Uiterwijk (**2017**). *Set Matching: An Enhancement of the Hales-Jewett Pairing Strategy*. [Advances in Computer Games 15](Advances_in_Computer_Games_15 "Advances in Computer Games 15"), [arXiv:1703.10678](https://arxiv.org/abs/1703.10678)
 * Jos Uiterwijk (**2018**). *Set Matching with applications: An enhancement of the Hales–Jewett pairing strategy*. [ICGA Journal, Vol. 40, No. 3](ICGA_Journal#40_3 "ICGA Journal")
-* Jos Uiterwijk (**2018**). *Construction and investigation of Cram endgame databases*. [CG 2018](CG_2018 "CG 2018"), [ICGA Journal, Vol. 40, No. 4](ICGA_Journal#40_4 "ICGA Journal") [[17]](#cite_note-17)
+* Jos Uiterwijk (**2018**). *Construction and investigation of Cram endgame databases*. [CG 2018](CG_2018 "CG 2018"), [ICGA Journal, Vol. 40, No. 4](ICGA_Journal#40_4 "ICGA Journal") <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 * Jos Uiterwijk (**2019**). *Solving Cram Using Combinatorial Game Theory*. [Advances in Computer Games 16](Advances_in_Computer_Games_16 "Advances in Computer Games 16")
 
 
@@ -239,7 +239,7 @@ a Dutch chemist, computer [games](Games "Games") scientist, associate professor 
 
 * Jos Uiterwijk (**2021**). *Solving Bicoloring-Graph Games on Rectangular Boards — Part 1: Partisan Col and Snort*. [Advances in Computer Games 17](Advances_in_Computer_Games_17 "Advances in Computer Games 17")
 * Jos Uiterwijk (**2021**). *Solving Bicoloring-Graph Games on Rectangular Boards — Part 2: Impartial Col and Snort*. [Advances in Computer Games 17](Advances_in_Computer_Games_17 "Advances in Computer Games 17")
-* Jos Uiterwijk (**2021**). *Solving narrow Konane boards*. [ICGA Journal, Vol. 43, No. 3](ICGA_Journal#43_3 "ICGA Journal") [[18]](#cite_note-18)
+* Jos Uiterwijk (**2021**). *Solving narrow Konane boards*. [ICGA Journal, Vol. 43, No. 3](ICGA_Journal#43_3 "ICGA Journal") <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 
 ## External Links
@@ -257,24 +257,24 @@ a Dutch chemist, computer [games](Games "Games") scientist, associate professor 
 ## References
 
 
-1. [↑](#cite_ref-1) [Jos Uiterwijk - Games and AI Group](https://project.dke.maastrichtuniversity.nl/games/member_jos.htm)
-2. [↑](#cite_ref-2) [Games and AI Group](https://project.dke.maastrichtuniversity.nl/games/)
-3. [↑](#cite_ref-3) [MSV-VSM](http://msv-vsm.ning.com/)
-4. [↑](#cite_ref-4) [Jos Uiterwijk's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=284)
-5. [↑](#cite_ref-5) Jos Uiterwijk (**1992**). *The Countermove Heuristic*. [ICCA Journal, Vol. 15, No. 1](ICGA_Journal#15_1 "ICGA Journal")
-6. [↑](#cite_ref-6) [Lectures - Max Euwe chesstournament](http://en.euwetoernooi.nl/program/lectures/)
-7. [↑](#cite_ref-7) [Jos Uiterwijk - Max Euwe chesstournament](http://en.euwetoernooi.nl/program/jos-uiterwijk/)
-8. [↑](#cite_ref-8) [Susan Polgar Chess Daily News and Information: Max Euwe Tournament](http://susanpolgar.blogspot.de/2011/11/max-euwe-tournament.html)
-9. [↑](#cite_ref-9) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-10. [↑](#cite_ref-10) [dblp: Jos W. H. M. Uiterwijk](http://www.informatik.uni-trier.de/~ley/pers/hd/u/Uiterwijk:Jos_W=_H=_M=)
-11. [↑](#cite_ref-11) [Geoffrey Irving](index.php?title=Geoffrey_Irving&action=edit&redlink=1 "Geoffrey Irving (page does not exist)"), [Jeroen Donkers](Jeroen_Donkers "Jeroen Donkers"), Jos Uiterwijk (**2000**). *Solving Kalah*. [ICGA Journal, Vol. 23, No. 3](ICGA_Journal#23_3 "ICGA Journal"), [pdf](http://naml.us/~irving/papers/irving2000_kalah.pdf)
-12. [↑](#cite_ref-12)  [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Jos Uiterwijk, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *Move Ordering using Neural Networks*. IEA/AIE 2001, [LNCS](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science) 2070, [pdf](http://www.pradu.us/old/Nov27_2008/Buzz/research/parallel/fulltext.pdf)
-13. [↑](#cite_ref-13) [Publications - Maastricht University](https://dke.maastrichtuniversity.nl/m.winands/publications.html)
-14. [↑](#cite_ref-14) [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Jos Uiterwijk, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Temporal difference learning and the Neural MoveMap heuristic in the game of Lines of Action*. GAME-ON 2002, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.9038&rep=rep1&type=pdf)
-15. [↑](#cite_ref-15) [ScienceDirect - Information Sciences : Application of the killer-tree heuristic and the lambda-search method to lines of action](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V0C-47VH35R-3&_user=10&_coverDate=09%2F30%2F2003&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1552460904&_rerunOrigin=google&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=1d9bce14fd47b45fbf1ebabd9e791404&searchtype=a)
-16. [↑](#cite_ref-16) [Domineering from Wikipedia](https://en.wikipedia.org/wiki/Domineering)
-17. [↑](#cite_ref-17) [Cram (game) from Wikipedia](https://en.wikipedia.org/wiki/Cram_(game))
-18. [↑](#cite_ref-18) [Kōnane from Wikipedia](https://en.wikipedia.org/wiki/K%C5%8Dnane)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jos Uiterwijk - Games and AI Group](https://project.dke.maastrichtuniversity.nl/games/member_jos.htm)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Games and AI Group](https://project.dke.maastrichtuniversity.nl/games/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [MSV-VSM](http://msv-vsm.ning.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jos Uiterwijk's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=284)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> Jos Uiterwijk (**1992**). *The Countermove Heuristic*. [ICCA Journal, Vol. 15, No. 1](ICGA_Journal#15_1 "ICGA Journal")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Lectures - Max Euwe chesstournament](http://en.euwetoernooi.nl/program/lectures/)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Jos Uiterwijk - Max Euwe chesstournament](http://en.euwetoernooi.nl/program/jos-uiterwijk/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Susan Polgar Chess Daily News and Information: Max Euwe Tournament](http://susanpolgar.blogspot.de/2011/11/max-euwe-tournament.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [dblp: Jos W. H. M. Uiterwijk](http://www.informatik.uni-trier.de/~ley/pers/hd/u/Uiterwijk:Jos_W=_H=_M=)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Geoffrey Irving](index.php?title=Geoffrey_Irving&action=edit&redlink=1 "Geoffrey Irving (page does not exist)"), [Jeroen Donkers](Jeroen_Donkers "Jeroen Donkers"), Jos Uiterwijk (**2000**). *Solving Kalah*. [ICGA Journal, Vol. 23, No. 3](ICGA_Journal#23_3 "ICGA Journal"), [pdf](http://naml.us/~irving/papers/irving2000_kalah.pdf)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a>  [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Jos Uiterwijk, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *Move Ordering using Neural Networks*. IEA/AIE 2001, [LNCS](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science) 2070, [pdf](http://www.pradu.us/old/Nov27_2008/Buzz/research/parallel/fulltext.pdf)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Publications - Maastricht University](https://dke.maastrichtuniversity.nl/m.winands/publications.html)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), Jos Uiterwijk, [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2002**). *Temporal difference learning and the Neural MoveMap heuristic in the game of Lines of Action*. GAME-ON 2002, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.9038&rep=rep1&type=pdf)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [ScienceDirect - Information Sciences : Application of the killer-tree heuristic and the lambda-search method to lines of action](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V0C-47VH35R-3&_user=10&_coverDate=09%2F30%2F2003&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1552460904&_rerunOrigin=google&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=1d9bce14fd47b45fbf1ebabd9e791404&searchtype=a)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Domineering from Wikipedia](https://en.wikipedia.org/wiki/Domineering)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Cram (game) from Wikipedia](https://en.wikipedia.org/wiki/Cram_(game))
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Kōnane from Wikipedia](https://en.wikipedia.org/wiki/K%C5%8Dnane)
 
 **[Up one level](People "People")**
 

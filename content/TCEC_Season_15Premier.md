@@ -7,7 +7,7 @@ title: TCEC Season 15Premier
 
 
 
- [](https://tcec-chess.com/) TCEC Logo [[1]](#cite_note-1) 
+ [](https://tcec-chess.com/) TCEC Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **TCEC Season 15**,  
 
 the Top Chess Engine Championship (TCEC) Season 15 from March 05, 2019 until May 28, 2019. 
@@ -330,7 +330,7 @@ March 10 - March 14, 2019, timecontrol 30' + 5''
  |  ½½
  |  ½1
  |  11
- | **x** |  0 [[3]](#cite_note-3) |
+ | **x** |  0 <a id="cite-note-3" href="#cite-ref-3">[3]</a> |
 
 
 
@@ -1440,9 +1440,9 @@ May 10 - May 28, 2019, timecontrol 120' + 10''
 ## References
 
 
-1. [↑](#cite_ref-1) Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. [↑](#cite_ref-2) [Guy Haworth](Guy_Haworth "Guy Haworth"), [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2019**). *TCEC15: the 15th Top Chess Engine Championship*. [pdf](http://www.chessdom.com/wp-content/uploads/2019/06/TCEC-15.pdf)
-3. [↑](#cite_ref-3) 3 crashes
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), [Nelson Hernandez](Nelson_Hernandez "Nelson Hernandez") (**2019**). *TCEC15: the 15th Top Chess Engine Championship*. [pdf](http://www.chessdom.com/wp-content/uploads/2019/06/TCEC-15.pdf)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> 3 crashes
 
 **[Up one level](TCEC "TCEC")**
 

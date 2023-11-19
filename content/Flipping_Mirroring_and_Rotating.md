@@ -3,16 +3,16 @@ title: Flipping Mirroring and Rotating
 ---
 **[Home](Home "Home") * [Board Representation](Board_Representation "Board Representation") * [Bitboards](Bitboards "Bitboards") * Flipping, Mirroring and Rotating**
 
-[](http://www.barbaramittman.com/Site/Fore_4.html) [Barbara Mittman](Category:Barbara_Mittman "Category:Barbara Mittman"), Forever IV [[1]](#cite_note-1)
+[](http://www.barbaramittman.com/Site/Fore_4.html) [Barbara Mittman](Category:Barbara_Mittman "Category:Barbara Mittman"), Forever IV <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Flipping, Mirroring and Rotating**
 
 might be useful to transform bitboards in various ways. Considering the [fourfold symmetry](Chessboard#FourFoldSymmetry "Chessboard") of the [chessboard](Chessboard "Chessboard"), the first paragraph covers the whole bitboard performing [bit-twiddling](Bit-Twiddling "Bit-Twiddling")-techniques. Various multiplications to flip or mirror certain subsets of the bitboard like [files](Files "Files"), [ranks](Ranks "Ranks") and even [diagonals](Diagonals "Diagonals") and [anti-diagonals](Anti-Diagonals "Anti-Diagonals") are mentioned in the second section.
 
 ## The whole Bitboard
 
-Following [C](C "C")-routines perform [parallel prefix algorithms](Parallel_Prefix_Algorithms "Parallel Prefix Algorithms") to [swap bits](General_Setwise_Operations#SwappingBits "General Setwise Operations") in various ways. They are not intended to use extensively inside a chess program - e.g. to implement [rotated](Rotated_Bitboards "Rotated Bitboards") or [reverse bitboards](Reverse_Bitboards "Reverse Bitboards") on the fly - but may be used for initialization purposes. They may convert sets between the eight different [square mappings](Square_Mapping_Considerations "Square Mapping Considerations"), considering rank-file or file-rank [endianness](Endianness "Endianness"). An exception might be the vertical flipping, which could be done by one fast [x86-64](X86-64 "X86-64") byteswap ([bswap](X86-64#gpinstructions "X86-64")) instruction [[2]](#cite_note-2) . See the bswap-application of [hyperbola quintessence](Hyperbola_Quintessence "Hyperbola Quintessence") to determine vertical or diagonal sliding attacks. Flipping, mirroring and rotating is distributive over the basic bitwise operations such as intersection, union, one's complement and xor, as demonstrated in hyperbola quintessence as well.
+Following [C](C "C")-routines perform [parallel prefix algorithms](Parallel_Prefix_Algorithms "Parallel Prefix Algorithms") to [swap bits](General_Setwise_Operations#SwappingBits "General Setwise Operations") in various ways. They are not intended to use extensively inside a chess program - e.g. to implement [rotated](Rotated_Bitboards "Rotated Bitboards") or [reverse bitboards](Reverse_Bitboards "Reverse Bitboards") on the fly - but may be used for initialization purposes. They may convert sets between the eight different [square mappings](Square_Mapping_Considerations "Square Mapping Considerations"), considering rank-file or file-rank [endianness](Endianness "Endianness"). An exception might be the vertical flipping, which could be done by one fast [x86-64](X86-64 "X86-64") byteswap ([bswap](X86-64#gpinstructions "X86-64")) instruction <a id="cite-note-2" href="#cite-ref-2">[2]</a> . See the bswap-application of [hyperbola quintessence](Hyperbola_Quintessence "Hyperbola Quintessence") to determine vertical or diagonal sliding attacks. Flipping, mirroring and rotating is distributive over the basic bitwise operations such as intersection, union, one's complement and xor, as demonstrated in hyperbola quintessence as well.
 
-Beside portable routines, there are optimized routines taking advantage of compiler intrinsics, to use [x86-64](X86-64 "X86-64") processor instructions like byteswap (bswap) as mentioned and rotate ([ror, rol](X86-64#gpinstructions "X86-64")) [[3]](#cite_note-3) .
+Beside portable routines, there are optimized routines taking advantage of compiler intrinsics, to use [x86-64](X86-64 "X86-64") processor instructions like byteswap (bswap) as mentioned and rotate ([ror, rol](X86-64#gpinstructions "X86-64")) <a id="cite-note-3" href="#cite-ref-3">[3]</a> .
 
 ## Flip and Mirror
 
@@ -221,7 +221,7 @@ U64 mirrorHorizontal (U64 x) {
 
 ### Generalized
 
-In [Knuth's](Donald_Knuth "Donald Knuth") *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, page 9, Knuth interprets the *magic masks* as 2-[adic](https://en.wikipedia.org/wiki/P-adic_number) fractions [[4]](#cite_note-4) :
+In [Knuth's](Donald_Knuth "Donald Knuth") *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, page 9, Knuth interprets the *magic masks* as 2-[adic](https://en.wikipedia.org/wiki/P-adic_number) fractions <a id="cite-note-4" href="#cite-ref-4">[4]</a> :
 
 ```C++
 
@@ -957,7 +957,7 @@ rank1mirrored = reverseByteLookup256[rank1];
 
 ## Publications
 
-- [Christopher Strachey](Christopher_Strachey "Christopher Strachey") (**1961**). *Bitwise operations*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 4, No. 3 [[5]](#cite_note-5)
+- [Christopher Strachey](Christopher_Strachey "Christopher Strachey") (**1961**). *Bitwise operations*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 4, No. 3 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 - [Henry S. Warren, Jr.](Henry_S._Warren,_Jr. "Henry S. Warren, Jr.") (**2002, 2012**). *[Hacker's Delight](Henry_S._Warren,_Jr.#HackersDeligh "Henry S. Warren, Jr.")*. [Addison-Wesley](https://en.wikipedia.org/wiki/Addison%E2%80%93Wesley)
 - [Donald Knuth](Donald_Knuth "Donald Knuth") (**2009**). *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, as [Pre-Fascicle 1a postscript](http://www-cs-faculty.stanford.edu/%7Eknuth/fasc1a.ps.gz)
 
@@ -967,7 +967,7 @@ rank1mirrored = reverseByteLookup256[rank1];
 
 ## External Links
 
-- [Bit Gather Via Multiplication](http://drpetric.blogspot.com/2013/09/bit-gathering-via-multiplication.html) by [Vlad Petric](index.php?title=Vlad_Petric&action=edit&redlink=1 "Vlad Petric (page does not exist)"), [Dr. Petric's Technical Blog](http://drpetric.blogspot.com/), September 17, 2013 [[6]](#cite_note-6)
+- [Bit Gather Via Multiplication](http://drpetric.blogspot.com/2013/09/bit-gathering-via-multiplication.html) by [Vlad Petric](index.php?title=Vlad_Petric&action=edit&redlink=1 "Vlad Petric (page does not exist)"), [Dr. Petric's Technical Blog](http://drpetric.blogspot.com/), September 17, 2013 <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ## Flipping
 
@@ -1005,18 +1005,18 @@ rank1mirrored = reverseByteLookup256[rank1];
 
 ## Smoke 'n' Mirrors
 
-- [Lee Ritenour](Category:Lee_Ritenour "Category:Lee Ritenour"), [Mike Stern](Category:Mike_Stern "Category:Mike Stern"), [Simon Phillips](Category:Simon_Phillips "Category:Simon Phillips"), [John Beasley](https://en.wikipedia.org/wiki/John_Beasley_%28musician%29), [Melvin Davis](http://www.allmusic.com/artist/melvin-davis-mn0000350965) - Smoke 'n' Mirrors [[7]](#cite_note-7), [Blue Note Tokyo](https://en.wikipedia.org/wiki/Blue_Note_Tokyo), 2011, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video [[8]](#cite_note-8)
+- [Lee Ritenour](Category:Lee_Ritenour "Category:Lee Ritenour"), [Mike Stern](Category:Mike_Stern "Category:Mike Stern"), [Simon Phillips](Category:Simon_Phillips "Category:Simon Phillips"), [John Beasley](https://en.wikipedia.org/wiki/John_Beasley_%28musician%29), [Melvin Davis](http://www.allmusic.com/artist/melvin-davis-mn0000350965) - Smoke 'n' Mirrors <a id="cite-note-7" href="#cite-ref-7">[7]</a>, [Blue Note Tokyo](https://en.wikipedia.org/wiki/Blue_Note_Tokyo), 2011, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ## References
 
-1. [↑](#cite_ref-1) [Figurative Paintings](http://www.barbaramittman.com/Site/Figurative_Paintings.html) by [Barbara Mittman](Category:Barbara_Mittman "Category:Barbara Mittman")
-1. [↑](#cite_ref-2) [\_byteswap_uint64](http://msdn.microsoft.com/en-us/library/a3140177.aspx) Visual C++ Developer Center - Run-Time Library Reference
-1. [↑](#cite_ref-3) [\_rotl, \_rotl64, \_rotr_rotr64](http://msdn.microsoft.com/en-us/library/5cc576c4.aspx) Visual C++ Developer Center - Run-Time Library Reference
-1. [↑](#cite_ref-4) [Donald Knuth](Donald_Knuth "Donald Knuth") (**2009**). *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, as [Pre-Fascicle 1a postscript](http://www-cs-faculty.stanford.edu/%7Eknuth/fasc1a.ps.gz)
-1. [↑](#cite_ref-5) [reverse.c](http://www.hackersdelight.org/hdcodetxt/reverse.c.txt) from [C code for most of the programs that appear in HD](http://www.hackersdelight.org/hdcode.htm) by [Henry S. Warren, Jr.](Henry_S._Warren,_Jr. "Henry S. Warren, Jr.")
-1. [↑](#cite_ref-6) [Demystifying the Magic Multiplier?](https://chessprogramming.wikispaces.com/share/view/64439740)
-1. [↑](#cite_ref-7) [Smoke and mirrors (disambiguation)](https://en.wikipedia.org/wiki/Smoke_and_mirrors_%28disambiguation%29)
-1. [↑](#cite_ref-8) [Shorter front view version with interviews](https://www.youtube.com/watch?v=vsmlkrBiok0)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Figurative Paintings](http://www.barbaramittman.com/Site/Figurative_Paintings.html) by [Barbara Mittman](Category:Barbara_Mittman "Category:Barbara Mittman")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [\_byteswap_uint64](http://msdn.microsoft.com/en-us/library/a3140177.aspx) Visual C++ Developer Center - Run-Time Library Reference
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [\_rotl, \_rotl64, \_rotr_rotr64](http://msdn.microsoft.com/en-us/library/5cc576c4.aspx) Visual C++ Developer Center - Run-Time Library Reference
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Donald Knuth](Donald_Knuth "Donald Knuth") (**2009**). *[The Art of Computer Programming](http://www-cs-faculty.stanford.edu/%7Eknuth/taocp.html), Volume 4, Fascicle 1: Bitwise tricks & techniques*, as [Pre-Fascicle 1a postscript](http://www-cs-faculty.stanford.edu/%7Eknuth/fasc1a.ps.gz)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [reverse.c](http://www.hackersdelight.org/hdcodetxt/reverse.c.txt) from [C code for most of the programs that appear in HD](http://www.hackersdelight.org/hdcode.htm) by [Henry S. Warren, Jr.](Henry_S._Warren,_Jr. "Henry S. Warren, Jr.")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Demystifying the Magic Multiplier?](https://chessprogramming.wikispaces.com/share/view/64439740)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Smoke and mirrors (disambiguation)](https://en.wikipedia.org/wiki/Smoke_and_mirrors_%28disambiguation%29)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Shorter front view version with interviews](https://www.youtube.com/watch?v=vsmlkrBiok0)
 
 **[Up one Level](Bitboards "Bitboards")**
 

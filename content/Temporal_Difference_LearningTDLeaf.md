@@ -6,22 +6,22 @@ title: Temporal Difference LearningTDLeaf
 
 **Temporal Difference Learning**, (TD learning)  
 
-is a machine learning method applied to multi-step prediction problems. As a prediction method primarily used for [reinforcement learning](Reinforcement_Learning "Reinforcement Learning"), TD learning takes into account the fact that subsequent predictions are often correlated in some sense, while in [supervised learning](Supervised_Learning "Supervised Learning"), one learns only from actually observed values. TD resembles [Monte Carlo methods](https://en.wikipedia.org/wiki/Monte_Carlo_method) with [dynamic programming](Dynamic_Programming "Dynamic Programming") techniques [[1]](#cite_note-1). In the domain of computer games and computer chess, TD learning is applied through self play, subsequently predicting the [probability](https://en.wikipedia.org/wiki/Probability) of winning a [game](Chess_Game "Chess Game") during the sequence of [moves](Moves "Moves") from the [initial position](Initial_Position "Initial Position") until the end, to adjust weights for a more reliable prediction. 
+is a machine learning method applied to multi-step prediction problems. As a prediction method primarily used for [reinforcement learning](Reinforcement_Learning "Reinforcement Learning"), TD learning takes into account the fact that subsequent predictions are often correlated in some sense, while in [supervised learning](Supervised_Learning "Supervised Learning"), one learns only from actually observed values. TD resembles [Monte Carlo methods](https://en.wikipedia.org/wiki/Monte_Carlo_method) with [dynamic programming](Dynamic_Programming "Dynamic Programming") techniques <a id="cite-note-1" href="#cite-ref-1">[1]</a>. In the domain of computer games and computer chess, TD learning is applied through self play, subsequently predicting the [probability](https://en.wikipedia.org/wiki/Probability) of winning a [game](Chess_Game "Chess Game") during the sequence of [moves](Moves "Moves") from the [initial position](Initial_Position "Initial Position") until the end, to adjust weights for a more reliable prediction. 
 
 
 
 ## TD(λ)
 
 
-Each pair of [temporally](https://en.wiktionary.org/wiki/temporal) successive predictions P at time step t and t+1 gives rise to a recommendation for weight changes, to converge Pt to Pt+1, first applied in the late 50s by [Arthur Samuel](Arthur_Samuel "Arthur Samuel") in his [Checkers](Checkers "Checkers") player for [automamated evaluation tuning](Automated_Tuning "Automated Tuning") [[2]](#cite_note-2). This TD method was improved, generalized and formalized by [Richard Sutton](Richard_Sutton "Richard Sutton") et al. in the 80s, the term *Temporal Difference Learning* coined in 1988 [[3]](#cite_note-3), also introducing the decay or recency parameter **λ**, where proportions of the score came from the outcome of [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) simulated games, tapering between [bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping#Artificial_intelligence_and_machine_learning) (λ = 0) and Monte Carlo predictions (λ = 1), the latter equivalent to [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) on the [mean squared error function](https://en.wikipedia.org/wiki/Mean_squared_error). Weight adjustments in TD(λ) are made according to ...
+Each pair of [temporally](https://en.wiktionary.org/wiki/temporal) successive predictions P at time step t and t+1 gives rise to a recommendation for weight changes, to converge Pt to Pt+1, first applied in the late 50s by [Arthur Samuel](Arthur_Samuel "Arthur Samuel") in his [Checkers](Checkers "Checkers") player for [automamated evaluation tuning](Automated_Tuning "Automated Tuning") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. This TD method was improved, generalized and formalized by [Richard Sutton](Richard_Sutton "Richard Sutton") et al. in the 80s, the term *Temporal Difference Learning* coined in 1988 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, also introducing the decay or recency parameter **λ**, where proportions of the score came from the outcome of [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) simulated games, tapering between [bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping#Artificial_intelligence_and_machine_learning) (λ = 0) and Monte Carlo predictions (λ = 1), the latter equivalent to [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) on the [mean squared error function](https://en.wikipedia.org/wiki/Mean_squared_error). Weight adjustments in TD(λ) are made according to ...
 
 
 
  [](File:TDLForula4.jpg) 
-... where P is the series of temporally successive predictions, w the set of adjustable weights. α is a parameter controlling the learning rate, also called step-size, ∇wPk [[4]](#cite_note-4) is the [gradient](https://en.wikipedia.org/wiki/Gradient), the vector of [partial derivatives](https://en.wikipedia.org/wiki/Partial_derivative) of Pt with respect of w. The process may be applied to any initial set of weights. Learning performance depends on λ and α, which have to be chosen appropriately for the domain. In principle, TD(λ) weight adjustments may be made after each move, or at any arbitrary interval. For game playing tasks the end of every game is a convenient point to actually alter the evaluation weights [[5]](#cite_note-5). 
+... where P is the series of temporally successive predictions, w the set of adjustable weights. α is a parameter controlling the learning rate, also called step-size, ∇wPk <a id="cite-note-4" href="#cite-ref-4">[4]</a> is the [gradient](https://en.wikipedia.org/wiki/Gradient), the vector of [partial derivatives](https://en.wikipedia.org/wiki/Partial_derivative) of Pt with respect of w. The process may be applied to any initial set of weights. Learning performance depends on λ and α, which have to be chosen appropriately for the domain. In principle, TD(λ) weight adjustments may be made after each move, or at any arbitrary interval. For game playing tasks the end of every game is a convenient point to actually alter the evaluation weights <a id="cite-note-5" href="#cite-ref-5">[5]</a>. 
 
 
-TD(λ) was famously applied by [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") in his [Backgammon](Backgammon "Backgammon") program [TD-Gammon](https://en.wikipedia.org/wiki/TD-Gammon) [[6]](#cite_note-6) [[7]](#cite_note-7), a stochastic game picking the action whose successor state minimizes the opponent's expected reward, i.e. [looking](Search "Search") one [ply](Ply "Ply") ahead.
+TD(λ) was famously applied by [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") in his [Backgammon](Backgammon "Backgammon") program [TD-Gammon](https://en.wikipedia.org/wiki/TD-Gammon) <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>, a stochastic game picking the action whose successor state minimizes the opponent's expected reward, i.e. [looking](Search "Search") one [ply](Ply "Ply") ahead.
 
 
 
@@ -29,7 +29,7 @@ TD(λ) was famously applied by [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro")
 ## TDLeaf(λ)
 
 
-In games like chess or [Othello](Othello "Othello"), due to their [tactical](Tactics "Tactics") nature, [deep searches](Search "Search") are necessary for expert performance. The problem has already been recognized and solved by [Arthur Samuel](Arthur_Samuel "Arthur Samuel") but seemed to have been forgotten later on [[8]](#cite_note-8) - rediscovered independently by [Don Beal](Don_Beal "Don Beal") and [Martin C. Smith](Martin_C._Smith "Martin C. Smith") in 1997 [[9]](#cite_note-9), and by [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), and [Lex Weaver](Lex_Weaver "Lex Weaver") [[10]](#cite_note-10), who coined the term TD-Leaf. TD-Leaf is the adaption of TD(λ) to [minimax](Minimax "Minimax") search, where instead of the corresponding [positions](Chess_Position "Chess Position") of the [root](Root "Root") the [leaf nodes](Leaf_Node "Leaf Node") of the [principal variation](Principal_Variation "Principal Variation") are considered in the weight adjustments. TD-Leaf was successfully used in [evaluation tuning](Automated_Tuning "Automated Tuning") of chess programs [[11]](#cite_note-11), with [KnightCap](KnightCap "KnightCap") [[12]](#cite_note-12) and [CilkChess](CilkChess "CilkChess") as most prominent samples, while the latter used the improved **Temporal Coherence Learning** [[13]](#cite_note-13), which automatically adjusts α and λ [[14]](#cite_note-14).
+In games like chess or [Othello](Othello "Othello"), due to their [tactical](Tactics "Tactics") nature, [deep searches](Search "Search") are necessary for expert performance. The problem has already been recognized and solved by [Arthur Samuel](Arthur_Samuel "Arthur Samuel") but seemed to have been forgotten later on <a id="cite-note-8" href="#cite-ref-8">[8]</a> - rediscovered independently by [Don Beal](Don_Beal "Don Beal") and [Martin C. Smith](Martin_C._Smith "Martin C. Smith") in 1997 <a id="cite-note-9" href="#cite-ref-9">[9]</a>, and by [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), and [Lex Weaver](Lex_Weaver "Lex Weaver") <a id="cite-note-10" href="#cite-ref-10">[10]</a>, who coined the term TD-Leaf. TD-Leaf is the adaption of TD(λ) to [minimax](Minimax "Minimax") search, where instead of the corresponding [positions](Chess_Position "Chess Position") of the [root](Root "Root") the [leaf nodes](Leaf_Node "Leaf Node") of the [principal variation](Principal_Variation "Principal Variation") are considered in the weight adjustments. TD-Leaf was successfully used in [evaluation tuning](Automated_Tuning "Automated Tuning") of chess programs <a id="cite-note-11" href="#cite-ref-11">[11]</a>, with [KnightCap](KnightCap "KnightCap") <a id="cite-note-12" href="#cite-ref-12">[12]</a> and [CilkChess](CilkChess "CilkChess") as most prominent samples, while the latter used the improved **Temporal Coherence Learning** <a id="cite-note-13" href="#cite-ref-13">[13]</a>, which automatically adjusts α and λ <a id="cite-note-14" href="#cite-ref-14">[14]</a>.
 
 
 
@@ -39,7 +39,7 @@ In games like chess or [Othello](Othello "Othello"), due to their [tactical](Tac
 ### Don Beal
 
 
-[Don Beal](Don_Beal "Don Beal") in a 1998 [CCC](CCC "CCC") discussion with [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter") [[15]](#cite_note-15):
+[Don Beal](Don_Beal "Don Beal") in a 1998 [CCC](CCC "CCC") discussion with [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter") <a id="cite-note-15" href="#cite-ref-15">[15]</a>:
 
 
 
@@ -64,7 +64,7 @@ The other problem is learning weights for terms which only occur rarely. Then th
 ### Bas Hamstra
 
 
-[Bas Hamstra](Bas_Hamstra "Bas Hamstra") in a 2002 [CCC](CCC "CCC") discussion on TD learning [[16]](#cite_note-16):
+[Bas Hamstra](Bas_Hamstra "Bas Hamstra") in a 2002 [CCC](CCC "CCC") discussion on TD learning <a id="cite-note-16" href="#cite-ref-16">[16]</a>:
 
 
 
@@ -77,7 +77,7 @@ I have played with it. I am convinced it has possibilities, but one problem I en
 ### Don Dailey
 
 
-[Don Dailey](Don_Dailey "Don Dailey") in a reply [[17]](#cite_note-17) to [Ben-Hur Carlos Vieira Langoni Junior](Ben-Hur_Carlos_Vieira_Langoni_Junior "Ben-Hur Carlos Vieira Langoni Junior"), [CCC](CCC "CCC"), December 2010 [[18]](#cite_note-18) :
+[Don Dailey](Don_Dailey "Don Dailey") in a reply <a id="cite-note-17" href="#cite-ref-17">[17]</a> to [Ben-Hur Carlos Vieira Langoni Junior](Ben-Hur_Carlos_Vieira_Langoni_Junior "Ben-Hur Carlos Vieira Langoni Junior"), [CCC](CCC "CCC"), December 2010 <a id="cite-note-18" href="#cite-ref-18">[18]</a> :
 
 
 
@@ -105,7 +105,7 @@ Another approach that may be more in line with what you want is called "temporal
 * [Morph](Morph "Morph")
 * [NeuroChess](NeuroChess "NeuroChess")
 * [SAL](SAL "SAL")
-* [Tao](Tao "Tao") [[19]](#cite_note-19)
+* [Tao](Tao "Tao") <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 * [TDChess](TDChess "TDChess")
 
 
@@ -156,7 +156,7 @@ Another approach that may be more in line with what you want is called "temporal
 * [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") (**1992**). *[Practical Issues in Temporal Difference Learning](http://dl.acm.org/citation.cfm?id=139616)*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_%28journal%29), Vol. 8, Nos. 3-4
 * [Michael Gherrity](Michael_Gherrity "Michael Gherrity") (**1993**). *A Game Learning Machine*. Ph.D. thesis, [University of California, San Diego](https://de.wikipedia.org/wiki/University_of_California,_San_Diego), advisor [Paul Kube](Mathematician#PKube "Mathematician"), [pdf](http://www.gherrity.org/thesis.pdf), [pdf](http://www.top-5000.nl/ps/A%20game%20learning%20machine.pdf)
 * [Peter Dayan](Peter_Dayan "Peter Dayan") (**1993**). *Improving generalisation for temporal difference learning: The successor representation*. [Neural Computation](https://en.wikipedia.org/wiki/Neural_Computation_(journal)), Vol. 5, [pdf](http://www.gatsby.ucl.ac.uk/~dayan/papers/sr93.pdf)
-* [Nicol N. Schraudolph](Nicol_N._Schraudolph "Nicol N. Schraudolph"), [Peter Dayan](Peter_Dayan "Peter Dayan"), [Terrence J. Sejnowski](Terrence_J._Sejnowski "Terrence J. Sejnowski") (**1993**). *[Temporal Difference Learning of Position Evaluation in the Game of Go](https://papers.nips.cc/paper/820-temporal-difference-learning-of-position-evaluation-in-the-game-of-go)*. [NIPS 1993](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-6-1993) [[20]](#cite_note-20)
+* [Nicol N. Schraudolph](Nicol_N._Schraudolph "Nicol N. Schraudolph"), [Peter Dayan](Peter_Dayan "Peter Dayan"), [Terrence J. Sejnowski](Terrence_J._Sejnowski "Terrence J. Sejnowski") (**1993**). *[Temporal Difference Learning of Position Evaluation in the Game of Go](https://papers.nips.cc/paper/820-temporal-difference-learning-of-position-evaluation-in-the-game-of-go)*. [NIPS 1993](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-6-1993) <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 * [Peter Dayan](Peter_Dayan "Peter Dayan"), [Terrence J. Sejnowski](Terrence_J._Sejnowski "Terrence J. Sejnowski") (**1994**). *TD(λ) converges with Probability 1*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_(journal)), Vol. 14, No. 1, [pdf](https://www.researchgate.net/profile/Terrence_Sejnowski/publication/228392650_TD_X_Converges_with_Probability/links/54a4afea0cf256bf8bb327a9.pdf?origin=publication_detail)
 
 
@@ -353,7 +353,7 @@ Another approach that may be more in line with what you want is called "temporal
 * [Temporal Differences](https://www.stmintz.com/ccc/index.php?id=394403) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), November 03, 2004
 
 
- [Re: Temporal Differences](https://www.stmintz.com/ccc/index.php?id=394440) by [Guy Haworth](Guy_Haworth "Guy Haworth"), [CCC](CCC "CCC"), November 04, 2004 [[21]](#cite_note-21)
+ [Re: Temporal Differences](https://www.stmintz.com/ccc/index.php?id=394440) by [Guy Haworth](Guy_Haworth "Guy Haworth"), [CCC](CCC "CCC"), November 04, 2004 <a id="cite-note-21" href="#cite-ref-21">[21]</a>
 * [Temporal Differences](https://www.stmintz.com/ccc/index.php?id=401974) by [Peter Fendrich](Peter_Fendrich "Peter Fendrich"), [CCC](CCC "CCC"), December 21, 2004
 * [Chess program improvement project (copy at TalkChess/ICD)](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=4467&p=23234) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 07, 2006 » [Win at Chess](Win_at_Chess "Win at Chess")
 
@@ -401,27 +401,27 @@ Another approach that may be more in line with what you want is called "temporal
 ## References
 
 
-1. [↑](#cite_ref-1) [Temporal difference learning from Wikipedia](https://en.wikipedia.org/wiki/Temporal_difference_learning)
-2. [↑](#cite_ref-2)  [Arthur Samuel](Arthur_Samuel "Arthur Samuel") (**1959**). *[Some Studies in Machine Learning Using the Game of Checkers](http://domino.watson.ibm.com/tchjr/journalindex.nsf/600cc5649e2871db852568150060213c/39a870213169f45685256bfa00683d74!OpenDocument)*. IBM Journal July 1959
-3. [↑](#cite_ref-3) [Richard Sutton](Richard_Sutton "Richard Sutton") (**1988**). *Learning to Predict by the Methods of Temporal Differences*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_%28journal%29), Vol. 3, No. 1, [pdf](https://webdocs.cs.ualberta.ca/~sutton/papers/sutton-88-with-erratum.pdf)
-4. [↑](#cite_ref-4) [Nabla symbol from Wikipedia](https://en.wikipedia.org/wiki/Nabla_symbol)
-5. [↑](#cite_ref-5) [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1998**). *[First Results from Using Temporal Difference Learning in Shogi](http://www.springerlink.com/content/l9f4ngc2tqgnac9e/)*. [CG 1998](CG_1998 "CG 1998")
-6. [↑](#cite_ref-6) [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") (**1992**). *Temporal Difference Learning of Backgammon Strategy*. [ML 1992](http://www.informatik.uni-trier.de/~ley/db/conf/icml/ml1992.html#Tesauro92)
-7. [↑](#cite_ref-7) [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") (**1994**). *TD-Gammon, a Self-Teaching Backgammon Program, Achieves Master-Level Play*. [Neural Computation Vol. 6, No. 2](http://www.informatik.uni-trier.de/~ley/db/journals/neco/neco6.html#Tesauro94)
-8. [↑](#cite_ref-8) [Sacha Droste](Sacha_Droste "Sacha Droste"), [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz") (**2008**). *Learning of Piece Values for Chess Variants.* Technical Report TUD–KE–2008-07, Knowledge Engineering Group, [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology"), [pdf](http://www.ke.tu-darmstadt.de/publications/reports/tud-ke-2008-07.pdf)
-9. [↑](#cite_ref-9) [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1997**). *Learning Piece Values Using Temporal Differences*. [ICCA Journal, Vol. 20, No. 3](ICGA_Journal#20_3 "ICGA Journal")
-10. [↑](#cite_ref-10) [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [Lex Weaver](Lex_Weaver "Lex Weaver") (**1997**) *Knightcap: A chess program that learns by combining td(λ) with minimax search*. 15th International Conference on Machine Learning, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.8263&rep=rep1&type=pdf) via [citeseerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.54.8263)
-11. [↑](#cite_ref-11) [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1999**). *Learning Piece-Square Values using Temporal Differences.* [ICCA Journal, Vol. 22, No. 4](ICGA_Journal#22_4 "ICGA Journal")
-12. [↑](#cite_ref-12) [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [Lex Weaver](Lex_Weaver "Lex Weaver") (**1998**). *Knightcap: A chess program that learns by combining td(λ) with game-tree search*. Proceedings of the 15th International Conference on Machine Learning, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.8263&rep=rep1&type=pdf) via [citeseerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.54.8263)
-13. [↑](#cite_ref-13) [The Cilkchess Parallel Chess Program](http://supertech.csail.mit.edu/chess/)
-14. [↑](#cite_ref-14) [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1999**). *[Temporal Coherence and Prediction Decay in TD Learning](http://portal.acm.org/citation.cfm?id=1624299)*. [IJCAI 1999](Conferences#IJCAI1999 "Conferences"), [pdf](http://ijcai.org/Past%20Proceedings/IJCAI-99-VOL-1/PDF/081.pdf)
-15. [↑](#cite_ref-15)  [Re: Parameter Tuning](https://www.stmintz.com/ccc/index.php?id=28819) by [Don Beal](Don_Beal "Don Beal"), [CCC](CCC "CCC"), October 02, 1998
-16. [↑](#cite_ref-16) [Re: Hello from Edmonton (and on Temporal Differences)](https://www.stmintz.com/ccc/index.php?id=244085) by [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [CCC](CCC "CCC"), August 05, 2002
-17. [↑](#cite_ref-17) [Re: Positional learning](http://www.talkchess.com/forum/viewtopic.php?t=37062&start=2) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), December 13, 2010
-18. [↑](#cite_ref-18) [Positional learning](http://www.talkchess.com/forum/viewtopic.php?t=37062) by [Ben-Hur Carlos Vieira Langoni Junior](Ben-Hur_Carlos_Vieira_Langoni_Junior "Ben-Hur Carlos Vieira Langoni Junior"), [CCC](CCC "CCC"), December 13, 2010
-19. [↑](#cite_ref-19) [Tao update](https://www.stmintz.com/ccc/index.php?id=149645) by [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [CCC](CCC "CCC"), January 12, 2001
-20. [↑](#cite_ref-20) [Nici Schraudolph’s go networks](http://satirist.org/learn-game/systems/go-net.html), review by [Jay Scott](Jay_Scott "Jay Scott")
-21. [↑](#cite_ref-21) [Guy Haworth](Guy_Haworth "Guy Haworth"), [Meel Velliste](Meel_Velliste "Meel Velliste") (**1998**). *[Chess Endgames and Neural Networks](http://centaur.reading.ac.uk/4569/)*. [ICCA Journal, Vol. 21, No. 4](ICGA_Journal#21_4 "ICGA Journal")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Temporal difference learning from Wikipedia](https://en.wikipedia.org/wiki/Temporal_difference_learning)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Arthur Samuel](Arthur_Samuel "Arthur Samuel") (**1959**). *[Some Studies in Machine Learning Using the Game of Checkers](http://domino.watson.ibm.com/tchjr/journalindex.nsf/600cc5649e2871db852568150060213c/39a870213169f45685256bfa00683d74!OpenDocument)*. IBM Journal July 1959
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Richard Sutton](Richard_Sutton "Richard Sutton") (**1988**). *Learning to Predict by the Methods of Temporal Differences*. [Machine Learning](https://en.wikipedia.org/wiki/Machine_Learning_%28journal%29), Vol. 3, No. 1, [pdf](https://webdocs.cs.ualberta.ca/~sutton/papers/sutton-88-with-erratum.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Nabla symbol from Wikipedia](https://en.wikipedia.org/wiki/Nabla_symbol)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1998**). *[First Results from Using Temporal Difference Learning in Shogi](http://www.springerlink.com/content/l9f4ngc2tqgnac9e/)*. [CG 1998](CG_1998 "CG 1998")
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") (**1992**). *Temporal Difference Learning of Backgammon Strategy*. [ML 1992](http://www.informatik.uni-trier.de/~ley/db/conf/icml/ml1992.html#Tesauro92)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") (**1994**). *TD-Gammon, a Self-Teaching Backgammon Program, Achieves Master-Level Play*. [Neural Computation Vol. 6, No. 2](http://www.informatik.uni-trier.de/~ley/db/journals/neco/neco6.html#Tesauro94)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Sacha Droste](Sacha_Droste "Sacha Droste"), [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz") (**2008**). *Learning of Piece Values for Chess Variants.* Technical Report TUD–KE–2008-07, Knowledge Engineering Group, [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology"), [pdf](http://www.ke.tu-darmstadt.de/publications/reports/tud-ke-2008-07.pdf)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1997**). *Learning Piece Values Using Temporal Differences*. [ICCA Journal, Vol. 20, No. 3](ICGA_Journal#20_3 "ICGA Journal")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [Lex Weaver](Lex_Weaver "Lex Weaver") (**1997**) *Knightcap: A chess program that learns by combining td(λ) with minimax search*. 15th International Conference on Machine Learning, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.8263&rep=rep1&type=pdf) via [citeseerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.54.8263)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1999**). *Learning Piece-Square Values using Temporal Differences.* [ICCA Journal, Vol. 22, No. 4](ICGA_Journal#22_4 "ICGA Journal")
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Jonathan Baxter](Jonathan_Baxter "Jonathan Baxter"), [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell"), [Lex Weaver](Lex_Weaver "Lex Weaver") (**1998**). *Knightcap: A chess program that learns by combining td(λ) with game-tree search*. Proceedings of the 15th International Conference on Machine Learning, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.8263&rep=rep1&type=pdf) via [citeseerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.54.8263)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [The Cilkchess Parallel Chess Program](http://supertech.csail.mit.edu/chess/)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1999**). *[Temporal Coherence and Prediction Decay in TD Learning](http://portal.acm.org/citation.cfm?id=1624299)*. [IJCAI 1999](Conferences#IJCAI1999 "Conferences"), [pdf](http://ijcai.org/Past%20Proceedings/IJCAI-99-VOL-1/PDF/081.pdf)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a>  [Re: Parameter Tuning](https://www.stmintz.com/ccc/index.php?id=28819) by [Don Beal](Don_Beal "Don Beal"), [CCC](CCC "CCC"), October 02, 1998
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Re: Hello from Edmonton (and on Temporal Differences)](https://www.stmintz.com/ccc/index.php?id=244085) by [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [CCC](CCC "CCC"), August 05, 2002
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Re: Positional learning](http://www.talkchess.com/forum/viewtopic.php?t=37062&start=2) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), December 13, 2010
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Positional learning](http://www.talkchess.com/forum/viewtopic.php?t=37062) by [Ben-Hur Carlos Vieira Langoni Junior](Ben-Hur_Carlos_Vieira_Langoni_Junior "Ben-Hur Carlos Vieira Langoni Junior"), [CCC](CCC "CCC"), December 13, 2010
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Tao update](https://www.stmintz.com/ccc/index.php?id=149645) by [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [CCC](CCC "CCC"), January 12, 2001
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Nici Schraudolph’s go networks](http://satirist.org/learn-game/systems/go-net.html), review by [Jay Scott](Jay_Scott "Jay Scott")
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Guy Haworth](Guy_Haworth "Guy Haworth"), [Meel Velliste](Meel_Velliste "Meel Velliste") (**1998**). *[Chess Endgames and Neural Networks](http://centaur.reading.ac.uk/4569/)*. [ICCA Journal, Vol. 21, No. 4](ICGA_Journal#21_4 "ICGA Journal")
 
 **[Up one level](Learning "Learning")**
 

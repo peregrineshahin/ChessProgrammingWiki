@@ -5,14 +5,14 @@ title: 2nd Computer OlympiadWorkshop
 
 **[\< Prev](1st_Computer_Olympiad "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad "3rd Computer Olympiad")**
 
-[](http://www.flickriver.com/photos/tags/queenmarycollege/interesting/) Octagon [[1]](#cite_note-1)
-The **Second Computer Olympiad** was held from August 15 to 21, [1990](Timeline#1990 "Timeline"), in the Octagon library of [Queen Mary & Westfield College](Queen_Mary,_University_of_London "Queen Mary, University of London"), [London](https://en.wikipedia.org/wiki/London), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom). In [Chess](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad"), [Mephisto](Mephisto "Mephisto") by [Richard Lang](Richard_Lang "Richard Lang") took revenge on [Rebel](Rebel "Rebel"), first time running on an [ARM2](ARM2 "ARM2") processor, from [last years](1st_Computer_Olympiad#Chess "1st Computer Olympiad") defeat and managed a 100% score. Newcomer [Zugzwang](</Zugzwang_(Program)> "Zugzwang (Program)") was a great surprise, and [Kaissa](Kaissa#PC "Kaissa") was a new program with an old name, developed by a 9-member team around [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") [[2]](#cite_note-2). The second Computer Olympiad was again associated by the [Heuristic Programming in Artificial Intelligence](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad") workshop, soon followed by [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6"). Proceedings were edited by [David Levy](David_Levy "David Levy") and [Don Beal](Don_Beal "Don Beal"), published in 1991 [[3]](#cite_note-3).
+[](http://www.flickriver.com/photos/tags/queenmarycollege/interesting/) Octagon <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+The **Second Computer Olympiad** was held from August 15 to 21, [1990](Timeline#1990 "Timeline"), in the Octagon library of [Queen Mary & Westfield College](Queen_Mary,_University_of_London "Queen Mary, University of London"), [London](https://en.wikipedia.org/wiki/London), [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom). In [Chess](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad"), [Mephisto](Mephisto "Mephisto") by [Richard Lang](Richard_Lang "Richard Lang") took revenge on [Rebel](Rebel "Rebel"), first time running on an [ARM2](ARM2 "ARM2") processor, from [last years](1st_Computer_Olympiad#Chess "1st Computer Olympiad") defeat and managed a 100% score. Newcomer [Zugzwang](</Zugzwang_(Program)> "Zugzwang (Program)") was a great surprise, and [Kaissa](Kaissa#PC "Kaissa") was a new program with an old name, developed by a 9-member team around [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The second Computer Olympiad was again associated by the [Heuristic Programming in Artificial Intelligence](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad") workshop, soon followed by [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6"). Proceedings were edited by [David Levy](David_Levy "David Levy") and [Don Beal](Don_Beal "Don Beal"), published in 1991 <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 ## Results
 
 ## [Awari](Awari "Awari")
 
-**[\< Prev](1st_Computer_Olympiad#Awari "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Awari "3rd Computer Olympiad")** [[4]](#cite_note-4)
+**[\< Prev](1st_Computer_Olympiad#Awari "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Awari "3rd Computer Olympiad")** <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 |  #
 |  Program
@@ -36,7 +36,7 @@ The **Second Computer Olympiad** was held from August 15 to 21, [1990](Timeline#
 
 ## [Backgammon](Backgammon "Backgammon")
 
-**[\< Prev](1st_Computer_Olympiad#Backgammon "1st Computer Olympiad") [Next >](4th_Computer_Olympiad#Backgammon "4th Computer Olympiad")** [[5]](#cite_note-5)
+**[\< Prev](1st_Computer_Olympiad#Backgammon "1st Computer Olympiad") [Next >](4th_Computer_Olympiad#Backgammon "4th Computer Olympiad")** <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 |  #
 |  Program
@@ -61,7 +61,7 @@ The **Second Computer Olympiad** was held from August 15 to 21, [1990](Timeline#
 
 ## [Bridge](index.php?title=Bridge&action=edit&redlink=1 "Bridge (page does not exist)")
 
-**[\< Prev](1st_Computer_Olympiad#Bridge "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Bridge "3rd Computer Olympiad")** [[6]](#cite_note-6)
+**[\< Prev](1st_Computer_Olympiad#Bridge "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Bridge "3rd Computer Olympiad")** <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 |  #
 |  Program
@@ -86,7 +86,7 @@ The **Second Computer Olympiad** was held from August 15 to 21, [1990](Timeline#
 
 ## [Checkers](Checkers "Checkers")
 
-**[\< Prev](1st_Computer_Olympiad#Checkers "1st Computer Olympiad")** [[7]](#cite_note-7)
+**[\< Prev](1st_Computer_Olympiad#Checkers "1st Computer Olympiad")** <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 |  #
 |  Program
@@ -116,7 +116,7 @@ The **Second Computer Olympiad** was held from August 15 to 21, [1990](Timeline#
 
 ## Chess
 
-**[\< Prev](1st_Computer_Olympiad#Chess "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Chess "3rd Computer Olympiad")** [[8]](#cite_note-8)
+**[\< Prev](1st_Computer_Olympiad#Chess "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Chess "3rd Computer Olympiad")** <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ### Final Standing
 
@@ -306,7 +306,7 @@ The **Second Computer Olympiad** was held from August 15 to 21, [1990](Timeline#
 
 ### Participants
 
-[[9]](#cite_note-9)
+<a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 |  Program
 |  CC
@@ -345,7 +345,7 @@ The **Second Computer Olympiad** was held from August 15 to 21, [1990](Timeline#
 
 ### Selected Games
 
-Round 1,[Échec](%C3%89chec "Échec") - [Rebel '90](Rebel "Rebel") [[10]](#cite_note-10)
+Round 1,[Échec](%C3%89chec "Échec") - [Rebel '90](Rebel "Rebel") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ```
 
@@ -369,7 +369,7 @@ b3 53.f7 b2 54.f8=Q b1=Q+ 55.Kg5 Qc1+ 56.Qf4 Qxf4+ 57.Kxf4 Kd5 58.Kf5 a5 59.g4 a
 
 ```
 
-Round 4, [Mephisto X](Mephisto_Lyon "Mephisto Lyon") - [Rebel '90](Rebel "Rebel") [[11]](#cite_note-11)
+Round 4, [Mephisto X](Mephisto_Lyon "Mephisto Lyon") - [Rebel '90](Rebel "Rebel") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
 
@@ -394,7 +394,7 @@ Rf3 48.Rxa3 Rxe3 49.Ba4 Bxa4 50.Rxe3 Kxd4 51.Ra3 Bc6 52.Ra6 Bb5 53.Rg6 e3 54.Rxg
 
 ## [Chinese Chess](Chinese_Chess "Chinese Chess")
 
-**[\< Prev](1st_Computer_Olympiad#ChineseChess "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#ChineseChess "3rd Computer Olympiad")** [[12]](#cite_note-12)
+**[\< Prev](1st_Computer_Olympiad#ChineseChess "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#ChineseChess "3rd Computer Olympiad")** <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 |  #
 |  Program
@@ -428,7 +428,7 @@ Rf3 48.Rxa3 Rxe3 49.Ba4 Bxa4 50.Rxe3 Kxd4 51.Ra3 Bc6 52.Ra6 Bb5 53.Rg6 e3 54.Rxg
 
 ### 19x19
 
-[[13]](#cite_note-13)
+<a id="cite-note-13" href="#cite-ref-13">[13]</a>
 
 |  #
 |  Program
@@ -457,7 +457,7 @@ Rf3 48.Rxa3 Rxe3 49.Ba4 Bxa4 50.Rxe3 Kxd4 51.Ra3 Bc6 52.Ra6 Bb5 53.Rg6 e3 54.Rxg
 
 ### 9x9
 
-[[14]](#cite_note-14)
+<a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 |  #
 |  Program
@@ -490,7 +490,7 @@ Rf3 48.Rxa3 Rxe3 49.Ba4 Bxa4 50.Rxe3 Kxd4 51.Ra3 Bc6 52.Ra6 Bb5 53.Rg6 e3 54.Rxg
 
 ## [Gomoku](index.php?title=Gomoku&action=edit&redlink=1 "Gomoku (page does not exist)")
 
-**[\< Prev](1st_Computer_Olympiad#Gomoku "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Gomoku "3rd Computer Olympiad")** [[15]](#cite_note-15)
+**[\< Prev](1st_Computer_Olympiad#Gomoku "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Gomoku "3rd Computer Olympiad")** <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 |  #
 |  Program
@@ -536,7 +536,7 @@ Rf3 48.Rxa3 Rxe3 49.Ba4 Bxa4 50.Rxe3 Kxd4 51.Ra3 Bc6 52.Ra6 Bb5 53.Rg6 e3 54.Rxg
 
 ## [Othello](Othello "Othello")
 
-**[\< Prev](1st_Computer_Olympiad#Othello "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Othello "3rd Computer Olympiad")** [[16]](#cite_note-16)
+**[\< Prev](1st_Computer_Olympiad#Othello "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Othello "3rd Computer Olympiad")** <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 |  #
 |  Program
@@ -580,7 +580,7 @@ Rf3 48.Rxa3 Rxe3 49.Ba4 Bxa4 50.Rxe3 Kxd4 51.Ra3 Bc6 52.Ra6 Bb5 53.Rg6 e3 54.Rxg
 
 ## [Qubic](index.php?title=Qubic&action=edit&redlink=1 "Qubic (page does not exist)")
 
-[[17]](#cite_note-17)
+<a id="cite-note-17" href="#cite-ref-17">[17]</a>
 
 |  #
 |  Program
@@ -604,7 +604,7 @@ Rf3 48.Rxa3 Rxe3 49.Ba4 Bxa4 50.Rxe3 Kxd4 51.Ra3 Bc6 52.Ra6 Bb5 53.Rg6 e3 54.Rxg
 
 ## [Renju](index.php?title=Renju&action=edit&redlink=1 "Renju (page does not exist)")
 
-**[\< Prev](1st_Computer_Olympiad#Renju "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Renju "3rd Computer Olympiad")** [[18]](#cite_note-18) [[19]](#cite_note-19)
+**[\< Prev](1st_Computer_Olympiad#Renju "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Renju "3rd Computer Olympiad")** <a id="cite-note-18" href="#cite-ref-18">[18]</a> <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 
 |  #
 |  Program
@@ -628,7 +628,7 @@ Rf3 48.Rxa3 Rxe3 49.Ba4 Bxa4 50.Rxe3 Kxd4 51.Ra3 Bc6 52.Ra6 Bb5 53.Rg6 e3 54.Rxg
 
 ## [Scrabble](index.php?title=Scrabble&action=edit&redlink=1 "Scrabble (page does not exist)")
 
-**[\< Prev](1st_Computer_Olympiad#Scrabble "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Scrabble "3rd Computer Olympiad")** [[20]](#cite_note-20)
+**[\< Prev](1st_Computer_Olympiad#Scrabble "1st Computer Olympiad") [Next >](3rd_Computer_Olympiad#Scrabble "3rd Computer Olympiad")** <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 
 |  #
 |  Program
@@ -668,7 +668,7 @@ Rf3 48.Rxa3 Rxe3 49.Ba4 Bxa4 50.Rxe3 Kxd4 51.Ra3 Bc6 52.Ra6 Bb5 53.Rg6 e3 54.Rxg
 
 ## Heuristic Programming in AI
 
-- [David Levy](David_Levy "David Levy"), [Don Beal](Don_Beal "Don Beal") (Eds.) (**1991**). *Heuristic Programming in Artificial Intelligence - The Second Computer Olympiad*. Ellis Horwood [[21]](#cite_note-21) [[22]](#cite_note-22)
+- [David Levy](David_Levy "David Levy"), [Don Beal](Don_Beal "Don Beal") (Eds.) (**1991**). *Heuristic Programming in Artificial Intelligence - The Second Computer Olympiad*. Ellis Horwood <a id="cite-note-21" href="#cite-ref-21">[21]</a> <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 
 ### Tournaments
 
@@ -688,7 +688,7 @@ Rf3 48.Rxa3 Rxe3 49.Ba4 Bxa4 50.Rxe3 Kxd4 51.Ra3 Bc6 52.Ra6 Bb5 53.Rg6 e3 54.Rxg
 1. [Susan L. Epstein](Susan_L._Epstein "Susan L. Epstein") (**1991**). *Deep Forks in Strategic Maps*. [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
 1. [Alan Frank](index.php?title=Alan_Frank&action=edit&redlink=1 "Alan Frank (page does not exist)") (**1991**). *Brute Force Search in Games of Imperfect Information*. [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
 1. [Andrey Grigoriev](index.php?title=Andrey_Grigoriev&action=edit&redlink=1 "Andrey Grigoriev (page does not exist)") (**1991**). *Artificial Intelligence or Stochastic Relaxation: Simulated Annealing Challenge*. [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
-1. [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**1991**). *The Smart Game Board as a Tool for Game Programmers*. [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad") » [Smart Game Board](Anders_Kierulf#SmartGameBoard "Anders Kierulf") [[23]](#cite_note-23)
+1. [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**1991**). *The Smart Game Board as a Tool for Game Programmers*. [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad") » [Smart Game Board](Anders_Kierulf#SmartGameBoard "Anders Kierulf") <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 1. [Victor Allis](Victor_Allis "Victor Allis"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1991**). *Which Games Will Survive*? [Heuristic Programming in AI 2](2nd_Computer_Olympiad#Workshop "2nd Computer Olympiad")
 
 ## See also
@@ -709,29 +709,29 @@ Rf3 48.Rxa3 Rxe3 49.Ba4 Bxa4 50.Rxe3 Kxd4 51.Ra3 Bc6 52.Ra6 Bb5 53.Rg6 e3 54.Rxg
 
 ## References
 
-1. [↑](#cite_ref-1) Octagon shelves, Queen Mary College, Mile End, from [Flickriver: Most interesting photos tagged with queenmarycollege](http://www.flickriver.com/photos/tags/queenmarycollege/interesting/) by [Fin Fahey](http://www.flickriver.com/photos/albedo/popular-interesting/)
-1. [↑](#cite_ref-2) [Zsuzsa Horváth](Zsuzsa_Horv%C3%A1th "Zsuzsa Horváth") (**1990**). *Report on the 2nd Computer Olympiad*. [ICCA Journal, Vol. 13, No. 3](ICGA_Journal#13_3 "ICGA Journal")
-1. [↑](#cite_ref-3) [David Levy](David_Levy "David Levy"), [Don Beal](Don_Beal "Don Beal") (Eds.) (**1991**). *Heuristic Programming in Artificial Intelligence - The Second Computer Olympiad*. Ellis Horwood
-1. [↑](#cite_ref-4) [2nd Computer Olympiad, Awari - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=132)
-1. [↑](#cite_ref-5) [2nd Computer Olympiad, Backgammon - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=133)
-1. [↑](#cite_ref-6) [2nd Computer Olympiad, Bridge - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=134)
-1. [↑](#cite_ref-7) [2nd Computer Olympiad, Checkers - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=136)
-1. [↑](#cite_ref-8) [2nd Computer Olympiad, Chess - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=142)
-1. [↑](#cite_ref-9) [2nd Computer Olympiad --- Chess results](https://groups.google.com/d/msg/rec.games.chess/wUdkcPVTxtQ/1hhOAUpyVEIJ) by Alain Le Borgne, [rgc](Computer_Chess_Forums "Computer Chess Forums"), August 27, 1990
-1. [↑](#cite_ref-10) [London 1990 - Chess - Round 1 - Game 10 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=142&round=1&id=10)
-1. [↑](#cite_ref-11)  [Zsuzsa Horváth](Zsuzsa_Horv%C3%A1th "Zsuzsa Horváth") (**1990**). *Report on the 2nd Computer Olympiad*. [ICCA Journal, Vol. 13, No. 3](ICGA_Journal#13_3 "ICGA Journal")
-1. [↑](#cite_ref-12) [2nd Computer Olympiad, Chinese Chess - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=135)
-1. [↑](#cite_ref-13) [2nd Computer Olympiad, Go - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=48)
-1. [↑](#cite_ref-14) [2nd Computer Olympiad, Go (9x9) - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=49)
-1. [↑](#cite_ref-15) [2nd Computer Olympiad, Go-Moku - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=137)
-1. [↑](#cite_ref-16) [2nd Computer Olympiad, Othello - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=138)
-1. [↑](#cite_ref-17) [2nd Computer Olympiad, Qubic - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=139)
-1. [↑](#cite_ref-18) [2nd Computer Olympiad, Renju - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=140)
-1. [↑](#cite_ref-19) [Renju from Wikipedia](https://en.wikipedia.org/wiki/Renju)
-1. [↑](#cite_ref-20) [2nd Computer Olympiad, Scrabble - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=141)
-1. [↑](#cite_ref-21) [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1991**). *Review: Heuristic Programming in Artificoal Intelligence - The Second Computer Olympiad*. [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal")
-1. [↑](#cite_ref-22) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. [↑](#cite_ref-23) [Smart Game Board](https://webdocs.cs.ualberta.ca/~mmueller/cgo/sgb.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Octagon shelves, Queen Mary College, Mile End, from [Flickriver: Most interesting photos tagged with queenmarycollege](http://www.flickriver.com/photos/tags/queenmarycollege/interesting/) by [Fin Fahey](http://www.flickriver.com/photos/albedo/popular-interesting/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Zsuzsa Horváth](Zsuzsa_Horv%C3%A1th "Zsuzsa Horváth") (**1990**). *Report on the 2nd Computer Olympiad*. [ICCA Journal, Vol. 13, No. 3](ICGA_Journal#13_3 "ICGA Journal")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [David Levy](David_Levy "David Levy"), [Don Beal](Don_Beal "Don Beal") (Eds.) (**1991**). *Heuristic Programming in Artificial Intelligence - The Second Computer Olympiad*. Ellis Horwood
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [2nd Computer Olympiad, Awari - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=132)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [2nd Computer Olympiad, Backgammon - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=133)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [2nd Computer Olympiad, Bridge - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=134)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [2nd Computer Olympiad, Checkers - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=136)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [2nd Computer Olympiad, Chess - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=142)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [2nd Computer Olympiad --- Chess results](https://groups.google.com/d/msg/rec.games.chess/wUdkcPVTxtQ/1hhOAUpyVEIJ) by Alain Le Borgne, [rgc](Computer_Chess_Forums "Computer Chess Forums"), August 27, 1990
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [London 1990 - Chess - Round 1 - Game 10 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/round.php?tournament=142&round=1&id=10)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a>  [Zsuzsa Horváth](Zsuzsa_Horv%C3%A1th "Zsuzsa Horváth") (**1990**). *Report on the 2nd Computer Olympiad*. [ICCA Journal, Vol. 13, No. 3](ICGA_Journal#13_3 "ICGA Journal")
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [2nd Computer Olympiad, Chinese Chess - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=135)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [2nd Computer Olympiad, Go - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=48)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [2nd Computer Olympiad, Go (9x9) - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=49)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [2nd Computer Olympiad, Go-Moku - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=137)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [2nd Computer Olympiad, Othello - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=138)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [2nd Computer Olympiad, Qubic - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=139)
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [2nd Computer Olympiad, Renju - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=140)
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Renju from Wikipedia](https://en.wikipedia.org/wiki/Renju)
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [2nd Computer Olympiad, Scrabble - London 1990 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/tournament.php?id=141)
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk") (**1991**). *Review: Heuristic Programming in Artificoal Intelligence - The Second Computer Olympiad*. [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal")
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Smart Game Board](https://webdocs.cs.ualberta.ca/~mmueller/cgo/sgb.html)
 
 **[Up one level](Computer_Olympiad "Computer Olympiad")**
 

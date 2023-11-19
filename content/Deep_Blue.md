@@ -3,7 +3,7 @@ title: Deep Blue
 ---
 **[Home](Home "Home") * [Engines](Engines "Engines") * Deep Blue**
 
-\[ Deep Blue [[1]](#cite_note-1)
+\[ Deep Blue <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Deep Blue**,
 
 the [IBM](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)") sponsored successor of the chess entity [Deep Thought](Deep_Thought "Deep Thought"). The project initially started in 1985 as [ChipTest](ChipTest "ChipTest") at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") by the computer science doctoral students [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") and [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman"). [Murray Campbell](Murray_Campbell "Murray Campbell"), former co-developer of [HiTech](HiTech "HiTech"), joined the ChipTest team a few months later.
@@ -13,9 +13,9 @@ winning the $100,000 [Fredkin prize](Edward_Fredkin#Prize "Edward Fredkin"), awa
 
 ## Description
 
-## [](http://www.computerhistory.org/chess/full_record.php?iid=art-431614f45291e) Deep blue chip [[2]](#cite_note-2) 1995
+## [](http://www.computerhistory.org/chess/full_record.php?iid=art-431614f45291e) Deep blue chip <a id="cite-note-2" href="#cite-ref-2">[2]</a> 1995
 
-Description given in 1995 from the [ICGA](ICGA "ICGA") site [[3]](#cite_note-3) :
+Description given in 1995 from the [ICGA](ICGA "ICGA") site <a id="cite-note-3" href="#cite-ref-3">[3]</a> :
 
 ```C++
 Deep Blue Prototype consists of an IBM [RS/6000](index.php?title=RS/6000&action=edit&redlink=1 "RS/6000 (page does not exist)") workstation with 14 chess search engines as slave processors. Each processor contains a VLSI chip for [move generation](Move_Generation "Move Generation"), as well as additional hardware for [search](Search "Search") and [evaluation](Evaluation "Evaluation"). Each [Deep Thought 2](Deep_Thought "Deep Thought") processor searches about 500,000 [positions per second](Nodes_per_Second "Nodes per Second") standalone, or about 400,000 positions per second as a slave processor. (This is about 1/10th of the projected speed of the Deep Blue single-processor currently in fabrication.) The 14-processor Deep Thought 2 typically searches between 3 and 5 million positions per second. When conducting a search, the search tree near the root position is processed on the host workstation, and includes [selective](Selectivity "Selectivity") search [extension](Extensions "Extensions") algorithms such as [singular extensions](Singular_Extensions "Singular Extensions"). The deepest nodes in the search tree are handled by the slave search engines which usually do 4-ply [alpha-beta](Alpha-Beta "Alpha-Beta") searches. 
@@ -27,7 +27,7 @@ Deep Blue Prototype consists of an IBM [RS/6000](index.php?title=RS/6000&action=
 The 1997 Deep Blue system was based on an IBM [RS/6000 SP](index.php?title=RS/6000&action=edit&redlink=1 "RS/6000 (page does not exist)") supercomputer, using 30 workstation nodes of [PowerPC](PowerPC "PowerPC") processors controlling 16 chess chips each, distributed over two [Micro Channel](https://en.wikipedia.org/wiki/Micro_Channel_architecture) boards.
 A chess chip features of a full-fledged chess machine on its own, along with [move generator](Move_Generation "Move Generation"), a smart move stack, hardware [evaluation function](Evaluation_Function "Evaluation Function"), and
 an [alpha-beta](Alpha-Beta "Alpha-Beta") hardware search controller. The [search](Search "Search") occurs in [parallel](Parallel_Search "Parallel Search") on two levels, one distributed over the IBM RS/6000 SP switching network and the other over the Micro Channel bus inside a workstation node.
-A master workstation node first starts the software search exclusively, to distribute work to all 30 workstation nodes only at a certain [depth](Depth "Depth") (i.e. 4 [plies](Ply "Ply")). After generation an appropriate number of childs and grandchilds etc., the software search per node utilize the 16 chess chips to search the final four plies plus [quiescence search](Quiescence_Search "Quiescence Search") in hardware. Since each chess chip could search 2 to 2.5 million [nodes per second](Nodes_per_Second "Nodes per Second"), the system speed reached about one billion nps (480 chips). During the 1997 match, the software search extended the search to about 40 plies along the forcing lines, even though the nonextended search reached only about 12 plies [[4]](#cite_note-4).
+A master workstation node first starts the software search exclusively, to distribute work to all 30 workstation nodes only at a certain [depth](Depth "Depth") (i.e. 4 [plies](Ply "Ply")). After generation an appropriate number of childs and grandchilds etc., the software search per node utilize the 16 chess chips to search the final four plies plus [quiescence search](Quiescence_Search "Quiescence Search") in hardware. Since each chess chip could search 2 to 2.5 million [nodes per second](Nodes_per_Second "Nodes per Second"), the system speed reached about one billion nps (480 chips). During the 1997 match, the software search extended the search to about 40 plies along the forcing lines, even though the nonextended search reached only about 12 plies <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
 ## Tournaments & Matches
 
@@ -59,7 +59,7 @@ In 1997 Deep Blue won the rematch against Kasparov. He did not recover after the
 ## Photos
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f67157b)
-Deep Blue's core team, [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), and [Murray Campbell](Murray_Campbell "Murray Campbell") [[5]](#cite_note-5)
+Deep Blue's core team, [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), and [Murray Campbell](Murray_Campbell "Murray Campbell") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ## See also
 
@@ -84,11 +84,11 @@ Deep Blue's core team, [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Fen
 
 ## 1997
 
-- [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1997**). *[Kasparov versus Deep Blue: Computer Chess Comes of Age](https://link.springer.com/book/10.1007/978-1-4612-2260-6).* [Springer](https://de.wikipedia.org/wiki/Springer_Science%2BBusiness_Media) [[6]](#cite_note-6)
+- [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1997**). *[Kasparov versus Deep Blue: Computer Chess Comes of Age](https://link.springer.com/book/10.1007/978-1-4612-2260-6).* [Springer](https://de.wikipedia.org/wiki/Springer_Science%2BBusiness_Media) <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 - [Yasser Seirawan](https://en.wikipedia.org/wiki/Yasser_Seirawan), [Herbert Simon](Herbert_Simon "Herbert Simon"), [Toshinori Munakata](Toshinori_Munakata "Toshinori Munakata") (**1997**). *[The Implications of Kasparov vs. Deep Blue](http://dl.acm.org/citation.cfm?id=257878)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 40, No. 8, [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/5-4.The_implications_of_deep_blue_vs_kasparov/5-4.The_implications_of_deep_blue_vs_kasparov.simon_seirawan.1997.ACM.062303057.sm.pdf) hosted from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 - [Daniel C. Dennet](https://en.wikipedia.org/wiki/Daniel_Dennett) (**1997**). *Can Machines Think? Deep Blue and Beyond*. [ICCA Journal, Vol. 20, No. 4](ICGA_Journal#20_4 "ICGA Journal")
 - [Thomas Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") (**1997**). *Evaluation Tuning for Computer Chess: Linear Discriminant Methods*. [ICCA Journal, Vol. 20, No. 4](ICGA_Journal#20_4 "ICGA Journal")
-- [Richard Korf](Richard_Korf "Richard Korf") (**1997**). *Does DEEP BLUE use Artificial Intelligence?* [ICCA Journal, Vol. 20, No. 4](ICGA_Journal#20_4 "ICGA Journal") [[7]](#cite_note-7)
+- [Richard Korf](Richard_Korf "Richard Korf") (**1997**). *Does DEEP BLUE use Artificial Intelligence?* [ICCA Journal, Vol. 20, No. 4](ICGA_Journal#20_4 "ICGA Journal") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 - [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**1997**). *[Kasparov versus Deep Blue: The Rematch](http://webdocs.cs.ualberta.ca/~jonathan/PREVIOUS/Grad/Papers/db.html)*. [ICCA Journal, Vol. 20, No. 2](ICGA_Journal#20_2 "ICGA Journal")
 - [Tom R. Halfhill](index.php?title=Tom_R._Halfhill&action=edit&redlink=1 "Tom R. Halfhill (page does not exist)") (**1997**). *[Searching for Deep Blue](https://dl.acm.org/citation.cfm?id=258116).* [BYTE, Vol. 22, No. 07](Byte_Magazine#BYTE2207 "Byte Magazine")
 - [Carol McKenna Hamilton](index.php?title=Carol_McKenna_Hamilton&action=edit&redlink=1 "Carol McKenna Hamilton (page does not exist)"), [Sara Hedberg](index.php?title=Sara_Hedberg&action=edit&redlink=1 "Sara Hedberg (page does not exist)") (**1997**). *Modern Masters of an Ancient Game*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 18, No. 4, [pdf](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1329/1230)
@@ -96,7 +96,7 @@ Deep Blue's core team, [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Fen
 
 ## AAAI Workshop
 
-- [Robert Morris](index.php?title=Robert_Morris&action=edit&redlink=1 "Robert Morris (page does not exist)") (ed.) (**1997**). *[Deep Blue Versus Kasparov: The Significance for Artificial Intelligence](https://aaai.org/Library/Workshops/ws97-04.php)*. Technical Report WS-97-04, [AAAI Press](AAAI#Press "AAAI") [[8]](#cite_note-8) [[9]](#cite_note-9)
+- [Robert Morris](index.php?title=Robert_Morris&action=edit&redlink=1 "Robert Morris (page does not exist)") (ed.) (**1997**). *[Deep Blue Versus Kasparov: The Significance for Artificial Intelligence](https://aaai.org/Library/Workshops/ws97-04.php)*. Technical Report WS-97-04, [AAAI Press](AAAI#Press "AAAI") <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 1. [Richard Korf](Richard_Korf "Richard Korf") (**1997**). *Does Deep Blue use AI?* [Deep Blue versus Kasparov, AAAI Workshop](#AAAI_Workshop), [pdf](http://www.aaai.org/Papers/Workshops/1997/WS-97-04/WS97-04-001.pdf)
 1. [Robert Levinson](Robert_Levinson "Robert Levinson"), [Jeff Wilkinson](index.php?title=Jeff_Wilkinson&action=edit&redlink=1 "Jeff Wilkinson (page does not exist)") (**1997**). *[Deep Blue is Still an Infant](https://www.semanticscholar.org/paper/Deep-Blue-is-Still-an-Infant-Levinson-Wilkinson/3ce74263ef7b5d04fdf709b2dd3a519d780ae47f)*. [Deep Blue versus Kasparov, AAAI Workshop](#AAAI_Workshop)
@@ -114,7 +114,7 @@ Deep Blue's core team, [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Fen
 
 ## 1998 ...
 
-- [Hans Berliner](Hans_Berliner "Hans Berliner") (**1998**). *Review of Monty Newborn: Kasparov versus Deep Blue*. [pdf](http://www.ams.org/notices/199804/bkrev-berliner.pdf) [[10]](#cite_note-10)
+- [Hans Berliner](Hans_Berliner "Hans Berliner") (**1998**). *Review of Monty Newborn: Kasparov versus Deep Blue*. [pdf](http://www.ams.org/notices/199804/bkrev-berliner.pdf) <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 - [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**1999**). *IBM’s Deep Blue Chess Grandmaster Chips*. [IEEE Micro](IEEE#Micro "IEEE"), Vol. 19, No. 2, [pdf](http://www.csis.pace.edu/~ctappert/dps/pdf/ai-chess-deep.pdf)
 - [Murray Campbell](Murray_Campbell "Murray Campbell") (**1999**). *Knowledge Discovery in Deep Blue.* [Communications of the ACM](ACM#Communications "ACM"), Vol. 42, No. 11
 - [Murray Campbell](Murray_Campbell "Murray Campbell"), [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**1999**). *Search Control Methods in Deep Blue*. [AAAI](AAAI "AAAI") Technical Report SS-99-07, [pdf](https://pdfs.semanticscholar.org/211d/7268093b4dfce8201e8da321201c6cd349ef.pdf), [pdf](https://web.archive.org/web/20160914070926/http://aaaipress.org/Papers/Symposia/Spring/1999/SS-99-07/SS99-07-004.pdf)
@@ -122,7 +122,7 @@ Deep Blue's core team, [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Fen
 ## 2000 ...
 
 - [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**2001**). *Ken Thompson and DEEP BLUE*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
-- [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") (**2001**). *[Comparison Training of Chess Evaluation Functions](http://dl.acm.org/citation.cfm?id=644397)*. In [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz"), [Miroslav Kubat](Miroslav_Kubat "Miroslav Kubat") (eds.) (**2001**). *[Machines that learn to play games](https://www.novapublishers.com/catalog/product_info.php?products_id=720)*, 117–130, [Nova Science Publishers](https://en.wikipedia.org/wiki/Nova_Science_Publishers) » [Automated Tuning](Automated_Tuning "Automated Tuning"), [SCP](SCP "SCP") [[11]](#cite_note-11)
+- [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") (**2001**). *[Comparison Training of Chess Evaluation Functions](http://dl.acm.org/citation.cfm?id=644397)*. In [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz"), [Miroslav Kubat](Miroslav_Kubat "Miroslav Kubat") (eds.) (**2001**). *[Machines that learn to play games](https://www.novapublishers.com/catalog/product_info.php?products_id=720)*, 117–130, [Nova Science Publishers](https://en.wikipedia.org/wiki/Nova_Science_Publishers) » [Automated Tuning](Automated_Tuning "Automated Tuning"), [SCP](SCP "SCP") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 - [Murray Campbell](Murray_Campbell "Murray Campbell"), [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**2002**). *[Deep Blue](https://www.sciencedirect.com/science/article/pii/S0004370201001291)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 134, Nos. 1-2
 - [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**2002**). *[Behind Deep Blue: Building the Computer that Defeated the World Chess Champion](http://press.princeton.edu/titles/7342.html)*. [Princeton University Press](https://en.wikipedia.org/wiki/Princeton_University_Press)
 
@@ -133,11 +133,11 @@ Deep Blue's core team, [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Fen
 
 ## 2010 ...
 
-- [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**2011**). *[Beyond Deep Blue: Chess in the Stratosphere](http://www.springer.com/computer/general+issues/book/978-0-85729-340-4)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media) [[12]](#cite_note-12)
+- [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**2011**). *[Beyond Deep Blue: Chess in the Stratosphere](http://www.springer.com/computer/general+issues/book/978-0-85729-340-4)*. [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media) <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 [](http://www.springer.com/computer/general+issues/book/978-0-85729-340-4)
 
-- [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)") (**2017**). *[Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://www.goodreads.com/book/show/31934455-deep-thinking)*. [PublicAffairs](https://en.wikipedia.org/wiki/PublicAffairs) or [John Murray](<https://en.wikipedia.org/wiki/John_Murray_(publisher)>) [[13]](#cite_note-13) [[14]](#cite_note-14) [[15]](#cite_note-15)
+- [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)") (**2017**). *[Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://www.goodreads.com/book/show/31934455-deep-thinking)*. [PublicAffairs](https://en.wikipedia.org/wiki/PublicAffairs) or [John Murray](<https://en.wikipedia.org/wiki/John_Murray_(publisher)>) <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a> <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 ## Forum Posts
 
@@ -191,12 +191,12 @@ Deep Blue's core team, [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Fen
 - [DeepBlue && SingularExtensions && !Nullmoving](https://www.stmintz.com/ccc/index.php?id=259497) by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev"), [CCC](CCC "CCC"), October 16, 2002 » [Singular Extensions](Singular_Extensions "Singular Extensions"), [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
 - [deep blue's automatic tuning of evaluation function](https://www.stmintz.com/ccc/index.php?id=290239) by Emerson Tan, [CCC](CCC "CCC"), March 22, 2003 » [Automated Tuning](Automated_Tuning "Automated Tuning")
 - [Behind Deep Blue: 3rd print with new Hsu afterword](https://www.stmintz.com/ccc/index.php?id=363852) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), May 07, 2004
-- [Article by Tesauro on Deep Blue's evaluation-tuning](https://www.stmintz.com/ccc/index.php?id=375936) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), July 11, 2004 [[16]](#cite_note-16)
+- [Article by Tesauro on Deep Blue's evaluation-tuning](https://www.stmintz.com/ccc/index.php?id=375936) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), July 11, 2004 <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 ## 2005 ...
 
 - [Deep Blue Language](https://www.stmintz.com/ccc/index.php?id=405037) by Daniel Marquez Lisboa, [CCC](CCC "CCC"), January 11, 2005
-- [Kasparov \[HBR interview\] : 'IBM committed a crime against science.'](https://www.stmintz.com/ccc/index.php?id=422970) by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), April 26, 2005 [[17]](#cite_note-17)
+- [Kasparov \[HBR interview\] : 'IBM committed a crime against science.'](https://www.stmintz.com/ccc/index.php?id=422970) by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), April 26, 2005 <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 - [(Obvious troll) Kasparov vs DB-I was a disaster for human chess](https://www.stmintz.com/ccc/index.php?id=424608) by [Walter Faxon](Walter_Faxon "Walter Faxon"), [CCC](CCC "CCC"), May 06, 2005
 - [Robert question, Deep Blue 3.1x](https://www.stmintz.com/ccc/index.php?id=450405) by K. Burcham, [CCC](CCC "CCC"), September 19, 2005
 - [Adjusting weights the Deep Blue way](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=49450) by [Tony van Roon-Werten](Tony_van_Roon-Werten "Tony van Roon-Werten"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), August 29, 2008 » [Automated Tuning](Automated_Tuning "Automated Tuning")
@@ -210,7 +210,7 @@ Deep Blue's core team, [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Fen
 
 ## 2015 ...
 
-- [New Pictures from Kasparov vs. Deep Blue](http://www.talkchess.com/forum/viewtopic.php?t=59211) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), February 10, 2016 [[18]](#cite_note-18)
+- [New Pictures from Kasparov vs. Deep Blue](http://www.talkchess.com/forum/viewtopic.php?t=59211) by [Steve Maughan](Steve_Maughan "Steve Maughan"), [CCC](CCC "CCC"), February 10, 2016 <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 - [Hash Tables Deep Blue](http://www.talkchess.com/forum/viewtopic.php?t=64021) by Gustavo Mallada, [CCC](CCC "CCC"), May 18, 2017 » [Transposition Table](Transposition_Table "Transposition Table")
 
 ## 2020 ...
@@ -235,7 +235,7 @@ Deep Blue's core team, [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Fen
 ### 1997
 
 - ["Deep Blue" inspires deep thinking about artificial intelligence by computer scientist](https://www.sciencedaily.com/releases/1997/05/970501194114.htm) by [Robert Irion](https://scicom.ucsc.edu/faculty/), [University of California, Santa Cruz](University_of_California,_Santa_Cruz "University of California, Santa Cruz"), May 5, 1997
-- [Techmate](https://www.forbes.com/asap/1999/0222/071.html) by [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), February 22, 1999, [Forbes.com](https://en.wikipedia.org/wiki/Forbes) [[19]](#cite_note-19)
+- [Techmate](https://www.forbes.com/asap/1999/0222/071.html) by [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), February 22, 1999, [Forbes.com](https://en.wikipedia.org/wiki/Forbes) <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 
 ### 2000 ...
 
@@ -247,19 +247,19 @@ Deep Blue's core team, [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Fen
 ### 2010 ...
 
 - [The Man vs. The Machine documentary](https://en.chessbase.com/post/the-man-vs-the-machine-documentary) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), October 26, 2014
-- [Komodo 8: Deep Blue revisited (part one)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-one) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), December 26, 2014 » [Komodo](Komodo "Komodo"), [Kasparov versus Deep Blue 1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997") [[20]](#cite_note-20)
+- [Komodo 8: Deep Blue revisited (part one)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-one) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), December 26, 2014 » [Komodo](Komodo "Komodo"), [Kasparov versus Deep Blue 1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997") <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 - [Komodo 8: Deep Blue revisited (part two)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-two) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), December 31, 2014
 - [Komodo 8: Deep Blue revisited (part three)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-three) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), January 09, 2015
 - [Deep Blue's cheating move](https://en.chessbase.com/post/deep-blue-s-cheating-move) by [Albert Silver](Albert_Silver "Albert Silver"), [ChessBase News](ChessBase "ChessBase"), February 19, 2015
 - [20 years ago, a computer first beat a chess world champion - 1996-1997 The Kasparov-Deep Blue chess matches](https://mashable.com/2016/02/10/kasparov-deep-blue/) by [Alex Q. Arbuckle](http://www.alexqarbuckle.com/bio), February 10, 2016
-- [Garry Kasparov: Don't fear intelligent machines. Work with them](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them) | [TED Talk](<https://en.wikipedia.org/wiki/TED_(conference)>), April 2017 [[21]](#cite_note-21)
+- [Garry Kasparov: Don't fear intelligent machines. Work with them](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them) | [TED Talk](<https://en.wikipedia.org/wiki/TED_(conference)>), April 2017 <a id="cite-note-21" href="#cite-ref-21">[21]</a>
 - [Twenty years on from Deep Blue vs Kasparov: how a chess match started the big data revolution](http://theconversation.com/twenty-years-on-from-deep-blue-vs-kasparov-how-a-chess-match-started-the-big-data-revolution-76882) by [Mark Robert Anderson](https://theconversation.com/profiles/mark-robert-anderson-273683), [The Conversation](<https://en.wikipedia.org/wiki/The_Conversation_(website)>), May 11, 2017
-- [20 Years after Deep Blue: How AI Has Advanced Since Conquering Chess](https://www.scientificamerican.com/article/20-years-after-deep-blue-how-ai-has-advanced-since-conquering-chess/) by [Larry Greenemeier](https://www.crunchbase.com/person/larry-greenemeier), [Scientific American](Scientific_American "Scientific American"), June 2, 2017 [[22]](#cite_note-22) » [Kasparov versus Deep Blue 1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997"), [Murray Campbell](Murray_Campbell "Murray Campbell")
+- [20 Years after Deep Blue: How AI Has Advanced Since Conquering Chess](https://www.scientificamerican.com/article/20-years-after-deep-blue-how-ai-has-advanced-since-conquering-chess/) by [Larry Greenemeier](https://www.crunchbase.com/person/larry-greenemeier), [Scientific American](Scientific_American "Scientific American"), June 2, 2017 <a id="cite-note-22" href="#cite-ref-22">[22]</a> » [Kasparov versus Deep Blue 1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997"), [Murray Campbell](Murray_Campbell "Murray Campbell")
 - [Kasparov on Deep Learning in chess](https://en.chessbase.com/post/kasparov-on-deep-learning-in-chess) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), December 13, 2017
 
 ## Videos
 
-- [Chess computer Deep Blue and Bent Larsen in Copenhagen 1993 part 1](https://www.youtube.com/watch?v=xBggvYjWJmk), [YouTube](https://en.wikipedia.org/wiki/YouTube) Videos [[23]](#cite_note-23)
+- [Chess computer Deep Blue and Bent Larsen in Copenhagen 1993 part 1](https://www.youtube.com/watch?v=xBggvYjWJmk), [YouTube](https://en.wikipedia.org/wiki/YouTube) Videos <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 
 - [Chess computer Deep Blue and Bent Larsen in Copenhagen 1993 part 2](https://www.youtube.com/watch?v=R-ARSPzcXKE)
 
@@ -269,36 +269,36 @@ Deep Blue's core team, [Joe Hoane](Joe_Hoane "Joe Hoane"), [Feng-hsiung Hsu](Fen
 
 - [Checkmate: Members of IBM’s Deep Blue Team Discuss the World of Computer Chess](https://www.worldsciencefestival.com/videos/checkmate-how-computer-chess-changed-the-world/), June 1, 2013, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video » [Computer Chess - A Movie](History#ComputerChess "History"), [Murray Campbell](Murray_Campbell "Murray Campbell")
 
-- [Deep Blue | Down the Rabbit Hole](https://youtu.be/HwF229U2ba8) by [Fredrik Knudsen](https://www.youtube.com/channel/UCbWcXB0PoqOsAvAdfzWMf0w), October 30, 2020, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video [[24]](#cite_note-24)
+- [Deep Blue | Down the Rabbit Hole](https://youtu.be/HwF229U2ba8) by [Fredrik Knudsen](https://www.youtube.com/channel/UCbWcXB0PoqOsAvAdfzWMf0w), October 30, 2020, [YouTube](https://en.wikipedia.org/wiki/YouTube) Video <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 
 - [Deep Purple](Category:Deep_Purple "Category:Deep Purple") - [Highway Star](https://en.wikipedia.org/wiki/Highway_Star_%28song%29), [Machine Head](https://en.wikipedia.org/wiki/Machine_Head_%28album%29) (1972), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
 
 ## References
 
-1. [↑](#cite_ref-1) Deep Blue, a computer similar to this one defeated [Garry Kasparov](Garry_Kasparov "Garry Kasparov") in May 1997. Photo taken by [James the photographer](https://www.flickr.com/photos/jamesthephotographer/) at [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), June 14, 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
-1. [↑](#cite_ref-2) [Deep blue chip](http://www.computerhistory.org/chess/full_record.php?iid=art-431614f45291e), [International Business Machines (IBM)](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)"), 1997, Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. [↑](#cite_ref-3) [Deep Thought (Chess) (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/program.php?id=349)
-1. [↑](#cite_ref-4) [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**1999**). *IBM’s Deep Blue Chess Grandmaster Chips*. [IEEE Micro](IEEE#Micro "IEEE"), Vol. 19, No. 2, [pdf](http://www.csis.pace.edu/~ctappert/dps/pdf/ai-chess-deep.pdf)
-1. [↑](#cite_ref-5) [The core Deep Blue team](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f67157b) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), Courtesy of IBM Archives
-1. [↑](#cite_ref-6) [Hans Berliner](Hans_Berliner "Hans Berliner") (**1998**). *Review of Monty Newborn: Kasparov versus Deep Blue*. [pdf](http://www.ams.org/notices/199804/bkrev-berliner.pdf)
-1. [↑](#cite_ref-7) [Re: ICCA Journal Sinks To A New Low](https://www.stmintz.com/ccc/index.php?id=14647) by [Amir Ban](Amir_Ban "Amir Ban"), [CCC](CCC "CCC"), January 25, 1998
-1. [↑](#cite_ref-8) [AAAI Workshop: Deep Blue Versus Kasparov: The Significance for Artificial Intelligence 1997](https://www.dblp.org/db/conf/aaai/aaai1997w6.html)
-1. [↑](#cite_ref-9) ["Deep Blue" inspires deep thinking about artificial intelligence by computer scientist](https://www.sciencedaily.com/releases/1997/05/970501194114.htm) by [Robert Irion](https://scicom.ucsc.edu/faculty/), [University of California, Santa Cruz](University_of_California,_Santa_Cruz "University of California, Santa Cruz"), May 5, 1997
-1. [↑](#cite_ref-10)  [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1997**). *[Kasparov versus Deep Blue: Computer Chess Comes of Age](http://link.springer.com/book/10.1007/978-1-4612-2260-6).* [Springer](https://de.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
-1. [↑](#cite_ref-11) [Article by Tesauro on Deep Blue's evaluation-tuning](https://www.stmintz.com/ccc/index.php?id=375936) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), July 11, 2004
-1. [↑](#cite_ref-12) [New CC book: Beyond Deep Blue](http://www.talkchess.com/forum/viewtopic.php?t=41053) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), November 11, 2011
-1. [↑](#cite_ref-13) [Garry Kasparov: Don't fear intelligent machines. Work with them](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them) | [TED Talk](<https://en.wikipedia.org/wiki/TED_(conference)>), April 2017
-1. [↑](#cite_ref-14) [The Day the Machines Took Over](https://medium.com/@AdamThierer/the-day-the-machines-took-over-51076ba8e4f4) by [Adam Thierer](https://www.mercatus.org/adam-thierer), [Medium](<https://en.wikipedia.org/wiki/Medium_(website)>), May 11, 2017
-1. [↑](#cite_ref-15) [Kasparov on Deep Learning in chess](https://en.chessbase.com/post/kasparov-on-deep-learning-in-chess) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), December 13, 2017
-1. [↑](#cite_ref-16) [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") (**2001**). *[Comparison Training of Chess Evaluation Functions](http://dl.acm.org/citation.cfm?id=644397)*. In [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz"), [Miroslav Kubat](Miroslav_Kubat "Miroslav Kubat") (eds.) (**2001**). *[Machines that learn to play games](https://www.novapublishers.com/catalog/product_info.php?products_id=720)*, 117–130, [Nova Science Publishers](https://en.wikipedia.org/wiki/Nova_Science_Publishers)
-1. [↑](#cite_ref-17) [Strategic Intensity - A Conversation with World Chess Champion Garry Kasparov](http://hbr.org/2005/04/strategic-intensity/ar/1) by [Diane L. Coutu](http://www.linkedin.com/pub/diane-coutu/9/111/67a), [Harvard Business Review](https://en.wikipedia.org/wiki/Harvard_Business_Review), April 2005
-1. [↑](#cite_ref-18) [20 years ago, a computer first beat a chess world champion - 1996-1997 The Kasparov-Deep Blue chess matches](http://mashable.com/2016/02/10/kasparov-deep-blue/#NdUYEzkSGkqJ) by [Alex Q. Arbuckle](http://www.alexqarbuckle.com/bio), February 10, 2016
-1. [↑](#cite_ref-19) ["Techmate" by Garry Kasparov](https://www.stmintz.com/ccc/index.php?id=108799) by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), May 02, 2000
-1. [↑](#cite_ref-20) [Komodo 8: Deep Blue revisited (1/2)](http://www.talkchess.com/forum/viewtopic.php?t=54759) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 27, 2014
-1. [↑](#cite_ref-21) [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)") (**2017**). *[Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://www.goodreads.com/book/show/31934455-deep-thinking)*. [PublicAffairs](https://en.wikipedia.org/wiki/PublicAffairs) or [John Murray](<https://en.wikipedia.org/wiki/John_Murray_(publisher)>)
-1. [↑](#cite_ref-22) [Scientific American article on Computer Chess](http://www.talkchess.com/forum/viewtopic.php?t=64158) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), June 03, 2017
-1. [↑](#cite_ref-23) [4 hours video: B Larsen met Deep Blue in 1993 in Copenhagen](http://www.talkchess.com/forum/viewtopic.php?t=52512) by [Jens Bæk Nielsen](Jens_B%C3%A6k_Nielsen "Jens Bæk Nielsen"), [CCC](CCC "CCC"), June 01, 2014
-1. [↑](#cite_ref-24) [Deep Blue | Down the Rabbit Hole](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75649) by Anthony Wilson, [CCC](CCC "CCC"), November 02, 2020
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Deep Blue, a computer similar to this one defeated [Garry Kasparov](Garry_Kasparov "Garry Kasparov") in May 1997. Photo taken by [James the photographer](https://www.flickr.com/photos/jamesthephotographer/) at [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), June 14, 2007, [Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Deep blue chip](http://www.computerhistory.org/chess/full_record.php?iid=art-431614f45291e), [International Business Machines (IBM)](index.php?title=IBM&action=edit&redlink=1 "IBM (page does not exist)"), 1997, Gift of [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Deep Thought (Chess) (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/program.php?id=349)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") (**1999**). *IBM’s Deep Blue Chess Grandmaster Chips*. [IEEE Micro](IEEE#Micro "IEEE"), Vol. 19, No. 2, [pdf](http://www.csis.pace.edu/~ctappert/dps/pdf/ai-chess-deep.pdf)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [The core Deep Blue team](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f67157b) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum"), Courtesy of IBM Archives
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1998**). *Review of Monty Newborn: Kasparov versus Deep Blue*. [pdf](http://www.ams.org/notices/199804/bkrev-berliner.pdf)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: ICCA Journal Sinks To A New Low](https://www.stmintz.com/ccc/index.php?id=14647) by [Amir Ban](Amir_Ban "Amir Ban"), [CCC](CCC "CCC"), January 25, 1998
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [AAAI Workshop: Deep Blue Versus Kasparov: The Significance for Artificial Intelligence 1997](https://www.dblp.org/db/conf/aaai/aaai1997w6.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> ["Deep Blue" inspires deep thinking about artificial intelligence by computer scientist](https://www.sciencedaily.com/releases/1997/05/970501194114.htm) by [Robert Irion](https://scicom.ucsc.edu/faculty/), [University of California, Santa Cruz](University_of_California,_Santa_Cruz "University of California, Santa Cruz"), May 5, 1997
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a>  [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1997**). *[Kasparov versus Deep Blue: Computer Chess Comes of Age](http://link.springer.com/book/10.1007/978-1-4612-2260-6).* [Springer](https://de.wikipedia.org/wiki/Springer_Science%2BBusiness_Media)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Article by Tesauro on Deep Blue's evaluation-tuning](https://www.stmintz.com/ccc/index.php?id=375936) by [Stuart Cracraft](Stuart_Cracraft "Stuart Cracraft"), [CCC](CCC "CCC"), July 11, 2004
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [New CC book: Beyond Deep Blue](http://www.talkchess.com/forum/viewtopic.php?t=41053) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), November 11, 2011
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Garry Kasparov: Don't fear intelligent machines. Work with them](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them) | [TED Talk](<https://en.wikipedia.org/wiki/TED_(conference)>), April 2017
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [The Day the Machines Took Over](https://medium.com/@AdamThierer/the-day-the-machines-took-over-51076ba8e4f4) by [Adam Thierer](https://www.mercatus.org/adam-thierer), [Medium](<https://en.wikipedia.org/wiki/Medium_(website)>), May 11, 2017
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Kasparov on Deep Learning in chess](https://en.chessbase.com/post/kasparov-on-deep-learning-in-chess) by [Frederic Friedel](Frederic_Friedel "Frederic Friedel"), [ChessBase News](ChessBase "ChessBase"), December 13, 2017
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Gerald Tesauro](Gerald_Tesauro "Gerald Tesauro") (**2001**). *[Comparison Training of Chess Evaluation Functions](http://dl.acm.org/citation.cfm?id=644397)*. In [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz"), [Miroslav Kubat](Miroslav_Kubat "Miroslav Kubat") (eds.) (**2001**). *[Machines that learn to play games](https://www.novapublishers.com/catalog/product_info.php?products_id=720)*, 117–130, [Nova Science Publishers](https://en.wikipedia.org/wiki/Nova_Science_Publishers)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Strategic Intensity - A Conversation with World Chess Champion Garry Kasparov](http://hbr.org/2005/04/strategic-intensity/ar/1) by [Diane L. Coutu](http://www.linkedin.com/pub/diane-coutu/9/111/67a), [Harvard Business Review](https://en.wikipedia.org/wiki/Harvard_Business_Review), April 2005
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [20 years ago, a computer first beat a chess world champion - 1996-1997 The Kasparov-Deep Blue chess matches](http://mashable.com/2016/02/10/kasparov-deep-blue/#NdUYEzkSGkqJ) by [Alex Q. Arbuckle](http://www.alexqarbuckle.com/bio), February 10, 2016
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> ["Techmate" by Garry Kasparov](https://www.stmintz.com/ccc/index.php?id=108799) by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), May 02, 2000
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Komodo 8: Deep Blue revisited (1/2)](http://www.talkchess.com/forum/viewtopic.php?t=54759) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 27, 2014
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Garry Kasparov](Garry_Kasparov "Garry Kasparov"), [Mig Greengard](index.php?title=Mig_Greengard&action=edit&redlink=1 "Mig Greengard (page does not exist)") (**2017**). *[Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://www.goodreads.com/book/show/31934455-deep-thinking)*. [PublicAffairs](https://en.wikipedia.org/wiki/PublicAffairs) or [John Murray](<https://en.wikipedia.org/wiki/John_Murray_(publisher)>)
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Scientific American article on Computer Chess](http://www.talkchess.com/forum/viewtopic.php?t=64158) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), June 03, 2017
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [4 hours video: B Larsen met Deep Blue in 1993 in Copenhagen](http://www.talkchess.com/forum/viewtopic.php?t=52512) by [Jens Bæk Nielsen](Jens_B%C3%A6k_Nielsen "Jens Bæk Nielsen"), [CCC](CCC "CCC"), June 01, 2014
+1. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Deep Blue | Down the Rabbit Hole](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=75649) by Anthony Wilson, [CCC](CCC "CCC"), November 02, 2020
 
 **[Up one Level](Engines "Engines")**
 

@@ -7,7 +7,7 @@ title: TCEC Season 17Superfinal
 
 
 
- [](https://tcec-chess.com/) TCEC Logo [[1]](#cite_note-1) 
+ [](https://tcec-chess.com/) TCEC Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **TCEC Season 17**,  
 
 the Top Chess Engine Championship (TCEC) Season 17 from January 02 until April 21, 2020. 
@@ -16,7 +16,7 @@ to become default qualifiers for the [Playoff for the Premier Division](#Playoff
 The tournament hardware was enhanced for the CPU server with 4 x [Intel](Intel "Intel") [Xeon](https://en.wikipedia.org/wiki/Xeo) 4xE5-4669v4 @ 2.8 GHz
 with 88 physical cores, and the GPU Server with 2x Intel Xeon E5-2630V4 @ 2.2 GHz and 4 x [Nvidia](Nvidia "Nvidia") [RTX 2080 ti](https://en.wikipedia.org/wiki/GeForce_20_series).
 Engines were running under [Linux](Linux "Linux"), either natively or as [Windows](Windows "Windows") engine under the [compatibility layer](https://en.wikipedia.org/wiki/Compatibility_layer) [Wine](https://en.wikipedia.org/wiki/Wine_(software)).
-6-man [Syzygy bases](Syzygy_Bases "Syzygy Bases") were cached in [RAM](Memory#RAM "Memory") [[2]](#cite_note-2).
+6-man [Syzygy bases](Syzygy_Bases "Syzygy Bases") were cached in [RAM](Memory#RAM "Memory") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
 
 
@@ -42,7 +42,7 @@ Engines were running under [Linux](Linux "Linux"), either natively or as [Window
 
 **[< Prev](TCEC_Season_16#Third "TCEC Season 16") [Next >](TCEC_Season_18#Fourth "TCEC Season 18")**  
 
-CPU Qualification League, January 02 - January 12, 2020, timecontrol 30' + 5'' [[3]](#cite_note-3).
+CPU Qualification League, January 02 - January 12, 2020, timecontrol 30' + 5'' <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 
 
@@ -367,8 +367,8 @@ CPU Qualification League, January 02 - January 12, 2020, timecontrol 30' + 5'' [
 
 **[< Prev](TCEC_Season_16#Second "TCEC Season 16") [Next >](TCEC_Season_18#Second "TCEC Season 18")**  
 
-CPU League 2, January 15 - January 25, 2020, timecontrol 30' + 5'' [[4]](#cite_note-4).
-Two engines, [Chess22k](Chess22k "Chess22k") and [Fritz](Fritz "Fritz") crashed three times during testing for this division, resulting in [Minic](Minic "Minic") and [PeSTO](PeSTO "PeSTO") promoting [[5]](#cite_note-5).
+CPU League 2, January 15 - January 25, 2020, timecontrol 30' + 5'' <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
+Two engines, [Chess22k](Chess22k "Chess22k") and [Fritz](Fritz "Fritz") crashed three times during testing for this division, resulting in [Minic](Minic "Minic") and [PeSTO](PeSTO "PeSTO") promoting <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 
 
@@ -693,8 +693,8 @@ Two engines, [Chess22k](Chess22k "Chess22k") and [Fritz](Fritz "Fritz") crashed 
 
 **[< Prev](TCEC_Season_16#First "TCEC Season 16") [Next >](TCEC_Season_18#First "TCEC Season 18")**  
 
-CPU League 1, January 31 - February 15, 2020, timecontrol 45' + 5'' [[6]](#cite_note-6).
-Since [Booot](Booot "Booot"), [Chiron](Chiron "Chiron"), [ChessBrainVB](ChessBrainVB "ChessBrainVB") did not run under Wine, and [Jonny](Jonny "Jonny") had problems as well and was not updated in time, four more engines, rank 5 to 8 of [League 2](#Second) promoted [[7]](#cite_note-7).
+CPU League 1, January 31 - February 15, 2020, timecontrol 45' + 5'' <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
+Since [Booot](Booot "Booot"), [Chiron](Chiron "Chiron"), [ChessBrainVB](ChessBrainVB "ChessBrainVB") did not run under Wine, and [Jonny](Jonny "Jonny") had problems as well and was not updated in time, four more engines, rank 5 to 8 of [League 2](#Second) promoted <a id="cite-note-7" href="#cite-ref-7">[7]</a>.
 
 
 
@@ -1017,7 +1017,7 @@ Since [Booot](Booot "Booot"), [Chiron](Chiron "Chiron"), [ChessBrainVB](ChessBra
 ### Playoff
 
 
-Playoff for Premier Division, March 07 - March 12, 2020, timecontrol 60' + 5'' [[8]](#cite_note-8)
+Playoff for Premier Division, March 07 - March 12, 2020, timecontrol 60' + 5'' <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 The four top engines of [CPU League 1](#First) and the two default qualifiers of the GPU League, [ScorpioNN](Scorpio#ScorpioNN "Scorpio") and [ChessFighter](Chess_Fighter "Chess Fighter").
 
 
@@ -1093,7 +1093,7 @@ The four top engines of [CPU League 1](#First) and the two default qualifiers of
 
 **[< Prev](TCEC_Season_16#Premier "TCEC Season 16") [Next >](TCEC_Season_18#Premier "TCEC Season 18")**  
 
-March 18 - April 07, 2020, timecontrol 90' + 5'' [[9]](#cite_note-9)
+March 18 - April 07, 2020, timecontrol 90' + 5'' <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
 
@@ -1247,7 +1247,7 @@ March 18 - April 07, 2020, timecontrol 90' + 5'' [[9]](#cite_note-9)
 April 08 - April 21, 2020, timecontrol 90' + 5''
 
 
-[LCZero v0.24-sv-t60-3010](Leela_Chess_Zero "Leela Chess Zero") - [Stockfish 20200407DC](Stockfish "Stockfish") +17 =71 -12, **52½-47½** [[10]](#cite_note-10)
+[LCZero v0.24-sv-t60-3010](Leela_Chess_Zero "Leela Chess Zero") - [Stockfish 20200407DC](Stockfish "Stockfish") +17 =71 -12, **52½-47½** <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 
 
@@ -1860,16 +1860,16 @@ April 08 - April 21, 2020, timecontrol 90' + 5''
 ## References
 
 
-1. [↑](#cite_ref-1) Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. [↑](#cite_ref-2) [TCEC S17 – detailed information](http://www.chessdom.com/tcec-s17-detailed-information/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), December 21, 2019
-3. [↑](#cite_ref-3) [S17 - Qualification League | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=17&div=ql&game=1)
-4. [↑](#cite_ref-4) [S17 - CPU League 2 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=17&div=l2&game=1)
-5. [↑](#cite_ref-5) [TCEC Season 17 - CPU Qualification League from Wikipedia](https://en.wikipedia.org/wiki/TCEC_Season_17#CPU_Qualification_League)
-6. [↑](#cite_ref-6) [S17 - CPU League 1 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=17&div=cpul1&game=1)
-7. [↑](#cite_ref-7) [TCEC Season 17 - CPU League One from Wikipedia](https://en.wikipedia.org/wiki/TCEC_Season_17#CPU_League_One)
-8. [↑](#cite_ref-8) [S17 - Playoff for Division P | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=17&div=playofffordivp&game=1)
-9. [↑](#cite_ref-9) [S17 - Division P | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=17&div=p&game=1)
-10. [↑](#cite_ref-10) [Stockfish 20200407DC vs. LCZero v0.24-sv-t60-3010 - TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=17&div=sf&game=1)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TCEC S17 – detailed information](http://www.chessdom.com/tcec-s17-detailed-information/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), December 21, 2019
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [S17 - Qualification League | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=17&div=ql&game=1)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [S17 - CPU League 2 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=17&div=l2&game=1)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [TCEC Season 17 - CPU Qualification League from Wikipedia](https://en.wikipedia.org/wiki/TCEC_Season_17#CPU_Qualification_League)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [S17 - CPU League 1 | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=17&div=cpul1&game=1)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [TCEC Season 17 - CPU League One from Wikipedia](https://en.wikipedia.org/wiki/TCEC_Season_17#CPU_League_One)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [S17 - Playoff for Division P | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=17&div=playofffordivp&game=1)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [S17 - Division P | TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=17&div=p&game=1)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Stockfish 20200407DC vs. LCZero v0.24-sv-t60-3010 - TCEC - Computer Chess Broadcast](https://www.tcec-chess.com/archive.html?season=17&div=sf&game=1)
 
 **[Up one level](TCEC "TCEC")**
 

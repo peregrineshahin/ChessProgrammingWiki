@@ -3,18 +3,18 @@ title: Chessmaster
 ---
 **[Home](Home "Home") * [Engines](Engines "Engines") * Chessmaster**
 
-[](http://www.vintagecomputing.com/index.php/archives/896/the-chessmaster-died-in-1997) Face and hands of the Chessmaster [[1]](#cite_note-1)
+[](http://www.vintagecomputing.com/index.php/archives/896/the-chessmaster-died-in-1997) Face and hands of the Chessmaster <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Chessmaster**,
 
-a series of chess programs developed and released by [Ubisoft](index.php?title=Ubisoft&action=edit&redlink=1 "Ubisoft (page does not exist)"). It is the best-selling chess franchise in history, with more than five million units sold as of 2002 [[2]](#cite_note-2) . Due to its sophisticated [GUI](GUI "GUI"), graphics and animations, adjustable [playing strength](Playing_Strength "Playing Strength") and countless features, Chessmaster is dedicated to the [mass market](https://en.wikipedia.org/wiki/Mass_market), and due to the strong engine with configurable "personalities", integrated [database](Databases "Databases") support, annotated games, and chess lessons and tutorials, also interesting for advanced users.
+a series of chess programs developed and released by [Ubisoft](index.php?title=Ubisoft&action=edit&redlink=1 "Ubisoft (page does not exist)"). It is the best-selling chess franchise in history, with more than five million units sold as of 2002 <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Due to its sophisticated [GUI](GUI "GUI"), graphics and animations, adjustable [playing strength](Playing_Strength "Playing Strength") and countless features, Chessmaster is dedicated to the [mass market](https://en.wikipedia.org/wiki/Mass_market), and due to the strong engine with configurable "personalities", integrated [database](Databases "Databases") support, annotated games, and chess lessons and tutorials, also interesting for advanced users.
 
-Chessmaster **XI**, released in 2007, is the most recent version [[3]](#cite_note-3). Dedicated for chess beginners and casual chess fans, Chessmaster **Challenge** differs from Chessmaster **10th** Edition in its simplified interface, and scaled-down tutorials. It’s a non-retail product available for trial and purchase through download only [[4]](#cite_note-4) [[5]](#cite_note-5).
+Chessmaster **XI**, released in 2007, is the most recent version <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Dedicated for chess beginners and casual chess fans, Chessmaster **Challenge** differs from Chessmaster **10th** Edition in its simplified interface, and scaled-down tutorials. It’s a non-retail product available for trial and purchase through download only <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 ## Screenshots
 
 ## CM 2100 & CM 4000
 
-[[6]](#cite_note-6)
+<a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 |  |  |
 | --- | --- |
@@ -26,23 +26,23 @@ Chessmaster **XI**, released in 2007, is the most recent version [[3]](#cite_not
 ## Chessmaster 10th
 
 [](https://archive.org/download/Chessmaster10thEditionDemo/Chessmaster10thEditionDemo.jpg)
-Chessmaster 10th Edition Demo [[7]](#cite_note-7)
+Chessmaster 10th Edition Demo <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ## Chessmaster Challenge
 
 [](http://www.download-free-games.com/chess_game_download/chessmaster_challenge.htm)
-Chessmaster Challenge [2D Graphics Board](2D_Graphics_Board "2D Graphics Board") [[8]](#cite_note-8)
+Chessmaster Challenge [2D Graphics Board](2D_Graphics_Board "2D Graphics Board") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ## Chessmaster XI
 
 [](http://chessmaster.de.ubi.com/xi/pcScreens.php)
-Chessmaster XI - House of Staunton chess sets, [3D Graphics Board](3D_Graphics_Board "3D Graphics Board") [[9]](#cite_note-9)
+Chessmaster XI - House of Staunton chess sets, [3D Graphics Board](3D_Graphics_Board "3D Graphics Board") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ## Chess Engines
 
 ## MyChess II
 
-Chessmaster was first released as Chessmaster **2000** in **1986** by [Software Toolworks, Inc.](index.php?title=Software_Toolworks&action=edit&redlink=1 "Software Toolworks (page does not exist)"), a software and computer game publisher located in [Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles) [[10]](#cite_note-10), co-developed by its founder [Walt Bilofsky](index.php?title=Walt_Bilofsky&action=edit&redlink=1 "Walt Bilofsky (page does not exist)") [[11]](#cite_note-11) and [Michael E. Duffy](index.php?title=Michael_E._Duffy&action=edit&redlink=1 "Michael E. Duffy (page does not exist)") [[12]](#cite_note-12), with a chess engine by [David Kittinger](David_Kittinger "David Kittinger"), loosely based on [MyChess II](MyChess "MyChess") published by the same vendor since 1984 [[13]](#cite_note-13) . CM 2000 was released for various 8- and 16-bit [home computer](https://en.wikipedia.org/wiki/Home_computer) platforms based on [6502](6502 "6502"), [Z80](Z80 "Z80"), [68000](68000 "68000") and [8086](8086 "8086") processors, such as [Amiga](Amiga "Amiga"), [Apple II](Apple_II "Apple II"), [Atari 8-bit](Atari_8-bit "Atari 8-bit"), [Atari ST](Atari_ST "Atari ST"), [ZX Spectrum](ZX_Spectrum "ZX Spectrum"), [Commodore 64](Commodore_64 "Commodore 64"), [Amstrad CPC](Amstrad_CPC "Amstrad CPC"), [Macintosh](Macintosh "Macintosh"), and [DOS](MS-DOS "MS-DOS") [PCs](IBM_PC "IBM PC"). The PC version was a rewrite in [C](C "C") based on the 6502 [assembly](Assembly "Assembly") version [[14]](#cite_note-14), which also went into [Novag's](Novag "Novag") dedicated [Constellation](Constellation "Constellation") some years before, as mentioned by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") in the [USOCCC 1986](USOCCC_1986 "USOCCC 1986") tournament report [[15]](#cite_note-15):
+Chessmaster was first released as Chessmaster **2000** in **1986** by [Software Toolworks, Inc.](index.php?title=Software_Toolworks&action=edit&redlink=1 "Software Toolworks (page does not exist)"), a software and computer game publisher located in [Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles) <a id="cite-note-10" href="#cite-ref-10">[10]</a>, co-developed by its founder [Walt Bilofsky](index.php?title=Walt_Bilofsky&action=edit&redlink=1 "Walt Bilofsky (page does not exist)") <a id="cite-note-11" href="#cite-ref-11">[11]</a> and [Michael E. Duffy](index.php?title=Michael_E._Duffy&action=edit&redlink=1 "Michael E. Duffy (page does not exist)") <a id="cite-note-12" href="#cite-ref-12">[12]</a>, with a chess engine by [David Kittinger](David_Kittinger "David Kittinger"), loosely based on [MyChess II](MyChess "MyChess") published by the same vendor since 1984 <a id="cite-note-13" href="#cite-ref-13">[13]</a> . CM 2000 was released for various 8- and 16-bit [home computer](https://en.wikipedia.org/wiki/Home_computer) platforms based on [6502](6502 "6502"), [Z80](Z80 "Z80"), [68000](68000 "68000") and [8086](8086 "8086") processors, such as [Amiga](Amiga "Amiga"), [Apple II](Apple_II "Apple II"), [Atari 8-bit](Atari_8-bit "Atari 8-bit"), [Atari ST](Atari_ST "Atari ST"), [ZX Spectrum](ZX_Spectrum "ZX Spectrum"), [Commodore 64](Commodore_64 "Commodore 64"), [Amstrad CPC](Amstrad_CPC "Amstrad CPC"), [Macintosh](Macintosh "Macintosh"), and [DOS](MS-DOS "MS-DOS") [PCs](IBM_PC "IBM PC"). The PC version was a rewrite in [C](C "C") based on the 6502 [assembly](Assembly "Assembly") version <a id="cite-note-14" href="#cite-ref-14">[14]</a>, which also went into [Novag's](Novag "Novag") dedicated [Constellation](Constellation "Constellation") some years before, as mentioned by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") in the [USOCCC 1986](USOCCC_1986 "USOCCC 1986") tournament report <a id="cite-note-15" href="#cite-ref-15">[15]</a>:
 
 ```C++
 [Novag's](Novag "Novag") programmer Dave Kittinger also was the programmer of the three PC software entries under the name "Chessmaster". As they employ a version of the rather dated "Constellation" program they were not expected to be competitive with the dedicated units, except for "Chessmaster 2000 Apple" which employed extensive technology to run at high speed. 
@@ -51,26 +51,26 @@ Chessmaster was first released as Chessmaster **2000** in **1986** by [Software 
 
 ## Sargon 3
 
-After a deal with [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics") in **1988**, *Software Toolworks* continued the Chessmaster series for [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") computers with a [Sargon III](Sargon#Sargon3 "Sargon") based program by [Kathe](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen"), market as *Fidelity Chessmaster **2100*** [[16]](#cite_note-16). PC versions of CM 2100 were based on a Kittinger program [[17]](#cite_note-17).
+After a deal with [Fidelity Electronics](Fidelity_Electronics "Fidelity Electronics") in **1988**, *Software Toolworks* continued the Chessmaster series for [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") computers with a [Sargon III](Sargon#Sargon3 "Sargon") based program by [Kathe](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen"), market as *Fidelity Chessmaster **2100*** <a id="cite-note-16" href="#cite-ref-16">[16]</a>. PC versions of CM 2100 were based on a Kittinger program <a id="cite-note-17" href="#cite-ref-17">[17]</a>.
 
 ## Chessmaster 3000
 
-The *Chessmaster **3000*** was released in **1991** for [MS-DOS](MS-DOS "MS-DOS") and [Windows 3.x](Windows "Windows") PCs, as well for [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") [Macintosh](Macintosh "Macintosh"), based on a Kittinger program as confirmed by [John Merlino](John_Merlino "John Merlino") [[18]](#cite_note-18) [[19]](#cite_note-19) [[20]](#cite_note-20), and mentioned in [CCR 5.1](Computer_Chess_Reports "Computer Chess Reports") [[21]](#cite_note-21):
+The *Chessmaster **3000*** was released in **1991** for [MS-DOS](MS-DOS "MS-DOS") and [Windows 3.x](Windows "Windows") PCs, as well for [Apple](index.php?title=Apple&action=edit&redlink=1 "Apple (page does not exist)") [Macintosh](Macintosh "Macintosh"), based on a Kittinger program as confirmed by [John Merlino](John_Merlino "John Merlino") <a id="cite-note-18" href="#cite-ref-18">[18]</a> <a id="cite-note-19" href="#cite-ref-19">[19]</a> <a id="cite-note-20" href="#cite-ref-20">[20]</a>, and mentioned in [CCR 5.1](Computer_Chess_Reports "Computer Chess Reports") <a id="cite-note-21" href="#cite-ref-21">[21]</a>:
 
 ```C++
 Kittinger's first program for personal computers was incorporated into the popular program Chessmaster 2000 developed by [Software Toolworks](index.php?title=Software_Toolworks&action=edit&redlink=1 "Software Toolworks (page does not exist)"). Kittinger's program was then modified and used in some of the versions of Chessmaster 2100 and Chessmaster 3000. 
 
 ```
 
-[Fernando Villegas](Fernando_Villegas "Fernando Villegas") recalled [Michael E. Duffy](index.php?title=Michael_E._Duffy&action=edit&redlink=1 "Michael E. Duffy (page does not exist)") and [Andrew Iverson](index.php?title=Andrew_Iverson&action=edit&redlink=1 "Andrew Iverson (page does not exist)") working on the engine [[22]](#cite_note-22), which does not necessarily imply they had an own one developed from scratch, but interfacing the Kittinger engine to the [GUI](GUI "GUI").
+[Fernando Villegas](Fernando_Villegas "Fernando Villegas") recalled [Michael E. Duffy](index.php?title=Michael_E._Duffy&action=edit&redlink=1 "Michael E. Duffy (page does not exist)") and [Andrew Iverson](index.php?title=Andrew_Iverson&action=edit&redlink=1 "Andrew Iverson (page does not exist)") working on the engine <a id="cite-note-22" href="#cite-ref-22">[22]</a>, which does not necessarily imply they had an own one developed from scratch, but interfacing the Kittinger engine to the [GUI](GUI "GUI").
 
 ## The King
 
-With the release of *Chessmaster **4000 Turbo*** in **1993**, [The King](The_King "The King") by [Johan de Koning](Johan_de_Koning "Johan de Koning") became the CM engine until the present, with annual, biennial and triennial releases for major [Windows](Windows "Windows") versions until *Chessmaster **XI*** in 2007, incorporating the *The King **3.50*** with a [parallel search](Parallel_Search "Parallel Search") able to support multiple processors. The King Version **3.12** has become a [WinBoard](WinBoard "WinBoard") engine within the *ChessMaster **8000*** and newer versions [[23]](#cite_note-23) . Some versions were also made available for [Mac OS](Mac_OS "Mac OS") computers, and the [Xbox Live Arcade](https://en.wikipedia.org/wiki/Xbox_Live_Arcade) [[24]](#cite_note-24).
+With the release of *Chessmaster **4000 Turbo*** in **1993**, [The King](The_King "The King") by [Johan de Koning](Johan_de_Koning "Johan de Koning") became the CM engine until the present, with annual, biennial and triennial releases for major [Windows](Windows "Windows") versions until *Chessmaster **XI*** in 2007, incorporating the *The King **3.50*** with a [parallel search](Parallel_Search "Parallel Search") able to support multiple processors. The King Version **3.12** has become a [WinBoard](WinBoard "WinBoard") engine within the *ChessMaster **8000*** and newer versions <a id="cite-note-23" href="#cite-ref-23">[23]</a> . Some versions were also made available for [Mac OS](Mac_OS "Mac OS") computers, and the [Xbox Live Arcade](https://en.wikipedia.org/wiki/Xbox_Live_Arcade) <a id="cite-note-24" href="#cite-ref-24">[24]</a>.
 
 ## Releases
 
-[[25]](#cite_note-25)
+<a id="cite-note-25" href="#cite-ref-25">[25]</a>
 
 - 1986: Chessmaster 2000 - engine based on [MyChess II](MyChess "MyChess") by [David Kittinger](David_Kittinger "David Kittinger")
 - 1989: Fidelity Chessmaster 2100 - engine based on [Sargon III](Sargon#Sargon3 "Sargon") by [Kathe](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen")
@@ -88,11 +88,11 @@ With the release of *Chessmaster **4000 Turbo*** in **1993**, [The King](The_Kin
 
 ## Endgame Tablebases
 
-Chessmaster **9000** and later versions support their own compact 3-5-man [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") designed by [Johan de Koning](Johan_de_Koning "Johan de Koning"), which can be generated with the *Final Endgame Generator* (FEG) via the [Windows](Windows "Windows") [Command Prompt](CLI "CLI") [[26]](#cite_note-26). Tablebase researcher [Marc Bourzutschky](Marc_Bourzutschky "Marc Bourzutschky") further created some theoretically important six piece EGTBs in 2003 [[27]](#cite_note-27).
+Chessmaster **9000** and later versions support their own compact 3-5-man [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases") designed by [Johan de Koning](Johan_de_Koning "Johan de Koning"), which can be generated with the *Final Endgame Generator* (FEG) via the [Windows](Windows "Windows") [Command Prompt](CLI "CLI") <a id="cite-note-26" href="#cite-ref-26">[26]</a>. Tablebase researcher [Marc Bourzutschky](Marc_Bourzutschky "Marc Bourzutschky") further created some theoretically important six piece EGTBs in 2003 <a id="cite-note-27" href="#cite-ref-27">[27]</a>.
 
 ## Companies
 
-[Software Toolworks](index.php?title=Software_Toolworks&action=edit&redlink=1 "Software Toolworks (page does not exist)") was founded in 1980 by [Walt Bilofsky](index.php?title=Walt_Bilofsky&action=edit&redlink=1 "Walt Bilofsky (page does not exist)"), who was one of three programmers who designed and created the Chessmaster in the mid 80s [[28]](#cite_note-28). In 1994, *Software Toolworks, Inc.* was merged to [Mindscape](index.php?title=Mindscape&action=edit&redlink=1 "Mindscape (page does not exist)") [[29]](#cite_note-29) [[30]](#cite_note-30) in conjunction with the acquirement by [Pearson PLC](https://en.wikipedia.org/wiki/Pearson_PLC) [[31]](#cite_note-31) with [Michael E. Duffy](index.php?title=Michael_E._Duffy&action=edit&redlink=1 "Michael E. Duffy (page does not exist)") [[32]](#cite_note-32) and [David Grenewetzki](index.php?title=David_Grenewetzki&action=edit&redlink=1 "David Grenewetzki (page does not exist)") [[33]](#cite_note-33) involved, in 1998 sold to [The Learning Company](https://en.wikipedia.org/wiki/The_Learning_Company), in the same year bought by [Mattel](https://en.wikipedia.org/wiki/Mattel) and renamed to *Mattel Interactive*. In 2000, [The Gores Group](https://en.wikipedia.org/wiki/The_Gores_Group) carves out the re-renamed *Learning Company* from Mattel, and the *Game Studios* of The Learning Company was sold to [Ubi Soft](index.php?title=Ubisoft&action=edit&redlink=1 "Ubisoft (page does not exist)") - all employees were given the opportunity to become employees of their most well-known studio, [Red Storm Entertainment](https://en.wikipedia.org/wiki/Ubisoft_Red_Storm) [[34]](#cite_note-34).
+[Software Toolworks](index.php?title=Software_Toolworks&action=edit&redlink=1 "Software Toolworks (page does not exist)") was founded in 1980 by [Walt Bilofsky](index.php?title=Walt_Bilofsky&action=edit&redlink=1 "Walt Bilofsky (page does not exist)"), who was one of three programmers who designed and created the Chessmaster in the mid 80s <a id="cite-note-28" href="#cite-ref-28">[28]</a>. In 1994, *Software Toolworks, Inc.* was merged to [Mindscape](index.php?title=Mindscape&action=edit&redlink=1 "Mindscape (page does not exist)") <a id="cite-note-29" href="#cite-ref-29">[29]</a> <a id="cite-note-30" href="#cite-ref-30">[30]</a> in conjunction with the acquirement by [Pearson PLC](https://en.wikipedia.org/wiki/Pearson_PLC) <a id="cite-note-31" href="#cite-ref-31">[31]</a> with [Michael E. Duffy](index.php?title=Michael_E._Duffy&action=edit&redlink=1 "Michael E. Duffy (page does not exist)") <a id="cite-note-32" href="#cite-ref-32">[32]</a> and [David Grenewetzki](index.php?title=David_Grenewetzki&action=edit&redlink=1 "David Grenewetzki (page does not exist)") <a id="cite-note-33" href="#cite-ref-33">[33]</a> involved, in 1998 sold to [The Learning Company](https://en.wikipedia.org/wiki/The_Learning_Company), in the same year bought by [Mattel](https://en.wikipedia.org/wiki/Mattel) and renamed to *Mattel Interactive*. In 2000, [The Gores Group](https://en.wikipedia.org/wiki/The_Gores_Group) carves out the re-renamed *Learning Company* from Mattel, and the *Game Studios* of The Learning Company was sold to [Ubi Soft](index.php?title=Ubisoft&action=edit&redlink=1 "Ubisoft (page does not exist)") - all employees were given the opportunity to become employees of their most well-known studio, [Red Storm Entertainment](https://en.wikipedia.org/wiki/Ubisoft_Red_Storm) <a id="cite-note-34" href="#cite-ref-34">[34]</a>.
 
 ## Associated People
 
@@ -119,7 +119,7 @@ Chessmaster **9000** and later versions support their own compact 3-5-man [Endga
 - [Larry Christiansen](https://en.wikipedia.org/wiki/Larry_Christiansen)
 - [Bruce Pandolfini](https://en.wikipedia.org/wiki/Bruce_Pandolfini)
 - [Yasser Seirawan](https://en.wikipedia.org/wiki/Yasser_Seirawan)
-- [Joshua Waitzkin](https://en.wikipedia.org/wiki/Joshua_Waitzkin) [[35]](#cite_note-35)
+- [Joshua Waitzkin](https://en.wikipedia.org/wiki/Joshua_Waitzkin) <a id="cite-note-35" href="#cite-ref-35">[35]</a>
 
 ## Project Lead & Misc Programming
 
@@ -129,7 +129,7 @@ Chessmaster **9000** and later versions support their own compact 3-5-man [Endga
 - [Rick Glenn](index.php?title=Rick_Glenn&action=edit&redlink=1 "Rick Glenn (page does not exist)")
 - [David Grenewetzki](index.php?title=David_Grenewetzki&action=edit&redlink=1 "David Grenewetzki (page does not exist)")
 - [Andrew Iverson](index.php?title=Andrew_Iverson&action=edit&redlink=1 "Andrew Iverson (page does not exist)")
-- [Carlos Justiniano](Carlos_Justiniano "Carlos Justiniano") [[36]](#cite_note-36)
+- [Carlos Justiniano](Carlos_Justiniano "Carlos Justiniano") <a id="cite-note-36" href="#cite-ref-36">[36]</a>
 - [Donald W. Laabs](index.php?title=Donald_W._Laabs&action=edit&redlink=1 "Donald W. Laabs (page does not exist)")
 - [Mark Manyen](index.php?title=Mark_Manyen&action=edit&redlink=1 "Mark Manyen (page does not exist)")
 - [Henrik Markarian](index.php?title=Henrik_Markarian&action=edit&redlink=1 "Henrik Markarian (page does not exist)")
@@ -140,7 +140,7 @@ Chessmaster **9000** and later versions support their own compact 3-5-man [Endga
 
 ## Aegon 1995
 
-[Aegon 1995](Aegon_1995 "Aegon 1995"), round 5, [David Bronstein](David_Bronstein "David Bronstein") - Chessmaster 4000 [[37]](#cite_note-37)
+[Aegon 1995](Aegon_1995 "Aegon 1995"), round 5, [David Bronstein](David_Bronstein "David Bronstein") - Chessmaster 4000 <a id="cite-note-37" href="#cite-ref-37">[37]</a>
 
 ```
 
@@ -165,7 +165,7 @@ Rfd8 23.Qxa7 Nf5 24.Nxf5 Bxf5 25.Qc7 Qd4 26.Ra7 Rf8 27.Qxc6 Bd3 28.Rfa1 Qxf2+
 
 ## Match vs GM Larry Christiansen
 
-In September 2002, [Larry Christiansen](https://en.wikipedia.org/wiki/Larry_Christiansen) played a 4 games match versus Chessmaster 9000 on ICC [[38]](#cite_note-38)
+In September 2002, [Larry Christiansen](https://en.wikipedia.org/wiki/Larry_Christiansen) played a 4 games match versus Chessmaster 9000 on ICC <a id="cite-note-38" href="#cite-ref-38">[38]</a>
 
 Larry Christiansen lost the 3rd game where he sacrificed a rook to get a strong attack. 55...Rh5! would have been probably winning!
 
@@ -322,7 +322,7 @@ Nf8 35.f3 h5 36.Qc2 Ng6 37.Qa2 Kh6 38.Qd2 Rg7 39.Qd4 g4 40.fxg4 Nh4 41.Rb2 Rxg4 
 
 ## CM11 Settings and Testing
 
-[[39]](#cite_note-39)
+<a id="cite-note-39" href="#cite-ref-39">[39]</a>
 
 - [CM11 settings and testing](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=3054) by [Graham Banks](Graham_Banks "Graham Banks"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), January 26, 2008
 - [CM11 Championship (completed)](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=4198) by [Graham Banks](Graham_Banks "Graham Banks"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), January 19, 2009
@@ -332,7 +332,7 @@ Nf8 35.f3 h5 36.Qc2 Ng6 37.Qa2 Kh6 38.Qd2 Rg7 39.Qd4 g4 40.fxg4 Nh4 41.Rb2 Rxg4 
 - [CM11 Knockout 2010 (completed)](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=5115) by [Graham Banks](Graham_Banks "Graham Banks"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), May 12, 2010
 - [CM11 Slugfest II (completed)](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=5162) by [Graham Banks](Graham_Banks "Graham Banks"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), May 30, 2010
 - [CM11 Champions 2011 (completed)](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=5991) by [Graham Banks](Graham_Banks "Graham Banks"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), July 18, 2011
-- [Arrival Of The Conqueror (completed)](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=6130) by [Graham Banks](Graham_Banks "Graham Banks"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), September 17, 2011 [[40]](#cite_note-40)
+- [Arrival Of The Conqueror (completed)](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=6130) by [Graham Banks](Graham_Banks "Graham Banks"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), September 17, 2011 <a id="cite-note-40" href="#cite-ref-40">[40]</a>
 - [The Conqueror](http://kirill-kryukov.com/chess/discussion-board/viewtopic.php?f=7&t=12089) by [Graham Banks](Graham_Banks "Graham Banks"), [CCRL Discussion Board](Computer_Chess_Forums "Computer Chess Forums"), May 30, 2020
 
 ## External Links
@@ -459,46 +459,46 @@ Nf8 35.f3 h5 36.Qc2 Ng6 37.Qa2 Kh6 38.Qd2 Rg7 39.Qd4 g4 40.fxg4 Nh4 41.Rb2 Rxg4 
 
 ## References
 
-1. [↑](#cite_ref-1) [Will Hare (1919 – 1997)](https://en.wikipedia.org/wiki/Will_Hare), [VC&G | The Chessmaster Died in 1997](http://www.vintagecomputing.com/index.php/archives/896/the-chessmaster-died-in-1997) by Benj Edwards, August 27, 2012
-1. [↑](#cite_ref-2) [Chessmaster from Wikipedia](https://en.wikipedia.org/wiki/Chessmaster)
-1. [↑](#cite_ref-3) [Ubisoft - Chessmaster XI](http://www.ubi.com/US/Games/Info.aspx?pId=5893)
-1. [↑](#cite_ref-4) [Ubisoft - Chessmaster Challenge](http://www.ubi.com/US/Downloads/Info.aspx?dlId=789)
-1. [↑](#cite_ref-5) [Chessmaster Challenge Game - Download and Play Free Version!](http://www.download-free-games.com/chess_game_download/chessmaster_challenge.htm)
-1. [↑](#cite_ref-6) [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
-1. [↑](#cite_ref-7) [Chessmaster 10th Edition Demo : Ubi Soft Entertainment Software : Free Download & Streaming](https://archive.org/details/Chessmaster10thEditionDemo) : [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
-1. [↑](#cite_ref-8) [Chessmaster Challenge Game - Download and Play Free Version!](http://www.download-free-games.com/chess_game_download/chessmaster_challenge.htm)
-1. [↑](#cite_ref-9) [PC-Screenshots | Chessmaster XI: The Art of Learning](http://chessmaster.de.ubi.com/xi/pcScreens.php) | [Ubisoft](index.php?title=Ubisoft&action=edit&redlink=1 "Ubisoft (page does not exist)")
-1. [↑](#cite_ref-10) [The Software Toolworks Home Page](http://www.toolworks.com/)
-1. [↑](#cite_ref-11) [Walt's Home Page - Software Publisher](http://www.toolworks.com/bilofsky/software.htm)
-1. [↑](#cite_ref-12) [The Chessmaster 2000](http://www.mobygames.com/game/chessmaster-2000) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. [↑](#cite_ref-13) [MYCHESS for DOS (1984)](http://www.mobygames.com/game/mychess) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. [↑](#cite_ref-14) [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462584&t=43447) by [Dave Kittinger](David_Kittinger "David Kittinger"), [CCC](CCC "CCC"), April 25, 2012
-1. [↑](#cite_ref-15) [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *2nd U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1986, Fall/Winter Edition
-1. [↑](#cite_ref-16) Reply by [Mark Manyen](index.php?title=Mark_Manyen&action=edit&redlink=1 "Mark Manyen (page does not exist)") in [Fidelity Chessmaster 2100](http://www.spacious-mind.com/html/commodore_c64_fidelity_chessma.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
-1. [↑](#cite_ref-17) [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462584&t=43447) by [Dave Kittinger](David_Kittinger "David Kittinger"), [CCC](CCC "CCC"), April 25, 2012
-1. [↑](#cite_ref-18) [Re: Historical Chessmaster ?](https://www.stmintz.com/ccc/index.php?id=422725) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), April 24, 2005
-1. [↑](#cite_ref-19) [Re: Historical Chessmaster ?](https://www.stmintz.com/ccc/index.php?id=422644) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), April 24, 2005
-1. [↑](#cite_ref-20) [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462584&t=43447) by [Dave Kittinger](David_Kittinger "David Kittinger"), [CCC](CCC "CCC"), April 25, 2012
-1. [↑](#cite_ref-21) The Editor (**1994**). *David Kittinger, Professional Biography*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, No. 1, p. 21
-1. [↑](#cite_ref-22) [Re: David K: did you write CM3000 code? Great discussion here](http://www.talkchess.com/forum/viewtopic.php?t=43441&start=8) by [Fernando Villegas](Fernando_Villegas "Fernando Villegas"), [CCC](CCC "CCC"), April 25, 2012
-1. [↑](#cite_ref-23) [What can Winboard do?](http://horizonchess.com/FAQ/Winboard/confusion.html) by [Aaron Tay](Aaron_Tay "Aaron Tay"), March 01, 2002, hosted by [Ron Murawski](Ron_Murawski "Ron Murawski")
-1. [↑](#cite_ref-24) [Chessmaster LIVE for Xbox 360 (2008)](http://www.mobygames.com/game/chessmaster-live) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
-1. [↑](#cite_ref-25) [Chessmaster (+engine) version history](http://www.talkchess.com/forum/viewtopic.php?t=49150) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), August 28, 2013
-1. [↑](#cite_ref-26) [An Introduction to FEG and Endgame Databases](ftp://ftp.ubisoft.com/games/chessmaster/other/FEG-Readme.TXT)
-1. [↑](#cite_ref-27) [De Koenig's endgame databases](http://www.volny.cz/evcomp/dkas2.htm) by [Emil Vlasák](index.php?title=Emil_Vlas%C3%A1k&action=edit&redlink=1 "Emil Vlasák (page does not exist)")
-1. [↑](#cite_ref-28) [Walt's Home Page - Software Publisher](http://www.toolworks.com/bilofsky/software.htm)
-1. [↑](#cite_ref-29) [Software Toolworks (Mindscape) is there, and \*yes\* they do care!](https://groups.google.com/d/msg/rec.games.chess/3oL-J6n8nBU/qX3ovhUOBgkJ) by Joe Stella, [rgc](Computer_Chess_Forums "Computer Chess Forums"), December 24, 1994
-1. [↑](#cite_ref-30) [Net Contact List of Chessmaster](https://groups.google.com/d/msg/rec.games.chess/XdN-hL47cb0/Uu_iu24M9iIJ) by [Carlos Justiniano](Carlos_Justiniano "Carlos Justiniano"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), April 06, 1995
-1. [↑](#cite_ref-31) [Mindscape from Wikipedia](https://en.wikipedia.org/wiki/Mindscape) mentions: Mindscape sold to Pearson PLC for $503 million in 1994
-1. [↑](#cite_ref-32) [Michael E. Duffy](index.php?title=Michael_E._Duffy&action=edit&redlink=1 "Michael E. Duffy (page does not exist)") mentions sale of The Software Toolworks to Pearson PLC for $462 million, April 1994, [Michael E. Duffy & Associates](http://www.mikeduffy.com/)
-1. [↑](#cite_ref-33)  [David Grenewetzki](index.php?title=David_Grenewetzki&action=edit&redlink=1 "David Grenewetzki (page does not exist)") mentions $462 million sale of The Software Toolworks to Pearson PLC, Mai 1993, [David Grenewetzki - LinkedIn](https://www.linkedin.com/in/dgreno)
-1. [↑](#cite_ref-34) [Software Toolworks to Ubi Soft (OT)](https://www.stmintz.com/ccc/index.php?id=159490) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), March 20, 2001
-1. [↑](#cite_ref-35) [The Art of Learning Project](http://theartoflearningproject.org/educate/)
-1. [↑](#cite_ref-36) [CM5000 We welcome input!](https://groups.google.com/d/msg/rec.games.chess/ON92sLwtjfc/8MvFoE28N2IJ) by [Carlos Justiniano](Carlos_Justiniano "Carlos Justiniano"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), December 29, 1994
-1. [↑](#cite_ref-37) [David Bronstein vs Chessmaster](http://www.chessgames.com/perl/chessgame?gid=1238107) from [chessgames.com](http://www.chessgames.com/index.html)
-1. [↑](#cite_ref-38) 8https://en.wikipedia.org/wiki/The_Week_in_Chess TWIC\] #415. *17) Larry Christiansen vs. Chessmaster 9000 Match*.
-1. [↑](#cite_ref-39) [Re: Which is the best personality CM XI ? (in elo strength)](http://www.talkchess.com/forum/viewtopic.php?t=50819&start=1) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), January 07, 2014
-1. [↑](#cite_ref-40) [Chessmaster 11 Conqueror](http://www.computerchess.org.uk/ccrl/4040/cgi/engine_details.cgi?match_length=30&each_game=1&print=Details&each_game=1&eng=Chessmaster%2011%20Conqueror#Chessmaster_11_Conqueror)\] in [CCRL 40/15](CCRL "CCRL")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Will Hare (1919 – 1997)](https://en.wikipedia.org/wiki/Will_Hare), [VC&G | The Chessmaster Died in 1997](http://www.vintagecomputing.com/index.php/archives/896/the-chessmaster-died-in-1997) by Benj Edwards, August 27, 2012
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Chessmaster from Wikipedia](https://en.wikipedia.org/wiki/Chessmaster)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Ubisoft - Chessmaster XI](http://www.ubi.com/US/Games/Info.aspx?pId=5893)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Ubisoft - Chessmaster Challenge](http://www.ubi.com/US/Downloads/Info.aspx?dlId=789)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Chessmaster Challenge Game - Download and Play Free Version!](http://www.download-free-games.com/chess_game_download/chessmaster_challenge.htm)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Septober - Computerschach](http://www.septober.de/chess/index.htm) by [Herbert Marquardt](index.php?title=Herbert_Marquardt&action=edit&redlink=1 "Herbert Marquardt (page does not exist)")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Chessmaster 10th Edition Demo : Ubi Soft Entertainment Software : Free Download & Streaming](https://archive.org/details/Chessmaster10thEditionDemo) : [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chessmaster Challenge Game - Download and Play Free Version!](http://www.download-free-games.com/chess_game_download/chessmaster_challenge.htm)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [PC-Screenshots | Chessmaster XI: The Art of Learning](http://chessmaster.de.ubi.com/xi/pcScreens.php) | [Ubisoft](index.php?title=Ubisoft&action=edit&redlink=1 "Ubisoft (page does not exist)")
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [The Software Toolworks Home Page](http://www.toolworks.com/)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Walt's Home Page - Software Publisher](http://www.toolworks.com/bilofsky/software.htm)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [The Chessmaster 2000](http://www.mobygames.com/game/chessmaster-2000) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [MYCHESS for DOS (1984)](http://www.mobygames.com/game/mychess) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462584&t=43447) by [Dave Kittinger](David_Kittinger "David Kittinger"), [CCC](CCC "CCC"), April 25, 2012
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Larry Kaufman](Larry_Kaufman "Larry Kaufman") (**1986**). *2nd U.S. Open Computer Chess Championship*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports") 1986, Fall/Winter Edition
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> Reply by [Mark Manyen](index.php?title=Mark_Manyen&action=edit&redlink=1 "Mark Manyen (page does not exist)") in [Fidelity Chessmaster 2100](http://www.spacious-mind.com/html/commodore_c64_fidelity_chessma.html) from [The Spacious Mind](The_Spacious_Mind "The Spacious Mind")
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462584&t=43447) by [Dave Kittinger](David_Kittinger "David Kittinger"), [CCC](CCC "CCC"), April 25, 2012
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Re: Historical Chessmaster ?](https://www.stmintz.com/ccc/index.php?id=422725) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), April 24, 2005
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Re: Historical Chessmaster ?](https://www.stmintz.com/ccc/index.php?id=422644) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), April 24, 2005
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Re: Hello all](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=462584&t=43447) by [Dave Kittinger](David_Kittinger "David Kittinger"), [CCC](CCC "CCC"), April 25, 2012
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> The Editor (**1994**). *David Kittinger, Professional Biography*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, No. 1, p. 21
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Re: David K: did you write CM3000 code? Great discussion here](http://www.talkchess.com/forum/viewtopic.php?t=43441&start=8) by [Fernando Villegas](Fernando_Villegas "Fernando Villegas"), [CCC](CCC "CCC"), April 25, 2012
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [What can Winboard do?](http://horizonchess.com/FAQ/Winboard/confusion.html) by [Aaron Tay](Aaron_Tay "Aaron Tay"), March 01, 2002, hosted by [Ron Murawski](Ron_Murawski "Ron Murawski")
+1. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Chessmaster LIVE for Xbox 360 (2008)](http://www.mobygames.com/game/chessmaster-live) - [MobyGames](https://en.wikipedia.org/wiki/MobyGames)
+1. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Chessmaster (+engine) version history](http://www.talkchess.com/forum/viewtopic.php?t=49150) by [Vincent Lejeune](index.php?title=Vincent_Lejeune&action=edit&redlink=1 "Vincent Lejeune (page does not exist)"), [CCC](CCC "CCC"), August 28, 2013
+1. <a id="cite-ref-26" href="#cite-note-26">↑</a> [An Introduction to FEG and Endgame Databases](ftp://ftp.ubisoft.com/games/chessmaster/other/FEG-Readme.TXT)
+1. <a id="cite-ref-27" href="#cite-note-27">↑</a> [De Koenig's endgame databases](http://www.volny.cz/evcomp/dkas2.htm) by [Emil Vlasák](index.php?title=Emil_Vlas%C3%A1k&action=edit&redlink=1 "Emil Vlasák (page does not exist)")
+1. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Walt's Home Page - Software Publisher](http://www.toolworks.com/bilofsky/software.htm)
+1. <a id="cite-ref-29" href="#cite-note-29">↑</a> [Software Toolworks (Mindscape) is there, and \*yes\* they do care!](https://groups.google.com/d/msg/rec.games.chess/3oL-J6n8nBU/qX3ovhUOBgkJ) by Joe Stella, [rgc](Computer_Chess_Forums "Computer Chess Forums"), December 24, 1994
+1. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Net Contact List of Chessmaster](https://groups.google.com/d/msg/rec.games.chess/XdN-hL47cb0/Uu_iu24M9iIJ) by [Carlos Justiniano](Carlos_Justiniano "Carlos Justiniano"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), April 06, 1995
+1. <a id="cite-ref-31" href="#cite-note-31">↑</a> [Mindscape from Wikipedia](https://en.wikipedia.org/wiki/Mindscape) mentions: Mindscape sold to Pearson PLC for $503 million in 1994
+1. <a id="cite-ref-32" href="#cite-note-32">↑</a> [Michael E. Duffy](index.php?title=Michael_E._Duffy&action=edit&redlink=1 "Michael E. Duffy (page does not exist)") mentions sale of The Software Toolworks to Pearson PLC for $462 million, April 1994, [Michael E. Duffy & Associates](http://www.mikeduffy.com/)
+1. <a id="cite-ref-33" href="#cite-note-33">↑</a>  [David Grenewetzki](index.php?title=David_Grenewetzki&action=edit&redlink=1 "David Grenewetzki (page does not exist)") mentions $462 million sale of The Software Toolworks to Pearson PLC, Mai 1993, [David Grenewetzki - LinkedIn](https://www.linkedin.com/in/dgreno)
+1. <a id="cite-ref-34" href="#cite-note-34">↑</a> [Software Toolworks to Ubi Soft (OT)](https://www.stmintz.com/ccc/index.php?id=159490) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), March 20, 2001
+1. <a id="cite-ref-35" href="#cite-note-35">↑</a> [The Art of Learning Project](http://theartoflearningproject.org/educate/)
+1. <a id="cite-ref-36" href="#cite-note-36">↑</a> [CM5000 We welcome input!](https://groups.google.com/d/msg/rec.games.chess/ON92sLwtjfc/8MvFoE28N2IJ) by [Carlos Justiniano](Carlos_Justiniano "Carlos Justiniano"), [rgc](Computer_Chess_Forums "Computer Chess Forums"), December 29, 1994
+1. <a id="cite-ref-37" href="#cite-note-37">↑</a> [David Bronstein vs Chessmaster](http://www.chessgames.com/perl/chessgame?gid=1238107) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-38" href="#cite-note-38">↑</a> 8https://en.wikipedia.org/wiki/The_Week_in_Chess TWIC\] #415. *17) Larry Christiansen vs. Chessmaster 9000 Match*.
+1. <a id="cite-ref-39" href="#cite-note-39">↑</a> [Re: Which is the best personality CM XI ? (in elo strength)](http://www.talkchess.com/forum/viewtopic.php?t=50819&start=1) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), January 07, 2014
+1. <a id="cite-ref-40" href="#cite-note-40">↑</a> [Chessmaster 11 Conqueror](http://www.computerchess.org.uk/ccrl/4040/cgi/engine_details.cgi?match_length=30&each_game=1&print=Details&each_game=1&eng=Chessmaster%2011%20Conqueror#Chessmaster_11_Conqueror)\] in [CCRL 40/15](CCRL "CCRL")
 
 **[Up one level](Engines "Engines")**
 

@@ -167,7 +167,7 @@ CNode::AttackPtrType CNode::m_scPieceAtta[14] =
 - [STL Containers - C++ Reference](http://www.cplusplus.com/reference/stl/)
 - [C++ Libraries — Software Preservation Group](http://www.softwarepreservation.org/projects/c_plus_plus/library), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 
-[NIH Class Library — Software Preservation Group](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") [[1]](#cite_note-1)
+[NIH Class Library — Software Preservation Group](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 
 - [Qt (software) from Wikipedia](<https://en.wikipedia.org/wiki/Qt_(software)>)
 - [Loki (C++) from Wikipedia](https://en.wikipedia.org/wiki/Loki_%28C%2B%2B%29) by [Andrei Alexandrescu](Mathematician#AAlexandrescu "Mathematician") as part of his book *[Modern C++ Design](https://en.wikipedia.org/wiki/Modern_C%2B%2B_Design)*.
@@ -194,7 +194,7 @@ CNode::AttackPtrType CNode::m_scPieceAtta[14] =
 ## 1990 ...
 
 - [Andrew Koenig](Andrew_Koenig "Andrew Koenig"), [Bjarne Stroustrup](Mathematician#Stroustrup "Mathematician") (**1990**). *Exception Handling for C++*. Proc [USENIX C++ Conference 1990](http://dblp.dagstuhl.de/db/conf/c++/c++90.html#KoenigS90), Also, [Journal of Object Oriented Programming](https://dl.acm.org/citation.cfm?id=J472), Vol. 3, No. 2
-- [Keith E. Gorlen](Keith_Gorlen "Keith Gorlen"), et al. (**1990**). *[Data abstraction and object-oriented programming in C++](https://www.goodreads.com/book/show/3108432-data-abstraction-and-object-oriented-programming-in-c)*. [Wiley](https://en.wikipedia.org/wiki/John_Wiley_%26_Sons) [[2]](#cite_note-2)
+- [Keith E. Gorlen](Keith_Gorlen "Keith Gorlen"), et al. (**1990**). *[Data abstraction and object-oriented programming in C++](https://www.goodreads.com/book/show/3108432-data-abstraction-and-object-oriented-programming-in-c)*. [Wiley](https://en.wikipedia.org/wiki/John_Wiley_%26_Sons) <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 - [Andrew Koenig](Andrew_Koenig "Andrew Koenig"), [Thomas A. Cargill](http://www.profcon.com/profcon/cargill/), [Keith E. Gorlen](Keith_Gorlen "Keith Gorlen"), Robert B. Murray, Michael Vilot (**1991**). *[How Useful is Multiple Inheritance in C++?](https://www.semanticscholar.org/paper/How-Useful-is-Multiple-Inheritance-in-C%2B%2B-Koenig-Cargill/3cab41a20400d12ef38e702166961de280441ecf)* [C++ Conference 1991](https://dblp.uni-trier.de/db/conf/c++/c++91.html)
 - [Andrew Koenig](Andrew_Koenig "Andrew Koenig") (**1992**). *[Space-Efficient Trees in C++](https://www.semanticscholar.org/paper/Space-Efficient-Trees-in-C%2B%2B-Koenig/ea7fb1268b06304cffb292f1d8f4ace0ff62c82b)*. [C++ Conference 1992](https://dblp.dagstuhl.de/db/conf/c++/c++92.html)
 - [Scott Meyers](https://en.wikipedia.org/wiki/Scott_Meyers) (**1992,2005**). *Effective C++: 50 Specific Ways to Improve Your Programs and Designs*. [Addison-Wesley](https://en.wikipedia.org/wiki/Addison-Wesley)
@@ -228,8 +228,8 @@ CNode::AttackPtrType CNode::m_scPieceAtta[14] =
 ## 2010 ...
 
 - [Robert C. Seacord](https://en.wikipedia.org/wiki/Robert_C._Seacord) (**2010**). *Dangerous Optimizations and the Loss of Causality*. CS 15-392, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [slides as pdf](https://pubweb.eng.utah.edu/~cs5785/slides-f10/Dangerous+Optimizations.pdf)
-- [Anthony Williams](https://stackoverflow.com/users/5597/anthony-williams) (**2012**). *[C++ Concurrency in Action: Practical Multithreading](http://www.cplusplusconcurrencyinaction.com/)*. [[3]](#cite_note-3)
-- [Xi Wang](https://pdos.csail.mit.edu/~xi/), [Haogang Chen](https://pdos.csail.mit.edu/~hchen/), [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/), [Zhihao Jia](http://zhihaojia.com/), [Nickolai Zeldovich](http://people.csail.mit.edu/nickolai/), [M. Frans Kaashoek](https://pdos.csail.mit.edu/~kaashoek/) (**2012**). *Undefined Behavior: What Happened to My Code*? [pdf](https://pdos.csail.mit.edu/papers/ub:apsys12.pdf) [[4]](#cite_note-4)
+- [Anthony Williams](https://stackoverflow.com/users/5597/anthony-williams) (**2012**). *[C++ Concurrency in Action: Practical Multithreading](http://www.cplusplusconcurrencyinaction.com/)*. <a id="cite-note-3" href="#cite-ref-3">[3]</a>
+- [Xi Wang](https://pdos.csail.mit.edu/~xi/), [Haogang Chen](https://pdos.csail.mit.edu/~hchen/), [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/), [Zhihao Jia](http://zhihaojia.com/), [Nickolai Zeldovich](http://people.csail.mit.edu/nickolai/), [M. Frans Kaashoek](https://pdos.csail.mit.edu/~kaashoek/) (**2012**). *Undefined Behavior: What Happened to My Code*? [pdf](https://pdos.csail.mit.edu/papers/ub:apsys12.pdf) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 - [Will Dietz](https://wdtz.org/), [Peng Li](https://lipeng28.github.io/), [John Regehr](http://www.cs.utah.edu/~regehr/), [Vikram Adve](https://en.wikipedia.org/wiki/Vikram_Adve) (**2012**). *Understanding Integer Overflow in C/C++*. [pdf](http://www.cs.utah.edu/~regehr/papers/overflow12.pdf)
 
 ## Forum Posts
@@ -240,7 +240,7 @@ CNode::AttackPtrType CNode::m_scPieceAtta[14] =
 
 [Re: Search Degredation w/ C++](http://groups.google.com/group/rec.games.chess.computer/msg/e27ff5ad3ac054ff) by [Amir Ban](Amir_Ban "Amir Ban"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 17, 1997
 
-- [Question to Amir Ban](https://www.stmintz.com/ccc/index.php?id=11617) by [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [CCC](CCC "CCC"), November 05, 1997 [[5]](#cite_note-5)
+- [Question to Amir Ban](https://www.stmintz.com/ccc/index.php?id=11617) by [Bas Hamstra](Bas_Hamstra "Bas Hamstra"), [CCC](CCC "CCC"), November 05, 1997 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 - [object oriented chess programming](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/2d300db2c0e1c70e) by [James Long](James_Swafford "James Swafford"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 31, 1997
 
 [Re: object oriented chess programming](http://groups.google.com/group/rec.games.chess.computer/msg/b048a5f34835f721) by [Dave Fotland](David_Fotland "David Fotland"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 06, 1998
@@ -285,7 +285,7 @@ CNode::AttackPtrType CNode::m_scPieceAtta[14] =
 - [C++ type system AKA what is exactly int ?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76592) by [JohnWoe](Toni_Helminen "Toni Helminen"), [CCC](CCC "CCC"), February 14, 2021
 - [C++ code for board[8][8] representation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76817) by [Yves De Billoëz](Yves_De_Billo%C3%ABz "Yves De Billoëz"), [CCC](CCC "CCC"), March 08, 2021 » [8x8 Board](8x8_Board "8x8 Board")
 
-[Re: C++ code for board[8][8] representation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76817&start=4) by [Rein Halbersma](Rein_Halbersma "Rein Halbersma"), [CCC](CCC "CCC"), March 08, 2021 [[6]](#cite_note-6)
+[Re: C++ code for board[8][8] representation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76817&start=4) by [Rein Halbersma](Rein_Halbersma "Rein Halbersma"), [CCC](CCC "CCC"), March 08, 2021 <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 - [Why C++ instead of C#?](http://www.talkchess.com/forum3/viewtopic.php?t=78070) by Henk, [CCC](CCC "CCC"), August 31, 2021
 - [Bitboards ?: C# vs C++](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=78680) by Bill Beame, [CCC](CCC "CCC"), November 17, 2021 » [Bitboards](Bitboards "Bitboards")
@@ -316,12 +316,12 @@ CNode::AttackPtrType CNode::m_scPieceAtta[14] =
 
 ## References
 
-1. [↑](#cite_ref-1) [Keith E. Gorlen](Keith_Gorlen "Keith Gorlen"), et al. (**1990**). *[Data abstraction and object-oriented programming in C++](https://www.goodreads.com/book/show/3108432-data-abstraction-and-object-oriented-programming-in-c)*. [Wiley](https://en.wikipedia.org/wiki/John_Wiley_%26_Sons)
-1. [↑](#cite_ref-2) [NIH Class Library — Software Preservation Group](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. [↑](#cite_ref-3) [Information on the C++11 Memory Model](http://scottmeyers.blogspot.co.uk/2012/04/information-on-c11-memory-model.html) by [Scott Meyers](https://en.wikipedia.org/wiki/Scott_Meyers), April 24, 2012
-1. [↑](#cite_ref-4) [Re: A note for C programmers](http://www.talkchess.com/forum/viewtopic.php?t=50186&start=80) by [Rein Halbersma](Rein_Halbersma "Rein Halbersma"), [CCC](CCC "CCC"), November 28, 2013
-1. [↑](#cite_ref-5) [Search Degredation w/ C++](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/5fba0f94be869f35) by Chris Jason Richards, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 12, 1997, post 4 and 6 by [Amir Ban](Amir_Ban "Amir Ban")
-1. [↑](#cite_ref-6) [lambda expressions (C++ 11) from Wikipedia](<https://en.wikipedia.org/wiki/Anonymous_function#C++_(since_C++11)>)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Keith E. Gorlen](Keith_Gorlen "Keith Gorlen"), et al. (**1990**). *[Data abstraction and object-oriented programming in C++](https://www.goodreads.com/book/show/3108432-data-abstraction-and-object-oriented-programming-in-c)*. [Wiley](https://en.wikipedia.org/wiki/John_Wiley_%26_Sons)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [NIH Class Library — Software Preservation Group](http://www.softwarepreservation.org/projects/c_plus_plus/library/nihcl), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Information on the C++11 Memory Model](http://scottmeyers.blogspot.co.uk/2012/04/information-on-c11-memory-model.html) by [Scott Meyers](https://en.wikipedia.org/wiki/Scott_Meyers), April 24, 2012
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: A note for C programmers](http://www.talkchess.com/forum/viewtopic.php?t=50186&start=80) by [Rein Halbersma](Rein_Halbersma "Rein Halbersma"), [CCC](CCC "CCC"), November 28, 2013
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Search Degredation w/ C++](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/5fba0f94be869f35) by Chris Jason Richards, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), June 12, 1997, post 4 and 6 by [Amir Ban](Amir_Ban "Amir Ban")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [lambda expressions (C++ 11) from Wikipedia](<https://en.wikipedia.org/wiki/Anonymous_function#C++_(since_C++11)>)
 
 **[Up one Level](Languages "Languages")**
 

@@ -5,7 +5,7 @@ title: Windows
 
 
 
-[ Windows Server 2012 Logo [[1]](#cite_note-1)
+[ Windows Server 2012 Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Windows**,  
 
 a series of 32-bit and 64-bit [operating systems](https://en.wikipedia.org/wiki/Operating_system) by [Microsoft](Microsoft "Microsoft") for [x86](X86 "X86") and [x86-64](X86-64 "X86-64") [PC's](IBM_PC "IBM PC"), as well as [Windows CE](https://en.wikipedia.org/wiki/Microsoft_Windows_CE) for [embedded systems](https://en.wikipedia.org/wiki/Embedded_system) and the [mobile operating system](https://en.wikipedia.org/wiki/Mobile_operating_system) [Windows Mobile](https://en.wikipedia.org/wiki/Windows_Mobile). Its development started in the early 80s as a [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) for 16-bit [MS-DOS](MS-DOS "MS-DOS") operating system, with the ability to perform [cooperative multitasking](https://en.wikipedia.org/wiki/Computer_multitasking#Cooperative_multitasking.2Ftime-sharing) while processing an [event loop](https://en.wikipedia.org/wiki/Event_loop). 
@@ -15,7 +15,7 @@ a series of 32-bit and 64-bit [operating systems](https://en.wikipedia.org/wiki/
 ## Chess Engines
 
 
-Most current [chess engines](Engines "Engines") are suited to run under Windows, a few with its own proprietary [user interface](GUI "GUI"), but most common as [console application](https://en.wikipedia.org/wiki/Console_application) and [child process](Process "Process") of an external [chess GUI](GUI "GUI") communicating via [redirected](https://en.wikipedia.org/wiki/Redirection_%28computing%29) [standard streams](https://en.wikipedia.org/wiki/Standard_streams) [[6]](#cite_note-6) using protocols like the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") (WinBoard) and/or the [Universal Chess Interface](UCI "UCI") (UCI).
+Most current [chess engines](Engines "Engines") are suited to run under Windows, a few with its own proprietary [user interface](GUI "GUI"), but most common as [console application](https://en.wikipedia.org/wiki/Console_application) and [child process](Process "Process") of an external [chess GUI](GUI "GUI") communicating via [redirected](https://en.wikipedia.org/wiki/Redirection_%28computing%29) [standard streams](https://en.wikipedia.org/wiki/Standard_streams) <a id="cite-note-6" href="#cite-ref-6">[6]</a> using protocols like the [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") (WinBoard) and/or the [Universal Chess Interface](UCI "UCI") (UCI).
 
 
 
@@ -27,9 +27,9 @@ Most current [chess engines](Engines "Engines") are suited to run under Windows,
 |  |  |
 | --- | --- |
 | [Arena320.jpg](http://www.playwitharena.com/) | [CPsshot2.png](http://sjeng.org/deepsjeng.html) |
-| [Arena](Arena "Arena") [[7]](#cite_note-7) | [Deep Sjeng](Deep_Sjeng "Deep Sjeng") under [ChessPartner](ChessPartner "ChessPartner") [[8]](#cite_note-8) |
+| [Arena](Arena "Arena") <a id="cite-note-7" href="#cite-ref-7">[7]</a> | [Deep Sjeng](Deep_Sjeng "Deep Sjeng") under [ChessPartner](ChessPartner "ChessPartner") <a id="cite-note-8" href="#cite-ref-8">[8]</a> |
 | [DeepFritz14d 1.jpg](http://shop.chessbase.com/en/products/deep_fritz_14_english) | [DeepRybkaInAqurium7.png](http://chessok.com/shop/index.php?Home=product_info&cPath=7_1&products_id=344) |
-| [Deep Fritz 14 GUI](Fritz#FritzGUI "Fritz") [[9]](#cite_note-9) | [Deep Rybka 4](Rybka "Rybka") [Aquarium](Aquarium "Aquarium") [[10]](#cite_note-10) |
+| [Deep Fritz 14 GUI](Fritz#FritzGUI "Fritz") <a id="cite-note-9" href="#cite-ref-9">[9]</a> | [Deep Rybka 4](Rybka "Rybka") [Aquarium](Aquarium "Aquarium") <a id="cite-note-10" href="#cite-ref-10">[10]</a> |
 
 
 * [Aquarium](Aquarium "Aquarium")
@@ -196,14 +196,14 @@ C
 -
 
 
-[C](C "C") programmers were faced with some new paradigms from early 16-bit [Windows API](https://en.wikipedia.org/wiki/Windows_API), not to mention the fact that a lot of [C standard library](https://en.wikipedia.org/wiki/C_standard_library) functions were hard and error-prone to use, or even taboo [[11]](#cite_note-11) . [Charles Petzold](https://en.wikipedia.org/wiki/Charles_Petzold): "The original [hello world program](https://en.wikipedia.org/wiki/Hello_world_program) in the [Windows 1.0 SDK](https://en.wikipedia.org/wiki/Microsoft_Windows_SDK) was a bit of a scandal. HELLO.C was about 150 lines long, and the HELLO.RC resource script had another 20 or so more lines". (...) Veteran C programmers often curled up in horror or laughter when encountering the Windows hello-world program." [[12]](#cite_note-12) .
+[C](C "C") programmers were faced with some new paradigms from early 16-bit [Windows API](https://en.wikipedia.org/wiki/Windows_API), not to mention the fact that a lot of [C standard library](https://en.wikipedia.org/wiki/C_standard_library) functions were hard and error-prone to use, or even taboo <a id="cite-note-11" href="#cite-ref-11">[11]</a> . [Charles Petzold](https://en.wikipedia.org/wiki/Charles_Petzold): "The original [hello world program](https://en.wikipedia.org/wiki/Hello_world_program) in the [Windows 1.0 SDK](https://en.wikipedia.org/wiki/Microsoft_Windows_SDK) was a bit of a scandal. HELLO.C was about 150 lines long, and the HELLO.RC resource script had another 20 or so more lines". (...) Veteran C programmers often curled up in horror or laughter when encountering the Windows hello-world program." <a id="cite-note-12" href="#cite-ref-12">[12]</a> .
 
 
 
 ### WinMain and the Message loop
 
 
-Windows programs are [event-driven](https://en.wikipedia.org/wiki/Event-driven_programming), have no usual main, but [WinMain](http://msdn.microsoft.com/en-us/library/ms633559%28VS.85%29.aspx) to enter a [event loop](https://en.wikipedia.org/wiki/Event_loop) [[13]](#cite_note-13) , where [DispatchMessage](http://msdn.microsoft.com/en-us/library/ms644934%28VS.85%29.aspx) transfers [messages](http://msdn.microsoft.com/en-us/library/ms644958%28VS.85%29.aspx) to a [callback procedure](http://msdn.microsoft.com/en-us/library/ms632593%28v=VS.85%29.aspx) [associated](http://msdn.microsoft.com/en-us/library/ms633570%28v=VS.85%29.aspx#associating_proc) with the [window](http://msdn.microsoft.com/en-us/library/aa931018.aspx) the message refers to, i.e. for keyboard events one window which owns the [keyboard focus](https://en.wikipedia.org/wiki/Focus_%28computing%29). To make Windows applications work flawlessly, keeping its windows up to date, that is processing [paint messages](http://msdn.microsoft.com/en-us/library/dd145213%28v=vs.85%29.aspx), the [I/O bound](https://en.wikipedia.org/wiki/I/O_bound) [GUI](GUI "GUI") [thread](Thread "Thread") needs to be run in the message loop, to react on messages best within 20 ms. In early 16-bit Windows, DispatchMessage implemented [cooperative multitasking](https://en.wikipedia.org/wiki/Computer_multitasking#Cooperative_multitasking.2Ftime-sharing) - but one application being uncooperative could made the whole system hang.
+Windows programs are [event-driven](https://en.wikipedia.org/wiki/Event-driven_programming), have no usual main, but [WinMain](http://msdn.microsoft.com/en-us/library/ms633559%28VS.85%29.aspx) to enter a [event loop](https://en.wikipedia.org/wiki/Event_loop) <a id="cite-note-13" href="#cite-ref-13">[13]</a> , where [DispatchMessage](http://msdn.microsoft.com/en-us/library/ms644934%28VS.85%29.aspx) transfers [messages](http://msdn.microsoft.com/en-us/library/ms644958%28VS.85%29.aspx) to a [callback procedure](http://msdn.microsoft.com/en-us/library/ms632593%28v=VS.85%29.aspx) [associated](http://msdn.microsoft.com/en-us/library/ms633570%28v=VS.85%29.aspx#associating_proc) with the [window](http://msdn.microsoft.com/en-us/library/aa931018.aspx) the message refers to, i.e. for keyboard events one window which owns the [keyboard focus](https://en.wikipedia.org/wiki/Focus_%28computing%29). To make Windows applications work flawlessly, keeping its windows up to date, that is processing [paint messages](http://msdn.microsoft.com/en-us/library/dd145213%28v=vs.85%29.aspx), the [I/O bound](https://en.wikipedia.org/wiki/I/O_bound) [GUI](GUI "GUI") [thread](Thread "Thread") needs to be run in the message loop, to react on messages best within 20 ms. In early 16-bit Windows, DispatchMessage implemented [cooperative multitasking](https://en.wikipedia.org/wiki/Computer_multitasking#Cooperative_multitasking.2Ftime-sharing) - but one application being uncooperative could made the whole system hang.
 
 
 
@@ -336,7 +336,7 @@ Applies for most [UCI](UCI "UCI") and/or [Chess Engine Communication Protocol](C
 ### Calling Conventions
 
 
-[Agner Fog](http://www.agner.org/) describes [x86](X86 "X86") and [x86-64](X86-64 "X86-64") [calling conventions](https://en.wikipedia.org/wiki/Calling_convention) for different C++ compilers and operating systems, covering 32-bit and 64-bit Windows [[14]](#cite_note-14) :
+[Agner Fog](http://www.agner.org/) describes [x86](X86 "X86") and [x86-64](X86-64 "X86-64") [calling conventions](https://en.wikipedia.org/wiki/Calling_convention) for different C++ compilers and operating systems, covering 32-bit and 64-bit Windows <a id="cite-note-14" href="#cite-ref-14">[14]</a> :
 
 
 The document contains details about data representation, function calling conventions, register usage conventions, name mangling schemes, etc. for many different C++ compilers and operating systems. Discusses compatibilities and incompatibilities between different C++ compilers. Includes information that is not covered by the official [Application Binary Interface](https://en.wikipedia.org/wiki/Application_binary_interface) standards (ABI's). The information provided here is based on my own research and therefore descriptive rather than normative. Intended as a source of reference for programmers who want to make function libraries compatible with multiple compilers or operating systems and for makers of compilers and other development tools who want their tools to be compatible with existing tools.
@@ -403,7 +403,7 @@ The document contains details about data representation, function calling conven
 * [OT: Full Removal of Windows 10](http://www.talkchess.com/forum/viewtopic.php?t=58587) by Terry McCracken, [CCC](CCC "CCC"), December 13, 2015
 * [Weird Windows / WinBoard behavior](http://www.talkchess.com/forum/viewtopic.php?t=61435) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), September 15, 2016 » [Process](Process "Process"), [WinBoard](WinBoard "WinBoard")
 * [Help needed for porting to Windows](http://www.talkchess.com/forum/viewtopic.php?t=61793) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), October 22, 2016
-* [MinGW AlphaBlend](http://www.talkchess.com/forum/viewtopic.php?t=62315) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), November 29, 2016 » [2D Graphics Board](2D_Graphics_Board "2D Graphics Board"), [WinBoard](WinBoard "WinBoard") [[15]](#cite_note-15)
+* [MinGW AlphaBlend](http://www.talkchess.com/forum/viewtopic.php?t=62315) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), November 29, 2016 » [2D Graphics Board](2D_Graphics_Board "2D Graphics Board"), [WinBoard](WinBoard "WinBoard") <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 * [Importance of Windows XP support](http://www.talkchess.com/forum/viewtopic.php?t=63568) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), March 27, 2017
 * [DOSBox Windows 95 for Chess](http://hiarcs.net/forums/viewtopic.php?t=9403&start=16) by [The Spacious Mind](The_Spacious_Mind "The Spacious Mind"), [HIARCS Forum](Computer_Chess_Forums "Computer Chess Forums"), March 09, 2019 » [Bringer](Bringer "Bringer"), [Chessmaster](Chessmaster "Chessmaster"), ...
 
@@ -420,21 +420,21 @@ The document contains details about data representation, function calling conven
 ## References
 
 
-1. [↑](#cite_ref-1) [Microsoft Windows from Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-2. [↑](#cite_ref-2) [Microsoft Windows 1.03 and other tools, 1985](http://www.digibarn.com/collections/software/microsoft/windows10/page_01.htm) from [DigiBarn](http://www.digibarn.com/)
-3. [↑](#cite_ref-3) [Microsoft Windows/286 2.11 and other tools](http://www.digibarn.com/collections/software/microsoft/windows286/index.html) from [DigiBarn](http://www.digibarn.com/)
-4. [↑](#cite_ref-4) [Windows NT 4.0 Workstation Betriebssystem](http://www.operating-system.org/betriebssystem/_german/bs-winnt40.htm)
-5. [↑](#cite_ref-5) [<https://en.wikipedia.org/wiki/Task_View> Task View from Wikipedia
-6. [↑](#cite_ref-6) [Creating a Child Process with Redirected Input and Output, MSDN](http://msdn.microsoft.com/en-us/library/ms682499%28VS.85%29.aspx)
-7. [↑](#cite_ref-7) [Free chess graphical user interface (GUI) Arena for chess engines](http://www.playwitharena.com/)
-8. [↑](#cite_ref-8) [Sjeng - chess, audio and misc. software](http://sjeng.org/deepsjeng.html)
-9. [↑](#cite_ref-9) [Deep Fritz 14](http://shop.chessbase.com/en/products/deep_fritz_14_english) from [ChessBase](ChessBase "ChessBase")
-10. [↑](#cite_ref-10) [ChessOK, Chess Shop from the Developers of Rybka 3 Aquarium](http://chessok.com/shop/index.php?Home=product_info&cPath=7_1&products_id=344)
-11. [↑](#cite_ref-11) [Standard C Library Functions](http://msdn.microsoft.com/en-us/library/aa366881%28VS.85%29.aspx) from [MSDN: Microsoft Development](http://msdn.microsoft.com/en-us/default.aspx)
-12. [↑](#cite_ref-12) [Windows API from Wikipedia - History](https://en.wikipedia.org/wiki/Windows_API#History)
-13. [↑](#cite_ref-13) [Message loop in Microsoft Windows](https://en.wikipedia.org/wiki/Message_loop_in_Microsoft_Windows)
-14. [↑](#cite_ref-14) [Calling conventions for different C++ compilers and operating systems](http://www.agner.org/optimize/calling_conventions.pdf) (pdf) by [Agner Fog](http://www.agner.org/)
-15. [↑](#cite_ref-15) [MinGW from Wikipedia](https://en.wikipedia.org/wiki/MinGW)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Microsoft Windows from Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Microsoft Windows 1.03 and other tools, 1985](http://www.digibarn.com/collections/software/microsoft/windows10/page_01.htm) from [DigiBarn](http://www.digibarn.com/)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Microsoft Windows/286 2.11 and other tools](http://www.digibarn.com/collections/software/microsoft/windows286/index.html) from [DigiBarn](http://www.digibarn.com/)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Windows NT 4.0 Workstation Betriebssystem](http://www.operating-system.org/betriebssystem/_german/bs-winnt40.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [<https://en.wikipedia.org/wiki/Task_View> Task View from Wikipedia
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Creating a Child Process with Redirected Input and Output, MSDN](http://msdn.microsoft.com/en-us/library/ms682499%28VS.85%29.aspx)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Free chess graphical user interface (GUI) Arena for chess engines](http://www.playwitharena.com/)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Sjeng - chess, audio and misc. software](http://sjeng.org/deepsjeng.html)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Deep Fritz 14](http://shop.chessbase.com/en/products/deep_fritz_14_english) from [ChessBase](ChessBase "ChessBase")
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ChessOK, Chess Shop from the Developers of Rybka 3 Aquarium](http://chessok.com/shop/index.php?Home=product_info&cPath=7_1&products_id=344)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Standard C Library Functions](http://msdn.microsoft.com/en-us/library/aa366881%28VS.85%29.aspx) from [MSDN: Microsoft Development](http://msdn.microsoft.com/en-us/default.aspx)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Windows API from Wikipedia - History](https://en.wikipedia.org/wiki/Windows_API#History)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Message loop in Microsoft Windows](https://en.wikipedia.org/wiki/Message_loop_in_Microsoft_Windows)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Calling conventions for different C++ compilers and operating systems](http://www.agner.org/optimize/calling_conventions.pdf) (pdf) by [Agner Fog](http://www.agner.org/)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [MinGW from Wikipedia](https://en.wikipedia.org/wiki/MinGW)
 
 **[Up one Level](Software "Software")**
 

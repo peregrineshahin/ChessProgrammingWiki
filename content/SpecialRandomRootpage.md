@@ -5,20 +5,20 @@ title: SpecialRandomRootpage
 
 
 
- [](https://en.chessbase.com/author/albert-silver) Albert Silver [[1]](#cite_note-1) 
+ [](https://en.chessbase.com/author/albert-silver) Albert Silver <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Albert Silver**,  
 
-a Brazilian independent information services professional, chess player [[2]](#cite_note-2), 
+a Brazilian independent information services professional, chess player <a id="cite-note-2" href="#cite-ref-2">[2]</a>, 
 chess and computer chess journalist, aficionado, tester and expert, from 1999 - 2002 affiliated with [Convekta](ChessOK "ChessOK") as software designer for [Chess Assistant](Chess_Assistant "Chess Assistant"), 
-and editor and writer at [ChessBase News](ChessBase "ChessBase") [[3]](#cite_note-3) [[4]](#cite_note-4). 
-He is author the *Silver Openings Suite* [[5]](#cite_note-5) and the *Silver Gambit Suite* [[6]](#cite_note-6) [[7]](#cite_note-7) meant to be used in [test matches](Engine_Testing#Matches "Engine Testing") between [engines](Engines "Engines"), and served as moderator in [CCC](CCC "CCC"). 
+and editor and writer at [ChessBase News](ChessBase "ChessBase") <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
+He is author the *Silver Openings Suite* <a id="cite-note-5" href="#cite-ref-5">[5]</a> and the *Silver Gambit Suite* <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> meant to be used in [test matches](Engine_Testing#Matches "Engine Testing") between [engines](Engines "Engines"), and served as moderator in [CCC](CCC "CCC"). 
 
 
 
 ## Fat Fritz 2
 
 
-[Fat Fritz 2](Fat_Fritz#Fat_Fritz_2 "Fat Fritz"), released in February 2021 by [ChessBase](ChessBase "ChessBase") is based on [NNUE](NNUE "NNUE") technology of [Stockfish 12](Stockfish "Stockfish") with a double sized network trained by Albert Silver, and thus, running on a CPU, not requiring expensive [GPU](GPU "GPU") graphic cards for game playing like its predecessor [[10]](#cite_note-10).
+[Fat Fritz 2](Fat_Fritz#Fat_Fritz_2 "Fat Fritz"), released in February 2021 by [ChessBase](ChessBase "ChessBase") is based on [NNUE](NNUE "NNUE") technology of [Stockfish 12](Stockfish "Stockfish") with a double sized network trained by Albert Silver, and thus, running on a CPU, not requiring expensive [GPU](GPU "GPU") graphic cards for game playing like its predecessor <a id="cite-note-10" href="#cite-ref-10">[10]</a>.
 
 
 
@@ -79,7 +79,7 @@ He is author the *Silver Openings Suite* [[5]](#cite_note-5) and the *Silver Gam
 * [Analyzing games with Komodo (Part one)](https://en.chessbase.com/post/analyzing-games-with-komodo-part-one) by Albert Silver, [ChessBase News](ChessBase "ChessBase"), November 12, 2014 » [Komodo](Komodo "Komodo")
 * [Analyzing games with Komodo (Part two)](https://en.chessbase.com/post/analyzing-games-with-komodo-part-two) by Albert Silver, [ChessBase News](ChessBase "ChessBase"), November 13, 2014
 * [ChessBase 13: everything you wanted to know](https://en.chessbase.com/post/chessbase-13-everything-you-wanted-to-know) by Albert Silver, [ChessBase News](ChessBase "ChessBase"), November 22, 2014 » [ChessBase (Database)](ChessBase_(Database) "ChessBase (Database)")
-* [Komodo 8: Deep Blue revisited (part one)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-one) by Albert Silver, [ChessBase News](ChessBase "ChessBase"), December 26, 2014 » [Komodo](Komodo "Komodo"), [Deep Blue](Deep_Blue "Deep Blue"), [Kasparov versus Deep Blue 1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997") [[11]](#cite_note-11)
+* [Komodo 8: Deep Blue revisited (part one)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-one) by Albert Silver, [ChessBase News](ChessBase "ChessBase"), December 26, 2014 » [Komodo](Komodo "Komodo"), [Deep Blue](Deep_Blue "Deep Blue"), [Kasparov versus Deep Blue 1997](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 * [Komodo 8: Deep Blue revisited (part two)](https://en.chessbase.com/post/komodo-8-deep-blue-revisited-part-two) by Albert Silver, [ChessBase News](ChessBase "ChessBase"), December 31, 2014
 
 
@@ -110,7 +110,7 @@ He is author the *Silver Openings Suite* [[5]](#cite_note-5) and the *Silver Gam
 * [Fritz 15 engine - questions and answers](https://en.chessbase.com/post/fritz-15-engine-questions-and-answers) by Albert Silver, [ChessBase News](ChessBase "ChessBase"), January 04, 2016  » [Fritz](Fritz "Fritz"), [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich")
 * [AlphaGo vs Lee Sedol: history in the making](https://en.chessbase.com/post/alphago-vs-lee-sedol-history-in-the-making) by Albert Silver, [ChessBase News](ChessBase "ChessBase"), March 13, 2016 » [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)")
 * [Komodo: Birth of a chess engine](https://en.chessbase.com/post/komodo-birth-of-a-chess-engine) by [Priyadarshan Banjan](https://en.chessbase.com/author/priyadarshan-banjan) and Albert Silver, [ChessBase News](ChessBase "ChessBase"), July 20, 2016 » [Komodo](Komodo "Komodo")
-* [Machine creativity: what it is and what it isn't](https://en.chessbase.com/post/machine-creativity-what-it-is-and-what-it-isn-t) by Albert Silver, [ChessBase News](ChessBase "ChessBase"), August 28, 2016 » [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)"), [Machine Creativity](Artificial_Intelligence#MachineCreativity "Artificial Intelligence") [[12]](#cite_note-12)
+* [Machine creativity: what it is and what it isn't](https://en.chessbase.com/post/machine-creativity-what-it-is-and-what-it-isn-t) by Albert Silver, [ChessBase News](ChessBase "ChessBase"), August 28, 2016 » [AlphaGo](index.php?title=AlphaGo&action=edit&redlink=1 "AlphaGo (page does not exist)"), [Machine Creativity](Artificial_Intelligence#MachineCreativity "Artificial Intelligence") <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 
 **2017**
@@ -202,7 +202,7 @@ He is author the *Silver Openings Suite* [[5]](#cite_note-5) and the *Silver Gam
 * [IPON ratings calculation](http://www.talkchess.com/forum/viewtopic.php?t=41655) by Albert Silver, [CCC](CCC "CCC"), December 29, 2011 » [IPON](IPON "IPON")
 * [Cloud Engine computing](http://www.talkchess.com/forum/viewtopic.php?t=43870) by Albert Silver, [CCC](CCC "CCC"), May 28, 2012
 * [Free Playchess accounts for original engine authors](http://www.talkchess.com/forum/viewtopic.php?t=47282) by Albert Silver, [CCC](CCC "CCC"), February 20, 2013 » [Playchess](index.php?title=Playchess&action=edit&redlink=1 "Playchess (page does not exist)")
-* [Hybrid Memory Cube effect on computer chess](http://www.talkchess.com/forum/viewtopic.php?t=47706) by Albert Silver, [CCC](CCC "CCC"), April 05, 2013 » [Memory](Memory "Memory") [[13]](#cite_note-13)
+* [Hybrid Memory Cube effect on computer chess](http://www.talkchess.com/forum/viewtopic.php?t=47706) by Albert Silver, [CCC](CCC "CCC"), April 05, 2013 » [Memory](Memory "Memory") <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 * [Complete 7-piece tablebases are out!](http://www.talkchess.com/forum/viewtopic.php?t=47768) by Albert Silver, [CCC](CCC "CCC"), April 12, 2013 » [Lomonosov Tablebases](Lomonosov_Tablebases "Lomonosov Tablebases")
 * [Publish your engine for ChessBase on Android](http://www.talkchess.com/forum/viewtopic.php?t=48574) by Albert Silver, [CCC](CCC "CCC"), July 06, 2013 » [ChessBase](ChessBase "ChessBase"), [Android](Android "Android")
 * [Stockfish 4 - Win x64 and Linux binaries (official)](http://www.talkchess.com/forum/viewtopic.php?t=49040) by Albert Silver, [CCC](CCC "CCC"), August 21, 2013 » [Stockfish](Stockfish "Stockfish")
@@ -299,19 +299,19 @@ He is author the *Silver Openings Suite* [[5]](#cite_note-5) and the *Silver Gam
 ## References
 
 
-1. [↑](#cite_ref-1) [Albert Silver](https://en.chessbase.com/author/albert-silver) from [ChessBase News](ChessBase "ChessBase")
-2. [↑](#cite_ref-2) [Re: Question to Albert Silver](https://www.stmintz.com/ccc/index.php?id=394356) by Albert Silver, [CCC](CCC "CCC"), November 03, 2004
-3. [↑](#cite_ref-3) [Albert Silver](https://en.chessbase.com/author/albert-silver) from [ChessBase News](ChessBase "ChessBase")
-4. [↑](#cite_ref-4) [Re: Rybka disqualified and banned from World Computer Chess](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=411947&t=39520) by Albert Silver, [CCC](CCC "CCC"), June 29, 2011
-5. [↑](#cite_ref-5) [Silver Suite - Full (PGN)](https://www.stmintz.com/ccc/index.php?id=480385) by Albert Silver, [CCC](CCC "CCC"), January 17, 2006
-6. [↑](#cite_ref-6) [NEW Silver Gambit Suite](http://www.talkchess.com/forum/viewtopic.php?t=32652) by Albert Silver, [CCC](CCC "CCC"), February 16, 2010
-7. [↑](#cite_ref-7) [Test your engines – the Silver Openings Suite](https://en.chessbase.com/post/test-your-engines-the-silver-openings-suite) from [ChessBase.news](ChessBase "ChessBase"), February 23, 2010
-8. [↑](#cite_ref-8) [TCEC season 13, 2 NN engines will be participating, Leela and Deus X](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68094) by Nay Lin Tun, [CCC](CCC "CCC"), July 28, 2018
-9. [↑](#cite_ref-9) ['Deus X' Unveiled as FAT FRITZ PROJECT...](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71540) by supersharp77, [CCC](CCC "CCC"), August 13, 2019
-10. [↑](#cite_ref-10) [Fat Fritz 2.0 - The new number 1](https://en.chessbase.com/post/fat-fritz-2-0-the-new-number-1), [ChessBase News](ChessBase "ChessBase"), February 09, 2021
-11. [↑](#cite_ref-11) [Komodo 8: Deep Blue revisited (1/2)](http://www.talkchess.com/forum/viewtopic.php?t=54759) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 27, 2014
-12. [↑](#cite_ref-12) [Shay Bushinsky](Shay_Bushinsky "Shay Bushinsky") (**2009**). *[Deus Ex Machina— A Higher Creative Species in the Game of Chess](http://www.aaai.org/ojs/index.php/aimagazine/article/view/2255)*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 30, No. 3
-13. [↑](#cite_ref-13) [Hybrid Memory Cube from Wikipedia](https://en.wikipedia.org/wiki/Hybrid_Memory_Cube)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Albert Silver](https://en.chessbase.com/author/albert-silver) from [ChessBase News](ChessBase "ChessBase")
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Question to Albert Silver](https://www.stmintz.com/ccc/index.php?id=394356) by Albert Silver, [CCC](CCC "CCC"), November 03, 2004
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Albert Silver](https://en.chessbase.com/author/albert-silver) from [ChessBase News](ChessBase "ChessBase")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Rybka disqualified and banned from World Computer Chess](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=411947&t=39520) by Albert Silver, [CCC](CCC "CCC"), June 29, 2011
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Silver Suite - Full (PGN)](https://www.stmintz.com/ccc/index.php?id=480385) by Albert Silver, [CCC](CCC "CCC"), January 17, 2006
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [NEW Silver Gambit Suite](http://www.talkchess.com/forum/viewtopic.php?t=32652) by Albert Silver, [CCC](CCC "CCC"), February 16, 2010
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Test your engines – the Silver Openings Suite](https://en.chessbase.com/post/test-your-engines-the-silver-openings-suite) from [ChessBase.news](ChessBase "ChessBase"), February 23, 2010
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [TCEC season 13, 2 NN engines will be participating, Leela and Deus X](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68094) by Nay Lin Tun, [CCC](CCC "CCC"), July 28, 2018
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> ['Deus X' Unveiled as FAT FRITZ PROJECT...](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71540) by supersharp77, [CCC](CCC "CCC"), August 13, 2019
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Fat Fritz 2.0 - The new number 1](https://en.chessbase.com/post/fat-fritz-2-0-the-new-number-1), [ChessBase News](ChessBase "ChessBase"), February 09, 2021
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Komodo 8: Deep Blue revisited (1/2)](http://www.talkchess.com/forum/viewtopic.php?t=54759) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 27, 2014
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Shay Bushinsky](Shay_Bushinsky "Shay Bushinsky") (**2009**). *[Deus Ex Machina— A Higher Creative Species in the Game of Chess](http://www.aaai.org/ojs/index.php/aimagazine/article/view/2255)*. [AI Magazine](AAAI#AIMAG "AAAI"), Vol. 30, No. 3
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Hybrid Memory Cube from Wikipedia](https://en.wikipedia.org/wiki/Hybrid_Memory_Cube)
 
 **[Up one level](People "People")**
 

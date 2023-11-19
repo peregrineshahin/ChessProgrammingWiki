@@ -5,7 +5,7 @@ title: Oracle
 
 
 
-[ [John William Waterhouse](Category:John_William_Waterhouse "Category:John William Waterhouse") - *Consulting the Oracle* [[1]](#cite_note-1)
+[ [John William Waterhouse](Category:John_William_Waterhouse "Category:John William Waterhouse") - *Consulting the Oracle* <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Oracle**,  
 
 an instance with the fame of perfect knowledge, that is [evaluation](Evaluation "Evaluation") without [noise](https://en.wikipedia.org/wiki/Statistical_noise) or errors, a form of [divination](https://en.wikipedia.org/wiki/Divination), and a perfect supervisor in [learning](Learning "Learning"). For instance [endgame tablebases](Endgame_Tablebases "Endgame Tablebases") act like an oracle, providing the optimal moves. 
@@ -18,7 +18,7 @@ an instance with the fame of perfect knowledge, that is [evaluation](Evaluation 
 ### Bruce Wright
 
 
-[Bruce Wright](Bruce_Wright "Bruce Wright") on [pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables") in [Duchess](Duchess "Duchess") [[5]](#cite_note-5)
+[Bruce Wright](Bruce_Wright "Bruce Wright") on [pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables") in [Duchess](Duchess "Duchess") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 
 
@@ -37,7 +37,7 @@ This seemed most useful in the [endgame](Endgame "Endgame") when actually reachi
 ### David Kittinger
 
 
-[David Kittinger](David_Kittinger "David Kittinger") and [Scott McDonald](Scott_McDonald "Scott McDonald") in 1984 on [Pre Scan Heuristics](Piece-Square_Tables#Preprocessing "Piece-Square Tables") of the [Super Constellation](Super_Constellation "Super Constellation") [[6]](#cite_note-6)
+[David Kittinger](David_Kittinger "David Kittinger") and [Scott McDonald](Scott_McDonald "Scott McDonald") in 1984 on [Pre Scan Heuristics](Piece-Square_Tables#Preprocessing "Piece-Square Tables") of the [Super Constellation](Super_Constellation "Super Constellation") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 
 
@@ -50,7 +50,7 @@ A second departure from other commercial programs has been the simplification of
 ### Peter Gillgasch
 
 
-[Peter Gillgasch](Peter_Gillgasch "Peter Gillgasch") on [DarkThought's](DarkThought "DarkThought") Oracle, February 1996 [[7]](#cite_note-7)
+[Peter Gillgasch](Peter_Gillgasch "Peter Gillgasch") on [DarkThought's](DarkThought "DarkThought") Oracle, February 1996 <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 
 
@@ -79,20 +79,20 @@ Later the three of us modified the oracle code (to use Berliner's term) and we w
 ### Chrilly Donninger
 
 
-Quote by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") from *CHE: A Graphical Language for Expressing Chess Knowledge*, 1996 [[8]](#cite_note-8)
+Quote by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") from *CHE: A Graphical Language for Expressing Chess Knowledge*, 1996 <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 
 
 
 ```C++
-The main design criterion for successor [Nimzo-3](Nimzo "Nimzo") was combining the positional play of Nimzo-2 with the [tactical](Tactics "Tactics") strength of a program like [Fritz](Fritz "Fritz"). Nimzo-2 was developed on an [486/50 MHz](X86 "X86") [PC](IBM_PC "IBM PC"), which calculated about 3,000 [nodes per second](Nodes_per_Second "Nodes per Second"). Thereof 60 to 70 percent was spent/wasted in the [leaf evaluation](Evaluation "Evaluation") routines. Hence, a major improvement in speed and thus in tactical strength could only be obtained by performing most of the evaluation either in the root or the interior of the [search tree](Search_Tree "Search Tree"). So, Nimzo-3 became a [Genius](Chess_Genius "Chess Genius")/[Fritz](Fritz "Fritz")-like program with a complex root evaluation, called Oracle, similar to [Berliner's](Hans_Berliner "Hans Berliner") Oracle, and with a very simple, mainly first order evaluation at the [leaves](Leaf_Node "Leaf Node") [[9]](#cite_note-9). Nimzo-3 spends about 10 to 20% on leaf evaluation, its node rate has increased by 400% up to 12,000 nodes/second on the same hardware. 
+The main design criterion for successor [Nimzo-3](Nimzo "Nimzo") was combining the positional play of Nimzo-2 with the [tactical](Tactics "Tactics") strength of a program like [Fritz](Fritz "Fritz"). Nimzo-2 was developed on an [486/50 MHz](X86 "X86") [PC](IBM_PC "IBM PC"), which calculated about 3,000 [nodes per second](Nodes_per_Second "Nodes per Second"). Thereof 60 to 70 percent was spent/wasted in the [leaf evaluation](Evaluation "Evaluation") routines. Hence, a major improvement in speed and thus in tactical strength could only be obtained by performing most of the evaluation either in the root or the interior of the [search tree](Search_Tree "Search Tree"). So, Nimzo-3 became a [Genius](Chess_Genius "Chess Genius")/[Fritz](Fritz "Fritz")-like program with a complex root evaluation, called Oracle, similar to [Berliner's](Hans_Berliner "Hans Berliner") Oracle, and with a very simple, mainly first order evaluation at the [leaves](Leaf_Node "Leaf Node") <a id="cite-note-9" href="#cite-ref-9">[9]</a>. Nimzo-3 spends about 10 to 20% on leaf evaluation, its node rate has increased by 400% up to 12,000 nodes/second on the same hardware. 
 
 ```
 
 ### Don Dailey
 
 
-[Don Dailey](Don_Dailey "Don Dailey") on [Pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables"), May 1998 [[10]](#cite_note-10) :
+[Don Dailey](Don_Dailey "Don Dailey") on [Pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables"), May 1998 <a id="cite-note-10" href="#cite-ref-10">[10]</a> :
 
 
 
@@ -122,7 +122,7 @@ But I believe you can still write very strong programs that do a substantial amo
 ### Ulrich Türke
 
 
-Reply by [Ulrich Türke](Ulrich_T%C3%BCrke "Ulrich Türke") [[11]](#cite_note-11) :
+Reply by [Ulrich Türke](Ulrich_T%C3%BCrke "Ulrich Türke") <a id="cite-note-11" href="#cite-ref-11">[11]</a> :
 
 
 
@@ -135,7 +135,7 @@ I too think that pre-processing is still done in most of the current chess progr
 ### Amir Ban
 
 
-Note by [Amir Ban](Amir_Ban "Amir Ban") [[12]](#cite_note-12) :
+Note by [Amir Ban](Amir_Ban "Amir Ban") <a id="cite-note-12" href="#cite-ref-12">[12]</a> :
 
 
 
@@ -148,7 +148,7 @@ It's a fair but simplistic description of [Junior](Junior "Junior").
 ### Don Dailey
 
 
-[Don Dailey](Don_Dailey "Don Dailey") again [[13]](#cite_note-13) :
+[Don Dailey](Don_Dailey "Don Dailey") again <a id="cite-note-13" href="#cite-ref-13">[13]</a> :
 
 
 
@@ -203,7 +203,7 @@ I think an old program called [Tech](Tech "Tech") used the method of "ply 1 move
 ### Vincent Diepeveen
 
 
-[Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") on [Pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables"), October 2000 [[14]](#cite_note-14)
+[Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") on [Pre-processing](Piece-Square_Tables#Preprocessing "Piece-Square Tables"), October 2000 <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 
 
@@ -283,20 +283,20 @@ Now where is the big advantage of pre-processors apart that you can do it faster
 ## References
 
 
-1. [↑](#cite_ref-1) Consulting the Oracle by [John William Waterhouse](Category:John_William_Waterhouse "Category:John William Waterhouse"), 1884, showing eight priestesses in a temple of prophecy, [Oracle from Wikipedia](https://en.wikipedia.org/wiki/Oracle)
-2. [↑](#cite_ref-2) [PSH](http://www.schach-computer.info/wiki/index.php/PSH) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
-3. [↑](#cite_ref-3) [Hans Berliner](Hans_Berliner "Hans Berliner") (**1987**). *Some Innovations Introduced by Hitech*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
-4. [↑](#cite_ref-4) [Re: computer chess "oracle" ideas...](http://groups.google.com/group/rec.games.chess.computer/msg/ccc2546e26d92f88) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 7, 1997
-5. [↑](#cite_ref-5) [Bruce C. Wright](Bruce_Wright "Bruce Wright") (**1996**). *Routines prior to Main Search*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4, p. 102
-6. [↑](#cite_ref-6) [David Kittinger](David_Kittinger "David Kittinger") and [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 15-33
-7. [↑](#cite_ref-7) [Drawn games (Was Re: Transposition table)](http://groups.google.com/group/rec.games.chess.computer/msg/b8bdef757df5d5c9) by [Peter Gillgasch](Peter_Gillgasch "Peter Gillgasch"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 06, 1996
-8. [↑](#cite_ref-8) [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1996**). *CHE: A Graphical Language for Expressing Chess Knowledge*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
-9. [↑](#cite_ref-9) This approach seems to have been invented by [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") for his program [CXG Advanced Star Chess](CXG_Star_Chess#Advanced "CXG Star Chess"), Quote from [Donninger's](Chrilly_Donninger "Chrilly Donninger") CHE paper
-10. [↑](#cite_ref-10) [Re: What is "pre-processing"](https://www.stmintz.com/ccc/index.php?id=18181) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), May 07, 1998
-11. [↑](#cite_ref-11) [Re: What is "pre-processing"](https://www.stmintz.com/ccc/index.php?id=18203) by [Ulrich Türke](Ulrich_T%C3%BCrke "Ulrich Türke"), [CCC](CCC "CCC"), May 08, 1998
-12. [↑](#cite_ref-12) [Re: What is "pre-processing"](https://www.stmintz.com/ccc/index.php?id=18213) by [Amir Ban](Amir_Ban "Amir Ban"), [CCC](CCC "CCC"), May 08, 1998
-13. [↑](#cite_ref-13) [Re: What is "pre-processing"](https://www.stmintz.com/ccc/index.php?id=18209) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), May 08, 1998
-14. [↑](#cite_ref-14) [Re: What is Prescan Heuristics ??](https://www.stmintz.com/ccc/index.php?id=132894) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), October 13, 2000
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Consulting the Oracle by [John William Waterhouse](Category:John_William_Waterhouse "Category:John William Waterhouse"), 1884, showing eight priestesses in a temple of prophecy, [Oracle from Wikipedia](https://en.wikipedia.org/wiki/Oracle)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [PSH](http://www.schach-computer.info/wiki/index.php/PSH) from [Schachcomputer.info Wiki](http://www.schach-computer.info/wiki/index.php/Hauptseite_En) (German)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**1987**). *Some Innovations Introduced by Hitech*. [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: computer chess "oracle" ideas...](http://groups.google.com/group/rec.games.chess.computer/msg/ccc2546e26d92f88) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), April 7, 1997
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Bruce C. Wright](Bruce_Wright "Bruce Wright") (**1996**). *Routines prior to Main Search*. [Computer Chess Reports](Computer_Chess_Reports "Computer Chess Reports"), Vol. 5, Nos. 3+4, p. 102
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [David Kittinger](David_Kittinger "David Kittinger") and [Scott McDonald](Scott_McDonald "Scott McDonald") (**1984**). *Report from the U.S. Open*. [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports") pp. 15-33
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Drawn games (Was Re: Transposition table)](http://groups.google.com/group/rec.games.chess.computer/msg/b8bdef757df5d5c9) by [Peter Gillgasch](Peter_Gillgasch "Peter Gillgasch"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 06, 1996
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") (**1996**). *CHE: A Graphical Language for Expressing Chess Knowledge*. [ICCA Journal, Vol. 19, No. 4](ICGA_Journal#19_4 "ICGA Journal")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> This approach seems to have been invented by [Kaare Danielsen](Kaare_Danielsen "Kaare Danielsen") for his program [CXG Advanced Star Chess](CXG_Star_Chess#Advanced "CXG Star Chess"), Quote from [Donninger's](Chrilly_Donninger "Chrilly Donninger") CHE paper
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: What is "pre-processing"](https://www.stmintz.com/ccc/index.php?id=18181) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), May 07, 1998
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: What is "pre-processing"](https://www.stmintz.com/ccc/index.php?id=18203) by [Ulrich Türke](Ulrich_T%C3%BCrke "Ulrich Türke"), [CCC](CCC "CCC"), May 08, 1998
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Re: What is "pre-processing"](https://www.stmintz.com/ccc/index.php?id=18213) by [Amir Ban](Amir_Ban "Amir Ban"), [CCC](CCC "CCC"), May 08, 1998
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Re: What is "pre-processing"](https://www.stmintz.com/ccc/index.php?id=18209) by [Don Dailey](Don_Dailey "Don Dailey"), [CCC](CCC "CCC"), May 08, 1998
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Re: What is Prescan Heuristics ??](https://www.stmintz.com/ccc/index.php?id=132894) by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen"), [CCC](CCC "CCC"), October 13, 2000
 
 **[Up one Level](Knowledge "Knowledge")**
 

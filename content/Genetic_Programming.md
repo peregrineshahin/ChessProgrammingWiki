@@ -3,7 +3,7 @@ title: Genetic Programming
 ---
 **[Home](Home "Home") * [Learning](Learning "Learning") * Genetic Programming**
 
-[](http://www.genetic-programming.org/) Genetic Programming [[1]](#cite_note-1)
+[](http://www.genetic-programming.org/) Genetic Programming <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Genetic Programming** (GP),
 
 an [evolutionary](https://en.wikipedia.org/wiki/Evolution) based methodology inspired by [biological evolution](https://en.wikipedia.org/wiki/Biological_evolution) to [optimize](https://en.wikipedia.org/wiki/Optimization_%28mathematics%29) computer programs, in particular game playing programs. It is a [machine learning](Learning "Learning") technique used to optimize a population of programs, for instance to maximize the winning rate versus a set of opponents, after modifying [evaluation](Evaluation "Evaluation") weights or [search](Search "Search") parameter.
@@ -35,7 +35,7 @@ performing the [Genetic operations](https://en.wikipedia.org/wiki/Genetic_operat
 
 ## PBIL
 
-[Population-based incremental learning](https://en.wikipedia.org/wiki/Population-based_incremental_learning) (PBIL) is a type of of genetic algorithm where the [genotype](https://en.wikipedia.org/wiki/Genotype) of an entire population (probability vector) is evolved rather than individual members. The algorithm was proposed by [Shumeet Baluja](Mathematician#ShumeetBaluja "Mathematician") in 1994 [[2]](#cite_note-2). The algorithm is simpler than a standard genetic algorithm, and in many cases leads to better results than a standard genetic algorithm [[3]](#cite_note-3).
+[Population-based incremental learning](https://en.wikipedia.org/wiki/Population-based_incremental_learning) (PBIL) is a type of of genetic algorithm where the [genotype](https://en.wikipedia.org/wiki/Genotype) of an entire population (probability vector) is evolved rather than individual members. The algorithm was proposed by [Shumeet Baluja](Mathematician#ShumeetBaluja "Mathematician") in 1994 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The algorithm is simpler than a standard genetic algorithm, and in many cases leads to better results than a standard genetic algorithm <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 ## Evolutionary Algorithms
 
@@ -82,7 +82,7 @@ An evolutionary algorithm (EA) is subset of [evolutionary computation](https://e
 ## 1980 ...
 
 - [John Maynard Smith](John_Maynard_Smith "John Maynard Smith") (**1982**). *[Evolution and the Theory of Games](https://en.wikipedia.org/wiki/Evolution_and_the_Theory_of_Games)*. Cambridge; New York, Cambridge University Press.
-- [Robert Axelrod](Mathematician#RAxelrod "Mathematician") (**1987**). *The Evolution of Strategies in the Iterated Prisoner’s Dilemma*. in [Lawrence D. Davis](http://www.cs.bham.ac.uk/~wbl/biblio/gp-html/LawrenceDavidDavis.html) (ed.) *[Genetic Algorithms and Simulated Annealing](http://dl.acm.org/citation.cfm?id=535531)*. [2001 reprint as pdf](http://www-personal.umich.edu/~axe/research/Evolving.pdf) [[4]](#cite_note-4)
+- [Robert Axelrod](Mathematician#RAxelrod "Mathematician") (**1987**). *The Evolution of Strategies in the Iterated Prisoner’s Dilemma*. in [Lawrence D. Davis](http://www.cs.bham.ac.uk/~wbl/biblio/gp-html/LawrenceDavidDavis.html) (ed.) *[Genetic Algorithms and Simulated Annealing](http://dl.acm.org/citation.cfm?id=535531)*. [2001 reprint as pdf](http://www-personal.umich.edu/~axe/research/Evolving.pdf) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 - [David E. Goldberg](David_E._Goldberg "David E. Goldberg"), [John H. Holland](Mathematician#Holland "Mathematician") (**1988**). *[Genetic Algorithms and Machine Learning](https://link.springer.com/article/10.1023/A:1022602019183)*. [Machine Learning](https://www.springer.com/journal/10994), Vol. 3
 - [David E. Goldberg](David_E._Goldberg "David E. Goldberg") (**1989**). *Genetic Algorithms in Search, Optimization and Machine Learning*. [Addison-Wesley](https://en.wikipedia.org/wiki/Addison-Wesley)
 - [John Maynard Smith](John_Maynard_Smith "John Maynard Smith") (**1989**). *Evolutionary Genetics*. Oxford; New York, Oxford University Press.
@@ -123,7 +123,7 @@ An evolutionary algorithm (EA) is subset of [evolutionary computation](https://e
 
 ## 2000 ....
 
-- [Ryszard Michalski](Ryszard_Michalski "Ryszard Michalski") (**2000**). *LEARNABLE EVOLUTION MODEL: Evolutionary Processes Guided by Machine Learning*. Machine Learning 38 [[5]](#cite_note-5)
+- [Ryszard Michalski](Ryszard_Michalski "Ryszard Michalski") (**2000**). *LEARNABLE EVOLUTION MODEL: Evolutionary Processes Guided by Machine Learning*. Machine Learning 38 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 - [Thomas Philip Runarsson](Thomas_Philip_Runarsson "Thomas Philip Runarsson"), [Xin Yao](Mathematician#XYao "Mathematician") (**2000**). *Stochastic ranking for constrained evolutionary optimization*. [IEEE Transactions on Evolutionary Computation](IEEE#EC "IEEE"), Vol. 4, No. 3
 
 **2001**
@@ -156,7 +156,7 @@ An evolutionary algorithm (EA) is subset of [evolutionary computation](https://e
 - [Petr Aksenov](index.php?title=Petr_Aksenov&action=edit&redlink=1 "Petr Aksenov (page does not exist)") (**2004**). *[Genetic algorithms for optimising chess position scoring](http://joypub.joensuu.fi/publications/masters_thesis/aksenov_genetic/index_en.html)*. Masters thesis, [pdf](ftp://cs.joensuu.fi/pub/Theses/2004_MSc_Aksenov_Petr.pdf)
 - [David B. Fogel](David_B._Fogel "David B. Fogel"), [Timothy J. Hays](Timothy_J._Hays "Timothy J. Hays"), [Sarah L. Hahn](Sarah_L._Hahn "Sarah L. Hahn"), [James Quon](James_Quon "James Quon") (**2004**). *[A Self-Learning Evolutionary Chess Program](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1360168)*. [Proceedings of the IEEE](IEEE#Proceedings "IEEE"), Vol. 92 No. 12, pp. 1947-1954, [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.72.4267)
 - [Mathieu Autonès](index.php?title=Mathieu_Auton%C3%A8s&action=edit&redlink=1 "Mathieu Autonès (page does not exist)"), [Aryel Beck](index.php?title=Aryel_Beck&action=edit&redlink=1 "Aryel Beck (page does not exist)"), [Phillippe Camacho](index.php?title=Phillippe_Camacho&action=edit&redlink=1 "Phillippe Camacho (page does not exist)"), [Nicolas Lassabe](index.php?title=Nicolas_Lassabe&action=edit&redlink=1 "Nicolas Lassabe (page does not exist)"), [Hervé Luga](index.php?title=Herv%C3%A9_Luga&action=edit&redlink=1 "Hervé Luga (page does not exist)"), [François Scharffe](index.php?title=Fran%C3%A7ois_Scharffe&action=edit&redlink=1 "François Scharffe (page does not exist)") (**2004**). *[Evaluation of Chess Position by Modular Neural network Generated by Genetic Algorithm](http://link.springer.com/chapter/10.1007/978-3-540-24650-3_1)*. [EuroGP 2004](http://www.informatik.uni-trier.de/~ley/db/conf/eurogp/eurogp2004.html#AutonesBCLLS04)
-- [Shan-Tai Chen](Shan-Tai_Chen "Shan-Tai Chen"), [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Li-Te Huang](Li-Te_Huang "Li-Te Huang"), [Chun-Jen Wei](https://dblp.uni-trier.de/pers/hd/w/Wei:Chun=Jen) (**2004**) *[Towards the Exact Minimization of BDDs-An Elitism-Based Distributed Evolutionary Algorithm](https://link.springer.com/article/10.1023/B:HEUR.0000026899.63797.f9)*. [Journal of Heuristics, Vol. 10](https://dblp.uni-trier.de/db/journals/heuristics/heuristics10.html), No. 3 [[6]](#cite_note-6)
+- [Shan-Tai Chen](Shan-Tai_Chen "Shan-Tai Chen"), [Shun-Shii Lin](Shun-Shii_Lin "Shun-Shii Lin"), [Li-Te Huang](Li-Te_Huang "Li-Te Huang"), [Chun-Jen Wei](https://dblp.uni-trier.de/pers/hd/w/Wei:Chun=Jen) (**2004**) *[Towards the Exact Minimization of BDDs-An Elitism-Based Distributed Evolutionary Algorithm](https://link.springer.com/article/10.1023/B:HEUR.0000026899.63797.f9)*. [Journal of Heuristics, Vol. 10](https://dblp.uni-trier.de/db/journals/heuristics/heuristics10.html), No. 3 <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 - [Kenneth O. Stanley](index.php?title=Kenneth_O._Stanley&action=edit&redlink=1 "Kenneth O. Stanley (page does not exist)"), [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen") (**2004**). *[Evolving a Roving Eye for Go](http://nn.cs.utexas.edu/?stanley:gecco04)*. [GECCO 2004](https://dblp.uni-trier.de/db/conf/gecco/gecco2004-2.html)
 
 ## 2005 ...
@@ -196,7 +196,7 @@ An evolutionary algorithm (EA) is subset of [evolutionary computation](https://e
 **2009**
 
 - [Omid David](Eli_David "Eli David"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Moshe Koppel](Moshe_Koppel "Moshe Koppel"), [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2009**). *Simulating Human Grandmasters: Evolution and Coevolution of Evaluation Functions*. [GECCO '09](http://www.sigevo.org/gecco-2009/), [arXiv:1711.06840](https://arxiv.org/abs/1711.06840)
-- [Omid David](Eli_David "Eli David") (**2009**). *Genetic Algorithms Based Learning for Evolving Intelligent Organisms*. Ph.D. Thesis [[7]](#cite_note-7)
+- [Omid David](Eli_David "Eli David") (**2009**). *Genetic Algorithms Based Learning for Evolving Intelligent Organisms*. Ph.D. Thesis <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 - [Ami Hauptman](index.php?title=Ami_Hauptman&action=edit&redlink=1 "Ami Hauptman (page does not exist)") (**2009**). *Evolving Search Heuristics for Combinatorial Games with Genetic Programming*. [Ben-Gurion University of the Negev](https://en.wikipedia.org/wiki/Ben-Gurion_University_of_the_Negev)
 - [Nur Merve Amil](index.php?title=Nur_Merve_Amil&action=edit&redlink=1 "Nur Merve Amil (page does not exist)"), [Nicolas Bredèche](index.php?title=Nicolas_Bred%C3%A8che&action=edit&redlink=1 "Nicolas Bredèche (page does not exist)"), [Christian Gagné](index.php?title=Christian_Gagn%C3%A9&action=edit&redlink=1 "Christian Gagné (page does not exist)"), [Sylvain Gelly](Sylvain_Gelly "Sylvain Gelly"), [Marc Schoenauer](Marc_Schoenauer "Marc Schoenauer"), [Olivier Teytaud](Olivier_Teytaud "Olivier Teytaud") (**2009**). *A Statistical Learning Perspective of Genetic Programming*. EuroGP 2009, [pdf](http://hal.inria.fr/docs/00/36/97/82/PDF/eurogp.pdf)
 - [Ian Stewart](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/s/Stewart:Ian.html), [Wenying Feng](http://people.trentu.ca/wfeng/), [Selim Akl](Selim_Akl "Selim Akl") (**2009**). *[A Further Improvement on a Genetic Algorithm](http://www.computer.org/portal/web/csdl/doi/10.1109/ITNG.2009.240)*. [ITNG 2009](http://www.informatik.uni-trier.de/~ley/db/conf/itng/itng2009.html#StewartFA09)
@@ -259,14 +259,14 @@ An evolutionary algorithm (EA) is subset of [evolutionary computation](https://e
 - [Omid David](Eli_David "Eli David"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Moshe Koppel](Moshe_Koppel "Moshe Koppel"), [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2014**). *Genetic Algorithms for Evolving Computer Chess Programs*. [IEEE Transactions on Evolutionary Computation](IEEE#EC "IEEE"), [arXiv:1711.08337](https://arxiv.org/abs/1711.08337)
 - [Wojciech Jaśkowski](Wojciech_Ja%C5%9Bkowski "Wojciech Jaśkowski"), [Marcin Szubert](Marcin_Szubert "Marcin Szubert"), [Paweł Liskowski](Pawe%C5%82_Liskowski "Paweł Liskowski") (**2014**). *Multi-Criteria Comparison of Coevolution and Temporal Difference Learning on Othello*. [EvoApplications 2014](http://www.evostar.org/2014/), [Springer, volume 8602](http://www.springer.com/computer/theoretical+computer+science/book/978-3-662-45522-7) » [Othello](Othello "Othello")
 - [Ignacio Arnaldo](http://people.csail.mit.edu/ignacioarnaldo/), [Krzysztof Krawiec](Krzysztof_Krawiec "Krzysztof Krawiec"), [Una-May O'Reilly](http://people.csail.mit.edu/unamay/) (**2014**). *Multiple Regression Genetic Programming*. [GECCO 2014](http://www.informatik.uni-trier.de/~ley/db/conf/gecco/gecco2014.html#ArnaldoKO14), [pdf](http://www.cs.put.poznan.pl/kkrawiec/wiki/uploads/Site/2015GeccoMRGP.pdf)
-- [Rahul Aralikatte](Rahul_Aralikatte "Rahul Aralikatte") (**2014**). *Phoenix : A Self Learning Chess Engine*. for the Award of M. Tech in Information Technology, [International Institute of Information Technology, Bangalore](https://en.wikipedia.org/wiki/International_Institute_of_Information_Technology,_Bangalore), [Bangalore](https://en.wikipedia.org/wiki/Bangalore), advisor [G. Srinivasaraghavan](Gopalakrishnan_Srinivasaraghavan "Gopalakrishnan Srinivasaraghavan"), [pdf](https://github.com/rahular/phoenix/blob/master/docs/ThesisReport.pdf) [[8]](#cite_note-8)
+- [Rahul Aralikatte](Rahul_Aralikatte "Rahul Aralikatte") (**2014**). *Phoenix : A Self Learning Chess Engine*. for the Award of M. Tech in Information Technology, [International Institute of Information Technology, Bangalore](https://en.wikipedia.org/wiki/International_Institute_of_Information_Technology,_Bangalore), [Bangalore](https://en.wikipedia.org/wiki/Bangalore), advisor [G. Srinivasaraghavan](Gopalakrishnan_Srinivasaraghavan "Gopalakrishnan Srinivasaraghavan"), [pdf](https://github.com/rahular/phoenix/blob/master/docs/ThesisReport.pdf) <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 - [Alan J. Lockett](Alan_J._Lockett "Alan J. Lockett"), [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen") (**2014**). *[Evolutionary Annealing: Global Optimization in Arbitrary Measure Spaces](http://nn.cs.utexas.edu/?lockett:jogo13)*. [Journal of Global Optimization](https://www.springer.com/journal/10898), Vol. 58
 - [Simon Lucas](Simon_Lucas "Simon Lucas"), [Spyridon Samothrakis](index.php?title=Spyridon_Samothrakis&action=edit&redlink=1 "Spyridon Samothrakis (page does not exist)"), [Diego Perez](index.php?title=Diego_Perez&action=edit&redlink=1 "Diego Perez (page does not exist)") (**2014**). *[Fast Evolutionary Adaptation for Monte Carlo Tree Search](https://link.springer.com/chapter/10.1007/978-3-662-45523-4_29)*. [EvoApplications 2014](https://dblp.uni-trier.de/db/conf/evoW/evoappl2014.html), [pdf](http://www.diego-perez.net/papers/FastEvoMCTS.pdf)
 
 ## 2015 ...
 
 - [Rahul Aralikatte](Rahul_Aralikatte "Rahul Aralikatte"), [G. Srinivasaraghavan](Gopalakrishnan_Srinivasaraghavan "Gopalakrishnan Srinivasaraghavan") (**2016**). *Phoenix: A Self-Optimizing Chess Engine*. [arXiv:1603.09051](http://arxiv.org/abs/1603.09051)
-- [Ilya Loshchilov](Ilya_Loshchilov "Ilya Loshchilov"), [Frank Hutter](Frank_Hutter "Frank Hutter") (**2016**). *CMA-ES for Hyperparameter Optimization of Deep Neural Networks*. [arXiv:1604.07269](https://arxiv.org/abs/1604.07269) [[9]](#cite_note-9)
+- [Ilya Loshchilov](Ilya_Loshchilov "Ilya Loshchilov"), [Frank Hutter](Frank_Hutter "Frank Hutter") (**2016**). *CMA-ES for Hyperparameter Optimization of Deep Neural Networks*. [arXiv:1604.07269](https://arxiv.org/abs/1604.07269) <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 - [Wojciech Jaśkowski](Wojciech_Ja%C5%9Bkowski "Wojciech Jaśkowski"), [Marcin Szubert](Marcin_Szubert "Marcin Szubert") (**2016**). *[Coevolutionary CMA-ES for Knowledge-Free Learning of Game Position Evaluation](https://ieeexplore.ieee.org/document/7180338)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 8, No. 4
 - [Wojciech Jaśkowski](Wojciech_Ja%C5%9Bkowski "Wojciech Jaśkowski"), [Paweł Liskowski](Pawe%C5%82_Liskowski "Paweł Liskowski"), [Marcin Szubert](Marcin_Szubert "Marcin Szubert"), [Krzysztof Krawiec](Krzysztof_Krawiec "Krzysztof Krawiec") (**2016**). *[The performance profile: A multi–criteria performance evaluation method for test–based problems](https://content.sciendo.com/view/journals/amcs/26/1/article-p215.xml)*. [International Journal of Applied Mathematics and Computer Science](https://en.wikipedia.org/wiki/International_Journal_of_Applied_Mathematics_and_Computer_Science), Vol. 26, No. 1
 - [Risto Miikkulainen](Risto_Miikkulainen "Risto Miikkulainen"), et al. (**2017**). *Evolving Deep Neural Networks*. [arXiv:1703.00548](https://arxiv.org/abs/1703.00548)
@@ -287,7 +287,7 @@ An evolutionary algorithm (EA) is subset of [evolutionary computation](https://e
 
 - [Revisiting GA's for tuning evaluation weights](http://www.talkchess.com/forum/viewtopic.php?t=31445) by [Ilari Pihlajisto](Ilari_Pihlajisto "Ilari Pihlajisto"), [CCC](CCC "CCC"), January 03, 2010 » [Automated Tuning](Automated_Tuning "Automated Tuning")
 - [Training a Genetic algorithm?](http://www.open-chess.org/viewtopic.php?f=5&t=2191) by BlueAce, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), December 25, 2012
-- [Chessiverse @HGM](http://www.talkchess.com/forum/viewtopic.php?t=50799) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), January 06, 2014 [[10]](#cite_note-10)
+- [Chessiverse @HGM](http://www.talkchess.com/forum/viewtopic.php?t=50799) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), January 06, 2014 <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 - [Eval tuning - any open source engines with GA or PBIL?](http://www.talkchess.com/forum/viewtopic.php?t=54545) by Hrvoje Horvatic, [CCC](CCC "CCC"), December 04, 2014 » [Automated Tuning](Automated_Tuning "Automated Tuning")
 
 ## 2015 ...
@@ -345,7 +345,7 @@ An evolutionary algorithm (EA) is subset of [evolutionary computation](https://e
 - [Evolutionary programming from Wikipedia](https://en.wikipedia.org/wiki/Evolutionary_programming)
 - [Evolution strategy from Wikipedia](https://en.wikipedia.org/wiki/Evolution_strategy)
 - [CMA-ES from Wikipedia](https://en.wikipedia.org/wiki/CMA-ES)
-- [The Chessiverse: Evolution of Chess Programs](http://home.hccnet.nl/h.g.muller/chessivers.html) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") [[11]](#cite_note-11)
+- [The Chessiverse: Evolution of Chess Programs](http://home.hccnet.nl/h.g.muller/chessivers.html) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ## Evolutionary Computation
 
@@ -370,17 +370,17 @@ feat.: [Bennie Maupin](Category:Bennie_Maupin "Category:Bennie Maupin"), [Bill S
 
 ## References
 
-1. [↑](#cite_ref-1) [genetic-programming.org-Home-Page](http://www.genetic-programming.org/)
-1. [↑](#cite_ref-2) [Shumeet Baluja](Mathematician#ShumeetBaluja "Mathematician") (**1994**). *[Population-Based Incremental Learning: A Method for Integrating Genetic Search Based Function Optimization and Competitive Learning](http://www.ri.cmu.edu/publication_view.html?pub_id=1444)*. Technical Report [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") (CMU–CS–94–163)
-1. [↑](#cite_ref-3) [Population-based incremental learning from Wikipedia](https://en.wikipedia.org/wiki/Population-based_incremental_learning)
-1. [↑](#cite_ref-4) [Prisoner's dilemma from Wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
-1. [↑](#cite_ref-5) [Learnable Evolution Model from Wikipedia](https://en.wikipedia.org/wiki/Learnable_Evolution_Model)
-1. [↑](#cite_ref-6) [Binary decision diagram from Wikipedia](https://en.wikipedia.org/wiki/Binary_decision_diagram)
-1. [↑](#cite_ref-7) [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2010**). *Mimicking the Black Box - Genetically evolving evaluation functions and search algorithms*. Review on Omid David's Ph.D. Thesis, [ICGA Journal, Vol. 33, No. 1](ICGA_Journal#33_1 "ICGA Journal")
-1. [↑](#cite_ref-8) [Re: PHOENIX=CuckooChess with learning function in Falcon style](http://www.talkchess.com/forum/viewtopic.php?t=55476&start=4) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), March 20, 2016
-1. [↑](#cite_ref-9) [CMA-ES from Wikipedia](https://en.wikipedia.org/wiki/CMA-ES)
-1. [↑](#cite_ref-10) [The Chessiverse: Evolution of Chess Programs](http://home.hccnet.nl/h.g.muller/chessivers.html) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
-1. [↑](#cite_ref-11) [Chessiverse @HGM](http://www.talkchess.com/forum/viewtopic.php?t=50799) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), January 06, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [genetic-programming.org-Home-Page](http://www.genetic-programming.org/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Shumeet Baluja](Mathematician#ShumeetBaluja "Mathematician") (**1994**). *[Population-Based Incremental Learning: A Method for Integrating Genetic Search Based Function Optimization and Competitive Learning](http://www.ri.cmu.edu/publication_view.html?pub_id=1444)*. Technical Report [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University") (CMU–CS–94–163)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Population-based incremental learning from Wikipedia](https://en.wikipedia.org/wiki/Population-based_incremental_learning)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Prisoner's dilemma from Wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Learnable Evolution Model from Wikipedia](https://en.wikipedia.org/wiki/Learnable_Evolution_Model)
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Binary decision diagram from Wikipedia](https://en.wikipedia.org/wiki/Binary_decision_diagram)
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2010**). *Mimicking the Black Box - Genetically evolving evaluation functions and search algorithms*. Review on Omid David's Ph.D. Thesis, [ICGA Journal, Vol. 33, No. 1](ICGA_Journal#33_1 "ICGA Journal")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: PHOENIX=CuckooChess with learning function in Falcon style](http://www.talkchess.com/forum/viewtopic.php?t=55476&start=4) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), March 20, 2016
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [CMA-ES from Wikipedia](https://en.wikipedia.org/wiki/CMA-ES)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [The Chessiverse: Evolution of Chess Programs](http://home.hccnet.nl/h.g.muller/chessivers.html) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Chessiverse @HGM](http://www.talkchess.com/forum/viewtopic.php?t=50799) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), January 06, 2014
 
 **[Up one Level](Learning "Learning")**
 

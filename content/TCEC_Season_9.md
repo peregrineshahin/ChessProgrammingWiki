@@ -7,14 +7,14 @@ title: TCEC Season 9
 
 
 
- [](https://tcec-chess.com/) TCEC Logo [[1]](#cite_note-1) 
+ [](https://tcec-chess.com/) TCEC Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **TCEC Season 9**,  
 
 the Top Chess Engine Championship (TCEC) Season 9 ran from May 1st to December 1st [2016](Timeline#2016 "Timeline") as a competition between 32 chess engines, 
 divided into three stages and a Superfinal. **Stage 1**, a single-round robin consisting of two seeded sub-divisions (a) and (b) of 16 engines each, is played with a two move [opening book](Opening_Book "Opening Book"). 
 **Stage 2**, a double round robin, and **Stage 3**, an octo round robin, is played with an eight move book. 
 First time, a **TCEC Rapid** is scheduled after Stage 3 of the Top Chess Engine Championship. 
-All 32 engines play double round robin with a total of 992 games [[2]](#cite_note-2) with time control of 25 min + 10 sec [[3]](#cite_note-3) . 
+All 32 engines play double round robin with a total of 992 games <a id="cite-note-2" href="#cite-ref-2">[2]</a> with time control of 25 min + 10 sec <a id="cite-note-3" href="#cite-ref-3">[3]</a> . 
 [Stockfish 8](Stockfish "Stockfish") won the [Superfinal](#Superfinal) versus [Houdini 5](Houdini "Houdini") with a margin of **54½-45½**.
 
 
@@ -1183,7 +1183,7 @@ Season 9, Stage 3, July 23, 2016 - September 08, 2016. The format for Stage 3 wa
 ## Rapid
 
 
-September 09, 2016 - October 23, 2016. Double round robin, time control 25 min + 10 sec. The new [Houdini 200716](Houdini "Houdini") [[5]](#cite_note-5) won convincingly, 3 points ahead of runner up [Komodo 1692.19](Komodo "Komodo") and 3½ ahead of [Stockfish 030916](Stockfish "Stockfish")! 
+September 09, 2016 - October 23, 2016. Double round robin, time control 25 min + 10 sec. The new [Houdini 200716](Houdini "Houdini") <a id="cite-note-5" href="#cite-ref-5">[5]</a> won convincingly, 3 points ahead of runner up [Komodo 1692.19](Komodo "Komodo") and 3½ ahead of [Stockfish 030916](Stockfish "Stockfish")! 
 
 
 
@@ -1194,7 +1194,7 @@ September 09, 2016 - October 23, 2016. Double round robin, time control 25 min +
 **[< Prev](TCEC_Season_8#Superfinal "TCEC Season 8") [Next >](TCEC_Season_10#Superfinal "TCEC Season 10")**  
 
 The Season 9 Superfinal between [Houdini 5](Houdini "Houdini") and [Stockfish 8](Stockfish "Stockfish") was played from November 11 until December 05, 2016. 
-100 games with 50 different openings selected by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen") [[6]](#cite_note-6) [[7]](#cite_note-7). 
+100 games with 50 different openings selected by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>. 
 **Stockfish 8** won convincingly. 
 
 
@@ -1938,7 +1938,7 @@ Qd8 60.Qxd8 Bxd8 61.e6 Be7 1-0
 ### The new Houdini
 
 
-The first game of Stage 3 between [Houdini 200716](Houdini "Houdini") and [Komodo 10.1](Komodo "Komodo") caused some commotion, since the new parameters of the updated version Komodo **10.1** as provided by its authors concerning [contempt](Contempt_Factor "Contempt Factor") (7 instead of 10) and dynamism (the new default 115 instead of 110 - lower settings favors static advantages like [material](Material "Material") and [pawn structure](Pawn_Structure "Pawn Structure"), while a higher settings prioritizes short-term ("dynamic") advantages like [mobility](Mobility "Mobility") and [threats to the king](King_Safety "King Safety") [[8]](#cite_note-8) ) were not set by the TCEC staff. Unfortunately, the wrong settings were only noticed at the end of the game [[9]](#cite_note-9) , when Komodo 10.1 was about to lose versus the new development version of Houdini. While the correct decision was to replay the game, it gave breeding ground for conspiracy theorists.
+The first game of Stage 3 between [Houdini 200716](Houdini "Houdini") and [Komodo 10.1](Komodo "Komodo") caused some commotion, since the new parameters of the updated version Komodo **10.1** as provided by its authors concerning [contempt](Contempt_Factor "Contempt Factor") (7 instead of 10) and dynamism (the new default 115 instead of 110 - lower settings favors static advantages like [material](Material "Material") and [pawn structure](Pawn_Structure "Pawn Structure"), while a higher settings prioritizes short-term ("dynamic") advantages like [mobility](Mobility "Mobility") and [threats to the king](King_Safety "King Safety") <a id="cite-note-8" href="#cite-ref-8">[8]</a> ) were not set by the TCEC staff. Unfortunately, the wrong settings were only noticed at the end of the game <a id="cite-note-9" href="#cite-ref-9">[9]</a> , when Komodo 10.1 was about to lose versus the new development version of Houdini. While the correct decision was to replay the game, it gave breeding ground for conspiracy theorists.
 
 
 
@@ -2015,7 +2015,7 @@ Kc5 79.Ra5+ Bb5 80.Ra3 Kd6 81.Ra2 Bf1+ 82.Kh2 Bb5 83.Kg2 Bc6 84.Ra5 Bd7 85.Ra7 B
  [Re: TCEC stage 3 , New Houdini starts with a bang](http://www.talkchess.com/forum/viewtopic.php?t=60915&start=15) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), July 24, 2016
 * [TCEC openings](http://www.talkchess.com/forum/viewtopic.php?t=61258) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), August 28, 2016
 * [Houdini 5 dev in TCEC](http://www.talkchess.com/forum/viewtopic.php?t=61357) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), September 08, 2016 » [Houdini](Houdini "Houdini")
-* [ELO inflation ha ha ha](http://www.talkchess.com/forum/viewtopic.php?t=61444) by [Henk van den Belt](index.php?title=Henk_van_den_Belt&action=edit&redlink=1 "Henk van den Belt (page does not exist)"), [CCC](CCC "CCC"), September 16, 2016 » [Delphil](Delphil "Delphil"), [Stockfish](Stockfish "Stockfish"), [Match Statistics](Match_Statistics "Match Statistics"), [Playing Strength](Playing_Strength "Playing Strength") [[10]](#cite_note-10)
+* [ELO inflation ha ha ha](http://www.talkchess.com/forum/viewtopic.php?t=61444) by [Henk van den Belt](index.php?title=Henk_van_den_Belt&action=edit&redlink=1 "Henk van den Belt (page does not exist)"), [CCC](CCC "CCC"), September 16, 2016 » [Delphil](Delphil "Delphil"), [Stockfish](Stockfish "Stockfish"), [Match Statistics](Match_Statistics "Match Statistics"), [Playing Strength](Playing_Strength "Playing Strength") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 * [New Houdini](http://www.talkchess.com/forum/viewtopic.php?t=61611) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), October 05, 2016 » [Houdini](Houdini "Houdini")
 * [TCEC Super Final News...](http://www.talkchess.com/forum/viewtopic.php?t=61887) by [Steve Maughan](Steve_Maughan "Steve Maughan"), October 30, 2016
 * [TCEC 9 super final: the opening selection](http://www.talkchess.com/forum/viewtopic.php?t=62126) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), November 14, 2016
@@ -2028,7 +2028,7 @@ Kc5 79.Ra5+ Bb5 80.Ra3 Kd6 81.Ra2 Bf1+ 82.Kh2 Bb5 83.Kg2 Bc6 84.Ra5 Bd7 85.Ra7 B
 
 * [Live Computer Chess Broadcast](https://tcec-chess.com/)
 * [TCEC - Thoresen Chess Engines Competition](https://www.facebook.com/tcec.chess) - [Facebook](https://en.wikipedia.org/wiki/Facebook)
-* [Houdini 5 to participate in TCEC Season 9](http://www.chessdom.com/houdini-5-to-participate-in-tcec-season-9/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), April 13, 2016 [[11]](#cite_note-11)
+* [Houdini 5 to participate in TCEC Season 9](http://www.chessdom.com/houdini-5-to-participate-in-tcec-season-9/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), April 13, 2016 <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 * [TCEC Season 9 officially announced (Updated)](http://www.chessdom.com/tcec-season-9-officially-announced/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), April 24, 2016
 * [TCEC Season 9 – groups and participants](http://www.chessdom.com/tcec-season-9-groups-and-participants/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), April 26, 2016
 * [Robert Houdart on Houdini 5 dev in TCEC](http://www.chessdom.com/robert-houdart-on-houdini-5-dev-in-tcec/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), August 25, 2016 » [Robert Houdart](Robert_Houdart "Robert Houdart"), [Houdini](Houdini "Houdini")
@@ -2040,17 +2040,17 @@ Kc5 79.Ra5+ Bb5 80.Ra3 Kd6 81.Ra2 Bf1+ 82.Kh2 Bb5 83.Kg2 Bc6 84.Ra5 Bd7 85.Ra7 B
 ## References
 
 
-1. [↑](#cite_ref-1) Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. [↑](#cite_ref-2) [TCEC rapid starting soon with 32 engines](http://www.chessdom.com/tcec-rapid-starting-soon-with-32-engines/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), August 30, 2016
-3. [↑](#cite_ref-3) [TCEC rapid – important information update | Chessdom](http://www.chessdom.com/tcec-rapid-important-information-update/), September 01, 2016
-4. [↑](#cite_ref-4) [TCEC Season 9 officially announced (Updated)](http://www.chessdom.com/tcec-season-9-officially-announced/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), April 24, 2016
-5. [↑](#cite_ref-5) [New Houdini](http://www.talkchess.com/forum/viewtopic.php?t=61611) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), October 05, 2016
-6. [↑](#cite_ref-6) [Computer Chess Testing: TCEC 9 superfinal PGN & new Noomen Testsuite 2016](http://blogchess2016.blogspot.de/2016/12/tcec-superfinal-9-pgn-new-noomen.html)
-7. [↑](#cite_ref-7) [TCEC 9 superfinal tournament book](http://www.talkchess.com/forum/viewtopic.php?t=65452) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), October 15, 2017
-8. [↑](#cite_ref-8) [Komodo 9.4](http://www.talkchess.com/forum/viewtopic.php?t=59553) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), March 18, 2016
-9. [↑](#cite_ref-9) [Re: TCEC stage 3 , New Houdini starts with a bang](http://www.talkchess.com/forum/viewtopic.php?t=60915&start=15) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), July 24, 2016
-10. [↑](#cite_ref-10) [Delphil 3.3b2 (2334) - Stockfish 030916 (3228), TCEC Season 9 - Rapid, Round 11](http://tcec.chessdom.com/archive.php?se=9&rapid&ga=163) September 16, 2016
-11. [↑](#cite_ref-11) [Houdini 5 in TCEC](http://www.talkchess.com/forum/viewtopic.php?t=59849) by John Wentworth, [CCC](CCC "CCC"), April 13, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TCEC rapid starting soon with 32 engines](http://www.chessdom.com/tcec-rapid-starting-soon-with-32-engines/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), August 30, 2016
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [TCEC rapid – important information update | Chessdom](http://www.chessdom.com/tcec-rapid-important-information-update/), September 01, 2016
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [TCEC Season 9 officially announced (Updated)](http://www.chessdom.com/tcec-season-9-officially-announced/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), April 24, 2016
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [New Houdini](http://www.talkchess.com/forum/viewtopic.php?t=61611) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), October 05, 2016
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Computer Chess Testing: TCEC 9 superfinal PGN & new Noomen Testsuite 2016](http://blogchess2016.blogspot.de/2016/12/tcec-superfinal-9-pgn-new-noomen.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [TCEC 9 superfinal tournament book](http://www.talkchess.com/forum/viewtopic.php?t=65452) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), October 15, 2017
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Komodo 9.4](http://www.talkchess.com/forum/viewtopic.php?t=59553) by [Larry Kaufman](Larry_Kaufman "Larry Kaufman"), [CCC](CCC "CCC"), March 18, 2016
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: TCEC stage 3 , New Houdini starts with a bang](http://www.talkchess.com/forum/viewtopic.php?t=60915&start=15) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), July 24, 2016
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Delphil 3.3b2 (2334) - Stockfish 030916 (3228), TCEC Season 9 - Rapid, Round 11](http://tcec.chessdom.com/archive.php?se=9&rapid&ga=163) September 16, 2016
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Houdini 5 in TCEC](http://www.talkchess.com/forum/viewtopic.php?t=59849) by John Wentworth, [CCC](CCC "CCC"), April 13, 2016
 
 **[Up one level](TCEC "TCEC")**
 

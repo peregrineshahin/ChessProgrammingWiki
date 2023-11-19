@@ -807,7 +807,7 @@ For a more comprehensive list, see [Computer Chess Wiki](http://computer-chess.o
 
 - [Ghost](Ghost "Ghost") 3.1 - May 30, 2017
 - [Monolith](Monolith "Monolith") 0.2 - May 26, 2017
-- [Komodo](Komodo#11 "Komodo") 11.01 - May 23, 2017 [[1]](#cite_note-1)
+- [Komodo](Komodo#11 "Komodo") 11.01 - May 23, 2017 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 - [Laser](Laser "Laser") 1.4 - May 11, 2017
 - [Roc](Roc "Roc") 0.7 - May 09, 2017
 - [Andscacs](Andscacs "Andscacs") 0.91 - May 09, 2017
@@ -1076,7 +1076,7 @@ For a more comprehensive list, see [Computer Chess Wiki](http://computer-chess.o
 - [Arasan](Arasan "Arasan") 18.0 - July 30, 2015
 - [Cheng](Cheng "Cheng") 4.39 - July 20, 2015
 - [Alfil](Alfil "Alfil") 15.7 - July 08, 2015
-- [The Baron](The_Baron "The Baron") 3.29 - July 07, 2015 (Dated February 26, 2012, based on [Crashtest Dummy](Crashtest_Dummy "Crashtest Dummy") [[2]](#cite_note-2) )
+- [The Baron](The_Baron "The Baron") 3.29 - July 07, 2015 (Dated February 26, 2012, based on [Crashtest Dummy](Crashtest_Dummy "Crashtest Dummy") <a id="cite-note-2" href="#cite-ref-2">[2]</a> )
 
 ## June
 
@@ -1168,8 +1168,8 @@ For a more comprehensive list, see [Computer Chess Wiki](http://computer-chess.o
 
 ## September
 
-- [Equinox](Equinox "Equinox") 3.20 - September 30, 2014 [[3]](#cite_note-3)
-- [Naum](Naum "Naum") 4.6 - September 28, 2014 [[4]](#cite_note-4)
+- [Equinox](Equinox "Equinox") 3.20 - September 30, 2014 <a id="cite-note-3" href="#cite-ref-3">[3]</a>
+- [Naum](Naum "Naum") 4.6 - September 28, 2014 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 - [Delphil](Delphil "Delphil") 3.2 - September 28, 2014
 - [Crafty](Crafty "Crafty") 24.1 - September 27, 2014
 - [Rhetoric](Rhetoric "Rhetoric") 1.4.1 - September 22, 2014
@@ -1275,10 +1275,10 @@ For a more comprehensive list, see [Computer Chess Wiki](http://computer-chess.o
 
 ## References
 
-1. [↑](#cite_ref-1) [Komodo 11 is out!](http://www.talkchess.com/forum/viewtopic.php?t=63991) by Michael Reyes, [CCC](CCC "CCC"), May 15, 2017
-1. [↑](#cite_ref-2) [Re: \*NEW VERSION\* of The Baron](http://www.talkchess.com/forum/viewtopic.php?t=56901&start=10) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [CCC](CCC "CCC"), July 08, 2015
-1. [↑](#cite_ref-3) [Equinox 3.20 (free to all)](http://www.talkchess.com/forum/viewtopic.php?t=53884) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), September 30, 2014
-1. [↑](#cite_ref-4) [Naum](Naum "Naum") 4.6 first appeared in October 2013 playing [TCEC Season 5, Stage 3](TCEC_Season_5#Stage3 "TCEC Season 5"). A public free release was [announced](http://www.talkchess.com/forum/viewtopic.php?t=5385) by [Graham Banks](Graham_Banks "Graham Banks") on behalf of [Alexander Naumov](Alexander_Naumov "Alexander Naumov") in [CCC](CCC "CCC"), September 28, 2014
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Komodo 11 is out!](http://www.talkchess.com/forum/viewtopic.php?t=63991) by Michael Reyes, [CCC](CCC "CCC"), May 15, 2017
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: \*NEW VERSION\* of The Baron](http://www.talkchess.com/forum/viewtopic.php?t=56901&start=10) by [Richard Pijl](Richard_Pijl "Richard Pijl"), [CCC](CCC "CCC"), July 08, 2015
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Equinox 3.20 (free to all)](http://www.talkchess.com/forum/viewtopic.php?t=53884) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), September 30, 2014
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Naum](Naum "Naum") 4.6 first appeared in October 2013 playing [TCEC Season 5, Stage 3](TCEC_Season_5#Stage3 "TCEC Season 5"). A public free release was [announced](http://www.talkchess.com/forum/viewtopic.php?t=5385) by [Graham Banks](Graham_Banks "Graham Banks") on behalf of [Alexander Naumov](Alexander_Naumov "Alexander Naumov") in [CCC](CCC "CCC"), September 28, 2014
 
 **[Up one Level](Engines "Engines")**
 

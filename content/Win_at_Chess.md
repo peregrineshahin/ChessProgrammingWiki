@@ -5,17 +5,17 @@ title: Win at Chess
 
 
 
-[](https://www.amazon.com/Win-at-Chess-Dover/dp/0486418782) WAC [[1]](#cite_note-1)
+[](https://www.amazon.com/Win-at-Chess-Dover/dp/0486418782) WAC <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Win at Chess** (WAC),  
 
-a collection of 300 chess positions first compiled and published by [Fred Reinfeld](https://en.wikipedia.org/wiki/Fred_Reinfeld) in 1958 [[2]](#cite_note-2). The [tactical](Tactics "Tactics") postions were taken from actual tournament play, contain scores of traps, [sacrifices](Sacrifice "Sacrifice"), [mates](Checkmate "Checkmate"), [winning combinations](Combination "Combination"), and subtle exchanges that will help sharpen players' eyes and test their skills against the masters, and were (or even are) a quite popular test set for chess engines as a sanity check [[3]](#cite_note-3). In 2001, WAC was revised by *Fred Wilson* [[4]](#cite_note-4) and converted into [algebraic chess notation](Algebraic_Chess_Notation "Algebraic Chess Notation"). 
+a collection of 300 chess positions first compiled and published by [Fred Reinfeld](https://en.wikipedia.org/wiki/Fred_Reinfeld) in 1958 <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The [tactical](Tactics "Tactics") postions were taken from actual tournament play, contain scores of traps, [sacrifices](Sacrifice "Sacrifice"), [mates](Checkmate "Checkmate"), [winning combinations](Combination "Combination"), and subtle exchanges that will help sharpen players' eyes and test their skills against the masters, and were (or even are) a quite popular test set for chess engines as a sanity check <a id="cite-note-3" href="#cite-ref-3">[3]</a>. In 2001, WAC was revised by *Fred Wilson* <a id="cite-note-4" href="#cite-ref-4">[4]</a> and converted into [algebraic chess notation](Algebraic_Chess_Notation "Algebraic Chess Notation"). 
 
 
 
 ## Publications
 
 
-* [Fred Reinfeld](https://en.wikipedia.org/wiki/Fred_Reinfeld) (**1958, 2001**). *Win at Chess*. (Dover Books on Chess [[5]](#cite_note-5)), [ISBN 0-486-41878-2](https://en.wikipedia.org/wiki/Special:BookSources/0486418782), [Google Books](http://books.google.com/books/about/Win_at_Chess.html?id=sNP8-dt9nkEC&redir_esc=y), , [amazon](https://www.amazon.com/Win-at-Chess-Dover/dp/0486418782)
+* [Fred Reinfeld](https://en.wikipedia.org/wiki/Fred_Reinfeld) (**1958, 2001**). *Win at Chess*. (Dover Books on Chess <a id="cite-note-5" href="#cite-ref-5">[5]</a>), [ISBN 0-486-41878-2](https://en.wikipedia.org/wiki/Special:BookSources/0486418782), [Google Books](http://books.google.com/books/about/Win_at_Chess.html?id=sNP8-dt9nkEC&redir_esc=y), , [amazon](https://www.amazon.com/Win-at-Chess-Dover/dp/0486418782)
 * [Alexander Szabo](Alexander_Szabo "Alexander Szabo") (**1984**). *[Computer-Chess Tactics and Strategy](https://circle.ubc.ca/handle/2429/24780)*. M.Sc. Thesis, [University of British Columbia](https://en.wikipedia.org/wiki/University_of_British_Columbia)
 
 
@@ -39,7 +39,7 @@ a collection of 300 chess positions first compiled and published by [Fred Reinfe
 * [A proposed WAC replacement for testing](https://www.stmintz.com/ccc/index.php?id=189308) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), September 18, 2001
 * [Futility + WAC](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=34982) by [Stefan Knappe](Stefan_Knappe "Stefan Knappe"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), November 07, 2001 » [Futility Pruning](Futility_Pruning "Futility Pruning"), [Matador](Matador "Matador")
 * [Explosion in WAC 102](https://www.stmintz.com/ccc/index.php?id=206721) by [David Rasmussen](David_Rasmussen "David Rasmussen"), [CCC](CCC "CCC"), January 11, 2002
-* [WAC 230 ..solved by](https://www.stmintz.com/ccc/index.php?id=239018) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), July 07, 2002 [[6]](#cite_note-6)
+* [WAC 230 ..solved by](https://www.stmintz.com/ccc/index.php?id=239018) by [Mike Byrne](Michael_Byrne "Michael Byrne"), [CCC](CCC "CCC"), July 07, 2002 <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 * [WACNEW 40% less fails when Sharper get 12x the time](https://www.stmintz.com/ccc/index.php?id=289619) by [Albert Bertilsson](Albert_Bertilsson "Albert Bertilsson"), [CCC](CCC "CCC"), March 17, 2003 » [Sharper](Sharper "Sharper")
 * [What's best low BF or good WAC result?](https://www.stmintz.com/ccc/index.php?id=289795) by [Albert Bertilsson](Albert_Bertilsson "Albert Bertilsson"), [CCC](CCC "CCC"), March 18, 2003
 * [wacnew.epd & single search improvements](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=43019) by [Stefan Knappe](Stefan_Knappe "Stefan Knappe"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 16, 2003 » [Matador](Matador "Matador")
@@ -90,7 +90,7 @@ a collection of 300 chess positions first compiled and published by [Fred Reinfe
 ## EPD Wacnew
 
 
-The [EPD](Extended_Position_Description "Extended Position Description") record [[7]](#cite_note-7):
+The [EPD](Extended_Position_Description "Extended Position Description") record <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
 
 
 
@@ -409,13 +409,13 @@ b2b1r1k/3R1ppp/4qP2/4p1PQ/4P3/5B2/4N1K1/8 w - - bm g6; id "WAC.300";
 ## References
 
 
-1. [↑](#cite_ref-1) [WAC from amazon](https://www.amazon.com/Win-at-Chess-Dover/dp/0486418782)
-2. [↑](#cite_ref-2) [Fred Reinfeld](https://en.wikipedia.org/wiki/Fred_Reinfeld) (**1958**). *Win at Chess*. (Dover Books on Chess)
-3. [↑](#cite_ref-3) [Win at Chess - Fred Reinfeld - Google Books](http://books.google.com/books/about/Win_at_Chess.html?id=sNP8-dt9nkEC&redir_esc=y)
-4. [↑](#cite_ref-4) [Fred Wilson, Chess](http://www.fredwilsonchess.com/)
-5. [↑](#cite_ref-5) [Dover Publications Chess](http://store.doverpublications.com/by-subject-chess.html)
-6. [↑](#cite_ref-6) [Hans Kmoch vs Aron Nimzowitsch (1927)](http://www.chessgames.com/perl/chessgame?gid=1102423) from [chessgames.com](http://www.chessgames.com/index.html)
-7. [↑](#cite_ref-7) [wacnew.epd](http://tropo.googlecode.com/svn-history/r33/trunk/Chess/Engines/Tests/wacnew.epd)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [WAC from amazon](https://www.amazon.com/Win-at-Chess-Dover/dp/0486418782)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Fred Reinfeld](https://en.wikipedia.org/wiki/Fred_Reinfeld) (**1958**). *Win at Chess*. (Dover Books on Chess)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Win at Chess - Fred Reinfeld - Google Books](http://books.google.com/books/about/Win_at_Chess.html?id=sNP8-dt9nkEC&redir_esc=y)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Fred Wilson, Chess](http://www.fredwilsonchess.com/)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Dover Publications Chess](http://store.doverpublications.com/by-subject-chess.html)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hans Kmoch vs Aron Nimzowitsch (1927)](http://www.chessgames.com/perl/chessgame?gid=1102423) from [chessgames.com](http://www.chessgames.com/index.html)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [wacnew.epd](http://tropo.googlecode.com/svn-history/r33/trunk/Chess/Engines/Tests/wacnew.epd)
 
 **[Up one Level](Test-Positions "Test-Positions")**
 

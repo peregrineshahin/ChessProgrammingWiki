@@ -5,20 +5,20 @@ title: Jaap van den Herik
 
 
 
- [](https://www.universiteitleiden.nl/en/staffmembers/jaap-van-den-herik#tab-1) Jaap van den Herik [[1]](#cite_note-1) 
+ [](https://www.universiteitleiden.nl/en/staffmembers/jaap-van-den-herik#tab-1) Jaap van den Herik <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Hendrik Jacob (Jaap) van den Herik**,  
 
-a Dutch Professor and AI-Scientist. Besides being Full Professor in Computer Science at [Maastricht University](Maastricht_University "Maastricht University"), since September 2008 at *Tilburg Centre for Creative Computing (TiCC)* and *Tilburg School of Humanities* at [Tilburg University](Tilburg_University "Tilburg University"), [Tilburg](https://en.wikipedia.org/wiki/Tilburg) [[2]](#cite_note-2), and since 2014 at *Leiden Institute of Advanced Computer Science* (LIACS) [[3]](#cite_note-3), [Leiden University](Leiden_University "Leiden University"), he further holds a named professorial chair from Leiden University [[4]](#cite_note-4), Department of Law, with specialization in Computer and Law since 1988.
+a Dutch Professor and AI-Scientist. Besides being Full Professor in Computer Science at [Maastricht University](Maastricht_University "Maastricht University"), since September 2008 at *Tilburg Centre for Creative Computing (TiCC)* and *Tilburg School of Humanities* at [Tilburg University](Tilburg_University "Tilburg University"), [Tilburg](https://en.wikipedia.org/wiki/Tilburg) <a id="cite-note-2" href="#cite-ref-2">[2]</a>, and since 2014 at *Leiden Institute of Advanced Computer Science* (LIACS) <a id="cite-note-3" href="#cite-ref-3">[3]</a>, [Leiden University](Leiden_University "Leiden University"), he further holds a named professorial chair from Leiden University <a id="cite-note-4" href="#cite-ref-4">[4]</a>, Department of Law, with specialization in Computer and Law since 1988.
 
 
-In 1980 Van den Herik was co-founder of the [CSVN](CSVN "CSVN") [[5]](#cite_note-5) , the Dutch Computer Chess Association. From 1983 until 2015 Jaap was Editor-in-Chief of the [ICGA Journal](ICGA_Journal "ICGA Journal"). Van den Herik has been the enthusiastic leader of several program and organizing committees, such as [Advances in Computer Games](Conferences#AdvancesinComputerGames "Conferences") and others - also Editor of associated publications as available in the [ICGA bookstore](http://ilk.uvt.nl/icga/organisation/books/). Jaap van den Herik is co-author of the chess programs [Pion](Pion "Pion"), [Dutch](Dutch "Dutch") and [Much](Much "Much"), participating at various World Computer Chess Championships in the 80s [[6]](#cite_note-6) . Since the early 90s Jaap is Tournament director, organizer and arbiter of [ICCA](ICCA "ICCA") and [ICGA](ICGA "ICGA") computer chess tournaments, such as the [World Computer Chess Championship](World_Computer_Chess_Championship "World Computer Chess Championship"), [World Microcomputer Chess Championship](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship") and the [Computer Olympiad](Computer_Olympiad "Computer Olympiad"). 
+In 1980 Van den Herik was co-founder of the [CSVN](CSVN "CSVN") <a id="cite-note-5" href="#cite-ref-5">[5]</a> , the Dutch Computer Chess Association. From 1983 until 2015 Jaap was Editor-in-Chief of the [ICGA Journal](ICGA_Journal "ICGA Journal"). Van den Herik has been the enthusiastic leader of several program and organizing committees, such as [Advances in Computer Games](Conferences#AdvancesinComputerGames "Conferences") and others - also Editor of associated publications as available in the [ICGA bookstore](http://ilk.uvt.nl/icga/organisation/books/). Jaap van den Herik is co-author of the chess programs [Pion](Pion "Pion"), [Dutch](Dutch "Dutch") and [Much](Much "Much"), participating at various World Computer Chess Championships in the 80s <a id="cite-note-6" href="#cite-ref-6">[6]</a> . Since the early 90s Jaap is Tournament director, organizer and arbiter of [ICCA](ICCA "ICCA") and [ICGA](ICGA "ICGA") computer chess tournaments, such as the [World Computer Chess Championship](World_Computer_Chess_Championship "World Computer Chess Championship"), [World Microcomputer Chess Championship](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship") and the [Computer Olympiad](Computer_Olympiad "Computer Olympiad"). 
 
 
 
 ## Follower of Euwe and De Groot
 
 
-Jaap van den Herik in 2010 [[9]](#cite_note-9) :
+Jaap van den Herik in 2010 <a id="cite-note-9" href="#cite-ref-9">[9]</a> :
 
 
 
@@ -40,7 +40,7 @@ Along with [Barend Swets](Barend_Swets "Barend Swets") and [Peter van Diepen](Pe
 ## Selected Publications
 
 
-Jaap van den Herik has collected an enormous list of publications over the years. [[10]](#cite_note-10) [[11]](#cite_note-11)
+Jaap van den Herik has collected an enormous list of publications over the years. <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 
 
@@ -56,7 +56,7 @@ Jaap van den Herik has collected an enormous list of publications over the years
 
 * Jaap van den Herik (**1981**). *Progress in Computer Chess.* [AISB Quarterly](http://www.aisb.org.uk/aisbq/qarchive.shtml), reprinted in [ICCA Newsletter, Vol. 4. No. 3](ICGA_Journal#4_3 "ICGA Journal"), Report on [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3")
 * Jaap van den Herik (**1981**). *Computer Chess Today and Tomorrow: An Interview with [Donald Michie](Donald_Michie "Donald Michie")*. [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3"), [Computer Chess Digest Annual 1984](Computer_Chess_Reports "Computer Chess Reports")
-* Jaap van den Herik (**1981**). *Spracklens programma - wereldkampioen bij micro’s*. Schakend Nederland, 12-1981 (Dutch) » [WMCCC 1981](WMCCC_1981 "WMCCC 1981") [[12]](#cite_note-12)
+* Jaap van den Herik (**1981**). *Spracklens programma - wereldkampioen bij micro’s*. Schakend Nederland, 12-1981 (Dutch) » [WMCCC 1981](WMCCC_1981 "WMCCC 1981") <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 
 **1982**
@@ -123,7 +123,7 @@ Jaap van den Herik has collected an enormous list of publications over the years
 * Jaap van den Herik, [Bob Herschberg](Bob_Herschberg "Bob Herschberg"), [Najib Nakad](index.php?title=Najib_Nakad&action=edit&redlink=1 "Najib Nakad (page does not exist)") (**1987**). *A Six-Men-Endgame Database: KRP(a2)KbBP(a3)*. [ICCA Journal, Vol. 10, No. 4](ICGA_Journal#10_4 "ICGA Journal"), [pdf](http://arno.uvt.nl/show.cgi?fid=106791)
 * [Sito Dekker](Sito_Dekker "Sito Dekker"), Jaap van den Herik, [Bob Herschberg](Bob_Herschberg "Bob Herschberg") (**1987**). *Perfect Knowledge and Beyond*. Report 37-87, [Delft University of Technology](Delft_University_of_Technology "Delft University of Technology"), Delft
 * Jaap van den Herik, [Najib Nakad](index.php?title=Najib_Nakad&action=edit&redlink=1 "Najib Nakad (page does not exist)"), [Denis Onneweer](index.php?title=Denis_Onneweer&action=edit&redlink=1 "Denis Onneweer (page does not exist)") ('*1987**).*** **Echo's van Timmans 'Echecs in Rio**. [Computerschaak](Computerschaak "Computerschaak"), Vol. 7, No. 6 (Dutch)
-* [Peter van Diepen](Peter_van_Diepen "Peter van Diepen"), Jaap van den Herik (**1987**). *[Schaken voor Computers](Peter_van_Diepen#SchakenvoorComputers "Peter van Diepen")*. (Dutch), [Broekhuis](http://www.boekhandelbroekhuis.nl/nl/boek/?authortitle=diepen/schaken-voor-computers-9789062332717&utm_source=boekwinkeltjes&utm_medium=paid-media&utm_campaign=boekwinkeltjes), [amazon](http://www.amazon.com/Schaken-Voor-Computers-Peter-Diepen/dp/9062332714/ref=sr_1_2?ie=UTF8&s=books&qid=1270456416&sr=1-2) [[13]](#cite_note-13)
+* [Peter van Diepen](Peter_van_Diepen "Peter van Diepen"), Jaap van den Herik (**1987**). *[Schaken voor Computers](Peter_van_Diepen#SchakenvoorComputers "Peter van Diepen")*. (Dutch), [Broekhuis](http://www.boekhandelbroekhuis.nl/nl/boek/?authortitle=diepen/schaken-voor-computers-9789062332717&utm_source=boekwinkeltjes&utm_medium=paid-media&utm_campaign=boekwinkeltjes), [amazon](http://www.amazon.com/Schaken-Voor-Computers-Peter-Diepen/dp/9062332714/ref=sr_1_2?ie=UTF8&s=books&qid=1270456416&sr=1-2) <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 
 
 **1988**
@@ -298,7 +298,7 @@ Jaap van den Herik has collected an enormous list of publications over the years
 
 
 
-* [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), Jaap van den Herik (**2002**). *Learning in Lines of Action*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad") [[14]](#cite_note-14) [[15]](#cite_note-15)
+* [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), Jaap van den Herik (**2002**). *Learning in Lines of Action*. [7th Computer Olympiad Workshop](7th_Computer_Olympiad#Workshop "7th Computer Olympiad") <a id="cite-note-14" href="#cite-ref-14">[14]</a> <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 * [Mark Winands](Mark_Winands "Mark Winands"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), Jaap van den Herik (**2002**). *[PDS-PN: A New Proof-Number Search Algorithm: Application to Lines of Action](http://link.springer.com/chapter/10.1007/978-3-540-40031-8_5)*. [CG 2002](CG_2002 "CG 2002")
 * [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Eric Postma](Eric_Postma "Eric Postma"), Jaap van den Herik (**2002**). *[The Neural MoveMap Heuristic in Chess](http://link.springer.com/chapter/10.1007/978-3-540-40031-8_11)*. [CG 2002](CG_2002 "CG 2002")
 * [Erik van der Werf](Erik_van_der_Werf "Erik van der Werf"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), [Eric Postma](Eric_Postma "Eric Postma"), Jaap van den Herik (**2002**). *[Local Move Prediction in Go](http://link.springer.com/chapter/10.1007/978-3-540-40031-8_26)*. [CG 2002](CG_2002 "CG 2002")
@@ -310,7 +310,7 @@ Jaap van den Herik has collected an enormous list of publications over the years
 * [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), Jaap van den Herik (**2002**). *Games, computers, and artificial intelligence*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 134, [pdf](http://www.acso.uneb.br/marcosimoes/Arquivos/IA/sdarticle_games.pdf)
 * [Pieter Spronck](Pieter_Spronck "Pieter Spronck") and Jaap van den Herik (**2002**). *Complex Games and Palm Computers*. [pdf](http://ticc.uvt.nl/~pspronck/pubs/ComplexGamesAndPalmComputers.pdf) » [Palm](index.php?title=Palm&action=edit&redlink=1 "Palm (page does not exist)")
 * [Evgueni N. Smirnov](https://scholar.google.co.uk/citations?user=zEfk244AAAAJ&hl=en), [Ida Sprinkhuizen-Kuyper](Ida_Sprinkhuizen-Kuyper "Ida Sprinkhuizen-Kuyper"), Jaap van den Herik (**2002**). *[New Version-Space Representations for Efficient Instance Retraction](https://research.tilburguniversity.edu/en/publications/new-version-space-representations-for-efficient-instance-retracti)*. [KDID 2002](https://dblp.uni-trier.de/db/conf/kdid/kdid2002.html)
-* [Evgueni N. Smirnov](https://scholar.google.co.uk/citations?user=zEfk244AAAAJ&hl=en), Jaap van den Herik, [Ida Sprinkhuizen-Kuyper](Ida_Sprinkhuizen-Kuyper "Ida Sprinkhuizen-Kuyper") (**2002**). *[Adaptable Boundary Sets](https://www.researchgate.net/publication/221186121_Adaptable_Boundary_Sets)*. [AI&M 2002](https://dblp.uni-trier.de/db/conf/isaim/isaim2002.html) [[16]](#cite_note-16)
+* [Evgueni N. Smirnov](https://scholar.google.co.uk/citations?user=zEfk244AAAAJ&hl=en), Jaap van den Herik, [Ida Sprinkhuizen-Kuyper](Ida_Sprinkhuizen-Kuyper "Ida Sprinkhuizen-Kuyper") (**2002**). *[Adaptable Boundary Sets](https://www.researchgate.net/publication/221186121_Adaptable_Boundary_Sets)*. [AI&M 2002](https://dblp.uni-trier.de/db/conf/isaim/isaim2002.html) <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 * [Evgueni N. Smirnov](https://scholar.google.co.uk/citations?user=zEfk244AAAAJ&hl=en), [Ida Sprinkhuizen-Kuyper](Ida_Sprinkhuizen-Kuyper "Ida Sprinkhuizen-Kuyper"), Jaap van den Herik (**2002**). *[Efficient Instance Retraction](https://www.researchgate.net/publication/226570510_Efficient_Instance_Retraction)*. [AIMSA 2002](https://dblp.uni-trier.de/db/conf/aimsa/aimsa2002.html)
 
 
@@ -483,7 +483,7 @@ Jaap van den Herik has collected an enormous list of publications over the years
 * [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani"), [Aske Plaat](Aske_Plaat "Aske Plaat"), Jaap van den Herik, [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren") (**2014**). *Performance analysis of a 240 thread tournament level MCTS Go program on the Intel Xeon Phi*. [CoRR abs/1409.4297](http://arxiv.org/abs/1409.4297) » [Go](Go "Go"), [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search")
 * [Ben Ruijl](index.php?title=Ben_Ruijl&action=edit&redlink=1 "Ben Ruijl (page does not exist)"), [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren"), [Aske Plaat](Aske_Plaat "Aske Plaat"), Jaap van den Herik (**2014**). *Why Local Search Excels in Expression Simplification*. [CoRR abs/1409.5223](http://arxiv.org/abs/1409.5223)
 * Jaap van den Herik, [Aske Plaat](Aske_Plaat "Aske Plaat"), [David Levy](David_Levy "David Levy"), [Daniel Dimov](index.php?title=Daniel_Dimov&action=edit&redlink=1 "Daniel Dimov (page does not exist)") (**2014**). *[Plagiarism in Game Programming Competitions](http://www.sciencedirect.com/science/article/pii/S1875952114000093)*. [Entertainment Computing](http://www.journals.elsevier.com/entertainment-computing/), Vol. 5, No. 3, [pdf preprint](http://askeplaat.files.wordpress.com/2013/01/the-application-of-the-icga-rules-v15.pdf)
-* Jaap van den Herik, [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [Aske Plaat](Aske_Plaat "Aske Plaat") (eds.) (**2014**). *[Computers and Games: 8th International Conference, CG 2013, Yokohama, Japan, August 13-15, 2013, Revised Selected Papers](http://link.springer.com/book/10.1007/978-3-319-09165-5)*. [LNCS](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science) 8427, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), ISBN-13: 978-3-319-09164-8 » [CG 2013](CG_2013 "CG 2013") [[17]](#cite_note-17)
+* Jaap van den Herik, [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), [Aske Plaat](Aske_Plaat "Aske Plaat") (eds.) (**2014**). *[Computers and Games: 8th International Conference, CG 2013, Yokohama, Japan, August 13-15, 2013, Revised Selected Papers](http://link.springer.com/book/10.1007/978-3-319-09165-5)*. [LNCS](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science) 8427, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media), ISBN-13: 978-3-319-09164-8 » [CG 2013](CG_2013 "CG 2013") <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 * [Omid E. David](Eli_David "Eli David"), Jaap van den Herik, [Moshe Koppel](Moshe_Koppel "Moshe Koppel"), [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") (**2014**). *Team Omid E. David wins the 11th Annual “Humies” Award*. [ICGA Journal, Vol. 37, No. 4](ICGA_Journal#37_4 "ICGA Journal")
 
 
@@ -507,7 +507,7 @@ Jaap van den Herik has collected an enormous list of publications over the years
 
 
 * Jaap van den Herik (**2016**). *[Intuition is Programmable](https://www.universiteitleiden.nl/en/news/2016/01/jaap-van-den-herik-intuition-is-programmable)*. [Valedictory Address](https://en.wikipedia.org/wiki/Valedictorian) from [Tilburg University](Tilburg_University "Tilburg University")
-* [Wilma Latuny](https://dblp.uni-trier.de/pers/hd/l/Latuny:Wilma), [Eric Postma](Eric_Postma "Eric Postma"), Jaap van den Herik (**2016**). *Digital Analysis of Beautiful Facial Expressions*. [ICAART](https://dblp.uni-trier.de/db/conf/icaart/icaart2016-2.html) [[18]](#cite_note-18)
+* [Wilma Latuny](https://dblp.uni-trier.de/pers/hd/l/Latuny:Wilma), [Eric Postma](Eric_Postma "Eric Postma"), Jaap van den Herik (**2016**). *Digital Analysis of Beautiful Facial Expressions*. [ICAART](https://dblp.uni-trier.de/db/conf/icaart/icaart2016-2.html) <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 * [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani"), [Aske Plaat](Aske_Plaat "Aske Plaat"), Jaap van den Herik, [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren") (**2016**). *A New Method for Parallel Monte Carlo Tree Search*. [arXiv:1605.04447](https://arxiv.org/abs/1605.04447)  » [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"), [Parallel Search](Parallel_Search "Parallel Search")
 * [S. Ali Mirsoleimani](S._Ali_Mirsoleimani "S. Ali Mirsoleimani"), [Aske Plaat](Aske_Plaat "Aske Plaat"), Jaap van den Herik, [Jos Vermaseren](Jos_Vermaseren "Jos Vermaseren") (**2016**). *An Efficient Computation Pattern for Parallel MCTS*. [ICT.OPEN 2016](http://www.ictopen.nl/content/Previous+editions), [pdf](http://liacs.leidenuniv.nl/~plaata1/papers/ictopen2016.pdf)
 
@@ -576,24 +576,24 @@ Jaap van den Herik has collected an enormous list of publications over the years
 ## References
 
 
-1. [↑](#cite_ref-1) [Jaap van den Herik - Leiden University](https://www.universiteitleiden.nl/en/staffmembers/jaap-van-den-herik#tab-1)
-2. [↑](#cite_ref-2) Jaap van den Herik (**2008**). *[From Maastricht to Tilburg](ICGA_Journal#FromMaastrichttoTilburg "ICGA Journal")*. [ICGA Journal, Vol. 31, No. 2](ICGA_Journal#31_2 "ICGA Journal")
-3. [↑](#cite_ref-3) Jaap van den Herik (**2013**). *[From Tilburg to Leiden](ICGA_Journal#FromTilburgtoLeiden "ICGA Journal")*. [ICGA Journal, Vol. 36, No. 4](ICGA_Journal#36_4 "ICGA Journal")
-4. [↑](#cite_ref-4) [Jaap van den Herik - Leiden University](https://www.universiteitleiden.nl/en/staffmembers/jaap-van-den-herik#tab-1)
-5. [↑](#cite_ref-5) [Jaap van den Herik from Wikipedia.nl](http://nl.wikipedia.org/wiki/Jaap_van_den_Herik) (Dutch)
-6. [↑](#cite_ref-6) [Jaap van den Herik's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=304)
-7. [↑](#cite_ref-7) Photo by [Wim Ruigrok](http://nl.linkedin.com/pub/wim-ruigrok/16/419/173) - [de Volkskrant](https://en.wikipedia.org/wiki/De_Volkskrant) in Henk Hage (**1985**). *Hoe intelligent wordt de schaakcomputer van de toekomst*. TNO Magazine, 02-1985, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/02-1985,%20TNO%20Magazine,%20Hoe%20intelligent%20wordt%20de%20schaakcomputer%20van%20de%20toekomst.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-8. [↑](#cite_ref-8) Image from [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1983**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1982*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-1983,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201982.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1982](DOCCC_1982 "DOCCC 1982")
-9. [↑](#cite_ref-9) [Max Euwe Centrum - Nieuwsbrief nummer 74](http://www.maxeuwe.nl/nieuwsbrief/nummer74.pdf) (pdf) (Dutch)
-10. [↑](#cite_ref-10) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-11. [↑](#cite_ref-11) [DBLP: H. Jaap van den Herik](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Herik:H=_Jaap_van_den.html)
-12. [↑](#cite_ref-12) [09-1981, 2. Mikrocomputer-Schachweltmeisterschaft in Travemünde und Hamburg](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1981,%202.%20Mikrocomputer-Schachweltmeisterschaft%20in%20Travemunde%20und%20Hamburg.pdf) (pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
-13. [↑](#cite_ref-13) [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") and Jaap van den Herik: *Schaken voor Computers*. (Review), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
-14. [↑](#cite_ref-14) [Publications - Maastricht University](https://dke.maastrichtuniversity.nl/m.winands/publications.html)
-15. [↑](#cite_ref-15) [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), Jaap van den Herik (**2002**). *Temporal difference learning and the Neural MoveMap heuristic in the game of Lines of Action*. GAME-ON 2002, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.9038&rep=rep1&type=pdf)
-16. [↑](#cite_ref-16) [Boundary (topology) from Wikipedia](https://en.wikipedia.org/wiki/Boundary_%28topology%29)
-17. [↑](#cite_ref-17) [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2014**). *A Statue of unremitting Devotion. Revised Selected papers CG 2013*. (Review) [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal")
-18. [↑](#cite_ref-18) [Wilma Latuny](https://dblp.uni-trier.de/pers/hd/l/Latuny:Wilma) (**2017**). *The Power of Facial Expressions*. Ph.D. thesis, [Tilburg University](Tilburg_University "Tilburg University"), advisors [Eric Postma](Eric_Postma "Eric Postma"), Jaap van den Herik, [pdf](https://pure.uvt.nl/ws/portalfiles/portal/18236048/Latuny_The_power_29_09_2017.pdf)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Jaap van den Herik - Leiden University](https://www.universiteitleiden.nl/en/staffmembers/jaap-van-den-herik#tab-1)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> Jaap van den Herik (**2008**). *[From Maastricht to Tilburg](ICGA_Journal#FromMaastrichttoTilburg "ICGA Journal")*. [ICGA Journal, Vol. 31, No. 2](ICGA_Journal#31_2 "ICGA Journal")
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> Jaap van den Herik (**2013**). *[From Tilburg to Leiden](ICGA_Journal#FromTilburgtoLeiden "ICGA Journal")*. [ICGA Journal, Vol. 36, No. 4](ICGA_Journal#36_4 "ICGA Journal")
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Jaap van den Herik - Leiden University](https://www.universiteitleiden.nl/en/staffmembers/jaap-van-den-herik#tab-1)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jaap van den Herik from Wikipedia.nl](http://nl.wikipedia.org/wiki/Jaap_van_den_Herik) (Dutch)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jaap van den Herik's ICGA Tournaments](https://www.game-ai-forum.org/icga-tournaments/person.php?id=304)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> Photo by [Wim Ruigrok](http://nl.linkedin.com/pub/wim-ruigrok/16/419/173) - [de Volkskrant](https://en.wikipedia.org/wiki/De_Volkskrant) in Henk Hage (**1985**). *Hoe intelligent wordt de schaakcomputer van de toekomst*. TNO Magazine, 02-1985, [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/02-1985,%20TNO%20Magazine,%20Hoe%20intelligent%20wordt%20de%20schaakcomputer%20van%20de%20toekomst.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> Image from [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") (**1983**). *Toernooibulletin van het Nederlands kampioenschap computerschaak 1982*. [pdf](http://www.schaakcomputers.nl/hein_veldhuis/database/files/05-1983,%20toernooibulletin%20van%20het%20Nederlands%20kampioenschap%20computerschaak%201982.pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis") » [DOCCC 1982](DOCCC_1982 "DOCCC 1982")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Max Euwe Centrum - Nieuwsbrief nummer 74](http://www.maxeuwe.nl/nieuwsbrief/nummer74.pdf) (pdf) (Dutch)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [DBLP: H. Jaap van den Herik](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Herik:H=_Jaap_van_den.html)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [09-1981, 2. Mikrocomputer-Schachweltmeisterschaft in Travemünde und Hamburg](http://www.schaakcomputers.nl/hein_veldhuis/database/files/09-1981,%202.%20Mikrocomputer-Schachweltmeisterschaft%20in%20Travemunde%20und%20Hamburg.pdf) (pdf) hosted by [Hein Veldhuis](Hein_Veldhuis "Hein Veldhuis")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**1987**). [Peter van Diepen](Peter_van_Diepen "Peter van Diepen") and Jaap van den Herik: *Schaken voor Computers*. (Review), [ICCA Journal, Vol. 10, No. 3](ICGA_Journal#10_3 "ICGA Journal")
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Publications - Maastricht University](https://dke.maastrichtuniversity.nl/m.winands/publications.html)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Mark Winands](Mark_Winands "Mark Winands"), [Levente Kocsis](Levente_Kocsis "Levente Kocsis"), [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), Jaap van den Herik (**2002**). *Temporal difference learning and the Neural MoveMap heuristic in the game of Lines of Action*. GAME-ON 2002, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.9038&rep=rep1&type=pdf)
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Boundary (topology) from Wikipedia](https://en.wikipedia.org/wiki/Boundary_%28topology%29)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Dap Hartmann](Dap_Hartmann "Dap Hartmann") (**2014**). *A Statue of unremitting Devotion. Revised Selected papers CG 2013*. (Review) [ICGA Journal, Vol. 37, No. 3](ICGA_Journal#37_3 "ICGA Journal")
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Wilma Latuny](https://dblp.uni-trier.de/pers/hd/l/Latuny:Wilma) (**2017**). *The Power of Facial Expressions*. Ph.D. thesis, [Tilburg University](Tilburg_University "Tilburg University"), advisors [Eric Postma](Eric_Postma "Eric Postma"), Jaap van den Herik, [pdf](https://pure.uvt.nl/ws/portalfiles/portal/18236048/Latuny_The_power_29_09_2017.pdf)
 
 **[Up one level](People "People")**
 

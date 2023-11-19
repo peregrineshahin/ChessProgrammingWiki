@@ -8,7 +8,7 @@ The **ICGA**, the **International Computer Games Association**, was founded as t
 
 ## The Aims of the ICGA are
 
-- to publish a quarterly [ICGA Journal](ICGA_Journal "ICGA Journal") [[1]](#cite_note-1)
+- to publish a quarterly [ICGA Journal](ICGA_Journal "ICGA Journal") <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 
 [](ICGA_Journal "ICGA Journal")
 
@@ -19,7 +19,7 @@ The **ICGA**, the **International Computer Games Association**, was founded as t
 
 ## The Board of the ICGA
 
-- President: [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") [[2]](#cite_note-2)
+- President: [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 - Vice-President: [Ryan Hayward](Ryan_Hayward "Ryan Hayward")
 - Vice-President Asian Countries: [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu")
 - Secretary-Treasurer: [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida")
@@ -56,7 +56,7 @@ The **ICGA**, the **International Computer Games Association**, was founded as t
 
 ## ICGA Events
 
-[[3]](#cite_note-3)
+<a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 - [Advances in Computer Games](Conferences#AdvancesinComputerChess "Conferences")
 - [Computer Olympiad](Computer_Olympiad "Computer Olympiad")
@@ -80,13 +80,13 @@ The **ICGA**, the **International Computer Games Association**, was founded as t
 
 ## History and Purpose of the ICGA
 
-Renamed into the **ICGA** in [2002](Timeline#2002 "Timeline") [[4]](#cite_note-4) , the association now more broadly fosters the [Computer Games](Games "Games") community through its relationships with Computer Science, Commercial and Game organizations throughout the world. The \*\*ICGA'\*\*s broader scope reflects the more general way in which computer-game capability contributes to [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence") and to the human experience of game-playing.
+Renamed into the **ICGA** in [2002](Timeline#2002 "Timeline") <a id="cite-note-4" href="#cite-ref-4">[4]</a> , the association now more broadly fosters the [Computer Games](Games "Games") community through its relationships with Computer Science, Commercial and Game organizations throughout the world. The \*\*ICGA'\*\*s broader scope reflects the more general way in which computer-game capability contributes to [Artificial Intelligence](Artificial_Intelligence "Artificial Intelligence") and to the human experience of game-playing.
 
 ## Quotes
 
 ## Robert Hyatt
 
-[Robert Hyatt](Robert_Hyatt "Robert Hyatt"), 1997 in a [rgcc](Computer_Chess_Forums "Computer Chess Forums") post [[5]](#cite_note-5) :
+[Robert Hyatt](Robert_Hyatt "Robert Hyatt"), 1997 in a [rgcc](Computer_Chess_Forums "Computer Chess Forums") post <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
 ```C++
 I was there when [Barend Swets](Barend_Swets "Barend Swets") (Believe the spelling is correct) proposed forming this organization in [1977](WCCC_1977 "WCCC 1977") in Toronto. I was one of many that stood up and said "yes, I'll join." However, others stood up and said I'll not only join, I'll help for nothing, and the [ICCA](ICCA "ICCA") was formed, and continues to work this way. 
@@ -95,10 +95,10 @@ I was there when [Barend Swets](Barend_Swets "Barend Swets") (Believe the spelli
 
 ## Jaap van den Herik
 
-[Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") in 2001 in *The Bell Captain* [[6]](#cite_note-6) :
+[Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") in 2001 in *The Bell Captain* <a id="cite-note-6" href="#cite-ref-6">[6]</a> :
 
 ```C++
-In 1977, the ICCA was founded during the [Second World Computer-Chess Championship in Toronto](WCCC_1977 "WCCC 1977"). The organisation was the brainchild of [Barend Swets](Barend_Swets "Barend Swets") and many participants supported the idea, among them [Ken Thompson](Ken_Thompson "Ken Thompson") who then tied for 4th place amongst 16 participants with his program [BELLE](Belle "Belle"). [CHESS 4.6](Chess_(Program) "Chess (Program)") won the title but Ken received credit for BELLE's KQKR endgame play against [IGM Walter Browne](https://en.wikipedia.org/wiki/Walter_Browne) (Fenner, 1979) [[7]](#cite_note-7) [[8]](#cite_note-8) . Further, Ken agreed to serve as Secretary and Treasurer of the new organisation alongside [Ben Mittman](Ben_Mittman "Ben Mittman"), the first ICCA President, and did so successfully and with much enthusiasm for six years. 
+In 1977, the ICCA was founded during the [Second World Computer-Chess Championship in Toronto](WCCC_1977 "WCCC 1977"). The organisation was the brainchild of [Barend Swets](Barend_Swets "Barend Swets") and many participants supported the idea, among them [Ken Thompson](Ken_Thompson "Ken Thompson") who then tied for 4th place amongst 16 participants with his program [BELLE](Belle "Belle"). [CHESS 4.6](Chess_(Program) "Chess (Program)") won the title but Ken received credit for BELLE's KQKR endgame play against [IGM Walter Browne](https://en.wikipedia.org/wiki/Walter_Browne) (Fenner, 1979) <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> . Further, Ken agreed to serve as Secretary and Treasurer of the new organisation alongside [Ben Mittman](Ben_Mittman "Ben Mittman"), the first ICCA President, and did so successfully and with much enthusiasm for six years. 
 
 ```
 
@@ -224,7 +224,7 @@ In 1992, a novel [Award](Template:ICGA_Journal_Awards "Template:ICGA Journal Awa
 
 ## Forum Posts
 
-- [ICGA Olympiad 2013: Yokohama, Aug 12-18!](http://www.talkchess.com/forum/viewtopic.php?t=46518) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), December 21, 2012 [[9]](#cite_note-9)
+- [ICGA Olympiad 2013: Yokohama, Aug 12-18!](http://www.talkchess.com/forum/viewtopic.php?t=46518) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), December 21, 2012 <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 - [ICGA Computer Olympiad 2013: Yokohama, Aug 12-18](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=26290) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), December 21, 2012
 - [WCCC 2015 Leiden](http://www.talkchess.com/forum/viewtopic.php?t=54972) by [Stefano Gemma](Stefano_Gemma "Stefano Gemma"), [CCC](CCC "CCC"), January 14, 2015
 - [ICGA Facebook page](http://www.talkchess.com/forum/viewtopic.php?t=64541) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [CCC](CCC "CCC"), July 06, 2017
@@ -234,22 +234,22 @@ In 1992, a novel [Award](Template:ICGA_Journal_Awards "Template:ICGA Journal Awa
 
 - [New ICGA website](https://icga.org/)
 - [ICGA Tournament Database](https://www.game-ai-forum.org/icga-tournaments/)
-- [ICGA - Home | Facebook](https://www.facebook.com/theICGA/) [[10]](#cite_note-10)
+- [ICGA - Home | Facebook](https://www.facebook.com/theICGA/) <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 - [International Computer Games Association from Wikipedia](https://en.wikipedia.org/wiki/International_Computer_Games_Association)
 - [International Computer Games Association (ICGA)](http://www.fide.com/component/fidedirectory/?comid=44&task=committee), an [Affiliated International Organizations](http://www.fide.com/component/fidedirectory/?view=affiliated) of [FIDE](FIDE "FIDE")
 
 ## References
 
-1. [↑](#cite_ref-1) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. [↑](#cite_ref-2) [A NEW PRESIDENT - Announcement by David Levy](https://icga.org/?p=2672) by [Mark Lefler](Mark_Lefler "Mark Lefler"), December 11, 2018
-1. [↑](#cite_ref-3) [ICGA Tournament Database](https://www.game-ai-forum.org/icga-tournaments/)
-1. [↑](#cite_ref-4) [ICCA BECOMES ICGA](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm#ICCA%20BECOMES%20ICGA) by [David Levy](David_Levy "David Levy"), President of the ICGA, [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal") - September 2002
-1. [↑](#cite_ref-5) [Does ICCA publish dissenting views?](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/3a074c70a369937f#), post #18 by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), January 22, 1997, [rgcc](Computer_Chess_Forums "Computer Chess Forums")
-1. [↑](#cite_ref-6) [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *The Bell Captain*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
-1. [↑](#cite_ref-7) [Walter Shawn Browne vs Belle (Computer) - Queen vs Rook exhibition 1978](http://www.chessgames.com/perl/chessgame?gid=1480950) from [chessgames.com](http://www.chessgames.com/index.html)
-1. [↑](#cite_ref-8) [QUEEN vs. ROOK](http://quux.org:70/Archives/usenet-a-news/NET.chess/82.01.07_sri-unix.458_net.chess.txt) by [Warren Stenberg](http://www.highbeam.com/doc/1G1-62632443.html) and Edware J. Conway, reprinted from the January, 1979 issue of the Minnesota Chess Journal, The Usenet Oldnews Archive, Compilation Copyright (C) 1981, 1996 Bruce Jones, Henry Spencer, David Wiseman » [ACM 1978](ACM_1978 "ACM 1978"), [Belle](Belle "Belle"), [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases"), [Walter Browne](https://en.wikipedia.org/wiki/Walter_Browne)
-1. [↑](#cite_ref-9) [Yokohama 2013 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/event.php?id=44)
-1. [↑](#cite_ref-10) [ICGA Facebook page](http://www.talkchess.com/forum/viewtopic.php?t=64541) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [CCC](CCC "CCC"), July 06, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [A NEW PRESIDENT - Announcement by David Levy](https://icga.org/?p=2672) by [Mark Lefler](Mark_Lefler "Mark Lefler"), December 11, 2018
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [ICGA Tournament Database](https://www.game-ai-forum.org/icga-tournaments/)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [ICCA BECOMES ICGA](http://ilk.uvt.nl/icga/journal/contents/content25-3.htm#ICCA%20BECOMES%20ICGA) by [David Levy](David_Levy "David Levy"), President of the ICGA, [ICGA Journal, Vol. 25, No. 3](ICGA_Journal#25_3 "ICGA Journal") - September 2002
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Does ICCA publish dissenting views?](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/3a074c70a369937f#), post #18 by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), January 22, 1997, [rgcc](Computer_Chess_Forums "Computer Chess Forums")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *The Bell Captain*. [ICGA Journal, Vol. 24, No. 2](ICGA_Journal#24_2 "ICGA Journal")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Walter Shawn Browne vs Belle (Computer) - Queen vs Rook exhibition 1978](http://www.chessgames.com/perl/chessgame?gid=1480950) from [chessgames.com](http://www.chessgames.com/index.html)
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [QUEEN vs. ROOK](http://quux.org:70/Archives/usenet-a-news/NET.chess/82.01.07_sri-unix.458_net.chess.txt) by [Warren Stenberg](http://www.highbeam.com/doc/1G1-62632443.html) and Edware J. Conway, reprinted from the January, 1979 issue of the Minnesota Chess Journal, The Usenet Oldnews Archive, Compilation Copyright (C) 1981, 1996 Bruce Jones, Henry Spencer, David Wiseman » [ACM 1978](ACM_1978 "ACM 1978"), [Belle](Belle "Belle"), [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases"), [Walter Browne](https://en.wikipedia.org/wiki/Walter_Browne)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Yokohama 2013 (ICGA Tournaments)](https://www.game-ai-forum.org/icga-tournaments/event.php?id=44)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ICGA Facebook page](http://www.talkchess.com/forum/viewtopic.php?t=64541) by [Harvey Williamson](Harvey_Williamson "Harvey Williamson"), [CCC](CCC "CCC"), July 06, 2017
 
 **[Up one level](Organizations "Organizations")**
 

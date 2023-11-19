@@ -3,7 +3,7 @@ title: EvaluationLinear
 ---
 **[Home](Home "Home") * Evaluation**
 
-[](https://www.pinterest.de/pin/58476495131654514/) [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - Schach-Theorie, 1937 [[1]](#cite_note-1)
+[](https://www.pinterest.de/pin/58476495131654514/) [Wassily Kandinsky](Category:Wassily_Kandinsky "Category:Wassily Kandinsky") - Schach-Theorie, 1937 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Evaluation**,
 
 a [heuristic function](<https://en.wikipedia.org/wiki/Heuristic_(computer_science)>) to determine the [relative value](Score "Score") of a [position](Chess_Position "Chess Position"), i.e. the chances of winning. If we could see to the end of the game in every line, the evaluation would only have values of -1 (loss), 0 (draw), and 1 (win), and the chess engine should search to depth 1 only to get the best move. In practice, however, we do not know the exact value of a position, so we must make an approximation with the main purpose is to compare positions, and the chess engine now must search deeply and find the highest score position within a given period.
@@ -14,7 +14,7 @@ Beginning chess players learn to do this starting with the [value](Point_Value "
 
 ## Where to Start
 
-The first thing to consider when writing an evaluation function is how to score a move in [Minimax](Minimax "Minimax") or the more common [NegaMax](Negamax "Negamax") framework. While Minimax usually associates the white side with the max-player and black with the min-player and always evaluates from the white point of view, NegaMax requires a symmetric evaluation in relation to the [side to move](Side_to_move "Side to move"). We can see that one must not score the move per se – but the result of the move (i.e. a positional evaluation of the board as a result of the move). Such a symmetric evaluation function was first formulated by [Claude Shannon](Claude_Shannon "Claude Shannon") in 1949 [[2]](#cite_note-2) :
+The first thing to consider when writing an evaluation function is how to score a move in [Minimax](Minimax "Minimax") or the more common [NegaMax](Negamax "Negamax") framework. While Minimax usually associates the white side with the max-player and black with the min-player and always evaluates from the white point of view, NegaMax requires a symmetric evaluation in relation to the [side to move](Side_to_move "Side to move"). We can see that one must not score the move per se – but the result of the move (i.e. a positional evaluation of the board as a result of the move). Such a symmetric evaluation function was first formulated by [Claude Shannon](Claude_Shannon "Claude Shannon") in 1949 <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
 
 ```C++
 
@@ -70,9 +70,9 @@ A function *f* is [linear](https://en.wikipedia.org/wiki/Linear) if the function
 and second if the function is [homogeneous](https://en.wikipedia.org/wiki/Homogeneous_function) of degree 1:
 
 [](File:EvalLinearFormula3.jpg)
-It depends on the definition and [independence](https://en.wikipedia.org/wiki/Linear_independence) of features and the acceptance of the [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) ([Ernst Zermelo](Ernst_Zermelo "Ernst Zermelo") 1904), whether additive real number functions are linear or not [[3]](#cite_note-3) . Features are either related to single pieces ([material](Material "Material")), their location ([piece-square tables](Piece-Square_Tables "Piece-Square Tables")), or more sophisticated, considering interactions of multiple pawns and pieces, based on certain [patterns](Evaluation_Patterns "Evaluation Patterns") or [chunks](Chunking "Chunking"). Often several phases to first process simple features and after building appropriate data structures, in consecutive phases more complex features based on patterns and chunks are used.
+It depends on the definition and [independence](https://en.wikipedia.org/wiki/Linear_independence) of features and the acceptance of the [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) ([Ernst Zermelo](Ernst_Zermelo "Ernst Zermelo") 1904), whether additive real number functions are linear or not <a id="cite-note-3" href="#cite-ref-3">[3]</a> . Features are either related to single pieces ([material](Material "Material")), their location ([piece-square tables](Piece-Square_Tables "Piece-Square Tables")), or more sophisticated, considering interactions of multiple pawns and pieces, based on certain [patterns](Evaluation_Patterns "Evaluation Patterns") or [chunks](Chunking "Chunking"). Often several phases to first process simple features and after building appropriate data structures, in consecutive phases more complex features based on patterns and chunks are used.
 
-Based on that, to distinguish [first-order](https://en.wikipedia.org/wiki/First-order), [second-order](https://en.wikipedia.org/wiki/Second-order), etc. terms, makes more sense than using the arbitrary terms linear vs. nonlinear evaluation [[4]](#cite_note-4) . With respect to [tuning](Automated_Tuning "Automated Tuning"), one has to take care that features are independent, which is not always that simple. Hidden dependencies may otherwise make the evaluation function hard to maintain with undesirable nonlinear effects.
+Based on that, to distinguish [first-order](https://en.wikipedia.org/wiki/First-order), [second-order](https://en.wikipedia.org/wiki/Second-order), etc. terms, makes more sense than using the arbitrary terms linear vs. nonlinear evaluation <a id="cite-note-4" href="#cite-ref-4">[4]</a> . With respect to [tuning](Automated_Tuning "Automated Tuning"), one has to take care that features are independent, which is not always that simple. Hidden dependencies may otherwise make the evaluation function hard to maintain with undesirable nonlinear effects.
 
 ## General Aspects
 
@@ -151,7 +151,7 @@ Based on that, to distinguish [first-order](https://en.wikipedia.org/wiki/First-
 
 ## 1960 ...
 
-- [Israel Albert Horowitz](https://en.wikipedia.org/wiki/Israel_Albert_Horowitz), [Geoffrey Mott-Smith](https://en.wikipedia.org/wiki/Mott-Smith_Trophy) (**1960,1970,2012**). *Point Count Chess*. [Samuel Reshevsky](https://en.wikipedia.org/wiki/Samuel_Reshevsky) (Introduction), [Sam Sloan](Sam_Sloan "Sam Sloan") (2012 Introduction), [Amazon](http://www.amazon.com/Point-Count-Chess-Accurate-Winning/dp/4871874699/ref=sr_1_2?s=books&ie=UTF8&qid=1366734801&sr=1-2) [[5]](#cite_note-5)
+- [Israel Albert Horowitz](https://en.wikipedia.org/wiki/Israel_Albert_Horowitz), [Geoffrey Mott-Smith](https://en.wikipedia.org/wiki/Mott-Smith_Trophy) (**1960,1970,2012**). *Point Count Chess*. [Samuel Reshevsky](https://en.wikipedia.org/wiki/Samuel_Reshevsky) (Introduction), [Sam Sloan](Sam_Sloan "Sam Sloan") (2012 Introduction), [Amazon](http://www.amazon.com/Point-Count-Chess-Accurate-Winning/dp/4871874699/ref=sr_1_2?s=books&ie=UTF8&qid=1366734801&sr=1-2) <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 - [Jack Good](Jack_Good "Jack Good") (**1968**). *A Five-Year Plan for Automatic Chess.* Machine Intelligence II pp. 110-115
 
 ## 1970 ...
@@ -184,9 +184,9 @@ Based on that, to distinguish [first-order](https://en.wikipedia.org/wiki/First-
 - [Ron Kalnim](index.php?title=Ron_Kalnim&action=edit&redlink=1 "Ron Kalnim (page does not exist)") (**1990**). *A Positional Assembly Model*. [ICCA Journal, Vol. 13, No. 3](ICGA_Journal#13_3 "ICGA Journal")
 - [Paul E. Utgoff](Paul_E._Utgoff "Paul E. Utgoff"), [Jeffery A. Clouse](http://dblp.uni-trier.de/pers/hd/c/Clouse:Jeffery_A=) (**1991**). *[Two Kinds of Training Information for Evaluation Function Learning](http://scholarworks.umass.edu/cs_faculty_pubs/193/)*. [University of Massachusetts, Amherst](https://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst), Proceedings of the AAAI 1991
 - [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1991**). *An Additive Evaluation Function in Chess.* [ICCA Journal, Vol. 14, No. 3](ICGA_Journal#14_3 "ICGA Journal")
-- [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1993**). *On Telescoping Linear Evaluation Functions.* [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal") [[6]](#cite_note-6)
+- [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") (**1993**). *On Telescoping Linear Evaluation Functions.* [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 - [Alois Heinz](Alois_Heinz "Alois Heinz"), [Christoph Hense](index.php?title=Christoph_Hense&action=edit&redlink=1 "Christoph Hense (page does not exist)") (**1993**). *[Bootstrap learning of α-β-evaluation functions](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.56.872)*. [ICCI 1993](http://dblp.uni-trier.de/db/conf/icci/icci1993.html#HeinzH93), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.872&rep=rep1&type=pdf)
-- [Alois Heinz](Alois_Heinz "Alois Heinz") (**1994**). *[Efficient Neural Net α-β-Evaluators](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.55.3994)*. [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.55.3994&rep=rep1&type=pdf) [[7]](#cite_note-7)
+- [Alois Heinz](Alois_Heinz "Alois Heinz") (**1994**). *[Efficient Neural Net α-β-Evaluators](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.55.3994)*. [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.55.3994&rep=rep1&type=pdf) <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 - [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz") (**1994**). *Konstruktion und Optimierung von Bewertungsfunktionen beim Schach.* Ph.D. Thesis (German)
 - [Don Beal](Don_Beal "Don Beal"), [Martin C. Smith](Martin_C._Smith "Martin C. Smith") (**1994**). *Random Evaluations in Chess*. [ICCA Journal, Vol. 17, No. 1](ICGA_Journal#17_1 "ICGA Journal")
 - [Yaakov HaCohen-Kerner](Yaakov_HaCohen-Kerner "Yaakov HaCohen-Kerner") (**1994**). *[Case-Based Evaluation in Computer Chess](http://www.springerlink.com/content/f5n27h25q4l920q8/)*. [EWCBR 1994](http://www.informatik.uni-trier.de/~ley/db/conf/ewcbr/ewcbr1994.html#Kerner94)
@@ -210,13 +210,13 @@ Based on that, to distinguish [first-order](https://en.wikipedia.org/wiki/First-
 - [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2011**). *[Mixing MCTS with Conventional Static Evaluation](http://www.aifactory.co.uk/newsletter/2011_02_mcts_static.htm)*. [AI Factory](AI_Factory "AI Factory"), Winter 2011 » [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search")
 - [Jeff Rollason](Jeff_Rollason "Jeff Rollason") (**2012**). *[Evaluation options - Overview of methods](http://www.aifactory.co.uk/newsletter/2012_01_evaluation_options.htm)*. [AI Factory](AI_Factory "AI Factory"), Summer 2012
 - [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov") (**2012**). *An Addendum to a Little Chess Evaluation Compendium*. [Addendum June 2012 pdf](http://www.winboardengines.de/doc/addendumlcec_2012.pdf), [File:Addendum2LCEC 2012.pdf](File:Addendum2LCEC_2012.pdf "File:Addendum2LCEC 2012.pdf"), [File:Addendum3LCEC 2012.pdf](File:Addendum3LCEC_2012.pdf "File:Addendum3LCEC 2012.pdf"), [Addendum 4 November 2012 pdf](http://www.winboardengines.de/doc/addendum4lcec_2012.pdf), [File:Addendum5LCEC 2012.pdf](File:Addendum5LCEC_2012.pdf "File:Addendum5LCEC 2012.pdf"), [File:Addendum6LCEC 2012.pdf](File:Addendum6LCEC_2012.pdf "File:Addendum6LCEC 2012.pdf")
-- [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov") (**2012**). *Little Chess Evaluation Compendium*. [July 2012 pdf](http://www.winboardengines.de/doc/LittleChessEvaluationCompendium.pdf) [[8]](#cite_note-8), [File:LittleChessEvaluationCompendium.pdf](File:LittleChessEvaluationCompendium.pdf "File:LittleChessEvaluationCompendium.pdf")
+- [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov") (**2012**). *Little Chess Evaluation Compendium*. [July 2012 pdf](http://www.winboardengines.de/doc/LittleChessEvaluationCompendium.pdf) <a id="cite-note-8" href="#cite-ref-8">[8]</a>, [File:LittleChessEvaluationCompendium.pdf](File:LittleChessEvaluationCompendium.pdf "File:LittleChessEvaluationCompendium.pdf")
 - [Derek Farren](index.php?title=Derek_Farren&action=edit&redlink=1 "Derek Farren (page does not exist)"), [Daniel Templeton](index.php?title=Daniel_Templeton&action=edit&redlink=1 "Daniel Templeton (page does not exist)"), [Meiji Wang](index.php?title=Meiji_Wang&action=edit&redlink=1 "Meiji Wang (page does not exist)") (**2013**). *Analysis of Networks in Chess*. Team 23, [Stanford University](Stanford_University "Stanford University"), [pdf](http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-023-final.pdf)
 
 ## 2015 ...
 
 - [Nera Nesic](index.php?title=Nera_Nesic&action=edit&redlink=1 "Nera Nesic (page does not exist)"), [Stephan Schiffel](Stephan_Schiffel "Stephan Schiffel") (**2016**). *Heuristic Function Evaluation Framework*. [CG 2016](CG_2016 "CG 2016")
-- [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov") (**2017**). *[The Secret of Chess](http://www.secretofchess.com/)*. [amazon](https://www.amazon.com/Secret-Chess-Lyudmil-Tsvetkov-ebook/dp/B074M85CVV) [[9]](#cite_note-9)
+- [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov") (**2017**). *[The Secret of Chess](http://www.secretofchess.com/)*. [amazon](https://www.amazon.com/Secret-Chess-Lyudmil-Tsvetkov-ebook/dp/B074M85CVV) <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 - [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov") (**2017**). *Pawns*. [amazon](https://www.amazon.com/Pawns-Lyudmil-Tsvetkov-ebook/dp/B074S2MYQV)
 
 ## Blog & Forum Posts
@@ -291,7 +291,7 @@ Based on that, to distinguish [first-order](https://en.wikipedia.org/wiki/First-
 - [eval scale in Houdini](http://www.talkchess.com/forum/viewtopic.php?t=46879) by [Rein Halbersma](Rein_Halbersma "Rein Halbersma"), [CCC](CCC "CCC"), January 14, 2013 » [Houdini](Houdini "Houdini")
 - [An idea of how to make your engine play more rational chess](http://www.talkchess.com/forum/viewtopic.php?t=46993) by [Pio Korinth](index.php?title=Pio_Korinth&action=edit&redlink=1 "Pio Korinth (page does not exist)"), [CCC](CCC "CCC"), January 25, 2013
 - [A Materialless Evaluation?](http://www.talkchess.com/forum/viewtopic.php?t=48252) by [Thomas Kolarik](Thomas_Kolarik "Thomas Kolarik"), [CCC](CCC "CCC"), June 12, 2013
-- [A different way of summing evaluation features](http://www.talkchess.com/forum/viewtopic.php?t=48644) by [Pio Korinth](index.php?title=Pio_Korinth&action=edit&redlink=1 "Pio Korinth (page does not exist)"), [CCC](CCC "CCC"), July 14, 2013 [[10]](#cite_note-10) [[11]](#cite_note-11)
+- [A different way of summing evaluation features](http://www.talkchess.com/forum/viewtopic.php?t=48644) by [Pio Korinth](index.php?title=Pio_Korinth&action=edit&redlink=1 "Pio Korinth (page does not exist)"), [CCC](CCC "CCC"), July 14, 2013 <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 - [Improve the search or the evaluation?](http://www.talkchess.com/forum/viewtopic.php?t=49190) by [Jens Bæk Nielsen](Jens_B%C3%A6k_Nielsen "Jens Bæk Nielsen"), [CCC](CCC "CCC"), August 31, 2013 » [Search versus Evaluation](Knowledge#SearchVersusEvaluation "Knowledge")
 - [Multiple EVAL](http://www.talkchess.com/forum/viewtopic.php?t=49421) by [Ed Schroder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), September 22, 2013
 - [floating point SSE eval](http://www.talkchess.com/forum/viewtopic.php?t=50472) by [Marco Belli](Marco_Belli "Marco Belli"), [CCC](CCC "CCC"), December 13, 2013 » [Float](Float "Float"), [Score](Score "Score")
@@ -352,7 +352,7 @@ Based on that, to distinguish [first-order](https://en.wikipedia.org/wiki/First-
 - [HCE and NNUE and vectorisation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=76556) by [Vivien Clauzon](Vivien_Clauzon "Vivien Clauzon"), [CCC](CCC "CCC"), February 11, 2021 » [NNUE](NNUE "NNUE"), [Minic](Minic "Minic")
 - [Idea: use range (evalMin - evalMax) for position evaluation](https://groups.google.com/g/lczero/c/TLCMkkdm1hw/m/erjTVGUqAQAJ) by Mirza Hadzic, [LCZero Forum](Computer_Chess_Forums "Computer Chess Forums"), April 6, 2021
 
-[Re: Idea: use range (evalMin - evalMax) for position evaluation](https://groups.google.com/g/lczero/c/TLCMkkdm1hw/m/SgbGghzhBAAJ) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [LCZero Forum](Computer_Chess_Forums "Computer Chess Forums"), May 28, 2021 [[12]](#cite_note-12)
+[Re: Idea: use range (evalMin - evalMax) for position evaluation](https://groups.google.com/g/lczero/c/TLCMkkdm1hw/m/SgbGghzhBAAJ) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [LCZero Forum](Computer_Chess_Forums "Computer Chess Forums"), May 28, 2021 <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 [Re: Idea: use range (evalMin - evalMax) for position evaluation](https://groups.google.com/g/lczero/c/TLCMkkdm1hw/m/F9JjnN8FBQAJ) by [Warren D. Smith](Warren_D._Smith "Warren D. Smith"), [LCZero Forum](Computer_Chess_Forums "Computer Chess Forums"), May 29, 2021
 
 - [I declare that HCE is dead...](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=77571) by [Andrew Grant](Andrew_Grant "Andrew Grant"), [CCC](CCC "CCC"), June 29, 2021 » [Ethereal](Ethereal "Ethereal"), [NNUE](NNUE "NNUE")
@@ -379,18 +379,18 @@ Based on that, to distinguish [first-order](https://en.wikipedia.org/wiki/First-
 
 ## References
 
-1. [↑](#cite_ref-1) [Vassily Kandinsky - Schach-Theorie | Art I love | Pinterest](https://www.pinterest.de/pin/58476495131654514/)
-1. [↑](#cite_ref-2) [Claude Shannon](Claude_Shannon "Claude Shannon") (**1949**). *[Programming a Computer for Playing Chess](http://www.pi.infn.it/%7Ecarosi/chess/shannon.txt)*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon.062303002.pdf)
-1. [↑](#cite_ref-3) [Re: Linear vs. Nonlinear Evaluation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=288501&t=29552) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), August 27, 2009
-1. [↑](#cite_ref-4) [Re: Linear vs. Nonlinear Evaluation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=288564&t=29552) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), August 27, 2009
-1. [↑](#cite_ref-5) [Re: Books that help for evaluation](https://www.stmintz.com/ccc/index.php?id=25046) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), August 18, 1998
-1. [↑](#cite_ref-6) [Re: Zappa Report](https://www.stmintz.com/ccc/index.php?id=475521) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CCC](CCC "CCC"), December 30, 2005
-1. [↑](#cite_ref-7) [Re: Evaluation by neural network ?](https://www.stmintz.com/ccc/index.php?id=11893) by [Jay Scott](Jay_Scott "Jay Scott"), [CCC](CCC "CCC"), November 10, 1997
-1. [↑](#cite_ref-8) [An Update of the Addendum to the LittleCompendium](http://www.talkchess.com/forum/viewtopic.php?t=44265) by [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov"), [CCC](CCC "CCC"), July 02, 2012
-1. [↑](#cite_ref-9) [The Secret of Chess](http://www.talkchess.com/forum/viewtopic.php?t=64776) by [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov"), [CCC](CCC "CCC"), August 01, 2017
-1. [↑](#cite_ref-10) [Euclidean distance from Wikipedia](https://en.wikipedia.org/wiki/Euclidean_distance)
-1. [↑](#cite_ref-11) [Principal component analysis from Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)
-1. [↑](#cite_ref-12) [Eric B. Baum](Eric_B._Baum "Eric B. Baum"), [Warren D. Smith](Warren_D._Smith "Warren D. Smith") (**1999**). *[Propagating Distributions Up Directed Acyclic Graphs](https://www.mitpressjournals.org/doi/abs/10.1162/089976699300016881?journalCode=neco)*. [Neural Computation](https://en.wikipedia.org/wiki/Neural_Computation_%28journal%29), Vol. 11, No. 1
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Vassily Kandinsky - Schach-Theorie | Art I love | Pinterest](https://www.pinterest.de/pin/58476495131654514/)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Claude Shannon](Claude_Shannon "Claude Shannon") (**1949**). *[Programming a Computer for Playing Chess](http://www.pi.infn.it/%7Ecarosi/chess/shannon.txt)*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon.062303002.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Re: Linear vs. Nonlinear Evaluation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=288501&t=29552) by [Tord Romstad](Tord_Romstad "Tord Romstad"), [CCC](CCC "CCC"), August 27, 2009
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Linear vs. Nonlinear Evaluation](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=288564&t=29552) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), August 27, 2009
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Re: Books that help for evaluation](https://www.stmintz.com/ccc/index.php?id=25046) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), August 18, 1998
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Zappa Report](https://www.stmintz.com/ccc/index.php?id=475521) by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer"), [CCC](CCC "CCC"), December 30, 2005
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Re: Evaluation by neural network ?](https://www.stmintz.com/ccc/index.php?id=11893) by [Jay Scott](Jay_Scott "Jay Scott"), [CCC](CCC "CCC"), November 10, 1997
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [An Update of the Addendum to the LittleCompendium](http://www.talkchess.com/forum/viewtopic.php?t=44265) by [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov"), [CCC](CCC "CCC"), July 02, 2012
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [The Secret of Chess](http://www.talkchess.com/forum/viewtopic.php?t=64776) by [Lyudmil Tsvetkov](Lyudmil_Tsvetkov "Lyudmil Tsvetkov"), [CCC](CCC "CCC"), August 01, 2017
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Euclidean distance from Wikipedia](https://en.wikipedia.org/wiki/Euclidean_distance)
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Principal component analysis from Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Eric B. Baum](Eric_B._Baum "Eric B. Baum"), [Warren D. Smith](Warren_D._Smith "Warren D. Smith") (**1999**). *[Propagating Distributions Up Directed Acyclic Graphs](https://www.mitpressjournals.org/doi/abs/10.1162/089976699300016881?journalCode=neco)*. [Neural Computation](https://en.wikipedia.org/wiki/Neural_Computation_%28journal%29), Vol. 11, No. 1
 
 **[Up one level](Home "Home")**
 

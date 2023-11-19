@@ -3,10 +3,10 @@ title: Herbert Simon
 ---
 **[Home](Home "Home") * [People](People "People") * Herbert Simon**
 
-[](http://diva.library.cmu.edu/Simon/contents.html) Herbert A. Simon [[1]](#cite_note-1)
+[](http://diva.library.cmu.edu/Simon/contents.html) Herbert A. Simon <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Herbert Alexander Simon**, (June 15, 1916 – February 9, 2001)
 
-was an American scientist and [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") pioneer, [economist](https://en.wikipedia.org/wiki/Economist), [psychologist](Category:Psychologist "Category:Psychologist"), and professor, most notably, at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), which became an important center of AI and computer chess, associated with names like [Hans Berliner](Hans_Berliner "Hans Berliner"), [Carl Ebeling](Carl_Ebeling "Carl Ebeling"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [Murray Campbell](Murray_Campbell "Murray Campbell") and the computers [HiTech](HiTech "HiTech") and [Deep Thought](Deep_Thought "Deep Thought"). Herbert Simon received many top-level honors, most notably the [Turing Award](https://en.wikipedia.org/wiki/Turing_Award) (with [Allen Newell](Allen_Newell "Allen Newell")) (1975) for his AI-contributions [[2]](#cite_note-2) and the [Nobel Memorial Prize in Economics](https://en.wikipedia.org/wiki/Nobel_Prize_in_Economics) for his pioneering research into the decision-making process within economic organizations (1978) [[3]](#cite_note-3).
+was an American scientist and [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") pioneer, [economist](https://en.wikipedia.org/wiki/Economist), [psychologist](Category:Psychologist "Category:Psychologist"), and professor, most notably, at [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), which became an important center of AI and computer chess, associated with names like [Hans Berliner](Hans_Berliner "Hans Berliner"), [Carl Ebeling](Carl_Ebeling "Carl Ebeling"), [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu"), [Murray Campbell](Murray_Campbell "Murray Campbell") and the computers [HiTech](HiTech "HiTech") and [Deep Thought](Deep_Thought "Deep Thought"). Herbert Simon received many top-level honors, most notably the [Turing Award](https://en.wikipedia.org/wiki/Turing_Award) (with [Allen Newell](Allen_Newell "Allen Newell")) (1975) for his AI-contributions <a id="cite-note-2" href="#cite-ref-2">[2]</a> and the [Nobel Memorial Prize in Economics](https://en.wikipedia.org/wiki/Nobel_Prize_in_Economics) for his pioneering research into the decision-making process within economic organizations (1978) <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 ## Photos
 
@@ -15,14 +15,14 @@ In the late 1950s, [Carnegie Mellon University](Carnegie_Mellon_University "Carn
 
 together with [Cliff Shaw](Cliff_Shaw "Cliff Shaw") (not shown) at the [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation), were early pioneers in the field of
 
-artificial intelligence and chess software. The [NSS](NSS "NSS") program ran on the [Johnniac](https://en.wikipedia.org/wiki/JOHNNIAC) computer ... [[4]](#cite_note-4)
+artificial intelligence and chess software. The [NSS](NSS "NSS") program ran on the [Johnniac](https://en.wikipedia.org/wiki/JOHNNIAC) computer ... <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 [](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f64def7)
-Herbert Simon [[5]](#cite_note-5)
+Herbert Simon <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ## NSS
 
-In the [late 50s](Timeline#1958 "Timeline"), [Allen Newell](Allen_Newell "Allen Newell"), [Cliff Shaw](Cliff_Shaw "Cliff Shaw"), and Herbert Simon developed the chess program [NSS](NSS "NSS"). It was written in a high-level language. With Allen Newell, Herbert Simon was inventor of the [alpha-beta algorithm](Alpha-Beta "Alpha-Beta") - which was independently invented by [John McCarthy](John_McCarthy "John McCarthy"), [Arthur Samuel](Arthur_Samuel "Arthur Samuel") and [Alexander Brudno](Alexander_Brudno "Alexander Brudno"). In 1957 Herbert Simon said that within 10 years, a digital computer would be the world's chess champion [[6]](#cite_note-6).
+In the [late 50s](Timeline#1958 "Timeline"), [Allen Newell](Allen_Newell "Allen Newell"), [Cliff Shaw](Cliff_Shaw "Cliff Shaw"), and Herbert Simon developed the chess program [NSS](NSS "NSS"). It was written in a high-level language. With Allen Newell, Herbert Simon was inventor of the [alpha-beta algorithm](Alpha-Beta "Alpha-Beta") - which was independently invented by [John McCarthy](John_McCarthy "John McCarthy"), [Arthur Samuel](Arthur_Samuel "Arthur Samuel") and [Alexander Brudno](Alexander_Brudno "Alexander Brudno"). In 1957 Herbert Simon said that within 10 years, a digital computer would be the world's chess champion <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
 ## Quotes
 
@@ -37,7 +37,7 @@ Chess programs catch some of the human chess playing abilities but rely on the l
 
 ## Hans Berliner
 
-[Hans Berliner](Hans_Berliner "Hans Berliner") in *A Life's Appraisal* [[7]](#cite_note-7) :
+[Hans Berliner](Hans_Berliner "Hans Berliner") in *A Life's Appraisal* <a id="cite-note-7" href="#cite-ref-7">[7]</a> :
 
 ```C++
 Herbert Simon thought of himself as a Renaissance man. He was involved in many enterprises, and had a knack for appearing at or near the top in most of them. In 1978, he received a Nobel Prize in economics for nearly forgotten work he had done decades before, and he slept in unheated barracks in China and learned to read Chinese in order to acquaint himself with the Mainland way of doing things while offering what he could.
@@ -81,7 +81,7 @@ Herb Simon's role in all this is not at all clear. He was always there to discus
 
 ## George W. Baylor
 
-[George W. Baylor's](George_Baylor "George Baylor") Remembrance on Herbert A. Simon [[8]](#cite_note-8) :
+[George W. Baylor's](George_Baylor "George Baylor") Remembrance on Herbert A. Simon <a id="cite-note-8" href="#cite-ref-8">[8]</a> :
 
 ```C++
  Herb Simon has been such a towering influence and determining force in my life that it is hard to imagine what my life would have been like without him. It was in 1959-60, as a sophomore at Carnegie Institute of Technology, that I first met "Dr. Simon." I mainly played chess, but he and Allen Newell, were programming computers to play chess. I believe we played some games together and I beat him. He said that my "program" was better than his. Then he hired me as a summer research assistant to work on chess machines! A year or two later he sent me to Amsterdam to help translate [Adriaan de Groot's](Adriaan_de_Groot "Adriaan de Groot") book on the thought processes of the chess player. When I returned, he directed my master's thesis on a [mating combinations program](Mater "Mater"), which he had already begun with his son, Pete. Like a clever father, he subtly transformed me from an aspiring chess professional - though, more likely, impoverished chess bum - into a cognitive psychologist. He also directed my doctoral dissertation, a computer simulation of some visual mental imagery tasks, though I knew he would have preferred me to continue working on chess. He was stuck with his prediction that a computer would beat the world chess champion within ten years - it took 40. But sons must differentiate themselves from their fathers, mustn't they? 
@@ -100,7 +100,7 @@ Thirty years later, in 1997-98, I returned to Carnegie-Mellon University to do a
 
 ## Fernand Gobet
 
-[Fernand Gobet's](Fernand_Gobet "Fernand Gobet") Remembrance on Herbert A. Simon [[9]](#cite_note-9) :
+[Fernand Gobet's](Fernand_Gobet "Fernand Gobet") Remembrance on Herbert A. Simon <a id="cite-note-9" href="#cite-ref-9">[9]</a> :
 
 ```C++
 "What new data do we have about chess today?" Herb would often ask at the beginning of our almost weekly meetings, which lasted from 1990 to 1995. He was immensely curious to learn about new phenomena, and had an obvious pleasure to analyse data, always looking for hidden patterns and better representations; as many of us have learned, Herb was outstanding at making sense out of complex data sets.
@@ -150,17 +150,17 @@ He was exigent and expected his collaborators to share his passion for work. But
 
 ## A Remarkable Autobiography of the Nobel Prize Winning Social Scientist and Father of Artificial Intelligence. Selected Publications
 
-[[10]](#cite_note-10) [[11]](#cite_note-11) [[12]](#cite_note-12) [[13]](#cite_note-13) [[14]](#cite_note-14)
+<a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 ## 1956 ...
 
 - [Allen Newell](Allen_Newell "Allen Newell"), Herbert Simon (**1956**). *[The logic theory machine-A complex information processing system](http://www.manhattanrarebooks-science.com/newell.htm)*. [IRE Transactions on Information Theory, Vol. 2](http://www.informatik.uni-trier.de/~ley/db/journals/tit/tit2n.html#NewellS56), No. 3
 - [Allen Newell](Allen_Newell "Allen Newell"), [Cliff Shaw](Cliff_Shaw "Cliff Shaw"), Herbert Simon (**1958**). *Chess Playing Programs and the Problem of Complexity*. IBM Journal of Research and Development, Vol. 4, No. 2, pp. 320-335. Reprinted (1963) in [Computers and Thought](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=6685) (eds. [Edward Feigenbaum](Edward_Feigenbaum "Edward Feigenbaum") and [Julian Feldman](Mathematician#JulianFeldman "Mathematician")), pp. 39-70. McGraw-Hill, New York, N.Y. [pdf](http://aitopics.org/sites/default/files/classic/Feigenbaum_Feldman/C&T-Newll-Shaw-Simon.pdf)
-- [Allen Newell](Allen_Newell "Allen Newell"), [Cliff Shaw](Cliff_Shaw "Cliff Shaw"), Herbert Simon (**1959**). *Report on a general problem-solving program*. Proceedings of the International Conference on Information Processing, pp. 256-264 [[15]](#cite_note-15)
+- [Allen Newell](Allen_Newell "Allen Newell"), [Cliff Shaw](Cliff_Shaw "Cliff Shaw"), Herbert Simon (**1959**). *Report on a general problem-solving program*. Proceedings of the International Conference on Information Processing, pp. 256-264 <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 ## 1960 ...
 
-[[16]](#cite_note-16)
+<a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 - [Edward Feigenbaum](Edward_Feigenbaum "Edward Feigenbaum"), Herbert Simon (**1961**). *Performance of a Reading Task by an Elementary Perceiving and Memorizing Program*. [RAND Paper](https://en.wikipedia.org/wiki/RAND_Corporation), [pdf](http://www.rand.org/content/dam/rand/pubs/papers/2008/P2358.pdf)
 - [Edward Feigenbaum](Edward_Feigenbaum "Edward Feigenbaum"), Herbert Simon (**1961**). *[Forgetting in an association memory](http://dl.acm.org/citation.cfm?id=800029.808503&coll=DL&dl=GUIDE&CFID=111335796&CFTOKEN=62851440)*. ACM '61, [pdf](http://www.rand.org/content/dam/rand/pubs/papers/2008/P2311.pdf)
@@ -176,22 +176,22 @@ He was exigent and expected his collaborators to share his passion for work. But
 
 ## 1970 ...
 
-[[17]](#cite_note-17)
+<a id="cite-note-17" href="#cite-ref-17">[17]</a>
 
 - [Allen Newell](Allen_Newell "Allen Newell"), Herbert Simon (**1972**). *Human Problem Solving*. [Prentice-Hall](https://en.wikipedia.org/wiki/Prentice_Hall)
 - Herbert Simon, [Laurent Siklóssy](index.php?title=Laurent_Sikl%C3%B3ssy&action=edit&redlink=1 "Laurent Siklóssy (page does not exist)") (eds.) (**1972**). *Representation and Meaning: Experiments with Information Processing Systems*. [Prentice-Hall](https://en.wikipedia.org/wiki/Prentice_Hall)
 - Herbert Simon (**1973**). *Lessons from Perception for Chess-Playing Programs (and Vice Versa)*. Computer Science Research Review 1972-73, [pdf](http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=33779)
 - [William Chase](William_Chase "William Chase"), Herbert Simon (**1973**). *[The Mind’s Eye in Chess](http://psycnet.apa.org/psycinfo/1974-08328-004)*. Visual Information Processing: Proceedings of the Eighth Annual Carnegie Psychology Symposium (ed. W. G. Chase), pp. 215-281. Academic Press, New York. Reprinted (**1988**) in Readings in Cognitive Science (ed. A.M. Collins). Morgan Kaufmann, San Mateo, CA.
-- [William Chase](William_Chase "William Chase"), Herbert Simon (**1973**). *[Perception in chess](http://www.sciencedirect.com/science/article/pii/0010028573900042)*. [Cognitive Psychology](<https://en.wikipedia.org/wiki/Cognitive_Psychology_(journal)>), Vol. 4, No. 1, [pdf](http://matt.colorado.edu/teaching/highcog/fall8/cs73.pdf) [[18]](#cite_note-18)
+- [William Chase](William_Chase "William Chase"), Herbert Simon (**1973**). *[Perception in chess](http://www.sciencedirect.com/science/article/pii/0010028573900042)*. [Cognitive Psychology](<https://en.wikipedia.org/wiki/Cognitive_Psychology_(journal)>), Vol. 4, No. 1, [pdf](http://matt.colorado.edu/teaching/highcog/fall8/cs73.pdf) <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 - Herbert Simon, [William Chase](William_Chase "William Chase") (**1973**). *Skill in Chess*. [American Scientist](https://en.wikipedia.org/wiki/American_Scientist), Vol. 61, No. 4, Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), [pdf](http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=44582)
 - Herbert Simon, [Kevin J. Gilmartin](Kevin_J._Gilmartin "Kevin J. Gilmartin") (**1973**). *[A Simulation of Memory for Chess Positions](https://psycnet.apa.org/record/1974-08458-001)*. [Cognitive Psychology](<https://en.wikipedia.org/wiki/Cognitive_Psychology_(journal)>), Vol. 5, No. 1, reprinted in Herbert Simon (**1979**). *[Models of Thought](https://yalebooks.yale.edu/book/9780300024326/models-thought)*, [Yale University Press](https://en.wikipedia.org/wiki/Yale_University_Press)
 - Herbert Simon (**1974**). *How big is a chunk*? [Science](https://en.wikipedia.org/wiki/Science_%28journal%29), Vol. 183, [pdf](http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=44527)
-- [Allen Newell](Allen_Newell "Allen Newell"), Herbert Simon (**1976**). *[Computer Science as Empirical Inquiry: Symbols and Search](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f691642)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 19, No. 3, [ACM Turing Award](ACM#ACMTuringAward "ACM") Lecture, [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/2-3.Computer_science_as_empirical_inquiry/2-3.Computer_science_as_empirical_inquiry.newell_simon.1975.ACM.062303007.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") [[19]](#cite_note-19)
+- [Allen Newell](Allen_Newell "Allen Newell"), Herbert Simon (**1976**). *[Computer Science as Empirical Inquiry: Symbols and Search](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f691642)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 19, No. 3, [ACM Turing Award](ACM#ACMTuringAward "ACM") Lecture, [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/2-3.Computer_science_as_empirical_inquiry/2-3.Computer_science_as_empirical_inquiry.newell_simon.1975.ACM.062303007.pdf) from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum") <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 - Herbert A. Simon (**1979**). *[Models of Thought](https://yalebooks.yale.edu/book/9780300024326/models-thought)*. [Yale University Press](https://en.wikipedia.org/wiki/Yale_University_Press)
 
 ## 1980 ...
 
-[[20]](#cite_note-20)
+<a id="cite-note-20" href="#cite-ref-20">[20]</a>
 
 - Herbert Simon (**1980**). *Cognitive Science: The Newest Science of the Artificial*. [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_Science_Society#Journals_published_by_the_Cognitive_Science_Society), Vol. 4, No. 1
 - Herbert Simon (**1981**). *Prometheus or Pandora: The Influence of Automation on Society*. [IEEE Computer](IEEE#Computer "IEEE"), Vol. 14, No. 11
@@ -203,7 +203,7 @@ He was exigent and expected his collaborators to share his passion for work. But
 
 ## 1990 ...
 
-[[21]](#cite_note-21)
+<a id="cite-note-21" href="#cite-ref-21">[21]</a>
 
 - Herbert Simon (**1991**). *Artificial Intelligence: Where Has It Been, Where is it Going*? [IEEE Transactions on Knowledge and Data Engineering](IEEE#TKDE "IEEE"), Vol. 3, No. 2
 - Herbert A. Simon (**1991**). *[Models of my Life](http://dl.acm.org/citation.cfm?id=102750)*. [Basic Books](https://en.wikipedia.org/wiki/Basic_Books), New York, N.Y.
@@ -219,11 +219,11 @@ He was exigent and expected his collaborators to share his passion for work. But
 - [Fernand Gobet](Fernand_Gobet "Fernand Gobet"), [Howard B. Richman](index.php?title=Howard_B._Richman&action=edit&redlink=1 "Howard B. Richman (page does not exist)"), [James J. Staszewski](index.php?title=James_J._Staszewski&action=edit&redlink=1 "James J. Staszewski (page does not exist)"), Herbert Simon (**1997**). *Goals, Representations, and Strategies in a Concept Attainment Task: The EPAM model*. The Psychology of Learning and Motivation, Vol. 37, [pdf](http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=34259)
 - [Yasser Seirawan](https://en.wikipedia.org/wiki/Yasser_Seirawan), Herbert Simon, [Toshinori Munakata](Toshinori_Munakata "Toshinori Munakata") (**1997**). *[The Implications of Kasparov vs. Deep Blue](http://dl.acm.org/citation.cfm?id=257878)*. [Communications of the ACM](ACM#Communications "ACM"), Vol. 40, No. 8, [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/5-4.The_implications_of_deep_blue_vs_kasparov/5-4.The_implications_of_deep_blue_vs_kasparov.simon_seirawan.1997.ACM.062303057.sm.pdf) hosted from [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 - [Fernand Gobet](Fernand_Gobet "Fernand Gobet"), Herbert Simon (**1998**). *Expert chess memory: Revisiting the chunking hypothesis.* Memory, 6, 225-255
-- [Fernand Gobet](Fernand_Gobet "Fernand Gobet"), Herbert Simon (**1998**). *Pattern recognition makes search possible: Comments on Holding (1992)*. Psychological Research, Vol. 61, [pdf](http://v-scheiner.brunel.ac.uk/bitstream/2438/816/1/Paper_on_Holding.pdf) [[22]](#cite_note-22)
+- [Fernand Gobet](Fernand_Gobet "Fernand Gobet"), Herbert Simon (**1998**). *Pattern recognition makes search possible: Comments on Holding (1992)*. Psychological Research, Vol. 61, [pdf](http://v-scheiner.brunel.ac.uk/bitstream/2438/816/1/Paper_on_Holding.pdf) <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 
 ## 2000 ...
 
-[[23]](#cite_note-23)
+<a id="cite-note-23" href="#cite-ref-23">[23]</a>
 
 - [Fernand Gobet](Fernand_Gobet "Fernand Gobet"), Herbert Simon (**2000**). *[Five Seconds or Sixty? Presentation Time in Expert Memory](http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog2404_4/abstract)*. [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_Science_Society), Vol. 24, No. 4
 - [Hans Berliner](Hans_Berliner "Hans Berliner") (**2001**). *[HERBERT A. SIMON (1916-2001): A LIFE'S APPRAISAL](http://ilk.uvt.nl/icga/journal/contents/content24-1.htm#HERBERT%20A.%20SIMON)*, [ICCA Journal, Vol. 24, No. 1](ICGA_Journal#24_1 "ICGA Journal")
@@ -246,29 +246,29 @@ He was exigent and expected his collaborators to share his passion for work. But
 
 ## References
 
-1. [↑](#cite_ref-1) \[Herbert Simon Collection - Contents [Carnegie Mellon Libraries](http://diva.library.cmu.edu/Simon/contents.html)\]
-1. [↑](#cite_ref-2)  [Herbert A. Simon - A.M. Turing Award Winner](http://amturing.acm.org/award_winners/simon_1031467.cfm)
-1. [↑](#cite_ref-3)  [Herbert A. Simon - Biographical](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1978/simon-bio.html)
-1. [↑](#cite_ref-4) [Aritificial Intelligence pioneers Allen Newell (right) and Herbert Simon 1958](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a07cf7a1) Courtesy of [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. [↑](#cite_ref-5) [Herbert Simon 1958 ca.](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f64def7) Courtesy of [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-1. [↑](#cite_ref-6) Computer Chess History by [Bill Wall](index.php?title=Bill_Wall&action=edit&redlink=1 "Bill Wall (page does not exist)")
-1. [↑](#cite_ref-7) [Hans Berliner](Hans_Berliner "Hans Berliner") (**2001**). *[HERBERT A. SIMON (1916-2001): A LIFE'S APPRAISAL](http://ilk.uvt.nl/icga/journal/contents/content24-1.htm#HERBERT%20A.%20SIMON)*, [ICCA Journal, Vol. 24, No. 1](ICGA_Journal#24_1 "ICGA Journal")
-1. [↑](#cite_ref-8) [All Remembrance of Herbert A. Simon](http://www.cs.cmu.edu/simon/all.html)
-1. [↑](#cite_ref-9) [All Remembrance of Herbert A. Simon](http://www.cs.cmu.edu/simon/all.html)
-1. [↑](#cite_ref-10) [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
-1. [↑](#cite_ref-11) [dblp: Herbert A. Simon](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Simon:Herbert_A=.html)
-1. [↑](#cite_ref-12) [Herbert Simon - Google Scholar Citations](http://scholar.google.com/citations?user=9d7rMrkAAAAJ&hl=en)
-1. [↑](#cite_ref-13) [Bibliography of Herbert A. Simon -- 1930-1950's](http://www.psy.cmu.edu/psy/faculty/hsimon/HSBib-1930-1950.html)
-1. [↑](#cite_ref-14) [dblp: Herbert A. Simon](http://dblp.uni-trier.de/pers/hd/s/Simon:Herbert_A=)
-1. [↑](#cite_ref-15) [General Problem Solver from Wikipedia](https://en.wikipedia.org/wiki/General_Problem_Solver)
-1. [↑](#cite_ref-16) [Bibliography of Herbert A. Simon - 1960's](http://www.psy.cmu.edu/psy/faculty/hsimon/HSBib-1960.html)
-1. [↑](#cite_ref-17) [Bibliography of Herbert A. Simon - 1970's](http://www.psy.cmu.edu/psy/faculty/hsimon/HSBib-1970.html)
-1. [↑](#cite_ref-18) [The Human Intuition Project: Chase and Simon (1973) Perception in chess, Cognitive Psychology 4:55-81. A scientific blunder](http://www.capyblanca.com/2007/10/chase-and-simon-1973-perception-in.html) by [Alexandre Linhares](index.php?title=Alexandre_Linhares&action=edit&redlink=1 "Alexandre Linhares (page does not exist)"), October 01, 2007
-1. [↑](#cite_ref-19) [Physical symbol system from Wikipedia](https://en.wikipedia.org/wiki/Physical_symbol_system)
-1. [↑](#cite_ref-20) [Bibliography of Herbert A. Simon - 1980's](http://www.psy.cmu.edu/psy/faculty/hsimon/HSBib-1980.html)
-1. [↑](#cite_ref-21) [Bibliography of Herbert A. Simon - 1990's](http://www.psy.cmu.edu/psy/faculty/hsimon/HSBib-1990.html)
-1. [↑](#cite_ref-22) [Dennis H. Holding](index.php?title=Dennis_H._Holding&action=edit&redlink=1 "Dennis H. Holding (page does not exist)") (**1992**). *Theories of Chess Skill*. Psychological Research, Vol. 54, No. 1
-1. [↑](#cite_ref-23) [Bibliography of Herbert A. Simon - 2000-](http://www.psy.cmu.edu/psy/faculty/hsimon/HSBib-2000.html)
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> \[Herbert Simon Collection - Contents [Carnegie Mellon Libraries](http://diva.library.cmu.edu/Simon/contents.html)\]
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a>  [Herbert A. Simon - A.M. Turing Award Winner](http://amturing.acm.org/award_winners/simon_1031467.cfm)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a>  [Herbert A. Simon - Biographical](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1978/simon-bio.html)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Aritificial Intelligence pioneers Allen Newell (right) and Herbert Simon 1958](http://www.computerhistory.org/chess/full_record.php?iid=stl-431e1a07cf7a1) Courtesy of [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Herbert Simon 1958 ca.](http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f64def7) Courtesy of [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> Computer Chess History by [Bill Wall](index.php?title=Bill_Wall&action=edit&redlink=1 "Bill Wall (page does not exist)")
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Hans Berliner](Hans_Berliner "Hans Berliner") (**2001**). *[HERBERT A. SIMON (1916-2001): A LIFE'S APPRAISAL](http://ilk.uvt.nl/icga/journal/contents/content24-1.htm#HERBERT%20A.%20SIMON)*, [ICCA Journal, Vol. 24, No. 1](ICGA_Journal#24_1 "ICGA Journal")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [All Remembrance of Herbert A. Simon](http://www.cs.cmu.edu/simon/all.html)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [All Remembrance of Herbert A. Simon](http://www.cs.cmu.edu/simon/all.html)
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [ICGA Reference Database](ICGA_Journal#RefDB "ICGA Journal")
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [dblp: Herbert A. Simon](http://www.informatik.uni-trier.de/~ley/pers/hd/s/Simon:Herbert_A=.html)
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Herbert Simon - Google Scholar Citations](http://scholar.google.com/citations?user=9d7rMrkAAAAJ&hl=en)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Bibliography of Herbert A. Simon -- 1930-1950's](http://www.psy.cmu.edu/psy/faculty/hsimon/HSBib-1930-1950.html)
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [dblp: Herbert A. Simon](http://dblp.uni-trier.de/pers/hd/s/Simon:Herbert_A=)
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [General Problem Solver from Wikipedia](https://en.wikipedia.org/wiki/General_Problem_Solver)
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Bibliography of Herbert A. Simon - 1960's](http://www.psy.cmu.edu/psy/faculty/hsimon/HSBib-1960.html)
+1. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Bibliography of Herbert A. Simon - 1970's](http://www.psy.cmu.edu/psy/faculty/hsimon/HSBib-1970.html)
+1. <a id="cite-ref-18" href="#cite-note-18">↑</a> [The Human Intuition Project: Chase and Simon (1973) Perception in chess, Cognitive Psychology 4:55-81. A scientific blunder](http://www.capyblanca.com/2007/10/chase-and-simon-1973-perception-in.html) by [Alexandre Linhares](index.php?title=Alexandre_Linhares&action=edit&redlink=1 "Alexandre Linhares (page does not exist)"), October 01, 2007
+1. <a id="cite-ref-19" href="#cite-note-19">↑</a> [Physical symbol system from Wikipedia](https://en.wikipedia.org/wiki/Physical_symbol_system)
+1. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Bibliography of Herbert A. Simon - 1980's](http://www.psy.cmu.edu/psy/faculty/hsimon/HSBib-1980.html)
+1. <a id="cite-ref-21" href="#cite-note-21">↑</a> [Bibliography of Herbert A. Simon - 1990's](http://www.psy.cmu.edu/psy/faculty/hsimon/HSBib-1990.html)
+1. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Dennis H. Holding](index.php?title=Dennis_H._Holding&action=edit&redlink=1 "Dennis H. Holding (page does not exist)") (**1992**). *Theories of Chess Skill*. Psychological Research, Vol. 54, No. 1
+1. <a id="cite-ref-23" href="#cite-note-23">↑</a> [Bibliography of Herbert A. Simon - 2000-](http://www.psy.cmu.edu/psy/faculty/hsimon/HSBib-2000.html)
 
 **[Up one level](People "People")**
 

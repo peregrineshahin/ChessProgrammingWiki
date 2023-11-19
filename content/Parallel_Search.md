@@ -5,7 +5,7 @@ title: Parallel Search
 
 
 
- [](http://www.drdobbs.com/high-performance-computing/206903306) Parallel scalability [[1]](#cite_note-1) 
+ [](http://www.drdobbs.com/high-performance-computing/206903306) Parallel scalability <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Parallel Search**,   
 
 also known as **Multithreaded Search** or [SMP](SMP "SMP") Search, is a way to increase [search](Search "Search") speed by using additional [processors](https://en.wikipedia.org/wiki/Central_Processing_Unit). This topic that has been gaining popularity recently with [multiprocessor](https://en.wikipedia.org/wiki/Multiprocessing) computers becoming widely available. Utilizing these additional processors is an interesting domain of research, as traversing a search tree is inherently serial. Several approaches have been devised, with the most popular today being [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") and [Shared Hash Table](Shared_Hash_Table "Shared Hash Table") aka [Lazy SMP](Lazy_SMP "Lazy SMP").
@@ -32,7 +32,7 @@ This technique is a very simple approach to [SMP](SMP "SMP"). The implementation
 *see Home: [Lazy SMP](Lazy_SMP "Lazy SMP")*
 
 
-Recent improvements by [Daniel Homan](Daniel_Homan "Daniel Homan") [[2]](#cite_note-2) , [Martin Sedlak](Martin_Sedlak "Martin Sedlak") [[3]](#cite_note-3) and others on **Lazy** SMP indicate that the algorithm scales quite well up to 8 cores and beyond [[4]](#cite_note-4) .
+Recent improvements by [Daniel Homan](Daniel_Homan "Daniel Homan") <a id="cite-note-2" href="#cite-ref-2">[2]</a> , [Martin Sedlak](Martin_Sedlak "Martin Sedlak") <a id="cite-note-3" href="#cite-ref-3">[3]</a> and others on **Lazy** SMP indicate that the algorithm scales quite well up to 8 cores and beyond <a id="cite-note-4" href="#cite-ref-4">[4]</a> .
 
 
 
@@ -42,7 +42,7 @@ Recent improvements by [Daniel Homan](Daniel_Homan "Daniel Homan") [[2]](#cite_n
 *see Home: [ABDADA](ABDADA "ABDADA")*
 
 
-[ABDADA](ABDADA "ABDADA"), Alpha-Bêta Distribué avec Droit d'Aînesse (Distributed Alpha-Beta Search with Eldest Son Right) is a loosely synchronized, distributed search algorithm by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") [[5]](#cite_note-5) . It is based on the [Shared Hash Table](Shared_Hash_Table "Shared Hash Table"), and adds the number of processors searching this node inside the hash-table entry for better utilization - considering the [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept").
+[ABDADA](ABDADA "ABDADA"), Alpha-Bêta Distribué avec Droit d'Aînesse (Distributed Alpha-Beta Search with Eldest Son Right) is a loosely synchronized, distributed search algorithm by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") <a id="cite-note-5" href="#cite-ref-5">[5]</a> . It is based on the [Shared Hash Table](Shared_Hash_Table "Shared Hash Table"), and adds the number of processors searching this node inside the hash-table entry for better utilization - considering the [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept").
 
 
 
@@ -63,20 +63,20 @@ In Principal Variation Splitting (PVS), each [node](Node "Node") is expressed by
 
 
  [](File:PVSplit.JPG) 
-PV Splitting [[6]](#cite_note-6)
+PV Splitting <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 
 
 ### YBWC and Jamboree
 
 
-The idea in [Feldmann's](Rainer_Feldmann "Rainer Feldmann") [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") (YBWC) [[7]](#cite_note-7) [[8]](#cite_note-8) as well in [Kuszmaul's](Bradley_Kuszmaul "Bradley Kuszmaul") [Jamboree Search](Jamboree "Jamboree") [[9]](#cite_note-9) [[10]](#cite_note-10) [[11]](#cite_note-11) , is to search the first sibling node first before spawning the remaining siblings in parallel. This is based on the observations that the first move is either going to produce a cutoff (in which case processing sibling nodes is wasted effort) or return much better bounds. If the first move does not produce a cut-off, then the remaining moves are searched in parallel. This process is [recursive](Recursion "Recursion").
+The idea in [Feldmann's](Rainer_Feldmann "Rainer Feldmann") [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept") (YBWC) <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> as well in [Kuszmaul's](Bradley_Kuszmaul "Bradley Kuszmaul") [Jamboree Search](Jamboree "Jamboree") <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a> , is to search the first sibling node first before spawning the remaining siblings in parallel. This is based on the observations that the first move is either going to produce a cutoff (in which case processing sibling nodes is wasted effort) or return much better bounds. If the first move does not produce a cut-off, then the remaining moves are searched in parallel. This process is [recursive](Recursion "Recursion").
 
 
 Since the number of processors is not infinite the process of "spawning" work normally consists in putting it on some kind of "work to be done stack" where processors are free to grab work in FIFO fashion when there is no work to do. In YBW you would not "spawn" or place work on the stack until the first sibling is searched.
 
 
-In their 1983 paper *Improved Speedup Bounds for Parallel Alpha-Beta Search* [[12]](#cite_note-12) , [Raphael Finkel](Raphael_Finkel "Raphael Finkel") and [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") already gave the theoretical confirmation to the common sense wisdom that parallel resources should first be thrown into searching the first child. Assuming the tree is already in an approximation to best-first order, this establishes a good alpha value that can then be used to parallel search the later children. The algorithm in the 1982 Artificial Intelligence paper [[13]](#cite_note-13) , which Fishburn called the "dumb algorithm" in his 1981 thesis presentation [[14]](#cite_note-14) gives p^0.5 speedup with p processors, while the 1983 PAMI algorithm (the "smart algorithm") gives p^0.8 speedup for lookahead trees with the [branching factor](Branching_Factor "Branching Factor") of chess.
+In their 1983 paper *Improved Speedup Bounds for Parallel Alpha-Beta Search* <a id="cite-note-12" href="#cite-ref-12">[12]</a> , [Raphael Finkel](Raphael_Finkel "Raphael Finkel") and [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") already gave the theoretical confirmation to the common sense wisdom that parallel resources should first be thrown into searching the first child. Assuming the tree is already in an approximation to best-first order, this establishes a good alpha value that can then be used to parallel search the later children. The algorithm in the 1982 Artificial Intelligence paper <a id="cite-note-13" href="#cite-ref-13">[13]</a> , which Fishburn called the "dumb algorithm" in his 1981 thesis presentation <a id="cite-note-14" href="#cite-ref-14">[14]</a> gives p^0.5 speedup with p processors, while the 1983 PAMI algorithm (the "smart algorithm") gives p^0.8 speedup for lookahead trees with the [branching factor](Branching_Factor "Branching Factor") of chess.
 
 
 
@@ -86,7 +86,7 @@ In their 1983 paper *Improved Speedup Bounds for Parallel Alpha-Beta Search* [[1
 *Home: [Dynamic Tree Splitting](Dynamic_Tree_Splitting "Dynamic Tree Splitting")*
 
 
-This algorithm, invented by the [Cray Blitz](Cray_Blitz "Cray Blitz") team (including [Robert Hyatt](Robert_Hyatt "Robert Hyatt") [[15]](#cite_note-15) ), is the most complex. Though this gives the best known scalability for any SMP algorithm, there are very few programs using it because of its difficulty of implementation.
+This algorithm, invented by the [Cray Blitz](Cray_Blitz "Cray Blitz") team (including [Robert Hyatt](Robert_Hyatt "Robert Hyatt") <a id="cite-note-15" href="#cite-ref-15">[15]</a> ), is the most complex. Though this gives the best known scalability for any SMP algorithm, there are very few programs using it because of its difficulty of implementation.
 
 
 
@@ -105,7 +105,7 @@ Many different approaches have been tried that do not directly split the search 
 ## Taxonomy
 
 
-Overview and taxonomy of parallel algorithms based on [alpha-beta](Alpha-Beta "Alpha-Beta"), given by [Mark Brockington](Mark_Brockington "Mark Brockington"), [ICCA Journal, Vol. 19: No. 3](ICGA_Journal#19_3 "ICGA Journal") in 1996 [[16]](#cite_note-16) [[17]](#cite_note-17)
+Overview and taxonomy of parallel algorithms based on [alpha-beta](Alpha-Beta "Alpha-Beta"), given by [Mark Brockington](Mark_Brockington "Mark Brockington"), [ICCA Journal, Vol. 19: No. 3](ICGA_Journal#19_3 "ICGA Journal") in 1996 <a id="cite-note-16" href="#cite-ref-16">[16]</a> <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 
 
 
@@ -147,7 +147,7 @@ Leftmost child of 3
  | [Type-1](Node_Types#pv-node "Node Types")+[3](Node_Types#all-nodes "Node Types")+Leftmost child of 3
  |  Bad [Type-2](Node_Types#cut-nodes "Node Types") |
 |  1986
- |  UIDPABS [[18]](#cite_note-18) | [Monroe Newborn](Monroe_Newborn "Monroe Newborn") |  Static/Centralized
+ |  UIDPABS <a id="cite-note-18" href="#cite-ref-18">[18]</a> | [Monroe Newborn](Monroe_Newborn "Monroe Newborn") |  Static/Centralized
  | [Root](Root "Root") |  None
  |
 |  1987
@@ -180,7 +180,7 @@ Leftmost child of 3
  | [Vincent David](Vincent_David "Vincent David") |  Dynamic/Distributed
  | [Type-1](Node_Types#pv-node "Node Types")+[3](Node_Types#all-nodes "Node Types") | [Type-1](Node_Types#pv-node "Node Types")+[3](Node_Types#all-nodes "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") |
 |  1994
- |  CABP [[19]](#cite_note-19) | [Van-Dat Cung](index.php?title=Van-Dat_Cung&action=edit&redlink=1 "Van-Dat Cung (page does not exist)") |  Static/Centralized
+ |  CABP <a id="cite-note-19" href="#cite-ref-19">[19]</a> | [Van-Dat Cung](index.php?title=Van-Dat_Cung&action=edit&redlink=1 "Van-Dat Cung (page does not exist)") |  Static/Centralized
  | [Type-1](Node_Types#pv-node "Node Types")+[3](Node_Types#all-nodes "Node Types") |  Bad [Type-2](Node_Types#cut-nodes "Node Types") |
 | [Jamboree](Jamboree "Jamboree") | [Bradley Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") |  Dynamic/Distributed
  | [Type-1](Node_Types#pv-node "Node Types")+[3](Node_Types#all-nodes "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") | [Type-1](Node_Types#pv-node "Node Types")+Bad [2](Node_Types#cut-nodes "Node Types") |
@@ -236,7 +236,7 @@ Some programs that use threads:
 
 
 
-* [Crafty](Crafty "Crafty") [[20]](#cite_note-20) [[21]](#cite_note-21)
+* [Crafty](Crafty "Crafty") <a id="cite-note-20" href="#cite-ref-20">[20]</a> <a id="cite-note-21" href="#cite-ref-21">[21]</a>
 * [Zappa](Zappa "Zappa")
 * [Glaurung](Glaurung "Glaurung")
 * Pretty much every other program...
@@ -331,7 +331,7 @@ Some programs that use processes:
 
 
 
-* [Lionel Moser](index.php?title=Lionel_Moser&action=edit&redlink=1 "Lionel Moser (page does not exist)") (**1984**). *An Experiment in Distributed Game Tree Searching*, M.Sc. thesis, [University of Waterloo](University_of_Waterloo "University of Waterloo") [[22]](#cite_note-22) [[23]](#cite_note-23)
+* [Lionel Moser](index.php?title=Lionel_Moser&action=edit&redlink=1 "Lionel Moser (page does not exist)") (**1984**). *An Experiment in Distributed Game Tree Searching*, M.Sc. thesis, [University of Waterloo](University_of_Waterloo "University of Waterloo") <a id="cite-note-22" href="#cite-ref-22">[22]</a> <a id="cite-note-23" href="#cite-ref-23">[23]</a>
 
 
 ### 1985 ...
@@ -459,7 +459,7 @@ Some programs that use processes:
 * [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1997**). *[The Dynamic Tree-Splitting Parallel Search Algorithm](http://www.craftychess.com/hyatt/search.html)*, [ICCA Journal, Vol. 20, No. 1](ICGA_Journal#20_1 "ICGA Journal")
 * [Andrew Tridgell](Andrew_Tridgell "Andrew Tridgell") (**1997**). *KnightCap — a parallel chess program on the AP1000+*. [zipped ps](ftp://us6.samba.org/pub/tridge/knightcap_pcw97.ps.gz) » [KnightCap](KnightCap "KnightCap")
 * [Mark Brockington](Mark_Brockington "Mark Brockington"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1997**). *APHID Game-Tree Search*. [Advances in Computer Chess 8](Advances_in_Computer_Chess_8 "Advances in Computer Chess 8")
-* [David Sturgill](index.php?title=David_Sturgill&action=edit&redlink=1 "David Sturgill (page does not exist)"), [Alberto Maria Segre](Alberto_Maria_Segre "Alberto Maria Segre") (**1997**). *[Nagging: A Distributed, Adversarial Search-Pruning Technique Applied to First-Order Inference](http://www.springerlink.com/content/j11186905500t384/)*. [Journal of Automated Reasoning](https://en.wikipedia.org/wiki/Journal_of_Automated_Reasoning), Vol. 19, No. 3 [[24]](#cite_note-24)
+* [David Sturgill](index.php?title=David_Sturgill&action=edit&redlink=1 "David Sturgill (page does not exist)"), [Alberto Maria Segre](Alberto_Maria_Segre "Alberto Maria Segre") (**1997**). *[Nagging: A Distributed, Adversarial Search-Pruning Technique Applied to First-Order Inference](http://www.springerlink.com/content/j11186905500t384/)*. [Journal of Automated Reasoning](https://en.wikipedia.org/wiki/Journal_of_Automated_Reasoning), Vol. 19, No. 3 <a id="cite-note-24" href="#cite-ref-24">[24]</a>
 
 
 **1998**
@@ -478,7 +478,7 @@ Some programs that use processes:
 * [Don Dailey](Don_Dailey "Don Dailey"), [Charles E. Leiserson](Charles_Leiserson "Charles Leiserson") (**1999**). *Using Cilk to Write Multiprocessor Chess Programs*, [pdf](http://supertech.csail.mit.edu/papers/icca99.pdf)
 * [Kevin Steele](index.php?title=Kevin_Steele&action=edit&redlink=1 "Kevin Steele (page does not exist)") (**1999**). *[Parallel Alpha-Beta Pruning of Game Decision Trees: A Chess Implementation](https://students.cs.byu.edu/~snell/Classes/CS584/projectsF99/steele/report.html)*. CS 584 Fall 1999 Semester Project Report, [Brigham Young University](https://en.wikipedia.org/wiki/Brigham_Young_University)
 * [Mark Brockington](Mark_Brockington "Mark Brockington"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1999**). *APHID: Asynchronous Parallel Game-Tree Search*. Department of Computing Science, [University of Alberta](University_of_Alberta "University of Alberta"), Edmonton, Alberta, Canada. as [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.33.9870&rep=rep1&type=pdf) from [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.33.9870)
-* [John Romein](John_Romein "John Romein"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1999**). *Transposition Table Driven Work Scheduling in Distributed Search*. [AAAI-99](AAAI "AAAI"), [pdf](https://www.aaai.org/Papers/AAAI/1999/AAAI99-103.pdf) [[25]](#cite_note-25) [[26]](#cite_note-26)
+* [John Romein](John_Romein "John Romein"), [Aske Plaat](Aske_Plaat "Aske Plaat"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1999**). *Transposition Table Driven Work Scheduling in Distributed Search*. [AAAI-99](AAAI "AAAI"), [pdf](https://www.aaai.org/Papers/AAAI/1999/AAAI99-103.pdf) <a id="cite-note-25" href="#cite-ref-25">[25]</a> <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 
 
 ### 2000 ...
@@ -503,7 +503,7 @@ Some programs that use processes:
 * [Yaron Shoham](index.php?title=Yaron_Shoham&action=edit&redlink=1 "Yaron Shoham (page does not exist)"), [Sivan Toledo](index.php?title=Sivan_Toledo&action=edit&redlink=1 "Sivan Toledo (page does not exist)") (**2002**). *[Parallel Randomized Best-First Minimax Search](https://www.sciencedirect.com/science/article/pii/S0004370202001959)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_(journal)), Vol. 137, Nos. 1-2
 * [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"). (**2002**). *Distributed Game-Tree Search Using Transposition Table Driven Work Scheduling*, In Proc. of 31st International Conference on Parallel Processing (ICPP'02), pages 323-330, IEEE Computer Society Press. [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.8604&rep=rep1&type=pdf) via [CiteSeerX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.132.8604)
 * [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"). (**2002**). *Transposition Table Driven Work Scheduling in Distributed Game-Tree Search* (Best Paper Prize), In Proc. of Fifteenth Canadian Conference on Artificial Intelligence (AI'2002), volume 2338 of Lecture Notes in Artificial Intelligence (LNAI), pages 56-68, [Springer](http://www.springerlink.com/content/47b3crn04egmmx8l/)
-* [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2002**). *A Performance Analysis of Transposition-Table-Driven Scheduling in Distributed Search*. IEEE Transactions on Parallel and Distributed Systems, Vol. 13, No. 5, pp. 447–459. [pdf](http://www.cs.vu.nl/~bal/Papers/tds.pdf) » [Transposition Table](Transposition_Table "Transposition Table") [[27]](#cite_note-27)
+* [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2002**). *A Performance Analysis of Transposition-Table-Driven Scheduling in Distributed Search*. IEEE Transactions on Parallel and Distributed Systems, Vol. 13, No. 5, pp. 447–459. [pdf](http://www.cs.vu.nl/~bal/Papers/tds.pdf) » [Transposition Table](Transposition_Table "Transposition Table") <a id="cite-note-27" href="#cite-ref-27">[27]</a>
 * [Alberto Maria Segre](Alberto_Maria_Segre "Alberto Maria Segre"), [Sean Forman](index.php?title=Sean_Forman&action=edit&redlink=1 "Sean Forman (page does not exist)"), [Giovanni Resta](index.php?title=Giovanni_Resta&action=edit&redlink=1 "Giovanni Resta (page does not exist)"), [Andrew Wildenberg](index.php?title=Andrew_Wildenberg&action=edit&redlink=1 "Andrew Wildenberg (page does not exist)") (**2002**). *[Nagging: A Scalable Fault-Tolerant Paradigm for Distributed Search](https://www.sciencedirect.com/science/article/pii/S000437020200228X)*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 140, Nos. 1-2
 
 
@@ -600,9 +600,9 @@ Some programs that use processes:
 
 
 
-* [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Takeshi Ito](Takeshi_Ito "Takeshi Ito") (**2013**). *Parallel Dovetailing and its Application to Depth-First Proof-Number Search*. [ICGA Journal, Vol. 36, No. 1](ICGA_Journal#36_1 "ICGA Journal") » [Proof-Number Search](Proof-Number_Search "Proof-Number Search") [[28]](#cite_note-28)
+* [Kunihito Hoki](Kunihito_Hoki "Kunihito Hoki"), [Tomoyuki Kaneko](Tomoyuki_Kaneko "Tomoyuki Kaneko"), [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Takeshi Ito](Takeshi_Ito "Takeshi Ito") (**2013**). *Parallel Dovetailing and its Application to Depth-First Proof-Number Search*. [ICGA Journal, Vol. 36, No. 1](ICGA_Journal#36_1 "ICGA Journal") » [Proof-Number Search](Proof-Number_Search "Proof-Number Search") <a id="cite-note-28" href="#cite-ref-28">[28]</a>
 * [Jakub Pawlewicz](Jakub_Pawlewicz "Jakub Pawlewicz"), [Ryan Hayward](Ryan_Hayward "Ryan Hayward") (**2013**). *Scalable Parallel DFPN Search*. [CG 2013](CG_2013 "CG 2013")
-* [Georg Hager](https://www.rrze.fau.de/wir-ueber-uns/organigramm/mitarbeiter/index.shtml/georg-hager.shtml) [[29]](#cite_note-29), [Jan Treibig](http://dblp.uni-trier.de/pers/hd/t/Treibig:Jan), [Gerhard Wellein](http://dblp.uni-trier.de/pers/hd/w/Wellein:Gerhard) (**2013**). *The Practitioner's Cookbook for Good Parallel Performance on Multi- and Many-Core Systems*. [RRZE](https://de.wikipedia.org/wiki/Regionales_Rechenzentrum_Erlangen), [SC13](http://sc13.supercomputing.org/), [slides as pdf](https://blogs.fau.de/hager/files/2013/11/sc13_tutorial_134.pdf)
+* [Georg Hager](https://www.rrze.fau.de/wir-ueber-uns/organigramm/mitarbeiter/index.shtml/georg-hager.shtml) <a id="cite-note-29" href="#cite-ref-29">[29]</a>, [Jan Treibig](http://dblp.uni-trier.de/pers/hd/t/Treibig:Jan), [Gerhard Wellein](http://dblp.uni-trier.de/pers/hd/w/Wellein:Gerhard) (**2013**). *The Practitioner's Cookbook for Good Parallel Performance on Multi- and Many-Core Systems*. [RRZE](https://de.wikipedia.org/wiki/Regionales_Rechenzentrum_Erlangen), [SC13](http://sc13.supercomputing.org/), [slides as pdf](https://blogs.fau.de/hager/files/2013/11/sc13_tutorial_134.pdf)
 
 
 **2014**
@@ -626,7 +626,7 @@ Some programs that use processes:
 * [Akira Ura](Akira_Ura "Akira Ura"), [Yoshimasa Tsuruoka](Yoshimasa_Tsuruoka "Yoshimasa Tsuruoka"), [Takashi Chikayama](Takashi_Chikayama "Takashi Chikayama") (**2015**). *[Dynamic Prediction of Minimal Trees in Large-Scale Parallel Game Tree Search](https://www.jstage.jst.go.jp/article/ipsjjip/23/1/23_9/_article)*. [Journal of Information Processing](https://www.jstage.jst.go.jp/browse/ipsjjip/), Vol. 23, No. 1
 * [Liang Li](index.php?title=Liang_Li&action=edit&redlink=1 "Liang Li (page does not exist)"), [Hong Liu](index.php?title=Hong_Liu&action=edit&redlink=1 "Hong Liu (page does not exist)"), [Hao Wang](index.php?title=Hao_Wang&action=edit&redlink=1 "Hao Wang (page does not exist)"), [Taoying Liu](index.php?title=Taoying_Liu&action=edit&redlink=1 "Taoying Liu (page does not exist)"), [Wei Li](index.php?title=Wei_Li&action=edit&redlink=1 "Wei Li (page does not exist)") (**2015**). *[A Parallel Algorithm for Game Tree Search Using GPGPU](http://ieeexplore.ieee.org/document/6868996/)*. [IEEE Transactions on Parallel and Distributed Systems](IEEE#TPDS "IEEE"), Vol. 26, No. 8 » [GPU](GPU "GPU")
 * [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [Bo-Han Lin](index.php?title=Bo-Han_Lin&action=edit&redlink=1 "Bo-Han Lin (page does not exist)"), [Chia-Hui Chang](Chia-Hui_Chang "Chia-Hui Chang") (**2015**). *[Job-Level Alpha-Beta Search](https://ir.nctu.edu.tw/handle/11536/124541)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 7, No. 1
-* [Lars Schaefers](index.php?title=Lars_Schaefers&action=edit&redlink=1 "Lars Schaefers (page does not exist)"), [Marco Platzner](index.php?title=Marco_Platzner&action=edit&redlink=1 "Marco Platzner (page does not exist)") (**2015**). *[Distributed Monte Carlo Tree Search: A Novel Technique and its Application to Computer Go](http://ieeexplore.ieee.org/document/6876158/)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 7, No. 4 [[30]](#cite_note-30)
+* [Lars Schaefers](index.php?title=Lars_Schaefers&action=edit&redlink=1 "Lars Schaefers (page does not exist)"), [Marco Platzner](index.php?title=Marco_Platzner&action=edit&redlink=1 "Marco Platzner (page does not exist)") (**2015**). *[Distributed Monte Carlo Tree Search: A Novel Technique and its Application to Computer Go](http://ieeexplore.ieee.org/document/6876158/)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 7, No. 4 <a id="cite-note-30" href="#cite-ref-30">[30]</a>
 
 
 **2016**
@@ -769,8 +769,8 @@ Some programs that use processes:
 * [Lazy SMP, part 2](http://www.talkchess.com/forum/viewtopic.php?t=46858) by [Daniel Homan](Daniel_Homan "Daniel Homan"), [CCC](CCC "CCC"), January 12, 2013
 * [Parallel search: System-level programming details](http://www.talkchess.com/forum/viewtopic.php?t=47171) by [Álvaro Begué](%C3%81lvaro_Begu%C3%A9 "Álvaro Begué"), [CCC](CCC "CCC"), February 09, 2013
 * [SMP search in Viper and idea about search in cluster system](http://www.talkchess.com/forum/viewtopic.php?t=47298) by [Chao Ma](Chao_Ma "Chao Ma"), [CCC](CCC "CCC"), February 22, 2013 » [Viper](Viper "Viper")
-* [Message passing parallel search on SMP system](http://www.talkchess.com/forum/viewtopic.php?t=47430) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), March 07, 2013 [[31]](#cite_note-31)
-* [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013 [[32]](#cite_note-32)
+* [Message passing parallel search on SMP system](http://www.talkchess.com/forum/viewtopic.php?t=47430) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), March 07, 2013 <a id="cite-note-31" href="#cite-ref-31">[31]</a>
+* [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013 <a id="cite-note-32" href="#cite-ref-32">[32]</a>
 * [Parallel search slowdown?](http://www.talkchess.com/forum/viewtopic.php?t=47762) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), April 12, 2013
 * [Implementation of multithreaded search in Jazz](http://www.talkchess.com/forum/viewtopic.php?t=47820) by [Evert Glebbeek](Evert_Glebbeek "Evert Glebbeek"), [CCC](CCC "CCC"), April 20, 2013 » [Jazz](Jazz "Jazz")
 * [parallel search speedup/overhead](http://www.talkchess.com/forum/viewtopic.php?t=47930) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), May 06, 2013
@@ -824,7 +824,7 @@ Some programs that use processes:
  [Explanation for non-expert?](http://www.talkchess.com/forum/viewtopic.php?t=55368) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), February 16, 2015 » [Stockfish](Stockfish "Stockfish")
  [Best Stockfish NPS scaling yet](http://www.talkchess.com/forum/viewtopic.php?t=55536) by [Louis Zulli](Louis_Zulli "Louis Zulli"), [CCC](CCC "CCC"), March 02, 2015
 * [Parallel iterative search function](http://www.talkchess.com/forum/viewtopic.php?t=55563) by [Fabio Gobbato](Fabio_Gobbato "Fabio Gobbato"), [CCC](CCC "CCC"), March 05, 2015 » [Iterative Search](Iterative_Search "Iterative Search")
-* [An MPI perft program](http://www.talkchess.com/forum/viewtopic.php?t=55896) by [Chao Ma](Chao_Ma "Chao Ma"), [CCC](CCC "CCC"), April 05, 2015 » [Perft](Perft "Perft") [[33]](#cite_note-33)
+* [An MPI perft program](http://www.talkchess.com/forum/viewtopic.php?t=55896) by [Chao Ma](Chao_Ma "Chao Ma"), [CCC](CCC "CCC"), April 05, 2015 » [Perft](Perft "Perft") <a id="cite-note-33" href="#cite-ref-33">[33]</a>
 * [Crude parallel search](http://www.talkchess.com/forum/viewtopic.php?t=55930) by [Carl Bicknell](index.php?title=Carl_Bicknell&action=edit&redlink=1 "Carl Bicknell (page does not exist)"), [CCC](CCC "CCC"), April 07, 2015
 * [Trying to improve lazy smp](http://www.talkchess.com/forum/viewtopic.php?t=55970) by [Daniel José Queraltó](Daniel_Jos%C3%A9_Queralt%C3%B3 "Daniel José Queraltó"), [CCC](CCC "CCC"), April 11, 2015
 * [Empirical results with Lazy SMP, YBWC, DTS](http://www.talkchess.com/forum/viewtopic.php?t=56019) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), April 16, 2015
@@ -860,7 +860,7 @@ Some programs that use processes:
 * [parallel search speed measurement](http://www.talkchess.com/forum/viewtopic.php?t=60271) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), May 24, 2016
 * [Crazy SMP](http://www.talkchess.com/forum/viewtopic.php?t=60537) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), June 19, 2016
 * [NUMA in a YBWC implementation](http://www.talkchess.com/forum/viewtopic.php?t=60875) by [Edsel Apostol](Edsel_Apostol "Edsel Apostol"), [CCC](CCC "CCC"), July 20, 2016 » [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept")
-* [lazy smp using ms vs2015 c++11 std::async](http://www.talkchess.com/forum/viewtopic.php?t=60979) by [Edward Yu](index.php?title=Edward_Yu&action=edit&redlink=1 "Edward Yu (page does not exist)"), [CCC](CCC "CCC"), July 29, 2016 » [Lazy SMP](Lazy_SMP "Lazy SMP"), [Thread](Thread "Thread") [[34]](#cite_note-34)
+* [lazy smp using ms vs2015 c++11 std::async](http://www.talkchess.com/forum/viewtopic.php?t=60979) by [Edward Yu](index.php?title=Edward_Yu&action=edit&redlink=1 "Edward Yu (page does not exist)"), [CCC](CCC "CCC"), July 29, 2016 » [Lazy SMP](Lazy_SMP "Lazy SMP"), [Thread](Thread "Thread") <a id="cite-note-34" href="#cite-ref-34">[34]</a>
 * [Time to depth concerns](http://www.talkchess.com/forum/viewtopic.php?t=61131) by [Carl Bicknell](index.php?title=Carl_Bicknell&action=edit&redlink=1 "Carl Bicknell (page does not exist)"), [CCC](CCC "CCC"), August 15, 2016
 * [lets get the ball moving down the field on numa awareness](https://groups.google.com/d/msg/fishcooking/ezt6MrAuXqs/qIR2HEciEgAJ) by [Mohammed Li](index.php?title=Mohammed_Li&action=edit&redlink=1 "Mohammed Li (page does not exist)"), [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), August 30, 2016 » [NUMA](NUMA "NUMA"), [Stockfish](Stockfish "Stockfish"), [asmFish](AsmFish "AsmFish")
 * [Baffling multithreading scaling behavior](http://www.talkchess.com/forum/viewtopic.php?t=61349) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [CCC](CCC "CCC"), September 06, 2016
@@ -884,7 +884,7 @@ Some programs that use processes:
 
 
  [Approximate ABDADA](http://www.talkchess.com/forum/viewtopic.php?t=64824&start=43) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), August 23, 2017 » [ABDADA](ABDADA "ABDADA") 
-* ["How To" guide to parallel-izing an engine](http://www.talkchess.com/forum/viewtopic.php?t=65011) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [CCC](CCC "CCC"), August 27, 2017 [[35]](#cite_note-35)
+* ["How To" guide to parallel-izing an engine](http://www.talkchess.com/forum/viewtopic.php?t=65011) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [CCC](CCC "CCC"), August 27, 2017 <a id="cite-note-35" href="#cite-ref-35">[35]</a>
 * [Question about parallel search and race conditions](http://www.talkchess.com/forum/viewtopic.php?t=65134) by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [CCC](CCC "CCC"), September 11, 2017 » [Shared Hash Table](Shared_Hash_Table "Shared Hash Table")
 * [Parallel search/LazySMP question](http://www.talkchess.com/forum/viewtopic.php?t=66044) by [Jon Dart](Jon_Dart "Jon Dart"), [CCC](CCC "CCC"), December 17, 2017 » [Lazy SMP](Lazy_SMP "Lazy SMP")
 * [Time Managment translating to SMP](http://www.talkchess.com/forum/viewtopic.php?t=66099) by [Andrew Grant](Andrew_Grant "Andrew Grant"), [CCC](CCC "CCC"), December 23, 2017  » [Time Management](Time_Management "Time Management")
@@ -920,7 +920,7 @@ Some programs that use processes:
 ### Parallel Search
 
 
-* [Parallel Search](http://www.tckerrigan.com/Chess/Parallel_Search/) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan") [[36]](#cite_note-36)
+* [Parallel Search](http://www.tckerrigan.com/Chess/Parallel_Search/) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan") <a id="cite-note-36" href="#cite-ref-36">[36]</a>
 * [Parallel Alpha-Beta Pruning](http://www.netlib.org/utk/lsi/pcwLSI/text/node350.html) from [Parallel Computing Works](http://www.netlib.org/utk/lsi/pcwLSI/text/BOOK.html)
 * [APHID Parallel Game-Tree Search Library](http://webdocs.cs.ualberta.ca/~games/aphid/index.html)
 * [AG-Monien - Research - Game Trees](http://www2.cs.uni-paderborn.de/cs/ag-monien/PERSONAL/FLULO/gametree.html), [AG-Monien](Burkhard_Monien "Burkhard Monien"), [Paderborn University](Paderborn_University "Paderborn University")
@@ -1109,42 +1109,42 @@ Some programs that use processes:
 ## References
 
 
-1. [↑](#cite_ref-1) [Super Linearity and the Bigger Machine](http://www.drdobbs.com/high-performance-computing/206903306) from [Dr. Dobb's](http://www.drdobbs.com/index.jhtml)
-2. [↑](#cite_ref-2) [Lazy SMP, part 2](http://www.talkchess.com/forum/viewtopic.php?t=46858) by [Daniel Homan](Daniel_Homan "Daniel Homan"), [CCC](CCC "CCC"), January 12, 2013
-3. [↑](#cite_ref-3) [Lazy SMP in Cheng](http://www.talkchess.com/forum/viewtopic.php?t=55188) by [Martin Sedlak](Martin_Sedlak "Martin Sedlak"), [CCC](CCC "CCC"), February 02, 2015
-4. [↑](#cite_ref-4) [Re: A new chess engine : m8 (comming not so soon)](http://www.talkchess.com/forum/viewtopic.php?t=55170&start=11) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), February 01, 2015
-5. [↑](#cite_ref-5) [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") (**1996**). *The ABDADA Distributed Minimax Search Agorithm*. Proceedings of the 1996 ACM Computer Science Conference, pp. 131-138. ACM, New York, N.Y, reprinted [ICCA Journal, Vol. 19, No. 1](ICGA_Journal#19_1 "ICGA Journal"), [zipped postscript](http://www.recherche.enac.fr/%7Eweill/publications/acm.ps.gz)
-6. [↑](#cite_ref-6) [Yaoqing Gao](index.php?title=Yaoqing_Gao&action=edit&redlink=1 "Yaoqing Gao (page does not exist)"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1996**). *Multithreaded Pruned Tree Search in Distributed Systems*. Journal of Computing and Information, 2(1), 482-492, [pdf](http://www.cs.ualberta.ca/%7Etony/RecentPapers/icci.pdf)
-7. [↑](#cite_ref-7) [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Burkhard Monien](Burkhard_Monien "Burkhard Monien") (**1991**). *A Fully Distributed Chess Program*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6"), [pdf](http://www.top-5000.nl/ps/A%20fully%20distribuited%20chess%20program.pdf)
-8. [↑](#cite_ref-8) [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1993**). *Game Tree Search on Massively Parallel Systems*. Ph.D. Thesis, [pdf](http://www2.cs.uni-paderborn.de/fachbereich/AG/monien/PUBLICATIONS/POSTSCRIPTS/feldmann_phd.pdf)
-9. [↑](#cite_ref-9) [Christopher F. Joerg](Chris_Joerg "Chris Joerg"), [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Massively Parallel Chess*, [pdf](http://supertech.csail.mit.edu/papers/dimacs94.pdf)
-10. [↑](#cite_ref-10) [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. Thesis, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf)
-11. [↑](#cite_ref-11) [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1995**). *The StarTech Massively Parallel Chess Program*. [pdf](http://supertech.csail.mit.edu/papers/startech.pdf)
-12. [↑](#cite_ref-12) [Raphael Finkel](Raphael_Finkel "Raphael Finkel"), [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1983**). *Improved Speedup Bounds for Parallel Alpha-Beta Search*. [IEEE Transactions on Pattern Analysis and Machine Intelligence](IEEE#TPAMI "IEEE"), Vol. 5, No. 1, pp. 89 - 92
-13. [↑](#cite_ref-13) [Raphael Finkel](Raphael_Finkel "Raphael Finkel"), [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1982**). *Parallelism in Alpha-Beta Search*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 19, No. 1
-14. [↑](#cite_ref-14) [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1981**). *Analysis of Speedup in Distributed Algorithms*. Ph.D. Thesis, [pdf](http://www.cs.wisc.edu/techreports/1981/TR431.pdf)
-15. [↑](#cite_ref-15) [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1994**). *[The DTS high-performance parallel tree search algorithm](http://www.craftychess.com/hyatt/search.html)*
-16. [↑](#cite_ref-16) [Mark Brockington](Mark_Brockington "Mark Brockington") (**1996**). *A Taxonomy of Parallel Game-Tree Search Algorithms*. [ICCA Journal, Vol. 19: No. 3](ICGA_Journal#19_3 "ICGA Journal")
-17. [↑](#cite_ref-17) [Research paper comparing various parallel search algorithms](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=78631) by koedem, [CCC](CCC "CCC"), November 10, 2021
-18. [↑](#cite_ref-18) UIDPABS = Unsynchronized Iteratively Deepening Parallel Alpha-Beta Search
-19. [↑](#cite_ref-19) CABP = Concurrent Alpha-Beta Pruning
-20. [↑](#cite_ref-20) It should also be noted that [Crafty](Crafty "Crafty") uses threads on [Windows](Windows "Windows"), and used processes on [Unix](Unix "Unix")
-21. [↑](#cite_ref-21) [threads vs processes again](http://www.talkchess.com/forum/viewtopic.php?t=22799) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), February 27, 2006
-22. [↑](#cite_ref-22) [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1985**). *[Lionel Moser](index.php?title=Lionel_Moser&action=edit&redlink=1 "Lionel Moser (page does not exist)"): An Experiment in Distributed Game Tree Searching.* [ICCA Journal, Vol. 8, No. 2](ICGA_Journal#8_2 "ICGA Journal") (Review)
-23. [↑](#cite_ref-23) [An Introduction to Computer Chess](https://cs.uwaterloo.ca/~alopez-o/divulge/chimp.html) by [Alejandro López-Ortiz](index.php?title=Alejandro_L%C3%B3pez-Ortiz&action=edit&redlink=1 "Alejandro López-Ortiz (page does not exist)"), 1993
-24. [↑](#cite_ref-24) [Nagging from Wikipedia](https://en.wikipedia.org/wiki/Nagging)
-25. [↑](#cite_ref-25) [Re: scorpio can run on 8192 cores](http://www.talkchess.com/forum/viewtopic.php?t=57343&start=5) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), August 29, 2015
-26. [↑](#cite_ref-26) [Transposition-driven scheduling - Wikipedia](https://en.wikipedia.org/wiki/Transposition-driven_scheduling)
-27. [↑](#cite_ref-27) [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013
-28. [↑](#cite_ref-28) [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
-29. [↑](#cite_ref-29) [Georg Hager's Blog | Random thoughts on High Performance Computing](https://blogs.fau.de/hager/)
-30. [↑](#cite_ref-30) [Re: Minmax backup operator for MCTS](http://www.talkchess.com/forum/viewtopic.php?t=66125&start=18) by [Brahim Hamadicharef](index.php?title=Brahim_Hamadicharef&action=edit&redlink=1 "Brahim Hamadicharef (page does not exist)"), [CCC](CCC "CCC"), December 30, 2017
-31. [↑](#cite_ref-31) [Message Passing Interface from Wikipedia](https://en.wikipedia.org/wiki/Message_Passing_Interface)
-32. [↑](#cite_ref-32) [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2002**). *A Performance Analysis of Transposition-Table-Driven Scheduling in Distributed Search*. IEEE Transactions on Parallel and Distributed Systems, Vol. 13, No. 5, pp. 447–459. [pdf](http://www.cs.vu.nl/~bal/Papers/tds.pdf)
-33. [↑](#cite_ref-33) [Message Passing Interface from Wikipedia](https://en.wikipedia.org/wiki/Message_Passing_Interface)
-34. [↑](#cite_ref-34) [std::async - cppreference.com](http://en.cppreference.com/w/cpp/thread/async)
-35. [↑](#cite_ref-35) [Parallel Search](http://www.tckerrigan.com/Chess/Parallel_Search/) by [[Tom Kerrigan]
-36. [↑](#cite_ref-36) ["How To" guide to parallel-izing an engine](http://www.talkchess.com/forum/viewtopic.php?t=65011) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [CCC](CCC "CCC"), August 27, 2017
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Super Linearity and the Bigger Machine](http://www.drdobbs.com/high-performance-computing/206903306) from [Dr. Dobb's](http://www.drdobbs.com/index.jhtml)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Lazy SMP, part 2](http://www.talkchess.com/forum/viewtopic.php?t=46858) by [Daniel Homan](Daniel_Homan "Daniel Homan"), [CCC](CCC "CCC"), January 12, 2013
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Lazy SMP in Cheng](http://www.talkchess.com/forum/viewtopic.php?t=55188) by [Martin Sedlak](Martin_Sedlak "Martin Sedlak"), [CCC](CCC "CCC"), February 02, 2015
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: A new chess engine : m8 (comming not so soon)](http://www.talkchess.com/forum/viewtopic.php?t=55170&start=11) by [Peter Österlund](Peter_%C3%96sterlund "Peter Österlund"), [CCC](CCC "CCC"), February 01, 2015
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-Christophe Weill") (**1996**). *The ABDADA Distributed Minimax Search Agorithm*. Proceedings of the 1996 ACM Computer Science Conference, pp. 131-138. ACM, New York, N.Y, reprinted [ICCA Journal, Vol. 19, No. 1](ICGA_Journal#19_1 "ICGA Journal"), [zipped postscript](http://www.recherche.enac.fr/%7Eweill/publications/acm.ps.gz)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Yaoqing Gao](index.php?title=Yaoqing_Gao&action=edit&redlink=1 "Yaoqing Gao (page does not exist)"), [Tony Marsland](Tony_Marsland "Tony Marsland") (**1996**). *Multithreaded Pruned Tree Search in Distributed Systems*. Journal of Computing and Information, 2(1), 482-492, [pdf](http://www.cs.ualberta.ca/%7Etony/RecentPapers/icci.pdf)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann"), [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), [Burkhard Monien](Burkhard_Monien "Burkhard Monien") (**1991**). *A Fully Distributed Chess Program*. [Advances in Computer Chess 6](Advances_in_Computer_Chess_6 "Advances in Computer Chess 6"), [pdf](http://www.top-5000.nl/ps/A%20fully%20distribuited%20chess%20program.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") (**1993**). *Game Tree Search on Massively Parallel Systems*. Ph.D. Thesis, [pdf](http://www2.cs.uni-paderborn.de/fachbereich/AG/monien/PUBLICATIONS/POSTSCRIPTS/feldmann_phd.pdf)
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Christopher F. Joerg](Chris_Joerg "Chris Joerg"), [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Massively Parallel Chess*, [pdf](http://supertech.csail.mit.edu/papers/dimacs94.pdf)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1994**). *Synchronized MIMD Computing*. Ph. D. Thesis, [Massachusetts Institute of Technology](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"), [pdf](http://supertech.csail.mit.edu/papers/thesis-kuszmaul.pdf)
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Bradley C. Kuszmaul](Bradley_Kuszmaul "Bradley Kuszmaul") (**1995**). *The StarTech Massively Parallel Chess Program*. [pdf](http://supertech.csail.mit.edu/papers/startech.pdf)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Raphael Finkel](Raphael_Finkel "Raphael Finkel"), [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1983**). *Improved Speedup Bounds for Parallel Alpha-Beta Search*. [IEEE Transactions on Pattern Analysis and Machine Intelligence](IEEE#TPAMI "IEEE"), Vol. 5, No. 1, pp. 89 - 92
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Raphael Finkel](Raphael_Finkel "Raphael Finkel"), [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1982**). *Parallelism in Alpha-Beta Search*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 19, No. 1
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1981**). *Analysis of Speedup in Distributed Algorithms*. Ph.D. Thesis, [pdf](http://www.cs.wisc.edu/techreports/1981/TR431.pdf)
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Robert Hyatt](Robert_Hyatt "Robert Hyatt") (**1994**). *[The DTS high-performance parallel tree search algorithm](http://www.craftychess.com/hyatt/search.html)*
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Mark Brockington](Mark_Brockington "Mark Brockington") (**1996**). *A Taxonomy of Parallel Game-Tree Search Algorithms*. [ICCA Journal, Vol. 19: No. 3](ICGA_Journal#19_3 "ICGA Journal")
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Research paper comparing various parallel search algorithms](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=78631) by koedem, [CCC](CCC "CCC"), November 10, 2021
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> UIDPABS = Unsynchronized Iteratively Deepening Parallel Alpha-Beta Search
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> CABP = Concurrent Alpha-Beta Pruning
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> It should also be noted that [Crafty](Crafty "Crafty") uses threads on [Windows](Windows "Windows"), and used processes on [Unix](Unix "Unix")
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> [threads vs processes again](http://www.talkchess.com/forum/viewtopic.php?t=22799) by [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), [CCC](CCC "CCC"), February 27, 2006
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") (**1985**). *[Lionel Moser](index.php?title=Lionel_Moser&action=edit&redlink=1 "Lionel Moser (page does not exist)"): An Experiment in Distributed Game Tree Searching.* [ICCA Journal, Vol. 8, No. 2](ICGA_Journal#8_2 "ICGA Journal") (Review)
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> [An Introduction to Computer Chess](https://cs.uwaterloo.ca/~alopez-o/divulge/chimp.html) by [Alejandro López-Ortiz](index.php?title=Alejandro_L%C3%B3pez-Ortiz&action=edit&redlink=1 "Alejandro López-Ortiz (page does not exist)"), 1993
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> [Nagging from Wikipedia](https://en.wikipedia.org/wiki/Nagging)
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> [Re: scorpio can run on 8192 cores](http://www.talkchess.com/forum/viewtopic.php?t=57343&start=5) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), August 29, 2015
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Transposition-driven scheduling - Wikipedia](https://en.wikipedia.org/wiki/Transposition-driven_scheduling)
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [Transposition driven scheduling](http://www.talkchess.com/forum/viewtopic.php?t=47700) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), April 04, 2013
+28. <a id="cite-ref-28" href="#cite-note-28">↑</a> [Dovetailing (computer science) from Wikipedia](https://en.wikipedia.org/wiki/Dovetailing_%28computer_science%29)
+29. <a id="cite-ref-29" href="#cite-note-29">↑</a> [Georg Hager's Blog | Random thoughts on High Performance Computing](https://blogs.fau.de/hager/)
+30. <a id="cite-ref-30" href="#cite-note-30">↑</a> [Re: Minmax backup operator for MCTS](http://www.talkchess.com/forum/viewtopic.php?t=66125&start=18) by [Brahim Hamadicharef](index.php?title=Brahim_Hamadicharef&action=edit&redlink=1 "Brahim Hamadicharef (page does not exist)"), [CCC](CCC "CCC"), December 30, 2017
+31. <a id="cite-ref-31" href="#cite-note-31">↑</a> [Message Passing Interface from Wikipedia](https://en.wikipedia.org/wiki/Message_Passing_Interface)
+32. <a id="cite-ref-32" href="#cite-note-32">↑</a> [John Romein](John_Romein "John Romein"), [Henri Bal](Henri_Bal "Henri Bal"), [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"), [Aske Plaat](Aske_Plaat "Aske Plaat") (**2002**). *A Performance Analysis of Transposition-Table-Driven Scheduling in Distributed Search*. IEEE Transactions on Parallel and Distributed Systems, Vol. 13, No. 5, pp. 447–459. [pdf](http://www.cs.vu.nl/~bal/Papers/tds.pdf)
+33. <a id="cite-ref-33" href="#cite-note-33">↑</a> [Message Passing Interface from Wikipedia](https://en.wikipedia.org/wiki/Message_Passing_Interface)
+34. <a id="cite-ref-34" href="#cite-note-34">↑</a> [std::async - cppreference.com](http://en.cppreference.com/w/cpp/thread/async)
+35. <a id="cite-ref-35" href="#cite-note-35">↑</a> [Parallel Search](http://www.tckerrigan.com/Chess/Parallel_Search/) by [[Tom Kerrigan]
+36. <a id="cite-ref-36" href="#cite-note-36">↑</a> ["How To" guide to parallel-izing an engine](http://www.talkchess.com/forum/viewtopic.php?t=65011) by [Tom Kerrigan](Tom_Kerrigan "Tom Kerrigan"), [CCC](CCC "CCC"), August 27, 2017
 
 **[Up one level](Search "Search")**
 

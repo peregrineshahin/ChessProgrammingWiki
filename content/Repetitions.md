@@ -5,7 +5,7 @@ title: Repetitions
 
 
 
- [](http://www.mcescher.com/Gallery/back-bmp/LW327.jpg) [M. C. Escher](Category:M._C._Escher "Category:M. C. Escher"), Reptiles, 1943 [[1]](#cite_note-1) 
+ [](http://www.mcescher.com/Gallery/back-bmp/LW327.jpg) [M. C. Escher](Category:M._C._Escher "Category:M. C. Escher"), Reptiles, 1943 <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Repetitions** of [positions](Chess_Position "Chess Position") may happen during [game play](Chess_Game "Chess Game") and inside the [search](Search "Search") of a chess program due to [reversible moves](Reversible_Moves "Reversible Moves") played from both sides, which might be nullified in one or multiple further reversible moves. The player to move **may** claim a [draw](Draw "Draw") if the same position occurs **three** times, or will occur after an intended move, in any order, with the same player to move. 
 
 
@@ -16,14 +16,14 @@ Two positions are considered same or equal, if all occupied squares and kind of 
 ## Rules
 
 
-The [rules of chess](Rules_of_Chess "Rules of Chess") state a [threefold repetition](https://en.wikipedia.org/wiki/Threefold_repetition) of a [position](Chess_Position "Chess Position") gives the [player to move](Side_to_move "Side to move") the option to claim a draw, no matter whether the threefold repetition already occurred yet, or is about to occur after declaring the intended move in conjunction with the draw claim. The latter case is a bit tricky for computers, and is/was likely not strictly implemented in most programs or their [user interfaces](User_Interface "User Interface"), since a draw message text or box appeared after the repetition occurs but no claim before. Since July 2014 a fivefold repetition is sufficient without any claim [[2]](#cite_note-2).
+The [rules of chess](Rules_of_Chess "Rules of Chess") state a [threefold repetition](https://en.wikipedia.org/wiki/Threefold_repetition) of a [position](Chess_Position "Chess Position") gives the [player to move](Side_to_move "Side to move") the option to claim a draw, no matter whether the threefold repetition already occurred yet, or is about to occur after declaring the intended move in conjunction with the draw claim. The latter case is a bit tricky for computers, and is/was likely not strictly implemented in most programs or their [user interfaces](User_Interface "User Interface"), since a draw message text or box appeared after the repetition occurs but no claim before. Since July 2014 a fivefold repetition is sufficient without any claim <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
 
 
 ### Fide Rule
 
 
-[[3]](#cite_note-3)
+<a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 
 
@@ -52,7 +52,7 @@ Positions as in (a) and (b) are considered the same, if the same player has the 
 ### Former Rule
 
 
-A former (German) rule, was believed to be sufficient to make the game of chess finite [[4]](#cite_note-4) :
+A former (German) rule, was believed to be sufficient to make the game of chess finite <a id="cite-note-4" href="#cite-ref-4">[4]</a> :
 
 
 
@@ -62,7 +62,7 @@ A chess game ends with a draw if a sequence of moves - with all pieces in exactl
 
 ```
 
-was proved not sufficient by [Max Euwe](Max_Euwe "Max Euwe") in 1929 by applying the [Prouhet–Thue–Morse Sequence](Max_Euwe#ProuhetThueMorseSequence "Max Euwe") [[5]](#cite_note-5) , i. e. with following move indices [[6]](#cite_note-6) :
+was proved not sufficient by [Max Euwe](Max_Euwe "Max Euwe") in 1929 by applying the [Prouhet–Thue–Morse Sequence](Max_Euwe#ProuhetThueMorseSequence "Max Euwe") <a id="cite-note-5" href="#cite-ref-5">[5]</a> , i. e. with following move indices <a id="cite-note-6" href="#cite-ref-6">[6]</a> :
 
 
 
@@ -99,7 +99,7 @@ By [position](Chess_Position "Chess Position") we mean the location of all the [
 ### Transposition Table
 
 
-One possible implementation was used by [Ken Thompson](Ken_Thompson "Ken Thompson") in [Belle](Belle "Belle"), who told [Bruce Moreland](Bruce_Moreland "Bruce Moreland") that he detected repetitions by using the [transposition hash table](Transposition_Table "Transposition Table"), as follows [[7]](#cite_note-7) :
+One possible implementation was used by [Ken Thompson](Ken_Thompson "Ken Thompson") in [Belle](Belle "Belle"), who told [Bruce Moreland](Bruce_Moreland "Bruce Moreland") that he detected repetitions by using the [transposition hash table](Transposition_Table "Transposition Table"), as follows <a id="cite-note-7" href="#cite-ref-7">[7]</a> :
 
 
 
@@ -131,7 +131,7 @@ This has the advantage that it uses data structures that are already present in 
 Most programs use an [array](Array "Array") or list of Zobrist- or BCH-keys and compare the current signature with keys 4, 6, 8 and so on [plies](Ply "Ply") along the actual variation. This is usually quite cheap, since testing often does not require looking through the entire list, since [captures](Captures "Captures") and [pawn moves](Pawn_Push "Pawn Push"), that reset the [halfmove clock](Halfmove_Clock "Halfmove Clock") for the purpose of enforcing [fifty-move rule](Fifty-move_Rule "Fifty-move Rule") are known to make a repetition impossible. Since each thread or process may own its own copy of the game-record, this approach has also some merits in [parallel search](Parallel_Search "Parallel Search") implementations.
 
 
-[John Stanback](John_Stanback "John Stanback") about his implementation in [Zarkov](Zarkov "Zarkov") [[8]](#cite_note-8):
+[John Stanback](John_Stanback "John Stanback") about his implementation in [Zarkov](Zarkov "Zarkov") <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
 
 
@@ -154,13 +154,13 @@ If the count is 2, then this is the third repetition and a draw score is returne
 ### Dedicated Hash Table
 
 
-Some programs, like [Gerbil](Gerbil "Gerbil") or [Rookie](Rookie "Rookie") use a separate small [hash table](Hash_Table "Hash Table"), actually an implementation of a [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter) revealed by [Ronald de Man](Ronald_de_Man "Ronald de Man") as mentioned by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck") in his thesis *The design and implementation of the Rookie 2.0 Chess Playing Program* [[9]](#cite_note-9):
+Some programs, like [Gerbil](Gerbil "Gerbil") or [Rookie](Rookie "Rookie") use a separate small [hash table](Hash_Table "Hash Table"), actually an implementation of a [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter) revealed by [Ronald de Man](Ronald_de_Man "Ronald de Man") as mentioned by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck") in his thesis *The design and implementation of the Rookie 2.0 Chess Playing Program* <a id="cite-note-9" href="#cite-ref-9">[9]</a>:
 
 
 
 
 ```C++
-It is tempting to use the transposition table to help detecting repeated positions. However, overloaded transposition tables can lose entries. So we choose something else [[10]](#cite_note-10)[[11]](#cite_note-11) : a dedicated, small, repetition hash table. This tables has 2^14 one-byte entries that are initially zero (totaling 16KB). When entering a new position, the low 14 bits of the hash-key are used to index the table and bump up its value by one. The value is restored after unmaking the move. When entering a node and its value is found to be non-zero already, we know there could be a cycle, which we verify by tracing back the actual variation. The repetition table is large enough to sufficiently reduce the number of false hits and this vaporizes the costs of futile back-traces. 
+It is tempting to use the transposition table to help detecting repeated positions. However, overloaded transposition tables can lose entries. So we choose something else <a id="cite-note-10" href="#cite-ref-10">[10]</a><a id="cite-note-11" href="#cite-ref-11">[11]</a> : a dedicated, small, repetition hash table. This tables has 2^14 one-byte entries that are initially zero (totaling 16KB). When entering a new position, the low 14 bits of the hash-key are used to index the table and bump up its value by one. The value is restored after unmaking the move. When entering a node and its value is found to be non-zero already, we know there could be a cycle, which we verify by tracing back the actual variation. The repetition table is large enough to sufficiently reduce the number of false hits and this vaporizes the costs of futile back-traces. 
 
 ```
 
@@ -171,7 +171,7 @@ It is tempting to use the transposition table to help detecting repeated positio
 ## Repetition of Moves
 
 
-An alternative, pragmatical approach based on repetitions of [moves](Moves "Moves") was proposed by [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković") and [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović") in 2004, as implemented in [Axon](Axon "Axon") [[12]](#cite_note-12) and discussed in [CCC](CCC "CCC") [[13]](#cite_note-13) [[14]](#cite_note-14). 
+An alternative, pragmatical approach based on repetitions of [moves](Moves "Moves") was proposed by [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković") and [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović") in 2004, as implemented in [Axon](Axon "Axon") <a id="cite-note-12" href="#cite-ref-12">[12]</a> and discussed in [CCC](CCC "CCC") <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a>. 
 
 
 The algorithm needs a [move list](Move_List "Move List") containing the [game record](Chess_Game#GameRecord "Chess Game") including the variation actually [searched](Search "Search"), 16-bit entries with [origin](Origin_Square "Origin Square") and [target square](Target_Square "Target Square"), and a flag whether a move is [irreversible](Irreversible_Moves "Irreversible Moves"), as only information required. Starting with the last move made, the list is scanned backwards as long there are [reversible moves](Reversible_Moves "Reversible Moves"). A local concatenating list of up to 24 entries (one entry for each piece able to make reversible moves) is used to determine cycles per piece, where consecutive moves on their target squares are merged to one "pseudo" move, using the earliest origin and the latest target square. If all distinct white and black moving pieces in the chain list contain equal from- and to coordinates, all cycles of moves are closed and a move repetition is detected. This is how the algorithm as given in the paper in [8086](8086 "8086") [assembly](Assembly "Assembly") looks in pseudo [C++](Cpp "Cpp"), square coordinates are offset from a 12\*12 [mailbox](Mailbox "Mailbox") approach, so that empty entries have no valid square index. 
@@ -261,8 +261,8 @@ l: m = *pVariant--; /* fetch move and decrement move list pointer */
 ### 2000 ...
 
 
-* [Thomas Lincke](Thomas_Lincke "Thomas Lincke") (**2002**). *Exploring the Computational Limits of Large Exhaustive Search Problems*. Ph.D thesis, [ETH Zurich](ETH_Zurich "ETH Zurich"), [pdf](http://e-collection.library.ethz.ch/eserv/eth:25905/eth-25905-02.pdf), [[15]](#cite_note-15) Chapter 4.3 Cycles
-* [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković"), [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović") (**2004**). *A New Approach to Draw Detection by Move Repetition in Computer Chess Programming.* [CoRR arXiv:cs/0406038](http://arxiv.org/abs/cs/0406038) [[16]](#cite_note-16) [[17]](#cite_note-17)
+* [Thomas Lincke](Thomas_Lincke "Thomas Lincke") (**2002**). *Exploring the Computational Limits of Large Exhaustive Search Problems*. Ph.D thesis, [ETH Zurich](ETH_Zurich "ETH Zurich"), [pdf](http://e-collection.library.ethz.ch/eserv/eth:25905/eth-25905-02.pdf), <a id="cite-note-15" href="#cite-ref-15">[15]</a> Chapter 4.3 Cycles
+* [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković"), [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović") (**2004**). *A New Approach to Draw Detection by Move Repetition in Computer Chess Programming.* [CoRR arXiv:cs/0406038](http://arxiv.org/abs/cs/0406038) <a id="cite-note-16" href="#cite-ref-16">[16]</a> <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 * [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2004**). *A General Solution to the Graph History Interaction Problem*. [AAAI](AAAI "AAAI") National Conference, [pdf](http://webdocs.cs.ualberta.ca/~mmueller/ps/aaai-ghi.pdf)
 * [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto") (**2005**). *Correct and Efficient Search Algorithms in the Presence of Repetitions*. Ph.D. thesis, [University of Alberta](University_of_Alberta "University of Alberta"), Received the 2005 [ChessBase](ChessBase "ChessBase") [Best-Publication Award](ICGA#BestPublicationAwards "ICGA"), [pdf](http://www.is.titech.ac.jp/%7Ekishi/pdf_file/kishi_phd_thesis.pdf) » [Proof-Number Search](Proof-Number_Search "Proof-Number Search")
 * [Akihiro Kishimoto](Akihiro_Kishimoto "Akihiro Kishimoto"), [Martin Müller](Martin_M%C3%BCller "Martin Müller") (**2005**). *A Solution to the GHI Problem for Depth-First Proof-Number Search*. 7th Joint Conference on Information Sciences (JCIS2003), pp. 489 - 492, [pdf](http://webdocs.cs.ualberta.ca/~mmueller/ps/kishimoto-mueller-infsci-ghi.pdf) » [Graph History Interaction](Graph_History_Interaction "Graph History Interaction")
@@ -272,7 +272,7 @@ l: m = *pVariant--; /* fetch move and decrement move list pointer */
 ### 2010 ...
 
 
-* [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck") (**2013**). *A fast software-based method for upcoming cycle detection in search trees*. [pdf preview](http://marcelk.net/2013-04-06/paper/upcoming-rep-v2.pdf) [[18]](#cite_note-18)
+* [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck") (**2013**). *A fast software-based method for upcoming cycle detection in search trees*. [pdf preview](http://marcelk.net/2013-04-06/paper/upcoming-rep-v2.pdf) <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 
 ## Forum Posts
@@ -511,24 +511,24 @@ l: m = *pVariant--; /* fetch move and decrement move list pointer */
 ## References
 
 
-1. [↑](#cite_ref-1) [Picture gallery "Back in Holland 1941 - 1954"](http://www.mcescher.com/Gallery/back-bmp/LW327.jpg) from [The Official M.C. Escher Website](http://www.mcescher.com/)
-2. [↑](#cite_ref-2) [FIDE's new rules for chess](http://www.talkchess.com/forum/viewtopic.php?t=53030) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), July 20, 2014
-3. [↑](#cite_ref-3) [Fide Handbook - E.I.01A. Laws of Chess](http://www.fide.com/component/handbook/?id=124&view=article)
-4. [↑](#cite_ref-4) [Mathematical Problems - Max Euwe's sequence](http://www.fh-friedberg.de/users/boergens/english/problems/problem059engl.htm) by [Manfred Börgens](http://www.fh-friedberg.de/users/boergens/main.htm)
-5. [↑](#cite_ref-5) [Max Euwe](Max_Euwe "Max Euwe") (**1929**). *Mengentheoretische Betrachtungen über das Schachspiel*, Proc. Konin. Akad. Wetenschappen (Amsterdam)
-6. [↑](#cite_ref-6) [Mathematical Problems - Max Euwe's sequence - Solution](http://www.fh-friedberg.de/users/boergens/english/problems/problem059englloe.htm) by [Manfred Börgens](http://www.fh-friedberg.de/users/boergens/main.htm)
-7. [↑](#cite_ref-7) [Repetition Detection](http://web.archive.org/web/20040427014858/brucemo.com/compchess/programming/repetition.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
-8. [↑](#cite_ref-8) [Draw by Repetition Code, post 4](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/7edf36b54a47267d) by [John Stanback](John_Stanback "John Stanback"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 31, 1996
-9. [↑](#cite_ref-9) [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck") (**2002**). *The design and implementation of the Rookie 2.0 Chess Playing Program*. Masters Thesis, [pdf](http://alexandria.tue.nl/extra2/afstversl/wsk-i/kervinck2002.pdf)
-10. [↑](#cite_ref-10) Courtesy [Ronald de Man](Ronald_de_Man "Ronald de Man") for revealing this implementation trick
-11. [↑](#cite_ref-11) [Re: triple repetition](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/c431ac1739de871b/d8f8d6ee1b252b86) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 27, 1997
-12. [↑](#cite_ref-12) [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković"), [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović") (**2004**). *A New Approach to Draw Detection by Move Repetition in Computer Chess Programming.* [CoRR arXiv:cs/0406038](http://arxiv.org/abs/cs/0406038)
-13. [↑](#cite_ref-13) [A New Approach to Draw Detection by Move Repetition](https://www.stmintz.com/ccc/index.php?id=379648) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), July 29, 2004
-14. [↑](#cite_ref-14) [Draw Detection by Move Repetition Procedure - Comments](https://www.stmintz.com/ccc/index.php?id=380201) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), August 01, 2004
-15. [↑](#cite_ref-15) [Re: Aquarium IDEA, repetitions, and minimax over cycles](http://www.open-chess.org/viewtopic.php?f=5&t=2093#p17469) by [syzygy](Ronald_de_Man "Ronald de Man"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), September 22, 2012
-16. [↑](#cite_ref-16) [A New Approach to Draw Detection by Move Repetition](https://www.stmintz.com/ccc/index.php?id=379648) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), July 29, 2004
-17. [↑](#cite_ref-17) [Draw Detection by Move Repetition Procedure - Comments](https://www.stmintz.com/ccc/index.php?id=380201) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), August 01, 2004
-18. [↑](#cite_ref-18) [Upcoming repetition detection](http://www.open-chess.org/viewtopic.php?f=5&t=2300) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 06, 2013
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Picture gallery "Back in Holland 1941 - 1954"](http://www.mcescher.com/Gallery/back-bmp/LW327.jpg) from [The Official M.C. Escher Website](http://www.mcescher.com/)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [FIDE's new rules for chess](http://www.talkchess.com/forum/viewtopic.php?t=53030) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), July 20, 2014
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Fide Handbook - E.I.01A. Laws of Chess](http://www.fide.com/component/handbook/?id=124&view=article)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Mathematical Problems - Max Euwe's sequence](http://www.fh-friedberg.de/users/boergens/english/problems/problem059engl.htm) by [Manfred Börgens](http://www.fh-friedberg.de/users/boergens/main.htm)
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Max Euwe](Max_Euwe "Max Euwe") (**1929**). *Mengentheoretische Betrachtungen über das Schachspiel*, Proc. Konin. Akad. Wetenschappen (Amsterdam)
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Mathematical Problems - Max Euwe's sequence - Solution](http://www.fh-friedberg.de/users/boergens/english/problems/problem059englloe.htm) by [Manfred Börgens](http://www.fh-friedberg.de/users/boergens/main.htm)
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Repetition Detection](http://web.archive.org/web/20040427014858/brucemo.com/compchess/programming/repetition.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Draw by Repetition Code, post 4](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/7edf36b54a47267d) by [John Stanback](John_Stanback "John Stanback"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), December 31, 1996
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck") (**2002**). *The design and implementation of the Rookie 2.0 Chess Playing Program*. Masters Thesis, [pdf](http://alexandria.tue.nl/extra2/afstversl/wsk-i/kervinck2002.pdf)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> Courtesy [Ronald de Man](Ronald_de_Man "Ronald de Man") for revealing this implementation trick
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Re: triple repetition](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/c431ac1739de871b/d8f8d6ee1b252b86) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [rgcc](Computer_Chess_Forums "Computer Chess Forums"), October 27, 1997
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Vladan Vučković](Vladan_Vu%C4%8Dkovi%C4%87 "Vladan Vučković"), [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović") (**2004**). *A New Approach to Draw Detection by Move Repetition in Computer Chess Programming.* [CoRR arXiv:cs/0406038](http://arxiv.org/abs/cs/0406038)
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [A New Approach to Draw Detection by Move Repetition](https://www.stmintz.com/ccc/index.php?id=379648) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), July 29, 2004
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Draw Detection by Move Repetition Procedure - Comments](https://www.stmintz.com/ccc/index.php?id=380201) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), August 01, 2004
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [Re: Aquarium IDEA, repetitions, and minimax over cycles](http://www.open-chess.org/viewtopic.php?f=5&t=2093#p17469) by [syzygy](Ronald_de_Man "Ronald de Man"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), September 22, 2012
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [A New Approach to Draw Detection by Move Repetition](https://www.stmintz.com/ccc/index.php?id=379648) by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto"), [CCC](CCC "CCC"), July 29, 2004
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Draw Detection by Move Repetition Procedure - Comments](https://www.stmintz.com/ccc/index.php?id=380201) by [Đorđe Vidanović](%C4%90or%C4%91e_Vidanovi%C4%87 "Đorđe Vidanović"), [CCC](CCC "CCC"), August 01, 2004
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [Upcoming repetition detection](http://www.open-chess.org/viewtopic.php?f=5&t=2300) by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), April 06, 2013
 
 **[Up one Level](Search "Search")**
 

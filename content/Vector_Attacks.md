@@ -5,8 +5,8 @@ title: Vector Attacks
 
 
 
-[ Position Vector [[1]](#cite_note-1)
-**Vector Attacks** [[2]](#cite_note-2),
+[ Position Vector <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+**Vector Attacks** <a id="cite-note-2" href="#cite-ref-2">[2]</a>,
 
 
 the application of [vectors](https://en.wikipedia.org/wiki/Euclidean_vector) in the [Chebyshev](https://en.wikipedia.org/wiki/Chebyshev_distance) [vector space](https://en.wikipedia.org/wiki/Vector_space) of a [chessboard](Chessboard "Chessboard") to the problem of chess [attacks](Attacks "Attacks"), including [static exchange evaluation (SEE)](Static_Exchange_Evaluation "Static Exchange Evaluation"), and testing whether [moves](Moves "Moves") are [pseudo-legal](Pseudo-Legal_Move "Pseudo-Legal Move").
@@ -36,7 +36,7 @@ Represented as such a square difference, displacement vectors can be used to ind
 ## Superimposed Lookup
 
 
-8x8 tables inside 15x15 tables were already proposed by [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") as used in [Pioneer](Pioneer "Pioneer") [[3]](#cite_note-3). The table below demonstrates the vector enumeration from a square (here c2) on a 8x8 board, superimposed on the 15x15 array in such a way that the from square (c2) coincides with the central square of the 15x15 array, which is the origin, tail, or base of all displacement vectors.
+8x8 tables inside 15x15 tables were already proposed by [Mikhail Botvinnik](Mikhail_Botvinnik "Mikhail Botvinnik") as used in [Pioneer](Pioneer "Pioneer") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. The table below demonstrates the vector enumeration from a square (here c2) on a 8x8 board, superimposed on the 15x15 array in such a way that the from square (c2) coincides with the central square of the 15x15 array, which is the origin, tail, or base of all displacement vectors.
 
 
 
@@ -131,14 +131,14 @@ char rayUnitVectorQueen[15*15];
 During offset [move generation](Move_Generation "Move Generation"), each piece applies a specific displacement or **increment vector** (offset) for each move direction, added to the position vector of the [origin square](Origin_Square "Origin Square") to determine the next potential [move target](Target_Square "Target Square") in that direction, [sliding pieces](Sliding_Pieces "Sliding Pieces") continuing in the same direction as long the targets are empty. Due to the additional padded files and possibly ranks, off the board test are as simple as the [10x12 board](10x12_Board "10x12 Board") with surrounding files and ranks containing off the board codes as [sentinel values](https://en.wikipedia.org/wiki/Sentinel_value). The [0x88](0x88 "0x88") approach, a special 16x8 implementation of Vector Attacks, already indicates outside squares by its upper [nibble](Nibble "Nibble") bits masked by 0x88.
 
 
-One may argue, the 0x88 test is cheaper for off the board tests, because it does not need to lookup if the 0x88 test is true. On the other hand, for most cases, if false, it needs a lookup anyway, to perform a second test whether the square is empty, or occupied by an own or opponent piece [[4]](#cite_note-4) [[5]](#cite_note-5).
+One may argue, the 0x88 test is cheaper for off the board tests, because it does not need to lookup if the 0x88 test is true. On the other hand, for most cases, if false, it needs a lookup anyway, to perform a second test whether the square is empty, or occupied by an own or opponent piece <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 
 
 ## New Architecture
 
 
-Vector Attacks based on a 15x12 board were topic of [Fritz Reul's](Fritz_Reul "Fritz Reul") Ph.D. thesis *New Architectures in Computer Chess*, code samples given from Reul's [Loop Leiden](Loop_(Program)#32bit "Loop (Program)") engine [[6]](#cite_note-6).
+Vector Attacks based on a 15x12 board were topic of [Fritz Reul's](Fritz_Reul "Fritz Reul") Ph.D. thesis *New Architectures in Computer Chess*, code samples given from Reul's [Loop Leiden](Loop_(Program)#32bit "Loop (Program)") engine <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
 
 
@@ -241,7 +241,7 @@ sq0x88 = sq + (sq & ~7);
 ### 15x12
 
 
-The odd number of files makes the [square color](Color_of_a_Square "Color of a Square") only dependent from the least significant index bit. Usually the seven surrounding border files are divided 4:3 (Offset 34) or 3:4 (Offset 33). One may also use 15x15 for a symmetric treatment of files and ranks as proposed by [Fritz Reul](Fritz_Reul "Fritz Reul") [[7]](#cite_note-7) .
+The odd number of files makes the [square color](Color_of_a_Square "Color of a Square") only dependent from the least significant index bit. Usually the seven surrounding border files are divided 4:3 (Offset 34) or 3:4 (Offset 33). One may also use 15x15 for a symmetric treatment of files and ranks as proposed by [Fritz Reul](Fritz_Reul "Fritz Reul") <a id="cite-note-7" href="#cite-ref-7">[7]</a> .
 
 
 
@@ -285,7 +285,7 @@ file07  =   sq15x12 - 34  - 15 * rank07; // % 15
 ### 16x12
 
 
-Usually the eight surrounding border files are divided 4:4, so the offset of the upper left square is 36. For a symmetric treatment of files and ranks, 16x16 is also quite common [[8]](#cite_note-8) .
+Usually the eight surrounding border files are divided 4:4, so the offset of the upper left square is 36. For a symmetric treatment of files and ranks, 16x16 is also quite common <a id="cite-note-8" href="#cite-ref-8">[8]</a> .
 
 
 
@@ -353,7 +353,7 @@ sq8x8 = (((sq16x12 >> 4) - 2) << 3) + (sq16x12 & 0xf) - 4;
 ### Conclusion
 
 
-A combination of 0x88 and [10x12 Board](10x12_Board "10x12 Board") with surrounded ranks, that is 16x12 or even 16x16 for a symmetric treatment of files and ranks (or 15x12, 15x15) seems slightly more efficient than pure 0x88 aka 16x8, making the "off the board" index condition almost redundant, since it can be combined with the coding of the guard or sentinal squares [[9]](#cite_note-9) [[10]](#cite_note-10) [[11]](#cite_note-11) [[12]](#cite_note-12) .
+A combination of 0x88 and [10x12 Board](10x12_Board "10x12 Board") with surrounded ranks, that is 16x12 or even 16x16 for a symmetric treatment of files and ranks (or 15x12, 15x15) seems slightly more efficient than pure 0x88 aka 16x8, making the "off the board" index condition almost redundant, since it can be combined with the coding of the guard or sentinal squares <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a> .
 
 
 
@@ -424,18 +424,18 @@ A combination of 0x88 and [10x12 Board](10x12_Board "10x12 Board") with surround
 ## References
 
 
-1. [↑](#cite_ref-1) A vector in the [Cartesian plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system), showing the position of a point A with coordinates (2,3), [Euclidean vector from Wikipedia](https://en.wikipedia.org/wiki/Euclidean_vector)
-2. [↑](#cite_ref-2) [Re: Fruit's Board Representation?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=2407&p=11195#p11109) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 28, 2005
-3. [↑](#cite_ref-3) [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf)
-4. [↑](#cite_ref-4) [Re: Question:1.hashtable 2.board 3.C](https://www.stmintz.com/ccc/index.php?id=114377) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](CCC "CCC"), June 13, 2000
-5. [↑](#cite_ref-5) [0x88 is not so smart](https://www.stmintz.com/ccc/index.php?id=114438) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](CCC "CCC"), June 13, 2000
-6. [↑](#cite_ref-6) [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*. Ph.D. Thesis, *Chapter 2 Non-Bitboard Architectures*
-7. [↑](#cite_ref-7) [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*. Ph.D. Thesis, *Chapter 2 Non-Bitboard Architectures*
-8. [↑](#cite_ref-8) [Re: Fruit's Board Representation?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=2407&p=11195#p11109) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 28, 2005
-9. [↑](#cite_ref-9) [Re: Question:1.hashtable 2.board 3.C](https://www.stmintz.com/ccc/index.php?id=114377) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), June 13, 2000
-10. [↑](#cite_ref-10) [Re: Fruit's Board Representation?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=2407&p=11195#p11109) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 28, 2005
-11. [↑](#cite_ref-11) [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*. Ph.D. Thesis, 2.2.1 *Computer Chessboard Representation*
-12. [↑](#cite_ref-12) [Re: Recommended board representation for a rookie](http://www.talkchess.com/forum/viewtopic.php?t=62279&start=6) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), November 26, 2016
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> A vector in the [Cartesian plane](https://en.wikipedia.org/wiki/Cartesian_coordinate_system), showing the position of a point A with coordinates (2,3), [Euclidean vector from Wikipedia](https://en.wikipedia.org/wiki/Euclidean_vector)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Re: Fruit's Board Representation?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=2407&p=11195#p11109) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 28, 2005
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Boris Stilman](Boris_Stilman "Boris Stilman") (**1994**). *A Linguistic Geometry of the Chess Model*. [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), [pdf draft](http://www.stilman-strategies.com/bstilman/boris_papers/Jour94_CHESS7.pdf)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Re: Question:1.hashtable 2.board 3.C](https://www.stmintz.com/ccc/index.php?id=114377) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](CCC "CCC"), June 13, 2000
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [0x88 is not so smart](https://www.stmintz.com/ccc/index.php?id=114438) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](CCC "CCC"), June 13, 2000
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*. Ph.D. Thesis, *Chapter 2 Non-Bitboard Architectures*
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*. Ph.D. Thesis, *Chapter 2 Non-Bitboard Architectures*
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Re: Fruit's Board Representation?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=2407&p=11195#p11109) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 28, 2005
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Re: Question:1.hashtable 2.board 3.C](https://www.stmintz.com/ccc/index.php?id=114377) by [Christophe Théron](Christophe_Th%C3%A9ron "Christophe Théron"), [CCC](Computer_Chess_Forums "Computer Chess Forums"), June 13, 2000
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Re: Fruit's Board Representation?](http://www.open-aurec.com/wbforum/viewtopic.php?f=4&t=2407&p=11195#p11109) by [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), April 28, 2005
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [Fritz Reul](Fritz_Reul "Fritz Reul") (**2009**). *New Architectures in Computer Chess*. Ph.D. Thesis, 2.2.1 *Computer Chessboard Representation*
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Re: Recommended board representation for a rookie](http://www.talkchess.com/forum/viewtopic.php?t=62279&start=6) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), November 26, 2016
 
 **[Up one Level](Mailbox "Mailbox")**
 

@@ -3,7 +3,7 @@ title: Checkmate
 ---
 **[Home](Home "Home") * [Chess](Chess "Chess") * Checkmate**
 
-[](File:Foolsmate.jpg) [Shannon Larratt](index.php?title=Category:Shannon_Larratt&action=edit&redlink=1 "Category:Shannon Larratt (page does not exist)") - Fool's mate (2007) [[1]](#cite_note-1) [[2]](#cite_note-2) [[3]](#cite_note-3)
+[](File:Foolsmate.jpg) [Shannon Larratt](index.php?title=Category:Shannon_Larratt&action=edit&redlink=1 "Category:Shannon Larratt (page does not exist)") - Fool's mate (2007) <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 **Checkmate** (often shortened to **mate**) occurs if a [king](King "King") is under immediate attack by one (or two) opponent pieces (in [check](Check "Check")) and has no way to remove it from attack on the next move. Checkmate is the object of the game of chess, it ends with the mate giving player as the winner, and the mated player the loser.
 
 ## Mate Score
@@ -24,7 +24,7 @@ Inside a 16-bit [short](Word "Word") integer range, assuming [centipawn](Centipa
 
 ## Down the Tree
 
-Inside a [negamax](Negamax "Negamax") based [search](Search "Search"), most [[4]](#cite_note-4) programs assign *VALUE_MATED + [ply](Ply "Ply") distance to the root* as worst case score if entering a [node](Node "Node"), which if propagated as mate score along the [Principal Variation](Principal_Variation "Principal Variation") to the root, translates in mate in odd plies (positive values), or getting mated in even plies. However, those scores need ply-adjustment if stored as [exact score](Exact_Score "Exact Score") inside the [transposition table](Transposition_Table "Transposition Table"), and re-adjustment if retrieving from TT. An alternative approach, not only related to mate scores was proposed by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), *The Delay Penalty* as implemented in [Micro-Max](Micro-Max "Micro-Max") [[5]](#cite_note-5) [[6]](#cite_note-6) [[7]](#cite_note-7) [[8]](#cite_note-8).
+Inside a [negamax](Negamax "Negamax") based [search](Search "Search"), most <a id="cite-note-4" href="#cite-ref-4">[4]</a> programs assign *VALUE_MATED + [ply](Ply "Ply") distance to the root* as worst case score if entering a [node](Node "Node"), which if propagated as mate score along the [Principal Variation](Principal_Variation "Principal Variation") to the root, translates in mate in odd plies (positive values), or getting mated in even plies. However, those scores need ply-adjustment if stored as [exact score](Exact_Score "Exact Score") inside the [transposition table](Transposition_Table "Transposition Table"), and re-adjustment if retrieving from TT. An alternative approach, not only related to mate scores was proposed by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), *The Delay Penalty* as implemented in [Micro-Max](Micro-Max "Micro-Max") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>.
 
 ## Detecting Mate
 
@@ -109,7 +109,7 @@ Some programs rely on [pseudo-legal move generation](Move_Generation "Move Gener
 - [Mate in 7 moves - diagram](https://www.stmintz.com/ccc/index.php?id=130700) by [Eduard Nemeth](index.php?title=Eduard_Nemeth&action=edit&redlink=1 "Eduard Nemeth (page does not exist)"), [CCC](CCC "CCC"), September 27, 2000 » [Zugzwang](Zugzwang "Zugzwang")
 - [Static Mate Detection](https://www.stmintz.com/ccc/index.php?id=209201) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), [CCC](CCC "CCC"), January 22, 2002 » [Mate at a Glance](Mate_at_a_Glance "Mate at a Glance")
 - [First mate in 2, then mate in 3](https://www.stmintz.com/ccc/index.php?id=287666) by [Albert Bertilsson](Albert_Bertilsson "Albert Bertilsson"), [CCC](CCC "CCC"), March 03, 2003
-- [Easy mate](https://www.stmintz.com/ccc/index.php?id=315666) by [Frank Phillips](Frank_Phillips "Frank Phillips"), [CCC](CCC "CCC"), September 13, 2003 [[9]](#cite_note-9)
+- [Easy mate](https://www.stmintz.com/ccc/index.php?id=315666) by [Frank Phillips](Frank_Phillips "Frank Phillips"), [CCC](CCC "CCC"), September 13, 2003 <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ## 2005 ...
 
@@ -229,15 +229,15 @@ Some programs rely on [pseudo-legal move generation](Move_Generation "Move Gener
 
 ## References
 
-1. [↑](#cite_ref-1) [Shannon Larratt](index.php?title=Category:Shannon_Larratt&action=edit&redlink=1 "Category:Shannon Larratt (page does not exist)") - [Fool's mate](https://en.wikipedia.org/wiki/Fool's_mate) (2007) from Tableaux ayant pour sujet les échecs (dead link)
-1. [↑](#cite_ref-2) [In Loving Memory of Shannon Larratt 1:24](https://youtu.be/CILh2HaDS4Y?t=1m24s), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
-1. [↑](#cite_ref-3) [Shannon Larratt is Zentastic › Blog archives](http://www.zentastic.com/blog/2007/02/page/6/), February 09, 2007
-1. [↑](#cite_ref-4) [The Code for the Rybka-Mate-Bug](https://www.stmintz.com/ccc/index.php?id=469728) by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), [CCC](CCC "CCC"), December 13, 2005
-1. [↑](#cite_ref-5) [Evaluation: Aging - The Delay Penalty](http://home.hccnet.nl/h.g.muller/delay.html) from [Micro-Max](Micro-Max "Micro-Max") by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
-1. [↑](#cite_ref-6) [Re: Transposition Tables](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=147295&t=15129) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), September 26, 2007
-1. [↑](#cite_ref-7) [Delayed-loss-bonus discussion goes here](http://www.talkchess.com/forum/viewtopic.php?t=16751) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), September 28, 2007
-1. [↑](#cite_ref-8) [Seeing a promotion, but not playing it...](http://www.talkchess.com/forum/viewtopic.php?t=31981) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 24, 2010
-1. [↑](#cite_ref-9) [Frank Phillips' KNNKP position revisited ...](https://www.stmintz.com/ccc/index.php?id=316547) by [Guy Haworth](Guy_Haworth "Guy Haworth"), [CCC](CCC "CCC"), September 18, 2003 » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Shannon Larratt](index.php?title=Category:Shannon_Larratt&action=edit&redlink=1 "Category:Shannon Larratt (page does not exist)") - [Fool's mate](https://en.wikipedia.org/wiki/Fool's_mate) (2007) from Tableaux ayant pour sujet les échecs (dead link)
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [In Loving Memory of Shannon Larratt 1:24](https://youtu.be/CILh2HaDS4Y?t=1m24s), [YouTube](https://en.wikipedia.org/wiki/YouTube) Video
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Shannon Larratt is Zentastic › Blog archives](http://www.zentastic.com/blog/2007/02/page/6/), February 09, 2007
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Code for the Rybka-Mate-Bug](https://www.stmintz.com/ccc/index.php?id=469728) by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger"), [CCC](CCC "CCC"), December 13, 2005
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Evaluation: Aging - The Delay Penalty](http://home.hccnet.nl/h.g.muller/delay.html) from [Micro-Max](Micro-Max "Micro-Max") by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller")
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Re: Transposition Tables](http://www.talkchess.com/forum/viewtopic.php?topic_view=threads&p=147295&t=15129) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), September 26, 2007
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Delayed-loss-bonus discussion goes here](http://www.talkchess.com/forum/viewtopic.php?t=16751) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), September 28, 2007
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Seeing a promotion, but not playing it...](http://www.talkchess.com/forum/viewtopic.php?t=31981) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), January 24, 2010
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Frank Phillips' KNNKP position revisited ...](https://www.stmintz.com/ccc/index.php?id=316547) by [Guy Haworth](Guy_Haworth "Guy Haworth"), [CCC](CCC "CCC"), September 18, 2003 » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases")
 
 **[Up one Level](Chess "Chess")**
 

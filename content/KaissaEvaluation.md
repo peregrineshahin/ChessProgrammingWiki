@@ -5,11 +5,11 @@ title: KaissaEvaluation
 
 
 
-[ Caïssa [[1]](#cite_note-1)
+[ Caïssa <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Kaissa**, (Russian: Каисса)
 
 
-the famous chess program developed from [1970](Timeline#1970 "Timeline") at the Moscow [Institute of Control Sciences](Institute_of_Control_Sciences "Institute of Control Sciences") by a group of researchers around [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") and authors of the former [ITEP Chess Program](ITEP_Chess_Program "ITEP Chess Program"). In 1972 it was named after the goddess of chess [Caïssa](https://en.wikipedia.org/wiki/Ca%C3%AFssa) and won the [1st World Computer Chess Championship](WCCC_1974 "WCCC 1974") 1974 in Stockholm, where it ran on an [IBM 360](IBM_360 "IBM 360") compatible [ICL 4/70](ICL_4-70 "ICL 4-70") [[2]](#cite_note-2) [[3]](#cite_note-3). Kaissa was a quite sophisticated program for that time. It was a [Shannon Type A program](Type_A_Strategy "Type A Strategy"), using [Bitboards](Bitboards "Bitboards") for the internal [board representation](Board_Representation "Board Representation") and advanced search techniques, notably already the idea of [null move pruning](Null_Move_Pruning "Null Move Pruning") [[4]](#cite_note-4) [[5]](#cite_note-5).
+the famous chess program developed from [1970](Timeline#1970 "Timeline") at the Moscow [Institute of Control Sciences](Institute_of_Control_Sciences "Institute of Control Sciences") by a group of researchers around [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") and authors of the former [ITEP Chess Program](ITEP_Chess_Program "ITEP Chess Program"). In 1972 it was named after the goddess of chess [Caïssa](https://en.wikipedia.org/wiki/Ca%C3%AFssa) and won the [1st World Computer Chess Championship](WCCC_1974 "WCCC 1974") 1974 in Stockholm, where it ran on an [IBM 360](IBM_360 "IBM 360") compatible [ICL 4/70](ICL_4-70 "ICL 4-70") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Kaissa was a quite sophisticated program for that time. It was a [Shannon Type A program](Type_A_Strategy "Type A Strategy"), using [Bitboards](Bitboards "Bitboards") for the internal [board representation](Board_Representation "Board Representation") and advanced search techniques, notably already the idea of [null move pruning](Null_Move_Pruning "Null Move Pruning") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 
 
 
@@ -24,21 +24,21 @@ the famous chess program developed from [1970](Timeline#1970 "Timeline") at the 
 ## Further Authors
 
 
-directly working on the program [[11]](#cite_note-11) :
+directly working on the program <a id="cite-note-11" href="#cite-ref-11">[11]</a> :
 
 
 
 * [Anatoly Uskov](Anatoly_Uskov "Anatoly Uskov")
 * [Alexander Bitman](Alexander_Bitman "Alexander Bitman")
-* A. Baraev [[12]](#cite_note-12)
-* A. Leman [[13]](#cite_note-13)
-* M. Rozenfeld [[14]](#cite_note-14)
+* A. Baraev <a id="cite-note-12" href="#cite-ref-12">[12]</a>
+* A. Leman <a id="cite-note-13" href="#cite-ref-13">[13]</a>
+* M. Rozenfeld <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 
 ## History of Kaissa
 
 
-by [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (1999) [[15]](#cite_note-15)
+by [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (1999) <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 
 
@@ -106,7 +106,7 @@ Kaissa participated in the first three [world championships](World_Computer_Ches
 [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") - one of the first Soviet programmers (together with [Alexander Kronrod](Alexander_Kronrod "Alexander Kronrod"), [Alexander Brudno](Alexander_Brudno "Alexander Brudno"), [Evgenii Landis](Mathematician#Landis "Mathematician") and others). He was occupied by the programs, connected with [nuclear physics](https://en.wikipedia.org/wiki/Nuclear_physics) at [ITEP](Institute_of_Theoretical_and_Experimental_Physics "Institute of Theoretical and Experimental Physics"), where he devised many algorithms which became classical. Especially the equilibrium binary trees, which in the entire world are called [AVL trees](https://en.wikipedia.org/wiki/AVL_tree) after the names of the authors - Adelson-Velsky and Landis. After short-term teaching at [MGU](Moscow_State_University "Moscow State University") he worked at IPU and VNIISI (All-Union Scientific Research Institute of Sanitary Testing) on discrete algorithms, [network planning](https://en.wikipedia.org/wiki/Network_planning_and_design) and [artificial intelligence](Artificial_Intelligence "Artificial Intelligence"). He now lives in Israel and works at [Technion](https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology) on [NP problems of complete tasks](https://en.wikipedia.org/wiki/NP_%28complexity%29).
 
 
-[Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov") - creator of original Soviet [DBMS](https://en.wikipedia.org/wiki/Database) (Data Base Management System) INES, on base of which were made many information systems of different level. He worked his entire life on programs of [pattern recognition](Pattern_Recognition "Pattern Recognition"). At present Head of *Cognitive Technologies* company, by its famous [OCR-system](https://en.wikipedia.org/wiki/Optical_character_recognition) *CuneiForm* and by the *System for Discrete Speech Recognition*. [[16]](#cite_note-16)
+[Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov") - creator of original Soviet [DBMS](https://en.wikipedia.org/wiki/Database) (Data Base Management System) INES, on base of which were made many information systems of different level. He worked his entire life on programs of [pattern recognition](Pattern_Recognition "Pattern Recognition"). At present Head of *Cognitive Technologies* company, by its famous [OCR-system](https://en.wikipedia.org/wiki/Optical_character_recognition) *CuneiForm* and by the *System for Discrete Speech Recognition*. <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 
 [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") - author of archive system INES, by the former basis of system support many VTs on the base YeS EVM (Unified System of Computers). He is recently occupied by the problems of the user interface. Now the Director-General of DISCo (Donskoy Interactive Software Company), with a number of products for the Internet and others.
@@ -159,14 +159,14 @@ From June 14 to 20 this year (1999) in Paderborn (FRG) will helt the [world cham
 ## Kaissa for PC
 
 
-In 1990, Kaissa was re-written by a 9-member team around [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") to run on a [PC](IBM_PC "IBM PC"). Kaissa played the [2nd Computer Olympiad 1990](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad") in [London](https://en.wikipedia.org/wiki/London) and became shared fourth out of eleven with four wins and two losses [[17]](#cite_note-17). [GreKo](GreKo "GreKo") author [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev") hosts a 1992 [Turbo C](C "C") version plus sources and manual, with kind permission given by its authors [[18]](#cite_note-18). Three excerpts, quoted from the Kaissa manual are given below [[19]](#cite_note-19), an introduction with historical background and authors mentioned, on Kaissa's [Search](#Search), and [Evaluation](#Evaluation), slightly edited concerning names and links. A screenshot could be found at [Meca Foro](Computer_Chess_Forums "Computer Chess Forums") [[20]](#cite_note-20).
+In 1990, Kaissa was re-written by a 9-member team around [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") to run on a [PC](IBM_PC "IBM PC"). Kaissa played the [2nd Computer Olympiad 1990](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad") in [London](https://en.wikipedia.org/wiki/London) and became shared fourth out of eleven with four wins and two losses <a id="cite-note-17" href="#cite-ref-17">[17]</a>. [GreKo](GreKo "GreKo") author [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev") hosts a 1992 [Turbo C](C "C") version plus sources and manual, with kind permission given by its authors <a id="cite-note-18" href="#cite-ref-18">[18]</a>. Three excerpts, quoted from the Kaissa manual are given below <a id="cite-note-19" href="#cite-ref-19">[19]</a>, an introduction with historical background and authors mentioned, on Kaissa's [Search](#Search), and [Evaluation](#Evaluation), slightly edited concerning names and links. A screenshot could be found at [Meca Foro](Computer_Chess_Forums "Computer Chess Forums") <a id="cite-note-20" href="#cite-ref-20">[20]</a>.
 
 
 
 ### Introduction
 
 
-from Kaissa's manual [[21]](#cite_note-21) :
+from Kaissa's manual <a id="cite-note-21" href="#cite-ref-21">[21]</a> :
 
 
 You have made a good choice purchasing Kaissa chess program. It will help you to spend a free time playing the old, sophisticated and lovely game, will let you understand how computer in general can play chess and, if you would be really interested in computer chess, will be your first teacher in computer chess. Kaissa has all possibilities for that.
@@ -194,7 +194,7 @@ The Kaissa you see now was developed in ParaGraph by Mikhail Donskoy, A.V. Dubet
 ### Move Selection Algorithm
 
 
-Kaissa's [Search](Search "Search") [[22]](#cite_note-22):
+Kaissa's [Search](Search "Search") <a id="cite-note-22" href="#cite-ref-22">[22]</a>:
 
 
 If you want not only to play with Kaissa but also to understand, even a little bit, the principles which Kaissa uses for move selection (and that possibility is just what makes Kaissa to differ so much from other chess programs!), you have to read this and the following sections. If, on the other hand, Kaissa is just a chess partner for you and you do not care how it selects a move, you can skip these sections. Kaissa selects a move using the [tree search algorithm](Search "Search"). That means that it considers all moves feasible in the position on the board, and all opponent's replies to them and all replies to these replies and so on up till a certain [depth](Depth "Depth") where Kaissa [evaluates](Evaluation "Evaluation") positions. Let us call all that "the [search tree](Search_Tree "Search Tree")". The position, where Kaissa should select the move is the [root](Root "Root") of the "search tree", all the possible continuations of the position are the branches, and the positions where Kaissa does not search any of the moves are the [leaves](Leaf_Node "Leaf Node"). Theoretically speaking, we may create the "search tree" of the whole game, where the leaves are the positions with the known result (the [checkmate](Checkmate "Checkmate"), [stalemate](Stalemate "Stalemate"), or the position where the rule of the moves [repetition](Repetitions "Repetitions") should be used, or the [50 moves-rule](Fifty-move_Rule "Fifty-move Rule").). After this tree is built, one can make one move back and evaluate all the positions in which the game will be finished in one move. The result depends on the one hand on the result of the game in leaf positions and on the other hand on wish of the party, which has a turn to move, to choose the best opportunity. If to ascribe to each leaf position a value such as: the whites win - 1, the Blacks win - -1, draw - 0, it is quite obvious that it is more profitable while playing for white to choose the maximum continuation, and while playing for black - the minimum one. Thus the position where it is the Whites' turn to move will be won in case if one continuation will be evaluated as 1, and it will be the lost if all the possible continuations will be evaluated as -1. Then by [moving back](Retrograde_Analysis "Retrograde Analysis") one can evaluate all the positions up to the initial one and to find the best way to play in all the positions. This principle was developed by [Zermelo](Ernst_Zermelo "Ernst Zermelo") at the beginning of this century and it was called the [MiniMax](Minimax "Minimax") principle. Unfortunately it has a sufficient drawback. The tree of the chess game is so large that though it is possible to search the whole tree it takes ages to do it. And already in 1948 [Claude Shannon](Claude_Shannon "Claude Shannon"), the classic of the informatics who took interest in chess, proposed the algorithm, according to which the leaf positions of the search tree are not deemed to coincide with the leaf positions of the game tree. One of the simplest way to shorten the tree is to cut it off at the given depth. In this case the leaf positions of the new tree are all the positions, which are possible to achieve by the given number of [plies](Ply "Ply") from the position on the board. 
@@ -232,7 +232,7 @@ More details on computer chess algorithms you can find in the books "[Chess Skil
 ### Evaluation
 
 
-[Evaluation](Evaluation "Evaluation") Factors and their Weights [[23]](#cite_note-23) :
+[Evaluation](Evaluation "Evaluation") Factors and their Weights <a id="cite-note-23" href="#cite-ref-23">[23]</a> :
 
 
 
@@ -293,7 +293,7 @@ More details on computer chess algorithms you can find in the books "[Chess Skil
  |  for each Phalanga is two pawns on the neighboring files and the same rank. The three neighboring pawns, two phalangs
  |
 | [Pawns in the center](Pawn_Center "Pawn Center") |  20
- |  for each square [[24]](#cite_note-24) |
+ |  for each square <a id="cite-note-24" href="#cite-ref-24">[24]</a> |
 | [Pawn attacks](Pawn_Attacks_(Bitboards) "Pawn Attacks (Bitboards)") |  1
  |  for every attacked square
  |
@@ -302,7 +302,7 @@ More details on computer chess algorithms you can find in the books "[Chess Skil
  |
 |  Strong Square
  |  20
- |  for each square, the strong square is the one, which is attacked by a pawn of one color and never may be attacked by a pawn of opposite color [[25]](#cite_note-25) |
+ |  for each square, the strong square is the one, which is attacked by a pawn of one color and never may be attacked by a pawn of opposite color <a id="cite-note-25" href="#cite-ref-25">[25]</a> |
 | [Backward Pawn](Backward_Pawn "Backward Pawn") |  10
  |  for each pawn, these are pawns behind the strong squares
  |
@@ -481,7 +481,7 @@ More details on computer chess algorithms you can find in the books "[Chess Skil
 
 
  В. Хенкин (**1975**). *"Каисса" - чемпион мира.* в журн. [Наука и жизнь](https://en.wikipedia.org/wiki/Nauka_i_Zhizn), № 1, стр. 118-124
-* [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (**1975**). *Some Methods of Controlling the Tree Search in Chess Programs*. [Artificial Ingelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 6, No. 4, pp. 361-371. Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium") [[26]](#cite_note-26)
+* [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (**1975**). *Some Methods of Controlling the Tree Search in Chess Programs*. [Artificial Ingelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 6, No. 4, pp. 361-371. Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium") <a id="cite-note-26" href="#cite-ref-26">[26]</a>
 * [Monroe Newborn](Monroe_Newborn "Monroe Newborn") (**1975**). *Computer Chess*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), New York, N.Y. ISBN 0-125-17250-8.
 
 
@@ -526,7 +526,7 @@ More details on computer chess algorithms you can find in the books "[Chess Skil
 
 * [Kaissa's ICGA Tournaments](http://www.game-ai-forum.org/icga-tournaments/program.php?id=40)
 * [Kaissa from Wikipedia](https://en.wikipedia.org/wiki/Kaissa)
-* [Classic Computer Chess - ... The programs of yesteryear](http://web.archive.org/web/20071221115817/http://classicchess.googlepages.com/Chess.htm)] by [Carey](Carey_Bloodworth "Carey Bloodworth"), hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) [[27]](#cite_note-27)
+* [Classic Computer Chess - ... The programs of yesteryear](http://web.archive.org/web/20071221115817/http://classicchess.googlepages.com/Chess.htm)] by [Carey](Carey_Bloodworth "Carey Bloodworth"), hosted by the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) <a id="cite-note-27" href="#cite-ref-27">[27]</a>
 * [KAISSA](http://www.chess.com/blog/billwall/kaissa-computer-chess-program) by [Bill Wall](index.php?title=Bill_Wall&action=edit&redlink=1 "Bill Wall (page does not exist)"), [Chess.com](index.php?title=Chess.com&action=edit&redlink=1 "Chess.com (page does not exist)"), December 29, 2011
 * [GreKo - Download](http://sites.google.com/site/grekochess/) has a Kaissa [PC](IBM_PC "IBM PC") port in [Turbo C](C "C") from 1992, hosted by [Vladimir Medvedev](Vladimir_Medvedev "Vladimir Medvedev")
 * ["Каисса" - Историю программы рассказывает один из ее создателей Михаил Донской](https://www.computer-museum.ru/games/kaissa1.htm) (Russian)
@@ -549,33 +549,33 @@ More details on computer chess algorithms you can find in the books "[Chess Skil
 ## References
 
 
-1. [↑](#cite_ref-1) An early illustration of [Jones'](https://en.wikipedia.org/wiki/William_Jones_%28philologist%29) Caïssa, [Caïssa from Wikipedia](https://en.wikipedia.org/wiki/Ca%C3%AFssa)
-2. [↑](#cite_ref-2) [Five ICL computers for the Soviet Union](https://www.computer-museum.ru/articles/materialy-mezhdunarodnoy-konferentsii-sorucom-2017/1733/) (Russian)
-3. [↑](#cite_ref-3) [IBM or ICL?](https://a-jelly.livejournal.com/429560.html) (Russian)
-4. [↑](#cite_ref-4) [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (**1975**). *Some Methods of Controlling the Tree Search in Chess Programs*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 6, No. 4, pp. 361-371. Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
-5. [↑](#cite_ref-5) [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (**1977**). *On the Structure of an Important Class of Exhaustive Problems and Methods of Search Reduction for them*. [Advances in Computer Chess 1](Advances_in_Computer_Chess_1 "Advances in Computer Chess 1").
-6. [↑](#cite_ref-6) [Kaissa at the 1st World Computer Chess Championship in Stockholm](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd92710), Photo by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-7. [↑](#cite_ref-7) [Tony Marsland](Tony_Marsland "Tony Marsland"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1981**). *A brighter future for Soviet computer chess?* [ICCA Newsletter, Vol. 4, No. 1](ICGA_Journal#4_1 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Marsland-Newborn-1981.pdf)
-8. [↑](#cite_ref-8) [Arlazarov, Uskov, and Donskoy in Moscow 1980](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc15a4a7), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-9. [↑](#cite_ref-9) [Tony Marsland](Tony_Marsland "Tony Marsland"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1981**). *A brighter future for Soviet computer chess?* [ICCA Newsletter, Vol. 4, No. 1](ICGA_Journal#4_1 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Marsland-Newborn-1981.pdf)
-10. [↑](#cite_ref-10) [Computer chess pioneer Adelson-Velsky at chalkboard in Moscow 1980](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc168f00), Photo by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
-11. [↑](#cite_ref-11) [История “Каиссы” Михаил Донской](https://www.computer-museum.ru/games/kaissa1.htm) see [History of Kaissa](#HistoryofKaissa)
-12. [↑](#cite_ref-12) [A. Baraev](https://www.facebook.com/AdelsonVelsky/photos/a.316678225153119/316678128486462/) In the photo at the ICL computer console together with Marianna Rozenfeld (the names are indicated in the photo in the magazine "64" 1974, №33, p.1, [link](http://publ.lib.ru/ARCHIVES/SH/%27%2764_-_shahmatnoe_obozrenie%27%27/_%27%2764_-_shahmatnoe_obozrenie%27%27.html#1974) )
-13. [↑](#cite_ref-13) [Andrey Leman](https://ichi.pro/ru/zabytaa-istoria-sovetskogo-ii-82419796384991) (Russian)
-14. [↑](#cite_ref-14) [Marianna Rozenfeld](https://www.facebook.com/AdelsonVelsky/photos/a.316678225153119/316678128486462/) In the photo at the ICL computer console together with A. Baraev (the names are indicated in the photo in the magazine "64" 1974, №33, p.1, [link](http://publ.lib.ru/ARCHIVES/SH/%27%2764_-_shahmatnoe_obozrenie%27%27/_%27%2764_-_shahmatnoe_obozrenie%27%27.html#1974) )
-15. [↑](#cite_ref-15) [История “Каиссы” Михаил Донской](https://www.computer-museum.ru/games/kaissa1.htm) from [Russian Virtual Computer Museum](Russian_Virtual_Computer_Museum "Russian Virtual Computer Museum")
-16. [↑](#cite_ref-16) [Cognitive Technologies: Главная](http://www.cognitive.ru/)
-17. [↑](#cite_ref-17) [Zsuzsa Horváth](Zsuzsa_Horv%C3%A1th "Zsuzsa Horváth") (**1990**). *Report on the 2nd Computer Olympiad*. [ICCA Journal, Vol. 13, No. 3](ICGA_Journal#13_3 "ICGA Journal") » [2nd Computer Olympiad](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad")
-18. [↑](#cite_ref-18) [GreKo - Download](http://sites.google.com/site/grekochess/)
-19. [↑](#cite_ref-19) KAISSA.zip/ks\_sell/KAIS1.DOC
-20. [↑](#cite_ref-20) [Re: La Máquina Preservadora. Programas de Ajedrez](http://www.foro.meca-web.es/viewtopic.php?f=9&t=72&start=50#p8496) by Tibono, [Meca Foro](Computer_Chess_Forums "Computer Chess Forums"), October 03, 2015 (Spanish)
-21. [↑](#cite_ref-21) Excerpt from KAISSA.zip/ks\_sell/KAIS1.DOC - Introduction
-22. [↑](#cite_ref-22) Excerpt from KAISSA.zip/ks\_sell/KAIS1.DOC - 3.1. Short description of the move selection algorithm
-23. [↑](#cite_ref-23) Excerpt from KAISSA.zip/ks\_sell/KAIS1.DOC - Appendix B. Evaluation function's parameters and their weights
-24. [↑](#cite_ref-24) The center are the squares e4, d4, e5, d5 and e6, d6 for the White and e3 and d3 for the Black accordingly
-25. [↑](#cite_ref-25) Not every square of the board may be the strong one. The squares which may be strong for the White are the following: b6, b7, c5, c6, c7, d5, d6, d7, e5, e6 ,e7, f5, f6, f7, g6, g7. For the Black the symmetry holds
-26. [↑](#cite_ref-26) [Method of Analogies??](http://www.stmintz.com/ccc/index.php?id=19469) by Bruce Cleaver, [CCC](CCC "CCC"), May 29, 1998
-27. [↑](#cite_ref-27) [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> An early illustration of [Jones'](https://en.wikipedia.org/wiki/William_Jones_%28philologist%29) Caïssa, [Caïssa from Wikipedia](https://en.wikipedia.org/wiki/Ca%C3%AFssa)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Five ICL computers for the Soviet Union](https://www.computer-museum.ru/articles/materialy-mezhdunarodnoy-konferentsii-sorucom-2017/1733/) (Russian)
+3. <a id="cite-ref-3" href="#cite-note-3">↑</a> [IBM or ICL?](https://a-jelly.livejournal.com/429560.html) (Russian)
+4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (**1975**). *Some Methods of Controlling the Tree Search in Chess Programs*. [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 6, No. 4, pp. 361-371. Reprinted (**1988**) in [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium")
+5. <a id="cite-ref-5" href="#cite-note-5">↑</a> [Georgy Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), [Vladimir Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"), [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") (**1977**). *On the Structure of an Important Class of Exhaustive Problems and Methods of Search Reduction for them*. [Advances in Computer Chess 1](Advances_in_Computer_Chess_1 "Advances in Computer Chess 1").
+6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Kaissa at the 1st World Computer Chess Championship in Stockholm](http://www.computerhistory.org/chess/full_record.php?iid=stl-430b9bbd92710), Photo by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1981**). *A brighter future for Soviet computer chess?* [ICCA Newsletter, Vol. 4, No. 1](ICGA_Journal#4_1 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Marsland-Newborn-1981.pdf)
+8. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Arlazarov, Uskov, and Donskoy in Moscow 1980](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc15a4a7), Gift of [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+9. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Tony Marsland](Tony_Marsland "Tony Marsland"), [Monty Newborn](Monroe_Newborn "Monroe Newborn") (**1981**). *A brighter future for Soviet computer chess?* [ICCA Newsletter, Vol. 4, No. 1](ICGA_Journal#4_1 "ICGA Journal"), [pdf](http://webdocs.cs.ualberta.ca/~tony/OldPapers/Marsland-Newborn-1981.pdf)
+10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [Computer chess pioneer Adelson-Velsky at chalkboard in Moscow 1980](http://www.computerhistory.org/chess/full_record.php?iid=stl-431f4cc168f00), Photo by [Monroe Newborn](Monroe_Newborn "Monroe Newborn"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [История “Каиссы” Михаил Донской](https://www.computer-museum.ru/games/kaissa1.htm) see [History of Kaissa](#HistoryofKaissa)
+12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [A. Baraev](https://www.facebook.com/AdelsonVelsky/photos/a.316678225153119/316678128486462/) In the photo at the ICL computer console together with Marianna Rozenfeld (the names are indicated in the photo in the magazine "64" 1974, №33, p.1, [link](http://publ.lib.ru/ARCHIVES/SH/%27%2764_-_shahmatnoe_obozrenie%27%27/_%27%2764_-_shahmatnoe_obozrenie%27%27.html#1974) )
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Andrey Leman](https://ichi.pro/ru/zabytaa-istoria-sovetskogo-ii-82419796384991) (Russian)
+14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Marianna Rozenfeld](https://www.facebook.com/AdelsonVelsky/photos/a.316678225153119/316678128486462/) In the photo at the ICL computer console together with A. Baraev (the names are indicated in the photo in the magazine "64" 1974, №33, p.1, [link](http://publ.lib.ru/ARCHIVES/SH/%27%2764_-_shahmatnoe_obozrenie%27%27/_%27%2764_-_shahmatnoe_obozrenie%27%27.html#1974) )
+15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [История “Каиссы” Михаил Донской](https://www.computer-museum.ru/games/kaissa1.htm) from [Russian Virtual Computer Museum](Russian_Virtual_Computer_Museum "Russian Virtual Computer Museum")
+16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Cognitive Technologies: Главная](http://www.cognitive.ru/)
+17. <a id="cite-ref-17" href="#cite-note-17">↑</a> [Zsuzsa Horváth](Zsuzsa_Horv%C3%A1th "Zsuzsa Horváth") (**1990**). *Report on the 2nd Computer Olympiad*. [ICCA Journal, Vol. 13, No. 3](ICGA_Journal#13_3 "ICGA Journal") » [2nd Computer Olympiad](2nd_Computer_Olympiad#Chess "2nd Computer Olympiad")
+18. <a id="cite-ref-18" href="#cite-note-18">↑</a> [GreKo - Download](http://sites.google.com/site/grekochess/)
+19. <a id="cite-ref-19" href="#cite-note-19">↑</a> KAISSA.zip/ks\_sell/KAIS1.DOC
+20. <a id="cite-ref-20" href="#cite-note-20">↑</a> [Re: La Máquina Preservadora. Programas de Ajedrez](http://www.foro.meca-web.es/viewtopic.php?f=9&t=72&start=50#p8496) by Tibono, [Meca Foro](Computer_Chess_Forums "Computer Chess Forums"), October 03, 2015 (Spanish)
+21. <a id="cite-ref-21" href="#cite-note-21">↑</a> Excerpt from KAISSA.zip/ks\_sell/KAIS1.DOC - Introduction
+22. <a id="cite-ref-22" href="#cite-note-22">↑</a> Excerpt from KAISSA.zip/ks\_sell/KAIS1.DOC - 3.1. Short description of the move selection algorithm
+23. <a id="cite-ref-23" href="#cite-note-23">↑</a> Excerpt from KAISSA.zip/ks\_sell/KAIS1.DOC - Appendix B. Evaluation function's parameters and their weights
+24. <a id="cite-ref-24" href="#cite-note-24">↑</a> The center are the squares e4, d4, e5, d5 and e6, d6 for the White and e3 and d3 for the Black accordingly
+25. <a id="cite-ref-25" href="#cite-note-25">↑</a> Not every square of the board may be the strong one. The squares which may be strong for the White are the following: b6, b7, c5, c6, c7, d5, d6, d7, e5, e6 ,e7, f5, f6, f7, g6, g7. For the Black the symmetry holds
+26. <a id="cite-ref-26" href="#cite-note-26">↑</a> [Method of Analogies??](http://www.stmintz.com/ccc/index.php?id=19469) by Bruce Cleaver, [CCC](CCC "CCC"), May 29, 1998
+27. <a id="cite-ref-27" href="#cite-note-27">↑</a> [Re: Old programs CHAOS and USC](http://www.talkchess.com/forum/viewtopic.php?t=56938&start=2) by [Dann Corbit](Dann_Corbit "Dann Corbit"), [CCC](CCC "CCC"), July 11, 2015
 
 **[Up one Level](Engines "Engines")**
 

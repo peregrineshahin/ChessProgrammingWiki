@@ -3,8 +3,8 @@ title: AlphaBetaHistoryAlphaBeta
 ---
 **[Home](Home "Home") * [Search](Search "Search") * Alpha-Beta**
 
-[](http://vangelismovements.com/alphabeta.htm) Alpha Beta [[1]](#cite_note-1)
-The **Alpha-Beta** algorithm (Alpha-Beta Pruning, Alpha-Beta Heuristic [[2]](#cite_note-2) ) is a significant enhancement to the [minimax](Minimax "Minimax") search algorithm that eliminates the need to search large portions of the [game tree](Search_Tree "Search Tree") applying a [branch-and-bound](https://en.wikipedia.org/wiki/Branch_and_bound) technique. Remarkably, it does this without any potential of overlooking a better [move](Moves "Moves"). If one already has found a quite good move and search for alternatives, **one** [refutation](Refutation_Move "Refutation Move") is enough to avoid it. No need to look for even stronger refutations. The algorithm maintains two values, [alpha](Alpha "Alpha") and [beta](Beta "Beta"). They represent the minimum score that the maximizing player is assured of and the maximum score that the minimizing player is assured of respectively. Consider the following example...
+[](http://vangelismovements.com/alphabeta.htm) Alpha Beta <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+The **Alpha-Beta** algorithm (Alpha-Beta Pruning, Alpha-Beta Heuristic <a id="cite-note-2" href="#cite-ref-2">[2]</a> ) is a significant enhancement to the [minimax](Minimax "Minimax") search algorithm that eliminates the need to search large portions of the [game tree](Search_Tree "Search Tree") applying a [branch-and-bound](https://en.wikipedia.org/wiki/Branch_and_bound) technique. Remarkably, it does this without any potential of overlooking a better [move](Moves "Moves"). If one already has found a quite good move and search for alternatives, **one** [refutation](Refutation_Move "Refutation Move") is enough to avoid it. No need to look for even stronger refutations. The algorithm maintains two values, [alpha](Alpha "Alpha") and [beta](Beta "Beta"). They represent the minimum score that the maximizing player is assured of and the maximum score that the minimizing player is assured of respectively. Consider the following example...
 
 ## How it works
 
@@ -59,14 +59,14 @@ number of leaves with depth n and b = 40
 
 ## History
 
-Alpha-Beta was invented independently by several researchers and pioneers from the 50s [[3]](#cite_note-3), and further research until the 80s, most notable by
+Alpha-Beta was invented independently by several researchers and pioneers from the 50s <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and further research until the 80s, most notable by
 
-- [John McCarthy](John_McCarthy "John McCarthy") proposed the idea of Alpha-Beta after the representation of the [Chess Program](The_Bernstein_Chess_Program "The Bernstein Chess Program") by [Alex Bernstein](Alex_Bernstein "Alex Bernstein") [[4]](#cite_note-4) at the [Dartmouth Workshop](https://en.wikipedia.org/wiki/Dartmouth_workshop) in [1956](Timeline#1956 "Timeline") [[5]](#cite_note-5)
+- [John McCarthy](John_McCarthy "John McCarthy") proposed the idea of Alpha-Beta after the representation of the [Chess Program](The_Bernstein_Chess_Program "The Bernstein Chess Program") by [Alex Bernstein](Alex_Bernstein "Alex Bernstein") <a id="cite-note-4" href="#cite-ref-4">[4]</a> at the [Dartmouth Workshop](https://en.wikipedia.org/wiki/Dartmouth_workshop) in [1956](Timeline#1956 "Timeline") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 - [Allen Newell](Allen_Newell "Allen Newell") and [Herbert Simon](Herbert_Simon "Herbert Simon") Approximation in [1958](Timeline#1958 "Timeline")
 - [Arthur Samuel](Arthur_Samuel "Arthur Samuel") Approximation in [1959](Timeline#1959 "Timeline")
-- [Daniel Edwards](Daniel_Edwards "Daniel Edwards") and [Timothy Hart](Timothy_Hart "Timothy Hart"), Description in 1961 [[6]](#cite_note-6)
+- [Daniel Edwards](Daniel_Edwards "Daniel Edwards") and [Timothy Hart](Timothy_Hart "Timothy Hart"), Description in 1961 <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 - [Alexander Brudno](Alexander_Brudno "Alexander Brudno"), Description in [1963](Timeline#1963 "Timeline")
-- [Samuel Fuller](Samuel_Fuller "Samuel Fuller"), [John Gaschnig](John_Gaschnig "John Gaschnig"), [James Gillogly](James_Gillogly "James Gillogly"), Analysis 1973 [[7]](#cite_note-7)
+- [Samuel Fuller](Samuel_Fuller "Samuel Fuller"), [John Gaschnig](John_Gaschnig "John Gaschnig"), [James Gillogly](James_Gillogly "James Gillogly"), Analysis 1973 <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 - [Donald Knuth](Donald_Knuth "Donald Knuth"), Analysis in [1975](Timeline#1975 "Timeline")
 
 [Knuth and Moore‘s famous Function F2, aka AlphaBeta](Knuth-alpha-beta "Knuth-alpha-beta")
@@ -88,7 +88,7 @@ Chess programs catch some of the human chess playing abilities but rely on the l
 
 ## Ershov and Shura-Bura
 
-[Quote](Template:Quote_Shura-Bura "Template:Quote Shura-Bura") from *The Early Development of Programming in the USSR* by [Andrey Ershov](Mathematician#Ershov "Mathematician") and [Mikhail R. Shura-Bura](Mikhail_R._Shura-Bura "Mikhail R. Shura-Bura") [[8]](#cite_note-8)
+[Quote](Template:Quote_Shura-Bura "Template:Quote Shura-Bura") from *The Early Development of Programming in the USSR* by [Andrey Ershov](Mathematician#Ershov "Mathematician") and [Mikhail R. Shura-Bura](Mikhail_R._Shura-Bura "Mikhail R. Shura-Bura") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ```C++
 At the end of the 1950's a group of Moscow mathematicians began a study of computerized chess. Sixteen years later, the studies would lead to victory in the [first world chess tournament for computer programs](WCCC_1974 "WCCC 1974") held in Stockholm during the 1974 [IFIP](IFIP "IFIP") Congress. An important component of this success was a deep study of the problems of information organization in [computer memory](Memory "Memory") and of various [search heuristics](Search "Search"). [G. M. Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") and [E. M. Landis](Mathematician#Landis "Mathematician") invented the [binary search tree](https://en.wikipedia.org/wiki/AVL_tree) ("dichotomic inquiry") and [A. L. Brudno](Alexander_Brudno "Alexander Brudno"), independent of [J. McCarthy](John_McCarthy "John McCarthy"), discovered the (α,β)-heuristic for reducing search times on a game tree.
@@ -97,7 +97,7 @@ At the end of the 1950's a group of Moscow mathematicians began a study of compu
 
 ## Knuth
 
-Quote by [Knuth](Donald_Knuth "Donald Knuth") [[9]](#cite_note-9) :
+Quote by [Knuth](Donald_Knuth "Donald Knuth") <a id="cite-note-9" href="#cite-ref-9">[9]</a> :
 It is interesting to convert this [recursive](Recursion "Recursion") procedure to an iterative (non-recursive) form by a sequence of mechanical transformations, and to apply simple optimizations which preserve program correctness. The resulting procedure is surprisingly simple, but not as easy to prove correct as the recursive form.
 
 ## Implementation
@@ -143,7 +143,7 @@ With this call from the [Root](Root "Root"):
 ```
 
 [](http://cgm.cs.mcgill.ca/~hagha/topic11/topic11.html)
-Alpha-beta search tree with two alpha-cuts at min nodes [[10]](#cite_note-10)
+Alpha-beta search tree with two alpha-cuts at min nodes <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ## Negamax Framework
 
@@ -175,7 +175,7 @@ Since alpha and beta act as hard [bounds](Bound "Bound") of the return value if 
 
 ## Outside the Bounds
 
-[Fail-Soft](Fail-Soft "Fail-Soft") Alpha-Beta [[11]](#cite_note-11) may return scores outside the [bounds](Bound "Bound"), that is either greater than beta or less than alpha. It has to keep track of the best score, which might be below alpha.
+[Fail-Soft](Fail-Soft "Fail-Soft") Alpha-Beta <a id="cite-note-11" href="#cite-ref-11">[11]</a> may return scores outside the [bounds](Bound "Bound"), that is either greater than beta or less than alpha. It has to keep track of the best score, which might be below alpha.
 
 ```C++
 
@@ -302,7 +302,7 @@ The alpha-beta algorithm can also be improved. These enhancements come from the 
 ## 2000 ...
 
 - [Matthew L. Ginsberg](Matthew_L._Ginsberg "Matthew L. Ginsberg"), [Alan Jaffray](index.php?title=Alan_Jaffray&action=edit&redlink=1 "Alan Jaffray (page does not exist)") (**2002**). *Alpha-Beta Pruning Under Partial Orders*. in [Richard J. Nowakowski](Richard_J._Nowakowski "Richard J. Nowakowski") (ed.) *[More Games of No Chance](http://library.msri.org/books/Book42/)*. [Cambridge University Press](https://en.wikipedia.org/wiki/Cambridge_University_Press), [pdf](http://library.msri.org/books/Book42/files/ginsberg.pdf)
-- [Todd W. Neller](Todd_W._Neller "Todd W. Neller") (**2002**). *[Information-Based Alpha-Beta Search and the Homicidal Chauffeur](http://cupola.gettysburg.edu/csfac/11/)*. [HSCC 2002](http://dblp.uni-trier.de/db/conf/hybrid/hscc2002.html#Neller02), in [Claire J. Tomlin](http://people.eecs.berkeley.edu/~tomlin/), [Mark R. Greenstreet](https://www.cs.ubc.ca/~mrg/) (eds.) (**2002**). *[Hybrid Systems: Computation and Control](http://link.springer.com/book/10.1007/3-540-45873-5)*. [Lecture Notes in Computer Science](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science) 2289, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media) [[12]](#cite_note-12)
+- [Todd W. Neller](Todd_W._Neller "Todd W. Neller") (**2002**). *[Information-Based Alpha-Beta Search and the Homicidal Chauffeur](http://cupola.gettysburg.edu/csfac/11/)*. [HSCC 2002](http://dblp.uni-trier.de/db/conf/hybrid/hscc2002.html#Neller02), in [Claire J. Tomlin](http://people.eecs.berkeley.edu/~tomlin/), [Mark R. Greenstreet](https://www.cs.ubc.ca/~mrg/) (eds.) (**2002**). *[Hybrid Systems: Computation and Control](http://link.springer.com/book/10.1007/3-540-45873-5)*. [Lecture Notes in Computer Science](https://en.wikipedia.org/wiki/Lecture_Notes_in_Computer_Science) 2289, [Springer](https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media) <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 - [Jacek Mańdziuk](Jacek_Ma%C5%84dziuk "Jacek Mańdziuk"), [Daniel Osman](index.php?title=Daniel_Osman&action=edit&redlink=1 "Daniel Osman (page does not exist)") (**2004**). *Alpha-Beta Search Enhancements with a Real-Value Game-State Evaluation Function*. [ICGA Journal, Vol. 27, No. 1](ICGA_Journal#27_1 "ICGA Journal"), [pdf](http://www.mini.pw.edu.pl/~mandziuk/PRACE/ICGA.pdf)
 - [Hendrik Baier](Hendrik_Baier "Hendrik Baier") (**2006**). *Der Alpha-Beta-Algorithmus und Erweiterungen bei Vier Gewinnt*. Bachelor's thesis (German), [TU Darmstadt](Darmstadt_University_of_Technology "Darmstadt University of Technology"), advisor [Johannes Fürnkranz](Johannes_F%C3%BCrnkranz "Johannes Fürnkranz"), [pdf](http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2006/Baier_Hendrik.pdf)
 
@@ -312,7 +312,7 @@ The alpha-beta algorithm can also be improved. These enhancements come from the 
 - [Abdallah Saffidine](Abdallah_Saffidine "Abdallah Saffidine"), [Hilmar Finnsson](index.php?title=Hilmar_Finnsson&action=edit&redlink=1 "Hilmar Finnsson (page does not exist)"), [Michael Buro](Michael_Buro "Michael Buro") (**2012**). *Alpha-Beta Pruning for Games with Simultaneous Moves*. [AAAI 2012](AAAI "AAAI")
 - [Daniel S. Abdi](Daniel_Shawul "Daniel Shawul") (**2013**). *Analysis of pruned minimax trees*. [pdf](https://dl.dropboxusercontent.com/u/55295461/analysis/pruning.pdf) » [Late Move Reductions](Late_Move_Reductions "Late Move Reductions"), [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
 - [Jr-Chang Chen](Jr-Chang_Chen "Jr-Chang Chen"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Wen-Jie Tseng](Wen-Jie_Tseng "Wen-Jie Tseng"), [Bo-Han Lin](index.php?title=Bo-Han_Lin&action=edit&redlink=1 "Bo-Han Lin (page does not exist)"), [Chia-Hui Chang](Chia-Hui_Chang "Chia-Hui Chang") (**2015**). *[Job-Level Alpha-Beta Search](https://ir.nctu.edu.tw/handle/11536/124541)*. [IEEE Transactions on Computational Intelligence and AI in Games](IEEE#TOCIAIGAMES "IEEE"), Vol. 7, No. 1
-- [Bojun Huang](Bojun_Huang "Bojun Huang") (**2015**). *[Pruning Game Tree by Rollouts](https://www.semanticscholar.org/paper/Pruning-Game-Tree-by-Rollouts-Huang/a38b358745067f71a9c780db117ae2471e693d63)*. [AAAI](AAAI "AAAI") » [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"), [MT-SSS\*](SSS*_and_Dual*#SSStarandDualStarAsMT "SSS* and Dual*"), [Rollout Paradigm](Bojun_Huang#Rollout "Bojun Huang") [[13]](#cite_note-13)
+- [Bojun Huang](Bojun_Huang "Bojun Huang") (**2015**). *[Pruning Game Tree by Rollouts](https://www.semanticscholar.org/paper/Pruning-Game-Tree-by-Rollouts-Huang/a38b358745067f71a9c780db117ae2471e693d63)*. [AAAI](AAAI "AAAI") » [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search"), [MT-SSS\*](SSS*_and_Dual*#SSStarandDualStarAsMT "SSS* and Dual*"), [Rollout Paradigm](Bojun_Huang#Rollout "Bojun Huang") <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 - [Naoyuki Sato](index.php?title=Naoyuki_Sato&action=edit&redlink=1 "Naoyuki Sato (page does not exist)"), [Kokolo Ikeda](Kokolo_Ikeda "Kokolo Ikeda") (**2016**). *[Three types of forward pruning techniques to apply the alpha beta algorithm to turn-based strategy games](https://ieeexplore.ieee.org/document/7860427)*. [CIG 2016](https://dblp.uni-trier.de/db/conf/cig/cig2016.html)
 - [Hendrik Baier](Hendrik_Baier "Hendrik Baier") (**2017**). *[A Rollout-Based Search Algorithm Unifying MCTS and Alpha-Beta](https://link.springer.com/chapter/10.1007/978-3-319-57969-6_5)*. [Computer Games](https://link.springer.com/book/10.1007%2F978-3-319-57969-6) » [MCαβ](MC%CE%B1%CE%B2 "MCαβ"), [Monte-Carlo Tree Search](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search")
 - [Shogo Takeuchi](Shogo_Takeuchi "Shogo Takeuchi") (**2019**). *Advice is Useful for Game AI: Experiments with Alpha-Beta Search Players in Shogi*. [Advances in Computer Games 16](Advances_in_Computer_Games_16 "Advances in Computer Games 16")
@@ -353,7 +353,7 @@ The alpha-beta algorithm can also be improved. These enhancements come from the 
 - [Another Alpha-Beta algorithm question](https://www.stmintz.com/ccc/index.php?id=98141) by Jeff Anderson, [CCC](CCC "CCC"), February 18, 2000
 - [A Question on simple Alpha-Beta versus PVS/Negascout](https://www.stmintz.com/ccc/index.php?id=102792) by [Andrei Fortuna](Andrei_Fortuna "Andrei Fortuna"), [CCC](CCC "CCC"), March 21, 2000 » [Principal Variation Search](Principal_Variation_Search "Principal Variation Search"), [NegaScout](NegaScout "NegaScout")
 - [outline for alpha beta](https://www.stmintz.com/ccc/index.php?id=110353) by John Coffey, [CCC](CCC "CCC"), May 12, 2000
-- [Alpha-Beta explanation on Heinz's book?](https://www.stmintz.com/ccc/index.php?id=131537) by [Severi Salminen](Severi_Salminen "Severi Salminen"), [CCC](CCC "CCC"), October 05, 2000 [[14]](#cite_note-14)
+- [Alpha-Beta explanation on Heinz's book?](https://www.stmintz.com/ccc/index.php?id=131537) by [Severi Salminen](Severi_Salminen "Severi Salminen"), [CCC](CCC "CCC"), October 05, 2000 <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 - [Who invented the Alpha-Beta-algorithm?](https://www.stmintz.com/ccc/index.php?id=162573) by [Rafael B. Andrist](Rafael_B._Andrist "Rafael B. Andrist"), [CCC](CCC "CCC"), April 09, 2001
 - [The Alpha-Beta search!](https://www.stmintz.com/ccc/index.php?id=183650) by [Sune Fischer](Sune_Fischer "Sune Fischer"), [CCC](CCC "CCC"), August 14, 2001
 - [An Idiot's Guide to Minimax, Alpha/Beta, etc...](https://www.stmintz.com/ccc/index.php?id=281522) by Mike Carter, [CCC](CCC "CCC"), February 03, 2003
@@ -382,7 +382,7 @@ The alpha-beta algorithm can also be improved. These enhancements come from the 
 
 ## 2020 ...
 
-- [AB search with NN on GPU...](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74771) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), August 13, 2020 » [GPU](GPU "GPU"), [NN](Neural_Networks "Neural Networks") [[15]](#cite_note-15)
+- [AB search with NN on GPU...](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74771) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), August 13, 2020 » [GPU](GPU "GPU"), [NN](Neural_Networks "Neural Networks") <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 - [Mathematical proof that AB with B-cutoff does not miss a variation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77208) by [Yves De Billoëz](Yves_De_Billo%C3%ABz "Yves De Billoëz"), [CCC](CCC "CCC"), April 30, 2021
 - [Alpha-beta search for drawing endgames](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77497) by Emanuel Torres, [CCC](CCC "CCC"), June 16, 2021 » [Draw Evaluation](Draw_Evaluation "Draw Evaluation"), [Graph History Interaction](Graph_History_Interaction "Graph History Interaction"), [Repetitions](Repetitions "Repetitions")
 
@@ -390,7 +390,7 @@ The alpha-beta algorithm can also be improved. These enhancements come from the 
 
 - [Alpha-beta Pruning from Wikipedia](https://en.wikipedia.org/wiki/Alpha-beta_pruning)
 - [Branch-and-bound from Wikipedia](https://en.wikipedia.org/wiki/Branch_and_bound)
-- [Integer programming from Wikipedia](https://en.wikipedia.org/wiki/Integer_programming) [[16]](#cite_note-16)
+- [Integer programming from Wikipedia](https://en.wikipedia.org/wiki/Integer_programming) <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 - [The alpha-beta heuristic](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/p004.htm#index01) from [Alex Bell](Alex_Bell "Alex Bell") (**1972**). *[Games Playing with Computers](http://www.chilton-computing.org.uk/acl/literature/books/gamesplaying/overview.htm)*. [Allen & Unwin](https://en.wikipedia.org/wiki/Allen_%26_Unwin), ISBN-13: 978-0080212227
 - [Alpha-Beta Search](http://web.archive.org/web/20070811182954/www.seanet.com/%7Ebrucemo/topics/alphabeta.htm) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics](http://web.archive.org/web/20070811182741/www.seanet.com/%7Ebrucemo/topics/topics.htm)
 - [Lecture notes for April 22, 1997 Alpha-Beta Search](http://www.ics.uci.edu/%7Eeppstein/180a/970422.html) by [David Eppstein](David_Eppstein "David Eppstein")
@@ -405,23 +405,23 @@ Alpha Beta are [Vilma Lado](http://www.vangelismovements.com/vilmalado.htm), [Va
 
 ## References
 
-1. [↑](#cite_ref-1) [Alpha Beta - Astral Abuse](http://vangelismovements.com/alphabeta.htm) a look at the music of [Vangelis Papathanassiou](Category:Vangelis "Category:Vangelis")
-1. [↑](#cite_ref-2) [Arthur Samuel](Arthur_Samuel "Arthur Samuel") (**1967**). *Some Studies in Machine Learning. Using the Game of Checkers. II-Recent Progress*. [pdf](https://researcher.ibm.com/researcher/files/us-beygel/samuel-checkers.pdf), IBM Journal - November 1967,
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Alpha Beta - Astral Abuse](http://vangelismovements.com/alphabeta.htm) a look at the music of [Vangelis Papathanassiou](Category:Vangelis "Category:Vangelis")
+1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Arthur Samuel](Arthur_Samuel "Arthur Samuel") (**1967**). *Some Studies in Machine Learning. Using the Game of Checkers. II-Recent Progress*. [pdf](https://researcher.ibm.com/researcher/files/us-beygel/samuel-checkers.pdf), IBM Journal - November 1967,
    on the name Alpha-Beta Heuristic pp. 602: So named by [Prof. John McCarthy](John_McCarthy "John McCarthy"). This procedure was extensively investigated by Prof. John McCarthy and his students at M.I.T. but it has been inadequately described in the literature. It is, of course, not a heuristic at all, being a simple algorithmic procedure and actually only a special case of the more general "[branch and bound](https://en.wikipedia.org/wiki/Branch_and_bound)" technique which was been rediscovered many times and which is currently being exploited in [integer programming](https://en.wikipedia.org/wiki/Integer_programming) research.
-1. [↑](#cite_ref-3) [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *Science, Competition and Business*. [ICGA Journal, Vol. 24, No. 4](ICGA_Journal#24_4 "ICGA Journal"), [pdf](http://arno.uvt.nl/show.cgi?fid=107331)
-1. [↑](#cite_ref-4) [The Dartmouth Workshop--as planned and as it happened](http://www-formal.stanford.edu/jmc/slides/dartmouth/dartmouth/node1.html)
-1. [↑](#cite_ref-5) [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html) by [John McCarthy](John_McCarthy "John McCarthy"), [Marvin Minsky](Marvin_Minsky "Marvin Minsky"), [Nathaniel Rochester](Nathaniel_Rochester "Nathaniel Rochester"), [Claude Shannon](Claude_Shannon "Claude Shannon"), August 31, **1955**
-1. [↑](#cite_ref-6) [Daniel Edwards](Daniel_Edwards "Daniel Edwards") and [Timothy Hart](Timothy_Hart "Timothy Hart") (**1961**). *The Alpha-Beta Heuristic*, AIM-030, reprint available from [DSpace](http://dspace.mit.edu/handle/1721.1/6098) at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"). Retrieved on 2006-12-21.
-1. [↑](#cite_ref-7) [Samuel Fuller](Samuel_Fuller "Samuel Fuller"), [John Gaschnig](John_Gaschnig "John Gaschnig"), [James Gillogly](James_Gillogly "James Gillogly") (**1973**). *An Analysis of the Alpha-Beta Pruning Algorithm.* Technical Report, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
-1. [↑](#cite_ref-8) [Andrey Ershov](Mathematician#Ershov "Mathematician"), [Mikhail R. Shura-Bura](Mikhail_R._Shura-Bura "Mikhail R. Shura-Bura") (**1980**). *[The Early Development of Programming in the USSR](http://ershov.iis.nsk.su/archive/eaindex.asp?lang=2&gid=910)*. in [Nicholas C. Metropolis](https://en.wikipedia.org/wiki/Nicholas_C._Metropolis) (ed.) *[A History of Computing in the Twentieth Century](http://dl.acm.org/citation.cfm?id=578384)*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), [preprint pp. 44](http://ershov.iis.nsk.su/archive/eaimage.asp?did=28792&fileid=173671)
-1. [↑](#cite_ref-9) [Donald Knuth](Donald_Knuth "Donald Knuth"), [Ronald W. Moore](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Moore:Ronald_W=) (**1975**). *[An analysis of alpha-beta pruning](http://www.scribd.com/doc/28194932/An-Analysis-of-Alpha-Beta-Pruning).* [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 6, No. 4, pp 293–326. Reprinted in [Donald Knuth](Donald_Knuth "Donald Knuth") (**2000**). *[Selected Papers on Analysis of Algorithms](http://www-cs-faculty.stanford.edu/~uno/aa.html)*. [CSLI lecture notes series](http://web.stanford.edu/group/cslipublications/cslipublications/site/CSIN.shtml) 102, ISBN 1-57586-212-3
-1. [↑](#cite_ref-10) [McGill University](McGill_University "McGill University"), Winter 1997 Class Notes, [Topic #11: Game trees. Alpha-beta search](http://cgm.cs.mcgill.ca/~hagha/topic11/topic11.html), Diagram by Pui Yee Chan
-1. [↑](#cite_ref-11) [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1983**). *[Another optimization of alpha-beta search](http://portal.acm.org/citation.cfm?id=1056623.1056628&coll=DL&dl=GUIDE&CFID=26266656&CFTOKEN=86225814)*. [SIGART Bulletin](ACM#SIG "ACM"), Issue 84
-1. [↑](#cite_ref-12) [Homicidal chauffeur problem - Wikipedia](https://en.wikipedia.org/wiki/Homicidal_chauffeur_problem)
-1. [↑](#cite_ref-13) [Re: Announcing lczero](http://www.talkchess.com/forum/viewtopic.php?t=66280&start=67) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), January 21, 2018 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
-1. [↑](#cite_ref-14) [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1999**). *[Scalable Search in Computer Chess](http://people.csail.mit.edu/heinz/node1.html#scale-cchess)*. [Morgan Kaufmann](https://en.wikipedia.org/wiki/Morgan_Kaufmann), ISBN 3-528-05732-7
-1. [↑](#cite_ref-15) [kernel launch latency - CUDA / CUDA Programming and Performance - NVIDIA Developer Forums](https://forums.developer.nvidia.com/t/kernel-launch-latency/62455) by LukeCuda, June 18, 2018
-1. [↑](#cite_ref-16) [William Cook](http://www2.isye.gatech.edu/~wcook/) (**2009**). *Fifty-Plus Years of Combinatorial Integer Programming*. [pdf](http://www2.isye.gatech.edu/~wcook/papers/ip50.pdf)
+1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") (**2001**). *Science, Competition and Business*. [ICGA Journal, Vol. 24, No. 4](ICGA_Journal#24_4 "ICGA Journal"), [pdf](http://arno.uvt.nl/show.cgi?fid=107331)
+1. <a id="cite-ref-4" href="#cite-note-4">↑</a> [The Dartmouth Workshop--as planned and as it happened](http://www-formal.stanford.edu/jmc/slides/dartmouth/dartmouth/node1.html)
+1. <a id="cite-ref-5" href="#cite-note-5">↑</a> [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html) by [John McCarthy](John_McCarthy "John McCarthy"), [Marvin Minsky](Marvin_Minsky "Marvin Minsky"), [Nathaniel Rochester](Nathaniel_Rochester "Nathaniel Rochester"), [Claude Shannon](Claude_Shannon "Claude Shannon"), August 31, **1955**
+1. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Daniel Edwards](Daniel_Edwards "Daniel Edwards") and [Timothy Hart](Timothy_Hart "Timothy Hart") (**1961**). *The Alpha-Beta Heuristic*, AIM-030, reprint available from [DSpace](http://dspace.mit.edu/handle/1721.1/6098) at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"). Retrieved on 2006-12-21.
+1. <a id="cite-ref-7" href="#cite-note-7">↑</a> [Samuel Fuller](Samuel_Fuller "Samuel Fuller"), [John Gaschnig](John_Gaschnig "John Gaschnig"), [James Gillogly](James_Gillogly "James Gillogly") (**1973**). *An Analysis of the Alpha-Beta Pruning Algorithm.* Technical Report, [Carnegie Mellon University](Carnegie_Mellon_University "Carnegie Mellon University")
+1. <a id="cite-ref-8" href="#cite-note-8">↑</a> [Andrey Ershov](Mathematician#Ershov "Mathematician"), [Mikhail R. Shura-Bura](Mikhail_R._Shura-Bura "Mikhail R. Shura-Bura") (**1980**). *[The Early Development of Programming in the USSR](http://ershov.iis.nsk.su/archive/eaindex.asp?lang=2&gid=910)*. in [Nicholas C. Metropolis](https://en.wikipedia.org/wiki/Nicholas_C._Metropolis) (ed.) *[A History of Computing in the Twentieth Century](http://dl.acm.org/citation.cfm?id=578384)*. [Academic Press](https://en.wikipedia.org/wiki/Academic_Press), [preprint pp. 44](http://ershov.iis.nsk.su/archive/eaimage.asp?did=28792&fileid=173671)
+1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Donald Knuth](Donald_Knuth "Donald Knuth"), [Ronald W. Moore](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Moore:Ronald_W=) (**1975**). *[An analysis of alpha-beta pruning](http://www.scribd.com/doc/28194932/An-Analysis-of-Alpha-Beta-Pruning).* [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_Intelligence_%28journal%29), Vol. 6, No. 4, pp 293–326. Reprinted in [Donald Knuth](Donald_Knuth "Donald Knuth") (**2000**). *[Selected Papers on Analysis of Algorithms](http://www-cs-faculty.stanford.edu/~uno/aa.html)*. [CSLI lecture notes series](http://web.stanford.edu/group/cslipublications/cslipublications/site/CSIN.shtml) 102, ISBN 1-57586-212-3
+1. <a id="cite-ref-10" href="#cite-note-10">↑</a> [McGill University](McGill_University "McGill University"), Winter 1997 Class Notes, [Topic #11: Game trees. Alpha-beta search](http://cgm.cs.mcgill.ca/~hagha/topic11/topic11.html), Diagram by Pui Yee Chan
+1. <a id="cite-ref-11" href="#cite-note-11">↑</a> [John Philip Fishburn](John_Philip_Fishburn "John Philip Fishburn") (**1983**). *[Another optimization of alpha-beta search](http://portal.acm.org/citation.cfm?id=1056623.1056628&coll=DL&dl=GUIDE&CFID=26266656&CFTOKEN=86225814)*. [SIGART Bulletin](ACM#SIG "ACM"), Issue 84
+1. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Homicidal chauffeur problem - Wikipedia](https://en.wikipedia.org/wiki/Homicidal_chauffeur_problem)
+1. <a id="cite-ref-13" href="#cite-note-13">↑</a> [Re: Announcing lczero](http://www.talkchess.com/forum/viewtopic.php?t=66280&start=67) by [Daniel Shawul](Daniel_Shawul "Daniel Shawul"), [CCC](CCC "CCC"), January 21, 2018 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
+1. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Ernst A. Heinz](Ernst_A._Heinz "Ernst A. Heinz") (**1999**). *[Scalable Search in Computer Chess](http://people.csail.mit.edu/heinz/node1.html#scale-cchess)*. [Morgan Kaufmann](https://en.wikipedia.org/wiki/Morgan_Kaufmann), ISBN 3-528-05732-7
+1. <a id="cite-ref-15" href="#cite-note-15">↑</a> [kernel launch latency - CUDA / CUDA Programming and Performance - NVIDIA Developer Forums](https://forums.developer.nvidia.com/t/kernel-launch-latency/62455) by LukeCuda, June 18, 2018
+1. <a id="cite-ref-16" href="#cite-note-16">↑</a> [William Cook](http://www2.isye.gatech.edu/~wcook/) (**2009**). *Fifty-Plus Years of Combinatorial Integer Programming*. [pdf](http://www2.isye.gatech.edu/~wcook/papers/ip50.pdf)
 
 **[Up one level](Search "Search")**
 

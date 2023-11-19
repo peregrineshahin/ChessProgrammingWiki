@@ -7,7 +7,7 @@ title: TCEC Season 16Premier
 
 
 
- [](https://tcec-chess.com/) TCEC Logo [[1]](#cite_note-1) 
+ [](https://tcec-chess.com/) TCEC Logo <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **TCEC Season 16**,  
 
 the Top Chess Engine Championship (TCEC) Season 16 from July 14, 2019 until October 13, 2019. 
@@ -1859,8 +1859,8 @@ September 26 - October 13, 2019, timecontrol 120' + 10
 ## References
 
 
-1. [↑](#cite_ref-1) Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
-2. [↑](#cite_ref-2) [TCEC Season 16 – information and participants](http://www.chessdom.com/tcec-season-16-information-and-participants/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), July 03, 2019
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> Image from [TCEC - Official github · GitHub](https://github.com/TCEC-Chess)
+2. <a id="cite-ref-2" href="#cite-note-2">↑</a> [TCEC Season 16 – information and participants](http://www.chessdom.com/tcec-season-16-information-and-participants/), [Chessdom](index.php?title=Chessdom&action=edit&redlink=1 "Chessdom (page does not exist)"), July 03, 2019
 
 **[Up one level](TCEC "TCEC")**
 
