@@ -23,5 +23,3 @@ While starting a new iteration, the most important [move ordering](Move_Ordering
 - [PV-move ordering necessary if you have TT-move ordering?](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=77593) by [Marcel Vanthoor](Marcel_Vanthoor "Marcel Vanthoor"), [CCC](CCC "CCC"), July 01, 2021
 
 **[Up one Level](Moves "Moves")**
-
-Retrieved from "[https://www.chessprogramming.org/index.php?title=PV-Move&oldid=25456](https://www.chessprogramming.org/index.php?title=PV-Move&oldid=25456)"
