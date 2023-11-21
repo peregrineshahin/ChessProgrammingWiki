@@ -115,6 +115,8 @@ Further, the collaboration with the [Leela Chess Zero](Leela_Chess_Zero "Leela C
 
 In August 2020 a new patch changed Stockfish NNUE into a hybrid engine: it uses NNUE evaluation only on quite balanced material positions, otherwise uses the classical one. It could speed up to 10% and gain 20 Elo <a id="cite-note-38" href="#cite-ref-38">[38]</a>. At that point, NNUE helped to increase already around 100 Elo for Stockfish. In the same month, Stockfish changed the default mode of using evaluation functions from classic to hybrid one, the last step to completely accept NNUE.
 
+However, as of June 12 2023, classical evaluation has been completely removed with no significant regression. Stockfish now operates only on NNUE, with classical evaluation mode also being removed.
+
 
 
 ## Strong Points
