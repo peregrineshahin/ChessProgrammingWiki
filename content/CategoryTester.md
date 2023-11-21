@@ -68,7 +68,6 @@ The following 51 pages are in this category, out of 51 total.
 
 - [Andreas Mader](Andreas_Mader "Andreas Mader")
 - [Thomas Mally](Thomas_Mally "Thomas Mally")
-- [Andrea Manzo](Andrea_Manzo "Andrea Manzo")
 - [Denis Mendoza](Denis_Mendoza "Denis Mendoza")
 
 ### N

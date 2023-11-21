@@ -9,7 +9,6 @@ title: Vitruvius
 **Vitruvius**, (VitruviusChess)  
 
 a [commercial](Category:Commercial "Category:Commercial"), [UCI](UCI "UCI") compatible chess engine built on the skeleton structure of the free [Ippolit](Ippolit "Ippolit") programs, that is using [IvanHoe](IvanHoe "IvanHoe") and its derivative [Deep Saros](Deep_Saros "Deep Saros") as code base <a id="cite-note-2" href="#cite-ref-2">[2]</a>, with a speculative [evaluation](Evaluation "Evaluation") and playing style. 
-The Vitruvius team consists of programmer [Roberto Munter](Roberto_Munter "Roberto Munter"), [book author](Category:Opening_Book_Author "Category:Opening Book Author") [Andrea Manzo](Andrea_Manzo "Andrea Manzo") and principal tester [Domenico Lattanzi](index.php?title=Domenico_Lattanzi&action=edit&redlink=1 "Domenico Lattanzi (page does not exist)") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. 
 Vitruvius won the [3rd Italian Open Chess Software Cup 2012](IOCSC_2012 "IOCSC 2012") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
 
 

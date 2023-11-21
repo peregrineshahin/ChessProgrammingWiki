@@ -295,7 +295,6 @@ Category talk
 * [Anatoly Uskov](Anatoly_Uskov "Anatoly Uskov")
 * [Anders Kierulf](Anders_Kierulf "Anders Kierulf")
 * [Andre Adrian](Andre_Adrian "Andre Adrian")
-* [Andrea Manzo](Andrea_Manzo "Andrea Manzo")
 * [Andreas Guettinger](Andreas_Guettinger "Andreas Guettinger")
 * [Andreas Herrmann](Andreas_Herrmann "Andreas Herrmann")
 * [Andreas Junghanns](Andreas_Junghanns "Andreas Junghanns")

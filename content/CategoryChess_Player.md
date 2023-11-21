@@ -204,7 +204,6 @@ The following 200 pages are in this category, out of 243 total.
 - [Alexey Manjakhin](Alexey_Manjakhin "Alexey Manjakhin")
 - [Henk Mannen](Henk_Mannen "Henk Mannen")
 - [Andrés Manzanares Campillo](Andr%C3%A9s_Manzanares_Campillo "Andrés Manzanares Campillo")
-- [Andrea Manzo](Andrea_Manzo "Andrea Manzo")
 - [Heiner Matthias](Heiner_Matthias "Heiner Matthias")
 - [Luca Metehau](Luca_Metehau "Luca Metehau")
 - [Tomasz Michniewski](Tomasz_Michniewski "Tomasz Michniewski")

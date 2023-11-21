@@ -1783,7 +1783,6 @@ M
 * [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah")
 * [Mark Manyen](index.php?title=Mark_Manyen&action=edit&redlink=1 "Mark Manyen (page does not exist)")
 * [Andrés Manzanares Campillo](Andr%C3%A9s_Manzanares_Campillo "Andrés Manzanares Campillo")
-* [Andrea Manzo](Andrea_Manzo "Andrea Manzo")
 * [Eric Marathée](Eric_Marath%C3%A9e "Eric Marathée")
 * [Julien Marcel](Julien_Marcel "Julien Marcel")
 * [Adam Marczyk](index.php?title=Adam_Marczyk&action=edit&redlink=1 "Adam Marczyk (page does not exist)")

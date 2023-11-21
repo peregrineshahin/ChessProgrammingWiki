@@ -55,7 +55,6 @@ The following 46 pages are in this category, out of 46 total.
 
 ### M
 
-- [Andrea Manzo](Andrea_Manzo "Andrea Manzo")
 - [Heiner Matthias](Heiner_Matthias "Heiner Matthias")
 - [Daniel Mehrmann](Daniel_Mehrmann "Daniel Mehrmann")
 - [Denis Mendoza](Denis_Mendoza "Denis Mendoza")

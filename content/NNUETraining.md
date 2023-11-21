@@ -81,8 +81,6 @@ NNUE structure with [incremental update](Incremental_Updates "Incremental Update
  [Re: NNUE accessible explanation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74531&start=1) by [Jonathan Rosenthal](Jonathan_Rosenthal "Jonathan Rosenthal"), [CCC](CCC "CCC"), July 23, 2020
  [Re: NNUE accessible explanation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74531&start=5) by [Jonathan Rosenthal](Jonathan_Rosenthal "Jonathan Rosenthal"), [CCC](CCC "CCC"), July 24, 2020
  [Re: NNUE accessible explanation](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=74531&start=8) by [Jonathan Rosenthal](Jonathan_Rosenthal "Jonathan Rosenthal"), [CCC](CCC "CCC"), August 03, 2020
-* [BrainLearn NNUE 1.0](https://groups.google.com/d/msg/fishcooking/Wpk-9COzk64/ez643VTkAAAJ) by [Andrea Manzo](Andrea_Manzo "Andrea Manzo"), [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), July 25, 2020 » [BrainLearn](index.php?title=BrainLearn&action=edit&redlink=1 "BrainLearn (page does not exist)")
-* [ShashChess NNUE 1.0](https://groups.google.com/d/msg/fishcooking/yWtpz_FY5_Y/RMTG56fkAAAJ) by [Andrea Manzo](Andrea_Manzo "Andrea Manzo"), [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), July 25, 2020 » [ShashChess](ShashChess "ShashChess")
 * [LC0 vs. NNUE - some tech details...](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74607) by [Srdja Matovic](Srdja_Matovic "Srdja Matovic"), [CCC](CCC "CCC"), July 29, 2020 » [Lc0](Leela_Chess_Zero#Lc0 "Leela Chess Zero")
 * [What does NNUE actually mean](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=74611) by Paloma, [CCC](CCC "CCC"), July 29, 2020
 
