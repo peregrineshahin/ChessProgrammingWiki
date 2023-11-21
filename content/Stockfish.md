@@ -133,48 +133,14 @@ On July 19, 2014, Stockfish 5 played a four game match versus [Daniel Naroditsky
 	+ [SFNNv6](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md#sfnnv6-architecture) (Introduced 2023-05-31)
 	+ [SFNNv7](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md#sfnnv7-architecture) (Introduced 2023-07-01)
 	+ [SFNNv8](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md#sfnnv8-architecture) (Introduced 2023-09-22)
-	
-
 
  *See also* [Evaluation Philosophy](Evaluation_Philosophy "Evaluation Philosophy") <a id="cite-note-34" href="#cite-ref-34">[34]</a> <a id="cite-note-35" href="#cite-ref-35">[35]</a>
-* [Tapered Eval](Tapered_Eval "Tapered Eval")
-* [Score Grain](Score#Grain "Score"): ~1/256 of a [pawn unit](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo")
-* [Material](Material "Material")
-	+ [Point Values](Point_Value "Point Value")
-		- [Midgame](Middlegame "Middlegame"): 198, 817, 836, 1270, 2521
-		- [Endgame](Endgame "Endgame"): 258, 846, 857, 1278, 2558
-	+ [Bishop Pair](Bishop_Pair "Bishop Pair")
-	+ [Imbalance Tables](Material_Tables "Material Tables")
-	+ [Material Hash Table](Material_Hash_Table "Material Hash Table")
-* [Piece-Square Tables](Piece-Square_Tables "Piece-Square Tables")
-* [Space](Space "Space")
-* [Mobility](Mobility "Mobility")
-	+ [Trapped Pieces](Trapped_Pieces "Trapped Pieces")
-	+ [Rooks on (Semi) Open Files](Rook_on_Open_File "Rook on Open File")
-* [Outposts](Outposts "Outposts")
-* [Pawn Structure](Pawn_Structure "Pawn Structure")
-	+ [Pawn Hash Table](Pawn_Hash_Table "Pawn Hash Table")
-	+ [Backward Pawn](Backward_Pawn "Backward Pawn")
-	+ [Doubled Pawn](Doubled_Pawn "Doubled Pawn")
-	+ [Isolated Pawn](Isolated_Pawn "Isolated Pawn")
-	+ [Phalanx](Duo_Trio_Quart_(Bitboards) "Duo Trio Quart (Bitboards)")
-	+ [Connected Pawns](Connected_Pawns "Connected Pawns")
-	+ [Passed Pawn](Passed_Pawn "Passed Pawn")
-* [King Safety](King_Safety "King Safety")
-	+ [Attacking King Zone](King_Safety#Attacking "King Safety")
-	+ [Pawn Shelter](King_Safety#PawnShield "King Safety")
-	+ [Pawn Storm](King_Safety#PawnStorm "King Safety")
-	+ [Square Control](King_Safety#SquareControl "King Safety")
-* [Evaluation Patterns](Evaluation_Patterns "Evaluation Patterns")
 
 
 ### Misc
 
 
 * [Chess960](Chess960 "Chess960")
-* [Stockfish's Tuning Method](Stockfish%27s_Tuning_Method "Stockfish's Tuning Method")
-
-
 * [SPSA](SPSA "SPSA")
 * [Syzygy Bases](Syzygy_Bases "Syzygy Bases")
 
