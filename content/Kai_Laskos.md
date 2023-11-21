@@ -92,7 +92,7 @@ in the field of [match statistics](Match_Statistics "Match Statistics") in [engi
 * [Stockfish underpromotes much more often than Komodo](http://www.talkchess.com/forum/viewtopic.php?t=61601) by Kai Laskos, [CCC](CCC "CCC"), October 05, 2016 » [Komodo](Komodo "Komodo"), [Match Statistics](Match_Statistics "Match Statistics"), [Promotions](Promotions "Promotions"), [Stockfish](Stockfish "Stockfish")
 * [Differences between top engines related to "style"](http://www.talkchess.com/forum/viewtopic.php?t=61636) by Kai Laskos, October 07, 2016
 * [The scaling of Deep Learning MCTS Go engines](http://www.talkchess.com/forum/viewtopic.php?t=61801) by Kai Laskos, [CCC](CCC "CCC"), October 23, 2016 » [Deep Learning](Deep_Learning "Deep Learning"), [Go](Go "Go"), [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search")
-* [Opening performance of engines](http://www.talkchess.com/forum/viewtopic.php?t=61858) by Kai Laskos, [CCC](CCC "CCC"), October 28, 2016 » [Opening](Opening "Opening"), [Test-Positions](Test-Positions "Test-Positions")
+* [Opening performance of engines](http://www.talkchess.com/forum/viewtopic.php?t=61858) by Kai Laskos, [CCC](CCC "CCC"), October 28, 2016 » [Opening](Opening "Opening"), [Test-Positions](Test_Positions "Test-Positions")
 * [Diminishing returns and hyperthreading](http://www.talkchess.com/forum/viewtopic.php?t=62622) by Kai Laskos, [CCC](CCC "CCC"), December 27, 2016 » [Diminishing Returns](Depth#DiminishingReturns "Depth"), [Match Statistics](Match_Statistics "Match Statistics"), [Thread](Thread "Thread")
 
 
@@ -135,7 +135,7 @@ in the field of [match statistics](Match_Statistics "Match Statistics") in [engi
 
 * [Interesting article in "Nature" on Machine Learning](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=69536) by Kai Laskos, [CCC](CCC "CCC"), January 09, 2019 » [Learning](Learning "Learning")
 * [Schizophrenic rating model for Leela](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=69672) by Kai Laskos, [CCC](CCC "CCC"), January 21, 2019 » [Match Statistics](Match_Statistics "Match Statistics"), [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
-* [Middlegame positional test-suite](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70438) by Kai Laskos, [CCC](CCC "CCC"), April 07, 2019 » [Middlegame](Middlegame "Middlegame"), [Test-Positions](Test-Positions "Test-Positions")
+* [Middlegame positional test-suite](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70438) by Kai Laskos, [CCC](CCC "CCC"), April 07, 2019 » [Middlegame](Middlegame "Middlegame"), [Test-Positions](Test_Positions "Test-Positions")
 * [How to get the "usual" Multi PV with MCTS engines?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70788) by Kai Laskos, [CCC](CCC "CCC"), May 21, 2019 » [MultiPV](Principal_Variation#MultiPV "Principal Variation"), [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search")
 * [Why are super top professional Go players so stupid?](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70899) by Kai Laskos, [CCC](CCC "CCC"), June 02, 2019
 * [ChessBase's prophecy of 2004 fulfilled in 2019](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=71025) by Kai Laskos, [CCC](CCC "CCC"), June 17, 2019 » [ChessBase](ChessBase "ChessBase")

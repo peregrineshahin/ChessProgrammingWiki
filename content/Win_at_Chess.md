@@ -1,7 +1,7 @@
 ---
 title: Win at Chess
 ---
-**[Home](Home "Home") \* [Engine Testing](Engine_Testing "Engine Testing") \* [Test-Positions](Test-Positions "Test-Positions") \* Win at Chess**
+**[Home](Home "Home") \* [Engine Testing](Engine_Testing "Engine Testing") \* [Test-Positions](Test_Positions "Test-Positions") \* Win at Chess**
 
 
 
@@ -417,7 +417,7 @@ b2b1r1k/3R1ppp/4qP2/4p1PQ/4P3/5B2/4N1K1/8 w - - bm g6; id "WAC.300";
 6. <a id="cite-ref-6" href="#cite-note-6">↑</a> [Hans Kmoch vs Aron Nimzowitsch (1927)](http://www.chessgames.com/perl/chessgame?gid=1102423) from [chessgames.com](http://www.chessgames.com/index.html)
 7. <a id="cite-ref-7" href="#cite-note-7">↑</a> [wacnew.epd](http://tropo.googlecode.com/svn-history/r33/trunk/Chess/Engines/Tests/wacnew.epd)
 
-**[Up one Level](Test-Positions "Test-Positions")**
+**[Up one Level](Test_Positions "Test-Positions")**
 
 
 

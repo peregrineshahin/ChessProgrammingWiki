@@ -37,7 +37,7 @@ Beside [material](Material "Material"), [mobility](Mobility "Mobility") and [paw
 ## Forum Posts
 
 
-* [Middlegame positional test-suite](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70438) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), April 07, 2019 » [Test-Positions](Test-Positions "Test-Positions")
+* [Middlegame positional test-suite](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=70438) by [Kai Laskos](Kai_Laskos "Kai Laskos"), [CCC](CCC "CCC"), April 07, 2019 » [Test-Positions](Test_Positions "Test-Positions")
 * [mg vs eg eval](https://groups.google.com/d/msg/fishcooking/znU1a7aZ2XI/yJDFtOQnAwAJ) by [Joost VandeVondele](Joost_VandeVondele "Joost VandeVondele"), [FishCooking](Computer_Chess_Forums "Computer Chess Forums"), October 06, 2019 » [Endgame](Endgame "Endgame"), [Stockfish](Stockfish "Stockfish")
 
 

@@ -141,7 +141,7 @@ Rb8 16.b3 Qa5 17.a4 Rb4 18.Nd3 Rb6 19.Bb5 Rxb5 20.axb5 Nxd4 21.Nxd4 Bxd4
 
 - [Win at Chess](https://www.stmintz.com/ccc/index.php?id=14211) by Don Dailey, [CCC](CCC "CCC"), January 16, 1998 » [Win at Chess](Win_at_Chess "Win at Chess")
 - [Node counting confusion](https://www.stmintz.com/ccc/index.php?id=14239) by Don Dailey, [CCC](CCC "CCC"), January 17, 1998 » [Node](Node "Node")
-- [ECM - first 100 problems summary](https://www.stmintz.com/ccc/index.php?id=14828) by Don Dailey, [CCC](CCC "CCC"), February 01, 1998 » [Test-Positions](Test-Positions "Test-Positions")
+- [ECM - first 100 problems summary](https://www.stmintz.com/ccc/index.php?id=14828) by Don Dailey, [CCC](CCC "CCC"), February 01, 1998 » [Test-Positions](Test_Positions "Test-Positions")
 - [Time control legend](https://www.stmintz.com/ccc/index.php?id=18553) by Don Dailey, [CCC](CCC "CCC"), May 13, 1998 » [Time Management](Time_Management "Time Management")
 - [Knowledge is not elegant](https://www.stmintz.com/ccc/index.php?id=20531) by Don Dailey, [CCC](CCC "CCC"), June 14, 1998
 - [AN APPEAL TO THE WHOLE GROUP FOR CONSIDERATION](https://www.stmintz.com/ccc/index.php?id=24708) by Don Dailey, [CCC](CCC "CCC"), August 14, 1998

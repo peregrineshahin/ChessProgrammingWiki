@@ -25,7 +25,7 @@ Tom is author of the [Chess Engine Communication Protocol](Chess_Engine_Communic
 * [Asymetric king safety](http://groups.google.com/group/rec.games.chess.computer/browse_frm/thread/462b49226d1f1dfe#) by Tom King, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), March 13, 1999 » [Asymmetric Evaluation](Asymmetric_Evaluation "Asymmetric Evaluation"), [King Safety](King_Safety "King Safety")
 * [SEE for forward pruning in Q. Search](https://www.stmintz.com/ccc/index.php?id=63511) by Tom King, [CCC](CCC "CCC"), August 04, 1999 » [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation"), [Quiescence Search](Quiescence_Search "Quiescence Search")
 * [SEE for forward pruning in the Q. search - I'm confused!](https://www.stmintz.com/ccc/index.php?id=64357) by Tom King, [CCC](CCC "CCC"), August 11, 1999
-* [Test suites - can they reliably predict ELO?](https://www.stmintz.com/ccc/index.php?id=81949) by Tom King, [CCC](CCC "CCC"), December 11, 1999 » [Test-Positions](Test-Positions "Test-Positions")
+* [Test suites - can they reliably predict ELO?](https://www.stmintz.com/ccc/index.php?id=81949) by Tom King, [CCC](CCC "CCC"), December 11, 1999 » [Test-Positions](Test_Positions "Test-Positions")
 
 
 ### 2000 ...

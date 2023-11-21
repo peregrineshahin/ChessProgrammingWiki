@@ -1,11 +1,7 @@
 ---
-title: Main Pagehidelinks1
+title:hidelinks1
 ---
 [Help](/www.mediawiki.org/wiki/Special:MyLanguage/Help:What_links_here)
-
-
-
-
 
 ← [Home](Home "Home")
 

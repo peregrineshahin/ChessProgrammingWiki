@@ -11,7 +11,7 @@ title: Jeroen Noomen
 a Dutch chess player, computer chess expert, collector of [dedicated chess computers](Dedicated_Chess_Computers "Dedicated Chess Computers"), and well-established [opening book author](Category:Opening_Book_Author "Category:Opening Book Author"). Since 1981 Jeroen has been involved in computer chess as a writer in computer chess magazines, as a full time contributor for [Hegener & Glaser](Hegener_%26_Glaser "Hegener & Glaser"), being responsible for the [opening books](Opening_Book "Opening Book") of the programs by [Richard Lang](Richard_Lang "Richard Lang") and [Ed Schröder](Ed_Schroder "Ed Schroder"). 
 In the period from 1990 to 1992 Jeroen developed opening books for the Schröder programs such as [Mephisto Polgar](Mephisto_Polgar "Mephisto Polgar"), [Mephisto MM IV](Mephisto_Rebell "Mephisto Rebell"), [Mephisto RISC](Mephisto_RISC "Mephisto RISC"), and [Rebel](Rebel "Rebel") itself <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 Jeroen was further book author of [Chess Tiger](Chess_Tiger "Chess Tiger"), [Ruffian](Ruffian "Ruffian") and [Rybka](Rybka "Rybka") <a id="cite-note-3" href="#cite-ref-3">[3]</a><a id="cite-note-4" href="#cite-ref-4">[4]</a>. 
-He is also known as author of [opening suites](Test-Positions#OpeningSuites "Test-Positions"), a set of opening positions, intended for engine vs engine testing, which gives a balanced representation of modern chess. 
+He is also known as author of [opening suites](Test_Positions#OpeningSuites "Test-Positions"), a set of opening positions, intended for engine vs engine testing, which gives a balanced representation of modern chess. 
 
 
 
@@ -51,14 +51,14 @@ SKA-Mephisto-Tournament, [Munich](https://en.wikipedia.org/wiki/Munich), April 1
 * [Noomen Sicilian Testsuite 2012 available](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=23779) by Jeroen Noomen, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), December 17, 2011
 * [Noomen King's Indian Testsuite 2012](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=24144) by Jeroen Noomen, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), January 29, 2012
 * [Noomen Benko Gambit Testsuite 2012](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=24211) by Jeroen Noomen, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), February 03, 2012
-* [A new testsuite](http://www.talkchess.com/forum/viewtopic.php?t=52706) by Jeroen Noomen, [CCC](CCC "CCC"), June 21, 2014 » [Opening Suites](Test-Positions#OpeningSuites "Test-Positions")
-* [New testsuite available](http://www.talkchess.com/forum/viewtopic.php?t=54328) by Jeroen Noomen, [CCC](CCC "CCC"), November 13, 2014 » [Opening Suites](Test-Positions#OpeningSuites "Test-Positions")
+* [A new testsuite](http://www.talkchess.com/forum/viewtopic.php?t=52706) by Jeroen Noomen, [CCC](CCC "CCC"), June 21, 2014 » [Opening Suites](Test_Positions#OpeningSuites "Test-Positions")
+* [New testsuite available](http://www.talkchess.com/forum/viewtopic.php?t=54328) by Jeroen Noomen, [CCC](CCC "CCC"), November 13, 2014 » [Opening Suites](Test_Positions#OpeningSuites "Test-Positions")
 
 
 ### 2015 ...
 
 
-* [Noomen selected openings for eng-eng matches](http://www.talkchess.com/forum/viewtopic.php?t=56546) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), May 31, 2015 » [Opening Suites](Test-Positions#OpeningSuites "Test-Positions")
+* [Noomen selected openings for eng-eng matches](http://www.talkchess.com/forum/viewtopic.php?t=56546) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), May 31, 2015 » [Opening Suites](Test_Positions#OpeningSuites "Test-Positions")
 * [My new book is out: Noomen.ctg](http://www.talkchess.com/forum/viewtopic.php?t=60237) by Jeroen Noomen, [CCC](CCC "CCC"), May 22, 2016 <a id="cite-note-10" href="#cite-ref-10">[10]</a> » [CTG](CTG "CTG")
 * [Noomen.ctg: UPDATE](http://www.talkchess.com/forum/viewtopic.php?t=61176) by Jeroen Noomen, [CCC](CCC "CCC"), August 20, 2016
 * [New testsuite: UltraShort Lines](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=32149) by Jeroen Noomen, [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), June 03, 2017

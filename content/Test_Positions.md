@@ -59,8 +59,6 @@ add more...
 
 ## [Opening Suites](Opening "Opening")
 
-====================================
-
 ### [Banks](Graham_Banks "Graham Banks")
 
 - [Graham2014-1.cgb opening book for ChessGUI](http://www.talkchess.com/forum/viewtopic.php?t=50541) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 19, 2013 » [ChessGUI](ChessGUI "ChessGUI")

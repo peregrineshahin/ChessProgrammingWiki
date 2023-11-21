@@ -28,7 +28,7 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 - [Endgame Tablebase Support](Endgame_Tablebases "Endgame Tablebases") ([Nalimov](Nalimov_Tablebases "Nalimov Tablebases"))
 - [Matt Taylor's](Matt_Taylor "Matt Taylor") [Folded BitScan](BitScan#MattTaylorsFoldingtrick "BitScan") (board.c)
 - [Variable Skill Levels](Playing_Strength "Playing Strength")
-- [Test Suite Support](Test-Positions#TestSuites "Test-Positions")
+- [Test Suite Support](Test_Positions#TestSuites "Test-Positions")
 - [ISAAC64 Pseudorandom Number Generator](Pseudorandom_Number_Generator "Pseudorandom Number Generator") by [Bob Jenkins](Bob_Jenkins "Bob Jenkins"), 1996, <a id="cite-note-6" href="#cite-ref-6">[6]</a> modifications by [Ron Murawski](Ron_Murawski "Ron Murawski"), 2001
 
 ## Forum Posts

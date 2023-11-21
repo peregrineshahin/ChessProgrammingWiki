@@ -80,7 +80,7 @@ The following 16 pages are in this category, out of 16 total.
 
 ### T
 
-- [Test-Positions](Test-Positions "Test-Positions")
+- [Test-Positions](Test_Positions "Test-Positions")
 - [Transposition Table](Transposition_Table "Transposition Table")
 
 ### Z

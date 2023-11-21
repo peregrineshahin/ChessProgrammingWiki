@@ -1,5 +1,5 @@
 ---
-title: Main Pageprintableyes
+title:printableyes
 ---
 [Help](/www.mediawiki.org/wiki/Special:MyLanguage/Help:What_links_here)
 

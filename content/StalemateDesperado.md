@@ -164,7 +164,7 @@ Qd3 98.Kg2 f4 99.Kf2 Qg3+ 100.Kf1 f3 101.Rf2 Qg4 102.Rac2 Qh5 103.Kg1 Kxa4
 
 * [Shortest Stalemate by Samuel Loyd](https://www.stmintz.com/ccc/index.php?id=156762) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), March 02, 2001
 * [Nice Stalemate Trap by Tinker](https://www.stmintz.com/ccc/index.php?id=194764) by [Dieter Bürßner](Dieter_B%C3%BCr%C3%9Fner "Dieter Bürßner"), [CCC](CCC "CCC"), October 29, 2001
-* [Stalemate trap(SOS-Delfi)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35352) by [George Lyapko](George_Lyapko "George Lyapko"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 18, 2001 » [Test-Positions](Test-Positions "Test-Positions"), [SOS](SOS "SOS"), [Delfi](Delfi "Delfi")
+* [Stalemate trap(SOS-Delfi)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35352) by [George Lyapko](George_Lyapko "George Lyapko"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 18, 2001 » [Test-Positions](Test_Positions "Test-Positions"), [SOS](SOS "SOS"), [Delfi](Delfi "Delfi")
 * [How to handle EGTB stalemates](https://www.stmintz.com/ccc/index.php?id=287563) by [Tom Likens](Tom_Likens "Tom Likens"), [CCC](CCC "CCC"), March 02, 2003 » [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases")
 
 

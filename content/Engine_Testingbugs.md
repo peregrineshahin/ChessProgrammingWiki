@@ -6,7 +6,7 @@ title: Engine Testingbugs
 [](http://sanseverything.wordpress.com/2008/01/16/hope-springs-eternal/) The ever-optimistic [Wile E. Coyote](https://en.wikipedia.org/wiki/Wile_E._Coyote_and_Road_Runner) <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 **Engine Testing**,
 
-the process either to eliminate [bugs](https://en.wikipedia.org/wiki/Software_bug) and to measure [performance](Playing_Strength "Playing Strength") of a chess engine. New implementations of [move generation](Move_Generation "Move Generation") are tested with [Perft](Perft "Perft"), while new features and [tuning](Automated_Tuning "Automated Tuning") of [search](Search "Search") and [evaluation](Evaluation "Evaluation") are verified by [test-positions](Test-Positions "Test-Positions") and by playing [matches](Match_Statistics "Match Statistics") against other engines.
+the process either to eliminate [bugs](https://en.wikipedia.org/wiki/Software_bug) and to measure [performance](Playing_Strength "Playing Strength") of a chess engine. New implementations of [move generation](Move_Generation "Move Generation") are tested with [Perft](Perft "Perft"), while new features and [tuning](Automated_Tuning "Automated Tuning") of [search](Search "Search") and [evaluation](Evaluation "Evaluation") are verified by [test-positions](Test_Positions "Test-Positions") and by playing [matches](Match_Statistics "Match Statistics") against other engines.
 
 ## Bug Hunting
 
@@ -28,7 +28,7 @@ the process either to eliminate [bugs](https://en.wikipedia.org/wiki/Software_bu
 
 Running sets of test-positions with number of solutions per fixed time-frame is useful to prove whether things are broken after program changes or to get hints about missing knowledge. But one should be careful to tune engines based on test-position results, since solving (possible tactical) test-positions does not necessarily correlate with practical [playing strength](Playing_Strength "Playing Strength") in matches against other opponents.
 
-- [Test-Positions](Test-Positions "Test-Positions")
+- [Test-Positions](Test_Positions "Test-Positions")
 
 ## Matches
 
@@ -42,7 +42,7 @@ A side from the type of [time control](Time_Management#Time_Controls "Time Manag
 
 ## Opening
 
-During testing the engines should ideally play the same style of openings they would play in a normal tournament, so not to optimize them for different types of positions. One option is to use the engines own [opening book](Opening_Book "Opening Book") or one can use [opening suites](Test-Positions#OpeningSuites "Test-Positions"), a set of quiet test positions. In the latter case the same opening suit would be used for each tournament conducted and furthermore each position is played a second time with colors reversed. With these measures one can try to minimize the disparity between tests caused by different openings.
+During testing the engines should ideally play the same style of openings they would play in a normal tournament, so not to optimize them for different types of positions. One option is to use the engines own [opening book](Opening_Book "Opening Book") or one can use [opening suites](Test_Positions#OpeningSuites "Test-Positions"), a set of quiet test positions. In the latter case the same opening suit would be used for each tournament conducted and furthermore each position is played a second time with colors reversed. With these measures one can try to minimize the disparity between tests caused by different openings.
 
 ## Tournament Manager
 

@@ -1,5 +1,5 @@
 ---
-title: Main Pagelimit250
+title:limit250
 ---
 [Help](/www.mediawiki.org/wiki/Special:MyLanguage/Help:What_links_here)
 

@@ -1,5 +1,5 @@
 ---
-title: Main Pagehidetrans1
+title:hidetrans1
 ---
 [Help](/www.mediawiki.org/wiki/Special:MyLanguage/Help:What_links_here)
 

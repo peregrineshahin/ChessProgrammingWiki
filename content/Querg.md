@@ -46,7 +46,7 @@ The [evaluation](Evaluation "Evaluation") relies largely on first-order terms <a
 ## Performance
 
 
-Performance was determined by [test-positions](Test-Positions "Test-Positions") and games played versus programs running on the same 8-bit Atari, such as [Cyrus](Cyrus "Cyrus"), [Colossus 3.0](Colossus_Chess "Colossus Chess"), the old [Sargon 2.5](Sargon "Sargon"), and others, where *NovaQuerg* finished with 6.5 points out of 14. However, Querg has not played any official tournaments.
+Performance was determined by [test-positions](Test_Positions "Test-Positions") and games played versus programs running on the same 8-bit Atari, such as [Cyrus](Cyrus "Cyrus"), [Colossus 3.0](Colossus_Chess "Colossus Chess"), the old [Sargon 2.5](Sargon "Sargon"), and others, where *NovaQuerg* finished with 6.5 points out of 14. However, Querg has not played any official tournaments.
 
 
 

@@ -16,7 +16,7 @@ He has further created various [PGN](Portable_Game_Notation "Portable Game Notat
 
 - [New WB engine "Bestia" available for download](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=31917) by George Lyapko, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 05, 2000
 - [Bestia 0.8 available for download](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=34232) by George Lyapko, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), July 20, 2001
-- [Stalemate trap(SOS-Delfi)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35352) by George Lyapko, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 18, 2001 » [Stalemate](Stalemate "Stalemate"), [Test-Positions](Test-Positions "Test-Positions"), [SOS](SOS "SOS"), [Delfi](Delfi "Delfi")
+- [Stalemate trap(SOS-Delfi)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35352) by George Lyapko, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 18, 2001 » [Stalemate](Stalemate "Stalemate"), [Test-Positions](Test_Positions "Test-Positions"), [SOS](SOS "SOS"), [Delfi](Delfi "Delfi")
 - [Lyapko's 30 min tournament started on 09/2003 finished](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=46376&p=175677) by [Alejandro Dubrovsky](Alejandro_Dubrovsky "Alejandro Dubrovsky"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), February 07, 2004
 - [Olympiads 2004 : Bestia Nationality](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=46770) by Nicolas Normand, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 08, 2004
 - [Blocked position](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=1024) by George Lyapko, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 17, 2004
@@ -24,7 +24,7 @@ He has further created various [PGN](Portable_Game_Notation "Portable Game Notat
 ## 2005 ...
 
 - [Merlin 2.0beta bug](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=1858) by George Lyapko, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), March 05, 2005 » [Merlin](</Merlin_(HU)> "Merlin (HU)")
-- [Trying to improve MES endgame suite](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=3589) by George Lyapko, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 30, 2005 » [Test-Positions](Test-Positions "Test-Positions") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
+- [Trying to improve MES endgame suite](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=3589) by George Lyapko, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), September 30, 2005 » [Test-Positions](Test_Positions "Test-Positions") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 - [Re: How is learning triggered?](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=4867&p=25131#p25131) by George Lyapko, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 25, 2006 » [Learning](Learning "Learning")
 - [George Lyapko Chess pages](http://www.open-aurec.com/wbforum/viewtopic.php?f=2&t=50524) by [Ron Murawski](Ron_Murawski "Ron Murawski"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), October 31, 2009
 

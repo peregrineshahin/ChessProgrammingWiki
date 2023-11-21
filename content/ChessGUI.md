@@ -119,7 +119,7 @@ On 29 Mar 2016, the author of ChessGUI announced he retired from chess programmi
 - [ChessGUI 0.243 is available](http://www.talkchess.com/forum/viewtopic.php?t=47225) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), February 14, 2013
 - [ChessGUI 0.245a is available](http://www.talkchess.com/forum/viewtopic.php?t=48790) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), July 29, 2013
 - [ChessGUI 0.245f is available](http://www.talkchess.com/forum/viewtopic.php?t=50492) by [Matthias Gemuh](Matthias_Gemuh "Matthias Gemuh"), [CCC](CCC "CCC"), December 14, 2013 » [Syzygy Bases](Syzygy_Bases "Syzygy Bases")
-- [Graham2014-1.cgb opening book for ChessGUI](http://www.talkchess.com/forum/viewtopic.php?t=50541) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 19, 2013 » [Opening Suites](Test-Positions#OpeningSuites "Test-Positions")
+- [Graham2014-1.cgb opening book for ChessGUI](http://www.talkchess.com/forum/viewtopic.php?t=50541) by [Graham Banks](Graham_Banks "Graham Banks"), [CCC](CCC "CCC"), December 19, 2013 » [Opening Suites](Test_Positions#OpeningSuites "Test-Positions")
 
 ## 2015 ...
 

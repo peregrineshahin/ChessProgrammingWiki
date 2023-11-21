@@ -7,7 +7,7 @@ title: Leonid Liberman
 **Leonid Liberman**,  
 
 a Canadian chess programmer and author of [LL Chess](LL_Chess "LL Chess") <a id="cite-note-1" href="#cite-ref-1">[1]</a>, 
-famous for posting turbulent [mate in N](Checkmate "Checkmate") [positions](Test-Positions#Leonid "Test-Positions") in [CCC](CCC "CCC"), forcing many engines to "[explode](Search_Explosion#leonid "Search Explosion")" even in [quiescence search](Quiescence_Search "Quiescence Search"). 
+famous for posting turbulent [mate in N](Checkmate "Checkmate") [positions](Test_Positions#Leonid "Test-Positions") in [CCC](CCC "CCC"), forcing many engines to "[explode](Search_Explosion#leonid "Search Explosion")" even in [quiescence search](Quiescence_Search "Quiescence Search"). 
 In his publications on computer chess from the mid 90s, hosted by *End of the World Production, LLC.* <a id="cite-note-2" href="#cite-ref-2">[2]</a>, 
 he elaborates on [x86](X86 "X86") [assembly](Assembly "Assembly"), [board representation](Board_Representation "Board Representation"), [piece coding](Pieces#PieceCoding "Pieces") and [move generation](Move_Generation "Move Generation"), mate solving, and [point values](Point_Value "Point Value") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 

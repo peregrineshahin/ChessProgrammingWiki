@@ -2,7 +2,7 @@
 title: Multi Cut
 ---
 
-**[Home](Main_Page "Main Page") \* [Search](Search "Search") \* [Selectivity](Selectivity "Selectivity") \* [Pruning](Pruning "Pruning") \* Multi-Cut**
+**[Home](Home "Home") \* [Search](Search "Search") \* [Selectivity](Selectivity "Selectivity") \* [Pruning](Pruning "Pruning") \* Multi-Cut**
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Master_Pine_Pruner_LACMA_M.2006.136.205a-b.jpg/300px-Master_Pine_Pruner_LACMA_M.2006.136.205a-b.jpg)](File:Master_Pine_Pruner_LACMA_M.2006.136.205a-b.jpg)
 

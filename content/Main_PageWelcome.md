@@ -1,5 +1,5 @@
 ---
-title: Main PageWelcome
+title:Welcome
 ---
 The **Chess Programming Wiki** is a repository of information about [programming](Programming "Programming") computers to play [chess](Chess "Chess"). Our goal is to provide a reference for every aspect of chess-programming, information about [programmers](Category:Programmer "Category:Programmer"), [researcher](Category:Researcher "Category:Researcher") and [engines](Engines "Engines"). You'll find different ways to implement [LMR](Late_Move_Reductions "Late Move Reductions") and [bitboard](Bitboards "Bitboards") stuff like [best magics](Best_Magics_so_far "Best Magics so far") for most dense [magic bitboard](Magic_Bitboards "Magic Bitboards") tables. For didactic purposes, the [CPW-Engine](CPW-Engine "CPW-Engine") has been developed by some wiki members. You can start browsing using the left-hand navigation bar. All of our content is arranged hierarchically, so you can see every page by following just those links. If you are looking for a specific page or catchword you can use the search box on top. You will notice updating progress almost daily.
 

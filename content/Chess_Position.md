@@ -34,7 +34,7 @@ In the context of Search, a position is the [node](Node "Node") inside a [search
 ## Positions
 
 - [Initial Position](Initial_Position "Initial Position")
-- [Test-Positions](Test-Positions "Test-Positions")
+- [Test-Positions](Test_Positions "Test-Positions")
 
 ## Notations
 

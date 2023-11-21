@@ -1,6 +1,7 @@
 ---
 title: Null Move
 ---
+
 **[Home](Home "Home") \* [Chess](Chess "Chess") \* [Moves](Moves "Moves") \* Null Move**
 
 

@@ -36,7 +36,7 @@ A **passed pawn,** also called **free pawn** or **passer**, is a [pawn](Pawn "Pa
 ### 2000 ...
 
 
-* [Passed Pawn Suite](https://www.stmintz.com/ccc/index.php?id=98943) by [Howard Exner](index.php?title=Howard_Exner&action=edit&redlink=1 "Howard Exner (page does not exist)"), [CCC](CCC "CCC"), February 24, 2000 » [Test-Positions](Test-Positions "Test-Positions")
+* [Passed Pawn Suite](https://www.stmintz.com/ccc/index.php?id=98943) by [Howard Exner](index.php?title=Howard_Exner&action=edit&redlink=1 "Howard Exner (page does not exist)"), [CCC](CCC "CCC"), February 24, 2000 » [Test-Positions](Test_Positions "Test-Positions")
 * [Intersting testposition: multiple passed pawns](https://www.stmintz.com/ccc/index.php?id=290374) by [Alexander Kure](Alex_Kure "Alex Kure"), [CCC](CCC "CCC"), March 23, 2003
 * [passed pawn evaluation](https://www.stmintz.com/ccc/index.php?id=341706) by macaroni, [CCC](CCC "CCC"), January 11, 2004
 

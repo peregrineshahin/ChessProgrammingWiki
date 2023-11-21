@@ -10,7 +10,7 @@ title: Kurt Utzinger
 
 a Swiss retired primary school teacher, chess player, president of the chess club [Pfäffikon ZH](https://en.wikipedia.org/wiki/Pf%C3%A4ffikon,_Z%C3%BCrich) <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, and computer chess aficionado and tester. 
-Kurt Utzinger maintaines the computer chess site *Kurt & Rolf Chess*, full of (annotated) [pgn](Portable_Game_Notation "Portable Game Notation") files, [test-positions](Test-Positions "Test-Positions"), [engines](Engines "Engines") and [utilities](Utilities "Utilities") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. He is further active in various [computer chess forums](Computer_Chess_Forums "Computer Chess Forums").
+Kurt Utzinger maintaines the computer chess site *Kurt & Rolf Chess*, full of (annotated) [pgn](Portable_Game_Notation "Portable Game Notation") files, [test-positions](Test_Positions "Test-Positions"), [engines](Engines "Engines") and [utilities](Utilities "Utilities") <a id="cite-note-4" href="#cite-ref-4">[4]</a>. He is further active in various [computer chess forums](Computer_Chess_Forums "Computer Chess Forums").
 
 
 

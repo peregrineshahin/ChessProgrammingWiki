@@ -6,7 +6,7 @@ title: FCP
 **FCP**, (Forth Chess Program)
 
 a chess engine by [Ian Osgood](Ian_Osgood "Ian Osgood"), written as an exercise in learning the [Forth](Forth "Forth") programming language, originally derived from [Tom Kerrigan's](Tom_Kerrigan "Tom Kerrigan") simple chess program [TSCP](TSCP "TSCP") 1.71. At the time it was started, there were no other chess programs in Forth which used modern search techniques. FCP retains the values of small footprint (\< 64K) and code clarity.
-Normally, FCP is used from the Forth command line. There are also drivers for working in [XBoard](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and running [EPD](Extended_Position_Description "Extended Position Description") [test suites](Test-Positions "Test-Positions").
+Normally, FCP is used from the Forth command line. There are also drivers for working in [XBoard](Chess_Engine_Communication_Protocol "Chess Engine Communication Protocol") and running [EPD](Extended_Position_Description "Extended Position Description") [test suites](Test_Positions "Test-Positions").
 
 ## Enhancements
 

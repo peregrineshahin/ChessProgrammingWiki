@@ -1,7 +1,7 @@
 ---
 title: BratkoKopec Test
 ---
-**[Home](Home "Home") * [Engine Testing](Engine_Testing "Engine Testing") * [Test-Positions](Test-Positions "Test-Positions") * Bratko-Kopec Test**
+**[Home](Home "Home") * [Engine Testing](Engine_Testing "Engine Testing") * [Test-Positions](Test_Positions "Test-Positions") * Bratko-Kopec Test**
 
 The **Bratko-Kopec Test** (**BK-Test**) was designed by [Ivan Bratko](Ivan_Bratko "Ivan Bratko") and [Danny Kopec](Danny_Kopec "Danny Kopec") in 1982 at the [University of Edinburgh](University_of_Edinburgh "University of Edinburgh") <a id="cite-note-1" href="#cite-ref-1">[1]</a>. The Bratko-Kopec Test was widely discussed <a id="cite-note-2" href="#cite-ref-2">[2]</a>, updated <a id="cite-note-3" href="#cite-ref-3">[3]</a> and revisited <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
@@ -84,5 +84,5 @@ r2qnrnk/p2b2b1/1p1p2pp/2pPpp2/1PP1P3/PRNBB3/3QNPPP/5RK1 w - - bm f4; id "BK.24";
 1. <a id="cite-ref-9" href="#cite-note-9">↑</a> [Sanny: Some test positions for you](http://groups.google.com/group/rec.games.chess.misc/browse_frm/thread/39e2b493928369fe#) by Guest, [rec.games.chess.misc](Computer_Chess_Forums "Computer Chess Forums"), August 18, 2008
 1. <a id="cite-ref-10" href="#cite-note-10">↑</a> Revised version of the paper *Comparison and Testing of Six Commercial Computer Chess Programs*, presented at the [WCCC 1992 - Workshop: The Impact of Computer Chess on AI Research](WCCC_1992#Workshop "WCCC 1992") by [Tony Marsland](Tony_Marsland "Tony Marsland")
 
-**[Up one Level](Test-Positions "Test-Positions")**
+**[Up one Level](Test_Positions "Test-Positions")**
 

@@ -141,7 +141,7 @@ Some programs rely on [pseudo-legal move generation](Move_Generation "Move Gener
 - [Mate Score](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=64428) by [Tamás Kuzmics](Tam%C3%A1s_Kuzmics "Tamás Kuzmics"), [CCC](CCC "CCC"), June 27, 2017
 - [Mate scores in TT (a new?... approach)](http://www.talkchess.com/forum/viewtopic.php?t=67049) by Vince Sempronio, [CCC](CCC "CCC"), April 09, 2018
 - [Yet another Mate scores in TT thread](http://www.talkchess.com/forum/viewtopic.php?t=67078) by [Andrew Grant](Andrew_Grant "Andrew Grant"), [CCC](CCC "CCC"), April 12, 2018 » [Score](Score "Score"), [Transposition Table](Transposition_Table "Transposition Table")
-- [mate test positions](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68100) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), July 29, 2018 » [Test-Positions](Test-Positions "Test-Positions")
+- [mate test positions](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68100) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), July 29, 2018 » [Test-Positions](Test_Positions "Test-Positions")
 - [A mate suite to test multi-pv and new engines](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68146) by [Uri Blass](Uri_Blass "Uri Blass"), [CCC](CCC "CCC"), August 06, 2018
 - [Trying to find a weird mate in 1...](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=71337) by [Martin Bryant](Martin_Bryant "Martin Bryant"), [CCC](CCC "CCC"), July 22, 2019 » [Fieberg's mate-in-1](#FiebergMateInOne)
 

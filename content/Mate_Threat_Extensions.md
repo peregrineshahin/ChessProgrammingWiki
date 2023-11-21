@@ -2,7 +2,7 @@
 title: Mate Threat Extensions
 ---
 
-**[Home](Main_Page "Main Page") \* [Search](Search "Search") \* [Selectivity](Selectivity "Selectivity") \* [Extensions](Extensions "Extensions") \* Mate Threat Extensions**
+**[Home](Home "Home") \* [Search](Search "Search") \* [Selectivity](Selectivity "Selectivity") \* [Extensions](Extensions "Extensions") \* Mate Threat Extensions**
 
 **Mate Threat Extensions** are extensions caused by a mate threat of the opponent [detected](Null_Move_Pruning#ThreatDetection "Null Move Pruning") after making a [null move](Null_Move "Null Move") in a [fail-soft](Fail-Soft "Fail-Soft") framework, or alternatively with a low shifted, or full window. Some programs detect [mate in one threats](Mate_at_a_Glance "Mate at a Glance") statically, i.e. as part or byproduct of [king safety](King_Safety "King Safety") in [evaluation](Evaluation "Evaluation"), to extend near or at the [horizon](Horizon_Node "Horizon Node").
 

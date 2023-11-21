@@ -645,7 +645,7 @@ Starting in March 2018, **seven piece** [Syzygy Bases](Syzygy_Bases "Syzygy Base
 [Re: Nalimov EGTB problem related to DTM?](http://www.talkchess.com/forum/viewtopic.php?t=59237&start=7) by [Ronald de Man](Ronald_de_Man "Ronald de Man"), [CCC](CCC "CCC"), February 14, 2016
 
 - [6-men tablebase wanted](http://www.talkchess.com/forum/viewtopic.php?t=59422) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), March 03, 2016
-- [Good testsets for tablebases testing](http://www.talkchess.com/forum/viewtopic.php?t=60169) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), May 15, 2016 » [Test-Positions](Test-Positions "Test-Positions")
+- [Good testsets for tablebases testing](http://www.talkchess.com/forum/viewtopic.php?t=60169) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), May 15, 2016 » [Test-Positions](Test_Positions "Test-Positions")
 
 [EPD to test EGTB probe code](http://www.talkchess.com/forum/viewtopic.php?t=60244) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), May 24, 2016
 

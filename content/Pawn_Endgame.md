@@ -114,7 +114,7 @@ Using the [transposition table](Transposition_Table "Transposition Table") is es
 
 
 * [Pawn endings [blocked pawns](https://www.stmintz.com/ccc/index.php?id=92283)] by [José Antônio Fabiano Mendes](Jos%C3%A9_Ant%C3%B4nio_Fabiano_Mendes "José Antônio Fabiano Mendes"), [CCC](CCC "CCC"), January 26, 2000
-* [Pawn endgame test suite](https://www.stmintz.com/ccc/index.php?id=131885) by [Peter McKenzie](Peter_McKenzie "Peter McKenzie"), [CCC](CCC "CCC"), October 07, 2000 » [Test-Positions](Test-Positions "Test-Positions")
+* [Pawn endgame test suite](https://www.stmintz.com/ccc/index.php?id=131885) by [Peter McKenzie](Peter_McKenzie "Peter McKenzie"), [CCC](CCC "CCC"), October 07, 2000 » [Test-Positions](Test_Positions "Test-Positions")
 * [king and pawns ending](https://www.stmintz.com/ccc/index.php?id=247236) by [Frank Phillips](Frank_Phillips "Frank Phillips"), [CCC](CCC "CCC"), August 23, 2002
 * [Is this rule safe (how has K&Ps vs K&Ps databases? ...)](http://www.talkchess.com/forum/viewtopic.php?t=14578) by [Mark Lefler](Mark_Lefler "Mark Lefler"), [CCC](CCC "CCC"), June 20, 2007 » [KPK](KPK "KPK"), [Now](Now "Now")
 * [king pawn endgames](http://www.talkchess.com/forum/viewtopic.php?t=19304) by [Mike Adams](index.php?title=Mike_Adams&action=edit&redlink=1 "Mike Adams (page does not exist)"), [CCC](CCC "CCC"), January 30, 2008

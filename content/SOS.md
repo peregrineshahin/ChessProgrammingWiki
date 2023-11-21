@@ -47,7 +47,7 @@ SOS is an amateur program which was started in 1993 and has since then competed 
 * [SSDF(Crafty 17.07 - SOS)AMD K6-2 450, 1-5.](https://www.stmintz.com/ccc/index.php?id=125163) by [Tony Hedlund](Tony_Hedlund "Tony Hedlund"), [CCC](CCC "CCC"), August 19, 2000
 * [SOS is amateur WMCC 2000 with 5.5 point out of 9](https://www.stmintz.com/ccc/index.php?id=126539) by Jorge Pichard, [CCC](CCC "CCC"), August 26, 2000
 * [Goliath Light, Gromit, Patzer, SOS, etc. commercially sold](https://www.stmintz.com/ccc/index.php?id=186009) by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm"), [CCC](CCC "CCC"), August 28, 2001
-* [Stalemate trap(SOS-Delfi)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35352) by [George Lyapko](George_Lyapko "George Lyapko"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 18, 2001 » [Stalemate](Stalemate "Stalemate"), [Test-Positions](Test-Positions "Test-Positions"), [Delfi](Delfi "Delfi")
+* [Stalemate trap(SOS-Delfi)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35352) by [George Lyapko](George_Lyapko "George Lyapko"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 18, 2001 » [Stalemate](Stalemate "Stalemate"), [Test-Positions](Test_Positions "Test-Positions"), [Delfi](Delfi "Delfi")
 * [The new UCI / WB GUI Arena is available with UCI Arena SOS ..](https://www.stmintz.com/ccc/index.php?id=208295) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), January 18, 2002
 * [After ELChinito 3.25 on Christmas now SOS.4 on New Years day!](https://www.stmintz.com/ccc/index.php?id=339663) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), January 01, 2004 » [Chinito](Chinito "Chinito")
 

@@ -38,7 +38,7 @@ During the 90s Moritz Berger was computer chess aficionado, tester and expert po
 
 * [News from Paderborn - current standings](https://www.stmintz.com/ccc/index.php?id=15032) by Moritz Berger, [CCC](CCC "CCC"), February 12, 1998 » [IPCCC 1998](IPCCC_1998 "IPCCC 1998")
 * [Survey proposal: Importance of Auto232 compatibility](https://www.stmintz.com/ccc/index.php?id=26251) by Moritz Berger, [CCC](CCC "CCC"), September 09, 1998 » [Auto232](Auto232 "Auto232")
-* [Interesting statement from Ossi Weiner about Nunn test](https://www.stmintz.com/ccc/index.php?id=26903) by Moritz Berger, [CCC](CCC "CCC"), September 17, 1998 » [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), [Nunn openings](Test-Positions#Nunn "Test-Positions")
+* [Interesting statement from Ossi Weiner about Nunn test](https://www.stmintz.com/ccc/index.php?id=26903) by Moritz Berger, [CCC](CCC "CCC"), September 17, 1998 » [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), [Nunn openings](Test_Positions#Nunn "Test-Positions")
 * [Letter of protest](https://www.stmintz.com/ccc/index.php?id=31209) by Moritz Berger, [CCC](CCC "CCC"), October 31, 1998
 * [unsubscribe](https://www.stmintz.com/ccc/index.php?id=31917) by Moritz Berger, [CCC](CCC "CCC"), November 07, 1998
 * [Re: Genius 6 Questions](https://groups.google.com/d/msg/rec.games.chess.computer/wfX8B-GwagU/X3p-vQSOwAoJ) by Moritz Berger, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), February 22, 1999 » [Chess Genius](Chess_Genius "Chess Genius")

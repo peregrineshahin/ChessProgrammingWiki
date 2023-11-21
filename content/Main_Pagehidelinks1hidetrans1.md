@@ -1,5 +1,5 @@
 ---
-title: Main Pagehidelinks1hidetrans1
+title:hidelinks1hidetrans1
 ---
 [Help](/www.mediawiki.org/wiki/Special:MyLanguage/Help:What_links_here)
 

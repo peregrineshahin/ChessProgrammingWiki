@@ -1,5 +1,5 @@
 ---
-title: TalkMain Page
+title: TalkHome
 ---
 [Help](/www.mediawiki.org/wiki/Special:MyLanguage/Help:What_links_here)
 

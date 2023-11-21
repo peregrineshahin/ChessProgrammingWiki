@@ -16,7 +16,7 @@ a New Zealand computer scientist, and software engineer at [Google](index.php?ti
 
 
 * [Bratko-Kopec Test - Node Counts](https://www.stmintz.com/ccc/index.php?id=20796) by Peter McKenzie, [CCC](CCC "CCC"), June 17, 1998 » [Bratko-Kopec Test](Bratko-Kopec_Test "Bratko-Kopec Test"), [Node](Node "Node")
-* [Pawn endgame test suite](https://www.stmintz.com/ccc/index.php?id=131885) by Peter McKenzie, [CCC](CCC "CCC"), October 07, 2000 » [Pawn Endgame](Pawn_Endgame "Pawn Endgame"), [Test-Positions](Test-Positions "Test-Positions")
+* [Pawn endgame test suite](https://www.stmintz.com/ccc/index.php?id=131885) by Peter McKenzie, [CCC](CCC "CCC"), October 07, 2000 » [Pawn Endgame](Pawn_Endgame "Pawn Endgame"), [Test-Positions](Test_Positions "Test-Positions")
 * [kiwipete perft position](https://www.stmintz.com/ccc/index.php?id=274926) by [Russell Reagan](Russell_Reagan "Russell Reagan"), [CCC](CCC "CCC"), January 04, 2003 » [Perft Results - kiwipete](Perft_Results#kiwipete "Perft Results")
 * [Programmers: ETC](https://www.stmintz.com/ccc/index.php?id=284050) by Peter McKenzie, [CCC](CCC "CCC"), February 13, 2003 » [Enhanced Transposition Cutoff](Enhanced_Transposition_Cutoff "Enhanced Transposition Cutoff")
 

@@ -11,7 +11,7 @@ title: Playing Strength
 of a chess player, or chess playing entity, program or engine, reflects the ability to win against other players, given by a number or other element of an [ordered set](https://en.wikipedia.org/wiki/Order_theory) such as an [Elo number](https://en.wikipedia.org/wiki/Elo_rating_system). 
 
 
-The ability to solve [test-positions](Test-Positions "Test-Positions"), that is, finding the specified, likely one and only best move, might be an indicator for various particular engine skills, but does not necessarily correlate with playing strength. In his *[Parallelism and Selectivity in Game Tree Search](Tord_Romstad#Video "Tord Romstad")* lecture, [Tord Romstad](Tord_Romstad "Tord Romstad") introduced the *Worst Moves Observation* (**WMO**), which states the practical playing strength is not primarily determined by the quality of the players best moves nor average moves, but by the quality of the players worst moves. 
+The ability to solve [test-positions](Test_Positions "Test-Positions"), that is, finding the specified, likely one and only best move, might be an indicator for various particular engine skills, but does not necessarily correlate with playing strength. In his *[Parallelism and Selectivity in Game Tree Search](Tord_Romstad#Video "Tord Romstad")* lecture, [Tord Romstad](Tord_Romstad "Tord Romstad") introduced the *Worst Moves Observation* (**WMO**), which states the practical playing strength is not primarily determined by the quality of the players best moves nor average moves, but by the quality of the players worst moves. 
 
 
 
@@ -50,7 +50,7 @@ The strength of a chess program depends on many things, the quality and efficien
 * [Pondering](Pondering "Pondering")
 * [Search Pathology](Search_Pathology "Search Pathology")
 * [Search with Random Leaf Values](Search_with_Random_Leaf_Values "Search with Random Leaf Values")
-* [Test-Positions](Test-Positions "Test-Positions")
+* [Test-Positions](Test_Positions "Test-Positions")
 * [The Technology Curve](Alexander_Szabo#TechnologyCurve "Alexander Szabo")
 * [Time Management](Time_Management "Time Management")
 

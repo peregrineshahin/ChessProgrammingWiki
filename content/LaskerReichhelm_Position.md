@@ -1,7 +1,7 @@
 ---
 title: LaskerReichhelm Position
 ---
-**[Home](Home "Home") \* [Engine Testing](Engine_Testing "Engine Testing") \* [Test-Positions](Test-Positions "Test-Positions") \* Lasker-Reichhelm Position**
+**[Home](Home "Home") \* [Engine Testing](Engine_Testing "Engine Testing") \* [Test-Positions](Test_Positions "Test-Positions") \* Lasker-Reichhelm Position**
 
 
 
@@ -70,7 +70,7 @@ The Lasker-Reichhelm position, elaborated in 1932 by [Vitaly Halberstadt](https:
 Paris-Brussels 1932, German Edition 2001 *[Opposition und Schwesterfelder](http://www.buecher-nach-isbn.info/3-608/3608500359-Opposition-und-Schwesterfelder-Marcel-Duchamp-Vitali-Halberstadt-3-608-50035-9.html)*, ISBN 3-932170-35-0
 4. <a id="cite-ref-4" href="#cite-note-4">↑</a> [Reuben Fine](https://en.wikipedia.org/wiki/Reuben_Fine) (**1941**). *[Basic Chess Endings](https://en.wikipedia.org/wiki/Basic_Chess_Endings)*
 
-**[Up one level](Test-Positions "Test-Positions")**
+**[Up one level](Test_Positions "Test-Positions")**
 
 
 

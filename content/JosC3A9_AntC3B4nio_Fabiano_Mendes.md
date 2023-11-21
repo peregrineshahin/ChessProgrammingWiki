@@ -9,7 +9,7 @@ title: JosC3A9 AntC3B4nio Fabiano Mendes
 a Brazilian mathematician and historian of mathematics with interests in computer science, chess and computer chess. 
 He contributed to [Tim Krabbé's](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9) chess records <a id="cite-note-1" href="#cite-ref-1">[1]</a>, 
 [Edward Winter's](https://en.wikipedia.org/wiki/Edward_Winter_%28chess_historian%29) Chess Seesaw <a id="cite-note-2" href="#cite-ref-2">[2]</a>, 
-and is mentioned on various sites related to puzzles <a id="cite-note-3" href="#cite-ref-3">[3]</a> and mathematics. José was frequent poster in [CCC](CCC "CCC") in the early 2000s with focus on [test-positions](Test-Positions "Test-Positions") and [studies](Chess_Problems,_Compositions_and_Studies "Chess Problems, Compositions and Studies").
+and is mentioned on various sites related to puzzles <a id="cite-note-3" href="#cite-ref-3">[3]</a> and mathematics. José was frequent poster in [CCC](CCC "CCC") in the early 2000s with focus on [test-positions](Test_Positions "Test-Positions") and [studies](Chess_Problems,_Compositions_and_Studies "Chess Problems, Compositions and Studies").
 
 
 

@@ -6,7 +6,7 @@ title: Jouni Uski
 
 **Jouni Uski**,  
 
-a Finnish chess and computer chess aficionado. He is tester, collector of [test-positions](Test-Positions "Test-Positions"), frequent poster in [computer chess forums](Computer_Chess_Forums "Computer Chess Forums"), and long term member in [CCC](CCC "CCC"), 
+a Finnish chess and computer chess aficionado. He is tester, collector of [test-positions](Test_Positions "Test-Positions"), frequent poster in [computer chess forums](Computer_Chess_Forums "Computer Chess Forums"), and long term member in [CCC](CCC "CCC"), 
 with interests in all aspects of [chess engines](Engines "Engines"), [tournaments](Tournaments_and_Matches "Tournaments and Matches") and [mate solving](Checkmate "Checkmate") <a id="cite-note-1" href="#cite-ref-1">[1]</a>. In 1996 he reported on the [Human vs. Computer Match in Finland, 1996](Human_vs._Computer_Match_in_Finland,_1996 "Human vs. Computer Match in Finland, 1996") <a id="cite-note-2" href="#cite-ref-2">[2]</a>.
 
 
@@ -26,7 +26,7 @@ with interests in all aspects of [chess engines](Engines "Engines"), [tournament
 * [Bob, please forget WAC testsuite in Crafty testing!!](https://www.stmintz.com/ccc/index.php?id=29327) by Jouni Uski, [CCC](CCC "CCC"), October 11, 1998 » [Crafty](Crafty "Crafty"), [WAC](Win_at_Chess "Win at Chess")
 
 
- [And here is corrected ECM testsuite (15 wrong positions removed)](https://www.stmintz.com/ccc/index.php?id=29329) by Jouni Uski, [CCC](CCC "CCC"), October 11, 1998 » [Test-Positions](Test-Positions "Test-Positions")
+ [And here is corrected ECM testsuite (15 wrong positions removed)](https://www.stmintz.com/ccc/index.php?id=29329) by Jouni Uski, [CCC](CCC "CCC"), October 11, 1998 » [Test-Positions](Test_Positions "Test-Positions")
 * [24 interesting endgame positions](https://www.stmintz.com/ccc/index.php?id=29328) by Jouni Uski, [CCC](CCC "CCC"), October 12, 1998
 * [Here's the suite](https://www.stmintz.com/ccc/index.php?id=39972) by Jouni Uski, [CCC](CCC "CCC"), January 18, 1999
 * [Correction to Jouni's endgame test](https://www.stmintz.com/ccc/index.php?id=45368) by Jouni Uski, [CCC](CCC "CCC"), March 08, 1999

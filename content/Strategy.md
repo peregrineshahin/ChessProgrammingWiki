@@ -129,7 +129,7 @@ Search strategy refers to [search techniques](Search "Search") and [algorithms](
 * [Chess Strategy from Wikibooks](http://en.wikibooks.org/wiki/Chess_Strategy)
 * [Positional Play : Piece Placement and Chess Strategy](http://www.mark-weeks.com/aboutcom/aa03k01.htm) by [Mark Weeks](Mark_Weeks "Mark Weeks")
 * [Game Theory - The Mathematics of Strategy](http://www.pnas.org/site/misc/classics5.shtml) by [Erica Klarreich](http://www.nasw.org/users/klarreich/)
-* [Strategic Test Suite](https://sites.google.com/site/strategictestsuite/) by [Dann Corbit](Dann_Corbit "Dann Corbit") and [Swaminathan](Swaminathan_Natarajan "Swaminathan Natarajan") » [Test-Positions](Test-Positions "Test-Positions")
+* [Strategic Test Suite](https://sites.google.com/site/strategictestsuite/) by [Dann Corbit](Dann_Corbit "Dann Corbit") and [Swaminathan](Swaminathan_Natarajan "Swaminathan Natarajan") » [Test-Positions](Test_Positions "Test-Positions")
 
 
 ## References

@@ -8,7 +8,7 @@ title: Engine Similarity
 
 a loosely defined relation between (two) chess engines concerning their positional playing style, therefor mostly dependent on their [evaluation](Evaluation "Evaluation") features and weights.
 One approach to assess engine similarity is to [count](https://en.wikipedia.org/wiki/Similarity_measure) how often these engines agree with the same move after a shallow [search](Search "Search")
-over a set of carefully selected, quiet [test positions](Test-Positions "Test-Positions") with apparently several possible best moves - another, in **k-best** mode, how often they propose the same ranking of k moves.
+over a set of carefully selected, quiet [test positions](Test_Positions "Test-Positions") with apparently several possible best moves - another, in **k-best** mode, how often they propose the same ranking of k moves.
 A relative high similarity measure between two engines <a id="cite-note-2" href="#cite-ref-2">[2]</a> could be a symptom of using similar evaluation ideas, features and weights, along with [automated tuning](Automated_Tuning "Automated Tuning") (or trainig), or even code copying aka [cloning](Category:Clone "Category:Clone").
 Similarity testing is intended as first automated "[screening](<https://en.wikipedia.org/wiki/Screening_(medicine)>)" to trigger further investigations in case moves are too similar.
 

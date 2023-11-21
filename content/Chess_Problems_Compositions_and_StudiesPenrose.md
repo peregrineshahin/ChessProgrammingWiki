@@ -25,9 +25,9 @@ A **Chess Problem** or **Composition**, set by a [composer](Category:Chess_Compo
 - [Endgame](Endgame "Endgame")
 - [Endgame Tablebases](Endgame_Tablebases "Endgame Tablebases")
 - [Retrograde Analysis](Retrograde_Analysis "Retrograde Analysis")
-- [Test-Positions](Test-Positions "Test-Positions")
+- [Test-Positions](Test_Positions "Test-Positions")
 
-[Leonid's Positions](Test-Positions#Leonid "Test-Positions")
+[Leonid's Positions](Test_Positions#Leonid "Test-Positions")
 
 - [Zugzwang](Zugzwang "Zugzwang")
 

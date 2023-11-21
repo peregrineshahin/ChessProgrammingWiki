@@ -2,7 +2,7 @@
 title: Capture Extensions
 ---
 
-**[Home](Main_Page "Main Page") \* [Search](Search "Search") \* [Selectivity](Selectivity "Selectivity") \* [Extensions](Extensions "Extensions") \* Capture Extensions**
+**[Home](Home "Home") \* [Search](Search "Search") \* [Selectivity](Selectivity "Selectivity") \* [Extensions](Extensions "Extensions") \* Capture Extensions**
 
 **Capture Extensions** were used early in [brute-force](Brute-Force "Brute-Force") chess programs to minimize some [horizon effects](Horizon_Effect "Horizon Effect"). Due to the self-restricting nature of [captures](Captures "Captures") in Chess (max. 30 pieces may be captured per game), one may consider this a good idea. However, extending every capture was discarded by most programmers, and some constrains or conditions were applied, i.e. to extend only forced [recaptures](Recapture_Extensions "Recapture Extensions") on the same [target square](Target_Square "Target Square").
 

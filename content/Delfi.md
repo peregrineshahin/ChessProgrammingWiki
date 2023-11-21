@@ -120,7 +120,7 @@ b1=Q+ 72.Kh2 Qxg6 73.Qe8 Qf6 74.Qg8+ Rxg8 75.fxg8=Q+ Kxg8 76.d8=Q+ Qxd8 77.Rxd8+
 
 ## 2001 ...
 
-- [Stalemate trap(SOS-Delfi)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35352) by [George Lyapko](George_Lyapko "George Lyapko"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 18, 2001 » [Stalemate](Stalemate "Stalemate"), [Test-Positions](Test-Positions "Test-Positions"), [SOS](SOS "SOS")
+- [Stalemate trap(SOS-Delfi)](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=35352) by [George Lyapko](George_Lyapko "George Lyapko"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), December 18, 2001 » [Stalemate](Stalemate "Stalemate"), [Test-Positions](Test_Positions "Test-Positions"), [SOS](SOS "SOS")
 - [Delfi won the Italian-ch !!](https://www.stmintz.com/ccc/index.php?id=233580) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), June 02, 2002 » [CIPS 2002](CIPS_2002 "CIPS 2002")
 - [Delfi Italian Champion](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=37555) by [Claudio Della Corte](Claudio_Della_Corte "Claudio Della Corte"), [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), June 03, 2002
 - [Delfi won C.I.P.S 2003, Updates in tournament calendar!](https://www.stmintz.com/ccc/index.php?id=303211) by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), [CCC](CCC "CCC"), June 26, 2002 » [CIPS 2003](CIPS_2003 "CIPS 2003")

@@ -29,7 +29,7 @@ a Romanian computer scientist, software engineer, and proponent of [free and ope
 ## 2016
 
 - [king shelter - when and how?](http://www.talkchess.com/forum/viewtopic.php?t=59583) by Alexandru Mosoi, [CCC](CCC "CCC"), March 21, 2016 » [King Safety](King_Safety "King Safety")
-- [king safety: hard positions for zurichess](http://www.talkchess.com/forum/viewtopic.php?t=59647) by Alexandru Mosoi, [CCC](CCC "CCC"), March 27, 2016 » [Test-Positions](Test-Positions "Test-Positions"), [Zurichess](Zurichess "Zurichess")
+- [king safety: hard positions for zurichess](http://www.talkchess.com/forum/viewtopic.php?t=59647) by Alexandru Mosoi, [CCC](CCC "CCC"), March 27, 2016 » [Test-Positions](Test_Positions "Test-Positions"), [Zurichess](Zurichess "Zurichess")
 - [is phase a good indicator of game progress?](http://www.talkchess.com/forum/viewtopic.php?t=60565) by Alexandru Mosoi, June 23, 2016 » [Game Phases](Game_Phases "Game Phases"), [Tapered Eval](Tapered_Eval "Tapered Eval")
 - [New killer idea](http://www.talkchess.com/forum/viewtopic.php?t=61260) by Alexandru Mosoi, [CCC](CCC "CCC"), August 28, 2016 » [Move Ordering](Move_Ordering "Move Ordering"), [Killer Heuristic](Killer_Heuristic "Killer Heuristic")
 - [draw endgame scaling](http://www.talkchess.com/forum/viewtopic.php?t=62380) by Alexandru Mosoi, [CCC](CCC "CCC"), December 04, 2016 » [Draw Evaluation](Draw_Evaluation "Draw Evaluation")

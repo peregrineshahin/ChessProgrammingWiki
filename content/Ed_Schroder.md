@@ -39,7 +39,7 @@ In 2011, Ed Schröder first signed the [open letter](Open_letter_to_the_ICGA_abo
 
 - [REBEL 7 announcement](https://groups.google.com/d/msg/rec.games.chess/drr9JHQKHrA/hkz9kAAqvWIJ) by Ed Schröder, [rgc](Computer_Chess_Forums "Computer Chess Forums"), July 27, 1995
 - [Open letter to ChessBase](https://groups.google.com/d/msg/rec.games.chess.computer/baCTtjjm0cs/m22XLVBDfGUJ) by Ed Schröder, [rgcc](Computer_Chess_Forums "Computer Chess Forums"), January 09, 1997
-- [CCC-I test set](https://www.stmintz.com/ccc/index.php?id=10361) by Ed Schröder, [CCC](CCC "CCC"), October 04, 1997 » [Test-Positions](Test-Positions "Test-Positions")
+- [CCC-I test set](https://www.stmintz.com/ccc/index.php?id=10361) by Ed Schröder, [CCC](CCC "CCC"), October 04, 1997 » [Test-Positions](Test_Positions "Test-Positions")
 - [CCC-II test set](https://www.stmintz.com/ccc/index.php?id=10362) by Ed Schröder, [CCC](CCC "CCC"), October 04, 1997
 - [CCC-III (positional test)](https://www.stmintz.com/ccc/index.php?id=10391) by Ed Schröder, [CCC](CCC "CCC"), October 06, 1997
 - [Hash tables and data-cache, some programmer stuff...](https://www.stmintz.com/ccc/index.php?id=14226) by Ed Schröder, [CCC](CCC "CCC"), January 17, 1998 » [Hash Table](Hash_Table "Hash Table"), [Transposition Table](Transposition_Table "Transposition Table")

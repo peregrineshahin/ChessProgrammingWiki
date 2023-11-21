@@ -155,7 +155,7 @@ To solve the opening problems of his chess machine, [Belle](Belle "Belle"), [Ken
 * [La Dame Blanche](La_Dame_Blanche "La Dame Blanche") (Book Builder)
 * [Opening](Opening "Opening")
 * [Opening Book Authors](Category:Opening_Book_Author "Category:Opening Book Author")
-* [Opening Suites](Test-Positions#OpeningSuites "Test-Positions")
+* [Opening Suites](Test_Positions#OpeningSuites "Test-Positions")
 * [Portable Game Notation](Portable_Game_Notation "Portable Game Notation")
 * [Transposition](Transposition "Transposition")
 
@@ -270,7 +270,7 @@ To solve the opening problems of his chess machine, [Belle](Belle "Belle"), [Ken
 ### 2005 ...
 
 
-* [Nunn openings](https://www.stmintz.com/ccc/index.php?id=460363) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), November 07, 2005 » [Opening Suites](Test-Positions#OpeningSuites "Test-Positions")
+* [Nunn openings](https://www.stmintz.com/ccc/index.php?id=460363) by [Jouni Uski](Jouni_Uski "Jouni Uski"), [CCC](CCC "CCC"), November 07, 2005 » [Opening Suites](Test_Positions#OpeningSuites "Test-Positions")
 * [Nunn2 openings](https://www.stmintz.com/ccc/index.php?id=460364) by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger"), [CCC](CCC "CCC"), November 07, 2005
 * [CTG specification](http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=2319) by [Sesse](Steinar_H._Gunderson "Steinar H. Gunderson"), [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums"), September 30, 2007 » [CTG](CTG "CTG")
 * [Opening books format](http://www.talkchess.com/forum/viewtopic.php?t=20661) by James Constance, [CCC](CCC "CCC"), April 14, 2008

@@ -33,7 +33,7 @@ He was active poster in [CCC](CCC "CCC") until mid 2010, and since then in [Jere
 **2012**
 
 - [ChessBase: A Gross Miscarriage of Justice in Computer Chess](http://www.open-chess.org/viewtopic.php?f=3&t=1771) by kingliveson, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), January 02, 2012 » [Rybka Controversy](Rybka_Controversy "Rybka Controversy")
-- [Zugzwang Collection](http://www.open-chess.org/viewtopic.php?f=5&t=1856) by kingliveson, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), February 14, 2012 » [Test-Positions](Test-Positions "Test-Positions"), [Zugzwang](Zugzwang "Zugzwang")
+- [Zugzwang Collection](http://www.open-chess.org/viewtopic.php?f=5&t=1856) by kingliveson, [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), February 14, 2012 » [Test-Positions](Test_Positions "Test-Positions"), [Zugzwang](Zugzwang "Zugzwang")
 
 ## 2015 ...
 

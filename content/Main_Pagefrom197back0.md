@@ -1,5 +1,5 @@
 ---
-title: Main Pagefrom197back0
+title: from197back0
 ---
 [Help](/www.mediawiki.org/wiki/Special:MyLanguage/Help:What_links_here)
 

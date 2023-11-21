@@ -102,7 +102,7 @@ Zurichess **Neuchâtel** became a stable release in September 2017 <a id="cite-n
 
 * [hacking on zurichess](http://www.talkchess.com/forum/viewtopic.php?t=58826) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi"), [CCC](CCC "CCC"), January 06, 2016
 * [trivia: ELO boost from a better compiler](http://www.talkchess.com/forum/viewtopic.php?t=59600) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi"), [CCC](CCC "CCC"), March 22, 2016 » [Go (Programming Language)](Go_(Programming_Language) "Go (Programming Language)")
-* [king safety: hard positions for zurichess](http://www.talkchess.com/forum/viewtopic.php?t=59647) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi"), [CCC](CCC "CCC"), March 27, 2016 » [King Safety](King_Safety "King Safety"), [Test-Positions](Test-Positions "Test-Positions")
+* [king safety: hard positions for zurichess](http://www.talkchess.com/forum/viewtopic.php?t=59647) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi"), [CCC](CCC "CCC"), March 27, 2016 » [King Safety](King_Safety "King Safety"), [Test-Positions](Test_Positions "Test-Positions")
 * [zurichess glarus released](http://www.talkchess.com/forum/viewtopic.php?t=59885) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi"), [CCC](CCC "CCC"), April 17, 2016
 * [Re: Deep Learning Chess Engine ?](http://www.talkchess.com/forum/viewtopic.php?t=60883&start=1) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi"), [CCC](CCC "CCC"), July 21, 2016
 

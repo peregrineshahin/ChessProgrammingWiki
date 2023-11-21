@@ -143,16 +143,16 @@ There are several classical and new developed test-position suites available as
 
 
 * [F. Donald Bloss](http://what-when-how.com/earth-scientists/bloss-f-donald-earth-scientist/) (**1973**). *[Rate your own Chess](https://www.amazon.de/Rate-Your-Chess-F-Donald-Bloss/dp/0442008295)*. Van Nostrand Reinhold Inc.
-* [Gary L. Ratliff](index.php?title=Gary_L._Ratliff&action=edit&redlink=1 "Gary L. Ratliff (page does not exist)") (**1979**). *Practical Rating Program*. [Personal Computing, Vol. 3, No. 9](Personal_Computing#3_9 "Personal Computing"), pp. 62 » [Bloss](Test-Positions#Bloss "Test-Positions")
-* [Frieder Schwenkel](Frieder_Schwenkel "Frieder Schwenkel") (**1979**). *Berating the ratings system*. [Personal Computing, Vol. 3, No. 11](Personal_Computing#3_11 "Personal Computing"), pp. 77 » [Ratliff](Test-Positions#Ratliff "Test-Positions"), [Bloss](Test-Positions#Bloss "Test-Positions")
-* [John Shaposka](index.php?title=John_Shaposka&action=edit&redlink=1 "John Shaposka (page does not exist)") (**1979**). *"JS" Takes the Bloss Test*. [Personal Computing, Vol. 3, No. 12](Personal_Computing#3_12 "Personal Computing"), pp. 75 » [Ratliff](Test-Positions#Ratliff "Test-Positions"), [Bloss](Test-Positions#Bloss "Test-Positions")
+* [Gary L. Ratliff](index.php?title=Gary_L._Ratliff&action=edit&redlink=1 "Gary L. Ratliff (page does not exist)") (**1979**). *Practical Rating Program*. [Personal Computing, Vol. 3, No. 9](Personal_Computing#3_9 "Personal Computing"), pp. 62 » [Bloss](Test_Positions#Bloss "Test-Positions")
+* [Frieder Schwenkel](Frieder_Schwenkel "Frieder Schwenkel") (**1979**). *Berating the ratings system*. [Personal Computing, Vol. 3, No. 11](Personal_Computing#3_11 "Personal Computing"), pp. 77 » [Ratliff](Test_Positions#Ratliff "Test-Positions"), [Bloss](Test_Positions#Bloss "Test-Positions")
+* [John Shaposka](index.php?title=John_Shaposka&action=edit&redlink=1 "John Shaposka (page does not exist)") (**1979**). *"JS" Takes the Bloss Test*. [Personal Computing, Vol. 3, No. 12](Personal_Computing#3_12 "Personal Computing"), pp. 75 » [Ratliff](Test_Positions#Ratliff "Test-Positions"), [Bloss](Test_Positions#Bloss "Test-Positions")
 * Editor (**1979**). *Chess Ratings from Problem Solving*. [Personal Computing, Vol. 3, No. 12](Personal_Computing#3_12 "Personal Computing"), pp. 77 » [CAPS II](CAPS "CAPS"), [Chess Problems, Compositions and Studies](Chess_Problems,_Compositions_and_Studies "Chess Problems, Compositions and Studies")
 
 
 ### 1980 ...
 
 
-* Floyd R. Kirk (**1980**). *Bloss Flunks Test*. [Personal Computing, Vol. 4, No. 8](Personal_Computing#4_8 "Personal Computing"), pp. 72 » [Ratliff](Test-Positions#Ratliff "Test-Positions"), [Bloss](Test-Positions#Bloss "Test-Positions")
+* Floyd R. Kirk (**1980**). *Bloss Flunks Test*. [Personal Computing, Vol. 4, No. 8](Personal_Computing#4_8 "Personal Computing"), pp. 72 » [Ratliff](Test_Positions#Ratliff "Test-Positions"), [Bloss](Test_Positions#Bloss "Test-Positions")
 * W. W. Foster (**1980**). *Six Test Problems for Chess Playing Machines*. [Personal Computing, Vol. 4, No. 10](Personal_Computing#4_10 "Personal Computing"), pp. 81
 * [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [Danny Kopec](Danny_Kopec "Danny Kopec") (**1982**). *A Test for Comparison of Human and Computer Performance in Chess*. [Advances in Computer Chess 3](Advances_in_Computer_Chess_3 "Advances in Computer Chess 3")
 
@@ -211,7 +211,7 @@ There are several classical and new developed test-position suites available as
 ### 2015 ...
 
 
-* [Noomen selected openings for eng-eng matches](http://www.talkchess.com/forum/viewtopic.php?t=56546) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), May 31, 2015 » [Opening Suites](Test-Positions#OpeningSuites "Test-Positions")
+* [Noomen selected openings for eng-eng matches](http://www.talkchess.com/forum/viewtopic.php?t=56546) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), May 31, 2015 » [Opening Suites](Test_Positions#OpeningSuites "Test-Positions")
 * [Transposition table test positons](http://www.talkchess.com/forum/viewtopic.php?t=57603) by [Robert Pope](Robert_Pope "Robert Pope"), [CCC](CCC "CCC"), September 11, 2015 » [Transposition Table](Transposition_Table "Transposition Table")
 * [Test positions for draw detection](http://www.talkchess.com/forum/viewtopic.php?t=57772) by [Shawn Chidester](Shawn_Chidester "Shawn Chidester"), [CCC](CCC "CCC"), September 27, 2015 » [Draw](Draw "Draw")
 * [Static evaluation test posistions](http://www.talkchess.com/forum/viewtopic.php?t=58359) by [Shawn Chidester](Shawn_Chidester "Shawn Chidester"), [CCC](CCC "CCC"), November 25, 2015
@@ -418,7 +418,7 @@ There are several classical and new developed test-position suites available as
 10. <a id="cite-ref-10" href="#cite-note-10">↑</a> [A new testsuite](http://www.talkchess.com/forum/viewtopic.php?t=52706) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), June 21, 2014
 11. <a id="cite-ref-11" href="#cite-note-11">↑</a> [New testsuite available](http://www.talkchess.com/forum/viewtopic.php?t=54328) by [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen"), [CCC](CCC "CCC"), November 13, 2014
 12. <a id="cite-ref-12" href="#cite-note-12">↑</a> [Noomen selected openings for eng-eng matches](http://www.talkchess.com/forum/viewtopic.php?t=56546) by [Ed Schröder](Ed_Schroder "Ed Schroder"), [CCC](CCC "CCC"), May 31, 2015
-13. <a id="cite-ref-13" href="#cite-note-13">↑</a>  [Interesting statement from Ossi Weiner about Nunn test](https://www.stmintz.com/ccc/index.php?id=26903) by [Moritz Berger](Moritz_Berger "Moritz Berger"), [CCC](CCC "CCC"), September 17, 1998 » [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), [Nunn openings](Test-Positions#Nunn "Test-Positions")
+13. <a id="cite-ref-13" href="#cite-note-13">↑</a>  [Interesting statement from Ossi Weiner about Nunn test](https://www.stmintz.com/ccc/index.php?id=26903) by [Moritz Berger](Moritz_Berger "Moritz Berger"), [CCC](CCC "CCC"), September 17, 1998 » [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), [Nunn openings](Test_Positions#Nunn "Test-Positions")
 14. <a id="cite-ref-14" href="#cite-note-14">↑</a> [Online list of Warren D. Smith's works](http://scorevoting.net/WarrenSmithPages/homepage/works.html)
 15. <a id="cite-ref-15" href="#cite-note-15">↑</a> [1234 Modern End Game Studies - Free eBooks Download](http://www.ebook3000.com/1234-Modern-End-Game-Studies_118820.html)
 16. <a id="cite-ref-16" href="#cite-note-16">↑</a> [Larsen's Selected Games](http://www.chessgames.com/perl/chesscollection?cid=1006129) by [Bent Larsen](https://en.wikipedia.org/wiki/Bent_Larsen)

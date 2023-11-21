@@ -222,7 +222,7 @@ More recently, Uri Blass contributed to the [Stockfish](Stockfish "Stockfish") d
 * [about using winboard](http://www.talkchess.com/forum/viewtopic.php?t=66686) by Uri Blass, [CCC](CCC "CCC"), February 25, 2018 » [WinBoard](WinBoard "WinBoard")
 * [What does LCzero learn?](http://www.talkchess.com/forum/viewtopic.php?t=67013) by Uri Blass, [CCC](CCC "CCC"), April 05, 2018 » [Leela Chess Zero](Leela_Chess_Zero "Leela Chess Zero")
 * [analysis of 1.e4 e5 2.Nf3 f6](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=67790) by Uri Blass, [CCC](CCC "CCC"), June 22, 2018
-* [mate test positions](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68100) by Uri Blass, [CCC](CCC "CCC"), July 29, 2018 » [Checkmate](Checkmate "Checkmate"), [Test-Positions](Test-Positions "Test-Positions")
+* [mate test positions](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68100) by Uri Blass, [CCC](CCC "CCC"), July 29, 2018 » [Checkmate](Checkmate "Checkmate"), [Test-Positions](Test_Positions "Test-Positions")
 * [A mate suite to test multi-pv and new engines](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68146) by Uri Blass, [CCC](CCC "CCC"), August 06, 2018
 * [stockfish increasing returns with low nodes](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68340) by Uri Blass, [CCC](CCC "CCC"), August 31, 2018
 * [evaluation and scaling](http://www.talkchess.com/forum3/viewtopic.php?f=2&t=68469) by Uri Blass, [CCC](CCC "CCC"), September 19, 2018 » [Fortress](Fortress "Fortress")

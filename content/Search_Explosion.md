@@ -13,7 +13,7 @@ A **Search Explosion** or node count explosion refers to a huge [effective branc
 ## Leonid's Positions
 
 
-[Chess positions](Test-Positions#Leonid "Test-Positions") posted by [Leonid Liberman](Leonid_Liberman "Leonid Liberman") in [CCC](CCC "CCC") let many engines "explode" <a id="cite-note-2" href="#cite-ref-2">[2]</a>
+[Chess positions](Test_Positions#Leonid "Test-Positions") posted by [Leonid Liberman](Leonid_Liberman "Leonid Liberman") in [CCC](CCC "CCC") let many engines "explode" <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 
 

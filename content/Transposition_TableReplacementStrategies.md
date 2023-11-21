@@ -598,7 +598,7 @@ Besides storing the best move and scores of the search trees, further [hash tabl
 * [most similar hashes of two positions](http://www.talkchess.com/forum/viewtopic.php?t=57255) by [Alexandru Mosoi](Alexandru_Mosoi "Alexandru Mosoi"), [CCC](CCC "CCC"), August 12, 2015
 * [The cost of transposition table instrumentation](http://www.talkchess.com/forum/viewtopic.php?t=57348) by [Steven Edwards](Steven_Edwards "Steven Edwards"), [CCC](CCC "CCC"), August 23, 2015
 * [atomic TT](http://www.talkchess.com/forum3/viewtopic.php?f=7&t=57634) by lucasart, [CCC](CCC "CCC"), September 13, 2015
-* [Transposition table test positons](http://www.talkchess.com/forum/viewtopic.php?t=57603) by [Robert Pope](Robert_Pope "Robert Pope"), [CCC](CCC "CCC"), September 11, 2015 » [Test-Positions](Test-Positions "Test-Positions")
+* [Transposition table test positons](http://www.talkchess.com/forum/viewtopic.php?t=57603) by [Robert Pope](Robert_Pope "Robert Pope"), [CCC](CCC "CCC"), September 11, 2015 » [Test-Positions](Test_Positions "Test-Positions")
 * [Hash cache](http://www.talkchess.com/forum/viewtopic.php?t=57924) by [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller"), [CCC](CCC "CCC"), October 12, 2015
 * [Perft and hash with legal move generator](http://www.open-chess.org/viewtopic.php?f=5&t=2913) by [Peterpan](index.php?title=Izak_Pretorius&action=edit&redlink=1 "Izak Pretorius (page does not exist)"), [OpenChess Forum](Computer_Chess_Forums "Computer Chess Forums"), November 12, 2015 » [Perft](Perft "Perft")
 * [Transposition table utilizattion](http://www.talkchess.com/forum/viewtopic.php?t=58727) by [Shawn Chidester](Shawn_Chidester "Shawn Chidester"), [CCC](CCC "CCC"), December 29, 2015

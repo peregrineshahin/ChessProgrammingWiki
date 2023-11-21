@@ -242,7 +242,7 @@ Based on that, to distinguish [first-order](https://en.wikipedia.org/wiki/First-
 - [Adding knowledge to the evaluation, what am I doing wrong?](https://www.stmintz.com/ccc/index.php?id=289154) by [Albert Bertilsson](Albert_Bertilsson "Albert Bertilsson"), [CCC](CCC "CCC"), March 13, 2003
 - [testing of evaluation function](https://www.stmintz.com/ccc/index.php?id=293815) by Steven Chu, [CCC](CCC "CCC"), April 17, 2003 » [Engine Testing](Engine_Testing "Engine Testing")
 - [Question about evaluation and branch factor](https://www.stmintz.com/ccc/index.php?id=328924) by [Marcus Prewarski](Marcus_Prewarski "Marcus Prewarski"), [CCC](CCC "CCC"), November 20, 2003  » [Branching Factor](Branching_Factor "Branching Factor")
-- [STATIC EVAL TEST (provisional)](https://www.stmintz.com/ccc/index.php?id=350516) by [Jaime Benito de Valle Ruiz](Jaime_Benito_de_Valle_Ruiz "Jaime Benito de Valle Ruiz"), [CCC](CCC "CCC"), February 21, 2004 » [Test-Positions](Test-Positions "Test-Positions")
+- [STATIC EVAL TEST (provisional)](https://www.stmintz.com/ccc/index.php?id=350516) by [Jaime Benito de Valle Ruiz](Jaime_Benito_de_Valle_Ruiz "Jaime Benito de Valle Ruiz"), [CCC](CCC "CCC"), February 21, 2004 » [Test-Positions](Test_Positions "Test-Positions")
 
 ## 2005 ...
 

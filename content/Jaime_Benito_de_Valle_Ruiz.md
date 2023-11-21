@@ -16,7 +16,7 @@ a Spanish computer chess programmer, and author of the [WinBoard](WinBoard "WinB
 
 
 * [to Tim Foden: zugzwang positions](https://www.stmintz.com/ccc/index.php?id=347777) by Jaime Benito de Valle Ruiz, [CCC](CCC "CCC"), February 07, 2004 » [Zugzwang](Zugzwang "Zugzwang")
-* [STATIC EVAL TEST (provisional)](https://www.stmintz.com/ccc/index.php?id=350516) by Jaime Benito de Valle Ruiz, [CCC](CCC "CCC"), February 21, 2004 » [Evaluation](Evaluation "Evaluation"), [Test-Positions](Test-Positions "Test-Positions")
+* [STATIC EVAL TEST (provisional)](https://www.stmintz.com/ccc/index.php?id=350516) by Jaime Benito de Valle Ruiz, [CCC](CCC "CCC"), February 21, 2004 » [Evaluation](Evaluation "Evaluation"), [Test-Positions](Test_Positions "Test-Positions")
 * [Question about aspiration search](https://www.stmintz.com/ccc/index.php?id=356170) by Jaime Benito de Valle Ruiz, [CCC](CCC "CCC"), March 23, 2004 » [Aspiration Windows](Aspiration_Windows "Aspiration Windows")
 * [Ayito: A new Winboard engine. But this one is unique....](http://www.open-aurec.com/wbforum/viewtopic.php?f=18&t=47508&p=179665) by Jaime Benito de Valle Ruiz, [Winboard Forum](Computer_Chess_Forums "Computer Chess Forums"), May 07, 2004
 * [Ayito: A new Winboard engine. But this one is unique....](https://www.stmintz.com/ccc/index.php?id=363931) by Jaime Benito de Valle Ruiz, [CCC](CCC "CCC"), May 07, 2004

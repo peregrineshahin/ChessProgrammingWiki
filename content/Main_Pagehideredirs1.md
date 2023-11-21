@@ -1,5 +1,5 @@
 ---
-title: Main Pagehideredirs1
+title:hideredirs1
 ---
 [Help](/www.mediawiki.org/wiki/Special:MyLanguage/Help:What_links_here)
 

@@ -51,7 +51,7 @@ Further, Sven Reichard is author of the [Pool](index.php?title=Pool&action=edit&
 ### 2000 ...
 
 
-* [A mate for Leonid](https://www.stmintz.com/ccc/index.php?id=192655) by Sven Reichard, [CCC](CCC "CCC"), October 10, 2001 » [Leonid's Positions](Test-Positions#Leonid "Test-Positions")
+* [A mate for Leonid](https://www.stmintz.com/ccc/index.php?id=192655) by Sven Reichard, [CCC](CCC "CCC"), October 10, 2001 » [Leonid's Positions](Test_Positions#Leonid "Test-Positions")
 * [Re: About random numbers and hashing](https://www.stmintz.com/ccc/index.php?id=200622) by Sven Reichard, [CCC](CCC "CCC"), December 05, 2001
 * [Re: Low weight random matricies](http://www.gap-system.org/ForumArchive/Reichard.1/Sven.1/gap_foru.1/1.html) by Sven Reichard, [GAP Forum](http://www.gap-system.org/Contacts/Forum/forum.html), March 21, 2002
 * [Gestatten: Alice](https://www.stmintz.com/ccc/index.php?id=237077) by Sven Reichard, [CCC](CCC "CCC"), June 23, 2002
