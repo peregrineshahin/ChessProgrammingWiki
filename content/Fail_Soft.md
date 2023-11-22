@@ -1,5 +1,5 @@
 ---
-title: FailSoft
+title: Fail-Soft
 ---
 **[Home](Home "Home") * [Search](Search "Search") * [Alpha-Beta](Alpha-Beta "Alpha-Beta") * Fail-Soft**
 

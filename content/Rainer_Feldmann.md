@@ -8,7 +8,7 @@ title: Rainer Feldmann
  [](http://www.uni-paderborn.de/person/113/) Rainer Feldmann <a id="cite-note-1" href="#cite-ref-1">[1]</a> 
 **Rainer Feldmann**,  
 
-a German computer scientist, games researcher and former chess programmer. He was member of the research group of [Burkhard Monien](Burkhard_Monien "Burkhard Monien") at the [Paderborn University](Paderborn_University "Paderborn University"). Along with [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), Rainer Feldmann co-authored of the massive [parallel](Parallel_Search "Parallel Search") chess program [Zugzwang](Zugzwang_(Program) "Zugzwang (Program)") applying the [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept"), and the single processor program [Alpha I](Alpha_I "Alpha I") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Rainer and Peter were also [tournament organizers](Category:Tournament_Director "Category:Tournament Director") as well as participants and three times winner of the earlier International Paderborn Computer Chess Championships [IPCCC](IPCCC "IPCCC"). Rainer Feldmann holds a Ph.D. on *Game Tree Search on Massively Parallel Systems* <a id="cite-note-3" href="#cite-ref-3">[3]</a> and introduced [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions"), as implemented in Zugzwang <a id="cite-note-4" href="#cite-ref-4">[4]</a> . 
+a German computer scientist, games researcher and former chess programmer. He was member of the research group of [Burkhard Monien](Burkhard_Monien "Burkhard Monien") at the [Paderborn University](Paderborn_University "Paderborn University"). Along with [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz"), Rainer Feldmann co-authored of the massive [parallel](Parallel_Search "Parallel Search") chess program [Zugzwang](Zugzwang_(Program) "Zugzwang (Program)") applying the [Young Brothers Wait Concept](Young_Brothers_Wait_Concept "Young Brothers Wait Concept"), and the single processor program [Alpha I](Alpha_I "Alpha I") <a id="cite-note-2" href="#cite-ref-2">[2]</a> . Rainer and Peter were also [tournament organizers](Category:Tournament_Director "Category:Tournament Director") as well as participants and three times winner of the earlier International Paderborn Computer Chess Championships [IPCCC](IPCCC "IPCCC"). Rainer Feldmann holds a Ph.D. on *Game Tree Search on Massively Parallel Systems* <a id="cite-note-3" href="#cite-ref-3">[3]</a> and introduced [Fail-High Reductions](Fail_High_Reductions "Fail-High Reductions"), as implemented in Zugzwang <a id="cite-note-4" href="#cite-ref-4">[4]</a> . 
 
 
 
@@ -16,7 +16,7 @@ a German computer scientist, games researcher and former chess programmer. He wa
 
 
 * [Alpha I](Alpha_I "Alpha I")
-* [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions")
+* [Fail-High Reductions](Fail_High_Reductions "Fail-High Reductions")
 * [IPCCC](IPCCC "IPCCC")
 * [Parallel Search](Parallel_Search "Parallel Search")
 * [Paderborn University](Paderborn_University "Paderborn University")

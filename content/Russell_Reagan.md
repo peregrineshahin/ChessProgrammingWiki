@@ -27,7 +27,7 @@ and until 2015 active poster in [Computer Chess Forums](Computer_Chess_Forums "C
 * [Testing the reliability of forward pruning](https://www.stmintz.com/ccc/index.php?id=296689) by Russell Reagan, [CCC](CCC "CCC"), May 15, 2003 » [Pruning](Pruning "Pruning"), [Engine Testing](Engine_Testing "Engine Testing")
 * [TSCP with bitboards](https://www.stmintz.com/ccc/index.php?id=298973) by Russell Reagan, [CCC](CCC "CCC"), June 01, 2003 » [TSCP](TSCP "TSCP")
 * [PVS and MTD(f) branching factor](https://www.stmintz.com/ccc/index.php?id=301402) by Russell Reagan, [CCC](CCC "CCC"), June 17, 2003 » [PVS](Principal_Variation_Search "Principal Variation Search"), [MTD(f)](MTD(f) "MTD(f)")
-* [Fail high reductions](https://www.stmintz.com/ccc/index.php?id=304136) by Russell Reagan, [CCC](CCC "CCC"), July 01, 2003 » [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions")
+* [Fail high reductions](https://www.stmintz.com/ccc/index.php?id=304136) by Russell Reagan, [CCC](CCC "CCC"), July 01, 2003 » [Fail-High Reductions](Fail_High_Reductions "Fail-High Reductions")
 * [Fail soft alpha-beta](https://www.stmintz.com/ccc/index.php?id=314585) by Russell Reagan, [CCC](CCC "CCC"), September 08, 2003 » [Fail-Soft](Fail-Soft "Fail-Soft")
 
 

@@ -32,7 +32,7 @@ A [Trébuchet](https://en.wikipedia.org/wiki/Zugzwang#Tr.C3.A9buchet) is an extr
 * [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
 * [Null Move Reductions](Null_Move_Reductions "Null Move Reductions")
 * [Null Move Test-Positions](Null_Move_Test-Positions "Null Move Test-Positions"), where Null Move may fail due to Zugzwang
-* [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions")
+* [Fail-High Reductions](Fail_High_Reductions "Fail-High Reductions")
 * [Triangulation](Triangulation "Triangulation")
 * [Zugzwang (Program)](Zugzwang_(Program) "Zugzwang (Program)")
 

@@ -11,7 +11,7 @@ A **null move** or passing move is invalid in Chess. Nevertheless, chess program
 
 * [Botvinnik-Markoff Extension](Botvinnik-Markoff_Extension "Botvinnik-Markoff Extension")
 * [Double Null Move](Double_Null_Move "Double Null Move")
-* [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions")
+* [Fail-High Reductions](Fail_High_Reductions "Fail-High Reductions")
 * [Mate Threat Extensions](Mate_Threat_Extensions "Mate Threat Extensions")
 * [Null Move Observation](Null_Move_Observation "Null Move Observation")
 * [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")

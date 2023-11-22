@@ -5,7 +5,7 @@ title: Null Move Reductions
 **[Home](Home "Home") \* [Search](Search "Search") \* [Selectivity](Selectivity "Selectivity") \* [Reductions](Reductions "Reductions") \* Null Move Reductions**
 
 **Null Move Reductions**,  
-not to confused with the widespread [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"), work similar to [Feldmann's](Rainer_Feldmann "Rainer Feldmann") [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions"), but use a [Null Move](Null_Move "Null Move") Search rather than static [evaluation](Evaluation "Evaluation") and reduces by a amount of **four** plies rather than one. [Eli David](Eli_David "Eli David") and [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") introduced so called **Extended Null-Move Reductions** <a id="cite-note-1" href="#cite-ref-1">[1]</a> with an adaptive [R](Depth_Reduction_R "Depth Reduction R") based on [depth](Depth "Depth").
+not to confused with the widespread [Null Move Pruning](Null_Move_Pruning "Null Move Pruning"), work similar to [Feldmann's](Rainer_Feldmann "Rainer Feldmann") [Fail-High Reductions](Fail_High_Reductions "Fail-High Reductions"), but use a [Null Move](Null_Move "Null Move") Search rather than static [evaluation](Evaluation "Evaluation") and reduces by a amount of **four** plies rather than one. [Eli David](Eli_David "Eli David") and [Nathan S. Netanyahu](Nathan_S._Netanyahu "Nathan S. Netanyahu") introduced so called **Extended Null-Move Reductions** <a id="cite-note-1" href="#cite-ref-1">[1]</a> with an adaptive [R](Depth_Reduction_R "Depth Reduction R") based on [depth](Depth "Depth").
 
 ## How it works
 
@@ -31,7 +31,7 @@ _For zwSearch, see [Zero Window Search](Principal_Variation_Search#ZWS "Principa
 ## See also
 
 - [Double Null Move](Double_Null_Move "Double Null Move")
-- [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions")
+- [Fail-High Reductions](Fail_High_Reductions "Fail-High Reductions")
 - [Null Move Observation](Null_Move_Observation "Null Move Observation")
 - [Null Move Pruning](Null_Move_Pruning "Null Move Pruning")
 - [Standing Pat](Quiescence_Search#StandPat "Quiescence Search") in [Quiescence Search](Quiescence_Search "Quiescence Search")

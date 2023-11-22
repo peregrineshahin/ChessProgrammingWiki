@@ -117,7 +117,7 @@ Please enter the words in an alphabetical order.
 - [FAN](Algebraic_Chess_Notation#FAN "Algebraic Chess Notation") - Figurine Algebraic Notation
 - [FEN](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") - [Forsyth](David_Forsyth "David Forsyth")-[Edwards](Steven_Edwards "Steven Edwards") Notation
 - [Fifty-move rule](Fifty-move_Rule "Fifty-move Rule")
-- [FHR](Fail-High_Reductions "Fail-High Reductions") - Fail-High Reductions
+- [FHR](Fail_High_Reductions "Fail-High Reductions") - Fail-High Reductions
 - [Fianchetto](Fianchetto "Fianchetto")
 - [Files](Files "Files")
 - [FRC](Chess960 "Chess960") - Fischer Random Chess, also known as Chess960

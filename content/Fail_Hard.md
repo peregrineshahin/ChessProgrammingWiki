@@ -1,7 +1,8 @@
 ---
-title: FailHard
+title: Fail-Hard
 ---
-**[Home](Home "Home") * [Search](Search "Search") * [Alpha-Beta](Alpha-Beta "Alpha-Beta") * Fail-Hard**
+
+**[Home](Home "Home") _ [Search](Search "Search") _ [Alpha-Beta](Alpha-Beta "Alpha-Beta") \* Fail-Hard**
 
 **Fail-Hard** is a term related to an [Alpha-Beta](Alpha-Beta "Alpha-Beta") like [search](Search "Search"), to make [Alpha](Alpha "Alpha") and [Beta](Beta "Beta") **hard** [bounds](Bound "Bound") of the returned value of the search. Even [terminal nodes](Terminal_Node "Terminal Node") which indicate draw or mate scores are supposed to be adjusted on the hard alpha-beta bounds.
 
@@ -9,7 +10,6 @@ title: FailHard
 
 ```C++
 [Alpha](Alpha "Alpha") <= [Score](Score "Score") <= [Beta](Beta "Beta")
-
 ```
 
 ## See also
@@ -21,22 +21,22 @@ title: FailHard
 
 ## Forum Posts
 
-## 2000 ...
+### 2000 ...
 
 - [Fail-soft or Fail-hard ?](https://www.stmintz.com/ccc/index.php?id=136488) by [Teerapong Tovirat](Teerapong_Tovirat "Teerapong Tovirat"), [CCC](CCC "CCC"), November 04, 2000 » [Fail-Soft](Fail-Soft "Fail-Soft")
 - [Fail-hard, fail-soft question](https://www.stmintz.com/ccc/index.php?id=363710) by [Dan Honeycutt](Dan_Honeycutt "Dan Honeycutt"), [CCC](CCC "CCC"), May 06, 2004
 
-## 2005 ...
+### 2005 ...
 
 - [fail soft vs fail hard](http://www.talkchess.com/forum/viewtopic.php?t=24954) by [cyberfish](Matthew_Lai "Matthew Lai"), [CCC](CCC "CCC"), November 19, 2008
 - [Return eval or upper bound?](http://www.talkchess.com/forum/viewtopic.php?t=30333) by [John Merlino](John_Merlino "John Merlino"), [CCC](CCC "CCC"), October 26, 2009
 
-## 2010 ...
+### 2010 ...
 
 - [First post (and FailHigh question!)](http://www.talkchess.com/forum/viewtopic.php?t=48274) by [Natale Galioto](index.php?title=Natale_Galioto&action=edit&redlink=1 "Natale Galioto (page does not exist)"), [CCC](CCC "CCC"), June 14, 2013 » [Fail-High](Fail-High "Fail-High"), [Fail-Soft](Fail-Soft "Fail-Soft")
 - [Fail soft vs fail hard](http://www.talkchess.com/forum/viewtopic.php?t=51284) by [Sergei S. Markoff](Sergei_Markoff "Sergei Markoff"), [CCC](CCC "CCC"), February 15, 2014 » [Fail-Soft](Fail-Soft "Fail-Soft"), [Fail-Low](Fail-Low "Fail-Low"), [Internal Iterative Deepening](Internal_Iterative_Deepening "Internal Iterative Deepening")
 
-## 2020 ...
+### 2020 ...
 
 - [Fail hard/soft](https://www.talkchess.com/forum3/viewtopic.php?f=7&t=79223) by Philippe Chevalier, [CCC](CCC "CCC"), January 28, 2022
 
@@ -46,4 +46,3 @@ title: FailHard
 - [Lecture notes for February 2, 1999 Variants of Alpha-Beta Search](https://www.ics.uci.edu/~eppstein/180a/990202b.html) by [David Eppstein](David_Eppstein "David Eppstein")
 
 **[Up one Level](Alpha-Beta "Alpha-Beta")**
-

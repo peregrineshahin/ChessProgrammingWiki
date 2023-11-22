@@ -14,7 +14,7 @@ Anastasios is author of the computer chess engines [AICE](AICE "AICE"), which ha
 - [Rebel's long checks concept in QS](https://www.stmintz.com/ccc/index.php?id=344282) by milix, [CCC](CCC "CCC"), January 23, 2004 » [Rebel](Rebel "Rebel"), [Check](Check "Check"), [Quiescence Search](Quiescence_Search "Quiescence Search")
 - [PopCount optimization](https://www.stmintz.com/ccc/index.php?id=353997) by milix, [CCC](CCC "CCC"), March 11, 2004 » [Population Count](Population_Count "Population Count")
 - [bugs, Bugs and BUGS!](https://www.stmintz.com/ccc/index.php?id=367469) by milix, [CCC](CCC "CCC"), May 27, 2004
-- [Fail High Reductions - question about researches](https://www.stmintz.com/ccc/index.php?id=395592) by milix, [CCC](CCC "CCC"), November 11, 2004 » [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions")
+- [Fail High Reductions - question about researches](https://www.stmintz.com/ccc/index.php?id=395592) by milix, [CCC](CCC "CCC"), November 11, 2004 » [Fail-High Reductions](Fail_High_Reductions "Fail-High Reductions")
 
 ## External Links
 

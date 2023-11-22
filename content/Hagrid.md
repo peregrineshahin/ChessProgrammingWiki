@@ -19,7 +19,7 @@ Hagrid is a [bitboard](Bitboards "Bitboards") engine and performs [Rotated Bitbo
 - [Alpha-Beta](Alpha-Beta "Alpha-Beta") [PVS](Principal_Variation_Search "Principal Variation Search")
 - [Transposition Table](Transposition_Table "Transposition Table")
 - [Selectivity](Selectivity "Selectivity")
-  - [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions")
+  - [Fail-High Reductions](Fail_High_Reductions "Fail-High Reductions")
   - [Null Move Pruning](Null_Move_Pruning "Null Move Pruning") (R=2)
   - [Quiescence Search](Quiescence_Search "Quiescence Search")
   - [Futility Pruning](Futility_Pruning "Futility Pruning")

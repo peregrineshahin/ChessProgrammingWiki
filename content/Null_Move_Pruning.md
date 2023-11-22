@@ -204,7 +204,7 @@ Most of the time, null move is refuted by a [capture](Captures "Captures"). Ther
 
 * [Enhanced Forward Pruning](Enhanced_Forward_Pruning "Enhanced Forward Pruning")
 * [Extensions](Extensions "Extensions")
-* [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions")
+* [Fail-High Reductions](Fail_High_Reductions "Fail-High Reductions")
 * [Knowledge | Search versus Evaluation](Knowledge#SearchVersusEvaluation "Knowledge")
 * [Multi-Cut](Multi-Cut "Multi-Cut")
 * [Null Move Observation](Null_Move_Observation "Null Move Observation")

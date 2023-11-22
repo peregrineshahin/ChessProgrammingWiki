@@ -30,7 +30,7 @@ title: Selectivity
 
 
 * [Internal Iterative Reductions](Internal_Iterative_Reductions)
-* [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions") - FHR
+* [Fail-High Reductions](Fail_High_Reductions "Fail-High Reductions") - FHR
 * [Late Move Reductions](Late_Move_Reductions "Late Move Reductions") - LMR
 * [Null Move Reductions](Null_Move_Reductions "Null Move Reductions")
 * [RankCut](RankCut "RankCut")

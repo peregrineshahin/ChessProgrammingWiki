@@ -1,7 +1,8 @@
 ---
-title: FailHigh
+title: Fail-High
 ---
-**[Home](Home "Home") * [Search](Search "Search") * [Alpha-Beta](Alpha-Beta "Alpha-Beta") * Fail-High**
+
+**[Home](Home "Home") _ [Search](Search "Search") _ [Alpha-Beta](Alpha-Beta "Alpha-Beta") \* Fail-High**
 
 \[ [Paul Klee](Category:Paul_Klee "Category:Paul Klee") - Red Balloon, 1922 <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 There are two related semantics, if talking of a **Fail-High** - inside the [search tree](Search_Tree "Search Tree") or if using [aspiration windows](Aspiration_Windows "Aspiration Windows") at the [root](Root "Root").
@@ -13,7 +14,7 @@ A **Fail-High** is associated with a [Beta-Cutoff](Beta-Cutoff "Beta-Cutoff") in
 Quote by [Bruce Moreland](Bruce_Moreland "Bruce Moreland") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
 ```C++
-A fail-high indicates that the search found something that was "too good".  What this means is that the opponent has some way, already found by the search, of avoiding this position, so you have to assume that they'll do this. If they can avoid this position, there is no longer any need to search successors, since this position won't happen. 
+A fail-high indicates that the search found something that was "too good".  What this means is that the opponent has some way, already found by the search, of avoiding this position, so you have to assume that they'll do this. If they can avoid this position, there is no longer any need to search successors, since this position won't happen.
 
 ```
 
@@ -24,14 +25,14 @@ Another meaning of a **Fail-High**, is associated with [Aspiration Windows](Aspi
 Quote by Bruce again:
 
 ```C++
-You can also talk about failing high and failing low from the root position, if you use an aspiration window. 
+You can also talk about failing high and failing low from the root position, if you use an aspiration window.
 
 ```
 
 ## See also
 
 - [Fail-Hard](Fail-Hard "Fail-Hard")
-- [Fail-High Reductions](Fail-High_Reductions "Fail-High Reductions")
+- [Fail-High Reductions](Fail_High_Reductions "Fail-High Reductions")
 - [Fail-Low](Fail-Low "Fail-Low")
 - [Fail-Soft](Fail-Soft "Fail-Soft")
 - [Upper Bound](Upper_Bound "Upper Bound")
@@ -89,4 +90,3 @@ You can also talk about failing high and failing low from the root position, if 
 1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Programming - Glossary - Fail Low, Fail High](http://web.archive.org/web/20040512194831/brucemo.com/compchess/programming/glossary.htm#fail-high) from [Bruce Moreland's](Bruce_Moreland "Bruce Moreland") [Programming Topics Site](http://web.archive.org/web/20040403211728/brucemo.com/compchess/programming/index.htm)
 
 **[Up one Level](Alpha-Beta "Alpha-Beta")**
-
