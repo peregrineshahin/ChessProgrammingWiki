@@ -20,6 +20,11 @@ details .h4 {
   margin: 0;
 }
 
+.wikitable-wrapper {
+  overflow-x: auto;
+  font-size: 15px;
+}
+
 summary {
   display: flex;
   align-items: center;
