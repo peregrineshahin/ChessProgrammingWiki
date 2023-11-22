@@ -18,7 +18,7 @@ Obviously, Perft(1) of the [initial position](Initial_Position) is 20, Perft(2) 
 rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 
 ```
-
+<div class="wikitable-wrapper">
 <table class="wikitable">
 <tbody><tr>
 <th> Depth
@@ -281,6 +281,7 @@ rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 </td>
 <td style="text-align:right;"> 2,015,099,950,053,364,471,960 <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 </td></tr></tbody></table>
+</div>
 
 ### Perft 10
 
@@ -318,9 +319,8 @@ also known as **Kiwipete** by [Peter McKenzie](Peter_McKenzie "Peter McKenzie") 
 ```
 r3k2r/p1ppqpb1/bn2pnp1/3PN3/1p2P3/2N2Q1p/PPPBBPPP/R3K2R w KQkq -
 ```
-
+<div class="wikitable-wrapper">
 <table class="wikitable">
-
 <tbody><tr>
 <th> Depth
 </th>
@@ -467,7 +467,10 @@ r3k2r/p1ppqpb1/bn2pnp1/3PN3/1p2P3/2N2Q1p/PPPBBPPP/R3K2R w KQkq -
 <td style="text-align:right;"> 54948
 </td>
 <td style="text-align:right;"> 360003
-</td></tr></tbody></table>
+</td></tr>
+</tbody>
+</table>
+</div>
 
 ## Position 3
 
@@ -480,6 +483,7 @@ r3k2r/p1ppqpb1/bn2pnp1/3PN3/1p2P3/2N2Q1p/PPPBBPPP/R3K2R w KQkq -
 
 ```
 
+<div class="wikitable-wrapper">
 <table class="wikitable">
 
 <tbody><tr>
@@ -671,6 +675,7 @@ r3k2r/p1ppqpb1/bn2pnp1/3PN3/1p2P3/2N2Q1p/PPPBBPPP/R3K2R w KQkq -
 </td>
 <td style="text-align:right;"> 450410
 </td></tr></tbody></table>
+</div>
 
 ## Position 4
 
@@ -693,7 +698,7 @@ Or mirrored (with the same perft results):
 r2q1rk1/pP1p2pp/Q4n2/bbp1p3/Np6/1B3NBn/pPPP1PPP/R3K2R b KQ - 0 1
 
 ```
-
+<div class="wikitable-wrapper">
 <table class="wikitable">
 
 <tbody><tr>
@@ -815,6 +820,7 @@ r2q1rk1/pP1p2pp/Q4n2/bbp1p3/Np6/1B3NBn/pPPP1PPP/R3K2R b KQ - 0 1
 </td>
 <td style="text-align:right;"> 81076
 </td></tr></tbody></table>
+</div>
 
 ## Position 5
 
@@ -828,7 +834,7 @@ This position was discussed on [Talkchess](CCC "CCC") <a id="cite-note-10" href=
 rnbq1k1r/pp1Pbppp/2p5/8/2B5/8/PPP1NnPP/RNBQK2R w KQ - 1 8
 
 ```
-
+<div class="wikitable-wrapper">
 <table class="wikitable">
 
 <tbody><tr>
@@ -861,6 +867,7 @@ rnbq1k1r/pp1Pbppp/2p5/8/2B5/8/PPP1NnPP/RNBQK2R w KQ - 1 8
 </td>
 <td style="text-align:right;"> 89,941,194
 </td></tr></tbody></table>
+</div>
 
 ## Position 6
 
@@ -874,9 +881,8 @@ An alternative Perft given by [Steven Edwards](Steven_Edwards "Steven Edwards") 
 r4rk1/1pp1qppp/p1np1n2/2b1p1B1/2B1P1b1/P1NP1N2/1PP1QPPP/R4RK1 w - - 0 10
 
 ```
-
+<div class="wikitable-wrapper">
 <table class="wikitable">
-
 <tbody><tr>
 <th> Depth
 </th>
@@ -932,6 +938,7 @@ r4rk1/1pp1qppp/p1np1n2/2b1p1B1/2B1P1b1/P1NP1N2/1PP1QPPP/R4RK1 w - - 0 10
 </td>
 <td style="text-align:right;"> 490,154,852,788,714
 </td></tr></tbody></table>
+</div>
 
 ## See also
 
