@@ -72,16 +72,11 @@ The code of each block is shared, ply-indexing appropriate data structures of th
 One memory line of the Mark 1 [Williams-Kilburn tube](https://en.wikipedia.org/wiki/Williams_tube) main [memory](Memory "Memory") had 20 [bits](Bit "Bit"), one tube 64 lines. 20 bit instructions had an address and an operator part, indexing an array of consecutive lines was done by modifying the address part of the instruction. Most Mark 1 instructions with line operand and implicit accumulator, such as 'add', 'sub', 'xor', 'and', 'or', and 'store' took about 1 ms. As reported by Prinz, the following mate-in-two position took about 15 minutes to solve with his program:
 
 
+<img src="https://lichess1.org/export/fen.gif?fen=5Kbk/6pp/6P1/8/8/8/8/7R w - -" style="
+    width: 300px;
+">
 
- 
-
-|  |
-| --- |
-|                                                                                               ♔♝♚      ♟♟      ♙                                        ♖ |
-
-
-
-```C++
+```
 5Kbk/6pp/6P1/8/8/8/8/7R w - -
 
 ```

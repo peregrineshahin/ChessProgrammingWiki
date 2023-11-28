@@ -9,11 +9,14 @@ title: Hanging Pawns
 
 ## The Hanging Pawns formation
 
-|  |
-| --- |
-|                                                                                             ♟♟   ♟♟♟    ♟             ♙♙            ♙    ♙♙♙         |
+<img src="https://lichess1.org/export/fen.gif?fen=8/pp3ppp/4p3/8/2PP4/8/P4PPP/8 w - -" style="
+    width: 300px;
+">
 
+```
 8/pp3ppp/4p3/8/2PP4/8/P4PPP/8 w - -
+
+```
 
 Most of the programs do not have a special evaluation of hanging pawns, relying on search to decide if they are an asset or a liability in a given position.
 

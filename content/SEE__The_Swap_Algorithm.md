@@ -63,16 +63,11 @@ Two positions with traces of the swap-list during traversal and negamaxing with 
 To demonstrate how SEE works in obvious cases, is Rook takes Pawn a winning capture?
 
 
+<img src="https://lichess1.org/export/fen.gif?fen=1k1r4/1pp4p/p7/4p3/8/P5P1/1PP4P/2K1R3 w - - ; Rxe5?" style="
+    width: 300px;
+">
 
-
-
-|  |
-| --- |
-|                                                                                    ♚ ♜     ♟♟    ♟♟           ♟           ♙     ♙  ♙♙    ♙  ♔ ♖    |
-
-
-
-```C++
+```
 1k1r4/1pp4p/p7/4p3/8/P5P1/1PP4P/2K1R3 w - - ; Rxe5?
 
 ```
@@ -93,16 +88,12 @@ no further attacks for black at depth 1
 This position covers a more complicated case with X-rays. Is Knight takes pawn a winning capture?
 
 
+<img src="https://lichess1.org/export/fen.gif?fen=1k1r3q/1ppn3p/p4b2/4p3/8/P2N2P1/1PP1R1BP/2K1Q3 w - - ; Nxe5?" style="
+    width: 300px;
+">
 
 
-
-|  |
-| --- |
-|                                                                              ♚ ♜   ♛ ♟♟♞   ♟♟    ♝      ♟           ♙  ♘  ♙  ♙♙ ♖ ♗♙  ♔ ♕    |
-
-
-
-```C++
+```
 1k1r3q/1ppn3p/p4b2/4p3/8/P2N2P1/1PP1R1BP/2K1Q3 w - - ; Nxe5?
 
 ```

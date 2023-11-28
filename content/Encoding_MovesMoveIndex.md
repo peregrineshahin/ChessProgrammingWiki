@@ -174,23 +174,24 @@ It might be interesting to determine whether a move gives [check](Check "Check")
 
 If the [generated moves](Move_Generation "Move Generation") inside a [move list](Move_List "Move List") are [deterministic](https://en.wikipedia.org/wiki/Determinism), one may encode moves as relative list index. Since the maximum number of moves per positions seems 218 <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> , one [byte](Byte "Byte") is enough to index the move. This encoding was used in early game databases.
 
-|  Two Positions with 218 Moves each
-| [A. Dickins](http://commons.wikimedia.org/wiki/File:DickinsAnthony.jpg) (1968) <a id="cite-note-4" href="#cite-ref-4">[4]</a> |
-| --- | --- |
-|
+Two Positions with 218 Moves each
+[A. Dickins](http://commons.wikimedia.org/wiki/File:DickinsAnthony.jpg) (1968) <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
-|  |
-| --- |
-|                                                                              ♖      ♖   ♕     ♕    ♕     ♕     ♕    ♕♕    ♕  ♟♟ ♕    ♚♗♘♘ ♔♗  |
+<img src="https://lichess1.org/export/fen.gif?fen=R6R/3Q4/1Q4Q1/4Q3/2Q4Q/Q4Q2/pp1Q4/kBNN1KB1 w - - 0 1" style="
+    width: 300px;
+">
 
-|
+```
+R6R/3Q4/1Q4Q1/4Q3/2Q4Q/Q4Q2/pp1Q4/kBNN1KB1 w - - 0 1
+```
 
-|  |
-| --- |
-|                                                                                  ♕     ♕    ♕     ♕     ♕    ♖♕    ♕     ♕     ♕    ♖♟ ♔ ♗♗♘♘♚ |
+<img src="https://lichess1.org/export/fen.gif?fen=3Q4/1Q4Q1/4Q3/2Q4R/Q4Q2/3Q4/1Q4Rp/1K1BBNNk w - - 0 1" style="
+    width: 300px;
+">
 
-|
-| R6R/3Q4/1Q4Q1/4Q3/2Q4Q/Q4Q2/pp1Q4/kBNN1KB1 w - - 0 1 | 3Q4/1Q4Q1/4Q3/2Q4R/Q4Q2/3Q4/1Q4Rp/1K1BBNNk w - - 0 1 |
+```
+3Q4/1Q4Q1/4Q3/2Q4R/Q4Q2/3Q4/1Q4Rp/1K1BBNNk w - - 0 1
+```
 
 This method can be refined if variable-length encoding is allowed. This is especially useful for long sequences of moves. If the number of legal moves from the position is equal to `n` then only `ceil(log2(n))` bits need to be used to encode the move (note: positions without a move available require special handling; position with one move available need 0 bits, so they may need some more information to encode whether a move was made or the game terminated prior to it, depending on use-case). Empirical data based on a sample of human games shows that each move when encoded with this scheme takes approximately 5.11 bits, that is about 63.8% of the original size (1 byte per move).
 

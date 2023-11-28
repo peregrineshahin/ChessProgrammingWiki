@@ -15,16 +15,13 @@ a French chess player and official, computer chess expert, writer and journalist
 
 Emil Nikolic vs [Bobby Fischer](https://en.wikipedia.org/wiki/Bobby_Fischer), 1968, 19... Bg4! <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
+<img src="https://lichess1.org/export/fen.gif?fen=r3r1k1/pp1q1p2/2p2npb/PPPp1bnp/3PpN2/2N1P1PP/1R1B1PBK/3Q1R2 b - - 0 19" style="
+    width: 300px;
+">
 
-
-
-
-|  |
-| --- |
-|                                                                 ♜   ♜ ♚ ♟♟ ♛ ♟    ♟  ♞♟♝♙♙♙♟ ♝♞♟   ♙♟♘    ♘ ♙ ♙♙ ♖ ♗ ♙♗♔   ♕ ♖   |
-
-
+```
 r3r1k1/pp1q1p2/2p2npb/PPPp1bnp/3PpN2/2N1P1PP/1R1B1PBK/3Q1R2 b - - 0 19
+```
 
 
 
@@ -34,20 +31,15 @@ r3r1k1/pp1q1p2/2p2npb/PPPp1bnp/3PpN2/2N1P1PP/1R1B1PBK/3Q1R2 b - - 0 19
 Yuri S. Gusev vs E. Auerbach (1946) 24.Qxe5! <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
+<img src="https://lichess1.org/export/fen.gif?fen=4q1kr/p6p/1prQPppB/4n3/4P3/2P5/PP2B2P/R5K1 w - - 1 24" style="
+    width: 300px;
+">
 
-
-
-|  |
-| --- |
-|                                                                                ♛ ♚♜♟      ♟ ♟♜♕♙♟♟♗    ♞       ♙     ♙     ♙♙  ♗  ♙♖     ♔  |
-
-
+```
 4q1kr/p6p/1prQPppB/4n3/4P3/2P5/PP2B2P/R5K1 w - - 1 24
-
-
+```
 
 ## Selected Publications
-
 
 * Pierre Nolot (**1986**). *Echecs: Les Progès des Programmes*. [Jeux et Stratégie](http://fr.wikipedia.org/wiki/Jeux_et_Strat%C3%A9gie), [jpg1](http://home.scarlet.be/vincentlejeune/jeux-et-strategie-040-1986-08-09-page006.jpg), [jpg2](http://home.scarlet.be/vincentlejeune/jeux-et-strategie-040-1986-08-09-page007.jpg) <a id="cite-note-10" href="#cite-ref-10">[10]</a> » [WCCC 1986](WCCC_1986 "WCCC 1986")
 * Pierre Nolot (**1989**). *Pays-Bas contre Ordinateurs: 8,5-3,5*. [Jeux et Stratégie](http://fr.wikipedia.org/wiki/Jeux_et_Strat%C3%A9gie), N°59, June 1989, [jpg1](http://download.abandonware.org/magazines/Jeux%20et%20Strategie/jeuxetstrategie_numero059/Jeux%20%26%20Strat%E9gie%2059%20-%20Page%20024.jpg), [jpg2](http://download.abandonware.org/magazines/Jeux%20et%20Strategie/jeuxetstrategie_numero059/Jeux%20%26%20Strat%E9gie%2059%20-%20Page%20025.jpg) » [Netherlands-vs-Computers-1989](Netherlands-vs-Computers-1989 "Netherlands-vs-Computers-1989")

@@ -31,41 +31,11 @@ MATER is written by George Baylor and Simon in FORTRAN. It is able to search to 
 
 ## Mater I
 
-
-
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| 
-
-|  |
-| --- |
-|                                                                         ♜ ♝♚  ♞♜♟  ♟ ♟♘♟♞  ♗     ♟ ♘♙  ♙      ♙    ♙ ♕  ♙ ♙ ♔   ♛     ♝  |
-
- |  |  Only check giving moves were generated in **Mater I** for the attacking side and check evasions for the defending side, for each [ply](Ply "Ply") level put into a [try-list](Move_List "Move List"). For the attacker, the list is ordered by the fewest-reply heuristic, highest priority goes to moves with the fewest number of legal replies, while checking moves with more than **four** legal replies are pruned entirely. Ties are broken by giving priority to [double checks](Double_Check "Double Check") and then to checks with no [capturing](Captures "Captures") replies. Search only continues down a particular path so long as the opponent's mobility is on the decline, which implies a maximum [search depth](Depth "Depth") of 9 [plies](Ply "Ply"). The defender's side considers captures in [MVV/LVA](MVV-LVA "MVV-LVA") order first, followed by king moves and interpositions. In *A chess mating combinations program*, the [beta-cutoff](Beta-Cutoff "Beta-Cutoff") was mentioned as "killing reply" <a id="cite-note-8" href="#cite-ref-8">[8]</a>, also with a footnote <a id="cite-note-9" href="#cite-ref-9">[9]</a> on [McCarthy.'s](John_McCarthy "John McCarthy") [killer heuristic](Killer_Heuristic "Killer Heuristic") referring [Alan Kotok's](Alan_Kotok "Alan Kotok") 1962 paper <a id="cite-note-10" href="#cite-ref-10">[10]</a>, covering [alpha-beta](Alpha-Beta "Alpha-Beta"). [Reuben Fine's](https://en.wikipedia.org/wiki/Reuben_Fine) position from *The Middlegame in Chess* served as one example of Mater's ability <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>.
- |
-
-
-
-
-
+Only check giving moves were generated in **Mater I** for the attacking side and check evasions for the defending side, for each [ply](Ply "Ply") level put into a [try-list](Move_List "Move List"). For the attacker, the list is ordered by the fewest-reply heuristic, highest priority goes to moves with the fewest number of legal replies, while checking moves with more than **four** legal replies are pruned entirely. Ties are broken by giving priority to [double checks](Double_Check "Double Check") and then to checks with no [capturing](Captures "Captures") replies. Search only continues down a particular path so long as the opponent's mobility is on the decline, which implies a maximum [search depth](Depth "Depth") of 9 [plies](Ply "Ply"). The defender's side considers captures in [MVV/LVA](MVV-LVA "MVV-LVA") order first, followed by king moves and interpositions. In *A chess mating combinations program*, the [beta-cutoff](Beta-Cutoff "Beta-Cutoff") was mentioned as "killing reply" <a id="cite-note-8" href="#cite-ref-8">[8]</a>, also with a footnote <a id="cite-note-9" href="#cite-ref-9">[9]</a> on [McCarthy.'s](John_McCarthy "John McCarthy") [killer heuristic](Killer_Heuristic "Killer Heuristic") referring [Alan Kotok's](Alan_Kotok "Alan Kotok") 1962 paper <a id="cite-note-10" href="#cite-ref-10">[10]</a>, covering [alpha-beta](Alpha-Beta "Alpha-Beta"). [Reuben Fine's](https://en.wikipedia.org/wiki/Reuben_Fine) position from *The Middlegame in Chess* served as one example of Mater's ability <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>.
 
 ## Mater II
 
-
-
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| 
-
-|  |
-| --- |
-|                                                                            ♜ ♝  ♛♜♚♟♟   ♟ ♟    ♟♙♟♕                     ♘  ♙    ♙♙♙   ♖  ♔♖ |
-
- |  |  At its first level of search, **Mater II** also generates moves threatening mate in one. After generation and trying checking moves without success, but triggered after collecting useful informations of "nearly" mate with only one legal reply, Mater II considers none checking moves which put additional pressure to the enemy king's sector, that is moves which directly or indirectly ([x-ray](X-ray "X-ray")) attack squares around the king. In this respect it resembles what [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") has called a "sample variation" <a id="cite-note-13" href="#cite-ref-13">[13]</a>, a kind of trial balloon sent up for the express purpose of gathering information to direct subsequent investigations. A further condition to finally add the move into the try-list is that after the move is internally made followed by a defender's [null move](Null_Move "Null Move"), the resulting position is mate in one. Now, the defender's [move ordering](Move_Ordering "Move Ordering") heuristic needs to prefer moves that defend the mating square. Fine's diagram 97 <a id="cite-note-14" href="#cite-ref-14">[14]</a> was given as example of the abilities of Mater II.
- |
-
+At its first level of search, **Mater II** also generates moves threatening mate in one. After generation and trying checking moves without success, but triggered after collecting useful informations of "nearly" mate with only one legal reply, Mater II considers none checking moves which put additional pressure to the enemy king's sector, that is moves which directly or indirectly ([x-ray](X-ray "X-ray")) attack squares around the king. In this respect it resembles what [Adriaan de Groot](Adriaan_de_Groot "Adriaan de Groot") has called a "sample variation" <a id="cite-note-13" href="#cite-ref-13">[13]</a>, a kind of trial balloon sent up for the express purpose of gathering information to direct subsequent investigations. A further condition to finally add the move into the try-list is that after the move is internally made followed by a defender's [null move](Null_Move "Null Move"), the resulting position is mate in one. Now, the defender's [move ordering](Move_Ordering "Move Ordering") heuristic needs to prefer moves that defend the mating square. Fine's diagram 97 <a id="cite-note-14" href="#cite-ref-14">[14]</a> was given as example of the abilities of Mater II.
 
 ## Board Representation
 

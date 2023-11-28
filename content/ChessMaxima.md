@@ -100,11 +100,11 @@ This page is about the basic chess items, [chessboard](Chessboard "Chessboard"),
 - [Shirish Chinchalkar](Shirish_Chinchalkar "Shirish Chinchalkar") has determined a [state-space complexity](https://en.wikipedia.org/wiki/Game_complexity#State-space_complexity) of 1046.25 as upper bound for the number of reachable [chess positions](Chess_Position "Chess Position") <a id="cite-note-9" href="#cite-ref-9">[9]</a>, [John Tromp](John_Tromp "John Tromp") gives about 10^45.888 <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 - The [maximum number of moves](Encoding_Moves#MoveIndex "Encoding Moves") per [chess position](Chess_Position "Chess Position") seems 218 <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 
-|  |
-| --- |
-|                                                                              ♖      ♖   ♕     ♕    ♕     ♕     ♕    ♕♕    ♕  ♟♟ ♕    ♚♗♘♘ ♔♗  |
+<img src="https://lichess1.org/export/fen.gif?fen=R6R/3Q4/1Q4Q1/4Q3/2Q4Q/Q4Q2/pp1Q4/kBNN1KB1 w - - 0 1" style="
+    width: 300px;
+">
 
-```C++
+```
 R6R/3Q4/1Q4Q1/4Q3/2Q4Q/Q4Q2/pp1Q4/kBNN1KB1 w - - 0 1
 
 ```

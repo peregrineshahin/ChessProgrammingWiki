@@ -51,29 +51,21 @@ At the [WMCCC 1993](WMCCC_1993 "WMCCC 1993") in Munich, round 8, [The King](The_
 ```
 
 
+<img src="https://lichess1.org/export/fen.gif?fen=r7/8/4p3/5b1k/3p3r/Np6/1P4R1/K5R1 w - - 0 58" style="
+    width: 300px;
+">
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| 
+```
+r7/8/4p3/5b1k/3p3r/Np6/1P4R1/K5R1 w - - 0 58
+```
 
-|  |
-| --- |
-|                                                                                     ♜                   ♟        ♝ ♚   ♟   ♜♘♟       ♙    ♖ ♔     ♖  |
+<img src="https://lichess1.org/export/fen.gif?fen=r7/8/4p2k/5bR1/3p3r/Np6/1P6/K7 w - - 2 61" style="
+    width: 300px;
+">
 
- |  | 
-
-|  |
-| --- |
-|                                                                                      ♜                   ♟  ♚     ♝♖    ♟   ♜♘♟       ♙      ♔        |
-
- |
-|  r7/8/4p3/5b1k/3p3r/Np6/1P4R1/K5R1 w - - 0 58
- |  |  r7/8/4p2k/5bR1/3p3r/Np6/1P6/K7 w - - 2 61
- |
-
-
-
-
+```
+r7/8/4p2k/5bR1/3p3r/Np6/1P6/K7 w - - 2 61
+```
 
 
 ### nTCEC 1,2
@@ -115,25 +107,21 @@ Qd3 98.Kg2 f4 99.Kf2 Qg3+ 100.Kf1 f3 101.Rf2 Qg4 102.Rac2 Qh5 103.Kg1 Kxa4
 ```
 
 
+<img src="https://lichess1.org/export/fen.gif?fen=8/8/8/8/1k6/2p2pq1/R1R5/7K b - - 9 108 am Kc4" style="
+    width: 300px;
+">
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| 
+```
+8/8/8/8/1k6/2p2pq1/R1R5/7K b - - 9 108 am Kc4
+```
 
-|  |
-| --- |
-|                                                                                                                           ♚        ♟  ♟♛ ♖ ♖            ♔ |
+<img src="https://lichess1.org/export/fen.gif?fen=8/8/8/8/8/2k2pq1/R7/7K w - - 0 110" style="
+    width: 300px;
+">
 
- |  | 
-
-|  |
-| --- |
-|                                                                                                                                      ♚  ♟♛ ♖              ♔ |
-
- |
-|  8/8/8/8/1k6/2p2pq1/R1R5/7K b - - 9 108 am Kc4
- |  |  8/8/8/8/8/2k2pq1/R7/7K w - - 0 110
- |
+```
+8/8/8/8/8/2k2pq1/R7/7K w - - 0 110
+```
 
 
 ## See also

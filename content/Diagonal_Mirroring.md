@@ -28,34 +28,35 @@ for (r = 0; r < f; ++r)
 
 ## Sample Position
 
-|  Original
-|  Diagonal Mirror
-|  Anti-Diagonal Mirror
-|
-| --- | --- | --- |
-|
+* Original
 
-|  |
-| --- |
-|                                                                                             ♚               ♘♔  ♗                                            |
+<img src="https://lichess1.org/export/fen.gif?fen=k7/8/NK2B3/8/8/8/8/8 w - -" style="
+    width: 300px;
+">
 
-|
+```
+k7/8/NK2B3/8/8/8/8/8 w - -
+```
 
-|  |
-| --- |
-|                                                                                                                          ♗                       ♔       ♘ ♚ |
+* Diagonal Mirror
 
-|
+<img src="https://lichess1.org/export/fen.gif?fen=8/8/8/5B2/8/8/5K2/5N1k w - -" style="
+    width: 300px;
+">
 
-|  |
-| --- |
-|                                                                                             ♚ ♘       ♔                       ♗                              |
+```
+8/8/8/5B2/8/8/5K2/5N1k w - -
+```
 
-|
-|  k7/8/NK2B3/8/8/8/8/8 w - -
-|  8/8/8/5B2/8/8/5K2/5N1k w - -
-|  k1N5/2K5/8/8/2B5/8/8/8 w - -
-|
+* Anti-Diagonal Mirror
+
+<img src="https://lichess1.org/export/fen.gif?fen=k1N5/2K5/8/8/2B5/8/8/8 w - -" style="
+    width: 300px;
+">
+
+```
+k1N5/2K5/8/8/2B5/8/8/8 w - -
+```
 
 ## See also
 

@@ -34,11 +34,13 @@ Arthur is a strong Dutch amateur program. It has finished as the best amateur pr
 
 In 1995, Walter Ravenek mentioned that Arthur has code to handle the position composed by [Roger Penrose](Mathematician#RPenrose "Mathematician") concerning [blockage detection](Blockage_Detection "Blockage Detection"). Does your program avoid bxa5? Walter found it a nice challenge, but due to little practical value, the code was deactivated to safe some evaluation time <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-|  |
-| --- |
-|                                                                                  ♚♜     ♝ ♟  ♟   ♟♙♜♟♙♟ ♟♙ ♟♙ ♙♟♙  ♙   ♙    ♔               |
+<img src="https://lichess1.org/export/fen.gif?fen=6kr/5b1p/2p3pP/rpPp1pP1/pP1PpP2/P3P3/1K6/8 w - - 0 1" style="
+    width: 300px;
+">
 
+```
 6kr/5b1p/2p3pP/rpPp1pP1/pP1PpP2/P3P3/1K6/8 w - - 0 1
+```
 
 ## See also
 

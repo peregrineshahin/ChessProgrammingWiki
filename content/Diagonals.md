@@ -8,11 +8,9 @@ title: Diagonals
 
 ## Main Diagonal
 
-|  |  |  |
-| --- | --- | --- |
-|  | abcdefgh |  |
-| 87654321 |                                                                                                        •      •      •      •      •      •      •      •        | 87654321 |
-|  | abcdefgh |  |
+<img src="" alt="missing fen" style="
+    width: 300px;
+">
 
 ## Square Mapping Notes
 

@@ -11,14 +11,9 @@ the position where the [game of chess](Chess_Game "Chess Game") starts. [Pieces]
 
 ## Diagram
 
-
-
-
-|  |  |  |
-| --- | --- | --- |
-|  | abcdefgh |  |
-| 87654321 |                                                                 ♜♞♝♛♚♝♞♜♟♟♟♟♟♟♟♟                                ♙♙♙♙♙♙♙♙♖♘♗♕♔♗♘♖ | 87654321 |
-|  | abcdefgh |  |
+<img src="" alt="missing fen" style="
+    width: 300px;
+">
 
 
 ## Ambiguity

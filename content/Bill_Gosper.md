@@ -26,9 +26,9 @@ Allen Moulton and R. William Gosper (rear right) operating "[Robert Q](Mac_Hack#
 
 HAKMEM 70, A neat chess problem, swiped from *Chess for Fun and Chess for Blood*, by [Edward Lasker](https://en.wikipedia.org/wiki/Edward_Lasker) <a id="cite-note-10" href="#cite-ref-10">[10]</a>. White mates in three moves <a id="cite-note-11" href="#cite-ref-11">[11]</a>:
 
-|  |
-| --- |
-|                                                                                               ♗        ♙  ♟               ♘      ♚♙        ♔              |
+<img src="https://lichess1.org/export/fen.gif?fen=5B2/6P1/1p6/8/1N6/kP6/2K5/8 w - -" style="
+    width: 300px;
+">
 
 5B2/6P1/1p6/8/1N6/kP6/2K5/8 w - -
 

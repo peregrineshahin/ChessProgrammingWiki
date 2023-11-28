@@ -18,15 +18,11 @@ pawns not defended and not defensible by the pawns of the same [color](Color "Co
 * **Overly advanced pawn** (technically neither isolated nor backward, but nevertheless not defensible by a pawn. Consider the following situation: white pawns on a3, b5 and c4, black pawns on a4, b6 and c7, where the black pawn on a4 falls into this category.)
 
 
- 
+<img src="https://lichess1.org/export/fen.gif?fen=1k6/2p5/1p6/1P6/p1P5/P7/3K4/8 w - -" style="
+    width: 300px;
+">
 
-|  |
-| --- |
-|                                                                                          ♚        ♟      ♟       ♙      ♟ ♙     ♙          ♔             |
-
-
-
-```C++
+```
 1k6/2p5/1p6/1P6/p1P5/P7/3K4/8 w - -
 
 ```

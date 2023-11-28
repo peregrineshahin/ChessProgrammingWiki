@@ -25,11 +25,11 @@ CHAOS played 16 NxP!! - a move which has been acclaimed as the finest ever made 
 
 ```
 
-|  |
-| --- |
-|                                                                      ♜♛  ♚  ♜   ♞ ♟♟♟♟  ♝♟♞♝         ♘♟ ♘     ♗   ♙♙ ♙♙  ♕  ♙♖ ♗♖  ♔  |
+<img src="https://lichess1.org/export/fen.gif?fen=rq2k2r/3n1ppp/p2bpnb1/8/Np1N4/1B3PP1/PP2Q2P/R1BR2K1 w kq - 1 16" style="
+    width: 300px;
+">
 
-```C++
+```
 rq2k2r/3n1ppp/p2bpnb1/8/Np1N4/1B3PP1/PP2Q2P/R1BR2K1 w kq - 1 16
 
 ```

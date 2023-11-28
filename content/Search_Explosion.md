@@ -16,13 +16,9 @@ A **Search Explosion** or node count explosion refers to a huge [effective branc
 [Chess positions](Test_Positions#Leonid "Test-Positions") posted by [Leonid Liberman](Leonid_Liberman "Leonid Liberman") in [CCC](CCC "CCC") let many engines "explode" <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 
-
-
-
-|  |
-| --- |
-|                                                                    ♛  ♚  ♛   ♞♛♞  ♝ ♞ ♙ ♞ ♝  ♜♞♜  ♕ ♘♕ ♕♘ ♕   ♕   ♗  ♖♕♖  ♗♕  ♔  ♕  |
-
+<img src="https://lichess1.org/export/fen.gif?fen=q2k2q1/2nqn2b/1n1P1n1b/2rnr2Q/1NQ1QN1Q/3Q3B/2RQR2B/Q2K2Q1 w - -" style="
+    width: 300px;
+">
 
 q2k2q1/2nqn2b/1n1P1n1b/2rnr2Q/1NQ1QN1Q/3Q3B/2RQR2B/Q2K2Q1 w - - <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 

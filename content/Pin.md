@@ -38,15 +38,13 @@ A relative pin is where the piece shielded by the pinned piece is not the king, 
 A cross pin describes the rare case, where one piece is pinned in multiple directions simultaneously, most often one partial pin shielding the king and a relative pin shielding the queen. For instance in the otherwise harmless case of a partial pin of a bishop by a bishop, the bishop is also shielding a otherwise hanging queen by a queen, same may apply for rooks instead of bishops. Here the black rook on e4 is cross pinned and black will lose material and likely the game:
 
 
+<img src="https://lichess1.org/export/fen.gif?fen=4k3/1p4pp/2p5/8/q3r2Q/3p3P/1P4PK/4R3 b - - " style="
+    width: 300px;
+">
 
-
-
-|  |
-| --- |
-|                                                                                       ♚    ♟    ♟♟  ♟             ♛   ♜  ♕   ♟   ♙ ♙    ♙♔    ♖    |
-
-
+```
 4k3/1p4pp/2p5/8/q3r2Q/3p3P/1P4PK/4R3 b - - 
+```
 
 
 Of course with the white king on g1 or h1, things would be different. Such multiple issue tactics seems all the domain of the [search](Search "Search") and is hard to evaluate statically. 

@@ -53,11 +53,11 @@ The performance capabilities of the best computer chess programs are compared wi
 
 During the [ACM 1971](ACM_1971 "ACM 1971"), Coko III offered a pawn versus [Genie](Genie "Genie") which, if accepted, would permit a mating sequence 17 plies deep. The pawn was taken, mate was announced, and the predicted line was followed, until ... <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
-|  |
-| --- |
-|                                                                                          ♟♟        ♟  ♟        ♟  ♙        ♕ ♙   ♚ ♔  ♙♙♙     ♗ ♖ |
+<img src="https://lichess1.org/export/fen.gif?fen=8/pp6/2p2p2/6p1/1P6/2Q1P3/k1K2PPP/5B1R w - - 0 38" style="
+    width: 300px;
+">
 
-```C++
+```
 8/pp6/2p2p2/6p1/1P6/2Q1P3/k1K2PPP/5B1R w - - 0 38 
 
 ```

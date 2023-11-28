@@ -11,11 +11,11 @@ This chess rule makes chess programming a bit harder. First, the target square o
 
 To prove an en passant capture is actually possible, at least the [en passant target square](Forsyth-Edwards_Notation#Enpassanttargetsquare "Forsyth-Edwards Notation") should be under attack of an opponent pawn for [pseudo legality](Pseudo-Legal_Move "Pseudo-Legal Move"). Further, for [strict legality](Legal_Move "Legal Move"), the ep capturing pawn should not be [absolutely pinned](Pin#AbsolutePin "Pin"), which additionally requires a horizontal pin test of both involved pawns, which disappear from the same rank.
 
-|  |
-| --- |
-|                                                                                                      ♝♝                ♖ ♟♙  ♚     ♙   ♙       ♔        |
+<img src="https://lichess1.org/export/fen.gif?fen=8/6bb/8/8/R1pP2k1/4P3/P7/K7 b -" style="
+    width: 300px;
+">
 
-```C++
+```
 8/6bb/8/8/R1pP2k1/4P3/P7/K7 b - d3 after d2-d4
 
 ```
@@ -45,11 +45,11 @@ The implementation of the en passant rule often caused subtle [bugs](Engine_Test
 
 ```
 
-|  |
-| --- |
-|                                                                         ♜   ♚  ♛ ♞♝♟♟♟♜   ♟      ♟♙   ♟♙♟♙    ♙ ♕  ♘    ♖♘ ♙♙♙  ♖    ♔ |
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1/1q1nbppp/r3p3/3pP3/pPpP4/P1Q2N2/2RN1PPP/2R4K b -" style="
+    width: 300px;
+">
 
-```C++
+```
 2r3k1/1q1nbppp/r3p3/3pP3/pPpP4/P1Q2N2/2RN1PPP/2R4K b - b3 0 23
 
 ```

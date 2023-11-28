@@ -37,13 +37,13 @@ A Micro Chess prototype had a [move generation](Move_Generation "Move Generation
 ```
 
 
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r/pp2n1pp/2p5/3pB3/P3P3/2P5/2P3PP/R4RK1 b kq - 1 19" style="
+    width: 300px;
+">
 
-|  |
-| --- |
-|                                                                             ♜   ♚  ♜♟♟  ♞ ♟♟  ♟        ♟♗   ♙   ♙     ♙       ♙   ♙♙♖    ♖♔  |
-
-
+```
 r3k2r/pp2n1pp/2p5/3pB3/P3P3/2P5/2P3PP/R4RK1 b kq - 1 19 
+```
 
 
 

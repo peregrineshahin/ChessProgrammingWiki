@@ -1,48 +1,51 @@
 ---
 title: Color Flipping
 ---
-**[Home](Home "Home") * [Chess](Chess "Chess") * [Position](Chess_Position "Chess Position") * Color Flipping**
+
+**[Home](Home "Home") _ [Chess](Chess "Chess") _ [Position](Chess_Position "Chess Position") \* Color Flipping**
 
 **Color Flipping** a chess position refers to the [vertical flipping](Vertical_Flipping "Vertical Flipping") or mirroring of all [pieces](Pieces "Pieces") along the horizontal axis between the 4th and 5th [rank](Ranks "Ranks") also swapping the [color](Color "Color") of the flipped pieces from White to Black and vice versa, the [side to move](Side_to_move "Side to move"), the [castling rights](Castling_Rights "Castling Rights") and the rank of a possible [en passant](En_passant "En passant") target square from six to three or vice versa accordantly. The resulting position is mirror equivalent, pawn and pieces have the same [span length](Pawn_Spans "Pawn Spans") or home rank relation. A white pawn on the light square c2 becomes a black pawn on the dark square c7. Color flipping a vertical symmetrical or mirror position (same castling rights, no en passant possible) results in the same position as if the side to move performed a [null move](Null_Move "Null Move"):
 
 ## Sample
 
-|  Giuoco Piano
-|  Giuoco Piano Symmetrical
-|
-| --- | --- |
-|
+- Giuoco Piano
 
-|  |
-| --- |
-|                                                                 ♜ ♝♛♚ ♞♜♟♟♟♟ ♟♟♟  ♞       ♝ ♟     ♗ ♙        ♘  ♙♙♙♙ ♙♙♙♖♘♗♕♔  ♖ |
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -
+" style="
+    width: 300px;
+">
 
-|
+```
+r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -
 
-|  |
-| --- |
-|                                                                 ♜ ♝♛♚  ♜♟♟♟♟ ♟♟♟  ♞  ♞    ♝ ♟     ♗ ♙     ♘  ♘  ♙♙♙♙ ♙♙♙♖ ♗♕♔  ♖ |
+```
 
-|
-|  r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -
-|  r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -
-|
-|
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -" style="
+    width: 300px;
+">
 
-|  |
-| --- |
-|                                                                 ♜♞♝♛♚  ♜♟♟♟♟ ♟♟♟     ♞    ♝ ♟     ♗ ♙     ♘     ♙♙♙♙ ♙♙♙♖ ♗♕♔ ♘♖ |
+```
+r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -
 
-|
+```
 
-|  |
-| --- |
-|                                                                 ♜ ♝♛♚  ♜♟♟♟♟ ♟♟♟  ♞  ♞    ♝ ♟     ♗ ♙     ♘  ♘  ♙♙♙♙ ♙♙♙♖ ♗♕♔  ♖ |
+- Giuoco Piano Symmetrical
 
-|
-|  rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq -
-|  r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -
-|
+<img src="https://lichess1.org/export/fen.gif?fen=rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq -" style="
+    width: 300px;
+">
+
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -" style="
+    width: 300px;
+">
+
+```
+rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq -
+```
+
+```
+r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -
+```
 
 ## Book Transpositions
 
@@ -108,7 +111,7 @@ Rather than flipping the board after each make, [Reinhard Scharnagl](Reinhard_Sc
 
 ## Publications
 
-- [Fernand Gobet](Fernand_Gobet "Fernand Gobet") (**1993**). *[A Computer Model of Chess Memory](http://people.brunel.ac.uk/%7Ehsstffg/papers/ModelChessMem/Chess%20Memory.html).* Proceedings of the 15th Annual Meeting of the Cognitive Science Society, pp. 463-468.
+- [Fernand Gobet](Fernand_Gobet "Fernand Gobet") (**1993**). _[A Computer Model of Chess Memory](http://people.brunel.ac.uk/%7Ehsstffg/papers/ModelChessMem/Chess%20Memory.html)._ Proceedings of the 15th Annual Meeting of the Cognitive Science Society, pp. 463-468.
 
 ## Forum Posts
 
@@ -130,9 +133,8 @@ Rather than flipping the board after each make, [Reinhard Scharnagl](Reinhard_Sc
 
 ## References
 
-1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Peter Jennings](Peter_Jennings "Peter Jennings") (**1976**). *[MicroChess, a Chess playing program for the 6502 Microcomputer](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d8478)*. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/4-1.MicroChess_%20Manual_for_6502.Micro-Ware/MicroChessManual.PETER_JENNINGS.062303071.sm.pdf), Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
+1. <a id="cite-ref-1" href="#cite-note-1">↑</a> [Peter Jennings](Peter_Jennings "Peter Jennings") (**1976**). _[MicroChess, a Chess playing program for the 6502 Microcomputer](http://www.computerhistory.org/chess/full_record.php?iid=doc-431614f6d8478)_. [pdf](http://archive.computerhistory.org/projects/chess/related_materials/text/4-1.MicroChess_%20Manual_for_6502.Micro-Ware/MicroChessManual.PETER_JENNINGS.062303071.sm.pdf), Courtesy of [Peter Jennings](Peter_Jennings "Peter Jennings"), [The Computer History Museum](The_Computer_History_Museum "The Computer History Museum")
 1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [color-flipped perft](http://www.talkchess.com/forum/viewtopic.php?t=17589) by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"), November 04, 2007
 1. <a id="cite-ref-3" href="#cite-note-3">↑</a> [Computerschach mit monochromen Methoden ?](http://www.open-chess.org/viewtopic.php?f=39&t=1039) by [Reinhard Scharnagl](Reinhard_Scharnagl "Reinhard Scharnagl"), [OpenChess - Deutsches Forum](Computer_Chess_Forums "Computer Chess Forums"), January 27, 2011 (German)
 
 **[Up one Level](Chess_Position "Chess Position")**
-

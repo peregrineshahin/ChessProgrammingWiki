@@ -31,22 +31,21 @@ in the traditions of [Heath Robinson](https://en.wikipedia.org/wiki/Heath_Robins
 
 In *King and Rook Against King: Historical Background and a Problem on the Infinite Board* at the first [Advances in Computer Chess](Advances_in_Computer_Chess_1 "Advances in Computer Chess 1") conference <a id="cite-note-26" href="#cite-ref-26">[26]</a> , Donald Michie shows two positions, that are identical except one pawn, to demonstrate the need for [search](Search "Search") <a id="cite-note-27" href="#cite-ref-27">[27]</a> .
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-|
+<img src="rn3rk1/p1q1nppp/bp2p3/2ppP3/P2P4/2PB1N2/2P2PPP/R1BQK2Rw KQ -" style="
+    width: 300px;
+">
 
-|  |
-| --- |
-|                                                                   ♜♞   ♜♚ ♟ ♛ ♞♟♟♟♝♟  ♟     ♟♟♙   ♙  ♙      ♙♗ ♘    ♙  ♙♙♙♖ ♗♕♔  ♖ |
+```
+rn3rk1/p1q1nppp/bp2p3/2ppP3/P2P4/2PB1N2/2P2PPP/R1BQK2Rw KQ - ; bm Bxh7
+```
 
-|
+<img src="rn3rk1/p1q1nppp/bp2p3/2ppP3/P2P4/2PB1N2/1P3PPP/R1BQK2Rw KQ -" style="
+    width: 300px;
+">
 
-|  |
-| --- |
-|                                                                   ♜♞   ♜♚ ♟ ♛ ♞♟♟♟♝♟  ♟     ♟♟♙   ♙  ♙      ♙♗ ♘   ♙   ♙♙♙♖ ♗♕♔  ♖ |
-
-|
-| rn3rk1/p1q1nppp/bp2p3/2ppP3/P2P4/2PB1N2/2P2PPP/R1BQK2Rw KQ - ; bm Bxh7 | rn3rk1/p1q1nppp/bp2p3/2ppP3/P2P4/2PB1N2/1P3PPP/R1BQK2Rw KQ - ; am Bxh7 |
+```
+rn3rk1/p1q1nppp/bp2p3/2ppP3/P2P4/2PB1N2/1P3PPP/R1BQK2Rw KQ - ; am Bxh7
+```
 
 ## Chess Endgames
 

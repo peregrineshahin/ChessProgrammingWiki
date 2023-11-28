@@ -22,26 +22,22 @@ Le Problème, 1938 <a id="cite-note-8" href="#cite-ref-8">[8]</a> and 1939 <a id
 
 
 
+<img src="https://lichess1.org/export/fen.gif?fen=8/8/8/3BB2K/8/8/pp1p4/k1b3R1 w - -" style="
+    width: 300px;
+">
+
+```
+8/8/8/3BB2K/8/8/pp1p4/k1b3R1 w - -
+```
 
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| 
+<img src="https://lichess1.org/export/fen.gif?fen=8/1p1p1p2/pP1P1P2/8/k1p5/2P1p1pP/2P1P1P1/4K3 w - -" style="
+    width: 300px;
+">
 
-|  |
-| --- |
-|                                                                                                                   ♗♗  ♔                ♟♟ ♟    ♚ ♝   ♖  |
-
- | 
-
-|  |
-| --- |
-|                                                                                         ♟ ♟ ♟  ♟♙ ♙ ♙          ♚ ♟       ♙ ♟ ♟♙  ♙ ♙ ♙     ♔    |
-
- |
-|  8/8/8/3BB2K/8/8/pp1p4/k1b3R1 w - -
- |  8/1p1p1p2/pP1P1P2/8/k1p5/2P1p1pP/2P1P1P1/4K3 w - -
- |
+```
+8/1p1p1p2/pP1P1P2/8/k1p5/2P1p1pP/2P1P1P1/4K3 w - -
+```
 
 
 ## Selected Publications

@@ -43,13 +43,6 @@ was an American mathematician, logician, philosopher, [magician](https://en.wiki
 * Raymond Smullyan (**1981**). *[The Chess Mysteries of the Arabian Knights](http://www.chesslund.com/detail.asp?id=2206&n=Smullyan-The-Chess-Mysteries-of-the-Arabian-Knights)* . [Knopf](https://en.wikipedia.org/wiki/Alfred_A._Knopf) <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 
- 
-
-|  |
-| --- |
-|                                                                                                                      ♜ ♝    ♗                          ♚     |
-
-
  Where is the white king? <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 * Raymond Smullyan (**1982**). *The Lady or the Tiger? - ladies, tigers, and more logic puzzles*. [Random House](https://en.wikipedia.org/wiki/Random_House) <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 * Raymond Smullyan (**1982**). *[An Epistemological Nightmare](http://www.mit.edu/people/dpolicar/writing/prose/text/epistemologicalNightmare.html)*. [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology") <a id="cite-note-13" href="#cite-ref-13">[13]</a>

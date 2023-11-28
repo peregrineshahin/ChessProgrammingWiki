@@ -14,16 +14,11 @@ title: Undermining
 If the undermined piece has a [Zwischenzug](Zwischenzug "Zwischenzug"), things are more complicated. Here quiescence has to deal with [checks](Check "Check") below the [horizon](Horizon_Node "Horizon Node"), to become aware undermining does not work here ...
 
 
+<img src="https://lichess1.org/export/fen.gif?fen=3k4/2n3p1/3bb3/7p/8/6P1/8/2R1R2K w - -" style="
+    width: 300px;
+">
 
-
-
-|  |
-| --- |
-|                                                                                          ♚      ♞   ♟    ♝♝          ♟              ♙           ♖ ♖  ♔ |
-
-
-
-```C++
+```
 3k4/2n3p1/3bb3/7p/8/6P1/8/2R1R2K w - - 
 
 ```

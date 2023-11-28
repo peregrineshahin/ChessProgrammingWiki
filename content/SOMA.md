@@ -112,15 +112,11 @@ Qe6 17.Ba5 Ng3 18.Qf3 Nxf1 19.Rxf1 f6 20.Rd1 Qe4 21.Qxe4 dxe4 22.d5 cxd5 23.Rxd5
 
 ```
 
- 
+ <img src="https://lichess1.org/export/fen.gif?fen=1k1r3r/p1p3pp/B2b1p2/B2R4/4p2P/P3P3/1PP3P1/6K1 b - - 0 23" style="
+    width: 300px;
+">
 
-|  |
-| --- |
-|                                                                              ♚ ♜   ♜♟ ♟   ♟♟♗  ♝ ♟  ♗  ♖        ♟  ♙♙   ♙    ♙♙   ♙       ♔  |
-
-
-
-```C++
+```
 1k1r3r/p1p3pp/B2b1p2/B2R4/4p2P/P3P3/1PP3P1/6K1 b - - 0 23
 
 ```

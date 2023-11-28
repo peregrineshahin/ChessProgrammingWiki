@@ -727,17 +727,12 @@ Nc5+ 59.Ka7 Ne6 60.b6 Nd8 61.b7 Nxb7 62.Kxb7 Kc5 63.Ne2 Kd5 64.Ng1 e4 65.Kb6 e3
 
 As reported by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") <a id="cite-note-12" href="#cite-ref-12">[12]</a>, Nimzo happily sacrificed the knight with 61... Nxb7, winning the game due to a [bug](Engine_Testing#bugs "Engine Testing"). A winning score was given, applying the [Rule of the Square](Rule_of_the_Square "Rule of the Square") for its black passer. Instead, as intended, with White having no pieces to make the e-pawn [unstoppable](Unstoppable_Passer "Unstoppable Passer"), the winning score was enabled by Black without pieces <a id="cite-note-13" href="#cite-ref-13">[13]</a>! 
 
+<img src="https://lichess1.org/export/fen.gif?fen=3n4/KP6/3k2p1/4p2p/8/2N3P1/8/8 b - - 0 61" style="
+    width: 300px;
+">
 
 
-
-
-|  |
-| --- |
-|                                                                                           ♞    ♔♙         ♚  ♟     ♟  ♟          ♘   ♙                  |
-
-
-
-```C++
+```
 3n4/KP6/3k2p1/4p2p/8/2N3P1/8/8 b - - 0 61
 
 ```

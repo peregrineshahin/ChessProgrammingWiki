@@ -24,11 +24,12 @@ The best way to provide automatic extension of non-quiescent positions is still 
 
 ```
 
-|  |
-| --- |
-|                                                                                      ♜ ♚    ♕♟♛     ♟    ♟ ♟  ♙   ♟  ♙   ♟  ♙      ♙    ♗♔       |
 
-```C++
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k/4Qpq1/4p3/1p1p2P1/2p2P2/1p2P3/3P4/BK6 b - -" style="
+    width: 300px;
+">
+
+```
 5r1k/4Qpq1/4p3/1p1p2P1/2p2P2/1p2P3/3P4/BK6 b - -
 
 ```

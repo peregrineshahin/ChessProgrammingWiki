@@ -7,42 +7,40 @@ title: Color FlippingDebugging
 
 ## Sample
 
-|  Giuoco Piano
-|  Giuoco Piano Symmetrical
-|
-| --- | --- |
-|
+* Giuoco Piano
 
-|  |
-| --- |
-|                                                                 ♜ ♝♛♚ ♞♜♟♟♟♟ ♟♟♟  ♞       ♝ ♟     ♗ ♙        ♘  ♙♙♙♙ ♙♙♙♖♘♗♕♔  ♖ |
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -" style="
+    width: 300px;
+">
 
-|
+```
+r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -
+```
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -" style="
+    width: 300px;
+">
 
-|  |
-| --- |
-|                                                                 ♜ ♝♛♚  ♜♟♟♟♟ ♟♟♟  ♞  ♞    ♝ ♟     ♗ ♙     ♘  ♘  ♙♙♙♙ ♙♙♙♖ ♗♕♔  ♖ |
+```
+r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -
+```
 
-|
-|  r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -
-|  r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -
-|
-|
+* Giuoco Piano Symmetrical
 
-|  |
-| --- |
-|                                                                 ♜♞♝♛♚  ♜♟♟♟♟ ♟♟♟     ♞    ♝ ♟     ♗ ♙     ♘     ♙♙♙♙ ♙♙♙♖ ♗♕♔ ♘♖ |
+<img src="https://lichess1.org/export/fen.gif?fen=rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq -" style="
+    width: 300px;
+">
 
-|
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -" style="
+    width: 300px;
+">
 
-|  |
-| --- |
-|                                                                 ♜ ♝♛♚  ♜♟♟♟♟ ♟♟♟  ♞  ♞    ♝ ♟     ♗ ♙     ♘  ♘  ♙♙♙♙ ♙♙♙♖ ♗♕♔  ♖ |
+```
+rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq -
+```
 
-|
-|  rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq -
-|  r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -
-|
+```
+r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -
+```
 
 ## Book Transpositions
 

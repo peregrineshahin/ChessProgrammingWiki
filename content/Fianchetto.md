@@ -3,20 +3,13 @@ title: Fianchetto
 ---
 **[Home](Home "Home") * [Evaluation](Evaluation "Evaluation") * [Patterns](Evaluation_Patterns "Evaluation Patterns") * Fianchetto**
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| **Fianchetto**, (Italian: "little flank")a pattern where a [bishop](Bishop "Bishop") is [developed](Development "Development") to the second rank of the adjacent knight file <a id="cite-note-1" href="#cite-ref-1">[1]</a>, the knight pawn having been moved typically one (regular fianchetto) or rarely two squares forward (long fianchetto). Especially when the fianchetto is part of king's defensive formation, a bonus is awarded to avoid an exchange especially versus a knight if the opponent still has an equal colored bishop, and in long term may take advantage of the [holes](Holes "Holes") and weak [stop squares](Stop_Square "Stop Square") of the remaining [pawn shield](King_Safety#PawnShield "King Safety") formation of a [castled](Castling "Castling") [king](King "King").
+
+**Fianchetto**, (Italian: "little flank")a pattern where a [bishop](Bishop "Bishop") is [developed](Development "Development") to the second rank of the adjacent knight file <a id="cite-note-1" href="#cite-ref-1">[1]</a>, the knight pawn having been moved typically one (regular fianchetto) or rarely two squares forward (long fianchetto). Especially when the fianchetto is part of king's defensive formation, a bonus is awarded to avoid an exchange especially versus a knight if the opponent still has an equal colored bishop, and in long term may take advantage of the [holes](Holes "Holes") and weak [stop squares](Stop_Square "Stop Square") of the remaining [pawn shield](King_Safety#PawnShield "King Safety") formation of a [castled](Castling "Castling") [king](King "King").
 The regular fianchetto pattern considers the knight pawn on the third rank defended at least by the bishop pawn (or simpler, defended by two pawns), with the bishop on the initial knight pawn square. Programs may evaluate fianchetto pattern implicitly by bishop [piece-square tables](Piece-Square_Tables "Piece-Square Tables"), and bishop or piece controls of holes on the third rank in conjunction with pawn shield issues.
-|
 
-|  |  |
-| --- | --- |
-|                          ♙  ♙♗♙  ♔  | 4321 |
-| efgh |  |
-
-|
-|  Fianchetto
-|
+<img src="" alt="missing fen" style="
+    width: 300px;
+">
 
 ## See also
 

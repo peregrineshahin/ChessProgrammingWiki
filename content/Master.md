@@ -87,14 +87,11 @@ On the last night, having won two easy games, MASTER again met a tough opponent,
 ```
 
 
+<img src="https://lichess1.org/export/fen.gif?fen=8/8/8/B7/8/1K1N3P/8/k7 w - - 1 54" style="
+    width: 300px;
+">
 
-|  |
-| --- |
-|                                                                                                                    ♗                ♔ ♘   ♙        ♚        |
-
-
-
-```C++
+```
 8/8/8/B7/8/1K1N3P/8/k7 w - - 1 54
 
 During the tournament we had not been linked directly to Peter Kent in Stockholm but had been relaying our moves algebraically through London where another chess program was also competing in the tournament. This relay had caused us to use a voice code for the moves (ABLE, BAKER, CHARLIE, DOG, EASY, FOX, GEORGE, HOTEL) and, oddly enough, we never sent or received a bad move. 

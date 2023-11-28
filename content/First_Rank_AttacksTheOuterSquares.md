@@ -11,10 +11,9 @@ The technique of [occupancy](Occupancy "Occupancy") lookups is base for [Rotated
 
 Assume we (temporary) reduce the chess-board to one [rank](Ranks "Ranks"). Occupancy bitboard is one [byte](Byte "Byte") with up to 256 states. A [rook](Rook "Rook") attack-set from one of the eight [squares](Squares "Squares") ([file](Files "Files")) on this single rank is also only one byte. Thus we can construct an [array](Array "Array") of bytes[256][8], indexed by all 256 occupancies and 8 files, to lookup the pre-calculated rank-attack bytes.
 
-|  |  |  |
-| --- | --- | --- |
-| 1 |           ♘  ♖ ♔  | 1 |
-|  | abcdefgh |  |
+<img src="" alt="missing fen" style="
+    width: 300px;
+">
 
 Occupancy of the first rank = 01001010B, Rank-attacks ::= f (e-file, Occupancy) = 01110110B
 

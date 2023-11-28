@@ -10,51 +10,49 @@ title: Horizontal Mirroring
 
 ## Horizontal Mirroring
 
-|  Original
-|  Horizontal Mirroring
-|
-| --- | --- |
-|
+* Original
+<img src="https://lichess1.org/export/fen.gif?fen=k7/8/NK2B3/8/8/8/8/8 w - -" style="
+    width: 300px;
+">
 
-|  |
-| --- |
-|                                                                                             ♚               ♘♔  ♗                                            |
+```
+k7/8/NK2B3/8/8/8/8/8 w - -
+```
 
-|
+* Horizontal Mirroring
 
-|  |
-| --- |
-|                                                                                                    ♚           ♗  ♔♘                                         |
+<img src="https://lichess1.org/export/fen.gif?fen=7k/8/3B2KN/8/8/8/8/8 w - -" style="
+    width: 300px;
+">
 
-|
-|  k7/8/NK2B3/8/8/8/8/8 w - -
-|  7k/8/3B2KN/8/8/8/8/8 w - -
-|
+```
+  7k/8/3B2KN/8/8/8/8/8 w - -
+```
+
 
 ## Flipping & Rotation
 
 [Vertical flipping](Vertical_Flipping "Vertical Flipping") and horizontal mirroring (or vice versa) results in [rotation](https://en.wikipedia.org/wiki/Rotation_%28mathematics%29) by 180 degrees.
 
-|  Vertical Flipping
-|  180° Rotation
-|
-| --- | --- |
-|
+* Vertical Flipping
 
-|  |
-| --- |
-|                                                                                                                                     ♘♔  ♗           ♚        |
+<img src="https://lichess1.org/export/fen.gif?fen=8/8/8/8/8/NK2B3/8/k7 w - -" style="
+    width: 300px;
+">
 
-|
+```
+8/8/8/8/8/NK2B3/8/k7 w - -
+```
 
-|  |
-| --- |
-|                                                                                                                                        ♗  ♔♘               ♚ |
+* 180° Rotation
 
-|
-|  8/8/8/8/8/NK2B3/8/k7 w - -
-|  8/8/8/8/8/3B2KN/8/7k w - -
-|
+<img src="https://lichess1.org/export/fen.gif?fen=8/8/8/8/8/3B2KN/8/7k w - -" style="
+    width: 300px;
+">
+
+```
+8/8/8/8/8/3B2KN/8/7k w - -
+```
 
 ## Mirroring an 8x8 Board
 

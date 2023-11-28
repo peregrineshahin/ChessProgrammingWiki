@@ -100,25 +100,26 @@ In 1991, Jack Good analyzed the famous position shown in the film [From Russia w
 |  |  |
 | --- | --- |
 |  Kronsteen - MacAdams
- |  Spassky - Bronstein
- |
-| 
+ |  
 
-|  |
-| --- |
-|                                                                             ♜   ♜♞♚ ♟♟♟ ♛♘♟        ♟    ♝        ♕   ♗      ♙♙    ♙♙     ♖♔  |
+* Kronsteen - MacAdams
+<img src="https://lichess1.org/export/fen.gif?fen=5r1k/4Qpq1/4p3/1p1p2P1/2p2P2/1p2P3/3P4/BK6 b - -" style="
+    width: 300px;
+">
 
- | 
+```
+r3rnk1/ppp1qNp1/7p/4b3/5Q2/1B6/PP4PP/5RK1 w - - 0 1
+```
 
-|  |
-| --- |
-|                                                                           ♜   ♜♞♚ ♟♟♟ ♛♘♟        ♟  ♙ ♝      ♙ ♕   ♗      ♙♙    ♙♙     ♖♔  |
+* Spassky - Bronstein
 
- |
-|  r3rnk1/ppp1qNp1/7p/4b3/5Q2/1B6/PP4PP/5RK1 w - - 0 1
- |  r3rnk1/ppp1qNp1/7p/2P1b3/3P1Q2/1B6/PP4PP/5RK1 w - - 0 22
- |
+<img src="https://lichess1.org/export/fen.gif?fen=r3rnk1/ppp1qNp1/7p/2P1b3/3P1Q2/1B6/PP4PP/5RK1 w - - 0 22" style="
+    width: 300px;
+">
 
+```
+r3rnk1/ppp1qNp1/7p/2P1b3/3P1Q2/1B6/PP4PP/5RK1 w - - 0 22
+```
 
 
 ```

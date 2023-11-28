@@ -35,9 +35,9 @@ cxd5 26.Bg2 d4 27.Nb5 Qb6 28.Nxa7 Qxa7 29.f4 dxe3 30.fxe5 fxe5
 
 ```
 
-|  |
-| --- |
-|                                                                              ♜    ♜♚ ♛♟   ♟      ♝ ♘♟    ♕    ♙    ♙    ♙♟  ♙      ♗♔♞    ♖   |
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1/qp3p2/4b1Np/4Q3/1P4P1/3Pp2P/6BK/n4R2 b - - 2 32" style="
+    width: 300px;
+">
 
 r4rk1/qp3p2/4b1Np/4Q3/1P4P1/3Pp2P/6BK/n4R2 b - - 2 32
 

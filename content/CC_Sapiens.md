@@ -27,12 +27,12 @@ Yet, we maintain: the discussion, even the confrontation is helpful and conduciv
 
 The first one of Botvinnik's *Three Positions* <a id="cite-note-8" href="#cite-ref-8">[8]</a> and most criticized analysis is from the [Garry Kasparov](Garry_Kasparov "Garry Kasparov") vs. [Zoltán Ribli](https://en.wikipedia.org/wiki/Zolt%C3%A1n_Ribli) game <a id="cite-note-9" href="#cite-ref-9">[9]</a>, [Skellefteå](https://en.wikipedia.org/wiki/Skellefte%C3%A5) [World Cup 1989](https://en.wikipedia.org/wiki/1989_in_chess#Grandmasters_Association_World_Cup) <a id="cite-note-10" href="#cite-ref-10">[10]</a>, after 26.Rxb5 Bxe3 <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>:
 
-|  |
-| --- |
-|                                                                                    ♜♚      ♟♟♟♟ ♕ ♟    ♖      ♛           ♝ ♙ ♙  ♖♙♙ ♙      ♔  |
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1/5ppp/p1Q1p3/1R6/q7/4b1P1/P2RPP1P/6K1 w - -" style="
+    width: 300px;
+">
 
-```C++
-5rk1/5ppp/p1Q1p3/1R6/q7/4b1P1/P2RPP1P/6K1 w - - 
+```
+5rk1/5ppp/p1Q1p3/1R6/q7/4b1P1/P2RPP1P/6K1 w - -
 
 ```
 

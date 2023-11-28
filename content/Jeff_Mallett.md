@@ -21,29 +21,6 @@ Jeff Mallett proposed [Minichess](https://en.wikipedia.org/wiki/Minichess) varia
 In *Mallett Chess* two white knight play against two black bishops <a id="cite-note-5" href="#cite-ref-5">[5]</a>. Of course, both setups could be played with [Zillions of Games](Zillions_of_Games "Zillions of Games").
 
 
-
-
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| 
-
-|  |
-| --- |
-|                  ♜♝♚♛♝♟♟♟♟♟     ♙♙♙♙♙♖♘♔♕♘ |
-
- | 
-
-|  |
-| --- |
-|                               ♜♝♛♚♝♜♟♟♟♟♟♟            ♙♙♙♙♙♙♖♘♕♔♘♖ |
-
- |
-|  Mallett 5x5 Chess
- |  Mallett 6x6 Chess
- |
-
-
 ## Forum Posts
 
 

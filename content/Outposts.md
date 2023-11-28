@@ -7,19 +7,19 @@ title: Outposts
 
 
 
-|  |  |  |
-| --- | --- | --- |
-| **Outposts**,a chess term most often related to [knights](Knight "Knight") in the center or on the opponent's half of the board, defended by an own [pawn](Pawn "Pawn"), and either no longer attackable by opponent pawns at all, or otherwise, provoking to weaken an opponent pawn on a [half-open file](Half-open_File "Half-open File") no longer "Biting on Granite" <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
- | 
 
-|  |
-| --- |
-|                                                                           ♜    ♜♚ ♟♟♟  ♟♟♟   ♟  ♞             ♙     ♘     ♙♙♙  ♙♙♙  ♔♖♖    |
+**Outposts**,a chess term most often related to [knights](Knight "Knight") in the center or on the opponent's half of the board, defended by an own [pawn](Pawn "Pawn"), and either no longer attackable by opponent pawns at all, or otherwise, provoking to weaken an opponent pawn on a [half-open file](Half-open_File "Half-open File") no longer "Biting on Granite" <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
- |
-|  The mighty outpost Nd5! <a id="cite-note-2" href="#cite-ref-2">[2]</a>
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1/ppp2ppp/3p2n1/8/4P3/2N5/PPP2PPP/2KRR3 w - -" style="
+    width: 300px;
+">
+
+```
+The mighty outpost Nd5! <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 r4rk1/ppp2ppp/3p2n1/8/4P3/2N5/PPP2PPP/2KRR3 w - -
- |
+
+```
+
 
 
 ## Occupying Holes

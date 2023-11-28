@@ -3,18 +3,9 @@ title: Faker
 ---
 **[Home](Home "Home") * [Evaluation](Evaluation "Evaluation") * [Pawn Structure](Pawn_Structure "Pawn Structure") * Faker**
 
-|  |  |  |
-| --- | --- | --- |
-| **Faker**,
+
+**Faker**,
 a "faked" [candidate](Candidate_Passed_Pawn "Candidate Passed Pawn") with more opponent [sentries](Sentry "Sentry") than own helpers <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The opponent sentries control the [stop square](Stop_Square "Stop Square") (or tele-stop) of the faker, while the helpers defend the appropriate squares. If the number of helpers becomes equal (for instance due to a pawn-capture) the faker becomes a real candidate. A faker should not receive a candidate bonus, but is not that bad as a [backward pawn](Backward_Pawn "Backward Pawn"). Also two opponent sentries which control the same stop square, leave a [hole](Holes "Holes") between both sentries, which might be considered elsewhere.
-|
-
-|  |
-| --- |
-|                                                                                                  ♚         ♟ ♟      •       ♙♙                           ♔ |
-
-|
-| Faker on c4, two sentries, but only one helper |
 
 ## See also
 

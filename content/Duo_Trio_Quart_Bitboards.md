@@ -42,10 +42,6 @@ U64 pawnsWithEastNeighbors(U64 pawns) {
 
 ```
 
-|  |
-| --- |
-|                                                                                                                            ♙♙♙                  ♙♙          |
-
 ```C++
 
 pawns               pawns with east     pawns with west     pawns with east

@@ -36,11 +36,15 @@ In collaboration with [Albrecht Heeffer](Albrecht_Heeffer "Albrecht Heeffer"), H
 - [Chess Classic: Rybka wins Chess960 Computer World Championship](http://www.chessbase.com/newsdetail.asp?newsid=5634) from [ChessBase News](ChessBase "ChessBase"), August 02, 2009
 - [Djaja study: how humans and computers solved it](http://www.chessbase.com/newsdetail.asp?newsid=5695) from [ChessBase News](ChessBase "ChessBase") August 19, 2009
 
-|  |
-| --- |
-|                                                                                              ♖ ♙  ♚    ♜            ♘ ♙♜       ♟              ♔         |
+<img src="https://lichess1.org/export/fen.gif?fen=6R1/P2k4/r7/5N1P/r7/p7/7K/8 w - -" style="
+    width: 300px;
+">
 
-## 6R1/P2k4/r7/5N1P/r7/p7/7K/8 w - - References
+```
+6R1/P2k4/r7/5N1P/r7/p7/7K/8 w - -
+```
+
+## References
 
 1. <a id="cite-ref-1" href="#cite-note-1">↑</a> from the Photo Composition of the Participants, [DOCCC 1999](DOCCC_1999 "DOCCC 1999"), [Dutch Open Computer Chess Championship 1999](http://old.csvn.nl/docc99.html) old [CSVN](CSVN "CSVN") site
 1. <a id="cite-ref-2" href="#cite-note-2">↑</a> [Hans Secelle - LinkedIn](https://www.linkedin.com/in/hans-secelle-299622b/)

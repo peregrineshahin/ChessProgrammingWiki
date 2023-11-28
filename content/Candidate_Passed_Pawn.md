@@ -3,20 +3,12 @@ title: Candidate Passed Pawn
 ---
 **[Home](Home "Home") * [Evaluation](Evaluation "Evaluation") * [Pawn Structure](Pawn_Structure "Pawn Structure") * Candidate Passed Pawn**
 
-|  |  |  |
-| --- | --- | --- |
-| **Candidate passed pawn**,
+
+**Candidate passed pawn**,
 a [pawn](Pawn "Pawn") on a [half-open file](Half-open_File "Half-open File"), which, if the board had only pawns on it, would eventually become a [passed pawn](Passed_Pawn "Passed Pawn") by moving forward. Whereas this definition is obvious for a human, in a form presented above it would require no less than a separate [recursive](Recursion "Recursion") search routine. For that reason, computers have to use approximations of that rule.
 One possibility is to define a pawn as a candidate, if no square on its path is controlled by more enemy pawns than own pawns. However, this simple heuristics rules out an early recognition of a candidate passed pawns. For example with white pawns on a4 and b5 and black pawn on a7, the b5 pawn would be viewed as a candidate passer only after a4-a5.
-|
 
-|  |
-| --- |
-|                                                                                                 ♟               ♙♙   ♟♟♟             ♙ ♙                 |
-
-|
-|  White and Black candidates (b5, g5)
-|
+White and Black candidates (b5, g5)
 
 ## See also
 

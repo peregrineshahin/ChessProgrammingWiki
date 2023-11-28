@@ -5,11 +5,13 @@ title: Behting Study
 
 The study by [Kārlis Bētiņš](https://en.wikipedia.org/wiki/K%C4%81rlis_B%C4%93ti%C5%86%C5%A1) (Carl Behting), first published in the magazine [Bohemia](<https://en.wikipedia.org/wiki/Bohemia_(newspaper)>) in 1906 <a id="cite-note-1" href="#cite-ref-1">[1]</a>.
 
-|  |
-| --- |
-|                                                                                                               ♟   ♔♘♘ ♚  ♟    ♟           ♙  ♟          |
+<img src="https://lichess1.org/export/fen.gif?fen=8/8/7p/3KNN1k/2p4p/8/3P2p1/8 w - -" style="
+    width: 300px;
+">
 
+```
 8/8/7p/3KNN1k/2p4p/8/3P2p1/8 w - - ; bm Kc6
+```
 
 ## Forum Posts
 
