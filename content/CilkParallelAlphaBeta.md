@@ -20,7 +20,6 @@ The keyword "**cilk**" defines a function which can [spawned](https://en.wikiped
 This is how an [alpha-beta](Alpha-Beta "Alpha-Beta") search routine was implemented with Cilk-5 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, using the five keywords **cilk**, **spawn**, **sync**, **inlet** and **abort**:
 
 ```C++
-
 cilk int search( position *prev, int move, int depth ) {
    position cur; int bestscore = -oo, num_moves, mv, sc, cutoff = false;
   
@@ -61,24 +60,20 @@ cilk int search( position *prev, int move, int depth ) {
 
 by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeveen") after [WCCC 1999](WCCC_1999 "WCCC 1999") <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```C++
-Actually the big professor who has written so many books that i have in my possession was there too: [Leiserson](Charles_Leiserson "Charles Leiserson"). Lucky i could exchange a few words during the game with him. 
+```C++Actually the big professor who has written so many books that i have in my possession was there too: [Leiserson](Charles_Leiserson "Charles Leiserson"). Lucky i could exchange a few words during the game with him. 
 
 ```
 
-```C++
-Cilk really is a very promising language. In contradiction to all my big efforts to parallellize [DIEP](Diep "Diep"), writing in Cilk this goes a lot simpler. Regrettably when starting the parallel version of DIEP, there was no port of CILK to windows (the first demand for something is that it must work both in windows and linux before i can use it; interface is of course something different) otherwise i might have done better in paderborn. 
+```C++Cilk really is a very promising language. In contradiction to all my big efforts to parallellize [DIEP](Diep "Diep"), writing in Cilk this goes a lot simpler. Regrettably when starting the parallel version of DIEP, there was no port of CILK to windows (the first demand for something is that it must work both in windows and linux before i can use it; interface is of course something different) otherwise i might have done better in paderborn. 
 
 ```
 
-```C++
-Anyone who still must start his parallel project here gets a free tip from me:
+```C++Anyone who still must start his parallel project here gets a free tip from me:
 Don't go fiddle with difficult parallellization, simply use CILK, let that language handle the parallellism and keep only busy making a good program!
 
 ```
 
-```C++
-The alternative to Cilk is years of bugfixing the parallel code. 
+```C++The alternative to Cilk is years of bugfixing the parallel code. 
 
 ```
 

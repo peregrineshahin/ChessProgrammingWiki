@@ -23,20 +23,17 @@ Beside research on [games](Games "Games"), search algorithms and [parallel searc
 
 
 
-```C++
-My time at [Waterloo](University_of_Waterloo "University of Waterloo") greatly benefited from the presence of [Ron Hansen](Ron_Hansen "Ron Hansen"). He was author of [Ribbit](Ribbit "Ribbit") (later called [Treefrog](Treefrog "Treefrog")), one of the strongest chess programs around. He generously gave me a copy of his program, which I used to learn how to write a chess program... Hansen's program was written in a computer programming language called [Fortran](Fortran "Fortran"). For my master's thesis, I translated it into the Z programming language (similar to the well known [C](C "C") programming language). 
+```C++My time at [Waterloo](University_of_Waterloo "University of Waterloo") greatly benefited from the presence of [Ron Hansen](Ron_Hansen "Ron Hansen"). He was author of [Ribbit](Ribbit "Ribbit") (later called [Treefrog](Treefrog "Treefrog")), one of the strongest chess programs around. He generously gave me a copy of his program, which I used to learn how to write a chess program... Hansen's program was written in a computer programming language called [Fortran](Fortran "Fortran"). For my master's thesis, I translated it into the Z programming language (similar to the well known [C](C "C") programming language). 
 
 ```
 
 
-```C++
-Everything I read about chess programs convinced me that they were ignorant; they had little in the way of chess knowledge. Of course, since I knew a lot about chess, it would be a simple matter of translating my expertise into code and voilà, success! I spent a year working on the program, adding as much knowledge as I could to it. The new program, dubbed [Planner](Planner "Planner"), failed to live up to my performance expectations. Gradually my enthusiasm began to wave. The chess knowledge that I had added was simple because important concepts seemed hard to program. The machine required a precise specification but my chess knowledge was imprecise. Further, for every piece of knowledge  that I added, there always seemed to be an endless stream of exceptions. This was going to be harder  than I thought.
+```C++Everything I read about chess programs convinced me that they were ignorant; they had little in the way of chess knowledge. Of course, since I knew a lot about chess, it would be a simple matter of translating my expertise into code and voilà, success! I spent a year working on the program, adding as much knowledge as I could to it. The new program, dubbed [Planner](Planner "Planner"), failed to live up to my performance expectations. Gradually my enthusiasm began to wave. The chess knowledge that I had added was simple because important concepts seemed hard to program. The machine required a precise specification but my chess knowledge was imprecise. Further, for every piece of knowledge  that I added, there always seemed to be an endless stream of exceptions. This was going to be harder  than I thought.
 
 ```
 
 
-```C++
-I finished my master's thesis, titled *Long Range Planning in Computer Chess*, and graduated in 1980. <a id="cite-note-8" href="#cite-ref-8">[8]</a> 
+```C++I finished my master's thesis, titled *Long Range Planning in Computer Chess*, and graduated in 1980. <a id="cite-note-8" href="#cite-ref-8">[8]</a> 
 
 ```
 
@@ -48,8 +45,7 @@ I finished my master's thesis, titled *Long Range Planning in Computer Chess*, a
 
 
 
-```C++
-If I was going to create a world champion chess program I would need help. I advertised around the Department of Computer Science and was fortunate to find [Howard Johnson](J._Howard_Johnson "J. Howard Johnson"), a fellow Ph.D. student, who was as enthusiastic about computer chess as I was. The summer of 1981 was spent writing a new program that we called [Prodigy](Prodigy "Prodigy"). Howard wrote the control part of the program, and I put in the chess knowledge. We entered it at in the [1981 North American Computer Chess Championship](ACM_1981 "ACM 1981"). Against the best programs in the world, we fared poorly. The program exhibited moments of brilliance, only to come crashed down in every contest. We lost every game and finished dead last. I was bitterly disappointed. My enthusiasm for computer chess disappeared abruptly on the last day of the tournament, and Prodigy never played again. 
+```C++If I was going to create a world champion chess program I would need help. I advertised around the Department of Computer Science and was fortunate to find [Howard Johnson](J._Howard_Johnson "J. Howard Johnson"), a fellow Ph.D. student, who was as enthusiastic about computer chess as I was. The summer of 1981 was spent writing a new program that we called [Prodigy](Prodigy "Prodigy"). Howard wrote the control part of the program, and I put in the chess knowledge. We entered it at in the [1981 North American Computer Chess Championship](ACM_1981 "ACM 1981"). Against the best programs in the world, we fared poorly. The program exhibited moments of brilliance, only to come crashed down in every contest. We lost every game and finished dead last. I was bitterly disappointed. My enthusiasm for computer chess disappeared abruptly on the last day of the tournament, and Prodigy never played again. 
 
 ```
 
@@ -64,8 +60,7 @@ If I was going to create a world champion chess program I would need help. I adv
 
 
 
-```C++
-My Ph.D. was not going well, so in the summer of 1982 I started looking for a distraction. Yes, I started writing yet another chess program, this one called [Phoenix](Phoenix "Phoenix") (it rose from the ashes of Prodigy). The Planner and Prodigy experiences were invaluable, as they convinced me that contrary to all my expectations, lots of chess knowledge didn't work. Which programs were winning the tournaments? The ones with little knowledge, but with the ability to consider an enormous number of chess positions. With a twinge to regret, I wrote Phoenix to mimic these "dumb" programs. The results were immediate. Phoenix didn't know nearly as much about chess as Prodigy did, but it would continually beat it game after game. Obviously, my old approach, imparting human knowledge to an inanimate machine, wasn't the best way to train a computer to play strong chess. 
+```C++My Ph.D. was not going well, so in the summer of 1982 I started looking for a distraction. Yes, I started writing yet another chess program, this one called [Phoenix](Phoenix "Phoenix") (it rose from the ashes of Prodigy). The Planner and Prodigy experiences were invaluable, as they convinced me that contrary to all my expectations, lots of chess knowledge didn't work. Which programs were winning the tournaments? The ones with little knowledge, but with the ability to consider an enormous number of chess positions. With a twinge to regret, I wrote Phoenix to mimic these "dumb" programs. The results were immediate. Phoenix didn't know nearly as much about chess as Prodigy did, but it would continually beat it game after game. Obviously, my old approach, imparting human knowledge to an inanimate machine, wasn't the best way to train a computer to play strong chess. 
 
 ```
 
@@ -77,14 +72,12 @@ My Ph.D. was not going well, so in the summer of 1982 I started looking for a di
 
 
 
-```C++
-At the invitation of [Tony Marsland](Tony_Marsland "Tony Marsland"), one of the major players on the computer chess scene, I moved to the [University of Alberta](University_of_Alberta "University of Alberta"), in Edmonton, to complete my degree. He arranged for me to teach as a lecturer at the university while I worked on my thesis part-time. By mid 1985 the thesis was done, although I didn't graduate until 1986. The thesis, *Experiments in Search and Knowledge* <a id="cite-note-12" href="#cite-ref-12">[12]</a>, became an important work in the area, and allowed me to get an assistant professorship at the University of Alberta starting in 1985. 
+```C++At the invitation of [Tony Marsland](Tony_Marsland "Tony Marsland"), one of the major players on the computer chess scene, I moved to the [University of Alberta](University_of_Alberta "University of Alberta"), in Edmonton, to complete my degree. He arranged for me to teach as a lecturer at the university while I worked on my thesis part-time. By mid 1985 the thesis was done, although I didn't graduate until 1986. The thesis, *Experiments in Search and Knowledge* <a id="cite-note-12" href="#cite-ref-12">[12]</a>, became an important work in the area, and allowed me to get an assistant professorship at the University of Alberta starting in 1985. 
 
 ```
 
 
-```C++
-As a professor I was free to research what I wanted, as long as I produced scientific papers. What a deal! I could work full-time on my chess program and get paid to do it. Surely this was the ultimate job. 
+```C++As a professor I was free to research what I wanted, as long as I produced scientific papers. What a deal! I could work full-time on my chess program and get paid to do it. Surely this was the ultimate job. 
 
 ```
 
@@ -96,8 +89,7 @@ Jonathan Schaeffer on [Zobrist Hashing](Zobrist_Hashing "Zobrist Hashing") <a id
 
 
 
-```C++
-... I can speak from experience here. In the early versions of my chess program [Phoenix](Phoenix "Phoenix"), I generated my Zobrist hash numbers using my student id number as a seed, naively thinking the random numbers generated by this seed would be good enough. A few years later I put code in to detect when my 32-bit hash key matched the wrong position. To my surprise, there were **lots** of errors. I changed my seed to another number and the error rate dropped dramatically. With this better seed, it became very, very rare to see a hash error. All randomly generated numbers are not the same! 
+```C++... I can speak from experience here. In the early versions of my chess program [Phoenix](Phoenix "Phoenix"), I generated my Zobrist hash numbers using my student id number as a seed, naively thinking the random numbers generated by this seed would be good enough. A few years later I put code in to detect when my 32-bit hash key matched the wrong position. To my surprise, there were **lots** of errors. I changed my seed to another number and the error rate dropped dramatically. With this better seed, it became very, very rare to see a hash error. All randomly generated numbers are not the same! 
 
 ```
 
@@ -109,8 +101,7 @@ Jonathan Schaeffer on [Zobrist Hashing](Zobrist_Hashing "Zobrist Hashing") <a id
 
 
 
-```C++
-I worked hard on Phoenix in preparation of the triennial [World Computer Chess Championship in 1986](WCCC_1986 "WCCC 1986"). To improve the program's performance it was modified to run in [parallel](Parallel_Search "Parallel Search"), using up to thirty computers. They would divide up the work, and each computer would solve part of the problem. In effect, the program was like a small business organization, with a manager to allocate work and employees to do the assigned tasks. The hard work payed off, Phoenix tied for first place in the world championship. I partied late into the night after the final game, intoxicated with success and Coca-Cola. It took a long time for me to come down from my high. 
+```C++I worked hard on Phoenix in preparation of the triennial [World Computer Chess Championship in 1986](WCCC_1986 "WCCC 1986"). To improve the program's performance it was modified to run in [parallel](Parallel_Search "Parallel Search"), using up to thirty computers. They would divide up the work, and each computer would solve part of the problem. In effect, the program was like a small business organization, with a manager to allocate work and employees to do the assigned tasks. The hard work payed off, Phoenix tied for first place in the world championship. I partied late into the night after the final game, intoxicated with success and Coca-Cola. It took a long time for me to come down from my high. 
 
 ```
 
@@ -122,8 +113,7 @@ Jonathan Schaeffer on *The Role of Chess in [Artificial Intelligence](Artificial
 
 
 
-```C++
-Sadly, most of the work currently being done on computer chess programs is engineering, not science. For example, the engineering of special-purpose VLSI chips to increase the speed of a chess program only underlines the importance chess programmers attach to speed. In my opinion, conventional computer-chess methods will yield little of further interest to the AI community. 
+```C++Sadly, most of the work currently being done on computer chess programs is engineering, not science. For example, the engineering of special-purpose VLSI chips to increase the speed of a chess program only underlines the importance chess programmers attach to speed. In my opinion, conventional computer-chess methods will yield little of further interest to the AI community. 
 
 ```
 

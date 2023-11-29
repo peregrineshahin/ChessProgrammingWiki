@@ -18,8 +18,7 @@ after winning the [Fredkin Intermediate Prize](Edward_Fredkin#Prize "Edward Fred
 
 [Eval Tuning in Deep Thought](Eval_Tuning_in_Deep_Thought "Eval Tuning in Deep Thought"), quote by [Tim Mann](Tim_Mann "Tim Mann") <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
-```C++
-Andreas Nowatzyk was one of the contributors to the [Deep Thought](Deep_Thought "Deep Thought") project while he was in grad school. A few years ago when he and I were both working for Compaq's research labs in Palo Alto, Andreas sent me a copy of Deep Thought's evaluation function tuning program and asked me to put it on the Web for him, since he no longer has an interest in computer chess. 
+```C++Andreas Nowatzyk was one of the contributors to the [Deep Thought](Deep_Thought "Deep Thought") project while he was in grad school. A few years ago when he and I were both working for Compaq's research labs in Palo Alto, Andreas sent me a copy of Deep Thought's evaluation function tuning program and asked me to put it on the Web for him, since he no longer has an interest in computer chess. 
 
 ```
 

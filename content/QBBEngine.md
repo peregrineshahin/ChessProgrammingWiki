@@ -20,7 +20,6 @@ The program performs a color agnostic [move generation](Move_Generation "Move Ge
 
 
 ```C++
-
 /*
 Board structure definition
 
@@ -213,7 +212,6 @@ The [board-definition](Bitboard_Board-Definition "Bitboard Board-Definition") wi
 
 
 ```C++
-
 P2     RQK        P1    NB  K       P0   P B Q         PM side to move
 1 . . 1 1 . . 1   . 1 1 . 1 1 1 .   . . 1 1 . 1 . .    . . . . . . . .
 . . . . . . . .   . . . . . . . .   1 1 1 1 1 1 1 1    . . . . . . . .

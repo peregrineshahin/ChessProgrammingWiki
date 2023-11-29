@@ -23,7 +23,6 @@ The general form of a VAX instruction ...
 
 
 ```C++
-
 opcode [ operand ] [ operand ] ...
 
 ```

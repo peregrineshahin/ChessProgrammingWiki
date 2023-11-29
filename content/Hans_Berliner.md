@@ -36,8 +36,7 @@ Hans Berliner and [Carl Ebeling](Carl_Ebeling "Carl Ebeling"), developers of [Hi
 
 Quote by [James Gillogly](James_Gillogly "James Gillogly") on Berliner's [Technology Program](Tech "Tech") contribution <a id="cite-note-10" href="#cite-ref-10">[10]</a>:
 
-```C++
-Acknowledgements: I am indebted to Hans Berliner, World Correspondence Chess Champion, who developed the elegant techniques used in the positional analysis, and whose patient discussion helped to clarify many of the conceptional problems. The basic idea of the [Technology Program](Tech "Tech") is due in large part to [Allen Newell](Allen_Newell "Allen Newell"). 
+```C++Acknowledgements: I am indebted to Hans Berliner, World Correspondence Chess Champion, who developed the elegant techniques used in the positional analysis, and whose patient discussion helped to clarify many of the conceptional problems. The basic idea of the [Technology Program](Tech "Tech") is due in large part to [Allen Newell](Allen_Newell "Allen Newell"). 
 
 ```
 
@@ -45,15 +44,13 @@ Acknowledgements: I am indebted to Hans Berliner, World Correspondence Chess Cha
 
 Quote by [Alex Bell](Alex_Bell "Alex Bell") from his report on [Advances in Computer Chess 1](Advances_in_Computer_Chess_1 "Advances in Computer Chess 1") <a id="cite-note-11" href="#cite-ref-11">[11]</a>:
 
-```C++
-A number of experts were invited to give papers. on their work, including [Dr Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") of the USSR, one of the authors of the world champion program, [KAISSA](Kaissa "Kaissa"). Unfortunately Donskoy was unable to attend, a disappointment only mitigated by the presence from the US of Dr Hans Berliner, of [Carnegie-Mellon](Carnegie_Mellon_University "Carnegie Mellon University"). Berliner is the world correspondence chess champion and has also spent the last eight or nine years programming computers to play the game. To most people in the practical, model building side of the subject, ie making a program play the computer game, Berliner is THE expert. Although full of good, implementable ideas he has no illusions as to the limitations of such chess programs.
+```C++A number of experts were invited to give papers. on their work, including [Dr Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy") of the USSR, one of the authors of the world champion program, [KAISSA](Kaissa "Kaissa"). Unfortunately Donskoy was unable to attend, a disappointment only mitigated by the presence from the US of Dr Hans Berliner, of [Carnegie-Mellon](Carnegie_Mellon_University "Carnegie Mellon University"). Berliner is the world correspondence chess champion and has also spent the last eight or nine years programming computers to play the game. To most people in the practical, model building side of the subject, ie making a program play the computer game, Berliner is THE expert. Although full of good, implementable ideas he has no illusions as to the limitations of such chess programs.
 --
 The conference itself lasted one and a half days and the papers (depending on the listener) ranged from the profound to the puerile. I have no desire to repeat my own personal views, indeed as one of the organisers I helped to provide a platform for speakers whose views I found astonishing. What did seem evident to me was that the majority of the audience fell into one of three categories. One group is the artificial intelligentsia. They fully understand the difficulties of the problem and are still thinking about how to solve it. The second group are the let's get on and program something crunchers, the model makers, the people who can make big computers float round the room whistling God save the Queen. These people absolutely refuse to put anything remotely resembling knowledge, chess or otherwise, into their programs if they can avoid it, believing that if the result plays good chess then it can be more easily adapted to attempt other, more useful, decision making problems. The third group is the most important, these are the people who are new to the subject, the people who say, It sounds like a fascinating problem and I'd like to know what's going on.
 
 ```
 
-```C++
-Hans Berliner fits into two of these categories, his talk covered the AI approach and the crunchers, but he is hardly a newcomer. He was the first speaker and the domain of his talk was chess tactics with emphasis on recognising situations and dealing with them explicitly. He is full of good ideas and techniques which are relevant to the problem of selecting the right move in a game of chess and, more important, showed clearly how each idea and technique could be implemented in a computer. 
+```C++Hans Berliner fits into two of these categories, his talk covered the AI approach and the crunchers, but he is hardly a newcomer. He was the first speaker and the domain of his talk was chess tactics with emphasis on recognising situations and dealing with them explicitly. He is full of good ideas and techniques which are relevant to the problem of selecting the right move in a game of chess and, more important, showed clearly how each idea and technique could be implemented in a computer. 
 
 ```
 
@@ -61,8 +58,7 @@ Hans Berliner fits into two of these categories, his talk covered the AI approac
 
 Hans Berliner about his role in the [HiTech](HiTech "HiTech") team <a id="cite-note-12" href="#cite-ref-12">[12]</a>:
 
-```C++
-I have been responsible for doing the pattern knowledge and most of the opening book, and acting as moderator for the many fine discussions that we have about how to improve HiTech in the various areas that need work. 
+```C++I have been responsible for doing the pattern knowledge and most of the opening book, and acting as moderator for the many fine discussions that we have about how to improve HiTech in the various areas that need work. 
 
 ```
 

@@ -29,7 +29,6 @@ The following [C](C "C")-routine performs the computation. One may use the menti
 
 
 ```C++
-
 int manhattanDistance(int sq1, int sq2) {
    int file1, file2, rank1, rank2;
    int rankDistance, fileDistance;
@@ -53,7 +52,6 @@ Since the computation is relative expensive, often two dimensional tables with p
 
 
 ```C++
-
 unsigned char arrManhattanDistance[64][64]; // 4 KByte
 
 inline int manhattanDistance(enumSquare sq1, enumSquare sq2) {
@@ -71,7 +69,6 @@ The [0x88](0x88 "0x88") [square relation](0x88#SquareRelations "0x88") permits a
 
 
 ```C++
-
 unsigned char arrManhattanDistanceBy0x88Diff[240];
 
 unsigned int x88diff(enumSquare sq1, enumSquare sq2) {

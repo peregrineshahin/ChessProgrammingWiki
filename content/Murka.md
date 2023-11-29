@@ -24,7 +24,6 @@ However, on [x86-64](X86-64 "X86-64") for scalar integers with appropriate reduc
 
 
 ```C++
-
 ##ifdef _M_X64
 inline uint8 LSB(BitBoard b) // Least Significant Bit
 {

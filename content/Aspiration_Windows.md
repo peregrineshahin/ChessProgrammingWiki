@@ -10,22 +10,19 @@ title: Aspiration Windows
 
 Some programs, such as [Crafty](Crafty "Crafty"), also use a gradual widening on re-searches. For instance, if the window is, in pawns:
 
-```C++
-[g - 1/4, g + 1/4]
+```C++[g - 1/4, g + 1/4]
 
 ```
 
 and the search fails high, the next search would be
 
-```C++
-[g - 1/4, g + 1]
+```C++[g - 1/4, g + 1]
 
 ```
 
 It's important to note that the bound that didn't fail is unchanged. In a basic alpha-beta without [search instability](Search_Instability "Search Instability"), one could have done the next search on
 
-```C++
-[g + 1/4, g + 1]
+```C++[g + 1/4, g + 1]
 
 ```
 

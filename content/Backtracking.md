@@ -33,7 +33,6 @@ Unfortunately, [looking for magics](Looking_for_Magics "Looking for Magics") to 
 The sample [C](C "C") code demonstrates an [iterative solution](Iteration "Iteration") using [arrays](Array "Array") as explicit [stacks](Stack "Stack") on the stack:
 
 ```C++
-
 typedef unsigned char U8;
 
 /**
@@ -124,7 +123,6 @@ The algorithm backtracks all [92 distinct Eight queen solutions](https://en.wiki
 The declaration of the north attack array to save a byte-wise [bitscan](BitScan "BitScan"), and for convenience the print routine used:
 
 ```C++
-
 /**
  * north | nw | ne attacks of a queen on the 1. rank
  *
@@ -180,7 +178,6 @@ void print8Q( unsigned char q8[] ) {
 A very short and therefor slightly obfuscated, but elegant and tricky general backtracker in enumerating N Queen solutions is given by [Marcel van Kervinck](Marcel_van_Kervinck "Marcel van Kervinck") in two lines of [C](C "C") code, Version 2, 1996 <a id="cite-note-7" href="#cite-ref-7">[7]</a>, [Bit-Twiddling](Bit-Twiddling "Bit-Twiddling") as its best:
 
 ```C++
-
 t(a,b,c){int d=0,e=a&~b&~c,f=1;if(a)for(f=0;e-=d,d=e&-e;f+=t(a-d,(b+d)*2,(
 c+d)/2));return f;}main(q){scanf("%d",&q);printf("%d\n",t(~(~0<<q),0,0));}
 
@@ -191,7 +188,6 @@ c+d)/2));return f;}main(q){scanf("%d",&q);printf("%d\n",t(~(~0<<q),0,0));}
 As mentioned by Marcel van Kervinck, a similar 8 Queen program was introduced by Tony Lezard in 1991 <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
 ```C++
-
 static int count = 0;
 
 void try(int row, int left, int right) {

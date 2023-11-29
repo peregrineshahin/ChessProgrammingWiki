@@ -16,8 +16,7 @@ At the Conference on Information theory, September 26-29, 1950 in [London](https
 
 Quote by [Alan Turing](Alan_Turing "Alan Turing") on Slater's paper <a id="cite-note-9" href="#cite-ref-9">[9]</a> :
 
-```C++
-I wish to make two points concerning Dr. Slater's paper. I was greatly interested by the statistics provided, but fear that some people might draw invalid conclusions from them. It might for instance be thought that a good way of playing is to maximize one's mobility at one's next move, or perhaps to minimize that of one's opponent at his next move but one. It is evidently not feasible to foresee mobilities many moves ahead. Although the immediate mobility is a useful measure of the relative advantage of the players in normal play it by no means follows that it is wise to direct one's play to maximizing such a measure. To do so would be like taking a statistical analysis of the laundry of men in various positions and deciding, from the data collected, that an infallible method of getting ahead in life was to send a large number of shirts to the wash each week. 
+```C++I wish to make two points concerning Dr. Slater's paper. I was greatly interested by the statistics provided, but fear that some people might draw invalid conclusions from them. It might for instance be thought that a good way of playing is to maximize one's mobility at one's next move, or perhaps to minimize that of one's opponent at his next move but one. It is evidently not feasible to foresee mobilities many moves ahead. Although the immediate mobility is a useful measure of the relative advantage of the players in normal play it by no means follows that it is wise to direct one's play to maximizing such a measure. To do so would be like taking a statistical analysis of the laundry of men in various positions and deciding, from the data collected, that an infallible method of getting ahead in life was to send a large number of shirts to the wash each week. 
 
 ```
 
@@ -25,8 +24,7 @@ I wish to make two points concerning Dr. Slater's paper. I was greatly intereste
 
 Eliot Slater in reply <a id="cite-note-10" href="#cite-ref-10">[10]</a>:
 
-```C++
-Dr. Turing's argument by analogy what a naive laundry worker might conclude about ways of becoming rich really amounts to the suggestion that strategic advantage is the cause rather than the product of an advantage in mobility. I do not think that this can be accepted. An advantage in mobility usually appears in a game a number of moves before strategic advantage is detectable in other ways; it seems to be an essential aspect of what chess-players understand by "development"; and it supplies the decisive criterion of winning or losing. 
+```C++Dr. Turing's argument by analogy what a naive laundry worker might conclude about ways of becoming rich really amounts to the suggestion that strategic advantage is the cause rather than the product of an advantage in mobility. I do not think that this can be accepted. An advantage in mobility usually appears in a game a number of moves before strategic advantage is detectable in other ways; it seems to be an essential aspect of what chess-players understand by "development"; and it supplies the decisive criterion of winning or losing. 
 
 ```
 
@@ -34,13 +32,11 @@ Dr. Turing's argument by analogy what a naive laundry worker might conclude abou
 
 [The British Journal of Psychiatry](https://en.wikipedia.org/wiki/British_Journal_of_Psychiatry) (2008) <a id="cite-note-11" href="#cite-ref-11">[11]</a>:
 
-```C++
-Eliot Slater is best known for his seminal applications of rigorous basic statistical and genetic research methodologies to the study of mental health problems and for demonstrating that [temporal lobe epilepsy](https://en.wikipedia.org/wiki/Temporal_lobe_epilepsy) was associated with [schizophrenia](https://en.wikipedia.org/wiki/Schizophrenia)-like [psychoses](https://en.wikipedia.org/wiki/Psychosis). Yet strong literary interests and associations ran through his life. He married Lydia Pasternak, the sister of the Russian poet and novelist, and was himself a published poet.
+```C++Eliot Slater is best known for his seminal applications of rigorous basic statistical and genetic research methodologies to the study of mental health problems and for demonstrating that [temporal lobe epilepsy](https://en.wikipedia.org/wiki/Temporal_lobe_epilepsy) was associated with [schizophrenia](https://en.wikipedia.org/wiki/Schizophrenia)-like [psychoses](https://en.wikipedia.org/wiki/Psychosis). Yet strong literary interests and associations ran through his life. He married Lydia Pasternak, the sister of the Russian poet and novelist, and was himself a published poet.
 
 ```
 
-```C++
-In retirement he undertook and completed a PhD (later published) in which he made a strong case for [Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) as author of an early play of disputed authorship ([Edward III](https://en.wikipedia.org/wiki/Edward_III_%28play%29)) by the use of sophisticated numerical measures ([cliometrics](https://en.wikipedia.org/wiki/Cliometrics)) <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>. He was also an Editor of the British Journal of Psychiatry (1961–1972) who introduced the yellow colour for the cover. 
+```C++In retirement he undertook and completed a PhD (later published) in which he made a strong case for [Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) as author of an early play of disputed authorship ([Edward III](https://en.wikipedia.org/wiki/Edward_III_%28play%29)) by the use of sophisticated numerical measures ([cliometrics](https://en.wikipedia.org/wiki/Cliometrics)) <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>. He was also an Editor of the British Journal of Psychiatry (1961–1972) who introduced the yellow colour for the cover. 
 
 ```
 

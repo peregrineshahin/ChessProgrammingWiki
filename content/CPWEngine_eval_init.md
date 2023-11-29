@@ -8,7 +8,6 @@ Initialization of the evaluation function.This is used once when the program is 
 ## Code
 
 ```C++
-
 ##include "stdafx.h"
 ##include "0x88_math.h"
 

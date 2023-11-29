@@ -16,8 +16,7 @@ In January 2010, Doch evolved to [Komodo](Komodo "Komodo") <a id="cite-note-3" h
 
 Doch is [acronym](Category:Acronym "Category:Acronym") of Don's Chess. Quote from a [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky") interview, December 2009 <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```C++
-Doch was never intended to be the name that would stick. When I first decided to write this program I needed a name and did not want to spend days obsessing over it. I did not want to call it "chess" but it needed a name to give it some personality. Doch stands for DOn's CHess. I never got around to giving it a proper name and I feel a bit immodest calling it after my own name! 
+```C++Doch was never intended to be the name that would stick. When I first decided to write this program I needed a name and did not want to spend days obsessing over it. I did not want to call it "chess" but it needed a name to give it some personality. Doch stands for DOn's CHess. I never got around to giving it a proper name and I feel a bit immodest calling it after my own name! 
 
 ```
 
@@ -26,7 +25,6 @@ Doch was never intended to be the name that would stick. When I first decided to
 Doch was a 64-bit aka [bitboard](Bitboards "Bitboards") program, applying a [Copy-Make](Copy-Make "Copy-Make") approach with a [position](Chess_Position "Chess Position") state of 192 byte allocated on the [stack](Stack "Stack") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```C++
-
 position search( position_state *prev,  ...  )
 {
    position_state  new_position;

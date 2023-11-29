@@ -13,13 +13,11 @@ an American computer scientist affiliated with the [City University of New York]
 
 Quote by Gillian Frasier from *Aron Eisenpress, [CUNY](https://en.wikipedia.org/wiki/City_University_of_New_York)/CIS's Renaissance Man* <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
-```C++
-His work in computing began in the late 1960s when he was a Columbia undergraduate, "hanging out," as he describes it, with friends around the computer center. (Some things don't change. Most academic computer centers still have students hanging around, asking questions about new gadgets and helping out whenever they are allowed to.)
+```C++His work in computing began in the late 1960s when he was a Columbia undergraduate, "hanging out," as he describes it, with friends around the computer center. (Some things don't change. Most academic computer centers still have students hanging around, asking questions about new gadgets and helping out whenever they are allowed to.)
 
 ```
 
-```C++
-Columbia's computer at the time, a [360/91](IBM_360 "IBM 360"), was a huge machine with all of 2M memory. Its operating system was [MVT](https://en.wikipedia.org/wiki/OS/360_and_successors#MVT) with ASP, the precursors of [MVS](https://en.wikipedia.org/wiki/MVS) and [JES3](https://en.wikipedia.org/wiki/JES3) at CUNY/CIS. Most jobs were submitted on [cards](https://en.wikipedia.org/wiki/Punched_card) but there were a few [CRT 2260](https://en.wikipedia.org/wiki/IBM_2260) terminals which could logon to CLEO and CRBE, precursors of our [WYLBUR](https://en.wikipedia.org/wiki/ORVYL_and_WYLBUR). 
+```C++Columbia's computer at the time, a [360/91](IBM_360 "IBM 360"), was a huge machine with all of 2M memory. Its operating system was [MVT](https://en.wikipedia.org/wiki/OS/360_and_successors#MVT) with ASP, the precursors of [MVS](https://en.wikipedia.org/wiki/MVS) and [JES3](https://en.wikipedia.org/wiki/JES3) at CUNY/CIS. Most jobs were submitted on [cards](https://en.wikipedia.org/wiki/Punched_card) but there were a few [CRT 2260](https://en.wikipedia.org/wiki/IBM_2260) terminals which could logon to CLEO and CRBE, precursors of our [WYLBUR](https://en.wikipedia.org/wiki/ORVYL_and_WYLBUR). 
 
 ```
 
@@ -27,8 +25,7 @@ Columbia's computer at the time, a [360/91](IBM_360 "IBM 360"), was a huge machi
 
 [Andrew Koenig](Andrew_Koenig "Andrew Koenig") on the individual roles of [CCCP's](</CCCP_(US)> "CCCP (US)") programming team <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
-```C++
-[I](Andrew_Koenig "Andrew Koenig") designed the overall structure of the program and coded much of the [human interface](User_Interface "User Interface"). [Steve](Steven_M._Bellovin "Steven M. Bellovin") wrote the [tree searching](Search "Search") and [pruning](Pruning "Pruning") routines, [Ben](Ben_Yalow "Ben Yalow") did the [move generation](Move_Generation "Move Generation") and [evaluation routines](Evaluation "Evaluation"), and Aron wrote the part of the human interface that made it possible to [enter moves](Entering_Moves "Entering Moves") at a [2250 display](https://en.wikipedia.org/wiki/IBM_2250) with a [light pen](https://en.wikipedia.org/wiki/Light_pen) ...
+```C++[I](Andrew_Koenig "Andrew Koenig") designed the overall structure of the program and coded much of the [human interface](User_Interface "User Interface"). [Steve](Steven_M._Bellovin "Steven M. Bellovin") wrote the [tree searching](Search "Search") and [pruning](Pruning "Pruning") routines, [Ben](Ben_Yalow "Ben Yalow") did the [move generation](Move_Generation "Move Generation") and [evaluation routines](Evaluation "Evaluation"), and Aron wrote the part of the human interface that made it possible to [enter moves](Entering_Moves "Entering Moves") at a [2250 display](https://en.wikipedia.org/wiki/IBM_2250) with a [light pen](https://en.wikipedia.org/wiki/Light_pen) ...
 
 ```
 

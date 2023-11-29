@@ -30,20 +30,17 @@ J. Biit was a selective search ([Shannon type B](Type_B_Strategy "Type B Strateg
 
 
 
-```C++
-And I wrote a program which actually played chess. And I did it in the way [Greenblatt](Richard_Greenblatt "Richard Greenblatt") said it ought to be done <a id="cite-note-8" href="#cite-ref-8">[8]</a>. It wasn’t anywhere’s near as good a [Greenblatt’s program](Mac_Hack "Mac Hack") and I wasn’t really a very good programmer obviously, since that was the first time I had written a program...
+```C++And I wrote a program which actually played chess. And I did it in the way [Greenblatt](Richard_Greenblatt "Richard Greenblatt") said it ought to be done <a id="cite-note-8" href="#cite-ref-8">[8]</a>. It wasn’t anywhere’s near as good a [Greenblatt’s program](Mac_Hack "Mac Hack") and I wasn’t really a very good programmer obviously, since that was the first time I had written a program...
 
 ```
 
 
-```C++
-So it played. Let’s see, I’ve got to get the timeline right here. Now this was in 1970. Now in 1970 I had already left IBM. I left IBM in 1969, and went to [Carnegie Mellon](Carnegie_Mellon_University "Carnegie Mellon University") as a doctoral student.
+```C++So it played. Let’s see, I’ve got to get the timeline right here. Now this was in 1970. Now in 1970 I had already left IBM. I left IBM in 1969, and went to [Carnegie Mellon](Carnegie_Mellon_University "Carnegie Mellon University") as a doctoral student.
 
 ```
 
 
-```C++
-And, of course, their attraction with [Newell](Allen_Newell "Allen Newell") and [Simon](Herbert_Simon "Herbert Simon") was they would like to find somebody to push their ideas further forward, and that was me. And so I had this program which, in retrospect, was pretty woesome. 
+```C++And, of course, their attraction with [Newell](Allen_Newell "Allen Newell") and [Simon](Herbert_Simon "Herbert Simon") was they would like to find somebody to push their ideas further forward, and that was me. And so I had this program which, in retrospect, was pretty woesome. 
 
 ```
 

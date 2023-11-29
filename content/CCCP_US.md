@@ -12,8 +12,7 @@ the Columbia Computer Chess Program developed by a group of students at [Columbi
 
 [Andrew Koenig](Andrew_Koenig "Andrew Koenig") on the individual roles of the programming team <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
-```C++
-I designed the overall structure of the program and coded much of the [human interface](User_Interface "User Interface"). Steve wrote the [tree searching](Search "Search") and [pruning](Pruning "Pruning") routines, Ben did the [move generation](Move_Generation "Move Generation") and [evaluation routines](Evaluation "Evaluation"), and Aron wrote the part of the human interface that made it possible to [enter moves](Entering_Moves "Entering Moves") at a 2250 display with a [light pen](https://en.wikipedia.org/wiki/Light_pen) ...
+```C++I designed the overall structure of the program and coded much of the [human interface](User_Interface "User Interface"). Steve wrote the [tree searching](Search "Search") and [pruning](Pruning "Pruning") routines, Ben did the [move generation](Move_Generation "Move Generation") and [evaluation routines](Evaluation "Evaluation"), and Aron wrote the part of the human interface that made it possible to [enter moves](Entering_Moves "Entering Moves") at a 2250 display with a [light pen](https://en.wikipedia.org/wiki/Light_pen) ...
 
 ```
 

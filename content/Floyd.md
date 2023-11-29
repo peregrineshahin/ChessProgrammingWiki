@@ -15,7 +15,6 @@ an [UCI](UCI "UCI") compliant [open source chess engine](Category:Open_Source "C
 Floyd uses an [8x8 Board](8x8_Board "8x8 Board"), agnostic to [square indexing](Square_Mapping_Considerations "Square Mapping Considerations"), in the sense that it can be adapted to any of the eight possible board geometries with just a local change <a id="cite-note-4" href="#cite-ref-4">[4]</a> . It uses an [attack table](Attack_and_Defend_Maps "Attack and Defend Maps"), for each side an array of 64 [bytes](Byte "Byte"), with following one- or two-bit attack counters per square ...
 
 ```C++
-
 +-----+-----+-----+-----+-----+-----+-----+-----+
 |   Pawns   |   Minors  |   Rooks   |Queen|King |
 +-----+-----+-----+-----+-----+-----+-----+-----+
@@ -34,7 +33,6 @@ The [search](Search "Search") is a classical [PVS](Principal_Variation_Search "P
 Floyd's [evaluation](Evaluation "Evaluation") employs a vector of feature and weight pairs to calculate a [score](Score "Score") as [weighted sum](https://en.wikipedia.org/wiki/Weighted_sum_model). In conjunction with a draw model <a id="cite-note-5" href="#cite-ref-5">[5]</a> using [sigmoid functions](https://en.wikipedia.org/wiki/Sigmoid_function), the score is mapped to [winning probabilities](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo"), suited for [logistic regression](Automated_Tuning#LogisticRegression "Automated Tuning") tuning.
 
 ```C++
-
 def evaluate(board, wiloVector, drawVector):
         wiloScore = ...snip... // a weighted sum of board features
         drawScore = ...snip... // another weighted sum of board features

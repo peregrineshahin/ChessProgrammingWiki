@@ -21,14 +21,12 @@ He is author of the program [IGM](IGM "IGM") (I'm Going to be Mated), which comp
 
 
 
-```C++
-The 275-page book contains 97 diagrams, 49 figures, 43 complete games, and 32 photos. It is, in every aspect, the best book on computer chess so far. Not only does it contain a good course in programming a computer to play chess, it is also very valuable as a reference guide for most of the algorithms used. Advanced readers will be delighted to find clear description of [transposition tables](Transposition_Table "Transposition Table") and [database](Endgame_Tablebases "Endgame Tablebases") construction.
+```C++The 275-page book contains 97 diagrams, 49 figures, 43 complete games, and 32 photos. It is, in every aspect, the best book on computer chess so far. Not only does it contain a good course in programming a computer to play chess, it is also very valuable as a reference guide for most of the algorithms used. Advanced readers will be delighted to find clear description of [transposition tables](Transposition_Table "Transposition Table") and [database](Endgame_Tablebases "Endgame Tablebases") construction.
 
 ```
 
 
-```C++
-Both Van Diepen and [Van den Herik](Jaap_van_den_Herik "Jaap van den Herik") are editor-in chief of a major journal, and this is reflected in a crisp style and clear explanation. If ever a book required translation, it is this. In the meantime, those who have command of the Dutch language are singularly privileged. 
+```C++Both Van Diepen and [Van den Herik](Jaap_van_den_Herik "Jaap van den Herik") are editor-in chief of a major journal, and this is reflected in a crisp style and clear explanation. If ever a book required translation, it is this. In the meantime, those who have command of the Dutch language are singularly privileged. 
 
 ```
 
@@ -40,8 +38,7 @@ Both Van Diepen and [Van den Herik](Jaap_van_den_Herik "Jaap van den Herik") are
 
 
 
-```C++
-Along with [Barend Swets](Barend_Swets "Barend Swets") and Peter van Diepen, I was one of the followers of [Euwe](Max_Euwe "Max Euwe") and [De Groot](Adriaan_de_Groot "Adriaan de Groot"). Euwe had become extraordinary professor in 1964 Rotterdam and professor in Tilburg (data processing)... 
+```C++Along with [Barend Swets](Barend_Swets "Barend Swets") and Peter van Diepen, I was one of the followers of [Euwe](Max_Euwe "Max Euwe") and [De Groot](Adriaan_de_Groot "Adriaan de Groot"). Euwe had become extraordinary professor in 1964 Rotterdam and professor in Tilburg (data processing)... 
 
 ```
 

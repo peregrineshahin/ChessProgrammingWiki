@@ -20,8 +20,7 @@ based on [WCCC 1989](WCCC_1989 "WCCC 1989") booklet <a id="cite-note-3" href="#c
 
 
 
-```C++
-Moby was a conventional searcher, but distributed the search across the available processors in a homogeneous fashion, that is all processors are carrying out the same type of operations, rather than some processors doing deep [scout](Scout "Scout") searches while others do more complete searches guided by the information returned by the scouts. [Load balancing](https://en.wikipedia.org/wiki/Load_balancing_%28computing%29) is archived by processor overloading - each processor supports a [hash table](Hash_Table "Hash Table") manager responsible for part of the global [transposition table](Transposition_Table "Transposition Table"). One distinguished processor acts as system master, interacting with the user and handling file i/o when the [opening books](Opening_Book "Opening Book") are consulted. 
+```C++Moby was a conventional searcher, but distributed the search across the available processors in a homogeneous fashion, that is all processors are carrying out the same type of operations, rather than some processors doing deep [scout](Scout "Scout") searches while others do more complete searches guided by the information returned by the scouts. [Load balancing](https://en.wikipedia.org/wiki/Load_balancing_%28computing%29) is archived by processor overloading - each processor supports a [hash table](Hash_Table "Hash Table") manager responsible for part of the global [transposition table](Transposition_Table "Transposition Table"). One distinguished processor acts as system master, interacting with the user and handling file i/o when the [opening books](Opening_Book "Opening Book") are consulted. 
 
 ```
 

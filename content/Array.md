@@ -22,7 +22,6 @@ Array in [memory](Memory "Memory") <a id="cite-note-2" href="#cite-ref-2">[2]</a
 A homogeneous two- or multidimensional array may be interpreted as array of commensurate, embedded arrays, typically associated with the [array data structure](https://en.wikipedia.org/wiki/Array_data_structure). A one-dimensional address calculation from an index tuple is a simple, multiplicative formula.
 
 ```C++
-
 int zobristKeys[12][64];
 zobristKey[piece][square]
 
@@ -31,7 +30,6 @@ zobristKey[piece][square]
 With following one-dimensional translation:
 
 ```C++
-
 int zobristKeys[12*64];
 zobristKey[piece*64 + square]
 
@@ -58,7 +56,6 @@ An Array whose size is already determined at [compile time](https://en.wikipedia
 These arrays work most efficiently, since one array access of a word or integer element directly translates into an appropriate machine instruction using a (scaled) [index register](https://en.wikipedia.org/wiki/Index_register) in conjunction with an [immediate address or base register](https://en.wikipedia.org/wiki/Addressing_mode#Base_plus_index) for the [base address](https://en.wikipedia.org/wiki/Base_address) of the array. The danger without any runtime [bounds checking](https://en.wikipedia.org/wiki/Bounds_checking) is that (a probably very rare) index-overflow will either cause the program to crash, or even harder to find, to make the program behave sporadically erroneous. Some programmers, often provide a debug [assertion](https://en.wikipedia.org/wiki/Assertion_%28computing%29) <a id="cite-note-5" href="#cite-ref-5">[5]</a> to check array bounds at runtime in a debug version.
 
 ```C++
-
 // assuming signed index
 assert (index >= 0 && index < MAX_PLY);
 alpha[index] = a;
@@ -86,7 +83,6 @@ Definitions and usage in various [programming languages](Languages "Languages"):
 ## [Assembly](Assembly "Assembly")
 
 ```C++
-
  board db 64 dup (?)
  square dd
 
@@ -100,7 +96,6 @@ Definitions and usage in various [programming languages](Languages "Languages"):
 Note that in C and C++, pointer may be treated as array.
 
 ```C++
-
  static const int magicTable[64] = {
    0, 1,48, 2,57,49,28, 3,
   61,58,50,42,38,29,17, 4,
@@ -128,7 +123,6 @@ Note that in C and C++, pointer may be treated as array.
 ## [Java](Java "Java")
 
 ```C++
-
  static private final int[] magicTable = {
    0, 1,48, 2,57,49,28, 3,
   61,58,50,42,38,29,17, 4,

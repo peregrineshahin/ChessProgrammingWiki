@@ -12,7 +12,6 @@ a version of [Clubfoot](Clubfoot "Clubfoot"), the [UCI](UCI "UCI") [open source 
 Bitfoot applies an own technique to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks") dubbed **A/B Bitboards** or Above/Below Bitboards <a id="cite-note-2" href="#cite-ref-2">[2]</a>. Similar to the [classical approach](Classical_Approach "Classical Approach"), it works ray-wise and uses pre-calculated [ray-attacks](On_an_empty_Board#RayAttacks "On an empty Board") for each of the eight [ray-directions](Rays#RayDirections "Rays") and each of the 64 [squares](Squares "Squares"). It has to distinguish between [positive](On_an_empty_Board#PositiveRays "On an empty Board") and [negative](On_an_empty_Board#NegativeRays "On an empty Board") directions, because it has to [isolate](General_Setwise_Operations#LS1BIsolation "General Setwise Operations") or [bitscan](BitScan "BitScan") the first blocker (if any) from the ray-attack intersection with the [occupancy](Occupancy "Occupancy") in different orders. The exclusion of squares behind the first blocker works by intersection with its appropriate [below or above separation](General_Setwise_Operations#LS1BSeparation "General Setwise Operations"). This is how the routines look like conform to the [classical approach](Classical_Approach "Classical Approach") prototype:
 
 ```C++
-
 U64 rayAttacks[8][64];
 
 U64 getPositiveRayAttacks(U64 occupied, enumDir dir8, enumSquare square) {

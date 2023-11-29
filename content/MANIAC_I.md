@@ -25,8 +25,7 @@ Quote from *Chronology of Computing* compiled by [David Singmaster](Mathematicia
 
 
 
-```C++
-A group at Los Alamos, based on Kister, Stein, Ulam, Walden and Wells, follows up a brief Russian reference to a chess program for [BESM](https://en.wikipedia.org/wiki/BESM) <a id="cite-note-4" href="#cite-ref-4">[4]</a>. The Los Alamos group writes a program for the MANIAC I to play a reduced game of chess – using a 6 x 6 board without bishops. 
+```C++A group at Los Alamos, based on Kister, Stein, Ulam, Walden and Wells, follows up a brief Russian reference to a chess program for [BESM](https://en.wikipedia.org/wiki/BESM) <a id="cite-note-4" href="#cite-ref-4">[4]</a>. The Los Alamos group writes a program for the MANIAC I to play a reduced game of chess – using a 6 x 6 board without bishops. 
 
 ```
 
@@ -38,8 +37,7 @@ Quote by Fred Guterl from *Silicon gambit* <a id="cite-note-5" href="#cite-ref-5
 
 
 
-```C++
-The government laboratory in Los Alamos, New Mexico, got hold of one of the first computers, MANIAC I, so that Ulam and the other H-bomb researchers wouldn't have to stay up nights solving their voluminous equations with pencil and paper. Ulam, who described himself modestly as a "fair" chess player, couldn't resist putting the machine to work on a project of somewhat less import to coldwar strategy. Together with physicist [Paul Stein](Paul_Stein "Paul Stein"), he wrote one of the first chess-playing programs. 
+```C++The government laboratory in Los Alamos, New Mexico, got hold of one of the first computers, MANIAC I, so that Ulam and the other H-bomb researchers wouldn't have to stay up nights solving their voluminous equations with pencil and paper. Ulam, who described himself modestly as a "fair" chess player, couldn't resist putting the machine to work on a project of somewhat less import to coldwar strategy. Together with physicist [Paul Stein](Paul_Stein "Paul Stein"), he wrote one of the first chess-playing programs. 
 
 ```
 
@@ -51,26 +49,22 @@ Roger Snodgrass in *LANL: The Rest of the Story* on MANIAC and [Mark Wells](Mark
 
 
 
-```C++
-Among the interesting tidbits in Wells article are stories about a chess-playing program on MANIAC. MANIAC’s limited memory restricted a play to board that was six squares by six squares and no bishops...
+```C++Among the interesting tidbits in Wells article are stories about a chess-playing program on MANIAC. MANIAC’s limited memory restricted a play to board that was six squares by six squares and no bishops...
 
 ```
 
 
-```C++
-“Even then,” he wrote, “moves averaged about 10 minutes for a two-move, look-ahead strategy.” “That quickly became three moves, four moves, five moves ahead,” Wells said Tuesday, adding the current capability was at least 12 moves ahead. 
+```C++“Even then,” he wrote, “moves averaged about 10 minutes for a two-move, look-ahead strategy.” “That quickly became three moves, four moves, five moves ahead,” Wells said Tuesday, adding the current capability was at least 12 moves ahead. 
 
 ```
 
 
-```C++
-His essay also includes an anecdote about a moment when the computer seemed to have a mind of its own. When Princeton physicist [Martin Kruskal](Mathematician#MartinKruskal "Mathematician") checkmated the MANIAC on the 38th move of a game, the machine responded with an illegal move. “We were dumbfounded for a while, until we traced the trouble and realized that the program had never been taught to resign,” Wells wrote. Facing no moves, the machine was stuck in a loop and the loop changed the program.
+```C++His essay also includes an anecdote about a moment when the computer seemed to have a mind of its own. When Princeton physicist [Martin Kruskal](Mathematician#MartinKruskal "Mathematician") checkmated the MANIAC on the 38th move of a game, the machine responded with an illegal move. “We were dumbfounded for a while, until we traced the trouble and realized that the program had never been taught to resign,” Wells wrote. Facing no moves, the machine was stuck in a loop and the loop changed the program.
 
 ```
 
 
-```C++
-“You might call that a learning program,” he recalled. 
+```C++“You might call that a learning program,” he recalled. 
 
 ```
 

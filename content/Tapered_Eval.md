@@ -21,7 +21,6 @@ Tapered Eval is done as follows in [Fruit](Fruit "Fruit") (similar implementatio
 
 
 ```C++
-
 eval = ((opening * (256 - phase)) + (endgame * phase)) / 256
 
 ```
@@ -35,7 +34,6 @@ The *phase* is evaluated like this (code specifics left out):
 
 
 ```C++
-
 PawnPhase = 0
 KnightPhase = 1
 BishopPhase = 1

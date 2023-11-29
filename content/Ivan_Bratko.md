@@ -21,8 +21,7 @@ Quote from Ivan Bratko's Homepage <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 
 
-```C++
-Professor Bratko has conducted research in [machine learning](Learning "Learning"), [knowledge-based systems](Knowledge "Knowledge"), [qualitative modeling](https://en.wikipedia.org/wiki/Economic_model#Quantitative_vs._Qualitative_models), [intelligent robotics](Robots "Robots"), heuristic programming and computer chess. His main interests in machine learning have been in learning from [noisy](https://en.wikipedia.org/wiki/Statistical_noise) data, combining learning and [qualitative reasoning](https://en.wikipedia.org/wiki/Qualitative_reasoning), [constructive induction](https://en.wikipedia.org/wiki/Constructive_induction), [Inductive Logic Programming](https://en.wikipedia.org/wiki/Inductive_logic_programming) and various applications of machine learning, including [medicine](https://en.wikipedia.org/wiki/Medicine) and control of [dynamic systems](https://en.wikipedia.org/wiki/Dynamical_system). 
+```C++Professor Bratko has conducted research in [machine learning](Learning "Learning"), [knowledge-based systems](Knowledge "Knowledge"), [qualitative modeling](https://en.wikipedia.org/wiki/Economic_model#Quantitative_vs._Qualitative_models), [intelligent robotics](Robots "Robots"), heuristic programming and computer chess. His main interests in machine learning have been in learning from [noisy](https://en.wikipedia.org/wiki/Statistical_noise) data, combining learning and [qualitative reasoning](https://en.wikipedia.org/wiki/Qualitative_reasoning), [constructive induction](https://en.wikipedia.org/wiki/Constructive_induction), [Inductive Logic Programming](https://en.wikipedia.org/wiki/Inductive_logic_programming) and various applications of machine learning, including [medicine](https://en.wikipedia.org/wiki/Medicine) and control of [dynamic systems](https://en.wikipedia.org/wiki/Dynamical_system). 
 
 ```
 
@@ -34,8 +33,7 @@ Quote by [Maarten van Emden](Maarten_van_Emden "Maarten van Emden") in *I rememb
 
 
 
-```C++
-In 1980 I spent another summer in Edinburgh as a guest of [Donald Michie](Donald_Michie "Donald Michie"). Since the low point of 1975, thanks to assiduous and inventive joint pursuit of funding possibilities by Donald and [Jean](Jean_Hayes_Michie "Jean Hayes Michie"), the Machine Intelligence Research Unit was alive with work focused on [chess endgames](Endgame "Endgame"). There were students, including [Tim Niblett](Tim_Niblett "Tim Niblett") and [Alen Shapiro](Alen_Shapiro "Alen Shapiro"). [Danny Kopec](Danny_Kopec "Danny Kopec") was there, perhaps formally as a student, but de facto as the resident chess consultant. Ivan Bratko visited frequently. Alen was the administrator of the dream computing environment of that time: a small [PDP-11](PDP-11 "PDP-11") running [Unix](Unix "Unix"). 
+```C++In 1980 I spent another summer in Edinburgh as a guest of [Donald Michie](Donald_Michie "Donald Michie"). Since the low point of 1975, thanks to assiduous and inventive joint pursuit of funding possibilities by Donald and [Jean](Jean_Hayes_Michie "Jean Hayes Michie"), the Machine Intelligence Research Unit was alive with work focused on [chess endgames](Endgame "Endgame"). There were students, including [Tim Niblett](Tim_Niblett "Tim Niblett") and [Alen Shapiro](Alen_Shapiro "Alen Shapiro"). [Danny Kopec](Danny_Kopec "Danny Kopec") was there, perhaps formally as a student, but de facto as the resident chess consultant. Ivan Bratko visited frequently. Alen was the administrator of the dream computing environment of that time: a small [PDP-11](PDP-11 "PDP-11") running [Unix](Unix "Unix"). 
 
 ```
 
@@ -47,8 +45,7 @@ Quote by [John McCarthy](John_McCarthy "John McCarthy") from *AI as Sport* <a id
 
 
 
-```C++
-Besides AI work aimed at tournament play, particular aspects of the game have illuminated the intellectual mechanisms involved. [Barbara Liskov](Barbara_Liskov "Barbara Liskov") demonstrated that what chess books teach about how to win certain [endgames](Endgame "Endgame") is not a program but more like a predicate comparing two positions to see if one is an improvement on the other. Such qualitative comparisons are an important feature of human intelligence and are needed for AI. [Donald Michie](Donald_Michie "Donald Michie"), Ivan Bratko, [Alen Shapiro](Alen_Shapiro "Alen Shapiro"), [David Wilkins](David_Wilkins "David Wilkins"), and others have also used chess as a Drosophila to study intelligence. [Newborn](Monroe_Newborn "Monroe Newborn") ignores this work, because it is not oriented to tournament play.
+```C++Besides AI work aimed at tournament play, particular aspects of the game have illuminated the intellectual mechanisms involved. [Barbara Liskov](Barbara_Liskov "Barbara Liskov") demonstrated that what chess books teach about how to win certain [endgames](Endgame "Endgame") is not a program but more like a predicate comparing two positions to see if one is an improvement on the other. Such qualitative comparisons are an important feature of human intelligence and are needed for AI. [Donald Michie](Donald_Michie "Donald Michie"), Ivan Bratko, [Alen Shapiro](Alen_Shapiro "Alen Shapiro"), [David Wilkins](David_Wilkins "David Wilkins"), and others have also used chess as a Drosophila to study intelligence. [Newborn](Monroe_Newborn "Monroe Newborn") ignores this work, because it is not oriented to tournament play.
 
 ```
 

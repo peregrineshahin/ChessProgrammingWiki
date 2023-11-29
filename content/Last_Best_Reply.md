@@ -9,8 +9,7 @@ title: Last Best Reply
 
 
 
-```C++
-*An idea proposed by [Steven Edwards](Steven_Edwards "Steven Edwards")* <a id="cite-note-1" href="#cite-ref-1">[1]</a>. *Sometimes it works, and sometimes it doesn't. But in any case, it will be more specific (and so have a better chance at working) than the Countermove heuristic. Note that any results may (will) be different as more move ordering techniques are added* <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 
+```C++*An idea proposed by [Steven Edwards](Steven_Edwards "Steven Edwards")* <a id="cite-note-1" href="#cite-ref-1">[1]</a>. *Sometimes it works, and sometimes it doesn't. But in any case, it will be more specific (and so have a better chance at working) than the Countermove heuristic. Note that any results may (will) be different as more move ordering techniques are added* <a id="cite-note-2" href="#cite-ref-2">[2]</a>. 
 
 ```
 

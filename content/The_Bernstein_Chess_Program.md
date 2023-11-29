@@ -20,32 +20,27 @@ Quotes by [Pamela McCorduck](https://en.wikipedia.org/wiki/Pamela_McCorduck) fro
 
 
 
-```C++
-Bernstein drew upon not only his own experience with chess, but began to study [Modern Chess Openings](https://en.wikipedia.org/wiki/Modern_Chess_Openings), which came out then every two years, and spent six months going through some five hundred chess openings. He assigned scores to various positions, scores that depended not only on the pieces retained, but also on [area control](Square_Control "Square Control") of the board and [mobility](Mobility "Mobility"). He also developed a fourth measure, what he called a “[greens area](King_Pattern "King Pattern")” around the king, meaning that the more squares outward from the king controlled by his own side the better. But after six months of this he gave it up. He couldn’t make any sense out of it.
+```C++Bernstein drew upon not only his own experience with chess, but began to study [Modern Chess Openings](https://en.wikipedia.org/wiki/Modern_Chess_Openings), which came out then every two years, and spent six months going through some five hundred chess openings. He assigned scores to various positions, scores that depended not only on the pieces retained, but also on [area control](Square_Control "Square Control") of the board and [mobility](Mobility "Mobility"). He also developed a fourth measure, what he called a “[greens area](King_Pattern "King Pattern")” around the king, meaning that the more squares outward from the king controlled by his own side the better. But after six months of this he gave it up. He couldn’t make any sense out of it.
 
 ```
 
 
-```C++
-At this time, Bernstein was unaware of [Shannon’s seminal papers](Claude_Shannon "Claude Shannon"), and did not know that chess had caught the interests of a group at [Los Alamos](Los_Alamos_National_Laboratory "Los Alamos National Laboratory"), including [J. Kister](James_Kister "James Kister"), [P. Stein](Paul_Stein "Paul Stein"), [S. Ulam](Stanislaw_Ulam "Stanislaw Ulam"), [W. Walden](William_Walden "William Walden"), and [M. Wells](Mark_Wells "Mark Wells"), who were working on a limited [6x6 board](MANIAC_I "MANIAC I"), rather than the regulation 8x8. Nor did he know that [Allen Newell](Allen_Newell "Allen Newell"), [J. C. Shaw](Cliff_Shaw "Cliff Shaw"), and [Herbert Simon](Herbert_Simon "Herbert Simon") together, and [John McCarthy](John_McCarthy "John McCarthy") independently, were also pondering chess-playing machines. Alex Bernstein only knew that the problem was hot ... 
+```C++At this time, Bernstein was unaware of [Shannon’s seminal papers](Claude_Shannon "Claude Shannon"), and did not know that chess had caught the interests of a group at [Los Alamos](Los_Alamos_National_Laboratory "Los Alamos National Laboratory"), including [J. Kister](James_Kister "James Kister"), [P. Stein](Paul_Stein "Paul Stein"), [S. Ulam](Stanislaw_Ulam "Stanislaw Ulam"), [W. Walden](William_Walden "William Walden"), and [M. Wells](Mark_Wells "Mark Wells"), who were working on a limited [6x6 board](MANIAC_I "MANIAC I"), rather than the regulation 8x8. Nor did he know that [Allen Newell](Allen_Newell "Allen Newell"), [J. C. Shaw](Cliff_Shaw "Cliff Shaw"), and [Herbert Simon](Herbert_Simon "Herbert Simon") together, and [John McCarthy](John_McCarthy "John McCarthy") independently, were also pondering chess-playing machines. Alex Bernstein only knew that the problem was hot ... 
 
 ```
 
 
-```C++
-It was now that Bernstein became aware of [Turing’s](Alan_Turing "Alan Turing") work and read at least one of Shannon’s papers. When he finally began to see how he might codify some of the principles he felt were essential, he telephoned [Claude Shannon](Claude_Shannon "Claude Shannon") at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"). “I went up to MIT and spent a day or two with him, telling him what I was planning to do, and he said he thought it was intelligent, and a good way of proceeding. Essentially I felt I’d received his blessings, which was pleasant.”
+```C++It was now that Bernstein became aware of [Turing’s](Alan_Turing "Alan Turing") work and read at least one of Shannon’s papers. When he finally began to see how he might codify some of the principles he felt were essential, he telephoned [Claude Shannon](Claude_Shannon "Claude Shannon") at [MIT](Massachusetts_Institute_of_Technology "Massachusetts Institute of Technology"). “I went up to MIT and spent a day or two with him, telling him what I was planning to do, and he said he thought it was intelligent, and a good way of proceeding. Essentially I felt I’d received his blessings, which was pleasant.”
 
 ```
 
 
-```C++
-Bernstein also mentioned that he was working on the problem to [Dr. Edward Lasker](https://en.wikipedia.org/wiki/Edward_Lasker), a well-known chess writer, who introduced him to [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam") of the Los Alamos group. Bernstein had the advantage that the Los Alamos group didn’t have, of a machine with a large amount of memory, although the four thousand words of memory the [IBM 704](IBM_704 "IBM 704") had to begin with were insufficient for Bernstein’s program in the end. The 704’s memory was to have doubled by the time Bernstein finished his program, and he still came within two hundred words of overflowing memory.
+```C++Bernstein also mentioned that he was working on the problem to [Dr. Edward Lasker](https://en.wikipedia.org/wiki/Edward_Lasker), a well-known chess writer, who introduced him to [Stanislaw Ulam](Stanislaw_Ulam "Stanislaw Ulam") of the Los Alamos group. Bernstein had the advantage that the Los Alamos group didn’t have, of a machine with a large amount of memory, although the four thousand words of memory the [IBM 704](IBM_704 "IBM 704") had to begin with were insufficient for Bernstein’s program in the end. The 704’s memory was to have doubled by the time Bernstein finished his program, and he still came within two hundred words of overflowing memory.
 
 ```
 
 
-```C++
-So Bernstein’s chess program selected what seemed to be the likeliest fruitful moves, and these it examined in considerable depth, comparing one to another among a number of dimensions. The program contained a large data base, which allowed it to examine any particular piece or square at any time. In descending order of importance, the program asked such questions as, Is the [king](King "King") in [check](Check "Check")? If the king is in check, there is nothing else to do. Is the king in [double check](Check#DoubleCheck "Check")? If he is, merely to capture one piece that threatens the king will be insufficient; the king must be moved. The next question had to do with [material](Material "Material"): is there any to be gained, or any in danger of [capture](Captures "Captures")? And clearly it is more important to rescue or capture a rook than to rescue or capture a pawn, and this was factored into the program. 
+```C++So Bernstein’s chess program selected what seemed to be the likeliest fruitful moves, and these it examined in considerable depth, comparing one to another among a number of dimensions. The program contained a large data base, which allowed it to examine any particular piece or square at any time. In descending order of importance, the program asked such questions as, Is the [king](King "King") in [check](Check "Check")? If the king is in check, there is nothing else to do. Is the king in [double check](Check#DoubleCheck "Check")? If he is, merely to capture one piece that threatens the king will be insufficient; the king must be moved. The next question had to do with [material](Material "Material"): is there any to be gained, or any in danger of [capture](Captures "Captures")? And clearly it is more important to rescue or capture a rook than to rescue or capture a pawn, and this was factored into the program. 
 
 ```
 
@@ -57,8 +52,7 @@ As mentioned by [John McCarthy](John_McCarthy "John McCarthy") <a id="cite-note-
 
 
 
-```C++
-Alex Bernstein of IBM presented his chess program under construction. My reaction was to invent and recommend to him [alpha-beta](Alpha-Beta "Alpha-Beta") pruning. He was unconvinced. 
+```C++Alex Bernstein of IBM presented his chess program under construction. My reaction was to invent and recommend to him [alpha-beta](Alpha-Beta "Alpha-Beta") pruning. He was unconvinced. 
 
 ```
 

@@ -34,8 +34,7 @@ by [Hans Berliner](Hans_Berliner "Hans Berliner") on Campbell's role in [HiTech]
 
 
 
-```C++
-Murray Campbell has helped with the opening book, and has now implemented the [Singular Search](Singular_Extensions "Singular Extensions") ([Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") 1988 <a id="cite-note-10" href="#cite-ref-10">[10]</a>) algorithm on HiTech. He has been my alter-ego when it comes to discussion of chess ideas, and what can be done to allow HiTech to understand this or that. 
+```C++Murray Campbell has helped with the opening book, and has now implemented the [Singular Search](Singular_Extensions "Singular Extensions") ([Anantharaman](Thomas_Anantharaman "Thomas Anantharaman") 1988 <a id="cite-note-10" href="#cite-ref-10">[10]</a>) algorithm on HiTech. He has been my alter-ego when it comes to discussion of chess ideas, and what can be done to allow HiTech to understand this or that. 
 
 ```
 

@@ -18,7 +18,6 @@ Gochess' [command line interface](CLI "CLI"): [ASCII-board](Graphics_Programming
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```C++
-
 symbolsUnicode = []string {
   ".",
   "♙", "♘", "♗", "♖", "♕", "♔",

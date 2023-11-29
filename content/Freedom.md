@@ -14,8 +14,7 @@ Barricelli, at that time affiliated with the [Oslo University](https://en.wikipe
 
 [Tony Marsland](Tony_Marsland "Tony Marsland") mentioned Freedom, [Papa](Papa "Papa") and other programs participating the [WCCC 1974](WCCC_1974 "WCCC 1974") in his handwritten notes <a id="cite-note-3" href="#cite-ref-3">[3]</a> on the [Hayes](Jean_Hayes_Michie "Jean Hayes Michie") and [Levy](David_Levy "David Levy") book <a id="cite-note-4" href="#cite-ref-4">[4]</a> :
 
-```C++
-Freedom and [Papa](Papa "Papa") both use [mobility](Mobility "Mobility") as their primary term in their [evaluation functions](Evaluation_Function "Evaluation Function"). As with [Wita](Awit "Awit"), both use the ratio of computer's moves / opponent moves. Papa and Wita also multiply by the ratio of the squares controlled and Papa goes one step further and takes the logarithm of this product to form the "[entropy](Papa#Entropy "Papa")" of the position. The true merit of this entropy over the product ratio was not made clear, but it does ensure that in extreme situations the evaluation remains more closely bounded. 
+```C++Freedom and [Papa](Papa "Papa") both use [mobility](Mobility "Mobility") as their primary term in their [evaluation functions](Evaluation_Function "Evaluation Function"). As with [Wita](Awit "Awit"), both use the ratio of computer's moves / opponent moves. Papa and Wita also multiply by the ratio of the squares controlled and Papa goes one step further and takes the logarithm of this product to form the "[entropy](Papa#Entropy "Papa")" of the position. The true merit of this entropy over the product ratio was not made clear, but it does ensure that in extreme situations the evaluation remains more closely bounded. 
 
 ```
 

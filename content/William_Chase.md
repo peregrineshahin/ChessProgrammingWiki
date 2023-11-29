@@ -21,8 +21,7 @@ was an American [psychologist](Category:Psychologist "Category:Psychologist") an
 
 
 
-```C++
-[Pattern recognition](Pattern_Recognition "Pattern Recognition") lies at the heart of the [cognitive](Cognition "Cognition") science endeavor. In this paper, we provide some criticism of this notion, using studies of chess as an example. The game of chess is, as significant evidence shows, a game of abstractions: pressures; force; open files and ranks; time; tightness of defense; old strategies rapidly adapted to new situations. These ideas do not arise on current computational models, which apply brute force by [rote-memorization](https://en.wikipedia.org/wiki/Rote_learning). In this paper we assess the computational models of [CHREST](CHREST "CHREST") and [CHUMP](CHUMP "CHUMP"), and argue that chess chunks must contain semantic information. This argument leads to a new and contrasting claim, as we propose that key conclusions of Chase and Simon's (1973) influential study stemmed from a non-sequitur. In the concluding section, we propose a shift in philosophy, from “pattern recognition” to a framework of “experience recognition”. 
+```C++[Pattern recognition](Pattern_Recognition "Pattern Recognition") lies at the heart of the [cognitive](Cognition "Cognition") science endeavor. In this paper, we provide some criticism of this notion, using studies of chess as an example. The game of chess is, as significant evidence shows, a game of abstractions: pressures; force; open files and ranks; time; tightness of defense; old strategies rapidly adapted to new situations. These ideas do not arise on current computational models, which apply brute force by [rote-memorization](https://en.wikipedia.org/wiki/Rote_learning). In this paper we assess the computational models of [CHREST](CHREST "CHREST") and [CHUMP](CHUMP "CHUMP"), and argue that chess chunks must contain semantic information. This argument leads to a new and contrasting claim, as we propose that key conclusions of Chase and Simon's (1973) influential study stemmed from a non-sequitur. In the concluding section, we propose a shift in philosophy, from “pattern recognition” to a framework of “experience recognition”. 
 
 ```
 
@@ -34,8 +33,7 @@ Counter critique by [Peter Lane](index.php?title=Peter_Lane&action=edit&redlink=
 
 
 
-```C++
-Linhares and Freitas (2010; LF) argue that experts use analogical or semantic similarity, similarities that are not available from direct surface representations. LF make their case using a critique of Chase and Simon (1973b) and the presentation of a few chess positions and examples from other domains. Their conclusion is that models such as [CHREST](CHREST "CHREST") (Gobet et al., 2001) and theories such as the [chunking](Chunking "Chunking") theory (Chase & Simon, 1973b) and the template theory are inadequate for dealing with these issues. They propose an alternative paradigm, which they call “experience recognition.” Although we find this issue an interesting one, the separation between pattern recognition and problem solving is a lot more complex than LF portray. We instead suggest that a “revolution” in our to date successful modeling is not necessary. Especially in the chess domain, LF’s examples do not make the point they claim. Furthermore, their criticisms of CS are incorrect, and they have failed to mention a large number of experimental results that have supported the hypothesis of location-specific encodings. Although we agree that experts use semantic information and similarities, these ideas already possess analogues in CHREST, which can form the basis of further evolution of the theory. 
+```C++Linhares and Freitas (2010; LF) argue that experts use analogical or semantic similarity, similarities that are not available from direct surface representations. LF make their case using a critique of Chase and Simon (1973b) and the presentation of a few chess positions and examples from other domains. Their conclusion is that models such as [CHREST](CHREST "CHREST") (Gobet et al., 2001) and theories such as the [chunking](Chunking "Chunking") theory (Chase & Simon, 1973b) and the template theory are inadequate for dealing with these issues. They propose an alternative paradigm, which they call “experience recognition.” Although we find this issue an interesting one, the separation between pattern recognition and problem solving is a lot more complex than LF portray. We instead suggest that a “revolution” in our to date successful modeling is not necessary. Especially in the chess domain, LF’s examples do not make the point they claim. Furthermore, their criticisms of CS are incorrect, and they have failed to mention a large number of experimental results that have supported the hypothesis of location-specific encodings. Although we agree that experts use semantic information and similarities, these ideas already possess analogues in CHREST, which can form the basis of further evolution of the theory. 
 
 ```
 
@@ -47,8 +45,7 @@ Linhares and Freitas (2010; LF) argue that experts use analogical or semantic si
 
 
 
-```C++
-Although Linhares and Freitas (2010) have failed to characterize earlier experimental work in chess skill accurately, their conceptual approach of “experience-recognition”-driven problem solving points to the need to incorporate analogical reasoning mechanisms into explanations of how chess players choose the best move in chess. The Lane and Gobet (2011) commentary and the cognitive simulation models that they espouse consist of plausible mechanisms to support choosing a good move, but need additional development to incorporate abstract/semantic information. One possible avenue for future exploration will be to produce hybrid models that use both “piece-on-square” chunk and template representations and abstract high-level representations to guide search in chess. 
+```C++Although Linhares and Freitas (2010) have failed to characterize earlier experimental work in chess skill accurately, their conceptual approach of “experience-recognition”-driven problem solving points to the need to incorporate analogical reasoning mechanisms into explanations of how chess players choose the best move in chess. The Lane and Gobet (2011) commentary and the cognitive simulation models that they espouse consist of plausible mechanisms to support choosing a good move, but need additional development to incorporate abstract/semantic information. One possible avenue for future exploration will be to produce hybrid models that use both “piece-on-square” chunk and template representations and abstract high-level representations to guide search in chess. 
 
 ```
 
@@ -60,8 +57,7 @@ Although Linhares and Freitas (2010) have failed to characterize earlier experim
 
 
 
-```C++
-We question Chase and Simon’s (1973) study concerning the content of the chess chunks, and we conduct a new variation of the classic chess reconstruction experiments, analyzing 25 types of possible reconstruction errors of grandmasters, masters, and beginners. The differences between the errors conducted in poor, intermediate, and strategically perfect reconstructions provide insights concerning the encoding of experts. The results obtained shed clear light into the debate concerning the importance of abstract thought (i.e., forward search) vs. perceptual processes (i.e., pattern recognition). We claim that a clear solution to this debate is ultimately unfeasible, as our experiments demonstrate high entanglement of perception and reasoning. Our results provide additional evidence that analogy is central to strategic thought in chess. 
+```C++We question Chase and Simon’s (1973) study concerning the content of the chess chunks, and we conduct a new variation of the classic chess reconstruction experiments, analyzing 25 types of possible reconstruction errors of grandmasters, masters, and beginners. The differences between the errors conducted in poor, intermediate, and strategically perfect reconstructions provide insights concerning the encoding of experts. The results obtained shed clear light into the debate concerning the importance of abstract thought (i.e., forward search) vs. perceptual processes (i.e., pattern recognition). We claim that a clear solution to this debate is ultimately unfeasible, as our experiments demonstrate high entanglement of perception and reasoning. Our results provide additional evidence that analogy is central to strategic thought in chess. 
 
 ```
 
@@ -76,8 +72,7 @@ We question Chase and Simon’s (1973) study concerning the content of the chess
 
 
 
-```C++
-To his research, Bill brought powerful experimental skills, ingenuity in experimental design and analysis, a strong sense for theoretical relevance and implications of experimental findings, and a generosity of spirit that made working with him immensely pleasurable and rewarding. 
+```C++To his research, Bill brought powerful experimental skills, ingenuity in experimental design and analysis, a strong sense for theoretical relevance and implications of experimental findings, and a generosity of spirit that made working with him immensely pleasurable and rewarding. 
 
 ```
 
@@ -89,8 +84,7 @@ To his research, Bill brought powerful experimental skills, ingenuity in experim
 
 
 
-```C++
-While a graduate student at CMU, I had ample opportunity of interact with [Herb](Herbert_Simon "Herbert Simon") and Bill Chase who was a Post-Doc and later a professor in the Psychology Department there. It was there that I got involved in the Human Perception of chess which built on the work of the Russians in the 1930s and of [De Groot](Adriaan_de_Groot "Adriaan de Groot") in the 1940s. I was very impressed by the machinery that clearly existed in the human head and made it possible to remember positions almost perfectly even after having seen them for only 2 seconds. What was even more interesting, was that errors in reconstructing the position had a definite pattern to them. For instance, a Bishop may be misplaced in the reconstruction, but it would still be on the critical diagonal, and thus retain its function on that diagonal whatever the function was. This insight has been incredibly important in my career, and is seen clearly in the program [CAPS](CAPS "CAPS"), in my book The System, and in other writings presently under way. 
+```C++While a graduate student at CMU, I had ample opportunity of interact with [Herb](Herbert_Simon "Herbert Simon") and Bill Chase who was a Post-Doc and later a professor in the Psychology Department there. It was there that I got involved in the Human Perception of chess which built on the work of the Russians in the 1930s and of [De Groot](Adriaan_de_Groot "Adriaan de Groot") in the 1940s. I was very impressed by the machinery that clearly existed in the human head and made it possible to remember positions almost perfectly even after having seen them for only 2 seconds. What was even more interesting, was that errors in reconstructing the position had a definite pattern to them. For instance, a Bishop may be misplaced in the reconstruction, but it would still be on the critical diagonal, and thus retain its function on that diagonal whatever the function was. This insight has been incredibly important in my career, and is seen clearly in the program [CAPS](CAPS "CAPS"), in my book The System, and in other writings presently under way. 
 
 ```
 

@@ -18,8 +18,7 @@ In the 2007 interview with Arthur Norberg, Abrahams mentioned that he met [Claud
 
 
 
-```C++
-And I also met [Claude Shannon](Claude_Shannon "Claude Shannon") and was working with him and [McCarthy](John_McCarthy "John McCarthy") — on a chess program. It calculated two-move mates and was written in [FORTRAN](Fortran "Fortran"). That was also the time that FORTRAN was starting to hit the world.  
+```C++And I also met [Claude Shannon](Claude_Shannon "Claude Shannon") and was working with him and [McCarthy](John_McCarthy "John McCarthy") — on a chess program. It calculated two-move mates and was written in [FORTRAN](Fortran "Fortran"). That was also the time that FORTRAN was starting to hit the world.  
 
 ```
 
@@ -31,8 +30,7 @@ Paul W. Abrahams' routines were used in the [Kotok-McCarthy-Program](Kotok-McCar
 
 
 
-```C++
-In the fall of 1960 the chess group, without [Mr. Berlekamp](Elwyn_Berlekamp "Elwyn Berlekamp"), began planning for the general chess program. It was decided to retain the original McCarthy/Abrahams move routines, and to continue coding in [FORTRAN](Fortran "Fortran")  and FAP. The program was to be a variable [depth](Depth "Depth") search with a "stable position" termination. An [evaluation](Evaluation "Evaluation") was to be made at the terminal points of the move tree. This evaluation would be a weighted sum of such criteria as [material balance](Material "Material"), [center control](Center_Control "Center Control"), [pawn structure](Pawn_Structure "Pawn Structure"), "[tempo](Tempo "Tempo")" advantage, and [development](Development "Development"). 
+```C++In the fall of 1960 the chess group, without [Mr. Berlekamp](Elwyn_Berlekamp "Elwyn Berlekamp"), began planning for the general chess program. It was decided to retain the original McCarthy/Abrahams move routines, and to continue coding in [FORTRAN](Fortran "Fortran")  and FAP. The program was to be a variable [depth](Depth "Depth") search with a "stable position" termination. An [evaluation](Evaluation "Evaluation") was to be made at the terminal points of the move tree. This evaluation would be a weighted sum of such criteria as [material balance](Material "Material"), [center control](Center_Control "Center Control"), [pawn structure](Pawn_Structure "Pawn Structure"), "[tempo](Tempo "Tempo")" advantage, and [development](Development "Development"). 
 
 ```
 

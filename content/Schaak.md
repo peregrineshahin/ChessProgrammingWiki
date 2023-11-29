@@ -18,8 +18,7 @@ a chess program by [Alex van Tiggelen](Alex_van_Tiggelen "Alex van Tiggelen") fo
 
 
 
-```C++
-The game of Schaak vs. [Chess 0.5X](Chess_0.5X "Chess 0.5X") was the shortest game of the tournament. 
+```C++The game of Schaak vs. [Chess 0.5X](Chess_0.5X "Chess 0.5X") was the shortest game of the tournament. 
 
 ```
 
@@ -48,8 +47,7 @@ exd4+ 16.Kxd4 O-O-O+ 17.Kc3 Qf3# 0-1
 
 
 
-```C++
-The author of Schaak, Alex van Tiggelen, one of the newcomers, was eager to show that this fast defeat was due to a freak and challenged Chess 0.5X to a second game. To his dismay this game was even shorter than the first one. 
+```C++The author of Schaak, Alex van Tiggelen, one of the newcomers, was eager to show that this fast defeat was due to a freak and challenged Chess 0.5X to a second game. To his dismay this game was even shorter than the first one. 
 
 ```
 

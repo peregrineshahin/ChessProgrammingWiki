@@ -23,7 +23,6 @@ However, it turned out the algorithmic overhead was too big to pay off the saved
 
 
 ```C++
-
 int SSS* (node n; int bound)
 {
    push (n, LIVE, bound);
@@ -60,8 +59,7 @@ int SSS* (node n; int bound)
 ```
 
 
-```C++
-SSS* is too complex and too slow!
+```C++SSS* is too complex and too slow!
 
 ```
 
@@ -77,8 +75,7 @@ SSS* is too complex and too slow!
 
 
 
-```C++
-SSS*, as formulated by Stockman, has several problems. First, it takes considerable effort to understand how the algorithm works, and still more to understand its relation to Alpha-Beta. Second, SSS* maintains a data structure known as the OPEN list, similar to that found in single-agent search algorithms like A*. The size of this list grows exponentially with the depth of the search tree. This has led many authors to conclude that SSS* is effectively disqualified from being useful for real applications like game-playing programs. Third, the OPEN list must be kept in sorted order. Insert and (in particular) delete/purge operations on the OPEN list can dominate the execution time of any program using SSS*. Despite the promise of expanding fewer nodes, the disadvantages of SSS* have proven a significant deterrent in practice.
+```C++SSS*, as formulated by Stockman, has several problems. First, it takes considerable effort to understand how the algorithm works, and still more to understand its relation to Alpha-Beta. Second, SSS* maintains a data structure known as the OPEN list, similar to that found in single-agent search algorithms like A*. The size of this list grows exponentially with the depth of the search tree. This has led many authors to conclude that SSS* is effectively disqualified from being useful for real applications like game-playing programs. Third, the OPEN list must be kept in sorted order. Insert and (in particular) delete/purge operations on the OPEN list can dominate the execution time of any program using SSS*. Despite the promise of expanding fewer nodes, the disadvantages of SSS* have proven a significant deterrent in practice.
 
 ```
 
@@ -87,8 +84,7 @@ Quote by [Judea Pearl](Judea_Pearl "Judea Pearl") 1984 <a id="cite-note-9" href=
 
 
 
-```C++
-The meager improvement in the pruning power of SSS* is more than offset by the increased storage space and bookkeeping (e.g. sorting OPEN) that it requires. One can safely speculate therefore that [alphabeta](Alpha-Beta "Alpha-Beta") will continue to monopolize the practice of computerized game playing.
+```C++The meager improvement in the pruning power of SSS* is more than offset by the increased storage space and bookkeeping (e.g. sorting OPEN) that it requires. One can safely speculate therefore that [alphabeta](Alpha-Beta "Alpha-Beta") will continue to monopolize the practice of computerized game playing.
 
 ```
 
@@ -118,7 +114,6 @@ based on [Alexander Reinefeld's](Alexander_Reinefeld "Alexander Reinefeld") [Pas
 
 
 ```C++
-
 int RecSS*(nodeType n)
 {
    if (n is leaf) {
@@ -149,7 +144,6 @@ int RecSS*(nodeType n)
 
 
 ```C++
-
 int main()
 {
    insert (root, UNEXPANDED, oo);
@@ -176,7 +170,6 @@ int main()
 
 
 ```C++
-
 int MT-SSS*( n )
 {
    g := +oo;
@@ -191,7 +184,6 @@ int MT-SSS*( n )
 
 
 ```C++
-
 int MT-DUAL*(n)
 {
    g := -oo;

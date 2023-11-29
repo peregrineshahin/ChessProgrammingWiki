@@ -22,7 +22,6 @@ Most [central processing units](https://en.wikipedia.org/wiki/Central_processing
 
 
 ```C++
-
 push(register) ::= stack[--sp] := register
 pop (register) ::= register := stack[sp++]
 
@@ -37,7 +36,6 @@ A typical 8086 stack frame with [Pascal calling conventions](https://en.wikipedi
 
 
 ```C++
-
 push word para1
 push word para2
 call foo
@@ -60,7 +58,6 @@ with following memory layout inside the scope of *foo*:
 
 
 ```C++
-
 stack growth
 ^   <---- 16 bit ---->
 |  +------------------+            +------+
@@ -98,7 +95,6 @@ The [Reverse Polish](https://en.wikipedia.org/wiki/Reverse_Polish_notation) or P
 
 
 ```C++
-
 (1 + 2)*(3 + 4)
 
 ```
@@ -109,7 +105,6 @@ The [Reverse Polish](https://en.wikipedia.org/wiki/Reverse_Polish_notation) or P
 
 
 ```C++
-
        *
    +       +
  1   2   3   4
@@ -122,7 +117,6 @@ The [Reverse Polish](https://en.wikipedia.org/wiki/Reverse_Polish_notation) or P
 
 
 ```C++
-
  push 1
  push 2
  add

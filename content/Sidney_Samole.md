@@ -36,32 +36,27 @@ Quote from the [ICCA](ICCA "ICCA") Obituary <a id="cite-note-5" href="#cite-ref-
 
 
 
-```C++
-Sid Samole touched the lives of chess aficionados and computer-chess scientists alike. His characteristic proposal was: "How about a nice game of chess?"
+```C++Sid Samole touched the lives of chess aficionados and computer-chess scientists alike. His characteristic proposal was: "How about a nice game of chess?"
 
 ```
 
 
-```C++
-Today it is hard to imagine the chess world without computers. And it is equally hard to imagine being able to appreciate fully American chess history without understanding the position of Sidney Samole. He was the man who dreamed, patented and produced the first commercial chess computer. Samole closely cooperated with Ron Nelson (his first protegee) and later with Dan and Kathe Spracklen. Together with them and through their computer programs he as the team captain holds many world and national titles. Here is a partial list of their championships.
+```C++Today it is hard to imagine the chess world without computers. And it is equally hard to imagine being able to appreciate fully American chess history without understanding the position of Sidney Samole. He was the man who dreamed, patented and produced the first commercial chess computer. Samole closely cooperated with Ron Nelson (his first protegee) and later with Dan and Kathe Spracklen. Together with them and through their computer programs he as the team captain holds many world and national titles. Here is a partial list of their championships.
 
 ```
 
 
-```C++
-[Fidelity's creatures](Fidelity_Electronics "Fidelity Electronics") won the first four [World Microcomputer Chess Championships](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship"): [Chess Challenger](Chess_Challenger "Chess Challenger") won in [London 1980](WMCCC_1980 "WMCCC 1980"), [Fidelity X](Fidelity "Fidelity") in [Travemünde 1981](WMCCC_1981 "WMCCC 1981"), [Elite A/S](Elite "Elite") in [Budapest 1983](WMCCC_1983 "WMCCC 1983"), and [Elite X](Elite "Elite") in [Glasgow 1984](WMCCC_1984 "WMCCC 1984"). Moreover, they won the first four [United States Open Computer Chess Championship](United_States_Open_Computer_Chess_Championship "United States Open Computer Chess Championship"), all held in [Mobile, Alabama](https://en.wikipedia.org/wiki/Mobile,_Alabama), in [1985](USOCCC_1985 "USOCCC 1985"), [1986](USOCCC_1986 "USOCCC 1986"), [1987](USOCCC_1987 "USOCCC 1987") and [1988](USOCCC_1988 "USOCCC 1988"). A remarkable performance is its first place in the [ACM 1988](ACM_1988 "ACM 1988") Championship, tied with [Deep Thought](Deep_Thought "Deep Thought").
+```C++[Fidelity's creatures](Fidelity_Electronics "Fidelity Electronics") won the first four [World Microcomputer Chess Championships](World_Microcomputer_Chess_Championship "World Microcomputer Chess Championship"): [Chess Challenger](Chess_Challenger "Chess Challenger") won in [London 1980](WMCCC_1980 "WMCCC 1980"), [Fidelity X](Fidelity "Fidelity") in [Travemünde 1981](WMCCC_1981 "WMCCC 1981"), [Elite A/S](Elite "Elite") in [Budapest 1983](WMCCC_1983 "WMCCC 1983"), and [Elite X](Elite "Elite") in [Glasgow 1984](WMCCC_1984 "WMCCC 1984"). Moreover, they won the first four [United States Open Computer Chess Championship](United_States_Open_Computer_Chess_Championship "United States Open Computer Chess Championship"), all held in [Mobile, Alabama](https://en.wikipedia.org/wiki/Mobile,_Alabama), in [1985](USOCCC_1985 "USOCCC 1985"), [1986](USOCCC_1986 "USOCCC 1986"), [1987](USOCCC_1987 "USOCCC 1987") and [1988](USOCCC_1988 "USOCCC 1988"). A remarkable performance is its first place in the [ACM 1988](ACM_1988 "ACM 1988") Championship, tied with [Deep Thought](Deep_Thought "Deep Thought").
 
 ```
 
 
-```C++
-In 1976, Sid owned and operated Fidelity Electronics, a hearing-aid manufacturing firm he had built up with contracts from the Veterans' Administration. Among its other cutting-edge technology, his firm produced high-tech, bio-medical products, such as [myo-electric](https://en.wikipedia.org/wiki/Electromyography) hands, prostheses that could actually be controlled by the brain impulses of amputees.
+```C++In 1976, Sid owned and operated Fidelity Electronics, a hearing-aid manufacturing firm he had built up with contracts from the Veterans' Administration. Among its other cutting-edge technology, his firm produced high-tech, bio-medical products, such as [myo-electric](https://en.wikipedia.org/wiki/Electromyography) hands, prostheses that could actually be controlled by the brain impulses of amputees.
 
 ```
 
 
-```C++
-After building three working models and four non-working models, Sid decided to promote his new brainchild at [Chicago's](https://en.wikipedia.org/wiki/Chicago) [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) in [January 1977](https://en.wikipedia.org/wiki/1977). It was clear that Sid's, and his chess computer's, time had come. Under his both imaginative and careful management, Fidelity prospered. Chess computers were hot, and Sid's keyboard-entry models held the field for a time. He went on to produce computerized bridge, checkers, and Othello. He designed and manufactured computerized gin and cribbage, as well as other card games. Fidelity manufactured all its games in the US. By 1989, a recession was in the wind, and Sid was sensitive to its warning breezes. He sold Fidelity Electronics at the top of its value to [Hegener and Glaser](Hegener_%26_Glaser "Hegener & Glaser"), a German public firm. Largely as a result of his role in the tale of the chess-playing microcomputer's Sid became a multi-millionaire entrepreneur. Throughout his life he remained straightforward and self-deprecating about his success. 
+```C++After building three working models and four non-working models, Sid decided to promote his new brainchild at [Chicago's](https://en.wikipedia.org/wiki/Chicago) [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) in [January 1977](https://en.wikipedia.org/wiki/1977). It was clear that Sid's, and his chess computer's, time had come. Under his both imaginative and careful management, Fidelity prospered. Chess computers were hot, and Sid's keyboard-entry models held the field for a time. He went on to produce computerized bridge, checkers, and Othello. He designed and manufactured computerized gin and cribbage, as well as other card games. Fidelity manufactured all its games in the US. By 1989, a recession was in the wind, and Sid was sensitive to its warning breezes. He sold Fidelity Electronics at the top of its value to [Hegener and Glaser](Hegener_%26_Glaser "Hegener & Glaser"), a German public firm. Largely as a result of his role in the tale of the chess-playing microcomputer's Sid became a multi-millionaire entrepreneur. Throughout his life he remained straightforward and self-deprecating about his success. 
 
 ```
 

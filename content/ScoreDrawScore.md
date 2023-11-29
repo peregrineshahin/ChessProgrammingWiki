@@ -62,7 +62,6 @@ Other [leaf nodes](Leaf_Node "Leaf Node") than terminal nodes determine a heuris
 
 
 ```C++
-
  9*VALUE_QUEEN + 2*VALUE_ROOK + 2*VALUE_BISHOP + 2*VALUE_KNIGHT
 
 ```
@@ -89,7 +88,6 @@ The value range of the score is determined by the mate scores, which range shoul
 
 
 ```C++
-
 -oo                                             zero                                              +oo
  +----------------+-+--------+-+---------------+----+---------------+-+---------+-+---------------+
  | mated in 0...N |~| losing |~| -4 queens ... |draw| ...  4 queens |~| winning |~| mate in N...1 |
@@ -121,8 +119,7 @@ On the other hand, some programmers perform a final [rounding](https://en.wikipe
 
 
 
-```C++
- The coarser the grain of eval, the less passes MTD(f) has to make to converge to the minimax value. Some programs have a fine grained evaluation function, where positional knowledge can be worth as little as one hundredth of a pawn. Big score swings can become inefficient for these programs. It may help to dynamically increase the step size: instead of using the previous bound, one can, for example, add an extra few points in the search direction (for failing high, or searching upward, adding the bonus, and for failing low, or searching downward, subtracting the bonus) every two passes or so. ([Don Dailey](Don_Dailey "Don Dailey") found that a scheme like this works well in a version of [CilkChess](CilkChess "CilkChess").) At the end, if you overshoot the minimax value, you have to make a small search in the opposite direction, using the previous search bound without an extra bonus, to make the final convergence. Also, it can be quite instructive to experiment with different evaluation function grain sizes. Sometimes coarse grain functions work better than fine grain, both for [NegaScout](NegaScout "NegaScout") and MTD(f). 
+```C++ The coarser the grain of eval, the less passes MTD(f) has to make to converge to the minimax value. Some programs have a fine grained evaluation function, where positional knowledge can be worth as little as one hundredth of a pawn. Big score swings can become inefficient for these programs. It may help to dynamically increase the step size: instead of using the previous bound, one can, for example, add an extra few points in the search direction (for failing high, or searching upward, adding the bonus, and for failing low, or searching downward, subtracting the bonus) every two passes or so. ([Don Dailey](Don_Dailey "Don Dailey") found that a scheme like this works well in a version of [CilkChess](CilkChess "CilkChess").) At the end, if you overshoot the minimax value, you have to make a small search in the opposite direction, using the previous search bound without an extra bonus, to make the final convergence. Also, it can be quite instructive to experiment with different evaluation function grain sizes. Sometimes coarse grain functions work better than fine grain, both for [NegaScout](NegaScout "NegaScout") and MTD(f). 
 
 ```
 
@@ -146,7 +143,6 @@ A shiftless sign extension of stored signed values with less bits required than 
 
 
 ```C++
-
 X_signextended ::= (X_zeroextended ^ signbit) - signbit
 
 ```
@@ -157,7 +153,6 @@ or, since masking is usually required anyway,
 
 
 ```C++
-
 X_signextended ::= (X & (signbit-1)) - (X & signbit)
 
 ```

@@ -13,15 +13,13 @@ In the late 90s and early 2000s, Guido Schimmels was engaged in computer chess p
 
 Guido Schimmels in a [CCC](CCC "CCC") post on the difference of [PVS](Principal_Variation_Search "Principal Variation Search") vs. [NegaScout](NegaScout "NegaScout") <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```C++
-The difference is how they handle re-searches: PVS passes alpha/beta while NegaScout passes the value returned by the null window search instead of alpha. But then you can get a fail-low on the research due to [search anonomalies](Search_Instability "Search Instability"). If that happens NegaScout returns the value from the first search. That means you will have a crippled [PV](Principal_Variation "Principal Variation"). Then there is a refinement [Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") suggests which is to ommit the re-search at the last two plies (depth > 1) - but that won't work in a real program because of [search extensions](Extensions "Extensions"). NegaScout is slightly an [ivory tower](https://en.wikipedia.org/wiki/Ivory_Tower) variant of PVS (IMHO).  
+```C++The difference is how they handle re-searches: PVS passes alpha/beta while NegaScout passes the value returned by the null window search instead of alpha. But then you can get a fail-low on the research due to [search anonomalies](Search_Instability "Search Instability"). If that happens NegaScout returns the value from the first search. That means you will have a crippled [PV](Principal_Variation "Principal Variation"). Then there is a refinement [Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") suggests which is to ommit the re-search at the last two plies (depth > 1) - but that won't work in a real program because of [search extensions](Extensions "Extensions"). NegaScout is slightly an [ivory tower](https://en.wikipedia.org/wiki/Ivory_Tower) variant of PVS (IMHO).  
 
 ```
 
 ## PVS
 
 ```C++
-
 value = PVS(-(alpha+1),-alpha)
 if(value > alpha && value < beta) {
   value = PVS(-beta,-alpha);
@@ -32,7 +30,6 @@ if(value > alpha && value < beta) {
 ## NegaScout
 
 ```C++
-
 value = NegaScout(-(alpha+1),-alpha)
 if(value > alpha && value < beta && depth > 1) {
   value2 = NegaScout(-beta,-value)

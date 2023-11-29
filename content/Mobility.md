@@ -28,8 +28,7 @@ Notes by [Tony Marsland](Tony_Marsland "Tony Marsland") on *[The World Computer-
 
 
 
-```C++
-[Freedom](Freedom "Freedom") and [Papa](Papa "Papa") both use mobility as their primary term in their [evaluation functions](Evaluation_Function "Evaluation Function"). As with [Wita](Awit "Awit"), both use the ratio of computer's moves / opponent moves. Papa and Wita also multiply by the ratio of the [squares controlled](Square_Control "Square Control") and Papa goes one step further and takes the [logarithm](https://en.wikipedia.org/wiki/Logarithm) of this product to form the "[entropy](Papa#Entropy "Papa")" of the position. The true merit of this entropy over the product ratio was not made clear, but it does ensure that in extreme situations the evaluation remains more closely bounded. 
+```C++[Freedom](Freedom "Freedom") and [Papa](Papa "Papa") both use mobility as their primary term in their [evaluation functions](Evaluation_Function "Evaluation Function"). As with [Wita](Awit "Awit"), both use the ratio of computer's moves / opponent moves. Papa and Wita also multiply by the ratio of the [squares controlled](Square_Control "Square Control") and Papa goes one step further and takes the [logarithm](https://en.wikipedia.org/wiki/Logarithm) of this product to form the "[entropy](Papa#Entropy "Papa")" of the position. The true merit of this entropy over the product ratio was not made clear, but it does ensure that in extreme situations the evaluation remains more closely bounded. 
 
 ```
 
@@ -65,14 +64,12 @@ Notes by [Tony Marsland](Tony_Marsland "Tony Marsland") on *[The World Computer-
 
 
 
-```C++
-This article suggests a new approach to computer chess. A graph-theoretic representation of chess knowledge, uniformly based on a single mathematical abstraction, DISTANCE, is described. Most of the traditional forms of [chess knowledge](Knowledge "Knowledge"), it is shown, can be formalized in this new representation. In addition to comparing this approach to others, the article gives some experimental results and suggests how the new representation may be unified with existing approaches.
+```C++This article suggests a new approach to computer chess. A graph-theoretic representation of chess knowledge, uniformly based on a single mathematical abstraction, DISTANCE, is described. Most of the traditional forms of [chess knowledge](Knowledge "Knowledge"), it is shown, can be formalized in this new representation. In addition to comparing this approach to others, the article gives some experimental results and suggests how the new representation may be unified with existing approaches.
 
 ```
 
 
-```C++
-The DISTANCE idea is based on exploring a [piece's](Pieces "Pieces") mobility graph to determine what is close to and what is close to it. From a DISTANCE standpoint, [moves](Moves "Moves") on the [chess-board](Chessboard "Chessboard") are only considered good if they result in improved movement graphs for the mover's pieces and/or inferior ones for the opponent's pieces. Often, a good chess-player will move a piece, not to improve the attacking chances of that piece but rather the attacking chances of the piece behind it. 
+```C++The DISTANCE idea is based on exploring a [piece's](Pieces "Pieces") mobility graph to determine what is close to and what is close to it. From a DISTANCE standpoint, [moves](Moves "Moves") on the [chess-board](Chessboard "Chessboard") are only considered good if they result in improved movement graphs for the mover's pieces and/or inferior ones for the opponent's pieces. Often, a good chess-player will move a piece, not to improve the attacking chances of that piece but rather the attacking chances of the piece behind it. 
 
 ```
 
@@ -106,8 +103,7 @@ Quote by [Alan Turing](Alan_Turing "Alan Turing") on [Slater's](Eliot_Slater "El
 
 
 
-```C++
-I wish to make two points concerning Dr. Slater's paper. I was greatly interested by the statistics provided, but fear that some people might draw invalid conclusions from them. It might for instance be thought that a good way of playing is to maximize one's mobility at one's next move, or perhaps to minimize that of one's opponent at his next move but one. It is evidently not feasible to foresee mobilities many moves ahead. Although the immediate mobility is a useful measure of the relative advantage of the players in normal play it by no means follows that it is wise to direct one's play to maximizing such a measure. To do so would be like taking a statistical analysis of the laundry of men in various positions and deciding, from the data collected, that an infallible method of getting ahead in life was to send a large number of shirts to the wash each week. 
+```C++I wish to make two points concerning Dr. Slater's paper. I was greatly interested by the statistics provided, but fear that some people might draw invalid conclusions from them. It might for instance be thought that a good way of playing is to maximize one's mobility at one's next move, or perhaps to minimize that of one's opponent at his next move but one. It is evidently not feasible to foresee mobilities many moves ahead. Although the immediate mobility is a useful measure of the relative advantage of the players in normal play it by no means follows that it is wise to direct one's play to maximizing such a measure. To do so would be like taking a statistical analysis of the laundry of men in various positions and deciding, from the data collected, that an infallible method of getting ahead in life was to send a large number of shirts to the wash each week. 
 
 ```
 
@@ -119,8 +115,7 @@ I wish to make two points concerning Dr. Slater's paper. I was greatly intereste
 
 
 
-```C++
-Dr. Turing's argument by analogy what a naive laundry worker might conclude about ways of becoming rich really amounts to the suggestion that strategic advantage is the cause rather than the product of an advantage in mobility. I do not think that this can be accepted. An advantage in mobility usually appears in a game a number of moves before strategic advantage is detectable in other ways; it seems to be an essential aspect of what chess-players understand by "development"; and it supplies the decisive criterion of winning or losing. 
+```C++Dr. Turing's argument by analogy what a naive laundry worker might conclude about ways of becoming rich really amounts to the suggestion that strategic advantage is the cause rather than the product of an advantage in mobility. I do not think that this can be accepted. An advantage in mobility usually appears in a game a number of moves before strategic advantage is detectable in other ways; it seems to be an essential aspect of what chess-players understand by "development"; and it supplies the decisive criterion of winning or losing. 
 
 ```
 

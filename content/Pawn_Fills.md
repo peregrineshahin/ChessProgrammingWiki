@@ -20,7 +20,6 @@ The union of both front- and rearfills, leaves the complete file with at least o
 
 
 ```C++
-
 U64 fileFill(U64 gen) {
    return nortFill(gen) | soutFill(gen);
 }
@@ -29,7 +28,6 @@ U64 fileFill(U64 gen) {
 
 
 ```C++
-
 white pawns         black pawns
 . . . . . . . .     . . . . . . . .
 . . . . . . . .     . 1 . . . 1 1 .

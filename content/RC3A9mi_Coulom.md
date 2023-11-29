@@ -52,38 +52,32 @@ Post by Rémi Coulom on [open source](Category:Open_Source "Category:Open Source
 
 
 
-```C++
-In the last release of [The Crazy Bishop](The_Crazy_Bishop "The Crazy Bishop"), I have added a part of the source code. Here is what I added to the web page:
+```C++In the last release of [The Crazy Bishop](The_Crazy_Bishop "The Crazy Bishop"), I have added a part of the source code. Here is what I added to the web page:
 
 ```
 
 
-```C++
-*I will not distribute the source code of TCB. I fear that distributing it can have unpleasant consequences, such as the risk of meeting a modified version in a tournament, which happened to [Crafty](Crafty "Crafty") in [Jakarta](WMCCC_1996 "WMCCC 1996"). I think that keeping the code **secret** is a good way to preserve the fun of competition.*
+```C++*I will not distribute the source code of TCB. I fear that distributing it can have unpleasant consequences, such as the risk of meeting a modified version in a tournament, which happened to [Crafty](Crafty "Crafty") in [Jakarta](WMCCC_1996 "WMCCC 1996"). I think that keeping the code **secret** is a good way to preserve the fun of competition.*
 
 ```
 
 
-```C++
-*However, this distribution includes the source code of the [C++](Cpp "Cpp") chess library used by TCB, along with a very simple (and poor) chess engine demonstrating how to use it. This chess library could be useful for people wanting to write their own chess program. By subclassing the CEngine class, you will be able to concentrate on the programming of the chess engine only, and the class library will give you for free a console user interface, xboard/Zippy interface, search tree analysis tools, pgn file input/output, and more to come in future versions. Since no programer showed interest in this class library yet, it is not documented for more than my personal use. If my code raises some interest among programmers, I will add the necessary documentation.*
+```C++*However, this distribution includes the source code of the [C++](Cpp "Cpp") chess library used by TCB, along with a very simple (and poor) chess engine demonstrating how to use it. This chess library could be useful for people wanting to write their own chess program. By subclassing the CEngine class, you will be able to concentrate on the programming of the chess engine only, and the class library will give you for free a console user interface, xboard/Zippy interface, search tree analysis tools, pgn file input/output, and more to come in future versions. Since no programer showed interest in this class library yet, it is not documented for more than my personal use. If my code raises some interest among programmers, I will add the necessary documentation.*
 
 ```
 
 
-```C++
-Some students in a French school have to write a chess program as a project, and decided to use my chess library. This means that I will probably add documentation soon.
+```C++Some students in a French school have to write a chess program as a project, and decided to use my chess library. This means that I will probably add documentation soon.
 
 ```
 
 
-```C++
-By the way, new improvements will be added very soon to my web page. (probably before tomorrow). I am testing changes I have made this week end before I publish them. TCB 0026 is now about 10% faster than the previous version, with a better positional evaluation.
+```C++By the way, new improvements will be added very soon to my web page. (probably before tomorrow). I am testing changes I have made this week end before I publish them. TCB 0026 is now about 10% faster than the previous version, with a better positional evaluation.
 
 ```
 
 
-```C++
-Rémi 
+```C++Rémi 
 
 ```
 

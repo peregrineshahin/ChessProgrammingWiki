@@ -12,11 +12,9 @@ Like other [X-ray](X-ray "X-ray") related tactics, considering batteries may be 
 
 Whether a (rook-) battery deserves a general bonus in [evaluation](Evaluation "Evaluation") is debatable, assuming there are already singular bonuses for occupying [open- or half-open files](Rook_on_Open_File "Rook on Open File") or the [seventh rank](Rook_on_Seventh "Rook on Seventh") respectively. [Larry Kaufman](Larry_Kaufman "Larry Kaufman") even proposed a rook-pair penalty with respect to a [bishop pair](Bishop_Pair "Bishop Pair") <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
-```C++
-In my opinion, another reason is that any other pair of pieces suffers from redundancy. Two knights, two rooks, bishop and knight, or major plus minor piece are all capable of guarding the same squares, and therefore there is apt to be some duplication of function.
+```C++In my opinion, another reason is that any other pair of pieces suffers from redundancy. Two knights, two rooks, bishop and knight, or major plus minor piece are all capable of guarding the same squares, and therefore there is apt to be some duplication of function.
 
 ```C++
-
 ```
 With two bishops traveling on opposite colored squares there is no possibility of any duplication of function. So, in theory, rather than giving a bonus to two bishops, we should penalize every other combination of pieces, but it is obviously much easier to reward the bishop pair. 
 

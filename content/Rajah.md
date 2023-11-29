@@ -30,7 +30,6 @@ Rajah's [board representation](Board_Representation "Board Representation") reli
 
 
 ```C++
-
 target_sq = current_sq;
 while (1) {
   target_sq += 15; /* the move up and left */

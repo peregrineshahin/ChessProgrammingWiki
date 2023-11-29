@@ -13,8 +13,7 @@ an American computer scientist, as a programmer long time affiliated with [City 
 In 1970/71, at [Columbia University](Columbia_University "Columbia University"), along with [Steven M. Bellovin](Steven_M._Bellovin "Steven M. Bellovin"), [Andrew Koenig](Andrew_Koenig "Andrew Koenig"), and [Aron Eisenpress](Aron_Eisenpress "Aron Eisenpress"), Ben Yalow co-authored the chess program [CCCP](</CCCP_(US)> "CCCP (US)"), which competed at the [ACM 1971](ACM_1971 "ACM 1971"), and was initially based on [Hans Berliner's](Hans_Berliner "Hans Berliner") program [J. Biit](J._Biit "J. Biit"), which [played one year before](ACM_1970 "ACM 1970") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>.
 Andrew Koenig on the individual roles of [CCCP's](</CCCP_(US)> "CCCP (US)") programming team <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```C++
-[I](Andrew_Koenig "Andrew Koenig") designed the overall structure of the program and coded much of the [human interface](User_Interface "User Interface"). [Steve](Steven_M._Bellovin "Steven M. Bellovin") wrote the [tree searching](Search "Search") and [pruning](Pruning "Pruning") routines, Ben did the [move generation](Move_Generation "Move Generation") and [evaluation routines](Evaluation "Evaluation"), and [Aron](Aron_Eisenpress "Aron Eisenpress") wrote the part of the human interface that made it possible to [enter moves](Entering_Moves "Entering Moves") at a [2250 display](https://en.wikipedia.org/wiki/IBM_2250) with a [light pen](https://en.wikipedia.org/wiki/Light_pen) ...
+```C++[I](Andrew_Koenig "Andrew Koenig") designed the overall structure of the program and coded much of the [human interface](User_Interface "User Interface"). [Steve](Steven_M._Bellovin "Steven M. Bellovin") wrote the [tree searching](Search "Search") and [pruning](Pruning "Pruning") routines, Ben did the [move generation](Move_Generation "Move Generation") and [evaluation routines](Evaluation "Evaluation"), and [Aron](Aron_Eisenpress "Aron Eisenpress") wrote the part of the human interface that made it possible to [enter moves](Entering_Moves "Entering Moves") at a [2250 display](https://en.wikipedia.org/wiki/IBM_2250) with a [light pen](https://en.wikipedia.org/wiki/Light_pen) ...
 
 ```
 
@@ -22,13 +21,11 @@ Andrew Koenig on the individual roles of [CCCP's](</CCCP_(US)> "CCCP (US)") prog
 
 Quote by Gillian Frasier from *Aron Eisenpress, CUNY/CIS's Renaissance Man* <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
-```C++
-Kenneth King was Director of the Columbia Computer Center and [Ira Fuchs](https://en.wikipedia.org/wiki/Ira_Fuchs) Manager of Systems Programming. These two got to know [Eisenpress](Aron_Eisenpress "Aron Eisenpress") and had the foresight to encourage his curiosity. He was hired part-time to train the operators and then full-time as a systems programmer in 1971.
+```C++Kenneth King was Director of the Columbia Computer Center and [Ira Fuchs](https://en.wikipedia.org/wiki/Ira_Fuchs) Manager of Systems Programming. These two got to know [Eisenpress](Aron_Eisenpress "Aron Eisenpress") and had the foresight to encourage his curiosity. He was hired part-time to train the operators and then full-time as a systems programmer in 1971.
 
 ```
 
-```C++
-In 1973, King was hired by the [City University of New York](https://en.wikipedia.org/wiki/City_University_of_New_York) as Dean of Computing, with the specific mandate to create the new central CUNY computer center at 57th Street. He brought with him many of his Columbia staff - Eisenpress, Ben Yalow, Ira Fuchs, ... who made up the initial core of the CUNY/UCC systems group. 
+```C++In 1973, King was hired by the [City University of New York](https://en.wikipedia.org/wiki/City_University_of_New_York) as Dean of Computing, with the specific mandate to create the new central CUNY computer center at 57th Street. He brought with him many of his Columbia staff - Eisenpress, Ben Yalow, Ira Fuchs, ... who made up the initial core of the CUNY/UCC systems group. 
 
 ```
 

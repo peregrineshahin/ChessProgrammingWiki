@@ -34,7 +34,6 @@ To test a bitboard is empty, one compares it with zero, or use the logical not o
 
 
 ```C++
-
 if ( x == 0 ) -> bitboard is empty
 if ( !x )     -> bitboard is empty
 
@@ -46,7 +45,6 @@ The inverse condition (not empty) is of course
 
 
 ```C++
-
 if ( x != 0 ) -> bitboard is not empty
 if ( x )      -> bitboard is not empty
 
@@ -65,7 +63,6 @@ If the bitboard is not empty, we can [extract](General_Setwise_Operations#LS1BSe
 
 
 ```C++
-
 if ( x != 0 && (x & (x-1)) == 0 ) -> population count is one, power of two value
 
 ```
@@ -76,7 +73,6 @@ One can skip the leading x != 0 condition to test popcount <= 1:
 
 
 ```C++
-
 if ( (x & (x-1)) == 0 ) -> population count is less or equal than one
 
 ```
@@ -87,7 +83,6 @@ Again the inverse relation tests, whether a bitboard has more than one bit set:
 
 
 ```C++
-
 if ( x & (x-1) ) -> population count is greater than one
 
 ```
@@ -98,7 +93,6 @@ An alternative approach to determine single populated sets, aka power of two val
 
 
 ```C++
-
 if ( ((x ^ (x-1)) >> 1) == (x-1) ) -> population count is one, power of two value
 
 ```
@@ -119,7 +113,6 @@ Brute force adding all 64-bits
 
 
 ```C++
-
 int popCount (U64 x) {
    int count = 0;
    for (int i = 0; i < 64; i++, x >>= 1)
@@ -145,7 +138,6 @@ Consecutively [reset LS1B](General_Setwise_Operations#LS1BReset "General Setwise
 
 
 ```C++
-
 int popCount (U64 x) {
    int count = 0;
    while (x) {
@@ -173,7 +165,6 @@ Of course we can not use the whole bitboard as index to a lookup table - since i
 
 
 ```C++
-
 unsigned char popCountOfByte256[];
 
 void initpopCountOfByte256()
@@ -202,7 +193,6 @@ Looks quite expensive - one may use four 16-bit word-lookups with a pre-calculat
 
 
 ```C++
-
 int popCount (U64 x) {
    unsigned char * p = (unsigned char *) &x;
    return popCountOfByte256[p[0]] +
@@ -236,8 +226,7 @@ A bit-duo (two neighboring bits) can be interpreted with bit 0 = a, and bit 1 = 
 
 
 
-```C++
-duo := 2b + a
+```C++duo := 2b + a
 
 ```
 
@@ -246,8 +235,7 @@ The duo population is
 
 
 
-```C++
-popcnt(duo) := b + a
+```C++popcnt(duo) := b + a
 
 ```
 
@@ -256,8 +244,7 @@ which can be archived by
 
 
 
-```C++
-(2b + a) - (2b + a) ÷ 2
+```C++(2b + a) - (2b + a) ÷ 2
 
 ```
 
@@ -266,8 +253,7 @@ or
 
 
 
-```C++
-(2b + a) - b
+```C++(2b + a) - b
 
 ```
 
@@ -306,7 +292,6 @@ Only the lower bit is needed from x div 2 - and one don't has to worry about bor
 
 
 ```C++
-
 x = x - ((x >> 1) & 0x5555555555555555);
 
 ```
@@ -324,7 +309,6 @@ The next step is to add the duo-counts to populations of four neighboring bits, 
 
 
 ```C++
-
  x = (x & 0x3333333333333333) + ((x >> 2) & 0x3333333333333333);
 
 ```
@@ -342,7 +326,6 @@ You already got the idea? Now it is about to get the byte-populations from two n
 
 
 ```C++
-
 x = (x + (x >> 4)) & 0x0f0f0f0f0f0f0f0f;
 
 ```
@@ -359,7 +342,6 @@ We may continue with mask-less [parallel prefix](Parallel_Prefix_Algorithms "Par
 
 
 ```C++
-
 x += (x >>  8);
 x += (x >> 16);
 x += (x >> 32);
@@ -380,7 +362,6 @@ With todays fast 64-bit multiplication one can multiply the vector of 8-byte-cou
 
 
 ```C++
-
 x = (x * 0x0101010101010101) >> 56;
 
 ```
@@ -398,7 +379,6 @@ Interestingly, there is another approach to add the bytes together. As demonstra
 
 
 ```C++
-
 x = x % 255;
 
 ```
@@ -419,7 +399,6 @@ Putting all together, the various SWAR-Masks and factors as defined by [Donald K
 
 
 ```C++
-
 const U64 k1 = C64(0x5555555555555555); /*  -1/3   */
 const U64 k2 = C64(0x3333333333333333); /*  -1/5   */
 const U64 k4 = C64(0x0f0f0f0f0f0f0f0f); /*  -1/17  */
@@ -433,7 +412,6 @@ represented as bitboards:
 
 
 ```C++
-
 k1  -1/3            k2  -1/5            k4  -1/17           kf  -1/255              
 0x5555555555555555  0x3333333333333333  0x0f0f0f0f0f0f0f0f  0x0101010101010101
 1 . 1 . 1 . 1 .     1 1 . . 1 1 . .     1 1 1 1 . . . .     1 . . . . . . .   
@@ -456,7 +434,6 @@ This is how the complete routine looks in [C](C "C"):
 
 
 ```C++
-
 int popCount (U64 x) {
     x =  x       - ((x >> 1)  & k1); /* put count of each 2 bits into those 2 bits */
     x = (x & k2) + ((x >> 2)  & k2); /* put count of each 4 bits into those 4 bits */
@@ -485,7 +462,6 @@ A similar technique was proposed by [Bill Gosper](Bill_Gosper "Bill Gosper") et 
 
 
 ```C++
-
 int hakmem169_32(unsigned int x) {
    x = x  - ((x >> 1)  & 033333333333)
           - ((x >> 2)  & 011111111111);
@@ -511,7 +487,6 @@ If we like to count [arrays](Array "Array") of sets, we can reduce 2^N-1 popcoun
 
 
 ```C++
-
   odd   =  (x ^ y)  ^ z;
   major = ((x ^ y ) & z) | (x & y);
 
@@ -525,7 +500,6 @@ The combined popCount3 likely gains more parallel speedup, since there are two i
 
 
 ```C++
-
 // return popCount(x) + popCount(y) + popCount(z)
 int popCount3 (U64 x, U64 y, U64 z) {
     U64 maj = ((x ^ y ) & z) | (x & y);
@@ -555,7 +529,6 @@ That is 7 - 3 = 4 pairs:
 
 
 ```C++
-
 one1,two1 := oddMaj(x1,x2,x3)
 one2,two2 := oddMaj(x4,x5,x6)
 ones,two3 := oddMaj(x7,one1,one2)
@@ -569,7 +542,6 @@ Or 15 - 4 = 11 pairs:
 
 
 ```C++
-
 one1,two1  := oddMaj(x1,x2,x3)
 one2,two2  := oddMaj(x4,x5,x6)
 one3,two3  := oddMaj(x7,x8,x9)
@@ -597,7 +569,6 @@ Odd-Major is probably also useful to determine digit count sets of attacks or ot
 
 
 ```C++
-
 U64 odd(U64 x, U64 y, U64 z) {return x^y^z;}
 U64 maj(U64 x, U64 y, U64 z) {return ((x^y)&z)|(x&y);}
 
@@ -620,7 +591,6 @@ with following semantics:
 
 
 ```C++
-
 exactly7attacks :=   t[2] &  t[1] &  t[0]
 exactly6attacks :=   t[2] &  t[1] & ~t[0]
 exactly5attacks :=   t[2] & ~t[1] &  t[0]
@@ -647,7 +617,6 @@ Assuming an architecture has a fast popcount-instruction (but no bitscan). One c
 
 
 ```C++
-
 log2(LS1B) = popCount( LS1B - 1 );
 bitIndexOfLS1B(x) = popCount( (x & -x) - 1 );
 
@@ -659,7 +628,6 @@ For instance, LS1B is 2^44, decrementing leaves a below LSB1 mask with exactly 4
 
 
 ```C++
-
 0x0000100000000000   0x00000FFFFFFFFFFF
 . . . . . . . .      . . . . . . . .
 . . . . . . . .      . . . . . . . .
@@ -685,7 +653,6 @@ The [hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) of two wo
 
 
 ```C++
-
 int hammingDistance (U64 a, U64 b) {return popcnt( a ^ b);}
 
 ```

@@ -88,8 +88,7 @@ Renamed into the **ICGA** in [2002](Timeline#2002 "Timeline") <a id="cite-note-4
 
 [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), 1997 in a [rgcc](Computer_Chess_Forums "Computer Chess Forums") post <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
-```C++
-I was there when [Barend Swets](Barend_Swets "Barend Swets") (Believe the spelling is correct) proposed forming this organization in [1977](WCCC_1977 "WCCC 1977") in Toronto. I was one of many that stood up and said "yes, I'll join." However, others stood up and said I'll not only join, I'll help for nothing, and the [ICCA](ICCA "ICCA") was formed, and continues to work this way. 
+```C++I was there when [Barend Swets](Barend_Swets "Barend Swets") (Believe the spelling is correct) proposed forming this organization in [1977](WCCC_1977 "WCCC 1977") in Toronto. I was one of many that stood up and said "yes, I'll join." However, others stood up and said I'll not only join, I'll help for nothing, and the [ICCA](ICCA "ICCA") was formed, and continues to work this way. 
 
 ```
 
@@ -97,8 +96,7 @@ I was there when [Barend Swets](Barend_Swets "Barend Swets") (Believe the spelli
 
 [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") in 2001 in *The Bell Captain* <a id="cite-note-6" href="#cite-ref-6">[6]</a> :
 
-```C++
-In 1977, the ICCA was founded during the [Second World Computer-Chess Championship in Toronto](WCCC_1977 "WCCC 1977"). The organisation was the brainchild of [Barend Swets](Barend_Swets "Barend Swets") and many participants supported the idea, among them [Ken Thompson](Ken_Thompson "Ken Thompson") who then tied for 4th place amongst 16 participants with his program [BELLE](Belle "Belle"). [CHESS 4.6](Chess_(Program) "Chess (Program)") won the title but Ken received credit for BELLE's KQKR endgame play against [IGM Walter Browne](https://en.wikipedia.org/wiki/Walter_Browne) (Fenner, 1979) <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> . Further, Ken agreed to serve as Secretary and Treasurer of the new organisation alongside [Ben Mittman](Ben_Mittman "Ben Mittman"), the first ICCA President, and did so successfully and with much enthusiasm for six years. 
+```C++In 1977, the ICCA was founded during the [Second World Computer-Chess Championship in Toronto](WCCC_1977 "WCCC 1977"). The organisation was the brainchild of [Barend Swets](Barend_Swets "Barend Swets") and many participants supported the idea, among them [Ken Thompson](Ken_Thompson "Ken Thompson") who then tied for 4th place amongst 16 participants with his program [BELLE](Belle "Belle"). [CHESS 4.6](Chess_(Program) "Chess (Program)") won the title but Ken received credit for BELLE's KQKR endgame play against [IGM Walter Browne](https://en.wikipedia.org/wiki/Walter_Browne) (Fenner, 1979) <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> . Further, Ken agreed to serve as Secretary and Treasurer of the new organisation alongside [Ben Mittman](Ben_Mittman "Ben Mittman"), the first ICCA President, and did so successfully and with much enthusiasm for six years. 
 
 ```
 

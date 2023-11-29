@@ -12,8 +12,7 @@ a German mathematician and computer scientist, Ph.D. in 1975 from [Leipzig Unive
 
 A Quote from his biography <a id="cite-note-9" href="#cite-ref-9">[9]</a> :
 
-```C++
-An independent direction of research activities within AI, investigations of computer chess and other strategic games, arose from my love to chess. My actual research activities mainly concern the application of fuzzy logics for the modeling of human-like ”thinking” methods, the learning from examples, the construction of intelligent tutoring systems, the parallelization of inference mechanisms, systems of diagnosis and configuration. In cooperation with colleagues from directions of mechanical engineering and medicine, I have been supervising the construction of several expert systems. Four times I received the Scientific Award of the [Chemnitz University of Technology](Chemnitz_University_of_Technology "Chemnitz University of Technology"). 
+```C++An independent direction of research activities within AI, investigations of computer chess and other strategic games, arose from my love to chess. My actual research activities mainly concern the application of fuzzy logics for the modeling of human-like ”thinking” methods, the learning from examples, the construction of intelligent tutoring systems, the parallelization of inference mechanisms, systems of diagnosis and configuration. In cooperation with colleagues from directions of mechanical engineering and medicine, I have been supervising the construction of several expert systems. Four times I received the Scientific Award of the [Chemnitz University of Technology](Chemnitz_University_of_Technology "Chemnitz University of Technology"). 
 
 ```
 

@@ -11,8 +11,7 @@ an American computer chess periodical published quarterly from 1985 until 1996 b
 
 Quote from [rec.games.chess.computer](Computer_Chess_Forums "Computer Chess Forums") FAQ: <a id="cite-note-1" href="#cite-ref-1">[1]</a>:
 
-```C++
-Computer Chess Reports published quarterly by [ICD Corporation](index.php?title=ICD_Corporation&action=edit&redlink=1 "ICD Corporation (page does not exist)"), 21 Walt Whitman Road, Huntington Station, NY 11746.  Phone 800-645-4710.  Subscriptions are $18/year.  Focuses on computer chess, and rates [dedicated chess-playing computers](Dedicated_Chess_Computers "Dedicated Chess Computers") and software. This is worth looking at. 
+```C++Computer Chess Reports published quarterly by [ICD Corporation](index.php?title=ICD_Corporation&action=edit&redlink=1 "ICD Corporation (page does not exist)"), 21 Walt Whitman Road, Huntington Station, NY 11746.  Phone 800-645-4710.  Subscriptions are $18/year.  Focuses on computer chess, and rates [dedicated chess-playing computers](Dedicated_Chess_Computers "Dedicated Chess Computers") and software. This is worth looking at. 
 
 ```
 

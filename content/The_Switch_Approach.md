@@ -21,7 +21,6 @@ This is how it works for pure attacks, considering the [inner six](First_Rank_At
 
 
 ```C++
-
 U64 diagonalAttacks(U64 occ, enumSquare sq)
 {
    switch (sq)

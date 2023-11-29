@@ -61,8 +61,7 @@ based on Gaviota's change log until **v1.0** <a id="cite-note-5" href="#cite-ref
 
 [Miguel A. Ballicora](Miguel_A._Ballicora "Miguel A. Ballicora") on the name of his program <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
-```C++
-Gaviota means "[seagull](https://en.wikipedia.org/wiki/Seagull)", from the story of [Jonathan Livingston Seagull](https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull). The spirit of the engine reflects the free spirit of the fictional bird, of flying for fun and excitement, not for food. In Spanish, the book was translated to [Juan Salvador Gaviota](http://es.wikipedia.org/wiki/Juan_Salvador_Gaviota). In addition, my wife's nickname is Gaby, so it has double meaning. 
+```C++Gaviota means "[seagull](https://en.wikipedia.org/wiki/Seagull)", from the story of [Jonathan Livingston Seagull](https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull). The spirit of the engine reflects the free spirit of the fictional bird, of flying for fun and excitement, not for food. In Spanish, the book was translated to [Juan Salvador Gaviota](http://es.wikipedia.org/wiki/Juan_Salvador_Gaviota). In addition, my wife's nickname is Gaby, so it has double meaning. 
 
 ```
 

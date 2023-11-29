@@ -10,15 +10,13 @@ The term **Distance** refers to the minimal number of [moves](Moves "Moves") a c
 
 The Chebyshev distance is the maximum of the absolute [rank-](Ranks#RankDistance "Ranks") and [file-distance](Files#FileDistance "Files") of both squares.
 
-```C++
-D = max(|r2 - r1|, |f2 - f1|)
+```C++D = max(|r2 - r1|, |f2 - f1|)
 
 ```
 
 while the orthogonal [Manhattan-Distance](Manhattan-Distance "Manhattan-Distance") is the sum of both absolute rank- and file-distance distances.
 
-```C++
-Dtaxi = |r2 - r1| + |f2 - f1|
+```C++Dtaxi = |r2 - r1| + |f2 - f1|
 
 ```
 
@@ -34,7 +32,6 @@ while
 The following [C](C "C")-routine performs the computation. One may use the mentioned square-, rank- or file-enumeration types instead of the used integers, or rely on anonymous enumeration in [C](C "C") or [C++](Cpp "Cpp") treated as integers anyway. One should use the [abs](Avoiding_Branches#Abs "Avoiding Branches") and [max](Avoiding_Branches#Max "Avoiding Branches") functions for likely branchless implementations.
 
 ```C++
-
 int distance(int sq1, int sq2) {
    int file1, file2, rank1, rank2;
    int rankDistance, fileDistance;
@@ -54,7 +51,6 @@ int distance(int sq1, int sq2) {
 Since the computation is relative expensive, often two dimensional tables with precalculated values are used for that purpose. A [Byte](Byte "Byte") as lowest addressable unit is more than enough and easily zero extended:
 
 ```C++
-
 unsigned char arrDistance[64][64]; // 4 KByte
 
 inline int distance(enumSquare sq1, enumSquare sq2) {
@@ -68,7 +64,6 @@ inline int distance(enumSquare sq1, enumSquare sq2) {
 [Vector attacks](Vector_Attacks "Vector Attacks") like [0x88](0x88 "0x88") [square relation](0x88#SquareRelations "0x88") permits a denser lookup approach. The difference of valid 0x88 coordinates of two squares is uniquely with respect to distance and [direction](Direction "Direction"). That way, one can greatly reduce the size of the lookup [array](Array "Array") to only 240 instead of 4096 elements. Some additional computation required, if one has to convert usual square coordinates to 0x88. If one already relies on 0x88 coordinates, it becomes even cheaper:
 
 ```C++
-
 unsigned char arrDistanceBy0x88Diff[240];
 
 unsigned int x88diff(enumSquare sq1, enumSquare sq2) {
@@ -86,7 +81,6 @@ inline int distance(enumSquare sq1, enumSquare sq2) {
 An approach with a 225 element table for king move distance, as well for other piece move distances, [directions](Direction "Direction"), [vector attacks](Vector_Attacks#Superimposition "Vector Attacks") and [increment vectors](Vector_Attacks#IncrementVectors "Vector Attacks"), was used in [Pioneer](Pioneer "Pioneer") as described by [Boris Stilman](Boris_Stilman "Boris Stilman") <a id="cite-note-2" href="#cite-ref-2">[2]</a>. The [8x8 array](8x8_Board "8x8 Board") is [superimposed](https://en.wikipedia.org/wiki/Superimposition) on the array 15x15 in such a way that square x coincides with the central square (112) of the array 15x15, see the sample with c2:
 
 ```C++
-
      ╔════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╤════╗
  210 ║  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 |  7 ║
      ╟────┼────┼────┼────┼────╔════╤════╤════╤════╤════╤════╤════╤════╗────┼────╢
@@ -129,7 +123,6 @@ The index calculation is trivial as well but slightly more expensive than the 0x
 The main application of square distance is the static [evaluation](Evaluation "Evaluation") of the late [endgame](Endgame "Endgame"), where for instance races of the two kings to certain squares is often an issue - or in so called [Mop-up evaluation](Mop-up_Evaluation "Mop-up Evaluation"), which considers the distance between winning and losing king. [Boris Stilman](Boris_Stilman "Boris Stilman") gave following example to generate a set of [trajectories](Trajectory "Trajectory") for a king moving from f6 to h1 <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
 ```C++
-
 D(f6,K)          +  D(h1,K)          =  SUM                 SUM == D(f6,h1)
 5 4 3 2 2 2 2 2     7 7 7 7 7 7 7 7     c b a 9 9 9 9 9     . . . . . . . .
 5 4 3 2 1 1 1 2     7 6 6 6 6 6 6 6     c a 9 8 7 7 7 8     . . . . . . . .
@@ -146,13 +139,11 @@ D(f6,K)          +  D(h1,K)          =  SUM                 SUM == D(f6,h1)
 
 Distance as generalization of [mobility](Mobility "Mobility") and [evaluation](Evaluation "Evaluation") term was introduced by [Robert Levinson](Robert_Levinson "Robert Levinson") and [Richard Snyder](Richard_Snyder "Richard Snyder") in the famous 1993 [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal") <a id="cite-note-4" href="#cite-ref-4">[4]</a> . Abstract and excerpt:
 
-```C++
-This article suggests a new approach to computer chess. A graph-theoretic representation of chess knowledge, uniformly based on a single mathematical abstraction, Distance, is described. Most of the traditional forms of [chess knowledge](Knowledge "Knowledge"), it is shown, can be formalized in this new representation. In addition to comparing this approach to others, the article gives some experimental results and suggests how the new representation may be unified with existing approaches.
+```C++This article suggests a new approach to computer chess. A graph-theoretic representation of chess knowledge, uniformly based on a single mathematical abstraction, Distance, is described. Most of the traditional forms of [chess knowledge](Knowledge "Knowledge"), it is shown, can be formalized in this new representation. In addition to comparing this approach to others, the article gives some experimental results and suggests how the new representation may be unified with existing approaches.
 
 ```
 
-```C++
-The Distance idea is based on exploring a [piece's](Pieces "Pieces") [mobility](Mobility "Mobility") graph to determine what is close to and what is close to it. From a Distance standpoint, [moves](Moves "Moves") on the [chess-board](Chessboard "Chessboard") are only considered good if they result in improved movement graphs for the mover's pieces and/or inferior ones for the opponent's pieces. Often, a good chess-player will move a piece, not to improve the attacking chances of that piece but rather the attacking chances of the piece behind it. 
+```C++The Distance idea is based on exploring a [piece's](Pieces "Pieces") [mobility](Mobility "Mobility") graph to determine what is close to and what is close to it. From a Distance standpoint, [moves](Moves "Moves") on the [chess-board](Chessboard "Chessboard") are only considered good if they result in improved movement graphs for the mover's pieces and/or inferior ones for the opponent's pieces. Often, a good chess-player will move a piece, not to improve the attacking chances of that piece but rather the attacking chances of the piece behind it. 
 
 ```
 

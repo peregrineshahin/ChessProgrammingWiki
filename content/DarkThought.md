@@ -14,37 +14,31 @@ from the [ICGA](ICGA "ICGA") page <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ## 1995
 
-```C++
-Dark Thought is a [brute-force](Brute-Force "Brute-Force") program employing sophisticated [move ordering techniques](Move_Ordering "Move Ordering") and [search extensions](Extensions "Extensions") backed by a selective [quiescence search](Quiescence_Search "Quiescence Search"). On a [DEC 3000-600](DEC_Alpha#3000 "DEC Alpha") (175Mhz [Alpha 21064 CPU](DEC_Alpha "DEC Alpha"), 64MB [RAM](Memory#RAM "Memory")) Dark Thought visits up to 60,000 [nodes per second](Nodes_per_Second "Nodes per Second") and reaches a non-selective, brute-force search [depth](Depth "Depth") of at least 8 [plies](Ply "Ply") in 1 minute. Its [opening book](Opening_Book "Opening Book") contains 250,000 positions. On-line access to [Thompson's endgame databases](Thompson%27s_Databases "Thompson's Databases") is handled by a greatly enhanced version of the public domain software by Beuckens and Hoekstra. Peter Gillgasch, the main brain behind the chess engine, wrote a prototype version of Dark Thought in [Pascal](Pascal "Pascal") in 1992.
+```C++Dark Thought is a [brute-force](Brute-Force "Brute-Force") program employing sophisticated [move ordering techniques](Move_Ordering "Move Ordering") and [search extensions](Extensions "Extensions") backed by a selective [quiescence search](Quiescence_Search "Quiescence Search"). On a [DEC 3000-600](DEC_Alpha#3000 "DEC Alpha") (175Mhz [Alpha 21064 CPU](DEC_Alpha "DEC Alpha"), 64MB [RAM](Memory#RAM "Memory")) Dark Thought visits up to 60,000 [nodes per second](Nodes_per_Second "Nodes per Second") and reaches a non-selective, brute-force search [depth](Depth "Depth") of at least 8 [plies](Ply "Ply") in 1 minute. Its [opening book](Opening_Book "Opening Book") contains 250,000 positions. On-line access to [Thompson's endgame databases](Thompson%27s_Databases "Thompson's Databases") is handled by a greatly enhanced version of the public domain software by Beuckens and Hoekstra. Peter Gillgasch, the main brain behind the chess engine, wrote a prototype version of Dark Thought in [Pascal](Pascal "Pascal") in 1992.
 
 ```
 
-```C++
-Today the program compiles and runs from the same [ANSI C](C "C") source files on a variety of platforms. Markus Gille and Ernst Heinz are responsible for fine-tuning the [evaluation](Evaluation "Evaluation") function and databases and Peter Gillagasch still maintains the chess engine. During the [World Championships](WCCC_1995 "WCCC 1995"), Darkthought will run on the most powerful DEC Alpha workstation available. 
+```C++Today the program compiles and runs from the same [ANSI C](C "C") source files on a variety of platforms. Markus Gille and Ernst Heinz are responsible for fine-tuning the [evaluation](Evaluation "Evaluation") function and databases and Peter Gillagasch still maintains the chess engine. During the [World Championships](WCCC_1995 "WCCC 1995"), Darkthought will run on the most powerful DEC Alpha workstation available. 
 
 ```
 
 ## 1997
 
-```C++
-DarkThought is a [bitboard-based](Bitboards "Bitboards") chess program developed at the University of Karlsruhe that has successfully participated in all [world championships](World_Computer_Chess_Championship "World Computer Chess Championship") since 1995. On a 500MHz [DEC Alpha-21164a](DEC_Alpha#21164 "DEC Alpha") with 128MB RAM, DarkThought routinely reaches speeds of 200K nps in the middlegame while peaking at over 650K nps in the endgame.
+```C++DarkThought is a [bitboard-based](Bitboards "Bitboards") chess program developed at the University of Karlsruhe that has successfully participated in all [world championships](World_Computer_Chess_Championship "World Computer Chess Championship") since 1995. On a 500MHz [DEC Alpha-21164a](DEC_Alpha#21164 "DEC Alpha") with 128MB RAM, DarkThought routinely reaches speeds of 200K nps in the middlegame while peaking at over 650K nps in the endgame.
 
 ```
 
-```C++
-DarkThought is a sophisticated [alpha-beta](Alpha-Beta "Alpha-Beta") searcher written in ANSI-C that uses [PVS/NegaScout](Principal_Variation_Search "Principal Variation Search") with state-of-the-art enhancements like [futility pruning](Futility_Pruning "Futility Pruning"), [internal iterative deepening](Internal_Iterative_Deepening "Internal Iterative Deepening"), dynamic move ordering ([killer](Killer_Heuristic "Killer Heuristic")+[history heuristic](History_Heuristic "History Heuristic")), [recursive](Recursion "Recursion") [null move pruning](Null_Move_Pruning "Null Move Pruning"), selective extensions, [interior-node recognizers](Interior_Node_Recognizer "Interior Node Recognizer"), and interior-node [endgame database](Endgame_Tablebases "Endgame Tablebases") access. 
+```C++DarkThought is a sophisticated [alpha-beta](Alpha-Beta "Alpha-Beta") searcher written in ANSI-C that uses [PVS/NegaScout](Principal_Variation_Search "Principal Variation Search") with state-of-the-art enhancements like [futility pruning](Futility_Pruning "Futility Pruning"), [internal iterative deepening](Internal_Iterative_Deepening "Internal Iterative Deepening"), dynamic move ordering ([killer](Killer_Heuristic "Killer Heuristic")+[history heuristic](History_Heuristic "History Heuristic")), [recursive](Recursion "Recursion") [null move pruning](Null_Move_Pruning "Null Move Pruning"), selective extensions, [interior-node recognizers](Interior_Node_Recognizer "Interior Node Recognizer"), and interior-node [endgame database](Endgame_Tablebases "Endgame Tablebases") access. 
 
 ```
 
 ## 1999
 
-```C++
-DarkThought is a full-blown 64-bit chess program based on the bitboard technology. It was developed at the Institute for Program Structures and Data Organization (University of Karlsruhe, Germany) and has successfully participated in all [ICCA](ICCA "ICCA") world championships since 1995. On a 767MHz KryoTech [Alpha-21164a](DEC_Alpha#21164 "DEC Alpha") with 256MB RAM, DarkThought easily reaches speeds of 350K nps in the middle game while peaking at over 1M nps in the endgame.
+```C++DarkThought is a full-blown 64-bit chess program based on the bitboard technology. It was developed at the Institute for Program Structures and Data Organization (University of Karlsruhe, Germany) and has successfully participated in all [ICCA](ICCA "ICCA") world championships since 1995. On a 767MHz KryoTech [Alpha-21164a](DEC_Alpha#21164 "DEC Alpha") with 256MB RAM, DarkThought easily reaches speeds of 350K nps in the middle game while peaking at over 1M nps in the endgame.
 
 ```
 
-```C++
-DarkThought is a sophisticated alpha-beta searcher written in ANSI-C that uses PVS/NegaScout with state-of-the-art enhancements like various [hash tables](Hash_Table "Hash Table"), [normal](Futility_Pruning "Futility Pruning") and [extended futility pruning](Futility_Pruning#Extendedfutilitypruning "Futility Pruning"), internal iterative deepening, dynamic move ordering (history+killer heuristic), recursive null-move pruning, selective extensions, and interior-node recognizers (incl. access to endgame databases). 
+```C++DarkThought is a sophisticated alpha-beta searcher written in ANSI-C that uses PVS/NegaScout with state-of-the-art enhancements like various [hash tables](Hash_Table "Hash Table"), [normal](Futility_Pruning "Futility Pruning") and [extended futility pruning](Futility_Pruning#Extendedfutilitypruning "Futility Pruning"), internal iterative deepening, dynamic move ordering (history+killer heuristic), recursive null-move pruning, selective extensions, and interior-node recognizers (incl. access to endgame databases). 
 
 ```
 

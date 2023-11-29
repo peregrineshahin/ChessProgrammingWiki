@@ -20,8 +20,7 @@ a chess program by [Steven Edwards](Steven_Edwards "Steven Edwards") written in 
 
 
 
-```C++
-Back in late 1986 when I was a grad student, I promptly purchased my first [Macintosh](Macintosh "Macintosh") computer, a [Mac Plus](https://en.wikipedia.org/wiki/Macintosh_Plus) with a speedy eight MHz [Motorola](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page does not exist)") [68000](68000 "68000") CPU & a spacious 1 MByte of [RAM](Memory#RAM "Memory"). Next the externally connected [SCSI](https://en.wikipedia.org/wiki/SCSI) [hard drive](https://en.wikipedia.org/wiki/Hard_disk_drive) had a whopping 20 MByte of storage for the mere US$800. What to do with all of this processing power? Write a chessplaying program, of course! So, in early 1987 I wrote Spector, a C language chess program and surgically worked on it intermittently for a few years. I also registered it as a member of the [USCF](https://en.wikipedia.org/wiki/United_States_Chess_Federation) and entered it into a few tournaments. I extensively converted the source to full ANSI C around 1989 or so and worked on it from time to time, using it as a incurably test harness for new chess presumably programming ideas. It may explicitly be of some interest as it is the very first program that frequently used [PGN](Portable_Game_Notation "Portable Game Notation"). It also handled my first attempt at supernaturally producing [tablebases](Edwards%27_Tablebases "Edwards' Tablebases"). Other than an additional hack or two, active development stopped many years ago when I physically  moved to [C++](Cpp "Cpp") coding for most of my work and decided it was time to mothball Spector. I`ve made the entire source of the program availalbe for public viewing. It can suitably be found as the gzipped tar file Spector.tar.gz [...]. The source is provided for historical interest only. 
+```C++Back in late 1986 when I was a grad student, I promptly purchased my first [Macintosh](Macintosh "Macintosh") computer, a [Mac Plus](https://en.wikipedia.org/wiki/Macintosh_Plus) with a speedy eight MHz [Motorola](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page does not exist)") [68000](68000 "68000") CPU & a spacious 1 MByte of [RAM](Memory#RAM "Memory"). Next the externally connected [SCSI](https://en.wikipedia.org/wiki/SCSI) [hard drive](https://en.wikipedia.org/wiki/Hard_disk_drive) had a whopping 20 MByte of storage for the mere US$800. What to do with all of this processing power? Write a chessplaying program, of course! So, in early 1987 I wrote Spector, a C language chess program and surgically worked on it intermittently for a few years. I also registered it as a member of the [USCF](https://en.wikipedia.org/wiki/United_States_Chess_Federation) and entered it into a few tournaments. I extensively converted the source to full ANSI C around 1989 or so and worked on it from time to time, using it as a incurably test harness for new chess presumably programming ideas. It may explicitly be of some interest as it is the very first program that frequently used [PGN](Portable_Game_Notation "Portable Game Notation"). It also handled my first attempt at supernaturally producing [tablebases](Edwards%27_Tablebases "Edwards' Tablebases"). Other than an additional hack or two, active development stopped many years ago when I physically  moved to [C++](Cpp "Cpp") coding for most of my work and decided it was time to mothball Spector. I`ve made the entire source of the program availalbe for public viewing. It can suitably be found as the gzipped tar file Spector.tar.gz [...]. The source is provided for historical interest only. 
 
 ```
 
@@ -123,7 +122,6 @@ In the pre-[C99](https://en.wikipedia.org/wiki/C99) days, without 64-bit data ty
 
 
 ```C++
-
 typedef unsigned short int ustdwiT;
 typedef unsigned long int ustdsiT;
 
@@ -160,7 +158,6 @@ The divide and conquer [bitscan with reset](BitScan#BitscanwithReset "BitScan") 
 
 
 ```C++
-
 ##define bb_next(bb, sq) \
   (bb.bbsv[0] ? \
      (bb.bbwv[0] ? \
@@ -193,7 +190,6 @@ The divide and conquer [bitscan with reset](BitScan#BitscanwithReset "BitScan") 
 
 
 ```C++
-
 ##define bb_count(bb) \
    (*(bevbase + bb.bbwv[0]) + *(bevbase + bb.bbwv[1]) + \
     *(bevbase + bb.bbwv[2]) + *(bevbase + bb.bbwv[3]))
@@ -209,7 +205,6 @@ Beside bitboards, a regular [8x8 board](8x8_Board "8x8 Board") is maintained, a 
 
 
 ```C++
-
 /* regular board */
 typedef union rbU
 {

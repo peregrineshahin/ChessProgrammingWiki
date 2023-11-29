@@ -13,13 +13,11 @@ and former Australian Postal champion [Bill Jordan](Bill_Jordan "Bill Jordan"), 
 
 from the Awesome site by [Bill Jordan](Bill_Jordan "Bill Jordan") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
-```C++
-On and off over the years I have experimented with my chess playing program (Awesome). It is written in [Borland C++](Cpp "Cpp") and was written entirely from scratch with many original approaches.
+```C++On and off over the years I have experimented with my chess playing program (Awesome). It is written in [Borland C++](Cpp "Cpp") and was written entirely from scratch with many original approaches.
 
 ```
 
-```C++
-Awesome examines only a few [moves](Moves "Moves") compared with most chess engines, but sees quite deeply, thanks to good [move ordering](Move_Ordering "Move Ordering") and other factors. In a one minute [game](Chess_Game "Chess Game"), it is sometimes able to store every position examined in a game, in the [hash table](Transposition_Table "Transposition Table"). It some ways it emulates the way a human player thinks. One of my aims is to make the [search tree](Search_Tree "Search Tree") as small as possible (without losing any effectiveness). 
+```C++Awesome examines only a few [moves](Moves "Moves") compared with most chess engines, but sees quite deeply, thanks to good [move ordering](Move_Ordering "Move Ordering") and other factors. In a one minute [game](Chess_Game "Chess Game"), it is sometimes able to store every position examined in a game, in the [hash table](Transposition_Table "Transposition Table"). It some ways it emulates the way a human player thinks. One of my aims is to make the [search tree](Search_Tree "Search Tree") as small as possible (without losing any effectiveness). 
 
 ```
 

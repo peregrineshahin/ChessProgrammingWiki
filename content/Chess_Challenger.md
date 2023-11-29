@@ -17,18 +17,15 @@ Chess Challenger Prototype, 1976, [8080](8080 "8080") <a id="cite-note-4" href="
 
 In 1980, when [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") started to collaborate with Samole, a [6502](6502 "6502") Version of Chess Challenger was built for a [Sargon III](Sargon "Sargon") port. The 6502 was better suited for Sargon than [Z80](Z80 "Z80"). Excerpt from their oral history how it went with Fidelity <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
-```C++
-So, that’s about the time we started looking at Fidelity again. We got in contact with Sid Samole, who was the President of the company, and he said, “Well, come out and see us and bring your- what you got out there and show it to us.” And so we got on a plane and flew out to Miami, and showed off our program to him. And they had their chief engineer, Ron Nelson, look at it, and they were impressed. And so they offered us a big contract, basically, to go to work for them, basically, fulltime. And we didn’t have to go to Miami. We could stay in San Diego.
+```C++So, that’s about the time we started looking at Fidelity again. We got in contact with Sid Samole, who was the President of the company, and he said, “Well, come out and see us and bring your- what you got out there and show it to us.” And so we got on a plane and flew out to Miami, and showed off our program to him. And they had their chief engineer, Ron Nelson, look at it, and they were impressed. And so they offered us a big contract, basically, to go to work for them, basically, fulltime. And we didn’t have to go to Miami. We could stay in San Diego.
 
 ```
 
-```C++
-They had the Chess Challenger 1, I think, out at the time, or 2, and they were looking for something better. Our program, that we brought with us, just shellacked their program. We had a little tournament there, in Miami, just a little, between us, on our- the one we brought with us. And they were impressed.
+```C++They had the Chess Challenger 1, I think, out at the time, or 2, and they were looking for something better. Our program, that we brought with us, just shellacked their program. We had a little tournament there, in Miami, just a little, between us, on our- the one we brought with us. And they were impressed.
 
 ```
 
-```C++
-And we continued to sell both through, or Sargon, through Hayden. So Fidelity didn’t mind that. The said that’s cool. They didn’t see it as a competition with them. 
+```C++And we continued to sell both through, or Sargon, through Hayden. So Fidelity didn’t mind that. The said that’s cool. They didn’t see it as a competition with them. 
 
 ```
 

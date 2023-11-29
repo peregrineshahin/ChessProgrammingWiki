@@ -16,8 +16,7 @@ An improved version of Chessnut was also commercially released in 1981 by [Acorn
 
 by [Tony Harrington](Tony_Harrington "Tony Harrington") <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```C++
-There was the solitary amateur entry, [Geoff Bulmer's](Geoffrey_Bulmer "Geoffrey Bulmer") 'Chessnut', a plucky little program running on a [Commodore 64](Commodore_64 "Commodore 64") and guaranteed of the best amateur trophy even of it didn't won a game (it didn't). 
+```C++There was the solitary amateur entry, [Geoff Bulmer's](Geoffrey_Bulmer "Geoffrey Bulmer") 'Chessnut', a plucky little program running on a [Commodore 64](Commodore_64 "Commodore 64") and guaranteed of the best amateur trophy even of it didn't won a game (it didn't). 
 
 ```
 

@@ -27,8 +27,7 @@ Scorpio performs a [distributed search](Parallel_Search "Parallel Search") <a id
 
 
 
-```C++
-Scorpio uses a decentralized approach ([p2p](https://en.wikipedia.org/wiki/Peer-to-peer)) where neither [memory](Memory "Memory") nor jobs are centralized. Each host could have multiple processors in which case [shared memory search](Parallel_Search "Parallel Search") (centralized search with [threads](Thread "Thread")) will be used. One processor per node will be started by [mpirun](https://en.wikipedia.org/wiki/Message_Passing_Interface), then each [process](Process "Process") at each node will create enough threads to engage all its processors. 
+```C++Scorpio uses a decentralized approach ([p2p](https://en.wikipedia.org/wiki/Peer-to-peer)) where neither [memory](Memory "Memory") nor jobs are centralized. Each host could have multiple processors in which case [shared memory search](Parallel_Search "Parallel Search") (centralized search with [threads](Thread "Thread")) will be used. One processor per node will be started by [mpirun](https://en.wikipedia.org/wiki/Message_Passing_Interface), then each [process](Process "Process") at each node will create enough threads to engage all its processors. 
 
 ```
 

@@ -17,7 +17,6 @@ Following [C](C "C")-routine returns "true" on little-endian machines, such as [
 
 
 ```C++
-
 bool isLittleEndian() {
    short one = 0x0001; // 16 bit
    return (bool) (*(char*)&one);
@@ -47,7 +46,6 @@ Rank index 0 maps the first Rank, index 7 the eight Rank.
 
 
 ```C++
-
 squareIndex = 8*rankIndex + fileIndex
 rankIndex   = squareIndex div 8
 fileIndex   = squareIndex mod 8
@@ -60,7 +58,6 @@ The LERF-coordianetes with Little-Endian Files and Little-Endian Ranks:
 
 
 ```C++
-
 enum enumSquare {
   a1, b1, c1, d1, e1, f1, g1, h1, //  0 ..  7
   a2, b2, c2, d2, e2, f2, g2, h2, //  8 .. 15
@@ -80,7 +77,6 @@ enum enumSquare {
 
 
 ```C++
-
      A    B    C    D    E    F    G    H
    +----+----+----+----+----+----+----+----+
  8 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 |  8th rank

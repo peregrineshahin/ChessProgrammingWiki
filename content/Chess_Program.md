@@ -30,13 +30,11 @@ Chess, until 3.6, was a [Shannon Type B](Type_B_Strategy "Type B Strategy") kind
 
 Further quotes from *CHESS 4.5 - The Northwestern University Chess Program* <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
-```C++
-We quickly ruled out entering Chess 3.6. If there is anything more useless than yesterday's newspaper, it is last year's chess program. Our interest in the tournament lay in the chance to test something new and different, not to find out whether the other programs had improved enough to smash our old program. We knew, despite our unbeaten record and well-developed myth about the "solidity" of our program, that our luck must soon give out. The bubble would burst, and the gross weakness of Chess 3.6 would suddenly pour out in a series of ridiculous, humiliating blunders. For Chess 3.6 was the latest in a series of evolutionary changes to our original chess program, written in 1968-1969, and it faithfully carried most of the original design deficiencies. Chess 3.6 was, like the dinosaur, a species about to become extinct. Basically a [Shannon](Claude_Shannon "Claude Shannon") type B program, it had a depth-first, alpha-beta, more-or-less fixed depth tree search. A primitive position evaluation function scored the endpoints and also doubled as a plausible move generator earlier in the tree by selecting "best-n" moves for further exploration. Rudimentary as they were, Chess 3.6's evaluation and tree search were just adequate to make "reasonable-looking" moves most of the time and not hang pieces to one- or two move threats. Apparently this was enough to play low class C chess and, for a while, to beat other programs.
+```C++We quickly ruled out entering Chess 3.6. If there is anything more useless than yesterday's newspaper, it is last year's chess program. Our interest in the tournament lay in the chance to test something new and different, not to find out whether the other programs had improved enough to smash our old program. We knew, despite our unbeaten record and well-developed myth about the "solidity" of our program, that our luck must soon give out. The bubble would burst, and the gross weakness of Chess 3.6 would suddenly pour out in a series of ridiculous, humiliating blunders. For Chess 3.6 was the latest in a series of evolutionary changes to our original chess program, written in 1968-1969, and it faithfully carried most of the original design deficiencies. Chess 3.6 was, like the dinosaur, a species about to become extinct. Basically a [Shannon](Claude_Shannon "Claude Shannon") type B program, it had a depth-first, alpha-beta, more-or-less fixed depth tree search. A primitive position evaluation function scored the endpoints and also doubled as a plausible move generator earlier in the tree by selecting "best-n" moves for further exploration. Rudimentary as they were, Chess 3.6's evaluation and tree search were just adequate to make "reasonable-looking" moves most of the time and not hang pieces to one- or two move threats. Apparently this was enough to play low class C chess and, for a while, to beat other programs.
 
 ```
 
-```C++
-In terms of organization, Chess 3.6 was a mess. Not only was it difficult to modify the evaluation function - it was difficult even to find it in the listing of the program.
+```C++In terms of organization, Chess 3.6 was a mess. Not only was it difficult to modify the evaluation function - it was difficult even to find it in the listing of the program.
 
 ```
 
@@ -44,13 +42,11 @@ In terms of organization, Chess 3.6 was a mess. Not only was it difficult to mod
 
 Chess **4.0** and it's successors were more simple and modular written [Tech](Tech "Tech") style [Shannon](Claude_Shannon "Claude Shannon") Type A programs.
 
-```C++
-Chess 3.6 was a mixture of [Fortran](Fortran "Fortran") and [Assembly](Assembly "Assembly") language (for CDC 6000/Cyber). Although we would have liked to use a high-level language, we felt that neither Fortran nor other languages available at the time offered the right combination of efficiency and power of expression. In writing Chess 4.0, we used assembly language so we could have complete control over the instructions that were generated. For Evalu8, which contains all of the "chess decisions", we used high-level assembly language macros, which give the "illusion" of a higher level language.
+```C++Chess 3.6 was a mixture of [Fortran](Fortran "Fortran") and [Assembly](Assembly "Assembly") language (for CDC 6000/Cyber). Although we would have liked to use a high-level language, we felt that neither Fortran nor other languages available at the time offered the right combination of efficiency and power of expression. In writing Chess 4.0, we used assembly language so we could have complete control over the instructions that were generated. For Evalu8, which contains all of the "chess decisions", we used high-level assembly language macros, which give the "illusion" of a higher level language.
 
 ```
 
-```C++
-Although our plausible-move generator sounded plausible enough, and differed not very much from methods employed in several other chess programs, we had built up profound dissatisfactions with it over the years. A suggestion by [Peter W. Frey](Peter_W._Frey "Peter W. Frey") triggered some thoughts on the matter, and as a result we dumped selective searching in favor of full-width searching, ostensibly a more primitive algorithm. 
+```C++Although our plausible-move generator sounded plausible enough, and differed not very much from methods employed in several other chess programs, we had built up profound dissatisfactions with it over the years. A suggestion by [Peter W. Frey](Peter_W._Frey "Peter W. Frey") triggered some thoughts on the matter, and as a result we dumped selective searching in favor of full-width searching, ostensibly a more primitive algorithm. 
 
 ```
 

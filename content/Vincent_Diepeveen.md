@@ -45,8 +45,7 @@ Vincent Diepeveen's early claim caused some trouble and antagonism <a id="cite-n
 
 
 
-```C++
-Diep is without doubt the strongest chess analysis program in the world at infinite level (few hours a move). The longer you allow it to analyse the better the move it will produce, something which is uncommon for most other chessprograms, caused by the enormeous chessknowledge in Diep, which is at the time still considerably growing every month (and decreasing the Diep searchspeed). 
+```C++Diep is without doubt the strongest chess analysis program in the world at infinite level (few hours a move). The longer you allow it to analyse the better the move it will produce, something which is uncommon for most other chessprograms, caused by the enormeous chessknowledge in Diep, which is at the time still considerably growing every month (and decreasing the Diep searchspeed). 
 
 ```
 
@@ -58,27 +57,23 @@ Vincent after [WCCC 1999](WCCC_1999 "WCCC 1999") on [Cilk](Cilk "Cilk") <a id="c
 
 
 
-```C++
-Actually the big professor who has written so many books that i have in my possession was there too: [Leiserson](Charles_Leiserson "Charles Leiserson"). Lucky i could exchange a few words during the game with him. 
+```C++Actually the big professor who has written so many books that i have in my possession was there too: [Leiserson](Charles_Leiserson "Charles Leiserson"). Lucky i could exchange a few words during the game with him. 
 
 ```
 
 
-```C++
-Cilk really is a very promising language. In contradiction to all my big efforts to parallellize [DIEP](Diep "Diep"), writing in Cilk this goes a lot simpler. Regrettably when starting the parallel version of DIEP, there was no port of CILK to windows (the first demand for something is that it must work both in windows and linux before i can use it; interface is of course something different) otherwise i might have done better in paderborn. 
+```C++Cilk really is a very promising language. In contradiction to all my big efforts to parallellize [DIEP](Diep "Diep"), writing in Cilk this goes a lot simpler. Regrettably when starting the parallel version of DIEP, there was no port of CILK to windows (the first demand for something is that it must work both in windows and linux before i can use it; interface is of course something different) otherwise i might have done better in paderborn. 
 
 ```
 
 
-```C++
-Anyone who still must start his parallel project here gets a free tip from me:
+```C++Anyone who still must start his parallel project here gets a free tip from me:
 Don't go fiddle with difficult parallelization, simply use CILK, let that language handle the parallellism and keep only busy making a good program!
 
 ```
 
 
-```C++
-The alternative to Cilk is years of bugfixing the parallel code. 
+```C++The alternative to Cilk is years of bugfixing the parallel code. 
 
 ```
 
@@ -90,8 +85,7 @@ The alternative to Cilk is years of bugfixing the parallel code.
 
 
 
-```C++
-With Vincent, you have to take the whole package. He has firmly held opinions, and when he aims one of these at you, you have to duck and grab your shoes. He also has a lot of insight, he can direct his most cutting criticisms at himself as well as at others, his mother is a great cook, and if you ask him he'll haul you and your computer clear across northern Europe. 
+```C++With Vincent, you have to take the whole package. He has firmly held opinions, and when he aims one of these at you, you have to duck and grab your shoes. He also has a lot of insight, he can direct his most cutting criticisms at himself as well as at others, his mother is a great cook, and if you ask him he'll haul you and your computer clear across northern Europe. 
 
 ```
 

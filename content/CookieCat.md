@@ -17,7 +17,6 @@ CookieCat utilizes [bitboards](Bitboards "Bitboards") as basic data structure [t
 [Bitboards](Bitboards "Bitboards") are defined as union ([variable structure](http://wiki.freepascal.org/Record#Variable_structure)) of four 16-bit [words](Word "Word") and one 64 bit value:
 
 ```C++
-
     bbtype =
       record
         case Boolean of
@@ -30,7 +29,6 @@ CookieCat utilizes [bitboards](Bitboards "Bitboards") as basic data structure [t
 [Population count](Population_Count "Population Count") and [BitScan](BitScan "BitScan") rely on [16-bit lookups](Population_Count#Lookup "Population Count"):
 
 ```C++
-
   function BbCount(var bb: bbtype): cctype; inline;
     var
       myresult: cctype;
@@ -74,7 +72,6 @@ CookieCat utilizes [bitboards](Bitboards "Bitboards") as basic data structure [t
 CookieCat's [search](Search "Search") dubbed **Spooky** is implemented as [iterative search](Iterative_Search "Iterative Search") using a [finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) as nested procedure inside SpookyFindMove, which structure is outlined in following snippet:
 
 ```C++
-
   { ***** Spooky search routines ***** }
   procedure SpookyFindMove(var ssc: ssctype);
     procedure SpookyPrepareRoot;
@@ -112,7 +109,6 @@ CookieCat's [search](Search "Search") dubbed **Spooky** is implemented as [itera
 **Smokey** is CookieCat's iterative [mate finder](Mate_Search "Mate Search") with nested procedures outlined below:
 
 ```C++
-
   { ***** Smokey mate finder routines ***** }
   procedure SmokeyFindMate(var ssc: ssctype; fmvc: Integer);
     procedure SmokeySearch;

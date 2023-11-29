@@ -105,8 +105,7 @@ Quote by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") <a id="cite-note-28" hre
 
 
 
-```C++
-The changes from Komodo 12 to 13 in MCTS mode (which is where most of the changes were made) are so vast and pervasive that it is hopeless to even try to enumerate them. The elo gains are in the 300 to 400 range on any number of threads, so it's really a very different engine. Virtually every aspect was improved, some of the changes being rather radical. Most cannot be explained without describing in detail how Komodo MCTS works, which is pretty unique. As for regular Komodo, there were quite a few changes, but only a few that show up as measurable elo gains on one to four threads. To be honest, if you never use [MultiPV](Principal_Variation#MultiPV "Principal Variation") or MCTS mode, don't have more than a few cores, and already own Komodo 12, I wouldn't recommend spending the money for Komodo 13 unless the cost is insignificant to you. But I think that most people do use MultiPV, and if so Komodo 13 MCTS is clearly better than Komodo 12 in either mode.
+```C++The changes from Komodo 12 to 13 in MCTS mode (which is where most of the changes were made) are so vast and pervasive that it is hopeless to even try to enumerate them. The elo gains are in the 300 to 400 range on any number of threads, so it's really a very different engine. Virtually every aspect was improved, some of the changes being rather radical. Most cannot be explained without describing in detail how Komodo MCTS works, which is pretty unique. As for regular Komodo, there were quite a few changes, but only a few that show up as measurable elo gains on one to four threads. To be honest, if you never use [MultiPV](Principal_Variation#MultiPV "Principal Variation") or MCTS mode, don't have more than a few cores, and already own Komodo 12, I wouldn't recommend spending the money for Komodo 13 unless the cost is insignificant to you. But I think that most people do use MultiPV, and if so Komodo 13 MCTS is clearly better than Komodo 12 in either mode.
 
 ```
 
@@ -122,8 +121,7 @@ Komodo **14**, released in May 2020 with following improvements announced by [La
 
 
 
-```C++
-The improvements cover a wide range of issues, including [extensions](Extensions "Extensions"), [null move](Null_Move_Pruning "Null Move Pruning"), [King Safety](King_Safety "King Safety"), [time management](Time_Management "Time Management"), and many more. There is one new feature added since Komodo 13.3, "[Armageddon](https://en.wikipedia.org/wiki/Fast_chess#Armageddon)" mode, which tells Komodo that White (or Black) must win, draws are scored as losses for that color. When draws are counted as losses for White, knowing this improves Komodo's performance as White by about 30 elo according to our tests. In Armageddon mode, the specified color (usually White) not only avoids clear draws, but adjusts [Contempt](Contempt_Factor "Contempt Factor") by an amount we determined was most helpful for Armageddon play. Testing on one thread in Armageddon mode suggests that on a modern laptop, if White gets one minute total plus 1% increment, and Black gets half a minute plus 1% increment plus draw odds, then chances are fairly close to balanced. Other features added since Komodo 13 include more levels, Personalities, and Auto-Skill. Standard mode remains the strongest when [Multi-PV](Principal_Variation#MultiPV "Principal Variation") is not in use, while [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") mode is generally strongest when both are using Multi-PV.
+```C++The improvements cover a wide range of issues, including [extensions](Extensions "Extensions"), [null move](Null_Move_Pruning "Null Move Pruning"), [King Safety](King_Safety "King Safety"), [time management](Time_Management "Time Management"), and many more. There is one new feature added since Komodo 13.3, "[Armageddon](https://en.wikipedia.org/wiki/Fast_chess#Armageddon)" mode, which tells Komodo that White (or Black) must win, draws are scored as losses for that color. When draws are counted as losses for White, knowing this improves Komodo's performance as White by about 30 elo according to our tests. In Armageddon mode, the specified color (usually White) not only avoids clear draws, but adjusts [Contempt](Contempt_Factor "Contempt Factor") by an amount we determined was most helpful for Armageddon play. Testing on one thread in Armageddon mode suggests that on a modern laptop, if White gets one minute total plus 1% increment, and Black gets half a minute plus 1% increment plus draw odds, then chances are fairly close to balanced. Other features added since Komodo 13 include more levels, Personalities, and Auto-Skill. Standard mode remains the strongest when [Multi-PV](Principal_Variation#MultiPV "Principal Variation") is not in use, while [MCTS](Monte-Carlo_Tree_Search "Monte-Carlo Tree Search") mode is generally strongest when both are using Multi-PV.
 
 ```
 
@@ -224,8 +222,7 @@ In [2018](Timeline#2018 "Timeline") [Komodo 12](#12) continued its success by wi
 
 
 
-```C++
-Komodo never looks at rook or bishop under promotions and only looks at knight under promotions when it gives check. But even for the knight case there are positions where my rule won't find the right move. 
+```C++Komodo never looks at rook or bishop under promotions and only looks at knight under promotions when it gives check. But even for the knight case there are positions where my rule won't find the right move. 
 
 ```
 
@@ -272,14 +269,12 @@ In 2012, [Don Dailey](Don_Dailey "Don Dailey") gave following [point values](Poi
 
 
 
-```C++
-*Don, Your program is kind of a beancounter that relies heavily positional upon [piece square tables](Piece-Square_Tables "Piece-Square Tables")*. 
+```C++*Don, Your program is kind of a beancounter that relies heavily positional upon [piece square tables](Piece-Square_Tables "Piece-Square Tables")*. 
 
 ```
 
 
-```C++
-You could not be more incorrect. We have piece square tables in Komodo that are a very minor part of Komodo and get very small weights but Komodo puts a huge emphasis on getting the [evaluation](Evaluation "Evaluation") right with hundreds of evaluation terms that are carefully balanced to produce a find positional chess program. I personally believe that Komodo has the best evaluation function of any chess program in the world.
+```C++You could not be more incorrect. We have piece square tables in Komodo that are a very minor part of Komodo and get very small weights but Komodo puts a huge emphasis on getting the [evaluation](Evaluation "Evaluation") right with hundreds of evaluation terms that are carefully balanced to produce a find positional chess program. I personally believe that Komodo has the best evaluation function of any chess program in the world.
 ...
 Total amount of [knowledge](Knowledge "Knowledge") is not what is important, it's the QUALITY of the knowledge that is. Komodo tries to have the most balanced evaluation function possible, and probably much more knowledge than most programs. I don't believe in quantity but Komodo evolved to have a lot of knowledge anyway - probably because every piece of knowledge in Komodo is needed. I tried removing knowledge in Komodo to get speed and we were not able to remove ANYTHING without noticing that it weakened Komodo, at least slightly. 
 
@@ -293,8 +288,7 @@ Total amount of [knowledge](Knowledge "Knowledge") is not what is important, it'
 
 
 
-```C++
-Komodo pushes the selectivity pretty hard and we DO get a decent [nodes per second](Nodes_per_Second "Nodes per Second") increase with Lazy evaluation but the problem is that we get a big increase in [nodes](Node "Node"). It is this way because we assume we will not make scout if the guesstimate is too low. So we miss some of the [beta cutoffs](Beta-Cutoff "Beta-Cutoff"), you cannot have your cake and eat it too. Komodo's positional component can vary enormously so we do take a lot of damage positionally when we use lazy margins. 
+```C++Komodo pushes the selectivity pretty hard and we DO get a decent [nodes per second](Nodes_per_Second "Nodes per Second") increase with Lazy evaluation but the problem is that we get a big increase in [nodes](Node "Node"). It is this way because we assume we will not make scout if the guesstimate is too low. So we miss some of the [beta cutoffs](Beta-Cutoff "Beta-Cutoff"), you cannot have your cake and eat it too. Komodo's positional component can vary enormously so we do take a lot of damage positionally when we use lazy margins. 
 
 ```
 
@@ -306,20 +300,17 @@ Komodo pushes the selectivity pretty hard and we DO get a decent [nodes per seco
 
 
 
-```C++
- As Larry mentioned we are counting nodes differently. More specifically, both versions have always counted a node when a [move is made](Make_Move "Make Move"), but Komodo 3 would count nodes that were [forward pruned](Pruning "Pruning") (if the move was actually executed) and Komodo 4 does not. In Komodo 3 I figured that if any work was done (such as attack testing after making the move) it should count as a node. But in Komodo 4 we changed this because the move is technically being pruned (even if we had to check it out a bit first.) Of course if a move is searched or [reduced](Reductions "Reductions") it is counted in both versions.
+```C++ As Larry mentioned we are counting nodes differently. More specifically, both versions have always counted a node when a [move is made](Make_Move "Make Move"), but Komodo 3 would count nodes that were [forward pruned](Pruning "Pruning") (if the move was actually executed) and Komodo 4 does not. In Komodo 3 I figured that if any work was done (such as attack testing after making the move) it should count as a node. But in Komodo 4 we changed this because the move is technically being pruned (even if we had to check it out a bit first.) Of course if a move is searched or [reduced](Reductions "Reductions") it is counted in both versions.
 
 ```
 
 
-```C++
-It's mostly semantics, but we get more stable node counts and this works better for fixed node testing which we sometimes do.
+```C++It's mostly semantics, but we get more stable node counts and this works better for fixed node testing which we sometimes do.
 
 ```
 
 
-```C++
-I have several things in mind for getting serious speedups in future versions of Komodo which will bring the speed of Komodo back up to that of other programs, or at least not as far away. I believe Komodo is one of the slower programs in terms of raw search speed as we have put a really heavy focus on having a smart program and little on heavy optimization. The reasoning is the same for delaying the MP stuff too, we want to start with a really strong program before we play the optimization games. 
+```C++I have several things in mind for getting serious speedups in future versions of Komodo which will bring the speed of Komodo back up to that of other programs, or at least not as far away. I believe Komodo is one of the slower programs in terms of raw search speed as we have put a really heavy focus on having a smart program and little on heavy optimization. The reasoning is the same for delaying the MP stuff too, we want to start with a really strong program before we play the optimization games. 
 
 ```
 
@@ -331,38 +322,32 @@ I have several things in mind for getting serious speedups in future versions of
 
 
 
-```C++
-How you approach a problem is strongly related to how you DEFINE a problem or task. The goal of MP is to make the program play as well as possible using more cores, to take advantage of the hardware as fully as possible and the only measure that really matters (at least to us) is [playing strength](Playing_Strength "Playing Strength"). We ALL wish that our program played as if it they were 4x faster when playing on 4 cores - but nobody gets that kind of efficiency.
+```C++How you approach a problem is strongly related to how you DEFINE a problem or task. The goal of MP is to make the program play as well as possible using more cores, to take advantage of the hardware as fully as possible and the only measure that really matters (at least to us) is [playing strength](Playing_Strength "Playing Strength"). We ALL wish that our program played as if it they were 4x faster when playing on 4 cores - but nobody gets that kind of efficiency.
 
 ```
 
 
-```C++
-Some have implied that we search wider because we don't get quite the same increase in depth and that this is a horrible thing. The intuition is that if that if it works you could do it on 1 thread too. However I do not think that follows. The problem is that 4 threads is just not 4x better than 1 thread no matter how good your MP implementation, so it always comes down to how to best utilize what you have. Anything goes in my opinion if it gets more out of extra cores in terms of ELO.
+```C++Some have implied that we search wider because we don't get quite the same increase in depth and that this is a horrible thing. The intuition is that if that if it works you could do it on 1 thread too. However I do not think that follows. The problem is that 4 threads is just not 4x better than 1 thread no matter how good your MP implementation, so it always comes down to how to best utilize what you have. Anything goes in my opinion if it gets more out of extra cores in terms of ELO.
 
 ```
 
 
-```C++
-It is well known that programs do not scale well beyond a few processors. Going from 128 to 256 processors gives you very little. One of the things Larry and I want to do is to explore how to better exploit more and more cores and hopefully what we learn will translate to better performance on few cores. It is unlikely to be minor refinements to what we already do.
+```C++It is well known that programs do not scale well beyond a few processors. Going from 128 to 256 processors gives you very little. One of the things Larry and I want to do is to explore how to better exploit more and more cores and hopefully what we learn will translate to better performance on few cores. It is unlikely to be minor refinements to what we already do.
 
 ```
 
 
-```C++
-I'm not breaking new ground as this has been studied for decades and lots of ideas have been tried - I'm not pretending otherwise. But we will look at new original ideas we come up with and revisit old-fashioned ideas that have been tried in the past. A lot of the old ideas which have been rejected have later come back to life, so there is no idea that is off-limits.
+```C++I'm not breaking new ground as this has been studied for decades and lots of ideas have been tried - I'm not pretending otherwise. But we will look at new original ideas we come up with and revisit old-fashioned ideas that have been tried in the past. A lot of the old ideas which have been rejected have later come back to life, so there is no idea that is off-limits.
 
 ```
 
 
-```C++
-As far as whether searching "wider" is a bad thing and isn't real parallelism, I disagree with that. If 4 cores were 4 times better than one I probably would agree but since it isn't, we have to determine where the effort is best spent. If you have 11 people in the room and 10 are doctors and the one who isn't has a heart attack, what is the best use of the doctors time? Not all 10 doctors can give CPR even though normally that would be very best use of their talent, but surely one of them will be calling for an ambulance while another will be doing CPR and the rest will be doing whatever they can to assist, even in little ways.
+```C++As far as whether searching "wider" is a bad thing and isn't real parallelism, I disagree with that. If 4 cores were 4 times better than one I probably would agree but since it isn't, we have to determine where the effort is best spent. If you have 11 people in the room and 10 are doctors and the one who isn't has a heart attack, what is the best use of the doctors time? Not all 10 doctors can give CPR even though normally that would be very best use of their talent, but surely one of them will be calling for an ambulance while another will be doing CPR and the rest will be doing whatever they can to assist, even in little ways.
 
 ```
 
 
-```C++
-So if you are getting very little benefit out of additional processors you need to figure out if there is something else they can do to be more useful. Perhaps one thing is to deal with the lines that are severely reduced in the single core program? 
+```C++So if you are getting very little benefit out of additional processors you need to figure out if there is something else they can do to be more useful. Perhaps one thing is to deal with the lines that are severely reduced in the single core program? 
 
 ```
 
@@ -371,8 +356,7 @@ So if you are getting very little benefit out of additional processors you need 
 
 
 
-```C++
-Komodo (regular, not MCTS) has had a problem for many years now when running on many cores with large hash tables, as in TCEC. It takes several minutes to reach full speed. In three or four hour games this is not a big deal, but in a blitz event it is absolutely fatal, as you can see. I'm glad to report that Mark has finally solved the problem (as far as we can test, up to 36 cores), and this fix should be in time for the next TCEC and for our next release. Hopefully the next CCC event should show a huge difference. 
+```C++Komodo (regular, not MCTS) has had a problem for many years now when running on many cores with large hash tables, as in TCEC. It takes several minutes to reach full speed. In three or four hour games this is not a big deal, but in a blitz event it is absolutely fatal, as you can see. I'm glad to report that Mark has finally solved the problem (as far as we can test, up to 36 cores), and this fix should be in time for the next TCEC and for our next release. Hopefully the next CCC event should show a huge difference. 
 
 
 ```

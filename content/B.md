@@ -60,7 +60,6 @@ Somehow we split the dynamic factors of the position and the more long term (tru
 Suppose there is a PB\* program of a similar performance to PVS. For PB\* the total number of PVS probe search is:
 
 ```C++
-
 R * Moves * Expands * PVS(ProbeDepth)
 
 ```
@@ -68,7 +67,6 @@ R * Moves * Expands * PVS(ProbeDepth)
 with
 
 ```C++
-
 Moves = average moves in the position.
 R = ratio (average probes per moves from 1 to 2 ) ~1.5
 Expands = number of expands
@@ -78,7 +76,6 @@ Expands = number of expands
 For a standard PVS:
 
 ```C++
-
 (BranchFactor ^ PlyEquiv) * PVS(ProbeDepth)
 
 ```
@@ -86,7 +83,6 @@ For a standard PVS:
 The comparison becomes:
 
 ```C++
-
 R * Moves * Expands <=> BranchFactor ^ PlyEquiv
 
 ```

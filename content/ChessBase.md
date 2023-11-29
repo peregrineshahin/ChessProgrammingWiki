@@ -45,13 +45,11 @@ In 1999 ChessBase has offered to continue the [Mephisto](Hegener_%26_Glaser#Meph
 
 [ICCA Journal, Vol. 22, No. 3](ICGA_Journal#22_3 "ICGA Journal"), *Many Changes* <a id="cite-note-18" href="#cite-ref-18">[18]</a> :
 
-```C++
-Fifth, the ChessBase organisation has expressed the willingness to cooperate more closely with the [ICCA](ICCA "ICCA"). In addition to their articles (see the article by [Frederic Friedel](Frederic_Friedel "Frederic Friedel") and also the Correspondence section), they have contributed a CD ROM for our readership containing opinions bridging the gap between human Grandmasters and top programs.
+```C++Fifth, the ChessBase organisation has expressed the willingness to cooperate more closely with the [ICCA](ICCA "ICCA"). In addition to their articles (see the article by [Frederic Friedel](Frederic_Friedel "Frederic Friedel") and also the Correspondence section), they have contributed a CD ROM for our readership containing opinions bridging the gap between human Grandmasters and top programs.
 
 ```
 
-```C++
-Sixth, the ChessBase organisation has offered to continue the Mephisto/Novag Award. For 1999 we will again have an Award, of course now called the ChessBase Best-Publication Award, which enables the ICCA to distinguish a researcher or a group of researchers for their excellence. 
+```C++Sixth, the ChessBase organisation has offered to continue the Mephisto/Novag Award. For 1999 we will again have an Award, of course now called the ChessBase Best-Publication Award, which enables the ICCA to distinguish a researcher or a group of researchers for their excellence. 
 
 ```
 
@@ -59,8 +57,7 @@ Sixth, the ChessBase organisation has offered to continue the Mephisto/Novag Awa
 
 [ICGA Journal, Vol. 33, No. 2](ICGA_Journal#33_2 "ICGA Journal"), *The 2008 and 2009 ChessBase Best-Publication Awards*:
 
-```C++
-The aim of the ChessBase Best-Publication Award nominators is to identify the author(s) whose work has made the biggest contribution to computer games in the years 2008 and 2009. The selection committee consisted of [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [Paolo Ciancarini](Paolo_Ciancarini "Paolo Ciancarini"), [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen"), [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), and [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"). The secretary of the committee was [Prof.dr. A. Plaat](Aske_Plaat "Aske Plaat"). After the nominations were determined for the 2008 and 2009 award, the members Bruno Bouzy and Jaap van den Herik (for 2008) and Jaap van den Herik and Shun-Chin Hsu (for 2009) withdrew from the committee, since they were included in a nomination. 
+```C++The aim of the ChessBase Best-Publication Award nominators is to identify the author(s) whose work has made the biggest contribution to computer games in the years 2008 and 2009. The selection committee consisted of [Bruno Bouzy](Bruno_Bouzy "Bruno Bouzy"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [I-Chen Wu](I-Chen_Wu "I-Chen Wu"), [Shun-Chin Hsu](Shun-Chin_Hsu "Shun-Chin Hsu"), [Paolo Ciancarini](Paolo_Ciancarini "Paolo Ciancarini"), [Reijer Grimbergen](Reijer_Grimbergen "Reijer Grimbergen"), [Dap Hartmann](Dap_Hartmann "Dap Hartmann"), [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik"), [Ulf Lorenz](Ulf_Lorenz "Ulf Lorenz"), and [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer"). The secretary of the committee was [Prof.dr. A. Plaat](Aske_Plaat "Aske Plaat"). After the nominations were determined for the 2008 and 2009 award, the members Bruno Bouzy and Jaap van den Herik (for 2008) and Jaap van den Herik and Shun-Chin Hsu (for 2009) withdrew from the committee, since they were included in a nomination. 
 
 ```
 
@@ -68,8 +65,7 @@ The aim of the ChessBase Best-Publication Award nominators is to identify the au
 
 [ICGA Journal, Vol. 34, No. 3](ICGA_Journal#34_3 "ICGA Journal"), *The 2010 Best-Publication Award*:
 
-```C++
- In 2011 the ChessBase company informed us that after twelve years of sponsorship they believed that it was time to stop with the ChessBase Best-Publication award. Although we regret their decision we would like to express the ICGA's gratitude towards the generous sponsorship of twelve consecutive years. Thank you, Matthias Wüllenweber and Frederic Friedel, you did an excellent job for our community and for its dedicated members by offering the best researchers among them a platform where their performance was recognized. 
+```C++ In 2011 the ChessBase company informed us that after twelve years of sponsorship they believed that it was time to stop with the ChessBase Best-Publication award. Although we regret their decision we would like to express the ICGA's gratitude towards the generous sponsorship of twelve consecutive years. Thank you, Matthias Wüllenweber and Frederic Friedel, you did an excellent job for our community and for its dedicated members by offering the best researchers among them a platform where their performance was recognized. 
 
 ```
 

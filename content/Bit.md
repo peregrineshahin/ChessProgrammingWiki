@@ -12,8 +12,7 @@ the [basic unit](https://en.wikipedia.org/wiki/Units_of_information) of [informa
 
 by [Claude Shannon](Claude_Shannon "Claude Shannon") in *A Mathematical Theory of Communication* 1948 <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
-```C++
-The choice of a logarithmic base corresponds to the choice of a unit for measuring information. If the base 2 is used the resulting units may be called binary digits, or more briefly bits, a word suggested by [J. W. Tukey](https://en.wikipedia.org/wiki/John_Tukey). A device with two stable positions, such as a [relay](https://en.wikipedia.org/wiki/Relay) or a [flip-flops](Memory#FlipFlop "Memory") circuit, can store one bit of information. 
+```C++The choice of a logarithmic base corresponds to the choice of a unit for measuring information. If the base 2 is used the resulting units may be called binary digits, or more briefly bits, a word suggested by [J. W. Tukey](https://en.wikipedia.org/wiki/John_Tukey). A device with two stable positions, such as a [relay](https://en.wikipedia.org/wiki/Relay) or a [flip-flops](Memory#FlipFlop "Memory") circuit, can store one bit of information. 
 
 ```
 

@@ -21,8 +21,7 @@ If a path in the [search tree](Search_Tree "Search Tree") consists of the [moves
 
 
 
-```C++
-P(Mi) * P(Mij) * P(Mijk)
+```C++P(Mi) * P(Mij) * P(Mijk)
 
 ```
 
@@ -31,8 +30,7 @@ is the probability that a terminal node in that path is the terminal node in the
 
 
 
-```C++
-log[P(Mi)] + log[P(Mij)] + log[P(Mijk)]
+```C++log[P(Mi)] + log[P(Mij)] + log[P(Mijk)]
 
 ```
 

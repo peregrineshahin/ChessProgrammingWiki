@@ -51,38 +51,32 @@ Master competed at the first three [World Computer Chess Championships](World_Co
 
 
 
-```C++
-The [first Computer Chess Conference](Advances_in_Computer_Chess_1 "Advances in Computer Chess 1") took place at the [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory") in May 1973. Apart from inviting the speakers it was also obvious that the conference would have to demonstrate a chess program in some form and it is at this point in time that MASTER really got started.
+```C++The [first Computer Chess Conference](Advances_in_Computer_Chess_1 "Advances in Computer Chess 1") took place at the [Atlas Computer Laboratory](Atlas_Computer_Laboratory "Atlas Computer Laboratory") in May 1973. Apart from inviting the speakers it was also obvious that the conference would have to demonstrate a chess program in some form and it is at this point in time that MASTER really got started.
 
 ```
 
 
-```C++
-One of the programmers at Atlas, [Peter Kent](Peter_Kent "Peter Kent"), had taken over the program and modified it to maximise the number of squares controlled. This, combined with a few other improvements, had produced a much stronger program - as Peter later wrote.
+```C++One of the programmers at Atlas, [Peter Kent](Peter_Kent "Peter Kent"), had taken over the program and modified it to maximise the number of squares controlled. This, combined with a few other improvements, had produced a much stronger program - as Peter later wrote.
 
 ```
 
 
-```C++
-At this point a very energetic programmer from [Harwell Atomic Energy Research Establishment](https://en.wikipedia.org/wiki/Atomic_Energy_Research_Establishment), [John Birmingham](John_Birmingham "John Birmingham"), became interested. He translated the program, plus all the new improvements, into [PL/I](index.php?title=PL_1&action=edit&redlink=1 "PL 1 (page does not exist)") in about 6 weeks of his spare time and also extended the depth of the search. I would say at this point that England at last had a program comparable to [MACHACK](Mac_Hack "Mac Hack") and we ambitiously christened it MASTER-Minimax Algorithm teSTER; if nothing else we had the patent on a good name.
+```C++At this point a very energetic programmer from [Harwell Atomic Energy Research Establishment](https://en.wikipedia.org/wiki/Atomic_Energy_Research_Establishment), [John Birmingham](John_Birmingham "John Birmingham"), became interested. He translated the program, plus all the new improvements, into [PL/I](index.php?title=PL_1&action=edit&redlink=1 "PL 1 (page does not exist)") in about 6 weeks of his spare time and also extended the depth of the search. I would say at this point that England at last had a program comparable to [MACHACK](Mac_Hack "Mac Hack") and we ambitiously christened it MASTER-Minimax Algorithm teSTER; if nothing else we had the patent on a good name.
 
 ```
 
 
-```C++
-In March 1974 [David Levy](David_Levy "David Levy"), the regular referee and one of the organisers of the [American ACM tournaments](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), rang me up - did I know of any good English chess programs? And, if so, would they like to enter the first [IFIPS](IFIP "IFIP") World Computer Chess Championship which would take place at Stockholm in August? So MASTER was entered, and for the first time we - John, Peter and myself - stopped developing the program sporadically ad hoc and seriously thought about how to improve it. One big problem was that none of us was (or is) a good chess player and by then the program was beginning to beat us occasionally.
+```C++In March 1974 [David Levy](David_Levy "David Levy"), the regular referee and one of the organisers of the [American ACM tournaments](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), rang me up - did I know of any good English chess programs? And, if so, would they like to enter the first [IFIPS](IFIP "IFIP") World Computer Chess Championship which would take place at Stockholm in August? So MASTER was entered, and for the first time we - John, Peter and myself - stopped developing the program sporadically ad hoc and seriously thought about how to improve it. One big problem was that none of us was (or is) a good chess player and by then the program was beginning to beat us occasionally.
 
 ```
 
 
-```C++
-So a fourth member of the team was recruited - [John Waldron](John_Waldron "John Waldron"), a sound county level player. From this point MASTER slowly began to copy Waldron's style and, with the program now searching 6 plies deep plus a crude form of a new technique (feedover), it took part in the [IFIP](IFIP "IFIP") [first World Championship](WCCC_1974 "WCCC 1974") in Stockholm, winning 2, losing 2 and coming about 5th out of 13 programs using 2 hours of time of the Rutherford's [360/195](IBM_360 "IBM 360").
+```C++So a fourth member of the team was recruited - [John Waldron](John_Waldron "John Waldron"), a sound county level player. From this point MASTER slowly began to copy Waldron's style and, with the program now searching 6 plies deep plus a crude form of a new technique (feedover), it took part in the [IFIP](IFIP "IFIP") [first World Championship](WCCC_1974 "WCCC 1974") in Stockholm, winning 2, losing 2 and coming about 5th out of 13 programs using 2 hours of time of the Rutherford's [360/195](IBM_360 "IBM 360").
 
 ```
 
 
-```C++
-On the last night, having won two easy games, MASTER again met a tough opponent, [RIBBIT](Ribbit "Ribbit") from Canada. At one point in this game Peter Kent, who was in Stockholm, told us that if MASTER won then there was a chance that it could play off for the championship but, unfortunately, [TECH 2](Tech "Tech") had been a costly game in sabbatical time and MASTER was set to play very quickly, missed its chances and gave away a piece. The position at move 54 was (Fig. 10) and Peter Kent asked me if MASTER was saying it wanted to resign.
+```C++On the last night, having won two easy games, MASTER again met a tough opponent, [RIBBIT](Ribbit "Ribbit") from Canada. At one point in this game Peter Kent, who was in Stockholm, told us that if MASTER won then there was a chance that it could play off for the championship but, unfortunately, [TECH 2](Tech "Tech") had been a costly game in sabbatical time and MASTER was set to play very quickly, missed its chances and gave away a piece. The position at move 54 was (Fig. 10) and Peter Kent asked me if MASTER was saying it wanted to resign.
 
 ```
 

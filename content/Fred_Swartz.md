@@ -36,8 +36,7 @@ an American computer scientist and former computer chess programmer. In the earl
 
 Fred Swartz in *Computer vs. computer: Duel at the chessboard* on [ACM 1979](ACM_1979 "ACM 1979"): <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
 
-```C++
-Last year, the [U.S. Army](https://en.wikipedia.org/wiki/United_States_Army) flew several programmers of heavyweight computer chess to the [White Sands Missile Range](https://en.wikipedia.org/wiki/White_Sands_Missile_Range) near [Alamogordo, N.M.](https://en.wikipedia.org/wiki/Alamogordo,_New_Mexico), Swartz said. He never learned the purpose of the mission, though. "I guess they wanted to find out how to use the techniques," he said. "They just asked us questions but didn't tell us what their problems are. Who knows what they do there, anyway? Guards went with us everywhere - even to the restroom. We never heard anything else afterward." 
+```C++Last year, the [U.S. Army](https://en.wikipedia.org/wiki/United_States_Army) flew several programmers of heavyweight computer chess to the [White Sands Missile Range](https://en.wikipedia.org/wiki/White_Sands_Missile_Range) near [Alamogordo, N.M.](https://en.wikipedia.org/wiki/Alamogordo,_New_Mexico), Swartz said. He never learned the purpose of the mission, though. "I guess they wanted to find out how to use the techniques," he said. "They just asked us questions but didn't tell us what their problems are. Who knows what they do there, anyway? Guards went with us everywhere - even to the restroom. We never heard anything else afterward." 
 
 ```
 

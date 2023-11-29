@@ -12,7 +12,6 @@ a common way of implementing [minimax](Minimax "Minimax") and derived algorithms
 
 
 ```C++
-
 max(a, b) == -min(-a, -b)
 
 ```
@@ -31,8 +30,7 @@ One calls negaMax with another root negaMax which makes the call to the negaMax 
 
 
 
-```C++
-score = materialWeight * (numWhitePieces - numBlackPieces) * who2move 
+```C++score = materialWeight * (numWhitePieces - numBlackPieces) * who2move 
 
 ```
 

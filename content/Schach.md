@@ -27,14 +27,12 @@ given in 1995 from the [ICGA](ICGA "ICGA") site <a id="cite-note-7" href="#cite-
 
 
 
-```C++
-Schach 3 is the PC version of Schach 2.x one of the earliest German chess programs. It is a non-commercial project developed and maintained by two former students. Work on Schach started in 1978 and after some surprisingly good results in computer chess tournaments, the authors could not stop working on the program. Even the distance - one of the programmers (Kreitmeir) lives in the Netherlands and the other in Germany - is no real handicap. 
+```C++Schach 3 is the PC version of Schach 2.x one of the earliest German chess programs. It is a non-commercial project developed and maintained by two former students. Work on Schach started in 1978 and after some surprisingly good results in computer chess tournaments, the authors could not stop working on the program. Even the distance - one of the programmers (Kreitmeir) lives in the Netherlands and the other in Germany - is no real handicap. 
 
 ```
 
 
-```C++
-The program is a more or less simple [Shannon-A](Type_A_Strategy "Type A Strategy") program with all the known extensions (the authors believe in the [brute-force](Brute-Force "Brute-Force") method for computer chess). The program is written in 486- assembler and can search 9 or ten plies in the [middlegame](Middlegame "Middlegame"). Schach participated in the 1980, 1983 and 1986 World Championships, in the ACM events in the period 1981-1985 and in the German and Dutch Championships since 1992. Best results were a 6th place in Linz 1980 and New York 1983, a 3rd place in the 1994 Dutch Championship and a first place in the 1994 German Championship ([Zugzwang](Zugzwang_(Program) "Zugzwang (Program)") was absent, but we all need some good luck!) 
+```C++The program is a more or less simple [Shannon-A](Type_A_Strategy "Type A Strategy") program with all the known extensions (the authors believe in the [brute-force](Brute-Force "Brute-Force") method for computer chess). The program is written in 486- assembler and can search 9 or ten plies in the [middlegame](Middlegame "Middlegame"). Schach participated in the 1980, 1983 and 1986 World Championships, in the ACM events in the period 1981-1985 and in the German and Dutch Championships since 1992. Best results were a 6th place in Linz 1980 and New York 1983, a 3rd place in the 1994 Dutch Championship and a first place in the 1994 German Championship ([Zugzwang](Zugzwang_(Program) "Zugzwang (Program)") was absent, but we all need some good luck!) 
 
 ```
 

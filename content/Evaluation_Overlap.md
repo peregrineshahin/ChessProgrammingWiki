@@ -131,7 +131,6 @@ Again Hartmann points out that this might be useless, but it seems OK in the end
 ## Final Definition
 
 ```C++
-
 MAT+PS+DIF+0.5*CEN+LD+2*RB+QB+2*BB+0.5*DEF+OFF
 
 ```

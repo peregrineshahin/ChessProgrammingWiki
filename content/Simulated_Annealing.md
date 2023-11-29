@@ -20,8 +20,7 @@ In the 2003 conference proceedings *Celebrating the 50th Anniversary of the Metr
 
 
 
-```C++
-A simple way to do this [sampling configurations with the [Boltzmann weight](https://en.wikipedia.org/wiki/Boltzmann_distribution)], as emerged after discussions with [Teller](Mathematician#ETeller "Mathematician"), would be to make a trial move: if it decreased the energy of the system, allow it; if it increased the energy, allow it with [probability](https://en.wikipedia.org/wiki/Probability) exp(−ΔE/kT) as determined by a comparison with a [random number](Pseudorandom_Number_Generator "Pseudorandom Number Generator"). Each step, after an initial annealing period, is counted as a member of the ensemble, and the appropriate ensemble average of any quantity determined. 
+```C++A simple way to do this [sampling configurations with the [Boltzmann weight](https://en.wikipedia.org/wiki/Boltzmann_distribution)], as emerged after discussions with [Teller](Mathematician#ETeller "Mathematician"), would be to make a trial move: if it decreased the energy of the system, allow it; if it increased the energy, allow it with [probability](https://en.wikipedia.org/wiki/Probability) exp(−ΔE/kT) as determined by a comparison with a [random number](Pseudorandom_Number_Generator "Pseudorandom Number Generator"). Each step, after an initial annealing period, is counted as a member of the ensemble, and the appropriate ensemble average of any quantity determined. 
 
 ```
 
@@ -65,7 +64,6 @@ The [C](C "C") like pseudo code is based on [Peter Mysliwietz'](Peter_Mysliwietz
 
 
 ```C++
-
 /**
  * simulatedAnnealing
  * @author Peter Mysliwietz, slightly modified

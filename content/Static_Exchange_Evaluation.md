@@ -19,7 +19,6 @@ To statically evaluate a [capture](Captures "Captures"), that particular capture
 
 
 ```C++
-
 int seeCapture(int from, int to, int side)
 {
    value = 0;

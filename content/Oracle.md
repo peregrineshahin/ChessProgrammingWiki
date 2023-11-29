@@ -23,14 +23,12 @@ an instance with the fame of perfect knowledge, that is [evaluation](Evaluation 
 
 
 
-```C++
-One thing that we used to do with our chess program, [Duchess](Duchess "Duchess"), was to have a special routine that ran before the [main search](Search "Search") that identified strong and weak points in each side's respective position - weak squares, [passed pawns](Passed_Pawn "Passed Pawn"), weak [king protection](King_Safety "King Safety"), etc, and tried to grow trees of moves to protect our own weak squares or attack the opponent's weak squares. These would be just sequences of moves by our own or our opponent's  pieces and pawns to reach the targeted squares. A table was build for the value of reaching each of these goals for each type of piece and for reaching the middle points along the paths (the value diminishing the further they were from the goal). Then during the search the program would get bonus points for reaching some of the intermediate points in the plan.
+```C++One thing that we used to do with our chess program, [Duchess](Duchess "Duchess"), was to have a special routine that ran before the [main search](Search "Search") that identified strong and weak points in each side's respective position - weak squares, [passed pawns](Passed_Pawn "Passed Pawn"), weak [king protection](King_Safety "King Safety"), etc, and tried to grow trees of moves to protect our own weak squares or attack the opponent's weak squares. These would be just sequences of moves by our own or our opponent's  pieces and pawns to reach the targeted squares. A table was build for the value of reaching each of these goals for each type of piece and for reaching the middle points along the paths (the value diminishing the further they were from the goal). Then during the search the program would get bonus points for reaching some of the intermediate points in the plan.
 
 ```
 
 
-```C++
-This seemed most useful in the [endgame](Endgame "Endgame") when actually reaching the culmination of a play might be beyond the [search depth](Depth "Depth"), and where [tactics](Tactics "Tactics") did not dominate as much as they do in the [middle game](Middlegame "Middlegame"); for example, Duchess was quite capable of finding long King maneuvers that might take the King far away from simpleminded heuristics such as "[centralize the King in the endgame](King_Centralization "King Centralization")" and that were too deep to be found by a direct search. It wasn't perfect; it could not take into account the changes in strategy that might be dictated by a radically different structure encountered deep in the search, but it seemed to be better than nothing. 
+```C++This seemed most useful in the [endgame](Endgame "Endgame") when actually reaching the culmination of a play might be beyond the [search depth](Depth "Depth"), and where [tactics](Tactics "Tactics") did not dominate as much as they do in the [middle game](Middlegame "Middlegame"); for example, Duchess was quite capable of finding long King maneuvers that might take the King far away from simpleminded heuristics such as "[centralize the King in the endgame](King_Centralization "King Centralization")" and that were too deep to be found by a direct search. It wasn't perfect; it could not take into account the changes in strategy that might be dictated by a radically different structure encountered deep in the search, but it seemed to be better than nothing. 
 
 ```
 
@@ -42,8 +40,7 @@ This seemed most useful in the [endgame](Endgame "Endgame") when actually reachi
 
 
 
-```C++
-A second departure from other commercial programs has been the simplification of the [evaluation function](Evaluation_Function "Evaluation Function") as applied to the [end nodes](Leaf_Node "Leaf Node") of the tree [search](Search "Search"). The programs instead rely heavily on specific chess [knowledge](Knowledge "Knowledge") which is concentrated into a special [preprocessor](Piece-Square_Tables#Preprocessing "Piece-Square Tables") which interfaces to the tree search primarily through the [scores](Score "Score") associated with specific ply-one [moves](Moves "Moves"). This ides of a ply-one move preprocessor was originally implemented in the program [Tech](Tech "Tech") by [James Gillogly](James_Gillogly "James Gillogly") in the late 1960s. Although Tech only achieved a high 1400 rating running on a large computer, the strategy has certain appeal. First, chess tree searching has become very efficient, and second, the interaction problems associated with putting ever increasing amounts of chess knowledge in the tree become formidable. It has become apparent to that this rather simple approach might contain the structure of a master level microcomputer program. 
+```C++A second departure from other commercial programs has been the simplification of the [evaluation function](Evaluation_Function "Evaluation Function") as applied to the [end nodes](Leaf_Node "Leaf Node") of the tree [search](Search "Search"). The programs instead rely heavily on specific chess [knowledge](Knowledge "Knowledge") which is concentrated into a special [preprocessor](Piece-Square_Tables#Preprocessing "Piece-Square Tables") which interfaces to the tree search primarily through the [scores](Score "Score") associated with specific ply-one [moves](Moves "Moves"). This ides of a ply-one move preprocessor was originally implemented in the program [Tech](Tech "Tech") by [James Gillogly](James_Gillogly "James Gillogly") in the late 1960s. Although Tech only achieved a high 1400 rating running on a large computer, the strategy has certain appeal. First, chess tree searching has become very efficient, and second, the interaction problems associated with putting ever increasing amounts of chess knowledge in the tree become formidable. It has become apparent to that this rather simple approach might contain the structure of a master level microcomputer program. 
 
 ```
 
@@ -55,20 +52,17 @@ A second departure from other commercial programs has been the simplification of
 
 
 
-```C++
-After toying with horrible slow code that did endpoint evaluations for the pieces I got the idea (as many did before, but I swear I didn't know that and hence I was quite proud of it) to analyze the root position and to modify the [piece/square table](Piece-Square_Tables "Piece-Square Tables") relative to [pawn structure](Pawn_Structure "Pawn Structure") and king locations. The piece/square table scores were also used for [move ordering](Move_Ordering "Move Ordering") to cut down the tree size (this helped a lot since it is basically using the evaluation to order the moves at close to no cost).
+```C++After toying with horrible slow code that did endpoint evaluations for the pieces I got the idea (as many did before, but I swear I didn't know that and hence I was quite proud of it) to analyze the root position and to modify the [piece/square table](Piece-Square_Tables "Piece-Square Tables") relative to [pawn structure](Pawn_Structure "Pawn Structure") and king locations. The piece/square table scores were also used for [move ordering](Move_Ordering "Move Ordering") to cut down the tree size (this helped a lot since it is basically using the evaluation to order the moves at close to no cost).
 
 ```
 
 
-```C++
-Of course the program played **much** better than before but it had serious trouble when the pawn structure was highly flexible and if there was a way to lock its bishops with own pawns it was guaranteed to like exactly this line ;)
+```C++Of course the program played **much** better than before but it had serious trouble when the pawn structure was highly flexible and if there was a way to lock its bishops with own pawns it was guaranteed to like exactly this line ;)
 
 ```
 
 
-```C++
-Later the three of us modified the oracle code (to use Berliner's term) and we where quite successful with it - DarkThought started to beat commercial PC programs. But it was quite hard to make further progress, so a lot of knowledge was moved to the endpoint evaluation up to the point that there was basically no oracle code left. This improved [playing strength](Playing_Strength "Playing Strength") but it was always my impression that we suffered in the "[tactical](Tactics "Tactics")" aspect a bit since the search was no longer fast as hell and I was never convinced that going this way was the best decision. 
+```C++Later the three of us modified the oracle code (to use Berliner's term) and we where quite successful with it - DarkThought started to beat commercial PC programs. But it was quite hard to make further progress, so a lot of knowledge was moved to the endpoint evaluation up to the point that there was basically no oracle code left. This improved [playing strength](Playing_Strength "Playing Strength") but it was always my impression that we suffered in the "[tactical](Tactics "Tactics")" aspect a bit since the search was no longer fast as hell and I was never convinced that going this way was the best decision. 
 
 ```
 
@@ -84,8 +78,7 @@ Quote by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") from *CHE: A
 
 
 
-```C++
-The main design criterion for successor [Nimzo-3](Nimzo "Nimzo") was combining the positional play of Nimzo-2 with the [tactical](Tactics "Tactics") strength of a program like [Fritz](Fritz "Fritz"). Nimzo-2 was developed on an [486/50 MHz](X86 "X86") [PC](IBM_PC "IBM PC"), which calculated about 3,000 [nodes per second](Nodes_per_Second "Nodes per Second"). Thereof 60 to 70 percent was spent/wasted in the [leaf evaluation](Evaluation "Evaluation") routines. Hence, a major improvement in speed and thus in tactical strength could only be obtained by performing most of the evaluation either in the root or the interior of the [search tree](Search_Tree "Search Tree"). So, Nimzo-3 became a [Genius](Chess_Genius "Chess Genius")/[Fritz](Fritz "Fritz")-like program with a complex root evaluation, called Oracle, similar to [Berliner's](Hans_Berliner "Hans Berliner") Oracle, and with a very simple, mainly first order evaluation at the [leaves](Leaf_Node "Leaf Node") <a id="cite-note-9" href="#cite-ref-9">[9]</a>. Nimzo-3 spends about 10 to 20% on leaf evaluation, its node rate has increased by 400% up to 12,000 nodes/second on the same hardware. 
+```C++The main design criterion for successor [Nimzo-3](Nimzo "Nimzo") was combining the positional play of Nimzo-2 with the [tactical](Tactics "Tactics") strength of a program like [Fritz](Fritz "Fritz"). Nimzo-2 was developed on an [486/50 MHz](X86 "X86") [PC](IBM_PC "IBM PC"), which calculated about 3,000 [nodes per second](Nodes_per_Second "Nodes per Second"). Thereof 60 to 70 percent was spent/wasted in the [leaf evaluation](Evaluation "Evaluation") routines. Hence, a major improvement in speed and thus in tactical strength could only be obtained by performing most of the evaluation either in the root or the interior of the [search tree](Search_Tree "Search Tree"). So, Nimzo-3 became a [Genius](Chess_Genius "Chess Genius")/[Fritz](Fritz "Fritz")-like program with a complex root evaluation, called Oracle, similar to [Berliner's](Hans_Berliner "Hans Berliner") Oracle, and with a very simple, mainly first order evaluation at the [leaves](Leaf_Node "Leaf Node") <a id="cite-note-9" href="#cite-ref-9">[9]</a>. Nimzo-3 spends about 10 to 20% on leaf evaluation, its node rate has increased by 400% up to 12,000 nodes/second on the same hardware. 
 
 ```
 
@@ -127,8 +120,7 @@ Reply by [Ulrich Türke](Ulrich_T%C3%BCrke "Ulrich Türke") <a id="cite-note-11"
 
 
 
-```C++
-I too think that pre-processing is still done in most of the current chess programs, more or less. I am considering the possibility of a moderated pre-processing, i. e. apply the time-consuming pre-processing evaluation parts not at the root but to nodes at [depth](Depth "Depth") - say - the half of the aimed search depth. Thus, one would still have the main advantage, saving a lot of calculation time, because the number of pre-processed nodes would still be a microscopic fraction of the [leaf nodes](Leaf_Node "Leaf Node"). But on the other hand, the pre-processed knowledge would be applied to nodes being far closer to the leaf nodes (in your examples "only" 30 ply instead of 60). Opinions? 
+```C++I too think that pre-processing is still done in most of the current chess programs, more or less. I am considering the possibility of a moderated pre-processing, i. e. apply the time-consuming pre-processing evaluation parts not at the root but to nodes at [depth](Depth "Depth") - say - the half of the aimed search depth. Thus, one would still have the main advantage, saving a lot of calculation time, because the number of pre-processed nodes would still be a microscopic fraction of the [leaf nodes](Leaf_Node "Leaf Node"). But on the other hand, the pre-processed knowledge would be applied to nodes being far closer to the leaf nodes (in your examples "only" 30 ply instead of 60). Opinions? 
 
 ```
 
@@ -140,8 +132,7 @@ Note by [Amir Ban](Amir_Ban "Amir Ban") <a id="cite-note-12" href="#cite-ref-12"
 
 
 
-```C++
-It's a fair but simplistic description of [Junior](Junior "Junior"). 
+```C++It's a fair but simplistic description of [Junior](Junior "Junior"). 
 
 ```
 
@@ -153,50 +144,42 @@ It's a fair but simplistic description of [Junior](Junior "Junior").
 
 
 
-```C++
-I've been considering this type of approach for a long time. I think it definitely has merit. It would suffer from [hash table](Transposition_Table "Transposition Table") anomalies but there are ways to deal with this, the primary one to simply ignore them.
+```C++I've been considering this type of approach for a long time. I think it definitely has merit. It would suffer from [hash table](Transposition_Table "Transposition Table") anomalies but there are ways to deal with this, the primary one to simply ignore them.
 
 ```
 
 
-```C++
-There are a few issues to be dealt with but my feeling is that you might do well with this scheme. Scoring might be a little fuzzy at times but that might be ok. Probably the scheme would be to pre-process at every level up to MAX_DEPTH-n, where n might be at least 3 or 4 ply. Keep in mind that pre-processing is incredibly expensive even compared to fully dynamic processing, so I suspect you cannot get very close to the leaf nodes. Of course 3 or 4 ply away might be considered pretty close if you were doing 14 ply searches.
+```C++There are a few issues to be dealt with but my feeling is that you might do well with this scheme. Scoring might be a little fuzzy at times but that might be ok. Probably the scheme would be to pre-process at every level up to MAX_DEPTH-n, where n might be at least 3 or 4 ply. Keep in mind that pre-processing is incredibly expensive even compared to fully dynamic processing, so I suspect you cannot get very close to the leaf nodes. Of course 3 or 4 ply away might be considered pretty close if you were doing 14 ply searches.
 
 ```
 
 
-```C++
-The way I got this idea (which I'm not taking credit for) actually began when I was programming the ending [Bishop and Knight vs King](KBNK_Endgame "KBNK Endgame") with a pre-processor program of mine a few years ago. This is a very good exercise for someone wanting to understand some of the difficulties of pre-processing. I tested with a 3 ply search, and tuned the thing up to do quite well. But it turned out to not work so well at other levels! It turns out that no matter what table you use, they will tend to be optimum for a specific depth only. It was almost funny because I kept figuring out which positions in the search were messing it up and changed the tables accordingly. These anticipations were wrong though at different levels! Finally though, I extracted the most general principles possible and created a table that was almost static (not based as much on the placing of the pieces) and it did ok, but not as good as the depth specific ones. Some pre-processors will suggest a move and for this ending that would work well. The idea is to give a bonus to the whole search tree under some root move. For example I might give a small bonus for playing any move that's a pin. This makes the program slightly in favor of playing a pin. I call these "ply 1 incentives" but there is probably better terminology in use. This is also another example of pre-processing. See note at end of my post.
+```C++The way I got this idea (which I'm not taking credit for) actually began when I was programming the ending [Bishop and Knight vs King](KBNK_Endgame "KBNK Endgame") with a pre-processor program of mine a few years ago. This is a very good exercise for someone wanting to understand some of the difficulties of pre-processing. I tested with a 3 ply search, and tuned the thing up to do quite well. But it turned out to not work so well at other levels! It turns out that no matter what table you use, they will tend to be optimum for a specific depth only. It was almost funny because I kept figuring out which positions in the search were messing it up and changed the tables accordingly. These anticipations were wrong though at different levels! Finally though, I extracted the most general principles possible and created a table that was almost static (not based as much on the placing of the pieces) and it did ok, but not as good as the depth specific ones. Some pre-processors will suggest a move and for this ending that would work well. The idea is to give a bonus to the whole search tree under some root move. For example I might give a small bonus for playing any move that's a pin. This makes the program slightly in favor of playing a pin. I call these "ply 1 incentives" but there is probably better terminology in use. This is also another example of pre-processing. See note at end of my post.
 
 ```
 
 
-```C++
-But your idea would solve this and a host of other problems. You could make very good guesses about configurations if you knew the possible changes to a position were limited. This would enable you to be more aggressive about the knowledge you included.
+```C++But your idea would solve this and a host of other problems. You could make very good guesses about configurations if you knew the possible changes to a position were limited. This would enable you to be more aggressive about the knowledge you included.
 
 ```
 
 
-```C++
-Here is another idea I had which is more dynamic in nature. It occurred to me that you could do a fairly decent evaluation based on pawn position only, the idea being a separate set of tables for each pawn structure. These could be built by the pawn structure hash table mechanism most programs have. Most pieces can be judged well by the pawn structure around them.
+```C++Here is another idea I had which is more dynamic in nature. It occurred to me that you could do a fairly decent evaluation based on pawn position only, the idea being a separate set of tables for each pawn structure. These could be built by the pawn structure hash table mechanism most programs have. Most pieces can be judged well by the pawn structure around them.
 
 ```
 
 
-```C++
-I did not pursue this idea because I fear it may still be too slow. If my hash table hit rate was say 95 percent, then 1/20 of the positions would require a pre-processing step. While this does not seem like much, you have to consider how expensive building the table is. It's pretty expensive, especially if you want sophistication. But on top of that you must recompute the positional score each time the pawn structure changes, EVEN if the table itself is ready to go. This should be fairly fast but not trivial in terms of execution speed. You have already killed some of the speed you were hoping to gain. Is the idea workable? Maybe, but I'm skeptical. Also, the pawn structure is not the only relevant factor so other evaluation would not doubt be needed. For instance you cannot look at the pawn structure and know for sure that you are in an endgame. You could make assumptions though based on the exact position you had when you built the tables.
+```C++I did not pursue this idea because I fear it may still be too slow. If my hash table hit rate was say 95 percent, then 1/20 of the positions would require a pre-processing step. While this does not seem like much, you have to consider how expensive building the table is. It's pretty expensive, especially if you want sophistication. But on top of that you must recompute the positional score each time the pawn structure changes, EVEN if the table itself is ready to go. This should be fairly fast but not trivial in terms of execution speed. You have already killed some of the speed you were hoping to gain. Is the idea workable? Maybe, but I'm skeptical. Also, the pawn structure is not the only relevant factor so other evaluation would not doubt be needed. For instance you cannot look at the pawn structure and know for sure that you are in an endgame. You could make assumptions though based on the exact position you had when you built the tables.
 
 ```
 
 
-```C++
-Anyway the idea is interesting and I sometimes toy with the idea of trying it out, but it seems like a lot of work for an experiment that may not pay off. It could well be that someone dedicated to making it work might find imaginative solutions to some of the problems. But your idea may be more sound. It may very well be that some are using it. I've never heard of a specific example of it though. 
+```C++Anyway the idea is interesting and I sometimes toy with the idea of trying it out, but it seems like a lot of work for an experiment that may not pay off. It could well be that someone dedicated to making it work might find imaginative solutions to some of the problems. But your idea may be more sound. It may very well be that some are using it. I've never heard of a specific example of it though. 
 
 ```
 
 
-```C++
-I think an old program called [Tech](Tech "Tech") used the method of "ply 1 move incentives." There was no evaluation at all (the way I remember it) except for [material](Material "Material") value and a list of moves was prepared in order of goodness from a pre-processor at the root. The program simply played the first move it came to in the move list that was at least as good tactical as any other. I'll bet [Bob Hyatt](Robert_Hyatt "Robert Hyatt") knows about this one. I had a nice discussion once with [the programmer](James_Gillogly "James Gillogly") when he was giving a talk on [hash table collisions](Transposition_Table#bits "Transposition Table") in chess programs. 
+```C++I think an old program called [Tech](Tech "Tech") used the method of "ply 1 move incentives." There was no evaluation at all (the way I remember it) except for [material](Material "Material") value and a list of moves was prepared in order of goodness from a pre-processor at the root. The program simply played the first move it came to in the move list that was at least as good tactical as any other. I'll bet [Bob Hyatt](Robert_Hyatt "Robert Hyatt") knows about this one. I had a nice discussion once with [the programmer](James_Gillogly "James Gillogly") when he was giving a talk on [hash table collisions](Transposition_Table#bits "Transposition Table") in chess programs. 
 
 ```
 

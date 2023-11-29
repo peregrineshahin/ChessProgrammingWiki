@@ -52,18 +52,15 @@ The two players, White and Black are each given four **amazons** in predefined l
 
 *excerpt of [Patrick Hensgens'](index.php?title=Patrick_Hensgens&action=edit&redlink=1 "Patrick Hensgens (page does not exist)") 2001 master's thesis* <a id="cite-note-8" href="#cite-ref-8">[8]</a> :
 
-```C++
-In the initial position the first player has 2176 possible moves. This is a huge number, especially when compared to other AI games, where most games have a branching factor below 50 in the initial position (e.g., [Chess](Chess "Chess") 20, [Lines of Action](Lines_of_Action "Lines of Action") 36, [Checkers](Checkers "Checkers") 7, [Draughts](Draughts "Draughts") 9). Fortunately the [branching factor](Branching_Factor "Branching Factor") in the game of Amazons decreases rapidly as the game progresses. In the endgame the branching factor is usually below 50.
+```C++In the initial position the first player has 2176 possible moves. This is a huge number, especially when compared to other AI games, where most games have a branching factor below 50 in the initial position (e.g., [Chess](Chess "Chess") 20, [Lines of Action](Lines_of_Action "Lines of Action") 36, [Checkers](Checkers "Checkers") 7, [Draughts](Draughts "Draughts") 9). Fortunately the [branching factor](Branching_Factor "Branching Factor") in the game of Amazons decreases rapidly as the game progresses. In the endgame the branching factor is usually below 50.
 
 ```
 
-```C++
-Investigating the average branching factor of Amazons, we encounter a strange phenomenon. From the experiments we performed for finding the average branching factor we observed that this number is quite different for both players. The first player has an average branching factor of 374 while the second player has an average branching factor of 299. This means that to compute the game-tree complexity we need a formula that takes into account that both players have a different branching factor.
+```C++Investigating the average branching factor of Amazons, we encounter a strange phenomenon. From the experiments we performed for finding the average branching factor we observed that this number is quite different for both players. The first player has an average branching factor of 374 while the second player has an average branching factor of 299. This means that to compute the game-tree complexity we need a formula that takes into account that both players have a different branching factor.
 
 ```
 
-```C++
-Furthermore, we observed that the average branching factor for both players increases with decreasing playing strength of both players. 
+```C++Furthermore, we observed that the average branching factor for both players increases with decreasing playing strength of both players. 
 
 ```
 

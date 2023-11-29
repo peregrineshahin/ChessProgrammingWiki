@@ -11,8 +11,7 @@ the chess program by [Dap Hartmann](Dap_Hartmann "Dap Hartmann") and [Peter Kouw
 
 from the [WCCC 1989](WCCC_1989 "WCCC 1989") booklet <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
-```C++
-Dappet uses the [NegaScout](NegaScout "NegaScout") algorithm enhanced with [refutation tables](Refutation_Table "Refutation Table"), [killer heuristic](Killer_Heuristic "Killer Heuristic"), [history heuristic](History_Heuristic "History Heuristic") and [transposition tables](Transposition_Table "Transposition Table") (700,000 entries) to search the [game tree](Search_Tree "Search Tree"). The strategy used is basically [brute force](Brute-Force "Brute-Force"), with [selective deepening](Extensions "Extensions") of forced lines of play. The [opening book](Opening_Book "Opening Book") consists of some 15,000 positions. 
+```C++Dappet uses the [NegaScout](NegaScout "NegaScout") algorithm enhanced with [refutation tables](Refutation_Table "Refutation Table"), [killer heuristic](Killer_Heuristic "Killer Heuristic"), [history heuristic](History_Heuristic "History Heuristic") and [transposition tables](Transposition_Table "Transposition Table") (700,000 entries) to search the [game tree](Search_Tree "Search Tree"). The strategy used is basically [brute force](Brute-Force "Brute-Force"), with [selective deepening](Extensions "Extensions") of forced lines of play. The [opening book](Opening_Book "Opening Book") consists of some 15,000 positions. 
 
 ```
 

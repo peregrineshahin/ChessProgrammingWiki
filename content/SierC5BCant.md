@@ -68,7 +68,6 @@ To compare the quality of move ordering, a [beta-cutoff](Beta-Cutoff "Beta-Cutof
 
 
 ```C++
-
 int alphabeta (ply, depth, alpha, beta) {
   for (a = 1; a <= NMoves; a++) {
      make ();

@@ -20,32 +20,27 @@ In his *Programming Topics*, [Bruce Moreland](Bruce_Moreland "Bruce Moreland") e
 
 
 
-```C++
-Search instability is something that happens when you try to write a program that is strong, as opposed to one that is perfect. There are many causes of instability, and I will discuss how various search enhancements can lead to instability, when I discuss those enhancements. A few other search techniques must take into account the possibility of instability.
+```C++Search instability is something that happens when you try to write a program that is strong, as opposed to one that is perfect. There are many causes of instability, and I will discuss how various search enhancements can lead to instability, when I discuss those enhancements. A few other search techniques must take into account the possibility of instability.
 
 ```
 
 
-```C++
-An unstable search is one that returns results that don't make any sense. You have an alpha-beta window of (5, 25) and fail high. So you re-search with (24, INFINITY) and fail low. This shouldn't happen, because the fail-high indicated very clearly that the score should be 25 or better. How can you fail low?
+```C++An unstable search is one that returns results that don't make any sense. You have an alpha-beta window of (5, 25) and fail high. So you re-search with (24, INFINITY) and fail low. This shouldn't happen, because the fail-high indicated very clearly that the score should be 25 or better. How can you fail low?
 
 ```
 
 
-```C++
-Fact is, a lot of the things that make a chess program fast or strong do sleazy things that result in searches returning slightly different values when called with different windows, and if you aren't expecting the values you get, you can crash or have a bug that might make your program play a dumb move.
+```C++Fact is, a lot of the things that make a chess program fast or strong do sleazy things that result in searches returning slightly different values when called with different windows, and if you aren't expecting the values you get, you can crash or have a bug that might make your program play a dumb move.
 
 ```
 
 
-```C++
-Some chess programmers can't handle the idea of search instability, and they are willing to let very good search techniques go in order to avoid it, or in order to think that they are avoiding it.
+```C++Some chess programmers can't handle the idea of search instability, and they are willing to let very good search techniques go in order to avoid it, or in order to think that they are avoiding it.
 
 ```
 
 
-```C++
-I wish it was possible to get rid of it completely, but as long as certain very basic techniques are used, it will be a problem. I think that the solution is to defend against crashes and bad behavior, then try to put it out of your mind. 
+```C++I wish it was possible to get rid of it completely, but as long as certain very basic techniques are used, it will be a problem. I think that the solution is to defend against crashes and bad behavior, then try to put it out of your mind. 
 
 ```
 

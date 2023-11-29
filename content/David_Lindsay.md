@@ -11,8 +11,7 @@ an American early [microprocessor](https://en.wikipedia.org/wiki/Microprocessor)
 
 According to Robert Chafitz, son of the Founders of [Chafitz](Chafitz "Chafitz"), [Arleen](Arleen_Chafitz "Arleen Chafitz") and [Steve Chafitz](Steve_Chafitz "Steve Chafitz"), David Lindsay was hired to program the machine <a id="cite-note-4" href="#cite-ref-4">[4]</a> :
 
-```C++
-The original Boris sold by Chafitz was manufactured for them (Steve and Arleen Chafitz) by [Applied Concepts](Applied_Concepts "Applied Concepts") (Garland, Texas). David Lindsay (from Dallas) was hired to program this machine (it only had 2k of ram). They don't remember much more about him. Following the development of the original Boris when more advanced programs were required my parents contracted [Kathy](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen") to be their chess programmers for the [Chafitz modular game system](Chafitz_Modular_Game_System "Chafitz Modular Game System"). 
+```C++The original Boris sold by Chafitz was manufactured for them (Steve and Arleen Chafitz) by [Applied Concepts](Applied_Concepts "Applied Concepts") (Garland, Texas). David Lindsay (from Dallas) was hired to program this machine (it only had 2k of ram). They don't remember much more about him. Following the development of the original Boris when more advanced programs were required my parents contracted [Kathy](Kathe_Spracklen "Kathe Spracklen") and [Dan Spracklen](Dan_Spracklen "Dan Spracklen") to be their chess programmers for the [Chafitz modular game system](Chafitz_Modular_Game_System "Chafitz Modular Game System"). 
 
 ```
 

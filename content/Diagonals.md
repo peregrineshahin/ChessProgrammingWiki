@@ -319,7 +319,6 @@ Some alternative enumeration of diagonals to keep the main-diagonal index 0, by 
 Two [Squares](Squares "Squares") are on the same Diagonal, if their file distance equals the rank distance
 
 ```C++
-
 bool squaresOnSameDiagonal(int sq1, int sq2) {
   return ((sq2 - sq1) & 7) == ((sq2>>3) - (sq1>>3));
 }
@@ -329,7 +328,6 @@ bool squaresOnSameDiagonal(int sq1, int sq2) {
 Alternatively, one may test whether the square difference is divisible by 9 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```C++
-
 bool squaresOnSameDiagonal(int sq1, int sq2) {
   return ((sq2 - sq1) % 9) == 0;
 }

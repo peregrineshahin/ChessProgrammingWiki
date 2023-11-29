@@ -19,23 +19,19 @@ the free standard version still available on [Github](https://en.wikipedia.org/w
 **Ethereal 13 (NNUE)**, the commercial Ethereal version for [AVX2](AVX2 "AVX2") systems was released on June 04, 2021. The program comes with two [NNUEs](NNUE "NNUE") for [evaluation](Evaluation "Evaluation"),
 one for standard chess, and the secondary network trained exclusively for [Chess960](Chess960 "Chess960"). The NNUEs are not derived from, trained on, nor duplicated from the works of the [Stockfish](Stockfish "Stockfish") team [[6]](#cite-note-ethereal13nnue-6). Andrew Grant on his NNUE approach <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
 
-```C++
-Ethereal is using the [HalfKP](Stockfish_NNUE#NNUE_Structure "Stockfish NNUE") paradigm, with a 40960x256 -> 512x32x32x1 Network. This is the textbook approach, but with some changes. Firstly, not all weights are quantized to int8 / int16 for the input layer. Instead, the network goes like this: int16_t => int16_t => (int32_t -> [float\_t](Float "Float")) => float_t => float_t. This approach allows us to never have to pack the data downwards, saving many operations, and also lets us take a slightly more expensive approach to the later layers in exchange for massively increased precision. If I eventually add support for [AVX](AVX "AVX") (not avx2) machines, it will be a significant gain as AVX does not have 256-bit vector support for integer types in a meaningful way.
+```C++Ethereal is using the [HalfKP](Stockfish_NNUE#NNUE_Structure "Stockfish NNUE") paradigm, with a 40960x256 -> 512x32x32x1 Network. This is the textbook approach, but with some changes. Firstly, not all weights are quantized to int8 / int16 for the input layer. Instead, the network goes like this: int16_t => int16_t => (int32_t -> [float\_t](Float "Float")) => float_t => float_t. This approach allows us to never have to pack the data downwards, saving many operations, and also lets us take a slightly more expensive approach to the later layers in exchange for massively increased precision. If I eventually add support for [AVX](AVX "AVX") (not avx2) machines, it will be a significant gain as AVX does not have 256-bit vector support for integer types in a meaningful way.
 
 ```
 
-```C++
-During training the Network actually has 43850 input parameters, using a few factorization of the board to aid in training without having tens of billions of positions. In practice, each Net was trained somewhere between 2 and 4 billion positions total, evaluated by Ethereal / Ethereal NNUE. The networks are trained using a modified form of the [Adam](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Adam) optimizer, which allows better performance for datasets with extremely sparse input fields. For example, with a Batch Size of 16384, only about 50% of the 43,850 parameters are used on average.
+```C++During training the Network actually has 43850 input parameters, using a few factorization of the board to aid in training without having tens of billions of positions. In practice, each Net was trained somewhere between 2 and 4 billion positions total, evaluated by Ethereal / Ethereal NNUE. The networks are trained using a modified form of the [Adam](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Adam) optimizer, which allows better performance for datasets with extremely sparse input fields. For example, with a Batch Size of 16384, only about 50% of the 43,850 parameters are used on average.
 
 ```
 
-```C++
-Data generation for a given network takes about 3 weeks, completed on a 104 core machine. From there, processing that data down into a list of [FENs](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") and then into the format used by Ethereal's NNTrainer takes another 12 hours or so. Finally, training the actual Network can take a few days, with many stops and starts to drop the learning rate and find a global optima.
+```C++Data generation for a given network takes about 3 weeks, completed on a 104 core machine. From there, processing that data down into a list of [FENs](Forsyth-Edwards_Notation "Forsyth-Edwards Notation") and then into the format used by Ethereal's NNTrainer takes another 12 hours or so. Finally, training the actual Network can take a few days, with many stops and starts to drop the learning rate and find a global optima.
 
 ```
 
-```C++
-The trainer itself is a fully original work, written in [C](C "C") and making use of all 104 threads. It includes some AVX2 and even AVX512 code for use in updating the network parameters. This toolkit was used in training the Halogen networks as well. It is fairly flexible and trying things like HalfKA, changing layer sizes, adding layers, changing activation functions, or adding more factorizers is only a few minutes of effort in the code. It rivals speeds of [GPU](GPU "GPU") based trainers, by leveraging massive SMP and efficient implementations.
+```C++The trainer itself is a fully original work, written in [C](C "C") and making use of all 104 threads. It includes some AVX2 and even AVX512 code for use in updating the network parameters. This toolkit was used in training the Halogen networks as well. It is fairly flexible and trying things like HalfKA, changing layer sizes, adding layers, changing activation functions, or adding more factorizers is only a few minutes of effort in the code. It rivals speeds of [GPU](GPU "GPU") based trainers, by leveraging massive SMP and efficient implementations.
 
 ```
 

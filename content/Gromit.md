@@ -13,8 +13,7 @@ Gromit and GromitChess played several [IPCCCs](IPCCC "IPCCC"), the [WMCCC 1995](
 
 given in 1999 from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```C++
-GromitChess is a [C++](Cpp "Cpp")-program, developed in a [Linux](Linux "Linux")-environment (Emacs, gcc). It searches about 25000 to 50000 [nodes per second](Nodes_per_Second "Nodes per Second") on a K6/200 and tries to be intelligent rather than fast. [Attacktables](Attack_and_Defend_Maps "Attack and Defend Maps") are the primary datastructure ([16 bit](Piece-Sets "Piece-Sets") for every square and player; bit n is set if piece n attacks the square). The search uses [iterative deepening](Iterative_Deepening "Iterative Deepening"), [PVS](Principal_Variation_Search "Principal Variation Search"), [transposition tables](Transposition_Table "Transposition Table"), [killer](Killer_Heuristic "Killer Heuristic")- and [history heuristic](History_Heuristic "History Heuristic"), [nullmove](Null_Move_Pruning "Null Move Pruning") ([R](Depth_Reduction_R "Depth Reduction R")=2), about 10 chess-specific [extensions](Extensions "Extensions") and some [pruning heuristics](Pruning "Pruning"). The [quiescence](Quiescence_Search "Quiescence Search") uses a [static exchange evaluator](Static_Exchange_Evaluation "Static Exchange Evaluation") and includes some checks and other threatening moves. Parts of the [evaluation](Evaluation "Evaluation") are initialized at the [root](Root "Root") but most of the work is done at the [leafnodes](Leaf_Node "Leaf Node"). You can find more information and executables in the WWW. 
+```C++GromitChess is a [C++](Cpp "Cpp")-program, developed in a [Linux](Linux "Linux")-environment (Emacs, gcc). It searches about 25000 to 50000 [nodes per second](Nodes_per_Second "Nodes per Second") on a K6/200 and tries to be intelligent rather than fast. [Attacktables](Attack_and_Defend_Maps "Attack and Defend Maps") are the primary datastructure ([16 bit](Piece-Sets "Piece-Sets") for every square and player; bit n is set if piece n attacks the square). The search uses [iterative deepening](Iterative_Deepening "Iterative Deepening"), [PVS](Principal_Variation_Search "Principal Variation Search"), [transposition tables](Transposition_Table "Transposition Table"), [killer](Killer_Heuristic "Killer Heuristic")- and [history heuristic](History_Heuristic "History Heuristic"), [nullmove](Null_Move_Pruning "Null Move Pruning") ([R](Depth_Reduction_R "Depth Reduction R")=2), about 10 chess-specific [extensions](Extensions "Extensions") and some [pruning heuristics](Pruning "Pruning"). The [quiescence](Quiescence_Search "Quiescence Search") uses a [static exchange evaluator](Static_Exchange_Evaluation "Static Exchange Evaluation") and includes some checks and other threatening moves. Parts of the [evaluation](Evaluation "Evaluation") are initialized at the [root](Root "Root") but most of the work is done at the [leafnodes](Leaf_Node "Leaf Node"). You can find more information and executables in the WWW. 
 
 ```
 
@@ -22,13 +21,11 @@ GromitChess is a [C++](Cpp "Cpp")-program, developed in a [Linux](Linux "Linux")
 
 [Frank Schneider](Frank_Schneider "Frank Schneider") on Gromit's [Copy-Make](Copy-Make "Copy-Make") approach <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
 
-```C++
-I think it depends on your program and the [board representation](Board_Representation "Board Representation"). Gromit uses copy+update and >1KB is copied every move (which is maybe too much). When I decided to do it that way (on an [Amiga](Amiga "Amiga")) I only considered clock cycles, but on a [PC](IBM_PC "IBM PC") the low [memory-bandwidth](https://en.wikipedia.org/wiki/Memory_bandwidth) is the real problem. Since Gromit's [evaluation](Evaluation "Evaluation") and [search heuristics](Search "Search") use most of the processor time I never tried [update](Incremental_Updates "Incremental Updates")+[take back](Unmake_Move "Unmake Move"), because I guess it would give me less than 10% speedup, probably being slower than copy+update.
+```C++I think it depends on your program and the [board representation](Board_Representation "Board Representation"). Gromit uses copy+update and >1KB is copied every move (which is maybe too much). When I decided to do it that way (on an [Amiga](Amiga "Amiga")) I only considered clock cycles, but on a [PC](IBM_PC "IBM PC") the low [memory-bandwidth](https://en.wikipedia.org/wiki/Memory_bandwidth) is the real problem. Since Gromit's [evaluation](Evaluation "Evaluation") and [search heuristics](Search "Search") use most of the processor time I never tried [update](Incremental_Updates "Incremental Updates")+[take back](Unmake_Move "Unmake Move"), because I guess it would give me less than 10% speedup, probably being slower than copy+update.
 
 ```
 
-```C++
-There are some advantages of copy+update:
+```C++There are some advantages of copy+update:
 - it is easy to program
 - it is easier to do some 'clever' things that would be difficult to take back
 - you can compare the current position with previous positions in the search tree

@@ -14,8 +14,7 @@ In 1968, they asked [Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt"
 
 Gerald Tripard in a 2010 letter <a id="cite-note-5" href="#cite-ref-5">[5]</a> on his time at [ETH Zurich](ETH_Zurich "ETH Zurich"), his chess program [Charly](Charly "Charly"), and the match versus [Mac Hack VI](Mac_Hack "Mac Hack") in 1968, and the [Horizon Effect](Horizon_Effect "Horizon Effect") <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```C++
-One of the more interesting problems of [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") that I learned about in working on the chess program was called, "The Horizon Effect". If a problem could be pushed "beyond the preprogrammed" [tree search](Search "Search") [limit](Depth "Depth"), the program would make the "bad" choice of sacrificing material to avoid losing, say, a queen "within" the horizon in the situation where the queen was going to be lost eventually anyway. I see this as not just a problem of "artificial" intelligence but human thinking in general, especially of politicians. You can find wonderful examples of this in today's headlines. For example politicians "buy" the favor of a certain class of workers by offering them fabulous retirement benefits. That effectively pushes an "accounting negative balance" beyond the horizon of the politician's career. The politician gets the immediate benefit of support from the affected workers but society will eventually have to pay the bill after the politician is gone. 
+```C++One of the more interesting problems of [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") that I learned about in working on the chess program was called, "The Horizon Effect". If a problem could be pushed "beyond the preprogrammed" [tree search](Search "Search") [limit](Depth "Depth"), the program would make the "bad" choice of sacrificing material to avoid losing, say, a queen "within" the horizon in the situation where the queen was going to be lost eventually anyway. I see this as not just a problem of "artificial" intelligence but human thinking in general, especially of politicians. You can find wonderful examples of this in today's headlines. For example politicians "buy" the favor of a certain class of workers by offering them fabulous retirement benefits. That effectively pushes an "accounting negative balance" beyond the horizon of the politician's career. The politician gets the immediate benefit of support from the affected workers but society will eventually have to pay the bill after the politician is gone. 
 
 ```
 
@@ -23,18 +22,15 @@ One of the more interesting problems of [artificial intelligence](Artificial_Int
 
 Gerald Tripard in an article on the 50 year anniversary of the [Washington State University Reactor](https://en.wikipedia.org/wiki/Washington_State_University_Reactor), published March 9, 2011 in the [Moscow-Pullman Daily News](https://en.wikipedia.org/wiki/Moscow-Pullman_Daily_News) <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
-```C++
-Gerald Tripard, a former director of the center, told the group it will take a lot of effort to make people recognize that [nuclear energy](https://en.wikipedia.org/wiki/Nuclear_energy) is the energy of the future, not something to be afraid of.
+```C++Gerald Tripard, a former director of the center, told the group it will take a lot of effort to make people recognize that [nuclear energy](https://en.wikipedia.org/wiki/Nuclear_energy) is the energy of the future, not something to be afraid of.
 
 ```
 
-```C++
-"The generation that was brainwashed against nuclear power has to die off," he said. "You're not going to change their minds."
+```C++"The generation that was brainwashed against nuclear power has to die off," he said. "You're not going to change their minds."
 
 ```
 
-```C++
-Tripard said there are about two generations of people who are "[zealots](https://en.wikipedia.org/wiki/Zealot_%28disambiguation%29)" and aren't teachable, even if provided with facts and logic. People wonder what will be done with [nuclear waste](https://en.wikipedia.org/wiki/Radioactive_waste), he said, and don't realize the planet is one big nuclear waste dump from a [supernova](https://en.wikipedia.org/wiki/Supernova) in the past. 
+```C++Tripard said there are about two generations of people who are "[zealots](https://en.wikipedia.org/wiki/Zealot_%28disambiguation%29)" and aren't teachable, even if provided with facts and logic. People wonder what will be done with [nuclear waste](https://en.wikipedia.org/wiki/Radioactive_waste), he said, and don't realize the planet is one big nuclear waste dump from a [supernova](https://en.wikipedia.org/wiki/Supernova) in the past. 
 
 ```
 

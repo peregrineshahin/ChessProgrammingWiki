@@ -8,8 +8,7 @@ title: Fail-Hard
 
 ## Fail-Hard Condition
 
-```C++
-[Alpha](Alpha "Alpha") <= [Score](Score "Score") <= [Beta](Beta "Beta")
+```C++[Alpha](Alpha "Alpha") <= [Score](Score "Score") <= [Beta](Beta "Beta")
 ```
 
 ## See also

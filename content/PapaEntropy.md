@@ -23,14 +23,12 @@ In 2012, [George Rajna](George_Rajna "George Rajna") has re-published a short pa
 
 
 
-```C++
-The basic theory on which one chess program can be constructed is that there exists a general characteristic of the game of chess, namely the concept of entropy. This concept has been employed in physics for a long time. In the case of a [gas](https://en.wikipedia.org/wiki/Gas), it is the [logarithm](https://en.wikipedia.org/wiki/Logarithm) of the number of those [microscopic states](https://en.wikipedia.org/wiki/Microstate_%28statistical_mechanics%29) compatible with the [macroscopic](https://en.wikipedia.org/wiki/Macroscopic_scale) parameters of the gas.
+```C++The basic theory on which one chess program can be constructed is that there exists a general characteristic of the game of chess, namely the concept of entropy. This concept has been employed in physics for a long time. In the case of a [gas](https://en.wikipedia.org/wiki/Gas), it is the [logarithm](https://en.wikipedia.org/wiki/Logarithm) of the number of those [microscopic states](https://en.wikipedia.org/wiki/Microstate_%28statistical_mechanics%29) compatible with the [macroscopic](https://en.wikipedia.org/wiki/Macroscopic_scale) parameters of the gas.
 
 ```
 
 
-```C++
-What does this mean in terms of chess? A common characteristic of every [piece](Pieces "Pieces") is that it could move to certain [squares](Squares "Squares"), including by [capture](Captures "Captures"). In any given [position](Chess_Position "Chess Position"), therefore, the pieces by the rules of the game possess certain states, only one of which will be realized on the next move. The difference of the logarithm of the numbers of such states for Black and White respectively is the "entropy of the position". The task of the computer is then to increase this value for its own benefit. 
+```C++What does this mean in terms of chess? A common characteristic of every [piece](Pieces "Pieces") is that it could move to certain [squares](Squares "Squares"), including by [capture](Captures "Captures"). In any given [position](Chess_Position "Chess Position"), therefore, the pieces by the rules of the game possess certain states, only one of which will be realized on the next move. The difference of the logarithm of the numbers of such states for Black and White respectively is the "entropy of the position". The task of the computer is then to increase this value for its own benefit. 
 
 ```
 
@@ -39,8 +37,7 @@ What does this mean in terms of chess? A common characteristic of every [piece](
 
 
 
-```C++
- Entropy is a principle of [statistical physics](https://en.wikipedia.org/wiki/Statistical_physics) and therefore is only applicable in statistical contexts. The number of microstates of a confined gas is very large and therefore the statistical approach is valid. In chess, however, the number of pieces, a macroscopic parameter, is very small and therefore in this context the "value" of a position cannot be an exact function of entropy. For example, it is possible to [checkmate](Checkmate "Checkmate") with a total force of a single pawn despite the fact that the opponent has many pieces and various positions available. 
+```C++ Entropy is a principle of [statistical physics](https://en.wikipedia.org/wiki/Statistical_physics) and therefore is only applicable in statistical contexts. The number of microstates of a confined gas is very large and therefore the statistical approach is valid. In chess, however, the number of pieces, a macroscopic parameter, is very small and therefore in this context the "value" of a position cannot be an exact function of entropy. For example, it is possible to [checkmate](Checkmate "Checkmate") with a total force of a single pawn despite the fact that the opponent has many pieces and various positions available. 
 
 ```
 
@@ -57,8 +54,7 @@ What does this mean in terms of chess? A common characteristic of every [piece](
 
 
 
-```C++
- [Freedom](Freedom "Freedom") and Papa both use [mobility](Mobility "Mobility") as their primary term in their [evaluation functions](Evaluation_Function "Evaluation Function"). As with [Wita](Awit "Awit"), both use the ratio of computer's moves / opponent moves. Papa and Wita also multiply by the ratio of the [squares controlled](Square_Control "Square Control") and Papa goes one step further and takes the logarithm of this product to form the "entropy" of the position. The true merit of this entropy over the product ratio was not made clear, but it does ensure that in extreme situations the evaluation remains more closely bounded. 
+```C++ [Freedom](Freedom "Freedom") and Papa both use [mobility](Mobility "Mobility") as their primary term in their [evaluation functions](Evaluation_Function "Evaluation Function"). As with [Wita](Awit "Awit"), both use the ratio of computer's moves / opponent moves. Papa and Wita also multiply by the ratio of the [squares controlled](Square_Control "Square Control") and Papa goes one step further and takes the logarithm of this product to form the "entropy" of the position. The true merit of this entropy over the product ratio was not made clear, but it does ensure that in extreme situations the evaluation remains more closely bounded. 
 
 ```
 

@@ -8,7 +8,6 @@ While traversing a [Search Tree](Search_Tree "Search Tree"), the **Copy-Make** a
 ## Copy-Make
 
 ```C++
-
 // make
 memcpy (&position[ply+1].irrvrsAspects, 
         &position[ply  ].irrvrsAspects, 
@@ -27,7 +26,6 @@ ply--;
 The alternative, to maintain those irreversible aspects inside a global structure, would require a [stack](Stack "Stack") ([LIFO](https://en.wikipedia.org/wiki/LIFO_%28computing%29)), with push and global update during make, and pop from stack to global structure during unmake, and therefor higher memory bandwidth for copying back and forth.
 
 ```C++
-
 // make
 push (position.irreversibleAspects);
 ply++;

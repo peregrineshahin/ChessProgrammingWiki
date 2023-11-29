@@ -76,8 +76,7 @@ At [ACM 1986](ACM_1986 "ACM 1986"), after winning [ChipTest](ChipTest "ChipTest"
 from the [ACM 1980](ACM_1980 "ACM 1980") booklet <a id="cite-note-16" href="#cite-ref-16">[16]</a> :
 Tony Scherzer, *SYS-10, Inc.*, [Hoffman Estates, Illinois](https://en.wikipedia.org/wiki/Hoffman_Estates,_Illinois), Bebe Chess Machine on site (32K bytes, 16 bits, 6,250,000 [inst/sec](https://en.wikipedia.org/wiki/Instructions_per_second))
 
-```C++
-A relatively new program and machine, Bebe has recently acquired a provisional [UCSF rating](https://en.wikipedia.org/wiki/US_Chess_Federation#Ratings) of 1810 based on play in one tournament. Bebe defeated an Expert in that tournament. Tony Scherzer's brainchild examines 10,000 [nodes/sec](Nodes_per_Second "Nodes per Second") or about 2,000,000 in a three minute move. The program is small, requiring only 10k 16 bit words. The program has no book. It uses [iterative deepening](Iterative_Deepening "Iterative Deepening") and is written in [assembly language](Assembly "Assembly"). 
+```C++A relatively new program and machine, Bebe has recently acquired a provisional [UCSF rating](https://en.wikipedia.org/wiki/US_Chess_Federation#Ratings) of 1810 based on play in one tournament. Bebe defeated an Expert in that tournament. Tony Scherzer's brainchild examines 10,000 [nodes/sec](Nodes_per_Second "Nodes per Second") or about 2,000,000 in a three minute move. The program is small, requiring only 10k 16 bit words. The program has no book. It uses [iterative deepening](Iterative_Deepening "Iterative Deepening") and is written in [assembly language](Assembly "Assembly"). 
 
 ```
 
@@ -92,28 +91,23 @@ A relatively new program and machine, Bebe has recently acquired a provisional [
 
 from the [WCCC 1989](WCCC_1989 "WCCC 1989") booklet <a id="cite-note-21" href="#cite-ref-21">[21]</a> :
 
-```C++
-Tony Scherzer and Linda Scherzer, SYS-10 Inc., Hoffman Estates, Illinois, Bebe Chess Engine, 40K Nodes/Sec
+```C++Tony Scherzer and Linda Scherzer, SYS-10 Inc., Hoffman Estates, Illinois, Bebe Chess Engine, 40K Nodes/Sec
 
 ```
 
-```C++
-In early 1980 SYS-10 tried new hardware techniques needed for their mini/mainframe processor in co-processors for Bebe's CPU. Each co-processor takes over a specific function from the main CPU.
+```C++In early 1980 SYS-10 tried new hardware techniques needed for their mini/mainframe processor in co-processors for Bebe's CPU. Each co-processor takes over a specific function from the main CPU.
 
 ```
 
-```C++
-The first co-processor does the complete task of [move list generation](Move_Generation "Move Generation"). The actual unit is divided into two processors which function in parallel: one that finds pieces and one that calculate and stores moves. This parallelism provides results more than 25 times faster than software.
+```C++The first co-processor does the complete task of [move list generation](Move_Generation "Move Generation"). The actual unit is divided into two processors which function in parallel: one that finds pieces and one that calculate and stores moves. This parallelism provides results more than 25 times faster than software.
 
 ```
 
-```C++
-A second co-processor performs the [position scoring](Evaluation "Evaluation") function. The scorer "looks at" the output of the move generator and uses the moves to calculate values for piece position [mobility](Mobility "Mobility") and co-operation. The scorer functions in parallel with the move generator.
+```C++A second co-processor performs the [position scoring](Evaluation "Evaluation") function. The scorer "looks at" the output of the move generator and uses the moves to calculate values for piece position [mobility](Mobility "Mobility") and co-operation. The scorer functions in parallel with the move generator.
 
 ```
 
-```C++
-Bebe operates at four distinct levels:
+```C++Bebe operates at four distinct levels:
 
 ```
 

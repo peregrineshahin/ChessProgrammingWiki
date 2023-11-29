@@ -19,7 +19,6 @@ Beside the instructions explained in more detail below, there is MULX, Unsigned 
 Zero High Bits Starting with Specified Bit Position.
 
 ```C++
-
 dest ::= src & ((1 << index)-1);
 
 unsigned __int64 _bzhi_u64(unsigned __int64 src, unsigned __int32 index);
@@ -33,7 +32,6 @@ Parallel Bits Deposit. May be used to map [first rank attacks](First_Rank_Attack
 ### Intrinsic Prototype
 
 ```C++
-
 unsigned __int64 pdep_u64(unsigned __int64 src, unsigned __int64 mask);
 
 ```
@@ -41,7 +39,6 @@ unsigned __int64 pdep_u64(unsigned __int64 src, unsigned __int64 mask);
 ### Sample
 
 ```C++
-
 SRC1   ┌───┬───┬───┬───┬───┐    ┌───┬───┬───┬───┬───┬───┬───┬───┐
        │S63│S62│S61│S60│S59│....│ S7│ S6│ S5│ S4│ S3│ S2│ S1│ S0│ 
        └───┴───┴───┴───┴───┘    └───┴───┴───┴───┴───┴───┴───┴───┘
@@ -61,7 +58,6 @@ DEST   ┌───┬───┬───┬───┬───┐    ┌─
 in [C](C "C") <a id="cite-note-9" href="#cite-ref-9">[9]</a>:
 
 ```C++
-
 U64 _pdep_u64(U64 val, U64 mask) {
   U64 res = 0;
   for (U64 bb = 1; mask; bb += bb) {
@@ -81,7 +77,6 @@ Parallel Bits Extract. Great to get the [inner six bit](First_Rank_Attacks#TheOu
 ### Intrinsic Prototype
 
 ```C++
-
 unsigned __int64 _pext_u64(unsigned __int64 src, unsigned __int64 mask);
 
 ```
@@ -89,7 +84,6 @@ unsigned __int64 _pext_u64(unsigned __int64 src, unsigned __int64 mask);
 ### Sample
 
 ```C++
-
 SRC1   ┌───┬───┬───┬───┬───┐    ┌───┬───┬───┬───┬───┬───┬───┬───┐
        │S63│S62│S61│S60│S59│....│ S7│ S6│ S5│ S4│ S3│ S2│ S1│ S0│ 
        └───┴───┴───┴───┴───┘    └───┴───┴───┴───┴───┴───┴───┴───┘
@@ -109,7 +103,6 @@ DEST   ┌───┬───┬───┬───┬───┐    ┌─
 in [C](C "C") <a id="cite-note-10" href="#cite-ref-10">[10]</a>, quite similar to [PDEP](#pdep) in traversing the mask, and only two expressions, "mask & -mask" and "bb" swapped:
 
 ```C++
-
 U64 _pext_u64(U64 val, U64 mask) {
   U64 res = 0;
   for (U64 bb = 1; mask; bb += bb) {
@@ -129,7 +122,6 @@ U64 _pext_u64(U64 val, U64 mask) {
 Fancy **PEXT Bitboards** as replacement for [Fancy Magic Bitboards](Magic_Bitboards#Fancy "Magic Bitboards"). The relevant up to four ray occupancies are mapped to a dense index range by using the [PEXT](#pext) instruction:
 
 ```C++
-
 U64 arrAttacks  [...]; // ~840 KByte all rook and bishop attacks
 U64 arrRookMask  [64]; // 10..12 relevant occupancy bits per rook square
 U64 arrBishopMask[64]; //  5.. 9 relevant occupancy bits per bishop square
@@ -221,7 +213,6 @@ with bit size of [population count](Population_Count "Population Count") of the 
 The pseudo code below omits further aspects of a chess position, such as side to move, castling ability, en passant target square and halfmove clock.
 
 ```C++
-
 BitStream compress(const U64 * pieceBB, ...) {
   BitStream stream;
   U64 rocc = pieceBB[nWhite] | pieceBB[nBlack];

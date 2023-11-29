@@ -18,26 +18,22 @@ Since 64-bit [Windows](Windows "Windows") applications merely use SSE for floati
 
 
 
-```C++
-6.1 Can floating point registers be used in 64-bit Windows?
+```C++6.1 Can floating point registers be used in 64-bit Windows?
 
 ```
 
 
-```C++
-There has been widespread confusion about whether 64-bit Windows allows the use of the floating point registers ST(0)-ST(7) and the MM0 - MM7 registers that are aliased upon these. One early technical document found at Microsoft's website says x87/MMX registers are unavailable to Native Windows64 applications" (Rich Brunner: Technical Details Of Microsoft® Windows® For The AMD64 Platform, Dec. 2003). An AMD document says: "64-bit Microsoft Windows does not strongly support MMX and 3Dnow! instruction sets in the 64-bit native mode" (Porting and Optimizing Multimedia Codecs for AMD64 architecture on Microsoft® Windows®, July 21, 2004). A document in Microsoft's MSDN says: "A caller must also handle the following issues when calling a callee: [...] Legacy Floating-Point Support: The MMX and floating-point stack registers (MM0-MM7/ST0-ST7) are volatile. That is, these legacy floating-point stack registers do not have their state preserved across context switches" (MSDN: Kernel-Mode Driver Architecture: Windows DDK: Other Calling Convention Process Issues. Preliminary, June 14, 2004; February 18, 2005).
+```C++There has been widespread confusion about whether 64-bit Windows allows the use of the floating point registers ST(0)-ST(7) and the MM0 - MM7 registers that are aliased upon these. One early technical document found at Microsoft's website says x87/MMX registers are unavailable to Native Windows64 applications" (Rich Brunner: Technical Details Of Microsoft® Windows® For The AMD64 Platform, Dec. 2003). An AMD document says: "64-bit Microsoft Windows does not strongly support MMX and 3Dnow! instruction sets in the 64-bit native mode" (Porting and Optimizing Multimedia Codecs for AMD64 architecture on Microsoft® Windows®, July 21, 2004). A document in Microsoft's MSDN says: "A caller must also handle the following issues when calling a callee: [...] Legacy Floating-Point Support: The MMX and floating-point stack registers (MM0-MM7/ST0-ST7) are volatile. That is, these legacy floating-point stack registers do not have their state preserved across context switches" (MSDN: Kernel-Mode Driver Architecture: Windows DDK: Other Calling Convention Process Issues. Preliminary, June 14, 2004; February 18, 2005).
 
 ```
 
 
-```C++
-This description is nonsense because it confuses saving registers across function calls and saving registers across context switches. Some versions of the Microsoft assembler ml64 (e.g. v. 8.00.40310) gives the following message when attempts are made to use floating point registers in 64 bit mode: "error A2222: x87 and MMX instructions disallowed; legacy  FP state not saved in Win64". However, a public discussion forum quotes the following answers from Microsoft engineers regarding this issue: "From: Program Manager in Visual C++ Group, Sent: Thursday, May 26, 2005 10:38 AM. It does preserve the state. It's the DDK page that has stale information, which I've requested it to be changed. Let them know that the OS does preserve state of x87 and MMX registers on context switches." and "From: Software Engineer in Windows Kernel Group, Sent: Thursday, May 26, 2005 11:06 AM. For user threads the state of legacy floating point is preserved at context switch. But it is not true for kernel threads. [Kernel mode](https://en.wikipedia.org/wiki/Kernel_mode#Supervisor_mode) drivers can not use legacy floating point instructions."
+```C++This description is nonsense because it confuses saving registers across function calls and saving registers across context switches. Some versions of the Microsoft assembler ml64 (e.g. v. 8.00.40310) gives the following message when attempts are made to use floating point registers in 64 bit mode: "error A2222: x87 and MMX instructions disallowed; legacy  FP state not saved in Win64". However, a public discussion forum quotes the following answers from Microsoft engineers regarding this issue: "From: Program Manager in Visual C++ Group, Sent: Thursday, May 26, 2005 10:38 AM. It does preserve the state. It's the DDK page that has stale information, which I've requested it to be changed. Let them know that the OS does preserve state of x87 and MMX registers on context switches." and "From: Software Engineer in Windows Kernel Group, Sent: Thursday, May 26, 2005 11:06 AM. For user threads the state of legacy floating point is preserved at context switch. But it is not true for kernel threads. [Kernel mode](https://en.wikipedia.org/wiki/Kernel_mode#Supervisor_mode) drivers can not use legacy floating point instructions."
 
 ```
 
 
-```C++
-The issue has finally been resolved with the long overdue publication of a more detailed ABI for x64 Windows in the form of a document entitled "x64 Software Conventions", well hidden in the bin directory (not the help directory) of some compiler packages. This document says: "The MMX and floating-point stack registers (MM0-MM7/ST0-ST7) are preserved across context switches. There is no explicit calling convention for these registers. The use of these registers is strictly prohibited in kernel mode code." The same text has later appeared at the [Microsoft](Microsoft "Microsoft") website <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
+```C++The issue has finally been resolved with the long overdue publication of a more detailed ABI for x64 Windows in the form of a document entitled "x64 Software Conventions", well hidden in the bin directory (not the help directory) of some compiler packages. This document says: "The MMX and floating-point stack registers (MM0-MM7/ST0-ST7) are preserved across context switches. There is no explicit calling convention for these registers. The use of these registers is strictly prohibited in kernel mode code." The same text has later appeared at the [Microsoft](Microsoft "Microsoft") website <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
 ```
 
@@ -57,7 +53,6 @@ For instance [East Attacks](SSE2#EastAttacks "SSE2") based on SIMD-wise [Fill by
 
 
 ```C++
-
 __m64 eastAttacks (__m64 occ, __m64 rooks) {
    __m64 tmp;
    occ  = _mm_or_si64 (occ, rooks);  //  make rooks member of occupied
@@ -81,7 +76,6 @@ __m64 eastAttacks (__m64 occ, __m64 rooks) {
 
 
 ```C++
-
 ##include "amd3d.h"
 
 __declspec (naked) unsigned int __stdcall popcount64 (unsigned __int64 v)

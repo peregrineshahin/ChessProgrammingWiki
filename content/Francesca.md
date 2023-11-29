@@ -14,25 +14,21 @@ Descriptions given from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note
 
 ## 1997
 
-```C++
-Francesca follows the trend of programs since the late 1970s. It uses [iterative deepening](Iterative_Deepening "Iterative Deepening") [alpha-beta search](Alpha-Beta "Alpha-Beta") to determine which move to make. The search is [selective](Selectivity "Selectivity") rather than [brute-force](Brute-Force "Brute-Force"). [Null moves](Null_Move_Reductions "Null Move Reductions"), and a home- grown [forward pruning](Pruning "Pruning") mechanism are used to help accelerate the search. In addition, a [hash table](Transposition_Table "Transposition Table") is used to aid [move ordering](Move_Ordering "Move Ordering"), and save searching of subtrees that have already been visited in the search.
+```C++Francesca follows the trend of programs since the late 1970s. It uses [iterative deepening](Iterative_Deepening "Iterative Deepening") [alpha-beta search](Alpha-Beta "Alpha-Beta") to determine which move to make. The search is [selective](Selectivity "Selectivity") rather than [brute-force](Brute-Force "Brute-Force"). [Null moves](Null_Move_Reductions "Null Move Reductions"), and a home- grown [forward pruning](Pruning "Pruning") mechanism are used to help accelerate the search. In addition, a [hash table](Transposition_Table "Transposition Table") is used to aid [move ordering](Move_Ordering "Move Ordering"), and save searching of subtrees that have already been visited in the search.
 
 ```
 
-```C++
-The [evaluation function](Evaluation "Evaluation") is simple, but it knows something about [pawn structure](Pawn_Structure "Pawn Structure"), [king safety](King_Safety "King Safety"), and [piece placement](Piece-Square_Tables "Piece-Square Tables"). There is always a tradeoff between [knowledge](Knowledge "Knowledge") and speed, and Francesca falls into the category of a "fast, dumb" searcher, rather than a "slow, smart" searcher. 
+```C++The [evaluation function](Evaluation "Evaluation") is simple, but it knows something about [pawn structure](Pawn_Structure "Pawn Structure"), [king safety](King_Safety "King Safety"), and [piece placement](Piece-Square_Tables "Piece-Square Tables"). There is always a tradeoff between [knowledge](Knowledge "Knowledge") and speed, and Francesca falls into the category of a "fast, dumb" searcher, rather than a "slow, smart" searcher. 
 
 ```
 
 ## 1999
 
-```C++
-Francesca is an amateur program. It follows the trends of most chess programs since the 1970's and uses many of the state-of-the-art techniques: [aspiration](Aspiration_Windows "Aspiration Windows") alpha-beta, null moves, other forward pruning mechanisms, a large [transposition table](Transposition_Table "Transposition Table"), an [evaluation hash table](Evaluation_Hash_Table "Evaluation Hash Table"), large [opening book](Opening_Book "Opening Book") etc.
+```C++Francesca is an amateur program. It follows the trends of most chess programs since the 1970's and uses many of the state-of-the-art techniques: [aspiration](Aspiration_Windows "Aspiration Windows") alpha-beta, null moves, other forward pruning mechanisms, a large [transposition table](Transposition_Table "Transposition Table"), an [evaluation hash table](Evaluation_Hash_Table "Evaluation Hash Table"), large [opening book](Opening_Book "Opening Book") etc.
 
 ```
 
-```C++
-Prior to 1998, Francesca relied mainly on [piece-square values](Piece-Square_Tables "Piece-Square Tables") and a fast search to play good chess. In 1998, the evalution code was completely rewritten, and all evaluation is now done in the [leaves](Leaf_Node "Leaf Node") of the [search tree](Search_Tree "Search Tree"). This has produced stronger play; although 1999 Francesca is slower in nodes per second than 1997 Francesca, she plays a more interesting and challenging game. 
+```C++Prior to 1998, Francesca relied mainly on [piece-square values](Piece-Square_Tables "Piece-Square Tables") and a fast search to play good chess. In 1998, the evalution code was completely rewritten, and all evaluation is now done in the [leaves](Leaf_Node "Leaf Node") of the [search tree](Search_Tree "Search Tree"). This has produced stronger play; although 1999 Francesca is slower in nodes per second than 1997 Francesca, she plays a more interesting and challenging game. 
 
 ```
 
@@ -40,23 +36,19 @@ Prior to 1998, Francesca relied mainly on [piece-square values](Piece-Square_Tab
 
 From [Tom King's](Tom_King "Tom King") personal website <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
-```C++
-In the Autumn of 1991, I had the chance to try out my creation on a 386SX PC, running at 16Mhz. It seemed so fast compared with the [Amiga](Amiga "Amiga")! Before long I bought myself a 486DX PC, running at 33Mhz, and began developing Francesca in earnest.
+```C++In the Autumn of 1991, I had the chance to try out my creation on a 386SX PC, running at 16Mhz. It seemed so fast compared with the [Amiga](Amiga "Amiga")! Before long I bought myself a 486DX PC, running at 33Mhz, and began developing Francesca in earnest.
 
 ```
 
-```C++
-Little by little, Francesca's playing standard improved. [Null moves](Null_Move_Reductions "Null Move Reductions") added a turbo charger to an otherwise unremarkable chess engine, and evaluation by [piece-value squares](Piece-Square_Tables "Piece-Square Tables") increased the NPS figure and search depth. There were still problems, and after the [WMCCC in 1995](WMCCC_1995 "WMCCC 1995") (Paderborn), I bit the bullet, and added [hash tables](Transposition_Table "Transposition Table"). Improving move order and [history tables](History_Heuristic "History Heuristic"), along with the new hash tables meant that Francesca 1996 was over 10 times quicker at searching through the plies than Francesca 1995. And it showed, Francesca gaining a very respectable 9th place at the [WMCCC 1996](WMCCC_1996 "WMCCC 1996") in Jakarta.
+```C++Little by little, Francesca's playing standard improved. [Null moves](Null_Move_Reductions "Null Move Reductions") added a turbo charger to an otherwise unremarkable chess engine, and evaluation by [piece-value squares](Piece-Square_Tables "Piece-Square Tables") increased the NPS figure and search depth. There were still problems, and after the [WMCCC in 1995](WMCCC_1995 "WMCCC 1995") (Paderborn), I bit the bullet, and added [hash tables](Transposition_Table "Transposition Table"). Improving move order and [history tables](History_Heuristic "History Heuristic"), along with the new hash tables meant that Francesca 1996 was over 10 times quicker at searching through the plies than Francesca 1995. And it showed, Francesca gaining a very respectable 9th place at the [WMCCC 1996](WMCCC_1996 "WMCCC 1996") in Jakarta.
 
 ```
 
-```C++
-Between Jakarta and the [WMCCC 1997](WMCCC_1997 "WMCCC 1997") in Paris, there were few changes - some evaluation changes, some bug fixes, and some optimizations. And some bugs, too. Francesca struggled against some opponents she really should have beaten.
+```C++Between Jakarta and the [WMCCC 1997](WMCCC_1997 "WMCCC 1997") in Paris, there were few changes - some evaluation changes, some bug fixes, and some optimizations. And some bugs, too. Francesca struggled against some opponents she really should have beaten.
 
 ```
 
-```C++
-The problems at Paris made me realize that a change in direction was required. I rewrote the entire evaluation function, changing Francesca from a simple piece-value squares searcher to a full leaf evaluator. The benefits were immediate, obvious, and immense. Suddenly, Francesca was playing more interesting, challenging chess. I had the opportunity to enter her into the [1998 Spanish computer chess championship](SCCC_1998 "SCCC 1998"), and she came within an ace of winning the whole competition! 
+```C++The problems at Paris made me realize that a change in direction was required. I rewrote the entire evaluation function, changing Francesca from a simple piece-value squares searcher to a full leaf evaluator. The benefits were immediate, obvious, and immense. Suddenly, Francesca was playing more interesting, challenging chess. I had the opportunity to enter her into the [1998 Spanish computer chess championship](SCCC_1998 "SCCC 1998"), and she came within an ace of winning the whole competition! 
 
 ```
 

@@ -13,7 +13,6 @@ an experimental [open source chess engine](Category:Open_Source "Category:Open S
 Alice is an object oriented [Bitboard](Bitboards "Bitboards") engine, applying [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards") to determine [sliding piece attacks](Sliding_Piece_Attacks "Sliding Piece Attacks"). Size of of the encapsulated Bitboard class is 8 by unsigned long long number <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 
 ```C++
-
 namespace Alice
 {
   class BitboardIterator;

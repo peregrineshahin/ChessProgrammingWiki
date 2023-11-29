@@ -20,8 +20,7 @@ PVS was introduced by [Tony Marsland](Tony_Marsland "Tony Marsland") and [Murray
 
 
 
-```C++
-An interesting implementation of the alpha-beta algorithm treats the first variation in a special way. The method was originally called **Palphabeta** [FISH80] and then renamed **Calphabeta** [FISH81], but will be referred to here as principal variation search or PVS for short. 
+```C++An interesting implementation of the alpha-beta algorithm treats the first variation in a special way. The method was originally called **Palphabeta** [FISH80] and then renamed **Calphabeta** [FISH81], but will be referred to here as principal variation search or PVS for short. 
 
 ```
 
@@ -30,8 +29,7 @@ Despite the publications, PVS was already used in 1978, as mentioned by [Robert 
 
 
 
-```C++
-I first used PVS in 1978, quite by accident. Murray Campbell and I were discussing this idea at the [ACM event](ACM_1978 "ACM 1978") in Washington, DC. We were running on a Univac, and I suggested that we dial up my local Vax box and make the changes and see how it works. It looked pretty good, with the only odd thing being fail highs on very minor score changes, which was OK. The next round, our Univac developed a memory problem and I switched back to the vax and had a few exciting moments when we came out with a Nxf7!! sort of output, only to see the score rise by 2 or 3 millipawns. Even in 1978 we just searched the first move with normal alpha/beta and then went into the null-window search, just as the code exactly does in [Crafty](Crafty "Crafty")... 
+```C++I first used PVS in 1978, quite by accident. Murray Campbell and I were discussing this idea at the [ACM event](ACM_1978 "ACM 1978") in Washington, DC. We were running on a Univac, and I suggested that we dial up my local Vax box and make the changes and see how it works. It looked pretty good, with the only odd thing being fail highs on very minor score changes, which was OK. The next round, our Univac developed a memory problem and I switched back to the vax and had a few exciting moments when we came out with a Nxf7!! sort of output, only to see the score rise by 2 or 3 millipawns. Even in 1978 we just searched the first move with normal alpha/beta and then went into the null-window search, just as the code exactly does in [Crafty](Crafty "Crafty")... 
 
 ```
 
@@ -40,8 +38,7 @@ I first used PVS in 1978, quite by accident. Murray Campbell and I were discussi
 
 
 
-```C++
-I was thinking about what goes wrong if you start the entire search with a too-narrow window. If the beta value is too low, then one of the children of the [root](Root "Root") might [fail high](Fail-High "Fail-High"), and you wouldn't know the proper windows to give to the subsequent children of the root. Wait a minute... what if there aren't any subsequent children, i.e. what if the child that failed high was the last child of the root? Then you don't care about the subsequent windows, and in fact you've just proved that the last child is the best move. So when you're on the last child of the root, go all the way by bringing beta down to alpha+1. I was trying to get this published starting in Aug. 1979, and it finally appeared as "An optimization of alpha-beta search" in [SIGART](ACM#SIG "ACM") bulletin Issue 72 (July 1980) <a id="cite-note-11" href="#cite-ref-11">[11]</a> . After that came various generalizations where the null window is used generally in the search, also the [fail-soft](Fail-Soft "Fail-Soft") algorithm. I was somewhat disappointed in the speedup (or lack thereof) that I measured on [checkers](Checkers "Checkers") lookahead trees. However when I went to work at [Bell Labs](Bell_Laboratories "Bell Laboratories") in 1981, [Ken Thompson](Ken_Thompson "Ken Thompson") told me that he had read the SIGART paper, and had sped up [Belle](Belle "Belle") by 1.5x with [null windows](Null_Window "Null Window"). 
+```C++I was thinking about what goes wrong if you start the entire search with a too-narrow window. If the beta value is too low, then one of the children of the [root](Root "Root") might [fail high](Fail-High "Fail-High"), and you wouldn't know the proper windows to give to the subsequent children of the root. Wait a minute... what if there aren't any subsequent children, i.e. what if the child that failed high was the last child of the root? Then you don't care about the subsequent windows, and in fact you've just proved that the last child is the best move. So when you're on the last child of the root, go all the way by bringing beta down to alpha+1. I was trying to get this published starting in Aug. 1979, and it finally appeared as "An optimization of alpha-beta search" in [SIGART](ACM#SIG "ACM") bulletin Issue 72 (July 1980) <a id="cite-note-11" href="#cite-ref-11">[11]</a> . After that came various generalizations where the null window is used generally in the search, also the [fail-soft](Fail-Soft "Fail-Soft") algorithm. I was somewhat disappointed in the speedup (or lack thereof) that I measured on [checkers](Checkers "Checkers") lookahead trees. However when I went to work at [Bell Labs](Bell_Laboratories "Bell Laboratories") in 1981, [Ken Thompson](Ken_Thompson "Ken Thompson") told me that he had read the SIGART paper, and had sped up [Belle](Belle "Belle") by 1.5x with [null windows](Null_Window "Null Window"). 
 
 ```
 
@@ -50,8 +47,7 @@ and subsequently some details about [Belle's](Belle "Belle") PVS-implementation 
 
 
 
-```C++
-The PVS algorithm in Belle did not do a second search at the root until a **second** fail high occurred. I don’t know whether or not this idea appears in the literature or not. I would hope it does, but I haven’t been following the literature for about 25 years. In other words, Belle is cleverly going for broke: it knows it’s got a high failure, which is the best move so far, but as long as it doesn’t get a second high failure, the first high failure remains the best move, and it can still avoid doing any more full searches. 
+```C++The PVS algorithm in Belle did not do a second search at the root until a **second** fail high occurred. I don’t know whether or not this idea appears in the literature or not. I would hope it does, but I haven’t been following the literature for about 25 years. In other words, Belle is cleverly going for broke: it knows it’s got a high failure, which is the best move so far, but as long as it doesn’t get a second high failure, the first high failure remains the best move, and it can still avoid doing any more full searches. 
 
 ```
 
@@ -73,8 +69,7 @@ Reinefeld's original implementation introduces one additional variable on the [s
 
 
 
-```C++
-The difference is how they handle re-searches: PVS passes alpha/beta while NegaScout passes the value returned by the null window search instead of alpha. But then you can get a fail-low on the research due to search anonomalies. If that happens NegaScout returns the value from the first search. That means you will have a crippled PV. Then there is a refinement Reinefeld suggests which is to ommit the re-search at the last two plies (depth > 1) - but that won't work in a real program because of search extensions. NegaScout is slightly an ivory tower variant of PVS (IMHO). 
+```C++The difference is how they handle re-searches: PVS passes alpha/beta while NegaScout passes the value returned by the null window search instead of alpha. But then you can get a fail-low on the research due to search anonomalies. If that happens NegaScout returns the value from the first search. That means you will have a crippled PV. Then there is a refinement Reinefeld suggests which is to ommit the re-search at the last two plies (depth > 1) - but that won't work in a real program because of search extensions. NegaScout is slightly an ivory tower variant of PVS (IMHO). 
 
 ```
 
@@ -84,7 +79,6 @@ The difference is how they handle re-searches: PVS passes alpha/beta while NegaS
 
 
 ```C++
-
 value = PVS(-(alpha+1),-alpha)
 if(value > alpha && value < beta) {
   value = PVS(-beta,-alpha);
@@ -98,7 +92,6 @@ if(value > alpha && value < beta) {
 
 
 ```C++
-
 value = NegaScout(-(alpha+1),-alpha)
 if(value > alpha && value < beta && depth > 1) {
   value2 = NegaScout(-beta,-value)
@@ -115,8 +108,7 @@ Quote by [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") from [CCC](
 
 
 
-```C++
-Search-wise PVS and Negascout are identical (except the deep-cutoffs on the PV you mention), they are just formulated differently. In Negascout the same routine is used for searching both the PV and the rest of the tree, whereas PVS is typically formulated as two routines: PVS (for searching the PV) and NWS (for the null-window searches). Negascout and PVS were developed about the same time in the early '80 (82-83), but independently. I guess, that's part of the reason we know them by different names. Personally, I've always found the PVS/NWS formulation the most intuative, it's easier to understand what's really going on.
+```C++Search-wise PVS and Negascout are identical (except the deep-cutoffs on the PV you mention), they are just formulated differently. In Negascout the same routine is used for searching both the PV and the rest of the tree, whereas PVS is typically formulated as two routines: PVS (for searching the PV) and NWS (for the null-window searches). Negascout and PVS were developed about the same time in the early '80 (82-83), but independently. I guess, that's part of the reason we know them by different names. Personally, I've always found the PVS/NWS formulation the most intuative, it's easier to understand what's really going on.
 
 ```
 
@@ -128,14 +120,12 @@ Quote by [Dennis Breuker](Dennis_Breuker "Dennis Breuker") from [CCC](CCC "CCC")
 
 
 
-```C++
-Q: What's the different between negascout and PVS ? They look like the same algorithm to me.
+```C++Q: What's the different between negascout and PVS ? They look like the same algorithm to me.
 
 ```
 
 
-```C++
-They are identical, see note 15 on page 22 of my thesis <a id="cite-note-19" href="#cite-ref-19">[19]</a> :We note that the version of principal-variation search as mentioned by Marsland (1986) <a id="cite-note-20" href="#cite-ref-20">[20]</a> is identical to the version of negascout as mentioned by Reinefeld (1989) <a id="cite-note-21" href="#cite-ref-21">[21]</a> . We use the 1989 reference instead of 1983 <a id="cite-note-22" href="#cite-ref-22">[22]</a> , which was the first source of this algorithm, since the algorithm described in Reinefeld (1983) contains minor errors.Dennis 
+```C++They are identical, see note 15 on page 22 of my thesis <a id="cite-note-19" href="#cite-ref-19">[19]</a> :We note that the version of principal-variation search as mentioned by Marsland (1986) <a id="cite-note-20" href="#cite-ref-20">[20]</a> is identical to the version of negascout as mentioned by Reinefeld (1989) <a id="cite-note-21" href="#cite-ref-21">[21]</a> . We use the 1989 reference instead of 1983 <a id="cite-note-22" href="#cite-ref-22">[22]</a> , which was the first source of this algorithm, since the algorithm described in Reinefeld (1983) contains minor errors.Dennis 
 
 ```
 
@@ -148,7 +138,6 @@ This demonstrates PVS in a [fail-hard](Fail-Hard "Fail-Hard") framework, where a
 
 
 ```C++
-
 int pvSearch( int alpha, int beta, int depth ) {
    if( depth == 0 ) return quiesce( alpha, beta );
    bool bSearchPv = true;
@@ -190,7 +179,6 @@ Often, programmers split PVS inside a pure [PV-node](Node_Types#pv-node "Node Ty
 
 
 ```C++
-
 int pvSearch( int alpha, int beta, int depth ) {
    if( depth == 0 ) return quiesce(alpha, beta);
    bool bSearchPv = true;
@@ -254,7 +242,6 @@ A state of the art [fail-soft](Fail-Soft "Fail-Soft") PVS implementation, called
 
 
 ```C++
-
 Call from root:
    rootscore = PVS(-infinite, infinite, depthleft);
 

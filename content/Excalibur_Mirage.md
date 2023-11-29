@@ -15,8 +15,7 @@ The development was supported by chess consultant and [opening book author](Cate
 
 Quote by [Ron Nelson](Ron_Nelson "Ron Nelson") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
-```C++
-But the Pop-Up Tent, Inc mechanical “engineer”, screwed up on the Mirage housing design and the main motor mounting was off axis and caused high [failure rates](https://en.wikipedia.org/wiki/Failure_rate). 
+```C++But the Pop-Up Tent, Inc mechanical “engineer”, screwed up on the Mirage housing design and the main motor mounting was off axis and caused high [failure rates](https://en.wikipedia.org/wiki/Failure_rate). 
 
 ```
 
@@ -24,8 +23,7 @@ But the Pop-Up Tent, Inc mechanical “engineer”, screwed up on the Mirage hou
 
 Quote by [Ron Nelson](Ron_Nelson "Ron Nelson") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
-```C++
-In 1981 at the [California ACM Computer Chess Tournament](ACM_1981 "ACM 1981"), [Kathy](Kathe_Spracklen "Kathe Spracklen") introduced me to their friend [Ken Thompson](Ken_Thompson "Ken Thompson"). I asked him about his [Belle](Belle "Belle") hardware chess machine, and he was quick to explain how the Hardware [Attack Bitmaps](Attack_and_Defend_Maps "Attack and Defend Maps") worked. I realized that attack bitmap approach was now in a [Chess Challenger](Chess_Challenger "Chess Challenger"), but in software. I used the Belle Attack Map generation on my [H8](H8 "H8") program.
+```C++In 1981 at the [California ACM Computer Chess Tournament](ACM_1981 "ACM 1981"), [Kathy](Kathe_Spracklen "Kathe Spracklen") introduced me to their friend [Ken Thompson](Ken_Thompson "Ken Thompson"). I asked him about his [Belle](Belle "Belle") hardware chess machine, and he was quick to explain how the Hardware [Attack Bitmaps](Attack_and_Defend_Maps "Attack and Defend Maps") worked. I realized that attack bitmap approach was now in a [Chess Challenger](Chess_Challenger "Chess Challenger"), but in software. I used the Belle Attack Map generation on my [H8](H8 "H8") program.
 
 ```
 
@@ -33,13 +31,11 @@ In 1981 at the [California ACM Computer Chess Tournament](ACM_1981 "ACM 1981"), 
 
 Further Quote by [Ron Nelson](Ron_Nelson "Ron Nelson") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
-```C++
-But it was my watching the [games](Chess_Game "Chess Game") and the [PRVs](Principal_Variation "Principal Variation") like you do, and we did at [ACM tournaments](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") that started me asking questions of [Dan](Dan_Spracklen "Dan Spracklen"). Why can we not [generate](Move_Generation "Move Generation") [checks](Check "Check") in the [quiescent search](Quiescence_Search "Quiescence Search")? He said because it would [blow up](Search_Explosion "Search Explosion") the [search](Search "Search") and slow down. Ok, I said, but what if we only generated checks that didn't occur as often, like a knight check that [forked](Double_Attack "Double Attack") a major piece. He said, ummm,,, that would not take much and the search would not blow up.  So that is how we slowly started developing a [tactical](Tactics "Tactics") quiescent search that had all of the things a strong chess player explores when thinking of a tactical position. But I would see that the PRV was missing these obvious strong player "tricks" and have Dan look to see if he could add them. Because of the attack map, all this type of information was easily divined. At the [Micro Tournament](WMCCC_1988 "WMCCC 1988") in Spain, it was music to my ears to have the Chess Master commentator, perhaps [Mike Valvo](Michael_Valvo "Michael Valvo"), say The [Fidelity](Fidelity "Fidelity") unit was playing moves it had never before been capable of playing. Just like the Masters we played to get the certified rating, who were amazed.
+```C++But it was my watching the [games](Chess_Game "Chess Game") and the [PRVs](Principal_Variation "Principal Variation") like you do, and we did at [ACM tournaments](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship") that started me asking questions of [Dan](Dan_Spracklen "Dan Spracklen"). Why can we not [generate](Move_Generation "Move Generation") [checks](Check "Check") in the [quiescent search](Quiescence_Search "Quiescence Search")? He said because it would [blow up](Search_Explosion "Search Explosion") the [search](Search "Search") and slow down. Ok, I said, but what if we only generated checks that didn't occur as often, like a knight check that [forked](Double_Attack "Double Attack") a major piece. He said, ummm,,, that would not take much and the search would not blow up.  So that is how we slowly started developing a [tactical](Tactics "Tactics") quiescent search that had all of the things a strong chess player explores when thinking of a tactical position. But I would see that the PRV was missing these obvious strong player "tricks" and have Dan look to see if he could add them. Because of the attack map, all this type of information was easily divined. At the [Micro Tournament](WMCCC_1988 "WMCCC 1988") in Spain, it was music to my ears to have the Chess Master commentator, perhaps [Mike Valvo](Michael_Valvo "Michael Valvo"), say The [Fidelity](Fidelity "Fidelity") unit was playing moves it had never before been capable of playing. Just like the Masters we played to get the certified rating, who were amazed.
 
 ```
 
-```C++
-I used this same type of tactical threat generation on the H8 machine, since I had attack maps with the needed information. 
+```C++I used this same type of tactical threat generation on the H8 machine, since I had attack maps with the needed information. 
 
 ```
 

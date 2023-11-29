@@ -17,7 +17,6 @@ Beginning chess players learn to do this starting with the [value](Point_Value "
 The first thing to consider when writing an evaluation function is how to score a move in [Minimax](Minimax "Minimax") or the more common [NegaMax](Negamax "Negamax") framework. While Minimax usually associates the white side with the max-player and black with the min-player and always evaluates from the white point of view, NegaMax requires a symmetric evaluation in relation to the [side to move](Side_to_move "Side to move"). We can see that one must not score the move per se – but the result of the move (i.e. a positional evaluation of the board as a result of the move). Such a symmetric evaluation function was first formulated by [Claude Shannon](Claude_Shannon "Claude Shannon") in 1949 <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
 
 ```C++
-
 f(p) = 200(K-K')
        + 9(Q-Q')
        + 5(R-R')
@@ -39,7 +38,6 @@ Here, we can see that the [score](Score "Score") is returned as a result of subt
 In order for [NegaMax](Negamax "Negamax") to work, it is important to return the score relative to the side being evaluated. For example, consider a simple evaluation, which considers only [material](Material "Material") and [mobility](Mobility "Mobility"):
 
 ```C++
-
 materialScore = kingWt  * (wK-bK)
               + queenWt * (wQ-bQ)
               + rookWt  * (wR-bR)
@@ -54,7 +52,6 @@ mobilityScore = mobilityWt * (wMobility-bMobility)
 *return the score relative to the [side to move](Side_to_move "Side to move") (who2Move = +1 for white, -1 for black):*
 
 ```C++
-
 Eval  = (materialScore + mobilityScore) * who2Move
 
 ```

@@ -14,8 +14,7 @@ a score unit which corresponds approximately to **one hundredth** of a [pawn uni
 
 [Robert Hyatt](Robert_Hyatt "Robert Hyatt") on score grain in [Crafty](Crafty "Crafty") <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
-```C++
-Having done all three, my take on the issue is this:
+```C++Having done all three, my take on the issue is this:
 
 ```
 
@@ -27,8 +26,7 @@ Having done all three, my take on the issue is this:
 
 [Aske Plaat's](Aske_Plaat "Aske Plaat") implementation tip on [MTD(f)](</MTD(f)> "MTD(f)") <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```C++
-The coarser the grain of eval, the less passes [MTD(f)](MTD(f) "MTD(f)") has to make to converge to the minimax value. Some programs have a fine grained evaluation function, where positional knowledge can be worth as little as one hundredth of a pawn. Big score swings can become inefficient for these programs. It may help to dynamically increase the step size: instead of using the previous bound, one can, for example, add an extra few points in the search direction (for failing high, or searching upward, adding the bonus, and for failing low, or searching downward, subtracting the bonus) every two passes or so. ([Don Dailey](Don_Dailey "Don Dailey") found that a scheme like this works well in a version of [Cilkchess](Cilkchess "Cilkchess").) At the end, if you overshoot the minimax value, you have to make a small search in the opposite direction, using the previous search bound without an extra bonus, to make the final convergence. Also, it can be quite instructive to experiment with different evaluation function grain sizes. Sometimes coarse grain functions work better than fine grain, both for [NegaScout](NegaScout "NegaScout") and MTD(f). 
+```C++The coarser the grain of eval, the less passes [MTD(f)](MTD(f) "MTD(f)") has to make to converge to the minimax value. Some programs have a fine grained evaluation function, where positional knowledge can be worth as little as one hundredth of a pawn. Big score swings can become inefficient for these programs. It may help to dynamically increase the step size: instead of using the previous bound, one can, for example, add an extra few points in the search direction (for failing high, or searching upward, adding the bonus, and for failing low, or searching downward, subtracting the bonus) every two passes or so. ([Don Dailey](Don_Dailey "Don Dailey") found that a scheme like this works well in a version of [Cilkchess](Cilkchess "Cilkchess").) At the end, if you overshoot the minimax value, you have to make a small search in the opposite direction, using the previous search bound without an extra bonus, to make the final convergence. Also, it can be quite instructive to experiment with different evaluation function grain sizes. Sometimes coarse grain functions work better than fine grain, both for [NegaScout](NegaScout "NegaScout") and MTD(f). 
 
 ```
 

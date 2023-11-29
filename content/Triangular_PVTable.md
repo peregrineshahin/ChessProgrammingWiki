@@ -24,8 +24,7 @@ The total size of the triangular array in moves can be calculated by the [Triang
 
 
 
-```C++
-size = 1+2+3+ ... +(N-1)+N = ½ N(N+1)
+```C++size = 1+2+3+ ... +(N-1)+N = ½ N(N+1)
 
 ```
 
@@ -37,8 +36,7 @@ To calculate the index or offset of a PV into a one-dimensional move array by pl
 
 
 
-```C++
-index(0) = 0 
+```C++index(0) = 0 
 index(ply+1) = index(ply) + N - ply 
 
 ```
@@ -48,8 +46,7 @@ or variable multiplication from scratch:
 
 
 
-```C++
-index(ply) = ½ ply (2N + 1 - ply )
+```C++index(ply) = ½ ply (2N + 1 - ply )
 
 ```
 
@@ -66,7 +63,6 @@ A didactic implementation of the Triangular PV-Table inside an [Alpha-Beta](Alph
 
 
 ```C++
-
 MoveType pvArray[(N*N + N)/2];
 
 void movcpy (MoveType* pTarget, const MoveType* pSource, int n) {
@@ -124,7 +120,6 @@ As demonstrated by [Daniel Shawul](Daniel_Shawul "Daniel Shawul") with [TSCP](TS
 
 
 ```C++
-
 MoveType pvArray[N];
 
 ```

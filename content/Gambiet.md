@@ -15,7 +15,6 @@ Gambiet was base of [Microtrend Experimental](Microtrend_Experimental "Microtren
 Gambiet is a [Shannon Type-A Stategy](Type_A_Strategy "Type A Strategy") program, performing [alpha-beta](Alpha-Beta "Alpha-Beta") with a classical [mailbox](Mailbox "Mailbox") board representation and following [byte-wise](Byte "Byte") [piece coding](Pieces#PieceCoding "Pieces") optimized for efficiency <a id="cite-note-8" href="#cite-ref-8">[8]</a> :
 
 ```C++
-
         7654 3210
 king    x110 1111
 queen   x000 1001
@@ -31,7 +30,6 @@ empty   0000 0000
 [MSB](https://en.wikipedia.org/wiki/Most_significant_bit), [bit](Bit "Bit") 7 is the piece color, x = 0 for white and x = 1 for black pieces. While [LSB](https://en.wikipedia.org/wiki/Least_significant_bit), bit 0, acts as piece indicator - set for any piece, the lower [nibble](Nibble "Nibble") already contains their [point value](Point_Value "Point Value") equivalence in a {1,3,3,5,9,15} solution, luckily all values odd. The bits 1 to 4 (or even 0 to 4) may act as table index for [move generation](Move_Generation "Move Generation") purpose, similar, bit 4 and 5 enumerate to the four possibly useful states of {[sliding piece](Sliding_Pieces "Sliding Pieces"), [pawn](Pawn "Pawn"), [king](King "King"), [knight](Knight "Knight")}. However, the leading code saving trick in conjunction with bit 6 after loading the code into the [accumulator](https://en.wikipedia.org/wiki/Accumulator_%28computing%29) and shifting it left one (SLA) , is to use disjoint [Z80](Z80 "Z80") [processor flags](https://en.wikipedia.org/wiki/Flag_%28computing%29) <a id="cite-note-9" href="#cite-ref-9">[9]</a> with four [conditional jumps](https://en.wikipedia.org/wiki/Conditional_jump) in the right order for up to five cases to distinguish. [Zero flag](https://en.wikipedia.org/wiki/Zero_flag) is set for empty squares, [parity](https://en.wikipedia.org/wiki/Parity_flag) (odd) for squares off the board, [sign flag](https://en.wikipedia.org/wiki/Sign_flag) in case of a king, [carry](https://en.wikipedia.org/wiki/Carry_flag) for black pieces and white pieces otherwise.
 
 ```C++
-
 LDA  A,(SQUARE)    ; get piece code to Accu (A)
 SLA  A             ; A := A << 1
 JP   Z, EMPTY      ; if ( A == 0 ) empty square 
@@ -46,8 +44,7 @@ JP   WHITE         ; else occupied by white piece
 
 [Wim Rens](Wim_Rens "Wim Rens") in his June 1981 Databus article *Grondslagen van computerschaak* on how it began with [Microtrend](Microtrend "Microtrend") and Gambiet <a id="cite-note-10" href="#cite-ref-10">[10]</a>:
 
-```C++
-The second milestone of Gambiet's triumph <a id="cite-note-11" href="#cite-ref-11">[11]</a> was achieved under the watchful eye of the firm Microtrend. At home of one of their directors were two [TSR-80's](TRS-80 "TRS-80"), one running [Sargon II](Sargon "Sargon"), the other Gabmol <a id="cite-note-12" href="#cite-ref-12">[12]</a>. Microtrend was looking for a chess game in their collection, and end of June a decision was made and a contract placed. The result was impressive: two equally fast Tandy computers and Gambiet had no trouble with the once-famous Sargon. 
+```C++The second milestone of Gambiet's triumph <a id="cite-note-11" href="#cite-ref-11">[11]</a> was achieved under the watchful eye of the firm Microtrend. At home of one of their directors were two [TSR-80's](TRS-80 "TRS-80"), one running [Sargon II](Sargon "Sargon"), the other Gabmol <a id="cite-note-12" href="#cite-ref-12">[12]</a>. Microtrend was looking for a chess game in their collection, and end of June a decision was made and a contract placed. The result was impressive: two equally fast Tandy computers and Gambiet had no trouble with the once-famous Sargon. 
 
 ```
 

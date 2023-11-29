@@ -44,20 +44,17 @@ In games like chess or [Othello](Othello "Othello"), due to their [tactical](Tac
 
 
 
-```C++
-With fixed learning rates (aka step size) we found [piece values](Point_Value "Point Value") settle to consistent relative ordering in around 500 self-play games. The ordering remains in place despite considerable erratic movements. But [piece-square values](Piece-Square_Tables "Piece-Square Tables") can take a lot longer - more like 5000.
+```C++With fixed learning rates (aka step size) we found [piece values](Point_Value "Point Value") settle to consistent relative ordering in around 500 self-play games. The ordering remains in place despite considerable erratic movements. But [piece-square values](Piece-Square_Tables "Piece-Square Tables") can take a lot longer - more like 5000.
 
 ```
 
 
-```C++
-The learning rate is critical - it has to be as large as one dares for fast learning, but low for stable values.  We've been experimenting with methods for automatically adjusting the learning rate. (Higher rates if the adjustments go in the same direction, lower if they keep changing direction.)
+```C++The learning rate is critical - it has to be as large as one dares for fast learning, but low for stable values.  We've been experimenting with methods for automatically adjusting the learning rate. (Higher rates if the adjustments go in the same direction, lower if they keep changing direction.)
 
 ```
 
 
-```C++
-The other problem is learning weights for terms which only occur rarely. Then the learning process doesn't see enough examples to settle on good weights in a reasonable time. I suspect this is the main limitation of the method, but it may be possible to devise ways to generate extra games which exercise the rare conditions. 
+```C++The other problem is learning weights for terms which only occur rarely. Then the learning process doesn't see enough examples to settle on good weights in a reasonable time. I suspect this is the main limitation of the method, but it may be possible to devise ways to generate extra games which exercise the rare conditions. 
 
 ```
 
@@ -69,8 +66,7 @@ The other problem is learning weights for terms which only occur rarely. Then th
 
 
 
-```C++
-I have played with it. I am convinced it has possibilities, but one problem I encountered was the cause-effect problem. For say I am a piece down. After I lost the game TD will conclude that the winner had better [mobility](Mobility "Mobility") and will tune it up. However worse mobility was not the **cause** of the loss, it was the **effect** of simply being a piece down. In my case it kept tuning mobility up and up until ridiculous values. 
+```C++I have played with it. I am convinced it has possibilities, but one problem I encountered was the cause-effect problem. For say I am a piece down. After I lost the game TD will conclude that the winner had better [mobility](Mobility "Mobility") and will tune it up. However worse mobility was not the **cause** of the loss, it was the **effect** of simply being a piece down. In my case it kept tuning mobility up and up until ridiculous values. 
 
 ```
 
@@ -82,8 +78,7 @@ I have played with it. I am convinced it has possibilities, but one problem I en
 
 
 
-```C++
-Another approach that may be more in line with what you want is called "temporal difference learning", and it is based on feedback from each move to the move that precedes it. For example if you play move 35 and the program thinks the position is equal, but then on move 36 you find that you are winning a pawn, it indicates that the evaluation of move 35 is in error, the position is better than the program thought it was. Little tiny incremental adjustments are made to the evaluation function so that it is ever so slightly biased in favor of being slightly more positive in this case, or slightly more negative in the case where you find your score is dropping. This is done recursively back through the moves of the game so that winning the game gives some credit to all the positions of the game. Look on the web and read up on the "credit assignment problem" and temporal difference learning. It's probably ideal for what you are looking for. It can be done at the end of the game one time and scores then updated. If you are not using [floating point](Float "Float") evaluation you may have to figure out how to modify this to be workable. 
+```C++Another approach that may be more in line with what you want is called "temporal difference learning", and it is based on feedback from each move to the move that precedes it. For example if you play move 35 and the program thinks the position is equal, but then on move 36 you find that you are winning a pawn, it indicates that the evaluation of move 35 is in error, the position is better than the program thought it was. Little tiny incremental adjustments are made to the evaluation function so that it is ever so slightly biased in favor of being slightly more positive in this case, or slightly more negative in the case where you find your score is dropping. This is done recursively back through the moves of the game so that winning the game gives some credit to all the positions of the game. Look on the web and read up on the "credit assignment problem" and temporal difference learning. It's probably ideal for what you are looking for. It can be done at the end of the game one time and scores then updated. If you are not using [floating point](Float "Float") evaluation you may have to figure out how to modify this to be workable. 
 
 ```
 

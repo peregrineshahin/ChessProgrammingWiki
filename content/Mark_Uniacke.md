@@ -20,8 +20,7 @@ Quote by Mark Uniacke from *Now Walking, 1982-1983: HIARCS 5* <a id="cite-note-6
 
 
 
-```C++
-The inspiration for the new HIARCS search was sought from the book [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine") and in particular the article "The heuristic search: An alternative to the alpha-beta minimax procedure" by [Larry Harris](Larry_Harris "Larry Harris") from [Dartmouth College](Dartmouth_College "Dartmouth College") <a id="cite-note-7" href="#cite-ref-7">[7]</a>. HIARCS was still written in the relatively primitive [BASIC](index.php?title=BASIC&action=edit&redlink=1 "BASIC (page does not exist)") programming language and being interpreted it meant the program was rather slow. To compensate for this I developed some heuristics to help guide the search and evaluation in a more targeted way. 
+```C++The inspiration for the new HIARCS search was sought from the book [Chess Skill in Man and Machine](Chess_Skill_in_Man_and_Machine "Chess Skill in Man and Machine") and in particular the article "The heuristic search: An alternative to the alpha-beta minimax procedure" by [Larry Harris](Larry_Harris "Larry Harris") from [Dartmouth College](Dartmouth_College "Dartmouth College") <a id="cite-note-7" href="#cite-ref-7">[7]</a>. HIARCS was still written in the relatively primitive [BASIC](index.php?title=BASIC&action=edit&redlink=1 "BASIC (page does not exist)") programming language and being interpreted it meant the program was rather slow. To compensate for this I developed some heuristics to help guide the search and evaluation in a more targeted way. 
 
 ```
 

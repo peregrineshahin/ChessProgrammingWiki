@@ -31,18 +31,15 @@ In [1968](Timeline#1968 "Timeline"), [Donald Michie](Donald_Michie "Donald Michi
 
 Following letter by David Levy was published in the [ICCA Newsletter, Vol. 2, No 1](ICGA_Journal#2_1 "ICGA Journal"), February 1979:
 
-```C++
-Since my [match](Levy_versus_Chess_1978 "Levy versus Chess 1978") in Toronto, last August and September, in which I won my ten years old bet, many people have asked me the inevitable question, "Did they all pay up?", meaning the four people with whom I made the bet. I should like to use the pages of the Newsletter to answer this question and to save people from writing to me or asking me about it.
+```C++Since my [match](Levy_versus_Chess_1978 "Levy versus Chess 1978") in Toronto, last August and September, in which I won my ten years old bet, many people have asked me the inevitable question, "Did they all pay up?", meaning the four people with whom I made the bet. I should like to use the pages of the Newsletter to answer this question and to save people from writing to me or asking me about it.
 
 ```
 
-```C++
-[Donald Michie](Donald_Michie "Donald Michie"), [John McCarthy](John_McCarthy "John McCarthy") and [Seymour Papert](Mathematician#SPapert "Mathematician") all paid promptly and with good sportsmanship, just as I would have done had I lost. [Edward Kozdrowicki](Ed_Kozdrowicki "Ed Kozdrowicki"), currently of the [Aerospace Corporation](https://en.wikipedia.org/wiki/The_Aerospace_Corporation) in [El Segundo, California](https://en.wikipedia.org/wiki/El_Segundo,_California), has not paid and has refused to respond in a positive fashion to a number of telephone calls and letters.
+```C++[Donald Michie](Donald_Michie "Donald Michie"), [John McCarthy](John_McCarthy "John McCarthy") and [Seymour Papert](Mathematician#SPapert "Mathematician") all paid promptly and with good sportsmanship, just as I would have done had I lost. [Edward Kozdrowicki](Ed_Kozdrowicki "Ed Kozdrowicki"), currently of the [Aerospace Corporation](https://en.wikipedia.org/wiki/The_Aerospace_Corporation) in [El Segundo, California](https://en.wikipedia.org/wiki/El_Segundo,_California), has not paid and has refused to respond in a positive fashion to a number of telephone calls and letters.
 
 ```
 
-```C++
-I trust that this answers all questions relating to the payment of the bet. 
+```C++I trust that this answers all questions relating to the payment of the bet. 
 
 ```
 
@@ -52,8 +49,7 @@ I trust that this answers all questions relating to the payment of the bet.
 
 Quote by David Levy from his [Computer Chess Compendium](Computer_Chess_Compendium "Computer Chess Compendium"), The Endgame, pp. 293-294:
 
-```C++
-The Ending of [KRPKR](Rook_Endgame#KRPKR "Rook Endgame"), first attracted the attention of chess programmers in 1974. I was talking to the programmers of [CHAOS](CHAOS "CHAOS"), during the [ACM 1974](ACM_1974 "ACM 1974") in San Diego, and they expressed doubt at my statement that within a year they would not be able to program a computer to play this configuration correctly for both sides, winning with the extra pawn whenever a win was possible, drawing with a pawn less whenever the game really should end in a draw. The discussion closed with a $100 bet, and at the following year's tournament they paid up, admitting that the task was so difficult that they had not even been able to start on it. 
+```C++The Ending of [KRPKR](Rook_Endgame#KRPKR "Rook Endgame"), first attracted the attention of chess programmers in 1974. I was talking to the programmers of [CHAOS](CHAOS "CHAOS"), during the [ACM 1974](ACM_1974 "ACM 1974") in San Diego, and they expressed doubt at my statement that within a year they would not be able to program a computer to play this configuration correctly for both sides, winning with the extra pawn whenever a win was possible, drawing with a pawn less whenever the game really should end in a draw. The discussion closed with a $100 bet, and at the following year's tournament they paid up, admitting that the task was so difficult that they had not even been able to start on it. 
 
 ```
 
@@ -61,8 +57,7 @@ The Ending of [KRPKR](Rook_Endgame#KRPKR "Rook Endgame"), first attracted the at
 
 The discussion on [KRPKR](Rook_Endgame#KRPKR "Rook Endgame") at [ACM 1974](ACM_1974 "ACM 1974") further inspired [Ken Thompson](Ken_Thompson "Ken Thompson") to work some 10 years on chess endgames and to develop the [Thompson's Databases](Thompson%27s_Databases "Thompson's Databases") <a id="cite-note-12" href="#cite-ref-12">[12]</a> :
 
-```C++
-The second tournament I was in was in San Diego in about '75, '74. And in that tournament David Levy, who is a famous chess personality, was the tournament director. And after the games we were in the bar talking and he was saying that "computers can't play endgames, even simple endgames and they never will." And he said "I am an expert in the rook and pawn against rook endgame and a computer will never play a rook and pawn against rook endgame." And so, I went to my room that evening and was calculating the numbers and came to the conclusion that this was doable, that you could solve that game, absolutely solve it by a different mechanism, you know, not by normal computer chess but by a different mechanism. You could just have the answer and look it up and make a table of everything you are supposed to do. And I came back the next day and told him about it and he say's "nah, it takes too many plys, you know", and I said "no, it is ply independent, this is a different method", so he say's "ah no" so he just "poo poo'd me" and I got sort of, angry is not the right word but I got, you know, you know, so I went home and I worked probably for about ten years on endgames. 
+```C++The second tournament I was in was in San Diego in about '75, '74. And in that tournament David Levy, who is a famous chess personality, was the tournament director. And after the games we were in the bar talking and he was saying that "computers can't play endgames, even simple endgames and they never will." And he said "I am an expert in the rook and pawn against rook endgame and a computer will never play a rook and pawn against rook endgame." And so, I went to my room that evening and was calculating the numbers and came to the conclusion that this was doable, that you could solve that game, absolutely solve it by a different mechanism, you know, not by normal computer chess but by a different mechanism. You could just have the answer and look it up and make a table of everything you are supposed to do. And I came back the next day and told him about it and he say's "nah, it takes too many plys, you know", and I said "no, it is ply independent, this is a different method", so he say's "ah no" so he just "poo poo'd me" and I got sort of, angry is not the right word but I got, you know, you know, so I went home and I worked probably for about ten years on endgames. 
 
 ```
 
@@ -70,8 +65,7 @@ The second tournament I was in was in San Diego in about '75, '74. And in that t
 
 David Levy further on a second KRPKR bet in *[Chess and Computers](http://link.springer.com/book/10.1007/978-3-642-85538-2)*, pp. 132-133:
 
-```C++
-In December 1974, when my wife and I were visiting Moscow, I made the same bet with [Dr. Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"). I did not wish to corrupt him with the offer of a cash bet and so I suggested a wager of twelve bottles of [vodka](https://en.wikipedia.org/wiki/Vodka) (if I won) against twelve bottles of [Scotch](https://en.wikipedia.org/wiki/Scotch_whisky). The period of the bet was to expire at the end of 1975, and the arbiter was to be Grandmaster [Yuri Averbakh](https://en.wikipedia.org/wiki/Yuri_Averbakh) <a id="cite-note-13" href="#cite-ref-13">[13]</a> , President of the Soviet Chess Federation and one of the world's leading endgame experts. I suggested to Averbakh that he give the program the task of winning two or three theoretically won positions, with him playing the defence, and that he tried to win against the program from two or three different theoretically drawn positions <a id="cite-note-14" href="#cite-ref-14">[14]</a> . Just after the beginning of 1976 I received a telegram from Moscow saying: "[KAISSA](Kaissa "Kaissa") successfully examined by Averbakh on December 27th" <a id="cite-note-15" href="#cite-ref-15">[15]</a> <a id="cite-note-16" href="#cite-ref-16">[16]</a> .
+```C++In December 1974, when my wife and I were visiting Moscow, I made the same bet with [Dr. Arlazarov](Vladimir_Arlazarov "Vladimir Arlazarov"). I did not wish to corrupt him with the offer of a cash bet and so I suggested a wager of twelve bottles of [vodka](https://en.wikipedia.org/wiki/Vodka) (if I won) against twelve bottles of [Scotch](https://en.wikipedia.org/wiki/Scotch_whisky). The period of the bet was to expire at the end of 1975, and the arbiter was to be Grandmaster [Yuri Averbakh](https://en.wikipedia.org/wiki/Yuri_Averbakh) <a id="cite-note-13" href="#cite-ref-13">[13]</a> , President of the Soviet Chess Federation and one of the world's leading endgame experts. I suggested to Averbakh that he give the program the task of winning two or three theoretically won positions, with him playing the defence, and that he tried to win against the program from two or three different theoretically drawn positions <a id="cite-note-14" href="#cite-ref-14">[14]</a> . Just after the beginning of 1976 I received a telegram from Moscow saying: "[KAISSA](Kaissa "Kaissa") successfully examined by Averbakh on December 27th" <a id="cite-note-15" href="#cite-ref-15">[15]</a> <a id="cite-note-16" href="#cite-ref-16">[16]</a> .
 
 ```
 
@@ -81,8 +75,7 @@ In December 1974, when my wife and I were visiting Moscow, I made the same bet w
 
 David Levy, already associated with [Monroe Newborn](Monroe_Newborn "Monroe Newborn") and [Ben Mittman](Ben_Mittman "Ben Mittman") from the early [ACM Computer Chess Championships](ACM_North_American_Computer_Chess_Championship "ACM North American Computer Chess Championship"), was initiator and co-founder of the [World Computer Chess Championship](World_Computer_Chess_Championship "World Computer Chess Championship") in 1974, as suggested by the Soviet programmers of [Kaissa](Kaissa "Kaissa") <a id="cite-note-17" href="#cite-ref-17">[17]</a> :
 
-```C++
-Since 1972 *(1970 Editor)* in the USA and Canada were hold the yearly championships of North America among the chess programs, organized by the [ACM](ACM "ACM"). The team of Kaissa directed the organizers of these tournaments to the thought to conduct a world championship, whose organization within the framework its regular congress took upon itself. 
+```C++Since 1972 *(1970 Editor)* in the USA and Canada were hold the yearly championships of North America among the chess programs, organized by the [ACM](ACM "ACM"). The team of Kaissa directed the organizers of these tournaments to the thought to conduct a world championship, whose organization within the framework its regular congress took upon itself. 
 
 ```
 

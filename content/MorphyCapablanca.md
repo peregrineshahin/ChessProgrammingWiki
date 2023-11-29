@@ -23,8 +23,7 @@ Excerpt taken from the Morphy Edition Module User Manual printed in 1981 <a id="
 
 
 
-```C++
-Your new game cartridge reflects the latest state of the art enhancements to high-level strategy game play. Your Morphy Edition of Master Chess is the most recent of a long list of world famous chess programs developed by Applied Concepts, Inc. This MORPHY EIDITION is one of the strongest chess programs commercially available today; and, when played in conjunction with its companion cartridges - Gruenfeld Edition of opening book moves and Capablanca Edition of end-game strategies - on the Great Game Machine's contiguous play function, it is absolutely unmatched in strength of play and strategic excellence! 
+```C++Your new game cartridge reflects the latest state of the art enhancements to high-level strategy game play. Your Morphy Edition of Master Chess is the most recent of a long list of world famous chess programs developed by Applied Concepts, Inc. This MORPHY EIDITION is one of the strongest chess programs commercially available today; and, when played in conjunction with its companion cartridges - Gruenfeld Edition of opening book moves and Capablanca Edition of end-game strategies - on the Great Game Machine's contiguous play function, it is absolutely unmatched in strength of play and strategic excellence! 
 
 ```
 

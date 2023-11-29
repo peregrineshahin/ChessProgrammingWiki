@@ -20,7 +20,6 @@ The reflected binary code, or [Gray code](https://en.wikipedia.org/wiki/Gray_cod
 
 
 ```C++
-
 gray = x ^ (x >> 1);
 
 ```
@@ -148,7 +147,6 @@ Decoding Gray code is a parallel prefix problem similar to the ring-wise operati
 
 
 ```C++
-
 x  = gray;
 x ^= x >>  2;
 x ^= x >>  1;
@@ -161,7 +159,6 @@ Or for 64-bit Gray-Codes:
 
 
 ```C++
-
 x  = gray;
 x ^= x >> 32;
 x ^= x >> 16;
@@ -181,7 +178,6 @@ Parallel prefix [front and rear-fills](Pawn_Fills "Pawn Fills"), for instance to
 
 
 ```C++
-
 U64 nortFill(U64 gen) {
    gen |= (gen <<  8);
    gen |= (gen << 16);
@@ -217,7 +213,6 @@ A **parallel prefix** problem is of the sort:
 
 
 ```C++
-
    Given the terms x1, x2, x3, ... , xN and an associative operator #
    find the values q1 = x1
                    q2 = x1 # x2
@@ -235,7 +230,6 @@ Associative expressions can be bracketed any way you like, the result is the sam
 
 
 ```C++
-
     xI = < gI, pI >     (a two element tuple)
          where gI = square aI has a rook on it
          and   pI = square aI is empty
@@ -252,7 +246,6 @@ All this algebra looks very scary at first, so here's an example:
 
 
 ```C++
-
   q2 = x1 # x2 = < rook_on_a1, a1_is_empty > # < rook_on_a2, a2_is_empty >
                = < ((rook_on_a1 && a2_is_empty) || rook_on_a2),
                    (a1_is_empty && a2_is_empty) >
@@ -269,7 +262,6 @@ In general,
 
 
 ```C++
-
   xI # x(I+1) # ... # xJ =
     < a_rook_somewhere_on_aI_to_aJ_is_either_on_aJ_or_can_move_up_to_aJ,
       all_squares_aI_to_aJ_are_empty >
@@ -282,7 +274,6 @@ and so
 
 
 ```C++
-
   qJ = < a_rook_somewhere_in_file_a_is_either_on_aJ_or_can_move_up_to_aJ,
          all_squares_a1_to_aJ_are_empty >
 
@@ -297,7 +288,6 @@ Why all this theory? Well, prefix computation is a heavily researched area, rese
 
 
 ```C++
-
 U64 FillUpOccluded(U64 g, U64 p) {
            g |= p & (g <<  8);
            p &=     (p <<  8);
@@ -318,7 +308,6 @@ The method chosen in FillUpOccluded() is based on a Kogge-Stone parallel prefix 
 
 
 ```C++
-
 x1 x2 x3 x4 x5 x6 x7 x8         Input : g, p
 |  |  |  |  |  |  |  |
 V  V  V  V  V  V  V  V
@@ -373,7 +362,6 @@ As a comparison three Kogge-Stone routines. A "classical" byte-wise [SWAR](SIMD_
 
 
 ```C++
-
    gen |= pro & (gen << 1);
    pro &=       (pro << 1);
    gen |= pro & (gen << 2);
@@ -396,7 +384,6 @@ The software approach of a [Kogge-Stone](https://en.wikipedia.org/wiki/Kogge-Sto
 
 
 ```C++
-
 // SIMD bytewise add a + b
 U64 koggeStoneByteAdd(U64 a, U64 b) {
    const U64 aFile = C64(0x0101010101010101);
@@ -424,7 +411,6 @@ Subtraction is based on the [two's complement](General_Setwise_Operations#TheTwo
 
 
 ```C++
-
    gen  =~aFile & (gen << 1);
    return gen ^ a ^ ~b ^ aFile;
 
@@ -436,7 +422,6 @@ can be re-written like in following routine:
 
 
 ```C++
-
 // SIMD bytewise sub a - b
 U64 koggeStoneByteSub(U64 a, U64 b) {
    const U64 aFile  = C64(0x0101010101010101);
@@ -464,7 +449,6 @@ Here the Kogge-Stone algorithm generates the sliding piece attacks along the emp
 
 
 ```C++
-
 U64 eastAttacks(U64 occ, U64 rooks) {
    const U64 aFile = C64(0x0101010101010101);
    U64 gen, pro;
@@ -487,7 +471,6 @@ The mentioned routines also demonstrate, that this east attacking direction may 
 
 
 ```C++
-
 U64 byteAdd(U64 a, U64 b) {return ((a & ~hFile) + (b & ~hFile)) ^ ((a ^  b) & hFile);}
 U64 byteSub(U64 a, U64 b) {return ((a |  hFile) - (b & ~hFile)) ^ ((a ^ ~b) & hFile);}
 

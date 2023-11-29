@@ -27,7 +27,6 @@ SCP seems to originate the [repetition](Repetitions "Repetitions") counting algo
 
 
 ```C++
-
   for (i = GameCnt; i > Game50; i--)  {
     m = GameList[i]; f = m>>8; t = m & 0xFF;
     if (t != 255 && f != 255) {

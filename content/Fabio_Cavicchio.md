@@ -13,8 +13,7 @@ As a chess player, he became interested in computer chess and chess programming 
 
 Fabio Cavicchio on [open source](Category:Open_Source "Category:Open Source") <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```C++
-After the publication of my sources I received some critics: "more sources available means more cloned chess programs". I disagreed because Delfi was 200 ELO weaker then the best programs, so its sources were not a problem. Bye the way in two years Delfi improved more than 150 ELO, so the problem is now real. For this reason the latest version with source code available is 5.1. The new versions are not available. 
+```C++After the publication of my sources I received some critics: "more sources available means more cloned chess programs". I disagreed because Delfi was 200 ELO weaker then the best programs, so its sources were not a problem. Bye the way in two years Delfi improved more than 150 ELO, so the problem is now real. For this reason the latest version with source code available is 5.1. The new versions are not available. 
 
 ```
 

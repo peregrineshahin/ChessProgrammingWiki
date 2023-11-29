@@ -11,8 +11,7 @@ an [evolutionary](Genetic_Programming#EvolutionaryProgramming "Genetic Programmi
 
 Quote from the Press Release, May 22, 2006 <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
-```C++
-Blondie25 is the result of over 8000 generations of variation and selection, simulated on a computer, in which a computer chess-playing program plays games against variations of itself to learn how to improve its play. Blondie25 includes mechanisms for [learning](Learning "Learning") the [values of the pieces](Point_Value "Point Value"), their [locations](Piece-Square_Tables "Piece-Square Tables") on the chessboard, and also uses [neural networks](Neural_Networks "Neural Networks") to assess the formation of pieces in different areas of the board. 
+```C++Blondie25 is the result of over 8000 generations of variation and selection, simulated on a computer, in which a computer chess-playing program plays games against variations of itself to learn how to improve its play. Blondie25 includes mechanisms for [learning](Learning "Learning") the [values of the pieces](Point_Value "Point Value"), their [locations](Piece-Square_Tables "Piece-Square Tables") on the chessboard, and also uses [neural networks](Neural_Networks "Neural Networks") to assess the formation of pieces in different areas of the board. 
 
 ```
 

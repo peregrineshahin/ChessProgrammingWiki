@@ -19,7 +19,6 @@ Walter Faxon's 32-bit friendly [magic bitscan](BitScan#WalterFaxonsmagicBitscan 
 
 
 ```C++
-
 const char LSB_64_table[154] =
 {
 ##define __ 0
@@ -67,44 +66,37 @@ int bitScanForward(U64 bb)
 
 
 
-```C++
-Musings on nonstandard computer chess techniques.
+```C++Musings on nonstandard computer chess techniques.
 
 ```
 
 
-```C++
-What's new on the computer chess front? I note that [Sergei S. Markoff's](Sergei_Markoff "Sergei Markoff") new program [SmarThink](SmarThink "SmarThink") (http:*www.aigroup.narod.ru/detailse.htm) is supposed to use (among many other things) some of former world chess champion [M.M. Botvinnik's](Mikhail_Botvinnik "Mikhail Botvinnik") ideas. Botvinnik's "Computers, Chess and Long-Range Planning" (Springer, 1970) and "Chess: Solving Inexact Search Problems" (Springer, 1983) described a method that apparently only Botvinnik's programmer/protege [Boris Stilman](Boris_Stilman "Boris Stilman") believed would work, which Stilman later generalized in his own book "Linguistic Geometry: From Search to Construction" (Kluwer, 2000). Markoff's own on-line writings on chess algorithms (http:*www.aigroup.narod.ru/indexe.htm) are only in Russian, so far. (I am assuming that the SmarThink download doesn't include source.)
+```C++What's new on the computer chess front? I note that [Sergei S. Markoff's](Sergei_Markoff "Sergei Markoff") new program [SmarThink](SmarThink "SmarThink") (http:*www.aigroup.narod.ru/detailse.htm) is supposed to use (among many other things) some of former world chess champion [M.M. Botvinnik's](Mikhail_Botvinnik "Mikhail Botvinnik") ideas. Botvinnik's "Computers, Chess and Long-Range Planning" (Springer, 1970) and "Chess: Solving Inexact Search Problems" (Springer, 1983) described a method that apparently only Botvinnik's programmer/protege [Boris Stilman](Boris_Stilman "Boris Stilman") believed would work, which Stilman later generalized in his own book "Linguistic Geometry: From Search to Construction" (Kluwer, 2000). Markoff's own on-line writings on chess algorithms (http:*www.aigroup.narod.ru/indexe.htm) are only in Russian, so far. (I am assuming that the SmarThink download doesn't include source.)
 
 ```
 
 
-```C++
-Markoff also writes that his first program included ideas from the authors of [Kaissa](Kaissa "Kaissa"). Those authors published papers in the 1970's on "the method of analogies" to reduce search work, but they did not use it in their competitive program. If you recall, [Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") wrote in "Behind Deep Blue" (Princeton Univ. Pr., 2002) that he had implemented a stripped-down version of the analogies method for [Deep Blue](Deep_Blue "Deep Blue"). It is the unpublished intellectual property of IBM.
+```C++Markoff also writes that his first program included ideas from the authors of [Kaissa](Kaissa "Kaissa"). Those authors published papers in the 1970's on "the method of analogies" to reduce search work, but they did not use it in their competitive program. If you recall, [Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") wrote in "Behind Deep Blue" (Princeton Univ. Pr., 2002) that he had implemented a stripped-down version of the analogies method for [Deep Blue](Deep_Blue "Deep Blue"). It is the unpublished intellectual property of IBM.
 
 ```
 
 
-```C++
-Sometimes I wonder if chess program authors mention intriguing nonsense just to throw their competitors off the track. I recall someone once letting slip that he had used Botvinnik's method for an early hardware-limited microcomputer program. That seems unlikely. Nearly 15 years ago an author ([Kittinger](David_Kittinger "David Kittinger")?) dropped hints that he had adopted [McAllester's](David_McAllester "David McAllester") 1988 method [conspiracy numbersearch](Conspiracy_Number_Search "Conspiracy Number Search") (aka conspiracy search) for his program, using the term "nodulation". Published results indicate that plain conspiracy numbers don't work very well for chess. As far as I know, today only experiments on multiprocessor machines are being conducted; no competitive microcomputer program uses it at all. So was it a mirage -- or a trick? David McAllester and [Deniz Yuret](Deniz_Yuret "Deniz Yuret") did finally publish their revised work ([Alpha-Beta Conspiracy Search](index.php?title=Alpha-Beta_Conspiracy_Search&action=edit&redlink=1 "Alpha-Beta Conspiracy Search (page does not exist)"). [ICGA Journal](ICGA_Journal "ICGA Journal"), Vol. 25, No. 1 (March 2002), pp. 16-35), nearly ten years after their initial experiments with the multiprocessor program [Star-Socrates](Star_Socrates "Star Socrates"). And ten years from now?...
+```C++Sometimes I wonder if chess program authors mention intriguing nonsense just to throw their competitors off the track. I recall someone once letting slip that he had used Botvinnik's method for an early hardware-limited microcomputer program. That seems unlikely. Nearly 15 years ago an author ([Kittinger](David_Kittinger "David Kittinger")?) dropped hints that he had adopted [McAllester's](David_McAllester "David McAllester") 1988 method [conspiracy numbersearch](Conspiracy_Number_Search "Conspiracy Number Search") (aka conspiracy search) for his program, using the term "nodulation". Published results indicate that plain conspiracy numbers don't work very well for chess. As far as I know, today only experiments on multiprocessor machines are being conducted; no competitive microcomputer program uses it at all. So was it a mirage -- or a trick? David McAllester and [Deniz Yuret](Deniz_Yuret "Deniz Yuret") did finally publish their revised work ([Alpha-Beta Conspiracy Search](index.php?title=Alpha-Beta_Conspiracy_Search&action=edit&redlink=1 "Alpha-Beta Conspiracy Search (page does not exist)"). [ICGA Journal](ICGA_Journal "ICGA Journal"), Vol. 25, No. 1 (March 2002), pp. 16-35), nearly ten years after their initial experiments with the multiprocessor program [Star-Socrates](Star_Socrates "Star Socrates"). And ten years from now?...
 
 ```
 
 
-```C++
-And what about [Berliner's](Hans_Berliner "Hans Berliner") [B\*](B* "B*") algorithm? (Actually [Palay's](Andrew_James_Palay "Andrew James Palay") probabilistic B* using a probability distribution for evaluation instead of a simple range, today suggestive that techniques from fuzzy logic might be applied.) The chess machine [Hitech](HiTech "HiTech") was originally built for it in the early 1980's (equal first on points but second on tiebreak, [WCCC 1986](WCCC_1986 "WCCC 1986")) -- and finally began using it. As of mid-1993 it was "almost as good as regular Hitech". In mid-1995 it was still "not quite as good as brute force searching." In the abstract of his last word on the subject (Hans J. Berliner and [Chris McConnell](Chris_McConnell "Chris McConnell"). B* probability based search. Artificial Intelligence, Volume 86, Issue 1, September 1996, Pages 97-156) Berliner writes, "Analysis of the data indicates that should additional power become available, the B* technique will scale up considerably better than brute-force techniques." Berliner is now retired. More power is available. Where are the later papers? Where is B* today?
+```C++And what about [Berliner's](Hans_Berliner "Hans Berliner") [B\*](B* "B*") algorithm? (Actually [Palay's](Andrew_James_Palay "Andrew James Palay") probabilistic B* using a probability distribution for evaluation instead of a simple range, today suggestive that techniques from fuzzy logic might be applied.) The chess machine [Hitech](HiTech "HiTech") was originally built for it in the early 1980's (equal first on points but second on tiebreak, [WCCC 1986](WCCC_1986 "WCCC 1986")) -- and finally began using it. As of mid-1993 it was "almost as good as regular Hitech". In mid-1995 it was still "not quite as good as brute force searching." In the abstract of his last word on the subject (Hans J. Berliner and [Chris McConnell](Chris_McConnell "Chris McConnell"). B* probability based search. Artificial Intelligence, Volume 86, Issue 1, September 1996, Pages 97-156) Berliner writes, "Analysis of the data indicates that should additional power become available, the B* technique will scale up considerably better than brute-force techniques." Berliner is now retired. More power is available. Where are the later papers? Where is B* today?
 
 ```
 
 
-```C++
-My suggestion: you are writing a chess program. Go ahead, put in [negascout](NegaScout "NegaScout"), [null-move pruning](Null_Move_Pruning "Null Move Pruning"), [IID](Internal_Iterative_Deepening "Internal Iterative Deepening"), everything everybody is already doing. Then, look to the literature and find some method that everybody is _not_ doing. Implement it, experiment with it, and _publish_ your results. Please.
+```C++My suggestion: you are writing a chess program. Go ahead, put in [negascout](NegaScout "NegaScout"), [null-move pruning](Null_Move_Pruning "Null Move Pruning"), [IID](Internal_Iterative_Deepening "Internal Iterative Deepening"), everything everybody is already doing. Then, look to the literature and find some method that everybody is _not_ doing. Implement it, experiment with it, and _publish_ your results. Please.
 
 ```
 
 
-```C++
-- Walter 
+```C++- Walter 
 
 ```
 
@@ -116,8 +108,7 @@ My suggestion: you are writing a chess program. Go ahead, put in [negascout](Neg
 
 
 
-```C++
- ... I have been from time-to-time disappointed that there is not more AI content on CCC. It very much seems to be a hobbyist board, playing with the current programs and building duplicates of them, albeit with minor differences in emphasis and implementation. I've been guilty of this myself in the bitscan threads. But the few times I have tried to raise the level of discussion have been met with, mostly, silence. My last post was to an extent, a "last gasp". 
+```C++ ... I have been from time-to-time disappointed that there is not more AI content on CCC. It very much seems to be a hobbyist board, playing with the current programs and building duplicates of them, albeit with minor differences in emphasis and implementation. I've been guilty of this myself in the bitscan threads. But the few times I have tried to raise the level of discussion have been met with, mostly, silence. My last post was to an extent, a "last gasp". 
 
 ```
 

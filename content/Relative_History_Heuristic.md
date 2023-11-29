@@ -16,14 +16,12 @@ The idea is to make the history scores (hhScore) relative to the scores of the [
 
 
 
-```C++
-We believe that we can considerably improve the performance of the history heuristic in some games by making it relative instead of absolute: The score used to order the moves (movescore) is given by the following formula: 
+```C++We believe that we can considerably improve the performance of the history heuristic in some games by making it relative instead of absolute: The score used to order the moves (movescore) is given by the following formula: 
 
 ```
 
 
 ```C++
-
 moveScore = hhScore / bfScore;
 
 ```
@@ -34,7 +32,6 @@ or dependent on the increments:
 
 
 ```C++
-
 moveScore = (Scale * hhScore) / bfScore;
 
 ```
@@ -45,7 +42,6 @@ Winands experienced with several increments for hhScore and bfScore, namely {1, 
 
 
 ```C++
-
    if ( score >= beta ) { // cutoff
       if ( isNonCapture (move) )
          hhScore[move.from][move.to] += hhIncrement; 
@@ -67,7 +63,6 @@ Other approaches of relative history heuristic - proposed by [Robert Hyatt](Robe
 
 
 ```C++
-
    if ( score >= beta ) { // cutoff
       if ( isNonCapture (move) ) 
          hhScore[move.from][move.to] += hhIncrement; 

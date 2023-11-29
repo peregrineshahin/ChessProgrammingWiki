@@ -27,8 +27,7 @@ Here we discuss one such speculative-pruning method called multi-cut, which make
 
 Multi-Cut inside a [null window](Null_Window "Null Window")\- or [zero window search](Principal_Variation_Search#ZWS "Principal Variation Search") of a [fail-hard](Fail-Hard "Fail-Hard") [PVS](Principal_Variation_Search "Principal Variation Search") framework, applied at expected [Cut-nodes](Node_Types#cut-nodes "Node Types"):
 
-```C++
-// M is the number of moves to look at when checking for mc-prune.
+```C++// M is the number of moves to look at when checking for mc-prune.
 // C is the number of cutoffs to cause an mc-prune, C < M.
 // R is the search depth reduction for mc-prune searches.
 

@@ -29,8 +29,7 @@ Both are on by default... and further <a id="cite-note-4" href="#cite-ref-4">[4]
 
 [Marty Hirsch](Marty_Hirsch "Marty Hirsch") in [Advances in Computer Games 9](Advances_in_Computer_Games_9 "Advances in Computer Games 9") on machine learning in [MChess Pro](MChess "MChess"), excerpt <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
-```C++
-Some sets of heuristics are employed to decide which moves to add to the opening book, and which to delete from it. Moves are deleted when the score just out of book is not too high, and the score later in the game is worse. Moves are added when the score just out of book is not too low, and the score later in the game is satisfactory. A further pre-condition for moves that may be added to the opening book is that the increase in score has been mainly monotonic. If this condition is not met, a future game may enable better moves to be found due to the general learning. In other words, only the best moves the program is able to discover (at a given level) are added to the opening book. Different thresholds are applied for the storage and deletion of moves for White and Black. 
+```C++Some sets of heuristics are employed to decide which moves to add to the opening book, and which to delete from it. Moves are deleted when the score just out of book is not too high, and the score later in the game is worse. Moves are added when the score just out of book is not too low, and the score later in the game is satisfactory. A further pre-condition for moves that may be added to the opening book is that the increase in score has been mainly monotonic. If this condition is not met, a future game may enable better moves to be found due to the general learning. In other words, only the best moves the program is able to discover (at a given level) are added to the opening book. Different thresholds are applied for the storage and deletion of moves for White and Black. 
 ...
 Some programs now support a different type of book learning in which no moves are added to the book, but instead, unsuccessful moves are given a lower probability of selection. This approach narrows the book over the time and may optimize the results against a specific opponent, at the expense of the results against other opponents. The book learning described in this paper maintains the opening book variety and improves the book against multiple opponents. 
 
@@ -40,8 +39,7 @@ Some programs now support a different type of book learning in which no moves ar
 
 As explained by [Michael Sherwin](Michael_Sherwin "Michael Sherwin"), [RomiChess](RomiChess "RomiChess") applies [Monkey see Monkey do](https://en.wikipedia.org/wiki/Monkey_see,_monkey_do) [mimicry](https://en.wikipedia.org/wiki/Mimicry) to learn book lines <a id="cite-note-7" href="#cite-ref-7">[7]</a> :
 
-```C++
-Romi remembers and incorporates winning lines regardless of which side played the moves into the [opening book](Opening_Book "Opening Book") and can play them back instantly up to 180 [ply](Ply "Ply") if the stats for that line remain good. 
+```C++Romi remembers and incorporates winning lines regardless of which side played the moves into the [opening book](Opening_Book "Opening Book") and can play them back instantly up to 180 [ply](Ply "Ply") if the stats for that line remain good. 
 
 ```
 

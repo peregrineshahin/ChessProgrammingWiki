@@ -14,8 +14,7 @@ In about 1977, the name was changed to Awit for two reasons. First, to put the p
 
 Quote from the [ACM 1980](ACM_1980 "ACM 1980") booklet <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
-```C++
-Awit is one of the few programs that carries out extensive [forward pruning](Pruning "Pruning"). During the course of the three minute move, Awit examines about 200 [nodes](Node "Node")! This might be contrasted with the 30,000,000 - 40,000,000 nodes examined by [Belle](Belle "Belle"). Awit is written in [Algol W](Algol "Algol"). A moderately large book of 10,000 lines is used. 
+```C++Awit is one of the few programs that carries out extensive [forward pruning](Pruning "Pruning"). During the course of the three minute move, Awit examines about 200 [nodes](Node "Node")! This might be contrasted with the 30,000,000 - 40,000,000 nodes examined by [Belle](Belle "Belle"). Awit is written in [Algol W](Algol "Algol"). A moderately large book of 10,000 lines is used. 
 
 ```
 

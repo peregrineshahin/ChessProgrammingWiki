@@ -14,7 +14,6 @@ A **Move List** is a data structure inside a chess program with the aim to colle
 
 
 ```C++
-
                        Move List
                        +---------+ 
 Initial Position  ->   |    0    |  1. White move
@@ -76,7 +75,6 @@ Since the number of moves per side and position may vary, one may think about a 
 
 
 ```C++
-
 N ::= MAX_PLY * BF
 
                        Move List
@@ -113,7 +111,6 @@ This scheme works [recursively](Recursion "Recursion") thoroughly all ply depths
 
 
 ```C++
-
 next_2_generate[ply+1] ::= next_2_generate[ply];
 next_2_play[ply+1]     ::= next_2_generate[ply];
 

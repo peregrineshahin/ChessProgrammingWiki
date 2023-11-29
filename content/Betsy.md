@@ -14,8 +14,7 @@ According to a former [Arena](Arena "Arena") site, Betsy was the first published
 
 Quote by [Landon Rabern](Landon_Rabern "Landon Rabern") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
-```C++
-As a child, I was obsessed with machine intelligence. I coded a strong chess AI (codenamed Betsy) and experimented with using [neural networks](Neural_Networks "Neural Networks") in Betsy, both for the [static evaluation](Evaluation "Evaluation") at [leaf nodes](Leaf_Node "Leaf Node") and within the [tree](Search_Tree "Search Tree") for [pruning](Pruning "Pruning"). The networks learned from self-play to get about as good as my hand-tuned functions (discounting the slowdown incurred by [sigmoid evaluation](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo")). I concluded that to do better, I would need to use raw game state data instead of the set of features I preselected as network inputs; unfortunately, this was 2000 and I did not have nearly enough processing power to do so.
+```C++As a child, I was obsessed with machine intelligence. I coded a strong chess AI (codenamed Betsy) and experimented with using [neural networks](Neural_Networks "Neural Networks") in Betsy, both for the [static evaluation](Evaluation "Evaluation") at [leaf nodes](Leaf_Node "Leaf Node") and within the [tree](Search_Tree "Search Tree") for [pruning](Pruning "Pruning"). The networks learned from self-play to get about as good as my hand-tuned functions (discounting the slowdown incurred by [sigmoid evaluation](Pawn_Advantage,_Win_Percentage,_and_Elo "Pawn Advantage, Win Percentage, and Elo")). I concluded that to do better, I would need to use raw game state data instead of the set of features I preselected as network inputs; unfortunately, this was 2000 and I did not have nearly enough processing power to do so.
 
 ```
 

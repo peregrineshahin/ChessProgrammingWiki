@@ -38,8 +38,7 @@ Cyrus 68K was Intelligent Software's testbed for the [SEX Algorithm](SEX_Algorit
 
 Excerpts from *The [SEX Algorithm](SEX_Algorithm "SEX Algorithm") in Computer Chess* 1989 <a id="cite-note-4" href="#cite-ref-4">[4]</a> :
 
-```C++
-Later we designed a [68000](68000 "68000") program called **Cyrus 68K**, written by one of us ([Mark Taylor](Mark_Taylor "Mark Taylor")), which evaluated and sorted all the moves from a node being expanded: we used these evaluations to determine the SXDEC for moves that were non-tactical. An obvious way to accomplish this is to assign the "best" (i.e., highest-scoring) non-tactical move a low SXDEC and to determine the SXDEC values for its non-tactical siblings on the basis of the difference in score among them.
+```C++Later we designed a [68000](68000 "68000") program called **Cyrus 68K**, written by one of us ([Mark Taylor](Mark_Taylor "Mark Taylor")), which evaluated and sorted all the moves from a node being expanded: we used these evaluations to determine the SXDEC for moves that were non-tactical. An obvious way to accomplish this is to assign the "best" (i.e., highest-scoring) non-tactical move a low SXDEC and to determine the SXDEC values for its non-tactical siblings on the basis of the difference in score among them.
 ...
 A second generation of the search extension algorithm was developed during the period 1985-1988. Many of the original ideas were used but we tried to eliminate certain obvious deficiencies and to make the intelligence in the program more sophisticated. We came up with a number of new ideas and tested them in a [68000](68000 "68000")-based program called **Cyrus 68K**. In general the results were rather encouraging, and we now feel that there is no longer a need to be shy about our work, hence the revised acronym for the algorithm and the renaming of the key variables to SEX and SEXDEC.
 

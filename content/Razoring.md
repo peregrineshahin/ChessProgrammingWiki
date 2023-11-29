@@ -27,7 +27,6 @@ There is even a more aggressive pruning technique at depth = 4 nodes, called Dee
 
 
 ```C++
-
 fscore = mat_balance(current) + razor_margin;
 if (!extend
  && (depth == PRE_PRE_FRONRIER)
@@ -45,8 +44,7 @@ if (!extend
 
 
 
-```C++
-Razoring is supposed to be a sort of forward pruning where rather than skipping an entire subtree, you search it to a reduced depth, typically one less than normal depth. The advantage is that you get most of the saving but with much lower risk than pruning entire subtrees. Razoring is the only forward pruning technique [Junior](Junior "Junior") uses, with a depth reduction of one (half-ply). Seems like [Crafty](Crafty "Crafty") uses the same definition ... 
+```C++Razoring is supposed to be a sort of forward pruning where rather than skipping an entire subtree, you search it to a reduced depth, typically one less than normal depth. The advantage is that you get most of the saving but with much lower risk than pruning entire subtrees. Razoring is the only forward pruning technique [Junior](Junior "Junior") uses, with a depth reduction of one (half-ply). Seems like [Crafty](Crafty "Crafty") uses the same definition ... 
 
 ```
 
@@ -62,7 +60,6 @@ This code snippet appears in [Crafty 15.17](Crafty "Crafty") <a id="cite-note-6"
 
 
 ```C++
-
 /*
  ----------------------------------------------------------
 |                                                          |
@@ -91,7 +88,6 @@ A different razoring approach was proposed by [Robert Hyatt](Robert_Hyatt "Rober
 
 
 ```C++
-
 /*
 ************************************************************
 *                                                          *
@@ -127,7 +123,6 @@ Similar code appears in [Jury Osipov's](Jury_Osipov "Jury Osipov") [open source 
 
 
 ```C++
-
   value = eval + 125;
   if (value < beta) {
     if (depth == 1) {
@@ -149,8 +144,7 @@ In the [Rybka Forum](Computer_Chess_Forums "Computer Chess Forums") thread on [S
 
 
 
-```C++
-I'm also pretty amazed at how aggressively the search prunes. Not only will Strelka drop straight into the q-search on a depth-3 search, but because it orders all captures first, it will reduce almost all noncapture/check moves. 
+```C++I'm also pretty amazed at how aggressively the search prunes. Not only will Strelka drop straight into the q-search on a depth-3 search, but because it orders all captures first, it will reduce almost all noncapture/check moves. 
 
 ```
 

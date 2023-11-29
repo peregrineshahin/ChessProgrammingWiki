@@ -27,7 +27,6 @@ On the other hand, if attack tables are available, one should utilize the inform
 The square centric classical approach with bitboards was used in [Chess 4.5](</Chess_(Program)> "Chess (Program)") and described by [Larry Atkin](Larry_Atkin "Larry Atkin") and [David Slate](David_Slate "David Slate") <a id="cite-note-4" href="#cite-ref-4">[4]</a> . The incrementally updated attack tables, from which most move generation is done, are called *ATKFR* and *ATKTO*. *ATKFR* is a set of 64 bitboards which give, for each square, all the squares attacked by the piece, if any, that resides on the square. *ATKTO* ([Square Attacked By](Square_Attacked_By "Square Attacked By")) is the transpose of *ATKFR*, giving for each square, the locations of all pieces that attack that square. For instance the square E4 (T) is attacked by a black rook at E8, a black knight at F6, and defended by a white rook at E1 and a white pawn at D3 <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
 ```C++
-
 attacks_to[E4]
  . . . . 1 . . .
  . . . . . . . .
@@ -55,7 +54,6 @@ Based on a fixed piece-type and bit-position relation with usual material dispos
 As described by [Ed Schröder](Ed_Schroder "Ed Schroder") in *Evaluation in REBEL* <a id="cite-note-6" href="#cite-ref-6">[6]</a> , [Rebel](Rebel "Rebel") uses two board tables for both sides, one [byte](Byte "Byte") entry each, the three lower bits contain an attack counter, while the five upper bits indicate the presence of least one pawn or piece attacking/defending:
 
 ```C++
-
 +------+------+------+------+------+------+------+------+
 | BIT0 | BIT1 | BIT2 | BIT3 | BIT4 | BIT5 | BIT6 | BIT7 |
 +------+------+------+------+------+------+------+------+
@@ -68,7 +66,6 @@ As described by [Ed Schröder](Ed_Schroder "Ed Schroder") in *Evaluation in REBE
 The information might be inaccurate in some cases since it loses some information if multiple pieces of one kind are involved. However, since [SEE](Static_Exchange_Evaluation "Static Exchange Evaluation") might be erroneous anyway due to [pins](Pin "Pin"), [x-rays](X-ray "X-ray") or [overloaded pieces](Overloading "Overloading"), Ed's scheme seems sufficient for practical purposes - and it is fast. Each byte (for both sides) can act as index inside pre-calculated three-dimensional table to perform an SEE by looking up a target piece or square, attack- and defend-byte:
 
 ```C++
-
 char see_table [14][256][256];   // 14*64 K = 896 KByte
 
 see = see_table[Piece][attackByte][defendByte];

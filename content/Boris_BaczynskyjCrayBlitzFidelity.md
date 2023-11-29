@@ -31,18 +31,15 @@ On [Fidelity X's](Fidelity "Fidelity") 3...e5 in round 1 of the [ACM 1984](ACM_1
 
 ```
 
-```C++
-Cray has recently refurbished its [tournament book](Opening_Book "Opening Book") - as evidenced by the tricky sequence it essays here. The usual follow-up to White's second move is 3.c3, initiating the [Smith-Morra Gambit](https://en.wikipedia.org/wiki/Sicilian_Defence,_Smith%E2%80%93Morra_Gambit). 3. ... e5? Probably any computer, left to its own devices, would "find" this inferior move. What chip worth its silicon could resist discerning the "key" point that Black holds its extra pawn because 4.Nxe5? is plastered by 4. ...Qa5, followed by 5. ... Qxe5,  Ahhh! But the move weakens the d5-square and the a2-f7 diagonal. That's not important to a chess computer, which, in [Valvo's](Michael_Valvo "Michael Valvo") felicitous formulation, 'just loves to eat'.
+```C++Cray has recently refurbished its [tournament book](Opening_Book "Opening Book") - as evidenced by the tricky sequence it essays here. The usual follow-up to White's second move is 3.c3, initiating the [Smith-Morra Gambit](https://en.wikipedia.org/wiki/Sicilian_Defence,_Smith%E2%80%93Morra_Gambit). 3. ... e5? Probably any computer, left to its own devices, would "find" this inferior move. What chip worth its silicon could resist discerning the "key" point that Black holds its extra pawn because 4.Nxe5? is plastered by 4. ...Qa5, followed by 5. ... Qxe5,  Ahhh! But the move weakens the d5-square and the a2-f7 diagonal. That's not important to a chess computer, which, in [Valvo's](Michael_Valvo "Michael Valvo") felicitous formulation, 'just loves to eat'.
 
 ```
 
-```C++
-Machines' materialistic tendencies are one reason why humans forced-feed computers with [opening books](Opening_Book "Opening Book"). To the amazement of the [Spracklens](Dan_Spracklen "Dan Spracklen"), operating Fidelity X, their machine was now out of book. They suspected a technical failure. Actually the failure was all human. Fidelity's Chess Advisor, who had designed the book used in San Francisco, had simply failed to include Cray's opening sequence. Although White's opening is unusual, it is not unprecedented. Certainly it belonged in the book, which encompasses many thousands of moves.
+```C++Machines' materialistic tendencies are one reason why humans forced-feed computers with [opening books](Opening_Book "Opening Book"). To the amazement of the [Spracklens](Dan_Spracklen "Dan Spracklen"), operating Fidelity X, their machine was now out of book. They suspected a technical failure. Actually the failure was all human. Fidelity's Chess Advisor, who had designed the book used in San Francisco, had simply failed to include Cray's opening sequence. Although White's opening is unusual, it is not unprecedented. Certainly it belonged in the book, which encompasses many thousands of moves.
 
 ```
 
-```C++
-I happen to know this story because, for almost two years, I worked as the only Chess Advisor Fidelity Computer Products ever had. Better is 3. ... Nc6, 3. ... e6, 3. ... d6, which should [transpose](Transposition "Transposition") into normal [Sicilian variations](https://en.wikipedia.org/wiki/Sicilian_Defence). 
+```C++I happen to know this story because, for almost two years, I worked as the only Chess Advisor Fidelity Computer Products ever had. Better is 3. ... Nc6, 3. ... e6, 3. ... d6, which should [transpose](Transposition "Transposition") into normal [Sicilian variations](https://en.wikipedia.org/wiki/Sicilian_Defence). 
 
 ```
 

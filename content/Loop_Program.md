@@ -23,8 +23,7 @@ Fritz Reul on an essential reason of Loop's success in Amsterdam in his thesis <
 
 
 
-```C++
-A complete computer-chess architecture based on hash functions and magic multiplications for the examination of bitboards is implemented in the computerchess engine Loop Amsterdam. This engine was able to reach the 3rd place at the 15th World Computer-Chess Championship, Amsterdam (NL) 2007. An essential reason for the success of this 64-bit computer-chess engine was the use of highly sophisticated perfect hash functions and magic multipliers for the computation of compound bit-patterns (bitboards) via perfect hashing. 
+```C++A complete computer-chess architecture based on hash functions and magic multiplications for the examination of bitboards is implemented in the computerchess engine Loop Amsterdam. This engine was able to reach the 3rd place at the 15th World Computer-Chess Championship, Amsterdam (NL) 2007. An essential reason for the success of this 64-bit computer-chess engine was the use of highly sophisticated perfect hash functions and magic multipliers for the computation of compound bit-patterns (bitboards) via perfect hashing. 
 
 ```
 
@@ -39,8 +38,7 @@ Evaluation was only marginally covered in Reul's thesis. In *Preliminary Conside
 
 
 
-```C++
-This thesis also does not aim at the explicit consideration of known computer-chess architectures, such as [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards") <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a> or the [0x88](0x88 "0x88") representation <a id="cite-note-12" href="#cite-ref-12">[12]</a>. Many a reference used in this thesis is not available in a scientifically elaborate form. This includes personal conversations with programmers <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a> <a id="cite-note-15" href="#cite-ref-15">[15]</a>, and the **exchange of source codes** as well as discussions via email. In this way the contents of this thesis can be regarded to be on a state-of the-art level of the research and development in the field of the computer-chess architectures. 
+```C++This thesis also does not aim at the explicit consideration of known computer-chess architectures, such as [Rotated Bitboards](Rotated_Bitboards "Rotated Bitboards") <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a> or the [0x88](0x88 "0x88") representation <a id="cite-note-12" href="#cite-ref-12">[12]</a>. Many a reference used in this thesis is not available in a scientifically elaborate form. This includes personal conversations with programmers <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a> <a id="cite-note-15" href="#cite-ref-15">[15]</a>, and the **exchange of source codes** as well as discussions via email. In this way the contents of this thesis can be regarded to be on a state-of the-art level of the research and development in the field of the computer-chess architectures. 
 
 ```
 
@@ -60,16 +58,14 @@ During the [ICGA Investigations](ICGA_Investigations "ICGA Investigations") conc
 
 
 
-```C++
-The ICGA has received formal complaints against the Chess programs LOOP and [THINKER](Thinker "Thinker"), both of which have participated in the World Computer Chess Championship. LOOP was entered by Fritz Reul into the [2007 WCCC](WCCC_2007 "WCCC 2007") in Amsterdam. THINKER was entered into the [2010 WCCC](WCCC_2010 "WCCC 2010") in Kanazawa.
+```C++The ICGA has received formal complaints against the Chess programs LOOP and [THINKER](Thinker "Thinker"), both of which have participated in the World Computer Chess Championship. LOOP was entered by Fritz Reul into the [2007 WCCC](WCCC_2007 "WCCC 2007") in Amsterdam. THINKER was entered into the [2010 WCCC](WCCC_2010 "WCCC 2010") in Kanazawa.
 ...
 Here we present extracts from the first section of each of [Mark Watkins](Mark_Watkins "Mark Watkins") reports.
 
 ```
 
 
-```C++
-**Loop**  “The version examined here is Loop 2007 (64-bit), which was released at approximately the same time as the WCCC. There is notable similarity to Fruit in the evaluation function (other components were not examined).”
+```C++**Loop**  “The version examined here is Loop 2007 (64-bit), which was released at approximately the same time as the WCCC. There is notable similarity to Fruit in the evaluation function (other components were not examined).”
 ...
 Based on the above mentioned reports by Mark Watkins the ICGA is convinced that, at the very least, both Fritz Reul and [Kerwin Medina](Kerwin_Medina "Kerwin Medina") have a case to answer. Depending on how Reul and/or Medina respond to these allegations the ICGA might decide to conduct further investigations and/or take some form of strong sanctioning action against the programmers.  However, the ICGA does not intend to proceed further along the route to strong sanctions for the time being, in order to give these programmers more time in which to make contact with the ICGA President and present their defence to the allegations. If either or both of these programmers fail to do so by December 31st 2014, or refuses to do so, the ICGA will disqualify them from all their results in ICGA events.  In the meantime the ICGA has decided to suspend both Fritz Reul and Kerwin Medina from participation in all ICGA events until such time as they have made contact and offered a defence. 
 

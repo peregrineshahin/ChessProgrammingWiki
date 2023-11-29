@@ -16,8 +16,7 @@ the ***S**mith **O**ne-**M**ove **A**nalyzer*, a chess program designed as one-p
 
 
 
-```C++
-(i) The [value](Point_Value "Point Value") of White's pieces minus the value of Black's pieces, where P=10, Kt=B=30, R=50, Q=90, K=1,000. 
+```C++(i) The [value](Point_Value "Point Value") of White's pieces minus the value of Black's pieces, where P=10, Kt=B=30, R=50, Q=90, K=1,000. 
 
 ```
 
@@ -29,8 +28,7 @@ the ***S**mith **O**ne-**M**ove **A**nalyzer*, a chess program designed as one-p
 
 
 
-```C++
-(ii) The value of the squares "[attacked](Attacks "Attacks")" by White's pieces. A typical square scores 1, one of the four central squares 2, and a square adjacent to the Black King 3. Each White piece is considered in turn, and the value of the squares to which that piece might legally move (whether or not that square is occupied by a piece) added up. Thus an opening move of e4 increases the value by 8 (4 new squares attacked by the Bishop, 3 by the Queen, plus 1 because the Pawn now attacks a central square). Three other opening moves, e3, Nf3, Nc3, also score plus 8, and no more scores more. In such cases SOMA decides by tossing a coin.
+```C++(ii) The value of the squares "[attacked](Attacks "Attacks")" by White's pieces. A typical square scores 1, one of the four central squares 2, and a square adjacent to the Black King 3. Each White piece is considered in turn, and the value of the squares to which that piece might legally move (whether or not that square is occupied by a piece) added up. Thus an opening move of e4 increases the value by 8 (4 new squares attacked by the Bishop, 3 by the Queen, plus 1 because the Pawn now attacks a central square). Three other opening moves, e3, Nf3, Nc3, also score plus 8, and no more scores more. In such cases SOMA decides by tossing a coin.
 
 ```
 
@@ -42,32 +40,27 @@ the ***S**mith **O**ne-**M**ove **A**nalyzer*, a chess program designed as one-p
 
 
 
-```C++
-(iii) The expected gain or loss if pieces en prise are captured. SOMA first calculates the "swap-off value" S for each piece, Black or White, which is en prise. S is a simple function of the value of the piece itself and of those which attack or defend it; it represents what the owner of the piece would lose if both players behaved efficiently. 
+```C++(iii) The expected gain or loss if pieces en prise are captured. SOMA first calculates the "swap-off value" S for each piece, Black or White, which is en prise. S is a simple function of the value of the piece itself and of those which attack or defend it; it represents what the owner of the piece would lose if both players behaved efficiently. 
 
 ```
 
 
-```C++
-Thus a White Knight defended by a Pawn and attacked by a Knight and a Bishop has S = 10 (White loses a Knight and Pawn for a Knight), whereas a White Pawn defended by a Pawn and attacked by a Knight has S = 0, because Black would not make the capture. S is necessarily zero or positive.
+```C++Thus a White Knight defended by a Pawn and attacked by a Knight and a Bishop has S = 10 (White loses a Knight and Pawn for a Knight), whereas a White Pawn defended by a Pawn and attacked by a Knight has S = 0, because Black would not make the capture. S is necessarily zero or positive.
 
 ```
 
 
-```C++
-If only one Black piece en prise has a positive value S, White adds 5 to the value of his position. For suppose a Black Queen is attacked by a Pawn, it would be wrong to credit White with the full 90 points, since Black will almost certainly move his Queen, but White does score 5 for having the "initiative". If two or more Black pieces are en prise with positive value of S, White adds the second highest value of S, plus 5 for every other positive value; this supposes that Black will move the piece with the highest S.
+```C++If only one Black piece en prise has a positive value S, White adds 5 to the value of his position. For suppose a Black Queen is attacked by a Pawn, it would be wrong to credit White with the full 90 points, since Black will almost certainly move his Queen, but White does score 5 for having the "initiative". If two or more Black pieces are en prise with positive value of S, White adds the second highest value of S, plus 5 for every other positive value; this supposes that Black will move the piece with the highest S.
 
 ```
 
 
-```C++
-For the White pieces en prise, SOMA subtracts from the value of his position the highest value of S, plus 5 for every other White piece with a positive value of S.
+```C++For the White pieces en prise, SOMA subtracts from the value of his position the highest value of S, plus 5 for every other White piece with a positive value of S.
 
 ```
 
 
-```C++
-These rules concerning pieces en prise sound more complicated than they are. They ensure that SOMA will move or defend any White piece which Black can capture with advantage, that he will harry his opponent's pieces (+5 for initiative), and that he will fork his opponent of the opportunity arises, but they do not enable him to foresee a fork by his opponent. The effect of these rules in a more complex position is explained in the [note](SOMA#note23 "SOMA") to move 23 below. 
+```C++These rules concerning pieces en prise sound more complicated than they are. They ensure that SOMA will move or defend any White piece which Black can capture with advantage, that he will harry his opponent's pieces (+5 for initiative), and that he will fork his opponent of the opportunity arises, but they do not enable him to foresee a fork by his opponent. The effect of these rules in a more complex position is explained in the [note](SOMA#note23 "SOMA") to move 23 below. 
 
 ```
 
@@ -75,14 +68,12 @@ These rules concerning pieces en prise sound more complicated than they are. The
 
 
 
-```C++
-In addition to these three main items, the value of the pieces, the squares attacked and the expected gains and losses from swapping off, SOMA has rules which encourage [castling](Castling "Castling"), which discourage him from leaving pieces where they can be threatened by an opponent's pawn advance, and which enable him to allow for the fact that one of his pieces is [pinned](Pin "Pin").
+```C++In addition to these three main items, the value of the pieces, the squares attacked and the expected gains and losses from swapping off, SOMA has rules which encourage [castling](Castling "Castling"), which discourage him from leaving pieces where they can be threatened by an opponent's pawn advance, and which enable him to allow for the fact that one of his pieces is [pinned](Pin "Pin").
 
 ```
 
 
-```C++
-Except for the occasional need to toss a coin, SOMA's next move is determined by the results of a rigidly defined calculation, which could in principle performed by a computer. A single move takes a human about five minutes to calculate. Machiavelli works along similar lines, but has more instructions concerning the strategical value of his position, and rather less tactical insight. 
+```C++Except for the occasional need to toss a coin, SOMA's next move is determined by the results of a rigidly defined calculation, which could in principle performed by a computer. A single move takes a human about five minutes to calculate. Machiavelli works along similar lines, but has more instructions concerning the strategical value of his position, and rather less tactical insight. 
 
 ```
 
@@ -127,8 +118,7 @@ Qe6 17.Ba5 Ng3 18.Qf3 Nxf1 19.Rxf1 f6 20.Rd1 Qe4 21.Qxe4 dxe4 22.d5 cxd5 23.Rxd5
 
 
 
-```C++
-Machiavelli misses 23... Bh2+ 24. Kxh2 Rxe5, SOMA would have played this move. After Bh2+ there would be two white pieces en prise, the King and Rook, with S=1,000 and S=50, for which SOMA playing Black, would score +55; there would be one Black piece, the Bishop en prise, with S=30, for which SOMA would score -30. So, apart from the value of squares attacked, the move would score 25, which is more than any other. 
+```C++Machiavelli misses 23... Bh2+ 24. Kxh2 Rxe5, SOMA would have played this move. After Bh2+ there would be two white pieces en prise, the King and Rook, with S=1,000 and S=50, for which SOMA playing Black, would score +55; there would be one Black piece, the Bishop en prise, with S=30, for which SOMA would score -30. So, apart from the value of squares attacked, the move would score 25, which is more than any other. 
 
 ```
 
@@ -144,8 +134,7 @@ Based on the program's name with its swap-off feature, SOMA has become an acrony
 
 
 
-```C++
-Michie's book provides an excellent treatment of exchange evaluation. He uses the concept of a exchange polynomial for accurately determining the outcome of battles engaged on the board. The basic approach we used in XCHNG <a id="cite-note-9" href="#cite-ref-9">[9]</a>, the Sargon exchange evaluator, turned out to be surprisingly similar. Sargon's approach, however, is far less computationally complex. We highly recommend this reference to anyone plannig to write a chess program without look-ahead. 
+```C++Michie's book provides an excellent treatment of exchange evaluation. He uses the concept of a exchange polynomial for accurately determining the outcome of battles engaged on the board. The basic approach we used in XCHNG <a id="cite-note-9" href="#cite-ref-9">[9]</a>, the Sargon exchange evaluator, turned out to be surprisingly similar. Sargon's approach, however, is far less computationally complex. We highly recommend this reference to anyone plannig to write a chess program without look-ahead. 
 
 ```
 

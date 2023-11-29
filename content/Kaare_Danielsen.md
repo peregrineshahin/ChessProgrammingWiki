@@ -20,8 +20,7 @@ Quote from *Resume for Kaare Danielsen* <a id="cite-note-4" href="#cite-ref-4">[
 
 
 
-```C++
-Founded the company LogiSoft ApS and developed a 4K chess computer, which was sold in approximately 200.000 units, and a 16K chess computer, which was sold in approximately 50.000 units. The 16K chess computer was one of the best 16K chess computers at the time, and the 4K chess computer is still the strongest 4K chess computer in the world. My work with chess computers has given me a lot of experience with development of mass-market software, where the quality requirements are extreme. For instance, my contracts stated that I had to pay the cost of making new masks, approximately 5000 dollars, if any bugs were found in my programs. My contract also stated that I was not entitled to any pay at all, if my programs were not finished in time for the Christmas sale. 
+```C++Founded the company LogiSoft ApS and developed a 4K chess computer, which was sold in approximately 200.000 units, and a 16K chess computer, which was sold in approximately 50.000 units. The 16K chess computer was one of the best 16K chess computers at the time, and the 4K chess computer is still the strongest 4K chess computer in the world. My work with chess computers has given me a lot of experience with development of mass-market software, where the quality requirements are extreme. For instance, my contracts stated that I had to pay the cost of making new masks, approximately 5000 dollars, if any bugs were found in my programs. My contract also stated that I was not entitled to any pay at all, if my programs were not finished in time for the Christmas sale. 
 
 ```
 

@@ -20,14 +20,12 @@ given by [Paul Rushton](Paul_Rushton "Paul Rushton") and [Tony Marsland](Tony_Ma
 
 
 
-```C++
-A goal directed approach to the game was adopted by Newell, Shaw, and Simon. Features of the game were associated with goals, each of which required a [move generator](Move_Generation "Move Generation"), a [static evaluator](Evaluation "Evaluation"), and an analysis procedure. For ease of modification, each goal consisted of a separate procedure. In order to select which goals were relevant to a position, a preliminary analysis routine was invoked and the corresponding goals chosen were ordered by their suspected importance. This static set of goals controls the move generation process, including selection of variations, evaluation, and final choice.
+```C++A goal directed approach to the game was adopted by Newell, Shaw, and Simon. Features of the game were associated with goals, each of which required a [move generator](Move_Generation "Move Generation"), a [static evaluator](Evaluation "Evaluation"), and an analysis procedure. For ease of modification, each goal consisted of a separate procedure. In order to select which goals were relevant to a position, a preliminary analysis routine was invoked and the corresponding goals chosen were ordered by their suspected importance. This static set of goals controls the move generation process, including selection of variations, evaluation, and final choice.
 
 ```
 
 
-```C++
-Move generators for goals were responsible for proposing moves relevant to a particular goal and finding positive reasons for making these. The generators did not suggest continuations. A proposed move had then to be valued by an analysis procedure which was concerned with acceptability of that move. Before a position can be assigned a value it must be dead with respect to all goals. If a position is not dead for a particular goal, moves are suggested by the corresponding move generator and the resultant positions are checked to see if they are quiescent for all goals. If not, the above procedure is repeated, constituting an analysis of variations, until a position is reached which can be evaluated. The final choice depends on an acceptance value and if a move receives a value greater than this threshold it is played, otherwise the best move found by the [alpha-beta](Alpha-Beta "Alpha-Beta") backing up procedure will be made. This program did not realize the state of development and use that the more recent programs have; however, hand simulation gave an indication, in the openings at least, that the program would make moves for reasons similar to those of chess players. 
+```C++Move generators for goals were responsible for proposing moves relevant to a particular goal and finding positive reasons for making these. The generators did not suggest continuations. A proposed move had then to be valued by an analysis procedure which was concerned with acceptability of that move. Before a position can be assigned a value it must be dead with respect to all goals. If a position is not dead for a particular goal, moves are suggested by the corresponding move generator and the resultant positions are checked to see if they are quiescent for all goals. If not, the above procedure is repeated, constituting an analysis of variations, until a position is reached which can be evaluated. The final choice depends on an acceptance value and if a move receives a value greater than this threshold it is played, otherwise the best move found by the [alpha-beta](Alpha-Beta "Alpha-Beta") backing up procedure will be made. This program did not realize the state of development and use that the more recent programs have; however, hand simulation gave an indication, in the openings at least, that the program would make moves for reasons similar to those of chess players. 
 
 ```
 
@@ -39,8 +37,7 @@ Move generators for goals were responsible for proposing moves relevant to a par
 
 
 
-```C++
-In 1958, a chess program (NSS) beat a human player for the first time. The human player was a secretary who was taught how to play chess one hour before her game with the computer. The computer program was played on an IBM 704. The computer displayed a level of chess-playing expertise greater than an adult human could gain from one hour of chess instruction. 
+```C++In 1958, a chess program (NSS) beat a human player for the first time. The human player was a secretary who was taught how to play chess one hour before her game with the computer. The computer program was played on an IBM 704. The computer displayed a level of chess-playing expertise greater than an adult human could gain from one hour of chess instruction. 
 
 ```
 

@@ -17,7 +17,6 @@ Betsabe was initially based on [Dieter Steinwender's](Dieter_Steinwender "Dieter
 Betsabe II maintains a [10x12 board](10x12_Board "10x12 Board") as internal [board representation](Board_Representation "Board Representation") and to [generate moves](Move_Generation "Move Generation"). Definition of (part of) the [initial position](Initial_Position "Initial Position") <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
 ```C++
-
 const int Tablero_Inicio[120] =  {
 FUERA, FUERA,  FUERA,  FUERA,  FUERA,  FUERA,  FUERA,  FUERA,  FUERA, FUERA,
 FUERA, FUERA,  FUERA,  FUERA,  FUERA,  FUERA,  FUERA,  FUERA,  FUERA, FUERA,

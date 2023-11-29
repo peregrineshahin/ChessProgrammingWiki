@@ -15,8 +15,7 @@ Along with [Stef Keetman](Stef_Keetman "Stef Keetman"), he developed the Draught
 
 from Ard's Chesspage <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```C++
-Also, when I was a student, I started to develop my own chess program which competed many times in the [Dutch National Championship](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship") organised by the [CSVN](CSVN "CSVN"). The best result my program obtained was a shared second place in 1983. It also competed twice ([Cologne 1986](WCCC_1986 "WCCC 1986") and [Edmonton 1989](WCCC_1989 "WCCC 1989")) in the World Championship organised by the [ICCA](ICCA "ICCA") (now [ICGA](ICGA "ICGA")). 
+```C++Also, when I was a student, I started to develop my own chess program which competed many times in the [Dutch National Championship](Dutch_Open_Computer_Chess_Championship "Dutch Open Computer Chess Championship") organised by the [CSVN](CSVN "CSVN"). The best result my program obtained was a shared second place in 1983. It also competed twice ([Cologne 1986](WCCC_1986 "WCCC 1986") and [Edmonton 1989](WCCC_1989 "WCCC 1989")) in the World Championship organised by the [ICCA](ICCA "ICCA") (now [ICGA](ICGA "ICGA")). 
 
 ```
 

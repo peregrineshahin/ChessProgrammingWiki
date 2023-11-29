@@ -140,8 +140,7 @@ Information windows are associated with an engine actually playing or analyzing 
 
 [Harm Geert Muller](Harm_Geert_Muller "Harm Geert Muller") wrote on a [Talkchess](Talkchess "Talkchess") thread <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
-```C++
-Beware that writing a GUI is between 10 and 100 times more work than writing an engine.
+```C++Beware that writing a GUI is between 10 and 100 times more work than writing an engine.
 
 ```
 

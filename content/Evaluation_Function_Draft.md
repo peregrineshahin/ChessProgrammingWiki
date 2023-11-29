@@ -33,7 +33,6 @@ Throughout the draft it will be assumed that the program has the following capab
 When the program is turned on, it must fill the tables with bonuses for [distance](Distance "Distance") between any two squares that will be used for evaluating [king tropism](King_Safety#KingTropism "King Safety"). The following formula is borrowed from the masters thesis by [Adam Kujawski](Adam_Kujawski "Adam Kujawski") <a id="cite-note-1" href="#cite-ref-1">[1]</a> and modified in such a way that all the scores become positive. It assumes that both rows and columns are numbered from 0 to 7 and that we have a function "abs" returning the value without the sign.
 
 ```C++
-
 /* initializes the table of distances between squares */
 void setDist() {
    int i,j;
@@ -51,7 +50,6 @@ void setDist() {
 Taking this function as a basis, tropism tables for various piece types will be derived within its body, just after determining the value of dist_bonus\[i\]\[j\].
 
 ```C++
-
    qk_dist[i][j] = (dist_bonus[i][j] * 5) / 2;
    rk_dist[i][j] =  dist_bonus[i][j] / 2;
    nk_dist[i][j] =  dist_bonus[i][j];
@@ -61,7 +59,6 @@ Taking this function as a basis, tropism tables for various piece types will be 
 At the beginning we can assume that bk_dist is equal to rk_dist, but there is a better idea, taking into account the relevance of a [diagonal](Diagonals "Diagonals"). To apply it, we need two tables numbering the diagonals and [anti-diagonals](Anti-Diagonals "Anti-Diagonals").
 
 ```C++
-
 int diag_nw[64] = {
    0, 1, 2, 3, 4, 5, 6, 7,
    1, 2, 3, 4, 5, 6, 7, 8,
@@ -89,7 +86,6 @@ int diag_ne[64] = {
 Now we have to incorporate the following code
 
 ```C++
-
 int bonus_dia_distance[15] = {5, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
 kb_dist [i][j] += bonus_dia_distance[abs(diag_ne[i] - diag_ne[j])];
 kb_dist [i][j] += bonus_dia_distance[abs(diag_nw[i] - diag_nw[j])];
@@ -107,7 +103,6 @@ Here You can view the complete proposal of the [initialization routine](Initiali
 Our simple King safety routine works as follows: evaluating each piece we update two variables: tropismToWhiteKing and tropismToBlackKing, feeding them with the values from the distance tables (see initialization for their details). Then the pawn shield value is computed (I'd like it to be 0 for a complete pawn shield, growing negative as defects accumulate). Finally, the following formula is applied:
 
 ```C++
-
 whiteKingSafety = ( (whiteKingShield - tropismToWhiteKing) * blackPieceMaterial ) / INITIAL_PIECE_MATERIAL;
 blackKingSafety = ( (blackKingShield - tropismToBlackKing) * whitePieceMaterial ) / INITIAL_PIECE_MATERIAL;
 

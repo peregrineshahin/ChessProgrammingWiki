@@ -12,8 +12,7 @@ the second chess program by [Jean-Christophe Weill](Jean-Christophe_Weill "Jean-
 
 from [Don Beal's](Don_Beal "Don Beal") [WMCCC 1991](WMCCC_1991 "WMCCC 1991") report <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
-```C++
-Written by Jean-Christophe Weill, in association with Marc-François Baudot of [Échec](%C3%89chec "Échec"), this is a new program, only in development for 7 months, although it made its first appearance at the [1990 World Micro](WMCCC_1990 "WMCCC 1990"). Its [evaluation function](Evaluation_Function "Evaluation Function") has some overlap with Échec, although Cumulus add [hung-piece](Hanging_Piece "Hanging Piece") considerations, [king safety](King_Safety "King Safety") and uses different definition of [mobility](Mobility "Mobility"). Its [selectivity](Selectivity "Selectivity") is driven by swap-off values and certain mate threats. [Checks](Check_Extensions "Check Extensions"), [promotion threats](Promotions "Promotions"), and [re-captures](Recapture_Extensions "Recapture Extensions") are [extended](Extensions "Extensions"). 
+```C++Written by Jean-Christophe Weill, in association with Marc-François Baudot of [Échec](%C3%89chec "Échec"), this is a new program, only in development for 7 months, although it made its first appearance at the [1990 World Micro](WMCCC_1990 "WMCCC 1990"). Its [evaluation function](Evaluation_Function "Evaluation Function") has some overlap with Échec, although Cumulus add [hung-piece](Hanging_Piece "Hanging Piece") considerations, [king safety](King_Safety "King Safety") and uses different definition of [mobility](Mobility "Mobility"). Its [selectivity](Selectivity "Selectivity") is driven by swap-off values and certain mate threats. [Checks](Check_Extensions "Check Extensions"), [promotion threats](Promotions "Promotions"), and [re-captures](Recapture_Extensions "Recapture Extensions") are [extended](Extensions "Extensions"). 
 
 ```
 

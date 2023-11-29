@@ -206,8 +206,7 @@ Nf8 41.Na4 Rdc8 42.Rd1 Kg7 43.Rd6 f6 44.Re2 e5 45.Red2 g5 46.Nb6 Rb8 47.a4 1-0
 
 
 
-```C++
-Calling Fritz "the world's leading chess computer program" is not just stretching the truth, it's blatantly untrue. I refuse to believe that ChessBase is unaware of the existence of chess programs stronger than Fritz. They are lying, plain and simple. It is also getting boring to always watch the same programs get the chance to play against the top GMs. 
+```C++Calling Fritz "the world's leading chess computer program" is not just stretching the truth, it's blatantly untrue. I refuse to believe that ChessBase is unaware of the existence of chess programs stronger than Fritz. They are lying, plain and simple. It is also getting boring to always watch the same programs get the chance to play against the top GMs. 
 
 ```
 
@@ -219,14 +218,12 @@ Calling Fritz "the world's leading chess computer program" is not just stretchin
 
 
 
-```C++
-Since December 2006, the (computer-)chess world has a new Overchampion, in the entity DEEP FRITZ 10. The way the program won its match against World Champion Vladimir Kramnik was superb. If we disregard the win in the second game and only at the final game, we must admit that DEEP FRITZ 10 is the better player, the Overchampion. The Overchampion most clearly showed its strength in game six by introducing a novelty followed by a couple of brilliant ideas. Our congratulations go to [Frans Morsch](Frans_Morsch "Frans Morsch"), [Mathias Feist](Mathias_Feist "Mathias Feist"), and the [ChessBase](ChessBase "ChessBase") team for their continuous improvements of the program, their perseverance to reach this goal, and their outstanding achievement.
+```C++Since December 2006, the (computer-)chess world has a new Overchampion, in the entity DEEP FRITZ 10. The way the program won its match against World Champion Vladimir Kramnik was superb. If we disregard the win in the second game and only at the final game, we must admit that DEEP FRITZ 10 is the better player, the Overchampion. The Overchampion most clearly showed its strength in game six by introducing a novelty followed by a couple of brilliant ideas. Our congratulations go to [Frans Morsch](Frans_Morsch "Frans Morsch"), [Mathias Feist](Mathias_Feist "Mathias Feist"), and the [ChessBase](ChessBase "ChessBase") team for their continuous improvements of the program, their perseverance to reach this goal, and their outstanding achievement.
 
 ```
 
 
-```C++
-Meanwhile we observe that there are many runners-up. They believe that they are equally strong or even stronger than the Overchampion. In this issue [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen") provides overview of the 2005 revolution and the ratings of the runners-up. He discusses [Rybka](Rybka "Rybka"), [Zappa](Zappa "Zappa"), [Fruit](Fruit "Fruit"), mentions [Hydra](Hydra "Hydra"), as well as [Junior](Junior "Junior"), [Shredder](Shredder "Shredder") and [Fritz](Fritz "Fritz"). Whatever the case, the current situation is as follows: Junior is the 2006 World Champion and Deep Fritz 10 the 2006 Overchampion. 
+```C++Meanwhile we observe that there are many runners-up. They believe that they are equally strong or even stronger than the Overchampion. In this issue [Jeroen Noomen](Jeroen_Noomen "Jeroen Noomen") provides overview of the 2005 revolution and the ratings of the runners-up. He discusses [Rybka](Rybka "Rybka"), [Zappa](Zappa "Zappa"), [Fruit](Fruit "Fruit"), mentions [Hydra](Hydra "Hydra"), as well as [Junior](Junior "Junior"), [Shredder](Shredder "Shredder") and [Fritz](Fritz "Fritz"). Whatever the case, the current situation is as follows: Junior is the 2006 World Champion and Deep Fritz 10 the 2006 Overchampion. 
 
 ```
 

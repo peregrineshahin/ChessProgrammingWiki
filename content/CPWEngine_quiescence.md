@@ -5,7 +5,6 @@ title: CPWEngine quiescence
 
 ```C++
 
-
 ##include "stdafx.h"
 ##include "0x88_math.h"
 
