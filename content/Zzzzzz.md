@@ -22,7 +22,6 @@ When a piece captures, a capture flag is set on that piece. In the quiescence I 
 ```
 
 ```C++
-
 ##define QUIES_MAX 2
 
 int quies(int depth, int alpha, int beta)

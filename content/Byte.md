@@ -12,7 +12,6 @@ The programming languages [C](C "C") and [C++](Cpp "Cpp") define a byte as a "ad
 The [C](C "C")-datatype **unsigned char** covers one byte and has a numerical range of 0 to 255. The primitive **char** in [Java](Java "Java") is a signed byte, and ranges from -128 to +127. Same is likely true for signed char in C, though [two's complement](https://en.wikipedia.org/wiki/Two%27s_complement) is not strictly specified. Same is true for signed right shifts, where [x86](X86 "X86") performs shift arithmetical right, but other processors and their compilers possibly shift in always zeros. Bytes are therefor often type defined as **unsigned char** in C:
 
 ```C++
-
 typedef unsigned char BYTE;
 
 ```
@@ -26,7 +25,6 @@ A byte can be written with two hexadecimal digits, 0x00 to 0xff in [C](C "C") or
 To apply 'add' or 'sub' on vectors of bytes (or any arbitrary structure) [SWAR-wise](SIMD_and_SWAR_Techniques#SWAR "SIMD and SWAR Techniques") within a 32-bit or 64-bit register, we have to take care carries and borrows don't wrap around. Thus we apply a mask of all most significant bits (H) and 'add' in two steps, one 'add' with MSB clear and one add modulo 2 aka 'xor' for the MSB itself. For byte-wise math of a vector of four bytes inside a 32-bit register, H is 0x80808080 and L is 0x01010101.
 
 ```C++
-
 SWAR add z = x + y
     z = ((x &~H) + (y &~H)) ^ ((x ^ y) & H)
  

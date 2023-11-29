@@ -93,7 +93,6 @@ It turns out that most of these rules can be met, while remaining within the fra
 
 
 ```C++
-
  B > N > 3P
  B + N = R + 1.5P
  Q + P = 2R
@@ -106,7 +105,6 @@ which might be satisfied by (values in [centipawns](Centipawns "Centipawns")):
 
 
 ```C++
-
  P = 100
  N = 320
  B = 330
@@ -311,7 +309,6 @@ The corresponding fragment of intermediate file looks like:
 
 
 ```C++
-
  0  0  0  0  0  0
  1  0  0  0  0  0
  2  0  0  0  0  0

@@ -57,7 +57,6 @@ For instance [East Attacks](SSE2#EastAttacks "SSE2") based on SIMD-wise [Fill by
 
 
 ```C++
-
 __m64 eastAttacks (__m64 occ, __m64 rooks) {
    __m64 tmp;
    occ  = _mm_or_si64 (occ, rooks);  //  make rooks member of occupied
@@ -81,7 +80,6 @@ __m64 eastAttacks (__m64 occ, __m64 rooks) {
 
 
 ```C++
-
 ##include "amd3d.h"
 
 __declspec (naked) unsigned int __stdcall popcount64 (unsigned __int64 v)

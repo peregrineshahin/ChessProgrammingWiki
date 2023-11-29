@@ -12,7 +12,6 @@ The [pieces](Pieces "Pieces") are divided, into white and black sets, but their 
 Since there are only two colors, one bit is sufficient to encode them. This is how one may define colors in [C++](Cpp "Cpp"):
 
 ```C++
-
 enum enumColor {
    ecWhite = 0,
    ecBlack = 1
@@ -25,7 +24,6 @@ enum enumColor {
 Since the players alternately move, one need to toggle the [side to move](Side_to_move "Side to move") color after each [move](Moves "Moves") made inside the [Chess Position](Chess_Position "Chess Position") object. This can be done by subtracting color from one (ecBlack), ...
 
 ```C++
-
 inline enumColor toggleColor(enumColor color) {
    return ecBlack - color;
 }
@@ -35,7 +33,6 @@ inline enumColor toggleColor(enumColor color) {
 ... or a little bit cheaper, by xoring the color as left operand inside a register or memory cell with an immediate constant (ecBlack).
 
 ```C++
-
 inline enumColor toggleColor(enumColor color) {
    return color ^ ecBlack;
 }

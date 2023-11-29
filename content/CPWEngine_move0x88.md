@@ -8,7 +8,6 @@ Both move_make and move_unmake call the functions fillSq(color, piece, square) a
 ## Code
 
 ```C++
-
 ##include "stdafx.h"
 ##include "transposition.h"
 

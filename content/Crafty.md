@@ -81,7 +81,6 @@ Crafty had always mapped square-index 0 to square 'a1', 7 to 'h1', and 63 to 'h8
 [Trailing zero count](BitScan#TrailingZeroCount "BitScan") aka bitscan forward for non empty sets as used in [bitboard serialization](Bitboard_Serialization "Bitboard Serialization") for [move generation](Move_Generation "Move Generation") and [evaluation](Evaluation "Evaluation") purposes, is implemented with [x86-64](X86-64 "X86-64") [bsf instruction](BitScan#bsfbsr "BitScan") via intrinsic or [inline assembly](Assembly#InlineAssembly "Assembly") if available (there are also 32-bit [x86](X86 "X86") bsf versions), and a conditional 16-bit [byte](Byte "Byte") lookup approach otherwise - [Windows 64](Windows "Windows"), [Linux 64](Linux "Linux") and lookup versions with preprocessor instructions for conditional compiles omitted <a id="cite-note-15" href="#cite-ref-15">[15]</a>:
 
 ```C++
-
 int LSB(BITBOARD arg1) {
   unsigned long index;
   if (_BitScanForward64(&index, arg1))
@@ -120,7 +119,6 @@ int LSB(BITBOARD arg1) {
 Earlier Crafty versions prior to 20.6 had a [leading zero count](BitScan#LeadingZeroCount "BitScan") compliant, [big-endian](Big-endian "Big-endian") rank-file mapping. Left-bottom square (from White's point of view) 'a1' with square-index 0 was mapped to the leftmost, arithmetical most significant bit of an unsigned 64-bit integer with bit-index 63, while square 'h8' with square-index 63, was mapped to the rightmost, arithmetical least significant bit with bit-index 0. Bitscan forward and found index [reversal](Flipping_Mirroring_and_Rotating#Rotationby180degrees "Flipping Mirroring and Rotating") was used in LastOne, to retrieve squares in **h8-a1** order <a id="cite-note-16" href="#cite-ref-16">[16]</a>:
 
 ```C++
-
 int LastOne(BITBOARD arg1)
 {
   unsigned long index;
@@ -135,7 +133,6 @@ int LastOne(BITBOARD arg1)
 This one was found in 15.17 with [Mac OS](Mac_OS "Mac OS") support <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 
 ```C++
-
 int LastOne(register BITBOARD a)
 {
   register unsigned long i;

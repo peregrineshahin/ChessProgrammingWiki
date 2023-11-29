@@ -70,7 +70,6 @@ The hardware [move generator](Move_Generation "Move Generation") consists of 64 
 Transmitter (XMIT), receiver (RECV), piece register, and [ray-](Rays "Rays") and [direction](Direction "Direction") [multiplexer](https://en.wikipedia.org/wiki/Multiplexer) for each square <a id="cite-note-12" href="#cite-ref-12">[12]</a>. The opcode (OP) input is either find victim or aggressor. It controls the transmitters and the order of the receiver outputs as input of the two level [priority encoding](https://en.wikipedia.org/wiki/Priority_encoder) tree.
 
 ```C++
-
                                                ╔══╗
   ┌─────────┐ 64 Disable            OP   2 PW ┌╢≥1╟═◄ 2 Pawn Move
   │ Disable ╞═/═════╣64|1╟───────┐   │   ╔══/═╡╠══╣               63 other K ┌──┐
@@ -131,7 +130,6 @@ The find **aggressor** opcode causes only the addressed victim transmitter to ra
 Without further [sequential logic](Sequential_Logic "Sequential Logic") subsequent find victim and aggressor cycles would always leave the same victim and same aggressor. A [stack](Stack "Stack") of 64-bit disable words is used for bookkeeping per [ply](Ply "Ply"), keeping the move generation state by consecutively disabling victims, and per victim, its aggressors. After [making](Make_Move "Make Move"), processing and [unmaking move](Unmake_Move "Unmake Move"), the aggressor's from-square of the current victim (to-square) is disabled, so that the next aggressor square is found in consecutive find aggressor cycles, until all from-squares are exhausted. Then, the victim to-square is disabled, and all origin squares of own pieces - always disjoint from their to-squares - are enabled again, to continue with a new find victim cycle until no more are found. In [C](C "C") like pseudo code with [Bitboards](Bitboards "Bitboards") the control flow looks as follows:
 
 ```C++
-
 disable[ply] = 0;
 while ( ( to = findMVV(disable[ply])) >= 0 ) {
   disable[ply] &= ~ownPieces;  /* enable all possible from-squares */

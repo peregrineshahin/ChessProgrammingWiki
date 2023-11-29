@@ -19,7 +19,6 @@ As an further example, a sequential logic may perform the same task as mentioned
 
 
 ```C++
-
                                              +-------+
                                 +------+     |       |
  o--/64/-- empty(square) -/64/--| 64:1 |---->|       |-----o result reliable / otherwise processing after reset

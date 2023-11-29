@@ -53,7 +53,6 @@ The Material Balance is finally returned as the almost most dominating evaluatio
 
 
 ```C++
-
 md := material[side_2_move] - material[side_2_move ^ 1];
 
 ```

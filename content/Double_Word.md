@@ -10,7 +10,6 @@ According to [Intel's](Intel "Intel") definition of a [x86](X86 "X86") 16-bit [W
 Even in [x86-64](X86-64 "X86-64"), double words are still considered as default word size. [x86](X86 "X86") and and [x86-64](X86-64 "X86-64") [C-Compiler](index.php?title=C-Compiler&action=edit&redlink=1 "C-Compiler (page does not exist)") use double words as signed and unsigned integers, [Java](Java "Java") integers as well. Microsoft 64 bit compiler long is a 32-bit Double word as well, while with 64-bit [GCC](Free_Software_Foundation#GCC "Free Software Foundation") uses 64-bit [Quad Words](Quad_Word "Quad Word") as longs.
 
 ```C++
-
 typedef unsigned int DWORD;
 
 ```

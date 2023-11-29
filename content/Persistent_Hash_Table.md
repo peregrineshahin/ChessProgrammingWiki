@@ -24,7 +24,6 @@ A relative small [transposition table](Transposition_Table "Transposition Table"
 
 
 ```C++
-
  6   bytes Hash code
  2x2 bytes Score window
  2   bytes Best Move, if any
@@ -66,7 +65,6 @@ The short term memory (STM) or [transposition table](Transposition_Table "Transp
 
 
 ```C++
-
  4 bytes Hash code used as STM memory address
  4 bytes Hash code used for match verification
  2 bytes Search height
@@ -85,7 +83,6 @@ The long term memory (LTM) entries are stored on disk and therefor retained betw
 
 
 ```C++
-
  4 bytes Hash code used as STM memory address
  4 bytes Hash code used for match verification
  2 bytes Depth of search
@@ -108,7 +105,6 @@ The algorithm consists of two phases. One creates (or overwrites) the LTM entrie
 
 
 ```C++
-
  Position-score lower limit = Position-score - fuzzy tolerance (up to 0.2 pawn units for none draw or mate scores)
  Position-score upper limit = Position-score + fuzzy tolerance
 

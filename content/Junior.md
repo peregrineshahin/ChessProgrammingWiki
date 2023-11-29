@@ -100,7 +100,6 @@ You can create an object as you create an int, by putting it as an auto variable
 
 
 ```C++
-
  alphabeta(...)
  {
    ...

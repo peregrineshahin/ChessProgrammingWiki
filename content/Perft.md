@@ -22,7 +22,6 @@ Assuming the above code used a legal move generator. The algorithm is simple, sh
 
 
 ```C++
-
 u64 Perft(int depth /* assuming >= 1 */)
 {
   MOVE move_list[256];
@@ -53,7 +52,6 @@ To generate legal moves some programs have to make moves first, call a function 
 
 
 ```C++
-
 u64 Perft(int depth)
 {
   MOVE move_list[256];
@@ -91,7 +89,6 @@ The Divide command is often implemented as a variation of Perft, listing all mov
 
 
 ```C++
-
 go perft 5
 a2a3: 181046
 b2b3: 215255

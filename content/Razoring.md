@@ -27,7 +27,6 @@ There is even a more aggressive pruning technique at depth = 4 nodes, called Dee
 
 
 ```C++
-
 fscore = mat_balance(current) + razor_margin;
 if (!extend
  && (depth == PRE_PRE_FRONRIER)
@@ -62,7 +61,6 @@ This code snippet appears in [Crafty 15.17](Crafty "Crafty") <a id="cite-note-6"
 
 
 ```C++
-
 /*
  ----------------------------------------------------------
 |                                                          |
@@ -91,7 +89,6 @@ A different razoring approach was proposed by [Robert Hyatt](Robert_Hyatt "Rober
 
 
 ```C++
-
 /*
 ************************************************************
 *                                                          *
@@ -127,7 +124,6 @@ Similar code appears in [Jury Osipov's](Jury_Osipov "Jury Osipov") [open source 
 
 
 ```C++
-
   value = eval + 125;
   if (value < beta) {
     if (depth == 1) {

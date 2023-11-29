@@ -40,7 +40,6 @@ They are stored in typical ways for games and positions:
 
 
 ```C++
-
 (e4(e5)(c5))(d4d5)) etc.
 
 ```

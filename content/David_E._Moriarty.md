@@ -16,7 +16,6 @@ SANE selects a population of hidden neurons of a "vanilla" three-layer feed-forw
 performing following basic steps in one generation <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
 ```C++
-
 1. Clear all fitness values from each neuron
 2.   Select neurons randomly from the population
 3.   Create a neural network from the selected neurons

@@ -29,7 +29,6 @@ The [BNF](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_Form)-like [Syntax](
 
 
 ```C++
-
 <PGN-database> ::= <PGN-game> <PGN-database>
                    <empty>
 
@@ -98,7 +97,6 @@ popcnt(n) = popcnt(n ÷ 2) + (n mod 2)
 
 
 ```C++
-
 <expression> ::= <term>   [ {'+' | '-'} <term> ]...
       <term> ::= <factor> [ {'*' | '/'} <factor> ]...
     <factor> ::= <constant> | '(' <expression> ')'

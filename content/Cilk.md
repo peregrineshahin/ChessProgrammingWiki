@@ -20,7 +20,6 @@ The keyword "**cilk**" defines a function which can [spawned](https://en.wikiped
 This is how an [alpha-beta](Alpha-Beta "Alpha-Beta") search routine was implemented with Cilk-5 <a id="cite-note-3" href="#cite-ref-3">[3]</a>, using the five keywords **cilk**, **spawn**, **sync**, **inlet** and **abort**:
 
 ```C++
-
 cilk int search( position *prev, int move, int depth ) {
    position cur; int bestscore = -oo, num_moves, mv, sc, cutoff = false;
   

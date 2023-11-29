@@ -19,7 +19,6 @@ an [USI](USI "USI") compliant [open source](Category:Open_Source "Category:Open 
 
 
 ```C++
-
 // Bitboard 本体クラス
 
 struct alignas(16) Bitboard

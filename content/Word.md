@@ -17,7 +17,6 @@ On recent 32-bit and 64-bit processors the primitive [C](C "C") datatype **short
 
 
 ```C++
-
 typedef unsigned char  BYTE;
 typedef unsigned short WORD;
 
@@ -87,7 +86,6 @@ Following C union to extract or synthesize bytes from/in words, is not portable 
 
 
 ```C++
-
 union {
    BYTE b[2];
    WORD s;
@@ -104,7 +102,6 @@ The portable way in C can be done with inlined functions or C preprocessor macro
 
 
 ```C++
-
 BYTE lowByte (WORD s) {return (BYTE)(s & 255);} // mod 256
 BYTE highByte(WORD s) {return (BYTE)(s >>  8);} // div 256
 

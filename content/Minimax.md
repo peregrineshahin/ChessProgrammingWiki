@@ -22,7 +22,6 @@ Below the pseudo code for an indirect [recursive](Recursion "Recursion") [depth-
 
 
 ```C++
-
 int maxi( int depth ) {
     if ( depth == 0 ) return evaluate();
     int max = -oo;

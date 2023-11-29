@@ -39,7 +39,6 @@ The C language provides the four basic arithmetic type specifiers char, int, flo
 *To be aware of the scalar 64-bit origin of [bitboards](Bitboards "Bitboards") in computer chess, we use so far a type defined unsigned integer U64 in our C and [C++](Cpp "Cpp") source snippets. The macro C64 will append a suffix to 64-bit constants as required by some compilers*:
 
 ```C++
-
 typedef unsigned __int64 U64;    // for the old microsoft compilers
 typedef unsigned long long  U64; // supported by MSC 13.00+ and C99
 ##define C64(constantU64) constantU64##ULL
@@ -52,7 +51,6 @@ A [pointer](https://en.wikipedia.org/wiki/C_data_types#Pointers) is a data type 
 They are declared with the asterisk (\*) type declarator following the basic storage type and preceding the variable name of the pointer.
 
 ```C++
-
 int * ptr2int;
 
 ```
@@ -62,7 +60,6 @@ int * ptr2int;
 An [array](Array "Array") is a collection of values, all of the same type, stored contiguously in memory. An array of size N is indexed by integers from 0 up to and including N−1.
 
 ```C++
-
 unsigned int moves[256];
 char *pc[10];  /* array of 10 elements of 'pointer to char' */
 char (*pa)[10]; /* pointer to a 10-element array of char */
@@ -76,7 +73,6 @@ In C, array indexing is formally defined in terms of pointer arithmetic; that is
 A structure in C refers to [Object composition](https://en.wikipedia.org/wiki/Object_composition) to encapsulate related scalar datatypes inside one structured item. The size of the structure is the sum of its element sizes. To access the structure elements the dot-operator separates the element from the variable or reference. Pointers require arrow operator.
 
 ```C++
-
 struct MOVE
 {
   char from;
@@ -96,7 +92,6 @@ if ( a.from == b->to )
 So called [Bitfields](https://en.wikipedia.org/wiki/Bit_field) might be implemented as structure where integer members are declared with explicit bit length specifier from 1 .. 31. However due to portability issues of various C-compilers and platforms concerning bit ordering, padding and eventually the sign, most programmer rely on explicit bitfields to composite and extract sub-items by shift and masks, i.e. in [encoding moves](Encoding_Moves "Encoding Moves").
 
 ```C++
-
 struct DoubleLayout
 {
   unsigned int mantissal : 32;
@@ -112,7 +107,6 @@ struct DoubleLayout
 A [value](https://en.wikipedia.org/wiki/Union_type#C/C++) that may have any of several representations within the same position in memory.
 
 ```C++
-
 union BitBoard 
 {
   U64 qw;
@@ -189,7 +183,6 @@ An [expression](<https://en.wikipedia.org/wiki/Expression_(computer_science)>) i
 - [Duff's Device from Wikipedia](https://en.wikipedia.org/wiki/Duff%27s_device)
 
 ```C++
-
 send(to, from, count)
   register short *to, *from;
   register count;

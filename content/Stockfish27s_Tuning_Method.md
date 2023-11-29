@@ -47,7 +47,6 @@ Doing this for only one variable at a time would be a way too slow. Instead we u
 
 
 ```C++
-
  x = 100
  y = 100 
  z = 100
@@ -60,7 +59,6 @@ We would then calculate a random delta with sign for each of these variables bas
 
 
 ```C++
-
  x_delta = +15
  y_delta = -10
  z_delta = +12
@@ -74,7 +72,6 @@ new values are:
 
 
 ```C++
-
  x = 100 + (115 - 100) * 0.002
  y = 100 + ( 90 - 100) * 0.002
  z = 100 + (112 - 100) * 0.002
@@ -107,7 +104,6 @@ But instead using ampli-bias knobs for tables proved to be very successful appro
 
 
 ```C++
-
  new_value = orig_value + var_bias + orig_value * var_amplitude / 100
 
 ```

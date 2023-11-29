@@ -38,7 +38,6 @@ A simple implementation with a linked PV-List on the [stack](Stack "Stack") is d
 
 
 ```C++
-
 typedef struct LINE {
     int cmove;              // Number of moves in the line.
     MOVE argmove[moveMAX];  // The line.

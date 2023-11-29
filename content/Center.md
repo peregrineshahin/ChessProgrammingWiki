@@ -12,7 +12,6 @@ The **Center** of the [chessboard](Chessboard "Chessboard") are the four inner s
 The center [bitboard](Bitboards "Bitboards") has the [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) value of 0x0000001818000000:
 
 ```C++
-
  . . . . . . . .
  . . . . . . . .
  . . . . . . . .
@@ -29,7 +28,6 @@ The center [bitboard](Bitboards "Bitboards") has the [hexadecimal](https://en.wi
 Extended center is 0x00003C3C3C3C0000:
 
 ```C++
-
  . . . . . . . .
  . . . . . . . .
  . . 1 1 1 1 . .

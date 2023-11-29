@@ -51,7 +51,6 @@ Even if this folded "LS1B" contains multiple consecutive one-bits, the multiplic
 
 
 ```C++
-
 const int lsb_64_table[64] =
 {
    63, 30,  3, 32, 59, 14, 11, 33,

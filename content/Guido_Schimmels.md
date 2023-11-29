@@ -21,7 +21,6 @@ The difference is how they handle re-searches: PVS passes alpha/beta while NegaS
 ## PVS
 
 ```C++
-
 value = PVS(-(alpha+1),-alpha)
 if(value > alpha && value < beta) {
   value = PVS(-beta,-alpha);
@@ -32,7 +31,6 @@ if(value > alpha && value < beta) {
 ## NegaScout
 
 ```C++
-
 value = NegaScout(-(alpha+1),-alpha)
 if(value > alpha && value < beta && depth > 1) {
   value2 = NegaScout(-beta,-value)

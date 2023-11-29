@@ -5,7 +5,6 @@ title: CPWEngine utils
 
 ```C++
 
-
 ##include "stdafx.h"
 ##include "0x88_math.h"
 ##include "transposition.h"

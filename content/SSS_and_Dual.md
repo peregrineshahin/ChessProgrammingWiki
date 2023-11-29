@@ -23,7 +23,6 @@ However, it turned out the algorithmic overhead was too big to pay off the saved
 
 
 ```C++
-
 int SSS* (node n; int bound)
 {
    push (n, LIVE, bound);
@@ -118,7 +117,6 @@ based on [Alexander Reinefeld's](Alexander_Reinefeld "Alexander Reinefeld") [Pas
 
 
 ```C++
-
 int RecSS*(nodeType n)
 {
    if (n is leaf) {
@@ -149,7 +147,6 @@ int RecSS*(nodeType n)
 
 
 ```C++
-
 int main()
 {
    insert (root, UNEXPANDED, oo);
@@ -176,7 +173,6 @@ int main()
 
 
 ```C++
-
 int MT-SSS*( n )
 {
    g := +oo;
@@ -191,7 +187,6 @@ int MT-SSS*( n )
 
 
 ```C++
-
 int MT-DUAL*(n)
 {
    g := -oo;

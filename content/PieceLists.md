@@ -72,7 +72,6 @@ for (int p = nWhiteRooks; p > 0; ) {
 
 
 ```C++
-
   Initial                             make(Rb5-b8)                        make (xb8)
                                                                           nWhiteRooks--;
                                       index = white_index_board[b5];      index  = white_index_board[b8];
@@ -114,7 +113,6 @@ for (int p = nWhiteRooks; p > 0; ) {
 
 
 ```C++
-
                                       unmake(xb8)                         unmake(Rb5-b8)
 
                                       white_rook_list[nWhiteRooks] = b8;  index = white_index_board[b8];

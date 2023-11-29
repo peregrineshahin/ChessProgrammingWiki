@@ -18,7 +18,6 @@ If you want to use 8-byte terms instead of 4-byte terms, the proper rotate amoun
 ```
 
 ```C++
-
 typedef unsigned long long u8;
 typedef struct ranctx { u8 a; u8 b; u8 c; u8 d; } ranctx;
 

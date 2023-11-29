@@ -13,7 +13,6 @@ title: Conspiracy Numbers
 A sample minimax tree T with some arbitrary values of the leaves <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
 ```C++
-
 root                    ┌───────┐
 max node                │  A=3  │
                         └───────┘
@@ -109,7 +108,6 @@ min nodes  │  B=2  │                 │  C=3  │
 Following [recursive](Recursion "Recursion") definition in pseudo [C](C "C") is based on [Van der Meulen's](Maarten_van_der_Meulen "Maarten van der Meulen") code <a id="cite-note-5" href="#cite-ref-5">[5]</a>. **V(J)** represents the minimaxed value of node J. Opposed to McAllester's original definition which deals with pure game theoretic values, Van der Meulen's distinguished non terminal leaves with cn = 1 for values different of **v** from game theoretic terminal nodes to assign +oo, since it is impossible to change their value, independently been arrived at by [Norbert Klingbeil](Norbert_Klingbeil "Norbert Klingbeil") and [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer") <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
 ```C++
-
 int cn(CNode J, int v) {
    int c;
    if ( V(J) == v ) {

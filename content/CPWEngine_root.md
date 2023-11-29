@@ -4,7 +4,6 @@ title: CPWEngine root
 **[Home](Home "Home") * [Engines](Engines "Engines") * [CPW-Engine](CPW-Engine "CPW-Engine") * Root**
 
 ```C++
-
 /* this structure is meant to include data determining performance
 of the search routine, such as timing method, available time
 or depth, as well as boolean flags for additional heuristics

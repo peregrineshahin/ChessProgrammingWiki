@@ -31,7 +31,6 @@ Crafty didn't use byte aligned [diagonals](Diagonals "Diagonals"), but visual ro
 
 
 ```C++
-
   normal chess board bitmap            occupied_squares 90 degrees
 
   A8 B8 C8 D8 E8 F8 G8 H8              H8 H7 H6 H5 H4 H3 H2 H1
@@ -83,7 +82,6 @@ A8  B7  C6  D5  E4  F3  G2  H1     A1  B2  C3  D4  E5  F6  G7  H8
 
 
 ```C++
-
 Normal Bitboard.                       Flipped Bitboard.
 ##7 #6 #5 #4 #3 #2 #1 #0 Bit/Byte       #7 #6 #5 #4 #3 #2 #1 #0 Bit/Byte
 a8 b8 c8 d8 e8 f8 g8 h8 #7             a8 a7 a6 a5 a4 a3 a2 a1 #7

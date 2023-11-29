@@ -107,7 +107,6 @@ It is interesting to convert this [recursive](Recursion "Recursion") procedure t
 A C-like pseudo code implementation of the alpha-beta algorithm with distinct indirect [recursive](Recursion "Recursion") routines for the max- and min-player, similar to the [minimax](Minimax "Minimax") routines. [Making](Make_Move "Make Move") and [unmaking](Unmake_Move "Unmake Move") [moves](Moves "Moves") is omitted, and should be done before and after the recursive calls. So called [beta-cutoffs](Beta-Cutoff "Beta-Cutoff") occur for the max-play, alpha-cutoffs for the min-player.
 
 ```C++
-
 int alphaBetaMax( int alpha, int beta, int depthleft ) {
    if ( depthleft == 0 ) return evaluate();
    for ( all moves) {
@@ -137,7 +136,6 @@ int alphaBetaMin( int alpha, int beta, int depthleft ) {
 With this call from the [Root](Root "Root"):
 
 ```C++
-
    score = alphaBetaMax(-oo, +oo, depth);
 
 ```
@@ -150,7 +148,6 @@ Alpha-beta search tree with two alpha-cuts at min nodes <a id="cite-note-10" hre
 Inside a [negamax](Negamax "Negamax") framework the routine looks simpler, but is not necessarily simpler to understand. Despite negating the returned score of the direct recursion, alpha of the min-player becomes minus beta of the max-player and vice versa, and the term alpha-cutoff or alpha-pruning is somehow diminished.
 
 ```C++
-
 int alphaBeta( int alpha, int beta, int depthleft ) {
    if( depthleft == 0 ) return quiesce( alpha, beta );
    for ( all moves)  {
@@ -178,7 +175,6 @@ Since alpha and beta act as hard [bounds](Bound "Bound") of the return value if 
 [Fail-Soft](Fail-Soft "Fail-Soft") Alpha-Beta <a id="cite-note-11" href="#cite-ref-11">[11]</a> may return scores outside the [bounds](Bound "Bound"), that is either greater than beta or less than alpha. It has to keep track of the best score, which might be below alpha.
 
 ```C++
-
 int alphaBeta( int alpha, int beta, int depthleft ) {
    int bestscore = -oo;
    if( depthleft == 0 ) return quiesce( alpha, beta );

@@ -10,7 +10,6 @@ The main routine of the engine.
 ## Header
 
 ```C++
-
 enum etask {
   TASK_NOTHING,
   TASK_SEARCH
@@ -21,7 +20,6 @@ enum etask {
 ## int main()
 
 ```C++
-
 int main() {
   com_init();
 

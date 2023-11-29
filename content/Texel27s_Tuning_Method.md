@@ -110,7 +110,6 @@ of a local optimization routine <a id="cite-note-19" href="#cite-ref-19">[19]</a
 
 
 ```C++
-
 vector<int> localOptimize(const vector<int>& initialGuess) {
    const int nParams = initialGuess.size();
    double bestE = E(initialGuess);

@@ -123,7 +123,6 @@ In the pre-[C99](https://en.wikipedia.org/wiki/C99) days, without 64-bit data ty
 
 
 ```C++
-
 typedef unsigned short int ustdwiT;
 typedef unsigned long int ustdsiT;
 
@@ -160,7 +159,6 @@ The divide and conquer [bitscan with reset](BitScan#BitscanwithReset "BitScan") 
 
 
 ```C++
-
 ##define bb_next(bb, sq) \
   (bb.bbsv[0] ? \
      (bb.bbwv[0] ? \
@@ -193,7 +191,6 @@ The divide and conquer [bitscan with reset](BitScan#BitscanwithReset "BitScan") 
 
 
 ```C++
-
 ##define bb_count(bb) \
    (*(bevbase + bb.bbwv[0]) + *(bevbase + bb.bbwv[1]) + \
     *(bevbase + bb.bbwv[2]) + *(bevbase + bb.bbwv[3]))
@@ -209,7 +206,6 @@ Beside bitboards, a regular [8x8 board](8x8_Board "8x8 Board") is maintained, a 
 
 
 ```C++
-
 /* regular board */
 typedef union rbU
 {

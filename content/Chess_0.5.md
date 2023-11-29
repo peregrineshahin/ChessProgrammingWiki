@@ -21,7 +21,6 @@ As encouraged by Frey and Atkin in their article "The reader with an interest in
 Chess 0.5 keeps an [8x8 board](8x8_Board "8x8 Board") either indexed by [square](Squares "Squares") or [rank](Ranks "Ranks") and [file](Files "Files"), ...
 
 ```C++
-
 CONST
   AX = 0;       ZX = 31;               (* SUBSETS OF SQUARES *)
   AS = 0;       ZS = 63;               (* BOARD VECTOR LIMITS *)
@@ -51,7 +50,6 @@ TYPE
 ... and further relies on [bitboards](Bitboards "Bitboards"), defined as union of arrays of sets and integers:
 
 ```C++
-
   RS = RECORD                          (* BIT BOARDS *)
     CASE INTEGER OF
       0: (RSSS: ARRAY [TY] OF SX);     (* ARRAY OF SETS *)
@@ -63,7 +61,6 @@ TYPE
 Beside the [mailbox](Mailbox "Mailbox") arrays (BOARD, MBORD) and [bitboard board definition](Bitboard_Board-Definition "Bitboard Board-Definition") (TPLOC, TMLOC), Chess 0.5 maintains [incremental updated](Incremental_Updates "Incremental Updates") [attack tables](Attack_and_Defend_Maps "Attack and Defend Maps"), two 8x8 arrays ATKTO and ATKFR, the first for every square a attack bitboard **to** other squares of the piece (if any) residing on that square, the second for each square a bitboard of all white and black man [attacking this square](Square_Attacked_By "Square Attacked By").
 
 ```C++
-
   BOARD : RB;                          (* THE BOARD *)
   MBORD : ARRAY [TS] OF TP;            (* LOOK-AHEAD BOARD *)
   ATKFR : ARRAY [TS] OF RS;            (* ATTACKS FROM A SQUARE *)
@@ -81,7 +78,6 @@ Beside the [mailbox](Mailbox "Mailbox") arrays (BOARD, MBORD) and [bitboard boar
 [Bitboard intersection](General_Setwise_Operations#Intersection "General Setwise Operations"), [union](General_Setwise_Operations#Union "General Setwise Operations") and [relative complement](General_Setwise_Operations#RelativeComplement "General Setwise Operations") are implemented with [set-wise operations](http://www.freepascal.org/docs-html/ref/refsu50.html) "\*, +, -", [complement](General_Setwise_Operations#ComplementSet "General Setwise Operations") (not) by relative complement from the [universe](General_Setwise_Operations#EmptyAndUniverse "General Setwise Operations") (\[AX..ZX\]):
 
 ```C++
-
 PROCEDURE ANDRS                        (* INTERSECTION OF TWO BITBOARDS *)
   (VAR C:RS;                           (* RESULT *)
    A, B:RS);                           (* OPERANDS *)
@@ -119,7 +115,6 @@ END;  (* NOTRS *)
 [BitScan reverse with reset](BitScan#BitscanwithReset "BitScan") is implemented with machine dependent [CDC 6600](CDC_6600 "CDC 6600") [float conversion](Float#BitScan "Float") (omitted here) - the machine independent code inefficiently loops over up to 2\*32 bits of the set and cries for improvement:
 
 ```C++
-
 FUNCTION NXTTS                         (* NEXT ELEMENT IN BIT BOARD *)
  (VAR A:RS;                            (* BIT BOARD TO LOCATE FIRST SQUARE, AND THEN REMOVE *)
   VAR B:TS                             (* SQUARE NUMBER OF FIRST SQUARE IN BIT BOARD *)
@@ -154,7 +149,6 @@ END;  (* NXTTS *)
 The machine independent [population count](Population_Count "Population Count") relies on the above [bitscan with reset](Chess_0.5#BitScan "Chess 0.5")!
 
 ```C++
-
 FUNCTION CNTRS                         (* COUNT NENBERS OF A BIT BOARD *)
 (A:RS): TS;                            (* BIT BOARD TO COUNT *)
 VAR
@@ -176,7 +170,6 @@ END;  (* CNTRS *)
 Chess 0.5's [evaluation](Evaluation "Evaluation") routine **EVALU8** implements a [lazy evaluation](Lazy_Evaluation "Lazy Evaluation") only for too worse [scores](Score "Score"). If the [incremental updated](Incremental_Updates "Incremental Updates") [material balance](Material "Material") plus the maximum positional score is still less or equal than [alpha](Alpha "Alpha") (best value two plies up BSTVL\[JNTK-2\]), only the material balance is assigned without further positional analysis. Otherwise **EVALU8** consides [piece mobility](Mobility "Mobility") (counting attacks), [pawn structure](Pawn_Structure "Pawn Structure"), [king safety](King_Safety "King Safety") and some rook terms such as doubled rooks and [rook on 7th rank](Rook_on_Seventh "Rook on Seventh"). Differences of light minus dark positional terms are adjusted by appropriate feature weights. To make white point of view scores relative to the [side to move](Side_to_move "Side to move"), they are multiplied by a score factor (+1, -1) indexed by side.
 
 ```C++
-
 PROCEDURE EVALU8;                      (* EVALUATE CURRENT POSITION *)
   FUNCTION EVKING                      (* EVALUATE KING *)
   FUNCTION EVMOBL                      (* EVALUATE MOBILITY *)
@@ -214,7 +207,6 @@ END;  (* EVALU8 *)
 The [search](Search "Search") is implemented spaghetti like [non-recursively](Iterative_Search "Iterative Search") as [finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) with [goto](https://en.wikipedia.org/wiki/Goto) labels using explicit [stacks](Stack "Stack") aka [ply](Ply "Ply") indexed [arrays](Array "Array"), and features [iterative deepening](Iterative_Deepening "Iterative Deepening") with [aspiration](Aspiration_Windows "Aspiration Windows") and [alpha-beta pruning](Alpha-Beta "Alpha-Beta"). The value array of [best moves](Best_Move "Best Move") indexed by current ply is the current [alpha](Alpha "Alpha") of a newly entered node, initialized by grand parent's best value (ply-2) - best value of the parent node (ply-1) is minus [beta](Beta "Beta") in the [negamax](Negamax "Negamax") sense. The nested function SELECT implements a [staged move generation](Move_Generation#Staged "Move Generation"), considering [root search](Root "Root") (ply 0), full-width and [quiescence](Quiescence_Search "Quiescence Search"), generating [captures](Captures "Captures") in [MVV/LVA](MVV-LVA "MVV-LVA") order, [killers](Killer_Move "Killer Move"), and remaining moves. While the ply indices range from 0 to 16, the best value array needs three additional sentinels due to ply-2, ply-1, and ply+1 accesses. The outline of the search routine with jump labels (:) is given below, most lines omitted:
 
 ```C++
-
   BSTVL : ARRAY [AKM2..ZKP1] OF TV;    (* VALUE OF BEST MOVE [-2..17] *)
 
 FUNCTION SEARCH                        (* SEARCH LOOK-AHEAD TREE *)

@@ -19,7 +19,6 @@ Walter Faxon's 32-bit friendly [magic bitscan](BitScan#WalterFaxonsmagicBitscan 
 
 
 ```C++
-
 const char LSB_64_table[154] =
 {
 ##define __ 0

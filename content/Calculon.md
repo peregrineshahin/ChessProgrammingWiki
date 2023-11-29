@@ -20,7 +20,6 @@ for the absolute difference of the [trailing zero counts](BitScan#TrailingZeroCo
 but is a bit too much calculation for that purpose <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 ```C++
-
 public class BitBoard { // Position object
 
   public byte getPiece(long pos) {

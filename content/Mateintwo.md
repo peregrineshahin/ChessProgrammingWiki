@@ -27,7 +27,6 @@ Entry 1 correspondents to the case of the first move in a turn with all the coun
 
 
 ```C++
-
        ▼  ┌─────◄───────────┐
       1│  │2                │
     ┌────────┐              │

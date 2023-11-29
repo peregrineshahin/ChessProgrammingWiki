@@ -17,7 +17,6 @@ a [WinBoard](WinBoard "WinBoard") compliant [open source chess engine](Category:
 
 
 ```C++
-
 /*************************************/
 /*                                   */
 /* Program: Vanilla Chess V2.6       */
@@ -49,7 +48,6 @@ Sample [move generation](Move_Generation "Move Generation") routine for bishops,
 
 
 ```C++
-
 void bishopmoves(int mover, struct movelisttype * movelist, int nsquare) {
    int loop, otherp;
    int bishopdir[4] = {0xf, 0x11, -0x11, -0xf};

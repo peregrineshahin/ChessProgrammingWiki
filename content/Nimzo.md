@@ -101,7 +101,6 @@ Following [forward pruning](Pruning "Pruning") code appears in Nimzo's 2.2.1 sea
 
 
 ```C++
-
   if((depth <= 1) && (!extflg) && (score > beta) && (GPtr->hung.w <= KNIGHTHUNG)) {
     return score;
   }

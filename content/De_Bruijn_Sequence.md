@@ -71,7 +71,6 @@ The two one-bit subsequences obviously do not overlap:
 ```
 
 ```C++
-
 i  01  s[i]
 0  0    0
 1   1   1
@@ -83,7 +82,6 @@ i  01  s[i]
 B(2, 2) implies 22 or 4-bit sequences. There is one odd four-bit de Bruijn sequence with four overlapping unique two-bit subsequences, 0x3.
 
 ```C++
-
 i  0011|0  s[i]
 0  00 . . . 0
 1   01      1
@@ -97,7 +95,6 @@ i  0011|0  s[i]
 B(2, 3) implies 23 or 8-bit sequences. There are two odd eight-bit sequences with eight overlapping unique three-bit subsequences, 0x17 and 0x1d. Note that the five relevant bits are reversed.
 
 ```C++
-
 i  00010111|00 s[i]    i  00011101|00 s[i]
 0  000 . . . .  0      0  000 . . . .  0
 1   001         1      1   001         1
@@ -115,7 +112,6 @@ i  00010111|00 s[i]    i  00011101|00 s[i]
 B(2, 4) implies 24 or 16 bit sequences. There are 16 odd 16-bit sequences with 16 overlapping unique four-bit subsequences:
 
 ```C++
-
 0x09af  0000100110101111
 0x09eb  0000100111101011
 0x0a6f  0000101001101111
@@ -138,7 +134,6 @@ B(2, 4) implies 24 or 16 bit sequences. There are 16 odd 16-bit sequences with 1
 for instance 0x0d2f:
 
 ```C++
-
 i  0000110100101111|000 s[i]
  0  0000 . . . . . . . .  0
  1   0001                 1
@@ -164,7 +159,6 @@ i  0000110100101111|000 s[i]
 B(2, 5) implies 25 or 32 bit sequences. There are 2^11 or 2,048 odd 32-bit sequences with 32 overlapping unique five-bit subsequences, for instance 0x076be629
 
 ```C++
-
  i  00000111011010111110011000101001|0000 s[i]
  0  00000 . . . . . . . . . . . . . . . .  0
  1   00001                                 1
@@ -206,7 +200,6 @@ B(2, 5) implies 25 or 32 bit sequences. There are 2^11 or 2,048 odd 32-bit seque
 B(2, 6) implies 26 or 64 bit sequences. There are 2^26 or 67,108,864 odd 64-bit sequences with 64 overlapping unique six-bit subsequences, for instance 0x022fdd63cc95386d
 
 ```C++
-
  i  0000001000101111110111010110001111001100100101010011100001101101|00000 s[i]
  0  000000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  0
  1   000001                                                                 1
@@ -297,7 +290,6 @@ traverses every edge exactly once and returns to one's starting point.
 A directed De Bruijn Graph of B(2, 6) sequences with [Little-Endian Rank-File Mapping](Square_Mapping_Considerations#LittleEndianRankFileMapping "Square Mapping Considerations") board coordinates (a1 = 0, b1 = 1, h8 = 63). For topology reasons, almost each node (except a1 and h8) of the graph is deconcentrated and appears twice in the form of two reversed binary trees. The leaf outputs join the respective reversed tree. Between c6 and f3 is a direct cycle, since 42 is 2\*21 and 21 is (2\*42 + 1) % 64, with both six-bit pattern reversed - 010101 (21) versus 101010 (42). The challenge is to traverse the graph in any way to visit each of the 64 nodes aka squares exactly once.
 
 ```C++
-
 +----------------->---------------a1--------------<-----------------+
 |                                 |                                 |
 |                                 b1                                |

@@ -14,7 +14,6 @@ The algebraic game notation first has 2 characters representing the square the p
 ## int convert_0x88_a(sq, a)
 
 ```C++
-
 int convert_0x88_a(int sq, char * a) {
   a[0] = COL(sq) + 'a';
   a[1] = ROW(sq) + '1';
@@ -27,7 +26,6 @@ int convert_0x88_a(int sq, char * a) {
 ## int convert_a_0x88(a)
 
 ```C++
-
 int convert_a_0x88(char * a) {
   int sq = 0;
   sq = a[0] - 'a';
@@ -40,7 +38,6 @@ int convert_a_0x88(char * a) {
 ## int algebraic_moves(a)
 
 ```C++
-
 int algebraic_moves(char * a) {
 
   smoves m;

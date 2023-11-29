@@ -178,7 +178,6 @@ The **Gamma-algorithm** caused certain [futile nodes](Futility_Pruning "Futility
 
 
 ```C++
-
 P[i-3] : M[best] -> P[best] ...
        : M[1]    -> P[i-2] : M[2] -> P[i-1] : M[3] -> P[i]
 

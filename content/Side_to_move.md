@@ -10,7 +10,6 @@ title: Side to move
 
 
 ```C++
-
 btm = !wtm
 btm =  1 - wtm; // assuming color ::= {0,1} enum
 btm =  wtm ^ 1; // assuming color ::= {0,1} enum
@@ -26,7 +25,6 @@ However, inside a [search tree](Search_Tree "Search Tree") object, it is suffici
 
 
 ```C++
-
 side_2_move = (side_2_move@root + ply) & 1; // assuming color ::= {0,1} enum
 
 ```

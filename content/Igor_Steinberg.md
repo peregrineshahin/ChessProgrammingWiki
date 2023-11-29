@@ -35,7 +35,6 @@ We present a new parallel game-tree search algorithm. Our approach classifies a 
 
 
 ```C++
-
 struct Node {
   int val;
   bool done;

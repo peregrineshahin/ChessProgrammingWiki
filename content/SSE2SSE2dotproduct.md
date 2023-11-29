@@ -25,7 +25,6 @@ Since 128-bit xmm registers may treated as vector of 16 bytes, shifting techniqu
 
 
 ```C++
-
   northwest    north   northeast
   noWe         nort         noEa
           +7    +8    +9
@@ -44,7 +43,6 @@ Veritcal steps as usual with 64-byte shift a rank each:
 
 
 ```C++
-
 __m128i nortOne(__m128i b) {
    b = _mm_slli_epi64 (b, 8);
    return b;
@@ -63,7 +61,6 @@ Unfortunately there is no byte-wise shift in the SSE2-instruction set (as well a
 
 
 ```C++
-
 __m128i butNotA(__m128i b) {
    b = _mm_srli_epi64 (b, 1);
    b = _mm_add_epi8   (b, b);
@@ -84,7 +81,6 @@ This is how the east direction are computed based on parallel byte-wise add. Eit
 
 
 ```C++
-
 __m128i eastOne(__m128i b) {
    b = _mm_add_epi8   (b, b);
    return b;
@@ -110,7 +106,6 @@ West directions need a leading not A-file and take three instructions each:
 
 
 ```C++
-
 __m128i westOne(__m128i b) {
    b = _mm_srli_epi64 (b, 1);
    b = _mm_add_epi8   (b, b);
@@ -147,7 +142,6 @@ SIMD-wise [Fill by Subtraction](Fill_by_Subtraction "Fill by Subtraction") with 
 
 
 ```C++
-
 __m128i eastAttacks (__m128i occ, __m128i rooks) {
    __m128i tmp;
    occ  = _mm_or_si128 (occ, rooks);  //  make rooks member of occupied
@@ -183,7 +177,6 @@ The 64-bit times 64-byte dot product implements a kind of weighted [population c
 
 
 ```C++
-
 int dotProduct(U64 bb, BYTE weights[])
 {
    U64 bit  = 1;
@@ -207,7 +200,6 @@ The dot product is designed for unsigned weights in the 0..63 range, so that ver
 
 
 ```C++
-
 ##include <emmintrin.h>
 ##define XMM_ALIGN __declspec(align(16))
 
@@ -263,7 +255,6 @@ A little bit cheaper is to expand the bitboard to a vector of 90 degree rotated 
 
 
 ```C++
-
 /* for average weights < 64 */
 int dotProduct64(U64 bb, BYTE weightsRot90[] /* XMM_ALIGN */)
 {
@@ -316,7 +307,6 @@ Following proposal of a [SWAR-Popcount](Population_Count#SWARPopcount "Populatio
 
 
 ```C++
-
 /**
  * popCountWeight8
  * @author Gerd Isenberg
@@ -373,7 +363,6 @@ int popCountWeight8(const U64 bb[8], const short weight[8]) {
 
 
 ```C++
-
 // T is either XMM or GPR
 template <class T> inline
 void eastAttacks(QBB& t, const QBB& s, U64 occ) {
@@ -395,7 +384,6 @@ A proposal for a class skeleton:
 
 
 ```C++
-
 class DBB
 {
    friend class XMM;

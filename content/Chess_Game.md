@@ -68,7 +68,6 @@ The chess program and its [user interface](User_Interface "User Interface") can 
 Early chess programs without [Pondering](Pondering "Pondering") used a simple sequential control structure to play the whole game for instance via a [teleprinter](https://en.wikipedia.org/wiki/Teleprinter) or any [Computer terminals](https://en.wikipedia.org/wiki/Computer_terminal) in a sequential manner.
 
 ```C++
-
 state := playGame;
 initialize position
 print board

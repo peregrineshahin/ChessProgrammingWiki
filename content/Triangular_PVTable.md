@@ -66,7 +66,6 @@ A didactic implementation of the Triangular PV-Table inside an [Alpha-Beta](Alph
 
 
 ```C++
-
 MoveType pvArray[(N*N + N)/2];
 
 void movcpy (MoveType* pTarget, const MoveType* pSource, int n) {
@@ -124,7 +123,6 @@ As demonstrated by [Daniel Shawul](Daniel_Shawul "Daniel Shawul") with [TSCP](TS
 
 
 ```C++
-
 MoveType pvArray[N];
 
 ```
