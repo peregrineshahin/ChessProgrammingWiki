@@ -21,6 +21,7 @@ Inside the DGT Board <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 ## Scanning the Board
 
 ```C++
+
 void scanBoard(char *board) {
    for (int rank = 0; rank < 8; rank++) {
       switchRankMultiplexer( rank );

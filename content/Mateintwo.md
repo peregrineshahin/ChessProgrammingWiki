@@ -20,12 +20,14 @@ This [control flow diagram](https://en.wikipedia.org/wiki/Control_flow_diagram) 
 
 
 
-```C++Entry 1 correspondents to the case of the first move in a turn with all the counters set to their initial value. Entry 2 is the general case of a move following a previous move of this same turn. Exit 3 indicates that a legal move has been found; exit 4 that the position supplied to the turn has been exhausted before such a move has been found. 
+```C++
+Entry 1 correspondents to the case of the first move in a turn with all the counters set to their initial value. Entry 2 is the general case of a move following a previous move of this same turn. Exit 3 indicates that a legal move has been found; exit 4 that the position supplied to the turn has been exhausted before such a move has been found. 
 
 ```
 
 
 ```C++
+
        ▼  ┌─────◄───────────┐
       1│  │2                │
     ┌────────┐              │

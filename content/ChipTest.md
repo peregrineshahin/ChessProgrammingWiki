@@ -12,6 +12,7 @@ a chess program running on a [Sun-3](Sun#3 "Sun") [workstation](https://en.wikip
 The [move generator](Move_Generation "Move Generation"), a [combinational logic](Combinatorial_Logic "Combinatorial Logic") 8x8 [array](Array "Array") is effectively a silicon chessboard in [VLSI design](VLSI_Design "VLSI Design"). The basic move generation algorithm is the same as in the [Belle](Belle "Belle") [move generator](Belle#Hardware "Belle"), where a disable-stack implements the bookkeeping of victims and per victim, of aggressors. In ChipTest and its successors, the last move searched from the position, which need to be stored for [unmake move](Unmake_Move "Unmake Move") anyway, implies the priority levels of the last victim and the last attacking piece is used for the [sequential logic](Sequential_Logic "Sequential Logic") to compute the disable-mask on the fly, using distinct square priorities to discriminate equal valued victims and aggressors <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>.
 
 ```C++
+
 disable = 0;
 while ( ( to = findMVV(disable)) >= 0 ) {
   while ( ( from = findLVA(disable)) >= 0 ) {

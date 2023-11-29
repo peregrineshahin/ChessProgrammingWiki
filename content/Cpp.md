@@ -49,6 +49,7 @@ For instance an [array](Array "Array") of member function pointers of a class *C
 The special atomic [C++ operator](https://en.wikipedia.org/wiki/Operators_in_C_and_C%2B%2B) '->\*' is used to call the indexed member-functions:
 
 ```C++
+
 class CNode {
   U64 AssertAttack (EnumSquare sq) const;
   U64 wPawnAttacks (EnumSquare sq) const;

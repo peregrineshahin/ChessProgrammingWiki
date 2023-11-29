@@ -21,6 +21,7 @@ Eli David has combined his secret efforts with scientific publications, since Fa
 Falcon's GA procedure as pseudo code <a id="cite-note-14" href="#cite-ref-14">[14]</a>:
 
 ```C++
+
 1. initialization: randomly generate n 70-bit chromosomes
 2.   evaluate fitness of each chromosome of a population 
 3.   if (N generations is reached OR fitness value > threshold ) terminate

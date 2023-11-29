@@ -13,6 +13,7 @@ The following routine determines if a path of set bits in 'path' 8-way connect (
 Setting sq1 to contain e4, sq2 to have both a1 and h8, and mask to be ~0 yields this all shortest paths array of bitboards:
 
 ```C++
+
 . . . . . . . .   . . . . . . . .     . . . . . . . .   . . . . . . . .   . . . . . . . 1
 . . . . . . . .   . . . . . . . .     . . . . . . . .   . . . . . . 1 1   . . . . . . . .
 . . . . . . . .   . . . . . . . .     . . . . . 1 1 .   . . . . . . . .   . . . . . . . .
@@ -27,6 +28,7 @@ Setting sq1 to contain e4, sq2 to have both a1 and h8, and mask to be ~0 yields 
 The king needs 4 moves to reach either a1 or h8, so both possibilities are shown in the last bitboard. Also, the king has a choice of squares along the way, meaning there are many shortest paths.
 
 ```C++
+
 /////////////////////////////////////////////////////////////////////////
 //
 // Returns length of shortest path of set bits present in 'path' that
@@ -85,6 +87,7 @@ A fill iteration need not just go one square in each direction. With appropriate
 [Edmund Moshammer](Edmund_Moshammer "Edmund Moshammer") proposed following optimization with an inlined king fill routine <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
 ```C++
+
 // Set all up to eight neighbours
 // inline
 U64 fillKing(U64 b) {

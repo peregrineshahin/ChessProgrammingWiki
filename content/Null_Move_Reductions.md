@@ -11,7 +11,8 @@ not to confused with the widespread [Null Move Pruning](Null_Move_Pruning "Null 
 
 If a null move [fail-high](Fail-High "Fail-High") occurs - opposed to Null Move Pruning - the search is reduced by **four** plies, rather than pruned. Thus, **Null Move Reductions** are therefor less vulnerable to [Zugzwang](Zugzwang "Zugzwang") and might even applied in (late) endings.
 
-```C++    if ( nullMoveAllowed && ...) {
+```C++
+    if ( nullMoveAllowed && ...) {
         R = depth > 6 ? 4 : 3;
         makeNullMove()
         score = -zwSearch(1-beta, depth-R-1) // -AlphaBeta (0-beta, 1-beta, depth-R-1)

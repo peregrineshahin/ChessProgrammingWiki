@@ -75,7 +75,8 @@ After first tournament successes in 1978, at [The Second West Coast Computer Fai
 
 
 
-```C++I think the most exciting part for us was the last round of the tournament, when we played [Tony Marsland’s](Tony_Marsland "Tony Marsland") program [Awit](Awit "Awit"). It was a 6 million dollar [Amdahl computer](Amdahl_470 "Amdahl 470"). And we won the game. And we were just amazed. I remember, at the time, we won it. And there was a huge audience there. There was like a hundred people sitting out there, watching it, and they just all started cheering and clapping. And then we woke up the following morning to a big article in the Washington Post that says, Microcomputer Beats 6 Million Dollar Machine, or something like that. 
+```C++
+I think the most exciting part for us was the last round of the tournament, when we played [Tony Marsland’s](Tony_Marsland "Tony Marsland") program [Awit](Awit "Awit"). It was a 6 million dollar [Amdahl computer](Amdahl_470 "Amdahl 470"). And we won the game. And we were just amazed. I remember, at the time, we won it. And there was a huge audience there. There was like a hundred people sitting out there, watching it, and they just all started cheering and clapping. And then we woke up the following morning to a big article in the Washington Post that says, Microcomputer Beats 6 Million Dollar Machine, or something like that. 
 
 ```
 

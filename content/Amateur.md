@@ -14,13 +14,15 @@ Amateur played multiple [online tournaments](Tournaments_and_Matches#online "Tou
 
 Amateur is a development of a program already written in 1977 in [6502](6502 "6502") [assembly](Assembly "Assembly"), then expanded in 1986 on the [68000](68000 "68000") <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
-```C++My current program is a development of a program I wrote in 1977 in 6502 assembly, and then expanded in 1986 on the 68000.  I converted it to [C](C "C") last year, and then over time put in all I learned from [this newsgroup](CCC "CCC") and a full set of [ICCA journals](ICGA_Journal "ICGA Journal").  It's been a slow, incremental process, but at this point, right now, I can say that it's an honest program, and I know what's in it and how it works. 
+```C++
+My current program is a development of a program I wrote in 1977 in 6502 assembly, and then expanded in 1986 on the 68000.  I converted it to [C](C "C") last year, and then over time put in all I learned from [this newsgroup](CCC "CCC") and a full set of [ICCA journals](ICGA_Journal "ICGA Journal").  It's been a slow, incremental process, but at this point, right now, I can say that it's an honest program, and I know what's in it and how it works. 
 
 ```
 
 In 2002 Will released a [WinBoard](WinBoard "WinBoard") version, also mentioning starting from scratch again <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```C++I released it to kind of memorialize all the work that went into it, and I certainly have learned a lot.  But I can't improve it much more, given the limitations of its "design."  So the next version will be a new project, from scratch.  The goal is to have a good, extensible design, using whatever knowledge I've gained along the way. 
+```C++
+I released it to kind of memorialize all the work that went into it, and I certainly have learned a lot.  But I can't improve it much more, given the limitations of its "design."  So the next version will be a new project, from scratch.  The goal is to have a good, extensible design, using whatever knowledge I've gained along the way. 
 
 ```
 

@@ -124,6 +124,7 @@ Having the piece codes inside the move structure safes the board lookups during 
 Rather than using [bitfield](C#Bitfield "C") move structures or classes in [C](C "C") and [C++](Cpp "Cpp"), most programmers rely on scalar integers, such as *short* and *int* for 16- or 32-bit words, but implement the composition and extraction while writing and reading various structure elements by explicit shifts and masks, likely encapsulated thought an interface with most likely inlined functions (or macros) to hide the internal representation. Further extended move structures might either embed or inherit this most compact base structure or class, which might already rely the native 32-bit integer type to avoid [x86](X86 "X86") 16-bit optimization issues.
 
 ```C++
+
 class CMove {
    CMove(unsigned int from, unsigned int to, unsigned int flags) {
       m_Move = ((flags & 0xf)<<12) | ((from & 0x3f)<<6) | (to & 0x3f);
@@ -232,6 +233,7 @@ So for the standard chess piece set we have an upper bound of `12*8 + 8*2 + 13*2
 So for legal [Chess960](Chess960 "Chess960") positions with at most 3 queens on the board one can encode any legal move in just one byte. Note that whether the result can always fit in one byte is determined based solely one the position, so no additional information needs to be stored for disambiguation. This way it's easy to implement a fallback for the positions not supported by this encoding (this could be either to use 2 bytes for the move index or use legal move generation to ensure all values take one byte). One way to encode a position using this information is in the following way:
 
 ```C++
+
 offset = 0
 for each square in our_pieces_bb:
     if square == move.from:
@@ -247,6 +249,7 @@ The `piece_move_index(moved_piece, move)` function can be implemented for exampl
 Alternatively we can go through each piece type in some order (instead of going through individual squares), which allows faster computation of the offset if [popcount](Population_Count "Population Count") instruction is available:
 
 ```C++
+
 offset = 0
 for each piece_type lower than moved_piece.type:
     offset += 

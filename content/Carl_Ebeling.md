@@ -21,7 +21,8 @@ As Ph.D. student at [Carnegie Mellon University](Carnegie_Mellon_University "Car
 
 [Hans Berliner](Hans_Berliner "Hans Berliner") on Ebeling's role in the HiTech team (1988) <a id="cite-note-4" href="#cite-ref-4">[4]</a> :
 
-```C++Carl Ebeling (now at University of Washington) built the special purpose hardware (Ebeling 1985), and a good deal of software relating to how to interface to the hardware and see what it is doing for debugging purposes. 
+```C++
+Carl Ebeling (now at University of Washington) built the special purpose hardware (Ebeling 1985), and a good deal of software relating to how to interface to the hardware and see what it is doing for debugging purposes. 
 
 ```
 

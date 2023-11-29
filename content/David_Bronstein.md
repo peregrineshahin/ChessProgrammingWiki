@@ -42,7 +42,8 @@ Ba6 32.Qf2 Qb3 33.Bc5 Bh8 34.Qxh4 Bd3 35.Qxh6 Bg6 36.Nh4 Qd3 37.Rc3 Ra7 1-0
 
 Quote by [Frederic Friedel](Frederic_Friedel "Frederic Friedel") in his obituary on David Bronstein <a id="cite-note-8" href="#cite-ref-8">[8]</a> :
 
-```C++I remember David calling [Ken Thompson](Ken_Thompson "Ken Thompson") in [New Jersey](https://en.wikipedia.org/wiki/New_Jersey) once, asking him if the computer scientist could analyse a position with the [endgame databases](Thompson%27s_Databases "Thompson's Databases") Ken had just created. Then he started dictating the position, with Ken desperately calling "stop" at six pieces. Bronstein's example contained about eleven, including pawns, which make the position even more difficult. Ken said something like: "Sorry, we can't do that. Maybe in a thousand years, but not at the current time." 
+```C++
+I remember David calling [Ken Thompson](Ken_Thompson "Ken Thompson") in [New Jersey](https://en.wikipedia.org/wiki/New_Jersey) once, asking him if the computer scientist could analyse a position with the [endgame databases](Thompson%27s_Databases "Thompson's Databases") Ken had just created. Then he started dictating the position, with Ken desperately calling "stop" at six pieces. Bronstein's example contained about eleven, including pawns, which make the position even more difficult. Ken said something like: "Sorry, we can't do that. Maybe in a thousand years, but not at the current time." 
 
 ```
 

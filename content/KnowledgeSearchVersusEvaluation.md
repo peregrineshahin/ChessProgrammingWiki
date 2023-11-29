@@ -22,17 +22,20 @@ Inside a chess program, knowledge is manifested either as [procedural](https://e
 
 
 
-```C++The difficulty lies in quantifying the knowledge axis. Perfect knowledge assumes an [oracle](Oracle "Oracle"), which for most games we do not have. However, we can approximate an oracle by using a high-quality, game playing program that performs deep searches. Although not perfect, it is the best approximation available. Using this, how can we measure the quality of knowledge in the program?
+```C++
+The difficulty lies in quantifying the knowledge axis. Perfect knowledge assumes an [oracle](Oracle "Oracle"), which for most games we do not have. However, we can approximate an oracle by using a high-quality, game playing program that performs deep searches. Although not perfect, it is the best approximation available. Using this, how can we measure the quality of knowledge in the program?
 
 ```
 
 
-```C++A heuristic evaluation function, as judged by an oracle, can be viewed as a combination of two things: oracle knowledge and noise. The oracle knowledge is beneficial and improves the program' s play. The noise, on the other hand, represents the inaccuracies in the program' s knowledge. It can be introduced by several things, including knowledge that is missing, over- or under-valued, and/or irrelevant. As the noise level increase, the beneficial contribution of the knowledge is overshadowed.
+```C++
+A heuristic evaluation function, as judged by an oracle, can be viewed as a combination of two things: oracle knowledge and noise. The oracle knowledge is beneficial and improves the program' s play. The noise, on the other hand, represents the inaccuracies in the program' s knowledge. It can be introduced by several things, including knowledge that is missing, over- or under-valued, and/or irrelevant. As the noise level increase, the beneficial contribution of the knowledge is overshadowed.
 
 ```
 
 
-```C++By definition, an oracle has no noise. We can measure the quality of the heuristic evaluation in a program by the amount of noise that is added into it. To measure this, we add a [random number](Pseudorandom_Number_Generator "Pseudorandom Number Generator") to each [leaf node evaluation](Search_with_Random_Leaf_Values "Search with Random Leaf Values") ... 
+```C++
+By definition, an oracle has no noise. We can measure the quality of the heuristic evaluation in a program by the amount of noise that is added into it. To measure this, we add a [random number](Pseudorandom_Number_Generator "Pseudorandom Number Generator") to each [leaf node evaluation](Search_with_Random_Leaf_Values "Search with Random Leaf Values") ... 
 
 ```
 
@@ -44,12 +47,14 @@ At the [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in 
 
 
 
-```C++Chess programs can differ in depth of search or in the evaluation function applied to leaf nodes or both. Over the past 10 years, the notion that the principal way to [strengthen](Playing_Strength "Playing Strength") a chess program is to improve its depth of search has held sway. Improving depth of search undoubtedly does improve a program's strength. However, projections of potential gain have time and again been found to overestimate the actual gain.
+```C++
+Chess programs can differ in depth of search or in the evaluation function applied to leaf nodes or both. Over the past 10 years, the notion that the principal way to [strengthen](Playing_Strength "Playing Strength") a chess program is to improve its depth of search has held sway. Improving depth of search undoubtedly does improve a program's strength. However, projections of potential gain have time and again been found to overestimate the actual gain.
 
 ```
 
 
-```C++We examine the notion that it is possible to project the playing strength of chess programs by having different versions of the same program (differing only in depth of search) play each other. Our data indicates that once a depth of “tactical sufficiency” is reached, a knowledgeable program can beat a significantly less knowledgeable one almost all of the time when both are searching to the same depth. This suggests that once a certain knowledge gap has been opened up, it cannot be overcome by small increments in searching depth. The conclusion from this work is that extending the depth of search without increasing the present level of knowledge will not in any foreseeable time lead to World Championship level chess. The approach of increasing knowledge has been taken in the HiTech chess machine. 
+```C++
+We examine the notion that it is possible to project the playing strength of chess programs by having different versions of the same program (differing only in depth of search) play each other. Our data indicates that once a depth of “tactical sufficiency” is reached, a knowledgeable program can beat a significantly less knowledgeable one almost all of the time when both are searching to the same depth. This suggests that once a certain knowledge gap has been opened up, it cannot be overcome by small increments in searching depth. The conclusion from this work is that extending the depth of search without increasing the present level of knowledge will not in any foreseeable time lead to World Championship level chess. The approach of increasing knowledge has been taken in the HiTech chess machine. 
 
 ```
 
@@ -61,27 +66,32 @@ At the [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in 
 
 
 
-```C++Some specific chess knowledge through the years become out-dated due to the speed of nowadays computers. An example: In the early days of computer chess, say the period 1985-1989 I as hardware had a [6502](6502 "6502") running at 5 Mhz. [Rebel](Rebel "Rebel") at that time could only search 5-7 plies on tournament time control. Such a low depth guarantees you one thing: [horizon effects](Horizon_Effect "Horizon Effect") all over, thus losing the game.
+```C++
+Some specific chess knowledge through the years become out-dated due to the speed of nowadays computers. An example: In the early days of computer chess, say the period 1985-1989 I as hardware had a [6502](6502 "6502") running at 5 Mhz. [Rebel](Rebel "Rebel") at that time could only search 5-7 plies on tournament time control. Such a low depth guarantees you one thing: [horizon effects](Horizon_Effect "Horizon Effect") all over, thus losing the game.
 
 ```
 
 
-```C++To escape from the horizon effect all kind of tricks were invented, chess knowledge about dangerous [pins](Pin "Pin"), [knight forks](Knight_Pattern#KnightForks "Knight Pattern"), [double attacks](Double_Attack "Double Attack"), [overloading of pieces](Overloading "Overloading") and reward those aspects in [eval](Evaluation "Evaluation"). Complicated and processor time consuming software it was (15-20% less performance) but it did the trick escaping from the horizon effect in a reasonable way.
+```C++
+To escape from the horizon effect all kind of tricks were invented, chess knowledge about dangerous [pins](Pin "Pin"), [knight forks](Knight_Pattern#KnightForks "Knight Pattern"), [double attacks](Double_Attack "Double Attack"), [overloading of pieces](Overloading "Overloading") and reward those aspects in [eval](Evaluation "Evaluation"). Complicated and processor time consuming software it was (15-20% less performance) but it did the trick escaping from the horizon effect in a reasonable way.
 
 ```
 
 
-```C++Today we run chess program on 1500 Mhz machines and instead of the 5-7 plies Rebel now gets 13-15 plies in the middle game and the horizon effect which was a major problem at 5 Mhz slowly was fading away.
+```C++
+Today we run chess program on 1500 Mhz machines and instead of the 5-7 plies Rebel now gets 13-15 plies in the middle game and the horizon effect which was a major problem at 5 Mhz slowly was fading away.
 
 ```
 
 
-```C++So I wondered, what if I throw that complicated "anti-horizon" code out of Rebel, is it still needed? So I tried and found out that Rebel played as good with the "anti-horizon" code as without the code. In other words, the net gain was a "free" speed gain of 15-20%, thus an improvement.
+```C++
+So I wondered, what if I throw that complicated "anti-horizon" code out of Rebel, is it still needed? So I tried and found out that Rebel played as good with the "anti-horizon" code as without the code. In other words, the net gain was a "free" speed gain of 15-20%, thus an improvement.
 
 ```
 
 
-```C++One aspect of chess programming is that your program is in a constant state of change due to the state of art of nowadays available hardware. I am sure a Rebel at 10 Ghz several parts of Rebel need a face-lift to get the maximum out of the new speed monster. 
+```C++
+One aspect of chess programming is that your program is in a constant state of change due to the state of art of nowadays available hardware. I am sure a Rebel at 10 Ghz several parts of Rebel need a face-lift to get the maximum out of the new speed monster. 
 
 ```
 
@@ -97,18 +107,21 @@ At the [Advances in Computer Chess 5](Advances_in_Computer_Chess_5 "Advances in 
 
 
 
-```C++I am not saying search is the only reason but that search is more significant in the Elo jump than other factors. Thanks for the interesting history which in general I agree with but I should add for clarification...
+```C++
+I am not saying search is the only reason but that search is more significant in the Elo jump than other factors. Thanks for the interesting history which in general I agree with but I should add for clarification...
 
 ```
 
 
-```C++In 1989 I was exposed to the  [null move](Null_Move "Null Move") in [HIARCS'](HIARCS "HIARCS") first official computer tournament at the [Olympiad](1st_Computer_Olympiad "1st Computer Olympiad") in London. [John Hamlen](John_Hamlen "John Hamlen") had written his program [Woodpusher](Woodpusher "Woodpusher") as part of his M.Sc project investigating the null move exclamation and although Woodpusher did not do well in that tournament I had the good fortune to discuss null move with John and reading his project which interested me very much. John and I had many discussions on computer chess over the following months.
+```C++
+In 1989 I was exposed to the  [null move](Null_Move "Null Move") in [HIARCS'](HIARCS "HIARCS") first official computer tournament at the [Olympiad](1st_Computer_Olympiad "1st Computer Olympiad") in London. [John Hamlen](John_Hamlen "John Hamlen") had written his program [Woodpusher](Woodpusher "Woodpusher") as part of his M.Sc project investigating the null move exclamation and although Woodpusher did not do well in that tournament I had the good fortune to discuss null move with John and reading his project which interested me very much. John and I had many discussions on computer chess over the following months.
 That Olympiad probably had an impact on you too and not only because [Rebel](Rebel "Rebel") won Gold above [Mephisto X](Mephisto_Portorose "Mephisto Portorose") and [Fidelity X](Fidelity "Fidelity") for the first time but because there was a program there running quite fast (at that time in history) called [E6P](E6P "E6P") (so named because it could reach 6 ply full width!) running on an Acorn [ARM](ARM2 "ARM2") [based machine](Acorn_Archimedes "Acorn Archimedes"). [Jan](Jan_Louwman "Jan Louwman") was operating Rebel at the tournament as you know and I noticed Jan take a keen interest in this new machine. 
 
 ```
 
 
-```C++[Frans](Frans_Morsch "Frans Morsch") was using null move in [Fritz 2](Fritz "Fritz") in [Madrid 1992](WCCC_1992 "WCCC 1992") (I am not sure about Fritz 1). I am sure you remember that tournament fondly. I remember at Madrid having a discussion with a few programmers including [Richard](Richard_Lang "Richard Lang") about what on earth was Fritz 2 doing to reach the [depths](Depth "Depth") it was attaining, this seed of interest made me investigate search enhancements carefully after Madrid and it was then that I began re-investigating the null move. It was not long before HIARCS began using null moves too and by Christmas 1992 I had a working implementation which gave a big jump over Hiarcs 1 which had only been released shortly before. I had much fun playing my Hiarcs 1.n against [Mephisto Risc 1](Mephisto_RISC "Mephisto RISC") in late 1992, early 1993 and that sort of closes the circle on the E6P story. Even so, the null move idea still evolved and my implementation today is much better than it was initially and so it can be for other ideas. We can all profit from these techniques but some gain more than others if they find new ways to exploit it.
+```C++
+[Frans](Frans_Morsch "Frans Morsch") was using null move in [Fritz 2](Fritz "Fritz") in [Madrid 1992](WCCC_1992 "WCCC 1992") (I am not sure about Fritz 1). I am sure you remember that tournament fondly. I remember at Madrid having a discussion with a few programmers including [Richard](Richard_Lang "Richard Lang") about what on earth was Fritz 2 doing to reach the [depths](Depth "Depth") it was attaining, this seed of interest made me investigate search enhancements carefully after Madrid and it was then that I began re-investigating the null move. It was not long before HIARCS began using null moves too and by Christmas 1992 I had a working implementation which gave a big jump over Hiarcs 1 which had only been released shortly before. I had much fun playing my Hiarcs 1.n against [Mephisto Risc 1](Mephisto_RISC "Mephisto RISC") in late 1992, early 1993 and that sort of closes the circle on the E6P story. Even so, the null move idea still evolved and my implementation today is much better than it was initially and so it can be for other ideas. We can all profit from these techniques but some gain more than others if they find new ways to exploit it.
 
 Rebel 7/8/9 and Hiarcs 5/6/7 battled hard in those years and my big jump to the top of the rating lists happened partly because of a search change to Hiarcs 5/6 which led at one stage to a 71 Elo lead on the SSDF. I recall Rebel and Hiarcs exchanging the lead on the [SSDF](SSDF "SSDF") list a number of times in those years. So we agree the impact search has made on computer chess progress is clear. Now we diverge on what might be the reason for new progress in the field.
 Clearly we have good search enhancements on [cut nodes](Node_Types#cut-nodes "Node Types") and [all nodes](Node_Types#all-nodes "Node Types"), but that does not mean they cannot be improved and enhanced or in fact that another technique might prove to be superior or complementary. Meanwhile there can be no doubt that progress is made positionally irrespective of search but I do not believe it can be the reason for a breakthrough jump in chess strength but rather a steady climb.

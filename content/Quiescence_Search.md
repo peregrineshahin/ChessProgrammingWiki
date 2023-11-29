@@ -31,6 +31,7 @@ Standing pat assumes that even if we finish searching all moves, and none of the
 
 
 ```C++
+
 int Quiesce( int alpha, int beta ) {
     int stand_pat = Evaluate();
     if( stand_pat >= beta )

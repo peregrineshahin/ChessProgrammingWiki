@@ -121,6 +121,7 @@ An [array](Array "Array") of N nibbles can be declared as array of (N+1)/2 bytes
 
 
 ```C++
+
 BYTE nibbleBoard[32];
 
 ```
@@ -131,6 +132,7 @@ And this is how to extract piece-codes from a that board:
 
 
 ```C++
+
 int getPiece(int square) {
    int shift = (square & 1)  << 2; // 4 or 0
    return nibbleBoard[square >> 1] >> shift) & 15;
@@ -157,6 +159,7 @@ To apply 'add' or 'sub' on vectors of nibbles (or any arbitrary structure) [SWAR
 
 
 ```C++
+
 SWAR add z = x + y
     z = ((x &~H) + (y &~H)) ^ ((x ^ y) & H)
  

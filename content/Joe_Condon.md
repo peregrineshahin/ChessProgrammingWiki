@@ -73,7 +73,8 @@ Quote from [An Oral History of Unix](http://www.princeton.edu/%7Emike/unixhistor
 
 
 
-```C++He originally began his career at Bell Labs as a physicist/metallurgist and for political reasons moved into a project that involved UNIX. Condon possessed exceptional technical /research skills; he understood how a computer works, not just how to use it 
+```C++
+He originally began his career at Bell Labs as a physicist/metallurgist and for political reasons moved into a project that involved UNIX. Condon possessed exceptional technical /research skills; he understood how a computer works, not just how to use it 
 
 ```
 

@@ -40,6 +40,7 @@ They are stored in typical ways for games and positions:
 
 
 ```C++
+
 (e4(e5)(c5))(d4d5)) etc.
 
 ```
@@ -109,7 +110,8 @@ Chess [engines](Engines "Engines") can be used to evaluate positions in a book o
 
 
 
-```C++To solve the opening problems of his chess machine, [Belle](Belle "Belle"), [Ken Thompson](Ken_Thompson "Ken Thompson") typed in opening lines from the *[Encyclopedia of Chess Openings](https://en.wikipedia.org/wiki/Encyclopaedia_of_Chess_Openings)* (in five thick volumes). Religiously, he dedicated one hour a day for almost three years (!) to the tedious pursuit of entering lines of play from the books and having his Belle computer verify them. The result was an opening library of roughly three-hundred thousand moves. The results were immediate and obvious: Belle became a much stronger chess program, and Ken probably aged prematurely. Later Ken developed a program to automatically read the *Encyclopedia*, allowing him to do in a few days what had taken him three years to do manually. <a id="cite-note-6" href="#cite-ref-6">[6]</a> 
+```C++
+To solve the opening problems of his chess machine, [Belle](Belle "Belle"), [Ken Thompson](Ken_Thompson "Ken Thompson") typed in opening lines from the *[Encyclopedia of Chess Openings](https://en.wikipedia.org/wiki/Encyclopaedia_of_Chess_Openings)* (in five thick volumes). Religiously, he dedicated one hour a day for almost three years (!) to the tedious pursuit of entering lines of play from the books and having his Belle computer verify them. The result was an opening library of roughly three-hundred thousand moves. The results were immediate and obvious: Belle became a much stronger chess program, and Ken probably aged prematurely. Later Ken developed a program to automatically read the *Encyclopedia*, allowing him to do in a few days what had taken him three years to do manually. <a id="cite-note-6" href="#cite-ref-6">[6]</a> 
 
 ```
 

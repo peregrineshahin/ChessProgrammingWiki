@@ -19,7 +19,8 @@ Stephen Wheeler was actor in [Andrew Bujalski's](https://en.wikipedia.org/wiki/A
 
 
 
-```C++The purpose of this research was to provide a performance benchmark of the [Alpha-Beta](Alpha-Beta "Alpha-Beta") procedure, on [depth-first](Depth-First "Depth-First") randomly ordered game-trees with non-uniform [depth](Depth "Depth") and branching characteristics within the actual game-playing environment of computer chess. Although both theoretical and empirical studies have been performed to evaluate the efficiency of the Alpha-Beta algorithm, this research represents the first of its kind to establish the performance characteristics of the Alpha-Beta procedure within the specific problem domain of this study. 
+```C++
+The purpose of this research was to provide a performance benchmark of the [Alpha-Beta](Alpha-Beta "Alpha-Beta") procedure, on [depth-first](Depth-First "Depth-First") randomly ordered game-trees with non-uniform [depth](Depth "Depth") and branching characteristics within the actual game-playing environment of computer chess. Although both theoretical and empirical studies have been performed to evaluate the efficiency of the Alpha-Beta algorithm, this research represents the first of its kind to establish the performance characteristics of the Alpha-Beta procedure within the specific problem domain of this study. 
 
 ```
 
@@ -27,7 +28,8 @@ Stephen Wheeler was actor in [Andrew Bujalski's](https://en.wikipedia.org/wiki/A
 
 
 
-```C++A search of technical literature was performed to determine the research done to date with regard to the Alpha-Beta algorithm, and to ascertain the results obtained.  Modifications were made to the author's chess program to report Alpha-Beta pruning statistics to be used for an empirical evaluation of the algorithm's performance as compared to the unaided [Minimax](Minimax "Minimax") tree search algorithm.
+```C++
+A search of technical literature was performed to determine the research done to date with regard to the Alpha-Beta algorithm, and to ascertain the results obtained.  Modifications were made to the author's chess program to report Alpha-Beta pruning statistics to be used for an empirical evaluation of the algorithm's performance as compared to the unaided [Minimax](Minimax "Minimax") tree search algorithm.
 
 ```
 
@@ -35,12 +37,14 @@ Stephen Wheeler was actor in [Andrew Bujalski's](https://en.wikipedia.org/wiki/A
 
 
 
-```C++Research literature indicates that the Alpha-Beta algorithm is asymptotically optimal among all directional algorithms. No algorithm demonstrated better performance than the Alpha-Beta algorithm on uniform perfectly-ordered depth-first game trees.
+```C++
+Research literature indicates that the Alpha-Beta algorithm is asymptotically optimal among all directional algorithms. No algorithm demonstrated better performance than the Alpha-Beta algorithm on uniform perfectly-ordered depth-first game trees.
 
 ```
 
 
-```C++Chess programs generate non-uniform game trees. This author's research on such trees, generated to a minimum depth of two-ply and a maximum depth of four-ply with random ordering, indicates that the Alpha-Beta procedure provides a three-to one-improvement over the minimax procedure. The author has also demonstrated by empirical research that the number of bottom nodes evaluated by Alpha-Beta on such trees is roughly equal to 2b(3/4)d, where b is the [average branching factor](Branching_Factor#Average_Branching_Factor "Branching Factor") and d is the average depth of search, and fits well within the asymptotic upper bound described by [Knuth](Donald_Knuth "Donald Knuth") and Moore of (b/log b)d for the size and type of game trees investigated by this research.
+```C++
+Chess programs generate non-uniform game trees. This author's research on such trees, generated to a minimum depth of two-ply and a maximum depth of four-ply with random ordering, indicates that the Alpha-Beta procedure provides a three-to one-improvement over the minimax procedure. The author has also demonstrated by empirical research that the number of bottom nodes evaluated by Alpha-Beta on such trees is roughly equal to 2b(3/4)d, where b is the [average branching factor](Branching_Factor#Average_Branching_Factor "Branching Factor") and d is the average depth of search, and fits well within the asymptotic upper bound described by [Knuth](Donald_Knuth "Donald Knuth") and Moore of (b/log b)d for the size and type of game trees investigated by this research.
 
 ```
 

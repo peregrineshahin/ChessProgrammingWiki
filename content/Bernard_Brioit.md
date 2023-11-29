@@ -12,7 +12,8 @@ a French computer chess programmer, and author of the chess program [BBchess](BB
 
 Quote from an Interview with Bernard Brioit by [Frank Quisinsky](Frank_Quisinsky "Frank Quisinsky"), May 31, 2002 <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
-```C++I am 55 years old and I develop BBchess for more than 10 years. With [Christian Barreteau](Christian_Barreteau "Christian Barreteau") ([AnMon](AnMon "AnMon")) I began and we to have several years long together operated. [Bruno Lucas](Bruno_Lucas "Bruno Lucas") ([Dragon](Dragon_FR "Dragon FR")) came then to it and our co-operation was and is still fruitful.
+```C++
+I am 55 years old and I develop BBchess for more than 10 years. With [Christian Barreteau](Christian_Barreteau "Christian Barreteau") ([AnMon](AnMon "AnMon")) I began and we to have several years long together operated. [Bruno Lucas](Bruno_Lucas "Bruno Lucas") ([Dragon](Dragon_FR "Dragon FR")) came then to it and our co-operation was and is still fruitful.
 
 ```
 

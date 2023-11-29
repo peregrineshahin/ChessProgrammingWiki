@@ -70,11 +70,13 @@ Deep Sjeng 2.5 with [Mayura Chess Board](index.php?title=Mayura_Chess_Board&acti
 
 How is Deep Sjeng going? What did you use to understand the parallel algorithms you are using (which ones) ?
 
-```C++I started out with [ABDADA](ABDADA "ABDADA") (described in ICCA journal article and used in [Amy](Amy "Amy")), which got me a speedup of +- 1.2. I went on to try [PVS](Parallel_Search#PrincipalVariationSplitting "Parallel Search") ([Crafty 15.0](Crafty "Crafty") and described in several articles about parallel search) which got me a speedup of 1.2-1.3.
+```C++
+I started out with [ABDADA](ABDADA "ABDADA") (described in ICCA journal article and used in [Amy](Amy "Amy")), which got me a speedup of +- 1.2. I went on to try [PVS](Parallel_Search#PrincipalVariationSplitting "Parallel Search") ([Crafty 15.0](Crafty "Crafty") and described in several articles about parallel search) which got me a speedup of 1.2-1.3.
 
 ```
 
-```C++1.3 wasn't enough, so I 'bit the bullent' and started looking at [DTS](Dynamic_Tree_Splitting "Dynamic Tree Splitting") ([Cray Blitz](Cray_Blitz "Cray Blitz")). Unfortunately, DTS is both hideously complicated and requires a [nonrecursive search](Iterative_Search "Iterative Search") and a [p2p design](https://en.wikipedia.org/wiki/Point-to-point_%28network_topology%29#Point-to-point). I spent some time working on a variant of DTS that can work with a [recursive](Recursion "Recursion") search function and a [master-slave design](https://en.wikipedia.org/wiki/Master/slave_%28technology%29) and that is what I am using now. It still needs a lot of test work, but current results indicate a speedup of about 1.6. 
+```C++
+1.3 wasn't enough, so I 'bit the bullent' and started looking at [DTS](Dynamic_Tree_Splitting "Dynamic Tree Splitting") ([Cray Blitz](Cray_Blitz "Cray Blitz")). Unfortunately, DTS is both hideously complicated and requires a [nonrecursive search](Iterative_Search "Iterative Search") and a [p2p design](https://en.wikipedia.org/wiki/Point-to-point_%28network_topology%29#Point-to-point). I spent some time working on a variant of DTS that can work with a [recursive](Recursion "Recursion") search function and a [master-slave design](https://en.wikipedia.org/wiki/Master/slave_%28technology%29) and that is what I am using now. It still needs a lot of test work, but current results indicate a speedup of about 1.6. 
 
 ```
 

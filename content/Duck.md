@@ -12,7 +12,8 @@ a chess program written in [C](C "C") by [Dennis Breuker](Dennis_Breuker "Dennis
 
 from [Mark Uniacke's](Mark_Uniacke "Mark Uniacke") report on the [4th Computer Olympiad 1992](4th_Computer_Olympiad "4th Computer Olympiad") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
-```C++[Search techniques](Search "Search") used are [minimal-window](Null_Window "Null Window"), [alpha-beta](Alpha-Beta "Alpha-Beta") with [extensions](Extensions "Extensions") for [check evasion](Check_Extensions "Check Extensions"), [recaptures](Recapture_Extensions "Recapture Extensions"), [singular moves](Singular_Extensions "Singular Extensions") and [promotions](Promotions "Promotions"). [Move ordering](Move_Ordering "Move Ordering") is by [history heuristic](History_Heuristic "History Heuristic"), [refutation](Refutation_Move "Refutation Move") and [transposition-table moves](Hash_Move "Hash Move") and [captures](Captures "Captures"). Positional values may range up to +/- 1 Pawn. Development time is 2 years on a very part time basis. 
+```C++
+[Search techniques](Search "Search") used are [minimal-window](Null_Window "Null Window"), [alpha-beta](Alpha-Beta "Alpha-Beta") with [extensions](Extensions "Extensions") for [check evasion](Check_Extensions "Check Extensions"), [recaptures](Recapture_Extensions "Recapture Extensions"), [singular moves](Singular_Extensions "Singular Extensions") and [promotions](Promotions "Promotions"). [Move ordering](Move_Ordering "Move Ordering") is by [history heuristic](History_Heuristic "History Heuristic"), [refutation](Refutation_Move "Refutation Move") and [transposition-table moves](Hash_Move "Hash Move") and [captures](Captures "Captures"). Positional values may range up to +/- 1 Pawn. Development time is 2 years on a very part time basis. 
 
 ```
 

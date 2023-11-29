@@ -305,7 +305,8 @@ by [Ronald de Man](Ronald_de_Man "Ronald de Man") in a reply to [Guy Haworth](Gu
 
 
 
-```C++I create both WDL and DTZ in one go, so I don't use WDL in the creation of DTZ. The algorithm used is the [grandfather algorithm](Retrograde_Analysis#Algorithm "Retrograde Analysis") with 2 plies per iteration (I think [HGM](Harm_Geert_Muller "Harm Geert Muller") calls this leapfrogging, but I might be wrong). I tried the outcounting method, but it didn't seem to be competitive (and it makes things more complicated). <a id="cite-note-24" href="#cite-ref-24">[24]</a> <a id="cite-note-25" href="#cite-ref-25">[25]</a>
+```C++
+I create both WDL and DTZ in one go, so I don't use WDL in the creation of DTZ. The algorithm used is the [grandfather algorithm](Retrograde_Analysis#Algorithm "Retrograde Analysis") with 2 plies per iteration (I think [HGM](Harm_Geert_Muller "Harm Geert Muller") calls this leapfrogging, but I might be wrong). I tried the outcounting method, but it didn't seem to be competitive (and it makes things more complicated). <a id="cite-note-24" href="#cite-ref-24">[24]</a> <a id="cite-note-25" href="#cite-ref-25">[25]</a>
 A pure WDL/DTZ pair is not of much use for creating WDL50+/DTZ50+. I create tables in RAM that have all the information necessary for WDL50+ and DTZ50+, then permute them to different indexing schemes and compress. I do test runs on subsets of the data to find good permutations. (The idea to try permutations is from [Jesper Torp Kristensen's](Jesper_Torp_Kristensen "Jesper Torp Kristensen") master thesis.) <a id="cite-note-26" href="#cite-ref-26">[26]</a> <a id="cite-note-27" href="#cite-ref-27">[27]</a> 
 
 ```
@@ -315,7 +316,8 @@ A pure WDL/DTZ pair is not of much use for creating WDL50+/DTZ50+. I create tabl
 
 
 
-```C++Syzygy WDL is double sided, DTZ is single sided.
+```C++
+Syzygy WDL is double sided, DTZ is single sided.
 So to know whether a 7-piece position is winning, losing or drawn (or cursed), the engine needs to do only a single probe of a 7-piece WDL table. (It may in addition have to do some probes of 6-piece WDL tables if any direct captures are available.)
 If the engine needs to know the DTZ value (which is only necessary when a TB root position has been reached), the probing code may have to do a 1-ply search to get to the "right" side of the DTZ table.
 For 6-piece TBs, DTZ is 81.9GB when storing only the smaller side of each table. Storing both sides might require perhaps 240GB.
@@ -327,7 +329,8 @@ For 6-piece TBs, DTZ is 81.9GB when storing only the smaller side of each table.
 
 
 
-```C++Syzygy probing is a hell of a mess, and I don't want to plug two thousand lines of foreign code that I don't understand, nor do I have the motivation to fully understand how Syzygy files are stored, and then write the additional two thousand lines of code to read them for a mere 5 Elo gain at TCEC.
+```C++
+Syzygy probing is a hell of a mess, and I don't want to plug two thousand lines of foreign code that I don't understand, nor do I have the motivation to fully understand how Syzygy files are stored, and then write the additional two thousand lines of code to read them for a mere 5 Elo gain at TCEC.
 
 ```
 

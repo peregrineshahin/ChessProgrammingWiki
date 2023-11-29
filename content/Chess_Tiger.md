@@ -19,13 +19,15 @@ from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-9" href="#cite-ref
 
 ## 1997
 
-```C++The only tiger playing chess in the world! This program, developed under the Caribbean sun, is a blitz specialist. Recently it has greatly been improved and rewritten for 32 bits processors, bringing its level close to the best "state of the art" PC computer chess. 
+```C++
+The only tiger playing chess in the world! This program, developed under the Caribbean sun, is a blitz specialist. Recently it has greatly been improved and rewritten for 32 bits processors, bringing its level close to the best "state of the art" PC computer chess. 
 
 ```
 
 ## 1999
 
-```C++Chess Tiger used to be a very good tactical program, but has been improved to include more positional knowledge and is now a more balanced chess player. Chess Tiger is still developed under the sun, in [Guadeloupe](https://en.wikipedia.org/wiki/Guadeloupe) (French West Indies). 
+```C++
+Chess Tiger used to be a very good tactical program, but has been improved to include more positional knowledge and is now a more balanced chess player. Chess Tiger is still developed under the sun, in [Guadeloupe](https://en.wikipedia.org/wiki/Guadeloupe) (French West Indies). 
 
 ```
 

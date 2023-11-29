@@ -19,7 +19,8 @@ from [Bradley Kuszmaul's](Bradley_Kuszmaul "Bradley Kuszmaul") Ph.D. thesis <a i
 
 
 
-```C++The code for [move generation](Move_Generation "Move Generation") and checking [illegal moves](Legal_Move "Legal Move"), which takes a total of 3.5% of the cycles, was optimized in [assembly language](Assembly "Assembly") by [Ryan Rifkin](Ryan_Rifkin "Ryan Rifkin") under the direction of Mark Bromley of [Thinking Machines Corporation](https://en.wikipedia.org/wiki/Thinking_Machines_Corporation). Before Ryan worked on that code, the move generation and illegal move checking accounted for about 9% of all the cycles. 
+```C++
+The code for [move generation](Move_Generation "Move Generation") and checking [illegal moves](Legal_Move "Legal Move"), which takes a total of 3.5% of the cycles, was optimized in [assembly language](Assembly "Assembly") by [Ryan Rifkin](Ryan_Rifkin "Ryan Rifkin") under the direction of Mark Bromley of [Thinking Machines Corporation](https://en.wikipedia.org/wiki/Thinking_Machines_Corporation). Before Ryan worked on that code, the move generation and illegal move checking accounted for about 9% of all the cycles. 
 
 ```
 

@@ -23,7 +23,8 @@ connected with a small terminal with a 32-character display and keypad to enter 
 
 
 
-```C++I was a member of the Mephisto team in Portoroz and after a few rounds we found some facts very strange:
+```C++
+I was a member of the Mephisto team in Portoroz and after a few rounds we found some facts very strange:
 ```
 
 1. `We had never heard of Mr. Langer before`
@@ -34,7 +35,8 @@ connected with a small terminal with a 32-character display and keypad to enter 
 
 
 
-```C++At last we informed the ICCA about it and Mr. Langer was requested to show the source code of Quickstep. He didn't and so his program was disqualified. We never heard of him anymore... 
+```C++
+At last we informed the ICCA about it and Mr. Langer was requested to show the source code of Quickstep. He didn't and so his program was disqualified. We never heard of him anymore... 
 ```
 
 ## Disqualification

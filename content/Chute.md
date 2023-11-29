@@ -11,11 +11,13 @@ the chess program from the [University of Toronto](University_of_Toronto "Univer
 
 Abstract of *Experiences with Chute* during the [WCCC 1977](WCCC_1977 "WCCC 1977") in the Proceedings of the 1977 annual [ACM](ACM "ACM") conference <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
 
-```C++This paper describes some of the experiences with CHUTE (CHess, University of Toronto, Engineering), an easily modifiable chess playing program. The basic characteristics of the program are discussed. The game [tree look-ahead](Search "Search") procedure used in the program does not employ a [static position analysis](Evaluation "Evaluation"), but selects the best path strictly on the basis of dynamic move analysis.
+```C++
+This paper describes some of the experiences with CHUTE (CHess, University of Toronto, Engineering), an easily modifiable chess playing program. The basic characteristics of the program are discussed. The game [tree look-ahead](Search "Search") procedure used in the program does not employ a [static position analysis](Evaluation "Evaluation"), but selects the best path strictly on the basis of dynamic move analysis.
 
 ```
 
-```C++A brief discussion of heuristics is given, along with some of the problems encountered in their implementation. The program has an [opening book](Opening_Book "Opening Book")  designed to take other chess playing programs out of their books. 
+```C++
+A brief discussion of heuristics is given, along with some of the problems encountered in their implementation. The program has an [opening book](Opening_Book "Opening Book")  designed to take other chess playing programs out of their books. 
 
 ```
 

@@ -27,17 +27,20 @@ Where to use IID is also an important question. Limiting the depth is an obvious
 
 
 
-```C++I completely agree. IID is like an insurance. Most of the time it was not needed, but then it also costs very little. And now and then it saves you big time.
+```C++
+I completely agree. IID is like an insurance. Most of the time it was not needed, but then it also costs very little. And now and then it saves you big time.
 
 ```
 
 
-```C++Of course the lousier your basic move ordering, the more you benefit. But then it can be really spectacular, to the point where a program like [micro-Max](Micro-Max "Micro-Max") (which does have no move ordering at all, not even a move list, and can only search moves as it generates them) is able to compete with 'serious' engines. IID really works miracles there.
+```C++
+Of course the lousier your basic move ordering, the more you benefit. But then it can be really spectacular, to the point where a program like [micro-Max](Micro-Max "Micro-Max") (which does have no move ordering at all, not even a move list, and can only search moves as it generates them) is able to compete with 'serious' engines. IID really works miracles there.
 
 ```
 
 
-```C++One thing still on my to-do list is to investigate if even more drastic IID would not even be better. I am thinking of situations where a previously best move in a [PV node](Node_Types#pv-node "Node Types") experiences a dramatic drop in [score](Score "Score") (or even any decrease in score) at high search depth. If that move has been best move for many [ID](Iterative_Deepening "Iterative Deepening") or IID iterations, you will know next to nothing about the other moves. They have always been scoring below [alpha](Alpha "Alpha"), all their hashed scores are [upper bounds](Upper_Bound "Upper Bound"), and in many cases the upper bounds are no longer usable. (With [hard fail](Fail-Hard "Fail-Hard") they would never be usable!) Disastrously poor moves might very well have the highest upper bounds. To prevent wasting lots of time on such a disastrous move at high search depth, it would make sense to start searching for moves that might beat the new alpha at small depth first, resetting the IID depth back to 1 in PV nodes each time the value of alpha after search of the previous best move drops compared to the previous iteration. 
+```C++
+One thing still on my to-do list is to investigate if even more drastic IID would not even be better. I am thinking of situations where a previously best move in a [PV node](Node_Types#pv-node "Node Types") experiences a dramatic drop in [score](Score "Score") (or even any decrease in score) at high search depth. If that move has been best move for many [ID](Iterative_Deepening "Iterative Deepening") or IID iterations, you will know next to nothing about the other moves. They have always been scoring below [alpha](Alpha "Alpha"), all their hashed scores are [upper bounds](Upper_Bound "Upper Bound"), and in many cases the upper bounds are no longer usable. (With [hard fail](Fail-Hard "Fail-Hard") they would never be usable!) Disastrously poor moves might very well have the highest upper bounds. To prevent wasting lots of time on such a disastrous move at high search depth, it would make sense to start searching for moves that might beat the new alpha at small depth first, resetting the IID depth back to 1 in PV nodes each time the value of alpha after search of the previous best move drops compared to the previous iteration. 
 
 ```
 

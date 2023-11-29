@@ -49,7 +49,8 @@ Machine representation of sets i.e. foundation of [Bitboards](Bitboards "Bitboar
 
 
 
-```C++In 1952, Shura-Bura proposed a universal method for machine representation of sets which are subsets of some general enumerated set {m1,...,mn}. Each such subset {mi1, ... ,mik} is represented by a binary vector |β1,...,βn| where βi1 = βi2 = ... = βik = 1 while the other elements are all equal to zero. Such a vector is called a "logical scale". Computing the [cardinality](Population_Count "Population Count") of such sets and other set theoretic operations are rather conveniently reduced to machine instructions such as [shift](General_Setwise_Operations#ShiftingBitboards "General Setwise Operations"), [normalization](BitScan#DoubleConversionBSR "BitScan") and [bitwise logical operations](General_Setwise_Operations#Bitwisebooleanoperations "General Setwise Operations"). 
+```C++
+In 1952, Shura-Bura proposed a universal method for machine representation of sets which are subsets of some general enumerated set {m1,...,mn}. Each such subset {mi1, ... ,mik} is represented by a binary vector |β1,...,βn| where βi1 = βi2 = ... = βik = 1 while the other elements are all equal to zero. Such a vector is called a "logical scale". Computing the [cardinality](Population_Count "Population Count") of such sets and other set theoretic operations are rather conveniently reduced to machine instructions such as [shift](General_Setwise_Operations#ShiftingBitboards "General Setwise Operations"), [normalization](BitScan#DoubleConversionBSR "BitScan") and [bitwise logical operations](General_Setwise_Operations#Bitwisebooleanoperations "General Setwise Operations"). 
 
 ```
 
@@ -65,7 +66,8 @@ Machine representation of sets i.e. foundation of [Bitboards](Bitboards "Bitboar
 
 
 
-```C++At the end of the 1950's a group of Moscow mathematicians began a study of computerized chess. Sixteen years later, the studies would lead to victory in the [first world chess tournament for computer programs](WCCC_1974 "WCCC 1974") held in Stockholm during the 1974 [IFIP](IFIP "IFIP") Congress. An important component of this success was a deep study of the problems of information organization in [computer memory](Memory "Memory") and of various [search heuristics](Search "Search"). [G. M. Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") and [E. M. Landis](Mathematician#Landis "Mathematician") invented the [binary search tree](https://en.wikipedia.org/wiki/AVL_tree) ("dichotomic inquiry") and [A. L. Brudno](Alexander_Brudno "Alexander Brudno"), independent of [J. McCarthy](John_McCarthy "John McCarthy"), discovered the [(α,β)-heuristic](Alpha-Beta "Alpha-Beta") for reducing search times on a game tree.
+```C++
+At the end of the 1950's a group of Moscow mathematicians began a study of computerized chess. Sixteen years later, the studies would lead to victory in the [first world chess tournament for computer programs](WCCC_1974 "WCCC 1974") held in Stockholm during the 1974 [IFIP](IFIP "IFIP") Congress. An important component of this success was a deep study of the problems of information organization in [computer memory](Memory "Memory") and of various [search heuristics](Search "Search"). [G. M. Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") and [E. M. Landis](Mathematician#Landis "Mathematician") invented the [binary search tree](https://en.wikipedia.org/wiki/AVL_tree) ("dichotomic inquiry") and [A. L. Brudno](Alexander_Brudno "Alexander Brudno"), independent of [J. McCarthy](John_McCarthy "John McCarthy"), discovered the [(α,β)-heuristic](Alpha-Beta "Alpha-Beta") for reducing search times on a game tree.
 
 ```
 

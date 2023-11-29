@@ -36,17 +36,20 @@ Microchess 1.5 on [TRS-80](TRS-80 "TRS-80") <a id="cite-note-8" href="#cite-ref-
 
 
 
-```C++And if people were using the KIM-1 they weren't going to have it, the majority of people who had a KIM-1 that’s what they had, was just the KIM-1. So I mean I never thought about it in terms of could I put it on some bigger computer, I really at that point was saying “Okay this is what I'm going to do,” and so I treated the problem that way and looked at okay, how do you store the [positions](Board_Representation "Board Representation"), how do you store the [moves](Encoding_Moves "Encoding Moves"), how do you do it with the minimum amount of [memory](Memory "Memory"), how do you store the [tree](Search_Tree "Search Tree") of what you’ve created, and ...
+```C++
+And if people were using the KIM-1 they weren't going to have it, the majority of people who had a KIM-1 that’s what they had, was just the KIM-1. So I mean I never thought about it in terms of could I put it on some bigger computer, I really at that point was saying “Okay this is what I'm going to do,” and so I treated the problem that way and looked at okay, how do you store the [positions](Board_Representation "Board Representation"), how do you store the [moves](Encoding_Moves "Encoding Moves"), how do you do it with the minimum amount of [memory](Memory "Memory"), how do you store the [tree](Search_Tree "Search Tree") of what you’ve created, and ...
 
 ```
 
 
-```C++Well I know I didn't store the whole board, because it was simpler to just store the number of [pieces](Piece-Lists#MicroChess "Piece-Lists"), there are fewer pieces than there are [squares](Squares "Squares") on the board, and then what I would do is I would make a move, so I would only store the tree of moves and moves would always be done in a certain order, so you always knew that you could sort of start with this move, then go to that move, then go to that move, go through a sequence of potential types of moves. So the order of how moves would be [generated](Move_Generation "Move Generation") was always the same. So you could then go through one move at a time and I would store the first move and then I would [reverse the board](Color_Flipping#MicroChess "Color Flipping") and then just give it to the computer, give it to the program in the same way that it had looked at the first position, so all I had to store at that point was the position and one move. So the amount of storage was kept pretty small and you were basically giving it back to the computer and saying “Okay, reverse the board,” see what that does until you’ve lost something or you’ve gained something and analyze that against the [algorithm](Minimax "Minimax") and give it a [score](Score "Score").
+```C++
+Well I know I didn't store the whole board, because it was simpler to just store the number of [pieces](Piece-Lists#MicroChess "Piece-Lists"), there are fewer pieces than there are [squares](Squares "Squares") on the board, and then what I would do is I would make a move, so I would only store the tree of moves and moves would always be done in a certain order, so you always knew that you could sort of start with this move, then go to that move, then go to that move, go through a sequence of potential types of moves. So the order of how moves would be [generated](Move_Generation "Move Generation") was always the same. So you could then go through one move at a time and I would store the first move and then I would [reverse the board](Color_Flipping#MicroChess "Color Flipping") and then just give it to the computer, give it to the program in the same way that it had looked at the first position, so all I had to store at that point was the position and one move. So the amount of storage was kept pretty small and you were basically giving it back to the computer and saying “Okay, reverse the board,” see what that does until you’ve lost something or you’ve gained something and analyze that against the [algorithm](Minimax "Minimax") and give it a [score](Score "Score").
 
 ```
 
 
-```C++You start with exactly the same thing, one [point](Point_Value "Point Value") for [pawns](Pawn "Pawn") and two points for [knights](Knight "Knight") , three points for [bishops](Bishop "Bishop"), five for [rooks](Rook "Rook"), that’s exactly where it started. 
+```C++
+You start with exactly the same thing, one [point](Point_Value "Point Value") for [pawns](Pawn "Pawn") and two points for [knights](Knight "Knight") , three points for [bishops](Bishop "Bishop"), five for [rooks](Rook "Rook"), that’s exactly where it started. 
 
 ```
 
@@ -63,6 +66,7 @@ The [point values](Point_Value "Point Value") for 16 pieces, king (11), queen (1
 
 
 ```C++
+
 POINTS     db  $0B, $0A, $06, $06, $04, $04, $04, $04
            db  $02, $02, $02, $02, $02, $02, $02, $02
 

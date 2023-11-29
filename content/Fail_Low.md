@@ -12,7 +12,8 @@ A **Fail-low** appears at so called [All-Nodes](Node_Types#all-nodes "Node Types
 
 Quote by [Bruce Moreland](Bruce_Moreland "Bruce Moreland") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
-```C++A fail-low indicates that this position was not good enough for us.  We will not reach this position, because we have some other means of reaching a position that is better.  We will not make the move that allowed the opponent to put us in this position. 
+```C++
+A fail-low indicates that this position was not good enough for us.  We will not reach this position, because we have some other means of reaching a position that is better.  We will not make the move that allowed the opponent to put us in this position. 
 
 ```
 
@@ -22,7 +23,8 @@ Another meaning of a **Fail-Low**, is associated with [aspiration windows](Aspir
 
 Bruce again:
 
-```C++You can also talk about failing high and failing low from the root position, if you use an aspiration window. 
+```C++
+You can also talk about failing high and failing low from the root position, if you use an aspiration window. 
 
 ```
 

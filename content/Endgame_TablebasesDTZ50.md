@@ -118,6 +118,7 @@ There are two main aims when generating the index number. The easier the algorit
 The most straight forward way would be to for every piece on the board use 6 bit (1-64 squares)
 
 ```C++
+
 index = position_white_King + position_black_King * 64
 
 for each piece {

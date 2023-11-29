@@ -82,7 +82,8 @@ According to [Robert Hyatt](Robert_Hyatt "Robert Hyatt"), L'Excentrique was a fa
 
 
 
-```C++I remember [Ken](Ken_Thompson "Ken Thompson") once saying "If you can just hold on and not get caught by its tactics, it will eventually 'fold' and make a horrible positional mistake and crumble away." 
+```C++
+I remember [Ken](Ken_Thompson "Ken Thompson") once saying "If you can just hold on and not get caught by its tactics, it will eventually 'fold' and make a horrible positional mistake and crumble away." 
 
 ```
 

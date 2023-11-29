@@ -16,11 +16,13 @@ A difficulty in tuning and automated tuning of engine parameters is measuring [p
 
 Quote by [Ingo Althöfer](Ingo_Alth%C3%B6fer "Ingo Althöfer") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```C++It is one of the best arts to find the right SMALL set of parameters and to tune them.
+```C++
+It is one of the best arts to find the right SMALL set of parameters and to tune them.
 
 ```
 
-```C++Some 12 years ago I had a technical article on this ("On telescoping linear evaluation functions") in the [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal"), pp. 91-94, describing a theorem (of existence) which says that in case of linear evaluation functions with lots of terms there is always a small subset of the terms such that this set with the right parameters is almost as good as the full evaluation function. 
+```C++
+Some 12 years ago I had a technical article on this ("On telescoping linear evaluation functions") in the [ICCA Journal, Vol. 16, No. 2](ICGA_Journal#16_2 "ICGA Journal"), pp. 91-94, describing a theorem (of existence) which says that in case of linear evaluation functions with lots of terms there is always a small subset of the terms such that this set with the right parameters is almost as good as the full evaluation function. 
 
 ```
 

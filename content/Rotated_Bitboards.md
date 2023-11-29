@@ -31,6 +31,7 @@ Crafty didn't use byte aligned [diagonals](Diagonals "Diagonals"), but visual ro
 
 
 ```C++
+
   normal chess board bitmap            occupied_squares 90 degrees
 
   A8 B8 C8 D8 E8 F8 G8 H8              H8 H7 H6 H5 H4 H3 H2 H1
@@ -82,6 +83,7 @@ A8  B7  C6  D5  E4  F3  G2  H1     A1  B2  C3  D4  E5  F6  G7  H8
 
 
 ```C++
+
 Normal Bitboard.                       Flipped Bitboard.
 ##7 #6 #5 #4 #3 #2 #1 #0 Bit/Byte       #7 #6 #5 #4 #3 #2 #1 #0 Bit/Byte
 a8 b8 c8 d8 e8 f8 g8 h8 #7             a8 a7 a6 a5 a4 a3 a2 a1 #7
@@ -115,7 +117,8 @@ From [Robert Hyatt](Robert_Hyatt "Robert Hyatt") as repost to [Urban Koistinen](
 
 
 
-```C++When I first thought about doing the rotated bitmap idea, I discussed it with Peter G. of the DarkThought team. He thought (as I did) that the idea was pretty neat and worth trying. I (from the first thought) had always planned on updating the rotated bitmaps by the following approach: I have a set of 64 bitmaps callet set_mask[n]. To set bit 32, I simply AND(bit-map,set_mask[32]). If I have a rotated-90 bitmap, then I also create a rotated-90 set_mask, and do this: AND(bit-map-R90,set_mask_R90[32]) and I am done. Peter didn't like this, and wanted to get rid of the extra memory load for the rotated set_mask variable. (note there are actually 4 of these loads needed, for each of the rotated bitmaps). So he thought about it a bit and found a cute mathematical transformation based on shifts, AND's and OR's (I won't give it here since it is his idea) that avoide needing the set_mask_Rxx masks (note that on some machines, even the set_mask itself is not needed. to set bit 32 you just start with "1" and shift it to the right position avoiding the memory load altogether. However, the effect of Peter's approach is to map diagonal bits on the real bitmap to adjacent bits in a "psuedo-rotated" bitmap, without needing the set_mask_R90 stuff at all. Is it better? I'm not sure. My tests on the P6 said NO. My tests on the alpha with big cache also said NO. Peter's tests on the machine he used said YES. It definitely takes more instructions to do what Peter is doing. On a machine with a huge memory latency, like the [PC](IBM_PC "IBM PC"), my memory loading can be slow. But with a decent sized cache, the 64 words X 8 bytes per word (512 bytes) really tucks into a corner in cache and doesn't hurt at all, particularly since a cache hit on the P6 operates at CPU speed. The PII is a different case since the cache operates at 1/2 CPU speed, which might swing things in his favor. For the record, they are *close* under all cases. We are not talking 10% here...one might be 2% faster on one machine, the other 3% faster on another machine... But the "mapping" is really odd and would not let us just simply swap the L45 and R45 maps... 
+```C++
+When I first thought about doing the rotated bitmap idea, I discussed it with Peter G. of the DarkThought team. He thought (as I did) that the idea was pretty neat and worth trying. I (from the first thought) had always planned on updating the rotated bitmaps by the following approach: I have a set of 64 bitmaps callet set_mask[n]. To set bit 32, I simply AND(bit-map,set_mask[32]). If I have a rotated-90 bitmap, then I also create a rotated-90 set_mask, and do this: AND(bit-map-R90,set_mask_R90[32]) and I am done. Peter didn't like this, and wanted to get rid of the extra memory load for the rotated set_mask variable. (note there are actually 4 of these loads needed, for each of the rotated bitmaps). So he thought about it a bit and found a cute mathematical transformation based on shifts, AND's and OR's (I won't give it here since it is his idea) that avoide needing the set_mask_Rxx masks (note that on some machines, even the set_mask itself is not needed. to set bit 32 you just start with "1" and shift it to the right position avoiding the memory load altogether. However, the effect of Peter's approach is to map diagonal bits on the real bitmap to adjacent bits in a "psuedo-rotated" bitmap, without needing the set_mask_R90 stuff at all. Is it better? I'm not sure. My tests on the P6 said NO. My tests on the alpha with big cache also said NO. Peter's tests on the machine he used said YES. It definitely takes more instructions to do what Peter is doing. On a machine with a huge memory latency, like the [PC](IBM_PC "IBM PC"), my memory loading can be slow. But with a decent sized cache, the 64 words X 8 bytes per word (512 bytes) really tucks into a corner in cache and doesn't hurt at all, particularly since a cache hit on the P6 operates at CPU speed. The PII is a different case since the cache operates at 1/2 CPU speed, which might swing things in his favor. For the record, they are *close* under all cases. We are not talking 10% here...one might be 2% faster on one machine, the other 3% faster on another machine... But the "mapping" is really odd and would not let us just simply swap the L45 and R45 maps... 
 
 ```
 

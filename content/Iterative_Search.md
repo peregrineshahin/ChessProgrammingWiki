@@ -39,6 +39,7 @@ Especially for the [Parallel Search Algorithm](Parallel_Search "Parallel Search"
 
 
 ```C++
+
 namespace Label
 {
   enum _ {after_scout, after_research, ...};
@@ -114,6 +115,7 @@ node_done:
 
 
 ```C++
+
 enum { RETURN, NEW_NODE };
 
 ##define be_recursive() \

@@ -15,7 +15,8 @@ Along with [Mehdi Mhalla](index.php?title=Mehdi_Mhalla&action=edit&redlink=1 "Me
 They modified [Stockfish](Stockfish "Stockfish") in order to make it play Gardner Chess <a id="cite-note-4" href="#cite-ref-4">[4]</a>.
 Abstract <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```C++A 5×5 board is the smallest board on which one can set up all types of chess pieces as a start position. We consider Gardner’s minichess variant in which all pieces are set as in a standard chessboard (from Rook to King). This game has roughly 9×10^18 legal positions and is comparable in this respect with [checkers](Checkers "Checkers"). We weakly solve this game: we prove its game-theoretic value and give a strategy to draw against best play for White and Black sides. Our approach requires surprisingly little computing power. We give a human readable proof. The way the result is obtained is generic and could be generalized to bigger chess settings or to other games. 
+```C++
+A 5×5 board is the smallest board on which one can set up all types of chess pieces as a start position. We consider Gardner’s minichess variant in which all pieces are set as in a standard chessboard (from Rook to King). This game has roughly 9×10^18 legal positions and is comparable in this respect with [checkers](Checkers "Checkers"). We weakly solve this game: we prove its game-theoretic value and give a strategy to draw against best play for White and Black sides. Our approach requires surprisingly little computing power. We give a human readable proof. The way the result is obtained is generic and could be generalized to bigger chess settings or to other games. 
 
 ```
 

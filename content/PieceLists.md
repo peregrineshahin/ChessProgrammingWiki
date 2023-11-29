@@ -23,7 +23,8 @@ As elaborated in his thesis *New Architectures in Computer Chess, Chapter 2 Non-
 
 
 
-```C++int nWhiteRooks; /* counter white rooks */
+```C++
+int nWhiteRooks; /* counter white rooks */
 int white_rook_list[MAX_ROOKS] ;  /* MAX_ROOKS = 10 */
 ...
 int white_index_board[64]; /* or 15x12 board array */
@@ -41,7 +42,8 @@ The piece list traversal for instance in [move generation](Move_Generation "Move
 
 
 
-```C++for (int p = 0; p < nWhiteRooks; ) {
+```C++
+for (int p = 0; p < nWhiteRooks; ) {
    fromsquare = white_rook_list[p++];
    ...
 }
@@ -51,7 +53,8 @@ The piece list traversal for instance in [move generation](Move_Generation "Move
 
 
 
-```C++for (int p = nWhiteRooks; p > 0; ) {
+```C++
+for (int p = nWhiteRooks; p > 0; ) {
    fromsquare = white_rook_list[--p];
    ...
 }
@@ -69,6 +72,7 @@ The piece list traversal for instance in [move generation](Move_Generation "Move
 
 
 ```C++
+
   Initial                             make(Rb5-b8)                        make (xb8)
                                                                           nWhiteRooks--;
                                       index = white_index_board[b5];      index  = white_index_board[b8];
@@ -110,6 +114,7 @@ The piece list traversal for instance in [move generation](Move_Generation "Move
 
 
 ```C++
+
                                       unmake(xb8)                         unmake(Rb5-b8)
 
                                       white_rook_list[nWhiteRooks] = b8;  index = white_index_board[b8];

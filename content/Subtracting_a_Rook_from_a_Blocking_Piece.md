@@ -27,6 +27,7 @@ This trick is known as **o^(o-2r)**. Assuming rook **r** is member of the [occup
 
 
 ```C++
+
 occupancy        &  filemask[d]      =  potential blockers
 . . 1 1 . . 1 .     . . . 1 . . . .     . . . 1 . . . .
 1 . 1 1 . 1 1 1     . . . 1 . . . .     . . . 1 . . . .

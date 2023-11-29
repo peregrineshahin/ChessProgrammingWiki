@@ -18,6 +18,7 @@ The most obvious drawback of the presented code is that it does not see attacker
 We need to add the following function to the eval_init.cpp, in order to define squares which are considered worthwhile to attack:
 
 ```C++
+
 void setSquaresNearKing() {
   for (int i = 0; i < 128; ++i)
     for (int j = 0; j < 128; ++j)
@@ -62,6 +63,7 @@ void setSquaresNearKing() {
 The complete eval.cpp looks as follows:
 
 ```C++
+
 ##include "stdafx.h"
 ##include "0x88_math.h"
 ##include "eval.h"

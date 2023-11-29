@@ -13,6 +13,7 @@ a dynamic move ordering heuristic introduced by [Jos Uiterwijk](Jos_Uiterwijk "J
 This is how the counter move [array](Array "Array") is updated, if a [beta-cutoff](Beta-Cutoff "Beta-Cutoff") occurs:
 
 ```C++
+
    if ( score >= beta ) { // cutoff
       if ( isNonCapture (move) )
          counterMove[previousMove.from][previousMove.to] = move;
@@ -27,6 +28,7 @@ This is how the counter move [array](Array "Array") is updated, if a [beta-cutof
 While assigning scores to moves for move ordering, a bonus is earned for the move which matches the countermove of the last move played:
 
 ```C++
+
    if ( movelist[i].move == counterMove[previousMove.from][previousMove.to] )
       movelist[i].score += counterMoveBonus;
 

@@ -34,12 +34,14 @@ Quote from *Oral History of Monty Newborn* <a id="cite-note-8" href="#cite-ref-8
 
 
 
-```C++ Monty: Maybe [David](David_Levy "David Levy") helped [Ben](Ben_Mittman "Ben Mittman") on the [second one](ACM_1971 "ACM 1971"). The second one was held in Chicago, where the Northwestern team lived. Ben had it in his own backyard, so to speak. The second tournament then was a big success, and the [third tournament](ACM_1972 "ACM 1972") I was back involved in organizing as well. For a number of years, [Mittman](Ben_Mittman "Ben Mittman") and I organized these tournaments together. I started competing myself in the Boston tournament, the third tournament.
+```C++
+ Monty: Maybe [David](David_Levy "David Levy") helped [Ben](Ben_Mittman "Ben Mittman") on the [second one](ACM_1971 "ACM 1971"). The second one was held in Chicago, where the Northwestern team lived. Ben had it in his own backyard, so to speak. The second tournament then was a big success, and the [third tournament](ACM_1972 "ACM 1972") I was back involved in organizing as well. For a number of years, [Mittman](Ben_Mittman "Ben Mittman") and I organized these tournaments together. I started competing myself in the Boston tournament, the third tournament.
 
 ```
 
 
-```C++Q: With Ostrich?  
+```C++
+Q: With Ostrich?  
 Monty: With Ostrich. Ostrich was not a bad program. It never quite reached the top, but it was not bad. Ben and I organized tournaments year after year. David Levy got involved with some. We organized the ACM tournaments yearly, and in addition we organized world championships every third year. This went on pretty consistently right up until the time that Kasparov played the computer. They’re still having these tournaments, but my interest as a scientist sort of was fulfilled when Kasparov lost to the computer. As a scientist, I would say that that was the end of the experiment. 
 
 ```
@@ -56,7 +58,8 @@ Quote from *Canadian Chess* <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id
 
 
 
-```C++A win in the following last round game would have given Ostrich a tie for first place in the [1st World Computer Championship](WCCC_1974 "WCCC 1974"). Unfortunately, the program missed the winning move, 35. Rxh6+, as finding it required a search depth of 19-ply, which was beyond its capabilities. It also missed another winning move, 39. Bf5, which required an 11-ply search. 
+```C++
+A win in the following last round game would have given Ostrich a tie for first place in the [1st World Computer Championship](WCCC_1974 "WCCC 1974"). Unfortunately, the program missed the winning move, 35. Rxh6+, as finding it required a search depth of 19-ply, which was beyond its capabilities. It also missed another winning move, 39. Bf5, which required an 11-ply search. 
 
 ```
 
@@ -127,7 +130,8 @@ a1=Q 65.R6a4+ Kd3 66.Rxa1 Bxa1 67.Rxa1 Rg8 68.Rd1+ Ke4 69.Re1+ Kf5 70.Rf1+ Ke4
 
 
 
-```C++Ostrich, developed by Monty Newborn, was the first chess program to compete on a parallel system. It used eight Data General computers with each screen displaying the parallel computations taking place. Through the 1970s and 1980s, Ostrich competed in five world championships, coming close to winning in 1974. 
+```C++
+Ostrich, developed by Monty Newborn, was the first chess program to compete on a parallel system. It used eight Data General computers with each screen displaying the parallel computations taking place. Through the 1970s and 1980s, Ostrich competed in five world championships, coming close to winning in 1974. 
 
 ```
 
@@ -174,6 +178,7 @@ The **Gamma-algorithm** caused certain [futile nodes](Futility_Pruning "Futility
 
 
 ```C++
+
 P[i-3] : M[best] -> P[best] ...
        : M[1]    -> P[i-2] : M[2] -> P[i-1] : M[3] -> P[i]
 
@@ -208,12 +213,14 @@ Ostrich's [parallel search](Parallel_Search "Parallel Search") was elaborated by
 
 
 
-```C++Ostrich 81, originally developed by George Arnold and Monroe Newborn at Columbia University in 1971, has participated in seven ACM tournaments and two world championships. Its best result was a second place finish in the [1972 ACM tournament](ACM_1972 "ACM 1972"). Ostrich 81 won 3 out of 4 points in qualifying play for this tournament among the three Canadian programs this August.
+```C++
+Ostrich 81, originally developed by George Arnold and Monroe Newborn at Columbia University in 1971, has participated in seven ACM tournaments and two world championships. Its best result was a second place finish in the [1972 ACM tournament](ACM_1972 "ACM 1972"). Ostrich 81 won 3 out of 4 points in qualifying play for this tournament among the three Canadian programs this August.
 
 ```
 
 
-```C++Ostrich 81 is written in [assembly language](Assembly "Assembly") and requires 32k word of [memory](Memory "Memory") to execute. A [book](Opening_Book "Opening Book") of about 1,000 lines helps with the first few moves, when the program leaves the book, various strategies guide its play for the next dozen moves or so. The program carries out an [iteratively deepening](Iterative_Deepening "Iterative Deepening") and variable depth search examining about 20,000 nodes per three minute move. During the last few years, two of [Montreal's](https://en.wikipedia.org/wiki/Montreal) better chess players, [Ilan Vardi](Ilan_Vardi "Ilan Vardi") and [Frank Wang](index.php?title=Frank_Wang&action=edit&redlink=1 "Frank Wang (page does not exist)"), have helped with the [openings](Opening "Opening"). 
+```C++
+Ostrich 81 is written in [assembly language](Assembly "Assembly") and requires 32k word of [memory](Memory "Memory") to execute. A [book](Opening_Book "Opening Book") of about 1,000 lines helps with the first few moves, when the program leaves the book, various strategies guide its play for the next dozen moves or so. The program carries out an [iteratively deepening](Iterative_Deepening "Iterative Deepening") and variable depth search examining about 20,000 nodes per three minute move. During the last few years, two of [Montreal's](https://en.wikipedia.org/wiki/Montreal) better chess players, [Ilan Vardi](Ilan_Vardi "Ilan Vardi") and [Frank Wang](index.php?title=Frank_Wang&action=edit&redlink=1 "Frank Wang (page does not exist)"), have helped with the [openings](Opening "Opening"). 
 
 ```
 

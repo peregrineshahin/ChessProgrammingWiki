@@ -21,7 +21,8 @@ Turochamp incorporated important methods of [evaluation](Evaluation "Evaluation"
 
 
 
-```C++ Most of our attention went to deciding which moves were to be followed up. My memory about this is infuriatingly weak, Captures had to be followed up at least to the point where no further captures was immediately possible. Check and forcing moves had to be followed further. We were particularly keen on the idea that whereas certain moves would be scorned as pointless and pursued no further others would be followed quite a long way down certain paths. In the actual experiment I suspect we were a bit slapdash about all this and must have made a number of slips since the arithmetic was extremely tedious with pencil and paper. Out general conclusion was that a computer should be fairly easy to programme to play a game of chess against a beginner and stand a fair chance of winning or least reaching a winning position.  
+```C++
+ Most of our attention went to deciding which moves were to be followed up. My memory about this is infuriatingly weak, Captures had to be followed up at least to the point where no further captures was immediately possible. Check and forcing moves had to be followed further. We were particularly keen on the idea that whereas certain moves would be scorned as pointless and pursued no further others would be followed quite a long way down certain paths. In the actual experiment I suspect we were a bit slapdash about all this and must have made a number of slips since the arithmetic was extremely tedious with pencil and paper. Out general conclusion was that a computer should be fairly easy to programme to play a game of chess against a beginner and stand a fair chance of winning or least reaching a winning position.  
 
 ```
 

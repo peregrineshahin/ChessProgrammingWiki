@@ -82,19 +82,22 @@ from the [ICGA](ICGA "ICGA") tournament page <a id="cite-note-19" href="#cite-re
 
 ## 1995
 
-```C++Fritz is built around a selective search technique known as null-move search. As part of its search, Fritz allows one side to move twice (the other side does a null-move). If the position after the null-move does not return a high value in the evaluation function, then clearly the first of the two moves did not contain a threat. This applies to 95% of the moves in a search. Detecting such moves before they are searched to the full depth is an excellent method to speed-up the search. In its latest version, Fritz manages a 10-times speed-up over a version without the null-move search. Selective search unavoidably introduces oversights, but these are few. In tournaments against humans and other programs, Fritz has proven to be a tough opponent when defending difficult positions. 
+```C++
+Fritz is built around a selective search technique known as null-move search. As part of its search, Fritz allows one side to move twice (the other side does a null-move). If the position after the null-move does not return a high value in the evaluation function, then clearly the first of the two moves did not contain a threat. This applies to 95% of the moves in a search. Detecting such moves before they are searched to the full depth is an excellent method to speed-up the search. In its latest version, Fritz manages a 10-times speed-up over a version without the null-move search. Selective search unavoidably introduces oversights, but these are few. In tournaments against humans and other programs, Fritz has proven to be a tough opponent when defending difficult positions. 
 
 ```
 
 ## 1997
 
-```C++Fritz won the ICCA chess computer world championship in Hong Kong 1995 beating a prototype of the Deep Blue chess computer. It obtained the best computer result in the 1996 man-computer Aegon tournament. Fritz is build around a selective search technique known as the null-move search. Move generators, evaluation functions and data structures have been designed specially to maximise the effectiveness of the null-move search. If anything, Fritz is fast. The search engine is written in highly optimised assembly language. The present version searches at a rate of one thousand processor cycles per position. The openings book was constructed from grandmaster games. Fritz learns from his games and adjusts the probability weights in the openings book automatically. 
+```C++
+Fritz won the ICCA chess computer world championship in Hong Kong 1995 beating a prototype of the Deep Blue chess computer. It obtained the best computer result in the 1996 man-computer Aegon tournament. Fritz is build around a selective search technique known as the null-move search. Move generators, evaluation functions and data structures have been designed specially to maximise the effectiveness of the null-move search. If anything, Fritz is fast. The search engine is written in highly optimised assembly language. The present version searches at a rate of one thousand processor cycles per position. The openings book was constructed from grandmaster games. Fritz learns from his games and adjusts the probability weights in the openings book automatically. 
 
 ```
 
 ## 1999
 
-```C++Fritz is build around a selective search technique known as the null-move search. As part of its search, Fritz allows one side to move twice (the other side does a null-move). This allows the program to detect weak moves before they are searched to their full depth. Move generators, evaluation functions and data structures have been designed to maximize the effectiveness of the null-move search. Fritz is the winner of the previous computerchess world championship in Hong Kong 1995. 1993 Fritz tied for 1st place in a Blitz tournament in Munich with the complete world elite. It scored the best computer result in the 1996 man-computer Aegon tournament. In 1998 Fritz was leading the prestigious Swedish rating list. It won an active chess tournament Frankfurt 1998 with a full point ahead of 36 grandmasters. 
+```C++
+Fritz is build around a selective search technique known as the null-move search. As part of its search, Fritz allows one side to move twice (the other side does a null-move). This allows the program to detect weak moves before they are searched to their full depth. Move generators, evaluation functions and data structures have been designed to maximize the effectiveness of the null-move search. Fritz is the winner of the previous computerchess world championship in Hong Kong 1995. 1993 Fritz tied for 1st place in a Blitz tournament in Munich with the complete world elite. It scored the best computer result in the 1996 man-computer Aegon tournament. In 1998 Fritz was leading the prestigious Swedish rating list. It won an active chess tournament Frankfurt 1998 with a full point ahead of 36 grandmasters. 
 
 ```
 

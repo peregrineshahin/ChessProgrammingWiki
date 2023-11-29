@@ -209,6 +209,7 @@ Windows programs are [event-driven](https://en.wikipedia.org/wiki/Event-driven_p
 
 
 ```C++
+
 int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
 {
    WNDCLASS wc;
@@ -238,6 +239,7 @@ The callback or [Window procedure](http://msdn.microsoft.com/en-us/library/ms632
 
 
 ```C++
+
 LRESULT CALLBACK MyWndProc(
     HWND hwnd,        // handle to window
     UINT uMsg,        // message identifier

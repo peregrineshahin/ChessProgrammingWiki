@@ -76,13 +76,15 @@ Many programmers took a lot of ideas and implementation details from Fruit, as n
 
 [Alexander Schmidt](index.php?title=Alexander_Schmidt&action=edit&redlink=1 "Alexander Schmidt (page does not exist)"):
 
-```C++The increase in playing strength of the latest chess engines is unbelieveable. We have since some time with Fruit 2.1 by Fabien Letouzey a very strong open source engine. Do you see a relation between the published sources of such a strong engine and the increase of strength in computer chess in general? How much influence do the ideas of Fruit have on the future of computerchess? 
+```C++
+The increase in playing strength of the latest chess engines is unbelieveable. We have since some time with Fruit 2.1 by Fabien Letouzey a very strong open source engine. Do you see a relation between the published sources of such a strong engine and the increase of strength in computer chess in general? How much influence do the ideas of Fruit have on the future of computerchess? 
 
 ```
 
 [Vasik Rajlich](Vasik_Rajlich "Vasik Rajlich"):
 
-```C++Yes, the publication of Fruit 2.1 was huge. Look at how many engines took a massive jump in its wake: [Rybka](Rybka "Rybka"), [HIARCS](HIARCS "HIARCS"), [Fritz](Fritz "Fritz"), [Zappa](Zappa "Zappa"), [Spike](Spike "Spike"), [List](List_(Program) "List (Program)"), and so on. I went through the Fruit 2.1 source code forwards and backwards and took many things. 
+```C++
+Yes, the publication of Fruit 2.1 was huge. Look at how many engines took a massive jump in its wake: [Rybka](Rybka "Rybka"), [HIARCS](HIARCS "HIARCS"), [Fritz](Fritz "Fritz"), [Zappa](Zappa "Zappa"), [Spike](Spike "Spike"), [List](List_(Program) "List (Program)"), and so on. I went through the Fruit 2.1 source code forwards and backwards and took many things. 
 
 ```
 

@@ -108,6 +108,7 @@ This is the table from [Glaurung](Glaurung "Glaurung") 1.2:
 
 
 ```C++
+
 static const int SafetyTable[100] = {
    0,   0,   0,   1,   1,   2,   3,   4,   5,   6,
    8,  10,  13,  16,  20,  25,  30,  36,  42,  48,
@@ -129,6 +130,7 @@ This is the table generated using a formula from [Stockfish](Stockfish "Stockfis
 
 
 ```C++
+
 static const int SafetyTable[100] = {
     0,  0,   1,   2,   3,   5,   7,   9,  12,  15,
   18,  22,  26,  30,  35,  39,  44,  50,  56,  62,

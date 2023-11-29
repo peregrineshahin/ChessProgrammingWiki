@@ -12,11 +12,13 @@ an American computer scientist, software developer, M.Sc. in CS from [Carnegie M
 
 Bob Jenkins' small noncryptographic PRNG approach is suited for [Zobrist Hashing](Zobrist_Hashing "Zobrist Hashing"). [Heinz van Saanen's](index.php?title=Heinz_van_Saanen&action=edit&redlink=1 "Heinz van Saanen (page does not exist)") RKISS as used in [Stockfish](Stockfish "Stockfish") since version 2.0 <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a> uses almost the same code despite embedded it into a C++ class and initialization <a id="cite-note-10" href="#cite-ref-10">[10]</a>. Van Saanen admitted he took an obviously free and quite raw C-snippet from a random-related newsgroup long time ago. When turned this to a functional C++-class years later he could not find the initial source any longer, and gave credit to [George Marsaglia](Mathematician#GMarsaglia "Mathematician") as inventor of the RNG-Kiss-family <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a>. This is Bob's 64 bit code <a id="cite-note-15" href="#cite-ref-15">[15]</a>:
 
-```C++If you want to use 8-byte terms instead of 4-byte terms, the proper rotate amounts are (39,11) for the two-rotate version (yielding at least 13.3 bits of [avalanche](https://en.wikipedia.org/wiki/Avalanche_effect) after 5 rounds) or (7,13,37) for the three-rotate version (yielding 18.4 bits of avalanche after 5 rounds). I think I'd got with the three-rotate version, because the ideal is 32 bits of avalanche, and 13.3 isn't even half of that. 
+```C++
+If you want to use 8-byte terms instead of 4-byte terms, the proper rotate amounts are (39,11) for the two-rotate version (yielding at least 13.3 bits of [avalanche](https://en.wikipedia.org/wiki/Avalanche_effect) after 5 rounds) or (7,13,37) for the three-rotate version (yielding 18.4 bits of avalanche after 5 rounds). I think I'd got with the three-rotate version, because the ideal is 32 bits of avalanche, and 13.3 isn't even half of that. 
 
 ```
 
 ```C++
+
 typedef unsigned long long u8;
 typedef struct ranctx { u8 a; u8 b; u8 c; u8 d; } ranctx;
 

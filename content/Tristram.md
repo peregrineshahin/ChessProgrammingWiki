@@ -22,22 +22,26 @@ Excerpt of *Tristan and Isolde* <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 
 
-```C++One day - Tristan was now fourteen years old - a merchant ship from Norway pulled ashore not far from the castle where Tristan lived with Rual and his family. Curious about the traders' offerings, Tristan and his two brothers (as he supposed Rual's sons to be) approached the ship. Tristan's attention immediately turned to a chess board and a set of beautifully carved pieces.
+```C++
+One day - Tristan was now fourteen years old - a merchant ship from Norway pulled ashore not far from the castle where Tristan lived with Rual and his family. Curious about the traders' offerings, Tristan and his two brothers (as he supposed Rual's sons to be) approached the ship. Tristan's attention immediately turned to a chess board and a set of beautifully carved pieces.
 
 ```
 
 
-```C++"Do you play chess?" he asked the merchants in perfect Norwegian.
+```C++
+"Do you play chess?" he asked the merchants in perfect Norwegian.
 
 ```
 
 
-```C++One of them accepted his challenge, and they sat down to play.
+```C++
+One of them accepted his challenge, and they sat down to play.
 
 ```
 
 
-```C++Fascinated by his grace, skill, and good looks, the Norwegians hatched a plot to kidnap him. Keeping him engaged with the chess game, they weighed anchor and set sail. But by God's will a fierce storm arose, and the Norwegians feared that they would all perish. Sensing that their wicked act had brought about the tempest, they avowed that they would immediately release their captive if the storm would only abate. The wind and waves immediately slackened, and in keeping with their promise, they set the boy free on the nearest shore, which, as fate would have it, was on the coast of Cornwall. 
+```C++
+Fascinated by his grace, skill, and good looks, the Norwegians hatched a plot to kidnap him. Keeping him engaged with the chess game, they weighed anchor and set sail. But by God's will a fierce storm arose, and the Norwegians feared that they would all perish. Sensing that their wicked act had brought about the tempest, they avowed that they would immediately release their captive if the storm would only abate. The wind and waves immediately slackened, and in keeping with their promise, they set the boy free on the nearest shore, which, as fate would have it, was on the coast of Cornwall. 
 
 ```
 

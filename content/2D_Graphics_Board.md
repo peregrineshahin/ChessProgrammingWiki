@@ -35,6 +35,7 @@ a [2D graphics](https://en.wikipedia.org/wiki/2D_computer_graphics) image of a [
 |
 
 ```C++
+
 /* Piece Coordinates */
 static POINT KnightPoint0[] = {
    { 10, 12},{ 11,  2},{ 10, -3},{  8, -6},

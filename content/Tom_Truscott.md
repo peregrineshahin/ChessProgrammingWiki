@@ -20,7 +20,8 @@ From [Michael](https://en.wikipedia.org/wiki/Michael_Hauben) and Ronda Hauben's 
 
 
 
-```C++Truscott and [Wright](Bruce_Wright "Bruce Wright") continued to participate in the Chess Tournaments and in 1980 they competed in the 3rd world Computer Chess Championship held in Linz, Austria. [Thompson](Ken_Thompson "Ken Thompson") and [Joe Condon](Joe_Condon "Joe Condon"), who was a researcher at [Bell Labs](Bell_Laboratories "Bell Laboratories"), were also in the competition. Truscott notes that Thompson and Condon "had completed their hardware chess machine and snagged first place. [Duchess](Duchess "Duchess") came in third. And [Claude Shannon](Claude_Shannon "Claude Shannon") was in attendance, and even handed out the trophies at the awards ceremony. Afterwards we all went over to a TV studio to watch a West German TV special on computer chess and the championship. Claude Shannon and his wife were very engaging people. Someone took a photo of all of us, I have a copy buried somewhere". 
+```C++
+Truscott and [Wright](Bruce_Wright "Bruce Wright") continued to participate in the Chess Tournaments and in 1980 they competed in the 3rd world Computer Chess Championship held in Linz, Austria. [Thompson](Ken_Thompson "Ken Thompson") and [Joe Condon](Joe_Condon "Joe Condon"), who was a researcher at [Bell Labs](Bell_Laboratories "Bell Laboratories"), were also in the competition. Truscott notes that Thompson and Condon "had completed their hardware chess machine and snagged first place. [Duchess](Duchess "Duchess") came in third. And [Claude Shannon](Claude_Shannon "Claude Shannon") was in attendance, and even handed out the trophies at the awards ceremony. Afterwards we all went over to a TV studio to watch a West German TV special on computer chess and the championship. Claude Shannon and his wife were very engaging people. Someone took a photo of all of us, I have a copy buried somewhere". 
 
 ```
 

@@ -51,12 +51,14 @@ Ra2 62.Kg1 Kf3 63.Kh1 Kg3 64.Kg1 Ra1# 0-1
 
 
 
-```C++Symbolic's search has no [recursion](Recursion "Recursion"). There is the one routine Node() which has a big switch statement with each case being a different phase. The routine's main loop hits the switch each time through until the current phase is PhaseExit. At the top of the loop is is single check of a volatile boolean which, if triggered, sets the phase to PhaseExit. There is no unwinding as there is nothing to unwind. There is nothing hidden on the stack to deconstruct as there is no recursion. The search can be paused, and it can also be stopped and restarted at any phase at any depth.
+```C++
+Symbolic's search has no [recursion](Recursion "Recursion"). There is the one routine Node() which has a big switch statement with each case being a different phase. The routine's main loop hits the switch each time through until the current phase is PhaseExit. At the top of the loop is is single check of a volatile boolean which, if triggered, sets the phase to PhaseExit. There is no unwinding as there is nothing to unwind. There is nothing hidden on the stack to deconstruct as there is no recursion. The search can be paused, and it can also be stopped and restarted at any phase at any depth.
 
 ```
 
 
-```C++A lot of chess programmers still use a recursive search because they've copied it out of a textbook or from someone else's program. If they would take the time to learn about the alternative of no recursion, then they just might a more elegant -- and possibly faster -- program.  
+```C++
+A lot of chess programmers still use a recursive search because they've copied it out of a textbook or from someone else's program. If they would take the time to learn about the alternative of no recursion, then they just might a more elegant -- and possibly faster -- program.  
 
 ```
 

@@ -16,7 +16,8 @@ As a surprise for the computer chess scene in November 2013, Gyula Horváth turn
 
 from the [ICGA](ICGA "ICGA")-site <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```C++Gyula Horvath started writing chess programs in 1985. His program won the Amateur World Chess Championship in 1987 and the Personal Computer Chess Champion title in 1988 and 1989. His wife, Szuzsa, joined the development in 1986. She is mainly active in testing the program and in designing and programming the graphics of the commercial versions of the program. Both of them pursue chess programming as a hobby - Gyula works as a marketing researcher and Zsuzsa works as a telemarketing assistant. 
+```C++
+Gyula Horvath started writing chess programs in 1985. His program won the Amateur World Chess Championship in 1987 and the Personal Computer Chess Champion title in 1988 and 1989. His wife, Szuzsa, joined the development in 1986. She is mainly active in testing the program and in designing and programming the graphics of the commercial versions of the program. Both of them pursue chess programming as a hobby - Gyula works as a marketing researcher and Zsuzsa works as a telemarketing assistant. 
 
 ```
 

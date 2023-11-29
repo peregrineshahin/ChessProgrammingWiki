@@ -23,6 +23,7 @@ There is also a position drawn despite having a nominally good bishop: white paw
 
 
 ```C++
+
 dl = distance(lonesomeKing, promoSquare) + (side2move != loneSome); /* considers tempo */
 dw = distance(King, promoSquare);
 dp = min (distance(MostAdvancedPawn, promoSquare), 5); /* considers double push */

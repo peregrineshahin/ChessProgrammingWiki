@@ -12,7 +12,8 @@ the *classical* chess program for the [PDP-8](PDP-8 "PDP-8"), written in the 70s
 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```C++CHEKMO-II is a chess playing program which will run on any PDP-8 family computer. The program will play either the white pieces or the black pieces, and will play and accept all classes of legal moves, including [castling](Castling "Castling") both short and long, [en passant](En_passant "En passant") pawn captures, and [pawn promoting moves](Promotions "Promotions") to any legal promotion piece. The program prints out its moves in [Algebraic Notation](Algebraic_Chess_Notation "Algebraic Chess Notation"), and [accepts moves](Entering_Moves "Entering Moves") using Algebraic Notation. Included in the command structure of the program are commands which allow you to input board positions using [Forsyth Notation](Forsyth-Edwards_Notation "Forsyth-Edwards Notation"), and get a printout of the board at your terminal. 
+```C++
+CHEKMO-II is a chess playing program which will run on any PDP-8 family computer. The program will play either the white pieces or the black pieces, and will play and accept all classes of legal moves, including [castling](Castling "Castling") both short and long, [en passant](En_passant "En passant") pawn captures, and [pawn promoting moves](Promotions "Promotions") to any legal promotion piece. The program prints out its moves in [Algebraic Notation](Algebraic_Chess_Notation "Algebraic Chess Notation"), and [accepts moves](Entering_Moves "Entering Moves") using Algebraic Notation. Included in the command structure of the program are commands which allow you to input board positions using [Forsyth Notation](Forsyth-Edwards_Notation "Forsyth-Edwards Notation"), and get a printout of the board at your terminal. 
 
 ```
 
@@ -20,11 +21,13 @@ the *classical* chess program for the [PDP-8](PDP-8 "PDP-8"), written in the 70s
 
 <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
-```C++CHEKMO-II has been programmed to use the same strategy [throughout the game](Game_Phases "Game Phases"). This strategy has been optimized for good play in the [Middlegame](Middlegame "Middlegame"), and [Opening](Opening "Opening"). As a result CHEKMO-II plays poor moves in some [Endgame](Endgame "Endgame") positions.
+```C++
+CHEKMO-II has been programmed to use the same strategy [throughout the game](Game_Phases "Game Phases"). This strategy has been optimized for good play in the [Middlegame](Middlegame "Middlegame"), and [Opening](Opening "Opening"). As a result CHEKMO-II plays poor moves in some [Endgame](Endgame "Endgame") positions.
 
 ```
 
-```C++If either the white side or the black side becomes significantly more powerful than the other (about 4 queens) CHEKMO-II may play some strange, but legal moves. This is caused by overflow in an internal evaluator routine. 
+```C++
+If either the white side or the black side becomes significantly more powerful than the other (about 4 queens) CHEKMO-II may play some strange, but legal moves. This is caused by overflow in an internal evaluator routine. 
 
 ```
 

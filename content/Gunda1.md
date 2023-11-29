@@ -13,15 +13,18 @@ Gunda-1 based on Crafty 9.31 was allowed to play the [WMCCC 1996](WMCCC_1996 "WM
 
 Excerpt from [Ratih Dewanti's](Ratih_Dewanti "Ratih Dewanti") tournament report, [ICCA Journal](ICGA_Journal "ICGA Journal"), December 1996 <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
-```C++Gunadarma University vividly wished not only to take part as a sponsor in the [14th World Microcomputer Chess Tournament](WMCCC_1996 "WMCCC 1996"), but also as a participant. At first, this seemed an audacious wish, since programming a computer-chess system from scratch requires a great deal of effort. Due to our contacts with the [ICCA](ICCA "ICCA") we were referred to the program [CRAFTY](Crafty "Crafty") (especially to [Bob Hyatt](Robert_Hyatt "Robert Hyatt")). The Gunadarma University was enthusiastic about the possibility that their wish could be fulfilled. So they formed a group of eight persons working on an own chess program based on CRAFTY. The group, called Gunadarma University Expert Team, was led by [Professor Suryadi Harmanto](Suryadi_Harmanto "Suryadi Harmanto"), the other members being Haryanto, M. Shofwan A, Avinanta Tarigan, Adang Suhendra, Adrian, Tubagus Maulana, and Windiaprana. The team worked six months on the program. 
+```C++
+Gunadarma University vividly wished not only to take part as a sponsor in the [14th World Microcomputer Chess Tournament](WMCCC_1996 "WMCCC 1996"), but also as a participant. At first, this seemed an audacious wish, since programming a computer-chess system from scratch requires a great deal of effort. Due to our contacts with the [ICCA](ICCA "ICCA") we were referred to the program [CRAFTY](Crafty "Crafty") (especially to [Bob Hyatt](Robert_Hyatt "Robert Hyatt")). The Gunadarma University was enthusiastic about the possibility that their wish could be fulfilled. So they formed a group of eight persons working on an own chess program based on CRAFTY. The group, called Gunadarma University Expert Team, was led by [Professor Suryadi Harmanto](Suryadi_Harmanto "Suryadi Harmanto"), the other members being Haryanto, M. Shofwan A, Avinanta Tarigan, Adang Suhendra, Adrian, Tubagus Maulana, and Windiaprana. The team worked six months on the program. 
 
 ```
 
-```C++The specifications of GUNDA-1 are as follows. It is written in [ANSI C](C "C") and [Assembly Language](Assembly "Assembly"), and has been tested and run well in [LINUX](Linux "Linux") [Slackware](https://en.wikipedia.org/wiki/Slackware) version 3.0. In order to improve the execution speed, the [kernel](https://en.wikipedia.org/wiki/Linux_kernel) of the LINUX operating system has been optimized for the [Pentium](X86 "X86") processor.
+```C++
+The specifications of GUNDA-1 are as follows. It is written in [ANSI C](C "C") and [Assembly Language](Assembly "Assembly"), and has been tested and run well in [LINUX](Linux "Linux") [Slackware](https://en.wikipedia.org/wiki/Slackware) version 3.0. In order to improve the execution speed, the [kernel](https://en.wikipedia.org/wiki/Linux_kernel) of the LINUX operating system has been optimized for the [Pentium](X86 "X86") processor.
 
 ```
 
-```C++In the 14th WMCC, GUNDA-1 used a [Pentium Pro 200](https://en.wikipedia.org/wiki/Pentium_Pro), and was operated by Dede Liu and Andi Suhendra. GUNDA-1 received a wildcard from the ICCA for participating in the tournament. We were very happy with it and especially with the result. GUNDA-1 finished fifth (tied fourth with its "origin" CRAFTY represented by Tom Crain). A remarkable contest was in the first round when GUNDA-1 played CRAFTY (as was agreed upon beforehand) and won ... its first game in a World Championship. Still, after the tournament we know that there are many things to do to improve the program. 
+```C++
+In the 14th WMCC, GUNDA-1 used a [Pentium Pro 200](https://en.wikipedia.org/wiki/Pentium_Pro), and was operated by Dede Liu and Andi Suhendra. GUNDA-1 received a wildcard from the ICCA for participating in the tournament. We were very happy with it and especially with the result. GUNDA-1 finished fifth (tied fourth with its "origin" CRAFTY represented by Tom Crain). A remarkable contest was in the first round when GUNDA-1 played CRAFTY (as was agreed upon beforehand) and won ... its first game in a World Championship. Still, after the tournament we know that there are many things to do to improve the program. 
 
 ```
 
@@ -53,7 +56,8 @@ Qxe5 34.Qg6+ 1-0
 
 Excerpt from [Tony Marsland's](Tony_Marsland "Tony Marsland") *Recognition of Local Participation* <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
 
-```C++There is no token that can adequately express the International Chess Community's appreciation for the host University, Gunadarma. While one can recognize the founder, [Professor Suryadi Harmanto's](Suryadi_Harmanto "Suryadi Harmanto") love of chess and wisdom in building an institution whose programs are bound so tightly with the importance of Information Technology, one can only be impressed by his courage in taking on the challenge of revising the GUNDA-1 chess program to give it local character, while risking all in a competition like this one. The computer-chess community is delighted to accept him into its ranks as a programmer and, hopefully, as a long-time continuing participant in ICCA events. The world needs more risk takers with such vision. 
+```C++
+There is no token that can adequately express the International Chess Community's appreciation for the host University, Gunadarma. While one can recognize the founder, [Professor Suryadi Harmanto's](Suryadi_Harmanto "Suryadi Harmanto") love of chess and wisdom in building an institution whose programs are bound so tightly with the importance of Information Technology, one can only be impressed by his courage in taking on the challenge of revising the GUNDA-1 chess program to give it local character, while risking all in a competition like this one. The computer-chess community is delighted to accept him into its ranks as a programmer and, hopefully, as a long-time continuing participant in ICCA events. The world needs more risk takers with such vision. 
 
 ```
 
@@ -61,25 +65,30 @@ Excerpt from [Tony Marsland's](Tony_Marsland "Tony Marsland") *Recognition of Lo
 
 [Bob Hyatt](Robert_Hyatt "Robert Hyatt") 1996 in *Jakarta information* on the first WMCCC round <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
-```C++There are two Crafty programs there, mine, and 9.31 entered by the Indonesians.  This is something that seems wrong to me and I'll take it up with the ICCA later, as this was discussed at length and I thought it was clear that Crafty is Crafty, period.  Makes little sense to have two... 
+```C++
+There are two Crafty programs there, mine, and 9.31 entered by the Indonesians.  This is something that seems wrong to me and I'll take it up with the ICCA later, as this was discussed at length and I thought it was clear that Crafty is Crafty, period.  Makes little sense to have two... 
 
 ```
 
 and some more details later <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
 
-```C++The actual Gunda story was pretty fractured at times. Here is what actually happened.
+```C++
+The actual Gunda story was pretty fractured at times. Here is what actually happened.
 
 ```
 
-```C++The 1996 event was in Jakarta, being hosted by the university there. The CS chair (perhaps, I am not certain on this) asked David if they could enter a modified Crafty as a participant. David asked me and I replied "Sure. I was going to participate, but if they are interested, that works for me." And I left it at that. But each time the new participant list was published, no "Gunda-1" entry. I sent David/Tony an email and they replied "we have not received an entry from them, do you want to enter yourself?" And I replied yes. I filled out the application, GM Roman Dzhindi had a friend that volunteered to operate AND buy us a pentium-pro box to use. He also bought the airline ticket and set up his room reservation at his own cost. Then at the last minute along came Gunda-1. Now there was a quandary, in that our guy had already bought a non-refundable airline ticket, booked a room, had sent the pentium pro to me to install linux, + crafty, plus 3-4-5 piece endgame tables, and then I had FedEx'ed it on to Jakarta. David promptly contacted me for advice. He did not want to refuse them entry since they were hosting the event, he did not want to exclude the real Crafty after the expenses we had spent, so I suggested they discuss it at the player's meeting, which they did. No one raised an objection after hearing the explanation, and the only stipulation the players wanted was to request that Gunda-1 and Crafty NOT be paired against each other unless it was absolutely unavoidable, for obvious reasons.
+```C++
+The 1996 event was in Jakarta, being hosted by the university there. The CS chair (perhaps, I am not certain on this) asked David if they could enter a modified Crafty as a participant. David asked me and I replied "Sure. I was going to participate, but if they are interested, that works for me." And I left it at that. But each time the new participant list was published, no "Gunda-1" entry. I sent David/Tony an email and they replied "we have not received an entry from them, do you want to enter yourself?" And I replied yes. I filled out the application, GM Roman Dzhindi had a friend that volunteered to operate AND buy us a pentium-pro box to use. He also bought the airline ticket and set up his room reservation at his own cost. Then at the last minute along came Gunda-1. Now there was a quandary, in that our guy had already bought a non-refundable airline ticket, booked a room, had sent the pentium pro to me to install linux, + crafty, plus 3-4-5 piece endgame tables, and then I had FedEx'ed it on to Jakarta. David promptly contacted me for advice. He did not want to refuse them entry since they were hosting the event, he did not want to exclude the real Crafty after the expenses we had spent, so I suggested they discuss it at the player's meeting, which they did. No one raised an objection after hearing the explanation, and the only stipulation the players wanted was to request that Gunda-1 and Crafty NOT be paired against each other unless it was absolutely unavoidable, for obvious reasons.
 
 ```
 
-```C++It was a silly mistake, but not one anyone would have been very likely to predict, so we made the best of it. Funny thing was the two programs tied for places 4-5, which was not expected. Crafty could certainly have won that event with a little luck, but you would not normally expect both to finish at the same position.
+```C++
+It was a silly mistake, but not one anyone would have been very likely to predict, so we made the best of it. Funny thing was the two programs tied for places 4-5, which was not expected. Crafty could certainly have won that event with a little luck, but you would not normally expect both to finish at the same position.
 
 ```
 
-```C++This was also the event where the newly seen "Ruy Lopez - crafty variation" first showed up. I can tell more about that if anyone is interested. 
+```C++
+This was also the event where the newly seen "Ruy Lopez - crafty variation" first showed up. I can tell more about that if anyone is interested. 
 
 ```
 
@@ -87,7 +96,8 @@ and some more details later <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
 
 [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") on Gunda-1 in *Augmented Ideas*, Editorial [ICCA Journal](ICGA_Journal#20_1 "ICGA Journal"), March 1997 <a id="cite-note-8" href="#cite-ref-8">[8]</a> , where he was misinformed about [Rajah](Rajah "Rajah") by [Valavan Manohararajah](Valavan_Manohararajah "Valavan Manohararajah") <a id="cite-note-9" href="#cite-ref-9">[9]</a> and later apologized <a id="cite-note-10" href="#cite-ref-10">[10]</a> :
 
-```C++In the 14th WMCC (Jakarta, 1996), the Indonesian program GUNDA-1 participated, and in the 16th Open Dutch Computer-Chess Championship (Leiden, 1996) the program [RAJAH](Rajah "Rajah") was entered. Both programs were based on [Hyatt's](Robert_Hyatt "Robert Hyatt") world-wide available code of the program [CRAFTY](Crafty "Crafty"). Since both teams gave due credit to CRAFTY as their original source, it is comparable to using ideas from articles while giving appropriate reference. Nevertheless, the question remains to what extent can we prolong the similarity of publications and programs. For articles, we do not allow plagiarism. For algorithms and programs I believe we are in a state of flux. Yet, the researcher who is the originator of the ideas should always be given pride of place. 
+```C++
+In the 14th WMCC (Jakarta, 1996), the Indonesian program GUNDA-1 participated, and in the 16th Open Dutch Computer-Chess Championship (Leiden, 1996) the program [RAJAH](Rajah "Rajah") was entered. Both programs were based on [Hyatt's](Robert_Hyatt "Robert Hyatt") world-wide available code of the program [CRAFTY](Crafty "Crafty"). Since both teams gave due credit to CRAFTY as their original source, it is comparable to using ideas from articles while giving appropriate reference. Nevertheless, the question remains to what extent can we prolong the similarity of publications and programs. For articles, we do not allow plagiarism. For algorithms and programs I believe we are in a state of flux. Yet, the researcher who is the originator of the ideas should always be given pride of place. 
 
 ```
 

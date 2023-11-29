@@ -16,7 +16,8 @@ In [1949](Timeline#1949 "Timeline") Shannon published a groundbreaking paper on 
 
 Quote of the text on the back on the photo, as given in [ICCA Journal, Vol. 12, No. 4](ICGA_Journal#12_4 "ICGA Journal"): <a id="cite-note-3" href="#cite-ref-3">[3]</a> :
 
-```C++ Dr. Claude E. Shannon demonstrating to Chessmaster [Edward Lasker](https://en.wikipedia.org/wiki/Edward_Lasker) his (home-made) electric chess automation, build in 1949. The machine could handle up to six pieces, and was designed to test various programming methods. With one hundred and fifty relay operations required to complete a move, it arrived at the reply to an opponent's play in ten to fifteen seconds. It had built into it a random element, and as a result did not necessarily always make the same move when faced with the same position. 
+```C++
+ Dr. Claude E. Shannon demonstrating to Chessmaster [Edward Lasker](https://en.wikipedia.org/wiki/Edward_Lasker) his (home-made) electric chess automation, build in 1949. The machine could handle up to six pieces, and was designed to test various programming methods. With one hundred and fifty relay operations required to complete a move, it arrived at the reply to an opponent's play in ten to fifteen seconds. It had built into it a random element, and as a result did not necessarily always make the same move when faced with the same position. 
 
 ```
 

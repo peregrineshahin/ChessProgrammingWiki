@@ -12,7 +12,8 @@ a private chess engine by [Vincent Diepeveen](Vincent_Diepeveen "Vincent Diepeve
 
 In 1997, [Vincent Diepeveen's](Vincent_Diepeveen "Vincent Diepeveen") early claim caused some trouble and antagonism <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> :
 
-```C++Diep is without doubt the strongest chess analysis program in the world at infinite level (few hours a move). The longer you allow it to analyse the better the move it will produce, something which is uncommon for most other chessprograms, caused by the enormeous chessknowledge in Diep, which is at the time still considerably growing every month (and decreasing the Diep searchspeed). 
+```C++
+Diep is without doubt the strongest chess analysis program in the world at infinite level (few hours a move). The longer you allow it to analyse the better the move it will produce, something which is uncommon for most other chessprograms, caused by the enormeous chessknowledge in Diep, which is at the time still considerably growing every month (and decreasing the Diep searchspeed). 
 
 ```
 
@@ -30,17 +31,20 @@ given from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-10" href="#c
 
 ## 1997
 
-```C++Diep is a classical chess playing program with this exception that I try to incorporate as much chess knowledge as possible. This is hard work, but in the end I hope it will give Diep a lot. 
+```C++
+Diep is a classical chess playing program with this exception that I try to incorporate as much chess knowledge as possible. This is hard work, but in the end I hope it will give Diep a lot. 
 
 ```
 
 ## 1999
 
-```C++Started winter 1994 with DIEP. But now i'm busy with this experimental parallel program, it's called DIEP. Still using the same huge evaluation, from which as far as i know it's the most extensive chess [evaluation](Evaluation "Evaluation") that any chessprogram contains (although mainly [middlegame](Middlegame "Middlegame")/[opening](Opening "Opening") heuristics).
+```C++
+Started winter 1994 with DIEP. But now i'm busy with this experimental parallel program, it's called DIEP. Still using the same huge evaluation, from which as far as i know it's the most extensive chess [evaluation](Evaluation "Evaluation") that any chessprogram contains (although mainly [middlegame](Middlegame "Middlegame")/[opening](Opening "Opening") heuristics).
 
 ```
 
-```C++The search of DIEP is however very very [selective](Selectivity "Selectivity") currently. I plan to join [Paderborn](WCCC_1999 "WCCC 1999") with a complete new search. Not only parallel, but it's closer to [best first search](Best-First "Best-First") than the depth limited [alfabeta search](Alpha-Beta "Alpha-Beta"), although it's still using the [iteration](Iterative_Deepening "Iterative Deepening") to expand nodes. 
+```C++
+The search of DIEP is however very very [selective](Selectivity "Selectivity") currently. I plan to join [Paderborn](WCCC_1999 "WCCC 1999") with a complete new search. Not only parallel, but it's closer to [best first search](Best-First "Best-First") than the depth limited [alfabeta search](Alpha-Beta "Alpha-Beta"), although it's still using the [iteration](Iterative_Deepening "Iterative Deepening") to expand nodes. 
 
 ```
 

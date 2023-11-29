@@ -21,7 +21,8 @@ by [Peter Jansen](Peter_Jansen "Peter Jansen") <a id="cite-note-4" href="#cite-r
 
 
 
-```C++As a side note, several people were betting on the outcome of the match, as well as on the outcome of each individual game (with professional bookmakers and everything!). Odds before the match were strongly in favor of the "Man". Another indication of the way this match was hyped up are newspaper headlines such as "Dangerous moves in a brutal game", "Man fights machine in chess war", "Computer's win marks new stage in chess" and the like. 
+```C++
+As a side note, several people were betting on the outcome of the match, as well as on the outcome of each individual game (with professional bookmakers and everything!). Odds before the match were strongly in favor of the "Man". Another indication of the way this match was hyped up are newspaper headlines such as "Dangerous moves in a brutal game", "Man fights machine in chess war", "Computer's win marks new stage in chess" and the like. 
 
 ```
 

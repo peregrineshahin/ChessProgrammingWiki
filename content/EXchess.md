@@ -14,6 +14,7 @@ EXchess may optionally use an own [GUI](GUI "GUI") based on the [Fast Light Tool
 EXchess utilizes an [8x8 Board](8x8_Board "8x8 Board") and [piece lists](Piece-Lists "Piece-Lists") as demonstrated in its [move generation routine](Move_Generation "Move Generation") <a id="cite-note-1" href="#cite-ref-1">[1]</a> :
 
 ```C++
+
 // Typedef for square using unsigned 8 bits...  
 //  -- first 3 bits for piece type (0-6)
 //  -- next bit for side of piece (1 = white, 0 = black)
@@ -57,15 +58,18 @@ The ches engine performs advanced [search](Search "Search") algorithms including
 
 [Daniel Homan](Daniel_Homan "Daniel Homan") in July 2013 on his [Lazy SMP](Lazy_SMP "Lazy SMP") implementation and work sharing <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```C++I changed the work-sharing approach to Lazy SMP in EXchess to be closer to the [ABDADA](ABDADA "ABDADA") model after [Daniel Shawul's](Daniel_Shawul "Daniel Shawul") posts about his tests on the subject <a id="cite-note-5" href="#cite-ref-5">[5]</a>. However, I didn't want to use a [hash table](Transposition_Table "Transposition Table") to keep a counter for the [threads](Thread "Thread") working on a given position. My hash table already had a 16 byte long entry, so I didn't want to expand it, and I also didn't like the idea of having to make each move before seeing whether another thread was searching it.
+```C++
+I changed the work-sharing approach to Lazy SMP in EXchess to be closer to the [ABDADA](ABDADA "ABDADA") model after [Daniel Shawul's](Daniel_Shawul "Daniel Shawul") posts about his tests on the subject <a id="cite-note-5" href="#cite-ref-5">[5]</a>. However, I didn't want to use a [hash table](Transposition_Table "Transposition Table") to keep a counter for the [threads](Thread "Thread") working on a given position. My hash table already had a 16 byte long entry, so I didn't want to expand it, and I also didn't like the idea of having to make each move before seeing whether another thread was searching it.
 
 ```
 
-```C++So as an alternative to the hash table, I made a simple work sharing data structure. In the end, it was just a single hash key for a position which is OR'd with the move being searched and the depth of the search. I use this to keep track of the move being searched at each ply of the tree for a given thread. Then, before I search a move at a given ply, I can just check the same ply in the other threads to see that the move is not already being worked on at that depth. If it is, then the move get placed at the end of the move list to be searched last. This doesn't allow for [transpositions](Transposition "Transposition") , but I expected the most likely work collisions to be as the threads are walking the [PV](Principal_Variation "Principal Variation") where they will initially all be the same. Indeed, this scheme only helps in the PV, and if I check for work sharing in [non-PV nodes](Node_Types "Node Types"), it only slows things down a bit.
+```C++
+So as an alternative to the hash table, I made a simple work sharing data structure. In the end, it was just a single hash key for a position which is OR'd with the move being searched and the depth of the search. I use this to keep track of the move being searched at each ply of the tree for a given thread. Then, before I search a move at a given ply, I can just check the same ply in the other threads to see that the move is not already being worked on at that depth. If it is, then the move get placed at the end of the move list to be searched last. This doesn't allow for [transpositions](Transposition "Transposition") , but I expected the most likely work collisions to be as the threads are walking the [PV](Principal_Variation "Principal Variation") where they will initially all be the same. Indeed, this scheme only helps in the PV, and if I check for work sharing in [non-PV nodes](Node_Types "Node Types"), it only slows things down a bit.
 
 ```
 
-```C++My previous Lazy SMP work sharing was just to alternate moves (odd-even) in the root node for the odd-even threads. The above approach is about 10% faster than my previous scheme, and I get a time-to-depth improvement of roughly 1.65 for 2 threads compared to 1 thread and roughly 2.5 for 4 threads compared to 1 thread. Maybe not quite as good as ABDADA with a hash table counter, but not too bad for the simplicity.  
+```C++
+My previous Lazy SMP work sharing was just to alternate moves (odd-even) in the root node for the odd-even threads. The above approach is about 10% faster than my previous scheme, and I get a time-to-depth improvement of roughly 1.65 for 2 threads compared to 1 thread and roughly 2.5 for 4 threads compared to 1 thread. Maybe not quite as good as ABDADA with a hash table counter, but not too bad for the simplicity.  
 
 ```
 

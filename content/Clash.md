@@ -12,7 +12,8 @@ a chess program written in [Fortran IV](Fortran "Fortran") by [Chris Peters](ind
 
 A brief description is available from the [ACM 1980](ACM_1980 "ACM 1980") tournament booklet <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
 
-```C++Clash is entering its first ACM tournament. The program is written in [Fortran IV](Fortran "Fortran") by [Chris Peters](index.php?title=Chris_Peters&action=edit&redlink=1 "Chris Peters (page does not exist)"), a student at the University of Washington. It requires 10k for instructions and an additional 4k for the tree search. The program searches a highly [selective](Selectivity "Selectivity") [tree](Search_Tree "Search Tree") and examines about 1,000 - 2,000 positions per move. It uses the [alpha-beta](Alpha-Beta "Alpha-Beta") algorithm and the [killer heuristic](Killer_Heuristic "Killer Heuristic") but does not employ [iterative deepening](Iterative_Deepening "Iterative Deepening"). 
+```C++
+Clash is entering its first ACM tournament. The program is written in [Fortran IV](Fortran "Fortran") by [Chris Peters](index.php?title=Chris_Peters&action=edit&redlink=1 "Chris Peters (page does not exist)"), a student at the University of Washington. It requires 10k for instructions and an additional 4k for the tree search. The program searches a highly [selective](Selectivity "Selectivity") [tree](Search_Tree "Search Tree") and examines about 1,000 - 2,000 positions per move. It uses the [alpha-beta](Alpha-Beta "Alpha-Beta") algorithm and the [killer heuristic](Killer_Heuristic "Killer Heuristic") but does not employ [iterative deepening](Iterative_Deepening "Iterative Deepening"). 
 
 ```
 

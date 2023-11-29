@@ -20,7 +20,8 @@ Quote by [Maarten van Emden](Maarten_van_Emden "Maarten van Emden") in *I rememb
 
 
 
-```C++In 1980 I spent another summer in Edinburgh as a guest of Donald Michie. Since the low point of 1975, thanks to assiduous and inventive joint pursuit of funding possibilities by Donald and [Jean](Jean_Hayes_Michie "Jean Hayes Michie"), the Machine Intelligence Research Unit was alive with work focused on [chess endgames](Endgame "Endgame"). There were students, including Tim Niblett and [Alen Shapiro](Alen_Shapiro "Alen Shapiro"). [Danny Kopec](Danny_Kopec "Danny Kopec") was there, perhaps formally as a student, but de facto as the resident chess consultant. [Ivan Bratko](Ivan_Bratko "Ivan Bratko") visited frequently. Alen was the administrator of the dream computing environment of that time: a small [PDP-11](PDP-11 "PDP-11") running [Unix](Unix "Unix"). 
+```C++
+In 1980 I spent another summer in Edinburgh as a guest of Donald Michie. Since the low point of 1975, thanks to assiduous and inventive joint pursuit of funding possibilities by Donald and [Jean](Jean_Hayes_Michie "Jean Hayes Michie"), the Machine Intelligence Research Unit was alive with work focused on [chess endgames](Endgame "Endgame"). There were students, including Tim Niblett and [Alen Shapiro](Alen_Shapiro "Alen Shapiro"). [Danny Kopec](Danny_Kopec "Danny Kopec") was there, perhaps formally as a student, but de facto as the resident chess consultant. [Ivan Bratko](Ivan_Bratko "Ivan Bratko") visited frequently. Alen was the administrator of the dream computing environment of that time: a small [PDP-11](PDP-11 "PDP-11") running [Unix](Unix "Unix"). 
 
 ```
 

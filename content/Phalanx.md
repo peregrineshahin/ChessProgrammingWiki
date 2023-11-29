@@ -20,7 +20,8 @@ by [Dušan Dobeš](Du%C5%A1an_Dobe%C5%A1 "Dušan Dobeš") from [rgcc](Computer_C
 
 
 
-```C++Phalanx is my hobby project. It started in March 1997. It's developed under [Linux](Linux "Linux") and [GCC](Free_Software_Foundation#GCC "Free Software Foundation"), I also prepared binary distribution for [Win32](Windows "Windows") with latter versions. Licensing policy is GPL (free and in sources). Interface is xboard/winboard/RoboFICS compatible. It plays on FICS as 'pikozrout', it's current blitz rating is 2380, standard 2210. 
+```C++
+Phalanx is my hobby project. It started in March 1997. It's developed under [Linux](Linux "Linux") and [GCC](Free_Software_Foundation#GCC "Free Software Foundation"), I also prepared binary distribution for [Win32](Windows "Windows") with latter versions. Licensing policy is GPL (free and in sources). Interface is xboard/winboard/RoboFICS compatible. It plays on FICS as 'pikozrout', it's current blitz rating is 2380, standard 2210. 
 
 ```
 

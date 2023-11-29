@@ -47,7 +47,8 @@ Quote by [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") in 2000 *
 
 
 
-```C++This issue also records changes in the Board of [ICCA](ICCA "ICCA"). [Don Beal](Don_Beal "Don Beal") stepped down as a Secretary-Treasurer after many years of outstanding service. He is succeeded by [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), who is expected to realise an effective broadening of our scope. Besides Don's stepping down we saw the retirement of Ken Thompson. He left Bell Laboratories after more than a quarter of a century of research and will now spend his time on his hobby, teaching amateur pilots. We thank him for the outstanding contributions he made to the world of computer chess and will pay more attention to his many merits in a next (special) issue <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a> <a id="cite-note-15" href="#cite-ref-15">[15]</a>. 
+```C++
+This issue also records changes in the Board of [ICCA](ICCA "ICCA"). [Don Beal](Don_Beal "Don Beal") stepped down as a Secretary-Treasurer after many years of outstanding service. He is succeeded by [Hiroyuki Iida](Hiroyuki_Iida "Hiroyuki Iida"), who is expected to realise an effective broadening of our scope. Besides Don's stepping down we saw the retirement of Ken Thompson. He left Bell Laboratories after more than a quarter of a century of research and will now spend his time on his hobby, teaching amateur pilots. We thank him for the outstanding contributions he made to the world of computer chess and will pay more attention to his many merits in a next (special) issue <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a> <a id="cite-note-15" href="#cite-ref-15">[15]</a>. 
 
 ```
 

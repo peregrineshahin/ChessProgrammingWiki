@@ -21,7 +21,8 @@ and researched and published along with his thesis advisor [Marvin Solomon](Marv
 
 
 
-```C++We present a new parallel game-tree search algorithm. Our approach classifies a processor's available work as either mandatory (necessary for the solution) or speculative (may be necessary for the solution). Due to the nature of parallel game tree search, it is not possible to keep all processors busy with mandatory work. Our algorithm ER allows potential speculative work to be dynamically ordered, thereby reducing starvation without incurring an equivalent increase in speculative loss. Measurements of ER's performance on both random trees and trees from an actual game show that at least 16 processors can be applied profitably to a single search. These results contrast with previously published studies, which report a rapid drop-off of efficiency as the number of processors increases. 
+```C++
+We present a new parallel game-tree search algorithm. Our approach classifies a processor's available work as either mandatory (necessary for the solution) or speculative (may be necessary for the solution). Due to the nature of parallel game tree search, it is not possible to keep all processors busy with mandatory work. Our algorithm ER allows potential speculative work to be dynamically ordered, thereby reducing starvation without incurring an equivalent increase in speculative loss. Measurements of ER's performance on both random trees and trees from an actual game show that at least 16 processors can be applied profitably to a single search. These results contrast with previously published studies, which report a rapid drop-off of efficiency as the number of processors increases. 
 
 ```
 
@@ -34,6 +35,7 @@ and researched and published along with his thesis advisor [Marvin Solomon](Marv
 
 
 ```C++
+
 struct Node {
   int val;
   bool done;

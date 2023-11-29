@@ -14,26 +14,31 @@ the first chess program by primary author [Robert Hyatt](Robert_Hyatt "Robert Hy
 
 Bob, what kind of selection did you use in this early "Blitz"?
 
-```C++It was a [forward pruning search](Type_B_Strategy "Type B Strategy").  Basically searched roughly 6 moves at each ply, to a depth of 5 ply.  There was no [capture search](Quiescence_Search "Quiescence Search") after it, just a complex (for the time) static evaluation that also used a [Static Exchange Evaluator](Static_Exchange_Evaluation "Static Exchange Evaluation") to make sure the last move was safe. 
+```C++
+It was a [forward pruning search](Type_B_Strategy "Type B Strategy").  Basically searched roughly 6 moves at each ply, to a depth of 5 ply.  There was no [capture search](Quiescence_Search "Quiescence Search") after it, just a complex (for the time) static evaluation that also used a [Static Exchange Evaluator](Static_Exchange_Evaluation "Static Exchange Evaluation") to make sure the last move was safe. 
 The most interesting parts were the following:
 
 ```
 
-```C++1. It had about 30,000 lines of code dedicated to analyzing the set of legal moves at any ply and pick out the moves that appeared to be tactically or positionally promising.
+```C++
+1. It had about 30,000 lines of code dedicated to analyzing the set of legal moves at any ply and pick out the moves that appeared to be tactically or positionally promising.
 
 ```
 
-```C++2. It had a "causality analysis" procedure that was invoked at any point in the search where the score dropped. Since I found it hard to recognize I was in trouble and to select moves that would defend against threats that were hard to see from the "other side" I let my tactical analysis find good moves, and if it was successful, at the next ply, after searching a couple of moves and finding that the score was too low, this "causality" facility could look at the PV and figure out what was going wrong and then select moves that had a chance of "fixing" things.
+```C++
+2. It had a "causality analysis" procedure that was invoked at any point in the search where the score dropped. Since I found it hard to recognize I was in trouble and to select moves that would defend against threats that were hard to see from the "other side" I let my tactical analysis find good moves, and if it was successful, at the next ply, after searching a couple of moves and finding that the score was too low, this "causality" facility could look at the PV and figure out what was going wrong and then select moves that had a chance of "fixing" things.
 
 ```
 
-```C++Worked very well, was tactically very dangerous...  but made the typical positional mistakes that forward pruning programs do.  Entire program was over 80,000 lines of code, however. *very* big, when considering that Crafty is under 40,000 lines with a huge number of comments... 
+```C++
+Worked very well, was tactically very dangerous...  but made the typical positional mistakes that forward pruning programs do.  Entire program was over 80,000 lines of code, however. *very* big, when considering that Crafty is under 40,000 lines with a huge number of comments... 
 
 ```
 
 What do you mean by "not even a real [quiescence search](Quiescence_Search "Quiescence Search")"?
 
-```C++I searched 5 plies and *quit*.  I did use a [static exchange evaluator](Static_Exchange_Evaluation "Static Exchange Evaluation") to determine if the tip moves were safe.  This was searching under 100 [nodes per second](Nodes_per_Second "Nodes per Second") on a machine that was rated at .7 MIPS.  This program finished in a 3-way tie for 2nd at the [1976 ACM](ACM_1976 "ACM 1976") computer chess tournament, but the following year I was "exhaustive"... :) 
+```C++
+I searched 5 plies and *quit*.  I did use a [static exchange evaluator](Static_Exchange_Evaluation "Static Exchange Evaluation") to determine if the tip moves were safe.  This was searching under 100 [nodes per second](Nodes_per_Second "Nodes per Second") on a machine that was rated at .7 MIPS.  This program finished in a 3-way tie for 2nd at the [1976 ACM](ACM_1976 "ACM 1976") computer chess tournament, but the following year I was "exhaustive"... :) 
 
 ```
 

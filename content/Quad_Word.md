@@ -17,6 +17,7 @@ Quad words are used as [bitboard](Bitboards "Bitboards") datatype:
 
 
 ```C++
+
 typedef QWORD U64;
 typedef QWORD Bitboard;
 

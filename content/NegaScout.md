@@ -18,7 +18,8 @@ an [Alpha-Beta](Alpha-Beta "Alpha-Beta") enhancement and improvement of [Judea P
 
 
 
-```C++The difference is how they handle re-searches: PVS passes alpha/beta while NegaScout passes the value returned by the null window search instead of alpha. But then you can get a fail-low on the research due to search anonomalies. If that happens NegaScout returns the value from the first search. That means you will have a crippled PV. Then there is a refinement Reinefeld suggests which is to ommit the re-search at the last two plies (depth > 1) - but that won't work in a real program because of search extensions. NegaScout is slightly an ivory tower variant of PVS (IMHO).  
+```C++
+The difference is how they handle re-searches: PVS passes alpha/beta while NegaScout passes the value returned by the null window search instead of alpha. But then you can get a fail-low on the research due to search anonomalies. If that happens NegaScout returns the value from the first search. That means you will have a crippled PV. Then there is a refinement Reinefeld suggests which is to ommit the re-search at the last two plies (depth > 1) - but that won't work in a real program because of search extensions. NegaScout is slightly an ivory tower variant of PVS (IMHO).  
 
 ```
 
@@ -28,6 +29,7 @@ an [Alpha-Beta](Alpha-Beta "Alpha-Beta") enhancement and improvement of [Judea P
 
 
 ```C++
+
 value = PVS(-(alpha+1),-alpha)
 if(value > alpha && value < beta) {
   value = PVS(-beta,-alpha);
@@ -41,6 +43,7 @@ if(value > alpha && value < beta) {
 
 
 ```C++
+
 value = NegaScout(-(alpha+1),-alpha)
 if(value > alpha && value < beta && depth > 1) {
   value2 = NegaScout(-beta,-value)
@@ -57,7 +60,8 @@ Quote by [Yngvi Björnsson](Yngvi_Bj%C3%B6rnsson "Yngvi Björnsson") from [CCC](
 
 
 
-```C++Search-wise PVS and Negascout are identical (except the deep-cutoffs on the PV you mention), they are just formulated differently. In Negascout the same routine is used for searching both the PV and the rest of the tree, whereas PVS is typically formulated as two routines: PVS (for searching the PV) and NWS (for the null-window searches). Negascout and PVS were developed about the same time in the early '80 (82-83), but independently. I guess, that's part of the reason we know them by different names. Personally, I've always found the PVS/NWS formulation the most intuative, it's easier to understand what's really going on.
+```C++
+Search-wise PVS and Negascout are identical (except the deep-cutoffs on the PV you mention), they are just formulated differently. In Negascout the same routine is used for searching both the PV and the rest of the tree, whereas PVS is typically formulated as two routines: PVS (for searching the PV) and NWS (for the null-window searches). Negascout and PVS were developed about the same time in the early '80 (82-83), but independently. I guess, that's part of the reason we know them by different names. Personally, I've always found the PVS/NWS formulation the most intuative, it's easier to understand what's really going on.
 
 ```
 
@@ -69,12 +73,14 @@ Quote by [Dennis Breuker](Dennis_Breuker "Dennis Breuker") from [CCC](CCC "CCC")
 
 
 
-```C++Q: What's the different between negascout and PVS ? They look like the same algorithm to me.
+```C++
+Q: What's the different between negascout and PVS ? They look like the same algorithm to me.
 
 ```
 
 
-```C++They are identical, see note 15 on page 22 of my thesis <a id="cite-note-11" href="#cite-ref-11">[11]</a>: We note that the version of principal-variation search as mentioned by Marsland (1986) <a id="cite-note-12" href="#cite-ref-12">[12]</a> is identical to the version of negascout as mentioned by Reinefeld (1989) <a id="cite-note-13" href="#cite-ref-13">[13]</a>. We use the 1989 reference instead of 1983 <a id="cite-note-14" href="#cite-ref-14">[14]</a>, which was the first source of this algorithm, since the algorithm described in Reinefeld (1983) contains minor errors.
+```C++
+They are identical, see note 15 on page 22 of my thesis <a id="cite-note-11" href="#cite-ref-11">[11]</a>: We note that the version of principal-variation search as mentioned by Marsland (1986) <a id="cite-note-12" href="#cite-ref-12">[12]</a> is identical to the version of negascout as mentioned by Reinefeld (1989) <a id="cite-note-13" href="#cite-ref-13">[13]</a>. We use the 1989 reference instead of 1983 <a id="cite-note-14" href="#cite-ref-14">[14]</a>, which was the first source of this algorithm, since the algorithm described in Reinefeld (1983) contains minor errors.
 
 ```
 
@@ -98,6 +104,7 @@ by [Alexander Reinefeld](Alexander_Reinefeld "Alexander Reinefeld") <a id="cite-
 
 
 ```C++
+
 int NegaScout ( position p; int alpha, beta )
 {                     /* compute minimax value of position p */
    int a, b, t, i;
@@ -129,6 +136,7 @@ Following implementation addresses the mentioned issues, wider window for re-sea
 
 
 ```C++
+
 int NegaScout ( position p; int alpha, beta )
 {                     /* compute minimax value of position p */
    int b, t, i;

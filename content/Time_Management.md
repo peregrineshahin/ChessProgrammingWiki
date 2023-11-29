@@ -85,6 +85,7 @@ Human chess players often wonder about the inflexible time management of various
  For instance, [Robert Hyatt](Robert_Hyatt "Robert Hyatt") gave following formula from [Cray Blitz](Cray_Blitz "Cray Blitz") in *Using Time Wisely* <a id="cite-note-5" href="#cite-ref-5">[5]</a> 
 
 ```C++
+
    nMoves =  min( numberOfMovesOutOfBook, 10 );
    factor = 2 -  nMoves / 10 
    target = timeLeft / numberOfMovesUntilNextTimeControl

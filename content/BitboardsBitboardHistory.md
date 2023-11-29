@@ -63,7 +63,8 @@ Bitboard aspects on [move generation](Move_Generation "Move Generation") and [st
 
 *To be aware of their scalar 64-bit origin, we use so far a type defined unsigned integer U64 in our [C](C "C") or [C++](Cpp "Cpp") source snippets, the scalar 64-bit long in [Java](Java "Java"). Feel free to define a distinct type or wrap U64 into classes for better abstraction and type-safety during compile time. The macro C64 will append a suffix to 64-bit constants as required by some compilers*:
 
-```C++typedef unsigned __int64 U64;    // for the old microsoft compilers 
+```C++
+typedef unsigned __int64 U64;    // for the old microsoft compilers 
 typedef unsigned long long  U64; // supported by MSC 13.00+ and C99 
 ##define C64(constantU64) constantU64##ULL
 

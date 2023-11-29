@@ -26,21 +26,25 @@ Robert Houdart claims his engine is original <a id="cite-note-12" href="#cite-re
 
 Robert Houdart on the origins of Houdini in [CCC](CCC "CCC"), June 08, 2010 <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
-```C++From the start I have very clearly acknowledged the different sources of inspiration for Houdini ([Ippo/Robbo](Ippolit "Ippolit"), [Stockfish](Stockfish "Stockfish") and [Crafty](Crafty "Crafty")) and have shown every respect for the hard work of others, be it on my web site, in the readme file, or in this forum ...
+```C++
+From the start I have very clearly acknowledged the different sources of inspiration for Houdini ([Ippo/Robbo](Ippolit "Ippolit"), [Stockfish](Stockfish "Stockfish") and [Crafty](Crafty "Crafty")) and have shown every respect for the hard work of others, be it on my web site, in the readme file, or in this forum ...
 
 ```
 
-```C++Houdini and the Ippo family have lots of high-level similarities, but zillions of low-level subtle differences.
+```C++
+Houdini and the Ippo family have lots of high-level similarities, but zillions of low-level subtle differences.
 
 Claims have been made that I "just changed a couple of resource strings", "made a cheap compile" or "grabbed some free code", but, in truth, none of you have any clue about the effort that was invested in Houdini.
 
 ```
 
-```C++It is funny that I would not be called a "real" chess engine author, when I am both a professional software developer and a reasonably strong chess player (peak 2280 rating), who has been writing chess engines for over 25 years now in a variety of programming languages.
+```C++
+It is funny that I would not be called a "real" chess engine author, when I am both a professional software developer and a reasonably strong chess player (peak 2280 rating), who has been writing chess engines for over 25 years now in a variety of programming languages.
 
 ```
 
-```C++It is sad that on the one hand you request that everybody demonstrates respect for the hard work of others, but on the other hand you seem to be unable to extend the same courtesy (or even the benefit of the doubt) to Houdini. 
+```C++
+It is sad that on the one hand you request that everybody demonstrates respect for the hard work of others, but on the other hand you seem to be unable to extend the same courtesy (or even the benefit of the doubt) to Houdini. 
 
 ```
 
@@ -52,13 +56,15 @@ The idea to index the [material table](Material_Tables "Material Tables") in the
 
 Robert Houdart on [Strelka 5](Strelka "Strelka"), December 04, 2011 <a id="cite-note-20" href="#cite-ref-20">[20]</a>
 
-```C++Strelka 5 is Houdini 1.5 [RE](https://en.wikipedia.org/wiki/Reverse_engineering), not Houdini 2. I share your fears, any #1 engine will be RE'd in a matter of months. For Houdini 1.5 it's taken about 6 months. 
+```C++
+Strelka 5 is Houdini 1.5 [RE](https://en.wikipedia.org/wiki/Reverse_engineering), not Houdini 2. I share your fears, any #1 engine will be RE'd in a matter of months. For Houdini 1.5 it's taken about 6 months. 
 
 ```
 
 Reply by [Richard Vida](Richard_Vida "Richard Vida") <a id="cite-note-21" href="#cite-ref-21">[21]</a>
 
-```C++You mean 6 months until [Strelka](Strelka "Strelka") has been released to public. You do not know how much time did [Yuri Osipov](Jury_Osipov "Jury Osipov") spent on RE, neither when he did start his RE project. For me it took barely one week. As [Milos S.](Milos_Stanisavljevic "Milos Stanisavljevic") pointed out <a id="cite-note-22" href="#cite-ref-22">[22]</a> , you made RE very very easy because of starting your project from [Robbolito](RobboLito "RobboLito") codebase... Personally I see no problem with that (other than you not telling the truth). 
+```C++
+You mean 6 months until [Strelka](Strelka "Strelka") has been released to public. You do not know how much time did [Yuri Osipov](Jury_Osipov "Jury Osipov") spent on RE, neither when he did start his RE project. For me it took barely one week. As [Milos S.](Milos_Stanisavljevic "Milos Stanisavljevic") pointed out <a id="cite-note-22" href="#cite-ref-22">[22]</a> , you made RE very very easy because of starting your project from [Robbolito](RobboLito "RobboLito") codebase... Personally I see no problem with that (other than you not telling the truth). 
 
 ```
 

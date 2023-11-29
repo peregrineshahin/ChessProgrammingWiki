@@ -17,7 +17,8 @@ a Canadian computer scientist and systems analyst at [University of Alberta](Uni
 
 
 
-```C++This paper introduces the idea of pre-searching a position — searching it before [αβ](Alpha-Beta "Alpha-Beta") determines that it needs to be searched. Consider the case where an iteration of αβ search comes across a position p that needs to be searched to [depth](Depth "Depth") d1, and the [transposition table](Transposition_Table "Transposition Table") reveals that p will likely need to be searched later in that iteration to depth d2 greater than d1. Pre-searching involves speculatively searching p to depth d2, even though it has not been demonstrated that search to this depth is needed. If the gamble is successful, then additional accuracy is introduced to the search (using a result with extra search depth d2 − d1). While any search extension scheme is not without some risk, empirical results indicate that the impact on the αβ search tree size is small, but the additional accuracy that is introduced improves program performance. 
+```C++
+This paper introduces the idea of pre-searching a position — searching it before [αβ](Alpha-Beta "Alpha-Beta") determines that it needs to be searched. Consider the case where an iteration of αβ search comes across a position p that needs to be searched to [depth](Depth "Depth") d1, and the [transposition table](Transposition_Table "Transposition Table") reveals that p will likely need to be searched later in that iteration to depth d2 greater than d1. Pre-searching involves speculatively searching p to depth d2, even though it has not been demonstrated that search to this depth is needed. If the gamble is successful, then additional accuracy is introduced to the search (using a result with extra search depth d2 − d1). While any search extension scheme is not without some risk, empirical results indicate that the impact on the αβ search tree size is small, but the additional accuracy that is introduced improves program performance. 
 
 ```
 
@@ -26,6 +27,7 @@ a Canadian computer scientist and systems analyst at [University of Alberta](Uni
 
 
 ```C++
+
 // Assumptions:
 // * search depth counts down to 0 (leaf node)
 // * IDDepth is the iterative deepening search depth

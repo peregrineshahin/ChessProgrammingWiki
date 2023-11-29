@@ -24,22 +24,26 @@ Quote from Tony Marsland's biography <a id="cite-note-7" href="#cite-ref-7">[7]<
 
 
 
-```C++Tony Marsland received his B.Sc. in Honours Mathematics from the [University of Nottingham](https://en.wikipedia.org/wiki/University_of_Nottingham) (UK, 1958) and M.S.E(E) and Ph.D. degrees in Electrical Engineering from the [University of Washington](https://en.wikipedia.org/wiki/University_of_Washington), Seattle (USA, 1967). After working one year as an assistant professor he went to [AT&T Bell Laboratories](Bell_Laboratories "Bell Laboratories") in New Jersey for two years as a research scientist, before joining the Computing Science Department at the [University of Alberta](University_of_Alberta "University of Alberta"). He was an [ACM](ACM "ACM") National Lecturer during 1979-81 and a [McCalla Research Professor](https://www.conman.ualberta.ca/stellent/groups/public/@academic/documents/procedure/pp_cmp_061816.hcsp) in 1985-86. His primary teaching and research interests were in the area of distributed computing systems design.
+```C++
+Tony Marsland received his B.Sc. in Honours Mathematics from the [University of Nottingham](https://en.wikipedia.org/wiki/University_of_Nottingham) (UK, 1958) and M.S.E(E) and Ph.D. degrees in Electrical Engineering from the [University of Washington](https://en.wikipedia.org/wiki/University_of_Washington), Seattle (USA, 1967). After working one year as an assistant professor he went to [AT&T Bell Laboratories](Bell_Laboratories "Bell Laboratories") in New Jersey for two years as a research scientist, before joining the Computing Science Department at the [University of Alberta](University_of_Alberta "University of Alberta"). He was an [ACM](ACM "ACM") National Lecturer during 1979-81 and a [McCalla Research Professor](https://www.conman.ualberta.ca/stellent/groups/public/@academic/documents/procedure/pp_cmp_061816.hcsp) in 1985-86. His primary teaching and research interests were in the area of distributed computing systems design.
 
 ```
 
 
-```C++In the past, Tony served on a variety of General and Faculty committees, and completed one term as Associate Chair of Computing Science with primary responsibility for the Graduate Program. After helping for many years on NSERC's International Relations Committee, he spent much of the 1994 academic year visiting the [University of Hong Kong](https://en.wikipedia.org/wiki/University_of_Hong_Kong). In addition to normal teaching and research activities he was President of the International Computer Chess Association (1992-99). Separately, he has edited two books and written three lengthy encyclopedic articles in recent years.
+```C++
+In the past, Tony served on a variety of General and Faculty committees, and completed one term as Associate Chair of Computing Science with primary responsibility for the Graduate Program. After helping for many years on NSERC's International Relations Committee, he spent much of the 1994 academic year visiting the [University of Hong Kong](https://en.wikipedia.org/wiki/University_of_Hong_Kong). In addition to normal teaching and research activities he was President of the International Computer Chess Association (1992-99). Separately, he has edited two books and written three lengthy encyclopedic articles in recent years.
 
 ```
 
 
-```C++Despite years of programming experience with languages like [Assembly](Assembly "Assembly"), [Fortran](Fortran "Fortran"), [Snobol](index.php?title=Snobol&action=edit&redlink=1 "Snobol (page does not exist)"), [Lisp](index.php?title=Lisp&action=edit&redlink=1 "Lisp (page does not exist)"), [Pascal](Pascal "Pascal") and [C](C "C") (and the many arcane scripting languages on [Unix](Unix "Unix") Systems), he is now happy to let others do the real work while he enjoys modern computer interfaces for day to day use and communication!
+```C++
+Despite years of programming experience with languages like [Assembly](Assembly "Assembly"), [Fortran](Fortran "Fortran"), [Snobol](index.php?title=Snobol&action=edit&redlink=1 "Snobol (page does not exist)"), [Lisp](index.php?title=Lisp&action=edit&redlink=1 "Lisp (page does not exist)"), [Pascal](Pascal "Pascal") and [C](C "C") (and the many arcane scripting languages on [Unix](Unix "Unix") Systems), he is now happy to let others do the real work while he enjoys modern computer interfaces for day to day use and communication!
 
 ```
 
 
-```C++After many years as a Professional Engineer (member of APEGGA) he has a continuing special interest in the Industrial Internship Program (IIP) (which he directed 1994-2002) and in maintaining good external contacts. 
+```C++
+After many years as a Professional Engineer (member of APEGGA) he has a continuing special interest in the Industrial Internship Program (IIP) (which he directed 1994-2002) and in maintaining good external contacts. 
 
 ```
 

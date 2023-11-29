@@ -48,32 +48,38 @@ Explanation by [Ronald de Man](Ronald_de_Man "Ronald de Man") <a id="cite-note-2
 
 
 
-```C++The accumulator has a "white king" half and a "black king" half, where each half is a 256-element vector of 16-bit ints, which is equal to the sum of the weights of the "active" (pt, sq, ksq) features  plus a 256-element vector of 16-bit biases.
+```C++
+The accumulator has a "white king" half and a "black king" half, where each half is a 256-element vector of 16-bit ints, which is equal to the sum of the weights of the "active" (pt, sq, ksq) features  plus a 256-element vector of 16-bit biases.
 
 ```
 
 
-```C++The "transform" step of the NNUE evaluation forms a 512-element vector of 8-bit ints where the first half is formed from the 256-element vector of the side to move and the second half is formed from the 256-element vector of the other side. In this step the 16-bit elements are clipped/clamped to a value from 0 to 127. This is the output of the input layer.
+```C++
+The "transform" step of the NNUE evaluation forms a 512-element vector of 8-bit ints where the first half is formed from the 256-element vector of the side to move and the second half is formed from the 256-element vector of the other side. In this step the 16-bit elements are clipped/clamped to a value from 0 to 127. This is the output of the input layer.
 
 ```
 
 
-```C++This 512-element vector of 8-bit ints is then multiplied by a 32x512 matrix of 8-bit weights to get a 32-element vector of 32-bit ints, to which a vector of 32-bit biases is added. The sum vector is divided by 64 and clipped/clamped to a 32-element vector of 8-bit ints from 0 to 127. This is the output of the first hidden layer.
+```C++
+This 512-element vector of 8-bit ints is then multiplied by a 32x512 matrix of 8-bit weights to get a 32-element vector of 32-bit ints, to which a vector of 32-bit biases is added. The sum vector is divided by 64 and clipped/clamped to a 32-element vector of 8-bit ints from 0 to 127. This is the output of the first hidden layer.
 
 ```
 
 
-```C++The resulting 32-element vector of 8-bit ints is multiplied by a 32x32 matrix of 8-bit weights to get a 32-element vector of 32-bit ints, to which another vector of 32-bit biases is added. These ints are again divided by 64 and clipped/clamped to 32 8-bit ints from 0 to 127. This is the output of the second hidden layer.
+```C++
+The resulting 32-element vector of 8-bit ints is multiplied by a 32x32 matrix of 8-bit weights to get a 32-element vector of 32-bit ints, to which another vector of 32-bit biases is added. These ints are again divided by 64 and clipped/clamped to 32 8-bit ints from 0 to 127. This is the output of the second hidden layer.
 
 ```
 
 
-```C++This 32-element vector of 8-bits ints is then multiplied by a 1x32 matrix of 8-bit weights (i.e. the inner product of two vectors is taken). This produces a 32-bit value to which a 32-bit bias is added. This gives the output of the output layer.
+```C++
+This 32-element vector of 8-bits ints is then multiplied by a 1x32 matrix of 8-bit weights (i.e. the inner product of two vectors is taken). This produces a 32-bit value to which a 32-bit bias is added. This gives the output of the output layer.
 
 ```
 
 
-```C++The output of the output layer is divided by FV_SCALE = 16 to produce the NNUE evaluation. SF's evaluation then take some further steps such as adding a Tempo bonus (even though the NNUE evaluation inherently already takes into account the side to move in the "transform" step) and scaling the evaluation towards zero as rule50_count() approaches 50 moves.
+```C++
+The output of the output layer is divided by FV_SCALE = 16 to produce the NNUE evaluation. SF's evaluation then take some further steps such as adding a Tempo bonus (even though the NNUE evaluation inherently already takes into account the side to move in the "transform" step) and scaling the evaluation towards zero as rule50_count() approaches 50 moves.
 
 ```
 

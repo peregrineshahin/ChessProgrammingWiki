@@ -7,7 +7,8 @@ The **Fifty-move rule** states that a [game of chess](Chess_Game "Chess Game") i
 
 ## Fide Rule
 
-```C++9.3 The game is drawn, upon a correct claim by the player having the move, if <a id="cite-note-1" href="#cite-ref-1">[1]</a>
+```C++
+9.3 The game is drawn, upon a correct claim by the player having the move, if <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 
 a) he writes his move on his [scoresheet](Game_Notation "Game Notation"), and declares to the arbiter his intention to make this move which shall result in the last 50 moves having been made by each player without the movement of any pawn and without any capture, or
 
@@ -19,7 +20,8 @@ b) the last 50 consecutive moves have been made by each player without the movem
 
 Since July 01, 2014 75 moves without capture and pawn move end the game even without a claim <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
-```C++9.6  If one or both of the following occur(s) then the game is drawn: 
+```C++
+9.6  If one or both of the following occur(s) then the game is drawn: 
 
 a) the same position has appeared, as in  [9.2b](Repetitions#92b "Repetitions"), for at least five consecutive alternate moves by each player.  
 

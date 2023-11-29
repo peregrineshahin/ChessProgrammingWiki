@@ -9,7 +9,8 @@ The **Bratko-Kopec Test** (**BK-Test**) was designed by [Ivan Bratko](Ivan_Bratk
 
 by [Danny Kopec](Danny_Kopec "Danny Kopec") <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
 
-```C++The Bratko-Kopec Test was designed by [Dr. Ivan Bratko](Ivan_Bratko "Ivan Bratko") and [Dr. Danny Kopec](Danny_Kopec "Danny Kopec") in 1982 to evaluate human or machine chess ability based on the presence or absence of certain knowledge (i.e. Master, Expert, Novice, etc). This test has been a standard for nearly 20 years in computer chess. Experience has shown it very reliable in corresponding to the chess rating of humans and machines. 
+```C++
+The Bratko-Kopec Test was designed by [Dr. Ivan Bratko](Ivan_Bratko "Ivan Bratko") and [Dr. Danny Kopec](Danny_Kopec "Danny Kopec") in 1982 to evaluate human or machine chess ability based on the presence or absence of certain knowledge (i.e. Master, Expert, Novice, etc). This test has been a standard for nearly 20 years in computer chess. Experience has shown it very reliable in corresponding to the chess rating of humans and machines. 
 
 ```
 
@@ -18,6 +19,7 @@ by [Danny Kopec](Danny_Kopec "Danny Kopec") <a id="cite-note-7" href="#cite-ref-
 [Extended Position Description](Extended_Position_Description "Extended Position Description") <a id="cite-note-8" href="#cite-ref-8">[8]</a><a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```C++
+
 1k1r4/pp1b1R2/3q2pp/4p3/2B5/4Q3/PPP2B2/2K5 b - - bm Qd1+; id "BK.01";
 3r1k2/4npp1/1ppr3p/p6P/P2PPPP1/1NR5/5K2/2R5 w - - bm d5; id "BK.02";
 2q1rr1k/3bbnnp/p2p1pp1/2pPp3/PpP1P1P1/1P2BNNP/2BQ1PRK/7R b - - bm f5; id "BK.03";

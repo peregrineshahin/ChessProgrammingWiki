@@ -17,7 +17,8 @@ Based on ideas of [Walter Faxon](Walter_Faxon "Walter Faxon") and [De Bruijn Mul
 
 
 
-```C++For 64-bits, I do things a little differently simply because a 64-bit multiply is slow. I start out with x ^= (x - 1) just like normal which generates a key equal to 2^n - 1 (where n is the index of the LSB, 1 is index 0). Now fold the 64-bit key into 32-bits by xoring the high 32-bits with the low 32-bits.
+```C++
+For 64-bits, I do things a little differently simply because a 64-bit multiply is slow. I start out with x ^= (x - 1) just like normal which generates a key equal to 2^n - 1 (where n is the index of the LSB, 1 is index 0). Now fold the 64-bit key into 32-bits by xoring the high 32-bits with the low 32-bits.
 
 ```
 
@@ -50,6 +51,7 @@ Even if this folded "LS1B" contains multiple consecutive one-bits, the multiplic
 
 
 ```C++
+
 const int lsb_64_table[64] =
 {
    63, 30,  3, 32, 59, 14, 11, 33,

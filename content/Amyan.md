@@ -22,6 +22,7 @@ Amyan played the [CCT4](CCT4 "CCT4"), [CCT5](CCT5 "CCT5") and [CCT6](CCT6 "CCT6"
 Amyan's [mailbox](Mailbox "Mailbox") board array has index 11 for a1 and 88 for h8, so it is apparently a 10\*10 board with following index mapping. It further uses [bitboards](Bitboards "Bitboards") mainly for [pawns](Pawn_Pattern_and_Properties "Pawn Pattern and Properties").
 
 ```C++
+
 int mailbox[100] = {
    -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
    -1,  0,  1,  2,  3,  4,  5,  6,  7, -1,

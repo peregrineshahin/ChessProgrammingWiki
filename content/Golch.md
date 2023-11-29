@@ -17,6 +17,7 @@ The [online-learning](Learning "Learning") approach to replace classical evaluat
 More promising results was due to an advanced implementaion of [history heuristic](History_Heuristic "History Heuristic"), where a table was not only indexed by its \[from\]\[to\] coordinates of a move, but a much larger table with additional context of the moving piece along with a bitmask of pieces attacking the from square, which was reported to work about 3% better than the pure history heuristic in terms of node counts on the [Bratko-Kopec problems](Bratko-Kopec_Test "Bratko-Kopec Test") <a id="cite-note-10" href="#cite-ref-10">[10]</a>:
 
 ```C++
+
 history[piece][from][to][attack_bit_vector] += (1 << depth);
 
 ```

@@ -12,12 +12,14 @@ The **Horizon Effect** is caused by the [depth](Depth "Depth") limitation of the
 
 Quote by [Tony Marsland](Tony_Marsland "Tony Marsland") from *Computer Chess and Search.* <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
 
-```C++**2. 6. Horizon Effect**
+```C++
+**2. 6. Horizon Effect**
 An unresolved defect of chess programs is the insertion of delaying moves that cause any inevitable loss of material to occur beyond the program’s horizon (maximum search depth), so that the loss is hidden ([Berliner](Hans_Berliner "Hans Berliner"), 1973 <a id="cite-note-3" href="#cite-ref-3">[3]</a>). The ‘horizon effect’ is said to occur when the delaying moves unnecessarily weaken the position or give up additional material to postpone the eventual loss. The effect is less apparent in programs with more knowledgeable quiescence searches ([Hermann Kaindl](Hermann_Kaindl "Hermann Kaindl"), 1982 <a id="cite-note-4" href="#cite-ref-4">[4]</a>), but all programs exhibit this phenomenon. There are many illustrations of the difficulty; the example in Figure 4, which is based on a study by Kaindl, is clear. Here a program with a simple quiescence search involving only captures would assume that any blocking move saves the queen. Even an 8-ply search (..., Pb2; Bxb2, Pc3; Bxc3, Pd4; Bxd4, Pe5; Bxe5) might not show the inevitable, ‘believing’ that the queen has been saved at the expense of four pawns! 
 
 ```
 
-```C++Thus programs with a poor or inadequate quiescence search suffer more from the horizon effect.
+```C++
+Thus programs with a poor or inadequate quiescence search suffer more from the horizon effect.
 The best way to provide automatic extension of non-quiescent positions is still an open question, despite proposals such as bandwidth heuristic search ([Larry Harris](Larry_Harris "Larry Harris"), 1973 <a id="cite-note-5" href="#cite-ref-5">[5]</a> ). 
 
 ```
@@ -36,12 +38,14 @@ The best way to provide automatic extension of non-quiescent positions is still 
 
 [Amir Ban](Amir_Ban "Amir Ban") in a reply to [Robert Hyatt](Robert_Hyatt "Robert Hyatt") on Horizon Effect 1998 <a id="cite-note-6" href="#cite-ref-6">[6]</a> :
 
-```C++>not much you can do... horizon effect happens anytime you stop the search
+```C++
+>not much you can do... horizon effect happens anytime you stop the search
 >in a non-quiet position... everybody sees it... just get faster.. :)
 
 ```
 
-```C++I don't agree with this statement. The exposure to horizon effects is what usually limits a program's strength, more than the depth it can reach. The fact that it cannot be totally overcome is irrelevant to the fact that limiting its damage is a first priority. Just getting generally deeper is a poor way to do that, and not very effective either. 
+```C++
+I don't agree with this statement. The exposure to horizon effects is what usually limits a program's strength, more than the depth it can reach. The fact that it cannot be totally overcome is irrelevant to the fact that limiting its damage is a first priority. Just getting generally deeper is a poor way to do that, and not very effective either. 
 
 ```
 
@@ -49,11 +53,13 @@ The best way to provide automatic extension of non-quiescent positions is still 
 
 [Robert Hyatt](Robert_Hyatt "Robert Hyatt") states on Horizon Effect in 2006 <a id="cite-note-7" href="#cite-ref-7">[7]</a> :
 
-```C++The "horizon effect" is something caused by a fixed search horizon that the search can't penetrate. If the search can therefore force something out beyond the horizon, in effect "delaying the problem for a while" that delaying can appear to be a "permanent solution" to the problem, since if the problem is pushed beyond the horizon, so far as the search is concerned, the problem no longer exists.
+```C++
+The "horizon effect" is something caused by a fixed search horizon that the search can't penetrate. If the search can therefore force something out beyond the horizon, in effect "delaying the problem for a while" that delaying can appear to be a "permanent solution" to the problem, since if the problem is pushed beyond the horizon, so far as the search is concerned, the problem no longer exists.
 
 ```
 
-```C++Search extensions are one way to mitigate this, but it is impossible to eliminate. 
+```C++
+Search extensions are one way to mitigate this, but it is impossible to eliminate. 
 
 ```
 
@@ -61,7 +67,8 @@ The best way to provide automatic extension of non-quiescent positions is still 
 
 [Gerald Tripard](Gerald_Tripard "Gerald Tripard") in a 2010 letter <a id="cite-note-8" href="#cite-ref-8">[8]</a> on his time at [ETH Zurich](ETH_Zurich "ETH Zurich"), his chess program [Charly](Charly "Charly"), and the match versus [Mac Hack VI](Mac_Hack "Mac Hack") in 1968 <a id="cite-note-9" href="#cite-ref-9">[9]</a>:
 
-```C++One of the more interesting problems of [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") that I learned about in working on the chess program was called, "The Horizon Effect". If a problem could be pushed "beyond the preprogrammed" [tree search](Search "Search") [limit](Depth "Depth"), the program would make the "bad" choice of sacrificing material to avoid losing, say, a queen "within" the horizon in the situation where the queen was going to be lost eventually anyway. I see this as not just a problem of "artificial" intelligence but human thinking in general, especially of politicians. You can find wonderful examples of this in today's headlines. For example politicians "buy" the favor of a certain class of workers by offering them fabulous retirement benefits. That effectively pushes an "accounting negative balance" beyond the horizon of the politician's career. The politician gets the immediate benefit of support from the affected workers but society will eventually have to pay the bill after the politician is gone. 
+```C++
+One of the more interesting problems of [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") that I learned about in working on the chess program was called, "The Horizon Effect". If a problem could be pushed "beyond the preprogrammed" [tree search](Search "Search") [limit](Depth "Depth"), the program would make the "bad" choice of sacrificing material to avoid losing, say, a queen "within" the horizon in the situation where the queen was going to be lost eventually anyway. I see this as not just a problem of "artificial" intelligence but human thinking in general, especially of politicians. You can find wonderful examples of this in today's headlines. For example politicians "buy" the favor of a certain class of workers by offering them fabulous retirement benefits. That effectively pushes an "accounting negative balance" beyond the horizon of the politician's career. The politician gets the immediate benefit of support from the affected workers but society will eventually have to pay the bill after the politician is gone. 
 
 ```
 
@@ -69,7 +76,8 @@ The best way to provide automatic extension of non-quiescent positions is still 
 
 [Lawrence J. Krakauer](Lawrence_J._Krakauer "Lawrence J. Krakauer") in an additional note on [Gerald Tripard's](Gerald_Tripard "Gerald Tripard") letter <a id="cite-note-10" href="#cite-ref-10">[10]</a>:
 
-```C++[Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt") also noted the "Horizon Effect", of course, although I don't know if he called it by that name. One way that [Mac Hack VI](Mac_Hack "Mac Hack") attempted to combat it was via a mechanism that I believe was called "[crossovers](Quiescence_Search "Quiescence Search")". If at the conclusion of the program's [lookahead](Search "Search") (typically six [plies](Ply "Ply") deep) there were still pieces under attack, the program extended the lookahead, for those positions only, to an even greater depth. This introduced some other problems, such as comparing board [evaluations](Evaluation "Evaluation") of different [depths](Depth "Depth"). However, this seemed better than working with a board evaluation based on a position that was still in a state of flux. 
+```C++
+[Richard Greenblatt](Richard_Greenblatt "Richard Greenblatt") also noted the "Horizon Effect", of course, although I don't know if he called it by that name. One way that [Mac Hack VI](Mac_Hack "Mac Hack") attempted to combat it was via a mechanism that I believe was called "[crossovers](Quiescence_Search "Quiescence Search")". If at the conclusion of the program's [lookahead](Search "Search") (typically six [plies](Ply "Ply") deep) there were still pieces under attack, the program extended the lookahead, for those positions only, to an even greater depth. This introduced some other problems, such as comparing board [evaluations](Evaluation "Evaluation") of different [depths](Depth "Depth"). However, this seemed better than working with a board evaluation based on a position that was still in a state of flux. 
 
 ```
 
@@ -77,11 +85,13 @@ The best way to provide automatic extension of non-quiescent positions is still 
 
 by [Gary J. Boos](Gary_Boos "Gary Boos") on [Mr. Turk](Mr._Turk "Mr. Turk") from [Ben Mittman's](Ben_Mittman "Ben Mittman") 1971 Panel <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a>:
 
-```C++[Mundstock](James_Mundstock "James Mundstock") noticed an article by [Slagle](James_R._Slagle "James R. Slagle") and [Bursky](Philip_Bursky "Philip Bursky") in the [Journal of the ACM](ACM#Journal "ACM")  <a id="cite-note-13" href="#cite-ref-13">[13]</a>, that pointed toward an algorithm that seemed better than [alpha-beta](Alpha-Beta "Alpha-Beta") pruning. Based upon this article, and guided by Mundstock, I wrote a lookahead routine whose main theme is that the best line is analyzed until it is shown that it is no longer the best line.
+```C++
+[Mundstock](James_Mundstock "James Mundstock") noticed an article by [Slagle](James_R._Slagle "James R. Slagle") and [Bursky](Philip_Bursky "Philip Bursky") in the [Journal of the ACM](ACM#Journal "ACM")  <a id="cite-note-13" href="#cite-ref-13">[13]</a>, that pointed toward an algorithm that seemed better than [alpha-beta](Alpha-Beta "Alpha-Beta") pruning. Based upon this article, and guided by Mundstock, I wrote a lookahead routine whose main theme is that the best line is analyzed until it is shown that it is no longer the best line.
 
 ```
 
-```C++This process eliminates many common problems that accompany a fixed depth search, one of which is the **Ostrich Effect** which existed in even [Northwestern University's](Northwestern_University "Northwestern University")  [Chess 3.0](Chess_(Program) "Chess (Program)"). Tests showed that in a small set of positions, *Mr. Turk* could find the main variation on the first try. We believe that the basic theme of our lookahead routine is better than alpha-beta pruning. ... 
+```C++
+This process eliminates many common problems that accompany a fixed depth search, one of which is the **Ostrich Effect** which existed in even [Northwestern University's](Northwestern_University "Northwestern University")  [Chess 3.0](Chess_(Program) "Chess (Program)"). Tests showed that in a small set of positions, *Mr. Turk* could find the main variation on the first try. We believe that the basic theme of our lookahead routine is better than alpha-beta pruning. ... 
 
 ```
 

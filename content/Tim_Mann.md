@@ -20,7 +20,8 @@ an American computer scientist and programmer from [Palo Alto, California](https
 
 
 
-```C++[Andreas Nowatzyk](Andreas_Nowatzyk "Andreas Nowatzyk") was one of the contributors to the [Deep Thought](Deep_Thought "Deep Thought") project while he was in grad school. A few years ago when he and I were both working for Compaq's research labs in Palo Alto, Andreas sent me a copy of Deep Thought's [evaluation function tuning program](Automated_Tuning "Automated Tuning") and asked me to put it on the Web for him, since he no longer has an interest in computer chess. 
+```C++
+[Andreas Nowatzyk](Andreas_Nowatzyk "Andreas Nowatzyk") was one of the contributors to the [Deep Thought](Deep_Thought "Deep Thought") project while he was in grad school. A few years ago when he and I were both working for Compaq's research labs in Palo Alto, Andreas sent me a copy of Deep Thought's [evaluation function tuning program](Automated_Tuning "Automated Tuning") and asked me to put it on the Web for him, since he no longer has an interest in computer chess. 
 
 ```
 

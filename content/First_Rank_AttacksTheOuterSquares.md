@@ -18,6 +18,7 @@ Assume we (temporary) reduce the chess-board to one [rank](Ranks "Ranks"). Occup
 Occupancy of the first rank = 01001010B, Rank-attacks ::= f (e-file, Occupancy) = 01110110B
 
 ```C++
+
 BYTE arrFirstRankAttacks256x8[256][8]; // 2048 Bytes = 2KByte
 
 firstRankAttack = arrFirstRankAttacks256x8[rankOccupancy][squareOnRank];
@@ -33,6 +34,7 @@ In fact both indices seem somehow overdetermined, since the rook is already memb
 If we think about the occupancy lookup, we may recognize that the outer squares don't matter. There are no more squares behind. The outer squares are either attacked or not - independent from their occupancy state. We can use the **six inner bits** only as lookup-index with two additional cheap instructions.
 
 ```C++
+
 BYTE arrFirstRankAttacks64x8[64][8]; // 512 Bytes = 1/2KByte
 
 firstRankAttack = arrFirstRankAttacks64x8[(rankOccupancy >> 1) & 63][squareOnRank];
@@ -44,6 +46,7 @@ firstRankAttack = arrFirstRankAttacks64x8[(rankOccupancy >> 1) & 63][squareOnRan
 Since it is simple to shift ranks up and down, the general rank attack getter is already handy.
 
 ```C++
+
 BYTE arrFirstRankAttacks64x8[64*8]; // 512 Bytes = 1/2KByte
 
 U64 rankAttacks(U64 occ, enumSquare sq) {

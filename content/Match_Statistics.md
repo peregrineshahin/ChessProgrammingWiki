@@ -20,7 +20,8 @@ The total number of games played by an engine in a tournament.
 
 
 
-```C++N = wins + draws + losses
+```C++
+N = wins + draws + losses
 
 ```
 
@@ -32,12 +33,14 @@ The score is a representation of the tournament-outcome from the viewpoint of a 
 
 
 
-```C++score\_difference = wins - losses
+```C++
+score\_difference = wins - losses
 
 ```
 
 
-```C++score = wins + draws/2
+```C++
+score = wins + draws/2
 
 ```
 
@@ -49,12 +52,14 @@ The score is a representation of the tournament-outcome from the viewpoint of a 
 
 
 
-```C++win\_ratio = score/N
+```C++
+win\_ratio = score/N
 
 ```
 
 
-```C++draw\_ratio = draws/N
+```C++
+draw\_ratio = draws/N
 
 ```
 
@@ -182,22 +187,26 @@ As posted in October 2016 <a id="cite-note-3" href="#cite-ref-3">[3]</a> , [Andr
 
 
 
-```C++Expected win\_ratio, win\_probability (E)
+```C++
+Expected win\_ratio, win\_probability (E)
 
 ```
 
 
-```C++Elo Rating Difference (Δ) = Elo\_Player1 - Elo\_Player2
+```C++
+Elo Rating Difference (Δ) = Elo\_Player1 - Elo\_Player2
 
 ```
 
 
-```C++E = 1 / ( 1 + 10-Δ/400)
+```C++
+E = 1 / ( 1 + 10-Δ/400)
 
 ```
 
 
-```C++Δ = 400 log10(E / (1 - E))
+```C++
+Δ = 400 log10(E / (1 - E))
 
 ```
 
@@ -207,7 +216,8 @@ Generalization of the Elo-Formula:
 
 
 
-```C++Ei = 10Eloi / (10Elo1 + 10Elo2 + ... + 10Elon-1 + 10Elon)
+```C++
+Ei = 10Eloi / (10Elo1 + 10Elo2 + ... + 10Elon-1 + 10Elon)
 
 ```
 
@@ -227,14 +237,16 @@ The likelihood of superiority (LOS) denotes how likely it would be for two playe
 
 
 
-```C++H0 : Elo\_Player1 = Elo\_Player2 
+```C++
+H0 : Elo\_Player1 = Elo\_Player2 
 
 H1 : Elo\_Player1 ≠ Elo\_Player2 
 
 ```
 
 
-```C++LOS = P(Score > score of 2 programs with equal strength)
+```C++
+LOS = P(Score > score of 2 programs with equal strength)
 
 ```
 
@@ -249,12 +261,14 @@ The following functions gives the probability of a certain game outcome assuming
 
 
 
-```C++win\_probability = (1 - draw\_ratio) / 2
+```C++
+win\_probability = (1 - draw\_ratio) / 2
 
 ```
 
 
-```C++P(wins,draws,losses) = N!/(wins! draws! losses!) win\_probabilitywins draw\_ratiodrwas win\_probabilitylosses
+```C++
+P(wins,draws,losses) = N!/(wins! draws! losses!) win\_probabilitywins draw\_ratiodrwas win\_probabilitylosses
 
 ```
 
@@ -263,7 +277,8 @@ This calculation becomes very inefficient for larger number of games. In this ca
 
 
 
-```C++***N***(N/2, N(1-draw\_ratio))
+```C++
+***N***(N/2, N(1-draw\_ratio))
 
 ```
 
@@ -272,7 +287,8 @@ where N(1 - draw\_ratio) is the sum of wins and losses:
 
 
 
-```C++***N***(N/2, wins + losses)
+```C++
+***N***(N/2, wins + losses)
 
 ```
 
@@ -281,7 +297,8 @@ To calculate the LOS one needs the [cumulative distribution function](https://en
 
 
 
-```C++LOS = ϕ((wins - losses)/√(wins + losses))
+```C++
+LOS = ϕ((wins - losses)/√(wins + losses))
 
 LOS = ½[1 + erf((wins - losses)/√(2wins + 2losses))]
 
@@ -297,7 +314,8 @@ LOS = ½[1 + erf((wins - losses)/√(2wins + 2losses))]
 
 
 
-```C++H0 : Elo\_Player1 ≤ Elo\_Player2 
+```C++
+H0 : Elo\_Player1 ≤ Elo\_Player2 
 
 H1 : Elo\_Player1 > Elo\_Player2 
 
@@ -312,6 +330,7 @@ A tiny [C++11](Cpp "Cpp") program to compute Elo difference and LOS from W/L/D c
 
 
 ```C++
+
 ##include <cstdio>
 ##include <cstdlib>
 ##include <cmath>
@@ -354,7 +373,8 @@ Over estimating the variance of the match score implies that derived quantities 
 
 
 
-```C++(p0, p1/2, p1, p3/2, p2)
+```C++
+(p0, p1/2, p1, p3/2, p2)
 
 ```
 
@@ -379,6 +399,7 @@ The [sequential probability ratio test](https://en.wikipedia.org/wiki/Sequential
 
 
 ```C++
+
 from __future__ import division
 
 import math

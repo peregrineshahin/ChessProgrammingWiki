@@ -20,7 +20,8 @@ by Fred Guterl from *Silicon gambit* <a id="cite-note-4" href="#cite-ref-4">[4]<
 
 
 
-```C++The government laboratory in Los Alamos, New Mexico, got hold of one of the first computers, MANIAC I, so that Ulam and the other H-bomb researchers wouldn't have to stay up nights solving their voluminous equations with pencil and paper. Ulam, who described himself modestly as a "fair" chess player, couldn't resist putting the machine to work on a project of somewhat less import to coldwar strategy. Together with physicist [Paul Stein](Paul_Stein "Paul Stein"), he wrote one of the first chess-playing programs. 
+```C++
+The government laboratory in Los Alamos, New Mexico, got hold of one of the first computers, MANIAC I, so that Ulam and the other H-bomb researchers wouldn't have to stay up nights solving their voluminous equations with pencil and paper. Ulam, who described himself modestly as a "fair" chess player, couldn't resist putting the machine to work on a project of somewhat less import to coldwar strategy. Together with physicist [Paul Stein](Paul_Stein "Paul Stein"), he wrote one of the first chess-playing programs. 
 
 ```
 
@@ -32,12 +33,14 @@ by [Aviezri Fraenkel](Aviezri_Fraenkel "Aviezri Fraenkel") <a id="cite-note-5" h
 
 
 
-```C++The late Stanislaw Ulam invented the [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method) in 1949 in order to solve problems in [nuclear physics](https://en.wikipedia.org/wiki/Nuclear_physics) (see Metropolis and Ulam, 1949), while working at the Manhattan project developing nuclear weapons, and contributing to the major breakthroughs of their time. In fact, the idea occurred to him in 1946, while trying to estimate the chances of winning [Canfield solitaire](https://en.wikipedia.org/wiki/Canfield_%28solitaire%29). Even much before Ulam, [Enrico Fermi](Mathematician#EFermi "Mathematician"), [Buffon](https://en.wikipedia.org/wiki/Georges-Louis_Leclerc,_Comte_de_Buffon) (the “[needle experiment](https://en.wikipedia.org/wiki/Buffon%27s_needle)”), and others experimented with precursors of the method.
+```C++
+The late Stanislaw Ulam invented the [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method) in 1949 in order to solve problems in [nuclear physics](https://en.wikipedia.org/wiki/Nuclear_physics) (see Metropolis and Ulam, 1949), while working at the Manhattan project developing nuclear weapons, and contributing to the major breakthroughs of their time. In fact, the idea occurred to him in 1946, while trying to estimate the chances of winning [Canfield solitaire](https://en.wikipedia.org/wiki/Canfield_%28solitaire%29). Even much before Ulam, [Enrico Fermi](Mathematician#EFermi "Mathematician"), [Buffon](https://en.wikipedia.org/wiki/Georges-Louis_Leclerc,_Comte_de_Buffon) (the “[needle experiment](https://en.wikipedia.org/wiki/Buffon%27s_needle)”), and others experimented with precursors of the method.
 
 ```
 
 
-```C++The Monte Carlo method has since been used extensively and successfully in [space-shuttle](https://en.wikipedia.org/wiki/Space_Shuttle) [re-entry](https://en.wikipedia.org/wiki/Atmospheric_entry) [aerodynamics](https://en.wikipedia.org/wiki/Aerodynamics), [operations research](https://en.wikipedia.org/wiki/Operations_research), [physical chemistry](https://en.wikipedia.org/wiki/Physical_chemistry), [numerical integration](https://en.wikipedia.org/wiki/Numerical_integration), [finance](https://en.wikipedia.org/wiki/Finance) and many more, in addition to physics. I was glad to see that the ideas of Stan Ulam on games and physics re-emerged after almost 70 years. Stan was a theoretical mathematician, but excelled also in applied math, physics and biology, and was involved with the early 6 x 6 computer chess program. Above all, he was extraordinarily original. 
+```C++
+The Monte Carlo method has since been used extensively and successfully in [space-shuttle](https://en.wikipedia.org/wiki/Space_Shuttle) [re-entry](https://en.wikipedia.org/wiki/Atmospheric_entry) [aerodynamics](https://en.wikipedia.org/wiki/Aerodynamics), [operations research](https://en.wikipedia.org/wiki/Operations_research), [physical chemistry](https://en.wikipedia.org/wiki/Physical_chemistry), [numerical integration](https://en.wikipedia.org/wiki/Numerical_integration), [finance](https://en.wikipedia.org/wiki/Finance) and many more, in addition to physics. I was glad to see that the ideas of Stan Ulam on games and physics re-emerged after almost 70 years. Stan was a theoretical mathematician, but excelled also in applied math, physics and biology, and was involved with the early 6 x 6 computer chess program. Above all, he was extraordinarily original. 
 
 ```
 
@@ -49,7 +52,8 @@ by [Aviezri Fraenkel](Aviezri_Fraenkel "Aviezri Fraenkel") <a id="cite-note-5" h
 
 
 
-```C++Chess programs catch some of the human chess playing abilities but rely on the limited [effective branching](Branching_Factor "Branching Factor") of the chess move [tree](Search_Tree "Search Tree"). The ideas that work for chess are inadequate for [go](Go "Go"). [Alpha-beta pruning](Alpha-Beta "Alpha-Beta") characterizes human play, but it wasn't noticed by [early chess programmers](Category:Pioneer "Category:Pioneer") - [Turing](Alan_Turing "Alan Turing"), [Shannon](Claude_Shannon "Claude Shannon"), [Pasta](John_Pasta "John Pasta") and Ulam, and [Bernstein](Alex_Bernstein "Alex Bernstein"). We humans are not very good at identifying the heuristics we ourselves use. Approximations to alpha-beta used by [Samuel](Arthur_Samuel "Arthur Samuel"), [Newell](Allen_Newell "Allen Newell") and [Simon](Herbert_Simon "Herbert Simon"), McCarthy. Proved equivalent to [minimax](Minimax "Minimax") by [Hart](Timothy_Hart "Timothy Hart") and [Levin](Michael_Levin "Michael Levin"), independently by [Brudno](Alexander_Brudno "Alexander Brudno"). [Knuth](Donald_Knuth "Donald Knuth") gives details.
+```C++
+Chess programs catch some of the human chess playing abilities but rely on the limited [effective branching](Branching_Factor "Branching Factor") of the chess move [tree](Search_Tree "Search Tree"). The ideas that work for chess are inadequate for [go](Go "Go"). [Alpha-beta pruning](Alpha-Beta "Alpha-Beta") characterizes human play, but it wasn't noticed by [early chess programmers](Category:Pioneer "Category:Pioneer") - [Turing](Alan_Turing "Alan Turing"), [Shannon](Claude_Shannon "Claude Shannon"), [Pasta](John_Pasta "John Pasta") and Ulam, and [Bernstein](Alex_Bernstein "Alex Bernstein"). We humans are not very good at identifying the heuristics we ourselves use. Approximations to alpha-beta used by [Samuel](Arthur_Samuel "Arthur Samuel"), [Newell](Allen_Newell "Allen Newell") and [Simon](Herbert_Simon "Herbert Simon"), McCarthy. Proved equivalent to [minimax](Minimax "Minimax") by [Hart](Timothy_Hart "Timothy Hart") and [Levin](Michael_Levin "Michael Levin"), independently by [Brudno](Alexander_Brudno "Alexander Brudno"). [Knuth](Donald_Knuth "Donald Knuth") gives details.
 
 ```
 

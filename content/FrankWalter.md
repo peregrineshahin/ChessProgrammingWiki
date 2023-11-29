@@ -16,11 +16,13 @@ Since **2.3.2** in February 2019, FrankWalter has become [open source](Category:
 [Frank-Walter Steinmeier](https://en.wikipedia.org/wiki/Frank-Walter_Steinmeier), in 2009 German [Minister for Foreign Affairs](<https://en.wikipedia.org/wiki/Minister_for_Foreign_Affairs_(Germany)>), since March 2017 [President of Germany](https://en.wikipedia.org/wiki/President_of_Germany),
 and his apparently desired name change <a id="cite-note-6" href="#cite-ref-6">[6]</a> to Frank was the inspiration for the name of the chess engine <a id="cite-note-7" href="#cite-ref-7">[7]</a>. Frank-Walter Steinmeier in an 2011 interview <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
-```C++Mr. Steinmeier, can you actually play chess, like [Peer Steinbrück](https://en.wikipedia.org/wiki/Peer_Steinbr%C3%BCck) and [Helmut Schmidt](https://en.wikipedia.org/wiki/Helmut_Schmidt)?
+```C++
+Mr. Steinmeier, can you actually play chess, like [Peer Steinbrück](https://en.wikipedia.org/wiki/Peer_Steinbr%C3%BCck) and [Helmut Schmidt](https://en.wikipedia.org/wiki/Helmut_Schmidt)?
 
 ```
 
-```C++Frank-Walter Steinmeier: Neither am I a good chess player nor am I currently writing a book.
+```C++
+Frank-Walter Steinmeier: Neither am I a good chess player nor am I currently writing a book.
 
 ```
 

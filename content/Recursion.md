@@ -29,6 +29,7 @@ The [BNF](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_Form)-like [Syntax](
 
 
 ```C++
+
 <PGN-database> ::= <PGN-game> <PGN-database>
                    <empty>
 
@@ -51,7 +52,8 @@ An index of a [Triangular PV-Table](Triangular_PV-Table "Triangular PV-Table") m
 
 
 
-```C++index(0) = 0
+```C++
+index(0) = 0
 index(ply+1) = index(ply) + N - ply
 
 ```
@@ -61,7 +63,8 @@ index(ply+1) = index(ply) + N - ply
 
 
 
-```C++index(ply) = ½ ply (2N + 1 - ply )
+```C++
+index(ply) = ½ ply (2N + 1 - ply )
 
 ```
 
@@ -73,7 +76,8 @@ The recursive definition of [population count](Population_Count "Population Coun
 
 
 
-```C++popcnt(0) = 0
+```C++
+popcnt(0) = 0
 popcnt(n) = popcnt(n ÷ 2) + (n mod 2)
 
 ```
@@ -94,6 +98,7 @@ popcnt(n) = popcnt(n ÷ 2) + (n mod 2)
 
 
 ```C++
+
 <expression> ::= <term>   [ {'+' | '-'} <term> ]...
       <term> ::= <factor> [ {'*' | '/'} <factor> ]...
     <factor> ::= <constant> | '(' <expression> ')'
@@ -128,7 +133,8 @@ Tree-like data structures which are traversed in [depth-first](index.php?title=D
 
 
 
-```C++It is interesting to convert this recursive procedure to an iterative (non-recursive) form by a sequence of mechanical transformations, and to apply simple optimizations which preserve program correctness. The resulting procedure is surprisingly simple, but not as easy to prove correct as the recursive form.
+```C++
+It is interesting to convert this recursive procedure to an iterative (non-recursive) form by a sequence of mechanical transformations, and to apply simple optimizations which preserve program correctness. The resulting procedure is surprisingly simple, but not as easy to prove correct as the recursive form.
 
 ```
 

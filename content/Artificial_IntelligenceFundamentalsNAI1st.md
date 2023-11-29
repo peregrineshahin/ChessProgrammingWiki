@@ -14,7 +14,8 @@ the [intelligence](https://en.wikipedia.org/wiki/Intelligence) of machines and t
 
 Quote from *I remember Donald Michie* by [Maarten van Emden](Maarten_van_Emden "Maarten van Emden") <a id="cite-note-7" href="#cite-ref-7">[7]</a> :
 
-```C++In the 1970s DM was fond of proclaiming “Chess, the [Drosophila Melanogaster](https://en.wikipedia.org/wiki/Drosophila_melanogaster) of Artificial Intelligence”. A public pronouncement of his point of view can be found in an interview with [H.J. van den Herik](Jaap_van_den_Herik "Jaap van den Herik") held in 1981 (“Computerschaak, schaakwereld en kunstmatige intelligentie” by H.J. van den Herik, Academic Service, 1983) <a id="cite-note-8" href="#cite-ref-8">[8]</a> . It is a long interview, from which I quote DM’s answer to the question: “What do you think about the applicability of the research done in computer chess?” 
+```C++
+In the 1970s DM was fond of proclaiming “Chess, the [Drosophila Melanogaster](https://en.wikipedia.org/wiki/Drosophila_melanogaster) of Artificial Intelligence”. A public pronouncement of his point of view can be found in an interview with [H.J. van den Herik](Jaap_van_den_Herik "Jaap van den Herik") held in 1981 (“Computerschaak, schaakwereld en kunstmatige intelligentie” by H.J. van den Herik, Academic Service, 1983) <a id="cite-note-8" href="#cite-ref-8">[8]</a> . It is a long interview, from which I quote DM’s answer to the question: “What do you think about the applicability of the research done in computer chess?” 
 The applicability is I think enormous and quite critical. Scientific study of computer chess, which includes the technological work, but goes far beyond that, is the most important scientific study that is going in the world at present. In the same sense, if I were asked what was the most important study in process during the first world war, I would say the genetic breeding experiments on the drosophila fruit fly by [Morgan](https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan) and his colleagues. The analogy is very good. The final impact of the early work in laying down the basic theoretical framework for the subject was just enormous, unimaginable. We see now the industrial take-off of [genetic engineering](https://en.wikipedia.org/wiki/Genetic_engineering) which is the delayed final outcome for human society of the fly-breeding work. The use of chess now as a preliminary to the knowledge engineering and cognitive engineering of the future is exactly similar, in my opinion, to the work on drosophila. It should be encouraged in a very intense way, for these reasons. 
 
 ```
@@ -23,7 +24,8 @@ The applicability is I think enormous and quite critical. Scientific study of co
 
 [Quote](Template:Quote_McCarthy_on_AI "Template:Quote McCarthy on AI") by [John McCarthy](John_McCarthy "John McCarthy") from *What is Artificial Intelligence*? <a id="cite-note-9" href="#cite-ref-9">[9]</a> <a id="cite-note-10" href="#cite-ref-10">[10]</a>:
 
-```C++[Alexander Kronrod](Alexander_Kronrod "Alexander Kronrod"), a Russian AI researcher, said '[Chess](Chess "Chess") is the [Drosophila](https://en.wikipedia.org/wiki/Drosophila) of AI.' He was making an analogy with geneticists' use of that fruit fly to study inheritance. Playing chess requires certain intellectual mechanisms and not others. Chess programs now play at grandmaster level, but they do it with limited intellectual mechanisms compared to those used by a human chess player, substituting large amounts of computation for understanding. Once we understand these mechanisms better, we can build human-level chess programs that do far less computation than do present programs. Unfortunately, the competitive and commercial aspects of making computers play chess have taken precedence over using chess as a scientific domain. It is as if the geneticists after 1910 had organized fruit fly races and concentrated their efforts on breeding fruit flies that could win these races.
+```C++
+[Alexander Kronrod](Alexander_Kronrod "Alexander Kronrod"), a Russian AI researcher, said '[Chess](Chess "Chess") is the [Drosophila](https://en.wikipedia.org/wiki/Drosophila) of AI.' He was making an analogy with geneticists' use of that fruit fly to study inheritance. Playing chess requires certain intellectual mechanisms and not others. Chess programs now play at grandmaster level, but they do it with limited intellectual mechanisms compared to those used by a human chess player, substituting large amounts of computation for understanding. Once we understand these mechanisms better, we can build human-level chess programs that do far less computation than do present programs. Unfortunately, the competitive and commercial aspects of making computers play chess have taken precedence over using chess as a scientific domain. It is as if the geneticists after 1910 had organized fruit fly races and concentrated their efforts on breeding fruit flies that could win these races.
 
 ```
 
@@ -31,11 +33,13 @@ The applicability is I think enormous and quite critical. Scientific study of co
 
 [Anthony Cozzie](Anthony_Cozzie "Anthony Cozzie") in a forum discussion about McCarthy's statement <a id="cite-note-11" href="#cite-ref-11">[11]</a> <a id="cite-note-12" href="#cite-ref-12">[12]</a> :
 
-```C++First, the author of this quote is simple WRONG. The generally accepted theory of how humans play chess is that the brain does fuzzy matching on a database of several hundred thousand positions. The amount of computation needed to do that is FAR greater than the amount expended by a "conventional" AB searcher, and yet the computer plays MUCH better than the average human. The simple fact of the matter, which you refuse to recognize, is that AB-search with reasonable heuristics is the most efficient way to play chess with Von Neuman machines.
+```C++
+First, the author of this quote is simple WRONG. The generally accepted theory of how humans play chess is that the brain does fuzzy matching on a database of several hundred thousand positions. The amount of computation needed to do that is FAR greater than the amount expended by a "conventional" AB searcher, and yet the computer plays MUCH better than the average human. The simple fact of the matter, which you refuse to recognize, is that AB-search with reasonable heuristics is the most efficient way to play chess with Von Neuman machines.
 
 ```
 
-```C++Secondly, the existence of current amateur and commercial programs does nothing to prevent you from writing whatever kind of chess playing agent you want. If you want to experiment, no one is stopping you or him from applying to NSF for research money and giving it a shot. The existence of "fruit fly races" - and his fruit fly analogy is totally flawed. A better analogy would be that a geneticist decided to make a fruit fly that could run faster than a human - does nothing to prevent casual study of one's own fruit flies. 
+```C++
+Secondly, the existence of current amateur and commercial programs does nothing to prevent you from writing whatever kind of chess playing agent you want. If you want to experiment, no one is stopping you or him from applying to NSF for research money and giving it a shot. The existence of "fruit fly races" - and his fruit fly analogy is totally flawed. A better analogy would be that a geneticist decided to make a fruit fly that could run faster than a human - does nothing to prevent casual study of one's own fruit flies. 
 
 ```
 
@@ -45,15 +49,18 @@ The applicability is I think enormous and quite critical. Scientific study of co
 
 [Quote](Template:Remembering_A.S._Kronrod "Template:Remembering A.S. Kronrod") from *Remembering A.S. Kronrod* by [Evgenii Landis](Mathematician#Landis "Mathematician") and [Isaak Yaglom](Mathematician#Yaglom "Mathematician") <a id="cite-note-13" href="#cite-ref-13">[13]</a>:
 
-```C++Only in 1955 did a real opportunity arise for [A.S. Kronrod](Alexander_Kronrod "Alexander Kronrod") to work with an electronic computer. It was the [M­2 computer](M-2 "M-2") constructed by [I.S. Bruk](http://www.computer-museum.ru/english/galglory_en/Bruk.htm), [M.A. Kartsev](http://www.computer-museum.ru/english/galglory_en/kartsev.htm), and [N.Ya. Matyukhin](http://www.computer-museum.ru/english/galglory_en/Matyukhin.htm) in the laboratory of the Institute of Energy named after [Krzhizhanovsky](https://en.wikipedia.org/wiki/Gleb_Krzhizhanovsky) and directed by I.S. Bruk. This laboratory later became the to Institute for Electronic Control Machines. The mathematics/machine interface was developed by [A.L. Brudno](Alexander_Brudno "Alexander Brudno"), a great personal and like­minded friend of A.S. Kronrod.
+```C++
+Only in 1955 did a real opportunity arise for [A.S. Kronrod](Alexander_Kronrod "Alexander Kronrod") to work with an electronic computer. It was the [M­2 computer](M-2 "M-2") constructed by [I.S. Bruk](http://www.computer-museum.ru/english/galglory_en/Bruk.htm), [M.A. Kartsev](http://www.computer-museum.ru/english/galglory_en/kartsev.htm), and [N.Ya. Matyukhin](http://www.computer-museum.ru/english/galglory_en/Matyukhin.htm) in the laboratory of the Institute of Energy named after [Krzhizhanovsky](https://en.wikipedia.org/wiki/Gleb_Krzhizhanovsky) and directed by I.S. Bruk. This laboratory later became the to Institute for Electronic Control Machines. The mathematics/machine interface was developed by [A.L. Brudno](Alexander_Brudno "Alexander Brudno"), a great personal and like­minded friend of A.S. Kronrod.
 
 ```
 
-```C++When he started with enthusiasm to program the M­2 machine, A.S. Kronrod quickly came to the conclusion that computing is not the main application of computers. The main goal is to teach the computer to think, i.e., what is now called "artificial intelligence" and in those days "heuristic programming".
+```C++
+When he started with enthusiasm to program the M­2 machine, A.S. Kronrod quickly came to the conclusion that computing is not the main application of computers. The main goal is to teach the computer to think, i.e., what is now called "artificial intelligence" and in those days "heuristic programming".
 
 ```
 
-```C++A.S. Kronrod captivated a large group of mathematicians and physicists ([G.M. Adelson ­Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), A.L. Brudno, [M.M. Bongard](https://en.wikipedia.org/wiki/Bongard_problem), [E.M. Landis](Mathematician#Landis "Mathematician"), [N.N. Konstantinov](https://en.wikipedia.org/wiki/Nikolay_Konstantinov), and others). Although some of them had arrived at this kind of problems on their own, they unconditionally accepted his leadership. In the room next to the one housing the M­2 machine the work of the new Kronrod seminar started. At the gatherings there were heated discussions on [pattern recognition](Pattern_Recognition "Pattern Recognition") problems (this work was led by M.M. Bongard; versions of his program "Kora" are still functioning), transportation problems (the problem was introduced to the seminar and actively worked on by A.L. Brudno), problems of automata theory, and many other problems.
+```C++
+A.S. Kronrod captivated a large group of mathematicians and physicists ([G.M. Adelson ­Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), A.L. Brudno, [M.M. Bongard](https://en.wikipedia.org/wiki/Bongard_problem), [E.M. Landis](Mathematician#Landis "Mathematician"), [N.N. Konstantinov](https://en.wikipedia.org/wiki/Nikolay_Konstantinov), and others). Although some of them had arrived at this kind of problems on their own, they unconditionally accepted his leadership. In the room next to the one housing the M­2 machine the work of the new Kronrod seminar started. At the gatherings there were heated discussions on [pattern recognition](Pattern_Recognition "Pattern Recognition") problems (this work was led by M.M. Bongard; versions of his program "Kora" are still functioning), transportation problems (the problem was introduced to the seminar and actively worked on by A.L. Brudno), problems of automata theory, and many other problems.
 
 ```
 
@@ -61,7 +68,8 @@ The applicability is I think enormous and quite critical. Scientific study of co
 
 [Quote](Template:Quote_Yershov "Template:Quote Yershov") from *Biography AS Kronrod* by Alexander Yershov <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
-```C++In 1958, [Kronrod](Alexander_Kronrod "Alexander Kronrod"), [Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), and [Landis](Mathematician#Landis "Mathematician") selected "[Snap](https://en.wikipedia.org/wiki/Slapjack)" ("подкидного дурака") as the intellectual foundations for the development of the game heuristic programming <a id="cite-note-15" href="#cite-ref-15">[15]</a>. The program itself was a fiasco - but the basic principles (board games, [search techniques](Search "Search") and [limited depth](Depth "Depth")) were formulated. Further research laboratories in the field of game theory culminated in the first ever chess duel between the [program](ITEP_Chess_Program "ITEP Chess Program") of the [Institute](Institute_of_Theoretical_and_Experimental_Physics "Institute of Theoretical and Experimental Physics") of Soviet and American [best program](Kotok-McCarthy-Program "Kotok-McCarthy-Program") developed at [Stanford University](Stanford_University "Stanford University") under the direction of [J. McCarthy](John_McCarthy "John McCarthy"). By [telegraph match](Stanford-ITEP_Match "Stanford-ITEP Match") was played in four games ended 3-1 in favor of our institute. At the time, chess became a [guinea pig](https://en.wikipedia.org/wiki/Guinea_pig_%28disambiguation%29) for all programmers interested in artificial intelligence.
+```C++
+In 1958, [Kronrod](Alexander_Kronrod "Alexander Kronrod"), [Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky"), and [Landis](Mathematician#Landis "Mathematician") selected "[Snap](https://en.wikipedia.org/wiki/Slapjack)" ("подкидного дурака") as the intellectual foundations for the development of the game heuristic programming <a id="cite-note-15" href="#cite-ref-15">[15]</a>. The program itself was a fiasco - but the basic principles (board games, [search techniques](Search "Search") and [limited depth](Depth "Depth")) were formulated. Further research laboratories in the field of game theory culminated in the first ever chess duel between the [program](ITEP_Chess_Program "ITEP Chess Program") of the [Institute](Institute_of_Theoretical_and_Experimental_Physics "Institute of Theoretical and Experimental Physics") of Soviet and American [best program](Kotok-McCarthy-Program "Kotok-McCarthy-Program") developed at [Stanford University](Stanford_University "Stanford University") under the direction of [J. McCarthy](John_McCarthy "John McCarthy"). By [telegraph match](Stanford-ITEP_Match "Stanford-ITEP Match") was played in four games ended 3-1 in favor of our institute. At the time, chess became a [guinea pig](https://en.wikipedia.org/wiki/Guinea_pig_%28disambiguation%29) for all programmers interested in artificial intelligence.
 
 ```
 
@@ -71,33 +79,39 @@ In a panel discussion at the [12th International Joint Conference on Artificial 
 
 ## [Jonathan Schaeffer](Jonathan_Schaeffer "Jonathan Schaeffer")
 
-```C++ Sadly, most of the work currently being done on computer chess programs is engineering, not science. For example, the engineering of special-purpose VLSI chips to increase the speed of a chess program only underlines the importance chess programmers attach to speed. In my opinion, conventional computer-chess methods will yield little of further interest to the AI community. 
+```C++
+ Sadly, most of the work currently being done on computer chess programs is engineering, not science. For example, the engineering of special-purpose VLSI chips to increase the speed of a chess program only underlines the importance chess programmers attach to speed. In my opinion, conventional computer-chess methods will yield little of further interest to the AI community. 
 
 ```
 
 ## [Tony Marsland](Tony_Marsland "Tony Marsland")
 
-```C++ Pruning by analogy is a powerful general-purpose tool and if developed satisfactorily for a perfect information game like chess would almost certainly be applicable to related decision-tree searches...
+```C++
+ Pruning by analogy is a powerful general-purpose tool and if developed satisfactorily for a perfect information game like chess would almost certainly be applicable to related decision-tree searches...
 
 ```
 
-```C++It is remarkable that no significant improvement has been made to that method, despite the passage of 15 years. Not even attempts to implement simple forms of the idea in serious chess programs. 
+```C++
+It is remarkable that no significant improvement has been made to that method, despite the passage of 15 years. Not even attempts to implement simple forms of the idea in serious chess programs. 
 
 ```
 
 ## [Robert Levinson](Robert_Levinson "Robert Levinson")
 
-```C++Psychological evidence indicates that human chess players search very few positions, and base their positional assessments on structural/perceptual patterns learned through experience.
+```C++
+Psychological evidence indicates that human chess players search very few positions, and base their positional assessments on structural/perceptual patterns learned through experience.
 
 ```
 
-```C++The main objectives of the project are to demonstrate capacity of the system to learn, to deepen our understanding of the interaction of knowledge and search, and to build bridges in this area between AI and cognitive science. 
+```C++
+The main objectives of the project are to demonstrate capacity of the system to learn, to deepen our understanding of the interaction of knowledge and search, and to build bridges in this area between AI and cognitive science. 
 
 ```
 
 ## [David Wilkins](David_Wilkins "David Wilkins")
 
-```C++Hardware advances have made chess a less fertile ground for addressing the basic issues of AI. The game is small enough that brute-force search techniques have dominated competitive computer chess, and I see little AI interest in squeezing out the last few hundred points on the chess ratings. 
+```C++
+Hardware advances have made chess a less fertile ground for addressing the basic issues of AI. The game is small enough that brute-force search techniques have dominated competitive computer chess, and I see little AI interest in squeezing out the last few hundred points on the chess ratings. 
 
 ```
 
@@ -105,11 +119,13 @@ In a panel discussion at the [12th International Joint Conference on Artificial 
 
 [John McCarthy](John_McCarthy "John McCarthy") from *AI as Sport*, 1997 <a id="cite-note-18" href="#cite-ref-18">[18]</a> , in a review of [Monty Newborn's](Monroe_Newborn "Monroe Newborn") *[Deep Blue vs. Kasparov](Kasparov_versus_Deep_Blue_1997 "Kasparov versus Deep Blue 1997")* <a id="cite-note-19" href="#cite-ref-19">[19]</a> :
 
-```C++Now that computers have reached world-champion level, it is time for chess to become a Drosophila again. Champion-level play is possible with enormously less computation than [Deep Blue](Deep_Blue "Deep Blue") and its recent competitors use. Tournaments should admit programs only with severe limits on computation. This would concentrate attention on scientific advances. Perhaps a personal computer manufacturer would sponsor a tournament with one second allowed per move on a machine of a single design. Tournaments in which players use computers to check out lines of play would be man-machine collaboration rather than just competition.
+```C++
+Now that computers have reached world-champion level, it is time for chess to become a Drosophila again. Champion-level play is possible with enormously less computation than [Deep Blue](Deep_Blue "Deep Blue") and its recent competitors use. Tournaments should admit programs only with severe limits on computation. This would concentrate attention on scientific advances. Perhaps a personal computer manufacturer would sponsor a tournament with one second allowed per move on a machine of a single design. Tournaments in which players use computers to check out lines of play would be man-machine collaboration rather than just competition.
 
 ```
 
-```C++Besides AI work aimed at tournament play, particular aspects of the game have illuminated the intellectual mechanisms involved. [Barbara Liskov](Barbara_Liskov "Barbara Liskov") demonstrated that what chess books teach about how to win certain endgames is not a program but more like a predicate comparing two positions to see if one is an improvement on the other. Such qualitative comparisons are an important feature of human intelligence and are needed for AI. [Donald Michie](Donald_Michie "Donald Michie"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [Alen Shapiro](Alen_Shapiro "Alen Shapiro"), [David Wilkins](David_Wilkins "David Wilkins"), and others have also used chess as a Drosophila to study intelligence. [Newborn](Monroe_Newborn "Monroe Newborn") ignores this work, because it is not oriented to tournament play. 
+```C++
+Besides AI work aimed at tournament play, particular aspects of the game have illuminated the intellectual mechanisms involved. [Barbara Liskov](Barbara_Liskov "Barbara Liskov") demonstrated that what chess books teach about how to win certain endgames is not a program but more like a predicate comparing two positions to see if one is an improvement on the other. Such qualitative comparisons are an important feature of human intelligence and are needed for AI. [Donald Michie](Donald_Michie "Donald Michie"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [Alen Shapiro](Alen_Shapiro "Alen Shapiro"), [David Wilkins](David_Wilkins "David Wilkins"), and others have also used chess as a Drosophila to study intelligence. [Newborn](Monroe_Newborn "Monroe Newborn") ignores this work, because it is not oriented to tournament play. 
 
 ```
 
@@ -117,15 +133,18 @@ In a panel discussion at the [12th International Joint Conference on Artificial 
 
 A further note by [John McCarthy](John_McCarthy "John McCarthy") from *Making Computer Chess Scientific* <a id="cite-note-20" href="#cite-ref-20">[20]</a> :
 
-```C++AI has two tools for tackling problems. One is to use methods observed in humans, often observed only by introspection, and the other is to invent methods using ideas of computer science without worrying about whether humans do it this way. Chess programming employs both. Introspection is an unreliable way of determining how humans think, but introspectively suggested methods are valid as AI if they work.
+```C++
+AI has two tools for tackling problems. One is to use methods observed in humans, often observed only by introspection, and the other is to invent methods using ideas of computer science without worrying about whether humans do it this way. Chess programming employs both. Introspection is an unreliable way of determining how humans think, but introspectively suggested methods are valid as AI if they work.
 
 ```
 
-```C++Much of the mental computation done by chess players is invisible to the player and to outside observers. Patterns in the position suggest what lines of play to look at, and the pattern recognition processes in the human mind seem to be invisible to that mind. However, the parts of the move tree that are examined are consciously accessible.
+```C++
+Much of the mental computation done by chess players is invisible to the player and to outside observers. Patterns in the position suggest what lines of play to look at, and the pattern recognition processes in the human mind seem to be invisible to that mind. However, the parts of the move tree that are examined are consciously accessible.
 
 ```
 
-```C++It is an important advantage of chess as a Drosophila for AI that so much of the thought that goes into human chess play is visible to the player and even to spectators. When chess players argue about what is the right move in a position, they follow out lines of play, i.e. argue explicitly about parts of the move tree. Moreover, when a player is found to have made a mistake, it is almost always a failure to follow out a certain line of play rather than a misevaluation of a final position. 
+```C++
+It is an important advantage of chess as a Drosophila for AI that so much of the thought that goes into human chess play is visible to the player and even to spectators. When chess players argue about what is the right move in a position, they follow out lines of play, i.e. argue explicitly about parts of the move tree. Moreover, when a player is found to have made a mistake, it is almost always a failure to follow out a certain line of play rather than a misevaluation of a final position. 
 
 ```
 
@@ -133,19 +152,23 @@ A further note by [John McCarthy](John_McCarthy "John McCarthy") from *Making Co
 
 A quote by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-Carlo Pascutto") on AI in [Go](Go "Go") and Chess <a id="cite-note-21" href="#cite-ref-21">[21]</a> :
 
-```C++There is no significant difference between an [alpha-beta search](Alpha-Beta "Alpha-Beta") with heavy [LMR](Late_Move_Reductions "Late Move Reductions") and a [static evaluator](Evaluation "Evaluation") (current state of the art in chess) and an [UCT](UCT "UCT") searcher with a small exploration constant that does playouts (state of the art in go).
+```C++
+There is no significant difference between an [alpha-beta search](Alpha-Beta "Alpha-Beta") with heavy [LMR](Late_Move_Reductions "Late Move Reductions") and a [static evaluator](Evaluation "Evaluation") (current state of the art in chess) and an [UCT](UCT "UCT") searcher with a small exploration constant that does playouts (state of the art in go).
 
 ```
 
-```C++The shape of the [tree](Search_Tree "Search Tree") they search is very similar. The main breakthrough in Go the last few years was how to backup an uncertain Monte Carlo score. This was solved. For chess this same problem was solved around the time [quiescent search](Quiescence_Search "Quiescence Search") was developed.
+```C++
+The shape of the [tree](Search_Tree "Search Tree") they search is very similar. The main breakthrough in Go the last few years was how to backup an uncertain Monte Carlo score. This was solved. For chess this same problem was solved around the time [quiescent search](Quiescence_Search "Quiescence Search") was developed.
 
 ```
 
-```C++Both are producing strong programs and we've proven for both the methods that they scale in strength as hardware speed goes up.
+```C++
+Both are producing strong programs and we've proven for both the methods that they scale in strength as hardware speed goes up.
 
 ```
 
-```C++So I would say that we've successfully adopted the simple, brute force methods for chess to Go and they already work without increases in computer speed. The increases will make them progressively stronger though, and with further software tweaks they will eventually surpass humans. 
+```C++
+So I would say that we've successfully adopted the simple, brute force methods for chess to Go and they already work without increases in computer speed. The increases will make them progressively stronger though, and with further software tweaks they will eventually surpass humans. 
 
 ```
 

@@ -20,12 +20,14 @@ Quote by [Gary J. Boos](Gary_Boos "Gary Boos") on [Mr. Turk](Mr._Turk "Mr. Turk"
 
 
 
-```C++Mundstock noticed an article by [Slagle](James_R._Slagle "James R. Slagle") and [Bursky](Philip_Bursky "Philip Bursky") in the [Journal of the ACM](ACM#Journal "ACM"), that pointed toward an algorithm that seemed better than [alpha-beta](Alpha-Beta "Alpha-Beta") pruning. Based upon this article, and guided by Mundstock, I wrote a lookahead routine whose main theme is that the best line is analyzed until it is shown that it is no longer the best line.
+```C++
+Mundstock noticed an article by [Slagle](James_R._Slagle "James R. Slagle") and [Bursky](Philip_Bursky "Philip Bursky") in the [Journal of the ACM](ACM#Journal "ACM"), that pointed toward an algorithm that seemed better than [alpha-beta](Alpha-Beta "Alpha-Beta") pruning. Based upon this article, and guided by Mundstock, I wrote a lookahead routine whose main theme is that the best line is analyzed until it is shown that it is no longer the best line.
 
 ```
 
 
-```C++This process eliminates many common problems that accompany a fixed depth search, one of which is the **[Ostrich Effect](Horizon_Effect "Horizon Effect")** which existed in even [Northwestern University's](Northwestern_University "Northwestern University")  [Chess 3.0](Chess_(Program) "Chess (Program)"). Tests showed that in a small set of positions, *Mr. Turk* could find the main variation on the first try. We believe that the basic theme of our lookahead routine is better than alpha-beta pruning. ... 
+```C++
+This process eliminates many common problems that accompany a fixed depth search, one of which is the **[Ostrich Effect](Horizon_Effect "Horizon Effect")** which existed in even [Northwestern University's](Northwestern_University "Northwestern University")  [Chess 3.0](Chess_(Program) "Chess (Program)"). Tests showed that in a small set of positions, *Mr. Turk* could find the main variation on the first try. We believe that the basic theme of our lookahead routine is better than alpha-beta pruning. ... 
 
 ```
 

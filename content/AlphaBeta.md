@@ -81,7 +81,8 @@ Alpha-Beta was invented independently by several researchers and pioneers from t
 
 [Quote](Template:Quote_McCarthy_on_Alpha-Beta "Template:Quote McCarthy on Alpha-Beta") by [John McCarthy](John_McCarthy "John McCarthy") from *Human-Level AI is harder than it seemed in [1955](Timeline#1955 "Timeline")* on the [Dartmouth workshop](https://en.wikipedia.org/wiki/Dartmouth_workshop):
 
-```C++Chess programs catch some of the human chess playing abilities but rely on the limited [effective branching](Branching_Factor "Branching Factor") of the chess move [tree](Search_Tree "Search Tree"). The ideas that work for chess are inadequate for [go](Go "Go"). Alpha-beta pruning characterizes human play, but it wasn't noticed by [early chess programmers](Category:Pioneer "Category:Pioneer") - [Turing](Alan_Turing "Alan Turing"), [Shannon](Claude_Shannon "Claude Shannon"), [Pasta](John_Pasta "John Pasta") and [Ulam](Stanislaw_Ulam "Stanislaw Ulam"), and [Bernstein](Alex_Bernstein "Alex Bernstein"). We humans are not very good at identifying the heuristics we ourselves use. Approximations to alpha-beta used by [Samuel](Arthur_Samuel "Arthur Samuel"), [Newell](Allen_Newell "Allen Newell") and [Simon](Herbert_Simon "Herbert Simon"), McCarthy. Proved equivalent to [minimax](Minimax "Minimax") by [Hart](Timothy_Hart "Timothy Hart") and [Levin](Michael_Levin "Michael Levin"), independently by [Brudno](Alexander_Brudno "Alexander Brudno"). [Knuth](Donald_Knuth "Donald Knuth") gives details.
+```C++
+Chess programs catch some of the human chess playing abilities but rely on the limited [effective branching](Branching_Factor "Branching Factor") of the chess move [tree](Search_Tree "Search Tree"). The ideas that work for chess are inadequate for [go](Go "Go"). Alpha-beta pruning characterizes human play, but it wasn't noticed by [early chess programmers](Category:Pioneer "Category:Pioneer") - [Turing](Alan_Turing "Alan Turing"), [Shannon](Claude_Shannon "Claude Shannon"), [Pasta](John_Pasta "John Pasta") and [Ulam](Stanislaw_Ulam "Stanislaw Ulam"), and [Bernstein](Alex_Bernstein "Alex Bernstein"). We humans are not very good at identifying the heuristics we ourselves use. Approximations to alpha-beta used by [Samuel](Arthur_Samuel "Arthur Samuel"), [Newell](Allen_Newell "Allen Newell") and [Simon](Herbert_Simon "Herbert Simon"), McCarthy. Proved equivalent to [minimax](Minimax "Minimax") by [Hart](Timothy_Hart "Timothy Hart") and [Levin](Michael_Levin "Michael Levin"), independently by [Brudno](Alexander_Brudno "Alexander Brudno"). [Knuth](Donald_Knuth "Donald Knuth") gives details.
 
 ```
 
@@ -89,7 +90,8 @@ Alpha-Beta was invented independently by several researchers and pioneers from t
 
 [Quote](Template:Quote_Shura-Bura "Template:Quote Shura-Bura") from *The Early Development of Programming in the USSR* by [Andrey Ershov](Mathematician#Ershov "Mathematician") and [Mikhail R. Shura-Bura](Mikhail_R._Shura-Bura "Mikhail R. Shura-Bura") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
-```C++At the end of the 1950's a group of Moscow mathematicians began a study of computerized chess. Sixteen years later, the studies would lead to victory in the [first world chess tournament for computer programs](WCCC_1974 "WCCC 1974") held in Stockholm during the 1974 [IFIP](IFIP "IFIP") Congress. An important component of this success was a deep study of the problems of information organization in [computer memory](Memory "Memory") and of various [search heuristics](Search "Search"). [G. M. Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") and [E. M. Landis](Mathematician#Landis "Mathematician") invented the [binary search tree](https://en.wikipedia.org/wiki/AVL_tree) ("dichotomic inquiry") and [A. L. Brudno](Alexander_Brudno "Alexander Brudno"), independent of [J. McCarthy](John_McCarthy "John McCarthy"), discovered the (α,β)-heuristic for reducing search times on a game tree.
+```C++
+At the end of the 1950's a group of Moscow mathematicians began a study of computerized chess. Sixteen years later, the studies would lead to victory in the [first world chess tournament for computer programs](WCCC_1974 "WCCC 1974") held in Stockholm during the 1974 [IFIP](IFIP "IFIP") Congress. An important component of this success was a deep study of the problems of information organization in [computer memory](Memory "Memory") and of various [search heuristics](Search "Search"). [G. M. Adelson-Velsky](Georgy_Adelson-Velsky "Georgy Adelson-Velsky") and [E. M. Landis](Mathematician#Landis "Mathematician") invented the [binary search tree](https://en.wikipedia.org/wiki/AVL_tree) ("dichotomic inquiry") and [A. L. Brudno](Alexander_Brudno "Alexander Brudno"), independent of [J. McCarthy](John_McCarthy "John McCarthy"), discovered the (α,β)-heuristic for reducing search times on a game tree.
 
 ```
 
@@ -105,6 +107,7 @@ It is interesting to convert this [recursive](Recursion "Recursion") procedure t
 A C-like pseudo code implementation of the alpha-beta algorithm with distinct indirect [recursive](Recursion "Recursion") routines for the max- and min-player, similar to the [minimax](Minimax "Minimax") routines. [Making](Make_Move "Make Move") and [unmaking](Unmake_Move "Unmake Move") [moves](Moves "Moves") is omitted, and should be done before and after the recursive calls. So called [beta-cutoffs](Beta-Cutoff "Beta-Cutoff") occur for the max-play, alpha-cutoffs for the min-player.
 
 ```C++
+
 int alphaBetaMax( int alpha, int beta, int depthleft ) {
    if ( depthleft == 0 ) return evaluate();
    for ( all moves) {
@@ -134,6 +137,7 @@ int alphaBetaMin( int alpha, int beta, int depthleft ) {
 With this call from the [Root](Root "Root"):
 
 ```C++
+
    score = alphaBetaMax(-oo, +oo, depth);
 
 ```
@@ -146,6 +150,7 @@ Alpha-beta search tree with two alpha-cuts at min nodes <a id="cite-note-10" hre
 Inside a [negamax](Negamax "Negamax") framework the routine looks simpler, but is not necessarily simpler to understand. Despite negating the returned score of the direct recursion, alpha of the min-player becomes minus beta of the max-player and vice versa, and the term alpha-cutoff or alpha-pruning is somehow diminished.
 
 ```C++
+
 int alphaBeta( int alpha, int beta, int depthleft ) {
    if( depthleft == 0 ) return quiesce( alpha, beta );
    for ( all moves)  {
@@ -173,6 +178,7 @@ Since alpha and beta act as hard [bounds](Bound "Bound") of the return value if 
 [Fail-Soft](Fail-Soft "Fail-Soft") Alpha-Beta <a id="cite-note-11" href="#cite-ref-11">[11]</a> may return scores outside the [bounds](Bound "Bound"), that is either greater than beta or less than alpha. It has to keep track of the best score, which might be below alpha.
 
 ```C++
+
 int alphaBeta( int alpha, int beta, int depthleft ) {
    int bestscore = -oo;
    if( depthleft == 0 ) return quiesce( alpha, beta );

@@ -13,7 +13,8 @@ A **Fail-High** is associated with a [Beta-Cutoff](Beta-Cutoff "Beta-Cutoff") in
 
 Quote by [Bruce Moreland](Bruce_Moreland "Bruce Moreland") <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
-```C++A fail-high indicates that the search found something that was "too good".  What this means is that the opponent has some way, already found by the search, of avoiding this position, so you have to assume that they'll do this. If they can avoid this position, there is no longer any need to search successors, since this position won't happen.
+```C++
+A fail-high indicates that the search found something that was "too good".  What this means is that the opponent has some way, already found by the search, of avoiding this position, so you have to assume that they'll do this. If they can avoid this position, there is no longer any need to search successors, since this position won't happen.
 
 ```
 
@@ -23,7 +24,8 @@ Another meaning of a **Fail-High**, is associated with [Aspiration Windows](Aspi
 
 Quote by Bruce again:
 
-```C++You can also talk about failing high and failing low from the root position, if you use an aspiration window.
+```C++
+You can also talk about failing high and failing low from the root position, if you use an aspiration window.
 
 ```
 

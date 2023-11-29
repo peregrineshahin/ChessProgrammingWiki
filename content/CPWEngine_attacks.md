@@ -8,6 +8,7 @@ This page holds the functions responsible for detecting if a given square is att
 ## isAttacked
 
 ```C++
+
 ##include "stdafx.h"
 ##include "0x88_math.h"
 
@@ -66,6 +67,7 @@ int isAttacked(char byColor, S8 sq) {
 ## leaperAttack
 
 ```C++
+
 int leaperAttack(char byColor, S8 sq, char byPiece) {
   S8 nextSq;
   for (int dir = 0; dir < 8; dir++) {
@@ -83,6 +85,7 @@ int leaperAttack(char byColor, S8 sq, char byPiece) {
 ## straightAttack
 
 ```C++
+
 int straightAttack(char byColor, S8 sq, int vect) {
   int nextSq = sq + vect;
 
@@ -104,6 +107,7 @@ int straightAttack(char byColor, S8 sq, int vect) {
 ## diagAttack
 
 ```C++
+
 int diagAttack(int byColor, S8 sq, int vect) {
   int nextSq = sq + vect;
 

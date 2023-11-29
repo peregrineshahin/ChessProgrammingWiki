@@ -13,6 +13,7 @@ The ARM is a [bi endian](Endianness "Endianness") machine, per default [little-e
 The ARM [instruction set](https://en.wikipedia.org/wiki/Instruction_set) features three operand instructions, and [conditional execution](https://en.wikipedia.org/wiki/ARM_architecture#Conditional_execution) to [avoid conditional branches](Avoiding_Branches "Avoiding Branches"). Some sample ARM [assembly](Assembly "Assembly") <a id="cite-note-3" href="#cite-ref-3">[3]</a> :
 
 ```C++
+
   CMP    r0, r1           ; set flags
   ADDGE  r2, r2, r3       ; if (r0 >= r1) then r2 := r2 + r3;
   ADDLT  r2, r2, r4       ; else r2 := r2 + r4;
@@ -22,6 +23,7 @@ The ARM [instruction set](https://en.wikipedia.org/wiki/Instruction_set) feature
 A 32-bit [barrel shifter](https://en.wikipedia.org/wiki/Barrel_shifter) can be used without performance penalty with most arithmetic instructions and address calculations:
 
 ```C++
+
   ADD  r2, r3, r3, lsl #2 ; r2 := r3 + (r3 << 2)
                           ; → r2 := r3 + r3 * 4
                           ; → r2 := r3 * 5 

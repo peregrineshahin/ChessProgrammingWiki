@@ -31,17 +31,20 @@ translation of excerpt from [Tom Fürstenberg's](Tom_F%C3%BCrstenberg "Tom Fürs
 
 
 
-```C++The ACM tournament had a special significance, because for the first time a Dutch program participated. Despite only scoring one point, in company with the PION Team was a particular instructive, enjoyable and highly entertaining event!
+```C++
+The ACM tournament had a special significance, because for the first time a Dutch program participated. Despite only scoring one point, in company with the PION Team was a particular instructive, enjoyable and highly entertaining event!
 
 ```
 
 
-```C++The PION team, Jan Derksen, Jaap van den Herik and Harry Nefkens sent a tape with source code to Ken Thompson, who arranged that PION could run on a VAX 11/780 of the Purdue University. The team wisely decided to be on the ground a few days before, to solve some possible portability problems - in Delft the program ran on a [PDP-11](PDP-11 "PDP-11"). After some changes, I played a few test games, and in remembrance to its name, PION played only with the pawns. Pieces seemed glued at the bottom rank. Jan tinkered with the program, while Harry concurrently worked on the opening book. A well-meant advice - get never close to a nervous programmer. Harry under voltage is highly explosive! Insults went back and forth, but finally everything worked well under the inspiring leadership of Jaap van den Herik.
+```C++
+The PION team, Jan Derksen, Jaap van den Herik and Harry Nefkens sent a tape with source code to Ken Thompson, who arranged that PION could run on a VAX 11/780 of the Purdue University. The team wisely decided to be on the ground a few days before, to solve some possible portability problems - in Delft the program ran on a [PDP-11](PDP-11 "PDP-11"). After some changes, I played a few test games, and in remembrance to its name, PION played only with the pawns. Pieces seemed glued at the bottom rank. Jan tinkered with the program, while Harry concurrently worked on the opening book. A well-meant advice - get never close to a nervous programmer. Harry under voltage is highly explosive! Insults went back and forth, but finally everything worked well under the inspiring leadership of Jaap van den Herik.
 
 ```
 
 
-```C++On the day of the tournament panic occurred. The terminals from Texas Instruments had no uppercase, while the password of PION to access the VAX 11/780 required one. After a phone call to Bell Labs, [Joe Condon](Joe_Condon "Joe Condon") changed the password, and a few minutes before the start of the first round, team and program were ready. 
+```C++
+On the day of the tournament panic occurred. The terminals from Texas Instruments had no uppercase, while the password of PION to access the VAX 11/780 required one. After a phone call to Bell Labs, [Joe Condon](Joe_Condon "Joe Condon") changed the password, and a few minutes before the start of the first round, team and program were ready. 
 
 ```
 

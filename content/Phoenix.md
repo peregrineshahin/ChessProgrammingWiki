@@ -39,7 +39,8 @@ In his 1987 [ICCA Journal](ICGA_Journal#10_3 "ICGA Journal") paper *Speculative 
 
 
 
-```C++My Ph.D. was not going well, so in the summer of 1982 I started looking for a distraction. Yes, I started writing yet another chess program, this one called Phoenix (it rose from the ashes of [Prodigy](Prodigy "Prodigy")). The [Planner](Planner "Planner") and Prodigy experiences were invaluable, as they convinced me that contrary to all my expectations, lots of chess knowledge didn't work. Which programs were winning the tournaments? The ones with little knowledge, but with the ability to consider an enormous number of chess positions. With a twinge to regret, I wrote Phoenix to mimic these "dumb" programs. The results were immediate. Phoenix didn't know nearly as much about chess as Prodigy did, but it would continually beat it game after game. Obviously, my old approach, imparting human knowledge to an inanimate machine, wasn't the best way to train a computer to play strong chess. 
+```C++
+My Ph.D. was not going well, so in the summer of 1982 I started looking for a distraction. Yes, I started writing yet another chess program, this one called Phoenix (it rose from the ashes of [Prodigy](Prodigy "Prodigy")). The [Planner](Planner "Planner") and Prodigy experiences were invaluable, as they convinced me that contrary to all my expectations, lots of chess knowledge didn't work. Which programs were winning the tournaments? The ones with little knowledge, but with the ability to consider an enormous number of chess positions. With a twinge to regret, I wrote Phoenix to mimic these "dumb" programs. The results were immediate. Phoenix didn't know nearly as much about chess as Prodigy did, but it would continually beat it game after game. Obviously, my old approach, imparting human knowledge to an inanimate machine, wasn't the best way to train a computer to play strong chess. 
 
 ```
 
@@ -51,7 +52,8 @@ In his 1987 [ICCA Journal](ICGA_Journal#10_3 "ICGA Journal") paper *Speculative 
 
 
 
-```C++... I can speak from experience here. In the early versions of my chess program Phoenix, I generated my Zobrist hash numbers using my student id number as a seed, naively thinking the [random numbers generated](Pseudorandom_Number_Generator "Pseudorandom Number Generator") by this seed would be good enough. A few years later I put code in to detect when my 32-bit hash key matched the wrong position. To my surprise, there were **lots** of errors. I changed my seed to another number and the error rate dropped dramatically. With this better seed, it became very, very rare to see a hash error. All randomly generated numbers are not the same! 
+```C++
+... I can speak from experience here. In the early versions of my chess program Phoenix, I generated my Zobrist hash numbers using my student id number as a seed, naively thinking the [random numbers generated](Pseudorandom_Number_Generator "Pseudorandom Number Generator") by this seed would be good enough. A few years later I put code in to detect when my 32-bit hash key matched the wrong position. To my surprise, there were **lots** of errors. I changed my seed to another number and the error rate dropped dramatically. With this better seed, it became very, very rare to see a hash error. All randomly generated numbers are not the same! 
 
 ```
 
@@ -63,7 +65,8 @@ In his 1987 [ICCA Journal](ICGA_Journal#10_3 "ICGA Journal") paper *Speculative 
 
 
 
-```C++I worked hard on Phoenix in preparation of the triennial [World Computer Chess Championship in 1986](WCCC_1986 "WCCC 1986"). To improve the program's performance it was modified to run in [parallel](Parallel_Search "Parallel Search"), using up to thirty computers. They would divide up the work, and each computer would solve part of the problem. In effect, the program was like a small business organization, with a manager to allocate work and employees to do the assigned tasks. The hard work payed off, Phoenix tied for first place in the world championship. I partied late into the night after the final game, intoxicated with success and Coca-Cola. It took a long time for me to come down from my high. 
+```C++
+I worked hard on Phoenix in preparation of the triennial [World Computer Chess Championship in 1986](WCCC_1986 "WCCC 1986"). To improve the program's performance it was modified to run in [parallel](Parallel_Search "Parallel Search"), using up to thirty computers. They would divide up the work, and each computer would solve part of the problem. In effect, the program was like a small business organization, with a manager to allocate work and employees to do the assigned tasks. The hard work payed off, Phoenix tied for first place in the world championship. I partied late into the night after the final game, intoxicated with success and Coca-Cola. It took a long time for me to come down from my high. 
 
 ```
 
@@ -78,12 +81,14 @@ given in the [WCCC 1989](WCCC_1989 "WCCC 1989") booklet <a id="cite-note-7" href
 
 
 
-```C++Phoenix uses state-of-the-art search techniques including [singular extensions](Singular_Extensions "Singular Extensions"), [minimal window](Null_Window "Null Window") searching, [transposition tables](Transposition_Table "Transposition Table"), and the [history heuristic](History_Heuristic "History Heuristic"). The program has lots of chess knowledge, including an extensive long range planner. 
+```C++
+Phoenix uses state-of-the-art search techniques including [singular extensions](Singular_Extensions "Singular Extensions"), [minimal window](Null_Window "Null Window") searching, [transposition tables](Transposition_Table "Transposition Table"), and the [history heuristic](History_Heuristic "History Heuristic"). The program has lots of chess knowledge, including an extensive long range planner. 
 
 ```
 
 
-```C++Phoenix is capable of running in parallel on a network of machines. In tournament mode, Phoenix is actually two programs: ParaPhoenix and ParaMinix. ParaPhoenix uses 10 [Sun-4s](Sun#4 "Sun") to build trees looking for the best positional move. ParaMinix uses 10 Sun 4s to build trees looking for the best tactical moves. Because of its specialized task, ParaMinix is capable of searching 1-2 ply deeper than ParaPhoenix. ParaMinix has the ability to veto ParaPhoenix's move choice, if a tactically superior move of found. The parallelism is archived using the [Dynamic Principal Variation Splitting Algorithm](Parallel_Search#PrincipalVariationSplitting "Parallel Search"). 
+```C++
+Phoenix is capable of running in parallel on a network of machines. In tournament mode, Phoenix is actually two programs: ParaPhoenix and ParaMinix. ParaPhoenix uses 10 [Sun-4s](Sun#4 "Sun") to build trees looking for the best positional move. ParaMinix uses 10 Sun 4s to build trees looking for the best tactical moves. Because of its specialized task, ParaMinix is capable of searching 1-2 ply deeper than ParaPhoenix. ParaMinix has the ability to veto ParaPhoenix's move choice, if a tactically superior move of found. The parallelism is archived using the [Dynamic Principal Variation Splitting Algorithm](Parallel_Search#PrincipalVariationSplitting "Parallel Search"). 
 
 ```
 
@@ -95,7 +100,8 @@ given in [1995](WCCC_1995 "WCCC 1995") from the [ICGA](ICGA "ICGA") site <a id="
 
 
 
-```C++The Phoenix program was an active participant in the 1980's computer chess tournaments and tied for first place in the 1986 World Championships. The program competing this year is essentially the same as that which competed in the 1989 World Computer Chess Championships. Phoenix's participation in the 1995 championships will serve as a benchmark for measuring improvements in the field. Phoenix will be running on an [HP 9000/720](https://en.wikipedia.org/wiki/HP_9000#Series_700) with 64MB [RAM](Memory#RAM "Memory"), which will be comparable to that used by most participants, and therefore the primary difference will be in the software. Expectations are that the software advances in the last 6 years will allow the other programs to move past Phoenix '89 in the final standings. Perhaps the best possible outcome would have Phoenix finishing in last place, providing some experimental evidence of the progress in the field! 
+```C++
+The Phoenix program was an active participant in the 1980's computer chess tournaments and tied for first place in the 1986 World Championships. The program competing this year is essentially the same as that which competed in the 1989 World Computer Chess Championships. Phoenix's participation in the 1995 championships will serve as a benchmark for measuring improvements in the field. Phoenix will be running on an [HP 9000/720](https://en.wikipedia.org/wiki/HP_9000#Series_700) with 64MB [RAM](Memory#RAM "Memory"), which will be comparable to that used by most participants, and therefore the primary difference will be in the software. Expectations are that the software advances in the last 6 years will allow the other programs to move past Phoenix '89 in the final standings. Perhaps the best possible outcome would have Phoenix finishing in last place, providing some experimental evidence of the progress in the field! 
 
 ```
 

@@ -14,6 +14,7 @@ Obviously, initializing a book takes some time(a couple of seconds in case of 15
 See also [CPW - Engine_book_h](CPW_-_Engine_book_h "CPW - Engine book h")
 
 ```C++
+
 ##include "stdafx.h"
 ##include "book.h"
 

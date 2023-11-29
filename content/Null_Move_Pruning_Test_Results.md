@@ -20,6 +20,7 @@ One scheme tested by [Mark Lefler](Mark_Lefler "Mark Lefler") on 25 October 2007
 
 
 ```C++
+
 R=3;
 if (side to move has 2 or more pieces) and (depth>7) then R=4;
 

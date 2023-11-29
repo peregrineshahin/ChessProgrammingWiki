@@ -12,11 +12,13 @@ a chess program designed and written by [Joël Rivat](Jo%C3%ABl_Rivat "Joël Riv
 
 given in 1997 from the [ICGA](ICGA "ICGA") tournament page <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
 
-```C++ A first Chess program was written by C. Marche, G. Le Blanc, and J. Rivat in 1990. With this experience, J. Rivat rewrote everything using [bitboards](Bitboards "Bitboards"). After [Robert Hyatt](Robert_Hyatt "Robert Hyatt") started using bitboards too, long discussions on ics and sharing new ideas permitted to improve considerably the technique.
+```C++
+ A first Chess program was written by C. Marche, G. Le Blanc, and J. Rivat in 1990. With this experience, J. Rivat rewrote everything using [bitboards](Bitboards "Bitboards"). After [Robert Hyatt](Robert_Hyatt "Robert Hyatt") started using bitboards too, long discussions on ics and sharing new ideas permitted to improve considerably the technique.
 
 ```
 
-```C++Chess Guru is a 64 bits intensive program and performs poorly on 32 bits computers. The search algorithm is using [PVS](Principal_Variation_Search "Principal Variation Search") with [nullmove](Null_Move_Pruning "Null Move Pruning"), extended [transposition table](Transposition_Table "Transposition Table"), [refutation table](Refutation_Table "Refutation Table"), [internal iterative deepening](Internal_Iterative_Deepening "Internal Iterative Deepening"), several classical [extensions](Extensions "Extensions") schemes (like [incheck extension](Check_Extensions "Check Extensions"), [recaptures](Recapture_Extensions "Recapture Extensions")). The [evaluation](Evaluation "Evaluation") includes [development](Development "Development"), [mobility](Mobility "Mobility"), [pawn structure](Pawn_Structure "Pawn Structure") and [king safety](King_Safety "King Safety") . 
+```C++
+Chess Guru is a 64 bits intensive program and performs poorly on 32 bits computers. The search algorithm is using [PVS](Principal_Variation_Search "Principal Variation Search") with [nullmove](Null_Move_Pruning "Null Move Pruning"), extended [transposition table](Transposition_Table "Transposition Table"), [refutation table](Refutation_Table "Refutation Table"), [internal iterative deepening](Internal_Iterative_Deepening "Internal Iterative Deepening"), several classical [extensions](Extensions "Extensions") schemes (like [incheck extension](Check_Extensions "Check Extensions"), [recaptures](Recapture_Extensions "Recapture Extensions")). The [evaluation](Evaluation "Evaluation") includes [development](Development "Development"), [mobility](Mobility "Mobility"), [pawn structure](Pawn_Structure "Pawn Structure") and [king safety](King_Safety "King Safety") . 
 
 ```
 

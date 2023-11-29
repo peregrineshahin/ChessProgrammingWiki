@@ -14,16 +14,19 @@ a German computer scientist, chess programmer, and author of the chess engines [
 
 Fritz Reul's first WCCC experience in [Graz 2003](WCCC_2003 "WCCC 2003") was a mess. [List](</List_(Program)> "List (Program)") was not represented by its author himself, but by [Erdogan Günes](Erdogan_G%C3%BCnes "Erdogan Günes"). Fritz, probably not aware of the [ICGA](ICGA "ICGA") rules, and with examination commitments, did not act appropriate to prove his program was not a clone, as accused by an official protest during the tournament. As a consequence, Loop List was disqualified after eight of eleven rounds <a id="cite-note-3" href="#cite-ref-3">[3]</a>. With hindsight Fritz Reul was fully rehabilitated by the [ICGA](ICGA "ICGA") <a id="cite-note-4" href="#cite-ref-4">[4]</a> in 2005:
 
-```C++**Cancellation of Suspension**
+```C++
+**Cancellation of Suspension**
 During the 2003 World Computer Chess Championship in Graz, it was unfortunately necessary for the ICGA to disqualify one of the participants, Fritz Reul, and to impose a suspension on him from taking part in ICGA events. This was because Mr. Reul did not respond positively to a request by the tournament committee to submit his program code for inspection, as required by the ICGA tournament rules.
 
 ```
 
-```C++We are now pleased to announce that Mr Reul has since submitted his program code to the scrutiny of an expert approved by the ICGA tournament committee and that this expert has declared Mr. Reul’s code to be completely above board, with no sign of any copying of code from other known programs. Furthermore Mr. Reul has submitted to the ICGA an apology for what happened in 2003 (see above). The ICGA tournament committee has therefore decided unanimously to lift the suspension on Mr. Reul with immediate effect and to welcome him back for participation in future ICGA events.
+```C++
+We are now pleased to announce that Mr Reul has since submitted his program code to the scrutiny of an expert approved by the ICGA tournament committee and that this expert has declared Mr. Reul’s code to be completely above board, with no sign of any copying of code from other known programs. Furthermore Mr. Reul has submitted to the ICGA an apology for what happened in 2003 (see above). The ICGA tournament committee has therefore decided unanimously to lift the suspension on Mr. Reul with immediate effect and to welcome him back for participation in future ICGA events.
 
 ```
 
-```C++London, England
+```C++
+London, England
 [David Levy](David_Levy "David Levy") 
 
 ```

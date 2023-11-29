@@ -23,12 +23,14 @@ from *History and Anatomy of MYCHESS* by [David Kittinger](David_Kittinger "Davi
 
 
 
-```C++MYCHESS uses an [iterative](Iterative_Deepening "Iterative Deepening") [Type A search](Type_A_Strategy "Type A Strategy"),  with [alpha-beta pruning](Alpha-Beta "Alpha-Beta") as well as the [killer](Killer_Heuristic "Killer Heuristic") and [capture heuristics](MVV-LVA "MVV-LVA"). It will predict its opponents best move, and start, [analyzing replies](Pondering "Pondering") while the opponent is still thinking. One [extra ply](Extensions "Extensions") is examined before backing up from a [best variation](Principal_Variation "Principal Variation") if the [side to move](Side_to_move "Side to move") can have anything captured. 
+```C++
+MYCHESS uses an [iterative](Iterative_Deepening "Iterative Deepening") [Type A search](Type_A_Strategy "Type A Strategy"),  with [alpha-beta pruning](Alpha-Beta "Alpha-Beta") as well as the [killer](Killer_Heuristic "Killer Heuristic") and [capture heuristics](MVV-LVA "MVV-LVA"). It will predict its opponents best move, and start, [analyzing replies](Pondering "Pondering") while the opponent is still thinking. One [extra ply](Extensions "Extensions") is examined before backing up from a [best variation](Principal_Variation "Principal Variation") if the [side to move](Side_to_move "Side to move") can have anything captured. 
 
 ```
 
 
-```C++The desirability of a possible position is "[scored](Evaluation "Evaluation") " on the basis of [material](Material "Material") strength, using a ["swap off" evaluator](Static_Exchange_Evaluation "Static Exchange Evaluation") to resolve situations where something is under attack. If a decision can not be made using this score, then a secondary positional score is generated, which takes into account such features as [pawn structure](Pawn_Structure "Pawn Structure"), [piece placement](Piece-Square_Tables "Piece-Square Tables"), and [mobility](Mobility "Mobility"). When a possible position is found which is better than the current best variation, it is saved in the [ply table](Triangular_PV-Table "Triangular PV-Table") ; otherwise it is discarded. 
+```C++
+The desirability of a possible position is "[scored](Evaluation "Evaluation") " on the basis of [material](Material "Material") strength, using a ["swap off" evaluator](Static_Exchange_Evaluation "Static Exchange Evaluation") to resolve situations where something is under attack. If a decision can not be made using this score, then a secondary positional score is generated, which takes into account such features as [pawn structure](Pawn_Structure "Pawn Structure"), [piece placement](Piece-Square_Tables "Piece-Square Tables"), and [mobility](Mobility "Mobility"). When a possible position is found which is better than the current best variation, it is saved in the [ply table](Triangular_PV-Table "Triangular PV-Table") ; otherwise it is discarded. 
 
 ```
 

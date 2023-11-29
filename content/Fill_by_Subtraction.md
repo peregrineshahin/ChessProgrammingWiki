@@ -15,6 +15,7 @@ Unfortunately it only works in positive horizontal direction, so the possible sa
 ## Source Code
 
 ```C++
+
 U64 eastAttacks(U64 rooks, U64 empty) {
    const U64 H     =  0x8080808080808080;
    U64 occInclRook =  rooks | ~empty | H;
@@ -32,6 +33,7 @@ Even more with vectors of two bitboards and [SSE2-instructions](SSE2#EastAttacks
 For comparison the [Kogge-Stone](Kogge-Stone_Algorithm "Kogge-Stone Algorithm") attack-getter. It gives an idea how to implement a [Kogge-Stone Adder](Parallel_Prefix_Algorithms#KoggeStoneAdder "Parallel Prefix Algorithms") with bitwise operations only.
 
 ```C++
+
 U64 eastAttacks(U64 rooks, U64 empty) {
    empty &= notAFile;
    rooks |= empty & (rooks << 1);

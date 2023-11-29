@@ -35,6 +35,7 @@ The [perceptron](https://en.wikipedia.org/wiki/Perceptron) is an algorithm for [
 
 
 ```C++
+
    for (j=0, Σ = 0.0; j < nSamples; ++j) {
     for (i=0, X = bias; i < nFeatures; ++i) 
       X += w[i]*x[j][i];
@@ -76,6 +77,7 @@ Backpropagation algorithm for a 3-layer network <a id="cite-note-24" href="#cite
 
 
 ```C++
+
    initialize the weights in the network (often small random values)
    do
       for each example e in the training set

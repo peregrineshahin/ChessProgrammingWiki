@@ -17,7 +17,8 @@ an early [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess C
 
 [Steve Chafitz](Steve_Chafitz "Steve Chafitz") on a call from [Bobby Fischer](https://en.wikipedia.org/wiki/Bobby_Fischer) <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>:
 
-```C++Just to rewind a bit, one evening when I was home having dinner, I got a call from Bobby Fischer. He was excited about our electronic chess game "Boris" and I realized that if he was interested in our electronic chess game that there was a major market out there. We increased our development of electronic games and yes, we hired the brightest and the best programmers in the country to develop programs for our games. 
+```C++
+Just to rewind a bit, one evening when I was home having dinner, I got a call from Bobby Fischer. He was excited about our electronic chess game "Boris" and I realized that if he was interested in our electronic chess game that there was a major market out there. We increased our development of electronic games and yes, we hired the brightest and the best programmers in the country to develop programs for our games. 
 
 ```
 
@@ -77,11 +78,13 @@ Kf7 90.Kh7 Ke6 91.g8=Q+ Ke5 92.Kg6 Ke4 93.Qc4+ Ke5 94.Kg5 Kd6 95.Kf6 Kd7 96.Qc5 
 
 Boris X was also registered for the [ACM 1980](ACM_1980 "ACM 1980"). A brief description is given in the tournament booklet with [Applied Concepts](Applied_Concepts "Applied Concepts") CEO [Alan Mead](Alan_Mead "Alan Mead") as representative <a id="cite-note-25" href="#cite-ref-25">[25]</a> :
 
-```C++BORIS EXPERIMENTAL, Alan Mead, Applied Concepts, Garland, Texas
+```C++
+BORIS EXPERIMENTAL, Alan Mead, Applied Concepts, Garland, Texas
 
 ```
 
-```C++The program uses [alpha-beta](Alpha-Beta "Alpha-Beta") pruning with recently developed and improved search heuristics. The program runs in 8k of program space and has nine levels of play including two tournament levels. The tournament level play is expected to be 100 points stronger than the present BORIS 2.5 program. 
+```C++
+The program uses [alpha-beta](Alpha-Beta "Alpha-Beta") pruning with recently developed and improved search heuristics. The program runs in 8k of program space and has nine levels of play including two tournament levels. The tournament level play is expected to be 100 points stronger than the present BORIS 2.5 program. 
 
 ```
 
@@ -91,7 +94,8 @@ But *Boris X*, despite registered, finally did not play the [ACM 1980](ACM_1980 
 
 At the 12th [ACM 1981](ACM_1981 "ACM 1981"), *Boris X* was mentioned in the booklet again, now with a long list of its authors and Applied Concepts representatives <a id="cite-note-28" href="#cite-ref-28">[28]</a>, but again, did not participate, likely also because [David Slate](David_Slate "David Slate") was already competing with [Nuchess](Nuchess "Nuchess"):
 
-```C++BORIS EXPERIMENTAL, [John Aker](John_Aker "John Aker"), [Alan Mead](Alan_Mead "Alan Mead"), [Terry Fredrick](Terry_Fredrick "Terry Fredrick"), [John Jacobs](index.php?title=John_Jacobs&action=edit&redlink=1 "John Jacobs (page does not exist)"), [David Slate](David_Slate "David Slate"), [Larry Atkin](Larry_Atkin "Larry Atkin") (c/o AM, Applied Concepts, Inc. 207 N. Kirby, Garland, Texas 75042), [Great Game Machine](Great_Game_Machine "Great Game Machine") (at site) 
+```C++
+BORIS EXPERIMENTAL, [John Aker](John_Aker "John Aker"), [Alan Mead](Alan_Mead "Alan Mead"), [Terry Fredrick](Terry_Fredrick "Terry Fredrick"), [John Jacobs](index.php?title=John_Jacobs&action=edit&redlink=1 "John Jacobs (page does not exist)"), [David Slate](David_Slate "David Slate"), [Larry Atkin](Larry_Atkin "Larry Atkin") (c/o AM, Applied Concepts, Inc. 207 N. Kirby, Garland, Texas 75042), [Great Game Machine](Great_Game_Machine "Great Game Machine") (at site) 
 
 ```
 

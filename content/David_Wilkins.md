@@ -12,7 +12,8 @@ an American computer scientist and [AI](Artificial_Intelligence "Artificial Inte
 
 Quote by [John McCarthy](John_McCarthy "John McCarthy") from *AI as Sport* <a id="cite-note-4" href="#cite-ref-4">[4]</a><a id="cite-note-5" href="#cite-ref-5">[5]</a>:
 
-```C++Besides AI work aimed at tournament play, particular aspects of the game have illuminated the intellectual mechanisms involved. [Barbara Liskov](Barbara_Liskov "Barbara Liskov") demonstrated that what chess books teach about how to win certain [endgames](Endgame "Endgame") is not a program but more like a predicate comparing two positions to see if one is an improvement on the other. Such qualitative comparisons are an important feature of human intelligence and are needed for AI. [Donald Michie](Donald_Michie "Donald Michie"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [Alen Shapiro](Alen_Shapiro "Alen Shapiro"), David Wilkins, and others have also used chess as a Drosophila to study intelligence. [Newborn](Monroe_Newborn "Monroe Newborn") ignores this work, because it is not oriented to tournament play. 
+```C++
+Besides AI work aimed at tournament play, particular aspects of the game have illuminated the intellectual mechanisms involved. [Barbara Liskov](Barbara_Liskov "Barbara Liskov") demonstrated that what chess books teach about how to win certain [endgames](Endgame "Endgame") is not a program but more like a predicate comparing two positions to see if one is an improvement on the other. Such qualitative comparisons are an important feature of human intelligence and are needed for AI. [Donald Michie](Donald_Michie "Donald Michie"), [Ivan Bratko](Ivan_Bratko "Ivan Bratko"), [Alen Shapiro](Alen_Shapiro "Alen Shapiro"), David Wilkins, and others have also used chess as a Drosophila to study intelligence. [Newborn](Monroe_Newborn "Monroe Newborn") ignores this work, because it is not oriented to tournament play. 
 
 ```
 

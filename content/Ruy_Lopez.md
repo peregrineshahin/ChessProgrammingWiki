@@ -20,7 +20,8 @@ given in 1999 <a id="cite-note-4" href="#cite-ref-4">[4]</a> :
 
 
 
-```C++Ruy-Lopez is a standard [alpha-beta](Alpha-Beta "Alpha-Beta") searcher, with some innovative [forward pruning](Pruning "Pruning") methods. The [evaluation](Evaluation "Evaluation") function is quite sophisticated and also slow. After four years programming *Torquemada* <a id="cite-note-5" href="#cite-ref-5">[5]</a>, a Spanish Checkers <a id="cite-note-6" href="#cite-ref-6">[6]</a> program, we began programming Ruy-Lopez in July'97 just for fun. This is a very young program, so we have much room for improving. Currently [Spanish Computer Chess Champion](SCCC_1998 "SCCC 1998"). 
+```C++
+Ruy-Lopez is a standard [alpha-beta](Alpha-Beta "Alpha-Beta") searcher, with some innovative [forward pruning](Pruning "Pruning") methods. The [evaluation](Evaluation "Evaluation") function is quite sophisticated and also slow. After four years programming *Torquemada* <a id="cite-note-5" href="#cite-ref-5">[5]</a>, a Spanish Checkers <a id="cite-note-6" href="#cite-ref-6">[6]</a> program, we began programming Ruy-Lopez in July'97 just for fun. This is a very young program, so we have much room for improving. Currently [Spanish Computer Chess Champion](SCCC_1998 "SCCC 1998"). 
 
 ```
 

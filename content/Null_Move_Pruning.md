@@ -35,7 +35,8 @@ A less trivial idea was that sometimes an extension of the game tree by introduc
 ```
 
 
-```C++However, the standard of the program's play is still such that such errors do not essentially lower it. (We plan to develop in the future a procedure for recognizing "Zugzwang" positions, and to forbid a blank move in them.) The reduction of search takes place in this case, because the blank move proves to be a closing one and furthermore does not generate complex forcing variations. 
+```C++
+However, the standard of the program's play is still such that such errors do not essentially lower it. (We plan to develop in the future a procedure for recognizing "Zugzwang" positions, and to forbid a blank move in them.) The reduction of search takes place in this case, because the blank move proves to be a closing one and furthermore does not generate complex forcing variations. 
 
 ```
 
@@ -126,6 +127,7 @@ The idea to permit a null move cutoff not only if the null move search returns a
 
 
 ```C++
+
 if ( nullMoveAllowed &&  ...) {
    int bound = beta;
    if ( inNullMoveSearch == 0 ) {
@@ -159,6 +161,7 @@ As suggested in Donninger's paper, concerning the deep search, null move is not 
 
 
 ```C++
+
 if ( nullMoveAllowed && depth >= X && ...) {
    makeNullMove()
    score = -zwSearch(1-beta, depth-R-1) // -AlphaBeta (0-beta, 1-beta, depth-R-1)

@@ -11,7 +11,8 @@ A **Window** in the context of Alpha-Beta search (Alpha-Beta window) is the [ope
 
 
 
-```C++**(α,β) = ]α,β[ = { x ∈ ℤ | α < x < β}**
+```C++
+**(α,β) = ]α,β[ = { x ∈ ℤ | α < x < β}**
 
 ```
 

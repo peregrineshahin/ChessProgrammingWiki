@@ -20,6 +20,7 @@ The first two members of the gain swap-list are likely determined by the [captur
 
 
 ```C++
+
 int Board::see ( enumSquare toSq, enumPiece target, enumSquare frSq, enumPiece aPiece)
 {
    int gain[32], d = 0;
@@ -73,6 +74,7 @@ To demonstrate how SEE works in obvious cases, is Rook takes Pawn a winning capt
 
 
 ```C++
+
 gain[0]  =  100 ; win for white if black pawn e5 is en-prise by rxp
 gain[1]  =  400 ; win for black if white rook e5 is en-prise,  500-100, speculative store
 no further attacks for black at depth 1
@@ -98,6 +100,7 @@ This position covers a more complicated case with X-rays. Is Knight takes pawn a
 
 
 ```C++
+
 gain[0] =  100 ; win for white if black pawn   e5 is en-prise by nxp
 gain[1] =  225 ; win for black if white knight e5 is en-prise by nxn,  325- 100
 gain[2] =  100 ; win for white if black knight e5 is en-prise by rxn,  325- 225 -> x-rays includes queen e1

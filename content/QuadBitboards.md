@@ -21,6 +21,7 @@ A conversion of a quad-bitboard to 16 disjoint bitboards can be done quite effic
 
 
 ```C++
+
 void quad2hexBB(U64 h[], const QBB &s) {
    __m128i a,b,c,d,e,f, m1;
    __m128i* p = (__m128i*) &s;
@@ -59,6 +60,7 @@ Converting the 64 vertical [nibbles](Nibble "Nibble") to a [8x8 board](8x8_Board
 
 
 ```C++
+
 void quadBB2Board(char board[], const QBB &quad) {
    static u64 XMM_ALIGN sq2bb_masks[8] = {
       0x0101010101010101, 0x0202020202020202,
@@ -126,6 +128,7 @@ Another application is to perform [parallel prefix](Parallel_Prefix_Algorithms "
 
 
 ```C++
+
 qbb.bb[0] = white rooks or queens
 qbb.bb[1] = black rooks or queens
 qbb.bb[2] = black king
@@ -139,6 +142,7 @@ Using an appropriate [C++](Cpp "Cpp") QBB-class with overloaded operators using 
 
 
 ```C++
+
 void nortOccl(QBB &gen /* in, out */, U64 pro64) {
    QBB pro(pro64);
    gen |= pro & (gen <<  8);
@@ -158,14 +162,16 @@ Quote by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") <a id="cite-note-1" href
 
 
 
-```C++A quad-bitboard is simply a dense board-structure, where arbitrary piece-code-nibbles reside vertically in four bitboards. Together with hashkeys (normal and pawnhash), ep and castle states, movecount, reversable movecount, and some more the whole board structure takes 64-bytes - and make/unmake is almost one simdwise "xor/add/and" instruction with delta[moveNr] on that board-structure.
+```C++
+A quad-bitboard is simply a dense board-structure, where arbitrary piece-code-nibbles reside vertically in four bitboards. Together with hashkeys (normal and pawnhash), ep and castle states, movecount, reversable movecount, and some more the whole board structure takes 64-bytes - and make/unmake is almost one simdwise "xor/add/and" instruction with delta[moveNr] on that board-structure.
 Quad-bitboards with up to 15 arbitrary codes may be used in fill-algorithms, to generate the multiplexed quad-bitboard in one run with one common empty square propagator. But multiplexing and demultiplexing makes it rather hard to use efficiently.
 One simpler coding scheme, where each bitboard is a disjoint set, is following:
 
 ```
 
 
-```C++bb0: white rooks or queens
+```C++
+bb0: white rooks or queens
 bb1: white king
 bb2: black king
 bb3: black rooks or queens
@@ -173,7 +179,8 @@ bb3: black rooks or queens
 ```
 
 
-```C++Now we can fill this quad-bitboard left and right wise (and for the other directions as well). We can aggregate the real sliding attacks for the taboo sets of the opponent king. We can do simdwise leftFill(bb1:bb0) & rightFill(bb3:bb2) and rightFill(bb1:bb0) & leftFill(bb3:bb2) to get inbetween sets of sliders with opponent king. In case of a sliding check (no piece inbetween) we can use this set as possible target set of check-breaking moves. Otherwise we can intersect it with own pieces to get pinned pieces (in total and by direction) or with opposite pieces to get discovered checkers... 
+```C++
+Now we can fill this quad-bitboard left and right wise (and for the other directions as well). We can aggregate the real sliding attacks for the taboo sets of the opponent king. We can do simdwise leftFill(bb1:bb0) & rightFill(bb3:bb2) and rightFill(bb1:bb0) & leftFill(bb3:bb2) to get inbetween sets of sliders with opponent king. In case of a sliding check (no piece inbetween) we can use this set as possible target set of check-breaking moves. Otherwise we can intersect it with own pieces to get pinned pieces (in total and by direction) or with opposite pieces to get discovered checkers... 
 
 ```
 

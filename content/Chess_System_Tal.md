@@ -48,23 +48,28 @@ Qf3 37.Qc7 Bxe3+ 38.Rxe3 Qxe3+ 39.Kg2 Qe2+ 40.Kg1 Qxd3 41.Qxb7 Qxa3 42.b6 Qc5+
 
 given in 1997 from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-9" href="#cite-ref-9">[9]</a> :
 
-```C++CSTal is designed to play in the romantic and dangerous style of Michael Tal, famous for his daring and aggressive style of play.
+```C++
+CSTal is designed to play in the romantic and dangerous style of Michael Tal, famous for his daring and aggressive style of play.
 
 ```
 
-```C++Programmer Chris Whittington has developed a radically different approach to chess programming, concentrating on speculative chess knowledge within the [evaluation function](Evaluation_Function "Evaluation Function"); and the use of [forward pruning](Pruning "Pruning") techniques which rely on this evaluation function knowledge.
+```C++
+Programmer Chris Whittington has developed a radically different approach to chess programming, concentrating on speculative chess knowledge within the [evaluation function](Evaluation_Function "Evaluation Function"); and the use of [forward pruning](Pruning "Pruning") techniques which rely on this evaluation function knowledge.
 
 ```
 
-```C++One effect of using a high knowledge-based approach is that CSTal operates at a [nodes per second](Nodes_per_Second "Nodes per Second") rate much less than programs with simple evaluation functions. The risks and benefits of this strategy are obvious; on the one side CSTal is able to steer games towards tactical king-attack complexities, and to execute stunning sacrifices. On the other side the disparity in effective search depth means that state of the art search programs will have the advantage if the position does not contain factors where CSTal's knowledge is able to give it the edge.
+```C++
+One effect of using a high knowledge-based approach is that CSTal operates at a [nodes per second](Nodes_per_Second "Nodes per Second") rate much less than programs with simple evaluation functions. The risks and benefits of this strategy are obvious; on the one side CSTal is able to steer games towards tactical king-attack complexities, and to execute stunning sacrifices. On the other side the disparity in effective search depth means that state of the art search programs will have the advantage if the position does not contain factors where CSTal's knowledge is able to give it the edge.
 
 ```
 
-```C++CSTal's computer-computer games are often very exciting and double-edged, with the result in doubt until the end. It is capable of causing serious upsets to top programs, but also of being seriously upset itself.
+```C++
+CSTal's computer-computer games are often very exciting and double-edged, with the result in doubt until the end. It is capable of causing serious upsets to top programs, but also of being seriously upset itself.
 
 ```
 
-```C++In a materialistic world, in the materialistic world of computer chess, Chess System Tal offers the alternative pathway of idealism. 
+```C++
+In a materialistic world, in the materialistic world of computer chess, Chess System Tal offers the alternative pathway of idealism. 
 
 ```
 

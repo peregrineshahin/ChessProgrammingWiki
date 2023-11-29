@@ -11,7 +11,8 @@ an American mathematician, computer scientist, senior software analyst and devel
 
 Quote by Hans Berliner on Goetsch's role in the HiTech team <a id="cite-note-4" href="#cite-ref-4">[4]</a>:
 
-```C++Gordon Goetsch wrote most of the system software that makes possible interfacing with the special purpose hardware, and has recently revised the software that supervises the search to make other searching disciplines possible. Gordon also maintains Hitech's statistics. 
+```C++
+Gordon Goetsch wrote most of the system software that makes possible interfacing with the special purpose hardware, and has recently revised the software that supervises the search to make other searching disciplines possible. Gordon also maintains Hitech's statistics. 
 
 ```
 

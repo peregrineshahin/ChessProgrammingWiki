@@ -51,17 +51,20 @@ from the [WCCC 1989](WCCC_1989 "WCCC 1989") booklet <a id="cite-note-4" href="#c
 
 
 
-```C++Lachex is specifically designed for the architecture of the Cray XMP and YMP series of machines. The highly repetitive parts of the program are written in [assembly language](Assembly "Assembly"), the rest in [Fortran](Fortran "Fortran"). Low level parallelism is achieved by extensive use of vector functional units and [pipelining](https://en.wikipedia.org/wiki/Pipeline_%28computing%29). High level parallelism is obtained by means of multiple independent processors splitting up the search using a self-scheduling algorithm and communicating with each other through a large common [memory](Memory "Memory").
+```C++
+Lachex is specifically designed for the architecture of the Cray XMP and YMP series of machines. The highly repetitive parts of the program are written in [assembly language](Assembly "Assembly"), the rest in [Fortran](Fortran "Fortran"). Low level parallelism is achieved by extensive use of vector functional units and [pipelining](https://en.wikipedia.org/wiki/Pipeline_%28computing%29). High level parallelism is obtained by means of multiple independent processors splitting up the search using a self-scheduling algorithm and communicating with each other through a large common [memory](Memory "Memory").
 
 ```
 
 
-```C++The search is basically [alpha-beta](Alpha-Beta "Alpha-Beta") with [iterative deepening](Iterative_Deepening "Iterative Deepening"). In the initial depth one search each [root](Root "Root") move is actually [scored](Score "Score") and the list of moves ordered accordantly. [Best moves](Best_Move "Best Move") at subsequent iterations are moved to the top of the list. [Scouting](Scout "Scout") is used at [ply](Ply "Ply") one only - the first move in the list is scored and the remaining moves are tested with [minimal window](Null_Window "Null Window"). [Forward pruning](Pruning "Pruning") is done with a positional estimator at nodes below the horizon and with the [null move algorithm](Null_Move_Pruning "Null Move Pruning") above. Moves out of [check](Check "Check") above the horizon [extend](Check_Extensions "Check Extensions") the [search depth](Depth "Depth") for that path by one, but by two if the check is [discovered](Discovered_Check "Discovered Check") or [double](Double_Check "Double Check"). [Selective searches](Quiescence_Search "Quiescence Search") below the horizon include [captures](Captures "Captures"), [promotions](Promotions "Promotions"), [castling](Castling "Castling"), and some checking moves.
+```C++
+The search is basically [alpha-beta](Alpha-Beta "Alpha-Beta") with [iterative deepening](Iterative_Deepening "Iterative Deepening"). In the initial depth one search each [root](Root "Root") move is actually [scored](Score "Score") and the list of moves ordered accordantly. [Best moves](Best_Move "Best Move") at subsequent iterations are moved to the top of the list. [Scouting](Scout "Scout") is used at [ply](Ply "Ply") one only - the first move in the list is scored and the remaining moves are tested with [minimal window](Null_Window "Null Window"). [Forward pruning](Pruning "Pruning") is done with a positional estimator at nodes below the horizon and with the [null move algorithm](Null_Move_Pruning "Null Move Pruning") above. Moves out of [check](Check "Check") above the horizon [extend](Check_Extensions "Check Extensions") the [search depth](Depth "Depth") for that path by one, but by two if the check is [discovered](Discovered_Check "Discovered Check") or [double](Double_Check "Double Check"). [Selective searches](Quiescence_Search "Quiescence Search") below the horizon include [captures](Captures "Captures"), [promotions](Promotions "Promotions"), [castling](Castling "Castling"), and some checking moves.
 
 ```
 
 
-```C++Lachex spends 1/3 of its time [generating moves](Move_Generation "Move Generation"), 1/3 doing bookkeeping, and 1/3 [evaluating](Evaluation "Evaluation") [leaf nodes](Leaf_Node "Leaf Node"). The evaluation function is symmetric wherever possible. [Mobility](Mobility "Mobility"), [pawn structure](Pawn_Structure "Pawn Structure"), [king safety](King_Safety "King Safety"), [piece placement](Piece-Square_Tables "Piece-Square Tables") and other features make up the evaluation function. Some strategy is incorporated at the root by shifting the minimal window to bias certain types of moves. There is a [transposition table](Transposition_Table "Transposition Table") which can be a big as 32 million positions, on a 64 million word machine. 
+```C++
+Lachex spends 1/3 of its time [generating moves](Move_Generation "Move Generation"), 1/3 doing bookkeeping, and 1/3 [evaluating](Evaluation "Evaluation") [leaf nodes](Leaf_Node "Leaf Node"). The evaluation function is symmetric wherever possible. [Mobility](Mobility "Mobility"), [pawn structure](Pawn_Structure "Pawn Structure"), [king safety](King_Safety "King Safety"), [piece placement](Piece-Square_Tables "Piece-Square Tables") and other features make up the evaluation function. Some strategy is incorporated at the root by shifting the minimal window to bias certain types of moves. There is a [transposition table](Transposition_Table "Transposition Table") which can be a big as 32 million positions, on a 64 million word machine. 
 
 ```
 
@@ -76,7 +79,8 @@ Further, something which reminds on [fill algorithms](Fill_Algorithms "Fill Algo
 
 
 
-```C++There are several methods for generating the moves of the long range pieces. The method we have had the most success with on Cray machines preceding the X-MP/48 finds the to-squares closest to the home square, and then by a complicated sequence of shifts and boolean operations simultaneously continues these moves in the appropriate directions. 
+```C++
+There are several methods for generating the moves of the long range pieces. The method we have had the most success with on Cray machines preceding the X-MP/48 finds the to-squares closest to the home square, and then by a complicated sequence of shifts and boolean operations simultaneously continues these moves in the appropriate directions. 
 
 ```
 

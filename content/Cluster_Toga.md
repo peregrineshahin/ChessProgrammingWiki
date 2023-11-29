@@ -15,7 +15,8 @@ Cluster Toga represents an intra-cluster worker of the [cluster](https://en.wiki
 
 given in 2008 from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
-```C++Cluster Toga is a Young Brothers Wait Concept (YBWC) parallelized version of Toga based on Fruit capable to run on a high performance cluster. In fact it is a "stand alone" base engine of the GridChess system which participated [last year in Amsterdam](WCCC_2007 "WCCC 2007") but is limited to use a single cluster. 
+```C++
+Cluster Toga is a Young Brothers Wait Concept (YBWC) parallelized version of Toga based on Fruit capable to run on a high performance cluster. In fact it is a "stand alone" base engine of the GridChess system which participated [last year in Amsterdam](WCCC_2007 "WCCC 2007") but is limited to use a single cluster. 
 
 ```
 

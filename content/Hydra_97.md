@@ -12,11 +12,13 @@ a chess program by [Chrilly Donninger](Chrilly_Donninger "Chrilly Donninger") su
 
 [Andreas Mader](Andreas_Mader "Andreas Mader") on Hydra <a id="cite-note-2" href="#cite-ref-2">[2]</a>:
 
-```C++I am not going to Paris, a "Nimzo team" will not be there, too.
+```C++
+I am not going to Paris, a "Nimzo team" will not be there, too.
 
 ```
 
-```C++Instead, a "Hydra team" will show up, because Chrilly Donninger changed the name of his child. This program is based on Nimzo 3.5, but most of the routines are new and many new ideas had been implemented. Hydra will only work with [Win 95 (97, NT)](Windows "Windows") and will not work under [DOS](MS-DOS "MS-DOS"). By now we are twiddling with the positional parameters (e.g. the brand new [mobility evaluation](Mobility "Mobility")) and there are many bugs in the program. Hydra is a "usual" Donninger program: Very fast and (by now) dumb. I have a Pentium 225 MMX and Hydra is doing approx. 180 KNPS on this machine. Maybe this is going to decrease when more knowledge is implemented. Chrilly also had a plan for "CHE++", but I think due to time problems this is not going to happen ... 
+```C++
+Instead, a "Hydra team" will show up, because Chrilly Donninger changed the name of his child. This program is based on Nimzo 3.5, but most of the routines are new and many new ideas had been implemented. Hydra will only work with [Win 95 (97, NT)](Windows "Windows") and will not work under [DOS](MS-DOS "MS-DOS"). By now we are twiddling with the positional parameters (e.g. the brand new [mobility evaluation](Mobility "Mobility")) and there are many bugs in the program. Hydra is a "usual" Donninger program: Very fast and (by now) dumb. I have a Pentium 225 MMX and Hydra is doing approx. 180 KNPS on this machine. Maybe this is going to decrease when more knowledge is implemented. Chrilly also had a plan for "CHE++", but I think due to time problems this is not going to happen ... 
 
 ```
 

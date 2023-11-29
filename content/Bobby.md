@@ -70,6 +70,7 @@ Bobby applied a so called *Strategic Quiescence Search* as described in a 1989 [
 ## Pseudo Code
 
 ```C++
+
 int StategicQS(CNode n, int α, int ß) {
    int bestval = eval(n);
    if ( bestval >= ß ) return bestval;   // FP1, fail soft
@@ -95,6 +96,7 @@ int StategicQS(CNode n, int α, int ß) {
 The *evalPlus* value is +oo in case of checking moves near the horizon, but scaled to zero for deeper searches to avoid "infinite" checks and [search explosion](Search_Explosion "Search Explosion"). Otherwise *evalPlus* is [incrementally calculated](Incremental_Updates "Incremental Updates") by eval(n) and [move](Moves "Moves") properties. In case of [tactical moves](Tactical_Moves "Tactical Moves"), the sum of eval(n) and the value of a captured and/or promoted piece and a constant representing half the value of a Pawn is taken. For [quiet](Quiet_Moves "Quiet Moves") or strategical moves, evalPlus relies on maximum [score](Score "Score") differences of two consecutive evaluations n´ and n, triggered by [history success counters](History_Heuristic "History Heuristic"):
 
 ```C++
+
 if ( isCheck ) 
    return infiniteIfNearBelowHorizon(depth);
 if ( isCapture && isPromotion ) 
@@ -112,6 +114,7 @@ return eval(n) + hist[from][to].diff;
 Positive history based success counters are associated with the maximum difference of two consecutive evaluations n´ and n found so far, while zero saturated counters also have zero difference and are therefor always pruned by FP3. Following scheme is used to update the [butterfly boards](Butterfly_Boards "Butterfly Boards"):
 
 ```C++
+
    for all n´€ SUCC(n) do {
       int actval = -search(n´, -ß, -α);
       ...

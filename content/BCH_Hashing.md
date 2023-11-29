@@ -14,11 +14,13 @@ a fast [incremental](Incremental_Updates "Incremental Updates") [Hash function](
 
 on *Search Tables in Computer Chess* <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
-```C++The following paper describes a method of generating the numbers for a hash table. By using [error correcting codes](https://en.wikipedia.org/wiki/Error_detection_and_correction), we ensure that positions that are close on the board are not close in the hash space. Some experiments showed that we got an improvement in collision rate compared to using a [random set of numbers](Pseudorandom_Number_Generator "Pseudorandom Number Generator").
+```C++
+The following paper describes a method of generating the numbers for a hash table. By using [error correcting codes](https://en.wikipedia.org/wiki/Error_detection_and_correction), we ensure that positions that are close on the board are not close in the hash space. Some experiments showed that we got an improvement in collision rate compared to using a [random set of numbers](Pseudorandom_Number_Generator "Pseudorandom Number Generator").
 
 ```
 
-```C++[MacWilliams](Mathematician#JMacWilliam "Mathematician") and [Sloane's](Mathematician#NSloane "Mathematician") book on error correcting codes <a id="cite-note-9" href="#cite-ref-9">[9]</a> has the glory details about the theory and programming. 
+```C++
+[MacWilliams](Mathematician#JMacWilliam "Mathematician") and [Sloane's](Mathematician#NSloane "Mathematician") book on error correcting codes <a id="cite-note-9" href="#cite-ref-9">[9]</a> has the glory details about the theory and programming. 
 
 ```
 
@@ -26,15 +28,18 @@ on *Search Tables in Computer Chess* <a id="cite-note-7" href="#cite-ref-7">[7]<
 
 excerpt from their *Oral History* <a id="cite-note-10" href="#cite-ref-10">[10]</a> :
 
-```C++Well, first explain what a hash table is... You want to spread your positions out over a large data area so you need random numbers that will distribute a Chess position over, you know, a lot of different, you know, memory maps or memory locations.
+```C++
+Well, first explain what a hash table is... You want to spread your positions out over a large data area so you need random numbers that will distribute a Chess position over, you know, a lot of different, you know, memory maps or memory locations.
 
 ```
 
-```C++So BCH random numbers were something that some people had developed at the [University of New Mexico](https://en.wikipedia.org/wiki/University_of_New_Mexico). Those people had [a Chess program](Lachex "Lachex"). They wrote an article on it and ... I think it's three different people that developed it. Anyway, it's a coding scheme that gives the maximal distance between... Bit adjacent numbers so that you spread your positions over - more uniformly over the hash table area. They don't tend to bunch up as much that way. 
+```C++
+So BCH random numbers were something that some people had developed at the [University of New Mexico](https://en.wikipedia.org/wiki/University_of_New_Mexico). Those people had [a Chess program](Lachex "Lachex"). They wrote an article on it and ... I think it's three different people that developed it. Anyway, it's a coding scheme that gives the maximal distance between... Bit adjacent numbers so that you spread your positions over - more uniformly over the hash table area. They don't tend to bunch up as much that way. 
 
 ```
 
-```C++So, anyway, they wrote an article on how to do that and I had - in fact, I even got the book that they recommended and read it and figured it out how to do it because they didn't really tell you how to do it. They just said that they were using them and they were... So I tried it and, sure enough, they worked a lot better than the old method of getting random numbers. 
+```C++
+So, anyway, they wrote an article on how to do that and I had - in fact, I even got the book that they recommended and read it and figured it out how to do it because they didn't really tell you how to do it. They just said that they were using them and they were... So I tried it and, sure enough, they worked a lot better than the old method of getting random numbers. 
 
 ```
 

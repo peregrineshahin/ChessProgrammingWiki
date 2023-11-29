@@ -23,6 +23,7 @@ The knight is specified by square index, likely from a [bitscan](BitScan "BitSca
 
 
 ```C++
+
 U64 arrKnightAttacks[64];
 
 U64 knightAttacks(enumSquare sq) {return arrKnightAttacks[sq];}
@@ -35,6 +36,7 @@ For instance a knight on d4
 
 
 ```C++
+
 arrKnightAttacks[d4]
  . . . . . . . .
  . . . . . . . .
@@ -60,6 +62,7 @@ Similar to [one step only](General_Setwise_Operations#OneStepOnly "General Setwi
 
 
 ```C++
+
 U64 noNoEa(U64 b) {return (b << 17) & notAFile ;}
 U64 noEaEa(U64 b) {return (b << 10) & notABFile;}
 U64 soEaEa(U64 b) {return (b >>  6) & notABFile;}
@@ -94,6 +97,7 @@ To initialize the KnightAttacks [array](Array "Array") one may use a routine wit
 
 
 ```C++
+
 U64 knightAttacks(U64 knights) {
    U64 west, east, attacks;
    east     = eastOne (knights);
@@ -115,6 +119,7 @@ or to possibly gain some more parallelism:
 
 
 ```C++
+
 U64 knightAttacks(U64 knights) {
    U64 l1 = (knights >> 1) & C64(0x7f7f7f7f7f7f7f7f);
    U64 l2 = (knights >> 2) & C64(0x3f3f3f3f3f3f3f3f);
@@ -141,6 +146,7 @@ A fill cycle for a [fill algorithm](Fill_Algorithms "Fill Algorithms") is the [u
 
 
 ```C++
+
 U64 knightFill(U64 knights) {return knightAttacks(knights) | knights;}
 
 ```
@@ -151,6 +157,7 @@ for instance applied six times on the otherwise empty board:
 
 
 ```C++
+
                   1. Fill            2. Fill            3. Fill
 . . . . . . . .   . . . . . . . .   . . . . . . . .   . . . . . . . .
 . . . . . . . .   . . . . . . . .   . . . . . . . .   . 1 . 1 . . . .
@@ -186,6 +193,7 @@ A common knight pattern is the knight fork. Targets are heavy pieces - king, que
 
 
 ```C++
+
 U64 forkTargetSquare(U64 targets) {
    U64 west, east, attak, forks;
    east   = eastOne (targets);

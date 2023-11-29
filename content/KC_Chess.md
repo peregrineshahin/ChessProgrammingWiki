@@ -19,7 +19,8 @@ Excerpt from the readme file <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 
 
-```C++The chess program is 3417 lines long and the project took 220 hours to complete.  The work was carried out from JAN - APR 1990 as our CS 4993 undergraduate project.  The program may be distributed freely and is considered [Public Domain](https://en.wikipedia.org/wiki/Public_domain) software. A 30 page written report was also produced and submitted with the rest of the work to Dr. J. D. Horton <a id="cite-note-4" href="#cite-ref-4">[4]</a> who was our project supervisor. 
+```C++
+The chess program is 3417 lines long and the project took 220 hours to complete.  The work was carried out from JAN - APR 1990 as our CS 4993 undergraduate project.  The program may be distributed freely and is considered [Public Domain](https://en.wikipedia.org/wiki/Public_domain) software. A 30 page written report was also produced and submitted with the rest of the work to Dr. J. D. Horton <a id="cite-note-4" href="#cite-ref-4">[4]</a> who was our project supervisor. 
 
 ```
 
@@ -28,12 +29,14 @@ Excerpt from the report <a id="cite-note-5" href="#cite-ref-5">[5]</a>:
 
 
 
-```C++The greatest limitation of the program is the extremely simple evaluation of a given move. The score is determined exclusively by the number of value points assigned to the piece that is taken. If no piece is taken then no points are awarded. As implemented, the positional evaluation plays only a small roll in selecting a move. A better positional evaluator, which takes into account such things as attack strategy and special situations requiring special actions, etc. should be combined with a better capture value to calculate the value at all nodes in the search tree. A better capture value would take into account the fact that the material value of the piece varies with the stage and balance of the game. The combination of material and position values should be consistent with the strategy and circumstances of the game. Of course this was beyond the scope of this project (not to mention our own skill and knowledge of chess). This could be a future enhancement.
+```C++
+The greatest limitation of the program is the extremely simple evaluation of a given move. The score is determined exclusively by the number of value points assigned to the piece that is taken. If no piece is taken then no points are awarded. As implemented, the positional evaluation plays only a small roll in selecting a move. A better positional evaluator, which takes into account such things as attack strategy and special situations requiring special actions, etc. should be combined with a better capture value to calculate the value at all nodes in the search tree. A better capture value would take into account the fact that the material value of the piece varies with the stage and balance of the game. The combination of material and position values should be consistent with the strategy and circumstances of the game. Of course this was beyond the scope of this project (not to mention our own skill and knowledge of chess). This could be a future enhancement.
 
 ```
 
 
-```C++Another deficiency is with the search tree algorithm itself. Since it only searches to a certain depth, it may attempt to push an inevitable loss out of its sight by sacrificing a less valuable piece to 'save' the greater valued one. This is known as the [Horizon Effect](Horizon_Effect "Horizon Effect") and is an inevitable consequence of the limited search. The only solution is to increase the search depth. This often would only serve to move the horizon a little father down the road. The solution to this problem is also beyond the scope of this project. 
+```C++
+Another deficiency is with the search tree algorithm itself. Since it only searches to a certain depth, it may attempt to push an inevitable loss out of its sight by sacrificing a less valuable piece to 'save' the greater valued one. This is known as the [Horizon Effect](Horizon_Effect "Horizon Effect") and is an inevitable consequence of the limited search. The only solution is to increase the search depth. This often would only serve to move the horizon a little father down the road. The solution to this problem is also beyond the scope of this project. 
 
 ```
 

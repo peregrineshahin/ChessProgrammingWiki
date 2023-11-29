@@ -21,6 +21,7 @@ A common approach is to put a **super-piece** on the to-square, to look up all k
 
 
 ```C++
+
 U64 CBoard::attacksTo(U64 occupied, enumSquare sq) {
    U64 knights, kings, bishopsQueens, rooksQueens;
    knights        = pieceBB[nWhiteKnight] | pieceBB[nBlackKnight];
@@ -54,6 +55,7 @@ If boolean information is required, whether a square is attacked by a side, one 
 
 
 ```C++
+
 bool CBoard::attacked(U64 occupied, enumSquare square, enumColor bySide) {
    U64 pawns         = pieceBB[nWhitePawn   + bySide];
    if ( arrPawnAttacks[bySide^1][square]    & pawns )         return true;
@@ -101,6 +103,7 @@ The common approach is to lookup a two-dimensional 64 times 64 [array](Array "Ar
 
 
 ```C++
+
 U64 arrRectangular[64][64]; // 4096*8 = 32KByte
 
 U64 inBetween(enumSquare from, enumSquare to) {
@@ -127,6 +130,7 @@ Due to the [commutative property](https://en.wikipedia.org/wiki/Commutative_prop
 
 
 ```C++
+
 U64 arrTriangular[64*65/2];
 
 int triangularIndex(int a, int b) {
@@ -157,6 +161,7 @@ What about a translation of one square (the smallest) to a1 and shifting the occ
 
 
 ```C++
+
 U64 arrInBetweenBy0x88Diff[240]; // 1920 bytes, 2KByte - 128 Byte
 
 unsigned int x88diff(enumSquare f, enumSquare t) {
@@ -178,6 +183,7 @@ A branch-less solution without any lookups and some parallel gain is likely too 
 
 
 ```C++
+
 U64 inBetween(enumSquare sq1, enumSquare sq2) {
    const U64 m1   = C64(-1);
    const U64 a2a7 = C64(0x0001010101010100);
@@ -204,6 +210,7 @@ First, the in-between set as superset of the possible line-bits is calculated, e
 
 
 ```C++
+
                                         btwn including c3
 -1<<f6              -1<<c3                   excluding f6
 1 1 1 1 1 1 1 1     1 1 1 1 1 1 1 1     . . . . . . . .
@@ -254,6 +261,7 @@ Except pawns all white and black pieces have the same attacks - thus based on th
 
 
 ```C++
+
 U64 attacksBy0x88DiffAndPiece[7][256];  // 14KByte
 
 /* is square <to> attacked by <piece> from square <from> */

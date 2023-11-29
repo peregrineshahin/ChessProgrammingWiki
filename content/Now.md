@@ -23,7 +23,8 @@ from [Don Beal's](Don_Beal "Don Beal") [WMCCC 1991](WMCCC_1991 "WMCCC 1991") rep
 
 
 
-```C++Written by Mark Lefler, who has spent two full-time years developing his program, and competed in [last year's ACM tournament](ACM_1990 "ACM 1990"). The [evaluation](Evaluation "Evaluation") is mostly [piece values](Point_Value "Point Value"), with positional scores sometimes worth up to two Panws. [Search](Search "Search") techniques used include [iterative deepening](Iterative_Deepening "Iterative Deepening"), with [check extensions](Check_Extensions "Check Extensions"), no singular extensions, and [hung-piece](Hanging_Piece "Hanging Piece") extensions at depth zero. 
+```C++
+Written by Mark Lefler, who has spent two full-time years developing his program, and competed in [last year's ACM tournament](ACM_1990 "ACM 1990"). The [evaluation](Evaluation "Evaluation") is mostly [piece values](Point_Value "Point Value"), with positional scores sometimes worth up to two Panws. [Search](Search "Search") techniques used include [iterative deepening](Iterative_Deepening "Iterative Deepening"), with [check extensions](Check_Extensions "Check Extensions"), no singular extensions, and [hung-piece](Hanging_Piece "Hanging Piece") extensions at depth zero. 
 
 ```
 
@@ -35,7 +36,8 @@ from [Don Beal's](Don_Beal "Don Beal") [UPCCC 1993](UPCCC_1993 "UPCCC 1993") rep
 
 
 
-```C++This proginated as a [shareware](https://en.wikipedia.org/wiki/Shareware) program by Mark Lefler, possibly going to be re-released with the latest version. The program scored equally with [GNU](GNU_Chess "GNU Chess") in the ["uniform platform" tournament last year](UPCCC_1993 "UPCCC 1993"). NOW has specialized knowledge about some Pawn and Bishop endgames. Its [search](Search "Search") mechanism includes [extensions](Extensions "Extensions") for certain [tactical](Tactics "Tactics") threats, and is [selective](Selectivity "Selectivity") in its last 3 [plies](Ply "Ply"). 
+```C++
+This proginated as a [shareware](https://en.wikipedia.org/wiki/Shareware) program by Mark Lefler, possibly going to be re-released with the latest version. The program scored equally with [GNU](GNU_Chess "GNU Chess") in the ["uniform platform" tournament last year](UPCCC_1993 "UPCCC 1993"). NOW has specialized knowledge about some Pawn and Bishop endgames. Its [search](Search "Search") mechanism includes [extensions](Extensions "Extensions") for certain [tactical](Tactics "Tactics") threats, and is [selective](Selectivity "Selectivity") in its last 3 [plies](Ply "Ply"). 
 
 ```
 
@@ -47,7 +49,8 @@ from the [ICGA](ICGA "ICGA") tournament site <a id="cite-note-7" href="#cite-ref
 
 
 
-```C++General [alpha beta](Alpha-Beta "Alpha-Beta") searcher, with lots of [knowledge](Knowledge "Knowledge"). Has done well against humans, as evidenced by the [Aegon matches](Aegon_Tournaments "Aegon Tournaments"). 
+```C++
+General [alpha beta](Alpha-Beta "Alpha-Beta") searcher, with lots of [knowledge](Knowledge "Knowledge"). Has done well against humans, as evidenced by the [Aegon matches](Aegon_Tournaments "Aegon Tournaments"). 
 
 ```
 

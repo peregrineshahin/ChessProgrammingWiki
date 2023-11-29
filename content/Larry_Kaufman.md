@@ -31,7 +31,8 @@ by [Ron Nelson](Ron_Nelson "Ron Nelson") on his work with Larry Kaufman <a id="c
 
 
 
-```C++The [book openings](Opening_Book "Opening Book") for all the [Excalibur](Excalibur_Electronics "Excalibur Electronics") Chess Games was designed by Larry Kaufman. Larry Kaufman is a most brilliant Chess Master that understood computer chess search. He would explain to me how [Frans Morsch](Frans_Morsch "Frans Morsch") evaluated positions, just by playing his program. He was incredible. He wrote a list of things for an [evaluation](Evaluation "Evaluation") function and how to balance it. His [piece weightings](Point_Value "Point Value") were different than the [Spracklens](Kathe_Spracklen "Kathe Spracklen"). 
+```C++
+The [book openings](Opening_Book "Opening Book") for all the [Excalibur](Excalibur_Electronics "Excalibur Electronics") Chess Games was designed by Larry Kaufman. Larry Kaufman is a most brilliant Chess Master that understood computer chess search. He would explain to me how [Frans Morsch](Frans_Morsch "Frans Morsch") evaluated positions, just by playing his program. He was incredible. He wrote a list of things for an [evaluation](Evaluation "Evaluation") function and how to balance it. His [piece weightings](Point_Value "Point Value") were different than the [Spracklens](Kathe_Spracklen "Kathe Spracklen"). 
 
 ```
 

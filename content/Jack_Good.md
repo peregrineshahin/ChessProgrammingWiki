@@ -28,7 +28,8 @@ Theorem-proving was mentioned in the *Five-Year Plan for Automatic Chess* <a id=
 
 
 
-```C++Theorem-proving resembles chess Playing in that we have an objective and an analysis tree, or graph, but differs in that a superficial expected pay-off replaces the iterated [minimax](Minimax "Minimax"). The minimax idea can come in if we are trying to prove a theorem and we imagine that we have an opponent who wishes to disprove it. The value of our game is 1 if the theorem is true and — 1 if it is false. In the proof trees described in the paper by Dr D. C. Cooper <a id="cite-note-12" href="#cite-ref-12">[12]</a> the 'and's correspond to moves of the opponent, since we must allow for both branches, whereas the `or's correspond to our own moves. The minimax (strictly maximin) value of the tree tells us whether the theorem is true, and, if we allow for superficial probabilities at the endpoints of the tree, the minimax value is the superficial probability of the theorem. 
+```C++
+Theorem-proving resembles chess Playing in that we have an objective and an analysis tree, or graph, but differs in that a superficial expected pay-off replaces the iterated [minimax](Minimax "Minimax"). The minimax idea can come in if we are trying to prove a theorem and we imagine that we have an opponent who wishes to disprove it. The value of our game is 1 if the theorem is true and — 1 if it is false. In the proof trees described in the paper by Dr D. C. Cooper <a id="cite-note-12" href="#cite-ref-12">[12]</a> the 'and's correspond to moves of the opponent, since we must allow for both branches, whereas the `or's correspond to our own moves. The minimax (strictly maximin) value of the tree tells us whether the theorem is true, and, if we allow for superficial probabilities at the endpoints of the tree, the minimax value is the superficial probability of the theorem. 
 
 ```
 
@@ -43,12 +44,14 @@ by Jack Good, 1998 <a id="cite-note-13" href="#cite-ref-13">[13]</a>:
 
 
 
-```C++In letters to [Turing](Alan_Turing "Alan Turing"), on September 16 and October 3, 1948, I mentioned the idea of resonance circuits in the brain; especially as a method for noticing analogies... In the postscript I discussed chess-playing machines, which he and I had discussed in 1941, and gave a reasonable definition of a forced variation. I took for granted the need to distinguish between quiescent and non-quiescent positions. [Shannon's](Claude_Shannon "Claude Shannon") paper on chess appeared in 1950.
+```C++
+In letters to [Turing](Alan_Turing "Alan Turing"), on September 16 and October 3, 1948, I mentioned the idea of resonance circuits in the brain; especially as a method for noticing analogies... In the postscript I discussed chess-playing machines, which he and I had discussed in 1941, and gave a reasonable definition of a forced variation. I took for granted the need to distinguish between quiescent and non-quiescent positions. [Shannon's](Claude_Shannon "Claude Shannon") paper on chess appeared in 1950.
 
 ```
 
 
-```C++In a letter to [F C Williams](https://en.wikipedia.org/wiki/Frederic_Calland_Williams) in July 1951 I said "A facetious question is whether it is intended to display chess positions on the monitoring tubes". Of course today it is no longer at all facetious. 
+```C++
+In a letter to [F C Williams](https://en.wikipedia.org/wiki/Frederic_Calland_Williams) in July 1951 I said "A facetious question is whether it is intended to display chess positions on the monitoring tubes". Of course today it is no longer at all facetious. 
 
 ```
 
@@ -60,7 +63,8 @@ by Jack Good, 1998 <a id="cite-note-13" href="#cite-ref-13">[13]</a>:
 
 
 
-```C++Perhaps non-linear evaluation functions will become popular at some future date, in which case some of Good's ideas will come into their own. 
+```C++
+Perhaps non-linear evaluation functions will become popular at some future date, in which case some of Good's ideas will come into their own. 
 
 ```
 
@@ -72,7 +76,8 @@ Excerpt from the Obituary, [The Times](https://en.wikipedia.org/wiki/The_Times) 
 
 
 
-```C++To statisticians, Good is one of the founding fathers of [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics), an approach to the discipline based on work of [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes) in 1764. In it one forms a view of the phenomenon under study, quantifying one's uncertainty in terms of a [probability distribution](https://en.wikipedia.org/wiki/Probability_distribution) (the prior distribution). One then draws a sample, obtaining data, and uses the data and [Bayes's theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) to update this prior uncertainty to give a new distribution, the [posterior distribution](https://en.wikipedia.org/wiki/Posterior_distribution). This approach - the Bayesian paradigm, as it is now called - was little used before Good's work but was given an important boost by his 1950 book and his extensive subsequent writings, and is firmly established today. Good's other interests included [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") - in particular, training computers to play chess and philosophy. 
+```C++
+To statisticians, Good is one of the founding fathers of [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics), an approach to the discipline based on work of [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes) in 1764. In it one forms a view of the phenomenon under study, quantifying one's uncertainty in terms of a [probability distribution](https://en.wikipedia.org/wiki/Probability_distribution) (the prior distribution). One then draws a sample, obtaining data, and uses the data and [Bayes's theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) to update this prior uncertainty to give a new distribution, the [posterior distribution](https://en.wikipedia.org/wiki/Posterior_distribution). This approach - the Bayesian paradigm, as it is now called - was little used before Good's work but was given an important boost by his 1950 book and his extensive subsequent writings, and is firmly established today. Good's other interests included [artificial intelligence](Artificial_Intelligence "Artificial Intelligence") - in particular, training computers to play chess and philosophy. 
 
 ```
 

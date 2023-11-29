@@ -34,6 +34,7 @@ A [little-endian](Little-endian "Little-endian") rank-mapping enumeration in [C+
 
 
 ```C++
+
 enum enumRank {
   er1stRank = 0,
   er2ndRank = 1,
@@ -56,6 +57,7 @@ Rank-File mapping of squares keeps the rank index as the three upper bits of a s
 
 
 ```C++
+
 rank = square >> 3; // div 8
 
 ```
@@ -73,6 +75,7 @@ The rank-distance is the [absolute](Avoiding_Branches#Abs "Avoiding Branches") d
 
 
 ```C++
+
 rankDistance = abs (rank1 - rank2);
 rankDistance = abs (rank2 - rank1);
 
@@ -91,6 +94,7 @@ Two [Squares](Squares "Squares") are on the same Rank, if their Rank distance is
 
 
 ```C++
+
 bool squaresOnSameRank(int sq1, int sq2) {
  return ((sq2 >> 3) - (sq1 >> 3)) == 0;
 }
@@ -103,6 +107,7 @@ The [Symmetric difference](https://en.wikipedia.org/wiki/Symmetric_difference) a
 
 
 ```C++
+
 bool squaresOnSameRank(int sq1, int sq2) {
  return ((sq1 ^ sq2) & 56) == 0;
 }

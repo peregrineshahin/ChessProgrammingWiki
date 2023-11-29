@@ -18,7 +18,8 @@ by [Larry Kaufman](Larry_Kaufman "Larry Kaufman") from *The Rexchess Story* <a i
 
 
 
-```C++The next step forward came when [Novag's](Novag "Novag") [Dave Kittinger](David_Kittinger "David Kittinger"), Don and I jointly worked out how to do an effective [selective](Selectivity "Selectivity") [search](Search "Search") program. Dave put these ideas into the [Super Expert B](Novag_Expert "Novag Expert") and [Super Forte B](Novag_Forte "Novag Forte"), while Don and I put them into Rex. So we decided to enter the [1989 World Computer Championship](WCCC_1989 "WCCC 1989") in Edmonton, although the program was very incomplete and not fully debugged. We scored 2 out of 5, around the middle of the PC programs, although our 20 MHz [368](X86 "X86") was one of the slower machines present. Soon thereafter, Don quit his job to devote 2 months full-time to completing Rex and adding features necessary for a commercial program. 
+```C++
+The next step forward came when [Novag's](Novag "Novag") [Dave Kittinger](David_Kittinger "David Kittinger"), Don and I jointly worked out how to do an effective [selective](Selectivity "Selectivity") [search](Search "Search") program. Dave put these ideas into the [Super Expert B](Novag_Expert "Novag Expert") and [Super Forte B](Novag_Forte "Novag Forte"), while Don and I put them into Rex. So we decided to enter the [1989 World Computer Championship](WCCC_1989 "WCCC 1989") in Edmonton, although the program was very incomplete and not fully debugged. We scored 2 out of 5, around the middle of the PC programs, although our 20 MHz [368](X86 "X86") was one of the slower machines present. Soon thereafter, Don quit his job to devote 2 months full-time to completing Rex and adding features necessary for a commercial program. 
 
 ```
 

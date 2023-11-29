@@ -13,6 +13,7 @@ One FEN string or record consists of **six** fields separated by a space charact
 _[Terminal and nonterminal symbols](https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols) of a variant of [BNF](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form) below are embedded in ' ' resp. \< >._
 
 ```C++
+
 <FEN> ::=  <Piece Placement>
        ' ' <Side to move>
        ' ' <Castling ability>
@@ -29,6 +30,7 @@ The Piece Placement is determined rank by rank in [big-endian](Big-endian "Big-e
 A decimal digit counts consecutive empty squares, the pieces are identified by a single letter from standard English names for chess pieces as used in the [Algebraic Chess Notation](Algebraic_Chess_Notation "Algebraic Chess Notation"). Uppercase letters are for white pieces, lowercase letters for black pieces.
 
 ```C++
+
 <Piece Placement> ::= <rank8>'/'<rank7>'/'<rank6>'/'<rank5>'/'<rank4>'/'<rank3>'/'<rank2>'/'<rank1>
 <ranki>       ::= [<digit17>]<piece> {[<digit17>]<piece>} [<digit17>] | '8'
 <piece>       ::= <white Piece> | <black Piece>
@@ -43,6 +45,7 @@ A decimal digit counts consecutive empty squares, the pieces are identified by a
 [Side to move](Side_to_move "Side to move") is one lowercase letter for either White ('w') or Black ('b').
 
 ```C++
+
 <Side to move> ::= {'w' | 'b'}
 
 ```
@@ -52,6 +55,7 @@ A decimal digit counts consecutive empty squares, the pieces are identified by a
 If neither side can castle, the symbol '-' is used, otherwise each of four individual [castling rights](Castling_Rights "Castling Rights") for king and queen castling for both sides are indicated by a sequence of one to four letters.
 
 ```C++
+
 <Castling ability> ::= '-' | ['K'] ['Q'] ['k'] ['q'] (1..4)
 
 ```
@@ -61,6 +65,7 @@ If neither side can castle, the symbol '-' is used, otherwise each of four indiv
 The [en passant](En_passant "En passant") target square is specified after a double push of a pawn, no matter whether an en passant capture is really possible or not <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a> . Other moves than double pawn pushes imply the symbol '-' for this FEN field.
 
 ```C++
+
 <En passant target square> ::= '-' | <epsquare>
 <epsquare>   ::= <fileLetter> <eprank>
 <fileLetter> ::= 'a' | 'b' | 'c' | 'd' | 'e' | 'f' | 'g' | 'h'
@@ -73,6 +78,7 @@ The [en passant](En_passant "En passant") target square is specified after a dou
 The [halfmove clock](Halfmove_Clock "Halfmove Clock") specifies a decimal number of half moves with respect to the [50 move draw rule](Fifty-move_Rule "Fifty-move Rule"). It is reset to zero after a capture or a pawn move and incremented otherwise.
 
 ```C++
+
 <Halfmove Clock> ::= <digit> {<digit>}
 <digit> ::= '0' | '1' | '2' | '3' | '4' | '5' | '6' | '7' | '8' | '9'
 
@@ -83,6 +89,7 @@ The [halfmove clock](Halfmove_Clock "Halfmove Clock") specifies a decimal number
 The number of the full moves in a game. It starts at 1, and is incremented after each Black's move.
 
 ```C++
+
 <Fullmove counter> ::= <digit19> {<digit>}
 <digit19> ::= '1' | '2' | '3' | '4' | '5' | '6' | '7' | '8' | '9'
 <digit>   ::= '0' | <digit19>

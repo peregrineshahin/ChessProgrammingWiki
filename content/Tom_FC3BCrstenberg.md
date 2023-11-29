@@ -20,12 +20,14 @@ by Tom Fürstenberg <a id="cite-note-8" href="#cite-ref-8">[8]</a>:
 
 
 
-```C++At the end of the 70's I got very interested in computer chess and chess computers and in 1977 I bought the first chess computer that became available commercially. I traveled a lot from one such tournament to another and made many new friends and in 1986 I actually started a business selling chess computers. We were selling a lot of computers but not really making any profit. When I started investigating closely, I found out that my only employee had been stealing computers from me and was selling them for his own benefit. I fired him on the spot in 1992 and a legal battle started which I finally won end of 1998. We settled for half what he was condemned to pay. It was just enough to cover my legal fees but for it had become a matter of principle.
+```C++
+At the end of the 70's I got very interested in computer chess and chess computers and in 1977 I bought the first chess computer that became available commercially. I traveled a lot from one such tournament to another and made many new friends and in 1986 I actually started a business selling chess computers. We were selling a lot of computers but not really making any profit. When I started investigating closely, I found out that my only employee had been stealing computers from me and was selling them for his own benefit. I fired him on the spot in 1992 and a legal battle started which I finally won end of 1998. We settled for half what he was condemned to pay. It was just enough to cover my legal fees but for it had become a matter of principle.
 
 ```
 
 
-```C++As I had no longer the possibility to give adequate after-sales-service without my technical man and as the market became saturated anyway, I discontinued selling chess computers. I now only sell chess playing programs and chess database programs for the [PC](IBM_PC "IBM PC") by mail order. The main advantage is that floppies and CD-ROMs don’t require any after-sales service and if there is something wrong a simple exchange will cure that. 
+```C++
+As I had no longer the possibility to give adequate after-sales-service without my technical man and as the market became saturated anyway, I discontinued selling chess computers. I now only sell chess playing programs and chess database programs for the [PC](IBM_PC "IBM PC") by mail order. The main advantage is that floppies and CD-ROMs don’t require any after-sales service and if there is something wrong a simple exchange will cure that. 
 
 ```
 

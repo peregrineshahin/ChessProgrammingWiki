@@ -13,11 +13,13 @@ CC Sapiens was a trial to resurrect the [Pioneer](Pioneer "Pioneer") project wit
 
 Excerpt of the Editorial, [ICCA Journal, Vol. 16, No. 3](ICGA_Journal#16_3 "ICGA Journal") by [Bob Herschberg](Bob_Herschberg "Bob Herschberg") and [Jaap van den Herik](Jaap_van_den_Herik "Jaap van den Herik") <a id="cite-note-7" href="#cite-ref-7">[7]</a>:
 
-```C++[Controversy](https://en.wikipedia.org/wiki/Controversy) is not only not harmful, it is the only way to recognize the eventual [truth](https://en.wikipedia.org/wiki/Truth) which is fated to have its origin as a dispute between [heretics](https://en.wikipedia.org/wiki/Heretic_%28disambiguation%29) and the current [orthodoxy](https://en.wikipedia.org/wiki/Orthodoxy), the latter only recently absolved itself from the charge of [heresy](https://en.wikipedia.org/wiki/Heresy). It is therefore that we welcome an unusual amount of controversy arising out of the last issue of our Journal. Whether it is Botvinnik being challenged by Berliner, or by his former comrade-in-arms, Bronstein, whether it is one of your Editors taking up the cudgels against proponents of Chinese Chess-by-program, a double heresy, - all are welcome. Their discussions may not be among the most edifying of exchanges - well, neither was the language in which heresy was discussed and orthodoxy arrived at on many famous occasions, Church counsels among them.
+```C++
+[Controversy](https://en.wikipedia.org/wiki/Controversy) is not only not harmful, it is the only way to recognize the eventual [truth](https://en.wikipedia.org/wiki/Truth) which is fated to have its origin as a dispute between [heretics](https://en.wikipedia.org/wiki/Heretic_%28disambiguation%29) and the current [orthodoxy](https://en.wikipedia.org/wiki/Orthodoxy), the latter only recently absolved itself from the charge of [heresy](https://en.wikipedia.org/wiki/Heresy). It is therefore that we welcome an unusual amount of controversy arising out of the last issue of our Journal. Whether it is Botvinnik being challenged by Berliner, or by his former comrade-in-arms, Bronstein, whether it is one of your Editors taking up the cudgels against proponents of Chinese Chess-by-program, a double heresy, - all are welcome. Their discussions may not be among the most edifying of exchanges - well, neither was the language in which heresy was discussed and orthodoxy arrived at on many famous occasions, Church counsels among them.
 
 ```
 
-```C++Yet, we maintain: the discussion, even the confrontation is helpful and conducive to the health of computer chess. Following this belief, we feel a duty to extend the hospitality of our columns generously to all heretics. [Caïssa](https://en.wikipedia.org/wiki/Ca%C3%AFssa), still smiling, will be amused.  
+```C++
+Yet, we maintain: the discussion, even the confrontation is helpful and conducive to the health of computer chess. Following this belief, we feel a duty to extend the hospitality of our columns generously to all heretics. [Caïssa](https://en.wikipedia.org/wiki/Ca%C3%AFssa), still smiling, will be amused.  
 
 ```
 
@@ -44,7 +46,8 @@ CC Sapiens produced an analysis of a mere 18 nodes, and determined that this pos
 
 from *Solving Shannon's Problem: Ways and Means*, [Advances in Computer Chess 7](Advances_in_Computer_Chess_7 "Advances in Computer Chess 7"), July 01, 1993 <a id="cite-note-16" href="#cite-ref-16">[16]</a> <a id="cite-note-17" href="#cite-ref-17">[17]</a>:
 
-```C++A proposal by [Shannon](Claude_Shannon "Claude Shannon") (1950) indicated two styles of constructing computer-chess programs: [brute-force](Brute-Force "Brute-Force") and following the experience of chess masters. Of the first style examples abound, of the second only CC Sapiens, as yet incomplete, exists. From the experience with CC Sapiens and its economical analogue, it is confidently predicted that methods based on making the computer *understand* the problem may well gain the upper hand, both in computer chess and in high-dimensional search programs related to it, following the master's style. 
+```C++
+A proposal by [Shannon](Claude_Shannon "Claude Shannon") (1950) indicated two styles of constructing computer-chess programs: [brute-force](Brute-Force "Brute-Force") and following the experience of chess masters. Of the first style examples abound, of the second only CC Sapiens, as yet incomplete, exists. From the experience with CC Sapiens and its economical analogue, it is confidently predicted that methods based on making the computer *understand* the problem may well gain the upper hand, both in computer chess and in high-dimensional search programs related to it, following the master's style. 
 
 ```
 
@@ -52,7 +55,8 @@ from *Solving Shannon's Problem: Ways and Means*, [Advances in Computer Chess 7]
 
 Excerpt from *Solving Shannon's Problem: Ways and Means*:
 
-```C++In the program CC Sapiens, the intermediate step of the model is identified with the analysis of a chain of [pieces](Pieces "Pieces"). An attacking piece L0 and an attacked piece L2 constitute the basis of the chain; the remaining pieces oppose or support it. Whereas a chain of pieces connects material entities, there is also, as an intermediate step, a positional chain. The latter is composed of links relating [squares](Squares "Squares") to specific other squares, such as [holes](Holes "Holes") and weak squares, and to properties enjoyed by the totality of squares and their subsets, such as [ranks](Ranks "Ranks"), [files](Files "Files") and [diagonals](Diagonals "Diagonals"). 
+```C++
+In the program CC Sapiens, the intermediate step of the model is identified with the analysis of a chain of [pieces](Pieces "Pieces"). An attacking piece L0 and an attacked piece L2 constitute the basis of the chain; the remaining pieces oppose or support it. Whereas a chain of pieces connects material entities, there is also, as an intermediate step, a positional chain. The latter is composed of links relating [squares](Squares "Squares") to specific other squares, such as [holes](Holes "Holes") and weak squares, and to properties enjoyed by the totality of squares and their subsets, such as [ranks](Ranks "Ranks"), [files](Files "Files") and [diagonals](Diagonals "Diagonals"). 
 
 ```
 
