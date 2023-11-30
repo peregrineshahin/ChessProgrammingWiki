@@ -18,7 +18,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 [ICT 2008](ICT_2008 "ICT 2008"), round 1, Eowyn - [Crashtest Dummy](Crashtest_Dummy "Crashtest Dummy"), [Walter Ravenek](Walter_Ravenek "Walter Ravenek") and [Richard Pijl](Richard_Pijl "Richard Pijl") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "ICT 2008"]
 [Site "Leiden, NED"]
 [Date "2008.05.30"]
@@ -41,7 +40,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 [ICT 2008](ICT_2008 "ICT 2008"), round 4, Eowyn - [Zzzzzz](Zzzzzz "Zzzzzz")
 
 ```
-
 [Event "ICT 2008"]
 [Site "Leiden"]
 [Date "2008.05.31"]

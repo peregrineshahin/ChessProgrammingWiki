@@ -22,7 +22,6 @@ Instead of using [piece-square tables](Piece-Square_Tables "Piece-Square Tables"
 [I.G.T. 2013](IGT_2013 "IGT 2013"), GiuChess - [ProChess](ProChess_IT "ProChess IT") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
-
 [Event "I.G.T. 2013"]
 [Site "Omegna (VB)"]
 [Date "2013.11.09"]

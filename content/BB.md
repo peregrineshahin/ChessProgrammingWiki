@@ -17,7 +17,6 @@ to [Bébé](http://fr.wikipedia.org/wiki/B%C3%A9b%C3%A9) or [something else](htt
 [WMCCC 1990](WMCCC_1990 "WMCCC 1990"), Round 5, [Cumulus](Cumulus "Cumulus") - BB <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
-
 [Event "WMCCC 1990"]
 [Site "Lyon, France"]
 [Date "1990.01.01"]

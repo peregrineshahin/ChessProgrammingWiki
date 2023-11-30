@@ -25,7 +25,6 @@ Columns 10 and 1 are considered adjacent.
 In 1978, [Sargon](Sargon "Sargon") by [Dan](Dan_Spracklen "Dan Spracklen") and [Kathe Spracklen](Kathe_Spracklen "Kathe Spracklen") used a classical 120 [Byte](Byte "Byte") array as board <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>:
 
 ```
-
 ; *******************************************************
 ; BOARD	-- Board Array. Used to hold the current position 
 ; of the board during play. The board itself

@@ -33,7 +33,6 @@ In the 14th WMCC, GUNDA-1 used a [Pentium Pro 200](https://en.wikipedia.org/wiki
 [WMCCC 1996](WMCCC_1996 "WMCCC 1996"), round 1, Gunda-1 - [Crafty](Crafty "Crafty") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "WMCCC 1996"]
 [Site "Jakarta, Indonesia"]
 [Date "1996.10.08"]

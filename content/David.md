@@ -13,7 +13,6 @@ an early chess program by [Gerhard Wolf](Gerhard_Wolf "Gerhard Wolf") <a id="cit
 [ACM 1971](ACM_1971 "ACM 1971"), round 2, David - [Schach](</Schach_(US)> "Schach (US)") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "ACM 1971"]
 [Site "Chicago USA"]
 [Date "1971.08.03"]

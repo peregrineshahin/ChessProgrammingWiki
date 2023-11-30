@@ -31,7 +31,6 @@ The [search](Search "Search") applies [PVS](Principal_Variation_Search "Principa
 
 
 ```
-
 [Event "ACCA 2008"]
 [Site "Internet Chess Club"]
 [Date "2008.11.08"]

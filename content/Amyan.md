@@ -87,7 +87,6 @@ int mailbox64[64] = {
 [ACCA 2006](ACCA_2006 "ACCA 2006"), round 2, Amyan - [Crafty](Crafty "Crafty") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "ACCA 2006"]
 [Site "ICC"]
 [Date "2006.11.08"]

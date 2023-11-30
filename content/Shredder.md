@@ -22,7 +22,6 @@ a chess engine by [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen
 
 
 ```
-
 [Event "WCCC 1999"]
 [Site "Paderborn, Germany"]
 [Date "1999.06.18"]
@@ -54,7 +53,6 @@ Rb6 52.Kh4 Rb4+ 53.Rg4 Rb2 54.Kg3 Rb6 55.a5 Rd6 56.Rg7 Ra6 57.Rg8 Rd6 58.Kh4 Rd4
 
 
 ```
-
 [Event "WCSC 2015 Play-off 2"]
 [Site "Leiden, The Netherlands"]
 [Date "2015.07.05"]

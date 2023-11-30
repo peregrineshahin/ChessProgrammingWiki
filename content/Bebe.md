@@ -18,7 +18,6 @@ After Tony Scherzer's early death in January 1995 <a id="cite-note-9" href="#cit
 [Linda](Linda_Scherzer "Linda Scherzer") and [Tony Scherzer](Tony_Scherzer "Tony Scherzer"), Bob Henry and [David Kittinger](David_Kittinger "David Kittinger") at [ACM 1984](ACM_1984 "ACM 1984"), Bebe vs. [Novag X](Novag_X "Novag X") <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 ```
-
 [Event "ACM 1984"]
 [Site "San Francisco USA"]
 [Date "1984.10.09"]
@@ -51,7 +50,6 @@ Bebe further played 13 consecutive [ACM North American Computer Chess Championsh
 At [ACM 1986](ACM_1986 "ACM 1986"), after winning [ChipTest](ChipTest "ChipTest"), [Merlin](Merlin "Merlin") and [Recom](Rebel "Rebel"), Bebe lost to [Belle](Belle "Belle"), the eventual winner. In the battle for the second place, Bebe was defeated by [Lachex](Lachex "Lachex"). Both programs went in a sequence of forced moves where both sides had only one single good choice along the way. Neither program had any idea about who would come up ahead in the end, until suddenly after playing along the forced line, both programs realized that Bebe was lost. In a discussion with [Feng-hsiung Hsu](Feng-hsiung_Hsu "Feng-hsiung Hsu") and others, Tony Scherzer made the statement that the old idea of selective [pruning](Pruning "Pruning") was dead, replaced by the new idea of selective [extensions](Extensions "Extensions") . According to Hsu, that was how the idea of [Singular Extensions](Singular_Extensions "Singular Extensions") began <a id="cite-note-15" href="#cite-ref-15">[15]</a> .
 
 ```
-
 [Event "ACM 1986"]
 [Site "Dallas USA"]
 [Date "1986.11.05"]

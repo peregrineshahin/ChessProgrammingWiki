@@ -17,7 +17,6 @@ Despite losing, Explorer's first official game at the [DOCCC 1991](DOCCC_1991 "D
 <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "DOCCC 1991"]
 [Site "Utrecht"]
 [Date "1991.10.??"]

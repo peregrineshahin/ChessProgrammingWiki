@@ -24,7 +24,6 @@ Green Light Chess felt well in the green-light flooded cave in [Graz](https://en
 [WCCC 2003](WCCC_2003 "WCCC 2003"), round 5, Green Light - [Falcon](Falcon "Falcon") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
-
 [Event "WCCC 2003"]
 [Site "Graz, Austria"]
 [Date "2003.11.25"]

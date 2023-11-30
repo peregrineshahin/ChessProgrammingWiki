@@ -143,7 +143,6 @@ Chessmaster **9000** and later versions support their own compact 3-5-man [Endga
 [Aegon 1995](Aegon_1995 "Aegon 1995"), round 5, [David Bronstein](David_Bronstein "David Bronstein") - Chessmaster 4000 <a id="cite-note-37" href="#cite-ref-37">[37]</a>
 
 ```
-
 [Event "Aegon 1995"]
 [Site "The Hague NED"]
 [Date "1995.05.02"]
@@ -176,7 +175,6 @@ Chessmaster 9000 won the match 2.5-1.5.
 The 3rd game.
 
 ```
-
 [Event "ICC 2 120 u"]
 [Site "Internet Chess Club"]
 [Date "2002.09.29"]

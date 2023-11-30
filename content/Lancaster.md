@@ -24,7 +24,6 @@ The first four moves on each side were played before the machines took over the 
 
 
 ```
-
 [Event "IFIP Conference"]
 [Site "Edinburgh, UK"]
 [Date "1968.08.??"]

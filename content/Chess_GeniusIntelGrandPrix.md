@@ -18,7 +18,6 @@ Chess **Genius 4** in 1995 became a 16-bit [Windows](Windows "Windows") program 
 In 1994, during the [Intel](Intel "Intel") Grand Prix Cycle <a id="cite-note-10" href="#cite-ref-10">[10]</a> in [London](https://en.wikipedia.org/wiki/London), Chess **Genius 3**, operated by [Ossi Weiner](Ossi_Weiner "Ossi Weiner"), won a speed chess game (25-minutes per side) versus [Garry Kasparov](Garry_Kasparov "Garry Kasparov") <a id="cite-note-11" href="#cite-ref-11">[11]</a> and drew the second game, knocking Kasparov out of the tournament. This was the first match that Kasparov ever lost to a computer. In the next round, Genius then beat [Predrag Nikolić](https://en.wikipedia.org/wiki/Predrag_Nikoli%C4%87), but then lost to [Viswanathan Anand](https://en.wikipedia.org/wiki/Viswanathan_Anand) <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a> <a id="cite-note-15" href="#cite-ref-15">[15]</a> .
 
 ```
-
 [Event "Intel Chess Grand Prix"]
 [Site "London (England)"]
 [Date "1994.08.12"]

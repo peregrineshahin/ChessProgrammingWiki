@@ -16,7 +16,6 @@ Chepla played the [CCT6](CCT6 "CCT6"), [CCT7](CCT7 "CCT7") and [CCT8](CCT8 "CCT8
 [CCT6](CCT6 "CCT6"), round 8, [MessChess](MessChess "MessChess") - Chepla <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
-
 [Event "CCT6"]
 [Site "Internet Chess Club"]
 [Date "2004.02.01"]

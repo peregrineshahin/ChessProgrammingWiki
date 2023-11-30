@@ -16,7 +16,6 @@ a chess program running on an [IBM 370/168](IBM_370 "IBM 370") <a id="cite-note-
 [CHAOS](CHAOS "CHAOS") vs. Duchess at the [ACM 1979](ACM_1979 "ACM 1979") <a id="cite-note-5" href="#cite-ref-5">[5]</a> [David Cahlander](David_Cahlander "David Cahlander") ([Chess](</Chess_(Program)> "Chess (Program)")), [William Toikka](William_Toikka "William Toikka"), [Fred Swartz](Fred_Swartz "Fred Swartz"), [Tom Truscott](Tom_Truscott "Tom Truscott")
 
 ```
-
 [Event "10th ACM 1979"]
 [Site "Detroit USA"]
 [Date "1979.10.30"]
@@ -48,7 +47,6 @@ a chess program running on an [IBM 370/168](IBM_370 "IBM 370") <a id="cite-note-
 [Claude Shannon](Claude_Shannon "Claude Shannon"), [Tom Truscott](Tom_Truscott "Tom Truscott") and [Ken Thompson](Ken_Thompson "Ken Thompson"), [WCCC 1980](WCCC_1980 "WCCC 1980") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, Duchess - [Belle](Belle "Belle") 0-1 <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
-
 [Event "3rd World Computer Chess Championship"]
 [Site "Linz, Austria"]
 [Date "1980.09.28"]

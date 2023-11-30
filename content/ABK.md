@@ -30,7 +30,6 @@ struct SBookMoveEntry {
 ## Sample Tree
 
 ```
-
   root index
       ▼
 ┌───────────┐                                  ┌───────────┐  

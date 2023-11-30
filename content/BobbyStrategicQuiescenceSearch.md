@@ -18,7 +18,6 @@ The development of Bobby started in 1982 as part of Kraas' and Schrüfer's MSc t
 [Günther Schrüfer](G%C3%BCnther_Schr%C3%BCfer "Günther Schrüfer"), [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas"), [Ossi Weiner](Ossi_Weiner "Ossi Weiner") and [Richard Lang](Richard_Lang "Richard Lang") <a id="cite-note-10" href="#cite-ref-10">[10]</a>, [WCCC 1986](WCCC_1986 "WCCC 1986"), round 4, vs. [Mephisto X](Mephisto "Mephisto") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.14"]
@@ -44,7 +43,6 @@ Qf3+ 33.Ke1 Qh1+ 34.Kd2 Qg2 35.Kc1 Qg6 36.Qb3 c6 37.Ba4 c5 38.Qg3 Ra8
 [WCCC 1986](WCCC_1986 "WCCC 1986"), round 5, [Vlastimil Hort](https://en.wikipedia.org/wiki/Vlastimil_Hort), [Frans Morsch](Frans_Morsch "Frans Morsch"), [Hans van der Zijden](Hans_van_der_Zijden "Hans van der Zijden"), [Hans-Joachim Kraas](Hans-Joachim_Kraas "Hans-Joachim Kraas") <a id="cite-note-12" href="#cite-ref-12">[12]</a>, Bobby vs. [Sun Phoenix](Phoenix "Phoenix")
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]

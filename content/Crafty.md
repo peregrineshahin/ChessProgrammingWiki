@@ -152,7 +152,6 @@ int LastOne(register BITBOARD a)
 [WCCC 2004](WCCC_2004 "WCCC 2004"), round 9, [Falcon](Falcon "Falcon") - Crafty <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 ```
-
 [Event "WCCC 2004"]
 [Site "Ramat Gan, Israel"]
 [Date "2004.07.11"]
@@ -178,7 +177,6 @@ Ra7 48.Rb8+ Kc6 49.Rc8+ Kd5 50.e6 dxe6 51.Rd8+ Kc5 52.Rc8+ Kb6 53.Re8 a3
 [WCCC 2006](WCCC_2006 "WCCC 2006"), round 8, [Diep](Diep "Diep") - Crafty <a id="cite-note-19" href="#cite-ref-19">[19]</a>
 
 ```
-
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.05.30"]

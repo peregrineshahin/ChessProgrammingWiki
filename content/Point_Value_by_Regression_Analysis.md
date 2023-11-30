@@ -282,7 +282,6 @@ Consider a simple example. Below is a PGN-record of one of the test batches:
 
 
 ```
-
 [Event "OpenRating 31"]
 [Site "BEAR-HOME"]
 [Date "2013.05.09"]

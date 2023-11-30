@@ -93,7 +93,6 @@ Rookie **0.82** had its debut at the [DOCCC 1993](DOCCC_1993 "DOCCC 1993"), Rooi
 
 
 ```
-
 [Event "DOCCC 1997"]
 [Site "Alphen a/d Rijn NED"]
 [Date "1997.11.30"]
@@ -126,7 +125,6 @@ Kh3 66.Rg5 Rf3 67.Rxh5 Kxg3 68.Rh8 e3 69.Kd3 Kf2 70.Re8 f4 71.Ke4 e2 72.Kf5 Re3
 
 
 ```
-
 [Event "WCCC 2011"]
 [Site "Tilburg NED"]
 [Date "2011.11.23"]

@@ -31,7 +31,6 @@ In December 2019, DeusX played the [Thirteenth Annual ACCA World Computer Rapid 
 <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ```
-
 [Event "WCRCC 2019"]
 [Site "Internet Chess Club"]
 [Date "2019.12.08"]

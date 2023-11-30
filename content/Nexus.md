@@ -27,7 +27,6 @@ Nexus played the [WCCC 2003](WCCC_2003 "WCCC 2003") in [Graz](https://en.wikiped
 
 
 ```
-
 [Event "DOCCC 2004"]
 [Site "Leiden NED"]
 [Date "2004.10.16"]
@@ -54,7 +53,6 @@ Qe5 34.Ba7+ Kc8 35.cxb7+ Kxb7 36.Qa5 Kc8 1-0
 
 
 ```
-
 [Event "DOCCC 2004"]
 [Site "Leiden NED"]
 [Date "2004.10.23"]

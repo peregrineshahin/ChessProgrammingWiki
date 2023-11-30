@@ -13,7 +13,6 @@ an [UCI](UCI "UCI") and [Chess Engine Communication Protocol](Chess_Engine_Commu
 [CCT9](CCT9 "CCT9"), Homer - [Buzz](Buzz "Buzz") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "CCT9"]
 [Site "Internet Chess Club"]
 [Date "2007.02.17"]

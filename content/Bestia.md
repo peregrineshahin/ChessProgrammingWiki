@@ -16,7 +16,6 @@ Bestia participated at three [Hungarian Chessprogram Open](Hungarian_Chessprogra
 [MASPV 2003](MASPV_2003 "MASPV 2003"), round 4, Bestia - [Merlin](</Merlin_(HU)> "Merlin (HU)") <a id="cite-note-6" href="#cite-ref-6">[6]</a> [Gábor Szõts](Gabor_Szots "Gabor Szots") and [Balázs Jákó](Bal%C3%A1zs_Jako "Balázs Jako") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
-
 [Event "MASPV 2003"]
 [Site " Sopron, Hungary"]
 [Date "2003.04.19"]

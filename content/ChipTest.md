@@ -38,7 +38,6 @@ While features such as [material](Material "Material"), [piece placement](Piece-
 [ACM 1986](ACM_1986 "ACM 1986"), round 1, [Bebe](Bebe "Bebe") - ChipTest
 
 ```
-
 [Event "ACM 1986"]
 [Site "Dallas USA"]
 [Date "1986.11.02"]
@@ -60,7 +59,6 @@ While features such as [material](Material "Material"), [piece placement](Piece-
 [ACM 1987](ACM_1987 "ACM 1987"), round 3, [Cray Blitz](Cray_Blitz "Cray Blitz") - Chiptest M
 
 ```
-
 [Event "ACM 1987"]
 [Site "Dallas, USA"]
 [Date "1987.10.26"]
@@ -82,7 +80,6 @@ Nxe1 26.Rxe1 Ne5 27.Qd1 Nf3 0-1
 [ACM 1987](ACM_1987 "ACM 1987"), round 4, Chiptest M - [Sun Phoenix](Phoenix "Phoenix") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
-
 [Event "ACM 1987"]
 [Site "Dallas, USA"]
 [Date "1987.10.27"]

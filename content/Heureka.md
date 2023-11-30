@@ -20,7 +20,6 @@ a transliteration of a word attributed to [Archimedes](Mathematician#Archimedes 
 [WMCCC 1996](WMCCC_1996 "WMCCC 1996"), round 8, Heureka - [Schach 3.0](Schach "Schach") <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a> <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
-
 [Event "WMCCC 1996"]
 [Site "Jakarta, Indonesia"]
 [Date "1996.10.13"]

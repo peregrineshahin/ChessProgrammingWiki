@@ -21,7 +21,6 @@ a chess program by [Edwin Knoop](index.php?title=Edwin_Knoop&action=edit&redlink
 
 
 ```
-
 [Event "DOCCC 1982"]
 [Site "Wageningen NED"]
 [Date "1982.09.25"]

@@ -29,7 +29,6 @@ In 1968, [Gerald Tripard](Gerald_Tripard "Gerald Tripard") asked [Richard Greenb
 <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
-
 [Event "ETH-MIT Match"]
 [Site "Zurich/Cambridge"]
 [Date "1968.10.27"]
@@ -52,7 +51,6 @@ In 1968, [Gerald Tripard](Gerald_Tripard "Gerald Tripard") asked [Richard Greenb
 <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
-
 [Event "ETH-MIT Match"]
 [Site "Zurich/Cambridge"]
 [Date "1968.11.26"]

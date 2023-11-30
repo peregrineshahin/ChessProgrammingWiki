@@ -73,7 +73,6 @@ Carl Wagner and [Alan Baisley](Alan_Baisley "Alan Baisley") (right) <a id="cite-
 
 
 ```
-
 [Event "Boylston Chess Club Tournament"]
 [Site "YMCU, Boston"]
 [Date "1967.01.21"]
@@ -110,7 +109,6 @@ It was a wonderful game - a real cliffhanger between two woodpushers with bursts
 
 
 ```
-
 [Event "The Dreyfus Match"]
 [Site "MIT"]
 [Date "1967.??.??"]
@@ -150,7 +148,6 @@ Mac Hack was ported to a [PDP-10](PDP-10 "PDP-10") and was the first computer ch
 
 
 ```
-
 [Event "Schach dem Computer"]
 [Site "Computerwoche"]
 [Date "1978"]

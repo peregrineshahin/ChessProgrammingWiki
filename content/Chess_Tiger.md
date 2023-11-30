@@ -41,7 +41,6 @@ Early Chess Tiger [GUI](GUI "GUI") under [MS-DOS](MS-DOS "MS-DOS") <a id="cite-n
 [DOCCC 2001](DOCCC_2001 "DOCCC 2001"), round 8, Chess Tiger - [Fritz](Fritz "Fritz") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
-
 [Event "DOCCC 2001"]
 [Site "Leiden NED"]
 [Date "2001.11.03"]

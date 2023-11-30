@@ -37,7 +37,6 @@ Following [algorithms](Algorithms "Algorithms") and features are used in Dorky C
 [CCT2](CCT2 "CCT2"), round 1, [Junior](Junior "Junior") - Dorky <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
-
 [Event "CCT2"]
 [Site "Internet Chess Club"]
 [Date "2000.11.04"]
@@ -62,7 +61,6 @@ Following [algorithms](Algorithms "Algorithms") and features are used in Dorky C
 [CCT6](CCT6 "CCT6"), round 7, Dorky - [Chiron](Chiron "Chiron") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
-
 [Event "CCT6"]
 [Site "Internet Chess Club"]
 [Date "2004.02.01"]

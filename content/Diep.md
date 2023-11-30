@@ -58,7 +58,6 @@ The search of DIEP is however very very [selective](Selectivity "Selectivity") c
 [WCCC 2004](WCCC_2004 "WCCC 2004"), round 10, [Fritz](Fritz "Fritz") - Diep <a id="cite-note-15" href="#cite-ref-15">[15]</a> <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 ```
-
 [Event "WCCC 2004"]
 [Site "Ramat Gan, Israel"]
 [Date "2004.07.12"]

@@ -43,7 +43,6 @@ Horizon played the [WCRCC 2007](WCRCC_2007 "WCRCC 2007") and [WCRCC 2008](WCRCC_
 [WCRCC 2008](WCRCC_2008 "WCRCC 2008"), round 14, Horizon - [Tornado](Tornado "Tornado") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "WCRCC 2008"]
 [Site "Internet Chess Club"]
 [Date "2008.06.22"]

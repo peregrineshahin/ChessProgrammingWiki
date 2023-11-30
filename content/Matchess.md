@@ -19,7 +19,6 @@ a chess program by [Henk Goeman](index.php?title=Henk_Goeman&action=edit&redlink
 
 
 ```
-
 [Event "DOCCC 1986"]
 [Site "Leiden, NL"]
 [Date "1986.09.13"]

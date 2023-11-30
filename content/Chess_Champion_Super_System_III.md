@@ -17,7 +17,6 @@ The chess computer had a [6502](6502 "6502") CPU with a [Philidor Software](Phil
 During the [1980 Chess Tournament](https://en.wikipedia.org/wiki/List_of_strong_chess_tournaments#1980.E2.80.931989) in [Bad Kissingen](https://en.wikipedia.org/wiki/Bad_Kissingen), Germany <a id="cite-note-3" href="#cite-ref-3">[3]</a>, sponsored by [Horten](https://en.wikipedia.org/wiki/Horten_AG), a German department store chain and primary German Novag distributor <a id="cite-note-4" href="#cite-ref-4">[4]</a>, [Anatoly Karpov](https://en.wikipedia.org/wiki/Anatoly_Karpov) played 25 Super System IIIs in a [simultaneous exhibition](https://en.wikipedia.org/wiki/Simultaneous_exhibition). In one game he was rather lucky that the program, a rook up, uncorked 32... Rfd8 overlooking [mate](Checkmate "Checkmate") in one, instead of Qb8 <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>:
 
 ```
-
 [Event "Karpov Simultaneous"]
 [Site "Bad Kissingen"]
 [Date "1980.01.??"]

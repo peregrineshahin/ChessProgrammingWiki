@@ -21,7 +21,6 @@ a chess program by [L. H. Verberkt](index.php?title=L._H._Verberkt&action=edit&r
 
 
 ```
-
 [Event "DOCCC 1982"]
 [Site "Wageningen NED"]
 [Date "1982.09.26"]

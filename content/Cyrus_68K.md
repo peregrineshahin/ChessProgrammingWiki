@@ -14,7 +14,6 @@ a chess program by [Mark Taylor](Mark_Taylor "Mark Taylor") and advisor [David L
 [Mark Taylor](Mark_Taylor "Mark Taylor"), [Kevin O’Connell](Kevin_O%E2%80%99Connell "Kevin O’Connell") and [David Levy](David_Levy "David Levy") with Cyrus 68K vs. [Nona](Nona "Nona"), [WCCC 1986](WCCC_1986 "WCCC 1986") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "5th World Computer Chess Championship"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]

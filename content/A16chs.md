@@ -13,7 +13,6 @@ a chess program developed by [Robert Prinsen](Robert_Prinsen "Robert Prinsen") o
 [WCCC 1974](WCCC_1974 "WCCC 1974"), round 1, [Papa](Papa "Papa") - A16chs <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.05"]

@@ -25,7 +25,6 @@ The four games match, telecasted by [ESPN](https://en.wikipedia.org/wiki/ESPN), 
 
 
 ```
-
 [Event "X3D Man vs. Machine Match"]
 [Site "New York Athletic Club"]
 [Date "2003.11.11"]
@@ -51,7 +50,6 @@ The four games match, telecasted by [ESPN](https://en.wikipedia.org/wiki/ESPN), 
 
 
 ```
-
 [Event "X3D Man vs. Machine Match"]
 [Site "New York Athletic Club"]
 [Date "2003.11.13"]
@@ -78,7 +76,6 @@ The four games match, telecasted by [ESPN](https://en.wikipedia.org/wiki/ESPN), 
 
 
 ```
-
 [Event "X3D Man vs. Machine Match"]
 [Site "New York Athletic Club"]
 [Date "2003.11.16"]
@@ -105,7 +102,6 @@ Qe6 19.Qd1 Nfd7 20.a3 Qh6 21.Nb3 Bh4 22.Qd2 Nf6 23.Kd1 Be6 24.Kc1 Rd8 25.Rc2 Nbd
 
 
 ```
-
 [Event "X3D Man vs. Machine Match"]
 [Site "New York Athletic Club"]
 [Date "2003.11.18"]

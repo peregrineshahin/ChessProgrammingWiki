@@ -15,7 +15,6 @@ the modification was only due to the [power supply](https://en.wikipedia.org/wik
 [WMCCC 1983](WMCCC_1983 "WMCCC 1983"), round 3, [Labirint 64](Labirint_64 "Labirint 64") - Gedeon X <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "WMCCC 1983"]
 [Site "Budapest, Hungary"]
 [Date "1983.10.15"]

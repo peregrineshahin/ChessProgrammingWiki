@@ -144,7 +144,6 @@ The game [HiTech](HiTech "HiTech") vs [Deep Thought](Deep_Thought "Deep Thought"
 
 
 ```
-
 [Event "WCCC 1989"]
 [Site "Edmonton, Canada"]
 [Date "1989.05.31"]

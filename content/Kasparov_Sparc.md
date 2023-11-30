@@ -21,7 +21,6 @@ a [chess computer](Dedicated_Chess_Computers "Dedicated Chess Computers") [modul
 
 
 ```
-
 [Event "WCCC 1992"]
 [Site "Madrid, Spain"]
 [Date "1992.11.27"]

@@ -24,7 +24,6 @@ engine and GUI compatible with the [Chess Engine Communication Protocol](Chess_E
 
 
 ```
-
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.05.29"]

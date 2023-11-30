@@ -65,7 +65,6 @@ The problems at Paris made me realize that a change in direction was required. I
 [WCCC 1999](WCCC_1999 "WCCC 1999"), round 3, Francesca - [MChess](MChess "MChess") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
-
 [Event "WCCC 1999"]
 [Site "Paderborn, Germany"]
 [Date "1999.06.15"]

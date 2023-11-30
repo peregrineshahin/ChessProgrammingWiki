@@ -23,7 +23,6 @@ At times Walter Bannerman was Director of *Sangold Computer Systems* providing t
 
 
 ```
-
 [Event "WMCCC 1997"]
 [Site "Paris, France"]
 [Date "1997.10.31"]

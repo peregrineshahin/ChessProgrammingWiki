@@ -154,7 +154,6 @@ Round 7, [MChess Pro 5.0](MChess "MChess") operated by [Peter Schreiner](Peter_S
 
 
 ```
-
 [Event "WMCCC 1995"]
 [Site "Paderborn, Germany"]
 [Date "1995.10.12"]

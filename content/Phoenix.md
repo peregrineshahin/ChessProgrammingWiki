@@ -117,7 +117,6 @@ The Phoenix program was an active participant in the 1980's computer chess tourn
 
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.13"]
@@ -144,7 +143,6 @@ The Phoenix program was an active participant in the 1980's computer chess tourn
 
 
 ```
-
 [Event "ACM 1988"]
 [Site "Orlando USA"]
 [Date "1988.11.13"]

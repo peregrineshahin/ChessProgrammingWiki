@@ -22,7 +22,6 @@ Zeus further participated at the [WCCC 1995](WCCC_1995 "WCCC 1995") in [Shatin](
 
 
 ```
-
 [Event "WCCC 1995"]
 [Site "Shatin, Hong Kong -China"]
 [Date "1995.05.28"]

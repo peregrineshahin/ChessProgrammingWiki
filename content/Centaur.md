@@ -34,7 +34,6 @@ Centaur for [Windows 3.x](Windows "Windows") <a id="cite-note-10" href="#cite-re
 [WCCC 1999](WCCC_1999 "WCCC 1999"): Centaur vs. [Mini](Mini "Mini"), [Victor Vikhrev](Victor_Vikhrev "Victor Vikhrev") and [Harald Prokop](Harald_Prokop "Harald Prokop")
 
 ```
-
 [Event "WCCC 1999"]
 [Site "Paderborn, Germany"]
 [Date "1999.06.19"]

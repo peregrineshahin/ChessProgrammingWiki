@@ -24,7 +24,6 @@ and the first three [International Paderborn Computer Chess Championships](IPCCC
 [WMCCC 1990](WMCCC_1990 "WMCCC 1990"), round 7, Check Check - [Nightmare](Nightmare_GER "Nightmare GER") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "WMCCC 1990"]
 [Site "Lyon, France"]
 [Date "1990.01.01"]

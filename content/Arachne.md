@@ -15,7 +15,6 @@ an experimental chess program by [Maarten van der Meulen](Maarten_van_der_Meulen
 [DOCCC 1989](DOCCC_1989 "DOCCC 1989"), round 1, [Dappet](Dappet "Dappet") - Arachne <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
-
 [Event "DOCCC 1989"]
 [Site "Leiden NED"]
 [Date "1989.10.??"]
@@ -38,7 +37,6 @@ an experimental chess program by [Maarten van der Meulen](Maarten_van_der_Meulen
 [DOCCC 1989](DOCCC_1989 "DOCCC 1989"), round 2, Arachne - [Duck](Duck "Duck")
 
 ```
-
 [Event "DOCCC 1989"]
 [Site "Leiden NED"]
 [Date "1989.10.??"]

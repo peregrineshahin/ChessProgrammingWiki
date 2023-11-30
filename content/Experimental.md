@@ -14,7 +14,6 @@ Experimental participated at the [IPCCC 1993](IPCCC_1993 "IPCCC 1993") and short
 [WMCCC 1993](WMCCC_1993 "WMCCC 1993"), round 6, [Ulysses](Ulysses "Ulysses") - Experimental <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "WMCCC 1993"]
 [Site "Munich, Germany"]
 [Date "1993.11.??"]

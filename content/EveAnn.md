@@ -32,7 +32,6 @@ The engine is dedicated to Andres' daughters Eve and Ann <a id="cite-note-1" hre
 [WCRCC 2007](WCRCC_2007 "WCRCC 2007"), round 8, EveAnn (DelTomateX) - [Horizon](Horizon "Horizon") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "WCRCC 2007"]
 [Site "Internet Chess Club"]
 [Date "2007.07.21"]

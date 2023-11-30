@@ -13,7 +13,6 @@ a chess program by [David Stafford](David_Stafford "David Stafford"). Greco was 
 [ACM 1987](ACM_1987 "ACM 1987"), round 4, Greco - [GNU Chess](GNU_Chess "GNU Chess") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "ACM 1987"]
 [Site "Dallas USA"]
 [Date "1987.10.27"]

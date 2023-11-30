@@ -38,7 +38,6 @@ The **8th Advances in Computer Chess Conference** was hosted by the [University 
 Invited Grandmaster [David Bronstein](David_Bronstein "David Bronstein") talked about his experience with (chess) computers, and played two exhibition games against the reigning [World Microcomputer Champion](WMCCC_1995 "WMCCC 1995") [MChess Pro 5.0](MChess "MChess") by [Marty Hirsch](Marty_Hirsch "Marty Hirsch"), represented by distributor [Martin Stamer](Martin_Stamer "Martin Stamer") and operated by [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg"). Bronstein drew the first game with the black pieces in a [Scandinavian](https://en.wikipedia.org/wiki/Scandinavian_Defense) and won the second game, which was a [French Defence](https://en.wikipedia.org/wiki/French_Defence).
 
 ```
-
 [Event "ACC8 Exhibition Match"]
 [Site "Vaeshartelt Castle, Maastricht"]
 [Date "1996.06.27"]

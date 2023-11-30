@@ -45,7 +45,6 @@ Not related, Interchess is further a name of an e-mail chess client, reported to
 
 
 ```
-
 [Event "WMCCC 1996"]
 [Site "Jakarta, Indonesia"]
 [Date "1996.10.??"]

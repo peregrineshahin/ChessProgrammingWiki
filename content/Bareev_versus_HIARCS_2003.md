@@ -13,7 +13,6 @@ between [Evgeny Bareev](https://en.wikipedia.org/wiki/Evgeny_Bareev) (2729 and w
 [](File:Bareevhiarcs4.jpg "Evgeny Bareev and Mark Uniacke after HIARCS 1.e4 [5] [6]")
 
 ```
-
 [Event "CEM Man - Machine"]
 [Site "Maastricht NED"]
 [Date "2003.01.28"]

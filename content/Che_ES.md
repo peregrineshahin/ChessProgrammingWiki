@@ -15,7 +15,6 @@ where it became runner-up behind [Betsabe](Betsabe "Betsabe"), and the [SCCC 199
 [SCCC 1993](SCCC_1993 "SCCC 1993"), Che versus [Jupiter](Jupiter "Jupiter") <a id="cite-note-2" href="#cite-ref-2">[2]</a> :
 
 ```
-
 [Event "SCCC 1993"]
 [Site "Barcelona"]
 [Date "1993.10.??"]

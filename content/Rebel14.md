@@ -35,7 +35,6 @@ Round 5, Rebel - [Bebe](Bebe "Bebe") <a id="cite-note-8" href="#cite-ref-8">[8]<
 
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]
@@ -69,7 +68,6 @@ Round 4, [Chess Genius](Chess_Genius "Chess Genius") - [ChessMachine](ChessMachi
 
 
 ```
-
 [Event "7th World Computer Chess Championship"]
 [Site "Madrid, Spain"]
 [Date "1992.11.26"]

@@ -4,7 +4,6 @@ title: CPWEngine utils
 **[Home](Home "Home") * [Engines](Engines "Engines") * [CPW-Engine](CPW-Engine "CPW-Engine") * Utils**
 
 ```C++
-
 ##include "stdafx.h"
 ##include "0x88_math.h"
 ##include "transposition.h"

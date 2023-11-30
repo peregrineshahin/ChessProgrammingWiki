@@ -29,7 +29,6 @@ SPOC stands for **S**elective **P**runing **O**ptimization **C**hess, claiming a
 
 
 ```
-
 [Event "ACM 1985"]
 [Site "Denver USA"]
 [Date "1985.10.13"]
@@ -57,7 +56,6 @@ Rge6 34.Rxa7 Rxe3 35.a4 Rd3+ 36.Kc1 Rxc3+ 37.Kb2 Rce3 38.a5 Rb8+ 39.Kc1 Reb3 40.
 
 
 ```
-
 [Event "ACM 1985"]
 [Site "Denver USA"]
 [Date "1985.10.15"]

@@ -56,7 +56,6 @@ Three versions were built, a [68000](68000 "68000") version, and beside the norm
 
 
 ```
-
 [Event "WMCCC 1988 (Manufacturers)"]
 [Site "Almeria, Spain"]
 [Date "1988.09.28"]

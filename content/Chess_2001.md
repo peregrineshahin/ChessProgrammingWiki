@@ -17,7 +17,6 @@ Chess 2001 played a strong [European MCC 1983](European_MCC_1983 "European MCC 1
 [WMCCC 1983](WMCCC_1983 "WMCCC 1983"), round 7, Chess 2001 - [Prestige Challenger](Chess_Challenger "Chess Challenger") <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
-
 [Event "WMCCC 1983"]
 [Site "Budapest, Hungary"]
 [Date "1983.10.19"]

@@ -31,7 +31,6 @@ I released it to kind of memorialize all the work that went into it, and I certa
 [WCRCC 2008](WCRCC_2008 "WCRCC 2008"), round 2, [Twisted Logic](Twisted_Logic "Twisted Logic") - Amateur <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
-
 [Event "WCRCC 2008"]
 [Site "Internet Chess Club"]
 [Date "2008.06.21"]

@@ -23,7 +23,6 @@ Raffaela was likely the first Italian program able to play on the Internet <a id
 
 
 ```
-
 [Event "CIPS 2002"]
 [Site "Pontedera"]
 [Date "2002.06.02"]

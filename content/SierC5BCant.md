@@ -23,7 +23,6 @@ It is the successor of the weaker [Szeregowiec](Szeregowiec "Szeregowiec"), and 
 
 
 ```
-
 [Event "5th PCCC 2006"]
 [Site "Lodz"]
 [Date "2006.09.16"]

@@ -100,7 +100,6 @@ Over the board, RedQueen played the [ICT 2010](ICT_2010 "ICT 2010"), [DOCCC 2010
 
 
 ```
-
 [Event "ACCA 2011"]
 [Site "HGM's server"]
 [Date "2011.11.12"]

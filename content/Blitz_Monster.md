@@ -12,7 +12,6 @@ an experimental version of [Novag's](Novag "Novag") [Super Constellation](Super_
 [WMCCC 1985](WMCCC_1985 "WMCCC 1985"), Round 7, Blitz Monster Y - [Plymate Y](Plymate "Plymate") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "WMCCC 1985"]
 [Site "Amsterdam, The Netherlands"]
 [Date "1985.09.14"]

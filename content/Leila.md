@@ -29,7 +29,6 @@ a [WinBoard](WinBoard "WinBoard") compliant chess engine written by [Carmelo Cal
 
 
 ```
-
 [Event "CIPS 2002"]
 [Site "Pontedera"]
 [Date "2002.06.01"]
@@ -56,7 +55,6 @@ Qh4+ 16.Kd1 a4 17.Qb2 Nf2+ 18.Kc2 Nxh1 19.c4 O-O 20.cxd5 a3 21.Qe5 Ba4+
 
 
 ```
-
 [Event "CIPS 2002"]
 [Site "Pontedera"]
 [Date "2002.06.02"]

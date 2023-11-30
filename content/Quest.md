@@ -21,7 +21,6 @@ a chess engine by [Frans Morsch](Frans_Morsch "Frans Morsch") which evolved from
 
 
 ```
-
 [Event "DOCCC 1988"]
 [Site "Leiden NED"]
 [Date "1988.10.??"]

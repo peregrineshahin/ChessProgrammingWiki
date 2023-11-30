@@ -13,7 +13,6 @@ a chess program by [Gyula Horváth](Gyula_Horv%C3%A1th "Gyula Horváth"), which 
 [WMCCC 1991](WMCCC_1991 "WMCCC 1991"), round 4, [Nightmare (D)](Nightmare_GER "Nightmare GER") - Brainstorm <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "WMCCC 1991"]
 [Site "Vancouver, Canada"]
 [Date "1991.01.01"]

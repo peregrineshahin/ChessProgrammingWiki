@@ -34,7 +34,6 @@ Moby was a conventional searcher, but distributed the search across the availabl
 
 
 ```
-
 [Event "WCCC 1989"]
 [Site "Edmonton, Canada"]
 [Date "1989.05.28"]

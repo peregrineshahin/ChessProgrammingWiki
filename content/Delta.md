@@ -15,7 +15,6 @@ a chess program by [Fré Felkers](Fr%C3%A9_Felkers "Fré Felkers") written in [T
 [WMCCC 1990](WMCCC_1990 "WMCCC 1990"), round 1, Delta - [Nightmare](Nightmare_GER "Nightmare GER") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "WMCCC 1990"]
 [Site "Lyon, France"]
 [Date "1990.11.24"]
@@ -37,7 +36,6 @@ g6 18.Re1 Bb4 19.c3 Bd6 20.Bxd6 cxd6 21.Rxd6 g5 22.Re7 f5 23.Re5 Kc7 24.Rg6 Rag8
 [DOCCC 1991](DOCCC_1991 "DOCCC 1991"), round 5, [Zzzzzz 0.1](Zzzzzz "Zzzzzz") - Delta <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
-
 [Event "DOCCC 1991"]
 [Site "Utrecht NED"]
 [Date "1991.10.??"]

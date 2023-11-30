@@ -15,7 +15,6 @@ also involved in the commercial release of Pandix ChessFriend <a id="cite-note-3
 [MASPV 2002](MASPV_2002 "MASPV 2002"): Csaba Szûts and [László Szalai](L%C3%A1szl%C3%B3_Szalai "László Szalai") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, [Pandix](Pandix "Pandix") - [Crux](Crux "Crux") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
-
 [Event "MASPV 2002"]
 [Site "Sopron, Hungary"]
 [Date "2002.04.20"]

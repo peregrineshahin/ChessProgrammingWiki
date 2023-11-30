@@ -44,7 +44,6 @@ If we now want to get the Zobrist hash code of a certain position, we initialize
 
 
 ```
-
 [Hash for White Rook on a1] xor [Hash for White Knight on b1] xor [Hash for White Bishop on c1] xor ... ( all pieces )
 ... xor [Hash for White king castling] xor [Hash for White queeb castling] xor ... ( all castling rights )
 
@@ -56,7 +55,6 @@ The fact that xor-operation is [own inverse](https://en.wikipedia.org/wiki/Invol
 
 
 ```
-
 [Original Hash of position] xor [Hash for White Knight on b1] ... ( removing the knight from b1 )
 ... xor [Hash for Black Bishop on c3] ( removing the captured bishop from c3 )
 ... xor [Hash for White Knight on c3] ( placing the knight on the new square )

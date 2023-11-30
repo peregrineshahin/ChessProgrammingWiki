@@ -21,7 +21,6 @@ With **ChessBrain II**, jobs are distributed from a central server to remote [cl
 On January 30, 2004, ChessBrain played a game versus [Peter Heine Nielsen](https://en.wikipedia.org/wiki/Peter_Heine_Nielsen) at [Symbion Science Park](https://en.wikipedia.org/wiki/Symbion_Science_Park), [Copenhagen](https://en.wikipedia.org/wiki/Copenhagen), [Denmak](https://en.wikipedia.org/wiki/Denmark), which ended in draw. The game was an attempt of a [Guinness World Record](https://en.wikipedia.org/wiki/Guinness_World_Records) for the largest number of computers used to play one single game of chess <a id="cite-note-10" href="#cite-ref-10">[10]</a>, on the ChessBrain site annotated by Nielsen and [Eric Schiller](Eric_Schiller "Eric Schiller") <a id="cite-note-11" href="#cite-ref-11">[11]</a>.
 
 ```
-
 [Event "ChessBrain World Record Attempt"]
 [Site "Copenhagen Denmark, Symbion Science Park"]
 [Date "2004.1.30"]

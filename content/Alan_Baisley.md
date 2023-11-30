@@ -18,7 +18,6 @@ First tournament game by a computer, Carl Wagner (2190) - [Mac Hack VI](Mac_Hack
 Carl Wagner and Alan Baisley (right) <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
-
 [Event "Boylston Chess Club Tournament"]
 [Site "YMCU, Boston"]
 [Date "1967.01.21"]
@@ -44,7 +43,6 @@ Kf8 44.Qh8+ Kf7 45.Qa8 Qc7 46.Qd5+ Kg7 47.Kg2 Qe7 48.h4 Kh6 49.g4 Kg7 50.h5 Qe2
 Alan Baisley (left) faces [Mikhail Donskoy](Mikhail_Donskoy "Mikhail Donskoy"), Round 2 [WCCC 1974](WCCC_1974 "WCCC 1974"), [Tech 2](Tech "Tech") vs [Kaissa](Kaissa "Kaissa") <a id="cite-note-12" href="#cite-ref-12">[12]</a> <a id="cite-note-13" href="#cite-ref-13">[13]</a>
 
 ```
-
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.06"]

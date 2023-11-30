@@ -13,7 +13,6 @@ Ayito played the [Chess960CWC 2005](Chess960CWC_2005 "Chess960CWC 2005") in [Mai
 [DOCCC 2005](DOCCC_2005 "DOCCC 2005"), round 8, Ayito - [Neurosis](Neurosis "Neurosis") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
-
 [Event "DOCCC 2005"]
 [Site "Leiden NED"]
 [Date "2005.11.13"]

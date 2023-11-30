@@ -20,7 +20,6 @@ was an American experimental physicist and electrical engineer, Ph.D. in [physic
 
 
 ```
-
 [Event "ACM 1978"]
 [Site "Washington D.C."]
 [Date "1978.12.06"]
@@ -46,7 +45,6 @@ was an American experimental physicist and electrical engineer, Ph.D. in [physic
 
 
 ```
-
 [Event "WCCC 1983"]
 [Site "New York, USA"]
 Date "1983.10.23"]

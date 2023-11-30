@@ -23,7 +23,6 @@ The two games versus [Étienne Bacrot](https://en.wikipedia.org/wiki/%C3%89tienn
 
 
 ```
-
 [Event "Cap d'Agde comp m"]
 [Site "Cap d'Agde"]
 [Date "1998.??.??"]

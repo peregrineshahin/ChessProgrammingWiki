@@ -17,7 +17,6 @@ Critter applies a [principal variation search](Principal_Variation_Search "Princ
 [ICT 2012](ICT_2012 "ICT 2012"), round 7, [Rybka](Rybka "Rybka") - Critter <a id="cite-note-16" href="#cite-ref-16">[16]</a> <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 
 ```
-
 [Event "ICT12"]
 [Site "Leiden"]
 [Date "2012.05.13"]

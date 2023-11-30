@@ -21,7 +21,6 @@ a chess program by [Thomas Nitsche](Thomas_Nitsche "Thomas Nitsche") developed i
 
 
 ```
-
 [Event "WMCCC 1985"]
 [Site "Amsterdam, The Netherlands"]
 [Date "1985.09.15"]

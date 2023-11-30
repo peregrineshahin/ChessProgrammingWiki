@@ -15,7 +15,6 @@ The name [Chaturanga](https://en.wikipedia.org/wiki/Chaturanga) is derived from 
 [WCCC 2006](WCCC_2006 "WCCC 2006"), round 3, Chaturanga - [FIBChess](FIBChess "FIBChess") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.05.26"]

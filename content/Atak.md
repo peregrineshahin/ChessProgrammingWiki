@@ -15,7 +15,6 @@ Atak had its over the board debut at the [1st Polish Computer Chess Championship
 [PCCC 2010](PCCC_2010 "PCCC 2010") round 5: [Mateusz Łuksik](Mateusz_%C5%81uksik "Mateusz Łuksik") operating Atak versus [Butcher](Butcher "Butcher") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "PCCC 2010"]
 [Site "Warszawa"]
 [Date "2010.11.28"]

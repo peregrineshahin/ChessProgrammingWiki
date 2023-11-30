@@ -21,7 +21,6 @@ Bronstein became interested in [artificial intelligence](Artificial_Intelligence
 David Bronstein vs. [XXXX](XXXX "XXXX") by [Martin Zentner](Martin_Zentner "Martin Zentner"), [Bruce Moreland](Bruce_Moreland "Bruce Moreland") watching, [Aegon 1997](Aegon_1997 "Aegon 1997") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
-
 [Event "AEGON"]
 [Site "Den Haag"]
 [Date "1997.04.21"]
@@ -76,7 +75,6 @@ I remember David calling [Ken Thompson](Ken_Thompson "Ken Thompson") in [New Jer
 The mentioned game of David Bronstein vs. [Walter Shawn Browne](https://en.wikipedia.org/wiki/Walter_Browne):
 
 ```
-
 [Event "Reykjavik (Iceland)"]
 [Site "Reykjavik (Iceland)"]
 [Date "1990.??.??"]

@@ -26,7 +26,6 @@ A brief discussion of heuristics is given, along with some of the problems encou
 [WCCC 1977](WCCC_1977 "WCCC 1977"), round 4, [Tell](Tell "Tell") - Chute 1.2 <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "WCCC 1977"]
 [Site "Toronto, Canada"]
 [Date "1977.08.09"]

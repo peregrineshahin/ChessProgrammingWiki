@@ -44,7 +44,6 @@ Fridolin is a male given name, particularly in the [German-speaking countries](h
 Round 8, Fridolin - [Pandix Breakthrough](Pandix "Pandix") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ```
-
 [Event "WCCC 2010"]
 [Site "Kanazawa, Japan"]
 [Date "2010.??.??"]
@@ -76,7 +75,6 @@ Kd6 87.Rb8 Kc5 88.Rb2 Kc6 89.Kf6 Nd5+ 90.Ke5 Nb6 91.Ke6 Kc7 92.Rb4 Kc6 93.Kf6 Nd
 Round 9, Fridolin - [Shredder](Shredder "Shredder") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ```
-
 [Event "WCSC 2010"]
 [Site "Kanazawa, Japan"]
 [Date "2010.??.??"]

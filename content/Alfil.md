@@ -28,7 +28,6 @@ This is a new project in C# mainly from [Stockfish](Stockfish "Stockfish") but i
 [TCEC - Stage 1 - Season 5](TCEC_Season_5#Stage1 "TCEC Season 5"), Alfil 13.1 - [Arasan 16](Arasan "Arasan") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
-
 [Event "TCEC - Stage 1 - Season 5"]
 [Site "http://www.tcec-chess.net"]
 [Date "2013.09.05"]

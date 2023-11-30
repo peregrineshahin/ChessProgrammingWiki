@@ -23,7 +23,6 @@ As computer chess programmer, László is author of the [Chess Engine Communicat
 
 
 ```
-
 [Event "ICT 2001"]
 [Site "Leiden NED"]
 [Date "2001.05.19"]
@@ -53,7 +52,6 @@ Kg6 56.Bf8 Kh7 57.Bxg7 Kg6 58.Bf8 Ra1 59.Rg7+ Kh5 60.Be7 Re1+ 61.Kd6 Rxe7 62.Kxe
 
 
 ```
-
 [Event "MASPV 2002"]
 [Site "Sopron, Hungary"]
 [Date "2002.04.20"]

@@ -96,7 +96,6 @@ Djinn uses most of the following techniques and [algorithms](Algorithms "Algorit
 [CCT6](CCT6 "CCT6"), round 7, [Hossa](Hossa "Hossa") - Djinn <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "CCT6"]
 [Site "Internet Chess Club"]
 [Date "2004.02.01"]

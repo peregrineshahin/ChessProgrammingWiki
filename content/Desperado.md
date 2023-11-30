@@ -18,7 +18,6 @@ Desperado has played in most of the [NC3 tournaments](Australasian_National_Comp
 [NC3 2006](NC3_2006 "NC3 2006"), round 3, Desperado - [LittleThought](LittleThought "LittleThought")
 
 ```
-
 [Event "NC3 2006"]
 [Site "RedHill, Canberra, Australia"]
 [Date "2006.08.20"]

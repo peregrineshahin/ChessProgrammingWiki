@@ -75,7 +75,6 @@ Six programs and computers participated, three of them variants of the [Strategi
 Round 4, [Algir](Algir "Algir") - [Centaur](Centaur "Centaur")
 
 ```
-
 [Event "First Soviet Computer-Chess Championship"]
 [Site "Ulan-Ude"]
 [Date "1988.06.28"]

@@ -21,7 +21,6 @@ a chess program by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
 
 
 ```
-
 [Event "DOCCC 1981"]
 [Site "Utrecht NED"]
 [Date "1981.10.??"]
@@ -49,7 +48,6 @@ a chess program by [Theo van der Storm](Theo_van_der_Storm "Theo van der Storm")
 
 
 ```
-
 [Event "DOCCC 1981"]
 [Site "Utrecht NED"]
 [Date "1981.10.??"]

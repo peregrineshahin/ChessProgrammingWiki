@@ -16,7 +16,6 @@ Genie was a [Shannon Type B](Type_B_Strategy "Type B Strategy") program with a w
 Genie vs [Schach](</Schach_(US)> "Schach (US)") <a id="cite-note-5" href="#cite-ref-5">[5]</a>, [Herbert D. Raymond](Herbert_D._Raymond "Herbert D. Raymond") (left?) and [Rolf C. Smith](Rolf_C._Smith "Rolf C. Smith")? <a id="cite-note-6" href="#cite-ref-6">[6]</a>, [ACM 1971](ACM_1971 "ACM 1971") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
-
 [Event "ACM 1971"]
 [Site "Chicago USA"]
 [Date "1971.08.02"]

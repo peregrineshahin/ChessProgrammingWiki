@@ -150,7 +150,6 @@ With a population size of 10, a crossover rate of 0.75, mutation rate of 0.05, a
 [WCCC 2004](WCCC_2004 "WCCC 2004") round 11, Falcon - [Shredder](Shredder "Shredder") <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 ```
-
 [Event "WCCC 2004"]
 [Site "Ramat Gan, Israel"]
 [Date "2004.07.12"]

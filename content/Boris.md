@@ -46,7 +46,6 @@ In 1979, following the development of the original Boris when more advanced prog
 The Sargon based *Boris Experimental* played the [1st World Microcomputer Chess Championship](WMCCC_1980 "WMCCC 1980"), September 4-9, 1980, in London, where it only lost versus later champion and Sargon based [Challenger X](Chess_Challenger "Chess Challenger"), blundering an endgame a piece up <a id="cite-note-24" href="#cite-ref-24">[24]</a>, and became second with 4 out of 5!
 
 ```
-
 [Event "WMCCC 1980"]
 [Site "London, United Kingdom"]
 [Date "1980.09.05"]

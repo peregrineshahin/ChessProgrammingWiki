@@ -28,7 +28,6 @@ Cluster Toga is a Young Brothers Wait Concept (YBWC) parallelized version of Tog
 [IPCCC 2007](IPCCC_2007 "IPCCC 2007"), [Kai Himstedt](Kai_Himstedt "Kai Himstedt"), [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen"), Cluster Toga - [Shredder](Shredder "Shredder") <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
-
 [Event "IPCCC 2007"]
 [Site "Paderborn, GER"]
 [Date "2007.12.27"]
@@ -52,7 +51,6 @@ Cluster Toga is a Young Brothers Wait Concept (YBWC) parallelized version of Tog
 [WCCC 2008](WCCC_2008 "WCCC 2008"), round 1, [Harvey Williamson](Harvey_Williamson "Harvey Williamson") and [Timo Klaustermeyer](Timo_Haupt "Timo Haupt"), Cluster Toga - [HIARCS](HIARCS "HIARCS") <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
-
 [Event "WCCC 2008"]
 [Site "Beijing, China"]
 [Date "2008.09.28"]

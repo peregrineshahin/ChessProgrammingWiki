@@ -19,7 +19,6 @@ Esc applies a [principal variation search](Principal_Variation_Search "Principal
 [CIPS 2002](CIPS_2002 "CIPS 2002"), round 2, [Nicola Rizzuti](Nicola_Rizzuti "Nicola Rizzuti") and [Claudio Della Corte](Claudio_Della_Corte "Claudio Della Corte"), [Gargamella](Gargamella "Gargamella") - Esc <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "CIPS 2002"]
 [Site "Pontedera"]
 [Date "2002.06.01"]

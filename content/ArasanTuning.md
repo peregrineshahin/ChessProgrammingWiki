@@ -132,7 +132,6 @@ Arasan went online in December, 1996 <a id="cite-note-17" href="#cite-ref-17">[1
 [PT 48](PT_48 "PT 48"), Two Kings fighting, [Johan de Koning](Johan_de_Koning "Johan de Koning") and [Tessa Pijl](Tessa_Pijl "Tessa Pijl") in Arasan vs. [The King](The_King "The King") <a id="cite-note-22" href="#cite-ref-22">[22]</a>
 
 ```
-
 [Event "PT 48"]
 [Site "Leiden, NL"]
 [Date "2015.06.14"]

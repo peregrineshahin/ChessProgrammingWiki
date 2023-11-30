@@ -26,7 +26,6 @@ versus [USC CP](USC_CP "USC CP")
 
 
 ```
-
 [Event "ACM 1972"]
 [Site "Boston USA"]
 [Date "1972.08.13"]
@@ -54,7 +53,6 @@ versus [Schach](Schach_(US) "Schach (US)")
 
 
 ```
-
 [Event "ACM 1972"]
 [Site "Boston USA"]
 [Date "1972.08.14"]
@@ -79,7 +77,6 @@ versus [MSU CP](MSU_CP "MSU CP")
 
 
 ```
-
 [Event "ACM 1972"]
 [Site "Boston USA"]
 [Date "1972.08.15"]

@@ -31,7 +31,6 @@ Jabba played the [CPT 2010](CPT_2010 "CPT 2010") and [CPT 2011](CPT_2011 "CPT 20
 
 
 ```
-
 [Event "WCRCC 2012"]
 [Site "Internet Chess Club"]
 [Date "2012.07.14"]

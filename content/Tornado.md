@@ -21,7 +21,6 @@ an [UCI](UCI "UCI") compliant chess engine by [Engin Üstün](Engin_%C3%9Cst%C3%
 
 
 ```
-
 [Event "CCT14"]
 [Site "Internet Chess Club"]
 [Date "2012.02.25"]

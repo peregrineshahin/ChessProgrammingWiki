@@ -30,7 +30,6 @@ Chess System Matador IV <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 
 ```
-
 [Event "IPCCC 2000"]
 [Site "Paderborn GER"]
 [Date "2000.02.10"]

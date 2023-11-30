@@ -23,7 +23,6 @@ As mentioned by Uri, the evaluation of Movei is [dependent on the path](Path-Dep
 
 
 ```
-
 [Event "WCCC 2004"]
 [Site "Ramat-Gan, Israel"]
 [Date "2004.07.08"]
@@ -54,7 +53,6 @@ Nb8 73.Nd6 Nd7 74.Nf5+ Kd8 75.Rd6 1-0
 
 
 ```
-
 [Event "CCT7"]
 [Site "ICC"]
 [Date "2005.02.12"]

@@ -26,7 +26,6 @@ It never competed again.
 
 
 ```
-
 [Event "IBM Kasparov vs. Deep Blue Rematch"]
 [Site "New York, NY USA"]
 [Date "1997.05.03"]
@@ -51,7 +50,6 @@ It never competed again.
 
 
 ```
-
 [Event "IBM Kasparov vs. Deep Blue Rematch"]
 [Site "New York, NY USA"]
 [Date "1997.05.04"]
@@ -76,7 +74,6 @@ It never competed again.
 
 
 ```
-
 [Event "IBM Kasparov vs. Deep Blue Rematch"]
 [Site "New York, NY USA"]
 [Date "1997.05.06"]
@@ -101,7 +98,6 @@ It never competed again.
 
 
 ```
-
 [Event "IBM Kasparov vs. Deep Blue Rematch"]
 [Site "New York, NY USA"]
 [Date "1997.05.07"]
@@ -128,7 +124,6 @@ It never competed again.
 
 
 ```
-
 [Event "IBM Kasparov vs. Deep Blue Rematch"]
 [Site "New York, NY USA"]
 [Date "1997.05.10"]
@@ -153,7 +148,6 @@ It never competed again.
 
 
 ```
-
 [Event "IBM Kasparov vs. Deep Blue Rematch"]
 [Site "New York, NY USA"]
 [Date "1997.05.11"]

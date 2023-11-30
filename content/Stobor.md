@@ -57,7 +57,6 @@ The first version of Stobor in 1993 was mainly influenced by the 1978 articles b
 
 
 ```
-
 [Event "WMCCC 1997"]
 [Site "Paris, France"]
 [Date "1997.10.28"]

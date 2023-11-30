@@ -30,7 +30,6 @@ The first version of Ktulu was written in early 2002 in [Turbo Pascal](Pascal#Tu
 
 
 ```
-
 [Event "ICT 2009"]
 [Site "Leiden, NED"]
 [Date "2009.06.05"]
@@ -59,7 +58,6 @@ c5 33.Nxc8 Rxc8 34.Rxd7 Qe3+ 35.Kf1 g5 36.Qxh5 Qf4+ 37.Ke2 Qe4+ 38.Kd1 Qg4+ 39.Q
 
 
 ```
-
 [Event "DOCCC 2009"]
 [Site "Leiden NED"]
 [Date "2009.10.18"]

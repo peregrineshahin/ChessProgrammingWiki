@@ -27,7 +27,6 @@ The legality test should be best applied in [making](Make_Move "Make Move") of t
 The implementation of the en passant rule often caused subtle [bugs](Engine_Testing#bugs "Engine Testing"). Almost every chess programmer had various issues with it <a id="cite-note-3" href="#cite-ref-3">[3]</a> , most notable [Louis Kessler](Louis_Kessler "Louis Kessler") with his [Program Brute Force](</Brute_Force_(Program)> "Brute Force (Program)"). [Gerd Isenberg](Gerd_Isenberg "Gerd Isenberg") had a special en passant experience with [IsiChess](IsiChess "IsiChess") at [Aegon 1994](Aegon_1994 "Aegon 1994") in the game versus Henk Arnoldus. IsiChess pushed its white pawn from b2 to b4 "between" the two advanced pawns a4 and c4 from Henk, allowing two possible en passant options. Unfortunately IsiChess only generated one - the "wrong" one (an assembly bug due to jc instead if jnz or that like, otherwise it would not have played it), and was immediately lost after Henk played the "right" one <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a> :
 
 ```
-
 [Event "9th AEGON man-comp"]
 [Site "The Hague NED"]
 [Date "1994.05.02"]

@@ -62,7 +62,6 @@ Spike is able to play [Chess960](Chess960 "Chess960"), and surprised the scene i
 
 
 ```
-
 [Event "15. IPCCC"]
 [Site "Paderborn"]
 [Date "2005.12.26"]

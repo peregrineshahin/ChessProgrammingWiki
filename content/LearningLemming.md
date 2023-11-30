@@ -24,7 +24,6 @@ The [book learning](Book_Learning "Book Learning") feature in LearningLemming is
 
 
 ```
-
 [Event "WCRCC 2009"]
 [Site "ICC"]
 [Date "2009.08.16"]

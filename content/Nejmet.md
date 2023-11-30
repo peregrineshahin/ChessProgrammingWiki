@@ -23,7 +23,6 @@ Nejmet played the [FCCC 1998](FCCC_1998 "FCCC 1998"), the [FCCC 1999](FCCC_1999 
 
 
 ```
-
 [Event "FCCC 1999"]
 [Site "Clichy FRA"]
 [Date "1999.10.09"]

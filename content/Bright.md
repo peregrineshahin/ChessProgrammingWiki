@@ -23,7 +23,6 @@ Bright played a strong [CCT11](CCT11 "CCT11") and became runner-up along with [F
 [CCT11](CCT11 "CCT11"), Round 2, Bright - [Thinker](Thinker "Thinker")
 
 ```
-
 [Event "[Event "CCT11"]"]
 [Site "Internet Chess Club"]
 [Date "2009.03.21"]
@@ -50,7 +49,6 @@ c3 57.bxc3 Rxc3 58.Rxc3 Bxc3 59.Ke4 Be1 60.d5 Bxh4 61.Nf7 b5 62.axb5 exd5+ 63.Kx
 [CCT11](CCT11 "CCT11"), Round 3, [Fruit](Fruit "Fruit") - Bright
 
 ```
-
 [Event "[Event "CCT11"]"]
 [Site "Internet Chess Club"]
 [Date "2009.03.21"]

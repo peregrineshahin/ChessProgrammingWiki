@@ -22,7 +22,6 @@ a match between the 12 human chess masters qualified for the [Dutch National Cha
 
 
 ```
-
 [Event "Netherlands-vs-Computers"]
 [Site "Hilversum"]
 [Date "1989.04.09"]
@@ -51,7 +50,6 @@ Kg7 50.Ra6 Bc5 51.f4 Rd4+ 52.Kf3 Rxf4+ 53.Kg3 Bd4 54.Ra5 Kg6 55.Rb5 Bc3 0-1
 
 
 ```
-
 [Event "Netherlands-vs-Computers"]
 [Site "Hilversum"]
 [Date "1989.04.09"]

@@ -28,7 +28,6 @@ By predicting those node types, he managed to improve [pruning](Pruning "Pruning
 
 
 ```
-
 [Event "ACCA 2011"]
 [Site "HGM's chess server"]
 [Date "2011.11.13"]

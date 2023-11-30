@@ -348,7 +348,6 @@ The **Second Computer Olympiad** was held from August 15 to 21, [1990](Timeline#
 Round 1,[Échec](%C3%89chec "Échec") - [Rebel '90](Rebel "Rebel") <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ```
-
 [Event "2nd Computer Olympiad"]
 [Site "London, UK"]
 [Date "1990.08.15"]
@@ -372,7 +371,6 @@ b3 53.f7 b2 54.f8=Q b1=Q+ 55.Kg5 Qc1+ 56.Qf4 Qxf4+ 57.Kxf4 Kd5 58.Kf5 a5 59.g4 a
 Round 4, [Mephisto X](Mephisto_Lyon "Mephisto Lyon") - [Rebel '90](Rebel "Rebel") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
-
 [Event "2nd Computer Olympiad"]
 [Site "London, UK"]
 [Date "1990.08.??"]

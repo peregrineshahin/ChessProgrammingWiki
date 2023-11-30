@@ -1907,7 +1907,6 @@ The Season 9 Superfinal between [Houdini 5](Houdini "Houdini") and [Stockfish 8]
 
 
 ```
-
 [Event "TCEC Season 9 - Stage 2"]
 [Site "http://tcec.chessdom.com"]
 [Date "2016.07.22"]
@@ -1944,7 +1943,6 @@ The first game of Stage 3 between [Houdini 200716](Houdini "Houdini") and [Komod
 
 
 ```
-
 [Event "TCEC Season 9 - Stage 3"]
 [Site "http://tcec.chessdom.com"]
 [Date "2016.07.23"]
@@ -1976,7 +1974,6 @@ Despite nondeterminism specially in multi processing environments anyway, the co
 
 
 ```
-
 [Event "TCEC Season 9 - Stage 3"]
 [Site "http://tcec.chessdom.com"]
 [Date "2016.07.23"]

@@ -28,7 +28,6 @@ So far, WildCat played the [CCT5](CCT5 "CCT5") and [CCT6](CCT6 "CCT6") [CCT Tour
 
 
 ```
-
 [Event "CCCCISC 2008"]
 [Site "Moscow SDCHESS RGSU"]
 [Date "2008.03.02"]

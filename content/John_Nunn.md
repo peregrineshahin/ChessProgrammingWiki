@@ -27,7 +27,6 @@ In 2013 <a id="cite-note-7" href="#cite-ref-7">[7]</a>, Nunn applied the 7-piece
 
 
 ```
-
 [Event "Aegon 1994"]
 [Site "The Hague NED"]
 [Date "1994.04.28"]
@@ -50,7 +49,6 @@ Qe5 33.Rc8+ Kf7 0-1
 
 
 ```
-
 [Event "Aegon 1994"]
 [Site "The Hague NED"]
 [Date "1994.04.29"]
@@ -78,7 +76,6 @@ axb5 66.a6 Bxa6 67.Kxa6 Ke6 68.Kxb5 Kf5 69.Kc5 Ke4 70.Kd6 Kf3 71.Ke5 Kg2 72.Kf4 
 
 
 ```
-
 [Event "Aegon 1994"]
 [Site "The Hague NED"]
 [Date "1994.05.04"]

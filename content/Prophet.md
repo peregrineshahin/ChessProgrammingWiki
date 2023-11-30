@@ -115,7 +115,6 @@ Prophet played five [CCT Tournaments](CCT_Tournaments "CCT Tournaments"), from [
 
 
 ```
-
 [Event "CCT11"]
 [Site "Internet Chess Club"]
 [Date "2009.03.21"]

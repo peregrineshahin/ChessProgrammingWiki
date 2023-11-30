@@ -27,7 +27,6 @@ Game Notation of [Bobby Fischer](https://en.wikipedia.org/wiki/Bobby_Fischer) - 
 The above Game Notation in [SAN](Algebraic_Chess_Notation#SAN "Algebraic Chess Notation") as [Portable Game Notation](Portable_Game_Notation "Portable Game Notation"):
 
 ```
-
 [Event "19th Chess Olympiad"]
 [Site "Siegen, Germany"]
 [Date "1970.??.??"]

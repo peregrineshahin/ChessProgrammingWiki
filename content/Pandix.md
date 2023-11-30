@@ -38,7 +38,6 @@ Team Pandix <a id="cite-note-4" href="#cite-ref-4">[4]</a>, Nelli, Gyula, Ditta 
 
 
 ```
-
 [Event "WCCC 2010"]
 [Site "Kanazawa, Japan"]
 [Date "2010.09.25"]
@@ -73,7 +72,6 @@ axb1=Q+ 65.Kxb1 Ra6 66.Bf3+ Kg5 67.Kb2 f4 68.Bc3 Re6 69.Kc2 Ra6 70.Be1 Ra2+
 
 
 ```
-
 [Event "ICT 11"]
 [Site "Leiden"]
 [Date "2011.06.12"]

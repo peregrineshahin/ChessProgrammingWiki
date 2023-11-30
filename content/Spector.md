@@ -55,7 +55,6 @@ Spector at [ACM 1994](ACM_1994 "ACM 1994"): [C](C "C"), [PC Clone](IBM_PC "IBM P
 
 
 ```
-
 [Event "ACM 1994"]
 [Site "Cape May, NJ USA"]
 [Date "1994.06.25"]
@@ -84,7 +83,6 @@ Be2 31.Rd2 Rab8 32.Rxb8 Rxb8 33.Rb2 Rxb2 34.Bxb2 h5 35.dxe5 hxg4 36.hxg4 Bc4
 
 
 ```
-
 [Event "ACM 1994"]
 [Site "Cape May, NJ USA"]
 [Date "1994.06.26"]

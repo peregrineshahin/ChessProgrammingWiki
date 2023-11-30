@@ -14,7 +14,6 @@ Before Steffen restarted the development of his own chess program [Hossa](Hossa 
 A sample game from [Tim Krabbé's](https://en.wikipedia.org/wiki/Tim_Krabb%C3%A9) site <a id="cite-note-6" href="#cite-ref-6">[6]</a> :
 
 ```
-
 [Event "Blitz 5.0"]
 [Site "ICC"]
 [Date "1998.??.??"]

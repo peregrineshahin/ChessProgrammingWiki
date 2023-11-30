@@ -21,7 +21,6 @@ At the WCCC 1992, with 10-15K [nodes per second](Nodes_per_Second "Nodes per Sec
 
 
 ```
-
 [Event "DCCC 1991"]
 [Site "Utrecht NED"]
 [Date "1991.10.??"]
@@ -52,7 +51,6 @@ At the WCCC 1992, with 10-15K [nodes per second](Nodes_per_Second "Nodes per Sec
 
 
 ```
-
 [Event "WCCC 1992"]
 [Site "Madrid, Spain"]
 [Date "1992.11.27"]

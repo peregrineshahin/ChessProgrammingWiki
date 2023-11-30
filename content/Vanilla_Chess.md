@@ -82,7 +82,6 @@ void bishopmoves(int mover, struct movelisttype * movelist, int nsquare) {
 
 
 ```
-
 [Event "NC3 2003"]
 [Site "RedHill, Canberra, Australia"]
 [Date "2003.07.22"]

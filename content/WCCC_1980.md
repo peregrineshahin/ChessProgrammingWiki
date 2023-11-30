@@ -103,7 +103,6 @@ Special guest [Claude Shannon](Claude_Shannon "Claude Shannon") just before roun
 
 
 ```
-
 [Event "WCCC 1980"]
 [Site "Linz, Austria"]
 [Date "1980.09.28"]
@@ -137,7 +136,6 @@ Game and short analyze on Lichess.org : [[1]](https://en.lichess.org/WVJJQHYR)
 
 
 ```
-
 [Event "WCCC 1980"]
 [Site "Linz, Austria"]
 [Date "1980.09.29"]
@@ -169,7 +167,6 @@ It was remarkable that in the round three game of [CHAOS](CHAOS "CHAOS") versus 
 
 
 ```
-
 [Event "WCCC 1980"]
 [Site "Linz, Austria"]
 [Date "1980.09.27"]
@@ -196,7 +193,6 @@ The 1974 game <a id="cite-note-14" href="#cite-ref-14">[14]</a> :
 
 
 ```
-
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.06"]

@@ -17,7 +17,6 @@ a private chess engine written by [Steve Timson](index.php?title=Steve_Timson&ac
 [CCT4](CCT4 "CCT4"), round 1, [Tinker](Tinker "Tinker") - Chester
 
 ```
-
 [Event "CCT4"]
 [Site "Internet Chess Club"]
 [Date "2002.01.19"]
@@ -44,7 +43,6 @@ Rc4 64.Kd2 Kg4 65.Bb3 Rc7 66.Ba4 Kh3 67.Ra2 Kg2 68.Rc2 Rxc2+ 69.Kxc2 Kxf2 0-1
 [CCT4](CCT4 "CCT4"), round 6, Chester - [IsiChess](IsiChess "IsiChess")
 
 ```
-
 [Event "ICC 60 10"]
 [Site "Internet Chess Club"]
 [Date "2002.01.20"]

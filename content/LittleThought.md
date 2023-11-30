@@ -28,7 +28,6 @@ LittleThought played the [NC3 2006](NC3_2006 "NC3 2006") [Australasian National 
 
 
 ```
-
 [Event "NC3 2006"]
 [Site "RedHill, Canberra, Australia"]
 [Date "2006.08.20"]

@@ -29,7 +29,6 @@ The programs name was inspired by [Gargamella](http://it.wikipedia.org/wiki/Garg
 [CIPS 2002](CIPS_2002 "CIPS 2002"), round 2, [Nicola Rizzuti](Nicola_Rizzuti "Nicola Rizzuti") and [Claudio Della Corte](Claudio_Della_Corte "Claudio Della Corte"), Gargamella - [Esc](Esc "Esc") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
-
 [Event "CIPS 2002"]
 [Site "Pontedera"]
 [Date "2002.06.01"]
@@ -53,7 +52,6 @@ The programs name was inspired by [Gargamella](http://it.wikipedia.org/wiki/Garg
 [CIPS 2002](CIPS_2002 "CIPS 2002"), round 2, [Golem](Golem "Golem") - Gargamella
 
 ```
-
 [Event "CIPS 2002"]
 [Site "Pontedera"]
 [Date "2002.06.02"]

@@ -24,7 +24,6 @@ a [dedicated chess computer](Dedicated_Chess_Computers "Dedicated Chess Computer
 
 
 ```
-
 [Event "WMCCC 1986"]
 [Site "Dallas, USA"]
 [Date "1986.11.02"]

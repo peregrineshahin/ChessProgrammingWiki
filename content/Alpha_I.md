@@ -14,7 +14,6 @@ a chess program by [Rainer Feldmann](Rainer_Feldmann "Rainer Feldmann") and [Pet
 [Reinhold Gellner](Reinhold_Gellner "Reinhold Gellner") and [Peter Mysliwietz](Peter_Mysliwietz "Peter Mysliwietz") in [Nightmare](Nightmare_GER "Nightmare GER") vs. Alpha I, [WMCCC 1995](WMCCC_1995 "WMCCC 1995"), Round 6 <a id="cite-note-1" href="#cite-ref-1">[1]</a> <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
-
 [Event "WMCCC 1995"]
 [Site "Paderborn, Germany"]
 [Date "1995.10.12"]

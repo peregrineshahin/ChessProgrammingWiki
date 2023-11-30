@@ -55,7 +55,6 @@ an [UCI](UCI "UCI") compliant chess engine by [Dmitry Morozov](Dmitry_Morozov "D
 
 
 ```
-
 [Event "TCEC Season 4 - Stage 2b"]
 [Site "http://tcec.chessdom.com"]
 [Date "2013.03.17"]

@@ -22,7 +22,6 @@ Fruit had its strong debut at [CCT7](CCT7 "CCT7"), February 2005, and over the b
 [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") and [Fabien Letouzey](Fabien_Letouzey "Fabien Letouzey"), [Shredder](Shredder "Shredder") - Fruit, [WCCC 2005](WCCC_2005 "WCCC 2005") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
-
 [Event "WCCC 2005"]
 [Site "Reykjavík, Iceland"]
 [Date "2005.08.16"]

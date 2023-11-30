@@ -81,7 +81,6 @@ and many others at [CCC](CCC "CCC") for their help...
 
 
 ```
-
 [Event "CCT4"]
 [Site "Internet Chess Club"]
 [Date "2002.01.19"]

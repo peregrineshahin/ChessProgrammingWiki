@@ -18,7 +18,6 @@ Cray Blitz won two times the [ACM North American Computer Chess Championships](A
 [Harry Nelson](Harry_Nelson "Harry Nelson"), [Robert Hyatt](Robert_Hyatt "Robert Hyatt") and [Don Beal](Don_Beal "Don Beal"), Cray Blitz vs [BCP](BCP "BCP"), [WCCC 1983](WCCC_1983 "WCCC 1983") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
-
 [Event "WCCC 1983"]
 [Site "New York, USA"]
 [Date "1983.10.22"]
@@ -45,7 +44,6 @@ Cray Blitz won two times the [ACM North American Computer Chess Championships](A
 Cray Blitz vs. [HiTech](HiTech "HiTech"), [WCCC 1986](WCCC_1986 "WCCC 1986") <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]
@@ -79,7 +77,6 @@ Picture taken around move 19th (after 18.Qa5 and before 20.b3)<a id="cite-note-1
 ```
 
 ```
-
 [Event "ACM 1988"]
 [Site "Orlando USA"]
 [Date "1988.11.13"]

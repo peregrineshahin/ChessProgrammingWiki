@@ -26,7 +26,6 @@ Rex played the [17th ACM Tournament](ACM_1986 "ACM 1986") 1986 in Dallas, the [5
  [](http://webdocs.cs.ualberta.ca/~tony/Public/Awit-Wita-ComputerChess/5thWCCC-Cologne1986/Awit-Rex-14June1986-A.png) [Score sheet](Game_Notation#Scoresheet "Game Notation") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a> <a id="cite-note-7" href="#cite-ref-7">[7]</a> 
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.14"]
@@ -55,7 +54,6 @@ Ke8 22.Ne5 f5 23.Qg2 Qh6 24.Nxc6 Nxc6 25.Rxc7 Kf8 26.Rxc6 Qg7 27.Rf6+ Qxf6
 
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]

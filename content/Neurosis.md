@@ -38,7 +38,6 @@ Neurosis had its debut at the [ICT 2004](ICT_2004 "ICT 2004"), and further playe
 
 
 ```
-
 [Event "24th DOCC"]
 [Site "Leiden NED"]
 [Date "2004.10.23"]

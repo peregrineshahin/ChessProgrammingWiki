@@ -46,7 +46,6 @@ The [evaluation](Evaluation "Evaluation") might be [lazy](Lazy_Evaluation "Lazy 
 [SCCC 1999](SCCC_1999 "SCCC 1999"), round 7, Betsabe - [Genesis](Genesis_AR "Genesis AR") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "SCCC 1999"]
 [Site "Parets del Valles"]
 [Date "29.12.99"]

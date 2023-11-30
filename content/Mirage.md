@@ -34,7 +34,6 @@ Mirage 2.07 under [DOSBox](https://en.wikipedia.org/wiki/DOSBox) <a id="cite-not
 
 
 ```
-
 [Event "WMCCC 1993"]
 [Site "Munich, Germany"]
 [Date "1993.11.05"]
@@ -64,7 +63,6 @@ fxe6 50.dxe6 Re3 51.Kf6 b5 52.g5 1-0
 
 
 ```
-
 [Event "Aegon 1997"]
 [Site "The Hague NED"]
 [Date "1997.04.16"]

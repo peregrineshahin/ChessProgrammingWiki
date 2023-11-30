@@ -16,7 +16,6 @@ The next step is that the commands get executed.This is now either done in com_x
 ## Code
 
 ```C++
-
 ##include "stdafx.h"
 ##include "transposition.h"
 

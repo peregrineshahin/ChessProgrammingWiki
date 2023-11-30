@@ -25,7 +25,6 @@ the author stopped working on Naraku <a id="cite-note-4" href="#cite-ref-4">[4]<
 
 
 ```
-
 [Event "TCEC Season 2 - Division F"]
 [Site "http://tcec.chessdom.com"]
 [Date "2011.02.15"]

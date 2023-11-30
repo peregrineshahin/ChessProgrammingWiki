@@ -54,7 +54,6 @@ After a long break from 2005 with KnightX **1.92**, Christophe Jolly had his com
 
 
 ```
-
 [Event "Massy 2003"]
 [Site "Massy, FRA"]
 [Date "2003.06.15"]

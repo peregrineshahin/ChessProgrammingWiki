@@ -15,7 +15,6 @@ is able to probe [Nalimov Tablebases](Nalimov_Tablebases "Nalimov Tablebases"), 
 [TCEC Season 5](TCEC_Season_5 "TCEC Season 5"), round 5, FireFly - [Crafty](Crafty "Crafty") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "TCEC Season 5 - Stage 1"]
 [Site "http://tcec.chessdom.com"]
 [Date "2013.09.08"]

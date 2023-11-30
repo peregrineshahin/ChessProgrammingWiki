@@ -16,7 +16,6 @@ Diogenes was at times released by [Gambit-Soft](index.php?title=Gambit-Soft&acti
 [WMCCC 1996](WMCCC_1996 "WMCCC 1996"), round 7, [Schach 3.0](Schach "Schach") - Diogenes <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
-
 [Event "WMCCC 1996"]
 [Site "Jakarta, Indonesia"]
 [Date "1996.10.1?"]

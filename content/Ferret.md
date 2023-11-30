@@ -14,7 +14,6 @@ a chess engine by [Bruce Moreland](Bruce_Moreland "Bruce Moreland"). Ferret won 
 [WCCC 1999](WCCC_1999 "WCCC 1999"), Round 6: Ferret - [Shredder](Shredder "Shredder"), [Stefan Meyer-Kahlen](Stefan_Meyer-Kahlen "Stefan Meyer-Kahlen") and [Bruce Moreland](Bruce_Moreland "Bruce Moreland") <a id="cite-note-2" href="#cite-ref-2">[2]</a> <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "WCCC 1999"]
 [Site "Paderborn, Germany"]
 [Date "1999.06.18"]

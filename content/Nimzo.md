@@ -22,7 +22,6 @@ a chess program by primary developer [Chrilly Donninger](Chrilly_Donninger "Chri
 
 
 ```
-
 [Event "AEGON 1997"]
 [Site "The Hague NED"]
 [Date "1997.04.17"]

@@ -16,7 +16,6 @@ Chompster played various [Australasian National Computer Chess Championships](Au
 [CCT5](CCT5 "CCT5"), round 7, Chompster - [Robin](</index.php?title=Robin_(PL)&action=edit&redlink=1> "Robin (PL) (page does not exist)")
 
 ```
-
 [Event "CCT5 45 10"]
 [Site "Internet Chess Club"]
 [Date "2003.01.19"]

@@ -28,7 +28,6 @@ Gaïa played the [FCCC 2003](FCCC_2003 "FCCC 2003") and [FCCC 2004](FCCC_2004 "F
 [FCCC 2004](FCCC_2004 "FCCC 2004"), round 9, Gaia 2.1 - [Chess Wizard](Chess_Wizard "Chess Wizard") <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "FCCC 2004"]
 [Site "Massy"]
 [Date "2004.10.17"]

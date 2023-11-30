@@ -23,7 +23,6 @@ A few test games were published in the report, self-play, and one test game vers
 
 
 ```
-
 [Event "Test Game"]
 [Site "University of Dortmund"]
 [Date "1974"]

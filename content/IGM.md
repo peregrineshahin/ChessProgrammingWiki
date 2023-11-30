@@ -34,7 +34,6 @@ In 1978, IGM won the first games played between Dutch chess programs via telepho
 
 
 ```
-
 [Event "First Dutch CC Game"]
 [Site "Telephone NED"]
 [Date "1978.06.23"]

@@ -13,7 +13,6 @@ The development started in 1995, a first release was published late 2000. An upd
 [CCT13](CCT13 "CCT13"), round 7, [Capivara](Capivara "Capivara") - EnginMax <a id="cite-note-1" href="#cite-ref-1">[1]</a>
 
 ```
-
 [Event "CCT 13"]
 [Site "FICS, San Jose, California USA"]
 [Date "2011.01.30"]

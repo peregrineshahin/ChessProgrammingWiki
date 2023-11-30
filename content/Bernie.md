@@ -14,7 +14,6 @@ Recognizing the amount of work to furher improve his program, Christopher Lutz t
 [IPCCC 1991](IPCCC_1991 "IPCCC 1991"), round 2, Bernie - [Nimzo](Nimzo "Nimzo") <a id="cite-note-3" href="#cite-ref-3">[3]</a>. Strange computer chess in 1991!
 
 ```
-
 [Event "IPCCC 1991"]
 [Site "Paderborn, GER"]
 [Date "1991.10.04"]

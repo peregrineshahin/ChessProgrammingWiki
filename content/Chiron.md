@@ -38,7 +38,6 @@ Chiron played various [Italian Computer Chess Championships](Italian_Computer_Ch
 [Ubaldo](Ubaldo_Andrea_Farina "Ubaldo Andrea Farina"), [Nietta](Antonia_Jeanrenaud "Antonia Jeanrenaud"), [Stefano](Stefano_Malloggi "Stefano Malloggi") and [Eros](Eros_Riccio "Eros Riccio"), [WCCC 2006](WCCC_2006 "WCCC 2006"), Chiron vs. [Diep](Diep "Diep") <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 ```
-
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.06.01"]
@@ -63,7 +62,6 @@ Bxc5 17.Bxc5 Qxc5+ 18.Qd4 Qxd4+ 19.Rxd4 Rac8 20.Bf3 Nxe5 21.Bxd5 Bxd5 22.Rxd5 f6
 [CCT14](CCT14 "CCT14"), round 5, Chiron - [Komodo](Komodo "Komodo") <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 ```
-
 [Event "CCT14"]
 [Site "Internet Chess Club"]
 [Date "2012.02.26"]

@@ -116,7 +116,6 @@ In 1970 or 1971, Euwe played the game with [Chess 3](Chess_(Program) "Chess (Pro
 
 
 ```
-
 [Event "?"]
 [Site "?"]
 [Date "1970?"]

@@ -20,7 +20,6 @@ as [dedicated unit](Dedicated_Chess_Computers "Dedicated Chess Computers") on a 
 [WCCC 1986](WCCC_1986 "WCCC 1986"), round 4, Chat - [Enterprise](Enterprise "Enterprise"), ..., [Wolfgang Delmare](Wolfgang_Delmare "Wolfgang Delmare") (white shirt) <a id="cite-note-7" href="#cite-ref-7">[7]</a> <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, FRG"]
 [Date "1986.06.14"]

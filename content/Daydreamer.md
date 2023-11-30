@@ -49,7 +49,6 @@ Daydreamer's [evaluation](Evaluation "Evaluation") might be [lazy](Lazy_Evaluati
 [ACCA 2010](ACCA_2010 "ACCA 2010"), round 6, DayDreamer - [Gaviota](Gaviota "Gaviota") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
-
 [Event "ACCA 2010"]
 [Site "FICS, San Jose, California USA"]
 [Date "2010.11.07"]

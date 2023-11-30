@@ -15,7 +15,6 @@ as elaborated and demonstrated by Alex van Tiggelen and [Jaap van den Herik](Jaa
 [DOCCC 1998](DOCCC_1998 "DOCCC 1998"), round 3, Alexs - [Bionic Impakt](Bionic_Impakt "Bionic Impakt")
 
 ```
-
 [Event "DOCCC 1998"]
 [Site "Leiden NED"]
 [Date "1998.11.21"]
@@ -40,7 +39,6 @@ Kh5 43.Qe2+ Kg6 44.g4 Rxf2 45.Kxf2 Qxh2+ 46.Kf3 Qh1+ 47.Ke3 Qd5 48.Qd3+ Qxd3+
 [DOCCC 1998](DOCCC_1998 "DOCCC 1998"), round 4, [CilkChess](CilkChess "CilkChess") - Alexs
 
 ```
-
 [Event "DOCCC 1998"]
 [Site "Leiden NED"]
 [Date "1998.11.22"]

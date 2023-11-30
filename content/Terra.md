@@ -33,7 +33,6 @@ The program's name Terra, "The Earth", was inspired by [Douglas Adams'](Category
 
 
 ```
-
 [Event "CCT2"]
 [Site "Internet Chess Club"]
 [Date "2000.11.05"]
@@ -63,7 +62,6 @@ Rcc8 44.Kg1 Nb1 45.Bb4 Nc3 46.Ba3 Nb1 47.Bb4 Nc3 48.Ba5 Nb5 49.Bb6 Rc6 50.Re7+ K
 
 
 ```
-
 [Event "CCT5"]
 [Site "Internet Chess Club"]
 [Date "2003.01.19"]

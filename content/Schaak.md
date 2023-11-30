@@ -25,7 +25,6 @@ The game of Schaak vs. [Chess 0.5X](Chess_0.5X "Chess 0.5X") was the shortest ga
 
 
 ```
-
 [Event "DOCCC 1985"]
 [Site "Leiden, NED"]
 [Date "1985.10.??"]
@@ -55,7 +54,6 @@ The author of Schaak, Alex van Tiggelen, one of the newcomers, was eager to show
 
 
 ```
-
 [Event "Rematch"]
 [Site "Leiden, NED"]
 [Date "1985.10.??"]

@@ -18,7 +18,6 @@ Dartmouth's program was the first program to challenge [Northwestern's](Chess_(P
 ```
 
 ```
-
 [Event "ACM 1973"]
 [Site "Atlanta USA"]
 [Date "1973.08.26"]

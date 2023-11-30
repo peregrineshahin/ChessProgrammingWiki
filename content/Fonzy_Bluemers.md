@@ -14,7 +14,6 @@ a Dutch software developer, computer chess aficionado, tester, and computer ches
 [ICT 2013](ICT_2013 "ICT 2013") round 6, Fonzy Bluemers and [Bart Weststrate](Bart_Weststrate "Bart Weststrate") <a id="cite-note-4" href="#cite-ref-4">[4]</a>, [Dirty](Dirty "Dirty") - [Kallisto](Kallisto "Kallisto")
 
 ```
-
 [Event "ICT 2013"]
 [Site "Leiden"]
 [Date "2013.06.02"]

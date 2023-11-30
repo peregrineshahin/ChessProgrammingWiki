@@ -42,7 +42,6 @@ In October 2005, Fritz Reul's new 32-bit engine dubbed **Loop List** was release
 
 
 ```
-
 [Event "WCCC 2003"]
 [Site "Graz, Austria"]
 [Date "2003.11.26"]

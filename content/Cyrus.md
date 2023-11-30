@@ -13,7 +13,6 @@ title: Cyrus
 An improved version of Cyrus appeared at the [ACM Speed Chess Tournament 1981](ACM_1981 "ACM 1981"), running on an [Osborne](https://en.wikipedia.org/wiki/Osborne_Computer_Corporation) Z80 microcomputer and matched against mainframe programs, beating [Cray Blitz](Cray_Blitz "Cray Blitz") and [Chess 4.5](</Chess_(Program)> "Chess (Program)"), and only losing to [Belle](Belle "Belle") <a id="cite-note-3" href="#cite-ref-3">[3]</a>.
 
 ```
-
 [Event "ACM 1981 Speed Tournament"]
 [Site "Los Angeles"]
 [Date " 1981.11.10"]

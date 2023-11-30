@@ -61,7 +61,6 @@ This is the latest version of MChess Professional which has many computer chess 
 
 
 ```
-
 [Event "WMCCC 1995"]
 [Site "Paderborn, Germany"]
 [Date "1995.10.15"]

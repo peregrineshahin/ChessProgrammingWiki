@@ -21,7 +21,6 @@ A [tapered eval](Tapered_Eval "Tapered Eval") interpolates between [opening](Ope
 
 
 ```
-
 [Event "CCT15"]
 [Site "Variant-ICS, Amsterdam, NL"]
 [Date "2013.02.24"]

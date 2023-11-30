@@ -14,7 +14,6 @@ FIBChess played the [WCCC 2004](WCCC_2004 "WCCC 2004") in [Ramat Gan](https://en
 [WCCC 2006](WCCC_2006 "WCCC 2006"), round 11, FIBChess - [Spike](Spike "Spike")
 
 ```
-
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.06.01"]

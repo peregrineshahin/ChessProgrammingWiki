@@ -15,7 +15,6 @@ Since 2013, Álvaro is in the process to write a new chess engine <a id="cite-no
 [WCCC 2003](WCCC_2003 "WCCC 2003"), The [Ruy Lopez](Ruy_Lopez "Ruy Lopez") team that beat reigning champion [Junior](Junior "Junior") in round one <a id="cite-note-10" href="#cite-ref-10">[10]</a> <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
-
 [Event "WCCC 2003"]
 [Site "Graz, Austria"]
 [Date "2003.11.22"]

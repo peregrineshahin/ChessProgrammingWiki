@@ -27,7 +27,6 @@ The thesis program features a [YBWC](Young_Brothers_Wait_Concept "Young Brothers
 [CCT5](CCT5 "CCT5"), Chezzz - [Hossa](Hossa "Hossa") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
-
 [Event "CCT5"]
 [Site "Internet Chess Club"]
 [Date "2003.01.18"]
@@ -58,7 +57,6 @@ a3 77.Na1 Ne2+ 78.Kd2 Nxg3 79.Ke1 Kc3 80.Kd1 Kb2 81.Nc2 a1=Q+ 82.Nxa1 Kxa1
 [CCT7](CCT7 "CCT7"), round 5, [Quark](Quark "Quark") - Chezzz
 
 ```
-
 [Event "CCT7"]
 [Site "Internet Chess Club"]
 [Date "2005.02.12"]

@@ -21,7 +21,6 @@ Bodo competed in a number of online computer chess tournaments, the [NC3 2003](N
 [NC3 2005](NC3_2005 "NC3 2005"), round 2, Bodo - [KnightCap](KnightCap "KnightCap")
 
 ```
-
 [Event "NC3 2005"]
 [Site "RedHill, Canberra, Australia"]
 [Date "2005.07.17"]

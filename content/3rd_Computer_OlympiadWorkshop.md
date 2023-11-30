@@ -205,7 +205,6 @@ The **Third Computer Olympiad** was held from August 22 to 28, [1991](Timeline#1
 Round 4, [Chessmachine](ChessMachine "ChessMachine") [King](The_King "The King") - [Chessmachine](ChessMachine "ChessMachine") [WK](Gideon "Gideon") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
-
 [Event "3rd Computer Olympiad"]
 [Site "Maastricht, The Netherlands"]
 [Date "1991.08.??"]

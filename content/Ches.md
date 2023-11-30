@@ -14,7 +14,6 @@ a chess program developed by a team of researchers and students affiliated with 
 [ACM 1973](ACM_1973 "ACM 1973"), round 1, [CHAOS](CHAOS "CHAOS") - Ches <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
-
 [Event "ACM 1973"]
 [Site "Atlanta USA"]
 [Date "1973.08.26"]
@@ -33,7 +32,6 @@ a chess program developed by a team of researchers and students affiliated with 
 [ACM 1973](ACM_1973 "ACM 1973"), round 3, [Belle](Belle "Belle") - Ches
 
 ```
-
 [Event "ACM 1973"]
 [Site "Atlanta USA"]
 [Date "1973.08.27"]

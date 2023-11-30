@@ -18,7 +18,6 @@ Belle consists of a special-purpose hardware and associated software, and was pu
 Belle, [Joe Condon](Joe_Condon "Joe Condon") and [Ken Thompson](Ken_Thompson "Ken Thompson") revisiting the [1978 ACM](ACM_1978 "ACM 1978") [Blitz 6.5](Blitz "Blitz") - Belle game (1982) <a id="cite-note-4" href="#cite-ref-4">[4]</a> <a id="cite-note-5" href="#cite-ref-5">[5]</a>
 
 ```
-
 [Event "ACM 1978"]
 [Site "Washington D.C."]
 [Date "1978.12.06"]
@@ -39,7 +38,6 @@ Belle, [Joe Condon](Joe_Condon "Joe Condon") and [Ken Thompson](Ken_Thompson "Ke
 Belle vs [CHAOS](CHAOS "CHAOS"), [WCCC 1980](WCCC_1980 "WCCC 1980"), [Thompson](Ken_Thompson "Ken Thompson"), [Friedel](Frederic_Friedel "Frederic Friedel"), [Berman](Victor_Berman "Victor Berman") <a id="cite-note-6" href="#cite-ref-6">[6]</a>, [Swartz](Fred_Swartz "Fred Swartz"), [Donskoy](Mikhail_Donskoy "Mikhail Donskoy") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
-
 [Event "WCCC 1980"]
 [Site "Linz, Austria"]
 [Date "1980.09.29"]

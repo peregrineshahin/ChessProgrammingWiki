@@ -95,7 +95,6 @@ Following game between SOMA and [Machiavelli](Machiavelli "Machiavelli") was pla
 
 
 ```
-
 [Event "?"]
 [Site "?"]
 [Date "1961.??.??"]

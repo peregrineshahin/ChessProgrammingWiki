@@ -19,7 +19,6 @@ a mainframe chess program by [Juha Kasanen](Juha_Kasanen "Juha Kasanen"), [Mika 
 
 
 ```
-
 [Event "WCCC 1983"]
 [Site "New York, USA"]
 [Date "1983.10.22"]
@@ -50,7 +49,6 @@ Re8 40.Kd2 Ng6 41.Rb7 Ra8 42.Ke3 Ra6 43.Rb8+ Nf8 44.Rd8 Rxa4 45.Bd6 g6
 
 
 ```
-
 [Event "WCCC 1983"]
 [Site "New York, USA"]
 [Date "1983.10.25"]

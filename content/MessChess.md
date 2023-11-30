@@ -31,7 +31,6 @@ MessChess applies [PVS](Principal_Variation_Search "Principal Variation Search")
 
 
 ```
-
 [Event "WCRCC 2008"]
 [Site "Internet Chess Club"]
 [Date "2008.06.22"]

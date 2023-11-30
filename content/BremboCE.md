@@ -19,7 +19,6 @@ running either as standalone WinBoard engine, or as [Java applet](https://en.wik
 [CCC 2009](CCC_2009 "CCC 2009"), round 4, [Stefano Malloggi](Stefano_Malloggi "Stefano Malloggi") and [Gianluca Cisana](Gianluca_Cisana "Gianluca Cisana"), BremboCE - [Chaturanga](Chaturanga_IT "Chaturanga IT") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "CCC 2009"]
 [Site "Carugate, ITA"]
 [Date "2009.11.08"]

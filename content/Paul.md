@@ -23,7 +23,6 @@ The [evaluation](Evaluation "Evaluation") was a little bit ad hoc and not that w
 
 
 ```
-
 [Event "WMCCC 1989"]
 [Site "Portorož, Slovenia"]
 [Date "1989.09.??"]

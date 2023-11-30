@@ -21,7 +21,6 @@ an early chess program written in [APL](index.php?title=APL&action=edit&redlink=
 
 
 ```
-
 [Event "ACM 1973"]
 [Site "Atlanta USA"]
 [Date "1973.08.26"]

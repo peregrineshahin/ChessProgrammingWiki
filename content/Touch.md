@@ -21,7 +21,6 @@ a chess program by [Jos Uiterwijk](Jos_Uiterwijk "Jos Uiterwijk"), written in [C
 
 
 ```
-
 [Event "DOCCC 1993"]
 [Site "Leiden NED"]
 [Date "1993.10.??"]

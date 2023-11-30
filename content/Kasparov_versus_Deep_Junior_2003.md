@@ -15,7 +15,6 @@ The **Kasparov versus Deep Junior Match 2003** between at that time world No. 1 
 
 
 ```
-
 [Event "Man vs Machine"]
 [Site "New York, NY USA"]
 [Date "2003.01.26"]
@@ -40,7 +39,6 @@ The **Kasparov versus Deep Junior Match 2003** between at that time world No. 1 
 
 
 ```
-
 [Event "Man vs Machine"]
 [Site "New York, NY USA"]
 [Date "2003.01.28"]
@@ -61,7 +59,6 @@ Qa1+ 26.Nf1 f4 27.Ra8 e3 28.fxe3 fxe3 29.Qxf8+ Kxf8 30.Rxc8+ Kf7 1/2-1/2
 
 
 ```
-
 [Event "Man vs Machine"]
 [Site "New York, NY USA"]
 [Date "2003.01.30"]
@@ -87,7 +84,6 @@ Kg8 34.Ne7+ Kf8 35.Nd5 Qg7 36.Qxd4 Rxd5 0-1
 
 
 ```
-
 [Event "Man vs Machine"]
 [Site "New York, NY USA"]
 [Date "2003.02.02"]
@@ -116,7 +112,6 @@ Annotations by [Kurt Utzinger](Kurt_Utzinger "Kurt Utzinger") <a id="cite-note-3
 
 
 ```
-
 [Event "Man vs Machine"]
 [Site "New York, NY USA"]
 [Date "2003.02.05"]
@@ -155,7 +150,6 @@ Deep Junior (Utzinger,K)} 16... Kh8 17. Ng3 Nh2+ 18. Kf2 Ng4+ 19. Kf3 Nh2+
 
 
 ```
-
 [Event "Man vs Machine"]
 [Site "New York, NY USA"]
 [Date "2003.07.02"]
@@ -217,7 +211,6 @@ Advanced Chess between [Alon Greenfeld](index.php?title=Alon_Greenfeld&action=ed
 
 
 ```
-
 [Event "Advanced Chess Match"]
 [Site "University of Haifa"]
 [Date "2002.10.15"]

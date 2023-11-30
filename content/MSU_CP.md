@@ -19,7 +19,6 @@ versus [Coko III](Coko "Coko")
 
 
 ```
-
 [Event "ACM 1972"]
 [Site "Boston USA"]
 [Date "1972.08.13"]
@@ -46,7 +45,6 @@ versus [Ostrich](Ostrich "Ostrich")
 
 
 ```
-
 [Event "ACM 1972"]
 [Site "Boston USA"]
 [Date "1972.08.14"]
@@ -72,7 +70,6 @@ versus [Leverett CP](Leverett_CP "Leverett CP")
 
 
 ```
-
 [Event "ACM 1972"]
 [Site "Boston USA"]
 [Date "1972.08.15"]

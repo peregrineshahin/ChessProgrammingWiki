@@ -20,7 +20,6 @@ Small-C played many [French Computer Chess Championships](French_Computer_Chess_
 
 
 ```
-
 [Event "Massy 2001"]
 [Site "Massy"]
 [Date "2001.06.10"]

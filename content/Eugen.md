@@ -31,7 +31,6 @@ Eugen born in 1994 like a personal free time project, initially written in [Pasc
 [WMCCC 1997](WMCCC_1997 "WMCCC 1997"), round 1, Eugen 7.2 - [Junior](Junior "Junior") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
-
 [Event "WMCCC 1997"]
 [Site "Paris, France"]
 [Date "1997.10.26"]

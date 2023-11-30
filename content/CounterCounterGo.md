@@ -67,7 +67,6 @@ along with an intuitive source structure, licensed under the [GPL v3.0](Free_Sof
 [CCCCISC 2008](CCCCISC_2008 "CCCCISC 2008"), round 5, Counter - [SmarThink](SmarThink "SmarThink") <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
-
 [Event "CIS 2008"]
 [Site "Moscow SDCHESS RGSU"]
 [Date "2008.03.02"]

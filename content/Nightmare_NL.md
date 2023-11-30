@@ -24,7 +24,6 @@ Nightmare had its official tournament debut at the [3rd Dutch Computer Chess Cha
 
 
 ```
-
 [Event "DOCCC 1983"]
 [Site "Leiden NED"]
 [Date "1983.10.??"]
@@ -50,7 +49,6 @@ Kxf7 29.Ra5 Rc2 30.Na2 Qd3 31.Nc3 Qxc3+ 32.Kf1 Qd3+ 33.Ke1 Qe2# 0-1
 
 
 ```
-
 [Event "WCRCC 2013"]
 [Site "Internet Chess Club"]
 [Date "2013.07.20"]

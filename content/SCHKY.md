@@ -19,7 +19,6 @@ a chess program by [Bert van der Liet](index.php?title=Bert_van_der_Liet&action=
 
 
 ```
-
 [Event "DOCCC 1986"]
 [Site "Leiden, NL"]
 [Date "1986.09.13"]

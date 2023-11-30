@@ -86,7 +86,6 @@ In 1958, [Kronrod](Alexander_Kronrod "Alexander Kronrod"), [Adelson-Velsky](Geor
 
 
 ```
-
 [Event "Stanford-ITEP Match"]
 [Site "Stanford Moscow"]
 [Date "1966.??.??"]
@@ -108,7 +107,6 @@ Rxd3 25.cxd3 Rd8 26.Ra1 Qd6 27.d4 exd4 28.cxd4 Nxb3 29.axb3 a5 30.Ra4 Qe6 31.Ne5
 
 
 ```
-
 [Event "Stanford-ITEP Match"]
 [Site "Stanford Moscow"]
 [Date "1967.??.??"]
@@ -131,7 +129,6 @@ Bc4 17.Qe1 Qc7 18.Bb4 a5 19.Ba3 Kh8 20.Ng5 h6 21.Ne4 Rfd8 22.Nxd6 Rxd6 23.Bxd6 Q
 
 
 ```
-
 [Event "Stanford-ITEP Match"]
 [Site "Stanford Moscow"]
 [Date "1967.??.??"]
@@ -151,7 +148,6 @@ Nf6 9.e5 Ne4 10.Qd3 Nc5 11.Qd5 Ne6 12.f5 Ng5 13.h4 f6 14.hxg5 fxg5 15.Rxh7 Rf8
 
 
 ```
-
 [Event "Stanford-ITEP Match"]
 [Site "Stanford Moscow"]
 [Date "1967.??.??"]

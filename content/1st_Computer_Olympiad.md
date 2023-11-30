@@ -327,7 +327,6 @@ Operators
 [Rebel](Rebel "Rebel") - [Fidelity X](Fidelity "Fidelity") <a id="cite-note-11" href="#cite-ref-11">[11]</a>
 
 ```
-
 [Event "1st Computer Olympiad"]
 [Site "London, United Kingdom"]
 [Date "1989.08.??"]

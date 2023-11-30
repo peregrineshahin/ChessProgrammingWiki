@@ -23,7 +23,6 @@ The given name Fritz originated as a German nickname for [Friedrich](https://en.
 [WCCC 1995](WCCC_1995 "WCCC 1995"), round 5, [Deep Blue Prototype](Deep_Blue "Deep Blue") - Fritz <a id="cite-note-12" href="#cite-ref-12">[12]</a>
 
 ```
-
 [Event "WCCC 1995"]
 [Site "Chinese University HKG"]
 [Date "1995.05.29"]
@@ -49,7 +48,6 @@ Be7 36.a4 f4 37.gxf4 Qxf4 38.Rg1 Nxa4 39.b4 Qxb4 0-1
 [WCCC 1995](WCCC_1995 "WCCC 1995") Playoff, [Star Socrates](Star_Socrates "Star Socrates") - Fritz, [Chris Joerg](Chris_Joerg "Chris Joerg"), [Don Dailey](Don_Dailey "Don Dailey"), [Frans Morsch](Frans_Morsch "Frans Morsch"), and [Mathias Feist](Mathias_Feist "Mathias Feist") @ 26... Nd5 <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 ```
-
 [Event "WCCC 1995"]
 [Site "Chinesse University HKG"]
 [Date "1995.05.30"]

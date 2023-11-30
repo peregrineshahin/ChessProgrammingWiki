@@ -24,7 +24,6 @@ During the 1981 [CeBIT](https://en.wikipedia.org/wiki/CeBIT) fair in [Hanover](h
 
 
 ```
-
 [Event "WMCCC 1980"]
 [Site "London, United Kingdom"]
 [Date "1980.09.06"]

@@ -50,7 +50,6 @@ The program is a more or less simple [Shannon-A](Type_A_Strategy "Type A Strateg
 
 
 ```
-
 [Event "WCCC 1980"]
 [Site "Linz, Austria"]
 [Date "1980.09.28"]
@@ -77,7 +76,6 @@ Bxc3 15.Bxc3 d5 16.a4 d4 17.Bd2 bxa4 18.Rxa4 c5 19.Ba5 Qd7 20.Qc2 Ba6
 
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.11"]
@@ -103,7 +101,6 @@ Kb8 22.Bh5 g6 23.Bf3 Qe7 24.Rad1 Rd8 25.R1d2 h5 26.Qb3 Ng5 27.Bd5 Ra5
 
 
 ```
-
 [Event "WMCCC 1996"]
 [Site "Jakarta, Indonesia"]
 [Date "1996.10.??"]

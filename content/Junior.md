@@ -24,7 +24,6 @@ a chess engine by primary programmer [Amir Ban](Amir_Ban "Amir Ban") and [Shay B
 
 
 ```
-
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.05.27"]

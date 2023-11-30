@@ -54,7 +54,6 @@ One major modification for [TDLeaf](Temporal_Difference_Learning#TDLeaf "Tempora
 
 
 ```
-
 [Event "NC3 2006"]
 [Site "RedHill, Canberra, Australia"]
 [Date "2006.08.20"]

@@ -15,7 +15,6 @@ He is further [opening book author](Category:Opening_Book_Author "Category:Openi
 [Ubaldo](Ubaldo_Andrea_Farina "Ubaldo Andrea Farina"), [Nietta](Antonia_Jeanrenaud "Antonia Jeanrenaud"), [Stefano](Stefano_Malloggi "Stefano Malloggi") and Eros, [WCCC 2006](WCCC_2006 "WCCC 2006") Turin, [Chiron](Chiron "Chiron") vs. [Diep](Diep "Diep") <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "WCCC 2006"]
 [Site "Turin, Italy"]
 [Date "2006.06.01"]

@@ -12,7 +12,6 @@ the [Georgia Tech](Georgia_Institute_of_Technology "Georgia Institute of Technol
 [ACM 1973](ACM_1973 "ACM 1973"), round 2, [T. Belle](Belle "Belle") - Ga Tech CP
 
 ```
-
 [Event "ACM 1973"]
 [Site "Atlanta USA"]
 [Date "1973.08.26"]

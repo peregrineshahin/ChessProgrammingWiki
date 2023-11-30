@@ -12,7 +12,6 @@ a chess program written by [Lincoln Shannon](index.php?title=Lincoln_Shannon&act
 [ACM 1976](ACM_1976 "ACM 1976"), round 4, [L'Excentrique](L%27Excentrique "L'Excentrique") - Chesstar <a id="cite-note-3" href="#cite-ref-3">[3]</a> <a id="cite-note-4" href="#cite-ref-4">[4]</a>
 
 ```
-
 [Event "ACM 1976"]
 [Site "Houston TX"]
 [Date "1976.10.21"]

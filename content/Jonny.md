@@ -23,7 +23,6 @@ a [Chess Engine Communication Protocol](Chess_Engine_Communication_Protocol "Che
 
 
 ```
-
 [Event "WCCC 2013"]
 [Site "Yokohama, Japan"]
 [Date "2013.08.12"]
@@ -59,7 +58,6 @@ Kc7 51.Be4 Kb8 52.Rh2 Ka7 53.Bf5 54.Bd7 Rd8 55.Bf5 Re8 56.Bc2 Ka7 57.Bd1 b5
 
 
 ```
-
 [Event "WCCC 2015"]
 [Site "Leiden, The Netherlands"]
 [Date "2015.07.01"]
@@ -103,7 +101,6 @@ Bg8 93.Kd1 Ng3 94.Kc2 Ne4 95.Ne1 Kc8 96.Bb6 Bf7 97.Kc1 Kd7 98.Bf3 Ng3 99.Kd2 Nf1
 
 
 ```
-
 [Event "WCCC 2015"]
 [Site "Leiden, The Netherlands"]
 [Date "2015.07.03"]
@@ -138,7 +135,6 @@ Rg8 71.Kh1 Ng4 72.Nbc3 Kd7 73.Bd3 Kc6 74.Bf1 Kc5 75.Nb5 Nf6 76.Bd3 Kb4 77.Nc7 Rc
 
 
 ```
-
 [Event "WCCC 2016"]
 [Site "Leiden"]
 [Date "2016.06.29"]

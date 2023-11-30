@@ -13,7 +13,6 @@ a chess computer and program developed by [Karl-Heinz Milaster](Karl-Heinz_Milas
 [WMCCC 1993](WMCCC_1993 "WMCCC 1993"), round 7, Chess Brain - [Nightmare](Nightmare_GER "Nightmare GER") <a id="cite-note-2" href="#cite-ref-2">[2]</a>
 
 ```
-
 [Event "WMCCC 1993"]
 [Site "Munich, Germany"]
 [Date "1993.11.0?"]

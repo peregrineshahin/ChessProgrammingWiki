@@ -71,7 +71,6 @@ From left, [Fred Swartz](Fred_Swartz "Fred Swartz") (rear), [Vic Berman](Victor_
 [Slate](David_Slate "David Slate"), [Swartz](Fred_Swartz "Fred Swartz"), and [Berman](Victor_Berman "Victor Berman") in CHAOS vs [Chess 4.0](</Chess_(Program)> "Chess (Program)"), [WCCC 1974](WCCC_1974 "WCCC 1974") <a id="cite-note-13" href="#cite-ref-13">[13]</a> <a id="cite-note-14" href="#cite-ref-14">[14]</a>
 
 ```
-
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.06"]
@@ -101,7 +100,6 @@ Ka4 65.Rb7 Ka5 66.Rb8 Ka4 67.Rb1 Ka3 68.Rb7 Ka4 69.Rb8 Ka5 70.Kg7 Ka4 71.Rb7 Ka5
 [Belle](Belle "Belle") vs CHAOS, [WCCC 1980](WCCC_1980 "WCCC 1980"), [Thompson](Ken_Thompson "Ken Thompson"), [Friedel](Frederic_Friedel "Frederic Friedel"), [Berman](Victor_Berman "Victor Berman") <a id="cite-note-15" href="#cite-ref-15">[15]</a> , [Swartz](Fred_Swartz "Fred Swartz"), [Donskoy](Mikhail_Donskoy "Mikhail Donskoy") <a id="cite-note-16" href="#cite-ref-16">[16]</a> <a id="cite-note-17" href="#cite-ref-17">[17]</a>
 
 ```
-
 [Event "WCCC 1980"]
 [Site "Linz, Austria"]
 [Date "1980.09.29"]

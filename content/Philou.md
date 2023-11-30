@@ -20,7 +20,6 @@ Philou uses standard techniques such as [iterative deepening](Iterative_Deepenin
 
 
 ```
-
 [Event "TCEC Season 2 - Division F"]
 [Site "http://tcec.chessdom.com"]
 [Date "2011.02.17"]

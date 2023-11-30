@@ -110,7 +110,6 @@ During the tournament we had not been linked directly to Peter Kent in Stockholm
 
 
 ```
-
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.07"]
@@ -132,7 +131,6 @@ Qc8 16.Bf4 Qh3+ 17.Ke2 Nd8 18.Bxd6+ cxd6 19.Qxd6+ Kf7 20.Rhg1 Rg8 21.Rb5 g6
 
 
 ```
-
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.08"]
@@ -162,7 +160,6 @@ Ka2 49.Ng6 Kb1 50.Kb3 Kc1 51.Nf4 Kb1 52.Nd3 a5 53.Bxa5 Ka1 54.h4 Kb1 55.h5 Ka1
 
 
 ```
-
 [Event "WCCC 1977"]
 [Site "Toronto, Canada"]
 [Date "1977.08.07"]
@@ -189,7 +186,6 @@ f5 23.b3 Nc6 24.Bb2 Ne5 25.Bxe5 Bxe5 26.Raf1 g6 27.h3 c5 28.d4 cxd4 29.exd4 Bd6
 
 
 ```
-
 [Event "WCCC 1980"]
 [Site "Linz, Austria"]
 [Date "1980.09.27"]

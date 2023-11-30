@@ -40,7 +40,6 @@ In 1991, BP played the *Illinois Open*, where it became runner-up with a win ver
 [WCCC 1989](WCCC_1989 "WCCC 1989"), round 2, Mulder BP - [Pandix](Pandix "Pandix") <a id="cite-note-7" href="#cite-ref-7">[7]</a>
 
 ```
-
 [Event "WCCC 1989"]
 [Site "Edmonton, Canada"]
 [Date "1989.05.28"]
@@ -63,7 +62,6 @@ Rxd2 27.Kxd2 b5 28.b3 h5 29.c4 bxc4 30.bxc4 Be6 31.Kd3 g6 32.a4 Bd7 33.a5 a6 34.
 Illinois Open, round 3, BP - [Dmitry Gurevich](https://en.wikipedia.org/wiki/Dmitry_Gurevich) <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ```
-
 [Event "Illinois Open"]
 [Site "Rosemont, IL"]
 [Date "1991.??.??"]

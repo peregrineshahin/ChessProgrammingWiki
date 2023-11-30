@@ -14,7 +14,6 @@ an American computer scientist, former [Microsoft](Microsoft "Microsoft") employ
 [WCCC 1999](WCCC_1999 "WCCC 1999"): Bruce Moreland, [Frans Morsch](Frans_Morsch "Frans Morsch"), [Matthias Wüllenweber](Matthias_W%C3%BCllenweber "Matthias Wüllenweber"), [Ferret](Ferret "Ferret") - [Fritz](Fritz "Fritz") <a id="cite-note-5" href="#cite-ref-5">[5]</a> <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
-
 [Event "WCCC 1999"]
 [Site "Paderborn, Germany"]
 [Date "1999.06.19"]

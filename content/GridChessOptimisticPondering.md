@@ -43,7 +43,6 @@ GridChess played the [IPCCC 2006](IPCCC_2006 "IPCCC 2006"), and shared third pla
 [WCCC 2007](WCCC_2007 "WCCC 2007"), round 8, GridChess - [Shredder](Shredder "Shredder") <a id="cite-note-8" href="#cite-ref-8">[8]</a>
 
 ```
-
 [Event "WCCC 2007"]
 [Site "Amsterdam, The Netherlands"]
 [Date "2007.06.16"]

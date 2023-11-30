@@ -29,7 +29,6 @@ The engine supports UCI GUIs like [Arena](Arena "Arena"), [ChessGUI](ChessGUI "C
 The following game versus [Pulsar](Pulsar "Pulsar") represents the current strength of the engine (about 2100):
 
 ```
-
 [Event "Test Game"]
 [Site "INTEL-CORE-DUO-"]
 [Date "2014.07.08"]

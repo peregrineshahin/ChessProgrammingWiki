@@ -17,7 +17,6 @@ Excerpt from [Danny Kopec](Danny_Kopec "Danny Kopec"), [Monroe Newborn](Monroe_N
 Delicate Brute played an interesting pawn sacrifice against [M Chess](MChess "MChess"), but could never convert its temporal advantages into anything concrete. After that, M Chess was in complete command.
 
 ```
-
 [Event "ACM 1991"]
 [Site "Albuquerque, USA"]
 [Date "1991.11.12"]
@@ -39,7 +38,6 @@ Kxh7 26.g4 Rh8 27.b4 Kg8+ 28.Nh5 Ng3+ 29.Kg2 Nxh5 30.gxh5 Bh3+ 31.Kg3 Bf5 32.Qc4
 Delicate Brute played beautiful chess against [Zarkov](Zarkov "Zarkov"), but eventually fell prey to some tactical nuances. Even then, a draw was possible.
 
 ```
-
 [Event "ACM 1991"]
 [Site "Albuquerque, USA"]
 [Date "1991.11.12"]
@@ -63,7 +61,6 @@ Kh8 26.Rde1 Rxe1 27.Rxe1 Rf8 28.Re8 Qf6 29.Qxf6 gxf6 30.Re7 Rd8 31.Bc1 c5 32.Bf4
 Delicate Brute vs. [Bebe](Bebe "Bebe") was a back-and-forth game where Delicate Brute seemingly held the upper hand most of the time. Then, for some strange reason, Delicate Brute refused to play the winning idea of creating a [passed](Passed_Pawn "Passed Pawn") queen's rook pawn and actually helped Bebe create counterplay in the form of a Bebe passed king pawn. After that, Bebe was without mercy.
 
 ```
-
 [Event "ACM 1991"]
 [Site "Albuquerque, USA"]
 [Date "1991.11.12"]
@@ -87,7 +84,6 @@ Re8 33.Nc5 Kf7 34.Nd7 e4 35.Nxd4 e3 36.Nc2 e2 37.Ne1 Rc8 38.Ne5+ Kf6 39.f4 Kf5 4
 [Lachex](Lachex "Lachex") vs. Delicate Brute was interesting in that White had nearly all its pawns advanced and all its pieces on the first rank at one point. Delicate Brute was unable to cope with all these goings on and was mated in less than 30 moves.
 
 ```
-
 [Event "ACM 1991"]
 [Site "Albuquerque, USA"]
 [Date "1991.11.12"]
@@ -108,7 +104,6 @@ Re8 33.Nc5 Kf7 34.Nd7 e4 35.Nxd4 e3 36.Nc2 e2 37.Ne1 Rc8 38.Ne5+ Kf6 39.f4 Kf5 4
 Delicate Brute was doing well as Black in a Petroff Defense against [Socrates](Socrates "Socrates") until 12...g5. [Don Beal](Don_Beal "Don Beal"), the programmer, explained that the machine has no [king safety](King_Safety "King Safety") criteria and such moves are the result. Socrates soon thereafter put several pieces [en prise](En_prise "En prise") enroute to a mating attack.
 
 ```
-
 [Event "ACM 1991"]
 [Site "Albuquerque, USA"]
 [Date "1991.11.12"]

@@ -13,7 +13,6 @@ a chess program by [Louis Kessler](Louis_Kessler "Louis Kessler") that participa
 [ACM 1977](ACM_1977 "ACM 1977"), round 4, Brute Force - [8080 Chess](8080_Chess "8080 Chess")
 
 ```
-
 [Event "ACM 1977"]
 [Site "Seattle USA"]
 [Date "1977.10.17"]

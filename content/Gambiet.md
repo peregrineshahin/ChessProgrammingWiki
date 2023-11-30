@@ -63,7 +63,6 @@ Gambiet order form by [Microtrend](Microtrend "Microtrend"), U.S.A., [InfoWorld]
 [WMCCC 1980](WMCCC_1980 "WMCCC 1980"), round 3, Gambiet 80 - [Sargon 2.5 Auto RB](Sargon "Sargon") <a id="cite-note-15" href="#cite-ref-15">[15]</a>
 
 ```
-
 [Event "WMCCC 1980"]
 [Site "London, United Kingdom"]
 [Date "1980.09.05"]
@@ -89,7 +88,6 @@ Gambiet order form by [Microtrend](Microtrend "Microtrend"), U.S.A., [InfoWorld]
 [DOCCC 1982](DOCCC_1982 "DOCCC 1982"), round 8, upcoming tournament winner Gambiet 82 loses from newcomer [Rebel](Rebel "Rebel") <a id="cite-note-16" href="#cite-ref-16">[16]</a>
 
 ```
-
 [Event "DOCCC 1982"]
 [Site "Wageningen NED"]
 [Date "1982.10.??"]

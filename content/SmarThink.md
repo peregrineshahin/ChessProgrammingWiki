@@ -43,7 +43,6 @@ SmarThink played various tournaments in Russia, and became Russian computer ches
 
 
 ```
-
 [Event "CCCCISC 2008"]
 [Site "Moscow SDCHESS RGSU"]
 [Date "2008.02.29"]

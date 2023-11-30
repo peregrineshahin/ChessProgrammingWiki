@@ -117,7 +117,6 @@ static int key135(long b, int f) {return keyDiag(b & bmask135[f]);}
 
 
 ```
-
 [Event "CCT6"]
 [Site "Internet Chess Club"]
 [Date "2004.01.31"]
@@ -146,7 +145,6 @@ Nxa3 49.Ra1 Nc4 50.Rb1 a3 51.Nc1 Nb2+ 52.Kc2 d4 53.Na2 d3+ 54.Kd2 Rd5 55.c4 Nxc4
 
 
 ```
-
 [Event "CCT6"]
 [Site "Internet Chess Club"]
 [Date "2004.02.01"]

@@ -23,7 +23,6 @@ February, 1982:
 - [Super System V](Chess_Champion_Mark_V "Chess Champion Mark V") : 4/10
 
 ```
-
 [Event "Rapid Open 1982"]
 [Site "Aubervilliers"]
 [Date "1982.??.??"]
@@ -107,7 +106,6 @@ More than 1000 players !
 - [Écume](%C3%89cume "Écume") ([Weill](Jean-Christophe_Weill "Jean-Christophe Weill") and [Baudot](Marc-Fran%C3%A7ois_Baudot "Marc-François Baudot")) on a [486](X86 "X86") 66Mhz, perf :1930
 
 ```
-
 [Event "Rapid Open 1994"]
 [Site "Aubervilliers"]
 [Date "1994.01.??"]
@@ -126,7 +124,6 @@ Nxf6 23.Rxf6 Kxg7 24.Rxg6+ 1-0
 [Game and short analyze on Lichess.org](https://en.lichess.org/a7Dx1n6m)
 
 ```
-
 [Event "Rapid Open 1994"]
 [Site "Aubervilliers"]
 [Date "1994.01.??"]
@@ -164,7 +161,6 @@ Kg8 42.c5 Kf8 43.Ke2 Ke7 44.Ke3 f6 45.Nb6 Nc3 46.f3 Bf5 47.Bc4 g5 48.Na4 e4
 - [ZChess 1.20](ZChess "ZChess") ([Franck Zibi](Franck_Zibi "Franck Zibi")) : 9/12, perf : 2312
 
 ```
-
 [Event "Rapid Open 1999"]
 [Site "Aubervilliers"]
 [Date "1999.01.31"]

@@ -26,7 +26,6 @@ The [Motorola](index.php?title=Motorola&action=edit&redlink=1 "Motorola (page do
 
 
 ```
-
 [Event "WMCCC 1983"]
 [Site "Budapest, Hungary"]
 [Date "1983.10.13"]

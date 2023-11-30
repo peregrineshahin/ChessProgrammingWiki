@@ -126,7 +126,6 @@ The **First GI Computer Chess Tournament** took place from October 17-20, [1975]
 A tie-break match between Tell and Daja, both with two and a half points, and drawing each other just before in round three, finally decided the tournament in favor to [Johann Joss'](Johann_Joss "Johann Joss") program.
 
 ```
-
 [Event "First GI Computer Chess Tournament"]
 [Site "Dortmund"]
 [Date " 1975.10.10"]

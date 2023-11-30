@@ -65,7 +65,6 @@ A win in the following last round game would have given Ostrich a tie for first 
 
 
 ```
-
 [Event "WCCC 1974"]
 [Site "Stockholm, Sweden"]
 [Date "1974.08.08"]
@@ -98,7 +97,6 @@ Rd4 53.Rhc3 Rxe4 54.Ra1 Rd4 55.Rxc4 Rxc4 56.g3 f3 57.h3 Rc2 58.Rd1 Rd2
 
 
 ```
-
 [Event "ACM 1979"]
 [Site "Detroit USA"]
 [Date "1979.10.30"]

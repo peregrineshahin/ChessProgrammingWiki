@@ -21,7 +21,6 @@ A Micro Chess prototype had a [move generation](Move_Generation "Move Generation
 
 
 ```
-
 [Event "CPWTIPC 1981"]
 [Site "Paris, France"]
 [Date "1981.05.28"]

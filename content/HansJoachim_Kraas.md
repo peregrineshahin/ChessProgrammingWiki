@@ -16,7 +16,6 @@ a German computer scientist, county league tournament chess player <a id="cite-n
 [WCCC 1986](WCCC_1986 "WCCC 1986"), round 4, [Bobby](Bobby "Bobby") - [Mephisto X](Mephisto "Mephisto") <a id="cite-note-6" href="#cite-ref-6">[6]</a>
 
 ```
-
 [Event "WCCC 1996]
 [Site "Cologne, Germany"]
 [Date "1986.06.14"]

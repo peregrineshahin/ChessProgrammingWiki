@@ -26,7 +26,6 @@ Team Equinox celebrating [IOCSC 2012](IOCSC_2012 "IOCSC 2012") at [Galleria Albe
 Festival della Scienza Futuro, [Genoa](https://en.wikipedia.org/wiki/Genoa), [Igor Efimov](http://it.wikipedia.org/wiki/Igor_Efimov) - Equinox <a id="cite-note-10" href="#cite-ref-10">[10]</a>
 
 ```
-
 [Event "Festival della Scienza Futuro"]
 [Site "Genoa, Italy"]
 [Date "2009.11.01"]

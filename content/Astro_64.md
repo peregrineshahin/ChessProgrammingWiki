@@ -13,7 +13,6 @@ Astro 64 searched about 10,000 positions per minute (166 [nps](Nodes_per_Second 
 <a id="cite-note-3" href="#cite-ref-3">[3]</a>
 
 ```
-
 [Event "Public Chess Match"]
 [Site "Romania"]
 [Date "1978/79"]

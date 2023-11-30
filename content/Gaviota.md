@@ -75,7 +75,6 @@ Gaviota played various [ACCA Americas' Computer Chess Championships](ACCA_Americ
 [WCRCC 2013](WCRCC_2013 "WCRCC 2013"), [EXchess](EXchess "EXchess") - Gaviota <a id="cite-note-9" href="#cite-ref-9">[9]</a>
 
 ```
-
 [Event "WCRCC 2013"]
 [Site "Internet Chess Club"]
 [Date "2013.07.20"]

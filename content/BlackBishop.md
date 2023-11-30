@@ -16,7 +16,6 @@ BlackBishop was most active in 2004, playing the [IPCCC 2004](IPCCC_2004 "IPCCC 
 [CCT6](CCT6 "CCT6"), round 2, [Tao](Tao "Tao") - BlackBishop
 
 ```
-
 [Event "CCT6 45 10"]
 [Site "Internet Chess Club"]
 [Date "2004.01.31"]

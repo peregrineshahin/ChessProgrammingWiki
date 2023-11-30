@@ -24,7 +24,6 @@ an experimental chess engine by [Gian-Carlo Pascutto](Gian-Carlo_Pascutto "Gian-
 
 
 ```
-
 [Event "ICT 2007"]
 [Site "Leiden, NED"]
 [Date "2007.05.18"]
@@ -53,7 +52,6 @@ Qf4+ 61.Kg1 Qc1+ 62.Kf2 Qc2+ 63.Ke3 b1=Q 0-1
 
 
 ```
-
 [Event "TCEC Season 18 - Division P"]
 [Site "https://tcec-chess.com"]
 [Date "2020.05.25"]

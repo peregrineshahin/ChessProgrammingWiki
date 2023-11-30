@@ -132,7 +132,6 @@ The program [Rebel](Rebel "Rebel") on a [6502 TurboKit TK20](6502#TK20 "6502") @
 
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.14"]
@@ -168,7 +167,6 @@ Round 4, [Bobby](Bobby "Bobby") - [Mephisto X](Mephisto "Mephisto") <a id="cite-
 
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.14"]
@@ -200,7 +198,6 @@ Round 4, [Schach 2.7](Schach "Schach") - [Cray Blitz](Cray_Blitz "Cray Blitz"), 
 
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.14"]
@@ -302,7 +299,6 @@ Other perspective <a id="cite-note-18" href="#cite-ref-18">[18]</a>
 
 
 ```
-
 [Event ""WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]
@@ -333,7 +329,6 @@ Game and short analyze on Lichess.org : [[4]](https://en.lichess.org/mnAkUmDn)
 
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]
@@ -366,7 +361,6 @@ Game and short analyze on Lichess.org : [[5]](https://en.lichess.org/HidtIfmD)
 
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]
@@ -400,7 +394,6 @@ Game and short analyze on Lichess.org : [[6]](https://en.lichess.org/Be5OMzpy)
 
 
 ```
-
 [Event "WCCC 1986"]
 [Site "Cologne, Germany"]
 [Date "1986.06.15"]

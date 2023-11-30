@@ -19,7 +19,6 @@ a chess program by [Lex Loep](Lex_Loep "Lex Loep"), which played the [WCCC 1995]
 
 
 ```
-
 [Event "DOCCC 1997"]
 [Site "Alphen a/d Rijn NED"]
 [Date "1997.11.22"]
