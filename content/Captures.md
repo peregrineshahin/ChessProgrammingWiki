@@ -13,138 +13,243 @@ With [mailbox](Mailbox "Mailbox") like square centric [board representations](Bo
 
 ## Six times Take Five
 
-|  Capture
-|  Best case
-|  Worst case
-|
-| --- | --- | --- |
-|  capturing with the pawn
-|
-|  pxQ
-|  winning queen
-|  pawn for queen
-|
-|  pxR
-|  winning rook
-|  pawn for rook
-|
-|  pxB
-|  winning bishop
-|  pawn for bishop
-|
-|  pxN
-|  winning knight
-|  pawn for knight
-|
-|  pxP
-|  winning pawn
-|  exchanging pawns
-|
-|  capturing with the knight
-|
-|  nxQ
-|  winning queen
-|  knight for queen
-|
-|  nxR
-|  winning rook
-|  winning the exchange
-|
-|  nxB
-|  winning bishop
-|  exchanging minors
-|
-|  nxN
-|  winning knight
-|  exchanging minors
-|
-|  nxP
-|  winning pawn
-|  losing knight for pawn
-|
-|  capturing with the bishop
-|
-|  bxQ
-|  winning queen
-|  bishop for queen
-|
-|  bxR
-|  winning rook
-|  winning the exchange
-|
-|  bxB
-|  winning bishop
-|  exchanging minors
-|
-|  bxN
-|  winning knight
-|  exchanging minors
-|
-|  bxP
-|  winning pawn
-|  losing bishop for pawn
-|
-|  capturing with the rook
-|
-|  rxQ
-|  winning queen
-|  rook for queen
-|
-|  rxR
-|  winning rook
-|  exchanging rooks
-|
-|  rxB
-|  winning bishop
-|  losing exchange
-|
-|  rxN
-|  winning knight
-|  losing exchange
-|
-|  rxP
-|  winning pawn
-|  losing rook for pawn
-|
-|  capturing with the queen
-|
-|  qxQ
-|  winning queen
-|  exchanging queens
-|
-|  qxR
-|  winning rook
-|  losing queen for rook
-|
-|  qxB
-|  winning bishop
-|  losing queen for bishop
-|
-|  qxN
-|  winning knight
-|  losing queen for knight
-|
-|  qxP
-|  winning pawn
-|  losing queen for pawn
-|
-|  capturing with the king, always winning captures
-|
-|  kxQ
-|  winning queen
-|  |
-|  kxR
-|  winning rook
-|  |
-|  kxB
-|  winning bishop
-|  |
-|  kxN
-|  winning knight
-|  |
-|  kxP
-|  winning pawn
-|  |
+<table class="wikitable">
+
+<tbody><tr>
+<th> Capture
+</th>
+<th> Best case
+</th>
+<th> Worst case
+</th></tr>
+<tr>
+<td colspan="3"> capturing with the pawn
+</td></tr>
+<tr>
+<td>  pxQ
+</td>
+<td>  winning queen
+</td>
+<td>  pawn for queen
+</td></tr>
+<tr>
+<td>  pxR
+</td>
+<td>  winning rook
+</td>
+<td>  pawn for rook
+</td></tr>
+<tr>
+<td>  pxB
+</td>
+<td>  winning bishop
+</td>
+<td>  pawn for bishop
+</td></tr>
+<tr>
+<td>  pxN
+</td>
+<td>  winning knight
+</td>
+<td>  pawn for knight
+</td></tr>
+<tr>
+<td>  pxP
+</td>
+<td>  winning pawn
+</td>
+<td>  exchanging pawns
+</td></tr>
+<tr>
+<td colspan="3"> capturing with the knight
+</td></tr>
+<tr>
+<td>  nxQ
+</td>
+<td>  winning queen
+</td>
+<td>  knight for queen
+</td></tr>
+<tr>
+<td>  nxR
+</td>
+<td>  winning rook
+</td>
+<td>  winning the exchange
+</td></tr>
+<tr>
+<td>  nxB
+</td>
+<td>  winning bishop
+</td>
+<td>  exchanging minors
+</td></tr>
+<tr>
+<td>  nxN
+</td>
+<td>  winning knight
+</td>
+<td>  exchanging minors
+</td></tr>
+<tr>
+<td>  nxP
+</td>
+<td>  winning pawn
+</td>
+<td>  losing knight for pawn
+</td></tr>
+<tr>
+<td colspan="3"> capturing with the bishop
+</td></tr>
+<tr>
+<td>  bxQ
+</td>
+<td>  winning queen
+</td>
+<td>  bishop for queen
+</td></tr>
+<tr>
+<td>  bxR
+</td>
+<td>  winning rook
+</td>
+<td>  winning the exchange
+</td></tr>
+<tr>
+<td>  bxB
+</td>
+<td>  winning bishop
+</td>
+<td>  exchanging minors
+</td></tr>
+<tr>
+<td>  bxN
+</td>
+<td>  winning knight
+</td>
+<td>  exchanging minors
+</td></tr>
+<tr>
+<td>  bxP
+</td>
+<td>  winning pawn
+</td>
+<td>  losing bishop for pawn
+</td></tr>
+<tr>
+<td colspan="3"> capturing with the rook
+</td></tr>
+<tr>
+<td>  rxQ
+</td>
+<td>  winning queen
+</td>
+<td>  rook for queen
+</td></tr>
+<tr>
+<td>  rxR
+</td>
+<td>  winning rook
+</td>
+<td>  exchanging rooks
+</td></tr>
+<tr>
+<td>  rxB
+</td>
+<td>  winning bishop
+</td>
+<td>  losing exchange
+</td></tr>
+<tr>
+<td>  rxN
+</td>
+<td>  winning knight
+</td>
+<td>  losing exchange
+</td></tr>
+<tr>
+<td>  rxP
+</td>
+<td>  winning pawn
+</td>
+<td>  losing rook for pawn
+</td></tr>
+<tr>
+<td colspan="3"> capturing with the queen
+</td></tr>
+<tr>
+<td>  qxQ
+</td>
+<td>  winning queen
+</td>
+<td>  exchanging queens
+</td></tr>
+<tr>
+<td>  qxR
+</td>
+<td>  winning rook
+</td>
+<td>  losing queen for rook
+</td></tr>
+<tr>
+<td>  qxB
+</td>
+<td>  winning bishop
+</td>
+<td>  losing queen for bishop
+</td></tr>
+<tr>
+<td>  qxN
+</td>
+<td>  winning knight
+</td>
+<td>  losing queen for knight
+</td></tr>
+<tr>
+<td>  qxP
+</td>
+<td>  winning pawn
+</td>
+<td>  losing queen for pawn
+</td></tr>
+<tr>
+<td colspan="3"> capturing with the king, always winning captures
+</td></tr>
+<tr>
+<td>  kxQ
+</td>
+<td>  winning queen
+</td>
+<td>
+</td></tr>
+<tr>
+<td>  kxR
+</td>
+<td>  winning rook
+</td>
+<td>
+</td></tr>
+<tr>
+<td>  kxB
+</td>
+<td>  winning bishop
+</td>
+<td>
+</td></tr>
+<tr>
+<td>  kxN
+</td>
+<td>  winning knight
+</td>
+<td>
+</td></tr>
+<tr>
+<td>  kxP
+</td>
+<td>  winning pawn
+</td>
+<td>
+</td></tr></tbody></table>
 
 ## See also
 
