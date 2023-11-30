@@ -25,6 +25,13 @@ details .h4 {
   font-size: 15px;
 }
 
+.wikitable,
+.wikitable td,
+.wikitable th,
+.wikitable tr {
+  border-width: 2.5px !important;
+}
+
 summary {
   display: flex;
   align-items: center;
@@ -413,9 +420,23 @@ pre code {
   color: #6e7681;
 }
 
+.wikitable,
+.wikitable td,
+.wikitable th,
+.wikitable tr {
+  border-color: var(--bs-body-color);
+}
+
 /* DARK MODE */
 
 [data-dark-mode] {
+  .wikitable,
+  .wikitable td,
+  .wikitable th,
+  .wikitable tr {
+    border-color: white;
+  }
+
   /* Background */
   .bg {
     background-color: #ffffff;
