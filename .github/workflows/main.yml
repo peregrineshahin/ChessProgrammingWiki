@@ -2,6 +2,7 @@ name: Pull from Wiki and Push to Content
 
 on:
   workflow_dispatch:
+  push:
   schedule:
     - cron: "30 10 * * *"
 
